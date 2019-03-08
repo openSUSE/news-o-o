@@ -1,0 +1,13 @@
+---
+author: News Team
+comments: true
+date: 2007-05-16 14:00:22+00:00
+
+layout: post
+link: https://news.opensuse.org/2007/05/16/opensuse-103-alpha-4-2/
+title: "openSUSE 10.3 Alpha 4"
+categories:
+- Announcements
+- Distribution
+---
+The fourth Alpha release of openSUSE 10.3 has been [released](http://lists.opensuse.org/opensuse-announce/2007-05/msg00003.html). [Some annoying bugs](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev) were already discovered.

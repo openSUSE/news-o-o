@@ -1,0 +1,13 @@
+---
+author: Douglas DeMaio
+comments: true
+date: 2016-05-24 06:20:28+00:00
+
+layout: post
+link: https://news.opensuse.org/2016/05/24/gsoc/
+title: "My First Step of Never Ending Open-Source Journey with openSUSE\
+  "
+---
+Embedded below is the blog of Google Summer of Code student[ Shalom Ray](https://shalom7blog.wordpress.com/about/). Ray provides an overview of his project Improving the one-click installer.
+
+		

@@ -1,0 +1,80 @@
+---
+layout: default
+---
+<ol class="breadcrumb">
+	<li class="breadcrumb-item"><a href="/"><span class="typcn typcn-news"></span> News</a></li>
+	<li class="breadcrumb-item"><a href="/{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y" }}</a></li>
+	<li class="breadcrumb-item"><a href="/{{ page.date | date: "%Y/%m" }}">{{ page.date | date: "%B" }}</a></li>
+	<li class="breadcrumb-item"><a href="/{{ page.date | date: "%Y/%m/%d" }}">{{ page.date | date: "%d" }}</a></li>
+	<li class="breadcrumb-item active text-truncate">{{ page.title }}</li>
+</ol>
+<div class="container my-5 article">
+	<div class="article-header col-md-9 col-12 mx-auto py-3">
+		<small class="text-center d-block text-muted">{{ page.date | date: "%b %d, %Y" }}</small>
+		<h1 class="decorated-title">{{ page.title }}</h1>
+		<small class="text-center d-block text-muted pb-3">{{ page.author }}</small>
+		{% if page.image %}
+		<img class="rounded mx-auto d-block w-100 card" src="{{ page.image }}"/>
+		{% endif %}
+	</div>
+	<div class="col-md-7 col-12 mx-auto text-justify">
+		{{ page.content }}
+	</div>
+	<div class="col-md-7 col-12 py-3 mx-auto text-justify">
+		<p>
+		<b>Categories:</b>
+		{% for category in page.categories %}
+			<a href="/category/{{ category }}">
+			{{ category }}
+			</a>
+		{% endfor %}
+		</p>
+		<p>
+		<b>Tags:</b>
+		{% for tag in page.tags %}
+			<a href="/tag/{{ tag }}">
+			{{ tag }}
+			</a>
+		{% endfor %}
+		</p>
+	</div>
+	<div class="col-md-7 col-12 mx-auto text-center">
+		<h5>Share this post:</h5>
+		<p class="h3">
+			<a class="twitter-link px-3 py-2" href="https://twitter.com/intent/tweet?counturl={{ page.url | prepend: site.baseurl }}&url={{ page.url | prepend: site.baseurl }}&via=openSUSE">
+				<span class="typcn typcn-social-twitter"></span>
+			</a>
+			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | prepend: site.baseurl }}">
+				<span class="typcn typcn-social-facebook"></span>
+			</a>
+			<a class="google-plus-link px-3 py-2" href="https://plus.google.com/share?url={{ page.url | prepend: site.baseurl }}">
+				<span class="typcn typcn-social-google-plus"></span>
+			</a>
+		</p>
+	</div>
+	<div class="col-md-9 col-12 mx-auto py-3">
+		<div class="row justify-content-between align-items-center p-3">
+			<div class="col-6 col-md-4">
+				{% if page.previous %}
+				<a href="{{ page.previous.url }}">
+				<div class="card card-body">
+					<h5 class="p-0">&laquo; Previous</h5>
+					<h6 class="text-truncate p-0">{{page.previous.title}}</h6>
+				</div>
+				</a>
+				{% endif %}
+			</div>
+			<div class="col-6 col-md-4 align-right">
+				{% if page.next %}
+				<a href="{{ page.next.url }}">
+				<div class="card card-body">
+					<h5 class="p-0">Next &raquo;</h5>
+					<h6 class="text-truncate p-0">{{page.next.title}}</h6>
+				</div>
+				</a>
+				{% endif %}
+			</div>
+		</div>
+	{% include footer-ads.html %}
+	</div>
+</div>

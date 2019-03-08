@@ -1,0 +1,26 @@
+---
+author: Izabel Valverde
+comments: true
+date: 2012-01-01 15:02:39+00:00
+
+layout: post
+link: https://news.opensuse.org/2012/01/01/happy-2012/
+title: "Happy 2012"
+categories:
+- Project
+---
+
+
+[![Happy 2012]({{ site.baseurl }}/assets/HappyNewYear-300x225.jpg)](https://news.opensuse.org/2012/01/01/happy-2012/happynewyear/)
+
+
+
+
+_**We wish all developers, maintainers, users and friends a Happy New Year. **_
+
+
+
+
+_**Let us make 2012 even better...**_
+
+		

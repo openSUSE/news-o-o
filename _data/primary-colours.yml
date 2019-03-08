@@ -1,0 +1,71 @@
+- name: Green
+  hex: 73ba25
+  shades:
+  - incriment: 90%
+    hex: 81c13b
+  - incriment: 75%
+    hex: 96cb5c
+  - incriment: 50%
+    hex: b9dc92
+  - incriment: 25%
+    hex: dceec8
+  rgb:
+    r: 115
+    g: 186
+    b: 37
+  pc: 7489C
+  pu: 368U
+  cmyk:
+    c: 100
+    m: 58
+    y: 90
+    k: 0
+  grayscale: 30%
+
+- name: Dark Cyan
+  hex: 173f4f
+  shades:
+  - incriment: 90%
+    hex: 2f5361
+  - incriment: 75%
+    hex: 516f7b
+  - incriment: 50%
+    hex: 8b9fa7
+  - incriment: 25%
+    hex: c5cfd3
+  rgb:
+    r: 23
+    g: 63
+    b: 79
+  pc: 309C
+  pu: 5463U
+  cmyk:
+    c: 100
+    m: 58
+    y: 49
+    k: 49
+  grayscale: 100%
+
+- name: Cyan
+  hex: 35b9ab
+  shades:
+  - incriment: 90%
+    hex: 4ac0b4
+  - incriment: 75%
+    hex: 68cbc0
+  - incriment: 50%
+    hex: 9adcd5
+  - incriment: 25%
+    hex: ccedea
+  rgb:
+    r: 53
+    g: 185
+    b: 171
+  pc: 339C
+  pu: 3405U
+  cmyk:
+    c: 77
+    m: 5
+    y: 52
+    k: 0
+  grayscale: 32%

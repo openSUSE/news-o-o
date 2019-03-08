@@ -1,0 +1,125 @@
+- name: Linux Kernel
+  url: https://kernel.org
+  img: tux.svg
+  desc: Kernel
+  hex: 333333
+  text: 
+
+- name: QEMU
+  url: https://www.qemu.org
+  img: qemu.svg
+  desc: Emulator
+  hex: FF8C00
+  text:
+
+- name: Systemd
+  url: https://freedesktop.org/wiki/Software/systemd
+  img:
+  desc: Init
+  hex: 73ba25
+  text:
+
+- name: RPM
+  url: http://rpm.org
+  img: rpm.svg
+  desc: Packaging format
+  hex: D13438
+  text:
+
+- name: GRUB
+  url: https://www.gnu.org/software/grub
+  img: grub.svg
+  desc: Bootloader
+  hex: 00CEA6
+  text:
+
+- name: Gnome
+  url: https://www.gnome.org
+  img: gnome.svg
+  desc: DE
+  hex: 4A86CF
+  text:
+
+- name: KDE
+  url: https://kde.org
+  img: kde.svg
+  desc: K DE
+  hex: 1D99F3
+  text:
+
+- name: Saltstack
+  url: https://saltstack.com
+  img: salt.svg
+  desc: Cfg mngmnt
+  hex: 111
+  text:
+
+- name: Docker
+  url: https://docker.com
+  img: docker.svg
+  desc: Containers bleh
+  hex: 1B799C
+  text:
+
+- name: OCI
+  url: https://www.opencontainers.org/
+  img: oci.svg
+  desc: Containers bleh
+  hex: 554FB2
+  text:
+
+- name: AppArmor
+  url: https://en.opensuse.org/SDB:AppArmor
+  img:
+  desc: DAC
+  hex: 73ba25
+  text:
+
+- name: postfix
+  url: http://www.postfix.org
+  img: postfix.svg
+  desc: Mail agent
+  hex: D1DA42
+  text:
+
+- name: Syslog-ng
+  url: https://syslog-ng.org/
+  img: balabit.svg
+  desc: Log mngmt
+  hex: 4BA0E5
+  text:
+
+- name: CloudFoundry
+  url: https://www.cloudfoundry.org
+  img: cloudfoundry.svg
+  desc: Cloud
+  hex: 0C9ED5
+  text:
+
+- name: Openstack
+  url: https://openstack.org
+  img: openstack.svg
+  desc: Some stack
+  hex: 2A4E68
+  text:
+
+- name: cloud-init
+  url: https://cloud-init.io
+  img: cloudinit.svg
+  desc: Cloud
+  hex: 2C001E
+  text:
+
+- name: Spacewalk
+  url: https://spacewalkproject.github.io
+  img: spacewalk.svg
+  desc: Sys mgmnt
+  hex: 3A3A3A
+  text:
+
+- name: PostgreSQL
+  url: https://postgresql.org
+  img: pgsql.svg
+  desc: SQL
+  hex: 0096C8
+  text:

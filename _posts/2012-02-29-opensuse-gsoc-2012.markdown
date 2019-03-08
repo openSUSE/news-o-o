@@ -1,0 +1,49 @@
+---
+author: Izabel Valverde
+comments: true
+date: 2012-02-29 11:27:55+00:00
+
+layout: post
+link: https://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/
+title: "openSUSE & GSOC 2012"
+categories:
+- Google Summer of Code
+---
+[![GSOC 12 logo with openSUSE Geeko]({{ site.baseurl }}/assets/GSOC-12-logo-openSUSE-300x152.png)](https://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/gsoc-12-logo-opensuse/)
+openSUSE as a project always looking to improve and grow and this is one of those opportunities: Google Summer of Code!
+
+Google Summer of Code (GSoC) is a program that offers students an paid opportunity to write code for several open source projects. The purpose is to benefit open source projects and encourage young developers to hack and learn. Both have a lot to gain in the end, experience and code. Google funds these students as well as the project.
+<!-- more -->
+Google works with the open source projects to select ideas and students to work on them. Once accepted the student gets a mentor, a professional involved with openSUSE project able to coordinate with the student, help him or her to get familiar with the code, answer questions and guide him/her to a good end result.
+openSUSE wants to join GSOC again. Now we're looking for mentors, students and their ideas!
+
+Last year openSUSE had 16 students enrolled, 15 of which finished their projects successfully. This year we'd love to mentor even more but for that we need mentors willing to help out as well as students capable of working on projects. Right now, we're gathering ideas for GSOC which are being added to our [list of ideas](http://en.opensuse.org/openSUSE:GSOC_2012_Ideas).
+
+
+## Ideas turn into projects
+
+
+The goal of this list is to give students an idea to work on in an area where a mentor is available. That means that while students and basically anyone else can add ideas, it is especially important for potential mentors to write down what they would like students to work on!
+
+An idea does not have to be super-concrete (it's not a full plan yet). Right now, the list is needed to give us an idea how much we can do this year with GSOC. On **March 16** Google decides which projects join GSOC this year. On **March 26** students are expected to start working with their potential mentor to expand the initial ideas into a full project proposal and they have **until April 6th** to finish this work. We will then have two weeks to couple students and mentors and Google will announce the accepted proposals on **April 23th**.
+
+
+## Work, work work
+
+
+On **May 21st** coding will start and it will continue (with a mid term evaluation on **July 13th**) until **August 13** and we'll start evaluating.
+
+But now, first order of the day is for mentors to think about what they need from students and for students to think about what they can do for openSUSE!
+
+You can find all information about our GSOC program on [our wiki](http://en.opensuse.org/openSUSE:GSOC_2012) and you can always ask the openSUSE GSOC team if you have any questions:
+
+
+
+	
+  * Vincent "vuntz" Untz
+
+	
+  * Matt Barringer
+
+
+They hang out on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net)!		

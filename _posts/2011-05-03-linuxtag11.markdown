@@ -1,0 +1,42 @@
+---
+author: Henne Vogelsang
+comments: true
+date: 2011-05-03 15:59:50+00:00
+
+layout: post
+link: https://news.opensuse.org/2011/05/03/linuxtag11/
+title: "It's that time of year again: openSUSE@LinuxTag Berlin"
+categories:
+- Events
+tags:
+- berlin
+- event
+- fair
+- linuxtag
+---
+Again this year, same procedure as every year, the **openSUSE Project is attending the [LinuxTag in Berlin](http://www.linuxtag.org/)** with more than 30 members, a booth, several talks in the  program and workshops. LinuxTag has been held regularly for 15 years, which is longer than any other   Linux fair in Europe. More than 200 free software projects and companies   participate and it   attracts nearly 12,000 visitors. The 17th LinuxTagÂ presentsÂ all the latest for professional  users, decision makers, developers, beginners and the Linux community ” **May 11 to 14 at the Berlin Fairgrounds**.
+
+[![]({{ site.baseurl }}/assets/LinuxTag-Logo-plain-blue-300x193.jpg)](http://www.linuxtag.org)<!-- more -->
+
+
+### Booth
+
+
+![]({{ site.baseurl }}/assets/original_img_2396-150x150.jpg)This Year you will find our awesome booth in **hall 7.2b, booth 153**. We'll show you all the new and exciting things that are happening in and around the openSUSE Project and will answer all the questions you might have. Grab a copy of our newest distribution release, 11.4 and see it in action. See how the new [GNOME3](http://www.gnome3.org/) interface feels, learn how [KDE Plasma](http://www.kde.org/workspaces) helps you to be productive and discover how you can easily get the newest desktops. Let us show to you what it means to roll along with [Tumbleweed](http://en.opensuse.org/Portal:Tumbleweed), our rolling release or participate in one of our many workshops that will teach you how you can make a difference in the free and open source software community. We're looking forward to meet you in Berlin!
+
+
+### Talks
+
+
+![]({{ site.baseurl }}/assets/original_img_2460-e1304436886102-150x150.jpg)There are more then 10 talks from openSUSE Project members about our distribution, community and tools in the general program. **Highlights include** [Vincent Untz'](http://www.vuntz.net/) talk about **"[Pushing for more cross-distribution collaboration](http://www.linuxtag.org/2011/de/program/freies-vortragsprogramm/popup/vortragsdetails.html?talkid=321)"**. Vincent, openSUSE Member, recently retired GNOME Release Team member and long time FOSS Hacker, will discuss cross-distribution collaboration, with examples of  successes and failures. His talk will highlight when collaboration is possible  and how to build the environment that can encourage such efforts. Or openSUSE's community manager [Jos Poortvliet](http://blog.jospoortvliet.com/)'s talk about **"[openSUSE 11.4 impression - more than you think!](http://www.linuxtag.org/2011/de/program/freies-vortragsprogramm/popup/vortragsdetails.html?talkid=427)"**. Where Jos will tell you why it's not just what's on the DVD that makes openSUSE 11.4 an exciting release. Of course there is more, check out the [list of our talks](http://en.opensuse.org/openSUSE:LinuxTag#Talks.2FLectures.2FProgram) and the [LinuxTag program.](http://www.linuxtag.org/2011/en/program.html) Use this opportunity in Berlin to learn about openSUSE and free and open source software in general!
+
+
+### Workshops
+
+
+The [openSUSE Boosters](http://en.opensuse.org/openSUSE:Boosters_team) will deliver small workshops on the booth where they will **teach you how to contribute in various ways to the openSUSE project** and the free and open source software community. Let experienced Linux packagers explain to you how you can roll and release your software, or the software you need, with the [Build Service](http://build.opensuse.org). Have a seasoned designer hold your hand while you take your first steps into the world of graphics design with free tools like Inkscape. Or learn how you can extend the GNOME and KDE desktops with small apps written in [Javascript](http://en.wikipedia.org/wiki/JavaScript) or [Qt Quick](http://qt.nokia.com/qtquick/). The Boosters will help you get your FOSS career started in Berlin!
+
+
+# See you in Berlin @LinuxTag 2011!
+
+		

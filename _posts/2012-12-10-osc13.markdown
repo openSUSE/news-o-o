@@ -1,0 +1,81 @@
+---
+author: Henne Vogelsang
+comments: true
+date: 2012-12-10 14:02:41+00:00
+
+layout: post
+link: https://news.opensuse.org/2012/12/10/osc13/
+title: "openSUSE Conference 2013 in Thessaloniki, Greece. OPA!"
+categories:
+- Announcements
+- Conference
+tags:
+- conference
+- events
+- fun
+- Greece
+- osc13
+---
+
+
+
+We are very happy to inform you that next year's openSUSE Conference (**oSC13**), the yearly get together of our community, will happen in **July** in the beautiful city of **Thessaloniki, Greece**. oSC13 will bring together a wide variety of Free and Open Source (FOSS) contributors to collaborate on one of the major Linux distribution projects. In exciting talks, workshops and social events our community will bring alive our motto **_"Have a lot of fun"_**.
+
+
+
+
+
+
+
+
+
+
+We are entering the organization phase right now and have not yet settled on an exact date and location but we will let you know, right here on [news.opensuse.org](https://news.opensuse.org/category/project/events/osc/), once we have that info. In the meantime how about you help us organize oSC13? 
+
+
+
+
+
+
+## We need you at the kick off meeting!
+
+
+To make this the most awesome conference ever, we are looking for people who are willing to help out. We need you! There is a lot of organizing to be done, logos to be drawn, websites to be designed, schedules to be made, hotels to be booked, sponsors to be found and a million of other things you can help with. So to kick off the organization team and to get everyone on the same page we are going to meet this Thursday, December 13th on IRC to discuss what we need to do and how we are going to do it. If you're looking for a chance to give back to the openSUSE community this is it!
+
+
+
+
+**When**: [2012-12-13 at 15:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=oSC13+Kick+Off+Meeting&iso=20121213T15)  
+
+**Where**: [#opensuse-project](irc://irc.freenode.net/opensuse-project) on the freenode network  
+
+**Who**: Everybody who want's to make oSC13 great
+
+
+
+
+
+
+If you, for whatever reason, can't participate but still want to help you should subscribe to our conference mailinglist:
+
+
+
+
+
+
+[opensuse-conference@opensuse.org](mailto:opensuse-conference+subscribe@opensuse.org)
+
+
+
+
+
+
+we are going to post meeting minutes there and will use this list to further organize oSC13.
+
+
+
+
+
+#### Let's get going and make oSC13 in Thessaloniki the best conference ever!
+
+		

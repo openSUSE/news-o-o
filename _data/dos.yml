@@ -1,0 +1,14 @@
+- name: Do use current green coloured logo on white backgrounds
+  imagefile: green
+
+- name: Do use grey logo (including white and black) on coloured backgrounds
+  imagefile: grey
+
+- name: Do use buttons with custom colours
+  imagefile: buttoncolor
+
+- name: Do use buttons as part of logos of openSUSE related projects
+  imagefile: buttonlogos
+
+- name: Do use sole geeko without openSUSE text (remember about trademark logo)
+  imagefile: solo

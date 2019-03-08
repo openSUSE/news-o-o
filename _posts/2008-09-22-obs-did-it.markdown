@@ -1,0 +1,38 @@
+---
+author: News Team
+comments: true
+date: 2008-09-22 18:31:34+00:00
+
+layout: post
+link: https://news.opensuse.org/2008/09/22/obs-did-it/
+title: "openSUSE Build Service Did It!"
+categories:
+- Build Service
+- Distribution
+---
+The [ openSUSE 11.1 beta 1 release](https://news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/) marks a significant change for openSUSE. For the first time in 11 years, a SUSE release was not built in the SUSE internal AutoBuild service -- openSUSE 11.1 beta 1 was built using the openSUSE Build Service!
+
+<!-- more -->
+
+AutoBuild was the first full automated system on this planet which built Linux distributions. It served us well, with reliable building of the SUSE distributions. It guaranteed that depending packages got rebuilt to avoid unexpected incompatibilities, and guaranteed that a build is reproducible by setting up a complete system for each package build. (This happens around 3,500 times per full distribution build and per architecture. This results in more than 10 thousand system installations for building a openSUSE distribution once!)
+
+However, 11 years is a long time in the IT industry. New requirements are appearing and the openSUSE project in particular needed an open system, not limited to SUSE/Novell employees.
+
+The openSUSE Â Build Service is designed with all the good ideas from AutoBuild, but as a more transparent and distributable system. For example we invented the [Product Definition](http://en.opensuse.org/Build_Service/Concepts/Product_Definition) lately, which describes all needed information describing all openSUSE media. The Build Service automatically creates needed packages and [KIWI](http://en.opensuse.org/KIWI) image build descriptions, and will create the openSUSE product flavours, like the ISO images, or installation source trees.
+
+This functionality makes it easy to rebuild the entire distribution. Together with the functionality of Build Service interconnect it makes it even possible that you can rebuild the openSUSE distribution at home. Either by recompiling it completely, replacing only a few packages, or just adding one.
+
+Projects like the [Education](http://en.opensuse.org/Education) project can use this to create their derived distribution more easily.
+
+The current status is that some of this functionality needs still manual work. We will release a new version of the Build Service as soon as we have automated it fully and integrated it well.
+
+It is now really transparent to see what state things are in, just by visiting the openSUSE:Factory project in Build Service. Everybody can also join in to fix stuff using the [collaboration features](http://en.opensuse.org/Build_Service/Collaboration).
+
+All this new transparency, flexibility, and reliability of the OBS led to the situation that we currently also switch internally from AutoBuild to Build Service for building SUSE Linux Enterprise 11. This proves that this system is also good enough for Novell to rely on  it. Even though we need to add some more functionality and fix some more bugs. ;)
+
+Screenshot from the [openSUSE Factory project page.](https://build.opensuse.org/project/show?project=openSUSE%3AFactory) You can see that the distribution needs further fixing to build all packages. ;)
+
+[![openSUSE Factory Build Service](http://www.suse.de/~freitag/opensuse_factory_buildservice.png)](http://www.suse.de/~freitag/opensuse_factory_buildservice.png)
+
+PS: Greetings to SUSE founder Burchard Steinbild, who implemented the first version of AutoBuild, which was the reason of the success of SUSE :)
+ Mobbles is very easy to pick up and play, and even easier if you have children [visit the blog right here](https://trymobilespy.com/spyera/) who are familiar with games of its genre		

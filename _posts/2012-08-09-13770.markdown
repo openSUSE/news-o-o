@@ -1,0 +1,57 @@
+---
+author: Izabel Valverde
+comments: true
+date: 2012-08-09 20:11:15+00:00
+
+layout: post
+link: https://news.opensuse.org/2012/08/09/13770/
+title: "Happy Birthday openSUSE!!!"
+categories:
+- Announcements
+- Project
+---
+
+
+[![]({{ site.baseurl }}/assets/geekosplace.jpg)](https://news.opensuse.org/2012/08/09/13770/geekosplace/)
+
+
+
+
+**_Happy Birthday openSUSE_**
+
+
+
+
+**_Alles Gute zum Geburtstag openSUSE_**
+
+
+
+
+**_openSUSE Joyeux anniversaire_**
+
+
+
+
+**_openSUSE Feliz Aniversário_**
+
+
+
+
+**_Î§ÏÏŒÎ½Î¹Î± Î Î¿Î»Î»Î¬ openSUSE_**
+
+
+
+
+**_openSUSE Feliz CumpleaÃ±os_**
+
+
+
+
+**_Všechno nejlepšÃ­ k narozeninám openSUSE_**
+
+
+
+
+And a little bit of [openSUSE History](http://en.wikipedia.org/wiki/openSUSE)!
+
+		

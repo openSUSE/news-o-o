@@ -1,0 +1,31 @@
+title: openSUSE News
+email: your-email@opensuse.org
+description: >-
+  openSUSE News site providing newest news from openSUSE Project
+baseurl: ""
+url: ""
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+paginate: 6
+paginate_path: '/page:num/'
+permalink: /:year/:month/:day/:title/
+
+jekyll-archives:
+  enabled: all
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    tag: cattag-archive
+    category: cattag-archive

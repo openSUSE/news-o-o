@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<ol class="breadcrumb">
+	<li class="breadcrumb-item active"><span class="typcn typcn-news"></span> News</li>
+</ol>
+<div class="container">
+	<div class="col-12 col-lg-9 mx-auto">
+		<div class="row">
+			{% for post in paginator.posts %}
+			{% include single-post.html %}
+			{% endfor %}
+			{% include pagination.html %}
+			{% include footer-ads.html %}
+		</div>
+	</div>
+</div>

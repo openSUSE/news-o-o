@@ -1,0 +1,41 @@
+{% if paginator.total_pages > 1 %}
+<div class="col-12 p-3 d-flex">
+	<ul class="pagination mx-auto my-0">
+		{% if paginator.previous_page %}
+		<li class="page-item">
+			<a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+				&laquo;
+			</a>
+		</li>
+		{% else %}
+		<li class="page-item disabled">
+			<span class="page-link">
+				&laquo;
+			</span>
+		</li>
+		{% endif %}
+		{% for page in (1..paginator.total_pages) %}
+			{% if page == paginator.page %}
+			<li class="page-item active">
+				<span class="page-link">
+					{{ page }}
+				</span>
+			</li>
+			{% endif %}
+		{% endfor %}
+		{% if paginator.next_page %}
+		<li class="page-item">
+			<a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+				&raquo;
+			</a>
+		</li>
+		{% else %}
+		<li class="page-item disabled">
+			<span class="page-link">
+				&raquo;
+			</span>
+		</li>
+		{% endif %}
+	</ul>
+</div>
+{% endif %}

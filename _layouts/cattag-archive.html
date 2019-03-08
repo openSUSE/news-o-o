@@ -1,0 +1,121 @@
+---
+layout: default
+---
+<ol class="breadcrumb">
+	<li class="breadcrumb-item"><a href="/"><span class="typcn typcn-news"></span> News</a></li>
+	<li class="breadcrumb-item active text-truncate"><a href="/category">{{ page.type }}</a></li>
+	<li class="breadcrumb-item active text-truncate">{{ page.title }}</li>
+</ol>
+<div class="container">
+	<div class="col-12 col-lg-9 mx-auto">
+		<div class="row">
+			{% for post in page.posts %}
+			<div class="col-lg-6 col-12 p-3">
+				<a class="text-black" href="{{ post.url | prepend: site.baseurl }}">
+					<div class="card">
+						<div class="top-article bg-light d-flex border-bottom card-body" style="background-image: url('{{ post.image }}');">
+							<h2 class="m-auto text-center ontop">{{ post.title }}</h2>
+						</div>
+						<div class="card-body">
+							<div class="font-weight-bold text-muted d-flex justify-content-between align-items-center">
+								<span>{{ post.author }}</span>
+								<span>{{ post.date | date: "%b %d, %Y" }}</span>
+							</div>
+							<div class="modal-open text-justify h-90px">
+								<p>{{ post.content | strip_html | truncate: 175 }}</p>
+							</div>
+						</div>
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+			{% if paginator.total_pages > 1 %}
+			<div class="col-12 p-3 d-flex">
+				<ul class="pagination mx-auto my-0">
+					{% if paginator.previous_page %}
+					<li class="page-item">
+						<a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+							&laquo;
+						</a>
+					</li>
+					{% else %}
+					<li class="page-item disabled">
+						<span class="page-link">
+							&laquo;
+						</span>
+					</li>
+					{% endif %}
+					{% for page in (1..paginator.total_pages) %}
+						{% if page == paginator.page %}
+						<li class="page-item active">
+							<span class="page-link">
+								{{ page }}
+							</span>
+						</li>
+						{% elsif page == 1 %}
+						<li class="page-item">
+							<a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+								{{ page }}
+							</a>
+						</li>
+						{% else %}
+						<li class="page-item">
+							<a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
+								{{ page }}
+							</a>
+						</li>
+						{% endif %}
+					{% endfor %}
+					{% if paginator.next_page %}
+					<li class="page-item">
+						<a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">
+							&raquo;
+						</a>
+					</li>
+					{% else %}
+					<li class="page-item disabled">
+						<span class="page-link">
+							&raquo;
+						</span>
+					</li>
+					{% endif %}
+				</ul>
+			</div>
+			{% endif %}
+			<div class="col-12 p-3">
+				<a href="https://counter.opensuse.org/link">
+					<img class="card w-100" src="https://counter.opensuse.org/wide"/>
+				</a>
+			</div>
+			<div class="col-12 p-3">
+				<div class="card">
+				<div class="row mx-0">
+					<div class="col-md-4 col-12 d-flex card-body">
+						<h3 class="m-auto">Follow us!</h3>
+					</div>
+					<div class="col-md-2 col-6 d-flex px-0">
+					<a class="d-flex card-body w-100 h-100 twitter-link" href="https://twitter.com/openSUSE">
+						<h3 class="typcn typcn-social-twitter m-auto"></h3>
+					</a>
+					</div>
+					<div class="col-md-2 col-6 d-flex px-0">
+					<a class="d-flex card-body w-100 h-100 facebook-link" href="https://www.facebook.com/groups/opensuseproject/">
+						<h3 class="typcn typcn-social-facebook m-auto"></h3>
+					</a>
+					</div>
+					<div class="col-md-2 col-6 d-flex px-0">
+					<a class="d-flex card-body w-100 h-100 google-plus-link" href="https://plus.google.com/110312141834246266844">
+						<h3 class="typcn typcn-social-google-plus m-auto"></h3>
+					</a>
+					</div>
+					<div class="col-md-2 col-6 d-flex px-0">
+					<a class="d-flex card-body w-100 h-100 rss-link" href="/feed">
+						<h3 class="typcn typcn-rss m-auto"></h3>
+					</a>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

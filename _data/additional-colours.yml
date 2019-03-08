@@ -1,0 +1,71 @@
+- name: Darker Green
+  hex: 6da741
+  shades:
+  - incriment: 90%
+    hex: 7cb054
+  - incriment: 75%
+    hex: 92bd71
+  - incriment: 50%
+    hex: b6d3a0
+  - incriment: 25%
+    hex: dae9cf
+  rgb:
+    r: 109
+    g: 167
+    b: 65
+  pc: 362C
+  pu: 369U
+  cmyk:
+    c: 70
+    m: 17
+    y: 98
+    k: 2
+  grayscale: 44%
+
+- name: Blue
+  hex: 21a4df
+  shades:
+  - incriment: 90%
+    hex: 38ade2
+  - incriment: 75%
+    hex: 59bbe7
+  - incriment: 50%
+    hex: 90d1ef
+  - incriment: 25%
+    hex: c7e8f7
+  rgb:
+    r: 33
+    g: 164
+    b: 223
+  pc: 229C
+  pu: 2995U
+  cmyk:
+    c: 82
+    m: 18
+    y: 0
+    k: 0
+  grayscale: 35%
+
+- name: Darker Cyan
+  hex: 00a489
+  shades:
+  - incriment: 90%
+    hex: 1aad95
+  - incriment: 75%
+    hex: 40bba7
+  - incriment: 50%
+    hex: 7fd1c4
+  - incriment: 25%
+    hex: bfe8e1
+  rgb:
+    r: 0
+    g: 164
+    b: 137
+  pc: 7724C
+  pu: 355U
+  cmyk:
+    c: 82
+    m: 16
+    y: 62
+    k: 1
+  grayscale: 42%

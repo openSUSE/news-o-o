@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<ol class="breadcrumb">
+	<li class="breadcrumb-item"><a href="/"><span class="typcn typcn-news"></span> News</a></li>
+	<li class="breadcrumb-item active text-truncate">Category</li>
+</ol>
+<div class="container">
+	<div class="col-12 col-lg-9 mx-auto">
+		<div class="row">
+			<ul class="list-group w-100 text-center">
+			{% for category in site.categories %}
+				<a href="/category/{{ category[0] }}">
+					<li class="list-group-item"><h5>{{ category[0] }}</h5></li>
+				</a>
+			{% endfor %}
+			</ul>
+			{% include footer-ads.html %}
+		</div>
+	</div>
+</div>

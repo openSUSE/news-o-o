@@ -1,0 +1,58 @@
+---
+author: George Bratsos
+comments: true
+date: 2014-04-27 00:21:53+00:00
+
+layout: post
+link: https://news.opensuse.org/2014/04/27/osc-2014-2nd-day/
+title: "oSC 2014 2nd Day"
+categories:
+- Conference
+- Events
+---
+This year's openSUSE Conference is being held in the beautiful city of Dubrovnik in Croatia. This year's conference organization team has taken care of its attendees with a special pass in order to have the chance to go sightseeing at the beautiful old city of Dubrovnik, to see the port and walk on the walls. But what happened at the venue today...<!-- more -->
+
+
+## Day two[![Libre Office]({{ site.baseurl }}/assets/DSC_0034-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0034.jpg)
+
+
+Everyone arrived just in time for the awesome keynote presentation of Michael Meeks about “The Document Foundation and LibreOffice”. He talked about all the work that has been done improving LibreOffice in all aspects.
+
+
+
+
+
+
+
+[![KDE]({{ site.baseurl }}/assets/IMG_20140426_112645-300x168.jpg)]({{ site.baseurl }}/assets/IMG_20140426_112645.jpg)
+
+
+
+After that Jos Poortvliet took the lead of the main hall and he presented “Where KDE is and where it is going”. He talked about the improvements being done in KDE 4 and presented to everyone the workflow and some of the changes in KDE 5. He also showed, for the first time, Plasma 2 changes, Frameworks 5 and how a Qt developer can get involved with KDE.
+
+
+### 
+
+
+
+
+### Other presentations
+
+
+[![]({{ site.baseurl }}/assets/DSC_0039-300x119.jpg)]({{ site.baseurl }}/assets/DSC_0039.jpg)An awesome presentation about an awesome tool called “Bcache” took place from Oliver Neukum. He explained how this tool works on openSUSE and how openSUSE users can benefit from using it on their SSD drives and boost their computer's performance.
+
+Of course we cannot miss the interesting “Ruby on Rails” for beginners workshop from Camilla Ayres. Lots of geekos joined and hacked on Ruby on Rails for almost 2 hours. Camilla presented how awesome of a programming language it is and did a hands on of some easy to-do things for everyone.
+
+[![IMG_20140426_154151]({{ site.baseurl }}/assets/IMG_20140426_154151-300x168.jpg)]({{ site.baseurl }}/assets/IMG_20140426_154151.jpg)Stephan Kulow with “A ring of Fire live on Stagings” shared with all the geekos who attended his presentation how his team worked on improving openSUSE:Factory's development process to get openSUSE's stability. He explained all the difficulties that he faces on his everyday workflow and how this can be changed and all the process that is done before we have a testing live CD in our hands.
+
+The entire second day at openSUSE Conference here in Dubrovnik was excellent. Everyone attending the presentations were delighted. Booths were crowded too with people asking about KDE, Gnome, MySQL and Jolla!
+
+
+## #oSC14 Info!
+
+
+Follow [@openSUSEConf](https://twitter.com/openSUSEConf) on twitter, or search for the hashtag [#oSC14](https://twitter.com/search?q=%23oSC14&src=tyah). If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](https://bambuser.com/channel/opensusetv) that is set up in the venue.
+
+[![DSC_0027]({{ site.baseurl }}/assets/DSC_0027-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0027.jpg)
+
+		

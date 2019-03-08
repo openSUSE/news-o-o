@@ -1,0 +1,37 @@
+---
+author: Manu Gupta
+comments: true
+date: 2016-08-12 00:40:32+00:00
+
+layout: post
+link: https://news.opensuse.org/2016/08/12/20067/
+title: "openSUSE.Asia Summit has a logo!!!!"
+---
+ 
+
+![](https://lizards.opensuse.org/wp-content/uploads/2016/08/opensuse_asia_summit_2016_logo_winner.png)
+
+
+
+
+
+We are happy to announce that Ramadoni Ashudi design from Indonesia is selected as official logo for [openSUSE.Asia Summit 2016](https://events.opensuse.org/conference/summitasia16) in Yogyakarta, Indonesia. As the winner Ramadoni Ashudi will receive a “magic box” from the committee.
+Ramadoni Ashudi submit two designs and his design-2 selected by 28 voters. His design depicts his version of Tugu Yogyakarta, a monument built by Sultan Hamengkubuwono I, the first King of Yogyakarta in 1755.
+Ana Maria Martinez from Spain also submit her version of Tugu Yogyakarta and selected by 17 voters on the 2nd place.
+On the 3rd place, Shawhong Ser from Thailand submit a design that showing Arjuna character from Wayang Kulit, a traditional Javanese shadow puppet. Arjuna is the 3rd Pandava Brothers from Mahabharata. It is selected by 9 voters.
+
+Total of voters = 65
+Ramadoni Ashudi-2 = 28
+Ana Maria Martinez = 17
+Shawhong Ser =  9
+Aris Winardi =  4
+Ramadoni Ashudi-1 =  4
+Kukuh Syafaat =  3
+Danang Aji Bimantoro-1 =  0
+Danang Aji Bimantoro-2 =  0
+
+The complete result can be seen on the [contest web page](http://asiasummit16.opensuse.id/activity/4)
+
+Congratulation to Ramadoni, and many thanks and appreciation to Ana, Aris, Danang, Kukuh, Shawhong  for your participation in this contest.
+
+Have fun.		

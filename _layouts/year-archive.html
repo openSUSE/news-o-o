@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<ol class="breadcrumb">
+	<li class="breadcrumb-item"><a href="/"><span class="typcn typcn-news"></span> News</a></li>
+	<li class="breadcrumb-item active text-truncate">{{ page.date | date: "%Y" }}</li>
+</ol>
+<div class="container">
+	<div class="col-12 col-lg-9 mx-auto">
+		<div class="row">
+			{% for post in page.posts %}
+			{% include single-post.html %}
+			{% endfor %}
+			{% include footer-ads.html %}
+		</div>
+	</div>
+</div>
