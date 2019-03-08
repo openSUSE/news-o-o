@@ -24,7 +24,7 @@ layout: default
 		<p>
 		<b>Categories:</b>
 		{% for category in page.categories %}
-			<a href="/category/{{ category }}">
+			<a href="/category/{{ category | slugify  }}">
 			{{ category }}
 			</a>
 		{% endfor %}
@@ -32,7 +32,7 @@ layout: default
 		<p>
 		<b>Tags:</b>
 		{% for tag in page.tags %}
-			<a href="/tag/{{ tag }}">
+			<a href="/tag/{{ tag | slugify  }}">
 			{{ tag }}
 			</a>
 		{% endfor %}
@@ -46,9 +46,6 @@ layout: default
 			</a>
 			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | prepend: site.baseurl }}">
 				<span class="typcn typcn-social-facebook"></span>
-			</a>
-			<a class="google-plus-link px-3 py-2" href="https://plus.google.com/share?url={{ page.url | prepend: site.baseurl }}">
-				<span class="typcn typcn-social-google-plus"></span>
 			</a>
 		</p>
 	</div>
