@@ -1,14 +1,10 @@
 ---
 author: Jos Poortvliet
-comments: true
 date: 2010-09-16 12:10:00+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/09/16/opensuse_finding_target/
 published: false
-slug: opensuse_finding_target
-title: "\n\t\t\t\topenSUSE: Finding The Target\t\t"
-wordpress_id: 4490
+title: "openSUSE: Finding The Target"
 categories:
 - Announcements
 - Project

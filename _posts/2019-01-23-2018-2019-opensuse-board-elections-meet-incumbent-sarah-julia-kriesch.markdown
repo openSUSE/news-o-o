@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-23 00:09:59+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/23/2018-2019-opensuse-board-elections-meet-incumbent-sarah-julia-kriesch/
-slug: 2018-2019-opensuse-board-elections-meet-incumbent-sarah-julia-kriesch
-title: "\n\t\t\t\t2018-2019 openSUSE Board Elections: Meet incumbent Sarah Julia Kriesch\t\
-  \t"
-wordpress_id: 21551
+title: "2018-2019 openSUSE Board Elections: Meet incumbent Sarah Julia Kriesch\
+  "
 categories:
 - Announcements
 - Board

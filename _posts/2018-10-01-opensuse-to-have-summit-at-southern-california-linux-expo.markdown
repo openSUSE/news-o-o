@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-10-01 10:06:21+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/10/01/opensuse-to-have-summit-at-southern-california-linux-expo/
-slug: opensuse-to-have-summit-at-southern-california-linux-expo
-title: "\n\t\t\t\topenSUSE to have Summit at Southern California Linux Expo\t\t"
-wordpress_id: 21295
+title: "openSUSE to have Summit at Southern California Linux Expo"
 categories:
 - Announcements
 - Events

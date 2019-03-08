@@ -1,14 +1,10 @@
 ---
 author: Izabel Valverde
-comments: true
 date: 2012-01-13 19:09:30+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2012/01/13/desktop-news-hackfest-plans-to-improve-gnome-accessibility/
 published: false
-slug: desktop-news-hackfest-plans-to-improve-gnome-accessibility
-title: "\n\t\t\t\tDesktop news - Hackfest Plans to Improve GNOME Accessibility\t\t"
-wordpress_id: 12426
+title: "Desktop news - Hackfest Plans to Improve GNOME Accessibility"
 ---
 
 

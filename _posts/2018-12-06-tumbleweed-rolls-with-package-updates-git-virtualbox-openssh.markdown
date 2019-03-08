@@ -1,14 +1,10 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-12-06 11:26:20+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/12/06/tumbleweed-rolls-with-package-updates-git-virtualbox-openssh/
-slug: tumbleweed-rolls-with-package-updates-git-virtualbox-openssh
-title: "\n\t\t\t\tTumbleweed Rolls with Package Updates of Git, Virtualbox, OpenSSH\t\
-  \t"
-wordpress_id: 21379
+title: "Tumbleweed Rolls with Package Updates of Git, Virtualbox, OpenSSH\
+  "
 categories:
 - Announcements
 - Tumbleweed

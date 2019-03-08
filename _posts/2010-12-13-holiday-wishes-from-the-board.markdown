@@ -1,14 +1,10 @@
 ---
 author: Bryen Yunashko
-comments: true
 date: 2010-12-13 21:41:22+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/12/13/holiday-wishes-from-the-board/
 published: false
-slug: holiday-wishes-from-the-board
-title: "\n\t\t\t\tHoliday Wishes from the Board\t\t"
-wordpress_id: 5892
+title: "Holiday Wishes from the Board"
 ---
 
 

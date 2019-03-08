@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-10-11 13:50:14+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/10/11/tumbleweed-gets-plasma-5-14-frameworks-5-50/
-slug: tumbleweed-gets-plasma-5-14-frameworks-5-50
-title: "\n\t\t\t\tTumbleweed Gets Plasma 5.14, Frameworks 5.50\t\t"
-wordpress_id: 21299
+title: "Tumbleweed Gets Plasma 5.14, Frameworks 5.50"
 categories:
 - Announcements
 - Tumbleweed

@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2008-11-13 08:10:57+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2008/11/13/opensuse-education-for-111-rc1/
 published: false
-slug: opensuse-education-for-111-rc1
-title: "\n\t\t\t\topenSUSE-Education for 11.1 RC1\t\t"
-wordpress_id: 1088
+title: "openSUSE-Education for 11.1 RC1"
 tags:
 - Education
 ---

@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-08-23 11:26:17+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/08/23/tumbleweed-snapshots-bring-changes-for-kvm-qemu-xen/
-slug: tumbleweed-snapshots-bring-changes-for-kvm-qemu-xen
-title: "\n\t\t\t\tTumbleweed Snapshots Bring Changes for KVM, QEMU, Xen\t\t"
-wordpress_id: 20983
+title: "Tumbleweed Snapshots Bring Changes for KVM, QEMU, Xen"
 categories:
 - Announcements
 - Tumbleweed

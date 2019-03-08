@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-03-06 03:00:51+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/03/06/bali-indonesia-selected-for-opensuse-asia-summit-2019/
-slug: bali-indonesia-selected-for-opensuse-asia-summit-2019
-title: "\n\t\t\t\tBali, Indonesia, Selected for openSUSE.Asia Summit 2019\t\t"
-wordpress_id: 21751
+title: "Bali, Indonesia, Selected for openSUSE.Asia Summit 2019"
 categories:
 - Announcements
 - Conference

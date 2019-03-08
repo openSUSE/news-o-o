@@ -1,14 +1,10 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-10-19 08:31:41+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/10/19/tumbleweed-gets-new-versions-of-kde-applications-krita-apache-subversion/
-slug: tumbleweed-gets-new-versions-of-kde-applications-krita-apache-subversion
-title: "\n\t\t\t\tTumbleweed Gets New Versions of KDE Applications, Krita, Apache\
-  \ Subversion\t\t"
-wordpress_id: 21311
+title: "Tumbleweed Gets New Versions of KDE Applications, Krita, Apache\
+  \ Subversion"
 categories:
 - Announcements
 - Tumbleweed

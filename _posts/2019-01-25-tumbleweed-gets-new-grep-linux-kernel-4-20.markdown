@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-01-25 08:22:15+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/25/tumbleweed-gets-new-grep-linux-kernel-4-20/
-slug: tumbleweed-gets-new-grep-linux-kernel-4-20
-title: "\n\t\t\t\tTumbleweed Gets New grep, Linux Kernel 4.20\t\t"
-wordpress_id: 21627
+title: "Tumbleweed Gets New grep, Linux Kernel 4.20"
 categories:
 - Announcements
 - Distribution

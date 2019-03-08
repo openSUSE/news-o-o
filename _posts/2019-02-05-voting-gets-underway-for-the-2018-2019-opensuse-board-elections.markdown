@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-02-05 01:17:11+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/02/05/voting-gets-underway-for-the-2018-2019-opensuse-board-elections/
-slug: voting-gets-underway-for-the-2018-2019-opensuse-board-elections
-title: "\n\t\t\t\tVoting Gets Underway for the 2018-2019 openSUSE Board Elections\t\
-  \t"
-wordpress_id: 21669
+title: "Voting Gets Underway for the 2018-2019 openSUSE Board Elections\
+  "
 categories:
 - Announcements
 - Board

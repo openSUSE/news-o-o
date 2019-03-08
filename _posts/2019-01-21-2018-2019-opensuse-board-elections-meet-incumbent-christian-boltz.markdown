@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-21 04:11:03+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/21/2018-2019-opensuse-board-elections-meet-incumbent-christian-boltz/
-slug: 2018-2019-opensuse-board-elections-meet-incumbent-christian-boltz
-title: "\n\t\t\t\t2018-2019 openSUSE Board Elections: Meet incumbent Christian Boltz\t\
-  \t"
-wordpress_id: 21485
+title: "2018-2019 openSUSE Board Elections: Meet incumbent Christian Boltz\
+  "
 categories:
 - Announcements
 - Board

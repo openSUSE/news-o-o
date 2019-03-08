@@ -1,6 +1,5 @@
 ---
 author: Richard Brown
-comments: true
 date: 2014-09-17 08:37:17+00:00
 
 layout: post

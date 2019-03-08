@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-02-14 11:49:03+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/02/14/inkscape-gtk-glibc-updates-arrive-in-tumbleweed/
-slug: inkscape-gtk-glibc-updates-arrive-in-tumbleweed
-title: "\n\t\t\t\tInkscape, GTK, glibc Updates Arrive in Tumbleweed\t\t"
-wordpress_id: 21719
+title: "Inkscape, GTK, glibc Updates Arrive in Tumbleweed"
 categories:
 - Announcements
 - Kubic

@@ -1,14 +1,10 @@
 ---
 author: Jos Poortvliet
-comments: true
 date: 2013-03-04 15:49:28+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2013/03/04/opensuse-ready-for-64bit-arm/
 published: false
-slug: opensuse-ready-for-64bit-arm
-title: "\n\t\t\t\topenSUSE ready for 64bit ARM!\t\t"
-wordpress_id: 15341
+title: "openSUSE ready for 64bit ARM!"
 categories:
 - Announcements
 - Build Service

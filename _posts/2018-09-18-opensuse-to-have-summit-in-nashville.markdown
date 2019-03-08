@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-09-18 08:52:03+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/09/18/opensuse-to-have-summit-in-nashville/
-slug: opensuse-to-have-summit-in-nashville
-title: "\n\t\t\t\topenSUSE to Have Summit in Nashville\t\t"
-wordpress_id: 21281
+title: "openSUSE to Have Summit in Nashville"
 categories:
 - Announcements
 - Conference

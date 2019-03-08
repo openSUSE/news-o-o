@@ -1,14 +1,10 @@
 ---
 author: Will Stephenson
-comments: true
 date: 2013-01-23 08:35:47+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2013/01/23/opensuse-12-3-polishing-hackathon-held-in-nuremberg/
 published: false
-slug: opensuse-12-3-polishing-hackathon-held-in-nuremberg
-title: "\n\t\t\t\topenSUSE 12.3 Polishing Hackathon held in Nuremberg\t\t"
-wordpress_id: 15029
+title: "openSUSE 12.3 Polishing Hackathon held in Nuremberg"
 categories:
 - Distribution
 ---

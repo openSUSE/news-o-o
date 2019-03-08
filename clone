@@ -1,0 +1,5 @@
+cd _posts
+for x in `ls`
+do
+	sed -i '/^comments: / d' $x
+done

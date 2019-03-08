@@ -1,14 +1,10 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-09-28 09:36:34+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/09/28/vim-xen-git-packages-updated-in-this-weeks-tumbleweed-snapshots/
-slug: vim-xen-git-packages-updated-in-this-weeks-tumbleweed-snapshots
-title: "\n\t\t\t\tVIM, Xen, Git Packages Updated in This Week's Tumbleweed Snapshots\t\
-  \t"
-wordpress_id: 21292
+title: "VIM, Xen, Git Packages Updated in This Week's Tumbleweed Snapshots\
+  "
 categories:
 - Announcements
 - Distribution

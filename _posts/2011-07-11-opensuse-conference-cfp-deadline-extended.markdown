@@ -1,6 +1,5 @@
 ---
 author: Jos Poortvliet
-comments: true
 date: 2011-07-11 14:06:00+00:00
 
 layout: post

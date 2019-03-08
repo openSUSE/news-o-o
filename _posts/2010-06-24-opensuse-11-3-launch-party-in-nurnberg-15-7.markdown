@@ -1,6 +1,5 @@
 ---
 author: Thomas Schmidt
-comments: true
 date: 2010-06-24 10:16:36+00:00
 
 layout: post

@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-04 05:02:25+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/04/no-candidates-board-might-be-forced-to-hand-pick-new-board-members/
-slug: no-candidates-board-might-be-forced-to-hand-pick-new-board-members
-title: "\n\t\t\t\tNo Candidates? Board might be forced to hand pick new Board Members\t\
-  \t"
-wordpress_id: 21424
+title: "No Candidates? Board might be forced to hand pick new Board Members\
+  "
 categories:
 - Announcements
 - Board

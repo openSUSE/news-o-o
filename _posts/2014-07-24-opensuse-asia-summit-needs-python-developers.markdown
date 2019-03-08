@@ -1,6 +1,5 @@
 ---
 author: Manu Gupta
-comments: true
 date: 2014-07-24 10:00:27+00:00
 
 layout: post

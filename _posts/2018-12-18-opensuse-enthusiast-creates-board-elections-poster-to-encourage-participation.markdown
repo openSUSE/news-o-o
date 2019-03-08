@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2018-12-18 05:36:29+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/12/18/opensuse-enthusiast-creates-board-elections-poster-to-encourage-participation/
-slug: opensuse-enthusiast-creates-board-elections-poster-to-encourage-participation
-title: "\n\t\t\t\topenSUSE Enthusiast Creates Board Elections Poster to Encourage\
-  \ Participation\t\t"
-wordpress_id: 21385
+title: "openSUSE Enthusiast Creates Board Elections Poster to Encourage\
+  \ Participation"
 categories:
 - Announcements
 - Board

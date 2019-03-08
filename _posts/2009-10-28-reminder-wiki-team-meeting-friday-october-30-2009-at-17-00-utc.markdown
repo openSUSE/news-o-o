@@ -1,15 +1,11 @@
 ---
 author: News Team
-comments: true
 date: 2009-10-28 10:46:04+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/10/28/reminder-wiki-team-meeting-friday-october-30-2009-at-17-00-utc/
 published: false
-slug: reminder-wiki-team-meeting-friday-october-30-2009-at-17-00-utc
-title: "\n\t\t\t\tReminder: Wiki Team Meeting Friday October 30, 2009 at 17.00 UTC\t\
-  \t"
-wordpress_id: 2402
+title: "Reminder: Wiki Team Meeting Friday October 30, 2009 at 17.00 UTC\
+  "
 ---
 The openSUSE Wiki Team Meeting will take place on Friday, the 30th of October 2009 at 17.00 UTC. See all time zones on the [Fixed Time World Clock](http://tinyurl.com/yhvmycg). The meeting will be held in IRC on the #opensuse-wiki channel on Freenode.
 

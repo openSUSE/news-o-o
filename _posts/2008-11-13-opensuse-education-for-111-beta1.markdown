@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2008-11-13 08:11:06+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2008/11/13/opensuse-education-for-111-beta1/
 published: false
-slug: opensuse-education-for-111-beta1
-title: "\n\t\t\t\topenSUSE-Education for 11.1 Beta1\t\t"
-wordpress_id: 1086
+title: "openSUSE-Education for 11.1 Beta1"
 tags:
 - Education
 ---

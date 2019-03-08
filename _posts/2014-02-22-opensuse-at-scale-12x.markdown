@@ -1,6 +1,5 @@
 ---
 author: Andres Betts
-comments: true
 date: 2014-02-22 23:27:24+00:00
 
 layout: post

@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2010-05-27 23:55:59+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/05/27/3345/
 published: false
-slug: '3345'
-title: "\n\t\t\t\tRMLL, France\t\t"
-wordpress_id: 3345
+title: "RMLL, France"
 tags:
 - rmll
 ---

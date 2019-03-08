@@ -1,13 +1,9 @@
 ---
 author: Ana María Martínez Gómez
-comments: true
 date: 2018-10-27 18:24:20+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/10/27/gsoc-mentor-summit/
-slug: gsoc-mentor-summit
-title: "\n\t\t\t\tGSoC 2018 Mentor Summit\t\t"
-wordpress_id: 21313
+title: "GSoC 2018 Mentor Summit"
 categories:
 - Events
 - Google Summer of Code

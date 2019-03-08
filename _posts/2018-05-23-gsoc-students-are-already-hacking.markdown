@@ -1,6 +1,5 @@
 ---
 author: Ana María Martínez Gómez
-comments: true
 date: 2018-05-23 10:19:54+00:00
 
 layout: post

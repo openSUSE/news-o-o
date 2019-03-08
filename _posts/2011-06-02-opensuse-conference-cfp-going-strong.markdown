@@ -1,6 +1,5 @@
 ---
 author: Bryen Yunashko
-comments: true
 date: 2011-06-02 21:00:17+00:00
 
 layout: post

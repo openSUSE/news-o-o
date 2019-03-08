@@ -1,15 +1,11 @@
 ---
 author: Jos Poortvliet
-comments: true
 date: 2013-01-21 16:03:35+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2013/01/21/opensuse-conference-2013-travel-support-and-search-for-sponsors/
 published: false
-slug: opensuse-conference-2013-travel-support-and-search-for-sponsors
-title: "\n\t\t\t\topenSUSE Conference 2013: Travel Support and Search for Sponsors\t\
-  \t"
-wordpress_id: 14916
+title: "openSUSE Conference 2013: Travel Support and Search for Sponsors\
+  "
 categories:
 - Announcements
 - Conference

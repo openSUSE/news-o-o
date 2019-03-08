@@ -1,13 +1,9 @@
 ---
 author: News Team
-comments: true
 date: 2009-03-06 19:03:06+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/03/06/project-meeting-2009-03-11/
 published: false
-slug: project-meeting-2009-03-11
-title: "\n\t\t\t\tProject Meeting 2009-03-11\t\t"
-wordpress_id: 1205
+title: "Project Meeting 2009-03-11"
 ---
 openSUSE Project Meeting for Wednesday March 11, 2009.Â  Will be held in #opensuse-project on Freenode at 17:00 UTC, 18:00 CET.		

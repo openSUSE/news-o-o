@@ -1,15 +1,11 @@
 ---
 author: Manu Gupta
-comments: true
 date: 2011-05-10 19:26:28+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/05/10/not-to-publish-until-friday-13th-announcing-opensuse-conference-rxw/
 published: false
-slug: not-to-publish-until-friday-13th-announcing-opensuse-conference-rxw
-title: "\n\t\t\t\t(NOT TO PUBLISH UNTIL FRIDAY 13th) Announcing openSUSE Conference\
-  \ - rxw\t\t"
-wordpress_id: 8810
+title: "(NOT TO PUBLISH UNTIL FRIDAY 13th) Announcing openSUSE Conference\
+  \ - rxw"
 categories:
 - Announcements
 ---

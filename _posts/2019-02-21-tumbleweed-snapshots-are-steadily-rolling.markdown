@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-02-21 09:16:24+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/02/21/tumbleweed-snapshots-are-steadily-rolling/
-slug: tumbleweed-snapshots-are-steadily-rolling
-title: "\n\t\t\t\tTumbleweed Snapshots Are Steadily Rolling\t\t"
-wordpress_id: 21742
+title: "Tumbleweed Snapshots Are Steadily Rolling"
 categories:
 - Announcements
 - Kubic

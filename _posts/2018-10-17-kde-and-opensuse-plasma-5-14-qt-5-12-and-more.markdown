@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-10-17 16:51:48+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/10/17/kde-and-opensuse-plasma-5-14-qt-5-12-and-more/
-slug: kde-and-opensuse-plasma-5-14-qt-5-12-and-more
-title: "\n\t\t\t\tKDE and openSUSE: Plasma 5.14, Qt 5.12 and more\t\t"
-wordpress_id: 21303
+title: "KDE and openSUSE: Plasma 5.14, Qt 5.12 and more"
 categories:
 - Announcements
 - Derivatives

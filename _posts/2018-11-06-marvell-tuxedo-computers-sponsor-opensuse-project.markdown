@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-11-06 16:40:29+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/11/06/marvell-tuxedo-computers-sponsor-opensuse-project/
-slug: marvell-tuxedo-computers-sponsor-opensuse-project
-title: "\n\t\t\t\tMarvell, TUXEDO Computers Sponsor openSUSE Project\t\t"
-wordpress_id: 21344
+title: "Marvell, TUXEDO Computers Sponsor openSUSE Project"
 categories:
 - Announcements
 - Events

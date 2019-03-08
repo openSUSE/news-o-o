@@ -1,6 +1,5 @@
 ---
 author: Kim Leyendecker
-comments: true
 date: 2011-06-23 10:35:04+00:00
 
 layout: post

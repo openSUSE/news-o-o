@@ -1,13 +1,9 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-24 00:10:27+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/24/2018-2019-opensuse-board-elections-meet-sebastien-poher/
-slug: 2018-2019-opensuse-board-elections-meet-sebastien-poher
-title: "\n\t\t\t\t2018-2019 openSUSE Board Elections: Meet Sébastien Poher\t\t"
-wordpress_id: 21596
+title: "2018-2019 openSUSE Board Elections: Meet Sébastien Poher"
 categories:
 - Announcements
 - Board Elections

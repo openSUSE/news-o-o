@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-11-20 11:08:13+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/11/20/find-out-the-visa-requirements-to-attend-osc19/
-slug: find-out-the-visa-requirements-to-attend-osc19
-title: "\n\t\t\t\tFind Out the Visa Requirements to Attend oSC19\t\t"
-wordpress_id: 21360
+title: "Find Out the Visa Requirements to Attend oSC19"
 categories:
 - Announcements
 - Conference

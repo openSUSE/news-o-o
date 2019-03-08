@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-01-31 09:27:28+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/31/libreoffice-php-gtk-packages-updated-in-tumbleweed/
-slug: libreoffice-php-gtk-packages-updated-in-tumbleweed
-title: "\n\t\t\t\tLibreOffice, php, GTK Packages Updated in Tumbleweed\t\t"
-wordpress_id: 21667
+title: "LibreOffice, php, GTK Packages Updated in Tumbleweed"
 categories:
 - Announcements
 - Tumbleweed

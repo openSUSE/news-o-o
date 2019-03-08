@@ -1,6 +1,5 @@
 ---
 author: News Team
-comments: true
 date: 2009-08-10 17:21:39+00:00
 
 layout: post

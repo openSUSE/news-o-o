@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-09-25 10:22:38+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/09/25/opensuse-conference-2020-call-for-hosts/
-slug: opensuse-conference-2020-call-for-hosts
-title: "\n\t\t\t\topenSUSE Conference 2020: Call for Hosts\t\t"
-wordpress_id: 21288
+title: "openSUSE Conference 2020: Call for Hosts"
 categories:
 - Announcements
 - Conference

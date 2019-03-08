@@ -1,6 +1,5 @@
 ---
 author: James Mason
-comments: true
 date: 2011-01-27 00:40:41+00:00
 
 layout: post

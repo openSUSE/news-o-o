@@ -1,6 +1,5 @@
 ---
 author: Pascal Bleser
-comments: false
 date: 2012-02-29 21:42:17+00:00
 
 layout: post

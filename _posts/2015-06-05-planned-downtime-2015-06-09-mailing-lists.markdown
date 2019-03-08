@@ -1,6 +1,5 @@
 ---
 author: Kostas Koudaras
-comments: true
 date: 2015-06-05 03:21:03+00:00
 
 layout: post

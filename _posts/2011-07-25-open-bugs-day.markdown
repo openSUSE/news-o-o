@@ -1,14 +1,10 @@
 ---
 author: Andreas Jaeger
-comments: true
 date: 2011-07-25 11:36:03+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/07/25/open-bugs-day/
 published: false
-slug: open-bugs-day
-title: "\n\t\t\t\tOpen Bugs Day\t\t"
-wordpress_id: 9900
+title: "Open Bugs Day"
 ---
 The [Testing Core Team](http://en.opensuse.org/openSUSE:Testing_Core_team) is running an [Open Bugs Day](http://en.opensuse.org/openSUSE:Open-Bugs-Day).
 

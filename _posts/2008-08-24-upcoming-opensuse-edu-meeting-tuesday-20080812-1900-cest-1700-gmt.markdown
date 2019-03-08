@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2008-08-24 16:11:54+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2008/08/24/upcoming-opensuse-edu-meeting-tuesday-20080812-1900-cest-1700-gmt/
 published: false
-slug: upcoming-opensuse-edu-meeting-tuesday-20080812-1900-cest-1700-gmt
-title: "\n\t\t\t\t#opensuse-edu Meeting\t\t"
-wordpress_id: 976
+title: "#opensuse-edu Meeting"
 ---
 
 

@@ -1,14 +1,10 @@
 ---
 author: Andreas Jaeger
-comments: true
 date: 2010-11-18 10:27:51+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/11/18/meeting-for-the-greek-opensuse-community/
 published: false
-slug: meeting-for-the-greek-opensuse-community
-title: "\n\t\t\t\tMeeting for the Greek openSUSE Community\t\t"
-wordpress_id: 5489
+title: "Meeting for the Greek openSUSE Community"
 ---
 This will take place at Friday 19/11 at 20:00 UTC (22:00 Greek time) on IRC at Freenode #opensuse-el.
 

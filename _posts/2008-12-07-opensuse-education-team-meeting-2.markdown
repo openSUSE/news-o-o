@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2008-12-07 06:14:16+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2008/12/07/opensuse-education-team-meeting-2/
 published: false
-slug: opensuse-education-team-meeting-2
-title: "\n\t\t\t\topenSUSE-Education Team Meeting\t\t"
-wordpress_id: 1106
+title: "openSUSE-Education Team Meeting"
 tags:
 - Education
 - Meetings

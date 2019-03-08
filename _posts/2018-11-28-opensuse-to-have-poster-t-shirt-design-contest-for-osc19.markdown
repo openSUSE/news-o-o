@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-11-28 09:46:21+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/11/28/opensuse-to-have-poster-t-shirt-design-contest-for-osc19/
-slug: opensuse-to-have-poster-t-shirt-design-contest-for-osc19
-title: "\n\t\t\t\topenSUSE to Have Poster, T-Shirt Design Contest for oSC19\t\t"
-wordpress_id: 21368
+title: "openSUSE to Have Poster, T-Shirt Design Contest for oSC19"
 categories:
 - Announcements
 - Conference

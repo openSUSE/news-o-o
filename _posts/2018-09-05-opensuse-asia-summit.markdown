@@ -1,13 +1,9 @@
 ---
 author: Ana María Martínez Gómez
-comments: true
 date: 2018-09-05 15:58:48+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/09/05/opensuse-asia-summit/
-slug: opensuse-asia-summit
-title: "\n\t\t\t\topenSUSE.Asia Summit\t\t"
-wordpress_id: 21219
+title: "openSUSE.Asia Summit"
 categories:
 - Conference
 - Project

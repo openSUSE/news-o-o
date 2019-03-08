@@ -1,14 +1,10 @@
 ---
 author: Will Stephenson
-comments: true
 date: 2010-02-17 18:21:26+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/02/17/kde-team-meeting-24/
 published: false
-slug: kde-team-meeting-24
-title: "\n\t\t\t\tKDE Team Meeting\t\t"
-wordpress_id: 2933
+title: "KDE Team Meeting"
 tags:
 - KDE
 - meeting

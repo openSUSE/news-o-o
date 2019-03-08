@@ -1,6 +1,5 @@
 ---
 author: Henne Vogelsang
-comments: true
 date: 2011-07-23 09:00:20+00:00
 
 layout: post

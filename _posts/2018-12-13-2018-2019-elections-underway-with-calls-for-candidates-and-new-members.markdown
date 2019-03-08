@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2018-12-13 04:42:30+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/12/13/2018-2019-elections-underway-with-calls-for-candidates-and-new-members/
-slug: 2018-2019-elections-underway-with-calls-for-candidates-and-new-members
-title: "\n\t\t\t\t2018-2019 Elections Underway with Calls for Candidates and New Members\t\
-  \t"
-wordpress_id: 21381
+title: "2018-2019 Elections Underway with Calls for Candidates and New Members\
+  "
 categories:
 - Announcements
 - Board

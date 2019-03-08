@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2009-04-18 13:10:09+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/04/18/opensuse-project-meeting-40/
 published: false
-slug: opensuse-project-meeting-40
-title: "\n\t\t\t\topenSUSE Project Meeting\t\t"
-wordpress_id: 1537
+title: "openSUSE Project Meeting"
 ---
 The next openSUSE Project meeting will take place Wednesday April 22nd at 13:00 UTC. See all time zones on the [Fixed Time World Clock](http://bit.ly/Tb6zE). As always, the meeting will be held in IRC on the #opensuse-project channel on Freenode.
 

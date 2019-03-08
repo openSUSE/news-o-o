@@ -1,14 +1,10 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-09-14 11:46:40+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/09/14/latest-tumbleweed-snapshot-brings-major-versions-of-flatpak-qemu-thunderbird-nano/
-slug: latest-tumbleweed-snapshot-brings-major-versions-of-flatpak-qemu-thunderbird-nano
-title: "\n\t\t\t\tLatest Tumbleweed Snapshot Brings Major Versions of Flatpak, qemu,\
-  \ Thunderbird , Nano\t\t"
-wordpress_id: 21279
+title: "Latest Tumbleweed Snapshot Brings Major Versions of Flatpak, qemu,\
+  \ Thunderbird , Nano"
 categories:
 - Announcements
 - Tumbleweed

@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: false
 date: 2009-12-08 12:50:11+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/12/08/opensuse-feiert-weihnachten/
 published: false
-slug: opensuse-feiert-weihnachten
-title: "\n\t\t\t\topenSUSE feiert Weihnachten\t\t"
-wordpress_id: 2599
+title: "openSUSE feiert Weihnachten"
 ---
 
 

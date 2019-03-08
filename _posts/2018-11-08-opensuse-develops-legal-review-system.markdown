@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-11-08 10:05:00+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/11/08/opensuse-develops-legal-review-system/
-slug: opensuse-develops-legal-review-system
-title: "\n\t\t\t\topenSUSE Develops Legal Review System\t\t"
-wordpress_id: 21355
+title: "openSUSE Develops Legal Review System"
 categories:
 - Announcements
 - Build Service

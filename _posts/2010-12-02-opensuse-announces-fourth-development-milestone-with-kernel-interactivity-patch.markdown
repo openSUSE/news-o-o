@@ -1,6 +1,5 @@
 ---
 author: Will Stephenson
-comments: true
 date: 2010-12-02 16:53:52+00:00
 
 layout: post

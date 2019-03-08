@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-15 02:01:25+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/15/and-the-race-is-on-2018-2019-opensuse-board-elections-enter-campaign-phase/
-slug: and-the-race-is-on-2018-2019-opensuse-board-elections-enter-campaign-phase
-title: "\n\t\t\t\tAnd the Race is On! 2018-2019 openSUSE Board Elections Enter Campaign\
-  \ Phase\t\t"
-wordpress_id: 21464
+title: "And the Race is On! 2018-2019 openSUSE Board Elections Enter Campaign\
+  \ Phase"
 categories:
 - Announcements
 - Board

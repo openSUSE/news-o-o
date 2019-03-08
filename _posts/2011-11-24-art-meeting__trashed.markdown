@@ -1,14 +1,10 @@
 ---
 author: Henne Vogelsang
-comments: true
 date: 2011-11-24 09:42:37+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/11/24/art-meeting__trashed/
 published: false
-slug: art-meeting__trashed
-title: "\n\t\t\t\tArt Meeting\t\t"
-wordpress_id: 12108
+title: "Art Meeting"
 ---
 Members of the [openSUSE Art Team](http://en.opensuse.org/openSUSE:Art_team) will meet in the channel [#opensuse-artwork](irc://irc.freenode.net/opensuse-artwork) on the [freenode IRC network](http://freenode.net/) and everyone is welcome to join in and participate! This meeting is meant to discuss the latest developments in and around artwork of openSUSE.
 

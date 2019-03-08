@@ -1,6 +1,5 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2015-01-14 08:29:26+00:00
 
 layout: post

@@ -1,15 +1,11 @@
 ---
 author: Izabel Valverde
-comments: true
 date: 2012-10-02 00:02:12+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/
 published: false
-slug: opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko
-title: "\n\t\t\t\topenSUSE Conference 2012 - Invitation to Lightning Talks and Speedy\
-  \ Geeko\t\t"
-wordpress_id: 14182
+title: "openSUSE Conference 2012 - Invitation to Lightning Talks and Speedy\
+  \ Geeko"
 ---
 The openSUSE Conference in Prague is about to happen and we know that all of you are really excited about it. One more year with great talks and workshops and the warmth of the openSUSE Community around. Being there is really awesome and being a part of it is really great. Since having fun has no limits for us we feel the need to ask you the following:
 

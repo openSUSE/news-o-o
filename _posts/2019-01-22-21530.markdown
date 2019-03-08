@@ -1,13 +1,9 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-22 00:13:41+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/22/21530/
-slug: '21530'
-title: "\n\t\t\t\t2018-2019 openSUSE Board Elections: Meet Dr. Axel Braun\t\t"
-wordpress_id: 21530
+title: "2018-2019 openSUSE Board Elections: Meet Dr. Axel Braun"
 categories:
 - Announcements
 - Board

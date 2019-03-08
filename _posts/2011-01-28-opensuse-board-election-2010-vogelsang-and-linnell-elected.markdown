@@ -1,6 +1,5 @@
 ---
 author: Sascha Manns
-comments: true
 date: 2011-01-28 09:18:07+00:00
 
 layout: post

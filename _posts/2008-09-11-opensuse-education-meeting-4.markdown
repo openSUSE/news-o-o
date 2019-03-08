@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2008-09-11 09:08:52+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2008/09/11/opensuse-education-meeting-4/
 published: false
-slug: opensuse-education-meeting-4
-title: "\n\t\t\t\topenSUSE Education Meeting\t\t"
-wordpress_id: 1015
+title: "openSUSE Education Meeting"
 tags:
 - Education
 ---

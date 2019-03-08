@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-09 01:19:10+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/09/first-two-candidates-for-the-2018-2019-opensuse-board-elections-announced/
-slug: first-two-candidates-for-the-2018-2019-opensuse-board-elections-announced
-title: "\n\t\t\t\tFirst Two Candidates for the 2018-2019 openSUSE Board Elections\
-  \ Announced\t\t"
-wordpress_id: 21434
+title: "First Two Candidates for the 2018-2019 openSUSE Board Elections\
+  \ Announced"
 categories:
 - Announcements
 - Board

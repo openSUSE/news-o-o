@@ -1,6 +1,5 @@
 ---
 author: Christian Bruckmayer
-comments: true
 date: 2016-11-22 10:13:59+00:00
 
 layout: post

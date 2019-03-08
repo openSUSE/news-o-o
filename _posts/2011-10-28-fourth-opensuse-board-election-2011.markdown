@@ -1,6 +1,5 @@
 ---
 author: Izabel Valverde
-comments: true
 date: 2011-10-28 12:00:20+00:00
 
 layout: post

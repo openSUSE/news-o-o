@@ -1,14 +1,10 @@
 ---
 author: Bryen Yunashko
-comments: true
 date: 2011-08-31 07:32:38+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/08/31/sunday-night-fun-at-the-opensuse-conference/
 published: false
-slug: sunday-night-fun-at-the-opensuse-conference
-title: "\n\t\t\t\tSunday Night Fun at the openSUSE Conference\t\t"
-wordpress_id: 10446
+title: "Sunday Night Fun at the openSUSE Conference"
 categories:
 - Conference
 ---

@@ -1,15 +1,11 @@
 ---
 author: News Team
-comments: true
 date: 2009-06-16 21:33:16+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/06/16/reminder-opensuse-project-meeting-wednesday-june-17th-at-1200-utc/
 published: false
-slug: reminder-opensuse-project-meeting-wednesday-june-17th-at-1200-utc
-title: "\n\t\t\t\tReminder: openSUSE Project Meeting Wednesday June 17th at 12:00\
-  \ UTC\t\t"
-wordpress_id: 1797
+title: "Reminder: openSUSE Project Meeting Wednesday June 17th at 12:00\
+  \ UTC"
 categories:
 - Announcements
 - Project

@@ -1,6 +1,5 @@
 ---
 author: George Bratsos
-comments: true
 date: 2013-07-22 16:43:11+00:00
 
 layout: post

@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2009-06-08 19:28:36+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/06/08/ifolder-irc-meeting-june-9-at-1400-utc-2/
 published: false
-slug: ifolder-irc-meeting-june-9-at-1400-utc-2
-title: "\n\t\t\t\tiFolder Meeting\t\t"
-wordpress_id: 1755
+title: "iFolder Meeting"
 ---
 The [iFolder project](http://www.kablink.org/ifolder) will be having its monthly meeting tomorrow, June 9th, at 14:00 UTC. The meeting will be held in the [#ifolder channel](irc://irc.freenode.net/ifolder) on Freenode.
 

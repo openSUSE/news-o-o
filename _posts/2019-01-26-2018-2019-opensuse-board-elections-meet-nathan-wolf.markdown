@@ -1,13 +1,9 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-26 01:01:49+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/26/2018-2019-opensuse-board-elections-meet-nathan-wolf/
-slug: 2018-2019-opensuse-board-elections-meet-nathan-wolf
-title: "\n\t\t\t\t2018-2019 openSUSE Board Elections: Meet Nathan Wolf\t\t"
-wordpress_id: 21629
+title: "2018-2019 openSUSE Board Elections: Meet Nathan Wolf"
 categories:
 - Announcements
 - Board

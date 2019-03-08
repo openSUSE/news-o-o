@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-11-22 10:39:54+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/11/22/gimp-goes-vertical-ostree-preps-for-changes-with-systemd/
-slug: gimp-goes-vertical-ostree-preps-for-changes-with-systemd
-title: "\n\t\t\t\tGimp Goes Vertical, OSTree Preps for Changes with systemd\t\t"
-wordpress_id: 21363
+title: "Gimp Goes Vertical, OSTree Preps for Changes with systemd"
 categories:
 - Announcements
 - Kubic

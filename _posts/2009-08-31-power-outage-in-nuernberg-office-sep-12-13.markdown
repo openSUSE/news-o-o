@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2009-08-31 20:24:49+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/08/31/power-outage-in-nuernberg-office-sep-12-13/
 published: false
-slug: power-outage-in-nuernberg-office-sep-12-13
-title: "\n\t\t\t\tPower Outage in Nuernberg Office Sep. 12.-13.\t\t"
-wordpress_id: 2059
+title: "Power Outage in Nuernberg Office Sep. 12.-13."
 ---
 From Sep 12 to Sep 13 we will have a power outage in the Nuernberg office.
 

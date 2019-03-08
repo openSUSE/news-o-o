@@ -1,13 +1,9 @@
 ---
 author: News Team
-comments: false
 date: 2009-11-23 13:47:13+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/11/23/linuxtag-2010/
 published: false
-slug: linuxtag-2010
-title: "\n\t\t\t\tLinuxTag 2010\t\t"
-wordpress_id: 2558
+title: "LinuxTag 2010"
 ---
 [Homepage](http://www.linuxtag.org/2009/)		

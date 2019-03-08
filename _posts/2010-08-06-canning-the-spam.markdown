@@ -1,6 +1,5 @@
 ---
 author: No Content Found
-comments: true
 date: 2010-08-06 23:23:45+00:00
 
 layout: post

@@ -1,14 +1,10 @@
 ---
 author: Bryen Yunashko
-comments: true
 date: 2010-12-02 09:24:39+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/12/02/ambassador-support-review/
 published: false
-slug: ambassador-support-review
-title: "\n\t\t\t\tMarketing Collaboration Day - Ambassador Support Review\t\t"
-wordpress_id: 5687
+title: "Marketing Collaboration Day - Ambassador Support Review"
 categories:
 - Events
 ---

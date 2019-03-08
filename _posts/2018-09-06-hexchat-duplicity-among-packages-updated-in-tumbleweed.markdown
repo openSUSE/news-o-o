@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-09-06 19:28:21+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/09/06/hexchat-duplicity-among-packages-updated-in-tumbleweed/
-slug: hexchat-duplicity-among-packages-updated-in-tumbleweed
-title: "\n\t\t\t\tHexchat, Duplicity Among Packages Updated in Tumbleweed\t\t"
-wordpress_id: 21272
+title: "Hexchat, Duplicity Among Packages Updated in Tumbleweed"
 categories:
 - Announcements
 - Tumbleweed

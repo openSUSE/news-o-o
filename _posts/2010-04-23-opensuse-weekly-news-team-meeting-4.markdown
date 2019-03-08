@@ -1,14 +1,10 @@
 ---
 author: Sascha Manns
-comments: true
 date: 2010-04-23 22:11:26+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/
 published: false
-slug: opensuse-weekly-news-team-meeting-4
-title: "\n\t\t\t\tWeekly News Meeting\t\t"
-wordpress_id: 3206
+title: "Weekly News Meeting"
 ---
 We are pleased zo announce our next meeting times.
 

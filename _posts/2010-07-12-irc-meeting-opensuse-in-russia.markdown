@@ -1,14 +1,10 @@
 ---
 author: Andreas Jaeger
-comments: true
 date: 2010-07-12 09:40:38+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/07/12/irc-meeting-opensuse-in-russia/
 published: false
-slug: irc-meeting-opensuse-in-russia
-title: "\n\t\t\t\tIRC Meeting: openSUSE in Russia\t\t"
-wordpress_id: 3747
+title: "IRC Meeting: openSUSE in Russia"
 ---
 Where?
 server: irc.freenode.org

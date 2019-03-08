@@ -1,6 +1,5 @@
 ---
 author: Nenad Latinović
-comments: true
 date: 2014-07-31 18:31:58+00:00
 
 layout: post

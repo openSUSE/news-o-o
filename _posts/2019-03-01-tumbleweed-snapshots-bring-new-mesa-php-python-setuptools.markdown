@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-03-01 08:41:24+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/03/01/tumbleweed-snapshots-bring-new-mesa-php-python-setuptools/
-slug: tumbleweed-snapshots-bring-new-mesa-php-python-setuptools
-title: "\n\t\t\t\tTumbleweed Snapshots Bring New Mesa, php, python-setuptools\t\t"
-wordpress_id: 21748
+title: "Tumbleweed Snapshots Bring New Mesa, php, python-setuptools"
 categories:
 - Announcements
 - Kubic

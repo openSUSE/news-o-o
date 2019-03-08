@@ -1,14 +1,10 @@
 ---
 author: Kostas Koudaras
-comments: true
 date: 2011-07-13 19:59:26+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/07/13/1st-greek-opensuse-collaboration-weekend-campprogram/
 published: false
-slug: 1st-greek-opensuse-collaboration-weekend-campprogram
-title: "\n\t\t\t\t1st Greek openSUSE Collaboration Weekend Camp:Program\t\t"
-wordpress_id: 9715
+title: "1st Greek openSUSE Collaboration Weekend Camp:Program"
 categories:
 - Announcements
 - Events

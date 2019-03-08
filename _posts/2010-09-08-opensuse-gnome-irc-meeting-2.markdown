@@ -1,14 +1,10 @@
 ---
 author: Andreas Jaeger
-comments: true
 date: 2010-09-08 10:38:35+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/09/08/opensuse-gnome-irc-meeting-2/
 published: false
-slug: opensuse-gnome-irc-meeting-2
-title: "\n\t\t\t\topenSUSE GNOME IRC Meeting\t\t"
-wordpress_id: 4167
+title: "openSUSE GNOME IRC Meeting"
 ---
 The openSUSE GNOME team will be having their team meeting on September 14th, 2010 1330 UTC on #opensuse-gnome channel.
 

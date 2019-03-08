@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-02-10 23:36:07+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/02/10/only-a-few-days-left-to-cast-your-ballot-in-the-board-elections/
-slug: only-a-few-days-left-to-cast-your-ballot-in-the-board-elections
-title: "\n\t\t\t\tOnly a Few Days Left to Cast Your Ballot in the Board Elections\t\
-  \t"
-wordpress_id: 21693
+title: "Only a Few Days Left to Cast Your Ballot in the Board Elections\
+  "
 categories:
 - Announcements
 - Board

@@ -1,14 +1,10 @@
 ---
 author: Jos Poortvliet
-comments: true
 date: 2011-01-18 22:33:52+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/01/18/community-team-launches-openslx-backed-german-portal/
 published: false
-slug: community-team-launches-openslx-backed-german-portal
-title: "\n\t\t\t\tCommunity team launches openSLX-backed German portal\t\t"
-wordpress_id: 6293
+title: "Community team launches openSLX-backed German portal"
 ---
 Board has requested to not release this.
 

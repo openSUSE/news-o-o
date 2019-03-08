@@ -1,14 +1,10 @@
 ---
 author: Izabel Valverde
-comments: true
 date: 2011-11-30 11:34:23+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/11/30/41st-opensuse-testing-core-team-meeting/
 published: false
-slug: 41st-opensuse-testing-core-team-meeting
-title: "\n\t\t\t\topenSUSE Testing Core Team Meeting\t\t"
-wordpress_id: 12128
+title: "openSUSE Testing Core Team Meeting"
 categories:
 - Announcements
 ---

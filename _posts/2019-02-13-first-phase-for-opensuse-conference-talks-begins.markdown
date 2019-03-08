@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-02-13 15:43:21+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/02/13/first-phase-for-opensuse-conference-talks-begins/
-slug: first-phase-for-opensuse-conference-talks-begins
-title: "\n\t\t\t\tFirst Phase for openSUSE Conference Talks Begins\t\t"
-wordpress_id: 21716
+title: "First Phase for openSUSE Conference Talks Begins"
 categories:
 - Announcements
 - Build Service

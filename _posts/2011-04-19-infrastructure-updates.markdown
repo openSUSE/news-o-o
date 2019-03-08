@@ -1,6 +1,5 @@
 ---
 author: Adrian Schröter
-comments: true
 date: 2011-04-19 12:14:50+00:00
 
 layout: post

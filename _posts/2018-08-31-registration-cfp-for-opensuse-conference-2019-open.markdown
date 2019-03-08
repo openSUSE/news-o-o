@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-08-31 13:20:32+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/08/31/registration-cfp-for-opensuse-conference-2019-open/
-slug: registration-cfp-for-opensuse-conference-2019-open
-title: "\n\t\t\t\tRegistration, CfP for openSUSE Conference 2019 Open\t\t"
-wordpress_id: 21217
+title: "Registration, CfP for openSUSE Conference 2019 Open"
 categories:
 - Announcements
 - Conference

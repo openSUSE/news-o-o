@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-12-18 09:44:41+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/12/18/request-travel-support-for-opensuse-conference-2019/
-slug: request-travel-support-for-opensuse-conference-2019
-title: "\n\t\t\t\tRequest Travel Support for openSUSE Conference 2019\t\t"
-wordpress_id: 21409
+title: "Request Travel Support for openSUSE Conference 2019"
 categories:
 - Announcements
 - Conference

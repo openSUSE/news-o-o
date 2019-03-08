@@ -1,15 +1,11 @@
 ---
 author: News Team
-comments: true
 date: 2009-11-16 16:45:45+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/11/16/reminder-opensuse-project-meeting-wednesday-november-16-2009-at-1600-utc-2/
 published: false
-slug: reminder-opensuse-project-meeting-wednesday-november-16-2009-at-1600-utc-2
-title: "\n\t\t\t\tReminder: openSUSE Project Meeting Wednesday November 18, 2009 at\
-  \ 16:00 UTC\t\t"
-wordpress_id: 2537
+title: "Reminder: openSUSE Project Meeting Wednesday November 18, 2009 at\
+  \ 16:00 UTC"
 ---
 
 

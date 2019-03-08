@@ -1,14 +1,10 @@
 ---
 author: Will Stephenson
-comments: true
 date: 2010-03-31 14:58:24+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/03/31/opensuse-kde-team-meeting-thursday-1-march-1700-utc/
 published: false
-slug: opensuse-kde-team-meeting-thursday-1-march-1700-utc
-title: "\n\t\t\t\topenSUSE KDE Team Meeting â€“ Thursday 1 March, 17:00 UTC\t\t"
-wordpress_id: 3109
+title: "openSUSE KDE Team Meeting â€“ Thursday 1 March, 17:00 UTC"
 ---
 ***** Europe is on summer time now!  That means the meeting is an hour later than normal for Europeans. The following meeting, 15 April, will be at 1600UTC/1800CEST *****
 

@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2009-08-24 14:41:59+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/08/24/opensuse-project-meeting-wednesday-august-26-2009-at-1600-utc/
 published: false
-slug: opensuse-project-meeting-wednesday-august-26-2009-at-1600-utc
-title: "\n\t\t\t\topenSUSE Project Meeting\t\t"
-wordpress_id: 2032
+title: "openSUSE Project Meeting"
 ---
 
 

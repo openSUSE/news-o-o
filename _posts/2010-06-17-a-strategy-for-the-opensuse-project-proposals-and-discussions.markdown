@@ -1,6 +1,5 @@
 ---
 author: Andreas Jaeger
-comments: true
 date: 2010-06-17 09:27:04+00:00
 
 layout: post

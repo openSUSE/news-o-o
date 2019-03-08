@@ -1,6 +1,5 @@
 ---
 author: Heroes Team
-comments: true
 date: 2007-11-08 16:36:07+00:00
 
 layout: post

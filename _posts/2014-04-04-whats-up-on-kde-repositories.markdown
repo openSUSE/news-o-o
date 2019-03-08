@@ -1,6 +1,5 @@
 ---
 author: Ricardo Chung
-comments: true
 date: 2014-04-04 13:36:56+00:00
 
 layout: post

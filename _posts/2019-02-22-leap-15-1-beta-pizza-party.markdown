@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-02-22 11:56:31+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/02/22/leap-15-1-beta-pizza-party/
-slug: leap-15-1-beta-pizza-party
-title: "\n\t\t\t\tLeap 15.1 Beta Pizza Party\t\t"
-wordpress_id: 21745
+title: "Leap 15.1 Beta Pizza Party"
 categories:
 - Announcements
 - Distribution

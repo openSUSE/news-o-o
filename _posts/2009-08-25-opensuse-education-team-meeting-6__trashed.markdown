@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2009-08-25 16:36:00+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/08/25/opensuse-education-team-meeting-6__trashed/
 published: false
-slug: opensuse-education-team-meeting-6__trashed
-title: "\n\t\t\t\tEducation Meeting\t\t"
-wordpress_id: 2035
+title: "Education Meeting"
 tags:
 - Education
 - Meetings

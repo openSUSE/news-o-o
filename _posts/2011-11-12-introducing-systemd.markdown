@@ -1,14 +1,10 @@
 ---
 author: Manu Gupta
-comments: true
 date: 2011-11-12 18:38:56+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2011/11/12/introducing-systemd/
 published: false
-slug: introducing-systemd
-title: "\n\t\t\t\tIntroducing Systemd\t\t"
-wordpress_id: 11718
+title: "Introducing Systemd"
 categories:
 - Distribution
 ---

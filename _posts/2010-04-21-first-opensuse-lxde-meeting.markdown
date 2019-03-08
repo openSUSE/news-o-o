@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2010-04-21 12:26:33+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/04/21/first-opensuse-lxde-meeting/
 published: false
-slug: first-opensuse-lxde-meeting
-title: "\n\t\t\t\tFirst openSUSE-LXDE Meeting\t\t"
-wordpress_id: 3201
+title: "First openSUSE-LXDE Meeting"
 tags:
 - lxde
 - meeing

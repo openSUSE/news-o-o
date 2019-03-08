@@ -1,14 +1,10 @@
 ---
 author: Andreas Jaeger
-comments: true
 date: 2010-01-25 20:54:28+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/01/25/opensuse-art-team-meeting/
 published: false
-slug: opensuse-art-team-meeting
-title: "\n\t\t\t\topenSUSE Art-Team meeting\t\t"
-wordpress_id: 2739
+title: "openSUSE Art-Team meeting"
 ---
 Objective: Form an openSUSE Art team.
 

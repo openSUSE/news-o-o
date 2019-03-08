@@ -1,6 +1,5 @@
 ---
 author: openSUSE Board
-comments: true
 date: 2012-01-17 16:54:09+00:00
 
 layout: post

@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-11-29 11:29:52+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/11/29/thunderbird-yast-sudo-updates-arrive-in-tumbleweed/
-slug: thunderbird-yast-sudo-updates-arrive-in-tumbleweed
-title: "\n\t\t\t\tThunderbird, YaST, Sudo Updates Arrive in Tumbleweed\t\t"
-wordpress_id: 21373
+title: "Thunderbird, YaST, Sudo Updates Arrive in Tumbleweed"
 categories:
 - Announcements
 - Tumbleweed

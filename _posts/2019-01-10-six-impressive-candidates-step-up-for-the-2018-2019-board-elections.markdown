@@ -1,14 +1,10 @@
 ---
 author: Gerry Makaro
-comments: true
 date: 2019-01-10 05:22:08+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/10/six-impressive-candidates-step-up-for-the-2018-2019-board-elections/
-slug: six-impressive-candidates-step-up-for-the-2018-2019-board-elections
-title: "\n\t\t\t\tSix Impressive Candidates Step Up for the 2018-2019 Board Elections\t\
-  \t"
-wordpress_id: 21445
+title: "Six Impressive Candidates Step Up for the 2018-2019 Board Elections\
+  "
 ---
 ({{ site.baseurl }}/assets/vinzv_oct18.jpg) Vinzenz Vietzke
 

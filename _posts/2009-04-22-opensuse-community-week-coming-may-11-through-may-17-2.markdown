@@ -1,14 +1,10 @@
 ---
 author: News Team
-comments: true
 date: 2009-04-22 13:20:31+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2009/04/22/opensuse-community-week-coming-may-11-through-may-17-2/
 published: false
-slug: opensuse-community-week-coming-may-11-through-may-17-2
-title: "\n\t\t\t\topenSUSE Community Week Coming May 11 through May 17\t\t"
-wordpress_id: 1560
+title: "openSUSE Community Week Coming May 11 through May 17"
 ---
 
 

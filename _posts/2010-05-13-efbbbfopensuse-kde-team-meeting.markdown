@@ -1,14 +1,10 @@
 ---
 author: Will Stephenson
-comments: true
 date: 2010-05-13 16:39:43+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/
 published: false
-slug: '%ef%bb%bfopensuse-kde-team-meeting'
-title: "\n\t\t\t\tï»¿openSUSE KDE Team meeting\t\t"
-wordpress_id: 3285
+title: "ï»¿openSUSE KDE Team meeting"
 ---
 All contributors, community members and users are welcome.
 

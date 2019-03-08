@@ -1,14 +1,10 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-01-18 10:01:34+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/18/tumbleweed-starts-year-with-new-plasma-applications-vim-curl/
-slug: tumbleweed-starts-year-with-new-plasma-applications-vim-curl
-title: "\n\t\t\t\tTumbleweed Starts Year with New Plasma, Applications, VIM, curl\t\
-  \t"
-wordpress_id: 21481
+title: "Tumbleweed Starts Year with New Plasma, Applications, VIM, curl\
+  "
 categories:
 - Announcements
 - Tumbleweed

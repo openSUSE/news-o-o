@@ -1,6 +1,5 @@
 ---
 author: Thorsten Bro
-comments: true
 date: 2018-04-19 16:57:32+00:00
 
 layout: post

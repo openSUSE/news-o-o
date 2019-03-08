@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2018-09-20 10:28:23+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2018/09/20/tumbleweed-gets-new-versions-of-kde-plasma-applications/
-slug: tumbleweed-gets-new-versions-of-kde-plasma-applications
-title: "\n\t\t\t\tTumbleweed Gets New Versions of KDE Plasma, Applications\t\t"
-wordpress_id: 21286
+title: "Tumbleweed Gets New Versions of KDE Plasma, Applications"
 categories:
 - Announcements
 - Tumbleweed

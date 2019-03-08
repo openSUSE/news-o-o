@@ -1,15 +1,11 @@
 ---
 author: Ricardo Chung
-comments: true
 date: 2011-01-12 22:52:58+00:00
-excerpt: "\n\t\t\t\tIt a short approach to who are the openSUSE Board candidates for\
-  \ period 2011 and how is the elections process.\t\t"
+  \ period 2011 and how is the elections process."
 layout: post
 link: https://news.opensuse.org/2011/01/12/the-next-2011-opensuse-board-elections/
 published: false
-slug: the-next-2011-opensuse-board-elections
-title: "\n\t\t\t\tThe Next 2011 openSUSE Board-Elections\t\t"
-wordpress_id: 6283
+title: "The Next 2011 openSUSE Board-Elections"
 categories:
 - Announcements
 - Board

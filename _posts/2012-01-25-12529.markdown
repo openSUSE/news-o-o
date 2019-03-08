@@ -1,14 +1,10 @@
 ---
 author: Bryen Yunashko
-comments: true
 date: 2012-01-25 20:28:51+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2012/01/25/12529/
 published: false
-slug: '12529'
-title: "\n\t\t\t\tPlanning Meeting for openSUSE at SUSECon\t\t"
-wordpress_id: 12529
+title: "Planning Meeting for openSUSE at SUSECon"
 ---
 Planning Meeting for openSUSE at SUSECon
 

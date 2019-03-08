@@ -1,6 +1,5 @@
 ---
 author: Lars Vogdt
-comments: true
 date: 2016-12-06 17:21:29+00:00
 
 layout: post

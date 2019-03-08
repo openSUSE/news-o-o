@@ -1,13 +1,9 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-01-24 09:03:25+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/01/24/kubic-is-now-a-certified-kubernetes-distribution/
-slug: kubic-is-now-a-certified-kubernetes-distribution
-title: "\n\t\t\t\tKubic is now a certified Kubernetes distribution\t\t"
-wordpress_id: 21603
+title: "Kubic is now a certified Kubernetes distribution"
 categories:
 - Announcements
 - Derivatives

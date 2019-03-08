@@ -1,14 +1,10 @@
 ---
 author: Will Stephenson
-comments: true
 date: 2010-10-05 12:58:24+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/10/05/announcing-opensuse-11-3-kde-reloaded-4-5-1/
 published: false
-slug: announcing-opensuse-11-3-kde-reloaded-4-5-1
-title: "\n\t\t\t\tAnnouncing openSUSE 11.3 KDE Reloaded 4.5.1\t\t"
-wordpress_id: 4954
+title: "Announcing openSUSE 11.3 KDE Reloaded 4.5.1"
 categories:
 - Derivatives
 tags:

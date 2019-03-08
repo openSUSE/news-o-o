@@ -1,14 +1,10 @@
 ---
 author: Jos Poortvliet
-comments: true
 date: 2010-09-21 10:48:51+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/09/21/welcome-to-mageia/
 published: false
-slug: welcome-to-mageia
-title: "\n\t\t\t\tWelcome to Mageia\t\t"
-wordpress_id: 4541
+title: "Welcome to Mageia"
 ---
 A personal message from Novell's openSUSE community manager to the Mageia community
 

@@ -1,14 +1,10 @@
 ---
 author: Andreas Jaeger
-comments: true
 date: 2010-02-08 16:33:49+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2010/02/08/opensuse-art-team-meeting-3/
 published: false
-slug: opensuse-art-team-meeting-3
-title: "\n\t\t\t\tArt Team Meeting\t\t"
-wordpress_id: 2846
+title: "Art Team Meeting"
 ---
 The next openSUSE Art Team meeting will be held on Tuesday 9th ofÂ  February at 13:00 UTC in #opensuse-artwork IRC channel on
 irc.freenode.net.

@@ -1,6 +1,5 @@
 ---
 author: Helen South
-comments: true
 date: 2012-10-11 14:00:34+00:00
 
 layout: post

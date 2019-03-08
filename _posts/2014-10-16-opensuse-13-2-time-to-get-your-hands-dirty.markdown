@@ -1,6 +1,5 @@
 ---
 author: Ancor Gonzalez Sosa
-comments: true
 date: 2014-10-16 10:05:53+00:00
 
 layout: post

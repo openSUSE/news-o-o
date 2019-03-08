@@ -1,14 +1,10 @@
 ---
 author: Douglas DeMaio
-comments: true
 date: 2019-02-07 12:25:26+00:00
-excerpt: "\n\t\t\t\t\t\t"
 layout: post
 link: https://news.opensuse.org/2019/02/07/major-version-updates-of-bash-libvirt-openconnect-arrive-in-tumbleweed/
-slug: major-version-updates-of-bash-libvirt-openconnect-arrive-in-tumbleweed
-title: "\n\t\t\t\tMajor Version Updates of Bash, libvirt, OpenConnect Arrive in Tumbleweed\t\
-  \t"
-wordpress_id: 21687
+title: "Major Version Updates of Bash, libvirt, OpenConnect Arrive in Tumbleweed\
+  "
 categories:
 - Announcements
 - Tumbleweed
