@@ -1,5 +1,5 @@
 ---
-author: news
+author: News Team
 comments: true
 date: 2009-06-29 07:22:10+00:00
 excerpt: "\n\t\t\t\t\t\t"

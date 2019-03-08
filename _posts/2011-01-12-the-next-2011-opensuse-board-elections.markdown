@@ -1,5 +1,5 @@
 ---
-author: amonthoth
+author: Ricardo Chung
 comments: true
 date: 2011-01-12 22:52:58+00:00
 excerpt: "\n\t\t\t\tIt a short approach to who are the openSUSE Board candidates for\

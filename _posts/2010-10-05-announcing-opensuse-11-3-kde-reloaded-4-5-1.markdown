@@ -1,5 +1,5 @@
 ---
-author: wstephenson
+author: Will Stephenson
 comments: true
 date: 2010-10-05 12:58:24+00:00
 excerpt: "\n\t\t\t\t\t\t"

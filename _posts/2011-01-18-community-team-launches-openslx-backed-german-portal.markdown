@@ -1,5 +1,5 @@
 ---
-author: jospoortvliet
+author: Jos Poortvliet
 comments: true
 date: 2011-01-18 22:33:52+00:00
 excerpt: "\n\t\t\t\t\t\t"

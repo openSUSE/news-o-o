@@ -1,5 +1,5 @@
 ---
-author: digitaltomm
+author: Thomas Schmidt
 comments: true
 date: 2010-12-16 15:38:15+00:00
 excerpt: "\n\t\t\t\t\t\t"

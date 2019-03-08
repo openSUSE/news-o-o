@@ -1,5 +1,5 @@
 ---
-author: a_jaeger
+author: Andreas Jaeger
 comments: true
 date: 2010-11-24 08:52:44+00:00
 excerpt: "\n\t\t\t\t\t\t"

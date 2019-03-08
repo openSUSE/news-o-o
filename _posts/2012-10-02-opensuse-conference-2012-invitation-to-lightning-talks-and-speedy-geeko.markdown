@@ -1,5 +1,5 @@
 ---
-author: izabelvalverde
+author: Izabel Valverde
 comments: true
 date: 2012-10-02 00:02:12+00:00
 excerpt: "\n\t\t\t\t\t\t"

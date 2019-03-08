@@ -1,5 +1,5 @@
 ---
-author: ddemaio
+author: Douglas DeMaio
 comments: true
 date: 2018-10-11 13:50:14+00:00
 excerpt: "\n\t\t\t\t\t\t"

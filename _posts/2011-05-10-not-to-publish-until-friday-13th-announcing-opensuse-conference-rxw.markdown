@@ -1,5 +1,5 @@
 ---
-author: manugupt1
+author: Manu Gupta
 comments: true
 date: 2011-05-10 19:26:28+00:00
 excerpt: "\n\t\t\t\t\t\t"

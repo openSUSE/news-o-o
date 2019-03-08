@@ -1,5 +1,5 @@
 ---
-author: byunashko
+author: Bryen Yunashko
 comments: true
 date: 2011-04-19 12:29:00+00:00
 excerpt: "\n\t\t\t\t\t\t"

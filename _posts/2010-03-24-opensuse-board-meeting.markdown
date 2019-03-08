@@ -1,5 +1,5 @@
 ---
-author: hennevogel
+author: Henne Vogelsang
 comments: true
 date: 2010-03-24 14:17:24+00:00
 excerpt: "\n\t\t\t\t\t\t"
