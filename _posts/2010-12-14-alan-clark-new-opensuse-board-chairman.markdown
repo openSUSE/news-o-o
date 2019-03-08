@@ -10,7 +10,7 @@ categories:
 - Announcements
 - Board
 ---
-[caption id="attachment_5918" align="alignright" width="252" caption="Alan Clark. Chairman of the openSUSE Board"]![]({{ site.baseurl }}/assets/AlanClark-252x300.jpg)[/caption]
+({{ site.baseurl }}/assets/AlanClark-252x300.jpg)
 
 As you know, Michael Loeffler has left the openSUSE Board to pursue new opportunities, we are sad to see him go and wish him well. With his departure and with the upcoming Board elections,  we have a desire to see a new Chairperson selected. The election rules state that the Chairperson be appointed by Novell and yesterday [Markus Rex](http://www.novell.com/company/bios/mrex.html), General Manager of Novells Open Platform Solutions, presented **Alan Clark** to us as the new Chairperson.<!-- more -->
 

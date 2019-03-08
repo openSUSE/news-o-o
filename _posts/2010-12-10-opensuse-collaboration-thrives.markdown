@@ -11,7 +11,7 @@ categories:
 ---
 Earlier this week, the openSUSE Marketing Team held the first of a series of Collaboration Days in December.  This was, without a doubt, a success with many of our team members showing up as well as many newcomers offering to lend a hand.
 
-[caption id="attachment_5864" align="alignright" width="300" caption="Apparently not build in a day"][![Apparently not build in a day]({{ site.baseurl }}/assets/4757005099_74b8c7311b_b-300x200.jpg)](http://www.flickr.com/photos/chanc/)[/caption]
+(http://www.flickr.com/photos/chanc/)
 
 The focus for the 6 December event was to review existing support materials for our Ambassadors.  Moderated by Kostas Koudaras and Carlos Ribeiro, a variety of assignments were tackled, from a list that included booth design and organization, kits for Ambassadors, presentations, talking points, 2011 planning and much more.   To be sure, not everything can be accomplished in one day.  Heck, even Rome wasn't built in a day! Still, this day was long - after all, we're an international bunch, so there were a few more hours than usual :D
 

@@ -14,7 +14,7 @@ We are pleased to announce that the winner of our Logo Design contest is the No.
 
 Congratulations, *W.H*! W.H's logo has been chosen as the official logo.
 
-[caption id="attachment_18545" align="aligncenter" width="300"]![openSUSE Asia Summit 2014]({{ site.baseurl }}/assets/Logo-300x300.png) openSUSE Asia Summit 2014[/caption]
+({{ site.baseurl }}/assets/Logo-300x300.png) openSUSE Asia Summit 2014
 
 
 

@@ -53,7 +53,7 @@ LibreOffice got a version bump, and its artwork and branding was updated to the 
 
 Finally, the translation teams have been hard at work and those have been integrated in 12.2, and the multinationalisation developers made fixes to input methods.
 
-[caption id="attachment_12917" align="alignright" width="150"][![openSUSE Factory workflow]({{ site.baseurl }}/assets/600px-Factory_workflow-150x150.png)](http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow[/caption]
+(http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow
 
 
 ## Help out!

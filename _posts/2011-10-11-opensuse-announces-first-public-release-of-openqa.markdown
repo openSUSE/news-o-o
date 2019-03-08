@@ -27,7 +27,7 @@ The openSUSE Project announces the 1.0 release of the unique cross-distribution-
 
 Testing complex software is a crucial part of development. However, in-depth, frequent testing is difficult, time-consuming and boring. To ensure that software is tested regularly and predictably, automation is crucial. Many in-house tools which can test specific applications have been developed but there was no comprehensive testing tool for a full operating system until openQA. openQA does its work entirely hands-off and offers a convenient web interface with an overview of the results. With openQA developers can catch and fix issues in the development process much faster and thus ensure a more reliable product.
 
-[caption id="attachment_11205" align="alignright" width="150" caption="openQA test overview"][![openQA test overview]({{ site.baseurl }}/assets/openQA-test-overview-150x150.png)](https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/openqa-test-overview/)[/caption]
+(https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/openqa-test-overview/)
 
 
 
@@ -38,7 +38,7 @@ openQA can test any operating system which is able to run in a virtual machine. 
 
 openQA determines if the installation of the operating system worked correctly and whether a number of applications started properly. At the end of the test, all images are encoded into a video for consultation by a human tester in case this is needed. A status overview of the tests can be shown [in a web interface](http://openqa.opensuse.org/results/), currently available for the openSUSE Factory development repository on [openqa.opensuse.org](openqa.opensuse.org).
 
-[caption id="attachment_11207" align="alignright" width="150" caption="openQA screenshot"][![openQA screenshot]({{ site.baseurl }}/assets/openQA-screenshot-150x150.png)](https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/openqa-screenshot/)[/caption]
+(https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/openqa-screenshot/)
 
 Coolo, openSUSE release manager noted: 
 
@@ -55,7 +55,7 @@ openQA is developed as two software pieces: [OS-autoinst](http://www.os-autoinst
 
 The [openQA web interface](http://openqa.opensuse.org) is openSUSE specific right now. It gives an overview of the status of all tests and allows the tester to look at specific screenshots of issues as well as video's of the entire testing process.
 
-[caption id="attachment_11206" align="alignright" width="150" caption="openQA test details"][![openQA test details]({{ site.baseurl }}/assets/openQA-test-overview1-150x150.png)](https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/openqa-test-overview1/)[/caption]
+(https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/openqa-test-overview1/)
 
 
 

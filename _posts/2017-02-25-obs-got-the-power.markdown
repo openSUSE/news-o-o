@@ -31,6 +31,6 @@ That new build power allowed us to remove some of old machines from the pool. Th
 
 For those who like some more pictures, feel free to check the rest of the entry...<!-- more -->
 
-[caption id="attachment_20339" align="aligncenter" width="300"][![8 servers and 2 switches]({{ site.baseurl }}/assets/OBS_Rack_lamb_backside-300x200.jpg)]({{ site.baseurl }}/assets/OBS_Rack_lamb_backside.jpg) A view at the backside of two racks, containing 8x4 servers and 2 switches.[/caption]
+({{ site.baseurl }}/assets/OBS_Rack_lamb_backside.jpg) A view at the backside of two racks, containing 8x4 servers and 2 switches.
 
-[caption id="attachment_20341" align="aligncenter" width="300"][![View to 6.5 Racks from their back]({{ site.baseurl }}/assets/OBS_Rack_overview_backside-300x200.jpg)]({{ site.baseurl }}/assets/OBS_Rack_overview_backside.jpg) Some OBS worker Racks from the back. The white one on the left contains old x86 machines, the four in the middle contain the lamb workers, the right Rack contains the cloud workers.[/caption]		
+({{ site.baseurl }}/assets/OBS_Rack_overview_backside.jpg) Some OBS worker Racks from the back. The white one on the left contains old x86 machines, the four in the middle contain the lamb workers, the right Rack contains the cloud workers.		

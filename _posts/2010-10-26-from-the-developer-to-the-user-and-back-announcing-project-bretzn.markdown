@@ -87,4 +87,4 @@ Future plans are to show commits of friends, link to bug trackers so users can f
 
 The code will soon be available on Gitorious for all to see and of course anyone interested in helping out is more than welcome. The team is looking for integration in other DE's like Eclipse, NetBeans, Visual Studio, MonoDevelop and KDevelop. But also work on more App Stores, further social media integration and code cleanup is needed! And especially work on a GNOME frontend, in the spirit of Collaboration Across Borders, would make the team happy.
 
-[caption id="attachment_5288" align="aligncenter" width="693" caption="The Meaning Of Bretzn"][![The Meaning Of Bretzn]({{ site.baseurl }}/assets/shot1.png)](https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot1/)[/caption]		
+(https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot1/)		

@@ -12,7 +12,7 @@ categories:
 - Events
 - Project
 ---
-[caption id="attachment_17869" align="alignright" width="300"][![board in Action by Svebor]({{ site.baseurl }}/assets/Board-300x225.jpg)]({{ site.baseurl }}/assets/Board.jpg) The Board in Action[/caption]
+({{ site.baseurl }}/assets/Board.jpg) The Board in Action
 
 The openSUSE Conference 2014 in Dubrovnik was kicked off just an hour ago by the board, sharing some practical information with those in attendance, a call for help as well as a number of community announcements. Talks will be available via streaming during the event, make sure to check it out!
 

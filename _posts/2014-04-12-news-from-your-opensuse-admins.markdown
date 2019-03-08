@@ -38,7 +38,7 @@ If you want to sync packages to your local machine(s) via rsync: please pick a m
 ## New hardware
 
 
-[caption id="attachment_15924" align="alignleft" width="150"]![All the racks of the OBS reference server]({{ site.baseurl }}/assets/obs_server-150x150.jpg) All the racks of the OBS reference server[/caption]
+({{ site.baseurl }}/assets/obs_server-150x150.jpg) All the racks of the OBS reference server
 
 You may have noticed already that the openSUSE team installed a [new version of openQA](https://news.opensuse.org/2014/04/04/the-new-generation-of-openqa-hits-the-production-server/) on the production server. An additional news item might be that this new version has seen also new hardware to run faster than ever.
 

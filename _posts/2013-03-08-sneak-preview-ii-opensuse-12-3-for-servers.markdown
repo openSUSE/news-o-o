@@ -9,7 +9,7 @@ title: "Sneak preview II: openSUSE 12.3 for Servers"
 categories:
 - Distribution
 ---
-[caption id="attachment_15473" align="alignright" width="300"][![postgres in openSUSE 12.3]({{ site.baseurl }}/assets/postgres-12.31-300x210.png)]({{ site.baseurl }}/assets/postgres-12.31.png) postgres in openSUSE 12.3[/caption]
+({{ site.baseurl }}/assets/postgres-12.31.png) postgres in openSUSE 12.3
 
 The new openSUSE is just around the corner so let's take a closer look at some of the new features that you can look forward to. This time, we will concentrate on the features for servers: databases, virtualization and OpenStack packages.<!-- more -->
 
@@ -30,7 +30,7 @@ For Oracle MySQL and MariaDB see very few changes in this release, as they just 
 
 
 Servers nowadays are not only about databases but also about virtualization. Everything is out of sight in the clouds. And openSUSE comes with the latest virtualization software to help you manage that and create your own virtualized clusters.
-[caption id="attachment_15447" align="alignright" width="300"][![GNOME Boxes]({{ site.baseurl }}/assets/GNOME_boxes22-300x225.png)]({{ site.baseurl }}/assets/GNOME_boxes22.png) GNOME Boxes[/caption]
+({{ site.baseurl }}/assets/GNOME_boxes22.png) GNOME Boxes
 
 
 
@@ -47,7 +47,7 @@ openSUSE 12.3 includes a production release of Gnome Boxes, which is a new way o
 
 
 We included OpenStack in openSUSE for the first time in 12.2, and now we are going to ship its newer version called _Folsom_. OpenStack is a full stack that will allow you to build your own virtualization cluster, comprising all the key components of a deployment. What is new in _Folsom_? The key feature of this release is a new module called _Quantum_, which is responsible for managing networks in OpenStack. It supports, among other things, Open vSwitch or Cisco infrastructure. It also supports overlapping IPs on different networks, floating IPs and various types of forwarding, NATs and VLANs.
-[caption id="attachment_15475" align="alignright" width="300"][![openstack dashboard]({{ site.baseurl }}/assets/openstack-overview-300x180.png)]({{ site.baseurl }}/assets/openstack-overview.png) openstack dashboard[/caption]
+({{ site.baseurl }}/assets/openstack-overview.png) openstack dashboard
 
 The OpenStack Dashboard, called _Horizon_, has taken these new networking features into account and they were integrated into other modules as well. But even other modules got some interesting features, like in the Computation module _Nova_ which got support for example for LVM and Hyper V.
 

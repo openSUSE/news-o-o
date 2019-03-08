@@ -26,7 +26,7 @@ Keynotes were particularly very interesting. Vojtech and Jos kicked of the confe
 
 The openSUSE Planet has plenty of blogs reporting on the talks. Take for example the great series by the Greek Ambassadors who wrote an article each day, the latest being [conference day 4](http://opensuseambassadors.blogspot.com/2011/09/opensuse-conference-day-4.html). Kai-Uwe Behrmann covered his own talk on [color calibrating and profiling monitors](http://oyranos-cms.blogspot.com/2011/09/dispcalgui-07-rwx.html), 
 
-[caption id="attachment_11033" align="alignnone" width="700" caption="The conference area before the start"][![Ready - set - go]({{ site.baseurl }}/assets/Ready-set-go.jpg)](https://news.opensuse.org/2011/09/15/opensuse-conference-fun/ready-set-go/)[/caption]
+(https://news.opensuse.org/2011/09/15/opensuse-conference-fun/ready-set-go/)
 
 
 ## Have a lot of ...

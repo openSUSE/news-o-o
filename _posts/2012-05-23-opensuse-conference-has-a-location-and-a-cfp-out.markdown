@@ -29,7 +29,7 @@ This years openSUSE Conference theme is _"Bootstrapping awesome!"_. Why? Not jus
 
 The other conferences are [Gentoo miniconf](http://miniconf.gentoo.org) and the [LinuxDays conference](http://linuxdays.cz).
 
-[caption id="attachment_13389" align="alignright" width="212" caption="combined conference poster (still WIP)"][![click to visit the combined conference website!]({{ site.baseurl }}/assets/Website-image-90-dpi-212x300.png)](http://bootstrapping-awesome.org)[/caption]
+(http://bootstrapping-awesome.org)
 
 
 ### LinuxDays Conference

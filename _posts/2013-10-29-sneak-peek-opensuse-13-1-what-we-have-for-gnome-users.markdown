@@ -9,7 +9,7 @@ title: "Sneak Peek openSUSE 13.1: What we have for GNOME Users"
 categories:
 - Distribution
 ---
-[caption id="attachment_17228" align="alignright" width="300"][![GNOME Shell GNOME 13.1]({{ site.baseurl }}/assets/GNOME_Shell_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/GNOME_Shell_GNOME_13.1.jpg)Clean GNOME Shell[/caption]
+({{ site.baseurl }}/assets/GNOME_Shell_GNOME_13.1.jpg)Clean GNOME Shell
 
 Welcome to our third Sneak Peek of what is coming in openSUSE 13.1! You've already learned about the [new Cloud features](https://news.opensuse.org/2013/10/17/openstack-havana-and-opensuse/) and [YaST having been ported to Ruby](https://news.opensuse.org/2013/10/10/coming-soon-opensuse-13-1-with-yast-in-ruby/) andÂ  it's time to talk about... **our desktops!** We kick this off with GNOME 3.10.
 
@@ -21,7 +21,7 @@ Sticking with our philosophy for shipping the latest and the greatest, openSUSE 
 
 Changes in the shell may not be immediately apparent but they can be noticed after a short amount of use. The changes committed to gnome-shell are subtle and various but they are consistent, adhesive, and more user-friendly. Following GNOME™s philosophy of simplicity and elegance, the shell boasts several redesigned features such as a pressure-sensitive system tray, a unified system menu, and a paging app picker. That™s not all! GNOME has taken into consideration the concerns over privacy and as such , several components have been redesigned with privacy in mind.
 
-[caption id="attachment_17231" align="alignright" width="300"][![GNOME Shell system menu]({{ site.baseurl }}/assets/Shell_systemtray_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/Shell_systemtray_GNOME_13.1.jpg)GNOME Shell system menu[/caption]
+({{ site.baseurl }}/assets/Shell_systemtray_GNOME_13.1.jpg)GNOME Shell system menu
 
 
 ### Unified System Menu
@@ -35,7 +35,7 @@ One of the things you might notice after logging in to a GNOME session, is that 
 
 GNOME 3.10 makes use of GTK+ 3.10 which in turn offers a new feature called the Header Bar (Client-Side Decoration, CSD). The Header Bar allows application developers to merge the title bar and the toolbars into a single component, offering the user more screen space with less clutter. Presently, you no longer need to resort to the Overview or use ALT+F4 in order to close a window. The Header Bar features a close button by default and provides a more consistent look regardless of whether the window is maximized or not.
 
-[caption id="attachment_17257" align="alignright" width="300"][![Shell_Notifications_GNOME_13.1]({{ site.baseurl }}/assets/Shell_Notifications_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/Shell_Notifications_GNOME_13.1.jpg)System tray and notifications[/caption]
+({{ site.baseurl }}/assets/Shell_Notifications_GNOME_13.1.jpg)System tray and notifications
 
 
 ### Responsive System Tray
@@ -49,7 +49,7 @@ The System tray which efficiently handles the desktop™s dbus notifications has
 
 The Activities Overview has received two new updates. The first being a more size-aware placement of the spread windows, and the second being an improved search functionality. Several search providers have been added to the shell to bring data from the core GNOME apps into the shell. For instance, it is possible to find your notes, files, contacts, documents, etc., directly from within the shell™s search window. A new search settings module in the GNOME setting dialog allows the user to control precisely what is searched, allowing the user to adjust just how much is visible in their search results.
 
-[caption id="attachment_17229" align="alignright" width="300"][![GNOME Shell Application launcher]({{ site.baseurl }}/assets/Shell_Applications_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/Shell_Applications_GNOME_13.1.jpg) GNOME Shell Application launcher[/caption]
+({{ site.baseurl }}/assets/Shell_Applications_GNOME_13.1.jpg) GNOME Shell Application launcher
 
 
 ### Easier Application Launching
@@ -57,7 +57,7 @@ The Activities Overview has received two new updates. The first being a more siz
 
 The application launching view has been slightly modified to add a Frequent tab. The Frequent tab provides quick access to your most commonly used applications which could save you the time to look for them. The All tab shows all your currently installed and enabled applications. The application categories have been dropped in order to make space for more application icons on smaller screens. New also is how the application icons are presented. Instead of a scrollable list, they™re in a paginated view, allowing the user to scan through all the installed apps quicker and easier. Also, a new form of groups has been introduced using application folders. Several applications can be grouped within a folder in the All tab. Currently, users have to resort to the dconf-editor in order to add or remove application folders.
 
-[caption id="attachment_17233" align="alignright" width="300"][![Web & app menu in Shell]({{ site.baseurl }}/assets/Web_appmenu_GNOME_13.1-300x168.jpg)]({{ site.baseurl }}/assets/Web_appmenu_GNOME_13.1.jpg) Web & app menu in Shell[/caption]
+({{ site.baseurl }}/assets/Web_appmenu_GNOME_13.1.jpg) Web & app menu in Shell
 
 
 ### Better Menus
@@ -65,7 +65,7 @@ The application launching view has been slightly modified to add a Frequent ta
 
 More of GNOME™s core applications have received AppMenu (Application Menu) support. What is the AppMenu? It™s a drop down menu that is triggered by clicking on the application™s icon in the top bar. Previously, the AppMenu featured a single option which was the quit command. Presently, the AppMenu hosts all the less used options related to the core applications. In example, the preferences and the about options are hosted in the AppMenu. Paired with the new cog menu present in certain applications, GNOME boasts more cohesive and less obtrusive menus, giving the user a more elegant design while not sacrificing screen space to achieve it.
 
-[caption id="attachment_17226" align="alignright" width="300"][![Classic Applications GNOME 13.1]({{ site.baseurl }}/assets/Classic_Applications_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/Classic_Applications_GNOME_13.1.jpg) Classic desktop in GNOME 3.10[/caption]
+({{ site.baseurl }}/assets/Classic_Applications_GNOME_13.1.jpg) Classic desktop in GNOME 3.10
 
 
 ### Reinvented Classic Mode
@@ -85,7 +85,7 @@ Online accounts have been present in GNOME for a while but they have recently re
 
 Various changes have been applied to the GNOME system settings. In accordance with the emphasis on privacy, privacy settings have been added to allow the user to delete usage history and to hide recently used files. It™s also possible to turn off shell search providers and hide notifications generated by certain apps. Sharing settings have been added for easier control over sharing data, and the Date & Time as well as the Display settings have received visual improvements. It is also now possible to select a custom background for the Lock Screen.
 
-[caption id="attachment_17234" align="alignright" width="300"][![Stopwatch in Clocks]({{ site.baseurl }}/assets/clocks_stopwatch_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/clocks_stopwatch_GNOME_13.1.jpg) Stopwatch in Clocks[/caption]
+({{ site.baseurl }}/assets/clocks_stopwatch_GNOME_13.1.jpg) Stopwatch in Clocks
 
 
 ## New Core Apps
@@ -99,7 +99,7 @@ Several core apps have been added to GNOME expanding its functionality. These ap
 
 Clocks is a simple app that handles basic time-related tasks. It features an alarm, a stopwatch, and a timer, along with the ability to show the time in different cities around the world. Users can simply add or remove cities that they wish to keep track of the time in. Very handy if you have family, friends or co-workers in different parts of the world.
 
-[caption id="attachment_17237" align="alignright" width="300"][![Notes]({{ site.baseurl }}/assets/todo_collections2_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/todo_collections2_GNOME_13.1.jpg) Notes[/caption]
+({{ site.baseurl }}/assets/todo_collections2_GNOME_13.1.jpg) Notes
 
 
 ### Notes
@@ -112,7 +112,7 @@ It has basic note-linking abilities, where you can link notes together using a c
 
 
 
-[caption id="attachment_17238" align="alignright" width="300"][![Weather]({{ site.baseurl }}/assets/weather_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/weather_GNOME_13.1.jpg) Weather[/caption]
+({{ site.baseurl }}/assets/weather_GNOME_13.1.jpg) Weather
 
 
 ### Weather
@@ -122,7 +122,7 @@ Weather, as the name implies, is an application designed to show weather forecas
 
 To install Weather type _sudo zypper in gnome-weather_ in your favorite terminal
 
-[caption id="attachment_17235" align="alignright" width="300"][![Photos]({{ site.baseurl }}/assets/photos_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/photos_GNOME_13.1.jpg) Photos[/caption]
+({{ site.baseurl }}/assets/photos_GNOME_13.1.jpg) Photos
 
 
 ### Photos
@@ -138,7 +138,7 @@ To install Photos type sudo zypper in gnome-photos in your favorite terminal
 
 Several other apps have been introduced in 3.10. However, these apps have not met their design goals yet and as such they are released as previews. These applications include Polari, Software, Maps, Break-timer, and Music.
 
-[caption id="attachment_17236" align="alignright" width="300"][![Software]({{ site.baseurl }}/assets/software_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/software_GNOME_13.1.jpg) Software[/caption]
+({{ site.baseurl }}/assets/software_GNOME_13.1.jpg) Software
 
 
 ### Software
@@ -148,7 +148,7 @@ Software centers are a necessity in modern computing and Software is GNOME™s a
 
 To install Software, type _sudo zypper in gnome-software gnome-software-appdata_ in your favorite terminal. Note that the latter package will cause a few changes in the behavior of packagekit.
 
-[caption id="attachment_17243" align="alignright" width="300"][![The new Music]({{ site.baseurl }}/assets/Music_album_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/Music_album_GNOME_13.1.jpg) The new Music[/caption]
+({{ site.baseurl }}/assets/Music_album_GNOME_13.1.jpg) The new Music
 
 
 ### Music
@@ -161,7 +161,7 @@ However, despite being a stable and functional app, Music is missing a few core 
 
 
 
-[caption id="attachment_17244" align="alignright" width="300"][![Maps in action]({{ site.baseurl }}/assets/maps_vector_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/maps_vector_GNOME_13.1.jpg) Maps in action[/caption]
+({{ site.baseurl }}/assets/maps_vector_GNOME_13.1.jpg) Maps in action
 
 
 ### Maps
@@ -188,7 +188,7 @@ Other Changes Include:
 	
   * Updates to the Cantarell font
 
-[caption id="attachment_17245" align="alignright" width="300"][![Rhythmbox]({{ site.baseurl }}/assets/Rhythmbox_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/Rhythmbox_GNOME_13.1.jpg) Rhythmbox[/caption]
+({{ site.baseurl }}/assets/Rhythmbox_GNOME_13.1.jpg) Rhythmbox
 	
   * Smart Card Support
 
@@ -232,7 +232,7 @@ Other Changes Include:
   * And many more!
 
 
-[caption id="attachment_17232" align="alignright" width="300"][![Tweak Tool]({{ site.baseurl }}/assets/Tweak_Tool2_GNOME_13.1-300x225.jpg)]({{ site.baseurl }}/assets/Tweak_Tool2_GNOME_13.1.jpg) Tweak Tool[/caption]
+({{ site.baseurl }}/assets/Tweak_Tool2_GNOME_13.1.jpg) Tweak Tool
 
 
 ## Tweaking GNOME

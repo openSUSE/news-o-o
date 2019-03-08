@@ -38,7 +38,7 @@ After the conference is over, the recording of the sessions will be posted in ou
 
 Please note that if you're going to oSC you're expected to be OK with us making and sharing these recordings with our remote audience.
 
-[caption id="attachment_16318" align="alignright" width="212"][![Awesome party poster]({{ site.baseurl }}/assets/Sponsor_Party_Poster_07-212x300.jpg)]({{ site.baseurl }}/assets/Sponsor_Party_Poster_07.jpg) Geeko Parties Coming![/caption]
+({{ site.baseurl }}/assets/Sponsor_Party_Poster_07.jpg) Geeko Parties Coming!
 
 
 ## Keynotes

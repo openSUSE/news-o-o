@@ -25,4 +25,4 @@ For many years, there has been close cooperation between SUSE and upstream deskt
 
 The doors open to the public at 1800 in the openSUSE Community Space, Maxtorhof, Maxfeldstr 5, 90409 Nuernberg.  If you're planning to attend, it would be much appreciated if you can let [Will Stephenson](mailto:wstephenson@novell.com) know in advance - but feel free to come along spontaneously.
 
-[caption id="" align="aligncenter" width="540" caption="KDE Plasma Desktop"][![KDE Plasma Desktop](http://www.kde.org/announcements/4.4/screenshots/thumbs/social-web-widgets_thumb.jpg)](http://www.kde.org/announcements/4.4/screenshots/thumbs/social-web-widgets_thumb.jpg)[/caption]		
+(http://www.kde.org/announcements/4.4/screenshots/thumbs/social-web-widgets_thumb.jpg)		

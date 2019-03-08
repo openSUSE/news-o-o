@@ -12,7 +12,7 @@ categories:
 ---
 
 
-[caption id="attachment_3836" align="alignleft" width="300" caption="openSUSE 11.3 is here!"][![11.3 is here]({{ site.baseurl }}/assets/113-is-here-300x150.jpg)]({{ site.baseurl }}/assets/113-is-here.jpg)[/caption]
+({{ site.baseurl }}/assets/113-is-here.jpg)
 
 The openSUSE Project is pleased to announce the release of the [latest incarnation of openSUSE](http://software.opensuse.org), with support for 32-bit and 64-bit systems. [openSUSE 11.3](http://wiki.opensuse.org/Portal:11.3) is packed with new features and updates including [SpiderOak](https://spideroak.com/) to sync your files across the Internet for free, Rosegarden for free editing of your audio files, improved indexing with Tracker, and updates to Mozilla Firefox, and Thunderbird.
 
@@ -22,7 +22,7 @@ openSUSE continues its tradition of delivering the popular KDE, GNOME and Xfce d
 
 Click the desktop screenshots for a full view or see the complete collection of screenshots [here](http://wiki.opensuse.org/Screenshots).
 
-[caption id="attachment_3821" align="alignleft" width="323" caption="GNOME Shell in GNOME 3.0"][![GNOME Shell in GNOME 3.0]({{ site.baseurl }}/assets/OSS113-gnome-shell3-300x175.png)]({{ site.baseurl }}/assets/OSS113-gnome-shell3.png)[/caption]
+({{ site.baseurl }}/assets/OSS113-gnome-shell3.png)
 
 [![Plasma Desktop on KDE SC 4.4.4]({{ site.baseurl }}/assets/Plasma-desktop-300x225.png)]({{ site.baseurl }}/assets/Plasma-desktop.png)
 

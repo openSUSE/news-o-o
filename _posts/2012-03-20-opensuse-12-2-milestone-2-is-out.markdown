@@ -20,7 +20,7 @@ Those following openSUSE development closely probably know that the 2nd mileston
 
 openSUSE, as you might know, is being developed in [Factory](http://en.opensuse.org/Portal:Factory). Factory is a project on the [openSUSE Build Service](http://build.opensuse.org) against which you can build a package. If it works fine, you can submit it to Factory and keep it working there.
 
-[caption id="attachment_12939" align="alignright" width="300" caption="Plymouth Merge request: Accepted!"][![Plymouth Merge request: Accepted!]({{ site.baseurl }}/assets/3-300x227.jpg)](https://build.opensuse.org/request/show/107559)[/caption]
+(https://build.opensuse.org/request/show/107559)
 
 
 ### Grub2 and Plymouth
@@ -44,7 +44,7 @@ Grub2, Plymouth and GCC 4.7 are of course only three random [upcoming features f
 ## Help out!
 
 
-[caption id="attachment_12919" align="alignright" width="300" caption="List of failures in Factory - help get rid of them!"][![List of build failures in Factory]({{ site.baseurl }}/assets/2-300x179.jpg)](https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results)[/caption]
+(https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results)
 
 Of course you're wondering how you can help. This can start with testing. Go to [software.opensuse.org/developer](http://software.opensuse.org/developer/), download Milestone 2 and try it out on your system! You can then check the
 [most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev) to see if your problems are there, if not, you can [see the list of bugs and/or file a new one in Bugzilla](https://bugzilla.novell.com/query.cgi?classification=openSUSE&field0-0-0=op_sys&product=openSUSE%2012.2&query_format=advanced&resolution=---&type0-0-0=substring&value0-0-0=openSUSE). If the bug you find is very serious, add it tho the list of annoying bugs!
@@ -53,7 +53,7 @@ If you are a packager (or want to be one!) there is of course also plenty to do.
 
 Stephan "Coolo" Kulow [did a call for help](http://lists.opensuse.org/opensuse-factory/2012-03/msg00141.html), mentioning the bad shape openSUSE-Factory was in, asking whoever can to help [fix issues in the list of build failures](https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results). You can read about [how to do this here](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory), via a simple set of stepps which in openSUSE are commonly known as ['BURP-ing'](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/).
 
-[caption id="attachment_12917" align="alignright" width="150" caption="Factory Workflow"][![openSUSE Factory workflow]({{ site.baseurl }}/assets/600px-Factory_workflow-150x150.png)](http://en.opensuse.org/openSUSE:Factory_development_model)[/caption]
+(http://en.opensuse.org/openSUSE:Factory_development_model)
 
 **Dimstar** asked anyone able and willing to help out with GCC 4.7 , [I'll just quote him](http://lists.opensuse.org/opensuse-factory/2012-03/msg00197.html):
 

@@ -9,7 +9,7 @@ title: "openSUSE Boosters Year 2010"
 categories:
 - Project
 ---
-[caption id="attachment_6077" align="alignright" width="300" caption="The elusive Thirsty Thirteen"][![]({{ site.baseurl }}/assets/Opensuse-boosters-300x200.jpg)](http://en.opensuse.org/openSUSE:Boosters_team)[/caption]
+(http://en.opensuse.org/openSUSE:Boosters_team)
 
 At the end of the year it is the time for reviews and the openSUSE Booster team did not want to let that opportunity slip. So what was important in 2010 from an openSUSE Boosters perspective? What happened, what progress was made, how did the boosters help openSUSE? A report from Klaas Freitag.<!-- more -->
 

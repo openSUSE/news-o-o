@@ -18,7 +18,7 @@ the openSUSE Conference kicks off in less than 6 weeks! The conference Paper Com
 
 The Community and Project track gathers talks around openSUSE and community activities, quoting [the CfP page](https://conference.opensuse.org/osem/conference/osc2013/proposal/new): _"including but not limited to project governance, marketing, artwork, ambassador reports, collaboration with other FOSS communities and other topics"_.
 
-[caption id="attachment_16090" align="alignright" width="212"][![statistics geeko inside]({{ site.baseurl }}/assets/statistics-geeko-inside-212x300.png)]({{ site.baseurl }}/assets/statistics-geeko-inside.png) Find the geeko[/caption]
+({{ site.baseurl }}/assets/statistics-geeko-inside.png) Find the geeko
 
 Currently accepted talks will introduce local openSUSE communities, intro the [new ambassador and merchandising programs](https://news.opensuse.org/2013/05/10/ambassadors-event-merchendise-all-change/) and discuss Free and open in general.
 
@@ -51,7 +51,7 @@ For this area we invite other FOSS projects to share their work and collaborate 
 
 Two prominent and disrupting Window Manager presentations make their way into the conference. The MATE desktop with the latest changes and features will join the illumined Enlightenment Desktop in two great presentations about their awesomeness. Since the inception of drastic changes to the most popular window managers Gnome and KDE, many have sought to find alternatives that sit better with individual needs. MATE attempts to bring back a traditional Gnome 2 experience even after Gnome moved their packages to version 3. Enlightenment being an old classic in the bunch but always with fresh and daring ideas makes its appearance on stage with great ideas on how to show speed and a polished system to manage your files.
 
-[caption id="attachment_14838" align="alignright" width="300"][![Cafe allowed a sneak-peek into a talk room]({{ site.baseurl }}/assets/Day3-Monday-036_DSC_7850-300x198.jpg)]({{ site.baseurl }}/assets/Day3-Monday-036_DSC_7850.jpg) Cafe allowed a sneak-peek into a talk room[/caption]
+({{ site.baseurl }}/assets/Day3-Monday-036_DSC_7850.jpg) Cafe allowed a sneak-peek into a talk room
 
 The Open World track helps you learn as well. Every morning Jos Poortvliet will teach you improved presentation skills and coupled with the presentation by Salih on how to evangelize Linux this becomes the perfect combo for those looking to help make more openSUSE adepts.
 

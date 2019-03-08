@@ -1,0 +1,412 @@
+---
+author: Fraser_Bell
+comments: true
+date: 2019-01-22 00:13:41+00:00
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://news.opensuse.org/2019/01/22/21530/
+slug: '21530'
+title: "\n\t\t\t\t2018-2019 openSUSE Board Elections: Meet Dr. Axel Braun\t\t"
+wordpress_id: 21530
+categories:
+- Announcements
+- Board
+- Board Elections
+- Events
+- Project
+---
+
+
+
+### Seven Candidates in Race for Three Vacant Board Seats
+
+
+
+
+
+
+
+**With less than two weeks to go until the ballots open on Monday,  February 4, 2019, openSUSE News and the Elections Committee are running a  “meet your candidates” series.  Questions were sent out to the seven  Candidates.  The questions and answers will appear in the News, one  Candidate each day, in alphabetical order.**
+
+
+
+
+
+
+
+You can find out more about the [Elections at the Official Wiki Page.](https://en.opensuse.org/openSUSE:Board_election)
+
+
+
+
+
+
+
+# Meet Dr. Axel Braun  
+
+
+
+
+
+
+
+
+### Intro/Biography
+
+
+
+
+
+
+
+_**The  Candidates were asked to give some biographical personal information,  such as birthdate, age, their work, their openSUSE contributions, their  hobby, and more, as they saw fit.**_
+
+
+
+
+
+
+
+I'm an electrical engineer by education, and wrote my PhD about helical shieldings of medium-voltage XLPE cables. That was already in the pre-Google era as I'm 57 in between.
+
+
+
+
+
+
+
+Currently I work as a business consultant for mostly large companies. Supply chain topics, introduction of ERP systems (I have a long SAP history) and program or project management. Most of these projects are international, with teams located across all timezones.
+
+
+
+
+
+
+
+![]({{ site.baseurl }}/assets/DocB.png)**Dr. Axel Braun aka DocB**
+
+
+
+
+
+
+
+I started with S.u.S.E. in the late 90's, as OS/2 was about to disappear, and there was no real other operating system alternative available (this is still true, but thats a different story). SuSE at that time had the nice boxes with tons of floppies and a printed manual. Great!
+
+
+
+
+
+
+
+The advantage over other distros was, that is was easy to handle for an end-user (YaST….). Not every release change went smooth (not to forget, there were a couple of technical changes on the road) but for me it worked mostly.
+
+
+
+
+
+
+
+My contribution to [openSUSE](https://www.opensuse.org/) nowadays is mostly the maintenance of various packages, as well as every now and then support on [mailing lists](https://en.opensuse.org/openSUSE:Mailing_lists_subscription) - but mostly there are more skilled people than I am who are faster in answering.
+
+
+
+
+
+
+
+My main focus is the packaging of GNU Health, which is a free (as in freedom) health and hospital information system. Setting-up an ERP System is not like installing a browser, and its the biggest challenge for most users.
+
+
+
+
+
+
+
+The goal was to make installation easy to for non-technical users, and we have reached this so far! As Ludwig Nussel has given the encouragement, GNU Health is now shipped with the Leap Standard Distribution. Currently the new release is on the way to Factory, to have it shipped with Leap 15.1.
+
+
+
+
+
+
+
+Some other packages are on my list: I have just packages OnionShare, to safely share files via a TOR Onion Service, converted the hylafax+ package from cron to systemd-timers, and started packaging the Orthanc Server (to display medical images in DICOM format) for openSUSE. For the plugins there will be some nodejs knowledge required….feel free to contact me if you want to help!
+
+
+
+
+
+
+
+Any my life outside of tech and work? I have 2 kids of 20 and 25 which I only see randomly, but which leaves room for activities: Going sailing and surfing, ski and snowboard, running (only short distances, knee problems stopped me from running marathons), motorbiking (knee slider are not used anymore, did a restoration on a 1978 Yamaha DT 400 MX, a two-stroke Enduro) and an old cars that wants to be driven in the sunshine.
+
+
+
+
+
+
+
+### Why you are running for the openSUSE Board?
+
+
+
+
+
+
+
+First of all, I think openSUSE is the best distro on the market (my fully subjective view, of course). Second, I'm committed to the philosophy of free software, and free software is about collaboration.
+
+
+
+
+
+
+
+The current board has done an incredibly good job, and I would like to help with continuing the work in order to support and grow the [Community](https://en.opensuse.org/Portal:Project). I feel we all share the same target: To build the best Distro in the market, and still have a lot of fun with this!
+
+
+
+
+
+
+
+### What impact would you like to make as a member of the openSUSE Board?
+
+
+
+
+
+
+
+I will try to move openSUSE out of the server room and more on to the desktop of users. It is more than mature for every-day-usage.
+
+
+
+
+
+
+
+Companies, especially those in the public sector, should be encouraged in the use of free software and open standards, to gain back digital sovereignty, save costs and increase security and privacy. Here we should enter discussions with officials. Ideally.
+
+
+
+
+
+
+
+![2018-2019 Election Poster contributed by Aris Winardi]({{ site.baseurl }}/assets/poster-election-184x300.png)2018-2019 Election Poster contributed by Aris Winardi
+
+
+
+
+
+
+
+I know it is difficult as this is not a topic to gain votes for officials. But I feel if we address this as a whole community, it has more impact than talking as individuals.
+
+
+
+
+
+
+
+### Why should openSUSE members vote for you?
+
+
+
+
+
+
+
+Because it would be a mistake not to do it! LOL
+
+
+
+
+
+
+
+Seriously, though, I have not only a technical, but as well a business view on certain topics, I feel this can add to the skillset of the board
+
+
+
+
+
+
+
+### What’s one thing people would find interesting about you that is not well known?
+
+
+
+
+
+
+
+Well, no scary hidden secrets that come to my mind.
+
+
+
+
+
+
+
+But there are always incidents that are scary when they happen, but look funny afterwards. Traveling is always good for unexpected incidents: In 2001 I was visiting a customer production site 200km south of Warsaw in Poland.
+
+
+
+
+
+
+
+Highways in Poland at that time were 2 lane roads, with horse and cart on the right lane, and pedestrians crossing. Every now and then the speed is reduced to 70. Of course I missed this, because I was on the phone and driving, and got stopped by the police.
+
+
+
+
+
+
+
+I stepped out of the car and brought out my only two Polish words, Dzień dobry (Good day!)! The policemen started shouting at me in Polish, and after we clarified the language obstacles he made clear (in broken english) that I drove 97 instead of 70, and should follow to the police-car.
+
+
+
+
+
+
+
+In the car they wanted a fine, which I was willing to pay, but I had no Zloty,   
+
+and only 10 or 20 Deutschmark in Cash. So they asked "What can we do?"
+
+
+
+
+
+
+
+"Well," I said, "can I pay with credit card?"
+
+
+
+
+
+
+
+They looked at me like an alien, then at each other and discussed in Polish. No, that would not be possible. What can we do?
+
+
+
+
+
+
+
+"Hm," I said, "can we drive to an ATM (cash machine)?".  I felt like I was standing with one   
+
+leg in jail already.
+
+
+
+
+
+
+
+Once again, they looked at me, then at each other and discussed in Polish. No, that would not be possible. What can we do?
+
+
+
+
+
+
+
+I felt the second leg was moving into jail…so in honey words I prayed this really lovely country and the nice people, but if we have no way to pay the fine, I can only express my sincere apologies, and swear I will never drive too fast again.
+
+
+
+
+
+
+
+They stared at me……handcuffs now?
+
+
+
+
+
+
+
+After another internal discussion, and to my big surprise, they let me go, but I should make sure "they never catch me again". For sure, I drove really slowly.
+
+
+
+
+
+
+
+When I arrived at the plant, I told the story to the manager, and he laughed loud: "You stupid! 'What can we do' usually means they want slush money!"
+
+
+
+
+
+
+
+That was a thing that was completely out of my mind
+
+
+
+
+
+
+
+### Contact information
+
+
+
+
+
+
+
+Email: DocB AT opensuse.org  
+
+IRC: DocB on freenode  
+
+Twitter: @coogor
+
+
+
+
+
+
+    
+    <br>
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+		

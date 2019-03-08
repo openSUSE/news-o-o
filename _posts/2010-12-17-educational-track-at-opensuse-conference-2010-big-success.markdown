@@ -11,7 +11,7 @@ categories:
 tags:
 - Education
 ---
-[caption id="attachment_5382" align="alignright" width="300" caption="Heinz on Skolelinux"][![Heinz on Skolelinux]({{ site.baseurl }}/assets/heinz-skolelinux-300x199.jpg)](https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/heinz-skolelinux/)[/caption]
+(https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/heinz-skolelinux/)
 
 At the openSUSE conference almost two months ago a special Educational track on Saturday featured talks about the progress on openSUSE Edu-L.i.f.e, the applications it ships and many other educational topics. The goal of the openSUSE  Edu team is to cater for students, educators as well as parents and the software they develop, package and ship has everything required to make computers productive for either home or school usage.
 
@@ -33,7 +33,7 @@ Several demonstrations and talks about linux in schools were given. Besides Skol
 
 The talk from Helmut Hullen, working on Arktur, the oldest Linux school server project (since 1992!) in Germany, shows the enthusiasm of users and developers behind such projects. Arktur is a Slackware based system with a huge community of users. Unfortunately the team developing it has been shrinking and is now down to mostly one person, but they work together with [Heise](http://heise.de), a German magazine, to distribute copies and information about Arktur.
 
-[caption id="attachment_5383" align="alignright" width="300" caption="The edu team participating in hallway track"][![The edu team participating in hallway track]({{ site.baseurl }}/assets/edu-in-hallway-300x199.jpg)](https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/edu-in-hallway/)[/caption]
+(https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/edu-in-hallway/)
 
 
 ## opsi

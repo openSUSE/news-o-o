@@ -18,7 +18,7 @@ tags:
 ---
 Yesterday, openSUSE 11.4 saw the light of day. This release introduced some [awesome new features](http://en.opensuse.org/Product_highlights) and this was noticed by Linux users on social media and the press around the world. Of course we've got a huge spike in visits but also the number of downloads has been enormous, almost twice as much as for the openSUSE 11.3 release!<!-- more -->
 
-[caption id="attachment_7645" align="alignright" width="300" caption="Party time on second life for openSUSE 11.4"][![Party time on second life for openSUSE 11.4]({{ site.baseurl }}/assets/party-time-on-second-life-300x188.jpg)](https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/party-time-on-second-life/)[/caption]
+(https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/party-time-on-second-life/)
 
 
 ## Press on openSUSE

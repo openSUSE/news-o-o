@@ -52,7 +52,7 @@ To add a specific kernel to openSUSE, click on the branch you are looking for an
 
 By default, the kernel will replace your old kernel. If you want to be keep the old one as a fallback, go to /etc/zypp/zypp.conf and uncomment the line starting with "multiversion =". For the vanilla and linux-next branches, this is not needed, the default configuration puts Linus' kernel-vanilla next to your default kernel-desktop in parallel. Having the kernel available as option the boot menu and not replacing your current kernel protects you from issues with the latest piece of technology you are testing out!
 
-[caption id="attachment_9137" align="alignright" width="300" caption="openSUSE kernel commit activity overview"][![openSUSE kernel commit activity overview]({{ site.baseurl }}/assets/kernel-activity-300x120.png)](https://news.opensuse.org/2011/06/06/get-your-fresh-kernels-from-opensuse-and-test-linux-3-0/kernel-activity/)[/caption]
+(https://news.opensuse.org/2011/06/06/get-your-fresh-kernels-from-opensuse-and-test-linux-3-0/kernel-activity/)
 
 If you want to get the source code of the kernel branch, or browse its git tree, click on _GIT Clone_ or _GIT Browse_ under the Tools menu to get the commands for cloning the repository to your drive or see the code. You can also follow development and see what patches are added by who in the _GIT Browse_ page. For example, [this link](http://kernel.opensuse.org/cgit/kernel/log/?h=master) brings you to a page showing the latest activity of the openSUSE kernel developers in Factory.
 

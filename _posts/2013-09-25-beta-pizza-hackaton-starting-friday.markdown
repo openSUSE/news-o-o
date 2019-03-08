@@ -24,7 +24,7 @@ Usually, the BetaPizza is as much about testing as about party. This time, we do
 
 The plan is for the various offices to have a **BetaPizza Master** taking care of both the food and the bug fixing frenzy that precedes it. Ludwig Nussel from the openSUSE Team will be Global BetaPizza Master, keeping an eye on all this. And all offices will be open for openSUSE community members to join the fun!
 
-[caption id="attachment_16887" align="alignright" width="283"][![An old toad]({{ site.baseurl }}/assets/Toad-Final.png)]({{ site.baseurl }}/assets/Toad-Final.png) An old toad[/caption]
+({{ site.baseurl }}/assets/Toad-Final.png) An old toad
 
 
 ### Communication and collaboration

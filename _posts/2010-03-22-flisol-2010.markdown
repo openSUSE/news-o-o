@@ -1,0 +1,13 @@
+---
+author: a_jaeger
+comments: true
+date: 2010-03-22 09:52:57+00:00
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://news.opensuse.org/2010/03/22/flisol-2010/
+published: false
+slug: flisol-2010
+title: "\n\t\t\t\tFLISOL 2010 in Latin America (213+ cities)\t\t"
+wordpress_id: 3045
+---
+FLiSol - Festival Latinoamericano de InstalaciÃ³n de Software Libre is  the world greatest Installfest that is madeÂ  in over 213 cities of more than 20 different  countries simultaneously. See the [openSUSE page for details](http://en.opensuse.org/Marketing_Team/Events/FLISOL_10).		

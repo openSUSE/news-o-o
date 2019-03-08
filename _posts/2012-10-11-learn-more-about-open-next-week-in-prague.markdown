@@ -63,7 +63,7 @@ But the current open source groupware solutions all have some fatal flaws. There
 
 Ramon Roca is a well known Spanish activist fighting for a free network. In 2004 he co-founded guifi.net, a grassroots Broadband initiative in which citizens provide themselves the telecommunication infrastructure they use without the participation of traditional Internet Service Providers (ISP's). Today, Guifi.net connects more that eighteen thousand homes through a more than thirty three thousand kilometers-long network through radio links and optic fiber channels in Spain.
 
-[caption id="attachment_14300" align="alignright" width="300"][![guifi in action]({{ site.baseurl }}/assets/guifi-300x149.jpg)](http://guifi.net/en/) Guifi in action - from guifi.net[/caption]
+(http://guifi.net/en/) Guifi in action - from guifi.net
 
 To give some insight into his presentation, Ramon Roca spoke with **Thanasis 'Zoumpis' Rousinopoulos**. Ramon, born in rural Catalonia and in his late forties has been _"a corporate IT professional for around 25 years, living in various places"_. He's now back in Catalonia where he has started a family.
 

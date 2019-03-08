@@ -11,7 +11,7 @@ categories:
 - Events
 - Project
 ---
-[caption id="attachment_6063" align="alignright" width="300" caption="picture by Robert Lihm"][![]({{ site.baseurl }}/assets/openSUSEboothfosdemrhlim-300x200.jpg)](http://www.23hq.com/rlihm/photo/2952989?usertag=opensuse)[/caption]
+(http://www.23hq.com/rlihm/photo/2952989?usertag=opensuse)
 
 Next years [FOSDEM](http://www.fosdem.org/2011/) takes place again in Brussels on Feb 5th and 6th 2011 and openSUSE will be present as usual!
 

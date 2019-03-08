@@ -9,7 +9,7 @@ title: "Winner of openSUSE 2010 survey got his Chumby!"
 categories:
 - Project
 ---
-[caption id="attachment_6017" align="alignright" width="300" caption="The lucky winner now has a Chumby!"][![picture of a Chumby]({{ site.baseurl }}/assets/chumby_info1-300x219.jpg)](https://news.opensuse.org/2010/12/30/winner-of-opensuse-2010-survey-got-his-chumby/chumby_info1/)[/caption]
+(https://news.opensuse.org/2010/12/30/winner-of-opensuse-2010-survey-got-his-chumby/chumby_info1/)
 
 In February 2010 openSUSE held the [openSUSE survey 2010](https://news.opensuse.org/2010/02/07/opensuse-survey-2010-participate-now/) to find out more about the community. Who are the openSUSE users? What do they want? Who are our contributors? What motivates them? How can openSUSE improve? These questions and more have, to some extend, been answered by the over 27.000 participants in the three months the survey was live. Just before the end of the year we finally managed to get the winner of the Chumby his prize. Konrad Schlichtherle from Dortmund, Germany, is the lucky winner. Read on for more!<!-- more -->
 

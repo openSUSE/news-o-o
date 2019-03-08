@@ -34,7 +34,7 @@ The popular [Dropbox](http://dropbox.com) service offers a similar online space,
 
 But both services depend on proprietary server components and need a proprietary daemon to run on your system. Dropbox also doesn't encrypt the data on the server, something Spideroak at least does. SpiderOak also promised to at some point open source their client software. Still, the server side and web interface will remain closed. Luckily there are Free Software solutions out there, two of them I'll talk about here.
 
-[caption id="attachment_9419" align="alignright" width="300" caption="Ye Olde iFolder"][![]({{ site.baseurl }}/assets/iFolder2clean_filmgrain_picture-300x212.png)](https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/ifolder2clean_filmgrain_picture/)[/caption]
+(https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/ifolder2clean_filmgrain_picture/)
 
 
 ## Introducing iFolder

@@ -27,7 +27,7 @@ The openSUSE Conference 2011 will happen from **Sunday 11th to Wednesday 14th of
 
 We expect about 500 visitors this year and hence had to find a new location. A perfect spot was found in [a previous industrial complex from AEG named '_Zentrifuge_'](http://en.opensuse.org/openSUSE:Conference_Location_Zentrifuge). This cultural center might not be the 'usual' space for an IT conference but offers a very creative and open space, currently used for art and music. Exactly right for the openSUSE Free Software gathering!
 
-[caption id="attachment_5315" align="alignright" width="300" caption="The group hug 2010"][![The group hug 2010]({{ site.baseurl }}/assets/the-group-hug-300x199.jpg)](https://news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/the-group-hug/)[/caption]
+(https://news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/the-group-hug/)
 
 
 ## This year: read AND write
@@ -41,7 +41,7 @@ Does that make sense to you? If so, join us and submit your proposal on what you
 
 We will accept workshops, brainstorm sessions, design meetings, question and answer sessions, hands on happenings and every activity where people get into interaction for the openSUSE project and the distribution of Free Software, Free content or Free culture in general. Yes, and we will accept traditional presentations as well...
 
-[caption id="attachment_5350" align="alignright" width="300" caption="The Lizzard Lounge 2010"][![]({{ site.baseurl }}/assets/the-party1-300x199.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/the-party-2/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/the-party-2/)
 
 
 ## About what

@@ -71,7 +71,7 @@ While the conference for this year has come to an end, we take to ourselves all 
 
 Last but not least, this conference has its moment! After the group photo there was a special moment for Carlos Ribeiro. We signed for him a large geeko money in order to thank him for his incredible job with the Artwork.
 
-[caption id="attachment_16461" align="aligncenter" width="300"][![oSC13 thank you Carlos]({{ site.baseurl }}/assets/MG_4873-300x200.jpg)]({{ site.baseurl }}/assets/MG_4873.jpg) Thank you Carlos![/caption]
+({{ site.baseurl }}/assets/MG_4873.jpg) Thank you Carlos!
 
 
 

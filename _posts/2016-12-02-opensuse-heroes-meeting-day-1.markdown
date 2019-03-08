@@ -17,7 +17,7 @@ tags:
 ---
 Some of the openSUSE Heroes decided during the last openSUSE Conference that it's time for more face to face meetings to "get things done" and "work together"...
 
-[caption id="attachment_20204" align="aligncenter" width="583"][![Picture from the meeting with some openSUSE Heroes discussing]({{ site.baseurl }}/assets/Team_discussing-300x139.png)]({{ site.baseurl }}/assets/Team_discussing.png) Picture from the meeting with some openSUSE Heroes discussing[/caption]
+({{ site.baseurl }}/assets/Team_discussing.png) Picture from the meeting with some openSUSE Heroes discussing
 
 So starting today, some openSUSE Heroes started to spend the first December weekend in the SUSE Headquarter in Nuremberg. And they really have a lot to do, as you might imagine! That might be the reason why some of them started at 02:00 in the night to arrive at 07:00 in Nuremberg...
 
@@ -33,7 +33,7 @@ Starting with a personal introduction round (were they found out that we assimil
  	
   * discuss about the next steps for the openSUSE Cloud in Provo
 
-[caption id="attachment_20206" align="aligncenter" width="300"][![Pencil painting of the SUSE Cloud network structure]({{ site.baseurl }}/assets/Cloud_Overview-300x169.png)]({{ site.baseurl }}/assets/Cloud_Overview.png) Quick draw of the SUSE Cloud setup for openSUSE.[/caption]
+({{ site.baseurl }}/assets/Cloud_Overview.png) Quick draw of the SUSE Cloud setup for openSUSE.
 
  	
   * discuss about handling content in the openSUSE Wiki

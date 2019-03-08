@@ -19,4 +19,4 @@ When openSUSE 11.2 is released you can link to the openSUSE.org home page or to 
 
 Take a look - they're quite good! (And no, 11.2 isn't "out now" just yet. Unless you're reading this on Thursday after the release, or later...)
 
-[caption id="" align="alignnone" width="300" caption="openSUSE 11.2 banner by Jakub Steiner"][![openSUSE 11.2 banner by Jakub Steiner](http://files.opensuse.org/opensuse/en/f/f4/OpenSUSE_11.2_300x250.png)](http://en.opensuse.org/Buttons_and_Banners#Banners_for_11.2)[/caption]		
+(http://en.opensuse.org/Buttons_and_Banners#Banners_for_11.2)		

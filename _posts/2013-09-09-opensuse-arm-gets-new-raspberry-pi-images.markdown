@@ -9,7 +9,7 @@ title: "openSUSE ARM Gets new Raspberry Pi Images"
 categories:
 - Derivatives
 ---
-[caption id="attachment_16818" align="alignright" width="300"][![Raspberry Pi in action]({{ site.baseurl }}/assets/IMG_20130907_133512-300x225.jpg)]({{ site.baseurl }}/assets/IMG_20130907_133512.jpg)Sadly, the sticker doesn't fit...[/caption]
+({{ site.baseurl }}/assets/IMG_20130907_133512.jpg)Sadly, the sticker doesn't fit...
 
 Over the weekend, Bernhard Wiedemann has been working on new armv6 based images for the Raspberry Pi. It is built using a set of alternative build scripts aiming to make the building of the image easier. He's put the scripts as well as an image online, you can get it from oSC orÂ [here (image)](http://www.zq1.de/~bernhard/linux/opensuse/raspberrypi-opensuse-20130907.img.xz) and [here (scripts)](https://build.opensuse.org/package/show/devel:ARM:Factory:Contrib:RaspberryPi/altimagebuild). If you're playing around with Raspberry Pi and want to create images for your device(s), this is for you!
 

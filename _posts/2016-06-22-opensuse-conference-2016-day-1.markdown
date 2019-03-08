@@ -11,7 +11,7 @@ tags:
 - Leap 42.2
 - opensuse
 ---
-[caption id="attachment_19967" align="alignright" width="300"]![SaltStack Chief Technical Officer and technical founder Thomas Hatch talks about the evolution of Salt and IT automation at the openSUSE Conference on June 22. ]({{ site.baseurl }}/assets/DSC_0002-300x201.jpg) SaltStack Chief Technical Officer and technical founder Thomas Hatch talks about the evolution of Salt and IT automation at the openSUSE Conference on June 22.[/caption]
+({{ site.baseurl }}/assets/DSC_0002-300x201.jpg) SaltStack Chief Technical Officer and technical founder Thomas Hatch talks about the evolution of Salt and IT automation at the openSUSE Conference on June 22.
 
 The first day of this year’s openSUSE Conference went well and the  keynote speaker team of SaltStack Chief Technical Officer and technical founder [Thomas Hatch](https://saltstack.com/leadership/) along with Senior SaltStack Engineer David Boucha and SUSE’s Joe Werner showed how powerful Salt is for IT automation.
 

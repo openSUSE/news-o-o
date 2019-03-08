@@ -9,7 +9,7 @@ title: "openSUSE accepted for Google Summer of Code!"
 categories:
 - Google Summer of Code
 ---
-[caption id="attachment_7935" align="alignright" width="240" caption="This could be a very special summer for you!"][![Yellow flowers]({{ site.baseurl }}/assets/2725050242_ed79fa51cd_m.jpg)](https://news.opensuse.org/2011/03/22/opensuse-accepted-for-google-summer-of-code/2725050242_ed79fa51cd_m/)[/caption]
+(https://news.opensuse.org/2011/03/22/opensuse-accepted-for-google-summer-of-code/2725050242_ed79fa51cd_m/)
 
 openSUSE has cleared the first hurdle towards a series of successful Google Summer of Code projects! As was [disclosed last Saturday by OMGSUSE](http://omgsuse.com/content/opensuse-be-part-google-summer-code-2011): Google has accepted our proposal and we are now [a mentoring organization](http://www.google-melange.com/gsoc/org/show/google/gsoc2011/opensuse). This means that if you're interested in working a whole summer FULLTIME on openSUSE and getting paid for it, this is your chance! 
 

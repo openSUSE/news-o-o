@@ -17,7 +17,7 @@ tags:
 - nextcloud
 - owncloud
 ---
-[caption id="attachment_19974" align="alignright" width="300"]![Frank Karlitschek, founder of Nextcloud and ownCloud, talks about a Global User Directory for Cloud and other services and applications.]({{ site.baseurl }}/assets/frank-300x225.png) Frank Karlitschek, founder of Nextcloud and ownCloud, talks about a Global User Directory for Cloud and other services and applications.[/caption]
+({{ site.baseurl }}/assets/frank-300x225.png) Frank Karlitschek, founder of Nextcloud and ownCloud, talks about a Global User Directory for Cloud and other services and applications.
 
 The second day of this year’s openSUSE Conference had two keynote speakers.
 

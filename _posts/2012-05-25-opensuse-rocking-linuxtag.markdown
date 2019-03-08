@@ -9,7 +9,7 @@ title: "openSUSE rocking LinuxTag"
 categories:
 - Project
 ---
-[caption id="attachment_13466" align="alignright" width="300" caption="booth talk at openSUSE Booth"]![booth talk at openSUSE Booth]({{ site.baseurl }}/assets/12050027-300x226.jpg)[/caption]
+({{ site.baseurl }}/assets/12050027-300x226.jpg)
 
 LinuxTag in Berlin is still going and openSUSE is _having a lot of fun_ at the event. At our booth we feature daily talks about ownCloud (13:00-14:00), AppArmor (15:00-16:00) and if you were there Thursday a talk about color management and related tools.
 

@@ -21,7 +21,7 @@ The [roadmap](http://en.opensuse.org/openSUSE:Roadmap) aims Milestone 4 for Apri
 
 openSUSE, as you might know, is being developed in [Factory](http://en.opensuse.org/Portal:Factory). Factory is a project on the [openSUSE Build Service](http://build.opensuse.org) against which you can build a package. If it works fine, you can submit it to Factory and keep it working there.
 
-[caption id="attachment_12919" align="alignright" width="300" caption="List of failures in Factory - help get rid of them!"][![List of build failures in Factory]({{ site.baseurl }}/assets/2-300x179.jpg)](https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results)[/caption]
+(https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results)
 
 
 ### Status: in!
@@ -41,7 +41,7 @@ We're very close to getting GCC 4.7 in - the latest status update concluded that
 
 USRMove and tmp-on-tmpfs is [still being debated](http://jaegerandi.blogspot.de/2012/03/tmp-as-tmpfs-for-opensuse.html), a final decision has not been made yet but it looks like we'll wait with this for at least another release.
 
-[caption id="attachment_13175" align="alignright" width="300" caption="Improved software search"][![improved software search]({{ site.baseurl }}/assets/search-300x168.png)](https://news.opensuse.org/2012/04/12/opensuse-12-2-milestone-3-hits-the-street/search/)[/caption]
+(https://news.opensuse.org/2012/04/12/opensuse-12-2-milestone-3-hits-the-street/search/)
 
 
 ### Software search
@@ -58,7 +58,7 @@ Of course you're wondering how you can help. This can start with testing. Go to 
 
 If you are a packager (or want to be one!) there is of course also plenty to do. Fixing bugs in packages is a nice way of learning the ways of packaging (see [the Packaging portal for documentation](http://en.opensuse.org/Portal:Packaging)). You can read about [how to do this here](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory), via a simple set of stepps which in openSUSE are commonly known as ['BURP-ing'](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/).
 
-[caption id="attachment_12917" align="alignright" width="150" caption="Factory Workflow"][![openSUSE Factory workflow]({{ site.baseurl }}/assets/600px-Factory_workflow-150x150.png)](http://en.opensuse.org/openSUSE:Factory_development_model)[/caption]
+(http://en.opensuse.org/openSUSE:Factory_development_model)
 
 If you're already a packager for openSUSE, don't forget to [get your packages in Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_add_a_new_package_to_Factory) or [start to maintain one](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_become_a_maintainer_of_a_package_in_Factory)!
 

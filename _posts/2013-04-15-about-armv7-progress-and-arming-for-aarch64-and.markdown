@@ -15,7 +15,7 @@ openSUSE 12.3 introduced the 32bit ARMv7 architecture as new, fully supported ar
 ## About ARM and its future
 
 
-[caption id="attachment_15783" align="alignright" width="300"]![openSUSE booting on aarch64]({{ site.baseurl }}/assets/openSUSE-on-aarch64-300x241.png) openSUSE booting on aarch64[/caption]
+({{ site.baseurl }}/assets/openSUSE-on-aarch64-300x241.png) openSUSE booting on aarch64
 
 Right now, the most ubiquitous family of 32bit processors is the RISC-based [ARM architecture](http://en.wikipedia.org/wiki/ARM_architecture). In 2010 alone, 6.1 billion ARM based CPU™s, representing 95% of smart phones, 35% of televisions and set-top boxes and 10% of mobile computers, were shipped to customers. ARM is slowly going 'up' the computer scale, reaching into the laptop market with for example the [Samsung Chromebook](https://news.opensuse.org/2013/01/08/opening-the-can-initial-support-for-opensuse-on-the-arm-chromebook/). But the 32 bit architecture is reaching its limits. The latest generation of Cortex A15 cores can address up to 1 Terabyte of RAM, but individual applications are limited to a 32-bit address space. This means they can not use more than 4 GB of RAM (actually only 3 GB in userspace) at the same time. Although the Cortex A15 has an impressive performance for a mobile chip, this address space limits it and isn't impressing anyone in the x86 world.
 
@@ -63,7 +63,7 @@ ARM development is limited by available build resources required for compiling e
 
 That actually also makes us extremely cool: **we have on [build.opensuse.org](http://build.opensuse.org) the first and largest real world deployment of KVM on ARM**!
 
-[caption id="attachment_15797" align="aligncenter" width="690"]![One of the new Arndale clusters getting ready to be deployed into the OBS]({{ site.baseurl }}/assets/arndalecluster-1024x768.jpg) One of the new Arndale clusters getting ready to be deployed into the OBS[/caption]
+({{ site.baseurl }}/assets/arndalecluster-1024x768.jpg) One of the new Arndale clusters getting ready to be deployed into the OBS
 
 Seth Bernsen, Senior Director Ecosystem Development, Samsung Semiconductor, Inc. said about the deployment:
 
@@ -78,8 +78,8 @@ Seth Bernsen, Senior Director Ecosystem Development, Samsung Semiconductor, Inc.
 
 The ecosystem on ARM is a large and vibrant one, as such openSUSE had to decide to enable only a subset of the available hardware; this subset is growing though. Images for supported hardware is available on the Open Build Service, just select the corresponding link for your hardware from the [wiki](https://en.opensuse.org/Portal:ARM). Below is a list of enabled System on Chips and their associated hardware platforms.
 
-[caption id="attachment_15781" align="alignright" width="300"]![ECX-1000 powered Boston Viridis (Image by Calxeda)]({{ site.baseurl }}/assets/boston_viridis_arm_server-300x220.jpg) ECX-1000 powered Boston Viridis   
-_(Image by Calxeda)_[/caption]
+({{ site.baseurl }}/assets/boston_viridis_arm_server-300x220.jpg) ECX-1000 powered Boston Viridis   
+_(Image by Calxeda)_
 
 **Calxeda Highbank**
 Probably the most exciting images are those for _highbank_, the codename for one of [Calxeda's ECX-1000 series](http://www.calxeda.com/technology/products/processors/ecx-1000-series/) SoC systems. This SoC, a _Server on Chip_ as Calxeda calls it, is one of the most promising 32bit ARM boards for the server space and the openSUSE team is looking forward to feedback from users of this hardware.

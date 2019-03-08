@@ -13,7 +13,7 @@ tags:
 - hacking
 - openSUSE Conference
 ---
-[caption id="attachment_18919" align="alignright" width="300"][![oSC15]({{ site.baseurl }}/assets/oSC15-300x229.png)]({{ site.baseurl }}/assets/oSC15.png) Register for OSC15 at [http://bit.ly/1wC7qdX](http://bit.ly/1wC7qdX)[/caption]
+(http://bit.ly/1wC7qdX)
 
 We are ready to get this year's Geeko-hack party started in The Hague, Netherlands, from May 1 to May 5.
 Before the learning, hacking and partying begins at the four-day openSUSE Conference, the community needs to know what's happening with oSC15 or better yet, help with the event planning.

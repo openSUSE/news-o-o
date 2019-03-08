@@ -1,0 +1,66 @@
+---
+author: ammartinez
+comments: true
+date: 2018-12-21 09:03:54+00:00
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://news.opensuse.org/2018/12/21/21411/
+slug: '21411'
+title: "\n\t\t\t\tGoogle Summer of Code 2018\t\t"
+wordpress_id: 21411
+categories:
+- Google Summer of Code
+- Mentoring
+- Project
+tags:
+- Google Summer of Code
+- gsoc
+- hackweek
+- opensuse
+- students
+---
+One more year, [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/), a mentoring program in which [openSUSE](https://www.opensuse.org/) helps university students contribute to open source project, has come to an end. So, before 2018 ends as well and we start preparing for the new edition of GSoC, it is time to speak about all the great things that happened this year. ![:sparkles:](https://github.githubassets.com/images/icons/emoji/unicode/2728.png)
+
+
+## GSoC 2018
+
+
+Let’s start by the most important part, our students’ work. Our successful students, [Ankush Malik](https://github.com/AnkushMalik) and [Liana Xu](https://github.com/lianna07), have spent 3 months hacking on openSUSE projects, during which they have written a lot of impressive code. But GSoC is much more than code, it is about learning, having fun and becoming part of the openSUSE community. Both Ankush and Liana claim that it has been an inspiring experience and are really thankful for the support they received from their mentors.
+
+Ankush’s improvements in the Hackweek tool are noticeable. In his last weeks of work, he focused on giving all projects the chance to be viewed and on implementing a mailer. Check the last chapter of his GSoC journey: [https://medium.com/@ankushmalik631/gsoc-wrap-up-86bba25bbb6d](https://medium.com/@ankushmalik631/gsoc-wrap-up-86bba25bbb6d)
+
+Liana has been working on integrating Cloud Input in ibus-libpinyin and she has learnt ton about GNOME developer libraries and functions. Read about her project from her own words in her last blog post: [https://liana.hillwoodhome.net/2018/08/13/about-programming-life-during-gsoc](https://liana.hillwoodhome.net/2018/08/13/about-programming-life-during-gsoc)
+
+It is also worthwhile mentioning the great collaboration which makes me particularly proud of the openSUSE community. Thanks to the help of contributors all around the world, the blog posts about GSoC were shared, republished and translated to languages like Japanese, Spanish and Indonesian. We also had the help of the openSUSE Indonesian community to design “Thank you” mugs to send to our mentors. Look how cute they are: ![:cupid:](https://github.githubassets.com/images/icons/emoji/unicode/1f498.png)
+
+![GSoC "Trhank you" mug, thanks for mentoring](http://anamaria.martinezgomez.name/img/posts/gsoc-ends-mug-thanks.jpg) ![GSoc "Thank you" mug", made with love](http://anamaria.martinezgomez.name/img/posts/gsoc-ends-mug-with-love.jpg)
+
+Last but not least, I would like to thank our passionate mentors and admins who took out time from their busy schedules to guide the students, our motivated students for their willingness to learn and good work, Douglas DeMaio who helped with shipping packages and organization, Google and specifically its open source team not only for the program itself but also for the well organized conference, SUSE for their support (especially economically), [TSP](https://en.opensuse.org/openSUSE:Travel_Support_Program) which allows our students to attend the openSUSE conference every year, the blog post translators, Pramasta Ramadha and the rest of the designers who helped with the mugs design and everybody else who made this year GSoC amazing. Because of people like you, openSUSE is much more than just software. ![:green_heart:](https://github.githubassets.com/images/icons/emoji/unicode/1f49a.png)
+
+
+## GSoC 2019
+
+
+Now let’s get ready for next year to keep helping new passionate students becoming part of openSUSE! Google has already announced [Google Summer of Code 2019](https://developers.google.com/open-source/gsoc/timeline) and openSUSE is looking for mentors and organization admins who would like to help bringing new programmers to our community. We need at least one more organization admin and several openSUSE related projects to be able to participate. The application period for organizations is open from January 15 to February 6, so if you would like to participate as an organization admin please get in touch with [Hernán](https://github.com/lagartoflojo), [Christian](https://bruckmayer.net/) or [me](http://anamaria.martinezgomez.name/) by January 20. For mentors, the deadline to [create an issue with your project(s) in the mentoring page](https://github.com/openSUSE/mentoring/issues/new) is January 31. If you want more information about the program and what openSUSE has been doing, check out [last blog posts](https://news.opensuse.org/category/project/mentoring/gsoc), our [mentoring page](https://101.opensuse.org/), [Google’s Mentor Guide](https://google.github.io/gsocguides/mentor) and the following video:
+
+
+
+See you next year! ![:wave:](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
+
+<!-- more -->
+
+
+## About me
+
+
+My name is [Ana](http://anamaria.martinezgomez.name/) and I am a mentor and an organization admin for openSUSE in GSoC, openSUSE Board member, Open Build Service Frontend Engineer at SUSE and open source contributor in projects inside and outside openSUSE.
+
+
+
+
+
+* * *
+
+
+
+This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/12/20/gsoc-ends.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 		

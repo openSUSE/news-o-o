@@ -28,7 +28,7 @@ But there is more than preparation. We also need an 'army on the ground': the pe
 
 One important thing to have in mind is that ALL Volunteers must attend the Volunteers Training, which means that you have to be at the venue on the 18th of July at noon. This year the training of the volunteers will be something you have never seen before. Beyond the regular volunteer training you will be able to get some basic knowledge on First Aid and how to react on-site in case of emergency or disaster (such as a fire or an earthquake). All the training will be conducted by professionals. Our purpose is for volunteers to acquire knowledge that can be used basically everywhere.
 
-[caption id="attachment_14847" align="alignright" width="300"][![The Awesome Greeko's at oSC12 in Prague]({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662-300x198.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662.jpg) The Awesome Greeko's at oSC12 in Prague[/caption]
+({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662.jpg) The Awesome Greeko's at oSC12 in Prague
 
 
 ## About oSC13

@@ -9,7 +9,7 @@ title: "openSUSE.Asia Summit Call for papers is open"
 categories:
 - Announcements
 ---
-[caption id="" align="aligncenter" width="340"][![](https://images.unsplash.com/photo-1465966670031-e4ea86442ed5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=47cf542bc52fe1bf9fc36d1c191c99b0)](https://images.unsplash.com/photo-1465966670031-e4ea86442ed5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=47cf542bc52fe1bf9fc36d1c191c99b0) Semarang, Indonesia by Yohanes Dicky Yuniar[/caption]
+(https://images.unsplash.com/photo-1465966670031-e4ea86442ed5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=47cf542bc52fe1bf9fc36d1c191c99b0) Semarang, Indonesia by Yohanes Dicky Yuniar
 
 The openSUSE.Asia Committee are announcing the call for papers for 3rd openSUSE.Asia Summit. Starting today, the Committee is looking forward to your proposals. We are looking for free and open source software advocates. All open source contributors, enthusiasts, and business owners can submit.
 

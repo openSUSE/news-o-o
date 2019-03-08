@@ -42,4 +42,4 @@ Makers can leverage [openSUSE Leap 15](https://news.opensuse.org/2018/05/25/base
 
 The Armv7 images for [NanoPi NEO](http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO), [Beagle Bone](https://beagleboard.org/bone) and others are available at [download.opensuse.org](http://download.opensuse.org/ports/armv7hl/distribution/leap/15.0/appliances/) in Armv7 applications. Raspberry Pi images of openSUSE Leap 15 are available from the static webpage found on the [openSUSE Raspberry Pi Wiki page](https://en.opensuse.org/HCL:Raspberry_Pi3).
 
-[caption id="attachment_20930" align="aligncenter" width="300"]![]({{ site.baseurl }}/assets/Decf1-gX4AAIRci.jpglarge-300x169.jpeg) openSUSE provided 10 Raspberry Pis for GNU Health to run 3.4 version with Leap 15. Find out more about GNU Health Raspberry Pis at [http://health.gnu.org/embedded](http://health.gnu.org/embedded)[/caption]		
+(http://health.gnu.org/embedded)		

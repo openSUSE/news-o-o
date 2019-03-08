@@ -18,4 +18,4 @@ The first ever [openSUSE Summit](http://summit.opensuse.org) in Asia will take p
 
 So what are you waiting for? Come join us in beautiful Bejing!
 
-[caption id="attachment_18181" align="aligncenter" width="685"][![Bejing Skyline]({{ site.baseurl }}/assets/6216638459_f36e453db7_b.jpg)](http://summit.opensuse.org) Bejing Skyline by [Michael McDonough](https://www.flickr.com/photos/mikemcd/6216638459). CC-BY-NC-SA 2.0[/caption]		
+(https://www.flickr.com/photos/mikemcd/6216638459). CC-BY-NC-SA 2.0		

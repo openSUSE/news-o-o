@@ -13,7 +13,7 @@ categories:
 ---
 Today, Thursday October 7, the openSUSE project announces [Milestone 2 of openSUSE 11.4](http://software.opensuse.org/developer). Â Milestone 2 (M2) is the second of six periodic development snapshots of [openSUSE 11.4](http://en.opensuse.org/Portal:Factory) and includes updates to major components across the breadth ofÂ the distribution.
 
-[caption id="attachment_5023" align="alignright" width="214" caption="Autumn's seeds; Spring's release"][![Horse chestnuts forming the digit 2 on a black and white stripted background]({{ site.baseurl }}/assets/chestnut_two-238x300.jpg)](https://news.opensuse.org/2010/10/07/opensuse-announces-second-11-4-development-milestone-with-new-kernel-openoffice-mesa/chestnut_two/)[/caption]
+(https://news.opensuse.org/2010/10/07/opensuse-announces-second-11-4-development-milestone-with-new-kernel-openoffice-mesa/chestnut_two/)
 
 Starting at the bottom of the stack, [Linux Kernel 2.6.36rc4](http://article.gmane.org/gmane.linux.kernel/1035069) made it into M2.Â This is accompanied by the OpenGL implementation [Mesa 7.9](http://www.mesa3d.org/), which provides aÂ new shader compiler and support for newer Radeon chips. The [cronie crontabÂ manager](https://fedorahosted.org/cronie/) replaces the Vixie cron used until now and adds the [flexible anacron](http://en.wikipedia.org/wiki/Anacron),Â which allows cronjobs to happen even if the machine was powered down at theÂ scheduled time.  [D-Bus 1.4](http://lists.freedesktop.org/archives/dbus/2010-September/013378.html) adds support for systemd and fixes the [threadingÂ issues](https://bugs.freedesktop.org/show_bug.cgi?id=17754) which gave [KDE 4.5 problems](https://bugs.kde.org/show_bug.cgi?id=232054).
 

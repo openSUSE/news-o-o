@@ -18,7 +18,7 @@ The [upcoming openSUSE 12.1 release](http://en.opensuse.org/Portal:12.1) is bein
 ## About Factory
 
 
-[caption id="attachment_11105" align="alignnone" width="600" caption="The openSUSE Factory Development Process"][![The openSUSE Factory Development Process]({{ site.baseurl }}/assets/600px-Factory_workflow.png)](https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/600px-factory_workflow/)[/caption]
+(https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/600px-factory_workflow/)
 
 Factory is [_'just'_ another repository](https://build.opensuse.org/project/show?project=openSUSE%3AFactory) on [openSUSE's Open Build Service](http://build.opensuse.org). The [4745 packages](https://build.opensuse.org/project/packages?project=openSUSE%3AFactory) make it the largest OBS project. Factory is maintained by [the openSUSE Release team](http://en.opensuse.org/openSUSE:Release_team), members of which currently are Stephan _'Coolo'_ Kulow and Marcus _'darix'_ Rueckert.
 

@@ -11,7 +11,7 @@ categories:
 - Conference
 ---
 **"Collaboration Across Borders"** - Under this moto the openSUSE Community received in Nuremberg several hundreds of Free Software enthusiasts and contributors. Giving a strong statement to it's moto, the openSUSE Conference received ambassadors from the Fedora Project and Debian Project as well as people from Mandriva/Mageia, Slackware, Skolelinux and many other distributions. Moreover, many downstream projects presented their work, seeking cooperation with the openSUSE community.
-[caption id="attachment_5352" align="alignright" width="150" caption="Group photo"][![]({{ site.baseurl }}/assets/the-group-photo1-150x150.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/the-group-photo-2/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/the-group-photo-2/)
 
 Compared to last year the openSUSE conference grew over 30% from 225 to 290 visitors and we heard many comments about how well organized it was. As Thomas Thym [wrote in his blog](http://ungethym.blogspot.com/2010/10/opensuse-conference-2010-is-over.html), it was an event for and by the openSUSE community - not the kind of conference where anyone tells anyone else what to do or what has to happen. Read the [Conference impression](https://news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/) to get a little taste of the event!
 
@@ -26,7 +26,7 @@ We selected a few exciting things and results from the conference - obviously mu
 
 Frank Karlitschek, member of KDE e.V. board and well known from projects like [GetHotNewStuff](http://ghns.freedesktop.org/), [opendesktop.org](http://opendesktop.org) and the sites [gtk-apps.org](http://gtk-apps.org) and [introduced Project Bretzn](https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/) (Pretzel). A team of developers is working with, among other parties, Nokia, openSUSE and Intel on the integration of Appstore technology in the whole Free Software stack, basically automating the whole process of packaging, publishing and promoting applications for the developer. They have integration with Qt Creator (plugins for Eclipse, KDevelop, Visual Studio coming) and use the OpenSUSE Buildservice and the FreeDesktop.org Open Collaboration Services standard. Current App stores include the MeeGo Garage, OpenDesktop.org and work is ongoing on OVI and Intel Appup. During discussions about Bretzn at the conference it was decided to have a Developer Sprint with openSUSE developers to further discuss Bretzn.
 
-[caption id="attachment_5351" align="alignright" width="150" caption="Keynote time!"][![]({{ site.baseurl }}/assets/the-talks1-150x150.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/the-talks-2/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/the-talks-2/)
 
 
 
@@ -37,7 +37,7 @@ openSUSE Conference was proud to host the first [LibreOffice](http://www.libreof
 
 The first two tracks were dedicated to [The Document Foundation](http://www.documentfoundation.org) and LibreOffice as a project.  Florian Effenberger provided the general information, and [contribution statistics](http://www.slideshare.net/floeff) and Thorsten Behrens followed by leading a BoF on a the features and plans.
 
-[caption id="attachment_5349" align="alignright" width="150" caption="Impressed with LibreOffice growth"][![]({{ site.baseurl }}/assets/impressed-with-LibreOffice-growth-150x150.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/impressed-with-libreoffice-growth/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/impressed-with-libreoffice-growth/)
 
 After that, the students who were participating in the Google Summer of Code have presented their work which has been recently integrated into LibreOffice - Miklos Vajna [rewrote the RTF Export and added lots of missing features](http://vmiklos.hu/blog/slides-of-my-gsoc-2010-presentation), Jonas Jensen added [direct editing of mathematics formulas](http://jopsen.dk/blog/2010/10/back-from-opensuse-conference-2010/ ).
 
@@ -51,7 +51,7 @@ Overall, the LibreOffice track provided a wonderful kick-off for the project, an
 
 Stefan Schäfer gave a talk about his project called [Invis Server](http://www.invis-server.org/). Invis Server is an openSUSE based small and medium business server solution offering printing, mail, web and fileserver, database and groupware all preconfigured at installation. For daily operation in the users network, there is a simple yet powerful web interface.
 
-[caption id="attachment_5348" align="alignright" width="150" caption="The keysigning party"][![]({{ site.baseurl }}/assets/keysigning-party-150x150.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/keysigning-party/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/keysigning-party/)
 
 During the discussion after the presentation it was decided to start the openSUSE Invis Project. Initially some cleanup will be done and a convenient openSUSE-Invis liveCD will be made. The openSUSE Buildservice will be used to build the needed packages and create the product images. Read more [here](http://lizards.opensuse.org/2010/10/28/a-new-flavor-opensuse-invis-server/).
 
@@ -63,7 +63,7 @@ Andreas Florio from openSUSE LXDE (and earlier the openSUSE Edu team) met Christ
 
 There were several developers from a variety of other distributions who took advantage of the opportunity to meet in real life. Pulse-audio developers Colin Guthrie (former Mandriva, involved with Mageia), Lennart Poettering (Red Hat) and Scott Reeves (openSUSE) met for the first time and [discussed the integration of Pulse-audio](http://colin.guthr.ie/2010/10/pulseaudio-pulsevisual-pulsetalks/) in their distributions and the major Linux desktops GNOME and KDE.
 
-[caption id="attachment_5346" align="alignright" width="150" caption="The talk about Wine was both about the software and the drink"][![]({{ site.baseurl }}/assets/On-wine-twice-150x150.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/on-wine-twice/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/on-wine-twice/)
 
 Later on, Lennart, together with Harald Hoyer (also Red Hat/Fedora), Kay Siever, Werner Fink (openSUSE) and others had a systemd workshop, continuing their discussion throughout the conference. It was decided to integrate systemd as new boot system in openSUSE 11.4 as it was [deemed far superior to Upstart](http://wiki.linuxplumbersconf.org/2010:early_boot_and_init_systems). 
 
@@ -83,7 +83,7 @@ In other OBS news [Lubos Lunak discussed his OBS generator](http://nowwhatthe.bl
 
 A special Educational track featured talks about the progress on openSUSE Edu-L.i.f.e and the applications it ships as well as many other educational topics. The goal of the openSUSE Edu team is to cater for students, educators as well as parents and the software they develop, package and ship has everything required to make computers productive for either home or school usage.
 
-[caption id="attachment_5345" align="alignright" width="150" caption="The 'Lizzard Lounge' party featured a live Twitter feed"][![]({{ site.baseurl }}/assets/lizzard-Lounge-150x150.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/lizzard-lounge/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/lizzard-lounge/)
 
 Over 30 teachers, distribution developers and upstream developers discussed topics including X2go and thin client computing in general, several openSUSE based educational distributions, opsi, a Client Management System for Windows clients based on Linux servers, groupware (including openXchange), PyKota printing accounting software, the KIOSK tool and more. The Educational track at the openSUSE conference 2010 was extremely successful and the team has a lot of work ahead to integrate all the results!
 
@@ -94,7 +94,7 @@ Over 30 teachers, distribution developers and upstream developers discussed topi
 
 All in all, the conference was very successful. Besides the more formal keynotes, talks and workshops the hallway track was incredibly productive. The conference program of course also provided some leisure in the form of an educational Open Movie Night in collaboration with KommKino including a showing of the latest free Blender Foundation movie, Sintel. With the combination of a great, collaborative atmosphere, fun and many new initiatives coming out of the conference we can all say we are extremely proud of what the openSUSE community has done - and look forward to what else it comes up with in the future!
 
-[caption id="attachment_5347" align="alignright" width="150" caption="Artists at work"][![]({{ site.baseurl }}/assets/artists-at-work-150x150.jpg)](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/artists-at-work/)[/caption]
+(https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/artists-at-work/)
 
 Slides from the conference are being put online on [the conference site](http://conference.opensuse.org/indico//conferenceDisplay.py?ovw=True&confId=0) and you can find images on the [flickr](http://www.flickr.com/groups/osc10) group.
 

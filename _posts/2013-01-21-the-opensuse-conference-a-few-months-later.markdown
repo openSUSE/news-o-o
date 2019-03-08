@@ -15,7 +15,7 @@ categories:
 ---
 [![oSC Logo-700x400]({{ site.baseurl }}/assets/Home-700x400.png)](http://conference.opensuse.org)
 This article attempts to give a bit of an overview of what happened at oSC 12. And that is lots and lots, as you can see in the [Google Plus event page for oSC12](https://plus.google.com/u/0/events/cnmkbdc37mebetjk8e3t9dl92e0) and [LinuxDays](https://plus.google.com/u/0/events/chukb8fi8htbdbedi8e11n07hv8). You can find a lot of [CC licensed pictures here](https://plus.google.com/photos/116069031455285939884/albums/5802296919987167073) and of course in this article. Read on to get some idea of the feedback we've got, the number of visitors and results from the BoF's!<!-- more -->
-[caption id="attachment_14819" align="alignright" width="300"][![Friday registration time!]({{ site.baseurl }}/assets/Day0-Friday-17_DSC_7135-300x198.jpg)]({{ site.baseurl }}/assets/Day0-Friday-17_DSC_7135.jpg) Friday registration time![/caption]
+({{ site.baseurl }}/assets/Day0-Friday-17_DSC_7135.jpg) Friday registration time!
 
 
 ## Feedback
@@ -28,7 +28,7 @@ As many people noted, the first two days were clearly a _'FOSDEM like event'_ as
 
 
 There has been a number of blogs about the conference, a few of which have been falling off quickly as the videos were also posted to the [planet.opensuse.org](http://planet.opensuse.org) timeline. For your convenience we've listed them here, if any are missing, let us know:
-[caption id="attachment_14829" align="alignright" width="300"][![Tech Talk]({{ site.baseurl }}/assets/Day2-Sunday-053_DSC_7602-300x198.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-053_DSC_7602.jpg) Tech Talk[/caption]
+({{ site.baseurl }}/assets/Day2-Sunday-053_DSC_7602.jpg) Tech Talk
 
 
 
@@ -84,7 +84,7 @@ There has been a number of blogs about the conference, a few of which have been 
   * **Leon Anavi:**Â [Linux Days 2012 Travel Notes](http://www.anavi.org/article/151/)
 
 
-[caption id="attachment_14824" align="alignright" width="300"][![Part of the Booth area (Saturday)]({{ site.baseurl }}/assets/Day1-Saturday-044_DSC_7395-300x198.jpg)]({{ site.baseurl }}/assets/Day1-Saturday-044_DSC_7395.jpg) Part of the Booth area (Saturday)[/caption]
+({{ site.baseurl }}/assets/Day1-Saturday-044_DSC_7395.jpg) Part of the Booth area (Saturday)
 
 
 ### The press
@@ -106,7 +106,7 @@ We had an amazing and stuffed program. Overstuffed, as some said - with 6 or 7 c
 
 
 You can watch video's of the talks on the [openSUSE TV channel](http://youtube.com/user/opensusetv/videos) ([oSC 2012 playlist](https://www.youtube.com/playlist?list=PL_AMhvchzBae69AZQRAWKfzb8MurMtA72)) and our [blip.tv channel](http://blip.tv/opensuse). During the event we usually had about 40-80 viewers per stream on [our bambuser channel](http://bambuser.com/channel/opensusetv) and as they also joined the chatter in IRC, this was very cool to have. Afterwards, the videos got hundreds to thousands of more viewers so it was very much worth recording the talks. Big thanks to our video crew, whose names you can find below reverse-ordered on length of their email address.
-[caption id="attachment_14827" align="alignright" width="300"][![Training session]({{ site.baseurl }}/assets/Day2-Sunday-086_DSC_7685-300x198.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-086_DSC_7685.jpg) Training session[/caption]
+({{ site.baseurl }}/assets/Day2-Sunday-086_DSC_7685.jpg) Training session
 
 
 
@@ -165,7 +165,7 @@ You can watch video's of the talks on the [openSUSE TV channel](http://youtube.c
   * Jürgen Weigert
 
 
-[caption id="attachment_14826" align="alignright" width="300"][![Hallway Hacking]({{ site.baseurl }}/assets/Day2-Sunday-064_DSC_7631-300x198.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-064_DSC_7631.jpg) Hallway Hacking[/caption]
+({{ site.baseurl }}/assets/Day2-Sunday-064_DSC_7631.jpg) Hallway Hacking
 
 
 ### Work done
@@ -176,7 +176,7 @@ Events like these are useful in many ways and on many levels. Of course, it's ni
 Then there is the _social side_: meeting your fellow hackers, sometimes after only having seen them online for a year or even ever. That's awesome, fun, interesting, cool and what not. It's why we had the opening party and other parties, but also the food in the evening, the 'hallway track' and group photo. 
 
 Last but not least, there is work being done. Problems get discussed, code and packages get hacked together and decisions get made, informally but also during BoF sessions. And most of these BoF sessions have a log send to our mailing lists, which allows us to recap the results of a few of them below.
-[caption id="attachment_14835" align="alignright" width="300"][![Fancy Devices]({{ site.baseurl }}/assets/Day2-Sunday-015_IMGP4463-300x200.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-015_IMGP4463.jpg) Fancy Devices[/caption]
+({{ site.baseurl }}/assets/Day2-Sunday-015_IMGP4463.jpg) Fancy Devices
 
 
 #### Project Meeting
@@ -197,7 +197,7 @@ A handful of people had a BoF about the opensuse.org landing page and how to imp
 
 
 A well attended BoF was held on the future of the Open Build Service. There's an overview of OBS at the event, talk about the future (mobile client for package reviews, native build hosts for ARM, user experience improvements for the webUI, adapting OBS for other personas than just 'casual packagers' and more), ideas for new features and much more in the [overview of OBS at oSC here](http://lists.opensuse.org/opensuse-buildservice/2012-10/msg00162.html).
-[caption id="attachment_14836" align="alignright" width="300"][![Project Meeting]({{ site.baseurl }}/assets/Day3-Monday-014_DSC_7793-300x198.jpg)]({{ site.baseurl }}/assets/Day3-Monday-014_DSC_7793.jpg) Project Meeting[/caption]
+({{ site.baseurl }}/assets/Day3-Monday-014_DSC_7793.jpg) Project Meeting
 
 A particularly cool idea is to add some Gamification elements to the webUI. Like badges for the Nth built package or the Nth submitrequest; top packager lists and stuff like that. This was partially inspired by [this talk about Gamification](http://blip.tv/opensuse/osc12-gamefiction-6410559) in the Future Media track.
 
@@ -230,7 +230,7 @@ The admin@ BoF was more or less skipped (because we extended the www.o.o BoF). I
 
 
 Of course there were discussions on openSUSE Development.
-[caption id="attachment_14837" align="alignright" width="300"][![Live video steaming = hard work!]({{ site.baseurl }}/assets/Day3-Monday-041_DSC_7862-300x198.jpg)]({{ site.baseurl }}/assets/Day3-Monday-041_DSC_7862.jpg) Live video steaming = hard work![/caption]
+({{ site.baseurl }}/assets/Day3-Monday-041_DSC_7862.jpg) Live video steaming = hard work!
 
 Robert Schweikert brought forward the **Maintainer Model cleanup** (see his [report here](http://lists.opensuse.org/opensuse-factory/2012-10/msg00282.html). His basic proposal, which got support at the conference, is to move forward changing the model as follows:
 
@@ -262,7 +262,7 @@ Robert Schweikert brought forward the **Maintainer Model cleanup** (see his [rep
   * We will produce guidelines for package and product maintainers outlining what is expected.
 
 These are the rough outlines of the "plan". Obviously there is work to be done and the OBS team already has plenty to do. Robert will document these things and start a wiki page to define the various roles in the development process, up for discussion next.
-[caption id="attachment_14838" align="alignright" width="300"][![Cafe allowed a sneak-peek into a talk room]({{ site.baseurl }}/assets/Day3-Monday-036_DSC_7850-300x198.jpg)]({{ site.baseurl }}/assets/Day3-Monday-036_DSC_7850.jpg) Cafe allowed a sneak-peek into a talk room[/caption]
+({{ site.baseurl }}/assets/Day3-Monday-036_DSC_7850.jpg) Cafe allowed a sneak-peek into a talk room
 
 If you care about these things, agree or disagree - it is highly recommended to [read Roberts' full report](http://lists.opensuse.org/opensuse-factory/2012-10/msg00282.html) and chime in.
 
@@ -271,7 +271,7 @@ Christian Morales Vega shared his 'point of view' on the **Release Schedule disc
 Another change he proposed is that people need to be made to want to work on problems. Right now, the list shows problems which surely someone is working on (but no way to see if that is the case) and lots of issues a particular developer might not be interested in at all. It should be visible if someone is working on a problem and it is important that packages get dumped easier/faster if nobody cares about them, to keep the list short. In that regard, he also proposes to _ping a developer by mail_ if his build breaks other packages - not everyone might care so much but some do.
 
 [![Group Photo]({{ site.baseurl }}/assets/Day2-Sunday-068_DSC_7651-1024x331.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-068_DSC_7651.jpg)
-[caption id="attachment_14847" align="alignright" width="300"][![The Awesome Greeko's Organizing oSC'13]({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662-300x198.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662.jpg) The Awesome Greeko's Organizing oSC'13[/caption]
+({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662.jpg) The Awesome Greeko's Organizing oSC'13
 
 
 ## Concluding

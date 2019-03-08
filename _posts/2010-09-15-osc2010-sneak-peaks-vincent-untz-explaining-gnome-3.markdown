@@ -84,7 +84,7 @@ Yes, but that's actually more than that: GNOME 3 is also working a bit different
 
 _ _
 
-[caption id="attachment_4438" align="alignright" width="300" caption="Gnome Shell with Multiple Workspaces"]____[/caption]
+____
 
 _(Laughs)_ The shell in a desktop environment is the part of the desktop that deals with some core functions: launching applications, switching between windows, shutting down the computer, etc. This is obviously a term that end-users shouldn't care much about. We've redesigned this part of the GNOME desktop for GNOME 3, and the  name of this project is GNOME Shell. That's why we often talk about it  :-)
 
@@ -92,7 +92,7 @@ _(Laughs)_ The shell in a desktop environment is the part of the desktop that de
 
 Kind of, yes.
 
-[caption id="attachment_4438" align="alignright" width="300" caption="Gnome Shell with Multiple Workspaces"]![]({{ site.baseurl }}/assets/Screenshot-gnome-shell-overview-multiple-workspaces-300x187.png)[/caption]
+({{ site.baseurl }}/assets/Screenshot-gnome-shell-overview-multiple-workspaces-300x187.png)
 
 **We see a lot of new approaches for this. Especially since the amount of form factors for devices exploded. Whats so special about GNOME Shell?**
 

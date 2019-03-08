@@ -23,7 +23,7 @@ tags:
 - Tumbleweed
 - Xen
 ---
-[caption id="attachment_19978" align="alignright" width="300"]![Chief Executive Officer of SoftIron, Norman Fraser, Ph.D., provides the keynote talk at the openSUSE Conference in Nuremberg, Germany, on June 24.]({{ site.baseurl }}/assets/DSC_0008-300x201.png) Chief Executive Officer of SoftIron, Norman Fraser, Ph.D., provides the keynote talk at the openSUSE Conference in Nuremberg, Germany, on June 24.[/caption]
+({{ site.baseurl }}/assets/DSC_0008-300x201.png) Chief Executive Officer of SoftIron, Norman Fraser, Ph.D., provides the keynote talk at the openSUSE Conference in Nuremberg, Germany, on June 24.
 
 The keynote speaker for the openSUSE Conference today and Chief Executive Officer of SoftIron, Norman Fraser, Ph.D., made a big announcement about the release of a new powerful ARM server that comes with essential tools to get the 64-bit ARM development up and running, out-of-the-box.
 

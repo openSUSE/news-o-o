@@ -26,7 +26,7 @@ For the 4.0 release of the KDE software, the desktop team concluded that they co
 
 The idea behind Plasma was about looking forward. In the future, devices with touch and a variety of resolutions and form factors would appear. Phones, media centers, tablets. It was clear to the developers that no single solution could work well on each of these devices. A mouse-driven interface for a desktop has vastly different interaction patterns than a touch optimized design on a phone, which is again very different from a tablet. And none compare to a '10 feet' interface on a television, to be controlled by a remote. UIs needed to be more than scalable; they should be able to adapt based on the form factor they are running on.
 
-[caption id="attachment_17215" align="alignright" width="300"][![flexible widgets]({{ site.baseurl }}/assets/widgets-flexibility-300x248.png)]({{ site.baseurl }}/assets/widgets-flexibility.png) flexible widgets[/caption]
+({{ site.baseurl }}/assets/widgets-flexibility.png) flexible widgets
 
 Note that much of the competition, both Free and Proprietary, still has not fully realized this scalability--to the frustration of their users.
 
@@ -42,7 +42,7 @@ While each of these offered vastly different interfaces to the user, they shared
 <blockquote>"_Specification, instead of dumbing down onto the lowest common denominator_"</blockquote>
 
 
-[caption id="attachment_17282" align="alignright" width="225"][![Sticky window snapping]({{ site.baseurl }}/assets/kwinscript-slower.gif)]({{ site.baseurl }}/assets/kwinscript-slower.gif) Sticky window snapping (click for big version)[/caption]
+({{ site.baseurl }}/assets/kwinscript-slower.gif) Sticky window snapping (click for big version)
 
 In Plasma, everything can be replaced. The pieces can transform, adapting to new interface paradigms. What is a thumb-sized button on a taskbar can turn into a full-fledged interactive widget when given a desktop to occupy. In the screenshot to the right you can see three distinct widgets: a menu, both on the panel and on the desktop; a weather widget twice on a panel, once on a small panel and a second time on a large panel; and finally a temperature widget on a panel and twice on the desktop, once big and once small.
 
@@ -60,7 +60,7 @@ Unlike its most prominent competitors on Linux, KDE has a focus on users who spe
 
 This is not only true for advanced 3D modeling applications but many more. Once you sit behind a desktop for 6 or 8 hours a day you care about having an efficient workflow so you can get your work done as quickly as possible. This requires a level of flexibility and configurability Plasma Desktop can uniquely offer. Adapting and providing more options to how the user works instead of forcing him/her in a fixed workflow is where KDE software excels at. Of course, ease of use and the flexibility required for efficient working are not always at odds and the KDE team is continuing to look for ways of making things **BOTH** easier and faster.
 
-[caption id="attachment_17220" align="alignright" width="300"][![pastebin animation]({{ site.baseurl }}/assets/pastebin.gif)]({{ site.baseurl }}/assets/pastebin.gif) Pastebin in action (click for animation)[/caption]
+({{ site.baseurl }}/assets/pastebin.gif) Pastebin in action (click for animation)
 
 For example, I, being a KDE user, use a workflow where I frequently share images or pieces of text over various chat channels. Having added the 'pastebin widget' to my main panel, sharing something is a matter of a simple drag'n'drop on this widget, and _ctrl-V_ in the appropriate channel to share the link.
 
@@ -72,7 +72,7 @@ So, Plasma was designed to allow for a wide range of user interaction patterns (
 
 The Plasma Desktop and Netbook workspaces, as released a few months ago by the KDE team, is a **long term support** version. This because while the KDE community is slowly changing its focus on the [next generation toolkit](http://dot.kde.org/2013/09/25/frameworks-5) for open source development, Qt 5, they are also dedicated to keeping users of their current platform supplied with a steady stream of bug fixes.
 
-[caption id="attachment_17288" align="alignright" width="300"][![Kscreen]({{ site.baseurl }}/assets/Kscreen-300x261.png)]({{ site.baseurl }}/assets/Kscreen.png) Kscreen[/caption]
+({{ site.baseurl }}/assets/Kscreen.png) Kscreen
 
 
 ### Polishing details
@@ -84,7 +84,7 @@ This focus on stability does not mean there are no new features coming: openSUSE
 
 There are also some more experimental features, including preliminary Wayland support and the new plasma-nm network management plasmoid, which has not been deemed fully stable but is sure worth checking out.
 
-[caption id="attachment_17285" align="alignright" width="213"][![lining-up-transparency-slow]({{ site.baseurl }}/assets/lining-up-transparency-slow.gif)]({{ site.baseurl }}/assets/lining-up-transparency-slow.gif) [Using transparency](https://plus.google.com/117563705675081959469/posts/MChuup4GqYZ) to line up windows[/caption]
+(https://plus.google.com/117563705675081959469/posts/MChuup4GqYZ) to line up windows
 
 
 ## The Applications

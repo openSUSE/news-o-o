@@ -13,7 +13,7 @@ As of 23:00 UTC on 16 December, 2012, the openSUSE Project's members completed t
 
 In the end, the two top vote-getters were [Raymond Wooninck](https://en.opensuse.org/openSUSE:Board_election_2012_platform_rwooninck) _(tittiacoke)_ and [Robert](https://en.opensuse.org/openSUSE:Board_election_2012_platform_robertschweikert)
 
-[caption id="attachment_14797" align="alignright" width="115"]![Robert Schweikert]({{ site.baseurl }}/assets/rschweikert.jpg) Robert Schweikert[/caption]
+({{ site.baseurl }}/assets/rschweikert.jpg) Robert Schweikert
 
 Schweikert,_ (robjo)_ respectively.Â  They will join the openSUSE Board on January 9th during the transitional meeting of the regularly scheduled Project meeting heldon the Freenode IRC Channel at 17:00 UTC.
 
@@ -21,7 +21,7 @@ The Election Officials would like to congratulate all of thecandidates for a gre
 
 We join the rest of the community in looking forward to an exciting year to come as
 
-[caption id="attachment_14798" align="alignright" width="115"]![Raymond Wooninck]({{ site.baseurl }}/assets/rwooninck.jpeg) Raymond Wooninck[/caption]
+({{ site.baseurl }}/assets/rwooninck.jpeg) Raymond Wooninck
 
 the new Board embarks on new initiatives and directions.Â  And we thank the community for giving us the opportunity to serve as members of the election committee.
 

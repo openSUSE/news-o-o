@@ -23,7 +23,7 @@ Until now these technologies and tools made up mostly isolated islands and it se
 ## Connecting the Dots
 
 
-[caption id="attachment_6557" align="alignright" width="300" caption="The openSUSE application manager"][![screenshot of openSUSE application manager]({{ site.baseurl }}/assets/appstore_details-300x207.png)](https://news.opensuse.org/2011/02/01/bretzn-results-released-into-the-wild/appstore_details-2/)[/caption]
+(https://news.opensuse.org/2011/02/01/bretzn-results-released-into-the-wild/appstore_details-2/)
 
 Project Bretzn, then, is not a single piece of software, but rather an attempt to fill in the holes which exist in what is already there. As it stands, the project has produced two core pieces of software:
 
@@ -38,7 +38,7 @@ Project Bretzn, then, is not a single piece of software, but rather an attempt t
 
 Moreover, work on a KDE client to download and install applications has started at the recent [openSUSE Bretzn sprint in Nuremberg](https://news.opensuse.org/2011/01/27/first-bretzn-sprint-opensuse-app-store-on-the-horizon/). The screenshot in this article shows a first prototype. And at the [Cross-distribution meeting onÂ an application installer](https://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/), just before the Bretzn sprint was held, it was decided the GNOME desktop will receive a client most likely based on Ubuntu's Software center.
 
-[caption id="attachment_6558" align="alignright" width="300" caption="Ubuntu Software Centre (from wikipedia)"][![screenshot of the Ubuntu Software Centre]({{ site.baseurl }}/assets/Screenshot-Ubuntu_Software_Centre-300x205.png)](https://news.opensuse.org/2011/02/01/bretzn-results-released-into-the-wild/screenshot-ubuntu_software_centre/)[/caption]
+(https://news.opensuse.org/2011/02/01/bretzn-results-released-into-the-wild/screenshot-ubuntu_software_centre/)
 
 Most importantly, all this has the distinction of being open: not only is the source code for the software above freely available as you would expect, but the web API created as the communications layer between those two components is free and open, and indeed a part of the Open Collaboration Services specification as of version 1.6.
 

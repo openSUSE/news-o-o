@@ -9,7 +9,7 @@ title: "And they keep rocking¦"
 categories:
 - Events
 ---
-[caption id="attachment_9741" align="alignright" width="225" caption="Getting ready to rock in Thessaloniki"][![Getting ready to rock in Thessaloniki]({{ site.baseurl }}/assets/hard-work-to-prepare-in-Thessaloniki-225x300.jpg)](https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/hard-work-to-prepare-in-thessaloniki/)[/caption]
+(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/hard-work-to-prepare-in-thessaloniki/)
 
 Over the last few months the openSUSE ambassadors have continued to visit conferences around the world. Since our [previous report](https://news.opensuse.org/2011/05/06/opensuse-ambassadors-are-rocking-all-over-the-world/) beginning of May, several big events have happened and we'll treat you on a report on some of those.<!-- more -->
 
@@ -21,7 +21,7 @@ Let's start with a few quick links to reports which are already online and proba
 
 The Greek team also organized a [summer camp](https://news.opensuse.org/2011/06/20/opensuse-summer-camp-greece-2011/) from which you can see pictures in their [facebook group](http://www.facebook.com/group.php?gid=153638841330360). Rest assured we'll make them work harder after they so clearly spend a lot of time drinking and hanging in the sun...
 
-[caption id="attachment_9742" align="alignright" width="300" caption="Relaxing Greeko's"][![Relaxing Greeko's]({{ site.baseurl }}/assets/geekos-relaxing-in-Greece-300x223.png)](https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/geekos-relaxing-in-greece/)[/caption]
+(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/geekos-relaxing-in-greece/)
 
 Most interestingly, the Greek team went to [the Xariseto.gr bazaar](http://zoumpis.wordpress.com/2011/05/20/participation-of-opensuse-greek-community-in-xariseto-gr-bazaar-may-14-2011-report/). In Thanasis'  words: Xariseto is a festival where people meet and donate their personal belongings which they don't use any more. So as a Linux and openSUSE community we thought that participating in these kind of festivals is really interesting.
 
@@ -47,7 +47,7 @@ At the end of April, Ricardo Varas Santana attended the FLISoL event in Chile, w
 
 Orv Beach participated in the Southwest Computer Conference where he presented openSUSE to an eager crowd. He gave out Tuxes and Geeko's as well as 160 DVD's and flyers to the visitors, mostly members from Computer Clubs around the USA.
 
-[caption id="attachment_9743" align="alignright" width="300" caption="Not just hard work but also... party!"][![Not just hard work!]({{ site.baseurl }}/assets/not-just-hard-work-but-also-hard-party-300x223.png)](https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/not-just-hard-work-but-also-hard-party/)[/caption]
+(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/not-just-hard-work-but-also-hard-party/)
 
 
 ### Taiwan
@@ -67,7 +67,7 @@ Stuart Tanner went to the RedRat Computer Market in Sheffield. He was the only l
 
 Your humble writer has also done his small share the last months, showing up at a computer event in the Netherlands. A team of 4 manned a booth, held 2 presentations, handed out a few hundred DVD's as well as posters and in general showed openSUSE rocks also in NL!
 
-[caption id="attachment_9744" align="alignright" width="300" caption="Action in Taiwan"][![Action in Taiwan]({{ site.baseurl }}/assets/taiwan-300x211.jpg)](https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/taiwan/)[/caption]
+(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/taiwan/)
 
 
 ## more work

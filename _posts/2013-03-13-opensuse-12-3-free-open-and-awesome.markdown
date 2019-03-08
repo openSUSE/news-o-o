@@ -28,7 +28,7 @@ As this was a shorter-than-normal release cycle, much attention went into the _d
 
 
 
-[caption id="attachment_15536" align="alignright" width="300"][![good news - we've got green smoke!]({{ site.baseurl }}/assets/80679375-300x216.jpg)]({{ site.baseurl }}/assets/80679375.jpg) good news - we've got green smoke![/caption]
+({{ site.baseurl }}/assets/80679375.jpg) good news - we've got green smoke!
 
 
 ## The Highlights

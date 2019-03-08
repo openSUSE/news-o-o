@@ -17,7 +17,7 @@ In preparation for the upcoming 12.3 release, the openSUSE Marketing and Artwork
 
 
 Every year SUSE rents a bus that gets loaded with SUSE and community guys and girls and drives it across Europe to the leading developer-focused Free Software event. Although the trip is long, a busload of geeks and beer is a great recipe for things to discuss and projects to hack on. So we had a lot of fun on the way already.
-[caption id="attachment_15258" align="alignright" width="212"][![FOSDEM beer poster]({{ site.baseurl }}/assets/FOSDEM-beer-a4-300dpi-212x300.jpg)]({{ site.baseurl }}/assets/FOSDEM-beer-a4-300dpi.jpg)_ how to get ppl to visit your booth_[/caption]
+({{ site.baseurl }}/assets/FOSDEM-beer-a4-300dpi.jpg)_ how to get ppl to visit your booth_
 
 At FOSDEM, we got a booth between Debian and the FOSDEM organization's stand, and demonstrating openSUSE 12.3 Beta 1, and sold openSUSE Old Toad beer and merchandise. We had two big touchscreens (although one had broken touchscreen) and we were showing Gnome and KDE there. Apart from that we also had Samsung Chromebooks with openSUSE demoing Enlightement 17 (including a nice openSUSE theme) and XFCE. Â We also promoted our next openSUSE Conference in Greece by playing promo videos, hanging posters everywhere and off course having plenty of Greeks at our booth talking to everybody about it. They even managed to "catch" few Greek FOSDEM visitors.
 
@@ -58,7 +58,7 @@ On the social side, we taught our new team members the ropes of git and packagin
 
 Luckily, [screenshots did get made](https://en.opensuse.org/Screenshots_12.3), in a proper collaborative fashion!
 
-[caption id="attachment_15207" align="alignright" width="300"][![some slight GIMPing might have taken place]({{ site.baseurl }}/assets/8480683353_fe96b5ebdb-300x225.jpg)]({{ site.baseurl }}/assets/8480683353_fe96b5ebdb.jpg) Working at the whiteboard (slightly GIMPed)[/caption]
+({{ site.baseurl }}/assets/8480683353_fe96b5ebdb.jpg) Working at the whiteboard (slightly GIMPed)
 
 The Artwork team met with SUSE designers, discussing how to get more people involved. The Ambassador team talked with Agustin and Jos about the future of this program and concluded that a major overhaul needed. Watch this space. The writing team had a meeting with a group of long-time [OBS developers](http://openbuildservice.org/team/) to discuss and prepare for an upcoming marketing effort for this awesome project. The SUSE Documentation team gave a demo of the new ActiveDoc tool and on two occasions we had visits from company management, with Ralf Flaxa, VP of engineering, and Roland Haidl, head of the SUSE work around openSUSE, talking to the team about various issues and opportunities for improvement. And the Spanish speaking visitors discussed ["We are Hispanohablantes"](https://en.opensuse.org/openSUSE:We_are_Hispanohablantes), an effort to centralize the Spanish speaking communities in openSUSE.
 

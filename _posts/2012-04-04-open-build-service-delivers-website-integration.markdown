@@ -19,7 +19,7 @@ categories:
 
 
 The Open Build Service provided by openSUSE keeps growing. The number of packages is now well over 170.000, with more than 32.000 developers using the Open Build Service either for personal use, to provide packages for one or more Linux distributions publicly or to contribute to openSUSE. Many projects depend on the Open Build Service to get software to their users. Right now, developers need to move the packages from OBS to a place where they are easy to download, or point users to the repository. The project page on OBS usually provides a 'download' button but this page is clearly not designed for end users.
-[caption id="attachment_13057" align="alignright" width="184" caption="OBS download page integrated in Qupzilla"][![OBS download page integrated in Qupzilla]({{ site.baseurl }}/assets/qupzilla-184x300.jpg)](https://news.opensuse.org/2012/04/04/open-build-service-delivers-website-integration/qupzilla/)[/caption]
+(https://news.opensuse.org/2012/04/04/open-build-service-delivers-website-integration/qupzilla/)
 
 We decided to do better and now provide a download page which can be properly integrated in any website. It offers several layers of integration, starting with a convenient multi-distribution download page one can link to ([example here](http://software.opensuse.org/download/package?project=openSUSE:Tools&package=osc)); or an iframe which can be included in a web page; to PHP and html objects one can use to really offer deep integration. New is also the option to also provide Appliances this way so those building OS images on OBS can provide access to them directly via the same interface.
 
@@ -33,7 +33,7 @@ If you are interested in integrating the download functionality of the Open Buil
 The first project to take advantage of this is [the light weight web browser QupZilla](http://qupzilla.com) and the integration work took only a few minutes using the iframe option. It saves interested users an extra click to install the application and looks better at the same time.
 
 The full functionality, including the downloading of Appliances, can be seen in action on the [openbuildservice.org](http://www.openbuildservice.org/download/) website which got a nice face-lift for the occasion.
-[caption id="attachment_13033" align="alignright" width="681" caption="OBS download page on OBS.org"][![OBS download page on OBS.org]({{ site.baseurl }}/assets/OBS-download-page2.jpg)](https://news.opensuse.org/2012/04/04/open-build-service-delivers-website-integration/obs-download-page2/)[/caption]
+(https://news.opensuse.org/2012/04/04/open-build-service-delivers-website-integration/obs-download-page2/)
 
 
 

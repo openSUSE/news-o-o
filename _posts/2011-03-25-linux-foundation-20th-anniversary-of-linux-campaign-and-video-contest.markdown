@@ -10,7 +10,7 @@ title: "Linux Foundation 20th Anniversary of Linux Campaign and Video Contest\
 categories:
 - Project
 ---
-[caption id="attachment_7955" align="alignright" width="242" caption="old school alternative"][![vintage camera courtesy B. S. Wise]({{ site.baseurl }}/assets/vintage-8mm-camera-242x300.jpg)]({{ site.baseurl }}/assets/vintage-8mm-camera.jpg)[/caption]
+({{ site.baseurl }}/assets/vintage-8mm-camera.jpg)
 
 It's the 20th Anniversary of Linux in August and the Linux Foundation is kicking off celebrations at [The Collaboration Summit](http://events.linuxfoundation.org/events/collaboration-summit) which takes place April 6-8, 2011 at the Hotel Kabuki in San Francisco. A highlight of the campaign is the annual Video Contest, which this year focuses on the 20 year celebration and will be judged by <del>Linux</del> Linus Torvalds himself.
 

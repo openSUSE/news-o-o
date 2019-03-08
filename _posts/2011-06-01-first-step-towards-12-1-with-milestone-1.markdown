@@ -9,7 +9,7 @@ title: "First step towards 12.1 with Milestone 1"
 categories:
 - Distribution
 ---
-[caption id="attachment_9068" align="alignright" width="300" caption="Experimental openSUSE 12.1 artwork"][![we're joking ;-)]({{ site.baseurl }}/assets/121-300x217.png)](https://news.opensuse.org/2011/06/01/first-step-towards-12-1-with-milestone-1/attachment/121/)[/caption]
+(https://news.opensuse.org/2011/06/01/first-step-towards-12-1-with-milestone-1/attachment/121/)
 
 Milestone 1, the first step towards the upcoming openSUSE 12.1 release, is now available. It is the first milestone, hence far from stable, but the images are now finally building, so we have a good starting point for further development.<!-- more -->
 

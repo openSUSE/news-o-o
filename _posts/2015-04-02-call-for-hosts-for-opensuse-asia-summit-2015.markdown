@@ -9,7 +9,7 @@ title: "Call for hosts for openSUSE.Asia Summit 2015"
 categories:
 - Summit
 ---
-[caption id="attachment_18545" align="alignright" width="300"][![openSUSE Asia Summit 2014]({{ site.baseurl }}/assets/Logo-300x300.png)]({{ site.baseurl }}/assets/Logo.png) Submit proposals for the openSUSE Asia Summit 2015[/caption]
+({{ site.baseurl }}/assets/Logo.png) Submit proposals for the openSUSE Asia Summit 2015
 
 The openSUSE.Asia organization committee is inviting proposals to host the openSUSE.Asia Summit during the later half of 2015. The openSUSE.Asia Summit is the featured annual openSUSE conference in Asia.
 

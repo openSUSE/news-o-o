@@ -20,7 +20,7 @@ The Zentrifuge, our [conference location](http://conference.opensuse.org/locatio
 ## <!-- more -->Future's Past with Winfried Appelt
 
 
-[caption id="attachment_10414" align="alignleft" width="300" caption="(C) by Wilfried Appelt, used by permission"][![]({{ site.baseurl }}/assets/Maschinen_Appelt_1b-300x200.jpg)](https://news.opensuse.org/2011/08/22/osc11-fun/maschinen_appelt_1b/)[/caption]
+(https://news.opensuse.org/2011/08/22/osc11-fun/maschinen_appelt_1b/)
 
 To lay the foundation for the bridge Wilfrid Appelt, a collector of old calculating machines will present on Sunday at 17:00 in the main hall some of these apparatuses of the past century that scientists, engineers and merchants used - and which prepared the ground for the electronic achievements of our time. He will show us that aesthetics and technology are not mutually exclusive.
 

@@ -14,7 +14,7 @@ tags:
 - Infrastructure
 - opensuse
 ---
-[caption id="attachment_20402" align="alignleft" width="300"][![Screenshot Status Page]({{ site.baseurl }}/assets/screenshot_status_page-300x231.png)](https://status.opensuse.org/) Screenshot https://status.opensuse.org/[/caption]
+(https://status.opensuse.org/) Screenshot https://status.opensuse.org/
 
 Worried about downtimes and maintenance windows of openSUSE services that you missed because there was no information provided? ;-)
 

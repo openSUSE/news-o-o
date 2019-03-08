@@ -19,7 +19,7 @@ So, what we politely ask you to do is drop everything, and [click here](https://
 
 The survey will be open until the 31st of August. We'll post the results in the first days of September right here at openSUSE News. And there will be a graph included:
 
-[caption id="attachment_16090" align="aligncenter" width="300"][![statistics geeko inside]({{ site.baseurl }}/assets/statistics-geeko-inside.png)]({{ site.baseurl }}/assets/statistics-geeko-inside.png) There shall be a fancy graph![/caption]
+({{ site.baseurl }}/assets/statistics-geeko-inside.png) There shall be a fancy graph!
 
 This is just the first step in the news team's interaction with its geeko reader base. Needless to say the survey is anonymous. Also, I'd like to ask you if you could share this survey through your social networks or with other readers, so we can get the most representative possible input.
 

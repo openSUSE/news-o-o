@@ -19,7 +19,7 @@ For users coming from 11.1, openSUSE 11.2 actually features two GNOME releases w
 
 Nautilus now has a plugin to allow quick and easy file sharing. Just right-click on the folder you'd like to share and select "Sharing Options." This makes use of Samba, so you need to enable directory sharing under the Samba Server module in YaST.
 
-[caption id="" align="alignleft" width="362" caption="New and Improved Cheese"][![New and Improved Cheese](http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)](http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)[/caption]
+(http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)
 
 The Webcam application for GNOME, Cheese, includes some enhancements for 2.28, including a redesigned interface that's better suited for netbooks.
 

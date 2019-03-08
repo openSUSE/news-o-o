@@ -56,7 +56,7 @@ Some useful commands:
   * ** zypper moo** - makes debian users feel at home
 
 
-[caption id="attachment_16454" align="alignright" width="300"][![The Geekos in Greece!]({{ site.baseurl }}/assets/MG_4865-300x200.jpg)]({{ site.baseurl }}/assets/MG_4865.jpg) The Geekos in Greece![/caption]
+({{ site.baseurl }}/assets/MG_4865.jpg) The Geekos in Greece!
 
 
 ### journald

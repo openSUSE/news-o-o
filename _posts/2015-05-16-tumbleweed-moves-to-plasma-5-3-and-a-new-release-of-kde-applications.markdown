@@ -10,7 +10,7 @@ title: "Tumbleweed moves to Plasma 5.3 and a new release of KDE Applications\
 categories:
 - Distribution
 ---
-[caption id="attachment_19234" align="alignright" width="300"][![Plasma 5.3]({{ site.baseurl }}/assets/plasma-5.3-300x169.png)](https://dot.kde.org/2015/04/28/plasma-5.3) The latest and greatest desktop tech from the KDE community[/caption]
+(https://dot.kde.org/2015/04/28/plasma-5.3) The latest and greatest desktop tech from the KDE community
 
 At the time of writing this, the openQA servers were busily running tests and, by the time we publish this article, they should be done. What was being tested? A massive amount of changes, bringing not only the latest Plasma 5.3 and Applications 15.04.1 to Tumbleweed, but also marking the switch to Plasma 5 as the default desktop!
 
@@ -46,7 +46,7 @@ The massive list of improvements to existing KDE applications are detailed [on t
 
 Of course, this is just a taste of the changes you will notice compared to Plasma 5.2 and the release of the KDE Applications from December last year. Those who have not had the pleasure of experimenting with Plasma 5 will be delighted with improvements all over this well-designed workspace. Ranging from smoother animations to smarter behavior permeating almost all aspects of handling day-to-day tasks, Plasma 5 offers a more modern and optimized experience.
 
-[caption id="attachment_19235" align="alignright" width="300"][![Edit videos like a pro with Kdenlive!]({{ site.baseurl }}/assets/kdenlive-300x107.png)](https://dot.kde.org/2015/04/15/kde-applications-1504-adds-kde-telepathy-chat-and-kdenlive-video-editing) Edit videos like a pro with Kdenlive![/caption]
+(https://dot.kde.org/2015/04/15/kde-applications-1504-adds-kde-telepathy-chat-and-kdenlive-video-editing) Edit videos like a pro with Kdenlive!
 
 
 ## Default to Plasma 5.3

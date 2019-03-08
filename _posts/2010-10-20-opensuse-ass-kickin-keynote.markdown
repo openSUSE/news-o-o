@@ -9,7 +9,7 @@ title: "openSUSE ass-kickin' keynote"
 categories:
 - Events
 ---
-[caption id="attachment_5196" align="alignright" width="300" caption="Henne kicking ass"][![Henne kicking ass]({{ site.baseurl }}/assets/AJS_6069-300x200.jpg)](https://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/ajs_6069/)[/caption]
+(https://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/ajs_6069/)
 
 As 260 fans of openSUSE descended upon Nuremberg, the second annual openSUSE Conference began at 9:30 sharp with  Hendrik "Henne" Vogelsang delivering a very important and poignant message for us all.
 
@@ -23,13 +23,13 @@ Moving openSUSE means taking responsibility; you can do anything - nobody can an
 
 Highlighting some of the examples of people who have stepped up and pushed their initiatives, Henne pointed to people like Andrew "FunkyPenguin" Wafaa who recently released the openSUSE incarnation of Meego, Smeegol.  Wafaa, a true enthusiast of the netbook environment, didn't wait for someone to give their permission or blessing to proceed with his initiative.  He just did it, made it happen - beating Fedora and the 'official' MeeGo project in getting out the latest MeeGo user interface!
 
-[caption id="attachment_5197" align="alignright" width="300" caption="working classroom-style"][![working classroom-style]({{ site.baseurl }}/assets/AJS_6077-300x199.jpg)](https://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/ajs_6077/)[/caption]
+(https://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/ajs_6077/)
 
 Henne talks about things stopping people from stepping up and doing what they think is needed. Fear of duplication or doing something contradicting other efforts often stop us from making a difference.
 
 Henne's advice is simple: don't give ave a you-know-what. Just do it. What is wrong with having Emacs *and* vim? Nothing! we can have duplication - we're an open source community! We can have a million text editors if we want! We can have 8 desktops - we actually do... We can't possibly all want the same thing and that is perfectly OK. We need diversity, that is how open source works. Don't fear duplication, don't fear contradiction, don't let others tell you not to do something. Just do it.
 
-[caption id="attachment_5198" align="alignright" width="300" caption="Developers are WHAT?"][![Developers are WHAT?]({{ site.baseurl }}/assets/AJS_6081-300x199.jpg)](https://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/ajs_6081/)[/caption]
+(https://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/ajs_6081/)
 
 All of this points to where we can go as a Project, which has limitless boundaries.  There's room for everyone and everyone's ideas.  Even if your ideas seem minute or insignificant, don't be afraid to try and play around with your ideas.  Every big idea started out small. And don't even *think* about stopping anyone with whatever they want - help or get out of the way.
 

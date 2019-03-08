@@ -31,7 +31,7 @@ We asked him about what he will share with us at the [openSUSE Conference](http:
 
 **Jos:** _But at least people are angry about it, now..._
 
-[caption id="attachment_14856" align="alignright" width="300"][![social media logos]({{ site.baseurl }}/assets/social-media.png)]({{ site.baseurl }}/assets/social-media.png) Frenemies?[/caption]
+({{ site.baseurl }}/assets/social-media.png) Frenemies?
 
 **Georg:** "People are shocked. But a few years too late. It is good that they are but we should ask the question: why is it worse to give your data to the government (which may use it in name of the corporations) rather than giving it to the corporations directly?
 

@@ -10,7 +10,7 @@ categories:
 - Conference
 - Events
 ---
-[caption id="attachment_16406" align="alignright" width="300"][![Volunteers oSC13]({{ site.baseurl }}/assets/DSC_0009-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0009.jpg) Volunteers oSC13[/caption]
+({{ site.baseurl }}/assets/DSC_0009.jpg) Volunteers oSC13
 
 One of the most exciting openSUSE Conferences is over. The community proved that everything can be done if people are anxiously engaged. Everyone had fun and was excited about these four days of conference. G(r)eekos had everything set up, from interesting presentations and workshops to night parties, lunch and dinner.
 
@@ -27,7 +27,7 @@ All visitors who came to the conference were delighted with the presentations. K
 ## #oSC13 and Thessaloniki's experience
 
 
-[caption id="" align="alignright" width="368"]![Geekos having Fun!](https://lh4.googleusercontent.com/-rzg-4RoFZJI/UezvgZJ0PAI/AAAAAAAAEWk/XPkrQdWekBw/w1253-h835-no/DSC_0662.JPG) Geekos having Fun![/caption]
+(https://lh4.googleusercontent.com/-rzg-4RoFZJI/UezvgZJ0PAI/AAAAAAAAEWk/XPkrQdWekBw/w1253-h835-no/DSC_0662.JPG) Geekos having Fun!
 
 All visitors enjoyed the Greek hospitality and the Greek sun! The venue of the conference was set up with many beach accessories by the volunteers in order to give the impression to visitors that summer is here! A mini beach bar was set up outside venue and 4 small pools for visitors to relax with a beer or a refreshment after the presentations. Visitors also had the opportunity to make a tour around the city of Thessaloniki andÂ sightseeing. Everyone experienced the nightlife of Thessaloniki!
 

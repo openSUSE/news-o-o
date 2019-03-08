@@ -72,7 +72,7 @@ Then there are a number of unofficial sources of information we can't ignore:
 
 ... and you can find plenty more on the web.
 
-[caption id="attachment_15590" align="alignright" width="300"][![YaST configuration]({{ site.baseurl }}/assets/YaST-configuration-300x244.jpg)]({{ site.baseurl }}/assets/YaST-configuration.jpg) YaST offers advanced help[/caption]
+({{ site.baseurl }}/assets/YaST-configuration.jpg) YaST offers advanced help
 
 
 ### Tools
@@ -90,7 +90,7 @@ YaST2 is simple to use - look it up in a menu or a command runner and give your 
 
 Not all is rosy in YaST2 land, as the tool is beginning to show its age. The UI-independent toolkit and multitude of language bindings are nice but bring their share of issues as well and few developers are fluent in writing YaST components.
 
-[caption id="attachment_15597" align="alignright" width="300"][![YaST commandline]({{ site.baseurl }}/assets/YaST-commandline-300x147.jpg)]({{ site.baseurl }}/assets/YaST-commandline.jpg) YaST can be run from the commandline too[/caption]
+({{ site.baseurl }}/assets/YaST-commandline.jpg) YaST can be run from the commandline too
 
 
 #### Package Management
@@ -101,7 +101,7 @@ openSUSE uses _rpm_ as low-level package handler and _zypper_ as easier frontend
 **patterns**
 zypper & friends offer _patterns_ to deal with the installation of groups of packages. These can be recognized by the _pattern-_ prefix and for example WebYaST and its most important modules can be installed by issueing _zypper in patterns-openSUSE-webyast_ in a root terminal. A more pro-tip is that zypper has [_multi-package-support_](http://en.opensuse.org/SDB:Keep_multiple_kernel_versions), by default enabled for the kernel. This makes sure that zypper always keeps the current kernel on your system until you've booted in the new one successfully; and it can be made to keep for example the last 2 kernels around if you prefer some more certainty. Zypper's speed and versatility in handling package dependencies and corner cases is especially relevant in the light of another unique openSUSE technology: the Open Build Service.
 
-[caption id="attachment_15519" align="alignright" width="300"][![game category on software.opensuse.org]({{ site.baseurl }}/assets/game-category-300x214.png)](http://software.opensuse.org/packages) game category on software.opensuse.org[/caption]
+(http://software.opensuse.org/packages) game category on software.opensuse.org
 
 **Getting more software**
 _[software.opensuse.org](http://software.opensuse.org/packages)_ offers about 200.000 packages build by thousands of contributors on [build.opensuse.org](http://build.opensuse.org), a public instance of the [Open Build Service](http://openbuildservice.org). Package installation is made easy through the openSUSE _[1-click install technology](https://en.opensuse.org/openSUSE:One_Click_Install)_. You can read more about [OBS and the packages there in this article from last week](https://news.opensuse.org/2013/03/11/sneak-preview-iii-there-and-back-again-a-distros-tale/).
@@ -123,7 +123,7 @@ Find [documentation for LVM and RAID here](http://doc.opensuse.org/documentation
 
 _**Important:** Every time you use these or other potentially dangerous tools, YaST will give you a fair warning before executing any destructive actions but in the end, it is in your hand!_
 
-[caption id="attachment_15411" align="alignright" width="300"][![screenshot-studio-12.3-kde]({{ site.baseurl }}/assets/screenshot-studio-12.3-kde-300x202.png)]({{ site.baseurl }}/assets/screenshot-studio-12.3-kde.png) Testing a self build OS in Studio[/caption]
+({{ site.baseurl }}/assets/screenshot-studio-12.3-kde.png) Testing a self build OS in Studio
 
 
 ## Distribution building tools
@@ -202,7 +202,7 @@ Now, let's go over the distributions and try to give you some quick insights in 
 
 Coming from Ubuntu/Debian, you will notice openSUSE has a slightly different filesystem layout and uses a number of different tools. YaST has already been mentioned, another is systemd as init system. We also do not use sudo for executing super user commands but instead you should issue the _su_ command to create a permanent superuser login in the terminal.
 
-[caption id="attachment_15598" align="alignright" width="300"][![zypper help output]({{ site.baseurl }}/assets/zypper-help-300x215.jpg)]({{ site.baseurl }}/assets/zypper-help.jpg) zypper help output[/caption]
+({{ site.baseurl }}/assets/zypper-help.jpg) zypper help output
 
 
 #### package management
@@ -406,7 +406,7 @@ _
 </table>
 **Tip**: after running an update,_ zypper ps_ lists processes which have received updates and might have to be restarted. Zypper does, by and large, not automatically restart processes to not interrupt your work, but after _big_ updates it is strongly recommended to at least log out and log in again from the graphical desktops.
 
-[caption id="attachment_15600" align="alignright" width="300"][![yast runlevel config]({{ site.baseurl }}/assets/yast-runlevel-config-300x209.jpg)]({{ site.baseurl }}/assets/yast-runlevel-config.jpg) yast runlevel configuration[/caption]
+({{ site.baseurl }}/assets/yast-runlevel-config.jpg) yast runlevel configuration
 
 
 #### systemd and boot management
@@ -495,7 +495,7 @@ The symlink `/etc/systemd/system/default.target` controls where we boot into by 
 
 To add actions to be run after booting the system, add them to the _/etc/rc.d/boot.local_ file.
 
-[caption id="attachment_15599" align="alignright" width="300"][![journalctl -f]({{ site.baseurl }}/assets/journalctl-f-300x54.jpg)]({{ site.baseurl }}/assets/journalctl-f.jpg) journalctl -f output[/caption]
+({{ site.baseurl }}/assets/journalctl-f.jpg) journalctl -f output
 
 **journald**
 openSUSE is in the process of replacing current logging tools with a more advanced solution: journald. A few typical commands:
@@ -638,7 +638,7 @@ Zypper almost always has a 'long' and a 'short' version of commands, for example
 Click here for tips on using _systemd_ and _journald_.
 
 Go back up to the list of distributions
-[caption id="attachment_14262" align="alignright" width="257"][![toad and hat]({{ site.baseurl }}/assets/toad-and-hat-257x300.jpg)]({{ site.baseurl }}/assets/toad-and-hat.jpg) we love crazy fun[/caption]
+({{ site.baseurl }}/assets/toad-and-hat.jpg) we love crazy fun
 
 
 ### Coming from Arch
@@ -811,7 +811,7 @@ slackpkg search amarokzypper search amarok
 Slackware uses _SysVinit_ and enabling and disabling services happens in _/etc/init.d_. Click here for tips on using the init system _systemd_ and system logging tool _journald_.
 
 Go back up to the list of distributions
-[caption id="attachment_14305" align="alignright" width="212"][![May the Geeko be with you]({{ site.baseurl }}/assets/Geeko-with-you-212x300.png)]({{ site.baseurl }}/assets/Geeko-with-you.png) Go green![/caption]
+({{ site.baseurl }}/assets/Geeko-with-you.png) Go green!
 
 
 ### Coming from Fedora
@@ -885,7 +885,7 @@ Fedora is pretty close to what you can experience in openSUSE. We are RPM distri
 Fedora on the command _setup_ offering some of the functionality YaST has. Also, _system-config-firewall_ has an equivalent in _yast firewall_ and _system-config-users_ is comparable to _yast users_.
 
 Go back up to the list of distributions
-[caption id="attachment_15625" align="alignright" width="300"][![Register now for oSC 2013!]({{ site.baseurl }}/assets/oSC13-register.jpg)](https://conference.opensuse.org/osem) Register now for oSC 2013![/caption]
+(https://conference.opensuse.org/osem) Register now for oSC 2013!
 
 
 ## Conclusion

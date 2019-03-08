@@ -12,7 +12,7 @@ categories:
 ---
 Two weeks ago, openSUSE Ambassadors Ilias and Diomidis joined the SUSE crew at LinuxCon in Barcelona, Spain, to represent the Geeko to the visitors of this conference. As most ambassadors do, they wrote an excellent report about the event which we didn't want you all to miss. To give you a taste of the event, Ilias send the report with the following comment: "it was an amazing experience for me and Diomidis." Read on for more details!<!-- more -->
 
-[caption id="attachment_14594" align="alignright" width="300"][![Booth after setting it up (with us in it)]({{ site.baseurl }}/assets/PB050115-300x225.jpg)](https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5807999670170728562) Booth after setting it up (with us in it)[/caption]
+(https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5807999670170728562) Booth after setting it up (with us in it)
 
 
 
@@ -63,7 +63,7 @@ The feedback we got from the conference attendees was very good and friendly abo
 
 Furthermore we got very good and promising feedback about the Open Build Service (OBS). We also went to a few presentations: [Open Source Community Metrics : Tips and Techniques for Measuring Participation](http://linuxconeurope2012.sched.org/event/8b66873c980904ee76d9b2ee3f2fa29e?iframe=no&w=900&sidebar=yes&bg=no#.UJvZFHlg6co) by Down Foster (Puppet Labs) and [The Giant IT Vending Machine](http://linuxconeurope2012.sched.org/event/831de004b8678741785cf09b4d73264c?iframe=no&w=900&sidebar=yes&bg=no#.UJvZZnlg6co)by Daniel Roberts Ridruejo (BitNami)
 
-[caption id="attachment_14595" align="alignright" width="300"][![Ralf Flaxa, SUSE's VP of engineering talks at LinuxCon]({{ site.baseurl }}/assets/PB060143-300x225.jpg)](https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5808000893952588258) Ralf Flaxa, SUSE's VP of engineering talks at LinuxCon[/caption]
+(https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5808000893952588258) Ralf Flaxa, SUSE's VP of engineering talks at LinuxCon
 
 
 
@@ -78,7 +78,7 @@ he first day we (me and Diomidis) were at the openSUSE booth , but we attended t
 
 This time, we went to way more presentations, of course.
 
-[caption id="attachment_14596" align="alignright" width="300"][![Meeting famous people (yes, that is Linus)]({{ site.baseurl }}/assets/PB070182-300x225.jpg)](https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5809296830237975874) Meeting famous people (yes, that is Linus)[/caption]
+(https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5809296830237975874) Meeting famous people (yes, that is Linus)
 
 
 

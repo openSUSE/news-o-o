@@ -23,7 +23,7 @@ An event like oSC is not possible without a dedicated local team. This year, Kos
 ## The team
 
 
-[caption id="attachment_14847" align="alignnone" width="700"][![The Awesome Greeko's Getting Ready for oSC'13]({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662.jpg)]({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662.jpg) The Awesome Greeko's at oSC12[/caption]
+({{ site.baseurl }}/assets/Day2-Sunday-070_DSC_7662.jpg) The Awesome Greeko's at oSC12
 
 Under the inspiring leadership of Kostas and Stella you can find the openSUSE conference volunteers who have been working on the preparation. This include creating artwork like the logo, flyers, video's and more (Anditosan,Â Pavlos Ratis and Carlos Ribeiro), communication and building and managing websites, writing news articles, social media and spreading the word at events (Henne Volgelsang, Matt Barringer, Theo Chatzimichos, George Bratsos, Pavlos Ratis, Stathis Iosifidis,Â Stathis Agrapidis, Dimitris Papapoulios and Jos Poortvliet) and managing sponsors, money and travel (Izabel Valverde, Agustin Benito Bethencourt). And Jürgen Weigert, who will be in charge of video recording, and Lars Vogdt who will take care of networking, have also been preparing, working with the local team. Of course, we should thank our Paper Committee members: Robert Schweikert, Alberto Planas, Matt Barringer, Michal Hrusecky and Henne. All in random order...
 

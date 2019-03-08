@@ -42,7 +42,7 @@ And last but not least, don't forget about all the love and attention that have 
 
 You might have seen that we created some cool materials to promote the release. There are banners, backgrounds for social media accounts and more in [this article](https://news.opensuse.org/?p=16835) and we have this cool "Release Geeko" background for you:
 
-[caption id="attachment_17346" width="650" align="aligncenter"][![ReleaseIsComingBackground]({{ site.baseurl }}/assets/ReleaseIsComingBackground-300x225.jpg)]({{ site.baseurl }}/assets/ReleaseIsComingBackground.jpg) Release Geeko background[/caption]
+({{ site.baseurl }}/assets/ReleaseIsComingBackground.jpg) Release Geeko background
 
 Find more related artwork in our [github repository](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Events/Releases/13.1%20release%20is%20coming).
 

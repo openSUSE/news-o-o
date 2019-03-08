@@ -17,7 +17,7 @@ categories:
 ## Day 1
 
 
-[caption id="attachment_13697" align="alignright" width="300"]![Meeting in front of building]({{ site.baseurl }}/assets/pic-1-meeting-in-front-of-building-300x225.jpg) Meeting in front of building[/caption]
+({{ site.baseurl }}/assets/pic-1-meeting-in-front-of-building-300x225.jpg) Meeting in front of building
 
 The first day begun when we met up in front of the [Zaragoza Council](http://www.zaragoza.es/) where Akademy Es took place. Once inside we set up our booths. openSUSE had a booth during the whole event, as did KDE itself. Setting up the booths took a while and afterwards it was already lunch time. There were pleasant discussions during lunch and when we came back, the conference was about to start!
 

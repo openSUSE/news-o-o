@@ -22,7 +22,7 @@ Day two kicked off with a keynote (see below) and continued as Friday: people we
 
 A bit of great news is that video's are beginning to appear on YouTube - [check them out here!](http://www.youtube.com/openSUSEtv)
 
-[caption id="attachment_16409" align="alignright" width="300"][![Cheers from #osc13]({{ site.baseurl }}/assets/DSC_0605-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0605.jpg) Cheers from #osc13[/caption]
+({{ site.baseurl }}/assets/DSC_0605.jpg) Cheers from #osc13
 
 
 ### Keynote about SUSE and openSUSE
@@ -42,7 +42,7 @@ However, just like in any organization there are also challenges to be faced, th
 **Challenges**
 We have SUSE and openSUSE whose code bases have diverged. This has become a problem. Ralf wants his engineers to contribute to openSUSE and this is hard with vastly different code bases; it results in spending time on back porting or simply doing double work. The need for customers/users are different for each distribution but there are things which are the same. Both home users and enterprise users need stable and moving components. We need to think about how to bring things together. Then there is the upgrade path between openSUSE and SLE. There is none! We have customers using openSUSE who might want to move to SLE who cannot do so since the distributions are so different at this time.
 
-[caption id="attachment_16434" align="alignright" width="300"][![Keynote by Ralf]({{ site.baseurl }}/assets/9327114012_3647d878e2_b-300x200.jpg)]({{ site.baseurl }}/assets/9327114012_3647d878e2_b.jpg) Keynote by Ralf[/caption]
+({{ site.baseurl }}/assets/9327114012_3647d878e2_b.jpg) Keynote by Ralf
 
 But there is more. We received feedback from the openSUSE community. Looking at Factory where you can get an openSUSE-of-the-day distribution image. It is a flexible tool, up to date and easy to hack on. However, it can be terribly unstable. It takes a lot of complicated work to maintain and has no lifecycle.
 

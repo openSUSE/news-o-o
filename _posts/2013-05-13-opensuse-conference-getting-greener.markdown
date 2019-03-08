@@ -54,7 +54,7 @@ Some important links:
 
 Two sites where you can book cheap flight to Greece are [Petas.gr](http://www.petas.gr/en/Home.html) and [airtickets.com](http://www.airtickets.com/)
 
-[caption id="attachment_15898" align="alignright" width="300"][![openSUSE Release Party Athens]({{ site.baseurl }}/assets/P1020221-300x224.jpg)]({{ site.baseurl }}/assets/P1020221.jpg) Our Amazing Greeks[/caption]
+({{ site.baseurl }}/assets/P1020221.jpg) Our Amazing Greeks
 
 
 ## Get moving!

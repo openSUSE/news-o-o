@@ -17,7 +17,7 @@ tags:
 ---
 The openSUSE build service becomes more and more a victim of his success: building constantly more than 300,000 packages for more than 43,000 developers needs really a lot of build power! And build power means not only CPU! It includes everything that you can expect from an IT infrastructure:
 
-[caption id="attachment_19716" align="alignright" width="150"]![Old hard-drives from OBS-workers]({{ site.baseurl }}/assets/old_hard-drives_from_OBS-workers-150x150.jpg) Old hard-drives from OBS-workers[/caption]
+({{ site.baseurl }}/assets/old_hard-drives_from_OBS-workers-150x150.jpg) Old hard-drives from OBS-workers
 
 
 

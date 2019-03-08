@@ -37,7 +37,7 @@ The cracker claimed he had accessed almost 80.000 openSUSE Forum users' password
 As [Matthew Ehle told infoworld.com](http://www.infoworld.com/d/security/opensuse-forums-hack-raises-vbulletin-zero-day-exploit-possibility-233849), the openSUSE admin team believes the crackers' claim that a zero-day exploit was used. The openSUSE Forums were one patch behind the current release but the change/release log of the latest patch does not indicate it would have prevented this attack.
 
 Because the vulnerability in vBullentin did not have a fix available, we took our forums offline and started looking for a solution.
-[caption id="attachment_17521" align="alignright" width="300"][![The forums are back!]({{ site.baseurl }}/assets/forums_back-300x203.png)](http://forums.opensuse.org) The forums are back![/caption]
+(http://forums.opensuse.org) The forums are back!
 
 
 ## What now

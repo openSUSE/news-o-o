@@ -38,7 +38,7 @@ But we also have some really unique treats. The coolest among those is Snapper, 
 ## Testing
 
 
-[caption id="attachment_11590" align="alignright" width="250" caption="Click for Second Life release parties!"][![Second Life release parties]({{ site.baseurl }}/assets/ndg8b-250x240.jpg)](http://lizards.opensuse.org/2011/10/03/3-new-virtual-party-on-secondlife-for-upcoming-opensuse-12-1/)[/caption]
+(http://lizards.opensuse.org/2011/10/03/3-new-virtual-party-on-secondlife-for-upcoming-opensuse-12-1/)
 
 The changes in underlying boot technology, the new tools like Snapper as well as the rest of the operating system  need a good workout for the release! So now we need YOUR help! Go to the download page and grab your copy of openSUSE 12.1 RC2 and test it on your desktop, in a VM or on a laptop!
 

@@ -34,7 +34,7 @@ We had great conversations with you on [google plus](https://plus.google.com/b/1
 
 
 Meanwhile, our [openSUSE group on Google+](https://plus.google.com/b/110312141834246266844/communities/115444043324891769569) has still plenty of space and we're of course also [still tweeting](https://twitter.com/openSUSE/)! And a tip: we appreciate it if you re-tweet our messages to your own followers! We've got hundreds of plusses and shares on Google but a mere 33 retweets of our release announcement... Did you all leave twitter already?
-[caption id="attachment_15553" align="alignright" width="300"][![LAS wonders if 12.3 is an Ubuntu killer]({{ site.baseurl }}/assets/LAS-wonders-if-12.3-is-an-Ubuntu-killer-300x176.jpg)](http://www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/) LAS wonders if 12.3 is an Ubuntu killer[/caption]
+(http://www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/) LAS wonders if 12.3 is an Ubuntu killer
 
 
 

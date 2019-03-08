@@ -57,7 +57,7 @@ Combining features from user interface developments in Firefox and Chromium and 
 
 As more and more of us work with systems in the cloud, GNOME 3.4 supports this with the first version of a 'GNOME Boxes' App, which provides an attractive interface to virtual machines and remote applications. Test out your SUSE Studio respins of openSUSE 12.2 directly in your GNOME desktop!
 
-[caption id="attachment_14034" align="aligncenter" width="150"][![]({{ site.baseurl }}/assets/gnome-boxes-150x150.png)](https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-boxes/) gnome-boxes initializing a virtual machine to run a LiveCD[/caption]
+(https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-boxes/) gnome-boxes initializing a virtual machine to run a LiveCD
 
 
 ### Improved shell search

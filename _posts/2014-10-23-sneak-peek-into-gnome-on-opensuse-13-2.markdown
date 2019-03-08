@@ -16,11 +16,11 @@ openSUSE 13.2 comes with the latest and greatest that the GNOME desktop has to o
 
 
 
-[caption id="" align="alignleft" width="155"][![](https://en.opensuse.org/images/d/d2/OS1320_SPG_Applications_Overview.png)](https://en.opensuse.org/images/d/d2/OS1320_SPG_Applications_Overview.png) Activities overview[/caption]
+(https://en.opensuse.org/images/d/d2/OS1320_SPG_Applications_Overview.png) Activities overview
 
-[caption id="" align="alignleft" width="155"][![](https://en.opensuse.org/images/5/55/OS1320_SPG_Totem-Tears-Of-Steel.png)](https://en.opensuse.org/images/5/55/OS1320_SPG_Totem-Tears-Of-Steel.png) Video player[/caption]
+(https://en.opensuse.org/images/5/55/OS1320_SPG_Totem-Tears-Of-Steel.png) Video player
 
-[caption id="" align="alignleft" width="155"][![](https://en.opensuse.org/images/d/dd/OS1320_SPG_Font-Notes-Document.png)](https://en.opensuse.org/images/d/dd/OS1320_SPG_Font-Notes-Document.png) Evince, Notes, Font viewer[/caption]
+(https://en.opensuse.org/images/d/dd/OS1320_SPG_Font-Notes-Document.png) Evince, Notes, Font viewer
 
 
 
@@ -48,7 +48,7 @@ openSUSE 13.2 comes with the latest and greatest that the GNOME desktop has to o
 
 Calculator in the GNOME shell search
 
-[caption id="" align="alignright" width="203"][![](https://en.opensuse.org/images/5/55/OS1320_SPG_Shell-Calculator.png)](https://en.opensuse.org/images/5/55/OS1320_SPG_Shell-Calculator.png) Calculator in the GNOME shell search[/caption]
+(https://en.opensuse.org/images/5/55/OS1320_SPG_Shell-Calculator.png) Calculator in the GNOME shell search
 
 At the heart of the GNOME experience is the much improved GNOME Shell, handling such trifle as launching applications, switching between windows and workspaces with the grace of a ballet dancer. Gnome-shell, available at version 3.14.1 with openSUSE 13.2, has picked up the ability to respond to multi-touch gestures, including on touchscreens, to open the Activities overview, applications overview and message tray, and to switch between windows and workspaces. In addition, this latest version of the shell features a host of pretty-but-subtle animations that make working inside GNOME a real pleasure.
 
@@ -68,7 +68,7 @@ The support for header-bars, that nifty combination of window-header and toolbar
 
 Video player showing Apple Movie Trailers straight from the web
 
-[caption id="" align="alignright" width="203"][![](https://en.opensuse.org/images/b/b9/OS1320_SPG_Totem-Web-Apple.png)](https://en.opensuse.org/images/b/b9/OS1320_SPG_Totem-Web-Apple.png) Video player showing Apple Movie Trailers straight from the web[/caption]
+(https://en.opensuse.org/images/b/b9/OS1320_SPG_Totem-Web-Apple.png) Video player showing Apple Movie Trailers straight from the web
 
 No, it is still **totem**, for long GNOME's default media player in openSUSE. Except now, in it's 3.14 incarnation it has been completely revamped, now showing a list of videos in your home directory when launched and allowing you to switch to a list of online video channels at the touch of a button. The playback controls are now presented as a floating toolbar that automatically hides when you don't need it, allowing the currently playing video to take up maximum screen area. This refined look carries over to the fullscreen view too.
 
@@ -80,7 +80,7 @@ Behind the scenes (literally!), it still uses the trusted gstreamer backend (whi
 
 GEdit utilities menu
 
-[caption id="" align="alignright" width="201"][![](https://en.opensuse.org/images/a/a4/OS1320_SPG_Gedit-menu2.png)](https://en.opensuse.org/images/a/a4/OS1320_SPG_Gedit-menu2.png) GEdit utilities menu[/caption]
+(https://en.opensuse.org/images/a/a4/OS1320_SPG_Gedit-menu2.png) GEdit utilities menu
 
 GEdit has a brand new look making use of latest GTK+ technologies including the header-bar and an intuitive pop-over based "Open" button that makes opening recent documents really convenient. It keeps all its power and features from previous versions but packs everything into a beautiful compact interface.
 
@@ -92,7 +92,7 @@ In addition, the application Notes makes it easy to take quick notes without the
 
 Geolocation enabled apps in GNOME
 
-[caption id="" align="alignright" width="201"][![](https://en.opensuse.org/images/3/36/OS1320_SPG_Geolocation.png)](https://en.opensuse.org/images/3/36/OS1320_SPG_Geolocation.png) Geolocation enabled apps in GNOME[/caption]
+(https://en.opensuse.org/images/3/36/OS1320_SPG_Geolocation.png) Geolocation enabled apps in GNOME
 
 Applications such as Clocks, Weather and Maps have picked up geolocation support by default, automatically detecting your present location and presenting relevant information. When you start up, for example, Clocks now, it defaults to showing the time in your current timezone, where previously you would have had to add your city manually to the list of clocks to make this happen. Same goes with Maps, which defaults to showing your present location when you start it up. Concerned about privacy? Just turn it off from Privacy Settings! Speaking of maps...
 
@@ -102,7 +102,7 @@ Applications such as Clocks, Weather and Maps have picked up geolocation support
 
 Maps showing travel directions
 
-[caption id="" align="alignright" width="205"][![](https://en.opensuse.org/images/4/4a/OS1320_SPG_Maps-directions.png)](https://en.opensuse.org/images/4/4a/OS1320_SPG_Maps-directions.png) Maps showing travel directions[/caption]
+(https://en.opensuse.org/images/4/4a/OS1320_SPG_Maps-directions.png) Maps showing travel directions
 
 Maps (available at version 3.14.1) has also undergone much work since the version in the previous openSUSErelease, where it was only available as a technical preview. It has since stabilised and now forms a key component of the GNOME experience. It has also gained a handful of nifty features, most notably being able to show directions for travel and the ability to switch between the default map view and a satellite overview.
 
@@ -112,7 +112,7 @@ Maps (available at version 3.14.1) has also undergone much work since the versio
 
 Polari and Music as new default applications
 
-[caption id="" align="alignright" width="201"][![](https://en.opensuse.org/images/d/d1/OS132_SPG_New-apps.png)](https://en.opensuse.org/images/d/d1/OS132_SPG_New-apps.png) Polari and Music as new default applications[/caption]
+(https://en.opensuse.org/images/d/d1/OS132_SPG_New-apps.png) Polari and Music as new default applications
 
 openSUSE 13.2 switches to default applications that fit in with GNOME 3's vision toward providing a consistent, modern desktop experience. Gnome-music becomes the default music organizer and player replacing Rhythmbox used in previous versions. To have your music catalogued by this new application, simply put your favourite music files in the Music directory inside your home directory. 13.2 also introduces Polari, a beautiful modern IRC chat client, which takes over as the default instead of xchat.
 

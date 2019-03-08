@@ -46,7 +46,7 @@ You need a cloud that is controlled by **you**.
 
 The freedom of software and data is very valuable to the openSUSE Project and we would like to help you escape the deceptive arms of those who offer you some convenience in exchange for control over your data. A first step was providing [spideroak](http://spideroak.com) in openSUSE 11.4 which, unlike most competitors, [encrypts your files](https://spideroak.com/whyspideroak#privacy) and thus offers more protection for your privacy. But your data is still 'somewhere else' and we prefer to offer something you would really _own_.
 
-[caption id="attachment_11876" align="alignright" width="300" caption="ownCloud serving music"][![]({{ site.baseurl }}/assets/owncloudMusicas-300x187.png)](https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloudmusicas/)[/caption]
+(https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloudmusicas/)
 
 Fortunately there is a very appealing solution for that called ownCloud. This project, started two years ago by Frank Karlitschek as a part of the KDE family (but in no way limited to KDE users), offers a very up-to-date, slim but extendable and standard based cloud web app. Written in PHP and without difficult dependencies it installs on nearly every web space, even the cheapest one.
 
@@ -60,7 +60,7 @@ We want to integrate the ownCloud as good as we can into the openSUSE desktop to
 
 First, it should be very easy to install an ownCloud. Webapps can be ugly to install for not so experienced users, but should you bother? The idea is to have an installation on either your local machine, a machine in your local network behind a firewall or on your domain just a few clicks away. If you want to remove it again, the de-installation should again be dead easy. This includes of course the wiping of the data which was on the cloud.
 
-[caption id="attachment_11866" align="alignright" width="300" caption="ownCloud and GNOME Calendar"][![]({{ site.baseurl }}/assets/owncloud2-300x187.png)](https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloud2-2/)[/caption]
+(https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloud2-2/)
 
 Second, you might want to move your cloud. Lets say you worked with a local installation and like your ownCloud. Now you want to push it to the internet. That also should be just a few clicks, including all the data you already maintain in your ownCloud.
 

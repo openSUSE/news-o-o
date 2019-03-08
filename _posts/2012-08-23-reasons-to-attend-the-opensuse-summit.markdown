@@ -61,7 +61,7 @@ We've got three exciting workshops that will give you some serious street creds 
 ### openSUSE Around The World
 
 
-[caption id="attachment_13844" align="aligncenter" width="300"]![Co-Hosts covered in Geekos!]({{ site.baseurl }}/assets/Co-Hosts-300x143.png) Left: Michael Miller - Right: Andrew Wafaa[/caption]
+({{ site.baseurl }}/assets/Co-Hosts-300x143.png) Left: Michael Miller - Right: Andrew Wafaa
 
 Join Michael Miller, Vice President of SUSE and Andrew Wafaa, openSUSE Board Member, as they host the opening ceremoy that officially kicks off the openSUSE Summit.Â  They'll take you on a tour around the world highlighting the awesome activities by the community supporting the openSUSE Project.Â  Then hear about the great things openSUSE 12.2 distro has to offer.Â Â  12.2 is slated for release on September 5.Â  Come to this ceremony and you'll be able to brag that you were the first to get your hands on the free openSUSE 12.2 DVD!
 

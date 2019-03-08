@@ -66,7 +66,7 @@ We could drop the fixed release schedule and release 'when ready'. But this coul
 
 Coolo says that giving up on releases altogether, making openSUSE a tumbleweed-on-SLE would work as well. But - to mention just _one_ issue with this scheme, Tumbleweed needs to rebase on new releases as it's not designed to roll forever. So it would depend on new SLE releases for major plumbing work which, in effect, simply moves the problem to SUSE.
 
-[caption id="attachment_12917" align="alignright" width="150" caption="Devel feeds Factory"][![openSUSE Factory workflow]({{ site.baseurl }}/assets/600px-Factory_workflow-150x150.png)](http://en.opensuse.org/openSUSE:Factory_development_model)[/caption]
+(http://en.opensuse.org/openSUSE:Factory_development_model)
 
 Another step we might have to take is look closely at how we work. Working more in staging is what Coolo proposes. Working in the Devel projects is great but leads to integration issues. Working with more staging projects will need tooling support and won't solve everything, but it is a step in the right direction.
 

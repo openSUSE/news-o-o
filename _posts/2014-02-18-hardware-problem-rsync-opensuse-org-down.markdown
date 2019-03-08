@@ -12,7 +12,7 @@ tags:
 - downtime
 - Infrastructure
 ---
-[caption id="attachment_3023" align="alignright" width="150"]![Geeko at work]({{ site.baseurl }}/assets/m3geeko-150x150.jpg) Geeko at work[/caption]
+({{ site.baseurl }}/assets/m3geeko-150x150.jpg) Geeko at work
 
 [Update]: the problem seems to be a broken hard disk - and a hardware controller who can not really handle this degraded RAID array. For the moment, everything is up and running again, but we are now actively searching for replacement hardware...
 

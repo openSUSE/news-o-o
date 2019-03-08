@@ -20,7 +20,7 @@ categories:
 
 
 
-[caption id="attachment_20320" align="aligncenter" width="300"][![]({{ site.baseurl }}/assets/IMG_20140426_142502570-300x169.jpg)]({{ site.baseurl }}/assets/IMG_20140426_142502570.jpg) left to right: Peter Linnell, Bryan Lunduke, Jon Hall (with the SUSE Chameleon), James Mason, Michael Miller at LinuxFest Northwest 2014[/caption]
+({{ site.baseurl }}/assets/IMG_20140426_142502570.jpg) left to right: Peter Linnell, Bryan Lunduke, Jon Hall (with the SUSE Chameleon), James Mason, Michael Miller at LinuxFest Northwest 2014
 
 openSUSE has been a fixture at LFNW for years; I fondly recall my first LFNW, when 'Reverend' Ted Haeger demonstrated "compiz" on a tricked out SUSE laptop... I've been hooked on the event since; volunteering with (and for the last few years - organizing) the openSUSE presence there. Over the years, we've had an all-star group come out and represent SUSE & openSUSE at LFNW:
 
@@ -46,12 +46,12 @@ They are assisted by a dedicated group of local volunteers: openSUSE users looki
 
 
 
-[caption id="attachment_20326" align="aligncenter" width="300"][![]({{ site.baseurl }}/assets/lfnw-opensuse-volunteers-300x150.png)]({{ site.baseurl }}/assets/lfnw-opensuse-volunteers.png) openSUSE community volunteers like Caleb (left), an avid Steam gamer, and Adrian (right), a Python and Postgres consultant, represent the technical diversity in our community.[/caption]
+({{ site.baseurl }}/assets/lfnw-opensuse-volunteers.png) openSUSE community volunteers like Caleb (left), an avid Steam gamer, and Adrian (right), a Python and Postgres consultant, represent the technical diversity in our community.
 
 [LFNW's Call for Papers](https://www.linuxfestnorthwest.org/2017/submit-session) is still open, until March 1, so it's not too late to submit a talk, and join the openSUSE community at LFNW. For the first time, the event has a theme: "The Mechanics of Freedom"; inviting talks on AI and IoT, but sessions are welcome on a variety of topics. There's room for everyone here, and the event is always looking for good 'beginner' content as well as technical deep dives, so whether you'd like to explain the mechanics of live kernel patching, or walk people through their first editing session in Gimp, your proposal is welcome. When you submit your proposal, please [drop me a line](mailto:bear454@opensuse.org?subject=LFNW2017) as well, so I can help coordinate our group presence!
 
 
 
-[caption id="attachment_19953" align="aligncenter" width="300"][![]({{ site.baseurl }}/assets/Screenshot-from-2016-06-07-19-29-04-300x252.png)](https://twitter.com/blueyedraksha/status/724367153235775488) The SUSE Chameleon got a lot of love during last year's "Geeko selfie" contest.[/caption]
+(https://twitter.com/blueyedraksha/status/724367153235775488) The SUSE Chameleon got a lot of love during last year's "Geeko selfie" contest.
 
 I'm looking forward to welcoming a new group of community members and open source enthusiasts to the world of openSUSE and sending them off to a bunch of great openSUSE sessions. I hope to see you May 6 & 7, 2017, in beautiful [Bellingham, WA, USA](https://www.linuxfestnorthwest.org/2017/travel), where I know I'll be having a lot of fun!		

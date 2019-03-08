@@ -55,7 +55,7 @@ For end users, the openSUSE Conference features a series of interesting talks. F
 
 The business track has only one talk confirmed: OpenStack, by [Vincent Untz](http://www.vuntz.net/). We're looking for more sessions interesting for businesses! If you have an interesting subject, [send in a proposal](https://conference.opensuse.org/osem/conference/osc14/proposal).
 
-[caption id="attachment_17711" align="alignright" width="300"]![Still empty conference room]({{ site.baseurl }}/assets/conference-room-300x162.jpg)Will you sit here?[/caption]
+({{ site.baseurl }}/assets/conference-room-300x162.jpg)Will you sit here?
 
 
 ## Community and Project

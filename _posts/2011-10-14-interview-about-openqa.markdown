@@ -85,7 +85,7 @@ On the positive side I work with people who have written the tools (like screen 
 
 
 
-[caption id="attachment_11250" align="alignright" width="300" caption="openQA test details"][![openQA test details]({{ site.baseurl }}/assets/openQA-test-details-300x165.png)](https://news.opensuse.org/2011/10/14/interview-about-openqa/openqa-test-details/)[/caption]
+(https://news.opensuse.org/2011/10/14/interview-about-openqa/openqa-test-details/)
 
 
 

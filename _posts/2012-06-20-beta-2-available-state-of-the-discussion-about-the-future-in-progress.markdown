@@ -42,7 +42,7 @@ Karl Eichwalder has [asked everyone to help updating the release notes](http://l
 
 openSUSE, as you might know, is being developed in [Factory](http://en.opensuse.org/Portal:Factory). Factory is a project on the [openSUSE Build Service](http://build.opensuse.org) against which you can build a package. If it works fine, you can submit it to Factory and keep it working there.
 
-[caption id="attachment_12919" align="alignright" width="300"][![List of build failures in Factory]({{ site.baseurl }}/assets/2-300x179.jpg)](https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results) List of failures in Factory - help get rid of them![/caption]
+(https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results) List of failures in Factory - help get rid of them!
 
 
 ## Help out!
@@ -53,7 +53,7 @@ Of course you're wondering how you can help. This can start with testing. Go to 
 
 If you are a packager (or want to be one!) there is of course also plenty to do. Fixing bugs in packages is a nice way of learning the ways of packaging (see [the Packaging portal for documentation](http://en.opensuse.org/Portal:Packaging)). You can read about [how to do this here](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory), via a simple set of steps which in openSUSE are commonly known as ['BURP-ing'](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/).
 
-[caption id="attachment_12917" align="alignright" width="150"][![openSUSE Factory workflow]({{ site.baseurl }}/assets/600px-Factory_workflow-150x150.png)](http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow[/caption]
+(http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow
 
 If you're already a packager for openSUSE, don't forget to [get your packages in Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_add_a_new_package_to_Factory) or [start to maintain one](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_become_a_maintainer_of_a_package_in_Factory)!
 

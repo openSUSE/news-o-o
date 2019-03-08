@@ -10,7 +10,7 @@ categories:
 - Announcements
 - Distribution
 ---
-[caption id="attachment_14680" align="alignright" width="150"][![Download]({{ site.baseurl }}/assets/3654543066_2c8823cb03_o-e1363960517132-150x150.jpg)](http://software.opensuse.org/developer/en) Get openSUSE 13.2 Beta![/caption]
+(http://software.opensuse.org/developer/en) Get openSUSE 13.2 Beta!
 
 Our brand new 'Rolling Factory' has already amassed [over 6000 installations](https://news.opensuse.org/2014/09/05/factory-over-6000-installations-and-growing/) and that's just kicking awesome. But we won't just roll: we will still create releases of openSUSE, and 13.2 is next! According to the [roadmap](https://en.opensuse.org/openSUSE:Roadmap), our latest Geeko is due in November and it will be awesome. We promise. But it doesn't come for free: you will have to help.<!-- more -->
 

@@ -19,7 +19,7 @@ Nine of our students successfully completed their projects, and we™d like to s
 
 
 One of openSUSE™s features is the one click installer, which allows a user to go to[software.opensuse.org](http://software.opensuse.org/), select a package they want to install, click on a link, and then an installer is launched that handles all of the package dependency issues. Â Up until this summer, the installer wasn™t very visually appealing. Â Saurabh made a great deal of progress, as you can see in some of theÂ [screenshots on his weblog](http://iamsaurabh.wordpress.com/2012/08/12/gsoc-status-12/), and we™re all looking forward to getting it into the main distribution.
-[caption id="attachment_14167" align="alignright" width="300"]![Software Center on Fedora]({{ site.baseurl }}/assets/software-center-pk-fedora-300x240.png) Software Center on Fedora[/caption]
+({{ site.baseurl }}/assets/software-center-pk-fedora-300x240.png) Software Center on Fedora
 
 
 ### Complete AppStream/Software-Center, by Matthias Klumpp
@@ -58,7 +58,7 @@ TheÂ [Open Build Service](http://build.opensuse.org/)Â is a service that ope
 
 Davidlohr workedÂ [upstream](http://git.kernel.org/?p=utils%2Futil-linux%2Futil-linux.git&a=search&h=HEAD&st=commit&s=Davidlohr)Â on refactoring and modernising fdisk. He managed to clean up and modularize a lot of complicated fdisk code, which will make it easier in the future to support more disklabels and add more functionality, as well as creating planned libfdisk library. Davidlohr also submitted a patch which implements basic support for the GPT disk label.
 
-[caption id="attachment_14168" align="alignright" width="300"]![One Click Install while still work in progress]({{ site.baseurl }}/assets/oc1-300x231.png) One Click Install while still work in progress[/caption]
+({{ site.baseurl }}/assets/oc1-300x231.png) One Click Install while still work in progress
 
 
 ### Scanny, byÂ [Piotr NieÅ‚acny](http://ruby-blog.pl/)

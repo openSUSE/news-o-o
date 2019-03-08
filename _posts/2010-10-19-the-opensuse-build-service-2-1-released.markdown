@@ -37,7 +37,7 @@ This iteration has enhanced the web user interface of openSUSE Build ServiceÂ 
 
 
 
-[caption id="attachment_5077" align="alignright" width="240" caption="Source Services"][![]({{ site.baseurl }}/assets/obs21-sourceservice.png)](https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-sourceservice/)[/caption]
+(https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-sourceservice/)
 
 
 ### Integration with online source code management tools
@@ -75,7 +75,7 @@ To use the Open Source Build Service, you can access the public instance on [bui
 
 
 
-[caption id="attachment_5078" align="alignright" width="350" caption="Submission to other project"][![]({{ site.baseurl }}/assets/obs21-submit2.png)](https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-submit2/)[/caption]
+(https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-submit2/)
 
 
 
