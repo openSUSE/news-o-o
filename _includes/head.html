@@ -44,7 +44,7 @@
   {% endfor %}
   {% endif %}
   {% if page.image %}
-  <meta property="og:image" content="{{ page.image }}" />
+  <meta property="og:image" content="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" />
   {% else %}
   <meta property="og:image" content="{{ "/assets/favicons/favicon-128.png" | absolute_url }}" />
   {% endif %}
@@ -57,7 +57,7 @@
   {% endif %}
   <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
   {% if page.image %}
-  <meta name="twitter:image" content="{{ page.image }}" />
+  <meta name="twitter:image" content="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" />
   {% else %}
   <meta name="twitter:image" content="{{ "/assets/favicons/favicon-128.png" | absolute_url }}" />
   {% endif %}
