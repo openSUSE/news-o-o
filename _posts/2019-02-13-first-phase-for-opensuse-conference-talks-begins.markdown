@@ -4,6 +4,7 @@ date: 2019-02-13 15:43:21+00:00
 layout: post
 link: https://news.opensuse.org/2019/02/13/first-phase-for-opensuse-conference-talks-begins/
 title: "First Phase for openSUSE Conference Talks Begins"
+image: /assets/oSC19_logo_thumb-300x300.png
 categories:
 - Announcements
 - Build Service
@@ -27,7 +28,7 @@ tags:
 - tracks
 - workshops
 ---
-![]({{ site.baseurl }}/assets/oSC19_logo_thumb-300x300.png)openSUSE is pleased to announce the first phase for accepting talks for the [openSUSE Conference 2019](https://events.opensuse.org/conference/oSC19) (oSC19) has begun.
+openSUSE is pleased to announce the first phase for accepting talks for the [openSUSE Conference 2019](https://events.opensuse.org/conference/oSC19) (oSC19) has begun.
 
 A total of 80 talks were submitted during the call for papers, which began in late fall and ended Feb. 4. In total, there were 42 normal talks, two long workshops, four short workshops, 19 short talks and seven lighting talks submitted.
 

@@ -4,6 +4,7 @@ date: 2019-02-22 11:56:31+00:00
 layout: post
 link: https://news.opensuse.org/2019/02/22/leap-15-1-beta-pizza-party/
 title: "Leap 15.1 Beta Pizza Party"
+image: http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg
 categories:
 - Announcements
 - Distribution
@@ -25,7 +26,7 @@ tags:
 - testing
 - wiki
 ---
-[![Prosciutto, anchovy and onion pizza.](http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)
+[Prosciutto, anchovy and onion pizza.](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)
 
 
 #### Hunt for bugs & have a lot of fun!

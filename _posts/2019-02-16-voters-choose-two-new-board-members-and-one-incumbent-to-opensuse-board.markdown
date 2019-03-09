@@ -4,6 +4,7 @@ date: 2019-02-16 05:17:35+00:00
 layout: post
 link: https://news.opensuse.org/2019/02/16/voters-choose-two-new-board-members-and-one-incumbent-to-opensuse-board/
 title: "Voters Choose Two New Board Members and One Incumbent to openSUSE Board"
+image: /assets/Christian_Boltz.jpeg
 categories:
 - Announcements
 - Board
@@ -18,7 +19,7 @@ tags:
 - Election
 - openSUSE Board Elections
 ---
-![]({{ site.baseurl }}/assets/Christian_Boltz.jpeg) _**Christian Boltz aka cboltz, incumbent**_
+_**Christian Boltz aka cboltz, incumbent**_
 
 The results are in and the Voting [Members](https://en.opensuse.org/openSUSE:Members) have chosen incumbent **[Christian Boltz aka cboltz](https://news.opensuse.org/2019/01/21/2018-2019-opensuse-board-elections-meet-incumbent-christian-boltz/)**, new Board Member [**Marina Latini aka deneb_alpha**](https://news.opensuse.org/2019/01/26/2018-2019-opensuse-board-elections-meet-marina-latini/), and new Board Member [**Dr. Axel Braun aka DocB**](https://news.opensuse.org/2019/01/22/21530/) to fill the three vacant seats on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) for the next two years.
 

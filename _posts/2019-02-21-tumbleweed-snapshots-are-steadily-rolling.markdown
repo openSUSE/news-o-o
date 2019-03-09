@@ -4,6 +4,7 @@ date: 2019-02-21 09:16:24+00:00
 layout: post
 link: https://news.opensuse.org/2019/02/21/tumbleweed-snapshots-are-steadily-rolling/
 title: "Tumbleweed Snapshots Are Steadily Rolling"
+image: /assets/1yast.png
 categories:
 - Announcements
 - Kubic
@@ -38,7 +39,7 @@ tags:
 - xf86
 - yast
 ---
-![]({{ site.baseurl }}/assets/1yast.png)Four [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshot were released this week bringing updates for [Kerberos](https://web.mit.edu/kerberos/), [GNOME](https://www.gnome.org/), [KDE](https://www.kde.org/), [YaST](http://yast.opensuse.org/) and [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/).
+Four [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshot were released this week bringing updates for [Kerberos](https://web.mit.edu/kerberos/), [GNOME](https://www.gnome.org/), [KDE](https://www.kde.org/), [YaST](http://yast.opensuse.org/) and [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/).
 
 The latest snapshot of the week, [20190219](https://lists.opensuse.org/opensuse-factory/2019-02/msg00496.html), had more than a dozen packages updated. A new [Kerberos](https://web.mit.edu/kerberos/) database module using the [Lightning Memory-Mapped Database](https://en.wikipedia.org/wiki/Lightning_Memory-Mapped_Database) library (LMDB) has was added with the [krb5 1.17](https://web.mit.edu/kerberos/krb5-1.17/) package, which brought some major changes for the administration experience for the network authentication protocol [Kerberos](https://web.mit.edu/kerberos/). The permissions package update 20190212 removed several old entries and the kernel-space and user-space code package [tgt](http://stgt.sourceforge.net/) 1.0.74 fixed builds with the newer [glibc](https://www.gnu.org/s/libc/). A couple [xf86](https://www.x.org/) packages were updated. The 1.4.0 version of [xf86-video-chips](https://github.com/freedesktop/xorg-xf86-video-chips) was a bug fix release for [X.Org Server](https://en.wikipedia.org/wiki/X.Org_Server). There was an X Server crash bug with the version 1.3 affecting devices older than the [HiQVideo](https://www.eetimes.com/document.asp?doc_id=1210555) generation. The change log said the code may not compile against X Server 1.20 since it no longer supports 24-bit color. A few other [YaST](http://yast.opensuse.org/) packages were updated in the snapshot like yast2-installation 4.1.36, which had an update that saves the used repositories at the end of installation so as not to offer the driver packages again.
 

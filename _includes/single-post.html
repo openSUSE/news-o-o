@@ -1,7 +1,7 @@
 <div class="col-lg-6 col-12 p-3">
 	<a class="text-black" href="{{ post.url | prepend: site.baseurl }}">
 		<div class="card">
-			<div class="top-article bg-light d-flex border-bottom card-body" style="background-image: url('{{ post.image }}');">
+			<div class="top-article bg-light d-flex border-bottom card-body" style="background-image: url('{% if post.image contains 'http' %}{% else %}{{ site.baseurl }}{% endif %}{{ post.image }}');">
 				<h2 class="m-auto text-center ontop">{{ post.title }}</h2>
 			</div>
 			<div class="card-body">

@@ -4,6 +4,7 @@ date: 2019-03-01 08:41:24+00:00
 layout: post
 link: https://news.opensuse.org/2019/03/01/tumbleweed-snapshots-bring-new-mesa-php-python-setuptools/
 title: "Tumbleweed Snapshots Bring New Mesa, php, python-setuptools"
+image: /assets/release-is-coming-black-260x300.png
 categories:
 - Announcements
 - Kubic
@@ -40,9 +41,6 @@ tags:
 
 
 #### Snapshots Trending Stable
-
-
-![]({{ site.baseurl }}/assets/release-is-coming-black-260x300.png)
 
 There were three quality [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshot released this week bringing updates for [python-setuptools](https://pypi.org/project/setuptools/), [Mesa](https://www.mesa3d.org/), [php](http://www.php.net/), [Flatpak](https://flatpak.org/) and both [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Thunderbird.](https://www.thunderbird.net/)
 

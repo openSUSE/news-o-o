@@ -5,6 +5,7 @@ layout: post
 link: https://news.opensuse.org/2019/02/07/major-version-updates-of-bash-libvirt-openconnect-arrive-in-tumbleweed/
 title: "Major Version Updates of Bash, libvirt, OpenConnect Arrive in Tumbleweed\
   "
+image: /assets/Tumbleweed-black-green-300x127.png
 categories:
 - Announcements
 - Tumbleweed
@@ -46,7 +47,7 @@ tags:
 - Tumbleweed
 - Xen
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)Another three snapshots were released this week for [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) bringing updates for [ImageMagick](https://www.imagemagick.org/), [Mesa](https://www.mesa3d.org/), [Apache](https://www.apache.org/), [Ceph](https://ceph.com/), [Flatpak Builder](http://docs.flatpak.org/en/latest/flatpak-builder.html), [Python](https://www.python.org/) and more. Plus, new major versions of [Bash](https://www.gnu.org/software/bash/), [glusterfs](http://docs.gluster.org/), [libvirt ](https://libvirt.org/)and [openconnect](http://www.infradead.org/openconnect/) were updated this week.
+Another three snapshots were released this week for [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) bringing updates for [ImageMagick](https://www.imagemagick.org/), [Mesa](https://www.mesa3d.org/), [Apache](https://www.apache.org/), [Ceph](https://ceph.com/), [Flatpak Builder](http://docs.flatpak.org/en/latest/flatpak-builder.html), [Python](https://www.python.org/) and more. Plus, new major versions of [Bash](https://www.gnu.org/software/bash/), [glusterfs](http://docs.gluster.org/), [libvirt ](https://libvirt.org/)and [openconnect](http://www.infradead.org/openconnect/) were updated this week.
 
 The first snapshot of the week, [20190201](https://lists.opensuse.org/opensuse-factory/2019-02/msg00063.html), was a complete rebuild of the distribution and the snapshots released since have gradually improved in quality, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/).
 

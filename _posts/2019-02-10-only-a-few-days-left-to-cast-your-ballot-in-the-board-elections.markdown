@@ -5,6 +5,7 @@ layout: post
 link: https://news.opensuse.org/2019/02/10/only-a-few-days-left-to-cast-your-ballot-in-the-board-elections/
 title: "Only a Few Days Left to Cast Your Ballot in the Board Elections\
   "
+image: /assets/ahmad-simon.png
 categories:
 - Announcements
 - Board
@@ -19,6 +20,7 @@ tags:
 - openSUSE Board Elections
 ---
 
+**Ahmad Romadhon, left, with openSUSE Board Member Simon Lees at the openSUSE Asia Summit**
 
 # Cast Your Votes While You Can!
 
@@ -27,12 +29,6 @@ tags:
 
 ## _**Ballots Will Close This Friday for 2018-2019 openSUSE Board Elections**_
 
-
-
-
-
-
-({{ site.baseurl }}/assets/ahmad-simon.png) **Ahmad Romadhon, left, with openSUSE Board Member Simon Lees at the openSUSE Asia Summit**
 
 With only a few days left to go in the Board Elections, openSUSE enthusiast Ahmad Romadhon would like to urge all openSUSE Members who have not yet voted to cast their ballots before voting closes Friday, February 15, 2019 at 12h00 UTC.
 
@@ -52,7 +48,7 @@ You may cast your vote until Friday, February 15, 2019. You may also update your
 ## Not an Easy Choice, but it is Important to Choose Your Representatives
 
 
-({{ site.baseurl }}/assets/elections-poster-1a.png) **2018-2019 Election Poster contributed by Ahmad Romadhon**
+![]({{ site.baseurl }}/assets/elections-poster-1a.png) **2018-2019 Election Poster contributed by Ahmad Romadhon**
 
 In this year's Election, the voters are being asked to choose between a superb crop of seven quality Candidates with extensive credentials of Contributions to the openSUSE Project, and they can only select three of the seven, so it will be a difficult choice to make.
 

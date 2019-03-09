@@ -4,6 +4,7 @@ date: 2019-03-06 03:00:51+00:00
 layout: post
 link: https://news.opensuse.org/2019/03/06/bali-indonesia-selected-for-opensuse-asia-summit-2019/
 title: "Bali, Indonesia, Selected for openSUSE.Asia Summit 2019"
+image: /assets/bali-168x300.png
 categories:
 - Announcements
 - Conference
@@ -27,7 +28,7 @@ tags:
 - users
 - Yogyakarta
 ---
-![]({{ site.baseurl }}/assets/bali-168x300.png)For the second time, Indonesia was chosen to host the openSUSE.Asia Summit 2019 event. A similar event was held in Yogyakarta, Indonesia, in 2016 and was attended by hundreds of local [openSUSE](https://www.opensuse.org) lover as well as from other Asian countries. This year we are challenged to repeat the successful story of the openSUSE.Asia Summit on one of the most exotic islands in Indonesia, Bali.
+For the second time, Indonesia was chosen to host the openSUSE.Asia Summit 2019 event. A similar event was held in Yogyakarta, Indonesia, in 2016 and was attended by hundreds of local [openSUSE](https://www.opensuse.org) lover as well as from other Asian countries. This year we are challenged to repeat the successful story of the openSUSE.Asia Summit on one of the most exotic islands in Indonesia, Bali.
 
 openSUSE.Asia Summit is an event awaited by fans of openSUSE in Indonesia in particular, and activists of Free/Libre Open Source Software (FLOSS) in general. In this activity, experts, contributors, end users, and technology enthusiasts gather to share experiences about the development of openSUSE and other things related to FLOSS and have a lot of fun.
 

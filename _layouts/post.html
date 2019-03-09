@@ -14,7 +14,7 @@ layout: default
 		<h1 class="decorated-title">{{ page.title }}</h1>
 		<small class="text-center d-block text-muted pb-3">{{ page.author }}</small>
 		{% if page.image %}
-		<img class="rounded mx-auto d-block w-100 card" src="{{ page.image }}"/>
+		<img class="rounded mx-auto d-block card" src="{% if page.image contains 'http' %}{% else %}{{ site.baseurl }}{% endif %}{{ page.image }}"/>
 		{% endif %}
 	</div>
 	<div class="col-md-7 col-12 mx-auto text-justify">
