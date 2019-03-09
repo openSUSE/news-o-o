@@ -41,11 +41,17 @@ layout: default
 	<div class="col-md-7 col-12 mx-auto text-center">
 		<h5>Share this post:</h5>
 		<p class="h3">
-			<a class="twitter-link px-3 py-2" href="https://twitter.com/intent/tweet?counturl={{ page.url | prepend: site.baseurl }}&url={{ page.url | prepend: site.baseurl }}&via=openSUSE">
+			<a class="twitter-link px-3 py-2" href="https://twitter.com/intent/tweet?counturl={{ page.url | absolute_url | uri_escape }}&url={{ page.url | absolute_url | uri_escape }}&via=openSUSE">
 				<span class="typcn typcn-social-twitter"></span>
 			</a>
-			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | prepend: site.baseurl }}">
+			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | absolute_url | uri_escape }}">
 				<span class="typcn typcn-social-facebook"></span>
+			</a>
+			<a class="telegram-link px-3 py-2" href="https://telegram.me/share/url?url={{ page.url | absolute_url | uri_escape }}">
+				<span class="typcn typcn-plane"></span>
+			</a>
+			<a class="mail-link px-3 py-2" href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.url | absolute_url | uri_escape }}">
+				<span class="typcn typcn-mail"></span>
 			</a>
 		</p>
 	</div>

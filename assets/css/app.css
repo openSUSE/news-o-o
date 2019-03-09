@@ -83,6 +83,33 @@
   color: white;
 }
 
+.telegram-link {
+  background-color: white;
+  color: #179cde;
+}
+.telegram-link:hover {
+  background-color: #179cde;
+  color: white;
+}
+
+.fediverse-link {
+  background-color: white;
+  color: #2b90d9;
+}
+.fediverse-link:hover {
+  background-color: #2b90d9;
+  color: white;
+}
+
+.mail-link {
+  background-color: white;
+  color: black;
+}
+.mail-link:hover {
+  background-color: black;
+  color: white;
+}
+
 .top-article:after {
   position: absolute;
   content: "";
