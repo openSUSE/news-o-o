@@ -4,7 +4,7 @@ date: 2019-03-06 03:00:51+00:00
 layout: post
 link: https://news.opensuse.org/2019/03/06/bali-indonesia-selected-for-opensuse-asia-summit-2019/
 title: "Bali, Indonesia, Selected for openSUSE.Asia Summit 2019"
-image: /assets/bali-168x300.png
+image: /assets/bali.png
 categories:
 - Announcements
 - Conference

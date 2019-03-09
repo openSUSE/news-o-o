@@ -7,7 +7,7 @@
 			<div class="card-body">
 				<div class="font-weight-bold text-muted d-flex justify-content-between align-items-center">
 					<span>{{ post.author }}</span>
-					<span>{{ post.date | date: "%b %d, %Y" }}</span>
+					<span>{{ post.date | date: "%d. %b %Y" }}</span>
 				</div>
 				<div class="modal-open text-justify h-90px">
 					<p>{{ post.content | strip_html | truncate: 175 }}</p>

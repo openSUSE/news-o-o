@@ -10,11 +10,11 @@ layout: default
 </ol>
 <div class="container my-5 article">
 	<div class="article-header col-md-9 col-12 mx-auto py-3">
-		<small class="text-center d-block text-muted">{{ page.date | date: "%b %d, %Y" }}</small>
+		<small class="text-center d-block text-muted">{{ page.date | date: "%d. %b %Y" }}</small>
 		<h1 class="decorated-title">{{ page.title }}</h1>
 		<small class="text-center d-block text-muted pb-3">{{ page.author }}</small>
 		{% if page.image %}
-		<img class="rounded mx-auto d-block card" src="{% if page.image contains 'http' %}{% else %}{{ site.baseurl }}{% endif %}{{ page.image }}"/>
+		<img class="rounded mx-auto d-block h-carousel" src="{% if page.image contains 'http' %}{% else %}{{ site.baseurl }}{% endif %}{{ page.image }}"/>
 		{% endif %}
 	</div>
 	<div class="col-md-7 col-12 mx-auto text-justify">

@@ -10,6 +10,31 @@
   max-width: 100%;
 }
 
+.h-carousel {
+  height: 50vh;
+  object-fit: cover;
+}
+.blur {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+}
+
+.carousel-caption {
+  bottom: 0;
+  left: 0;
+  right:0;
+  border-radius: 0;
+  top: 0;
+  background-image: linear-gradient(to right, #173f4f 30%, transparent);
+  text-align: left;
+}
+.carousel-caption * {
+  max-width: 700px;
+}
+
 .decorated-title::before {
   content: "";
   border-top: 2px solid #73ba25;

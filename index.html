@@ -1,11 +1,15 @@
 ---
 layout: default
 ---
-<ol class="breadcrumb">
+
+<ol class="breadcrumb mb-0">
 	<li class="breadcrumb-item active"><span class="typcn typcn-news"></span> News</li>
 </ol>
-<div class="container">
-	<div class="col-12 col-lg-9 mx-auto">
+{% if paginator.page == 1 %}
+{% include post_carousel.html %}
+{% endif %}
+<div class="container my-3">
+	<div class="col-12 col-lg-9 mx-3 mx-auto">
 		<div class="row">
 			{% for post in paginator.posts %}
 			{% include single-post.html %}
