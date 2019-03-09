@@ -2,8 +2,8 @@
 layout: default
 ---
 <ol class="breadcrumb">
-	<li class="breadcrumb-item"><a href="/"><span class="typcn typcn-news"></span> News</a></li>
-	<li class="breadcrumb-item active text-truncate"><a href="/{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y" }}</a></li>
+	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/"><span class="typcn typcn-news"></span> News</a></li>
+	<li class="breadcrumb-item active text-truncate"><a href="{{ site.baseurl }}/{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y" }}</a></li>
 	<li class="breadcrumb-item active text-truncate">{{ page.date | date: "%B" }}</li>
 </ol>
 <div class="container">
