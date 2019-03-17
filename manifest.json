@@ -1,0 +1,3 @@
+---
+---
+{"name":"{{ site.title | escape }}","short_name":"{{ site.title | escape }}","description":"{{ site.description | escape }}","background_color":"#ffffff","theme_color":"#73ba25","start_url":".","scope":"/","display":"standalone","icons":[{"src":"{{ "/assets/favicons/favicon.png" | absolute_url }}","sizes":"196x196","type":"image/png"}]}
