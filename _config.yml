@@ -30,4 +30,4 @@ jekyll-archives:
     tag: cattag-archive
     category: cattag-archive
 
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]
