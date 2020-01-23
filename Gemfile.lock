@@ -64,11 +64,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler
   jekyll
   jekyll-archives
   jekyll-feed
   jekyll-paginate
 
 BUNDLED WITH
-   2.0.1
+   2.0.2
