@@ -1,9 +1,9 @@
 title: openSUSE News
 email: admin@opensuse.org
 description: >-
-  openSUSE News site providing newest news from openSUSE Project
-baseurl: "/news-o-o"
-url: "https://opensuse.github.io"
+  openSUSE News site providing newest news from the openSUSE Project
+baseurl: ""
+url: "https://news.opensuse.org"
 
 markdown: kramdown
 plugins:
