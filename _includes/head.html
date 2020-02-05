@@ -2,7 +2,6 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <script src="https://static.opensuse.org/chameleon/dist/js/chameleon.js" type="text/javascript" charset="utf-8"></script>
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />
 
@@ -46,6 +45,8 @@
   {% endif %}
 
   <meta name="theme-color" content="#73ba25" />
+
+  <script defer src="https://static.opensuse.org/chameleon/dist/js/chameleon.js" type="text/javascript" charset="utf-8"></script>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
 </head>
