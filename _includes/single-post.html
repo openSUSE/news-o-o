@@ -1,6 +1,6 @@
 <div class="col-lg-6 col-12 p-3">
-	<a class="text-black" href="{{ post.url | prepend: site.baseurl }}">
-		<div class="card">
+	<a class="text-black link_unstyled" href="{{ post.url | prepend: site.baseurl }}">
+		<div class="card h-100">
 			<div class="top-article bg-light d-flex border-bottom card-body" style="background-image: url('{% if post.image contains 'http' %}{% else %}{{ site.baseurl }}{% endif %}{{ post.image }}');">
 				<h2 class="m-auto text-center ontop">{{ post.title }}</h2>
 			</div>
@@ -9,7 +9,7 @@
 					<span>{{ post.author }}</span>
 					<span>{{ post.date | date: "%-d. %b %Y" }}</span>
 				</div>
-				<div class="modal-open text-justify h-90px">
+				<div class="modal-open text-justify h-96px">
 					<p>{{ post.content | strip_html | truncate: 175 }}</p>
 				</div>
 			</div>

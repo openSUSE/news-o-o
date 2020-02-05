@@ -10,8 +10,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
-paginate: 6
-paginate_path: '/page:num/'
+paginate: 10
+paginate_path: '/page/:num/'
 permalink: /:year/:month/:day/:title/
 
 jekyll-archives:

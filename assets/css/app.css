@@ -133,14 +133,18 @@
 }
 
 .top-article {
-  height: 200px;
   background-size: cover;
   position: relative;
   background-position: 50%;
+  height: 100%;
 }
 
-.h-90px {
-  height: 90px;
+.link_unstyled:hover {
+  text-decoration: none;
+}
+
+.h-96px {
+  height: 96px;
 }
 
 pre.highlight {

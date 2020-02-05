@@ -41,43 +41,10 @@ layout: default
 	<div class="col-md-7 col-12 mx-auto text-center">
 		<h5>Share this post:</h5>
 		<p class="h3">
-			<a class="twitter-link px-3 py-2" href="https://twitter.com/intent/tweet?counturl={{ page.url | absolute_url | uri_escape }}&url={{ page.url | absolute_url | uri_escape }}&via=openSUSE">
-				<span class="typcn typcn-social-twitter"></span>
-			</a>
-			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | absolute_url | uri_escape }}">
-				<span class="typcn typcn-social-facebook"></span>
-			</a>
-			<a class="telegram-link px-3 py-2" href="https://telegram.me/share/url?url={{ page.url | absolute_url | uri_escape }}">
-				<span class="typcn typcn-plane"></span>
-			</a>
-			<a class="mail-link px-3 py-2" href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.url | absolute_url | uri_escape }}">
-				<span class="typcn typcn-mail"></span>
-			</a>
+			<a class="twitter-link px-3 py-2" href="https://twitter.com/intent/tweet?counturl={{ page.url | absolute_url | uri_escape }}&url={{ page.url | absolute_url | uri_escape }}&via=openSUSE"><span class="typcn typcn-social-twitter"></span></a>
+			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | absolute_url | uri_escape }}"><span class="typcn typcn-social-facebook"></span></a>
+			<a class="telegram-link px-3 py-2" href="https://telegram.me/share/url?url={{ page.url | absolute_url | uri_escape }}"><span class="typcn typcn-plane"></span></a>
+			<a class="mail-link px-3 py-2" href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.url | absolute_url | uri_escape }}"><span class="typcn typcn-mail"></span></a>
 		</p>
-	</div>
-	<div class="col-md-9 col-12 mx-auto py-3">
-		<div class="row justify-content-between align-items-center p-3">
-			<div class="col-6 col-md-4">
-				{% if page.previous %}
-				<a href="{{ page.previous.url }}">
-				<div class="card card-body">
-					<h5 class="p-0">&laquo; Previous</h5>
-					<h6 class="text-truncate p-0">{{page.previous.title}}</h6>
-				</div>
-				</a>
-				{% endif %}
-			</div>
-			<div class="col-6 col-md-4 align-right">
-				{% if page.next %}
-				<a href="{{ page.next.url }}">
-				<div class="card card-body">
-					<h5 class="p-0">Next &raquo;</h5>
-					<h6 class="text-truncate p-0">{{page.next.title}}</h6>
-				</div>
-				</a>
-				{% endif %}
-			</div>
-		</div>
-	{% include footer-ads.html %}
 	</div>
 </div>

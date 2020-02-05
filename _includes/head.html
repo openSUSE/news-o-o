@@ -9,12 +9,8 @@
   <link rel="stylesheet" href="https://static.opensuse.org/chameleon/dist/css/chameleon.css" />
   <link rel="stylesheet" href="{{ "/assets/css/app.css" | absolute_url }}" />
 
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ "/assets/favicons/apple-touch-icon-152x152.png" | absolute_url }}" />
-  <meta name="application-name" content="{{ site.title | escape }}"/>
-  <meta name="msapplication-TileColor" content="#173f4f" />
-  <meta name="msapplication-TileImage" content="{{ "/assets/favicons/mstile-144x144.png" | absolute_url }}" />
-  <link rel='shortcut icon' type='image/x-icon' href='{{ "/assets/favicons/favicon.ico" | absolute_url }}' />
-  <link color="#73ba25" href="{{ "/assets/favicons/mask-icon.svg" | absolute_url }}" rel="mask-icon">
+  <link rel='shortcut icon' type='image/x-icon' href='https://static.opensuse.org/chameleon/dist/images/favicons/favicon.ico' />
+  <link color="#73ba25" href="https://static.opensuse.org/chameleon/dist/images/favicons/mask-icon.svg" rel="mask-icon">
   <link href="{{ "/manifest.json" | absolute_url }}" rel="manifest">
 
   <meta name="mobile-web-app-capable" content="yes" />
@@ -31,9 +27,9 @@
   {% endfor %}
   {% endif %}
   {% if page.image %}
-  <meta property="og:image" content="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+  <meta property="og:image" content="{% if page.image contains '//' %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
   {% else %}
-  <meta property="og:image" content="{{ "/assets/favicons/favicon-128.png" | absolute_url }}" />
+  <meta property="og:image" content="https://static.opensuse.org/chameleon/dist/images/favicons/favicon.png" />
   {% endif %}
   <meta property="og:url" content="{{ page.path | replace:'index.html','' | absolute_url }}" />
 
@@ -44,9 +40,9 @@
   {% endif %}
   <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
   {% if page.image %}
-  <meta name="twitter:image" content="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.image contains '//' %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" />
   {% else %}
-  <meta name="twitter:image" content="{{ "/assets/favicons/favicon-128.png" | absolute_url }}" />
+  <meta name="twitter:image" content="https://static.opensuse.org/chameleon/dist/images/favicons/favicon.png" />
   {% endif %}
 
   <meta name="theme-color" content="#73ba25" />
