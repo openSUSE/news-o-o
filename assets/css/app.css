@@ -66,22 +66,6 @@
   background-color: #3A589E;
   color: white;
 }
-.google-plus-link {
-  background-color: white;
-  color: #DF4B37;
-}
-.google-plus-link:hover {
-  background-color: #DF4B37;
-  color: white;
-}
-.rss-link {
-  background-color: white;
-  color: #FF6B00;
-}
-.rss-link:hover {
-  background-color: #FF6B00;
-  color: white;
-}
 
 .telegram-link {
   background-color: white;
@@ -89,15 +73,6 @@
 }
 .telegram-link:hover {
   background-color: #179cde;
-  color: white;
-}
-
-.fediverse-link {
-  background-color: white;
-  color: #2b90d9;
-}
-.fediverse-link:hover {
-  background-color: #2b90d9;
   color: white;
 }
 

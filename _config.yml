@@ -4,6 +4,7 @@ description: >-
   openSUSE News site providing newest news from the openSUSE Project
 baseurl: ""
 url: "https://news.opensuse.org"
+sourcecode: "https://github.com/openSUSE/news-o-o"
 
 markdown: kramdown
 plugins:
