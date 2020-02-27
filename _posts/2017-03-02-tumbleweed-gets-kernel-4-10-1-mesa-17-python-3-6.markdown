@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-03-02 07:36:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/03/02/tumbleweed-gets-kernel-4-10-1-mesa-17-python-3-6/
-title: "Tumbleweed Gets Kernel 4.10.1, Mesa 17, Python 3.6"
+slug: tumbleweed-gets-kernel-4-10-1-mesa-17-python-3-6
+title: Tumbleweed Gets Kernel 4.10.1, Mesa 17, Python 3.6
+wordpress_id: 20353
 categories:
 - Hack Week
 - Tumbleweed
@@ -24,7 +26,8 @@ tags:
 - unbound
 - zypper
 ---
-![]({{ site.baseurl }}/assets/hackweek-logo-light-23bdd7fcc1d3463dcdfe50670ebb017990e5ff0f47e9dce8b3bbd59bf18f0b13-300x159.png)The joy and experimentation of [Hack Week](https://hackweek.suse.com) didn’t keep [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) from continuing to roll.
+
+![](/wp-content/uploads/2017/03/hackweek-logo-light-23bdd7fcc1d3463dcdfe50670ebb017990e5ff0f47e9dce8b3bbd59bf18f0b13.png)The joy and experimentation of [Hack Week](https://hackweek.suse.com) didn’t keep [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) from continuing to roll.
 
 Since the last news article on Tumbleweed two weeks ago, there have been eight snapshots featuring new software packages.
 
@@ -38,4 +41,4 @@ In snapshots [20170226](https://lists.opensuse.org/opensuse-factory/2017-02/msg0
 
 The Tumbleweed [Weekly Review](https://lists.opensuse.org/opensuse-factory/2017-02/msg00611.html) on the [openSUSE Factory Mailing List](https://lists.opensuse.org/opensuse-factory/) rounded up the previous week’s snapshots. The review post by Dominique Leuenberger highlighted snapshots [20170224](https://lists.opensuse.org/opensuse-factory/2017-02/msg00597.html), [20170219](https://lists.opensuse.org/opensuse-factory/2017-02/msg00509.html), [20170218](https://lists.opensuse.org/opensuse-factory/2017-02/msg00497.html) and [20170216](https://lists.opensuse.org/opensuse-factory/2017-02/msg00484.html). The key packages Leuenberger listed for that week were Python 3.6, Mesa 17.0, KDE Plasma 5.9.2, Libreoffice 5.3.0.3 and Linux Kernels 4.9.10 and 4.9.11.
 
-Another package worth mentioning from that week is [mtd-utils](http://www.linux-mtd.infradead.org/), which is a generic Linux subsystem for memory devices; its 2.0 version released in Tumbleweed is the first major version release of [mtd-utils](http://www.linux-mtd.infradead.org/) in more than a decade.		
+Another package worth mentioning from that week is [mtd-utils](http://www.linux-mtd.infradead.org/), which is a generic Linux subsystem for memory devices; its 2.0 version released in Tumbleweed is the first major version release of [mtd-utils](http://www.linux-mtd.infradead.org/) in more than a decade.

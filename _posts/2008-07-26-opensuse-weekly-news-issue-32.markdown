@@ -1,20 +1,21 @@
 ---
 author: News Team
+comments: true
 date: 2008-07-26 08:33:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/26/opensuse-weekly-news-issue-32/
-title: "openSUSE Weekly News, Issue 32"
+slug: opensuse-weekly-news-issue-32
+title: openSUSE Weekly News, Issue 32
+wordpress_id: 962
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue **#32** of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/32)!
 
-In this week™s issue:
+In this weekâ€™s issue:
 
 
 
@@ -36,4 +37,4 @@ In this week™s issue:
 
   * Andrew Wafaa: Lug Radio Live 2008 Report
 
-		
+

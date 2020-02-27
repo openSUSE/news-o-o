@@ -1,29 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2007-10-12 15:54:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/12/people-of-opensuse-martin-lasarsch/
-title: "People of openSUSE: Martin Lasarsch"
+slug: people-of-opensuse-martin-lasarsch
+title: 'People of openSUSE: Martin Lasarsch'
+wordpress_id: 446
 categories:
 - People of openSUSE
 ---
 
-
 Martin Lasarsch, the well-known openSUSE evangelist, gave us the great opportunity to let us know a little bit more about himself. You can't miss this 'People of openSUSE' interview!
 
-![]({{ site.baseurl }}/assets/martin_lasarsch.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|localhorst when I'm at home, notlocalhorst at work|
-|**Homepage:**|[http://hitme.resetbutton.de](http://hitme.resetbutton.de)
-[http://en.opensuse.org/User:Mlasars](http://en.opensuse.org/User:Mlasars)|
-|**Blog:**|Nah, I'm not a blogger ... you can find some openSUSE related stuff from me on Novell coolblogs and news.opensuse.org (both aggregated on planetsuse).|
-|||
-|**Favorite season:**|I don't like summer, the other seasons are ok.|
-|**Motto:**|no birds - no applause (Mars Attacks). Well not a motto, but thats what I had for a long time in my signature.|
-|||
+<!-- more -->
+<table border="0" >
+<tr >
 
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](//news.opensuse.org/wp-content/uploads/2007/10/martin_lasarsch.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >localhorst when I'm at home, notlocalhorst at work
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://hitme.resetbutton.de](http://hitme.resetbutton.de)
+[http://en.opensuse.org/User:Mlasars](http://en.opensuse.org/User:Mlasars)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >Nah, I'm not a blogger ... you can find some openSUSE related stuff from me on Novell coolblogs and news.opensuse.org (both aggregated on planetsuse).
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >I don't like summer, the other seasons are ok.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >no birds - no applause (Mars Attacks). Well not a motto, but thats what I had for a long time in my signature.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -220,7 +309,7 @@ Hardware design, than I would make a ultra fast flashdisk. All components are av
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Bad. I would read some books, I have so many to finish. I have also some plans to build something, this would be a good opportunity to start.
@@ -290,7 +379,7 @@ Don't take care when/if you have to sleep, with a huge supply of food and cigare
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Probably I would by a House in a suburb or in the middle of nowhere. But only if I can work in a Homeoffice and I have broadband internet.
@@ -300,7 +389,7 @@ Probably I would by a House in a suburb or in the middle of nowhere. But only if
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 I guess in the Future, space traveling. It would be also interesting to see how some historical events really happened, like JFK, the moonlanding and other conspiracy stuff
@@ -310,7 +399,7 @@ I guess in the Future, space traveling. It would be also interesting to see how 
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Usually no. All my systems are protected, only if it's really heavy I will turn off everthing. Yes, I remember the times where a lightning killed the whole gear of some friends.
@@ -366,3 +455,5 @@ the "famous person" question.
 Q: How much time do you needed for this interview?
 A: Way to to much ... :-)
 
+
+[writemyessay4me.org](https://writemyessay4me.org/)

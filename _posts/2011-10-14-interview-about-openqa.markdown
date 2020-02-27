@@ -1,16 +1,19 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-10-14 14:00:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/14/interview-about-openqa/
-title: "Interview about openQA"
+slug: interview-about-openqa
+title: Interview about openQA
+wordpress_id: 11145
 categories:
 - Infrastructure
 ---
+
 [![Bernhard on automated testing](http://farm2.static.flickr.com/1178/5105172195_1f03052d1a_m.jpg)](http://www.flickr.com/photos/andreasjaeger/5105172195/)
 
-Last week, [openQA 1.0](https://news.opensuse.org"") was released. We did an interview with Bernhard Wiedeman, the main developer of openQA.
+Last week, [openQA 1.0](http://news.opensuse.org"") was released. We did an interview with Bernhard Wiedeman, the main developer of openQA.
 <!-- more -->
 
 
@@ -34,7 +37,7 @@ I want it to significantly improve the overall quality of free software in gener
 
 
 
-[![]({{ site.baseurl }}/assets/factory-tested1.png)](https://news.opensuse.org/2011/10/14/interview-about-openqa/factory-tested-2/)
+[![](/wp-content/uploads/2011/10/factory-tested1.png)](http://news.opensuse.org/2011/10/14/interview-about-openqa/factory-tested-2/)
 
 
 
@@ -48,7 +51,7 @@ The results sometimes show problems that are not bugs in the tested software, bu
 
 
 
-There are still things missing. e.g. accumulating results (Jenkins does this nicely) and notifying interested parties “ this way I would not have to write as many IRC messages or bug reports “ but I am hesitant to re-invent the wheel there. Also many things that could easily be tested are still not included.
+There are still things missing. e.g. accumulating results (Jenkins does this nicely) and notifying interested parties â€“ this way I would not have to write as many IRC messages or bug reports â€“ but I am hesitant to re-invent the wheel there. Also many things that could easily be tested are still not included.
 
 
 
@@ -75,7 +78,7 @@ There were never big breakages or such. Also, openQA is not like OBS (yet) where
 
 
 
-I have moved from Berlin to Nuremberg which means that I can not be with my family as often as I would like. For some reason this also caused a tenfold increase in my Pizza&Döner consumption which worries me a bit. I miss cooking potato soup, omelette and a lot of other tasty things.
+I have moved from Berlin to Nuremberg which means that I can not be with my family as often as I would like. For some reason this also caused a tenfold increase in my Pizza&DÃ¶ner consumption which worries me a bit. I miss cooking potato soup, omelette and a lot of other tasty things.
 
 
 
@@ -84,7 +87,7 @@ On the positive side I work with people who have written the tools (like screen 
 
 
 
-(https://news.opensuse.org/2011/10/14/interview-about-openqa/openqa-test-details/)
+[caption id="attachment_11250" align="alignright" width="300" caption="openQA test details"][![openQA test details](/wp-content/uploads/2011/10/openQA-test-details.png)](http://news.opensuse.org/2011/10/14/interview-about-openqa/openqa-test-details/)[/caption]
 
 
 
@@ -125,7 +128,7 @@ Then there are people proposing useful additions and there are more people looki
 
 
 
-To finish it off, let's go a bit more philosophical and ask: Why? More specific, what do you want to achieve in life?
+To finish it off, let's go a bit more philosophical and ask: â€œWhy?â€ More specific, what do you want to achieve in life?
 
 
 
@@ -138,6 +141,3 @@ This is something, I asked myself when I was 21 and after a many months of chatt
 
 
 **Thanks for the interview!**
-
-
-		

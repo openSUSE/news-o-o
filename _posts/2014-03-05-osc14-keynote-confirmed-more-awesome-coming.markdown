@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2014-03-05 17:10:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/03/05/osc14-keynote-confirmed-more-awesome-coming/
-title: "oSC14 Keynote Confirmed, More Awesome Coming"
+slug: osc14-keynote-confirmed-more-awesome-coming
+title: oSC14 Keynote Confirmed, More Awesome Coming
+wordpress_id: 17681
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-[![oSC14 Logo_Final]({{ site.baseurl }}/assets/Logo_Final-255x300.png)]({{ site.baseurl }}/assets/Logo_Final.png)We are very pleased to announce [Michael Meeks](https://people.gnome.org/~michael/) as our keynote speaker for the Saturday opening session at oSC14, held in Dubrovnik April 25th - 28th, 2014. Besides Michael Meeks, the openSUSE board will talk, opening the event on Friday and over 20 of the 60 currently submitted talks have already been accepted. Last but not least, we'd like to tell you that the deadline for the Call for Papers has been extended until the end of this month.<!-- more -->
+
+[![oSC14 Logo_Final](//news.opensuse.org/wp-content/uploads/2014/01/Logo_Final.png)](//news.opensuse.org/wp-content/uploads/2014/01/Logo_Final.png)We are very pleased to announce [Michael Meeks](https://people.gnome.org/~michael/) as our keynote speaker for the Saturday opening session at oSC14, held in Dubrovnik April 25th - 28th, 2014. Besides Michael Meeks, the openSUSE board will talk, opening the event on Friday and over 20 of the 60 currently submitted talks have already been accepted. Last but not least, we'd like to tell you that the deadline for the Call for Papers has been extended until the end of this month.<!-- more -->
 
 
 ## Deadline extended!
@@ -25,8 +28,8 @@ If you have not yet submitted your talk proposal we encourage you to do so. The 
 ### What kind of proposals?
 
 
-[![click to submit a talk!]({{ site.baseurl }}/assets/submit_paper.png)](https://conference.opensuse.org/osem/conference/osc14/proposal)
-You're wondering what kind of sessions we are looking for, and from whom? This year's theme is **The Strength to Change**, as with all that's going on in Free Software, change is a constant for us. Session proposals that connect in a meaningful way with change and strength would be appreciated!
+[![click to submit a talk!](/wp-content/uploads/2014/01/submit_paper.png)](https://conference.opensuse.org/osem/conference/osc14/proposal)
+You're wondering what kind of sessions we are looking for, and from whom? This year's theme is â€œ**The Strength to Change**â€œ, as with all that's going on in Free Software, change is a constant for us. Session proposals that connect in a meaningful way with change and strength would be appreciated!
 
 As explained in the [CfP announcement](https://news.opensuse.org/2014/01/29/osc14-cfp-and-registration-open/), we have four main themes this year:
 
@@ -53,14 +56,14 @@ You can submit proposals [on this page](https://conference.opensuse.org/osem/con
 ## Michael Meeks Keynoting
 
 
-[![400px-Michael_Meeks]({{ site.baseurl }}/assets/400px-Michael_Meeks-200x300.jpg)]({{ site.baseurl }}/assets/400px-Michael_Meeks.jpg)Michael Meeks has been contributing to open source software for a long time, primarily focusing on GNOME, OpenOffice and now LibreOffice. Michael was one of the leaders in the formation of the Document Foundation and serves on the Engineering Steering Committee of the foundation. The Document Foundation's primary purpose is to further the development of LibreOffice, the premiere open source office suite.
+[![400px-Michael_Meeks](/wp-content/uploads/2014/03/400px-Michael_Meeks.jpg)](/wp-content/uploads/2014/03/400px-Michael_Meeks.jpg)Michael Meeks has been contributing to open source software for a long time, primarily focusing on GNOME, OpenOffice and now LibreOffice. Michael was one of the leaders in the formation of the Document Foundation and serves on the Engineering Steering Committee of the foundation. The Document Foundation's primary purpose is to further the development of LibreOffice, the premiere open source office suite.
 
 Since the fork of LibreOffice from the OpenOffice code base and the formation of the Document Foundation the LibreOffice code base has made great strides with the addition of many features and many bugs being fixed. This is in no small part attributable to Michael's dedication and leadership. The countless improvements in LibreOffice have benefited Linux distributions by allowing us to offer a first grade office suite that is second to none as part of our effort.
 
 In a recent transition Michael moved from SUSE to Collabora where Michael has the opportunity to continue to focus his attention on the development of LibreOffice and the exploration of new ideas for LibreOffice, such as a mobile version or a Cloud based version. Michael will gives us an overview on how the Document Foundation and LibreOffice were able to emerge from the corporate control of OpenOffice to become the great and vibrant community that has formed around the code base today. We will also here some anecdotes about dealing with such a large code base from a technical perspective.
 
 _We are very excited to have Michael speak at oSC14._
-![Jan & kittens]({{ site.baseurl }}/assets/Jan-300x225.jpg)
+![Jan & kittens](/wp-content/uploads/2012/10/Jan.jpg)
 
 
 ## First talks accepted and scheduled!
@@ -76,4 +79,4 @@ The influence of the Cloud architecture on software development has not passed u
 ## Come and join the fun!
 
 
-_written by Robert Schweikert, CfP committee_		
+_written by Robert Schweikert, CfP committee_

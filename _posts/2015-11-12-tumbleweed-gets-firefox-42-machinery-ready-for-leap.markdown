@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-11-12 14:01:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/11/12/tumbleweed-gets-firefox-42-machinery-ready-for-leap/
-title: "Tumbleweed gets Firefox 42, Machinery ready for Leap"
+slug: tumbleweed-gets-firefox-42-machinery-ready-for-leap
+title: Tumbleweed gets Firefox 42, Machinery ready for Leap
+wordpress_id: 19631
 categories:
 - Distribution
 ---
-[![Tumbleweed-black-green]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)]({{ site.baseurl }}/assets/Tumbleweed-black-green.png)**Tumbleweed**
+
+[![Tumbleweed-black-green](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)**Tumbleweed**
 
 Two releases snapshots in Tumbleweed brought a new Linux kernel and a web browser update for Mozilla.
 
@@ -26,4 +29,4 @@ For those using [openSUSE Leap 42.1](https://en.opensuse.org/Portal:42.1) and sy
 
 Being able to use Machinery with openSUSE is just one of several reasons for developers, sysadmins and desktop users to use openSUSE's two distributions Tumbleweed and openSUSE Leap 42.1.
 
-For more information one how to use Machinery, visit the [github](https://github.com/SUSE/machinery/wiki/Quick-Start-Guide) page.		
+For more information one how to use Machinery, visit the [github](https://github.com/SUSE/machinery/wiki/Quick-Start-Guide) page.

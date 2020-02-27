@@ -1,15 +1,18 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-02-01 19:25:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/02/01/download-nowits-here-opensuse-11-3-milestone-1/
-title: "Its here! openSUSE 11.3 Milestone 1"
+slug: download-nowits-here-opensuse-11-3-milestone-1
+title: Its here! openSUSE 11.3 Milestone 1
+wordpress_id: 2757
 categories:
 - Announcements
 - Distribution
 ---
-[![Download Now!]({{ site.baseurl }}/assets/31.png)](http://software.opensuse.org/developer)Its here! The first openSUSE 11.3 Milestone. This is the first step toward the next openSUSE release. The most important goal of this first milestone is to test the build interactions between newly added features in openSUSE Factory, also known as "get the snapshot to build". It is in no way feature complete or ready for daily usage. There is no code freeze for any component yet, so many major changes are still to come.
+
+[![Download Now!](/wp-content/uploads/2010/02/31.png)](http://software.opensuse.org/developer)Its here! The first openSUSE 11.3 Milestone. This is the first step toward the next openSUSE release. The most important goal of this first milestone is to test the build interactions between newly added features in openSUSE Factory, also known as "get the snapshot to build". It is in no way feature complete or ready for daily usage. There is no code freeze for any component yet, so many major changes are still to come.
 
 This 11.3 Milestone build will give you a first glimpse of the direction we are pushing the distribution. Read more to learn about the major changes that happened since the release of openSUSE 11.2.
 
@@ -26,7 +29,7 @@ KDE was updated to the first release candidate of the new 4.4 Desktop. The Nepom
 [LXDE](http://en.opensuse.org/Lxde) - the "Lightweight X11 Desktop Environment" is a new player in the openSUSE desktop selection. It is an extremely fast-performing and energy-saving desktop environment. It comes with a beautiful interface, multi-language support, standard keyboard short cuts and additional features like tabbed file browsing. LXDE uses less CPU and less RAM than other environments. It is especially designed for computers with low hardware specifications.
 
 
-[![Desktops]({{ site.baseurl }}/assets/desktops1.png)]({{ site.baseurl }}/assets/desktops1.png)
+[![Desktops](/wp-content/uploads/2010/02/desktops1.png)](/wp-content/uploads/2010/02/desktops1.png)
 
 
 
@@ -35,7 +38,7 @@ KDE was updated to the first release candidate of the new 4.4 Desktop. The Nepom
 ## Desktop Apps
 
 
-The world™s best browser [Firefox](http://getfirefox.com) got updated to the latest version 3.6.0. It supports a new type of theme called [Personas](http://www.getpersonas.com/), which allow users to change Firefox's appearance with a single click.[![Firefox Personas]({{ site.baseurl }}/assets/firefox_personas-300x218.png)]({{ site.baseurl }}/assets/firefox_personas.png) The protection from out-of-date plugins to keep users safer as they browse got improved and the mozilla developers brought JavaScript performance, the overall browser responsiveness, and startup time up to speed. [Thunderbird](http://getthunderbird.com) the award-winning email application from Mozilla was updated to version 3.0.1 which includes a lot of stability and security fixes.
+The worldâ€™s best browser [Firefox](http://getfirefox.com) got updated to the latest version 3.6.0. It supports a new type of theme called [Personas](http://www.getpersonas.com/), which allow users to change Firefox's appearance with a single click.[![Firefox Personas](/wp-content/uploads/2010/02/firefox_personas.png)](/wp-content/uploads/2010/02/firefox_personas.png) The protection from out-of-date plugins to keep users safer as they browse got improved and the mozilla developers brought JavaScript performance, the overall browser responsiveness, and startup time up to speed. [Thunderbird](http://getthunderbird.com) the award-winning email application from Mozilla was updated to version 3.0.1 which includes a lot of stability and security fixes.
 
 [OpenOffice](http://www.openoffice.org/), the free and open productivity suite, in the version 3.2-beta4 (3.1.99.4) is included. OpenOffice 3.2 will bring faster start up times, make further strides in compliance with ODF 1.2 and improve support for other common office document types.
 
@@ -51,7 +54,7 @@ Other updated Desktop Apps include abiword the multiplatform word processor (2.8
 
 
 This milestone is based on the kernel 2.6.32. The GNU C Library, version 2.11 brings many new interfaces and optimized string functions for different platforms.  Also in this milestone is Udev version 150 which includes many bugfixes, removed  support for the deprecated non-libata IDE devices and introduced a new "input_id" prober for input devices such as keyboard/mice, touchpads or tablets.
-[![Zypper showing the weak requires of the git package]({{ site.baseurl }}/assets/zypper1-300x193.png)]({{ site.baseurl }}/assets/zypper1.png)
+[![Zypper showing the weak requires of the git package](/wp-content/uploads/2010/02/zypper1.png)](/wp-content/uploads/2010/02/zypper1.png)
 
 Our command line package manager zypper bumped its version to 1.2.15. This includes better error handling for media exceptions, for instance the possibility to eject a non-accessible drive or turn of an SSL CA check. A download option was added to in, up, dup, ve, and patch commands to set the package download mode to ad-hoc. Available download modes: only, in-advance, in-heaps, as-needed. And finally weakly required packages (recommended/suggested) are now shown in the summary.
 
@@ -72,7 +75,7 @@ QT, version 4.6.0, introduces an animation framework that helps to build animate
 The courier IMAP server stack received several updates including improvements for support of Mozilla Thunderbird clients. Nagios 3.2.0 includes several bug fixes, including fixes for service and host check scheduling and availability reporting. The network management protocol daemon, net-snmp (5.5) includes various new IPv6 features and the ability to "alias" transports to a more simple name.   Samba 3.4.5, the latest stable release of Samba 3.4, which is a bugfix release is also included.
 
 
-## Development Tools[![CMake]({{ site.baseurl }}/assets/cmake-300x214.png)]({{ site.baseurl }}/assets/cmake.png)
+## Development Tools[![CMake](/wp-content/uploads/2010/02/cmake.png)](/wp-content/uploads/2010/02/cmake.png)
 
 
 For the Hackers we include several updates too. The GNU Debugger (7.0) now has python scripting support. Handles reverse debugging, process record and replay and multi-architecture debugging. CMake version 2.8.0, the cross-platform open-source build system, is included with the new QT gui, support for Visual Studio 2010 and significant improvements for the Eclipse project generator. The openSuSE KIWI image system was updated to 3.95 with countless bugfixes, some new features around LVM and other storage topics.
@@ -109,7 +112,7 @@ As this is a milestone release, 11.3 Milestone 1 does contain bugs that we know 
   * Nepomuk isnÂ´t running [Bug #575149](https://bugzilla.novell.com/show_bug.cgi?id=575149)
 
 
-You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, we™ll need your help finding, reporting, and fixing those hidden bugs.
+You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, weâ€™ll need your help finding, reporting, and fixing those hidden bugs.
 
 To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensuse.org/Testing) on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) | [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](http://lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
@@ -119,7 +122,7 @@ To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensu
 
 
 
-[![Download Now!]({{ site.baseurl }}/assets/milestone1_113.png)](http://software.opensuse.org/developer)
+[![Download Now!](/wp-content/uploads/2010/02/milestone1_113.png)](http://software.opensuse.org/developer)
 
 
 
@@ -133,4 +136,4 @@ What are you waiting for? Grab the milestone release from [software.opensuse.org
 # Outlook
 
 
-There is a detailed timeline with all the important dates around the development of openSUSE 11.3. It will help you schedule your life around 11.3! You can access it at Stephan Kulows (the openSUSE Project Manager) homepage at [http://www.suse.de/~coolo/opensuse_11.3/](http://www.suse.de/%7Ecoolo/opensuse_11.3/)		
+There is a detailed timeline with all the important dates around the development of openSUSE 11.3. It will help you schedule your life around 11.3! You can access it at Stephan Kulows (the openSUSE Project Manager) homepage at [http://www.suse.de/~coolo/opensuse_11.3/](http://www.suse.de/%7Ecoolo/opensuse_11.3/)

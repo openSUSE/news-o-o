@@ -1,14 +1,17 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2014-05-26 16:22:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/05/26/opensuse-welcomes-its-gsoc-2014-students/
-title: "openSUSE Welcomes its GSoC 2014 students"
+slug: opensuse-welcomes-its-gsoc-2014-students
+title: openSUSE Welcomes its GSoC 2014 students
+wordpress_id: 18038
 categories:
 - Announcements
 - Google Summer of Code
 ---
+
 ![](https://1-ps.googleusercontent.com/sx/s.google-melange.appspot.com/www.google-melange.com/soc/content/2-1-20140523/images/gsoc/logo/920x156xbanner-gsoc2014.png.pagespeed.ic.gdr4t3Igca.png)
 
 openSUSE welcomes Google Summer of Code 2014 participants. Thanks to Google, openSUSE has an excellent number of slots and an equally excellent number of mentors and students for Google Summer of Code 2014. Throughuout the summer, students participanting in this program will code for openSUSE and its sister organizations ownCloud, MATE and Zorp and help them move forward. The best part of GSoC is that most of the code written by students will go upstream and will benefit openSUSE in general also. Along with this, we have an equally good range of projects that will improve the existing openSUSE architecture.
@@ -62,4 +65,4 @@ The list of successful students are :
 
 In the following weeks we will talk a lot more about these projects and get to know these students well.
 
-Lets brew some code now.		
+Lets brew some code now.

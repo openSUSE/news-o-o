@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-01-13 12:22:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/01/13/opensuse-weekly-news-issue-54/
-title: "openSUSE Weekly News, Issue 54"
+slug: opensuse-weekly-news-issue-54
+title: openSUSE Weekly News, Issue 54
+wordpress_id: 1147
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #54 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/54)!  
-In this week™s issue:
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #54 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/54)!  
+In this weekâ€™s issue:
 
 
   * Bugzilla Update to 3.2 
@@ -35,4 +38,4 @@ The openSUSE Weekly News is available in:
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/54).
 
 New: Short version in [Hungarian](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/54) .
- Isc2 cap braindumps pdf and [https://topadmissionessay.com](https://topadmissionessay.com/) vce learning methods offered by us, details can be obtained from this source		
+ Isc2 cap braindumps pdf and [https://topadmissionessay.com](https://topadmissionessay.com/) vce learning methods offered by us, details can be obtained from this source

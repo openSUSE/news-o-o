@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-26 11:35:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/26/opensuse-weekly-news-issue-15/
-title: "openSUSE Weekly News, Issue 15"
+slug: opensuse-weekly-news-issue-15
+title: openSUSE Weekly News, Issue 15
+wordpress_id: 706
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue 15 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/15)!
 
@@ -35,4 +36,4 @@ In this week's issue:
 
 
 
-Huge thanks to Jan-Simon Möller and Stephan Binner for preparing the issue!		
+Huge thanks to Jan-Simon MÃ¶ller and Stephan Binner for preparing the issue!

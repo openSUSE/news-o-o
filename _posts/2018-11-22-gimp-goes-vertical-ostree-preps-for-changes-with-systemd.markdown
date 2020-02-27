@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-11-22 10:39:54+00:00
 layout: post
 link: https://news.opensuse.org/2018/11/22/gimp-goes-vertical-ostree-preps-for-changes-with-systemd/
-title: "Gimp Goes Vertical, OSTree Preps for Changes with systemd"
+slug: gimp-goes-vertical-ostree-preps-for-changes-with-systemd
+title: Gimp Goes Vertical, OSTree Preps for Changes with systemd
+wordpress_id: 21363
 categories:
 - Announcements
 - Kubic
@@ -51,7 +54,8 @@ tags:
 - xml
 - yast
 ---
-![]({{ site.baseurl }}/assets/yasttshirt-239x300.png)The release of [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots have been steadily coming out this month and some of the more recent packages in the snapshots are bringing about significant changes.
+
+![](/wp-content/uploads/2018/11/yasttshirt.png)The release of [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots have been steadily coming out this month and some of the more recent packages in the snapshots are bringing about significant changes.
 
 Three [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots have been released the past two weeks, which brought [KDE](https://www.kde.org/) users a newer version of [Applications 18.08.3](https://www.kde.org/announcements/announce-applications-18.08.3.php), [Frameworks 5.52.0](https://www.kde.org/announcements/kde-frameworks-5.52.0.php) and all users could update to the 4.19.2 [Linux Kernel](https://www.kernel.org/).
 
@@ -65,4 +69,4 @@ Text editor [Nano 3.2](https://www.nano-editor.org/download.php) has some [Pytho
 
 Tumbleweed release manager Dominique Leuenberger updated the community last week on snapshots from the beginning of the month all the way up to snapshot [20181112](https://lists.opensuse.org/opensuse-factory/2018-11/msg00081.html) in a [weekly review](https://lists.opensuse.org/opensuse-factory/2018-11/msg00140.html) email.
 
-Snapshot [20181112](https://lists.opensuse.org/opensuse-factory/2018-11/msg00081.html) was considered moderately stable according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Both [20181118](https://lists.opensuse.org/opensuse-factory/2018-11/msg00220.html) and [20181116](https://lists.opensuse.org/opensuse-factory/2018-11/msg00159.html) snapshots were considered stable with the latter trending respectively at 92 and 88.		
+Snapshot [20181112](https://lists.opensuse.org/opensuse-factory/2018-11/msg00081.html) was considered moderately stable according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Both [20181118](https://lists.opensuse.org/opensuse-factory/2018-11/msg00220.html) and [20181116](https://lists.opensuse.org/opensuse-factory/2018-11/msg00159.html) snapshots were considered stable with the latter trending respectively at 92 and 88.

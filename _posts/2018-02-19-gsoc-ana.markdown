@@ -1,10 +1,12 @@
 ---
 author: Ana María Martínez Gómez
+comments: true
 date: 2018-02-19 07:10:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/02/19/gsoc-ana/
-title: "University students, openSUSE participates in GSoC!"
+slug: gsoc-ana
+title: University students, openSUSE participates in GSoC!
+wordpress_id: 20685
 categories:
 - Google Summer of Code
 - Mentoring
@@ -22,6 +24,7 @@ tags:
 - trollolo
 - yast
 ---
+
 [openSUSE](https://www.opensuse.org/) participates again in [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. ![:sunny:](https://assets-cdn.github.com/images/icons/emoji/unicode/2600.png) With this article, I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage students to get involved in openSUSE development through GSoC.
 
 
@@ -44,7 +47,7 @@ First of all, you may wonder why you should want to get involved in open source 
 
 
 
-![]({{ site.baseurl }}/assets/gsoc-in-indonesia-cookies-300x225.jpg)![]({{ site.baseurl }}/assets/gsoc-in-indonesia-geeko-300x225.jpg)![]({{ site.baseurl }}/assets/gsoc-beer-300x225.jpg)
+![](/wp-content/uploads/2018/02/gsoc-in-indonesia-cookies.jpg)![](/wp-content/uploads/2018/02/gsoc-in-indonesia-geeko.jpg)![](/wp-content/uploads/2018/02/gsoc-beer.jpg)
 
 
 
@@ -77,7 +80,7 @@ The GSoC application period starts on March 12th, but you can already take a loo
 
 And if you have doubts do not hesitate to contact us. You can tweet us at [@opensusementors](https://twitter.com/@opensusementors), write in our mailing list ([opensuse-project@opensuse.org](mailto:opensuse-project@opensuse.org)) or directly contact the mentors. We are looking forward to hear from you, so don’t be shy! ![:green_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49a.png)
 
-![]({{ site.baseurl }}/assets/gsoc-in-indonesia-meetup.jpg)
+![](/wp-content/uploads/2018/02/gsoc-in-indonesia-meetup.jpg)
 
 
 ### 
@@ -96,4 +99,4 @@ My name is [Ana María Martínez](http://anamaria.martinezgomez.name) and I st
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/02/15/gsoc-in-indonesia.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 		
+This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/02/15/gsoc-in-indonesia.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 

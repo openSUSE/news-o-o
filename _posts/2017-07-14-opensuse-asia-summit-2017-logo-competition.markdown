@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-14 17:17:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/14/opensuse-asia-summit-2017-logo-competition/
-title: "openSUSE.Asia Summit 2017 Logo Competition"
+slug: opensuse-asia-summit-2017-logo-competition
+title: openSUSE.Asia Summit 2017 Logo Competition
+wordpress_id: 20488
 categories:
 - Announcements
 - Conference
@@ -16,7 +18,8 @@ tags:
 - opensuse
 - summit
 ---
-![]({{ site.baseurl }}/assets/logos-1024x228.png)Today, we will start a logo competition for openSUSE.Asia Summit 2017, which is going to be held in Tokyo, Japan. A logo is an essential material for the successful summit. As you have seen, the former openSUSE.Asia summits logos reflect the communities where the summit took place. Following tradition, we will have logo competition to collect great logos for this year’s summit.
+
+![](/wp-content/uploads/2017/07/logos.png)Today, we will start a logo competition for openSUSE.Asia Summit 2017, which is going to be held in Tokyo, Japan. A logo is an essential material for the successful summit. As you have seen, the former openSUSE.Asia summits logos reflect the communities where the summit took place. Following tradition, we will have logo competition to collect great logos for this year’s summit.
 
 The competition is open now and ends on August 14. The organizing team will send a “Geeko Mystery Box” as an appreciation for the best logo design.
 
@@ -98,4 +101,4 @@ Please submit your design to [opensuse-asia-17-contact@googlegroups.com](mailto:
 
 The openSUSE.Asia Summit Committee will decide on the logos, subject to the condition, that the logo meets all the requirements. The final decision will be made by the openSUSE.Asia Summit Committee and it may not be the highest scored design.
 
-We recommend the artist to use Inkscape, a powerful, free and open source vector graphics tool for all kinds of design.		
+We recommend the artist to use Inkscape, a powerful, free and open source vector graphics tool for all kinds of design.

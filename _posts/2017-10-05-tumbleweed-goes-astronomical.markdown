@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-10-05 10:38:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/10/05/tumbleweed-goes-astronomical/
-title: "Tumbleweed Goes Astronomical"
+slug: tumbleweed-goes-astronomical
+title: Tumbleweed Goes Astronomical
+wordpress_id: 20569
 categories:
 - Announcements
 - Tumbleweed
@@ -32,7 +34,8 @@ tags:
 - systemd
 - Tumbleweed
 ---
-![]({{ site.baseurl }}/assets/vector-chameleon-213x300.png)Astronomers using [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) received some major software enhancements in a snapshot this week and the four snapshots released also addressed some architecture issues and critical bug fixes.
+
+![](/wp-content/uploads/2016/09/vector-chameleon.png)Astronomers using [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) received some major software enhancements in a snapshot this week and the four snapshots released also addressed some architecture issues and critical bug fixes.
 
 The snapshots also brought new versions of the [Linux Kernel](https://www.kernel.org/), git, [GNU Compiler Collection](https://gcc.gnu.org/) and [mpg123](https://www.mpg123.de/).
 
@@ -42,4 +45,4 @@ Snapshot [20170929](https://lists.opensuse.org/opensuse-factory/2017-10/msg00012
 
 <!-- more -->The [20170928](https://lists.opensuse.org/opensuse-factory/2017-09/msg00400.html) snapshot updated the had an enormous amount of configuration updates for the new version of [aaa_base](https://lists.opensuse.org/opensuse-factory/2017-09/msg00400.html). The 14.335 version of the installation-images-Kubic package, which is related to the [Container as a Service Platform](https://www.suse.com/newsroom/post/2017/suse-caas-container-as-a-service-platform-makes-applications-easy-to-run-customers-more-agile/) based on [openSUSE](https://www.opensuse.org/) and [kubernetes](https://kubernetes.io/) or [Project Kubic](https://github.com/kubic-project), included all mouse drivers in its newest version. Astronomers using openSUSE Tumbleweed will be excited to see the updated package of [libindi](http://indilib.org/) 1.5.0, which added several new drivers and detectors like the  Digital Setting Circles drivers, which is like GPS for a telescope, and [Software-Defined-Radio](https://en.wikipedia.org/wiki/Software-defined_radio) drivers for [radio astronomy](https://en.wikipedia.org/wiki/Radio_astronomy). Both updates of the util-linux and util-linux-systemd packages to version 2.30.1 dropped an upstream patch.
 
-Beginning the week, snapshots [20170927](https://lists.opensuse.org/opensuse-factory/2017-09/msg00396.html) brought three new major versions . Spec-cleaner 1.0.0 fixed some code-block error detection and both yast2-apparmor and yast2-ruby-bindings packages updated to version 4.0.0 to avoid at version numbering problem. Other YaST package will soon jump to a YaST 4 version. The open source video editor for Linux [Pitivi](http://www.pitivi.org/) added many performance improvements with version 0.99 and [cups-filters](https://wiki.linuxfoundation.org/openprinting/cups-filters) 1.17.6 is now compatible with newer versions of [Poppler](https://poppler.freedesktop.org/) above version 0.58.		
+Beginning the week, snapshots [20170927](https://lists.opensuse.org/opensuse-factory/2017-09/msg00396.html) brought three new major versions . Spec-cleaner 1.0.0 fixed some code-block error detection and both yast2-apparmor and yast2-ruby-bindings packages updated to version 4.0.0 to avoid at version numbering problem. Other YaST package will soon jump to a YaST 4 version. The open source video editor for Linux [Pitivi](http://www.pitivi.org/) added many performance improvements with version 0.99 and [cups-filters](https://wiki.linuxfoundation.org/openprinting/cups-filters) 1.17.6 is now compatible with newer versions of [Poppler](https://poppler.freedesktop.org/) above version 0.58.

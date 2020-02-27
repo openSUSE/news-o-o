@@ -1,10 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2018-12-13 04:42:30+00:00
 layout: post
 link: https://news.opensuse.org/2018/12/13/2018-2019-elections-underway-with-calls-for-candidates-and-new-members/
-title: "2018-2019 Elections Underway with Calls for Candidates and New Members\
-  "
+slug: 2018-2019-elections-underway-with-calls-for-candidates-and-new-members
+title: 2018-2019 Elections Underway with Calls for Candidates and New Members
+wordpress_id: 21381
 categories:
 - Announcements
 - Board
@@ -12,6 +14,7 @@ categories:
 - Events
 - Project
 ---
+
 Earlier this week, on Tuesday, Dec. 11, 2018, the [Elections Committee](mailto:election-officials@opensuse.org) posted the Schedule for the [2018-2019 openSUSE Board Elections](https://en.opensuse.org/openSUSE:Board_election), along with the announcement of a Membership Drive and a call for nominations and applications for Candidates to fill three vacant seats on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board).
 
 The annual Board Elections are normally expected to run in November and December, with ballots cast and results published in time for the newly-elected Board Members to take their seats on the Board at the beginning of January. However, some additional work needed to be completed for this election, and the elections were delayed in part to accommodate the additional work.
@@ -26,4 +29,4 @@ To encourage more participation in the Project, the Elections Committee announce
 
 The Elections Committee would like to see the entire Community get behind this Membership Drive and participate in this Elections process.
 
-Links for Board Candidate Nominations, applications for Candidacy, and applications for Community Membership, along with links to eligibility, can be found on the official 2018-2019 openSUSE Board Elections page at [https://en.opensuse.org/openSUSE:Board_election](https://en.opensuse.org/openSUSE:Board_election)		
+Links for Board Candidate Nominations, applications for Candidacy, and applications for Community Membership, along with links to eligibility, can be found on the official 2018-2019 openSUSE Board Elections page at [https://en.opensuse.org/openSUSE:Board_election](https://en.opensuse.org/openSUSE:Board_election)

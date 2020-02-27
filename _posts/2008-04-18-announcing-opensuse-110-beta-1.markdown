@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-18 20:17:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/18/announcing-opensuse-110-beta-1/
-title: "Announcing openSUSE 11.0 Beta 1"
+slug: announcing-opensuse-110-beta-1
+title: Announcing openSUSE 11.0 Beta 1
+wordpress_id: 726
 categories:
 - Announcements
 - Distribution
@@ -15,6 +17,7 @@ tags:
 - opensuse
 - xfce
 ---
+
 The openSUSE team is proud to announce the first Beta release of openSUSE 11.0! There are many exciting enhancements and features in the new release. Among these is the incredibly fast package management (libzypp), KDE 3.5.9 and 4.0.3, GNOME 2.22.1, a beautiful new installer, live CDs and much more.
 
 
@@ -42,12 +45,12 @@ The openSUSE 11.0 beta 1 includes quite a few changes and new features that user
 Here's a quick look at openSUSE 11.0 beta 1:
 
 
-[![os110beta1-inst7_thumb.jpg]({{ site.baseurl }}/assets/os110beta1-inst7_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-inst7.png) [![os110beta1-kde4-2_thumb.jpg]({{ site.baseurl }}/assets/os110beta1-kde4-2_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-kde4-2.png)
+[![os110beta1-inst7_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-inst7_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-inst7.png) [![os110beta1-kde4-2_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-kde4-2_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-kde4-2.png)
 
 
 
 
-[![os110beta1-kde3_thumb.jpg]({{ site.baseurl }}/assets/os110beta1-kde3_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-kde3.png) [![os110beta1-gnome_thumb.jpg]({{ site.baseurl }}/assets/os110beta1-gnome_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-gnome.png)
+[![os110beta1-kde3_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-kde3_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-kde3.png) [![os110beta1-gnome_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-gnome_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-gnome.png)
 
 
 
@@ -253,4 +256,4 @@ openSUSE 11.0 Beta 1 is a great time to start testing-out openSUSE 11.0 before i
 
 For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 2 on May 2.		
+The next [planned release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 2 on May 2.

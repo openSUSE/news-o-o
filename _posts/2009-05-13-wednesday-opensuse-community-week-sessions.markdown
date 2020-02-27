@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-05-13 01:37:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/05/13/wednesday-opensuse-community-week-sessions/
-title: "Wednesday openSUSE Community Week Sessions"
+slug: wednesday-opensuse-community-week-sessions
+title: Wednesday openSUSE Community Week Sessions
+wordpress_id: 1645
 categories:
 - Announcements
 - Events
 ---
+
 The [openSUSE Community Week](http://en.opensuse.org/Community_Week) is going strong! The fun kicks up a notch Wednesday with sessions with the openSUSE Board and a workshop with the openSUSE Weekly News team, in addition to sessions with the GNOME and KDE teams, testing and QA, and much more.
 
 Our community week is a chance to get people from around the world together at the same time to focus on specific topics, and to transfer knowledge about openSUSE to help grow our teams. The idea is to cover topics to improve our community by broadening our knowledge, and to enable new contributors to openSUSE and open source.
@@ -45,4 +48,4 @@ As a reminder -- all sessions are being [held in IRC](http://en.opensuse.org/Com
 
 Check the [schedule on the wiki for all sessions](en.opensuse.org/Community_Week). As always, there will be plenty of openSUSE contributors in #opensuse-project for general questions about openSUSE and getting started as a contributor.
 
-Sign in on Wednesday and** have a lot of fun**!		
+Sign in on Wednesday and** have a lot of fun**!

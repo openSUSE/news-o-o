@@ -1,17 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-09-12 15:00:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/09/12/time-to-start-planning-your-sessions-conference-program-available/
-title: "Time to Start Planning your Sessions: Conference Program Available!\
-  "
+slug: time-to-start-planning-your-sessions-conference-program-available
+title: 'Time to Start Planning your Sessions: Conference Program Available!'
+wordpress_id: 14049
 categories:
 - Announcements
 - Conference
 - Events
 ---
-
 
 ## The openSUSE Conference is coming!
 
@@ -21,7 +21,7 @@ categories:
 The Call for Papers is closed and the sessions for this [awesome four-plus-one event](http://bootstrapping-awesome.org) are decided upon and scheduled. It is time to grab a pen and paper, look at the  exciting conference schedule [here](http://bootstrapping-awesome.org/schedule/) and start making a little plan of what sessions to attend! To help you, we present a short selection of sessions and speakers below! (click [here](http://conference.opensuse.org/cz/news/2012/09-05-some_opensuse_conference_sessions_announced/) for this article in Cz)
 
 <!-- more -->
-[![futuremedia logo]({{ site.baseurl }}/assets/futuremedia_color-300x129.png)](http://bootstrapping-awesome.org/futuremedia)
+[![futuremedia logo](/wp-content/uploads/2012/09/futuremedia_color.png)](http://bootstrapping-awesome.org/futuremedia)
 
 
 ### Future Media
@@ -51,7 +51,7 @@ The special feature track on Saturday, [**"Future Media"**](http://bootstrapping
   * Lydia Pintscher from [Wikimedia](http://wikimedia.de) will talk about how the Wikidata project will shape the **future of Wikipedia and Open Data** in general"
 
 
-[![oSC logo]({{ site.baseurl }}/assets/logo.png)](http://conference.opensuse.org)
+[![oSC logo](/wp-content/uploads/2012/09/logo.png)](http://conference.opensuse.org)
 
 
 ### openSUSE Conference
@@ -65,7 +65,7 @@ The first day in the openSUSE Track, Michael Meeks will tell you all about [what
 
 
 
-Saturday night there'll be a good party and the next day musician Sam Aaron will [talk about Zen and how to Live Program music like he did during the party](http://bootstrapping-awesome.org/schedule/#osc-53). Later, Libor PecháÄek will explain the process of getting [software from the community into commercial enterprises](http://bootstrapping-awesome.org/schedule/#osc-18) and at the end of the day Miguel Angel Barajas Watson will show us how [**a computer could win Jeopardy** using SUSE, Power and Hadoop](http://bootstrapping-awesome.org/schedule/#osc-49).
+Saturday night there'll be a good party and the next day musician Sam Aaron will [talk about Zen and how to Live Program music like he did during the party](http://bootstrapping-awesome.org/schedule/#osc-53). Later, Libor PechÃ¡Äek will explain the process of getting [software from the community into commercial enterprises](http://bootstrapping-awesome.org/schedule/#osc-18) and at the end of the day Miguel Angel Barajas Watson will show us how [**a computer could win Jeopardy** using SUSE, Power and Hadoop](http://bootstrapping-awesome.org/schedule/#osc-49).
 
 
 
@@ -74,7 +74,7 @@ Saturday night there'll be a good party and the next day musician Sam Aaron will
 The openSUSE event continues on Monday and Tuesday with many workshops and BoF sessions planned as well as a few large-room discussions about the future of the openSUSE development- and release process.
 
 
-[![linux-days logo]({{ site.baseurl }}/assets/linux-days-150x150.png)](http://linuxdays.cz)
+[![linux-days logo](/wp-content/uploads/2012/09/linux-days.png)](http://linuxdays.cz)
 
 
 ### LinuxDays
@@ -82,7 +82,7 @@ The openSUSE event continues on Monday and Tuesday with many workshops and BoF s
 
 
 
-On Saturday the LinuxDays track features a number of Czech talks like [an introduction to Gentoo](http://bootstrapping-awesome.org/schedule/#ld-18) by Tomáš Chvátal with his talk titled "if it moves, compile it!" ('Pokud se to hÃ½be, zkompiluj to!'). [Fedora is represented](http://bootstrapping-awesome.org/schedule/#ld-10) by JiÅ™Ã­ Eischmann & Jaroslav Å˜eznÃ­k later in the day. There also few real ninja-style talks about low-level programming like Petr Baudiš about [low level programming](http://bootstrapping-awesome.org/schedule/#ld-14) and Thomas Renninger on [modern CPU power usage monitoring](http://bootstrapping-awesome.org/schedule/#osc-54) (these both are in English).
+On Saturday the LinuxDays track features a number of Czech talks like [an introduction to Gentoo](http://bootstrapping-awesome.org/schedule/#ld-18) by TomÃ¡Å¡ ChvÃ¡tal with his talk titled "if it moves, compile it!" ('Pokud se to hÃ½be, zkompiluj to!'). [Fedora is represented](http://bootstrapping-awesome.org/schedule/#ld-10) by JiÅ™Ã­ Eischmann & Jaroslav Å˜eznÃ­k later in the day. There also few real ninja-style talks about low-level programming like Petr BaudiÅ¡ about [low level programming](http://bootstrapping-awesome.org/schedule/#ld-14) and Thomas Renninger on [modern CPU power usage monitoring](http://bootstrapping-awesome.org/schedule/#osc-54) (these both are in English).
 
 
 
@@ -94,16 +94,16 @@ During the Saturday there will also be track of graphics workshops in Czech (Gim
 
 
 
-Sunday is kicked of by VojtÄ›ch TrefnÃ½ [explaining how to use Canonical's Launchpad](http://bootstrapping-awesome.org/schedule/#ld-11) as a place to host your project (cz). Those interested in networking will be taken care off by Pavel Å imerda ([news from Linux Networking](http://bootstrapping-awesome.org/schedule/#ld-15)) and Radek NeuÅ¾il who [explains how to use networks securely](http://bootstrapping-awesome.org/schedule/#ld-01) (both cz). You can also [learn all about how to set up a Linux desktop/server solution for educational purposes](http://bootstrapping-awesome.org/schedule/#osc-09) (en) and follow VladimÃ­r ÄŒunát talking about NixOS and the unique package manager this OS is build on.
+Sunday is kicked of by VojtÄ›ch TrefnÃ½ [explaining how to use Canonical's Launchpad](http://bootstrapping-awesome.org/schedule/#ld-11) as a place to host your project (cz). Those interested in networking will be taken care off by Pavel Å imerda ([news from Linux Networking](http://bootstrapping-awesome.org/schedule/#ld-15)) and Radek NeuÅ¾il who [explains how to use networks securely](http://bootstrapping-awesome.org/schedule/#ld-01) (both cz). You can also [learn all about how to set up a Linux desktop/server solution for educational purposes](http://bootstrapping-awesome.org/schedule/#osc-09) (en) and follow VladimÃ­r ÄŒunÃ¡t talking about NixOS and the unique package manager this OS is build on.
 
 
 
 
 
-The LinuxDays track will be closed by Petr KrÄmáÅ™ (chief editor of root.cz) and Tomáš MatÄ›jÃ­Äek (author of Slax) [talking about future of Slax](http://bootstrapping-awesome.org/schedule/#ld-04) (cz).
+The LinuxDays track will be closed by Petr KrÄmÃ¡Å™ (chief editor of root.cz) and TomÃ¡Å¡ MatÄ›jÃ­Äek (author of Slax) [talking about future of Slax](http://bootstrapping-awesome.org/schedule/#ld-04) (cz).
 
 
-[![gentoo logo]({{ site.baseurl }}/assets/gentoominisummit-150x150.png)](http://gentoo.org)
+[![gentoo logo](/wp-content/uploads/2012/09/gentoominisummit.png)](http://gentoo.org)
 
 
 ### Gentoo
@@ -120,7 +120,7 @@ The Gentoo miniconf is kicked off on Saturday by Fabian Groffen & Robin H. Johns
 Sunday is started by Robin H. Johnson talking about how isohunt uses Gentoo. Then, David Heidelberger will teach you all about [3D, games and everything about Graphic performance under Linux/Gentoo](http://bootstrapping-awesome.org/schedule/#gen-12). Christian Aistleitner [presents a session about SHA1 and OpenPGP/GnuPG](http://bootstrapping-awesome.org/schedule/#gen-13) and after lunch there'll be a PGP key signing party and talks about Gentoo development and testing as well as one about using Puppet to manage Linux systems.
 
 
-![prague picture from wikipedia]({{ site.baseurl }}/assets/prague-247x300.jpg)
+![prague picture from wikipedia](/wp-content/uploads/2012/09/prague.jpg)
 
 
 ## Be there!
@@ -160,5 +160,3 @@ The openSUSE project is a worldwide effort promoting the use of Linux everywhere
 
 
 The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists, ambassadors and developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds.
-
-		

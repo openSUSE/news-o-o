@@ -1,10 +1,12 @@
 ---
-author: Christian Bruckmayer
+author: cbruckmayer
+comments: true
 date: 2014-07-30 15:10:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/30/gsoc-open-source-event-manager-organizer-dashboard/
-title: "GSoC: Open Source Event Manager Organizer Dashboard"
+slug: gsoc-open-source-event-manager-organizer-dashboard
+title: 'GSoC: Open Source Event Manager Organizer Dashboard'
+wordpress_id: 18230
 categories:
 - Google Summer of Code
 tags:
@@ -15,11 +17,12 @@ tags:
 - ruby
 - web
 ---
+
 _In the past 4 months during this years Google Summer of Code (GSoC), a global program that offers student developers stipends to write code for open source software projects, Christian Bruckmayer collaborated with other students and mentors to code a dashboard for the Open Source Event Manager  (OSEM). In this series of three posts Christian will tell you about his project and what he has learned from this experience._
 
-![Google Summer of Code 2014 Logo]({{ site.baseurl }}/assets/GoogleSummer_2014logo-300x270.jpg)
+![Google Summer of Code 2014 Logo](/wp-content/uploads/2014/07/GoogleSummer_2014logo.jpg)
 
-![Christian Bruckmayer]({{ site.baseurl }}/assets/3799140-150x150.jpeg)Hey my name is Christian and I'm a student currently in the third year of the Bachelor of Science course with information systems and management major in Nuremberg, Germany. During my time at university I already was interested in developing web applications and gained first experience. Google Summer of Code at openSUSE was a great opportunity for me to improve my knowledge and work together with other excellent developers. There are only two weeks left which makes now the perfect time to summarize what I have achieved and learned so far.
+![Christian Bruckmayer](/wp-content/uploads/2014/07/3799140.jpeg)Hey my name is Christian and I'm a student currently in the third year of the Bachelor of Science course with information systems and management major in Nuremberg, Germany. During my time at university I already was interested in developing web applications and gained first experience. Google Summer of Code at openSUSE was a great opportunity for me to improve my knowledge and work together with other excellent developers. There are only two weeks left which makes now the perfect time to summarize what I have achieved and learned so far.
 
 
 
@@ -31,7 +34,7 @@ _In the past 4 months during this years Google Summer of Code (GSoC), a global p
 
 With OSEM it's incredible easy to set up and manage all tasks to organize a successful open source conference. As conference organizer you can let people register for your event, run a call for papers and create an entertaining schedule out of users proposals. And as participant you have a central place to get all the info about the event.
 
-![OSEM]({{ site.baseurl }}/assets/OSEM.png)
+![OSEM](/wp-content/uploads/2014/07/OSEM.png)
 
 OSEM is used by openSUSE, owncloud and other Free and Open Source projects to run their events, it is written in Ruby on Rails, an open source web application framework. openSUSE has released OSEM as free software, under the MIT license. You can run, copy, distribute, study, change and improve it. The source code and the developers are on [github](https://github.com/openSUSE/osem).
 
@@ -66,7 +69,7 @@ The first thing to do for me and my mentor was to identify which information is 
 
 As you can imagine, to present this information nicely we needed a chart library! So my first task was to evaluate various chart libraries and decide which would fit the best for our purpose. Finally we decided to use [Chart.js](http://www.chartjs.org) because of it's simplicity but also powerfulness.
 
-![Chart.js Libraries]({{ site.baseurl }}/assets/37018733-1024x235.png)
+![Chart.js Libraries](/wp-content/uploads/2014/07/37018733.png)
 
 
 ### Gathering the relevant data and presenting it
@@ -119,7 +122,7 @@ So in the end if I have four registrations in week 23, six registrations in week
 
 That's a nice dataset to show in a line graph!
 
-![OSEM: Registration per Week Chart]({{ site.baseurl }}/assets/45879787.png)
+![OSEM: Registration per Week Chart](/wp-content/uploads/2014/07/45879787.png)
 
 
 #### What are people submitting to my call for papers?
@@ -169,7 +172,7 @@ We only keep in account proposals that are submitted between the call for papers
     
 
 
-![OSEM: Submissions per week graph]({{ site.baseurl }}/assets/48318522.png)
+![OSEM: Submissions per week graph](/wp-content/uploads/2014/07/48318522.png)
 
 
 #### How is my program going to look?
@@ -177,7 +180,7 @@ We only keep in account proposals that are submitted between the call for papers
 
 Another really essential information for conference organinzers is how the program is going to look. This includes for example how many events do I have for a certain track (e.g. end user, business), difficulty level or a special type (e.g. short talk, workshop). These information is crucial for the organizers because so they can see if they have to less or to many events for a track. Luckily Chart.js doesn't only support line charts, it also supports pie charts which is the preferred display mode for these information. The following image shows how this feature does look:
 
-![OSEM Graphs]({{ site.baseurl }}/assets/32190087.png)
+![OSEM Graphs](/wp-content/uploads/2014/07/32190087.png)
 
 To get the track distribution I implemented for example the following method:
 
@@ -243,7 +246,7 @@ then simply assigns each track the amount of proposals and the associated hex co
 
 In the end, if you plug all of this together, we ended up with a nice dashboard for conference organizers.
 
-[![OSEM Dashboard]({{ site.baseurl }}/assets/events.opensuse.org_2014-07-30_16-55-39-215x300.png)]({{ site.baseurl }}/assets/events.opensuse.org_2014-07-30_16-55-39.png)
+[![OSEM Dashboard](/wp-content/uploads/2014/07/events.opensuse.org_2014-07-30_16-55-39-215x300.png)](/wp-content/uploads/2014/07/events.opensuse.org_2014-07-30_16-55-39.png)
 
 
 ## What's left for the remaining GSoC time?
@@ -264,4 +267,4 @@ I hope you enjoyed this article, I'm looking forward to your comments below. And
 	
   * [GSoC: What I have learned](https://news.opensuse.org/2014/08/14/gsoc-what-i-have-learned/)
 
-		
+

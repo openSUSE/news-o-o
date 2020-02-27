@@ -1,16 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2010-06-17 13:34:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/17/opensuse-approaching-destination-please-fasten-your-seat-belts-opensuse-11-3-rc1-is-available/
-title: "openSUSE approaching destination - please fasten your seat belts\
-  \ - openSUSE 11.3 RC1 is available"
+slug: opensuse-approaching-destination-please-fasten-your-seat-belts-opensuse-11-3-rc1-is-available
+title: openSUSE approaching destination - please fasten your seat belts - openSUSE
+  11.3 RC1 is available
+wordpress_id: 3488
 categories:
 - Announcements
 - Distribution
 ---
-![Geeko at work]({{ site.baseurl }}/assets/m3geeko1-300x237.jpg)
+
+![Geeko at work](/wp-content/uploads/2010/03/m3geeko1.jpg)
 
 
 
@@ -35,5 +38,3 @@ As usual the most annoying bugs are listed [here](http://en.opensuse.org/Bugs:Mo
 
 
 Have a lot of fun!
-
-		

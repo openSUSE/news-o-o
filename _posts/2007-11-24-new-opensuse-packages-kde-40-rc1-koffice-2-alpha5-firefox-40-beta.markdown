@@ -1,16 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2007-11-24 12:19:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/24/new-opensuse-packages-kde-40-rc1-koffice-2-alpha5-firefox-40-beta/
-title: "New openSUSE Packages: KDE 4.0 RC1, KOffice 2 Alpha5, Firefox 3.0\
-  \ Beta"
+slug: new-opensuse-packages-kde-40-rc1-koffice-2-alpha5-firefox-40-beta
+title: 'New openSUSE Packages: KDE 4.0 RC1, KOffice 2 Alpha5, Firefox 3.0 Beta'
+wordpress_id: 524
 categories:
 - Distribution
 tags:
 - KDE
 ---
+
 The release of [KDE 4.0 RC1](http://kde.org/announcements/announce-4.0-rc1.php), [KOffice 2 Alpha 5](http://dot.kde.org/1195765538/), and [Firefox 3.0 Beta 1](http://developer.mozilla.org/devnews/index.php/2007/11/19/firefox-3-beta-1-now-available-for-download/) were all announced in the last week. As always, openSUSE packages are available in the openSUSE Build Service via _1-Click-Install_. The openSUSE-based KDE development live CD "[KDE Four Live](http://home.kde.org/~binner/kde-four-live/)" has also been updated.
 
 <!-- more -->
@@ -20,17 +22,17 @@ The release of [KDE 4.0 RC1](http://kde.org/announcements/announce-4.0-rc1.php),
 
 
 
-The KDE project released the first release candidate of the long-awaited KDE 4.0. The release includes many fixes to [Plasma](http://plasma.kde.org), the ported and familiar [Kickoff](http://opensuse.org/Kickoff) KDE menu, and an incredible amount of updates to virtually every KDE application. While openSUSE users will already have a [taste of KDE 4](https://news.opensuse.org/?p=219) in openSUSE 10.3, you can now very easily get a full overview of the KDE 4 desktop as it progresses. You can try out applications such as: Dolphin, the new file manager; get a fresh view of Oxygen, the new style and icon theme; and so much more.
+The KDE project released the first release candidate of the long-awaited KDE 4.0. The release includes many fixes to [Plasma](http://plasma.kde.org), the ported and familiar [Kickoff](http://opensuse.org/Kickoff) KDE menu, and an incredible amount of updates to virtually every KDE application. While openSUSE users will already have a [taste of KDE 4](//news.opensuse.org/?p=219) in openSUSE 10.3, you can now very easily get a full overview of the KDE 4 desktop as it progresses. You can try out applications such as: Dolphin, the new file manager; get a fresh view of Oxygen, the new style and icon theme; and so much more.
 
 
 
-[![KDE 4.0 RC1]({{ site.baseurl }}/assets/kde4rc1_thumb.jpg)](https://news.opensuse.org/2007/11/24/new-opensuse-packages-kde-40-rc1-koffice-2-alpha5-firefox-40-beta/kde-40-rc1/)
+[![KDE 4.0 RC1](//news.opensuse.org/wp-content/uploads/2007/11/kde4rc1_thumb.jpg)](//news.opensuse.org/2007/11/24/new-opensuse-packages-kde-40-rc1-koffice-2-alpha5-firefox-40-beta/kde-40-rc1/)
 
 
 
 To get the latest KDE4 packages head over to the [KDE4 wiki page](http://opensuse.org/KDE4); alternatively, you might want to try the [openSUSE-based KDE4 Live CD](http://home.kde.org/~binner/kde-four-live). On openSUSE 10.3 you can use 1-click-install to get a typical KDE 4.0 RC1 desktop:
 
-[![kde4rc1]({{ site.baseurl }}/assets/kde4rc1.png)](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Extra-Apps/openSUSE_10.3/KDE4-DEFAULT.ymp)
+[![kde4rc1](//news.opensuse.org/wp-content/uploads/2007/11/kde4rc1.png)](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Extra-Apps/openSUSE_10.3/KDE4-DEFAULT.ymp)
 
 Adventurous users should feel encouraged to try out and help out in polishing the release. There is a selection of [helpful documentation](http://techbase.kde.org/Contribute/Bugsquad/How_to_create_useful_crash_reports) available, as well as weekly [KDE 4 "Krush" days on Saturdays](http://aseigo.blogspot.com/2007/10/kde4-krush-days-saturday.html), where everyone can help out. Full KOffice packages are also in the [KDE4 Repository](http://opensuse.org/KDE4).
 
@@ -55,7 +57,7 @@ The popular web browser have just released the first beta version of their next 
 
 
 
-![firefox password manager]({{ site.baseurl }}/assets/firefox-password1.png)
+![firefox password manager](//news.opensuse.org/wp-content/uploads/2007/11/firefox-password1.png)
 
 
 
@@ -71,7 +73,7 @@ The popular web browser have just released the first beta version of their next 
 
 
 
-![new firefox download manager]({{ site.baseurl }}/assets/firefox-downloader.jpg)
+![new firefox download manager](//news.opensuse.org/wp-content/uploads/2007/11/firefox-downloader.jpg)
 
 
 
@@ -79,4 +81,4 @@ The popular web browser have just released the first beta version of their next 
 
 
 For openSUSE 10.3 you can use _1-Click-Install_:
-[![one-click-install firefox 3.0 beta 1]({{ site.baseurl }}/assets/one-click-firefox.png)](http://opensuse-community.org/MozillaFirefox.ymp)
+[![one-click-install firefox 3.0 beta 1](//news.opensuse.org/wp-content/uploads/2007/11/one-click-firefox.png)](http://opensuse-community.org/MozillaFirefox.ymp) In australia, [https://domyhomework.guru/](https://domyhomework.guru/) marsupials diversified and the few early eutherians became extinct

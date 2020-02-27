@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-01-16 17:08:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/01/16/opensuse-weekly-news-issue-5/
-title: "openSUSE Weekly News, Issue 5"
+slug: opensuse-weekly-news-issue-5
+title: openSUSE Weekly News, Issue 5
+wordpress_id: 618
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png)
 
 The fifth issue of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/5)! 
 
@@ -40,4 +41,4 @@ In this week's issue:
 
 
 
- By [pay someone to write my research paper](https://midnightpapers.com/) maeve maddox it wasn't until I wanted to write about an incident in which a policeman applied a taser to a ten-year-old girl that I needed to know if I should write tazed, tased, tazered, or tasered		
+ By [pay someone to write my research paper](https://midnightpapers.com/) maeve maddox it wasn't until I wanted to write about an incident in which a policeman applied a taser to a ten-year-old girl that I needed to know if I should write tazed, tased, tazered, or tasered

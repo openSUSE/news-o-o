@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-10-05 10:25:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/10/05/beta-3-release-updates-firefox-kde-applications-virtualbox/
-title: "Beta 3 Release Updates FireFox, KDE Applications, VirtualBox"
+slug: beta-3-release-updates-firefox-kde-applications-virtualbox
+title: Beta 3 Release Updates FireFox, KDE Applications, VirtualBox
+wordpress_id: 20117
 categories:
 - Leap
 tags:
@@ -18,6 +20,7 @@ tags:
 - weblate
 - yast
 ---
+
 
 
 The [openSUSE Leap 42.2 Beta 3](http://software.opensuse.org/developer/en?release=developer) was released today one day ahead of schedule and the last beta for 42.2 brought quite a few new versions for people to test.
@@ -36,4 +39,4 @@ Testers of the Beta are encourage to submit bugs they find on [openSUSE Bugzilla
 
 Leap is a community-enterprise distribution that focuses on stability. Leap has hundreds of [SUSE Linux Enterprise](https://www.suse.com/) (SLE) Service Pack (SP) 2 packages and the thousands of community-built packages. The distribution gives developers and organizations an ability to bridge to the faster release cycles of openSUSE Tumbleweed or to a more Long Term Support enterprise solution with SLE.
 
-Media who are interested in more information should contact Douglas DeMaio at [ddemaio@suse.de](mailto:ddemaio@suse.de).		
+Media who are interested in more information should contact Douglas DeMaio at [ddemaio@suse.de](mailto:ddemaio@suse.de).

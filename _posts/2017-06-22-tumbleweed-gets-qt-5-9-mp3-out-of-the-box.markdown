@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-06-22 11:44:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/06/22/tumbleweed-gets-qt-5-9-mp3-out-of-the-box/
-title: "Tumbleweed Gets Qt 5.9, mp3 Out-Of-The Box"
+slug: tumbleweed-gets-qt-5-9-mp3-out-of-the-box
+title: Tumbleweed Gets Qt 5.9, mp3 Out-Of-The Box
+wordpress_id: 20453
 categories:
 - Tumbleweed
 tags:
@@ -32,6 +34,7 @@ tags:
 - thunderbird
 - tools
 ---
+
 ![](http://www.unixstickers.com/image/cache/data/buttons/png/opensuse%20wo%20type-600x600.png)A total of seven openSUSE Tumbleweed snapshots featuring new software were released this week along with an upgrade to GStreamer that allows for mp3 decoding to work out-of-the box.
 
 The newest stable Linux Kernel 4.11.6 is also available in the latest Tumbleweed snapshot [20170620](https://lists.opensuse.org/opensuse-factory/2017-06/msg00620.html).
@@ -46,4 +49,4 @@ Snapshot [20170617](https://lists.opensuse.org/opensuse-factory/2017-06/msg00510
 
 KDE desktop users received [Plasma 5.10.2](https://www.kde.org/announcements/plasma-5.10.2.php) in snapshot [20170616](https://lists.opensuse.org/opensuse-factory/2017-06/msg00443.html); the bugfix update made the PackageKit backend more resistant to crashes in PackageKit and the Plasma Networkmanager Openconnect made sure the User Interface fits into the password dialog. Build process manager [cmake 3.8.2](https://cmake.org/cmake/help/v3.8/release/3.8.html) fix debugging of C++ executables if [CSharp](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) is enabled.
 
-Snapshot [20170615](https://lists.opensuse.org/opensuse-factory/2017-06/msg00406.html) updated the rest of [KDE Applications 17.04.2](https://www.kde.org/announcements/announce-applications-17.04.2.php) and snapshot [20170613](https://lists.opensuse.org/opensuse-factory/2017-06/msg00391.html) updated everything Qt to version [5.9](https://wiki.qt.io/Qt_5.9_Release), which added several [new features](https://wiki.qt.io/New_Features_in_Qt_5.9) including the addition of an [OpenVG](https://en.wikipedia.org/wiki/OpenVG) backend for [Qt Quick](https://www.qt.io/qt-quick/).		
+Snapshot [20170615](https://lists.opensuse.org/opensuse-factory/2017-06/msg00406.html) updated the rest of [KDE Applications 17.04.2](https://www.kde.org/announcements/announce-applications-17.04.2.php) and snapshot [20170613](https://lists.opensuse.org/opensuse-factory/2017-06/msg00391.html) updated everything Qt to version [5.9](https://wiki.qt.io/Qt_5.9_Release), which added several [new features](https://wiki.qt.io/New_Features_in_Qt_5.9) including the addition of an [OpenVG](https://en.wikipedia.org/wiki/OpenVG) backend for [Qt Quick](https://www.qt.io/qt-quick/).

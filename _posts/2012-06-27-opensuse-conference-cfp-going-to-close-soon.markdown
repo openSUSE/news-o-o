@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-06-27 13:09:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/06/27/opensuse-conference-cfp-going-to-close-soon/
-title: "openSUSE Conference CfP going to close soon!"
+slug: opensuse-conference-cfp-going-to-close-soon
+title: openSUSE Conference CfP going to close soon!
+wordpress_id: 13702
 categories:
 - Announcements
 - Conference
 ---
-![openSUSE Conference Logo]({{ site.baseurl }}/assets/logo_600dpi-300x300.png)With the openSUSE conference coming on October 20-23 in Prague, we have only two weeks left for you to send in your session proposal! So, stop _thinking_ about it and DO it. Go and [send in a proposal](http://conference.opensuse.org/Call-for-papers)! Remember, we've got [travel support available](https://news.opensuse.org/2012/06/26/travel-support-team-to-provide-travel-sponsorship-to-conference-summit-and-coscup-attendees/) and [registration for the conference is open too](http://conference.opensuse.org/Register)! Read on for some more details.<!-- more -->
+
+![openSUSE Conference Logo](//news.opensuse.org/wp-content/uploads/2012/06/logo_600dpi.png)With the openSUSE conference coming on October 20-23 in Prague, we have only two weeks left for you to send in your session proposal! So, stop _thinking_ about it and DO it. Go and [send in a proposal](http://conference.opensuse.org/Call-for-papers)! Remember, we've got [travel support available](//news.opensuse.org/2012/06/26/travel-support-team-to-provide-travel-sponsorship-to-conference-summit-and-coscup-attendees/) and [registration for the conference is open too](http://conference.opensuse.org/Register)! Read on for some more details.<!-- more -->
 
 
 
@@ -29,7 +32,7 @@ This years openSUSE Conference theme is _"Bootstrapping awesome!"_. Why? Not jus
 
 The other conferences are [Gentoo miniconf](http://miniconf.gentoo.org) and the [LinuxDays conference](http://linuxdays.cz).
 
-(http://bootstrapping-awesome.org)
+[caption id="attachment_13389" align="alignright" width="212" caption="combined conference poster (still WIP)"][![click to visit the combined conference website!](//news.opensuse.org/wp-content/uploads/2012/05/Website-image-90-dpi.png)](http://bootstrapping-awesome.org)[/caption]
 
 
 ### LinuxDays Conference
@@ -103,4 +106,4 @@ Just hit the button!
 
 Registration for the conference will come soon.
 
-For now, send us your proposals and meet us in October in Prague!		
+For now, send us your proposals and meet us in October in Prague!

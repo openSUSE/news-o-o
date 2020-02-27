@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-28 14:22:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/28/people-of-opensuse-carlos-goncalves/
-title: "People of openSUSE: Carlos GonÃ§alves"
+slug: people-of-opensuse-carlos-goncalves
+title: 'People of openSUSE: Carlos GonÃ§alves'
+wordpress_id: 395
 categories:
 - People of openSUSE
 ---
-
 
 Here is another 'People of openSUSE' interview, this time with Carlos GonÃ§alves, a very active member of our Portuguese community and founder of [ENOS](http://en.opensuse.org/Events/ENOS).
 
@@ -16,17 +17,109 @@ Here is another 'People of openSUSE' interview, this time with Carlos GonÃ§alv
 
 By the way Carlos joined the 'People of openSUSE' initiative and will do some interviews in the future!
 
+<!-- more -->
 
-![]({{ site.baseurl }}/assets/carlos_goncalves.jpg)
-|||
-|--- |--- |
-|**Nickname:**|cgoncalves|
-|**Homepage:**|[http://www.cgoncalves.info](http://www.cgoncalves.info)|
-|**Blog:**|[http://cgoncalves.blogspot.com](http://cgoncalves.blogspot.com)|
-|||
-|**Favorite season:**|Winter - I don't like much sun because it's hot here in Portugal and the winter isn't so cold as it's among the Nordic countries.|
-|**Motto:**|Have a lot of fun...|
-|||
+
+
+
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](//news.opensuse.org/wp-content/uploads/2007/09/carlos_goncalves.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >cgoncalves
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.cgoncalves.info](http://www.cgoncalves.info)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://cgoncalves.blogspot.com](http://cgoncalves.blogspot.com)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Winter - I don't like much sun because it's hot here in Portugal and the winter isn't so cold as it's among the Nordic countries. 	 	 	 	 	 	 	
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Have a lot of fun...
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -64,7 +157,7 @@ I didn't have a DSL Internet connection so I couldn't download that 'new, free a
 #### When and why did you start using openSUSE/SUSE Linux?
 
 
-After testing Knoppix Live CD I really became interested in the Open Source world and I thought it would be good for me to expand my tech knowledge. I tested various Linux distributions (Fedora, Mandrake, Caixa Mágica (SUSE based), Slackware, (K)Ubuntu, Gentoo, SUSE, etc) to check which one suited me better. SUSE won the race and I have stayed with it since SUSE 9.2 (2004).
+After testing Knoppix Live CD I really became interested in the Open Source world and I thought it would be good for me to expand my tech knowledge. I tested various Linux distributions (Fedora, Mandrake, Caixa MÃ¡gica (SUSE based), Slackware, (K)Ubuntu, Gentoo, SUSE, etc) to check which one suited me better. SUSE won the race and I have stayed with it since SUSE 9.2 (2004).
 
 
 
@@ -391,4 +484,6 @@ This last ones, because I never had to think about them as I'm thinking now.
 Q: What's the actual state of openSUSE and open source in general in your country?
 
 A: Open source is conquering more homes and enterprises than ever. openSUSE is also conquering quickly but slowly compared with Ubuntu (most users are using Ubuntu due to its aggressive marketing).
-	
+
+
+[click here to scan](https://justdomyhomework.com/)

@@ -1,15 +1,18 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2012-08-23 15:55:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/08/23/reasons-to-attend-the-opensuse-summit/
-title: "Reasons To Attend The openSUSE Summit"
+slug: reasons-to-attend-the-opensuse-summit
+title: Reasons To Attend The openSUSE Summit
+wordpress_id: 13843
 categories:
 - Announcements
 - Events
 ---
-![The openSUSE Summit logo]({{ site.baseurl }}/assets/logo.jpg)Everyone's excited about the upcoming [openSUSE Summit](http://summit.opensuse.org) in Orlando, Florida next month and now there is a full itinerary tailored just for you.Â  The openSUSE Summit, a 100% free event, is the first-ever gathering of the openSUSE Community in North America and follows on the success of the annual openSUSE Conference in Europe.Â  It immediately follows SUSECon at the same hotel.
+
+![The openSUSE Summit logo](/wp-content/uploads/2012/03/logo.jpg)Everyone's excited about the upcoming [openSUSE Summit](http://summit.opensuse.org) in Orlando, Florida next month and now there is a full itinerary tailored just for you.Â  The openSUSE Summit, a 100% free event, is the first-ever gathering of the openSUSE Community in North America and follows on the success of the annual openSUSE Conference in Europe.Â  It immediately follows SUSECon at the same hotel.
 
 
 <blockquote>[Where and When](http://summit.opensuse.org/Location):Caribe Royale HotelOrlando, FloridaBegins: Friday, September 21 - 2:00 p.m.Ends: Sunday, September 23 - 3:15 p.m.</blockquote>
@@ -60,7 +63,7 @@ We've got three exciting workshops that will give you some serious street creds 
 ### openSUSE Around The World
 
 
-({{ site.baseurl }}/assets/Co-Hosts-300x143.png) Left: Michael Miller - Right: Andrew Wafaa
+[caption id="attachment_13844" align="aligncenter" width="300"]![Co-Hosts covered in Geekos!](/wp-content/uploads/2012/08/Co-Hosts.png) Left: Michael Miller - Right: Andrew Wafaa[/caption]
 
 Join Michael Miller, Vice President of SUSE and Andrew Wafaa, openSUSE Board Member, as they host the opening ceremoy that officially kicks off the openSUSE Summit.Â  They'll take you on a tour around the world highlighting the awesome activities by the community supporting the openSUSE Project.Â  Then hear about the great things openSUSE 12.2 distro has to offer.Â Â  12.2 is slated for release on September 5.Â  Come to this ceremony and you'll be able to brag that you were the first to get your hands on the free openSUSE 12.2 DVD!
 
@@ -70,7 +73,7 @@ Join Michael Miller, Vice President of SUSE and Andrew Wafaa, openSUSE Board Mem
 
 openSUSE wouldn't live up to its motto "Have a lot of fun!" if we didn't plan some exciting evening events and the SUmmit is no exception!
 
-![ownCloud Logo]({{ site.baseurl }}/assets/ownCloud-300x141.png)
+![ownCloud Logo](/wp-content/uploads/2012/08/ownCloud.png)
 
 
 
@@ -83,7 +86,7 @@ openSUSE wouldn't live up to its motto "Have a lot of fun!" if we didn't plan so
 
 
 
-![OrangeFS by Omnibond logo]({{ site.baseurl }}/assets/OrangeFS-300x88.png)
+![OrangeFS by Omnibond logo](/wp-content/uploads/2012/08/OrangeFS.png)
 
 
 
@@ -115,4 +118,4 @@ The openSUSE Summit wraps up on Sunday with a general meeting moderated by openS
 
 If you're waiting for an invitation, this is it!Â  Visit the [official openSUSE Summit website](http://summit.opensuse.org) to get the full details.Â  And follow us on Twitter with #ossum12 to get the latest news and updates as we continue to make this a truly memorable event for you and your fellow Geeko peers.Â  All you gotta do is click that big button below and you're set to go!
 
-[![Click to Register]({{ site.baseurl }}/assets/register_button.png)](http://summit.opensuse.org/Register)		
+[![Click to Register](/wp-content/uploads/2012/08/register_button.png)](http://summit.opensuse.org/Register)

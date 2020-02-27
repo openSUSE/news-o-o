@@ -1,11 +1,12 @@
 ---
 author: Thorsten Bro
+comments: true
 date: 2018-04-19 16:57:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/04/19/opensuse-heroes-%e2%99%a5-lets-encrypt-expect-certificate-exchange/
-title: "openSUSE Heroes ♥ Let's Encrypt™ - Expect certificate exchange\
-  "
+slug: opensuse-heroes-%e2%99%a5-lets-encrypt-expect-certificate-exchange
+title: openSUSE Heroes ♥ Let's Encrypt™ - Expect certificate exchange
+wordpress_id: 20801
 categories:
 - Announcements
 - Build Service
@@ -13,7 +14,8 @@ categories:
 - Infrastructure
 - Wiki
 ---
-![openSUSE loves Let's Encrypt™]({{ site.baseurl }}/assets/openSUSE_loves_letsencrypt.png)
+
+![openSUSE loves Let's Encrypt™](/wp-content/uploads/2018/04/openSUSE_loves_letsencrypt.png)
 
 Maybe some of you noticed, that our certificate *.opensuse.org on many of services will expire soon (on 2018-04-23).
 
@@ -77,4 +79,4 @@ As there are so many options to choose, we decided for the following tool to use
 
 Thanks to everybody involved in this task for getting the migration done.
 
-Fun fact, as you might have noticed before, news.opensuse.org is not part of the openSUSE Heroes infrastructure (yet) and already got a new certificate from DigiCert.		
+Fun fact, as you might have noticed before, news.opensuse.org is not part of the openSUSE Heroes infrastructure (yet) and already got a new certificate from DigiCert.

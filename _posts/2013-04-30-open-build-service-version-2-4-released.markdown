@@ -1,16 +1,19 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2013-04-30 12:00:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/04/30/open-build-service-version-2-4-released/
-title: "Open Build Service version 2.4 released"
+slug: open-build-service-version-2-4-released
+title: Open Build Service version 2.4 released
+wordpress_id: 15887
 categories:
 - Announcements
 - Build Service
 - Infrastructure
 ---
-[![obs-logo]({{ site.baseurl }}/assets/obs-logo.png)](http://openbuildservice.org)
+
+[![obs-logo](//news.opensuse.org/wp-content/uploads/2013/04/obs-logo.png)](http://openbuildservice.org)
 
 
 Over at [openbuildservice.org](http://openbuildservice.org) they have released the Open Build Service (OBS) version 2.4 which supports yet another package format (Arch's PKGBUILD), secure boot signing, appstream metadata, introduces a new constraint system and makes everything a lot snappier. Go check out their [release announcement](http://openbuildservice.org/2013/04/30/version-2.4/) to learn all the nitty gritty details of OBS 2.4.
@@ -23,10 +26,10 @@ On the OBS reference server, [build.opensuse.org](http://build.opensuse.org), wh
 
 
 
-<blockquote>žIt is exciting to see the Open Build Service team move forward with such a great feature release. OBS forms the base of the collaborative model which makes openSUSE such a successful distribution and we are proud to work with them and their sweet technology.</blockquote>
+<blockquote>â€žIt is exciting to see the Open Build Service team move forward with such a great feature release. OBS forms the base of the collaborative model which makes openSUSE such a successful distribution and we are proud to work with them and their sweet technology.â€</blockquote>
 
 
-_“ said openSUSE Community Manager Jos Poortvliet_.
+_â€“ said openSUSE Community Manager Jos Poortvliet_.
 
 
 
@@ -40,16 +43,16 @@ We already configured some of the build hosts to have less workers on them so th
 [gallery ids="15922,15924,15921"]
 
 
-_“ check out more pictures of OBS hardware in the [Google+ group](https://plus.google.com/communities/103680308276459599434)_
+_â€“ check out more pictures of OBS hardware in the [Google+ group](https://plus.google.com/communities/103680308276459599434)_
 
 
 
 
 
-<blockquote>žThe [server monitor](https://build.opensuse.org/monitor) is telling the awful truth: now that we have the build power we have to work on the other hardware bottlenecks, like the server delivering binaries across the build hosts and to our mirrors pronto!</blockquote>
+<blockquote>â€žThe [server monitor](https://build.opensuse.org/monitor) is telling the awful truth: now that we have the build power we have to work on the other hardware bottlenecks, like the server delivering binaries across the build hosts and to our mirrors pronto!â€</blockquote>
 
 
-_“ said openSUSE Release Manager Stephan "coolo" Kulow_.
+_â€“ said openSUSE Release Manager Stephan "coolo" Kulow_.
 
 So don't forget that you can make a difference with your support and sponsorship for the openSUSE and OBS communities. If you happen be able to, or know someone who can, donate serious I/O power to the Open Build Service reference server - it's time to [tell us](http://openbuildservice.org/team/)!
 
@@ -58,4 +61,4 @@ So don't forget that you can make a difference with your support and sponsorship
 ## Go Check It Out!
 
 
-See all the awesomeness of this new release. Either download the [appliance](http://openbuildservice.org/download/) and run your own instance or head over to the [reference server](http://build.opensuse.org) to get your taste of OBS 2.4. And don't forget to let us know how it goes on [twitter](https://twitter.com/OBShq), [G+](https://plus.google.com/114569615797299390351/posts), [facebook](https://www.facebook.com/buildservice) or simply in the comment section below. We're looking forward to hear from you!		
+See all the awesomeness of this new release. Either download the [appliance](http://openbuildservice.org/download/) and run your own instance or head over to the [reference server](http://build.opensuse.org) to get your taste of OBS 2.4. And don't forget to let us know how it goes on [twitter](https://twitter.com/OBShq), [G+](https://plus.google.com/114569615797299390351/posts), [facebook](https://www.facebook.com/buildservice) or simply in the comment section below. We're looking forward to hear from you!

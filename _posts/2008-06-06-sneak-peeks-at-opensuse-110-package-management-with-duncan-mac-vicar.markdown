@@ -1,14 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-06 15:07:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/06/sneak-peeks-at-opensuse-110-package-management-with-duncan-mac-vicar/
-title: "Sneak Peeks at openSUSE 11.0: Package Management, with Duncan Mac-Vicar\
-  "
+slug: sneak-peeks-at-opensuse-110-package-management-with-duncan-mac-vicar
+title: 'Sneak Peeks at openSUSE 11.0: Package Management, with Duncan Mac-Vicar'
+wordpress_id: 810
 categories:
 - Distribution
 ---
+
 In this article we will be covering all of the changes in and around the package management stack in the upcoming openSUSE 11.0. There have been a plethora of both visual and behind-the-scenes changes. We'll also be talking to [Duncan Mac-Vicar](http://en.opensuse.org/User:Dmacvicar), YaST team lead, [ZYpp](http://opensuse.org/Libzypp) and KDE developer, to find out a little more later.
 
 <!-- more -->
@@ -91,7 +93,7 @@ Both the Qt (KDE) and GTK (GNOME) versions of YaST have seen several changes, an
 
 
 
-[![Package Groups]({{ site.baseurl }}/assets/package-groups-thumb.jpeg)]({{ site.baseurl }}/assets/package-groups.jpeg)
+[![Package Groups](/wp-content/uploads/2008/06/package-groups.jpeg)](/wp-content/uploads/2008/06/package-groups.jpeg)
 
 
 
@@ -99,7 +101,7 @@ The patterns view has also been improved:
 
 
 
-[![Patterns]({{ site.baseurl }}/assets/patterns-thumb.jpeg)]({{ site.baseurl }}/assets/patterns.jpeg)
+[![Patterns](/wp-content/uploads/2008/06/patterns.jpeg)](/wp-content/uploads/2008/06/patterns.jpeg)
 
 
 
@@ -107,7 +109,7 @@ The GTK front-end is now based on an entirely new, clean design:
 
 
 
-[![GTK YaST]({{ site.baseurl }}/assets/yast-gtk-thumb.jpeg)]({{ site.baseurl }}/assets/yast-gtk.jpeg)
+[![GTK YaST](/wp-content/uploads/2008/06/yast-gtk.jpeg)](/wp-content/uploads/2008/06/yast-gtk.jpeg)
 
 
 
@@ -121,7 +123,7 @@ Integration with PackageKit is tightened, with GNOME in openSUSE now using the P
 
 
 
-[![GNOME Updater Applet]({{ site.baseurl }}/assets/gnome-packagekit1.jpeg)]({{ site.baseurl }}/assets/gnome-packagekit1.jpeg)
+[![GNOME Updater Applet](/wp-content/uploads/2008/06/gnome-packagekit1.jpeg)](/wp-content/uploads/2008/06/gnome-packagekit1.jpeg)
 
 
 
@@ -200,4 +202,4 @@ Our patches metadata is the same as the one used by yum, updateinfo.xml, which s
 #### What are the plans for the future?
 
 
-For the first time I think we are on the track to where we would like to be. Plans for the future include polishing, like more PackageKit work, enable user features like hardware recommends in the user interface (these features are there for years, but are not very visible), build service integration, adding semantic data, etc		
+For the first time I think we are on the track to where we would like to be. Plans for the future include polishing, like more PackageKit work, enable user features like hardware recommends in the user interface (these features are there for years, but are not very visible), build service integration, adding semantic data, etc

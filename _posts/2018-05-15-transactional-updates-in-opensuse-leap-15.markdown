@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-15 07:22:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/15/transactional-updates-in-opensuse-leap-15/
-title: "Transactional Updates in openSUSE Leap 15"
+slug: transactional-updates-in-opensuse-leap-15
+title: Transactional Updates in openSUSE Leap 15
+wordpress_id: 20856
 categories:
 - Announcements
 - Derivatives
@@ -33,7 +35,8 @@ tags:
 - transactional-update.timer
 - zypper
 ---
-![]({{ site.baseurl }}/assets/Kubic_logo_official-227x300.png)This blog is part of a series of technical blogs leading up to the release of [openSUSE Leap 15](https://en.opensuse.org/Portal:15.0). All of the blogs provide a use case regarding [openSUSE Leap](https://en.opensuse.org/Portal:Leap) and the packages available in the distribution. Happy reading.
+
+![](/wp-content/uploads/2018/05/Kubic_logo_official.png)This blog is part of a series of technical blogs leading up to the release of [openSUSE Leap 15](https://en.opensuse.org/Portal:15.0). All of the blogs provide a use case regarding [openSUSE Leap](https://en.opensuse.org/Portal:Leap) and the packages available in the distribution. Happy reading.
 
 Transactional Updates is one of the exciting new features available in the upcoming release of openSUSE Leap 15, which is scheduled to be officially released May 25.
 
@@ -58,7 +61,7 @@ Under the hood, Transactional Updates are made simple. Utilising the same _btrfs
 
 For take advantage of this new feature, users should choose the “Transactional Server” during a fresh install on the user interface selection.
 
-![]({{ site.baseurl }}/assets/Desktop_selection_15.0-300x225.png)
+![](/wp-content/uploads/2018/05/Desktop_selection_15.0.png)
 
 The Transactional Server role has transactional-update automatically running daily by default. The selection enabled by default both transactional-update.timer and rebootmgr.service. The Transactional Server role has fully automated installation of updates and will reboot between 0330 and 0500 in the morning after an update is installed by default, which can be changed.
 
@@ -94,4 +97,4 @@ Q: How can I contribute?
 
 A: Any changes are welcome to be suggested at the [transactional-update](https://github.com/openSUSE/transactional-update) or [rebootmgr](https://github.com/SUSE/rebootmgr) GitHub projects. If you have any other ideas or questions about Transactional Updates or the Kubic Project in general feel free to get in touch with us by joining our IRC Channel, #kubic on irc.freenode.org or by mailing the openSUSE Factory Mailing list.
 
-Thanks and _Have a Lot of Fun!_		
+Thanks and _Have a Lot of Fun!_

@@ -1,13 +1,16 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-03-09 13:38:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/03/09/reminder-german-wiki-team-meeting/
-title: "Reminder: German Wiki Team Meeting"
+slug: reminder-german-wiki-team-meeting
+title: 'Reminder: German Wiki Team Meeting'
+wordpress_id: 3004
 categories:
 - Wiki
 ---
+
 The next openSUSE german Wiki Team meeting will take place tomorrow Wednesday March 09 at 18:00 GMT. As always, the meeting will be held   in IRC  on the #opensuse-wiki-de channel on Freenode.
 
 Please add your topics to the meeting wiki page at:
@@ -24,4 +27,4 @@ As always, we meet in #opensuse-newsletter on Freenode. Fire up your    favorite
 
 Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.irchelp.org/).    This site is not affiliated with openSUSE. For more information on    Freenode, see http://freenode.net/.
 
-Wondering what meeting times are? [Check the openSUSE Meetings    page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed  there.		
+Wondering what meeting times are? [Check the openSUSE Meetings    page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed  there.

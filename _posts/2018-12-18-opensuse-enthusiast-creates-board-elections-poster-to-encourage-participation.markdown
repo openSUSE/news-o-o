@@ -1,10 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2018-12-18 05:36:29+00:00
 layout: post
 link: https://news.opensuse.org/2018/12/18/opensuse-enthusiast-creates-board-elections-poster-to-encourage-participation/
-title: "openSUSE Enthusiast Creates Board Elections Poster to Encourage\
-  \ Participation"
+slug: opensuse-enthusiast-creates-board-elections-poster-to-encourage-participation
+title: openSUSE Enthusiast Creates Board Elections Poster to Encourage Participation
+wordpress_id: 21385
 categories:
 - Announcements
 - Board
@@ -12,9 +14,10 @@ categories:
 - Events
 - Project
 ---
+
 One of the growing community of openSUSE enthusiasts in Indonesia has contributed a poster he designed for the [2018-2019 Board Elections and Membership Drive](https://en.opensuse.org/openSUSE:Board_election).
 
-({{ site.baseurl }}/assets/aris_winardi.jpg) **_Aris Winardi giving a presentation at the openSUSE Asia Summit 2016 in Yogyakarta, Indonesia_**
+[caption id="attachment_21391" align="alignleft" width="224"][![Aris Winardi](/wp-content/uploads/2018/12/aris_winardi.jpg)](/wp-content/uploads/2018/12/aris_winardi.jpg) **_Aris Winardi giving a presentation at the openSUSE Asia Summit 2016 in Yogyakarta, Indonesia_**[/caption]
 
 Aris Winardi, from Bogor, West Java, Indonesia, wants to inspire the [openSUSE](https://www.opensuse.org/) Community and [Members](https://en.opensuse.org/openSUSE:Members) to get involved in the Elections process and make it the best one yet.
 
@@ -32,7 +35,7 @@ There are currently three of the six seats up for election to the [openSUSE Boar
 
 Last spring, the elections included an impressive list of quality candidates in an election that was the longest election period in the history of the project elections, with 237 out of 400 Members voting: A record participation in percentage and actual numbers.
 
-({{ site.baseurl }}/assets/poster-election.png) **_2018-2019 Election Poster contributed by Aris Winardi_**
+[caption id="attachment_21386" align="alignright" width="368"][![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)](/wp-content/uploads/2018/12/poster-election.png) **_2018-2019 Election Poster contributed by Aris Winardi_**[/caption]
 
 This year, the [Elections Committee](mailto:election-officials@opensuse.org) wants to exceed that record, and has announced an eight-week Membership Drive to coincide with the first five weeks of the [Candidate Nomination phase](https://en.opensuse.org/openSUSE:Board_election), continuing through the three-week Campaign phase that follows.
 
@@ -58,4 +61,4 @@ That is a quick contribution you can easily make to openSUSE starting right now,
 
 The growing **Asian Community**, including the **Indonesian** region, is showing great enthusiasm for **openSUSE** and would like to encourage even more contributions and participation in the Project.
 
-There are many ways to contribute, just check the [Membership page](https://en.opensuse.org/openSUSE:Members) for a quick list of some of the ways, and check out the contributor portal for more.		
+There are many ways to contribute, just check the [Membership page](https://en.opensuse.org/openSUSE:Members) for a quick list of some of the ways, and check out the contributor portal for more.

@@ -1,12 +1,15 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-07-14 07:19:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/07/14/systemd-updates-in-tumbleweed-leap-to-have-gnome-3-20/
-title: "Systemd updates in Tumbleweed, Leap to have GNOME 3.20"
+slug: systemd-updates-in-tumbleweed-leap-to-have-gnome-3-20
+title: Systemd updates in Tumbleweed, Leap to have GNOME 3.20
+wordpress_id: 20006
 ---
-![Tumbleweed-black]({{ site.baseurl }}/assets/Tumbleweed-black-300x127.png)The last update provided on [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) was almost a month ago and a lot has happened since then.
+
+![Tumbleweed-black](/wp-content/uploads/2016/03/Tumbleweed-black.png)The last update provided on [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) was almost a month ago and a lot has happened since then.
 
 Besides the release of a an Alpha 2 for [openSUSE Leap 42.2](https://en.opensuse.org/Portal:42.2) and the five-day openSUSE Conference in Nuremberg, Tumbleweed snapshots have been rolling along with 10 snapshots since the last update, which highlighted the addition of [GNU Compiler Collection](https://gcc.gnu.org/) 6 as the default compiler for Tumbleweed.
 
@@ -18,4 +21,4 @@ Plans for future snapshots have Freetype 2.6.5, disabling a new subpixel hinting
 
 As for [Plasma 5.7.0](https://www.kde.org/announcements/plasma-5.7.0.php), the version is still in staging and needs some bug fixes before it will be released.
 
-The planned release in November of the next openSUSE Leap version will have [GNOME 3.20](https://www.gnome.org/news/2016/03/gnome-3-20-released/), [Plasma 5.6.4](https://www.kde.org/announcements/plasma-5.6.4.php) and [KDE Framework 5.23](https://www.kde.org/announcements/kde-frameworks-5.23.0.php). The Linux Kernel will be [4.4](https://kernelnewbies.org/Linux_4.4).		
+The planned release in November of the next openSUSE Leap version will have [GNOME 3.20](https://www.gnome.org/news/2016/03/gnome-3-20-released/), [Plasma 5.6.4](https://www.kde.org/announcements/plasma-5.6.4.php) and [KDE Framework 5.23](https://www.kde.org/announcements/kde-frameworks-5.23.0.php). The Linux Kernel will be [4.4](https://kernelnewbies.org/Linux_4.4).

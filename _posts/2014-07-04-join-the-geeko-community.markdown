@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-07-04 12:34:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/04/join-the-geeko-community/
-title: "Join The Geeko Community!"
+slug: join-the-geeko-community
+title: Join The Geeko Community!
+wordpress_id: 18143
 categories:
 - Project
 ---
+
 Heya geekos, geekos-to-be, and all other interested parties. This time it's going to be a short one. We, the geekos kindly invite you to hang out with us!
 
 <!-- more -->
@@ -20,4 +23,4 @@ Yes, we understand many of you feel like 'we don't need to pat each other on the
 ##### Anyway, do join the green side. There's a lot of fun to be had :D
 
 
-		
+

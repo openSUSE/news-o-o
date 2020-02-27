@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-06-18 17:16:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/06/18/beta-means-pizza-join-the-party-or-make-your-own/
-title: "Beta means Pizza. Join the Party or Make your Own!"
+slug: beta-means-pizza-join-the-party-or-make-your-own
+title: Beta means Pizza. Join the Party or Make your Own!
+wordpress_id: 13594
 categories:
 - Events
 ---
-![Will Code for Food Geeko]({{ site.baseurl }}/assets/poster_flickr_3734955073_571dc4efc7_exo-229x300.jpg)
+
+![Will Code for Food Geeko](/wp-content/uploads/2012/06/poster_flickr_3734955073_571dc4efc7_exo.jpg)
 _So, we're delaying our release._ And Coolo has announced we will do another Beta. There will be plenty of time after the beta and before the release which means: **_we can test the heck out of it_**! That calls for... a BetaPizzaParty!
 
-You might know the drill by now - we've done this [before](https://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/). You get the **pizza**, we make sure there's a nice, fresh **Beta** ready for you to test.
+You might know the drill by now - we've done this [before](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/). You get the **pizza**, we make sure there's a nice, fresh **Beta** ready for you to test.
 
 Read on for some insights on Pizza and Beta!<!-- more -->
 <!-- more -->
@@ -29,7 +32,7 @@ This release is the final release before openSUSE goes into Release Candidate mo
 ## Then, the Pizza...
 
 
-Second, you get the Pizza (and a place to eat this). Our fellow geeko Bernhard Wiedemann has again decided to organize a Beta Pizza Party in Nürnberg somewhere around the end of this month in the SUSE offices and there will be one in Prague and possibly other SUSE offices. But if there's no party around, you can organize your own. Be sure to check [the wiki page!](http://en.opensuse.org/openSUSE:BetaPizzaParty) At least I'm organizing one in Berlin and I'd love to see more! History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?
+Second, you get the Pizza (and a place to eat this). Our fellow geeko Bernhard Wiedemann has again decided to organize a Beta Pizza Party in NÃ¼rnberg somewhere around the end of this month in the SUSE offices and there will be one in Prague and possibly other SUSE offices. But if there's no party around, you can organize your own. Be sure to check [the wiki page!](http://en.opensuse.org/openSUSE:BetaPizzaParty) At least I'm organizing one in Berlin and I'd love to see more! History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?
 
 [![Pizza Hut](http://farm5.static.flickr.com/4053/4225166405_bb5ab44c29_m.jpg)](http://www.flickr.com/photos/ferret111/4225166405/)
 
@@ -38,7 +41,7 @@ Second, you get the Pizza (and a place to eat this). Our fellow geeko Bernhard W
 ## Party and more details
 
 
-Don't forget the party part of a BetaPizzaParty! Make sure you'll have some fun at some point. One way of doing that is of course to not just order pizzas but [make your own following this Geeko Recipe](https://news.opensuse.org/?p=11150).
+Don't forget the party part of a BetaPizzaParty! Make sure you'll have some fun at some point. One way of doing that is of course to not just order pizzas but [make your own following this Geeko Recipe](http://news.opensuse.org/?p=11150).
 
 
 
@@ -72,4 +75,4 @@ There is plenty of help available on the [Development page](http://en.opensuse.o
 
 Whatever bugs you find, remember: even a Beta testing Pizza Party is about having fun! It doesn't matter what technical knowledge you or the other visitors have - as long as you are having fun. And don't eat too much pizza, overeating tends to be unhealty.
 
-**Enjoy!**		
+**Enjoy!**

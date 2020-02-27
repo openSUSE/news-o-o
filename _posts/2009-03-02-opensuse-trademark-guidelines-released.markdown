@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-03-02 23:40:08+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/03/02/opensuse-trademark-guidelines-released/
-title: "openSUSE Trademark Guidelines Released"
+slug: opensuse-trademark-guidelines-released
+title: openSUSE Trademark Guidelines Released
+wordpress_id: 1181
 categories:
 - Announcements
 - Project
 ---
+
 The openSUSE Project is pleased to announce the release of the [openSUSE Trademark Guidelines](http://en.opensuse.org/Image:OpenSUSE_Trademark_Guidelines.pdf) (PDF). With the guidelines, the openSUSE Project is looking to clarify the use of the openSUSE marks and make it easier to redistribute openSUSE-based projects.
 
 Since it's easier than ever to create customized versions of openSUSE, we've seen a lot of interest in the branding of derivative distros. When is it OK to call a distro "openSUSE," or "powered by openSUSE," and when does the branding need to be removed entirely? The guidelines are an attempt to answer as many of those questions as possible in one concise document.
@@ -27,4 +30,4 @@ If you want to use the official openSUSE marks, but fall outside the permitted u
 
 For discussion of the guidelines and policies around the openSUSE marks, feel free to ask on the openSUSE-project mailing list. (opensuse-project@opensuse.org, subscribe using opensuse-[project+subscribe@opensuse.org](mailto:project+subscribe@opensuse.org).)
 
-Discussion about openSUSE branding in general can be directed to the openSUSE marketing mailing list (opensuse-marketing@opensuse.org, subscribe using [opensuse-marketing+subscribe@opensuse.org](mailto:opensuse-marketing+subscribe@opensuse.org).) Have the 100% success guarantee by downloading the c9020-560 exam pdf questions online to check the quality of ibm ibm certified specialist exam test questions admission essay writing [www.admission-writer.com/](https://admission-writer.com/) from produmps		
+Discussion about openSUSE branding in general can be directed to the openSUSE marketing mailing list (opensuse-marketing@opensuse.org, subscribe using [opensuse-marketing+subscribe@opensuse.org](mailto:opensuse-marketing+subscribe@opensuse.org).) Have the 100% success guarantee by downloading the c9020-560 exam pdf questions online to check the quality of ibm ibm certified specialist exam test questions admission essay writing [www.admission-writer.com/](https://admission-writer.com/) from produmps

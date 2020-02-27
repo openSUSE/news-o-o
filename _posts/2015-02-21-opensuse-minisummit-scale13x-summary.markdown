@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-02-21 16:01:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/02/21/opensuse-minisummit-scale13x-summary/
-title: "openSUSE miniSummit @Scale13x – summary"
+slug: opensuse-minisummit-scale13x-summary
+title: openSUSE miniSummit @Scale13x – summary
+wordpress_id: 19079
 categories:
 - Events
 tags:
@@ -15,7 +17,8 @@ tags:
 - opensuse
 - SCALE
 ---
-![openSUSE miniSummit T-shirt](https://lizards.opensuse.org/wp-content/uploads/2015/02/IMG_3087-300x200.jpg)By Bruno Friedmann
+
+![openSUSE miniSummit T-shirt](https://lizards.opensuse.org/wp-content/uploads/2015/02/IMG_3087.jpg)By Bruno Friedmann
 
 Hi Geekos, here is a small summary of our Thursday February 19th openSUSE miniSummit event here at SCALE 13x.
 
@@ -54,4 +57,4 @@ openSUSE miniSummit day album :
 
 Follow the news on [G+ channel](https://plus.google.com/+BrunoFriedmann)
 
-Stay tuned for more news during this week-end.		
+Stay tuned for more news during this week-end.

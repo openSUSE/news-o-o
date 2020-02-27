@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-11-04 13:58:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/11/04/usability-concept-for-the-opensuse-wiki-status-report-1/
-title: "Usability Concept for the openSUSE Wiki - Status Report #1"
+slug: usability-concept-for-the-opensuse-wiki-status-report-1
+title: 'Usability Concept for the openSUSE Wiki - Status Report #1'
+wordpress_id: 2429
 categories:
 - Announcements
 ---
+
 
 
 
@@ -26,5 +29,3 @@ To get an idea about the current state of the Project we're working on, I'd like
 
 
 Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.irchelp.org/). This site is not affiliated with openSUSE. For more information on Freenode, see [http://freenode.net](http://freenode.net/).
-
-		

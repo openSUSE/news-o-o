@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2012-09-14 08:33:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/09/14/opensuse-edu-li-f-e-12-2-out-now/
-title: "openSUSE Edu Li-f-e 12.2 out now!"
+slug: opensuse-edu-li-f-e-12-2-out-now
+title: openSUSE Edu Li-f-e 12.2 out now!
+wordpress_id: 14079
 categories:
 - Announcements
 - Edu Li-f-e
@@ -14,6 +16,7 @@ tags:
 - Education
 - li-f-e
 ---
+
 [![openSUSE-Education li-f-e logo](http://lizards.opensuse.org/wp-content/uploads/2012/09/life-1221-228x300.png)](http://en.opensuse.org/Portal:Education)[openSUSE Education ](http://en.opensuse.org/Portal:Education)team once again presents [Li-f-e](http://en.opensuse.org/openSUSE:Education-Li-f-e) (Linux for Education) built on hot new[ openSUSE 12.2](http://en.opensuse.org/Portal:12.2) including all the post release updates. As always this edition of Li-f-e comes bundled with a lot of softwares useful for students, teachers, as well as IT admins of educational institutions. Apart from stable versions of KDE and Gnome, [Cinnamon](http://cinnamon.linuxmint.com/) is also available. [Sugar ](http://sugarlabs.org/)desktop suite makes a comeback thanks to the work of Xin Wang packaging it. Li-f-e also give full multimedia experience right out of the box without having to install anything extra. The live installable DVD iso stands at 3.3G as an incredible array of softwares from open source world are available on it, we have not just bundled them in, but have tried to integrate it with the distribution to give everything a seamless feel.
 
 [KIWI-LTSP](http://en.opensuse.org/Portal:KIWI-LTSP) brings Li-f-e a very [easy to setup LTSP ](http://en.opensuse.org/SDB:LTSP_quick_start_12.2_Edu)server for PXE booting thin-clients/PC/laptop over the network with many new features and improvements. It can be deployed at schools, homes or even offices. [Epoptes](http://www.epoptes.org/) lab administration tool makes its debut replacing italc, epoptes allows control of every aspect of the clients, such as: lock/unlock screen, full remote control, messaging, broadcasting display, reboot/shutdown etc.
@@ -32,5 +35,5 @@ Minimum hardware requirement is **1GB of RAM** and **15GB free disk space**. Ins
 
 Here is the sampling of some of the [softwares available on the iso](http://en.opensuse.org/openSUSE:Education-Li-f-e). Â Complete list of packages with versions [here](http://www.opensuse-education.org/%7Ecyberorg/opensuse-edu-life-1221-packages.html).
 
-Have a lot of fun¦
-Your openSUSE Education Team		
+Have a lot of funâ€¦
+Your openSUSE Education Team

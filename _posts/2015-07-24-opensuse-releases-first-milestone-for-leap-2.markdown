@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-07-24 13:45:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/07/24/opensuse-releases-first-milestone-for-leap-2/
-title: "openSUSE releases first milestone for Leap"
+slug: opensuse-releases-first-milestone-for-leap-2
+title: openSUSE releases first milestone for Leap
+wordpress_id: 19370
 categories:
 - Leap
 ---
-[![Leap1]({{ site.baseurl }}/assets/Leap1-300x300.png)]({{ site.baseurl }}/assets/Leap1.png)The newest openSUSE release Leap 42.1, which is based on core SUSE Linux Enterprise source code, has just released its first development [milestone](http://download.opensuse.org/distribution/leap/42.1/iso/).
+
+[![Leap1](/wp-content/uploads/2015/07/Leap1.png)](/wp-content/uploads/2015/07/Leap1.png)The newest openSUSE release Leap 42.1, which is based on core SUSE Linux Enterprise source code, has just released its first development [milestone](http://download.opensuse.org/distribution/leap/42.1/iso/).
 
 Milestone is being used to avoid the term Alpha because the [milestone](http://download.opensuse.org/distribution/leap/42.1/iso/) is able to be deployed without the additional future items and subsystems that will become available when Leap is officially released.
 
@@ -31,4 +34,4 @@ If you want to see what the future of Leap will be, try the milestone and contri
 
 There is currently no plans for live CDs, but expect other media formats to be added later.
 
-For more information, email [ddemaio@suse.com](mailto:ddemaio@suse.com).		
+For more information, email [ddemaio@suse.com](mailto:ddemaio@suse.com).

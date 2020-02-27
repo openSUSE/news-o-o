@@ -1,19 +1,22 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2013-09-27 00:00:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/09/27/travel-support-applications-to-attend-opensuse-summit-opened/
-title: "Travel support applications to attend openSUSE Summit opened!"
+slug: travel-support-applications-to-attend-opensuse-summit-opened
+title: Travel support applications to attend openSUSE Summit opened!
+wordpress_id: 16989
 categories:
 - Announcements
 - Events
 - Project
 - Summit
 ---
+
 We are happy to announce the Travel Team is ready to receive applications for sponsorships to attend to [openSUSE Summit ](http://summit.opensuse.org/)2013.
 
-[![openSUSE Summit 2013 logo]({{ site.baseurl }}/assets/LogoSunIdeaPeach-214x300.png)]({{ site.baseurl }}/assets/LogoSunIdeaPeach.png)
+[![openSUSE Summit 2013 logo](/wp-content/uploads/2013/09/LogoSunIdeaPeach.png)](/wp-content/uploads/2013/09/LogoSunIdeaPeach.png)
 
 This year openSUSE Summit will be held in the beautiful Florida, November 15 to 17 and the [Disney's Coronado Springs Resort](http://summit.opensuse.org/#location) will welcome all Geekos to this year's event.
 
@@ -27,7 +30,7 @@ About the TSP you can see at [https://en.opensuse.org/openSUSE:Travel_Support_Pr
 
 
 
-[![Suitcase]({{ site.baseurl }}/assets/suitcase-300x227.jpg)]({{ site.baseurl }}/assets/suitcase.jpg)
+[![Suitcase](/wp-content/uploads/2013/09/suitcase.jpg)](/wp-content/uploads/2013/09/suitcase.jpg)
 
 Important
 * A good application with good information will be processed faster.
@@ -42,4 +45,4 @@ In case of doubts just drop us an email travel-support@opensuse.org
 Do not forget... The [Call for Participation](http://summit.opensuse.org/#cfp) still opened so hurry up!
 
 
-_Your TSP Team_		
+_Your TSP Team_

@@ -1,23 +1,26 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-12-14 09:11:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/12/14/reminder-vote-for-the-opensuse-board/
-title: "Reminder: Vote for the openSUSE Board!"
+slug: reminder-vote-for-the-opensuse-board
+title: 'Reminder: Vote for the openSUSE Board!'
+wordpress_id: 17454
 categories:
 - Announcements
 - Board
 - Project
 ---
-[![GeekoVote]({{ site.baseurl }}/assets/GeekoVote.png)]({{ site.baseurl }}/assets/GeekoVote.png)
+
+[![GeekoVote](//news.opensuse.org/wp-content/uploads/2012/11/GeekoVote.png)](//news.opensuse.org/wp-content/uploads/2012/11/GeekoVote.png)
 It is december 14, dear Geekos! That means that tomorrow, December 15, the official deadline for voting for the openSUSE Board Elections ends! That's right, you have only about 24 hours to cast your vote.
 
 
 ## Elections
 
 
-As we explained in the [earlier announcement](https://news.opensuse.org/?p=17293), there are 4 seats up this year and all openSUSE Members are eligible to vote. This year, the candidates are:
+As we explained in the [earlier announcement](http://news.opensuse.org/?p=17293), there are 4 seats up this year and all openSUSE Members are eligible to vote. This year, the candidates are:
 
 
 
@@ -40,7 +43,7 @@ As we explained in the [earlier announcement](https://news.opensuse.org/?p=17293
   * Ish Sookun [profile](https://connect.opensuse.org/pg/profile/ishwon) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00036.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_ishwon)
 
 	
-  * Jörg "johest" Stephan - [profile](https://connect.opensuse.org/pg/profile/johest) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00017.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_johest)
+  * JÃ¶rg "johest" Stephan - [profile](https://connect.opensuse.org/pg/profile/johest) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00017.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_johest)
 
 	
   * Andrew Wafaa - [profile](https://connect.opensuse.org/pg/profile/funkypenguin) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00010.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_funkypenguin)
@@ -54,5 +57,3 @@ Once you've done your democratic duty and decided who to vote for, click [here](
 
 
 ## Be a part of it!
-
-		

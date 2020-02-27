@@ -1,9 +1,12 @@
 ---
 author: Ana María Martínez Gómez
+comments: true
 date: 2018-09-05 15:58:48+00:00
 layout: post
 link: https://news.opensuse.org/2018/09/05/opensuse-asia-summit/
-title: "openSUSE.Asia Summit"
+slug: opensuse-asia-summit
+title: openSUSE.Asia Summit
+wordpress_id: 21219
 categories:
 - Conference
 - Project
@@ -14,6 +17,7 @@ tags:
 - openSUSE.Asia Summit
 - openSUSE.Asia Summit 2018
 ---
+
 openSUSE.Asia Summit is an annual conference organized since 2014 every time in a different Asian city. Although it is a really successful event, which plays a really important role in spreading openSUSE all around the world, it is not an event everybody in openSUSE knows about. Because of that I would like to tell you about my experience attending the last openSUSE.Asia Summit, which took place on August 10-12 in Taipei, Taiwan.
 
 
@@ -21,7 +25,7 @@ openSUSE.Asia Summit is an annual conference organized since 2014 every time in 
 
 
 
-![openSUSE.Asia Summit 2018 group picture]({{ site.baseurl }}/assets/asia2018-openSUSE-community-1024x684.jpg)
+![openSUSE.Asia Summit 2018 group picture](/wp-content/uploads/2018/09/asia2018-openSUSE-community.jpg)
 
 
 _Picture by [COSCUP](https://www.flickr.com/photos/coscup) under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) from [https://flic.kr/p/2ay7hBD](https://flic.kr/p/2ay7hBD)_
@@ -66,7 +70,7 @@ On Saturday and Sunday was when the conference itself took place. Specially the 
 
 
 
-![]({{ site.baseurl }}/assets/asia2018-ana-speaking-300x200.jpg) ![]({{ site.baseurl }}/assets/asia2018-audience-300x200.jpg)
+![](/wp-content/uploads/2018/09/asia2018-ana-speaking.jpg) ![](/wp-content/uploads/2018/09/asia2018-audience.jpg)
 
 
 
@@ -76,7 +80,7 @@ _Pictures by [COSCUP](https://www.flickr.com/photos/coscup) under [CC BY-SA](h
 
 Apart from the talks, we had the BoF sessions on Saturday evening, in which we could get together surrounded by A LOT of pizza. In the session, there was a presentation of the two proposals for next year openSUSE.Asia Summit: India, with a really well prepared proposal, and Indonesia, whose team organized the biggest openSUSE.Asia Summit in 2016. There was also the exchange of the openSUSE Asia photo album, preserving the tradition that every organizing team should add some more pages to this album. It is getting heavy! ![:muscle:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4aa.png)
 
-![]({{ site.baseurl }}/assets/asia2018-photo-album-300x179.jpg)
+![](/wp-content/uploads/2018/09/asia2018-photo-album.jpg)
 
 
 ## One day tour
@@ -91,7 +95,7 @@ The conference ended with another tradition, the one day tour for speaker and or
 As you see, we had a lot of fun at openSUSE.Asia Summit 2018. From a more personal point of view, I enjoyed a lot meeting our Chinese mentors I normally write emails to. I had also the chance to meet some members of the GNOME board, exchange with them experiences, problems and solutions, and discuss ways in which both communities can keep collaborating in the future. The conference was full of fun moments like seeing a pyramid of pizza (and a hundred of people making pictures to it) and being amused by someone wearing a Geeko costume with 35 degrees and 70% humidity. ![:hotsprings:](https://assets-cdn.github.com/images/icons/emoji/unicode/2668.png)
 
 
-![]({{ site.baseurl }}/assets/asia2018-geeko-300x277.jpg) ![]({{ site.baseurl }}/assets/asia2018-pizza-300x277.jpg)
+![](/wp-content/uploads/2018/09/asia2018-geeko.jpg) ![](/wp-content/uploads/2018/09/asia2018-pizza.jpg)
 
 
 
@@ -101,7 +105,7 @@ _Geeko’s picture by [COSCUP](https://www.flickr.com/photos/coscup) under [CC
 
 To finish, this is what attendees said to liked the most about the conference in the closing session:
 
-![]({{ site.baseurl }}/assets/asia2018-words-cloud-300x174.png)
+![](/wp-content/uploads/2018/09/asia2018-words-cloud.png)
 
 See you next year!
 
@@ -119,4 +123,4 @@ My name is Ana and I am mentor and organization admin for openSUSE at GSoC, open
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), except where otherwise noted. 		
+This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), except where otherwise noted. 

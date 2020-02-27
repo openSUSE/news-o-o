@@ -1,11 +1,12 @@
 ---
 author: Richard Brown
+comments: true
 date: 2018-01-04 15:09:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/04/current-status-opensuse-and-spectre-meltdown-vulnerabilities/
-title: "Current Status: openSUSE and \"Spectre\" & \"Meltdown\" vulnerabilities\
-  "
+slug: current-status-opensuse-and-spectre-meltdown-vulnerabilities
+title: 'Current Status: openSUSE and "Spectre" & "Meltdown" vulnerabilities'
+wordpress_id: 20601
 categories:
 - Announcements
 - Distribution
@@ -13,6 +14,7 @@ categories:
 - Project
 - Tumbleweed
 ---
+
 Hi folks,
 
 By now you probably heard about the new "Spectre" and "Meltdown" side channel
@@ -55,4 +57,4 @@ Attack.
 
 Regards,
 
-_Marcus Meissner & the openSUSE Security Team_		
+_Marcus Meissner & the openSUSE Security Team_

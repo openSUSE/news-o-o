@@ -1,16 +1,19 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2012-12-03 17:07:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/12/03/board-report-travel-sponsorship-programme/
-title: "Board Report - Travel Sponsorship Programme"
+slug: board-report-travel-sponsorship-programme
+title: Board Report - Travel Sponsorship Programme
+wordpress_id: 14674
 categories:
 - Board
 ---
+
 _**Summarizing the Travel Support Program**_
 
-_****_[![]({{ site.baseurl }}/assets/3654543066_2c8823cb03_o-300x168.jpg)](https://news.opensuse.org/?attachment_id=14680)
+_****_[![](//news.opensuse.org/wp-content/uploads/2012/12/3654543066_2c8823cb03_o.jpg)](//news.opensuse.org/?attachment_id=14680)
 The openSUSE Travel Support Program aims to support contributors representing openSUSE at events, conferences and hack-fests with their travel and hotel costs. The program pays up to 80% of the travel and/or hotel costs for contributors who could not afford going to these events otherwise. In turn the contributors make a worthy contribution at the event and report back to the openSUSE community about what they did.
 
 The Travel Committee also decides on travel support for openSUSE events like the openSUSE Conference and the openSUSE Summit.
@@ -55,4 +58,4 @@ If you think you need a sponsorship, then APPLY For it. However there are a few 
 
 
 
-		
+

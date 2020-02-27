@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-05-26 15:22:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/05/26/opensuse-renames-obs/
-title: "openSUSE renames OBS"
+slug: opensuse-renames-obs
+title: openSUSE renames OBS
+wordpress_id: 8917
 categories:
 - Announcements
 - Build Service
 ---
-[![logo OBS]({{ site.baseurl }}/assets/Logo-obs.png)](https://news.opensuse.org/2011/05/26/opensuse-renames-obs/logo-obs/)The openSUSE Build Service Team has decided to rename its cutting-edge packaging- and distribution build technology to Open Build Service. The new name, while maintaining the well-known OBS acronym, signals its open and cross-distribution nature.<!-- more -->
+
+[![logo OBS](/wp-content/uploads/2011/05/Logo-obs.png)](http://news.opensuse.org/2011/05/26/opensuse-renames-obs/logo-obs/)The openSUSE Build Service Team has decided to rename its cutting-edge packaging- and distribution build technology to Open Build Service. The new name, while maintaining the well-known OBS acronym, signals its open and cross-distribution nature.<!-- more -->
 
 
 ## The history
@@ -59,4 +62,4 @@ This will be also interesting for many other open source projects."
 
 As OBS has matured and becomes more widespread, SUSE has [decided](http://www.novell.com/prblogs/?p=3787) to help organizations who want to use and deploy it. SUSE OBS Developer Support brings commercial support options for customers and partners that want to run their own instance of the Open Build Service.
 
-The [support](http://open-build-service.org/support.html) offering will be handled via a new OBS Developer Services (DS) program. Under this program, customers will receive support for configuration and setup issues as well as the ability to get code fixes for bugs that affect them. As part of this program, SUSE is also collecting requirements to the OBS software and will input this into the planning process for OBS. SUSE will be working with partners to enable and back them to offer implementation and consulting services.		
+The [support](http://open-build-service.org/support.html) offering will be handled via a new OBS Developer Services (DS) program. Under this program, customers will receive support for configuration and setup issues as well as the ability to get code fixes for bugs that affect them. As part of this program, SUSE is also collecting requirements to the OBS software and will input this into the planning process for OBS. SUSE will be working with partners to enable and back them to offer implementation and consulting services.

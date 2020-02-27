@@ -1,14 +1,15 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-06-17 13:25:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/
-title: "openSUSE and online storage and syncing"
+slug: opensuse-and-your-own-cloud
+title: openSUSE and online storage and syncing
+wordpress_id: 9374
 categories:
 - Distribution
 ---
-
 
 [![Clouds](http://farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg)](http://www.flickr.com/photos/nirak/644335254/)
 
@@ -19,7 +20,7 @@ The 'cloud' has been a buzzword for quite a while. While some are still rather c
 ## Variety
 
 
-Let's define Cloud technology as 'related to putting data online & sharing among devices' which is a reasonable definition for our purposes. There is a huge number of technologies connecting openSUSE users to online services.  However there is a distinction to be made between commercial or proprietary operating systems and ours.   We don't create a vendor lock-in scenario because we focus on tools that freely connect you to your choice of publicly available services.  This is a key distinction because we're not owning or controlling the cloud that you place your data in.  You, the user, get to decide the place where it best fits your needs and comfort level.  Yesterday we [highlighted integration in our every day applications](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/). Today we focus on file syncing services and especially the cool Free Software project ownCloud!<!-- more -->
+Let's define Cloud technology as 'related to putting data online & sharing among devices' which is a reasonable definition for our purposes. There is a huge number of technologies connecting openSUSE users to online services.  However there is a distinction to be made between commercial or proprietary operating systems and ours.   We don't create a vendor lock-in scenario because we focus on tools that freely connect you to your choice of publicly available services.  This is a key distinction because we're not owning or controlling the cloud that you place your data in.  You, the user, get to decide the place where it best fits your needs and comfort level.  Yesterday we [highlighted integration in our every day applications](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/). Today we focus on file syncing services and especially the cool Free Software project ownCloud!<!-- more -->
 
 
 ## File sharing and syncing services
@@ -33,7 +34,7 @@ The popular [Dropbox](http://dropbox.com) service offers a similar online space,
 
 But both services depend on proprietary server components and need a proprietary daemon to run on your system. Dropbox also doesn't encrypt the data on the server, something Spideroak at least does. SpiderOak also promised to at some point open source their client software. Still, the server side and web interface will remain closed. Luckily there are Free Software solutions out there, two of them I'll talk about here.
 
-(https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/ifolder2clean_filmgrain_picture/)
+[caption id="attachment_9419" align="alignright" width="300" caption="Ye Olde iFolder"][![](/wp-content/uploads/2011/06/iFolder2clean_filmgrain_picture.png)](http://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/ifolder2clean_filmgrain_picture/)[/caption]
 
 
 ## Introducing iFolder
@@ -49,7 +50,7 @@ So unlike Dropbox and SpiderOak, iFolder is fully Free Software and the source i
 ## introducing ownCloud
 
 
-[![owncloud-logo]({{ site.baseurl }}/assets/owncloud-logo-300x148.png)](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/owncloud-logo/)
+[![owncloud-logo](/wp-content/uploads/2011/06/owncloud-logo.png)](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/owncloud-logo/)
 
 [ownCloud](http://owncloud.org/) is an exciting and much more active project, developing file synchronization technology on a Free Software base. However, ownCloud is far more ambitious as you can read in [this recent blogpost](http://blog.karlitschek.de/2011/06/yesterday-apple-announced-their-new.html) by lead developer Frank Karlitschek. Frank welcomed Apple to the Cloud, giving a feature comparision between ownCloud and their cloud offering. He mentioned that:
 
@@ -65,7 +66,7 @@ Furthermore, after having a look at what Apple came up with, he concludes:
 
 ownCloud offers all the basics of accessing files via a variety of means including a web interface and WebDAV. WebDAV support means integration in both [Nautilus](http://live.gnome.org/Nautilus) and [Dolphin](http://dolphin.kde.org/), as well as all KDE and most GNOME applications. ownCloud can synchronize application data like Bookmarks and settings and allows you to listen to your online music collection in a few ways including from [Ampache](http://ampache.org/) and via the web interface. The same goes for movies and photo's while PIM syncing is in the works.
 
-[![ownCloud_Login]({{ site.baseurl }}/assets/ownCloud_Login-300x173.jpg)](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/owncloud_login/)
+[![ownCloud_Login](/wp-content/uploads/2011/06/ownCloud_Login.jpg)](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/owncloud_login/)
 
 Above and beyond iCloud, work is going on in ownCloud to offer versioning of all files through it's git backend and the ability to share your files with whomever you want. More importantly, ownCloud is extensible. It is possible to write addons to ownCloud like RSS readers, todo lists and note syncing or even collaborative gaming. And ownCloud doesn't limit you with DRM or digital fingerprints, allowing you to put your music and movies online without restrictions. Finally, where Apple's cloud just works with Apple devices (as we've come to expect from them), ownCloud is not so picky, working with Windows, Mac and Linux as well as Android, MeeGo and of course the iPhone. This is possible because ownCloud uses open standards and works with Free Software where possible, including the mentioned webDav, HTML5, [Open Collaboration Services](http://www.freedesktop.org/wiki/Specifications/open-collaboration-services) and [Ampache](http://ampache.org/).  An access library for applications, to offer better integration with ownCloud, is already available and part of the latest openSUSE.
 
@@ -73,7 +74,7 @@ Above and beyond iCloud, work is going on in ownCloud to offer versioning of all
 ### Upcoming
 
 
-And more is [coming in ownCloud 2.0](http://owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html), scheduled for later this year. The UI has been completely redesigned and there is now media support to play audio and video via the web interface. The mentioned Ampache support, developed by Robin Appelman, will have a nice effect: the awesome [Tomahawk music player](http://tomahawk-player.org/) we [mentioned yesterday](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/) has Ampache support and thus will be able to play music directly from your ownCloud 2.0 server!
+And more is [coming in ownCloud 2.0](http://owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html), scheduled for later this year. The UI has been completely redesigned and there is now media support to play audio and video via the web interface. The mentioned Ampache support, developed by Robin Appelman, will have a nice effect: the awesome [Tomahawk music player](http://tomahawk-player.org/) we [mentioned yesterday](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/) has Ampache support and thus will be able to play music directly from your ownCloud 2.0 server!
 
 Moreover, user management has been improved as well, and you will be able to extend ownCloud with new functionality via apps and plugins! Finally, ownCloud aims to support not only Chromium and Firefox but also lesser used browsers like Konqueror. A really exciting feature is being worked on by a [GSOC](http://code.google.com/soc/) student: git versioning of files! There is some UI work to be done, which will then allow you to go back in time and see earlier versions of your files.
 
@@ -117,7 +118,7 @@ However, your ownCloud can be had easier. You can use the excellent [ownCloud-in
 
 If running your own Appliance on EC2, another provider or your own hardware is still a tad complicated, there is an even easier option: [packagecloud.com](https://www.packagecloud.com/?au=owncloud). They offer ownCloud hosting (including a free option, yup) with their convenient web interface. Yes, again, full control over your own data and easy to use.
 
-[![owncloud_studio]({{ site.baseurl }}/assets/owncloud_studio-300x173.png)](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/owncloud_studio/)
+[![owncloud_studio](/wp-content/uploads/2011/06/owncloud_studio.png)](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/owncloud_studio/)
 
 
 ### Helping out
@@ -135,4 +136,4 @@ Frank closes his blog with:
 <blockquote>I think ownCloud has the potential to become the cloud storage solution for people who donÂ´t like vendor lock-ins and care about freedom and privacy</blockquote>
 
 
-We would like to go a step further and claim that the wide variety of hosting options for ownCloud offers not only more security and privacy but also far more flexibility and, in time, lower prices than what Google, Apple, Microsoft and the other 'big boys' bring to the table. Combined with the excellent integration openSUSE desktops already offer with online services, openSUSE has a sunny future in the cloud.		
+We would like to go a step further and claim that the wide variety of hosting options for ownCloud offers not only more security and privacy but also far more flexibility and, in time, lower prices than what Google, Apple, Microsoft and the other 'big boys' bring to the table. Combined with the excellent integration openSUSE desktops already offer with online services, openSUSE has a sunny future in the cloud.

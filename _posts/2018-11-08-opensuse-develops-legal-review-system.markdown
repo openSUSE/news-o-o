@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-11-08 10:05:00+00:00
 layout: post
 link: https://news.opensuse.org/2018/11/08/opensuse-develops-legal-review-system/
-title: "openSUSE Develops Legal Review System"
+slug: opensuse-develops-legal-review-system
+title: openSUSE Develops Legal Review System
+wordpress_id: 21355
 categories:
 - Announcements
 - Build Service
@@ -38,7 +41,8 @@ tags:
 - suse
 - system
 ---
-![]({{ site.baseurl }}/assets/legaldb-300x251.png)The open-source community has a new project designed to help Linux/GNU distributions with the legal review process of licenses.
+
+![](/wp-content/uploads/2018/11/legaldb.png)The open-source community has a new project designed to help Linux/GNU distributions with the legal review process of licenses.
 
 The new project called [Cavil](https://github.com/openSUSE/cavil) is legal review system that is collectively beneficial not only for the Â [openSUSE Project](https://www.opensuse.org/), but distributions and projects that want to use it.
 
@@ -54,4 +58,4 @@ The legal Data Base used by SUSE to generate reports with new license patterns Â
 
 Like [openQA](http://open.qa/), [Cavil](https://github.com/openSUSE/cavil) is written in Perl, with [Mojolicious/Minion](https://mojolicious.org) and [PostgreSQL](https://www.postgresql.org/).
 
-A quick look at the statistics about the content of the legal database showed the most popular open source licenses were GPL-2.0, BSD-3-Clause, GPL-Unspecified and MIT respectively.		
+A quick look at the statistics about the content of the legal database showed the most popular open source licenses were GPL-2.0, BSD-3-Clause, GPL-Unspecified and MIT respectively.

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-17 09:42:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/17/plan-a-community-release-party-for-opensuse-leap-42-3/
-title: "Plan A Community Release Party for openSUSE Leap 42.3"
+slug: plan-a-community-release-party-for-opensuse-leap-42-3
+title: Plan A Community Release Party for openSUSE Leap 42.3
+wordpress_id: 20504
 categories:
 - Announcements
 - Leap
@@ -12,7 +14,8 @@ categories:
 tags:
 - release party
 ---
-![]({{ site.baseurl }}/assets/cake-300x169.jpeg)Many people are anxiously awaiting for the release of [openSUSE](https://www.opensuse.org/) Leap 42.3 next week, but before the release arrives, you can prepare for a Release Party to celebrate the upcoming achievement with members of the open-source and openSUSE community.
+
+![](/wp-content/uploads/2017/07/cake.jpeg)Many people are anxiously awaiting for the release of [openSUSE](https://www.opensuse.org/) Leap 42.3 next week, but before the release arrives, you can prepare for a Release Party to celebrate the upcoming achievement with members of the open-source and openSUSE community.
 
 Host your own Release Party. If you don’t know how to do this, there is a list of [five steps to have a successful release party](https://en.opensuse.org/openSUSE:Launch_party_HOWTO). Plus more details are listed below on how to have a fantastic party.
 
@@ -55,4 +58,4 @@ Bring one or more cameras to take pictures or videos and post them to social med
 
 PromoDVDs, webcam covers and stickers – If we can get it to you without too much red tape from governments, we will; just email ddemaio (at) suse.de with Release Party.
 
-IMPORTANT TIP: Schedule your [ release party](https://en.opensuse.org/openSUSE:Launch_parties) on the wiki and have a lot of fun!		
+IMPORTANT TIP: Schedule your [ release party](https://en.opensuse.org/openSUSE:Launch_parties) on the wiki and have a lot of fun!

@@ -1,14 +1,17 @@
 ---
 author: Richard Brown
+comments: true
 date: 2014-09-17 08:37:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/09/17/statement-on-the-recent-merger-announcement/
-title: "Statement on the recent Merger announcement"
+slug: statement-on-the-recent-merger-announcement
+title: Statement on the recent Merger announcement
+wordpress_id: 18549
 categories:
 - Announcements
 - Project
 ---
+
 Dear openSUSE Community,
 
 As you might be aware, SUSE's parent entity, the Attachmate Group has entered into an agreement to merge into Micro Focus, a UK-based enterprise software company. As the primary sponsor of the openSUSE Project, SUSE's President and General Manager, Nils Brauckmann has contacted the openSUSE Board to share the following key points
@@ -54,4 +57,4 @@ If anyone has any questions, there will be an opportunity to raise them at today
 
 Regards,
 
-The openSUSE Board		
+The openSUSE Board

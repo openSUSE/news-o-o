@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-05-19 17:09:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/05/19/moblin-v20-beta-on-opensuse/
-title: "Moblin v2.0 Beta on openSUSE"
+slug: moblin-v20-beta-on-opensuse
+title: Moblin v2.0 Beta on openSUSE
+wordpress_id: 1668
 categories:
 - Announcements
 ---
+
 Today Intel and the Linux Foundation released a [technology preview of the Moblin v2 beta](http://www.linux-foundation.org/weblogs/jzemlin/2009/05/19/moblin-v20-beta-calling-developers-to-work-on-the-next-big-thing/), including the Moblin User Interface (UI) that is optimized for netbooks. To give a sneak preview of the future of Linux on mobile devices, the openSUSE Project is providing a preview release of the Moblin UI on top of openSUSE.
 
 To get a feel for the Moblin UI, we're providing [installable ISO](http://forgeftp.novell.com/moblin/iso/) and USB images, as well as screenshots of the Moblin interface. As you can see from the screenshots, the new UI makes the most of the netbook form factor while providing a rich user interface that's easy to use.
@@ -26,4 +29,3 @@ The current release is targeted at Intel Atom-based Netbooks and may or may not 
 For a look at the UI, hit the Flickr [set](http://www.flickr.com/photos/jzb/sets/72157618396733781/) or slideshow below:
 
 
-		

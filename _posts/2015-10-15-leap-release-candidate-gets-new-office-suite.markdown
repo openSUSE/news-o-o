@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-10-15 14:06:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/10/15/leap-release-candidate-gets-new-office-suite/
-title: "Leap Release Candidate gets new office suite"
+slug: leap-release-candidate-gets-new-office-suite
+title: Leap Release Candidate gets new office suite
+wordpress_id: 19527
 categories:
 - Leap
 ---
-[![Leap-green]({{ site.baseurl }}/assets/Leap-green-222x300.png)]({{ site.baseurl }}/assets/Leap-green.png)The [Release Candidate (RC1)](https://software.opensuse.org/developer/en?release=developer) of [Leap 42.1](https://en.opensuse.org/Portal:42.1) is out and with it comes more packages as well as  a new office suite.
+
+[![Leap-green](/wp-content/uploads/2015/10/Leap-green.png)](/wp-content/uploads/2015/10/Leap-green.png)The [Release Candidate (RC1)](https://software.opensuse.org/developer/en?release=developer) of [Leap 42.1](https://en.opensuse.org/Portal:42.1) is out and with it comes more packages as well as  a new office suite.
 
 [LibreOffice 5](https://www.libreoffice.org) is in the RC1 and about 400 more packages made it in the RC1 release, which were not in the Beta.
 
@@ -24,4 +27,4 @@ There are about 70 bugs in Leap, but some are older, known bugs. KDE has many o
 
 The Goldmaster is scheduled for Oct. 30, so translations, release notes and localization of the release should be completed by Oct. 30.
 
-Journalists and bloggers should contact [ddemaio@suse.com](mailto:ddemaio@suse.com) to test the Goldmaster prior to the release on Nov. 4.		
+Journalists and bloggers should contact [ddemaio@suse.com](mailto:ddemaio@suse.com) to test the Goldmaster prior to the release on Nov. 4.

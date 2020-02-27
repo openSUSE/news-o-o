@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-04-30 12:20:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/04/30/syslog-ng-vs-systemds-journald/
-title: "syslog-ng vs. systemd’s journald"
+slug: syslog-ng-vs-systemds-journald
+title: syslog-ng vs. systemd’s journald
+wordpress_id: 20828
 categories:
 - Announcements
 - Leap
@@ -27,9 +29,10 @@ tags:
 - systemd
 - Tumbleweed
 ---
-![]({{ site.baseurl }}/assets/Leap-green-254x300.png)
 
-![]({{ site.baseurl }}/assets/openSUSE-300x225.png)
+![](/wp-content/uploads/2016/04/Leap-green.png)
+
+![](/wp-content/uploads/2016/03/openSUSE.png)
 
 This blog is part of a series of technical blogs leading up to the release of [openSUSE Leap 15](https://en.opensuse.org/Portal:15.0). All of the blogs provide a use case regarding [openSUSE Leap](https://en.opensuse.org/Portal:Leap) and the packages available in the distribution. Happy reading.
 
@@ -69,4 +72,4 @@ journald also has some central logging capabilities, but syslog-ng provides a lo
 
 <!-- more -->The vast majority of these features are accessible in the core syslog-ng package in [Leap](https://en.opensuse.org/Portal:Leap) and [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) with just a single “_zypper in syslog-ng_”. If a feature requires an additional dependency – like GeoIP –, the required module is available as a subpackage. In the case of GeoIP, that would be _syslog-ng-geoip_.
 
-If you have questions or comments related to syslog-ng, do not hesitate to contact the upstream developers. You can reach us by email or you can even chat with us. For a list of possibilities, check our Github page under the “Community” section at[https://github.com/balabit/syslog-ng](https://github.com/balabit/syslog-ng). On Twitter, I am available as [@PCzanik](https://twitter.com/PCzanik).		
+If you have questions or comments related to syslog-ng, do not hesitate to contact the upstream developers. You can reach us by email or you can even chat with us. For a list of possibilities, check our Github page under the “Community” section at[https://github.com/balabit/syslog-ng](https://github.com/balabit/syslog-ng). On Twitter, I am available as [@PCzanik](https://twitter.com/PCzanik).

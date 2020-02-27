@@ -1,31 +1,34 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-11-20 22:49:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/11/20/opensuse-at-linuxcon/
-title: "openSUSE at LinuxCon"
+slug: opensuse-at-linuxcon
+title: openSUSE at LinuxCon
+wordpress_id: 14586
 categories:
 - Events
 - Project
 ---
+
 Two weeks ago, openSUSE Ambassadors Ilias and Diomidis joined the SUSE crew at LinuxCon in Barcelona, Spain, to represent the Geeko to the visitors of this conference. As most ambassadors do, they wrote an excellent report about the event which we didn't want you all to miss. To give you a taste of the event, Ilias send the report with the following comment: "it was an amazing experience for me and Diomidis." Read on for more details!<!-- more -->
 
-(https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5807999670170728562) Booth after setting it up (with us in it)
+[caption id="attachment_14594" align="alignright" width="300"][![Booth after setting it up (with us in it)](//news.opensuse.org/wp-content/uploads/2012/11/PB050115.jpg)](https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5807999670170728562) Booth after setting it up (with us in it)[/caption]
 
 
 
 ## Introduction
 
 
-The openSUSE Project participated at LinuxCon Europe 2012 (05-08 Nov 2012), sharing booth space with SUSE. Two ambassadors ([Zoumpis](http://www.zoumpis.eu/),[Diomidis](http://en.opensuse.org/User:Diomidis)] were there to represent the openSUSE Community during the conference. Let™s see what happened there!
+The openSUSE Project participated at LinuxCon Europe 2012 (05-08 Nov 2012), sharing booth space with SUSE. Two ambassadors ([Zoumpis](http://www.zoumpis.eu/),[Diomidis](http://en.opensuse.org/User:Diomidis)] were there to represent the openSUSE Community during the conference. Letâ€™s see what happened there!
 
 
 
 ## Pre conference Day
 
 
-On Sunday evening we made our first visit at the Linuxcon Venue. Our first mission was to visit the registration desk and get our ID™s and T-Shirts, then we went to the co-hosted (SUSE/openSUSE) booth and started to unpack the SUSE goodies. Allan Clark, who organized the SUSE attendance at the event, also joined us to help with the booth setup.
+On Sunday evening we made our first visit at the Linuxcon Venue. Our first mission was to visit the registration desk and get our IDâ€™s and T-Shirts, then we went to the co-hosted (SUSE/openSUSE) booth and started to unpack the SUSE goodies. Allan Clark, who organized the SUSE attendance at the event, also joined us to help with the booth setup.
 
 
 
@@ -33,9 +36,9 @@ On Sunday evening we made our first visit at the Linuxcon Venue. Our first missi
 
 
 Our day started early, at 7.30 am. We went directly to Hotel Fira Palace, where the LinuxCon was hosted and we prepared the booth. We attended the morning keynotes: [Advancing the User Experience](http://linuxconeurope2012.sched.org/event/a6a44d86215d0bdf0799c67a30cb59e6?iframe=no&w=900&sidebar=yes&bg=no#.UJvYiXlg6co) by Mark Suttleworth and 
-[Why Evernote runs their own Linux servers instead of The Cloud](http://linuxconeurope2012.sched.org/event/0ee5d5a648edf63b1a58eff9dfad5ee5?iframe=no&w=900&sidebar=yes&bg=no#.UJvZlXlg6co) by Dave Engberg.
+[Why Evernote runs their own Linux servers instead of â€œThe Cloudâ€](http://linuxconeurope2012.sched.org/event/0ee5d5a648edf63b1a58eff9dfad5ee5?iframe=no&w=900&sidebar=yes&bg=no#.UJvZlXlg6co) by Dave Engberg.
 
-We didn™t attend more presentations than the above because we had to be at the booth. At the booth our main job was to welcome, assist and help the visitors. Also we had the biggest promo staff give away on Monday. openSUSE dvd™s, hats, stickers, lighters, openSUSE Community flyers and USB sticks. Finally we had a contest for winning 4 SUSE laptop bags and the draw took place on Wednesday.
+We didnâ€™t attend more presentations than the above because we had to be at the booth. At the booth our main job was to welcome, assist and help the visitors. Also we had the biggest promo staff give away on Monday. openSUSE dvdâ€™s, hats, stickers, lighters, openSUSE Community flyers and USB sticks. Finally we had a contest for winning 4 SUSE laptop bags and the draw took place on Wednesday.
 
 
 
@@ -62,7 +65,7 @@ The feedback we got from the conference attendees was very good and friendly abo
 
 Furthermore we got very good and promising feedback about the Open Build Service (OBS). We also went to a few presentations: [Open Source Community Metrics : Tips and Techniques for Measuring Participation](http://linuxconeurope2012.sched.org/event/8b66873c980904ee76d9b2ee3f2fa29e?iframe=no&w=900&sidebar=yes&bg=no#.UJvZFHlg6co) by Down Foster (Puppet Labs) and [The Giant IT Vending Machine](http://linuxconeurope2012.sched.org/event/831de004b8678741785cf09b4d73264c?iframe=no&w=900&sidebar=yes&bg=no#.UJvZZnlg6co)by Daniel Roberts Ridruejo (BitNami)
 
-(https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5808000893952588258) Ralf Flaxa, SUSE's VP of engineering talks at LinuxCon
+[caption id="attachment_14595" align="alignright" width="300"][![Ralf Flaxa, SUSE's VP of engineering talks at LinuxCon](//news.opensuse.org/wp-content/uploads/2012/11/PB060143.jpg)](https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5808000893952588258) Ralf Flaxa, SUSE's VP of engineering talks at LinuxCon[/caption]
 
 
 
@@ -77,7 +80,7 @@ he first day we (me and Diomidis) were at the openSUSE booth , but we attended t
 
 This time, we went to way more presentations, of course.
 
-(https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5809296830237975874) Meeting famous people (yes, that is Linus)
+[caption id="attachment_14596" align="alignright" width="300"][![Meeting famous people (yes, that is Linus)](//news.opensuse.org/wp-content/uploads/2012/11/PB070182.jpg)](https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585/5809296830237975874) Meeting famous people (yes, that is Linus)[/caption]
 
 
 
@@ -100,10 +103,10 @@ As there was no booth we were free to attend any of the presentations that were 
 ## Conclusion
 
 
-Now we have so many things to share, many good memories and so much enthusiasm to pass to you openSUSE community people. But let's keep it short: LinuxCon is one of the best experiences that a Linux fan/developer/user etc can get. Motivational speeches, enthusiastic people talking about open software and hardware, workshops from top-tier developers around the world, literally **EVERYTHING** about Linux and it™s derivatives. Embedded devices and yocto were probably most visible. All we can say its that going to LinuxCon was a dream that became true for us!!
+Now we have so many things to share, many good memories and so much enthusiasm to pass to you openSUSE community people. But let's keep it short: LinuxCon is one of the best experiences that a Linux fan/developer/user etc can get. Motivational speeches, enthusiastic people talking about open software and hardware, workshops from top-tier developers around the world, literally **EVERYTHING** about Linux and itâ€™s derivatives. Embedded devices and yocto were probably most visible. All we can say its that going to LinuxCon was a dream that became true for us!!
 
 [Here you can find photos of the conference](https://plus.google.com/photos/114050975028455021748/albums/5807999003949295585?authkey=CIfb5uLC0rWhZQ) and [here are some more](http://www.flickr.com/photos/13825348@N03/sets/72157632014371035/).
 
 _Report by_
 Athanasios-Ilias Rousinopoulos (aka zoumpis)
-Diomidis Anadiotis		
+Diomidis Anadiotis

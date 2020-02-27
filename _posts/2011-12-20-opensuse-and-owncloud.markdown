@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-12-20 10:07:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/
-title: "openSUSE and ownCloud"
+slug: opensuse-and-owncloud
+title: openSUSE and ownCloud
+wordpress_id: 11745
 categories:
 - Distribution
 ---
-[![ownCloud logo]({{ site.baseurl }}/assets/owncloud-logo-300x148.png)](https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloud-logo-2/)
+
+[![ownCloud logo](/wp-content/uploads/2011/11/owncloud-logo.png)](http://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloud-logo-2/)
 
 openSUSE 12.1 has been released a few weeks ago. A major new technology we introduce in this release is ownCloud, which we ship [in a separate repository](https://build.opensuse.org/project/show?project=server%3Aphp%3Aapplications). ownCloud is a web application which lets you set up your own cloud - a place for you data where you can share it with others or use it over multiple devices. As YOU will own the data, it's great from a privacy and security point of view.
 
@@ -35,7 +38,7 @@ But where is the data? Well, you can't answer that question, because the only th
 
 But wait, isn't the data a very valuable thing for you? So you'd better control where its going, right? You do not want to push it to a server of a company from abroad where not even your countries laws work. And, even if you decide to delete your data, how can you be sure that the data is really going to be deleted? Maybe its just removed from the view you have on it... And who guarantees your data is not sold to the highest bidder?
 
-[![Credit to XKCD for the great joke :D]({{ site.baseurl }}/assets/the_cloud.png)](https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/the_cloud/)
+[![Credit to XKCD for the great joke :D](/wp-content/uploads/2011/11/the_cloud.png)](http://news.opensuse.org/2011/12/20/opensuse-and-owncloud/the_cloud/)
 
 You need a cloud that is controlled by **you**.
 
@@ -45,11 +48,11 @@ You need a cloud that is controlled by **you**.
 
 The freedom of software and data is very valuable to the openSUSE Project and we would like to help you escape the deceptive arms of those who offer you some convenience in exchange for control over your data. A first step was providing [spideroak](http://spideroak.com) in openSUSE 11.4 which, unlike most competitors, [encrypts your files](https://spideroak.com/whyspideroak#privacy) and thus offers more protection for your privacy. But your data is still 'somewhere else' and we prefer to offer something you would really _own_.
 
-(https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloudmusicas/)
+[caption id="attachment_11876" align="alignright" width="300" caption="ownCloud serving music"][![](/wp-content/uploads/2011/11/owncloudMusicas.png)](http://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloudmusicas/)[/caption]
 
 Fortunately there is a very appealing solution for that called ownCloud. This project, started two years ago by Frank Karlitschek as a part of the KDE family (but in no way limited to KDE users), offers a very up-to-date, slim but extendable and standard based cloud web app. Written in PHP and without difficult dependencies it installs on nearly every web space, even the cheapest one.
 
-Just a week ago, Frank [announced the start of ownCloud Inc.](http://blog.karlitschek.de/2011/12/owncloud-inc-and-owncloud-community.html) which "will help _[the ownCloud team]_ to spread ownCloud and free cloud services in general “ way more than we could have done without". This will bring additional resources to ownCloud development, making it the most promising Free Software solution for protecting your Freedom in the cloud!
+Just a week ago, Frank [announced the start of ownCloud Inc.](http://blog.karlitschek.de/2011/12/owncloud-inc-and-owncloud-community.html) which "will help _[the ownCloud team]_ to spread ownCloud and free cloud services in general â€“ way more than we could have done without". This will bring additional resources to ownCloud development, making it the most promising Free Software solution for protecting your Freedom in the cloud!
 
 
 ### Vision of Integration between openSUSE and ownCloud
@@ -59,7 +62,7 @@ We want to integrate the ownCloud as good as we can into the openSUSE desktop to
 
 First, it should be very easy to install an ownCloud. Webapps can be ugly to install for not so experienced users, but should you bother? The idea is to have an installation on either your local machine, a machine in your local network behind a firewall or on your domain just a few clicks away. If you want to remove it again, the de-installation should again be dead easy. This includes of course the wiping of the data which was on the cloud.
 
-(https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloud2-2/)
+[caption id="attachment_11866" align="alignright" width="300" caption="ownCloud and GNOME Calendar"][![](/wp-content/uploads/2011/11/owncloud2.png)](http://news.opensuse.org/2011/12/20/opensuse-and-owncloud/owncloud2-2/)[/caption]
 
 Second, you might want to move your cloud. Lets say you worked with a local installation and like your ownCloud. Now you want to push it to the internet. That also should be just a few clicks, including all the data you already maintain in your ownCloud.
 
@@ -67,7 +70,7 @@ Furthermore, ownCloud will integrate into desktop applications where useful, for
 
 All data you work with in the desktop apps should also be accessible via the ownCloud web interface in case you travel.
 
-[![Click to install mirall]({{ site.baseurl }}/assets/Oneclick.png)](http://software.opensuse.org/ymp/openSUSE:12.1:Update:Test/standard/mirall.ymp?base=openSUSE%3A12.1&query=mirall)
+[![Click to install mirall](/wp-content/uploads/2011/11/Oneclick.png)](http://software.opensuse.org/ymp/openSUSE:12.1:Update:Test/standard/mirall.ymp?base=openSUSE%3A12.1&query=mirall)
 
 
 ### Mirall
@@ -75,7 +78,7 @@ All data you work with in the desktop apps should also be accessible via the own
 
 As a starting point of integration openSUSE has a tool called mirall. It was started by Duncan Mac Vicar and extended by Klaas Freitag in a SUSE hackweeks to implement the described vision. The first and foremost target with mirall is to provide a very easy to use tool for un-experienced users which hides the complex client/server issues from its users completely.
 
-[![creating a new ownCloud]({{ site.baseurl }}/assets/creating-a-new-ownCloud-300x266.png)](https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/creating-a-new-owncloud/)
+[![creating a new ownCloud](/wp-content/uploads/2011/11/creating-a-new-ownCloud.png)](http://news.opensuse.org/2011/12/20/opensuse-and-owncloud/creating-a-new-owncloud/)
 
 Mirall starts in the system tray on your desktop and if you click on it, it checks if your system is already connected to an ownCloud. If not, it offers you to either connect to an existing ownCloud by providing a URL and credentials or if you want to install a new ownCloud.
 
@@ -93,7 +96,7 @@ ownCloud currently offers webDAV as file interface solution. As webDAV is a well
 
 mirall offers a partial solution to this, offering the files for off-line use and providing basic syncing. But this syncing does NOT take place on the file level! When the online ownCloud offers newer files than the local one, mirall will notify the user but only offer the choice of replacing the local files with the ones from ownCloud or the other way around. It does not know which files have changed. This is due to the limitations of the webDAV protocol. We do expect ownCloud to work around this and provide more advanced syncing possibilities in the future but it is a complicated problem and there is no solution yet. If you happen to be interested in syncing algorithms and want to help us find a creative way around this limitation, [get in contact](http://owncloud.org/contact/)!
 
-[![choose an express folder]({{ site.baseurl }}/assets/choose-a-express-folder-1-300x291.png)](https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/choose-a-express-folder-1/)
+[![choose an express folder](/wp-content/uploads/2011/11/choose-a-express-folder-1.png)](http://news.opensuse.org/2011/12/20/opensuse-and-owncloud/choose-a-express-folder-1/)
 
 
 #### How mirall works around this limitation
@@ -115,7 +118,7 @@ Taking this into consideration, mirall already solves a lot of the "where are my
 ## Getting ownCloud and mirall
 
 
-[![Click to install mirall]({{ site.baseurl }}/assets/Oneclick.png)](http://software.opensuse.org/ymp/openSUSE:12.1:Update:Test/standard/mirall.ymp?base=openSUSE%3A12.1&query=mirall)
+[![Click to install mirall](/wp-content/uploads/2011/11/Oneclick.png)](http://software.opensuse.org/ymp/openSUSE:12.1:Update:Test/standard/mirall.ymp?base=openSUSE%3A12.1&query=mirall)
 
 After all this reading you might want to know how to get mirall and start using it. Well, this is as easy as the proverbial pie. Installing mirall only requires you to click the one-click-install on the right and (after agreeing with the installation by giving your administrator password) starting it from the menu...
 
@@ -161,7 +164,7 @@ mirall now downloads the latest stable release from the official ownCloud page a
 
 After a successful installation, Mirall tries to create an express upload folder in your home directory named Mirall. It is automatically mirrored to the cloud. This step is skipped for security reasons if the folder already exists in your home dir.
 
-[![choose an express folder]({{ site.baseurl }}/assets/choose-an-express-folder-2-300x235.png)](https://news.opensuse.org/2011/12/20/opensuse-and-owncloud/choose-an-express-folder-2/)
+[![choose an express folder](/wp-content/uploads/2011/11/choose-an-express-folder-2.png)](http://news.opensuse.org/2011/12/20/opensuse-and-owncloud/choose-an-express-folder-2/)
 
 
 ### Express Upload Directories
@@ -201,4 +204,4 @@ The latest information about mirall usage and features can be found on the [open
 
 The plan is that mirall will continue to be developed and of course become available for more linux distributions. We hope to offer deeper integration in the desktops in openSUSE, expand on the functionality and take advantage of the other features of ownCloud like photo, music, agenda and system configuration synchronization.
 
-_Many thanks to Klaas Freitag for the extensive write-up this article is based upon (and of course the work on mirall)_		
+_Many thanks to Klaas Freitag for the extensive write-up this article is based upon (and of course the work on mirall)_

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2019-02-22 11:56:31+00:00
 layout: post
 link: https://news.opensuse.org/2019/02/22/leap-15-1-beta-pizza-party/
-title: "Leap 15.1 Beta Pizza Party"
-image: https://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg
+slug: leap-15-1-beta-pizza-party
+title: Leap 15.1 Beta Pizza Party
+wordpress_id: 21745
 categories:
 - Announcements
 - Distribution
@@ -26,7 +28,8 @@ tags:
 - testing
 - wiki
 ---
-[Prosciutto, anchovy and onion pizza.](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)
+
+[![Prosciutto, anchovy and onion pizza.](http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)
 
 
 #### Hunt for bugs & have a lot of fun!
@@ -59,4 +62,4 @@ Bugs should be reported and can be tracked via [Bugzilla](https://bugzilla.opens
 
 Discussions about openSUSE development takes place on the openSUSE Factory [mailing list](http://lists.opensuse.org/opensuse-factory).  If you want to help out, please see the wiki page on [contributing to Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory). Contributing is easy and welcomed!
 
-Have a lot of fun!		
+Have a lot of fun!

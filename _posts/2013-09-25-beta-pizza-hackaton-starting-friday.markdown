@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-09-25 17:00:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/09/25/beta-pizza-hackaton-starting-friday/
-title: "Beta Pizza Hackaton Starting Friday!"
+slug: beta-pizza-hackaton-starting-friday
+title: Beta Pizza Hackaton Starting Friday!
+wordpress_id: 16862
 categories:
 - Project
 ---
-[![pizza David Standout geekoified]({{ site.baseurl }}/assets/pizza-David-Standout-geekoified-300x225.png)](http://www.flickr.com/photos/standout/)
+
+[![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](http://www.flickr.com/photos/standout/)
 **Friday is the day**: the _Beta Pizza Hackaton_ is here.
 
 Have you already been testing the Beta? Reported bugs? Great! This Friday we'll begin to triage and fix them! There will be a concerted bugfixing frenzy, coordinated over IRC and Google hangouts, with (open)SUSE developers all over the world going through the bugs and fixing them. There are points awarded both for fixing and for triaging bugs and the top contributors can count on a prize!
@@ -23,7 +26,7 @@ Usually, the BetaPizza is as much about testing as about party. This time, we do
 
 The plan is for the various offices to have a **BetaPizza Master** taking care of both the food and the bug fixing frenzy that precedes it. Ludwig Nussel from the openSUSE Team will be Global BetaPizza Master, keeping an eye on all this. And all offices will be open for openSUSE community members to join the fun!
 
-({{ site.baseurl }}/assets/Toad-Final.png) An old toad
+[caption id="attachment_16887" align="alignright" width="283"][![An old toad](//news.opensuse.org/wp-content/uploads/2013/09/Toad-Final.png)](//news.opensuse.org/wp-content/uploads/2013/09/Toad-Final.png) An old toad[/caption]
 
 
 ### Communication and collaboration
@@ -59,7 +62,7 @@ What the prizes are will be is still a surprise ;-)
 
 
 For more information about locations, times and rooms, check the info in the [beta pizza party/hackaton wiki](https://en.opensuse.org/openSUSE:Beta_pizza_parties#Hackaton_locations). The main idea is the same everywhere: a whole day squashig, starting early in the morning and with pizza at lunch time. Since openSUSE folks are spread all over the world, that means a timeframe from Sept. 26th 22:00 UTC to Sept. 27th 22:00 UTC. Just contact your nearest BetaPizza Master and join!
-![bugs_green.png]({{ site.baseurl }}/assets/bugs_green.png)
+![bugs_green.png](//news.opensuse.org/wp-content/uploads/2007/08/bugs_green.png)
 
 
 ## About testing and fixing bugs
@@ -82,7 +85,7 @@ The process of finding and fixing bugs is rather simple:
 See [this page](https://en.opensuse.org/openSUSE:Junior_jobs#Do_Some_Bug_Fixing) for some more detail and find here the [workflow and osc commands for fixing bugs](https://en.opensuse.org/openSUSE:Fixing_bugs).
 
 We'll find out who closed what bug and award points accordingly. Note that closing a bug as duplicate or otherwise not by actually _fixing_ something is called _triaging_ and has a different number of points associated with it!
-![bugs.png]({{ site.baseurl }}/assets/bugs.png)
+![bugs.png](//news.opensuse.org/wp-content/uploads/2007/08/bugs.png)
 
 On the subject of _triaging_, this goes as follows:
 
@@ -107,4 +110,4 @@ The KDE team has an excellent page on [bug screening](https://en.opensuse.org/op
 ## Get ready...
 
 
-For Pizza, Hacking and Fun!		
+For Pizza, Hacking and Fun!

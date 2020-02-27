@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-02-27 12:15:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/02/27/opensuse-weekly-news-issue-112-is-out/
-title: "openSUSE Weekly News, Issue 112 is out!"
+slug: opensuse-weekly-news-issue-112-is-out
+title: openSUSE Weekly News, Issue 112 is out!
+wordpress_id: 2989
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 ![news](http://static.opensuse.org/images/knewsticker.png) Issue #112 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/112)!
 
 
@@ -44,4 +47,4 @@ tags:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/112/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/112/Translations).		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/112/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/112/Translations).

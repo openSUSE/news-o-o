@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2019-01-25 08:22:15+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/25/tumbleweed-gets-new-grep-linux-kernel-4-20/
-title: "Tumbleweed Gets New grep, Linux Kernel 4.20"
+slug: tumbleweed-gets-new-grep-linux-kernel-4-20
+title: Tumbleweed Gets New grep, Linux Kernel 4.20
+wordpress_id: 21627
 categories:
 - Announcements
 - Distribution
@@ -48,7 +51,8 @@ tags:
 - wireshark
 - xdgforeign
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)A total of two snapshots have arrived in [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) since last week’s article about the rolling release.
+
+![](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)A total of two snapshots have arrived in [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) since last week’s article about the rolling release.
 
 The two snapshots delivered new versions of [grep](https://www.gnu.org/savannah-checkouts/gnu/grep/manual/grep.html), [VLC](https://www.videolan.org/index.html), [KDE Applications](https://www.kde.org/announcements/announce-applications-18.12.1.php) and [Frameworks](https://www.kde.org/announcements/kde-frameworks-5.54.0.php), [Thunderbird](https://www.thunderbird.net/en-US/thunderbird/60.4.0/releasenotes/), [wireshark](https://www.wireshark.org/download.html) and more.
 
@@ -56,4 +60,4 @@ The latest snapshot, [20190121](https://lists.opensuse.org/opensuse-factory/2019
 
 The snapshot that started the week was [20190115](https://lists.opensuse.org/opensuse-factory/2019-01/msg00193.html) and it brought the 4.20.0 [Linux Kernel](https://www.kernel.org/) and Mozilla [Thunderbird 60.4.0](https://www.thunderbird.net/en-US/thunderbird/60.4.0/releasenotes/), which added WebExtensions FileLink Application Programming Interface (API) to facilitate FileLink add-ons. More than 30 performance improvements were made with the update of [grep 3.3](https://www.gnu.org/s/grep/manual/grep.html), which now diagnoses stack overflow. The [Advanced Linux Sound Architecture](https://www.alsa-project.org/)  package [alsa  1.1.8](https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture) dropped some obsolete patches and added a Unified Change Management  (UCM) setting for [Dell Edge IoT](https://www.dell.com/en-us/work/shop/gateways-embedded-computing/sf/edge-gateway) platforms. [Parser generator bison](https://www.gnu.org/software/bison/) updated to version 3.2.4. An update to [GNOME](https://www.gnome.org/)’s personal information management application [evolution](https://wiki.gnome.org/Apps/Evolution) 3.30.4 clamps GSettings values before restoring window size. A jump was make from libvirt-glib 1.0.0 to 2.0.0 and it modernize [gobject](https://developer.gnome.org/gobject/stable/) macro usage. Among notable packages updated in the snapshot were [gucharmap 11.0.3](https://wiki.gnome.org/action/show/Apps/Gucharmap?action=show&redirect=Gucharmap), [mercurial 4.8.2](https://www.mercurial-scm.org/downloads), [python-pyOpenSSL 18.0.0](https://pyopenssl.org/), [sqlite3 3.26.0](https://www.sqlite.org) and [wireshark 2.6.6](https://www.wireshark.org/download.html).
 
-Snapshot [20190115](https://lists.opensuse.org/opensuse-factory/2019-01/msg00193.html) recorded an unstable rating of 61, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20190121](https://lists.opensuse.org/opensuse-factory/2019-01/msg00370.html) is trending at as moderately stable with a rating of 78.		
+Snapshot [20190115](https://lists.opensuse.org/opensuse-factory/2019-01/msg00193.html) recorded an unstable rating of 61, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20190121](https://lists.opensuse.org/opensuse-factory/2019-01/msg00370.html) is trending at as moderately stable with a rating of 78.

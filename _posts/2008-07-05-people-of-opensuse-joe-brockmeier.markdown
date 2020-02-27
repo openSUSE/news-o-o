@@ -1,28 +1,123 @@
 ---
 author: News Team
+comments: true
 date: 2008-07-05 22:41:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/05/people-of-opensuse-joe-brockmeier/
-title: "People of openSUSE: Joe Brockmeier"
+slug: people-of-opensuse-joe-brockmeier
+title: 'People of openSUSE: Joe Brockmeier'
+wordpress_id: 934
 categories:
 - People of openSUSE
 ---
+
 For those who have been waiting for a 'People of openSUSE' interview with our openSUSE Community Manager and long time Linux and open source journalist Joe 'Zonker' Brockmeier since February, here you have it! Don't stop, keep reading ;-)
 
 <!-- more -->
 
+<table border="0" >
+<tr >
 
-![]({{ site.baseurl }}/assets/joe_brockmeier.jpg)
-|||
-|--- |--- |
-|**Nickname:**|Zonker|
-|**Homepage:**|[http://www.dissociatedpress.net/](http://www.dissociatedpress.net/)|
-|**Blog:**|[http://zonker.opensuse.org/](http://zonker.opensuse.org/)|
-|||
-|**Favorite season:**|Winter, definitely.|
-|**Motto:**|Do what you love, love what you do.|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](/wp-content/uploads/2008/07/joe_brockmeier.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >Zonker
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.dissociatedpress.net/](http://www.dissociatedpress.net/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://zonker.opensuse.org/](http://zonker.opensuse.org/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Winter, definitely.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Do what you love, love what you do.
+</td>
+
+<td >
+</td>
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -361,5 +456,3 @@ Favorite movie scene, definitely.
 
 
 Favorite band? The Beatles.
-
-		

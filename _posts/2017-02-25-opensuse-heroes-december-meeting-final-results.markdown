@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2017-02-25 18:18:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/02/25/opensuse-heroes-december-meeting-final-results/
-title: "openSUSE Heroes December meeting - final results"
+slug: opensuse-heroes-december-meeting-final-results
+title: openSUSE Heroes December meeting - final results
+wordpress_id: 20249
 categories:
 - Announcements
 - Events
@@ -18,9 +20,10 @@ tags:
 - opensuse
 - Project
 ---
+
 While we had some fun and good food and drinks, we also managed to discuss a lot during the three days in the Nuremberg headquarter. This was needed because this was the first time that the Heroes came together in their current form. In the end, we managed to do **no coding** and even (nearly) **no administration** - but instead we started to discuss our (internal and external) policies and work flows - and did some **decisions regarding the** next steps and the **future of the openSUSE infrastructure**.
 
-[![openSUSE Heroes meeting]({{ site.baseurl }}/assets/DSC_2317-300x169.jpg)]({{ site.baseurl }}/assets/DSC_2317.jpg)
+[![openSUSE Heroes meeting](/wp-content/uploads/2016/12/DSC_2317.jpg)](/wp-content/uploads/2016/12/DSC_2317.jpg)
 
 So what are our results - and how does the prioritized action item list look like?
 
@@ -192,4 +195,4 @@ Assignee
 </tr>
 </tbody>
 </table>
-There are - for sure - a lot more "TODO's" and "action items" on our list (just read [the minutes](https://lists.opensuse.org/heroes/2016-12/msg00002.html) to get an idea), but we think that we might see a big progress if we can finish the above list in a reasonable time. While we just started and can not provide much documentation or "junior jobs", yet, we are always looking for people who want to join our team and want to help. In such a case: just [get in contact](https://en.opensuse.org/openSUSE:Heroes) with us!		
+There are - for sure - a lot more "TODO's" and "action items" on our list (just read [the minutes](https://lists.opensuse.org/heroes/2016-12/msg00002.html) to get an idea), but we think that we might see a big progress if we can finish the above list in a reasonable time. While we just started and can not provide much documentation or "junior jobs", yet, we are always looking for people who want to join our team and want to help. In such a case: just [get in contact](https://en.opensuse.org/openSUSE:Heroes) with us!

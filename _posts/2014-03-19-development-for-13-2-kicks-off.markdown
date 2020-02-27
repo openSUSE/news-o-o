@@ -1,16 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2014-03-19 13:33:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/03/19/development-for-13-2-kicks-off/
-title: "Development for 13.2 Kicks Off"
+slug: development-for-13-2-kicks-off
+title: Development for 13.2 Kicks Off
+wordpress_id: 17763
 categories:
 - Announcements
 - Distribution
 ---
+
 openSUSE Factory development is going steady and our venerable release manager has made a first milestone available. No development schedule has yet been determined, although it has been decided that we will aim for a release in November of this year. Major changes include X, Y and Z.
-[![oSC14 banner]({{ site.baseurl }}/assets/720x300-300x125.jpg)](http://conference.opensuse.org)
+[![oSC14 banner](/wp-content/uploads/2014/03/720x300.jpg)](http://conference.opensuse.org)
 
 
 ## Release Plans
@@ -67,5 +70,3 @@ You can get the milestone as usual on [software.opensuse.org/developer](http://s
 
 
 # Have a lot of fun!
-
-		

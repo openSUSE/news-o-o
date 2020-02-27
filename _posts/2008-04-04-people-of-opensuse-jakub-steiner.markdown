@@ -1,30 +1,121 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-04 12:09:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/04/people-of-opensuse-jakub-steiner/
-title: "People of openSUSE: Jakub Steiner"
+slug: people-of-opensuse-jakub-steiner
+title: 'People of openSUSE: Jakub Steiner'
+wordpress_id: 718
 categories:
 - People of openSUSE
 ---
+
 Independently of how many new application features and fixes a distribution release, doesn't matter much if the distribution doesn't look great, and users know it for sure!
 
 So, today we are proud to introduce to the world one of the [openSUSE UX members team](http://en.opensuse.org/UX_Team) - Jakub Steiner.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![jakub_steiner.jpg]({{ site.baseurl }}/assets/jakub_steiner.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname(s):**|jimmac|
-|**Homepage:**|[http://jimmac.musichall.cz](http://jimmac.musichall.cz)|
-|**Blog:**|[http://jimmac.musichall.cz/log](http://jimmac.musichall.cz/log)|
-|||
-|**Favorite season:**|Any but winter.|
-|**Motto:**|"Good enough"|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![jakub_steiner.jpg](/wp-content/uploads/2008/04/jakub_steiner.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >jimmac
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://jimmac.musichall.cz](http://jimmac.musichall.cz)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://jimmac.musichall.cz/log](http://jimmac.musichall.cz/log)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Any but winter.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"Good enough"
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -222,7 +313,7 @@ I wish I would remember things. That's actually something I blame computers for.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 The whole Wiik?
@@ -294,7 +385,7 @@ With a kid, that's a highly theoretical question. Good food and nice people is w
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Exchange it to a different currency as fast as possible.
@@ -304,7 +395,7 @@ Exchange it to a different currency as fast as possible.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 I very much like it now.
@@ -314,7 +405,7 @@ I very much like it now.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Which one?
@@ -369,5 +460,3 @@ This one.
 
 Nah, I think I had enough :-) Thank you.
 
-
-		

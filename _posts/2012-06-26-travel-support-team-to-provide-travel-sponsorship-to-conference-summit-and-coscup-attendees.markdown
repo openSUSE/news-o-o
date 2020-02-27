@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-06-26 12:00:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/06/26/travel-support-team-to-provide-travel-sponsorship-to-conference-summit-and-coscup-attendees/
-title: "Travel Support Team to Provide Travel Sponsorship to Conference,\
-  \ Summit and COSCUP Attendees"
+slug: travel-support-team-to-provide-travel-sponsorship-to-conference-summit-and-coscup-attendees
+title: Travel Support Team to Provide Travel Sponsorship to Conference, Summit and
+  COSCUP Attendees
+wordpress_id: 13655
 categories:
 - Conference
 - Summit
 ---
-![By Kevin Labianco on Flickr]({{ site.baseurl }}/assets/Kevin-Labianco-300x200.jpg)
-The openSUSE Travel Support Team is happy to announce that they are ready to process applications to sponsor community members to attend the [openSUSE Summit](http://summit.opensuse.org) and the [openSUSE Conference](http://conference.opensuse.org) as well as [COSCUP](https://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/). Thanks to the sponsors of both conferences, travel budgets are available and we call out for all participants to whom costs are a significant issue to consider applying for travel support. Read on to learn more!<!-- more -->
+
+![By Kevin Labianco on Flickr](/wp-content/uploads/2012/06/Kevin-Labianco.jpg)
+The openSUSE Travel Support Team is happy to announce that they are ready to process applications to sponsor community members to attend the [openSUSE Summit](http://summit.opensuse.org) and the [openSUSE Conference](http://conference.opensuse.org) as well as [COSCUP](http://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/). Thanks to the sponsors of both conferences, travel budgets are available and we call out for all participants to whom costs are a significant issue to consider applying for travel support. Read on to learn more!<!-- more -->
 
 
 
@@ -22,7 +25,7 @@ The openSUSE Travel Support Program provides travel sponsorships to individuals 
 
 Instructions on how to apply and further information about the Travel Support Program and eligibility can be found [here](http://en.opensuse.org/openSUSE:Travel_Support_Program)
 
-![openSUSE Conference 2012 logo]({{ site.baseurl }}/assets/logo2.png)
+![openSUSE Conference 2012 logo](/wp-content/uploads/2012/06/logo2.png)
 
 
 ## The Important Dates
@@ -50,7 +53,7 @@ The openSUSE Summit will happen in Orlando, Florida - September 21-23, 2012 and 
 ## Remember
 
 
-![openSUSE Summit Logo]({{ site.baseurl }}/assets/logo3.png)
+![openSUSE Summit Logo](/wp-content/uploads/2012/06/logo3.png)
 
 
 
@@ -72,4 +75,4 @@ The openSUSE Summit will happen in Orlando, Florida - September 21-23, 2012 and 
 
 
 
-The Travel Team sends a reply upon receiving your application. We will then wait for all applicants to send in their requests for the event and only once we have a full overview, responses will be given. Please do not send personal emails, always CC the travel-support team in your replies.		
+The Travel Team sends a reply upon receiving your application. We will then wait for all applicants to send in their requests for the event and only once we have a full overview, responses will be given. Please do not send personal emails, always CC the travel-support team in your replies.

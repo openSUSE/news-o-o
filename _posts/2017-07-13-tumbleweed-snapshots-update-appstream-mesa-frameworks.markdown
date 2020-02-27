@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-13 10:14:59+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/13/tumbleweed-snapshots-update-appstream-mesa-frameworks/
-title: "Tumbleweed Snapshots Update AppStream, Mesa, Frameworks"
+slug: tumbleweed-snapshots-update-appstream-mesa-frameworks
+title: Tumbleweed Snapshots Update AppStream, Mesa, Frameworks
+wordpress_id: 20485
 categories:
 - Distribution
 - Tumbleweed
@@ -41,7 +43,8 @@ tags:
 - Tumbleweed
 - wine
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed.png)This past week’s openSUSE Tumbleweed snapshots have produced several fixes and improvements, including some for KDE users and those using AMD hardware.
+
+![](/wp-content/uploads/2015/01/Tumbleweed.png)This past week’s openSUSE Tumbleweed snapshots have produced several fixes and improvements, including some for KDE users and those using AMD hardware.
 
 Mesa 17.1.4 was among the most interesting packages in snapshot  [20170710](https://lists.opensuse.org/opensuse-factory/2017-07/msg00193.html).
 
@@ -57,4 +60,4 @@ Snapshot [20170708](https://lists.opensuse.org/opensuse-factory/2017-07/msg00158
 
 Most of the updated packages associated with the [20170706](https://lists.opensuse.org/opensuse-factory/2017-07/msg00112.html) snapshot related to KDE [Frameworks 5.35.0](https://www.kde.org/announcements/kde-frameworks-5.35.0.php). The Frameworks added VLC tray icon and a template for the Plasma QML Applet with a QML extension. Its [KCodecs](https://api.kde.org/frameworks/kcodecs/html/index.html) generates a gperf output at build time and [KIO](https://api.kde.org/frameworks/kio/html/index.html) fixed [bug 350018](https://bugs.kde.org/show_bug.cgi?id=350018) to identify [PIE](https://en.wikipedia.org/wiki/Position-independent_code) binaries (application/x-sharedlib) as executable files. An improvement was made to the 'no result' strings with the addition of gnome-characters 3.24.0. Also in the snapshot, Automake 1.15.1 provided code adapted to remove a warning present since Perl 5.22 stating that "Unescaped left brace in regex is deprecated". This warning has become an hard error in Perl 5.26.
 
-The snapshot that began the week from where we left off with the last Tumbleweed update was snapshot [20170704](https://lists.opensuse.org/opensuse-factory/2017-07/msg00099.html). That snapshot fixed a choppy bitmap font rendering with an update to [ImageMagick](https://www.imagemagick.org/) 7.0.6.0. Roman and italic fonts were updated with the adobe-sourcecodepro-fonts 2.030 package and dbus-1 1.10.20 fix a reference leak when blocking on a pending call on a connection that has been disconnected. An update to GCC7 made the tool for checking common problems in rpm packages, rpmlint, happy with a fix for the cross compiler update-alternatives machinery. Wine also had a version update in the snapshot and the open source search engine library [Xapian](https://xapian.org/) updated to version 1.4.4.		
+The snapshot that began the week from where we left off with the last Tumbleweed update was snapshot [20170704](https://lists.opensuse.org/opensuse-factory/2017-07/msg00099.html). That snapshot fixed a choppy bitmap font rendering with an update to [ImageMagick](https://www.imagemagick.org/) 7.0.6.0. Roman and italic fonts were updated with the adobe-sourcecodepro-fonts 2.030 package and dbus-1 1.10.20 fix a reference leak when blocking on a pending call on a connection that has been disconnected. An update to GCC7 made the tool for checking common problems in rpm packages, rpmlint, happy with a fix for the cross compiler update-alternatives machinery. Wine also had a version update in the snapshot and the open source search engine library [Xapian](https://xapian.org/) updated to version 1.4.4.

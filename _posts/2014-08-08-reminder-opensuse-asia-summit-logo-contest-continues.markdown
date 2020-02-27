@@ -1,17 +1,20 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-08-08 17:07:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/08/08/reminder-opensuse-asia-summit-logo-contest-continues/
-title: "REMINDER: openSUSE Asia Summit Logo Contest Continues!"
+slug: reminder-opensuse-asia-summit-logo-contest-continues
+title: 'REMINDER: openSUSE Asia Summit Logo Contest Continues!'
+wordpress_id: 18415
 categories:
 - Announcements
 - Summit
 ---
+
 Heya there geekos! As we have already reported, there's an ongoing contest for the official logo for the [openSUSE Asia Summit.](https://news.opensuse.org/2014/07/14/the-first-opensuse-asia-summit-is-announced/) You can read the announcement [here](https://news.opensuse.org/2014/07/21/opensuse-asia-summit-announces-its-logo-contest/). There have been proposals coming our way, but...
 
-...[![Terry Crews Yelling]({{ site.baseurl }}/assets/terry-crews-yelling-I-want-MOAR.jpg)]({{ site.baseurl }}/assets/terry-crews-yelling-I-want-MOAR.jpg)<!-- more -->
+...[![Terry Crews Yelling](/wp-content/uploads/2014/08/terry-crews-yelling-I-want-MOAR.jpg)](/wp-content/uploads/2014/08/terry-crews-yelling-I-want-MOAR.jpg)<!-- more -->
 
 For that reason, we're issuing a reminder for all geekos with a sense of design to help us make this summit successful as it can and should be. You won't be doing it for the sheer thrill of it, though. You can do it for the **geeko pride** of having your logo printed all over the place an all of promotional material, and, to top it off, there's a [super secret Geeko prize!](https://i.chzbgr.com/maxW500/4267944192/hA35263DC/)
 
@@ -109,6 +112,6 @@ The contest is open from now until **_Aug 18, 2014_**. After that, the openSUSE.
 
 That's about it. And remember...
 
-[![Uncle Sam]({{ site.baseurl }}/assets/unclesamF.jpeg)]({{ site.baseurl }}/assets/unclesamF.jpeg)
+[![Uncle Sam](/wp-content/uploads/2014/08/unclesamF.jpeg)](/wp-content/uploads/2014/08/unclesamF.jpeg)
 
-		
+

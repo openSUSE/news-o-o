@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-03 05:38:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/03/results-in-for-opensuse-board-elections/
-title: "Results in for openSUSE Board Elections"
+slug: results-in-for-opensuse-board-elections
+title: Results in for openSUSE Board Elections
+wordpress_id: 20837
 categories:
 - Announcements
 - Board
@@ -18,7 +20,8 @@ tags:
 - phases
 - two year term
 ---
-![]({{ site.baseurl }}/assets/openSUSE-Board-elections-4-212x300.jpg)This year’s [openSUSE Board](https://en.opensuse.org/openSUSE:Board) elections produced the longest election period in the history of the project. 
+
+![](/wp-content/uploads/2018/04/openSUSE-Board-elections-4.jpg)This year’s [openSUSE Board](https://en.opensuse.org/openSUSE:Board) elections produced the longest election period in the history of the project. 
 
 The [four phases of the election](https://en.opensuse.org/openSUSE:Board_election), which included an [application phase for new membership](https://en.opensuse.org/openSUSE:Members) in phase one, lasted almost two months.
 
@@ -60,4 +63,4 @@ There were three seats (Gertjan Lettink ((Knurpht)), Bryan Lunduke and Tomas Chv
 
 Bryan Lunduke and Tomas Chvatal, who served on the board from 2016 to 2018, did not run for re-election and Gertjan Lettink (Knurpht), who ran for the board in the 2016 elections, was re-elected to the board. 
 
-Their commitment to the project is highly appreciated by the community.		
+Their commitment to the project is highly appreciated by the community.

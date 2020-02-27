@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-03-03 06:35:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/03/03/committee-accepting-proposals-for-opensuse-asia-summit/
-title: "Committee Accepting Proposals for openSUSE.Asia Summit"
+slug: committee-accepting-proposals-for-opensuse-asia-summit
+title: Committee Accepting Proposals for openSUSE.Asia Summit
+wordpress_id: 20357
 categories:
 - Conference
 - Events
@@ -13,6 +15,7 @@ tags:
 - opensuse
 - summit
 ---
+
 ![](https://farm1.staticflickr.com/781/23555082636_a685704573_b.jpg)The openSUSE.Asia organization committee is accepting proposals to host the openSUSE.Asia Summit during the second half of 2017. The openSUSE.Asia Summit is the largest annual openSUSE conference in Asia and is attended by contributors and enthusiasts from all over Asia.
 
 The event focuses primarily on the openSUSE distribution and its applications for personal and enterprise use. It brings together the openSUSE community in Asia to provide a forum for users, developers, foundation leaders, governments and businesses to discuss the present technology and future developments.
@@ -189,4 +192,4 @@ Key points proposals should consider, and what will be taken into account when d
   10. Conclusion
 
 
-Feel free to contact [opensuse-summit@opensuse.org](mailto:opensuse-summit@opensuse.org) if you have any questions. If this excites you enough, but you are still not sure, we should talk and see if we can solve your doubts. Please help to spread the words and we are looking forward to hearing from you soon!		
+Feel free to contact [opensuse-summit@opensuse.org](mailto:opensuse-summit@opensuse.org) if you have any questions. If this excites you enough, but you are still not sure, we should talk and see if we can solve your doubts. Please help to spread the words and we are looking forward to hearing from you soon!

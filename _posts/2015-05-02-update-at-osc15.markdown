@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-05-02 10:04:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/05/02/update-at-osc15/
-title: "Update at oSC15"
+slug: update-at-osc15
+title: Update at oSC15
+wordpress_id: 19244
 categories:
 - Conference
 ---
-[![20150501_133621]({{ site.baseurl }}/assets/20150501_133621-300x169.jpg)]({{ site.baseurl }}/assets/20150501_133621.jpg)The community kicked off the first day of the [openSUSE Conference](https://events.opensuse.org/conference/osc15/schedule) in The Hague, Netherlands, with tons of exciting news about project.
+
+[![20150501_133621](/wp-content/uploads/2015/05/20150501_133621.jpg)](/wp-content/uploads/2015/05/20150501_133621.jpg)The community kicked off the first day of the [openSUSE Conference](https://events.opensuse.org/conference/osc15/schedule) in The Hague, Netherlands, with tons of exciting news about project.
 
 Keynote speaker Markus Feilner gave a brief overview of trending topics for this year’s conference.
 
@@ -20,4 +23,4 @@ The other keynote speaker, Aaron Seigo, did not disappoint; he’s a natural pub
 
 Developing FOSS empowers users, he said.
 
-[View the live-stream of the conferences](http://bambuser.com/channel/opensusetv).		
+[View the live-stream of the conferences](http://bambuser.com/channel/opensusetv).

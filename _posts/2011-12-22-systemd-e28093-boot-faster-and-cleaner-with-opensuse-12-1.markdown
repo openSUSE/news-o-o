@@ -1,16 +1,19 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2011-12-22 00:00:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/
-title: "systemd “ boot faster and cleaner with openSUSE 12.1"
+slug: systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1
+title: systemd â€“ boot faster and cleaner with openSUSE 12.1
+wordpress_id: 11751
 categories:
 - Distribution
 ---
+
 openSUSE 12.1 features systemd as a replacement for the System V init daemon. systemd provides a new and improved way of booting up your system and managing services. It comes with many new features like socket and dbus-activation, use of cgroups (control groups) and aggressive parallelization capabilities which leads to a faster boot-up of the system. Systemd also introduces a number of new features and tools for sysadmins. This article will explain what systemd does, how it does it and how to take advantage of the new possibilities it offers.
 <!-- more -->
-[![]({{ site.baseurl }}/assets/4308639792_ae11049568-300x199.jpg)](https://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4308639792_ae11049568/)
+[![](/wp-content/uploads/2011/11/4308639792_ae11049568.jpg)](http://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4308639792_ae11049568/)
 
 
 ## Booting your system and services
@@ -50,7 +53,7 @@ systemd replaces the old SysV init system, which is basically a loose collection
 
 Instead of shell scripts, systemd uses ".service" files that define various features provided by systemd, a bit like the old SysV init scripts but with an easier and more declarative syntax than bash.
 
-[![]({{ site.baseurl }}/assets/4404848273_3fcaeacf5d-300x300.jpg)](https://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4404848273_3fcaeacf5d/)
+[![](/wp-content/uploads/2011/12/4404848273_3fcaeacf5d.jpg)](http://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4404848273_3fcaeacf5d/)
 
 
 ### Dependencies and events
@@ -86,7 +89,7 @@ Let's go over some features of systemd which are relevant for 'normal' users as 
 
 Devices marked via udev rules are marked as units in systemd and their udev properties can be used as configuration sources to set dependencies for device units. systemd also maintains mount and automount points and (un)mounts devices where needed. For every automount point we have a matching mount point. To let systemd automount a device, add "comment=systemd.automount" to an fstab line option, and the mountpoint is automatically handled as a automount point. This can be used for networked filesystems nfs and cifs. /etc/fstab is used as an extra configuration for these mount points. systemd also supports target units which are logically grouped and in turn these groups can be controlled together.
 
-[![]({{ site.baseurl }}/assets/4320210414_e0b3550b1a1-300x208.jpg)](https://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4320210414_e0b3550b1a/)
+[![](/wp-content/uploads/2011/12/4320210414_e0b3550b1a1.jpg)](http://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4320210414_e0b3550b1a/)
 
 
 ### Stability and emergency features
@@ -105,7 +108,7 @@ Loaded: loaded (/etc/init.d/mysql)
 Active: active (running) since Wed, 02 Nov 2011 10:53:34 +0100; 24h ago
 Process: 3242 ExecStart=/etc/init.d/mysql start (code=exited, status=0/SUCCESS)
 CGroup: name=systemd:/system/mysql.service
-â” 3578 /bin/sh /usr/bin/mysqld_safe --mysqld=mysqld --user=mysql --pid-file=/var/run/mysql/mysqld.pid --socket=/var/ru...
+â”œ 3578 /bin/sh /usr/bin/mysqld_safe --mysqld=mysqld --user=mysql --pid-file=/var/run/mysql/mysqld.pid --socket=/var/ru...
 â”” 4191 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib64/mysql/plugin --user=mysql --lo...
 `
 What is really cool with systemctl is its tab completion. on first level for command like systemctl will show you wich action you are able to run. On second level it will show which service name you can use like `systemctl start my` will complete to `mysql.service`
@@ -155,4 +158,4 @@ You can activate a debug mode on startup by adding on the boot line:
 ## Moving backwards
 
 
-While we do not recommend anyone using sys V init on 12.1, people who wish to choose it as the default can do so by installing sysvinit-init package (it will uninstall systemd-sysvinit package) or changing their grub options. Even if you don't use systemd, don't try to uninstall its package, it might break your system. You don't need to remove systemd-sysvinit in case of emergency, if you let installed the sysvinit package you can boot with traditonnal init by adding on your boot line init=/sbin/sysvinit et voilÃ  !		
+While we do not recommend anyone using sys V init on 12.1, people who wish to choose it as the default can do so by installing sysvinit-init package (it will uninstall systemd-sysvinit package) or changing their grub options. Even if you don't use systemd, don't try to uninstall its package, it might break your system. You don't need to remove systemd-sysvinit in case of emergency, if you let installed the sysvinit package you can boot with traditonnal init by adding on your boot line init=/sbin/sysvinit et voilÃ  !

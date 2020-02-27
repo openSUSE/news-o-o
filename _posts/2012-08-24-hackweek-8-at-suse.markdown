@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-08-24 12:45:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/08/24/hackweek-8-at-suse/
-title: "Hackweek 8 at SUSE"
+slug: hackweek-8-at-suse
+title: Hackweek 8 at SUSE
+wordpress_id: 13857
 categories:
 - Announcements
 - Hack Week
 ---
-![]({{ site.baseurl }}/assets/hackweek9.png)What have the boot speed of openSUSE, a sandbox for KVM development, OpenStack, CUPS, Linux UEFI support and Enlightenment 17 to do with each other? They're among the projects SUSE engineers worked on at Hackweek 8! From the 23rd to the 27th of July, the 'normal' development and maintenance tasks at SUSE took a backseat and the developers turned their attention to the various Open Source projects they fancied working on. Past projects have resulted in awesome tools like SUSE Paste, Debian support in OBS and of course Hackweek 7 brought us ARM in OBS! Read on to find out a some projects which were worked on and a bit about the results.<!-- more -->
+
+![](/wp-content/uploads/2012/08/hackweek9.png)What have the boot speed of openSUSE, a sandbox for KVM development, OpenStack, CUPS, Linux UEFI support and Enlightenment 17 to do with each other? They're among the projects SUSE engineers worked on at Hackweek 8! From the 23rd to the 27th of July, the 'normal' development and maintenance tasks at SUSE took a backseat and the developers turned their attention to the various Open Source projects they fancied working on. Past projects have resulted in awesome tools like SUSE Paste, Debian support in OBS and of course Hackweek 7 brought us ARM in OBS! Read on to find out a some projects which were worked on and a bit about the results.<!-- more -->
 
 
 
@@ -86,7 +89,7 @@ Just a selection of projects which has been worked on this hackweek:
   * xCat cloud provisioning tool
 
 
-![]({{ site.baseurl }}/assets/hackweek10.png)
+![](/wp-content/uploads/2012/08/hackweek10.png)
 
 
 ### Blogs with moar
@@ -119,4 +122,4 @@ A number of the hackweek participants blogged about their endeavors over the las
 
 
 
-You can find video's with plans and results from Hackweek 8 on [the openSUSE TV channel on Youtube](http://www.youtube.com/user/opensusetv?feature=results_main) or on [Blip.tv](http://blip.tv/opensuse).		
+You can find video's with plans and results from Hackweek 8 on [the openSUSE TV channel on Youtube](http://www.youtube.com/user/opensusetv?feature=results_main) or on [Blip.tv](http://blip.tv/opensuse).

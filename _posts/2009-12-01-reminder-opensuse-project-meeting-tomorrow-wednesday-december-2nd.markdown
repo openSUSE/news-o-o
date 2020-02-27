@@ -1,14 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-12-01 23:43:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/12/01/reminder-opensuse-project-meeting-tomorrow-wednesday-december-2nd/
-title: "Reminder: openSUSE Project Meeting Tomorrow (Wednesday, December\
-  \ 2nd)"
+slug: reminder-opensuse-project-meeting-tomorrow-wednesday-december-2nd
+title: 'Reminder: openSUSE Project Meeting Tomorrow (Wednesday, December 2nd)'
+wordpress_id: 2569
 categories:
 - Announcements
 ---
+
 The next openSUSE Project meeting will take place tomorrow, Wednesday, December 2nd, at 12:00 UTC. The meeting time in all time zones are listed on the [Fixed Time World Clock](http://bit.ly/8KQBRg). Project meetings are always held in the #opensuse-project channel on Freenode.
 
 Please add your topics to the meeting wiki page at:
@@ -27,4 +29,4 @@ As always, we meet in #opensuse-project on Freenode. Fire up your favorite IRC c
 
 Wondering what meeting times are? [Check the openSUSE Meetings page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed there.
 
-If you're interested in how the openSUSE Project is run and want to participate, please be sure to join us on Wednesday. See you there!		
+If you're interested in how the openSUSE Project is run and want to participate, please be sure to join us on Wednesday. See you there!

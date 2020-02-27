@@ -1,18 +1,21 @@
 ---
 author: News Team
+comments: true
 date: 2008-01-18 14:28:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/01/18/announcing-opensuse-110-alpha1/
-title: "Announcing openSUSE 11.0 Alpha1"
+slug: announcing-opensuse-110-alpha1
+title: Announcing openSUSE 11.0 Alpha1
+wordpress_id: 620
 categories:
 - Distribution
 ---
+
 With the new year beginning we kick start major development into the next version of openSUSE: openSUSE 11.0 ([roadmap](http://en.opensuse.org/Roadmap)). A very early alpha version, Alpha 1, is now available for download and testing.
 
 
 
-[![openSUSE 11.0 Alpha 1 Installer]({{ site.baseurl }}/assets/installer-thumb.jpg)]({{ site.baseurl }}/assets/installer.jpg)
+[![openSUSE 11.0 Alpha 1 Installer](//news.opensuse.org/wp-content/uploads/2008/01/installer.jpg)](//news.opensuse.org/wp-content/uploads/2008/01/installer.jpg)
 More screenshots are available at [The Coding Studio](http://www.thecodingstudio.com/opensource/linux/screenshots/index.php?linux_distribution_sm=openSUSE%2011.0%20Alpha%201)
 
   
@@ -35,7 +38,7 @@ We have seen 1026 package check-ins since Alpha0 and countless bugs fixed. The m
   * [Sat Solver](http://en.opensuse.org/Libzypp/Sat_Solver) integration
 
 	
-    * Michael Schröder's "sat solver" library is now the default package solver for libzypp, so make sure you doublecheck the selected packages - there might be suprises ahead. Please note that we need test cases for things that look funny to you ([wiki link](http://en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F))
+    * Michael SchrÃ¶der's "sat solver" library is now the default package solver for libzypp, so make sure you doublecheck the selected packages - there might be suprises ahead. Please note that we need test cases for things that look funny to you ([wiki link](http://en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F))
 
 
 
@@ -118,4 +121,4 @@ Due to the huge amount of changes, there are also several noticeable bugs:
 
 Please refer to **[software.openSUSE.org/developer](http://software.opensuse.org/developer)** for direct links to all the available media.
 
-Have a lot of fun! In everyday language, we tend [https://writemyessay4me.org/](https://writemyessay4me.org/) to use irony as being synonymous with coincidentally		
+Have a lot of fun! In everyday language, we tend [https://writemyessay4me.org/](https://writemyessay4me.org/) to use irony as being synonymous with coincidentally

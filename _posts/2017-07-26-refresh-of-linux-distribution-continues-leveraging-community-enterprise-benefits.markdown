@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-26 06:12:27+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/26/refresh-of-linux-distribution-continues-leveraging-community-enterprise-benefits/
-title: "Refresh of Linux Distribution Continues Leveraging Community, Enterprise\
-  \ Benefits"
+slug: refresh-of-linux-distribution-continues-leveraging-community-enterprise-benefits
+title: Refresh of Linux Distribution Continues Leveraging Community, Enterprise Benefits
+wordpress_id: 20511
 categories:
 - Announcements
 - Distribution
@@ -47,7 +48,6 @@ tags:
 - vnc
 - yast
 ---
-
 
 
 
@@ -180,7 +180,7 @@ openSUSE Leap 42.3 represents the combined effort of thousands of developers who
 
 The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
 
-![]({{ site.baseurl }}/assets/leap-release-image-150x150.png)
+![](/wp-content/uploads/2017/07/leap-release-image.png)
 
 
 
@@ -195,5 +195,3 @@ The openSUSE Project is a worldwide community that promotes the use of Linux eve
 
 
 
-
-		

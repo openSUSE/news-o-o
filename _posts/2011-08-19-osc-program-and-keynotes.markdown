@@ -1,14 +1,17 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-08-19 13:12:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/19/osc-program-and-keynotes/
-title: "The openSUSE Conference Program and Keynote Speakers"
+slug: osc-program-and-keynotes
+title: The openSUSE Conference Program and Keynote Speakers
+wordpress_id: 10195
 categories:
 - Conference
 ---
-With our [conference](https://news.opensuse.org/2011/08/15/osc11/), osc11, fast approaching (Have you [registered](http://conference.opensuse.org/register) yet? If not, what are you waiting for?!), the excitement is building all over the project.
+
+With our [conference](http://news.opensuse.org/2011/08/15/osc11/), osc11, fast approaching (Have you [registered](http://conference.opensuse.org/register) yet? If not, what are you waiting for?!), the excitement is building all over the project.
 
 Its quite some work to get to create a reasonable schedule for a conference. For osc we want to have a program with talks that interest all our visitors. And as visitors have a wide rage of skill levels we also want to balance the depth of the talks. Another thing we wanted to create are "_gravitation centers_" for our key topics within the program. Oh and we also seek out for new contributors with our conference. And all that needs to be sorted between rooms with different sizes, within the tracks you think are useful, with breaks, time to change rooms and so on and son on. Quite some parameters to take into account. That said, we are very happy that we can announce the schedule for the openSUSE Conference 2011 today!
 
@@ -29,7 +32,7 @@ So as the schedule is done, speakers are working on their presentations and even
 
 
 
-[![Jos Poortvliet Headshot]({{ site.baseurl }}/assets/jos-150x150.jpg)](https://news.opensuse.org/2011/08/19/osc-program-and-keynotes/jos/)
+[![Jos Poortvliet Headshot](/wp-content/uploads/2011/08/jos.jpg)](http://news.opensuse.org/2011/08/19/osc-program-and-keynotes/jos/)
 
 
 
@@ -81,7 +84,7 @@ _Vojtech studied biophysics and informatics, developed autonomous robots, wrote 
 
 
 
-![Greg Kroah-Hartman](/wp-content/uploads/2011/08/gregkh.200-150x150.png)
+![Greg Kroah-Hartman](/wp-content/uploads/2011/08/gregkh.200.png)
 **Greg Kroah-Hartman**
 **Topic:** The Current State of openSUSE Tumbleweed
 **Time:** Monday 12-September-2011 -- 11:45 a.m.
@@ -92,13 +95,13 @@ _Vojtech studied biophysics and informatics, developed autonomous robots, wrote 
 Join us as Greg introduces us to what Tumbleweed is, it's goals and ambitions. It's one of our most exciting and popular initiatives within the openSUSE Project.Â With an overview of how well it is currently working, what types of packages are being added, and how to use it, you'll be sure to want to get in on the Tumbleweed Bandwagon.Â Greg will then wrap up withÂ future plans for Tumbleweed and how developers and users can get involved in moving Tumbleweed forward.
 
 
-_Greg Kroah-Hartman is a fellow at SUSE and a Linux kernel developer. He is responsible for the Linux kernel stable releases, and is the maintainer of the USB, driver core, tty, and staging portions of the kernel. In openSUSE, Greg is driving the Tumbleweed rolling-release which aims to provide a rolling updates version of the distribution containing the latest stable versions instead of relying on rigid periodic release cycles. Greg™s keynote will evolve around Linux 3.0 and other, more serious, adventures in his life._
+_Greg Kroah-Hartman is a fellow at SUSE and a Linux kernel developer. He is responsible for the Linux kernel stable releases, and is the maintainer of the USB, driver core, tty, and staging portions of the kernel. In openSUSE, Greg is driving the Tumbleweed rolling-release which aims to provide a rolling updates version of the distribution containing the latest stable versions instead of relying on rigid periodic release cycles. Gregâ€™s keynote will evolve around Linux 3.0 and other, more serious, adventures in his life._
 
 
 
 
 
-[![Michael Miller]({{ site.baseurl }}/assets/mm-150x150.jpg)](https://news.opensuse.org/2011/08/19/osc-program-and-keynotes/mm/)
+[![Michael Miller](/wp-content/uploads/2011/08/mm.jpg)](http://news.opensuse.org/2011/08/19/osc-program-and-keynotes/mm/)
 **Michael Miller**
 **Topic:** SUSE and openSUSE
 **Time:** Tuesday, 13-September-2011 -- 11:45 a.m.
@@ -119,7 +122,7 @@ _As Vice President of Global Alliances & Marketing for SUSE, Michael Miller is r
 
 
 
-![openSUSE Community Members hugging]({{ site.baseurl }}/assets/hugs-150x150.jpg)
+![openSUSE Community Members hugging](/wp-content/uploads/2011/08/hugs.jpg)
 **The openSUSE Project**
 **Title:** Wrapup Session
 **Time: **Wednesday 14-September-2011 -- 4:15 p.m
@@ -133,5 +136,3 @@ Join us for the closing session as we all gather together to reflect on the conf
 
 
 ## We hope you will enjoy the program and the keynotes at osc11. See you in September!
-
-		

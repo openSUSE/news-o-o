@@ -1,18 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2012-04-26 04:13:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/04/26/opensuse-and-gsoc-2012-good-to-go/
-title: "openSUSE and GSOC 2012: Good to Go!"
+slug: opensuse-and-gsoc-2012-good-to-go
+title: 'openSUSE and GSOC 2012: Good to Go!'
+wordpress_id: 13271
 categories:
 - Google Summer of Code
 tags:
 - gsoc
 ---
 
-
-![GSOC Geeko 2012]({{ site.baseurl }}/assets/googlesummerofcode2012-300x132.jpg)
+![GSOC Geeko 2012](/wp-content/uploads/2012/04/googlesummerofcode2012.jpg)
 Google published the list of [12 students proposals that have been accepted](http://www.google-melange.com/gsoc/org/google/gsoc2012/opensuse) for Google Summer of Code 2012 for openSUSE. It means that 12 students will be able to work full-time on changing the world this summer!<!-- more -->
 
 
@@ -61,7 +62,7 @@ But we've managed to extract 12 proposals out of the brilliance thrown at us and
     * **openSUSE Karma plugin for openSUSE Connect** -Priyanka Menghani will add a "karma" plugin to openSUSE Connect, similar to the "reputation" score on StackExchange.
 
 	
-    * **Further work on the osc2 client** -Â  Marcus Hüwe is going to continue his existing work on the next-generation osc client for the Open Build Service.
+    * **Further work on the osc2 client** -Â  Marcus HÃ¼we is going to continue his existing work on the next-generation osc client for the Open Build Service.
 
 	
     * **Popularity contest for RPM (popcorn) -** Akshit Khurana will be working on [popcorn](http://stick.gk2.sk/blog/2009/03/popcorn-popularity-contest-for-rpm/), which will be optionally installed on openSUSE systems and provide us with statistics about which packages are popular.
@@ -85,4 +86,4 @@ But we've managed to extract 12 proposals out of the brilliance thrown at us and
 ## The next steps
 
 
-Now it is time to get in touch with your community, start speaking to people around you, discuss your ideas, read documentation, code and have loads of fun!		
+Now it is time to get in touch with your community, start speaking to people around you, discuss your ideas, read documentation, code and have loads of fun!

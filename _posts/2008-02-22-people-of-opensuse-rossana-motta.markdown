@@ -1,28 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2008-02-22 12:00:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/02/22/people-of-opensuse-rossana-motta/
-title: "People of openSUSE: Rossana Motta"
+slug: people-of-opensuse-rossana-motta
+title: 'People of openSUSE: Rossana Motta'
+wordpress_id: 659
 categories:
 - People of openSUSE
 ---
+
 Continuing the 'People of openSUSE' series, this time we have the pleasure to meet openSUSE Member Rossana Motta, well-know among [SuSELinuxSupport](http://www.suselinuxsupport.de/) forum users.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![rossana_motta.jpg]({{ site.baseurl }}/assets/rossana_motta.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname(s):**|G0NZ0 on most Linux boards|
-|**Homepage:**|[http://ww2.cs.fsu.edu/~motta/](http://ww2.cs.fsu.edu/~motta/)|
-|**Blog:**|[http://fsu.facebook.com/profile.php?id=5258695](http://fsu.facebook.com/profile.php?id=5258695)|
-|||
-|**Favorite season:**|Spring - Summer... bright & warm, thats why I moved to Florida!|
-|**Motto:**|When you have everything, you have everything to lose.|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![rossana_motta.jpg](/wp-content/uploads/2008/02/rossana_motta.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >G0NZ0 on most Linux boards
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://ww2.cs.fsu.edu/~motta/](http://ww2.cs.fsu.edu/~motta/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://fsu.facebook.com/profile.php?id=5258695](http://fsu.facebook.com/profile.php?id=5258695)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring - Summer... bright & warm, thats why I moved to Florida!
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >When you have everything, you have everything to lose.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -218,7 +309,7 @@ Those of the perfect System Administrator... I would like this much better than 
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Lost! But there are some decent alternatives: sports, sun, sleep, just to mention a few.
@@ -288,7 +379,7 @@ Visit somebody, such as family or friends, that live far away.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Buy an amazing house.
@@ -298,7 +389,7 @@ Buy an amazing house.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Now and here! I'm happy to have the chance of living this Age.
@@ -308,7 +399,7 @@ Now and here! I'm happy to have the chance of living this Age.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No, I have UPS, in the worst case I will have to replace the fuse.
@@ -366,5 +457,3 @@ This is a sillly one, anyway:
 Q: "What color would you like for the next version boot splash"
 A: "Silver"
 
-
-		

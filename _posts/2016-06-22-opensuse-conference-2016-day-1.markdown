@@ -1,16 +1,19 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-06-22 15:07:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/06/22/opensuse-conference-2016-day-1/
-title: "openSUSE Conference 2016 Day 1"
+slug: opensuse-conference-2016-day-1
+title: openSUSE Conference 2016 Day 1
+wordpress_id: 19966
 tags:
 - conference
 - Leap 42.2
 - opensuse
 ---
-({{ site.baseurl }}/assets/DSC_0002-300x201.jpg) SaltStack Chief Technical Officer and technical founder Thomas Hatch talks about the evolution of Salt and IT automation at the openSUSE Conference on June 22.
+
+[caption id="attachment_19967" align="alignright" width="300"]![SaltStack Chief Technical Officer and technical founder Thomas Hatch talks about the evolution of Salt and IT automation at the openSUSE Conference on June 22. ](/wp-content/uploads/2016/06/DSC_0002.jpg) SaltStack Chief Technical Officer and technical founder Thomas Hatch talks about the evolution of Salt and IT automation at the openSUSE Conference on June 22.[/caption]
 
 The first day of this year’s openSUSE Conference went well and the  keynote speaker team of SaltStack Chief Technical Officer and technical founder [Thomas Hatch](https://saltstack.com/leadership/) along with Senior SaltStack Engineer David Boucha and SUSE’s Joe Werner showed how powerful Salt is for IT automation.
 
@@ -30,4 +33,4 @@ Closing out the day, Max Lin is talking about staging in openSUSE Factory.
 
 Tomorrow, there will be two keynote speakers. [Frank Karlitschek](http://karlitschek.de/), the founder of [Nextcloud](https://nextcloud.com/) and former co-founder of [ownCloud](https://owncloud.org/), will provide a keynote at 10 a.m. tomorrow. [Georg Greve](https://en.wikipedia.org/wiki/Georg_C._F._Greve), CEO of [Kolab Systems AG](https://kolabsystems.com/), will have a keynote in the afternoon.
 
-Those who are not able to make the openSUSE Conference can watch it live via stream at [https://streaming.media.ccc.de/osc16](https://streaming.media.ccc.de/osc16)		
+Those who are not able to make the openSUSE Conference can watch it live via stream at [https://streaming.media.ccc.de/osc16](https://streaming.media.ccc.de/osc16)

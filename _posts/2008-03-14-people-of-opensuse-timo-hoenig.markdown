@@ -1,29 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-14 12:00:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/14/people-of-opensuse-timo-hoenig/
-title: "People of openSUSE: Timo Hönig"
+slug: people-of-opensuse-timo-hoenig
+title: 'People of openSUSE: Timo HÃ¶nig'
+wordpress_id: 686
 categories:
 - People of openSUSE
 ---
-This week we feature Timo Hönig, openSUSE Mobile Device team member, mainly working on D-Bus, IAL, and KNetworkManager.
+
+This week we feature Timo HÃ¶nig, openSUSE Mobile Device team member, mainly working on D-Bus, IAL, and KNetworkManager.
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![timo_hoenig.jpg]({{ site.baseurl }}/assets/timo_hoenig.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|No nickname in real life, but I'm using 'thoenig' as nickname on IRC networks.|
-|**Homepage:**|[http://nouse.net](http://nouse.net) (not much to see there ;-)|
-|**Blog:**|[http://blog.nouse.net](http://blog.nouse.net) (it's been a while... ;-) ) Anyway, important bits of my open source stuff are being added to [http://en.opensuse/User:Thoenig](http://en.opensuse.org/User:Thoenig)|
-|||
-|**Favorite season:**|Wasn't there a fifth one? I'm not very picky about seasons and/or weather.|
-|**Motto:**|"Es gibt nichts Gutes, außer man tut es."  According to http://dict.cc it says: "Actions speak louder than words." Which is probably a little more direct than the German phrasing, but still pretty good translation.|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![timo_hoenig.jpg](/wp-content/uploads/2008/03/timo_hoenig.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >No nickname in real life, but I'm using 'thoenig' as nickname on IRC networks.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://nouse.net](http://nouse.net) (not much to see there ;-)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://blog.nouse.net](http://blog.nouse.net) (it's been a while... ;-) ) Anyway, important bits of my open source stuff are being added to [http://en.opensuse/User:Thoenig](http://en.opensuse.org/User:Thoenig)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Wasn't there a fifth one? I'm not very picky about seasons and/or weather.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"Es gibt nichts Gutes, auÃŸer man tut es."  According to http://dict.cc it says: "Actions speak louder than words." Which is probably a little more direct than the German phrasing, but still pretty good translation.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -220,7 +310,7 @@ Complete knowledge of X, so I could rewrite it. Same applies for the Kernel. And
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I'd enjoy it. The same was as I enjoy being offline when I'm on vacation. Seeing it crash would be more "interesting". Especially if it would not return after that week.
@@ -290,7 +380,7 @@ Nature, backpacking.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Traveling, building a house.
@@ -300,7 +390,7 @@ Traveling, building a house.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 John "Beatz" Holohan.
@@ -310,7 +400,7 @@ John "Beatz" Holohan.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Nope. I use laptops only. I'd probably pull out the AC.
@@ -335,7 +425,7 @@ Nope.
 
 Uh. Most recent photo on my mobile phone.
 
-![timo_hoenig_show_pic.jpg]({{ site.baseurl }}/assets/timo_hoenig_show_pic.jpg)
+![timo_hoenig_show_pic.jpg](/wp-content/uploads/2008/03/timo_hoenig_show_pic.jpg)
 
 
 
@@ -368,5 +458,3 @@ The one million dollar question.
 Q: Who's *way* more talented in doing the monkey dance than Steve Ballmer?
 A: Seife. (Wait for the FOSDEM video footage for the proof.)
 
-
-		

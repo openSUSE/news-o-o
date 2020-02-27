@@ -1,16 +1,18 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-07-08 12:35:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/07/08/the-devil-is-in-the-details/
-title: "The devil is in the details “ What changes on monday for the wiki\
-  \ oldtimers?"
+slug: the-devil-is-in-the-details
+title: The devil is in the details â€“ What changes on monday for the wiki oldtimers?
+wordpress_id: 3693
 categories:
 - Wiki
 tags:
 - wiki
 ---
+
 A couple of days ago I gave you the big picture on what will happen to en.opensuse.org on Monday when we switch to the new wiki. Now let me go into the nitty gritty details of the change to the new wiki. I especially want to focus on the changes important for the people who are familiar with the old wiki. Here we go.
 
 <!-- more -->
@@ -200,4 +202,4 @@ We want to make it as easy as possible for simple consumers that come to our pag
 ## Conclusion
 
 
-Those are the three main things that technically change on Monday. At first you have to get used to it and it may feel alien but once you have the old methods out of your system this new wiki makes things actually easier. Technically it's really no biggie for wiki contributors but it has a huge impact for the consumers of the wiki. And let's be honest we need to do a better job providing information to them **ASAP**.		
+Those are the three main things that technically change on Monday. At first you have to get used to it and it may feel alien but once you have the old methods out of your system this new wiki makes things actually easier. Technically it's really no biggie for wiki contributors but it has a huge impact for the consumers of the wiki. And let's be honest we need to do a better job providing information to them **ASAP**.

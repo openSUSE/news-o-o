@@ -1,17 +1,20 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2014-02-24 18:32:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/02/24/osc14-the-opensuse-travel-support-is-open/
-title: "oSC14 - The openSUSE Travel Support is open!"
+slug: osc14-the-opensuse-travel-support-is-open
+title: oSC14 - The openSUSE Travel Support is open!
+wordpress_id: 17643
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-[![oSC14 Logo_Final]({{ site.baseurl }}/assets/Logo_Final-255x300.png)]({{ site.baseurl }}/assets/Logo_Final.png)
+
+[![oSC14 Logo_Final](/wp-content/uploads/2014/01/Logo_Final.png)](/wp-content/uploads/2014/01/Logo_Final.png)
 
 The openSUSEÂ Conference 2014 will happen in Dubrovnic, Croatia. The TSP goal is to help everybodyÂ in and around openSUSE to be able to come to the openSUSE Conference!Â You don't have to be one of the top 10 packagers to apply - if you'reÂ translating, building a local community or helping out at the forums,Â we might still be able to offer you some support, so apply!
 
@@ -46,7 +49,7 @@ still time **_[https://conference.opensuse.org/osem/](https://conference.opensus
 - The amount requested must be detailed according to your request,Â like the airport you will be departing from, sharing hotel/hostelÂ rooms, all the costs associated with your trip.
 
 - Try to get the best fare for tickets and lodging. Remember if you areÂ approved at least 20% or more will be paid by you.
-[![Suitcase]({{ site.baseurl }}/assets/suitcase-300x227.jpg)]({{ site.baseurl }}/assets/suitcase.jpg)
+[![Suitcase](/wp-content/uploads/2013/09/suitcase.jpg)](/wp-content/uploads/2013/09/suitcase.jpg)
 **Hurry up!**
 
 Our goal is to support as many people as possible. We willÂ attempt to send the approvals before March 5th, 2014 then you can start toÂ book.
@@ -57,4 +60,4 @@ The conference is getting close and the deadline for travel support isÂ tight 
 
 Hope to see you there!
 
-_Your Travel Support Team_		
+_Your Travel Support Team_

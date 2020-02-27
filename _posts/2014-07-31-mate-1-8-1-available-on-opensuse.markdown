@@ -1,22 +1,23 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-07-31 18:31:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/31/mate-1-8-1-available-on-opensuse/
-title: "MATE 1.8.1 Available on openSUSE"
+slug: mate-1-8-1-available-on-opensuse
+title: MATE 1.8.1 Available on openSUSE
+wordpress_id: 18302
 categories:
 - Announcements
 - Distribution
 ---
-
 
 After GNOME 2.x passed the torch to GNOME 3, a lot of people started to wonder what is the perfect graphical user interface for them. Many users moved to **Xfce**, since it offers kind of a similar user experience to the late GNOME 2.x. But for those  still fond of the GNOME 2.x environment, there is a fork of GNOME 2 available, and it’s called** [MATE Desktop Environment](http://mate-desktop.org/).**
 
 
 
 
-[![mate-version]({{ site.baseurl }}/assets/mate-version-1024x682.png)]({{ site.baseurl }}/assets/mate-version.png)
+[![mate-version](/wp-content/uploads/2014/07/mate-version.png)](/wp-content/uploads/2014/07/mate-version.png)
 
 
 
@@ -95,7 +96,7 @@ The first MATE version available on openSUSE was the 1.6 incarnation, but recent
 
 
 
-[![Mate Yast]({{ site.baseurl }}/assets/yast-1024x585.png)]({{ site.baseurl }}/assets/yast.png)
+[![Mate Yast](/wp-content/uploads/2014/07/yast.png)](/wp-content/uploads/2014/07/yast.png)
 
 
 
@@ -145,5 +146,3 @@ And remember...
 
 
 ##### ...have a lot of fun!
-
-		

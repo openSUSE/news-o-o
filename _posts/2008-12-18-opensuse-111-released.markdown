@@ -1,19 +1,22 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-18 13:30:38+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/18/opensuse-111-released/
-title: "openSUSE 11.1 Released!"
+slug: opensuse-111-released
+title: openSUSE 11.1 Released!
+wordpress_id: 1123
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE Project is proud to announce the release of openSUSE 11.1. The openSUSE 11.1 release includes more than [230 new features](http://en.opensuse.org/Testing:Features_11.1), improvements to YaST, major updates to GNOME, KDE, OpenOffice.org, and more freedom with a [brand new license](http://en.opensuse.org/EULA), Liberation fonts, and openJDK. This is also the first release built entirely in the openSUSE Build Service.
 
-[![openSUSE Installer]({{ site.baseurl }}/assets/11_1-install_part2-300x250.png)]({{ site.baseurl }}/assets/11_1-install_part2.png)
+[![openSUSE Installer](//news.opensuse.org/wp-content/uploads/2008/12/11_1-install_part2.png)](//news.opensuse.org/wp-content/uploads/2008/12/11_1-install_part2.png)
 
-All of the Sneak Peeks for this release are available at on [openSUSE News](https://news.opensuse.org/category/sneak-peeks/). You can also find a bevy of [screenshots](http://en.opensuse.org/Screenshots/openSUSE_11.1), and a list of [features](http://en.opensuse.org/Featurelist_11.1) found in openSUSE 11.1. You can also find a lengthy list of packages and version numbers on [DistroWatch](http://distrowatch.com/table.php?distribution=suse).
+All of the Sneak Peeks for this release are available at on [openSUSE News](//news.opensuse.org/category/sneak-peeks/). You can also find a bevy of [screenshots](http://en.opensuse.org/Screenshots/openSUSE_11.1), and a list of [features](http://en.opensuse.org/Featurelist_11.1) found in openSUSE 11.1. You can also find a lengthy list of packages and version numbers on [DistroWatch](http://distrowatch.com/table.php?distribution=suse).
 
 Let's take a look at some of the specific additions in openSUSE 11.1!
 
@@ -31,9 +34,9 @@ GNOME has gotten a good set of improvements since the 11.0 release. GNOME 2.24.1
 
 This release also includes a brand-new release of the ever-popular Banshee. Banshee 1.4 sports support for Internet radio, compilation albums, a Now Playing window for video and audio, support for syncing to Android phones, and many other features that make Banshee an excellent multimedia player for the Linux desktop.
 
-[![GNOME Desktop]({{ site.baseurl }}/assets/800px-desktop-gnome111-300x225.png)]({{ site.baseurl }}/assets/800px-desktop-gnome111.png)
+[![GNOME Desktop](//news.opensuse.org/wp-content/uploads/2008/12/800px-desktop-gnome111.png)](//news.opensuse.org/wp-content/uploads/2008/12/800px-desktop-gnome111.png)
 
-[![GNOME Desktop Apps]({{ site.baseurl }}/assets/800px-photo_email-300x225.png)]({{ site.baseurl }}/assets/800px-photo_email.png)
+[![GNOME Desktop Apps](//news.opensuse.org/wp-content/uploads/2008/12/800px-photo_email.png)](//news.opensuse.org/wp-content/uploads/2008/12/800px-photo_email.png)
 
 
 ### What's new in KDE 4.1.3?
@@ -41,9 +44,9 @@ This release also includes a brand-new release of the ever-popular Banshee. Bans
 
 KDE 4 has a huge number of improvements since openSUSE 11.0. In this release you'll find the KDE-PIM suite back in KDE 4, new games, the KSCD CD player, KSystemLog to keep track of system changes, improvements to Dolphin, Konqueror, and Marble integration with OpenStreetMap. KDE has now standardized on PackageKit for its backend, which means both desktops are using the same update stack.
 
-[![KWin effects: cube]({{ site.baseurl }}/assets/800px-kde4-cube-300x225.png)]({{ site.baseurl }}/assets/800px-kde4-cube.png)
+[![KWin effects: cube](//news.opensuse.org/wp-content/uploads/2008/12/800px-kde4-cube.png)](//news.opensuse.org/wp-content/uploads/2008/12/800px-kde4-cube.png)
 
-[![KDE cover flow]({{ site.baseurl }}/assets/800px-cover-switch-300x225.png)]({{ site.baseurl }}/assets/800px-cover-switch.png)
+[![KDE cover flow](//news.opensuse.org/wp-content/uploads/2008/12/800px-cover-switch.png)](//news.opensuse.org/wp-content/uploads/2008/12/800px-cover-switch.png)
 
 The openSUSE KDE team has also backported some key features from KDE 4.2, including compositing features for KWin to provide more desktop effects, and auto-hiding of the panel, and power management thanks to PowerDevil.
 
@@ -145,7 +148,7 @@ We want to hear from you! The openSUSE Project has [many channels of communicati
   * Jabber, Usenet, and [more](http://en.opensuse.org/Communicate).
 
 
-To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](https://news.opensuse.org/) and watch [Planet SUSE](http://www.planetsuse.org/) for blog posts from the openSUSE community.
+To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](//news.opensuse.org/) and watch [Planet SUSE](http://www.planetsuse.org/) for blog posts from the openSUSE community.
 
 Want to help the openSUSE Project? To get involved with openSUSE see the [How to Participate](http://en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can use [lots of different skills](http://en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the project, so feel free to jump in!
 
@@ -154,4 +157,3 @@ Want to help the openSUSE Project? To get involved with openSUSE see the [How to
 
 
 openSUSE 11.1 represents the combined effort of thousands of developers who participate in openSUSE and upstream projects shipped in openSUSE. The contributors, inside and outside the openSUSE Project, should be proud of this release, and they deserve a major "thank you" for all of the hard work and care that have gone into 11.1. We hope that openSUSE 11.1 is the best openSUSE release yet, and that it will help to encourage the use of Linux everywhere! We hope that you _have a lot of fun_ while you use openSUSE 11.1, and we look forward to working with you on 11.2! People imagine all kinds of things, not [https://justdomyhomework.com/](https://justdomyhomework.com/) only about our solar system, but about the universe
-		

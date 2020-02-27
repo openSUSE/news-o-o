@@ -1,14 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-13 18:49:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/13/sneak-peeks-at-opensuse-111-improved-installation-easier-administration/
-title: "Sneak Peeks at openSUSE 11.1: Improved Installation, Easier Administration\
-  "
+slug: sneak-peeks-at-opensuse-111-improved-installation-easier-administration
+title: 'Sneak Peeks at openSUSE 11.1: Improved Installation, Easier Administration'
+wordpress_id: 1116
 categories:
 - Distribution
 ---
+
 Welcome to the first in a series of Sneak Peeks at openSUSE 11.1! With less than a week to go until the release of openSUSE 11.1,we'll be talking about the great new innovations included with openSUSE 11.1. To kick things off, we'll be discussing how most people will be kicking off their openSUSE 11.1 experience: the installer.
 
 
@@ -70,4 +72,4 @@ GNOME users will continue to use their PackageKit-based updating application.
 ### Ready for openSUSE 11.1?
 
 
-This is just the start of what's available in openSUSE 11.1! openSUSE 11.1 ships December 18th, 2008 for both download and boxed editions, so stay tuned for more Sneak Peeks and all other news about openSUSE 11.1! Ibm c2010-555 braindumps pdf and vce [https://eduessayhelper.org/](https://eduessayhelper.org/) learning methods offered by us, details can be obtained from this source		
+This is just the start of what's available in openSUSE 11.1! openSUSE 11.1 ships December 18th, 2008 for both download and boxed editions, so stay tuned for more Sneak Peeks and all other news about openSUSE 11.1! Ibm c2010-555 braindumps pdf and vce [https://eduessayhelper.org/](https://eduessayhelper.org/) learning methods offered by us, details can be obtained from this source

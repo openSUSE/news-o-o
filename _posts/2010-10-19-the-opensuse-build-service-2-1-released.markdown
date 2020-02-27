@@ -1,15 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-10-19 13:15:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/
-title: "The openSUSE Build Service 2.1 released"
+slug: the-opensuse-build-service-2-1-released
+title: The openSUSE Build Service 2.1 released
+wordpress_id: 5076
 categories:
 - Announcements
 - Build Service
 ---
-[![]({{ site.baseurl }}/assets/opensuse-buildservice-logo.png)](https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/opensuse-buildservice-logo/)
+
+[![](/wp-content/uploads/2010/10/opensuse-buildservice-logo.png)](http://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/opensuse-buildservice-logo/)
 
 
 The  openSUSE Build Service - OBS - isÂ  now officially at release 2.1. We're  delighted with the improvements inÂ  this release, including an enhanced  web interface, integration with online code management systems and  better access controls.
@@ -36,7 +39,7 @@ This iteration has enhanced the web user interface of openSUSE Build ServiceÂ 
 
 
 
-(https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-sourceservice/)
+[caption id="attachment_5077" align="alignright" width="240" caption="Source Services"][![](/wp-content/uploads/2010/10/obs21-sourceservice.png)](http://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-sourceservice/)[/caption]
 
 
 ### Integration with online source code management tools
@@ -74,7 +77,7 @@ To use the Open Source Build Service, you can access the public instance on [bui
 
 
 
-(https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-submit2/)
+[caption id="attachment_5078" align="alignright" width="350" caption="Submission to other project"][![](/wp-content/uploads/2010/10/obs21-submit2.png)](http://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-submit2/)[/caption]
 
 
 
@@ -126,5 +129,3 @@ The Build Service at [build.opensuse.org](http://build.opensuse.org) currently  
 
 
 For more information about the Build Service, check [Portal:Build_Service](http://en.opensuse.org/Portal:Build_Service).
-
-		

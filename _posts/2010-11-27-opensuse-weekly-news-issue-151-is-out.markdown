@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-11-27 19:24:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/11/27/opensuse-weekly-news-issue-151-is-out/
-title: "openSUSE Weekly News, Issue 151 is out!"
+slug: opensuse-weekly-news-issue-151-is-out
+title: openSUSE Weekly News, Issue 151 is out!
+wordpress_id: 5581
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new issue 151.
 <!-- more -->
 
@@ -41,19 +44,19 @@ We are pleased to announce our new issue 151.
 
 
 
-  * [ Novell, Attachmate and openSUSE](https://news.opensuse.org/?p=5581#Novell.2C_Attachmate_and_openSUSE)
+  * [ Novell, Attachmate and openSUSE](http://news.opensuse.org/?p=5581#Novell.2C_Attachmate_and_openSUSE)
 
 
-  * [ lex Barrios: Just a small story about my ambassador life](https://news.opensuse.org/?p=5581#lex_Barrios:_Just_a_small_story_about_my_ambassador_life)
+  * [ lex Barrios: Just a small story about my ambassador life](http://news.opensuse.org/?p=5581#lex_Barrios:_Just_a_small_story_about_my_ambassador_life)
 
 
-  * [ Linux User & Developer/Jon Masters: The Kernel Column](https://news.opensuse.org/?p=5581#Linux_User_.26_Developer.2FJon_Masters:_The_Kernel_Column)
+  * [ Linux User & Developer/Jon Masters: The Kernel Column](http://news.opensuse.org/?p=5581#Linux_User_.26_Developer.2FJon_Masters:_The_Kernel_Column)
 
 
-  * [ New Kernel speed up patch from Mike Galbraith](https://news.opensuse.org/?p=5581#New_Kernel_speed_up_patch_from_Mike_Galbraith)
+  * [ New Kernel speed up patch from Mike Galbraith](http://news.opensuse.org/?p=5581#New_Kernel_speed_up_patch_from_Mike_Galbraith)
 
 
-  * [ Anne-Marie Mahfouf (annma): Bug Squashing: preparing the 4.6 release](https://news.opensuse.org/?p=5581#Anne-Marie_Mahfouf_.28annma.29:_Bug_Squashing:_preparing_the_4.6_release)
+  * [ Anne-Marie Mahfouf (annma): Bug Squashing: preparing the 4.6 release](http://news.opensuse.org/?p=5581#Anne-Marie_Mahfouf_.28annma.29:_Bug_Squashing:_preparing_the_4.6_release)
 
 
 
@@ -74,46 +77,46 @@ We are pleased to announce our new issue 151.
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=5581#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=5581#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=5581#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=5581#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=5581#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=5581#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=5581#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=5581#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=5581#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=5581#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=5581#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=5581#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=5581#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=5581#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=5581#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=5581#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=5581#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=5581#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=5581#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=5581#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=5581#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=5581#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=5581#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=5581#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=5581#Credits)
+  * [ Credits](http://news.opensuse.org/?p=5581#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=5581#Translations)
+  * [ Translations](http://news.opensuse.org/?p=5581#Translations)
 
 
 
@@ -341,12 +344,12 @@ We hope that you will enjoy reading.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Novell, Attachmate and openSUSE](https://news.opensuse.org/2010/11/22/novell-agrees-to-be-acquired-by-attachmate-corporation/)
+####  [Novell, Attachmate and openSUSE](http://news.opensuse.org/2010/11/22/novell-agrees-to-be-acquired-by-attachmate-corporation/)
 
 
 
 
-"Is this thing on? *tap* *tap*. Good evening friends, this is your openSUSE Board speaking. If you didn™t hear yet, Novell has agreed to be acquired by Attachmate Corporation. What does that mean for the openSUSE Project? We don™t know exactly yet because our crystal ball is currently in the shop and therefore fortune-telling is not our greatest talent ;-) However, we have other talents: we are a software developer community and we™re here to work on one of the greatest GNU/Linux distributions and other world class software distribution tools to advance Free and Open Source software together with the global FOSS community! (...)" 
+"Is this thing on? *tap* *tap*. Good evening friends, this is your openSUSE Board speaking. If you didnâ€™t hear yet, Novell has agreed to be acquired by Attachmate Corporation. What does that mean for the openSUSE Project? We donâ€™t know exactly yet because our crystal ball is currently in the shop and therefore fortune-telling is not our greatest talent ;-) However, we have other talents: we are a software developer community and weâ€™re here to work on one of the greatest GNU/Linux distributions and other world class software distribution tools to advance Free and Open Source software together with the global FOSS community! (...)" 
 
 
 
@@ -377,12 +380,12 @@ We hope that you will enjoy reading.
 
 
 
-####  [Where do we need to improve?](https://news.opensuse.org/2010/11/23/where-do-we-need-to-improve/)
+####  [Where do we need to improve?](http://news.opensuse.org/2010/11/23/where-do-we-need-to-improve/)
 
 
 
 
-"Community, during our bi-weekly Board Meetings on IRC we have a regular agenda topic Where do we need to improve?. We™re very much interested in ideas you may have to improve the inner workings of the Community/Project and we also like to provide an opportunity to step up and make us aware of complaints you may have with various aspects of the Community/Project. We™re particular interested in addressing those issues that are both fast and easy to fix while providing a significant advantage to our success and the sake of our community. (...)" 
+"Community, during our bi-weekly Board Meetings on IRC we have a regular agenda topic â€œWhere do we need to improve?â€. Weâ€™re very much interested in ideas you may have to improve the inner workings of the Community/Project and we also like to provide an opportunity to step up and make us aware of complaints you may have with various aspects of the Community/Project. Weâ€™re particular interested in addressing those issues that are both fast and easy to fix while providing a significant advantage to our success and the sake of our community. (...)" 
 
 
 
@@ -487,7 +490,7 @@ We hope that you will enjoy reading.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [New signing key in openSUSE:11.3:Contrib](https://news.opensuse.org/2010/11/24/new-signing-key-in-opensuse-11-3-contrib/)
+####  [New signing key in openSUSE:11.3:Contrib](http://news.opensuse.org/2010/11/24/new-signing-key-in-opensuse-11-3-contrib/)
 
 
 
@@ -773,7 +776,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
 
 
 </td>
@@ -851,7 +854,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-"We are planning a new Rubric "In the Community/Why i™m using SUSE / openSUSE."  
+"We are planning a new Rubric "In the Community/Why iâ€™m using SUSE / openSUSE."  
 
   
 
@@ -868,12 +871,12 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Andreas Jaeger: Please note¦](http://lizards.opensuse.org/2010/11/22/please-note/)
+####  [Andreas Jaeger: Please noteâ€¦](http://lizards.opensuse.org/2010/11/22/please-note/)
 
 
 
 
-"I™m going on parental leave from December 14th to February 13th, 2011. My son was born in January and now it™s my time to help a bit more out at home. My wife has many plans for me and I have some myself as well including changing diapers, some work at the house, celebrating christmas, showing off our kids to their grandparents, aunts and uncles, getting my son settled in the daycare, building a snow man¦  
+"Iâ€™m going on parental leave from December 14th to February 13th, 2011. My son was born in January and now itâ€™s my time to help a bit more out at home. My wife has many plans for me and I have some myself as well including changing diapers, some work at the house, celebrating christmas, showing off our kids to their grandparents, aunts and uncles, getting my son settled in the daycare, building a snow manâ€¦  
 
   
 
@@ -918,7 +921,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-"Well, i know that i haven™t be so active in the last months here in lizards or the OWN but that doesn™t mean that i stop my ambassador work, and here is a small story about what i do to integrate the spread of the openSUSE word in my work.  
+"Well, i know that i havenâ€™t be so active in the last months here in lizards or the OWN but that doesnâ€™t mean that i stop my ambassador work, and here is a small story about what i do to integrate the spread of the openSUSE word in my work.  
 
   
 
@@ -966,10 +969,10 @@ Past:
 
 
 
-  * [**November 24, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**November 24, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**November 25, 2010: ï»¿openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**November 25, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
@@ -978,16 +981,16 @@ Upcoming:
 
 
 
-  * [** November 30, 2010: openSUSE Marketing Team Meeting**](https://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
+  * [** November 30, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
 
 
-  * [** December 1, 2010: openSUSE Project Meeting (12:00)**](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [** December 1, 2010: openSUSE Project Meeting (12:00)**](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 
-  * [** December 1, 2010: German Wiki Team Meeting (15:30)**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [** December 1, 2010: German Wiki Team Meeting (15:30)**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** December 1, 2010: openSUSE Board Meeting (19:00)**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [** December 1, 2010: openSUSE Board Meeting (19:00)**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
 
@@ -1001,7 +1004,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1087,11 +1090,11 @@ Upcoming:
 
 
 
-"I™m happy to announce LibreOffice 3.3 beta3 packages for openSUSE. They are available in the Build Service LibreOffice:Unstable project. They are based on the libreoffice-3.2.99.3 release. Please, look for more details about the openSUSE LibreOffice build on the wiki page.  
+"Iâ€™m happy to announce LibreOffice 3.3 beta3 packages for openSUSE. They are available in the Build Service LibreOffice:Unstable project. They are based on the libreoffice-3.2.99.3 release. Please, look for more details about the openSUSE LibreOffice build on the wiki page.  
 
   
 
- The packages are beta versions and might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, ¦ (...)" 
+ The packages are beta versions and might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, â€¦ (...)" 
 
 
 
@@ -1116,7 +1119,7 @@ Upcoming:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
 
 
 </td>
@@ -1210,7 +1213,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"This month saw the final release of kernel 2.6.36, and the closing of the following ˜merge window™ for new features to be merged into what will become the 2.6.37 kernel (more details about the latter in a moment). The 2.6.36 kernel features concurrency-managed workqueues, preliminary support for the fanotify mechanism discussed here in the past, final merging of the AppArmor security system used by some distributions for many years, and support for a new architecture, among many dozens of other significant improvements. The new kernel received patches from over 1,100 engineers for a total of nearly 11,000 changesets (collections of related changes to various kernel files) overall. (...)" 
+"This month saw the final release of kernel 2.6.36, and the closing of the following â€˜merge windowâ€™ for new features to be merged into what will become the 2.6.37 kernel (more details about the latter in a moment). The 2.6.36 kernel features concurrency-managed workqueues, preliminary support for the fanotify mechanism discussed here in the past, final merging of the AppArmor security system used by some distributions for many years, and support for a new architecture, among many dozens of other significant improvements. The new kernel received patches from over 1,100 engineers for a total of nearly 11,000 changesets (collections of related changes to various kernel files) overall. (...)" 
 
 
 
@@ -1305,20 +1308,20 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Usama Hashimi: GNU find “ A Multidimensional Tool](http://linux-blog.org/gnu-find-a-multidimensional-tool/)
+####  [Usama Hashimi: GNU find â€“ A Multidimensional Tool](http://linux-blog.org/gnu-find-a-multidimensional-tool/)
 
 
 
 
-"Beginners are mostly afraid of command prompt. Whenever they see a command prompt, they immediately say its very difficult. But it™s not true. The Command prompt is as friendly as GUI (Graphical User Interface), provided if you use it with proper procedure.  
-
-  
-
- Most people use GUI tools to search for files. They don™t realize that they can use command line tools to search for them as well! GNU ˜find™ is such like a tool which can not only search files but can even copy, move or delete these files on the fly.  
+"Beginners are mostly afraid of command prompt. Whenever they see a command prompt, they immediately say â€œits very difficultâ€. But itâ€™s not true. The Command prompt is as friendly as GUI (Graphical User Interface), provided if you use it with proper procedure.  
 
   
 
- So let™s see that how ˜find™ works." 
+ Most people use GUI tools to search for files. They donâ€™t realize that they can use command line tools to search for them as well! GNU â€˜findâ€™ is such like a tool which can not only search files but can even copy, move or delete these files on the fly.  
+
+  
+
+ So letâ€™s see that how â€˜findâ€™ works." 
 
 
 
@@ -1340,7 +1343,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"strace is a useful little utility “ installed by default on most Linux systems “ which allows you to find out what a program is doing under the hood by tracing the system calls it's making. strace is a great basic debugging tool; but it's also fascinating to use even when you're not tracing a problem. It can teach you a lot about how a Linux program works. (...)" 
+"strace is a useful little utility â€“ installed by default on most Linux systems â€“ which allows you to find out what a program is doing under the hood by tracing the system calls it's making. strace is a great basic debugging tool; but it's also fascinating to use even when you're not tracing a problem. It can teach you a lot about how a Linux program works. (...)" 
 
 
 
@@ -1398,7 +1401,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Michal HrušeckÃ½: Pasting images](http://michal.hrusecky.net/index.php/blog/show/Pasting-images.html)
+####  [Michal HruÅ¡eckÃ½: Pasting images](http://michal.hrusecky.net/index.php/blog/show/Pasting-images.html)
 
 
 
@@ -1431,11 +1434,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"In addition to supporting file system capabilities (fate#307254) I™ve also updated the permissions handling in 11.4 slightly.  
+"In addition to supporting file system capabilities (fate#307254) Iâ€™ve also updated the permissions handling in 11.4 slightly.  
 
   
 
- There have been complaints that every SuSEconfig run also calls SuSEconfig.permissions which leads to changed file permissions at unexpected times. Therefore I™ve modified SuSEconfig.permissions to only actually set permissions when called explicitly (ie SuSEconfig “module permissions). When called by a generic SuSEconfig run SuSEconfig.permissions now only shows files with wrong permissions but doesn™t actually fix them anymore. (...)" 
+ There have been complaints that every SuSEconfig run also calls SuSEconfig.permissions which leads to changed file permissions at unexpected times. Therefore Iâ€™ve modified SuSEconfig.permissions to only actually set permissions when called explicitly (ie SuSEconfig â€“module permissions). When called by a generic SuSEconfig run SuSEconfig.permissions now only shows files with wrong permissions but doesnâ€™t actually fix them anymore. (...)" 
 
 
 
@@ -1714,7 +1717,7 @@ Although the download page at [http://opensuse.org](http://opensuse.org/) contai
 
 
 
-"When thinking of an open source developer, most us of probably think of a male in his 30™s, overweight, long beard, and socially awkward. While this is just a stereotype and not a true reflection of all open source developers, there is some truth in the weight category. (...)" 
+"When thinking of an open source developer, most us of probably think of a male in his 30â€™s, overweight, long beard, and socially awkward. While this is just a stereotype and not a true reflection of all open source developers, there is some truth in the weight category. (...)" 
 
 
 
@@ -1746,7 +1749,7 @@ Although the download page at [http://opensuse.org](http://opensuse.org/) contai
 
 
 
-"So I™ve used KDE for about a work week. During that time I™ve pretty much gone to using the KDE versions of all my programs except Konqueror. I™m not sure if the Fedora 14 version of Konqueror is the one with Webkit, but last time I used Konqueror with KHTML it was mucking up a bunch of web pages including my blog. So I stuck with Google Chrome, which is what i use on Gnome, LXDE (Lubuntu on my laptop), and on my Windows 7 install. (Also, I stuck with gPodder for podcasts because that™s working perfectly) So how did it go?" 
+"So Iâ€™ve used KDE for about a work week. During that time Iâ€™ve pretty much gone to using the KDE versions of all my programs except Konqueror. Iâ€™m not sure if the Fedora 14 version of Konqueror is the one with Webkit, but last time I used Konqueror with KHTML it was mucking up a bunch of web pages including my blog. So I stuck with Google Chrome, which is what i use on Gnome, LXDE (Lubuntu on my laptop), and on my Windows 7 install. (Also, I stuck with gPodder for podcasts because thatâ€™s working perfectly) So how did it go?" 
 
 
 
@@ -1785,7 +1788,7 @@ Although the download page at [http://opensuse.org](http://opensuse.org/) contai
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?p=5581) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=5581) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -1794,7 +1797,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -1839,7 +1842,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1851,7 +1854,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Knurpht](http://en.opensuse.org/User:Knurpht) [Talk](http://en.opensuse.org/index.php?title=User_talk:Knurpht&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Knurpht) Gertjan Lettink (Forums) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -1917,7 +1920,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/151)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/151)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/151)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/151)
@@ -1959,4 +1962,3 @@ Delayed / to be translated:
 </table>
   
 
-		

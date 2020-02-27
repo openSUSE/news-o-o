@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-17 00:59:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/17/sneak-peeks-at-opensuse-110-kde-with-stephan-binner/
-title: "Sneak Peeks at openSUSE 11.0: KDE with Stephan Binner"
+slug: sneak-peeks-at-opensuse-110-kde-with-stephan-binner
+title: 'Sneak Peeks at openSUSE 11.0: KDE with Stephan Binner'
+wordpress_id: 874
 categories:
 - Distribution
 tags:
 - KDE
 ---
+
 With openSUSE 11.0 just a few days away, it's time to look at one of the stars of the show: KDE. In openSUSE 11.0, you get two KDEs for the price of one. Here we'll take a look at what's coming in KDE, and talk to one of openSUSE's KDE contributors, Stephan Binner.
 
 <!-- more -->
@@ -27,7 +30,7 @@ With openSUSE 11.0 just a few days away, it's time to look at one of the stars o
 KDE 4.0.4 is the version of KDE shipping with openSUSE 11.0. It's radically different from KDE 3.5 on the surface, as well as the technology behind the scenes. Dolphin is the default file manager, a new and simpler utility for users to manage their files. (Don't worry, Konqueror is still available for your Web browsing and advanced file management needs!)
 
 
-[![KDE 4 on openSUSE 11.0]({{ site.baseurl }}/assets/desktop4-300x225.png)]({{ site.baseurl }}/assets/desktop4.png)
+[![KDE 4 on openSUSE 11.0](/wp-content/uploads/2008/06/desktop4.png)](/wp-content/uploads/2008/06/desktop4.png)
 
 
 
@@ -50,7 +53,7 @@ KDE 4 is available on the openSUSE KDE live CD and via the DVD.
 KDE 4.0 doesn't include KDEPIM (KMail, KOrganizer, Akregrator, KNode etc.), therefore openSUSE 11.0 includes beta versions of KDEPIM applications from KDE 4.1. These applications work fairly well, and will be updated to final versions via official online updates as soon as possible.
 
 
-[![KMail]({{ site.baseurl }}/assets/kontact4-300x219.png)]({{ site.baseurl }}/assets/kontact4.png) [![Kontact To-Do]({{ site.baseurl }}/assets/kontact-todo-300x225.png)]({{ site.baseurl }}/assets/kontact-todo.png)
+[![KMail](/wp-content/uploads/2008/06/kontact4.png)](/wp-content/uploads/2008/06/kontact4.png) [![Kontact To-Do](/wp-content/uploads/2008/06/kontact-todo.png)](/wp-content/uploads/2008/06/kontact-todo.png)
 
 
 Not all KDE applications are ported to KDE4 yet, therefore KDE3 versions of applications such as Amarok, K3b, KOffice or KNetworkManager are used. They integrate pretty seamlessly. A native KDE4 NetworkManager applet is in development and will become available via openSUSE Build Service repositories.
@@ -63,7 +66,7 @@ The Aya Plasma theme is used by default. If you'd prefer the official default bl
 
 
 
-[![YaST in KDE 4]({{ site.baseurl }}/assets/yast4-300x180.png)]({{ site.baseurl }}/assets/yast4.png)
+[![YaST in KDE 4](/wp-content/uploads/2008/06/yast4.png)](/wp-content/uploads/2008/06/yast4.png)
 
 
 
@@ -76,7 +79,7 @@ _The new look of YaST_
 With all the talk about KDE 4, what about KDE 3.5? KDE 3.5 is the familiar, and stable, version of KDE that's well-known and used by the majority of openSUSE users for years. Because KDE 3.5 is so popular, we've made sure that it's available on the DVD media, via online network installation, and of course in the retail box set.
 
 
-[![KDE 3.5]({{ site.baseurl }}/assets/desktop3-300x240.png)]({{ site.baseurl }}/assets/desktop3.png)
+[![KDE 3.5](/wp-content/uploads/2008/06/desktop3.png)](/wp-content/uploads/2008/06/desktop3.png)
 
 
 
@@ -94,7 +97,7 @@ Of course KDE 3.5 in openSUSE 11.0 still boasts the host of enhancements that th
 
 **KDE 4.1**
 
-As we've already discussed, KDE 4.0 is still maturing and may lack features that experienced KDE users expect. However, KDE 4.1 will be much better in these respects and is expected to be released in late July. Shortly after the 4.1 release announcement, it will be available from the openSUSE Build Service repositories, enabling users to update via 1-click-install ” albeit not officially supported. However, if you want to run the latest and greatest from KDE, you'll be able to do so (and help testing as well!)
+As we've already discussed, KDE 4.0 is still maturing and may lack features that experienced KDE users expect. However, KDE 4.1 will be much better in these respects and is expected to be released in late July. Shortly after the 4.1 release announcement, it will be available from the openSUSE Build Service repositories, enabling users to update via 1-click-install â€” albeit not officially supported. However, if you want to run the latest and greatest from KDE, you'll be able to do so (and help testing as well!)
 
 The next openSUSE release, openSUSE 11.1, should be out in December of this year and include a thoroughly tested and well-integrated KDE 4.1.x right out of the box.
 
@@ -110,7 +113,7 @@ The next openSUSE release, openSUSE 11.1, should be out in December of this year
 
 **openSUSE News**: KDE 4.0.4 is the default KDE desktop in openSUSE. What made you decide to make it the default, instead of the more stable KDE 3.5.9?
 
-**Stephan Binner**: There is no default desktop on openSUSE: during installation from DVD you are [asked to make a choice](http://en.opensuse.org/Image:OS11.0-inst-6.jpg) ” without default. If you use one of the installable live CDs you make the choice before the download of course.
+**Stephan Binner**: There is no default desktop on openSUSE: during installation from DVD you are [asked to make a choice](http://en.opensuse.org/Image:OS11.0-inst-6.jpg) â€” without default. If you use one of the installable live CDs you make the choice before the download of course.
 
 Admitted, there exists no official live CD with KDE 3.5 (maybe someone from the community will create it?) because of resource constraints, and because we want to push people to try our KDE 4.0 based desktop. Also we want and need user feedback for the actively developed KDE series.
 
@@ -140,4 +143,4 @@ And not openSUSE related, the most popular KDE applications will become availabl
 
 * * *
 
-Thanks to Martin Schlander and Jeff Eklund for contributing to this Sneak Peek.		
+Thanks to Martin Schlander and Jeff Eklund for contributing to this Sneak Peek.

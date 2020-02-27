@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-04-03 20:19:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/04/03/opensuse-weekly-news-issue-117-is-out/
-title: "openSUSE Weekly News, Issue 117 is out!"
+slug: opensuse-weekly-news-issue-117-is-out
+title: openSUSE Weekly News, Issue 117 is out!
+wordpress_id: 3119
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 ![news](http://static.opensuse.org/images/knewsticker.png) Issue #117 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/117)!
 
 
@@ -211,7 +214,7 @@ tags:
     * 8.1 Robert Schweikert:  Into the Cloud
 
 	
-    * 8.2 Holger Hetterich:  The future of SMB Traffic Analyzer “ introducing protocol version 2
+    * 8.2 Holger Hetterich:  The future of SMB Traffic Analyzer â€“ introducing protocol version 2
 
 	
     * 8.3 Andrew Wafaa:  Blogged about: Community Discussion - Part 3
@@ -339,4 +342,4 @@ tags:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/117/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/117/Translations).		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/117/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/117/Translations).

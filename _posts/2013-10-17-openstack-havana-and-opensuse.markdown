@@ -1,10 +1,12 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2013-10-17 15:20:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/17/openstack-havana-and-opensuse/
-title: "OpenStack Havana and openSUSE"
+slug: openstack-havana-and-opensuse
+title: OpenStack Havana and openSUSE
+wordpress_id: 17094
 categories:
 - Announcements
 - Distribution
@@ -13,8 +15,9 @@ tags:
 - Cloud
 - OpenStack
 ---
-[![OpenStack logo]({{ site.baseurl }}/assets/openstack-cloud-software-vertical-small.png)](http://www.openstack.org/)
-Congratulations to the [OpenStack](http://www.openstack.org) community for today™s release of OpenStack Havana! This is the eighth OpenStack release and the community delivered on-time, yet again.
+
+[![OpenStack logo](//news.opensuse.org/wp-content/uploads/2013/10/openstack-cloud-software-vertical-small.png)](http://www.openstack.org/)
+Congratulations to the [OpenStack](http://www.openstack.org) community for todayâ€™s release of OpenStack Havana! This is the eighth OpenStack release and the community delivered on-time, yet again.
 
 Packages have already made it to openSUSE Factory for those interested in testing. This OpenStack release further expands the capabilities of the industry-leading cloud software by providing improved scalability and performance, monitoring support, automated VM management and improved configuration. openSUSE 13.1 packages are available and so are packages for older openSUSE releases and for SUSE Linux Enterprise.<!-- more -->
 
@@ -39,7 +42,7 @@ Packages have already made it to openSUSE Factory for those interested in testin
   * **Pooling memcache** connection support
 
 	
-  * **conf.d support** allows splitting up the configuration over several files in a folder[![RC1 is here_black]({{ site.baseurl }}/assets/RC1-is-here_black.png)](https://news.opensuse.org/?p=16780)
+  * **conf.d support** allows splitting up the configuration over several files in a folder[![RC1 is here_black](//news.opensuse.org/wp-content/uploads/2013/10/RC1-is-here_black.png)](https://news.opensuse.org/?p=16780)
 
 
 
@@ -63,4 +66,4 @@ OpenStack Havana comes with new [manuals](http://docs.openstack.org/trunk) that 
 
 If you're interested to improve OpenStack packages in openSUSE, please [join](http://lists.opensuse.org/opensuse-cloud/) the opensuse-cloud@opensuse.org mailing list and discuss on #opensuse-cloud IRC on Freenode. Like OpenStack, we use continous integration with Jenkins (see [ci.opensuse.org](http://ci.opensuse.org/)) for [development](http://en.opensuse.org/openSUSE:OpenStack_and_Crowbar_development_process).
 
-If you want commercial support for OpenStack, SUSE recently released version 2.0 of its enterprise OpenStack distribution [SUSE Cloud](https://www.suse.com/products/suse-cloud/).		
+If you want commercial support for OpenStack, SUSE recently released version 2.0 of its enterprise OpenStack distribution [SUSE Cloud](https://www.suse.com/products/suse-cloud/).

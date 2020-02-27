@@ -1,16 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-06-27 19:05:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/27/opensuse-strategy-voting-close-to-the-finish-line/
-title: "openSUSE strategy voting close to the finish line!"
+slug: opensuse-strategy-voting-close-to-the-finish-line
+title: openSUSE strategy voting close to the finish line!
+wordpress_id: 9498
 categories:
 - Project
 ---
-[![I want you to vote (green)]({{ site.baseurl }}/assets/i_want_you11-218x300.png)](https://news.opensuse.org/2011/06/27/opensuse-strategy-voting-close-to-the-finish-line/i_want_you11-2/)
 
-As we wrote [three weeks ago](https://news.opensuse.org/2011/06/07/time-to-vote-on-the-opensuse-strategy/), June 30th is the deadline for [voting for the openSUSE Strategy](http://bit.ly/kZaAC2)!
+[![I want you to vote (green)](/wp-content/uploads/2011/06/i_want_you11.png)](http://news.opensuse.org/2011/06/27/opensuse-strategy-voting-close-to-the-finish-line/i_want_you11-2/)
+
+As we wrote [three weeks ago](http://news.opensuse.org/2011/06/07/time-to-vote-on-the-opensuse-strategy/), June 30th is the deadline for [voting for the openSUSE Strategy](http://bit.ly/kZaAC2)!
 
 
 ## Relevance
@@ -41,4 +44,4 @@ It took a long time - we are an open community and as such, strategic discussion
 
 Providing that clarity to our users and contributors through this strategy is a major step towards our future. So, we need our membership to vote. To make your voice heard and to know if it truly has the support it needs.
 
-ï»¿So, if you™re an openSUSE Member, go,Â [read the document one more time](http://en.opensuse.org/openSUSE:Strategy) andÂ [cast your vote](http://bit.ly/kZaAC2)!		
+ï»¿So, if youâ€™re an openSUSE Member, go,Â [read the document one more time](http://en.opensuse.org/openSUSE:Strategy) andÂ [cast your vote](http://bit.ly/kZaAC2)!

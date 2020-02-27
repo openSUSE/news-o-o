@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2010-03-15 21:03:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/03/15/opensuse-11-3-milestone-3-is-out/
-title: "openSUSE 11.3 Milestone 3 is out!"
+slug: opensuse-11-3-milestone-3-is-out
+title: openSUSE 11.3 Milestone 3 is out!
+wordpress_id: 3021
 categories:
 - Announcements
 - Distribution
@@ -17,7 +19,8 @@ tags:
 - release
 - testing
 ---
-![Geeko at work]({{ site.baseurl }}/assets/m3geeko1-300x237.jpg)
+
+![Geeko at work](/wp-content/uploads/2010/03/m3geeko1.jpg)
 
 The third of seven scheduled milestone releases for 11.3 was completed and released on [schedule](http://en.opensuse.org/Roadmap). Milestone 3 focuses on using GCC 4.5 as the default compiler, leaving a great deal of the work in the hands of the openSUSE Build Service after a few issues (such as [kernel panics](https://bugzilla.novell.com/show_bug.cgi?id=582222)) were resolved.
 
@@ -118,7 +121,7 @@ As this is a milestone release, 11.3 milestone 3 does contain bugs that we know 
   * openbox crasch with SIGABRT with gcc 4.5 ([Bug #585974](https://bugzilla.novell.com/show_bug.cgi?id=585974)) _(workaround: upgrade from X11:lxde or openSUSE:Factory repo)_
 
 
-You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, we™ll need your help finding, reporting, and fixing those hidden bugs.
+You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, weâ€™ll need your help finding, reporting, and fixing those hidden bugs.
 
 To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensuse.org/Testing) on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) | [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](http://lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
@@ -130,11 +133,9 @@ The next openSUSE Milestone is scheduled to be released on Thursday, March the 2
 
 
 
-[![milestone2_113]({{ site.baseurl }}/assets/milestone3_113.png)](http://software.opensuse.org/developer)
+[![milestone2_113](/wp-content/uploads/2010/03/milestone3_113.png)](http://software.opensuse.org/developer)
 
 
 
 
-[]({{ site.baseurl }}/assets/milestone2_113.png)What are you waiting for? Grab the milestone release from [software.opensuse.org/developer](http://software.opensuse.org/developer) today!
-
-		
+[](/wp-content/uploads/2010/02/milestone2_113.png)What are you waiting for? Grab the milestone release from [software.opensuse.org/developer](http://software.opensuse.org/developer) today!

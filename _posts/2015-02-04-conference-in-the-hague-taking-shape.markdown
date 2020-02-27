@@ -1,16 +1,19 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-02-04 12:31:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/02/04/conference-in-the-hague-taking-shape/
-title: "Conference in The Hague Taking Shape"
+slug: conference-in-the-hague-taking-shape
+title: Conference in The Hague Taking Shape
+wordpress_id: 19050
 categories:
 - Conference
 - Events
 - Summit
 ---
-[![]({{ site.baseurl }}/assets/DSC_0464-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0464.jpg)From retro gaming to [Linux Professional Institute exams](http://www.lpi.org/linux-certifications), this year's [openSUSE Conference](https://events.opensuse.org/conference/osc15) is shaping up to be full of fun, knowledge and entertainment.
+
+[![](/wp-content/uploads/2015/02/DSC_0464.jpg)](/wp-content/uploads/2015/02/DSC_0464.jpg)From retro gaming to [Linux Professional Institute exams](http://www.lpi.org/linux-certifications), this year's [openSUSE Conference](https://events.opensuse.org/conference/osc15) is shaping up to be full of fun, knowledge and entertainment.
 
 
 #### Security
@@ -50,4 +53,4 @@ We are still looking for speakers, topics and people to participate in oSC 15. D
 #### Sponsorship
 
 
-Companies interested in sponsoring oSC15 can contact [izabelvalverde@opensuse.org](mailto:izabelvalverde@opensuse.org).		
+Companies interested in sponsoring oSC15 can contact [izabelvalverde@opensuse.org](mailto:izabelvalverde@opensuse.org).

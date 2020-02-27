@@ -1,10 +1,12 @@
 ---
 author: Ancor Gonzalez Sosa
+comments: true
 date: 2014-07-29 13:30:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/29/factory-rolling-release/
-title: "Factory moves to Rolling Release Development Model"
+slug: factory-rolling-release
+title: Factory moves to Rolling Release Development Model
+wordpress_id: 18251
 categories:
 - Distribution
 tags:
@@ -12,6 +14,7 @@ tags:
 - factory
 - openQA
 ---
+
 We are proud to announce that we have just switched our beloved development distribution, openSUSE Factory, to be an independent distribution using the “_rolling release_” development model. openSUSE Factory is now a tested, reliable and bleeding edge Linux distribution! This change will shorten the stabilization process for our major releases (next up: **13.2**) and eliminate the need for pre-releases and milestones.
 
 
@@ -23,7 +26,7 @@ In the old development model, an army of packagers would shoot new packages and 
 
 In the new “_rolling release_” development model, package submissions cannot go to Factory directly. First they have to prove to be functional and trustworthy in a staging project. Staging projects are projects in our [Open Build Service](https://build.opensuse.org) where groups of submissions are collected, reviewed, compiled and tested with [openQA](http://openqa.opensuse.org). But even after the packages survived the staging project, they don't directly end up in Factory. First all Factory media (e.g. DVDs etc.) are being built and put again through more tests in openQA. The Factory maintainers then decide on the basis of the [Factory-To-Test overview](https://openqa.opensuse.org/tests/overview?distri=opensuse&version=FTT) if the new packages should be published to the users.
 
-![New Factory Workflow]({{ site.baseurl }}/assets/Factory_workflow_2014.png)
+![New Factory Workflow](/wp-content/uploads/2014/07/Factory_workflow_2014.png)
 
 <!-- more -->
 
@@ -51,7 +54,7 @@ With a daily fresh Factory distribution making it easier for those who want to p
 
 So there is no excuse not to [give Factory a try](http://en.opensuse.org/openSUSE:Factory_installation) and provide feedback or, if you are not so interested in living on the edge, to help spreading the word: there is a new (old) kid on the Linux Distributions block: **openSUSE Factory**!
 
-![factory-tested]({{ site.baseurl }}/assets/factory-tested.png)
+![factory-tested](/wp-content/uploads/2012/10/factory-tested.png)
 
 
 
@@ -81,4 +84,3 @@ The openSUSE distribution is a stable, easy to use and complete multi-purpose di
 
 
 [openQA](https://github.com/os-autoinst/openQA) is the only comprehensive, fully automated Linux distribution testing framework which can run tests on every level of the OS, from core functionality like the kernel up to testing applications like Firefox or LibreOffice. It shows the results in a convenient web interface and allows testers to see screenshots and even videos of the issues found.
-		

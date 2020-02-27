@@ -1,19 +1,22 @@
 ---
 author: News Team
+comments: true
 date: 2008-02-08 13:15:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/02/08/announcing-opensuse-110-alpha-2/
-title: "Announcing openSUSE 11.0 Alpha 2"
+slug: announcing-opensuse-110-alpha-2
+title: Announcing openSUSE 11.0 Alpha 2
+wordpress_id: 650
 categories:
 - Announcements
 - Distribution
 ---
+
 Only three weeks after Alpha1, we're glad to announce the release of openSUSE 11.0 Alpha 2. There are various exciting changes in there that we would like to have feedback on.
 
 
 
-[![Installation - Location]({{ site.baseurl }}/assets/yast2-worldmap-thumb.png)]({{ site.baseurl }}/assets/yast2-worldmap.png) [![KDE 4.0.1 Desktop]({{ site.baseurl }}/assets/kde4-splash-thumb.png)]({{ site.baseurl }}/assets/kde4-splash1.jpg) [![GNOME Desktop]({{ site.baseurl }}/assets/gnome-desktop-thumb.png)]({{ site.baseurl }}/assets/gnome-desktop.png)  
+[![Installation - Location](/wp-content/uploads/2008/02/yast2-worldmap.png)](/wp-content/uploads/2008/02/yast2-worldmap.png) [![KDE 4.0.1 Desktop](/wp-content/uploads/2008/02/kde4-splash1.jpg)](/wp-content/uploads/2008/02/kde4-splash1.jpg) [![GNOME Desktop](/wp-content/uploads/2008/02/gnome-desktop.png)](/wp-content/uploads/2008/02/gnome-desktop.png)  
 For more screenshots head over to the [Screenshots/openSUSE 11.0 Alpha2](http://en.opensuse.org/Screenshots/openSUSE_11.0_Alpha2) wiki page
 
 
@@ -98,6 +101,6 @@ Please refer to **[software.openSUSE.org/developer](http://software.opensuse.org
 ### Comments, Feedback and Helping
 
 
-[![communicate.png]({{ site.baseurl }}/assets/communicate.png)](http://opensuse.org/Communicate)Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](http://lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community -- including IRC, Mailing Lists, and Forums -- take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
+[![communicate.png](/wp-content/uploads/2007/09/communicate.png)](http://opensuse.org/Communicate)Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](http://lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community -- including IRC, Mailing Lists, and Forums -- take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
 
-The [next release](http://en.opensuse.org/Roadmap/11.0) will be openSUSE 11.0 Alpha 3, on March 18.		
+The [next release](http://en.opensuse.org/Roadmap/11.0) will be openSUSE 11.0 Alpha 3, on March 18.

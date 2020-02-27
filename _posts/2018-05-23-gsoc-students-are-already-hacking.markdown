@@ -1,10 +1,12 @@
 ---
 author: Ana María Martínez Gómez
+comments: true
 date: 2018-05-23 10:19:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/23/gsoc-students-are-already-hacking/
-title: "GSoC students are already hacking!"
+slug: gsoc-students-are-already-hacking
+title: GSoC students are already hacking!
+wordpress_id: 20876
 categories:
 - Google Summer of Code
 - Mentoring
@@ -19,9 +21,10 @@ tags:
 - summer break
 - trollolo
 ---
+
 We always enjoy that new people join openSUSE community and help them in their first steps. Because of that, [openSUSE participates again in GSoC](https://news.opensuse.org/2018/02/19/gsoc-ana), an international program in which stipends are awarded to students who hack on open source projects during the summer. We are really excited to announce that this year four students will learn about open source development while hacking on openSUSE projects. The coding period started last week, so our students are already busy hacking and they have written some nice articles about their projects. ;)
 
-![]({{ site.baseurl }}/assets/gsoc-opensuse-300x164.jpg)
+![](/wp-content/uploads/2018/05/gsoc-opensuse.jpg)
 
 
 
@@ -69,4 +72,4 @@ As you see, there is a lot of great work coming in from our new talented contrib
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/05/23/gsoc-students-are-already-hacking.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 		
+This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/05/23/gsoc-students-are-already-hacking.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 

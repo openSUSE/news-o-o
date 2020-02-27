@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-05-15 18:21:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/05/15/opensuse-weekly-news-issue-123-is-out/
-title: "openSUSE Weekly News, Issue 123 is out!"
+slug: opensuse-weekly-news-issue-123-is-out
+title: openSUSE Weekly News, Issue 123 is out!
+wordpress_id: 3290
 categories:
 - Weekly News
 tags:
@@ -12,7 +14,6 @@ tags:
 - opensuse
 - Weekly News
 ---
-
 
 
 
@@ -243,7 +244,7 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
     * [7.3 h-online/Thorsten Leemhuis:Kernel Log: Coming in 2.6.34 (Part 5) - Drivers](http://en.opensuse.org/Archive:Weekly_news_123#h-online.2FThorsten_Leemhuis:Kernel_Log:_Coming_in_2.6.34_.28Part_5.29_-_Drivers)
 
 	
-    * [7.4 Rares Aioanei “ Kernel News with openSUSE Flavor](http://en.opensuse.org/Archive:Weekly_news_123#Rares_Aioanei_.E2.80.93_Kernel_News_with_openSUSE_Flavor)
+    * [7.4 Rares Aioanei â€“ Kernel News with openSUSE Flavor](http://en.opensuse.org/Archive:Weekly_news_123#Rares_Aioanei_.E2.80.93_Kernel_News_with_openSUSE_Flavor)
 
 
 
@@ -255,7 +256,7 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
     * [8.1 For Desktop Users](http://en.opensuse.org/Archive:Weekly_news_123#For_Desktop_Users)
 
 	
-      * [8.1.1 Petr Baudis: pulseaudio “ quick™n'dirty playback over the network](http://en.opensuse.org/Archive:Weekly_news_123#Petr_Baudis:_pulseaudio_.E2.80.93_quick.E2.80.99n.27dirty_playback_over_the_network)
+      * [8.1.1 Petr Baudis: pulseaudio â€“ quickâ€™n'dirty playback over the network](http://en.opensuse.org/Archive:Weekly_news_123#Petr_Baudis:_pulseaudio_.E2.80.93_quick.E2.80.99n.27dirty_playback_over_the_network)
 
 
 
@@ -300,7 +301,7 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
     * [9.1 Duncan Mac-Vicar: openSUSE as a ruby development platform](http://en.opensuse.org/Archive:Weekly_news_123#Duncan_Mac-Vicar:_openSUSE_as_a_ruby_development_platform)
 
 	
-    * [9.2 Andrea Florio: Lugaru is opensource “ Lugaru is on packman](http://en.opensuse.org/Archive:Weekly_news_123#Andrea_Florio:_Lugaru_is_opensource_.E2.80.93_Lugaru_is_on_packman)
+    * [9.2 Andrea Florio: Lugaru is opensource â€“ Lugaru is on packman](http://en.opensuse.org/Archive:Weekly_news_123#Andrea_Florio:_Lugaru_is_opensource_.E2.80.93_Lugaru_is_on_packman)
 
 
 
@@ -506,7 +507,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 565 (-3)
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) “ [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports) “ [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports) â€“ [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
 
 
 
@@ -815,7 +816,7 @@ the openSUSE Bugzilla."
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -935,7 +936,7 @@ Upcoming:
   * You can find more informations on other events at:
 
 	
-  * [openSUSE News/Events](../category/events/) “ [Local events](http://en.opensuse.org/Ambassador/Events)
+  * [openSUSE News/Events](../category/events/) â€“ [Local events](http://en.opensuse.org/Ambassador/Events)
 
 
 
@@ -965,7 +966,7 @@ Upcoming:
 
 
 
-     "Last week I was with Pavol Rusnak and Michal Hrusecky in  Vienna at the Linuxwochen, so we boosted openSUSE on this event.  Linuxwochen is a interesting idea there are some events in the whole  country its a kind of Linux roadshow. But they are not all on the same  day and if you like u can visit every event. There was events in Krems,  Graz, Eisenberg and Linz. This weekend take the event place in  Eisenberg. Not all events there are the same, some of them have special  interests so in Linz they are on the art akedemy and they are  concentrated to doing artwork with free software. There is 4 days long  every day a workshop for it. The organizers called me last year and  asked if I can make one of them." 
+     "Last week I was with Pavol Rusnak and Michal Hrusecky in  Vienna at the Linuxwochen, so we â€œboostedâ€ openSUSE on this event.  Linuxwochen is a interesting idea there are some events in the whole  country its a kind of Linux roadshow. But they are not all on the same  day and if you like u can visit every event. There was events in Krems,  Graz, Eisenberg and Linz. This weekend take the event place in  Eisenberg. Not all events there are the same, some of them have special  interests so in Linz they are on the art akedemy and they are  concentrated to doing artwork with free software. There is 4 days long  every day a workshop for it. The organizers called me last year and  asked if I can make one of them." 
 
 
 
@@ -975,7 +976,7 @@ Upcoming:
 
 
     "From Thursday to Saturday there was an event in Vienna held as a  part of longer Austrian tour called LinuxWochen. This opportunity could  not have been missed by openSUSE, so we formed a team consisting of me,  Michal and Sirko. 
-     All three days were packed with more than 70 talks and  workshops. We had a stand directly next to Fedora™s one, handled by  Fabian and Zoltan, so we also had an opportunity to talk about our  distros and also to make fun about each other.Â :-)" 
+     All three days were packed with more than 70 talks and  workshops. We had a stand directly next to Fedoraâ€™s one, handled by  Fabian and Zoltan, so we also had an opportunity to talk about our  distros and also to make fun about each other.Â :-)" 
 
 
 
@@ -1039,8 +1040,8 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-     "Many of you have eagerly been awaiting the release of  NetworkManager 0.8.1. Well, it™s not completely done yet, but a first  beta release just hit the mirrors about 12 hours ago. 
-     I™m proud to announce that there are already packages for  openSUSE available thanks to our great openSUSE Build Service. Packages  exist currently for openSUSE 11.2 and openSUSE Factory. 
+     "Many of you have eagerly been awaiting the release of  NetworkManager 0.8.1. Well, itâ€™s not completely done yet, but a first  beta release just hit the mirrors about 12 hours ago. 
+     Iâ€™m proud to announce that there are already packages for  openSUSE available thanks to our great openSUSE Build Service. Packages  exist currently for openSUSE 11.2 and openSUSE Factory. 
      A warning first: I did not even install the packages yet! So they might or might not work at all." 
 
 
@@ -1069,7 +1070,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
   * You can find other interesting Packages at:
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1261,14 +1262,14 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [Rares Aioanei “ Kernel News with openSUSE Flavor](http://lizards.opensuse.org/2010/05/14/guest-blog-rares-aioanei-kernel-news-with-opensuse-flavor/)
+#### [Rares Aioanei â€“ Kernel News with openSUSE Flavor](http://lizards.opensuse.org/2010/05/14/guest-blog-rares-aioanei-kernel-news-with-opensuse-flavor/)
 
 
 
 
     "Greetings, and welcome! 
 
-     -Starting this week™s news, The H Online have , since the 24th  of March,  a series of articles titled What™s new in 2.6.34³. You can  find it here: [http://www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html](http://www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html)
+     -Starting this weekâ€™s news, The H Online have , since the 24th  of March,  a series of articles titled â€œWhatâ€™s new in 2.6.34â€³. You can  find it here: [http://www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html](http://www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html)
 
      -Frederic Weisbecker posted perf fixes for 2.6.34, James  Bottomley came up with SCSI fixes for -rc6, Paul E. McKenney had some  RCU fixes for 2.6.35; perf fixes came also from Arnaldo Carvalho de  Melo. (...)" 
 </td>
@@ -1310,12 +1311,12 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [Petr Baudis: pulseaudio “ quick™n'dirty playback over the network](http://log.or.cz/?p=86)
+#### [Petr Baudis: pulseaudio â€“ quickâ€™n'dirty playback over the network](http://log.or.cz/?p=86)
 
 
 
 
-     "The joyful lives of many Linux desktop users are clouded by  many packages and frameworks that are well-intentioned and try to solve  real and painful problems, but which are immature, not designed in the  UNIX spirit, poorly documented and most importantly, do not really have a  working implementation. Oh well. I have taken the stance of patience  and ascetic acceptance of the new burdens “ instead of trying to purge  my systems of all that is unholy and evil, I spend that time trying to  debug and fix up the problems they incur (often in vain). Sometimes I  even file bugs, but that can be rather¦ unrewarding experience “ more  about that at another time." 
+     "The joyful lives of many Linux desktop users are clouded by  many packages and frameworks that are well-intentioned and try to solve  real and painful problems, but which are immature, not designed in the  UNIX spirit, poorly documented and most importantly, do not really have a  working implementation. Oh well. I have taken the stance of patience  and ascetic acceptance of the new burdens â€“ instead of trying to purge  my systems of all that is unholy and evil, I spend that time trying to  debug and fix up the problems they incur (often in vain). Sometimes I  even file bugs, but that can be ratherâ€¦ unrewarding experience â€“ more  about that at another time." 
 
 
 
@@ -1340,12 +1341,12 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-     "Well, I posted a tutorial about clones, and who never forget  some steps making a clone? After the end of the cloning process, grub  just say no way for you. Important: just for cases which grub its  installed on MBR. 
+     "Well, I posted a tutorial about clones, and who never forget  some steps making a clone? After the end of the cloning process, grub  just say â€œno wayâ€ for you. Important: just for cases which grub its  installed on MBR. 
 There are many websites talking about specific errors, but I will give some hints which helped me sometimes.
 
 
 
-     Frequent Error: its the Error 2³ on the stage 1.5 of grub  loading.  When this error occurs, please check your HDD configuration on  FSTAB and MTAB. Normally when we change some old machines which use  PATA HDDs to new SATA HDDs, Grub get confused with these devices. After  check FSTAB(/etc/fstab) and MTAB(/etc/mtab) after a successful clone  process, please pay attention on file device.map, usually at  /boot/grub." 
+     Frequent Error: its the â€œError 2â€³ on the stage 1.5 of grub  loading.  When this error occurs, please check your HDD configuration on  FSTAB and MTAB. Normally when we change some old machines which use  PATA HDDs to new SATA HDDs, Grub get confused with these devices. After  check FSTAB(/etc/fstab) and MTAB(/etc/mtab) after a successful clone  process, please pay attention on file device.map, usually at  /boot/grub." 
 
 
 
@@ -1421,12 +1422,12 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Andrea Florio: Lugaru is opensource “ Lugaru is on packman](http://lizards.opensuse.org/2010/05/15/lugaru-is-opensource-lugaru-is-on-packman/)
+#### [Andrea Florio: Lugaru is opensource â€“ Lugaru is on packman](http://lizards.opensuse.org/2010/05/15/lugaru-is-opensource-lugaru-is-on-packman/)
 
 
 
 
-     "Just a shot, Lugaru HD has been released as opensource, we can build and give it to all of you¦ 
+     "Just a shot, Lugaru HD has been released as opensource, we can build and give it to all of youâ€¦ 
      well.. doneÂ :D 
      i just packaged it, so just wait for servers to sync" 
 </td>
@@ -1581,7 +1582,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-     "We are at the Akonadi meeting at the KDAB offices in Berlin  right now, which was quite nice so far. We had the first round of API  review of new methods in KDEPIMLIBS for 4.5, and already cleaned up  quite a bit. Having multiple eyes look at the API is a nice way to  improve the overall quality of the API. We met with Andrey Moiseenko and  Alvaro Manera of Nokia, who work on calendaring for the next Meego  phone from Nokia. They use our KCal library, which they have  forked/extended for some special requirements they have. We™re now  making plans with them to integrate their changes back to our version of  KCal, so that both sides will profit from changes and have a single  point of maintenance" 
+     "We are at the Akonadi meeting at the KDAB offices in Berlin  right now, which was quite nice so far. We had the first round of API  review of new methods in KDEPIMLIBS for 4.5, and already cleaned up  quite a bit. Having multiple eyes look at the API is a nice way to  improve the overall quality of the API. We met with Andrey Moiseenko and  Alvaro Manera of Nokia, who work on calendaring for the next Meego  phone from Nokia. They use our KCal library, which they have  forked/extended for some special requirements they have. Weâ€™re now  making plans with them to integrate their changes back to our version of  KCal, so that both sides will profit from changes and have a single  point of maintenance" 
 
 
 
@@ -1646,7 +1647,7 @@ For an online game one payment for life is not much at all, some online games de
 <td >Do you have comments on any of the things mentioned in this article? Then head right over to the [news.opensuse.org story](../?p=3290) comment section and let us know! Communicate with or get help from the  wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](http://en.opensuse.org/index.php?title=openSUSE:Support_channels&action=edit&redlink=1).
 
 If you would like to be a part of the openSUSE Weekly news, then please send an email over to [opensuse-marketing@opensuse.org](http://lists.opensuse.org/opensuse-marketing) (you need to [subscribe](http://en.opensuse.org/index.php?title=openSUSE:Support_channels&action=edit&redlink=1) first). Or you can go to the channel #opensuse-newsletter on irc.freenode.net.
-[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/?feed=rss2](../category/weekly-news/?feed=rss2)
+[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/?feed=rss2](../category/weekly-news/?feed=rss2)
 </td>
 </tr>
 </tbody>
@@ -1685,10 +1686,10 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief)
 
 	
-  * [Dl9pf](http://en.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter)
+  * [Dl9pf](http://en.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter)
 
 	
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks)
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks)
 
 	
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office)
@@ -1697,7 +1698,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.)
 
 	
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings)
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings)
 
 	
   * add translators
@@ -1734,7 +1735,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 <td >[![](http://en.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](http://en.opensuse.org/File:OWN-Icon-locale.png)
 </td>
 
-<td >[English](http://wiki.opensuse.org/OpenSUSE:Weekly_News/123) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/123) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/123) [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/123) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/123) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/123) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/123) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/123/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/123) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/123) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/123/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/123) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/123) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/123/swedish) [Äeština](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/123)
+<td >[English](http://wiki.opensuse.org/OpenSUSE:Weekly_News/123) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/123) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/123) [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/123) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/123) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/123) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/123) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/123/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/123) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/123) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/123/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/123) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/123) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/123/swedish) [ÄeÅ¡tina](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/123)
 </td>
 </tr>
 </tbody>
@@ -1742,4 +1743,4 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 
 
 
-ï»¿		
+ï»¿

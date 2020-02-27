@@ -1,17 +1,20 @@
 ---
 author: Helen South
+comments: true
 date: 2012-10-08 20:23:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/08/first-opensuse-conference-sneak-peek/
-title: "First openSUSE Conference Sneak Peek"
+slug: first-opensuse-conference-sneak-peek
+title: First openSUSE Conference Sneak Peek
+wordpress_id: 14249
 categories:
 - Conference
 - Distribution
 - Events
 - Project
 ---
-![oSC2012 logo]({{ site.baseurl }}/assets/logo2.png)
+
+![oSC2012 logo](/wp-content/uploads/2012/10/logo2.png)
 Less than two weeks from now the openSUSE Conference will start. The location itself is almost enough reason to attend: the openSUSE Conference 2012 is in the beautiful, historic city of Prague. For those jaded by gothic beauty, the conference program will provide all the motivation you need!
 
 If you're new to the world of Linux and software conferences, you might think that you'll be out of your depth, especially when you recognize some of the leading lights in Free Software development and culture among the speakers. But there's plenty at the openSUSE conference for the Linux newbie - in fact, it's the perfect way to dive into the world of open source. Held in context with the local Linux Days and incorporating also SUSE Labs and a Gentoo miniconference, this openSUSE conference has something for everyone.
@@ -66,7 +69,7 @@ Programmers who have mastered some coding skills will find many talks to help th
 
 Web developers aren't forgotten. As part of the Linux Days proram you can catch Michal ÄŒihaÅ™ ;s 'Online translation using Weblate' at 11.30. You can learn how to make your software accessable to Linux users with Nelson Marques.
 
-How will your software fit in the world of open source? Learn more about the ecosystem with  Libor PecháÄek's 'How software gets from the community to commercial enterprise'. 
+How will your software fit in the world of open source? Learn more about the ecosystem with  Libor PechÃ¡Äek's 'How software gets from the community to commercial enterprise'. 
 
 There are many more advanced sessions at the conference, see more in [the schedule](http://bootstrapping-awesome.org/schedule/).
 
@@ -75,4 +78,4 @@ There are many more advanced sessions at the conference, see more in [the schedu
 ## Be there!
 
 
-The conference will start in less than two weeks! That means it is time to [find accomodation](http://www.linuxdays.cz/accomodation/), start planning your trip and of course [make sure you are registered](http://conference.opensuse.org/Register/)!		
+The conference will start in less than two weeks! That means it is time to [find accomodation](http://www.linuxdays.cz/accomodation/), start planning your trip and of course [make sure you are registered](http://conference.opensuse.org/Register/)!

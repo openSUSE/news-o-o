@@ -1,15 +1,18 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-02-17 22:36:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/02/17/number-two-always-tries-harder-opensuse-milestone-2/
-title: "Number Two Always Tries Harder: openSUSE Milestone 2"
+slug: number-two-always-tries-harder-opensuse-milestone-2
+title: 'Number Two Always Tries Harder: openSUSE Milestone 2'
+wordpress_id: 2893
 categories:
 - Announcements
 - Distribution
 ---
-[![Milestone 2]({{ site.baseurl }}/assets/milestone_2-254x300.png)](http://software.opensuse.org/developer)Late last month we released the first milestone of openSUSE 11.3, now we follow up with the second. Milestone 2 is part of the milestones where we track new releases in the open source universe and test the building of our various distribution images with them. While milestone 1 introduced various pre-release versions of free and open source projects (KDE 4.4 RC1, OpenOffice 3.2 Beta4 or VirtualBox 3.1 beta 1) into our development distribution [openSUSE Factory](http://en.opensuse.org/Factory), this milestone is characterized by final releases of those projects. We are also preparing everything to switch to GCC 4.5.0  as the default compiler. Currently our staging version of Factory already builds with it and our compiler people document/fix the most serious issues, they aim at milestone 3 for the switch. To learn more about the benefits of GCC 4.5.0 check the _**Development Tools**_ section below.  As you can see, although we are steadily moving forward, there is still a lot to come!
+
+[![Milestone 2](/wp-content/uploads/2010/02/milestone_2.png)](http://software.opensuse.org/developer)Late last month we released the first milestone of openSUSE 11.3, now we follow up with the second. Milestone 2 is part of the milestones where we track new releases in the open source universe and test the building of our various distribution images with them. While milestone 1 introduced various pre-release versions of free and open source projects (KDE 4.4 RC1, OpenOffice 3.2 Beta4 or VirtualBox 3.1 beta 1) into our development distribution [openSUSE Factory](http://en.opensuse.org/Factory), this milestone is characterized by final releases of those projects. We are also preparing everything to switch to GCC 4.5.0  as the default compiler. Currently our staging version of Factory already builds with it and our compiler people document/fix the most serious issues, they aim at milestone 3 for the switch. To learn more about the benefits of GCC 4.5.0 check the _**Development Tools**_ section below.  As you can see, although we are steadily moving forward, there is still a lot to come!
 
 Go on to read about the detailed changes that happened in the various areas...
 
@@ -31,7 +34,7 @@ And you are now finally able to choose LXDE as desktop in the installation work 
 
 OpenOffice moved to the final 3.2 release (3.2.0.5) so you can use all the [nice new features](http://www.openoffice.org/dev_docs/features/3.2/) this new release brings.
 
-Digikam, the application that lets you manage your photographs like a professional with the power of open source, got updated to version 1.1.0. This version brings regular expression support for the replace modifier, a new tool that can add/remove vignetting and [over 100 bugfixes](http://www.digikam.org/drupal/node/497)[![digikam 1.1.0]({{ site.baseurl }}/assets/digikam1.png)]({{ site.baseurl }}/assets/digikam1.png).
+Digikam, the application that lets you manage your photographs like a professional with the power of open source, got updated to version 1.1.0. This version brings regular expression support for the replace modifier, a new tool that can add/remove vignetting and [over 100 bugfixes](http://www.digikam.org/drupal/node/497)[![digikam 1.1.0](/wp-content/uploads/2010/02/digikam1.png)](/wp-content/uploads/2010/02/digikam1.png).
 
 With the latest release of empathy, which brings again bugfixes and translation updates, we'll most likely feel comfortable enough to push it into the GNOME default installation since the UI has been improved a lot and it's more solid now.
 
@@ -56,7 +59,7 @@ Gnutls switched to the 2.8 branch (2.8.5). GnuTLS is a modern C library that imp
 Libgphoto2, the core library designed to allow access to digital cameras, got updated to version 2.4.8 with lots of improvements to EOS, Nikon and Fuji S5 capture support, stability fixes and translation updates.
 
 
-## Network/Security[![NetworkManager]({{ site.baseurl }}/assets/nm-252x300.png)]({{ site.baseurl }}/assets/nm.png)
+## Network/Security[![NetworkManager](/wp-content/uploads/2010/02/nm.png)](/wp-content/uploads/2010/02/nm.png)
 
 
 Our network connection stack got updated too, this means NetworkManager (0.7.999), ModemManager (0.3) and the various plugins. This release brings no new features, but includes a lot of bug fixes and has much broader hardware support.
@@ -69,7 +72,7 @@ The IMAP client of fetchmail 6.3.14 no longer skips messages from several IMAP s
 ## Development Tools
 
 
-[![monodevelop]({{ site.baseurl }}/assets/monodevelop-300x201.png)]({{ site.baseurl }}/assets/monodevelop.png)The Ape is rumbling too! Mono got updated to 2.6. This release brings support for CoreCLR security, to prevent untrusted code from using dangerous operations. A new soft debugger that is integrated the co-released MonoDevelop 2.2 and the csharp shell now supports auto-completion. Of course there is more, [check the release announcement](http://www.mono-project.com/Release_Notes_Mono_2.6).
+[![monodevelop](/wp-content/uploads/2010/02/monodevelop.png)](/wp-content/uploads/2010/02/monodevelop.png)The Ape is rumbling too! Mono got updated to 2.6. This release brings support for CoreCLR security, to prevent untrusted code from using dangerous operations. A new soft debugger that is integrated the co-released MonoDevelop 2.2 and the csharp shell now supports auto-completion. Of course there is more, [check the release announcement](http://www.mono-project.com/Release_Notes_Mono_2.6).
 
 The tool everybody uses to analyze why their system boots slowly, bootchart, is now included in version 2.0.0.9. Bootchart in version 2.x is a cleaned up and re-factored version of the Ubuntu bootchart-collector, pybootchartgui and our own patches against bootchart 1. Michael Meek's latest talk from FOSDEM should appear shortly in the [FOSDEM youtube channel](http://www.youtube.com/fosdemtalks).
 
@@ -103,7 +106,7 @@ As this is a milestone release, 11.3 milestone 2 does contain bugs that we know 
   * Impossible to save data in the GNOME keyring [Bug #580043](https://bugzilla.novell.com/show_bug.cgi?id=580043)
 
 
-You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, we™ll need your help finding, reporting, and fixing those hidden bugs.
+You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, weâ€™ll need your help finding, reporting, and fixing those hidden bugs.
 
 To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensuse.org/Testing) on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) | [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](http://lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
@@ -113,12 +116,12 @@ To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensu
 
 
 
-[![milestone2_113]({{ site.baseurl }}/assets/milestone2_113.png)](http://software.opensuse.org/developer)
+[![milestone2_113](/wp-content/uploads/2010/02/milestone2_113.png)](http://software.opensuse.org/developer)
 
 
 
 
-[]({{ site.baseurl }}/assets/milestone2_113.png)What are you waiting for? Grab the milestone release from [software.opensuse.org/developer](http://software.opensuse.org/developer) today!
+[](/wp-content/uploads/2010/02/milestone2_113.png)What are you waiting for? Grab the milestone release from [software.opensuse.org/developer](http://software.opensuse.org/developer) today!
 
 
 
@@ -127,4 +130,4 @@ To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensu
 # Outlook
 
 
-There is a detailed timeline with all the important dates around the development of openSUSE 11.3. It will help you schedule your life around 11.3! You can access it at Stephan Kulow's (the openSUSE Project Manager) homepage at [http://www.suse.de/~coolo/opensuse_11.3/](http://www.suse.de/%7Ecoolo/opensuse_11.3/)		
+There is a detailed timeline with all the important dates around the development of openSUSE 11.3. It will help you schedule your life around 11.3! You can access it at Stephan Kulow's (the openSUSE Project Manager) homepage at [http://www.suse.de/~coolo/opensuse_11.3/](http://www.suse.de/%7Ecoolo/opensuse_11.3/)

@@ -1,11 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2007-11-21 17:56:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/21/opensuse-kdegnome-packaging-day-30th-november-1st-december/
-title: "openSUSE KDE/GNOME Packaging Day: 30th November / 1st December\
-  "
+slug: opensuse-kdegnome-packaging-day-30th-november-1st-december
+title: 'openSUSE KDE/GNOME Packaging Day: 30th November / 1st December'
+wordpress_id: 531
 categories:
 - Events
 tags:
@@ -13,8 +14,7 @@ tags:
 - KDE
 ---
 
-
-![Packaging]({{ site.baseurl }}/assets/rpm.png)
+![Packaging](//news.opensuse.org/wp-content/uploads/2007/11/rpm.png)
 
 The [GNOME](http://opensuse.org/GNOME/Team) and [KDE](http://opensuse.org/KDE/Team) teams have teamed up to provide two [packaging days](http://en.opensuse.org/Packaging/Packaging_Day), from November 30th until December 1st (from any timezone to any timezone). It will take place on [IRC](http://opensuse.org/IRC) in the [**#opensuse-buildservice**](irc://irc.freenode.net/opensuse-buildservice) channel.
 
@@ -22,4 +22,4 @@ We will help interested newcomers and already experienced packagers in learning 
 
 So join our effort in creating more packages for your favourite Linux Distribution!
 
-Dirk Mueller and Michael Wolf
+Dirk Mueller and Michael Wolf In this way, we can save our [https://writemyessay4me.org/](https://writemyessay4me.org/) plethora of time and in fascinating work

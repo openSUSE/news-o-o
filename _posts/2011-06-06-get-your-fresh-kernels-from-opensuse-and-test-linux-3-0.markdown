@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-06-06 11:44:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/06/get-your-fresh-kernels-from-opensuse-and-test-linux-3-0/
-title: "Get your fresh kernels from openSUSE and test Linux 3.0!"
+slug: get-your-fresh-kernels-from-opensuse-and-test-linux-3-0
+title: Get your fresh kernels from openSUSE and test Linux 3.0!
+wordpress_id: 9136
 categories:
 - Announcements
 - Infrastructure
 ---
-[![openSUSE logo on tux' belly]({{ site.baseurl }}/assets/opensuse-logo-2.jpg.png)](https://news.opensuse.org/2011/06/06/get-your-fresh-kernels-from-opensuse-and-test-linux-3-0/opensuse-logo-2-jpg/)
+
+[![openSUSE logo on tux' belly](/wp-content/uploads/2011/06/opensuse-logo-2.jpg.png)](http://news.opensuse.org/2011/06/06/get-your-fresh-kernels-from-opensuse-and-test-linux-3-0/opensuse-logo-2-jpg/)
 
 The openSUSE kernel developers have recently announced that the [kernel](http://en.opensuse.org/Kernel) git trees have moved to [kernel.opensuse.org/git](http://kernel.opensuse.org/git), providing better reliability than gitorious. Gitorious had trouble with cloning the nearly 1GB repository sometimes, but the developers will keep syncing to gitorious so nothing should break. Moreover, [kernel.opensuse.org](http://kernel.opensuse.org/) offers an easy interface to install openSUSE kernels on a variety of openSUSE releases.
 
@@ -51,7 +54,7 @@ To add a specific kernel to openSUSE, click on the branch you are looking for an
 
 By default, the kernel will replace your old kernel. If you want to be keep the old one as a fallback, go to /etc/zypp/zypp.conf and uncomment the line starting with "multiversion =". For the vanilla and linux-next branches, this is not needed, the default configuration puts Linus' kernel-vanilla next to your default kernel-desktop in parallel. Having the kernel available as option the boot menu and not replacing your current kernel protects you from issues with the latest piece of technology you are testing out!
 
-(https://news.opensuse.org/2011/06/06/get-your-fresh-kernels-from-opensuse-and-test-linux-3-0/kernel-activity/)
+[caption id="attachment_9137" align="alignright" width="300" caption="openSUSE kernel commit activity overview"][![openSUSE kernel commit activity overview](/wp-content/uploads/2011/06/kernel-activity.png)](http://news.opensuse.org/2011/06/06/get-your-fresh-kernels-from-opensuse-and-test-linux-3-0/kernel-activity/)[/caption]
 
 If you want to get the source code of the kernel branch, or browse its git tree, click on _GIT Clone_ or _GIT Browse_ under the Tools menu to get the commands for cloning the repository to your drive or see the code. You can also follow development and see what patches are added by who in the _GIT Browse_ page. For example, [this link](http://kernel.opensuse.org/cgit/kernel/log/?h=master) brings you to a page showing the latest activity of the openSUSE kernel developers in Factory.
 
@@ -60,4 +63,4 @@ If you want to get the source code of the kernel branch, or browse its git tree,
 ## More coming!
 
 
-For developers, the site provides a [git viewer based on cgit](http://kernel.opensuse.org/cgit). An LXR source code browser is planned in the future. [LXR](http://lxr.linux.no/) is a tool that displays source files with links to function, macro and type definitions and usage.		
+For developers, the site provides a [git viewer based on cgit](http://kernel.opensuse.org/cgit). An LXR source code browser is planned in the future. [LXR](http://lxr.linux.no/) is a tool that displays source files with links to function, macro and type definitions and usage.

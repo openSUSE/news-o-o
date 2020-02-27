@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-10-21 12:26:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/10/21/hack-week-event-inspires-innovation-creativity-fun/
-title: "Hack Week Event Inspires Innovation, Creativity, Fun"
+slug: hack-week-event-inspires-innovation-creativity-fun
+title: Hack Week Event Inspires Innovation, Creativity, Fun
+wordpress_id: 18647
 categories:
 - Events
 - Hack Week
 ---
-[![hack week]({{ site.baseurl }}/assets/hack-week-300x200.jpg)]({{ site.baseurl }}/assets/hack-week.jpg)Hi everyone, I'm Doug! This is the beginning of my third week at openSUSE contributing to marketing and communications. It is great to be of the community. Everything here is new, and during my first week, I kept hearing people here talk about Hack Week.
+
+[![hack week](/wp-content/uploads/2014/10/hack-week.jpg)](/wp-content/uploads/2014/10/hack-week.jpg)Hi everyone, I'm Doug! This is the beginning of my third week at openSUSE contributing to marketing and communications. It is great to be of the community. Everything here is new, and during my first week, I kept hearing people here talk about Hack Week.
 
 Several thoughts of what Hack Week could be crossed my mind.
 
@@ -33,4 +36,4 @@ The project I joined for Hack Week is the redesign of the [openSUSE landing page
 
 Hack Week is a great event and I'm excited to participate. Without hacking, innovation would stagnant, creativity would diminish. Happy Hacking!
 
-		
+

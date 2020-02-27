@@ -1,18 +1,21 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-14 13:19:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/14/sneak-peeks-at-opensuse-103-kde-4/
-title: "Sneak Peeks at openSUSE 10.3: KDE 4"
+slug: sneak-peeks-at-opensuse-103-kde-4
+title: 'Sneak Peeks at openSUSE 10.3: KDE 4'
+wordpress_id: 219
 categories:
 - Distribution
 tags:
 - KDE
 ---
+
 openSUSE 10.3 will see the first small parts of [KDE 4](http://opensuse.org/KDE4) creeping into the distribution. KDE 3 will still be the default KDE session for openSUSE 10.3, but KDE 4 will be making its way in steadily. The online repository will contain a current KDE 4 development snapshot, the DVD will have a fully functional and working KDE 4 session, and even on the KDE Installation CD you will have some KDE 4 games, KRDC and KRFB.
 
-Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and we'll also be talking to [Dirk Müller](http://wire.dattitu.de/), a long-time openSUSE and KDE core developer.
+Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and we'll also be talking to [Dirk MÃ¼ller](http://wire.dattitu.de/), a long-time openSUSE and KDE core developer.
 
 <!-- more -->
 
@@ -23,7 +26,7 @@ Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and 
 KDE 4 will contain a plethora of new innovative technologies to revolutionise the Linux desktop. One of the greatest parts of the new KDE version is the porting of KDE to [Qt 4](http://troll.no/products/qt/whatsnew), the C++ toolkit that KDE is based on. Other large improvements include projects within KDE 4 such as: [Solid](http://solid.kde.org), a new device framework; [Plasma](http://plasma.kde.org), the new panel and user interface; [Phonon](http://phonon.kde.org), a multimedia framework; [Oxygen](http://oxygen-icons.org), a new style and icon theme set for KDE 4; and [Dolphin](http://enzosworld.gmxhome.de/), the new default file manager.
 
 
-[![kde4_thumb.jpg]({{ site.baseurl }}/assets/kde4_thumb.jpg)]({{ site.baseurl }}/assets/kde4.png)
+[![kde4_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/kde4_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4.png)
 
 
 This article however will be focusing on the new KDE 4 applications that are directly available to an openSUSE 10.3 user, and will not provide a complete overview of the changes underway for the new KDE 4 desktop, though they are [well documented elsewhere](http://wiki.kde.org/tiki-index.php?page=KDE4).
@@ -54,10 +57,10 @@ The first real KDE 4 component that will be ready to go straight into openSUSE 1
 
 _KPatience_, the KDE Patience game, has, like all the other KDE Games, greatly benefited by the wide adoption in KDE of [SVG rendering in applications](http://dot.kde.org/1167723426/). SVG images can be scaled indefinitely without loss of quality, unlike bitmaps (such as jpeg, gif, png), so the user gets a much smoother and cleaner experience with applications.
 
-In contrast to the older version ([screenshot]({{ site.baseurl }}/assets/kpat-kde3.png)), KPatience contains the brand new [SVG Oxygen card deck](http://websvn.kde.org/trunk/KDE/kdegames/libkdegames/carddecks/svg-oxygen/?pathrev=682764), giving it a polished finish:
+In contrast to the older version ([screenshot](//news.opensuse.org/wp-content/uploads/2007/09/kpat-kde3.png)), KPatience contains the brand new [SVG Oxygen card deck](http://websvn.kde.org/trunk/KDE/kdegames/libkdegames/carddecks/svg-oxygen/?pathrev=682764), giving it a polished finish:
 
 
-[![KPatience - Klondike]({{ site.baseurl }}/assets/kde4-kpat0_thumb.jpg)]({{ site.baseurl }}/assets/kde4-kpat0.png) [![KPat - In the Game]({{ site.baseurl }}/assets/kde4-kpat_thumb.jpg)]({{ site.baseurl }}/assets/kde4-kpat.png)  [![KPatience - Cards Fly at the End Game]({{ site.baseurl }}/assets/kde4-kpat-end_thumb.jpg)]({{ site.baseurl }}/assets/kde4-kpat-end.png)
+[![KPatience - Klondike](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat0_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat0.png) [![KPat - In the Game](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat.png)  [![KPatience - Cards Fly at the End Game](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat-end_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat-end.png)
 
 
 Another thing you will notice is the change in format for toolbars. Toolbar items now by default contain the icon with a text label below. This discourages application developers from having too many actions in the toolbars, makes the options in it more accessible, and makes the options quicker to access.
@@ -66,10 +69,10 @@ Another thing you will notice is the change in format for toolbars. Toolbar item
 ### KReversi
 
 
-_KReversi_ in KDE 3 ([screenshot]({{ site.baseurl }}/assets/kreversi-kde3.png)) had a fixed width and a rather more antiquated look. In KDE 4, KReversi is completely scalable to any size and benefits greatly from the new Oxygen theme, as you can see below:
+_KReversi_ in KDE 3 ([screenshot](//news.opensuse.org/wp-content/uploads/2007/09/kreversi-kde3.png)) had a fixed width and a rather more antiquated look. In KDE 4, KReversi is completely scalable to any size and benefits greatly from the new Oxygen theme, as you can see below:
 
 
-[![KReversi in KDE 4]({{ site.baseurl }}/assets/kreversi_thumb.jpg)]({{ site.baseurl }}/assets/kreversi.png)
+[![KReversi in KDE 4](//news.opensuse.org/wp-content/uploads/2007/09/kreversi_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kreversi.png)
 
 
 
@@ -81,7 +84,7 @@ _KReversi_ in KDE 3 ([screenshot]({{ site.baseurl }}/assets/kreversi-kde3.png)) 
 Below you can also see quick screenshots of KMahjongg, KMines and KSudoku, all as they would appear in openSUSE 10.3:
 
 
-[![KMahjongg in KDE4]({{ site.baseurl }}/assets/kmahjongg_thumb.jpg)]({{ site.baseurl }}/assets/kmahjongg.png) [![KMines in KDE4]({{ site.baseurl }}/assets/kmines_thumb.jpg)]({{ site.baseurl }}/assets/kmines.png) [![KSudoku in KDE4]({{ site.baseurl }}/assets/ksudoku_thumb.jpg)]({{ site.baseurl }}/assets/ksudoku.png)
+[![KMahjongg in KDE4](//news.opensuse.org/wp-content/uploads/2007/09/kmahjongg_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kmahjongg.png) [![KMines in KDE4](//news.opensuse.org/wp-content/uploads/2007/09/kmines_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kmines.png) [![KSudoku in KDE4](//news.opensuse.org/wp-content/uploads/2007/09/ksudoku_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/ksudoku.png)
 
 
 
@@ -95,13 +98,13 @@ Two other applications that were shown to be mature and stable enough to make it
 Nevertheless, as the result of a Google Summer of Code [project](http://code.google.com/soc/2007/kde/appinfo.html?csaid=9064143E62AF5BA6), KRDC's user interface has been completely redesigned, and countless bugs and enhancement requests have been resolved. The new user interface is cleaner and more clearly orientated to the common task: connecting to another computer.
 
 
-[![KRDC in KDE4]({{ site.baseurl }}/assets/krdc_thumb.jpg)]({{ site.baseurl }}/assets/krdc.png)
+[![KRDC in KDE4](//news.opensuse.org/wp-content/uploads/2007/09/krdc_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/krdc.png)
 
 
 Among other big improvements, it also contains a tabbed interface to easily navigate through your remote desktop sessions:
 
 
-[![KRDC in KDE4]({{ site.baseurl }}/assets/krdc1_thumb.jpg)]({{ site.baseurl }}/assets/krdc1.png)
+[![KRDC in KDE4](//news.opensuse.org/wp-content/uploads/2007/09/krdc1_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/krdc1.png)
 
 
 
@@ -109,7 +112,7 @@ Among other big improvements, it also contains a tabbed interface to easily navi
 
 
 
-## Talk with **Dirk Müller**
+## Talk with **Dirk MÃ¼ller**
 
 
 I caught up with Dirk to find out a little more about KDE 4, and KDE in openSUSE.
@@ -161,4 +164,6 @@ The sysinfo:/ IOslave will probably not go into upstream KDE 4.0 because it is v
 Our main targets are getting KDE 4 on the road and adding one or two extra openSUSE goodies into it as usual ;) .  There are a lot of areas where we can profit from the new features in the KDE4 platform and we're going to make sure that by running KDE you have the richest web and desktop experience available. :)
 
 
-### Thanks!	
+### Thanks!
+
+Be sure  to review all of your options for online graduate degrees in order to find the one that best complements your existing experience and passions

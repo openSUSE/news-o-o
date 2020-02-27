@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-04-28 18:29:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/04/28/opensuse-announces-community-release-team/
-title: "openSUSE announces Community Release Team"
+slug: opensuse-announces-community-release-team
+title: openSUSE announces Community Release Team
+wordpress_id: 19829
 categories:
 - Announcements
 - Project
 ---
-![Leap-green]({{ site.baseurl }}/assets/Leap-green-254x300.png)The openSUSE Board announced today a call to action for a [Community Release Team](https://lists.opensuse.org/opensuse-factory/2016-04/msg00536.html) to assist with tasks associated to the development of the next Leap version 42.2.
+
+![Leap-green](/wp-content/uploads/2016/04/Leap-green.png)The openSUSE Board announced today a call to action for a [Community Release Team](https://lists.opensuse.org/opensuse-factory/2016-04/msg00536.html) to assist with tasks associated to the development of the next Leap version 42.2.
 
 The announcement was made in an email to the project’s development mailing list opensuse-factory (at) opensuse.org.
 
@@ -27,4 +30,4 @@ The documentation tasks include updating content on the wiki and ensuring releas
 
 People interested in joining the Community Release Team should contact the board and Nussel.
 
-A link to the action items from the last release can be found at [http://tinyurl.com/grg5szf](http://tinyurl.com/grg5szf) and volunteers are welcomed to expand the tasks.		
+A link to the action items from the last release can be found at [http://tinyurl.com/grg5szf](http://tinyurl.com/grg5szf) and volunteers are welcomed to expand the tasks.

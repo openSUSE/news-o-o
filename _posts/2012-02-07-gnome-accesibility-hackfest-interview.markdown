@@ -1,17 +1,20 @@
 ---
 author: Kostas Koudaras
+comments: true
 date: 2012-02-07 09:47:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/
-title: "GNOME Accessibility Hackfest (interview)"
+slug: gnome-accesibility-hackfest-interview
+title: GNOME Accessibility Hackfest (interview)
+wordpress_id: 12562
 categories:
 - Events
 ---
+
 A few weeks ago in A CoruÃ±a,Â Spain a [Hackfest](https://live.gnome.org/Hackfests/ATK2011) around [GNOME Accessibility](http://www.gnome.org/news/2012/01/hackfest-plans-to-improve-gnome-accessibility/) took place hosted by [Igalia](http://www.igalia.com/) . openSUSE found the opportunity to make some questions to the people involved and then learn a bit more about this interesting Project. Our interviewers were Alejandro PiÃ±eiro Iglesias, Joanmarie Diggs and Juanjo MarÃ­n.
 
 
-Â [![]({{ site.baseurl }}/assets/6730171039_47ceeff56d_b-300x200.jpg)](https://news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/6730171039_47ceeff56d_b/)
+Â [![](/wp-content/uploads/2012/02/6730171039_47ceeff56d_b.jpg)](http://news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/6730171039_47ceeff56d_b/)
 
 
 **1 - What is ATK and AT-SPI in simple words?**
@@ -39,12 +42,12 @@ Yes, in our opinion financial costs do make things more difficult for the end us
 
 
 
-**4 - How did you get involved with GNOME Accessibility? [![]({{ site.baseurl }}/assets/Gnome-Acces-logo.png)](https://news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/gnome-acces-logo/)
+**4 - How did you get involved with GNOME Accessibility? [![](/wp-content/uploads/2012/01/Gnome-Acces-logo.png)](http://news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/gnome-acces-logo/)
 **
 
 PiÃ±eiro: In my case it started when a former contractor asked Igalia to provide support for automatic testing. Accessibility technologies are also used to implement automatic testing (like the Mago project). As one of the outcomes of that work, I implemented a basic ATK implementation for Clutter. Then we decided that it would be useful to use that work for accessibility purposes. I contacted the Clutter maintainers to see if they would be interested. They were, so we started to include that functionality in Clutter itself. As part of that work, I began interacting with the GNOME Accessibility developer community and also attended the Boston Summit where I met Joanmarie Diggs who is one of the Orca developers.
 
-Joanmarie: In 2006 Massachusetts announced their decision to make ODF the official file format of the Commonwealth. At that time, I was an Assistive Technology Specialist working at the Carroll Center for the Blind and, due to some issues surrounding the Commonwealth's decision, a number of companies began paying us a visit to talk about free desktop accessibility. One of those companies was Sun Microsystems, which in those days was where much of the GNOME Accessibility development effort was housed. Orca was amongst the items presented to us, and for the first time I saw something I had wanted for the bulk of the previous decade, namely a screen reader that didn™t cost $1200 and which users and instructors could truly make their own by providing input and contributing code. At the time, my non-work systems were running Kubuntu, so it was just a matter of crossing over to GNOME and getting up to speed on Orca and how things worked in the GNOME community.
+Joanmarie: In 2006 Massachusetts announced their decision to make ODF the official file format of the Commonwealth. At that time, I was an Assistive Technology Specialist working at the Carroll Center for the Blind and, due to some issues surrounding the Commonwealth's decision, a number of companies began paying us a visit to talk about free desktop accessibility. One of those companies was Sun Microsystems, which in those days was where much of the GNOME Accessibility development effort was housed. Orca was amongst the items presented to us, and for the first time I saw something I had wanted for the bulk of the previous decade, namely a screen reader that didnâ€™t cost $1200 and which users and instructors could truly make their own by providing input and contributing code. At the time, my non-work systems were running Kubuntu, so it was just a matter of crossing over to GNOME and getting up to speed on Orca and how things worked in the GNOME community.
 
 
 
@@ -70,4 +73,4 @@ The most immediate next step is to implement solutions based on the conclusions 
 
 **Anyone interested in contribute can take a look atÂ [http://projects.gnome.org/accessibility/](http://projects.gnome.org/accessibility/)**
 
-Thanks to GNOME accessibility team!		
+Thanks to GNOME accessibility team!

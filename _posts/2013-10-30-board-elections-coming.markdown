@@ -1,16 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-30 17:24:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/30/board-elections-coming/
-title: "Board Elections Coming!"
+slug: board-elections-coming
+title: Board Elections Coming!
+wordpress_id: 17293
 categories:
 - Announcements
 - Board
 - Project
 ---
-[![GeekoVote]({{ site.baseurl }}/assets/GeekoVote.png)]({{ site.baseurl }}/assets/GeekoVote.png)
+
+[![GeekoVote](//news.opensuse.org/wp-content/uploads/2012/11/GeekoVote.png)](//news.opensuse.org/wp-content/uploads/2012/11/GeekoVote.png)
 The end of the year is approaching. And besides Santa and fireworks, Geekos know: the openSUSE board gets a refresh! The openSUSE Election Committee has announced the time line for this year's elections and asked candidates to step forward for the job!
 
 
@@ -57,4 +60,4 @@ For these elections, this is the time line:
 
 
 
-Click [here](https://connect.opensuse.org/pg/polls/read/digitaltomm/43818/opensuse-board-election-2013) to cast your vote! Note that you have to be logged in with your usual openSUSE credentials to see this page and cast your vote.		
+Click [here](https://connect.opensuse.org/pg/polls/read/digitaltomm/43818/opensuse-board-election-2013) to cast your vote! Note that you have to be logged in with your usual openSUSE credentials to see this page and cast your vote.

@@ -1,13 +1,16 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2014-09-09 04:03:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/09/09/gopesh-talks-about-his-gsoc-experience-as-an-opensuse-student/
-title: "Gopesh talks about his GSoC Experience as an openSUSE student"
+slug: gopesh-talks-about-his-gsoc-experience-as-an-opensuse-student
+title: Gopesh talks about his GSoC Experience as an openSUSE student
+wordpress_id: 18535
 categories:
 - Google Summer of Code
 ---
+
 **GSoC:My journey with openSUSE begins**
 
 Hello everyone, I am Gopesh Tulsyan from India.I got involved with openSUSE community during GSoC to add features to OSEM(Open Source Event Manager Application).I am currently studying  Information Technology in National Institute of Technology, Durgapur ,India.
@@ -48,4 +51,4 @@ There is one person behind of all the work I have done so far successfully and t
 
 
 
-_**Article is contributed by Gopesh Tulsyan**_		
+_**Article is contributed by Gopesh Tulsyan**_

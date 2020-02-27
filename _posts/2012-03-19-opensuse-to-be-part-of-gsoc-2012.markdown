@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-03-19 20:14:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/03/19/opensuse-to-be-part-of-gsoc-2012/
-title: "openSUSE to be part of GSOC 2012!"
+slug: opensuse-to-be-part-of-gsoc-2012
+title: openSUSE to be part of GSOC 2012!
+wordpress_id: 12948
 categories:
 - Google Summer of Code
 ---
-[![GSOC 12 logo with openSUSE Geeko]({{ site.baseurl }}/assets/GSOC-12-logo-openSUSE-300x152.png)](https://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/gsoc-12-logo-opensuse/)
+
+[![GSOC 12 logo with openSUSE Geeko](/wp-content/uploads/2012/02/GSOC-12-logo-openSUSE.png)](http://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/gsoc-12-logo-opensuse/)
 
 Good news! As followers of our [openSUSE Google+ account already know](https://plus.google.com/110312141834246266844/posts), openSUSE will be part of GSOC 2012. That means it is now time for the students to take the [openSUSE GSOC ideas](http://en.opensuse.org/openSUSE:GSOC_2012_Ideas), find a mentor and start creating proposals to be submitted to Google. We've got until **April 6th** for this, at which point openSUSE and Google will start to look at the proposals.
 
@@ -81,4 +84,4 @@ You can find all information about our GSOC program on [our wiki](http://en.open
   * Matt Barringer
 
 
-They hang out on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net)!		
+They hang out on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net)!

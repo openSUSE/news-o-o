@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-23 16:03:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/23/people-of-opensuse-jan-engelhardt/
-title: "People of openSUSE: Jan Engelhardt"
+slug: people-of-opensuse-jan-engelhardt
+title: 'People of openSUSE: Jan Engelhardt'
+wordpress_id: 1566
 categories:
 - People of openSUSE
 ---
-
 
 Jan is one of silent community members that is active in kernel packaging and development area. Thanks to him openSUSE users have had chance to try stable real time kernel (RT kernel). He doesn't take time to chat very often, but if you have problem and it is kernel related there is a great chance that you will have his attention, specially if you post your question to opensuse-kernel mail list. 
 
@@ -18,17 +19,102 @@ Jan mentioned that openSUSE 11.1 users don't have RT kernel due to difficulties 
 
 <!-- more -->
 
-![jan-engelhardt]({{ site.baseurl }}/assets/jan-engelhardt.png)
-|||
-|--- |--- |
-|**Nicknames:**|jengelh|
-|**Homepage:**|[http://jengelh.medozas.de/](http://jengelh.medozas.de/)|
-|**Blog:**|The right half of the [home page](http://jengelh.medozas.de/)|
-|||
-|**Favorite season:**|Any is fine, as long as it does not precipitate more than a drizzle.|
-|**Motto:**|See: The Rules of Acquisition|
-||(StarTrek fans [see here](http://en.wikipedia.org/wiki/Rules_of_Acquisition))|
 
+<table width="100%" border="0" >
+<tr >
+
+<td >
+
+
+
+</td>
+
+<td >
+
+</td>
+
+<td align="center" rowspan="9" >![jan-engelhardt](/wp-content/uploads/2009/04/jan-engelhardt.png)
+
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >jengelh
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://jengelh.medozas.de/](http://jengelh.medozas.de/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >The right half of the [home page](http://jengelh.medozas.de/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Any is fine, as long as it does not precipitate more than a drizzle.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >See: The Rules of Acquisition 
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >(StarTrek fans [see here](http://en.wikipedia.org/wiki/Rules_of_Acquisition))
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -361,7 +447,7 @@ I already have an UPS, due to:
 * bad electric stability in certain apartment buildings
 * common thunderbolt hitpoint no more than 600m away.
 
-So no ” nothing ain't interrupting my work no more.
+So no â€” nothing ain't interrupting my work no more.
 
 
 
@@ -419,5 +505,3 @@ Personal information. That is, well, personal.
 Answer:
 I keep the Euro, (Happy) Hardcore, Goa and New Age channels from Digitally Imported in xmms. 
 
-
-		

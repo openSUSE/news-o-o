@@ -2,7 +2,7 @@
 layout: default
 ---
 <ol class="breadcrumb">
-	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/"><span class="typcn typcn-news"></span> News</a></li>
+	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/"><span class="fa fa-newspaper-o"></span> News</a></li>
 	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y" }}</a></li>
 	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/{{ page.date | date: "%Y/%m" }}">{{ page.date | date: "%B" }}</a></li>
 	<li class="breadcrumb-item active text-truncate">{{ page.date | date: "%d" }}</li>
@@ -13,6 +13,7 @@ layout: default
 			{% for post in page.posts %}
 			{% include single-post.html %}
 			{% endfor %}
+			{% include pagination.html %}
 		</div>
 	</div>
 </div>

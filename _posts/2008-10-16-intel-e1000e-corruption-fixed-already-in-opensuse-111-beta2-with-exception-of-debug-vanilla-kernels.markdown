@@ -1,15 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-10-16 06:15:00+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/10/16/intel-e1000e-corruption-fixed-already-in-opensuse-111-beta2-with-exception-of-debug-vanilla-kernels/
-title: "Intel e1000e Corruption Fixed “ Already in openSUSE 11.1 Beta2\
-  \ (with exception of Debug, Vanilla Kernels)"
+slug: intel-e1000e-corruption-fixed-already-in-opensuse-111-beta2-with-exception-of-debug-vanilla-kernels
+title: Intel e1000e Corruption Fixed â€“ Already in openSUSE 11.1 Beta2 (with exception
+  of Debug, Vanilla Kernels)
+wordpress_id: 1044
 categories:
 - Distribution
 ---
-The patches we [did for the Intel e1000e network card for Beta2](https://news.opensuse.org/2008/10/03/status-of-the-e1000e-issue/) protect the chip so that the NVRAM could not get corrupted anymore and we indeed did not receive any new bug reports and could not reproduce the bug anymore on our systems.
+
+The patches we [did for the Intel e1000e network card for Beta2](http://news.opensuse.org/2008/10/03/status-of-the-e1000e-issue/) protect the chip so that the NVRAM could not get corrupted anymore and we indeed did not receive any new bug reports and could not reproduce the bug anymore on our systems.
 
 Further investigation by Intel has found the root cause of the problem as Steven Rostedt wrote on the [linux kernel mailing list](http://lkml.org/lkml/2008/10/15/337) : The dynamic ftrace code contained some fragile code that could write to ioremap-ed memory and thus corrupt the NVRAM.Â  The issue could happen "when the init functions of a module are freed and the nvram is vmapped there as well".Â  The full story can be found on [LKML.](http://lkml.org/lkml/2008/10/15/337)
 
@@ -27,4 +30,4 @@ I'd like to thank all that were involved in debugging and fixing the issues arou
 ## Fixing Erased e1000e NICs
 
 
-Karsten Keil has developed a way to fix broken e1000e eproms.Â  Please contact him at kkeil@suse.de in case you need to recover from this bug.		
+Karsten Keil has developed a way to fix broken e1000e eproms.Â  Please contact him at kkeil@suse.de in case you need to recover from this bug.

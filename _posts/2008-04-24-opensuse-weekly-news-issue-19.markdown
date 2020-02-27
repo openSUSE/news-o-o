@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-24 06:42:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/24/opensuse-weekly-news-issue-19/
-title: "openSUSE Weekly News, Issue 19"
+slug: opensuse-weekly-news-issue-19
+title: openSUSE Weekly News, Issue 19
+wordpress_id: 738
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue #19 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/19)!
 
@@ -34,5 +35,3 @@ In this week's issue:
   * Lukas Ocilka: Image-based Installation
 
 
-
-		

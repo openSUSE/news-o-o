@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2014-04-12 15:49:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/12/news-from-your-opensuse-admins/
-title: "News from your openSUSE admins"
+slug: news-from-your-opensuse-admins
+title: News from your openSUSE admins
+wordpress_id: 17837
 categories:
 - Conference
 - Infrastructure
@@ -15,8 +17,7 @@ tags:
 - opensuse
 ---
 
-
-## Heartbleed and openSUSE infrastructure[![Heartbleed Logo]({{ site.baseurl }}/assets/heartbleed-128x150.png)](http://heartbleed.com/)
+## Heartbleed and openSUSE infrastructure[![Heartbleed Logo](/wp-content/uploads/2014/04/heartbleed.png)](http://heartbleed.com/)
 
 
 As people started to ask, we checked all openSUSE servers and can confirm that none of them is affected by the [heartbleed bug](http://heartbleed.com/).
@@ -37,7 +38,7 @@ If you want to sync packages to your local machine(s) via rsync: please pick a m
 ## New hardware
 
 
-({{ site.baseurl }}/assets/obs_server-150x150.jpg) All the racks of the OBS reference server
+[caption id="attachment_15924" align="alignleft" width="150"]![All the racks of the OBS reference server](/wp-content/uploads/2013/04/obs_server.jpg) All the racks of the OBS reference server[/caption]
 
 You may have noticed already that the openSUSE team installed a [new version of openQA](https://news.opensuse.org/2014/04/04/the-new-generation-of-openqa-hits-the-production-server/) on the production server. An additional news item might be that this new version has seen also new hardware to run faster than ever.
 
@@ -47,12 +48,12 @@ But not only openQA, also the database cluster behind download.opensuse.org has 
 ## Admins on openSUSE Conference
 
 
-These year, three of our main European [openSUSE administrators](http://en.opensuse.org/openSUSE:Services_team) are able to attend to the openSUSE Conference in Dubrovnik:![Geekocamp]({{ site.baseurl }}/assets/Geekocamp-150x146.jpg)
+These year, three of our main European [openSUSE administrators](http://en.opensuse.org/openSUSE:Services_team) are able to attend to the openSUSE Conference in Dubrovnik:![Geekocamp](/wp-content/uploads/2011/06/Geekocamp.jpg)
 
 
 
 	
-  * Markus Rückert
+  * Markus RÃ¼ckert
 
 	
   * Martin Caj
@@ -69,4 +70,4 @@ And they will not only participate: instead they are providing talks and help wi
 
 
 
-		
+

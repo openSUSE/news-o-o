@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-10-31 13:36:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/10/31/opensuse-weekly-news-95-is-out/
-title: "OpenSUSE Weekly News #95 is out!"
+slug: opensuse-weekly-news-95-is-out
+title: 'OpenSUSE Weekly News #95 is out!'
+wordpress_id: 2420
 categories:
 - Weekly News
 tags:
@@ -12,7 +14,8 @@ tags:
 - opensuse
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #95 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/95)!
+
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #95 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/95)!
 
 In this week's issue:
 
@@ -47,4 +50,4 @@ In this week's issue:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/95/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/95/Translations).		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/95/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/95/Translations).

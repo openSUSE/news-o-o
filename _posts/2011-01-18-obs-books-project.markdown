@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2011-01-18 12:46:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/01/18/obs-books-project/
-title: "OBS Books Project"
+slug: obs-books-project
+title: OBS Books Project
+wordpress_id: 6350
 categories:
 - Build Service
 ---
+
 openSUSE Build Service (OBS) has a problem. It is horrible powerful, but no one knows. Or no one knows how to make use of it in short.
 
 Our documentation exists only in the wiki so far. While the wiki is still and will remain as a documentation resource, several of us OBS users and developers think we need something more structured and edited. A real book in short, which you can read to get an entire overview.
@@ -29,4 +32,3 @@ Please read also the current [preface](http://doc.opensuse.org/products/draft/OB
 Also the license of these books is the same as the license of the texts in the openSUSE wiki (GFDL). This means we can copy all text parts from the wiki to the book and vice versa.
 
 And of course, come to the [opensuse-buildservice mailing list](http://lists.opensuse.org/opensuse-buildservice/) for discussing any of the articles, goals or suggestions. Nothing is in stone :)
-		

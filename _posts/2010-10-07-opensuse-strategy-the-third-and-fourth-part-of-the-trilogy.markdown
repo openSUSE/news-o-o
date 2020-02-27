@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-10-07 23:23:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/07/opensuse-strategy-the-third-and-fourth-part-of-the-trilogy/
-title: "openSUSE Strategy: the third and fourth part of the trilogy!"
+slug: opensuse-strategy-the-third-and-fourth-part-of-the-trilogy
+title: 'openSUSE Strategy: the third and fourth part of the trilogy!'
+wordpress_id: 5042
 categories:
 - Project
 tags:
 - Strategy
 ---
+
 Hi all,![Future Lizard!\](http://en.opensuse.org/images/a/af/Future.png)
 
 The last week we again received over 100 comments on the first and second part of our strategy. A few refinements came in on our description of our target users, but most of the input was on the second part about what we offer. We have again incorporated all the comments into the document and a new iteration can be found on [co-ment](https://lite.co-ment.com/text/lNPCgzeGHdV/view/).
@@ -24,4 +27,4 @@ Giving your input on [co-ment](https://lite.co-ment.com/text/lNPCgzeGHdV/view/) 
 You can find the document [here](https://lite.co-ment.com/text/lNPCgzeGHdV/view/). And for reference [here the openSUSE Strategy portal](http://en.opensuse.org/Portal:Strategy) on the wiki. Please have fun!
 
 Greetings,
-Your strategy team		
+Your strategy team

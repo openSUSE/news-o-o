@@ -1,18 +1,21 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2015-03-31 11:51:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/03/31/screenshot-contest/
-title: "Gear Up For The Screenshot Contest!"
+slug: screenshot-contest
+title: Gear Up For The Screenshot Contest!
+wordpress_id: 19146
 categories:
 - Announcements
 - Project
 ---
+
 Greetings, green portion of the GNU/Linux web! It's been a while since you last heard from us, so let's say we give you **something special** this time around.
 
 
-[![Wanna Play a Game?]({{ site.baseurl }}/assets/play_a_game-150x150.jpg)]({{ site.baseurl }}/assets/play_a_game.jpg)All of us users of open and free operating systems tend to celebrate the **flexibility** of our systems and desktop environments so we can tailor our systems to work best with our specific workflows. Often, we like to show off our desktops to the web vastness. So, how about we play a little game? How about we fill up the web with the best,** most innovative desktops**, and show off the power and flexibility of our **geeko-powered** mean machines?
+[![Wanna Play a Game?](/wp-content/uploads/2015/03/play_a_game.jpg)](/wp-content/uploads/2015/03/play_a_game.jpg)All of us users of open and free operating systems tend to celebrate the **flexibility** of our systems and desktop environments so we can tailor our systems to work best with our specific workflows. Often, we like to show off our desktops to the web vastness. So, how about we play a little game? How about we fill up the web with the best,** most innovative desktops**, and show off the power and flexibility of our **geeko-powered** mean machines?
 
 
 
@@ -36,7 +39,7 @@ So **the rules** are quite simple:
 
 - The aforementioned reward-packs are:
 
-[![ScreenshotReward1]({{ site.baseurl }}/assets/DSC_5907-300x196.jpg)]({{ site.baseurl }}/assets/DSC_5907.jpg)[![ScreenshotReward2]({{ site.baseurl }}/assets/DSC_5909-300x181.jpg)]({{ site.baseurl }}/assets/DSC_5909.jpg)
+[![ScreenshotReward1](/wp-content/uploads/2015/03/DSC_5907.jpg)](/wp-content/uploads/2015/03/DSC_5907.jpg)[![ScreenshotReward2](/wp-content/uploads/2015/03/DSC_5909.jpg)](/wp-content/uploads/2015/03/DSC_5909.jpg)
 
 
 
@@ -58,5 +61,3 @@ Let the games begin...
 
 
 ##### ...but still, do have a lot of fun, won't ya ;)
-
-		

@@ -1,16 +1,19 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2011-04-23 20:29:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/
-title: "GNOME 3.0 arrives for openSUSE 11.4"
+slug: gnome-3-0-arrives-for-opensuse-11-4
+title: GNOME 3.0 arrives for openSUSE 11.4
+wordpress_id: 8548
 categories:
 - Announcements
 - Distribution
 ---
+
 The wait is finally over and the much anticipated release of GNOME 3 on openSUSE's latest distro release, 11.4 is ready for download at a desktop near you.Â  [Frederic Crozat](http://blog.crozat.net/), a member of the openSUSE GNOME Team, has been working tirelessly, burning the midnight oil getting GNOME3 stable enough for you all to use.Â  See his [blog](http://goo.gl/EwL5C) for the full details. Our friends from GNOME Foundation also welcomed GNOME 3 for openSUSE with a welcome tweet.
-[](https://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-3/)[](https://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-4/)[![]({{ site.baseurl }}/assets/gnome1.png)](https://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-4/)<!-- more -->
+[](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-3/)[](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-4/)[![](/wp-content/uploads/2011/04/gnome1.png)](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-4/)<!-- more -->
 Detailed instructions can be found at [on our GNOME 3.0 page](http://en.opensuse.org/openSUSE:GNOME_3.0).including:
 
 
@@ -34,7 +37,7 @@ To find an overview of what's new in GNOME 3, read [the official GNOME 3 website
 ### Activity Bar
 
 
-[![GNOME 3 Activities]({{ site.baseurl }}/assets/g3-activities-300x168.jpg)](https://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/g3-activities/)One of the most exciting features of GNOME 3.0 is the new activity bar. With the activity bar, you can track your todos and day to day activity along with cool features like accessibility, instant messaging, nifty application access and power options. Activity bar replaces your desktop and brings to you a new desktop experience.
+[![GNOME 3 Activities](/wp-content/uploads/2011/04/g3-activities.jpg)](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/g3-activities/)One of the most exciting features of GNOME 3.0 is the new activity bar. With the activity bar, you can track your todos and day to day activity along with cool features like accessibility, instant messaging, nifty application access and power options. Activity bar replaces your desktop and brings to you a new desktop experience.
 
 
 ### NetworkManager integration
@@ -46,8 +49,8 @@ openSUSE ships with the latest 0.9 version of NetworkManager. This release bring
 ### Accessibility
 
 
-The GNOME community has always put much effort in enabling the use of GNOME software for disabled users. GNOME 3 makes accessibility even more prominent by offering access to a wide range of basic settings directly on the ˜Activities bar™.
-[![]({{ site.baseurl }}/assets/Screenshot-2-300x193.png)](https://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/screenshot-2/)
+The GNOME community has always put much effort in enabling the use of GNOME software for disabled users. GNOME 3 makes accessibility even more prominent by offering access to a wide range of basic settings directly on the â€˜Activities barâ€™.
+[![](/wp-content/uploads/2011/04/Screenshot-2.png)](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/screenshot-2/)
 
 
 ### Messaging
@@ -65,4 +68,4 @@ Enjoy GNOME 3 on 11.4, as so many others already have!
 
 Note : Please read known issues before installing GNOME3 on your system.
 
-_Article Contributed by Nelson Marques_		
+_Article Contributed by Nelson Marques_

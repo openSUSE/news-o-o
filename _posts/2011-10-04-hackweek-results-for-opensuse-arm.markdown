@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-10-04 12:00:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/04/hackweek-results-for-opensuse-arm/
-title: "Hackweek results for openSUSE ARM"
+slug: hackweek-results-for-opensuse-arm
+title: Hackweek results for openSUSE ARM
+wordpress_id: 11189
 categories:
 - Events
 - Hack Week
 ---
-[![ARM powered logo]({{ site.baseurl }}/assets/150px-ARM_powered.png)](https://news.opensuse.org/2011/10/04/hackweek-results-for-opensuse-arm/150px-arm_powered/)
 
-Last Friday Dirk Müller [send an email to openSUSE-Factory](http://lists.opensuse.org/opensuse-factory/2011-09/msg01259.html) about the status of the [openSUSE ARM port](http://en.opensuse.org/Portal:ARM). SUSE employees Adrian, Alexander, Dirk and Reinhard had spend their Hackweek revitalizing the initial work by Jan-Simon and Martin by getting openSUSE Factory on ARM to build and work. The [current build status on OBS](https://build.opensuse.org/project/show?project=openSUSE%3AFactory%3AARM) shows that almost  2500 packages are working successfully and the team invites anyone interested to come and help increase that number!
+[![ARM powered logo](/wp-content/uploads/2011/10/150px-ARM_powered.png)](http://news.opensuse.org/2011/10/04/hackweek-results-for-opensuse-arm/150px-arm_powered/)
+
+Last Friday Dirk MÃ¼ller [send an email to openSUSE-Factory](http://lists.opensuse.org/opensuse-factory/2011-09/msg01259.html) about the status of the [openSUSE ARM port](http://en.opensuse.org/Portal:ARM). SUSE employees Adrian, Alexander, Dirk and Reinhard had spend their Hackweek revitalizing the initial work by Jan-Simon and Martin by getting openSUSE Factory on ARM to build and work. The [current build status on OBS](https://build.opensuse.org/project/show?project=openSUSE%3AFactory%3AARM) shows that almost  2500 packages are working successfully and the team invites anyone interested to come and help increase that number!
 
 <!-- more -->
 
@@ -20,7 +23,7 @@ Last Friday Dirk Müller [send an email to openSUSE-Factory](http://lists.opensu
 ## Hackweek and ARM
 
 
-The openSUSE ARM efforts were [announced by Andrew Wafaa](http://www.wafaa.eu/entry/growing-some-opensuse-arms-1-69.html) after the [openSUSE Conference in Nuremberg](https://news.opensuse.org/2011/09/15/opensuse-conference-fun/). The [openSUSE ARM mailing list](http://lists.opensuse.org/opensuse-arm/
+The openSUSE ARM efforts were [announced by Andrew Wafaa](http://www.wafaa.eu/entry/growing-some-opensuse-arms-1-69.html) after the [openSUSE Conference in Nuremberg](http://news.opensuse.org/2011/09/15/opensuse-conference-fun/). The [openSUSE ARM mailing list](http://lists.opensuse.org/opensuse-arm/
 ) as well as the [#openSUSE-arm IRC channel](irc://irc.freenode.net/opensuse-arm) are buzzing with activity. The Hackweek bootstrapped openSUSE on ARM.
 
 Hackweek is a SUSE tradition where there is one week per year during which any engineer can work on whatever Free Software project he or she wishes. This week, called [Hackweek](http://en.opensuse.org/Portal:Hackweek) is in it's [7th incarnation now](http://blip.tv/opensuse) and over the years has resulted in many exciting contributions to new or existing Free Software projects. This year, a team of four SUSE employees worked with the openSUSE community to get openSUSE ARM in the air.
@@ -45,4 +48,4 @@ Building packages locally to test is not difficult thanks to [QEMU](http://qemu.
 
 The current status, as well as information on how to get involved and what needs doing can be [found on the openSUSE Wiki](http://en.opensuse.org/How_To_Work_On_openSUSE_ARM_Distribution).
 
-If you want to get involved or are just curious about the status, check out [openSUSE's new ARMs!](http://en.opensuse.org/Portal:ARM)		
+If you want to get involved or are just curious about the status, check out [openSUSE's new ARMs!](http://en.opensuse.org/Portal:ARM)

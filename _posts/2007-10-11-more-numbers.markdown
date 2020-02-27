@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-10-11 16:20:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/11/more-numbers/
-title: "More openSUSE 10.3 Numbers"
+slug: more-numbers
+title: More openSUSE 10.3 Numbers
+wordpress_id: 450
 categories:
 - Distribution
 ---
+
 Last week we released openSUSE 10.3, and we want to keep you updated on its very successful launch. I finally got some more numbers:
 
 During the first 30 hours we changed the priority on our download redirector to prefer our network; these are basically the numbers of all people went to software/download.opensuse.org and not directly to a mirror. This was to help take a little load off the mirrors during the peak time.
@@ -42,7 +45,7 @@ That's right, **100 Terabytes!**
 
 (Last updated on 10.10.2007)
 
-Approximately 40,000 for [openSUSE 10.3 GM](https://news.opensuse.org/?p=400). 45,913 were counted, but you have to subtract pre-GoldMaster installations in October. In comparison with openSUSE 10.2, and including only the first 4 days, it's **34% increase!**
+Approximately 40,000 for [openSUSE 10.3 GM](//news.opensuse.org/?p=400). 45,913 were counted, but you have to subtract pre-GoldMaster installations in October. In comparison with openSUSE 10.2, and including only the first 4 days, it's **34% increase!**
 
 
 
@@ -57,4 +60,4 @@ Trended _page views_ per day at openSUSE.org:
 Trended _visits_ at openSUSE.org:
 10.3 peaked at release to 180,000 (average day: 80,000) +125% peak
 
- You will also learn how to manage [essay from experienced writers with](https://writemyessay4me.org/) the social and political issues that are central to making these changes successful over time		
+ You will also learn how to manage [essay from experienced writers with](https://writemyessay4me.org/) the social and political issues that are central to making these changes successful over time

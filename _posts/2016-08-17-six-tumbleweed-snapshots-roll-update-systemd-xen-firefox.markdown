@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-08-17 09:11:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/08/17/six-tumbleweed-snapshots-roll-update-systemd-xen-firefox/
-title: "Six Tumbleweed snapshots roll, update systemd, xen, Firefox"
+slug: six-tumbleweed-snapshots-roll-update-systemd-xen-firefox
+title: Six Tumbleweed snapshots roll, update systemd, xen, Firefox
+wordpress_id: 20071
 categories:
 - Leap
 - Tumbleweed
@@ -19,7 +21,8 @@ tags:
 - wine
 - Xen
 ---
-[![Screen Shot 2015-09-10 at 15.46.06 copy]({{ site.baseurl }}/assets/Screen-Shot-2015-09-10-at-15.46.06-copy.png)Snapshot 20160808](https://lists.opensuse.org/opensuse-factory/2016-08/msg00200.html) brought openSUSE [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) users [Plasma 5.72](https://www.kde.org/announcements/plasma5.0/) shortly after last week's article was published, but it didn’t last long.
+
+[![Screen Shot 2015-09-10 at 15.46.06 copy](/wp-content/uploads/2015/09/Screen-Shot-2015-09-10-at-15.46.06-copy.png)Snapshot 20160808](https://lists.opensuse.org/opensuse-factory/2016-08/msg00200.html) brought openSUSE [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) users [Plasma 5.72](https://www.kde.org/announcements/plasma5.0/) shortly after last week's article was published, but it didn’t last long.
 
 This week Tumbleweed appears to have a strong wind making it roll remarkably fast as openSUSE’s popular rolling release had six snapshots since the last update was published.
 
@@ -39,4 +42,4 @@ Updates for gnome-photos to 3.20.3, [wine to 1.9.16](https://www.winehq.org/news
 
 New packages in [openSUSE Factory](https://en.opensuse.org/openSUSE:Factory_development_model) will automatically be submitted for the next release of Leap until Beta 2. Beta 2 is the freeze to get packages into the release of [openSUSE Leap 42.2](https://en.opensuse.org/openSUSE:Roadmap).
 
-For those who want to get packages in the Beta 1, the submission deadline is August 25. The Release of Leap’s Beta 1 is expected to be released for testing on August 31. Testers are encouraged to test the latest development versions of Leap, which can be found at [software.opensuse.org](https://software.opensuse.org/developer/en?release=developer).		
+For those who want to get packages in the Beta 1, the submission deadline is August 25. The Release of Leap’s Beta 1 is expected to be released for testing on August 31. Testers are encouraged to test the latest development versions of Leap, which can be found at [software.opensuse.org](https://software.opensuse.org/developer/en?release=developer).

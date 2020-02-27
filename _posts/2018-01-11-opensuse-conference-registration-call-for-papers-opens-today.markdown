@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-01-11 09:39:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/11/opensuse-conference-registration-call-for-papers-opens-today/
-title: "openSUSE Conference Registration, Call For Papers Opens Today"
+slug: opensuse-conference-registration-call-for-papers-opens-today
+title: openSUSE Conference Registration, Call For Papers Opens Today
+wordpress_id: 20607
 categories:
 - Announcements
 - Conference
@@ -18,7 +20,8 @@ tags:
 - Prague
 - registration
 ---
-![]({{ site.baseurl }}/assets/Day2-Sunday-068_DSC_7651.jpg)
+
+![](/wp-content/uploads/2018/01/Day2-Sunday-068_DSC_7651.jpg)
 
 openSUSE is pleased to announce that registration and the call for papers for the [openSUSE Conference 2018](https://events.opensuse.org/conference/oSC18) (oSC18), which takes place in Prague, Czech Republic, are open.
 
@@ -77,4 +80,4 @@ A Program Committee will evaluate the proposals based on the submitted abstracts
 
 Volunteers who would like to participate on the Program Committee or the Organizing Team for the conference should email ddemaio (@) suse.de and phodac (@) suse.cz.
 
-Visit[ events.opensuse.org](http://events.opensuse.org) for more information about oSC18.		
+Visit[ events.opensuse.org](http://events.opensuse.org) for more information about oSC18.

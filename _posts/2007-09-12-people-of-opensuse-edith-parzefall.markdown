@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-12 13:45:38+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/12/people-of-opensuse-edith-parzefall/
-title: "People of openSUSE: Edith Parzefall"
+slug: people-of-opensuse-edith-parzefall
+title: 'People of openSUSE: Edith Parzefall'
+wordpress_id: 220
 categories:
 - People of openSUSE
 ---
- 	 	 	 	 	 	
+
+	 	 	 	 	 	
 
 Here are Edith Parzefall's answers to the 'People of openSUSE' questions. Have a lot of fun...
 
@@ -16,17 +19,105 @@ Here are Edith Parzefall's answers to the 'People of openSUSE' questions. Have a
 
 
 
-![edith_parzefall.jpg]({{ site.baseurl }}/assets/edith_parzefall.jpg)
-|||
-|--- |--- |
-|**Nickname:**|emap|
-|**Homepage:**|[www.edith-parzefall.de](http://www.edith-parzefall.de)|
-|**Blog:**|No blog (yet?)|
-|||
-|**Favorite season:**|Spring.|
-|**Motto:**|Don't worry, be happy.|
-|||
 
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![edith_parzefall.jpg](//news.opensuse.org/wp-content/uploads/2007/09/edith_parzefall.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >emap
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[www.edith-parzefall.de](http://www.edith-parzefall.de)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >No blog (yet?)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Don't worry, be happy.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -223,7 +314,7 @@ A green thumb: when ever I touch the thing, everything just works...
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 I'd venture into the world and explore reality. Just in case I won't like it, I'd bring a good book.
@@ -295,7 +386,7 @@ Traveling, writing, or reading.
 
 
 
-#### Someone gives you $1.000.000 “ what would you do with the money?
+#### Someone gives you $1.000.000 â€“ what would you do with the money?
 
 
 I'd take a year off and travel the world.
@@ -305,7 +396,7 @@ I'd take a year off and travel the world.
 
 
 
-#### If traveling through time was possible “ when would we be most likely to meet you?
+#### If traveling through time was possible â€“ when would we be most likely to meet you?
 
 
 Middle Ages.
@@ -315,7 +406,7 @@ Middle Ages.
 
 
 
-#### There's a thunderstorm outside “ do you turn off your computer?
+#### There's a thunderstorm outside â€“ do you turn off your computer?
 
 
 Maybe, if it's a really bad one. Then I'd go watch the clowds and the lightning from my balcony.
@@ -340,7 +431,7 @@ Uhm, yes, actually. It was a quite embarrassing, too, and that's why I'm not goi
 
 Okay, you asked... Would you want to have one of those in your house?
 
-![huntsman.jpg]({{ site.baseurl }}/assets/huntsman.jpg)
+![huntsman.jpg](//news.opensuse.org/wp-content/uploads/2007/09/huntsman.jpg)
 
 
 
@@ -374,4 +465,7 @@ How about: What are you most afraid of?
 
 Spiders.
 
-But hey, I survived.	
+But hey, I survived.
+
+
+Why should you get [https://justbuyessay.com](https://justbuyessay.com/) ccnp collaboration, certification or certifications

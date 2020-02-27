@@ -1,17 +1,20 @@
 ---
 author: News Team
+comments: true
 date: 2009-02-24 22:26:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/02/24/opensuse-weekly-news-issue-60/
-title: "openSUSE Weekly News, Issue 60"
+slug: opensuse-weekly-news-issue-60
+title: openSUSE Weekly News, Issue 60
+wordpress_id: 1175
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #60 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/60)!  
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #60 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/60)!  
   
 
-In this week™s issue:
+In this weekâ€™s issue:
 
 
   * Open Letter to the openSUSE Community 
@@ -40,4 +43,4 @@ The openSUSE Weekly News is available in:
 [Portuguese](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/60),
 [Russian](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/60),
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/60)  and
-[Chinese](http://en.opensuse.org/OpenSUSE_Weekly_News/60/chinese) . Com the ibm c9020-560 exam questions and answers dispenses an always responding [help with essay writing within https://eduessayhelper.org/](https://eduessayhelper.org/) unit		
+[Chinese](http://en.opensuse.org/OpenSUSE_Weekly_News/60/chinese) . Com the ibm c9020-560 exam questions and answers dispenses an always responding [help with essay writing within https://eduessayhelper.org/](https://eduessayhelper.org/) unit

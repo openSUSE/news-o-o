@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2010-12-29 15:54:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/29/opensuse-boosters-year-2010/
-title: "openSUSE Boosters Year 2010"
+slug: opensuse-boosters-year-2010
+title: openSUSE Boosters Year 2010
+wordpress_id: 6021
 categories:
 - Project
 ---
-(http://en.opensuse.org/openSUSE:Boosters_team)
+
+[caption id="attachment_6077" align="alignright" width="300" caption="The elusive Thirsty Thirteen"][![](/wp-content/uploads/2010/12/Opensuse-boosters.jpg)](http://en.opensuse.org/openSUSE:Boosters_team)[/caption]
 
 At the end of the year it is the time for reviews and the openSUSE Booster team did not want to let that opportunity slip. So what was important in 2010 from an openSUSE Boosters perspective? What happened, what progress was made, how did the boosters help openSUSE? A report from Klaas Freitag.<!-- more -->
 
@@ -60,7 +63,7 @@ In June, there was LinuxTag in Berlin where most of us participated with talks i
 ### openSUSE 11.3
 
 
-In July, openSUSE 11.3 was released. That was lots of work beforehand with quite some boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is contributing to the distribution, we all have our shares in it. 11.3 was a good one, it got good press and showed that we as a community are doing great. All over the world release parties were organized, some Boosters took over the one here in Nürnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm, because many community members showed up. Cool, I love that kind of stress to organize food and beer quickly to let the party go on :-)
+In July, openSUSE 11.3 was released. That was lots of work beforehand with quite some boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is contributing to the distribution, we all have our shares in it. 11.3 was a good one, it got good press and showed that we as a community are doing great. All over the world release parties were organized, some Boosters took over the one here in NÃ¼rnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm, because many community members showed up. Cool, I love that kind of stress to organize food and beer quickly to let the party go on :-)
 
 
 ### GNOME and KDE conferences
@@ -86,4 +89,4 @@ possible for the feature screening team to work on one of our most important tas
 ## Busy 2010!
 
 
-So all in all the boosters had a very busy and prosperous year 2010. All of us carried their individual share of work in the various areas of the openSUSE project we participate in, be it in the openSUSE KDE and GNOME Teams, the openSUSE Distribution, the openSUSE tools or the openSUSE Board. We attended a lot of events and organized a couple of our own with great success.  And we worked together on the most pressing milestones we saw for contributor growth in a fun and clever way. All in all we helped a lot of contributors to stand up, take responsibility and do get their hands dirty for the openSUSE Project. That makes us proud and we will do this smarter, faster, better and stronger in 2011. Promised!		
+So all in all the boosters had a very busy and prosperous year 2010. All of us carried their individual share of work in the various areas of the openSUSE project we participate in, be it in the openSUSE KDE and GNOME Teams, the openSUSE Distribution, the openSUSE tools or the openSUSE Board. We attended a lot of events and organized a couple of our own with great success.  And we worked together on the most pressing milestones we saw for contributor growth in a fun and clever way. All in all we helped a lot of contributors to stand up, take responsibility and do get their hands dirty for the openSUSE Project. That makes us proud and we will do this smarter, faster, better and stronger in 2011. Promised!

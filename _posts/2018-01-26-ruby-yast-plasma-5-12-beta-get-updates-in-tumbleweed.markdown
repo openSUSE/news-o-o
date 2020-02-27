@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-01-26 12:16:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/26/ruby-yast-plasma-5-12-beta-get-updates-in-tumbleweed/
-title: "Ruby, YaST, Plasma 5.12 Beta Get Updates in Tumbleweed"
+slug: ruby-yast-plasma-5-12-beta-get-updates-in-tumbleweed
+title: Ruby, YaST, Plasma 5.12 Beta Get Updates in Tumbleweed
+wordpress_id: 20630
 categories:
 - Announcements
 - Tumbleweed
@@ -43,7 +45,8 @@ tags:
 - Vulkan drivers
 - yast
 ---
-[openSUSE](https://www.opensuse.org/)’s rolling distribution [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) received several snapshot of new software packages this past week.![]({{ site.baseurl }}/assets/release-is-coming-black-260x300.png)
+
+[openSUSE](https://www.opensuse.org/)’s rolling distribution [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) received several snapshot of new software packages this past week.![](/wp-content/uploads/2017/09/release-is-coming-black.png)
 
 A total of six snapshots arrived and brought new versions of Ruby, YaST, KDE’s Plasma 5.12 Beta and many others.
 
@@ -57,4 +60,4 @@ Snapshot [20180120 ](https://lists.opensuse.org/opensuse-factory/2018-01/msg0042
 
 The [changes to YaST](https://news.opensuse.org/2018/01/09/future-tumbleweed-snapshot-to-bring-yast-changes/) many users were waiting on arrived in snapshot [20180117](https://lists.opensuse.org/opensuse-factory/2018-01/msg00382.html) with yast2-update 4.0.8. Multiple other update were made to YaST packages in the snapshot to include changes to transition to [Firewalld from SuSEfirewall2](https://forums.opensuse.org/showthread.php/529290-can-anyone-provide-a-clear-overview-of-the-move-to-firewalld?highlight=firewalld). SuSEFirewall2 based profiles will still work although not all the properties are supported, according to the changelog. Among other noteworthy packages in the snapshot were [digikam 5.8.0](https://digikam.org/news/2018-01-14-5.8.0_release_announcement/) and the several fixes made in [irssi 1.1.0](https://irssi.org/2018/01/15/irssi-1.1.0-released/).
 
-Snapshot [20180119](https://lists.opensuse.org/opensuse-factory/2018-01/msg00395.html) also had some YaST changes like yast2-storage-ng 4.0.70, which correctly opens the expert partitioner when called from the [openSUSE Kubic](https://news.opensuse.org/2017/05/29/introducing-kubic-project-a-new-open-source-project/)/[CaaSP](https://www.suse.com/releasenotes/x86_64/SUSE-CAASP/2.0/) summary screen. Some of the KDE Application 17.12.1 were also updated in the snapshot. Several libraries were updated in the snapshot as well and frogr 1.4 fixed integration with [GNOME](https://www.gnome.org/) Software.		
+Snapshot [20180119](https://lists.opensuse.org/opensuse-factory/2018-01/msg00395.html) also had some YaST changes like yast2-storage-ng 4.0.70, which correctly opens the expert partitioner when called from the [openSUSE Kubic](https://news.opensuse.org/2017/05/29/introducing-kubic-project-a-new-open-source-project/)/[CaaSP](https://www.suse.com/releasenotes/x86_64/SUSE-CAASP/2.0/) summary screen. Some of the KDE Application 17.12.1 were also updated in the snapshot. Several libraries were updated in the snapshot as well and frogr 1.4 fixed integration with [GNOME](https://www.gnome.org/) Software.

@@ -1,16 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-04-23 09:00:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/04/23/obs-gaining-more-power/
-title: "OBS Gaining More Power"
+slug: obs-gaining-more-power
+title: OBS Gaining More Power
+wordpress_id: 15819
 categories:
 - Announcements
 - Build Service
 - Infrastructure
 ---
-[![Linux Power logo]({{ site.baseurl }}/assets/Linux_rgb_white-bckgrnd-298x300.jpg)]({{ site.baseurl }}/assets/Linux_rgb_white-bckgrnd.jpg)In the last weeks, the Open Build Service has received support from several sponsors. SUSE brought in a new, [powerful x86 compute rack](https://news.opensuse.org/2013/04/08/a-gust-of-fresh-build-power-suse-sponsors-new-hardware-for-the-open-build-service/), ARM support was [beefed up with Samsung Arndale boards](https://news.opensuse.org/2013/04/15/about-armv7-progress-and-arming-for-aarch64-and/) and today we are happy to announce that IBM has provided us with two IBM PowerLinux 7R2 servers to increase build capacity for its Power platform!<!-- more -->
+
+[![Linux Power logo](//news.opensuse.org/wp-content/uploads/2013/04/Linux_rgb_white-bckgrnd-298x300.jpg)](//news.opensuse.org/wp-content/uploads/2013/04/Linux_rgb_white-bckgrnd.jpg)In the last weeks, the Open Build Service has received support from several sponsors. SUSE brought in a new, [powerful x86 compute rack](https://news.opensuse.org/2013/04/08/a-gust-of-fresh-build-power-suse-sponsors-new-hardware-for-the-open-build-service/), ARM support was [beefed up with Samsung Arndale boards](https://news.opensuse.org/2013/04/15/about-armv7-progress-and-arming-for-aarch64-and/) and today we are happy to announce that IBM has provided us with two IBM PowerLinux 7R2 servers to increase build capacity for its Power platform!<!-- more -->
 
 
 ## POWER in action
@@ -25,13 +28,13 @@ Recently, a extremely heavy-duty workload optimized system, known as IBM Watson 
 
 
 To ensure continued Power and Linux compatibility going forward, IBM and SUSE recently partnered to add more build capability to the openSUSE Build Service. The openSUSE Build Service is a service which offers an automatic, consistent, and reproducible way to build and distribute Linux packages from source code to multiple platforms and distributions. IBM has provided the openSUSE project with 2 IBM PowerLinux 7R2 servers to increase package build capacity for the Power platform on the [Open Build Service reference implementation](http://build.opensuse.org).
-[![7r2 server]({{ site.baseurl }}/assets/7r2-300x130.jpg)]({{ site.baseurl }}/assets/7r2.jpg)
+[![7r2 server](//news.opensuse.org/wp-content/uploads/2013/04/7r2-300x130.jpg)](//news.opensuse.org/wp-content/uploads/2013/04/7r2.jpg)
 **IBM PowerLinux 7R2 server specs**
 
 
 
 	
-  * 2 â•Â 3.3GHz POWER7 processors (16 cores)
+  * 2 âœ•Â 3.3GHz POWER7 processors (16 cores)
 
 	
   * 64GB RAM
@@ -51,4 +54,4 @@ openSUSE 12.3 download for IBM Power [can be found here](http://download.opensus
 
 Have a lot of fun!
 
-_Article contributed by Patrick Quairoli_		
+_Article contributed by Patrick Quairoli_

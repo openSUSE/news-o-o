@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-05-19 09:32:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/05/19/enterprise-beta-sources-added-to-opensuse-leap-42-3-build/
-title: "Enterprise Beta Sources Added to openSUSE Leap 42.3 Build"
+slug: enterprise-beta-sources-added-to-opensuse-leap-42-3-build
+title: Enterprise Beta Sources Added to openSUSE Leap 42.3 Build
+wordpress_id: 20415
 categories:
 - Announcements
 - Leap
@@ -30,7 +32,8 @@ tags:
 - thunderbird
 - zypper
 ---
-![]({{ site.baseurl }}/assets/42-copy-300x300.png)Sources from the beta version of [SUSE Linux Enterprise](https://www.suse.com/products/server/) (SLE) Service Pack 3 (SP3) arrived today in the [latest build](http://bit.ly/2pSWlKb) for [openSUSE](https://www.opensuse.org/)’s next minor release of the 42 series.
+
+![](/wp-content/uploads/2016/08/42-copy.png)Sources from the beta version of [SUSE Linux Enterprise](https://www.suse.com/products/server/) (SLE) Service Pack 3 (SP3) arrived today in the [latest build](http://bit.ly/2pSWlKb) for [openSUSE](https://www.opensuse.org/)’s next minor release of the 42 series.
 
 The transition to a rolling development process for [openSUSE Leap 42.3](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.3/) has changed the traditional milestone process, but fixed milestones are alive and well with SLE development and Leap is benefiting from that hardened, enterprise core.
 
@@ -48,4 +51,4 @@ Leap 42.3 builds have been coming out on a regular basis with new community pack
 
 Don't forget to [report bugs](https://en.opensuse.org/openSUSE:Submitting_bug_reports) if you find one.
 
-![](https://lizards.opensuse.org/wp-content/uploads/2017/04/extended-workflow.gif)		
+![](https://lizards.opensuse.org/wp-content/uploads/2017/04/extended-workflow.gif)

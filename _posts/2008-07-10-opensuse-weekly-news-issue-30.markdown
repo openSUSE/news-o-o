@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-07-10 12:00:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/10/opensuse-weekly-news-issue-30/
-title: "openSUSE Weekly News, Issue 30"
+slug: opensuse-weekly-news-issue-30
+title: openSUSE Weekly News, Issue 30
+wordpress_id: 947
 categories:
 - Weekly News
 tags:
@@ -18,12 +20,11 @@ tags:
 - Weekly
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue **#30** of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/30)!
 
-In this week™s issue:
+In this weekâ€™s issue:
 
 
 
@@ -46,4 +47,3 @@ In this week™s issue:
   * Michal Zugec: Network Documentation 
 
 
-		

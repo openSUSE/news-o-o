@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-08-05 10:37:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/08/05/command-line-tuesdays-part-seven/
-title: "Command Line Tuesdays - Part Seven"
+slug: command-line-tuesdays-part-seven
+title: Command Line Tuesdays - Part Seven
+wordpress_id: 18367
 categories:
 - Distribution
 ---
+
 Heya geekos. I've checked the 'curriculum', and we're at part 7 of 8 as of today. Which means there will be one more - and sadly final - CLT next tuesday. So for today, let's deal with some **permissions!**
 
 As we all know, we can have many users using one machine. To protect the users from each other, permissions have been devised. And we have already discussed file permissions, so let's refresh our memories with a single[ click](https://news.opensuse.org/2014/07/01/command-line-tuesdays-part-three/).
@@ -103,4 +106,4 @@ As I already stated, next time we'll have a photo-finish of sorts. And after tha
 
 
 
-		
+

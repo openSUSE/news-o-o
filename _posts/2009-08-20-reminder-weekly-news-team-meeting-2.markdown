@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-08-20 19:37:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/20/reminder-weekly-news-team-meeting-2/
-title: "Reminder: Weekly News Team Meeting"
+slug: reminder-weekly-news-team-meeting-2
+title: 'Reminder: Weekly News Team Meeting'
+wordpress_id: 2019
 categories:
 - Events
 - Weekly News
@@ -12,6 +14,7 @@ tags:
 - meeting
 - Weekly News
 ---
+
 The next openSUSE Weekly News meeting will take place Saturday August 22 at 16:00 UTC. See all time zones on the [Fixed Time World Clock](http://www.timeanddate.com/worldclock/fixedtime.html?month=8&day=22&year=2009&hour=16&min=0&sec=0&p1=0). As always, the meeting will be held in IRC on the #opensuse-newsletter channel on Freenode.
 
 All Translators, Editors and other People are invited.
@@ -28,4 +31,4 @@ As always, we meet in #opensuse-newsletter on Freenode. Fire up your favorite IR
 
 Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.irchelp.org/). This site is not affiliated with openSUSE. For more information on Freenode, see http://freenode.net/.
 
-Wondering what meeting times are? [Check the openSUSE Meetings page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed there.		
+Wondering what meeting times are? [Check the openSUSE Meetings page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed there.

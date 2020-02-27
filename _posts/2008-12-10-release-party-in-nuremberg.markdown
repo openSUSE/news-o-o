@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-10 16:44:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/10/release-party-in-nuremberg/
-title: "Release Party In Nuremberg"
+slug: release-party-in-nuremberg
+title: Release Party In Nuremberg
+wordpress_id: 1113
 categories:
 - Announcements
 - Events
@@ -12,6 +14,7 @@ tags:
 - party
 - release
 ---
+
 <table border="0" >
 <tbody >
 
@@ -54,4 +57,4 @@ If you are not from Nuremberg, look first at the party locations at the [wiki](h
 
 [![](http://counter.opensuse.org/11.1/small)](http://en.opensuse.org/OpenSUSE_11.1)
 </td>
- Get [https://essayclick.net](https://essayclick.net/) ready for the competition of ibm ibm maximo asset management v7		
+ Get [https://essayclick.net](https://essayclick.net/) ready for the competition of ibm ibm maximo asset management v7

@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-08-31 13:20:32+00:00
 layout: post
 link: https://news.opensuse.org/2018/08/31/registration-cfp-for-opensuse-conference-2019-open/
-title: "Registration, CfP for openSUSE Conference 2019 Open"
+slug: registration-cfp-for-opensuse-conference-2019-open
+title: Registration, CfP for openSUSE Conference 2019 Open
+wordpress_id: 21217
 categories:
 - Announcements
 - Conference
@@ -29,7 +32,8 @@ tags:
 - xfce
 - ZBau
 ---
-![]({{ site.baseurl }}/assets/DSC_0007_1-300x201.jpg)openSUSE is pleased to announce that registration and the call for papers for the [openSUSE Conference 2019](https://events.opensuse.org/conference/oSC19) (oSC19), which takes place in Nuremberg, Germany, are open.
+
+![](/wp-content/uploads/2016/06/DSC_0007_1.jpg)openSUSE is pleased to announce that registration and the call for papers for the [openSUSE Conference 2019](https://events.opensuse.org/conference/oSC19) (oSC19), which takes place in Nuremberg, Germany, are open.
 
 The dates for this year’s conference will be May 24 through May 26 once again at the [Z-Bau](https://z-bau.com/). Submission for the call for papers will be open until Feb 3. Registration for the conference is open until the day oSC19 begins.
 
@@ -86,4 +90,4 @@ A Program Committee will evaluate the proposals based on the submitted abstracts
 
 Volunteers who would like to participate on the Program Committee or the Organizing Team for the conference should email ddemaio (@) suse.de.
 
-Visit[ events.opensuse.org](http://events.opensuse.org) for more information about oSC19.		
+Visit[ events.opensuse.org](http://events.opensuse.org) for more information about oSC19.

@@ -1,10 +1,12 @@
 ---
-author: Heroes Team
+author: admin
+comments: true
 date: 2007-09-28 15:38:08+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/28/opensuse-is-looking-for-a-chief-linux-evangelist/
-title: "openSUSE is Looking for a Chief Linux Evangelist"
+slug: opensuse-is-looking-for-a-chief-linux-evangelist
+title: openSUSE is Looking for a Chief Linux Evangelist
+wordpress_id: 397
 categories:
 - Announcements
 - Project

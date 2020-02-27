@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-12-17 01:19:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/17/next-tuesday-social-media-collaboration-day/
-title: "Next Tuesday: Social Media Collaboration Day"
+slug: next-tuesday-social-media-collaboration-day
+title: 'Next Tuesday: Social Media Collaboration Day'
+wordpress_id: 5955
 categories:
 - Events
 - Project
 ---
+
 Last Monday the second Marketing Collaboration Day happened - with a focus on Marketing Materials. The moderators, Chuck Payne and Bryen Yunashko, would like to thank everyone who got involved for their hard work! It was a successful day with many items covered, added and expanded for openSUSE Marketing.
 
 <!-- more -->
@@ -27,4 +30,4 @@ And of course the plumbing: making sure all accounts are connected properly so a
 
 The meeting will be held in the [#openSUSE-Marketing](irc://irc.freenode.net/opensuse-marketing) IRC channel on Freenode. Collaboration Days begin at 9:00 UTC and end at 24:00 UTC
 
-See you there!!!		
+See you there!!!

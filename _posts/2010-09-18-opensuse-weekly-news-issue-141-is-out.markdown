@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-09-18 18:39:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/18/opensuse-weekly-news-issue-141-is-out/
-title: "openSUSE Weekly News, Issue 141 is out!"
+slug: opensuse-weekly-news-issue-141-is-out
+title: openSUSE Weekly News, Issue 141 is out!
+wordpress_id: 4519
 categories:
 - Weekly News
 tags:
@@ -12,7 +14,6 @@ tags:
 - opensuse
 - Weekly News
 ---
-
 
 We are pleased to announce our new openSUSE Weekly News.
 
@@ -45,19 +46,19 @@ We are pleased to announce our new openSUSE Weekly News.
 
 
 
-  * [ openSUSE Conference 2010 “ Collaborate Across Borders](https://news.opensuse.org/?p=4519#openSUSE_Conference_2010_.E2.80.93_Collaborate_Across_Borders)
+  * [ openSUSE Conference 2010 â€“ Collaborate Across Borders](http://news.opensuse.org/?p=4519#openSUSE_Conference_2010_.E2.80.93_Collaborate_Across_Borders)
 
 
-  * [ Jos Poortvliet: directions - openSUSE and Fedora](https://news.opensuse.org/?p=4519#Jos_Poortvliet:_directions_-_openSUSE_and_Fedora)
+  * [ Jos Poortvliet: directions - openSUSE and Fedora](http://news.opensuse.org/?p=4519#Jos_Poortvliet:_directions_-_openSUSE_and_Fedora)
 
 
-  * [ Javier Llorente: KDE bug triage report](https://news.opensuse.org/?p=4519#Javier_Llorente:_KDE_bug_triage_report)
+  * [ Javier Llorente: KDE bug triage report](http://news.opensuse.org/?p=4519#Javier_Llorente:_KDE_bug_triage_report)
 
 
-  * [ Bryen Yunashko: A Great Weekend in Columbus at the Ohio Linux Fest](https://news.opensuse.org/?p=4519#Bryen_Yunashko:_A_Great_Weekend_in_Columbus_at_the_Ohio_Linux_Fest)
+  * [ Bryen Yunashko: A Great Weekend in Columbus at the Ohio Linux Fest](http://news.opensuse.org/?p=4519#Bryen_Yunashko:_A_Great_Weekend_in_Columbus_at_the_Ohio_Linux_Fest)
 
 
-  * [ TWUUG: Linux File Structure](https://news.opensuse.org/?p=4519#TWUUG:_Linux_File_Structure)
+  * [ TWUUG: Linux File Structure](http://news.opensuse.org/?p=4519#TWUUG:_Linux_File_Structure)
 
 
 
@@ -78,46 +79,46 @@ We are pleased to announce our new openSUSE Weekly News.
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=4519#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=4519#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=4519#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=4519#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=4519#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=4519#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=4519#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=4519#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=4519#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=4519#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=4519#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=4519#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=4519#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=4519#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=4519#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=4519#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=4519#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=4519#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=4519#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=4519#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=4519#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=4519#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=4519#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=4519#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=4519#Credits)
+  * [ Credits](http://news.opensuse.org/?p=4519#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=4519#Translations)
+  * [ Translations](http://news.opensuse.org/?p=4519#Translations)
 
 
 
@@ -298,25 +299,25 @@ We are pleased to announce our new openSUSE Weekly News.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Forum Users Benefit from openSUSE KDE Repository](https://news.opensuse.org/2010/09/12/forum-users-benefit-from-opensuse-kde-repository/)
+####  [Forum Users Benefit from openSUSE KDE Repository](http://news.opensuse.org/2010/09/12/forum-users-benefit-from-opensuse-kde-repository/)
 
 
-"Without question, users who frequent the openSUSE forums are very appreciative of all the work being done by ALL the various development teams. The progressive nature of KDE4 continues to spark a great deal of interest generally, though especially do users want options to try the latest and greatest, yet at the same time maintain a level of stability. With KDE development moving so quickly between distribution releases, users don™t want to be stuck with the distro release version of KDE. The much requested 4.5.* stable repo has now been provided for openSUSE 11.3 users. Those currently using the Factory repo will now be able to switch to:  [http://download.opensuse.org/repositories/KDE:/Release:/45/openSUSE_11.3/](http://download.opensuse.org/repositories/KDE:/Release:/45/openSUSE_11.3/)"  
+"Without question, users who frequent the openSUSE forums are very appreciative of all the work being done by ALL the various development teams. The progressive nature of KDE4 continues to spark a great deal of interest generally, though especially do users want options to try the latest and greatest, yet at the same time maintain a level of stability. With KDE development moving so quickly between distribution releases, users donâ€™t want to be stuck with the distro release version of KDE. The much requested 4.5.* stable repo has now been provided for openSUSE 11.3 users. Those currently using the Factory repo will now be able to switch to:  [http://download.opensuse.org/repositories/KDE:/Release:/45/openSUSE_11.3/](http://download.opensuse.org/repositories/KDE:/Release:/45/openSUSE_11.3/)"  
 
 
-####  [openSUSE Conference 2010 “ Collaborate Across Borders](https://news.opensuse.org/2010/09/13/collaborate-across-borders/)
+####  [openSUSE Conference 2010 â€“ Collaborate Across Borders](http://news.opensuse.org/2010/09/13/collaborate-across-borders/)
 
 
-"The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more than seventy talks and workshops explore the theme of ˜Collaboration Across Borders˜ in Free and Open Source software communities, administration and development. The conference is the yearly get-together of the openSUSE project to give its people a chance to meet face to face, talk to and inspire each other. It takes place in the Berufsförderungswerk Nuremberg in the beautiful surroundings of the Franconian metropole. Everybody interested is welcome to join and enjoy the program which starts each day at 9am, the admission is free."  
+"The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more than seventy talks and workshops explore the theme of â€˜Collaboration Across Bordersâ€˜ in Free and Open Source software communities, administration and development. The conference is the yearly get-together of the openSUSE project to give its people a chance to meet face to face, talk to and inspire each other. It takes place in the BerufsfÃ¶rderungswerk Nuremberg in the beautiful surroundings of the Franconian metropole. Everybody interested is welcome to join and enjoy the program which starts each day at 9am, the admission is free."  
 
 
-####  [OSC2010 Sneak Peaks “ Vincent Untz: Explaining GNOME 3](https://news.opensuse.org/2010/09/15/osc2010-sneak-peaks-vincent-untz-explaining-gnome-3/)
+####  [OSC2010 Sneak Peaks â€“ Vincent Untz: Explaining GNOME 3](http://news.opensuse.org/2010/09/15/osc2010-sneak-peaks-vincent-untz-explaining-gnome-3/)
 
 
-"The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more than seventy talks and workshops explore the theme of ˜Collaboration Across Borders˜ in Free and Open Source software communities, administration and development. The conference is the yearly get-together of the openSUSE project to give its people a chance to meet face to face, talk to and inspire each other. It takes place in the Berufsförderungswerk Nuremberg in the beautiful surroundings of the Franconian metropole. Everybody interested is welcome to join and enjoy the program which starts each day at 9am, the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.]  Today we feature the talk Explaining GNOME 3³ from Vincent Untz."  
+"The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more than seventy talks and workshops explore the theme of â€˜Collaboration Across Bordersâ€˜ in Free and Open Source software communities, administration and development. The conference is the yearly get-together of the openSUSE project to give its people a chance to meet face to face, talk to and inspire each other. It takes place in the BerufsfÃ¶rderungswerk Nuremberg in the beautiful surroundings of the Franconian metropole. Everybody interested is welcome to join and enjoy the program which starts each day at 9am, the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.]  Today we feature the talk â€œExplaining GNOME 3â€³ from Vincent Untz."  
 
 
-####  [openSUSE: Finding The Target](https://news.opensuse.org/2010/09/16/opensuse_finding_target/)
+####  [openSUSE: Finding The Target](http://news.opensuse.org/2010/09/16/opensuse_finding_target/)
 
 
 "Hi all, Your strategy team has been working hard, as promised, to incorporate the comments you have all given over the last few months into a new document. That document aims to describe where openSUSE stands right now, what users we target, what we are doing. Who we are has been covered pretty decently in the current community statement and now we would like to present you with what users we target.  While you can all give us your input in the usual way (commenting down here, replying on the openSUSE mailinglists, on the forums and in private mail or IM), we have decided to make use of another commenting platform which is much more suited for a discussion like the one we are having. This is called co-ment, a pretty awesome commenting tool under the GNU Affero GPL. We would like to ask you to give your input on the document there instead of in the other channels so the discussion will be more structured and easier for everyone to follow. Select some text you want to comment on (a word, a few words, a sentence) and choose the little yellow + sign on the top-left to add your comment. If you click a colored section of the text, you can see the comments which have been made on it and add your own. Easy peasy!  You can find the document here. And for reference here the openSUSE Strategy portal on the wiki. Please have fun!" 
@@ -369,13 +370,13 @@ We are pleased to announce our new openSUSE Weekly News.
 ####  [Nelson Marques: merc retro adds fuse](http://nmarques.digitalwhores.net/2010/09/12/merc-retro-adds-fuse/)
 
 
-"˜merc retro™ is a small project I started on SUSE Studio and aims to deploy a minimalist install of openSUSE 11.3 with GNOME and some applications. ˜merc retro™ is intended to run from a self bootable USB stick and comes packing some handpicked applications:..."  
+"â€˜merc retroâ€™ is a small project I started on SUSE Studio and aims to deploy a minimalist install of openSUSE 11.3 with GNOME and some applications. â€˜merc retroâ€™ is intended to run from a self bootable USB stick and comes packing some handpicked applications:..."  
 
 
 ####  [Jos Poortvliet: directions - openSUSE and Fedora](http://nowwhatthe.blogspot.com/2010/09/directions-opensuse-and-fedora.html)
 
 
-"Interestingly enough, in parallel to our discussion about where we're going, Fedora is also discussing strategy. One particularly good blog post by MáirÃ­n Duffy about target users of Fedora offers some interesting insights.  **Situation** On Fedora, there are basically four repositories:  * Stable - end user product  * Testing - stabilisation tree  * Rawhide - development tree (our factory)  * Kopers - personal repositories (bit like our Build Service home projects)  As you might know, Fedora Stable does currently receive quite some package updates over it's lifecycle - catering to users who want the latest software. The downside of this is that it sacrifices stability - you can't have your cake and eat it too. And for some users - even that isn't enough. They want the latest Banshee when it is released right away - not wait for it to mature in Testing. So they have to enable Rawhide repositories - often bringing in far more unstable software than just Banshee or whatever they're after. And that software is build against a whole different stack - Rawhide has moved beyond stable of course, adding things like a newer glib or other base libraries and building against a newer GCC. All this creates a significant risk for instability."  
+"Interestingly enough, in parallel to our discussion about where we're going, Fedora is also discussing strategy. One particularly good blog post by MÃ¡irÃ­n Duffy about target users of Fedora offers some interesting insights.  **Situation** On Fedora, there are basically four repositories:  * Stable - end user product  * Testing - stabilisation tree  * Rawhide - development tree (our factory)  * Kopers - personal repositories (bit like our Build Service home projects)  As you might know, Fedora Stable does currently receive quite some package updates over it's lifecycle - catering to users who want the latest software. The downside of this is that it sacrifices stability - you can't have your cake and eat it too. And for some users - even that isn't enough. They want the latest Banshee when it is released right away - not wait for it to mature in Testing. So they have to enable Rawhide repositories - often bringing in far more unstable software than just Banshee or whatever they're after. And that software is build against a whole different stack - Rawhide has moved beyond stable of course, adding things like a newer glib or other base libraries and building against a newer GCC. All this creates a significant risk for instability."  
 
 
 ####  Bugzilla
@@ -439,7 +440,7 @@ We are pleased to announce our new openSUSE Weekly News.
 ####  [Andreas Jaeger: Build Service Cheat Sheet](http://lizards.opensuse.org/2010/09/13/build-service-cheat-sheet/)
 
 
-"Last week I had some discussions with colleagues about the build service and Berthold and Darix suggested to create some kind of reference card for the build service.  So, I™ve sat down, learned how others do sheat cheets, e.g. via XML or in OpenOffice.org and then decided to go the easy route with columns using an OpenOffice.org text document.  The first version is now available for download. It describes building packages for Factory, reviewing of package submissions, maintenance, package editing, miscellaneous commands and osc installation. The file is supposed to be printed on two sides of a paper “ and then cut the paper to A5."  
+"Last week I had some discussions with colleagues about the build service and Berthold and Darix suggested to create some kind of reference card for the build service.  So, Iâ€™ve sat down, learned how others do sheat cheets, e.g. via XML or in OpenOffice.org and then decided to go the easy route with columns using an OpenOffice.org text document.  The first version is now available for download. It describes building packages for Factory, reviewing of package submissions, maintenance, package editing, miscellaneous commands and osc installation. The file is supposed to be printed on two sides of a paper â€“ and then cut the paper to A5."  
 
 
 ####  Build Service Statistics
@@ -489,7 +490,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 ####  [Javier Llorente: KDE bug triage report](http://lizards.opensuse.org/2010/09/12/kde-bug-triage-report/)
 
 
-"Last month there was a KDE bug triage (sorry for the late report) and we squashed 60 bugs :-D  Thanks to all the people who contributed in making the KDE experience a bit better, especially Stephen Dunn and Christian Trippe. ;-)  Remember, this hasn™t finished here. Going through the bug reports always helps!" 
+"Last month there was a KDE bug triage (sorry for the late report) and we squashed 60 bugs :-D  Thanks to all the people who contributed in making the KDE experience a bit better, especially Stephen Dunn and Christian Trippe. ;-)  Remember, this hasnâ€™t finished here. Going through the bug reports always helps!" 
 </td>
 </tr>
 </tbody>
@@ -669,7 +670,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -715,7 +716,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 ####  [Bryen Yunashko: A Great Weekend in Columbus at the Ohio Linux Fest](http://feedproxy.google.com/%7Er/Bryen/%7E3/S6MLBhvOYCE/)
 
 
-"The weekend has come and gone and I™ve had a great weekend at the Ohio Linux Fest in Columbus, Ohio. A bit busy and intense at times as I was wearing my two hats¦ both representing openSUSE and representing GNOME-A11y.  So, I got there on Friday morning and checked out the only two sessions I could make time to see for the whole weekend. Unfortunately, ASL interpreters I had arranged for to assist me over the weekend had backed out so I was very lost communication-wise for the most part during the weekend. But I persevered¦.  I checked out the sessions led by Mel Chua (Red Hat™s Community Education Engineer) and Robyn Bergeron (Fedora Marketing lead). I had befriended both of them just a couple of months earlier at the Community Leadership Summit. Even though I wasn™t going to have an interpreter present, I went to see both sessions because I™m always supportive of those whom I know and go to their sessions as a show of support whenever I can."  
+"The weekend has come and gone and Iâ€™ve had a great weekend at the Ohio Linux Fest in Columbus, Ohio. A bit busy and intense at times as I was wearing my two hatsâ€¦ both representing openSUSE and representing GNOME-A11y.  So, I got there on Friday morning and checked out the only two sessions I could make time to see for the whole weekend. Unfortunately, ASL interpreters I had arranged for to assist me over the weekend had backed out so I was very lost communication-wise for the most part during the weekend. But I perseveredâ€¦.  I checked out the sessions led by Mel Chua (Red Hatâ€™s Community Education Engineer) and Robyn Bergeron (Fedora Marketing lead). I had befriended both of them just a couple of months earlier at the Community Leadership Summit. Even though I wasnâ€™t going to have an interpreter present, I went to see both sessions because Iâ€™m always supportive of those whom I know and go to their sessions as a show of support whenever I can."  
 
 
 ###  Events & Meetings
@@ -728,16 +729,16 @@ Past:
 
 
 
-  * [**September 08, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**September 08, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
-  * [**September 14, 2010: openSUSE GNOME IRC Meeting**](https://news.opensuse.org/2010/09/08/opensuse-gnome-irc-meeting-2/)
+  * [**September 14, 2010: openSUSE GNOME IRC Meeting**](http://news.opensuse.org/2010/09/08/opensuse-gnome-irc-meeting-2/)
 
 
-  * [**September 15, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**September 15, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**September 16, 2010: ï»¿openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**September 16, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
@@ -746,22 +747,22 @@ Upcoming:
 
 
 
-  * [** September 21, 2010: openSUSE Marketing Team Meeting**](https://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-7/)
+  * [** September 21, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-7/)
 
 
-  * [** September 22, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [** September 22, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
-  * [** September 29, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [** September 29, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** September 30, 2010: ï»¿openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** September 30, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -791,7 +792,7 @@ Upcoming:
 ####  [Bruno Friedmann: frOsCamp day I](http://lizards.opensuse.org/2010/09/17/froscamp-day-i/)
 
 
-"So our little team found it™s way to Zürich yesterday.  Every body is here this morning.  More content will be coming, but I offer you an exclusive look & preview right now !"  
+"So our little team found itâ€™s way to ZÃ¼rich yesterday.  Every body is here this morning.  More content will be coming, but I offer you an exclusive look & preview right now !"  
 
 
 ###  openSUSE in $COUNTRY
@@ -922,7 +923,7 @@ Upcoming:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1086,7 +1087,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Scott Photographics: How to make Photographs Vintage in GIMP](http://www.scottphotographics.com/how-to-make-photographs-vintage-in-gimp/)
 
 
-"Vintage style is sometimes desired to achieve a certain mood and aesthetic for a photograph. In this Gimp tutorial I™ll show you how to make your photographs Vintage in a few short easy steps. (...)" 
+"Vintage style is sometimes desired to achieve a certain mood and aesthetic for a photograph. In this Gimp tutorial Iâ€™ll show you how to make your photographs Vintage in a few short easy steps. (...)" 
 
 
   
@@ -1138,7 +1139,7 @@ The reason I use xdebug is, as far as I know now, xdebug supports php 5.3 or abo
 ####  [Benjamin Weber: Java Abuse: Inline instanceof](http://benjiweber.co.uk/blog/2010/09/16/java-abuse-inline-instanceof/)
 
 
-"One annoyance in Java is having to do instanceof checks on multiple lines. e.g.  if (object instanceof Foo) { Foo foo = (Foo)object; foo.foo(); }  While this is often a sign of a design failure, there are times when instanceof checks are required often due to framework constraints etc. The above is quite ugly and involves using 3 lines instead of 1 for a single method call. If foo() is a void method we can™t even use the ternary ? : operator to make it more concise."  
+"One annoyance in Java is having to do instanceof checks on multiple lines. e.g.  if (object instanceof Foo) { Foo foo = (Foo)object; foo.foo(); }  While this is often a sign of a design failure, there are times when instanceof checks are required often due to framework constraints etc. The above is quite ugly and involves using 3 lines instead of 1 for a single method call. If foo() is a void method we canâ€™t even use the ternary ? : operator to make it more concise."  
 
 
 ####  [Ladislav Slezak: Debugging Ruby on Rails Application](http://lslezak.blogspot.com/2009/05/degugging-ruby-on-rails-application.html)
@@ -1268,7 +1269,7 @@ The reason I use xdebug is, as far as I know now, xdebug supports php 5.3 or abo
 ####  [Michal Marek: Another openSUSE kernel git repo](http://lizards.opensuse.org/2010/09/14/another-opensuse-kernel-git-repo/)
 
 
-"The mirror of the openSUSE kernel-source repository has been around for several months already, now there is something new: A repository that is actually usable :-) . The current kernel-source repository is a series of patches managed in git, which has some upsides, like the ability to easily cherry-pick a patch and port it to a different branch or send it upstream. But it is quite painful if you want to work with the code itself and not with patch files. A task as simple as determining if drivers/¦/foo.c in openSUSE-11.3 has or does not have a certain change requires checking out the branch and running the sequence-patch script to be able to look at the file. If you need to know when was the file changed, you have to run ˜quilt patches <file>™ to find out what patches touched the file and then ask git about the history of these patches. Neither convenient nor efficient. That™s why we have a second repository, that contains the mainline tree with all the suse patches applied. It™s located at [http://gitorious.org/opensuse/kernel](http://gitorious.org/opensuse/kernel), the clone url is git://gitorious.org/opensuse/kernel.git."  
+"The mirror of the openSUSE kernel-source repository has been around for several months already, now there is something new: A repository that is actually usable :-) . The current kernel-source repository is a series of patches managed in git, which has some upsides, like the ability to easily cherry-pick a patch and port it to a different branch or send it upstream. But it is quite painful if you want to work with the code itself and not with patch files. A task as simple as determining if drivers/â€¦/foo.c in openSUSE-11.3 has or does not have a certain change requires checking out the branch and running the sequence-patch script to be able to look at the file. If you need to know when was the file changed, you have to run â€˜quilt patches <file>â€™ to find out what patches touched the file and then ask git about the history of these patches. Neither convenient nor efficient. Thatâ€™s why we have a second repository, that contains the mainline tree with all the suse patches applied. Itâ€™s located at [http://gitorious.org/opensuse/kernel](http://gitorious.org/opensuse/kernel), the clone url is git://gitorious.org/opensuse/kernel.git."  
 
 
 ####  [Duncan Mac-Vicar: The future of KDE instant messaging is happening now](http://duncan.mac-vicar.com/blog/archives/771#utm_source=feed&utm_medium=feed&utm_campaign=feed)
@@ -1390,7 +1391,7 @@ The reason I use xdebug is, as far as I know now, xdebug supports php 5.3 or abo
 ####  [Adobe Flash Player "Square"](http://labs.adobe.com/technologies/flashplayer10/)
 
 
-"AdobeÂ® FlashÂ® Player "Square" is a preview release that enables native 64-bit support on Linux, Mac OS, and Windows operating systems, as well as enhanced support for Microsoft Internet Explorer 9 beta.  We have made this preview available so that users can test existing content and new platforms for compatibility and stability. Because this is a preview version of Flash Player, we don™t expect it to be as stable as a final release version of Flash Player. Use caution when installing Flash Player "Square" on production machines. (...)" 
+"AdobeÂ® FlashÂ® Player "Square" is a preview release that enables native 64-bit support on Linux, Mac OS, and Windows operating systems, as well as enhanced support for Microsoft Internet Explorer 9 beta.  We have made this preview available so that users can test existing content and new platforms for compatibility and stability. Because this is a preview version of Flash Player, we donâ€™t expect it to be as stable as a final release version of Flash Player. Use caution when installing Flash Player "Square" on production machines. (...)" 
 
 
   
@@ -1436,7 +1437,7 @@ The reason I use xdebug is, as far as I know now, xdebug supports php 5.3 or abo
 ####  [Linux.com/Joe Brockmeier: Five Features to Look Forward to in Firefox 4.0](http://www.linux.com/learn/tutorials/361828-five-features-to-look-forward-to-in-firefox-40)
 
 
-"Firefox 4.0 is still a bit away from final release, but the time to think about switching is now. The Mozilla Project is releasing Firefox 4.0 beta 6 this week, and the current builds are really good. Why switch? I™ll give you five excellent reasons to jump on the 4.0 train today.  One of the great things about open source development is that you don™t have to wait for the final product to ship to get your hands on it. Case in point, I™ve been running development builds of the Firefox 4.0 series off and on for weeks. You can too, if you don™t mind some rapid changes and possible instability."  
+"Firefox 4.0 is still a bit away from final release, but the time to think about switching is now. The Mozilla Project is releasing Firefox 4.0 beta 6 this week, and the current builds are really good. Why switch? Iâ€™ll give you five excellent reasons to jump on the 4.0 train today.  One of the great things about open source development is that you donâ€™t have to wait for the final product to ship to get your hands on it. Case in point, Iâ€™ve been running development builds of the Firefox 4.0 series off and on for weeks. You can too, if you donâ€™t mind some rapid changes and possible instability."  
 
 
 ####  [Phoronix/Michael Larabel: A First Look At The 2010 Linux Graphics Survey Results](http://www.phoronix.com/scan.php?page=article&item=lgs_2010_xds&num=1)
@@ -1474,13 +1475,13 @@ The reason I use xdebug is, as far as I know now, xdebug supports php 5.3 or abo
 ####  [hostreview/Josh Evin: Why Security Matters to us All](http://www.hostreview.com/blog/100913-why-security-matters-to-us-all)
 
 
-"Most people take the Internet for granted. When it comes to the Internet as we know it “ Social Networks, Media Sites, Email, File Repositories, etc. “ usability is as far as our concern extends. If it works, that is all we care about. But the truth of the matter is that understanding the complexity of the Internet also helps you to understand why security is so overwhelmingly important, yet often overlooked."  
+"Most people take the Internet for granted. When it comes to the Internet as we know it â€“ Social Networks, Media Sites, Email, File Repositories, etc. â€“ usability is as far as our concern extends. If it works, that is all we care about. But the truth of the matter is that understanding the complexity of the Internet also helps you to understand why security is so overwhelmingly important, yet often overlooked."  
 
 
 ####  [LinuxMagazine/Joe Brockmeier: A quick look at OpenIndiana](http://www.linux-mag.com/id/7861/)
 
 
-"OpenSolaris is dead, but OpenIndiana lives on. Just a few weeks after Oracle made it clear that OpenSolaris was dead as a doornail, the Illumos and OpenIndiana folks have a distribution ready for the OpenSolaris community that™s been left in a lurch by Oracle.  The code dropped on Tuesday, so I haven™t had a lot of time to muck with OpenIndiana yet. I spent a few hours with the live CD and installed it into VMware." 
+"OpenSolaris is dead, but OpenIndiana lives on. Just a few weeks after Oracle made it clear that OpenSolaris was dead as a doornail, the Illumos and OpenIndiana folks have a distribution ready for the OpenSolaris community thatâ€™s been left in a lurch by Oracle.  The code dropped on Tuesday, so I havenâ€™t had a lot of time to muck with OpenIndiana yet. I spent a few hours with the live CD and installed it into VMware." 
 
 
   
@@ -1520,7 +1521,7 @@ The reason I use xdebug is, as far as I know now, xdebug supports php 5.3 or abo
 ####  [Alexander Naumov: Free BEER for free people](http://lizards.opensuse.org/2010/09/17/free-beer-for-free-people/)
 
 
-"When we call beer free, we mean that it respects the users™ essential freedoms: the freedom to drink it, to study and change it, and to return empties with or without some changes. This is a matter of freedom, not price, so think of free speech, but in this case also free beer too.  Why man have to choose a free beer? Because it™s open and free to use. Everybody can give some feedback on the freebeer™s twitter page." 
+"When we call beer â€œfree,â€ we mean that it respects the usersâ€™ essential freedoms: the freedom to drink it, to study and change it, and to return empties with or without some changes. This is a matter of freedom, not price, so think of â€œfree speech,â€ but in this case also â€œfree beerâ€ too.  Why man have to choose a free beer? Because itâ€™s open and free to use. Everybody can give some feedback on the freebeerâ€™s twitter page." 
 </td>
 </tr>
 </tbody>
@@ -1556,7 +1557,7 @@ The reason I use xdebug is, as far as I know now, xdebug supports php 5.3 or abo
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?p=4519) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=4519) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -1565,7 +1566,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -1610,7 +1611,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1619,7 +1620,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -1688,7 +1689,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/141)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/141)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/141)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/141)
@@ -1735,4 +1736,3 @@ Retrieved from "[http://en.opensuse.org/Archive:Weekly_news_141](http://en.opens
 
   
 
-		

@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-08-05 12:58:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/05/opensuse-jobs/
-title: "openSUSE Jobs"
+slug: opensuse-jobs
+title: openSUSE Jobs
+wordpress_id: 968
 categories:
 - Project
 ---
+
 We have some open student positions for the next few months to work on various aspects of the openSUSE infrastructure.Â  If you're interested, please apply at [jobs@suse.de](mailto:jobs@suse.de).Â  Additionally we have a full-time position open that I'd like to mention as well.
 
 <!-- more -->
@@ -116,4 +119,4 @@ Please send your full set of application documents, indicating the position you 
 
 This position is located in our Prague office as part of our Packagers team, full details are available here:
 
-[http://www.suse.cz/en/jobs/Package-Maintainer.html](http://www.suse.cz/en/jobs/Package-Maintainer.html)[](http://www.suse.cz/en/jobs/Package-Maintainer.html)		
+[http://www.suse.cz/en/jobs/Package-Maintainer.html](http://www.suse.cz/en/jobs/Package-Maintainer.html)[](http://www.suse.cz/en/jobs/Package-Maintainer.html)

@@ -1,14 +1,17 @@
 ---
 author: James Mason
+comments: true
 date: 2016-01-19 18:37:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/01/19/opensuse-makes-the-leap-to-the-public-cloud/
-title: "openSUSE makes the Leap to the Public Cloud"
+slug: opensuse-makes-the-leap-to-the-public-cloud
+title: openSUSE makes the Leap to the Public Cloud
+wordpress_id: 19684
 categories:
 - Announcements
 - Distribution
 ---
+
 openSUSE Leap 42.1 is now available on Amazon EC2, Google Compute Engine, and Microsoft Azure. Leap has been available on EC2 & GCE since shortly after it release; the Azure release was delayed due to a qemu bug resulting in incorrectly formatted images. These images are maintained by [SUSE's Public Cloud Engineering Team](http://suse.com/public-cloud). If you'd like to peek inside, they're developed on [Open Build Service](https://build.opensuse.org/) (OBS), in the [Cloud:Images](https://build.opensuse.org/project/show/Cloud:Images:Leap_42.1) project.
 
 
@@ -220,4 +223,4 @@ Version
 </table>
 
 
-Have a lot of virtual fun!		
+Have a lot of virtual fun!

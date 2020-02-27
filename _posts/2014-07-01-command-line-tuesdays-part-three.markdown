@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-07-01 06:04:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/01/command-line-tuesdays-part-three/
-title: "Command Line Tuesdays - Part Three"
+slug: command-line-tuesdays-part-three
+title: Command Line Tuesdays - Part Three
+wordpress_id: 18128
 categories:
 - Distribution
 ---
+
 Heya Geekos! New week, new part in our CLT series!
 
 Today, mr Shotts takes us on a first part of a guided tour through our file system. We'll learn how to visit, list files within directories and we'll learn to use some options for the first time. So let's begin with the first command of the week.
@@ -32,13 +35,13 @@ An **argument** is an object upon which the command operates (in this case, it w
 
 So, let's try out ls, and use it on the /etc directory in our home folder. This time, without any options.
 
-[![Screenshot - 30. 06. 2014 - 18:41:27]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-184127.png)]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-184127.png)
+[![Screenshot - 30. 06. 2014 - 18:41:27](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-184127.png)](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-184127.png)
 
 There you go, a whole bunch of files. It also sorts them by colours. The blue ones are directories, the white ones are files, the green one seems like a shell script of some sort. There are more colors, as they represent different file types.
 
 Next, you can use the same command, but with an option -l added. Option -l will list the same files and directories, but in a long format. In case you need more information:
 
-[![Screenshot - 30. 06. 2014 - 18:45:42]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-184542.png)]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-184542.png)
+[![Screenshot - 30. 06. 2014 - 18:45:42](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-184542.png)](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-184542.png)
 
 
 ##### The Long Format
@@ -46,7 +49,7 @@ Next, you can use the same command, but with an option -l added. Option -l will 
 
 So, using the long format, you see much more information, and some crazy looking signs like -rw-r--r-- at the beginning of all lines. Actually, here's a scheme, representing what all of the given information actually means.
 
-[![Screenshot - 30. 06. 2014 - 18:48:29]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-184829.png)]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-184829.png)
+[![Screenshot - 30. 06. 2014 - 18:48:29](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-184829.png)](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-184829.png)
 
 File Name is the name of the file. Modification time is the last time the file has been modified. Size is the size of the file in bytes. Group is the name of the group that has file permissions along with the owner, and Owner is the user who owns the file. The most important one is...
 
@@ -68,7 +71,7 @@ Less is a command which will display your text file. For example, you're looking
 
 You just use less /etc/os-release.
 
-[![Screenshot - 30. 06. 2014 - 19:02:52]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-190252.png)]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-190252.png)
+[![Screenshot - 30. 06. 2014 - 19:02:52](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-190252.png)](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-190252.png)
 
 ..and there you go.
 
@@ -78,7 +81,7 @@ Easy, with your keyboard!
 
 less will display only one page of your text at a time. To go forward one page, you can press** Page Up, or 'b'**. To go back one page, you can use **Page Down, or space**. Capital** G** will take you to the end of the text file, while '**1G**' will take you to the beginning of the text. **_/characters_** will search for _characters_ inside the text (for example, if you write /suse, it will search for occurances of suse inside your text and mark them).** n** will repeat the last search you performed, and** h** will display all your options (h, as in haalp!).
 
-[![halp]({{ site.baseurl }}/assets/halp.jpg)]({{ site.baseurl }}/assets/halp.jpg)
+[![halp](/wp-content/uploads/2014/06/halp.jpg)](/wp-content/uploads/2014/06/halp.jpg)
 
 You quit less with the letter **q**.
 
@@ -88,7 +91,7 @@ You quit less with the letter **q**.
 
 The file command will show what kind of file is that you're looking for, be it ASCII text, a jpg image, a bash script etc. As we performed our exercise with /etc/os-release, let's use it here also.
 
-[![Screenshot - 30. 06. 2014 - 19:14:02]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-191402.png)]({{ site.baseurl }}/assets/Screenshot-30.-06.-2014-191402.png)
+[![Screenshot - 30. 06. 2014 - 19:14:02](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-191402.png)](/wp-content/uploads/2014/06/Screenshot-30.-06.-2014-191402.png)
 
 There you go, os-release is an ASCII text file. Please, do try it out with something else, and see the output.
 
@@ -102,4 +105,4 @@ And until next time, remember to...
 
 
 
-		
+

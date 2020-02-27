@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-03-27 21:22:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/03/27/software-opensuse-org-calling-for-ruby-hackers/
-title: "software.openSUSE.org calling for Ruby Hackers!"
+slug: software-opensuse-org-calling-for-ruby-hackers
+title: software.openSUSE.org calling for Ruby Hackers!
+wordpress_id: 13067
 categories:
 - Infrastructure
 - Project
 ---
+
 About 2 weeks ago Thomas "digitaltom" Schmidt of the openSUSE Boosters started working on a refresh of the software.opensuse.org search interface. In that time, he has transformed the quite technical search UI into one which is a lot more modern and far easier to use. But there's quite a bit of work in designing and building a new way of searching the whole buildservice repository with its 170.000+ packages in an userfriendly and logical way. If you're up for it, we could use your help!
 <!-- more -->
 [gallery order="DESC" orderby="title"]
@@ -67,4 +70,4 @@ If you want to get to know your ruby/rails by working with an experienced hacker
 
 You'll get all the help you need and questions answered from Thomas, who you can find on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net) as "digitaltom", by mail on tom at the opensuse.org server and also [on Google+](https://plus.google.com/113014566104011909859/posts).
 
-So, go to our [github repo](https://github.com/openSUSE/software-o-o), fork it and get going!		
+So, go to our [github repo](https://github.com/openSUSE/software-o-o), fork it and get going!

@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-10-03 15:28:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/10/03/opensuse-weekly-news-91-is-out/
-title: "openSUSE Weekly News #91 is out!"
+slug: opensuse-weekly-news-91-is-out
+title: 'openSUSE Weekly News #91 is out!'
+wordpress_id: 2261
 categories:
 - Weekly News
 tags:
@@ -13,7 +15,8 @@ tags:
 - opensuse
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #91 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/91)!
+
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #91 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/91)!
 
 In this week's issue:
 
@@ -38,4 +41,4 @@ In this week's issue:
 
 
 For a list of available translations see this page:
-[http://en.opensuse.org/OpenSUSE_Weekly_News/91/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/91/Translations).		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/91/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/91/Translations).

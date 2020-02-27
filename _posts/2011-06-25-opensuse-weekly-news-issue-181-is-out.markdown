@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-06-25 17:49:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/25/opensuse-weekly-news-issue-181-is-out/
-title: "openSUSE Weekly News, Issue 181 is out!"
+slug: opensuse-weekly-news-issue-181-is-out
+title: openSUSE Weekly News, Issue 181 is out!
+wordpress_id: 9433
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce the openSUSE Weekly News, Issue 181.
 <!-- more -->
 
@@ -108,11 +111,11 @@ Enjoy reading :-)
 The Articles inside this Section are in full. If you are already knowing the stuff in
       news.opensuse.org, then you can skip this section through using the TOC.
 
+â€œ
 
+[openSUSE Summer Camp Greece 2011](http://news.opensuse.org/2011/06/20/opensuse-summer-camp-greece-2011/)
 
-[openSUSE Summer Camp Greece 2011](https://news.opensuse.org/2011/06/20/opensuse-summer-camp-greece-2011/)
-
-![]({{ site.baseurl }}/assets/Geekocamp.jpg)
+![](/wp-content/uploads/2011/06/Geekocamp.jpg)
 
 Summer in Greece! Is the weather too hot for you to code or contribute to your favorite
       FOSS project? Do you need some motivation and a refreshing swim? Come to our Summer
@@ -122,9 +125,9 @@ The Greek openSUSE community is organizing its first openSUSE Summer Camp, in ce
       Greece at Grand Platon Hotel at Olympiaki akti. This is is the beach of the city of Katerini.
       The doors will be open from the 15th to the 17th of July 2011, at the Heart of Summer!
 
-**Sounds awesome, I™ll book my tickets.**
+**Sounds awesome, Iâ€™ll book my tickets.**
 
-So, you™ll be there. What can you expect?
+So, youâ€™ll be there. What can you expect?
 
 Our goal is to bring FOSS communities closer and encourage people to contribute to their
       favorite projects.
@@ -134,29 +137,29 @@ A lot of people, with little to a lot of experience can benefit from the worksho
       coding, packaging and much more, showing how to work inside a community and how to collaborate
       with others!
 
-**Hmmm. But I could go swimming¦**
+**Hmmm. But I could go swimmingâ€¦**
 
-There will be relaxing and swimming of course! But hey, we have a common passion, don™t
+There will be relaxing and swimming of course! But hey, we have a common passion, donâ€™t
       we?
 
 We love what we do, we are having fun contributing to FOSS and we hate doing it alone in
-      our rooms during Summer time. Besides coding, translating and all other ˜working stuff™ there
-      will also be plenty of sun and beach, a large swimming pool and plenty of beers “ all paid by
-      you since we only sponsor the sun, the fun and all the other free stuff¦
+      our rooms during Summer time. Besides coding, translating and all other â€˜working stuffâ€™ there
+      will also be plenty of sun and beach, a large swimming pool and plenty of beers â€“ all paid by
+      you since we only sponsor the sun, the fun and all the other free stuffâ€¦
 
 We are looking forward to seeing you at the openSUSE Summer Camp Greece!
 
-
+â€
 
-
+â€œ
 
 [openSUSE
-        releases milestone 2](https://news.opensuse.org/2011/06/22/opensuse-releases-milestone-2/)
+        releases milestone 2](http://news.opensuse.org/2011/06/22/opensuse-releases-milestone-2/)
 
 ![](http://lizards.opensuse.org/wp-content/uploads/2011/06/geeko-cast-my-vote.png)
 
 About 3 weeks after the [first
-        milestone for openSUSE 12.1](https://news.opensuse.org/2011/06/01/first-step-towards-12-1-with-milestone-1/), today the second milestone has been made available.
+        milestone for openSUSE 12.1](http://news.opensuse.org/2011/06/01/first-step-towards-12-1-with-milestone-1/), today the second milestone has been made available.
       Following the [Roadmap](http://en.opensuse.org/openSUSE:Roadmap), this is
       the second of 6 milestone until the openSUSE 12.1 release in November.
 
@@ -165,7 +168,7 @@ About 3 weeks after the [first
 openSUSE is developed in a repository called [Factory](http://opensuse.org/Portal:Factory). Packages flow from the [devel projects](http://nl.opensuse.org/openSUSE:Build_Service_Collaboration#Devel_Project_maintainer.27s_workflow) into Factory upon OK from the [release team](http://en.opensuse.org/openSUSE:Release_team) following the [Factory Development
         Model](http://en.opensuse.org/openSUSE:Factory_development_model). During the [development
         cycle](http://en.opensuse.org/openSUSE:Roadmap) ([more detailed
-        model](http://www.suse.de/%7Ecoolo/opensuse_12.1/)) periodic releases are made available for testing “ these are the milestones.
+        model](http://www.suse.de/%7Ecoolo/opensuse_12.1/)) periodic releases are made available for testing â€“ these are the milestones.
       Six of them become available. After some several freezes go into effect, the component freeze
       just before the fourth milestone for instance. And about a couple of weeks after the last
       milestone the first of two Release Candidates is made ready for testing. The final openSUSE
@@ -182,7 +185,7 @@ The first milestone had a huge number of changes and improvements on top of the 
 
   * Horde4 packages (php5-pear-horde)
 
-  * The Board
+  * â€œThe Boardâ€
 
   * rawstudio
 
@@ -219,7 +222,7 @@ As expected from a development release, there is still a lot of work to do, so y
 So go and see for yourself what the next version of openSUSE has in store for you at our
         [download center](http://software.opensuse.org/developer).
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -227,17 +230,17 @@ So go and see for yourself what the next version of openSUSE has in store for yo
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-
+â€œ
 
 [Ratan Sebastian: GSOC 2011: ssc - Week
         4](http://rxvl.in/post/6688635893)
 
 The DirectoryManager module has been polished and it now handles duplicate entries in the
       software and repositories files. The app now handles errors better and crashes more gracefully
-      with meaningful error messages. As for functionality, I™ve added package banning and
+      with meaningful error messages. As for functionality, Iâ€™ve added package banning and
       unbanning. Also package importing has been included in the current release.
 
-I™ve started work on the file handling of the app. Currently it works similar to the
+Iâ€™ve started work on the file handling of the app. Currently it works similar to the
       packages or repositories with the difference that the file in question is copied over to
       <appliance_directory>/files. Adding and removing these files will be simple enough
       within the current framework. And with some work time-stamp information can be incorporated to
@@ -246,19 +249,19 @@ I™ve started work on the file handling of the app. Currently it works similar 
       version of the client.
 
 If you want to check out the application now, you can take it for a spin using [the gem](http://dl.dropbox.com/u/546252/ssc_releases/ssc-0.1.0.gem). Use with
-      caution, and all that. It shouldn™t do anything catastrophic, but, I wouldn™t use it with
+      caution, and all that. It shouldnâ€™t do anything catastrophic, but, I wouldnâ€™t use it with
       anything other than a test appliance at this point. Download it from [here](http://dl.dropbox.com/u/546252/ssc_releases/ssc-0.1.0.gem). Install it
       with [rubygems](http://rubygems.org) (gem install ssc-0.1.0.gem) and run ssc
       help to see the usage instructions.
 
-
+â€
+
+â€œ
 
 
+      [Marcus HÃ¼we: [gsoc] osc code cleanup â€“ summary of week 4](http://lizards.opensuse.org/2011/06/19/gsoc-osc-code-cleanup-summary-of-week-4/)
 
-
-      [Marcus Hüwe: [gsoc] osc code cleanup “ summary of week 4](http://lizards.opensuse.org/2011/06/19/gsoc-osc-code-cleanup-summary-of-week-4/)
-
-here™s a small summary of the 4th (coding) week. I spent most of the time with writing the
+hereâ€™s a small summary of the 4th (coding) week. I spent most of the time with writing the
       RemoteFile classes and the BuildResult class (+ testcases of course:) ).
 
 TODO for this week:
@@ -273,10 +276,10 @@ TODO for this week:
 
 - initialize optional parameters with the config default
 
-- encapsulate context-sensitivity logic (sometimes parameters should be read from
+- encapsulate â€œcontext-sensitivityâ€ logic (sometimes parameters should be read from
           the working copy (like apiurl, project or package))
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
@@ -292,7 +295,7 @@ Important Links
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
-
+â€œ
 
 [Dominik
           Mayer: Update for openSUSE 11.4 AMIs on EC2](http://blog.susestudio.com/2011/06/we-updated-all-opensuse-11.html)
@@ -303,13 +306,13 @@ We updated all openSUSE 11.4 public AMIs on Amazon EC2! (All built with SUSE Stu
         some disk space related problems with the old ones and re-released these with 5GB of virtual
         disk space to ensure there is enough space for your software packages. (...)
 
-
+â€
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-
+â€œ
 
 
           [OBS 2.3 Beta 2](http://lists.opensuse.org/archive/opensuse-buildservice/2011-06/msg00134.html)
@@ -373,16 +376,16 @@ As usual, you find current packages or an appliance in openSUSE:Tools:Unstable
 
 Please read here for usage details for the appliance:[http://en.opensuse.org/openSUSE:Build_Service_Appliance](http://en.opensuse.org/openSUSE:Build_Service_Appliance) (...)
 
-
+â€
 
 Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
+â€œ
 
 
-
-          [Nelson Marques: GNOME3 and openSUSE 12.1 “ A conspiracy theory!](http://www.marques.so/2011/06/conspiracy-theories-and-gnome2/)
+          [Nelson Marques: GNOME3 and openSUSE 12.1 â€“ A conspiracy theory!](http://www.marques.so/2011/06/conspiracy-theories-and-gnome2/)
         
 
 This text is based on a personal interpretation of several events, and as such it
@@ -392,53 +395,53 @@ On the last [GNOME Team](http://en.opensuse.org/openSUSE:GNOME_team)[meeting](ht
           GNOME2 spin for the upcoming 12.1 release of [openSUSE](http://www.opensuse.org). It was decided not to provide a GNOME2 spin and somehow this suggests
           that GNOME2 is dead for openSUSE (unless someone takes the job in).
 
-One of the interesting things that poped during this meeting was the fact that [GNOME3](http://www.gnome3.org) has a ˜fallback mode™, or at least that™s how
-          it became to be knownÃ½amongÃ½GNOME users, press and competitors. It™s not really hard to
-          understand that ˜fallback™ became a connotative form that throws in a lot of negative
-          energy, much in the way that it seems to be an unwanted ˜feature™.
+One of the interesting things that poped during this meeting was the fact that [GNOME3](http://www.gnome3.org) has a â€˜fallback modeâ€™, or at least thatâ€™s how
+          it became to be knownÃ½amongÃ½GNOME users, press and competitors. Itâ€™s not really hard to
+          understand that â€˜fallbackâ€™ became a connotative form that throws in a lot of negative
+          energy, much in the way that it seems to be an unwanted â€˜featureâ€™.
 
 I believe that [Vincent Untz](http://en.opensuse.org/User:Vuntz)
-          proposed a very interesting plan regarding this GNOME3 vs GNOME2³ possibilities: provide
-          an alternative Desktop option where the feature known as ˜fallback mode™ can be presented
-          as an attractive option to the standard GNOME Shell for users who seek ˜classic™ looks.
-          It™s somehow unclear to me how we will achieve this, but I™m sure that a few ideas might
+          proposed a very interesting plan regarding this â€œGNOME3 vs GNOME2â€³ possibilities: provide
+          an alternative Desktop option where the feature known as â€˜fallback modeâ€™ can be presented
+          as an attractive option to the standard GNOME Shell for users who seek â€˜classicâ€™ looks.
+          Itâ€™s somehow unclear to me how we will achieve this, but Iâ€™m sure that a few ideas might
           have been already on the forge for testing.
 
 The [Fedora Project](http://www.fedoraproject.org) has taken a
-          different approach and it seems that [GNOME2 is making it™s way into Fedora 15](http://ostatic.com/blog/how-would-you-like-gnome-2-32-on-fedora-15), the most controversial release of the Fedora
+          different approach and it seems that [GNOME2 is making itâ€™s way into Fedora 15](http://ostatic.com/blog/how-would-you-like-gnome-2-32-on-fedora-15), the most controversial release of the Fedora
           Project, nevertheless one of their greatest, maybe only surpassed by Fedora 13. This
-          initiative is called ˜BlueBubble™ and lead by Fedora Ambassador and Packager [Juan Moreno](http://fedoraproject.org/wiki/User:Nushio), to whom I wish all
-          the success with his work, as I™m sure that many Fedora users will be thrilled with such
+          initiative is called â€˜BlueBubbleâ€™ and lead by Fedora Ambassador and Packager [Juan Moreno](http://fedoraproject.org/wiki/User:Nushio), to whom I wish all
+          the success with his work, as Iâ€™m sure that many Fedora users will be thrilled with such
           option available.
 
 Back into the openSUSE world I also recognize a huge amount of value, and though it
           might become a complicate task to strike down the current idea people have about the
-          ˜fallback mode™ (clearly a huge failure from whoever decided to call it ˜fallback mode™)
+          â€˜fallback modeâ€™ (clearly a huge failure from whoever decided to call it â€˜fallback modeâ€™)
           and try to make it a more useful feature towards the classic GNOME2 Desktop, thus
-          promoting among our users that upgrading to GNOME3 is the way! With openSUSE there won™t
+          promoting among our users that upgrading to GNOME3 is the way! With openSUSE there wonâ€™t
           be a 10th year for GNOME2 life cycle! The future lies only with GNOME3 which has shown
-          great potential and stability on it™s initial release, specially if we compare it to the
-          initial release of it™s main competitors, [KDE4](http://www.kde.org) and
+          great potential and stability on itâ€™s initial release, specially if we compare it to the
+          initial release of itâ€™s main competitors, [KDE4](http://www.kde.org) and
             [Unity](http://launchpad.net/unity).
 
 openSUSE and GNOME3 lead the way now!
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
+â€œ
 
 
-
-          [Sebastian Kügler: Plasma Active Updates](http://vizzzion.org/blog/2011/06/plasma-active-updates/)
+          [Sebastian KÃ¼gler: Plasma Active Updates](http://vizzzion.org/blog/2011/06/plasma-active-updates/)
         
 
 **Plasma Active Updates**
 
-During the past weeks, we™ve been kind of silent around Plasma Active. This doesn™t
-          mean we™ve just been sitting on our lazy bums, but that we™ve poured a lot of work into
+During the past weeks, weâ€™ve been kind of silent around Plasma Active. This doesnâ€™t
+          mean weâ€™ve just been sitting on our lazy bums, but that weâ€™ve poured a lot of work into
           various aspects of the Plasma Active user experience. Let me details these changes to give
-          you some idea of where we are. But first off, ¦
+          you some idea of where we are. But first off, â€¦
 
 **What is Plasma Active?**
 
@@ -456,31 +459,31 @@ Plasma Active is a KDE project building a touch-friendly user experience for the
 
 Plasma Active is fully community-developed and builds on existing KDE frameworks.
           Re-using technologies such as Plasma, we already have quite some usefl apps to run on
-          Plasma Active, more apps are relatively easy to write or to port to Plasma Active. (I™ll
+          Plasma Active, more apps are relatively easy to write or to port to Plasma Active. (Iâ€™ll
           explain more about this in a later blog.) One very nice thing is that Plasma Active by
-          design is ultimately hackable, it uses components that many people know already, many
-          aspects of the system can even be directly changed on the device by opening it™s QML files
+          design is â€œultimately hackableâ€, it uses components that many people know already, many
+          aspects of the system can even be directly changed on the device by opening itâ€™s QML files
           with the description of the user interfaces.
 
-Plasma Active™s development happens in KDE™s Git infrastructure, communication can be
+Plasma Activeâ€™s development happens in KDEâ€™s Git infrastructure, communication can be
           followed on the active@kde.org mailinglist, our IRC channel (#active on irc.freenode.net)
-          is welcoming and open for everyone. This doesn™t mean that there™s no commercial
-          investment in Plasma Active, or that it™s impossible to participate in Plasma Active as a
-          commercially interested partner, it™s just that the foundation is in the hands of a Free
-          software project ” KDE ” leveling the playing field for everybody else. Two good examples
+          is welcoming and open for everyone. This doesnâ€™t mean that thereâ€™s no commercial
+          investment in Plasma Active, or that itâ€™s impossible to participate in Plasma Active as a
+          commercially interested partner, itâ€™s just that the foundation is in the hands of a Free
+          software project â€” KDE â€” leveling the playing field for everybody else. Two good examples
           for commercial partners in Plasma Active are basysKom and open-slx. [BasysKom](http://www.basyskom.com) contributes design and development effort
           into the Contour shell, which forms the basic workspace for Plasma Active. [open-slx](http://www.open-slx.com) (my employer :)) invests into development
           of Plasma Active core components, system integration, packaging, testing and deployment.
           As such, we continously work on turning Plasma Active from Git Repo into something
-          end-user ready ” which is also our mission, we want to bring Plasma Active to the masses.
-          For this, we™re releasing regularly updated [Live Images of Balsam Professional](http://open-slx.com/?Downloads) running Plasma Active, and we™re working
+          end-user ready â€” which is also our mission, we want to bring Plasma Active to the masses.
+          For this, weâ€™re releasing regularly updated [Live Images of Balsam Professional](http://open-slx.com/?Downloads) running Plasma Active, and weâ€™re working
           hard on making these images also installable. You can test those images in a virtual
-          machine (you™ll want one that supports composited graphics, such as Virtual Box), or
+          machine (youâ€™ll want one that supports composited graphics, such as Virtual Box), or
           directly on the device. The Balsam Professional Live Image boots out of the box on the
-          ExoPC / WeTab, and we™re working on support for more diverse hardware.
+          ExoPC / WeTab, and weâ€™re working on support for more diverse hardware.
 
-To keep track of our different focus points, we™ve created a map of the different
-          tracks we follow with our development.
+To keep track of our different focus points, weâ€™ve created a map of the different
+          â€œtracksâ€ we follow with our development.
 
 ![](http://vizzzion.org/blog/wp-content/uploads/2011/06/activeroutes.png)
 
@@ -490,44 +493,44 @@ System-wise, the current status is that we have a [bootable live image (Balsam P
           with a touch-friendly shell, a bunch of apps that can be used. Boot performance is a bit
           on the slow side right now (but improving, there are some changes to the boot process
           planned), runtime performance is pretty good already, as you can see in the videos that
-          we™ve posted already. At open-slx we are working on refining the image in terms of
-          preconfiguration, performance and so on. We™re also quite close to making the image
+          weâ€™ve posted already. At open-slx we are working on refining the image in terms of
+          preconfiguration, performance and so on. Weâ€™re also quite close to making the image
           installable, so you can easily install it once (as dualboot on your device, if you wish)
           and then keep tracking Plasma Active development just by updating your packages
           regularly.
 
 During the Meego conference in San Francisco, basysKom demoed parts of Plasma Active
           and the Contour shell. A video has been recorded which gives a good idea of which
-          direction we™re going: [http://www.youtube.com/watch?v=i3abBR1qLn0](http://www.youtube.com/watch?v=i3abBR1qLn0)
+          direction weâ€™re going: [http://www.youtube.com/watch?v=i3abBR1qLn0](http://www.youtube.com/watch?v=i3abBR1qLn0)
 
-On the software side, we™re working on a bunch of different things 
+On the software side, weâ€™re working on a bunch of different things 
 
-  * **Resource visualization**: As we™re using Nepomuk as
-              the underlying data structure, we™ve implemented data-driven widgets that represent
-              Things in the Nepomuk store. These can be local files, online resources, but also
-              abstract things like tags, for example. These Resource delegates as we call them
+  * **Resource visualization**: As weâ€™re using Nepomuk as
+              the underlying data structure, weâ€™ve implemented data-driven widgets that represent
+              â€œThingsâ€ in the Nepomuk store. These can be local files, online resources, but also
+              abstract things like tags, for example. These â€œResource delegatesâ€ as we call them
               form basic building blocks of your assets in Plasma Active. 
 
-  * **Web-browser and web-integration**: As The Web is
-              one of the most important use-cases for Plasma Active, we™re spending quite some time
+  * **Web-browser and web-integration**: As â€œThe Webâ€ is
+              one of the most important use-cases for Plasma Active, weâ€™re spending quite some time
               now on making this work really well. After shopping around, we decided that our best
-              bet on the web-browser would be a touch-friendly version of Rekonq, using QML. We™ve
-              already made some progress towards that direction, but we™re not there yet. 
+              bet on the web-browser would be a touch-friendly version of Rekonq, using QML. Weâ€™ve
+              already made some progress towards that direction, but weâ€™re not there yet. 
 
   * **Share-Like-Connect**: Share-Like-Connect will bring
               ubiquitous (just *had* to use this word once ;)) social networking and sharing to
-              Plasma Active. I™ll not go into details here since this topic is way too awesome, so
-              we™ll dedicate a separate post to it. 
+              Plasma Active. Iâ€™ll not go into details here since this topic is way too awesome, so
+              weâ€™ll dedicate a separate post to it. 
 
 From my personal point of view as a user, I must say that Plasma Active is becoming a
-          rock star. It™s already quite usable for surfing the web, reading news or email. It is not
+          rock star. Itâ€™s already quite usable for surfing the web, reading news or email. It is not
           stable software yet, more comparable to an Alpha state (there are quite some bugs left to
-          be squished, and it™s not feature complete). Our progress is very noticeable, however,
+          be squished, and itâ€™s not feature complete). Our progress is very noticeable, however,
           which is promising for our first targeted released end of September.
 
-**More info¦**
+**More infoâ€¦**
 
-If you™d like to know more about Plasma Active, or follow its development, the
+If youâ€™d like to know more about Plasma Active, or follow its development, the
           following resources are interesting: 
 
   * [Plasma Active](http://community.kde.org/Plasma/Active) on the
@@ -545,13 +548,13 @@ If you™d like to know more about Plasma Active, or follow its development, the
 
   * [Plasma Active OBS](https://build.opensuse.org/project/show?project=KDE%3AActive) project
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 356)](https://features.opensuse.org/120340)
@@ -560,9 +563,9 @@ If you™d like to know more about Plasma Active, or follow its development, the
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 189)](https://features.opensuse.org/305493)
@@ -577,9 +580,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 133)](https://features.opensuse.org/308497)
@@ -597,9 +600,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 104)](https://features.opensuse.org/305877)
@@ -620,13 +623,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Add ntfs to /etc/filesystems](https://features.opensuse.org/312544)
@@ -637,9 +640,9 @@ Since I still have a ntfs partition to easily share files between Windows and Li
 However, for me, it is no problem to add this line. But I have a few colleagues with now run openSUSE as well, who have no desire to manually change config files. However, they had to, to get their ntfs partition, in their case an external hard drive, running.
 I'd really prefer if this line could be added to the /etc/filesystems file.
 
-
+â€
 
-
+â€œ
 
 
             [No more auto log-in as default](https://features.opensuse.org/312548)
@@ -653,9 +656,9 @@ This might be good for people who just want to work with their PC and don't thin
 
 So, please, disable this by default!
 
-
+â€
 
-
+â€œ
 
 
             [DNS Server: Support "views"](https://features.opensuse.org/312557)
@@ -665,9 +668,9 @@ yast2-dns-server doesn't have VIEWS support.
 
 This package provides an administration interface to bind DNS server. It is very usefull but doesn't support views (DNS VIEWS). There are situations where it is a show stopper.
 
-
+â€
 
-
+â€œ
 
 
             [Add Iron To The repos](https://features.opensuse.org/312567)
@@ -677,9 +680,9 @@ Add Iron To The repos This seems to be a promising browser based on chromium sou
 
 Iron removes all the questionable features from chrome Ref:- [http://www.srware.net/en/software_srware_iron_chrome_vs_iron.php](http://www.srware.net/en/software_srware_iron_chrome_vs_iron.php)
 
-
+â€
 
-
+â€œ
 
 
             [Add the packages: linux-atm-lib, smpppd and WvDial in: Live CD, USB Live...](https://features.opensuse.org/312580)
@@ -692,7 +695,7 @@ Add the packages:
 [openSUSE Linux 12.1](http://en.opensuse.org/Main_Page) , can thus be made  a DSL Internet setup, the installation automatically, through automated configuration tool on CD Live, Live or USB installation DVD, I had to manually download and install packages, see the Mandriva Linux does it automatically, openSUSE Linux would have to install the needed packages automatically, as is done in
 [Mandriva Linux](http://www.mandriva.com/) , facilitating the configuration of a DSL connection. 
 
-
+â€
 
 ##### Feature Statistics
 
@@ -700,11 +703,11 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Nuvola_apps_ooo_gulls.png)OpenOffice/LibreOffice Team
 
-
+â€œ
 
 [Petr Mladek: LibreOffice 3.3.3 bugfix release available for openSUSE](http://lizards.opensuse.org/2011/06/21/libreoffice-3-3-3-bugfix-release-available-for-opensuse/)
 
-I™m happy to announce LibreOffice 3.3.3 bugfix release
+Iâ€™m happy to announce LibreOffice 3.3.3 bugfix release
           for openSUSE. The packages are available in the Build
           Service [LibreOffice:Stable](http://download.opensuse.org/repositories/LibreOffice:/Stable/) project. They fix various crashers, usability and translation
           problems, see the [libreoffice-3.3.3.1 release news](http://cgit.freedesktop.org/libreoffice/build/plain/NEWS?id=libreoffice-3.3.3.1) for more details. See also some notes about [openSUSE LibreOffice build](http://en.opensuse.org/LibreOffice).
@@ -722,11 +725,11 @@ I am already working on the LO-3.4 packages. They are more complicated because t
           significant changes in the build stuff. You might expect something within the next few weeks
           in the [LibreOffice:Unstable](http://download.opensuse.org/repositories/LibreOffice:/Unstable/) project.
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry Finger: Weekly News for
@@ -742,20 +745,20 @@ Next, we will discussing the draft of an Email requesting that 12.1-MS6 be renam
           12.1-Beta. We feel that there will be more testing of a release by that name than for
           MS6.
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### Postings from the Community
 
-
+â€œ
 
 
         [Jos Poortvliet: Time to register!](http://blog.jospoortvliet.com/2011/06/time-to-register.html)
@@ -777,35 +780,35 @@ And not to forget, we have a STUNNING [line-up](https://desktopsummit.org/progra
 
 So go, [register today](https://desktopsummit.org/register)! 
 
-
+â€
 
 ### People of openSUSE
 
+â€œ
 
 
-
-        [People of openSUSE: Christos Bountalis](https://news.opensuse.org/2011/06/23/people-of-opensuse-christos-bountalis/)
+        [People of openSUSE: Christos Bountalis](http://news.opensuse.org/2011/06/23/people-of-opensuse-christos-bountalis/)
       
 
 I am Christos, i am 25 years old and I live in Salamis a small island near Athens,
         Greece. I just finished my studies for a Bsc in computer Science. I enjoy music,
         programming, playing games, and of course going out with friends.
 
-
+â€
 
 ### Events & Meetings
 
 Past
 
-  * [June 21, 2011 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [June 21, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
 Upcoming
 
   * [June 25-29, 2011 : OSCON (Portland, Oregon, USA)](http://www.oscon.com/oscon2011)
 
-  * [June 29, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [June 29, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -827,7 +830,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 
       [SUSE
@@ -874,9 +877,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >Framesets allow web pages to hold other pages inside them.
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [SUSE
@@ -929,9 +932,9 @@ To view the security announcements in full, or to receive them as soon as they'r
             file contents of filesconfigured to be unreadable by those users.- CVE-2011-0715: Remote
             attackers could crash an svn serverby causing a NULL deref
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [SUSE
@@ -983,11 +986,11 @@ To view the security announcements in full, or to receive them as soon as they'r
             CVE-2011-1921: The mod_dav_svn Apache HTTPD server modulemay leak to remote users the
             file contents of filesconfigured to be unreadable by those users
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
             [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.0 (Part 2) -
@@ -1011,9 +1014,9 @@ The Kernel Log is taking the development progress of Linux 3.0 as an opportunity
             will discuss the kernel's graphics drivers, architecture code, storage support,
             infrastructure and other hardware drivers.
 
-
+â€
 
-
+â€œ
 
 [Linus Torvalds: Linux
             3.0-rc4](https://lkml.org/lkml/2011/6/21/2)
@@ -1027,13 +1030,13 @@ And a couple of performance regressions: rcu doesn't need threads (and avoiding 
             mutexes for the anon_vma locking ended up causing a scalability issue that required
             fixing.  (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [ Linux.com/Nathan Willis: Weekend Project: Use Rapid Photo Downloader for Photo Management ](http://www.linux.com/learn/tutorials/459107-weekend-project-use-rapid-photo-downloader-for-photo-management)
@@ -1051,39 +1054,39 @@ Often the most impressive thing about the open source community is getting to wa
 **Editor's note**: Rapid Photo Downloader packages for
         openSUSE are available via [OBS](http://bit.ly/lkbkX8).
 
-
+â€
 
-
+â€œ
 
 
         [Wazi/Mayank Sharma: Encrypting an Enterprise Desktop with TrueCrypt](http://olex.openlogic.com/wazi/2011/encrypting-an-enterprise-desktop-with-truecrypt/)
       
 
-Everyone has secrets. Some of yours probably live on your computer. If you want to keep digital information private, locking it behind a password won™t really keep it secure. The only real solution is encryption, which scrambles the contents of files, making them unintelligible to anyone without the digital key to unscramble them. [TrueCrypt](http://olex.openlogic.com/packages/truecrypt) can encrypt and decrypt files, documents, and even entire filesystems. The app also provides on-the-fly encryption for enhanced security, which means it can automatically encrypt and decrypt data before reading and writing it, so it™s never on your hard drive in human-readable format.
+Everyone has secrets. Some of yours probably live on your computer. If you want to keep digital information private, locking it behind a password wonâ€™t really keep it secure. The only real solution is encryption, which scrambles the contents of files, making them unintelligible to anyone without the digital key to unscramble them. [TrueCrypt](http://olex.openlogic.com/packages/truecrypt) can encrypt and decrypt files, documents, and even entire filesystems. The app also provides on-the-fly encryption for enhanced security, which means it can automatically encrypt and decrypt data before reading and writing it, so itâ€™s never on your hard drive in human-readable format.
 
 TrueCrypt is designed to use modern hardware and its multiple cores to speed up encryption and decryption. Besides Linux, it also runs on Windows and Mac operating systems.
 
-Of course TrueCrypt is not your only encryption alternative. [GNU Privacy Guard](http://olex.openlogic.com/packages/gnupg) (GPG) is free software™s answer to [Pretty Good Privacy](http://olex.openlogic.com/packages/pgp) (PGP), the industry standard for encrypting all types of data on the computer. But GPG is a suite of tools that allow you to encrypt and digitally sign arbitrary data such as files and emails, while TrueCrypt offers convenience and the advantage of deniability. (...)
+Of course TrueCrypt is not your only encryption alternative. [GNU Privacy Guard](http://olex.openlogic.com/packages/gnupg) (GPG) is free softwareâ€™s answer to [Pretty Good Privacy](http://olex.openlogic.com/packages/pgp) (PGP), the industry standard for encrypting all types of data on the computer. But GPG is a suite of tools that allow you to encrypt and digitally sign arbitrary data such as files and emails, while TrueCrypt offers convenience and the advantage of deniability. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [Linux Journal/Emre Sevinc: How Fast Can You Type? Develop a Tiny Utility in Bash to Find Out](http://www.linuxjournal.com/content/how-fast-can-you-type-develop-tiny-utility-bash-find-out)
       
 
-If you spend most of your time typing on your keyboard (and I hope you don™t use that mouse very frequently, if you care for your wrists, that is), getting up to speed and practicing to become a better and faster typist is well worth the time and effort. And measuring something is the first step to improve it.
+If you spend most of your time typing on your keyboard (and I hope you donâ€™t use that mouse very frequently, if you care for your wrists, that is), getting up to speed and practicing to become a better and faster typist is well worth the time and effort. And measuring something is the first step to improve it.
 
-There are tons of applications which test your typing abilities and help you improve it, but wouldn™t it be nice to have a basic idea about your typing performance using nothing but good old Bash? After all, this is about DIY (Do It Yourself) approach and having fun; two notions that Linux Journal readers know very well. (...)
+There are tons of applications which test your typing abilities and help you improve it, but wouldnâ€™t it be nice to have a basic idea about your typing performance using nothing but good old Bash? After all, this is about DIY (Do It Yourself) approach and having fun; two notions that Linux Journal readers know very well. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Fridrich Strba: Bounding Box of an SVG Elliptical Arc](http://fridrich.blogspot.com/2011/06/bounding-box-of-svg-elliptical-arc.html)
@@ -1112,37 +1115,37 @@ I hit this problem about a year ago when I was working during [my hackweek](http
         dust off my knowledge of mathematical analysis and analytical algebra (or the lack thereof),
         and try to compute the bounding box of an elliptical arc myself.
 
-
+â€
 
-
+â€œ
 
 
         [Wazi/Johan Thelin: Rewriting History with Git](http://olex.openlogic.com/wazi/2011/rewriting-history-with-git/)
       
 
-The [Git](http://olex.openlogic.com/packages/git) versioning system allows you to manage large-scale distributed code development projects with thousands of parallel branches. Its powerful checkout, merge, push, and pull capabilities help you work with code branches and clones. Sometimes you, as a contributor, might like to polish a branch you™ve checked out and reduce the number of commits you made before merging it with the master branch. One of Git™s nicer features is that it lets you rewrite history.
+The [Git](http://olex.openlogic.com/packages/git) versioning system allows you to manage large-scale distributed code development projects with thousands of parallel branches. Its powerful checkout, merge, push, and pull capabilities help you work with code branches and clones. Sometimes you, as a contributor, might like to polish a branch youâ€™ve checked out and reduce the number of commits you made before merging it with the master branch. One of Gitâ€™s nicer features is that it lets you rewrite history.
 
 Rewriting history is not about changing the end result, but about making things cleaner and clearer. For instance, you can remove commits from the times when you added and later removed debug outputs, or merge the fixes you made to a feature with the commit that added the actual feature. The overall goal is to simplify history for the person who merges your branch into the master branch.
 
-In Git, each repository is a clone of your project™s entire history. This means that your local repository has the same information as the master branch, or any other developer™s branch. All repositories share the common history, and no branch, from Git™s point of view, represents the true history. Therefore you should never rewrite history after you™ve pushed or shared your branch. If you do, other branches will contain alternate versions of the same development history, and your merging could get messy. (...)
+In Git, each repository is a clone of your projectâ€™s entire history. This means that your local repository has the same information as the master branch, or any other developerâ€™s branch. All repositories share the common history, and no branch, from Gitâ€™s point of view, represents the â€œtrueâ€ history. Therefore you should never rewrite history after youâ€™ve pushed or shared your branch. If you do, other branches will contain alternate versions of the same development history, and your merging could get messy. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [Justine Leng: MySQL 5.5 in openSUSE buildservice](http://obsforandroid.wordpress.com/2011/06/21/mysql-5-5-in-opensuse-buildservice/)
       
 
 I heard the recently released MySQL 5.5 was a million times faster and had a trillion
-        new features. Since MySQL 5.5 is the latest hottest thing that everyone™s talking about, I
-        decided to get it and see what it™s really like. (...)
+        new features. Since MySQL 5.5 is the latest hottest thing that everyoneâ€™s talking about, I
+        decided to get it and see what itâ€™s really like. (...)
 
-
+â€
 
-
+â€œ
 
 
         [BeginLinux: Auto-configure IPv6 for your Network](http://beginlinux.com/desktop/opensuse/auto-configure-ipv6-for-your-network)
@@ -1150,19 +1153,19 @@ I heard the recently released MySQL 5.5 was a million times faster and had a tri
 
 One major feature of IPv6 is its ability to auto-configure the host portion of the IP address using the MAC address from the Network Card. We may have seen this already with the local-link address, however, in this tutorial will look at configuring the RAdvD on openSUSE 11 to advertise the Network Prefix and default gateway so we can work with global addresses without any configuration on the hosts. This will differ from DHCP as we do not need to configure the RAdvD with the host addresses. These will come from the hosts own MAC address helping us reach Zero configuration networking. Or at least very little configuration. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 
       [Robert Schweikert: 1-2-3
         Cloud](http://lizards.opensuse.org/2011/06/20/1-2-3-cloud/)
     
 
-Towards the end of last year there was an article in openSUSE news announcing the cloud
-      efforts in the openSUSE project and on OBS. Well, cloud is still all the rage (see Jos™
+Towards the end of last year there was an article in openSUSE news â€œannouncingâ€ the cloud
+      efforts in the openSUSE project and on OBS. Well, cloud is still all the rage (see Josâ€™
       contribution to openSUSE News issue 180) and people just cannot stop talking about cloud
       computing.
 
@@ -1189,22 +1192,22 @@ All repositories provide packages you can install on running openSUSE systems. I
       interested in using openSUSE as the underlying OS for your cloud or if you want to contribute
       to the cloud projects, subscribe to the cloud mailing list [opensuse-cloud@opensuse.org](mailto:opensuse-cloud@opensuse.org)
 
-
+â€
 
-
+â€œ
 
 [Justine Leng: openSUSE buildservice 101](http://obsforandroid.wordpress.com/2011/06/21/opensuse-buildservice-101/)
 
 One of the reasons that Novell created this community-based openSUSE project was to invite
       contributions from independent developers. It also unveiled a new online service that
       automatically builds binary packages from source code. The openSUSE buildservice initially
-      focused on building packages for the SUSE variants ” openSUSE, SLES, and SLED ” but the tool
+      focused on building packages for the SUSE variants â€” openSUSE, SLES, and SLED â€” but the tool
       was later extended to support packages for other major distributions, such as Red Hat, Fedora,
       Mandriva, Debian, and Ubuntu. (...)
 
-
+â€
 
-
+â€œ
 
 [Andres Silva: Custom Setups for Revolutionized Desktop](http://anditosan.blogspot.com/2011/06/custom-setups-for-revolutionized.html)
 
@@ -1217,11 +1220,11 @@ Ok my friends. Here is the thing: An idea came up recently in the artwork mailin
       or Google Blogs. Whatever the service that may be, it doesn't matter. The main idea is to add
       something social to the default desktop in KDE under the new release of openSUSE. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
 
-
+â€œ
 
 
       [12.1 Milestone 1 - post your experiences](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/460636-12-1-milestone-1-post-your-experiences.html)
@@ -1231,9 +1234,9 @@ Ok my friends. Here is the thing: An idea came up recently in the artwork mailin
       The process to have the next openSUSE release has opened to the public with the release of the first Milestone. Our admin caf4926 started a thread a while ago, and it's a good thing to give it some attention here. Please be warned: Milestone releases are for testing purposes, not for production use. On the other hand: if you want to test, go ahead, and help the community by doing so. The roadmap to openSUSE 12.1 -yep, that's what it's going to be versioned- is [here](http://en.opensuse.org/openSUSE:Roadmap)
     
 
-
+â€
 
-
+â€œ
 
 
       Some other Milestone
@@ -1243,9 +1246,9 @@ Ok my friends. Here is the thing: An idea came up recently in the artwork mailin
       On the 2nd of June the openSUSE Forums passed the milestone of 1.000.000 posts....A big cheers to all who made this possible !!!
       
 
-
+â€
 
-
+â€œ
 
 
       [Chinese subforums added](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/announcement-chinese-forums-added.html)
@@ -1260,14 +1263,14 @@ Ok my friends. Here is the thing: An idea came up recently in the artwork mailin
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
-
+â€œ
 
 
     [I want to get a tablet](http://forums.opensuse.org/english/other-forums/community-fun/general-chit-chat/461136-i-want-get-tablet.html)
@@ -1277,25 +1280,25 @@ Ok my friends. Here is the thing: An idea came up recently in the artwork mailin
       An interesting thread from our Chit-Chat area. Developments in the tablet market are enormous, which gives a lot of food for thoughts about the new gadgets. Good read for those who are thinking of buying one. 
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Announcements
 
-
+â€œ
 
 
         [Karen Sandler Named New Executive Director of the GNOME Foundation](http://www.gnome.org/press/2011/06/karen-sandler-named-new-executive-director-of-the-gnome-foundation/)
       
 
-June 21, 2011: The GNOME Foundation today announced that it has appointed Karen Sandler as Executive Director. Sandler™s dedication to software freedom, her non-profits experience and her involvement in a wide range of free and open source software communities distinguish her as the logical choice for GNOME. I™m very excited that Karen is joining the GNOME Foundation as Executive Director!, says Stormy Peters, former Executive Director who has recently joined the GNOME Board as a new Director, Karen brings a wealth of experience in free software projects and nonprofits as well as a passion for free software. That experience will be invaluable as GNOME continues to expand its reach with GNOME 3.0 and GNOME technologies. (...)
+June 21, 2011: The GNOME Foundation today announced that it has appointed Karen Sandler as Executive Director. Sandlerâ€™s dedication to software freedom, her non-profits experience and her involvement in a wide range of free and open source software communities distinguish her as the logical choice for GNOME. â€œIâ€™m very excited that Karen is joining the GNOME Foundation as Executive Director!â€, says Stormy Peters, former Executive Director who has recently joined the GNOME Board as a new Director, â€œKaren brings a wealth of experience in free software projects and nonprofits as well as a passion for free software. That experience will be invaluable as GNOME continues to expand its reach with GNOME 3.0 and GNOME technologies.â€ (...)
 
-
+â€
 
 ### Call for participation
 
-
+â€œ
 
 
         [Call for Participation - Workshops & BoFs for the Desktop Summit 2011](http://dot.kde.org/2011/06/20/call-participation-workshops-bofs-desktop-summit-2011)
@@ -1305,30 +1308,30 @@ The [Desktop Summit 2011](http://desktopsummit.org/) is a joint conference organ
 
 The organizing team is now inviting applications to hold workshop and Birds of a Feather (BoF) sessions at the Desktop Summit. Read on for more details and how to make a proposal. (...)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 
         [ZDNet/Steven J. Vaughan-Nichols: Firefox 5: New, but improved?](http://www.zdnet.com/blog/networking/firefox-5-new-but-improved/1196)
       
 
-I™ve liked [Firefox](http://www.mozilla.com/en-US/firefox/new) since
+Iâ€™ve liked [Firefox](http://www.mozilla.com/en-US/firefox/new) since
         it first showed up. But, this new [Firefox 5](http://www.zdnet.com/blog/hardware/firefox-50-is-live/13398)
-        concerns me. Oh, it™s a fine browser. But, it™s not a major new release. At most, I™d call
-        it Firefox 4.1, but really it™s little more than Firefox 4.02.
+        concerns me. Oh, itâ€™s a fine browser. But, itâ€™s not a major new release. At most, Iâ€™d call
+        it Firefox 4.1, but really itâ€™s little more than Firefox 4.02.
 
-The Mozilla Foundation, following in the footsteps of [Google™s Chrome Web browser](http://www.google.com/chrome/), seems to believe
-        that if they keep popping out new major releases every six weeks, they™ll convince people
-        they™re better than the competition. That seemed like a dumb idea to me when Microsoft went
-        from Word for Windows 2.0 to Word for Windows 6.0 back in 1993. The idea hasn™t improved any
+The Mozilla Foundation, following in the footsteps of [Googleâ€™s Chrome Web browser](http://www.google.com/chrome/), seems to believe
+        that if they keep popping out new â€œmajorâ€ releases every six weeks, theyâ€™ll convince people
+        theyâ€™re better than the competition. That seemed like a dumb idea to me when Microsoft went
+        from Word for Windows 2.0 to Word for Windows 6.0 back in 1993. The idea hasnâ€™t improved any
         with age. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Linux Journal/Michael Reed: Xen Enters Mainline Kernel](http://www.linuxjournal.com/content/xen-enters-mainline-kernel)
@@ -1336,23 +1339,23 @@ The Mozilla Foundation, following in the footsteps of [Google™s Chrome Web bro
 
 Future versions of the Linux Kernel (such as 3.0) will include support for the [Xen](http://en.wikipedia.org/wiki/Xen) hypervisor. This means that Linux distributions will typically offer out of the box support for both hosting Xen and running as a guest operating system under Xen. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Unixmen/Anuradha Shukla: OIN-A patent pool to protect Linux users from lawsuits](http://www.unixmen.com/software/1789-oin-a-patent-pool-to-protect-linux-users-from-lawsuits)
       
 
-OIN or the [Open Invention Network](http://www.openinventionnetwork.com/licensees.php) is an industry-supporting independent group consisting of Linux users in a linux-logoroyalty-free environment and be protected from lawsuits for license infringement by proprietary software owners. The confrontation [between SCO vs Novell](https://www.networkworld.com/news/2010/061110-novell-wins-final-judgment-in.html); Microsoft™s claim of more than 235 patents being violated by Linux and open software community;
+OIN or the [Open Invention Network](http://www.openinventionnetwork.com/licensees.php) is an industry-supporting independent group consisting of Linux users in a linux-logoroyalty-free environment and be protected from lawsuits for license infringement by proprietary software owners. The confrontation [between SCO vs Novell](https://www.networkworld.com/news/2010/061110-novell-wins-final-judgment-in.html); Microsoftâ€™s claim of more than 235 patents being violated by Linux and open software community;
 
 the list is long and lawsuits plenty. The organization protects small users from being exposed to corporate lawsuits given the larger patent pool and protection Open Invention Network offers.
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [Datamation/Cynthia Harvey: 50 Must-Have Open Source Apps for Your Home Office](http://www.datamation.com/open-source/50-must-have-open-source-apps-for-your-home-office-1.html)
@@ -1374,7 +1377,7 @@ Whether they work for themselves, a small business or a large multinational corp
 
 With those workers in mind, we've created a list of open source applications that are
         the most helpful for home offices. Unlike many of our other Datamation lists, we've kept the
-        number of applications in each category small”usually just the one or two top apps in each
+        number of applications in each category smallâ€”usually just the one or two top apps in each
         category. Nearly all of this software will run on Windows, and these are some of the most
         mature and user-friendly open source applications available. If you're reasonably
         tech-savvy, you should be able to set up and use any of these apps.
@@ -1386,9 +1389,9 @@ Also, recognizing that home office computers get used for more than just work, w
 As always, if you'd like to recommend another open source app that we've missed, feel
         free to add a comment below. (...)
 
-
+â€
 
-
+â€œ
 
 
         [FossForce/Christine Hall: LibreOffice vs OpenOffice: When the Ball Bounces Your Way](http://fossforce.com/2011/06/libreoffice-vs-openoffice-when-the-ball-bounces-your-way/)
@@ -1396,15 +1399,15 @@ As always, if you'd like to recommend another open source app that we've missed,
 
 Probably the most boring open source story recently has also been the one getting the
         most ink. The problem with with the Apache/OpenOffice saga is that the real story already
-        happened, it™s history.
+        happened, itâ€™s history.
 
-Oracle™s gift of OpenOffice.org to Apache, and the change of license from copyleft to
-        permissive, is merely an epilogue referring back to a prologue: Oracle™s sudden ownership of
+Oracleâ€™s â€œgiftâ€ of OpenOffice.org to Apache, and the change of license from copyleft to
+        permissive, is merely an epilogue referring back to a prologue: Oracleâ€™s sudden ownership of
         the open source office suite as a mere byproduct of their acquisition of Sun. (...)
 
-
+â€
 
-
+â€œ
 
 
         [The Register/Matt Asay: The real reason most source is closed? Open is hard](http://www.theregister.co.uk/2011/06/22/open_source_is_hard/)
@@ -1414,9 +1417,9 @@ Oracle™s gift of OpenOffice.org to Apache, and the change of license from co
 
 Because open source is hard. Really, really hard. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Linux.com/Joe 'Zonker' Brockmeier: The 2011 Linux Distro Scorecard](http://www.linux.com/learn/tutorials/460661-the-2011-linux-distro-scorecard)
@@ -1424,7 +1427,7 @@ Because open source is hard. Really, really hard. (...)
 
 Picking a Linux distribution isn't always easy. It's one of the most common hurdles for new and aspiring Linux users, deciding which distribution is going to be right for them. With so many to choose from, how do you pick the right one? Let's start with an overview of the major Linux distros, and you'll be ready to jump in right away.
 
-You can find hundreds of Linux distributions, depending on what your needs are. For this scorecard, we're focusing on desktop distributions that are fairly popular, well-supported, and have a reliable release history, and strong community. In [last year's scorecard](http://www.linux.com/news/enterprise/biz-enterprise/313053-the-spring-2010-linux-distro-scorecard), we started with seven distros ” this year, we've narrowed the field to six distributions:
+You can find hundreds of Linux distributions, depending on what your needs are. For this scorecard, we're focusing on desktop distributions that are fairly popular, well-supported, and have a reliable release history, and strong community. In [last year's scorecard](http://www.linux.com/news/enterprise/biz-enterprise/313053-the-spring-2010-linux-distro-scorecard), we started with seven distros â€” this year, we've narrowed the field to six distributions:
 
     
 
@@ -1440,9 +1443,9 @@ You can find hundreds of Linux distributions, depending on what your needs are. 
 
   * Ubuntu (...)
 
-
+â€
 
-
+â€œ
 
 
         [linuxisit.com: Which Free Documentation License is Right for You?](http://linuxisit.com/doku.php/blog/2011/06/21/which_free_documentation_license_is_right_for_you)
@@ -1452,7 +1455,7 @@ When writing documentation for GNU/Linux or any other FOSS project it makes sens
 
 The licenses discussed here can, and often are, used for a variety of different forms of expression, but for the purpose of this article we will only focus on how they apply to the written word. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1484,7 +1487,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1502,7 +1505,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1538,7 +1541,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 181 is available in: 
 
-  * [English](https://news.opensuse.org/?p=9433)
+  * [English](http://news.opensuse.org/?p=9433)
 
 Coming soon: 
 
@@ -1551,6 +1554,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

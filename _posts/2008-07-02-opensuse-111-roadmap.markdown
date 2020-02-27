@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-07-02 10:53:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/02/opensuse-111-roadmap/
-title: "openSUSE 11.1 Roadmap"
+slug: opensuse-111-roadmap
+title: openSUSE 11.1 Roadmap
+wordpress_id: 931
 categories:
 - Distribution
 ---
+
 With openSUSE 11.0 out the door, it's time to start thinking about openSUSE 11.1. The public release of openSUSE 11.1 is scheduled for December 18, 2008, six months after the release of openSUSE 11.0.
 
 The full schedule for the release cycle is as follows:
@@ -68,4 +71,4 @@ See the [full 11.1 roadmap on the openSUSE wiki](http://en.opensuse.org/Roadmap/
 
 Note that Coolo and Michl are on vacation until the end of next week, so let's start the discussion on features once they are back on the opensuse-factory mailing list,
 
-Andreas		
+Andreas

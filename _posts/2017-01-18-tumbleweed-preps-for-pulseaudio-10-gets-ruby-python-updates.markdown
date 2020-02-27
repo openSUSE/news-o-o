@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-01-18 13:49:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/01/18/tumbleweed-preps-for-pulseaudio-10-gets-ruby-python-updates/
-title: "Tumbleweed Preps for PulseAudio 10, Gets Ruby, Python Updates"
+slug: tumbleweed-preps-for-pulseaudio-10-gets-ruby-python-updates
+title: Tumbleweed Preps for PulseAudio 10, Gets Ruby, Python Updates
+wordpress_id: 20271
 categories:
 - Tumbleweed
 tags:
@@ -20,7 +22,8 @@ tags:
 - systemd
 - x.org 1.19
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)Developers using openSUSE [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) are always getting the newest packages as well as updated languages and past week’s snapshots delivered update versions of Python and Ruby.
+
+![](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)Developers using openSUSE [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) are always getting the newest packages as well as updated languages and past week’s snapshots delivered update versions of Python and Ruby.
 
 The most recent snapshot, [20170112](https://lists.opensuse.org/opensuse-factory/2017-01/msg00178.html), brought Python 2.x users version 2.7.13, which updated cipher lists for openSSL wrapper and supports versions equal to or greater than [OpenSSL 1.1.0](https://www.openssl.org/news/openssl-1.1.0-notes.html). [Python-unidecode 0.04.20](https://pypi.python.org/pypi/Unidecode) was also updated in the snapshot. Another update related to [OpenSSL 1.1.0](https://www.openssl.org/news/openssl-1.1.0-notes.html) was PulseAudio 9.99.1, which is a release in preparation for [PulseAudio 10.0](https://www.freedesktop.org/wiki/Software/PulseAudio/Notes/10.0/). [PulseAudio 10.0](https://www.freedesktop.org/wiki/Software/PulseAudio/Notes/10.0/) includes compatibility with [OpenSSL 1.1.0](https://www.openssl.org/news/openssl-1.1.0-notes.html), a fix for hotplugged USB surround sound cards and and automatic switching of Bluetooth profile when using VoIP applications.
 
@@ -34,4 +37,4 @@ Tumbleweed users who enjoy fonts will see some miscellaneous fixes with an updat
 
 A few packages Tumbleweed users can expect in the future are Systemd 232, Linux Kernel 4.9.3 and Flatpak 0.8, according to Dominique Leuenberger, wrote his weekly review to Tumbleweed users on the [mailing list](https://lists.opensuse.org/opensuse-factory/).
 
-GStreamer 0.10 is scheduled for removal from Tumbleweed, Leuenberger added.		
+GStreamer 0.10 is scheduled for removal from Tumbleweed, Leuenberger added.

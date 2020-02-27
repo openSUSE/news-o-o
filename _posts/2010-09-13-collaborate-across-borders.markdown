@@ -1,10 +1,12 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-09-13 12:35:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/13/collaborate-across-borders/
-title: "openSUSE Conference 2010 “ Collaborate Across Borders"
+slug: collaborate-across-borders
+title: openSUSE Conference 2010 â€“ Collaborate Across Borders
+wordpress_id: 4178
 categories:
 - Events
 - Project
@@ -12,12 +14,13 @@ tags:
 - conference
 - osc2010
 ---
-[![]({{ site.baseurl }}/assets/Conf2010_250px2+register.png)](http://conference.opensuse.org/indico/event/osc2010)The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more thanÂ seventy talks and workshops explore the theme of '**Collaboration Across Borders**' in Free and Open Source software communities, administration and development.  The conference is the yearly get-together ofÂ  the openSUSE project  to give its people a chance to meet face to face, talk to and inspire  each other. It takes place in the [Berufsförderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free.
+
+[![](/wp-content/uploads/2010/09/Conf2010_250px2+register.png)](http://conference.opensuse.org/indico/event/osc2010)The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more thanÂ seventy talks and workshops explore the theme of '**Collaboration Across Borders**' in Free and Open Source software communities, administration and development.  The conference is the yearly get-together ofÂ  the openSUSE project  to give its people a chance to meet face to face, talk to and inspire  each other. It takes place in the [BerufsfÃ¶rderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free.
 
 Read on to learn more about details of the [program](http://conference.opensuse.org/indico//conferenceProgram.py?confId=0), involved people and the [event in general](http://en.opensuse.org/Portal:Conference).
 
 
-![]({{ site.baseurl }}/assets/intro-1024x503.png)
+![](/wp-content/uploads/2010/09/intro.png)
 
 
 <!-- more -->
@@ -36,7 +39,7 @@ Attend talks and workshops exploring the horizons of software, with representati
 Linux drives not only your laptop and the server your website is running on, the penguin also goes beyond heavy metal. From very small devices like smartphones to virtualized workloads in the cloud. And so is the openSUSE conference.
 
 
-![]({{ site.baseurl }}/assets/explore1.png)
+![](/wp-content/uploads/2010/09/explore1.png)
 
 
 Talks in this area include a presentation of Smeegol, an openSUSE spin of the mobile computing interface [MeeGo](http://MeeGo.com), a guide to build your own version of Google's mobile operating system [Android](http://www.android.com), working with the [openSUSE Build Service](http://build.opensuse.org) and [Nokia's OVI store](https://store.ovi.com/) and a workshop how to control your own cloud services.
@@ -50,7 +53,7 @@ Talks in this area include a presentation of Smeegol, an openSUSE spin of the mo
 Are  you a Linux Newbie? This is a great chance to get to know the [Free Software philosophy](http://www.gnu.org/philosophy/philosophy.html) and to meet the most famous hackers of our project and the many other Free Software projects openSUSE works with. There will be workshops and small-scale meetings to help you [learn to work with and contribute](http://conference.opensuse.org/indico//sessionDisplay.py?sessionId=22&confId=0#20101022) to Linux and openSUSE. You'll meet experienced users who will guide you through this new and exciting world. If you want to help out - you can! Learn about the principles of successful Open Source communities and how you can run your own Open Source event or project.
 
 
-![]({{ site.baseurl }}/assets/experts.png)
+![](/wp-content/uploads/2010/09/experts.png)
 
 
 The [openSUSE Build Service](http://build.opensuse.org) is a powerful tool that enables developers to deliver their software to users of major distributions, creating packages for current and past releases of [Ubuntu](http://www.ubuntu.com/), [Fedora](http://fedoraproject.org/), [Red Hat](http://www.redhat.com/), [SUSE Linux Enterprise](http://www.novell.com/linux), [Mandriva](http://www.mandriva.com/) and of course openSUSE. You can easily create repositories and use the dashboard to get an overview of the build process with its easy-to-use web interface. The Build Service uses virtualization to build each package on the distribution it is meant for, ensuring compatibility and stability. Join the thousands of developers already using OBS and[ learn how to use it](http://conference.opensuse.org/indico//sessionDisplay.py?sessionId=18&confId=0#20101020) at the openSUSE Conference!
@@ -64,7 +67,7 @@ openSUSE is an international project that brings together the brightest minds fr
 There is a person behind every piece of our code, and we think that human interaction is vitally important. This is great chance to talk about your experience using openSUSE, face to face with the people behind it. To tell us what's wrong and what's right, or maybe just have a sneak preview into  the future of openSUSE. And of course, one of the most enjoyable aspects of any conference - the chance to [get together](http://conference.opensuse.org/indico//sessionDisplay.py?sessionId=36&confId=0#20101021) over a coffee, beer or a keyboard, with people who share your enthusiasm!
 
 
-![]({{ site.baseurl }}/assets/fun.png)
+![](/wp-content/uploads/2010/09/fun.png)
 
 
 Free and Open Source Software is all about community. Collaborating together, we discover that we have more similarities than differences, and we each offer something of value. At the openSUSE conference, your contribution is celebrated -  developer, packager, translator, artist, user - there is something for all. We make a difference!
@@ -79,4 +82,4 @@ Just register today in our conference tool at [http://conference.opensuse.org](h
 ## See you in October!
 
 
-_Credits for writing: __Bruno Friedmann,Â Chuck Payne,Â Fransisco Arias,Â Sirko Kemter, Helen South, Henne Vogelsang andÂ Javier Llorente._		
+_Credits for writing: __Bruno Friedmann,Â Chuck Payne,Â Fransisco Arias,Â Sirko Kemter, Helen South, Henne Vogelsang andÂ Javier Llorente._

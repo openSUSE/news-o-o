@@ -1,22 +1,25 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-11-13 12:00:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/11/13/sneak-peek-opensuse-13-1-geeko-tips/
-title: "Sneak Peek openSUSE 13.1: Geeko Tips"
+slug: sneak-peek-opensuse-13-1-geeko-tips
+title: 'Sneak Peek openSUSE 13.1: Geeko Tips'
+wordpress_id: 16829
 categories:
 - Announcements
 - Distribution
 ---
-[![WinterIsComingFinal]({{ site.baseurl }}/assets/WinterIsComingFinal-300x225.jpg)]({{ site.baseurl }}/assets/WinterIsComingFinal.jpg)Welcome to our fourth Sneak Peek for openSUSE 13.1! The release is getting very close and you've already learned about all the awesome [new Cloud features](https://news.opensuse.org/2013/10/17/openstack-havana-and-opensuse/), the [new YaST](https://news.opensuse.org/?p=16681) and what our new [GNOME](https://news.opensuse.org/?p=16793) and [KDE fans](https://news.opensuse.org/?p=17213) will get. Today, we feature a much requested article: **some in-depth Geeko Tips**!
+
+[![WinterIsComingFinal](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)Welcome to our fourth Sneak Peek for openSUSE 13.1! The release is getting very close and you've already learned about all the awesome [new Cloud features](https://news.opensuse.org/2013/10/17/openstack-havana-and-opensuse/), the [new YaST](https://news.opensuse.org/?p=16681) and what our new [GNOME](https://news.opensuse.org/?p=16793) and [KDE fans](https://news.opensuse.org/?p=17213) will get. Today, we feature a much requested article: **some in-depth Geeko Tips**!
 
 
 ## Tips?
 
 
 Last release, we featured a [set of geeko tips](https://news.opensuse.org/2013/03/22/opensuse-for-new-geekos/) for new users. If you come from [Fedora](https://news.opensuse.org/2013/03/22/opensuse-for-new-geekos/#fedora), [Gentoo](https://news.opensuse.org/2013/03/22/opensuse-for-new-geekos/#gentoo) or [Ubuntu](https://news.opensuse.org/2013/03/22/opensuse-for-new-geekos/#ubuntu), that's the article to read. It not only explains what all that green is about but also gives openSUSE equivalents of your familiar terminal commands and introduces you to YaST, [getting software on openSUSE](http://software.opensuse.org/packages) and more. Talking about software, we featured some interesting tips in that area with [in this article](https://news.opensuse.org/2013/03/11/sneak-preview-iii-there-and-back-again-a-distros-tale/) about getting the latest fresh software from the Open Build Service. Finally, find some more tips and information on using the repositories on OBS and One-Click-Install in [this blog post](http://blog.jospoortvliet.com/2013/08/using-softwareopensuseorg.html).
-[![OWN-oxygen-Tips-and-Tricks]({{ site.baseurl }}/assets/OWN-oxygen-Tips-and-Tricks.png)]({{ site.baseurl }}/assets/OWN-oxygen-Tips-and-Tricks.png)
+[![OWN-oxygen-Tips-and-Tricks](//news.opensuse.org/wp-content/uploads/2010/12/OWN-oxygen-Tips-and-Tricks.png)](//news.opensuse.org/wp-content/uploads/2010/12/OWN-oxygen-Tips-and-Tricks.png)
 
 
 ## Going advanced
@@ -37,10 +40,10 @@ Some useful commands:
   * ** rpmqpack** - lists currently installed packages (without version)
 
 	
-  * ** rpm -qa --qf '%{name}-%{version}-%{release}.%{arch}'** - lists currently installed packages (with full version and architecture)
+  * ** rpm -qa --qf '%{name}-%{version}-%{release}.%{arch}\n'** - lists currently installed packages (with full version and architecture)
 
 	
-  * ** rpm -q --qf "%{DISTURL}" PACKAGE** - gives you an OBS URL to the exact sources for the package PACKAGE. You can, for instance, check them out with osc co DISTURL
+  * ** rpm -q --qf "%{DISTURL}\n" PACKAGE** - gives you an OBS URL to the exact sources for the package PACKAGE. You can, for instance, check them out with osc co DISTURL
 
 	
   * ** awk -F\| '$6 && $2 == "install" {print $3}' /var/log/zypp/history** - list all packages explicitly installed
@@ -55,7 +58,7 @@ Some useful commands:
   * ** zypper moo** - makes debian users feel at home
 
 
-({{ site.baseurl }}/assets/MG_4865.jpg) The Geekos in Greece!
+[caption id="attachment_16454" align="alignright" width="300"][![The Geekos in Greece!](//news.opensuse.org/wp-content/uploads/2013/07/MG_4865.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/MG_4865.jpg) The Geekos in Greece![/caption]
 
 
 ### journald
@@ -95,7 +98,7 @@ A major technology in openSUSE is [the Open Build Service](http://openbuildservi
 
 For you command line aficionados interested in more deep changes, here's the nitty gritty way of customizing/updating or rebuilding packages (we call this process BURPing). If you haven't set the OBS tool up yet, find a how-to of your first steps with osc [here](https://en.opensuse.org/openSUSE:OSC).
 
-[![geekos!]({{ site.baseurl }}/assets/3654543066_2c8823cb03_o-e1363960517132-300x280.jpg)]({{ site.baseurl }}/assets/3654543066_2c8823cb03_o-e1363960517132.jpg)**Branch**
+[![geekos!](//news.opensuse.org/wp-content/uploads/2012/12/3654543066_2c8823cb03_o-e1363960517132.jpg)](//news.opensuse.org/wp-content/uploads/2012/12/3654543066_2c8823cb03_o-e1363960517132.jpg)**Branch**
 `osc bco /`
 **Update**
 `cd home::branches:/`
@@ -132,5 +135,3 @@ We're out of tips for now, but if you've got any - please share them below! We c
 
 
 ## Have a lot of fun!
-
-		

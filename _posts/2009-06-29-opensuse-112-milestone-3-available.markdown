@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-06-29 17:15:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/06/29/opensuse-112-milestone-3-available/
-title: "openSUSE 11.2 Milestone 3 Available"
+slug: opensuse-112-milestone-3-available
+title: openSUSE 11.2 Milestone 3 Available
+wordpress_id: 1848
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE Project is pleased to announce the release of openSUSE 11.2 Milestone 3. Images are [ready for download](http://software.opensuse.org/developer) and testing. This release includes the 2.6.30 Linux kernel, KDE 4.3 beta 2, GNOME 2.27.2, OpenOffice.org 3.1.1 Alpha, and more!
 
 This is a **Milestone Release**, one of [several leading up to the 11.2 release](http://en.opensuse.org/Roadmap) in November. It may not be suitable for production systems, but should be stable enough for testing.
@@ -62,4 +65,4 @@ The latest development versions are available from [http://software.opensuse.org
 
 Help us make openSUSE 11.2 the best release yet! Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a milestone release, and is not suitable for use on production systems.
 
-Though many openSUSE users can and do use the Factory distribution and/or testing releases for day-to-day work we want to stress that it™s entirely possible that you will encounter serious bugs. See [openSUSE.org/Testing](http://en.opensuse.org/Testing) for more information on Testing. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.		
+Though many openSUSE users can and do use the Factory distribution and/or testing releases for day-to-day work we want to stress that itâ€™s entirely possible that you will encounter serious bugs. See [openSUSE.org/Testing](http://en.opensuse.org/Testing) for more information on Testing. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.

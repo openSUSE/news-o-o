@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-12-21 13:09:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/12/21/opensuse-build-service-version-05-pointsettia-available/
-title: "openSUSE Build Service Version 0.5 (Poinsettia) Available"
+slug: opensuse-build-service-version-05-pointsettia-available
+title: openSUSE Build Service Version 0.5 (Poinsettia) Available
+wordpress_id: 574
 categories:
 - Build Service
 ---
+
 The openSUSE project releases the version 0.5 of the openSUSE Build Service.  This code drop does provide the functionality as provided on [build.opensuse.org](https://build.opensuse.org/) the first time as official **tar ball release**. Pointsettia provides the complete infrastructure to build single hardware architecture distributions. System images can be created via [KIWI](http://en.opensuse.org/KIWI).
 
 Overview of enhancements in Poinsettia:
@@ -38,4 +41,4 @@ The goal of the openSUSE Build Service is to become a complete open development 
 
 [Next years developing](http://en.opensuse.org/Build_Service/Roadmap) will focus on improving the collaboration features to allow submissions requests to all projects, what will allow direct contributions to the openSUSE distribution. Later on we will complete the necessary features for creating installation medias and improving the End-User interface.
 
-The Build Service development takes place in [Novell Forge](http://forge.novell.com/modules/xfmod/project/?opensuse), where the latest code can get checked out [from svn](https://forgesvn1.novell.com/svn/opensuse/trunk/buildservice). The version 0.5 can be downloaded from [as source](http://developer.novell.com/wiki/index.php/Special:Downloads/opensuse/0.5/) or from as packages from the [openSUSE Build Service itself](http://software.opensuse.org/search?q=obs&baseproject=ALL). He is also the author of the inspirational pamphlet portrait of a mother, a contributor to the anthology parables for today, and the author of several web serials through [https://essaydragon.com/](https://essaydragon.com/) bigworldnetwork		
+The Build Service development takes place in [Novell Forge](http://forge.novell.com/modules/xfmod/project/?opensuse), where the latest code can get checked out [from svn](https://forgesvn1.novell.com/svn/opensuse/trunk/buildservice). The version 0.5 can be downloaded from [as source](http://developer.novell.com/wiki/index.php/Special:Downloads/opensuse/0.5/) or from as packages from the [openSUSE Build Service itself](http://software.opensuse.org/search?q=obs&baseproject=ALL). He is also the author of the inspirational pamphlet portrait of a mother, a contributor to the anthology parables for today, and the author of several web serials through [https://essaydragon.com/](https://essaydragon.com/) bigworldnetwork

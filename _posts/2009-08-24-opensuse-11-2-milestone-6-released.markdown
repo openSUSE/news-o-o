@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-08-24 20:53:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/24/opensuse-11-2-milestone-6-released/
-title: "openSUSE 11.2 Milestone 6 Released"
+slug: opensuse-11-2-milestone-6-released
+title: openSUSE 11.2 Milestone 6 Released
+wordpress_id: 2044
 categories:
 - Announcements
 - Distribution
@@ -12,6 +14,7 @@ tags:
 - milestone
 - release
 ---
+
 The openSUSE Project is happy to announce that the openSUSE 11.2 Milestone 6 (M6) is [available for download](http://software.opensuse.org/developer). This release includes new packages on the GNOME and KDE live CDs, Python 3.1, and Linux kernel 2.6.31-rc6.
 
 This is a Milestone Release, one of several that lead up to the 11.2 final release in November. It may not be suitable for production systems, but is ready for contributors who want to help with testing and development for 11.2.
@@ -88,4 +91,4 @@ dd if=image.iso of=/dev/sdX bs=4M
 
 Replace "image.iso" with the name of the ISO image that you have downloaded, and replace "sdX" with the actual device name of your USB drive. Be careful! This will erase the target device, so make sure you have the correct device name and have any vital data backed up!
 
-The next milestone is scheduled to be released on September 10. A reminder: only two more milestone releases are planned for 11.2, followed by two release candidate (RC) releases. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).		
+The next milestone is scheduled to be released on September 10. A reminder: only two more milestone releases are planned for 11.2, followed by two release candidate (RC) releases. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).

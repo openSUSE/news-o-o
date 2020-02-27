@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-05-11 09:23:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/05/11/tumbleweed-gets-plasma-5-6-3-firefox-46/
-title: "Tumbleweed gets Plasma 5.6.3, Firefox 46"
+slug: tumbleweed-gets-plasma-5-6-3-firefox-46
+title: Tumbleweed gets Plasma 5.6.3, Firefox 46
+wordpress_id: 19846
 categories:
 - Tumbleweed
 ---
-![Tumbleweed-black-green]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)Since the last update, [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) had two snapshots.
+
+![Tumbleweed-black-green](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)Since the last update, [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) had two snapshots.
 
 Snapshot [20160505](https://lists.opensuse.org/opensuse-factory/2016-05/msg00093.html) and [20160508](https://lists.opensuse.org/opensuse-factory/2016-05/msg00131.html) brought quite a few goodies for Tumbleweed users.
 
@@ -18,4 +21,4 @@ The most recent snapshot updated the Linux Kernel to [4.5.3](https://www.kernel.
 
 Plans for the new GNU Compiler Collection in a Tumbleweed snapshot is at least three to four weeks away because of a huge update stack that will be made when GCC 6 makes it into Tumbleweed. Pre-testing in private staging has shown that GCC 6 should build smoothly in the various stages that lead to a Tumbleweed snapshot, but that remains to be seen until a snapshot with GCC 6 is at the users' fingertips.
 
-As for Qt 5.6, the bug that broke YaST appears to be swarming between two chopsticks - it took forever to catch and fix. However, as Dominique shared on Saturday, [a fix is found and merged](http://dominique.leuenberger.net/blog/2016/05/opensuse-tumbleweed-review-of-the-weeks-201619/) so the 5.6.x release is coming soon! Perhaps we'll wait for 5.6.1 as that should be out soon.		
+As for Qt 5.6, the bug that broke YaST appears to be swarming between two chopsticks - it took forever to catch and fix. However, as Dominique shared on Saturday, [a fix is found and merged](http://dominique.leuenberger.net/blog/2016/05/opensuse-tumbleweed-review-of-the-weeks-201619/) so the 5.6.x release is coming soon! Perhaps we'll wait for 5.6.1 as that should be out soon.

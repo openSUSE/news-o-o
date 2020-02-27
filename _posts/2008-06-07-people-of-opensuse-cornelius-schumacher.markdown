@@ -1,28 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-07 15:18:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/07/people-of-opensuse-cornelius-schumacher/
-title: "People of openSUSE: Cornelius Schumacher"
+slug: people-of-opensuse-cornelius-schumacher
+title: 'People of openSUSE: Cornelius Schumacher'
+wordpress_id: 859
 categories:
 - People of openSUSE
 ---
+
 Before openSUSE 11.0 GM get released next Thursday, we have the chance to meet Cornelius Schumacher - member of the incubation team, former Build Service developer, KDE vice president, and also the one who started writing down the openSUSE Guiding Principles.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![cornelius_schumacher.jpg]({{ site.baseurl }}/assets/cornelius_schumacher.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|cornelius|
-|**Homepage:**|[http://www.cornelius-schumacher.de](http://www.cornelius-schumacher.de)|
-|**Blog:**|[http://www.kdedevelopers.org/blog/54](http://www.kdedevelopers.org/blog/54)|
-|||
-|**Favorite season:**|Autumn. I like wild weather and Indian summers.|
-|**Motto:**|"Do the right thing."|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![cornelius_schumacher.jpg](/wp-content/uploads/2008/06/cornelius_schumacher.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >cornelius
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.cornelius-schumacher.de](http://www.cornelius-schumacher.de)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://www.kdedevelopers.org/blog/54](http://www.kdedevelopers.org/blog/54)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Autumn. I like wild weather and Indian summers.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"Do the right thing."
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -218,7 +308,7 @@ Magic debugging skills. Debugging is an art in itself, and while I'm not bad at 
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Taking aside worries about the impact of an Internet crash for human society, I would probably enjoy the time. I have become a fan of git, which allows for perfect offline version control, so an Internet crash won't stop me hacking.
@@ -289,7 +379,7 @@ Relaxing. Of course there are different ways to achieve that. Sometimes there ev
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Investing in Novell stock? Giving it to charity? I don't know. I don't care so much about money.
@@ -299,7 +389,7 @@ Investing in Novell stock? Giving it to charity? I don't know. I don't care so m
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 I would really like to watch Big Bang. But I'm not sure a meeting there would be very pleasant.
@@ -309,7 +399,7 @@ I would really like to watch Big Bang. But I'm not sure a meeting there would be
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 I have never done that.
@@ -335,7 +425,7 @@ Possibly. I can't remember right now ;-)
 There is a picture of the KDE logo a friend of my sister took at 81 degrees north, only a couple of hundred kilometres away from the north pole. The world should now finally see that.
 
 
-[![cornelius_schumacher_picshare.jpg]({{ site.baseurl }}/assets/cornelius_schumacher_picshare.jpg)]({{ site.baseurl }}/assets/cornelius_schumacher_picshare.jpg)
+[![cornelius_schumacher_picshare.jpg](/wp-content/uploads/2008/06/cornelius_schumacher_picshare.jpg)](/wp-content/uploads/2008/06/cornelius_schumacher_picshare.jpg)
 
 
 
@@ -369,5 +459,3 @@ The one about famous people joining openSUSE. It's easy to come up with cheesy i
 
 Q: What's your favorite computer-related quote?  A: "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." (Brian Kernighan)
 
-
-		

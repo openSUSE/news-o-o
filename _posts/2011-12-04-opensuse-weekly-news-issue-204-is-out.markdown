@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-12-04 18:29:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/12/04/opensuse-weekly-news-issue-204-is-out/
-title: "openSUSE Weekly News, Issue 204 is out!"
+slug: opensuse-weekly-news-issue-204-is-out
+title: openSUSE Weekly News, Issue 204 is out!
+wordpress_id: 12121
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News 204.
 <!-- more -->
 
@@ -112,7 +115,7 @@ This Special Corner is about Postings about openSUSE 12.1 into the Community and
 
 ### Community Articles
 
-
+â€œ
 
 
         [Roger
@@ -134,9 +137,9 @@ Honestly I have very mixed feelings about this release. But when you consider th
         that have cropped up. Some of these I ran into myself, but I certainly can't ignore the many
         many improvements to the core technologies and software. (...)
 
-
+â€
 
-
+â€œ
 
 [Han Wen Kam: My openSUSE 12 Journal - 4: Minor Frustrations](http://sellingfreesoftwareforaliving.blogspot.com/2011/12/my-opensuse-12-journal-4-minor.html)
 
@@ -155,25 +158,25 @@ In my first journal entry, I complained the lack of "chattiness" during boot sin
         the **Esc** key during the splash screen to see the familiar
         System V init messages.
 
-
+â€
 
 ### In the Press
 
-
+â€œ
 
 
         [Desktop Linux Reviews/Jim Lynch: openSUSE 12.1 KDE](http://desktoplinuxreviews.com/2011/11/26/opensuse-12-1-kde/)
       
 
-openSUSE is one of the most popular desktop distros available. This time around it™s version 12.1 that has been released. If you aren™t familiar with openSUSE then you should know that it comes in KDE, GNOME, Xfce and LXDE versions. For this review I™ve picked the KDE version of openSUSE 12.1. I may do a quick look at the GNOME version on [Eye On Linux](http://eyeonlinux.com/) later though.
+openSUSE is one of the most popular desktop distros available. This time around itâ€™s version 12.1 that has been released. If you arenâ€™t familiar with openSUSE then you should know that it comes in KDE, GNOME, Xfce and LXDE versions. For this review Iâ€™ve picked the KDE version of openSUSE 12.1. I may do a quick look at the GNOME version on [Eye On Linux](http://eyeonlinux.com/) later though.
 
-Speaking of the GNOME version of openSUSE 12.1, I took a quick peek at it to see if the openSUSE had made any significant changes to the dreadful GNOME 3 desktop. Unfortunately, they didn™t though they should have. The Linux Mint developers did a good job on altering the GNOME 3.2 desktop to make it usable; I had hoped the openSUSE developers would do the same. Alas, perhaps they will in the next release. The lack of GNOME 3 tweaks is one of the reasons why I decided to review the KDE version instead.
+Speaking of the GNOME version of openSUSE 12.1, I took a quick peek at it to see if the openSUSE had made any significant changes to the dreadful GNOME 3 desktop. Unfortunately, they didnâ€™t though they should have. The Linux Mint developers did a good job on altering the GNOME 3.2 desktop to make it usable; I had hoped the openSUSE developers would do the same. Alas, perhaps they will in the next release. The lack of GNOME 3 tweaks is one of the reasons why I decided to review the KDE version instead.
 
-Okay, enough babble about GNOME. Let™s get on with this review of openSUSE 12.1 KDE. (...)
+Okay, enough babble about GNOME. Letâ€™s get on with this review of openSUSE 12.1 KDE. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Das U-Blog/Prashanth: Review: openSUSE 12.1 GNOME + KDE](http://dasublogbyprashanth.blogspot.com/2011/11/review-opensuse-121-gnome-kde.html)
@@ -183,23 +186,23 @@ It's November again, so what does that mean? It means there's another new releas
 
 openSUSE doesn't really need much of an introduction here. There are a few new things with this release, though. The first is that GNOME 3 has become an official part of openSUSE; this is not surprising considering that openSUSE and Fedora were the only distributions who provided vanilla live CD previews of GNOME 3 before its official release. The second is that the release numbering and schedule have changed. Now, there will be releases in November, July, and March, and they will respectively have decimal numbers ".1", ".2", and ".3" before the number before the decimal point gets incremented by one with the next November release. This means that there will be no more ".0" or ".4" releases, and that the jump from, for example, version 13.1 to 13.2 will be just as significant as the jump from version 12.3 to 13.1. (...)
 
-
+â€
 
-
+â€œ
 
 
         [My Linux Rig: A Review of GNOME 3 and OpenSUSE 12.1](http://www.mylinuxrig.com/post/13403783266/a-review-of-gnome-3-and-opensuse-12-1)
       
 
-I was curious to try out OpenSUSE 12.1 not just because the buzz on it is that it™s a great release, but also because it presented a chance to kick the tires on GNOME 3, which I still hadn™t worked with.
+I was curious to try out OpenSUSE 12.1 not just because the buzz on it is that itâ€™s a great release, but also because it presented a chance to kick the tires on GNOME 3, which I still hadnâ€™t worked with.
 
 I tested it on my ThinkPad T43 (on the actual machine and not in a virtual one) and it installed with no problems. Everything worked perfectly out of the box (as a side note, [on a recent edition of the Tux Radar podcast](http://www.tuxradar.com/content/podcast-season-3-episode-22), host Jonathan Roberts credited improvements in the Linux kernel in making non-Ubuntu distributions competitive hardware-wise; where Ubuntu found early success getting hardware to work, now the kernel itself seems to handle a lot of that heavy lifting for distributions).
 
 OpenSUSE with GNOME 3 looked great. Everything worked. Everything felt fast, even on an older machine with 2GB RAM. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Muktware/Swapnil Bhartiya: OpenSUSE KDE 12.1 Review: I Take My Words Back](http://www.muktware.com/articles/3036)
@@ -211,15 +214,15 @@ Being an Ubuntu user (and apt-get fan), I never flirted with openSUSE much. I di
 
 I love Gnome 3 (thanks to the shell-extensions), yet I needed something for those who are not comfortable with Gnome 3 Shell and want a windows like environment.  KDE always fascinated me and I thought of giving KDE a try on openSUSE.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/vote.jpeg)Board Election 2011â–²â–¼
 
+â€œ
 
+[openSUSE Board election 2011 started](http://news.opensuse.org/2011/12/02/opensuse-board-election-2011-started/)
 
-[openSUSE Board election 2011 started](https://news.opensuse.org/2011/12/02/opensuse-board-election-2011-started/)
-
-![]({{ site.baseurl }}/assets/elections2011.jpeg)
+![](/wp-content/uploads/2011/12/elections2011.jpeg)
 
 The openSUSE board election just started! Please go to:
 
@@ -233,15 +236,15 @@ The board consists of 6 members and one chairperson. As the election period of B
 
 The election period ends at December the 16th.
 
-All candidates have put their agenda on the [wiki](http://en.opensuse.org/openSUSE:Board_election_2011), linked as Platform
-      after the candidates™ name.
+All candidates have put their agenda on the [wiki](http://en.opensuse.org/openSUSE:Board_election_2011), linked as â€œPlatformâ€
+      after the candidatesâ€™ name.
 
 If you have any questions, please contact the election officials
       (`<[election-officials@opensuse.org](mailto:election-officials@opensuse.org)>`).
 
-
+â€
 
-
+â€œ
 
 [Pascal Bleser: openSUSE election platform 2011](http://dev-loki.blogspot.com/2011/12/opensuse-election-platform-2011.html)
 
@@ -272,9 +275,9 @@ So if you adhere to [what I
         wrote there](http://en.opensuse.org/openSUSE:Board_election_2011_platform_template_yaloki) and/or if you trust me to do the right things, do vote for me -- don't
       think that oh well, I'll be elected anyway, if everybody thinks like that, I won't ;D
 
-
+â€
 
-
+â€œ
 
 [Richard Brown: Running for the openSUSE
         board](http://www.sysrich.co.uk/?p=3)
@@ -283,29 +286,29 @@ openSUSE, the FOSS project near and dear to my heart is electing 3 new members t
       its [Board](http://en.opensuse.org/openSUSE:Board), the group that has the
       responsibility to help guide the great ship Geeko forward.
 
-I™m standing alongside a number of great candidates in the hope of being one of the 3
+Iâ€™m standing alongside a number of great candidates in the hope of being one of the 3
       elected this year.
 
 My full platform can be read on [my
         election page here](http://en.opensuse.org/openSUSE:Board_election_2011_platform_template_rbrownccb)
 
-I™m excited at the idea of trying something new, taking on a new challenge, and having an
+Iâ€™m excited at the idea of trying something new, taking on a new challenge, and having an
       opportunity to get my hands dirty helping out the best (and greenest) FOSS project out
       there.
 
-If you™re an [openSUSE Member](http://en.opensuse.org/openSUSE:Members)
+If youâ€™re an [openSUSE Member](http://en.opensuse.org/openSUSE:Members)
       please consider me for one of your 3 votes, which you can place on our [openSUSE Connect Election Poll](https://connect.opensuse.org//pg/polls/read/digitaltomm/15228/opensuse-board-election-2011)
 
-Thanks to everyone who™s supporting me and wish me luck for the results when the poll
+Thanks to everyone whoâ€™s supporting me and wish me luck for the results when the poll
       closes in two weeks.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
-
+â€œ
 
 
         [SUSE Studio/David Majda: Upgrade your appliances to openSUSE 12.1 ](http://blog.susestudio.com/2011/11/upgrade-your-appliances-to-opensuse-121.html)
@@ -334,9 +337,9 @@ Sometimes the upgraded appliance will need few tweaks to work. Just inspect the 
 If you are not satisfied with the upgrade, you can always revert to original version by
         clicking the **Undo upgrade** link.
 
-
+â€
 
-
+â€œ
 
 [SUSE Studio/Robert
           Schweikert: Managed Clouds with RightScale](http://blog.susestudio.com/2011/11/managed-clouds.html)
@@ -356,7 +359,7 @@ The on-ramp to the cloud can take various shapes. One is to pre-build task speci
         multiple functions that needs to be distributed between multiple instances, you can build
         one image each and then launch them in the cloud. (...)
 
-
+â€
 
 ### Team Reports
 
@@ -368,7 +371,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 379)](https://features.opensuse.org/120340)
@@ -377,9 +380,9 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 210)](https://features.opensuse.org/305493)
@@ -394,9 +397,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 175)](https://features.opensuse.org/305305)
@@ -404,9 +407,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 172)](https://features.opensuse.org/308497)
@@ -424,9 +427,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 126)](https://features.opensuse.org/305877)
@@ -447,13 +450,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Do not enable Kwin blur effect by default](https://features.opensuse.org/313026)
@@ -466,9 +469,9 @@ blur effect is enabled by default. This is a notorious option for KDE's desktop 
 
 When browsing different forums, it is one the first questions asked when a user complains about poor Kwin performance: "Do you have blur enabled?"
 
-
+â€
 
-
+â€œ
 
 
             [Yast partitioner should detect encrypted partitions and prompt for password](https://features.opensuse.org/313027)
@@ -478,9 +481,9 @@ Currently if starting the YAST partitioner on a system where the encrypted parti
 
 This can be easily seen by booting the Opensuse 12.1 KDE LiveCD image on a machine that has an encrypted partition. You need to manually unlock the partition using either Dolphin or the command line. YAST partitioner detects the encrypted partition but provides no way to unlock it.
 
-
+â€
 
-
+â€œ
 
 
             [Yast partitioner should show de-activated VGs/LVs and allow them to be activated](https://features.opensuse.org/313028)
@@ -499,9 +502,9 @@ lvchange -ay /dev/TestingVG/home # activate a Logical Volume that's not activate
 
 The YAST partitioner should automatically find all Physical Volumes and Volume Groups and show the deactivated Logical Volumes, with an option of course to activate these. The YAST Partitioner is the most logical place for this functionality in a GUI program.
 
-
+â€
 
-
+â€œ
 
 
             [Update option in Apper Software Management](https://features.opensuse.org/313029)
@@ -519,9 +522,9 @@ if you search an application, it gives you tens of packages with the same name, 
 
 3. Stick Applications you installed to the roof and Applications you installed and updatable to the roof of roof by default. in YaST, you can do it by click Name tab, but Apper ships with no such method.
 
-
+â€
 
-
+â€œ
 
 
             [AppSet instead of Apper](https://features.opensuse.org/313030)
@@ -529,9 +532,9 @@ if you search an application, it gives you tens of packages with the same name, 
 
 AppSet [http://appset.altervista.org/joomla/en](http://appset.altervista.org/joomla/en) can be the default package manager on openSUSE cause, is written in QT and other distribution such Archlinux and Chakra Linux (know for his addiction with KDE desktop). (...)
 
-
+â€
 
-
+â€œ
 
 
             [Invent Consistent Font Naming Schema](https://features.opensuse.org/313035)
@@ -563,7 +566,7 @@ With the above inconcistency, popular fonts like LinuxLibertine or dejavu cannot
 
 Please document any decisions in the Package Guidelines regarding how to name our fonts correctly and consistently.
 
-
+â€
 
 ##### Feature Statistics
 
@@ -574,13 +577,13 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### Welcome new openSUSE Members
 
-
+â€œ
 
 We are happy to announce the new openSUSE Members!
 
@@ -620,7 +623,7 @@ We are happy to announce the new openSUSE Members!
   * [ Domingos Teruel
                 (dteruel)](https://connect.opensuse.org/pg/profile/dteruel)
 
-
+â€
 
 ### Events & Meetings
 
@@ -629,13 +632,13 @@ Upcoming
   * [Launch Parties: Check out
           yours](http://en.opensuse.org/openSUSE:Launch_parties)
 
-  * [December 06, 2011 : Art Team Meeting](https://news.opensuse.org/2011/11/24/artk-team-meeting/)
+  * [December 06, 2011 : Art Team Meeting](http://news.opensuse.org/2011/11/24/artk-team-meeting/)
 
-  * [December 12, 2011 : openSUSE Testing Core Team Meeting](https://news.opensuse.org/2011/11/30/41st-opensuse-testing-core-team-meeting/)
+  * [December 12, 2011 : openSUSE Testing Core Team Meeting](http://news.opensuse.org/2011/11/30/41st-opensuse-testing-core-team-meeting/)
 
-  * [December 14, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [December 14, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -654,7 +657,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
 
-
+â€œ
 
 
             [Bruno Friedmann: ATI/AMD fglrx 8.911 Catalyst 11.11 rpm available for openSUSE
@@ -662,12 +665,12 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
         
 
 Several of you has all kind of non feature (mostly called bugs) with Gnome3.2 and kde4
-            etc¦
+            etcâ€¦
 
 I will just copy/google translate/paste here the comment made by Sebastian Siebert on
             his blog
 
-Okay, now that was a long night for me was. ï·½ I™ve researched intensively since
+Okay, now that was a long night for me was. ï·½ Iâ€™ve researched intensively since
             yesterday evening after the problem of GNOME 3.2 and the XvBA hardware acceleration on
             openSUSE 12.1. Here, a blog reader has pointed out that the direct installation of the
             AMD Catalyst could solve the problem. However, I think the direct installation of
@@ -680,20 +683,20 @@ Okay, now that was a long night for me was. ï·½ I™ve researched intensively
             12.1. I have my current openSUSE 11.4 /etc/ld.so.conf compared with that of openSUSE
             12.1 and lo and behold some search paths were removed. I have the necessary path to
             /usr/X11R6/lib/ or created and /usr/X11R6/lib64 in /etc/ld.so.conf.d/fglrx.conf for the
-            fglrx driver, and lo and behold vainfo tells me that everything is in order. Now comes
+            fglrx driver, and lo and behold â€œvainfoâ€ tells me that everything is in order. Now comes
             the interesting question: Is the problem fixed with GNOME 3.2 now? The answer: YES! ï·½
             So, dear people, you invite the makerpm-ati-down script with the updated packaging
             script installs the driver as usual and have fun with the new openSUSE 12.1 and the AMD
             Catalyst driver. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [openSUSE-SU-2011:1290-1: critical: Seamonkey update](http://lists.opensuse.org/opensuse-security-announce/2011-12/msg00001.html)
 
@@ -737,11 +740,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixes 14 vulnerabilities
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.2 (Part 2) - Filesystems](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-2-Part-2-Filesystems-1387311.html)
@@ -753,24 +756,24 @@ Last week, just in time for the US Thanksgiving holiday, Linus Torvalds [release
 
 Torvalds is likely to release the fourth pre-release version at the end of this week or the start of next, with the final release expected in early to mid-January. In light of the ongoing development of Linux 3.2, the Kernel Log is continuing its "Coming in 3.2" series by describing new features in the area of filesystems. The first article in the series looked at changes to [network drivers and network infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-2-Part-1-Networking-1379085.html); articles on architecture code, infrastructure and drivers for other hardware will follow over the next few weeks. (...)
 
-
+â€
 
-
+â€œ
 
 
       [Rares
-        Aioanei: kernel weekly news “ 03.12.2011](http://schaiba.wordpress.com/2011/12/03/kernel-weekly-news-03-12-2011/)
+        Aioanei: kernel weekly news â€“ 03.12.2011](http://schaiba.wordpress.com/2011/12/03/kernel-weekly-news-03-12-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [Muktware/Swapnil Bhartiya: How To Install Restricted Drivers, Formats In openSUSE 12.1](http://www.muktware.com/articles/3038)
@@ -780,9 +783,9 @@ OpeSUSE, like Fedora, doesn't support non-free/proprietary formats in the commun
 
 Just visit this [page](http://opensuse-community.org/Restricted_formats/12.1) and select the easier [1-click](http://opensuse-community.org/codecs-kde.ymp) installation. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Muktware/Swapnil Bhartiya: How To Set Up Printers In openSUSE](http://www.muktware.com/articles/3037)
@@ -794,9 +797,9 @@ Under openSUSE it's a bit different. openSUSE 12.1 comes with HPLIP Tool which m
 
 HPLIP wants the user to be added to several groups (I learned that after 3 failed attempts, so I am saving your time). Before firing the HP Tool, go to YaST and click on 'User and Group Management Accounts'. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Muktware/Swapnil Bhartiya: How To Setup Networking In openSUSE 12.1 KDE](http://www.muktware.com/articles/3039)
@@ -808,11 +811,11 @@ While the live version showed the network icon in the tray, once I installed it 
 
 The reason being KDE defaults to YaST's Network setting if it detects that you are running a desktop. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [BashShell.net/Mike: Exercise: Test Multiple Aspects](http://bashshell.net/exercises/exercise-test-multiple-aspects/)
@@ -820,11 +823,11 @@ The reason being KDE defaults to YaST's Network setting if it detects that you a
 
 In many situations you will want to test for multiples aspects of the file or directory.    There are also a number of ways that you can set up these multiple tests.  This example looks for a file that exists and is writable. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [LinuxCareer.com/Rares Aioanei: C development on Linux - Flow Control - IV](http://how-to.linuxcareer.com/c-development-on-linux-flow-control-iv)
@@ -834,33 +837,33 @@ In many situations you will want to test for multiples aspects of the file or di
 
 You have already been exposed to a small part of what flow control is in our [previous part](http://how-to.linuxcareer.com/c-development-on-linux-types-variables-operators), namely the section about relational operators. As you start writing more complex programs, you will feel the need to control the order in which your program executes various parts. Flow control is present in most programming languages in one form or another, and what you're about to read here is essential to writing C programs.Everything you might want to ask or discuss you can take to our new [forums](http://forum.linuxcareer.com/), as before. (...)
 
-
+â€
 
-
+â€œ
 
 [Rousinopoulos Athanasios-Ilias: How-to Install Eclipse 3.7 (Indigo SR1) in openSUSE 12.1
           (KDE) only within 10 Steps](http://zoumpis.wordpress.com/2011/11/28/how-to-install-eclipse-3-7-indigo-sr1-in-opensuse-12-1-kde-only-within-10-steps/)
 
-This is my first blog post for the assignment Development Tools , so i could say that
+This is my first blog post for the assignment â€œDevelopment Toolsâ€ , so i could say that
         i am very happy with this matter!
 
 Well i use openSUSE Linux 12.1 and i am very proud of that! Sometimes i face problems
-        like , lack of packages for programs, but this matter doesn™t mean that you cannot install
+        like , lack of packages for programs, but this matter doesnâ€™t mean that you cannot install
         the software you wish. In my case i installed Eclipse 3.7 (Indigo SR1) due to i have to use
         the [Eclipse Marketplace](http://marketplace.eclipse.org/). Eclipse
         Marketplace offers a thousand of plug-ins and extra features available for Eclipse platform.
-        It is a truth that i searched a lot in order to find a package or a one-click install file
+        It is a truth that i searched a lot in order to find a package or a â€œone-click installâ€ file
         but the result was an installation of 3.6.2 version. As we all know in FLOSS always there is
         a way to overcome problems and also fix them. Furthermore as a developer i have to use the
-          [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/indigor). Here are the instructions on how-to install
+          â€œ[Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/indigor)â€œ. Here are the instructions on how-to install
         (via terminal) this edition of Eclipse. (Some images are in greek language , due to the fact
         that i use the greek language as System language) (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [HowtoForge/Falko Timme: The Perfect Server - OpenSUSE 12.1 x86_64 With Nginx [ISPConfig 3]](http://www.howtoforge.com/perfect-server-opensuse-12.1-x86_64-with-nginx-ispconfig-3)
@@ -870,9 +873,9 @@ This tutorial shows how to prepare an **OpenSUSE 12.1 64bit (x86_64)** server wi
 
 If you want to use nginx instead of Apache with ISPConfig, please note that your nginx version must be at least 0.8.21, and you must install PHP-FPM as well. For CGI/Perl support, you must use fcgiwrap. This is all covered by this tutorial. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Aditya Patawari: Using Twitter To Monitor Your Linux Server! ](http://blog.adityapatawari.com/2011/11/using-twitter-to-monitor-your-linux.html)
@@ -881,9 +884,9 @@ If you want to use nginx instead of Apache with ISPConfig, please note that your
 Yes, you can use Twitter for monitoring your server. I won't say that it is a complete monitoring solution nor I will ask you to throw away your existing monitoring mechanisms. In fact the script I am talking about, [MYST](http://myst.adityapatawari.com/) (AGPLv3), was not created for this purpose. It was created so that I could tweet without using browser with inspiration from Hiemanshu, a Fedora contributor, using [python-twitter](http://code.google.com/p/python-twitter/) api.
 (...)
 
-
+â€
 
-
+â€œ
 
 
         [LinuxCareer.com/Javier L. Velasquez: Guide to rsnapshot and incremental backups on Linux](http://how-to.linuxcareer.com/guide-to-rsnapshot-and-incremental-backups-on-linux)
@@ -893,16 +896,16 @@ Yes, you can use Twitter for monitoring your server. I won't say that it is a co
 
 rsnapshot is a backup tool written in Perl that utilizes rsync as its back-end. rsnapshot allows users to create customized incremental backup solutions. This article will discuss the following: the benefits of an incremental backup solution, rsnapshot's installation, its configuration, and usage examples. (...)
 
-
+â€
 
-
+â€œ
 
 [Masim Sugianto: Installing RapidSSL Certificate on Zimbra Mail Server](http://vavai.net/2011/11/installing-rapidssl-certificate-on-zimbra-mail-server/)
 
 By default, Zimbra create and installing Self-Signed Certificate on installation process for https
         transport protocol. Self-signed certificate used for Apache jetty web server (both Zimbra
         webmail and Administration console), POP3 SSL, SMTP SSL and IMAP SSL. Self-Signed
-        certificate doesn™t automatically trusted because the certificate was not issued &
+        certificate doesnâ€™t automatically trusted because the certificate was not issued &
         certify by authorized SSL certificate provider such as Verisign, Cybertrust, Godaddy,
         RapidSSL, etc.
 
@@ -911,9 +914,9 @@ By default, Zimbra create and installing Self-Signed Certificate on installation
 Below are step-by-step how to install RapidSSL certificate on Zimbra Mail Server.
         (...)
 
-
+â€
 
-
+â€œ
 
 [Masim Sugianto: Installing openSUSE 12.1 from Existing openSUSE/SLES Without
           CD/DVD](http://vavai.net/2011/12/installing-opensuse-12-1-from-existing-opensusesles-without-cddvd/)
@@ -925,9 +928,9 @@ openSUSE 12.1 (and also prior version) can be installed without using a cd or dv
 
 How to use this small script to fit with our requirement ? (...)
 
-
+â€
 
-
+â€œ
 
 [Masim Sugianto: Installing VirtualBox VBoxHeadless](http://vavai.net/2011/12/installing-virtualbox-vboxheadless-phpvirtualbox-on-opensuse-12-1-minimalis/)
 
@@ -937,14 +940,14 @@ VirtualBox is one of the tools that are used for Desktop Virtualization : runnin
         VBoxHeadless is the answer if we want to install VirtualBox on minimal Linux server and
         manage it via Browser.
 
-I™m using openSUSE 12.1 64 bit on this tutorial but the steps can also be applied to
+Iâ€™m using openSUSE 12.1 64 bit on this tutorial but the steps can also be applied to
         earlier versions (11.x) as well as on SLES 11 SP1. I also use VirtualBox for All
         distributions binary package, although for openSUSE we can also use an RPM-binary package.
         (...)
 
-
+â€
 
-
+â€œ
 
 [Han Wen Kam: Air Video Server on openSUSE 12.1](http://sellingfreesoftwareforaliving.blogspot.com/2011/12/air-video-server-on-opensuse-121.html)
 
@@ -961,16 +964,16 @@ Since the Air Video Server is written in Java and uses a customized version of F
 I have been successful in making Air Video Server (AVS) work on openSUSE 11.3, 11.4 and
         12.1. Here are the steps: (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 [Masim Sugianto: SUSE Linux Enterprise Server 11 SP1 Minimal Server
       Appliance](http://vavai.net/2011/11/suse-linux-enterprise-server-11-sp1-minimal-server-appliance/)
 
-I™m currently working as an IT system integrator on a [small company](http://www.excellent.co.id) based on Bekasi, a small town near
+Iâ€™m currently working as an IT system integrator on a [small company](http://www.excellent.co.id) based on Bekasi, a small town near
       Jakarta Indonesia. The company founded by me and my young brother and covering on various jobs
       regarding server setting, implementation, maintenance and workshop/training.
 
@@ -990,16 +993,16 @@ I think I could reduce the time for processing the above task by making an appli
       by application. The results are [**Minimal
           Server Appliance**](http://susestudio.com/a/veav1Y/minimal-server-appliance). (...)
 
-
+â€
 
-
+â€œ
 
 
       [Kohei Yoshida:
         Performance improvement in opening ODS documents](http://kohei.us/2011/11/30/performance-improvement-in-opening-ods/)
     
 
-I have great news to share with you. Calc™s ODS import filter in 3.5 should be
+I have great news to share with you. Calcâ€™s ODS import filter in 3.5 should be
       substantially faster when you have documents with a large number of named ranges. Read on if
       you want to know more details.
 
@@ -1009,15 +1012,15 @@ Laurent Godard, Markus Mohrhard, and myself have been working pretty hard in the
       month to bring the performance of ODS import filter to a reasonable level, especially with
       documents containing a large number of named ranges.Here is the background. Laurent uses
       LibreOffice as a platform for his professional extension, which makes heavy use of named
-      ranges. It programmatically generates ODS documents and inserts hundred™s or thousand™s of
+      ranges. It programmatically generates ODS documents and inserts hundredâ€™s or thousandâ€™s of
       named ranges as intermediary storage to further process the data. The problem was, however,
       our import performance with that kind of documents was so suboptimal that this process was
       taking a prohibitively long time. In order for his extension to perform optimally, our ODS
       import filter needed to be optimized, and optimized heavily. (...)
 
-
+â€
 
-
+â€œ
 
 
       [Kostas Koudaras: A dot in
@@ -1032,11 +1035,11 @@ I don't ever remembering suggesting a site but to be honest I rarely fall into s
       would just watch a movie or something but I am a bit in a mood to blog and latelly I had too
       much on my plate and had no time to do it, so here I am. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums: A big hand for the release of openSUSE 12.1 !â–²â–¼
 
-
+â€œ
 
 
       [NEW Users - openSUSE-12.1 Pre-installation - PLEASE READ](http://forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/467087-new-users-opensuse-12-1-pre-installation-please-read.html)
@@ -1046,9 +1049,9 @@ I don't ever remembering suggesting a site but to be honest I rarely fall into s
       This is a repeat from last week. openSUSE 12.1 is new, we still like to draw your attention to this article in the New User HOWTO/FAQ subforums. Like with every openSUSE release our admin oldcpu has prepared a document for new users to read before starting to install openSUSE 12.1. If you're new to openSUSE, this is a must-read, if you're already an openSUSE user, even very experienced, the article still deserves your attention. 
     
 
-
+â€
 
-
+â€œ
 
 
     [ Now that 12.1 is out, what are your thoughts on it?](http://forums.opensuse.org/english/other-forums/community-fun/general-chit-chat/467896-now-12-1-out-what-your-thoughts.html)
@@ -1058,9 +1061,9 @@ I don't ever remembering suggesting a site but to be honest I rarely fall into s
     openSUSE 12.1 is out for a week now, title says it all: an extensive thread on user experiences and opinions. The overall impression is that 12.1 is a very nice and stable release. For some users there maybe issues/lack of knowledge on the new features, but hey, we have the choice, for example to keep on using sysvinit instead of systemd. Interesting read.
     
 
-
+â€
 
-
+â€œ
 
 
       openSUSE Language specific subforums:
@@ -1074,30 +1077,30 @@ We now host the following language specific subforums under the umbrella of the 
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Call for participation
 
-
+â€œ
 
 
         [SCALE: The Next Generation - Invitation for Participation](http://www.socallinuxexpo.org/blog/scale-next-generation-invitation-participation)
       
 
-The Southern California Linux Expo is proud to announce a conference for the next generation of free and open source community enthusiasts. SCALE: The Next Generation ” lets the FOSS community leaders of tomorrow spotlight their talents and ideas today. Open to kids 10 and older, the goal of conference is to be as kid driven as possible, offering a unique opportunity to see and experience the inner workings of planning a conference. Kids will be able to determine the content and help steer the direction that this mini-conference will take. (...)
+The Southern California Linux Expo is proud to announce a conference for the next generation of free and open source community enthusiasts. â€œSCALE: The Next Generationâ€ â€” lets the FOSS community leaders of tomorrow spotlight their talents and ideas today. Open to kids 10 and older, the goal of conference is to be as â€œkid drivenâ€ as possible, offering a unique opportunity to see and experience the inner workings of planning a conference. Kids will be able to determine the content and help steer the direction that this mini-conference will take. (...)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 
         [OStatic/Susan Linton: TDF Celebrates 100 Extensions](http://ostatic.com/blog/tdf-celebrates-100-extensions)
@@ -1107,9 +1110,9 @@ Little over one month ago The Document Foundation [announced](http://ostatic.com
 
 A short [note](http://blog.documentfoundation.org/2011/11/25/we-are-100/) from Florian Effenberger expressed the projects pride and gratitude towards those who have been contributing. OpenOffice.org had a wide selection and many articles were devoted to the bounty. Today, LibreOffice is well on its way to closing the gap. (...)
 
-
+â€
 
-
+â€œ
 
 [h-online: Balsam Enterprise OBS offers a commercial build platform](http://www.h-online.com/open/news/item/Balsam-Enterprise-OBS-offers-a-commercial-build-platform-1388329.html)
 
@@ -1128,11 +1131,11 @@ The BE-OBS uses a cluster of systems with load-balanced build agents to enable b
         targeting different hardware architectures, including 32- and 64-bit x86 and ARM, and using
         different operating systems including SLES, RHEL and CentOS. (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [ITworld/Brian Proffitt: Why free software is not a job killer](http://www.itworld.com/it-managementstrategy/228371/why-free-software-not-job-killer)
@@ -1142,11 +1145,11 @@ Catching up on the post-Holiday news, I read with interest this headline on toda
 
 "[Does Free Software cost jobs?](http://blogs.computerworlduk.com/spannermans-edublog/2011/11/does-free-software-cost-jobs/index.htm)"
 
-The author of the article is Dr. John Spencer, who laments that during the current recession, the message of free and open source software's (FLOSS) cost benefits have indeed been taken to heart¦ so much so that there are hardly any open IT jobs in the British education sector. (...)
+The author of the article is Dr. John Spencer, who laments that during the current recession, the message of free and open source software's (FLOSS) cost benefits have indeed been taken to heartâ€¦ so much so that there are hardly any open IT jobs in the British education sector. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Network World/Rikki Endsley: Everything I Needed to Know about Linux I Learned from My Pets](http://www.networkworld.com/community/blogs/learnedfrommypets)
@@ -1154,11 +1157,11 @@ The author of the article is Dr. John Spencer, who laments that during the curre
 
 Perhaps you aren't a pet person. Some of my best friends aren't, either. Or maybe you are Apple-obsessed or a Windows enthusiast. I love my Mac and know plenty of people who work with Windows. In any case, here are a few ways living with my pets reminds me of living with Linux. (...)
 
-
+â€
 
 ### Warning!
 
-
+â€œ
 
 
         [eSecurityPlanet/Sean Michael Kerner: Apache Server Hit by Reverse Proxy](http://www.esecurityplanet.com/network-security/apache-server-hit-by-reverse-proxy.html)
@@ -1168,7 +1171,7 @@ The open source Apache HTTP Web Server is at risk from a reverse proxy flaw that
 
 "While reviewing the patch for the older issue CVE-2011-3368, it appeared that it was still possible to make use of a crafted request that could exploit a fully patched Apache Web Server (Apache 2.2.21 with CVE-2011-3368 patch applied) to allow access to internal systems if the reverse proxy rules are configured incorrectly, Parikh [reported](https://community.qualys.com/blogs/securitylabs/2011/11/23/apache-reverse-proxy-bypass-issue). (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1200,7 +1203,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1214,7 +1217,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1248,7 +1251,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 204 is available in: 
 
-  * [English](https://news.opensuse.org/?p=12121)
+  * [English](http://news.opensuse.org/?p=12121)
 
 Coming soon: 
 
@@ -1263,6 +1266,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

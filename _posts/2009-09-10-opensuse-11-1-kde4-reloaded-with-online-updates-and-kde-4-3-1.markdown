@@ -1,16 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2009-09-10 10:07:59+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/09/10/opensuse-11-1-kde4-reloaded-with-online-updates-and-kde-4-3-1/
-title: "openSUSE 11.1 KDE4 Reloaded with Online Updates and KDE 4.3.1"
+slug: opensuse-11-1-kde4-reloaded-with-online-updates-and-kde-4-3-1
+title: openSUSE 11.1 KDE4 Reloaded with Online Updates and KDE 4.3.1
+wordpress_id: 2133
 categories:
 - Announcements
 - Derivatives
 tags:
 - KDE
 ---
+
 Although [openSUSE 11.2](http://en.opensuse.org/openSUSE_11.2) is still [two months away](http://en.opensuse.org/Roadmap) updated openSUSE 11.1 KDE4 Reloaded images previewing some changes are available now. They are [respins of openSUSE 11.1](http://download.opensuse.org/repositories/KDE:/Medias/images/iso/) including KDE 4.3.1, Firefox 3.5 and all the online updates which have been released for openSUSE 11.1.
 
 These installable Live-CDs are useful for people who want to test out KDE 4.3 and users who are doing new installs and want the most recent openSUSE updates straight out of the box, saving a lot of installation time. New in this version is that the images [can be also dumped to a USB stick](http://lizards.opensuse.org/2009/08/05/hybrid-live-systems/) and booted from there.
@@ -25,4 +28,3 @@ Compared to openSUSE 11.1 KDE4 desktop, the images include the latest KDE4 versi
 
 
 Please note that this is not an "official" openSUSE release, and has not undergone the same kind of testing that stable releases receive.
-		

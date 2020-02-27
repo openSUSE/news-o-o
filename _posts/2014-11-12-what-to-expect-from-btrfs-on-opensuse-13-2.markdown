@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-11-12 08:37:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/11/12/what-to-expect-from-btrfs-on-opensuse-13-2/
-title: "What to expect from Btrfs on openSUSE 13.2?"
+slug: what-to-expect-from-btrfs-on-opensuse-13-2
+title: What to expect from Btrfs on openSUSE 13.2?
+wordpress_id: 18852
 categories:
 - Distribution
 tags:
@@ -25,7 +27,8 @@ tags:
 - technology
 - yast
 ---
-[![]({{ site.baseurl }}/assets/Icon-yast.png)]({{ site.baseurl }}/assets/Icon-yast.png)As the first major Linux distribution to have Btrfs as the [default file system](http://doc.opensuse.org/products/draft/SLES/SLES-storage_sd_draft/filesystems.html), what can users and developers expect from openSUSE 13.2?
+
+[![](/wp-content/uploads/2014/11/Icon-yast.png)](/wp-content/uploads/2014/11/Icon-yast.png)As the first major Linux distribution to have Btrfs as the [default file system](http://doc.opensuse.org/products/draft/SLES/SLES-storage_sd_draft/filesystems.html), what can users and developers expect from openSUSE 13.2?
 
 How is the systems capabilities enhanced?
 
@@ -49,4 +52,4 @@ Two additional improvements that Btrfs brings are to checksums and deduplication
 
 Metadata checksums improve the reliability of the file system.
 
-Users can expect more development of the Btrfs file system.		
+Users can expect more development of the Btrfs file system.

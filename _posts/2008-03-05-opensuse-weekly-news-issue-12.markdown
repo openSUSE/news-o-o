@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-05 11:27:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/05/opensuse-weekly-news-issue-12/
-title: "openSUSE Weekly News, Issue 12"
+slug: opensuse-weekly-news-issue-12
+title: openSUSE Weekly News, Issue 12
+wordpress_id: 675
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue 12 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/12)!
 
@@ -37,4 +38,3 @@ In this week's issue:
   * Expanded Lenovo SUSE Linux Offerings 
 
 
-		

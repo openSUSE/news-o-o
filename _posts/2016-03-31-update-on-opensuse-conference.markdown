@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-03-31 11:19:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/03/31/update-on-opensuse-conference/
-title: "Update on openSUSE Conference"
+slug: update-on-opensuse-conference
+title: Update on openSUSE Conference
+wordpress_id: 19808
 categories:
 - Conference
 - Hack Week
 ---
-![oscfinal]({{ site.baseurl }}/assets/oscfinal-1-300x214.png)There are 15 more days to submit a proposal for the [openSUSE Conference](https://events.opensuse.org/conference/oSC16) in Nuremberg June 22 - 26, so I would like to provide an update to the community about the conference.
+
+![oscfinal](/wp-content/uploads/2016/02/oscfinal-1.png)There are 15 more days to submit a proposal for the [openSUSE Conference](https://events.opensuse.org/conference/oSC16) in Nuremberg June 22 - 26, so I would like to provide an update to the community about the conference.
 
 As you might already be aware, there will be [SaltStack](http://saltstack.com/), [ownCloud](https://owncloud.org/), [Kolab](https://kolab.org/) and SUSE Labs summits during the conference and we also plan on having a [program for kids](https://coderdojo.com/) on Saturday, June 25.
 
@@ -31,4 +34,4 @@ openSUSE will have [HackWeek](https://hackweek.suse.com/) the week following the
 
 If you plan on attending the conference from a non-European Union country, please [view the requirements for entering the country](http://www.auswaertiges-amt.de/EN/EinreiseUndAufenthalt/StaatenlisteVisumpflicht_node.html).
 
-You may be required to visit an embassy and have a formed signed to receive a travel visa. Email [ddemaio@suse.com](mailto:ddemaio@suse.com) if you need about attending oSC16.		
+You may be required to visit an embassy and have a formed signed to receive a travel visa. Email [ddemaio@suse.com](mailto:ddemaio@suse.com) if you need about attending oSC16.

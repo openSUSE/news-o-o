@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-11-06 08:18:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/11/06/opensuse-project-creates-buzz-in-italy/
-title: "openSUSE project creates buzz in Italy"
+slug: opensuse-project-creates-buzz-in-italy
+title: openSUSE project creates buzz in Italy
+wordpress_id: 18808
 categories:
 - Events
 tags:
@@ -13,8 +15,7 @@ tags:
 - Weekly News
 ---
 
-
-[![IMG_1484]({{ site.baseurl }}/assets/IMG_1484-300x200.jpg)]({{ site.baseurl }}/assets/IMG_1484.jpg)NUREMBERG, Germany (5-Nov.-2014) -  Many Linux user groups throughout Italy met at separate, but collectively themed events on Oct. 25 for Linux Day to promote the use of GNU/Linux and free software.
+[![IMG_1484](/wp-content/uploads/2014/11/IMG_1484.jpg)](/wp-content/uploads/2014/11/IMG_1484.jpg)NUREMBERG, Germany (5-Nov.-2014) -  Many Linux user groups throughout Italy met at separate, but collectively themed events on Oct. 25 for Linux Day to promote the use of GNU/Linux and free software.
 Alexjan Carraturo, a openSUSE advocate, used this year's Linux Day, which is sponsored by the Italian Linux Society, to promote participation in the openSUSE Project in both Tuscany and Umbria.
 “openSUSE offers something different and intriguing,” Carraturo said.
 Not everyone appreciates the value of free software, Carraturo said. One of the greatest satisfactions with promoting free software is the look of surprise people have when they realize that they are not forced to choose only between Microsoft and Apple.
@@ -25,5 +26,3 @@ Some of the participates for Linux Day were involved with developing and using o
 For many, openSUSE is a novelty, Carraturo said.
 The Open Build Service, http://openbuildservice.org/, which is used for the development of the openSUSE distribution and to offer packages from other major distributions, amazed many of the attendees, he said.
 “The high school students were very interested in the possibility of realizing their distribution with SUSE Studio,” Carraturo added.
-
-		

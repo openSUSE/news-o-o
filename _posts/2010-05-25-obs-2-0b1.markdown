@@ -1,16 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-05-25 17:11:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/05/25/obs-2-0b1/
-title: "openSUSE Build Service 2.0 Beta1 Release Brings New User Interface\
-  "
+slug: obs-2-0b1
+title: openSUSE Build Service 2.0 Beta1 Release Brings New User Interface
+wordpress_id: 3296
 categories:
 - Announcements
 - Build Service
 ---
-[![]({{ site.baseurl }}/assets/UTSmOKcQdU_bodybg.png)]({{ site.baseurl }}/assets/UTSmOKcQdU_bodybg.png)The openSUSE Build Service (obs) is an open package and distribution development platform that provides a transparent infrastructure that allows developers to build for various major Linux distributions and architectures.
+
+[![](/wp-content/uploads/2010/05/UTSmOKcQdU_bodybg.png)](/wp-content/uploads/2010/05/UTSmOKcQdU_bodybg.png)The openSUSE Build Service (obs) is an open package and distribution development platform that provides a transparent infrastructure that allows developers to build for various major Linux distributions and architectures.
 
 The public server [build.opensuse.org](http://build.opensuse.org) is available for all open source developers to build packages for the most popular distributions incl. Debian, Fedora, Mandriva, openSUSE, Red Hat, SUSE Linux Enterprise and Ubuntu.  It is also used to build the openSUSE distribution.
 
@@ -72,4 +74,4 @@ This is a release where many different people were involved in development and e
 
 I'd like to give special credit for the great WebUI work done by the [Boosters team](http://en.opensuse.org/Boosters_Team), mainly Coolo and Tom!
 
-Update: Some more technical details are [available as well](http://lists.opensuse.org/opensuse-buildservice/2010-05/msg00264.html).		
+Update: Some more technical details are [available as well](http://lists.opensuse.org/opensuse-buildservice/2010-05/msg00264.html).

@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-18 20:11:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/18/announcing-opensuse-education-for-103/
-title: "Announcing openSUSE-Education for 10.3"
+slug: announcing-opensuse-education-for-103
+title: Announcing openSUSE-Education for 10.3
+wordpress_id: 893
 categories:
 - Announcements
 - Edu Li-f-e
@@ -12,6 +14,7 @@ tags:
 - Education
 - Project
 ---
+
 ![openSUSE-Education Logo](http://files.opensuse.org/opensuse/en/f/f8/OpenSUSE-Edu.png)Good things come to those who wait: I think we've waited long enough to release the first openSUSE-Education version for openSUSE 10.3.
 
 Just use the YaST2 "Add-On Product" module to add our [Online-Repository](http://www.opensuse-education.org/download/repo/1.0/10.3/). A more detailed description can be found at the [openSUSE wiki](http://en.opensuse.org/Education/Repositories).
@@ -51,4 +54,4 @@ I also like to give a big "Thank YOU" to all the other fighters in the Education
   * ...and all the other "guest" entries in our [bugzilla](http://bugs.opensuse-education.org), IRC comments, Emails, packaging help, ...
 
 
-PS: We've also added some "easter eggs" to the DVD (regards to Seminarix and others ![;-)](https://imap.suse.de/horde/themes/graphics/emoticons/wink.png) - looking out for people reporting them...		
+PS: We've also added some "easter eggs" to the DVD (regards to Seminarix and others ![;-)](https://imap.suse.de/horde/themes/graphics/emoticons/wink.png) - looking out for people reporting them...

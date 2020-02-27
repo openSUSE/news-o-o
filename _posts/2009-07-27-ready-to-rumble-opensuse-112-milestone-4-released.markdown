@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-07-27 13:30:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/07/27/ready-to-rumble-opensuse-112-milestone-4-released/
-title: "Ready to Rumble: openSUSE 11.2 Milestone 4 Released"
+slug: ready-to-rumble-opensuse-112-milestone-4-released
+title: 'Ready to Rumble: openSUSE 11.2 Milestone 4 Released'
+wordpress_id: 1930
 categories:
 - Announcements
 - Distribution
 ---
+
 Looking for some summer fun? Try the latest milestone release for openSUSE 11.2! Milestone 4 is hot off the openSUSE Build Service and ready for your testing pleasure.This release includes updates to KDE, GNOME, NetworkManager, Samba, YaST, and many other updated packages.
 
 This is a Milestone Release, one of several that lead up to the 11.2 final release in November. It may not be suitable for production systems, but is ready for contributors who want to help with testing and development for 11.2.
@@ -86,4 +89,4 @@ Holger Sickenberg has put out a call for testing team members. If you're interes
 
 **Get Milestone 4 Today!**
 
-What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](http://software.opensuse.org/developer/) right now.		
+What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](http://software.opensuse.org/developer/) right now.

@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2009-11-09 05:49:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/11/09/project-bugzilla-update-planned-to-version-3-4/
-title: "Project Bugzilla Update Planned to Version 3.4"
+slug: project-bugzilla-update-planned-to-version-3-4
+title: Project Bugzilla Update Planned to Version 3.4
+wordpress_id: 2443
 categories:
 - Infrastructure
 ---
+
 The bugtracking tool used by the openSUSE project is the Novell bugzilla and this system will be updated to a new upstream version (version 3.4) together with some changes requested by openSUSE community and Novell employees.
 
 The date for this upgrade is Saturday November 14 at 9am mountain time (that is 16:00 UTC). Both Bugzilla and Testopia will be down for several hours on that day.
@@ -79,4 +82,4 @@ It will now be possible to see what bug a bug was cloned from as well as any bug
 ### Testopia
 
 
-Additionally, the Testopia test plan tool will go from version 2.2 to 2.3. The list of fixes and enhancements for Testopia is available in the [Mozilla bugzilla](https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Testopia&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&resolution=FIXED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2009-02-02&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=).		
+Additionally, the Testopia test plan tool will go from version 2.2 to 2.3. The list of fixes and enhancements for Testopia is available in the [Mozilla bugzilla](https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Testopia&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&resolution=FIXED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2009-02-02&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=).

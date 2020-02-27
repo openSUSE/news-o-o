@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-10-17 16:51:48+00:00
 layout: post
 link: https://news.opensuse.org/2018/10/17/kde-and-opensuse-plasma-5-14-qt-5-12-and-more/
-title: "KDE and openSUSE: Plasma 5.14, Qt 5.12 and more"
+slug: kde-and-opensuse-plasma-5-14-qt-5-12-and-more
+title: 'KDE and openSUSE: Plasma 5.14, Qt 5.12 and more'
+wordpress_id: 21303
 categories:
 - Announcements
 - Derivatives
@@ -50,7 +53,6 @@ tags:
 - yast
 ---
 
-
 #### Plasma 5.14
 
 
@@ -67,7 +69,7 @@ To get it on [Leap 15](https://en.opensuse.org/Portal:15.0) (and even 42.3 with 
 The KDE:Unstable projects will drop support for openSUSE 42.3 next week.
 
 
-#### ![]({{ site.baseurl }}/assets/gekko-300x276.png)
+#### ![](/wp-content/uploads/2018/10/gekko.png)
 
 
 Builds of [KDE](https://www.kde.org) software from git master have been available for Leap 15 even before the official release, which should've given everyone enough time to migrate.
@@ -124,4 +126,4 @@ As with 5.10 and 5.11, we'll submit 5.12 in a specific order to get the biggest 
 
 Leap 15 Service Pack 1 (15.1) will be a continuation of the Leap 15 release series.
 
-The major difference to the initial release of Leap 15 (15.0) will be the removal of Qt WebKit from the default installation (like it has been done for Tumbleweed). On the software front, it will ship the latest Plasma 5.12 LTS release available. It's also planned to ship the latest KDE Applications and Frameworks available at release.		
+The major difference to the initial release of Leap 15 (15.0) will be the removal of Qt WebKit from the default installation (like it has been done for Tumbleweed). On the software front, it will ship the latest Plasma 5.12 LTS release available. It's also planned to ship the latest KDE Applications and Frameworks available at release.

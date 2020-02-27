@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-11-06 15:38:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/11/06/the-weekly-review-opensuse-leaps-forward-susecon-jams-tumbleweed-looks-at-4-3-kernel/
-title: "The weekly review: openSUSE leaps forward, SUSECon jams, Tumbleweed\
-  \ looks at 4.3 Kernel"
+slug: the-weekly-review-opensuse-leaps-forward-susecon-jams-tumbleweed-looks-at-4-3-kernel
+title: 'The weekly review: openSUSE leaps forward, SUSECon jams, Tumbleweed looks
+  at 4.3 Kernel'
+wordpress_id: 19629
 categories:
 - Weekly News
 ---
+
 
 
 While the work week comes to a close, the openSUSE project’s week continues into the weekend.
@@ -22,4 +25,4 @@ The reviews for openSUSE Leap 42.1 are looking good. While some media are compar
 Tumbleweed is the project’s other distribution that provide the latest reliable and tested packages, so people who want the latest packages should look at using that rather than Leap. This week Tumbleweed released the [20151030 snapshot](http://lists.opensuse.org/opensuse-factory/2015-11/msg00110.html).
 
 Some of the newest packages upgraded in that snapshot were Mesa 11.0.4, GNOME 3.18.1, Linux Kernel 4.2.4, LibreOffice 5.0.3 with the GTK3 module split out and XOrg 1.17.4. Expect the Linux kernel to update to 4.3 soon in Tumbleweed.
-Expect more news to be posted about Leap in the coming weeks. Details about Power 8 (ppc64le), and ARM (AArch64) in openSUSE Leap 42.1 should be available in the next few weeks as well as some other Leap related news.		
+Expect more news to be posted about Leap in the coming weeks. Details about Power 8 (ppc64le), and ARM (AArch64) in openSUSE Leap 42.1 should be available in the next few weeks as well as some other Leap related news.

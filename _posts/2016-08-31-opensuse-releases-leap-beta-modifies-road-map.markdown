@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-08-31 09:14:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/08/31/opensuse-releases-leap-beta-modifies-road-map/
-title: "openSUSE Releases Leap Beta, Modifies Road Map"
+slug: opensuse-releases-leap-beta-modifies-road-map
+title: openSUSE Releases Leap Beta, Modifies Road Map
+wordpress_id: 20081
 categories:
 - Distribution
 - Leap
@@ -23,8 +25,7 @@ tags:
 - test
 ---
 
-
-### **Official Release Scheduled for Nov. 16![42 copy]({{ site.baseurl }}/assets/42-copy-300x300.png)**
+### **Official Release Scheduled for Nov. 16![42 copy](/wp-content/uploads/2016/08/42-copy.png)**
 
 
 Software testers and Linux enthusiasts can now get the [Beta release of openSUSE Leap 42.2](http://bit.ly/1iOyl2T), which was released today.
@@ -41,4 +42,4 @@ This hybrid community-enterprise distribution is the safe choice because it has 
 
 Testers are encouraged to report any bug found in the beta to [https://bugzilla.opensuse.org](https://bugzilla.opensuse.org).
 
-Media who are interested in more information should contact Douglas DeMaio at ddemaio(at)suse.de.		
+Media who are interested in more information should contact Douglas DeMaio at ddemaio(at)suse.de.

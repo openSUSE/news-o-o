@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-09-21 18:10:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/09/21/opensuse-board-welcomes-new-chairman-vincent-untz/
-title: "openSUSE Board Welcomes new Chairman: Vincent Untz"
+slug: opensuse-board-welcomes-new-chairman-vincent-untz
+title: 'openSUSE Board Welcomes new Chairman: Vincent Untz'
+wordpress_id: 14113
 categories:
 - Announcements
 - Board
 - Project
 ---
-![vuntz]({{ site.baseurl }}/assets/vuntz-199x300.jpg)
-This week Alan Clark announced to the openSUSE Board that he is stepping down from his position as Board Chair. His duties in SUSE keep him increasingly busy and SUSE has decided, after [almost two years](https://news.opensuse.org/2010/12/14/alan-clark-new-opensuse-board-chairman/), the time has come for someone else to take on his role.
+
+![vuntz](/wp-content/uploads/2012/09/vuntz.jpg)
+This week Alan Clark announced to the openSUSE Board that he is stepping down from his position as Board Chair. His duties in SUSE keep him increasingly busy and SUSE has decided, after [almost two years](http://news.opensuse.org/2010/12/14/alan-clark-new-opensuse-board-chairman/), the time has come for someone else to take on his role.
 
 So, after thinking about what skills are most relevant for the openSUSE Board right now and who would fit in best, SUSE managers Michael Miller (Marketing and Product Management) and Ralf Flaxa (Engineering) have announced at the [openSUSE Summit](http://summit.opensuse.org) opening that they [brought in](https://www.suse.com/company/press/2012/9/opensuse-project-announces-appointment-of-vincent-untz-as-opensuse-board-chair.html) former GNOME Foundation Chairman Vincent Untz to take on the role as chair. The Board is very pleased having someone with the skills and experience of Vincent on board.<!-- more -->
 
@@ -41,4 +44,4 @@ With the openSUSE conference starting soon, the decisions on the release process
 
 
 
-Both Alan and Vincent Untz as well as number of the other openSUSE Board members are at the [openSUSE Summit](http://summit.opensuse.org) right now. If you're there, go and look them up for a chat about where openSUSE is going. If you can't make it, they will surely be at the [openSUSE Conference in Prague](http://conference.opensuse.org) in October!		
+Both Alan and Vincent Untz as well as number of the other openSUSE Board members are at the [openSUSE Summit](http://summit.opensuse.org) right now. If you're there, go and look them up for a chat about where openSUSE is going. If you can't make it, they will surely be at the [openSUSE Conference in Prague](http://conference.opensuse.org) in October!

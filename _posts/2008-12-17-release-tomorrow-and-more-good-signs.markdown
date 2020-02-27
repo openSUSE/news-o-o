@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-17 12:21:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/17/release-tomorrow-and-more-good-signs/
-title: "Release Tomorrow, and More Good Signs ..."
+slug: release-tomorrow-and-more-good-signs
+title: Release Tomorrow, and More Good Signs ...
+wordpress_id: 1122
 categories:
 - Distribution
 ---
+
 Tomorrow is the big day! So some might wonder what exactly will happen ... Basically we turn on the headless chicken mode and waiting that our servers will melt away :-)
 
 Not this time! (tm).  The plan is to release openSUSE 11.1 at [14:00 CET (13:00 GMT) ](http://www.timeanddate.com/worldclock/fixedtime.html?month=12&day=18&year=2008&hour=13&min=0&sec=0&p1=0). We added 3 quadcore servers to the wiki farm and Peter tweaked the configuration. Anyway, even with the new servers you should not go to the wiki to download it or wait for the announcement.
@@ -26,5 +29,4 @@ So what is the other good sign? Some people already have the box, thanks [Salid]
 
 [![openSUSE_111box_german.jpg](http://farm4.static.flickr.com/3265/3115008089_0bc3c9a594.jpg)](http://www.flickr.com/photos/notlocalhorst/3115008089/) 
 
-This is done through the [check my portal](https://topspyingapps.com/) mobbles radar, which, parents should know, is a completely optional way of catching mobbles
-		
+This is done through the  mobbles radar, which, parents should know, is a completely optional way of catching mobbles

@@ -1,13 +1,16 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-05-25 15:52:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/05/25/ready-set-code/
-title: "Ready...Set...Code!"
+slug: ready-set-code
+title: Ready...Set...Code!
+wordpress_id: 8907
 categories:
 - Google Summer of Code
 ---
+
 Yesterday marked the official start of Google Summer of Code's Coding Period.Â  And openSUSE mentors are right in the thick of it working with 16 students seeking to make a better world in FOSS.
 
 openSUSE can take particular pride in GSoC further supporting the openSUSE goal of creating an environment thatÂ  supports not only openSUSE but FOSS in general.Â  Indeed we are mentoring several projects that directly benefit openSUSE, but there's also several projects that support other projects, like the Arch Linux backend for our Open Build Service, a test suite for btrfs, ext4 snapshots in snapper, PackageKit backend in Software Center, and ICC device profile repository.<!-- more -->
@@ -47,4 +50,4 @@ August 26 - Final Evaluation Deadline
 ## Stay Informed:
 
 
-Students are asked to post weekly reports. You can follow it on their blogs, which are aggregated on [Planet openSUSE](http://planet.opensuse.org/global/) or through our openSUSE [Project mailing list](mailto://opensuse-project+subscribe@opensuse.org).		
+Students are asked to post weekly reports. You can follow it on their blogs, which are aggregated on [Planet openSUSE](http://planet.opensuse.org/global/) or through our openSUSE [Project mailing list](mailto://opensuse-project+subscribe@opensuse.org).

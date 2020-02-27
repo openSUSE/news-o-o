@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-11-26 13:44:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/26/opensuse-education-first-milestones-reached/
-title: "openSUSE Education: First Milestones Reached!"
+slug: opensuse-education-first-milestones-reached
+title: 'openSUSE Education: First Milestones Reached!'
+wordpress_id: 537
 categories:
 - Edu Li-f-e
 ---
 
-
-![openSUSE Edu]({{ site.baseurl }}/assets/opensuse-edu.png)
+![openSUSE Edu](//news.opensuse.org/wp-content/uploads/2007/11/opensuse-edu.png)
 
 The [openSUSE-Education](http://en.opensuse.org/Education) project has been setup to support schools and universities using openSUSE. The project will create additional software packages, additional installation repositories and give community based support.
 
@@ -50,4 +51,4 @@ More details can be found on the project's [Wiki pages](http://en.opensuse.org/E
 
 
 
-Lars Vogdt
+Lars Vogdt And self-publishing relief explained how to determine if self-publishing is, in fact, the right path for [college essay writer for pay](https://pro-essay-writer.com/) you

@@ -1,10 +1,12 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-05-04 14:09:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/05/04/opensuselinuxtag-2010/
-title: "openSUSE@LinuxTag 2010"
+slug: opensuselinuxtag-2010
+title: openSUSE@LinuxTag 2010
+wordpress_id: 3234
 categories:
 - Announcements
 - Events
@@ -16,8 +18,7 @@ tags:
 - Project
 ---
 
-
-[![]({{ site.baseurl }}/assets/Linux_anim_468x60_GB.gif)](http://www.linuxtag.org)
+[![](/wp-content/uploads/2010/05/Linux_anim_468x60_GB.gif)](http://www.linuxtag.org)
 
 
 LinuxTag 2010 is around the corner. There will be openSUSE Rock 'N' Roll from June 9Â to 12 at theÂ BerlinÂ Fairgrounds! We just received word that our project got accepted for a booth and that we have 13 talks in the program of the free conference.
@@ -45,7 +46,7 @@ This talk will introduce libyui internals and guide the user from developing a v
 
 
 
-#### [MonoDevelop - Eine freie IDE für GTK](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=263)- Mike Krüger
+#### [MonoDevelop - Eine freie IDE fÃ¼r GTK](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=263)- Mike KrÃ¼ger
 
 
 This talk will introduce to Monodevelop and GTK#. You will see some demonstrations of the concepts of an IDE. 
@@ -108,7 +109,7 @@ From A like Artwork (we guess you already heard of Vincents ninjaesque GIMP tech
 
 
 
-#### [The Free Software Hell And How To Escape It](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=467) - With Adrian Schröter and Henne Vogelsang
+#### [The Free Software Hell And How To Escape It](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=467) - With Adrian SchrÃ¶ter and Henne Vogelsang
 
 
 After it is possible for users of software to easily escape the famous dependency hell with smart and user-friendly package managers this talk will show you how free and open source software developers can escape the next circle - The Free Software Distribution Hell.
@@ -125,7 +126,7 @@ This talk presents WebYaST which is the Web interface for the YaST system manage
 ## Booth Setup
 
 
-[![]({{ site.baseurl }}/assets/original_img_2454-300x200.jpg)]({{ site.baseurl }}/assets/original_img_2454.jpeg)
+[![](/wp-content/uploads/2010/05/original_img_2454.jpeg)](/wp-content/uploads/2010/05/original_img_2454.jpeg)
 We are currently working on a Booth setup which includes a showroom of the latest developments in our beloved distribution which will be around release candidate one (RC1) during that time and we plan to release and show the next generation Build Service. The booth will also feature hack sessions for contributors, or people who want to become one, lead by the [openSUSE Boosters](http://en.opensuse.org/Boosters_Team). In these up and close hack sessions, with a small number of participants, a Booster will teach you all about a way to contribute to openSUSE and/or open source in general.  Topics include _hacking your first plasmoid_, _rolling your first package in the build service_, _fixing your first openSUSE bug_ or _building your first distribution with KIWI_.
 
-So grab your laptop and make yourself ready to [go to Berlin](http://www.linuxtag.org/2010/en/visitors/travel-information.html)! Oh and if you are interested in helping to plan or man our booth, have ideas for a hack-session we could do or in general want to get in touch with us about LinuxTag don't miss the [openSUSE Project Meetings](http://en.opensuse.org/Meetings/Project) every other Wednesday on IRC. Looking forward to see you there.		
+So grab your laptop and make yourself ready to [go to Berlin](http://www.linuxtag.org/2010/en/visitors/travel-information.html)! Oh and if you are interested in helping to plan or man our booth, have ideas for a hack-session we could do or in general want to get in touch with us about LinuxTag don't miss the [openSUSE Project Meetings](http://en.opensuse.org/Meetings/Project) every other Wednesday on IRC. Looking forward to see you there.

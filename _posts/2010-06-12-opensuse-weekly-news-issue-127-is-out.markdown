@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-06-12 16:21:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/12/opensuse-weekly-news-issue-127-is-out/
-title: "openSUSE Weekly News Issue 127 is out!"
+slug: opensuse-weekly-news-issue-127-is-out
+title: openSUSE Weekly News Issue 127 is out!
+wordpress_id: 3481
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News Issue 127!
 
 <!-- more -->
@@ -206,7 +209,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 127!
 
 
 
-     "We wanted to give you an update regarding the status of our  Strategy Team™s release of strategy proposals for public discussion.   Truth is, despite our best intentions to release on this date, we failed  to realize each of our personal schedules leading up to this date.  For  many of us on the team, we had a number of commitments and didn™t  realize that most of us had scheduling conflicts. 
+     "We wanted to give you an update regarding the status of our  Strategy Teamâ€™s release of strategy proposals for public discussion.   Truth is, despite our best intentions to release on this date, we failed  to realize each of our personal schedules leading up to this date.  For  many of us on the team, we had a number of commitments and didnâ€™t  realize that most of us had scheduling conflicts. 
      We are 90% done completing the wording of our proposals.   While we could have rushed to finish everything by today, it was agreed  that quality of the proposals was more important than rushing to meet a  deadline.  As such, we have agreed to postpone the release for one  additional week until everyone is able to return to the table and  finalize our proposals." 
 
 
@@ -272,9 +275,9 @@ We are pleased to announce our new openSUSE Weekly News Issue 127!
 
 
 
-    "So it™s time to take some hours to test our future version. 
+    "So itâ€™s time to take some hours to test our future version. 
      Today I start a fresh M7/Factory installÂ : booting from pxe.  The test case is build quickly a minimal server text mode. 
-     Just uncheck the auto configuration, we are after all linux  admin. Choose your partition keyboard, language (en recommanded for  server) etc ¦ normal. (...)" 
+     Just uncheck the auto configuration, we are after all linux  admin. Choose your partition keyboard, language (en recommanded for  server) etc â€¦ normal. (...)" 
 
 
 
@@ -326,7 +329,7 @@ The numbers for all openSUSE project products are this week:
 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) “ [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) “ [Bug  Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) â€“ [Bug  Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
 
 
 
@@ -408,7 +411,7 @@ The Build Service now hosts 13169 (+164) projects, 94850 (+612)  packages, 23281
 
 
 
-     "Greetings! Second week of the KDE at openSUSE blog. We are now  on PlanetSUSE as well, so hello to all its readers. And since you did  not get the last post: this blog is a short summary of what™s happening  at openSUSE regarding KDE and it tries to give all those that bring KDE  to the openSUSE users the credit they deserve. (...)" 
+     "Greetings! Second week of the KDE at openSUSE blog. We are now  on PlanetSUSE as well, so hello to all its readers. And since you did  not get the last post: this blog is a short summary of whatâ€™s happening  at openSUSE regarding KDE and it tries to give all those that bring KDE  to the openSUSE users the credit they deserve. (...)" 
 
 
 
@@ -575,7 +578,7 @@ The Build Service now hosts 13169 (+164) projects, 94850 (+612)  packages, 23281
   * Daily updated translation statistics are available on the [openSUSE Localization  Portal](http://i18n.opensuse.org/).
 
 	
-  * [Trunk  Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization  Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk  Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization  Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 
@@ -617,7 +620,7 @@ The Build Service now hosts 13169 (+164) projects, 94850 (+612)  packages, 23281
 
 
      "Had a marvelous time at WriteCamp Milwaukee 2 Saturday. 
-     Mercy Hill Church at the Hide House is a fantastic venue,  which you can see for yourself in the Flickr feed. The space was broken  up into five session areas: Two in the main sanctuary area, with  plenty of separation, so no one got confused by audio bleedthrough;  three smaller classrooms. 
+     Mercy Hill Church at the Hide House is a fantastic venue,  which you can see for yourself in the Flickr feed. The space was broken  up into five session areas: Two in the main â€œsanctuaryâ€ area, with  plenty of separation, so no one got confused by audio bleedthrough;  three smaller classrooms. 
      The whole conference had a pretty analog feel to it for this  techie. I brought my laptop, and lugged it around unopened pretty much  all day. I confined my notes to pen and paper." 
 
 
@@ -632,7 +635,7 @@ The Build Service now hosts 13169 (+164) projects, 94850 (+612)  packages, 23281
 
 
 
-#### [Vincent Untz: Ich bin ein Berliner ” LinuxTag 2010](http://www.vuntz.net/journal/post/2010/06/09/Ich-bin-ein-Berliner-%E2%80%94-LinuxTag-2010)
+#### [Vincent Untz: Ich bin ein Berliner â€” LinuxTag 2010](http://www.vuntz.net/journal/post/2010/06/09/Ich-bin-ein-Berliner-%E2%80%94-LinuxTag-2010)
 
 
 
@@ -672,9 +675,9 @@ The Build Service now hosts 13169 (+164) projects, 94850 (+612)  packages, 23281
 
 
 
-    "Hack Week 2010 ” Client-side awesome 
+    "Hack Week 2010 â€” Client-side awesome 
      It is Hack Week this week, when all of Novell's hackers work  on whatever project they want for the whole week. 
-     The infrastructure for Document-Centric GNOME is coming along  just fine. The Zeitgeist hackers are kicking all sorts of ass with the  engine and the activity journal ” that's what lets you see your work in a  nice timeline. 
+     The infrastructure for Document-Centric GNOME is coming along  just fine. The Zeitgeist hackers are kicking all sorts of ass with the  engine and the activity journal â€” that's what lets you see your work in a  nice timeline. 
      Another part of the document-centric vision is to allow  comfortable flow or circulation through your files, which is sorely  missing right now." 
 
 
@@ -707,7 +710,7 @@ The Build Service now hosts 13169 (+164) projects, 94850 (+612)  packages, 23281
 
 
 
-#### [Klaas Freitag: Zippl “ a Lightweigth Presentation Tool](http://lizards.opensuse.org/2010/06/11/zippl-a-lightweigth-presentation-tool/)
+#### [Klaas Freitag: Zippl â€“ a Lightweigth Presentation Tool](http://lizards.opensuse.org/2010/06/11/zippl-a-lightweigth-presentation-tool/)
 
 
 
@@ -763,7 +766,7 @@ Upcoming:
   * You can find more informations on other events at:
 
 	
-  * [openSUSE News/Events](../category/events/) “ [Local  events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
+  * [openSUSE News/Events](../category/events/) â€“ [Local  events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
 
 
 
@@ -871,7 +874,7 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
   * You can find other interesting Packages at:
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1057,7 +1060,7 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-     "One of the operation of the shell when it analyzes the input  is Shell expansion. Bash provides different types of expansion. In this  article let us review an important expansion ” Brace expansion." 
+     "One of the operation of the shell when it analyzes the input  is Shell expansion. Bash provides different types of expansion. In this  article let us review an important expansion â€” â€œBrace expansionâ€." 
 
 
 
@@ -1066,8 +1069,8 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-     "The GNU find utility is one of the most useful commands you™ll  ever get to know. At first glance the options and syntax can seem  arcane. But, with a little practice, you™ll be able to locate any file  on your system with almost no trouble at all. To help you get started,  we™ve got 10 ways you can use find to get what you™re looking for. 
-     Note that not all versions of find are created equal. The find  command you™ll use on Linux is slightly different than the find on  BSDs, Solaris, or Mac OS X. Much of the syntax is shared and can be used  between systems, but not all. (...)" 
+     "The GNU find utility is one of the most useful commands youâ€™ll  ever get to know. At first glance the options and syntax can seem  arcane. But, with a little practice, youâ€™ll be able to locate any file  on your system with almost no trouble at all. To help you get started,  weâ€™ve got 10 ways you can use find to get what youâ€™re looking for. 
+     Note that not all versions of find are created equal. The find  command youâ€™ll use on Linux is slightly different than the find on  BSDs, Solaris, or Mac OS X. Much of the syntax is shared and can be used  between systems, but not all. (...)" 
 
 
 
@@ -1076,8 +1079,8 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-     "If you™ve been using Linux for any amount of time, you™ve  probably heard about grep, though maybe you™re not familiar with using  it. GNU grep is a tool that lets you search one or more files, or  standard input. Simple, effective, and absolutely necessary for anyone  managing Linux and UNIX-type systems. Want to get a grip on grep? We™ll  get you started in no time. 
-     The basics of grep are simple: to search for a given pattern,  run grep pattern file. This will look through one or more files and  return any lines that match the search pattern. Note that grep returns  lines of text and the filename, if you™re searching through files rather  than standard input or the output of another command." 
+     "If youâ€™ve been using Linux for any amount of time, youâ€™ve  probably heard about grep, though maybe youâ€™re not familiar with using  it. GNU grep is a tool that lets you search one or more files, or  standard input. Simple, effective, and absolutely necessary for anyone  managing Linux and UNIX-type systems. Want to get a grip on grep? Weâ€™ll  get you started in no time. 
+     The basics of grep are simple: to search for a given pattern,  run grep pattern file. This will look through one or more files and  return any lines that match the search pattern. Note that grep returns  lines of text and the filename, if youâ€™re searching through files rather  than standard input or the output of another command." 
 
 
 
@@ -1118,7 +1121,7 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-     "Just about anyone who™s attempted dual booting or another  non-standard boot setup has, at some point, made their own system  unbootable. If the words GRUB Error 2³ or No Valid System Disk Found  make you break into a cold sweat, then fear no more. Now you can include  the [Super Grub Disk](http://www.supergrubdisk.org/) in your geek arsenal, and say goodbye to boot errors. SGD can work with  Linux or Windows systems to bypass or repair the broken bootloaders  that have kept many of us awake at night, and all in under 2MB. That™s  right, it can even run from a floppy disk." 
+     "Just about anyone whoâ€™s attempted dual booting or another  non-standard boot setup has, at some point, made their own system  unbootable. If the words â€œGRUB Error 2â€³ or â€œNo Valid System Disk Foundâ€  make you break into a cold sweat, then fear no more. Now you can include  the [Super Grub Disk](http://www.supergrubdisk.org/) in your geek arsenal, and say goodbye to boot errors. SGD can work with  Linux or Windows systems to bypass or repair the broken bootloaders  that have kept many of us awake at night, and all in under 2MB. Thatâ€™s  right, it can even run from a floppy disk." 
 
 
 
@@ -1127,8 +1130,8 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-     "Have you ever asked: how I can install TOra or Oracle client  for my favourite language into my suse system? 
-     It was always a pain mainly due the brilliant Oracle licensing  policy. Now it should be a little bit easier “ just because I started  special repositories with Oracle related packages. (...)" 
+     "Have you ever asked: â€œhow I can install TOra or Oracle client  for my favourite language into my suse system?â€ 
+     It was always a pain mainly due the brilliant Oracle licensing  policy. Now it should be a little bit easier â€“ just because I started  special repositories with Oracle related packages. (...)" 
 </td>
 </tr>
 </tbody>
@@ -1172,13 +1175,13 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-#### [Shayon Mukherjee: A fully developed chicken:That™s what  you need?](http://shayonj.wordpress.com/2010/06/09/a-fully-developed-chickenthats-what-you-need/)
+#### [Shayon Mukherjee: A fully developed chicken:Thatâ€™s what  you need?](http://shayonj.wordpress.com/2010/06/09/a-fully-developed-chickenthats-what-you-need/)
 
 
 
 
-     "First I thought to tweet about this , but If I don™t be a bit  descriptive it would not make sense. 
-     There is a discussion being carried out in the openSUSE  Project ML . Initially I found it very interesting (YesÂ ! it was), but  when the numbers got increased and discussion was out of topic I stopped  reading the post (which maximum have done). Regarding the number of  mails issue in the mailing lists , I agree with Sankar™s statement.  Anyways back to the topic, today morning  I found 2-3 posts (same  thread) mentioning (Just to have a look what does 50 mails have to say)  the chicken-egg funda. As far as this funda is concerned I am with  it.But when one says (no offense)  I want to or would like to  contribute to a Fully developed chicken   means one would contribute to  a developed Open Source project , I surely dont like it and will not  support this idea. (...)" 
+     "First I thought to tweet about this , but If I donâ€™t be a bit  descriptive it would not make sense. 
+     There is a discussion being carried out in the openSUSE  Project ML . Initially I found it very interesting (YesÂ ! it was), but  when the numbers got increased and discussion was out of topic I stopped  reading the post (which maximum have done). Regarding the number of  mails issue in the mailing lists , I agree with Sankarâ€™s statement.  Anyways back to the topic, today morning  I found 2-3 posts (same  thread) mentioning (Just to have a look what does 50 mails have to say)  the chicken-egg funda. As far as this funda is concerned I am with  it.But when one says (no offense)  â€I want to or would like to  contribute to a Fully developed chicken â€  means one would contribute to  a developed Open Source project , I surely dont like it and will not  support this idea. (...)" 
 
 
 
@@ -1364,8 +1367,8 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-     "yes, forcing, I™m such an abused little critter, it™s so bad,  I™ll need counseling.Â :( 
-     Over the last few weeks I have been putting the finishing  touches on the plasma KPart plugin¦ It looks pretty good now, but still  lacks a bit of the bits to really make it shine, including an API to  allow applications to interact with the Plasma APIs on a more intimate  level, rather than just "load widget foo, and I™ll get out of the way".  (...)" 
+     "yes, forcing, Iâ€™m such an abused little critter, itâ€™s so bad,  Iâ€™ll need counseling.Â :( 
+     Over the last few weeks I have been putting the finishing  touches on the plasma KPart pluginâ€¦ It looks pretty good now, but still  lacks a bit of the bits to really make it shine, including an API to  allow applications to interact with the Plasma APIs on a more intimate  level, rather than just "load widget foo, and Iâ€™ll get out of the way".  (...)" 
 
 
 
@@ -1418,7 +1421,7 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 
 
 
-     "A new attack on a Flash bug has surfaced that would give  attackers control of a victim™s computer after crashing it, [reports PC World](http://www.pcworld.com/businesscenter/article/198079/attackers_exploiting_new_flash_bug_adobe_warns.html). Adobe put out a [Security Advisory](http://www.adobe.com/support/security/advisories/apsa10-01.html) about this on June 4. It is  categorized as a critical issue and all operating systems with Flash are  vulnerable including Windows, Linux, and Apple and it is also found in  the recent versions of Reader and Acrobat." 
+     "A new attack on a Flash bug has surfaced that would give  attackers control of a victimâ€™s computer after crashing it, [reports PC World](http://www.pcworld.com/businesscenter/article/198079/attackers_exploiting_new_flash_bug_adobe_warns.html). Adobe put out a [Security Advisory](http://www.adobe.com/support/security/advisories/apsa10-01.html) about this on June 4. It is  categorized as a critical issue and all operating systems with Flash are  vulnerable including Windows, Linux, and Apple and it is also found in  the recent versions of Reader and Acrobat." 
 
 
 
@@ -1468,7 +1471,7 @@ The openSUSE Forums have 46569 registered users - Most users ever online  was 30
 <td >Do  you have comments on any of the things mentioned in this article? Then  head right over to the [comment section](../?p=3481) and let us know!
 Or if you would  like to be part of the [openSUSE:Weekly news team](http://wiki.opensuse.org/openSUSE:Weekly_news_team) then  check out our team page and join!
 Or Communicate with or get help  from the wider openSUSE community -- via IRC, forums, or mailing lists  -- see [Communicate](http://wiki.opensuse.org/openSUSE:Support_channels).
-[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the  openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](../category/weekly-news/feed/)
+[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the  openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](../category/weekly-news/feed/)
 </td>
 </tr>
 </tbody>
@@ -1505,10 +1508,10 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
   * [saigkill](http://wiki.opensuse.org/User:Saigkill) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Saigkill&action=edit&redlink=1) -  [Contributions](http://wiki.opensuse.org/Special:Contributions/saigkill) Sascha  Manns (Editor in Chief)
 
 	
-  * [Dl9pf](http://wiki.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon  Möller (Second Editor in Chief, Main-Newsletter)
+  * [Dl9pf](http://wiki.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon  MÃ¶ller (Second Editor in Chief, Main-Newsletter)
 
 	
-  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian  Schöbinger (Tips/Tricks)
+  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian  SchÃ¶binger (Tips/Tricks)
 
 	
   * [HeliosReds](http://wiki.opensuse.org/User:HeliosReds) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru  Matsumoto (Editorial Office)
@@ -1517,7 +1520,7 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
   * [Caf4926](http://wiki.opensuse.org/User:Caf4926) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Caf4926) Carl  Fletcher (Main-Newsletter, Forums Sec.)
 
 	
-  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas  Hofstätter (Events & Meetings)
+  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas  HofstÃ¤tter (Events & Meetings)
 
 	
   * add translators
@@ -1570,7 +1573,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/127)
 
 	
-  * [æ—¥ æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/127)
+  * [æ—¥ æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/127)
 
 	
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/127)
@@ -1607,4 +1610,4 @@ Delayed / to be translated:
 </td>
 </tr>
 </tbody>
-</table>		
+</table>

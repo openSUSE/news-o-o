@@ -1,16 +1,19 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-06-09 20:05:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/09/new-leadership-inside-the-medical-project/
-title: "New Leadership inside the Medical Project"
+slug: new-leadership-inside-the-medical-project
+title: New Leadership inside the Medical Project
+wordpress_id: 9120
 categories:
 - Derivatives
 - Project
 ---
+
 During the first openSUSE Conference in 2009, the idea was born to start a project to package and publish software for medical purposes. Since then, many packages were built and updated: software from the FreeMedForms project, OpenEMR, GnuMed, software for viewing images in DICOMM format and recently, a plasmoid for diabetics.
-![]({{ site.baseurl }}/assets/Opensuse_medical_logo11-300x133.png)
+![](/wp-content/uploads/2010/12/Opensuse_medical_logo11.png)
 
 The first stable release (v 0.0.6) was released on November 2010, based on openSUSE 11.3 and as contestant in the "[The Disters](http://www.novell.com/promo/suse/the-disters-contest.html)"-Contest. This release was produced with [SUSE Studio](http://susestudio.com/), and published via [SUSE Gallery](http://susegallery.com/browse).
 
@@ -80,4 +83,4 @@ If you want to get involved, subscribe to the mailing list with "[opensuse-medic
 
 Have a lot of fun :-)
 
-_Contributed by Sascha Manns, Athanasios Ilias RousinopoulosÂ and Jos Poortvliet._		
+_Contributed by Sascha Manns, Athanasios Ilias RousinopoulosÂ and Jos Poortvliet._

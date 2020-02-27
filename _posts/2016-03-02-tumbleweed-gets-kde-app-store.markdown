@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-03-02 11:48:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/03/02/tumbleweed-gets-kde-app-store/
-title: "Tumbleweed gets KDE app store"
+slug: tumbleweed-gets-kde-app-store
+title: Tumbleweed gets KDE app store
+wordpress_id: 19786
 categories:
 - Tumbleweed
 ---
-![Tumbleweed-black]({{ site.baseurl }}/assets/Tumbleweed-black-300x127.png)Since the last update on [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed), there have been five snapshots and some of those snapshots have brought some interesting new packages.
+
+![Tumbleweed-black](/wp-content/uploads/2016/03/Tumbleweed-black.png)Since the last update on [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed), there have been five snapshots and some of those snapshots have brought some interesting new packages.
 
 The [20160225 snapshot](https://lists.opensuse.org/opensuse-factory/2016-02/msg00672.html) allows [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) users to add a package called '[discover](http://bit.ly/1QqNz8d)', which is the [KDE](https://www.kde.org/) software installer, implemented as an app store like application.
 
@@ -28,4 +31,4 @@ Two more snapshots are expected to be released by the end of the week. [openQA](
 
 [Libreoffice](https://www.libreoffice.org/download/libreoffice-fresh/) is currently building on the [Open Build Service](https://build.opensuse.org/) and will take a few more hours to be built. Without any issues, it might be in one of the next two snapshots.
 
-Tumbleweed users can plan on seeing [GNOME 3.20](https://wiki.gnome.org/ReleasePlanning/FeaturePlans) by end of the month or in early April if all goes expected to plan as the next major release of [GNOME](https://www.gnome.org/) is currently going through its release candidate process.		
+Tumbleweed users can plan on seeing [GNOME 3.20](https://wiki.gnome.org/ReleasePlanning/FeaturePlans) by end of the month or in early April if all goes expected to plan as the next major release of [GNOME](https://www.gnome.org/) is currently going through its release candidate process.

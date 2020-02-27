@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-01-09 12:05:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/09/future-tumbleweed-snapshot-to-bring-yast-changes/
-title: "Future Tumbleweed Snapshot to Bring YaST Changes"
+slug: future-tumbleweed-snapshot-to-bring-yast-changes
+title: Future Tumbleweed Snapshot to Bring YaST Changes
+wordpress_id: 20604
 categories:
 - Announcements
 - Distribution
@@ -36,8 +38,7 @@ tags:
 - YCP
 ---
 
-
-### **![]({{ site.baseurl }}/assets/yast-logo.png)What you need to know about the new storage stack (storage-ng)**
+### **![](/wp-content/uploads/2018/01/yast-logo.png)What you need to know about the new storage stack (storage-ng)**
 
 
 Changes to [YaST](http://yast.opensuse.org) are coming and people using [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) will be the first to experience these planned changes in a snapshot that is expected to be released soon.
@@ -80,4 +81,4 @@ At the publishing of this article, the new partitioner is still not 100 percent 
 
 A big part of AutoYaST, which is the powerful system for unattended installation, massive update and automated configuration that is used by many [SUSE](https://www.suse.com/) customers and [openSUSE](https://www.opensuse.org/) users, has also been rewritten to use and rely on the new yast2-storage-ng mechanisms. The new version of AutoYaST is designed to closely follow the documentation of the partitioning section of the [AutoYaST profile](https://www.suse.com/documentation/sles-12/singlehtml/book_autoyast/book_autoyast.html#CreateProfile.Partitioning). Being a re-implementation, it introduces some differences compared to the previous version, especially in areas where the version didn’t honor the documentation in a 100 percent accurate way.
 
-As it also happens with the re-implemented partitioner, most of the old bugs should be gone now but there is a big chance of new ones being introduced. Since AutoYaST is used in a huge variety of situations and scenarios, we expect users to report the problems found with the new partitioning system, including the used AutoYaST profile and the corresponding YaST logs, so all the details can be ironed up as soon as possible.		
+As it also happens with the re-implemented partitioner, most of the old bugs should be gone now but there is a big chance of new ones being introduced. Since AutoYaST is used in a huge variety of situations and scenarios, we expect users to report the problems found with the new partitioning system, including the used AutoYaST profile and the corresponding YaST logs, so all the details can be ironed up as soon as possible.

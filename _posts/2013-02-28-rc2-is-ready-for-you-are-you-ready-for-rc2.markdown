@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-02-28 14:00:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/02/28/rc2-is-ready-for-you-are-you-ready-for-rc2/
-title: "RC2 is Ready for You. Are You Ready for RC2?"
+slug: rc2-is-ready-for-you-are-you-ready-for-rc2
+title: RC2 is Ready for You. Are You Ready for RC2?
+wordpress_id: 15303
 categories:
 - Announcements
 - Distribution
 ---
+
 ![release counter](http://counter.opensuse.org/small.png)The openSUSE Release Team has released RC2 to the mirrors a few hours ago. A large number of bugs has been fixed and a number of packages has been updated. Major changes include PulseAudio, the kernel and Firefox. This is the last opportunity to find and fix the last few bugs before the final release, so help us by downloading RC2 from [software.opensuse.org](http://software.opensuse.org/developer), testing and reporting bugs!<!-- more -->
 
 The most important updated packages in RC2 are:
@@ -75,9 +78,9 @@ The most important updated packages in RC2 are:
 ## UEFI and Secure Boot status
 
 
-It should be possible to install openSUSE 12.3 on a UEFI machine without problems. During the installation process you can see that YaST decides to use the EFI partition (usually /dev/sda1) as a boot partition, setting the mount point to _/boot/efi_. That means that YaST will create a directory named opensuse in this partition, and will add grub.efi or grubx64.efi file in it. Also, YaST will create a new entry in the firmware boot manager, named again opensuse. We can use this new entry to load our distribution without problems. We are working hard to get Secure Boot into the equation, and in RC2 we can fully test the process. The good news is that openSUSE 12.3 RC2 can boot perfectly with Secure Boot enabled in our UEFI firmware.
+It should be possible to install openSUSE 12.3 on a UEFI machine without problems. During the installation process you can see that YaST decides to use the EFI partition (usually /dev/sda1) as a boot partition, setting the mount point to _/boot/efi_. That means that YaST will create a directory named â€œopensuseâ€ in this partition, and will add grub.efi or grubx64.efi file in it. Also, YaST will create a new entry in the firmware boot manager, named again â€œopensuseâ€. We can use this new entry to load our distribution without problems. We are working hard to get Secure Boot into the equation, and in RC2 we can fully test the process. The good news is that openSUSE 12.3 RC2 can boot perfectly with Secure Boot enabled in our UEFI firmware.
 
-For this RC2 the process needs an extra manual action by the user (an issue which will be addressed before the gold master arrive). When YaST shows you a brief summary of the actions that it will do during the installation process (Installation Settings view), you can see now that in the Booting section there is a new entry: Enable Secure Boot: false. You need to click on the Booting section, and enable the Secure Boot support. That is all. Now YaST will create two entries in the Boot Loader section of our firmware, and you need to select the opensuse-secureboot one to boot your openSUSE distribution when Secure Boot is enabled in your machine.
+For this RC2 the process needs an extra manual action by the user (an issue which will be addressed before the gold master arrive). When YaST shows you a brief summary of the actions that it will do during the installation process (Installation Settings view), you can see now that in the Booting section there is a new entry: â€œEnable Secure Boot: falseâ€. You need to click on the Booting section, and enable the Secure Boot support. That is all. Now YaST will create two entries in the Boot Loader section of our firmware, and you need to select the â€œopensuse-securebootâ€ one to boot your openSUSE distribution when Secure Boot is enabled in your machine.
 
 
 ## Changes in openSUSE Live Media
@@ -145,4 +148,4 @@ You can also find social media backgrounds for g+, twitter and facebook [here](h
 ## Thanks!
 
 
-We would like to extend our gratitude to our regular contributor base who contributed to making openSUSE: the packagers, translators, document authors and everyone else.		
+We would like to extend our gratitude to our regular contributor base who contributed to making openSUSE: the packagers, translators, document authors and everyone else.

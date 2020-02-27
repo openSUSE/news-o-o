@@ -1,15 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-10-10 09:07:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/10/10/power-outage-in-area-where-most-opensuse-servers-are-located/
-title: "Power Outage in Area where most openSUSE Servers are Located"
+slug: power-outage-in-area-where-most-opensuse-servers-are-located
+title: Power Outage in Area where most openSUSE Servers are Located
+wordpress_id: 1040
 categories:
 - Announcements
 - Infrastructure
 ---
-Just a quick note: We have a power outage in the part of the city of Nürnberg where the Novell office and the main server room is.Â  This means that many of our servers are right down, especially the download redirector, the mailing lists, the openSUSE build service and users.opensuse.org.
+
+Just a quick note: We have a power outage in the part of the city of NÃ¼rnberg where the Novell office and the main server room is.Â  This means that many of our servers are right down, especially the download redirector, the mailing lists, the openSUSE build service and users.opensuse.org.
 
 I will post a message once the power has been restored and all machines are running again.Â  Current estimate (11am Nuernberg time) is that it will take another 4 hours (until 3pm Nuernberg time which is 13:00 UTC) at least to restore power.
 
@@ -55,4 +58,4 @@ This server and the wiki are located in another data center and are therefore av
 
 18:50 CEST: users.opensuse.org and build.opensuse.org are back online.Â  We should now be good enough for the weekend.Â  Currently still down are ideas.o.o, features.o.o and tracker.opensuse.org (for our torrents).Â  We will have these restored on monday.
 
-20:18 CEST: tracker.opensuse.org (for torrents) is running again.		
+20:18 CEST: tracker.opensuse.org (for torrents) is running again.

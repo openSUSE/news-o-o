@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2007-08-26 13:18:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/26/sneak-peeks-at-opensuse-103-new-package-management/
-title: "Sneak Peeks at openSUSE 10.3: New Package Management"
+slug: sneak-peeks-at-opensuse-103-new-package-management
+title: 'Sneak Peeks at openSUSE 10.3: New Package Management'
+wordpress_id: 153
 categories:
 - Distribution
 tags:
 - yast
 ---
+
 openSUSE 10.3 is set to contain a new, significantly improved and more mature package management stack by default. ZMD, the package management component causing problems in SUSE Linux 10.1 and to a lesser extent in openSUSE 10.2, has been completely removed and is now replaced by the new [libzypp](http://opensuse.org/Libzypp) and its tools. Today we'll be taking a look at the new package management and talking to [Duncan Mac-Vicar Prett](http://en.opensuse.org/User:Dmacvicar), one of the central libzypp developers.
 
 <!-- more -->
@@ -73,16 +76,16 @@ Downloading package filelight-1.0-6.1.i586, 619.3 K (1.0 M unpacked)
 
 
 
-![opensuse-updater]({{ site.baseurl }}/assets/update1.png)
+![opensuse-updater](//news.opensuse.org/wp-content/uploads/2007/08/update1.png)
 
 
 The application interface of the updater has also improved, giving you more options and allowing you to select patches to be applied from directly within the application instead of YaST:
 
 
-[![openSUSE updater in 10.3]({{ site.baseurl }}/assets/opensuseupdater.png)]({{ site.baseurl }}/assets/opensuseupdater.png)
+[![openSUSE updater in 10.3](//news.opensuse.org/wp-content/uploads/2007/08/opensuseupdater.png)](//news.opensuse.org/wp-content/uploads/2007/08/opensuseupdater.png)
 
 
-Of course you can still continue to use YaST for all your package management requirements, and the interface itself has not undergone any significant changes through this release. You can help test and try out all of these tools by installing the recently released [openSUSE 10.3 Beta 2](https://news.opensuse.org/?p=155).
+Of course you can still continue to use YaST for all your package management requirements, and the interface itself has not undergone any significant changes through this release. You can help test and try out all of these tools by installing the recently released [openSUSE 10.3 Beta 2](//news.opensuse.org/?p=155).
 
 
 
@@ -109,9 +112,9 @@ For 10.3 we sat down and discussed how to improve the situation, in a reasonable
 ### Who else has been working on it?
 
 
-A lot of people have been involved in the project. Testsuite and solver development is lead by Stefan Schubert and Stefan Haas and recently also by Arvin Schnell. Jan Kupec and Martin Vidner hack on zypper. Thomas Göttlicher and Jörg Kress have fun with the notification applets. The YaST glue is maintaned by Ladislav Slezak. Katarina Machalkova, Stefan Hundhammer and Michael Meeks adapted the YaST user interfaces.
+A lot of people have been involved in the project. Testsuite and solver development is lead by Stefan Schubert and Stefan Haas and recently also by Arvin Schnell. Jan Kupec and Martin Vidner hack on zypper. Thomas GÃ¶ttlicher and JÃ¶rg Kress have fun with the notification applets. The YaST glue is maintaned by Ladislav Slezak. Katarina Machalkova, Stefan Hundhammer and Michael Meeks adapted the YaST user interfaces.
 
-Michael Andres and I were in charge of ZYpp library development. Dirk Müller gave us a hand with profiling and contributed some code. Benjamin Weber contributed the one-click-install feature. Jiri Srain, Edith Parzefall, Klaus Kämpf and Stanislav Visnovsky coordinated human and technical aspects so we could deliver. Those are the people who worked directly in the refactoring project, but still the success always depends on more actors, project managers, quality assurance, etc.
+Michael Andres and I were in charge of ZYpp library development. Dirk MÃ¼ller gave us a hand with profiling and contributed some code. Benjamin Weber contributed the one-click-install feature. Jiri Srain, Edith Parzefall, Klaus KÃ¤mpf and Stanislav Visnovsky coordinated human and technical aspects so we could deliver. Those are the people who worked directly in the refactoring project, but still the success always depends on more actors, project managers, quality assurance, etc.
 
 
 ### What kind of advantages does this package management have over the old, pre SUSE Linux 10.1, package management?
@@ -212,3 +215,5 @@ Mailing lists:
 
 
 ### Thanks!
+
+Prove yourself great employee by completion of 300-075 ccnp collaboration, in an unpredictable [pro-academic-writers.com](https://pro-academic-writers.com/) economy, companies always are searching for ways to reduce expenses

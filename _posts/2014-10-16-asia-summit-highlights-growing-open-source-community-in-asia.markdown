@@ -1,16 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-10-16 12:00:42+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/10/16/asia-summit-highlights-growing-open-source-community-in-asia/
-title: "Asia Summit  Highlights Growing Open Source Community in Asia"
+slug: asia-summit-highlights-growing-open-source-community-in-asia
+title: Asia Summit  Highlights Growing Open Source Community in Asia
+wordpress_id: 18639
 categories:
 - Summit
 ---
 
-
-[![opensuseasiasummit]({{ site.baseurl }}/assets/opensuseasiasummit-300x178.png)]({{ site.baseurl }}/assets/opensuseasiasummit.png)This weekend is the start of [openSUSE's first Asia Summit in Beijing](http://summit.opensuse.org/).
+[![opensuseasiasummit](/wp-content/uploads/2014/10/opensuseasiasummit.png)](/wp-content/uploads/2014/10/opensuseasiasummit.png)This weekend is the start of [openSUSE's first Asia Summit in Beijing](http://summit.opensuse.org/).
 
 
 
@@ -63,4 +64,4 @@ Members of the media are welcome to attend the summit and should email [opensuse
 Enjoy the Summit!
 
 
-		
+

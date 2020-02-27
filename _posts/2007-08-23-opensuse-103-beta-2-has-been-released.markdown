@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-08-23 13:02:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/23/opensuse-103-beta-2-has-been-released/
-title: "openSUSE 10.3 Beta 2 Has Been Released"
+slug: opensuse-103-beta-2-has-been-released
+title: openSUSE 10.3 Beta 2 Has Been Released
+wordpress_id: 155
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE Team is proud to announce the release of openSUSE 10.3 Beta 2. Though this release should not be used on any production machines, everyone can help shape this release by testing out installations and much more. For more information on the release schedule, take a look at the [Roadmap](http://en.opensuse.org/Roadmap/10.3).
 
 <!-- more -->
@@ -147,4 +150,4 @@ We have created Delta ISOs from openSUSE 10.3 Beta 1; please use them for downlo
 
 Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](http://lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 3 on Thursday, Sep 6.	
+The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 3 on Thursday, Sep 6. It is when having ccnp collaboration, 300-075 certification exam dumps, or more can mean the distinction between maintaining your job and having [pay for essays at https://essaydragon.com](https://essaydragon.com/) an opportunity to search for a new one

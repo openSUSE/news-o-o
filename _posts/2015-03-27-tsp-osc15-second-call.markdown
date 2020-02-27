@@ -1,17 +1,20 @@
 ---
 author: Izabel Valverde
+comments: false
 date: 2015-03-27 09:06:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/03/27/tsp-osc15-second-call/
-title: "TSP - oSC15 Second Call"
+slug: tsp-osc15-second-call
+title: TSP - oSC15 Second Call
+wordpress_id: 19135
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-![oSC15]({{ site.baseurl }}/assets/oSC15.jpg)The conference date is right around the corner. Part of schedule is out and the organization is running to have everything settled to host visitors and organize the best openSUSE conference ever.
+
+![oSC15](/wp-content/uploads/2015/02/oSC15.jpg)The conference date is right around the corner. Part of schedule is out and the organization is running to have everything settled to host visitors and organize the best openSUSE conference ever.
 
 You can still register to be part of the conference also apply for presentation.
 
@@ -21,7 +24,7 @@ But did you miss the first call of TSP? Are you still in dilemma? Go to the conf
 
 
 
-****![]({{ site.baseurl }}/assets/secondcall.jpg)****
+****![](/wp-content/uploads/2015/03/secondcall.jpg)****
 
 If you missed the first call, we will open the TSP tool to apply for sponshorship from today, March 27th until April 2nd. The results will be announced on April 6th and you have to accept the sponsorship until April 9th.
 
@@ -57,4 +60,4 @@ Remember:
 
 
 
-_We hope to see you there!!!_		
+_We hope to see you there!!!_

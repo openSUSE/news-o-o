@@ -1,17 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-02-05 17:54:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/02/05/kde-quickies-kde-401-opensuse-live-cd-new-kde-repository-layout/
-title: "KDE Quickies: KDE 4.0.1, openSUSE Live CD, New KDE Repository Layout\
-  "
+slug: kde-quickies-kde-401-opensuse-live-cd-new-kde-repository-layout
+title: 'KDE Quickies: KDE 4.0.1, openSUSE Live CD, New KDE Repository Layout'
+wordpress_id: 641
 categories:
 - Derivatives
 tags:
 - KDE
 ---
-
 
 ![](http://files.opensuse.org/opensuse/en/thumb/7/73/Kde-logo.jpg/170px-Kde-logo.jpg)
 
@@ -27,7 +27,7 @@ Just in time for the KDE 4.0.1 release, the openSUSE KDE team has updated the KD
 
 
 
-[![KDE Four Live]({{ site.baseurl }}/assets/kde4live-thumb.png)]({{ site.baseurl }}/assets/kde4live.png)
+[![KDE Four Live](/wp-content/uploads/2008/02/kde4live.png)](/wp-content/uploads/2008/02/kde4live.png)
 
 
 
@@ -43,4 +43,4 @@ There are: latest, stable and regularly updated KDE 4.0.x packages as well as ex
 
 Of course the _Backports_ and _KDE3_ repositories, which do not update any of your system libraries, are still available and will be extended even further in the near future.
 
-~ Dirk		
+~ Dirk

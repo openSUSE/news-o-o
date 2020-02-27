@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-10-22 15:21:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/10/22/development-release-opensuse-111-beta-3-now-available/
-title: "Development Release: openSUSE 11.1 Beta 3 Now Available"
+slug: development-release-opensuse-111-beta-3-now-available
+title: 'Development Release: openSUSE 11.1 Beta 3 Now Available'
+wordpress_id: 1055
 categories:
 - Announcements
 - Distribution
@@ -13,9 +15,10 @@ tags:
 - beta
 - opensuse 11.1
 ---
+
 The openSUSE Project is proud to announce the availability of beta 3 of the 11.1 release. It's a few days late, but much better for the delay. Beta 3 is now available for immediate download and testing.
 
-As mentioned on [news.opensuse.org](https://news.opensuse.org/2008/10/16/opensuse-111-beta3-delayed/), this release was [delayed significantly](http://lizards.opensuse.org/2008/10/22/why-do-we-release-opensuse-on-thursdays-or-why-do-we-slip/) by the power outage in Nuremberg over the weekend of October 11th.
+As mentioned on [news.opensuse.org](//news.opensuse.org/2008/10/16/opensuse-111-beta3-delayed/), this release was [delayed significantly](http://lizards.opensuse.org/2008/10/22/why-do-we-release-opensuse-on-thursdays-or-why-do-we-slip/) by the power outage in Nuremberg over the weekend of October 11th.
 
 **Important: Call for Testing**
 We all want openSUSE 11.1 to be the best release yet, and we need your help to get there. This release is ready for widespread testing, and we're encouraging everyone to download and test the beta release. Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a beta release, and is not suitable for use on production systems, however.
@@ -118,4 +121,4 @@ See http://en.opensuse.org/Mirror_Selection for a full list of mirrors. Note tha
 **Future Release Announcements**
 Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to Zonker ([zonker@opensuse.org](mailto:zonker@opensuse.org)) with any information that should be in that announcement. (Preferably at least two days before the scheduled release.
 
-Thanks, and have a lot of fun! Spezifisch wrde es heien ich mchte ab dem vierten [besuchen](https://ghostwritinghilfe.com/) ghostwriting monat 500 umsatz pro monat generieren		
+Thanks, and have a lot of fun! Spezifisch wrde es heien ich mchte ab dem vierten [besuchen](https://ghostwritinghilfe.com/) ghostwriting monat 500 umsatz pro monat generieren

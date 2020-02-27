@@ -1,13 +1,16 @@
 ---
-author: Heroes Team
+author: admin
+comments: true
 date: 2008-09-11 13:13:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/11/opensuse-110-survey-results/
-title: "openSUSE 11.0 Survey Results"
+slug: opensuse-110-survey-results
+title: openSUSE 11.0 Survey Results
+wordpress_id: 1011
 categories:
 - Project
 ---
+
 The openSUSE [survey results ](http://en.opensuse.org/Ux#Surveys)are out now. The survey we made in July/August time frame attracted over 12,000 participants. Here is a short summary on changes compared to the last one we did approximately 1 1/2 year ago with the openSUSE 10.2 release. The summary is in the same order as the questions are. 
 
 	
@@ -40,5 +43,4 @@ The openSUSE [survey results ](http://en.opensuse.org/Ux#Surveys)are out now. Th
 
 The things above are for us the most eye catching results. In general the results are pretty similar to the last survey.  For comparison you find the old survey on the [UX page](http://en.opensuse.org/UX). As you see those results - at least some times - open room for interpretation in one or the other direction. For feedback please use the opensuse-project mailing list.
 
-We want to thank all people participated at the survey and some of them will receive soon an openSUSE t-shirt or cap. 
-		
+We want to thank all people participated at the survey and some of them will receive soon an openSUSE t-shirt or cap.

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-03-13 06:17:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/03/13/opensuse-asia-summit-2018-call-for-host/
-title: "openSUSE.Asia Summit 2018: Call for Host"
+slug: opensuse-asia-summit-2018-call-for-host
+title: 'openSUSE.Asia Summit 2018: Call for Host'
+wordpress_id: 20767
 categories:
 - Announcements
 - Conference
@@ -20,7 +22,8 @@ tags:
 - openSUSE.Asia Summit
 - proposal
 ---
-![]({{ site.baseurl }}/assets/osas18.png)The openSUSE.Asia organization committee is accepting proposals to host the openSUSE.Asia Summit during the second half of 2018. The openSUSE.Asia Summit is the largest annual openSUSE conference in Asia, attended by contributors and enthusiasts from all over Asia.
+
+![](/wp-content/uploads/2018/03/osas18.png)The openSUSE.Asia organization committee is accepting proposals to host the openSUSE.Asia Summit during the second half of 2018. The openSUSE.Asia Summit is the largest annual openSUSE conference in Asia, attended by contributors and enthusiasts from all over Asia.
 
 The event focuses primarily on the openSUSE distribution, its applications for personal and enterprise use, and open source culture. It brings together the openSUSE community in Asia to provide a forum for users, developers, foundation leaders, governments and businesses to discuss the present technology and future developments.
 
@@ -190,4 +193,4 @@ Key points proposals should consider, and what will be taken into account when d
   11. Conclusion
 
 
-Feel free to contact [opensuse-summit@opensuse.org](mailto:opensuse-summit@opensuse.org) if you have any questions. If this excites you enough, but you are still not sure, we should talk and see if we can solve your doubts. Please help to spread the words and we are looking forward to hearing from you soon!		
+Feel free to contact [opensuse-summit@opensuse.org](mailto:opensuse-summit@opensuse.org) if you have any questions. If this excites you enough, but you are still not sure, we should talk and see if we can solve your doubts. Please help to spread the words and we are looking forward to hearing from you soon!

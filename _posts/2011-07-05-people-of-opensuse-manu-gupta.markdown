@@ -1,26 +1,101 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-07-05 16:54:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/07/05/people-of-opensuse-manu-gupta/
-title: "People of openSUSE: Manu Gupta"
+slug: people-of-opensuse-manu-gupta
+title: 'People of openSUSE: Manu Gupta'
+wordpress_id: 9550
 categories:
 - People of openSUSE
 ---
 
-|||
-|--- |--- |
-|**Nickname:**|manugupt1 over www and Manu in the real world|
-|**Homepage:**||
-|**Blog:**|[Http://sysbytes.wordpress.com](http://sysbytes.wordpress.com/)|
-|||
-|**Favorite season:**|Monsoon|
-|**Motto:**|Live life with jest|
-|||
+
+<table cellpadding="2" width="643" cellspacing="0" > 
+<tbody >
+<tr >
+
+<td width="105" >**Nickname:**
+</td>
+
+<td width="520" >manugupt1 over www and Manu in the real world
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Homepage: **
+</td>
+
+<td width="520" >
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Blog:**
+</td>
+
+<td width="520" >[Http://sysbytes.wordpress.com](http://sysbytes.wordpress.com/)
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >
+</td>
+
+<td width="520" >
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Favorite season:**
+</td>
+
+<td width="520" >Monsoon
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Motto:**
+</td>
+
+<td width="520" >Live life with jest
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >
+</td>
+
+<td width="520" >
+</td>
+
+<td width="5" >
+</td>
+</tr>
+</tbody>
+</table>
 
 
-<!-- more -->
+#### <!-- more -->
 
 
 
@@ -85,7 +160,7 @@ We need a tighter integration with media codecs. Rest all works like a charm.
 #### What do you think the future holds for the openSUSE project? And your future at the project?
 
 
-openSUSE has got a wonderful future. I don™t know about my future at the project but definitely like to keep it the way as it is now.
+openSUSE has got a wonderful future. I donâ€™t know about my future at the project but definitely like to keep it the way as it is now.
 
 
 #### A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?
@@ -106,7 +181,7 @@ Sankar P, Vincent Untz, Bharath Acaharya, Akhil Ladha and a lot of the people fr
 Well none, because of GNOME 3, otherwise there would have been plenty
 
 
-#### What is the application you can™t live without? And why?
+#### What is the application you canâ€™t live without? And why?
 
 
 Firefox, I spend a lot of time over the net
@@ -136,7 +211,7 @@ Linus
 Packaging
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I will move out, and read some books, hang out with friends.
@@ -181,16 +256,16 @@ I prefer to stay at home as this is my only time when I meet my family.
 #### Image you would win the GSoC! What would you do? Would you stay with openSUSE? 
 
 
-I don™t know what I am going to with that amount of money not decided yet. Yes I will stay with openSUSE
+I donâ€™t know what I am going to with that amount of money not decided yet. Yes I will stay with openSUSE
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 I do not prefer time travel :) but maybe this openSUSE Conference if I get to it.
 
 
-#### There™s a thunderstorm outside ” do you turn off your computer?
+#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
 
 
 Naa. Why would I do that?
@@ -205,10 +280,10 @@ My friends always call me up :)
 #### Show us a picture of something, you have always wanted to share!
 
 
-I don™t have one such photo yet
+I donâ€™t have one such photo yet
 
 
-#### You couldn™t live without¦
+#### You couldnâ€™t live withoutâ€¦
 
 
 My family, friends, a computer and a lot of other things
@@ -223,4 +298,4 @@ This one among the other hard ones
 #### What other question would you like to answer? And what would you answer?
 
 
-None :)		
+None :)

@@ -1,13 +1,16 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-12-24 19:59:14+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/24/weekly-news-team-searches-for-new-contributor/
-title: "Weekly News Team searches for new Contributors"
+slug: weekly-news-team-searches-for-new-contributor
+title: Weekly News Team searches for new Contributors
+wordpress_id: 6035
 categories:
 - Weekly News
 ---
+
 ![](http://images.pixelio.de/data/media/51/sterre_22_wr_Large.jpg)
 Hello Mates.
 
@@ -47,4 +50,4 @@ What do you need to work on the English newsletter? The ability to read and writ
 
 If you're interested in helping us, just send a Mail to:[ saigkill@opensuse.org](mailto:saigkill@opensuse.org)
 
-Last but not least the openSUSE Weekly News team including the translations teams for Hungarian, Greek and Japanese wishe merry Christmas to all people across the world!		
+Last but not least the openSUSE Weekly News team including the translations teams for Hungarian, Greek and Japanese wishe merry Christmas to all people across the world!

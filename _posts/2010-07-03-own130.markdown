@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-07-03 18:40:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/07/03/own130/
-title: "openSUSE Weekly News, Issue 130 is out!"
+slug: own130
+title: openSUSE Weekly News, Issue 130 is out!
+wordpress_id: 3656
 categories:
 - Weekly News
 tags:
@@ -13,7 +15,6 @@ tags:
 - testing
 - Weekly News
 ---
-
 
 
 
@@ -49,19 +50,19 @@ We are pleased to Announce our new openSUSE Weekly News, Issue 130!
 
 
 	
-  * [ Prepare for Landing - openSUSE 11.3 RC2 is now available!](https://news.opensuse.org/2010/07/03/own130#openSUSE_checking_instrumentation_.E2.80.94_Prepare_for_Landing_.E2.80.94_openSUSE_11.3_RC2_now_available.21)
+  * [ Prepare for Landing - openSUSE 11.3 RC2 is now available!](http://news.opensuse.org/2010/07/03/own130#openSUSE_checking_instrumentation_.E2.80.94_Prepare_for_Landing_.E2.80.94_openSUSE_11.3_RC2_now_available.21)
 
 	
-  * [ KDE SC 4.5 rc1 available for openSUSE](https://news.opensuse.org/2010/07/03/own130#Raymond_Wooninck:_KDE_SC_4.5_rc1_available_for_openSUSE)
+  * [ KDE SC 4.5 rc1 available for openSUSE](http://news.opensuse.org/2010/07/03/own130#Raymond_Wooninck:_KDE_SC_4.5_rc1_available_for_openSUSE)
 
 	
-  * [ Women of openSUSE](https://news.opensuse.org/2010/07/03/own130#Women_of_openSUSE)
+  * [ Women of openSUSE](http://news.opensuse.org/2010/07/03/own130#Women_of_openSUSE)
 
 	
-  * [ Weekly Kernel Review with openSUSE Flavor](https://news.opensuse.org/2010/07/03/own130#Rares_Aioanei:_Weekly_Kernel_Review_with_openSUSE_Flavor)
+  * [ Weekly Kernel Review with openSUSE Flavor](http://news.opensuse.org/2010/07/03/own130#Rares_Aioanei:_Weekly_Kernel_Review_with_openSUSE_Flavor)
 
 	
-  * [ K3b 2.0 released](https://news.opensuse.org/2010/07/03/own130#K3b_2.0_released)
+  * [ K3b 2.0 released](http://news.opensuse.org/2010/07/03/own130#K3b_2.0_released)
 
 
 
@@ -94,46 +95,46 @@ We are pleased to Announce our new openSUSE Weekly News, Issue 130!
 
 
 	
-  * [ Announcements](https://news.opensuse.org/2010/07/03/own130#Announcements)
+  * [ Announcements](http://news.opensuse.org/2010/07/03/own130#Announcements)
 
 	
-  * [ Status Updates](https://news.opensuse.org/2010/07/03/own130#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/2010/07/03/own130#Status_Updates)
 
 	
-  * [ Team Reports](https://news.opensuse.org/2010/07/03/own130#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/2010/07/03/own130#Team_Reports)
 
 	
-  * [ In the Community](https://news.opensuse.org/2010/07/03/own130#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/2010/07/03/own130#In_the_Community)
 
 	
-  * [ New Applications](https://news.opensuse.org/2010/07/03/own130#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/2010/07/03/own130#New.2FUpdated_Applications_.40_openSUSE)
 
 	
-  * [ Security Updates](https://news.opensuse.org/2010/07/03/own130#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/2010/07/03/own130#Security_Updates)
 
 	
-  * [ Kernel Review](https://news.opensuse.org/2010/07/03/own130#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/2010/07/03/own130#Kernel_Review)
 
 	
-  * [ Tips and Tricks](https://news.opensuse.org/2010/07/03/own130#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/2010/07/03/own130#Tips_and_Tricks)
 
 	
-  * [ Planet SUSE](https://news.opensuse.org/2010/07/03/own130#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/2010/07/03/own130#Planet_SUSE)
 
 	
-  * [ openSUSE Forums](https://news.opensuse.org/2010/07/03/own130#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/2010/07/03/own130#openSUSE_Forums)
 
 	
-  * [ On the Web](https://news.opensuse.org/2010/07/03/own130#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/2010/07/03/own130#On_the_Web)
 
 	
-  * [ Contact us](https://news.opensuse.org/2010/07/03/own130#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/2010/07/03/own130#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 	
-  * [ Credits](https://news.opensuse.org/2010/07/03/own130#Credits)
+  * [ Credits](http://news.opensuse.org/2010/07/03/own130#Credits)
 
 	
-  * [ Translations](https://news.opensuse.org/2010/07/03/own130#Translations)
+  * [ Translations](http://news.opensuse.org/2010/07/03/own130#Translations)
 
 
 
@@ -214,14 +215,14 @@ That was all for this Issue's Editors Note...
 <td >
 
 
-#### [openSUSE checking instrumentation ” Prepare for Landing ”  openSUSE 11.3 RC2 now available!](../2010/07/01/opensuse-checking-instrumentation-prepare-for-landing-opensuse-11-3-rc2-now-available/)
+#### [openSUSE checking instrumentation â€” Prepare for Landing â€”  openSUSE 11.3 RC2 now available!](../2010/07/01/opensuse-checking-instrumentation-prepare-for-landing-opensuse-11-3-rc2-now-available/)
 
 
 
 
-     "Following up on Michael Loeffler™s previous RC1 announcement,  openSUSE is now doing a final check of instrumentation before landing.   The weather continues to be clear and all conditions continue to be  smooth, and all systems are a go for final landing on July 15, 2010.   Now™s the time for us all to download the latest openSUSE RC2 release  and all join in on a final check and get that 11.3 polished and in good  condition.  You can download RC2 from our software portal and find  detailed information on the evolving openSUSE 11.3 page. 
+     "Following up on Michael Loefflerâ€™s previous RC1 announcement,  openSUSE is now doing a final check of instrumentation before landing.   The weather continues to be clear and all conditions continue to be  smooth, and all systems are a go for final landing on July 15, 2010.   Nowâ€™s the time for us all to download the latest openSUSE RC2 release  and all join in on a final check and get that 11.3 polished and in good  condition.  You can download RC2 from our software portal and find  detailed information on the evolving openSUSE 11.3 page. 
      You can find our most annoying bugs here.  And if you find  anything new, please do report it on Bugzilla.  The ground crew needs  your reports! 
-     Have a lot of fun and let™s get to downloading!  They™re  waiting to greet us at the terminal." 
+     Have a lot of fun and letâ€™s get to downloading!  Theyâ€™re  waiting to greet us at the terminal." 
 
 
 
@@ -246,12 +247,12 @@ That was all for this Issue's Editors Note...
 
 
 
-#### [openSUSE Forums “ vBulletin Upgrade Complete](../2010/07/01/opensuse-forums-vbulletin-upgrade-complete/)
+#### [openSUSE Forums â€“ vBulletin Upgrade Complete](../2010/07/01/opensuse-forums-vbulletin-upgrade-complete/)
 
 
 
 
-    "The vBulletin software that is the ˜Nuts and Bolts™ behind the  openSUSE Forum has just undergone a major upgrade from v3 to v4. This  resulted in some considerable down time on 30 June 2010. However, the  results are impressive and openSUSE Forums now has a completely new  look. It™s more than that though, the upgrade adds a much improved look  and feel. The Forum Team expect some teething problems, as well as much  discussion and opinion about the change. As far as changes go, I™d put  this on a par with the kde move from 3 to 4. The dust will settle soon  enough. Be assured the Forum Staff will be ready and willing to offer  advice and assistance relating to this and of course normal help/advice  with openSUSE." 
+    "The vBulletin software that is the â€˜Nuts and Boltsâ€™ behind the  openSUSE Forum has just undergone a major upgrade from v3 to v4. This  resulted in some considerable down time on 30 June 2010. However, the  results are impressive and openSUSE Forums now has a completely new  look. Itâ€™s more than that though, the upgrade adds a much improved look  and feel. The Forum Team expect some teething problems, as well as much  discussion and opinion about the change. As far as changes go, Iâ€™d put  this on a par with the kde move from 3 to 4. The dust will settle soon  enough. Be assured the Forum Staff will be ready and willing to offer  advice and assistance relating to this and of course normal help/advice  with openSUSE." 
 </td>
 </tr>
 </tbody>
@@ -403,7 +404,7 @@ The numbers for all openSUSE project products are this week:
 
 
 
-     "Release fast, release early. That is what I am trying this  time so don™t get too excited. I only added one feature. Yes one. 
+     "Release fast, release early. That is what I am trying this  time so donâ€™t get too excited. I only added one feature. Yes one. 
      You can list the pending submit requests related to you.  Nothing else. And not with a very pretty layoutÂ :-) but it will get  better. 
      However, I have an infrastructure in place that will allow me  to consume the API very easily, and I will push new versions every time I  add something." 
 
@@ -415,7 +416,7 @@ The numbers for all openSUSE project products are this week:
 
 
      "The build service (and any other of openSUSE infrastructure  software using RoR) is using rails 2.3.5, because we once decided to  harmonize on the version of SLE11 SP1. Of course the latest version has  less bugs (usually), but mixing RoR versions between different  developers and deployment is a nightmare, so we had to decide on one. 
-     Now comes the catch: 11.3 has rails 2.3.8 and as such you  can™t develop the build service on factory/11.3 as is. But the good  news, openSUSE:Tools has all the right versions, so you can add the repo  (zypper ar -r [http://r.opensu.se/openSUSE:Tools/f/r](http://r.opensu.se/openSUSE:Tools/f/r)) and then  install zypper in -f rubygem-rack-1.0.1 rubygem-activesupport-2_3-2.3.5" 
+     Now comes the catch: 11.3 has rails 2.3.8 and as such you  canâ€™t develop the build service on factory/11.3 as is. But the good  news, openSUSE:Tools has all the right versions, so you can add the repo  (zypper ar -r [http://r.opensu.se/openSUSE:Tools/f/r](http://r.opensu.se/openSUSE:Tools/f/r)) and then  install zypper in -f rubygem-rack-1.0.1 rubygem-activesupport-2_3-2.3.5" 
 
 
 
@@ -488,7 +489,7 @@ The numbers for all openSUSE project products are this week:
 
 
      "Since yesterday evening the openSUSE KDE4:Unstable  repositories contains the KDE SC 4.5 rc1 packages. Also the special  repository that contains KDEPIM 4.5 snapshots, was updated to a version  that seems to work pretty well. 
-     I am not using IMAP, so I can™t comment on it™s status. But  the POP accounts are working very well and also filtering is active. At  least it allowed me to move away again from Thunderbird to this Kmail v2  solution. A very good job done by the KDEPIM developers!!" 
+     I am not using IMAP, so I canâ€™t comment on itâ€™s status. But  the POP accounts are working very well and also filtering is active. At  least it allowed me to move away again from Thunderbird to this Kmail v2  solution. A very good job done by the KDEPIM developers!!" 
 
 
 
@@ -497,8 +498,8 @@ The numbers for all openSUSE project products are this week:
 
 
 
-     "There was not much to report last week thus I skipped the blog  post.  No issues with KDE and no IRC meeting either. This week™s IRC  meeting took quite long since we had to discuss the KDE repository  reorganisation. We did not finish yet but decisions already taken will  be posted to the opensuse-kde@ mailinglist soon. 
-     IMHO renaming URLs will not solve the issue of users getting  their information off some forum and mailinglists and thus ending-up  with a wild mix of Qt and KDE repos and wondering why their KDE repo  suddenly becomes WIP since they are using Factory. Although everything  is written out nicely on the openSUSE wiki, most people still did not  get the different usage of the term STABLE within the last years. The  STABLE repo always contained the packages released with the last  openSUSE version plus official openSUSE updates, i.e. stable openSUSE  KDE rather than stable KDE for openSUSE. Hence I prefer a GUI that  explains everything to and handles repos for the user, keeping him away  from URLs." 
+     "There was not much to report last week thus I skipped the blog  post.  No issues with KDE and no IRC meeting either. This weekâ€™s IRC  meeting took quite long since we had to discuss the KDE repository  reorganisation. We did not finish yet but decisions already taken will  be posted to the opensuse-kde@ mailinglist soon. 
+     IMHO renaming URLs will not solve the issue of users getting  their information off some forum and mailinglists and thus ending-up  with a wild mix of Qt and KDE repos and wondering why their KDE repo  suddenly becomes WIP since they are using Factory. Although everything  is written out nicely on the openSUSE wiki, most people still did not  get the different usage of the term STABLE within the last years. The  STABLE repo always contained the packages released with the last  openSUSE version plus official openSUSE updates, i.e. â€œstable openSUSE  KDEâ€ rather than â€œstable KDE for openSUSEâ€. Hence I prefer a GUI that  explains everything to and handles repos for the user, keeping him away  from URLs." 
 </td>
 </tr>
 </tbody>
@@ -738,7 +739,7 @@ The numbers for all openSUSE project products are this week:
   * Daily updated translation statistics are available on the [openSUSE Localization  Portal](http://i18n.opensuse.org/).
 
 	
-  * [Trunk  Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization  Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk  Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization  Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 
@@ -809,7 +810,7 @@ The numbers for all openSUSE project products are this week:
 
      "It's finally time to talk about LinuxTag 2010. It was my third  time there, and this year was the best so far, at least for me! And  that's most probably because of how amazing our openSUSE booth turned  out to be! Or maybe it's because of the invasion of the Geekos? 
      **openSUSE Booth**
-     We certainly didn't have a big slot for out booth, but oh  boy... it ended up big! Our booth was always filled with people, who, I  guess, got attracted by the touchscreens we have. But attracting people  is of no good if you can't get them interested. We did various demos on  the touchscreens, but our small secret ingredient were the workshops:  four times a day (and sometimes even more), people could sit down in our  booth to participate in a session on various topics ” those ranged from  learning Inkscape, to creating your first package in the Build Service,  via playing together with GNOME Shell. That really worked out well,  especially at it helps getting the visitors more involved in the  discussion." 
+     We certainly didn't have a big slot for out booth, but oh  boy... it ended up big! Our booth was always filled with people, who, I  guess, got attracted by the touchscreens we have. But attracting people  is of no good if you can't get them interested. We did various demos on  the touchscreens, but our small secret ingredient were the workshops:  four times a day (and sometimes even more), people could sit down in our  booth to participate in a session on various topics â€” those ranged from  learning Inkscape, to creating your first package in the Build Service,  via playing together with GNOME Shell. That really worked out well,  especially at it helps getting the visitors more involved in the  discussion." 
 
 
 
@@ -867,7 +868,7 @@ Upcoming:
   * You can find more informations on other events at:
 
 	
-    * [openSUSE News/Events](../category/events/) “ [Local  events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
+    * [openSUSE News/Events](../category/events/) â€“ [Local  events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
 
 
 
@@ -1042,7 +1043,7 @@ psycho acoustics, noise shaping and speed of MP3.
   * You can find other interesting Packages at:
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1299,7 +1300,7 @@ psycho acoustics, noise shaping and speed of MP3.
 
 
 
-#### [The Geek Stuff/Sasikala: Keeping You in the Loop “ Bash  For, While, Until Loop Examples](http://www.thegeekstuff.com/2010/06/bash-for-while-until-loop-examples)
+#### [The Geek Stuff/Sasikala: Keeping You in the Loop â€“ Bash  For, While, Until Loop Examples](http://www.thegeekstuff.com/2010/06/bash-for-while-until-loop-examples)
 
 
 
@@ -1316,12 +1317,12 @@ psycho acoustics, noise shaping and speed of MP3.
 
 
 
-#### [Coly  Li: Random I/O ” Is raw device always faster than file systemÂ ?](http://blog.coly.li/?p=87)
+#### [Coly  Li: Random I/O â€” Is raw device always faster than file systemÂ ?](http://blog.coly.li/?p=87)
 
 
 
 
-     "For some implementations of distributed file systems, like TFS  [1], developers think storing data on raw device directly (e.g.  /dev/sdb, /dev/sdc¦) might be faster than on file systems. 
+     "For some implementations of distributed file systems, like TFS  [1], developers think storing data on raw device directly (e.g.  /dev/sdb, /dev/sdcâ€¦) might be faster than on file systems. 
      Their choice is reasonable, 
      1, Random I/O on large file cannot get any help from file  system page cache. 
      2, <logical offset, physical offset> mapping introduces  more I/O on file systems than on raw disk 
@@ -1368,12 +1369,12 @@ psycho acoustics, noise shaping and speed of MP3.
 <td >
 
 
-#### [Sebastian Kügler: Surely, I™m going to Akademy, too!](http://vizzzion.org/blog/2010/06/surely-im-going-to-akademy-too/)
+#### [Sebastian KÃ¼gler: Surely, Iâ€™m going to Akademy, too!](http://vizzzion.org/blog/2010/06/surely-im-going-to-akademy-too/)
 
 
 
 
-     "I™m on the first leg of my trip back to the Netherlands right  now. I™ve spent a couple of days in Bretagne, France to celebrate the  marriage of a close friend, who asked me to be his best man. The  celebrations, which lasted for three days were terrific, but also pretty  tiring as you don™t get to spend much time just by yourself. The main  celebration was held in the "ridiculously beautiful" Chateau Domaine de  la Bretesche, and in Pornichet, the home of the bride. I™m returning to  the Netherlands right now, for three days of desk time (needed to  prepare my Akademy talk and to get some last minute work done on the  impending openSUSE 11.3 release). On Friday, I™ll be boarding a flight  to Helsinki and then on to Tampere to take part in my fifth Akademy." 
+     "Iâ€™m on the first leg of my trip back to the Netherlands right  now. Iâ€™ve spent a couple of days in Bretagne, France to celebrate the  marriage of a close friend, who asked me to be his best man. The  celebrations, which lasted for three days were terrific, but also pretty  tiring as you donâ€™t get to spend much time just by yourself. The main  celebration was held in the "ridiculously beautiful" Chateau Domaine de  la Bretesche, and in Pornichet, the home of the bride. Iâ€™m returning to  the Netherlands right now, for three days of desk time (needed to  prepare my Akademy talk and to get some last minute work done on the  impending openSUSE 11.3 release). On Friday, Iâ€™ll be boarding a flight  to Helsinki and then on to Tampere to take part in my fifth Akademy." 
 
 
 
@@ -1382,8 +1383,8 @@ psycho acoustics, noise shaping and speed of MP3.
 
 
 
-     "A discussion has popped up on the KOffice-Devel list as to  whether to discontinue the user-oriented KOffice mailing list. Some  developers are wondering whether it™s worth it to keep this admittedly  low-traffic list going. The main argument being that if people aren™t  using the list now, the few questions that do get asked may not be  getting the attention they deserve. 
-     I have an opinion on the subject, but I™m not sure that™s all  that important.Â : As a technical communicator, what I™m interested in is  how others learn about and solve problems with their software,  particularly in the open source arena. KOffice doesn™t have the mind  share and user base that other open source productivity suites (OK, I  mean OpenOffice.org) have, but are there channels today™s Linux geek and  her grandma use to get support for their software. There are lots of  choices, and it would be interesting and helpful to me, the KOffice and  KDE teams to learn those preferences." 
+     "A discussion has popped up on the KOffice-Devel list as to  whether to discontinue the user-oriented KOffice mailing list. Some  developers are wondering whether itâ€™s worth it to keep this admittedly  low-traffic list going. The main argument being that if people arenâ€™t  using the list now, the few questions that do get asked may not be  getting the attention they deserve. 
+     I have an opinion on the subject, but Iâ€™m not sure thatâ€™s all  that important.Â : As a technical communicator, what Iâ€™m interested in is  how others learn about and solve problems with their software,  particularly in the open source arena. KOffice doesnâ€™t have the mind  share and user base that other open source productivity suites (OK, I  mean OpenOffice.org) have, but are there channels todayâ€™s Linux geek and  her grandma use to get support for their software. There are lots of  choices, and it would be interesting and helpful to me, the KOffice and  KDE teams to learn those preferences." 
 
 
 
@@ -1537,7 +1538,7 @@ psycho acoustics, noise shaping and speed of MP3.
 
 
 
-     "Today the reformed K3b team within the KDE Community is proud  to release the final 2.0 of the premier disk recording application,  codenamed Komeback. Although pre-release versions have already enjoyed  widespread adoption, we'd like to recap some of the highlights of this  release. 
+     "Today the reformed K3b team within the KDE Community is proud  to release the final 2.0 of the premier disk recording application,  codenamed â€œKomebackâ€. Although pre-release versions have already enjoyed  widespread adoption, we'd like to recap some of the highlights of this  release. 
      (...) 
      With a few exceptions, K3b keeps feature-parity with 1.0.x  series, but it also introduces a number of new features. Perhaps the  biggest among these is support for Blu-ray drives. Additionally a lot of  work have been put into improving the overall user experience. Some  work-flows have been merged abstracting it for all kinds of media." 
 
@@ -1639,10 +1640,10 @@ psycho acoustics, noise shaping and speed of MP3.
 <td >[![](http://wiki.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://wiki.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td >Do  you have comments on any of the things mentioned in this article? Then  head right over to the [comment section](https://news.opensuse.org/p=3656) and let us know!
+<td >Do  you have comments on any of the things mentioned in this article? Then  head right over to the [comment section](http://news.opensuse.org/p=3656) and let us know!
 Or if you would  like to be part of the [openSUSE:Weekly news team](http://wiki.opensuse.org/openSUSE:Weekly_news_team) then  check out our team page and join!
 Or Communicate with or get help  from the wider openSUSE community -- via IRC, forums, or mailing lists  -- see [Communicate](http://wiki.opensuse.org/openSUSE:Support_channels).
-[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the  openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](../category/weekly-news/feed/)
+[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the  openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](../category/weekly-news/feed/)
 </td>
 </tr>
 </tbody>
@@ -1679,7 +1680,7 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
   * [saigkill](http://wiki.opensuse.org/User:Saigkill) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Saigkill&action=edit&redlink=1) -  [Contributions](http://wiki.opensuse.org/Special:Contributions/saigkill) Sascha  Manns (Editor in Chief)
 
 	
-  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian  Schöbinger (Tips/Tricks)
+  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian  SchÃ¶binger (Tips/Tricks)
 
 	
   * [HeliosReds](http://wiki.opensuse.org/User:HeliosReds) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru  Matsumoto (Editorial Office)
@@ -1688,7 +1689,7 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
   * [Caf4926](http://wiki.opensuse.org/User:Caf4926) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Caf4926) Carl  Fletcher (Main-Newsletter, Forums Sec.)
 
 	
-  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas  Hofstätter (Events & Meetings)
+  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas  HofstÃ¤tter (Events & Meetings)
 
 	
   * add translators
@@ -1740,7 +1741,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/130)
 
 	
-  * [æ—¥ æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/130)
+  * [æ—¥ æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/130)
 
 	
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/130)
@@ -1777,4 +1778,4 @@ Delayed / to be translated:
 </td>
 </tr>
 </tbody>
-</table>		
+</table>

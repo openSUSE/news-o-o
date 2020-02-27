@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2016-12-02 17:35:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/12/02/opensuse-heroes-meeting-day-1/
-title: "openSUSE Heroes meeting, day 1"
+slug: opensuse-heroes-meeting-day-1
+title: openSUSE Heroes meeting, day 1
+wordpress_id: 20203
 categories:
 - Infrastructure
 - Mentoring
@@ -14,9 +16,10 @@ tags:
 - Infrastructure
 - meeting
 ---
+
 Some of the openSUSE Heroes decided during the last openSUSE Conference that it's time for more face to face meetings to "get things done" and "work together"...
 
-({{ site.baseurl }}/assets/Team_discussing.png) Picture from the meeting with some openSUSE Heroes discussing
+[caption id="attachment_20204" align="aligncenter" width="583"][![Picture from the meeting with some openSUSE Heroes discussing](/wp-content/uploads/2016/12/Team_discussing.png)](/wp-content/uploads/2016/12/Team_discussing.png) Picture from the meeting with some openSUSE Heroes discussing[/caption]
 
 So starting today, some openSUSE Heroes started to spend the first December weekend in the SUSE Headquarter in Nuremberg. And they really have a lot to do, as you might imagine! That might be the reason why some of them started at 02:00 in the night to arrive at 07:00 in Nuremberg...
 
@@ -32,7 +35,7 @@ Starting with a personal introduction round (were they found out that we assimil
  	
   * discuss about the next steps for the openSUSE Cloud in Provo
 
-({{ site.baseurl }}/assets/Cloud_Overview.png) Quick draw of the SUSE Cloud setup for openSUSE.
+[caption id="attachment_20206" align="aligncenter" width="300"][![Pencil painting of the SUSE Cloud network structure](/wp-content/uploads/2016/12/Cloud_Overview.png)](/wp-content/uploads/2016/12/Cloud_Overview.png) Quick draw of the SUSE Cloud setup for openSUSE.[/caption]
 
  	
   * discuss about handling content in the openSUSE Wiki
@@ -47,4 +50,4 @@ Starting with a personal introduction round (were they found out that we assimil
   * while we were talking about the tickets, we moved over to the documentation part and started to work on the Wiki pages
 
 
-A first - very rogue copy - of our internal minutes can be found on our [mailing list](https://lists.opensuse.org/heroes/2016-12/msg00001.html).		
+A first - very rogue copy - of our internal minutes can be found on our [mailing list](https://lists.opensuse.org/heroes/2016-12/msg00001.html).

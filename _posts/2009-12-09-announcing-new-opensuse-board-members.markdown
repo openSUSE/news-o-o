@@ -1,14 +1,17 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2009-12-09 16:22:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/12/09/announcing-new-opensuse-board-members/
-title: "Announcing New openSUSE Board Members"
+slug: announcing-new-opensuse-board-members
+title: Announcing New openSUSE Board Members
+wordpress_id: 2603
 categories:
 - Announcements
 - Project
 ---
+
 The election committee announces the three new members of the [openSUSE board](http://en.opensuse.org/Board):
 
 
@@ -20,7 +23,7 @@ The election committee announces the three new members of the [openSUSE board](h
   * Pavol Rusnak (Novell seat)
 
 	
-  * Rupert Horstkötter (non-Novell seat)
+  * Rupert HorstkÃ¶tter (non-Novell seat)
 
 
 These three will serve two-year terms beginning on December 22nd.
@@ -34,7 +37,7 @@ Stephen Shaw and Bryen Yunashko have completed their terms on the Board. In addi
   * Henne Vogelsang
 
 	
-  * Michael Löffler (chair)
+  * Michael LÃ¶ffler (chair)
 
 	
   * Pascal Bleser
@@ -43,7 +46,7 @@ Stephen Shaw and Bryen Yunashko have completed their terms on the Board. In addi
   * Pavol Rusnak
 
 	
-  * Rupert Horstkötter
+  * Rupert HorstkÃ¶tter
 
 
 The election committee wants to thank Stephen Shaw for his tenure on the board and the new board members Bryen, Rupert and Pavol for stepping up and volunteering to serve on the openSUSE board.
@@ -53,4 +56,4 @@ To get in touch with the board send an email to board@opensuse.org.
 The next board election will be starting October 2010.
 
 Andreas Jaeger
-Member of the openSUSE Election Committee		
+Member of the openSUSE Election Committee

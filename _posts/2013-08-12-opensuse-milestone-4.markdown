@@ -1,15 +1,18 @@
 ---
-author: Andres Betts
+author: anditosan
+comments: true
 date: 2013-08-12 11:47:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/08/12/opensuse-milestone-4/
-title: "openSUSE Milestone 4"
+slug: opensuse-milestone-4
+title: openSUSE Milestone 4
+wordpress_id: 16666
 categories:
 - Announcements
 - Distribution
 ---
-[![128px-Icon-yast]({{ site.baseurl }}/assets/128px-Icon-yast.png)]({{ site.baseurl }}/assets/128px-Icon-yast.png)
+
+[![128px-Icon-yast](//news.opensuse.org/wp-content/uploads/2013/08/128px-Icon-yast.png)](//news.opensuse.org/wp-content/uploads/2013/08/128px-Icon-yast.png)
 openSUSE Milestone 4, and final Milestone before starting the Beta process, is out for everyone to test. The process has worked out normally and although this Milestone came a few hours after it was planned, the process remains steady.Â openSUSE 13.1 is expected to be released in November of 2013 just in time for our second annual [openSUSE Summit](http://summit.opensuse.org). The summit will provide an excellent opportunity for you to meet the people who took your contributions and made them part of the final openSUSE product. There will be plenty to talk about and it is also a good opportunity for you to present on what your worked on for 13.1. Do not miss the fun!<!-- more -->
 
 
@@ -84,4 +87,4 @@ As part of a global community effort, our distribution depends on the generous w
 
 Organize a "hackathon" meeting in your local community. Provide refreshments and a good environment in which you and your friends can get together to work on bugs, features and changes to the distribution. Once this process is done and you are ready to submit your changes, or the changes that your friends helped you create, follow the guidelines for [this article](http://https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/) in order to have our team review your changes and include them. Please note that the article referenced before is geared towards openSUSE 12.1. However, this process remains the same for all our releases, therefore you can be sure that the information about submitting your changes is accurate and valuable.
 
-Even if you cannot program but would like to contribute in any way possible to make openSUSE great, you can participate too. There are still many opportunities that can involve you and make you part of a global Linux community. Our "[How to Contribute](https://en.opensuse.org/Portal:How_to_participate#Develop_it)" page has a few ideas that can guide into taking your first steps into participating with us. Surely, the more Linux enthusiasts willing to participate, the better and openSUSE welcomes them.		
+Even if you cannot program but would like to contribute in any way possible to make openSUSE great, you can participate too. There are still many opportunities that can involve you and make you part of a global Linux community. Our "[How to Contribute](https://en.opensuse.org/Portal:How_to_participate#Develop_it)" page has a few ideas that can guide into taking your first steps into participating with us. Surely, the more Linux enthusiasts willing to participate, the better and openSUSE welcomes them.

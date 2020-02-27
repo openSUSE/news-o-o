@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-01-18 09:24:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/18/cpanel-provides-project-with-network-cards/
-title: "cPanel Provides Project with Network Cards"
+slug: cpanel-provides-project-with-network-cards
+title: cPanel Provides Project with Network Cards
+wordpress_id: 20618
 categories:
 - Announcements
 - Build Service
@@ -19,6 +21,7 @@ tags:
 - opensuse
 - openSUSE Heroes
 ---
+
 ![](https://upload.wikimedia.org/wikipedia/commons/3/35/Obs-logo.png)The hosting platform [cPanel](https://cpanel.com/) has provided the [openSUSE](https://www.opensuse.org/) Project with two new network cards to assist the project with its infrastructure needs.
 
 The network cards will soon be integrated into the openSUSE infrastructure to improve the [Open Build Service](http://openbuildservice.org/).
@@ -31,4 +34,4 @@ OBS is a generic system to build and distribute binary packages from sources in 
 
 The network cards will be used to improve the backend of OBS.
 
-“The cards will be used to connect the OBS backend storage and network; bringing it from a 1GB to 10BG and improving the backend performance,” said Thorsent Bro, a member of the [openSUSE Heroes](https://en.opensuse.org/openSUSE:Heroes) team. “We want to thank [cPanel ](https://cpanel.com/)for its generous support and giving back to the projects that help with Linux/GNU development.”		
+“The cards will be used to connect the OBS backend storage and network; bringing it from a 1GB to 10BG and improving the backend performance,” said Thorsent Bro, a member of the [openSUSE Heroes](https://en.opensuse.org/openSUSE:Heroes) team. “We want to thank [cPanel ](https://cpanel.com/)for its generous support and giving back to the projects that help with Linux/GNU development.”

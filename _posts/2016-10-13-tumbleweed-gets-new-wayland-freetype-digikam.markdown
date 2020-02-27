@@ -1,12 +1,15 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-10-13 12:09:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/10/13/tumbleweed-gets-new-wayland-freetype-digikam/
-title: "Tumbleweed gets new Wayland, FreeType, Digikam"
+slug: tumbleweed-gets-new-wayland-freetype-digikam
+title: Tumbleweed gets new Wayland, FreeType, Digikam
+wordpress_id: 20122
 ---
-![dododots]({{ site.baseurl }}/assets/DodoDots-300x300.png)A couple of snapshots have been released since the last [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) update, but in those two snapshots were an enormous amount of package updates.
+
+![dododots](/wp-content/uploads/2016/10/DodoDots.png)A couple of snapshots have been released since the last [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) update, but in those two snapshots were an enormous amount of package updates.
 
 [Snapshot 20161003](https://lists.opensuse.org/opensuse-factory/2016-10/msg00079.html) was the first snapshot to arrive in Tumbleweed during the month of October and it brought two new major version packages.
 
@@ -16,4 +19,4 @@ title: "Tumbleweed gets new Wayland, FreeType, Digikam"
 
 The other snapshot that came out in October was the [20161010 snapshot](https://lists.opensuse.org/opensuse-factory/2016-10/msg00303.html).  [FreeType](https://www.freetype.org/) was updated to version 2.7, which has the new subpixel hinting mode as the default, emulating a modern version of ClearType. [WireShark 2.2.1](https://www.wireshark.org/docs/relnotes/wireshark-2.2.1.html#_what_8217_s_new) now fixes vulnerabilities that cause a Bluetooth crash. A subpackage for VLC will give users installing vlc-codecs a prompt to replace the distro-provided libavcodec package, requires the user to accept a vendor change.
 
-User can expect two new kernels in the rolling release soon. Kernel 4.7.6 is expected soon and [Kernel 4.8](https://www.kernel.org/) is currently being staged so it looks like Tumbleweed might not be running the [4.7 kernel](https://www.kernel.org/) very long.		
+User can expect two new kernels in the rolling release soon. Kernel 4.7.6 is expected soon and [Kernel 4.8](https://www.kernel.org/) is currently being staged so it looks like Tumbleweed might not be running the [4.7 kernel](https://www.kernel.org/) very long.

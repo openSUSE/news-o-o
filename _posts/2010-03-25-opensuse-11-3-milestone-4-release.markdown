@@ -1,19 +1,22 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-03-25 15:51:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/03/25/opensuse-11-3-milestone-4-release/
-title: "openSUSE 11.3 Milestone 4 Release"
+slug: opensuse-11-3-milestone-4-release
+title: openSUSE 11.3 Milestone 4 Release
+wordpress_id: 3068
 categories:
 - Announcements
 - Distribution
 ---
-![Geeko at work]({{ site.baseurl }}/assets/m3geeko1-300x237.jpg)
+
+![Geeko at work](/wp-content/uploads/2010/03/m3geeko1.jpg)
 
 The fourth of seven scheduled milestone releases for 11.3 was  completed and released on [schedule](http://en.opensuse.org/Roadmap). Milestone 4  focuses on switching to upstart as init daemon.
 
-![](https://news.opensuse.org/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
+![](http://news.opensuse.org/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
 
 
 ## Here's what you may find interesting in the new release:
@@ -111,7 +114,7 @@ The known bugs include:
   * gwibber has been updated but depends on desktopcouch and that stack is not yet integrated into openSUSE.
 
 
-You can track the [most  annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want  to make sure 11.3 final is free of annoying bugs, we™ll need your help  finding, reporting, and fixing those hidden bugs.
+You can track the [most  annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want  to make sure 11.3 final is free of annoying bugs, weâ€™ll need your help  finding, reporting, and fixing those hidden bugs.
 
 To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensuse.org/Testing) on the  openSUSE wiki. To follow the testing and development process, we suggest  that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) |  [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](http://lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE  development.
 
@@ -121,9 +124,7 @@ The next openSUSE Milestone is scheduled to be released on Friday, AprilÂ  the
 # Get Milestone 4 Today!
 
 
-[![]({{ site.baseurl }}/assets/milestone4_113.png)](http://software.opensuse.org/developer)
+[![](/wp-content/uploads/2010/03/milestone4_113.png)](http://software.opensuse.org/developer)
 
 
 What  are you waiting for? Grab the milestone release from [software.opensuse.org/developer](http://software.opensuse.org/developer) today!
-
-		

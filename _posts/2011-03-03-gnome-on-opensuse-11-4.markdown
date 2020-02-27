@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2011-03-03 01:48:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/
-title: "GNOME on openSUSE 11.4"
+slug: gnome-on-opensuse-11-4
+title: GNOME on openSUSE 11.4
+wordpress_id: 7120
 categories:
 - Distribution
 ---
-[![]({{ site.baseurl }}/assets/11.4-screenshot-gnome-intro-300x174.jpg)](https://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/11-4-screenshot-gnome-intro/)The upcoming new release of openSUSE 11.4 will be shipped with the latest and greatest [GNOME 2.32](http://library.gnome.org/misc/release-notes/2.32/). GNOME 2.32 is the last release in the GNOME 2.x series and has a number of final refinements to offer openSUSE users a stable base for the next 8 months. At the same time, the openSUSE GNOME team is already busy preparing for [GNOME 3](http://www.gnome3.org/). A preview of GNOME 3 and the new GNOME Shell will be available in openSUSE 11.4.
+
+[![](/wp-content/uploads/2011/03/11.4-screenshot-gnome-intro.jpg)](http://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/11-4-screenshot-gnome-intro/)The upcoming new release of openSUSE 11.4 will be shipped with the latest and greatest [GNOME 2.32](http://library.gnome.org/misc/release-notes/2.32/). GNOME 2.32 is the last release in the GNOME 2.x series and has a number of final refinements to offer openSUSE users a stable base for the next 8 months. At the same time, the openSUSE GNOME team is already busy preparing for [GNOME 3](http://www.gnome3.org/). A preview of GNOME 3 and the new GNOME Shell will be available in openSUSE 11.4.
 <!-- more -->
 
 
@@ -17,13 +20,13 @@ categories:
 
 There have been several small updates to [Mousetweaks](http://live.gnome.org/Mousetweaks/Home), which makes it easier to use a mouse for those users who may have limited mobility. It now has updated documentation including an updated manual and man pages so users canÂ now see all the options they have and look up how things are supposed to work.
 
-![]({{ site.baseurl }}/assets/evince-300x240.png)
+![](/wp-content/uploads/2011/02/evince.png)
 
 The [Evince](http://projects.gnome.org/evince/) document viewer has improved accessibility support. Through the use of the AtkText interface Â [Orca](http://live.gnome.org/Orca), the GNOME screen reader, is now able to read documents in Evince. The maximum zoom level has also been increased when viewing a document. Annotation support has been improved and you can now add annotations from the side panel, change the default properties including author, color, transparency and more. Evince now supports "SyncTeX" which enables synchronization between a TeX source file and the resulting PDF (or DVI) output.
 
 [Empathy](http://live.gnome.org/Empathy), the universal instant messaging client, now allows you to group a contact's information together using "metacontacts." For example, if one of your contacts uses multiple instant messaging accounts you can now link the different services together under one name for your contact. Empathy has also added live contact search, which allows you to type into the contact list to quickly find somebody. The new and improved Empathy in GNOME 2.32 also adds chat logging support and the ability to import security certificates.
 
-![]({{ site.baseurl }}/assets/empathy-300x240.png)
+![](/wp-content/uploads/2011/02/empathy.png)
 
 [Eye of GNOME](http://projects.gnome.org/eog/), [Totem](http://www.gnome.org/projects/totem/) and [GNOME System Tools](http://projects.gnome.org/gst/) all come  up with minor tweaks like enhancing image contrast, automatically deinterlacing interlaced videos and setting up permissions for home  directories. For openSUSE's vast international audience, this latest release of GNOME 2 will support over _50_ languages.
 
@@ -33,7 +36,7 @@ Outside of the official GNOME release, openSUSE 11.4 will bundle a number of gre
 
 Media player [Rhythmbox](http://projects.gnome.org/rhythmbox/) 0.13.3 "Country Rain" is available in openSUSE 11.4. This will most likely be the last stable release before the move to GNOME 3 and introduces several new features and bugfixes. Most prominent are the reimplementation of source lists, updated notifications, MPRIS and MediaServer2 support and a new context pane tab showing links to various websites.
 
-![banshee]({{ site.baseurl }}/assets/banshee-300x240.png)
+![banshee](/wp-content/uploads/2011/02/banshee.png)
 
 The popular media player [Banshee](http://banshee.fm/) is updated to [1.9.3](http://banshee.fm/download/archives/1.9.3/), a development release close to the final 2.0. Some highlights of this release are: a "Now Playing" simplified mode, play queue shuffle action, improved cover art downloading, MusicBrainz ID support and improved Last.fm integration. Banshee 1.9.3 also includes several developer features like an improved WebBrowser API for WebKit browsers and DBus API additions. Finally, device support has been greatly improved! Among others, Banshee now works better with the Droid X, Galaxy Portal, Xperia X10, Maemo and MTP capable devices in general.
 
@@ -47,7 +50,7 @@ openSUSE 11.4 has a lot to offer GNOME developers. Starting GNOME development is
 ## Getting GNOME 3
 
 
-![gnome shell showing several windows]({{ site.baseurl }}/assets/gnome3_windows-300x225.png)
+![gnome shell showing several windows](/wp-content/uploads/2011/03/gnome3_windows.png)
 
 For those of us anxious to try out GNOME 3 and GNOME Shell, Vincent Untz, openSUSE GNOME packager and until recently GNOME release manager has the following to say:
 
@@ -63,4 +66,4 @@ There is also a GNOME 3 live USB test image available from another openSUSE GNOM
 
 In short, openSUSE 11.4 will offer a stellar experience for desktop users and developers alike. If the GNOME desktop isn't quite your cup of tea, you're in luck! openSUSE 11.4 will ship with updates to KDE, LXDE and XFCE which we'll cover in another article. Stay tuned!
 
-_Article contributed by Manu Gupta_		
+_Article contributed by Manu Gupta_

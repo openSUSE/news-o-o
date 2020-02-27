@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-10-03 14:00:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/03/osc-2012-bof-sessions-can-be-scheduled/
-title: "oSC 2012 BoF sessions can be scheduled!"
+slug: osc-2012-bof-sessions-can-be-scheduled
+title: oSC 2012 BoF sessions can be scheduled!
+wordpress_id: 14194
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-![oSC 2012 logo]({{ site.baseurl }}/assets/logo.png)
+
+![oSC 2012 logo](/wp-content/uploads/2012/10/logo.png)
 Within three weeks, in Prague, the openSUSE Conference will start off again. Like last year, we have not only an [awesome program](http://bootstrapping-awesome.org/schedule/) but also reserved time for small sessions to get work done. We've got a wiki page where you can [schedule such sessions before the event](http://en.opensuse.org/openSUSE:Conference_BoF_sessions) and on the event itself we'll allow scheduling more sessions Unconference style. Read on to learn more about the [BoF](http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing)) session, based on an article from last year's conference.<!-- more -->
 
 
@@ -75,4 +78,4 @@ Usually, BoF's are scheduled 'on the spot' using a big whiteboard in the main ha
 
 The biggest _perceived_ problem with planning a BoF is the inherent contradiction in 'planning' and 'BoF'. Yes, you might not know **now** what will be an issue 3 months from now. However, you don't have to nail the agenda down today, that would indeed run counter to the whole concept of a BoF. If you think your team will benefit from having a good, open discussion about what you do and how you (want to) do it, simply send in a quick proposal to the openSUSE Conference Paper Committee. It is no problem if something more urgent pops up and you discuss that instead of following the initial description. The main reason for 'planning' (part of) the BoF's beforehand is to allow the CfP team to try and schedule things in such a way there is little overlap with talks and other BoF's and to allow teams to reserve a room.
 
-So go to the [BoF wiki page](http://en.opensuse.org/openSUSE:Conference_BoF_sessions) and add a BoF! You've got until the day before the conference to do this - after that, we'll schedule at the event itself using whiteboards.		
+So go to the [BoF wiki page](http://en.opensuse.org/openSUSE:Conference_BoF_sessions) and add a BoF! You've got until the day before the conference to do this - after that, we'll schedule at the event itself using whiteboards.

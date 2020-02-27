@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-02-09 08:09:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/02/09/tumbleweed-snapshots-bring-users-new-vulkan-4-9-7-kernel/
-title: "Tumbleweed Snapshots Bring Users New Vulkan, 4.9.7 Kernel"
+slug: tumbleweed-snapshots-bring-users-new-vulkan-4-9-7-kernel
+title: Tumbleweed Snapshots Bring Users New Vulkan, 4.9.7 Kernel
+wordpress_id: 20288
 categories:
 - Announcements
 - Tumbleweed
@@ -27,6 +29,7 @@ tags:
 ---
 
 
+
 Six Tumbleweed snapshots this week brought users newer versions of GStreamer, Wine, Vulkan, and a new Linux Kernel.
 
 The new 4.9.7 kernel arrived over the weekend with the [20170204](https://lists.opensuse.org/opensuse-factory/2017-02/msg00183.html) snapshot.
@@ -43,4 +46,4 @@ Earlier in the week, snapshot [20170203](https://lists.opensuse.org/opensuse-fac
 
 Snapshot [20170201](https://lists.opensuse.org/opensuse-factory/2017-02/msg00094.html) had a nice update for Python fans as libvirt-python 3.0.0 add all new APIs and constants in libvirt. Perl-Bootloader’s update to 0.917 parse the initial ramdisk (initrd) and ca-certificates-mozilla had some notable protection changes in its new 2.11 version.
 
-		
+

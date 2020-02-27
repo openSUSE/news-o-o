@@ -1,10 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-04 05:02:25+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/04/no-candidates-board-might-be-forced-to-hand-pick-new-board-members/
-title: "No Candidates? Board might be forced to hand pick new Board Members\
-  "
+slug: no-candidates-board-might-be-forced-to-hand-pick-new-board-members
+title: No Candidates? Board might be forced to hand pick new Board Members
+wordpress_id: 21424
 categories:
 - Announcements
 - Board
@@ -12,9 +14,10 @@ categories:
 - Events
 - Project
 ---
+
 There are less than 10 days left to apply as a Candidate for the [openSUSE Board Elections](https://en.opensuse.org/openSUSE:Board_election), yet as of this date, no eligible Candidates have stepped up to run for the three vacant Board Member Seats.  If there are no Candidates by the closing date of **January 13, 2019**, the three remaining members of the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) will be tasked to choose new Board Members, _based on their own personal choices_, to fill those three vacant seats.
 
-({{ site.baseurl }}/assets/poster-election.png) 2018-2019 Election Poster contributed by Aris Winardi
+[caption id="attachment_21386" align="alignright" width="368"][![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)](/wp-content/uploads/2018/12/poster-election.png) 2018-2019 Election Poster contributed by Aris Winardi[/caption]
 
 
 ### Healthy Project Needs Members
@@ -53,4 +56,4 @@ You can apply to run as an openSUSE Board Candidate by sending e-mail to:
 
 ... and we can get the [2018-2019 Board Elections](https://en.opensuse.org/openSUSE:Board_election) underway.
 
-		
+

@@ -1,13 +1,16 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2007-08-09 09:13:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/09/the-opensuse-project-turns-two/
-title: "The openSUSE Project Turns Two "
+slug: the-opensuse-project-turns-two
+title: The openSUSE Project Turns Two
+wordpress_id: 105
 categories:
 - Project
 ---
+
 It happened again. Another year passed (flew by). Happy Birthday openSUSE!
 
 Read on for a look back and some things to come.
@@ -18,7 +21,7 @@ Read on for a look back and some things to come.
 ### There are tons of things we achieved...
 
 
-In the past 365 days we successfully released [openSUSE 10.2](http://download.opensuse.org) with numerous improvements and new features. Up until now it has been installed hundreds of thousands of times. We brought the [Build Service](http://en.opensuse.org/Build_Service) to a broader audience as an open source project with cool features like release management, build monitoring  package tags, statistics, an ever improving [command line client](http://en.opensuse.org/Build_Service/CLI), patterns and one click installations. This must have impressed [AMD](http://www.amd.com/) because they quickly became a Platinum Sponsor. The [software/download page](http://software.opensuse.org) was completely rewritten and relaunched. Several other sites appeared, including but not limited to [opensuse-community.org](http://opensuse-community.org/), [suse-art.org](http://www.suse-art.org/) to share your openSUSE artwork, the [Localization Portal](http://i18n.opensuse.org/) to help bring openSUSE to your language, Benji's [package search](http://packages.opensuse-community.org/) tool, our own [idea pool](http://idea.opensuse.org/), several localized openSUSE wikis, and not to forget [this site](https://news.opensuse.org/) here.
+In the past 365 days we successfully released [openSUSE 10.2](http://download.opensuse.org) with numerous improvements and new features. Up until now it has been installed hundreds of thousands of times. We brought the [Build Service](http://en.opensuse.org/Build_Service) to a broader audience as an open source project with cool features like release management, build monitoring  package tags, statistics, an ever improving [command line client](http://en.opensuse.org/Build_Service/CLI), patterns and one click installations. This must have impressed [AMD](http://www.amd.com/) because they quickly became a Platinum Sponsor. The [software/download page](http://software.opensuse.org) was completely rewritten and relaunched. Several other sites appeared, including but not limited to [opensuse-community.org](http://opensuse-community.org/), [suse-art.org](http://www.suse-art.org/) to share your openSUSE artwork, the [Localization Portal](http://i18n.opensuse.org/) to help bring openSUSE to your language, Benji's [package search](http://packages.opensuse-community.org/) tool, our own [idea pool](http://idea.opensuse.org/), several localized openSUSE wikis, and not to forget [this site](http://news.opensuse.org/) here.
 
 We also made huge progress on other means of communication. For instance, we migrated about 40 mailing lists with 40,000 individual subscribers to the new [mailing list server](http://lists.opensuse.org/). In the meantime we have a bunch of new mailing lists, that's over 50 now with 44,000 individual subscribers. We had nearly 30 meetings in our [irc channels](http://en.opensuse.org/Communicate/IRC) and also attended several successful fairs like [FOSDEM](http://gallery.opensuse.org/fosdem2007/) or [Linuxtag](http://gallery.opensuse.org/linuxtag2007/) and, at the moment, the [Linuxworld Expo](http://www.linuxworldexpo.com/). 34,000 people told us their view on topics such as openSUSE in general, network settings or proprietary software in our surveys. We opened up our [Styleguides](http://developer.novell.com/wiki/index.php/Opensuse-style) and our own cookbook-style book project for the openSUSE distribution: [Lessons for Lizards](http://developer.novell.com/wiki/index.php/Lessons_for_Lizards).
 
@@ -34,5 +37,3 @@ So enjoy this day and have some cake or a drink on openSUSE.
 
 
 ## Happy Birthday!
-
-		

@@ -1,11 +1,13 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-09-24 18:26:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/09/24/opensuse-weekly-news-issue-194-is-out-with-hackweek-7-women-in-opensuse-and-wunderlist/
-title: "openSUSE Weekly News Issue 194 is out with Hackweek 7, Women in\
-  \ openSUSE and Wunderlist"
+slug: opensuse-weekly-news-issue-194-is-out-with-hackweek-7-women-in-opensuse-and-wunderlist
+title: openSUSE Weekly News Issue 194 is out with Hackweek 7, Women in openSUSE and
+  Wunderlist
+wordpress_id: 11071
 categories:
 - Weekly News
 tags:
@@ -13,6 +15,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce the openSUSE Weekly News Issue 194.
 <!-- more -->
 
@@ -100,11 +103,11 @@ Enjoy reading :-)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
 
-
+â€œ
 
 
       [openSUSE 12.1 Beta
-        taking more time to become good](https://news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/)
+        taking more time to become good](http://news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/)
     
 
 Last Friday Stephan Kulow, our openSUSE Release Manager, started a discussion on Factory
@@ -114,45 +117,45 @@ Last Friday Stephan Kulow, our openSUSE Release Manager, started a discussion on
 
 Particularly, one of the reasons is the challenges relating to the switch to use systemd
       by default, which means that it is also used during install and first boot (which has the
-      special configuration stuff). And between the timing of last week™s openSUSE Conference and
-      next week™s planned Hackweek, the Factory team agreed it is better to take the time to ensure
+      special configuration stuff). And between the timing of last weekâ€™s openSUSE Conference and
+      next weekâ€™s planned Hackweek, the Factory team agreed it is better to take the time to ensure
       a release that meets the level of quality that our openSUSE Distro is known for (...).
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Hackweek-mug.png)Hackweek VIIâ–²â–¼
 
+â€œ
 
 
-
-      [SUSE Hackweek 7 “ Next Week](https://news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/)
+      [SUSE Hackweek 7 â€“ Next Week](http://news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/)
     
 
-One of the ways SUSE and its developers contribute to openSUSE is through [Hackweek](http://hackweek.opensuse.org): “ a week long sprint permitting
+One of the ways SUSE and its developers contribute to openSUSE is through [Hackweek](http://hackweek.opensuse.org): â€“ a week long sprint permitting
       developers to work on something entirely of their own design or wishes as long as it is
-      FOSS-related. Started in 2007, it has become a regular part of SUSE™s development. This is in
-      keeping in line with the openSUSE Project™s goal of being more than just an organization that
+      FOSS-related. Started in 2007, it has become a regular part of SUSEâ€™s development. This is in
+      keeping in line with the openSUSE Projectâ€™s goal of being more than just an organization that
       benefits itself. We believe in a project that benefits the greater good of free and open
       software.
 
 Some 150+ developers will have free reign to work on new applications or make improvements
       to other software projects. Hackweek also permits developers to push away from the grind of
-      deadlines and must fix bug fixing (unless it™s a critical customer situation) which can be
+      deadlines and â€œmust fixâ€ bug fixing (unless itâ€™s a critical customer situation) which can be
       at times stressful and tedious. (...)
 
-
+â€
+
+â€œ
 
 
-
-
-      [Michal HrušeckÃ½: Hack Week](http://michal.hrusecky.net/2011/09/hack-week/)
+      [Michal HruÅ¡eckÃ½: Hack Week](http://michal.hrusecky.net/2011/09/hack-week/)
     
 
-Next week is a Hack Week. Do you know, what Hack Week is? It™s week during which we at
+Next week is a Hack Week. Do you know, what Hack Week is? Itâ€™s week during which we at
       SUSE come to work and work on anything we want. Anything? Well anything open source related.
       So if you normally work as a designer, you can sit down and spend a whole week hacking Linux
       kernel. Or on the other hand, as kernel developer, you can try to improve design of our web.
-      What are my plans for next week? I™m not sure yet. I still have some requests regarding [openSUSE Paste](http://michal.hrusecky.net/2011/02/opensuse-paste-after-the-sixth-hackweek/). But as week is a long time, I would like to try something else, requiring
+      What are my plans for next week? Iâ€™m not sure yet. I still have some requests regarding [openSUSE Paste](http://michal.hrusecky.net/2011/02/opensuse-paste-after-the-sixth-hackweek/). But as week is a long time, I would like to try something else, requiring
       more time.
 
 **libguestfs**
@@ -170,10 +173,10 @@ Yes, here I go again. I already  [wrote about it](http://michal.hrusecky.net/201
 
 So these are my two ideas what I may try to do next week. Not decided yet, so maybe I will
       end up with something completely different. But in the meantime, this can serve as an
-      inspiration for others and if somebody would like to join me on either of these, don™t
+      inspiration for others and if somebody would like to join me on either of these, donâ€™t
       hesitate to leave a comment
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
@@ -185,26 +188,26 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OpenSUSE-Edu.png)Education Team
 
-
+â€œ
 
 
           [Lars Vogdt: Education at OSC](http://lizards.opensuse.org/2011/09/18/education-at-osc/)
         
 
-Even if the [last news](https://news.opensuse.org/2011/08/15/opensuse-edu-li-f-e-11-4-update-release-announcement/) from the Education project is just one month old, many people asked
+Even if the [last news](http://news.opensuse.org/2011/08/15/opensuse-edu-li-f-e-11-4-update-release-announcement/) from the Education project is just one month old, many people asked
           me during the openSUSE Conference why the Education project itself is currently so
           quiet.
 
-Well, the problem is, that our Education team is currently more a team of technical
-          specialists and many work is done behind the scenes without communication to the
-          outside. So even if you did not hear from us for some weeks, we are still alive and
+Well, the â€œproblemâ€ is, that our Education team is currently more a team of technical
+          specialists and many work is done behind the scenes without communication to â€œthe
+          outsideâ€. So even if you did not hear from us for some weeks, we are still alive and
           coding! (...)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-
+â€œ
 
 
           [Nelson Marques: More submissions in GNOME:Ayatana](http://www.marques.so/2011/09/more-submissions-in-gnomeayatana/)
@@ -213,10 +216,10 @@ Well, the problem is, that our Education team is currently more a team of tech
 A few more updates landed today and yesterday on GNOME:Ayatana, including a couple of
           new packages, amongst them:
 
-  * unity “ not yet ready for users to test, but it™s a first submission which aims
+  * unity â€“ not yet ready for users to test, but itâ€™s a first submission which aims
                 mainly to provide unity-core-4.0 dependency for other packages. It needs a bit of
-                work still, for example we™re missing the KDM and GDM session files to load the
-                Unity Desktop and there™s really no testing done at this stage.
+                work still, for example weâ€™re missing the KDM and GDM session files to load the
+                Unity Desktop and thereâ€™s really no testing done at this stage.
 
   * unity-lens-applications
 
@@ -224,30 +227,30 @@ A few more updates landed today and yesterday on GNOME:Ayatana, including a coup
 
   * etc...
 
-During the next days I™m uploading hopefully a fully working version of Unity 2D, I™m
-          just trying to fix some build errors on one of it™s dependencies, the Qt bindings for
-          dconf. Once this is done, I have strong reasons to believe that I™ll have a fully working
+During the next days Iâ€™m uploading hopefully a fully working version of Unity 2D, Iâ€™m
+          just trying to fix some build errors on one of itâ€™s dependencies, the Qt bindings for
+          dconf. Once this is done, I have strong reasons to believe that Iâ€™ll have a fully working
           Unity 2D package.
 
-I™ve also submitted gtk3-engines-unico (and submitted to GNOME:Apps) which provides
-          the GTK3 engine for Canonical™s Light Themes, this one is properly tested and works very
+Iâ€™ve also submitted gtk3-engines-unico (and submitted to GNOME:Apps) which provides
+          the GTK3 engine for Canonicalâ€™s Light Themes, this one is properly tested and works very
           nice with GNOME3.
 
-Hopefully more cool developments during the next days¦ And I™m still looking for a
-          volunteer contributor for Compiz¦
+Hopefully more cool developments during the next daysâ€¦ And Iâ€™m still looking for a
+          volunteer contributor for Compizâ€¦
 
-
+â€
+
+â€œ
 
 
-
-
-          [Nelson Marques: Banshee repositories maintenance¦](http://www.marques.so/2011/09/banshee-repositories-maintenance/)
+          [Nelson Marques: Banshee repositories maintenanceâ€¦](http://www.marques.so/2011/09/banshee-repositories-maintenance/)
         
 
 The Banshee 2.2.0 sources were made available a few minutes ago. This is the perfect
           time to perform some maintenance tasks on the openSUSE Banshee repositories. Since many of
-          the packages on this repositories are used in other projects (ex. Meego), I™m contacting
-          the maintainers and see how will approach the ˜nuking™ part. Some of the task to be performed:
+          the packages on this repositories are used in other projects (ex. Meego), Iâ€™m contacting
+          the maintainers and see how will approach the â€˜nukingâ€™ part. Some of the task to be performed:
 
   * Package name change from banshee-1 to banshee, deprecating banshee-1;
 
@@ -262,13 +265,13 @@ The Banshee 2.2.0 sources were made available a few minutes ago. This is the per
                 mono packages. This will clear a few problems that might happen, thus making this
                 repositories perfect to openSUSE users.
 
-  * Anything I might have forgotten¦
+  * Anything I might have forgottenâ€¦
 
-Banshee 2.2.0 will arrive within 24/48 hours to openSUSE users¦
+Banshee 2.2.0 will arrive within 24/48 hours to openSUSE usersâ€¦
 
-
+â€
 
-
+â€œ
 
 
           [Nelson Marques: Banshee 2.2.0 released and available for openSUSE users!](http://www.marques.so/2011/09/banshee-2-2-0-released-and-available-for-opensuse-users/)
@@ -284,19 +287,19 @@ The first release of [Banshee](http://banshee.fm) 2.2 series has
 
   * New extension: Duplicate Song Detector (banshee-extension-dsd);
 
-  * New custom support for the Barnes & Noble Nook “ transfer music between your
+  * New custom support for the Barnes & Noble Nook â€“ transfer music between your
                 library and your Nook device, it just works;
 
-  * eMusic Store “ Browse, search, preview, buy and download music straight into
+  * eMusic Store â€“ Browse, search, preview, buy and download music straight into
                 your Banshee library from the eMusic online store;
 
 ![](https://lh5.googleusercontent.com/-neYpAuvwAQQ/TniZPM97eMI/AAAAAAAAAU4/Fz7iBYX2YbI/s1024/NewBanshee.png)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
-
+â€œ
 
 
           [Aaron Seigo: plasma active workshop: day 0](http://aseigo.blogspot.com/2011/09/plasma-active-workshop-day-0.html)
@@ -323,9 +326,9 @@ Some of what I've been working on will (if all goes well) get to the next step t
           related issues and the business case around it all. All in four days. I don't expect to
           get much sleep.
 
-
+â€
 
-
+â€œ
 
 
           [Aaron Seigo: plasma active workshop wrapup](http://aseigo.blogspot.com/2011/09/plasma-active-workshop-wrapup.html)
@@ -348,11 +351,11 @@ So what else were we doing? The first thing we did was review all open bugs for 
           launcher. We had an "other" category as well, and it become rather well populated, but we
           want to make sure that the core components work very well in our first release. 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
-
+â€œ
 
 [Thomas Schmidt:
             openFATE News](http://lizards.opensuse.org/2011/09/21/openfate-news/)
@@ -362,16 +365,16 @@ We just added 2 new goodies to our feature tracking tool openFATE:
 Print views:
 
 You can now get a decent view of a feature that is adapted for printing. Either click
-          on Print preview in your browsers menu, or on Print in the feature export box on the
+          on â€œPrint previewâ€ in your browsers menu, or on â€œPrintâ€ in the feature export box on the
           right side of your feature. 
 
 ![](http://lizards.opensuse.org/wp-content/uploads/2011/09/openfate-276x300.png)
 
-
+â€
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 366)](https://features.opensuse.org/120340)
@@ -380,9 +383,9 @@ You can now get a decent view of a feature that is adapted for printing. Either 
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 192)](https://features.opensuse.org/305493)
@@ -397,9 +400,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 164)](https://features.opensuse.org/305305)
@@ -407,9 +410,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 151)](https://features.opensuse.org/308497)
@@ -427,9 +430,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 111)](https://features.opensuse.org/305877)
@@ -450,13 +453,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Jitsi](https://features.opensuse.org/312806)
@@ -465,9 +468,9 @@ We need a feedback about packages that are preferred by users and actively used.
 Provide Jitsi (formerly SIP Communicator), a cross-platform multiprotocol messaging and SIP client.
 Main benefits: audio/video with XMPP Jingle on all platforms, thus improving interoperability; out-of-the-box encryption for chats and calls.
 
-
+â€
 
-
+â€œ
 
 
             [Opensuse 12.1 - Provide Rekonq rather than Konquerer](https://features.opensuse.org/312815)
@@ -477,9 +480,9 @@ Webkit seems to be coming along nicely, and Khtml is less and less able to keep 
 
 [http://adjamblog.wordpress.com/2011/09/20/rekonq-0-7-92-aka-0-8beta3/](http://adjamblog.wordpress.com/2011/09/20/rekonq-0-7-92-aka-0-8beta3/)
 
-
+â€
 
-
+â€œ
 
 
             [advanced subpixel hinting in freetype2](https://features.opensuse.org/312817)
@@ -487,9 +490,9 @@ Webkit seems to be coming along nicely, and Khtml is less and less able to keep 
 
 Now that licensing issues seems to be solved (concerning patents expired) it would be really great if advanced subpixel hinting get enabled in forthcoming release 12.1.
 
-
+â€
 
-
+â€œ
 
 
             [VIPS (Image Library) Package](https://features.opensuse.org/312820)
@@ -499,7 +502,7 @@ It would be nice if vips (imageing library) and its python bindings are availabl
 
 [http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS ](http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS )
 
-
+â€
 
 ##### Feature Statistics
 
@@ -507,7 +510,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry
@@ -535,38 +538,38 @@ Of great interest to kernel developers, the community has been able to keep work
           to github.com and infradead.org for providing server space for the two repositories that I
           use regularly. 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/tumbleweed.gif)Tumbleweed Team
 
+â€œ
 
 
-
-          [Koudaras Konstantinos: Systemd is being removed from Tumbleweed](https://news.opensuse.org/2011/09/20/systemd-is-being-removed-from-tumbleweed/)
+          [Koudaras Konstantinos: Systemd is being removed from Tumbleweed](http://news.opensuse.org/2011/09/20/systemd-is-being-removed-from-tumbleweed/)
         
 
 Respecting users is a priority to the openSUSE Project so when something does not work
           the way it should be, taking a step back is more preferable than delivering something that
           is not ready yet. For that reason yesterday afternoon[ Greg K.H](http://www.kroah.com/). announced to the [openSUSE-factory mailing list](http://lists.opensuse.org/opensuse-factory/)
-          that systemd is being removed from [Tumbleweed](http://en.opensuse.org/Portal:Tumbleweed) so that users won™t have a problem with it. That way it will allow
+          that systemd is being removed from [Tumbleweed](http://en.opensuse.org/Portal:Tumbleweed) so that users wonâ€™t have a problem with it. That way it will allow
           developers to spend more time on working on it in order to have systemd ready for the
           upcoming 12.1 instead of chasing problems that are specific to Tumbleweed.
 
 Here is the [e-mail](http://lists.opensuse.org/opensuse-factory/2011-09/msg00877.html)
           from Greg K.H. announcing the removal of systemd from Tumbleweed:
 
-
+â€œ
 
 Due to a number of inter dependencies on packages that are not ready for
               Tumbleweed, and other interactions with the system that are causing problems for some
-              users, I™m going to remove systemd from Tumbleweed today to allow the developers to
+              users, Iâ€™m going to remove systemd from Tumbleweed today to allow the developers to
               spend more time on getting it stable for Factory and 12.1 instead of having to chase
               down problems that are specific to Tumbleweed only.
 
@@ -585,31 +588,31 @@ thanks,
 
 greg k-h
 
-
+â€
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### Postings from the Community
 
-
+â€œ
 
 
         [Mike McCallister: BarCampMilwaukee6 Just Two Weeks Away!](http://metaverse.wordpress.com/2011/09/18/barcampmilwaukee6-two-weeks-away/)
       
 
-Have I mentioned this lately: I love conferences! There™s not much better times than the
+Have I mentioned this lately: I love conferences! Thereâ€™s not much better times than the
         opportunity to get together with folks of like interests, like mind and similar skills, get
         away from the day to day and schmooze. Occasionally, even learning takes place. For
         serendipity and wide-ranging topics, few conferences beat the ones falling under theÃ½ [BarCamp](http://en.wikipedia.org/wiki/BarCamp) umbrella.
 
 A week from Saturday (October 1), [BarCampMilwaukee](http://barcampmilwaukee.org/index.php?title=Main_Page) 6
         opens at [Bucketworks](http://www.bucketworks.org) on South Fifth Street
-        in Milwaukee™s Walker™s Point neighborhood. If you happen to be within traveling distance,
+        in Milwaukeeâ€™s Walkerâ€™s Point neighborhood. If you happen to be within traveling distance,
         you should come. You will [meet fabulous people](http://barcampmilwaukee.org/campers), eat marvelous food, play with assorted ideas and toys,and probably get a
         t-shirt too. For the second year, there will also be KidsCamp, which should be great fun. As
-        always, there will be robots, too. Did I mention it™s all free of charge? Unless, of course,
+        always, there will be robots, too. Did I mention itâ€™s all free of charge? Unless, of course,
         you want to [make a donation](http://barcampmilwaukee.org/donate).
 
 You can peruse the [Conferences and such category](http://metaverse.wordpress.com/category/conferences-and-such/) here to learn more about all six versions of BCMKE. Register for BCMKE6
@@ -617,19 +620,19 @@ You can peruse the [Conferences and such category](http://metaverse.wordpress.co
 
 And speaking of conferences, watch this space too for some WordPress news.
 
-
+â€
 
 ### Events & Meetings
 
 Past
 
-  * [September 21, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [September 21, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 Upcoming
 
   * No News!
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -651,7 +654,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [openSUSE-SU-2011:1062-1: important: jakarta-commons-daemon](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00024.html)
 
@@ -696,11 +699,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >jsvc did not properly drop capabilities, therefore allowing applications to access
             files owned by the super user (CVE-2011-2729).
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.1 (Part 3) - Architecture, infrastructure, virtualisation](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-3-Architecture-infrastructure-virtualisation-1345178.html)
@@ -721,9 +724,9 @@ The Kernel Log will take the Linux 3.1 development progress as an opportunity to
       overview of the changes in terms of [network drivers and infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-1-Networking-1323463.html), while part 2 discussed the kernel's [storage code and filesystems](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-2-Storage-and-filesystems-1338160.html). The series will be concluded with a forthcoming
       article on drivers. (...)
 
-
+â€
 
-
+â€œ
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.1 (Part 4) - Drivers](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-4-Drivers-1346605.html)
@@ -735,7 +738,7 @@ In the early hours of Thursday morning, Linus Torvalds released the seventh rele
       candidate of Linux 3.1. In the [release-mail for RC7](http://thread.gmane.org/gmane.linux.kernel/1193980) and in a [Google+ post](https://plus.google.com/102150693225130002912/posts/RDMrsVFQMLu)
       he says that he is starting to get ready to release 3.1; however, as he explains, it would not
       be practical to have the merge window for Linux 3.2 (which follows the release of 3.1) without
-      kernel.org “ the servers have not been reachable for two weeks now, while they are being
+      kernel.org â€“ the servers have not been reachable for two weeks now, while they are being
       reinstalled or checked after the [recent break-in](http://www.h-online.com/news/item/Security-breach-at-kernel-org-1334642.html). Torvalds also mentioned that he'll be on vacation in early October and
       indicated that he would not release 3.1 before he comes back. That, according to Torvalds,
       would result in the merge window overlapping with this year's [Kernel Summit](https://events.linuxfoundation.org/events/linux-kernel-summit),
@@ -746,23 +749,23 @@ Due to the approaching finalisation of the new version, the Kernel Log will comp
       "Coming in 3.1" mini series with a discussion of the Linux kernel's hardware support
       improvements. Part 1 of the mini series provided an overview of the changes related to [network drivers and infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-1-Networking-1323463.html), while part 2 discussed the kernel's [storage code and filesystems](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-2-Storage-and-filesystems-1338160.html) and part 3 its [architecture, infrastructure and virtualisation](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-3-Architecture-infrastructure-virtualisation-1345178.html).
 
-
+â€
+
+â€œ
 
 
-
-
-      [Rares Aioanei: kernel weekly news “ 24.09.2011](http://schaiba.wordpress.com/2011/09/24/kernel-weekly-news-24-09-2011/)
+      [Rares Aioanei: kernel weekly news â€“ 24.09.2011](http://schaiba.wordpress.com/2011/09/24/kernel-weekly-news-24-09-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [Linux Journal/Shawn Powers: Get Firefox Menu Button in Linux](http://www.linuxjournal.com/video/get-firefox-menu-button-linux)
@@ -770,33 +773,33 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 The Windows version of Firefox comes with a fancy menu button in the title bar. Linux doesn't have that exact feature, but you can come close. Shawn Powers shows us how.
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Petr Baudis: Realtime Signal Analysis in Perl](http://log.or.cz/?p=213)
       
 
-About a month ago, we were working on [the Fluffy Ball project](http://brmlab.cz/project/fluffyball) “ a computer input device that can react to fondling and
+About a month ago, we were working on [the Fluffy Ball project](http://brmlab.cz/project/fluffyball) â€“ a computer input device that can react to fondling and
         punching. Thanks to a nice idea on the brmlab mailing list, we use a microphone and process
-        the noise coming from the ball™s scratchy stuffing and an embedded jingle. The sounds from
+        the noise coming from the ballâ€™s scratchy stuffing and an embedded jingle. The sounds from
         the outside are almost entirely dampened by the stuffing and for a human, the noise of
         fondling and punching is easily distinguishable.
 
 It turns out that trivial spectrum-based rules can be used to achieve reasonably high
-        detection accuracy for a computer too (especially when the user is allowed to train her
+        detection accuracy for a computer too (especially when the user is allowed to â€œtrainâ€ her
         input based on feedback); I had big plans to use ANN and all the nifty things I have learned
         in our AI classes, but it turned out to be simply an overkill. The input signal is
         transformed to a frequency spectrum (see box) using [real discrete FFT](http://en.wikipedia.org/wiki/Discrete_Fourier_transform). (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [IBM DeveloperWorks/Ian Shields: Learn Linux, 101: Boot the system](http://www.ibm.com/developerworks/linux/library/l-lpic1-v3-101-2/index.html?ca=drs-)
@@ -807,9 +810,9 @@ It turns out that trivial spectrum-based rules can be used to achieve reasonably
         Linux system administrator certification, or just to learn about the boot process.
         (...)
 
-
+â€
 
-
+â€œ
 
 
         [Sam Kleinman: 9 Awesome SSH Tricks](http://tychoish.com/rhizome/9-awesome-ssh-tricks/)
@@ -817,11 +820,11 @@ It turns out that trivial spectrum-based rules can be used to achieve reasonably
 
 Sorry for the lame title. I was thinking the other day, about how awesome SSH is, and how it's probably one of the most crucial pieces of technology that I use every single day. Here's a list of 10 things that I think are particularly awesome and perhaps a bit off the beaten path. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 [Duncan
         Mac-Vicar Prett: proprietary drivers broken with Factory](http://duncan.mac-vicar.com/2011/09/19/proprietary-drivers-broken-with-factory/)
@@ -837,9 +840,9 @@ Tracked as [bug 718734](http://bugzilla.novell.com/718734).
 [home:dmacvicar:branches:X11:Drivers:Video](https://build.opensuse.org/project/show?project=home%3Admacvicar%3Abranches%3AX11%3ADrivers%3AVideo) contains a fixed nvidia-gfxG02 (Also
       updated to 280.13).
 
-
+â€
 
-
+â€œ
 
 [Cornelius Schumacher: My openSUSE conference ](http://blog.cornelius-schumacher.de/2011/09/my-opensuse-conference.html)
 
@@ -850,38 +853,38 @@ Last week was the [openSUSE conference](http://conference.opensuse.org/)
       to office suite, but also in other areas from cheese over quadrocopters to self-replicating
       machines. This community is seriously rocking the boat. (...)
 
-
+â€
 
-
+â€œ
 
 [Susanne
-        Oberhauser: Happy Pony openSUSE?](http://lizards.opensuse.org/2011/09/22/happy-pony-opensuse/)
+        Oberhauser: â€œHappy Ponyâ€ openSUSE?](http://lizards.opensuse.org/2011/09/22/happy-pony-opensuse/)
 
 At the openSUSE conference last week, Lydia Pintscher from the KDE Community Working Group
-      led a BoF on women in openSUSE. This is what we (Stella, Bruno, Lydia, Pascal, Susanne,
+      led a BoF on â€œwomen in openSUSEâ€. This is what we (Stella, Bruno, Lydia, Pascal, Susanne,
       Greg) worked out:
 
 There are very few women in openSUSE for a variety of reasons. In our perceiption, despite
       the good efforts of moderators on IRC, forums and mailing-lists, some attitudes there still
       persist, and we believe these are a key issue that keeps women away. To further address this
-      as a small group, we decided to start at just one place, opensuse-project@. Here™s why and
+      as a small group, we decided to start at just one place, opensuse-project@. Hereâ€™s why and
       how:
 
-There is quite some research on why there is so few women in FLOSS in general. One of
+There is quite some research on why there is so few â€œwomen in FLOSSâ€ in general. One of
       the recurring topics there, and one that we also quickly came to in the BoF, was the
-      ˜flaming™, or more generally, the negative possibilities of the direct, unfiltered yet
+      â€˜flamingâ€™, or more generally, the negative possibilities of the direct, unfiltered yet
       anonymous communication on IRC, forums and mail.
 
-We all value the speed and positive directness of those forms of communication ” however
-      it™s cutting off facial expression and physical reaction. So it™s very easy to miss the tone,
+We all value the speed and positive directness of those forms of communication â€” however
+      itâ€™s cutting off facial expression and physical reaction. So itâ€™s very easy to miss the tone,
       without even noticing. To more sensitive souls, this is creating a barrier of entry that
       especially women do not want to cross, or if it hits you unprepared, will reject you, often
       with no return. Nota bene: this effect is not limited to women! It just happens to reject
       women more than men.(...)
 
-
+â€
 
-
+â€œ
 
 [Andrew Wafaa:
         Growing some openSUSE ARMs](http://www.wafaa.eu/entry/growing-some-opensuse-arms-1-69.html)
@@ -891,9 +894,9 @@ One of the things that came out of the recent [Geeko Love-In](http://conference.
       not but openSUSE is behind the curve in a specific segment, and that segment has yet to
       explode to its full potential. That segment is ARM. (...)
 
-
+â€
 
-
+â€œ
 
 [Bruno Friedmann: osc11 slides and screen cast workshop kvm/libvirtd](http://lizards.opensuse.org/2011/09/19/osc11-slides-and-screen-cast-workshop-kvmlibvirtd/)
 
@@ -901,11 +904,11 @@ Just a quick note, my slides and screen cast about my recent openSUSE conference
       about KVM/libvirtd are online at[http://goo.gl/fQfql](http://goo.gl/fQfql)
       Check at material subject
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
 
-
+â€œ
 
 
       [Microsoft requires that Windows 8-certified machines use UEF](http://forums.opensuse.org/english/other-forums/news-announcements/tech-news/465508-microsoft-requires-windows-8-certified-machines-use-uef.html)
@@ -915,9 +918,9 @@ Just a quick note, my slides and screen cast about my recent openSUSE conference
       A link to this thread in the Tech News subforum about Microsoft's new policy. Various sources report that this could be the end of linux and other small OS-es, since dual booting was said to become impossible. Important to the community since a lot of our openSUSE users dual boot their openSUSE with some flavor of Windows. Personally I don't believe this is going to be the end of linux, I'm pretty sure we'll overcome this, as I'm sure this new policy will make Microsoft a regular visitor in the courts of law, at least in the EU, which is a big market for Microsoft. Read the thread to find out more about the subject, and ....that linux may already be fit to deal with this.
     
 
-
+â€
 
-
+â€œ
 
 
     [sax3 testers needed](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/464419-sax3-testers-needed.html)
@@ -927,9 +930,9 @@ Just a quick note, my slides and screen cast about my recent openSUSE conference
       This year GOSC -Google's Summer Of Code- accepted an application for the development of a new sax2, sax3. Sax2 used to be the tool to configure the X-server concerning our keyboard, mouse, our display driver and monitor. It was depracated some releases ago in favor of autodetection and -configuration. Still quite some users appeared to be needing a tool to configure the X-server. This thread called out for testers, to report their experiences using the new tool. 
       
 
-
+â€
 
-
+â€œ
 
 
     [Cannot write to Samba shares](http://forums.opensuse.org/english/get-technical-help-here/network-internet/465315-cannot-write-samba-shares.html)
@@ -939,9 +942,9 @@ Just a quick note, my slides and screen cast about my recent openSUSE conference
       In a network environment with windows machines, Samba is the server software to share almost anything for windows clients. It can behave as a windows domain controller, control printer queues, do user management etc. Here's a user having trouble to write to those shares, a thing one could describe as a minimum requirement. A must-read for anyone using Samba, or looking for a replacement for expensive windows servers. 
       
 
-
+â€
 
-
+â€œ
 
 
       openSUSE Language specific subforums:
@@ -955,28 +958,28 @@ We now host the following language specific subforums under the umbrella of the 
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Reports
 
-
+â€œ
 
 
         [The VAR Guy: SUSE Linux Prepares Partner, Customer Surprises](http://www.thevarguy.com/2011/09/20/suse-linux-prepares-partner-customer-surprises/)
       
 
-[SUSE](http://www.suse.com/) Linux, now owned by [Attachmate](http://www.attachmate.com/), will unveil some partner and customer surprises at [Novell BrainShare](http://www.novell.com/brainshare) (Oct. 10-14, Salt Lake City), the company confirms. Meanwhile, Michael Miller, VP of global alliances and marketing, has been polishing partner and cloud services strategies for SUSE. And Miller has been busy meeting with strategic SUSE partners like Microsoft, SAP, VMware, IBM, Dell, HP and Fujitsu. So, what™s the message from Miller to SUSE Linux partners and customers? The VAR Guy got the answer. (...)
+[SUSE](http://www.suse.com/) Linux, now owned by [Attachmate](http://www.attachmate.com/), will unveil some partner and customer surprises at [Novell BrainShare](http://www.novell.com/brainshare) (Oct. 10-14, Salt Lake City), the company confirms. Meanwhile, Michael Miller, VP of global alliances and marketing, has been polishing partner and cloud services strategies for SUSE. And Miller has been busy meeting with strategic SUSE partners like Microsoft, SAP, VMware, IBM, Dell, HP and Fujitsu. So, whatâ€™s the message from Miller to SUSE Linux partners and customers? The VAR Guy got the answer. (...)
 
-
+â€
 
-
+â€œ
 
 
         [InternetNews/Sean Michael Kerner: Red Hat Engineer Calls out Windows 8 Secure Boot as a Linux Risk](http://www.internetnews.com/blog/skerner/red-hat-engineer-calls-out-windows-8-secure-boot-as-a-linux-risk.html)
@@ -990,9 +993,9 @@ Microsoft's next major OS is set include a secure boot. The system will prevent 
 
 **That's a problem.** (...)
 
-
+â€
 
-
+â€œ
 
 
         [h-online/Dj Walker-Morgan: Linus releases dive tracking application](http://www.h-online.com/open/news/item/Linus-releases-dive-tracking-application-1348599.html)
@@ -1007,9 +1010,9 @@ If you have ever wondered what the creator of Linux does in-between working thro
 
 ![](http://www.h-online.com/imgs/43/7/1/5/4/0/7/8c4ae63f662d7230.png)
 
-
+â€
 
-
+â€œ
 
 
         [Unixmen/Emily Cartman: Wunderlist is now on Linux- Great tool to organize your to do things](http://www.unixmen.com/software/1919-wunderlist-is-now-on-linux-great-tool-to-organize-your-to-do-things)
@@ -1021,7 +1024,7 @@ If you have ever wondered what the creator of Linux does in-between working thro
 
 ![](http://cdn.unixmen.com/images/stories/thumbnails/images-stories-emily-wunderlist-400x225.PNG)
 
-Even with its minimalistic approach, it offers a lot (at least I™m totally satisfied
+Even with its minimalistic approach, it offers a lot (at least Iâ€™m totally satisfied
         with its features):
 
   * Make lists that have various tasks
@@ -1039,31 +1042,31 @@ Even with its minimalistic approach, it offers a lot (at least I™m totally sat
   * Manage tasks using keyboard shortcuts
 
 This app can even work offline. Once you open it, you will be prompted to make an
-        account. If you don™t want to make one, you can click on ˜No Thanks™, and still use the app.
+        account. If you donâ€™t want to make one, you can click on â€˜No Thanksâ€™, and still use the app.
         You can create, manage, edit, and even add more tasks without the need to have a net
         connection.
 
-Though you don™t have to register on Wunderlist, but if you do, you get sync features.
+Though you donâ€™t have to register on Wunderlist, but if you do, you get sync features.
         This will enable you to access your tasks across various platforms that have Wunderlist
         (like iOS, Android, and Windows) (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [MakeUseOf/Justin Pot: NetbootCD: Install Ubuntu, Fedora, Debian & More From One CD](http://www.makeuseof.com/tag/netbootcd-install-ubuntu-fedora-debian-cd-linux/)
       
 
-Tired of burning a new CD every time a new version of your favourite Linux distro comes out? Then stop. Use NetbootCD to download and install your choice of [Ubuntu](http://www.makeuseof.com/tags/ubuntu/), [Debian](http://www.makeuseof.com/tags/debian/), [Fedora](http://www.makeuseof.com/tag/fedora-15-bringing-latest-linux/), openSUSE, Mandriva, CentOS or Slackware from a single disk. This handy disk downloads and runs the net installation tools for several distros, and is always capable of finding the latest version of your Linux operating system. Burn this tool once and you™ll never need to burn a Linux distro to CD again.
+Tired of burning a new CD every time a new version of your favourite Linux distro comes out? Then stop. Use NetbootCD to download and install your choice of [Ubuntu](http://www.makeuseof.com/tags/ubuntu/), [Debian](http://www.makeuseof.com/tags/debian/), [Fedora](http://www.makeuseof.com/tag/fedora-15-bringing-latest-linux/), openSUSE, Mandriva, CentOS or Slackware from a single disk. This handy disk downloads and runs the net installation tools for several distros, and is always capable of finding the latest version of your Linux operating system. Burn this tool once and youâ€™ll never need to burn a Linux distro to CD again.
 
-Using NetbootCD isn™t necessarily easy. You™ll need to learn to use text-based installers instead of the GUI versions found on live CDs. To me though, this is a small price to pay to contain my steadily-growing pile of Linux CDs. (...)
+Using NetbootCD isnâ€™t necessarily easy. Youâ€™ll need to learn to use text-based installers instead of the GUI versions found on live CDs. To me though, this is a small price to pay to contain my steadily-growing pile of Linux CDs. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Datamation/Bruce Byfield: Windows 8, Metro, and the Linux Desktop](http://www.datamation.com/open-source/windows-8-metro-and-the-linux-desktop-1.html)
@@ -1077,9 +1080,9 @@ If you haven't already downloaded the Windows 8 Developer Preview, then Jason Pe
 
 The preview is really two desktops in one. One is a standard Windows desktop that differs little from Windows 7. The other is the default Metro API, which resembles the [Windows Phone](http://www.microsoft.com/windowsphone/en-ca/default.aspx). (...)
 
-
+â€
 
-
+â€œ
 
 
         [Stormy Peters: Does open source exclude high context cultures?](http://stormyscorner.com/2011/09/does-open-source-exclude-high-context-cultures.html)
@@ -1089,7 +1092,7 @@ High context cultures value personal relationships over process. You have to kno
 
 Low context cultures are process driven. They rely on facts and processes. Their communication style is much more direct and action-orientated. They are orientated towards the individual rather than the group. Western cultures like the US and Germany are considered low context. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1121,7 +1124,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1135,7 +1138,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1167,7 +1170,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 194 is available in: 
 
-  * [English](https://news.opensuse.org/?p=11071)
+  * [English](http://news.opensuse.org/?p=11071)
 
 Coming soon: 
 
@@ -1182,6 +1185,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

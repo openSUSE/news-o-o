@@ -1,15 +1,18 @@
 ---
 author: Ancor Gonzalez Sosa
+comments: true
 date: 2014-10-16 10:05:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/10/16/opensuse-13-2-time-to-get-your-hands-dirty/
-title: "openSUSE 13.2: time to get your hands dirty"
+slug: opensuse-13-2-time-to-get-your-hands-dirty
+title: 'openSUSE 13.2: time to get your hands dirty'
+wordpress_id: 18624
 categories:
 - Distribution
 - Project
 ---
-[![I want YOU!]({{ site.baseurl }}/assets/i-want-you-1-238x300.jpg)]({{ site.baseurl }}/assets/i-want-you-1.jpg)With less than three weeks from the release of our beloved green distro and the first release candidate already rocking, we can feel like we are almost there. This is exactly the right time to remember that there is still a lot of work to do and fun to have. Open source is awesome, but only as awesome as the people working on it. Nothing will happen unless **YOU** make it happen, so it's time to get your hands dirty!
+
+[![I want YOU!](/wp-content/uploads/2014/10/i-want-you-1.jpg)](/wp-content/uploads/2014/10/i-want-you-1.jpg)With less than three weeks from the release of our beloved green distro and the first release candidate already rocking, we can feel like we are almost there. This is exactly the right time to remember that there is still a lot of work to do and fun to have. Open source is awesome, but only as awesome as the people working on it. Nothing will happen unless **YOU** make it happen, so it's time to get your hands dirty!
 
 <!-- more -->
 
@@ -59,4 +62,4 @@ If a release hits the Internet and no one tweets about it, does it make a sound?
 ## Go for it
 
 
-Enough said, there are tasks for everybody so let's start working!		
+Enough said, there are tasks for everybody so let's start working!

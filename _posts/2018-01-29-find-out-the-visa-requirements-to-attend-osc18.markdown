@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-01-29 09:30:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/29/find-out-the-visa-requirements-to-attend-osc18/
-title: "Find Out the Visa Requirements to Attend oSC18"
+slug: find-out-the-visa-requirements-to-attend-osc18
+title: Find Out the Visa Requirements to Attend oSC18
+wordpress_id: 20645
 categories:
 - Announcements
 - Conference
@@ -18,7 +20,8 @@ tags:
 - Travel Support Program
 - visa
 ---
-![]({{ site.baseurl }}/assets/vector-chameleon-213x300.png)For people planning on attending the[ openSUSE Conference](https://events.opensuse.org/conference/oSC18) 2018 in Prague, Czech Republic, from May 25 – 27, there are certain requirements necessary to receive a visa for those who are not a citizen of a Schengen country.
+
+![](/wp-content/uploads/2016/09/vector-chameleon.png)For people planning on attending the[ openSUSE Conference](https://events.opensuse.org/conference/oSC18) 2018 in Prague, Czech Republic, from May 25 – 27, there are certain requirements necessary to receive a visa for those who are not a citizen of a Schengen country.
 
 It’s a good idea to start thinking about getting your visa and this post summarizes the requirements.
 
@@ -129,4 +132,4 @@ Other requirements for a visa state you must:
   * pose no threat to public order, national security or international relations.
 
 
-More information is available on the [Ministry of Foreign Affairs of the Czech Republic](https://www.mzv.cz/jnp/en/information_for_aliens/general_visa_information/index.html) website.		
+More information is available on the [Ministry of Foreign Affairs of the Czech Republic](https://www.mzv.cz/jnp/en/information_for_aliens/general_visa_information/index.html) website.

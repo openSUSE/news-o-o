@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2007-09-17 08:40:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/17/kiwi-ltsp-for-opensuse-103/
-title: "KIWI-LTSP for openSUSE 10.3"
+slug: kiwi-ltsp-for-opensuse-103
+title: KIWI-LTSP for openSUSE 10.3
+wordpress_id: 263
 categories:
 - Distribution
 ---
+
 KIWI-LTSP team is very happy to announce the new project on [Novell Forge](http://developer.novell.com/wiki/index.php/Developer_Home). The project aims toÂ  combine the Linux Terminal Server and openSUSE KIWI imaging technologies.
 
 [LTSP](http://www.ltsp.org) offers immense benefit of being able to use obsolete/lower configuration PCs as a diskless thin clients. The thin clients can be put to any use just like normal desktops without even installing any operating system on them, for example, browse the Web, send e-mail, create documents, and run other desktop applications.
@@ -24,4 +27,4 @@ The project page is located here:
 The step-by-step instructions to get you started are here:
 [http://en.opensuse.org/LTSP](http://en.opensuse.org/LTSP)
 
-Have a lot of fun!		
+Have a lot of fun!

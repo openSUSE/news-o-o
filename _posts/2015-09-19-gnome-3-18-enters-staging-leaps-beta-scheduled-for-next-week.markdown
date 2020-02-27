@@ -1,15 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-09-19 10:00:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/19/gnome-3-18-enters-staging-leaps-beta-scheduled-for-next-week/
-title: "GNOME 3.18 enters staging, Leap’s Beta scheduled for next week\
-  "
+slug: gnome-3-18-enters-staging-leaps-beta-scheduled-for-next-week
+title: GNOME 3.18 enters staging, Leap’s Beta scheduled for next week
+wordpress_id: 19494
 categories:
 - Leap
 ---
-[![Tumbleweed]({{ site.baseurl }}/assets/Tumbleweed-300x300.png)]({{ site.baseurl }}/assets/Tumbleweed.png)Tumbleweed had no snapshots this week but that doesn’t mean improvements are not taking place.
+
+[![Tumbleweed](/wp-content/uploads/2015/07/Tumbleweed.png)](/wp-content/uploads/2015/07/Tumbleweed.png)Tumbleweed had no snapshots this week but that doesn’t mean improvements are not taking place.
 
 Dominique Leuenberger announced in the Tumbleweed weekly review on the openSUSE Factory mailing list that “even without having produced snapshots this week, there is progress and you can expect a bunch of changes coming your way in the next few days. Fingers crossed."
 
@@ -41,4 +43,4 @@ Next week, a group of openSUSE members will meet up to watch [Bad Voltage Live](
 
 In November, openSUSE will kick off the month with the release of Leap 42.1 at [SUSECon](http://www.susecon.com/) in Amsterdam and later that month we will have a community booth in the U.S. at[ Free/Libre and Open Source Software Expo and Technology Conference.](http://www.fossetcon.org/) There is a rumor that Leap T-shirts will be available at these events.
 
-In December, openSUSE will be in Taiwan for the [openSUSE.Asia Summit](https://events.opensuse.org/conference/summitasia15). There is still time to submit a proposal for the summit in Asia, but there isn’t much time left, so submit a talk today.		
+In December, openSUSE will be in Taiwan for the [openSUSE.Asia Summit](https://events.opensuse.org/conference/summitasia15). There is still time to submit a proposal for the summit in Asia, but there isn’t much time left, so submit a talk today.

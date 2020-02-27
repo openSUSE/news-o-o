@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-04 04:27:00+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/04/hands-on-with-docker-opensuse-leap-15/
-title: "Hands on with Docker, openSUSE Leap 15"
+slug: hands-on-with-docker-opensuse-leap-15
+title: Hands on with Docker, openSUSE Leap 15
+wordpress_id: 20843
 categories:
 - Announcements
 - Leap
@@ -19,6 +21,7 @@ tags:
 - yast
 - zipper
 ---
+
 This blog is part of a series of technical blogs leading up to the release of [openSUSE Leap 15](https://en.opensuse.org/Portal:15.0). All of the blogs provide a use case regarding [openSUSE Leap](https://en.opensuse.org/Portal:Leap) and the packages available in the distribution. Happy reading.
 
 
@@ -41,7 +44,7 @@ Let’s do some hands on with [Docker](https://www.docker.com) and [openSUSE Le
 
 
 
-#### == Install Docker  ==![]({{ site.baseurl }}/assets/Screen-Shot-2018-05-04-at-6.15.57-AM-300x172.png)
+#### == Install Docker  ==![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-04-at-6.15.57-AM-300x172.png)
 
 
 Use GUI method
@@ -125,7 +128,7 @@ Docker version 17.09.1-ce, build f4ffd2511ce9
 <!-- more -->
 
 
-#### == Start docker service and setup boot enable  ==![]({{ site.baseurl }}/assets/Screen-Shot-2018-05-04-at-6.16.37-AM-300x207.png)
+#### == Start docker service and setup boot enable  ==![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-04-at-6.16.37-AM.png)
 
 
 GUI method
@@ -296,7 +299,7 @@ Search docker images on the web
 
 For example, search opensuse
 
-![]({{ site.baseurl }}/assets/Screen-Shot-2018-05-04-at-6.17.00-AM-300x146.png)
+![](/wp-content/uploads/2018/05/Screen-Shot-2018-05-04-at-6.17.00-AM.png)
 
 Search docker images with command
 
@@ -479,4 +482,4 @@ CONTAINER ID        IMAGE COMMAND       CREATED         STATUS   
 
 
 
-View Max's workshop about [Docker and openSUSE](https://youtu.be/6bUSgX4fBKc) at the openSUSE.Asia Summit. openSUSE Leap 15 is scheduled to be released on May 25.		
+View Max's workshop about [Docker and openSUSE](https://youtu.be/6bUSgX4fBKc) at the openSUSE.Asia Summit. openSUSE Leap 15 is scheduled to be released on May 25.

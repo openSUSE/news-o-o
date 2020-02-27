@@ -1,17 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-08-07 13:17:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/07/announcing-hack-week-iii/
-title: "Announcing Hack Week III"
+slug: announcing-hack-week-iii
+title: Announcing Hack Week III
+wordpress_id: 970
 categories:
 - Announcements
 - Events
 tags:
 - hack week
 ---
-
 
 Novell is once again sponsoring Hack Week -- and we want you to be in on it! Hack Week III (HW3) runs from August 25th through August 29th.
 
@@ -38,5 +39,3 @@ For HW3, we're encouraging members of the openSUSE community to get involved as 
 
 
 We are sponsoring travel for a limited number of contributors. If you're interested in working on a project in person, please contact Andreas Jaeger (aj@suse.de) by August 12th. We will also be announcing ways for community contributors to participate in Hack Week III remotely, stay tuned to news.opensuse.org and opensuse-announce for details.
-
-		

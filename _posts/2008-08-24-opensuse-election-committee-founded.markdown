@@ -1,15 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-08-24 16:11:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/24/opensuse-election-committee-founded/
-title: "openSUSE Election Committee Founded"
+slug: opensuse-election-committee-founded
+title: openSUSE Election Committee Founded
+wordpress_id: 988
 categories:
 - Board
 tags:
 - board
 ---
+
 We now have founded an openSUSE Election Committee consisting of:
 
 
@@ -39,4 +42,4 @@ If you like to vote for the new board, please apply as member, details are avail
 
 On behalf of the current board, I'd like to thank the committee members for stepping up and look forward to a good election,
 
-Andreas		
+Andreas

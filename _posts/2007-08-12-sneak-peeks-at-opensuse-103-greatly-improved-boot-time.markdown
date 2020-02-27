@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-08-12 19:39:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/12/sneak-peeks-at-opensuse-103-greatly-improved-boot-time/
-title: "Sneak Peeks at openSUSE 10.3: Greatly Improved Boot Time"
+slug: sneak-peeks-at-opensuse-103-greatly-improved-boot-time
+title: 'Sneak Peeks at openSUSE 10.3: Greatly Improved Boot Time'
+wordpress_id: 104
 categories:
 - Distribution
 ---
+
 openSUSE 10.3 is going to be filled with new improvements and exciting technologies. To allow you to discover exactly what the developers have been working hard on behind the scenes over the last few months, we bring you a little series: _Sneak Peeks at openSUSE 10.3_. Today we are looking at the great new improvements to boot time in openSUSE.
 
 openSUSE 10.3 will include some great improvements to the init boot scripts which will dramatically decrease the time your computer takes to boot up. These come as the result of many different tests and research (documented [here](http://opensuse.org/Boottime), and [here](http://opensuse.org/Boot_time)); the first round of improvements have already been submitted and will make it into the final release.
@@ -18,13 +21,13 @@ openSUSE 10.3 will include some great improvements to the init boot scripts whic
 ## Tests and Rainy Days
 
 
-Several tests were run by Frank Ruell including using the [fcache kernel patch](http://en.opensuse.org/Fcache-howto), Ubuntu's SysV init replacement [upstart](http://en.opensuse.org/Ubuntu_and_Upstart), and the ext3 block remapper. This motivated [Stephan Kulow](https://news.opensuse.org/?p=112), now openSUSE's Project Manager, to start some work on it during [one rainy weekend](http://www.kdedevelopers.org/node/2840). The results are incredibly impressive, so we ran some extra tests with [bootchart](http://bootchart.org) to get some specific figures.
+Several tests were run by Frank Ruell including using the [fcache kernel patch](http://en.opensuse.org/Fcache-howto), Ubuntu's SysV init replacement [upstart](http://en.opensuse.org/Ubuntu_and_Upstart), and the ext3 block remapper. This motivated [Stephan Kulow](//news.opensuse.org/?p=112), now openSUSE's Project Manager, to start some work on it during [one rainy weekend](http://www.kdedevelopers.org/node/2840). The results are incredibly impressive, so we ran some extra tests with [bootchart](http://bootchart.org) to get some specific figures.
 
-All the results below are from a Sony Vaio VGN-FE11S, with completely default installs, local users, and IP configured via DHCP. Booting in openSUSE 10.2 was unfortunately pretty slow. To get from the Boot Loader screen (GRUB) to the login screen (KDM used throughout) it took around a  painful 55 seconds; in [openSUSE 10.3 Beta 1](https://news.opensuse.org/?p=106) this has been reduced to just 27 seconds!
+All the results below are from a Sony Vaio VGN-FE11S, with completely default installs, local users, and IP configured via DHCP. Booting in openSUSE 10.2 was unfortunately pretty slow. To get from the Boot Loader screen (GRUB) to the login screen (KDM used throughout) it took around a  painful 55 seconds; in [openSUSE 10.3 Beta 1](//news.opensuse.org/?p=106) this has been reduced to just 27 seconds!
 
 Below are the respective bootcharts:
 
-[![openSUSE 10.2 - boot to KDM]({{ site.baseurl }}/assets/bootchart-kdm_thumb.jpg)]({{ site.baseurl }}/assets/bootchart-kdm.png)  [![openSUSE 10.3 - boot to KDM]({{ site.baseurl }}/assets/bootchart-27_thumb.jpg)]({{ site.baseurl }}/assets/bootchart-27.png)
+[![openSUSE 10.2 - boot to KDM](//news.opensuse.org/wp-content/uploads/2007/08/bootchart-kdm_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/bootchart-kdm.png)  [![openSUSE 10.3 - boot to KDM](//news.opensuse.org/wp-content/uploads/2007/08/bootchart-27_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/bootchart-27.png)
 
 
 ## Talk with Stephan Kulow
@@ -56,3 +59,5 @@ You can see Fengguang Wu's [Boot Linux Faster](http://pagecache-tools.googlecode
 
 
 ### Thanks!
+
+Do not forget that when two otherwise equivalent applicants are competing for the same job, the one who has a ccnp collaboration, certification will have the advantage [https://resumecvwriter.com/](https://resumecvwriter.com/) over the applicant that does not

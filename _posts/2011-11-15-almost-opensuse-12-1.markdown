@@ -1,14 +1,17 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2011-11-15 19:29:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/15/almost-opensuse-12-1/
-title: "Almost openSUSE 12.1"
+slug: almost-opensuse-12-1
+title: Almost openSUSE 12.1
+wordpress_id: 11758
 categories:
 - Distribution
 ---
-(https://news.opensuse.org/2011/11/15/almost-opensuse-12-1/12-1_installer-boot/)
+
+[caption id="attachment_11851" align="alignright" width="300" caption="Welcome to openSUSE 12.1!"][![Installer screen](/wp-content/uploads/2011/11/12.1_Installer-boot.png)](http://news.opensuse.org/2011/11/15/almost-opensuse-12-1/12-1_installer-boot/)[/caption]
 
 Yes, it is almost time. Tomorrow openSUSE 12.1 will be released to the world, bringing a large number of new features and cool stuff. We'll look at a few things today and show you some screen shots!
 
@@ -35,7 +38,7 @@ Of course openSUSE 12.1 comes with the latest Free Desktops. GNOME, KDE's Plasma
 ### GNOME 3.2
 
 
-(https://news.opensuse.org/2011/11/15/almost-opensuse-12-1/800px-opensuse_12-1_gnome_in_action/)
+[caption id="attachment_11833" align="alignright" width="300" caption="openSUSE 12.1 GNOME screenshot"][![](/wp-content/uploads/2011/11/800px-OpenSUSE_12.1_GNOME_in_action.png)](http://news.opensuse.org/2011/11/15/almost-opensuse-12-1/800px-opensuse_12-1_gnome_in_action/)[/caption]
 
 As you might remember, we brought a GNOME 3 preview with openSUSE 11.4. Well, it ain't preview anymore, we bring you the full GNOME 3.2 desktop now! This has been much improved compared to the preview, with both many performance and stability fixes as well as lots of features and usability improvements based on the feedback the developers got.
 
@@ -45,13 +48,13 @@ GNOME Shell brings a fresh, cool, new interface designed from scratch to satisfy
 ### KDE and the other desktops
 
 
-(https://news.opensuse.org/2011/11/15/almost-opensuse-12-1/opensuse_12-1_kde_in_action-2/)
+[caption id="attachment_11835" align="alignleft" width="300" caption="openSUSE 12.1 KDE screenshot"][![](/wp-content/uploads/2011/11/openSUSE_12.1_KDE_in_action.png)](http://news.opensuse.org/2011/11/15/almost-opensuse-12-1/opensuse_12-1_kde_in_action-2/)[/caption]
 
 Of course we ship KDE's Plasma workspaces, both the Desktop and Netbook version. There is a number of improvements in there, including the Apper software management tool which replaces the earlier KPackageKit tool. Apper focuses on applications instead of packages, making installation and removal easier for less experienced users. Another big deal, relevant for both GNOME and KDE, is color management. GNOME ships the colord daemon for this while openSUSE is the first linux distribution to integrate Oyranos color management in KDE. You can read more about it in [this blog by Uwe](http://www.oyranos.org/2011/11/colour-management-in-opensuse-12-1/) where he explains what this means, how it's done and why you should care.
 
 Sadly, XFCE and LXDE have not seen a huge amount of changes as there have been no major releases. But of course we ship the latest bugfix release of XFCE 4.8 and have done the usual round of artwork and other minor improvements.
 
-(https://news.opensuse.org/2011/11/15/almost-opensuse-12-1/owncloud2/)
+[caption id="attachment_11838" align="alignright" width="300" caption="ownCloud"][![](/wp-content/uploads/2011/11/OwnCloud2.png)](http://news.opensuse.org/2011/11/15/almost-opensuse-12-1/owncloud2/)[/caption]
 
 
 ## Cloudy things
@@ -81,7 +84,7 @@ openSUSE is an excellent guest OS for the cloud as can be experienced building s
 
 openSUSE 12.1 introduces a number of improvements and innovations in the  underlying technology of the distribution. This includes the unique  Snapper tool offering file versioning, the systemd init system and the  Google Go language.
 
-(https://news.opensuse.org/2011/11/15/almost-opensuse-12-1/opensuse_12-1_snapper/)
+[caption id="attachment_11869" align="alignright" width="300" caption="Snapper in action"][![openSUSE snapper in action](/wp-content/uploads/2011/11/OpenSUSE_12.1_Snapper.png)](http://news.opensuse.org/2011/11/15/almost-opensuse-12-1/opensuse_12-1_snapper/)[/caption]
 
 
 
@@ -112,4 +115,4 @@ This openSUSE release is build with [**GCC 4.6.2**](http://gcc.gnu.org/) and  [*
 
 With all the cool stuff coming in openSUSE 12.1, we sure could write another 10 pages with features but surely most of you would be asleep by the time you'd have read it. Besides, in less than 24 hours you'll probably be playing with it already!
 
-So keep an eye on [news.opensuse.org](https://news.opensuse.org) and remember to Have a lot of fun!		
+So keep an eye on [news.opensuse.org](http://news.opensuse.org) and remember to Have a lot of fun!

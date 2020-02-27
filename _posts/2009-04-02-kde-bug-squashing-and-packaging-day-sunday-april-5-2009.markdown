@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-02 12:11:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/02/kde-bug-squashing-and-packaging-day-sunday-april-5-2009/
-title: "KDE Bug Squashing and Packaging Day: Sunday April 5, 2009"
+slug: kde-bug-squashing-and-packaging-day-sunday-april-5-2009
+title: 'KDE Bug Squashing and Packaging Day: Sunday April 5, 2009'
+wordpress_id: 1388
 categories:
 - Events
 tags:
 - KDE
 ---
+
 Will Stephenson has announced that the KDE team will be having a bug squashing and packaging workshop day on Sunday, April 5:
 
 
@@ -21,5 +24,3 @@ For packaging, the KDE Team will be around #opensuse-kde from 1200CEST (that'sÂ
 reinforcements if necessary.
 
 See you on Sunday!</blockquote>
-
-		

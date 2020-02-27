@@ -1,14 +1,17 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2010-12-13 22:00:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/13/holiday-wishes-from-the-opensuse-board/
-title: "Holiday Wishes from the openSUSE Board"
+slug: holiday-wishes-from-the-opensuse-board
+title: Holiday Wishes from the openSUSE Board
+wordpress_id: 5907
 categories:
 - Board
 ---
-[![]({{ site.baseurl }}/assets/holiday-geeko-245x300.png)](https://news.opensuse.org/2010/12/13/holiday-wishes-from-the-board/holiday-geeko/)
+
+[![](/wp-content/uploads/2010/12/holiday-geeko.png)](http://news.opensuse.org/2010/12/13/holiday-wishes-from-the-board/holiday-geeko/)
 
 Seasons Greetings to everyone in the openSUSE Community and beyond from the openSUSE Board!
 
@@ -26,4 +29,4 @@ So, as we close here, we'd like to wish each and every one of you a safe and joy
 
 See you all at Wednesday's meeting, and in 2011!
 
-The openSUSE Board  Pascal Bleser, Rupert Horstkötter, Pavol Rusnak, Henne Vogelsang, Bryen Yunashko,		
+The openSUSE Board  Pascal Bleser, Rupert HorstkÃ¶tter, Pavol Rusnak, Henne Vogelsang, Bryen Yunashko,

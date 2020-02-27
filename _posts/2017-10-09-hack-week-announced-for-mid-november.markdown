@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-10-09 09:54:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/10/09/hack-week-announced-for-mid-november/
-title: "Hack Week Announced for Mid-November"
+slug: hack-week-announced-for-mid-november
+title: Hack Week Announced for Mid-November
+wordpress_id: 20575
 categories:
 - Announcements
 - Events
@@ -17,7 +19,8 @@ tags:
 - r&amp;d
 - suse
 ---
-![]({{ site.baseurl }}/assets/hw_0x10_with_text_new-d6a7fe1e36c985cdaf06e7335299f9fc42e836deb4be2196163226bb9fd37e69-1-244x300.png)Hack Week 0x10 will be Nov. 10 - 16 at many of the SUSE Research and Development locations and developers and hackers from the community are welcomed to participate.
+
+![](/wp-content/uploads/2017/10/hw_0x10_with_text_new-d6a7fe1e36c985cdaf06e7335299f9fc42e836deb4be2196163226bb9fd37e69-1.png)Hack Week 0x10 will be Nov. 10 - 16 at many of the SUSE Research and Development locations and developers and hackers from the community are welcomed to participate.
 
 Hack Week is a week-long event where members of the [openSUSE](https://www.opensuse.org/) community, along with other communities, get a chance to investigate interesting technologies and get involved in promising new or existing projects.
 
@@ -27,4 +30,4 @@ The planning of the projects for Hack Week 0x10 can be created on[ http://hackwe
 
 Visitors must be logged in to the website to create and join projects. To join the event at one of the locations, email [hackweek@suse.de](mailto:hackweek@suse.de) to be connected to a site manager at an SUSE R&D facility.
 
-To learn more about Hack Week 0x10, visit [https://hackweek.suse.com/about](https://hackweek.suse.com/about).		
+To learn more about Hack Week 0x10, visit [https://hackweek.suse.com/about](https://hackweek.suse.com/about).

@@ -1,13 +1,16 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-06-14 13:00:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/06/14/where-is-my-12-2-my-kingdom-for-a-12-2/
-title: "Where is my 12.2, my Kingdom for a 12.2!"
+slug: where-is-my-12-2-my-kingdom-for-a-12-2
+title: Where is my 12.2, my Kingdom for a 12.2!
+wordpress_id: 13538
 categories:
 - Distribution
 ---
+
 [![Failed geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)](http://en.opensuse.org/openSUSE:Downtime)
 Many people have noticed that the milestones and the Beta for this openSUSE release have been delayed or even canceled like Milestone 4. Now the RC is planned to go out Thursday - but that seems unlikely to happen as Factory, our development project, is still far too unstable. Coolo has send a [mail to the openSUSE Factory](http://lists.opensuse.org/opensuse-factory/2012-06/msg00468.html) mailing list noting that we need to re-think how we're working.
 
@@ -47,7 +50,7 @@ With more new contributors sending in bigger and small(er) improvements and quit
 
 All this has gotten us to the point where the release manager doesn't feel confident that we can release openSUSE on time. Actually, Coolo says something needs to change if we are to do even remotely timely releases at all. Looks like a challenge!
 
-[![Geeko is going somewhere  -awesome pic by cyberorg, click!]({{ site.baseurl }}/assets/Geeko-is-going-somewhere.jpg)](https://picasaweb.google.com/cyberorg/Geeko)
+[![Geeko is going somewhere  -awesome pic by cyberorg, click!](/wp-content/uploads/2012/06/Geeko-is-going-somewhere.jpg)](https://picasaweb.google.com/cyberorg/Geeko)
 
 
 ## New Directions
@@ -65,7 +68,7 @@ We could drop the fixed release schedule and release 'when ready'. But this coul
 
 Coolo says that giving up on releases altogether, making openSUSE a tumbleweed-on-SLE would work as well. But - to mention just _one_ issue with this scheme, Tumbleweed needs to rebase on new releases as it's not designed to roll forever. So it would depend on new SLE releases for major plumbing work which, in effect, simply moves the problem to SUSE.
 
-(http://en.opensuse.org/openSUSE:Factory_development_model)
+[caption id="attachment_12917" align="alignright" width="150" caption="Devel feeds Factory"][![openSUSE Factory workflow](/wp-content/uploads/2012/03/600px-Factory_workflow.png)](http://en.opensuse.org/openSUSE:Factory_development_model)[/caption]
 
 Another step we might have to take is look closely at how we work. Working more in staging is what Coolo proposes. Working in the Devel projects is great but leads to integration issues. Working with more staging projects will need tooling support and won't solve everything, but it is a step in the right direction.
 
@@ -87,4 +90,4 @@ As a community project, openSUSE is led by people willing to take on a role wher
 <blockquote>discuss things very openly - I think we learned enough about where the current model works and where it doesn't so we can develop a new one together.</blockquote>
 
 
-There's a challenge ahead for openSUSE, an interesting one at that. What will we do? The discussion on the Factory mailing list is only now starting and we won't have a decision any time soon. One thing is certain: the openSUSE 12.2 release won't see the light of day on July 11th but we'll come with something cool for the future!		
+There's a challenge ahead for openSUSE, an interesting one at that. What will we do? The discussion on the Factory mailing list is only now starting and we won't have a decision any time soon. One thing is certain: the openSUSE 12.2 release won't see the light of day on July 11th but we'll come with something cool for the future!

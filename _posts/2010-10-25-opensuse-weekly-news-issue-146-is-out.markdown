@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-10-25 09:21:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/25/opensuse-weekly-news-issue-146-is-out/
-title: "openSUSE Weekly News, Issue 146 is out!"
+slug: opensuse-weekly-news-issue-146-is-out
+title: openSUSE Weekly News, Issue 146 is out!
+wordpress_id: 5240
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our openSUSE Weekly News Issue 146.
 <!-- more -->
 
@@ -41,19 +44,19 @@ We are pleased to announce our openSUSE Weekly News Issue 146.
 
 
 
-  * [ openSUSE ass-kickin™ keynote](https://news.opensuse.org/?p=5240#openSUSE_ass-kickin.E2.80.99_keynote)
+  * [ openSUSE ass-kickinâ€™ keynote](http://news.opensuse.org/?p=5240#openSUSE_ass-kickin.E2.80.99_keynote)
 
 
-  * [ openSUSE News: The openSUSE Build Service 2.1 released](https://news.opensuse.org/?p=5240#openSUSE_News:_The_openSUSE_Build_Service_2.1_released)
+  * [ openSUSE News: The openSUSE Build Service 2.1 released](http://news.opensuse.org/?p=5240#openSUSE_News:_The_openSUSE_Build_Service_2.1_released)
 
 
-  * [ Rares Aioanei: Kernel Weekly News 23.10.2010](https://news.opensuse.org/?p=5240#Rares_Aioanei:_Kernel_Weekly_News_23.10.2010)
+  * [ Rares Aioanei: Kernel Weekly News 23.10.2010](http://news.opensuse.org/?p=5240#Rares_Aioanei:_Kernel_Weekly_News_23.10.2010)
 
 
-  * [ Make Tech Easier/Tavis J. Hampton: Advanced KDE Administration](https://news.opensuse.org/?p=5240#Make_Tech_Easier.2FTavis_J._Hampton:_Advanced_KDE_Administration)
+  * [ Make Tech Easier/Tavis J. Hampton: Advanced KDE Administration](http://news.opensuse.org/?p=5240#Make_Tech_Easier.2FTavis_J._Hampton:_Advanced_KDE_Administration)
 
 
-  * [ Nelson Marques: openoffice.org and Libre Office¦](https://news.opensuse.org/?p=5240#Nelson_Marques:_openoffice.org_and_Libre_Office.E2.80.A6)
+  * [ Nelson Marques: openoffice.org and Libre Officeâ€¦](http://news.opensuse.org/?p=5240#Nelson_Marques:_openoffice.org_and_Libre_Office.E2.80.A6)
 
 
 
@@ -74,46 +77,46 @@ We are pleased to announce our openSUSE Weekly News Issue 146.
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=5240#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=5240#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=5240#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=5240#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=5240#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=5240#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=5240#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=5240#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=5240#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=5240#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=5240#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=5240#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=5240#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=5240#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=5240#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=5240#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=5240#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=5240#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=5240#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=5240#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=5240#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=5240#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=5240#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=5240#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=5240#Credits)
+  * [ Credits](http://news.opensuse.org/?p=5240#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=5240#Translations)
+  * [ Translations](http://news.opensuse.org/?p=5240#Translations)
 
 
 
@@ -335,16 +338,16 @@ We are pleased to announce our openSUSE Weekly News Issue 146.
 
 
 
-"Next thursday I™m flying to Nuremberg for the openSUSE Conference. I™m arriving somewhere between 14:00 and 15:00 considering that nothing strange happens (ex: like a snow storm).  
+"Next thursday Iâ€™m flying to Nuremberg for the openSUSE Conference. Iâ€™m arriving somewhere between 14:00 and 15:00 considering that nothing strange happens (ex: like a snow storm).  
 
   
 
- For me it™s the first time I attend to FOSS event from such caliber. I™m having my own expectations about it, and it will for sure help me in the work I™ve been doing. I™m also looking forward to meet ˜_the_™ people to which I have interacted with during the last times online. (...)" 
+ For me itâ€™s the first time I attend to FOSS event from such caliber. Iâ€™m having my own expectations about it, and it will for sure help me in the work Iâ€™ve been doing. Iâ€™m also looking forward to meet â€˜_the_â€™ people to which I have interacted with during the last times online. (...)" 
 
 
 
 
-####  [Sirko Kemter: May I introduce you ¦..](http://karl-tux-stadt.de/ktuxs/?p=2817)
+####  [Sirko Kemter: May I introduce you â€¦..](http://karl-tux-stadt.de/ktuxs/?p=2817)
 
 
 
@@ -354,7 +357,7 @@ We are pleased to announce our openSUSE Weekly News Issue 146.
 
 
 
-####  [The third openSUSE Conference Keynote](https://news.opensuse.org/2010/10/18/the-third-opensuse-conference-keynote/)
+####  [The third openSUSE Conference Keynote](http://news.opensuse.org/2010/10/18/the-third-opensuse-conference-keynote/)
 
 
 
@@ -363,7 +366,7 @@ We are pleased to announce our openSUSE Weekly News Issue 146.
 
   
 
- The Desktop and the Cloud “ Thoughts about Freedom on Thursday morning at 9:30 am. How relevant is the desktop in a world where computing is happening in the cloud?  
+ The Desktop and the Cloud â€“ Thoughts about Freedom on Thursday morning at 9:30 am. How relevant is the desktop in a world where computing is happening in the cloud?  
 
   
 
@@ -377,35 +380,35 @@ We are pleased to announce our openSUSE Weekly News Issue 146.
 
 
 
-"Today it starts: The new openSUSE Conference. We have over 240 Registrations before start. Some Registrants sleeping in the Hotel from the Berufsbildungswerk. I™m living in the third floor. And i am happy, a clean and convenient room.  
+"Today it starts: The new openSUSE Conference. We have over 240 Registrations before start. Some Registrants sleeping in the Hotel from the Berufsbildungswerk. Iâ€™m living in the third floor. And i am happy, a clean and convenient room.  
 
   
 
- Today the Conference starts at 09:30 with Henne Vogelsangs Talk žGet your ass up!. He motivates us, not just to talk about what is to do. We should just doing anything and have fun.  
+ Today the Conference starts at 09:30 with Henne Vogelsangs Talk â€žGet your ass up!â€œ. He motivates us, not just to talk about what is to do. We should just doing anything and have fun.  
 
   
 
- The next Talk i™ve listened was Lubos Lunaks talk about žEasy multi “ distribution package builds with the buid service. Lubos explained us, how to use the kde-obs-generator. This Program needs just a singe INFO File with the needed Inforations, and the Program creates from that a *.spec File and two debian*.control Files. So we have all for building Packages for Fedora, Mandriva, Debian and Ubuntu. This talk motivates me to try it out. Maybe i can support in Future my Packages who i maintain in more Destinations. (...)" 
+ The next Talk iâ€™ve listened was Lubos Lunaks talk about â€žEasy multi â€“ distribution package builds with the buid service. Lubos explained us, how to use the kde-obs-generator. This Program needs just a singe INFO File with the needed Inforations, and the Program creates from that a *.spec File and two debian*.control Files. So we have all for building Packages for Fedora, Mandriva, Debian and Ubuntu. This talk motivates me to try it out. Maybe i can support in Future my Packages who i maintain in more Destinations. (...)" 
 
 
 
 
-####  [openSUSE ass-kickin™ keynote](https://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/)
+####  [openSUSE ass-kickinâ€™ keynote](http://news.opensuse.org/2010/10/20/opensuse-ass-kickin-keynote/)
 
 
-"As 260 fans of openSUSE descended upon Nuremberg, the second annual openSUSE Conference began at 9:30 sharp with Hendrik Henne Vogelsang delivering a very important and poignant message for us all..  
+"As 260 fans of openSUSE descended upon Nuremberg, the second annual openSUSE Conference began at 9:30 sharp with Hendrik â€œHenneâ€ Vogelsang delivering a very important and poignant message for us all..  
 
   
 
 
 
 
-In Henne™s keynote, Get your ass up!, he talks about where we are and how we can move forward as a Project. We™re in a unique position, Henne said. He asked the audience how old they thought SUSE was. Nobody guessed correctly “ it is 18 years. Debian is 17, Red hat 16 “ SUSE really has been around a long time. Yet it has only been a really open project for a few years “ Henne considers the opening of Factory during 2009 the real milestone here." 
+In Henneâ€™s keynote, â€œGet your ass up!â€, he talks about where we are and how we can move forward as a Project. â€œWeâ€™re in a unique positionâ€, Henne said. He asked the audience how old they thought SUSE was. Nobody guessed correctly â€“ it is 18 years. Debian is 17, Red hat 16 â€“ SUSE really has been around a long time. Yet it has only been a really open project for a few years â€“ Henne considers the opening of Factory during 2009 the real milestone here." 
 
 
 
 
-####  [Adrian Schröter: Fotostream from openSUSE Conference 2010](http://lizards.opensuse.org/2010/10/21/fotostream-from-opensuse-conference-2010/)
+####  [Adrian SchrÃ¶ter: Fotostream from openSUSE Conference 2010](http://lizards.opensuse.org/2010/10/21/fotostream-from-opensuse-conference-2010/)
 
 
 
@@ -427,22 +430,22 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-####  [Sebastian Kügler: openSUSE conference 2010](http://vizzzion.org/blog/2010/10/opensuse-conference-2010/)
+####  [Sebastian KÃ¼gler: openSUSE conference 2010](http://vizzzion.org/blog/2010/10/opensuse-conference-2010/)
 
 
 
 
-"These October days, I™m spending in Nürnberg in Southern Germany to attend the openSUSE conference. My role here is three-fold, first and foremost I am here as a representative of open-slx, my employer who sells products and services based on top of openSUSE. Then, I™m a KDE ambassador. Finally, I™m also getting more and more involved with the openSUSE team, getting to know many people and learning about challenges and opportunities this community faces. (...)" 
+"These October days, Iâ€™m spending in NÃ¼rnberg in Southern Germany to attend the openSUSE conference. My role here is three-fold, first and foremost I am here as a representative of open-slx, my employer who sells products and services based on top of openSUSE. Then, Iâ€™m a KDE ambassador. Finally, Iâ€™m also getting more and more involved with the openSUSE team, getting to know many people and learning about challenges and opportunities this community faces. (...)" 
 
 
 
 
-####  [OSC2010 Key note “ From Developers to Users and back](https://news.opensuse.org/2010/10/21/osc2010-key-note-from-developers-to-users-and-back/)
+####  [OSC2010 Key note â€“ From Developers to Users and back](http://news.opensuse.org/2010/10/21/osc2010-key-note-from-developers-to-users-and-back/)
 
 
 
 
-"Frank Karlitschek will show us on Saturday at 9:30 the project he™s working on to simplify the way software gets to users. Frank has deep knowledge in open source communities as member of the [KDE e.V](http://ev.kde.org/). Board of Directors and eg. as driver behind the [open-PC](http://open-pc.com/) project and some more activities he™s doing. (...)" 
+"Frank Karlitschek will show us on Saturday at 9:30 the project heâ€™s working on to simplify the way software gets to users. Frank has deep knowledge in open source communities as member of the [KDE e.V](http://ev.kde.org/). Board of Directors and eg. as driver behind the [open-PC](http://open-pc.com/) project and some more activities heâ€™s doing. (...)" 
 
 
 
@@ -489,12 +492,12 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-####  [Smeegol at oSC](https://news.opensuse.org/2010/10/23/smeegol-at-osc/)
+####  [Smeegol at oSC](http://news.opensuse.org/2010/10/23/smeegol-at-osc/)
 
 
 
 
-"Wednesday at the conference, Smeegol master Andrew Funkypenguin Wafaa was given the stage by Michael Meeks who was supposed to talk about MeeGo. Meeks claimed that he™d rather have someone on the stage who actually knew what he was talking about, hence Andrew had to explain himself to the audience. (...)" 
+"Wednesday at the conference, Smeegol master Andrew â€œFunkypenguinâ€ Wafaa was given the stage by Michael Meeks who was supposed to talk about MeeGo. Meeks claimed that heâ€™d rather have someone on the stage who actually knew what he was talking about, hence Andrew had to explain himself to the audience. (...)" 
 
 
 
@@ -504,7 +507,7 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-"I am home from the openSUSE Conference 2010 and finally landed on the sofa. I don™t know why conferences are so exhausting, but they are for me. My brain slowly becomes sorted again and starts to reflect what happened on the conference. Wow, I can say that I didn™t expect it to become such a great event. There were so many interesting and enthusiastic discussions about topics concerning the openSUSE distribution or about things you can do under the openSUSE umbrella. (...)" 
+"I am home from the openSUSE Conference 2010 and finally landed on the sofa. I donâ€™t know why conferences are so exhausting, but they are for me. My brain slowly becomes sorted again and starts to reflect what happened on the conference. Wow, I can say that I didnâ€™t expect it to become such a great event. There were so many interesting and enthusiastic discussions about topics concerning the openSUSE distribution or about things you can do under the openSUSE umbrella. (...)" 
 
 
 
@@ -514,7 +517,7 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-"The openSUSE Conference went really well last week. There was an amazing range of material and the audience™s participation in every talk I attended showed that the openSUSE project has moved past the show-and-tell presentations of a company and its customers to a community using the event to share knowledge between its members and develop. As part of the openSUSE Boosters team, I was in it up to my neck. On Wednesday I started with a talk on image building for application authors which was well attended but I think I should tweak towards users™ needs as there weren™t many app authors present. I gave a talk about the upcoming KDE features that will be in openSUSE 11.4 on Thursday, because openSUSE 11.3 had KDE 4.4 but due to the 3 month difference in both projects™ release cycles, openSUSE 11.4 will have the KDE 4.6 releases of platform, workspaces and apps. That equals a lot of changes, so I summarized them for people who don™t read Planet KDE as avidly as I do. The Lizard Lounge event in the SUSE building on Thursday night gave everyone a chance to catch their breath drinking limited edition Old Toad SUSE beer. (...)" 
+"The openSUSE Conference went really well last week. There was an amazing range of material and the audienceâ€™s participation in every talk I attended showed that the openSUSE project has moved past the show-and-tell presentations of a company and its customers to a community using the event to share knowledge between its members and develop. As part of the openSUSE Boosters team, I was in it up to my neck. On Wednesday I started with a talk on image building for application authors which was well attended but I think I should tweak towards usersâ€™ needs as there werenâ€™t many app authors present. I gave a talk about the upcoming KDE features that will be in openSUSE 11.4 on Thursday, because openSUSE 11.3 had KDE 4.4 but due to the 3 month difference in both projectsâ€™ release cycles, openSUSE 11.4 will have the KDE 4.6 releases of platform, workspaces and apps. That equals a lot of changes, so I summarized them for people who donâ€™t read Planet KDE as avidly as I do. The Lizard Lounge event in the SUSE building on Thursday night gave everyone a chance to catch their breath drinking limited edition Old Toad SUSE beer. (...)" 
 
 
 
@@ -558,7 +561,7 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-"With established ARM support in OBS the as well as emulated MIPS and PowerPC is getting more mature, the last big embedded architecture not working in OBS with QEMU user mode was SH4. QEMU developers community had done a lot of work in improving QEMU user mode during the last months, so I can proudly present with currently only a few patches to QEMU git master OBS builds working with the SH4 port of Debian Sid. The new QEMU 0.13 released recently is a big milestone for this. Another news is that I had fixed the bugs in Virtual Machine builds (build script) when using them with some architectures like PowerPC 32bit and SH4. So now also the combination of using for example KVM (XEN should also work) in a worker together with ARM, MIPS, PowerPC and SH4 is working. The appropriate fixes are in one of the next build script releases (if not even released already now with OBS 2.1, I have to check that). You can select architecture sh4³ with OBS 2.1 and also start a scheduler with sh4³." 
+"With established ARM support in OBS the as well as emulated MIPS and PowerPC is getting more mature, the last big embedded architecture not working in OBS with QEMU user mode was SH4. QEMU developers community had done a lot of work in improving QEMU user mode during the last months, so I can proudly present with currently only a few patches to QEMU git master OBS builds working with the SH4 port of Debian Sid. The new QEMU 0.13 released recently is a big milestone for this. Another news is that I had fixed the bugs in Virtual Machine builds (build script) when using them with some architectures like PowerPC 32bit and SH4. So now also the combination of using for example KVM (XEN should also work) in a worker together with ARM, MIPS, PowerPC and SH4 is working. The appropriate fixes are in one of the next build script releases (if not even released already now with OBS 2.1, I have to check that). You can select architecture â€œsh4â€³ with OBS 2.1 and also start a scheduler with â€œsh4â€³." 
 
 
 
@@ -568,7 +571,7 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-"I am finally home from openSUSE Conference v2.0 and now I have time to write an article about it. Conference started for me on tuesday with my arrival. I have only 240km ride to Nuremberg but with train you need nearly 4 hours. For the first evening I joined one of the planned social dinners. So I went with some others to a chinese restaurant nearby. I was not really happy about the situation to have two of them but Will saw not my announcement on the project mailinglist and planned a second one. But some of the KDE people from the other dinner joined us later. Personnally I like such things so I think we should plan such a thing next conference from the beginning on. Next day the conference started with Hennes kicking ass keynote and ended with my talk about free and open movies and of course I showed some of them. I write an second article about that and of course I load up my slides and give the URLs to the movies I showed there. Between that I attend only a few talks and sessions, one of them was the session about the foundation. Second day I had also not a lot of time to attend sessions, but that means not I did nothing, I had a lot of conversations with people I do work and thats more important for me. I load up some photos and did some tweets and thats what I tried to do, give the part of our community the not can attend the conference a view whats going on there. The day ended with the Lizard Lounge the social event of the openSUSE Conference." ====[[http://lizards.opensuse.org/2010/10/24/upstream-holiday/](http://lizards.opensuse.org/2010/10/24/upstream-holiday/) The openSUSE Conference went really well last week. There was an amazing range of material and the audience™s participation in every talk I attended showed that the openSUSE project has moved past the show-and-tell presentations of a company and its customers to a community using the event to share knowledge between its members and develop. As part of the openSUSE Boosters team, I was in it up to my neck. On Wednesday I started with a talk on image building for application authors which was well attended but I think I should tweak towards users™ needs as there weren™t many app authors present. I gave a talk about the upcoming KDE features that will be in openSUSE 11.4 on Thursday, because openSUSE 11.3 had KDE 4.4 but due to the 3 month difference in both projects™ release cycles, openSUSE 11.4 will have the KDE 4.6 releases of platform, workspaces and apps. That equals a lot of changes, so I summarized them for people who don™t read Planet KDE as avidly as I do. The Lizard Lounge event in the SUSE building on Thursday night gave everyone a chance to catch their breath drinking limited edition Old Toad SUSE beer. On Friday I gave a spontaneous BoF on KWin™s current and upcoming features. Can you name the four ways to show your desktop in 4.5? I only had 3 until a member of the audience pointed out a 4th. And yesterday I supported Chani™s workshop on developing for Plasma using Javascript and QML, which piqued the audience™s interest by showing how KDE™s high-level services like the Plasma applets framework and the KConfig configuration storage library add value to the glamour of QML and QGraphicsView. To enable all of the audience to participate, I™d prepared another live image, this time an SDK based on KDE trunk, Qt 4.7 and latest Qt Designer 2.0.1 with all the headers and developer docu on board. This paid off, as unlike at Akademy, most people didn™t have developer builds ready to go on their laptops. Within minutes we had copies booting from everyone™s USB sticks and people were working through the included git repository of tutorials prepared by Chani, making flags change colour on click and saving applet state using only a schema file and a Qt Designer config UI." 
+"I am finally home from openSUSE Conference v2.0 and now I have time to write an article about it. Conference started for me on tuesday with my arrival. I have only 240km ride to Nuremberg but with train you need nearly 4 hours. For the first evening I joined one of the planned social dinners. So I went with some others to a chinese restaurant nearby. I was not really happy about the situation to have two of them but Will saw not my announcement on the project mailinglist and planned a second one. But some of the KDE people from the other dinner joined us later. Personnally I like such things so I think we should plan such a thing next conference from the beginning on. Next day the conference started with Hennes kicking ass keynote and ended with my talk about free and open movies and of course I showed some of them. I write an second article about that and of course I load up my slides and give the URLs to the movies I showed there. Between that I attend only a few talks and sessions, one of them was the session about the foundation. Second day I had also not a lot of time to attend sessions, but that means not I did nothing, I had a lot of conversations with people I do work and thats more important for me. I load up some photos and did some tweets and thats what I tried to do, give the part of our community the not can attend the conference a view whats going on there. The day ended with the Lizard Lounge the social event of the openSUSE Conference." ====[[http://lizards.opensuse.org/2010/10/24/upstream-holiday/](http://lizards.opensuse.org/2010/10/24/upstream-holiday/) The openSUSE Conference went really well last week. There was an amazing range of material and the audienceâ€™s participation in every talk I attended showed that the openSUSE project has moved past the show-and-tell presentations of a company and its customers to a community using the event to share knowledge between its members and develop. As part of the openSUSE Boosters team, I was in it up to my neck. On Wednesday I started with a talk on image building for application authors which was well attended but I think I should tweak towards usersâ€™ needs as there werenâ€™t many app authors present. I gave a talk about the upcoming KDE features that will be in openSUSE 11.4 on Thursday, because openSUSE 11.3 had KDE 4.4 but due to the 3 month difference in both projectsâ€™ release cycles, openSUSE 11.4 will have the KDE 4.6 releases of platform, workspaces and apps. That equals a lot of changes, so I summarized them for people who donâ€™t read Planet KDE as avidly as I do. The Lizard Lounge event in the SUSE building on Thursday night gave everyone a chance to catch their breath drinking limited edition Old Toad SUSE beer. On Friday I gave a spontaneous BoF on KWinâ€™s current and upcoming features. Can you name the four ways to show your desktop in 4.5? I only had 3 until a member of the audience pointed out a 4th. And yesterday I supported Chaniâ€™s workshop on developing for Plasma using Javascript and QML, which piqued the audienceâ€™s interest by showing how KDEâ€™s high-level services like the Plasma applets framework and the KConfig configuration storage library add value to the glamour of QML and QGraphicsView. To enable all of the audience to participate, Iâ€™d prepared another live image, this time an SDK based on KDE trunk, Qt 4.7 and latest Qt Designer 2.0.1 with all the headers and developer docu on board. This paid off, as unlike at Akademy, most people didnâ€™t have developer builds ready to go on their laptops. Within minutes we had copies booting from everyoneâ€™s USB sticks and people were working through the included git repository of tutorials prepared by Chani, making flags change colour on click and saving applet state using only a schema file and a Qt Designer config UI." 
 
 
 
@@ -578,7 +581,7 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-"I am home from the openSUSE Conference 2010 and finally landed on the sofa. I don™t know why conferences are so exhausting, but they are for me. My brain slowly becomes sorted again and starts to reflect what happened on the conference. Wow, I can say that I didn™t expect it to become such a great event. There were so many interesting and enthusiastic discussions about topics concerning the openSUSE distribution or about things you can do under the openSUSE umbrella. The fun side of community and technology was inspiring people all over, in opposite to some situations I remember on the last years conference where we had to deal with unpleasant topics. This seemed to have completely went away, instead people were aiming to solve problems together in a constructive way or, even more fun, worked on new things without so called stop-energy." 
+"I am home from the openSUSE Conference 2010 and finally landed on the sofa. I donâ€™t know why conferences are so exhausting, but they are for me. My brain slowly becomes sorted again and starts to reflect what happened on the conference. Wow, I can say that I didnâ€™t expect it to become such a great event. There were so many interesting and enthusiastic discussions about topics concerning the openSUSE distribution or about things you can do under the openSUSE umbrella. The fun side of community and technology was inspiring people all over, in opposite to some situations I remember on the last years conference where we had to deal with unpleasant topics. This seemed to have completely went away, instead people were aiming to solve problems together in a constructive way or, even more fun, worked on new things without so called stop-energy." 
 
 
 
@@ -630,10 +633,10 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [openSUSE News: The openSUSE Build Service 2.1 released](https://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/)
+####  [openSUSE News: The openSUSE Build Service 2.1 released](http://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/)
 
 
-"The openSUSE Build Service “ OBS “ is now officially at release 2.1. We™re delighted with the improvements in this release, including an enhanced web interface, integration with online code management systems and better access controls. (...)" 
+"The openSUSE Build Service â€“ OBS â€“ is now officially at release 2.1. Weâ€™re delighted with the improvements in this release, including an enhanced web interface, integration with online code management systems and better access controls. (...)" 
 
 
 ####  [Jos Poortvliet: Almost time!](http://nowwhatthe.blogspot.com/2010/10/almost-time.html)
@@ -667,7 +670,7 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-"Before and during the openSUSE conference, some nice people (Jens-Daniel, Jürgen, Darix) created the following site for you:  
+"Before and during the openSUSE conference, some nice people (Jens-Daniel, JÃ¼rgen, Darix) created the following site for you:  
 
 [http://rtfm.opensuse.org](http://rtfm.opensuse.org/)  
 
@@ -677,7 +680,7 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
   
 
- It™s a static page (at the moment?) and collects the current documentation from several products and projects. Probably you will see more to come in the next weeks.  
+ Itâ€™s a static page (at the moment?) and collects the current documentation from several products and projects. Probably you will see more to come in the next weeks.  
 
   
 
@@ -686,22 +689,22 @@ In Henne™s keynote, Get your ass up!, he talks about where we are and how we
 
 
 
-####  [OSC2010 Key note “ From Developers to Users and back](https://news.opensuse.org/2010/10/21/osc2010-key-note-from-developers-to-users-and-back/)
+####  [OSC2010 Key note â€“ From Developers to Users and back](http://news.opensuse.org/2010/10/21/osc2010-key-note-from-developers-to-users-and-back/)
 
 
 
 
-"Frank Karlitschek will show us on Saturday at 9:30 the project he™s working on to simplify the way software gets to users. Frank has deep knowledge in open source communities as member of the KDE e.V. Board of Directors and eg. as driver behind the open-PC project and some more activities he™s doing. What makes developers and users happy ? Currently developers create great software solving the user™s problem. But getting the software in a consumable way, simple, fast and efficient to the user nowadays still comes with some challenges. And marketing of the software isn™t covered either yet. So, maybe this situation could be improved. This is the first public presentation of on ongoing project to radically simplify the work for the developers and make new applications available for end users in just a few minutes. If you have not registered for the conference yet, please do so here to assure we have enough chairs. Our yearly conference is free of charge, offers interesting talks and gives you the best chance to meet many cool people in person!" 
+"Frank Karlitschek will show us on Saturday at 9:30 the project heâ€™s working on to simplify the way software gets to users. Frank has deep knowledge in open source communities as member of the KDE e.V. Board of Directors and eg. as driver behind the open-PC project and some more activities heâ€™s doing. What makes developers and users happy ? Currently developers create great software solving the userâ€™s problem. But getting the software in a consumable way, simple, fast and efficient to the user nowadays still comes with some challenges. And marketing of the software isnâ€™t covered either yet. So, maybe this situation could be improved. This is the first public presentation of on ongoing project to radically simplify the work for the developers and make new applications available for end users in just a few minutes. If you have not registered for the conference yet, please do so here to assure we have enough chairs. Our yearly conference is free of charge, offers interesting talks and gives you the best chance to meet many cool people in person!" 
 
 
 
 
-####  [Smeegol at oSC](https://news.opensuse.org/2010/10/23/smeegol-at-osc/)
+####  [Smeegol at oSC](http://news.opensuse.org/2010/10/23/smeegol-at-osc/)
 
 
 
 
-"Wednesday at the conference, Smeegol master Andrew Funkypenguin Wafaa was given the stage by Michael Meeks who was supposed to talk about MeeGo. Meeks claimed that he™d rather have someone on the stage who actually knew what he was talking about, hence Andrew had to explain himself to the audience. **What is special about Smeegol** According to Andrew he developed Smeegol in part because he thought he could do better by building upon openSUSE. openSUSE has a real ˜open™ builservice, where anyone can easily contribute code and improvements to the packages where MeeGo has a much more closed development process. Moreover, openSUSE offers a whole ecosystem of services like a wiki and a bugtracker; and more importantly, openSUSE has a huge community of experts in a variety of area™s who can answer questions and contribute solutions to the many issues that MeeGo faces. Andrew has, for many applications and components in Smeegol, taken advantage of existing openSUSE packages thus offering NetworkManager (which offers proper encryption support, AdHoc networking, VPN etc ) and a more up-to-date Chromium. Andrew also spend considerable time in getting more social networking features to work in Smeegol “ like Facebook and twitter." 
+"Wednesday at the conference, Smeegol master Andrew â€œFunkypenguinâ€ Wafaa was given the stage by Michael Meeks who was supposed to talk about MeeGo. Meeks claimed that heâ€™d rather have someone on the stage who actually knew what he was talking about, hence Andrew had to explain himself to the audience. **What is special about Smeegol** According to Andrew he developed Smeegol in part because he thought he could do better by building upon openSUSE. openSUSE has a real â€˜openâ€™ builservice, where anyone can easily contribute code and improvements to the packages where MeeGo has a much more closed development process. Moreover, openSUSE offers a whole ecosystem of services like a wiki and a bugtracker; and more importantly, openSUSE has a huge community of experts in a variety of areaâ€™s who can answer questions and contribute solutions to the many issues that MeeGo faces. Andrew has, for many applications and components in Smeegol, taken advantage of existing openSUSE packages thus offering NetworkManager (which offers proper encryption support, AdHoc networking, VPN etc ) and a more up-to-date Chromium. Andrew also spend considerable time in getting more social networking features to work in Smeegol â€“ like Facebook and twitter." 
 
 
 
@@ -1156,7 +1159,7 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
 
 
 
-"A couple weeks into the LibreOffice project, and the room is really beginning to come together. Let™s try to summarize what™s been happening: 
+"A couple weeks into the LibreOffice project, and the room is really beginning to come together. Letâ€™s try to summarize whatâ€™s been happening: 
 
 
 
@@ -1209,7 +1212,7 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -1262,16 +1265,16 @@ Past:
 
 
 
-  * [**October 13, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**October 13, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**October 14, 2010: ï»¿openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**October 14, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
-  * [**October 20, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**October 20, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
-  * [**October 21, 2010: Lizard Lounge**](https://news.opensuse.org/2010/10/14/lizard-lounge-2/)
+  * [**October 21, 2010: Lizard Lounge**](http://news.opensuse.org/2010/10/14/lizard-lounge-2/)
 
 
   * [**October 20-23, 2010: openSUSE Conference 2010 (Nuremberg, Germany)**](http://en.opensuse.org/Portal:Conference)
@@ -1285,7 +1288,7 @@ Past:
 
 
 
-  * [** October 27, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [** October 27, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
   * [** November 6, 2010: Brandenburger Linuxinfotag (Germany)**](http://blit.org/)
@@ -1308,7 +1311,7 @@ Past:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1331,20 +1334,20 @@ Past:
 
 
 
-"Yogyakarta is one of the tourism destination in Indonesia. The unique Javanise tradition blend with some acculturation from outside culture. Recently I was asked by the Ministry of Communication and Information Technology and Office of Education, Youth and Sport of Yogyakarta to help them to prepare the computer lab for elementary and junior high school in Yogyakarta Province “ Indonesia.  
+"Yogyakarta is one of the tourism destination in Indonesia. The unique Javanise tradition blend with some acculturation from outside culture. Recently I was asked by the Ministry of Communication and Information Technology and Office of Education, Youth and Sport of Yogyakarta to help them to prepare the computer lab for elementary and junior high school in Yogyakarta Province â€“ Indonesia.  
 
   
 
- Well, this is the tough job. I work with some expert, teacher and education strategist to prepare the e-learning system. We should prepare learning/teaching material in digital format, train the teacher to use authoring tools and operating system, and prepare the schools to be ready to receive the PC™s. This government initiative will involve 500 schools in 3 years. Every school that involve in this program will receive 21 PCs.  
+ Well, this is the tough job. I work with some expert, teacher and education strategist to prepare the e-learning system. We should prepare learning/teaching material in digital format, train the teacher to use authoring tools and operating system, and prepare the schools to be ready to receive the PCâ€™s. This government initiative will involve 500 schools in 3 years. Every school that involve in this program will receive 21 PCs.  
 
   
 
- We select openSUSE Li-f-e as the operating system in every pc. The selection is not because I™m an openSUSE member but we come to the conclusion that openSUSE Li-f-e is the most complete and well prepare distribution for education (well, I convince other expert, some of them are Ph.D, he..he¦). This year there are 110 schools involve in this program, this means another new 2310 openSUSE installation and more than 4000 new users if we assume that every PC will be used by 2 students. (...)" 
+ We select openSUSE Li-f-e as the operating system in every pc. The selection is not because Iâ€™m an openSUSE member but we come to the conclusion that openSUSE Li-f-e is the most complete and well prepare distribution for education (well, I convince other expert, some of them are Ph.D, he..heâ€¦). This year there are 110 schools involve in this program, this means another new 2310 openSUSE installation and more than 4000 new users if we assume that every PC will be used by 2 students. (...)" 
 
 
 
 
-####  [Kálmán KÃ©mÃ©nczy: Linux in Education (LOK) - Budapest, Hungary - Report](http://lists.opensuse.org/opensuse-ambassadors/2010-10/msg00061.html)
+####  [KÃ¡lmÃ¡n KÃ©mÃ©nczy: Linux in Education (LOK) - Budapest, Hungary - Report](http://lists.opensuse.org/opensuse-ambassadors/2010-10/msg00061.html)
 
 
 
@@ -1357,7 +1360,7 @@ Past:
 Event: Linux in Education (LOK) - Budapest, Hungary.  Date: October 16th, 2010.  Location: Miklos Bercsenyi High School and College (...)" 
 
 
-####  [Kálmán KÃ©mÃ©nczy: Ambassador goal review - Hungary](http://lists.opensuse.org/opensuse-ambassadors/2010-10/msg00063.html)
+####  [KÃ¡lmÃ¡n KÃ©mÃ©nczy: Ambassador goal review - Hungary](http://lists.opensuse.org/opensuse-ambassadors/2010-10/msg00063.html)
 
 
 
@@ -1460,7 +1463,7 @@ Event: Linux in Education (LOK) - Budapest, Hungary.  Date: October 16th, 2010. 
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/66367)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/66367)
 
 
 </td>
@@ -1568,11 +1571,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"The new kernel version is notable because it hasn't grown in size “ yet it contains hundreds of advancements which will be obvious to end users, who don't often notice changes in their Linux distribution's kernel.  
+"The new kernel version is notable because it hasn't grown in size â€“ yet it contains hundreds of advancements which will be obvious to end users, who don't often notice changes in their Linux distribution's kernel.  
 
   
 
- After 80 days of development Linus Torvalds has released Linux version 2.6.36. It got the name "Flesh-Eating Bats with Fangs" with the eight pre-release; Torvalds was inspired by a bat that recently found its way into his house. The new Linux kernel is no larger than its immediate predecessor “ a rarity, as over the past few years the kernel sources have grown by several hundred thousand lines of code with every new version released in the main development branch. (...)" 
+ After 80 days of development Linus Torvalds has released Linux version 2.6.36. It got the name "Flesh-Eating Bats with Fangs" with the eight pre-release; Torvalds was inspired by a bat that recently found its way into his house. The new Linux kernel is no larger than its immediate predecessor â€“ a rarity, as over the past few years the kernel sources have grown by several hundred thousand lines of code with every new version released in the main development branch. (...)" 
 
 
 
@@ -1580,7 +1583,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Rares Aioanei: Kernel Weekly News 23.10.2010](http://schaiba.wordpress.com/2010/10/20/kernel-weekly-news-23-10-2010/)
 
 
-"Hello gals and guys and welcome! Since last time, we have a wave of interesting patches, updates and RFCs so let™s just get into it." 
+"Hello gals and guys and welcome! Since last time, we have a wave of interesting patches, updates and RFCs so letâ€™s just get into it." 
 </td>
 </tr>
 </tbody>
@@ -1641,7 +1644,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"In openSUSE 11.3, laptops installed with the BCM4311/BCM4312/BCM4321/BCM4322 Wireless LAN cards like the Dell Inspiron 1525 do not have drivers installed and hence do not work out of the box. In Dell this Wireless card is labelled as Dell 1395 Wireless card. The broadcom-wl package which contain Broadcom™s IEEE 802.11a/b/g/n hybrid LinuxÂ® device driver for use with Broadcom™s BCM4311-, BCM4312-, BCM4321-, and BCM4322-based hardware doesn™t seem to work. (...)" 
+"In openSUSE 11.3, laptops installed with the BCM4311/BCM4312/BCM4321/BCM4322 Wireless LAN cards like the Dell Inspiron 1525 do not have drivers installed and hence do not work out of the box. In Dell this Wireless card is labelled as â€œDell 1395 Wireless cardâ€. The broadcom-wl package which contain Broadcomâ€™s IEEE 802.11a/b/g/n hybrid LinuxÂ® device driver for use with Broadcomâ€™s BCM4311-, BCM4312-, BCM4321-, and BCM4322-based hardware doesnâ€™t seem to work. (...)" 
 
 
 
@@ -1675,7 +1678,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 "This is a quick tip for all those beginers on openSUSE, SUSE Linux or even for that matter on any Linux or Unix distros on how to send an email from command line with an attachment. This could be a text or an image file.  
 
- By default, mail messages can be encoded with the file content into the mail message body rather than adding the required file as an attachment. To send a file as an attachment use the uuencode utility as follows: (...)" 
+ By default, mail messages can be encoded with the file content into the mail message body rather than adding the required file as an attachment. To send a file as an attachment use the â€œuuencodeâ€ utility as follows: (...)" 
 
 
 
@@ -1707,7 +1710,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"As of February 2010, Apache served over 54.46% of all websites and over 66% of the million busiest. It is available on a wide variety of platforms including Linux, Mac OS X, Windows and BSD. One of the key factors behind Apache HTTP Server™s success is its modular architecture. The Apache HTTP Server core is very simple and doesn™t do much. The default distribution of HTTP Server contains the core and a set of core Apache Modules that handle most of the web-server-related operations. This modular architecture presents several benefits. For example, instead of running the full server, one can enable only the modules that one will use; this way one can run the most efficient version of the HTTP Server without changing the server code. Another benefit of modular architecture is extensibility. Apache as a web server community implements a defined feature set approved by the community, but that may or may not be enough for everybody. With extensible architecture, anybody can extend Apache HTTP Server according to their needs by developing Apache modules. (...)" 
+"As of February 2010, Apache served over 54.46% of all websites and over 66% of the million busiest. It is available on a wide variety of platforms including Linux, Mac OS X, Windows and BSD. One of the key factors behind Apache HTTP Serverâ€™s success is its modular architecture. The Apache HTTP Server core is very simple and doesnâ€™t do much. The default distribution of HTTP Server contains the core and a set of core Apache Modules that handle most of the web-server-related operations. This modular architecture presents several benefits. For example, instead of running the full server, one can enable only the modules that one will use; this way one can run the most efficient version of the HTTP Server without changing the server code. Another benefit of modular architecture is extensibility. Apache as a web server community implements a defined feature set approved by the community, but that may or may not be enough for everybody. With extensible architecture, anybody can extend Apache HTTP Server according to their needs by developing Apache modules. (...)" 
 
 
 
@@ -1793,12 +1796,12 @@ Edit this file and set the following values: (...)"
 
 
 
-####  [Nelson Marques: openoffice.org and Libre Office¦](http://nmarques.digitalwhores.net/2010/10/18/openoffice-org-and-libre-office/)
+####  [Nelson Marques: openoffice.org and Libre Officeâ€¦](http://nmarques.digitalwhores.net/2010/10/18/openoffice-org-and-libre-office/)
 
 
 
 
-"Yesterday I™ve found an interesting piece on /., a bit sensationalist and maybe misleading, but nevertheless interesting with a flashy title. I™ve closely look at the source of such article looking for a possible justification for the title, though unable to find one that could justify it. But this is not important¦" 
+"Yesterday Iâ€™ve found an interesting piece on /., a bit sensationalist and maybe misleading, but nevertheless interesting with a flashy title. Iâ€™ve closely look at the source of such article looking for a possible justification for the title, though unable to find one that could justify it. But this is not importantâ€¦" 
 
 
 
@@ -1836,23 +1839,23 @@ _The SMB traffic analyzer software suite is a toolset aimed at visualizing the d
 
 
 
-"For those of you who haven™t met pkg-config yet a short introduction from its project page: 
+"For those of you who havenâ€™t met pkg-config yet a short introduction from its project page: 
 
 
 pkg-config is a helper tool used when compiling applications and libraries. It helps you insert the correct compiler options on the command line so an application can use gcc -o test test.c `pkg-config --libs --cflags glib-2.0` for instance, rather than hard-coding values on where to find glib (or other libraries). It is language-agnostic, so it can be used for defining the location of documentation tools, for instance. 
 
 
-More and more projects are using pkg-config already, but there is still a very high number of projects that don™t. This post tries to describe why using pkg-config is a good idea." 
+More and more projects are using pkg-config already, but there is still a very high number of projects that donâ€™t. This post tries to describe why using pkg-config is a good idea." 
 
 
 
 
-####  [Sebastian Kügler: Schizophrenic clock effect](http://vizzzion.org/blog/2010/10/schizophrenic-clock-effect/)
+####  [Sebastian KÃ¼gler: Schizophrenic clock effect](http://vizzzion.org/blog/2010/10/schizophrenic-clock-effect/)
 
 
 
 
-"On the train back from the openSUSE conference, I read an article about improvements in Plasma 4.5 in the German edition of Linux Magazin. The author noticed the re-designed notification area with its more consistent and clean look, but also mentioned that the clock looks visually somewhat outdated in the panel now. Fair enough, most of the notification area has seen a bunch of iterations over their looks, but the digital clock didn™t really receive much visual love other than bugfixes in alignment and layout of the clock. I thought a bit about what would make the digital clock look better, and identified two things: the full bleed color sticks out a bit, and the clock looks flat compared to its neighbours in the panel. (...)" 
+"On the train back from the openSUSE conference, I read an article about improvements in Plasma 4.5 in the German edition of Linux Magazin. The author noticed the re-designed notification area with its more consistent and clean look, but also mentioned that the clock looks visually somewhat outdated in the panel now. Fair enough, most of the notification area has seen a bunch of iterations over their looks, but the digital clock didnâ€™t really receive much visual love other than bugfixes in alignment and layout of the clock. I thought a bit about what would make the digital clock look better, and identified two things: the full bleed color sticks out a bit, and the clock looks flat compared to its neighbours in the panel. (...)" 
 
 
 
@@ -1980,7 +1983,7 @@ More and more projects are using pkg-config already, but there is still a very h
 
 
 
-"The Chromeless project experiments with the idea of removing the current browser user interface and replacing it with a flexible platform which allows for the creation of new browser UI using standard Web technologies such as HTML, CSS and JavaScript." 
+"The â€œChromelessâ€ project experiments with the idea of removing the current browser user interface and replacing it with a flexible platform which allows for the creation of new browser UI using standard Web technologies such as HTML, CSS and JavaScript." 
 
 
 
@@ -2096,11 +2099,11 @@ More and more projects are using pkg-config already, but there is still a very h
 
 
 
-"It's a well-established truth in marketing that brands aren't about products or even experiences ” they are about people. Create a community in which your user feels at home, where their questions are answered,their voices heard and their contributions appreciated, and half of your marketing work is done. It doesn't matter how clever your social media feed is if you don't have a core of humanity at the centre of your project.  
+"It's a well-established truth in marketing that brands aren't about products or even experiences â€” they are about people. Create a community in which your user feels at home, where their questions are answered,their voices heard and their contributions appreciated, and half of your marketing work is done. It doesn't matter how clever your social media feed is if you don't have a core of humanity at the centre of your project.  
 
   
 
- The openSUSE conference in Nürnberg, with a theme of "collaboration across borders," will highlight this pivotal aspect of Free and Open Source Software development. Although a distribution-sponsored conference, this event will involve an extended cross-section of the FOSS world, including other distributions, desktop projects and upstream developers. (...)" 
+ The openSUSE conference in NÃ¼rnberg, with a theme of "collaboration across borders," will highlight this pivotal aspect of Free and Open Source Software development. Although a distribution-sponsored conference, this event will involve an extended cross-section of the FOSS world, including other distributions, desktop projects and upstream developers. (...)" 
 
 
 
@@ -2193,7 +2196,7 @@ More and more projects are using pkg-config already, but there is still a very h
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?p=5240) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=5240) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -2202,7 +2205,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -2247,7 +2250,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -2256,7 +2259,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -2322,7 +2325,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/146)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/146)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/146)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/146)
@@ -2361,4 +2364,3 @@ Delayed / to be translated:
 </table>
   
 
-		

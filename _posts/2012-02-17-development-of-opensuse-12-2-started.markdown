@@ -1,13 +1,16 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2012-02-17 09:00:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/02/17/development-of-opensuse-12-2-started/
-title: "Development of openSUSE 12.2 started!"
+slug: development-of-opensuse-12-2-started
+title: Development of openSUSE 12.2 started!
+wordpress_id: 12703
 categories:
 - Distribution
 ---
+
 With the release of [Milestone 1,](http://software.opensuse.org/developer) the development of openSUSE 12.2 has started! We're pleased to announce that Milestone 1 contains many minor updates, like a new Firefox version but also major things like new artwork and KDE 4.8.
 
 <!-- more -->
@@ -30,4 +33,4 @@ Please keep in mind that Milestone 1 is only the beginning of the 12.2 developme
 
 
 
-Have a lot of fun...		
+Have a lot of fun...

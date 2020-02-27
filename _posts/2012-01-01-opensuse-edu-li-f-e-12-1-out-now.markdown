@@ -1,10 +1,12 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2012-01-01 00:00:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/01/01/opensuse-edu-li-f-e-12-1-out-now/
-title: "openSUSE Edu Li-f-e 12.1 out now!"
+slug: opensuse-edu-li-f-e-12-1-out-now
+title: openSUSE Edu Li-f-e 12.1 out now!
+wordpress_id: 12364
 categories:
 - Announcements
 - Edu Li-f-e
@@ -13,7 +15,6 @@ tags:
 - opensuse-edu
 ---
 
-
 <blockquote>Announcement by Jigish Gohil</blockquote>
 
 
@@ -21,7 +22,7 @@ openSUSE Education team is proud to present another edition of openSUSE-Edu Li-f
 
 Softwares for mathematics, chemistry, astronomy etc, servers like KIWI-LTSP, Fedena school ERP, Moodle course management etc., full multimedia, graphics, office suite, many popular programming languages including AMP stack, java, C, C++, python, ruby, latest stable Gnome and KDE desktop environments and lot more is packed in this release. More about softwares included here.
 
-[![Geeko goodies]({{ site.baseurl }}/assets/DSC04361-300x199.jpg)](https://news.opensuse.org/2011/11/15/join-or-organize-opensuse-12-1-launch-parties/dsc04361/)
+[![Geeko goodies](/wp-content/uploads/2011/11/DSC04361.jpg)](http://news.opensuse.org/2011/11/15/join-or-organize-opensuse-12-1-launch-parties/dsc04361/)
 
 To know more about openSUSE Education project, file bugs, request enhancements, participate, or to get in touch with us visit Education Portal.
 
@@ -42,4 +43,4 @@ Create live USB stick or DVD with this image. About 15GB disk space and 1GB RAM 
 Use download manager or [Metalink](http://en.opensuse.org/SDB:Metalink) client such as aria2c for most efficient way to download.
 
 You can skip to the end and leave a response. Pinging is currently not allowed.
-Happy holidays¦		
+Happy holidaysâ€¦

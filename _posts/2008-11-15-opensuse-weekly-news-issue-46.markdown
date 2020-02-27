@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-11-15 20:02:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/11/15/opensuse-weekly-news-issue-46/
-title: "openSUSE Weekly News, Issue 46"
+slug: opensuse-weekly-news-issue-46
+title: openSUSE Weekly News, Issue 46
+wordpress_id: 1094
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #46 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/46)!  
-In this week™s issue:
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #46 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/46)!  
+In this weekâ€™s issue:
 
 
   * openSUSE 11.1 Beta 5 Released
@@ -31,4 +34,4 @@ The openSUSE Weekly News is translated to:
 [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/46), 
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/46), 
 [Portuguese](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/46) (delayed) and 
-[Indonesian](http://en.opensuse.org/OpenSUSE_Weekly_News/46/indonesian)  (delayed). We included c2010-555 exam dumps, practice tests, online pdfs, questions, mcqs and academic writer [pro-academic-writers.com](https://pro-academic-writers.com/) many more preparation material in our product from which it students can prepare for the exam easily		
+[Indonesian](http://en.opensuse.org/OpenSUSE_Weekly_News/46/indonesian)  (delayed). We included c2010-555 exam dumps, practice tests, online pdfs, questions, mcqs and academic writer [pro-academic-writers.com](https://pro-academic-writers.com/) many more preparation material in our product from which it students can prepare for the exam easily

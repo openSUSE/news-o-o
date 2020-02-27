@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-02-27 11:16:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/02/27/opensuse-weekly-news-issue-164-is-out/
-title: "openSUSE Weekly News, Issue 164 is out!"
+slug: opensuse-weekly-news-issue-164-is-out
+title: openSUSE Weekly News, Issue 164 is out!
+wordpress_id: 7096
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce the new openSUSE Weekly News Issue 164.
 
 <!-- more -->
@@ -210,10 +213,10 @@ Counter for openSUSE 11.4
 
 
 
+â€œ
 
 
-
-[openSUSE participates in the Google Summer of Code 2011](https://news.opensuse.org/2011/02/22/opensuse-participates-in-the-google-summer-of-code-2011/)
+[openSUSE participates in the Google Summer of Code 2011](http://news.opensuse.org/2011/02/22/opensuse-participates-in-the-google-summer-of-code-2011/)
 
 
 
@@ -231,7 +234,7 @@ License.](http://www.gnu.org/licenses/fdl.txt)**
 
 
 In about a week Google will accept applications from Free Software projects to be part of
-Google™s Summer of Code. This great project enables students who want to spend their summer
+Googleâ€™s Summer of Code. This great project enables students who want to spend their summer
 time working on Free Software instead of a regular summer job the opportunity to do. Commonly
 called GSOC, the program helps students by paying them cash for their code. A successful
 project makes the student about USD 5000 which certainly is not bad for a summer job.
@@ -259,18 +262,18 @@ want to do better and for that we need help. We need people from our community t
 be mentors, we need ideas for students to execute and of course we need students to submit
 proposals!
 
-Women, don™t forget you are very welcome to be part of openSUSE. We are a community which
+Women, donâ€™t forget you are very welcome to be part of openSUSE. We are a community which
 embraces diversity. We want everyone to have fun, no matter your, skill level, gender, race,
-cultural background or where you™re from. Everyone deserves an opportunity like this, so join
+cultural background or where youâ€™re from. Everyone deserves an opportunity like this, so join
 us!
 
 **Information **
 
-You can find openSUSE™s [wiki
+You can find openSUSEâ€™s [wiki
 page](http://en.opensuse.org/openSUSE:GSOC_2011) on GSOC 2011 here and our [list of ideas here](http://en.opensuse.org/openSUSE:GSOC_2011_Ideas). Many
 people have already submitted ideas but more are very welcome.
 
-
+â€
 
 
 
@@ -393,7 +396,7 @@ FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 
-
+â€œ
 
 
 [SUSE
@@ -432,7 +435,7 @@ While working on this, I noticed that there aren't any official public openSUSE
 AMIs out there, so I created some with SUSE Studio ([32 bit](http://susegallery.com/a/n0rKOx/opensuse-113-ami--2), [64 bit](http://susegallery.com/a/n0rKOx/opensuse-113-ami)). The full list of
 public openSUSE 11.3 AMIs are listed in the table below." (...)
 
-
+â€
 
 
 
@@ -500,7 +503,7 @@ public openSUSE 11.3 AMIs are listed in the table below." (...)
 
 
 
-
+â€œ
 
 
 [Brandon Philips:
@@ -557,7 +560,7 @@ takes up a lot of space.
 What do people think? I still feel like the horizontal layout is the best option but
 some more feedback would be helpful.
 
-
+â€
 
 
 
@@ -570,7 +573,7 @@ some more feedback would be helpful.
 
 
 
-
+â€œ
 
 
 [Sankar P: Introducing GOSC - A Graphical client for openSUSE Build Service](http://psankar.blogspot.com/2011/02/introducing-gosc-graphical-client-for.html)
@@ -745,7 +748,7 @@ During the implementation of this, I learned a lot about python. This experience
 
 Your feedback, comments and patches are very much welcome. "
 
-
+â€
 
 
 
@@ -793,11 +796,11 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 
 
 
-
+â€œ
 
 
 [Nelson
-Marques: Indicators for GNOME2 “ Update](http://lizards.opensuse.org/2011/02/19/indicators-for-gnome2-update/)
+Marques: Indicators for GNOME2 â€“ Update](http://lizards.opensuse.org/2011/02/19/indicators-for-gnome2-update/)
 
 
 
@@ -815,22 +818,22 @@ License.**
 
 
 "Canonical has been very active and released quite an impressive amount of bug
-fixes and features for their Ayatana Project software. I™ve been doing the updates, sent a
+fixes and features for their Ayatana Project software. Iâ€™ve been doing the updates, sent a
 couple of tiny patches upstream (mainly packaging issues) and with the RC1, I am very
 happy with the results accomplished.
 
-Regarding this project, I™ve seen news, blog posts and lots of feedback from several
-distribution users. I™ve found contents in German, Portuguese (Brazilian Portuguese),
+Regarding this project, Iâ€™ve seen news, blog posts and lots of feedback from several
+distribution users. Iâ€™ve found contents in German, Portuguese (Brazilian Portuguese),
 English, Russian and Spanish. For the most I believe everyone is happy this is happening.
 
-During the next week, I™m going to conduct an open-beta for the GNOME2 indicators from
+During the next week, Iâ€™m going to conduct an open-beta for the GNOME2 indicators from
 which I hope to get some feedback and improve things so that once openSUSE 11.4 is
 release, those users willing to use this software can do it safely, and off course in an
 openSUSE way, a rock solid and featured GNOME experience.
 
-I™ve created a pattern which will duplicated in the GNOME:Ayatana repository named
-˜gnome2-indicators™ which will install the 5 base indicators on Ubuntu Natty. About this
-indicators and some previous comments that I™ve seen online, I would like to clarify a
+Iâ€™ve created a pattern which will duplicated in the GNOME:Ayatana repository named
+â€˜gnome2-indicatorsâ€™ which will install the 5 base indicators on Ubuntu Natty. About this
+indicators and some previous comments that Iâ€™ve seen online, I would like to clarify a
 couple of things:
 
 
@@ -839,22 +842,22 @@ couple of things:
 
 
 	
-  * All the software is built on top of ˜openSUSE stack™, so we™re not really
-converting Ubuntu to RPM™s.
+  * All the software is built on top of â€˜openSUSE stackâ€™, so weâ€™re not really
+converting Ubuntu to RPMâ€™s.
 
 	
   * The patch level applied from Ubuntu is minimum, only the mandatory feature
-patches were applied on pure openSUSE stack. Some of this features weren™t
+patches were applied on pure openSUSE stack. Some of this features werenâ€™t
 upstreamed, while others were turned down, so GNOME:Ayatana will also provide the
 modified software required, this is the case of GTK+ (2.0) which is properly tested
 and no issues were found against the regular GTK+ stack on 11.4.
 
 	
-  * I™ve patched and built applications like Metacity, Empathy and gnome-session to
-enable functionality with the Indicators. I™m also serving this patched versions
-through GNOME:Ayatana, without them, there wouldn™t really be a pleasant indicator
+  * Iâ€™ve patched and built applications like Metacity, Empathy and gnome-session to
+enable functionality with the Indicators. Iâ€™m also serving this patched versions
+through GNOME:Ayatana, without them, there wouldnâ€™t really be a pleasant indicator
 experience for openSUSE users. I would love to see community contributions to
-GNOME:Ayatana for all of those that aren™t available yet. Don™t be shy, we don™t
+GNOME:Ayatana for all of those that arenâ€™t available yet. Donâ€™t be shy, we donâ€™t
 bite! (A big plus is that you can actually learn a lot, and the openSUSE GNOME Team
 is very friendly and helpful. If you really want to help and improve yourself, step
 forward!.
@@ -863,7 +866,7 @@ forward!.
 
 
 
-Now for real¦ what does the GNOME2 Indicator pattern offers?
+Now for realâ€¦ what does the GNOME2 Indicator pattern offers?
 
 
 
@@ -873,7 +876,7 @@ Now for real¦ what does the GNOME2 Indicator pattern offers?
 	
   1. A 99% working Session Indicator, from where users can perform several session
 related tasks (ex: logout, restart, switch users, hibernate, etc). The only feature
-I know it™s not present is the restart/relog option after software updates. If
+I know itâ€™s not present is the â€œrestart/relogâ€ option after software updates. If
 anyone want to work this indicator to work with PackageKit / YaST or zypper, would
 be probably a big plus and significative contribution to openSUSE and
 upstream.
@@ -884,24 +887,24 @@ upstream.
 	
   3. A simple clock indicator. This indicator is under very active development, and
 displays a simple calendar/clock with options to manage appointments (through
-Evolution). The ˜date/time™ configurations are disabled because on openSUSE we use
+Evolution). The â€˜date/timeâ€™ configurations are disabled because on openSUSE we use
 YaST for it. Except for this, everything seems to be working.
 
 	
-  4. Sound Menu indicator¦ the (in)famous Sound indicator from Ubuntu, which displays
+  4. Sound Menu indicatorâ€¦ the (in)famous Sound indicator from Ubuntu, which displays
 an horizontal slide bar for sound volume management and fully integrates with
-Banshee. Since I™m recent convert to Banshee from Totem because of the development
-of this project, I™ve also packaged and made available from GNOME:Ayatana two extensions:
+Banshee. Since Iâ€™m recent convert to Banshee from Totem because of the development
+of this project, Iâ€™ve also packaged and made available from GNOME:Ayatana two extensions:
 
 
 
 
 	
-    * banshee-extension-soundmenu “ Enables integration with soundmenu, really a
+    * banshee-extension-soundmenu â€“ Enables integration with soundmenu, really a
 plus/must if Banshee is your preferred multimedia player;
 
 	
-    * banshee-extension-indicator “ A Banshee indicator. I™ve only really
+    * banshee-extension-indicator â€“ A Banshee indicator. Iâ€™ve only really
 packaged this because it offers integration with Notify OSD, the indicator
 itself is less featured than the traditional gnome extension.
 
@@ -910,19 +913,19 @@ itself is less featured than the traditional gnome extension.
 
 
 	
-  5. The Messaging Menu “ Another controversial indicator¦ Currently it™s working
+  5. The Messaging Menu â€“ Another controversial indicatorâ€¦ Currently itâ€™s working
 with Empathy (patched with libindicate on GNOME:Ayatana), xchat, evolution and
 gwibber. Other applications like pidgin are known to work up to a certain point.
-This indicator grabs any incoming messaging and alerts the user for it. It™s not
+This indicator grabs any incoming messaging and alerts the user for it. Itâ€™s not
 really that bad once you get used to it (takes a couple of hours).
 
 
 
 
 
-Additionally to this, Notify OSD is also available for openSUSE 11.4, and doesn™t
+Additionally to this, Notify OSD is also available for openSUSE 11.4, and doesnâ€™t
 require any extra repository. openSUSE 11.4 ships with a version of Notify OSD that allows
-the user to skin/theme it in several ways. This behavior isn™t enabled on Ubuntu and
+the user to skin/theme it in several ways. This behavior isnâ€™t enabled on Ubuntu and
 relies on a patched refused by upstream by Roman Sokuchev. The development project for
 this package is GNOME:Apps, and my thanks to Vincent Untz and Dominique L. for helping
 with the process.
@@ -930,22 +933,20 @@ with the process.
 During next week, GNOME:Ayatana will be populated and a free open BETA will be start
 to gather feedback amongst our users.
 
-A side note¦ Yesterday an update for Sound Menu was issued by Canonical and it deeply
+A side noteâ€¦ Yesterday an update for Sound Menu was issued by Canonical and it deeply
 relies on libnotify >= 0.7.0. openSUSE 11.4 will ship with libnotify 0.6.0 and
-therefore I™m not committing more changes to Sound Menu and will only fix critical issues
+therefore Iâ€™m not committing more changes to Sound Menu and will only fix critical issues
 if found for this package.
 
-After openSUSE 11.4 is released, I™ll start working on implementing this for GNOME3,
+After openSUSE 11.4 is released, Iâ€™ll start working on implementing this for GNOME3,
 and hopefully now I will have enough time to try to push them to Factory for openSUSE 12
 (or whatever it will be called).
 
 Contributions are accepted in any area not covered by me, or fixing stuff, and also
-very important, in the KDE field. About Unity¦ here™s a riddle: How can you tell if a
-ghost is about to faint?."
+very important, in the KDE field. About Unityâ€¦ hereâ€™s a riddle: â€œHow can you tell if a
+ghost is about to faint?â€."
 
-
-
-
+â€
 
 
 
@@ -958,8 +959,10 @@ ghost is about to faint?."
 
 
 
+â€œ
 
-[Nelson Marques: GNOME:Ayatana project page in English and Portuguese¦](http://lizards.opensuse.org/2011/02/20/gnomeayatana-project-page-in-english-and-portuguese/)
+
+[Nelson Marques: GNOME:Ayatana project page in English and Portugueseâ€¦](http://lizards.opensuse.org/2011/02/20/gnomeayatana-project-page-in-english-and-portuguese/)
 
 
 
@@ -976,16 +979,16 @@ License.**
 
 
 
-"Dear all, While I™ve worked on the GNOME:Ayatana project page in English,
+"Dear all, While Iâ€™ve worked on the GNOME:Ayatana project page in English,
 Raul, a dedicated contributor from Brazil has provided the Portuguese version of this
-page. I would like to express my gratitude to Raul for a well done job, and I™m happy that
+page. I would like to express my gratitude to Raul for a well done job, and Iâ€™m happy that
 someone from Brazil stepped up for this task, as I assume that this project will have far
 more visibility in Brazil than in Portugal itself.
 
 If anyone wants to translate the page and keep it update for any other languages, that
 would be awesome! Please let me know, so that I can add your name into the contributors
 for this Project, or eventually you can do it yourself, this is a community project, so,
-you don™t actually need my permission to improve contents, I encourage such behavior!
+you donâ€™t actually need my permission to improve contents, I encourage such behavior!
 Thanks Raul.
 
 [GNOME:Ayatana on openSUSE
@@ -994,7 +997,7 @@ Thanks Raul.
 [GNOME:Ayatana on openSUSE
 [Portuguese]](http://pt.opensuse.org/openSUSE:GNOME_Ayatana)"
 
-
+â€
 
 
 
@@ -1007,7 +1010,7 @@ Thanks Raul.
 
 
 
-
+â€œ
 
 
 [Nelson Marques: Default Wallpaper for GNOME:Ayatana](http://lizards.opensuse.org/2011/02/21/default-wallpaper-for-gnomeayatana/)
@@ -1027,21 +1030,21 @@ License.**
 
 
 
-Not that I know a lot about Artwork or Wallpapers¦ For those, I am mainly a
-˜customer™ most of the times, and things get easy for¦ either I like it, or I don™t.
-There™s a lot of stuff available out there, and initially I loved the snake (I still do),
-but since I couldn™t distribute it due to licensing, I™ve spent a couple of hours looking
+Not that I know a lot about Artwork or Wallpapersâ€¦ For those, I am mainly a
+â€˜customerâ€™ most of the times, and things get easy forâ€¦ either I like it, or I donâ€™t.
+Thereâ€™s a lot of stuff available out there, and initially I loved the snake (I still do),
+but since I couldnâ€™t distribute it due to licensing, Iâ€™ve spent a couple of hours looking
 for Artwork with a compatible license and contacted a few artists about licensing and the
 possibility of using/distributing their work.
 
-To distribute for GNOME:Ayatana on the 11.4 cycle, I™m going to use ˜Spaceman Goldrush
-Edition™ from ˜mydarktime™, a German artist. I™m happy that mydarktime has been so kind in
+To distribute for GNOME:Ayatana on the 11.4 cycle, Iâ€™m going to use â€˜Spaceman Goldrush
+Editionâ€™ from â€˜mydarktimeâ€™, a German artist. Iâ€™m happy that mydarktime has been so kind in
 allowing openSUSE to distribute this package under CC-BY-SA. I will also take the
 opportunity to quote him:
 
-(¦) I would be very pleased to see mine in it (wallpaper pack on GNOME:Ayatana).
+â€œ(â€¦) I would be very pleased to see mine in itâ€ (wallpaper pack on GNOME:Ayatana).
 
-I find this wallpaper very attractive and it doesn™t really tire me up from looking at
+I find this wallpaper very attractive and it doesnâ€™t really tire me up from looking at
 it, which is really, really nice! I hope everyone else likes it also!
 
 
@@ -1061,7 +1064,7 @@ it, which is really, really nice! I hope everyone else likes it also!
 [Spaceman Goldrush
 Edition @ Deviant ART](http://mydarktime.deviantart.com/art/spaceman-169794648)
 
-
+â€
 
 
 
@@ -1131,7 +1134,7 @@ We are looking for volunteers to implement. **
 
 
 
-
+â€œ
 
 
 [decouple download and installation
@@ -1141,7 +1144,7 @@ We are looking for volunteers to implement. **
 "Network installation could be improved by running package download and package
 installation in parallel."
 
-
+â€
 
 
 
@@ -1154,7 +1157,7 @@ installation in parallel."
 
 
 
-
+â€œ
 
 
 [Look at plymouth for splash during
@@ -1170,7 +1173,7 @@ Ray's comment starting with "Every flicker and mode change in the boot
 process takes away from the whole experience." is especially interesting. Is it
 okay to track the "don't show grub by default" here?"
 
-
+â€
 
 
 
@@ -1183,7 +1186,7 @@ okay to track the "don't show grub by default" here?"
 
 
 
-
+â€œ
 
 
 [1-click uninstall (Score: 147)](https://features.opensuse.org/305305)
@@ -1197,7 +1200,7 @@ click) to remove what you have installed with that 1-click operation... in anoth
 words: an "1-click Uninstall" to remove installed software (dependencies and
 packages included)."
 
-
+â€
 
 
 
@@ -1210,7 +1213,7 @@ packages included)."
 
 
 
-
+â€œ
 
 
 [Replacement for Sax2 (Score:
@@ -1220,7 +1223,7 @@ packages included)."
 "We need a replacement for sax2 in 11.3, as a safety measure for when auto
 configuration fails to detect certain monitors/keyboards/mice. (...)"
 
-
+â€
 
 
 
@@ -1233,7 +1236,7 @@ configuration fails to detect certain monitors/keyboards/mice. (...)"
 
 
 
-
+â€œ
 
 
 [Popularity contest (Score: 91)](https://features.opensuse.org/305877)
@@ -1242,7 +1245,7 @@ configuration fails to detect certain monitors/keyboards/mice. (...)"
 "We need a feedback about packages that are preferred by users and actively
 used. Debian already has a tool named Popularity contest (popcon) (...)"
 
-
+â€
 
 
 
@@ -1255,7 +1258,7 @@ used. Debian already has a tool named Popularity contest (popcon) (...)"
 
 
 
-
+â€œ
 
 
 [Off-Line one click install (MSI for
@@ -1266,7 +1269,7 @@ Linux) (Score: 74)](https://features.opensuse.org/305582)
 Windows but exploiting the One Click Install concept of openSUSE (and therefore
 inheriting the simplicity, code and security. (...)"
 
-
+â€
 
 
 
@@ -1279,7 +1282,7 @@ inheriting the simplicity, code and security. (...)"
 
 
 
-
+â€œ
 
 
 [YaST-Qt: More informative
@@ -1290,7 +1293,7 @@ inheriting the simplicity, code and security. (...)"
 "Installation Summary" view as zypper, esp the overall download size to expect
 and how much disk space will be freed/used after performing the operation."
 
-
+â€
 
 
 
@@ -1303,7 +1306,7 @@ and how much disk space will be freed/used after performing the operation."
 
 
 
-
+â€œ
 
 
 [Less scary yast conflict dialogs
@@ -1317,7 +1320,7 @@ The dialog asks the user to select one of usually three offered solutions for ea
 problem without giving much help. This is a cause for many complaints, and contributes
 to myths of RPM dependency hell still existing today. (...)"
 
-
+â€
 
 
 
@@ -1361,7 +1364,7 @@ if you get interested.**
 
 
 
-
+â€œ
 
 
 [Add Colours button to change your
@@ -1375,7 +1378,7 @@ button in SaX2 and Display Settings in Windows.
 This will allow the user to change the color depth via the graphics card.
 (...)"
 
-
+â€
 
 
 
@@ -1388,7 +1391,7 @@ This will allow the user to change the color depth via the graphics card.
 
 
 
-
+â€œ
 
 
 [Per-instance (temporary) repo enabling
@@ -1412,7 +1415,7 @@ per-instance repo management is good idea, esp. if you're not willing to
 permanently update your whole system to factory, but eg. update single
 firefox."
 
-
+â€
 
 
 
@@ -1425,7 +1428,7 @@ firefox."
 
 
 
-
+â€œ
 
 
 [zypper lr --active - list only active
@@ -1444,7 +1447,7 @@ zypper lr --active
 (not sure about the short version of this option, because the obvious ones (-a, -A)
 are already taken.)"
 
-
+â€
 
 
 
@@ -1457,7 +1460,7 @@ are already taken.)"
 
 
 
-
+â€œ
 
 
 [Add docky to openSUSE](https://features.opensuse.org/311337)
@@ -1466,7 +1469,7 @@ are already taken.)"
 "It's currently living in Mono:Community:Do. I guess we could move it to
 GNOME:Apps."
 
-
+â€
 
 
 
@@ -1479,7 +1482,7 @@ GNOME:Apps."
 
 
 
-
+â€œ
 
 
 [YaST debconf Module](https://features.opensuse.org/311338)
@@ -1491,7 +1494,7 @@ YaST module. This is a disadvantage comparing to Debians debconf system, allowin
 packagers (and therefor endusers) asking the user certain configuration questions after
 installation. (...)"
 
-
+â€
 
 
 
@@ -1504,7 +1507,7 @@ installation. (...)"
 
 
 
-
+â€œ
 
 
 [service enable framework](https://features.opensuse.org/311339)
@@ -1535,7 +1538,7 @@ extended to handle them as well:
 Ideally the services should be managed by symlinks like sysv init scripts so no
 .rpmnew files hurt distro upgrades."
 
-
+â€
 
 
 
@@ -1548,7 +1551,7 @@ Ideally the services should be managed by symlinks like sysv init scripts so no
 
 
 
-
+â€œ
 
 
 [Yast Partitioning give SSD best
@@ -1566,7 +1569,7 @@ when creating partitions on disks in Yast, which would then automatically setup 
 features (and possibly others) mentioned in the "Why do we want this" part of
 this feature."
 
-
+â€
 
 
 
@@ -1579,7 +1582,7 @@ this feature."
 
 
 
-
+â€œ
 
 
 [Package gnome-schedule](https://features.opensuse.org/311347)
@@ -1594,7 +1597,7 @@ I therefore suggest considering the addition of gnome-schedule
 (http://gnome-schedule.sourceforge.net/ ) which is not an official gnome project AFAIK,
 but associated close enough to be supported via bugzilla.gnome.org."
 
-
+â€
 
 
 
@@ -1607,7 +1610,7 @@ but associated close enough to be supported via bugzilla.gnome.org."
 
 
 
-
+â€œ
 
 
 [Provide easy way to mount disk
@@ -1621,7 +1624,7 @@ mount -t iso9660... is not really convinient. It's annoying.
 I've tried to find some scripts for dolphin's "Actios" but
 haven't find any working solutions."
 
-
+â€
 
 
 
@@ -1634,7 +1637,7 @@ haven't find any working solutions."
 
 
 
-
+â€œ
 
 
 [switchable graphics](https://features.opensuse.org/311354)
@@ -1643,7 +1646,7 @@ haven't find any working solutions."
 "Please provide convenient way to use switchable graphics in notebooks and
 other systems."
 
-
+â€
 
 
 
@@ -1656,7 +1659,7 @@ other systems."
 
 
 
-
+â€œ
 
 
 [pdfgrep](https://features.opensuse.org/311360)
@@ -1671,7 +1674,7 @@ It is currently available via
 http://download.opensuse.org/repositories/home:/dnh/Factory_snapshot | /openSUSE_11.3 |
 etc."
 
-
+â€
 
 
 
@@ -1747,10 +1750,10 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 
 
+â€œ
 
 
-
-[Open-Bugs-Day Held Last Sunday](https://news.opensuse.org/2011/02/25/open-bugs-day-held-last-sunday/)
+[Open-Bugs-Day Held Last Sunday](http://news.opensuse.org/2011/02/25/open-bugs-day-held-last-sunday/)
 
 
 
@@ -1767,20 +1770,20 @@ License.](http://www.gnu.org/licenses/fdl.txt)**
 
 
 
-[As announced previously](https://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January
+[As announced previously](http://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January
 20. Many people participated, including a large number of contributors new to [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on [Freenode servers](http://freenode.net/)!
 
 **Results **
 
 Bernhard Wiedemann created a nice tool at [openbugs.zq1.de](http://openbugs.zq1.de/) to avoid the situation where two people work on the same issue.
-There were VM™s prepared with VNC access so people could easily test and someone in the
+There were VMâ€™s prepared with VNC access so people could easily test and someone in the
 team ran his first KVM Virtual Machine at home, thanks to the help of the rest of the
 team. Another participant filed his first bug on bugzilla (that would be bug number [673629](https://bugzilla.novell.com/show_bug.cgi?id=673629)). In the end,
 the team went through and updated 60% of all old 11.4 bugs (=132 of 219)!
 
-And of course, they had a lot of fun¦
+And of course, they had a lot of funâ€¦
 
-Finally, we have some crude statistics about yesterday™s most active participants, who
+Finally, we have some crude statistics about yesterdayâ€™s most active participants, who
 can get the geeko-gear reward (just send your details to [Bernhard Wiedermann](http://en.opensuse.org/User:Bmwiedemann))!
 
 This list is generated with a perl script | sort | uniq -c | sort -n -r | head -11
@@ -1809,7 +1812,7 @@ This list is generated with a perl script | sort | uniq -c | sort -n -r | head -
   * 10 Malvern Star
 
 	
-  * 10 Karsten König
+  * 10 Karsten KÃ¶nig
 
 	
   * 9 Michal Hucko
@@ -1834,7 +1837,7 @@ Congrats on the great work!
 The team decided it would be nice to have such events on a regular basis, so
 2011-04-02 is proposed for the next Open-Bugs-Day.
 
-
+â€
 
 
 
@@ -1882,7 +1885,7 @@ The team decided it would be nice to have such events on a regular basis, so
 
 	
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-“ [Localization
+â€“ [Localization
 Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
@@ -1955,7 +1958,7 @@ Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
-
+â€œ
 
 
 [Miguel Angel Barajas
@@ -1996,7 +1999,7 @@ This Time I will be participating in [Mexico City](http://www.installfest.net/FL
 and T-shirts. Sorry but all the links are in Spanish, Google translate is your friend
 ;)
 
-
+â€
 
 
 
@@ -2046,7 +2049,7 @@ Past
 
 	
   * [February
-14, 2011 : Testing Core Team Meeting](https://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
+14, 2011 : Testing Core Team Meeting](http://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
 
 
 
@@ -2064,21 +2067,21 @@ Upcoming
 
 
 	
-  * [February 20, 2011 : openSUSE Testing Team: Bug killing session](https://news.opensuse.org/2011/02/15/opensuse-testing-team-bug-killing-session/)
+  * [February 20, 2011 : openSUSE Testing Team: Bug killing session](http://news.opensuse.org/2011/02/15/opensuse-testing-team-bug-killing-session/)
 
 	
   * [February 23,
-2011 : Board Meeting](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+2011 : Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 	
   * [February
-28, 2011 : Testing Core Team Meeting](https://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
+28, 2011 : Testing Core Team Meeting](http://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
 
 
 
 
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -2149,7 +2152,7 @@ or download it on [Radiotux](http://blog.radiotux.de/podcast).
 
 
 
-
+â€œ
 
 
 [Antivirus engine ClamAV 0.97
@@ -2178,7 +2181,7 @@ languages for detecting threats. The core ClamAV library is utilized in Immunet 
 by ClamAV, which is a fast, fully featured Desktop AV solution for Windows.
 Available in the [Security](http://download.opensuse.org/repositories/security/) Repository.
 
-
+â€
 
 
 
@@ -2223,7 +2226,7 @@ Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailin
 
 
 
-
+â€œ
 
 
 [SUSE Security Announcement: Sun Java (SUSE-SA:2011:010)](http://lists.opensuse.org/opensuse-security-announce/2011-02/msg00005.html)
@@ -2280,7 +2283,7 @@ Desktop 11 SP1
 </tr>
 </tbody>
 </table>
-
+â€
 
 
 
@@ -2322,10 +2325,10 @@ Desktop 11 SP1
 
 
 
+â€œ
 
 
-
-[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 3) “ Network drivers and
+[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 3) â€“ Network drivers and
 infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-3-Network-drivers-and-infrastructure-1197480.html)
 
 
@@ -2353,7 +2356,7 @@ All the parts in this Kernel Log mini-series can be found by referring to [the
 
 Early on the morning of 22 February, Linus Torvalds [issued](http://thread.gmane.org/gmane.linux.kernel/1103561) the sixth release
 candidate of Linux 2.6.38. In his release email, Torvalds mentioned a fix for a memory
-corruption problem “ but he said that it is rare and only two people ever saw it. There was no
+corruption problem â€“ but he said that it is rare and only two people ever saw it. There was no
 indication of a final release date for 2.6.38. Usually released on a weekly basis, the
 "regression reports" have recently listed [17 unsolved problems](http://thread.gmane.org/gmane.linux.acpi.devel/49465)
 which don't exist in 2.6.37; a further [26 flaws](http://thread.gmane.org/gmane.linux.network/186887) introduced between
@@ -2366,7 +2369,7 @@ area, while the [second part](http://www.h-online.com/open/features/Kernel-Log-C
 discuss the kernel's storage, architecture and infrastructure code as well as its audio, USB,
 and video hardware drivers. (...)
 
-
+â€
 
 
 
@@ -2434,7 +2437,7 @@ and video hardware drivers. (...)
 
 
 
-
+â€œ
 
 
 [Softpedia/Marius Nestor: How to Sync Firefox Add-ons, Bookmarks, Preferences,
@@ -2464,7 +2467,7 @@ if we tested on Ubuntu 10.10, the following tutorial is for Linux, Windows and M
 users, and it will teach you how to keep your Firefox extensions, bookmarks, passwords,
 preferences, history and tabs in sync across multiple computers. (...)"
 
-
+â€
 
 
 
@@ -2506,7 +2509,7 @@ preferences, history and tabs in sync across multiple computers. (...)"
 
 
 
-
+â€œ
 
 
 [Linuxaria: Using cut on
@@ -2527,20 +2530,20 @@ Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses
 
 
 
-"Among the commands available from the linux terminal there™s also cut, very
+"Among the commands available from the linux terminal thereâ€™s also cut, very
 useful for processing strings and characters in general.
 
 The cut command is one of the oldest Unix command. That means that it is more then 40
 years old. And it shows. It is important to understand that this is a Unix command and
-behaves in Unix way. For example, it uses IFS (Input Field Separators) to determine where
+behaves in â€œUnix wayâ€. For example, it uses IFS (Input Field Separators) to determine where
 to split fields. You can check it with set | grep IFS. You can also set it, for example, to:
 
-IFS=" "
+IFS=" \t\n"
 
 The cut command takes a vertical slice of a file, printing only the specified columns or
 fields. The columns are selected using the standard IFS or one specified. (...)"
 
-
+â€
 
 
 
@@ -2582,7 +2585,7 @@ fields. The columns are selected using the standard IFS or one specified. (...)"
 
 
 
-
+â€œ
 
 
 [Bruno Friedmann: ATI/AMD fglrx 8.821 Catalyst 11.2 available for openSUSE 11.2, 11.3,
@@ -2615,7 +2618,7 @@ resolve what can be happen. That must be said !
 
 **The free future **
 
-The real future is already in place : it™s called radeon (or free-radeon), it™s fully
+The real future is already in place : itâ€™s called radeon (or free-radeon), itâ€™s fully
 integrated in kernel & xorg. Actually ( for openSUSE 11.4, or openSUSE 11.3 with [kernel-stable](http://download.opensuse.org/repositories/Kernel:/stable/openSUSE_11.3/) + [X11 obs
 repo](http://download.opensuse.org/repositories/X11:/XOrg/openSUSE_11.3/) ). Support for many chipset is in real progress even for the 6xxx series.
 Give it a try before using the proprietary software, report any bugs you find with it. Only
@@ -2623,7 +2626,7 @@ your contributions can help and will make a real differences. Thanks for doing t
 
 **Unofficial but working repository **
 
-I offer for those of you that for any reasons can™t use successfully the free-radeon
+I offer for those of you that for any reasons canâ€™t use successfully the free-radeon
 drivers a repository where you will find the latest fglrx/catalyst drivers following the
 packaging policy made avalaible by AMD. Thanks to Sebastian Siebert ( check his blog ) to
 work in coordination with ati/amd and follow the catalyst packaging. His work allow us to
@@ -2661,7 +2664,7 @@ driver**
 
 **Nota previous version**
 
-Due to change in ati/amd way of life, it™s recommanded to completely remove any version
+Due to change in ati/amd way of life, itâ€™s recommanded to completely remove any version
 of fglrx previously installed with a zypper rm
 
 I can only recommand to also (as root)
@@ -2683,7 +2686,7 @@ add
 nomodeset blacklist=radeon 3
 
 
-Don™t panic you will be land to a console, open it with root account to install fglrx.
+Donâ€™t panic you will be land to a console, open it with root account to install fglrx.
 Search the software you want for example under openSUSE 11.4
 
 
@@ -2721,10 +2724,10 @@ zypper in fglrx_xpic_SUSE114
 During the installation process, all the dependencies will be added, which mostly are
 needed to build the kernel modules. Expect around 200MB to dowload.
 
-Then the installer will build the module for your installed kernel. And if there™s a
+Then the installer will build the module for your installed kernel. And if thereâ€™s a
 kernel update, the script will automagically detect that, and will rebuild the module for
 the new kernel installed. (So if you find that your workstation is slow on reboot just press
-the esc key to see the details ¦ )
+the esc key to see the details â€¦ )
 
 **Preparing xorg to use fglrx **
 
@@ -2737,20 +2740,20 @@ cat /etc/modprobe.d/50-fglrx.conf
 blacklist radeon
 
 
-Next ati recommend to use ati “initial-config but that break the auto-detect stack of
+Next ati recommend to use ati â€“initial-config but that break the auto-detect stack of
 xorg. So I recommend changing one line in file /etc/X11/xorg.conf.d/50-device.conf
 
-just change driver line to driver fglrx
+just change driver line to driver â€œfglrxâ€
 
 All the rest of the setup (double screen etc) will be made lately with the ati catalyst
 control center (command is amdcccle).
 
 For those of you which want to have an xorg.conf file just have a look at aticonfig
-“help command.
+â€“help command.
 
 **Start X**
 
-If you are inside the console we start to use before just run init 5³ to start xorg,
+If you are inside the console we start to use before just run â€œinit 5â€³ to start xorg,
 and normally you will find your normal xorg login screen (kdm, gdm, ldm, xdm). Hit
 ctrl+alt+f1 to return to the console and type exit or logout or ctrl+d to close it. then
 ctrl+alt+f7 to return to the xorg session.
@@ -2765,7 +2768,7 @@ ati/amd catalyst are release on a month basis, but this vary from 3 weeks to 8 w
 
 
 	
-  * Catalyst 11.2 “ fglx 8.821 : 14 February 2011
+  * Catalyst 11.2 â€“ fglx 8.821 : 14 February 2011
 
 
 
@@ -2790,7 +2793,7 @@ subject](http://lizards.opensuse.org/?p=4673) "
 
 
 
-
+â€
 
 
 
@@ -2803,14 +2806,14 @@ subject](http://lizards.opensuse.org/?p=4673) "
 
 
 
-
+â€œ
 
 
 [Fred Blaise: Alfresco 3.4d ldap
 sync](http://ironman.darthgibus.net/?p=113)
 
 
-While upgrading from 3.3g to 3.4d, my ldap sync wouldn™t work anymore.
+While upgrading from 3.3g to 3.4d, my ldap sync wouldnâ€™t work anymore.
 
 I had to add in my ldap-ad-authentication.properties the following
 line:
@@ -2819,14 +2822,14 @@ line:
 ldap.synchronization.java.naming.security.authentication=simple
 
 
-While there is a similar line for authentication, it doesn™t do it for sync™ing
+While there is a similar line for authentication, it doesnâ€™t do it for syncâ€™ing
 up.
 
 
 ldap.authentication.java.naming.security.authentication=simple
 
 
-
+â€
 
 
 
@@ -2839,7 +2842,7 @@ ldap.authentication.java.naming.security.authentication=simple
 
 
 
-
+â€œ
 
 
 [HowtoForge/wintel2006: How To Install Railo 3.2 Under OpenSUSE 11.3 Running Apache2
@@ -2860,7 +2863,7 @@ directory defined under the virtual host configuration file.
 The server is running OpenSUSE 11.3 (i386) on vmware player, and we need apache2 and
 Java installed before you run tomcat/railo service. (...)"
 
-
+â€
 
 
 
@@ -2905,7 +2908,7 @@ Java installed before you run tomcat/railo service. (...)"
 
 
 
-
+â€œ
 
 
 [Dominique Leuenberger: VLC /
@@ -2931,7 +2934,7 @@ on being available for the users still relying on it. There have not been any up
 rebuilds for a long time (maintaining new versions became a nightmare, as underlying libraries
 started to be outdated).
 
-For this reason I™m hereby announcing that the 11.0 repositories will be removed from the
+For this reason Iâ€™m hereby announcing that the 11.0 repositories will be removed from the
 videolan download infrastructure by **March 1st 2011** ! If you
 rely on having the packages available for your personal installations, please make sure to
 create a local copy of the FTP tree.
@@ -2941,7 +2944,7 @@ the latest snapshot of 11.4, which is somewhat between RC1 and RC2. Most likely 
 changing that would affect stability of the VLC packages. And like always of course: Factory
 package keep on existing. But they did for a long time already.
 
-
+â€
 
 
 
@@ -2954,7 +2957,7 @@ package keep on existing. But they did for a long time already.
 
 
 
-
+â€œ
 
 
 [Petr Baudis: Arduino Software Tone
@@ -2976,10 +2979,10 @@ Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses
 
 
 This is something really trivial, but I have not actually googled out a recipe so I
-thought I™d post it anyway for the googlers out there. Sometimes, you discover the Arduino
-tune() function does not really work “ in our case, it was since we have ethernet shield
+thought Iâ€™d post it anyway for the googlers out there. Sometimes, you discover the Arduino
+tune() function does not really work â€“ in our case, it was since we have ethernet shield
 attached and apparently, some other piece of the software drives the timer (not surprising at
-all) “ besides, the tune() function may silently abuse other pins than the chosen one, AIUI,
+all) â€“ besides, the tune() function may silently abuse other pins than the chosen one, AIUI,
 due to its timer usage.
 
 Therefore, it may be useful to manually generate sounds. The code snippet really is
@@ -3033,12 +3036,10 @@ void playMelodyNak()
 Grab pitches.h from the digital -> tone generator example sketches, i.e. /usr/share/arduino*/examples/2.Digital/toneMelody/pitches.h.
 
 There is one important point. With tone(), you did not need to correctly set pin mode of
-the pin to output “ you **do need to do that** with this routine!
-This took me quite a while to debug¦
+the pin to output â€“ you **do need to do that** with this routine!
+This took me quite a while to debugâ€¦
 
-
-
-
+â€
 
 
 
@@ -3050,6 +3051,8 @@ This took me quite a while to debug¦
 
 
 
+
+â€œ
 
 
 [Thomas
@@ -3123,7 +3126,7 @@ left and right notebook screen.
 To 2: Autodetect the max. resolution of each of the two displays and set those different
 resolutions. The panel, all the widgets and all the open windows should stay on the notebook
 screen. The projector screen shows only the wallpaper. It does not matter if the projector
-screen is located above or on the right or wherever of the notebook screen.
+â€œscreenâ€ is located above or on the right or wherever of the notebook screen.
 
 It would be very useful to link that dialog to the keyboard shortcut (e.g. Fn+F7) or to
 start it automatically when a projector is attached. (At the moment I have to start krandrtray
@@ -3141,7 +3144,7 @@ it is necessary.
 So what do you think. Is that scratching your itch? Can you imagine how cool this would be
 to have? At least for me as a presenter that would really rock.
 
-
+â€
 
 
 
@@ -3154,7 +3157,7 @@ to have? At least for me as a presenter that would really rock.
 
 
 
-
+â€œ
 
 
 [Pascal Bleser: Packman service interruption and migration](http://dev-loki.blogspot.com/2011/02/packman-service-interruption-and.html)
@@ -3356,7 +3359,7 @@ In advance, sorry for the inconvenience, and thank you for your understanding. W
 convinced that our move will not only provide us with a better infrastructure, but also
 improve your experience with Packman and openSUSE.
 
-
+â€
 
 
 
@@ -3369,7 +3372,7 @@ improve your experience with Packman and openSUSE.
 
 
 
-
+â€œ
 
 
 [Sascha
@@ -3389,18 +3392,18 @@ ATM no License set.
 
 
 
-As in the past years, [Google™s Summer of
-Code](http://code.google.com/soc/) is going to happen again and we™re currently collecting ideas for [openSUSE](http://www.opensuse.org/en/). So if you want to support your favorite
+As in the past years, [Googleâ€™s Summer of
+Code](http://code.google.com/soc/) is going to happen again and weâ€™re currently collecting ideas for [openSUSE](http://www.opensuse.org/en/). So if you want to support your favorite
 distribution or seek a way to getting involved more deeply, be sure to check out our [GSoC info page](http://en.opensuse.org/openSUSE:GSOC_2011).
 
 Or, if you want it cross-distro, the awesome [Build Service](http://en.wikipedia.org/wiki/OpenSUSE_Build_Service) always needs
-some helping hands that are curious on how to expand it™s massive feature set :-) . This
-includes adding support for currently unsupported distros like [Arch Linux](http://www.archlinux.org/) or [Pardus](http://www.pardus.org.tr/eng/) as well as making it™s web user interface
+some helping hands that are curious on how to expand itâ€™s massive feature set :-) . This
+includes adding support for currently unsupported distros like [Arch Linux](http://www.archlinux.org/) or [Pardus](http://www.pardus.org.tr/eng/) as well as making itâ€™s web user interface
 more social.
 
 Feel free to add you ideas to [our list](http://en.opensuse.org/openSUSE:GSOC_2011_Ideas) and discuss them on our IRC channel (#opensuse-project on FreeNode).
 
-
+â€
 
 
 
@@ -3413,7 +3416,7 @@ Feel free to add you ideas to [our list](http://en.opensuse.org/openSUSE:GSOC_20
 
 
 
-
+â€œ
 
 
 [Thomas Thym: GSoC idea 2: Improved (more elegant) keygeneration in
@@ -3476,12 +3479,12 @@ and fast to work with signed and encrypted emails.
 	
   1. **Analyze and optimize the key creation, signing etc processes,
 make it dumb easy to create and use a key/signature**. One way could be to
-add a button Generate Key (next to Change) in the KMail “ Identity settings “
+add a button â€œGenerate Keyâ€ (next to â€œChangeâ€) in the KMail â€“ Identity settings â€“
 Cryptographie; start the key creation wizard from Kleopatra and take the name and email
 address from that identity (at the moment you have to enter them manually). The user
-just has to enter the passphrase and is done. Offer a button Save private key and
-revoke key on usb or something like this and send public key to server / Make key
-public. Add the key creation (or import possibilities) into the identity / account
+just has to enter the passphrase and is done. Offer a button â€œSave private key and
+revoke key on usbâ€ or something like this and â€œsend public key to serverâ€ / â€œMake key
+publicâ€. Add the key creation (or import possibilities) into the identity / account
 creation wizard of KMail. Add the possibility to create revoke keys within the gui (when
 sending the key to the server, there is an information message yet.)
 
@@ -3501,7 +3504,7 @@ how they use the keys, how they get their keys signed, how they sign other keys 
 These are just some ideas. If there is someone interested I could go more into details if
 necessary.
 
-
+â€
 
 
 
@@ -3514,7 +3517,7 @@ necessary.
 
 
 
-
+â€œ
 
 
 [Nelson Marques: 10 good reasons for upgrading to openSUSE 11.4](http://lizards.opensuse.org/2011/02/22/10-good-reasons-for-upgrading-to-opensuse-11-4/)
@@ -3543,71 +3546,71 @@ different views, this is mine
 
 
 	
-  * **Artwork** “ openSUSE 11.4 ships with ˜Stripes™
+  * **Artwork** â€“ openSUSE 11.4 ships with â€˜Stripesâ€™
 artwork. I love specially the console terminal which offers very good contrast. The boot
 splash images are visually attractive and provide a pleasant boot experience.
 
 	
-  * **Wine** “ openSUSE 11.4 ships with Wine 1.3.10 which
-works very good for me. I™ve tried Lord of the Rings Online (flawlessly out of the box)
+  * **Wine** â€“ openSUSE 11.4 ships with Wine 1.3.10 which
+works very good for me. Iâ€™ve tried Lord of the Rings Online (flawlessly out of the box)
 and World of Warcraft. From the tested products, I feel that openSUSE promotion needs a
-bit more of effort on highlighting Wine. Marcus must be proud, and I™m for sure thankful
+bit more of effort on highlighting Wine. Marcus must be proud, and Iâ€™m for sure thankful
 for his great work!
 
 	
-  * **Repository Management **“ One of the main reason why
-I love openSUSE is because it works like Lego. You can keep adding/removing software
+  * **Repository Management **â€“ One of the main reason why
+I love openSUSE is because it works like â€œLegoâ€. You can keep adding/removing software
 repositories and have a hell of a kick ass experience. Success on this tasks require
 some brains, but an expert tinker can perform great things with openSUSE
 repositories!
 
 	
-  * **Out of the Box Factor** “ It just works¦ even with
-my problematic ATI. This is one important point for me. I don™t really like to install a
-Linux distribution and spend hours tinkering it for my needs. With openSUSE it™s done
+  * **â€œOut of the Boxâ€ Factor** â€“ It just worksâ€¦ even with
+my problematic ATI. This is one important point for me. I donâ€™t really like to install a
+Linux distribution and spend hours tinkering it for my needs. With openSUSE itâ€™s done
 fast and clean.
 
 	
-  * **Default Software Patterns** “ The default software
+  * **Default Software Patterns** â€“ The default software
 patterns on openSUSE are awesome and they fulfill all the needs for my daily computing
 tasks.
 
 	
-  * **Security and Stability** “ Without doubt the calling
-card from openSUSE. There™s isn™t really much to say, except it inspires trust!
+  * **Security and Stability** â€“ Without doubt the calling
+card from openSUSE. Thereâ€™s isnâ€™t really much to say, except it inspires trust!
 
 	
-  * **YaST Installer** “ Not being a technical person, I
-have to remove my hat before openSUSE installer. It ˜speaks™ normal user language, it
+  * **YaST Installer** â€“ Not being a technical person, I
+have to remove my hat before openSUSE installer. It â€˜speaksâ€™ normal user language, it
 provides outstanding features for advanced and starters. It inspires total supremacy of
 man over machine!
 
 	
-  * **Featured upstream Projects** “ The most known
+  * **Featured upstream Projects** â€“ The most known
 upstream projects are present! GNOME, KDE, LXDE and friends, even IceWM made his way
-into 11.4. Banshee, VLC, you name it¦ Everything can run on openSUSE, even community
-repos such as GNOME:Ayatana! Whatever software you are looking for, it™s for sure in a
+into 11.4. Banshee, VLC, you name itâ€¦ Everything can run on openSUSE, even community
+repos such as GNOME:Ayatana! Whatever software you are looking for, itâ€™s for sure in a
 openSUSE repository!
 
 	
-  * **GNOME** “ Does it need an introduction? NO! It™s
+  * **GNOME** â€“ Does it need an introduction? NO! Itâ€™s
 mature, stable, rock solid and will provide a powerful Desktop experience for any user!
 OpenSUSE 11.4 is a must for people who want to hang around with GNOME2 for a bit more,
 and for all the GNOME3 fans through an additional repository. GNOME3 is something you
-can™t miss! openSUSE 11.4 will enable you that feature later on!
+canâ€™t miss! openSUSE 11.4 will enable you that feature later on!
 
 	
-  * **Community** “ A strong and helpful community in which
+  * **Community** â€“ A strong and helpful community in which
 our users can rely. Swift on bug fixing, helpful when one is in trouble and commited to
-bring our users the best Linux experience possible. It™s all about faces and human
-interaction, it™s all about being human in charge of the machine! And most of us will
+bring our users the best Linux experience possible. Itâ€™s all about faces and human
+interaction, itâ€™s all about being human in charge of the machine! And most of us will
 speak your language!
 
 
 
 
 
-
+â€
 
 
 
@@ -3620,7 +3623,7 @@ speak your language!
 
 
 
-
+â€œ
 
 
 [Thomas
@@ -3673,7 +3676,7 @@ etc.)
 In my next life I will become a developer and the I could mentor that project myself.
 Until this happens I am really hoping someone else steps up.
 
-
+â€
 
 
 
@@ -3686,7 +3689,7 @@ Until this happens I am really hoping someone else steps up.
 
 
 
-
+â€œ
 
 
 [online communities
@@ -3753,7 +3756,7 @@ next releases.
 Please send me an email if you want to join the meeting and help working on ownCloud.
 Cheers Frank
 
-
+â€
 
 
 
@@ -3766,11 +3769,11 @@ Cheers Frank
 
 
 
-
+â€œ
 
 
 [Michal Hrusecky:
-GSoC 2011 ideas “ SaX 3](http://michal.hrusecky.net/2011/02/gsoc-2011-ideas-sax-3/)
+GSoC 2011 ideas â€“ SaX 3](http://michal.hrusecky.net/2011/02/gsoc-2011-ideas-sax-3/)
 
 
 
@@ -3789,20 +3792,20 @@ This Article is licensed under the [Attribution-NonCommercial-ShareAlike 3.0 Unp
 You must already heard about this from everybody. Google Summer of Code 2011 is nearby and
 openSUSE wants to participate. Currently we are collecting ideas and mentors and we are going
 to apply. I also came up with few projects and volunteered to mentor them. I saw Thomas Thym
-introducing his GSoC ideas and I think it™s great to write a blog posts that introduce
-projects. So I™ll join and here comes the first project that many of you were waiting for “
+introducing his GSoC ideas and I think itâ€™s great to write a blog posts that introduce
+projects. So Iâ€™ll join and here comes the first project that many of you were waiting for â€“
 SaX 3.
 
 **SaX 3**
 
-I guess I don™t have to explain what was SaX 2 good for. It is one of the most voted
-features in openFATE “ bring SaX back to live. SaX 2 was the tool to configure X server.
-Whenever your X didn™t behave correctly, whenever you needed to tweak any settings, SaX 2 was
+I guess I donâ€™t have to explain what was SaX 2 good for. It is one of the most voted
+features in openFATE â€“ bring SaX back to live. SaX 2 was the tool to configure X server.
+Whenever your X didnâ€™t behave correctly, whenever you needed to tweak any settings, SaX 2 was
 there for you. Unfortunately it worked only with xorg.conf file. Nowadays X are much better.
-We™ve got auto detection of everything which works most of the time. Some little tweaks can be
-added to /etc/X11/xorg.conf.d directory and every tweak can be in separate file. It™s much
+Weâ€™ve got auto detection of everything which works most of the time. Some little tweaks can be
+added to /etc/X11/xorg.conf.d directory and every tweak can be in separate file. Itâ€™s much
 better than before, easier to take care of, easier to understand and maintain. But as already
-mentioned, SaX2 can™t handle current situation. That is why I propose creating SaX 3 as a part
+mentioned, SaX2 canâ€™t handle current situation. That is why I propose creating SaX 3 as a part
 of GSoC.
 
 **Features**
@@ -3814,9 +3817,9 @@ specific settings (I have pretty different settings for my trackpoint than for m
 mouse) or default keyboard layout. I guess we all expect this basic functionality from SaX.
 
 From coding point of view, we need to keep it as small as possible. As it will be one of
-the basic administration tool, we don™t want it to pull in several frameworks just to
-configure X. And if I can™t get X working I still want to use this tool. So that makes it
-obvious that ncurses UI is a must. On the other hand, once I have X running, I don™t want to
+the basic administration tool, we donâ€™t want it to pull in several frameworks just to
+configure X. And if I canâ€™t get X working I still want to use this tool. So that makes it
+obvious that ncurses UI is a must. On the other hand, once I have X running, I donâ€™t want to
 see any ugly ncurses anymore, but nice Qt/GTK. So it should also support at least some toolkit
 for nice and shiny X window UI. But as this might pull in some dependencies and pulling Qt to
 your minimalistic PekWM desktop might sound terrifying, it should be optional and SaX should
@@ -3832,7 +3835,7 @@ I wrote it on the wiki and yesterday I already received an e-mail from intereste
 who is considering it! So if openSUSE and SaX3 get selected, there is a pretty good chance
 that we will have it!
 
-
+â€
 
 
 
@@ -3845,7 +3848,7 @@ that we will have it!
 
 
 
-
+â€œ
 
 
 [Pascal
@@ -3876,7 +3879,7 @@ The reason, obviously, is that [openSUSE
 11.1 has gone End-Of-Life since mid-January](http://lists.opensuse.org/opensuse-security-announce/2011-01/msg00005.html), and as we're [restructuring our repositories](http://dev-loki.blogspot.com/2011/02/packman-service-interruption-and.html), we do need quite some extra space right now and
 don't want to put too much of a burden on our [mirrors](http://packman.links2linux.de/MIRRORS.html) (there are a few [rsync](http://en.wikipedia.org/wiki/Rsync) mirrors in there too).
 
-
+â€
 
 
 
@@ -3889,7 +3892,7 @@ don't want to put too much of a burden on our [mirrors](http://packman.links2lin
 
 
 
-
+â€œ
 
 
 [Petr Baudis: KMS vs Radeon 7000](http://log.or.cz/?p=122)
@@ -3918,7 +3921,7 @@ within Xorg and things were really choppy.
 It seems that there are some bugs lurking within the KMS; radeon.modeset=0 on the kernel commandline has a good shot at curing things
 like this!
 
-
+â€
 
 
 
@@ -3960,7 +3963,7 @@ like this!
 
 
 
-
+â€œ
 
 
 [
@@ -3970,7 +3973,7 @@ openSUSE 11.4 Release Party? Post yours here !!
 
 Thirteen days and counting down to the 10th of March: the release of openSUSE 11.4. Here in the Netherlands we're trying to have a release party, date and place will be announced here in this thread. If you're attending a release party, organizing one yourself, having a private one at home, here's a chance to let others know, to see if there's one in your neighbourhood (or at least close enough to get there in time.
 
-
+â€
 
 
 
@@ -3983,7 +3986,7 @@ Thirteen days and counting down to the 10th of March: the release of openSUSE 11
 
 
 
-
+â€œ
 
 
 [
@@ -3993,7 +3996,7 @@ Searching to understand some system modifications
 
 Where do you start when you suspect an intruder? Here's a thread from a user that wants to make sure no one has made his way in on his computer. Read ahead to see what you can do.
 
-
+â€
 
 
 
@@ -4006,7 +4009,7 @@ Where do you start when you suspect an intruder? Here's a thread from a user tha
 
 
 
-
+â€œ
 
 
 [
@@ -4016,7 +4019,7 @@ Can I use a Debian package?
 
 On linux systems, there are mainly two types of packages: Debian and RPM (Redhat Package Management). Sometimes it happens that an application is available in just one format, where the user runs a distro using the other one. Read to see what can be done, when you want to use a Debian package to install software on openSUSE, which is rpm-based.
 
-
+â€
 
 
 
@@ -4029,7 +4032,7 @@ On linux systems, there are mainly two types of packages: Debian and RPM (Redhat
 
 
 
-
+â€œ
 
 
 This week's subforum: [
@@ -4039,7 +4042,7 @@ Laptop
 
 Even though a laptop is no more than a computer in a compact format, it's still a different kind of machine, with all it's built in hardware. Manufacturers do no always provide the right info on the hardware used, let alone give good linux support. Hence, a subforum for laptop users was created long ago.
 
-
+â€
 
 
 
@@ -4093,7 +4096,7 @@ We thank for this Issue:
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
 	
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
 	
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -4289,7 +4292,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-the [comment section](https://news.opensuse.org/?p=7096) and let us know!
+the [comment section](http://news.opensuse.org/?p=7096) and let us know!
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
 check out our team page and join!
@@ -4311,7 +4314,7 @@ your Feedback.
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -4353,7 +4356,7 @@ openSUSE Weekly News is translated into many languages. Issue
 
 
 	
-  * [English](https://news.opensuse.org/?p=7096)
+  * [English](http://news.opensuse.org/?p=7096)
 
 
 
@@ -4387,4 +4390,4 @@ You can follow the status of the translation [there](http://en.opensuse.org/open
 
 
 
-First published in: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)		
+First published in: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)

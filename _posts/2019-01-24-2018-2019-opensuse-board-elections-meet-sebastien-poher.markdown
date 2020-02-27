@@ -1,9 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-24 00:10:27+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/24/2018-2019-opensuse-board-elections-meet-sebastien-poher/
-title: "2018-2019 openSUSE Board Elections: Meet Sébastien Poher"
+slug: 2018-2019-opensuse-board-elections-meet-sebastien-poher
+title: '2018-2019 openSUSE Board Elections: Meet Sébastien Poher'
+wordpress_id: 21596
 categories:
 - Announcements
 - Board Elections
@@ -13,6 +16,7 @@ tags:
 - board candidates
 - openSUSE Board Elections
 ---
+
 
 
 
@@ -81,7 +85,7 @@ I am a GNU/Linux system administrator, but this is a second professional life. B
 
 
 
-![]({{ site.baseurl }}/assets/sogal_election_photo.png)
+![](/wp-content/uploads/2019/01/sogal_election_photo.png)
 **Sébastien Poher aka sogal**
 
 
@@ -157,7 +161,7 @@ To be honest, I had no plan of doing so in the first place. You may know that fe
 
 
 
-![2018-2019 Election Poster contributed by Aris Winardi]({{ site.baseurl }}/assets/poster-election-628x1024.png)
+![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)
 2018-2019 Election Poster contributed by Aris Winardi
 
 
@@ -300,4 +304,4 @@ Mastodon : [https://fosstodon.org/@sogal](https://fosstodon.org/@sogal)
 Twitter : [https://twitter.com/sogal_geek](https://twitter.com/sogal_geek)
 
 
-		
+

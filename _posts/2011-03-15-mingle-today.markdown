@@ -1,10 +1,12 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2011-03-15 14:58:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/15/mingle-today/
-title: "Mingle Today!"
+slug: mingle-today
+title: Mingle Today!
+wordpress_id: 7127
 categories:
 - Infrastructure
 - Project
@@ -16,7 +18,8 @@ tags:
 - tools
 - web
 ---
-[![Connect. Mingle Today!]({{ site.baseurl }}/assets/about_connect-300x128.png)](http://connect.opensuse.org)It all started out with a simple question [Pavol Rusnak](https://connect.opensuse.org/pg/profile/prusnak) asked on the openSUSE Conference '09
+
+[![Connect. Mingle Today!](/wp-content/uploads/2011/02/about_connect.png)](http://connect.opensuse.org)It all started out with a simple question [Pavol Rusnak](https://connect.opensuse.org/pg/profile/prusnak) asked on the openSUSE Conference '09
 
 
 <blockquote>_What are we really doing when we develop a new tool to handle openSUSE users and groups?_</blockquote>
@@ -30,7 +33,7 @@ The answer was simple: Connecting people to projects, groups and with each other
 
 First and foremost connect is a user database. The openSUSE project operates a lot of tools and most of them require users to authenticate to operate them, have some kind of access level for different user types (groups) and possibly other attributes stored for the user like contact information, an avatar or a description of the person. Instead of having to enter and maintain this information over and over again in each tool, connect is the first step in centralizing this.
 
-[![Connect Userprofile]({{ site.baseurl }}/assets/connect_userprofile-e1300199288617-300x146.jpg)](https://connect.opensuse.org/pg/profile/prusnak)
+[![Connect Userprofile](/wp-content/uploads/2011/03/connect_userprofile-e1300199288617.jpg)](https://connect.opensuse.org/pg/profile/prusnak)
 
 Secondly connect introduces the nowadays mandatory social features. Instead of rather boring collection of user attributes, connect reflects the social relations among the openSUSE community. It allows the users to share activities, places, events and interests within their network. It truly helps you to connect with other lizards.
 
@@ -53,5 +56,3 @@ You can read, check out and alter the code that is running on connect.opensuse.o
 
 ## Enjoy this new addition to the family of openSUSE tools
 ...and don't forget to mingle today!
-
-		

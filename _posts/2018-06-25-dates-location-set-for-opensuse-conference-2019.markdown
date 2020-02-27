@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-06-25 10:03:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/06/25/dates-location-set-for-opensuse-conference-2019/
-title: "Dates, Location set for openSUSE Conference 2019"
+slug: dates-location-set-for-opensuse-conference-2019
+title: Dates, Location set for openSUSE Conference 2019
+wordpress_id: 20935
 categories:
 - Announcements
 - Conference
@@ -19,6 +21,7 @@ tags:
 ---
 
 
+
 The [openSUSE Project](https://www.opensuse.org/) is pleased to announce the location and dates for the 2019 [openSUSE Conference](https://events.opensuse.org/conference/oSC19).
 
 The openSUSE Conference 2019 will return to the Z-Bau in Nuremberg, Germany, and be Friday, May 24, through Sunday, May 26.
@@ -27,4 +30,4 @@ Planning for the 2019 conference will begin this summer and community members ar
 
 Developing the organizing team should help with the planning of future openSUSE Conferences as the project looks expand the conferences to more locations throughout Europe. Both oSC16 and oSC17 were in Nuremberg and oSC18 was in Prague, Czech Republic, last month.
 
-Anyone who is interested in helping to organize oSC19 should email me ddemaio (@) opensuse.org.		
+Anyone who is interested in helping to organize oSC19 should email me ddemaio (@) opensuse.org.

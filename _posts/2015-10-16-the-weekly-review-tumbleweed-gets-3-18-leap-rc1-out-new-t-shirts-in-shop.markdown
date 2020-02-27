@@ -1,15 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-10-16 10:41:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/10/16/the-weekly-review-tumbleweed-gets-3-18-leap-rc1-out-new-t-shirts-in-shop/
-title: "The weekly review: Tumbleweed gets 3.18, Leap RC1 out, new T-Shirts\
-  \ in Shop"
+slug: the-weekly-review-tumbleweed-gets-3-18-leap-rc1-out-new-t-shirts-in-shop
+title: 'The weekly review: Tumbleweed gets 3.18, Leap RC1 out, new T-Shirts in Shop'
+wordpress_id: 19534
 categories:
 - Weekly News
 ---
-**[![Tumbleweed-black-green]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)]({{ site.baseurl }}/assets/Tumbleweed-black-green.png)Tumbleweed**
+
+**[![Tumbleweed-black-green](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)Tumbleweed**
 
 Work under the hood in Factory allowed for only one snapshot of Tumbleweed in 10 days, but the [20151012](http://lists.opensuse.org/opensuse-factory/2015-10/msg00393.html) TW snapshot provided two updates keenly anticipated by rolling release users.
 
@@ -31,4 +33,4 @@ Once again, developers hit the mark and [released the RC1](http://bit.ly/1G7AdOV
 
 Both Tumbleweed and Leap T-Shirts are now available in the [openSUSE Shop](https://shop.opensuse.org/).
 
-Both look good, yet the shop can always be improved. Reply below and let us know what items you would like to see in the shop featuring Tumbleweed or Leap.		
+Both look good, yet the shop can always be improved. Reply below and let us know what items you would like to see in the shop featuring Tumbleweed or Leap.

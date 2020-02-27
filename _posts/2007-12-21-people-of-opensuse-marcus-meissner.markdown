@@ -1,30 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2007-12-21 14:41:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/12/21/people-of-opensuse-marcus-meissner/
-title: "People of openSUSE: Marcus Meissner"
+slug: people-of-opensuse-marcus-meissner
+title: 'People of openSUSE: Marcus Meissner'
+wordpress_id: 573
 categories:
 - People of openSUSE
 ---
+
 As a Christmas gift we present you Marcus Meissner - the teamlead of the SUSE Security Team, Wine and gPhoto coder and also packager. Keep reading!
 
 The 'People of openSUSE' team wishes you a Merry Christmas!
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![marcus_meissner.jpg]({{ site.baseurl }}/assets/marcus_meissner.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|_Marcus_|
-|**Homepage:**|[http://en.opensuse.org/User:Msmeissn](http://en.opensuse.org/User:Msmeissn)|
-|**Blog:**|[http://marcusmeissner.livejournal.com/](http://marcusmeissner.livejournal.com/)|
-|||
-|**Favorite season:**|Spring|
-|**Motto:**|Alles wird gut! (english: "Everything will turn out well", a common SUSE saying.)|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![marcus_meissner.jpg](//news.opensuse.org/wp-content/uploads/2007/12/marcus_meissner.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >_Marcus_
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://en.opensuse.org/User:Msmeissn](http://en.opensuse.org/User:Msmeissn)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://marcusmeissner.livejournal.com/](http://marcusmeissner.livejournal.com/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Alles wird gut! (english: "Everything will turn out well", a common SUSE saying.)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -257,7 +346,7 @@ More understanding of global design issues, more creativity to implement better 
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I would feel a bit lost.
@@ -333,7 +422,7 @@ A 50/50 mix between relaxing and sightseeing.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Buy a house just outside of town with garden + farm animals, keep on working on Opensource stuff and/or parttime for SUSE.
@@ -343,7 +432,7 @@ Buy a house just outside of town with garden + farm animals, keep on working on 
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 The timetraveling scientist knows the future to be pretty unpredictable so he would just visit, pick up some goodies and return to the present.
@@ -355,7 +444,7 @@ So: The present.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No. But I will go and watch the pretty lights.
@@ -411,4 +500,4 @@ The one about the picture I always wanted to share.
 None at the moment.
 
 
-Check out this great list of 75 living women writers from abe [best essay writers](https://pro-essay-writer.com/) books		
+Check out this great list of 75 living women writers from abe [best essay writers](https://pro-essay-writer.com/) books

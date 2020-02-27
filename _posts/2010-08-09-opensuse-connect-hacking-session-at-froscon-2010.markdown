@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2010-08-09 12:38:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/08/09/opensuse-connect-hacking-session-at-froscon-2010/
-title: "openSUSE Connect hacking session at FrOSCon 2010"
+slug: opensuse-connect-hacking-session-at-froscon-2010
+title: openSUSE Connect hacking session at FrOSCon 2010
+wordpress_id: 4022
 categories:
 - Events
 tags:
@@ -12,7 +14,8 @@ tags:
 - connect
 - froscon
 ---
-![]({{ site.baseurl }}/assets/froscon.png)
+
+![](/wp-content/uploads/2010/08/froscon.png)
 
 
 Join the HackMeck!
@@ -55,5 +58,3 @@ The features that will be worked on during HackMeck include:
 
 
 If you are interested in social networking, hacking and shaping the future of this project and want to discover the inner workings of openSUSE make sure to come to HackMeck @ FrosCON 2010, August 21st and 22nd at the University of Applied Sciences Bonn-Rhein-Sieg. Don't forget to register using the [following form](https://spreadsheets.google.com/viewform?formkey=dE9nb2N3YzBMR0d2NUR4UzUyODVuSXc6MQ) so it will be easier for us to plan the event.
-
-		

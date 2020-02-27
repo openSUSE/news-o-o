@@ -1,10 +1,12 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2014-03-04 19:01:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/03/04/opensuse-participates-in-gsoc-2014/
-title: "openSUSE participates in GSoC 2014"
+slug: opensuse-participates-in-gsoc-2014
+title: openSUSE participates in GSoC 2014
+wordpress_id: 17675
 categories:
 - Announcements
 - Google Summer of Code
@@ -13,7 +15,6 @@ tags:
 - gsoc
 - opensuse
 ---
-
 
 ## GSoC 2014: First Steps
 
@@ -50,4 +51,4 @@ Saurabh Sood
 
 You can reach the community at our Mailing List and on #opensuse-project on IRC (Freenode).
 
-_This article has been contributed by Saurabh Sood_		
+_This article has been contributed by Saurabh Sood_

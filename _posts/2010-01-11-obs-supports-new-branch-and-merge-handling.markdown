@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2010-01-11 16:35:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/01/11/obs-supports-new-branch-and-merge-handling/
-title: "OBS supports new branch and merge handling"
+slug: obs-supports-new-branch-and-merge-handling
+title: OBS supports new branch and merge handling
+wordpress_id: 2691
 categories:
 - Build Service
 ---
-Michael Schröder put some effort into supporting a new way of doing a branch and merge of a package with openSUSE Build Service (OBS). This is a new feature of OBS 1.7 release and is active now on [build.opensuse.org](http://build.opensuse.org) by default. This new way is almost the same way as subversion or git are working.
+
+Michael SchrÃ¶der put some effort into supporting a new way of doing a branch and merge of a package with openSUSE Build Service (OBS). This is a new feature of OBS 1.7 release and is active now on [build.opensuse.org](http://build.opensuse.org) by default. This new way is almost the same way as subversion or git are working.
 
 The former branch command created just a "_link" file and stored changes beside in a patch file.
 
@@ -22,4 +25,4 @@ While all this is similar to git there is still a difference. When you branch wi
 
 However, the latest osc 0.125 beta 1 also supports the git way. This means staying at the branched revision and you need to call the also new command **"osc pull"** to update to latest code. You can switch on this mode by adding **"linkcontrol: 1"** to your ~/.oscrc config file.
 
-There will be more development in this area soon :)		
+There will be more development in this area soon :)

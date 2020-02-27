@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-08-22 08:52:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/08/22/the-weekly-review-tumbleweed-gets-4-1-5-tw-shirt-at-froscon/
-title: "The weekly review: Tumbleweed gets 4.1.5, TW-shirt at FrOSCon"
+slug: the-weekly-review-tumbleweed-gets-4-1-5-tw-shirt-at-froscon
+title: 'The weekly review: Tumbleweed gets 4.1.5, TW-shirt at FrOSCon'
+wordpress_id: 19422
 categories:
 - Weekly News
 ---
-[![Tumbleweed]({{ site.baseurl }}/assets/Tumbleweed-300x300.png)]({{ site.baseurl }}/assets/Tumbleweed.png)This week Tumbleweed posted two snapshots in spite of the fact many developers with families had been on holidays before school begins.
+
+[![Tumbleweed](/wp-content/uploads/2015/07/Tumbleweed.png)](/wp-content/uploads/2015/07/Tumbleweed.png)This week Tumbleweed posted two snapshots in spite of the fact many developers with families had been on holidays before school begins.
 
 In those two snapshots, there were changes to  PyQt4 and an upgrade to a newer Kernel.
 
@@ -46,4 +49,4 @@ One of the bigger discussions taking place about Leap is reviewing packages. Any
 #### Asia Summit
 
 
-Two days ago we found out that the second [openSUSE Asia Summit](https://news.opensuse.org/2015/08/20/the-second-opensuse-asia-summit-is-arriving/) will take place in at the National Taipei University of Education in Taiwan from Dec. 5 to 6. With [Taipei 101](https://en.wikipedia.org/wiki/Taipei_101) in the background of this summit, it is certain to be stellar. If you’re in Asia or the Pacific, come to the summit and see how you can contribute to the openSUSE project!		
+Two days ago we found out that the second [openSUSE Asia Summit](https://news.opensuse.org/2015/08/20/the-second-opensuse-asia-summit-is-arriving/) will take place in at the National Taipei University of Education in Taiwan from Dec. 5 to 6. With [Taipei 101](https://en.wikipedia.org/wiki/Taipei_101) in the background of this summit, it is certain to be stellar. If you’re in Asia or the Pacific, come to the summit and see how you can contribute to the openSUSE project!

@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-06-24 19:24:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/06/24/command-line-tuesdays-part-two/
-title: "Command Line Tuesdays - Part Two"
+slug: command-line-tuesdays-part-two
+title: Command Line Tuesdays - Part Two
+wordpress_id: 18089
 categories:
 - Distribution
 ---
+
 Heya geekos!
 
 Let's refresh our memories.[ Last week](https://news.opensuse.org/2014/06/10/command-line-tuesdays-part-one/), we skimmed through some basic commands, learned what a shell is actually, and made a steady introduction into our CLI Tuesdays series.
@@ -76,4 +79,4 @@ P.S.: Thanks to bwl's comment, we fixed an error in the text regarding the space
 
 P.P.S.: GreatEmerald also added some fresh information about file hierarchy. You can read it in [the comments](https://news.opensuse.org/2014/06/24/command-line-tuesdays-part-two/comment-page-1/#comment-99186).
 
-Thanks for your input/corrections.		
+Thanks for your input/corrections.

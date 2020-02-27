@@ -1,18 +1,21 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2007-11-01 15:54:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/01/yast-tools-for-creating-installation-media-and-appliances/
-title: "YaST Tools for Creating Installation Media and Appliances"
+slug: yast-tools-for-creating-installation-media-and-appliances
+title: YaST Tools for Creating Installation Media and Appliances
+wordpress_id: 478
 categories:
 - Distribution
 tags:
 - yast
 ---
+
 The casual reader of news.opensuse.org knows that openSUSE 10.3 contains a YaST tool for creating images using KIWI. However, it  is not that known fact that openSUSE 10.3 contains much more tools to manipulate RPM-based software and wrap it into a  numerous ways for delivery, from a simple repository to a complete appliance creation. The picture below describes how the tools fit together.
 
-[![appliances.png]({{ site.baseurl }}/assets/appliances.png)]({{ site.baseurl }}/assets/appliances.png)
+[![appliances.png](/wp-content/uploads/2007/10/appliances.png)](/wp-content/uploads/2007/10/appliances.png)
 
 <!-- more -->The tools allow anyone to take the openSUSE distribution, add additional software (packaged as RPMs) and create
 
@@ -49,7 +52,7 @@ So, it's much better if we choose an example how the things work together. Let's
 To do this, there are in principle three YaST tools we can use:
 
 	
-  1. the easiest way is to use the über-tool, called YaST product creator
+  1. the easiest way is to use the Ã¼ber-tool, called YaST product creator
 
 	
   2. create just the add-on product using YaST add-on creator
@@ -79,11 +82,11 @@ This tool allows a user to create an installation media (repository) from a bunc
 
 First, a user has to select a name for the add-on product, the base product required for this add-on, and a path to the directory containing the packages.
 
-[![10000201000003280000027c0bbe23d2.png]({{ site.baseurl }}/assets/10000201000003280000027c0bbe23d2.png)]({{ site.baseurl }}/assets/10000201000003280000027c0bbe23d2.png)
+[![10000201000003280000027c0bbe23d2.png](/wp-content/uploads/2007/10/10000201000003280000027c0bbe23d2.png)](/wp-content/uploads/2007/10/10000201000003280000027c0bbe23d2.png)
 
 Asking a few more questions, the tool gathers all data needed for generating the installation media, possibly creating an ISO image to be burned out.
 
-[![10000201000003280000027c1698b01c.png]({{ site.baseurl }}/assets/10000201000003280000027c1698b01c.png)]({{ site.baseurl }}/assets/10000201000003280000027c1698b01c.png)
+[![10000201000003280000027c1698b01c.png](/wp-content/uploads/2007/10/10000201000003280000027c1698b01c.png)](/wp-content/uploads/2007/10/10000201000003280000027c1698b01c.png)
 
 The module is able to create a new add-on product from scratch or modify already existing one. It also supports a commandline interface for scriptable changes of add-on products, see output of 'yast2 add-on-creator help' for supported options.
 
@@ -93,15 +96,15 @@ The module is able to create a new add-on product from scratch or modify already
 
 This tool is a YaST user interface for the KIWI imaging tool. Again, there is just a few simple steps needed for creating an image.
 
-[![10000201000003280000027cbe398235.png]({{ site.baseurl }}/assets/10000201000003280000027cbe398235.png)]({{ site.baseurl }}/assets/10000201000003280000027cbe398235.png)
+[![10000201000003280000027cbe398235.png](/wp-content/uploads/2007/10/10000201000003280000027cbe398235.png)](/wp-content/uploads/2007/10/10000201000003280000027cbe398235.png)
 
 A user chooses the repositories to use, the kind of the resulting image and where to store the image.
 
-[![10000201000003280000027c64c80310.png]({{ site.baseurl }}/assets/10000201000003280000027c64c80310.png)]({{ site.baseurl }}/assets/10000201000003280000027c64c80310.png)
+[![10000201000003280000027c64c80310.png](/wp-content/uploads/2007/10/10000201000003280000027c64c80310.png)](/wp-content/uploads/2007/10/10000201000003280000027c64c80310.png)
 
-Then, a user just needs to adapt the KIWI parameters to suit the needs and just click žFinish to generate the image:
+Then, a user just needs to adapt the KIWI parameters to suit the needs and just click â€žFinishâ€œ to generate the image:
 
-[![10000201000002c8000002d8150d9690.png]({{ site.baseurl }}/assets/10000201000002c8000002d8150d9690.png)]({{ site.baseurl }}/assets/10000201000002c8000002d8150d9690.png)
+[![10000201000002c8000002d8150d9690.png](/wp-content/uploads/2007/10/10000201000002c8000002d8150d9690.png)](/wp-content/uploads/2007/10/10000201000002c8000002d8150d9690.png)
 
 As a note from JiÅ™Ã­ Suchomel, the primary developer, there is a enhanced version in the works to deliver e.g. management of the profiles and more. When ready, the version should be available via BuildService.
 
@@ -126,13 +129,13 @@ The primary purpose of this tool is to create a new, completely installable dist
   * create installation medias (network, DVD)
 
 
-As you can see, the tool provides also way to invoke the add-on creator tool (žCreate New button)¦
+As you can see, the tool provides also way to invoke the add-on creator tool (â€žCreate Newâ€œ button)â€¦
 
-[![10000201000003280000027c8898dfc6.png]({{ site.baseurl }}/assets/10000201000003280000027c8898dfc6.png)]({{ site.baseurl }}/assets/10000201000003280000027c8898dfc6.png)
+[![10000201000003280000027c8898dfc6.png](/wp-content/uploads/2007/10/10000201000003280000027c8898dfc6.png)](/wp-content/uploads/2007/10/10000201000003280000027c8898dfc6.png)
 
-¦ as well as generating a resulting image using KIWI ¦
+â€¦ as well as generating a resulting image using KIWI â€¦
 
-[![10000201000003280000027ce566fc82.png]({{ site.baseurl }}/assets/10000201000003280000027ce566fc82.png)]({{ site.baseurl }}/assets/10000201000003280000027ce566fc82.png)
+[![10000201000003280000027ce566fc82.png](/wp-content/uploads/2007/10/10000201000003280000027ce566fc82.png)](/wp-content/uploads/2007/10/10000201000003280000027ce566fc82.png)
 
 
 ## How to try it out
@@ -149,4 +152,4 @@ The packages you need are:
 
 As always, feedback is always appreciated, either using opensuse-factory mailing list or bugzilla.
 
-The article was written by the YaST team - thanks to Stanislav Visnovsky as main author.		
+The article was written by the YaST team - thanks to Stanislav Visnovsky as main author.

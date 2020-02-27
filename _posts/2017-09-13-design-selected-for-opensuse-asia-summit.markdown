@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-09-13 12:58:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/09/13/design-selected-for-opensuse-asia-summit/
-title: "Design Selected for openSUSE.Asia Summit"
+slug: design-selected-for-opensuse-asia-summit
+title: Design Selected for openSUSE.Asia Summit
+wordpress_id: 20550
 categories:
 - Announcements
 - Conference
@@ -14,7 +16,8 @@ tags:
 - Logo
 - openSUSE.Asia Summit
 ---
-![]({{ site.baseurl }}/assets/opensuse-asia-17-logo-red-216x300.png)Thank you for designing great logos and helping us to choose one from them.
+
+![](/wp-content/uploads/2017/09/opensuse-asia-17-logo-red.png)Thank you for designing great logos and helping us to choose one from them.
 
 As a result of the final vote, two candidates tied for the first place. openSUSE.Asia Summit Committee discussed which one should be this year’s logo.
 
@@ -48,4 +51,4 @@ Thank you for great work for the competition.
   * Yaya Red: 8
 
 
-Thank you, Aris Winardi, Haruo Yoshino, Christella Chong, Khoirudin, Jun Nogata, Elio Qoshi, Fuminobu Takeyama, Kukuh Syafaat and Natsumi Irimira for your participation.		
+Thank you, Aris Winardi, Haruo Yoshino, Christella Chong, Khoirudin, Jun Nogata, Elio Qoshi, Fuminobu Takeyama, Kukuh Syafaat and Natsumi Irimira for your participation.

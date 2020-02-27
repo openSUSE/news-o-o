@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-11-10 17:10:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/11/10/help-promote-opensuse-13-2/
-title: "Help promote openSUSE 13.2!"
+slug: help-promote-opensuse-13-2
+title: Help promote openSUSE 13.2!
+wordpress_id: 18820
 categories:
 - Distribution
 - Project
 ---
+
 To help promote 13.2, we have assembled some badges, backgrounds, counters and banners for you to put on your social media or blog pages. 
 
 
@@ -20,7 +23,7 @@ If you want to decorate your blog or website with a nice 13.2 banner, grab one o
 <tbody >
 <tr valign="TOP" >
 
-<td width="84%" >[![468x60]({{ site.baseurl }}/assets/468x60-300x38.png)]({{ site.baseurl }}/assets/468x60.png)
+<td width="84%" >[![468x60](/wp-content/uploads/2014/11/468x60.png)](/wp-content/uploads/2014/11/468x60.png)
 </td>
 
 <td width="16%" >468×60
@@ -28,7 +31,7 @@ If you want to decorate your blog or website with a nice 13.2 banner, grab one o
 </tr>
 <tr valign="TOP" >
 
-<td width="84%" > [![728x90]({{ site.baseurl }}/assets/728x90-300x38.png)]({{ site.baseurl }}/assets/728x90.png)
+<td width="84%" > [![728x90](/wp-content/uploads/2014/11/728x90.png)](/wp-content/uploads/2014/11/728x90.png)
 </td>
 
 <td width="16%" >728×90
@@ -36,7 +39,7 @@ If you want to decorate your blog or website with a nice 13.2 banner, grab one o
 </tr>
 <tr valign="TOP" >
 
-<td width="84%" >[![]({{ site.baseurl }}/assets/wide-300x50.png)]({{ site.baseurl }}/assets/wide.png)
+<td width="84%" >[![](/wp-content/uploads/2014/11/wide.png)](/wp-content/uploads/2014/11/wide.png)
 </td>
 
 <td width="16%" >600×100
@@ -44,10 +47,10 @@ If you want to decorate your blog or website with a nice 13.2 banner, grab one o
 </tr>
 </tbody>
 </table>
-[![Google_Cover]({{ site.baseurl }}/assets/Google_Cover-300x168.png)]({{ site.baseurl }}/assets/Google_Cover.png) [![GooglePageCover]({{ site.baseurl }}/assets/GooglePageCover-300x168.png)]({{ site.baseurl }}/assets/GooglePageCover.png)
+[![Google_Cover](/wp-content/uploads/2014/11/Google_Cover.png)](/wp-content/uploads/2014/11/Google_Cover.png) [![GooglePageCover](/wp-content/uploads/2014/11/GooglePageCover.png)](/wp-content/uploads/2014/11/GooglePageCover.png)
 
 
-### [![google]({{ site.baseurl }}/assets/google-300x110.png)]({{ site.baseurl }}/assets/google.png)
+### [![google](/wp-content/uploads/2014/11/google.png)](/wp-content/uploads/2014/11/google.png)
 
 
 
@@ -81,9 +84,7 @@ If you want to decorate your blog or website with a nice 13.2 banner, grab one o
 
 
 [wnereiz](https://github.com/wnereiz) rocked this cd cover and sleeve. Get the original [in this github folder](https://github.com/openSUSE/artwork/tree/50fc8a83ecb0d6b28c2262a6fc648881b5c1ceec/Marketing%20Materials/CD-sleeve/13.2). Lookin’ great!!
-[![cd]({{ site.baseurl }}/assets/cd-300x212.png)]({{ site.baseurl }}/assets/cd.png)[![openSUSE_13.2-dvd-sleeve]({{ site.baseurl }}/assets/openSUSE_13.2-dvd-sleeve-300x212.png)]({{ site.baseurl }}/assets/openSUSE_13.2-dvd-sleeve.png)
+[![cd](/wp-content/uploads/2014/11/cd.png)](/wp-content/uploads/2014/11/cd.png)[![openSUSE_13.2-dvd-sleeve](/wp-content/uploads/2014/11/openSUSE_13.2-dvd-sleeve.png)](/wp-content/uploads/2014/11/openSUSE_13.2-dvd-sleeve.png)
 
 
 # Help spreading the fun!
-
-		

@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-07-12 13:50:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/07/12/announcing-enos-2007/
-title: "Announcing ENOS 2007"
+slug: announcing-enos-2007
+title: Announcing ENOS 2007
+wordpress_id: 29
 categories:
 - Events
 ---
+
 The acronym ENOS stands for 'Encontro Nacional de openSUSE', a Portuguese expression which can be translated to 'National openSUSE Meeting', an event meant to unite the Portuguese openSUSE users.
 
 The first ENOS will take place on the first of Setember (01/09/2007) at Caldas  da Rainha, Leiria, Portugal, hosted and promoted by Carlos GonÃ§alves, with the support of the Caldas Rainha Network.
@@ -28,4 +31,4 @@ The current schedule, subject to changes, defines the following (all the times
  * +6:00 pm - Caldas da Rainha at night :-)
  
  
- More informations: [http://en.opensuse.org/Events/ENOS](http://en.opensuse.org/Events/ENOS) and [http://pt.opensuse.org/Eventos/ENOS](http://pt.opensuse.org/Eventos/ENOS)
+ More informations: [http://en.opensuse.org/Events/ENOS](http://en.opensuse.org/Events/ENOS) and [http://pt.opensuse.org/Eventos/ENOS](http://pt.opensuse.org/Eventos/ENOS) In ios 7 beta 4, the messages app  displayed the first name and last initial of a contact in a conversation by default

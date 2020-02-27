@@ -1,13 +1,16 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-05-23 12:00:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/05/23/opensuse-conference-has-a-location-and-a-cfp-out/
-title: "openSUSE Conference has a location and a CfP out!"
+slug: opensuse-conference-has-a-location-and-a-cfp-out
+title: openSUSE Conference has a location and a CfP out!
+wordpress_id: 13367
 categories:
 - Conference
 ---
+
 We are happy to announce that after scouting many wonderful places, having long discussions and many last minute changes, we finally have a **location and date set** for the openSUSE Conference 2012 (oSC12) and **our CfP committee is ready to accept talk proposals**!
 
 
@@ -28,7 +31,7 @@ This years openSUSE Conference theme is _"Bootstrapping awesome!"_. Why? Not jus
 
 The other conferences are [Gentoo miniconf](http://miniconf.gentoo.org) and the [LinuxDays conference](http://linuxdays.cz).
 
-(http://bootstrapping-awesome.org)
+[caption id="attachment_13389" align="alignright" width="212" caption="combined conference poster (still WIP)"][![click to visit the combined conference website!](/wp-content/uploads/2012/05/Website-image-90-dpi.png)](http://bootstrapping-awesome.org)[/caption]
 
 
 ### LinuxDays Conference
@@ -102,4 +105,4 @@ Just hit the button!
 
 Registration for the conference will come soon.
 
-For now, send us your proposals and meet us in October in Prague!		
+For now, send us your proposals and meet us in October in Prague!

@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-08-29 15:36:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/29/mirror-brain-and-new-lizard-in-china/
-title: "openSUSE's MirrorBrain and a New Lizard in China"
+slug: mirror-brain-and-new-lizard-in-china
+title: openSUSE's MirrorBrain and a New Lizard in China
+wordpress_id: 999
 categories:
 - Distribution
 - Infrastructure
@@ -13,6 +15,7 @@ tags:
 - download
 - mirror
 ---
+
 Do you know openSUSE's [MirrorBrain](http://mirrorbrain.org/)?Â  I have been working on it for over a year now. It is a mirror framework which is open source and can be used by anyone.
 
 The other day, I received the following sentiment:
@@ -27,7 +30,7 @@ It is nice to see (and important for us) if mirror admins are happy. Mirrors are
 
 A lot happens behind the scene to make sure that openSUSE is continuously and easily available. If you never actually notice anything about it, then it only means we are doing well!
 
-For instance, I am always searching new mirrors. One of the biggest recent achievements was that Coly Li, our Chinese friend, installed the **first real openSUSE mirror in China**: [http://www.lizardsource.cn/](http://www.lizardsource.cn/). In China mainland, there are already several sites that mirror opensuse, now lizardsource.cn is the first opensuse specific mirror and the largest openSUSE mirror so far.
+For instance, I am always searching new mirrors. One of the biggest recent achievements was that Coly Li, our Chinese friend, installed the **first â€œreal openSUSEâ€ mirror in China**: [http://www.lizardsource.cn/](http://www.lizardsource.cn/). In China mainland, there are already several sites that mirror opensuse, now lizardsource.cn is the first opensuse specific mirror and the largest openSUSE mirror so far.
 
 When talking to Coly about the situation in China, he provided the following insight:
 (explanatory comment: GFW refers to the [censorship system](http://en.wikipedia.org/wiki/Internet_censorship_in_China), nicknamed [Great Firewall of China](https://www.cloudwards.net/censorship-in-china/))
@@ -54,4 +57,4 @@ Currently, I am researching on a somewhat complicated idea to achieve a more fin
 
 The outdated [wiki pages](http://en.opensuse.org/Mirrors_Released_Version) that list mirrors need to be replaced by real-time lists generated from the mirror database. I don't know when I/we get around to do this. If anyone would like to hack on a web frontend for the mirror database (I am picturing a TurboGears app that integrates with the existing Python mirror toolbox), contribution would be most welcome; let me know if you are interested!
 
-_See [http://mirrorbrain.org](http://mirrorbrain.org/) for more info about the framework we use. Info for site operators interested in mirroring us is to be found [here](http://en.opensuse.org/Mirror_Infrastructure)._ The biggest ocean in the solar system is on buy essays [pop over to the portal](https://essayclick.net/) jupiter		
+_See [http://mirrorbrain.org](http://mirrorbrain.org/) for more info about the framework we use. Info for site operators interested in mirroring us is to be found [here](http://en.opensuse.org/Mirror_Infrastructure)._ The biggest ocean in the solar system is on buy essays [pop over to the portal](https://essayclick.net/) jupiter

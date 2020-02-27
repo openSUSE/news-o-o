@@ -1,13 +1,16 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2010-12-21 21:44:14+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/21/board-meeting-summary-15-december-2010/
-title: "Board Meeting Summary 15 December 2010"
+slug: board-meeting-summary-15-december-2010
+title: Board Meeting Summary 15 December 2010
+wordpress_id: 6023
 categories:
 - Project
 ---
+
 For the full transcript of the last openSUSE Board meeting, see our [logs.](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html)
 
 **Introduction of new openSUSE Board Chairman - Alan Clark**
@@ -48,4 +51,4 @@ Read [here for the full meeting transcript](http://community.opensuse.org/meetin
 
 **Next Meeting**
 
-With the holidays coming up, we will have our next Board meeting on 12 January, 2011.		
+With the holidays coming up, we will have our next Board meeting on 12 January, 2011.

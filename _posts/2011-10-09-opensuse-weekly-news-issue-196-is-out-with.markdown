@@ -1,11 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-10-09 06:52:14+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/09/opensuse-weekly-news-issue-196-is-out-with/
-title: "openSUSE Weekly News, Issue 196 is out with: 12.1 Beta,Board Election,ARM\
-  "
+slug: opensuse-weekly-news-issue-196-is-out-with
+title: 'openSUSE Weekly News, Issue 196 is out with: 12.1 Beta,Board Election,ARM'
+wordpress_id: 11186
 categories:
 - Weekly News
 tags:
@@ -13,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News Issue 196.
 <!-- more -->
 
@@ -104,49 +106,49 @@ Enjoy reading :-)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
 
-
+â€œ
 
 
       [openSUSE 12.1
-        Beta Arrives!](https://news.opensuse.org/2011/10/01/opensuse-12-1-beta-arrives/)
+        Beta Arrives!](http://news.opensuse.org/2011/10/01/opensuse-12-1-beta-arrives/)
     
 
 The much-awaited Beta release of openSUSE 12.1 is here! And just in time for your weekend
         [Beta
-        Pizza Party](https://news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/). So fire up that oven and warm up that [download manager](http://download.opensuse.org/distribution/12.1-Beta1/iso/)
+        Pizza Party](http://news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/). So fire up that oven and warm up that [download manager](http://download.opensuse.org/distribution/12.1-Beta1/iso/)
       because its time to get ready for the latest awesome openSUSE on your computer. (...)
 
-
+â€
 
+â€œ
 
+[Hackweek results for openSUSE ARM](http://news.opensuse.org/2011/10/04/hackweek-results-for-opensuse-arm/)
 
-[Hackweek results for openSUSE ARM](https://news.opensuse.org/2011/10/04/hackweek-results-for-opensuse-arm/)
-
-Last Friday Dirk Müller [send an email to
+Last Friday Dirk MÃ¼ller [send an email to
         openSUSE-Factory](http://lists.opensuse.org/opensuse-factory/2011-09/msg01259.html) about the status of the [openSUSE ARM port](http://en.opensuse.org/Portal:ARM). SUSE employees Adrian,
       Alexander, Dirk and Reinhard had spend their Hackweek revitalizing the initial work by
       Jan-Simon and Martin by getting openSUSE Factory on ARM to build and work. The [current build
         status on OBS](https://build.opensuse.org/project/show?project=openSUSE%3AFactory%3AARM) shows that almost 2500 packages are working successfully and the team
       invites anyone interested to come and help increase that number!
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/vote.jpeg)Board Election 2011â–²â–¼
 
-
+â€œ
 
 [openSUSE
-        Board Election Committee Formed](https://news.opensuse.org/2011/10/05/opensuse-board-election-committee-formed/)
+        Board Election Committee Formed](http://news.opensuse.org/2011/10/05/opensuse-board-election-committee-formed/)
 
 The 2011 openSUSE Board term is soon coming to an end. In the last few project meetings as
       well as at the conference, the board has called for people to step up for the Election
-      Committee. Five openSUSE contributors have offered their help and we™d like to introduce them
+      Committee. Five openSUSE contributors have offered their help and weâ€™d like to introduce them
       to you.
 
 **The Team**
 
 The openSUSE Board is proud to welcome the following members of our openSUSE Community as
-      this year™s Election Committee:
+      this yearâ€™s Election Committee:
 
   * Izabel Valverde
 
@@ -172,11 +174,11 @@ We are sure this team will perform its duties to the best benefit of the openSUS
       and we look forward to an exciting election term and seeing many openSUSE Community members
       stepping up as candidates in the upcoming election.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Hackweek-mug.png)Hackweek VIIâ–²â–¼
 
-
+â€œ
 
 [Sankar P: Telepathic Flirt With Chromium](http://psankar.blogspot.com/2011/10/telepathic-flirt-with-chromium.html)
 
@@ -190,9 +192,9 @@ I tried to bring a prototype to provide IM/Chat support built-in to the Chromium
         click here in case you do not see the embedded video](http://www.youtube.com/watch?v=LakITrC5yNM). Please see the video in
         **full screen HD**.
 
-
+â€
 
-
+â€œ
 
 
       [Tor Lillqvist:
@@ -219,14 +221,14 @@ I also experimented with building against the 10.6 SDK but with MacOSX 10.4 as t
       (with 10.4 and 10.5 SDKs) in addition to, or instead of, the current Xcode 4 (with 10.6 and
       10.7 SDKs).
 
-
+â€
 
-
+â€œ
 
 [Noel Power:
         hackweek #7 oletool.py](http://noelpower.blogs.ie/2011/10/07/hackweek-7-oletoolpy/)
 
-Last year for some reason that I can™t recall I only managed to take 1 day of hackweek,
+Last year for some reason that I canâ€™t recall I only managed to take 1 day of hackweek,
       back then I started [oletool.py](http://cgit.freedesktop.org/libreoffice/contrib/mso-dumper/tree/src/oletool.py). oletool.py is intended to be like a cheap & nasty (zip/unzip)-like
       command-line tool for OLE compound documents. I started this for 2 reasons
 
@@ -238,13 +240,13 @@ Last year for some reason that I can™t recall I only managed to take 1 day of 
             learn a new scripting language ( I know I could have used libgsf for this tool - maybe
             something for some spare cycles )
 
-So, has to be said I wasn™t starting completely from scratch, Kohei already created [mso-dumper](http://cgit.freedesktop.org/libreoffice/contrib/mso-dumper/) for
-      dumping the content of Excel documents in python. Last year I was happy with my one day™s
-      work, I managed using Kohei™s mso-dumper code to quickly cobble together a tool that allowed
+So, has to be said I wasnâ€™t starting completely from scratch, Kohei already created [mso-dumper](http://cgit.freedesktop.org/libreoffice/contrib/mso-dumper/) for
+      dumping the content of Excel documents in python. Last year I was happy with my one dayâ€™s
+      work, I managed using Koheiâ€™s mso-dumper code to quickly cobble together a tool that allowed
       the contents of the document to be displayed ( ala gsf list type format ) and also extract one
       or more streams. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
@@ -256,7 +258,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-
+â€œ
 
 [Nelson Marques: openSUSE 12.1 delivers GTK+ 3.2 with Broadway backend!](http://www.marques.so/2011/10/opensuse-12-1-delivers-gtk-3-2-with-broadway-backend/)
 
@@ -268,20 +270,20 @@ On the 25th of September 2001, [Mathias Clasen](http://fedoraproject.org/wiki/Us
   * Width-for-height support in many more widgets (ex: GtkPanel, GtkMenuBar,
                   GtkNotebook, etc);
 
-  * New experimental Wayland and **HTML5 ˜Broadway™
+  * New experimental Wayland and **HTML5 â€˜Broadwayâ€™
                   backeds**;
 
   * GtkFileChooser and GtkAssistant received face-lifts;
 
   * New widgets (ex: GtkLockButton and GtkOverlay, etc);
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 368)](https://features.opensuse.org/120340)
@@ -290,9 +292,9 @@ On the 25th of September 2001, [Mathias Clasen](http://fedoraproject.org/wiki/Us
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 195)](https://features.opensuse.org/305493)
@@ -307,9 +309,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 167)](https://features.opensuse.org/305305)
@@ -317,9 +319,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 157)](https://features.opensuse.org/308497)
@@ -337,9 +339,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 113)](https://features.opensuse.org/305877)
@@ -360,13 +362,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Auto-lock with password when screen saver kicks in](https://features.opensuse.org/312871)
@@ -376,7 +378,7 @@ We need a feedback about packages that are preferred by users and actively used.
 
   * add a default "lock" button to the GUI taskbar
 
-
+â€
 
 ##### Feature Statistics
 
@@ -384,7 +386,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry
@@ -400,20 +402,20 @@ The Beta 1 release of 12.1 was released approximately one week ago and has been
           getting quite a bit of testing. On my systems, I have been doing updates from the Factory
           repos nearly every day. Most things are working without problems. 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### Postings from the Community
 
-
+â€œ
 
 [Bruno Friedmann: 3 new virtual party on SecondLife for upcoming openSUSE
         12.1](http://lizards.opensuse.org/2011/10/03/3-new-virtual-party-on-secondlife-for-upcoming-opensuse-12-1/)
@@ -435,18 +437,18 @@ Francoise (aka Morgane Marquis) and myself (tigerfoot) organize 3 new parties on
 You should take this opportunity to try Second Life, creating an avatar, coming to dance
         and drinking some beers with us at Geekos Place. (...)
 
-
+â€
 
 ### Welcome new openSUSE Members
 
-
+â€œ
 
 We are happy to announce the new openSUSE Members!
 
 [abittner
           (abittner)](https://connect.opensuse.org/pg/profile/abittner)
 
-
+â€
 
 ### Events & Meetings
 
@@ -454,7 +456,7 @@ Upcoming
 
   * No News!
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -475,7 +477,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 The Section provides the Game of the Week, and Updates in the Game Repository
 
-
+â€œ
 
 
       [Tux
@@ -492,32 +494,32 @@ The Section provides the Game of the Week, and Updates in the Game Repository
 
 Xonotic uses the Darkplaces game engine, an engine which started as a Quake modification,
       but it was under heavy development and new improvements were made. Currently the developers of
-      Xonotic state that the game is on the par with most commercial games from 2006-2007³. Which,
+      Xonotic state that the game is â€œon the par with most commercial games from 2006-2007â€³. Which,
       for the Linux platform is pretty important. (...)
 
-
+â€
 
-
+â€œ
 
 [Nelson Marques:
         Trine 2 coming for Linux?](http://www.marques.so/2011/10/trine-2-coming-for-linux/)
 
-I™ve just noticed that [Frozenbyte](http://frozenbyte.com/) is already
+Iâ€™ve just noticed that [Frozenbyte](http://frozenbyte.com/) is already
       doing the beta for [Trine 2](http://www.trine2.com), a fun platform game.
       The fun thing is that according to several sources on their forums they are planing to launch
-      Trine 2 for Linux alongside with the Windows version or shortly after. I never heard of this
+      Trine 2 for Linux alongside with the Windows version or â€œshortly afterâ€. I never heard of this
       game before and the video makes me remember of a very old DOS game called Goblins III. Either
-      way the video is awesome and I™m pretty sure this is a potential purchase for my game
+      way the video is awesome and Iâ€™m pretty sure this is a potential purchase for my game
       collection.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [
         openSUSE-SU-2011:1076-2: important: MozillaThunderbird: Update to Mozilla Thunderbird
@@ -563,26 +565,26 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixing various bugs and security issues.
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [Rares
-        Aioanei: kernel weekly news “ 08.10.2011](http://schaiba.wordpress.com/2011/10/08/kernel-weekly-news-08-10-2011/)
+        Aioanei: kernel weekly news â€“ 08.10.2011](http://schaiba.wordpress.com/2011/10/08/kernel-weekly-news-08-10-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [N.B.Prashanth:
@@ -591,33 +593,33 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 GNOME3 and the GNOME Shell are no doubt, major improvements. They bring in usability and
         quite a bit of eye candy (in a different way compared to compiz) while at the same time, a
-        few features went missing in 3.0 release “ like Emblems, for instance. Nevertheless, GNOME3
+        few features went missing in 3.0 release â€“ like Emblems, for instance. Nevertheless, GNOME3
         is a great release and has been extremely stable so far (Yes, i have been using it since
-        it™s release in April.). 
+        itâ€™s release in April.). 
 
 One major complaint that I hear from people is that GNOME3 is not as easy to customize
-        as 2.x. A lot of people seem to think that they are stuck with the blue-black theme that
+        as 2.x. A lot of people seem to think that they are â€œstuckâ€ with the blue-black theme that
         comes by default. Ofcourse this is not the case. In this post, I ll explain a few ways in
         which we can customize GNOME3 and the GNOME Shell. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Linuxaria: 4 programs to update your Blog from Linux](http://linuxaria.com/recensioni/4-programs-to-update-your-blog-from-linux?lang=en)
       
 
-Sometimes it™s useful to work offline, and once the article it™s finished publish it on your Blog.
+Sometimes itâ€™s useful to work offline, and once the article itâ€™s finished publish it on your Blog.
 yes you can do it with an html editor, or also with a simple text editor like Vi or Emacs, but there are specialized programs that can ease your work of publishing and management of your online Blog.
 
-So we™ll take a look at Scribefire, BloGTK, Blogilo and Qumana. (...)
+So weâ€™ll take a look at Scribefire, BloGTK, Blogilo and Qumana. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [Wazi/Carla Schroder: How to Find Anything Under Linux](http://olex.openlogic.com/wazi/2011/how-to-find-anything-under-linux/)
@@ -625,11 +627,11 @@ So we™ll take a look at Scribefire, BloGTK, Blogilo and Qumana. (...)
 
 The Linux find, grep, and awk commands are amazing power tools for fine-grained file searches, and for finding things inside files. With them you can find the largest and newest files on a system, fine-tune search parameters, search for text inside files, and perform some slick user management tricks. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [The Geek Stuff/Himanshu Arora: Journey of a C Program to Linux Executable in 4 Stages](http://www.thegeekstuff.com/2011/10/c-program-to-an-executable/)
@@ -641,11 +643,11 @@ Have you ever wondered what happens during the compilation process and how the C
 
 There are four main stages through which a source code passes in order to finally become an executable. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [IBM
@@ -662,9 +664,9 @@ If you work in a mixed environment in which non-English characters are used, you
         building and patching conversion libraries may also be necessary. In this article, learn how
         to handle internationalization in your Linux environment. (...)
 
-
+â€
 
-
+â€œ
 
 
         [ZDNET/Steven
@@ -674,16 +676,16 @@ If you work in a mixed environment in which non-English characters are used, you
 Linux is, by design, a very secure operating system, but so what? You can have the best
         security system in the world on your house, but if you leave your front-door open anyone can
         still walk in. Even people who know better, like Linux kernel developers, blow it sometimes.
-        That™s what happened to the [Linux Foundation](http://www.linuxfoundation.org)™s constellation of sites. [Multiple important Linux sites were down for weeks](http://www.zdnet.com/blog/open-source/some-linux-foundation-crack-attack-details-emerge/9535) and as of October 3rd, [kernel.org](http://http://kernel.org) is still down. This doesn™t have to
+        Thatâ€™s what happened to the [Linux Foundation](http://www.linuxfoundation.org)â€™s constellation of sites. [Multiple important Linux sites were down for weeks](http://www.zdnet.com/blog/open-source/some-linux-foundation-crack-attack-details-emerge/9535) and as of October 3rd, [kernel.org](http://http://kernel.org) is still down. This doesnâ€™t have to
         happen to you. Here are a few simple suggestions from me, and some more advanced ones from
-          [Greg Kroah-Hartman](http://www.kroah.com/log/), one of Linux™s lead
+          [Greg Kroah-Hartman](http://www.kroah.com/log/), one of Linuxâ€™s lead
         developers. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 [Andrew Wafaa: Hardware needed for openSUSE on ARM](http://www.wafaa.eu/entry/hardware-needed-for-opensuse-on-arm-1-71.html)
 
@@ -696,9 +698,9 @@ I am in discussions trying to get some corporate sponsorship of hardware, but we
       to help ourselves succeed, as such I've set up a [campaign](http://pledgie.com/campaigns/16098) on Pledgie to enable us the
       community to contribute to the effort for obtaining hardware. (...)
 
-
+â€
 
-
+â€œ
 
 [Gregory M. Zysk: Looking back at the openSUSE Conference 2011 (oSC)](http://openleadership.blogspot.com/2011/10/looking-back-at-opensuse-conferece-osc.html)
 
@@ -713,9 +715,9 @@ I arrived at [Zentrifuge](http://www.zentrifuge-nuernberg.de/) on the
       entering the community. This is one aspect where openSUSE makes the difference, since it is
       not practiced to this extent in many other communities. 
 
-
+â€
 
-
+â€œ
 
 [Gregory M. Zysk: openSUSE Marketing Hackfest 2011](http://openleadership.blogspot.com/2011/10/opensuse-marketing-hackfest-2011.html)
 
@@ -730,9 +732,9 @@ I was asked to attend this event for several reasons aside from the normal Marke
       initiatives started at the oSC, since we had a chance to digest them and come with some
       valuable input that was used to move things forward ;-)
 
-
+â€
 
-
+â€œ
 
 [Sascha Manns: Balsam Professional 12.1 Boxdesign (based on openSUSE)](http://saigkill.homelinux.net/entry/2011/10/07/balsam-professional-121-boxdesign-based-on-opensuse)
 
@@ -740,11 +742,11 @@ Now it is out, our new Boxdesign:
 
 ![](http://saigkill.homelinux.net/images/121_boxtitel_gb_v2.jpg)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
 
-
+â€œ
 
 
       [openSUSE 12.1 Beta comments](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/465917-re-12-1-beta-comments.html)
@@ -754,9 +756,9 @@ Now it is out, our new Boxdesign:
       The development of openSUSE 12.1 has gone past the Milestones stage, and has now achieved Beta status. As usual there's a lot of activity around this in the forums. If you're interested in the comments. reports etc by forums members testing the release, this is the thread to watch. Some solutions for current issues can be found here as well.
     
 
-
+â€
 
-
+â€œ
 
 
     [KDE 4.7 in Tumbleweed ?](http://forums.opensuse.org/english/get-technical-help-here/tumbleweed/465269-kde-4-7-tumbleweed.html)
@@ -766,9 +768,9 @@ Now it is out, our new Boxdesign:
       It's already a while ago, that we were presented with openSUSE Tumbleweed, the rolling release version of openSUSE. Also a while ago, that KDE 4.7 was released. Yet, there's still no KDE 4.7 in Tumbleweed, using the KDE:/Release: repos is not the way to go. Greg Kroah Hartman, maintainer of Tumbleweed, stated in one of the forums threads that there are some issues in KDE 4.7 that keep it from being in Tumbleweed. So, patience seems to be the best for now. Greg will probably let us know, when things get cleared.
       
 
-
+â€
 
-
+â€œ
 
 
     [Adobe Flash 11 64-bit has finally been released to the public for download](http://forums.opensuse.org/english/get-technical-help-here/64-bit/466013-adobe-flash-11-64-bit-has-finally-been-released-public-download.html)
@@ -778,9 +780,9 @@ Now it is out, our new Boxdesign:
       The title says it all. Adobe released a 64bit version of their Flash player 11. Some members report erronious behaviour, others, like me, have no issues. Read the thread to find out about the details 
       
 
-
+â€
 
-
+â€œ
 
 
       openSUSE Language specific subforums:
@@ -794,25 +796,25 @@ We now host the following language specific subforums under the umbrella of the 
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Reports
 
-
+â€œ
 
 
         [TDF Blog: The Document Foundation publishes details of LibreOffice 3.4.3 security
           fixes](http://blog.documentfoundation.org/2011/10/05/the-document-foundation-publishes-details-of-libreoffice-3-4-3-security-fixes/)
       
 
-The Internet, October 4, 2011 “ The Document Foundation (TDF) publishes some details of
+The Internet, October 4, 2011 â€“ The Document Foundation (TDF) publishes some details of
         the security fixes included with the recently released LibreOffice 3.4.3, and included in
         the older 3.3.4 version. Following industry best practice, details of security fixes are
         withheld until users have been given time to migrate to the new version.
@@ -821,11 +823,11 @@ RedHat security researcher Huzaifa Sidhpurwala identified a memory corruption
         vulnerability in the code responsible for loading Microsoft Word documents in LibreOffice.
         This flaw could have been used for nefarious purposes, such as installing viruses, through a
         specially-crafted file. The corresponding vulnerability description is
-        CVE-2011-2713,Out-of-bounds property read in binary .doc filter. (...)
+        CVE-2011-2713,â€Out-of-bounds property read in binary .doc filterâ€. (...)
 
-
+â€
 
-
+â€œ
 
 
         [The Register/Dan Goodin: Check your machines for malware, Linux developers told](http://www.theregister.co.uk/2011/10/04/linux_repository_res/)
@@ -838,19 +840,19 @@ Emails sent Friday by Linux kernel lead developers Greg Kroah-Hartman and H Pete
 Among other things, project leaders are requiring all developers to regenerate the cryptographic keys used to upload source code to the site, and to ensure their systems are free of rootkits and other types of malware.
 (...)
 
-
+â€
 
 ### LOL
 
-
+â€œ
 
 
         [like-a-boss.org: hacking the imperial death march](http://like-a-boss.org/2011/09/30/hacking-the-imperial-death-march/)
       
 
-One of the great things about the original Star Wars trilogy, was the lived in, junky, hacked together aesthetic of the Star Wars universe. Everything was a bit trashed, as if real people actually lived there. Thankfully, that™s one of the things that George Lucas hasn™t tinkered with in his endless quest to ruin the childhood memories of a generation. So it™s heartening to see this tradition carried on with the playing of the imperial death march on miscellaneous hacked together hardware. Enjoy ¦ (...)
+One of the great things about the original Star Wars trilogy, was the â€œlived inâ€, junky, hacked together aesthetic of the Star Wars universe. Everything was a bit trashed, as if real people actually lived there. Thankfully, thatâ€™s one of the things that George Lucas hasnâ€™t tinkered with in his endless quest to ruin the childhood memories of a generation. So itâ€™s heartening to see this tradition carried on with the playing of the imperial death march on miscellaneous hacked together hardware. Enjoy â€¦ (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -882,7 +884,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -896,7 +898,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -928,7 +930,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 196 is available in: 
 
-  * [English](https://news.opensuse.org/?p=11186)
+  * [English](http://news.opensuse.org/?p=11186)
 
 Coming soon: 
 
@@ -943,7 +945,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-
-		

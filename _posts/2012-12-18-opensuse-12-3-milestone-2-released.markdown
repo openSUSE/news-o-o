@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2012-12-18 16:39:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/12/18/opensuse-12-3-milestone-2-released/
-title: "openSUSE 12.3 Milestone 2 released"
+slug: opensuse-12-3-milestone-2-released
+title: openSUSE 12.3 Milestone 2 released
+wordpress_id: 14806
 categories:
 - Announcements
 - Distribution
 ---
+
 A month's work since [Milestone 1](https://news.opensuse.org/2012/11/08/opensuse-12-3-milestone-1-is-ready-for-you/)Â shows thatÂ the new Release Team are hitting their stride, as they have reviewed and checked in more than 470 updated packages, far more than early milestones in previous releases.
 
 
@@ -21,7 +24,7 @@ In a change to policy, KDE 4.10 Beta 2 has been added to Factory already. Usuall
 
 Other KDE changes include kwebkitpart 1.3, which adds Access Key support, automatic scrolling and manual spell checking support for forms, as well as on demand plugin loading; and appmenu-qt joins the standard installation, allowing application menus to be shown at the top of the screen or in a menu button on the window border.
 
-After a period of stabilization work, GNOME 3.6.3 found its way into this milestone. The GNOME interface for PackageKit is at version 3.6.1, which fixes a segfault error when a distribution upgrade is available. This GNOME version is better integrated with systemd, and has a new Airplane Mode, that switches off all radios, including Bluetooth.
+After a period of stabilization work, GNOME 3.6.3 found its way into this milestone. The GNOME interface for PackageKit is at version 3.6.1, which fixes a segfault error when a distribution upgrade is available. This GNOME version is better integrated with systemd, and has a new â€œAirplane Modeâ€, that switches off all radios, including Bluetooth.
 
 Claws Mail has been updated to 3.9. This little GTK email client and news reader is known for being fast, extensible and easy to configure. It adds IMAP server side search, has several speed-ups and optimizations, a better GnuPG integration and more than thirty bug fixes.
 
@@ -47,4 +50,4 @@ libzypp 12.5 includes new package management transaction logging features.
 
 As part of the SuSEconfig removal work, permissions now applies changes following installation or upgrade, to ensure new permissions are effective regardless of package installation order.
 
-		
+

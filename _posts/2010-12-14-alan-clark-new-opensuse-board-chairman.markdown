@@ -1,15 +1,18 @@
 ---
 author: openSUSE Board
+comments: true
 date: 2010-12-14 17:09:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/14/alan-clark-new-opensuse-board-chairman/
-title: "Alan Clark new openSUSE Board Chairman"
+slug: alan-clark-new-opensuse-board-chairman
+title: Alan Clark new openSUSE Board Chairman
+wordpress_id: 5876
 categories:
 - Announcements
 - Board
 ---
-({{ site.baseurl }}/assets/AlanClark-252x300.jpg)
+
+[caption id="attachment_5918" align="alignright" width="252" caption="Alan Clark. Chairman of the openSUSE Board"]![](/wp-content/uploads/2010/12/AlanClark.jpg)[/caption]
 
 As you know, Michael Loeffler has left the openSUSE Board to pursue new opportunities, we are sad to see him go and wish him well. With his departure and with the upcoming Board elections,  we have a desire to see a new Chairperson selected. The election rules state that the Chairperson be appointed by Novell and yesterday [Markus Rex](http://www.novell.com/company/bios/mrex.html), General Manager of Novells Open Platform Solutions, presented **Alan Clark** to us as the new Chairperson.<!-- more -->
 
@@ -27,4 +30,4 @@ I am extremely optimistic for the future of openSUSE, the potential growth of th
 
 Please join us in welcoming Alan to his new role!  Alan will begin his position at the next openSUSE Board meeting tomorrow at 19:00 UTC in the [#opensuse-project](irc://irc.freenode.net/opensuse-project) channel on the [Freenode ](http://freenode.net)network. All of our meetings are open to the public and we welcome you to our meeting to meet Alan.
 
-Your openSUSE Board		
+Your openSUSE Board

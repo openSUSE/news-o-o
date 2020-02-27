@@ -1,14 +1,17 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2016-03-08 18:44:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/03/08/call-for-the-host-of-opensuse-asia-summit-2016/
-title: "Call for the Host of openSUSE.Asia Summit 2016"
+slug: call-for-the-host-of-opensuse-asia-summit-2016
+title: Call for the Host of openSUSE.Asia Summit 2016
+wordpress_id: 19794
 categories:
 - Announcements
 - Summit
 ---
+
 The openSUSE.Asia organization committee is inviting proposals to host the openSUSE.Asia Summit during the later half of 2016 (July to the middle of October). The openSUSE.Asia Summit is the largest annual openSUSE conference in Asia and is attended by over 400 contributors, enthusiasts from all over Asia
 
 The event focuses primarily on the openSUSE distribution and its applications for personal and enterprise use. It brings together the openSUSE community in Asia to provide a forum for users, developers, foundation leaders, governments and businesses to discuss both the present technology and future developments.
@@ -171,4 +174,4 @@ Key points proposals should consider, and what will be taken into account when d
   10. Conclusion
 
 
-Feel free to contact opensuse-summit@opensuse.org if you have any questions. If this excites you enough, but you are still not sure, we should talk and see if we can solve your doubts. Please help to spread the words and we are looking forward to hearing from you soon!		
+Feel free to contact opensuse-summit@opensuse.org if you have any questions. If this excites you enough, but you are still not sure, we should talk and see if we can solve your doubts. Please help to spread the words and we are looking forward to hearing from you soon!

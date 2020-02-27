@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-10-27 23:00:57+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/
-title: "openSUSE Conference 2010 Impression"
+slug: opensuse-conference-2010-impression
+title: openSUSE Conference 2010 Impression
+wordpress_id: 5301
 categories:
 - Events
 - Project
 ---
-For those who couldn't make it to the actual event, here is a little impression of the openSUSE conference. Of course, the many [blogs on planet openSUSE](http://planet.opensuse.org) and the cool special conference section in the latest [openSUSE Weekly News](https://news.opensuse.org/2010/10/25/opensuse-weekly-news-issue-146-is-out/#more-5240) have already given most of you a taste.
+
+For those who couldn't make it to the actual event, here is a little impression of the openSUSE conference. Of course, the many [blogs on planet openSUSE](http://planet.opensuse.org) and the cool special conference section in the latest [openSUSE Weekly News](http://news.opensuse.org/2010/10/25/opensuse-weekly-news-issue-146-is-out/#more-5240) have already given most of you a taste.
 
 However, there's always more to be had and videos are a great way to share the atmosphere of a conference. So without further ado, here is a short video showing the hard work by Cornelius Schumacher and Vincent Untz being criticized by Sirko "gnokii" Kemter, Andrew Wafaa and your humble writer; and some walking around at the conference during the break.
 
@@ -41,4 +44,4 @@ On Saturday some of the openSUSE ambassadors introduced themselves to the crowd 
 
 Besides the media above, you can find much more on the web - look for the tag #osc10 and #osc2010 on [flickr](http://www.flickr.com/search/?w=all&q=osc10&m=tags), [Youtube](http://www.youtube.com/results?search_query=osc2010+opensuse&aq=f) and [blip.tv here](http://blip.tv/search?q=osc2010) and [here](http://blip.tv/search?q=osc10).
 
-All in all, it was a great conference. We had fun, we learned new things, went out, talked to each other - all in the spirit of "Collaboration Across Borders"!		
+All in all, it was a great conference. We had fun, we learned new things, went out, talked to each other - all in the spirit of "Collaboration Across Borders"!

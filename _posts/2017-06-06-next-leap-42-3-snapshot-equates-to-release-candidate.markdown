@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-06-06 08:33:14+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/06/06/next-leap-42-3-snapshot-equates-to-release-candidate/
-title: "Next Leap 42.3 Snapshot Equates to Release Candidate"
+slug: next-leap-42-3-snapshot-equates-to-release-candidate
+title: Next Leap 42.3 Snapshot Equates to Release Candidate
+wordpress_id: 20435
 categories:
 - Announcements
 - Conference
@@ -24,7 +26,6 @@ tags:
 - youtube
 - zypper
 ---
-
 
 ### **Rolling Development Still needs Testing, Promoters**
 
@@ -49,4 +50,4 @@ Leap 42.3 builds have been coming out on a regular basis with new community pack
 
 Don’t forget to [report bugs](https://en.opensuse.org/openSUSE:Submitting_bug_reports) if you find one.
 
-To view Nussels talk about Leap 42.3, visit the [openSUSETV Channel ](https://youtu.be/s1v-icm2uuc?t=16m42s)on YouTube.		
+To view Nussels talk about Leap 42.3, visit the [openSUSETV Channel ](https://youtu.be/s1v-icm2uuc?t=16m42s)on YouTube.

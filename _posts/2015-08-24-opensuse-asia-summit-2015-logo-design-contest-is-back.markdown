@@ -1,10 +1,12 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2015-08-24 22:12:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/08/24/opensuse-asia-summit-2015-logo-design-contest-is-back/
-title: "openSUSE.Asia Summit 2015 – Logo design contest is back"
+slug: opensuse-asia-summit-2015-logo-design-contest-is-back
+title: openSUSE.Asia Summit 2015 – Logo design contest is back
+wordpress_id: 19426
 categories:
 - Announcements
 - Events
@@ -12,7 +14,6 @@ categories:
 tags:
 - summit
 ---
-
 
 Preparations for the openSUSE.Asia Summit are rolling. As we are busy prepping ourselves for this big event, we realized that we need a logo for our very own Summit. Following tradition, we are back with the logo contest. We are looking for a logo which best reflects openSUSE and its community in Asia. The contest is open now and ends on _**19 September **__**2015**_. We will send a “Geeko Mystery Box” as an appreciation for the best logo designed.
 
@@ -252,4 +253,4 @@ Your phone number. (optional)
 After that, the openSUSE.Asia Summit Committee will decide on the logos, subject to the condition, that the logo meets all the requirements. The final decision will be made by openSUSE.Asia Summit Committee and it may not be the highest scored design. We recommend the artist to use Inkscape, a powerful, free and open source vector graphics tool for all kinds of design.
 
 
-Note: The article has been updated after discussion with openSUSE.Asia team regarding entry rules.		
+Note: The article has been updated after discussion with openSUSE.Asia team regarding entry rules.

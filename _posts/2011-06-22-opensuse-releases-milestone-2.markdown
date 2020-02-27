@@ -1,16 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-06-22 13:32:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/22/opensuse-releases-milestone-2/
-title: "openSUSE releases milestone 2"
+slug: opensuse-releases-milestone-2
+title: openSUSE releases milestone 2
+wordpress_id: 9452
 categories:
 - Distribution
 ---
+
 [![Meanwhile, our community is voting for our strategy...](http://lizards.opensuse.org/wp-content/uploads/2011/06/geeko-cast-my-vote.png)](http://lizards.opensuse.org/2011/06/19/aux-armes-citoyens-et-cetera/)
 
-About 3 weeks after the [first milestone for openSUSE 12.1](https://news.opensuse.org/2011/06/01/first-step-towards-12-1-with-milestone-1/), today the second milestone has been made available. Following the [Roadmap](http://en.opensuse.org/openSUSE:Roadmap), this is the second of 6 milestone until the openSUSE 12.1 release in November.<!-- more -->
+About 3 weeks after the [first milestone for openSUSE 12.1](http://news.opensuse.org/2011/06/01/first-step-towards-12-1-with-milestone-1/), today the second milestone has been made available. Following the [Roadmap](http://en.opensuse.org/openSUSE:Roadmap), this is the second of 6 milestone until the openSUSE 12.1 release in November.<!-- more -->
 
 
 ## Milestones
@@ -59,4 +62,4 @@ On the openSUSE [project](http://lists.opensuse.org/opensuse-project/) and [fact
 
 As expected from a development release, there is still a lot of work to do, so your input at this early stage will be a huge help in making the final release into the beautifully polished work that we aim for. openSUSE 12.1 Milestone 2 has a [list of most annoying bugs here](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.1_dev), please add issues you find and help fix them. As Will Stephenson [recently blogged](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/), fixing an issue is a matter of **BURP**ing on [build.opensuse.org](http://build.opensuse.org)! Find a how-to [here](http://en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
 
-So go and see for yourself what the next version of openSUSE has in store for you at our [download center](http://software.opensuse.org/developer).		
+So go and see for yourself what the next version of openSUSE has in store for you at our [download center](http://software.opensuse.org/developer).

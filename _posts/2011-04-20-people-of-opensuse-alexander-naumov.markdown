@@ -1,24 +1,99 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-04-20 13:32:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/20/people-of-opensuse-alexander-naumov/
-title: "People of openSUSE: Alexander Naumov"
+slug: people-of-opensuse-alexander-naumov
+title: 'People of openSUSE: Alexander Naumov'
+wordpress_id: 8537
 categories:
 - People of openSUSE
 ---
 
+<table cellpadding="2" width="643" cellspacing="0" > 
+<tbody >
+<tr >
 
-|||
-|--- |--- |
-|**Nickname:**|anaumov (as nickname on IRC), Ute11ok|
-|**Homepage:**|http://en.opensuse.org/User:Alexander_Naumov|
-|**Blog:**|http://thefreecountry.wordpress.com/ http://lizards.opensuse.org/author/alexander_naumov/|
-|||
-|**Favorite season:**|Autumn.|
-|**Motto:**|"be free like... freedom"|
-|||
+<td width="105" >**Nickname:**
+</td>
+
+<td width="520" >anaumov (as nickname on IRC), Ute11ok
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Homepage: **
+</td>
+
+<td width="520" >http://en.opensuse.org/User:Alexander_Naumov
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Blog:**
+</td>
+
+<td width="520" >http://thefreecountry.wordpress.com/
+
+http://lizards.opensuse.org/author/alexander_naumov/
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >
+</td>
+
+<td width="520" >
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Favorite season:**
+</td>
+
+<td width="520" >Autumn.
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Motto:**
+</td>
+
+<td width="520" >"be free like... freedom"
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >
+</td>
+
+<td width="520" >
+</td>
+
+<td width="5" >
+</td>
+</tr>
+</tbody>
+</table>
 <!-- more -->
 
 
@@ -94,7 +169,7 @@ I just love it :)
 It's great to be part of openSUSE community and I'm proud that I work for SUSE Linux.
 
 
-#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you™re most proud of?
+#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that youâ€™re most proud of?
 
 
 Hm.. good question.
@@ -171,7 +246,7 @@ For non openSUSE, but GNU/Linux users:
 #### Which members of the openSUSE community have you met in person?
 
 
-Most of the SUSE/Novell employees and various community members during FOSDEM2010, Tokamak4, every openSUSE release pary (in Nürenberg) and of course openSUSE Conference 2009/2010.
+Most of the SUSE/Novell employees and various community members during FOSDEM2010, Tokamak4, every openSUSE release pary (in NÃ¼renberg) and of course openSUSE Conference 2009/2010.
 
 
 #### How many icons are currently on your desktop?
@@ -182,7 +257,7 @@ In KDE: 5 (include Kickoff) + 7 system tray icons.
 In Fluxbox: zero
 
 
-#### What is the application you can™t live without? And why?
+#### What is the application you canâ€™t live without? And why?
 
 
 Bash? :)
@@ -201,9 +276,9 @@ Hmm ... what's about the Open Source Linux Driver Generator (LDG) for all types 
 
 vi
 
-Just because it™s faster, easy to use and always available.
+Just because itâ€™s faster, easy to use and always available.
 
-But of course it™s also question of habits and personal preference.
+But of course itâ€™s also question of habits and personal preference.
 
 
 #### Which famous person would you want to join the openSUSE community?
@@ -230,7 +305,7 @@ Also:
 * More creativity
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Just relaxing.
@@ -298,19 +373,19 @@ Saint Petersburg, Russia
 With my family visit friends in other cities/countries.
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Buy a house
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 60s-70s, USA
 
 
-#### There™s a thunderstorm outside ” do you turn off your computer?
+#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
 
 
 Nah. It's more interesting to wait and see what will happen :)
@@ -328,7 +403,7 @@ Ou yeah :)
 See my blog or picasaweb gallary: http://picasaweb.google.com/posix.ru/
 
 
-#### You couldn™t live without¦
+#### You couldnâ€™t live withoutâ€¦
 
 
 Faith in God and love of my family
@@ -343,4 +418,4 @@ About application. It's really not easy to find just one application.
 #### What other question would you like to answer? And what would you answer?
 
 
-I think I had enough. Thank you :)		
+I think I had enough. Thank you :)

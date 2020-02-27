@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-10 06:10:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/10/english-opensuse-wiki-will-be-updated-and-moved-home/
-title: "English openSUSE wiki updated and moved home"
+slug: english-opensuse-wiki-will-be-updated-and-moved-home
+title: English openSUSE wiki updated and moved home
+wordpress_id: 20473
 categories:
 - Announcements
 - Infrastructure
@@ -17,7 +19,8 @@ tags:
 - opensuse
 - wiki
 ---
-![]({{ site.baseurl }}/assets/Failgeeko-300x300.png)The English openSUSE wiki has been moved and updated  successfully. If you encounter any issue, please let us know by mail to admin(@)opensuse.org.
+
+![](/wp-content/uploads/2015/06/Failgeeko.png)The English openSUSE wiki has been moved and updated  successfully. If you encounter any issue, please let us know by mail to admin(@)opensuse.org.
 
 On July 11, the MediaWiki instance hosted behind [en.opensuse.org](https://en.opensuse.org/) was set to read only, with some slight downtimes.
 
@@ -45,4 +48,4 @@ New features are:
 
 Please be patient while we are doing the update. We'll update this article and the [status.opensuse.org](https://status.opensuse.org/) webpage, plus we'll send a followup mail to the opensuse-announce mailinglist when everything is done.
 
-After updating the English wiki, we will let the dust settle for some days, and plan to update the localized wikis next week.		
+After updating the English wiki, we will let the dust settle for some days, and plan to update the localized wikis next week.

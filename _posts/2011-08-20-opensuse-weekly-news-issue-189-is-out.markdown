@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-08-20 16:31:00+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/20/opensuse-weekly-news-issue-189-is-out/
-title: "openSUSE Weekly News, Issue 189 is out!"
+slug: opensuse-weekly-news-issue-189-is-out
+title: openSUSE Weekly News, Issue 189 is out!
+wordpress_id: 10179
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News, Issue 189.
 <!-- more -->
 
@@ -103,14 +106,14 @@ Enjoy reading :-)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
 
+â€œ
 
 
-
-      [openSUSE Edu Li-f-e 11.4 update release announcement](https://news.opensuse.org/2011/08/15/opensuse-edu-li-f-e-11-4-update-release-announcement/)
+      [openSUSE Edu Li-f-e 11.4 update release announcement](http://news.opensuse.org/2011/08/15/opensuse-edu-li-f-e-11-4-update-release-announcement/)
     
 
 The [openSUSE Education](http://en.opensuse.org/Portal:Education) team
-      is proud to announce the release of updated [openSUSE Edu Li-f-e](http://en.opensuse.org/openSUSE:Education-Li-f-e) “ Linux
+      is proud to announce the release of updated [openSUSE Edu Li-f-e](http://en.opensuse.org/openSUSE:Education-Li-f-e) â€“ Linux
       for Education. A Linux distribution that provides parents, students, teachers as well as IT
       admins running labs at educational institutes with education and development resources for
       their needs. Edu Li-f-e is based on openSUSE 11.4.
@@ -125,12 +128,12 @@ This new version has all packages available from the official update repository 
       browser. And Blender, the cross platform suite for 3D creation with ffmpeg and luxrender
       support.
 
-
+â€
 
-
+â€œ
 
 [Open Bugs
-        Day on August 21](https://news.opensuse.org/2011/08/20/open-bugs-day-on-august-21/)
+        Day on August 21](http://news.opensuse.org/2011/08/20/open-bugs-day-on-august-21/)
 
 The Testing Core Team has decided to hold our third [Open Bugs Day ](http://en.opensuse.org/openSUSE:Open-Bugs-Day)(OBD) on Sunday
       August 21 from 0:00 to 23:59 UTC.
@@ -148,14 +151,14 @@ The purpose of this OBD is to test the open bugs reported for openSUSE 11.4 to s
 
 Larry Finger for the openSUSE Testing Core Team
 
-
+â€
 
 ## openSUSE Conference 2011â–²â–¼
 
-
+â€œ
 
 [openSUSE Conference
-      2011](https://news.opensuse.org/2011/08/15/osc11/)
+      2011](http://news.opensuse.org/2011/08/15/osc11/)
 
 The third openSUSE Conference, **osc11**, kicks off on
       **Sunday September 11**, 2011 in **Nuremberg, Germany**. Under the motto **RWX** all
@@ -164,9 +167,9 @@ The third openSUSE Conference, **osc11**, kicks off on
       **have a lot of fun**. The program will cover a variety topics
       with an emphasis on interaction between participants. The conference is **free of charge and open to anyone!**
 
-**OSC “ The annual meeting of the community**
+**OSC â€“ The annual meeting of the community**
 
-![]({{ site.baseurl }}/assets/community.png)
+![](/wp-content/uploads/2011/08/community.png)
 
 The conference is the yearly get-together of the openSUSE community to give its people a
       chance to meet face to face, talk to and inspire each other. Having the chance to chat on the
@@ -183,18 +186,18 @@ The conference is the yearly get-together of the openSUSE community to give its 
 **Find more information about the conference, the program and the
       location at[http://conference.opensuse.org](http://conference.opensuse.org)**
 
-**The Program “ Everybody has to read, write and
+**The Program â€“ Everybody has to read, write and
       execute**
 
-Last year, the conference had the motto [˜Collaboration Across Borders™](https://news.opensuse.org/2011/08/15/?p=5223) and
+Last year, the conference had the motto [â€˜Collaboration Across Bordersâ€™](http://news.opensuse.org/2011/08/15/?p=5223) and
       brought together an international crowd from many communities. This year we shift our
       attention a bit deeper, aiming for hands-on discussions to get work done. Smaller, more
-      focused meetings with a strong read-write attitude are at the core of the conference. Hence
+      focused meetings with a strong â€œread-writeâ€ attitude are at the core of the conference. Hence
       the subtitle of **RWX^3**, commonly known as the UNIX acronym for
-      Read, Write, Execute “ three times, for you, your community and the rest of the
+      â€œRead, Write, Executeâ€ â€“ three times, for you, your community and the rest of the
       world!
 
-![]({{ site.baseurl }}/assets/intro.png)
+![](/wp-content/uploads/2010/09/intro.png)
 
 The highlights, like every year, are the keynotes that kick of each day. This year our
       community manager Jos, kernel hacker Greg KH and Michael Miller, marketing vice president of
@@ -208,7 +211,7 @@ Our distribution is, naturally, one of the topics which receives a lot of focus 
       contributor. Or get creative and work with other designers on the artwork for the desktops and
       applications 12.1 then and there.
 
-Also the soft topics in (Free-) software engineering
+Also the â€œsoft topicsâ€ in (Free-) software engineering
       will get their share of attention. Lydia Pintscher gives a workshop to discuss a number of
       topics that often cause social problems in technical communities and Henne Vogelsang
       introduces you to the basics of citizen journalism so you can improve your blogging skills. Or
@@ -222,32 +225,32 @@ Another cluster of topics will evolve around new technology that will bring FOSS
       kernel block layer with Suresh Jayaraman.
 
 All work and no play makes Jack a dull boy. So how
-      about you visit the legen, wait for it¦., dary social event on Monday at [The Geek “
-          Saloon and Dance Hall](http://conference.opensuse.org/social-event/), see some great musicians from the[ Fat Orange Collective](http://fatorange.de/) live on the main stage or how
+      about you visit the legen, wait for itâ€¦., dary social event on Monday at [â€œThe Geek â€“
+          Saloon and Dance Hallâ€œ](http://conference.opensuse.org/social-event/), see some great musicians from the[ Fat Orange Collective](http://fatorange.de/) live on the main stage or how
       about you let Winfried Appelt show you [highlights of his
-        collection]({{ site.baseurl }}/assets/winfried.jpg) of over 800 ancient calculating machines?
+        collection](/wp-content/uploads/2011/08/winfried.jpg) of over 800 ancient calculating machines?
 
-And **let™s trow in a teaser**. There will be a contest
-      related to openSUSE and yet Unidentified Flying Objects, with those UFO™s as prize!!!
+And **letâ€™s trow in a teaser**. There will be a contest
+      related to openSUSE and yet Unidentified Flying Objects, with those UFOâ€™s as prize!!!
 
 **Find more information about the program, the keynotes, speakers and
       the social events at[http://conference.opensuse.org/program](http://conference.opensuse.org/program)**
 
-**The Location “ Work & Play**
+**The Location â€“ Work & Play**
 
-![]({{ site.baseurl }}/assets/location1.png)
+![](/wp-content/uploads/2011/08/location1.png)
 
-After two years at the Berufsförderungswerk [http://www.bfw-nuernberg.de/](http://www.bfw-nuernberg.de/) in
+After two years at the BerufsfÃ¶rderungswerk [http://www.bfw-nuernberg.de/](http://www.bfw-nuernberg.de/) in
       the outskirts of NÃ½rnberg, we have found a new location smack in the middle of the city. 10
-      minutes away from the center of Nürnberg, in a former production area of the **A**llgemeine **E**lektricitÃ½ts-**G**esellschaft (**AEG**), the conference
+      minutes away from the center of NÃ¼rnberg, in a former production area of the **A**llgemeine **E**lektricitÃ½ts-**G**esellschaft (**AEG**), the conference
       will be hosted by the [Zentrifuge](http://www.zentrifuge-nuernberg.de/). The Zentrifuge is a project that networks cultural
       interested and creative people in the region. The whole location has a special atmosphere of
       an old industrial plant, mixed with art and creativity. The perfect balance between work and
       play which we always aim for at the conference.
 
-Nürnberg with a population of 500,000 is the nucleus of the metropolitan region Franconia at the heart of Europe. Located in southern Germany, it
+NÃ¼rnberg with a population of 500,000 is the nucleus of the metropolitan region Franconia at the heart of Europe. Located in southern Germany, it
       is midway between Munich and Frankfurt and therefor easily reachable by road, rail and air. As
-      a tourist city, known for the Nuremberg Trials and famous for the Christmas Market, Nürnberg
+      a tourist city, known for the Nuremberg Trials and famous for the Christmas Market, NÃ¼rnberg
       has a very good tourist office which will help you with all your needs. The office also
       provides an [accommodation portal](http://tourismus.nuernberg.de/v06/no_cache/en/book-order/hotel-search-booking.html) on the web which should be your starting point to find a place
       to stay.
@@ -259,21 +262,21 @@ Nürnberg with a population of 500,000 is the nucleus of the metropolitan region
 
 Just register today in our [conference tool](http://conference.opensuse.org/indico//confRegistrationFormDisplay.py?confId=2) and swing by the venue at the 11th. (...)
 
-
+â€
 
-
+â€œ
 
 [The openSUSE
-      Conference Program and Keynote Speakers](https://news.opensuse.org/2011/08/19/osc-program-and-keynotes/)
+      Conference Program and Keynote Speakers](http://news.opensuse.org/2011/08/19/osc-program-and-keynotes/)
 
-With our [conference](https://news.opensuse.org/2011/08/15/osc11/),
+With our [conference](http://news.opensuse.org/2011/08/15/osc11/),
       osc11, fast approaching (Have you [registered](http://conference.opensuse.org/register) yet? If not, what are you waiting for?!), the excitement is building all
       over the project.
 
 Its quite some work to get to create a reasonable schedule for a conference. For osc we
       want to have a program with talks that interest all our visitors. And as visitors have a wide
       rage of skill levels we also want to balance the depth of the talks. Another thing we wanted
-      to create are gravitation centers for our key topics
+      to create are â€œgravitation centersâ€ for our key topics
       within the program. Oh and we also seek out for new contributors with our conference. And all
       that needs to be sorted between rooms with different sizes, within the tracks you think are
       useful, with breaks, time to change rooms and so on and son on. Quite some parameters to take
@@ -288,9 +291,9 @@ We have scheduled more than 100 contributions in the four days of the conference
       with our motto RWXÃ½ which basically means that people should not only just listen, but also do
       things. (...)
 
-
+â€
 
-
+â€œ
 
 [Klaas Freitag: openSUSE Conference 2011 Schedule Available](http://lizards.opensuse.org/2011/08/17/opensuse-conference-2011-schedule-available/)
 
@@ -313,28 +316,28 @@ For conference organization there is tooling. Or should I say: Should be? Given 
       feature rich yet flexible tool that feels like it has managed some large (CERN) conferences
       already.(...)
 
-
+â€
 
-
+â€œ
 
 [Michal
-        HrušeckÃ½: openSUSE Conference 2011 “ SaX3](http://michal.hrusecky.net/2011/08/opensuse-conference-2011-sax3/)
+        HruÅ¡eckÃ½: openSUSE Conference 2011 â€“ SaX3](http://michal.hrusecky.net/2011/08/opensuse-conference-2011-sax3/)
 
-Yet another advertisement for openSUSE Conference 2011. Something I™ll be participating in
-      as well. But this time, all the glory belongs to [Manu Gupta](https://news.opensuse.org/2011/07/05/people-of-opensuse-manu-gupta/).
-      I™ll be just helping out. We will have together presentation about SaX3. Have you already
+Yet another advertisement for openSUSE Conference 2011. Something Iâ€™ll be participating in
+      as well. But this time, all the glory belongs to [Manu Gupta](http://news.opensuse.org/2011/07/05/people-of-opensuse-manu-gupta/).
+      Iâ€™ll be just helping out. We will have together presentation about SaX3. Have you already
       heard about SaX3? If not,continue reading.
 
 SaX2 was X configuration tool. It was using xorg.conf file and it allowed people to set
       various X properties in GUI. It was a user friendly way how to set up Xorg. But X developers
       made automatic configuration much better and xorg.conf file obsolete. They replaced it with
-      something much better “ configuration directory xorg.conf.d. You can place just snippets of
-      original xorg.conf file in there to override some properties. It™s much better,
+      something much better â€“ configuration directory xorg.conf.d. You can place just snippets of
+      original xorg.conf file in there to override some properties. Itâ€™s much better,
       butÃ½unfortunatelyÃ½it also made SaX2 obsolete. And even though automatic configuration is
       great, there still people that want to tweak just a few details. These people missed SaX2. One
       of the GSoC projects was to create SaX3 that will be aware of xorg.conf.d directory, respect
       it and would create just the necessary snippets. So your X configuration will stay as simple
-      as possible, but you™ll also have possibility to configure it easily from GUI.
+      as possible, but youâ€™ll also have possibility to configure it easily from GUI.
 
 Manu started working on this project. He had to learn a lot of new things, but he put a
       lot of effort into that and in the end, there is completely new SaX3. It uses [libyui](http://sourceforge.net/projects/libyui/)Ã½for GUI toolkits abstraction.
@@ -343,11 +346,11 @@ Manu started working on this project. He had to learn a lot of new things, but h
       talk, you will learn, what SaX3 can do for you, how it works and also a little bit about
       interesting technologies beneath.
 
-If you are eager to see, what it already can do, you can check [Manu™s blog about SaX3](http://sysbytes.wordpress.com/tag/sax/) and especially
+If you are eager to see, what it already can do, you can check [Manuâ€™s blog about SaX3](http://sysbytes.wordpress.com/tag/sax/) and especially
         [Get your
         hand dirty post](http://sysbytes.wordpress.com/2011/07/08/sax3-get-your-hands-dirt/)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -355,7 +358,7 @@ If you are eager to see, what it already can do, you can check [Manu™s blog ab
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-
+â€œ
 
 
       [Alex Eftimie: PackageKit backend for Software Center: week 11 status report](http://alex.eftimie.ro/2011/08/13/packagekit-backend-for-software-center-week-11-status-report/)
@@ -371,15 +374,15 @@ This week in three short achievements:
   * features, usage and testing [documentation](https://wiki.ubuntu.com/SoftwareCenter/PackagekitBackend),
             work in progress
 
-I™m now focusing on the gtk3 part, and also documenting things around. Packaging has
+Iâ€™m now focusing on the gtk3 part, and also documenting things around. Packaging has
       decreased priority, waiting for the pygobject release. And done. 
 
-
+â€
 
-
+â€œ
 
 [Manu Gupta:
-        SaX3 “ Touchpad module](http://sysbytes.wordpress.com/2011/08/17/sax3-touchpad-module/)
+        SaX3 â€“ Touchpad module](http://sysbytes.wordpress.com/2011/08/17/sax3-touchpad-module/)
 
 Actually this report is 2 days late, those who have already added my repository and
       updated it should have the sax3-touchpad module. 
@@ -390,9 +393,9 @@ From now on, I will focus a lot on fixing issues and polishing the UI, specially
       touchpad one and yes offcourse clean some code. I have moved to code.google.com but the
       transition is not complete yet.
 
-
+â€
 
-
+â€œ
 
 [N.B.Prashanth:
         libYUI Ported](http://nbprashanth.wordpress.com/2011/08/18/libyui-ported/)
@@ -406,17 +409,17 @@ Let me summarize the changes that have taken place over the last three months. F
       starters, libYUI is available over a range of platforms. Major platforms like Fedora, Ubuntu
       and Debian have ready made binaries available at OBS -[
         http://download.opensuse.org/repositories/home:/nbprashanth/](http://download.opensuse.org/repositories/home:/nbprashanth/). Recently, Michal
-      HrušeckÃ½ even ported the library to Gentoo! “ [michal.hrusecky.net/2011/08/libyui-in-gentoo/](http://nbprashanth.wordpress.com/2011/08/18/libyui-ported/michal.hrusecky.net/2011/08/libyui-in-gentoo/). The source has been completely
+      HruÅ¡eckÃ½ even ported the library to Gentoo! â€“ [michal.hrusecky.net/2011/08/libyui-in-gentoo/](http://nbprashanth.wordpress.com/2011/08/18/libyui-ported/michal.hrusecky.net/2011/08/libyui-in-gentoo/). The source has been completely
       detached from SUSE-centric technologies. So if binaries are not available for your distro,
-      don™t fret. You can always download the source and install from “ [http://sourceforge.net/projects/libyui/files/](http://sourceforge.net/projects/libyui/files/).
+      donâ€™t fret. You can always download the source and install from â€“ [http://sourceforge.net/projects/libyui/files/](http://sourceforge.net/projects/libyui/files/).
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
-
+â€œ
 
 
         [Tejas Guruswamy: redshift and backintime in Factory](http://masterpatricko.blogspot.com/2011/08/redshift-and-backintime-in-factory.html)
@@ -452,9 +455,9 @@ Enjoy! If you have other interesting programs that aren't in openSUSE remember t
         submit them on the OBS! My next target is byobu, a set of preconfigured GNU screen profiles
         (I never figured out how to write hardstatus lines!) 
 
-
+â€
 
-
+â€œ
 
 
         [Andreas Jaeger: Updating glibc to 2.14 with some libtirpc fun](http://jaegerandi.blogspot.com/2011/08/updating-glibc-to-214-with-some.html)
@@ -479,7 +482,7 @@ So, I've took now the same route that Fedora did and reenabled the sunrpc code i
 Today, the updated glibc has been submitted and checked into openSUSE's Factory
         distribution and thus will be in openSUSE 12.1. (...)
 
-
+â€
 
 Important Links
 
@@ -491,7 +494,7 @@ Important Links
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
-
+â€œ
 
 
         [SUSE Studio: One-click WebYaST 1.2 in Studio](http://blog.susestudio.com/2011/08/one-click-webyast-12-in-studio.html)
@@ -511,7 +514,7 @@ Since we offer a one-click configuration for WebYaST [for a while](http://blog.s
 
 ![](http://3.bp.blogspot.com/-kxRWlXO0y1w/TihHeTdbYWI/AAAAAAAAABQ/GgbW8pxbIXI/s320/webyast_options.png)
 
-
+â€
 
 ### Team Reports
 
@@ -521,29 +524,29 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
+â€œ
 
 
-
-          [Sebastian Kügler: Installing Plasma Active on the ExoPC (WeTab)](http://vizzzion.org/blog/2011/08/installing-plasma-active-on-the-exopc-wetab/)
+          [Sebastian KÃ¼gler: Installing Plasma Active on the ExoPC (â€œWeTabâ€)](http://vizzzion.org/blog/2011/08/installing-plasma-active-on-the-exopc-wetab/)
         
 
-If you own an ExoPC, and you™re eager to know how to get Plasma Active, our new
+If you own an ExoPC, and youâ€™re eager to know how to get Plasma Active, our new
           workspace and set of applications for consumer devices to run on it, this blog article
           will help you get going. 
 
 **Note:** Plasma Active is in alpha state right now, it
           is basically usable, but you will find many rough edges. You should not try this unless
           you consider yourself an early adopter, or if you mind fiddling with bits and pieces. We
-          are working towards an end-user ready product, but we™re not yet there.
+          are working towards an end-user ready product, but weâ€™re not yet there.
 
 **What to pick?**
 
-There are a few different options to choose from, I™ll quickly explain which to choose
+There are a few different options to choose from, Iâ€™ll quickly explain which to choose
           under which circumstances. 
 
   * **MeeGo:** Works well overall, but is lacking in
                 key areas, for example we do not have a UI to connect to wireless networks yet, and
-                as the device doesn™t have Ethernet (and cables are lame on mobile devices anyway).
+                as the device doesnâ€™t have Ethernet (and cables are lame on mobile devices anyway).
                 You can work around this with a [trick](http://www.notmart.org/index.php/BlaBla/Wireless_on_Plasma_Active_MeeGo_) Marco explains. 
 
 Choose this option if you want to run and develop for MeeGo
@@ -566,42 +569,42 @@ I will explain here how you can get to a state-of-the-art Plasma Active, using w
           Balsam Professional is based on openSUSE, so you might well be familiar with many of the
           tools already. (...)
 
-
+â€
 
-
+â€œ
 
 [Sebastian
-            Kügler: KDE:Active:Devel introduced](http://vizzzion.org/blog/2011/08/kdeactivedevel-introduced/)
+            KÃ¼gler: KDE:Active:Devel introduced](http://vizzzion.org/blog/2011/08/kdeactivedevel-introduced/)
 
 The past week, when working on the Mesa packages for [Plasma Active](http://community.kde.org/Plasma/Active), I might have caused
           some headache since I broke the compositor in Plasma Active with a few packages I uploaded
           for easier deployment on test devices. It was not more than an annoyance, because kwin
           gracefully falls back to non-composited mode in case of graphics problems. In order to get
-          a bit more stability into our deployment process, I™ve now set up a subproject called
+          a bit more stability into our deployment process, Iâ€™ve now set up a subproject called
             [KDE:Active:Devel](https://build.opensuse.org/project/monitor?project=KDE:Active:Devel) under the [KDE:Active](https://build.opensuse.org/project/monitor?project=KDE%3AActive)
           project on the Open Build Service (OBS) which we use to build the Balsam packages. As
-          we™re moving, development-wise into the stabilization phase for Plasma Active One, this
+          weâ€™re moving, development-wise into the stabilization phase for Plasma Active One, this
           makes testing new things a lot easier, just by switching to the same package from the
           :Devel branch. Conversely, this means that if you install packages from the :Devel
-          subproject, you should really know what you™re doing. On the bright side, it™ll be easier
-          to keep regressions out of the packages that are deployed on most users™ machines. 
+          subproject, you should really know what youâ€™re doing. On the bright side, itâ€™ll be easier
+          to keep regressions out of the packages that are deployed on most usersâ€™ machines. 
 
 ![](http://vizzzion.org/images/blog/contour-alpha-news_thumb.png)
 
-Along with these changes, I™ve updated all the packages to the latest state of the
+Along with these changes, Iâ€™ve updated all the packages to the latest state of the
           art, and worked a bit on our documentation, as we keep getting very good feedback about
-          this. Among the most wanted fixes we™ve introduced is a patch by Aaron that makes konsole
+          this. Among the most wanted fixes weâ€™ve introduced is a patch by Aaron that makes konsole
           usable with the virtual keyboard, making another very powerful tool usable on Plasma
-          Active. I™ve also fixed up some default configuration options, polished up the contour
+          Active. Iâ€™ve also fixed up some default configuration options, polished up the contour
           packages and made that used by default. (Those who have plasma-tablet-config on their
-          machine will have to replace it with plasma-contour-config, though.) This is another
+          machine will have to replace it with â€œplasma-contour-configâ€, though.) This is another
           pretty big move, as we now basically regard the contour shell stable enough to make it
-          into Plasma Active One. It™s also very, very shiny I must say, the usual disclaimer about
+          into Plasma Active One. Itâ€™s also very, very shiny I must say, the usual disclaimer about
           alpha software notwithstanding. 
 
 OBS makes it rather convenient merging changes back and forth between these branches.
           In general, my impression is that OBS works very nicely as a collaboration tool, and
-          solves a very complex problem for us, the how do we get our code onto the device. As an
+          solves a very complex problem for us, the â€œhow do we get our code onto the deviceâ€. As an
           aside, it also makes it very easy to build packages locally, so for even shorter
           development-deployment cycles, one can build locally and rsync packages onto the device.
           With the right kind of script setup, that takes a lot of the pain away, that development
@@ -609,56 +612,56 @@ OBS makes it rather convenient merging changes back and forth between these bran
           developers to upload their latest sources in order to deploy them to their testing
           machines, and we can pull working versions in from there. Rocking. 
 
-
+â€
 
-
+â€œ
 
 [Sebastian
-            Kügler: Plasma Active on OpenGL ES](http://vizzzion.org/blog/2011/08/plasma-active-on-opengl-es/)
+            KÃ¼gler: Plasma Active on OpenGL ES](http://vizzzion.org/blog/2011/08/plasma-active-on-opengl-es/)
 
-The past weeks, I™ve been working on getting Kwin, the window manager and compositor
+The past weeks, Iâ€™ve been working on getting Kwin, the window manager and compositor
           in [Plasma Active](http://community.kde.org/Plasma/Active) (and Plasma
           Desktop ;) to work on top of OpenGL ES instead of OpenGL. After some updating of packages
           lower in the stack, especially Mesa and parts of Xorg, we now have working OpenGL ES
-          support on our hardware. Today, I™ve finished packaging it as an option on top of our
+          support on our hardware. Today, Iâ€™ve finished packaging it as an option on top of our
           Plasma Active packages. These packages in the :Devel subsection of the KDE:Active
           repository in the OBS run on top of Balsam Professional and openSUSE 11.4. We will give
           this some more testing and improve a few things, in order to move to GLES by default.
-          OpenGL ES is very interesting as this is an API often used on mobile devices, so I™m glad
-          that I can state that we™re ready for this. This of course needs proper support in the
+          OpenGL ES is very interesting as this is an API often used on mobile devices, so Iâ€™m glad
+          that I can state that weâ€™re ready for this. This of course needs proper support in the
           drivers, something we can not always solve by ourselves. I have been running this
           successfully on two Intel Atom-based tablets.
 
 All the props of course to to our Akademy-award winning window management and
-          compositing hero, the one and only Martin GrÃ½sslin. He™s been working on OpenGL ES support
-          (and a lot of other features to make kwin ready for the future) for quite some time
+          compositing hero, the one and only Martin GrÃ½sslin. Heâ€™s been working on OpenGL ES support
+          (and a lot of other features to make kwin â€œready for the futureâ€) for quite some time
           already. OpenGL ES support in kwin has been introduced in the recent [Plasma Desktop 4.7](http://kde.org/announcements/4.7/plasma.php) release, a
           few weeks ago.
 
 ![](http://vizzzion.org/images/blog/contour-froscon_thumb.png)
 
-So, is it much different? Nope, it™s very much a thing of underlying technology.
-          There™s no noticable performance improvement, but it runs stable and well. Given that
-          OpenGL ES support has only very recently been introduced in kwin, it™s already
+So, is it much different? Nope, itâ€™s very much a thing of underlying technology.
+          Thereâ€™s no noticable performance improvement, but it runs stable and well. Given that
+          OpenGL ES support has only very recently been introduced in kwin, itâ€™s already
           surprisingly good. There is probably still a lot of room for improvement, which is
           something we can investigate now and easily test much better.
 
 **Froscon**
 
 In the screenshot of the [Contour](http://vizzzion.org/blog/2011/08/plasma-active-on-opengl-es/) shell
-          of Plasma Active, you can see that I™m all set up to go to [FrOSCon](http://vizzzion.org/blog/2011/08/plasma-active-on-opengl-es/)
-          tomorrow, where I™ll be presenting the ideas and demoing the prototypes, hoping to get
+          of Plasma Active, you can see that Iâ€™m all set up to go to [FrOSCon](http://vizzzion.org/blog/2011/08/plasma-active-on-opengl-es/)
+          tomorrow, where Iâ€™ll be presenting the ideas and demoing the prototypes, hoping to get
           some feedback on concepts, and give some understanding of the challenges and opportunities
-          we face in this exciting endeavour. And of course show some serious bling. :) If you™re in
+          we face in this exciting endeavour. And of course show some serious bling. :) If youâ€™re in
           the area around Bonn, drop by.
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 360)](https://features.opensuse.org/120340)
@@ -667,9 +670,9 @@ In the screenshot of the [Contour](http://vizzzion.org/blog/2011/08/plasma-activ
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 187)](https://features.opensuse.org/305493)
@@ -684,9 +687,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 162)](https://features.opensuse.org/305305)
@@ -694,9 +697,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 144)](https://features.opensuse.org/308497)
@@ -714,9 +717,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 107)](https://features.opensuse.org/305877)
@@ -737,13 +740,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Button to create DHCP server configuration from zero](https://features.opensuse.org/312734)
@@ -753,9 +756,9 @@ After manually configuring DHCP in expert mode, sometime I would like to remove 
 
 Button in expert mode for removing configuration and starting "de nouveau" would benefit.
 
-
+â€
 
-
+â€œ
 
 
             [Make live ISO of installed system with friendly GUI](https://features.opensuse.org/312744)
@@ -765,9 +768,9 @@ If someone wants to create a remaster of openSUSE, he can use SUSE Studio to cre
 
 A tool like remastersys (Ubuntu) or mylivecd (PCLinuxOS), are quite easy for a new user.
 
-
+â€
 
-
+â€œ
 
 
             [Backport fix for Okular printing in KDE4 for KDE 4.7](https://features.opensuse.org/312747)
@@ -783,9 +786,9 @@ core, so I'm probably not supposed to backport it for 4.7.x.
 
 See [https://bugs.kde.org/show_bug.cgi?id=181290#c118](https://bugs.kde.org/show_bug.cgi?id=181290#c118)
 
-
+â€
 
-
+â€œ
 
 
             [Make Yast2 stay open after installing packages](https://features.opensuse.org/312750)
@@ -795,9 +798,9 @@ As we all know YaST2 is the best control center around and as title says, can we
 
 I know this can be done adjusting some setting [http://dl.dropbox.com/u/10573557/SUSE%20Misc/yast-at-close-action.jpeg](http://dl.dropbox.com/u/10573557/SUSE%20Misc/yast-at-close-action.jpeg) but i was thinking if it is possible to make it a default setting for versions to come.
 
-
+â€
 
-
+â€œ
 
 
             [Let's kick SuSEGreeter, and create a shiny new website instead](https://features.opensuse.org/312754)
@@ -814,7 +817,7 @@ See this discussion before reply:
 
 The goal is to create a start page for our delivered browser instead of SuSEGreeter.
 
-
+â€
 
 ##### Feature Statistics
 
@@ -822,7 +825,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry Finger: Weekly News for August 20](http://lists.opensuse.org/archive/opensuse-testing/2011-08/msg00023.html)
@@ -849,28 +852,28 @@ Our next IRC meeting will be at 17:00 UTC, September 12 on Channel #opensuse-tes
           on the Freenode IRC Network. irc://irc.freenode.net/opensuse-testing. We will discuss our
           experiences with MS5. 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### Postings from the Community
 
+â€œ
 
 
-
-        [Bruno Friedmann: Desktop Summit Berlin 2011 “ Report](http://lizards.opensuse.org/2011/08/15/desktop-summit-berlin-2011-report/)
+        [Bruno Friedmann: Desktop Summit Berlin 2011 â€“ Report](http://lizards.opensuse.org/2011/08/15/desktop-summit-berlin-2011-report/)
       
 
 **Last minute team**
 
-Monday before Desktop Summit, I™ve just learned that we (as openSUSE/SUSE) will not have
+Monday before Desktop Summit, Iâ€™ve just learned that we (as openSUSE/SUSE) will not have
         the SuseStudio kiosk.
 
 Too bad, but Wednesday, I finally get confirmation from my customer, that the new
@@ -881,29 +884,29 @@ Too bad, but Wednesday, I finally get confirmation from my customer, that the ne
 I will be a Berliner for a few days! And fill the blanks to maintain our booth up and
         welcoming. (...)
 
-
+â€
 
 ### Events & Meetings
 
 Past
 
-  * [August 15, 2011 : osc11 Orga Meeting](https://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
+  * [August 15, 2011 : osc11 Orga Meeting](http://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
 
-  * [August 16, 2011 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [August 16, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
   * [August 17-19, 2011 : Linuxcon (Vancoever, Canada)](http://events.linuxfoundation.org/events/linuxcon)
 
 Upcoming
 
-  * [August 21, 2011 : Open Bugs Day by Testing Core Team](https://news.opensuse.org/2011/07/25/open-bugs-day-by-testing-core-team/)
+  * [August 21, 2011 : Open Bugs Day by Testing Core Team](http://news.opensuse.org/2011/07/25/open-bugs-day-by-testing-core-team/)
 
-  * [August 22, 2011 : osc11 Orga Meeting](https://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
+  * [August 22, 2011 : osc11 Orga Meeting](http://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
 
   * [August 22-26, 2011 : Journey to Upgrade Computer Science Unicentro (Guarapuava, Brazil)](http://eventos.unicentro.br/jai2011/)
 
   * [August 30 - September 3, 2011 : FASOL (SantarÃ©m, Brazil)](http://www.fasol.org.br/)
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -922,7 +925,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
 
-
+â€œ
 
 
             [Danny
@@ -943,7 +946,7 @@ Today I've submitted a new extundelete package to my [repo](http://download.open
 Feel free to test and report problems back. The package is now also part of the
             filesystems project.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
@@ -952,7 +955,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [Greg Kroah-Hartman: Future of the -longterm kernel releases.](http://www.kroah.com/log/linux/longterm-proposal-08-2011.html)
@@ -1047,9 +1050,9 @@ Feel free to comment on the [google+ thread](https://plus.google.com/11104916828
       about this, or on the [lkml](https://lkml.org/lkml/2011/8/15/5)
       thread.
 
-
+â€
 
-
+â€œ
 
 
       [Linus Torvalds: Linux 3.1-rc2](http://article.gmane.org/gmane.linux.kernel/1179341)
@@ -1065,9 +1068,9 @@ sending me real fixes. Think of it as "fairly late in the -rc series",
 because I really want to compensate for the merge window being fairly
 chaotic. (...)
 
-
+â€
 
-
+â€œ
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.1 - Part 1 - Networking](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-1-Networking-1323463.html)
@@ -1079,32 +1082,32 @@ One week after [issuing](http://www.h-online.com/open/features/Kernel-Log-First-
       release candidate of Linux 3.1 late on Sunday night. The new version has been taken as an
       opportunity to [rename](http://git.kernel.org/linus/93ee7a9340d64f20295aacc3fb6a22b759323280)
       the kernel, which had been christened "Sneaky Weasel" [at the end of May](http://www.h-online.com/news/item/First-release-candidate-of-Linux-3-0-available-1252280.html); its new name is "Wet Seal". Torvalds didn't provide any
-      background reasons for his choice of name “ it could be to do with the diving course he [attended](https://plus.google.com/102150693225130002912/posts/RLmbspKyr68) as a
+      background reasons for his choice of name â€“ it could be to do with the diving course he [attended](https://plus.google.com/102150693225130002912/posts/RLmbspKyr68) as a
         [divemaster](http://en.wikipedia.org/wiki/Divemaster).
 
 In his release email for the second release candidate, Torvalds was pleased to report that
       the merge window had been "pretty normal". From now until the final release of Linux 3.1, only
-      corrections and minor improvements that don't present any risk “ apart from rare exceptions “
+      corrections and minor improvements that don't present any risk â€“ apart from rare exceptions â€“
       will now be accepted into the Linux main development branch. 
 
-
+â€
 
-
+â€œ
 
 
       [Rares
-        Aioanei: kernel weekly news “ 20.08.2011](http://schaiba.wordpress.com/2011/08/20/kernel-weekly-news-20-08-2011/)
+        Aioanei: kernel weekly news â€“ 20.08.2011](http://schaiba.wordpress.com/2011/08/20/kernel-weekly-news-20-08-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [MakeUseOf/Danny Stieben: Manage Your Twitter & Identi.ca Accounts With Choqok](http://www.makeuseof.com/tag/manage-twitter-identica-accounts-choqok-linux/)
@@ -1115,32 +1118,32 @@ For people who are really tweet-o-holics, constant access to [Twitter](http://ww
         fans of Twitter but not necessarily tweet-o-holics.
 
 One possible choice is to have Twitter up and running in the browser most of the time.
-        While this is a feasible solution, you™ll start missing out when the browser is minimized.
-        Also, a browser isn™t exactly lightweight on system resources. Therefore, your best bet
+        While this is a feasible solution, youâ€™ll start missing out when the browser is minimized.
+        Also, a browser isnâ€™t exactly lightweight on system resources. Therefore, your best bet
         would be to use a well-built Twitter desktop client.
 
 **About Chokoq**
 
 [Choqok](http://choqok.gnufolks.org) is a slim Twitter and Identi.ca
         client made to integrate well with the [KDE](http://www.makeuseof.com/tags/kde) desktop environment. As far as social media clients go, [Gwibber](http://www.makeuseof.com/tag/gwibber-the-everything-client/) may be a
-        more well known piece of software, but it™s best suited to run under a [GNOME](http://www.makeuseof.com/tags/gnome) desktop. You™re always welcome to
-        try Gwibber with KDE, but I™ve always preferred software native to the desktop environment
-        you™re using. With Choqok, you can quickly and easily reach your Twitter stream at any time
+        more well known piece of software, but itâ€™s best suited to run under a [GNOME](http://www.makeuseof.com/tags/gnome) desktop. Youâ€™re always welcome to
+        try Gwibber with KDE, but Iâ€™ve always preferred software native to the desktop environment
+        youâ€™re using. With Choqok, you can quickly and easily reach your Twitter stream at any time
         and get notifications that appear right on your desktop. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Linux.com/Nathan Willis: Weekend Project: Turn Thunderbird into a Groupware Client with SOGo Connector](http://www.linux.com/learn/tutorials/482178:weekend-project-turn-thunderbird-into-a-groupware-client-with-sogo-connector)
       
 
-Mozilla [Thunderbird](http://www.mozilla.org/thunderbird/) has earned its place as an email app on Linux desktops, and its cross-platform nature makes it a popular choice for Windows and OS X machines as well ” particularly when you include the calendaring and task management power of the [Lightning](http://www.mozilla.org/projects/calendar/lightning/) add-on. But uptake in corporate environments has never been its strong suit, largely because it does not include groupware features such as event invitations and shared address books. The [SOGo Connector](http://www.sogo.nu/downloads/frontends.html#c1304) extension adds those features and more, turning Thunderbird into a proper groupware client suitable for business use. (...)
+Mozilla [Thunderbird](http://www.mozilla.org/thunderbird/) has earned its place as an email app on Linux desktops, and its cross-platform nature makes it a popular choice for Windows and OS X machines as well â€” particularly when you include the calendaring and task management power of the [Lightning](http://www.mozilla.org/projects/calendar/lightning/) add-on. But uptake in corporate environments has never been its strong suit, largely because it does not include groupware features such as event invitations and shared address books. The [SOGo Connector](http://www.sogo.nu/downloads/frontends.html#c1304) extension adds those features and more, turning Thunderbird into a proper groupware client suitable for business use. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Lamarque: Wireless sharing with Plasma NM 0.9](http://lamarque-lvs.blogspot.com/2011/08/wireless-sharing-with-plasma-nm-09.html)
@@ -1148,52 +1151,52 @@ Mozilla [Thunderbird](http://www.mozilla.org/thunderbird/) has earned its place 
 
 During [Desktop Summit](https://www.desktopsummit.org/welcome-second-desktop-summit) in Berlin some people asked me how to make wireless sharing work. Connection sharing allows to use a computer as gateway for other computers, NM does that by routing all IP packages from one network interface to the default route of your computer (yes, that is a Masquerate configuration). For example, you can configure your notebook to access Internet through ethernet cable and create a wifi shared connection to allow other computers to access Internet using your notebook's default route. Your notebook will act like an access point. (...)
 
-
+â€
 
-
+â€œ
 
 [MakeTechEasier/scottnesbitt: Three Great Mindmapping Tools for the Linux
         Desktop](http://maketecheasier.com/three-great-mindmapping-tools-for-the-linux-desktop/2011/08/19)
 
-Sometimes, you run into a problem that you just can™t work through with mental brute
-        force alone. Brainstorming with others works, but that™s not always an option.
+Sometimes, you run into a problem that you just canâ€™t work through with mental brute
+        force alone. Brainstorming with others works, but thatâ€™s not always an option.
 
 One popular and effective way of beating a problem or releasing your creativity is
         mindmapping. While you can go old school and use pen and paper, there is quite a bit of
         mindmapping software out there for the desktop and on the web.
 
-There are a number of really solid mindmapping tools for the Linux desktop. Let™s take a
+There are a number of really solid mindmapping tools for the Linux desktop. Letâ€™s take a
         closer look at three of them. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [Anchor/Keiran Holloway: Awesome but often unknown Linux commands and tools](http://www.anchor.com.au/blog/2011/08/awesome-but-often-unknown-linux-commands-and-tools/)
       
 
-I™ve been working in this industry for a while now and naturally spend a lot of time using Linux on a daily basis. This gives lots of exposure to various Linux commands and tools. That said, I am sometimes surprised when I see, often very experienced system administrators, using somewhat convoluted commands to do something relatively simple using a different tool. (...)
+Iâ€™ve been working in this industry for a while now and naturally spend a lot of time using Linux on a daily basis. This gives lots of exposure to various Linux commands and tools. That said, I am sometimes surprised when I see, often very experienced system administrators, using somewhat convoluted commands to do something relatively simple using a different tool. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Wazi/Anatoliy A. Dimitrov: Build Web Apps Like a Pro with These PHP Frameworks](http://olex.openlogic.com/wazi/2011/build-web-apps-like-a-pro-with-these-php-frameworks/)
       
 
-Nowadays, few enterprise websites run without [PHP](http://olex.openlogic.com/packages/php), the dynamic scripting language that serves as the P in the [LAMP](http://en.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack. Coding PHP applications is relatively easy thanks to the abundance of high-quality PHP frameworks available. Here™s a high-level overview of several of these open source frameworks, noting their scalability, maturity, licenses, and commercial support. While they may differ in many ways, they have one thing in common: they cost nothing to try and to use.
+Nowadays, few enterprise websites run without [PHP](http://olex.openlogic.com/packages/php), the dynamic scripting language that serves as the â€œPâ€ in the [LAMP](http://en.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack. Coding PHP applications is relatively easy thanks to the abundance of high-quality PHP frameworks available. Hereâ€™s a high-level overview of several of these open source frameworks, noting their scalability, maturity, licenses, and commercial support. While they may differ in many ways, they have one thing in common: they cost nothing to try and to use.
 
 PHP frameworks not only make web development fast and easy but also standardize and streamline the whole development process. They are much more than just snippets of code or libraries you can reuse. They guide you through the whole development process, from laying out file structures to building data connectors and performing unit tests. All of these popular frameworks are object-oriented and follow the Model-View-Controller ([MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)) design philosophy. (...)
 
-
+â€
 
-
+â€œ
 
 [Sankar
           P: Introducing Find Many Strings - A chrome extension](http://psankar.blogspot.com/2011/08/introducing-find-many-strings-chrome.html)
@@ -1208,18 +1211,18 @@ If I am using VIM, I can happily use CTAGS for this. Chrome highlights all the
         search starts highlighting in a different color. I could not find any plugin for achieving
         this, So, I wrote my own Chrome extension for this. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [Justine Leng: Install Broadcom STA wireless driver in openSUSE 11.4 (and other Linux distros)](http://obsforandroid.wordpress.com/2011/08/16/install-broadcom-sta-wireless-driver-in-opensuse-11-4-and-other-linux-distros/)
       
 
 Broadcom is a real nag. Buying a laptop with Broadcom wireless network card never
-        bothered me until I installed several Linux distros and things started to go less smoothly¦
+        bothered me until I installed several Linux distros and things started to go less smoothlyâ€¦
         especially when you do not have wired ethernet nearby and wireless is all you get.
 
 On the other hand, installing the Broadcom wireless driver for different Linux distros
@@ -1231,9 +1234,9 @@ Previously, I talked about[how to activate the Broadcom STA wireless driver in F
 The following works on openSUSE 11.3, 11.4, Mint 10 Julia, Ubuntu 10.x, Kubuntu 10.x,
         and LMDE. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Justine Leng: Live Upgrade openSUSE 11.3 to 11.4 ](http://obsforandroid.wordpress.com/2011/08/16/live-upgrade-opensuse-11-3-to-11-4/)
@@ -1250,9 +1253,9 @@ Doing a live upgrade in openSUSE to the latest version has certain advantages:
   * You do not have to write an ISO image to a DVD. You could also boot from 1) the
               Internet; or 2) a USB key, and install the rest from the Internet (...)
 
-
+â€
 
-
+â€œ
 
 
         [IBM developerWorks/Roderick W. Smith: Learn Linux, 302 (Mixed environments): Domain control](http://www.ibm.com/developerworks/linux/library/l-lpic3-312-4/index.html)
@@ -1260,9 +1263,9 @@ Doing a live upgrade in openSUSE to the latest version has certain advantages:
 
 In SMB/CIFS parlance, a domain is similar to a workgroup: It's a collection of related computers, typically existing on a single local network. A domain, however, features a special computer known as a domain controller that manages logons for all the servers in the domain. It also provides a few additional services. Samba can function as a domain controller, but you need to set several Samba options for it to do so. (...)
 
-
+â€
 
-
+â€œ
 
 [Danny Kukawka: How to get your full disc space back on ext filesystems](http://dkukawka.blogspot.com/2011/08/how-to-get-your-full-disc-space-back-on.html)
 
@@ -1284,24 +1287,24 @@ The reason is: if you create an ext filesystem (no matter if with mkfs or YaST),
         space back. Either you set the number of reserved blocks to zero when you create the file
         system: (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
+â€œ
 
-
-[Michal HrušeckÃ½: libyui
+[Michal HruÅ¡eckÃ½: libyui
         in Gentoo](http://michal.hrusecky.net/2011/08/libyui-in-gentoo/)
 
 Some time ago I wrote a blog post about [osc in Gentoo](http://michal.hrusecky.net/2011/06/osc-client-in-gentoo/). As I
-      already stated there, we™ve got some pretty cool technologies in openSUSE and I would like to
-      promote them everywhere. And as I™m also partially Gentoo user and I have many Gentoo friends,
-      I™m trying to make some of the coolest openSUSE technologies available on Gentoo. One of the
-      cool things we™ve got is libYUI. (...)
+      already stated there, weâ€™ve got some pretty cool technologies in openSUSE and I would like to
+      promote them everywhere. And as Iâ€™m also partially Gentoo user and I have many Gentoo friends,
+      Iâ€™m trying to make some of the coolest openSUSE technologies available on Gentoo. One of the
+      cool things weâ€™ve got is libYUI. (...)
 
-
+â€
 
-
+â€œ
 
 [Andrea
         Florio: openSUSE-LXDE logo contest starting now!](http://lizards.opensuse.org/2011/08/19/opensuse-lxde-logo-contest-starting-now/)
@@ -1314,83 +1317,83 @@ The contest will start tomorrow, everyone is welcome to join! All the rules are 
 
 So? what are you waiting for??? 
 
-Is just the right time to **Have a lot of fun¦**
+Is just the right time to **Have a lot of funâ€¦**
 
-
+â€
 
-
+â€œ
 
 [Nelson Marques: A
-        brief update on things¦](http://www.marques.so/2011/08/a-brief-update-on-things/)
+        brief update on thingsâ€¦](http://www.marques.so/2011/08/a-brief-update-on-things/)
 
-I™ve been a bit away from openSUSE in the last months (mainly this summer) and this is
-      related to several things that are happening in my personal life. During this time I™ve kept a
-      look in several packages I maintain for GNOME, but haven™t been doing anything related to
+Iâ€™ve been a bit away from openSUSE in the last months (mainly this summer) and this is
+      related to several things that are happening in my personal life. During this time Iâ€™ve kept a
+      look in several packages I maintain for GNOME, but havenâ€™t been doing anything related to
       openSUSE.
 
 As many people know, the international pressures in Portugal are placing much demanding
-      things on every citizen, mainly on the working force. I still don™t see the shackles around my
-      hands, but it™s pretty much obvious they exist and they are around my wrists. It™s time to
+      things on every citizen, mainly on the working force. I still donâ€™t see the shackles around my
+      hands, but itâ€™s pretty much obvious they exist and they are around my wrists. Itâ€™s time to
       rethink the strategy for the life I wanted to live and move out to living it.
 
 No changes to be announced except that some weight I shouldered is going to be dropped,
-      this is the case of GNOME:Ayatana, which I will discuss with Vincent once he™s around, but
+      this is the case of GNOME:Ayatana, which I will discuss with Vincent once heâ€™s around, but
       from my side the proposal is simple, salvage all the packages that are requirements to other
       packages and might have some utility in the distro, all the others, just a plain and simple
-      nuke them. It served it™s purposes, but I no longer have the time or will to continue
+      nuke them. It served itâ€™s purposes, but I no longer have the time or will to continue
       maintaining stuff, some that worked, others that never worked. In a way I was wrong, openSUSE
       users are far better with the traditional choices, ex: GNOME, than with other alternative
       choices.
 
-
+â€
+
+â€œ
 
 
-
-
-      [Sebastian Kügler: Release Team Changes](http://vizzzion.org/blog/2011/08/release-team-changes/)
+      [Sebastian KÃ¼gler: Release Team Changes](http://vizzzion.org/blog/2011/08/release-team-changes/)
     
 
 **Release Team Changes**
 
 During the Desktop Summit in Berlin, we had a session in which we had a good look at
-      how KDE™s release team performs, which points we can improve on, how, and who will
+      how KDEâ€™s release team performs, which points we can improve on, how, and who will
       implement these changes. For example: 
 
-  * Make our output more predictable and thus downstreams™ lives easier
+  * Make our output more predictable and thus downstreamsâ€™ lives easier
 
   * Reduce the risk of something going wrong, the [bus number problem](http://en.wikipedia.org/wiki/Bus_number)
 
   * Make our work more efficient
 
-Let™s take a step back first, though.
+Letâ€™s take a step back first, though.
 
 **A bit of history: from Coolo & Dirk to TWG to Release Team**
 
-In KDE 3, Coolo and Dirk managed KDE™s releases. When KDE4 was started, we also wanted
+In KDE 3, Coolo and Dirk managed KDEâ€™s releases. When KDE4 was started, we also wanted
       to promote this in a more suitable fashion, we started doing more proactive PR work, and
       generally improved our communication to our users (potential or not). In 2005, the
       Technical Working Group was conceived, which was meant to handle the releases of KDE4. The
-      Technical Working Group didn™t quite work out since it didn™t bring the structural changes
-      we needed in order to release KDE4. In late 2006 we we decided that it didn™t work,
+      Technical Working Group didnâ€™t quite work out since it didnâ€™t bring the structural changes
+      we needed in order to release KDE4. In late 2006 we we decided that it didnâ€™t work,
       disbanded the TWG and conceived the release team, a self-organized team of volunteers.
       Conceptually, the release team started as a place for people to go who wanted to make
       releases happen. We found module maintainers for our released modules who would coordinate
       towards the app teams and, and a few core people who know how all that stuff works to put
       things together. We got our release process on the rails again. Interestingly, the release
       team is very informal, we never ended up appointing anyone release manager, or
-      end-responsible ” it has also never been necessary, it seems. Lesson here: shared
+      end-responsible â€” it has also never been necessary, it seems. Lesson here: shared
       responsibility works well for us.
 
 A quick unscientific count of the whole KDE 4 series (including pre-releases) brought
       me to 88 releases done by the release team in its current form.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [ITworld/Brian Proffitt: Longterm kernel proposal signals ongoing Linux growth](http://www.itworld.com/it-managementstrategy/194203/longterm-kernel-proposal-signals-ongoing-linux-growth)
@@ -1400,11 +1403,11 @@ The Linux kernel development process may be getting a little tweaking if a propo
 
 The proposal is simple, on the surface and all the way down: Currently, the 2.6.32 kernel is maintained as a -longterm kernel, a kernel release that is maintained as a stable release with bug fixes and patches for a relatively lengthy period of time. This is opposed to the official -stable release of the Linux kernel, which is the kernel release most suitable for general use, and is dropped when the next release is moved into the -stable category. (The current -stable release, for example, is the 3.0.1 kernel.) (...)
 
-
+â€
 
 ### Warning!
 
-
+â€œ
 
 
         [The Register/Dan Goodin: Attack on open-source web app keeps growing](http://www.theregister.co.uk/2011/08/13/oscommerce_infection_threatens_web/)
@@ -1414,7 +1417,7 @@ An attack targeting sites running unpatched versions of the osCommerce web appli
 
 When researchers from Armorize first spotted the exploit on July 24, they estimated it had injected malicious links into about 91,000 webpages. By early last week, The Reg reported it had [taken hold of almost 5 million pages](http://www.theregister.co.uk/2011/08/02/mass_injection_attack_goes_viral/). At time of writing, Google searches [here](https://encrypted.google.com/#num=100&hl=en&safe=off&q=%22http:%2F%2Fwillysy.com%2Fimages%2Fbanners%2F%22&oq=%22http:%2F%2Fwillysy.com%2Fimages%2Fbanners%2F%22&aq=f&aqi=&aql=&gs_sm=e&gs_upl=3751l5401l10l6328l9l7l0l0l0l2l168l883l2.5l7l0&fp=1&biw=1365&bih=913&bav=on.2,or.r_gc.r_pw.&cad=b) and [here](https://encrypted.google.com/#hl=en&source=hp&q=%22http:%2F%2Fexero.eu%2Fcatalog%2Fjquery.js%22&oq=%22http:%2F%2Fexero.eu%2Fcatalog%2Fjquery.js%22&aq=f&aqi=&aql=&gs_sm=e&gs_upl=13178l40428l0l40708l35l35l0l34l0l0l105l105l0.1l1l0&fp=1&biw=1365&bih=913&bav=on.2,or.r_gc.r_pw.&cad=b) suggested that the number exceeded 8.3 million. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1446,7 +1449,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1460,7 +1463,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1492,7 +1495,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 189 is available in: 
 
-  * [English](https://news.opensuse.org/?p=10179)
+  * [English](http://news.opensuse.org/?p=10179)
 
 Coming soon: 
 
@@ -1505,6 +1508,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

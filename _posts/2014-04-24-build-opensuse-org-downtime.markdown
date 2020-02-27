@@ -1,14 +1,16 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2014-04-24 13:33:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/24/build-opensuse-org-downtime/
-title: "Sometimes you need some luck (was: build.opensuse.org downtime)\
-  "
+slug: build-opensuse-org-downtime
+title: 'Sometimes you need some luck (was: build.opensuse.org downtime)'
+wordpress_id: 17862
 categories:
 - Build Service
 ---
+
 ![](https://en.opensuse.org/images/4/43/Failgeeko.png)A morning you love as admin: starting with one single disk in your storage array failing, ending up in a whole array crashing.<!-- more -->
 
 
@@ -35,4 +37,4 @@ The usual resulting 0-byte files have been searched and removed (this is complet
 
 All backend processes are up and running again, on backend-opensuse the cold-start is already complete and on back-home-opensuse the scheduler cold-start should soon be complete.
 
-The webserver for the OBS api was started again, which made OBS alive again, and for software.opensuse.org the webserver and memcached were restarted (the latter was needed to cure a 120minute negative cache for the list of distributions).		
+The webserver for the OBS api was started again, which made OBS alive again, and for software.opensuse.org the webserver and memcached were restarted (the latter was needed to cure a 120minute negative cache for the list of distributions).

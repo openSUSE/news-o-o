@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-22 16:36:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/22/opensuse-education-10-for-sle10-and-111/
-title: "openSUSE-Education 1.0 for SLE10 and 11.1"
+slug: opensuse-education-10-for-sle10-and-111
+title: openSUSE-Education 1.0 for SLE10 and 11.1
+wordpress_id: 1134
 categories:
 - Announcements
 - Edu Li-f-e
@@ -13,6 +15,7 @@ tags:
 - Education
 - enterprise
 ---
+
 The first version of the openSUSE-Education Add-on is drawing to a close. By releasing the [final version](http://www.opensuse-education.org/download/repo/1.0/SLE10/) for SUSE Linux Enterprise 10 and the first Release Candidate for 11.1, we hopefully have the **first community Add-On media which is available for each (open)SUSE Release**, soon!
 
 The only thing left to reach this great goal: fix the [last bugs](http://devzilla.novell.com/education/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=openSUSE-Education+1.0+for+11.1&content=) for the openSUSE 11.1 release!
@@ -54,4 +57,3 @@ First: choose a directory with enough space ;-)
 
 
 If you've already the Beta2-ISO, you can also download the [delta-iso](http://www.opensuse-education.org/download/ISOs/openSUSE-Education-1.0-for-11.1-Beta2_RC1.iso) - and afterwards generate a RC1 iso with your old one. Moons have been discovered orbiting [writing essays by https://writemyessay4me.org](https://writemyessay4me.org/) 200 other minor planets, which complicating the definition of a true planet
-		

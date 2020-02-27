@@ -1,15 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-10-26 08:54:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/
-title: "From the Developer to the User and back “ Announcing Project Bretzn\
-  "
+slug: from-the-developer-to-the-user-and-back-announcing-project-bretzn
+title: From the Developer to the User and back â€“ Announcing Project Bretzn
+wordpress_id: 5267
 categories:
 - Distribution
 ---
-[![]({{ site.baseurl }}/assets/shot3-150x150.png)](https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot3/)At the [openSUSE conference](http://en.opensuse.org/Portal:Conference) Frank Karlitschek, KDE e.V. board member and well known for his projects like  [GetHotNewStuff](http://ghns.freedesktop.org/), [opendesktop.org](http://opendesktop.org), [socialdesktop.org](http://www.socialdesktop.org) announced a new project during his keynote. The title: "From the Developer to the User and Back; or Project Bretzn". A Bretzn is a kind of pretzel in Germany and what the name means in practice became only clear at the end of the keynote...
+
+[![](/wp-content/uploads/2010/10/shot3.png)](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot3/)At the [openSUSE conference](http://en.opensuse.org/Portal:Conference) Frank Karlitschek, KDE e.V. board member and well known for his projects like  [GetHotNewStuff](http://ghns.freedesktop.org/), [opendesktop.org](http://opendesktop.org), [socialdesktop.org](http://www.socialdesktop.org) announced a new project during his keynote. The title: "From the Developer to the User and Back; or Project Bretzn". A Bretzn is a kind of pretzel in Germany and what the name means in practice became only clear at the end of the keynote...
 
 <!-- more -->
 
@@ -22,7 +24,7 @@ As a developer you want to create cool Free Software and you want to get the res
 After you have written your application you have to compile and package it for all operating systems you want to support. There is a large variety of Linux distributions out there and of course there is Windows and Mac too. Once you've build it and package it, you have to create a web page with information about the application and some features like commenting and a bug report tool. Next step is to promote your product on twitter, Facebook and at conferences; and try and get it into distributions. Once the distributions release some users hopefully turn up and start giving feedback; resulting in changes to the application. A new version is released and you have to start all over again with the boring stuff.
 
 
-## [![The MeeGo App Store]({{ site.baseurl }}/assets/meego-300x176.png)](https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/meego/)The ambition: introducing Bretzn
+## [![The MeeGo App Store](/wp-content/uploads/2010/10/meego.png)](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/meego/)The ambition: introducing Bretzn
 
 
 Frank wants to reduce this whole cycle to 10 minutes of work (well, except for the fun part: the coding). Meet project Bretzn. The goals of this project are to:
@@ -47,7 +49,7 @@ Project Bretzn consists of three parts: the **building** of the package, the **p
 
 Currently, Sebastian Kugler, Dan Leinir Turthra Jensen and Frank himself have been working on this for about three months. The plans are older, however, as are some parts like the OCS based App Store.
 
-[![desktop integration]({{ site.baseurl }}/assets/shot6-198x300.png)](https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot6/)The API is all open, part of the Open Collaboration Services which is on freedesktop.org. There are free server and client implementations supporting uploading and downloading of applications, abstracting Build Services and including all the social features. The API is supported and used by Intel, Nokia, OpenOffice.org, KDE and GNOME.
+[![desktop integration](/wp-content/uploads/2010/10/shot6.png)](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot6/)The API is all open, part of the Open Collaboration Services which is on freedesktop.org. There are free server and client implementations supporting uploading and downloading of applications, abstracting Build Services and including all the social features. The API is supported and used by Intel, Nokia, OpenOffice.org, KDE and GNOME.
 
 The new [Open Collaboration Services](http://www.open-collaboration-services.org) AppStore currently has four different clients:
 
@@ -86,4 +88,4 @@ Future plans are to show commits of friends, link to bug trackers so users can f
 
 The code will soon be available on Gitorious for all to see and of course anyone interested in helping out is more than welcome. The team is looking for integration in other DE's like Eclipse, NetBeans, Visual Studio, MonoDevelop and KDevelop. But also work on more App Stores, further social media integration and code cleanup is needed! And especially work on a GNOME frontend, in the spirit of Collaboration Across Borders, would make the team happy.
 
-(https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot1/)		
+[caption id="attachment_5288" align="aligncenter" width="693" caption="The Meaning Of Bretzn"][![The Meaning Of Bretzn](/wp-content/uploads/2010/10/shot1.png)](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/shot1/)[/caption]

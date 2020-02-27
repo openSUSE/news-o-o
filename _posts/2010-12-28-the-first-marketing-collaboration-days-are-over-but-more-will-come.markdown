@@ -1,15 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-12-28 15:03:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/28/the-first-marketing-collaboration-days-are-over-but-more-will-come/
-title: "The first Marketing Collaboration days are over but more will come!\
-  "
+slug: the-first-marketing-collaboration-days-are-over-but-more-will-come
+title: The first Marketing Collaboration days are over but more will come!
+wordpress_id: 6034
 categories:
 - Events
 - Project
 ---
+
 On the 6th of December, the openSUSE marketing team held the first of three Collaboration Days. The goal of these days was to get on IRC together and get some tasks done. Each day was organized by a team of two volunteers who build up a list of possible task which on the day itself were to be picked up by the attendees.
 
 
@@ -33,9 +35,9 @@ Moreover two short presentations on SUSE Studio and OBS were created which can b
 
 We would like to thank the whole marketing team and everyone else who joined for a great job. We made a few significant steps forward and surely there will be more collaboration days in the future!
 
-(https://news.opensuse.org/2010/12/28/the-first-marketing-collaboration-days-are-over-but-more-will-come/opensusecollaborationdaycertificate/)
+[caption id="attachment_6103" align="aligncenter" width="300" caption="openSUSE Certificate "][![openSUSE Certificate](/wp-content/uploads/2010/12/openSUSECollaborationDayCertificate.jpg)](http://news.opensuse.org/2010/12/28/the-first-marketing-collaboration-days-are-over-but-more-will-come/opensusecollaborationdaycertificate/)[/caption]
 
 Thanks especially to the volunteers who prepared the Collaboration days:
 Review of Ambassador materials: Kostas Koudaras and Carlos Ribeiro
 Marketing Review: Chuck Payne and Bryen Yunashko
-Social Media: Manu Gupta and Jos Poortvliet		
+Social Media: Manu Gupta and Jos Poortvliet

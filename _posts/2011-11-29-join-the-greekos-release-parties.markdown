@@ -1,14 +1,15 @@
 ---
 author: George Bratsos
+comments: true
 date: 2011-11-29 22:55:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/29/join-the-greekos-release-parties/
-title: "Join The G(r)EEKOS Release Parties!!!"
+slug: join-the-greekos-release-parties
+title: Join The G(r)EEKOS Release Parties!!!
+wordpress_id: 12124
 categories:
 - Project
 ---
-
 
 [![](http://etern4l.files.wordpress.com/2011/11/12-1releaseparty.png)](http://etern4l.files.wordpress.com/2011/11/12-1releaseparty.png)
 
@@ -31,4 +32,4 @@ We expect to meet you at one of the parties, as well as help you organize one in
 
 On **Thursday 1 December** we will celebrate in **Larisa** with a presentation and an Install Fest at 13:00 and afterward we will go at a local tsipouradiko. Moreover, on **Saturday 3 December** in **Kastoria** at 19:00 at Zaza bar. Furthermore, on **Sunday 4 December** we will celebrate in **Thesaloniki** at Bar Pierrot Le Fou at 22:00. Last but not least there will be 3 more parties that are going to be announcend the next few days.
 
-**Have a lot of fun!**		
+**Have a lot of fun!**

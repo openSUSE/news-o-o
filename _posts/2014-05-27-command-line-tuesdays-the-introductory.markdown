@@ -1,10 +1,12 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-05-27 18:12:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/05/27/command-line-tuesdays-the-introductory/
-title: "Command Line Tuesdays  - The Introductory"
+slug: command-line-tuesdays-the-introductory
+title: Command Line Tuesdays  - The Introductory
+wordpress_id: 18042
 categories:
 - Distribution
 tags:
@@ -13,7 +15,6 @@ tags:
 - opensuse
 - terminal
 ---
-
 
 #### Hi Geekos!
 
@@ -101,5 +102,3 @@ The book by Mr Shotts is _exquisite_. But there's probably an issue of time/will
 
 
 ## ...have a lot of fun!
-
-		

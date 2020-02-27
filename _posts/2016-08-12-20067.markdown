@@ -1,12 +1,15 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2016-08-12 00:40:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/08/12/20067/
-title: "openSUSE.Asia Summit has a logo!!!!"
+slug: '20067'
+title: openSUSE.Asia Summit has a logo!!!!
+wordpress_id: 20067
 ---
- 
+
+
 
 ![](https://lizards.opensuse.org/wp-content/uploads/2016/08/opensuse_asia_summit_2016_logo_winner.png)
 
@@ -33,4 +36,4 @@ The complete result can be seen on the [contest web page](http://asiasummit16.op
 
 Congratulation to Ramadoni, and many thanks and appreciation to Ana, Aris, Danang, Kukuh, Shawhong  for your participation in this contest.
 
-Have fun.		
+Have fun.

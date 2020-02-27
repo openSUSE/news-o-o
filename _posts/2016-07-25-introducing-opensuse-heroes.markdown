@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2016-07-25 21:44:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/07/25/introducing-opensuse-heroes/
-title: "Introducing: openSUSE heroes"
+slug: introducing-opensuse-heroes
+title: 'Introducing: openSUSE heroes'
+wordpress_id: 20018
 categories:
 - Build Service
 - Infrastructure
@@ -15,7 +17,8 @@ tags:
 - meeting
 - opensuse
 ---
-![openSUSE-Heroes Logo]({{ site.baseurl }}/assets/openSUSE-Heroes.png)During the last weeks, the openSUSE board and others expressed their concern about the current state of some openSUSE infrastructure: especially the reaction times to change something in the setup were mentioned multiple times. Looks like we lost some administrators and/or contact points at SUSE who helped out in the past to eliminate problems or work together with the community.
+
+![openSUSE-Heroes Logo](/wp-content/uploads/2016/07/openSUSE-Heroes.png)During the last weeks, the openSUSE board and others expressed their concern about the current state of some openSUSE infrastructure: especially the reaction times to change something in the setup were mentioned multiple times. Looks like we lost some administrators and/or contact points at SUSE who helped out in the past to eliminate problems or work together with the community.
 
 As result, there was a meeting held during the openSUSE Conference 2016, including some SUSE employees and openSUSE community members to discuss the current situation and search for some possible solutions. The discussion was very fruitful and we'd like to share some of the results here to inform everyone and actively ask for help. If you want to join us, the openSUSE heroes, do not hesitate to [contact us](https://en.opensuse.org/openSUSE:Services_team) and join an incredible team!
 
@@ -123,4 +126,4 @@ We plan to schedule monthly or quarterly meetings in our IRC channel, depending 
   4. gschlotter also started to implement something new: a [status](https://status.opensuse.org/) page to tell our users about important outages of our services
 
 
-		
+

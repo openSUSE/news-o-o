@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-02-02 11:28:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/02/02/new-systemd-plasma-5-9-arrive-in-tumbleweed/
-title: "New systemd, Plasma 5.9 Arrive in Tumbleweed"
+slug: new-systemd-plasma-5-9-arrive-in-tumbleweed
+title: New systemd, Plasma 5.9 Arrive in Tumbleweed
+wordpress_id: 20284
 categories:
 - Tumbleweed
 tags:
@@ -35,6 +37,7 @@ tags:
 - wireshare
 ---
 
+
 Another busy week for [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) brought several new packages in the rolling release along with [Plasma 5.9](https://www.kde.org/announcements/plasma-5.9.0.php) and [systemd 232](https://www.freedesktop.org/wiki/Software/systemd/).
 
 The most recent snapshot, [20170131](https://lists.opensuse.org/opensuse-factory/2017-02/msg00032.html), added several new features with KDE’s [Plasma 5.9](https://www.kde.org/announcements/plasma-5.9.0.php).
@@ -59,4 +62,4 @@ Snapshot [20170127](https://lists.opensuse.org/opensuse-factory/2017-01/msg00507
 
 The [Linux Kernel](https://www.kernel.org/) 4.9.6 arrived in Tumbleweed with the [20170129](https://lists.opensuse.org/opensuse-factory/2017-01/msg00523.html) snapshot. Both [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Mozilla Thunderbird](https://www.mozilla.org/en-US/thunderbird/) were updated to major and minor versions in the snapshot respectively, which added new features in [51.0.1](https://www.mozilla.org/en-US/firefox/51.0.1/releasenotes/) and bug fixes in [45.7.0](https://www.mozilla.org/en-US/thunderbird/45.7.0/releasenotes/).
 
-Snapshot [20170130](https://lists.opensuse.org/opensuse-factory/2017-02/msg00000.html) improved some subpackages with the GNU Compiler Collection and a security release was made available for [php](https://secure.php.net/) with version 5.6.30.		
+Snapshot [20170130](https://lists.opensuse.org/opensuse-factory/2017-02/msg00000.html) improved some subpackages with the GNU Compiler Collection and a security release was made available for [php](https://secure.php.net/) with version 5.6.30.

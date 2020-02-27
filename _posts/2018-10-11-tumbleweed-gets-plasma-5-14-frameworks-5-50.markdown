@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-10-11 13:50:14+00:00
 layout: post
 link: https://news.opensuse.org/2018/10/11/tumbleweed-gets-plasma-5-14-frameworks-5-50/
-title: "Tumbleweed Gets Plasma 5.14, Frameworks 5.50"
+slug: tumbleweed-gets-plasma-5-14-frameworks-5-50
+title: Tumbleweed Gets Plasma 5.14, Frameworks 5.50
+wordpress_id: 21299
 categories:
 - Announcements
 - Tumbleweed
@@ -24,6 +27,7 @@ tags:
 ---
 
 
+
 Four [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week brought new versions of software along with new versions of [KDE](https://www.kde.org)’s Plasma and Frameworks as well as [python-setuptools](https://pypi.org/project/setuptools/) and many other packages.
 
 The most recent snapshot, [20181009](https://lists.opensuse.org/opensuse-factory/2018-10/msg00153.html), updated KDE’s [Plasma 5.14](https://www.kde.org/announcements/plasma-5.14.0.php). The new Plasma version has several new features like the new Display Configuration widget for screen management, which is useful for presentations. The Audio Volume widget has a built in speaker test feature moved from Phonon settings and the Network widget now works for SSH VPN tunnels again. [The Global menu now supports GTK applications](https://blog.broulik.de/2018/03/gtk-global-menu/) as well.  [Mozilla Firefox 62.0.3](https://www.mozilla.org/en-US/firefox/62.0.3/releasenotes/) fixed a few Common Vulnerabilities and Exposures including a vulnerability in register allocation of [JavaScript](https://www.javascript.com/) that can lead to type confusion, which allows for an arbitrary read and write. The [cpupower](https://linux.die.net/man/1/cpupower) package, which is a collection of tools to examine and tune power, was updated to version 4.19 and deleted some patches that are now part of the mainline. Source-control-management system [mercurial 4.7.2](https://www.mercurial-scm.org/wiki/Download) fixed a potential out-of-bounds read in manifest parsing C code. Other packages including in the snapshot were inxi 3.0.26, lftp 4.8.4, libinput 1.12.1, okteta 0.25.4 and vm-install 0.10.04
@@ -36,4 +40,4 @@ The snapshot that started the month, [20181001](https://lists.opensuse.org/opens
 
 All snapshots are rated as stable with a rating of 97 or above according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/).
 
-		
+

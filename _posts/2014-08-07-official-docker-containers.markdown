@@ -1,13 +1,16 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2014-08-07 12:00:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/08/07/official-docker-containers/
-title: "Official 13.1 Docker Containers Released"
+slug: official-docker-containers
+title: Official 13.1 Docker Containers Released
+wordpress_id: 18333
 categories:
 - Derivatives
 ---
+
 We are proud to announce official Docker containers for our latest openSUSE release, 13.1. Docker is an open-source project that automates the deployment of applications inside software containers. With the official openSUSE Docker containers it's now easy for developers to leverage the power of our Linux distribution and it's free software Eco-system as base for their applications.
 
 
@@ -20,7 +23,7 @@ The Docker project was released in March last year. Until now, during this short
 
 The container technology has been around since quite some time, think about FreeBSD jails, Solaris zones, OpenVZ, LXC. However none of these tools has ever attracted as much attention as Docker. Docker has been so successful because it makes easy to harness the power of containers and at the same time it provides two important features: a developer oriented work flow to manage containers' life cycle and a set of collaborative functionalities.
 
-[![openSUSE at Docker Hub]({{ site.baseurl }}/assets/Screenshot-from-2014-08-04-124354-300x175.png)]({{ site.baseurl }}/assets/Screenshot-from-2014-08-04-124354.png)
+[![openSUSE at Docker Hub](/wp-content/uploads/2014/07/Screenshot-from-2014-08-04-124354.png)](/wp-content/uploads/2014/07/Screenshot-from-2014-08-04-124354.png)
 
 Managing Docker images shares analogies with version control systems used to track the evolution of source code. Containers are stored on a central repository called [Docker Hub](https://registry.hub.docker.com/). Users can download them using the “pull” command. They can "diff" a running container to see which changes have been made. They can fork containers and “push” their derived work back to the Docker Hub.
 
@@ -78,7 +81,7 @@ If you find something about our containers that can be improved, please collabor
 ## Thank you
 
 
-![Flavio Castelli]({{ site.baseurl }}/assets/flavio-150x150.jpg)We have to thank [Flavio Castelli](http://flavio.castelli.name), maintainer of the Docker package, for the creation of these containers, the KIWI developers for adding the docker build format and finally the Docker team for marking these containers as official on the Docker Hub.
+![Flavio Castelli](/wp-content/uploads/2014/07/flavio.jpg)We have to thank [Flavio Castelli](http://flavio.castelli.name), maintainer of the Docker package, for the creation of these containers, the KIWI developers for adding the docker build format and finally the Docker team for marking these containers as official on the Docker Hub.
 
 
 ## About openSUSE
@@ -90,4 +93,4 @@ The openSUSE Project is a worldwide community that promotes the use of Linux eve
 ## About Docker
 
 
-Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows. Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud. Learn more about it on [docker.com](https://www.docker.com/)		
+Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows. Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments. As a result, IT can ship faster and run the same app, unchanged, on laptops, data center VMs, and any cloud. Learn more about it on [docker.com](https://www.docker.com/)

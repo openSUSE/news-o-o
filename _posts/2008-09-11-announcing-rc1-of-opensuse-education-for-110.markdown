@@ -1,16 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-11 09:13:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/11/announcing-rc1-of-opensuse-education-for-110/
-title: "Announcing RC1 of openSUSE-Education for 11.0"
+slug: announcing-rc1-of-opensuse-education-for-110
+title: Announcing RC1 of openSUSE-Education for 11.0
+wordpress_id: 1014
 categories:
 - Announcements
 - Derivatives
 tags:
 - Education
 ---
+
 It is nearly done... As announced on our [roadmap](http://en.opensuse.org/Education/Development/Edu-CD/Roadmap), I'm happy to announce the first release candidate for our openSUSE-Education add on for openSUSE 11.0!
 
 We've produced an Add-On-ISO image and updated the online repository with the new packages. Everyone who likes to help us testing is very welcome - let's make it the best openSUSE-Education you've ever known :-)
@@ -55,4 +58,4 @@ Known bugs:
 
 As some people in IRC and on the mailinglist already discussed the package selection, please report packages you want to have installed _always_ or just _shown up_, so we can adapt our selection.
 
-FYI: The final release of openSUSE-Education is planed for 25/09/2008, the next openSUSE-Education meeting is on [Tuesday 2008/09/16 17:00 UTC](http://en.opensuse.org/Education/Meetings/Education_Meeting_2008-09-16). Advertisements [topspying.com/](https://topspying.com/) are nonexistent in the game, and bugs were nowhere to be found during our time with the game		
+FYI: The final release of openSUSE-Education is planed for 25/09/2008, the next openSUSE-Education meeting is on [Tuesday 2008/09/16 17:00 UTC](http://en.opensuse.org/Education/Meetings/Education_Meeting_2008-09-16). Advertisements  are nonexistent in the game, and bugs were nowhere to be found during our time with the game

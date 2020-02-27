@@ -1,16 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-09-08 20:45:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/09/08/reminder-opensuse-project-meeting-wednesday-september-9-2009-at-1200-utc/
-title: "Reminder: openSUSE Project Meeting Wednesday September 9, 2009 at\
-  \ 12:00 UTC"
+slug: reminder-opensuse-project-meeting-wednesday-september-9-2009-at-1200-utc
+title: 'Reminder: openSUSE Project Meeting Wednesday September 9, 2009 at 12:00 UTC'
+wordpress_id: 2118
 categories:
 - Announcements
 - Events
 ---
-
 
 The next openSUSE Project meeting will take place tomorrow (Wednesday September 9th) at 12:00 UTC. See all time zones on the [Fixed Time World Clock](http://is.gd/32PXK). As always, the meeting will be held in IRC on the #opensuse-project channel on Freenode.
 
@@ -55,5 +55,3 @@ Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.
 
 
 Wondering what meeting times are? [Check the openSUSE Meetings page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed there.
-
-		

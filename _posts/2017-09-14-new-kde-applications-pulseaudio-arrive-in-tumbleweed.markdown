@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-09-14 09:01:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/09/14/new-kde-applications-pulseaudio-arrive-in-tumbleweed/
-title: "New KDE Applications, PulseAudio Arrive in Tumbleweed"
+slug: new-kde-applications-pulseaudio-arrive-in-tumbleweed
+title: New KDE Applications, PulseAudio Arrive in Tumbleweed
+wordpress_id: 20554
 categories:
 - Distribution
 - Tumbleweed
@@ -24,7 +26,8 @@ tags:
 - python
 - s390 sqlite
 ---
-![]({{ site.baseurl }}/assets/release-is-coming-black-260x300.png)The last [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshot has arrived and brought the newest version of [KDE Applications](https://www.kde.org/applications/) as well as a new [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) version.
+
+![](/wp-content/uploads/2017/09/release-is-coming-black.png)The last [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshot has arrived and brought the newest version of [KDE Applications](https://www.kde.org/applications/) as well as a new [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/) version.
 
 [KDE Applications 17.08.1](https://www.kde.org/announcements/announce-applications-17.08.1.php) was released in the [20170911](https://lists.opensuse.org/opensuse-factory/2017-09/msg00237.html) snapshot along with an updated version of GNU Compiler Collection 6. The newest 17.08.1 version included 20 recorded bugfixes with improvements to [Gwenview](https://userbase.kde.org/Gwenview), [Kdenlive](https://kdenlive.org/), [Konsole](https://konsole.kde.org/), [Okular](https://okular.kde.org/), [KDE games](https://games.kde.org/) and more. The newer GCC6 version renamed the tarball and source to make factory-auto happy, according to the [change log](https://lists.opensuse.org/opensuse-factory/2017-09/msg00237.html).
 
@@ -38,4 +41,4 @@ The [20170907](https://lists.opensuse.org/opensuse-factory/2017-09/msg00180.html
 
 Tumbleweed’s [20170905](https://lists.opensuse.org/opensuse-factory/2017-09/msg00179.html) snapshot had quite a few updated Perl packages and package [sqlite3  3.20.1](https://www.sqlite.org/releaselog/3_20_1.html) fix a potential memory leak.
 
-Tumbleweed users can expect [GNOME 3.26](https://www.gnome.org/news/2017/09/gnome-3-26-released/) soon. It must first pass staging. The team is working on debugging issues the newest GNOME version. [Kernel 4.13.1](http://www.omgubuntu.co.uk/2017/09/linux-4-13-kernel-features-release) is also expected to come soon as well.		
+Tumbleweed users can expect [GNOME 3.26](https://www.gnome.org/news/2017/09/gnome-3-26-released/) soon. It must first pass staging. The team is working on debugging issues the newest GNOME version. [Kernel 4.13.1](http://www.omgubuntu.co.uk/2017/09/linux-4-13-kernel-features-release) is also expected to come soon as well.

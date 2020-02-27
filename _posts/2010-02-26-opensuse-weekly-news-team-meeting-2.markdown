@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-02-26 19:16:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/02/26/opensuse-weekly-news-team-meeting-2/
-title: "openSUSE Weekly News Team Meeting"
+slug: opensuse-weekly-news-team-meeting-2
+title: openSUSE Weekly News Team Meeting
+wordpress_id: 2992
 categories:
 - Events
 - Weekly News
@@ -13,6 +15,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 The next openSUSE Weekly News meeting will take place tomorrow (Saturday  February 27)Â  at 14:30 UTC. As always, the meeting will be held   in IRC  on the #opensuse-newsletter channel on Freenode.
 
 Please add your topics to the meeting wiki page at:
@@ -29,4 +32,4 @@ As always, we meet in #opensuse-newsletter on Freenode. Fire up your    favorite
 
 Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.irchelp.org/).    This site is not affiliated with openSUSE. For more information on    Freenode, see http://freenode.net/.
 
-Wondering what meeting times are? [Check the openSUSE Meetings    page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed  there.		
+Wondering what meeting times are? [Check the openSUSE Meetings    page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed  there.

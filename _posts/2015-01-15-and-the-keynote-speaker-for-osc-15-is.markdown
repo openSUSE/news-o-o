@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-01-15 12:07:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/01/15/and-the-keynote-speaker-for-osc-15-is/
-title: "And the keynote speaker for OSC 15 is..."
+slug: and-the-keynote-speaker-for-osc-15-is
+title: And the keynote speaker for OSC 15 is...
+wordpress_id: 19006
 categories:
 - Conference
 ---
-[![flowRootosc15icon]({{ site.baseurl }}/assets/flowRootosc15icon-150x150.png)]({{ site.baseurl }}/assets/flowRootosc15icon.png)Canadian...
+
+[![flowRootosc15icon](/wp-content/uploads/2015/01/flowRootosc15icon.png)](/wp-content/uploads/2015/01/flowRootosc15icon.png)Canadian...
 
 Who is it?
 
@@ -42,4 +45,4 @@ Companies interested in sponsoring oSC15 can contact [izabelvalverde@opensuse.or
 #### **Kolab Summit**
 
 
-Another nice thing is that at openSUSE Conference you can visit the Kolab Summit nearby, which will be taking place during the same weekend at the same venue. Their company motto is "Collaboration in confidence" and as Geeko community we look forward to have a great time together.		
+Another nice thing is that at openSUSE Conference you can visit the Kolab Summit nearby, which will be taking place during the same weekend at the same venue. Their company motto is "Collaboration in confidence" and as Geeko community we look forward to have a great time together.

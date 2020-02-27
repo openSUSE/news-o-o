@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-22 18:31:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/22/obs-did-it/
-title: "openSUSE Build Service Did It!"
+slug: obs-did-it
+title: openSUSE Build Service Did It!
+wordpress_id: 1026
 categories:
 - Build Service
 - Distribution
 ---
-The [ openSUSE 11.1 beta 1 release](https://news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/) marks a significant change for openSUSE. For the first time in 11 years, a SUSE release was not built in the SUSE internal AutoBuild service -- openSUSE 11.1 beta 1 was built using the openSUSE Build Service!
+
+The [ openSUSE 11.1 beta 1 release](//news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/) marks a significant change for openSUSE. For the first time in 11 years, a SUSE release was not built in the SUSE internal AutoBuild service -- openSUSE 11.1 beta 1 was built using the openSUSE Build Service!
 
 <!-- more -->
 
@@ -34,4 +37,4 @@ Screenshot from the [openSUSE Factory project page.](https://build.opensuse.org/
 [![openSUSE Factory Build Service](http://www.suse.de/~freitag/opensuse_factory_buildservice.png)](http://www.suse.de/~freitag/opensuse_factory_buildservice.png)
 
 PS: Greetings to SUSE founder Burchard Steinbild, who implemented the first version of AutoBuild, which was the reason of the success of SUSE :)
- Mobbles is very easy to pick up and play, and even easier if you have children [visit the blog right here](https://trymobilespy.com/spyera/) who are familiar with games of its genre		
+ Mobbles is very easy to pick up and play, and even easier if you have children  who are familiar with games of its genre

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-26 07:57:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/26/uyuni-forking-spacewalk-with-salt-and-containers/
-title: "Uyuni: Forking Spacewalk with Salt and Containers"
+slug: uyuni-forking-spacewalk-with-salt-and-containers
+title: 'Uyuni: Forking Spacewalk with Salt and Containers'
+wordpress_id: 20901
 categories:
 - Announcements
 - Conference
@@ -29,7 +31,8 @@ tags:
 - Uyuni
 - why
 ---
-![]({{ site.baseurl }}/assets/uyuni.png)
+
+![](/wp-content/uploads/2018/05/uyuni.png)
 
 PRAGUE, Czech Republic - Members of a new open source community project called [Uyuni](https://github.com/uyuni-project) announced today at openSUSE Conference that a fork of the [open-source](https://en.wikipedia.org/wiki/Open-source_software)[ systems management](https://en.wikipedia.org/wiki/Systems_management) solution [Spacewalk](https://spacewalkproject.github.io/) is on its way.
 
@@ -61,4 +64,4 @@ Uyuni community members decided to fork the project after extensive discussions 
 
 “SUSE Manager’s development will be openly available to open-source community members for whatever contributions they would like to make to the [Uyuni project](http://www.uyuni-project.org),” Kämpf said.
 
-Interested members can follow the project on [https://github.com/uyuni-project](https://github.com/uyuni-project), [www.uyuni-project.org](http://www.uyuni-project.org), or via Twitter at [@UyuniProject](https://twitter.com/UyuniProject). [A presentation about Uyuni](https://events.opensuse.org/conference/oSC18/program/proposal/1849) can be viewed on the [openSUSETV YouTube channel](https://www.youtube.com/user/opensusetv) or via the live stream for the conference at 9:30 a.m. UTC on [https://streaming.media.ccc.de/osc18/](http://streaming.media.ccc.de/osc18/).		
+Interested members can follow the project on [https://github.com/uyuni-project](https://github.com/uyuni-project), [www.uyuni-project.org](http://www.uyuni-project.org), or via Twitter at [@UyuniProject](https://twitter.com/UyuniProject). [A presentation about Uyuni](https://events.opensuse.org/conference/oSC18/program/proposal/1849) can be viewed on the [openSUSETV YouTube channel](https://www.youtube.com/user/opensusetv) or via the live stream for the conference at 9:30 a.m. UTC on [https://streaming.media.ccc.de/osc18/](http://streaming.media.ccc.de/osc18/).

@@ -1,15 +1,18 @@
 ---
 author: No Content Found
+comments: true
 date: 2010-09-10 17:42:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/10/new-search-for-opensuse-wiki/
-title: "New Search for openSUSE Wiki"
+slug: new-search-for-opensuse-wiki
+title: New Search for openSUSE Wiki
+wordpress_id: 4307
 categories:
 - Wiki
 tags:
 - wiki
 ---
+
 Here is the news that a lot of you have been waiting for!Â  The new wikis (en.opensuse.org, languages.opensuse.org, and dewiki.opensuse.org) have been switched to the new Lucene search engine.Â  The legacy wikis are still running the old search, but they will start using Lucene as they are migrated to the new wiki system.Â  So what should users expect with the new search?
 
 
@@ -58,4 +61,4 @@ For now, the index will be rebuilt once a day, which means changes should show u
 
 Many thanks to [Robert StojniÄ‡](http://www.mediawiki.org/wiki/User:Rainman) for creating such a fantastic search engine and for his personal assistance on a technical issue I had while implementing it.
 
-As usual, problems should be directed to webmaster@opensuse.org or the wiki mailing list.Â  Thanks!		
+As usual, problems should be directed to webmaster@opensuse.org or the wiki mailing list.Â  Thanks!

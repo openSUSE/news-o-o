@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-04-18 13:00:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/04/18/heinlein-support-becomes-opensuse-project-sponsor/
-title: "Heinlein Support Becomes openSUSE Project Sponsor"
+slug: heinlein-support-becomes-opensuse-project-sponsor
+title: Heinlein Support Becomes openSUSE Project Sponsor
+wordpress_id: 13066
 categories:
 - Announcements
 - Project
 ---
-![Logo_heinlein-professional-linux-support]({{ site.baseurl }}/assets/Logo_heinlein-professional-linux-support.png)The openSUSE community is proud to welcome [Heinlein Support](http://heinlein-support.de/) as new sponsor to the project! Heinlein is a Linux specialist offering training, consulting and hosting focused on the German market and will help us with our mail infrastructure.<!-- more -->
+
+![Logo_heinlein-professional-linux-support](/wp-content/uploads/2012/03/Logo_heinlein-professional-linux-support.png)The openSUSE community is proud to welcome [Heinlein Support](http://heinlein-support.de/) as new sponsor to the project! Heinlein is a Linux specialist offering training, consulting and hosting focused on the German market and will help us with our mail infrastructure.<!-- more -->
 
 
 ## Introducing Heinlein
@@ -33,6 +36,3 @@ We are happy to announce that [Heinlein Support](http://heinlein-support.de/) is
 Henne Vogelsang told us:
 
 <blockquote>I believe Peer and his crew will help us to take our mail infrastructure to the next level and I'm happy that we have the opportunity to work together with them. I mean that guy wrote a book about postfix and has tons of hands-on experience with mail infrastructure, how awesome is that?</blockquote>
-
-
-		

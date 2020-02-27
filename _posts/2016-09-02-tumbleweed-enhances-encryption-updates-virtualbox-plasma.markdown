@@ -1,12 +1,15 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-09-02 05:26:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/09/02/tumbleweed-enhances-encryption-updates-virtualbox-plasma/
-title: "Tumbleweed Enhances Encryption, has Massive Updates"
+slug: tumbleweed-enhances-encryption-updates-virtualbox-plasma
+title: Tumbleweed Enhances Encryption, has Massive Updates
+wordpress_id: 20092
 ---
-![Tumbleweed-black-green]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)openSUSE users are at no loss for getting new software as this week the rolling distribution [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) had several snapshot releases and there was a b[eta release for openSUSE Leap 42.2](https://news.opensuse.org/2016/08/31/opensuse-releases-leap-beta-modifies-road-map/).
+
+![Tumbleweed-black-green](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)openSUSE users are at no loss for getting new software as this week the rolling distribution [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) had several snapshot releases and there was a b[eta release for openSUSE Leap 42.2](https://news.opensuse.org/2016/08/31/opensuse-releases-leap-beta-modifies-road-map/).
 
 openSUSE’s rolling distribution Tumbleweed, which was originally created by Linux kernel developer Greg Kroah-Hartman, had six snapshots two weeks ago and four last week. This week we will look at another six snapshots.
 
@@ -20,4 +23,4 @@ Release [20160825](https://lists.opensuse.org/opensuse-factory/2016-08/msg00498.
 
 Grub2 and [Xen](https://www.xenproject.org/) had updates in the [20160826](https://lists.opensuse.org/opensuse-factory/2016-08/msg00511.html) snapshot. The PDF rendering library [Poppler ](https://poppler.freedesktop.org/)updated to version 0.47 and wayland-protocols updated to 1.6, which added to two new protocols.
 
-Snapshot [20160828](https://lists.opensuse.org/opensuse-factory/2016-08/msg00540.html) had few updates, but one that was upstreamly fast in Tumbleweed. Kernel-firmware 20160824 made it into Tumbleweed four days after upstream released the firmware. GNOME Map users had an update to version 3.20.3 and disk encryption package cryptsetup updated from 1.7.0 to 1.7.2.		
+Snapshot [20160828](https://lists.opensuse.org/opensuse-factory/2016-08/msg00540.html) had few updates, but one that was upstreamly fast in Tumbleweed. Kernel-firmware 20160824 made it into Tumbleweed four days after upstream released the firmware. GNOME Map users had an update to version 3.20.3 and disk encryption package cryptsetup updated from 1.7.0 to 1.7.2.

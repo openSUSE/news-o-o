@@ -1,15 +1,18 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2012-07-12 14:39:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/07/12/opensuse-12-2-rc1-available-for-testing/
-title: "openSUSE 12.2 RC1 Available for Testing"
+slug: opensuse-12-2-rc1-available-for-testing
+title: openSUSE 12.2 RC1 Available for Testing
+wordpress_id: 13716
 categories:
 - Announcements
 - Distribution
 ---
-[![]({{ site.baseurl }}/assets/gdm-300x225.png)](https://news.opensuse.org/2012/07/12/opensuse-12-2-rc1-available-for-testing/gdm/)openSUSE 12.2 Release Candidate 1 is now available to download.
+
+[![](/wp-content/uploads/2012/07/gdm.png)](http://news.opensuse.org/2012/07/12/opensuse-12-2-rc1-available-for-testing/gdm/)openSUSE 12.2 Release Candidate 1 is now available to download.
 
 
 ## Get it
@@ -55,4 +58,4 @@ The month of August will see intensive bugfixing, so get testing and reporting. 
 
 Packagers and testers should be aware that openSUSE 12.2 development happens on its own branch, so Factory is ahead of 12.2 now. The public 12.2 repository will be updated next with RC2 and updates will be available as online updates.
 
-Changes to the development model for openSUSE continue to be discussed on the opensuse-factory mailing list.		
+Changes to the development model for openSUSE continue to be discussed on the opensuse-factory mailing list.

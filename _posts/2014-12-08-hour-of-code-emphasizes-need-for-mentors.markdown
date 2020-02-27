@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-12-08 11:46:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/12/08/hour-of-code-emphasizes-need-for-mentors/
-title: "Hour of Code reinforces need for project mentors"
+slug: hour-of-code-emphasizes-need-for-mentors
+title: Hour of Code reinforces need for project mentors
+wordpress_id: 18884
 categories:
 - Google Summer of Code
 tags:
@@ -20,7 +22,6 @@ tags:
 - Weekly
 - Weekly News
 ---
-
 
 ### Administrators, mentors needed for Google Summer of Code
 
@@ -41,4 +42,4 @@ Administrators start the GSOC process and submit proposals for the mentoring org
 
 To participate in this project, visit our [GSOC portal](http://bit.ly/1BsP7uY) or learn more at [GSOC](http://bit.ly/1w5aEGw).
 
-Learn more about the [Hour of Code](http://bit.ly/1ub9nIO) campaign.		
+Learn more about the [Hour of Code](http://bit.ly/1ub9nIO) campaign.

@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2019-02-07 12:25:26+00:00
 layout: post
 link: https://news.opensuse.org/2019/02/07/major-version-updates-of-bash-libvirt-openconnect-arrive-in-tumbleweed/
-title: "Major Version Updates of Bash, libvirt, OpenConnect Arrive in Tumbleweed\
-  "
-image: /assets/Tumbleweed-black-green-300x127.png
+slug: major-version-updates-of-bash-libvirt-openconnect-arrive-in-tumbleweed
+title: Major Version Updates of Bash, libvirt, OpenConnect Arrive in Tumbleweed
+wordpress_id: 21687
 categories:
 - Announcements
 - Tumbleweed
@@ -47,7 +48,8 @@ tags:
 - Tumbleweed
 - Xen
 ---
-Another three snapshots were released this week for [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) bringing updates for [ImageMagick](https://www.imagemagick.org/), [Mesa](https://www.mesa3d.org/), [Apache](https://www.apache.org/), [Ceph](https://ceph.com/), [Flatpak Builder](http://docs.flatpak.org/en/latest/flatpak-builder.html), [Python](https://www.python.org/) and more. Plus, new major versions of [Bash](https://www.gnu.org/software/bash/), [glusterfs](http://docs.gluster.org/), [libvirt ](https://libvirt.org/)and [openconnect](http://www.infradead.org/openconnect/) were updated this week.
+
+![](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)Another three snapshots were released this week for [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) bringing updates for [ImageMagick](https://www.imagemagick.org/), [Mesa](https://www.mesa3d.org/), [Apache](https://www.apache.org/), [Ceph](https://ceph.com/), [Flatpak Builder](http://docs.flatpak.org/en/latest/flatpak-builder.html), [Python](https://www.python.org/) and more. Plus, new major versions of [Bash](https://www.gnu.org/software/bash/), [glusterfs](http://docs.gluster.org/), [libvirt ](https://libvirt.org/)and [openconnect](http://www.infradead.org/openconnect/) were updated this week.
 
 The first snapshot of the week, [20190201](https://lists.opensuse.org/opensuse-factory/2019-02/msg00063.html), was a complete rebuild of the distribution and the snapshots released since have gradually improved in quality, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/).
 
@@ -57,4 +59,4 @@ The [20190202](https://lists.opensuse.org/opensuse-factory/2019-02/msg00120.html
 
 <!-- more -->Snapshot [20190201](https://lists.opensuse.org/opensuse-factory/2019-02/msg00063.html) had several package fixes including a major version update for [bash](https://www.gnu.org/software/bash/). Bash 5.0 had a bug fixed that caused a shell comment in an alias to not find the end of the alias properly. The utilities package for maintaining the ext2, ext3 and ext4 file systems e2fsprogs 1.44.5 now allows for e2image to include [Multiple Mount Protection](http://wiki.old.lustre.org/images/6/66/MMP-HLD.pdf) block. [Flatpak-builder](https://github.com/flatpak/flatpak-builder) 1.0.3, which allows developers to make applications that run on multiple Linux distributions, added a new default-branch manifest option to allow overridable. The 4.20.4 Linux Kernel was also made available in this snapshot. The [python3](https://www.python.org/download/releases/3.0/) 3.7.2 removed several patches and stopped applying the [python-3.6.0-multilib-new.patch](https://bugs.python.org/file46301/python-3.6.0-multilib-new.patch) and applied the old proven [python-3.6.0-multilib.patch](https://github.com/openembedded/openembedded-core/blob/master/meta/recipes-devtools/python/python3/python-3.3-multilib.patch) instead. The sudo 1.8.27 package fixed a bug introduced in 1.8.22 where utm/p/utmpx would not be updated when a command was run in a [pseudo-tty](https://en.wikipedia.org/wiki/Pseudoterminal). The file manager package for the Xfce Desktop Environment [thunar 1.8.4](https://mail.xfce.org/pipermail/xfce-announce/2018-September/000639.html) add support for folder.jpg and fixed the standard view border during drag and drop. More than 30 other packages were updated in the snapshot.
 
-Snapshot [20190201](https://lists.opensuse.org/opensuse-factory/2019-02/msg00063.html) has a pending unstable rating of 40, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20190202](https://lists.opensuse.org/opensuse-factory/2019-02/msg00120.html) is also trending unstable rating of 62. The newest snapshot, [20190205](https://lists.opensuse.org/opensuse-factory/2019-02/msg00178.html), is trending at a moderate rating of 79.		
+Snapshot [20190201](https://lists.opensuse.org/opensuse-factory/2019-02/msg00063.html) has a pending unstable rating of 40, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20190202](https://lists.opensuse.org/opensuse-factory/2019-02/msg00120.html) is also trending unstable rating of 62. The newest snapshot, [20190205](https://lists.opensuse.org/opensuse-factory/2019-02/msg00178.html), is trending at a moderate rating of 79.

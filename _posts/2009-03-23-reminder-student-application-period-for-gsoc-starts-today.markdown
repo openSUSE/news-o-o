@@ -1,16 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2009-03-23 14:54:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/03/23/reminder-student-application-period-for-gsoc-starts-today/
-title: "Reminder: Student Application Period for GSoC Starts Today"
+slug: reminder-student-application-period-for-gsoc-starts-today
+title: 'Reminder: Student Application Period for GSoC Starts Today'
+wordpress_id: 1324
 categories:
 - Google Summer of Code
 ---
+
 Quick reminder: The student application period [starts today](http://socghop.appspot.com/program/home/google/gsoc2009) for the Google Summer of Code 2009.
 
-(See the [previous post on GSoC and openSUSE](https://news.opensuse.org/2009/03/19/opensuse-project-accepted-to-google-summer-of-code-2009/).)
+(See the [previous post on GSoC and openSUSE](http://news.opensuse.org/2009/03/19/opensuse-project-accepted-to-google-summer-of-code-2009/).)
 
 If you'd like to work with openSUSE, be sure to sign up as soon as possible. The deadline is April 3rd.
 
@@ -45,4 +48,4 @@ The [rest is on the Google FAQ](http://socghop.appspot.com/document/show/program
 
 The [deadline for student applications](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#timeline) is April 3rd. There's also a [visual timeline](http://is.gd/oyaO) created by Christian Moore.
 
-Read all the FAQ and Google documentation, but still have questions? Ask on the opensuse-project list or [drop me a note](mailto:zonker@opensuse.org).		
+Read all the FAQ and Google documentation, but still have questions? Ask on the opensuse-project list or [drop me a note](mailto:zonker@opensuse.org).

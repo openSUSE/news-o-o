@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-04-02 07:21:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/04/02/call-for-hosts-for-opensuse-asia-summit-2015/
-title: "Call for hosts for openSUSE.Asia Summit 2015"
+slug: call-for-hosts-for-opensuse-asia-summit-2015
+title: Call for hosts for openSUSE.Asia Summit 2015
+wordpress_id: 19183
 categories:
 - Summit
 ---
-({{ site.baseurl }}/assets/Logo.png) Submit proposals for the openSUSE Asia Summit 2015
+
+[caption id="attachment_18545" align="alignright" width="300"][![openSUSE Asia Summit 2014](/wp-content/uploads/2014/09/Logo.png)](/wp-content/uploads/2014/09/Logo.png) Submit proposals for the openSUSE Asia Summit 2015[/caption]
 
 The openSUSE.Asia organization committee is inviting proposals to host the openSUSE.Asia Summit during the later half of 2015. The openSUSE.Asia Summit is the featured annual openSUSE conference in Asia.
 
@@ -73,4 +76,4 @@ Key points proposals should consider, and what will be taken into account when d
 
 10. Conclusion
 
-Feel free to contact [opensuse-summit@opensuse.org](mailto:opensuse-summit@opensuse.org) if you have any questions. Please help to spread the words and we are looking forward to hearing from you soon!		
+Feel free to contact [opensuse-summit@opensuse.org](mailto:opensuse-summit@opensuse.org) if you have any questions. Please help to spread the words and we are looking forward to hearing from you soon!

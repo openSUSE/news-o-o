@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-12-01 12:00:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/01/third-opensuse-board-election-2010/
-title: "Third openSUSE Board Election 2010"
+slug: third-opensuse-board-election-2010
+title: Third openSUSE Board Election 2010
+wordpress_id: 5591
 categories:
 - Announcements
 - Board
@@ -14,6 +16,7 @@ tags:
 - News
 - opensuse
 ---
+
 We are pleased to announce the [openSUSE Board Election 2010](http://en.opensuse.org/openSUSE:Board_election_2010)! The Election Committee this year is staffed by:
 
 ![geeko wants you](http://zonker.opensuse.org/wp-content/uploads/2008/09/uncle_geeko.jpg) [Stathis Iosifidis](http://en.opensuse.org/User:Diamond_gr) , [Sascha Manns](http://en.opensuse.org/User:saigkill), [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), [Thomas Schmidt](http://en.opensuse.org/User:Digitaltomm)
@@ -99,7 +102,7 @@ All phases start and end on the given dates at 12:00 [UTC](http://www.wikipedia.
 ## Seats to get elected
 
 
-In this election we will have 2 seats to get elected, as the  election period of [Pascal Bleser](http://en.opensuse.org/User:Pbleser) and [Henne Vogelsang](http://en.opensuse.org/User:Hennevogel) ends.  We will probably also get a new chairman, as [Michael Löffler](http://en.opensuse.org/User:Michl19) will leave as well.
+In this election we will have 2 seats to get elected, as the  election period of [Pascal Bleser](http://en.opensuse.org/User:Pbleser) and [Henne Vogelsang](http://en.opensuse.org/User:Hennevogel) ends.  We will probably also get a new chairman, as [Michael LÃ¶ffler](http://en.opensuse.org/User:Michl19) will leave as well.
 
 So in this election the openSUSE community elects two new members.
 
@@ -114,7 +117,7 @@ With the existing company affiliations in the board (Pavol -  Novell, Bryen - no
 Prospective candidates are encouraged to read [this](http://lwn.net/Articles/211548/) lwn.net article that gives some insight on how to apply to a board position.
 
 
-## What is the openSUSE Board?[![Image from flickr.com / User Dorkstar ]({{ site.baseurl }}/assets/384826104_563552a2e0_z-300x189.jpg)](https://news.opensuse.org/2010/12/01/third-opensuse-board-election-2010/384826104_563552a2e0_z/)
+## What is the openSUSE Board?[![Image from flickr.com / User Dorkstar ](/wp-content/uploads/2010/11/384826104_563552a2e0_z.jpg)](http://news.opensuse.org/2010/12/01/third-opensuse-board-election-2010/384826104_563552a2e0_z/)
 
 
 The [openSUSE board](http://en.opensuse.org/openSUSE:Board) consists of 5 members elected by the community and one chair person appointed by Novell. It was setup to lead the overall project. It's main tasks are:
@@ -136,4 +139,4 @@ The [openSUSE board](http://en.opensuse.org/openSUSE:Board) consists of 5 member
 	
   * Facilitate decision making processes where needed.
 
-		
+

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-12-08 09:39:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/12/08/git-kernels-lightdm-more-update-in-tumbleweed/
-title: "Git, Kernels, LightDM, More update in Tumbleweed"
+slug: git-kernels-lightdm-more-update-in-tumbleweed
+title: Git, Kernels, LightDM, More update in Tumbleweed
+wordpress_id: 20255
 categories:
 - Tumbleweed
 tags:
@@ -24,6 +26,7 @@ tags:
 - Wayland
 - x11
 ---
+
 Many packages made it into openSUSE Tumbleweed snapshots this week and two minor kernel versions were just a couple of the several updates that landed in the repositories.
 
 Eight snapshots this week brought both minor and major releases.
@@ -52,4 +55,4 @@ Snapshot [20161205](https://lists.opensuse.org/opensuse-factory/2016-12/msg00088
 
 The snapshot released less that 12 hours ago, snapshot [20161206](https://lists.opensuse.org/opensuse-factory/2016-12/msg00115.html), brought a patch to the client application known as [Tigervnc](http://tigervnc.org/), which allows users to launch and interact with graphical applications on remote machines. The [Virt-viewer 5.0](https://virt-manager.org/download/) update that landed in Tumbleweed fixes a leak on file transfers for virtual machines and fixes problems with resizing with GTK client.
 
-Snapshot [20161207](https://lists.opensuse.org/opensuse-factory/2016-12/msg00123.html), which landed two hours ago, updated GNOME Software to version 3.22.3; the update fixes the search results page for the [Software Center of GNOME](https://wiki.gnome.org/Apps/Software). Some of the updates in the [20161207](https://lists.opensuse.org/opensuse-factory/2016-12/msg00123.html) snapshot are preparation for the introduction of GTK4, which is going through a legal review before it makes its way through the staging phases to be released in a Tumbleweed snapshot.		
+Snapshot [20161207](https://lists.opensuse.org/opensuse-factory/2016-12/msg00123.html), which landed two hours ago, updated GNOME Software to version 3.22.3; the update fixes the search results page for the [Software Center of GNOME](https://wiki.gnome.org/Apps/Software). Some of the updates in the [20161207](https://lists.opensuse.org/opensuse-factory/2016-12/msg00123.html) snapshot are preparation for the introduction of GTK4, which is going through a legal review before it makes its way through the staging phases to be released in a Tumbleweed snapshot.

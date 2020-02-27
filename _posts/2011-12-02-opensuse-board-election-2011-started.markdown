@@ -1,17 +1,18 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2011-12-02 13:50:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/12/02/opensuse-board-election-2011-started/
-title: "openSUSE Board election 2011 started"
+slug: opensuse-board-election-2011-started
+title: openSUSE Board election 2011 started
+wordpress_id: 12134
 categories:
 - Announcements
 - Project
 ---
 
-
-[![]({{ site.baseurl }}/assets/elections2011.jpeg)](https://news.opensuse.org/2011/12/02/opensuse-board-election-2011-started/elections2011/)
+[![](/wp-content/uploads/2011/12/elections2011.jpeg)](http://news.opensuse.org/2011/12/02/opensuse-board-election-2011-started/elections2011/)
     
 
 
@@ -28,4 +29,4 @@ If you have any questions, please contact the election officials ([election-offi
 Greetings
 
 [1] [http://en.opensuse.org/Members
-](http://en.opensuse.org/Members) [2][ http://en.opensuse.org/](http://en.opensuse.org/openSUSE:Board_election_2011)[openSUSE:Board_election_2011](http://en.opensuse.org/openSUSE:Board_election_2011)		
+](http://en.opensuse.org/Members) [2][ http://en.opensuse.org/](http://en.opensuse.org/openSUSE:Board_election_2011)[openSUSE:Board_election_2011](http://en.opensuse.org/openSUSE:Board_election_2011)

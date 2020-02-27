@@ -1,11 +1,14 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-09-01 15:32:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/09/01/throw-a-beta-pizza-party/
-title: "Throw a Beta Pizza Party"
+slug: throw-a-beta-pizza-party
+title: Throw a Beta Pizza Party
+wordpress_id: 20087
 ---
+
 [![Prosciutto, anchovy and onion pizza.](http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)openSUSE Betas are pizza party time.  Have a Pizza Party and test the openSUSE Leap 42.2 Beta.
 
 Geeko in Nuremberg will have a party on Sept. 7 at 10:00 UTC. Any Beta tester in Nuremberg is welcome to attend.
@@ -29,4 +32,4 @@ Bugs should be reported and can be tracked via [Bugzilla](https://bugzilla.opens
 
 Discussions about openSUSE development takes place on the [factory mailing list](http://lists.opensuse.org/opensuse-factory). [openSUSE Factory.](http://en.opensuse.org/Portal:Factory) If you want to help out, please see the wiki page on [contributing to Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory). Contributing is easy and very welcomed!
 
-Have a lot of fun		
+Have a lot of fun

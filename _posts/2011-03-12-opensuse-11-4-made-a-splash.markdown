@@ -1,10 +1,12 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-03-12 00:37:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/
-title: "openSUSE 11.4 made a splash"
+slug: opensuse-11-4-made-a-splash
+title: openSUSE 11.4 made a splash
+wordpress_id: 7644
 categories:
 - Distribution
 - Infrastructure
@@ -15,9 +17,10 @@ tags:
 - release
 - statistics
 ---
+
 Yesterday, openSUSE 11.4 saw the light of day. This release introduced some [awesome new features](http://en.opensuse.org/Product_highlights) and this was noticed by Linux users on social media and the press around the world. Of course we've got a huge spike in visits but also the number of downloads has been enormous, almost twice as much as for the openSUSE 11.3 release!<!-- more -->
 
-(https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/party-time-on-second-life/)
+[caption id="attachment_7645" align="alignright" width="300" caption="Party time on second life for openSUSE 11.4"][![Party time on second life for openSUSE 11.4](/wp-content/uploads/2011/03/party-time-on-second-life.jpg)](http://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/party-time-on-second-life/)[/caption]
 
 
 ## Press on openSUSE
@@ -32,7 +35,7 @@ While openSUSE has been released less than 36 hours ago, a large [number of revi
 At Eye on Linux Jim Linch [says about openSUSE 11.4](http://eyeonlinux.com/2011/03/10/quick-look-opensuse-11-4/):
 
 
-<blockquote>It™s arguably one of the best desktop distros available, and I expect it to remain among the top choices for a long time.</blockquote>
+<blockquote>Itâ€™s arguably one of the best desktop distros available, and I expect it to remain among the top choices for a long time.</blockquote>
 
 
 Jay Lyman, senior analyst for enterprise software at The 451 Group, was quoted by [V3.co.uk](http://www.v3.co.uk/) on openSUSE 11.4 saying:
@@ -62,7 +65,7 @@ For those preferring Real Life over Second Life, there will be [Launch Parties](
 ## The numbers
 
 
-But the above is all talk (and party). What counts are the numbers - and they are big. To just talk about the number of downloads via [software.opensuse.org](http://software.opensuse.org/114/en) we've almost doubled the numbers of downloads in the first 24 hours compared to [our previous 11.3 release](https://news.opensuse.org/2010/07/16/opensuse-11-3-launch-information/)! Well over 90.000 downloads from our website with another 12 thousand via Bittorrent in one day is quite impressive.
+But the above is all talk (and party). What counts are the numbers - and they are big. To just talk about the number of downloads via [software.opensuse.org](http://software.opensuse.org/114/en) we've almost doubled the numbers of downloads in the first 24 hours compared to [our previous 11.3 release](http://news.opensuse.org/2010/07/16/opensuse-11-3-launch-information/)! Well over 90.000 downloads from our website with another 12 thousand via Bittorrent in one day is quite impressive.
 
 
 ### Not perfectly accurate, but...
@@ -142,4 +145,4 @@ Torrents worked really well for this release thanks to the many seeders, several
 ## Thank you
 
 
-The openSUSE launch on Thursday was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. We'd  like to thank all of them. Moreover, we'd like to thank the sysadmin team for the hard work they did to make the changes to the websites so users could download their brand new openSUSE 11.4! We'd also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you haven't yet!) and of course all many contributors of openSUSE who helped to make this release possible! Finally, a shout to [our sponsors](http://en.opensuse.org/Sponsors) Novell, AMD, IP Exchange and B1!		
+The openSUSE launch on Thursday was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. We'd  like to thank all of them. Moreover, we'd like to thank the sysadmin team for the hard work they did to make the changes to the websites so users could download their brand new openSUSE 11.4! We'd also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you haven't yet!) and of course all many contributors of openSUSE who helped to make this release possible! Finally, a shout to [our sponsors](http://en.opensuse.org/Sponsors) Novell, AMD, IP Exchange and B1!

@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-11-08 19:49:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/11/08/opensuse-weekly-news-issue-45/
-title: "openSUSE Weekly News, Issue 45"
+slug: opensuse-weekly-news-issue-45
+title: openSUSE Weekly News, Issue 45
+wordpress_id: 1077
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #45 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/45)!  
-In this week™s issue:
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #45 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/45)!  
+In this weekâ€™s issue:
 
 
   * Lukas Ocilka: YaST-Mascot Contest-How to submit your ideas
@@ -31,4 +34,4 @@ The openSUSE Weekly News is translated to:
 [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/45), 
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/45), 
 [Portuguese](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/45) and 
-[Indonesian](http://en.opensuse.org/OpenSUSE_Weekly_News/45/indonesian) . You can purchase our product at discounted price from our website and can [free printable preschool writing paper](https://majesticpapers.com/) get access to our ibm c2010-555 exam braidumps preparation material		
+[Indonesian](http://en.opensuse.org/OpenSUSE_Weekly_News/45/indonesian) . You can purchase our product at discounted price from our website and can  get access to our ibm c2010-555 exam braidumps preparation material

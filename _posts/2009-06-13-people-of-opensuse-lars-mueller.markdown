@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2009-06-13 03:35:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/06/13/people-of-opensuse-lars-mueller/
-title: "People of openSUSE: Lars Müller"
+slug: people-of-opensuse-lars-mueller
+title: 'People of openSUSE: Lars MÃ¼ller'
+wordpress_id: 1767
 categories:
 - People of openSUSE
 ---
-
 
 Lars Mueller is one of Samba developers.
 
@@ -22,16 +23,105 @@ He has universal views on Linux and openSUSE, and as you going to see, you can a
 
 
 
-![lars-mueller]({{ site.baseurl }}/assets/lars-mueller.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|Lieschen|
-|**Homepage:**|[http://samba.org/~lmuelle](http://samba.org/~lmuelle)|
-|**Blog:**|No blog (yet).  I'm already talking to much.  But thanks for the suggestion.  A blog would allow more communication without the need to listen.  At least if the opportunity to comment is disabled.|
-|||
-|**Favorite season:**|Spring and winter.|
-|**Motto:**|"Always in motion" as (I hope) I never stand still.|
-|||
+
+<table border="0" >
+<tbody >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![lars-mueller](/wp-content/uploads/2009/06/lars-mueller.jpg)
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Nicknames:**
+</td>
+
+<td >Lieschen
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Homepage: **
+</td>
+
+<td >[http://samba.org/~lmuelle](http://samba.org/~lmuelle)
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Blog:**
+</td>
+
+<td >No blog (yet).  I'm already talking to much.  But thanks for the suggestion.  A blog would allow more communication without the need to listen.  At least if the opportunity to comment is disabled.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Favorite season:**
+</td>
+
+<td >Spring and winter.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Motto:**
+</td>
+
+<td >"Always in motion" as (I hope) I never stand still.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</tbody></table>
+
+
 
 
 
@@ -270,7 +360,7 @@ Being able to quit emacs without the kill command.  Honestly my firmware version
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 Happy for at least one hour.  No new mails by bugzilla.
@@ -385,8 +475,8 @@ Yes.
 #### Show us a picture of something, you have always wanted to share!
 
 
-![viecherteam]({{ site.baseurl }}/assets/viecherteam.jpeg)
-is a picture of the team which maintained the network in our old flat in Göttingen.  You also see (one) of the laptops I later unintentionally killed by flooding it with milk.  Yes, there are reasons why newer systems have these drains.
+![viecherteam](/wp-content/uploads/2009/06/viecherteam.jpeg)
+is a picture of the team which maintained the network in our old flat in GÃ¶ttingen.  You also see (one) of the laptops I later unintentionally killed by flooding it with milk.  Yes, there are reasons why newer systems have these drains.
 
 
 
@@ -418,5 +508,3 @@ The $1.000.000, cause I believe it would make my life much harder to decide how 
 
 The question?  I don't know.
 
-
-		

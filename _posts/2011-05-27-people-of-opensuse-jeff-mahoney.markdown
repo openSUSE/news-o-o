@@ -1,28 +1,126 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-05-27 18:03:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/05/27/people-of-opensuse-jeff-mahoney/
-title: "People of openSUSE: Jeff Mahoney"
+slug: people-of-opensuse-jeff-mahoney
+title: 'People of openSUSE: Jeff Mahoney'
+wordpress_id: 8817
 categories:
 - People of openSUSE
 ---
 
+<table cellpadding="2" width="643" cellspacing="0" > 
+<tbody >
+<tr >
+
+<td width="105" >**Nickname:**
+</td>
+
+<td width="520" >
+
+
+Jeff
+
+
+
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Homepage: **
+</td>
+
+<td width="520" >h[ttp://www.jeffreymahoney.com/](http://www.jeffreymahoney.com/)
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Blog:**
+</td>
+
+<td width="520" >
+
+
+N/A
+
+
+
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >
+</td>
+
+<td width="520" >
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Favorite 			season:**
+</td>
+
+<td width="520" >
+
+
+Summer
+
+
+
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Motto:**
+</td>
+
+<td width="520" >
+
+
+Appreciate the little victories
+
+
+
+</td>
+
+<td width="5" >
+</td>
+</tr>
+<tr >
+
+<td width="105" >
+</td>
+
+<td width="520" >
+</td>
+
+<td width="5" >
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <!-- more -->
 
 
-|||
-|--- |--- |
-|**Nickname:**|Jeff|
-|**Homepage:**|h[ttp://www.jeffreymahoney.com/](http://www.jeffreymahoney.com/)|
-|**Blog:**|N/A|
-|||
-|**Favorite season:**|Summer|
-|**Motto:**|Appreciate the little victories|
-|||
 
 
 
@@ -95,7 +193,7 @@ I believe that openSUSE is technically superior to the other community Linux dis
 
 
 
-#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you™re most proud of?
+#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that youâ€™re most proud of?
 
 
 
@@ -204,7 +302,7 @@ Most of the ones who work SUSE as their day jobs. I haven't had many opportuniti
 
 
 
-#### What is the application you can™t live without? And why?
+#### What is the application you canâ€™t live without? And why?
 
 
 
@@ -240,7 +338,7 @@ I wish I had a better knack for user interface design.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 
@@ -296,7 +394,7 @@ Being a hugely technical person, I like my vacations to be as far away from tech
 
 
 
-#### There™s a thunderstorm outside ” do you turn off your computer?
+#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
 
 
 
@@ -325,9 +423,7 @@ Of course. :)
 
 
 
-![]({{ site.baseurl }}/assets/jeff-300x298.jpg)
+![](/wp-content/uploads/2011/05/jeff.jpg)
 
 
 
-
-		

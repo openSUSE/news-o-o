@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-03-19 22:39:00+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/03/19/opensuse-project-accepted-to-google-summer-of-code-2009/
-title: "openSUSE Project Accepted to Google Summer of Code 2009"
+slug: opensuse-project-accepted-to-google-summer-of-code-2009
+title: openSUSE Project Accepted to Google Summer of Code 2009
+wordpress_id: 1314
 categories:
 - Announcements
 - Google Summer of Code
 ---
+
 Once again, the openSUSE Project will be participating in Google's Summer of Code program! openSUSE was one of the 150 mentoring organizations accepted this year, and we're excited to have the chance to work with students on [projects to improve the openSUSE distribution and its tools](http://en.opensuse.org/Summer_of_Code_2009#Ideas).
 
 
@@ -41,4 +44,4 @@ If your proposal is accepted, expect to do a great deal of work over the summer.
 
 There's still time to submit [ideas](http://en.opensuse.org/Summer_of_Code_2009#Ideas) on the openSUSE wiki. Preferably, these will be from students or mentors who will work on the ideas -- but that's not a requirement. If you have a great idea, feel free to put it up.
 
-If you have questions about participating in the Google Summer of Code in general, check out the #gsoc channel on Freenode. If you have questions specific to the openSUSE Project, email [zonker@opensuse.org](mailto:zonker@opensuse.org) or ask on the openSUSE Project (opensuse-project@opensuse.org) mailing list.		
+If you have questions about participating in the Google Summer of Code in general, check out the #gsoc channel on Freenode. If you have questions specific to the openSUSE Project, email [zonker@opensuse.org](mailto:zonker@opensuse.org) or ask on the openSUSE Project (opensuse-project@opensuse.org) mailing list.

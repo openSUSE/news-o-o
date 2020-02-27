@@ -1,16 +1,19 @@
 ---
 author: Ricardo Chung
+comments: true
 date: 2014-04-04 13:36:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/04/whats-up-on-kde-repositories/
-title: "What's up on KDE repositories"
+slug: whats-up-on-kde-repositories
+title: What's up on KDE repositories
+wordpress_id: 17795
 categories:
 - Announcements
 - Distribution
 tags:
 - KDE
 ---
+
 Dear KDE Users,
 
 Maybe you have heard already about it from another openSUSE mailing list, aÂ blog post or through our openSUSE community page on Google+, but the KDEÂ repositories have been changed since last Tuesday. Below you will find theÂ changes that were done based on the release of KDE 4.12.4.
@@ -34,4 +37,4 @@ update their pages as well.
 
 Regards,
 
-Raymond		
+Raymond

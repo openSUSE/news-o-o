@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-11-19 12:00:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/11/19/opensuse-13-1-ready-for-action/
-title: "openSUSE 13.1: Ready For Action!"
+slug: opensuse-13-1-ready-for-action
+title: 'openSUSE 13.1: Ready For Action!'
+wordpress_id: 16841
 categories:
 - Announcements
 - Distribution
 ---
-Dear contributors, friends and fans: The release is here! Eight months of planning, packaging, adding features, fixing issues, testing and fixing more issues has brought you the best that Free and Open Source has to offer, with our Green touch: Stable and Awesome.[![The geeko has landed]({{ site.baseurl }}/assets/openSUSE_moonlight.png)](http://software.opensuse.org)
+
+Dear contributors, friends and fans: The release is here! Eight months of planning, packaging, adding features, fixing issues, testing and fixing more issues has brought you the best that Free and Open Source has to offer, with our Green touch: Stable and Awesome.[![The geeko has landed](//news.opensuse.org/wp-content/uploads/2013/11/openSUSE_moonlight.png)](http://software.opensuse.org)
 
 
 (_In other languages_: [cs](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD) [de](http://de.opensuse.org/Release-Ank%C3%BCndigung) [es](http://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_13.1) [fr](http://fr.opensuse.org/Annonce_de_version) [it](http://it.opensuse.org/Release_announcement) [ja](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [nl](http://nl.opensuse.org/Release_announcement) [ru](http://ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [zh](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E) [zh-tw](https://zh-tw.opensuse.org/Release_announcement))
@@ -145,10 +148,10 @@ This release comes with a number of experimental technologies to try out. This i
 
 
 
-<blockquote>We're proud of this release and of all those who worked on it. With a steady increase in contributors there was a lot of hard work put in by so many people from around the globe. Without all these contributors, initiatives like support for ARM would not be possible and we're very thankful for their input.</blockquote>
+<blockquote>â€œWe're proud of this release and of all those who worked on it. With a steady increase in contributors there was a lot of hard work put in by so many people from around the globe. Without all these contributors, initiatives like support for ARM would not be possible and we're very thankful for their input.â€</blockquote>
 
 
-_“ said openSUSE Board member Andrew Wafaa_.
+_â€“ said openSUSE Board member Andrew Wafaa_.
 <!-- more -->
 
 
@@ -172,7 +175,7 @@ _“ said openSUSE Board member Andrew Wafaa_.
 
 
 **KDE**
-KDE Plasma Desktop is the default in openSUSE, and the 4.11 version of this Free Desktop is a long term maintained release. This release brings speed improvements in Desktop Search, file and window management, improved multi-monitor handling, brand new delayed mail sending feature and scam detection for KDE PIM and much more. Also new is deeper Android integration in the desktop and in the Amarok music player. See this [great introduction](https://news.opensuse.org/?p=17213) to Plasma Desktop on openSUSE 13.1.
+KDE Plasma Desktop is the default in openSUSE, and the 4.11 version of this Free Desktop is a long term maintained release. This release brings speed improvements in Desktop Search, file and window management, improved multi-monitor handling, brand new delayed mail sending feature and scam detection for KDE PIM and much more. Also new is deeper Android integration in the desktop and in the Amarok music player. See this [great introduction](//news.opensuse.org/?p=17213) to Plasma Desktop on openSUSE 13.1.
 
 
 
@@ -190,7 +193,7 @@ KDE Plasma Desktop is the default in openSUSE, and the 4.11 version of this Free
 
 
 **GNOME**
-This release is very significant for the GNOME community, bringing a unified system status area, geolocation features, high-resolution display support and a collection of new and improved applications including Maps, Notes, Music and Photos. See the great [overview of what's new](https://news.opensuse.org/?p=16793) in GNOME 3.10 on openSUSE 13.1.
+This release is very significant for the GNOME community, bringing a unified system status area, geolocation features, high-resolution display support and a collection of new and improved applications including Maps, Notes, Music and Photos. See the great [overview of what's new](//news.opensuse.org/?p=16793) in GNOME 3.10 on openSUSE 13.1.
 
 
 
@@ -440,7 +443,7 @@ In this release, ActiveDoc replaces doc.opensuse.org and most of the packaged do
 
 
 **SUSE Studio**
-[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 13.1 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 13.1 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse other™s shared appliances on [SUSE Gallery](http://susegallery.com).
+[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 13.1 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 13.1 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse otherâ€™s shared appliances on [SUSE Gallery](http://susegallery.com).
 
 
 
@@ -448,10 +451,10 @@ In this release, ActiveDoc replaces doc.opensuse.org and most of the packaged do
 
 
 
-<blockquote>The openSUSE community has again done an amazing job. There was an incredible final testing- and bug fixing push over community channels the weeks before the release. we at SUSE are proud of being part of such an innovative team of technology enthusiasts.</blockquote>
+<blockquote>â€œThe openSUSE community has again done an amazing job. There was an incredible final testing- and bug fixing push over community channels the weeks before the release. we at SUSE are proud of being part of such an innovative team of technology enthusiasts.â€</blockquote>
 
 
-_“ said Ralf Flaxa, VP of engineering at SUSE_
+_â€“ said Ralf Flaxa, VP of engineering at SUSE_
 
 
 ## Maintenance and life cycle
@@ -479,10 +482,10 @@ Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Stab
 ## Thanks!
 
 
-13.1 represents the combined effort of thousands of developers who participate in our distributions and projects shipped with it. The contributors, inside and outside the openSUSE Project, should be proud of this release, and they deserve a major **thank you** for all of the hard work and care that have gone into it. We believe that 13.1 is the best openSUSE release yet, and that it will help to encourage the use of Linux everywhere! We hope that you all have a lot of fun while you're using it, and we look forward to working with you on the next release!
+13.1 represents the combined effort of thousands of developers who participate in our distributions and projects shipped with it. The contributors, inside and outside the openSUSE Project, should be proud of this release, and they deserve a major **â€œthank youâ€** for all of the hard work and care that have gone into it. We believe that 13.1 is the best openSUSE release yet, and that it will help to encourage the use of Linux everywhere! We hope that you all have a lot of fun while you're using it, and we look forward to working with you on the next release!
 
 
 ## About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world™s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)		
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the worldâ€™s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)

@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2012-10-20 11:03:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/20/live-streams-from-opensuse-conference/
-title: "Live streams from openSUSE Conference"
+slug: live-streams-from-opensuse-conference
+title: Live streams from openSUSE Conference
+wordpress_id: 14411
 categories:
 - Announcements
 - Conference
@@ -13,7 +15,6 @@ tags:
 - stream
 - video
 ---
-
 
 The SUSE Video team is happy to announce the availability of live streams from the [openSUSE Conference](http://conference.opensuse.org/). Just klick on the images or Room names below to start the live stream in your browser. If you want to get an overview about all recorded streams, just visit us on [openSUSEtv](http://bambuser.com/channel/opensusetv).
 
@@ -112,4 +113,4 @@ The SUSE Video team is happy to announce the availability of live streams from t
 </tr>
 </tbody>
 </table>
-LIVE by [opensusetv](http://bambuser.com/channel/opensusetv) from [openSUSE Conference](http://conference.opensuse.org).		
+LIVE by [opensusetv](http://bambuser.com/channel/opensusetv) from [openSUSE Conference](http://conference.opensuse.org).

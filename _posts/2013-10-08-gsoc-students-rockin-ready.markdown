@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-08 11:24:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/08/gsoc-students-rockin-ready/
-title: "GSoC Students Rockin' Ready!"
+slug: gsoc-students-rockin-ready
+title: GSoC Students Rockin' Ready!
+wordpress_id: 17011
 categories:
 - Google Summer of Code
 ---
-![gsocpic3]({{ site.baseurl }}/assets/gsocpic3.jpg)We reached the conclusion of yet another Google Summer of Code. Our students and mentors put in a lot of effort, writing and reviewing code, documenting it and in the process and sharing and learning a lot. We'd like to share with you some of the experiences of our students, mentors and of course the state of the projects!<!-- more -->
+
+![gsocpic3](//news.opensuse.org/wp-content/uploads/2013/10/gsocpic3.jpg)We reached the conclusion of yet another Google Summer of Code. Our students and mentors put in a lot of effort, writing and reviewing code, documenting it and in the process and sharing and learning a lot. We'd like to share with you some of the experiences of our students, mentors and of course the state of the projects!<!-- more -->
 
 
 
@@ -30,7 +33,7 @@ Xystushi created a Git review system. A lot of code has been refactored from gro
 
 
 Kshitij worked on creating tools for AppArmor Profiling. The command line versions have been created for all the tools. There were some setbacks on the YaST based GUI front-end, but the overall project was successful. Kshitij plans to complete the GUI based tools in the coming weeks. The code is hosted [at launchpad](https://launchpad.net/apparmor-profile-tools).
- ![gsocpic2]({{ site.baseurl }}/assets/gsocpic2.png)
+ ![gsocpic2](//news.opensuse.org/wp-content/uploads/2013/10/gsocpic2.png)
 
 
 
@@ -46,7 +49,7 @@ The code can be found [on github](https://github.com/akifkhan/SizeDog).
 
 
 The music app for owCloud lets you scan, browse and listen to your music. The final release is scheduled for the next ownCloud release.  The student Morris Jobke noted that the project was very exciting and that he learned a lot in developing for a large project like ownCloud community.
-![gsocpic4]({{ site.baseurl }}/assets/gsocpic4.png)
+![gsocpic4](//news.opensuse.org/wp-content/uploads/2013/10/gsocpic4.png)
 
 
 ### Project Hedgewars Campaign Mission
@@ -78,7 +81,7 @@ The other projects that were successful were:
 3.) User Management Application for ownCloud by Raghu Nayyar
 
 
-![gsocpic1]({{ site.baseurl }}/assets/gsocpic1.png)
+![gsocpic1](//news.opensuse.org/wp-content/uploads/2013/10/gsocpic1.png)
 
 
 ## Special Mention
@@ -94,4 +97,4 @@ A special word of appreciation goes to Intijik, our GSoC student working on the 
 It was a nice experience working for this summer. A lot of thanks to all mentors, who took out valuable time out of their busy schedules for the students. We can improve in lots of places, and come back better next year! Our representatives at the Mentor Summit (on October 19th and 20th at the Google Office) will discuss with mentors from other organizations about their experiences, and how we can make GSoC a better experience.
 Over and out from the GSoC team, until next year!
 
-_Article by Shayon Mukherjee!_		
+_Article by Shayon Mukherjee!_

@@ -1,18 +1,21 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-01-06 12:37:08+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/01/06/putting-our-accessibility-heads-together-2/
-title: "Putting our Accessibility Heads Together"
+slug: putting-our-accessibility-heads-together-2
+title: Putting our Accessibility Heads Together
+wordpress_id: 5963
 categories:
 - Announcements
 - Events
 ---
+
 Accessibility has become an important selling point in getting computing solutions into many organizations. Organizations are faced with legislations and regulations that require their environments be accessible and they take it into account when looking for a solution that fits their needs. For government organizations, software that doesn't live up to certain accessibility standards is simply not an option.
 
 Let's just be frank here. While the openSUSE community cares about accessibility as much as anyone else does in FOSS, we haven't done that well in delivering the best accessible solution. There are various people who look at the situation in their own corners and try to make the best of it. Andrew Wafaa highlighted some of the challenges in two recent articles.
-[![Orca-A powerful Linux screenreader]({{ site.baseurl }}/assets/orca2-sm.jpg)](https://news.opensuse.org/2011/01/06/putting-our-accessibility-heads-together-2/orca2-sm/)
+[![Orca-A powerful Linux screenreader](/wp-content/uploads/2010/12/orca2-sm.jpg)](http://news.opensuse.org/2011/01/06/putting-our-accessibility-heads-together-2/orca2-sm/)
 Meanwhile openSUSE presents a very unique advantage that hasn't been leveraged yet. With DBUS, the GNOME and KDE communities have worked together to leverage GNOME's long-standing applications to work well on KDE. As openSUSE is a major distribution that provides support equally to GNOME and KDE, we have a distinct opportunity to provide the best integration of KDE and GNOME with accessibility. Thus offering prospective users and organizations a real choice on a distro that is known for its stability and support.
 <!-- more -->
 **So what's the problem?**
@@ -31,4 +34,4 @@ At this point in time, we still aren't going to put together a formal mailing li
 
 On Thursday, 13 January 2011, at 17:00 UTC, we're going to have a meeting. We're not going to use a formal agenda at this time but rather more like a kvetching where we'll talk about our views of what we see as the obstacles. From there, we hope to have a better and bigger picture and develop an idea of how we can go forth collectively and individually in our accessibility work.
 
-If you've had some interest in accessibility and have some thoughts or want to learn what others are saying, we invite you to join us.Â  We'll be giving out free virtual coffee and hot chocolate throughout the meeting.Â  :-)		
+If you've had some interest in accessibility and have some thoughts or want to learn what others are saying, we invite you to join us.Â  We'll be giving out free virtual coffee and hot chocolate throughout the meeting.Â  :-)

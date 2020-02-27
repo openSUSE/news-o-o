@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-07 16:50:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/07/help-promote-opensuse-13-1/
-title: "Help promote openSUSE 13.1!"
+slug: help-promote-opensuse-13-1
+title: Help promote openSUSE 13.1!
+wordpress_id: 16835
 categories:
 - Distribution
 - Project
 ---
+
 [![Making noise](http://farm5.static.flickr.com/4044/4316533311_84a562b59c_m.jpg)](http://www.flickr.com/photos/iboy/4316533311/)
 
 We're not at the release, but [the beta is out](https://news.opensuse.org/?p=16747), according to the [roadmap](https://en.opensuse.org/openSUSE:Roadmap) RC1 is coming Thursday and our artists have been hard at work preparing artwork. We've got badges, backgrounds, counters and banners for you to put on your social media or blog pages, on your desktop or even on your wall! Let's make sure everybody knows what's coming.<!-- more -->
@@ -24,7 +27,7 @@ If you want to decorate your blog or website with a nice 13.1 banner, grab one o
 <tbody >
 <tr valign="TOP" >
 
-<td width="84%" >[![468x60]({{ site.baseurl }}/assets/468x60-300x38.jpg)](http://en.opensuse.org/File:468x60.jpg)
+<td width="84%" >[![468x60](//news.opensuse.org/wp-content/uploads/2013/10/468x60.jpg)](http://en.opensuse.org/File:468x60.jpg)
 </td>
 
 <td width="16%" >[468x60](http://en.opensuse.org/File:468x60.jpg)
@@ -32,7 +35,7 @@ If you want to decorate your blog or website with a nice 13.1 banner, grab one o
 </tr>
 <tr valign="TOP" >
 
-<td width="84%" >Â [![728x90]({{ site.baseurl }}/assets/728x90-300x37.png)](https://en.opensuse.org/File:728x90.jpg)
+<td width="84%" >Â [![728x90](//news.opensuse.org/wp-content/uploads/2013/10/728x90-300x37.png)](https://en.opensuse.org/File:728x90.jpg)
 </td>
 
 <td width="16%" >[728x90](http://en.opensuse.org/File:728x90.jpg)
@@ -40,7 +43,7 @@ If you want to decorate your blog or website with a nice 13.1 banner, grab one o
 </tr>
 <tr valign="TOP" >
 
-<td width="84%" >[![120x90]({{ site.baseurl }}/assets/120x90.jpg)](https://en.opensuse.org/File:120x90.jpg)
+<td width="84%" >[![120x90](//news.opensuse.org/wp-content/uploads/2013/10/120x90.jpg)](https://en.opensuse.org/File:120x90.jpg)
 </td>
 
 <td width="16%" >[120x90](http://en.opensuse.org/File:120x90.jpg)
@@ -48,7 +51,7 @@ If you want to decorate your blog or website with a nice 13.1 banner, grab one o
 </tr>
 <tr valign="TOP" >
 
-<td width="84%" >[![125x125]({{ site.baseurl }}/assets/125x125.jpg)](https://en.opensuse.org/File:125x125.jpg)
+<td width="84%" >[![125x125](//news.opensuse.org/wp-content/uploads/2013/10/125x125.jpg)](https://en.opensuse.org/File:125x125.jpg)
 </td>
 
 <td width="16%" >[125x125](http://en.opensuse.org/File:125x125.jpg)
@@ -59,7 +62,7 @@ If you want to decorate your blog or website with a nice 13.1 banner, grab one o
 
 
 As we geekos like to share, we have all this in nice svg files that you can modify to your liking [on github](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Web%20Banners/13.1%20Web%20Banners). The above are made by [Anditosan](http://anditosan.blogspot.com/), kudos to him!
-[![TwitterBackground-Coming-Soon]({{ site.baseurl }}/assets/TwitterBackground-Coming-Soon-300x168.jpg)]({{ site.baseurl }}/assets/TwitterBackground-Coming-Soon.jpg)
+[![TwitterBackground-Coming-Soon](//news.opensuse.org/wp-content/uploads/2013/10/TwitterBackground-Coming-Soon.jpg)](//news.opensuse.org/wp-content/uploads/2013/10/TwitterBackground-Coming-Soon.jpg)
 
 
 ### Twitter, facebook, G+...
@@ -106,7 +109,7 @@ See [the Countdown page on the openSUSE Wiki](http://en.opensuse.org/openSUSE:Co
 
 
 And if you're planning on printing CD's, there's some awesome artwork done by Andi for that [in this github folder](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/CD-sleeve/13.1). Lookin' real Green!
-[![anditosan's cd sleeve design]({{ site.baseurl }}/assets/cd-sleeve.jpg)](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/CD-sleeve/13.1)
+[![anditosan's cd sleeve design](//news.opensuse.org/wp-content/uploads/2013/10/cd-sleeve.jpg)](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/CD-sleeve/13.1)
 
 
 
@@ -115,12 +118,10 @@ And if you're planning on printing CD's, there's some awesome artwork done by An
 
 Some of you have asked about the 'release is coming' images... Yeah, we have them in higher quality and even some SVG goodness! Just click the image for the [github repo](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Events/Releases/13.1%20release%20is%20coming)...
 
-[![WinterIsComingFinal]({{ site.baseurl }}/assets/WinterIsComingFinal-1024x768.jpg)](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Events/Releases/13.1%20release%20is%20coming)
+[![WinterIsComingFinal](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Events/Releases/13.1%20release%20is%20coming)
 
 If you have any trouble with the github links, there is a nice [static mirror provided by Tigerfoot](http://geeko.ioda.net/git/artwork/). And yes, organization of so much artwork is difficult and yes, github might not be the BEST tool for downloading, but we value collaboration. And we still have to find a tool which would do a better job at that...
 
 
 
 # Help spreading the fun!
-
-		

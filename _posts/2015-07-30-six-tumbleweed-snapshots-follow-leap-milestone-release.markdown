@@ -1,13 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-07-30 08:32:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/07/30/six-tumbleweed-snapshots-follow-leap-milestone-release/
-title: "Six Tumbleweed snapshots follow Leap milestone release"
+slug: six-tumbleweed-snapshots-follow-leap-milestone-release
+title: Six Tumbleweed snapshots follow Leap milestone release
+wordpress_id: 19382
 categories:
 - Distribution
 ---
+
 [![LibreOffice 5.0 is expected soon in openSUSE Tumbleweed.](https://blog.documentfoundation.org/wp-content/uploads/2015/07/tdf-roadtolo50.png)](https://blog.documentfoundation.org/wp-content/uploads/2015/07/tdf-roadtolo50.png)
 
 openSUSE’s rolling release Tumbleweed posted six snapshot updates this past week following the release of Leap’s first milestone.
@@ -22,4 +25,4 @@ AppArmor updated to 2.10 and received several development updates. The cache tim
 
 There was a fix for systemd on Xen and python-sip updated.
 
-LibreOffice 5.0 is approaching soon, according to its roadmap and should make it into Tumbleweed soon, while perl and xfce still need to be fixed before being released in a Tumbleweed snapshot.		
+LibreOffice 5.0 is approaching soon, according to its roadmap and should make it into Tumbleweed soon, while perl and xfce still need to be fixed before being released in a Tumbleweed snapshot.

@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-11-29 11:29:52+00:00
 layout: post
 link: https://news.opensuse.org/2018/11/29/thunderbird-yast-sudo-updates-arrive-in-tumbleweed/
-title: "Thunderbird, YaST, Sudo Updates Arrive in Tumbleweed"
+slug: thunderbird-yast-sudo-updates-arrive-in-tumbleweed
+title: Thunderbird, YaST, Sudo Updates Arrive in Tumbleweed
+wordpress_id: 21373
 categories:
 - Announcements
 - Tumbleweed
@@ -46,7 +49,8 @@ tags:
 - yast
 - yast2
 ---
-![]({{ site.baseurl }}/assets/opensuse-laptop-300x200.gif)Three [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots were released since the last blog.
+
+![](/wp-content/uploads/2018/07/opensuse-laptop.gif)Three [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots were released since the last blog.
 
 The three [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week brought a newer [Linux Kernel](https://www.kernel.org/), several [rubygem](https://rubygems.org/) package updates and improvements for an [Xfce](https://www.xfce.org/) support library.
 
@@ -56,4 +60,4 @@ Eight packages were updated in the [20181122](https://lists.opensuse.org/opensus
 
 <!-- more -->Tumbleweed snapshot [20181120](https://lists.opensuse.org/opensuse-factory/2018-11/msg00271.html) brought [Mozilla Thunderbird 60.3.1](https://www.thunderbird.net/notes/) and this version fixes the cookie removal that had not been working since [Thunderbird version 52](https://support.mozilla.org/en-US/kb/new-thunderbird-52). [GNU Compiler Collection 8](https://gcc.gnu.org/gcc-8/changes.html) updated the branch head and removed a patch. The [gobject-introspection 1.58.1](http://www.linuxfromscratch.org/blfs/view/cvs/general/gobject-introspection.html) dropped a warnlib patch and re-added the /usr/bin/env to the python-cmd. The only major version update this week came in the package update of iso-codes from version 3.79 to version 4.1, which updated languages in South Africa and translations in Italian and Exstonian. Spell checking packages [gtkspell3](https://gtkspell.sourceforge.io/) 3.0.10 and [hunspell](https://en.wikipedia.org/wiki/Hunspell) 1.7.0 received some minor updates. The Universal Plug and Play (UPnP) Software Developers Kit (SDK) package, [libupnp](http://pupnp.sourceforge.net/) 1.8.4, provided some fixes to correctly communicate with some televisions and had some compiler fixes. Command line utility [skopeo](https://github.com/containers/skopeo/blob/master/README.md) 0.1.32 updated vendored libraries and updated the project location from 'projectatomic' to 'containers'. The filesystem package [xfsprogs](http://xfs.org/index.php/Getting_the_latest_source_code) 4.19.0 removed [retpoline](https://stackoverflow.com/questions/48089426/what-is-a-retpoline-and-how-does-it-work) support and had a majority of 4.19 libxfs changes merged from the kernel.
 
-Snapshot [20181120](https://lists.opensuse.org/opensuse-factory/2018-11/msg00271.html) logged was a moderately stable rating of 83, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20181122](https://lists.opensuse.org/opensuse-factory/2018-11/msg00277.html) is trending at a 91 rating and snapshot [20181126](https://lists.opensuse.org/opensuse-factory/2018-11/msg00290.html) is trending at an 88 rating.		
+Snapshot [20181120](https://lists.opensuse.org/opensuse-factory/2018-11/msg00271.html) logged was a moderately stable rating of 83, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20181122](https://lists.opensuse.org/opensuse-factory/2018-11/msg00277.html) is trending at a 91 rating and snapshot [20181126](https://lists.opensuse.org/opensuse-factory/2018-11/msg00290.html) is trending at an 88 rating.

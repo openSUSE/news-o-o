@@ -1,16 +1,17 @@
 ---
 author: Kostas Koudaras
+comments: true
 date: 2011-11-07 20:10:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/07/the-green-planet/
-title: "The Green Planet"
+slug: the-green-planet
+title: The Green Planet
+wordpress_id: 11609
 categories:
 - Infrastructure
 ---
 
-
-[![]({{ site.baseurl }}/assets/green-planet.jpg)](https://news.opensuse.org/2011/11/07/the-green-planet/green-planet/)
+[![](/wp-content/uploads/2011/11/green-planet.jpg)](http://news.opensuse.org/2011/11/07/the-green-planet/green-planet/)
 
 
 The last few days those of you linked to the planet by [http://planetsuse.org/ ](http://planetsuse.org/ )are experiencing connection problems. This is not because openSUSE Planet is down but as Pascal Bleser announced a few days ago into the [openSUSE Project ML](opensuse-project@opensuse.org) because this domain name is not under the Project's control but by and individual who left the openSUSE Project some years ago.
@@ -30,7 +31,7 @@ Some of you might know what that is but there are out there people that don't re
 Actually [Planet openSUSE](http://planet.opensuse.org/) is a web feed aggregator that collects blog posts from people who contribute to openSUSE. Even in English is not your preferred language you can blog too since there is the choice of writing in your native language.
 
 
-[![]({{ site.baseurl }}/assets/openSUSE-Community.jpg)](https://news.opensuse.org/2011/11/07/the-green-planet/opensuse-community/)
+[![](/wp-content/uploads/2011/11/openSUSE-Community.jpg)](http://news.opensuse.org/2011/11/07/the-green-planet/opensuse-community/)
 
 
 
@@ -63,4 +64,4 @@ If you are one of those people an you want others to read you related to openSUS
 
 
 **
-**		
+**

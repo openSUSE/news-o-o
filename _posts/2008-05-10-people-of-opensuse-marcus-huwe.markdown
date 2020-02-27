@@ -1,31 +1,121 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-10 16:34:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/10/people-of-opensuse-marcus-huwe/
-title: "People of openSUSE: Marcus Hüwe"
+slug: people-of-opensuse-marcus-huwe
+title: 'People of openSUSE: Marcus HÃ¼we'
+wordpress_id: 765
 categories:
 - People of openSUSE
 ---
+
 Despite being a openSUSE member and a platinum member of the [PackMan](http://packman.links2linux.org/) team packaging several widely-used applications he also helps the [Build Service team](http://en.opensuse.org/Build_Service_Team) with osc code contributions.
 
-With no more talk, today we nominate Marcus Hüwe as part of 'People of openSUSE'!
+With no more talk, today we nominate Marcus HÃ¼we as part of 'People of openSUSE'!
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![marcus_huwe.jpg]({{ site.baseurl }}/assets/marcus_huwe.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|}-Tux-{|
-|**Homepage:**|None|
-|**Blog:**|None|
-|||
-|**Favorite season:**|I prefer the winter.|
-|**Motto:**|Hmm I don't have a motto.|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![marcus_huwe.jpg](/wp-content/uploads/2008/05/marcus_huwe.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >}-Tux-{
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >None
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >None
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >I prefer the winter.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Hmm I don't have a motto.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -226,7 +316,7 @@ It would be nice to know more about the Kinux kernel and other "low-level" stuff
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I don't want to imagine this scenario :)
@@ -296,7 +386,7 @@ Sitting in front of the computer and hang around with friends.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 I would probably hoard it and live on the interest. Additionally I would buy some servers for the PackMan team so that we have enough build power and maybe switch to the openSUSE BuildService :)
@@ -306,7 +396,7 @@ I would probably hoard it and live on the interest. Additionally I would buy som
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 I don't want to travel through time. I like the here and now.
@@ -316,7 +406,7 @@ I don't want to travel through time. I like the here and now.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No! I would switch my laptop to battery operation and hope that the lightnings won't hit my telephone line.
@@ -371,5 +461,3 @@ Fresh air.
 
 None. The questions above were enough :)
 
-
-		

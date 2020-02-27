@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-08-02 17:33:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/02/opensuse-103-alpha-7-has-been-released/
-title: "openSUSE 10.3 Alpha 7 Has Been Released"
+slug: opensuse-103-alpha-7-has-been-released
+title: openSUSE 10.3 Alpha 7 Has Been Released
+wordpress_id: 78
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE Team is proud to announce the release of openSUSE 10.3 Alpha 7. Though this release should not be used on any production machines, everyone can help shape this release by testing out installations and much more. For more information on the release schedule, take a look at the [Roadmap](http://en.opensuse.org/Roadmap).
 
 <!-- more -->
@@ -101,4 +104,4 @@ We have created Delta ISOs from openSUSE 10.3 Alpha 6; please use them for downl
 
 Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list.
 
-The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 1 on Thursday, August 9.	
+The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 1 on Thursday, August 9. Earning cisco 300-075 implementing cisco ip telephony and video exam dumps certification on a lately launched os, system or program will illustrate that you have obtained what few have done up  to that point become qualified on something new

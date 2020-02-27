@@ -1,13 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-03-07 11:57:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/03/07/hostel-or-hotel-where-to-stay-during-the-opensuse-conference/
-title: "Hostel or hotel? Where to stay during the openSUSE Conference"
+slug: hostel-or-hotel-where-to-stay-during-the-opensuse-conference
+title: Hostel or hotel? Where to stay during the openSUSE Conference
+wordpress_id: 19791
 categories:
 - Conference
 ---
+
 ![](http://www.norisring.de/html/img/pool/Header_2015-800-500.jpg)Nuremberg offers several places to stay during the openSUSE Conference, but don’t wait too long to book a hotel room or a hostel because there will be a [race car event in Nuremberg June 24 - 26](https://tourismus.nuernberg.de/en/erleben-geniessen/events/jahreshighlights/d/dtm-2012-in-nuernberg.html).
 
 The [NorisRing](http://www.norisring.de/cms/website.php?id=/index/kartenverkauf-2016.htm) races are an annual event that started in 1947, so many people from all over Europe will be coming to Nuremberg during the week of the conference and getting a hotel in the area you want might become more difficult the longer you wait.
@@ -24,4 +27,4 @@ There are plenty of hotels downtown near the Bahnhof and the [Kater Murr](http:/
 
 Don’t forget about the [Travel Support Program](https://en.opensuse.org/openSUSE:Travel_Support_Program).
 
-There are only 39 days left to[ submit your proposal](https://events.opensuse.org/conference/oSC16/program/proposal) for the [openSUSE Conference](https://events.opensuse.org/conference/oSC16), so submit a proposal, book your travel and register for the conference today.		
+There are only 39 days left to[ submit your proposal](https://events.opensuse.org/conference/oSC16/program/proposal) for the [openSUSE Conference](https://events.opensuse.org/conference/oSC16), so submit a proposal, book your travel and register for the conference today.

@@ -1,16 +1,19 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2010-12-10 08:21:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/10/opensuse-collaboration-thrives/
-title: "openSUSE Collaboration thrives!"
+slug: opensuse-collaboration-thrives
+title: openSUSE Collaboration thrives!
+wordpress_id: 5858
 categories:
 - Project
 ---
+
 Earlier this week, the openSUSE Marketing Team held the first of a series of Collaboration Days in December.  This was, without a doubt, a success with many of our team members showing up as well as many newcomers offering to lend a hand.
 
-(http://www.flickr.com/photos/chanc/)
+[caption id="attachment_5864" align="alignright" width="300" caption="Apparently not build in a day"][![Apparently not build in a day](/wp-content/uploads/2010/12/4757005099_74b8c7311b_b.jpg)](http://www.flickr.com/photos/chanc/)[/caption]
 
 The focus for the 6 December event was to review existing support materials for our Ambassadors.  Moderated by Kostas Koudaras and Carlos Ribeiro, a variety of assignments were tackled, from a list that included booth design and organization, kits for Ambassadors, presentations, talking points, 2011 planning and much more.   To be sure, not everything can be accomplished in one day.  Heck, even Rome wasn't built in a day! Still, this day was long - after all, we're an international bunch, so there were a few more hours than usual :D
 
@@ -40,4 +43,4 @@ The day begins at 9:00 UTC and ends at 24:00 UTC in the #openSUSE-Marketing chan
 
 At the end of the day, the moderators will review the day's accomplishments and list what has been completed and what needs to be completed.  This subsequently will be posted on the [marketing wiki](http://en.opensuse.org/Portal:Marketing).
 
-This is an opportunity for people to come together, not just marketing folks, and provide their expertise in their areas, whether you are an OBS expert, openSUSE expert, design expert, etc.		
+This is an opportunity for people to come together, not just marketing folks, and provide their expertise in their areas, whether you are an OBS expert, openSUSE expert, design expert, etc.

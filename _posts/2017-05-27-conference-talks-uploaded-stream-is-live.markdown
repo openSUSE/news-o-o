@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-05-27 10:18:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/05/27/conference-talks-uploaded-stream-is-live/
-title: "Conference Talks Uploaded, Stream is Live"
+slug: conference-talks-uploaded-stream-is-live
+title: Conference Talks Uploaded, Stream is Live
+wordpress_id: 20424
 categories:
 - Announcements
 - Conference
@@ -19,6 +21,7 @@ tags:
 - suse
 - Thomas Hatch
 ---
+
 This year’s openSUSE Conference has so far been a blast and the talks  from [Day 1 ](https://events.opensuse.org/conference/oSC17/schedule)of the conference have already been uploaded to the [openSUSETV YouTube channel](https://www.youtube.com/user/opensusetv).
 
 For the people who couldn’t make it to this year’s conference, they can watch the live stream of the conference at [http://streaming.media.ccc.de/osc17/](http://streaming.media.ccc.de/osc17/). There are two rooms (Galerie and Saal) being live streamed and recorded.
@@ -55,4 +58,4 @@ Thorsten Kukuk introduced [openSUSE Kubic](https://youtu.be/OoRZbrMziSM?list=PL_
 
 Another great talk recommended for system administrators and developers from the  open-source community is Wolfgang Engel’s talk about [SUSE Package Hub](https://packagehub.suse.com/) and how SUSE is bringing [community packages to enterprise users](https://youtu.be/rStv6db-1lA?list=PL_AMhvchzBacOM0DTf7pn-S_duElE9yMC).
 
-		
+

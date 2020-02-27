@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-10-25 14:54:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/
-title: "Thanks for your participation at the openSUSE Conference"
+slug: thanks-for-your-participation-at-the-opensuse-conference
+title: Thanks for your participation at the openSUSE Conference
+wordpress_id: 5244
 categories:
 - Events
 ---
+
 A lot of people have been involved with the openSUSE Conference and I've heard a lot of people saying thanks for a great conference. This is supported by 290 attendees visiting our conference, listened to a number of talks, enjoyed a high quality program and even more important met people face to face and had a lot of fun. The conference as it took place last week wouldn't have been possible without our community participating, sending in good talks and a number of folks preparing everything. Of the latter ones let me point out some:
 
 ![](http://farm2.static.flickr.com/1311/5110178611_585b4641eb.jpg)
@@ -17,12 +20,12 @@ First of all: All the participants (see above for the group that was still there
 <!-- more -->
 
 [![Michl getting interviewed](http://farm5.static.flickr.com/4048/5105173153_49f7990d2a_m.jpg)](http://www.flickr.com/photos/andreasjaeger/5105173153/)
-The first person to show up in the morning and the last one in the evening was Michael Löffler. He also did a great job in preparing the conference which included organizing the venue and getting our sponsors on board.
+The first person to show up in the morning and the last one in the evening was Michael LÃ¶ffler. He also did a great job in preparing the conference which included organizing the venue and getting our sponsors on board.
 
 The program committee did a great job of selecting talks and tracks for good program under the motto "Collaboration about borders". Thanks to Andrew, Cornelius, Gnokii, Jan, Jos, Klaas, Michl, and Vincent.
 
 [![Friendly reception desk](http://farm2.static.flickr.com/1420/5110773092_f7afba6e2e_m.jpg)](http://www.flickr.com/photos/andreasjaeger/5110773092/)
-Jacqueline run the reception - together with the Novell apprentices including Nanuk Krinner, Michael Häffner, Jan Löser, Benjamin Brunner and Max Maier.
+Jacqueline run the reception - together with the Novell apprentices including Nanuk Krinner, Michael HÃ¤ffner, Jan LÃ¶ser, Benjamin Brunner and Max Maier.
 
 Anne drove the mini bus to the tram in the mornings and evenings to make it easy for those not staying at the conference venue to come to it.
 
@@ -42,7 +45,7 @@ Thanks to our worldwide ambassadors that send greetings our way!
 
 Also, a special thanks to our sponsors without whom this conference would not have been possible at all: Novell as main sponsor, B1 Systems sponsored the party, open-slx took care of the shuttle service, Nokia/Qt supported us with some â‚¬ and Linux Magazin as media partner.
 
-Last but not least, a big thanks to the friendly staff from the Berufsförderungswerk.
+Last but not least, a big thanks to the friendly staff from the BerufsfÃ¶rderungswerk.
 
 [![That video might be cool!](http://farm5.static.flickr.com/4133/5105769298_93c2f2a7df_m.jpg)](http://www.flickr.com/photos/andreasjaeger/5105769298/)
 Not only for me the conference was really great.Â  The atmosphere was cheerful and besides the presentations and BoFs, there were a lot of discussions happening.
@@ -53,4 +56,4 @@ You can see more photos in the [osc10 flickr group](http://www.flickr.com/groups
 ## Feedback on the conference
 
 
-Please send us feedback to [cfp@opensuse.org](mailto:cfp@opensuse.org) on what went well or not so well at the conference so that we can make next year again another great openSUSE conference.		
+Please send us feedback to [cfp@opensuse.org](mailto:cfp@opensuse.org) on what went well or not so well at the conference so that we can make next year again another great openSUSE conference.

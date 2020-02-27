@@ -1,16 +1,19 @@
 ---
 author: George Bratsos
+comments: true
 date: 2013-07-22 16:43:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/07/22/opensuse-conference-2013-3rd-day/
-title: "openSUSE Conference 2013 3rd day"
+slug: opensuse-conference-2013-3rd-day
+title: openSUSE Conference 2013 3rd day
+wordpress_id: 16427
 categories:
 - Conference
 - Events
 - Project
 ---
-[![openSUSE Conference 2013]({{ site.baseurl }}/assets/MG_4865-300x200.jpg)]({{ site.baseurl }}/assets/MG_4865.jpg)Just as we started the conference with great energy and enthusiasm there is always a time to part ways until the next reunion. Some tears drop and hugs are given as we separate physically until next year. The openSUSE Conference's final day and reporting is now detailed below. Please read on and maybe you will find some great news for next year. In the mean time, we encourage you to participate of our team. We welcome everyone interested in contributing to an awesome project. Perhaps the best work can be done through your help in between conferences and once the meeting is on again, you can share all the progress you will have made in our community.
+
+[![openSUSE Conference 2013](//news.opensuse.org/wp-content/uploads/2013/07/MG_4865.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/MG_4865.jpg)Just as we started the conference with great energy and enthusiasm there is always a time to part ways until the next reunion. Some tears drop and hugs are given as we separate physically until next year. The openSUSE Conference's final day and reporting is now detailed below. Please read on and maybe you will find some great news for next year. In the mean time, we encourage you to participate of our team. We welcome everyone interested in contributing to an awesome project. Perhaps the best work can be done through your help in between conferences and once the meeting is on again, you can share all the progress you will have made in our community.
 
 <!-- more -->
 
@@ -42,7 +45,7 @@ Changing invisible rules is extremely hard in a community with such diversity li
 
 **Izabel Valverde on the Travel Support Program**
 
-Izabel, our current Travel Team Coordinator took the stage to share her views on the new application of the Travel Support Program. The program helps our openSUSE members to attend conferences and events around the world. The program is currently sponsored by SUSE.[![TSP Izaele Valverde]({{ site.baseurl }}/assets/DSC_0193-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0193.jpg)
+Izabel, our current Travel Team Coordinator took the stage to share her views on the new application of the Travel Support Program. The program helps our openSUSE members to attend conferences and events around the world. The program is currently sponsored by SUSE.[![TSP Izaele Valverde](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0193.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0193.jpg)
 
 The program works through a reimbursement method after submitting a general funds request form crafted by the Travel Team. The changes made this year include a new form and a new control system for taking in requests from community members. The Travel Team keeps a list of events that our members attend. 11 requests were approved so far this year.
 
@@ -58,7 +61,7 @@ There were a lot of lessons learned and the Kostas and Stella are sure happy to 
 
 **openSUSE Conference 2014**
 
-As announced during this years' conference, a new openSUSE Conference will be held in Dubrovnik, Croatia next April. There are currently 6 volunteers looking to boost the organization of the conference next year. This team's experience is vast in organizing events for Open Source communities.Â A strong support for next year's conference, the very government of Croatia has created a group to focus on Open Source technologies and their spread in the country.[![#oSC14]({{ site.baseurl }}/assets/DSC_0238-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0238.jpg)
+As announced during this years' conference, a new openSUSE Conference will be held in Dubrovnik, Croatia next April. There are currently 6 volunteers looking to boost the organization of the conference next year. This team's experience is vast in organizing events for Open Source communities.Â A strong support for next year's conference, the very government of Croatia has created a group to focus on Open Source technologies and their spread in the country.[![#oSC14](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0238.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0238.jpg)
 
 The venue will be the University of Dubrovnik. Established in 2003 and having ties to the 17th century, the venue is expected to also help and support the organization of the conference. Although the university buildings are located in various areas of Dubrovnik they are relatively close to each other.
 
@@ -70,11 +73,11 @@ While the conference for this year has come to an end, we take to ourselves all 
 
 Last but not least, this conference has its moment! After the group photo there was a special moment for Carlos Ribeiro. We signed for him a large geeko money in order to thank him for his incredible job with the Artwork.
 
-({{ site.baseurl }}/assets/MG_4873.jpg) Thank you Carlos!
+[caption id="attachment_16461" align="aligncenter" width="300"][![oSC13 thank you Carlos](//news.opensuse.org/wp-content/uploads/2013/07/MG_4873.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/MG_4873.jpg) Thank you Carlos![/caption]
 
 
 
-![Geeko Cocktail Bar]({{ site.baseurl }}/assets/IMG_2230-300x225.jpg)
+![Geeko Cocktail Bar](//news.opensuse.org/wp-content/uploads/2013/07/IMG_2230.jpg)
 
 
 ## 
@@ -99,4 +102,4 @@ If you missed the chance to be here with us and have fun you can attend the conf
 
 Last but not least we have our local newspaper!
 
-[![Newspaper oSC13]({{ site.baseurl }}/assets/News_Paper_oSC13_04-Color-300x211.png)]({{ site.baseurl }}/assets/News_Paper_oSC13_04-Color.png)		
+[![Newspaper oSC13](//news.opensuse.org/wp-content/uploads/2013/07/News_Paper_oSC13_04-Color.png)](//news.opensuse.org/wp-content/uploads/2013/07/News_Paper_oSC13_04-Color.png)

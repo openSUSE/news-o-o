@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-07-09 13:04:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/09/opensuse-build-service-10-released/
-title: "openSUSE Build Service 1.0 Released"
+slug: opensuse-build-service-10-released
+title: openSUSE Build Service 1.0 Released
+wordpress_id: 936
 categories:
 - Announcements
 - Build Service
@@ -12,6 +14,7 @@ tags:
 - OBS
 - opensuse build service
 ---
+
 The openSUSE Project is proud to announce the 1.0 release of the openSUSE Build Service. The 1.0 release provides all the features necessary to support building openSUSE in the public build systems and allowing direct contributions to openSUSE from all contributors. Developers can now submit contributions to openSUSE directly at [build.opensuse.org](http://build.opensuse.org/).
 
 The openSUSE Build Service allows developers to create and maintain packages for openSUSE and many other Linux distributions, including CentOS, Debian, Fedora, Mandriva, Red Hat, and Ubuntu. With the 1.0 release, the openSUSE Build Service expands its scope to building the entire openSUSE release, and provides everyone with the same access and transparent interface to work on the openSUSE distribution.
@@ -42,4 +45,4 @@ The majority of this functionality is implemented on the server side. The rest c
 
 The Build Service team has also introduced a number of smaller improvements and bugfixes to make the system more scalable and usable.
 
-The openSUSE Build Service is now considered "feature complete" for collaboration. The Build Service team is looking for additional feedback on improving the openSUSE Build Service as it will now be the standard tool for working on the distribution.		
+The openSUSE Build Service is now considered "feature complete" for collaboration. The Build Service team is looking for additional feedback on improving the openSUSE Build Service as it will now be the standard tool for working on the distribution.

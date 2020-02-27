@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-09-05 12:00:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/
-title: "openSUSE 12.2: Green Means Go!"
+slug: opensuse-12-2-green-means-go
+title: 'openSUSE 12.2: Green Means Go!'
+wordpress_id: 13893
 categories:
 - Announcements
 - Distribution
 ---
-![DVD Welcome image]({{ site.baseurl }}/assets/12.2_DVD_Welcome-300x225.jpg)Dear users, developers, and Geekos around the world - **openSUSE 12.2 is ready for you**! Two months of extra stabilization work have resulted into a stellar release, chock-full of goodies, yet stable as you all like it.
+
+![DVD Welcome image](/wp-content/uploads/2012/08/12.2_DVD_Welcome.jpg)Dear users, developers, and Geekos around the world - **openSUSE 12.2 is ready for you**! Two months of extra stabilization work have resulted into a stellar release, chock-full of goodies, yet stable as you all like it.
 
 
 (_In other languages_:Â [cs](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD)Â [de](http://de.opensuse.org/Ank%C3%BCndigung)Â [es](http://es.opensuse.org/Release_announcement) [fr](http://fr.opensuse.org/Annonce_de_version) [it](http://it.opensuse.org/Release_announcement) [nl](http://nl.opensuse.org/Release_announcement) [pt](http://pt.opensuse.org/Release_announcement) [ru](http://ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [tr](http://tr.opensuse.org/S%C3%BCr%C3%BCm_duyurusu) [zh](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E)Â [zh-tw](http://zh-tw.opensuse.org/Release_announcement))
@@ -211,7 +214,7 @@ For more details about the latest innovations in openSUSE 12.2 visit [opensuse.o
 ## Support and release process
 
 
-As usual, this release will continue to be supported for at least 2 release cycles + 2 months. Currently, openSUSE 12.3 is scheduled in about six months, as the 12.2 release was delayed for two months. As the project is currently [re-thinking its engineering- and release processes](https://news.opensuse.org/2012/06/14/where-is-my-12-2-my-kingdom-for-a-12-2/), this schedule is likely to change.
+As usual, this release will continue to be supported for at least 2 release cycles + 2 months. Currently, openSUSE 12.3 is scheduled in about six months, as the 12.2 release was delayed for two months. As the project is currently [re-thinking its engineering- and release processes](http://news.opensuse.org/2012/06/14/where-is-my-12-2-my-kingdom-for-a-12-2/), this schedule is likely to change.
 
 A number of changes has already been implemented to the openSUSE development process, with the release team experimenting with staging projects to distribute the integration workload and the Open Build Service team having upgraded the build farm with SSDs and using preinstall images to rapidly setup build virtual machines. More changes, however, are to be decided upon at the [openSUSE Summit in Orlando](http://summit.opensuse.org) and the [openSUSE Conference in October in Prague](http://conference.opensuse.org). Be there if you want to make a difference!
 
@@ -223,4 +226,4 @@ Downloads of openSUSE 12.2 can be found at [software.opensuse.org/122](http://so
 
 Users currently running openSUSE 12.1 can [upgrade to openSUSE 12.2 via the instructions at this link](http://en.opensuse.org/Upgrade). Users who have a properly set-up [Tumbleweed setup](http://opensuse.org/Tumbleweed) will automatically migrate to the new release without any additional effort!
 
-_Have a lot of fun!_		
+_Have a lot of fun!_

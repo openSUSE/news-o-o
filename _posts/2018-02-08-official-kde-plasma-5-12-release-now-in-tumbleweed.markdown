@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-02-08 10:45:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/02/08/official-kde-plasma-5-12-release-now-in-tumbleweed/
-title: "Official KDE Plasma 5.12 Release Now in Tumbleweed"
+slug: official-kde-plasma-5-12-release-now-in-tumbleweed
+title: Official KDE Plasma 5.12 Release Now in Tumbleweed
+wordpress_id: 20660
 categories:
 - Announcements
 - Leap
@@ -43,7 +45,6 @@ tags:
 - yast
 ---
 
-
 ### Mesa 18, cryptsetup 2 Also Arrive in Snapshots
 
 
@@ -64,4 +65,4 @@ Other notable packages updated in the [20180206](https://lists.opensuse.org/open
 
 Several [YaST](http://yast.opensuse.org/) packages were updated in snapshot [20180202](https://lists.opensuse.org/opensuse-factory/2018-02/msg00153.html) to include the continuation of replacing SuSEFirewall2 with [firewalld](http://www.firewalld.org/). Snapshot [20180201](https://lists.opensuse.org/opensuse-factory/2018-02/msg00106.html) moved the [Linux Kernel](https://www.kernel.org/) from 4.14 to 4.15 and text editor [nano 2.9.3](https://www.nano-editor.org) added the options -M and --trimblanks for the command line. The openSUSE Tool for filesystems, [snapper](https://en.opensuse.org/openSUSE:Snapper_Tutorial) 0.5.4, improved error handling for systemd services in the same snapshot.
 
-The snapshot starting off the week, [20180131](https://lists.opensuse.org/opensuse-factory/2018-02/msg00074.html), provided several security fixes for image processing through [GraphicsMagick 1.3.28](http://www.graphicsmagick.org/NEWS.html#january-20-2017). Mozilla [Thunderbird 52.6](https://www.mozilla.org/en-US/thunderbird/52.6.0/releasenotes/) provided a fix for defective messages (without at least one expected header) not shown in IMAP folders but shown on mobile devices and [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) had a major release to version 2.0.0. The [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) introduces support for the new on-disk [LUKS2](https://www.phoronix.com/scan.php?page=news_item&px=Cryptsetup-2.0-Released) format but still retaining support for LUKS(1).		
+The snapshot starting off the week, [20180131](https://lists.opensuse.org/opensuse-factory/2018-02/msg00074.html), provided several security fixes for image processing through [GraphicsMagick 1.3.28](http://www.graphicsmagick.org/NEWS.html#january-20-2017). Mozilla [Thunderbird 52.6](https://www.mozilla.org/en-US/thunderbird/52.6.0/releasenotes/) provided a fix for defective messages (without at least one expected header) not shown in IMAP folders but shown on mobile devices and [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) had a major release to version 2.0.0. The [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) introduces support for the new on-disk [LUKS2](https://www.phoronix.com/scan.php?page=news_item&px=Cryptsetup-2.0-Released) format but still retaining support for LUKS(1).

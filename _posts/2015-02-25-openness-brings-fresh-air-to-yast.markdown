@@ -1,13 +1,16 @@
 ---
 author: Ancor Gonzalez Sosa
+comments: true
 date: 2015-02-25 11:40:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/02/25/openness-brings-fresh-air-to-yast/
-title: "Openness brings fresh air to YaST"
+slug: openness-brings-fresh-air-to-yast
+title: Openness brings fresh air to YaST
+wordpress_id: 19076
 categories:
 - Distribution
 ---
+
 It has been a while since we reported about YaST in this site. This [post in Spanish](https://victorhckinthefreeworld.wordpress.com/2015/02/23/yast-de-opensuse-se-abre-mas-aun-a-la-comunidad/) from fellow openSUSE blogger [Victorhck](https://es.opensuse.org/Usuario:Victorhck) has inspired us to write about some exciting news that deserve to be shared with the whole openSUSE community. YaST has always been a completely free and open source project, but free and open source means way more than just having the code available in some server at Internet. You may know lowering the entry barrier to contribute to YaST has been one of the goals of the project.
 
 The first big step was moving from YCP to a more popular, documented and widespread programming language like Ruby. The new Ruby-based codebase [debuted in openSUSE 13.1](https://news.opensuse.org/2013/10/10/coming-soon-opensuse-13-1-with-yast-in-ruby/), full of automatically converted code that looked "not so Ruby". Now, with the [revamped installation workflow introduced in openSUSE 13.2](https://news.opensuse.org/2014/09/22/opensuse-13-2-is-coming-first-beta-has-arrived/) and after a whole release cycle of refining and polishing the YaST code and the development tools, the world of YaST development is a nicer place for newcomers.
@@ -36,7 +39,7 @@ The last months have seen the born of several new YaST modules written in Ruby f
 
 The module for managing the system-wide configuration of the fonts has being available for some time at [its Github repository](https://github.com/yast/yast-fonts). Recently, with the inclusion of the package into openSUSE Tumbleweed, his author [has blogged about it](https://lizards.opensuse.org/2015/02/17/fonts-opensuse/) and about the status of fonts in openSUSE in general. As you can see in the screenshot, it offers fine-tunning for the sans, serif and monospace generic aliases in the system and how they should be rendered.
 
-[![YaST2 - Fonts]({{ site.baseurl }}/assets/yast-fonts-tabS-e1424177083891.gif)]({{ site.baseurl }}/assets/yast-fonts-tabS-e1424177083891.gif)
+[![YaST2 - Fonts](/wp-content/uploads/2015/02/yast-fonts-tabS-e1424177083891.gif)](/wp-content/uploads/2015/02/yast-fonts-tabS-e1424177083891.gif)
 
 
 ### YaST2 - Docker
@@ -44,7 +47,7 @@ The module for managing the system-wide configuration of the fonts has being ava
 
 If you haven't heard about [Docker](https://www.docker.com/), you have probably been disconnected from Internet during the last couple of years. Docker is becoming the de-facto standard for software containers and, of course, YaST couldn't be oblivious to it. In the [github repository of YaST2-Docker](https://github.com/yast/yast-docker) you can see a whole description of the several handy features offered by this module alongside some nice screenshots like this.
 
-[![YaST2 - Docker]({{ site.baseurl }}/assets/commit_container1.png)]({{ site.baseurl }}/assets/commit_container1.png)
+[![YaST2 - Docker](/wp-content/uploads/2015/02/commit_container1.png)](/wp-content/uploads/2015/02/commit_container1.png)
 
 
 ### YaST2 - Journal
@@ -52,7 +55,7 @@ If you haven't heard about [Docker](https://www.docker.com/), you have probably 
 
 The submission of this new module into Factory/Tumbleweed was recently [announced in the Factory mailing list](http://lists.opensuse.org/opensuse-factory/2015-02/msg00128.html). As you can see in the screenshots, it displays the systemd journal entries in a table with a search box providing grep-like live searching. In addition, it allows to filter the entries in the list by date/time, unit, file or priority. As a bonus, the module was used as inspiration for the already mentioned new YaST development tutorial.
 
-[![YaST2 - Journal]({{ site.baseurl }}/assets/yast2-journal-qt6.png)]({{ site.baseurl }}/assets/yast2-journal-qt6.png)
+[![YaST2 - Journal](/wp-content/uploads/2015/02/yast2-journal-qt6.png)](/wp-content/uploads/2015/02/yast2-journal-qt6.png)
 
 
 ### YaST2 - I/O Channels
@@ -64,4 +67,4 @@ The first YaST module to be ever written in Ruby from scratch is a nice source o
 ## Get in touch
 
 
-At the end, all the efforts done by the YaST Team to open up YaST development have just one goal: reaching YOU. So don't hesitate to provide feedback using any of the open communication channels. Where to find those channels? Obviously, in the [YaST landing page](http://yast.github.io/). :-)		
+At the end, all the efforts done by the YaST Team to open up YaST development have just one goal: reaching YOU. So don't hesitate to provide feedback using any of the open communication channels. Where to find those channels? Obviously, in the [YaST landing page](http://yast.github.io/). :-)

@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-06-18 18:06:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/18/opensuse-weekly-news-issue-180-is-out/
-title: "openSUSE Weekly News, Issue 180 is out!"
+slug: opensuse-weekly-news-issue-180-is-out
+title: openSUSE Weekly News, Issue 180 is out!
+wordpress_id: 9289
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our openSUSE Weekly News Issue 180.
 <!-- more -->
 
@@ -105,48 +108,48 @@ Enjoy reading :-)
 The Articles inside this Section are in full. If you are already knowing the stuff in
       news.opensuse.org, then you can skip this section through using the TOC.
 
+â€œ
 
-
-[openSUSE Conference and RW sessions “ the BoF](https://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/)
+[openSUSE Conference and RW sessions â€“ the BoF](http://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/)
 
 ![](http://farm2.static.flickr.com/1233/928122581_043479bfd5_m.jpg)
 
-The openSUSE conference team adopted the UNIX acronymÂ **RWX**Â for this year™s conference. The goal with this theme is to emphasize the
+The openSUSE conference team adopted the UNIX acronymÂ **RWX**Â for this yearâ€™s conference. The goal with this theme is to emphasize the
       stronger focus on getting-things-done and hands-on sessions. So, what sessions are we talking
-      about? In this article we™ll dive into one type of interactive session: theÂ [BoF](http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing)).
+      about? In this article weâ€™ll dive into one type of interactive session: theÂ [BoF](http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing)).
 
 **Definition**
 
-WikipediaÂ [defines](http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing))Â a BoF as ˜an informal discussion group™, ˜often formed in an ad-hoc
-      manner™. It also describes a BoF as ˜an informal meet-up at conferences, where the attendees
+WikipediaÂ [defines](http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing))Â a BoF as â€˜an informal discussion groupâ€™, â€˜often formed in an ad-hoc
+      mannerâ€™. It also describes a BoF as â€˜an informal meet-up at conferences, where the attendees
       group together based on a shared interest and carry out discussions without any pre-planned
-      agenda™.
+      agendaâ€™.
 
 The central concepts areÂ informal,Â shared interestsÂ andÂ ad-hoc. What is not mentioned are
       goals, theÂ whyÂ of such a session. But based on the concepts, you can get an idea. The informal
       factor means everyone is equal and can and should voice their opinions. The shared interests
       mean you get together people who care about a particular subject. The ad-hoc factor merely
       re-inforces the other two. A BoF is very much like meeting for dinner: you talk as friends
-      about whatever interests you! That is not to say a BoF can™t have goals. Often, BoFs have a
+      about whatever interests you! That is not to say a BoF canâ€™t have goals. Often, BoFs have a
       number of things the participants want to discuss. The person organizing the BoF is usually
       the person who puts one or more topics forward, but everyone is free to bring up other issues.
-      This is central to the concept of a BoF “ discuss things.
+      This is central to the concept of a BoF â€“ discuss things.
 
 **Why?**
 
 ![](http://farm3.static.flickr.com/2363/2311306708_5a29c44a0b_m.jpg)
 
-Free Software communities work online in a collaborative fashion. That™s marketing speak
+Free Software communities work online in a collaborative fashion. Thatâ€™s marketing speak
       for: we work together, alone. While each of us sits behind his computer, either alone or with
       others in an office, we form one team. We communicate over mail, IRC and other online
       channels.
 
 For asking questions, basic decision making or just getting work done, this is excellent.
-      For socializing, it is less optimal, but you™ll still find plenty of social interactions
+      For socializing, it is less optimal, but youâ€™ll still find plenty of social interactions
       especially in IRC channels. It gets much harder however, when complicated issues surface. If
       decisions have to be made about processes or fundamental technical directions, the online
       aspect gets in the way. You quickly run into misunderstandings and while our hacker culture
-      compels us to fairly direct (˜rude™) communication, still emotions can run wild.
+      compels us to fairly direct (â€˜rudeâ€™) communication, still emotions can run wild.
 
 At the conference,Â **CÃ©dric Bosdonnat**Â wants to discuss
       using statistics from the LibreOffice git repositories to show information about contributions
@@ -165,43 +168,43 @@ At the conference,Â **CÃ©dric Bosdonnat**Â wants to discuss
 ![](http://farm1.static.flickr.com/49/171249238_1421d15dca_m.jpg)
 
 Discussions about future directions or day to day business like improving a review process
-      or working together more efficiently “ all things done better in person. In a BoF, a team
+      or working together more efficiently â€“ all things done better in person. In a BoF, a team
       working together on-line meets and discusses these things, face to face, in an open manner.
       Not completely unstructured, mind you, but still very open. The organizer of the BoF is there
       merely to start up the discussion and possibly facilitate it. Facilitate by making sure some
       decisions are actually taken. And recorded!
 
-A typical BoF starts with a short ˜hi all, thanks for coming™, and if needed an
+A typical BoF starts with a short â€˜hi all, thanks for comingâ€™, and if needed an
       introduction of the participants. Then, it is time to find the subjects of the discussion at
       hand. The organizer can coin a few things he or she things need to be discussed and others can
-      chime in. From there on, it™s a matter of actually going over the subjects one by one.
+      chime in. From there on, itâ€™s a matter of actually going over the subjects one by one.
 
 **Jean-Daniel Dodin**Â is involved with testing in openSUSE.
       At the conference, he wants to have a BoF centered around improving the process of testing
-      multimedia applications. Many of these applications don™t work as expected or not at all. How
-      can we ensure applications are tested reliably and don™t end up on a user™s desktop just if
+      multimedia applications. Many of these applications donâ€™t work as expected or not at all. How
+      can we ensure applications are tested reliably and donâ€™t end up on a userâ€™s desktop just if
       theycompileÂ but only after they are proven to actually work?
 
 TheÂ **challenge**Â now is to keep the discussion from going in
-      all directions “ something which is fine at a dinner but not productive at a BoF. Gently
+      all directions â€“ something which is fine at a dinner but not productive at a BoF. Gently
       reminding the team of what the goal of the current topic is is usually sufficient. You all
       share the same goals, after all. The second challenge is to make sure decisions are
       takenÂ andÂ recorded. Creating the typicalÂ action listÂ of who does what is the best way to go.
       It might make sense, with a large BoF team, to have one person lead the discussion while
       someone else takes notes.
 
-Know that the person organizing the BoF does not have to be aÂ ˜team leader™, nor aÂ ˜great
-      communicator™! Every attendee is equally responsible for the quality and results of the
-      discussion. Organizing the BoF is merely a technical detail “ not a huge deal at all, and
+Know that the person organizing the BoF does not have to be aÂ â€˜team leaderâ€™, nor aÂ â€˜great
+      communicatorâ€™! Every attendee is equally responsible for the quality and results of the
+      discussion. Organizing the BoF is merely a technical detail â€“ not a huge deal at all, and
       anyone can do it.
 
 **Responsibilities and tools**
 
-Organizing a BoF is surprisingly simple if the right people turn up. For that, aÂ **clear description**Â is usually enough. A title like Factory review
-      process discussion will most likely attract those involved with review of packages in Factory
+Organizing a BoF is surprisingly simple if the right people turn up. For that, aÂ **clear description**Â is usually enough. A title like â€œFactory review
+      process discussionâ€ will most likely attract those involved with review of packages in Factory
       and interested in improving the process. If the review process has had hickups in the last few
-      months it is highly unlikely that the discussion won™t be attended or not attract the right
-      people. Nor is it likely to not have ˜enough to talk about™. The problem is usually more one
+      months it is highly unlikely that the discussion wonâ€™t be attended or not attract the right
+      people. Nor is it likely to not have â€˜enough to talk aboutâ€™. The problem is usually more one
       of getting sidetracked and not actually finishing discussing the topic with a proper todo
       list!
 
@@ -211,32 +214,32 @@ What do you need to organize a BoF? Almost nothing. Pen and paper (for the todo!
       the BoF. Otherwise, just talk! Introduce the topic quickly and ask for opinions will fire it
       off easily.
 
-**Scheduling BoF™s**
+**Scheduling BoFâ€™s**
 
 ![](http://farm3.static.flickr.com/2797/4537737867_3ebfc19183_m.jpg)
 
-Usually, BoF™s are scheduled ˜on the spot™ using a big whiteboard in the main hall of the
-      conference or on an open wiki page. That can lead to two similar BoF™s or two BoF™s targeting
+Usually, BoFâ€™s are scheduled â€˜on the spotâ€™ using a big whiteboard in the main hall of the
+      conference or on an open wiki page. That can lead to two similar BoFâ€™s or two BoFâ€™s targeting
       the same team at the same time, however. It also means you might not have a spot at a decent
       time. Which might result in being forced to plan a BoF in the time slot of a talk about the
-      same subject . This is why the openSUSE CfP team asks you to plan BoF™s in advance!
+      same subject . This is why the openSUSE CfP team asks you to plan BoFâ€™s in advance!
 
 The biggestÂ perceivedÂ problem with planning a BoF is the inherent contradiction in
-      ˜planning™ and ˜BoF™. Yes, you might not knowÂ nowÂ what will be an issue 3 months from now.
-      However, you don™t have to nail the agenda down today, that would indeed run counter to the
+      â€˜planningâ€™ and â€˜BoFâ€™. Yes, you might not knowÂ nowÂ what will be an issue 3 months from now.
+      However, you donâ€™t have to nail the agenda down today, that would indeed run counter to the
       whole concept of a BoF. If you think your team will benefit from having a good, open
       discussion about what you do and how you (want to) do it, simply send in a quick proposal to
       the openSUSE Conference Paper Committee. It is no problem if something more urgent pops up and
-      you discuss that instead of following the initial description. The main reason for ˜planning™
-      (part of) the BoF™s beforehand is to allow the CfP team to try and schedule things in such a
-      way there is little overlap with talks and other BoF™s and to allow teams to reserve a
+      you discuss that instead of following the initial description. The main reason for â€˜planningâ€™
+      (part of) the BoFâ€™s beforehand is to allow the CfP team to try and schedule things in such a
+      way there is little overlap with talks and other BoFâ€™s and to allow teams to reserve a
       room.
 
 So go to the conference page and add a BoF!
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -244,9 +247,9 @@ So go to the conference page and add a BoF!
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
+â€œ
 
-
-[Manu Gupta: SaX3 “ GSoC 2011 “ Weekly Report 2](http://sysbytes.wordpress.com/2011/06/12/sax3-gsoc-2011-weekly-report-2/)
+[Manu Gupta: SaX3 â€“ GSoC 2011 â€“ Weekly Report 2](http://sysbytes.wordpress.com/2011/06/12/sax3-gsoc-2011-weekly-report-2/)
 
 This is my 2nd report, this week not to show much for the users, but we did a quite
       interesteing things. SaX is now module oriented.So, if anyone wants to write a module for SaX3
@@ -270,9 +273,9 @@ The launcher is now completeÂ 
       how modules work, they work using .desktop filesÂ  in /usr/share/sax3/modules.d. If you will
       remove it we can remove it from the launcher.
 
-
+â€
 
-
+â€œ
 
 
       [Ratan Sebastian: GSOC 2011:
@@ -292,23 +295,23 @@ ssc commit
 the changes would actually be
       pushed.
 
-In order to facilitate this I™m abstracting all the directory management to a
+In order to facilitate this Iâ€™m abstracting all the directory management to a
       DirectoryManager module. Which abstracts methods to save, read and diff from local sources.
-      Right now the syntax I™ve chosen is YAML. For instance theÂ softwareÂ file in the appliance
-      directory - which catalogues the changes made to the appliance™s software - stores names of
+      Right now the syntax Iâ€™ve chosen is YAML. For instance theÂ softwareÂ file in the appliance
+      directory - which catalogues the changes made to the applianceâ€™s software - stores names of
       installed packages. Unless the ssc command is invoked with theÂ -r | --remoteoption, it will
       display the packages in that file. In addition whenÂ ssc package add gnuchessÂ is run with out
       the -r option, it will make and additionÂ add gnuchessÂ to the software file. Similarly for
       remove. I am having some problems figuring out how to integrate patterns into this
       architecture so any help on that front would be appreciated.
 
-That™s it for this week. I™m going to be working on pretty much the same thing next week.
+Thatâ€™s it for this week. Iâ€™m going to be working on pretty much the same thing next week.
       Extending and refactoring this functionality. So hopefully we will have a more usable version
       then.Thank you for reading.
 
-
+â€
 
-
+â€œ
 
 [Fridrich Strba: LibreOffice Visio import filter - shaping up the baby](http://fridrich.blogspot.com/2011/06/libreoffice-visio-import-filter-shaping.html)
 
@@ -323,16 +326,16 @@ The focus this week was mainly on shaping the baby up. [Eilidh](http://www.deriv
 
 And since the images speak louder then any words, enjoy the look: (...)
 
-
+â€
 
+â€œ
 
-
-[Christos Bountalis: A utility for merging configuration / sysconfig files “ Week 4
+[Christos Bountalis: A utility for merging configuration / sysconfig files â€“ Week 4
         Report](http://cbounta.wordpress.com/2011/06/17/a-utility-for-merging-configuration-sysconfig-files-week-4-report/)
 
 This is the 4rth week report, a lot of coding this week, you can see some code on my
       project github under branch working. Yes the code there is still not stable, but I am
-      improving it constantly. Till this moment, i didn™t have any feedback except from my mentor,
+      improving it constantly. Till this moment, i didnâ€™t have any feedback except from my mentor,
       so if you check it out and have some suggestion or something, please feel free to contact me. 
 
 **What is new in few words?**
@@ -368,18 +371,18 @@ The basic steps for tree matching have already been implemented, the goal now is
       as far i have understood in this project. By completing it, the other steps in the initial
       schedule will be implemented easier.
 
-
+â€
 
-
+â€œ
 
 [Justine Leng: 6.17.2011 Weekly Report](http://obsforandroid.wordpress.com/2011/06/17/6-17-2011-weekly-report/)
 
 This week, I primarily focused on accumulating community feedback on my [request page makeover suggestions](http://obsforandroid.wordpress.com/2011/06/09/obs-mobile-request-page-makeover/), and refining the features accordingly.
 
-So based on the limited but helpful user feedback I received, I™ve made the following
+So based on the limited but helpful user feedback I received, Iâ€™ve made the following
       changes: (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
@@ -401,7 +404,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-
+â€œ
 
 
           [Pavol Rusnak: GNOME-Shell Extension: YaST (item in) Status Menu](http://stick.gk2.sk/blog/2011/06/gnome-shell-extension-yast-status-menu/)
@@ -410,22 +413,22 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 This is just a short follow-up to my older blogpost [Adding YaST menuitem to GNOME 3 status menu](http://stick.gk2.sk/blog/2011/05/adding-yast-menuitem-to-gnome-3-status-menu/). Few minutes ago [Andy](http://www.wafaa.eu/) asked me if I could create a proper gnome-shell
           extension so I went ahead and did it. ![](http://stick.gk2.sk/blog/wp-includes/images/smilies/icon_smile.gif)
 
-I™ve set a [git repo on Gitorious](https://gitorious.org/opensuse/gnome-shell-extension-yast-status-menu) and also built the package in my [home:prusnak](http://bit.ly/lVV2VS) project. If there will be interest from our GNOME Team, I will
+Iâ€™ve set a [git repo on Gitorious](https://gitorious.org/opensuse/gnome-shell-extension-yast-status-menu) and also built the package in my [home:prusnak](http://bit.ly/lVV2VS) project. If there will be interest from our GNOME Team, I will
           create a submit request to some GNOME devel project and Factory as well.
 
-If you don™t know this yet, you have to install
+If you donâ€™t know this yet, you have to install
           theÃ½gnome-shell-extension-yast-status-menu and then either logout and login or press
-          Alt+F2 and type r (which will restart gnome-shell).
+          Alt+F2 and type â€œrâ€ (which will restart gnome-shell).
 
 Enjoy! ![](http://stick.gk2.sk/blog/wp-includes/images/smilies/icon_smile.gif)
 
 ![](http://stick.gk2.sk/blog/wp-content/uploads/2011/05/gnome3-menu-yast.png)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
-
+â€œ
 
 Will Stephenson: KDE 4.7 Beta coming to Factory
 
@@ -438,13 +441,13 @@ Next week the current beta of KDE 4.7 will land in openSUSE Factory. The major c
 
 submitted via our etherpad: [http://os-news.ietherpad.com/2?](http://os-news.ietherpad.com/2)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 355)](https://features.opensuse.org/120340)
@@ -453,9 +456,9 @@ submitted via our etherpad: [http://os-news.ietherpad.com/2?](http://os-news.iet
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 187)](https://features.opensuse.org/305493)
@@ -470,9 +473,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 132)](https://features.opensuse.org/308497)
@@ -490,9 +493,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 103)](https://features.opensuse.org/305877)
@@ -513,13 +516,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [tuxguitar](https://features.opensuse.org/312503)
@@ -529,9 +532,9 @@ Since openSUSE 11.4 the program "tuxguitar" ([http://tuxguitar.herac.com.ar](htt
 
 I'd very much appreciate if it was to be found anywhere ready to install.
 
-
+â€
 
-
+â€œ
 
 
             [check for already existing IP address to avoid collision](https://features.opensuse.org/312506)
@@ -539,9 +542,9 @@ I'd very much appreciate if it was to be found anywhere ready to install.
 
 When setting a static IP address, YaST should check if the specified IP address is already in use on the network.
 
-
+â€
 
-
+â€œ
 
 
             [libraw1394](https://features.opensuse.org/312523)
@@ -554,9 +557,9 @@ Please update to the current libraw1394 2.0.7:
 
 The latest version to be found in opensuse repositories is 2.0.5, which for example isn't sufficient for use with some Firewire Audio-Hardware in combination with latest kernels (aka juju-stack only).
 
-
+â€
 
-
+â€œ
 
 
             [Number of filters provided in kmail](https://features.opensuse.org/312539)
@@ -564,7 +567,7 @@ The latest version to be found in opensuse repositories is 2.0.5, which for exam
 
 I wish I could define more than 8 conditions in kmail filters
 
-
+â€
 
 ##### Feature Statistics
 
@@ -575,7 +578,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
@@ -585,19 +588,19 @@ Past
 
   * [June 10-12, 2011 : southeast linuxfest (Spartanburg, USA)](http://www.southeastlinuxfest.org/)
 
-  * [June 15, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [June 15, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-  * [June 16, 2011 : GNOME Team Meeting](https://news.opensuse.org/2011/01/11/gnome-team-meeting-3/)
+  * [June 16, 2011 : GNOME Team Meeting](http://news.opensuse.org/2011/01/11/gnome-team-meeting-3/)
 
 Upcoming
 
-  * [June 21, 2011 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [June 21, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
   * [June 25-29, 2011 : OSCON (Portland, Oregon, USA)](http://www.oscon.com/oscon2011)
 
-  * [June 29, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [June 29, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -616,7 +619,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
 
-
+â€œ
 
 [Sascha Manns: bleachbit 0.8.8 checked in into openSUSE Build Service](http://saigkill.homelinux.net/entry/2011/06/16/bleachbit-088-checked-in-into-opensuse-build-service)
 
@@ -633,9 +636,9 @@ Now i've checked in [bleachbit](http://bleachbit.sourceforge.net/) in
 
 What's happend since the last version? (...)
 
-
+â€
 
-
+â€œ
 
 [Bruno Friedmann: ATI/AMD fglrx 8.861 Catalyst 11.6 available for openSUSE 11.2, 11.3, 11.4,
         Factory](http://lizards.opensuse.org/2011/06/17/atiamd-fglrx-8-861-catalyst-11-6-available-for-opensuse-11-2-11-3-11-4-factory/)
@@ -645,7 +648,7 @@ Please refer to my [previous
 
   * Quick resume :
 
-  * There™s no full changelog about them, but [Catalyst 11.6
+  * Thereâ€™s no full changelog about them, but [Catalyst 11.6
             installer](http://www2.ati.com/relnotes/Catalyst_11.6_Linux_Installer.pdf) (pdf)
 
   * Get the cheat-sheet [11.6
@@ -681,19 +684,19 @@ Users have reported that version 8.861 of catalyst 11.6 compile correctly under 
       with 2.6.39 kernel and the driver is ready for kernel 3.0x, so until xorg change too much and
       then AMD support for the new version, installing the 11.4 version should work 
 
-For factory, I™ve build a repository (see previous article) that can be used, and fglrx
+For factory, Iâ€™ve build a repository (see previous article) that can be used, and fglrx
       build.
 
 The new package are called SUSE121 & no more SUSEFACTORY. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 
       [SUSE Security Announcement: openSUSE-SU-2011:0633-1: critical: Oracle Java 26](http://lists.opensuse.org/opensuse-security-announce/2011-06/msg00003.html)
@@ -739,9 +742,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >several security vulnerabilities
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [SUSE Security Announcement: openSUSE-SU-2011:0637-1: critical: flash-player: Update to 10.3.181.26](http://lists.opensuse.org/opensuse-security-announce/2011-06/msg00004.html)
@@ -787,11 +790,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >memorycorruption vulnerability
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [Linus Torvalds: Linux 3.0-rc3](https://lkml.org/lkml/2011/6/13/375)
@@ -824,21 +827,21 @@ But as usual, I'll ask people to give it a good testing,
 
 Linus (...)
 
-
+â€
 
+â€œ
 
-
-[Rares Aioanei: kernel weekly news “ 18.06.2011](http://schaiba.wordpress.com/2011/06/18/kernel-weekly-news-18-06-2011/)
+[Rares Aioanei: kernel weekly news â€“ 18.06.2011](http://schaiba.wordpress.com/2011/06/18/kernel-weekly-news-18-06-2011/)
 
 Rares gives his weekly Kernel News from this week.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [TechRepublic/Jack Wallen: Five tips for collaborating in LibreOffice](http://www.techrepublic.com/blog/five-tips/five-tips-for-collaborating-in-libreoffice/879)
@@ -846,7 +849,7 @@ Rares gives his weekly Kernel News from this week.
 
 Takeaway:Â Collaboration tools are essential for all sorts of business documents and
         writing projects. Jack Wallen collaborates extensively on his technical content and fiction
-        writing ” and he uses LibreOffice to get the job done.I write. A lot. 
+        writing â€” and he uses LibreOffice to get the job done.I write. A lot. 
 
 I write both technical articles and novels, so without the means to collaborate with my
         writing tools, my job would become infinitely harder. Not only would my editor lose all her
@@ -858,9 +861,9 @@ Naturally, as a writer covering open source software, I use theÂ LibreOfficeÂ
         on documents (of nearly any sort). But how can you make best use of those tools? These tips
         will help you collaborate with the best of them. (...)
 
-
+â€
 
-
+â€œ
 
 
         [LinuxJournal/Bruce Byfield: Tweaking text in Scribus](http://www.linuxjournal.com/content/tweaking-text-scribus)
@@ -875,14 +878,14 @@ That is especially true for text. Scribus not only provides tools for general ma
         fonts to the spaces between characters and words and how a word is hyphenated at the end of
         a line. (...)
 
-
+â€
 
-
+â€œ
 
 [Jos
-          Poortvliet: openSUSE and online services](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/)
+          Poortvliet: openSUSE and online services](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/)
 
-The ˜cloud™ has been a buzzword for quite a while. While some are still rather cynical
+The â€˜cloudâ€™ has been a buzzword for quite a while. While some are still rather cynical
       towards the concept, products like mobile phones with Android have shown the value of putting
       your data in that huge, amorphous network of servers somewhere. Apple recently introduced
       their new cloud service and Microsoft has their cloud too. So with the other major players
@@ -892,12 +895,12 @@ The ˜cloud™ has been a buzzword for quite a while. While some are still rathe
 
 **Variety**
 
-Let™s define Cloud technology as ˜related to putting data online & sharing among
-      devices™ which is a reasonable definition for our purposes. There is a huge number of
+Letâ€™s define Cloud technology as â€˜related to putting data online & sharing among
+      devicesâ€™ which is a reasonable definition for our purposes. There is a huge number of
       technologies connecting openSUSE users to online services. However there is a distinction to
-      be made between commercial or proprietary operating systems and ours. We don™t create a vendor
+      be made between commercial or proprietary operating systems and ours. We donâ€™t create a vendor
       lock-in scenario because we focus on tools that freely connect you to your choice of publicly
-      available services. This is a key distinction because we™re not owning or controlling the
+      available services. This is a key distinction because weâ€™re not owning or controlling the
       cloud that you place your data in. You, the user, get to decide the place where it best fits
       your needs and comfort level. Today and tomorrow we will highlight some of them here, starting
       with integration in our every day applications.
@@ -967,7 +970,7 @@ TableÂ 4.Â Install UMPlayer
     
 
 Image viewers have engaged online services for a while. [F-Spot](http://f-spot.org/Features) can export to [Flickr](http://www.flickr.com/), [23](http://www.23hq.com/),
-        [Picasa Web](http://picasaweb.google.com/) or [SmugMug](http://www.smugmug.com/). [Shotwell](http://yorba.org/shotwell/) can even export to Youtube. KDE applications [Digikam](http://www.digikam.org/drupal/about/features9x) and it™s companion
+        [Picasa Web](http://picasaweb.google.com/) or [SmugMug](http://www.smugmug.com/). [Shotwell](http://yorba.org/shotwell/) can even export to Youtube. KDE applications [Digikam](http://www.digikam.org/drupal/about/features9x) and itâ€™s companion
       Showfoto add [Facebook](http://facebook.com), [piwigo](http://piwigo.org/), [shwup](http://www.shwup.com/),
         [zooomr](http://www.zooomr.com/) and some other sites to the list. They
       can also export to a HTML gallery and put the images with the locations they were taken at on
@@ -975,12 +978,12 @@ Image viewers have engaged online services for a while. [F-Spot](http://f-spot.o
         [ksnapshot](http://www.elpauer.org/?p=509) to be able to directly share
       over these services.
 
-It™s not just media tools which integrate with online services. [LibreOffice](http://www.libreoffice.org/) can export and import documents from
+Itâ€™s not just media tools which integrate with online services. [LibreOffice](http://www.libreoffice.org/) can export and import documents from
       online office suites like [Google Docs](http://docs.google.com) and [Zoho](http://zoho.com). And of course, mail/agenda/news clients like [Evolution](http://projects.gnome.org/evolution) and [KDE PIM](http://pim.kde.org) have offered integration with online services like
       mail or calendaring forever. Feed readers like [Liferea](http://liferea.sourceforge.net/) offer syncing your news feed with [Google Reader](http://www.google.com/reader) and [TinyTinyRSS](http://tt-rss.org/).
 
 Besides integrating with existing services, Free Software projects are starting their own.
-      Prominent examples are GNOME™s [Tomboy](http://projects.gnome.org/tomboy/)
+      Prominent examples are GNOMEâ€™s [Tomboy](http://projects.gnome.org/tomboy/)
       which synchronizes your notes between instances using an online service.
 
 **More**
@@ -990,14 +993,14 @@ But there is more available for openSUSE. There are several file sharing and syn
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-
+â€
 
-
+â€œ
 
 [Jos
-          Poortvliet: openSUSE and online storage and syncing](https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/)
+          Poortvliet: openSUSE and online storage and syncing](http://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/)
 
-The ˜cloud™ has been a buzzword for quite a while. While some are still rather cynical
+The â€˜cloudâ€™ has been a buzzword for quite a while. While some are still rather cynical
       towards the concept, products like [mobile phones with
         Android](http://www.android.com/) have shown the value of putting your data in that [huge, amorphous network of servers somewhere](http://xkcd.com/908/). Apple
       recently [introduced their new cloud service](http://www.apple.com/icloud/)
@@ -1008,15 +1011,15 @@ The ˜cloud™ has been a buzzword for quite a while. While some are still rathe
 
 **Variety**
 
-Let™s define Cloud technology as ˜related to putting data online & sharing among
-      devices™ which is a reasonable definition for our purposes. There is a huge number of
+Letâ€™s define Cloud technology as â€˜related to putting data online & sharing among
+      devicesâ€™ which is a reasonable definition for our purposes. There is a huge number of
       technologies connecting openSUSE users to online services. However there is a distinction to
-      be made between commercial or proprietary operating systems and ours. We don™t create a vendor
+      be made between commercial or proprietary operating systems and ours. We donâ€™t create a vendor
       lock-in scenario because we focus on tools that freely connect you to your choice of publicly
-      available services. This is a key distinction because we™re not owning or controlling the
+      available services. This is a key distinction because weâ€™re not owning or controlling the
       cloud that you place your data in. You, the user, get to decide the place where it best fits
       your needs and comfort level. Yesterday we [highlighted
-        integration in our every day applications](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/). Today we focus on file syncing services
+        integration in our every day applications](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/). Today we focus on file syncing services
       and especially the cool Free Software project ownCloud!
 
 **File sharing and syncing services**
@@ -1034,14 +1037,14 @@ The popular [Dropbox](http://dropbox.com) service offers a similar
       online space, and even comes with integration in the [Nautilus file manager](http://live.gnome.org/Nautilus)!
 
 But both services depend on proprietary server components and need a proprietary daemon to
-      run on your system. Dropbox also doesn™t encrypt the data on the server, something Spideroak
+      run on your system. Dropbox also doesnâ€™t encrypt the data on the server, something Spideroak
       at least does. SpiderOak also promised to at some point open source their client software.
       Still, the server side and web interface will remain closed. Luckily there are Free Software
-      solutions out there, two of them I™ll talk about here.
+      solutions out there, two of them Iâ€™ll talk about here.
 
 **Introducing iFolder**
 
-![]({{ site.baseurl }}/assets/iFolder2clean_filmgrain_picture-300x212.png)
+![](/wp-content/uploads/2011/06/iFolder2clean_filmgrain_picture.png)
 
 [iFolder](http://www.kablink.org/ifolder) is a Free Software file
       storage, backup and sharing solution written in C# and Mono. iFolder comes with a desktop
@@ -1062,12 +1065,12 @@ iFolder does have some powerful capabilities, especially for corporate environme
 So unlike Dropbox and SpiderOak, iFolder is fully Free Software and the source is [hosted on sourceforge](http://community.ifolder.com/ssf/a/c/p_name/ss_forum/p_action/1/action/view_permalink/entityType/folderEntry/entryId/4244) and can be found [here](http://sourceforge.net/projects/ifolder/). With 9 commits in the last 2
       months it is not a hugely active project and the last release is from November 2009. Still bug
       fixes are being added and lots of improvements were landed in 2010. You can find more
-      up-to-date versions by [searching on OBS](http://software.opensuse.org/search?q=ifolder&baseproject=ALL&lang=en). And it should be noted that this ˜old™ version of iFolder has been offering all the features of Dropbox and
+      up-to-date versions by [searching on OBS](http://software.opensuse.org/search?q=ifolder&baseproject=ALL&lang=en). And it should be noted that this â€˜oldâ€™ version of iFolder has been offering all the features of Dropbox and
       SpiderOak, fully open and free, for years!
 
 **introducing ownCloud**
 
-![]({{ site.baseurl }}/assets/owncloud-logo-300x148.png)
+![](/wp-content/uploads/2011/06/owncloud-logo.png)
 
 [ownCloud](http://owncloud.org/) is an exciting and much more active
       project, developing file synchronization technology on a Free Software base. However, ownCloud
@@ -1076,36 +1079,36 @@ So unlike Dropbox and SpiderOak, iFolder is fully Free Software and the source i
       Cloud, giving a feature comparision between ownCloud and their cloud offering. He mentioned
       that:
 
-
+â€œ
 
 Apple finally [has] features which are essential for people who live in a connected
         world and have more than one device
 
-
+â€
 
 Furthermore, after having a look at what Apple came up with, he concludes:
 
-
+â€œ
 
 It seems that we support everything iCloud is doing and a bit more if you look into the
         feature set. And we have a fundamentally more advanced vision and architecture.
 
-
+â€
 
 ownCloud offers all the basics of accessing files via a variety of means including a web
       interface and WebDAV. WebDAV support means integration in both [Nautilus](http://live.gnome.org/Nautilus) and [Dolphin](http://dolphin.kde.org/), as well as all KDE and most GNOME
       applications. ownCloud can synchronize application data like Bookmarks and settings and allows
       you to listen to your online music collection in a few ways including from [Ampache](http://ampache.org/) and via the web interface. The same goes for
-      movies and photo™s while PIM syncing is in the works.
+      movies and photoâ€™s while PIM syncing is in the works.
 
-![]({{ site.baseurl }}/assets/ownCloud_Login-300x173.jpg)
+![](/wp-content/uploads/2011/06/ownCloud_Login.jpg)
 
 Above and beyond iCloud, work is going on in ownCloud to offer versioning of all files
-      through it™s git backend and the ability to share your files with whomever you want. More
+      through itâ€™s git backend and the ability to share your files with whomever you want. More
       importantly, ownCloud is extensible. It is possible to write addons to ownCloud like RSS
-      readers, todo lists and note syncing or even collaborative gaming. And ownCloud doesn™t limit
+      readers, todo lists and note syncing or even collaborative gaming. And ownCloud doesnâ€™t limit
       you with DRM or digital fingerprints, allowing you to put your music and movies online without
-      restrictions. Finally, where Apple™s cloud just works with Apple devices (as we™ve come to
+      restrictions. Finally, where Appleâ€™s cloud just works with Apple devices (as weâ€™ve come to
       expect from them), ownCloud is not so picky, working with Windows, Mac and Linux as well as
       Android, MeeGo and of course the iPhone. This is possible because ownCloud uses open standards
       and works with Free Software where possible, including the mentioned webDav, HTML5, [Open
@@ -1119,7 +1122,7 @@ And more is [coming in
         ownCloud 2.0](http://owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html), scheduled for later this year. The UI has been completely redesigned
       and there is now media support to play audio and video via the web interface. The mentioned
       Ampache support, developed by Robin Appelman, will have a nice effect: the awesome [Tomahawk music player](http://tomahawk-player.org/) we [mentioned
-        yesterday](https://news.opensuse.org/2011/06/16/opensuse-and-online-services/) has Ampache support and thus will be able to play music directly from your
+        yesterday](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/) has Ampache support and thus will be able to play music directly from your
       ownCloud 2.0 server!
 
 Moreover, user management has been improved as well, and you will be able to extend
@@ -1132,32 +1135,32 @@ Moreover, user management has been improved as well, and you will be able to ext
 Aaron, one of the ownCloud developers, gives [his
         thoughts](http://owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html) on where ownCLoud should go:
 
-
+â€œ
 
 With this, we can not only compete with Apple & Google, we can leave them behind or
-        integrate with them from our own camp. There™s no reason you shouldn™t be able to play your
+        integrate with them from our own camp. Thereâ€™s no reason you shouldnâ€™t be able to play your
         music from the cloud in Amarok or Tomahawk, view your calendar events on your iPhone and in
         Kontact and access all of your files from Android or webOS or Gnome or Windows or OS X. You
         should also be able to back up your home directory and keep it in sync between multiple
         computers
 
-
+â€
 
 **Control**
 
-The most important feature of ownCloud, however, is control. In Frank™s words:
+The most important feature of ownCloud, however, is control. In Frankâ€™s words:
 
-
+â€œ
 
 You don't have to put your private data into the hosting center of a big company
 
-
+â€
 
 You can install ownCloud on your own server, your desktop at home, a company server but
       also at a hosting provider supporting PHP, or run it as appliance in some cloud service under
       your direct control. Because it is Free Software, you fully own your data and only you can determine what happens with it.
 
-All this doesn™t have to mean ownCloud is hard to set up. The upcoming 2.0 version will
+All this doesnâ€™t have to mean ownCloud is hard to set up. The upcoming 2.0 version will
       make it drastically easier to deploy but the current 1.2 release can also be had in a number
       of very easy ways.
 
@@ -1165,7 +1168,7 @@ All this doesn™t have to mean ownCloud is hard to set up. The upcoming 2.0 ver
 
 You can install owncloud on your own server or even desktop using the [openSUSE
         repositories on OBS](http://software.opensuse.org/search?q=owncloud&baseproject=ALL). Be sure to read [the documentation](http://owncloud.org/index.php/Installation#openSUSE) on
-      starting and managing your ownCloud. You can also use the how-to on [Aaron™s
+      starting and managing your ownCloud. You can also use the how-to on [Aaronâ€™s
         blog](http://owncloudtest.blogspot.com/2011/06/getting-your-owncloud.html) to get the latest and freshest version installed from source! After following
       the basic installation steps, you just have to go to [127.0.0.1](http://127.0.0.1/owncloud/index.php) in your browser to complete the
       setup from the web interface.
@@ -1176,7 +1179,7 @@ However, your ownCloud can be had easier. You can use the excellent [ownCloud-in
         Cloud Computing](http://aws.amazon.com/ec2/) support of SUSE Studio. Deploying your image on the Amazon cloud
         [is
         easy as pie](http://blog.susestudio.com/2011/05/its-never-been-so-ec2-access-cloud.html). You could use [microinstance](http://aws.amazon.com/ec2/instance-types/) for which even a [free 1-year
-        subscription](http://aws.amazon.com/free/) is available. Yes, that™s right, you can have your openSUSE ownCloud under your full
+        subscription](http://aws.amazon.com/free/) is available. Yes, thatâ€™s right, you can have your openSUSE ownCloud under your full
       control on Amazon EC2 for **FREE** for one year!
 
 If running your own Appliance on EC2, another provider or your own hardware is still a tad
@@ -1215,7 +1218,7 @@ openSUSE 11.3
 
 **Helping out**
 
-![]({{ site.baseurl }}/assets/owncloud_studio-300x173.png)
+![](/wp-content/uploads/2011/06/owncloud_studio.png)
 
 ownCloud is a Free Software project, which means you can get involved. The team is looking
       for anyone who has some skills in (or wants to learn) PHP, C++, HTML, CSS & Javascript.
@@ -1226,26 +1229,26 @@ ownCloud is a Free Software project, which means you can get involved. The team 
 
 Frank closes his blog with:
 
-
+â€œ
 
 I think ownCloud has the potential to become the cloud storage solution for people who
         donÃ½t like vendor lock-ins and care about freedom and privacy
 
-
+â€
 
 We would like to go a step further and claim that the wide variety of hosting options for
       ownCloud offers not only more security and privacy but also far more flexibility and, in time,
-      lower prices than what Google, Apple, Microsoft and the other ˜big boys™ bring to the table.
+      lower prices than what Google, Apple, Microsoft and the other â€˜big boysâ€™ bring to the table.
       Combined with the excellent integration openSUSE desktops already offer with online services,
       openSUSE has a sunny future in the cloud.
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [Linux.com/Carla Schroder: Things You Can't Do With a GUI: Finding Stuff on Linux](http://www.linux.com/learn/tutorials/458715:things-you-cant-do-with-a-gui-finding-stuff-on-linux)
@@ -1253,49 +1256,49 @@ We would like to go a step further and claim that the wide variety of hosting op
 
 What's better, a graphical interface or the Linux command line? Both of them. They blend seamlessly on Linux so you don't have to choose. A good graphical user interface (GUI) has a logical, orderly flow, helps guide you to making the right command choices, and is reasonably fast and efficient. Since this describes a minority of all GUIs, I still live on the command line a lot. The CLI has three advantages: it's faster for many operations, it's scriptable, and it is many times more flexible. Linux's Unix heritage means you can string together commands in endless ways so they do exactly what you want. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
+â€œ
 
 
-
-        [Justine Leng: 11 Things I™ve Learned about Git](http://obsforandroid.wordpress.com/2011/06/13/11-things-ive-learned-about-git/)
+        [Justine Leng: 11 Things Iâ€™ve Learned about Git](http://obsforandroid.wordpress.com/2011/06/13/11-things-ive-learned-about-git/)
       
 
-Now that I™ve spent a few weeks with Git, I decided to record some of the things I
+Now that Iâ€™ve spent a few weeks with Git, I decided to record some of the things I
         learned while moving from Subversion (a centralized version control system) to Git (a
         distributed version control system). (...)
 
-
+â€
 
-
+â€œ
 
 
         [Python4Kids/Brendan Scott: Review, Formatting Silly Sentences](http://python4kids.wordpress.com/2011/06/14/review-formatting-silly-sentences/)
       
 
-We have been covering lots of new concepts very quickly. So now is the time to slow down a bit and go over some of the things we™ve already done, to have a look at them in a little more depth. In particular I want to try to give you some direction on how to make these code samples your own. (...)
+We have been covering lots of new concepts very quickly. So now is the time to slow down a bit and go over some of the things weâ€™ve already done, to have a look at them in a little more depth. In particular I want to try to give you some direction on how to make these code samples your own. (...)
 
-
+â€
 
 ### For System Administrators
 
+â€œ
 
 
-
-        [Nelson Marques: openSUSE 11.4 with GNOME2 for the ˜cool kids™¦ a brief howto!](http://www.marques.so/2011/06/opensuse-11-4-with-gnome2-for-the-cool-kids-a-brief-howto/)
+        [Nelson Marques: openSUSE 11.4 with GNOME2 for the â€˜cool kidsâ€™â€¦ a brief howto!](http://www.marques.so/2011/06/opensuse-11-4-with-gnome2-for-the-cool-kids-a-brief-howto/)
       
 
-In the past I™ve written a small howto in Portuguese to perform a openSUSE 11.4 GNOME2
+In the past Iâ€™ve written a small howto in Portuguese to perform a openSUSE 11.4 GNOME2
         featured installation in Portuguese. Until today I still receive lots of feedback and some
         personal emails from Portuguese and Brazilian (mostly) users about it.
 
-I™ve always preached that the nice of openSUSE was the fact of allowing the users to
+Iâ€™ve always preached that the nice of openSUSE was the fact of allowing the users to
         install a vast number of repositories and running an updated application layer on top of a
-        powerful and reliable base. This article isn™t really about ˜installing™ openSUSE, but
-        instead it™s focused on the post install configuration of kinky repositories and stuff that
-        by the traditional reasons isn™t provided as standard in openSUSE.
+        powerful and reliable base. This article isnâ€™t really about â€˜installingâ€™ openSUSE, but
+        instead itâ€™s focused on the post install configuration of kinky repositories and stuff that
+        by the traditional reasons isnâ€™t provided as standard in openSUSE.
 
 This document will cover the following aspects:
 
@@ -1309,44 +1312,44 @@ At the end, the user should have a working openSUSE 11.4 GNOME2 Desktop with ver
         sub-pixel font rendering (this really kicks ass) and have an idea of the potential that
         openSUSE can deploy for customized systems. (...)
 
-
+â€
 
-
+â€œ
 
 
         [OStatic/Jon Buys: So You Just Deleted Your Production Database - What Now](http://ostatic.com/blog/so-you-just-deleted-your-production-database-what-now)
       
 
-It doesn™t matter how it happened, it doesn™t matter why, blame can (and probably will) be placed later. What matters now is that your production MySQL database was just deleted from the filesystem while the MySQL daemon was running. The good news is that the server, somehow, is still running fine, and the system is still up. The bad news is that the directory where MySQL stores the database is now empty.
+It doesnâ€™t matter how it happened, it doesnâ€™t matter why, blame can (and probably will) be placed later. What matters now is that your production MySQL database was just deleted from the filesystem while the MySQL daemon was running. The good news is that the server, somehow, is still running fine, and the system is still up. The bad news is that the directory where MySQL stores the database is now empty.
 
 Take a deep breath, you are running Linux, here is what to do: (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 
       [Jakub Steiner: Killing Mode Switch](http://jimmac.musichall.cz/log/?p=1181)
     
 
-As Allan already mentioned inÂ one of his useful summaries, I™ve been pondering how how to
-      improve the layout of the application picker in shell™s overview. While theÂ mockupÂ he showed
+As Allan already mentioned inÂ one of his useful summaries, Iâ€™ve been pondering how how to
+      improve the layout of the application picker in shellâ€™s overview. While theÂ mockupÂ he showed
       does address the small click target problem, it still felt out of place with relation to the
       dash. I tried to applyÂ different lipstickÂ on it, but there was something inherently wrong with
-      the layout and the overview lost its clean, no boxes feel.
+      the layout and the overview lost its clean, â€œno boxesâ€ feel.
 
 The reason for theÂ windows/applicationsÂ toggle was easy extensibility. We thought of using
       shell to access people/contacts in the same way as we access applications. We thought to
       present documents in a better way without exposing the filesystem here as well. We thought the
-      orthogonal arrangement ala Sony™s XMB would be fun on touch devices. Over time, I have come to
-      the conclusion that extending the scope of shell might do more harm than good. I™ve never been
+      orthogonal arrangement ala Sonyâ€™s XMB would be fun on touch devices. Over time, I have come to
+      the conclusion that extending the scope of shell might do more harm than good. Iâ€™ve never been
       a fan of all-in-one solutions ala iTunes. (...)
 
-
+â€
 
-
+â€œ
 
 [Fridrich Strba: Experimental Evolution installer for Windows](http://fridrich.blogspot.com/2010/05/experimental-evolution-installer-for.html)
 
@@ -1358,13 +1361,13 @@ It is a pleasure, fun and honour to introduce to the distinguished audience our
       people that don't know what to do with RPM packages on windows,Â [7-zip](http://7-zip.org/)Â does just a wonderful job at unpacking RPMs even if they use LZMA payload.
       (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Announcements
 
-
+â€œ
 
 
         [Adobe/Dave Mc Allister: Focusing on the next Linux Client](http://blogs.adobe.com/open/2011/06/focusing-on-the-next-linux-client.html)
@@ -1373,11 +1376,11 @@ It is a pleasure, fun and honour to introduce to the distinguished audience our
 Way back in 1999 I predicted a significant market for desktop Linux by 2005. Â (I was
         targeting better than Mac OS type numbers, in the 10-15% range.) Â It was clear back then
         that Linux had found a substantial adoption as a server OS, and it seemed only time before
-        the desktop adoption rivaled at least the other desktop.
+        the desktop adoption rivaled at least â€œthe other desktopâ€.
 
-
+â€
 
-
+â€œ
 
 
         [The Document Foundation: First TDF Advisory Board members demonstrate wide corporate
@@ -1388,19 +1391,19 @@ The Document Foundation today announced the first members of its Advisory Board:
         SUSE, Red Hat, Freies Office Deutschland e.V., Software in the Public Interest, and the Free
         Software Foundation. The new appointees will serve for an initial term of one year.
 
-The body represents The Document Foundation™s sponsors, with each sponsor having the
+The body represents The Document Foundationâ€™s sponsors, with each sponsor having the
         right to one representative. They will provide the future Board of Directors with advice,
         guidance and proposals, and will consult regularly on the further development of the
         Foundation and its associated projects.
 
-We™re very proud, and warmly welcome the first members of the Advisory Board. Its composition shows that LibreOffice is a vendor-neutral, truly-free office suite, and confirms that The Document Foundation has created a solid base to build upon, for the community, for corporations and enterprises, and for adopters and end-users, said Florian Effenberger on behalf of The Document Foundation™s
-        Steering Committee. With LibreOffice being downloaded from all over the world, with the community growing quickly, and with organizations and corporations showing strong support, The Document Foundation has succeeded in creating a safe, stable and secure base to ensure the future of free office suites, he added.
+â€œWeâ€™re very proud, and warmly welcome the first members of the Advisory Board. Its composition shows that LibreOffice is a vendor-neutral, truly-free office suite, and confirms that The Document Foundation has created a solid base to build upon, for the community, for corporations and enterprises, and for adopters and end-users,â€ said Florian Effenberger on behalf of The Document Foundationâ€™s
+        Steering Committee. â€œWith LibreOffice being downloaded from all over the world, with the community growing quickly, and with organizations and corporations showing strong support, The Document Foundation has succeeded in creating a safe, stable and secure base to ensure the future of free office suites,â€ he added.
 
-
+â€
 
 ### Call for participation
 
-
+â€œ
 
 
         [LinuxJournal/Vote: What is your favorite Linux distribution for use on the desktop?](http://www.linuxjournal.com/content/what-your-favorite-linux-distribution-use-desktop)
@@ -1409,11 +1412,11 @@ We™re very proud, and warmly welcome the first members of the Advisory Board. 
 This is a Vote from LinuxJournal about what is your favorite Linux Distribution. So
         spend a minute into this vote, and vote for openSUSE :-)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 
         [Linus Torvalds and Greg Kroah-Hartman on 20 years of Linux @ LinuxCon Japan 2011](http://www.youtube.com/watch?v=__fALdvvcM0)
@@ -1421,9 +1424,9 @@ This is a Vote from LinuxJournal about what is your favorite Linux Distribution.
 
 Greg Kroah-Hartman in conversation with Linux creator Linus Torvalds will share their thoughts on the first 20 years of Linux and what the future holds.
 
-
+â€
 
-
+â€œ
 
 
         [Softpedia: New Nvidia Linux Driver Brings Support for GNOME 3 and KDE SC 4](http://news.softpedia.com/news/New-Nvidia-Linux-Driver-Brings-Support-for-GNOME-3-and-KDE-SC-4-206078.shtml)
@@ -1431,9 +1434,9 @@ Greg Kroah-Hartman in conversation with Linux creator Linus Torvalds will share 
 
 A few minutes ago, June 14th, Nvidia launched version 275.09.07 of its graphics driver for Linux, Solaris and FreeBSD operating systems, which brings improved support for the GNOME 3 desktop environment and KDE SC 4.6. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Internet.com/Sean Michael Kerner: Adobe AIR ditches Linux users](http://blog.internetnews.com/skerner/2011/06/adobe-air-ditches-linux-users.html)
@@ -1453,11 +1456,11 @@ Adobe announced today that it was discontinuing its own supported version of AIR
 
 The reason? Adobe doesn't see growth in the Linux desktop. (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [Linux Magazine/Bruce Byfield: The Decline and Fall of OpenOffice.org](http://www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/The-Decline-and-Fall-of-OpenOffice.org)
@@ -1465,37 +1468,37 @@ The reason? Adobe doesn't see growth in the Linux desktop. (...)
 
 When LibreOffice first forked from OpenOffice.org, I was unsure how to [respond](http://www.linuxpromagazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/The-Cold-War-Between-OpenOffice.org-and-LibreOffice) to it. Many of its founders were members of [Go-OO](http://go-oo.org), the sometimes controversial not-quite-fork, so LibreOffice looked like simply a continuation of GO-OO under another name. However, since last week, when Oracle [donated](http://www.marketwire.com/press-release/statements-on-openofficeorg-contribution-to-apache-nasdaq-orcl-1521400.htm) OpenOffice.org to the Apache Software Foundation, LibreOffice.org is looking more and more like the natural heir of the original OpenOffice.org -- by which I mean the project that will do the free software community the most benefit.. (...)
 
-
+â€
 
-
+â€œ
 
 
         [h-online/Glyn Moody: Do we still need the FSF, GNU and GPL?](http://www.h-online.com/open/features/Do-we-still-need-the-FSF-GNU-and-GPL-1258669.html)
       
 
-It's easy to take things for granted “ to assume that the world will always be as it is. And then sometimes you receive a mild jolt: some new information appears that makes you sit up and reconsider your preconceptions. (...)
+It's easy to take things for granted â€“ to assume that the world will always be as it is. And then sometimes you receive a mild jolt: some new information appears that makes you sit up and reconsider your preconceptions. (...)
 
-
+â€
+
+â€œ
 
 
-
-
-        [MakeUseOf/Angela Alcorn: OpenStudy “ A Collection Of Online Study Groups On All Subjects](http://www.makeuseof.com/tag/openstudy-collection-online-study-groups-subjects/)
+        [MakeUseOf/Angela Alcorn: OpenStudy â€“ A Collection Of Online Study Groups On All Subjects](http://www.makeuseof.com/tag/openstudy-collection-online-study-groups-subjects/)
       
 
 Are you a current student? A homeschooler or homeschooling parent? Have you decided to
         keep learning and to always be a student? Have you ever dreamed about the ideal study group?
-          Well,Â [OpenStudy](http://openstudy.com/)Â has too, and they™re determined
+          Well,Â [OpenStudy](http://openstudy.com/)Â has too, and theyâ€™re determined
         to make it happen.
 
-If you™ve ever experienced a successful online classroom environment, then you™ll know
+If youâ€™ve ever experienced a successful online classroom environment, then youâ€™ll know
         that the right mix of online course material and interaction with peers is what keeps the
         class motivated and achieving results. What OpenStudy is doing is working on the latter part
         of the mix. In theory, the students may learn in their real-life classrooms or working with
-        online course material. But if the peers are interacting, they™ll share known resources with
-        each other. It™s the other side of learning. (...)
+        online course material. But if the peers are interacting, theyâ€™ll share known resources with
+        each other. Itâ€™s the other side of learning. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1527,7 +1530,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1545,7 +1548,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1584,7 +1587,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 180 is available in: 
 
-  * [English](https://news.opensuse.org/?p=9289)
+  * [English](http://news.opensuse.org/?p=9289)
 
 Coming soon: 
 
@@ -1597,5 +1600,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-		

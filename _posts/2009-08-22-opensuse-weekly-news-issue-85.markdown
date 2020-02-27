@@ -1,18 +1,21 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-08-22 13:54:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/22/opensuse-weekly-news-issue-85/
-title: "openSUSE Weekly News, issue #85"
+slug: opensuse-weekly-news-issue-85
+title: 'openSUSE Weekly News, issue #85'
+wordpress_id: 2025
 categories:
 - Weekly News
 tags:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #85 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/85)!
 
-In this week™s issue:
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #85 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/85)!
+
+In this weekâ€™s issue:
 
 
 
@@ -34,4 +37,4 @@ In this week™s issue:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/85/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/85/Translations)		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/85/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/85/Translations)

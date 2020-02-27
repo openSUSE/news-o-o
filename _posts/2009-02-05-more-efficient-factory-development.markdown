@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-02-05 10:35:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/02/05/more-efficient-factory-development/
-title: "More Efficient Factory Development"
+slug: more-efficient-factory-development
+title: More Efficient Factory Development
+wordpress_id: 1162
 categories:
 - Distribution
 ---
+
 The [openSUSE Factory](http://en.opensuse.org/Factory) distribution is our permanent development distribution. Currently used to develop openSUSE 11.2. We want to make the factory distribution better usable for everybody to get a better testing for next release.
 One of the complaints we received in the last years is that the huge amount of newly built packages makes it hard for people to keep their system up to date, simply due to the time needed for downloading and installing the packages.
 
@@ -50,4 +53,4 @@ The compare happens via a script, which is part of the distribution. You can fin
 
 Right now we want to stay on the conservative side and release a new build in doubt.  However we might change some tools to avoid writing timestamps into files for example. Or we will enhance the script to ignore some more changes.
 
-This script is active now for all builds within openSUSE:Factory or when you build packages in your projects for it. It is not yet active for builds against other distros, however we might enable it later for them after some more testing. Isqi ctal-tta uk braindumps pdf and vce learning methods offered by us, details [writing an outline for an essay](https://essaydragon.com/) can be obtained from this source		
+This script is active now for all builds within openSUSE:Factory or when you build packages in your projects for it. It is not yet active for builds against other distros, however we might enable it later for them after some more testing. Isqi ctal-tta uk braindumps pdf and vce learning methods offered by us, details [writing an outline for an essay](https://essaydragon.com/) can be obtained from this source

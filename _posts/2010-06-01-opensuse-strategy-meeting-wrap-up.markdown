@@ -1,14 +1,17 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2010-06-01 04:38:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/
-title: "openSUSE Strategy Meeting “ wrap up"
+slug: opensuse-strategy-meeting-wrap-up
+title: openSUSE Strategy Meeting â€“ wrap up
+wordpress_id: 3386
 categories:
 - Project
 ---
-As in michl's [post ](https://news.opensuse.org/2010/05/20/opensuse-strategy-meeting/)announced a the openSUSE Board and some other community members met the past weekend in Nürnberg to have a comprehensive 2.5 days face to face meeting . The meeting was attended by Bryen Yunashko, Andreas Jaeger, Jan Weber, Pascal Bleser, Michael Loeffler and Pavol Rusnak (Hendrik Vogelsang and Rupert Horsttkötter were unfortunately unable to join) and lead and facilitated by Kurt Garloff.We'd like to tell you what we've done, what the outcome is and what the next steps should look alike. We had tons of very fruitful discussions and are much clearer about the strengths of openSUSE and how to create a strategy around those.
+
+As in michl's [post ](http://news.opensuse.org/2010/05/20/opensuse-strategy-meeting/)announced a the openSUSE Board and some other community members met the past weekend in NÃ¼rnberg to have a comprehensive 2.5 days face to face meeting . The meeting was attended by Bryen Yunashko, Andreas Jaeger, Jan Weber, Pascal Bleser, Michael Loeffler and Pavol Rusnak (Hendrik Vogelsang and Rupert HorsttkÃ¶tter were unfortunately unable to join) and lead and facilitated by Kurt Garloff.We'd like to tell you what we've done, what the outcome is and what the next steps should look alike. We had tons of very fruitful discussions and are much clearer about the strengths of openSUSE and how to create a strategy around those.
 
 Beside of the usual meeting things (introduction, ground rules, goals of the meeting) we wrapped up the [stuff](http://en.opensuse.org/Documents) we did over the last months during our weekly IRC meetings. So we concentrated on our users, the strength and weakness openSUSE has, the competition we face and our expectations for future changes in the way we use computers. When building a strategy, you acknowledge that you can't be the best everywhere, you can't be everything to everybody, if you want to be successful, so you need to choose your focus - the already existing strength might be a good start to focus on. Therefor we went through the [SWOT](http://en.opensuse.org/Documents/SWOT) analysis and summarized the the strengths we do have:
 
@@ -59,4 +62,4 @@ After we've published the proposals we'd like to have this discussion open for 3
 
 That's it for today. We had an exhausting weekend but the outcome is pretty good and more stuff, way more detail will be there soon to define together the path openSUSE should take in the future.
 
-Please stay tuned to June 8 when we will present our proposals to the community and open up for 30 days of public discussion.		
+Please stay tuned to June 8 when we will present our proposals to the community and open up for 30 days of public discussion.

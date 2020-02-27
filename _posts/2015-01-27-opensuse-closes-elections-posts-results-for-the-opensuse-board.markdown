@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-01-27 17:08:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/01/27/opensuse-closes-elections-posts-results-for-the-opensuse-board/
-title: "Polls close for the openSUSE Board elections"
+slug: opensuse-closes-elections-posts-results-for-the-opensuse-board
+title: Polls close for the openSUSE Board elections
+wordpress_id: 19044
 categories:
 - Board
 ---
-[![drawing]({{ site.baseurl }}/assets/drawing1-212x300.png)]({{ site.baseurl }}/assets/drawing1.png)The votes have been cast and the results are in for the openSUSE elections.
+
+[![drawing](/wp-content/uploads/2014/12/drawing1.png)](/wp-content/uploads/2014/12/drawing1.png)The votes have been cast and the results are in for the openSUSE elections.
 
 There were three seats to be fill this election for a standard two-year (24-month) term :
 - Robert Schweikert and Kosta Koudaras' terms were coming to expiration.
@@ -29,4 +32,4 @@ There were 148 people voting.
 - Peter Linnell, 63 votes (43%)
 - Craig Gardner, 60 votes (41%)
 
-Thank you to all the candidates who stepped up to run for election and the all members who cast their votes!		
+Thank you to all the candidates who stepped up to run for election and the all members who cast their votes!

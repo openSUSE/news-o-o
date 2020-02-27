@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2010-06-18 15:00:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/18/plan-your-opensuse-11-3-release-party-now/
-title: "Plan your openSUSE 11.3 release party now!"
+slug: plan-your-opensuse-11-3-release-party-now
+title: Plan your openSUSE 11.3 release party now!
+wordpress_id: 3534
 categories:
 - Distribution
 - Events
 - Project
 ---
-
 
 
 [![](http://karl-tux-stadt.de/graph/launch113_small.png)](http://karl-tux-stadt.de/graph/launch.png)
@@ -77,4 +78,4 @@ All above mentioned launch party forms can be mixed together and additions are p
 For openSUSE 11.3 I hope that all openSUSE [Ambassadors](http://en.opensuse.org/Ambassador/List) participate and organizing a launch event. For openSUSE 11.1 we had 16 events and for openSUSE 11.2 27 events. That's much better but not good enough. My target for openSUSE 11.3 are 50 events or more worldwide. In such places like Taipeh we have 4 Ambassadors there should be definitly a Launch Party. Barcelona, Vienna, Jakarta and Singapore too. The early bird catch the worm! So let us begin now with the plannings for the launch events.
 When we work together we can make more centralized marketing then just the page in the Launch Party [wiki page](http://en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations) can do.
 
-[Gnokii](http://en.opensuse.org/User:Gnokii) has some ideas for it. Maybe we can do a twitter wall I organized for the openSUSE Conference with tweets and pictures from the events to show live whats going on. So now it's up to you, make the first step and begin to plan your Launch Party. If u need help then talk to [Gnokii](http://en.opensuse.org/User:Gnokii). If you have ideas, what can be done at such a party so step out and say it maybe its a really interesting idea. Add your experience to our [wiki](http://en.opensuse.org/Marketing/Resources#Launch_Party_HOWTO) and contact [Gnokii](http://en.opensuse.org/User:Gnokii) for advise, questions and so on.		
+[Gnokii](http://en.opensuse.org/User:Gnokii) has some ideas for it. Maybe we can do a twitter wall I organized for the openSUSE Conference with tweets and pictures from the events to show live whats going on. So now it's up to you, make the first step and begin to plan your Launch Party. If u need help then talk to [Gnokii](http://en.opensuse.org/User:Gnokii). If you have ideas, what can be done at such a party so step out and say it maybe its a really interesting idea. Add your experience to our [wiki](http://en.opensuse.org/Marketing/Resources#Launch_Party_HOWTO) and contact [Gnokii](http://en.opensuse.org/User:Gnokii) for advise, questions and so on.

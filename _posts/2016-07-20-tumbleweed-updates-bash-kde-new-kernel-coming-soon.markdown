@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-07-20 10:42:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/07/20/tumbleweed-updates-bash-kde-new-kernel-coming-soon/
-title: "Tumbleweed updates bash, KDE, new Kernel coming soon"
+slug: tumbleweed-updates-bash-kde-new-kernel-coming-soon
+title: Tumbleweed updates bash, KDE, new Kernel coming soon
+wordpress_id: 20046
 tags:
 - alpha 3
 - bash
@@ -12,6 +14,7 @@ tags:
 - plasma 5.7
 - Tumbleweed
 ---
+
 
 
 There is a lot of excitement around the latest [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots because of new [KDE](https://www.kde.org) features and the newest stable [Linux Kernel](https://www.kernel.org/), which is expected in the next snapshot.
@@ -25,9 +28,9 @@ The [20160716](https://lists.opensuse.org/opensuse-factory/2016-07/msg00253.html
 There was also updates to autoyast2 and python-requests in the [20160716](https://lists.opensuse.org/opensuse-factory/2016-07/msg00253.html) snapshot and three libraries were also updated.<!-- more -->
 
 
-### ![Leap-green]({{ site.baseurl }}/assets/Leap-green-254x300.png)Alpha 3
+### ![Leap-green](/wp-content/uploads/2016/04/Leap-green.png)Alpha 3
 
 
 The latest information on [openSUSE Leap](https://en.opensuse.org/Portal:Leap) is that the Alpha 3 release is expected to be released this week.
 
-The first Beta for [openSUSE Leap 42.2](https://en.opensuse.org/Portal:42.2) will likely be released at the end of August and a submission deadline will shortly follow that, according to the [Road Map](https://en.opensuse.org/openSUSE:Roadmap).		
+The first Beta for [openSUSE Leap 42.2](https://en.opensuse.org/Portal:42.2) will likely be released at the end of August and a submission deadline will shortly follow that, according to the [Road Map](https://en.opensuse.org/openSUSE:Roadmap).

@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-09-05 14:36:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/09/05/sponsors-present-at-opensuse-conference-2011/
-title: "Sponsors present at openSUSE Conference 2011"
+slug: sponsors-present-at-opensuse-conference-2011
+title: Sponsors present at openSUSE Conference 2011
+wordpress_id: 10968
 categories:
 - Announcements
 - Conference
 ---
+
 [![Global Player](http://farm4.static.flickr.com/3161/3574392846_68f6ca215d_m.jpg)](http://www.flickr.com/photos/29487767@N02/3574392846/)
 
 The [openSUSE Conference 2011](http://conference.opensuse.org) team is happy to announce the partners for this year's conference. Aside from sponsoring, there are contributions in terms of sessions, media coverage and network bandwidth. Let's look at what our sponsors contribute, what sessions they'll present and thank them for their support!
@@ -43,7 +46,7 @@ For more than 15 years NETWAYS has been supporting companies to manage complex, 
 
 Many changes made to modern IT infrastructure are related to scaling and increasing capacity or adjusting to specific load requirements. As many of you are probably aware, simply assigning more raw computing resources to a service rarely results in the desired increase in performance. And those attempting to tune systems to quickly changing requirements at short intervals encounter many components, complex relationships and conflicting demands making their job even more challenging. On Monday the 12th at 15:00, Bernd Erk, Head of Operations at [NETWAYS](http://www.netways.de/) will [deal with these issues and concerns in detail](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=151&confId=2). Taking all involved system levels into account, he will suggest best practices and strategies for the prevention and elimination of bottlenecks. He will also present an overview of the current solutions and strategies at the network, application framework and database level. Pros and cons of each solution will be covered in evaluating their potential in the modern data center. Bernd's technical expertise stretches across Systems Management, Manged Services and Software Development. He frequently publishes and presents on topics ranging from Nagios monitoring, XEN virtualization, MySQL database monitoring to performance tuning.
 
-Being Gold sponsor means NETWAYS plays a big role in making the conference possible and they are a major reason why we were able to do the [Conference travel support program](https://news.opensuse.org/2011/07/23/travel-sponsorship-program/)!
+Being Gold sponsor means NETWAYS plays a big role in making the conference possible and they are a major reason why we were able to do the [Conference travel support program](http://news.opensuse.org/2011/07/23/travel-sponsorship-program/)!
 
 
 ### OpenStack Cloud Computing and kernel debugging with Bronze sponsor B1 Systems
@@ -69,7 +72,7 @@ B1 likes to have a lot of fun and will be sponsoring [**the Geek Saloon and Danc
 [![](http://conference.opensuse.org/wp-content/uploads/Qt_logostrap_CMYK_smaller.png)](http://www.b1-systems.de/)
 
 
-[The Qt Developer Frameworks team at Nokia](http://qt.nokia.com/) will support the openSUSE conference as Bronze sponsor. While there are no Qt only sessions, a number of talks will be about technologies based upon Qt. Sebastian Kügler (from [openSLX](http://XXXXXXXXXXXX)) will talk about Plasma Active and getting openSUSE, Qt and KDE on tablet and mobile devices while Martin Gräßlin will talk about the work being done on Wayland support in KDE. You can expect some on-the-spot organized sessions as well. Qt's contribution was instrumental in our [Conference travel support program](https://news.opensuse.org/2011/07/23/travel-sponsorship-program/)!
+[The Qt Developer Frameworks team at Nokia](http://qt.nokia.com/) will support the openSUSE conference as Bronze sponsor. While there are no Qt only sessions, a number of talks will be about technologies based upon Qt. Sebastian KÃ¼gler (from [openSLX](http://XXXXXXXXXXXX)) will talk about Plasma Active and getting openSUSE, Qt and KDE on tablet and mobile devices while Martin GrÃ¤ÃŸlin will talk about the work being done on Wayland support in KDE. You can expect some on-the-spot organized sessions as well. Qt's contribution was instrumental in our [Conference travel support program](http://news.opensuse.org/2011/07/23/travel-sponsorship-program/)!
 
 
 ### Bronze partner Aero Access giving us bandwidth
@@ -107,4 +110,4 @@ Focus of **[LINUX INTERN](http://www.pcpraxis.de/index.php?option=com_hefte&task
 [![](http://conference.opensuse.org/wp-content/uploads/yalogo.png)](http://lwn.net/)
 
 
-The on-line LWN.net Weekly Edition is our weekly summary of what has happened in the Free Software world; our front page offers up-to-the-minute coverage.		
+The on-line LWN.net Weekly Edition is our weekly summary of what has happened in the Free Software world; our front page offers up-to-the-minute coverage.

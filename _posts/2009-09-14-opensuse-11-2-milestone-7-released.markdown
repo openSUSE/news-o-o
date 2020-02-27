@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-09-14 15:20:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/09/14/opensuse-11-2-milestone-7-released/
-title: "openSUSE 11.2 Milestone 7 Released"
+slug: opensuse-11-2-milestone-7-released
+title: openSUSE 11.2 Milestone 7 Released
+wordpress_id: 2171
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE Project is happy to announce that the openSUSE 11.2 Milestone 7 (M7) is [available for download](http://software.opensuse.org/developer). This release includes GNOME 2.28 beta 2, KDE 4.3.1, RPM 4.7.1, and much more.
 
 This is a Milestone Release, one of several that lead up to the 11.2 final release in November. It may not be suitable for production systems, but is ready for contributors who want to help with testing and development for 11.2. This release is of "beta" quality, and would have been labeled a beta in past openSUSE development cycles.
@@ -78,4 +81,4 @@ Note, if you need to try the live CD on a machine with no CD-ROM drive, you can 
 
 Replace "image.iso" with the name of the ISO image that you have downloaded, and replace "sdX" with the actual device name of your USB drive. Be careful! This will erase the target device, so make sure you have the correct device name and have any vital data backed up!
 
-The next milestone is scheduled to be released on October 1, 2009. A reminder: only one more milestone release is planned for 11.2, followed by two release candidate (RC) releases. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).		
+The next milestone is scheduled to be released on October 1, 2009. A reminder: only one more milestone release is planned for 11.2, followed by two release candidate (RC) releases. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).

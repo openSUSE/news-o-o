@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-08-10 12:02:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/08/10/tumbleweed-gets-three-snapshots-leap-deadline-approaches/
-title: "Tumbleweed gets three snapshots, Leap deadline approaches"
+slug: tumbleweed-gets-three-snapshots-leap-deadline-approaches
+title: Tumbleweed gets three snapshots, Leap deadline approaches
+wordpress_id: 20065
 categories:
 - Build Service
 - Leap
@@ -21,7 +23,8 @@ tags:
 - Tumbleweed
 - wireshark
 ---
-![Tumbleweed-black-green]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)Since the release of [Linux Kernel 4.7](https://www.kernel.org/) in the [20160730 snapshot](https://lists.opensuse.org/opensuse-factory/2016-08/msg00053.html), which brought lengthy email discussions about out-of-tree and third-party drivers on the [Factory mailing list](https://lists.opensuse.org/opensuse-factory/), [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) produced three snapshots.
+
+![Tumbleweed-black-green](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)Since the release of [Linux Kernel 4.7](https://www.kernel.org/) in the [20160730 snapshot](https://lists.opensuse.org/opensuse-factory/2016-08/msg00053.html), which brought lengthy email discussions about out-of-tree and third-party drivers on the [Factory mailing list](https://lists.opensuse.org/opensuse-factory/), [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) produced three snapshots.
 
 [Snapshot 20160803](https://lists.opensuse.org/opensuse-factory/2016-08/msg00101.html) made a small update to the repositories for [Mozilla Thunderbird](https://www.mozilla.org/en-US/thunderbird/) and [k3b](http://www.k3b.org/). The snapshot updated libzypp to version 16.2.1, gnome-online-accounts to 3.20.3 and obs-service-source_validator. In [20160803](https://lists.opensuse.org/opensuse-factory/2016-08/msg00101.html), virt-viewer had the most changes.
 
@@ -37,4 +40,4 @@ Tumbleweed users will likely get Plasma 5.72 in the next snapshot, which should 
 
 In two weeks is the submission deadline to get packages in the next version of openSUSE Leap 42.2. The Beta 1 is scheduled for release at the end of this month, according to the [roadmap](https://en.opensuse.org/openSUSE:Roadmap).
 
-The current development version, [Alpha 3](https://software.opensuse.org/developer/en?release=developer), needs more people to test the version and file bugs. Download Alpha 3 and test it out at [software.opensuse.org](https://software.opensuse.org/developer/en?release=developer).		
+The current development version, [Alpha 3](https://software.opensuse.org/developer/en?release=developer), needs more people to test the version and file bugs. Download Alpha 3 and test it out at [software.opensuse.org](https://software.opensuse.org/developer/en?release=developer).

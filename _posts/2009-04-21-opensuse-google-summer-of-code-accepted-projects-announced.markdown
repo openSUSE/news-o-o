@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-21 14:20:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/21/opensuse-google-summer-of-code-accepted-projects-announced/
-title: "openSUSE Google Summer of Code Accepted Projects Announced"
+slug: opensuse-google-summer-of-code-accepted-projects-announced
+title: openSUSE Google Summer of Code Accepted Projects Announced
+wordpress_id: 1556
 categories:
 - Google Summer of Code
 ---
-
 
 On Monday, Google announced the accepted projects for all of the Google Summer of Code organizations. The openSUSE Project has [nine projects](http://socghop.appspot.com/org/home/google/gsoc2009/opensuse) that were accepted for the Summer of Code 2009.
 
@@ -36,7 +37,7 @@ The following students have had projects accepted:
   * Kusum Madarasu: openSIS-MySQL
 
 
-  * Jan-Simon Möller: Porting openSUSE to ARM platform
+  * Jan-Simon MÃ¶ller: Porting openSUSE to ARM platform
 
 
   * Udit Sajjanhar: OpenID Support for openSUSE Build Service
@@ -73,5 +74,3 @@ The next step is the [Community Bonding Period](http://googlesummerofcode.blogsp
 
 
 Coding starts officially on May 23rd. Let's get ready to have a great summer!
-
-		

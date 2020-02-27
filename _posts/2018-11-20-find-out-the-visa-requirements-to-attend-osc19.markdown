@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-11-20 11:08:13+00:00
 layout: post
 link: https://news.opensuse.org/2018/11/20/find-out-the-visa-requirements-to-attend-osc19/
-title: "Find Out the Visa Requirements to Attend oSC19"
+slug: find-out-the-visa-requirements-to-attend-osc19
+title: Find Out the Visa Requirements to Attend oSC19
+wordpress_id: 21360
 categories:
 - Announcements
 - Conference
@@ -18,7 +21,8 @@ tags:
 - Travel Support Program
 - Visa requirements
 ---
-![]({{ site.baseurl }}/assets/oSC19-logo-with-name-300x204.png)For people planning on attending the[ openSUSE Conference](https://events.opensuse.org/conference/oSC18) 2019 in Nuremberg, Germany, from May 24 – 26, there are certain requirements necessary to receive a visa for those who are not a citizen of a Schengen country.
+
+![](/wp-content/uploads/2018/11/oSC19-logo-with-name.png)For people planning on attending the[ openSUSE Conference](https://events.opensuse.org/conference/oSC18) 2019 in Nuremberg, Germany, from May 24 – 26, there are certain requirements necessary to receive a visa for those who are not a citizen of a Schengen country.
 
 It’s a good idea to start thinking about getting your visa and this post summarizes the requirements.
 
@@ -136,4 +140,4 @@ Other requirements for a visa state you must:
   * pose no threat to public order, national security or international relations.
 
 
-For more information, visit Germany’s [Federal Foreign Office website](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node).		
+For more information, visit Germany’s [Federal Foreign Office website](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node).

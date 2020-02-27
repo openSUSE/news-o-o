@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-24 16:04:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/24/numbers/
-title: "Numbers?"
+slug: numbers
+title: Numbers?
+wordpress_id: 913
 categories:
 - Distribution
 ---
-Let me share some numbers for the [openSUSE 11.0 release](https://news.opensuse.org/2008/06/19/announcing-opensuse-110-gm/). Do you remember the 10.3 release? Again we used [akamai](http://www.akamai.com/) for distribution of the images. Again for 30 hours, and yes, we made more than 100TB this time!
+
+Let me share some numbers for the [openSUSE 11.0 release](http://news.opensuse.org/2008/06/19/announcing-opensuse-110-gm/). Do you remember the 10.3 release? Again we used [akamai](http://www.akamai.com/) for distribution of the images. Again for 30 hours, and yes, we made more than 100TB this time!
 
 Total data transfered: **163 TB!!!**
 
@@ -28,7 +31,7 @@ openSUSE-11.0-GNOME-LiveCD-x86_64.iso
 openSUSE-11.0-Addon-Lang-x86_64.iso
 openSUSE-11.0-Addon-Lang-ppc.iso
 
-So what are the changes compared to the [last release](https://news.opensuse.org/2007/10/11/more-numbers/)?
+So what are the changes compared to the [last release](http://news.opensuse.org/2007/10/11/more-numbers/)?
 
 
 
@@ -42,4 +45,4 @@ So what are the changes compared to the [last release](https://news.opensuse.org
   * approx. 65.000 registered installations so far, for 10.3 we had 40.000 after 6 days
 
 
-For the next release we should break the 200TB mark :-)		
+For the next release we should break the 200TB mark :-)

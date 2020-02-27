@@ -1,15 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2007-10-22 16:23:59+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/22/yast-irc-channel/
-title: "YaST IRC Channel and Workshop Results"
+slug: yast-irc-channel
+title: YaST IRC Channel and Workshop Results
+wordpress_id: 468
 categories:
 - Events
 tags:
 - yast
 ---
+
 The [YaST team](http://en.opensuse.org/YaST_Team) had last week a workshop and the participants are now updating the [openSUSE wiki](http://en.opensuse.org/YaST_Workshop_Prague_2007) with their slides and comments.
 
 Lukas announced that the YaST team is opening up their development further:
@@ -41,4 +44,4 @@ We still don't have any "YaST IRC Client" ;) Not yet!
 Besides the #yast channel, there are more that are used by the openSUSE project, for details check the[ openSUSE wiki](http://en.opensuse.org/Communicate/IRC).
 Have a nice day && a lot of fun!
 
-Lukas and Andreas		
+Lukas and Andreas

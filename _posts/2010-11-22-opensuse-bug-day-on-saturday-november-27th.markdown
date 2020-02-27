@@ -1,13 +1,16 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-11-22 16:42:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/
-title: "openSUSE Bug Day on Saturday, November 27th"
+slug: opensuse-bug-day-on-saturday-november-27th
+title: openSUSE Bug Day on Saturday, November 27th
+wordpress_id: 5496
 categories:
 - Distribution
 ---
+
 At the last [openSUSE project meeting](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-11-17-16.08.html) and after the discussion about _zombie_ bugs on the opensuse-project mailing list, a small team of volunteers agreed to organize a Bug Day and being available to guide new contributors. Come to the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode](http://freenode.net) network at **Saturday 27.11.2010**, we'll be glad to have you join the fun!
 
 <!-- more -->
@@ -40,4 +43,4 @@ Here is what you need to participate:
   * Good mood :-)
 
 
-A small team will organize the event by providing lists of bugs, and will be available to guide new contributors if needed. So it will be easy to help, you just have to come to the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode](http://freenode.net) network at Saturday!		
+A small team will organize the event by providing lists of bugs, and will be available to guide new contributors if needed. So it will be easy to help, you just have to come to the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode](http://freenode.net) network at Saturday!

@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-11-16 13:00:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/
-title: "openSUSE 12.1: All Green!"
+slug: opensuse-12-1-all-green
+title: 'openSUSE 12.1: All Green!'
+wordpress_id: 11894
 categories:
 - Announcements
 - Distribution
 ---
-[![boot image from installer]({{ site.baseurl }}/assets/12.1_Installer-boot1-300x225.png)](https://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/12-1_installer-boot-2/)
+
+[![boot image from installer](/wp-content/uploads/2011/11/12.1_Installer-boot1.png)](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/12-1_installer-boot-2/)
 It is November 16, 2011 and our mirrors have synced. Time to present to you: [openSUSE 12.1](http://opensuse.org/12.1)! This release represents more than eight months of work by our international community and brings you the best Free Software has to offer.  Awesome improvements include the latest GNOME 3.2 desktop as well as the newest from KDE, XFCE and LXDE; your ownCloud made easy with mirall; Snapper-shots of your file system; and much, much more.
 
 
@@ -20,7 +23,7 @@ openSUSE 12.1 comes with the new GNOME Shell 3.2. We presented you with a taste 
 
 Among the features is color management, something GNOME shares with KDE where openSUSE is the first to integrate the Oyranos color management system. Also new from KDE is Apper, an easier-to-use PackageKit front end.
 
-[![ownCloud integrating with the local calendar]({{ site.baseurl }}/assets/owncloudCalendarAgendalocal1-300x187.png)](https://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/owncloudcalendaragendalocal-2/)
+[![ownCloud integrating with the local calendar](/wp-content/uploads/2011/11/owncloudCalendarAgendalocal1.png)](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/owncloudcalendaragendalocal-2/)
 
 
 ## Cloud things
@@ -33,7 +36,7 @@ openSUSE is the first Linux distribution to support ownCloud with its own unique
 For more demanding use cases in the small business area, our Virtualization and Cloud repository offers the latest versions of Eucalyptus, OpenNebula and OpenStack for openSUSE 12.1. And we support all the virtualization technologies including Xen 4.1, KVM and VirtualBox which can be managed with the latest virt-manager and open-vm-tools.
 
 SUSE Studio users can already build unique versions of openSUSE 12.1, with custom package selections, artwork, scripts, etc. that can be deployed directly to Amazon EC2 or onto a variety of other cloud platforms.
-[![Snapper in action]({{ site.baseurl }}/assets/snapper-300x220.png)](https://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/snapper/)
+[![Snapper in action](/wp-content/uploads/2011/11/snapper.png)](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/snapper/)
 
 
 ## Under the hood
@@ -55,15 +58,15 @@ openSUSE 12.1 can of course also move to _Tumbleweed_, our cutting-edge rolling 
 
 
 
-<blockquote>While the big updates include Snapper, systemd and ownCloud, there are also many smaller enhancements like the improvements to YaST or the work on zypper. And that is only what our own community did,</blockquote>
+<blockquote>â€œWhile the big updates include Snapper, systemd and ownCloud, there are also many smaller enhancements like the improvements to YaST or the work on zypper. And that is only what our own community did,â€</blockquote>
 
 
 said **Bryen Yunahsko**, member of the openSUSE Board.
 
 
-<blockquote>We™re standing on the shoulders of the gigantic open source community. I would not be surprised if openSUSE's latest update has over 300,000 improvements that resulted from efforts in the open source community.</blockquote>
+<blockquote>â€œWeâ€™re standing on the shoulders of the gigantic open source community. I would not be surprised if openSUSE's latest update has over 300,000 improvements that resulted from efforts in the open source community.â€</blockquote>
 
 
 For more details about the latest and greatest in openSUSE 12.1 visit [opensuse.org/12.1](http://opensuse.org/12.1) and read our extensive [Product Highlights](http://opensuse.org/Product_highlights)! If you want, go and [download it right away](http://software.opensuse.org/121) from our mirrors.
 
-`Have a lot of fun!`		
+`Have a lot of fun!`

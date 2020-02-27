@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-11-26 19:58:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/26/opensuse-weekly-news-issue-203-is-out/
-title: "openSUSE Weekly News, Issue 203 is out!"
+slug: opensuse-weekly-news-issue-203-is-out
+title: openSUSE Weekly News, Issue 203 is out!
+wordpress_id: 12082
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our Issue 203 of openSUSE Weekly News.
 <!-- more -->
 
@@ -108,7 +111,7 @@ This Special Corner is about Postings about openSUSE 12.1 into the Community and
 
 ### Community Articles
 
-
+â€œ
 
 
         [Han Wen Kam: openSUSE 12.1 gets positive review on LAS](http://sellingfreesoftwareforaliving.blogspot.com/2011/11/opensuse-121-gets-positive-review-on.html)
@@ -128,11 +131,11 @@ As with most things in life, its all about perception and goodwill. openSUSE 12.
         polished and enjoyable but a number of the great features mentioned, including [SUSE Studio](http://susestudio.com/) and [openSUSE Build Service](https://build.opensuse.org/), have been around for a
         while... anyway, I'm just happy & enjoying the goodwill towards openSUSE. :)
 
-
+â€
 
 ### In the Press
 
-
+â€œ
 
 
         [PCWorld/Katherine Noyes: Try OpenSUSE Linux 12.1 for Stability and Flexibility](http://www.pcworld.com/businesscenter/article/244005/try_opensuse_linux_121_for_stability_and_flexibility.html)
@@ -151,9 +154,9 @@ With this new release, however, OpenSUSE brings even more to the table -- not to
         a new numbering scheme, which is why it's now 12.1. Ready for a look? Here's a small
         sampling of what OpenSUSE 12.1 has to offer. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Howrtoforge/Falko Thimme: The Perfect Desktop - OpenSUSE 12.1 (GNOME)](http://www.howtoforge.com/the-perfect-desktop-opensuse-12.1-gnome)
@@ -169,30 +172,30 @@ I want to say first that this is not the only way of setting up such a system. T
         many ways of achieving this goal but this is the way I take. I do not issue any guarantee
         that this will work for you! (...)
 
-
+â€
+
+â€œ
 
 
-
-
-        [Linux User & Developer/Koen Vervloesem: openSUSE 12.1 review “ new heights of high
+        [Linux User & Developer/Koen Vervloesem: openSUSE 12.1 review â€“ new heights of high
           tech ](http://www.linuxuser.co.uk/reviews/opensuse-12-1-review-new-heights-of-high-tech/)
       
 
 **We were never really excited about openSUSE, but 12.1 is well
           positioned to change this: it adds some state-of-the-art technology to the highly polished
-          desktop openSUSE is known for¦ **
+          desktop openSUSE is known forâ€¦ **
 
 OpenSUSE 12.1, you say? Did we miss 12.0 then? No, this is the first release in the
-        distribution™s slightly altered release numbering: from now on openSUSE will not have a .0
+        distributionâ€™s slightly altered release numbering: from now on openSUSE will not have a .0
         release but only .1, .2 and .3 releases. Because the distribution is following an
         eight-month release cycle, from now on the November release will always be the .1 release,
         the July release the .2 and the March release the .3. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/vote.jpeg)Board Election 2011â–²â–¼
 
-
+â€œ
 
 [Board Election: Ballots
         opened next week](http://en.opensuse.org/openSUSE:Board_election)
@@ -208,9 +211,9 @@ So, if you want to participate in the openSUSE board and influence the future di
 
 You wan't to see the present canidates? Look [there](http://en.opensuse.org/openSUSE:Board_election_2011#Candidates).
 
-
+â€
 
-
+â€œ
 
 [Izabel
         Valverde: openSUSE Board Election 2011 - Campaign starts today](lists.opensuse.org/archive/opensuse-project/2011-11/msg00179.html)
@@ -247,7 +250,7 @@ The candidates:
 
 Details on [http://en.opensuse.org/openSUSE:Board_election_2011#Candidates](http://en.opensuse.org/openSUSE:Board_election_2011#Candidates)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
@@ -261,7 +264,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 378)](https://features.opensuse.org/120340)
@@ -270,9 +273,9 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 211)](https://features.opensuse.org/305493)
@@ -287,9 +290,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 175)](https://features.opensuse.org/305305)
@@ -297,9 +300,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 171)](https://features.opensuse.org/308497)
@@ -317,9 +320,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 126)](https://features.opensuse.org/305877)
@@ -340,13 +343,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [KDE window frame (the top bar) coloured](https://features.opensuse.org/312996)
@@ -354,9 +357,9 @@ We need a feedback about packages that are preferred by users and actively used.
 
 I'd suggest making the window frame (the top bar) in a different colour, maybe green, if the window is active.
 
-
+â€
 
-
+â€œ
 
 
             [Port MGSE (Mint Gnome Shell Extensions) from Linux Mint](https://features.opensuse.org/312997)
@@ -370,9 +373,9 @@ Some screenshots are here:
 http://www.linuxmint.com/tmp/blog/1851/linuxmint12-preview.png
 http://itbuben.org/blog/Unix-way/1903.html
 
-
+â€
 
-
+â€œ
 
 
             [Some easy way (one click) to switch off Akonadi + Nepomuk + Strigi](https://features.opensuse.org/312999)
@@ -385,9 +388,9 @@ Since years the idea of so called Semantic Desktop is taking huge time and effor
 
 I admit the work of the developers and any one should be thankful for their efforts in making KDE the best free desktop ever. But... please give some chance to users to choose what they need and prefer.
 
-
+â€
 
-
+â€œ
 
 
             [Update crystal kwin deco to 2.1](https://features.opensuse.org/313001)
@@ -395,9 +398,9 @@ I admit the work of the developers and any one should be thankful for their effo
 
 [Crystal kwin decoration](http://kde-look.org/content/show.php?content=75140) is now at version 2.1 but kde-extra repo for openSUSE 12.1 still shows 2.0.5 
 
-
+â€
 
-
+â€œ
 
 
             [KDE4: widget for battery shows remaining time in popup](https://features.opensuse.org/313002)
@@ -408,9 +411,9 @@ openSUSE follows upstream while other distributions patch this.
 
 It is only shown in the popup, after you click on the widget. It is not shown directly and not shown mouse-over.
 
-
+â€
 
-
+â€œ
 
 
             [Installer: ability to choose encryption type / strength](https://features.opensuse.org/313003)
@@ -418,7 +421,7 @@ It is only shown in the popup, after you click on the widget. It is not shown di
 
 I would like to request that a feature be added that allows a user to specify the encryption strength for their encrypted LVM. Previously on 11.4, the installer would accept the unlock key and then format the LUKS container to its own default (at the time I think 256bit aes-xts-something), which is overkill for a netbook, and may not be user-desirable. OpenSuSE 12.1 doesn't do this, honoring the LUKS setup that already exists, but nevertheless, being able to choose the bit strength and encryption type (such as aes-cbc-essiv, etc) would be nice. I would be willing to provide any help documentation for a "help" or "what is this?" button on this section (and it could be made part of the "custom (for experts)" section of disk partitioning.
 
-
+â€
 
 ##### Feature Statistics
 
@@ -429,7 +432,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
@@ -440,9 +443,9 @@ Upcoming
   * [Launch Parties: Check out
           yours](http://en.opensuse.org/openSUSE:Launch_parties)
 
-  * [November 30, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [November 30, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -461,7 +464,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
 
-
+â€œ
 
 
             [Bruno Friedmann: ATI/AMD fglrx 8.911 Catalyst 11.11 rpm available for openSUSE
@@ -469,12 +472,12 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
         
 
 Several of you has all kind of non feature (mostly called bugs) with Gnome3.2 and kde4
-            etc¦
+            etcâ€¦
 
 I will just copy/google translate/paste here the comment made by Sebastian Siebert on
             his blog
 
-Okay, now that was a long night for me was. ï·½ I™ve researched intensively since
+Okay, now that was a long night for me was. ï·½ Iâ€™ve researched intensively since
             yesterday evening after the problem of GNOME 3.2 and the XvBA hardware acceleration on
             openSUSE 12.1. Here, a blog reader has pointed out that the direct installation of the
             AMD Catalyst could solve the problem. However, I think the direct installation of
@@ -487,20 +490,20 @@ Okay, now that was a long night for me was. ï·½ I™ve researched intensively
             12.1. I have my current openSUSE 11.4 /etc/ld.so.conf compared with that of openSUSE
             12.1 and lo and behold some search paths were removed. I have the necessary path to
             /usr/X11R6/lib/ or created and /usr/X11R6/lib64 in /etc/ld.so.conf.d/fglrx.conf for the
-            fglrx driver, and lo and behold vainfo tells me that everything is in order. Now comes
+            fglrx driver, and lo and behold â€œvainfoâ€ tells me that everything is in order. Now comes
             the interesting question: Is the problem fixed with GNOME 3.2 now? The answer: YES! ï·½
             So, dear people, you invite the makerpm-ati-down script with the updated packaging
             script installs the driver as usual and have fun with the new openSUSE 12.1 and the AMD
             Catalyst driver. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [openSUSE-SU-2011:1272-1: important: bind](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00029.html)
 
@@ -545,11 +548,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >An update that fixes one vulnerability is now available. It includes one version
             update. 
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: real-time kernel goes Linux 3.0](http://www.h-online.com/open/features/Kernel-Log-real-time-kernel-goes-Linux-3-0-1382791.html)
@@ -573,24 +576,24 @@ Gleixner has now handed over responsibility for maintaining RT patches for Linux
       substantially in the process, as some of the changes have now been incorporated into the main
       development tree.
 
-
+â€
 
-
+â€œ
 
 
       [Rares
-        Aioanei: kernel weekly news “ 26.11.2011](http://schaiba.wordpress.com/2011/11/26/kernel-weekly-news-26-11-2011/)
+        Aioanei: kernel weekly news â€“ 26.11.2011](http://schaiba.wordpress.com/2011/11/26/kernel-weekly-news-26-11-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [Mike McCallister: Preparing to Install openSUSE 12.1 from Scratch](http://metaverse.wordpress.com/2011/11/20/preparing-to-install-opensuse-12-1-from-scratch/)
@@ -605,13 +608,13 @@ You may already know, but [openSUSE](http://www.opensuse.org) released
 
 Clean installs do require a bit of preparation, though. You will be wiping your
         partitions, so you want to preserve your existing data, and a bit of your configurations
-        before embarking on a new install. In this post, I™ll share what I did.(...)
+        before embarking on a new install. In this post, Iâ€™ll share what I did.(...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [LinuxCareer.com/Rares Aioanei: Learning Linux Commands: sed](http://how-to.linuxcareer.com/learning-linux-commands-sed)
@@ -622,9 +625,9 @@ Clean installs do require a bit of preparation, though. You will be wiping your
 
 Welcome to the second part of our series, a part that will focus on sed, the GNU version. As you will see, there are several variants of sed, which is available for quite a few platforms, but we will focus on GNU sed versions 4.x. Many of you have already heard about sed and already used it, mainly as a substitution tool. But that is just a segment of what sed can do, and we will do our best to show you as much as possible of what you can do with it. The name stands for Stream EDitor, and here "stream" can be a file, a pipe or simply stdin. We expect you to have basic Linux knowledge and if you already worked with regular expressions or at least know what a regexp is, the better. We don't have the space for a full tutorial on regular expressions, so instead we will only give you a basic idea and lots of sed examples. There are lots of documents that deal with the subject, and we'll even have some recommendations, as you will see in a minute. If you require futher assistance please visit our [Linux Forum](http://forum.linuxcareer.com/). (...)
 
-
+â€
 
-
+â€œ
 
 
         [LinuxCareer.com/Rares Aioanei: Learning Linux Commands: awk](http://how-to.linuxcareer.com/learning-linux-commands-awk)
@@ -634,23 +637,23 @@ Welcome to the second part of our series, a part that will focus on sed, the GNU
 
 In this case, the title might be a little misleading. And that is because awk is more than a command, it's a programming language in its own right. You can write awk scripts for complex operations or you can use awk from the command line. The name stands for Aho, Weinberger and Kernighan (yes, Brian Kernighan), the authors of the language, which was started in 1977, hence it shares the same Unix spirit as the other classic *nix utilities. If you're getting used to [C programming](http://how-to.linuxcareer.com/c-development-on-linux-introduction) or know it already, you will see some familiar concepts in awk, especially since the 'k' in awk stands for the same person as the 'k' in K&R, the C programming bible. You will need some command-line knowledge in Linux and possibly some scripting basics, but the last part is optional, as we will try to offer something for everybody. Many thanks to Arnold Robbins for all his work involved in awk. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Wazi/Juliet Kemp: More Fun with Vimscript](http://olex.openlogic.com/wazi/2011/more-fun-with-vimscript/)
       
 
-In my [last article](http://olex.openlogic.com/wazi/2011/extending-vim-with-scripting/), I looked at some of the ways in which you can use [Vimscript](http://olex.openlogic.com/packages/vimscript), [Vim](http://olex.openlogic.com/packages/vim)˜s built-in scripting language, to set up that text editor to do exactly what you want it to. Apparently you liked what you saw and asked for more, so here are some additional tips and tricks to help you get Vim to jump through the hoops of your choice, including techniques for specifying ranges to work on, accepting user input, and debugging. (...)
+In my [last article](http://olex.openlogic.com/wazi/2011/extending-vim-with-scripting/), I looked at some of the ways in which you can use [Vimscript](http://olex.openlogic.com/packages/vimscript), [Vim](http://olex.openlogic.com/packages/vim)â€˜s built-in scripting language, to set up that text editor to do exactly what you want it to. Apparently you liked what you saw and asked for more, so here are some additional tips and tricks to help you get Vim to jump through the hoops of your choice, including techniques for specifying ranges to work on, accepting user input, and debugging. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [HowtoForge/Falko Timme: The Perfect Server - OpenSUSE 12.1 x86_64 With Apache2 [ISPConfig 3]](http://www.howtoforge.com/perfect-server-opensuse-12.1-x86_64-with-apache2-ispconfig-3)
@@ -663,9 +666,9 @@ This is a detailed description about how to set up an **OpenSUSE 12.1 64bit (x86
         comes with full support for the nginx web server in addition to Apache; this tutorial covers
         the setup of a server that uses Apache, not nginx. (...)
 
-
+â€
 
-
+â€œ
 
 
         [HowtoForge/Falko Timme: How To Upgrade OpenSUSE 11.4 To 12.1 (Desktop & Server)](http://www.howtoforge.com/how-to-upgrade-opensuse-11.4-to-12.1-desktop-and-server)
@@ -673,28 +676,28 @@ This is a detailed description about how to set up an **OpenSUSE 12.1 64bit (x86
 
 This guide shows how you can upgrade your OpenSUSE 11.4 desktop and server installations to OpenSUSE 12.1. (...)
 
-
+â€
+
+â€œ
 
 
-
-
-        [Jörg Stephan: openSUSE 12.1 “ installation and features](http://suseserver.de/?p=66)
+        [JÃ¶rg Stephan: openSUSE 12.1 â€“ installation and features](http://suseserver.de/?p=66)
       
 
 openSUSE 12.1 is just released, to have some of the very nice features i need to setup a
         complete new system. So what features are the one you want to have:
 
-  * Btrfs “ Btrfs is a new filesystem which make usage of B-trees so take a look at
+  * Btrfs â€“ Btrfs is a new filesystem which make usage of B-trees so take a look at
                 [http://en.wikipedia.org/wiki/Btrfs](http://en.wikipedia.org/wiki/Btrfs) with this FS we can have a very great
               feature
 
-  * snapper “ snapper is a new system which comes around with openSUSE 12.1 it can
+  * snapper â€“ snapper is a new system which comes around with openSUSE 12.1 it can
               handle Btrfs snapshots and gives new features to openSUSE such as restoring config
               files after a failure or restore failed upgrades. (...)
 
-
+â€
 
-
+â€œ
 
 
         [nixCraft/Vivek Gite: Linux: 25 PHP Security Best Practices For Sys Admins](http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html)
@@ -702,9 +705,9 @@ openSUSE 12.1 is just released, to have some of the very nice features i need to
 
 PHP is an open-source server-side scripting language and it is a widely used. The Apache web server provides access to files and content via the HTTP OR HTTPS protocol. A misconfigured server-side scripting language can create all sorts of problems. So, PHP should be used with caution. Here are twenty-five php security best practices for sysadmins for configuring PHP securely. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Linuxaria/Truelite.it: Permanent SSH Tunnels with autossh](http://linuxaria.com/howto/permanent-ssh-tunnels-with-autossh?lang=en)
@@ -715,9 +718,9 @@ There are many occasions where you need to create connections to machines and se
 
 For this reason, the ability to port forwarding via [SSH](http://linuxaria.com/tag/ssh) is very useful for creating an encrypted tunnel from one machine to another, allowing you to enable only local access (such as a MySQL only listens locally) safely, with the only the problem that in case of problems, the SSH connection (and its tunnels) could fall.
 
-
+â€
 
-
+â€œ
 
 [Carlos GonÃ§alves: SOCKS proxy over SSH](http://feedproxy.google.com/~r/cgoncalves/~3/Zc0xPQ8pcHc/socks-proxy-over-ssh.html)
 
@@ -732,22 +735,22 @@ Connecting over to a remote server, one can bypass unauthorized access blocked b
         establish an encrypted connection to a known network who we trust, or distrust less, and
         tunneling over it would be safer. This is where SOCKS and SSH can be much of helpful!
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
+â€œ
 
-
-[Jörg Stephan: [Quick view:] btrfs &
+[JÃ¶rg Stephan: [Quick view:] btrfs &
         snapper](http://suseserver.de/?p=99)
 
 The real great feature in openSUSE 12.1 for me (as I am a server administrator) is btrfs
       & snapper. After installing the new server environment i guess its time to talk about this
       feature a bit in detail. (...)
 
-
+â€
 
-
+â€œ
 
 
       [Kai-Uwe Behrmann:
@@ -775,9 +778,9 @@ The preferred solution for professionals is to download ICC profiles only from t
       conditions after the new non restrictive ICC profile license. Then faking profiles, by the
       reasoning of providing them under a free license, would not be needed any more. (...)
 
-
+â€
 
-
+â€œ
 
 
       [Han Wen Kam: My openSUSE 12 Journal - 3: Lotus Notes 8.5.3](http://sellingfreesoftwareforaliving.blogspot.com/2011/11/my-opensuse-12-journal-3-lotus-notes.html)
@@ -795,30 +798,30 @@ For starters, Lotus Notes 8.5.3 only managed to render about half of its interfa
       had the same challenge, created a [bug report](http://lists.opensuse.org/opensuse-bugs/2011-11/msg03695.html)
       against openSUSE and even created a workaround/fix.
 
-
+â€
 
-
+â€œ
 
 [Kohei Yoshida:
         Redesigned autofilter popup](http://kohei.us/2011/11/21/redesigned-autofilter-popup/)
 
-I™m happy to announce that I™ve managed to squeeze this new feature in just in time for
+Iâ€™m happy to announce that Iâ€™ve managed to squeeze this new feature in just in time for
       the 3.5 code freeze.
 
-**What™s new?**
+**Whatâ€™s new?**
 
-As I™ve mentioned briefly in G+, I™ve been working on brushing up the age-old autofilter
-      popup window in the past few weeks. I have no idea how old the old one is, but it™s been there
+As Iâ€™ve mentioned briefly in G+, Iâ€™ve been working on brushing up the age-old autofilter
+      popup window in the past few weeks. I have no idea how old the old one is, but itâ€™s been there
       for as long as I remember. In case anyone needs a reminder as to what the old one looks like,
       here it is.
 
 ![](http://kohei.us/wp-content/uploads/2011/11/old-autofilter-popup.png)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums: A big hand for the release of openSUSE 12.1 !â–²â–¼
 
-
+â€œ
 
 
       [NEW Users - openSUSE-12.1 Pre-installation - PLEASE READ](http://forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/467087-new-users-opensuse-12-1-pre-installation-please-read.html)
@@ -828,9 +831,9 @@ As I™ve mentioned briefly in G+, I™ve been working on brushing up the age-ol
       This is a repeat from last week. openSUSE 12.1 is new, we still like to draw your attention to this article in the New User HOWTO/FAQ subforums. Like with every openSUSE release our admin oldcpu has prepared a document for new users to read before starting to install openSUSE 12.1. If you're new to openSUSE, this is a must-read, if you're already an openSUSE user, even very experienced, the article still deserves your attention. 
     
 
-
+â€
 
-
+â€œ
 
 
     [ Now that 12.1 is out, what are your thoughts on it?](http://forums.opensuse.org/english/other-forums/community-fun/general-chit-chat/467896-now-12-1-out-what-your-thoughts.html)
@@ -840,9 +843,9 @@ As I™ve mentioned briefly in G+, I™ve been working on brushing up the age-ol
     openSUSE 12.1 is out for a week now, title says it all: an extensive thread on user experiences and opinions. The overall impression is that 12.1 is a very nice and stable release. For some users there maybe issues/lack of knowledge on the new features, but hey, we have the choice, for example to keep on using sysvinit instead of systemd. Interesting read.
     
 
-
+â€
 
-
+â€œ
 
 
       openSUSE Language specific subforums:
@@ -856,30 +859,30 @@ We now host the following language specific subforums under the umbrella of the 
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Reports
 
-
+â€œ
 
 
         [OStatic/Sam Dean: Linus Torvalds Takes Aim at Proprietary Tech, and Apple](http://ostatic.com/blog/linus-torvalds-takes-aim-at-proprietary-tech-and-apple)
       
 
-Linux creator Linus Torvalds spoke at the LinuxCon Brazil event this week, and had some choice words for makers of proprietary technology, especially Apple and Microsoft. [Mashable picked up](http://mashable.com/2011/11/18/linus-torvalds-apple-lockdown/) this dig from Linus at these tech giants, regarding the much discussed [secure boot feature that Microsoft is backing](http://ostatic.com/blog/in-the-windows-8-vs-linux-debate-a-windows-pundit-makes-a-great-point), which could lock Linux out of Windows 8 PCs: "Technologies that lock things down tend to lose in the end. People want freedom and markets want freedom. Torvalds compared secure boot to Apple's use of Digital Rights Management (DRM) technology. Notably, Torvalds had a decidedly anti-Apple stance in the comments. (...)
+Linux creator Linus Torvalds spoke at the LinuxCon Brazil event this week, and had some choice words for makers of proprietary technology, especially Apple and Microsoft. [Mashable picked up](http://mashable.com/2011/11/18/linus-torvalds-apple-lockdown/) this dig from Linus at these tech giants, regarding the much discussed [secure boot feature that Microsoft is backing](http://ostatic.com/blog/in-the-windows-8-vs-linux-debate-a-windows-pundit-makes-a-great-point), which could lock Linux out of Windows 8 PCs: "â€œTechnologies that lock things down tend to lose in the end. People want freedom and markets want freedom.â€ Torvalds compared secure boot to Apple's use of Digital Rights Management (DRM) technology. Notably, Torvalds had a decidedly anti-Apple stance in the comments. (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [ITworld/Brian Proffitt: How scary are GPL violations?](http://www.itworld.com/it-managementstrategy/226257/how-scary-are-gpl-violations)
@@ -889,9 +892,9 @@ Since the source code is usually available, software under a free or open open s
 
 Critics of FLOSS licenses are usually quick to point out that the very openness of FLOSS source code actually promotes more license violations. Protect yourself, these critics urge, and avoid FLOSS altogether--or at the very least purchase commercial compliance services and products. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Ubuntu Vibes: The Many Names of Linux Kernels](http://www.ubuntuvibes.com/2011/11/many-names-of-linux-kernels.html)
@@ -901,7 +904,7 @@ Many people think Ubuntu codenames are funny, weird, strange and what not. Do yo
 
 Most of the Linux 2.6 and 3.x kernels include a name in the Makefile of their source trees, which can be found in the [git repository](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=blob;f=Makefile). Everything else will look less ridiculous when you look at these codenames as some of these are really hilarious. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -933,7 +936,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -947,7 +950,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -981,7 +984,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 203 is available in: 
 
-  * [English](https://news.opensuse.org/?p=12082)
+  * [English](http://news.opensuse.org/?p=12082)
 
 Coming soon: 
 
@@ -996,6 +999,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-11-18 12:04:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/11/18/were-ready-for-the-release-are-you/
-title: "We're Ready For The Release, Are You?!"
+slug: were-ready-for-the-release-are-you
+title: We're Ready For The Release, Are You?!
+wordpress_id: 16834
 categories:
 - Distribution
 - Project
 ---
-[![Release Geeko]({{ site.baseurl }}/assets/Release-Geeko-300x267.png)]({{ site.baseurl }}/assets/Release-Geeko.png)
+
+[![Release Geeko](//news.opensuse.org/wp-content/uploads/2013/11/Release-Geeko-300x267.png)](//news.opensuse.org/wp-content/uploads/2013/11/Release-Geeko.png)
 Dear Geekos!
 
 We're sure you are all anxiously awaiting the release of openSUSE 13.1, coming in 24 hours. Yes, just around the corner! So we want to remind you that you can help us promote the release, plan release parties and of course read the many articles we've written! So much to do both before and after the release...
@@ -27,9 +30,9 @@ There is still preparation to do: a lot to read about the release -so you can te
 
 
 
-As a preparation for the release we wrote bunch of sneak peaks so you can learn about what is so cool in new openSUSE. Let's start from the most visible parts - as always we have new versions of desktops environments. We write articles about both major ones - [GNOME](https://news.opensuse.org/?p=16793) and [KDE](https://news.opensuse.org/?p=17213). Changes in these two are probably the most visible to the end user. We hope exactly the opposite happening with YaST. There were really big changes under the hood of YaST this release as [we wrote](https://news.opensuse.org/?p=16681). The interface and functionality are both the same, so users will barely notice, but we hope an horde of new developers attracted by the new code.
+As a preparation for the release we wrote bunch of sneak peaks so you can learn about what is so cool in new openSUSE. Let's start from the most visible parts - as always we have new versions of desktops environments. We write articles about both major ones - [GNOME](//news.opensuse.org/?p=16793) and [KDE](//news.opensuse.org/?p=17213). Changes in these two are probably the most visible to the end user. We hope exactly the opposite happening with YaST. There were really big changes under the hood of YaST this release as [we wrote](//news.opensuse.org/?p=16681). The interface and functionality are both the same, so users will barely notice, but we hope an horde of new developers attracted by the new code.
 
-We also wrote about more hardcore/geeky stuff. "Cloud" is still a magical and cool word and we have everything you need to create your own cloud in openSUSE. [Check out](https://news.opensuse.org/2013/10/17/openstack-havana-and-opensuse/) what is new in this area! And as this is more sysadmins cup of tea, let's mention yet another article that we prepared. This one is full of useful [tips and tricks](https://news.opensuse.org/?p=16829). Even if you are skilled sysadmin, you might learn a thing or two there that will make your everyday life easier.
+We also wrote about more hardcore/geeky stuff. "Cloud" is still a magical and cool word and we have everything you need to create your own cloud in openSUSE. [Check out](//news.opensuse.org/2013/10/17/openstack-havana-and-opensuse/) what is new in this area! And as this is more sysadmins cup of tea, let's mention yet another article that we prepared. This one is full of useful [tips and tricks](https://news.opensuse.org/?p=16829). Even if you are skilled sysadmin, you might learn a thing or two there that will make your everyday life easier.
 
 And last but not least, don't forget about all the love and attention that have been put into Btrfs. Even whether is not the default option for new installations, openSUSE 13.1 looks like the best choice for everybody wanting to try this next generation filesystem.
 
@@ -41,7 +44,7 @@ And last but not least, don't forget about all the love and attention that have 
 
 You might have seen that we created some cool materials to promote the release. There are banners, backgrounds for social media accounts and more in [this article](https://news.opensuse.org/?p=16835) and we have this cool "Release Geeko" background for you:
 
-({{ site.baseurl }}/assets/ReleaseIsComingBackground.jpg) Release Geeko background
+[caption id="attachment_17346" width="650" align="aligncenter"][![ReleaseIsComingBackground](//news.opensuse.org/wp-content/uploads/2013/11/ReleaseIsComingBackground.jpg)](//news.opensuse.org/wp-content/uploads/2013/11/ReleaseIsComingBackground.jpg) Release Geeko background[/caption]
 
 Find more related artwork in our [github repository](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Events/Releases/13.1%20release%20is%20coming).
 
@@ -88,5 +91,3 @@ We hope you are now a little more prepared for the release. And, of course, not 
 
 
 ## have a lot of fun!
-
-		

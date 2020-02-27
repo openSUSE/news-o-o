@@ -1,29 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2008-01-18 19:01:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/01/18/people-of-opensuse-katarina-machalkova/
-title: "People of openSUSE: Katarina Machalkova"
+slug: people-of-opensuse-katarina-machalkova
+title: 'People of openSUSE: Katarina Machalkova'
+wordpress_id: 624
 categories:
 - People of openSUSE
 ---
+
 Today's People of openSUSE features a female YaST developer and the maintainer of ncurses user interface library - Katarina Machalkova!
 
 <!-- more -->
+<table border="0" >
+<tbody ><tr >
+
+<td >
 
 
-![katarina_machalkova.jpg]({{ site.baseurl }}/assets/katarina_machalkova.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|bubli (it means 'bubble' in my language)|
-|**Homepage:**|[http://www.bubli.org](http://www.bubli.org) (desperately outdated)|
-|**Blog:**|I'm not really bloggish type of a person - I think I lack the necessary dose of exhibitionism :-)|
-|||
-|**Favorite season:**|Autumn. Not only because I was born in September, but I also like the colors of fallen leaves and autumn sunsets very much.|
-|**Motto:**|If anything can go wrong, it will, and usually at the most inopportune moment|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![katarina_machalkova.jpg](//news.opensuse.org/wp-content/uploads/2008/01/katarina_machalkova.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >bubli (it means 'bubble' in my language)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.bubli.org](http://www.bubli.org) (desperately outdated)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >I'm not really bloggish type of a person - I think I lack the necessary dose of exhibitionism :-)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Autumn. Not only because I was born in September, but I also like the colors of fallen leaves and autumn sunsets very much.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >If anything can go wrong, it will, and usually at the most inopportune moment
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</tbody></table>
+
+
 
 
 
@@ -228,7 +318,7 @@ Better analytical and logical thinking, ability to 'see' the solution and all it
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Honestly, I would be pretty happy. With no websites, RSS feeds, chats and e-mails to distract me, I could finally enjoy going outdoors, shopping in normal shops (instead of online), reading real newspapers and books, talking to people directly ... After a week, I would probably start to miss the Internet again :)
@@ -302,7 +392,7 @@ Going trekking somewhere to the mountains, with big backpack and camera.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 I would (after traveling around the world) buy shares of certain company I don't want to name ;-)
@@ -312,7 +402,7 @@ I would (after traveling around the world) buy shares of certain company I don't
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 In 'Roaring Twenties' , the jazz age. After that time, the real gentlemen started to slowly die out :-)
@@ -322,7 +412,7 @@ In 'Roaring Twenties' , the jazz age. After that time, the real gentlemen starte
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No, I have a laptop.
@@ -347,7 +437,7 @@ If missing a class at school counts, then yes :-)
 
 
 
-![katarina_machalkova_picshare.jpg]({{ site.baseurl }}/assets/katarina_machalkova_picshare.jpg)
+![katarina_machalkova_picshare.jpg](//news.opensuse.org/wp-content/uploads/2008/01/katarina_machalkova_picshare.jpg)
 
 
 
@@ -382,4 +472,4 @@ A: Washing the dishes. That's the time when all these deadly ideas come to my mi
 
 
 
-This event is [justdomyhomework.com](https://justdomyhomework.com/) celebrated in only a single day so it needs to count.		
+This event is [justdomyhomework.com](https://justdomyhomework.com/) celebrated in only a single day so it needs to count.

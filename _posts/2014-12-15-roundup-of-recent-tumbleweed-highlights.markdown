@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-12-15 09:35:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/12/15/roundup-of-recent-tumbleweed-highlights/
-title: "Roundup of recent Tumbleweed highlights"
+slug: roundup-of-recent-tumbleweed-highlights
+title: Roundup of recent Tumbleweed highlights
+wordpress_id: 18914
 categories:
 - Tumbleweed
 tags:
@@ -15,6 +17,7 @@ tags:
 - thunderbird
 - Tumbleweed
 ---
+
 [![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)](https://en.opensuse.org/images/c/c1/Tumbleweed.png)Here are some highlights from the most recent Tumbleweed snapshot.
 
 Mozilla Firefox updated to 34.0.5 from 33.1. The default search engine changed to Yahoo for North America and Yandex for Belarusian, Kazakh, and Russian locations. The update improved the search bar for English only in the U.S. and improved the Firefox Hello real-time communication client.
@@ -39,4 +42,4 @@ Packages removed were NetworkManager-openconnect and NetworkManager-openconnect-
 
 
 
-		
+

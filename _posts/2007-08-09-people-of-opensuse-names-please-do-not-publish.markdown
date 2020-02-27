@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-08-09 15:40:38+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/09/people-of-opensuse-names-please-do-not-publish/
-title: "People of openSUSE: Pascal Bleser"
+slug: people-of-opensuse-names-please-do-not-publish
+title: 'People of openSUSE: Pascal Bleser'
+wordpress_id: 76
 categories:
 - People of openSUSE
 ---
-Today 'People of openSUSE' starts. This project aims to make the people behind the openSUSE project and the distribution more visible. Therefore there will be several interviews with different contributors published on [news.opensuse.org](https://news.opensuse.org/).
+
+Today 'People of openSUSE' starts. This project aims to make the people behind the openSUSE project and the distribution more visible. Therefore there will be several interviews with different contributors published on [news.opensuse.org](//news.opensuse.org/).
 
 If you for example always wanted to know what a specific contributer motivates to participate or what he thinks about the future of the openSUSE project and of course if he turns off his computer during a thunderstorm as well as a few more non openSUSE related facts - just keep on reading the 'People of openSUSE' interviews that will be published in the future.
 
@@ -18,17 +21,105 @@ Now let's start with Pascal Bleser:  just click on the link below and you will s
 
 
 
-![pascal_bleser2.jpg]({{ site.baseurl }}/assets/pascal_bleser2.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|guru and yaloki|
-|**Website: **|[http://linux01.gwdg.de/~pbleser/](http://linux01.gwdg.de/~pbleser/)|
-|**Blog:**|[http://dev-loki.blogspot.com/](http://dev-loki.blogspot.com/)|
-|||
-|**Favorite season:**|Spring. But mostly because I like [springframework.org](http://www.springframework.org/) ;)|
-|**Motto:**|"have fun"|
-|||
 
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![pascal_bleser2.jpg](//news.opensuse.org/wp-content/uploads/2007/08/pascal_bleser2.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >guru and yaloki
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Website: **
+</td>
+
+<td >[http://linux01.gwdg.de/~pbleser/](http://linux01.gwdg.de/~pbleser/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://dev-loki.blogspot.com/](http://dev-loki.blogspot.com/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring. But mostly because I like [springframework.org](http://www.springframework.org/) ;)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"have fun"
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -93,7 +184,7 @@ I'm also listed as one of the most prolific packagers on [PBone](http://rpm.pbon
 
 Apart from that, I'm trying to contribute to discussions in and around the community on several openSUSE mailing-lists and spend most evenings helping and as an op on the [#suse IRC channel](irc://irc.freenode.net/#suse) as well as #opensuse-de, #opensuse-fr, and a few other opensuse channels over there.
 
-I spend my remaining spare time working on the [openSUSE Software Portal project](http://en.opensuse.org/Software_Portal) that is still in its infancy but hopefully will be the über-killer web site for openSUSE users some day ;)
+I spend my remaining spare time working on the [openSUSE Software Portal project](http://en.opensuse.org/Software_Portal) that is still in its infancy but hopefully will be the Ã¼ber-killer web site for openSUSE users some day ;)
 
 I also hacked a small but nice little tool called ["webpin"](http://dev-loki.blogspot.com/search/label/webpin) that acts as a command-line frontend to [Benjamin Weber](http://blogs.warwick.ac.uk/bweber/)'s excellent openSUSE [Package Search service](http://benjiweber.co.uk:8080/webpin/).
 
@@ -195,7 +286,7 @@ Personally, I'm not hostile towards other Linux distributions (with the exceptio
 #### Which members of the openSUSE community have you met in person?
 
 
-Several people working on openSUSE in Nürnberg (Markus Rueckert, Henne Vogelsang, Stephan Binner, Adrian Schroeter, Duncan Mac-Vicar, Andreas Jaeger, Marcus Meissner, Martin Lasarsch, Michael Loeffler, mmj, just to name a few, but there were lots more ;) ).
+Several people working on openSUSE in NÃ¼rnberg (Markus Rueckert, Henne Vogelsang, Stephan Binner, Adrian Schroeter, Duncan Mac-Vicar, Andreas Jaeger, Marcus Meissner, Martin Lasarsch, Michael Loeffler, mmj, just to name a few, but there were lots more ;) ).
 
 I only met very few non-Novell openSUSE community members, namely [Benjamin "benJIman" Weber](http://blogs.warwick.ac.uk/bweber/), [Francis "apokryphos" Giannaros](http://francis.giannaros.org/blog/), as well as Detlef Reichelt, Quentin Dennis, Herbert "herby" Graeber (all three are part of the Packman team), and Marc Schiffbauer. Marc prefers Debian but he provides the infrastructure for Packman, which is a very valuable contribution to our community ;)
 
@@ -266,7 +357,7 @@ I have them all ;)
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 Ouch, that would hurt. Especially for not being in touch with the many people I chat, jabber and email with every day.
@@ -343,7 +434,7 @@ Sightseeing interesting and preferably ancient places, or beautiful natural envi
 
 
 
-#### Someone gives you $1.000.000 “ what would you do with the money?
+#### Someone gives you $1.000.000 â€“ what would you do with the money?
 
 
 Bank it, earn interests, do my girlfriend and myself a few favours (more screens, more PCs ;) ) but mostly keep it for my daughter.
@@ -355,7 +446,7 @@ Hmmm.. that does sound boring though. OK, new laptop, bigger screens, a big iron
 
 
 
-#### If traveling through time was possible “ when would we be most likely to meet you?
+#### If traveling through time was possible â€“ when would we be most likely to meet you?
 
 
 Interesting question. Either right now, in a far away future (I'm so curious) or in the seventies.
@@ -365,7 +456,7 @@ Interesting question. Either right now, in a far away future (I'm so curious) or
 
 
 
-#### There's a thunderstorm outside “ do you turn off your computer?
+#### There's a thunderstorm outside â€“ do you turn off your computer?
 
 
 Sometimes. But thunderstorms are not very frequent nor violent over here.
@@ -388,7 +479,7 @@ No, I use kalarmd ;)
 #### Show us a picture of something, you have always wanted to share!
 
 
-![gaelle.jpg]({{ site.baseurl }}/assets/gaelle.jpg)
+![gaelle.jpg](//news.opensuse.org/wp-content/uploads/2007/08/gaelle.jpg)
 
 Isn't my daughter lovely ? ;)
 
@@ -423,3 +514,6 @@ This one :)
 
 "What's the worst package you ever made ?"
 and the answer would be: "Miro/DemocracyPlayer" (what a pile of ....)
+
+
+There is no better way to [resume writing service by resumecvwriter.com](https://resumecvwriter.com/) display this than to generate a new implementing cisco ip telephony and video 300-075 exam dumps or improvement further up the certification sequence in a present specialty

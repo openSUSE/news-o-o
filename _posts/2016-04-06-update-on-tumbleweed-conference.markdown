@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-04-06 11:48:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/04/06/update-on-tumbleweed-conference/
-title: "Update on Tumbleweed, Conference"
+slug: update-on-tumbleweed-conference
+title: Update on Tumbleweed, Conference
+wordpress_id: 19810
 categories:
 - Conference
 - Tumbleweed
 ---
+
 
 [Plasma 5.6](https://www.kde.org/announcements/plasma-5.5.95.php)  and [Qt 5.6](https://wiki.qt.io/Qt-5.6-release) have yet to make it in a Tumbleweed snapshot, but the packages are are in staging and the latter will likely arrive after Plasma 5.6. Until then, there are four snapshots the have been released since the last update.
 
@@ -26,7 +29,7 @@ Snapshot [20160401](https://lists.opensuse.org/opensuse-factory/2016-04/msg00027
 
 We has selected the design for the openSUSE Conference. Congratulations to [orion_0](https://en.opensuse.org/User:Orion_0) for submitting the winning design.
 
-![Proposition_oSC16]({{ site.baseurl }}/assets/Proposition_oSC16-1024x722.png)
+![Proposition_oSC16](/wp-content/uploads/2016/04/Proposition_oSC16.png)
 
 Thank you to all the people who submitted designs. There were nine designs submitted during the [contest](https://en.opensuse.org/OSC16tshirtcontests).
 
@@ -74,4 +77,4 @@ You will need an openSUSE Connect account in order to log in the application and
 	
   * no receipts = no money It is the rule!
 
-		
+

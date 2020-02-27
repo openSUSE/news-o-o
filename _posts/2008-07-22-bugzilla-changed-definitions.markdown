@@ -1,14 +1,15 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-07-22 17:54:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/22/bugzilla-changed-definitions/
-title: "Bugzilla: Changed Definitions"
+slug: bugzilla-changed-definitions
+title: 'Bugzilla: Changed Definitions'
+wordpress_id: 959
 categories:
 - Distribution
 ---
-
 
 We are standardizing now on the definitions given at [http://en.opensuse.org/Bugs/Definitions](http://en.opensuse.org/Bugs/Definitions).Â The severity definitions are now the same as in most other open source projects, so that we speak the same language and reduce confusion.
 
@@ -30,4 +31,4 @@ The major changes we are doing are basically:
   * Novell will use internally both severity and priority for handling bug reports.
 
 
-We would like you to use the changed severity definitions for every new bugreport that you are filing and also set the "Found by" field.Â  We hope that these changes reduce some confusion and help us at Novell to better prioritize and fix bug reports.		
+We would like you to use the changed severity definitions for every new bugreport that you are filing and also set the "Found by" field.Â  We hope that these changes reduce some confusion and help us at Novell to better prioritize and fix bug reports.

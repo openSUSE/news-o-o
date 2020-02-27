@@ -1,16 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-06-20 13:05:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/06/20/beta-2-available-state-of-the-discussion-about-the-future-in-progress/
-title: "Beta 2 Available for Testing"
+slug: beta-2-available-state-of-the-discussion-about-the-future-in-progress
+title: Beta 2 Available for Testing
+wordpress_id: 13645
 categories:
 - Announcements
 - Distribution
 ---
-![factory-tested]({{ site.baseurl }}/assets/factory-tested.png)
-Stephan _'Coolo'_ Kulow has released Beta 2 so it is time to start organizing these [Beta Pizza Parties](https://news.opensuse.org/2012/06/18/beta-means-pizza-join-the-party-or-make-your-own/)! As you might know, [openSUSE 12.2 is delayed while we search for ways to cope with the growth of our community](https://news.opensuse.org/2012/06/14/where-is-my-12-2-my-kingdom-for-a-12-2/) so this makes our first second beta in a very long time...
+
+![factory-tested](/wp-content/uploads/2012/06/factory-tested.png)
+Stephan _'Coolo'_ Kulow has released Beta 2 so it is time to start organizing these [Beta Pizza Parties](http://news.opensuse.org/2012/06/18/beta-means-pizza-join-the-party-or-make-your-own/)! As you might know, [openSUSE 12.2 is delayed while we search for ways to cope with the growth of our community](http://news.opensuse.org/2012/06/14/where-is-my-12-2-my-kingdom-for-a-12-2/) so this makes our first second beta in a very long time...
 
 
 ## Get it
@@ -41,7 +44,7 @@ Karl Eichwalder has [asked everyone to help updating the release notes](http://l
 
 openSUSE, as you might know, is being developed in [Factory](http://en.opensuse.org/Portal:Factory). Factory is a project on the [openSUSE Build Service](http://build.opensuse.org) against which you can build a package. If it works fine, you can submit it to Factory and keep it working there.
 
-(https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results) List of failures in Factory - help get rid of them!
+[caption id="attachment_12919" align="alignright" width="300"][![List of build failures in Factory](/wp-content/uploads/2012/03/2.jpg)](https://build.opensuse.org/project/status?project=openSUSE%3AFactory&filter_devel=All+Packages&limit_to_fails=false&limit_to_fails=true&include_versions=false&commit=Filter+results) List of failures in Factory - help get rid of them![/caption]
 
 
 ## Help out!
@@ -52,7 +55,7 @@ Of course you're wondering how you can help. This can start with testing. Go to 
 
 If you are a packager (or want to be one!) there is of course also plenty to do. Fixing bugs in packages is a nice way of learning the ways of packaging (see [the Packaging portal for documentation](http://en.opensuse.org/Portal:Packaging)). You can read about [how to do this here](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory), via a simple set of steps which in openSUSE are commonly known as ['BURP-ing'](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/).
 
-(http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow
+[caption id="attachment_12917" align="alignright" width="150"][![openSUSE Factory workflow](/wp-content/uploads/2012/03/600px-Factory_workflow.png)](http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow[/caption]
 
 If you're already a packager for openSUSE, don't forget to [get your packages in Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_add_a_new_package_to_Factory) or [start to maintain one](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_become_a_maintainer_of_a_package_in_Factory)!
 
@@ -74,7 +77,7 @@ We'd like to thank everyone working on openSUSE for being so cool. Special hugs 
   * Marguerite Su
 
 	
-  * Marcus Schäfer
+  * Marcus SchÃ¤fer
 
 	
   * Takashi Iwai
@@ -95,4 +98,4 @@ We'd like to thank everyone working on openSUSE for being so cool. Special hugs 
   * Graham Anderson
 
 
-Note that the list above doesn't credit the hard work being done by the [Packman team](http://packman.links2linux.org/) or people building packages outside of factory, nor is it absolutely accurate...		
+Note that the list above doesn't credit the hard work being done by the [Packman team](http://packman.links2linux.org/) or people building packages outside of factory, nor is it absolutely accurate...

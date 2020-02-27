@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-10-04 10:20:00+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/10/04/planned-downtime-to-affect-opensuse-services/
-title: "Planned Downtime to Affect openSUSE Services"
+slug: planned-downtime-to-affect-opensuse-services
+title: Planned Downtime to Affect openSUSE Services
+wordpress_id: 20564
 categories:
 - Announcements
 - Infrastructure
@@ -14,7 +16,8 @@ tags:
 - opensuse
 - services
 ---
-![]({{ site.baseurl }}/assets/Failgeeko-300x300.png)A scheduled power outage in the Nuremberg office will effect a number of openSUSE services from Oct. 13 at 4 p.m. (16:00 UTC) to Oct. 14  at 4 p.m. (16:00 UTC).
+
+![](/wp-content/uploads/2015/06/Failgeeko.png)A scheduled power outage in the Nuremberg office will effect a number of openSUSE services from Oct. 13 at 4 p.m. (16:00 UTC) to Oct. 14  at 4 p.m. (16:00 UTC).
 
 The scheduled maintenance on the building's electricity will affect most services. The only services that will be normally operating are:
 - [status.opensuse.org](https://status.opensuse.org/)
@@ -27,4 +30,4 @@ The rest of the services will be fully online on Oct. 15. The Heroes team will t
 Due to technical constraints, the above services will not be available through IPv6 during the outage.
 
 Thank you for your understanding.
-On behalf of the [openSUSE Heroes Team](https://en.opensuse.org/openSUSE:Heroes) and the SUSE-IT team.		
+On behalf of the [openSUSE Heroes Team](https://en.opensuse.org/openSUSE:Heroes) and the SUSE-IT team.

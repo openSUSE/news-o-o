@@ -1,15 +1,18 @@
 ---
 author: No Content Found
+comments: true
 date: 2010-07-09 17:47:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/07/09/opensuse-wiki-change-scheduled/
-title: "openSUSE Wiki Change Scheduled"
+slug: opensuse-wiki-change-scheduled
+title: openSUSE Wiki Change Scheduled
+wordpress_id: 3715
 categories:
 - Wiki
 tags:
 - wiki
 ---
+
 As mentioned in earlier posts, the new English wiki is scheduled to go live on Monday.Â  Here are a few technical details about the change itself:
 
 
@@ -57,4 +60,4 @@ As mentioned in earlier posts, the new English wiki is scheduled to go live on M
 
 
 
-The wiki team has worked hard to get the new wiki tested and perfected for Monday.Â  However, if any issues are discovered after the switch, please send a message to webmaster@opensuse.org or file a bug at http://bugzilla.novell.com under the openSUSE.org product.		
+The wiki team has worked hard to get the new wiki tested and perfected for Monday.Â  However, if any issues are discovered after the switch, please send a message to webmaster@opensuse.org or file a bug at http://bugzilla.novell.com under the openSUSE.org product.

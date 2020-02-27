@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-10-03 16:49:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/10/03/development-release-opensuse-111-beta-2-now-available/
-title: "Development Release: openSUSE 11.1 Beta 2 Now Available"
+slug: development-release-opensuse-111-beta-2-now-available
+title: 'Development Release: openSUSE 11.1 Beta 2 Now Available'
+wordpress_id: 1036
 categories:
 - Announcements
 - Distribution
 ---
+
 The first beta release for 11.1 was so popular, we've decided to do it again! The openSUSE Project is happy to announce the release of openSUSE 11.1 beta 2, available for immediate download and testing.
 
 Please note:
@@ -31,7 +34,7 @@ Major changes in this release include:
 * Mono 2.0 RC 3
 * Compiz 0.7.8
 
-Please also see the [11.1 beta 1 release announcement](https://news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/):
+Please also see the [11.1 beta 1 release announcement](//news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/):
 
 <!-- more -->See [DistroWatch](http://distrowatch.com/table.php?distribution=suse) for an expanded list of packages being shipped in the Factory distribution.
 
@@ -137,4 +140,4 @@ See [http://en.opensuse.org/Mirror_Selection](http://en.opensuse.org/Mirror_Sele
 
 Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an [email to Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release.)
 
-Thanks, and have a lot of fun! Mercury is [https://admission-writer.com/](https://admission-writer.com/) the closest planet to the sun, less than half of the earth's distance		
+Thanks, and have a lot of fun! Mercury is [https://admission-writer.com/](https://admission-writer.com/) the closest planet to the sun, less than half of the earth's distance

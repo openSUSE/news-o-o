@@ -1,27 +1,30 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-10 12:00:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/10/coming-soon-opensuse-13-1-with-yast-in-ruby/
-title: "Coming soon: openSUSE 13.1 with YaST in Ruby"
+slug: coming-soon-opensuse-13-1-with-yast-in-ruby
+title: 'Coming soon: openSUSE 13.1 with YaST in Ruby'
+wordpress_id: 16681
 categories:
 - Distribution
 ---
-({{ site.baseurl }}/assets/yast-installer-as-it-always-was.png) YaST during installation
+
+[caption id="attachment_17058" align="alignright" width="300"][![YaST during installation](//news.opensuse.org/wp-content/uploads/2013/10/yast-installer-as-it-always-was.png)](//news.opensuse.org/wp-content/uploads/2013/10/yast-installer-as-it-always-was.png) YaST during installation[/caption]
 
 On July 31st the YaST team announced [that the final Ruby conversion of YaST YCP code is over](http://lists.opensuse.org/yast-devel/2013-07/msg00247.html) and YaST is now at version 3.0. It took about a week for the new YaST to enter Factory, which makes it a part of the upcoming openSUSE 13.1 release. In the following article we'll answer the questions of why this change took place, what exactly happened, and where YaST is going. We spoke to two SUSE developers who had been involved with the port, Josef Reidinger and David Majda.<!-- more -->
 
 **Why did you want to port YaST to Ruby?**
 YaST was developed in YCP -- a custom, simple, inflexible language. For a long time, many YaST developers felt that it slowed them down. It didn't  support many useful concepts like OOP or exception handling, code written in it was hard to test, there were some annoying features (like a  tendency to be "robust", which really means hiding errors). However, original YCP developers moved on to other projects and there wasn't anyone willing to step in and improve the language.
-(https://twitter.com/dmajda/status/385344620252921856/photo/1) Josef and David hacking together
+[caption id="attachment_17068" align="alignright" width="300"][![Josef and David hacking on YaST](//news.opensuse.org/wp-content/uploads/2013/10/Hacking-on-YaST.jpeg)](https://twitter.com/dmajda/status/385344620252921856/photo/1) Josef and David hacking together[/caption]
 
 It was obvious that the only way out of this situation is to change the implementation to some other widely used language (most people were thinking about scripting languages, like Ruby or Python, which offer great flexibility and shorter code compared to e.g. C++ or Java). Such a change would mean we wouldn't need to maintain our own custom language. It would also allow us to use many third-party libraries and make contributing to the project much easier for outsiders. People wouldn't have to learn a whole new language just because of YaST.
 Changing the implementation language of such a big codebase as YaST is a huge effort, so it's no wonder that developers mostly only talked about it -- for years. It required someone external to the team (David) to decide that's talking isn't enough and we should just do it :-)
 
 **You mentioned in the announcement that the port was done automatically. How did that work?**
 It was obvious that a manual rewrite is a no-go because of the sheer size of the code base. So we started to hack on a transpiler [called Y2R](https://github.com/yast/y2r), which would take the YCP code and translate it into Ruby. We worked on it for a week during an internal SUSE workshop. During that time we got into a state where we could translate a code that displayed a simple dialog from YCP to Ruby and run it.
-({{ site.baseurl }}/assets/yast-GNOME.png) YaST in GNOME
+[caption id="attachment_17055" align="alignright" width="300"][![YaST in GNOME](//news.opensuse.org/wp-content/uploads/2013/10/yast-GNOME.png)](//news.opensuse.org/wp-content/uploads/2013/10/yast-GNOME.png) YaST in GNOME[/caption]
 
 This early success prompted us to work on the project more. We were soon able to translate and run a complete YaST module. Then came the [SUSE Hackweek](http://hackweek.suse.com) 9, where we involved more people and translated many more modules. After that, the project really gained momentum and several people worked on it full-time for about 3 months, until it was finished.
 
@@ -30,10 +33,10 @@ We chose Ruby because most YaST developers know it well (e.g. from work on WebYa
 
 **How were the results?**
 Good :-) We translated 96 YaST modules in total and currently there is no YCP code used in YaST except few obscure places like examples in the documentation (which need to be manually rewritten to reflect current best practices). YCP is also still used as a serialization format for some data files and for communicating between YaST components, but this does not affect development and we will probably get rid of that too over time.
-[![YaST team from Prague explaining what they are hacking on]({{ site.baseurl }}/assets/YaST-team1.png)](http://www.youtube.com/watch?v=Bzgs1lmSKCw)
+[![YaST team from Prague explaining what they are hacking on](//news.opensuse.org/wp-content/uploads/2013/10/YaST-team1.png)](http://www.youtube.com/watch?v=Bzgs1lmSKCw)
 
 I have to say that the final translation went pretty smoothly, mostly because we automated the whole process and did testing builds months in advance. That meant we had opportunity to catch many bugs in the conversion tools and other components early. We even did our custom builds of openSUSE 13. 1 Milestones 2 and 3 with pre-release versions of YaST in Ruby and announced them publically. As a result, openSUSE community had a preview of what would come and participated in testing and tracking down bugs.
-({{ site.baseurl }}/assets/yast-KDE.png) YaST in KDE
+[caption id="attachment_17056" align="alignright" width="300"][![YaST in KDE](//news.opensuse.org/wp-content/uploads/2013/10/yast-KDE.png)](//news.opensuse.org/wp-content/uploads/2013/10/yast-KDE.png) YaST in KDE[/caption]
 
 The amount of converted code is quite impressive:
 
@@ -61,7 +64,7 @@ For example, we have just settled on a new testing framework, RSpec. That will m
 We are also in the process of improving YaST development documentation and opening up the whole development. For example, we discarded our internal YaST IRC channel and all discussions happen in public. We now also use a [public CI server](http://ci.opensuse.org/) to run YaST tests.
 The overall goal is to lower barries to entry for external contributors and put them to the same level as members of the internal SUSE YaST team.
 
-({{ site.baseurl }}/assets/yast-commandline.png) YaST on the console
+[caption id="attachment_17057" align="alignright" width="300"][![YaST on the console](//news.opensuse.org/wp-content/uploads/2013/10/yast-commandline.png)](//news.opensuse.org/wp-content/uploads/2013/10/yast-commandline.png) YaST on the console[/caption]
 
 **Where to start to hack on YaST?**
 The entry point to YaST documentation for developers is [the YaST portal on the openSUSE wiki](http://en.opensuse.org/Portal:YaST) with the [developer info here](https://en.opensuse.org/openSUSE:YaST_development). We are currently in the process of updating it to match the changes in code (as a part of [hackweek](https://hackweek.suse.com/projects/132)). YaST developers can also be found on [yast-devel@opensuse.org](http://lists.opensuse.org/yast-devel/), where the port was discussed. And there is the [#yast channel on freenode](irc://freenode.net/#yast).
@@ -72,7 +75,3 @@ Even with the port to Ruby, YaST is big. Luckily the individual modules are not 
 
 **Thanks for the interview!**
 Our pleasure.
-
-
-
-		

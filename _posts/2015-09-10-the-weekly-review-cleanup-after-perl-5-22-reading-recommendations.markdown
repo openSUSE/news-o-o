@@ -1,15 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-09-10 10:04:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/10/the-weekly-review-cleanup-after-perl-5-22-reading-recommendations/
-title: "The weekly review: Cleanup after Perl 5.22, reading recommendations\
-  "
+slug: the-weekly-review-cleanup-after-perl-5-22-reading-recommendations
+title: 'The weekly review: Cleanup after Perl 5.22, reading recommendations'
+wordpress_id: 19475
 categories:
 - Weekly News
 ---
-[![Tumbleweed]({{ site.baseurl }}/assets/Tumbleweed-300x300.png)]({{ site.baseurl }}/assets/Tumbleweed.png)After an update to Perl 5.22 and adding Plasma 5.4, Tumbleweed had no snapshots this week but there is one expected within the next few days. 
+
+[![Tumbleweed](/wp-content/uploads/2015/07/Tumbleweed.png)](/wp-content/uploads/2015/07/Tumbleweed.png)After an update to Perl 5.22 and adding Plasma 5.4, Tumbleweed had no snapshots this week but there is one expected within the next few days. 
 
 The Perl update to 5.22 required a lot of cleanup and much of the resources and efforts for builds were focused on Leap this week.
 
@@ -61,4 +63,4 @@ A topic we want to share in this weekly review is a reading list the SUSE Docume
 
 Another website read that is good is Tim O'Reilly’s [Ten Myths about Open Source Software](http://www.oreilly.de/opensource/os_artikel/myths_1199.html).
 
-Please feel free to comment below and give us your thoughts. Have a lot of fun!		
+Please feel free to comment below and give us your thoughts. Have a lot of fun!

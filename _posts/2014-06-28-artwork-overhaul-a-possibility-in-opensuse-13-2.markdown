@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-06-28 21:53:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/06/28/artwork-overhaul-a-possibility-in-opensuse-13-2/
-title: "Artwork Overhaul a Possibility in openSUSE 13.2?"
+slug: artwork-overhaul-a-possibility-in-opensuse-13-2
+title: Artwork Overhaul a Possibility in openSUSE 13.2?
+wordpress_id: 18112
 categories:
 - Project
 ---
+
 As we stated in one of our earlier articles, the openSUSE team is working full steam. Even though it may sometimes seem quiet news-wise, it's not so by any means. So, let's look at the progress the artwork team has been making since the [last time](https://news.opensuse.org/2014/05/22/what-will-opensuse-13-2-default-wallpaper-look-like/) we posted about new bling-bling hitting openSUSE 13.2.
 
 <!-- more -->
@@ -33,5 +36,3 @@ Any way, consider this a call to join the debate with your artistic geeko portfo
 
 
 ##### ...have a lot of fun! :)
-
-		

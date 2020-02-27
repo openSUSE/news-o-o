@@ -1,13 +1,16 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-11-01 12:56:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/01/help-us-spread-the-word-on-opensuse-12-1/
-title: "Help us spread the word on openSUSE 12.1!"
+slug: help-us-spread-the-word-on-opensuse-12-1
+title: Help us spread the word on openSUSE 12.1!
+wordpress_id: 11431
 categories:
 - Project
 ---
+
 [![Making noise](http://farm5.static.flickr.com/4044/4316533311_84a562b59c_m.jpg)](http://www.flickr.com/photos/iboy/4316533311/)
 _Heya all,_
 
@@ -15,7 +18,7 @@ In less than 3 weeks, our little baby, openSUSE 12.1, will be released into the 
 
 openSUSE 12.1 needs to be promoted **everywhere**! That is, on _your_ blog; on twitter, facebook, Google plus; and much more! Read on for details and tips on how **you can help us** spread the word!<!-- more -->
 
-[![twitter cool background small]({{ site.baseurl }}/assets/twitter_small.png)](https://twitter.com/#!/sysrich)
+[![twitter cool background small](/wp-content/uploads/2011/10/twitter_small.png)](https://twitter.com/#!/sysrich)
 
 
 ### backgrounds for your computer, (micro)blog and more
@@ -87,7 +90,7 @@ By inserting the following code in your website:
 
 For more tips and customization [check out the Twitter Widget section on the wiki](http://en.opensuse.org/openSUSE:Buttons_and_banners#Twitter_Widget).
 
-[![Google Plus logo]({{ site.baseurl }}/assets/gplus-150x150.png)](http://gpc.fm/l/opensuseusers)
+[![Google Plus logo](/wp-content/uploads/2011/11/gplus.png)](http://gpc.fm/l/opensuseusers)
 
 
 ### Social media
@@ -102,15 +105,15 @@ I'm sure you know what to do with these buttons! **Like** openSUSE, **+1** us, *
 
 
 
-[![linkedin group]({{ site.baseurl }}/assets/btn_myprofile_160x33.png)](http://www.linkedin.com/groupRegistration?gid=61388)
+[![linkedin group](/wp-content/uploads/2011/10/btn_myprofile_160x33.png)](http://www.linkedin.com/groupRegistration?gid=61388)
 Also join the openSUSE Group on facebook which you can visit [here](http://www.facebook.com/groups/opensuseproject/).
 
 [Follow @openSUSE](https://twitter.com/openSUSE)
 
 
-[![vkontakte]({{ site.baseurl }}/assets/vkohtakte.png)](http://vkontakte.ru/opensuseorg)
+[![vkontakte](/wp-content/uploads/2011/10/vkohtakte.png)](http://vkontakte.ru/opensuseorg)
 
-[![follow identi.ca]({{ site.baseurl }}/assets/follow-identi.ca_.png)](http://identi.ca/openSUSE)
+[![follow identi.ca](/wp-content/uploads/2011/10/follow-identi.ca_.png)](http://identi.ca/openSUSE)
 And join the [identi.ca group](http://identi.ca/group/openSUSE)! 
 
 
@@ -134,4 +137,4 @@ But we can also use some more technical writing help. We'll review and edit the 
 ## But most importantly...
 
 
-... you should **have a lot of fun!**		
+... you should **have a lot of fun!**

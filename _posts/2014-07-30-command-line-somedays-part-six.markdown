@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-07-30 08:58:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/30/command-line-somedays-part-six/
-title: "Command Line \"Somedays\" - Part Six"
+slug: command-line-somedays-part-six
+title: Command Line "Somedays" - Part Six
+wordpress_id: 18272
 categories:
 - Distribution
 ---
+
 Hey guys. Yes, it's Wednesday, and yes, we're a day late. Reason? [This awesome announcement](https://news.opensuse.org/2014/07/29/factory-rolling-release/), that had to take the whole glory of Tuesday. Also, in the future, if there's an important announcement/release announcement from the project, the CLT series will be postponed.
 
 Anyway, let's move on to our today's agenda: The input/output redirection.
@@ -28,7 +31,7 @@ So, how it basically works is that command line programs usually send the result
 
 What I did here, is I wanted a man page for zypper. But I wanted it in a text file, so I can easily access the results in case I need them (asking for help on the forums, IRC, f.ex.). So what this command did is that it saved the output of man zypper to man.txt in my home folder, which you can see here, opened in gedit (click to enlarge):
 
-[![man zypper redirect]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-30-103144-300x212.png)]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-30-103144.png)If I should repeat the command, or use different commands with the same file name output, it would rewrite the file over and over again. So, in that case, if I'd like to have the output redirection append the next results to the existing file, the only thing I have to do is use **'>>'** instead of** '>'** the next time.
+[![man zypper redirect](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-30-103144.png)](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-30-103144.png)If I should repeat the command, or use different commands with the same file name output, it would rewrite the file over and over again. So, in that case, if I'd like to have the output redirection append the next results to the existing file, the only thing I have to do is use **'>>'** instead of** '>'** the next time.
 
 
 ##### Standard input
@@ -72,5 +75,3 @@ Once again, halting to a stop for this week. We have only a couple of lessons le
 
 
 ##### ...have a lot of fun!
-
-		

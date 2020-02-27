@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-01-17 14:45:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/01/17/the-opensuse-12-3-beta-is-out-time-for-pizza/
-title: "The openSUSE 12.3 Beta is Out! Time for Pizza..."
+slug: the-opensuse-12-3-beta-is-out-time-for-pizza
+title: The openSUSE 12.3 Beta is Out! Time for Pizza...
+wordpress_id: 14939
 categories:
 - Announcements
 - Distribution
 ---
-[![Beta_pizza_party_istanbul poster]({{ site.baseurl }}/assets/Beta_pizza_party_istanbul-300x156.png)](https://en.opensuse.org/File:Beta_pizza_party_istanbul.jpg)
+
+[![Beta_pizza_party_istanbul poster](//news.opensuse.org/wp-content/uploads/2013/01/Beta_pizza_party_istanbul-300x156.png)](https://en.opensuse.org/File:Beta_pizza_party_istanbul.jpg)
 According to [plan](http://en.opensuse.org/openSUSE:Roadmap), today openSUSE 12.3 Beta [sees the light](http://software.opensuse.org/developer). The beta comes with mostly smallish changes as we're in serious testing waters now - we hope you're out there to help us clear the way to the final release! The first RC is already coming on February 7 so this Beta needs a good workout. As is tradition in openSUSE, the Beta will be celebrated with a [BetaPizzaParty](https://en.opensuse.org/openSUSE:BetaPizzaParty) at the Nuremberg headquarters on Wed 30th of Jan starting 16:00 CET! Read on to find out a bit more about the Parties and Pizzas and what's new and about the awesome [12.3 Polish Hackaton](https://en.opensuse.org/openSUSE:12.3_polish_hackathon) which is being organized this weekend at the SUSE headquarters!<!-- more -->
 
 
@@ -29,11 +32,11 @@ If you'd like to be in the hangout, [find the event here!](https://plus.google.c
 ## BetaPizzaPartyTime!
 
 
-Secondly, it's time to organize a BetaPizzaParty in the coming weeks! In Nürnberg we have the usual event (this time planned for Wednesday the 30th at 16:00) flooded with Pizza at the SUSE offices and we're hoping other SUSE offices will join our fun. Be sure to check [the wiki page!](http://en.opensuse.org/openSUSE:BetaPizzaParty) for locations. History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?  But if there's no party around, you can organize your own. Get the Pizza (and a place to eat it with room for testing laptops)! It's not a big deal - do it in a local pizza place, at your home or in a room in your office... Just invite friends & colleagues and who knows, if you [put your party on the wiki](http://en.opensuse.org/openSUSE:BetaPizzaParty), a new friend will show up!
+Secondly, it's time to organize a BetaPizzaParty in the coming weeks! In NÃ¼rnberg we have the usual event (this time planned for Wednesday the 30th at 16:00) flooded with Pizza at the SUSE offices and we're hoping other SUSE offices will join our fun. Be sure to check [the wiki page!](http://en.opensuse.org/openSUSE:BetaPizzaParty) for locations. History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?  But if there's no party around, you can organize your own. Get the Pizza (and a place to eat it with room for testing laptops)! It's not a big deal - do it in a local pizza place, at your home or in a room in your office... Just invite friends & colleagues and who knows, if you [put your party on the wiki](http://en.opensuse.org/openSUSE:BetaPizzaParty), a new friend will show up!
 
 If you are unsure on how to do it, read [this](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) and [this](http://blog.jospoortvliet.com/2011/08/10-steps-to-building-local-community.html) for some tips. In short, you don't have to be too ambitious. It's just about the fun.
 
-Don't forget the party part of a BetaPizzaParty! Make sure you'll have some fun at some point. One way of doing that is of course to not just order pizzas but [make your own following this awesome Geeko Pizza Party Recipe](https://news.opensuse.org/?p=11150).
+Don't forget the party part of a BetaPizzaParty! Make sure you'll have some fun at some point. One way of doing that is of course to not just order pizzas but [make your own following this awesome Geeko Pizza Party Recipe](//news.opensuse.org/?p=11150).
 
 
 
@@ -63,14 +66,14 @@ And now for an overview of what this new Beta brings.
 ### Desktops and apps
 
 
-![KDE and openSUSE]({{ site.baseurl }}/assets/presentation-300x206.jpg)
+![KDE and openSUSE](//news.opensuse.org/wp-content/uploads/2012/06/presentation.jpg)
 The Beta comes with 4.10 RC2 of **KDE's workspaces and applications**. KDE has announced a third RC due to some late changes and this version is part of a [testing sprint](http://www.sharpley.org.uk/blog/kde-testing) organized by the KDE Quality team. openSUSE KDE packagers have build a [special live Image](
 http://www.dennogumi.org/2013/01/test-the-upcoming-opensuse-12-3-and-kde-workspace-applications-and-platform-4-10-rc2) to [test this release](http://community.kde.org/Getinvolved/Quality/Beta/4.10/AreasToTest) but we urge you to get the Beta packages from [software.opensuse.org](http://software.opensuse.org/developer/en) as they are of course newer.
 
 File manager **Thunar** (well known to XFCE users as it is the default file manager there) introduces tab support, improved bookmark handling (including easily adding remote bookmarks), improved UI and a check for free space before copying starts. There have also been extensive performance improvements.
 
 Another filemanager part of this release is **PCMan**, part of the LXDE lightweight desktop. The 1.1 release brings some UI improvements like disabling items which cannot act (like 'copy' on selected items) in the menu and toolbar, the option to 'treat backup files as hidden', the ability to change the colums in the Detailed List View and search engine support. Underlying improvements were made to stability and performance, as well as bringing new support for unmounting removable media without ejecting them and some other small changes.
-![hackweek10]({{ site.baseurl }}/assets/hackweek10-300x155.png)
+![hackweek10](//news.opensuse.org/wp-content/uploads/2012/08/hackweek10-300x155.png)
 In the browser area, the latest Firefox 18 is part of this release as well, bringing better performance and scaling of web content to openSUSE 12.3.
 
 
@@ -124,4 +127,3 @@ Note: as part of the SuSEconfig removal work, permissions now applies changes fo
 You can get the goodies [at this page](http://software.opensuse.org/developer). Have fun - we think it's already a pretty decent release and we're working as hard as we can to make it even better. Whatever bugs you find, remember: even a Beta testing (with or without Pizza Party) is about having fun! It doesn't matter what technical knowledge you have - as long as you are having fun. And don't eat too much pizza, overeating tends to be unhealty.
 
 **Enjoy!**
-		

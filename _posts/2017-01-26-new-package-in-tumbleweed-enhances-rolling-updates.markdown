@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-01-26 07:42:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/01/26/new-package-in-tumbleweed-enhances-rolling-updates/
-title: "New Package in Tumbleweed Enhances Rolling Updates"
+slug: new-package-in-tumbleweed-enhances-rolling-updates
+title: New Package in Tumbleweed Enhances Rolling Updates
+wordpress_id: 20274
 categories:
 - Tumbleweed
 tags:
@@ -22,7 +24,8 @@ tags:
 - wine
 - yast2
 ---
-![]({{ site.baseurl }}/assets/tumbleweed-t-shirt-men-s-t-shirt-300x300.jpg)Snapshots of [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) are becoming more frequent once again and a new package in the rolling release should make the handling of updates easier.
+
+![](/wp-content/uploads/2017/01/tumbleweed-t-shirt-men-s-t-shirt.jpg)Snapshots of [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) are becoming more frequent once again and a new package in the rolling release should make the handling of updates easier.
 
 The new package called [transactional-update](https://lists.opensuse.org/opensuse-factory/2017-01/msg00367.html) was announced on the [openSUSE Factory Mailing List](https://lists.opensuse.org/opensuse-factory/) on Jan. 21 and it allows for more fluent handling of updates and upgrades for a rolling release. Tumbleweed user are encourage to read the [email](https://lists.opensuse.org/opensuse-factory/2017-01/msg00367.html) and [thread](https://lists.opensuse.org/opensuse-factory/2017-01/threads2.html) because the package has potential consequences for those using it if not used correctly.
 
@@ -40,4 +43,4 @@ In addition to the Kernel added in the [20170117](https://lists.opensuse.org/ope
 
 Closing out the five snapshots that were released this week was another big update of [KDE Applications 16.12.1](https://www.kde.org/announcements/announce-applications-16.12.1.php) in snapshot [20170123](https://lists.opensuse.org/opensuse-factory/2017-01/msg00427.html). Mesa enabled RADV Vulkan driver for AMD GPU Cards in the snapshot and libinput 1.6.0 enhanced touchpad acceleration.
 
-Tumbleweed users can expect updates for KDE in the coming weeks as Plasma and Frameworks should be moving to new versions.		
+Tumbleweed users can expect updates for KDE in the coming weeks as Plasma and Frameworks should be moving to new versions.

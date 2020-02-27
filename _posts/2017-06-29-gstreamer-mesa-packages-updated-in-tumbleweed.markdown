@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-06-29 10:56:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/06/29/gstreamer-mesa-packages-updated-in-tumbleweed/
-title: "GStreamer, Mesa Packages Updated in Tumbleweed"
+slug: gstreamer-mesa-packages-updated-in-tumbleweed
+title: GStreamer, Mesa Packages Updated in Tumbleweed
+wordpress_id: 20456
 categories:
 - Tumbleweed
 tags:
@@ -22,7 +24,8 @@ tags:
 - squid
 - Tumbleweed
 ---
-![]({{ site.baseurl }}/assets/openqalogo-300x300.png)Three [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week brought a few major release packages and a clear example for how the automated testing tool [openQA ](http://open.qa/) can prevents a snapshot from being released.
+
+![](/wp-content/uploads/2017/06/openqalogo.png)Three [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week brought a few major release packages and a clear example for how the automated testing tool [openQA ](http://open.qa/) can prevents a snapshot from being released.
 
 The unicode character map [Gucharmap](https://wiki.gnome.org/Apps/Gucharmap), which uses the gtk+ toolkit and runs on any platform that [gtk+](https://www.gtk.org/) supports, was updated to version 10.0.0 in the repositories in the [20170625](https://lists.opensuse.org/opensuse-factory/2017-06/msg00746.html) snapshot. The [GNOME project](https://www.gnome.org/) updated translations and support of editors like [Bluefish](http://bluefish.openoffice.nl/) as well as many others. Other major release were also in the [20170625](https://lists.opensuse.org/opensuse-factory/2017-06/msg00746.html) snapshot. An update of net-tools to version 2.0 dropped the network statistics (netstat) Extended Internet Daemon (xinetd) service to phase out xinetd. Users of the proc file-system get cgroup namespaces with the arrival of the psmisc 23.0 package.
 
@@ -36,4 +39,4 @@ There was a snapshot the following day, [20170622](https://lists.opensuse.org/op
 
 [Apache2](https://httpd.apache.org/) 2.4.26 enhanced security, added new features and fixed several bugs; the changelog also tagged HTTP/2 as fully production ready. Improvements to the syntax highlighting of: SPARQL, CSS, BibTeX and LaTeX came with gtksourceview 3.24.3. Squid 3.5.26 had some packaging cleanup  and include the required [OpenSSL](https://www.openssl.org/) advertisement on builds -v output where features are displayed and the OpenSSL supports better compliance with license requirements.
 
-Items users can expect in future Tumbleweed snapshots are [KDE Frameworks 5.35.0](https://www.kde.org/announcements/kde-frameworks-5.35.0.php) and [openSSL 1.1](https://www.openssl.org/news/openssl-1.1.0-notes.html) as default.		
+Items users can expect in future Tumbleweed snapshots are [KDE Frameworks 5.35.0](https://www.kde.org/announcements/kde-frameworks-5.35.0.php) and [openSSL 1.1](https://www.openssl.org/news/openssl-1.1.0-notes.html) as default.

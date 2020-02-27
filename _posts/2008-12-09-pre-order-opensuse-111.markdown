@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-09 14:37:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/09/pre-order-opensuse-111/
-title: "Pre-order openSUSE 11.1"
+slug: pre-order-opensuse-111
+title: Pre-order openSUSE 11.1
+wordpress_id: 1111
 categories:
 - Distribution
 ---
-
 
 openSUSE 11.1 is gold, and available for pre-order! The release date is still the 18th of December, just in time to have some fun over the holidays ...
 
@@ -78,4 +79,4 @@ BTW: For our German users: if you pre-order from the [German shop](http://www.ed
 **UPDATE:**I just heard that only the German Box have the flashlights. There are to many problems to send them to other countries because of taxes/customs, batteries are mostly a no-go and other annoying stuff. Sorry.
 
 
- Voraussetzung ist, dass das kind selbst bedrftig ist, also die lebenshaltungskosten [www.schreib-essay.com/seminararbeit/](https://schreib-essay.com/seminararbeit/) nicht anderweitig gedeckt sind		
+ Voraussetzung ist, dass das kind selbst bedrftig ist, also die lebenshaltungskosten [www.schreib-essay.com/seminararbeit/](https://schreib-essay.com/seminararbeit/) nicht anderweitig gedeckt sind

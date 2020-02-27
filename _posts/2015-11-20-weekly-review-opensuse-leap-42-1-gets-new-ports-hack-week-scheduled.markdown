@@ -1,16 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-11-20 15:37:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/11/20/weekly-review-opensuse-leap-42-1-gets-new-ports-hack-week-scheduled/
-title: "Weekly review: openSUSE Leap 42.1 gets new ports, Hack Week scheduled\
-  "
+slug: weekly-review-opensuse-leap-42-1-gets-new-ports-hack-week-scheduled
+title: 'Weekly review: openSUSE Leap 42.1 gets new ports, Hack Week scheduled'
+wordpress_id: 19633
 categories:
 - Events
 - Hack Week
 - Leap
 ---
+
 The openSUSE Project has been very busy this week. The project shared a booth with SUSE at the [Supercomputing Conference](http://sc15.supercomputing.org) in Austin, Texas, this week. 
 
 [![](https://pbs.twimg.com/media/CUIBhOEUwAA0MNC.jpg:small)](https://pbs.twimg.com/media/CUIBhOEUwAA0MNC.jpg:large)
@@ -42,4 +44,4 @@ There are some projects in Factory staging we need your help with before they wi
 Dominique Leuenberger wrote in the [Tumbleweed weekly review](http://lists.opensuse.org/opensuse-factory/2015-11/msg00550.html) email that some expect issues with the new [Boost version 1.59](http://www.boost.org/users/history/version_1_59_0.html) and that there are quick a few fixes needed. [GStreamer 1.6](http://gstreamer.freedesktop.org/releases/1.6/) has most of the packages ready, but some the critical component Phonon is missing. 
 
 With all this, I wish you a great weekend – and always remember: Have a
-lot of fun.		
+lot of fun.

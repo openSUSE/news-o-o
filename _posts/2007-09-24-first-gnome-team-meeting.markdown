@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-24 17:09:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/24/first-gnome-team-meeting/
-title: "First GNOME Team Meeting"
+slug: first-gnome-team-meeting
+title: First GNOME Team Meeting
+wordpress_id: 360
 categories:
 - Project
 tags:
@@ -19,4 +21,4 @@ Meeting agenda:
 [http://en.opensuse.org/GNOME/Meetings/20070927](http://en.opensuse.org/GNOME/Meetings/20070927)
 
 GNOME meetings info:
-[http://en.opensuse.org/GNOME/Meetings](http://en.opensuse.org/GNOME/Meetings)
+[http://en.opensuse.org/GNOME/Meetings](http://en.opensuse.org/GNOME/Meetings) Your advisor should be able [pay for essays written](https://essayclick.net/) to help you find an appropriate setting within your community where you can undergo the required training

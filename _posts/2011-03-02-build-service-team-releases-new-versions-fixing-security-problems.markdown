@@ -1,17 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2011-03-02 01:48:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/02/build-service-team-releases-new-versions-fixing-security-problems/
-title: "Build Service team releases new versions fixing security problems\
-  "
+slug: build-service-team-releases-new-versions-fixing-security-problems
+title: Build Service team releases new versions fixing security problems
+wordpress_id: 7286
 categories:
 - Build Service
 ---
+
 The openSUSE Build Service team has released verison 2.0.8 and 2.1.6. of OBS. Both versions are fixing a critical security leak which can be miss-used to modify projects or packages without having write permission there. We highly recommend to update your instance of OBS as soon as possible to these new versions. Version 1.7 is not affected by this issue.
 <!-- more -->
-_Thanks to Marcus Hüwe for reporting this issue._
+_Thanks to Marcus HÃ¼we for reporting this issue._
 
 
 
@@ -83,5 +85,3 @@ None
 > 
 
 </blockquote>
-
-		

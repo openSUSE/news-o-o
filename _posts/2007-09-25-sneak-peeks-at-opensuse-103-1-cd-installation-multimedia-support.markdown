@@ -1,15 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-25 13:25:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/25/sneak-peeks-at-opensuse-103-1-cd-installation-multimedia-support/
-title: "Sneak Peeks at openSUSE 10.3: 1-CD Installation & Multimedia support"
+slug: sneak-peeks-at-opensuse-103-1-cd-installation-multimedia-support
+title: 'Sneak Peeks at openSUSE 10.3: 1-CD Installation & Multimedia support'
+wordpress_id: 325
 categories:
 - Distribution
 ---
 
-openSUSE 10.3 has seen a lot of changes with the media selection; the most prominent one being the new 1-CD installation for KDE, and 1-CD installation for GNOME. Multimedia support in the distribution has also been improved, with MP3 support out-of-the-box for Banshee and [Amarok](http://opensuse.org/Amarok). Today we bring you a special double-bill covering these two stories, and we'll be talking to [Michael Löffler](http://en.opensuse.org/User:Sprudel24), the Product Manager of openSUSE, to give us a little more insight. 
+openSUSE 10.3 has seen a lot of changes with the media selection; the most prominent one being the new 1-CD installation for KDE, and 1-CD installation for GNOME. Multimedia support in the distribution has also been improved, with MP3 support out-of-the-box for Banshee and [Amarok](http://opensuse.org/Amarok). Today we bring you a special double-bill covering these two stories, and we'll be talking to [Michael LÃ¶ffler](http://en.opensuse.org/User:Sprudel24), the Product Manager of openSUSE, to give us a little more insight. 
+
+<!-- more -->
 
 
 
@@ -50,7 +54,7 @@ An extremely nice feature in the installation of openSUSE 10.3 is the new defaul
 
 
 
-![Additional Repositories]({{ site.baseurl }}/assets/more-repos1.png)
+![Additional Repositories](//news.opensuse.org/wp-content/uploads/2007/09/more-repos1.png)
 
 
 
@@ -86,7 +90,7 @@ openSUSE is constantly trying to improve the out-of-the-box [user experience](ht
 
 
 
-[![openSUSE 10.3 will contain Amarok 1.4.7]({{ site.baseurl }}/assets/amarok.png)](http://opensuse.org/Amarok)In openSUSE 10.3, Amarok -- the popular KDE audio player -- will have MP3 support available to you directly from the non-OSS online repository, or will work out-of-the-box on the DVD. This is all thanks to the _yauap_ GStreamer plugin available from [Fluendo](http://fluendo.com). It is a significant step forward for all KDE users or Amarok aficionados in openSUSE.
+[![openSUSE 10.3 will contain Amarok 1.4.7](//news.opensuse.org/wp-content/uploads/2007/09/amarok.png)](http://opensuse.org/Amarok)In openSUSE 10.3, Amarok -- the popular KDE audio player -- will have MP3 support available to you directly from the non-OSS online repository, or will work out-of-the-box on the DVD. This is all thanks to the _yauap_ GStreamer plugin available from [Fluendo](http://fluendo.com). It is a significant step forward for all KDE users or Amarok aficionados in openSUSE.
 
 
 
@@ -100,15 +104,15 @@ Now, with a completely default OSS installation, if you try to play an MP3 (in A
 
 
 
-![Install Fluendo GStreamer Codec]({{ site.baseurl }}/assets/amarok-mp31.png)
+![Install Fluendo GStreamer Codec](//news.opensuse.org/wp-content/uploads/2007/09/amarok-mp31.png)
 
 
 
-As you can see, it also gives you the option to install the additional codecs providing you with MP3. This link will take you to a place where you quite simply only need to click on one link, and, using [One-Click-Install](https://news.opensuse.org/?p=133) grab the GStreamer Fluendo codec for you and install it (not available in RC1, but will be in the final release), leaving you ready to play MP3s straight away! Furthermore, it also provides links to the community website which gives you advice on other free formats, and suggests other workarounds for other multimedia software:
+As you can see, it also gives you the option to install the additional codecs providing you with MP3. This link will take you to a place where you quite simply only need to click on one link, and, using [One-Click-Install](//news.opensuse.org/?p=133) grab the GStreamer Fluendo codec for you and install it (not available in RC1, but will be in the final release), leaving you ready to play MP3s straight away! Furthermore, it also provides links to the community website which gives you advice on other free formats, and suggests other workarounds for other multimedia software:
 
 
 
-[![openSUSE-Community.org]({{ site.baseurl }}/assets/community-repos1.png)](http://software.opensuse.org/codecs?client_version=10.3.1&lang=en_GB.UTF-8&os_release=openSUSE%2010.3%20(i586)&kernel=2.6.22.5-23-default&gstreamer=gstreamer010-0.10.13-30&xine=libxine1-1.1.8-0.pm.0)
+[![openSUSE-Community.org](//news.opensuse.org/wp-content/uploads/2007/09/community-repos1.png)](http://software.opensuse.org/codecs?client_version=10.3.1&lang=en_GB.UTF-8&os_release=openSUSE%2010.3%20(i586)&kernel=2.6.22.5-23-default&gstreamer=gstreamer010-0.10.13-30&xine=libxine1-1.1.8-0.pm.0)
 
 
 
@@ -122,7 +126,7 @@ In openSUSE 10.2 users were provided with MP3 support if they used _Helix Banshe
 
 
 
-![Banshee]({{ site.baseurl }}/assets/helix-banshee.png)
+![Banshee](//news.opensuse.org/wp-content/uploads/2007/09/helix-banshee.png)
 
 
 
@@ -132,13 +136,13 @@ In openSUSE 10.2 users were provided with MP3 support if they used _Helix Banshe
 
 
 
-You can test and try out all of this stuff (with the exception of 1-click install for Amarok codecs) by taking the [openSUSE 10.3 Release Candidate](https://news.opensuse.org/?p=305) for a spin. 
+You can test and try out all of this stuff (with the exception of 1-click install for Amarok codecs) by taking the [openSUSE 10.3 Release Candidate](//news.opensuse.org/?p=305) for a spin. 
 
 
 
 
 
-## Talk with Michael Löffler
+## Talk with Michael LÃ¶ffler
 
 
 I caught up with Michael to learn a little more about the background with these things.
@@ -178,3 +182,5 @@ We are also in contact with Fluendo and asked them to offer RPMs for openSUSE an
 
 
 ### Thanks!
+
+Because of the nature of the [pro-academic-writers.com](https://pro-academic-writers.com/) counseling profession, many online programs do require you to complete clinical practice hours in addition to online coursework

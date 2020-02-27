@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-09 21:59:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/09/kde-in-opensuse-111-and-beyond/
-title: "KDE in openSUSE 11.1 and Beyond"
+slug: kde-in-opensuse-111-and-beyond
+title: KDE in openSUSE 11.1 and Beyond
+wordpress_id: 1012
 categories:
 - Distribution
 tags:
 - KDE
 ---
+
 After receiving a great deal of feedback on the issue of KDE 3.5 inclusion in openSUSE 11.1, the KDE team has decided to take the following course of action.
 
 
@@ -32,4 +35,4 @@ After receiving a great deal of feedback on the issue of KDE 3.5 inclusion in op
 
 We'd like to thank all the people who helped provide constructive feedback while we evaluated the best course for the next release of openSUSE. While we know that no solution is guaranteed to make every user happy, we think that we've reached the best compromise for openSUSE 11.1 and beyond, to ensure a smooth transition.
 
-Now that we have a clear path, we welcome any contributors who wish to help out. Please join the #opensuse-kde channel or speak up on the opensuse-factory list if you have any questions about how to get started with testing and packaging. It became fairly obvious pretty quickly that the creators of mobbles didn't [how to catch a cheater app](https://besttrackingapps.com/spy-on-your-spouse/) go into development without funds		
+Now that we have a clear path, we welcome any contributors who wish to help out. Please join the #opensuse-kde channel or speak up on the opensuse-factory list if you have any questions about how to get started with testing and packaging. It became fairly obvious pretty quickly that the creators of mobbles didn't  go into development without funds

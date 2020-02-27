@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-02-05 22:05:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/02/05/reminder-first-opensuse-medical-team-meeting/
-title: "Reminder: first openSUSE Medical Team Meeting"
+slug: reminder-first-opensuse-medical-team-meeting
+title: 'Reminder: first openSUSE Medical Team Meeting'
+wordpress_id: 2819
 categories:
 - Derivatives
 - Events
@@ -12,6 +14,7 @@ tags:
 - Medical
 - opensuse
 ---
+
 The first openSUSE-Medical Team meeting will take place tomorrow    (Saturday February 6) at 14:00 UTC. As always, the meeting will be held   in IRC on the #opensuse-medical channel on Freenode.
 
 Please add your topics to the meeting wiki page at:
@@ -30,4 +33,4 @@ Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.
 
 Wondering what meeting times are? [Check the openSUSE Meetings   page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed there.
 
-on IRC meetings, see: [http://en.opensuse.org/Meetings/About](http://en.opensuse.org/Meetings/About).		
+on IRC meetings, see: [http://en.opensuse.org/Meetings/About](http://en.opensuse.org/Meetings/About).

@@ -1,28 +1,117 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-16 12:00:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/16/people-of-opensuse-wolfgang-koller/
-title: "People of openSUSE: Wolfgang Koller"
+slug: people-of-opensuse-wolfgang-koller
+title: 'People of openSUSE: Wolfgang Koller'
+wordpress_id: 774
 categories:
 - People of openSUSE
 ---
+
 While some are preparing their fly to Austria to attend EURO 2008, 'People of openSUSE' already flew but rather to meet Wolfgang Koller - founder of [SuSELinuxSupport](http://www.suselinuxsupport.de) community and author of some nice KDE applications such as [KTrafficAnalyzer](http://www.kde-apps.org/content/show.php/KTrafficAnalyzer?content=22134).
 
 <!-- more -->
-![wolfgang_koller.jpg]({{ site.baseurl }}/assets/wolfgang_koller.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|Viras, for gaming Bikiniboy :)|
-|**Homepage:**|[www.suselinuxsupport.de](http://www.suselinuxsupport.de)|
-|**Blog:**|Sorry - don't have one of those fancy new stuff :) !|
-|||
-|**Favorite season:**|Definately spring, not to cold and not to hot :)|
-|**Motto:**|"Life should NOT be a journey to the grave with the intention of arriving safely in an attractive and well preserved body, but rather to skid in sideways - Chardonnay in one hand - chocolate in the other - body thoroughly used up, totally worn out and screaming : Woo Hoo, what a ride!"|
-|||
+<table border="0" >
+<tr >
 
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![wolfgang_koller.jpg](/wp-content/uploads/2008/05/wolfgang_koller.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >Viras, for gaming Bikiniboy :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[www.suselinuxsupport.de](http://www.suselinuxsupport.de)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >Sorry - don't have one of those fancy new stuff :) !
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Definately spring, not to cold and not to hot :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"Life should NOT be a journey to the grave with the intention of arriving safely in an attractive and well preserved body, but rather to skid in sideways - Chardonnay in one hand - chocolate in the other - body thoroughly used up, totally worn out and screaming : Woo Hoo, what a ride!"
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -225,7 +314,7 @@ I would love to know more about assembler, but I never had the time to read more
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I would probably spend the whole time with my girlfriend and have a lot of.... oh well you know :) !
@@ -296,7 +385,7 @@ I prefer holidays with a lot of spare time, so not to many sight-seeing trips an
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 First of all - get an Aston Martin V12 Vanquish, after that I would most probably spend the time for a nice house :) !
@@ -306,7 +395,7 @@ First of all - get an Aston Martin V12 Vanquish, after that I would most probabl
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 1250 - I would just love to be a Knight!
@@ -316,7 +405,7 @@ First of all - get an Aston Martin V12 Vanquish, after that I would most probabl
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No - that's not necessary :) !
@@ -372,5 +461,3 @@ Which is your favorite movie scene? - there are so many good movies out there!
 Q: Why is the universe that big?
 A: If you have one let me know...
 
-
-		

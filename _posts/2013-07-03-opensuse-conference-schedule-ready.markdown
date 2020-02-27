@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-07-03 12:10:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/07/03/opensuse-conference-schedule-ready/
-title: "openSUSE Conference Schedule ready!"
+slug: opensuse-conference-schedule-ready
+title: openSUSE Conference Schedule ready!
+wordpress_id: 16204
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-![ChameleonBustPosterDraft]({{ site.baseurl }}/assets/ChameleonBust_white-212x300.png)We've got great news for you: the openSUSE Conference Paper Committee has finalized the conference program! We've got inspiring keynotes, interesting talks, in-depth workshops and intensive parties all lined up! Read on to find out what we've got in store.<!-- more -->
+
+![ChameleonBustPosterDraft](//news.opensuse.org/wp-content/uploads/2013/01/ChameleonBust_white.png)We've got great news for you: the openSUSE Conference Paper Committee has finalized the conference program! We've got inspiring keynotes, interesting talks, in-depth workshops and intensive parties all lined up! Read on to find out what we've got in store.<!-- more -->
 
 
 ## Tracks
@@ -37,7 +40,7 @@ After the conference is over, the recording of the sessions will be posted in ou
 
 Please note that if you're going to oSC you're expected to be OK with us making and sharing these recordings with our remote audience.
 
-({{ site.baseurl }}/assets/Sponsor_Party_Poster_07.jpg) Geeko Parties Coming!
+[caption id="attachment_16318" align="alignright" width="212"][![Awesome party poster](/wp-content/uploads/2013/07/Sponsor_Party_Poster_07.jpg)](/wp-content/uploads/2013/07/Sponsor_Party_Poster_07.jpg) Geeko Parties Coming![/caption]
 
 
 ## Keynotes
@@ -76,4 +79,4 @@ At this time, there are 50+ attendees expected at the keysigning event, so you s
 ## Be there!
 
 
-We'll also have a few social events, including of course the registration party on Thursday night. But for now, you can plan the sessions you'd like to attend by checking out the [program](https://conference.opensuse.org/#program)!		
+We'll also have a few social events, including of course the registration party on Thursday night. But for now, you can plan the sessions you'd like to attend by checking out the [program](https://conference.opensuse.org/#program)!

@@ -1,10 +1,12 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-09-15 11:36:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/15/osc2010-sneak-peaks-vincent-untz-explaining-gnome-3/
-title: "OSC2010 Sneak Peaks “ Vincent Untz: Explaining GNOME 3"
+slug: osc2010-sneak-peaks-vincent-untz-explaining-gnome-3
+title: 'OSC2010 Sneak Peaks â€“ Vincent Untz: Explaining GNOME 3'
+wordpress_id: 4426
 categories:
 - Events
 tags:
@@ -15,16 +17,15 @@ tags:
 - Sneak Peeks
 ---
 
-
 <blockquote>
 
 > 
-> ![]({{ site.baseurl }}/assets/sneakpeek-logo2.png)
+> ![](/wp-content/uploads/2010/09/sneakpeek-logo2.png)
 > 
 > 
 
 > 
-> The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more thanÂ seventy talks and workshops explore the theme  of ˜**Collaboration Across Borders**˜ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together ofÂ  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [Berufsförderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.
+> The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more thanÂ seventy talks and workshops explore the theme  of â€˜**Collaboration Across Borders**â€˜ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together ofÂ  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [BerufsfÃ¶rderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.
 > 
 > 
 Today we feature the talk ["Explaining GNOME 3"](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=15&sessionId=2&confId=0) from Vincent Untz.
@@ -33,7 +34,7 @@ Today we feature the talk ["Explaining GNOME 3"](http://conference.opensuse.org/
 </blockquote>
 
 
-[![]({{ site.baseurl }}/assets/Vuntz-hackergotchi.png)](http://en.opensuse.org/User:Vuntz)
+[![](/wp-content/uploads/2010/09/Vuntz-hackergotchi.png)](http://en.opensuse.org/User:Vuntz)
 **Hey Vincent, glad to have you on this series. Let's talk (about) the talk. First of all I would like you to introduce yourself to the, likely, small crowd of people who don't know you yet. Who are you and what do you do?**
 
 For the very few people who don't know me (I estimate there are only a few billions out there), I'm Vincent. The two important things to know about me are that I'm French and I love ice cream. And when I'm not eating ice cream, I also contribute to free software! I work on openSUSE and on GNOME, and apparently, I can also work on both at the same time, when I work on GNOME in openSUSE :-) Thanks to Novell, I can contribute on my work time since I'm a member of the openSUSE Boosters.
@@ -61,7 +62,7 @@ A third part that we feel is important is explaining  GNOME Shell: it's a big mo
 
 **If you say GNOME 3 won't be evolutionary, does this mean GNOME 3 will not be based on what currently is GNOME 2? After all evolution is about inheritance.**
 
-![]({{ site.baseurl }}/assets/evolution.png)Part of GNOME 3 is based on GNOME 2. Actually, a lot of work happened for GNOME 2.30 and 2.32 to migrate our applications to GNOME 3 technologies and most of those technologies are actually compatible with GNOME 2, which is why we've been able to do so. However, some other parts of GNOME 3, and the most visible one is GNOME Shell, are new components. So part of the change in GNOME 3 is evolutionary, while another part is such a big change that "evolutionary" might not be appropriate ;-)
+![](/wp-content/uploads/2010/09/evolution.png)Part of GNOME 3 is based on GNOME 2. Actually, a lot of work happened for GNOME 2.30 and 2.32 to migrate our applications to GNOME 3 technologies and most of those technologies are actually compatible with GNOME 2, which is why we've been able to do so. However, some other parts of GNOME 3, and the most visible one is GNOME Shell, are new components. So part of the change in GNOME 3 is evolutionary, while another part is such a big change that "evolutionary" might not be appropriate ;-)
 
 **Understood. So why do you do such big changes?**
 
@@ -83,7 +84,7 @@ Yes, but that's actually more than that: GNOME 3 is also working a bit different
 
 _ _
 
-____
+[caption id="attachment_4438" align="alignright" width="300" caption="Gnome Shell with Multiple Workspaces"]____[/caption]
 
 _(Laughs)_ The shell in a desktop environment is the part of the desktop that deals with some core functions: launching applications, switching between windows, shutting down the computer, etc. This is obviously a term that end-users shouldn't care much about. We've redesigned this part of the GNOME desktop for GNOME 3, and the  name of this project is GNOME Shell. That's why we often talk about it  :-)
 
@@ -91,7 +92,7 @@ _(Laughs)_ The shell in a desktop environment is the part of the desktop that de
 
 Kind of, yes.
 
-({{ site.baseurl }}/assets/Screenshot-gnome-shell-overview-multiple-workspaces-300x187.png)
+[caption id="attachment_4438" align="alignright" width="300" caption="Gnome Shell with Multiple Workspaces"]![](/wp-content/uploads/2010/09/Screenshot-gnome-shell-overview-multiple-workspaces.png)[/caption]
 
 **We see a lot of new approaches for this. Especially since the amount of form factors for devices exploded. Whats so special about GNOME Shell?**
 
@@ -135,13 +136,13 @@ We'll always have many distributions because people like to be able to build the
 
 
 
-**Okay one last, very important, question. Will you give Luboš a chance to get even for his epic loss at the ice cream eating contest during the boosters kick-off?Â At the conference party maybe? I bring the ice cream!**
+**Okay one last, very important, question. Will you give LuboÅ¡ a chance to get even for his epic loss at the ice cream eating contest during the boosters kick-off?Â At the conference party maybe? I bring the ice cream!**
 
 He'll surely have a chance to try. But no chance to win, I'm afraid :-) He's a good challenger, though. With more training...
 
 **Let's see if he can beat your famous _melting claw_ technique! And with that: thanks for your time Vincent, we're all looking forward to your talk's at the conference!**
 
-You're welcome. See you all in Nürnberg!
+You're welcome. See you all in NÃ¼rnberg!
 
 
 
@@ -149,4 +150,4 @@ You're welcome. See you all in Nürnberg!
 
 
   
-		
+

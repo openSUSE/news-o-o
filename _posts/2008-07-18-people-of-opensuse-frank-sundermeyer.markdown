@@ -1,29 +1,123 @@
 ---
 author: News Team
+comments: true
 date: 2008-07-18 14:05:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/18/people-of-opensuse-frank-sundermeyer/
-title: "People of openSUSE: Frank Sundermeyer"
+slug: people-of-opensuse-frank-sundermeyer
+title: 'People of openSUSE: Frank Sundermeyer'
+wordpress_id: 954
 categories:
 - People of openSUSE
 ---
+
 Former webservers administrator and presales consultant at S.u.S.E. he is currently working as a technical writer contributing to the openSUSE documentation and openSUSE web skin an wiki. Today you have the opportunity to meet Frank Sundermeyer!
 
 <!-- more -->
 
+<table border="0" >
+<tr >
 
-![]({{ site.baseurl }}/assets/frank_sundermeyer.jpg)
-|||
-|--- |--- |
-|||
-|**Nicknames:**|fs, FSundermeyer|
-|**Homepage:**|None.|
-|**Blog:**|None.|
-|||
-|**Favorite season:**|Definitely spring, when winter, the season I really hate, is finally gone.|
-|**Motto:**|I do not have a real motto. Being a good father for my kids is my main concern in life at the moment.|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](/wp-content/uploads/2008/07/frank_sundermeyer.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >fs, FSundermeyer
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >None.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >None.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Definitely spring, when winter, the season I really hate, is finally gone.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >I do not have a real motto. Being a good father for my kids is my main concern in life at the moment.
+</td>
+
+<td >
+</td>
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -309,7 +403,7 @@ Yes, but only once.
 #### Show us a picture of something, you have always wanted to share!
 
 
-![]({{ site.baseurl }}/assets/frank_sundermeyer_sharepic.jpg)
+![](/wp-content/uploads/2008/07/frank_sundermeyer_sharepic.jpg)
 
 
 
@@ -340,5 +434,3 @@ The next one...
 
 
 ...therefore it's intentionally left blank ;-) .
-
-		

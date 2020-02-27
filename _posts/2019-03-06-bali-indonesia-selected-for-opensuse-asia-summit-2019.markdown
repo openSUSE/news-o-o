@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2019-03-06 03:00:51+00:00
 layout: post
 link: https://news.opensuse.org/2019/03/06/bali-indonesia-selected-for-opensuse-asia-summit-2019/
-title: "Bali, Indonesia, Selected for openSUSE.Asia Summit 2019"
-image: /assets/bali.png
+slug: bali-indonesia-selected-for-opensuse-asia-summit-2019
+title: Bali, Indonesia, Selected for openSUSE.Asia Summit 2019
+wordpress_id: 21751
 categories:
 - Announcements
 - Conference
@@ -28,7 +30,8 @@ tags:
 - users
 - Yogyakarta
 ---
-For the second time, Indonesia was chosen to host the openSUSE.Asia Summit 2019 event. A similar event was held in Yogyakarta, Indonesia, in 2016 and was attended by hundreds of local [openSUSE](https://www.opensuse.org) lover as well as from other Asian countries. This year we are challenged to repeat the successful story of the openSUSE.Asia Summit on one of the most exotic islands in Indonesia, Bali.
+
+![](/wp-content/uploads/2019/03/bali.png)For the second time, Indonesia was chosen to host the openSUSE.Asia Summit 2019 event. A similar event was held in Yogyakarta, Indonesia, in 2016 and was attended by hundreds of local [openSUSE](https://www.opensuse.org) lover as well as from other Asian countries. This year we are challenged to repeat the successful story of the openSUSE.Asia Summit on one of the most exotic islands in Indonesia, Bali.
 
 openSUSE.Asia Summit is an event awaited by fans of openSUSE in Indonesia in particular, and activists of Free/Libre Open Source Software (FLOSS) in general. In this activity, experts, contributors, end users, and technology enthusiasts gather to share experiences about the development of openSUSE and other things related to FLOSS and have a lot of fun.
 
@@ -59,12 +62,12 @@ openSUSE.Asia Summit 2019 will immediately open a call for paper for prospective
 
 See you in Bali and have fun!
 
-![]({{ site.baseurl }}/assets/Draft-openSUSE.Asia-Summit-2019-Bali-Indonesia-is-Coming-300x225.png) Stepgun - Pantai Kuta, Bali (2) - CC BY-SA 4.0
+[caption id="attachment_21754" align="alignleft" width="300"]![](/wp-content/uploads/2019/03/Draft-openSUSE.Asia-Summit-2019-Bali-Indonesia-is-Coming.png) Stepgun - Pantai Kuta, Bali (2) - CC BY-SA 4.0[/caption]
 
-![]({{ site.baseurl }}/assets/bali-237196_960_720-300x169.jpg) Bali Beach Taravel Boats Vocation by keulefm
-
-
+[caption id="attachment_21753" align="alignleft" width="300"]![](/wp-content/uploads/2019/03/bali-237196_960_720.jpg) Bali Beach Taravel Boats Vocation by keulefm[/caption]
 
 
 
-		
+
+
+

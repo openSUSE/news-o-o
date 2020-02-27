@@ -1,13 +1,16 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-10-05 14:23:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/05/opensuse-board-election-committee-formed/
-title: "openSUSE Board Election Committee Formed"
+slug: opensuse-board-election-committee-formed
+title: openSUSE Board Election Committee Formed
+wordpress_id: 11260
 categories:
 - Board
 ---
+
 [![-> Vote Here Vote AquÃ­ ->](http://farm1.static.flickr.com/22/92847877_b32468ca5e.jpg)](http://www.flickr.com/photos/winmac/92847877/)
 
 The 2011 openSUSE Board term is soon coming to an end. In the last few project meetings as well as at the conference, the board has called for people to step up for the Election Committee. Five openSUSE contributors have offered their help and we'd like to introduce them to you.
@@ -50,4 +53,4 @@ The Election Committee will announce the nomination process and election period 
 We are sure this team will perform its duties to the best benefit of the openSUSE Project and we look forward to an exciting election term and seeing many openSUSE Community members stepping up as candidates in the upcoming election.
 
 Sincerely,
-_The openSUSE Board_		
+_The openSUSE Board_

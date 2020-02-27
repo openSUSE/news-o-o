@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-01-11 13:53:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/01/11/mesa-kernel-wireshark-update-in-tumbleweed-snapshots/
-title: "Mesa, Kernel, Wireshark update in Tumbleweed Snapshots"
+slug: mesa-kernel-wireshark-update-in-tumbleweed-snapshots
+title: Mesa, Kernel, Wireshark update in Tumbleweed Snapshots
+wordpress_id: 20269
 categories:
 - Tumbleweed
 tags:
@@ -16,7 +18,8 @@ tags:
 - python
 - wireshark
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)There were plenty of Tumbleweed snapshots leading up to the holiday season and openSUSE’s rolling release is gliding into 2017 with several new packages on the horizon. 
+
+![](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)There were plenty of Tumbleweed snapshots leading up to the holiday season and openSUSE’s rolling release is gliding into 2017 with several new packages on the horizon. 
 
 The last snapshot of 2016, [20161226](https://lists.opensuse.org/opensuse-factory/2016-12/msg00333.html), updated the Linux Kernel to 4.9, which was a good way to end the year. Several packages were updated in the snapshot including [Python3-setuptools](https://pypi.python.org/pypi/setuptools) to version 31.0.0, gnome-online-accounts 3.22.3, NetworkManager 1.4.4 and yast2-network 3.2.17.
 
@@ -30,4 +33,4 @@ The library offering an Application Programming Interface to access secure commu
 
 Also in the snapshot, [Wireshark](https://www.wireshark.org/docs/relnotes/wireshark-2.2.3.html) fixed User Interface bugs with an update to version 2.2.3, newbie-friendly text-editor [nano](https://www.nano-editor.org/news.php) updated to 2.7.3 and libvirt-python added new APIs and constants with the update to 2.5.0.
 
-The [20170109](https://lists.opensuse.org/opensuse-factory/2017-01/msg00122.html) snapshot provided a cleaned up configuration settings for [Mesa](http://www.mesa3d.org/), so it can be uniform across all architectures except for list of Direct Rendering Infrastructure and Gallium drivers. [Btrfsprogs 4.9](https://btrfs.wiki.kernel.org/index.php/Changelog) clean up was well and offers better handling of file system snapshots. [Python3-setuptools](https://pypi.python.org/pypi/setuptools) updated to 32.3.1, which is fixed regressions and compatibility  issues from previous versions.		
+The [20170109](https://lists.opensuse.org/opensuse-factory/2017-01/msg00122.html) snapshot provided a cleaned up configuration settings for [Mesa](http://www.mesa3d.org/), so it can be uniform across all architectures except for list of Direct Rendering Infrastructure and Gallium drivers. [Btrfsprogs 4.9](https://btrfs.wiki.kernel.org/index.php/Changelog) clean up was well and offers better handling of file system snapshots. [Python3-setuptools](https://pypi.python.org/pypi/setuptools) updated to 32.3.1, which is fixed regressions and compatibility  issues from previous versions.

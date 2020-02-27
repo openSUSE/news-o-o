@@ -1,14 +1,17 @@
 ---
-author: Christian Bruckmayer
+author: cbruckmayer
+comments: true
 date: 2017-03-23 08:35:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/03/23/google-summer-of-code-2017/
-title: "Google Summer of Code 2017"
+slug: google-summer-of-code-2017
+title: Google Summer of Code 2017
+wordpress_id: 20367
 categories:
 - Google Summer of Code
 - Mentoring
 ---
+
 We’re very happy to announce that openSUSE has been accepted as a mentoring organization for the Google Summer of Code (GSoC) 2017 edition!
 
 ![Google Summer of Code](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal-800.png)
@@ -23,4 +26,4 @@ Compared to YaST, [Jangouts](https://github.com/jangouts/jangouts) is still a ne
 
 The [application period](https://developers.google.com/open-source/gsoc/timeline) already started this Monday (March 20), and runs through April 4. Interested students should get in touch with the mentors and the community before starting to write an application proposal. Google will announce accepted students on May 4, and the official coding period will be from May 30 - August 29.
 
-If you're interested in participating in Google Summer of Code, please visit our [openSUSE 101 mentoring website](http://101.opensuse.org/gsoc/) for more information about projects and application.		
+If you're interested in participating in Google Summer of Code, please visit our [openSUSE 101 mentoring website](http://101.opensuse.org/gsoc/) for more information about projects and application.

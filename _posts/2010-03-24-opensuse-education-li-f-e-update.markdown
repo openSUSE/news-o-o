@@ -1,16 +1,19 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-03-24 08:57:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/03/24/opensuse-education-li-f-e-update/
-title: "openSUSE Education Li-f-e Update"
+slug: opensuse-education-li-f-e-update
+title: openSUSE Education Li-f-e Update
+wordpress_id: 3060
 categories:
 - Announcements
 - Edu Li-f-e
 tags:
 - Education
 ---
+
 The [openSUSE Education](http://en.opensuse.org/Education) team  is happy to announce the availability of the updated openSUSE Education  Li-f-e DVD iso. The [Linux for Education](http://linux-for-education.org/) (Li-f-e) contains a wide selection of education, development, office,  as well as multimedia packs to meet all possible computing needs of  students, teachers and parents.
 
 Some of the highlights of this update:
@@ -76,4 +79,4 @@ More information here: [http://en.opensuse.org/Education/Live](http://en.opensus
 
 Have a lot of fun
 
-Your openSUSE Education team		
+Your openSUSE Education team

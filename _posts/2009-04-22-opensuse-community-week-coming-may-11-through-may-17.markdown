@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-22 13:16:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/22/opensuse-community-week-coming-may-11-through-may-17/
-title: "openSUSE Community Week Coming May 11 through May 17"
+slug: opensuse-community-week-coming-may-11-through-may-17
+title: openSUSE Community Week Coming May 11 through May 17
+wordpress_id: 1558
 categories:
 - Events
 ---
+
 Want to contribute to the openSUSE Project, but not sure where to start? Join us for the openSUSE Community Week May 11 through 17th. Want to help lead the project and mentor new community contributors? Step up and join in!
 
 The idea behind Community Week is to show users in the openSUSE community how they can become contributors, and to help existing contributors become more effective.
@@ -42,4 +45,4 @@ See the [Community Week](http://en.opensuse.org/CommunityWeek) page for more inf
 
 Are we missing any topics? Feel free to take ownership of a topic and post it on the wiki. Topic owners are responsible for preparing presentations and materials that will be posted on the wiki for future reference, and leading sessions online.
 
-Most importantly, help us spread the news -- we're looking to reach as many new contributors as possible. You can find the counter on the [openSUSE site](http://counter.opensuse.org/communityweek/) and [instructions on using different sized banners on Pascal Bleser's site](http://dev-loki.blogspot.com/2009/04/opensuse-community-week-countdown.html).		
+Most importantly, help us spread the news -- we're looking to reach as many new contributors as possible. You can find the counter on the [openSUSE site](http://counter.opensuse.org/communityweek/) and [instructions on using different sized banners on Pascal Bleser's site](http://dev-loki.blogspot.com/2009/04/opensuse-community-week-countdown.html).

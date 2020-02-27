@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-11-13 14:56:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/11/13/development-release-opensuse-111-beta-5-now-available/
-title: "Development Release: openSUSE 11.1 Beta 5 Now Available"
+slug: development-release-opensuse-111-beta-5-now-available
+title: 'Development Release: openSUSE 11.1 Beta 5 Now Available'
+wordpress_id: 1090
 categories:
 - Announcements
 - Distribution
@@ -12,6 +14,7 @@ tags:
 - '11.1'
 - beta
 ---
+
 Greetings, openSUSE fans! We have another development release ready for your testing pleasure. openSUSE 11.1 beta 5 is now available for immediate download and testing.
 
 You may have noticed that we were scheduled to release RC 1 today. However, as Stephan Kulow mentioned on openSUSE-Factory list [on Tuesday](http://lists.opensuse.org/opensuse-factory/2008-11/msg00402.html), we have several blocker bugs and 11 P1 bugs still present. While we're ready to do another release today, we decided that it wasn't ready to be called a release candidate. This shouldn't push back the final release, but it will mean that we will only plan to have one release candidate.
@@ -103,4 +106,4 @@ Bug #[444519](https://bugzilla.novell.com/show_bug.cgi?id=444519): the i586 DVD 
 ### Future Release Announcements
 
 
-Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release. Now, before you read any further into this review, please know that due [how to spy on cellphone](https://topspying.com/) to privacy and safety implications that can arise, I highly recommend leaving your child's smartphone gps locator turned off as often as possible		
+Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release. Now, before you read any further into this review, please know that due  to privacy and safety implications that can arise, I highly recommend leaving your child's smartphone gps locator turned off as often as possible

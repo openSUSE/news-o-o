@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-12-05 10:27:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/12/05/opensuse-leap-42-2-gets-64-bit-raspberry-image/
-title: "openSUSE Leap 42.2 gets 64-bit Raspberry Image"
+slug: opensuse-leap-42-2-gets-64-bit-raspberry-image
+title: openSUSE Leap 42.2 gets 64-bit Raspberry Image
+wordpress_id: 20222
 categories:
 - Announcements
 - Distribution
@@ -20,11 +22,10 @@ tags:
 - SLE
 ---
 
-
 ### Release also includes support for ARMv7
 
 
-![img_1025]({{ site.baseurl }}/assets/IMG_1025-300x225.jpg)
+![img_1025](/wp-content/uploads/2016/12/IMG_1025.jpg)
 
 The latest release from openSUSE has new [images available](https://en.opensuse.org/HCL:Raspberry_Pi3) for the Raspberry Pi and joins SUSE Linux Enterprise Server for Raspberry Pi in becoming the initial distributions with 64-bit for the Raspberry Pi 3.
 
@@ -72,4 +73,4 @@ Previous versions of openSUSE had ARMv7, but openSUSE Leap 42.1 did not; that ch
 
 “ARMv7 in openSUSE Leap 42.2 is about creating more community engagement,” Graf said.
 
-Hackers interested in ARMv7 boards should check out [BeagleBoard](http://beagleboard.org/bone), [BeagleBone (Black)](https://beagleboard.org/black), and [96Boards](http://www.96boards.org/).		
+Hackers interested in ARMv7 boards should check out [BeagleBoard](http://beagleboard.org/bone), [BeagleBone (Black)](https://beagleboard.org/black), and [96Boards](http://www.96boards.org/).

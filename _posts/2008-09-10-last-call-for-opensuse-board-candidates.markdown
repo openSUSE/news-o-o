@@ -1,17 +1,20 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-10 18:38:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/10/last-call-for-opensuse-board-candidates/
-title: "Last Call for openSUSE Board Candidates"
+slug: last-call-for-opensuse-board-candidates
+title: Last Call for openSUSE Board Candidates
+wordpress_id: 1013
 categories:
 - Board
 tags:
 - board
 - Election
 ---
-The openSUSE Project is looking for a few good leaders, and voters! As already [announced by AJ](https://news.opensuse.org/2008/08/24/opensuse-election-committee-founded/), the board founded the election committee for the [first openSUSE board election](http://en.opensuse.org/Board_Election/2008). The committee is now seeking candidates and encouraging openSUSE contributors to sign up for membership.
+
+The openSUSE Project is looking for a few good leaders, and voters! As already [announced by AJ](//news.opensuse.org/2008/08/24/opensuse-election-committee-founded/), the board founded the election committee for the [first openSUSE board election](http://en.opensuse.org/Board_Election/2008). The committee is now seeking candidates and encouraging openSUSE contributors to sign up for membership.
 
 The election committee encourages all openSUSE contributors to [apply for an openSUSE membership](http://en.opensuse.org/Members#How_to_Become_a_Member) to gain voting rights, and to consider [running for a position in the board](http://en.opensuse.org/Board_Election/2008#Phase_0:_Notification_of_Intent_to_Run). Being a member of the first community elected board is an unique opportunity to help the openSUSE Project mature and grow. There are only two weeks left to get this done - application deadline ends September 24th, 12:00 UTC. Find the [full schedule](http://en.opensuse.org/Board_Election/2008#Timeline) and much more information on the [election wiki pages](http://en.opensuse.org/Board_Election/2008).
 
@@ -23,4 +26,4 @@ The new board members will be elected for either one or two years, starting firs
 
 openSUSE membership is granted to those who have made continued and substantial contributions to the openSUSE Project. Members are approved by the openSUSE Board, and membership must be submitted by September 24th for members to be eligible to vote in this election.
 
-If you have any questions, feel free to contact the [election committee](mailto:election-officials@opensuse.org). Welche vorteile [https://hausarbeit-agentur.com/facharbeit/](https://hausarbeit-agentur.com/facharbeit/) hat ein tagesplan in form einer strukturierten to-do-liste		
+If you have any questions, feel free to contact the [election committee](mailto:election-officials@opensuse.org). Welche vorteile [https://hausarbeit-agentur.com/facharbeit/](https://hausarbeit-agentur.com/facharbeit/) hat ein tagesplan in form einer strukturierten to-do-liste

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-06-23 15:42:00+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/06/23/opensuse-conference-day-2/
-title: "openSUSE Conference Day 2"
+slug: opensuse-conference-day-2
+title: openSUSE Conference Day 2
+wordpress_id: 19972
 categories:
 - Conference
 tags:
@@ -16,7 +18,8 @@ tags:
 - nextcloud
 - owncloud
 ---
-({{ site.baseurl }}/assets/frank-300x225.png) Frank Karlitschek, founder of Nextcloud and ownCloud, talks about a Global User Directory for Cloud and other services and applications.
+
+[caption id="attachment_19974" align="alignright" width="300"]![Frank Karlitschek, founder of Nextcloud and ownCloud, talks about a Global User Directory for Cloud and other services and applications.](/wp-content/uploads/2016/06/frank.png) Frank Karlitschek, founder of Nextcloud and ownCloud, talks about a Global User Directory for Cloud and other services and applications.[/caption]
 
 The second day of this year’s openSUSE Conference had two keynote speakers.
 
@@ -34,4 +37,4 @@ Harald Sitter just finished discussing KDE neon as a rolling workspace to aid in
 
 Those who are not able to make the openSUSE Conference can watch it live via stream at [https://events.opensuse.org/.](https://events.opensuse.org/)
 
-More videos will be posted on YouTube and [https://media.ccc.de/b/conferences/osc16](https://media.ccc.de/b/conferences/osc16).		
+More videos will be posted on YouTube and [https://media.ccc.de/b/conferences/osc16](https://media.ccc.de/b/conferences/osc16).

@@ -1,14 +1,15 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-08-06 16:23:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/06/reminder-weekly-news-team-meeting/
-title: "Reminder: Weekly News Team Meeting"
+slug: reminder-weekly-news-team-meeting
+title: 'Reminder: Weekly News Team Meeting'
+wordpress_id: 1961
 categories:
 - Weekly News
 ---
-
 
 We are pleased to invite you (Editors/Translators) to the Weekly-News Team Meeting.
 
@@ -39,5 +40,3 @@ Channel: #opensuse-newsletter @ irc.freenode.net
 
 
 ++++++++++++++++++++++++++++++++++++++
-
-		

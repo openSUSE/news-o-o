@@ -1,11 +1,14 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-02-04 08:45:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/02/04/opensuse-mailinglist-check-for-accidental-unsubscribtions/
-title: "openSUSE Mailinglist: Check for Accidental Unsubscribtions"
+slug: opensuse-mailinglist-check-for-accidental-unsubscribtions
+title: 'openSUSE Mailinglist: Check for Accidental Unsubscribtions'
+wordpress_id: 639
 ---
+
 Last week we had a small problem at lists.opensuse.org which unsubscribed a couple of mailing list members by accident. We're really sorry about this and hope that everybody subscribes again manually.
 
 Henne our mailadmin wrote the following email and tried to send it out to everybody that might be affected:
@@ -24,4 +27,4 @@ I noticed on the mailing lists that some people did not get Henne's text above a
 
 Thanks - and sorry again for this,
 
-Andreas		
+Andreas

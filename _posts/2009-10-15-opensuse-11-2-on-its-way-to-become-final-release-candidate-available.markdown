@@ -1,11 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-10-15 11:29:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/10/15/opensuse-11-2-on-its-way-to-become-final-release-candidate-available/
-title: "openSUSE 11.2 on its way to become final - Release candidate available!\
-  "
+slug: opensuse-11-2-on-its-way-to-become-final-release-candidate-available
+title: openSUSE 11.2 on its way to become final - Release candidate available!
+wordpress_id: 2347
 categories:
 - Announcements
 - Distribution
@@ -13,6 +14,7 @@ tags:
 - '11.2'
 - release candidate
 ---
+
 We're well on the way to openSUSE 11.2! Today we're happy to announce the first release candidate for openSUSE 11.2. This release includes quite a few bugfixes and several updates, including GNOME 2.28 final, Linux 2.6.31.3, and many others.
 
 As the first release candidate for openSUSE 11.2, it should be almost ready for final release. However, there still are a few remaining known issues and the purpose of the release candidate is to discover any major issues _before_ 11.2 final. It may not be suitable for production systems, but is ready for contributors who want to help with testing and development for 11.2.
@@ -108,4 +110,4 @@ dd if=image.iso of=/dev/sdX bs=4M
 
 Replace "image.iso" with the name of the ISO image that you have downloaded, and replace "sdX" with the actual device name of your USB drive. Be careful! This will erase the target device, so make sure you have the correct device name and have any vital data backed up!
 
-The next and final release candidate is scheduled to be released on October 29, 2009. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).		
+The next and final release candidate is scheduled to be released on October 29, 2009. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).

@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-08-09 18:50:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/09/announcing-opensuse-103-beta-1/
-title: "Announcing openSUSE 10.3 Beta 1"
+slug: announcing-opensuse-103-beta-1
+title: Announcing openSUSE 10.3 Beta 1
+wordpress_id: 106
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE team is proud to announce the first Beta release of openSUSE 10.3. There are many exciting enhancements and features in the new release. Among these are a whole new and greatly improved package management stack (libzypp), significantly faster boot time, parts of KDE 4, a 1-CD KDE Install and a 1-CD GNOME install, beautiful green artwork, a new One-Click Install technology that integrates with the openSUSE Build Service and much more
 
 
@@ -17,14 +20,14 @@ The openSUSE team is proud to announce the first Beta release of openSUSE 10.3. 
 
 
 
-[![CD Boot Screen]({{ site.baseurl }}/assets/103_cdboot_thumb.jpg)]({{ site.baseurl }}/assets/103_cdboot.png)  [![Default Background]({{ site.baseurl }}/assets/background_thumb.jpg)]({{ site.baseurl }}/assets/background.png) [![SUSE greeter]({{ site.baseurl }}/assets/susegreeter_thumb.jpg)]({{ site.baseurl }}/assets/susegreeter.png)
+[![CD Boot Screen](//news.opensuse.org/wp-content/uploads/2007/08/103_cdboot_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/103_cdboot.png)  [![Default Background](//news.opensuse.org/wp-content/uploads/2007/08/background_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/background.png) [![SUSE greeter](//news.opensuse.org/wp-content/uploads/2007/08/susegreeter_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/susegreeter.png)
 For some more screenshots head over to [Screenshots/openSUSE_10.3](http://en.opensuse.org/Screenshots/openSUSE_10.3) on the wiki.
 
 
 ### Desktop Advances
 
 
-**1-Click Install:** As we [recently announced](https://news.opensuse.org/?p=102), the openSUSE Build Service front-end got a complete makeover and now also utilizes the new _One-Click Install_ technology. This new feature allows you to install applications at the single click of a button. More announcements on the way this is used are to come.
+**1-Click Install:** As we [recently announced](//news.opensuse.org/?p=102), the openSUSE Build Service front-end got a complete makeover and now also utilizes the new _One-Click Install_ technology. This new feature allows you to install applications at the single click of a button. More announcements on the way this is used are to come.
 
 **KDE 4:** In the early stages of development we noted that openSUSE was to be among the early adopters of KDE 4.0, and we can start to see this coming through in openSUSE 10.3. The latest stable KDE 3.5.7 is included as the default KDE session, but this release also includes some KDE 4 applications (such as KDE games) in by default. All other parts of KDE 4 are directly available in the official online repositories, and of course the [KDE 4 repository](http://opensuse.org/KDE4) in the openSUSE Build Service will continue to regularly release snapshots.
 
@@ -164,4 +167,4 @@ Please report all bugs you find on in our Bugzilla as explained on [bugs.openSUS
 
 For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 2 on Thursday, August 23.	
+The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 2 on Thursday, August 23.

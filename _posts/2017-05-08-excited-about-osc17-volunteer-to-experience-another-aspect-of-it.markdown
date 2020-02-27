@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-05-08 11:12:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/05/08/excited-about-osc17-volunteer-to-experience-another-aspect-of-it/
-title: "Excited about oSC17? Volunteer to experience another aspect of it!\
-  "
+slug: excited-about-osc17-volunteer-to-experience-another-aspect-of-it
+title: Excited about oSC17? Volunteer to experience another aspect of it!
+wordpress_id: 20391
 categories:
 - Conference
 tags:
@@ -13,7 +14,8 @@ tags:
 - opensuse
 - volunteer
 ---
-![]({{ site.baseurl }}/assets/osc17final-300x214.png)oSC17 is just around the corner, and if you want to be part of making it awesome you can now sign up to become a volunteer!
+
+![](/wp-content/uploads/2017/05/osc17final.png)oSC17 is just around the corner, and if you want to be part of making it awesome you can now sign up to become a volunteer!
 
 Volunteers are invaluable to conferences, and they play a major role in creating a pleasant conference atmosphere for attendees.
 
@@ -74,4 +76,4 @@ Make sure to fill out the [volunteers form](http://goo.gl/Nq3HgQ), so that we kn
   * Prior to signing up as a volunteer, don’t forget to check the schedule for talks/workshops you are interested in: [https://events.opensuse.org/conference/oSC17/schedule](https://events.opensuse.org/conference/oSC17/schedule)
 
 
-See you soon at oSC17, 26-28 May 2017!		
+See you soon at oSC17, 26-28 May 2017!

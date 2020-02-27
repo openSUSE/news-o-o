@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-10-30 12:22:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/10/30/opensuse-leap-42-1-preview/
-title: "openSUSE Leap 42.1 Preview"
+slug: opensuse-leap-42-1-preview
+title: openSUSE Leap 42.1 Preview
+wordpress_id: 19556
 categories:
 - Leap
 ---
-[![Leap-green]({{ site.baseurl }}/assets/Leap-green-222x300.png)]({{ site.baseurl }}/assets/Leap-green.png)The wait is almost over to download openSUSE Leap 42.1. Next week users worldwide will be able to enjoy the power and stability of openSUSE’s newest release when it is unveiled at SUSECon in Amsterdam on Nov. 4. Until then, here is a preview of the features in Leap.
+
+[![Leap-green](/wp-content/uploads/2015/10/Leap-green.png)](/wp-content/uploads/2015/10/Leap-green.png)The wait is almost over to download openSUSE Leap 42.1. Next week users worldwide will be able to enjoy the power and stability of openSUSE’s newest release when it is unveiled at SUSECon in Amsterdam on Nov. 4. Until then, here is a preview of the features in Leap.
 
 KDE Plasma 5 (version 5.4.2) is the default desktop environment. Plasma 5 is mature enough for a wide audience and is feature rich. The 5.4 version of the workspace introduces a new audio volume applet, a full-screen dashboard menu, and many new icons.
 
@@ -18,4 +21,4 @@ As for openSUSE technologies, YaST has enhancements, features and modules. YaST�
 
 For those who install openSUSE Leap 42.1, when installing from the Live CD, no firewall will be active by default. Users must enable it with YaST or with: systemctl enable SuSEfirewall2 and systemctl start SuSEfirewall2
 
-		
+

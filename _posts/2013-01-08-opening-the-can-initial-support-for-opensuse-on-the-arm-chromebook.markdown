@@ -1,16 +1,16 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2013-01-08 20:33:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/01/08/opening-the-can-initial-support-for-opensuse-on-the-arm-chromebook/
-title: "Opening the Can: initial support for openSUSE on the ARM Chromebook\
-  "
+slug: opening-the-can-initial-support-for-opensuse-on-the-arm-chromebook
+title: 'Opening the Can: initial support for openSUSE on the ARM Chromebook'
+wordpress_id: 14777
 categories:
 - Announcements
 - Derivatives
 ---
-
 
 <blockquote>
 
@@ -24,12 +24,12 @@ Amazon's top selling laptop doesn't run Windows or Mac OS, it runs Linux
 > 
 by @
 
-[sjvn](https://twitter.com/sjvn)” sjvn (@sjvn) [January 8, 2013](https://twitter.com/sjvn/status/288729421416898560)</blockquote>
+[sjvn](https://twitter.com/sjvn)â€” sjvn (@sjvn) [January 8, 2013](https://twitter.com/sjvn/status/288729421416898560)</blockquote>
 
 
 
 According to ZDnet, ["Amazon's top selling laptop doesn't run Windows or Mac OS, it runs Linux"](http://www.zdnet.com/amazons-top-selling-laptop-doesnt-run-windows-or-mac-os-it-runs-linux-7000009433/). And that top selling device is the Samsung Series 3 Chromebook.Â Billed as an ideal second computer just aiming to make it simple to access online services, without the hassle and risk of running another full Windows machine. These devices drop all of the cruft that has accompanied regular laptops on their journey from the swamps, and have just enough local storage to boot a Linux kernel and a stripped down OS based around Google's Chrome browser, making them thin, light and affordable. And now, we've done something cool with it...<!-- more -->
-[![Samsung_Chromebook_backview_webres]({{ site.baseurl }}/assets/Samsung_Chromebook_backview_webres-300x234.jpg)]({{ site.baseurl }}/assets/Samsung_Chromebook_backview_webres.jpg)
+[![Samsung_Chromebook_backview_webres](//news.opensuse.org/wp-content/uploads/2013/01/Samsung_Chromebook_backview_webres.jpg)](//news.opensuse.org/wp-content/uploads/2013/01/Samsung_Chromebook_backview_webres.jpg)
 
 
 ## The Samsung Series 3 Chromebook...
@@ -111,4 +111,4 @@ Of course, we're working on these things. The plan is as follows:
 
 Currently, Chromebooks are available directly from Google's Play store, from Amazon and from other online retailers in the UK and the US.Â Retail availability is limited to a selection of Best Buy stores in the US.Â The ARM Chromebook costs USD$249 or GBP229 so it's cheap and the hardware is decent. In Germany, the [playstore shows it](https://play.google.com/store/devices/details?id=chromebook_samsung_wifi&hl=de) but it is not available yet - same in most other countries around the world. This will hopefully change soon...
 
-If you're lucky and have gotten your hands on a Series 3 Chromebook, visit this [Wiki page](https://en.opensuse.org/HCL:ARMChromebook) and get some Green for your Chrome!		
+If you're lucky and have gotten your hands on a Series 3 Chromebook, visit this [Wiki page](https://en.opensuse.org/HCL:ARMChromebook) and get some Green for your Chrome!

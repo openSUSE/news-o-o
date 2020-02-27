@@ -1,17 +1,20 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-28 20:07:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/28/opensuse-education-10-for-110-is-ready/
-title: "openSUSE-Education 1.0 for 11.0 is Ready"
+slug: opensuse-education-10-for-110-is-ready
+title: openSUSE-Education 1.0 for 11.0 is Ready
+wordpress_id: 1031
 categories:
 - Announcements
 - Edu Li-f-e
 tags:
 - Education
 ---
-The openSUSE-Education Add On for openSUSE 11.0 is ready! Big steps compared to the [10.3 release](https://news.opensuse.org/2008/06/18/announcing-opensuse-education-for-103/):
+
+The openSUSE-Education Add On for openSUSE 11.0 is ready! Big steps compared to the [10.3 release](//news.opensuse.org/2008/06/18/announcing-opensuse-education-for-103/):
 
 
 
@@ -42,4 +45,4 @@ Or [add the online repository](http://en.opensuse.org/Education/Repositories) as
 
 [http://www.opensuse-education.org/download/repo/1.0/11.0/](http://www.opensuse-education.org/download/repo/1.0/11.0/) (Note: Please re-add it if you've added it before - just delete the current repository via YaST and re-add it.)
 
-A [delta-iso against RC1](ftp://ftp.suse.com/pub/projects/education/openSUSE-Education-1.0-for-11.0-RC1_RC2.delta.iso) (240MB) is also available. The game is engaging, the clean, vector-style artwork is very impressive, and each mobble offers plenty [how to block teensafe](https://topspying.com/teensafe/) of color and cute animations		
+A [delta-iso against RC1](ftp://ftp.suse.com/pub/projects/education/openSUSE-Education-1.0-for-11.0-RC1_RC2.delta.iso) (240MB) is also available. The game is engaging, the clean, vector-style artwork is very impressive, and each mobble offers plenty  of color and cute animations

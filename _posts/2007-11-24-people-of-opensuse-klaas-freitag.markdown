@@ -1,28 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2007-11-24 16:41:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/24/people-of-opensuse-klaas-freitag/
-title: "People of openSUSE: Klaas Freitag"
+slug: people-of-opensuse-klaas-freitag
+title: 'People of openSUSE: Klaas Freitag'
+wordpress_id: 516
 categories:
 - People of openSUSE
 ---
+
 The 'People of openSUSE' team had the pleasure to interview Klaas Freitag - a Novell employee working as an architect in the department responsible for the Build Service, and an active KDE contributor being a [KDE e.V.](http://ev.kde.org/) board member.
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![]({{ site.baseurl }}/assets/klaas_freitag.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|Klaas, freitag, drago, dragotin|
-|**Homepage:**|not yet|
-|**Blog:**|not yet - still looking for a good "howto blog" ;)|
-|||
-|**Favorite season:**|Summer.|
-|**Motto:**|öhm...|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](//news.opensuse.org/wp-content/uploads/2007/11/klaas_freitag.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >Klaas, freitag, drago, dragotin
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >not yet
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >not yet - still looking for a good "howto blog" ;)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Summer.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Ã¶hm...
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -219,7 +310,7 @@ Being able to foresee the trends of tomorrow.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 No problem with that - I have lots of non internet related ideas and todos as well.
@@ -242,7 +333,7 @@ Buah. No real idea.
 #### Star Trek or Star Wars?
 
 
-VW Käfer.
+VW KÃ¤fer.
 
 
 
@@ -290,7 +381,7 @@ Active: Cycling, walking etc. Preferably far away from touristic centres.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Hmm, I prefer start thinking if that really happens...
@@ -300,7 +391,7 @@ Hmm, I prefer start thinking if that really happens...
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Medieval times (leo spelling ;) )
@@ -310,7 +401,7 @@ Medieval times (leo spelling ;) )
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No.
@@ -366,3 +457,5 @@ The Motto.
 What other open source communities are you part of?
 My answer: KDE
 
+
+Di kilang modern, pertamina [pay to do my homework](https://justdomyhomework.com/) solusi bahan bakar berkualitas dan ramah lingkungan sekitar alam ada tiga aplikasi utama dari proses thermal cracking visbreaking, unit minyak gas panas dan kokas

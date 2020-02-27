@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-07-26 09:43:59+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/07/26/tumbleweed-gets-python-setuptools-40-0-new-versions-of-frameworks-applications/
-title: "Tumbleweed Gets Python Setuptools 40.0, New Versions of Frameworks,\
-  \ Applications"
+slug: tumbleweed-gets-python-setuptools-40-0-new-versions-of-frameworks-applications
+title: Tumbleweed Gets Python Setuptools 40.0, New Versions of Frameworks, Applications
+wordpress_id: 20951
 categories:
 - Announcements
 - Tumbleweed
@@ -43,6 +44,7 @@ tags:
 - xorg
 - xwayland
 ---
+
 [![](https://www.opensuse.org/build/images/opensuse-laptop.gif)](https://www.opensuse.org/build/images/opensuse-laptop.gif)Several packages were updated in [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week and developers will notice the snapshots are reported to be extremely stable.
 
 [Wireshark](https://www.wireshark.org/), [sysdig](https://sysdig.com/), [GNOME](https://www.gnome.org/)’s evolution, [KDE](https://www.kde.org/)’s Frameworks and Applications, Ceph, vim and python-setuptools were just a few of the many packages that arrived in [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) this week.
@@ -57,4 +59,4 @@ Beginning the week, several project packages were updated in the snapshot [20180
 
 The [ceph](https://ceph.com/) update in the snapshot increased the memory constraint for build workers after builds started failing on workers with exactly 8G of RAM. The 3D graphic library [Mesa](https://www.mesa3d.org/) was updated to the latest 18.1.4 version. [GNOME](https://www.gnome.org/)’s personal information management application evolution updated links to [GNOME git](https://git.gnome.org/) repositories in flatpak files with version 3.28.4. Another [GNOME](https://www.gnome.org/) package that is framework focused on making media discovery and browsing easy for application developers, [grilo](https://wiki.gnome.org/Projects/Grilo) 0.3.5, updated translations. OpenPGP encryption and signing tool [gpg2](https://linux.die.net/man/1/gpg2) 2.2.9 fixed the recursive resolver mode and other bugs in the libdns code. Digital painting tool [Krita](https://krita.org/en/) 4.1.1 fixed the activation of the autosave and a possible crashes with vector objects. Many more packages were updated in the snapshot. A major version of [python-setuptools](https://setuptools.readthedocs.io) 40.0.0 was released in the snapshot; the new version dropped support for [Python](https://www.python.org/) 3.3 and Fix[ PEP 518](https://www.python.org/dev/peps/pep-0518/) configuration: set build requirements in pyproject.toml to ["wheel"].
 
-The [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/) rated snapshot 20180719 at stable with a 95 grade. Snapshot 20180721 is trending at a 97 while snapshot 20180722 is at 88 and snapshot 20180723 is trending at 93 with no current issues.		
+The [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/) rated snapshot 20180719 at stable with a 95 grade. Snapshot 20180721 is trending at a 97 while snapshot 20180722 is at 88 and snapshot 20180723 is trending at 93 with no current issues.

@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-07-15 07:44:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/15/command-line-tuesdays-part-five/
-title: "Command Line Tuesdays - Part Five"
+slug: command-line-tuesdays-part-five
+title: Command Line Tuesdays - Part Five
+wordpress_id: 18184
 categories:
 - Distribution
 ---
+
 Yes, you've guessed what time it is! It's time to rrrrrrrrummmbleeeee! And this time, we'll learn how to work with commands. So without further ado, let's get to business.
 
 <!-- more -->
@@ -36,11 +39,11 @@ Now, it's useful to know what type of command we're dealing with. And we can fin
 
 You can use** type + command** to inspect what kind of command is the command you'd like to use. You do it by simply typing: type _command _and you'll get an output. For example:
 
-[![type mkdir]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-15-091448.png)]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-15-091448.png)
+[![type mkdir](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-15-091448.png)](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-15-091448.png)
 
 or
 
-[![type ls]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-15-091640.png)]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-15-091640.png)
+[![type ls](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-15-091640.png)](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-15-091640.png)
 
 ...where we can see that the 'ls' command is actually an alias of '_ls'!
 
@@ -50,7 +53,7 @@ or
 
 Sometimes (but rarely on a desktop system, though) there are more versions of one executable installed on a machine. To find out the exact location of a given executable, we can use command which. Additionally, it only works with executable programs.
 
-[![which transmission-gtk]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-15-092052.png)]({{ site.baseurl }}/assets/Zaslonska-slika-2014-07-15-092052.png)
+[![which transmission-gtk](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-15-092052.png)](/wp-content/uploads/2014/07/Zaslonska-slika-2014-07-15-092052.png)
 
 Now, mostly every command has documentation that comes with it. So you're somewhere doing your CLI thing, no access to the internet so you can't bug geekos on the forums or IRC, and you need to find out how to exactly use a command.  You can do it two ways. First being...
 
@@ -80,5 +83,3 @@ And I'd also like to add a formal heads up: part six will not come next Tuesday,
 
 
 #### ...have a lot of fun!
-
-		

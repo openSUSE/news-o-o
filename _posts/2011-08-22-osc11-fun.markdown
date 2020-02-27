@@ -1,10 +1,12 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2011-08-22 17:56:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/22/osc11-fun/
-title: "Fun, fun, fun at OSC11"
+slug: osc11-fun
+title: Fun, fun, fun at OSC11
+wordpress_id: 10412
 categories:
 - Conference
 tags:
@@ -13,23 +15,24 @@ tags:
 - party
 - side event
 ---
+
 The Zentrifuge, our [conference location](http://conference.opensuse.org/location) this year, is build in an old factory that was used for the production of washing machines (centrifuge, get it?). The bridging between technology and art is an important concern for them and thus our conference, as a technology conference, tries to cross that bridge too. Of course we also follow our motto _**Have a lot of fun...** _in this endeavor and throw a little party into the mix as well. So here is our blend of social events at OSC11.
 
 
 ## <!-- more -->Future's Past with Winfried Appelt
 
 
-(https://news.opensuse.org/2011/08/22/osc11-fun/maschinen_appelt_1b/)
+[caption id="attachment_10414" align="alignleft" width="300" caption="(C) by Wilfried Appelt, used by permission"][![](/wp-content/uploads/2011/08/Maschinen_Appelt_1b.jpg)](http://news.opensuse.org/2011/08/22/osc11-fun/maschinen_appelt_1b/)[/caption]
 
 To lay the foundation for the bridge Wilfrid Appelt, a collector of old calculating machines will present on Sunday at 17:00 in the main hall some of these apparatuses of the past century that scientists, engineers and merchants used - and which prepared the ground for the electronic achievements of our time. He will show us that aesthetics and technology are not mutually exclusive.
 
-Wilfried, born 1945, studied physics and mathematics at the Technische Hochschule München. The fascination of a machine there, PERM (Programmierbare Elektronische Rechenanlage München) influenced his later wider interests. In 1972 he became high school teacher and involved with the introduction of computers at German schools. As collector, he cooperates with the International Forum for the Historical Office World (IFHBW) and is the founder of the "Zimmermuseum" in Hersbruck, housing part of his extensive private collection.
+Wilfried, born 1945, studied physics and mathematics at the Technische Hochschule MÃ¼nchen. The fascination of a machine there, PERM (Programmierbare Elektronische Rechenanlage MÃ¼nchen) influenced his later wider interests. In 1972 he became high school teacher and involved with the introduction of computers at German schools. As collector, he cooperates with the International Forum for the Historical Office World (IFHBW) and is the founder of the "Zimmermuseum" in Hersbruck, housing part of his extensive private collection.
 
 
 ## Speedy Geeko
 
 
-![Speedy Geeko 2011 Logo]({{ site.baseurl }}/assets/speedy-geeko.png)Immediately following Winfried on Sunday at 19:00, we'll be kicking off our first ever SpeedyGeeko. It's lightning talks with a twist. Here's how it works:
+![Speedy Geeko 2011 Logo](/wp-content/uploads/2011/08/speedy-geeko.png)Immediately following Winfried on Sunday at 19:00, we'll be kicking off our first ever SpeedyGeeko. It's lightning talks with a twist. Here's how it works:
 
 
 
@@ -52,7 +55,7 @@ You can already begin to see how crazy things will get as presenters try to keep
 ## The Geek - Saloon & Dance Hall (special guest: Shimmy Yaw)
 
 
-![The Geek - Saloon and Dance Hall]({{ site.baseurl }}/assets/saloon-150x150.png)On Monday 18:00 the Zentrifuge will transform into _**The Geek** - Saloon and Dance Hall_. You will find plenty of poker tables to ace each other out, one of the meanest bulls this side of the Colorado River to ride, ice cold "[_Old Toad_](http://en.opensuse.org/openSUSE:Beer)" and loads of Whiskey! The dance part will be handled by another group of artists we cooperate with at OSC11 - [Fat Orange](http://fatorange.de/). Fat Orange is a network of people in Nürnberg and it's neighboring town Fürth that spans from concert technicians over musicians to graphical designers that involve themselves in every aspect of creating music, be it live or recorded. Fat Orange will send their own **Shimmy Yaw** to entertain the crowd with his indietronik, singer/songwirter sounds.
+![The Geek - Saloon and Dance Hall](/wp-content/uploads/2011/08/saloon.png)On Monday 18:00 the Zentrifuge will transform into _**The Geek** - Saloon and Dance Hall_. You will find plenty of poker tables to ace each other out, one of the meanest bulls this side of the Colorado River to ride, ice cold "[_Old Toad_](http://en.opensuse.org/openSUSE:Beer)" and loads of Whiskey! The dance part will be handled by another group of artists we cooperate with at OSC11 - [Fat Orange](http://fatorange.de/). Fat Orange is a network of people in NÃ¼rnberg and it's neighboring town FÃ¼rth that spans from concert technicians over musicians to graphical designers that involve themselves in every aspect of creating music, be it live or recorded. Fat Orange will send their own **Shimmy Yaw** to entertain the crowd with his indietronik, singer/songwirter sounds.
 
 
   
@@ -63,7 +66,7 @@ You can already begin to see how crazy things will get as presenters try to keep
 ## 8 bit music with IRQ7
 
 
-![IRQ7 - Girls 'n' Gameboys]({{ site.baseurl }}/assets/irq7_-_girls_n_gameboys-150x150.jpg)Another Fat Orange artist will make guest performances on Tuesday, this time with a DIY (Do It Yourself) twist. Starting from 17:15 in the main hall the 8bit musician Hannes Fertala alias **IRQ7** will teach you how to do make awesome music only with your gameboy! All you have to bring is the time to listen and the will to learn, Hannes will bring the hardware and even let you walk away with the needed ROM/software afterward. Following the workshop IRQ7 will perform songs out of his newly released EP "_**[Girls 'n' Gameboys](http://irq7.blogspot.com/2011/08/irq7-girls-n-gameboys-ep.html)**_" live on stage. And who knows, maybe you join him and kick off your 8bit musician career then and there!
+![IRQ7 - Girls 'n' Gameboys](/wp-content/uploads/2011/08/irq7_-_girls_n_gameboys.jpg)Another Fat Orange artist will make guest performances on Tuesday, this time with a DIY (Do It Yourself) twist. Starting from 17:15 in the main hall the 8bit musician Hannes Fertala alias **IRQ7** will teach you how to do make awesome music only with your gameboy! All you have to bring is the time to listen and the will to learn, Hannes will bring the hardware and even let you walk away with the needed ROM/software afterward. Following the workshop IRQ7 will perform songs out of his newly released EP "_**[Girls 'n' Gameboys](http://irq7.blogspot.com/2011/08/irq7-girls-n-gameboys-ep.html)**_" live on stage. And who knows, maybe you join him and kick off your 8bit musician career then and there!
 
 
 ## Even more...
@@ -79,9 +82,7 @@ Henne, another Booster, will teach you in Slide-Kung-Fu every morning before the
 
 Continuing the long tradition of openSUSE conference talks that aren't always about technical things, Greg KH gives a talk on Wednesday about his recent efforts in [building a wooden kayak](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=11&confId=2) that hopefully should float.
 
-Of course there is tons of stuff happening in Nürnberg in general. On Saturday a spectacular [mountain bike freeride event](http://www.redbull.de/cs/Satellite/de_DE/Event/Red-Bull-District-Ride-021242958314861) and the heyday of the second largest [Volksfest](http://www.volksfest-nuernberg.de/) after the Oktoberfest in Bavaria.Sunday you can visit[ Germany™s largest collection of computer games](http://www.museen.nuernberg.de/industriekultur/) or how about you visit the [Old Toad brewery](http://www.klosterbrauerei-weissenohe.de/)?Or go see the [subterranean Nürnberg](http://www.felsengaenge-nuernberg.de en_index.htm), the new [Courtroom 600](http://www.memorium-nuremberg.de/) where the Nuremberg Trials happened, the [Zoo](http://tiergarten.nuernberg.de), the.......
+Of course there is tons of stuff happening in NÃ¼rnberg in general. On Saturday a spectacular [mountain bike freeride event](http://www.redbull.de/cs/Satellite/de_DE/Event/Red-Bull-District-Ride-021242958314861) and the heyday of the second largest [Volksfest](http://www.volksfest-nuernberg.de/) after the Oktoberfest in Bavaria.Sunday you can visit[ Germanyâ€™s largest collection of computer games](http://www.museen.nuernberg.de/industriekultur/) or how about you visit the [Old Toad brewery](http://www.klosterbrauerei-weissenohe.de/)?Or go see the [subterranean NÃ¼rnberg](http://www.felsengaenge-nuernberg.de en_index.htm), the new [Courtroom 600](http://www.memorium-nuremberg.de/) where the Nuremberg Trials happened, the [Zoo](http://tiergarten.nuernberg.de), the.......
 
 
 # Fun, fun, fun at OSC11. See you there! [And don't forget to register](http://conference.opensuse.org/register)!
-
-		

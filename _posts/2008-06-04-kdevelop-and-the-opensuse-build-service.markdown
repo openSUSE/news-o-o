@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-04 12:20:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/04/kdevelop-and-the-opensuse-build-service/
-title: "KDevelop and the openSUSE Build Service"
+slug: kdevelop-and-the-opensuse-build-service
+title: KDevelop and the openSUSE Build Service
+wordpress_id: 808
 categories:
 - Build Service
 tags:
@@ -13,6 +15,7 @@ tags:
 - OBS
 - open build service
 ---
+
 Building packages for multiple distros can be a major pain -- which is why we provide the [openSUSE Build Service](https://build.opensuse.org/). One of the Build Service's many features is the ability to create packages for many distros -- including openSUSE, SUSE Linux Enterprise, Debian, Fedora, CentOS, and Ubuntu. One of the projects making the most of the Build Service is KDevelop. We talked with [KDevelop](http://www.kdevelop.org/) developer Amilcar do Carmo Lucas about how the KDevelop project is using the build service.
 
 <!-- more -->What is KDevelop? KDevelop is a plugin-based Integrated Development Environment (IDE), that's been in development since 1998. It supports 12 programming languages, five build tools, 11 documentation formats, four revision control systems, five development toolkits, and dozens of other neat tools.
@@ -55,4 +58,4 @@ In the past packaging was done exclusively by the distros, and the developers on
 
 **openSUSE Weekly News:** Thanks for taking the time to talk to us!
 
-If you're using the openSUSE build service for your project's packages, drop us a line at info@opensuse.org. We'd love to hear about it.		
+If you're using the openSUSE build service for your project's packages, drop us a line at info@opensuse.org. We'd love to hear about it.

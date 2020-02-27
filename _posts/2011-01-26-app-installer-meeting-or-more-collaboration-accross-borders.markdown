@@ -1,18 +1,21 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2011-01-26 00:35:14+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/
-title: "App Installer Meeting or More Collaboration Across Borders"
+slug: app-installer-meeting-or-more-collaboration-accross-borders
+title: App Installer Meeting or More Collaboration Across Borders
+wordpress_id: 6391
 categories:
 - Events
 - Project
 ---
+
 Back in October, at the [openSUSE Conference](../2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/), several meetings and hallway discussions occurred on the topic of "Installation ofApplications" on openSUSE. As of today, we still have a very package-centric approach, while users usually do not think in terms of packages but in terms of applications: people want to use Firefox, LibreOffice or Frozen Bubble.
 
 
-[![Collaboration Accross Borders Team]({{ site.baseurl }}/assets/appstream_meeting-300x225.jpg)](https://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/appstream_meeting/)
+[![Collaboration Accross Borders Team](/wp-content/uploads/2011/01/appstream_meeting.jpg)](http://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/appstream_meeting/)
 
 
 We investigated the best way to approach this issue and come to a fast resolution. With several people from various distributions already working on some technologies that are related to this, we realized this could be a prime example of Collaboration Accross Borders. This lead Vincent Untz to contact several people from different distributions, to see if he could spark an interest in a cross-distribution meeting on this topic. It turned out that everyone replied enthusiastically! That's how the  [App Installer Meeting](http://distributions.freedesktop.org/wiki/Meetings/AppInstaller2011) saw the light.
@@ -30,4 +33,4 @@ The meeting turned out to be even more productive than originally planned, and a
 
 Many thanks to all the sponsors of this event: Novell for kindly hosting and sponsoring several attendees, Canonical and Red Hat for sending people, and Debian for sponsoring one person!
 
-_Article contributed by Vincent Untz_		
+_Article contributed by Vincent Untz_

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-02-22 12:44:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/02/22/tumbleweed-has-updates-for-frameworks-applications-plasma/
-title: "Tumbleweed Has Updates for Frameworks, Applications, Plasma"
+slug: tumbleweed-has-updates-for-frameworks-applications-plasma
+title: Tumbleweed Has Updates for Frameworks, Applications, Plasma
+wordpress_id: 20717
 categories:
 - Announcements
 - Distribution
@@ -47,9 +49,10 @@ tags:
 - tomcat
 - x11
 ---
+
 The were plenty of updated packages in [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) this week and [KDE](https://www.kde.org/) updates were made available for Frameworks, Applications and Plasma.
 
-![]({{ site.baseurl }}/assets/release-is-coming-black-260x300.png)While the most recent snapshot didn’t include an update of a [KDE](https://www.kde.org/) package, four out of the six snapshots this week did.
+![](/wp-content/uploads/2017/09/release-is-coming-black.png)While the most recent snapshot didn’t include an update of a [KDE](https://www.kde.org/) package, four out of the six snapshots this week did.
 
 Snapshot [20180220](https://lists.opensuse.org/opensuse-factory/2018-02/msg00917.html) brought a few lesser known packages. The C library for asynchronous DNS requests known as c-ares updated to version 1.14.0. The c-ares update provided a patch for Common Vulnerabilities and Exposures (CVE)-2017-1000381 to protect against a network attack. The image view [Eye of GNOME](https://en.wikipedia.org/wiki/Eye_of_GNOME) updated translations with the eog-plugins 3.26.2. The [Xfce](https://xfce.org/) library targeted at application development known as Exo now has version 0.12.0, which was released from upstream six day before being released in this [20180220](https://lists.opensuse.org/opensuse-factory/2018-02/msg00917.html) snapshot. The requirements were updated for exo 0.12.0 and they include GTK 2.24, GTK 3.22, GLib 2.42, libxfce4ui 4.12 and libxfce4util 4.12. Developers looking to generate random numbers will find the update of the [haveged 1.9.2](http://www.linuxfromscratch.org/blfs/view/svn/postlfs/haveged.html) package. The Haveged package contains a daemon that generates an unpredictable stream of random numbers and feeds the /dev/random device.
 
@@ -61,4 +64,4 @@ Snapshot [20180220](https://lists.opensuse.org/opensuse-factory/2018-02/msg00917
 
 [Ffmpeg](https://www.ffmpeg.org/) 3.4.2 fixed integer overflows, multiplication overflows, undefined shifts, and verify buffer lengths in snapshot [20180215](https://lists.opensuse.org/opensuse-factory/2018-02/msg00638.html). A fix for third-party repository handling in the sources dialog were made with gnome-software 3.26.6 . LibreOffice dropped the libreoffice-poppler-0.62.patch in the updated libreoffice 6.0.1.1 package and it’s recommended to execute everything with [python3](https://www.python.org/download/releases/3.0/). The flexible [SSL library](https://tls.mbed.org/ssl-library) [mbedtls 2.7.0](https://tls.mbed.org/tech-updates/releases/mbedtls-2.7.0-2.1.10-and-1.3.22-released) added support for alternative implementations of Galois Counter Mode (GCM), Elliptic Curve Digital Signature Algorithm (ECDSA), Counter with CBC-MAC (CCM) and Cipher-based Message Authentication Code (CMAC). The [openexr](http://www.openexr.com/) 2.2.1 package used for the high dynamic-range (HDR) image format, which is used in motion pictures production, fixed several security vulnerabilities and the speech package for machines, [speech-dispatcher](https://devel.freebsoft.org/speechd) 0.8.8, improved the code and add German translation to the package.
 
-Beginning the week was the release of [KDE Applications 17.12.2](https://www.kde.org/announcements/announce-applications-17.12.2.php) in snapshot [20180214](https://lists.opensuse.org/opensuse-factory/2018-02/msg00564.html). The release had about 20 bug fixes and improvements for [Kontact,](https://www.kde.org/applications/office/kontact/) [Dolphin](https://www.kde.org/applications/system/dolphin/), [Gwenview](https://www.kde.org/applications/graphics/gwenview/), [KGet](https://www.kde.org/applications/internet/kget/) and more. NetworkManager 1.10.4 load jansson at runtime, which solves a clash with [json-glib ](https://developer.gnome.org/json-glib/stable/)that caused a gnome-control-center crash, but also gets rid of a hard dependency. Browser package epiphany 3.26.6 fixed profile migrator that had delete bookmarks when run multiple times. [Firewalld](http://www.firewalld.org/) 0.5.1 fixed compatibility issues with python3. [Linux Kernel](https://www.kernel.org/) 4.15.3 and Samba 4.7.5 were  also in the snapshot.		
+Beginning the week was the release of [KDE Applications 17.12.2](https://www.kde.org/announcements/announce-applications-17.12.2.php) in snapshot [20180214](https://lists.opensuse.org/opensuse-factory/2018-02/msg00564.html). The release had about 20 bug fixes and improvements for [Kontact,](https://www.kde.org/applications/office/kontact/) [Dolphin](https://www.kde.org/applications/system/dolphin/), [Gwenview](https://www.kde.org/applications/graphics/gwenview/), [KGet](https://www.kde.org/applications/internet/kget/) and more. NetworkManager 1.10.4 load jansson at runtime, which solves a clash with [json-glib ](https://developer.gnome.org/json-glib/stable/)that caused a gnome-control-center crash, but also gets rid of a hard dependency. Browser package epiphany 3.26.6 fixed profile migrator that had delete bookmarks when run multiple times. [Firewalld](http://www.firewalld.org/) 0.5.1 fixed compatibility issues with python3. [Linux Kernel](https://www.kernel.org/) 4.15.3 and Samba 4.7.5 were  also in the snapshot.

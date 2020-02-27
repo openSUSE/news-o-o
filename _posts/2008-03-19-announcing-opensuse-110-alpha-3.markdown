@@ -1,19 +1,22 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-19 22:35:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/19/announcing-opensuse-110-alpha-3/
-title: "Announcing openSUSE 11.0 Alpha 3"
+slug: announcing-opensuse-110-alpha-3
+title: Announcing openSUSE 11.0 Alpha 3
+wordpress_id: 696
 categories:
 - Announcements
 - Distribution
 ---
+
 After four regular weeks and one hack week after Alpha 2, we are very happy to announce openSUSE 11.0 Alpha 3. 
 
 
 
-[![yast-2_thumb.png]({{ site.baseurl }}/assets/yast-2_thumb.png)](http://files.opensuse.org/opensuse/en/1/19/A3-yast-2.png) [![KDE4 Desktop]({{ site.baseurl }}/assets/a3-kde.png)](http://files.opensuse.org/opensuse/en/e/e0/A3-kde4.png) [![GNOME]({{ site.baseurl }}/assets/a3-gnome-2_thumb.jpg)](http://files.opensuse.org/opensuse/en/9/94/A3-gnome-2.jpg)
+[![yast-2_thumb.png](/wp-content/uploads/2008/03/yast-2_thumb.png)](http://files.opensuse.org/opensuse/en/1/19/A3-yast-2.png) [![KDE4 Desktop](/wp-content/uploads/2008/03/a3-kde.png)](http://files.opensuse.org/opensuse/en/e/e0/A3-kde4.png) [![GNOME](/wp-content/uploads/2008/03/a3-gnome-2_thumb.jpg)](http://files.opensuse.org/opensuse/en/9/94/A3-gnome-2.jpg)
   
 See more screenshots on the [Screenshots/openSUSE_11.0_Alpha3](http://en.opensuse.org/Screenshots/openSUSE_11.0_Alpha3) wiki page
 
@@ -134,4 +137,4 @@ We created the same media as with Alpha 2. They can all be downloaded at [**soft
 
 
 
-The next development release will be openSUSE 11.0 Beta 1 on April 17th ([Roadmap](http://en.opensuse.org/Roadmap)).		
+The next development release will be openSUSE 11.0 Beta 1 on April 17th ([Roadmap](http://en.opensuse.org/Roadmap)).

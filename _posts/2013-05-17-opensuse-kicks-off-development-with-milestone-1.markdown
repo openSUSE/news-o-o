@@ -1,10 +1,12 @@
 ---
-author: Andres Betts
+author: anditosan
+comments: true
 date: 2013-05-17 09:00:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/05/17/opensuse-kicks-off-development-with-milestone-1/
-title: "openSUSE Kicks Off Development with Milestone 1"
+slug: opensuse-kicks-off-development-with-milestone-1
+title: openSUSE Kicks Off Development with Milestone 1
+wordpress_id: 16026
 categories:
 - Announcements
 - Distribution
@@ -16,7 +18,8 @@ tags:
 - packaging
 - release
 ---
-[![13.1-Milestone1]({{ site.baseurl }}/assets/13.1-Milestone1-300x180.png)]({{ site.baseurl }}/assets/13.1-Milestone1.png)
+
+[![13.1-Milestone1](//news.opensuse.org/wp-content/uploads/2013/05/13.1-Milestone1.png)](//news.opensuse.org/wp-content/uploads/2013/05/13.1-Milestone1.png)
 openSUSE is pleased to announce that the newest Milestone for the upcoming version of openSUSE 13.1. is available for testing. As early version, it is expected that this Milestone is not fully functional or very stable and we welcome bug reports and fixes for the issues. This is the first in a series of upcoming updates to the distribution that will end with the final release of 13.1 projected by November of 2013.Â As usual with an alpha release, the most prominent changes in openSUSE 13.1 Milestone 1 come from the upgrades that packages are going through.
 
 
@@ -103,4 +106,4 @@ However, the work on openSUSE is not only belonging or limited to packaging. The
 ## Schedule
 
 
-Master Coolo [published a simple road map](http://lists.opensuse.org/opensuse-factory/2013-05/msg00204.html). The next milestone is expected for 6 of June, 2013. the next milestones come with about a month in between, Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.		
+Master Coolo [published a simple road map](http://lists.opensuse.org/opensuse-factory/2013-05/msg00204.html). The next milestone is expected for 6 of June, 2013. the next milestones come with about a month in between, Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.

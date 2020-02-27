@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2007-10-22 09:25:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/22/compiz-fusion-060-out-with-opensuse-packages/
-title: "Compiz Fusion 0.6.0 Out With openSUSE Packages"
+slug: compiz-fusion-060-out-with-opensuse-packages
+title: Compiz Fusion 0.6.0 Out With openSUSE Packages
+wordpress_id: 458
 ---
 
-
-[![CF Logo]({{ site.baseurl }}/assets/cflogo.png)](http://compiz-fusion.org)
+[![CF Logo](//news.opensuse.org/wp-content/uploads/2007/10/cflogo.png)](http://compiz-fusion.org)
 
 
 
@@ -25,11 +26,11 @@ The [Compiz Fusion](http://compiz-fusion.org) team [announced](http://lists.comp
 
 
 
-Compiz Fusion, as of openSUSE 10.3, [is included](https://news.opensuse.org/?p=167) in the official OSS repository. The Compiz Fusion project is "the result of a merge between the Compiz community plugin set "Compiz Extras" and the parts of the Beryl project that are independent of the window manager core.  The two communities have re-united to create a user experience for Linux that rivals anything available on other platforms."
+Compiz Fusion, as of openSUSE 10.3, [is included](//news.opensuse.org/?p=167) in the official OSS repository. The Compiz Fusion project is "the result of a merge between the Compiz community plugin set "Compiz Extras" and the parts of the Beryl project that are independent of the window manager core.  The two communities have re-united to create a user experience for Linux that rivals anything available on other platforms."
 
 
 
-[![Compiz Fusion on a Dual Display in openSUSE 10.3]({{ site.baseurl }}/assets/fusion_thumb.jpg)]({{ site.baseurl }}/assets/fusion.png)
+[![Compiz Fusion on a Dual Display in openSUSE 10.3](//news.opensuse.org/wp-content/uploads/2007/10/fusion_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/10/fusion.png)
 
 
 
@@ -59,7 +60,7 @@ For easy-access to Compiz and decoration settings, a new _fusion-icon_ is includ
 
 
 
-![Compiz Fusion Systray Icon]({{ site.baseurl }}/assets/fusion-icon1.png)
+![Compiz Fusion Systray Icon](//news.opensuse.org/wp-content/uploads/2007/10/fusion-icon1.png)
 
 
 
@@ -69,11 +70,11 @@ For easy-access to Compiz and decoration settings, a new _fusion-icon_ is includ
 
 
 
-On openSUSE 10.3, you can use [1-click-install](https://news.opensuse.org/?p=133) for installation of Compiz Fusion packages, simply click on the relevant link below:
+On openSUSE 10.3, you can use [1-click-install](//news.opensuse.org/?p=133) for installation of Compiz Fusion packages, simply click on the relevant link below:
 
-[![fusion-kde-1click.png]({{ site.baseurl }}/assets/fusion-kde-1click.png)](http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-kde.ymp)
+[![fusion-kde-1click.png](//news.opensuse.org/wp-content/uploads/2007/10/fusion-kde-1click.png)](http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-kde.ymp)
 
-[![fusion-gnome-1click.png]({{ site.baseurl }}/assets/fusion-gnome-1click.png)](http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-gnome.ymp)
+[![fusion-gnome-1click.png](//news.opensuse.org/wp-content/uploads/2007/10/fusion-gnome-1click.png)](http://download.opensuse.org/repositories/X11:/XGL/openSUSE_10.3/compiz-fusion-gnome.ymp)
 
 ...which will install -- in addition to all the standard Compiz Fusion packages -- a KDE window decorator and a GTK window decorator respectively. The Emerald decorator is also included in both selections. For additional information check the [Compiz Fusion](http://opensuse.org/Compiz_Fusion) wiki page, and optionally the [AIGLX](http://opensuse.org/AIGLX) wiki page as well.
 
@@ -100,3 +101,4 @@ Need any help getting things running? Just [Communicate](http://opensuse.org/Com
 	
   * For other ways such as Jabber and Usenet, see the [Communicate](http://opensuse.org/Communicate) page.
 
+Was sind konkret deinen aufgaben als [https://hausarbeit-agentur.com/wissenschaftliche-arbeit/](https://hausarbeit-agentur.com/wissenschaftliche-arbeit/) tutor

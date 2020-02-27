@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-26 18:31:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/26/linuxtag-t-2/
-title: "Linuxtag ... T-2"
+slug: linuxtag-t-2
+title: Linuxtag ... T-2
+wordpress_id: 785
 categories:
 - Events
 ---
+
 Well, for me and some other openSUSE guys it's T-1, we going tomorrow to set up the booth. 
 ![packed car](http://farm4.static.flickr.com/3136/2524184033_3c740e13f5_m.jpg) 
 (actually the picture is from last year .. :-)). So why should you come to Berlin?
@@ -34,5 +37,3 @@ Well, for me and some other openSUSE guys it's T-1, we going tomorrow to set up 
 
 
 If you have no chance to go to Berlin, don't worry. We will record all Talks, i will try to have streaming video from the booth, and you will find all Talks later on our wiki. But yes, you would miss the live feeling of [Linuxtag](http://www.linuxtag.org/2008/) ...
-
-		

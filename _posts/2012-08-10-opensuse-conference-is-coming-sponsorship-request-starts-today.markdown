@@ -1,15 +1,17 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2012-08-10 14:12:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/08/10/opensuse-conference-is-coming-sponsorship-request-starts-today/
-title: "openSUSE Conference is coming... Sponsorship request starts today!\
-  "
+slug: opensuse-conference-is-coming-sponsorship-request-starts-today
+title: openSUSE Conference is coming... Sponsorship request starts today!
+wordpress_id: 13785
 categories:
 - Announcements
 - Conference
 ---
+
 **The openSUSE Travel Support Team is happy to announce that they are ready to process applications to sponsor openSUSE people to attend openSUSE Conference. The Conference will be held in Prague, Czech Republic - October 20-23, 2012.**
 
 The Travel Committee can reimburses up to 80% of travel costs and lodging costs such as plane ticket, train ticket, bus ticket, hotel and hostel. Expenses with Visa, documentation, food, extras are up to the requester, The Travel Team won't be able to cover since is looking for sponsor as many people as possible.
@@ -22,7 +24,7 @@ Please read carefully and send the request to travel-support(at)opensuse(dot)org
 
 Some additional comments:
 
-[![]({{ site.baseurl }}/assets/opensusebackpack1-300x300.png)](https://news.opensuse.org/2012/08/10/opensuse-conference-is-coming-sponsorship-request-starts-today/opensusebackpack-2/)
+[![](/wp-content/uploads/2012/08/opensusebackpack1.png)](http://news.opensuse.org/2012/08/10/opensuse-conference-is-coming-sponsorship-request-starts-today/opensusebackpack-2/)
 
 * A clear and complete application is faster and easier to process.
 
@@ -44,4 +46,4 @@ Some additional comments:
 
 The Travel Team sends a reply upon receiving your application. We will then wait for all applicants to send in their requests for the event and only once we have a full overview, responses will be given. Please do not send personal emails, always CC the travel-support team in your replies.
 
-_Hope to see you in Prague!_		
+_Hope to see you in Prague!_

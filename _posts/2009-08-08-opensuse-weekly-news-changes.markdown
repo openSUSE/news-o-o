@@ -1,13 +1,16 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-08-08 23:14:42+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/08/opensuse-weekly-news-changes/
-title: "OpenSUSE Weekly News: Changes"
+slug: opensuse-weekly-news-changes
+title: 'OpenSUSE Weekly News: Changes'
+wordpress_id: 1979
 categories:
 - Weekly News
 ---
+
 Hello Readers. The Weekly News editorial Team is pleased to announce, that we have made some changes.
 
 * We publish the Weekly News each Saturday after proofreading.
@@ -17,6 +20,6 @@ Hello Readers. The Weekly News editorial Team is pleased to announce, that we ha
 
 For all readers it means that we publish the Weekly News if its ready. And we plan to make it more colorful, so if you have proposals, ideas or interesting blogs, feel free to post to us. Our email adresses are saigkill@opensuse.org and dl9pf@opensuse.org.
 
-We hope our readers enjoy the improved Weekly News. Special thanks goes to Satoru Matsamoto, Sebastian Schöbinger andÂ  Carl Fletcher who helps us with the English language Newsletter.
+We hope our readers enjoy the improved Weekly News. Special thanks goes to Satoru Matsamoto, Sebastian SchÃ¶binger andÂ  Carl Fletcher who helps us with the English language Newsletter.
 
-Thanks your Editorial Team.		
+Thanks your Editorial Team.

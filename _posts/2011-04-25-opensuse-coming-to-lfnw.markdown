@@ -1,10 +1,12 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-04-25 00:00:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/
-title: "openSUSE Coming to LFNW"
+slug: opensuse-coming-to-lfnw
+title: openSUSE Coming to LFNW
+wordpress_id: 8605
 categories:
 - Events
 tags:
@@ -12,7 +14,8 @@ tags:
 - lfnw
 - presentations
 ---
-[![LinuxFest Northwest Totem logo]({{ site.baseurl }}/assets/totem350-205x300.png)](https://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/totem350-2/)Following in the growing list of appearances we're making worldwide, openSUSE will land in Bellingham, Washington for the LinuxFest Northwest conference ( [LFNW](http://lfnw.org) ) on Saturday, April 30 and Sunday, May 1 at the [Bellingham Technical College](http://www.linuxfestnorthwest.org/information/venue).  We're excited to be joining in the festivities there, along with an exxpected attendance of over 1,000 visitors, running a booth and 3 presentations,Â doing our best to help make the event interesting and successful for everyone.<!-- more -->
+
+[![LinuxFest Northwest Totem logo](/wp-content/uploads/2011/04/totem350.png)](http://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/totem350-2/)Following in the growing list of appearances we're making worldwide, openSUSE will land in Bellingham, Washington for the LinuxFest Northwest conference ( [LFNW](http://lfnw.org) ) on Saturday, April 30 and Sunday, May 1 at the [Bellingham Technical College](http://www.linuxfestnorthwest.org/information/venue).  We're excited to be joining in the festivities there, along with an exxpected attendance of over 1,000 visitors, running a booth and 3 presentations,Â doing our best to help make the event interesting and successful for everyone.<!-- more -->
 
 Doing what we do best, you'll find the same great booth you've come to expect at other events.  There, you'll be able to pick up a DVD of [openSUSE 11.4](http://software.opensuse.org/114/en), just released last month amid great reviews.  You'll also be able to show your support for openSUSE and LFNW at the same time by buying an openSUSE [T-shirt](http://en.opensuse.org/File:Black_t-shirt.jpg) for just $5.  Every dollar we make will go directly to supporting the great work of the LFNW crew.  These FOSS events are very important to the community and openSUSE wants to do its part to promote that.
 
@@ -60,9 +63,7 @@ Even if you can't make it to LFNW, you can still join in the festivities.Â  So
 
 If you're in the area and would like to join us in the booth or to just stop by to get to know us, drop us a line. Spearheaded by James Mason, you can already see he's got some impressive stuff lined up for us at LFNW.  We're looking forward to seeing many openSUSE users in the area and getting to know you all.
 
-[![openSUSE @ LFNW Poster (2:3) preview]({{ site.baseurl }}/assets/lfnw-opensuse-poster-12x18-preview-200x300.png)](https://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/lfnw-opensuse-poster-12x18-preview/)
+[![openSUSE @ LFNW Poster (2:3) preview](/wp-content/uploads/2011/04/lfnw-opensuse-poster-12x18-preview.png)](http://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/lfnw-opensuse-poster-12x18-preview/)
 
 
 Visit [http://en.opensuse.org/LFNW](http://en.opensuse.org/LFNW) for more info!
-
-		

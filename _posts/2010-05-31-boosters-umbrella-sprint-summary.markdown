@@ -1,16 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2010-05-31 13:46:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/05/31/boosters-umbrella-sprint-summary/
-title: "Boosters: Umbrella Sprint Summary"
+slug: boosters-umbrella-sprint-summary
+title: 'Boosters: Umbrella Sprint Summary'
+wordpress_id: 3361
 categories:
 - Infrastructure
 tags:
 - boosters
 ---
-![]({{ site.baseurl }}/assets/umbrella-150x150.png)
+
+![](/wp-content/uploads/2010/05/umbrella.png)
 
 
 For the last few months some of the Boosters were working on "Umbrella" infrastructure concept for openSUSE. Various web tools grew over time and unfortunately they became almost independant and disconnected from each other. We decided to improve the situation by making openSUSE websites more integrated and easier accesible in order to help people to find the stuff they are looking for.
@@ -38,7 +41,7 @@ One of the things that also witnessed the design change was [software.opensuse.o
 
 
 
-Coolo and Tom continued their [Build Service](http://build.opensuse.org/) efforts from their previous "Factory Page" sprint, which lead to massive web user interface overhaul. You can read about it in the previous separate [post by Andreas](https://news.opensuse.org/2010/05/25/obs-2-0b1/).
+Coolo and Tom continued their [Build Service](http://build.opensuse.org/) efforts from their previous "Factory Page" sprint, which lead to massive web user interface overhaul. You can read about it in the previous separate [post by Andreas](http://news.opensuse.org/2010/05/25/obs-2-0b1/).
 
 
 
@@ -48,12 +51,12 @@ Here are the screenshots of described applications, but remember that it is bett
 
 
 
-[![]({{ site.baseurl }}/assets/umbrella-wiki-300x249.png)](http://wiki.opensuse.org/) [![]({{ site.baseurl }}/assets/umbrella-planet-300x249.png)](http://planet.opensuse.org/)
+[![](/wp-content/uploads/2010/05/umbrella-wiki.png)](http://wiki.opensuse.org/) [![](/wp-content/uploads/2010/05/umbrella-planet.png)](http://planet.opensuse.org/)
 
 
 
 
-[![]({{ site.baseurl }}/assets/umbrella-software-300x249.png)](http://software.opensuse.org/) [![]({{ site.baseurl }}/assets/umbrella-buildservice-300x249.png)](http://build.opensuse.org/)
+[![](/wp-content/uploads/2010/05/umbrella-software.png)](http://software.opensuse.org/) [![](/wp-content/uploads/2010/05/umbrella-buildservice.png)](http://build.opensuse.org/)
 
 
 
@@ -64,5 +67,3 @@ What was left out of the sprint were the Wordpress theme and vBulletin forums th
 
 
 This concludes our long but important "Umbrella" sprint and Boosters are already looking forward to other exciting challenges.
-
-		

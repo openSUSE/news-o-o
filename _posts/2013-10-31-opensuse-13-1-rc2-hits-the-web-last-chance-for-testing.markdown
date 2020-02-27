@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-31 11:48:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/31/opensuse-13-1-rc2-hits-the-web-last-chance-for-testing/
-title: "openSUSE 13.1 RC2 Hits the Web, Last Chance for Testing"
+slug: opensuse-13-1-rc2-hits-the-web-last-chance-for-testing
+title: openSUSE 13.1 RC2 Hits the Web, Last Chance for Testing
+wordpress_id: 16786
 categories:
 - Announcements
 - Distribution
 ---
-[![RC2 is coming]({{ site.baseurl }}/assets/RC2-is-coming-300x241.jpg)]({{ site.baseurl }}/assets/RC2-is-coming.jpg)
+
+[![RC2 is coming](//news.opensuse.org/wp-content/uploads/2013/10/RC2-is-coming.jpg)](//news.opensuse.org/wp-content/uploads/2013/10/RC2-is-coming.jpg)
 The [openSUSE 13.1](http://en.opensuse.org/Portal:13.1) release is getting very close - just a little over two weeks, according to the [Roadmap](https://en.opensuse.org/openSUSE:Roadmap). Today, Release Candidate 2 is available on [software.opensuse.org](http://software.opensuse.org/developer). Grab one of the images and help us test!
 
 
@@ -64,7 +67,7 @@ The changes in this update are not very big or ground shaking. This is a sign of
 
 
 And again, this is a partial list: there are bugfixes for many issues reported by testers included.
-[![Testing-Group-Logo]({{ site.baseurl }}/assets/Testing-Group-Logo-300x275.png)]({{ site.baseurl }}/assets/Testing-Group-Logo.png)
+[![Testing-Group-Logo](//news.opensuse.org/wp-content/uploads/2011/07/Testing-Group-Logo.png)](//news.opensuse.org/wp-content/uploads/2011/07/Testing-Group-Logo.png)
 
 
 ## Testing
@@ -90,5 +93,3 @@ A list of the most annoying bugs [can be found here.](https://en.opensuse.org/op
 
 
 ## Have a lot of fun!
-
-		

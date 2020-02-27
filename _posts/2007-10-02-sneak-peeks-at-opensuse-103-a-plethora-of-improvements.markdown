@@ -1,15 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-10-02 08:10:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/
-title: "Sneak Peeks at openSUSE 10.3: A Plethora of Improvements"
+slug: sneak-peeks-at-opensuse-103-a-plethora-of-improvements
+title: 'Sneak Peeks at openSUSE 10.3: A Plethora of Improvements'
+wordpress_id: 341
 categories:
 - Distribution
 ---
 
-With this last article the [Sneak Peeks series](https://news.opensuse.org/?cat=17) comes to an end for this release. But don't worry: it's tightly packed with an extra share of information on the latest openSUSE 10.3 goodies! Today we're going through all those things that either didn't get the chance to have their own article, or are extra convenient small improvements that haven't been properly covered. As you will know, it is all those extra little things that really contribute to a great user experience on the Linux desktop.
+With this last article the [Sneak Peeks series](//news.opensuse.org/?cat=17) comes to an end for this release. But don't worry: it's tightly packed with an extra share of information on the latest openSUSE 10.3 goodies! Today we're going through all those things that either didn't get the chance to have their own article, or are extra convenient small improvements that haven't been properly covered. As you will know, it is all those extra little things that really contribute to a great user experience on the Linux desktop.
 
 Today we'll be taking a look at: the new updater applet; redesigned network card module; OpenOffice 2.3; Xfce; the new Kontact; Giver, an easy file sharing tool; KIWI, a system image generator; and much more! We'll also be getting some closing thoughts from [Andreas Jaeger](http://en.opensuse.org/User:A_jaeger), director of openSUSE, to find out about plans for the future and community contributions.
 
@@ -25,7 +27,7 @@ In openSUSE 10.2, the openSUSE updater acted as just that -- simply an updater, 
 
 
 
-![Right-Click on openSUSE Updater]({{ site.baseurl }}/assets/applet1.png)
+![Right-Click on openSUSE Updater](//news.opensuse.org/wp-content/uploads/2007/09/applet1.png)
 
 
 
@@ -33,7 +35,7 @@ Then enable the option _"Show available upgrades when backend provides them"_ op
 
 
 
-[![opensuse-upgrader.png]({{ site.baseurl }}/assets/opensuse-upgrader_thumb.png)]({{ site.baseurl }}/assets/opensuse-upgrader.png)
+[![opensuse-upgrader.png](//news.opensuse.org/wp-content/uploads/2007/09/opensuse-upgrader_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/opensuse-upgrader.png)
 
 
 
@@ -44,7 +46,7 @@ Simple!
 ### Guru Repository Merging into Packman
 
 
-[Pascal Bleser](https://news.opensuse.org/?p=76) (yaloki) has long since been one of the most prominent, helpful, and commited openSUSE community developers, providing the whole community with thousands of extra packages in his [Guru repository](http://linux01.gwdg.de/~pbleser/) -- undoubtedly the second-most-popular 3rd-party repository.
+[Pascal Bleser](//news.opensuse.org/?p=76) (yaloki) has long since been one of the most prominent, helpful, and commited openSUSE community developers, providing the whole community with thousands of extra packages in his [Guru repository](http://linux01.gwdg.de/~pbleser/) -- undoubtedly the second-most-popular 3rd-party repository.
 
 [Packman](http://packman.links2linux.org) has typically been the most popular openSUSE community repository, providing many RPMs and multimedia software. Although Pascal has been a packman packager for some time, it is only with openSUSE 10.3 that [he has decided](http://dev-loki.blogspot.com/2007/09/moving-to-packman.html) to fully merge all of his packages into Packman or the openSUSE Build Service (OBS). His popular Amarok rebuilds have [already been moved](http://packman.links2linux.org/package/amarok) into Packman for openSUSE 10.3 users. Other OBS repositories such as [KDE:Community](http://download.opensuse.org/repositories/KDE:/Community/) will have more of his packages integrated into it soon, too.
 
@@ -63,7 +65,7 @@ Simply head over to YaST -> Software Management; from here, change the _Search_ 
 
 
 
-![select-patterns1.png]({{ site.baseurl }}/assets/select-patterns1.png) ![yast-list_thumb.png]({{ site.baseurl }}/assets/yast-list_thumb.png)
+![select-patterns1.png](//news.opensuse.org/wp-content/uploads/2007/09/select-patterns1.png) ![yast-list_thumb.png](//news.opensuse.org/wp-content/uploads/2007/09/yast-list_thumb.png)
 
 
 
@@ -71,7 +73,7 @@ Obligatory Xfce in openSUSE 10.3 screenshot:
 
 
 
-[![Xfce in openSUSE 10.3]({{ site.baseurl }}/assets/xfce_thumb.png)]({{ site.baseurl }}/assets/xfce.png)
+[![Xfce in openSUSE 10.3](//news.opensuse.org/wp-content/uploads/2007/09/xfce_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/xfce.png)
 
 
 
@@ -92,7 +94,7 @@ Among other things, the openSUSE [User eXperience](http://en.opensuse.org/UX) te
 
 
 
-[![]({{ site.baseurl }}/assets/network-card_thumb1.png)]({{ site.baseurl }}/assets/network-card.png)
+[![](//news.opensuse.org/wp-content/uploads/2007/09/network-card_thumb1.png)](//news.opensuse.org/wp-content/uploads/2007/09/network-card.png)
 
 
 
@@ -106,7 +108,7 @@ OpenOffice.org developers, which includes many SUSE developers, have been workin
 
 
 
-[![ooo.png]({{ site.baseurl }}/assets/ooo_thumb.png)]({{ site.baseurl }}/assets/ooo.png)
+[![ooo.png](//news.opensuse.org/wp-content/uploads/2007/09/ooo_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/ooo.png)
 
 
 
@@ -121,7 +123,7 @@ Another YaST module recently added is the wonderful _Community Repositories_ mod
 
 
 
-[![]({{ site.baseurl }}/assets/community-repos_thumb.png)]({{ site.baseurl }}/assets/community-repos2.png)
+[![](//news.opensuse.org/wp-content/uploads/2007/09/community-repos_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/community-repos2.png)
 
 
 
@@ -137,7 +139,7 @@ openSUSE 10.3 will also contain the KDE Personal Information Manager (Kontact) f
 
 
 
-[![Kontact - Personal Information Manager]({{ site.baseurl }}/assets/kontact_thumb.png)]({{ site.baseurl }}/assets/kontact1.png)
+[![Kontact - Personal Information Manager](//news.opensuse.org/wp-content/uploads/2007/09/kontact_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kontact1.png)
 
 
 
@@ -152,13 +154,13 @@ Another tremendously helpful application that came as the result of [Hack Week](
 
 
 
-![Giver - Easy File Sharing]({{ site.baseurl }}/assets/giver.png)
+![Giver - Easy File Sharing](//news.opensuse.org/wp-content/uploads/2007/09/giver.png)
 
 
 To transfer images, files or even folders, all you have to do is drag it onto the person you want to send it to. They will get a small dialog asking them to accept or decline receiving the file:
 
 
-![Giver - Notification]({{ site.baseurl }}/assets/giver-notify.png)
+![Giver - Notification](//news.opensuse.org/wp-content/uploads/2007/09/giver-notify.png)
 
 
 ..and then if they accept, it'll pop up right onto their desktop. Simple!
@@ -177,7 +179,7 @@ KIWI now even has a nice graphical front-end in the form of the _Image Creator_ 
 
 
 
-[![YaST2 KIWI]({{ site.baseurl }}/assets/yast2-kiwi_thumb.png)]({{ site.baseurl }}/assets/yast2-kiwi.png) [![KIWI - Pattern Selection]({{ site.baseurl }}/assets/yast2-kiwi-patternselect_thumb.png)]({{ site.baseurl }}/assets/yast2-kiwi-patternselect.png)
+[![YaST2 KIWI](//news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi.png) [![KIWI - Pattern Selection](//news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi-patternselect_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi-patternselect.png)
 
 
 This makes it much easier to select exactly the packages you want, add in extra patterns, or change any configurations. 
@@ -240,7 +242,7 @@ We also want to make it easier for others to setup their own build service - thi
 
 
 
-### Particularly for openSUSE 10.3, there have been some great new development contributions from the community like the [Package Search](http://packages.opensuse-community.org), [1-Click-Install](https://news.opensuse.org/?p=133), [LTSP](http://en.opensuse.org/LTSP), [webpin](http://dev-loki.blogspot.com/2007/07/webpin-command-line-client.html), and [Compiz Fusion](https://news.opensuse.org/?p=167) packages. What things in the future will make it even easier for the community to get involved?
+### Particularly for openSUSE 10.3, there have been some great new development contributions from the community like the [Package Search](http://packages.opensuse-community.org), [1-Click-Install](//news.opensuse.org/?p=133), [LTSP](http://en.opensuse.org/LTSP), [webpin](http://dev-loki.blogspot.com/2007/07/webpin-command-line-client.html), and [Compiz Fusion](//news.opensuse.org/?p=167) packages. What things in the future will make it even easier for the community to get involved?
 
 
 For development, we concentrate on the openSUSE build service. Currently we have an internal build system and the external buildservice but this is a one way system since [Adrian](http://en.opensuse.org/User:AdrianSuSE) has to sync the packages out to the external build service (and automatically to the factory distribution). My highest priority is to make it easier that community members can maintain packages so that they will end without many manual steps in the factory distribution.  Adrian and [Klaas](http://en.opensuse.org/User:Kfreitag) have written about the source handling on the build service mailing list.
@@ -248,4 +250,6 @@ For development, we concentrate on the openSUSE build service. Currently we have
 We are also working on enhancing KIWI so that everybody can create custom images - both Live images as well as installation images.  This will allow users to do their own distributions or add-on products like the [Education AddOn CD](http://opensuse.org/Education) that is worked on for 10.3.
 
 
-### Thanks!		
+### Thanks!
+
+[Probieren Sie diese Seite aus](https://hausarbeit-agentur.com/)

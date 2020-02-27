@@ -1,15 +1,18 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2012-01-21 16:51:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/01/21/opensuse-11-3-eoled-12-2-on-the-way/
-title: "openSUSE 11.3 EOL'ed, 12.2 On The Way!"
+slug: opensuse-11-3-eoled-12-2-on-the-way
+title: openSUSE 11.3 EOL'ed, 12.2 On The Way!
+wordpress_id: 12487
 categories:
 - Announcements
 - Distribution
 ---
-![SUSE Progression Cycles]({{ site.baseurl }}/assets/suse_progression_cycles-300x300.png)
+
+![SUSE Progression Cycles](/wp-content/uploads/2012/01/suse_progression_cycles.png)
 
 
 
@@ -21,4 +24,4 @@ The roadmap for openSUSE 12.2 is as follows:
 
 9 February - Milestone 13 March - Milestone 25 April - Milestone 326 April - Milestone 424 May - Beta 114 June - Release Candidate 128 June - Release Candidate 26 July - Gold Master11 July - 12.2 Final ReleaseAs always, testers and contributors are welcome throughout the release development process.Â  Join the [Factory Mailing List](mailto:opensuse-factory+subscribe@opensuse.org) and have a lot of fun!
 
-Graphic courtesy of Michael Fox - openSUSE Artwork Team member.		
+Graphic courtesy of Michael Fox - openSUSE Artwork Team member.

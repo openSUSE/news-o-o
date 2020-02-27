@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-11-21 15:57:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/21/status-mails-highlights/
-title: "Status Mail Highlights"
+slug: status-mails-highlights
+title: Status Mail Highlights
+wordpress_id: 523
 categories:
 - Project
 ---
+
 The highlights of this week's status mails, for your convenience as a news article! 
 
 
@@ -37,3 +40,7 @@ More information is available in the specific mailing list posts; if you are not
 
 	
   * [Build Service](http://lists.opensuse.org/opensuse-buildservice/2007-11/msg00219.html)
+
+
+
+ In [do my homework free](https://justdomyhomework.com/) other words, do what you usually do, but a pay a bit more attention to it

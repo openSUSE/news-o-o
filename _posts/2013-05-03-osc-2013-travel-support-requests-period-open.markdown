@@ -1,10 +1,12 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2013-05-03 11:00:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/05/03/osc-2013-travel-support-requests-period-open/
-title: "oSC 2013 Travel Support Requests Period Open"
+slug: osc-2013-travel-support-requests-period-open
+title: oSC 2013 Travel Support Requests Period Open
+wordpress_id: 15951
 categories:
 - Announcements
 - Conference
@@ -12,7 +14,8 @@ categories:
 - Infrastructure
 - Project
 ---
-[![ChameleonBustPosterDraft]({{ site.baseurl }}/assets/ChameleonBust_white-212x300.png)](http://conference.opensuse.org)
+
+[![ChameleonBustPosterDraft](//news.opensuse.org/wp-content/uploads/2013/01/ChameleonBust_white.png)](http://conference.opensuse.org)
 
 Today the openSUSE Travel Support Team opened [the Travel Support Request Submission tool](https://connect.opensuse.org/travel-support/) for requests related to the [openSUSE Conference 2013 in Thessaloniki](http://conference.opensuse.org). The goal is to help **everybody in and around openSUSE** to be able to come to the openSUSE Conference! You don't have to be one of the top 10 packagers to apply - if you're translating, building a local community or helping out at the forums, we might still be able to offer you support, so apply!
 
@@ -41,10 +44,10 @@ You will need an [openSUSE Connect account](https://connect.opensuse.org) in ord
   * The Travel Committee can reimburse up to 80% of travel and lodging costs. That includes plane ticket, train and bus tickets (no taxi), even car gas on some occasions, and hotel or hostel costs. Food and all local expenses are on you!
 
 	
-  * The Travel Team won™t be able to book or pay anything in advance, reimbursement comes after the event is over, **based on receipts you keep of your expenses**.
+  * The Travel Team wonâ€™t be able to book or pay anything in advance, reimbursement comes after the event is over, **based on receipts you keep of your expenses**.
 
 	
-  * Again: **no receipts = no money** - it's the rules![![Click to submit a paper!]({{ site.baseurl }}/assets/submit_paper.png)](https://conference.opensuse.org/osem/conference/osc2013/proposal/new)
+  * Again: **no receipts = no money** - it's the rules![![Click to submit a paper!](//news.opensuse.org/wp-content/uploads/2013/04/submit_paper.png)](https://conference.opensuse.org/osem/conference/osc2013/proposal/new)
 
 	
   * Those sponsored by the Travel Team have to write a blog or report on the event and are expected to be available for helping with tasks at the event where needed!
@@ -53,7 +56,7 @@ You will need an [openSUSE Connect account](https://connect.opensuse.org) in ord
   * Sponsorship decisions are influenced by the openSUSE history of the requester. Your involvement with openSUSE is really relevant!
 
 	
-  * Having an abstract submitted for presentation at the conference is relevant as well. Note that the CfP is extended so [there is still time](https://news.opensuse.org/2013/04/03/osc13-cfp-extends/)!
+  * Having an abstract submitted for presentation at the conference is relevant as well. Note that the CfP is extended so [there is still time](//news.opensuse.org/2013/04/03/osc13-cfp-extends/)!
 
 	
   * If you got support before and complied with all the requirements, this gets you bonus points too.
@@ -76,4 +79,4 @@ The conference is getting close and the deadline for travel support is tight so 
 
 We hope to see you there.
 
-**Your openSUSE Travel Support Team**		
+**Your openSUSE Travel Support Team**

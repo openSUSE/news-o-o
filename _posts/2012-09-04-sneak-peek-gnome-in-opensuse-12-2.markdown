@@ -1,16 +1,19 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2012-09-04 16:35:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/
-title: "Sneak Peek: GNOME in openSUSE 12.2"
+slug: sneak-peek-gnome-in-opensuse-12-2
+title: 'Sneak Peek: GNOME in openSUSE 12.2'
+wordpress_id: 13933
 categories:
 - Distribution
 ---
+
 openSUSE 12.2 is the second openSUSE release to include GNOME 3. [GNOME 3.4](http://library.gnome.org/misc/release-notes/3.4/) continues the rapid pace of evolution and consolidation set by GNOME 3.2 on openSUSE 12.1. This article is a sneak peek of what will be released tomorrow, the 5th of September!
 
-[![]({{ site.baseurl }}/assets/gnome-shell-activities-300x225.png)](https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-activities/)<!-- more -->
+[![](/wp-content/uploads/2012/09/gnome-shell-activities.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-activities/)<!-- more -->
 
 
 
@@ -30,7 +33,7 @@ GNOME 3.4 continues to implement the GNOME project's design-led vision for the F
 
 
 Documents, the simple browser for all your work and media, has a cleaner UI, saving screen space by using the App Menu instead of a separate sidebar. It uses Tracker, the metadata indexing system to show your local files, and can display your Google Documents using the integrated Gnome Online Accounts system. Documents can now be organized by assigning them to Collections.
-[![]({{ site.baseurl }}/assets/41053418-300x168.png)](https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/41053418/)
+[![](/wp-content/uploads/2012/09/41053418.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/41053418/)
 
 
 #### App menus
@@ -39,7 +42,7 @@ Documents, the simple browser for all your work and media, has a cleaner UI, sav
 Combining features from user interface developments in Firefox and Chromium and in OS X, GNOME Apps appear maximised and locate their menu bar at the application name in the GNOME shell menu bar, instead of consuming screen space with window title and menu bars.
 
 
-[![]({{ site.baseurl }}/assets/gnome-shell-web-150x150.png)](https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-web/)
+[![](/wp-content/uploads/2012/09/gnome-shell-web.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-web/)
 
 
 
@@ -56,7 +59,7 @@ Combining features from user interface developments in Firefox and Chromium and 
 
 As more and more of us work with systems in the cloud, GNOME 3.4 supports this with the first version of a 'GNOME Boxes' App, which provides an attractive interface to virtual machines and remote applications. Test out your SUSE Studio respins of openSUSE 12.2 directly in your GNOME desktop!
 
-(https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-boxes/) gnome-boxes initializing a virtual machine to run a LiveCD
+[caption id="attachment_14034" align="aligncenter" width="150"][![](/wp-content/uploads/2012/09/gnome-boxes.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-boxes/) gnome-boxes initializing a virtual machine to run a LiveCD[/caption]
 
 
 ### Improved shell search
@@ -76,7 +79,7 @@ The underlying GTK 3 toolkit has been updated in many areas. Perhaps the most no
 
 GNOME 3.4 makes GNOME Shell accessible to blind and partially sighted users using the Orca screen reader. The high-contrast icon set has been extended to support GNOME 3's new interface elements, and the magnifier aid has many more configuration options to set zoom and visual cues to suit you.
 
-[![]({{ site.baseurl }}/assets/gnome-shell-a11y-150x150.png)](https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-a11y/)
+[![](/wp-content/uploads/2012/09/gnome-shell-a11y.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-a11y/)
 
 
 ### 
@@ -89,7 +92,7 @@ GNOME 3.4 makes GNOME Shell accessible to blind and partially sighted users usin
 
 The Empathy integrated instant messenger gains support for video calling, and adds the ability to chat with Facebook and Windows Live network users.
 
-[![]({{ site.baseurl }}/assets/7346117-300x168.png)](https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/7346117/)
+[![](/wp-content/uploads/2012/09/7346117.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/7346117/)
 
 
 ### New and refreshed documentation
@@ -103,7 +106,7 @@ Many tools in GNOME 3.4 have new or updated online help and manuals.
 
 Aside from the main GNOME release, there are many new and updated application packages, including guake, a Quake-console like shell; Shotwell, the GNOME photo manager; drwright, a typing break enforcer; GTK frontend for recordmydesktop, scite, a new code editor; pithos, a client for Pandora internet radio; as well as caffeine, gnome-agenda, espeak-gui and weather-wallpaper.
 
-[![]({{ site.baseurl }}/assets/gnome-shell-shotwell-150x150.png)](https://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-shotwell/)
+[![](/wp-content/uploads/2012/09/gnome-shell-shotwell.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-shotwell/)
 
 
 ## openSUSE Customizations
@@ -117,7 +120,7 @@ The GNOME project has a strong vision for its desktop, so in openSUSE 12.1 GNOME
 
 openSUSE 12.2 is a release to get. The delay of two months has given the community extra time to stabilize things and make sure this release is as solid as ever. While we gear up for the [openSUSE Summit](http://summit.opensuse.org) in Orlando, Florida and the [openSUSE Conference](http://conference.opensuse.org) in Prague, Czech republic, where we discuss the future of openSUSE (you're invited!), you can start using another stellar release. Don't forget to check out what [Tumbleweed](http://opensuse.org/Tumbleweed), [the Open Build Service](http://build.opensuse.org) and [Packman](http://packman.links2linux.org/) have in store for you!
 
-The openSUSE project will release openSUSE 12.2 tomorrow - so keep your eyes open and check out [software.opensuse.org](http://software.opensuse.org) and of course [openSUSE News](https://news.opensuse.org) for the release!
+The openSUSE project will release openSUSE 12.2 tomorrow - so keep your eyes open and check out [software.opensuse.org](http://software.opensuse.org) and of course [openSUSE News](http://news.opensuse.org) for the release!
 
 
 
@@ -130,7 +133,7 @@ The openSUSE project will release openSUSE 12.2 tomorrow - so keep your eyes ope
 ## openSUSE 12.2
 
 
-![geeko-paper-look]({{ site.baseurl }}/assets/geeko-paper-look.png)
+![geeko-paper-look](/wp-content/uploads/2012/09/geeko-paper-look.png)
 Meet openSUSE: _friendly, welcoming, vibrant, and active_. We believe in collaboration, open governance and creating stable yet not stale products. On that philosophy we build _the world's most flexible and powerful Linux distribution!_
 
 openSUSE 12.2 has once again found this **sweet spot between up to date and stable**. This release brings many noticeable performance improvements resulting in a fluid and responsive desktop. It also brings the integration of mature new technologies like GRUB2 and plymouth and the first steps in revising and simplifying the UNIX file system hierarchy. And it introduces many incremental improvements to the included software.
@@ -139,8 +142,8 @@ openSUSE 12.2 has once again found this **sweet spot between up to date and stab
 ## GNOME
 
 
-![Gnomelogo]({{ site.baseurl }}/assets/402px-Gnomelogo-247x300.png)
+![Gnomelogo](/wp-content/uploads/2012/09/402px-Gnomelogo.png)
 
 GNOME is an international community developing Free and Open Source infrastructure tools and desktop applications for Linux. The community considers it crucially important to make software accessible to anyone, no matter what language they speak or their technical or physical abilities. The project is willing to make bold decisions and follow up on clear visions in a well defined time frame.
 
-The GNOME project develops a wide variety of software built upon the GNOME libraries and the GTK toolkit, working in mostly independent teams under guidance of the GNOME Board, the advisory board and various committees.		
+The GNOME project develops a wide variety of software built upon the GNOME libraries and the GTK toolkit, working in mostly independent teams under guidance of the GNOME Board, the advisory board and various committees.

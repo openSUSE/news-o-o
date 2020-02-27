@@ -1,14 +1,15 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-09-03 19:48:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/03/strategy-sucks/
-title: "Strategy sucks"
+slug: strategy-sucks
+title: Strategy sucks
+wordpress_id: 4148
 categories:
 - Project
 ---
-
 
 
 
@@ -141,5 +142,3 @@ Your strategy team
 
 
 
-
-		

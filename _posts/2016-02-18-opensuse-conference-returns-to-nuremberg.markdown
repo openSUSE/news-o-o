@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-02-18 10:04:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/02/18/opensuse-conference-returns-to-nuremberg/
-title: "openSUSE Conference returns to Nuremberg"
+slug: opensuse-conference-returns-to-nuremberg
+title: openSUSE Conference returns to Nuremberg
+wordpress_id: 19744
 categories:
 - Conference
 ---
-![oscfinal]({{ site.baseurl }}/assets/oscfinal-300x214.png)The [openSUSE Conference](https://events.opensuse.org/conference/oSC16) will return to Nuremberg June 22 - 26 and have its conference at a cultural center in the heart of the Bavarian city.
+
+![oscfinal](/wp-content/uploads/2016/02/oscfinal.png)The [openSUSE Conference](https://events.opensuse.org/conference/oSC16) will return to Nuremberg June 22 - 26 and have its conference at a cultural center in the heart of the Bavarian city.
 
 This year’s oSC will take place at the [Z Bau](http://z-bau.com/haus), which was a former military barracks before being converted into a cultural center in 2014.
 
@@ -42,4 +45,4 @@ The openSUSE Conference is the annual community event that brings people from ar
 #### **About Nuremberg**
 
 
-[Nuremberg](https://en.wikipedia.org/wiki/Nuremberg) is a German town located in [Bavaria](https://en.wikipedia.org/wiki/Bavaria). It is the second most populated city in Bavaria behind [Munich](https://en.wikipedia.org/wiki/Munich). Nuremberg is located 170km north of Munich and 224km southeast of Frankfurt. Nuremberg is distinguished by its medieval architecture, including the fortifications and stone towers of its [Altstadt (Old Town)](http://wikitravel.org/en/Nuremberg). At the northern edge of the Altstadt, surrounded by red-roofed buildings, stands [Kaiserburg Castle](https://en.wikipedia.org/wiki/Nuremberg_Castle), which is used in this year's logo. The [Hauptmarkt](http://tourismus.nuernberg.de/en/sightseeing/places-of-interest/further-places-of-interest/d/nuernberger-hauptmarkt.html) (central square) contains the [Schöner Brunnen](https://en.wikipedia.org/wiki/Sch%C3%B6ner_Brunnen), the gilded “beautiful fountain” with tiers of figures, and [Frauenkirche](https://en.wikipedia.org/wiki/Frauenkirche,_Nuremberg), a 14th-century Gothic church. Because of the city's relevance to the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire) and its position in the center of Germany, the [Nazi Party](https://en.wikipedia.org/wiki/Nazi_Party) chose the city to be the site of huge Nazi Party conventions – the [Nuremberg rallies](https://en.wikipedia.org/wiki/Nuremberg_Rally).		
+[Nuremberg](https://en.wikipedia.org/wiki/Nuremberg) is a German town located in [Bavaria](https://en.wikipedia.org/wiki/Bavaria). It is the second most populated city in Bavaria behind [Munich](https://en.wikipedia.org/wiki/Munich). Nuremberg is located 170km north of Munich and 224km southeast of Frankfurt. Nuremberg is distinguished by its medieval architecture, including the fortifications and stone towers of its [Altstadt (Old Town)](http://wikitravel.org/en/Nuremberg). At the northern edge of the Altstadt, surrounded by red-roofed buildings, stands [Kaiserburg Castle](https://en.wikipedia.org/wiki/Nuremberg_Castle), which is used in this year's logo. The [Hauptmarkt](http://tourismus.nuernberg.de/en/sightseeing/places-of-interest/further-places-of-interest/d/nuernberger-hauptmarkt.html) (central square) contains the [Schöner Brunnen](https://en.wikipedia.org/wiki/Sch%C3%B6ner_Brunnen), the gilded “beautiful fountain” with tiers of figures, and [Frauenkirche](https://en.wikipedia.org/wiki/Frauenkirche,_Nuremberg), a 14th-century Gothic church. Because of the city's relevance to the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire) and its position in the center of Germany, the [Nazi Party](https://en.wikipedia.org/wiki/Nazi_Party) chose the city to be the site of huge Nazi Party conventions – the [Nuremberg rallies](https://en.wikipedia.org/wiki/Nuremberg_Rally).

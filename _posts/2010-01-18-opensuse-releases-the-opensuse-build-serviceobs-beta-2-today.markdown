@@ -1,14 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2010-01-18 16:45:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/01/18/opensuse-releases-the-opensuse-build-serviceobs-beta-2-today/
-title: "openSUSE releases the openSUSE Build Service(OBS) Beta 2 today\
-  "
+slug: opensuse-releases-the-opensuse-build-serviceobs-beta-2-today
+title: openSUSE releases the openSUSE Build Service(OBS) Beta 2 today
+wordpress_id: 2722
 categories:
 - Build Service
 ---
+
 This release is now feature complete and also the API should be final by now.
 
 Biggest changes since beta 1 are:
@@ -64,4 +66,3 @@ This appliance is of course built in openSUSE Build Service itself ;)
 
 Hope you had a nice start in 2010 
    Your openSUSE Build Service team
-		

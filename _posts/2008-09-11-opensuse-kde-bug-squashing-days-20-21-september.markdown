@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-11 20:41:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/11/opensuse-kde-bug-squashing-days-20-21-september/
-title: "openSUSE KDE Bug Squashing Days (20-21 September)"
+slug: opensuse-kde-bug-squashing-days-20-21-september
+title: openSUSE KDE Bug Squashing Days (20-21 September)
+wordpress_id: 1017
 categories:
 - Events
 tags:
 - KDE
 ---
-
 
 ![](http://files.opensuse.org/opensuse/en/e/ee/Bugs.png)
 
@@ -61,4 +62,4 @@ To successfully achieve all these tasks, the openSUSE KDE team needs as many peo
 
 During the event the community will be in the #opensuse-kde channel on irc.freenode.org to help you out in whatever you might need. The openSUSE KDE mailing list is also a great way to communicate with the KDE community.
 
-See the [openSUSE KDE Bug Squashing Days page](http://en.opensuse.org/KDE/Bug_Slashing/20080920) for more and updated information. Das ist ein puffer-speicher, [https://hausarbeithilfe.com](https://hausarbeithilfe.com/) in dem die seiten gespeichert werden, die sie aufrufen		
+See the [openSUSE KDE Bug Squashing Days page](http://en.opensuse.org/KDE/Bug_Slashing/20080920) for more and updated information. Das ist ein puffer-speicher, [https://hausarbeithilfe.com](https://hausarbeithilfe.com/) in dem die seiten gespeichert werden, die sie aufrufen

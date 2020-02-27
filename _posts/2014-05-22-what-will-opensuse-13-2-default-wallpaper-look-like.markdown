@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-05-22 12:21:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/05/22/what-will-opensuse-13-2-default-wallpaper-look-like/
-title: "What Will openSUSE 13.2 Default Wallpaper Look Like?"
+slug: what-will-opensuse-13-2-default-wallpaper-look-like
+title: What Will openSUSE 13.2 Default Wallpaper Look Like?
+wordpress_id: 17977
 categories:
 - Distribution
 ---
+
 
 
 
@@ -74,5 +77,3 @@ Or, just wait for awesome geeko's good looks to amaze you come the beginning of 
 
 
 ## _...have a lot of fun!_
-
-		

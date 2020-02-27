@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2009-05-03 21:06:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/05/03/people-of-opensuse-jim-henderson/
-title: "People of openSUSE: Jim Henderson"
+slug: people-of-opensuse-jim-henderson
+title: 'People of openSUSE: Jim Henderson'
+wordpress_id: 1599
 categories:
 - People of openSUSE
 ---
-
 
 I noticed Jim by his thoughtful replies on openSUSE [mail lists](http://lists.opensuse.org) and [forums](http://forums.opensuse.org). He has ability to listen,  understand and answer in the way that correspondent can not only find correct, but also understand, which is seldom found talent. 
 
@@ -20,19 +21,109 @@ I noticed Jim by his thoughtful replies on openSUSE [mail lists](http://lists.op
 
 
 
-|||
-|--- |--- |
-|||
-|**Nicknames:**|hendersj, jhenderson|
-|**Homepage:**|Haven't really got a current one; an old one is sometimes available at
-[http://hendersj.dyndns.org](http://hendersj.dyndns.org) but I haven't updated it in a couple years.|![jim-henderson]({{ site.baseurl }}/assets/jim-henderson.png)|
-|**Blog:**|I have a couple.  [http://itcat.wordpress.com](http://itcat.wordpress.com) is one where I write about the topics of technical training, certification, and careers ("itcat" =3D "IT Certification and Training").  I post maybe an average of about 4 times a year there.|
-|||
-|**Favorite season:**|Spring.  Unfortunately it isn't long enough here in Utah - I like the rainy part with temperatures in the upper 60-s and lower 70-s (Fahrenheit)|
-|**Motto:**|I would be a toss-up between Douglas Adam's quote about deadlines ("I love deadlines. I love the whooshing noise they make as they go by.") and something my dad was fond of saying about memory ("Memory's the second thing to go.....Can't remember the first.")
+<table border="0" >
+<tr >
 
-Our family motto is "We don't do things like other people."  This comes from our propensity to do the unexpected - celebrating major holidays on days other than when the holiday happens, for example, or buying gifts for each other after the date has passed.  We have a tendency to provide entertainment to those around us by doing silly things.|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Nicknames:**
+</td>
+
+<td >hendersj, jhenderson
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Homepage: **
+</td>
+
+<td >Haven't really got a current one; an old one is sometimes available at
+[http://hendersj.dyndns.org](http://hendersj.dyndns.org) but I haven't updated it in a couple years.
+</td>
+
+<td align="right" rowspan="9" valign="top" >![jim-henderson](/wp-content/uploads/2009/05/jim-henderson.png)
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Blog:**
+</td>
+
+<td >I have a couple.  [http://itcat.wordpress.com](http://itcat.wordpress.com) is one where I write about the topics of technical training, certification, and careers ("itcat" =3D "IT Certification and Training").  I post maybe an average of about 4 times a year there.
+
+
+</td>
+
+<td >
+</tr>
+<tr >
+
+<td >
+</td>
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Favorite season:**
+</td>
+
+<td >Spring.  Unfortunately it isn't long enough here in Utah - I like the rainy part with temperatures in the upper 60-s and lower 70-s (Fahrenheit)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Motto:**
+</td>
+
+<td >I would be a toss-up between Douglas Adam's quote about deadlines ("I love deadlines. I love the whooshing noise they make as they go by.") and something my dad was fond of saying about memory ("Memory's the second thing to go.....Can't remember the first.")
+
+Our family motto is "We don't do things like other people."  This comes from our propensity to do the unexpected - celebrating major holidays on days other than when the holiday happens, for example, or buying gifts for each other after the date has passed.  We have a tendency to provide entertainment to those around us by doing silly things.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -247,7 +338,7 @@ I wish I had some real skills in the area of video compositing and electronic mu
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 I'd probably go through withdrawl, but on the flip side, I'd probably spend more time at the gym.
@@ -372,7 +463,7 @@ Many, many times.
 
 OK, I'll attach that as well. :-)  The picture is a photo of the mountains to the east of the Novell campus in Provo, Utah.  I enhanced the image myself using the GIMP as an experiment in just general image manipulation, and I really liked how it turned out.
 
-![mountains-to-the-east-of-novell]({{ site.baseurl }}/assets/mountains-to-the-east-of-novell-300x224.png)
+![mountains-to-the-east-of-novell](/wp-content/uploads/2009/05/mountains-to-the-east-of-novell.png)
 
 
 
@@ -421,5 +512,3 @@ What do you like to do when you're not working on a computer?
 
 
 
-
-		

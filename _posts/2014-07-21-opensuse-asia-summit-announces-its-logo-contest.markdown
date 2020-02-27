@@ -1,19 +1,22 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2014-07-21 20:20:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/21/opensuse-asia-summit-announces-its-logo-contest/
-title: "openSUSE Asia Summit announces its logo contest"
+slug: opensuse-asia-summit-announces-its-logo-contest
+title: openSUSE Asia Summit announces its logo contest
+wordpress_id: 18220
 categories:
 - Announcements
 - Summit
 ---
+
 The first openSUSE.Asia Summit will be held in **_Beijing, China_** in **_Oct, 2014_**. However, no Summit or Conference is successful without a symbol. The openSUSE Asia Summit organizing team is organizing a logo design contest. The best logo will be awarded with a special super secret Geeko Prize. The logo will be used for all promotional and marketing activities for the summit.
 
 <!-- more -->
 
-The **Rules** of the Contest are pretty simple :[![12_1vs13_1]({{ site.baseurl }}/assets/12_1vs13_1-300x228.png)]({{ site.baseurl }}/assets/12_1vs13_1.png)
+The **Rules** of the Contest are pretty simple :[![12_1vs13_1](/wp-content/uploads/2013/06/12_1vs13_1.png)](/wp-content/uploads/2013/06/12_1vs13_1.png)
 
 
 
@@ -104,4 +107,4 @@ The contest is open from now until **_Aug 18, 2014_**. After that, the openSUSE.
 	
   3. The article has been updated after discussion with openSUSE Asia team regarding entry rules.
 
-		
+

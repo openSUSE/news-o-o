@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-11-27 15:04:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/11/27/development-release-opensuse-111-rc-1-now-available/
-title: "Development Release: openSUSE 11.1 RC 1 Now Available"
+slug: development-release-opensuse-111-rc-1-now-available
+title: 'Development Release: openSUSE 11.1 RC 1 Now Available'
+wordpress_id: 1101
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE Project is happy to announce that openSUSE 11.1 RC 1 is now available. If all goes well, this will be the last testing release before the final 11.1 public release on December 18th.
 
 This release includes a number of bugfixes and changes since 11.1 beta 5, as well as a new license.
@@ -63,4 +66,4 @@ Bug [449513](https://bugzilla.novell.com/show_bug.cgi?id=449513): Novell vpn doe
 ### Future Release Announcements
 
 
-Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release. Zunchst einmal plagiate stellen einen versto gegen [https://bachelorschreibenlassen.com/akademische-arbeit/](https://bachelorschreibenlassen.com/akademische-arbeit/) das urheberrecht dar und werden daher sanktioniert		
+Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release. Zunchst einmal plagiate stellen einen versto gegen [https://bachelorschreibenlassen.com/akademische-arbeit/](https://bachelorschreibenlassen.com/akademische-arbeit/) das urheberrecht dar und werden daher sanktioniert

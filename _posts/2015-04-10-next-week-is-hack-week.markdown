@@ -1,10 +1,12 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2015-04-10 12:41:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/04/10/next-week-is-hack-week/
-title: "Next Week is Hack Week!"
+slug: next-week-is-hack-week
+title: Next Week is Hack Week!
+wordpress_id: 19206
 categories:
 - Events
 - Hack Week
@@ -13,9 +15,10 @@ tags:
 - hack week
 - innovation
 ---
+
 Hack Week, a week where openSUSE/SUSE hackers experiment without limits! It's the opportunity to innovate, collaborate across teams, and learn. The only rule is: Do what you want, but do it!
 
-![Hack Week 12]({{ site.baseurl }}/assets/Screenshot-from-2015-04-10-140103.png)
+![Hack Week 12](/wp-content/uploads/2015/04/Screenshot-from-2015-04-10-140103.png)
 
 Many openSUSE/SUSE hackers use this opportunity to work on an activity of their passion and judging from the submitted ideas on [hackweek.suse.com](http://hackweek.suse.com) there is plenty of passion in the community!
 
@@ -23,4 +26,4 @@ Be it porting openSUSE to new and exciting hardware ([Firefly-RK3288](https://ha
 
 We are sure that in the end, the 12th incarnation of this event, will give birth to one of the next big openSUSE/SUSE innovations. Like so many Hack Weeks before have! Just think about zypp and zypper, the openSUSE ARM port or YaST in Ruby.
 
-So when next week is Hack Week, support the openSUSE/SUSE hackers where you can when they explore strange new languages, seek out new tools and new communities, when they boldly go where no hacker has gone before!		
+So when next week is Hack Week, support the openSUSE/SUSE hackers where you can when they explore strange new languages, seek out new tools and new communities, when they boldly go where no hacker has gone before!

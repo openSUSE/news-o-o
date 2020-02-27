@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-04-25 12:36:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/04/25/opensuse-to-mentor-six-google-summer-of-code-students/
-title: "openSUSE to Mentor Six Google Summer of Code Students"
+slug: opensuse-to-mentor-six-google-summer-of-code-students
+title: openSUSE to Mentor Six Google Summer of Code Students
+wordpress_id: 19826
 categories:
 - Announcements
 - Google Summer of Code
 ---
+
 ![](https://developers.google.com/open-source/gsoc/images/gsoc2016-sun-373x373.png)
 
 Google made an announcement April 22 that [1,206 students were selected for the Google Summer of Code](http://google-opensource.blogspot.de/2016/04/students-announced-for-google-summer-of.html) and six of those students will be mentored through the openSUSE Project, which is one of 178 mentoring organizations in this year’s GSoC.
@@ -23,4 +26,4 @@ Students wrote more than 20 project proposals to participate with openSUSE as a 
 
 The [next phase](https://developers.google.com/open-source/gsoc/timeline) of GSoC will be the Community Bonding phase and the students will begin working on the projects May 23. The students will have a mid-term evaluation between June 20 - 27 and will submit their code for evaluation between August 15 -23.
 
-Google Summer of Code is open to post-secondary students, age 18 and older in most countries.		
+Google Summer of Code is open to post-secondary students, age 18 and older in most countries.

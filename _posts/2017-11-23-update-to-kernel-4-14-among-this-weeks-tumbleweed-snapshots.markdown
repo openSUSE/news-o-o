@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-11-23 14:01:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/11/23/update-to-kernel-4-14-among-this-weeks-tumbleweed-snapshots/
-title: "Update to Kernel 4.14 Among This Week’s Tumbleweed Snapshots"
+slug: update-to-kernel-4-14-among-this-weeks-tumbleweed-snapshots
+title: Update to Kernel 4.14 Among This Week’s Tumbleweed Snapshots
+wordpress_id: 20599
 categories:
 - Distribution
 - Tumbleweed
@@ -34,7 +36,8 @@ tags:
 - xfs
 - xfsprogs
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-300x127.png)The past week brought new features to [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) with a snapshot that included [Linux Kernel](https://www.kernel.org/) 4.14. New features like HDMI Consumer Electronics Control support for [Raspberry Pi](https://www.raspberrypi.org/) and the merging of [Heterogeneous Memory Management](https://www.phoronix.com/scan.php?page=news_item&px=HMM-In-Linux-4.14) to the mainline this Long-Term Support Kernel are promising.
+
+![](/wp-content/uploads/2016/03/Tumbleweed-black.png)The past week brought new features to [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) with a snapshot that included [Linux Kernel](https://www.kernel.org/) 4.14. New features like HDMI Consumer Electronics Control support for [Raspberry Pi](https://www.raspberrypi.org/) and the merging of [Heterogeneous Memory Management](https://www.phoronix.com/scan.php?page=news_item&px=HMM-In-Linux-4.14) to the mainline this Long-Term Support Kernel are promising.
 
 [openSUSE](https://www.opensuse.org/)’s rolling distribution produced four [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week and brought many other goodies.
 
@@ -44,4 +47,4 @@ The [20171120](https://lists.opensuse.org/opensuse-factory/2017-11/msg00562.html
 
 <!-- more -->KDE users received KDE [Applications 17.08.3](https://www.kde.org/announcements/announce-applications-17.08.3.php) this week in the [20171117](https://lists.opensuse.org/opensuse-factory/2017-11/msg00487.html) and [20171116](https://lists.opensuse.org/opensuse-factory/2017-11/msg00479.html) snapshots. The newest applications from the [KDE community](https://www.kde.org/community/) include bugfixes include improvements to [Kontact](https://www.kde.org/applications/office/kontact/), [Ark](https://www.kde.org/applications/utilities/ark/), [Gwenview](https://userbase.kde.org/Gwenview), [KGpg](https://utils.kde.org/projects/kgpg/), KWave, [Okular](https://okular.kde.org/) and Spectacle. Okular no longer crashes after certain rotation jobs and archiver Ark preserves file modification dates when extracting ZIP archives. The file system utilities for maintaining the [ext2](https://en.wikipedia.org/wiki/Ext2), [ext3](https://en.wikipedia.org/wiki/Ext3) and [ext4](https://en.wikipedia.org/wiki/Ext4) file systems, [e2fsprogs](http://e2fsprogs.sourceforge.net/), updated to version 1.43.7 and fixes of error handling in journal replay as well as updated translations. The replacement of the NIS library that used to be in GlibC, libnsl 1.2.0, made the code more portable.
 
-Mozilla’s [Firefox Quantum 57.0](https://www.mozilla.org/en-US/firefox/57.0/releasenotes/?utm_campaign=whatsnew), which has a redesigned interface, arrived in snapshot [20171116](https://lists.opensuse.org/opensuse-factory/2017-11/msg00479.html). The new browser takes [full advantage of the processing power](https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12) in modern devices, according to the release notes. In addition to the multiple updated to [Applications 17.08.3](https://www.kde.org/announcements/announce-applications-17.08.3.php) released in snapshot [20171116](https://lists.opensuse.org/opensuse-factory/2017-11/msg00479.html), KDE [Framworks 5.40.0](https://www.kde.org/announcements/kde-frameworks-5.40.0.php) also arrived in the snapshot and provided serveral functionality fixes. Among other packages updated in the snapshot were python-jedi 0.11.0, python-kiwi 9.11.17 and rsyslog 8.30.0, which now handles (JSON) variables in case-insensitive way and fixes a memory corruption during configuration parsing.		
+Mozilla’s [Firefox Quantum 57.0](https://www.mozilla.org/en-US/firefox/57.0/releasenotes/?utm_campaign=whatsnew), which has a redesigned interface, arrived in snapshot [20171116](https://lists.opensuse.org/opensuse-factory/2017-11/msg00479.html). The new browser takes [full advantage of the processing power](https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12) in modern devices, according to the release notes. In addition to the multiple updated to [Applications 17.08.3](https://www.kde.org/announcements/announce-applications-17.08.3.php) released in snapshot [20171116](https://lists.opensuse.org/opensuse-factory/2017-11/msg00479.html), KDE [Framworks 5.40.0](https://www.kde.org/announcements/kde-frameworks-5.40.0.php) also arrived in the snapshot and provided serveral functionality fixes. Among other packages updated in the snapshot were python-jedi 0.11.0, python-kiwi 9.11.17 and rsyslog 8.30.0, which now handles (JSON) variables in case-insensitive way and fixes a memory corruption during configuration parsing.

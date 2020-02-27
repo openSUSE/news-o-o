@@ -1,14 +1,17 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2014-05-14 17:25:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/05/14/jean-daniel-dodin-a-k-a-shares-his-experiences-on-how-to-manage-a-personal-web-server-with-opensuse/
-title: "Jean-Daniel Dodin a.k.a shares his experiences on how to manage\
-  \ a Personal Web Server with openSUSE"
+slug: jean-daniel-dodin-a-k-a-shares-his-experiences-on-how-to-manage-a-personal-web-server-with-opensuse
+title: Jean-Daniel Dodin a.k.a shares his experiences on how to manage a Personal
+  Web Server with openSUSE
+wordpress_id: 17973
 categories:
 - Distribution
 ---
+
 Hello :-)
 
 I want to share my experience in managing a personal hosted web server with openSUSE.
@@ -309,4 +312,4 @@ To be continued. On the next article, we will discuss how to configure the serve
 
 
 _
-Article Contributed by Jean-Daniel Dodin_		
+Article Contributed by Jean-Daniel Dodin_

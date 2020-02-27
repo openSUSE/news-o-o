@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-12-18 20:05:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/18/opensuse-weekly-news-issue-154-is-out/
-title: "openSUSE Weekly News, Issue 154 is out!"
+slug: opensuse-weekly-news-issue-154-is-out
+title: openSUSE Weekly News, Issue 154 is out!
+wordpress_id: 5988
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News Issue 154.
 <!-- more -->
 
@@ -75,37 +78,37 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
       This week was very interesting. The Novell "The Disters" Contest was finished, and the Winners are announced. Then we have a new Board Member (driven by Novell) as Replacement for Michael Loeffler. Then new candidates comes up for the Board Election. So you see, we had a lot to read. Enjoy the reading :-)
     
 
-## ![Header Picture]({{ site.baseurl }}/assets/Marketing.png)Announcements
+## ![Header Picture](/wp-content/uploads/2010/12/Marketing.png)Announcements
 
 **FigureÂ 1.Â Holiday Geeko**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![Holiday Geeko]({{ site.baseurl }}/assets/holiday-geeko-245x300.png)
+<td >![Holiday Geeko](/wp-content/uploads/2010/12/holiday-geeko.png)
 </td></tr></table>
 
   
 
 
 <blockquote>**
-      [Holiday Wishes from the openSUSE Board](https://news.opensuse.org/2010/12/13/holiday-wishes-from-the-opensuse-board/)
+      [Holiday Wishes from the openSUSE Board](http://news.opensuse.org/2010/12/13/holiday-wishes-from-the-opensuse-board/)
     **
 > 
 > Seasons Greetings to everyone in the openSUSE Community and beyond from the openSUSE
       Board! 
 > 
-> As we come to the end of 2010, we™d like to take a moment to reflect on a banner year in
-      the Project. We™ve had some very good progress this year and 2011 promises to be an even
+> As we come to the end of 2010, weâ€™d like to take a moment to reflect on a banner year in
+      the Project. Weâ€™ve had some very good progress this year and 2011 promises to be an even
       greater year. This year, we hosted our second annual openSUSE Conference in Nuremberg, Germany
       with over 70 presentations and many BoF discussions. Attendance grew from the first year. 
 > 
 > Also, this year, the Board rolled up its sleeves and opened up a discussion with the
       Community about the strategic direction of openSUSE. A finalized strategic statement is
-      imminent. The creation of an openSUSE Foundation is well underway. We™re currently reviewing
+      imminent. The creation of an openSUSE Foundation is well underway. Weâ€™re currently reviewing
       legal documents related to the creation and are very excited about this. The Foundation will
       be a step forward in further empowering our Community. More and more people are stepping up to
-      champion openSUSE™s role in the open source world. We saw ambassador growth in countries like
+      champion openSUSEâ€™s role in the open source world. We saw ambassador growth in countries like
       Brasil and Greece, and stengthened in other places like India, Europe and the United States.
-      We™re seeing more people available to show up at conferences and events to present and
+      Weâ€™re seeing more people available to show up at conferences and events to present and
       demonstrate openSUSE. 
 > 
 > In addition to releasing openSUSE 11.3, the openSUSE Build Service also reached a critical
@@ -116,9 +119,9 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
       complete tasks and move forward with their plans. The openSUSE Board will be holding its final
       meeting of 2010 this Wednesday at 19:00 UTC in the #opensuse-project IRC channel on Freenode.
       We invite you all to attend, as all of our meetings our public and we do appreciate the many
-      contributions our Community offers during our meetings, particularly during the Where can we
-      improve? session we implemented earlier this year. Incidentally, it is election season again
-      for the openSUSE Board and we™re excited to see so many candidates. If you™ve been thinking
+      contributions our Community offers during our meetings, particularly during the â€œWhere can we
+      improve?â€ session we implemented earlier this year. Incidentally, it is election season again
+      for the openSUSE Board and weâ€™re excited to see so many candidates. If youâ€™ve been thinking
       about running for one of the two seats, we encourage you to apply for candidacy ASAP! 
 > 
 > To be sure, serving on the Board is a rewarding experience, and also requires commitment
@@ -127,26 +130,26 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
       initiatives from the Community will come forth and the Board will play an important role in
       guiding and shaping the future of openSUSE as a Project. 
 > 
-> So, as we close here, we™d like to wish each and every one of you a safe and joyous
+> So, as we close here, weâ€™d like to wish each and every one of you a safe and joyous
       holiday season with friends and loved ones. You can be sure that as we Board members toast in
-      the New Year from various corners of the world, we™ll be thinking of you all and rejoicing
+      the New Year from various corners of the world, weâ€™ll be thinking of you all and rejoicing
       being part of a strong, dedicated and passionate community. 
 > 
-> See you all at Wednesday™s meeting, and in 2011! 
+> See you all at Wednesdayâ€™s meeting, and in 2011! 
 > 
-> The openSUSE Board Pascal Bleser, Rupert Horstkötter, Pavol Rusnak, Henne Vogelsang, Bryen YunashkoFigureÂ 1, Holiday Geeko
+> The openSUSE Board Pascal Bleser, Rupert HorstkÃ¶tter, Pavol Rusnak, Henne Vogelsang, Bryen YunashkoFigureÂ 1, â€œHoliday Geekoâ€
     
 > 
 > </blockquote>
 
 <blockquote>**
-      [Alan Clark new openSUSE Board Chairman](https://news.opensuse.org/2010/12/14/alan-clark-new-opensuse-board-chairman/)
+      [Alan Clark new openSUSE Board Chairman](http://news.opensuse.org/2010/12/14/alan-clark-new-opensuse-board-chairman/)
     **
 > 
 > **FigureÂ 2.Â Alan Clark. Chairman of the openSUSE Board**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Alan Clark. Chairman of the openSUSE Board]({{ site.baseurl }}/assets/AlanClark-252x300.jpg)
+> <td >![Alan Clark. Chairman of the openSUSE Board](/wp-content/uploads/2010/12/AlanClark.jpg)
 > </td></tr></table>
 > 
 >   
@@ -164,12 +167,12 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
       that one of the reasons he selected Alan is that he has a lot of expertise in setting up
       foundations. Alan helped to form the Open Source Development Labs (OSDL) and the Linux
       Foundation, as well as several other open source projects and organisations. We, along with
-      Markus, believe that Alan™s experience and expertise will be an asset of immense value to the
+      Markus, believe that Alanâ€™s experience and expertise will be an asset of immense value to the
       Board, and we welcome that as we, and Novell, partner together in forging ahead on an exciting
       and promising future for the openSUSE Project. 
 > 
 > Alan has already been working with us on the foundation work, but most of you probably
-      don™t know him, so we asked Alan to introduce himself: 
+      donâ€™t know him, so we asked Alan to introduce himself: 
 > 
 > Having the opportunity to work closely with the openSUSE community is an exciting
       endeavour. My work assignments over the past few years have enabled me to work directly with
@@ -232,23 +235,23 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 > 
 > </blockquote>
 
-<blockquote>**[Next Tuesday: Social Media Collaboration Day](https://news.opensuse.org/2010/12/17/next-tuesday-social-media-collaboration-day/)**
+<blockquote>**[Next Tuesday: Social Media Collaboration Day](http://news.opensuse.org/2010/12/17/next-tuesday-social-media-collaboration-day/)**
 > 
-> Last Monday the second Marketing Collaboration Day happened “ with a focus on Marketing Materials. The moderators, Chuck Payne and Bryen Yunashko, would like 
+> Last Monday the second Marketing Collaboration Day happened â€“ with a focus on Marketing Materials. The moderators, Chuck Payne and Bryen Yunashko, would like 
       to thank everyone who got involved for their hard work! It was a successful day with many items covered, added and expanded for openSUSE Marketing.
 > 
-> Among other things, some how-to™s were updated like [how to organize a Launch Party](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) (yes, openSUSE 11.4 is coming!) Moreover two short presentations on SUSE Studio 
+> Among other things, some how-toâ€™s were updated like [how to organize a Launch Party](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) (yes, openSUSE 11.4 is coming!) Moreover two short presentations on SUSE Studio 
         and OBS were created which can be used in presentations from the Ambassadors. Already some Greek ambassadors are using them and they promised to contribute back translated 
         versions. Besides the wiki and the presentations, volunteers took on the task of developing success case stories involving openSUSE, creating models for Letters 
         of Sponsorship requests, and how to collaborate and work with educational institutions.  Obviously a broad range of topics and opportunities to promote openSUSE.
 > 
-> But the team isn™t done yet. Like in the previous Collaboration Day, which focused on our Ambassador Program, several items have been picked up to be finished 
+> But the team isnâ€™t done yet. Like in the previous Collaboration Day, which focused on our Ambassador Program, several items have been picked up to be finished 
       later. Thanks for that!
 > 
-> There is a renewed energy in our team as we collectively begin to have a broader bird™s-eye view of the state of our marketing resources and build up enthusiasm 
+> There is a renewed energy in our team as we collectively begin to have a broader birdâ€™s-eye view of the state of our marketing resources and build up enthusiasm 
       and motivation amongst our team members.
 > 
-> Meanwhile, next week a new Collaboration Day will happen, this time on Tuesday December 21. This, because one of it™s principle organizers, Manu Gupta, will 
+> Meanwhile, next week a new Collaboration Day will happen, this time on Tuesday December 21. This, because one of itâ€™s principle organizers, Manu Gupta, will 
       return from his hard work at FOSS.in on Monday. The other organizer is Jos Poortvliet and the topic of this Collaboration day will be Social Media.
 > 
 > The goal is to work on our press and media channels and our communication on the web. Writing short project descriptions, gathering features for our 11.4 
@@ -256,7 +259,7 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
         all on the agenda.
 > 
 > And of course the plumbing: making sure all accounts are connected properly so an announcement or news.o.o article goes to all the proper channels automatically, 
-        making sure the account details are in the hands of several different people and much more. All in all it promises to be a great Collaboration day, so if you™re interested 
+        making sure the account details are in the hands of several different people and much more. All in all it promises to be a great Collaboration day, so if youâ€™re interested 
         in Social Media and doing some work, join us and help out!
 > 
 > The meeting will be held in the [#openSUSE-Marketing](irc://irc.freenode.net/opensuse-marketing) IRC channel on Freenode. Collaboration Days 
@@ -268,53 +271,53 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 
 ## Board Election 2010
 
-<blockquote>**[Nelson Marques: Board elections¦](http://lizards.opensuse.org/2010/12/14/board-elections/)**
+<blockquote>**[Nelson Marques: Board electionsâ€¦](http://lizards.opensuse.org/2010/12/14/board-elections/)**
 > 
-> I™ve decided to remain a spectator during this Board elections to understand the process
-      and I like the applies for the board. I can say I™m happy to see ˜mrdocs™ applying for the
+> Iâ€™ve decided to remain a spectator during this Board elections to understand the process
+      and I like the applies for the board. I can say Iâ€™m happy to see â€˜mrdocsâ€™ applying for the
       board, as he was one of the persons which helped me a lot with openSUSE Build Service in my
       early days. He always had a cool advice or a couple of minutes to make my life easier. 
 > 
-> Except for ˜mrdocs™ I really don™t know much about the other candidates, so I™ve decided
+> Except for â€˜mrdocsâ€™ I really donâ€™t know much about the other candidates, so Iâ€™ve decided
       to take a small note and expose my frustration for not seeing Sirko Kemter running for the
       Board. I would support Sirko on running to the board for several reasons: 
 > 
 > 
       
 > 
->   1. He™s the face of openSUSE Artwork team. He™s been doing awesome screencasts and
-            tutorials¦ I guess in a way, related to Artwork, which I find to be an area which is
-            underdeveloped in openSUSE, he can bring lots of new synergies¦ and a new visual
+>   1. Heâ€™s the face of openSUSE Artwork team. Heâ€™s been doing awesome screencasts and
+            tutorialsâ€¦ I guess in a way, related to Artwork, which I find to be an area which is
+            underdeveloped in openSUSE, he can bring lots of new synergiesâ€¦ and a new visual
             identity to openSUSE. 
 > 
->   2. His degree of commitment to the local German Community. I™ve seen some posts of him
-            and some of the initiatives he does. I loved the openMovie night at KommKino in Nürnberg
-            during openSUSE Conference for which he was the mastermind behind it. So he™s really a
+>   2. His degree of commitment to the local German Community. Iâ€™ve seen some posts of him
+            and some of the initiatives he does. I loved the openMovie night at KommKino in NÃ¼rnberg
+            during openSUSE Conference for which he was the mastermind behind it. So heâ€™s really a
             community guy. 
 > 
 >   3. His a vertical and direct person, which speaks his mind. This is something I love
-            on people. I don™t know Sirko from talking on the back of people, I know him from being
-            straight to point and direct. This is a very positive thing¦ 
+            on people. I donâ€™t know Sirko from talking on the back of people, I know him from being
+            straight to point and direct. This is a very positive thingâ€¦ 
 > 
->   4. Gnokii plays well the role of ˜bad cop™. That™s always good to have around.
+>   4. Gnokii plays well the role of â€˜bad copâ€™. Thatâ€™s always good to have around.
             Sometimes people need to ear more harsh things to get back into reality. Gnokii does
             this role good. 
 > 
->   5. He™s one of the most objective people I™ve seen around¦ many times bringing people
+>   5. Heâ€™s one of the most objective people Iâ€™ve seen aroundâ€¦ many times bringing people
             to reality, thus speeding up people on taking actions and drop the philosophical
             issues
 > 
 > 
     
 > 
-> I really see him as a community guy, always around, helping whenever he cans¦ He™s doing a
+> I really see him as a community guy, always around, helping whenever he cansâ€¦ Heâ€™s doing a
       great job and he should be empowered to run to the Board. 
 > 
-> For all the other candidates, which many I don™t know¦ good luck¦ with so much cool people
-      running for the Board, I can only see a smiling future ahead. I won™t vote for the Board
-      elections for some reasons, being the major¦ I won™t to split votes amongst so many cool
-      people, therefore, I™m remaining on neutral grounds wishing all the best of luck. Whatever is
-      the outcome, I™m sure openSUSE will win! 
+> For all the other candidates, which many I donâ€™t knowâ€¦ good luckâ€¦ with so much cool people
+      running for the Board, I can only see a smiling future ahead. I wonâ€™t vote for the Board
+      elections for some reasons, being the majorâ€¦ I wonâ€™t to split votes amongst so many cool
+      people, therefore, Iâ€™m remaining on neutral grounds wishing all the best of luck. Whatever is
+      the outcome, Iâ€™m sure openSUSE will win! 
 > 
 > Have a lot of fun! 
 > 
@@ -323,9 +326,9 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 > 
 > </blockquote>
 
-## ![Header Picture]({{ site.baseurl }}/assets/OWN-oxygen-Board1.png)Status Updates
+## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Board1.png)Status Updates
 
-### ![Header Picture]({{ site.baseurl }}/assets/Suse_Box.png)Distribution
+### ![Header Picture](/wp-content/uploads/2010/12/Suse_Box.png)Distribution
 
 **Important Links**
 
@@ -337,7 +340,7 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 
 ### Team Report
 
-#### ![Header Picture]({{ site.baseurl }}/assets/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Build-Service.png)Build Service Team
 
 <blockquote>**
           [Stephan Kulow: How we use our power](http://lizards.opensuse.org/2010/12/16/how-we-use-our-power/)
@@ -345,19 +348,19 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 > 
 > I had a side project the last two weeks: Make the build service more fun to use. 
 > 
-> No matter how much fun you have creating packages, if they don™t build, there is
+> No matter how much fun you have creating packages, if they donâ€™t build, there is
           little point in using a Service that has Build in its name, no? So one of the major goals
           of the service is actually to help those that want to build packages as good as possible.
           But there is a problem: 
 > 
-> Let me quote from the landing page of [build.opensuse.org](https://build.opensuse.org/): The openSUSE Build Service hosts 16,414 projects, with
-          107,691 packages, in 26,259 repositories and is used by 25,967 confirmed users.. That are
-          quite some high numbers “ especially in the relation to the ~25 servers we have for
+> Let me quote from the landing page of [build.opensuse.org](https://build.opensuse.org/): â€œThe openSUSE Build Service hosts 16,414 projects, with
+          107,691 packages, in 26,259 repositories and is used by 25,967 confirmed users.â€. That are
+          quite some high numbers â€“ especially in the relation to the ~25 servers we have for
           actually building. 
 > 
 > If you look at the build statistics of the last month (and this is just i586, x86_64
-          has around the same), you notice that there is not much purple in the Busy workers / Idle
-          workers graphic:
+          has around the same), you notice that there is not much purple in the â€œBusy workers / Idle
+          workersâ€ graphic:
 > 
 > **FigureÂ 3.Â Buildservice**
 > 
@@ -372,11 +375,11 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 > 
 > </blockquote>
 
-<blockquote>**[Marcus Hüwe: osc 0.130.1 (bugfix release)](http://lizards.opensuse.org/2010/12/18/osc-0-130-1-bugfix-release/)**
+<blockquote>**[Marcus HÃ¼we: osc 0.130.1 (bugfix release)](http://lizards.opensuse.org/2010/12/18/osc-0-130-1-bugfix-release/)**
 > 
 > I just released a new osc version: 0.130.1 (bugfix release). The following issues were fixed:
 > 
->   * don™t crash if a file marked as ˜A™ does not exist ([bnc#658664](https://bugzilla.novell.com/show_bug.cgi?id=658664))
+>   * donâ€™t crash if a file marked as â€˜Aâ€™ does not exist ([bnc#658664](https://bugzilla.novell.com/show_bug.cgi?id=658664))
 > 
 >   * fixed proxy handling ([bnc#657958](https://bugzilla.novell.com/show_bug.cgi?id=657958))
 > 
@@ -391,21 +394,21 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 
 **Build Service Statistics.Â **Statistics can found at [Buildservice](http://build.opensuse.org)
 
-#### ![Header Picture]({{ site.baseurl }}/assets/GNOME-foot.jpg)GNOME Team
+#### ![Header Picture](/wp-content/uploads/2010/12/GNOME-foot.jpg)GNOME Team
 
 <blockquote>**
-          [Nelson Marques: New Indicators¦ the saga continues¦](http://lizards.opensuse.org/2010/12/10/new-indicators-the-saga-continues/)
+          [Nelson Marques: New Indicatorsâ€¦ the saga continuesâ€¦](http://lizards.opensuse.org/2010/12/10/new-indicators-the-saga-continues/)
         **
 > 
-> As the indicator saga continues¦ some new indicators were built¦ Indicator-messages is
+> As the indicator saga continuesâ€¦ some new indicators were builtâ€¦ Indicator-messages is
           a small indicator that pics up messages and stuff from applications to display them on a
-          nice all-around indicator. It works fine with evolution (plugin also built and doesn™t
-          require patching for what I™ve seen). 
+          nice all-around indicator. It works fine with evolution (plugin also built and doesnâ€™t
+          require patching for what Iâ€™ve seen). 
 > 
 > This indicator support more applications, though they require some patching. As being
           discussed on the opensuse-GNOME mailing list as as proposed by Vincent Untz, this
           indicators are moving to GNOME:Apps and there _might_ an effort to support some features
-          in applications like empathy. Keep in mind this is not a priority, but if it™s possible to
+          in applications like empathy. Keep in mind this is not a priority, but if itâ€™s possible to
           support some more feature, it might happen.
 > 
 > **FigureÂ 4.Â Screenshot**
@@ -417,37 +420,37 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 >   
 
 > 
-> AdditionallyFigureÂ 4, Screenshot, I™ve also tried some other indicators¦ indicator-application for what I
-          can tell is an indicator that removes the menu™s from the GTK applications and places them
-          on the panel (MAC style). I™ve built this indicator, but I have no means to test yet
-          because further patching is required at least in GTK and eventually on glib. I don™t think
-          there™s actually any need to have this indicator, specially when it will bring additional
+> AdditionallyFigureÂ 4, â€œScreenshotâ€, Iâ€™ve also tried some other indicatorsâ€¦ indicator-application for what I
+          can tell is an indicator that removes the menuâ€™s from the GTK applications and places them
+          on the panel (MAC style). Iâ€™ve built this indicator, but I have no means to test yet
+          because further patching is required at least in GTK and eventually on glib. I donâ€™t think
+          thereâ€™s actually any need to have this indicator, specially when it will bring additional
           efforts on GTK maintenance, and this feature is somehow supported by software like
-          gnome-globalmenu (which I™ve also packaged for myself and works dearly with supported
+          gnome-globalmenu (which Iâ€™ve also packaged for myself and works dearly with supported
           apps). 
 > 
-> I™ve done some hammering on indicator-sound as well¦ Ubuntu™s sound widget¦ I™m stuck
-          with some error and I have 2 possibilities¦ downgrade to the last version of the previous
-          branch which should built, or work the current branch (more dependency demanding). I™m
-          working on it¦ it will happen one way or another during the next days. I guess this one is
+> Iâ€™ve done some hammering on indicator-sound as wellâ€¦ Ubuntuâ€™s sound widgetâ€¦ Iâ€™m stuck
+          with some error and I have 2 possibilitiesâ€¦ downgrade to the last version of the previous
+          branch which should built, or work the current branch (more dependency demanding). Iâ€™m
+          working on itâ€¦ it will happen one way or another during the next days. I guess this one is
           actually one of the most wanted :) 
 > 
-> There are few other indicators¦ for time and date, calendar and so on¦ Those will be
-          last ones. After indicator-sound is done, I™m starting to clean up the packaging and make
-          sure it™s compliant to the GNOME team methodology and submit them to GNOME:Apps and the
+> There are few other indicatorsâ€¦ for time and date, calendar and so onâ€¦ Those will be
+          last ones. After indicator-sound is done, Iâ€™m starting to clean up the packaging and make
+          sure itâ€™s compliant to the GNOME team methodology and submit them to GNOME:Apps and the
           support libraries that are required as dependencies forwarded to projects where they might
           be useful (need to check out with the people which ones those will be). 
 > 
 > A special thanks to Ken Vandine from Canonical for some guidance with libindicate. 
 > 
-> I™ve seen around some ˜hate™ waves towards Canonical, and I would like to say that so
-          far in the few times I™ve interacted with them, either on bug submission or asking help,
-          they have been awesome and caring. It™s really something I would like to point¦ they are
-          pretty cool, and their devs are very helpful (but hey¦ so are our devs ;) ). Also a very
+> Iâ€™ve seen around some â€˜hateâ€™ waves towards Canonical, and I would like to say that so
+          far in the few times Iâ€™ve interacted with them, either on bug submission or asking help,
+          they have been awesome and caring. Itâ€™s really something I would like to pointâ€¦ they are
+          pretty cool, and their devs are very helpful (but heyâ€¦ so are our devs ;) ). Also a very
           special thanks to Vincent Untz, Dimstar and mrdocs which have been a great help and from
-          whom I™ve learned already a lot.
+          whom Iâ€™ve learned already a lot.
 > 
-> So picking up the useful stuff¦ and placing it up together in a single Indicator:
+> So picking up the useful stuffâ€¦ and placing it up together in a single Indicator:
 > 
 > **FigureÂ 5.Â Screenshot 2**
 > 
@@ -458,15 +461,15 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 >   
 
 > 
-> FigureÂ 5, Screenshot 2
+> FigureÂ 5, â€œScreenshot 2â€
 > 
 > </blockquote>
 
 <blockquote>**[Nelson
           Marques: Last Indicator builds!](http://lizards.opensuse.org/2010/12/13/last-indicator-builds/)**
 > 
-> Finally¦ the last of the indicators builds and works properly¦ fun thing¦ works out of the
-          box with Banshee! Two pics¦ one from the indicator-sound and another from the messaging
+> Finallyâ€¦ the last of the indicators builds and works properlyâ€¦ fun thingâ€¦ works out of the
+          box with Banshee! Two picsâ€¦ one from the indicator-sound and another from the messaging
           indicator with empathy and evolution support.
 > 
 > **FigureÂ 6.Â Picture 1**
@@ -487,7 +490,7 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 >   
 </blockquote>
 
-#### ![Header Picture]({{ site.baseurl }}/assets/Kde-logo.jpg)KDE Team
+#### ![Header Picture](/wp-content/uploads/2010/12/Kde-logo.jpg)KDE Team
 
 <blockquote>**
           [Raymond Wooninck: openSUSE KDE:Unstable:SC repo builds newer snapshots of 4.6 with all openSUSE packages](http://tittiatcoke.wordpress.com/2010/12/13/opensuse-kdeunstablesc-repo-builds-newer-snapshots-of-4-6-with-all-opensuse-packages/)
@@ -514,11 +517,11 @@ We are pleased to announce our 154 issue of the openSUSE Weekly News.
 > 
 > Feel free to contact me over email or on IRC (tittiatcoke) if you have any questions
           about this. So far KDE 4.6 has been a very stable release and also KDEPIM 4.6 is looking
-          better. Let™s hope that the last glitches are also resolved, before KDE 4.6 is released. 
+          better. Letâ€™s hope that the last glitches are also resolved, before KDE 4.6 is released. 
 > 
 > </blockquote>
 
-#### ![Header Picture]({{ site.baseurl }}/assets/Logo-fate.png)openFATE Team
+#### ![Header Picture](/wp-content/uploads/2010/12/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -662,7 +665,7 @@ is an avant-garde/forefront browser flash player with modern hardware support de
 
 Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statistic/product/22236)
 
-#### ![Header Picture]({{ site.baseurl }}/assets/Suse_Box.png)Testing Team
+#### ![Header Picture](/wp-content/uploads/2010/12/Suse_Box.png)Testing Team
 
 <blockquote>**[Larry Finger: Weekly News for December 18](http://lists.opensuse.org/opensuse-testing/2010-12/msg00004.html)**
 > 
@@ -687,14 +690,14 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 > 
 > </blockquote>
 
-#### ![Header Picture]({{ site.baseurl }}/assets/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](/wp-content/uploads/2010/12/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the
           [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture]({{ site.baseurl }}/assets/Icon-project.png)In the Community
+## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
 
 ### Postings from the Community
 
@@ -709,7 +712,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 <blockquote>**[Sirko Kemter: Event review 2010](http://karl-tux-stadt.de/ktuxs/?p=2933)**
 > 
-> 2010 is nearly over now, time to look backwards what I did this year.The year begun for me with one of the greatest events arround IT the Cebit. I wasnt the whole week in Hanover, I missed the first day because I had an appointment on this day. The next day, I missed my train then but I arrived right at the point. I had a invitation to a press conference so had only enough time for changing the shirt. Btw there was deliciuos apples served at the conference ;) The rest of the week we had a lot of interviews and press conferences, most of them not so interesting for the people. But with the openPandora project our stage was really filled up.FigureÂ 8, Picture from cebit (...)
+> 2010 is nearly over now, time to look backwards what I did this year.The year begun for me with one of the greatest events arround IT the Cebit. I wasnt the whole week in Hanover, I missed the first day because I had an appointment on this day. The next day, I missed my train then but I arrived right at the point. I had a invitation to a press conference so had only enough time for changing the shirt. Btw there was deliciuos apples served at the conference ;) The rest of the week we had a lot of interviews and press conferences, most of them not so interesting for the people. But with the openPandora project our stage was really filled up.FigureÂ 8, â€œPicture from cebitâ€ (...)
 > 
 > </blockquote>
 
@@ -733,19 +736,19 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
         foundation, I heard a lot about server based softwares like varnish, powerdns etc and also a
         lot of info on semantic mediawiki. One of the keyfeatures which mediawiki foundation would
         like to have is realtime editing just like etherpad. The talk was awesome and I hope to
-        attend tomorow™s mediawiki workshop. It was lunch time and I met some guys from [openSUSE](http://suseware.com/blog/tag/opensuse/) like Akhil Ladha and Bharath
-        Acharya. Bharath Acharya kept on saying Oh! You are the SUSE blog guy rite. Both of them
+        attend tomorowâ€™s mediawiki workshop. It was lunch time and I met some guys from [openSUSE](http://suseware.com/blog/tag/opensuse/) like Akhil Ladha and Bharath
+        Acharya. Bharath Acharya kept on saying â€œOh! You are the SUSE blog guy riteâ€. Both of them
         are very nice fellows but could not be with them for a lot, I hope to meet them tomorrow.
         (...)
 > 
 > </blockquote>
 
-<blockquote>**[Educational track at openSUSE conference 2010 big success](https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/)**
+<blockquote>**[Educational track at openSUSE conference 2010 big success](http://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/)**
 > 
 > **FigureÂ 9.Â Heinz with Skolelinux**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Heinz with Skolelinux]({{ site.baseurl }}/assets/heinz-skolelinux.jpg)
+> <td >![Heinz with Skolelinux](/wp-content/uploads/2010/10/heinz-skolelinux.jpg)
 > </td></tr></table>
 > 
 >   
@@ -766,7 +769,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
         technology providing very good application responsiveness over high latency, low bandwidth
         links like the Internet. X2go upstream developer Heinz M. Graesing gave a talk about
         Skolelinux and also gave some insights of his work on X2go. He attended also other sessions,
-        including one by openSUSE™s Michael Kromer about X2go installation, configuration and best
+        including one by openSUSEâ€™s Michael Kromer about X2go installation, configuration and best
         practices on openSUSE and SLES. openSUSE is very close to upstream X2go and Heinz came away
         impressed, asking for the code behind one of the demoed features!
 > 
@@ -805,31 +808,31 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 **Past**
 
-  * [December 13, 2010 : Marketing Collaboration Day - Marketing Materials Review](https://news.opensuse.org/2010/12/02/marketing-materials-review/)
+  * [December 13, 2010 : Marketing Collaboration Day - Marketing Materials Review](http://news.opensuse.org/2010/12/02/marketing-materials-review/)
 
-  * [December 14, 2010 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
+  * [December 14, 2010 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
 
-  * [December 15, 2010 : openSUSE Board Meeting](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [December 15, 2010 : openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [December 15, 2010 : openSUSE Board Meeting](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [December 15, 2010 : openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [December 16, 2010 : openSUSE GNOME Meeting ](https://news.opensuse.org/2010/11/24/opensuse-gnome-meeting-11/)
+  * [December 16, 2010 : openSUSE GNOME Meeting ](http://news.opensuse.org/2010/11/24/opensuse-gnome-meeting-11/)
 
 **Upcoming**
 
   * [December 20, 2010 : openFATE screening day](http://lists.opensuse.org/archive/opensuse-project/2010-12/msg00302.html)
 
-  * [December 21, 2010 : Marketing Collaboration Day - PR and Social Media Review](https://news.opensuse.org/2010/12/02/pr-social-media-review/)
+  * [December 21, 2010 : Marketing Collaboration Day - PR and Social Media Review](http://news.opensuse.org/2010/12/02/pr-social-media-review/)
 
-  * [December 22, 2010 : German Wiki Team Meeting](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [December 22, 2010 : German Wiki Team Meeting](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
-  * [December 23, 2010 : ï»¿openSUSE KDE Team meeting](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [December 23, 2010 : ï»¿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
-  * [December 27, 2010 : openSUSE Testing Core Team IRC Meeting](https://news.opensuse.org/2010/12/13/opensuse-testing-core-team-irc-meeting-2/)
+  * [December 27, 2010 : openSUSE Testing Core Team IRC Meeting](http://news.opensuse.org/2010/12/13/opensuse-testing-core-team-irc-meeting-2/)
 
-  * [December 29, 2010 : openSUSE Board Meeting](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [December 29, 2010 : openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -840,7 +843,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 <blockquote>**
         [Nelson
-          Marques: Outcome of the Christmas dinner¦](http://lizards.opensuse.org/2010/12/12/outcome-of-the-christmas-dinner/)
+          Marques: Outcome of the Christmas dinnerâ€¦](http://lizards.opensuse.org/2010/12/12/outcome-of-the-christmas-dinner/)
       **
 > 
 > Nelson Marques gives us a good summary about the Christmas Dinner in Portugal.
@@ -865,7 +868,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
         an event I was alone and I had difficulties on talking to everybody since there were a lot
         of people that were really got interesting in openSUSE. This time Stathis would come with me
         and we asked other people to come to help if they could. The response was immediate from 2
-        members that came and helped us for more than 7 hours.FigureÂ 10, Me and Stathis(diamond_gr)
+        members that came and helped us for more than 7 hours.FigureÂ 10, â€œMe and Stathis(diamond_gr)â€
 > 
 > **FigureÂ 11.Â Our member Ipparion giving instructions about openSUSE**
 > 
@@ -884,7 +887,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
         superiority since we went to the event like a team,we worked as a team and we managed to do
         all the right things a community should do. Older communities from openSUSE community were
         present but not even close to our level of organization. And although the great amount of
-        work we made, still we had a lot of fun. FigureÂ 11, Our member Ipparion giving instructions about openSUSE
+        work we made, still we had a lot of fun. FigureÂ 11, â€œOur member Ipparion giving instructions about openSUSEâ€
 > 
 > </blockquote>
 
@@ -898,7 +901,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
   * [The User Directory](http://users.opensuse.org)
 
-## ![Header Picture]({{ site.baseurl }}/assets/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
+## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
 <blockquote>**[Packman: clementine
         0.6-8.1](http://packman.links2linux.org/package/clementine/198133)**
@@ -919,7 +922,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
       have created a new package chromium-ffmpeg which delivers the missing libffmpegsumo.so
       library. The package is available from packman and it builds the patched ffmpeg code. 
 > 
-> It still doesn™t really work 100%, but it should resolve some multimedia issues that
+> It still doesnâ€™t really work 100%, but it should resolve some multimedia issues that
       people have been experiencing with the openSUSE Chromium package. In the meantime Chromium has
       already reached version 10.x.x.x, so check out the changes. 
 > 
@@ -947,7 +950,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > **FigureÂ 12.Â Firefox Screenshot**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Firefox Screenshot](http://www.tuxarena.com/wp-content/uploads/2010/12/firefox4beta7-300x189.png)
+> <td >![Firefox Screenshot](http://www.tuxarena.com/wp-content/uploads/2010/12/firefox4beta7.png)
 > </td></tr></table>
 > 
 >   
@@ -975,7 +978,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
   * [openSUSE Build
         Service](https://hermes.opensuse.org/feeds/66367.rdf)
 
-## ![Header Picture]({{ site.baseurl }}/assets/Logo-SecurityUpdates.png)Security Updates
+## ![Header Picture](/wp-content/uploads/2010/12/Logo-SecurityUpdates.png)Security Updates
 
 To view the security announcements in full, or to receive them
     as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
@@ -1029,7 +1032,7 @@ To view the security announcements in full, or to receive them
 > </td>
         </tr></tbody></table></blockquote>
 
-## ![Header Picture]({{ site.baseurl }}/assets/Tux.svg_.png)Kernel Review
+## ![Header Picture](/wp-content/uploads/2010/12/Tux.svg_.png)Kernel Review
 
 <blockquote>**[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.37 (Part 3) - Network and storage hardware](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-3-Network-and-storage-hardware-1153025.html)
     **
@@ -1044,7 +1047,7 @@ To view the security announcements in full, or to receive them
         anticipates](http://thread.gmane.org/gmane.linux.kernel/1072835/focus%3D1073162) that unless new problems appear and cause delay, he will release kernel
       version 2.6.37 in early January, . 
 > 
-> The Kernel Log will continue its Coming in 2.6.37 mini series with a discussion of the
+> The Kernel Log will continue its â€œComing in 2.6.37â€ mini series with a discussion of the
       advances in terms of storage and network hardware drivers and infrastructure. [Part 1 of the series](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-1-Graphics-1144218.html) described the changes in the graphics hardware area, while
         [part 2](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-2-File-systems-1148305.html) discussed the file system changes. In the coming weeks, further articles
       will discuss the changes to the kernel's architecture code, drivers and surrounding
@@ -1052,7 +1055,7 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-## ![Header Picture]({{ site.baseurl }}/assets/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
+## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
 ### For Desktop Users
 
@@ -1104,7 +1107,7 @@ To view the security announcements in full, or to receive them
         just an Android device that runs eBook software. But if you don't get the gadget of your
         choice, or if you want to create content to fill one, you'll find plenty of eBook software
         for Linux as well as open source software to publish your own. The best of the lot? Calibre,
-        a one stop solution for all your e-book needs. I didn't coin that term for Calibre ” that's
+        a one stop solution for all your e-book needs. I didn't coin that term for Calibre â€” that's
         their motto. How accurate is it? Very. Calibre handles library management, format
         conversion, syncing to your device, and more. Oh, and it also lets you read your books too.
         Nice, eh?
@@ -1126,7 +1129,7 @@ To view the security announcements in full, or to receive them
 > One of the problems with eBooks, or some eBooks, is Digital Restriction Management
         (DRM). Yes, the industry likes to call it Digital Right's Management, but that's really not
         what's going on. When you buy books from Amazon, Barnes and Noble, Apple, etc.the books are
-        encrypted with DRM so that you can't open them on multiple devices or competing devices ”
+        encrypted with DRM so that you can't open them on multiple devices or competing devices â€”
         even if they support the same format. For example, ePub is a widely supported format that
         can be read by a number of eBook devices like Barnes and Noble's Nook and iBooks on iOS. If
         you have an ePub book without DRM, you can read it anywhere. 
@@ -1160,7 +1163,7 @@ To view the security announcements in full, or to receive them
         distribution. Keep in mind that it is preview software, actually pre-release code quality,
         and with it you will not receive any security updates. Keep an eyes on it, and refresh it
         manually if newer version are published So why to try that software ? My answer is simple :
-        it™s a native 64bits plug-in. So it™s interaction with your native 64bits browser, should
+        itâ€™s a native 64bits plug-in. So itâ€™s interaction with your native 64bits browser, should
         give you a better stability. My experience using it in the last 4 months is pretty good, no
         Firefox crash due to flash. (Several pro week or day with the 32bits 10.0 version) 
 > 
@@ -1200,7 +1203,7 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-## ![Header Picture]({{ site.baseurl }}/assets/Logo-PlanetSUSE.png)Planet SUSE
+## ![Header Picture](/wp-content/uploads/2010/12/Logo-PlanetSUSE.png)Planet SUSE
 
 <blockquote>**[Andreas Jaeger: Fixing smugbatch for new smugmug API](http://andreasjaeger.blogspot.com/2010/12/fixing-smugbatch-for-new-smugmug-api.html)**
 > 
@@ -1227,10 +1230,10 @@ To view the security announcements in full, or to receive them
       party pooper is that you have to write a spec file to get your RPMs out there. Thanks to
         [darix](http://nordisch.org/), we have a decent solution at least for Ruby
       packages: gem2rpm, a script which auto-generates RPM spec files for Ruby gems. Ever wondered
-      why we don™t have something similar for Python? Well, I did so too. Thus, after a half a week
-      of hackery, I™d like to introduce [py2pack](http://pypi.python.org/pypi/py2pack), my take on braindead Python packaging. Here™s how it goes: 
+      why we donâ€™t have something similar for Python? Well, I did so too. Thus, after a half a week
+      of hackery, Iâ€™d like to introduce [py2pack](http://pypi.python.org/pypi/py2pack), my take on braindead Python packaging. Hereâ€™s how it goes: 
 > 
-> Lets suppose you want to package [zope.interface](http://pypi.python.org/pypi/zope.interface) and you don™t know how it is named exactly or where to download
+> Lets suppose you want to package [zope.interface](http://pypi.python.org/pypi/zope.interface) and you donâ€™t know how it is named exactly or where to download
       from. First of all, you can search for it and download the source tarball automatically if you
       found the correct module:
 >     
@@ -1325,7 +1328,7 @@ To view the security announcements in full, or to receive them
 <blockquote>**[Andrew
         Wafaa: Fed up of FUD against Novell, SUSE](http://www.wafaa.eu/entry/fed-up-of-fud-against-novell-suse--opensuse-1-47.html)**
 > 
-> tl;dr “ To all you doomsday FUD mongers about Novell/SUSE/openSUSE STFU & let us show
+> tl;dr â€“ To all you doomsday FUD mongers about Novell/SUSE/openSUSE STFU & let us show
       you what we can and will do!! 
 > 
 > For those living under a rock, yes Novell has agreed to be acquired. Welcome to the world
@@ -1336,14 +1339,14 @@ To view the security announcements in full, or to receive them
       speculation is at best counter productive, at worst foolish and damaging. 
 > 
 > As with any form of speculation there are no facts to back up what they reckon is going to
-      happen “ hence the speculation. If there is enough negative talk, negative things will happen.
+      happen â€“ hence the speculation. If there is enough negative talk, negative things will happen.
       Current customers will look at switching from Novell products whether they be SUSE based or
       not, purely based on all the negativity that is being generated. 
 > 
-> No-one is giving Attachemate a chance to prove what they have openly said “ Novell, SUSE
+> No-one is giving Attachemate a chance to prove what they have openly said â€“ Novell, SUSE
       and openSUSE's contribution to the wider community will continue and that it is business as
       usual. If you look at when Oracle bought Sun they said sod all about OpenSolaris and the rest
-      of Sun. This is different. The new overlords are actually communicating “ maybe not as much as
+      of Sun. This is different. The new overlords are actually communicating â€“ maybe not as much as
       we would like, but hey it's a bloody good step in the right direction. 
 > 
 > The latest negative piece comes from the [451 Group](http://blogs.the451group.com/opensource/2010/12/08/linux-kernel-solid-but-what-will-become-of-novell-contribution). Why the frig would Novell's purchase change their kernel contributions?
@@ -1377,13 +1380,13 @@ To view the security announcements in full, or to receive them
       resumes to apply for a job. So how would one do that without a computer? 
 > 
 > Computing is not only hardware and well known operating systems and applications are far
-      away from free, so it™s obvious that our great project is a perfect partner here: Not that we
+      away from free, so itâ€™s obvious that our great project is a perfect partner here: Not that we
       only offer a user friendly, easy to install, secure, feature rich and last but not least
       completely free [Linux
         Distribution](http://en.opensuse.org/Portal:Distribution), we as a community are also able to help if problems come up,
       regardless if somebody has money or not and what kind of problem it might be. This is another
       very concrete example where free software and the FOSS communities help your neighbor, or you
-      “ as it is very easy to get into a difficult situation in life. 
+      â€“ as it is very easy to get into a difficult situation in life. 
 > 
 > We sent 500 openSUSE 11.3 DVDs to Hamburg with our warm invitation and welcome to all new
       users to show up and join our community. So be aware of new kids on the block :-) 
@@ -1396,7 +1399,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**[Nelson
-        Marques: 10 minutes of YOUR time¦](http://lizards.opensuse.org/2010/12/16/10-minutes-of-your-time/)**
+        Marques: 10 minutes of YOUR timeâ€¦](http://lizards.opensuse.org/2010/12/16/10-minutes-of-your-time/)**
 > 
 > **FigureÂ 14.Â Be a pirate**
 > 
@@ -1407,57 +1410,57 @@ To view the security announcements in full, or to receive them
 >   
 
 > 
-> Fellow openSUSE Contributor, I am not as gifted as Mizmo, so I can™t really present some
-      cool metaphore in the form of a cartoon¦ Nevertheless I will try my best.FigureÂ 14, Be a pirate
+> Fellow openSUSE Contributor, I am not as gifted as Mizmo, so I canâ€™t really present some
+      cool metaphore in the form of a cartoonâ€¦ Nevertheless I will try my best.FigureÂ 14, â€œBe a pirateâ€
 > 
-> During the OSC2010 in Nürnberg I tried without much success to pass on the word that
-      Marketing isn™t about a Team, but comes also down to us. This in an awesome time to
-      demonstrate that on practice¦ Right now with an important release on the horizon, your
+> During the OSC2010 in NÃ¼rnberg I tried without much success to pass on the word that
+      Marketing isnâ€™t about a Team, but comes also down to us. This in an awesome time to
+      demonstrate that on practiceâ€¦ Right now with an important release on the horizon, your
       Marketing team is starting a process to gather information to promote the features of the next
-      release. Speaking for myself, I don™t feel confortable in taking an assingment of gathering
-      features for example about the Kernel. As I won™t feel confortable producing contents about
-      KDE which I barelly know¦ Nevertheless if those contents aren™t provided to us¦. we have to
-      dig for them¦ sometimes not even having a clue of the extention of their importance. 
+      release. Speaking for myself, I donâ€™t feel confortable in taking an assingment of gathering
+      features for example about the Kernel. As I wonâ€™t feel confortable producing contents about
+      KDE which I barelly knowâ€¦ Nevertheless if those contents arenâ€™t provided to usâ€¦. we have to
+      dig for themâ€¦ sometimes not even having a clue of the extention of their importance. 
 > 
-> Many times I™ve heard the ultimate excuse ˜Marketing is for Ubuntu, because they are just
-      Marketing and nothing else™¦ and things on that line¦ Well¦ think again¦ who™s fault is this
+> Many times Iâ€™ve heard the ultimate excuse â€˜Marketing is for Ubuntu, because they are just
+      Marketing and nothing elseâ€™â€¦ and things on that lineâ€¦ Wellâ€¦ think againâ€¦ whoâ€™s fault is this
       that only them care about Marketing ? I see a good opportunity for you all to achieve some
-      things in the next days¦ with only 10 minutes of your time¦ and why could be nice it happened
+      things in the next daysâ€¦ with only 10 minutes of your timeâ€¦ and why could be nice it happened
       this way:
 > 
->   * You run a project that is on Factory¦ cool¦ Please take 10 minutes, make a small
-            list of 10 features that are really cool on the next release¦ make a 7/15 lines text on
-            how your project changed and the benefit of the improvements for our users (if you don™t
-            know your users, then write it as if you were talking about yourself)¦ This way you save
-            your Marketing Team ˜wild goose chase™ on a stack of Changelogs we might not understand¦
-            even worst, we might even pass on the wrong stuff¦.
+>   * You run a project that is on Factoryâ€¦ coolâ€¦ Please take 10 minutes, make a small
+            list of 10 features that are really cool on the next releaseâ€¦ make a 7/15 lines text on
+            how your project changed and the benefit of the improvements for our users (if you donâ€™t
+            know your users, then write it as if you were talking about yourself)â€¦ This way you save
+            your Marketing Team â€˜wild goose chaseâ€™ on a stack of Changelogs we might not understandâ€¦
+            even worst, we might even pass on the wrong stuffâ€¦.
 > 
->   * By doing this¦ you are doing Marketing¦ you are promoting your own project within
-            openSUSE, giving it more visibility and with 10 mins of your time¦ you will pass on the
+>   * By doing thisâ€¦ you are doing Marketingâ€¦ you are promoting your own project within
+            openSUSE, giving it more visibility and with 10 mins of your timeâ€¦ you will pass on the
             right word to the Marketing Team and help them. Instead of spending 50 hours searching
             for stuff and taking some hard decisions that might not work out in the best way for
             YOUR project, we have 50 mins more to work your information and make sure it is better
             used for the interests of YOUR project.
 > 
->   * If Marketing takes 3 features to write an article or make Marketing materials¦ and
-            just lists the other 7¦ If like at least we get contributions in this form from: Kernel,
-            GNOME, KDE and Ambassadors (yes, people should also be on the release)¦ thats 3Ã—4 = 12
+>   * If Marketing takes 3 features to write an article or make Marketing materialsâ€¦ and
+            just lists the other 7â€¦ If like at least we get contributions in this form from: Kernel,
+            GNOME, KDE and Ambassadors (yes, people should also be on the release)â€¦ thats 3Ã—4 = 12
             featured articles for the release and a feature list of 40 new exciting
-            features¦.
+            featuresâ€¦.
 > 
-> Now¦ does this seem so surreal to ask 10 minutes of your time to help out your
+> Nowâ€¦ does this seem so surreal to ask 10 minutes of your time to help out your
       Marketing Team and make the best release ever! Oh! And have a lot of fun! 
 > 
-> Someone said that I was crazy¦ and that projects and developers would never comply and
-      would most likely laugh on my face after proposing such thing¦ I might be crazy¦ or I might
-      very well on the wrong track. I™ve decided not to back down from facing the ˜mob™, and still
+> Someone said that I was crazyâ€¦ and that projects and developers would never comply and
+      would most likely laugh on my face after proposing such thingâ€¦ I might be crazyâ€¦ or I might
+      very well on the wrong track. Iâ€™ve decided not to back down from facing the â€˜mobâ€™, and still
       risking to be laughed upon, I brought this to your attention.
 > 
 > Become a openSUSE Pirate ? [You-are-a-pirate](http://www.youtube.com/watch?v=JiPnuuE60r8) Youtube Video.
 > 
 > </blockquote>
 
-## ![Header Picture]({{ site.baseurl }}/assets/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
+## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
 
 <blockquote>**[Greek subforums now open](http://forums.opensuse.org/english/news/announcements/450971-greek-language-forums-now-open.html)**
 > 
@@ -1499,7 +1502,7 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-## ![Header Picture]({{ site.baseurl }}/assets/OWN-oxygen-On-the-Web.png)On the Web
+## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-On-the-Web.png)On the Web
 
 ### Announcements
 
@@ -1523,7 +1526,7 @@ To view the security announcements in full, or to receive them
         to create options for customers to move forward, not force them to abandon products that
         have become critical to their operation and success. We will continue to invest in both the
         innovation of next-generation products and the nurturing of more mature and widely adopted
-        solutions. We understand that our customers™ success depends on having the flexibility to
+        solutions. We understand that our customersâ€™ success depends on having the flexibility to
         evolve and adopt new technologies at their own pace and cadence. We intend to support that
         need. 
 > 
@@ -1590,28 +1593,28 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-<blockquote>**[The VAR Guy: Novell™s Sale to Attachmate: The Untold Story Finally
+<blockquote>**[The VAR Guy: Novellâ€™s Sale to Attachmate: The Untold Story Finally
         Revealed](http://www.thevarguy.com/2010/12/16/novells-sale-to-attachmate-the-untold-story-finally-revealed/)**
 > 
-> The VAR Guy did some digging and found an SEC filing that more fully describes Novell™s
-        pending sale to Attachmate. The filing describes how J.P. Morgan, working on Novell™s
+> The VAR Guy did some digging and found an SEC filing that more fully describes Novellâ€™s
+        pending sale to Attachmate. The filing describes how J.P. Morgan, working on Novellâ€™s
         behalf, shopped Novell around to multiple bidders, and Novell mulled potential deals
         involving Microsoft and other unnamed companies. Novell even considered running SUSE Linux
-        as a standalone business. Here™s the story only The VAR Guy took the time to pursue. 
+        as a standalone business. Hereâ€™s the story only The VAR Guy took the time to pursue. 
 > 
 > Overall, Novell representatives contacted 52 potential buyers. Roughly nine official
-        bidders emerged. So how did Attachmate wind up buying the bulk of Novell™s assets? And what
+        bidders emerged. So how did Attachmate wind up buying the bulk of Novellâ€™s assets? And what
         happened to rumored SUSE Linux bids from VMware? In a preliminary [proxy statement](http://sec.gov/Archives/edgar/data/758004/000119312510279941/0001193125-10-279941-index.htm) dated December 14, Novell offers an extensive time line
-        describing how the company™s board of directors, executive team, and external financial
+        describing how the companyâ€™s board of directors, executive team, and external financial
         advisors pursued potential buyers for the company. The filing is more than 100 pages. Here
         are some of the highlights, paraphrased by The VAR Guy. Please note:
 > 
->   * The vast majority of the info below is based on information within Novell™s SEC
+>   * The vast majority of the info below is based on information within Novellâ€™s SEC
               filing.
 > 
 >   * Novell protects the names of several bidders, referring to them as Party A through
               Party E. In some cases, The VAR Guy makes some educated guesses about the actual
-              identity of each company. But The VAR Guy™s educated guesses could be wrong.
+              identity of each company. But The VAR Guyâ€™s educated guesses could be wrong.
               (...)
 > 
 > </blockquote>
@@ -1621,18 +1624,18 @@ To view the security announcements in full, or to receive them
 <blockquote>**[ZDNet/Steven J. Vaughan-Nichols: Roll your own Linux distribution with Novell's SUSE
         Studio](http://www.zdnet.com/blog/open-source/roll-your-own-linux-distribution-with-novells-suse-studio/7972)**
 > 
-> One of the advantages of Linux is that you™ve always been able to build your own Linux
-        distribution¦ if you were an expert programmer. But, today thanks to programs like [Novell](http://www.novell.com/)™s [SUSE
-            Studio](http://susestudio.com/) it™s easier than ever to create Linux appliances or your house-brand Linux. 
+> One of the advantages of Linux is that youâ€™ve always been able to build your own Linux
+        distributionâ€¦ if you were an expert programmer. But, today thanks to programs like [Novell](http://www.novell.com/)â€™s [SUSE
+            Studio](http://susestudio.com/) itâ€™s easier than ever to create Linux appliances or your house-brand Linux. 
 > 
 > For proof that you can use SUSE Studio to create useful applications look no further
-        than the winners of [Novell™s Dister Awards](http://www.novell.com/promo/suse/the-disters-contest.html). The two $10,000 grand prizes went to software companies,
+        than the winners of [Novellâ€™s Dister Awards](http://www.novell.com/promo/suse/the-disters-contest.html). The two $10,000 grand prizes went to software companies,
         [Radical Breeze](http://radicalbreeze.com/) and Anderware. 
 > 
-> Radical Breeze, won in the Commercial category for its [Illumination
+> Radical Breeze, won in the â€œCommercialâ€ category for its [Illumination
         Software Creation Station](http://susegallery.com/a/aUkeyz/illumination-software-creation-station). This program lets non-developers design their own
         software applications with no programming experience required. Anderware, a software company
-        from Sweden, won in the Community category for its [Hypergrid to Go](http://susegallery.com/a/qxpS1q/hypergrid-to-go) appliance,
+        from Sweden, won in the â€œCommunityâ€ category for its [Hypergrid to Go](http://susegallery.com/a/qxpS1q/hypergrid-to-go) appliance,
         which allows users to easily set up an extension to the OpenSim platform to create a
         multi-user 3D world similar to Second Life.
 > 
@@ -1655,7 +1658,7 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-## ![Header Picture]({{ site.baseurl }}/assets/euro-cent-stueck.jpg)Credits
+## ![Header Picture](/wp-content/uploads/2010/12/euro-cent-stueck.jpg)Credits
 
 We thank for this Issue:
 
@@ -1665,14 +1668,14 @@ We thank for this Issue:
 
   * Gertjan Lettink, Forums Section
 
-  * Thomas Hofstätter, Eventeditor
+  * Thomas HofstÃ¤tter, Eventeditor
 
   * Thomas Schraitle, DocBook-Consultant
 
-## ![Header Picture]({{ site.baseurl }}/assets/OWN-oxygen-Credits.png)Feedback
+## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this
-    article? Then head right over to the [comment section](https://news.opensuse.org/?p=5240) and
+    article? Then head right over to the [comment section](http://news.opensuse.org/?p=5240) and
     let us know! 
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
@@ -1686,14 +1689,14 @@ Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns
 Since a few minutes you can use [Bugzilla](http://bit.ly/ownbugzilla) and
     openFATE for give your Feedback.
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
-## ![Header Picture]({{ site.baseurl }}/assets/OWN-Icon-locale.png)Translations
+## ![Header Picture](/wp-content/uploads/2010/12/OWN-Icon-locale.png)Translations
 
 openSUSE Weekly News is translated into many languages. Issue
     154 is available in: 
 
-  * [English](https://news.opensuse.org/categories/weekly-news/)
+  * [English](http://news.opensuse.org/categories/weekly-news/)
 
 Coming soon: 
 
@@ -1704,6 +1707,3 @@ You can follow the status of the translation [there](http://en.opensuse.org/open
   * [Greek](http://el.opensuse.org/Weekly_news)
 
   * [German](http://de.opensuse.org/OpenSUSE-Wochenschau/154)
-
-
-		

@@ -1,14 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2009-08-13 04:34:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/13/people-of-opensuse-marcus-schaefer/
-title: "People of openSUSE: Marcus Schaefer"
+slug: people-of-opensuse-marcus-schaefer
+title: 'People of openSUSE: Marcus Schaefer'
+wordpress_id: 1993
 categories:
 - People of openSUSE
 ---
-
 
 Marcus Schaefer is busy with  [Build Service](http://en.opensuse.org/Build_Service), [KIWI](http://kiwi.berlios.de/) and [SUSE Studio](http://susestudio.com/).
 
@@ -23,16 +24,103 @@ Of course the sax2 is the best known, or better to say the most popular part of 
 
 
 
-![marcus-schaefer]({{ site.baseurl }}/assets/marcus-schaefer.png)
-|||
-|--- |--- |
-|**Nicknames:**|schaefi|
-|**Homepage:**|[http://www-ms.homelinux.com](http://www-ms.homelinux.com)|
-|**Blog:**|[openSUSE blog](http://lizards.opensuse.org/author/sax2/)|
-|||
-|**Favorite season:**|summer|
-|**Motto:**|live is a beach(volleyball) :)|
-|||
+
+<table border="0" >
+<tbody >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" > ![marcus-schaefer](/wp-content/uploads/2009/08/marcus-schaefer.png)
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Nicknames:**
+</td>
+
+<td > schaefi
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Homepage: **
+</td>
+
+<td > [http://www-ms.homelinux.com](http://www-ms.homelinux.com)
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Blog:**
+</td>
+
+<td > [openSUSE blog](http://lizards.opensuse.org/author/sax2/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Favorite season:**
+</td>
+
+<td > summer
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td valign="top" >**Motto:**
+</td>
+
+<td > live is a beach(volleyball) :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</tbody></table>
 
 
 
@@ -42,7 +130,7 @@ Of course the sax2 is the best known, or better to say the most popular part of 
 #### Please introduce yourself!
 
 
-I was born into a family with a close touch to nature in the Alps region town of Isny at Allgäu, in the German state of Württemberg. My father Wolfgang Schäfer is a technician and an example for me from the beginning on. My mother Susanne Schäfer is a sportswoman, she always encouraged me to keep on running. My parents gave me full freedom in my decisions and so I decided to became an assistent in physics before I studied computer science. Sport is an elementary part of my life. I always find freedom, friends and a balance to business in sports. My favourites are beachvolleyball and cycling. March 26th 2008 is the year I became a father which was the biggest change in my life followed by my marriage with my wonderful wife Daniela in 2007. Our son Florian is as sweet as a boy can be and I'm excited to see our young family growing :-)
+I was born into a family with a close touch to nature in the Alps region town of Isny at AllgÃ¤u, in the German state of WÃ¼rttemberg. My father Wolfgang SchÃ¤fer is a technician and an example for me from the beginning on. My mother Susanne SchÃ¤fer is a sportswoman, she always encouraged me to keep on running. My parents gave me full freedom in my decisions and so I decided to became an assistent in physics before I studied computer science. Sport is an elementary part of my life. I always find freedom, friends and a balance to business in sports. My favourites are beachvolleyball and cycling. March 26th 2008 is the year I became a father which was the biggest change in my life followed by my marriage with my wonderful wife Daniela in 2007. Our son Florian is as sweet as a boy can be and I'm excited to see our young family growing :-)
 
 
 
@@ -52,7 +140,7 @@ I was born into a family with a close touch to nature in the Alps region town of
 #### Tell us about the background to your computer use.
 
 
-I studied computer science at the university of applied sciences in Isny in Allgäu. The atmsphere there was more like in a family and I had the chance to take part in several admin projects which forms the background of my first real use of a computer.
+I studied computer science at the university of applied sciences in Isny in AllgÃ¤u. The atmsphere there was more like in a family and I had the chance to take part in several admin projects which forms the background of my first real use of a computer.
 
 
 
@@ -232,7 +320,7 @@ I would wish to know more about networks, network security and firewalling.
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 Hey there's git, no problem to proceed coding :)
@@ -265,7 +353,7 @@ Star Trek
 #### What is your favorite food and drink?
 
 
-Spätzle mit Soß und dazu a Clemens
+SpÃ¤tzle mit SoÃŸ und dazu a Clemens
 
 
 
@@ -377,6 +465,3 @@ This one :-)
 
 There are many questions I don't have a good answer for, so better don't think too much about it ;)
 
-
-
-		

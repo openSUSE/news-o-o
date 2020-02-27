@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-10-03 15:17:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/10/03/status-of-the-e1000e-issue/
-title: "Status of the e1000e Issue"
+slug: status-of-the-e1000e-issue
+title: Status of the e1000e Issue
+wordpress_id: 1035
 categories:
 - Distribution
 tags:
@@ -13,7 +15,8 @@ tags:
 - e1000e
 - intel
 ---
-This is [an update on the status of the e1000e issue](https://news.opensuse.org/2008/09/22/serious-e1000e-driver-issue-in-sle-11-beta-1-and-opensuse-111-beta-1/). Our openSUSE 11.1 Beta 1 release contained a bug that would cause the non-volatile memory (NVM) of the e1000e controller to be corrupted in certain hardware combinations. This NVM is shared with other components of the system.
+
+This is [an update on the status of the e1000e issue](//news.opensuse.org/2008/09/22/serious-e1000e-driver-issue-in-sle-11-beta-1-and-opensuse-111-beta-1/). Our openSUSE 11.1 Beta 1 release contained a bug that would cause the non-volatile memory (NVM) of the e1000e controller to be corrupted in certain hardware combinations. This NVM is shared with other components of the system.
 
 We are still working on root-causing the issue, in close cooperation with developers from Intel and the general Linux community.
 
@@ -27,4 +30,4 @@ Nevertheless, users have the option to install beta2 with the e1000e driver disa
 
 broken_modules=e1000e
 
-This will prevent the driver from being loaded during installation, and will also add it to the file /etc/modprobe.d/blacklist, which will prevent it from being loaded automatically in the future. Ist das im falle [gehen Sie hier](https://bachelorschreibenlassen.com/) von tagungen, bei denen es mehrere vortragende gibt, fr die moderatorinnen bzw		
+This will prevent the driver from being loaded during installation, and will also add it to the file /etc/modprobe.d/blacklist, which will prevent it from being loaded automatically in the future. Ist das im falle [gehen Sie hier](https://bachelorschreibenlassen.com/) von tagungen, bei denen es mehrere vortragende gibt, fr die moderatorinnen bzw

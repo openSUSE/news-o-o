@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-11-12 15:02:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/11/12/opensuse-11-2-released/
-title: "openSUSE 11.2 Released!"
+slug: opensuse-11-2-released
+title: openSUSE 11.2 Released!
+wordpress_id: 2490
 categories:
 - Announcements
 tags:
@@ -16,6 +18,7 @@ tags:
 - KDE
 - openoffice.org
 ---
+
 The openSUSE Project is pleased to announce [the release of openSUSE 11.2](http://software.opensuse.org/).Â  openSUSE 11.2 includes new versions of GNOME, KDE, OpenOffice.org, Firefox, the Linux kernel, and many, many more updates and improvements. In 11.2 you'll find more than 1,000 open source desktop applications. openSUSE also includes a full suite of server software and a rich selection of open source development tools.
 
 You can find a bevy of [screenshots](http://en.opensuse.org/Screenshots/11.2) and more on the openSUSE wiki, and a lengthy list of packages and version numbers on [DistroWatch](http://distrowatch.com/suse).
@@ -130,4 +133,4 @@ openSUSE 11.2 represents the combined effort of hundreds of  developers who part
 
 When we say "contributor," we don't mean only developers and  packagers. This includes translators, openSUSE Ambassadors, the openSUSE  Board, and the users who help power our forums and support users who  are taking their first steps into Linux.
 
-We are confident that openSUSE 11.2 is the best openSUSE release yet,  and that it will help to encourage the use of Linux everywhere! We hope  that you **_have a lot of fun_** while you use openSUSE 11.2!		
+We are confident that openSUSE 11.2 is the best openSUSE release yet,  and that it will help to encourage the use of Linux everywhere! We hope  that you **_have a lot of fun_** while you use openSUSE 11.2!

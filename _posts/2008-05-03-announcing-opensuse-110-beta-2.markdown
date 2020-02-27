@@ -1,19 +1,22 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-03 00:56:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/03/announcing-opensuse-110-beta-2/
-title: "Announcing openSUSE 11.0 Beta 2"
+slug: announcing-opensuse-110-beta-2
+title: Announcing openSUSE 11.0 Beta 2
+wordpress_id: 755
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE team is proud to announce the second Beta release of openSUSE 11.0! New changes include countless bug fixes, as well as the import of the new openSUSE 11.0 artwork for login, splash screens and more. The live installation should work, but there are several known quirks, so be sure to check the most annoying bugs list before proceeding.
 
 
 
-[![Desktop Selection]({{ site.baseurl }}/assets/os110beta2-inst6_thumb.jpg)](http://files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg) [![Login]({{ site.baseurl }}/assets/os110beta2-kde1_thumb.png)](http://files.opensuse.org/opensuse/en/thumb/2/21/OS11.0beta2-kde1.png/800px-OS11.0beta2-kde1.png) [![Splash Screen]({{ site.baseurl }}/assets/os110beta2-kde2_thumb.png)](http://files.opensuse.org/opensuse/en/thumb/9/91/OS11.0beta2-kde2.png/800px-OS11.0beta2-kde2.png)[ ](http://files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg)
+[![Desktop Selection](/wp-content/uploads/2008/05/os110beta2-inst6_thumb.jpg)](http://files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg) [![Login](/wp-content/uploads/2008/05/os110beta2-kde1_thumb.png)](http://files.opensuse.org/opensuse/en/thumb/2/21/OS11.0beta2-kde1.png/800px-OS11.0beta2-kde1.png) [![Splash Screen](/wp-content/uploads/2008/05/os110beta2-kde2_thumb.png)](http://files.opensuse.org/opensuse/en/thumb/9/91/OS11.0beta2-kde2.png/800px-OS11.0beta2-kde2.png)[ ](http://files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg)
 See [Screenshots/openSUSE_11.0_Beta2](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta2) for more screenshots.
 
 
@@ -83,4 +86,4 @@ openSUSE 11.0 Beta 2 is a great time to start testing-out openSUSE 11.0 before i
 
 For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 3 on May 13.		
+The next [planned release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 3 on May 13.

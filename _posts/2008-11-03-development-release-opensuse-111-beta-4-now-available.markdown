@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-11-03 19:50:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/11/03/development-release-opensuse-111-beta-4-now-available/
-title: "Development Release: openSUSE 11.1 Beta 4 Now Available"
+slug: development-release-opensuse-111-beta-4-now-available
+title: 'Development Release: openSUSE 11.1 Beta 4 Now Available'
+wordpress_id: 1068
 categories:
 - Announcements
 - Distribution
@@ -12,17 +14,18 @@ tags:
 - '11.1'
 - beta
 ---
+
 Hot on the heels of openSUSE 11.1 beta 3, the openSUSE Project is happy to announce the availability of openSUSE 11.1 beta 4.
 
 This release includes a number of important bugfixes since the last beta, as well as a few new bugs that need to be squashed before the final release. Read on for details about this release and how to get involved with testing.
 
 **Screenshots**
 
-[![KDE4 Cover Switch Effect ]({{ site.baseurl }}/assets/800px-kde4-coverswitch-150x150.png)](http://en.opensuse.org/Image:Kde4-coverswitch.png)
+[![KDE4 Cover Switch Effect ](//news.opensuse.org/wp-content/uploads/2008/11/800px-kde4-coverswitch.png)](http://en.opensuse.org/Image:Kde4-coverswitch.png)
 
-[![KDE4 Cube Effect ]({{ site.baseurl }}/assets/800px-kde4-cube-150x150.png)](http://en.opensuse.org/Image:Kde4-cube.png)
+[![KDE4 Cube Effect ](//news.opensuse.org/wp-content/uploads/2008/11/800px-kde4-cube.png)](http://en.opensuse.org/Image:Kde4-cube.png)
 
-[![GNOME Desktop Search]({{ site.baseurl }}/assets/750px-111beta4search-150x150.png)](http://en.opensuse.org/Image:111Beta4Search.png)[![F-Spot Photo Manager ]({{ site.baseurl }}/assets/750px-fspot-150x150.png)](http://en.opensuse.org/Image:FSpot.png)
+[![GNOME Desktop Search](//news.opensuse.org/wp-content/uploads/2008/11/750px-111beta4search.png)](http://en.opensuse.org/Image:111Beta4Search.png)[![F-Spot Photo Manager ](//news.opensuse.org/wp-content/uploads/2008/11/750px-fspot.png)](http://en.opensuse.org/Image:FSpot.png)
 
 If you're curious about what openSUSE 11.1 will look like, have a look at the rest of the [screenshots on the openSUSE wiki](http://en.opensuse.org/Screenshots/openSUSE_11.1_Beta4). Thanks to Kevin Dupuy and Martin Schlander for taking the time to put up the screenshots!
 
@@ -127,4 +130,4 @@ The list of annoying bugs is getting smaller! Still, a few things that we need t
 
 Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release.
 
-Thanks, and have a lot of fun! You can easily pass the exam of ibm [go to my portal](https://paper-writer.org/) maximo asset management v7		
+Thanks, and have a lot of fun! You can easily pass the exam of ibm [go to my portal](https://paper-writer.org/) maximo asset management v7

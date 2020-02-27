@@ -1,15 +1,18 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2013-04-08 11:00:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/04/08/a-gust-of-fresh-build-power-suse-sponsors-new-hardware-for-the-open-build-service/
-title: "SUSE sponsors new hardware for the Open Build Service"
+slug: a-gust-of-fresh-build-power-suse-sponsors-new-hardware-for-the-open-build-service
+title: SUSE sponsors new hardware for the Open Build Service
+wordpress_id: 15739
 categories:
 - Announcements
 - Build Service
 ---
-![UTSmOKcQdU_bodybg]({{ site.baseurl }}/assets/UTSmOKcQdU_bodybg-300x255.png)Over the last year, the Open Build Service (OBS) reference server, a service to build and distribute packages from sources in an automatic, consistent and reproducible way, has been flooded with new packages, new distributions and even entire new architectures, deluging its build servers with compilation jobs. But spring is coming: SUSE has has just sponsored a rack server with some serious compute power for us to speed up your compilations. OBS will kick into high gear again!<!-- more -->
+
+![UTSmOKcQdU_bodybg](//news.opensuse.org/wp-content/uploads/2010/05/UTSmOKcQdU_bodybg-300x255.png)Over the last year, the Open Build Service (OBS) reference server, a service to build and distribute packages from sources in an automatic, consistent and reproducible way, has been flooded with new packages, new distributions and even entire new architectures, deluging its build servers with compilation jobs. But spring is coming: SUSE has has just sponsored a rack server with some serious compute power for us to speed up your compilations. OBS will kick into high gear again!<!-- more -->
 
 
 ## Strong Demand For Build Time
@@ -41,7 +44,7 @@ As the waiting queue kept growing the OBS team approached different sponsors for
 
 This is expected to arrive in a matter of weeks. Once it is in, the admins will have to configure this truckload of compile nodes but we expect to have it up and running in the first half of May - spring will bring some serious compilation resources for the Geekos!
 
-_"This rack with nearly 40 nodes will blow your socks off! We're more than thankful that SUSE once again stepped up and showed us that they support us in any way possible. It's nice to be able to depend on your sponsors"_ - Said Adrian Schröter, Open Build Service Developer.
+_"This rack with nearly 40 nodes will blow your socks off! We're more than thankful that SUSE once again stepped up and showed us that they support us in any way possible. It's nice to be able to depend on your sponsors"_ - Said Adrian SchrÃ¶ter, Open Build Service Developer.
 
 
 ## Free but not for nothing
@@ -58,7 +61,7 @@ While we're at it, we'd like to remind everyone that building the tens of thousa
 
 
 
-[![suse_logo_w-tag_color]({{ site.baseurl }}/assets/suse_logo_w-tag_color-300x166.png)](http://suse.com)
+[![suse_logo_w-tag_color](//news.opensuse.org/wp-content/uploads/2013/04/suse_logo_w-tag_color-300x166.png)](http://suse.com)
 
 
 
@@ -84,4 +87,4 @@ While we're at it, we'd like to remind everyone that building the tens of thousa
 
 
 
-And we are of course always looking for more support. For instance, at the moment, the server delivering binaries across the build hosts and to our mirrors is getting really full and becoming a bottleneck. If you happen to know of someone who can donate serious I/O power to the Open Build Service project - now is the time to tell us!		
+And we are of course always looking for more support. For instance, at the moment, the server delivering binaries across the build hosts and to our mirrors is getting really full and becoming a bottleneck. If you happen to know of someone who can donate serious I/O power to the Open Build Service project - now is the time to tell us!

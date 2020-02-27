@@ -1,29 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-23 16:46:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/23/people-of-opensuse-klaus-kampf/
-title: "People of openSUSE: Klaus Kämpf"
+slug: people-of-opensuse-klaus-kampf
+title: 'People of openSUSE: Klaus KÃ¤mpf'
+wordpress_id: 782
 categories:
 - People of openSUSE
 ---
-Long time openSUSE developer Klaus Kämpf joined former S.u.S.E nine years ago and since then never looked back being committed to his  System Management Architect job at Novell.
+
+Long time openSUSE developer Klaus KÃ¤mpf joined former S.u.S.E nine years ago and since then never looked back being committed to his  System Management Architect job at Novell.
 
 Please enjoy this 'People of openSUSE' interview! ;-)
 
 <!-- more -->
-![klaus_kaempf.jpg]({{ site.baseurl }}/assets/klaus_kaempf.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname(s):**|kkaempf|
-|**Homepage:**|Nope.|
-|**Blog:**|[kkaempf.blogspot.com](http://kkaempf.blogspot.com)|
-|||
-|**Favorite season:**|Any day one can spend outside. Be it in a winter coat or swimming trunks.|
-|**Motto:**|Don't panic|
-|||
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![klaus_kaempf.jpg](/wp-content/uploads/2008/05/klaus_kaempf.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >kkaempf
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >Nope.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[kkaempf.blogspot.com](http://kkaempf.blogspot.com)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Any day one can spend outside. Be it in a winter coat or swimming trunks.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Don't panic
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -33,7 +123,7 @@ Please enjoy this 'People of openSUSE' interview! ;-)
 #### Please introduce yourself!
 
 
-I am Klaus Kämpf and I work for Novell as an Architect for Systems Management. I spend 1/3 of my time looking into (new) technology, 1/3 looking into current products and 1/3 into integration challenges in the area of systems management.
+I am Klaus KÃ¤mpf and I work for Novell as an Architect for Systems Management. I spend 1/3 of my time looking into (new) technology, 1/3 looking into current products and 1/3 into integration challenges in the area of systems management.
 
 I was born in the lower Rhine area before man landed on the moon. Since I joined SUSE, I usually celebrate my birthday together with AJ.
 
@@ -232,7 +322,7 @@ Knowing how to use Gimp (or any other drawing/imaging tool) inside out.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Great ! Finally time to get back to all these electronics projects I left in the basement years ago.
@@ -303,7 +393,7 @@ Camping with my Family.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Dollars ? Exchange it to Euros immediately. Then I'd be more relaxed to think about what do to with the money.
@@ -313,7 +403,7 @@ Dollars ? Exchange it to Euros immediately. Then I'd be more relaxed to think ab
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Here and now.
@@ -323,7 +413,7 @@ Here and now.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Sure, but I keep the laptop running.
@@ -379,5 +469,3 @@ The last but one.
 KDE or GNOME ?
 Web !
 
-
-		

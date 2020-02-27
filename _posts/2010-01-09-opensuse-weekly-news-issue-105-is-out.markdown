@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-01-09 21:31:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/01/09/opensuse-weekly-news-issue-105-is-out/
-title: "openSUSE Weekly News, Issue 105 is out!"
+slug: opensuse-weekly-news-issue-105-is-out
+title: openSUSE Weekly News, Issue 105 is out!
+wordpress_id: 2681
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 ![news](http://static.opensuse.org/images/knewsticker.png) Issue #105 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/105)!
 
 
@@ -38,4 +41,4 @@ tags:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/105/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/105/Translations).		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/105/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/105/Translations).

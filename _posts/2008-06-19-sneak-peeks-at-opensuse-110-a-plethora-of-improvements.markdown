@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-19 11:53:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/19/sneak-peeks-at-opensuse-110-a-plethora-of-improvements/
-title: "Sneak Peeks at openSUSE 11.0: A Plethora of Improvements"
+slug: sneak-peeks-at-opensuse-110-a-plethora-of-improvements
+title: 'Sneak Peeks at openSUSE 11.0: A Plethora of Improvements'
+wordpress_id: 880
 categories:
 - Distribution
 ---
-In this final [Sneak Peeks](https://news.opensuse.org/category/sneak-peeks/) article we will be taking a look at some of the other improvements making their way into openSUSE 11.0. 
+
+In this final [Sneak Peeks](http://news.opensuse.org/category/sneak-peeks/) article we will be taking a look at some of the other improvements making their way into openSUSE 11.0. 
 
 <!-- more -->
 
@@ -19,7 +22,7 @@ openSUSE features the new and latest Firefox 3.0, with the final version distrib
 
 
 
-[![]({{ site.baseurl }}/assets/os110-firefox-300x252.jpg)]({{ site.baseurl }}/assets/os110-firefox.jpeg)
+[![](/wp-content/uploads/2008/06/os110-firefox.jpeg)](/wp-content/uploads/2008/06/os110-firefox.jpeg)
 
 
 
@@ -33,7 +36,7 @@ The [OpenOffice.org team](http://en.opensuse.org/OpenOffice/Team) has been worki
 
 
 
-[![]({{ site.baseurl }}/assets/os110-ooo-300x260.jpg)]({{ site.baseurl }}/assets/os110-ooo.jpeg)
+[![](/wp-content/uploads/2008/06/os110-ooo.jpeg)](/wp-content/uploads/2008/06/os110-ooo.jpeg)
 
 
 
@@ -46,7 +49,7 @@ openSUSE 11.0 features the latest Xfce 4.4.2, with a [string of new changes](htt
 
 
 
-[![]({{ site.baseurl }}/assets/os11-xfce-2-300x225.jpg)
+[![](/wp-content/uploads/2008/06/os11-xfce-2.jpeg)
 
 
 
@@ -55,11 +58,11 @@ openSUSE 11.0 features the latest Xfce 4.4.2, with a [string of new changes](htt
 ### Banshee 1.0
 
 
-[Aaron Bockover](http://en.opensuse.org/User:Aaronbockover) and the Banshee team recently announced the availability of the very substantial [1.0 release](https://news.opensuse.org/2008/06/10/banshee-10-released/). It features a broad range of [exciting new changes](http://banshee-project.org/download/archives/1.0.0/), including video support, speed improvements, a redesigned interface and better integration with Last.fm.
+[Aaron Bockover](http://en.opensuse.org/User:Aaronbockover) and the Banshee team recently announced the availability of the very substantial [1.0 release](http://news.opensuse.org/2008/06/10/banshee-10-released/). It features a broad range of [exciting new changes](http://banshee-project.org/download/archives/1.0.0/), including video support, speed improvements, a redesigned interface and better integration with Last.fm.
 
 
 
-[![]({{ site.baseurl }}/assets/banshee-podcasting-300x204.png)]({{ site.baseurl }}/assets/banshee-podcasting.png)
+[![](/wp-content/uploads/2008/06/banshee-podcasting.png)](/wp-content/uploads/2008/06/banshee-podcasting.png)
 
 
 
@@ -72,7 +75,7 @@ With Wine approaching its monumental [1.0 release](http://wiki.winehq.org/WineRe
 
 
 
-[![]({{ site.baseurl }}/assets/os110-itunes-300x225.png)]({{ site.baseurl }}/assets/os110-itunes.png)
+[![](/wp-content/uploads/2008/06/os110-itunes.png)](/wp-content/uploads/2008/06/os110-itunes.png)
 
 
 
@@ -88,7 +91,7 @@ The [LTSP5](http://opensuse.org/LTSP) implementation on openSUSE continues to dr
 ### Kepas - Easy File Sharing
 
 
-With the previous release we saw the addition of [Giver](https://news.opensuse.org/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/) - an easy GTK+ file-sharing tool, enabling you to quickly send files to others on the same network as you. With openSUSE 11.0 there is now also a KDE application, [Kepas](http://www.kde-apps.org/content/show.php/Kepas+-+KDE+Easy+Publish+and+Share?content=73968), to perform the same task, with several additional features.
+With the previous release we saw the addition of [Giver](http://news.opensuse.org/2007/10/02/sneak-peeks-at-opensuse-103-a-plethora-of-improvements/) - an easy GTK+ file-sharing tool, enabling you to quickly send files to others on the same network as you. With openSUSE 11.0 there is now also a KDE application, [Kepas](http://www.kde-apps.org/content/show.php/Kepas+-+KDE+Easy+Publish+and+Share?content=73968), to perform the same task, with several additional features.
 
 
 
@@ -129,4 +132,4 @@ After you've installed it, see the _/usr/share/doc/packages/command-not-found/RE
 ### Complete Product Highlights
 
 
-For a more complete product highlights and package list, see the [Product Highlights/11.0](http://en.opensuse.org/Product_Highlights/11.0) wiki page.]({{ site.baseurl }}/assets/os11-xfce-2.jpeg)		
+For a more complete product highlights and package list, see the [Product Highlights/11.0](http://en.opensuse.org/Product_Highlights/11.0) wiki page.](/wp-content/uploads/2008/06/os11-xfce-2.jpeg)

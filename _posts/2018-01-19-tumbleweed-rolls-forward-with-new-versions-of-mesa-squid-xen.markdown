@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-01-19 09:55:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/19/tumbleweed-rolls-forward-with-new-versions-of-mesa-squid-xen/
-title: "Tumbleweed Rolls Forward with New versions of Mesa, Squid,  Xen\
-  "
+slug: tumbleweed-rolls-forward-with-new-versions-of-mesa-squid-xen
+title: Tumbleweed Rolls Forward with New versions of Mesa, Squid,  Xen
+wordpress_id: 20620
 categories:
 - Announcements
 - Tumbleweed
@@ -36,6 +37,7 @@ tags:
 - wireshark
 - Xen
 ---
+
 ![](https://en.opensuse.org/images/3/30/Tumbleweed-mix.png)This week provided a pretty healthy amount of package updates for [openSUSE](https://www.opensuse.org/)’s rolling distribution [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed).
 
 There were three snapshots released since the last blog and some of the top packages highlighted this week are from [Mesa](https://www.mesa3d.org/), [Squid](https://wiki.squid-cache.org/Squid-4), [Xen](https://www.xenproject.org/) and [OpenSSH](https://www.openssh.com/).
@@ -46,4 +48,4 @@ Snapshot [20180114](https://lists.opensuse.org/opensuse-factory/2018-01/msg00267
 
 <!-- more -->One of the last packages to highlight in the snapshot was cpupower  4.15, which includes the x86_energy_perf_policy binary and is important for later package dependencies, according to the changelog.
 
-The snapshot beginning the week, [20180110](https://lists.opensuse.org/opensuse-factory/2018-01/msg00235.html), brought a new major version of [Squid](https://wiki.squid-cache.org/Squid-4); the [4.0.22](http://www.squid-cache.org/Versions/v4/squid-4.0.22-RELEASENOTES.html) version brough major User Interface changes, improved Symmetric multiprocessing (SMP) and enabled long (_--foo_) command line parameters on squid binary. Another major version was [mpfr 4.0.0](http://www.mpfr.org/mpfr-current/); the C library, which is for multiple-precision floating-point computations, has added several new functions and configuration options as well as better support for [Automake](https://www.gnu.org/software/automake/) 1.13+.		
+The snapshot beginning the week, [20180110](https://lists.opensuse.org/opensuse-factory/2018-01/msg00235.html), brought a new major version of [Squid](https://wiki.squid-cache.org/Squid-4); the [4.0.22](http://www.squid-cache.org/Versions/v4/squid-4.0.22-RELEASENOTES.html) version brough major User Interface changes, improved Symmetric multiprocessing (SMP) and enabled long (_--foo_) command line parameters on squid binary. Another major version was [mpfr 4.0.0](http://www.mpfr.org/mpfr-current/); the C library, which is for multiple-precision floating-point computations, has added several new functions and configuration options as well as better support for [Automake](https://www.gnu.org/software/automake/) 1.13+.

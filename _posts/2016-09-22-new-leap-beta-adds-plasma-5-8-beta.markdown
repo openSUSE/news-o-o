@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-09-22 12:58:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/09/22/new-leap-beta-adds-plasma-5-8-beta/
-title: "New Leap Beta Adds Plasma 5.8 Beta"
+slug: new-leap-beta-adds-plasma-5-8-beta
+title: New Leap Beta Adds Plasma 5.8 Beta
+wordpress_id: 20107
 categories:
 - Leap
 tags:
@@ -23,7 +25,8 @@ tags:
 - wireshark
 - Xen
 ---
-![icon]({{ site.baseurl }}/assets/Icon-1-300x289.png)The release of [openSUSE Leap 42.2 Beta 2](http://software.opensuse.org/developer/en?release=developer) today added several new minor versions including [KDE’s first Long Term Support version for Plasma](https://www.kde.org/announcements/plasma-5.7.95.php). 
+
+![icon](/wp-content/uploads/2016/09/Icon-1.png)The release of [openSUSE Leap 42.2 Beta 2](http://software.opensuse.org/developer/en?release=developer) today added several new minor versions including [KDE’s first Long Term Support version for Plasma](https://www.kde.org/announcements/plasma-5.7.95.php). 
 
 The highly anticipated release of Plasma 5.8 LTS will be the default desktop for openSUSE Leap 42.2 and its beta (5.7.95), which was just released last week, is in openSUSE’s newest beta release.
 
@@ -47,4 +50,4 @@ The release of the Beta 2 was delayed by one day, but the [road map](https://en.
 Leap is a community-enterprise distribution that focuses on stability. Leap has hundreds of SUSE Linux Enterprise (SLE) Service Pack (SP) 2 packages and the thousands of community-built packages. The distribution gives developers and organizations an ability to bridge to the faster release cycles of openSUSE Tumbleweed or to a more Long Term Support enterprise solution with SLE.
 
 Media who are interested in more information should contact Douglas DeMaio at [ddemaio@suse.de](mailto:ddemaio@suse.de).
-		
+

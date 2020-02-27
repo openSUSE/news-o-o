@@ -1,10 +1,12 @@
 ---
 author: Ana María Martínez Gómez
+comments: true
 date: 2018-07-20 15:09:14+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/07/20/gsoc-half-way-through/
-title: "GSoC Half Way Through"
+slug: gsoc-half-way-through
+title: GSoC Half Way Through
+wordpress_id: 20941
 categories:
 - Google Summer of Code
 - Mentoring
@@ -18,6 +20,7 @@ tags:
 - summer break
 - trollolo
 ---
+
 As you may already know, [openSUSE participates again in GSoC](https://news.opensuse.org/2018/02/19/gsoc-ana), an international program that awards stipends to university students who contribute to real-world open source projects during three months in summer. [Our students started working already](https://news.opensuse.org/2018/05/23/gsoc-students-are-already-hacking) two months ago. Ankush, Liana and Matheus have passed the two evaluations successfully and they are busy hacking to finish their projects. Go on reading to find out what they have to say about their experience, their projects and the missing work for the few more weeks. 😀
 
 
@@ -32,7 +35,7 @@ The last part of his project will include some more new features. If you want to
 
 [https://medium.com/@ankushmalik631/how-my-gsoc-project-is-going-4942614132a2](https://medium.com/@ankushmalik631/how-my-gsoc-project-is-going-4942614132a2)
 
-![Hackweek tool screenshot]({{ site.baseurl }}/assets/hackweek.png)
+![Hackweek tool screenshot](/wp-content/uploads/2018/07/hackweek.png)
 
 
 # Xu Liana
@@ -62,4 +65,4 @@ I hope you enjoyed reading about the work and experiences of the openSUSE studen
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/07/21/gsoc-half-way-through.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 		
+This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/07/21/gsoc-half-way-through.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 

@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-11-16 09:03:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/11/16/optimal-release-for-linux-professionals-arrives-with-opensuse-leap-42-2/
-title: "Optimal Release for Linux Professionals Arrives with openSUSE Leap\
-  \ 42.2"
+slug: optimal-release-for-linux-professionals-arrives-with-opensuse-leap-42-2
+title: Optimal Release for Linux Professionals Arrives with openSUSE Leap 42.2
+wordpress_id: 20153
 categories:
 - Distribution
 - Leap
@@ -38,6 +39,7 @@ tags:
 - Trusted Platform Module 2.0
 - Xen
 ---
+
 **A Professional Distribution for Developers, System Administrators and Users
 **
 
@@ -480,4 +482,4 @@ This openSUSE release is the first to use [Weblate](https://l10n.opensuse.org/) 
 #### About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)		
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)

@@ -1,17 +1,20 @@
 ---
 author: News Team
+comments: true
 date: 2009-03-10 12:00:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/03/10/opensuse-weekly-news-issue-62/
-title: "openSUSE Weekly News, Issue 62"
+slug: opensuse-weekly-news-issue-62
+title: openSUSE Weekly News, Issue 62
+wordpress_id: 1222
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #62 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/62)!  
+
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #62 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/62)!  
   
 
-In this week™s issue:
+In this weekâ€™s issue:
 
 
   * openSUSE Project Meeting next Wednesday 
@@ -22,7 +25,7 @@ In this week™s issue:
 
   * 11.2 Roadmap and Fixed Release Cycle for openSUSE 
 
-  * Rupert Horstkötter: OSF Status Report #3 
+  * Rupert HorstkÃ¶tter: OSF Status Report #3 
 
 
 
@@ -42,4 +45,4 @@ The openSUSE Weekly News is available in:
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/62) (delay)
 
 **NEW! :  [Swedish](http://en.opensuse.org/OpenSUSE_Weekly_News/62/swedish) 
-**		
+**

@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-27 12:14:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/27/sneak-peeks-at-opensuse-103-virtualisation/
-title: "Sneak Peeks at openSUSE 10.3: Virtualisation"
+slug: sneak-peeks-at-opensuse-103-virtualisation
+title: 'Sneak Peeks at openSUSE 10.3: Virtualisation'
+wordpress_id: 371
 categories:
 - Distribution
 ---
@@ -32,7 +34,7 @@ Below you can take a look at VirtualBox running with openSUSE 10.3 RC1:
 
 
 
-[![VirtualBox running openSUSE 10.3 KDE]({{ site.baseurl }}/assets/virtualbox_thumb.png)]({{ site.baseurl }}/assets/virtualbox.png)
+[![VirtualBox running openSUSE 10.3 KDE](//news.opensuse.org/wp-content/uploads/2007/09/virtualbox_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/virtualbox.png)
 
 
 
@@ -67,7 +69,7 @@ However, it not only has that, but _even more_. The new [Xen 3.1](http://www.vir
 
 
 
-[![NetWare - Xen]({{ site.baseurl }}/assets/xen-netware_thumb.png)]({{ site.baseurl }}/assets/xen-netware.png) [![openSUSE 10.3 in Xen]({{ site.baseurl }}/assets/xen-103_thumb.png)]({{ site.baseurl }}/assets/xen-103.png)
+[![NetWare - Xen](//news.opensuse.org/wp-content/uploads/2007/09/xen-netware_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/xen-netware.png) [![openSUSE 10.3 in Xen](//news.opensuse.org/wp-content/uploads/2007/09/xen-103_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/xen-103.png)
 
 
 
@@ -81,7 +83,7 @@ To help with setting up and configuring Xen, openSUSE even has a nice _Install H
 
 
 
-[![YaST - Install Hypervisor and Tools]({{ site.baseurl }}/assets/yast2-xen_thumb.png)]({{ site.baseurl }}/assets/yast2-xen.png)
+[![YaST - Install Hypervisor and Tools](//news.opensuse.org/wp-content/uploads/2007/09/yast2-xen_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/yast2-xen.png)
 
 
 
@@ -89,7 +91,7 @@ After the install has finished you'll have two extra YaST modules to create and 
 
 
 
-![YaST - VM Modules]({{ site.baseurl }}/assets/yast2-vms.png)
+![YaST - VM Modules](//news.opensuse.org/wp-content/uploads/2007/09/yast2-vms.png)
 
 
 
@@ -163,3 +165,5 @@ SUSE R&D managed on one hand to patch our SUSE Linux Enterprise kernel to VMI en
 
 
 ### Thanks!
+
+Natrlich darf im kontakt mit experten der eine oder andere [www.hausarbeithilfe.com/eine-abschlussarbeit-schreiben-lassen/](https://hausarbeithilfe.com/eine-abschlussarbeit-schreiben-lassen/) fachbegriff fallen

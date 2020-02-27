@@ -1,28 +1,131 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-13 21:16:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/13/people-of-opensuse-jean-daniel-dodin/
-title: "People of openSUSE: Jean-Daniel Dodin"
+slug: people-of-opensuse-jean-daniel-dodin
+title: 'People of openSUSE: Jean-Daniel Dodin'
+wordpress_id: 1482
 categories:
 - People of openSUSE
 ---
+
 Jean-Daniel Dodin is openSUSE member since the very beginning. He is the first sysop of [http://fr.opensuse.org](http://fr.opensuse.org) and in general very active openSUSE and Linux advocate, both on and off line. The most recent of his numerous projects is attempt to revive the [Linux Documentation Project](http://tldp.org/) which was sinking in a lethargy for quite some time before he appeared started reorganization, energizing people.
 
 <!-- more -->
 
 
-![jean-daniel-dodin]({{ site.baseurl }}/assets/jean-daniel-dodin.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|jdd|
-|**Homepage:**|[http://dodin.org](http://dodin.org)|
-|**Blog:**|I'm not really a blog man. However I have one for the LDP: [http://jdanield.wordpress.com](http://jdanield.wordpress.com)|
-|||
-|**Favorite season:**|Spring or autumn. I don't like hight temps - I can live with low ones :-)|
-|**Motto:**|When student, I used "Age quod agis" - do what you do. I probably follow this as much as I can even now|
-|||
+
+<table border="0" >
+<tbody >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >
+
+
+![jean-daniel-dodin](/wp-content/uploads/2009/04/jean-daniel-dodin.jpg)
+
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >jdd
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage:
+**
+</td>
+
+<td >[http://dodin.org](http://dodin.org)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:
+**
+</td>
+
+<td >I'm not really a blog man.
+However I have one for the LDP: [http://jdanield.wordpress.com](http://jdanield.wordpress.com)
+</td>
+
+<td >
+</td>
+
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring or autumn. I don't like hight temps - I can live with low ones :-)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto: **
+</td>
+
+<td >When student, I used "Age quod agis" - do what you do. I probably
+follow this as much as I can even now
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</tbody></table>
 
 
 
@@ -266,7 +369,7 @@ I can administer servers, but each time I spend days learning what to do.
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 No problem. I can take 3 weeks vacation. Only my mailbox will have problems :-)
@@ -332,7 +435,7 @@ Wandering trough the Europe with car and caravan (and without computer).
 
 
 
-#### Someone gives you $1.000.000 “ what would you do with the money?
+#### Someone gives you $1.000.000 â€“ what would you do with the money?
 
 
 Travel? I would like to visit Egypt. My wife's family is in West Indies, one of my daughters is in Los Angeles,
@@ -342,7 +445,7 @@ my son wants to go to Australia and the other daughter is a singer, so I have ma
 
 
 
-#### If traveling through time was possible “ when would we be most likely to meet you?
+#### If traveling through time was possible â€“ when would we be most likely to meet you?
 
 
 I like present time. Past was often scary and future we don't know...
@@ -352,7 +455,7 @@ Besides, I enjoy living in France: wonderfull country, good social covering, goo
 
 
 
-#### There's a thunderstorm outside “ do you turn off your computer?
+#### There's a thunderstorm outside â€“ do you turn off your computer?
 
 
 No. We had one recently, but my computer is a laptop so AC outage is not a problem.
@@ -404,6 +507,3 @@ None
 
 I don't really like answering questions , but I do because I think it's useful.  :-)
 
-
-
-		

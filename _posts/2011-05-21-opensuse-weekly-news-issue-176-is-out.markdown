@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-05-21 17:38:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/05/21/opensuse-weekly-news-issue-176-is-out/
-title: "openSUSE Weekly News, Issue 176 is out!"
+slug: opensuse-weekly-news-issue-176-is-out
+title: openSUSE Weekly News, Issue 176 is out!
+wordpress_id: 8834
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce the Issue 176 of the openSUSE Weekly News.
 <!-- more -->
 
@@ -101,9 +104,9 @@ Enjoy reading :-)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
 
+â€œ
 
-
-[openSUSE Conference 2011 to be creative and open!](https://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/)
+[openSUSE Conference 2011 to be creative and open!](http://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/)
 
 **Time to get ready for the openSUSE Conference 2011**
 
@@ -117,25 +120,25 @@ The openSUSE conference is where Free Software people meet. And a meeting of so 
       developers, artists, translators, documentation writers and others leads to great things! The
       latest Free Software technologies will be showcased, cool projects initiated and great ideas
       discussed. Last year, [the conference
-        was awesome](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/) and resulted in many new projects and collaborative efforts. This year,
+        was awesome](http://news.opensuse.org/2010/10/28/opensuse-conference-big-success/) and resulted in many new projects and collaborative efforts. This year,
       the conference will be combined with the SUSE Labs conference to bring even more brilliant
       minds together! The SUSE Labs conference has traditionally been about advancing low-level
       technology like the kernel and surrounding infrastructure as well as server related,
       deployment and management tools. 
 
 The openSUSE Conference 2011 will happen from **Sunday 11th to
-        Wednesday 14th of September** in Nuremberg, Germany. This date shouldn™t conflict
-      with too many other conferences. We™ll be open for registration and a pre-party on **Saturday night**! The website on [conference.opensuse.org](http://conference.opensuse.org) is being updated still
-      and we™ll let you know once you can register.
+        Wednesday 14th of September** in Nuremberg, Germany. This date shouldnâ€™t conflict
+      with too many other conferences. Weâ€™ll be open for registration and a pre-party on **Saturday night**! The website on [conference.opensuse.org](http://conference.opensuse.org) is being updated still
+      and weâ€™ll let you know once you can register.
 
 We expect about 500 visitors this year and hence had to find a new location. A perfect
-      spot was found in [a previous industrial complex from AEG named ˜Zentrifuge˜](http://en.opensuse.org/openSUSE:Conference_Location_Zentrifuge). This cultural center might not be the ˜usual™ space for an
+      spot was found in [a previous industrial complex from AEG named â€˜Zentrifugeâ€˜](http://en.opensuse.org/openSUSE:Conference_Location_Zentrifuge). This cultural center might not be the â€˜usualâ€™ space for an
       IT conference but offers a very creative and open space, currently used for art and music.
       Exactly right for the openSUSE Free Software gathering! (...)
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -143,14 +146,14 @@ We expect about 500 visitors this year and hence had to find a new location. A p
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-
+â€œ
 
 [Manu Gupta:
-        My GSoC Project “ SaX3](http://sysbytes.wordpress.com/2011/05/20/my-gsoc-project-sax3/)
+        My GSoC Project â€“ SaX3](http://sysbytes.wordpress.com/2011/05/20/my-gsoc-project-sax3/)
 
 Well, SaX off course needs no introduction for old time openSUSE and SUSE Users and
       certainly lots of people want it to be back on openSUSE. My proposal for Google Summer Of Code
-      for SaX3 was selected and my mentor will be Michal HrušeckÃ½. Now I will tell about the little
+      for SaX3 was selected and my mentor will be Michal HruÅ¡eckÃ½. Now I will tell about the little
       interesting things on which I will be working on and some of the more interesting things later
       on at the end of the blog post. 
 
@@ -162,7 +165,7 @@ SaX as most of on planet SUSE knows stands for SUSE Advanced X Configuration Too
       have a graphical UI for ncurses mode even, so even if your X is not functioning, you dont need
       to remember a lot of command line commands.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
@@ -184,7 +187,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-
+â€œ
 
 
           [FrÃ©dÃ©ric Crozat: ISO image for GNOME3 promo DVD available for download](http://blog.crozat.net/2011/05/iso-image-for-gnome3-promo-dvd.html)
@@ -198,60 +201,60 @@ You can download it at : [http://ftp.gnome.org/pub/GNOME/misc/promo-dvd/](http:/
 
 Beware this image will not be updated, it is just there for archiving purpose.
 
-
+â€
 
-
+â€œ
 
 
           [Nelson Marques: Advancing with GNOME:Ayatana repository](http://lizards.opensuse.org/2011/05/17/advancing-with-gnomeayatana-repository/)
         
 
-Last week I™ve received an email from Bruce Byfield asking a few questions about this
-          project. I™ve replied honestly as I would to anyone, I™ve faced several issues, and it
-          sounded wise to me to hold a bit this. Since the Beta release of Natty that I™m following
+Last week Iâ€™ve received an email from Bruce Byfield asking a few questions about this
+          project. Iâ€™ve replied honestly as I would to anyone, Iâ€™ve faced several issues, and it
+          sounded wise to me to hold a bit this. Since the Beta release of Natty that Iâ€™m following
           a technology forum in Portugal (over 150.000 users) and making a few notes on what peoples
           perceptions are about Unity and Natty. 
 
-From what I see amongst this segment of the Linux users in my country, it™s
-          interesting¦ While legacy users are moving away from Ubuntu to other alternatives seeking
+From what I see amongst this segment of the Linux users in my country, itâ€™s
+          interestingâ€¦ While legacy users are moving away from Ubuntu to other alternatives seeking
           GNOME3 (no one seems to be moving from GNOME/Unity to KDE), others are satisfied with
           Unity. The biggest problem with Natty users so far comes regarding Networking issues and
-          hardware compatibility¦ and once more Ubuntu™s kernels seem to be driving some people to
-          desperation with the classical MCE™s. 
+          hardware compatibilityâ€¦ and once more Ubuntuâ€™s kernels seem to be driving some people to
+          desperation with the classical MCEâ€™s. 
 
-A few days (4 days ago), Compiz 0.9.5 has been released. I™ve taken a look on the
+A few days (4 days ago), Compiz 0.9.5 has been released. Iâ€™ve taken a look on the
           Ubuntu package and the patch level has dropped substantially, which points that upstream
           has absorbed most of them. Dominique already has 0.9.5 prepared on X11:Compiz (though the
-          version needs a bump on the spec) and I™m going to test them out and start branching them
+          version needs a bump on the spec) and Iâ€™m going to test them out and start branching them
           over to GNOME:Ayatana during the next days and depending on the availability of reviews.
           This should be peaceful. 
 
-For this repository I™m going to enable a small pattern to provide a simple 1-Click
+For this repository Iâ€™m going to enable a small pattern to provide a simple 1-Click
           Installer for Compiz alone, this means that people will be able to test the patched
           version of Compiz in which Unity will be build upon in the future. 
 
-After Compiz is established on GNOME:Ayatana, I™m going to get back to Unity and
+After Compiz is established on GNOME:Ayatana, Iâ€™m going to get back to Unity and
           prepare Unity2D for deployment (being Unity a task for the future). Now if some people
-          wonder why all of this innactivity? The answer is simple¦ GNOME3 was being prepared and
+          wonder why all of this innactivity? The answer is simpleâ€¦ GNOME3 was being prepared and
           launched, and it deserved all the spotlights! 
 
-Now that GNOME3 has proudly established itself on it™s segment and despite the press
+Now that GNOME3 has proudly established itself on itâ€™s segment and despite the press
           attacks, the communities I keep tracking, I see what seems to be a substantial increase of
           interest on GNOME3. I would personally consider GNOME3 launch a success. (...)
 
-
+â€
+
+â€œ
 
 
-
-
-          [Nelson Marques: Unity 2D to enter GNOME:Ayatana soon¦](http://lizards.opensuse.org/2011/05/19/unity-2d-to-enter-gnomeayatana-soon/)
+          [Nelson Marques: Unity 2D to enter GNOME:Ayatana soonâ€¦](http://lizards.opensuse.org/2011/05/19/unity-2d-to-enter-gnomeayatana-soon/)
         
 
-In the past days I™ve been packaging and fixing some issues on Unity 2D for inclusion
+In the past days Iâ€™ve been packaging and fixing some issues on Unity 2D for inclusion
           on the GNOME:Ayatana repository in the openSUSE Build Service.
 
 This gave me an excellent opportunity to test a few components share by both, Unity
-          and Unity 2D, which is the case of ˜unity-place-applications™ and ˜unity-place-files™,
+          and Unity 2D, which is the case of â€˜unity-place-applicationsâ€™ and â€˜unity-place-filesâ€™,
           both using Zeitgeist which is already in Factory for the upcoming openSUSE 12.1. We thank
           the integration of this packages to Federico Quintero. Thanks Fred.
 
@@ -262,17 +265,17 @@ A few more additional packages need some care and once they get updated and test
           AppMenu (strangely it works on GNOME2 panel without issues).
 
 This is how Unity 2D looks like. There are transparencies because I enabled
-          ˜composite™ on metacity, which works very nicely. As far as I could understand, the
+          â€˜compositeâ€™ on metacity, which works very nicely. As far as I could understand, the
           developers of Unity 2D are also looking into implementing Compiz with Unity 2D, which
           would be sweet. (...)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 348)](https://features.opensuse.org/120340)
@@ -281,9 +284,9 @@ This is how Unity 2D looks like. There are transparencies because I enabled
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 183)](https://features.opensuse.org/305493)
@@ -298,9 +301,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 124)](https://features.opensuse.org/308497)
@@ -318,9 +321,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 99)](https://features.opensuse.org/305877)
@@ -341,13 +344,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [clear /tmp-dir at bootup](https://features.opensuse.org/312337)
@@ -357,9 +360,9 @@ Please clear the /tmp-dir at boot-up per default.
 
 At the moment this has to be activated manually with every new installation, is there a reason for not doing this out of the box?
 
-
+â€
 
-
+â€œ
 
 
             [Add BlueGriffon web editor to the repositories](https://features.opensuse.org/312338)
@@ -367,9 +370,9 @@ At the moment this has to be activated manually with every new installation, is 
 
 BlueGriffon is a relatively young project, but it does seem to be very good when compared to some of the other open source tools, not to mention that it's still a very active project.
 
-
+â€
 
-
+â€œ
 
 
             [YaST should warn during install if swap partition is too small for suspending](https://features.opensuse.org/312339)
@@ -381,9 +384,9 @@ partition. Now it's sometimes working an sometimes not...
 
 It would be nice and helpful if YaST would warn the user about that problem during the install process.
 
-
+â€
 
-
+â€œ
 
 
             [Push Perl 5.14 to Tumbleweed repository](https://features.opensuse.org/312340)
@@ -391,9 +394,9 @@ It would be nice and helpful if YaST would warn the user about that problem duri
 
 Perl 5.14 is here. Please, add new version on Tumbleweed repository.
 
-
+â€
 
-
+â€œ
 
 
             [get rid of /etc/sysconfig/sysctl](https://features.opensuse.org/312343)
@@ -417,9 +420,9 @@ Affected yast modules:
 
   * tune (ENABLE_SYSRQ)
 
-
+â€
 
-
+â€œ
 
 
             [Add --conf-foo flag to zypper for all "foo" in /etc/zypp.conf](https://features.opensuse.org/312344)
@@ -433,9 +436,9 @@ So for example, packagesdir could be overridden via --conf-main-packagesdir. Etc
 
 This is what many other utilities do. For example, OpenSSH does with the '-o' flag (e.g., `-oPort=1234').
 
-
+â€
 
-
+â€œ
 
 
             [AuthorizedKeysCommand patch for openssh OR openssh-lpk](https://features.opensuse.org/312362)
@@ -450,9 +453,9 @@ Of course there is the openssh-lpk patch as well.
 
 My company has standardized on suse some time ago, but by policy we require dual factor authentication (key and password). We can not move to an ldap solution until there is a way to integrate ssh keys into ldap. We are a growing company and it is getting to the stage where it is painful to manage each server individually without a centralized system for authentication.
 
-
+â€
 
-
+â€œ
 
 
             [Qualcomm Gobi Wizard, making mobile broadband simple](https://features.opensuse.org/312364)
@@ -460,7 +463,7 @@ My company has standardized on suse some time ago, but by policy we require dual
 
 My HP un2400 Gobi device is supported and should work. Whether it is due to USB mode switching or that the gobi_loader does not work correctly I do not know. There should be a simple wizard like that which ships under Windows (VZW connection manager) to allow me and other users in the same situation to easily make us of the Mobile Broadband we pay for. This is the final thing keeping me from wiping Windows off my netbook entirely.
 
-
+â€
 
 ##### Feature Statistics
 
@@ -468,7 +471,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry Finger: Weekly News for Weekly News for May 21](http://lists.opensuse.org/opensuse-testing/2011-05/msg00006.html)
@@ -487,23 +490,23 @@ Our next meeting will be Monday, May 23 at 17:00 UTC on our usual IRC channel. T
           meeting was scheduled to occur after the release of 12.1 M1; however, that event is
           delayed. I expect a short discussion. 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### Postings from the Community
 
+â€œ
 
 
-
-        [Michal HrušeckÃ½: LinuxTag 2011](http://michal.hrusecky.net/2011/05/linuxtag-2011/)
+        [Michal HruÅ¡eckÃ½: LinuxTag 2011](http://michal.hrusecky.net/2011/05/linuxtag-2011/)
       
 
 Last week I was at LinuxTag in Berlin. It was a great event. This time it was my second
@@ -514,15 +517,15 @@ Last week I was at LinuxTag in Berlin. It was a great event. This time it was my
 
 And I believe that I also showed some interesting stuff to the people at our
         booth. I was speaking about GNOME Shell to anybody who happened to be nearby and everybody
-        liked it! Good work, GNOME guys! I™m glad I was able to be there and I want to share few
-        pictures from the event with you, so even if you couldn™t make it there, you™ll see at least
+        liked it! Good work, GNOME guys! Iâ€™m glad I was able to be there and I want to share few
+        pictures from the event with you, so even if you couldnâ€™t make it there, youâ€™ll see at least
         a little bit of what we were doing. We had a lot of fun 
 
 ![](http://michal.hrusecky.net/wp-includes/images/smilies/icon_wink.gif)
 
-
+â€
 
-
+â€œ
 
 
         [Marcus Meissner: Wine on Linuxtag 2011](http://lizards.opensuse.org/2011/05/16/wine-on-linuxtag-2011/)
@@ -532,34 +535,34 @@ As Christian Boltz and myself held a quite successful talk on Wine on the 2010 o
         conference, we decided to again hold a talk at Germanys largest Linux fair, Linux Tag 2011
         in Berlin.
 
-![](http://lizards.opensuse.org/wp-content/uploads/2011/05/0516-125435a-150x150.jpg)
+![](http://lizards.opensuse.org/wp-content/uploads/2011/05/0516-125435a.jpg)
 
-We again ran the pun talk Wine (not) the Emulator vs Wine the beverage, with
+We again ran the pun talk â€œWineâ€ (not) the Emulator vs â€œWineâ€ the beverage, with
         Christian talking about life and work at a vineyard and his wine grower community at
         Deutsches Weintor.
 
-![](http://lizards.opensuse.org/wp-content/uploads/2011/05/5720342876_a1ed609bc6_b-150x150.jpg)
+![](http://lizards.opensuse.org/wp-content/uploads/2011/05/5720342876_a1ed609bc6_b.jpg)
 
 Included in this talk was a Wine tasting of 4 different kinds of Wine, as grown in the
       area were Christian lives.
 
-![](http://lizards.opensuse.org/wp-content/uploads/2011/05/5720344274_3f4a4e3edb_b-150x150.jpg)
+![](http://lizards.opensuse.org/wp-content/uploads/2011/05/5720344274_3f4a4e3edb_b.jpg)
 
 His stories on Vineyard activities and the processing from grape to wine interluded with
         myself talking about Wine the Emulator, its historical and statistical parts, game support
         and futures.
 
-![](http://lizards.opensuse.org/wp-content/uploads/2011/05/5720348760_0dab4c2a3d_b-150x150.jpg)
+![](http://lizards.opensuse.org/wp-content/uploads/2011/05/5720348760_0dab4c2a3d_b.jpg)
 
 Around 70 people enjoyed our light hearted wrap up talk of this Linux Tag
         conference.
 
-Images: by hueck2342 at flickr.com, licensed as Creative Commons “ Share Alike,
+Images: by hueck2342 at flickr.com, licensed as Creative Commons â€“ Share Alike,
         Attribute, Non Commercial [http://creativecommons.org/licenses/by-nc-sa/2.0/](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
-
+â€
 
-
+â€œ
 
 
         [Jos Poortvliet: LinuxTag 2011](http://blog.jospoortvliet.com/2011/05/linuxtag-2011.html)
@@ -585,9 +588,9 @@ Still, I'm quite sure we got the word out on openSUSE. Especially when it comes 
         what is really so special about the specific kernel or LibreOffice version we ship? I feel a
         lot happier telling people about [Tumbleweed](http://opensuse.org/Tumbleweed) or [OBS](http://build.opensuse.org)! (...)
 
-
+â€
 
-
+â€œ
 
 
       [Vincent Untz: Solutions Linux & LinuxTag 2011](http://www.vuntz.net/journal/post/2011/05/20/Solutions-Linux-LinuxTag-2011)
@@ -595,7 +598,7 @@ Still, I'm quite sure we got the word out on openSUSE. Especially when it comes 
 
 I was traveling last week to attend two events: Solutions Linux in Paris and LinuxTag in
       Berlin. It was a bit unfortunate that they happened during the same week, as they conflicted
-      for two days ” which means I missed some days for both events. And on top of that, the
+      for two days â€” which means I missed some days for both events. And on top of that, the
       Ubuntu Developer Summit was also last week, which resulted in some people missing the
       events... 
 
@@ -610,27 +613,27 @@ What was most amazing, however, was to be present at booths just one month after
       around 600 of them at Solutions Linux and probably a similar amount, if not more, at
       LinuxTag (Tobias would know better than me here).
 
-
+â€
 
-
+â€œ
 
 
       [Thomas Schmidt: Linuxtag 2011 in Berlin](http://www.digitalflow.de/blog/2011/05/linuxtag-2011-in-berlin/)
     
 
-Berlin is a great location for the Linuxtag, it™s always nice to come there. Just have a
+Berlin is a great location for the Linuxtag, itâ€™s always nice to come there. Just have a
       look at the photo: The boosters are getting hip! Nearly the complete boosters team was there
       to meet, be available at our booth for questions and take part at the talks. With over 10.000
-      attendees it™s the biggest event of this kind, and you can be sure to always meet some well
+      attendees itâ€™s the biggest event of this kind, and you can be sure to always meet some well
       known faces of the openSUSE community there.
 
 On the technical side, there were some interesting talks about virtualization,
       cross-distribution, kernel and the usage of free software in business environments just to
       give a few examples. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Jos Poortvliet: Promoting openSUSE at a conference](http://blog.jospoortvliet.com/2011/05/promoting-opensuse-at-conference.html)
@@ -665,9 +668,9 @@ The[ Ambassador portal](http://en.opensuse.org/Portal:Ambassadors) on
 So, ambassadors, use what we have - and let us know if it works for you or even better -
         just improve it! 
 
-
+â€
 
-
+â€œ
 
 
         [Greg Kroah-Hartman: Help me come up with good questions for Linus at LinuxCon Japan 2011](http://www.kroah.com/log/linux/linuxcon_linus_talk_help.html)
@@ -686,9 +689,9 @@ But there's no reason we have to stick with that topic, right? [Send me your ide
         best to pick through them and come up with something entertaining enough to fill up a 45
         minute discussion between two boring Linux kernel developers.
 
-
+â€
 
-
+â€œ
 
 
         [Rousinopoulos Athanasios-Ilias: Participation of openSUSE Greek Community in Xariseto.gr Bazaar, May 14, 2011 (REPORT)](http://zoumpis.wordpress.com/2011/05/20/participation-of-opensuse-greek-community-in-xariseto-gr-bazaar-may-14-2011-report/)
@@ -699,22 +702,22 @@ On May 14 2011, we joined the calling from our friends from the web page xariset
         maps). 
 
 Xariseto is a festival where people meet and donate their personal belongings which they
-        don™t use any more. So as a Linux and openSUSE community we thought that participating in
+        donâ€™t use any more. So as a Linux and openSUSE community we thought that participating in
         these kind of festivals is really interesting. 
 
 Me and Efstathios Iosifidis set up a booth in order to inform people about FOSS and
         openSUSE project. We had all the related stuff about Gnome and openSUSE project around the
-        booth (DVD™s , Cheat Sheet, flyer).
+        booth (DVDâ€™s , Cheat Sheet, flyer).
 
-
+â€
 
 ### Events & Meetings
 
 Past
 
-  * [May 17, 2011 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [May 17, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
-  * [May 18, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [May 18, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 Upcoming
 
@@ -724,7 +727,7 @@ Upcoming
 
   * [June 1-3, 2011 : Linux Con Japan (Yokohama , Japan)](http://events.linuxfoundation.org/events/linuxcon-japan)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -746,7 +749,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 
       [SUSE Security Announcement: Linux kernel (SUSE-SA:2011:026)](http://lists.opensuse.org/opensuse-security-announce/2011-05/msg00007.html)
@@ -792,9 +795,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >remote denial of service
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [SUSE Security Announcement: flash-player (SUSE-SA:2011:025)](http://lists.opensuse.org/opensuse-security-announce/2011-05/msg00006.html)
@@ -840,9 +843,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >remote code execution
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [OMG!SUSE! team: Yet another Flash Player security update](http://omgsuse.com/content/yet-another-flash-player-security-update)
@@ -875,11 +878,11 @@ For most users, you'll just need to follow these steps:
 
   * Relax with a Long Island Ice Tea
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [h-online/Thorsten Leemhuis: What's new in Linux 2.6.39](http://www.h-online.com/open/features/What-s-new-in-Linux-2-6-39-1242910.html)
@@ -900,9 +903,9 @@ This article will provide a brief description of the new Linux version's most im
       systems in the short or medium term, as these kernels are based on the kernels released by
       Linus Torvalds. (...)
 
-
+â€
 
-
+â€œ
 
 
       [DesktopLinux: Linux 2.6.39 assists firewalls, speeds up Ext4](http://www.desktoplinux.com/news/NS8245116373.html)
@@ -932,23 +935,23 @@ Linux 2.6.39 is a modest release compared to the mid-March [
         according to Phoronix benchmarks
       ](http://www.linuxfordevices.com/c/a/News/Phoronix-power-consumption-benchmarks-on-Linux-kernel-Ubuntu/) in April.
 
-
+â€
+
+â€œ
 
 
-
-
-      [Rares Aioanei: kernel weekly news “ 21.05.2011](http://schaiba.wordpress.com/2011/05/21/kernel-weekly-news-21-05-2011/)
+      [Rares Aioanei: kernel weekly news â€“ 21.05.2011](http://schaiba.wordpress.com/2011/05/21/kernel-weekly-news-21-05-2011/)
     
 
 This weeks Issue of Rares Aoianei's Kernel Weekly News.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [Pascal Bleser: What's an orig-addon ?](http://dev-loki.blogspot.com/2011/05/whats-orig-addon.html)
@@ -992,9 +995,9 @@ Okay, now back to the actual topic. The libraries of the [gstreamer](http://gstr
         I agree, the suffix "orig-addon" is stupid, too "geeky" and not intuitive in any way.)
         (...)
 
-
+â€
 
-
+â€œ
 
 
         [Anastasios Ksouzafeiris: How to install Enlightenment (E17) in openSUSE 11.4](http://anksos.blogspot.com/2011/05/how-to-install-enlightenment-e17-in.html)
@@ -1006,37 +1009,37 @@ Hello folks, two days ago I installed on my netbook Enlightenment WM (window man
         the apps are modules and you have only to load them or unload them.. After this quick
         introduction i think we must go to the installation and see it by your self. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [BashShell.net/mike: Using nl to Number Lines](http://bashshell.net/commands/using-nl-to-number-lines/)
       
 
-The nl utility is use for numbering lines of a text file.    It™s easy to use, and there are only a few options that you need to remember.  Start by creating a file with ten consecutive lines. (...)
+The nl utility is use for numbering lines of a text file.    Itâ€™s easy to use, and there are only a few options that you need to remember.  Start by creating a file with ten consecutive lines. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Python4Kids/Brendan Scott: New Tutorial - A Functioning Stand Alone Python Program](http://python4kids.wordpress.com/2011/05/17/a-functioning-stand-alone-python-program/)
       
 
-In the last tutorial we created a file using our text editor and saved a function to it.  This file was called trivia.py and in it was the module trivia.  We then started Python in a console and import()ed the trivia module.  Once imported, it created a namespace and we could access the askQuestion() function from within the trivia namespace by using a dot “ trivia.askQuestion().  In order for the module to work properly we had to include an import statement within the module itself so that everything that the module relied upon was imported within the module.  We then manually loaded our data from a pickle file we created and, manually, ran the askQuestion() function on the first question in our data store.   Finally we added docstrings to the function and the module.
+In the last tutorial we created a file using our text editor and saved a function to it.  This file was called trivia.py and in it was the module â€œtriviaâ€.  We then started Python in a console and import()ed the trivia module.  Once imported, it created a â€œnamespaceâ€ and we could access the askQuestion() function from within the trivia namespace by using a dot â€“ trivia.askQuestion().  In order for the module to work properly we had to include an import statement within the module itself so that everything that the module relied upon was imported within the module.  We then manually loaded our data from a pickle file we created and, manually, ran the askQuestion() function on the first question in our data store.   Finally we added docstrings to the function and the module.
 
-In this tutorial we™re going to try to do much the same thing again, but without using the Python interpreter.  That is, we will need to take the things we did in the interpreter and implement them in our trivia.py file.  We will have a functioning (although still quite simple) stand alone Python program. (...)
+In this tutorial weâ€™re going to try to do much the same thing again, but without using the Python interpreter.  That is, we will need to take the things we did in the interpreter and implement them in our trivia.py file.  We will have a functioning (although still quite simple) stand alone Python program. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [ServerWatch/Joe Brockmeier: Discover Rootkits With Unhide](http://www.serverwatch.com/tutorials/article.php/3933691/article.htm)
@@ -1048,11 +1051,11 @@ If you've ever encountered a rootkit, you know the symptoms -- suddenly a box is
 
 **Editors Note**: unhide_rb packages for openSUSE are [available from OBS's security repo](http://software.opensuse.org/search?p=1&baseproject=ALL&q=unhide).
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 
       [Bruno Friedmann: ATI/AMD fglrx 8.850 Catalyst 11.5 available for openSUSE 11.2, 11.3, 11.4, Factory](http://lizards.opensuse.org/2011/05/14/atiamd-fglrx-8-850-catalyst-11-5-available-for-opensuse-11-2-11-3-11-4-factory/)
@@ -1061,8 +1064,8 @@ If you've ever encountered a rootkit, you know the symptoms -- suddenly a box is
 Please refer to my [previous article](http://lizards.opensuse.org/?p=6680) where all the installation procedure is explained. 
 
 At least after a wrong 11.4 version, and a first buggy 11.5 catalyst version, the new one
-      is finally build and ready to install from the repo. Like for 11.3 I™ve clean up all previous
-      version which are not xpic, so everybody can easily know which drivers he has to install. I™ve
+      is finally build and ready to install from the repo. Like for 11.3 Iâ€™ve clean up all previous
+      version which are not xpic, so everybody can easily know which drivers he has to install. Iâ€™ve
       resigned all rpm with my key. And the tests made show them working. 
 
 Warning 
@@ -1074,9 +1077,9 @@ Some instabilities have been reported. In case of crash like no keyboard, mouse,
 
 All credits to Sebastian Siebert (freespacer) : [11.5 article](http://bit.ly/l6Ddyc) (...)
 
-
+â€
 
-
+â€œ
 
 
       [Will Stephenson: Have you BURPed yet today?](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/)
@@ -1104,40 +1107,40 @@ And by doing so we all get the latest versions in the devel project and soon in 
 
 Happy BURPing!
 
-
+â€
 
-
+â€œ
 
 
       [Uwe Gansert: SUSE Manager install/setup Screenshots](http://suse.gansert.net/?p=136)
     
 
 Some people fear it takes too much time to do a SUSE Manger setup just for testing. I
-      decided to show the complete workflow just in screenshots to demonstrate it™s easy and will
-      not take longer than maybe 20 minutes “ most time just waiting. You can download an eval
+      decided to show the complete workflow just in screenshots to demonstrate itâ€™s easy and will
+      not take longer than maybe 20 minutes â€“ most time just waiting. You can download an eval
       version [here](http://download.novell.com/Download?buildid=UU3B3_bJH-Q%7E).
       You need at least 2GB RAM and 12GB disk space for installation. 
 
-Let™s go. On the bottom right of each screenshot you have a link that points to the next
+Letâ€™s go. On the bottom right of each screenshot you have a link that points to the next
       screenshot, so you can easily click through a complete installation now. (...)
 
-
+â€
 
-
+â€œ
 
 
       [Uwe Gansert: DBus Interface of clementine](http://suse.gansert.net/?p=191)
     
 
-Without music, life would be a mistake. “ Friedrich
+â€œWithout music, life would be a mistake.â€ â€“ Friedrich
       Nietzsche
 
-I don™t like Amarok2. I really liked the 1.4 version but now, since 2.0, it™s just broken
+I donâ€™t like Amarok2. I really liked the 1.4 version but now, since 2.0, itâ€™s just broken
       and ugly, so yesterday I switched to [Clementine](http://www.clementine-player.org/).
 
-Everything was better from the start “ all the covers were finally shown correctly, the
-      UI is useable, the playing order is always correct, the last.fm plugin is a lot better ¦ and ¦
-      and ¦ and ¦
+Everything was better from the start â€“ all the covers were finally shown correctly, the
+      UI is useable, the playing order is always correct, the last.fm plugin is a lot better â€¦ and â€¦
+      and â€¦ and â€¦
 
 All I was missing, was my little now-playing script for
       xchat.
@@ -1145,11 +1148,11 @@ All I was missing, was my little now-playing script for
 I did that in [the past](http://suse.gansert.net/?p=27) already for
       amarok, so I just had to change that a bit. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
 
-
+â€œ
 
 
       [Are you a contributor](http://forums.opensuse.org/english/other-forums/community-fun/surveys-polls/459331-you-contributor.html)
@@ -1159,9 +1162,9 @@ I did that in [the past](http://suse.gansert.net/?p=27) already for
       This thread does not need much introduction. A community based distribution needs a community. But what do it's members do to contribute. Here's a survey + poll.
     
 
-
+â€
 
-
+â€œ
 
 
       [Boot problem after update](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/459751-boot-problem-after-update.html)
@@ -1171,9 +1174,9 @@ I did that in [the past](http://suse.gansert.net/?p=27) already for
       Like most distributions openSUSE has an update system, sometimes refered to as YOU, Yast Online Update. The updates provided vary from new program releases to serious system updates. Now, this thread reports issues, and solutions, for boot problems related to a recent kernel update. Meanwhile there's quite some info available about the boot process.
       
 
-
+â€
 
-
+â€œ
 
 
       [Unable to capture sound](http://forums.opensuse.org/english/get-technical-help-here/multimedia/459785-unable-capture-sound.html)
@@ -1183,9 +1186,9 @@ I did that in [the past](http://suse.gansert.net/?p=27) already for
       Over the past decade computers have become true muldimedia machines. We use them to play our music and videos, some of us watch TV, many of us use VOIP, we make music. To do so, one of the things that needs to work is sound capture, for example recording through a microphone in a laptop. Here's a user with problems in capturing sound, the thread ends in a very happy ending. Read what's done to help the poster out.
       
 
-
+â€
 
-
+â€œ
 
 
     [openSUSE 11.4 Kmix too few channels](http://forums.opensuse.org/english/get-technical-help-here/multimedia/456987-opensuse-11-4-kmix-too-few-channels-probably-due-pulseaudio.html)
@@ -1195,13 +1198,13 @@ I did that in [the past](http://suse.gansert.net/?p=27) already for
       Another one from the multimedia area. A nice thread for those used to KDE4 and Kmix's interface, since there have been some changes in how sound is handled. This has resulted in a different layout of the Kmix interface. If you have sound working OK, but are wondering where all the channels you used to see in Kmix have gone, this should be a good read for you.
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Announcements
 
-
+â€œ
 
 
         [SUSE Announces Executive Leadership Team with Dedicated Focus on Driving Growth and Innovation in the Linux Marketplace](http://www.novell.com/news/press/2011/5/suse-announces-executive-leadership-team-with-dedicated-focus-on-driving-growth-and-innovation-in-the-linux-marketplace.html)
@@ -1215,9 +1218,9 @@ SUSE, a new business unit of The Attachmate Group, today announced its organizat
 
 Leading SUSE from its newly based headquarters in Nuremberg, Germany, Brauckmann and his team of experienced industry executives will be responsible for the organization's continued development and sale of solutions based on SUSE Linux Enterprise, through the Open Platform Solutions division of the former Novell, Inc. Specifically, Brauckmann will drive SUSE sales, marketing, engineering, technical support and consulting and training services that align with customer needs and demands. He will passionately advocate enterprise adoption of open source solutions and support the activities of the [openSUSE community](http://en.opensuse.org/Portal:Project). (...)
 
-
+â€
 
-
+â€œ
 
 
         [BMC Software, Eucalyptus, HP, IBM, Intel, Red Hat and SUSE Create Open Virtualization Alliance](http://www.openvirtualizationalliance.org/news/)
@@ -1225,9 +1228,9 @@ Leading SUSE from its newly based headquarters in Nuremberg, Germany, Brauckmann
 
 **SAN FRANCISCO, MAY 17, 2011** - BMC Software (NASDAQ:BMC), Eucalyptus Systems, HP (NYSE:HPQ), IBM (NYSE: IBM), Intel (NYSE: INTC), Red Hat, Inc. (NYSE: RHT) and SUSE today announced the formation of the Open Virtualization Alliance, a consortium committed to fostering the adoption of open virtualization technologies including [Kernel-based Virtual Machine (KVM)](http://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine). The consortium will promote examples of customer successes, encourage interoperability and accelerate the expansion of the ecosystem of third party solutions around KVM, providing businesses improved choice, performance and price for virtualization. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Announcing Xamarin](http://tirania.org/blog/archive/2011/May-16.html)
@@ -1252,11 +1255,11 @@ These are some of the things that we will be doing at Xamarin:
 
 (...)
 
-
+â€
 
 ### Call for participation
 
-
+â€œ
 
 
         [h-online/Chris von Eitzen: GNOME and KDE 2011 Desktop Summit programme published](http://www.h-online.com/open/news/item/GNOME-and-KDE-2011-Desktop-Summit-programme-published-1246775.html)
@@ -1266,11 +1269,11 @@ The GNOME Foundation and KDE e.V. boards have published the [programme](https://
 
 The 2011 event will take place over the course of a week from 6 to 12 August at the [Humboldt University](http://www.hu-berlin.de/standardseite-en) in Berlin, Germany; it is open to developers, community members and users alike. The joint conference is supported locally by the Berlin Senate and the TSB Innovation Agency Berlin GmbH, and is expected to bring together more than one thousand core contributors, open source leaders and representatives from government, education and corporate environments. (...)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 
         [h-online/Chris von Eitzen: Getting a grip on Flash cookies: Adobe publishes Flash 10.3 ](http://www.h-online.com/security/news/item/Getting-a-grip-on-Flash-cookies-Adobe-publishes-Flash-10-3-1242645.html)
@@ -1278,7 +1281,7 @@ The 2011 event will take place over the course of a week from 6 to 12 August at 
 
 Adobe has [published](http://kb2.adobe.com/cps/901/cpsid_90194.html?cjsku=47050364&PID=3848922) version 10.3 of its [Flash Player](http://get.adobe.com/flashplayer/) for all platforms. This version finally gives users control of their
         Flash cookies, but only if one of the currently supported web browsers is used: [FirefoxÃ½4](http://www.h-online.com/open/features/What-s-new-in-Firefox-4-0-1212755.html), [ChromeÃ½11](http://www.h-online.com/news/item/Chrome-11-Google-s-web-browser-learns-to-listen-1233908.html), Internet ExplorerÃ½8 (or higher) and, soon, Safari. The new
-        ClearSiteData API allows the browser to [take care](http://www.h-online.com/news/item/Chrome-12-Beta-brings-Flash-cookie-protection-1240386.html) of Flash cookies (LSOs “ Local Shared Objects), which it can manage as
+        ClearSiteData API allows the browser to [take care](http://www.h-online.com/news/item/Chrome-12-Beta-brings-Flash-cookie-protection-1240386.html) of Flash cookies (LSOs â€“ Local Shared Objects), which it can manage as
         though they were normal cookies. Up until this release, users had to visit the [Settings Manager](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) on Adobe's website to handle the stubborn Flash cookies.
 
 Under Windows, Flash cookies can also be managed via a new entry in the control panel.
@@ -1289,9 +1292,9 @@ Under Windows, Flash cookies can also be managed via a new entry in the control 
         with [SiteCatalyst](http://www.omniture.com/en/products/online_analytics/sitecatalyst). The update for [Flash Player Incubator](http://labs.adobe.com/technologies/flashplatformruntimes/incubator/features/), Adobe's test bed for new functions, will be of interest for
         developers with its JSON support and secure random number generator.
 
-
+â€
 
-
+â€œ
 
 
         [h-online/Dj Walker-Morgan: De Icaza announces new Mono-centric company - Xamarin](http://www.h-online.com/open/news/item/De-Icaza-announces-new-Mono-centric-company-Xamarin-1244119.html)
@@ -1313,9 +1316,9 @@ De Icaza has also finally given public confirmation that Attachmate began laying
         comment on who had been laid off and claimed that "all technology roadmaps remain
         intact".
 
-
+â€
 
-
+â€œ
 
 
         [h-online/Dj Walker-Morgan: New SUSE chief: openSUSE is very prominent in my thinking](http://www.h-online.com/open/news/item/New-SUSE-chief-openSUSE-is-very-prominent-in-my-thinking-1245495.html)
@@ -1339,9 +1342,9 @@ He replied that openSUSE was very prominent in the company's thinking saying "Fr
 
 **Related article from other source**:[ LinuxforDevices](http://www.linuxfordevices.com/c/a/News/Attachmate-names-Nils-Brauckmann-as-SUSE-president/?kc=rss)
 
-
+â€
 
-
+â€œ
 
 
         [Linuxconfig.org: Linux job portal launched: LinuxCareer.com](http://linuxconfig.org/linux-job-portal-launched-linuxcareercom)
@@ -1349,9 +1352,9 @@ He replied that openSUSE was very prominent in the company's thinking saying "Fr
 
 As a demand for Linux-related jobs has jumped unexpectedly high in the last couple of years, [LinuxCareer.com](LinuxCareer.com) as a new Linux related job portal attempts to compensate for this sudden surge in demand for Linux skilled professionals and will surely accommodate both employers and job seekers.  LinuxCareer.com is not affiliated with any local or international company, nor is it a recruitment or employment agency and it is specialising only in Linux based careers and closely related Information Technology fields. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Hubfolio/Matthew Casperson: Run Linux in your web browser with JSLinux](http://www.brighthub.com/hubfolio/matthew-casperson/articles/117315.aspx)
@@ -1363,11 +1366,11 @@ There is nothing like a few benchmarks to encourage companies to push their tech
 
 Still, that doesn't stop hobbiest from exploring the possibilities that are provided by the latest wave of high performance JavaScript engines. [JSLinux](http://bellard.org/jslinux/) is one such example. It emulates a 486 based PC and uses it to run a 2.6.20 Linux kernel based OS, and includes a host of terminal tools like vi, emacs, tiny c compiler and more. (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [Linux.com/Jack Wallen: Stop Spam with Bogofilter on Linux ](http://www.linux.com/learn/tutorials/446736-stop-spam-with-bogofilter-on-linux)
@@ -1383,41 +1386,41 @@ There are a number of tools available for Linux to prevent spam. One of those to
         the process of getting Bogofilter integrated with two of the more popular Linux email
         clients as well as helping you train Bogofilter for spam and ham.
 
-
+â€
 
-
+â€œ
 
 
         [Linuxaria: Cheat Sheet collection](http://www.linuxaria.com/pills/cheat-sheet-collection-best?lang=en)
       
 
-For [Wikipedia](http://en.wikipedia.org/wiki/Cheat_sheet): A cheat sheet or crib sheet is a concise set of notes used for quick reference. Cheat sheet may also be rendered cheatsheet.
+For [Wikipedia](http://en.wikipedia.org/wiki/Cheat_sheet): A cheat sheet or crib sheet is a concise set of notes used for quick reference. â€œCheat sheetâ€ may also be rendered â€œcheatsheetâ€.
         
       
 
-People working in informatics in general and on unix terminals in particular know that is not so easy remember every single command and so it™s usual to have Cheat Sheet, a collection of the most useful commands in a single A4 page for a particular program or environment.
+People working in informatics in general and on unix terminals in particular know that is not so easy remember every single command and so itâ€™s usual to have â€œCheat Sheetâ€, a collection of the most useful commands in a single A4 page for a particular program or environment.
         
       
 
 And this is my small collection. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Pingdom: The top 20 strongholds for desktop Linux](http://royal.pingdom.com/2011/05/12/the-top-20-strongholds-for-desktop-linux/)
       
 
-As a server OS, Linux has long been highly successful and a poster child for open source. For example, Linux currently powers a majority of the world™s web servers and supercomputers. As a desktop OS, however, Linux has yet to gain mainstream acceptance.
+As a server OS, Linux has long been highly successful and a poster child for open source. For example, Linux currently powers a majority of the worldâ€™s web servers and supercomputers. As a desktop OS, however, Linux has yet to gain mainstream acceptance.
 
 That said, there are some countries where people have embraced Linux on the desktop to a greater degree than most.
 
-Since you probably wouldn™t be able to guess which these countries are no matter how hard you tried, we have highlighted them in this article. Read on to find out where desktop Linux is most popular, plus some nice bonus stats. (...)
+Since you probably wouldnâ€™t be able to guess which these countries are no matter how hard you tried, we have highlighted them in this article. Read on to find out where desktop Linux is most popular, plus some nice bonus stats. (...)
 
-
+â€
 
-
+â€œ
 
 
         [ITWorld/Steven J. Vaughan-Nichols: 5 Skype alternatives for Linux users](http://www.itworld.com/unified-communications/166637/5-skype-alternatives-linux-users?page=0,0)
@@ -1438,9 +1441,9 @@ That said, there are numerous Linux VoIP programs and they're also free as in
         able to use one client to call another. To do this, of course, they must be on the same SIP
         or XMPP network. For example, I use the Ekiga.net VoIP network for SIP calls. 
 
-
+â€
 
-
+â€œ
 
 
         [Dedoimedo: The Humble Frozenbyte Bundle Reviewed ](http://www.dedoimedo.com/games/humble-bundle-part-3.html)
@@ -1455,9 +1458,9 @@ Time for another Humble Bundle review! After parts [one](http://www.dedoimedo.co
         Claw, which is going to focus on realistic physics combat in a modern urban environment, and
         Splot, which is going to be a 2D adventure arcade. 
 
-
+â€
 
-
+â€œ
 
 
         [Free Software Foundation/Richard Stallman: Microsoft Skype](http://www.fsf.org/blogs/rms/microsoft-skype)
@@ -1482,7 +1485,7 @@ The GNU Project is developing [free software to do more or less the same job](ht
 
 Replacing Skype with free software is an FSF [High Priority Project](http://www.fsf.org/campaigns/priority-projects/#skypereplacement).
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1514,7 +1517,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1532,7 +1535,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
@@ -1567,7 +1570,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 176 is available in: 
 
-  * [English](https://news.opensuse.org/?p=8834)
+  * [English](http://news.opensuse.org/?p=8834)
 
 Coming soon: 
 
@@ -1580,6 +1583,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

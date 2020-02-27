@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-11-28 09:46:21+00:00
 layout: post
 link: https://news.opensuse.org/2018/11/28/opensuse-to-have-poster-t-shirt-design-contest-for-osc19/
-title: "openSUSE to Have Poster, T-Shirt Design Contest for oSC19"
+slug: opensuse-to-have-poster-t-shirt-design-contest-for-osc19
+title: openSUSE to Have Poster, T-Shirt Design Contest for oSC19
+wordpress_id: 21368
 categories:
 - Announcements
 - Conference
@@ -18,7 +21,8 @@ tags:
 - svg
 - tshirt
 ---
-![]({{ site.baseurl }}/assets/oSC19-logo-with-name-1-300x204.png)openSUSE will have a t-shirt image and poster design contest for the [openSUSE Conference 2019](https://events.opensuse.org/conference/oSC19). Both contests are separate contests and have to meet certain requirements. Designers are encouraged to use open-source graphic editing software like [Inkscape](https://inkscape.org/), [Gimp](https://www.gimp.org/) or [Krita. ](https://krita.org)
+
+![](/wp-content/uploads/2018/11/oSC19-logo-with-name-1.png)openSUSE will have a t-shirt image and poster design contest for the [openSUSE Conference 2019](https://events.opensuse.org/conference/oSC19). Both contests are separate contests and have to meet certain requirements. Designers are encouraged to use open-source graphic editing software like [Inkscape](https://inkscape.org/), [Gimp](https://www.gimp.org/) or [Krita. ](https://krita.org)
 
 
 Design submitted should be licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and allow everyone to use it without attribution. Design submitted must be original and should not include any third party materials conflicting with [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) with the attribution exception.
@@ -75,4 +79,4 @@ Design submitted should be licensed under [CC-BY-SA 4.0](https://creativecommons
   6. Must include the words openSUSE Conference in the design.
 
 
-The contests begin Dec. 1 and have a deadline of Jan. 15. The winning design will be announced the week after the Jan. 15 deadline.		
+The contests begin Dec. 1 and have a deadline of Jan. 15. The winning design will be announced the week after the Jan. 15 deadline.

@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2012-11-24 16:16:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/11/24/planned-maintenance-downtime-december-1st/
-title: "Planned maintenance downtime December 1st"
+slug: planned-maintenance-downtime-december-1st
+title: Planned maintenance downtime December 1st
+wordpress_id: 14600
 categories:
 - Announcements
 - Infrastructure
@@ -12,6 +14,7 @@ tags:
 - Infrastructure
 - openSUSE forum
 ---
+
 **Update: all services are back - please report issues via mail to admin @ opensuse.org**
 
 On Saturday, **December 1st 2012**, at approximately **05:00 UTC** our data center team will do a backend storage upgrade. The planned window is **8-10 hours** for the maintenance, and specific applications will probably be not available until 24:00 UTC as listed below.
@@ -25,7 +28,7 @@ On Saturday, **December 1st 2012**, at approximately **05:00 UTC** our data cent
   * [openSUSE Lizards](http://lizards.opensuse.org/)
 
         
-  * [openSUSE News](https://news.opensuse.org/)
+  * [openSUSE News](//news.opensuse.org/)
 
         
   * openSUSE ([landing page](http://www.opensuse.org) and [wikis](wiki.opensuse.org))
@@ -79,4 +82,4 @@ To avoid confusion - the services listed below are not scheduled for any downtim
         
   * [Bugzilla](http://bugzilla.novell.com)
 
-		
+

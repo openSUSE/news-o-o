@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-04-20 08:51:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/04/20/krita-linux-kernel-kdeconnect-get-updated-tumbleweed/
-title: "Krita, Linux Kernel, KDEConnect Get Updated in Tumbleweed"
+slug: krita-linux-kernel-kdeconnect-get-updated-tumbleweed
+title: Krita, Linux Kernel, KDEConnect Get Updated in Tumbleweed
+wordpress_id: 20813
 categories:
 - Announcements
 - Distribution
@@ -35,7 +37,8 @@ tags:
 - Tumbleweed
 - yast
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)There have been a few [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots released in the past two weeks that brought some new features and fixes to users.
+
+![](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)There have been a few [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots released in the past two weeks that brought some new features and fixes to users.
 
 This blog will go over the past two snapshots.
 
@@ -43,4 +46,4 @@ The last snapshot, [20180416](https://lists.opensuse.org/opensuse-factory/2018-0
 
 Snapshot [20180410](https://lists.opensuse.org/opensuse-factory/2018-04/msg00435.html) had less than a handful of packages updated. The [Advanced Linux Sound Architecture](https://www.alsa-project.org/) package, alsa ,1.1.6 removed unused macros and added support for [python3](https://www.python.org) and alsa-utils 1.1.6 removed some obsolete patches. [GNU Compiler Collection](https://gcc.gnu.org/) 7 enabled a fix for [aarch64](https://en.wikipedia.org/wiki/ARM_architecture) and the communication package [rzsz](https://ohse.de/uwe/software/lrzsz.html) had rebase patches with its release candidate in the 0.12.21 version.
 
-The [Tumbleweed rating tool](http://review.tumbleweed.boombatower.com/) is currently trending the past few snapshots as unstable, but the last snapshots rating is posting a false negative due to comments made on the openSUSE Factory Mailing thread about the 4.16.2 Linux Kernel.		
+The [Tumbleweed rating tool](http://review.tumbleweed.boombatower.com/) is currently trending the past few snapshots as unstable, but the last snapshots rating is posting a false negative due to comments made on the openSUSE Factory Mailing thread about the 4.16.2 Linux Kernel.

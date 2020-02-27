@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-08-24 11:50:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/08/24/ceph-git-yast-kernel-update-in-tumbleweed/
-title: "Ceph, Git, YaST, kernel update in Tumbleweed"
+slug: ceph-git-yast-kernel-update-in-tumbleweed
+title: Ceph, Git, YaST, kernel update in Tumbleweed
+wordpress_id: 20074
 categories:
 - Leap
 - Tumbleweed
@@ -21,6 +23,7 @@ tags:
 - wicked
 - yast
 ---
+
 [![](http://yast.github.io/assets/images/yast-logo.png)openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) had another abundant week of snapshots.
 
 Four Tumbleweed snapshots were released since the last article and the snapshot of the week, [20160816](https://lists.opensuse.org/opensuse-factory/2016-08/msg00317.html), brought users a new version of [gtk3](http://www.gtk.org/) (3.20.8). Updated in the repositories for this snapshot was an updated version of yast2-auth-client (3.3.10). [Cairo graphics](https://www.cairographics.org/download/) fixed several bugs and [Apache2](https://httpd.apache.org/) removed the omc xml config because the change log states it is “useless nowdays.”
@@ -43,4 +46,4 @@ The submission deadline for Beta 1 for [openSUSE Leap 42.2](https://en.opensuse.
 
 Anyone who wants to help translate the release of [openSUSE Leap 42.2](https://en.opensuse.org/Portal:42.2) can email opensuse-translation(at)opensuse.org or sign up for an account and begin translating at[ https://l10n.opensuse.org](https://l10n.opensuse.org).
 
-Anyone who want to help with the release team should contact opensuse-factory(at)opensuse.org and community members are always encouraged to [help with the newest release](https://en.opensuse.org/Portal:How_to_participate).		
+Anyone who want to help with the release team should contact opensuse-factory(at)opensuse.org and community members are always encouraged to [help with the newest release](https://en.opensuse.org/Portal:How_to_participate).

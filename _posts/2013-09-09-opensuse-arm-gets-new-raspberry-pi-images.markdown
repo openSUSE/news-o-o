@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-09-09 09:10:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/09/09/opensuse-arm-gets-new-raspberry-pi-images/
-title: "openSUSE ARM Gets new Raspberry Pi Images"
+slug: opensuse-arm-gets-new-raspberry-pi-images
+title: openSUSE ARM Gets new Raspberry Pi Images
+wordpress_id: 16805
 categories:
 - Derivatives
 ---
-({{ site.baseurl }}/assets/IMG_20130907_133512.jpg)Sadly, the sticker doesn't fit...
+
+[caption id="attachment_16818" align="alignright" width="300"][![Raspberry Pi in action](//news.opensuse.org/wp-content/uploads/2013/09/IMG_20130907_133512.jpg)](//news.opensuse.org/wp-content/uploads/2013/09/IMG_20130907_133512.jpg)Sadly, the sticker doesn't fit...[/caption]
 
 Over the weekend, Bernhard Wiedemann has been working on new armv6 based images for the Raspberry Pi. It is built using a set of alternative build scripts aiming to make the building of the image easier. He's put the scripts as well as an image online, you can get it from oSC orÂ [here (image)](http://www.zq1.de/~bernhard/linux/opensuse/raspberrypi-opensuse-20130907.img.xz) and [here (scripts)](https://build.opensuse.org/package/show/devel:ARM:Factory:Contrib:RaspberryPi/altimagebuild). If you're playing around with Raspberry Pi and want to create images for your device(s), this is for you!
 
@@ -84,4 +87,4 @@ Compared to the old image, this one has some advantages:
 
 If you wanted to play with building images for the Raspberry Pi, this might well be the easiest way doing so! And as always, merge requests are very much welcome.
 
-_Have a lot of fun_		
+_Have a lot of fun_

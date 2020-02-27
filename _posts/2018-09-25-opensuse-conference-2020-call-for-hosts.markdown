@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-09-25 10:22:38+00:00
 layout: post
 link: https://news.opensuse.org/2018/09/25/opensuse-conference-2020-call-for-hosts/
-title: "openSUSE Conference 2020: Call for Hosts"
+slug: opensuse-conference-2020-call-for-hosts
+title: 'openSUSE Conference 2020: Call for Hosts'
+wordpress_id: 21288
 categories:
 - Announcements
 - Conference
@@ -28,7 +31,8 @@ tags:
 - organizational team
 - Prague
 ---
-![]({{ site.baseurl }}/assets/osc18-300x214.png)The [openSUSE](https://www.opensuse.org/) Project is pleased to announce that it is accepting proposals for openSUSE Conference 2020. The Call for Hosts will be open until April 15, 2019.
+
+![](/wp-content/uploads/2018/04/osc18.png)The [openSUSE](https://www.opensuse.org/) Project is pleased to announce that it is accepting proposals for openSUSE Conference 2020. The Call for Hosts will be open until April 15, 2019.
 
 The openSUSE Conference Organizational Team will review the submissions with the hopes of having a decision announced about the location of oSC20 at the [openSUSE Conference 2019](https://events.opensuse.org/conference/oSC19) in Nuremberg, Germany. Community members and open-source enthusiasts are encouraged to follow the [Conference How To](https://en.opensuse.org/openSUSE:Conference_How_to) guide on the wiki to submit a proposal on hosting the conference. The guide offers a [How to Bid](https://en.opensuse.org/openSUSE:Conference_How_to_bid) and [How to Checklist](https://en.opensuse.org/openSUSE:Conference_How_to_Check_List) to help with submitting a proposal.
 
@@ -38,7 +42,7 @@ While the [openSUSE](https://www.opensuse.org/) Project intends to move the conf
 
 <!-- more -->
 
-[Conference How to Bid![]({{ site.baseurl }}/assets/osc17final-300x214.png)](https://en.opensuse.org/openSUSE:Conference_How_to_bid)
+[Conference How to Bid![](/wp-content/uploads/2017/05/osc17final.png)](https://en.opensuse.org/openSUSE:Conference_How_to_bid)
 
 On this page, you can see how to bid so you can host the annual openSUSE conference. Write your fantastic proposal and cover the subjects of this page. Then follow the procedure.
 
@@ -243,7 +247,7 @@ Suggested structure
   * Please list the sources, photos credits and urls of the information gathered.
 
 
-[Conference How to Check List![]({{ site.baseurl }}/assets/oscfinal-1-300x214.png)](https://en.opensuse.org/openSUSE:Conference_How_to_Check_List)
+[Conference How to Check List![](/wp-content/uploads/2016/02/oscfinal-1.png)](https://en.opensuse.org/openSUSE:Conference_How_to_Check_List)
 
 Country
 
@@ -699,4 +703,4 @@ Ideas
 
 
 
-		
+

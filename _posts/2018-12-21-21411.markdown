@@ -1,9 +1,12 @@
 ---
 author: Ana María Martínez Gómez
+comments: true
 date: 2018-12-21 09:03:54+00:00
 layout: post
 link: https://news.opensuse.org/2018/12/21/21411/
-title: "Google Summer of Code 2018"
+slug: '21411'
+title: Google Summer of Code 2018
+wordpress_id: 21411
 categories:
 - Google Summer of Code
 - Mentoring
@@ -15,6 +18,7 @@ tags:
 - opensuse
 - students
 ---
+
 One more year, [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/), a mentoring program in which [openSUSE](https://www.opensuse.org/) helps university students contribute to open source project, has come to an end. So, before 2018 ends as well and we start preparing for the new edition of GSoC, it is time to speak about all the great things that happened this year. ![:sparkles:](https://github.githubassets.com/images/icons/emoji/unicode/2728.png)
 
 
@@ -59,4 +63,4 @@ My name is [Ana](http://anamaria.martinezgomez.name/) and I am a mentor and an
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/12/20/gsoc-ends.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 		
+This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/12/20/gsoc-ends.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 

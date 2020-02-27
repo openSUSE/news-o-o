@@ -1,15 +1,18 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2012-08-02 16:06:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/08/02/opensuse-12-2-rc2-ready-for-a-final-test/
-title: "openSUSE 12.2 RC2 Ready for a Final Test"
+slug: opensuse-12-2-rc2-ready-for-a-final-test
+title: openSUSE 12.2 RC2 Ready for a Final Test
+wordpress_id: 13749
 categories:
 - Announcements
 - Distribution
 ---
-![factory-tested]({{ site.baseurl }}/assets/factory-tested.png)
+
+![factory-tested](/wp-content/uploads/2012/06/factory-tested.png)
 Today, the openSUSE project makes available openSUSE 12.2 Release Candidate 2 for widespread testing, with a final release targeted for mid September. In the two weeks since the previous release candidate, a flurry of last minute fixes have arrived, mostly in higher level packages as the basic stack has been stabilized and locked.
 
 
@@ -52,7 +55,7 @@ LibreOffice got a version bump, and its artwork and branding was updated to the 
 
 Finally, the translation teams have been hard at work and those have been integrated in 12.2, and the multinationalisation developers made fixes to input methods.
 
-(http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow
+[caption id="attachment_12917" align="alignright" width="150"][![openSUSE Factory workflow](/wp-content/uploads/2012/03/600px-Factory_workflow.png)](http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow[/caption]
 
 
 ## Help out!
@@ -71,4 +74,4 @@ If you're already a packager for openSUSE and you want to start preparing for th
 
 We'd like to thank everyone working on openSUSE for being so cool. As we're focussing on 12.2, no top-ten factory contributors this time but we might start releasing that number more frequently in the future ;-)
 
-_have a lot of fun!_		
+_have a lot of fun!_

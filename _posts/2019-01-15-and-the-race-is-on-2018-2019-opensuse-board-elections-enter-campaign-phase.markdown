@@ -1,10 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-15 02:01:25+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/15/and-the-race-is-on-2018-2019-opensuse-board-elections-enter-campaign-phase/
-title: "And the Race is On! 2018-2019 openSUSE Board Elections Enter Campaign\
-  \ Phase"
+slug: and-the-race-is-on-2018-2019-opensuse-board-elections-enter-campaign-phase
+title: And the Race is On! 2018-2019 openSUSE Board Elections Enter Campaign Phase
+wordpress_id: 21464
 categories:
 - Announcements
 - Board
@@ -12,9 +14,10 @@ categories:
 - Infrastructure
 - Project
 ---
+
 Nominations and applications for Candidates came to a close Sunday, January 13, 2019, and the [Campaign Phase](https://en.opensuse.org/openSUSE:Board_election#Phase_1:_Campaign) of the [2018-2019 openSUSE Board Elections](https://en.opensuse.org/openSUSE:Board_election) kicked in Monday, January 14, with a seventh impressive Candidate,** [Marina Latini aka deneb_alpha](https://en.opensuse.org/User:Deneb_alpha) **entering the race for the [three vacant Board Seats](https://en.opensuse.org/openSUSE:Board_election#2018-2019_openSUSE_Board_Elections).
 
-({{ site.baseurl }}/assets/LatiniM.png) Marina Latini aka deneb_alpha
+[caption id="attachment_21462" align="alignright" width="180"][![](/wp-content/uploads/2019/01/LatiniM.png)](/wp-content/uploads/2019/01/LatiniM.png) Marina Latini aka deneb_alpha[/caption]
 
 Marina is a very active Italian [openSUSE](https://www.opensuse.org/) Advocate, involved in the [Project](https://en.opensuse.org/Portal:Project) since 2009, deeply involved in LibreOffice.  She relocated to Munich last June, where she is working for CIB mainly on its LibreOffice team as Senior Migrations & Deployments Engineer.  You may read more about Marina on her [Wiki User page](https://en.opensuse.org/User:Deneb_alpha).
 
@@ -28,7 +31,7 @@ Sarah and Sébastien's run for the Board was announced in [last Wednesday's open
 
 The [Elections Committee](mailto:election-officials@opensuse.org) would like to remind all [openSUSE Contributors](https://en.opensuse.org/Portal:How_to_participate) that a healthy [Project](https://en.opensuse.org/Portal:Project) is only possible if it has a robust roster of [Members](https://en.opensuse.org/openSUSE:Members), and it is especially important for the Elections process.
 
-({{ site.baseurl }}/assets/poster-election.png) 2018-2019 Election Poster contributed by Aris Winardi
+[caption id="attachment_21386" align="alignleft" width="368"][![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)](/wp-content/uploads/2018/12/poster-election.png) 2018-2019 Election Poster contributed by Aris Winardi[/caption]
 
 Applications for openSUSE Membership are accepted and processed on an ongoing basis, but a Membership Drive has been declared by the Elections Officials in an effort to get as many qualified Project Contributors to take part in the voting process, which is scheduled to begin February 4, 2019, and run for 12 days with ballots closing February 15.
 
@@ -38,4 +41,4 @@ Applications for openSUSE Membership are accepted and processed on an ongoing ba
 
 **All openSUSE Contributors and Members** are requested to actively urge other Contributors who are not Members to get their Membership and get out and vote.  All Members who have been approved by the [Membership Committee](https://en.opensuse.org/openSUSE:Membership_officials) before the start of balloting February 4 will be eligible to vote in this election.
 
-You can apply for openSUSE Membership by following the [instructions here](https://en.opensuse.org/openSUSE:Members).		
+You can apply for openSUSE Membership by following the [instructions here](https://en.opensuse.org/openSUSE:Members).

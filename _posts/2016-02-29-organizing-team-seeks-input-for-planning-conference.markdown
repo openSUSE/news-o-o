@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-02-29 15:41:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/02/29/organizing-team-seeks-input-for-planning-conference/
-title: "Organizing Team seeks input for planning conference"
+slug: organizing-team-seeks-input-for-planning-conference
+title: Organizing Team seeks input for planning conference
+wordpress_id: 19767
 categories:
 - Conference
 ---
-![oscfinal]({{ site.baseurl }}/assets/oscfinal-1-300x214.png)Planning for the openSUSE Conference in Nuremberg is moving along well.
+
+![oscfinal](/wp-content/uploads/2016/02/oscfinal-1.png)Planning for the openSUSE Conference in Nuremberg is moving along well.
 
 Each day brings more progress toward having a successful conference and this year the Organizing Team for oSC16 is looking for your input to make this year’s conference one to remember.
 
@@ -18,4 +21,4 @@ Besides that event, there are many things to do in Nuremberg and we need your op
 
 Please take the time to answer [the survey questions](http://svy.mk/21w9pS9).
 
-Two other entertainment options not list are a [car race](http://bit.ly/24x77B9) that will take place from June 24 - 26 in Nuremberg and a [90-minute Segway tour](http://bit.ly/1QGJuf9) through the city.		
+Two other entertainment options not list are a [car race](http://bit.ly/24x77B9) that will take place from June 24 - 26 in Nuremberg and a [90-minute Segway tour](http://bit.ly/1QGJuf9) through the city.

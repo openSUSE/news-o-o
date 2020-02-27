@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-07-06 04:00:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/07/06/opensuse-asia-summit-2019-call-for-host/
-title: "openSUSE.Asia Summit 2019: Call for Host"
+slug: opensuse-asia-summit-2019-call-for-host
+title: 'openSUSE.Asia Summit 2019: Call for Host'
+wordpress_id: 20939
 categories:
 - Conference
 - Summit
@@ -13,6 +15,7 @@ tags:
 - openSUSE Conference
 - openSUSE.Asia Summit
 ---
+
 **What is The Different?**
 
 _Starting this year, openSUSE.Asia organization committee are accepting proposals earlier for better preparation and well organized summit. This rule will be also applied for future summits. The guides for openSUSE.Asia Summit can be reached at _[_https://en.opensuse.org/Portal:Asia_Summit_](https://en.opensuse.org/Portal:Asia_Summit)
@@ -206,4 +209,4 @@ Key points proposals should consider, and what will be taken into account when d
 
 Feel free to contact opensuse-summit@opensuse.org if you have any questions. If this excites you enough, but you are still not sure, we should talk and see if we can solve your doubts. Please help to spread the words and we are looking forward to hearing from you soon!
 
-		
+

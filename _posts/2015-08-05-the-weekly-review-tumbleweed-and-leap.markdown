@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-08-05 12:31:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/08/05/the-weekly-review-tumbleweed-and-leap/
-title: "The weekly review: Tumbleweed and Leap"
+slug: the-weekly-review-tumbleweed-and-leap
+title: 'The weekly review: Tumbleweed and Leap'
+wordpress_id: 19386
 categories:
 - Weekly News
 ---
-[![gotherborg]({{ site.baseurl }}/assets/gotherborg-300x300.jpg)]({{ site.baseurl }}/assets/gotherborg.jpg)There were multiple things that happened this week with openSUSE, but rather than making each happening a short snippet of information on [news.opensuse.org](https://news.opensuse.org/), we felt it best to provide you this weekly review.
+
+[![gotherborg](/wp-content/uploads/2015/08/gotherborg.jpg)](/wp-content/uploads/2015/08/gotherborg.jpg)There were multiple things that happened this week with openSUSE, but rather than making each happening a short snippet of information on [news.opensuse.org](https://news.opensuse.org/), we felt it best to provide you this weekly review.
 
 
 #### Tumbleweed - TW
@@ -40,4 +43,4 @@ Artwork for Leap like Grub, Plymouth or other items can be submitted through git
 #### GUADEC
 
 
-This weekend we will be at GUADEC in Gothenburg, Sweden. (See Picture on the Right) The conference takes place August 7 – 9 at[ Folkets Hus](http://folketshusgoteborg.se/om-oss/english/) and there will be a three-day hackfest from August 10 – 12 at[ IT University](http://www.openstreetmap.org/#map=18/57.70678/11.93686&layers=Q). Come see us there, learn about open source and see what swag we have. - Ses Snart		
+This weekend we will be at GUADEC in Gothenburg, Sweden. (See Picture on the Right) The conference takes place August 7 – 9 at[ Folkets Hus](http://folketshusgoteborg.se/om-oss/english/) and there will be a three-day hackfest from August 10 – 12 at[ IT University](http://www.openstreetmap.org/#map=18/57.70678/11.93686&layers=Q). Come see us there, learn about open source and see what swag we have. - Ses Snart

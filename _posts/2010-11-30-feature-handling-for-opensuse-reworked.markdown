@@ -1,16 +1,19 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-11-30 16:00:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/
-title: "Feature handling for openSUSE reworked"
+slug: feature-handling-for-opensuse-reworked
+title: Feature handling for openSUSE reworked
+wordpress_id: 5585
 categories:
 - Distribution
 - Infrastructure
 - Project
 ---
-[![]({{ site.baseurl }}/assets/Screenshot-300x169.png)](https://news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/screenshot/)openFATE, the feature tracking tool used in openSUSE has been completely reworked and the new version is live now on [features.opensuse.org](http://features.opensuse.org/).
+
+[![](/wp-content/uploads/2010/11/Screenshot.png)](http://news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/screenshot/)openFATE, the feature tracking tool used in openSUSE has been completely reworked and the new version is live now on [features.opensuse.org](http://features.opensuse.org/).
 
 A [team](http://en.opensuse.org/openSUSE:Openfate_screening) has started driving the handling of features and we'd like to update you with the current state and invite you to participate.
 
@@ -118,4 +121,4 @@ Since openFATE has no real announcement page, here's a list of the most importan
 
 
 
-		
+

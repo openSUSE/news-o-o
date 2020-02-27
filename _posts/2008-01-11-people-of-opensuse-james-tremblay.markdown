@@ -1,29 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2008-01-11 11:20:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/01/11/people-of-opensuse-james-tremblay/
-title: "People of openSUSE: James Tremblay"
+slug: people-of-opensuse-james-tremblay
+title: 'People of openSUSE: James Tremblay'
+wordpress_id: 595
 categories:
 - People of openSUSE
 ---
+
 [openSUSE Education](http://en.opensuse.org/Education) founder James Tremblay was caught up by 'People of openSUSE' to an interesting interview.
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![james_tremblay.jpg]({{ site.baseurl }}/assets/james_tremblay.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|FXRSLiberty, (FX) Which is a model of Harley Davidson that was produced in limited quantities (800 + or -, mine is #636) in 1986 to commemorate the rebuilding of the statue of liberty on it's bicentennial. I was pinned with the FX part of the nick because|
-|**Homepage:**|[http://en.opensuse.org/Education](http://en.opensuse.org/Education)|
-|**Blog:**|Haven't started one yet|
-|||
-|**Favorite season:**|Spring, summer and fall - all great motorcycle weather|
-|**Motto:**|"let's make a difference". I believe that as members of the open source community we are in the unique position to do what we normally do (build and play with software) while without extra work help the students of the world by providing low cost access to computers as well as easily maintainable and accessible records of their achievements.|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![james_tremblay.jpg](//news.opensuse.org/wp-content/uploads/2008/01/james_tremblay.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >FXRSLiberty, (FX) Which is a model of Harley Davidson that was produced in limited quantities (800 + or -, mine is #636) in 1986 to commemorate the rebuilding of the statue of liberty on it's bicentennial. I was pinned with the FX part of the nick because
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://en.opensuse.org/Education](http://en.opensuse.org/Education)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >Haven't started one yet
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring, summer and fall - all great motorcycle weather
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"let's make a difference". I believe that as members of the open source community we are in the unique position to do what we normally do (build and play with software) while without extra work help the students of the world by providing low cost access to computers as well as easily maintainable and accessible records of their achievements.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -71,7 +161,7 @@ After several months of study I found that there were projects all over the worl
 #### In what way do you participate in the openSUSE project?
 
 
-Since then I have convinced a few key players to help with producing a repository and now an ADD-ON CD of educational solutions to run on openSUSE\SLE products. I have also been working with the KIWI thin client team to help reproduce the [LTSP project](http://en.opensuse.org/LTSP) on the SUSE line of products. I am also the founder of the openSUSE in schools project located at [http://en.opensuse.org/Education](http://en.opensuse.org/Education). My hat is off and I give a deep bow to [Lars Vodgt](http://en.opensuse.org/User:Lrupp). He is the lead developer openSUSE EDU-CD project and a personal hero. I also wish to give many thanks to [CyberOrg](https://news.opensuse.org/2007/11/09/people-of-opensuse-jigish-gohil/) the lead developer of the LTSP on openSUSE project.
+Since then I have convinced a few key players to help with producing a repository and now an ADD-ON CD of educational solutions to run on openSUSE\SLE products. I have also been working with the KIWI thin client team to help reproduce the [LTSP project](http://en.opensuse.org/LTSP) on the SUSE line of products. I am also the founder of the openSUSE in schools project located at [http://en.opensuse.org/Education](http://en.opensuse.org/Education). My hat is off and I give a deep bow to [Lars Vodgt](http://en.opensuse.org/User:Lrupp). He is the lead developer openSUSE EDU-CD project and a personal hero. I also wish to give many thanks to [CyberOrg](//news.opensuse.org/2007/11/09/people-of-opensuse-jigish-gohil/) the lead developer of the LTSP on openSUSE project.
 
 
 
@@ -218,7 +308,7 @@ AMP stack programming.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Would I still be sane at the end of that week?
@@ -288,7 +378,7 @@ Bass Fishing.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Fishing Tackle.
@@ -298,7 +388,7 @@ Fishing Tackle.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Sometime in the future where a life aboard a vessel like the Enterprise would be possible.
@@ -308,7 +398,7 @@ Sometime in the future where a life aboard a vessel like the Enterprise would be
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 If I can, but my UPS better do it for me!
@@ -365,4 +455,4 @@ What would you ask of the openSUSE community?
 Please help with the EDU-CD by creating build packages for, testing and reviewing the software in the EDU wish list and repositories.
 
 
-Sipa will accept any gre test scores that are no more than 5 years old by the [reveal](https://justbuyessay.com/) date of application		
+Sipa will accept any gre test scores that are no more than 5 years old by the [reveal](https://justbuyessay.com/) date of application

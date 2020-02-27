@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-08-16 08:48:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/08/16/language-networking-packages-get-updates-in-tumbleweed/
-title: "Language, Networking Packages Get Updates in Tumbleweed"
+slug: language-networking-packages-get-updates-in-tumbleweed
+title: Language, Networking Packages Get Updates in Tumbleweed
+wordpress_id: 20981
 categories:
 - Announcements
 - Tumbleweed
@@ -28,7 +30,8 @@ tags:
 - xml
 - yast packages
 ---
-![]({{ site.baseurl }}/assets/opensuse-laptop-300x200.gif)There were two [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this past week that mostly focused on language and network packages.
+
+![](/wp-content/uploads/2018/07/opensuse-laptop.gif)There were two [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this past week that mostly focused on language and network packages.
 
 The Linux Kernel also received an update a couple days ago to version 4.17.13.
 
@@ -36,4 +39,4 @@ The packages in the [20180812](https://lists.opensuse.org/opensuse-factory/2018-
 
 The snapshot from [20180808](https://lists.opensuse.org/opensuse-factory/2018-08/msg00165.html) brought the firewalld 0.6.0 version, which switched back to an 'iptables' backend as a default; “loads of new services” were added in the newer version including the addition of firewall-config adding a ipv6-icmp to the protocol dropdown box. The Linux Filesystem in Userspace interface, fuse 2.9.8, provided security update for systems where SELinux is active. The security update stops an unprivileged users to specify the allow_other option even when it was forbidden in the /etc/fuse.conf. The snapshot also updated yast2-network 4.1.5 that fixes the networking AutoYaST schema
 
-Snapshot [20180808](https://lists.opensuse.org/opensuse-factory/2018-08/msg00165.html) recorded a stable rating of 95 on the [snapshot reviewer](http://review.tumbleweed.boombatower.com/) and [20180812](https://lists.opensuse.org/opensuse-factory/2018-08/msg00181.html) is trending at a 96 rating.		
+Snapshot [20180808](https://lists.opensuse.org/opensuse-factory/2018-08/msg00165.html) recorded a stable rating of 95 on the [snapshot reviewer](http://review.tumbleweed.boombatower.com/) and [20180812](https://lists.opensuse.org/opensuse-factory/2018-08/msg00181.html) is trending at a 96 rating.

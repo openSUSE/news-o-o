@@ -1,24 +1,55 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-05-09 06:58:57+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/05/09/people-of-opensuse-jos-poortvliet/
-title: "People of openSUSE: Jos Poortvliet"
+slug: people-of-opensuse-jos-poortvliet
+title: 'People of openSUSE: Jos Poortvliet'
+wordpress_id: 8772
 categories:
 - People of openSUSE
 ---
+
 On this issue of people of openSUSE, you can read about our friendly SUSE community manager, Jos Poortvliet. Read about his job at the SUSE, what he does in openSUSE, his personal opinion of Free Software, openSUSE and more!
 
 <!-- more -->
+<table cellpadding="0" width="637" style="height: 119px" cellspacing="0" > 
+<tbody >
+<tr valign="TOP" >
 
-|||
-|--- |--- |
-|Nickname:|jospoortvliet|
-|Blog:|[blog.jospoortvliet.com](http://blog.jospoortvliet.com)|
-|Favorite season:|Spring|
-|Motto:|_Don't Worry, Be Happy_ or _Life Sucks_ (depends on my mood)|
+<td width="33%" >Nickname:
+</td>
 
+<td width="33%" >jospoortvliet
+</td>
+</tr>
+<tr valign="TOP" >
+
+<td width="33%" >Blog:
+</td>
+
+<td width="33%" >[blog.jospoortvliet.com](http://blog.jospoortvliet.com)
+</td>
+</tr>
+<tr valign="TOP" >
+
+<td width="33%" >Favorite 			season:
+</td>
+
+<td width="33%" >Spring
+</td>
+</tr>
+<tr valign="TOP" >
+
+<td width="33%" >Motto:
+</td>
+
+<td width="33%" >_Don't Worry, Be Happy_ or _Life Sucks_ (depends on my mood)
+</td>
+</tr>
+</tbody>
+</table>
 Please introduce yourself!
 
 Hi there!
@@ -53,14 +84,14 @@ Well, if we get our communication in order, a bright future it will be. We have 
 
 
 
-Someone gives you $1.000.000 ” what would you do with the money?
+Someone gives you $1.000.000 â€” what would you do with the money?
 
 Quit my job so I wouldn't have to do the administrative part of it and keep doing what I do. Or maybe even better - don't tell anyone but secretly hire someone to do the paperwork for me and keep the job
 
 
 
 
-If traveling through time was possible ” when would we be most likely to meet you?
+If traveling through time was possible â€” when would we be most likely to meet you?
 
 Any big event in history, but the further back the better. I would really love to have a chat with people like Socrates, Augustinus, Voltaire, Kant & Ghandi; but also see the first civilizations in Mesopothamia or alongside the Indus river in Pakistan (did you know they still build houses there almost like they did 4000 years ago?); walk on an Inca temple which is being build, or see the top stone being put on top of a piramid. Or - imagine the rush of joining a bunch of prehistoric people hunting a mammoth!
 
@@ -70,4 +101,4 @@ I do that almost every day, to the despair of colleagues and friends.
 
 Any last words?
 
-Nope, I'll just keep on talking ;-)		
+Nope, I'll just keep on talking ;-)

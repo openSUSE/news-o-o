@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2010-11-23 12:26:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/11/23/where-do-we-need-to-improve/
-title: "Where do we need to improve?"
+slug: where-do-we-need-to-improve
+title: Where do we need to improve?
+wordpress_id: 5543
 categories:
 - Project
 ---
+
 Community,
 
 during our bi-weekly Board Meetings on IRC we have a regular agenda topic "Where do we need to improve?". We're very much interested in ideas you may have to improve the inner workings of the Community/Project and we also like to provide an opportunity to step up and make us aware of complaints you may have with various aspects of the Community/Project. We're particular interested in addressing those issues that are both fast and easy to fix while providing a significant advantage to our success and the sake of our community.
@@ -21,4 +24,4 @@ Thus, we decided to start over and utilize openFATE as a companion to the alread
 Please keep in mind that we're looking for feature requests and/or complaints which we're able to resolve both fast and easy either during an IRC session or at least in two weeks between meetings, i.e. a request to achieve world domination doesn't fit very well here.
 
 Best,
-your openSUSE Board		
+your openSUSE Board

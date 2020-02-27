@@ -1,10 +1,12 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2007-10-01 19:31:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/01/yast-survey-started/
-title: "YaST Survey Started"
+slug: yast-survey-started
+title: YaST Survey Started
+wordpress_id: 405
 categories:
 - Project
 tags:
@@ -21,4 +23,4 @@ By the way, if you would like to know more about YaST, visit the [openSUSE YaST 
 
 Thanks for participating in the survey - and a big THANK YOU to Anica to design this together with quite a couple of different stakeholders in YaST,
 
-Andreas		
+Andreas

@@ -1,15 +1,18 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-07-13 10:26:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/
-title: "openSUSE and RW Sessions ” The Workshop"
+slug: opensuse-and-rw-sessions-the-workshop
+title: openSUSE and RW Sessions â€” The Workshop
+wordpress_id: 9369
 categories:
 - Conference
 ---
-[![rwx3 logo]({{ site.baseurl }}/assets/rwx3b-300x123.png)](https://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/rwx3b/)
-In our last article focusing on openSUSE Conference sessions, [we discussed the BoF](https://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/).  In today's article, we'll explore the why, what and how of a workshop.
+
+[![rwx3 logo](/wp-content/uploads/2011/07/rwx3b.png)](http://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/rwx3b/)
+In our last article focusing on openSUSE Conference sessions, [we discussed the BoF](http://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/).  In today's article, we'll explore the why, what and how of a workshop.
 
 
 ## Teach Them To Fish
@@ -111,4 +114,4 @@ Make sure your entire workshop fits within your allotted time-frame.  Chances ar
 
 As you can see, designing a workshop does require a bit of preparation. But the rewards of your workshop will far outweigh the time you put into the design.  If you're teaching users how to make the best of your software, you can ensure long-term popularity for your project.  If you're teaching developers, you can expand your contributor base, thus improving the potential for your software.  And most importantly, we'll do our best to promote your workshop at our Conference.
 
-So, consider submitting a proposal for a workshop at the openSUSE Conference.  Even if you have an idea but aren't sure how to plan for a workshop, submit your proposal.  Our Conference Team will be more than happy to advise, assist, review or provide any other resources you need.  After all, every good proposal starts with an idea.  :-)		
+So, consider submitting a proposal for a workshop at the openSUSE Conference.  Even if you have an idea but aren't sure how to plan for a workshop, submit your proposal.  Our Conference Team will be more than happy to advise, assist, review or provide any other resources you need.  After all, every good proposal starts with an idea.  :-)

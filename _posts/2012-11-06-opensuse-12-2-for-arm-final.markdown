@@ -1,21 +1,24 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-11-06 14:00:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/11/06/opensuse-12-2-for-arm-final/
-title: "openSUSE 12.2 for ARM Final!"
+slug: opensuse-12-2-for-arm-final
+title: openSUSE 12.2 for ARM Final!
+wordpress_id: 14524
 categories:
 - Announcements
 - Distribution
 ---
-![ARMopenSUSE Logo]({{ site.baseurl }}/assets/ARMopenSUSE-300x294.png) As was [promised last week](https://news.opensuse.org/?p=14500), the openSUSE ARM team has released openSUSE 12.2 for the ARM architecture! Almost all of the usual openSUSE distribution (>5000 packages) builds and runs on all the ARM hardware it has been tested on. Read on to find out more.<!-- more -->
+
+![ARMopenSUSE Logo](/wp-content/uploads/2012/09/ARMopenSUSE.png) As was [promised last week](http://news.opensuse.org/?p=14500), the openSUSE ARM team has released openSUSE 12.2 for the ARM architecture! Almost all of the usual openSUSE distribution (>5000 packages) builds and runs on all the ARM hardware it has been tested on. Read on to find out more.<!-- more -->
 
 
 ## It is out!
 
 
-Initiated at the openSUSE Conference in 2011 in Nürnberg, the openSUSE ARM team has managed to bring one of the most important Linux distributions to the ARM architecture in a little over a year. At this point, the team is confident openSUSE 12.2 can be installed and used on the following devices:
+Initiated at the openSUSE Conference in 2011 in NÃ¼rnberg, the openSUSE ARM team has managed to bring one of the most important Linux distributions to the ARM architecture in a little over a year. At this point, the team is confident openSUSE 12.2 can be installed and used on the following devices:
 
 
 
@@ -61,4 +64,4 @@ However, you can help with the manpower side of things, of course. This <a href=
 ## Get it
 
 
-The images are available for download [here](http://download.opensuse.org/ports/armv7hl/distribution/12.2/).		
+The images are available for download [here](http://download.opensuse.org/ports/armv7hl/distribution/12.2/).

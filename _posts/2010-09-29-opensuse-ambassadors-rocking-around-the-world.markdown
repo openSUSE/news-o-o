@@ -1,10 +1,12 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-09-29 15:00:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/
-title: "openSUSE Ambassadors rocking around the world!"
+slug: opensuse-ambassadors-rocking-around-the-world
+title: openSUSE Ambassadors rocking around the world!
+wordpress_id: 4897
 categories:
 - Events
 tags:
@@ -12,11 +14,12 @@ tags:
 - meeting
 - People
 ---
-[![]({{ site.baseurl }}/assets/froscamp3-226x300.png)](https://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/froscamp3/)Last week our Ambassadors did what they do every week: promote openSUSE. They went to meetings, conferences and tradeshows for a talk or staffing  a booth. And they organized meetings, gave students lessons in using  openSUSE, handed out DVD's and valuable knowledge.
+
+[![](/wp-content/uploads/2010/09/froscamp3.png)](http://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/froscamp3/)Last week our Ambassadors did what they do every week: promote openSUSE. They went to meetings, conferences and tradeshows for a talk or staffing  a booth. And they organized meetings, gave students lessons in using  openSUSE, handed out DVD's and valuable knowledge.
 
 Many  visitors of this site have no idea how active our ambassadors really  are. The amount of work they do is amazing and they deserve a bit more  of a spotlight on what they do! Their reports are usually  highlighted in our weekly news, be sure to check their work out each week.
 
-Read on for a short selection of reports which came in over the last week by the openSUSE ambassadors. And note that we get reports like this almost every day! Some come in the form of text, others like this one by Bruno about attending FrOSCamp 2010 in Zürich are in the form of [a nice presentation](http://linux.ioda.net/openSUSE/frOSCamp-2010_Event_Report.pdf) (very much worth a look).
+Read on for a short selection of reports which came in over the last week by the openSUSE ambassadors. And note that we get reports like this almost every day! Some come in the form of text, others like this one by Bruno about attending FrOSCamp 2010 in ZÃ¼rich are in the form of [a nice presentation](http://linux.ioda.net/openSUSE/frOSCamp-2010_Event_Report.pdf) (very much worth a look).
 
 <!-- more -->
 
@@ -29,7 +32,7 @@ We were at Technograil - a national level technical symposium happening on the 1
 
 **Software Freedom Day 2010 in France**
 _by Jimmy Pierre_
-[![]({{ site.baseurl }}/assets/demo-300x225.jpg)](https://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/demo/)
+[![](/wp-content/uploads/2010/09/demo.jpg)](http://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/demo/)
 In the Rouen City Associations House a France Software Freedom Day was held. The France ambassadors used contacts at newspapers like Rouen Magazine, national radio (RGL and France Blue and the LUGS in Fance, forums, mailinglists and other venues to spread the word about Software Freedom Day. Here is the report.
 
 We were overwhelmed  by the visitors. We distributed 211 openSUSE 11.3  DVDs to the casual visitors and a few SUSE 11 SP1 to people from the Ministry  of Education. We started sfd with demonstration of CMS, we showed fresh installation  and tweaking of software from [opensourcecms.com](http://opensourcecms.com) This took a couple of hours because the process was challenging and over a wireless link  sometimes failing at 2mb.
@@ -114,7 +117,7 @@ I am surely planning to help out next with Southeast Linux!
 
 **openSUSE  team at the 75th International Trade Fair**
 _by Kostas Koudaras_
-[![]({{ site.baseurl }}/assets/kostas-300x225.jpg)](https://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/kostas/)
+[![](/wp-content/uploads/2010/09/kostas.jpg)](http://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/kostas/)
 The openSUSE ambassadors team in association with GreekLUG and the Scouts Organization in Thessaloniki,  participated from 11th until 19th of September 2010, at the 75th International Trade Fair in Thessaloniki. We were at the thematic section called Kids  & Fun at the building no16.
 
 The main idea there was to  organize some games for the kids. Unfortunately we didn't have the  equipment to install couple of games (like Super Tux). So we had a small  corner and we were informing the kids and parents about FOSS and what  are the positives of using it. We used our laptops to show a small demo. Efstathios  Iosifidis provided PromoDVDs, stickers and also a brochure with Greek Help. We gave away around 500 DVDs, some 100 stickers and many brochures.
@@ -127,4 +130,4 @@ _Many thanks to Isaac Amaru Zelaya Orellana for the writing on this!_
 ## Help out!
 
 
-If you want to join these efforts, make a difference and have fun doing it, head to the [Ambassadors Portal](http://en.opensuse.org/Portal:Ambassadors). Be sure to read the FAQ to find some suggestions on what to do!		
+If you want to join these efforts, make a difference and have fun doing it, head to the [Ambassadors Portal](http://en.opensuse.org/Portal:Ambassadors). Be sure to read the FAQ to find some suggestions on what to do!

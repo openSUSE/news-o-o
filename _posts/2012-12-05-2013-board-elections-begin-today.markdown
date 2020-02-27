@@ -1,16 +1,19 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2012-12-05 12:07:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/12/05/2013-board-elections-begin-today/
-title: "2013 Board Elections begin today!"
+slug: 2013-board-elections-begin-today
+title: 2013 Board Elections begin today!
+wordpress_id: 14665
 categories:
 - Announcements
 - Events
 - Project
 ---
-![Who will be our 2013 openSUSE Board Members?]({{ site.baseurl }}/assets/next-candidates.png)
+
+![Who will be our 2013 openSUSE Board Members?](//news.opensuse.org/wp-content/uploads/2012/12/next-candidates.png)
 
 The excitement has been building for weeks and now the most important phase of the openSUSE Board elections begins today -- Election Time!
 
@@ -49,4 +52,4 @@ Can't make it, no problem.Â  We will post transcript of the debate here and on
 _Thank you,
 openSUSE Election Officials_
 
-With special thanks to [Marcus Moeller](http://www.marcusmoeller.ch/) for creation of artwork banner.		
+With special thanks to [Marcus Moeller](http://www.marcusmoeller.ch/) for creation of artwork banner.

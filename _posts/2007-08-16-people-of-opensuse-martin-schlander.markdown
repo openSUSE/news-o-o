@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-08-16 15:12:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/16/people-of-opensuse-martin-schlander/
-title: "People of openSUSE: Martin Schlander"
+slug: people-of-opensuse-martin-schlander
+title: 'People of openSUSE: Martin Schlander'
+wordpress_id: 139
 categories:
 - People of openSUSE
 ---
-   	 	 	 	
+
+  	 	 	 	
 
 Here is the interview with Martin Schlander, also known as 'cb400f', from Denmark.  Have fun reading it!
 
@@ -16,18 +19,107 @@ Here is the interview with Martin Schlander, also known as 'cb400f', from Denmar
 
 
 
-![martin_schlander.jpg]({{ site.baseurl }}/assets/martin_schlander.jpg)
-|||
-|--- |--- |
-|**Nickname:**|cb400f|
-|||
-|||
-|**Favorite season:**|Definitely summer, in Denmark they aren't too hot.|
-|**Motto:**|Be cool, fool!
-It's more like a mantra, though. It's from a song by Notorious B.I.G.
-The wisdom is infinite, it's good advise in just about any conceivable situation.|
-|||
 
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![martin_schlander.jpg](//news.opensuse.org/wp-content/uploads/2007/08/martin_schlander.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >cb400f
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >****Favorite season:****
+</td>
+
+<td >Definitely summer, in Denmark they aren't too hot.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Be cool, fool!
+It's more like a mantra, though. It's from a song by Notorious B.I.G.
+The wisdom is infinite, it's good advise in just about any conceivable situation.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -248,7 +340,7 @@ C++/Qt programming, naturally. I love the KDE project and would love to be able 
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 I would feel very restless and probably do a lot of thinking.
@@ -320,7 +412,7 @@ On a motorcycle.
 
 
 
-#### Someone gives you $1.000.000 “ what would you do with the money?
+#### Someone gives you $1.000.000 â€“ what would you do with the money?
 
 
 Buy a small appartment, a Honda VFR 800, donate money to some of the free software projects I like. Put the rest in the bank for a rainy day.
@@ -330,7 +422,7 @@ Buy a small appartment, a Honda VFR 800, donate money to some of the free softwa
 
 
 
-#### If traveling through time was possible “ when would we be most likely to meet you?
+#### If traveling through time was possible â€“ when would we be most likely to meet you?
 
 
 I'm not much a traveller, I probably wouldn't go far. Maybe the 1960s, 1970s.
@@ -340,7 +432,7 @@ I'm not much a traveller, I probably wouldn't go far. Maybe the 1960s, 1970s.
 
 
 
-#### There's a thunderstorm outside “ do you turn off your computer?
+#### There's a thunderstorm outside â€“ do you turn off your computer?
 
 
 Nah.. should I?
@@ -395,3 +487,6 @@ Hehe, the "famous person" one, but when the answer occurred to me it was obvious
 
 Q: What do you think of the questions?
 A: Very good. Especially the "which one was hardest to answer?" one.
+
+
+Ermahnungen des admins nimmt er [Quelle anklicken](https://ghostwritinghilfe.com/) zur kenntnis, eine langfristige vernderung seines verhaltens bewirken die aber meist nicht

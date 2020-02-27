@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-07-15 13:12:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/07/15/testing-leap-milestone-in-openqa/
-title: "Testing Leap milestone in openQA"
+slug: testing-leap-milestone-in-openqa
+title: Testing Leap milestone in openQA
+wordpress_id: 19321
 categories:
 - Distribution
 - Infrastructure
@@ -18,8 +20,7 @@ categories:
 
 
 
-
-[![Screenshot from 2015-07-15 15:11:21]({{ site.baseurl }}/assets/Screenshot-from-2015-07-15-151121-300x204.png)]({{ site.baseurl }}/assets/Screenshot-from-2015-07-15-151121.png)Developing Leap 42.1 is happening quickly and it was announced yesterday that [the milestone was being built](https://build.opensuse.org/project/show/openSUSE:42).The first milestone will hopefully be released this week. Leap is going through its testing and the importance of [openQA](https://openqa.opensuse.org/) (Quality Assurance) in this development process can not be understated.
+[![Screenshot from 2015-07-15 15:11:21](/wp-content/uploads/2015/07/Screenshot-from-2015-07-15-151121.png)](/wp-content/uploads/2015/07/Screenshot-from-2015-07-15-151121.png)Developing Leap 42.1 is happening quickly and it was announced yesterday that [the milestone was being built](https://build.opensuse.org/project/show/openSUSE:42).The first milestone will hopefully be released this week. Leap is going through its testing and the importance of [openQA](https://openqa.opensuse.org/) (Quality Assurance) in this development process can not be understated.
 
 
 
@@ -111,5 +112,3 @@ See what Richard Brown, openSUSE chairman, had to say about [Leap and openQA on 
 
 
 
-
-		

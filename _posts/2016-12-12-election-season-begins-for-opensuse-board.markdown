@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-12-12 11:27:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/12/12/election-season-begins-for-opensuse-board/
-title: "Election season begins for openSUSE Board"
+slug: election-season-begins-for-opensuse-board
+title: Election season begins for openSUSE Board
+wordpress_id: 20262
 categories:
 - Announcements
 - Board
@@ -15,6 +17,7 @@ tags:
 - opensuse
 - vote
 ---
+
 ![](http://i.imgur.com/I23Ufqd.gif)
 
 The openSUSE Project has two seats  for this year's [openSUSE board elections](https://en.opensuse.org/openSUSE:Board_election).
@@ -111,4 +114,4 @@ To learn more about the election details and applying for membership, visit the 
 [http://en.opensuse.org/openSUSE:Board_election
 ](http://en.opensuse.org/openSUSE:Board_election)[http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination
 ](http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination)[http://en.opensuse.org/openSUSE:Members
-](http://en.opensuse.org/openSUSE:Members)[http://en.opensuse.org/openSUSE:Membership_officials#Process](http://en.opensuse.org/openSUSE:Membership_officials#Process)		
+](http://en.opensuse.org/openSUSE:Members)[http://en.opensuse.org/openSUSE:Membership_officials#Process](http://en.opensuse.org/openSUSE:Membership_officials#Process)

@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-28 06:01:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/28/opensuse-asia-summit-2017-call-for-sponsorships/
-title: "openSUSE.Asia Summit 2017: Call for Sponsorships"
+slug: opensuse-asia-summit-2017-call-for-sponsorships
+title: 'openSUSE.Asia Summit 2017: Call for Sponsorships'
+wordpress_id: 20532
 categories:
 - Announcements
 - Summit
 ---
-![]({{ site.baseurl }}/assets/P6242267_R-1024x341.jpg)
+
+![](/wp-content/uploads/2017/06/P6242267_R.jpg)
 
 The openSUSE.Asia Committee is seeking sponsors for the fourth edition of openSUSE.Asia Summit. The summit will take place in Tokyo, Japan, from Oct. 21– 22, 2017. With more than 100 attendees every year, we expect the trend to follow suit. Our attendees are home, power and business users. Sponsorship covers facility and travel costs.
 
@@ -54,4 +57,4 @@ English [https://bitbucket.org/ftake/opensuse-asia-17-jp/raw/master/sponsor/call
 
 Japanese
 
-[https://bitbucket.org/ftake/opensuse-asia-17-jp/raw/master/sponsor/call-for-sponsorship-ja.pdf](https://bitbucket.org/ftake/opensuse-asia-17-jp/raw/master/sponsor/call-for-sponsorship-ja.pdf)		
+[https://bitbucket.org/ftake/opensuse-asia-17-jp/raw/master/sponsor/call-for-sponsorship-ja.pdf](https://bitbucket.org/ftake/opensuse-asia-17-jp/raw/master/sponsor/call-for-sponsorship-ja.pdf)

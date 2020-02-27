@@ -1,15 +1,18 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2011-03-30 12:06:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/30/a-year-of-collaboration-ahead/
-title: "A year of Collaboration ahead"
+slug: a-year-of-collaboration-ahead
+title: A year of Collaboration ahead
+wordpress_id: 8233
 categories:
 - Google Summer of Code
 ---
-[![]({{ site.baseurl }}/assets/collaboration.jpg)](https://news.opensuse.org/2011/03/30/a-year-of-collaboration-ahead/group-of-blue-businessmen-going-in-together-on-a-deal-clipart-illustration/)
-The openSUSE Project considers collaboration an important value for a Free Software community. After our [successful openSUSE conference](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/) which had a strong focus on collaboration, several cool things have started. Now it is time for **[openSUSE bring collaboration to the Google Summer of Code](http://en.opensuse.org/openSUSE:GSOC_2011)** and we invite students to join us in making Free Software stronger through working with others! For those who don't know yet, Google Summer of Code is a project by Google to [let students spend their summer time on coding instead of a waiting tables.](http://en.opensuse.org/openSUSE:Why_GSOC)<!-- more -->
+
+[![](/wp-content/uploads/2011/04/collaboration.jpg)](http://news.opensuse.org/2011/03/30/a-year-of-collaboration-ahead/group-of-blue-businessmen-going-in-together-on-a-deal-clipart-illustration/)
+The openSUSE Project considers collaboration an important value for a Free Software community. After our [successful openSUSE conference](http://news.opensuse.org/2010/10/28/opensuse-conference-big-success/) which had a strong focus on collaboration, several cool things have started. Now it is time for **[openSUSE bring collaboration to the Google Summer of Code](http://en.opensuse.org/openSUSE:GSOC_2011)** and we invite students to join us in making Free Software stronger through working with others! For those who don't know yet, Google Summer of Code is a project by Google to [let students spend their summer time on coding instead of a waiting tables.](http://en.opensuse.org/openSUSE:Why_GSOC)<!-- more -->
 
 
 ## The projects
@@ -93,4 +96,4 @@ All open source projects use a bug tracker of one kind or another. The dominant 
 ## openSUSE and GSOC
 
 
-As you see, openSUSE has some awesome GSOC projects, strengthening all of Free Software! If you're not convinced yet that openSUSE and GSOC are for YOU, read [Why GSOC](http://en.opensuse.org/openSUSE:Why_GSOC) on the wiki. Find more information on openSUSE's GSOC this year on [our GSOC 2011 wiki page](http://en.opensuse.org/openSUSE:GSOC_2011). Of course we have many more ideas to choose from besides the six above, see our [Ideas page](http://en.opensuse.org/openSUSE:GSOC_2011_Ideas)!		
+As you see, openSUSE has some awesome GSOC projects, strengthening all of Free Software! If you're not convinced yet that openSUSE and GSOC are for YOU, read [Why GSOC](http://en.opensuse.org/openSUSE:Why_GSOC) on the wiki. Find more information on openSUSE's GSOC this year on [our GSOC 2011 wiki page](http://en.opensuse.org/openSUSE:GSOC_2011). Of course we have many more ideas to choose from besides the six above, see our [Ideas page](http://en.opensuse.org/openSUSE:GSOC_2011_Ideas)!

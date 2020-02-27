@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-05-29 07:15:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/05/29/introducing-kubic-project-a-new-open-source-project/
-title: "Introducing Kubic Project: a new open-source project"
+slug: introducing-kubic-project-a-new-open-source-project
+title: 'Introducing Kubic Project: a new open-source project'
+wordpress_id: 20426
 categories:
 - Announcements
 - Project
@@ -18,7 +20,6 @@ tags:
 - openSUSE Tumbleweed
 - Project Kubic
 ---
-
 
 
 
@@ -64,4 +65,4 @@ Useful information:
 
 
 
-<!-- more -->		
+<!-- more -->

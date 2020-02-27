@@ -1,14 +1,17 @@
 ---
-author: Matthew Ehle
+author: MatthewEhle
+comments: true
 date: 2011-12-12 17:49:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/12/12/forums-and-wikis-and-blogs-oh-my/
-title: "Forums and Wikis and Blogs, Oh MY!"
+slug: forums-and-wikis-and-blogs-oh-my
+title: Forums and Wikis and Blogs, Oh MY!
+wordpress_id: 12174
 categories:
 - Announcements
 - Infrastructure
 ---
+
 It has been suggested that I write a post explaining some of the big changes that we have been doing with the forums, wikis, and blogs over the last few weeks.Â  Here is a quick list:
 
 
@@ -58,4 +61,4 @@ The WordPress upgrades are usually much easier than the MediaWiki upgrades, and 
 ### System Patches
 
 
-Similarly to the WordPress upgrades, this was a pretty uneventful change.Â  This update fixes a lot of vulnerabilities, including the "Apache killer" DoS attack discovered over the summer.		
+Similarly to the WordPress upgrades, this was a pretty uneventful change.Â  This update fixes a lot of vulnerabilities, including the "Apache killer" DoS attack discovered over the summer.

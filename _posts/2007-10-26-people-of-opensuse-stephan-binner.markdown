@@ -1,28 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2007-10-26 22:09:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/26/people-of-opensuse-stephan-binner/
-title: "People of openSUSE: Stephan Binner"
+slug: people-of-opensuse-stephan-binner
+title: 'People of openSUSE: Stephan Binner'
+wordpress_id: 476
 categories:
 - People of openSUSE
 ---
+
 On this 'People of openSUSE' week we interviewed the greatest openSUSE and KDE addict yet. He is also one of the administrators who takes care of both English and German openSUSE wikis and a bunch of other openSUSE related things: Stephan 'Beineri' Binner.
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![Stephan Binner]({{ site.baseurl }}/assets/stephan_binner.jpg)
-|||
-|--- |--- |
-|**Nickname:**|Beineri|
-|**Homepage:**|Not really a homepage: [http://en.opensuse.org/User:Beineri](http://en.opensuse.org/User:Beineri)|
-|**Blog:**|[http://www.kdedevelopers.org/blog/457](http://www.kdedevelopers.org/blog/457)|
-|||
-|**Favorite season:**|no animosity against either as long it's not too wet, hot or cold|
-|**Motto:**|Have a lot of fun with KDE...|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![Stephan Binner](//news.opensuse.org/wp-content/uploads/2007/10/stephan_binner.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >Beineri
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >Not really a homepage: [http://en.opensuse.org/User:Beineri](http://en.opensuse.org/User:Beineri)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://www.kdedevelopers.org/blog/457](http://www.kdedevelopers.org/blog/457)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >no animosity against either as long it's not too wet, hot or cold
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Have a lot of fun with KDE...
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -229,7 +319,7 @@ As computer interfaces seem to live more and more from effects and graphics havi
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Would I still have to work? I would be either incredible productive at programming something or would replay all old computer games (though one week would not be sufficient for that).
@@ -301,7 +391,7 @@ The other vacation I spend visiting relatives or small villages often lieing in 
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 At first exchange it to Euro before it loses more value. Then maybe as I usually perceive days and week-ends as too short buy some of that rare and valuable resource called time. Either by more vacation or working only four days a week.
@@ -311,7 +401,7 @@ At first exchange it to Euro before it loses more value. Then maybe as I usually
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 I guess changing history is not allowed so some time in future when holo decks had their breakthrough.
@@ -376,3 +466,6 @@ You're kidding - it's already over?
 
 "People Behind KDE" had this question I liked: "If you were a KDE app, which one would you be? Why?"
 I would answer "kded" - serving mostly in the background but without it much would not work.
+
+
+Bloggen schreibwerkstatt-news ab [hier finden](https://bachelorschreibenlassen.com/akademische-arbeit/) herbst biete ich den bloggerkurs auch in linz an

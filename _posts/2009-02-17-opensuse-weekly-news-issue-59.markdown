@@ -1,20 +1,23 @@
 ---
 author: News Team
+comments: true
 date: 2009-02-17 18:42:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/02/17/opensuse-weekly-news-issue-59/
-title: "openSUSE Weekly News, Issue 59"
+slug: opensuse-weekly-news-issue-59
+title: openSUSE Weekly News, Issue 59
+wordpress_id: 1170
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #59 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/59)!  
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #59 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/59)!  
   
 
 New layout !   
   
 
-In this week™s issue:
+In this weekâ€™s issue:
 
 
   * Special Edition about FOSDEM2009 
@@ -43,4 +46,4 @@ The openSUSE Weekly News is available in:
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/59).
 
 **NEW: [Chinese](http://en.opensuse.org/OpenSUSE_Weekly_News/59/chinese)**  !
- C9020-560 ibm certified specialist exam students can easily contact the unit and discuss how to strategically [write essays for money to essay4today.com](https://essay4today.com/) get ready for the exam		
+ C9020-560 ibm certified specialist exam students can easily contact the unit and discuss how to strategically  get ready for the exam

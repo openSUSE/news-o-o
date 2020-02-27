@@ -1,16 +1,19 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-09-01 17:20:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/09/01/and-the-milestones-keep-on-coming/
-title: "And the Milestones Keep On Coming!"
+slug: and-the-milestones-keep-on-coming
+title: And the Milestones Keep On Coming!
+wordpress_id: 10924
 categories:
 - Announcements
 ---
+
 Fire up your virtual machines, get your test machines motoring, and start tweaking your fingers.Â  It's testing time!
 
-[![Image o Factory Assembly Line]({{ site.baseurl }}/assets/assemblyline-300x238.jpg)](https://news.opensuse.org/2011/09/01/and-the-milestones-keep-on-coming/assemblyline/)openSUSE 12.1's next milestone 5 is now ready for download.Â  Thanks to the men and women of openSUSE Factory who kept their eye on the ball with all the wonderful flurry of activities going on in our Project these days, they never lost sight and we'll be sure to have an awesome final release in November.
+[![Image o Factory Assembly Line](/wp-content/uploads/2011/09/assemblyline.jpg)](http://news.opensuse.org/2011/09/01/and-the-milestones-keep-on-coming/assemblyline/)openSUSE 12.1's next milestone 5 is now ready for download.Â  Thanks to the men and women of openSUSE Factory who kept their eye on the ball with all the wonderful flurry of activities going on in our Project these days, they never lost sight and we'll be sure to have an awesome final release in November.
 
 There's a lot of interesting updates to the 12.1 release and some cool new technologies including GNOME 3 and SystemD.Â  You'll definitely want to take this milestone for a spin and see what you can expect in 12.1.Â  And if you've never tested before, its easy if you follow [these instructions](http://en.opensuse.org/VirtualBox).Â  Being a tester is one of the great ways of contributing to the free software movement, and there's plenty of room for testers in openSUSE Project.
 
@@ -33,4 +36,4 @@ Here's some other interesting things you can expect to see when you try Mileston
   * glibc has been updated to version 2.14
 
 
-So, [click here](http://software.opensuse.org/developer/en) as we'd love to hear from you as you begin testing the latest Milestone.Â  If you already have a previous Milestone installed, simply run "zypper dup" at the command line to update to the latest Milestone.		
+So, [click here](http://software.opensuse.org/developer/en) as we'd love to hear from you as you begin testing the latest Milestone.Â  If you already have a previous Milestone installed, simply run "zypper dup" at the command line to update to the latest Milestone.

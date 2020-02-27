@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-20 00:43:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/
-title: "Development Release: openSUSE 11.1 Beta 1 Now Available"
+slug: development-release-opensuse-111-beta-1-now-available
+title: 'Development Release: openSUSE 11.1 Beta 1 Now Available'
+wordpress_id: 1025
 categories:
 - Announcements
 - Distribution
@@ -13,6 +15,7 @@ tags:
 - beta
 - testing
 ---
+
 The openSUSE Project is happy to announce the first beta release of openSUSE 11.1. openSUSE 11.1 includes quite a few improvements and new features over the 11.0 release, including new versions of KDE, GNOME, the Linux kernel, improved YaST modules, and much more!
 
 The ISOs for this release have been created using KIWI and RPMs created in the openSUSE Build Service. This caused some delay in the release of beta 1, but is part of the transition to using the openSUSE Build Service for all development of openSUSE.
@@ -78,7 +81,7 @@ openSUSE 11.1 will include KDE 3.5.10 on the DVD media, but moved to the "other 
   * SVG support "almost everywhere"
 
 
-**Basic SELinux enablement**: This was [announced on openSUSE News previously](https://news.opensuse.org/2008/08/20/opensuse-to-add-selinux-basic-enablement-in-111/).
+**Basic SELinux enablement**: This was [announced on openSUSE News previously](//news.opensuse.org/2008/08/20/opensuse-to-add-selinux-basic-enablement-in-111/).
 
 **New YaST Modules**
 
@@ -211,4 +214,4 @@ The 11.1 beta is just one of the releases that will lead to the final 11.1 relea
 
 See [http://en.opensuse.org/Mirror_Selection](http://en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
 
-Thanks, and have a lot of fun! Pluto is not on the edge of the solar system, [https://pro-essay-writer.com](https://pro-essay-writer.com/) which is 1,000 times farther away		
+Thanks, and have a lot of fun! Pluto is not on the edge of the solar system, [https://pro-essay-writer.com](https://pro-essay-writer.com/) which is 1,000 times farther away

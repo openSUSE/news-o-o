@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2007-07-18 15:02:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/07/18/nice-trick-to-use-apiopensuseorg-native-with-kde-apps/
-title: "Nice Trick to Use api.opensuse.org Native With KDE Apps"
+slug: nice-trick-to-use-apiopensuseorg-native-with-kde-apps
+title: Nice Trick to Use api.opensuse.org Native With KDE Apps
+wordpress_id: 24
 categories:
 - Build Service
 tags:
 - KDE
 ---
+
 People who are using curl and some editor to download files from api.opensuse.org, edit them and upload them again via curl should have a look on the simple kwrite application.
 
 <!-- more -->
@@ -24,3 +27,5 @@ You will be prompted for your login/password when you access this, but thanks to
 You can basically use this for all PUT and GET requests listed on [https://api.opensuse.org/apidocs](https://api.opensuse.org/apidocs).
 
 Hope you have fun with this :)
+
+ And in cellphonetrackers  case of the black iphone 5, the background is black, the apple logo and the progress bar are white

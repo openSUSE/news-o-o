@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-08-30 15:00:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/08/30/software-freedom-day-is-coming/
-title: "Software Freedom Day is Coming!"
+slug: software-freedom-day-is-coming
+title: Software Freedom Day is Coming!
+wordpress_id: 4077
 categories:
 - Events
 - Project
 ---
+
 On September 18, it is international Software Freedom Day. Software Freedom Day aims to celebrate Free Software and the people behind it. It wants to spread the word about Free Software and help people find each other.
 ![SFD logo](http://softwarefreedomday.org/sites/default/files/images/pixture_reloaded_logo_0.png)
 We, the openSUSE community, of course need to be part of this! So this is a call to you all: mark september 18 in your agenda. Check the [Software Freedom Day](http://softwarefreedomday.org/) website and [find the meeting in your neighboorhood](http://wiki.softwarefreedomday.org/2010).
@@ -21,4 +24,4 @@ Help us spread the word!
 
 Greetings,
 
-The openSUSE marketing team		
+The openSUSE marketing team

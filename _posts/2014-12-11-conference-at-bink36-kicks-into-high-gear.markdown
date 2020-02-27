@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-12-11 11:21:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/12/11/conference-at-bink36-kicks-into-high-gear/
-title: "Conference kicks into high gear"
+slug: conference-at-bink36-kicks-into-high-gear
+title: Conference kicks into high gear
+wordpress_id: 18893
 categories:
 - Conference
 tags:
@@ -12,7 +14,8 @@ tags:
 - hacking
 - openSUSE Conference
 ---
-(http://bit.ly/1wC7qdX)
+
+[caption id="attachment_18919" align="alignright" width="300"][![oSC15](/wp-content/uploads/2014/12/oSC15.png)](/wp-content/uploads/2014/12/oSC15.png) Register for OSC15 at [http://bit.ly/1wC7qdX](http://bit.ly/1wC7qdX)[/caption]
 
 We are ready to get this year's Geeko-hack party started in The Hague, Netherlands, from May 1 to May 5.
 Before the learning, hacking and partying begins at the four-day openSUSE Conference, the community needs to know what's happening with oSC15 or better yet, help with the event planning.
@@ -56,4 +59,4 @@ The openSUSE Conference is the annual gathering of the openSUSE Community and ot
 
 Please join [our team mailing list](http://lists.opensuse.org/opensuse-conference/) (subscribe)and our regular #opensuse-project [IRC meetings](irc://#opensuse-conference@freenode.net). We can use help with working on the program, promotions and local organization. Tasks range from keeping our news outlets up to date and designing artwork to laying cables at the venue. There is much to do and we need you!
 
-Sign up today to join forces or volunteer at [http://conference.opensuse.org](http://conference.opensuse.org).		
+Sign up today to join forces or volunteer at [http://conference.opensuse.org](http://conference.opensuse.org).

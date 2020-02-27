@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-09-03 16:21:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/09/03/keynote-update-lenz-grimmer-to-keynote-opensuse-conference/
-title: "Keynote Update: Lenz Grimmer to Keynote openSUSE Conference"
+slug: keynote-update-lenz-grimmer-to-keynote-opensuse-conference
+title: 'Keynote Update: Lenz Grimmer to Keynote openSUSE Conference'
+wordpress_id: 2089
 categories:
 - Announcements
 - Events
@@ -13,8 +15,7 @@ tags:
 - osc09
 ---
 
-
-The openSUSE Project is happy to announce that Lenz Grimmer will be delivering the opening keynote for the first-ever [openSUSE Conference](http://conference.opensuse.org/). The openSUSE Conference will be held September 17 through September 20 in Nürnberg, Germany. [Register today!](http://conference.opensuse.org/registration/)
+The openSUSE Project is happy to announce that Lenz Grimmer will be delivering the opening keynote for the first-ever [openSUSE Conference](http://conference.opensuse.org/). The openSUSE Conference will be held September 17 through September 20 in NÃ¼rnberg, Germany. [Register today!](http://conference.opensuse.org/registration/)
 
 
 
@@ -38,7 +39,7 @@ Our closing keynote will be delivered by Gianugo Rabellino, Chief Executive Offi
 
 
 
-The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
+The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in NÃ¼rnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
 
 
 
@@ -56,7 +57,7 @@ The conference will have two daily tracks of pre-planned talks, plus "[BarCamp](
   * News from the GNOME Zoo: Vincent Untz
 
     
-  * Samba @ openSUSE: Lars Müller
+  * Samba @ openSUSE: Lars MÃ¼ller
 
 
 
@@ -99,5 +100,3 @@ The conference is less than two weeks away. If you haven't registered yet, you n
 
 
 Time is running out to book your hotel for the openSUSE Conference. Limited space is still available in the venue. All registrants should have received information on booking hotel. Registrations are being made through Alexia Henrie (ahenrie at novell.com). More information on [hotels](http://conference.opensuse.org/where-to-stay/) and [directions](http://conference.opensuse.org/getting-there/) can be found on the Web site.
-
-		

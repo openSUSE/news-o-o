@@ -1,20 +1,21 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-07 22:47:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/07/opensuse-weekly-news-issue-21/
-title: "openSUSE Weekly News, Issue 21"
+slug: opensuse-weekly-news-issue-21
+title: openSUSE Weekly News, Issue 21
+wordpress_id: 763
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue #21 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/21)!
 
-In this week™s issue:
+In this weekâ€™s issue:
 
 
 
@@ -30,4 +31,4 @@ In this week™s issue:
 	
   * arstechnica.com: Coming along strong: first look at openSUSE 11 beta 2
 
-		
+

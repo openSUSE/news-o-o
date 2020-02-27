@@ -1,15 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2015-05-16 19:21:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/05/16/tumbleweed-moves-to-plasma-5-3-and-a-new-release-of-kde-applications/
-title: "Tumbleweed moves to Plasma 5.3 and a new release of KDE Applications\
-  "
+slug: tumbleweed-moves-to-plasma-5-3-and-a-new-release-of-kde-applications
+title: Tumbleweed moves to Plasma 5.3 and a new release of KDE Applications
+wordpress_id: 19233
 categories:
 - Distribution
 ---
-(https://dot.kde.org/2015/04/28/plasma-5.3) The latest and greatest desktop tech from the KDE community
+
+[caption id="attachment_19234" align="alignright" width="300"][![Plasma 5.3](/wp-content/uploads/2015/04/plasma-5.3.png)](https://dot.kde.org/2015/04/28/plasma-5.3) The latest and greatest desktop tech from the KDE community[/caption]
 
 At the time of writing this, the openQA servers were busily running tests and, by the time we publish this article, they should be done. What was being tested? A massive amount of changes, bringing not only the latest Plasma 5.3 and Applications 15.04.1 to Tumbleweed, but also marking the switch to Plasma 5 as the default desktop!
 
@@ -45,7 +47,7 @@ The massive list of improvements to existing KDE applications are detailed [on t
 
 Of course, this is just a taste of the changes you will notice compared to Plasma 5.2 and the release of the KDE Applications from December last year. Those who have not had the pleasure of experimenting with Plasma 5 will be delighted with improvements all over this well-designed workspace. Ranging from smoother animations to smarter behavior permeating almost all aspects of handling day-to-day tasks, Plasma 5 offers a more modern and optimized experience.
 
-(https://dot.kde.org/2015/04/15/kde-applications-1504-adds-kde-telepathy-chat-and-kdenlive-video-editing) Edit videos like a pro with Kdenlive!
+[caption id="attachment_19235" align="alignright" width="300"][![Edit videos like a pro with Kdenlive!](/wp-content/uploads/2015/04/kdenlive.png)](https://dot.kde.org/2015/04/15/kde-applications-1504-adds-kde-telepathy-chat-and-kdenlive-video-editing) Edit videos like a pro with Kdenlive![/caption]
 
 
 ## Default to Plasma 5.3
@@ -57,4 +59,4 @@ This move will have an impact on current Tumbleweed users! The patterns have cha
 
 Note that the first time you log in or start new apps, many of them will go through migration steps to adapt the configuration to the new Frameworks 5 version.
 
-With the accelerated development in the KDE camp, delivering more incremental and better releases faster to its users, Tumbleweed is proving to be an excellent platform for users to benefit from the latest and greatest the Linux Desktop has to offer. If you're interested in moving to Tumbleweed, check out the [Tumbleweed portal](https://en.opensuse.org/Portal:Tumbleweed) and specifically the [installation instructions](https://en.opensuse.org/openSUSE:Tumbleweed_installation).		
+With the accelerated development in the KDE camp, delivering more incremental and better releases faster to its users, Tumbleweed is proving to be an excellent platform for users to benefit from the latest and greatest the Linux Desktop has to offer. If you're interested in moving to Tumbleweed, check out the [Tumbleweed portal](https://en.opensuse.org/Portal:Tumbleweed) and specifically the [installation instructions](https://en.opensuse.org/openSUSE:Tumbleweed_installation).

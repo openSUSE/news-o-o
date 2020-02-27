@@ -1,19 +1,20 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-08-11 14:28:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/08/11/second-milestone-expected-soon/
-title: "Second milestone expected soon"
+slug: second-milestone-expected-soon
+title: Second milestone expected soon
+wordpress_id: 19392
 categories:
 - Leap
 ---
 
-
 #### Leap roadmap details released
 
 
-[![Leap1]({{ site.baseurl }}/assets/Leap1-300x300.png)]({{ site.baseurl }}/assets/Leap1.png)The second milestone for openSUSE’s newest distribution Leap is scheduled for release Sept. 4.
+[![Leap1](/wp-content/uploads/2015/07/Leap1.png)](/wp-content/uploads/2015/07/Leap1.png)The second milestone for openSUSE’s newest distribution Leap is scheduled for release Sept. 4.
 
 The release of the milestone will start to align Leap 42.1 with SUSE Linux Enterprise 12 Service Pack (SP) 1, which recently had a similar roadmap release. The source code from SP 1 will be included in the newest milestone because Leap and SLE share a common core. Future releases of Leap will align with future SUSE service packs.
 
@@ -41,4 +42,4 @@ The RC1 release will be Oct. 15 and the Goldmaster is scheduled for Oct. 30, so 
 
 Leap is scheduled to be released at 14:00 UTC during SUSECon in Amsterdam on Nov. 4.
 
-Media should email [ddemaio@suse.com](mailto:ddemaio@suse.com) for more information.		
+Media should email [ddemaio@suse.com](mailto:ddemaio@suse.com) for more information.

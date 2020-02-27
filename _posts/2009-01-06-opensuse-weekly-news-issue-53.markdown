@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-01-06 19:34:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/01/06/opensuse-weekly-news-issue-53/
-title: "openSUSE Weekly News, Issue 53"
+slug: opensuse-weekly-news-issue-53
+title: openSUSE Weekly News, Issue 53
+wordpress_id: 1139
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #53 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/53)!  
-In this week™s issue:
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #53 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/53)!  
+In this weekâ€™s issue:
 
 
   * Masim Sugianto: First Hackfest for Indonesian openSUSE Community 
@@ -18,7 +21,7 @@ In this week™s issue:
 
   * Joe Brockmeier: openSUSE - One of the 10 coolest of 2008 
 
-  * Marek Stopka: Fatrat - Nice download manager in OBS¦ 
+  * Marek Stopka: Fatrat - Nice download manager in OBSâ€¦ 
 
   * Howto-How to compile the new Kernel 2.6.28? 
 
@@ -35,4 +38,4 @@ The openSUSE Weekly News is available in:
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/53).
 
 New: Short version in [Hungarian](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/53) .
- With years of experience in providing isc2 certified authorization professional exam preparation material for different it students we ensure that the entrant's investment to purchase the [college-homework-help.org](https://college-homework-help.org/) content is always worth it		
+ With years of experience in providing isc2 certified authorization professional exam preparation material for different it students we ensure that the entrant's investment to purchase the [college-homework-help.org](https://college-homework-help.org/) content is always worth it

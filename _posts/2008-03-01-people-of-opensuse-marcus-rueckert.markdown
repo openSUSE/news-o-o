@@ -1,27 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-01 03:14:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/01/people-of-opensuse-marcus-rueckert/
-title: "People of openSUSE: Marcus Rueckert"
+slug: people-of-opensuse-marcus-rueckert
+title: 'People of openSUSE: Marcus Rueckert'
+wordpress_id: 674
 categories:
 - People of openSUSE
 ---
-This week we travel back to the main center of the openSUSE development, Nürnberg, to meet Marcus 'darix' Rueckert - openSUSE packager, and openSUSE Build Service content administrator among other stuff.
+
+This week we travel back to the main center of the openSUSE development, NÃ¼rnberg, to meet Marcus 'darix' Rueckert - openSUSE packager, and openSUSE Build Service content administrator among other stuff.
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-|||
-|--- |--- |
-|**Nickname:**|darix. Most people call me that way.|
-|**Homepage:**|[http://nordisch.org/](http://nordisch.org/)|
-|**Blog:**|[http://nordisch.org/](http://nordisch.org/) - but I am lazy when it comes to posting.|
-|||
-|**Favorite season:**|Winter. I like it cold.|
-|**Motto:**|Live and let live.|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >darix. Most people call me that way.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://nordisch.org/](http://nordisch.org/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://nordisch.org/](http://nordisch.org/) - but I am lazy when it comes to posting.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Winter. I like it cold.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Live and let live.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -219,7 +311,7 @@ Some language and parser theory.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Reading and sleeping. No internet. No work.
@@ -291,7 +383,7 @@ Away from people so I can really chill. No phone. No handy. Nothing.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Building me a small house at the beach and for the rest of it I would sponsor projects I am interested in. (This include openSUSE of course)
@@ -301,7 +393,7 @@ Building me a small house at the beach and for the rest of it I would sponsor pr
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Here and now.
@@ -311,7 +403,7 @@ Here and now.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Uhm no? :)
@@ -366,5 +458,3 @@ Why a person should pick up openSUSE. I am no salesman.
 
 None. We had enough questions already :p
 
-
-		

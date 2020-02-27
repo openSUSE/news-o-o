@@ -1,13 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-11-04 12:05:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/11/04/opensuse-leap-42-1-becomes-first-hybrid-distribution/
-title: "openSUSE Leap 42.1 Becomes First Hybrid Distribution"
+slug: opensuse-leap-42-1-becomes-first-hybrid-distribution
+title: openSUSE Leap 42.1 Becomes First Hybrid Distribution
+wordpress_id: 19624
 categories:
 - Leap
 ---
+
 **Bridging Community and Enterprise**
 
 (In other languages: [EL](https://el.opensuse.org/Release_announcement_42.1), [LT](https://en.opensuse.org/Archive:LT-Release_announcement_42.1), [SP](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_42.1), [FR](https://fr.opensuse.org/Annonce_de_version_42.1))
@@ -176,7 +179,7 @@ openSUSE Leap 42.1 is full of virtualization solutions. QEMU 2.3.1, VirtualBox 5
 
 
 
-![]({{ site.baseurl }}/assets/yast.png)
+![](/wp-content/uploads/2014/11/yast.png)
 
 
 
@@ -320,5 +323,3 @@ The openSUSE Project is a worldwide community that promotes the use of Linux eve
 
 
 
-
-		

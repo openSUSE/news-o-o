@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2019-01-24 09:03:25+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/24/kubic-is-now-a-certified-kubernetes-distribution/
-title: "Kubic is now a certified Kubernetes distribution"
+slug: kubic-is-now-a-certified-kubernetes-distribution
+title: Kubic is now a certified Kubernetes distribution
+wordpress_id: 21603
 categories:
 - Announcements
 - Derivatives
@@ -20,7 +23,6 @@ tags:
 - Kubernetes
 - openSUSE Kubic
 ---
-
 
 Published by Richard Brown on Jan 22, 2019 on [kubic.opensuse.org](https://kubic.opensuse.org)
 
@@ -97,8 +99,6 @@ So, to everyone who has contributed to Kubic so far and made this possible, **TH
 
 To all of the upstream projects without whom Kubic wouldn’t have anything to distribute and get certified, **THANK YOU** and see you soon on your issue trackers and pull request queues.
 
-And to anyone and everyone else, **THANK YOU**, and we hope you _have a lot of fun_ downloading, using, and hopefully contributing back our window into the container world.![]({{ site.baseurl }}/assets/kubic-screenshot-300x158.png)
+And to anyone and everyone else, **THANK YOU**, and we hope you _have a lot of fun_ downloading, using, and hopefully contributing back our window into the container world.![](/wp-content/uploads/2018/08/kubic-screenshot.png)
 
 
-
-		

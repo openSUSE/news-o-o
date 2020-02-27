@@ -1,13 +1,16 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2014-09-01 03:45:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/09/01/things-i-learnt-with-the-zorp-and-opensuse-team/
-title: "Things I learnt with the Zorp and openSUSE Team"
+slug: things-i-learnt-with-the-zorp-and-opensuse-team
+title: Things I learnt with the Zorp and openSUSE Team
+wordpress_id: 18502
 categories:
 - Google Summer of Code
 ---
+
 Greetings everyone, this is Peter from Hungary. In the last few months I have spent a lot of time and effort to give something to the open source community in the framework of GSoC. The aim of my project was to implement a Load Balancer as a Service (LBaaS) Zorp (http://www.balabit.com/network-security/zorp) driver for OpenStack (http://www.openstack.org/) in openSUSE environment.
 <!-- more -->
 
@@ -54,4 +57,4 @@ Also there are two virtual machines for you to try, the first one is an OpenSuse
 To sum this summer, it was really fun, and it provided a very rich learning experience. I cannot express how thankful I am for being able to participate in such a great project. So first of all I would like to thank openSUSE for giving me the opportunity. Also, a big thanks goes to my mentors, who spent a lot of time with me guiding me (to avoid the dark side of the Force :)). Balint Kovacs, Peter Czanik, Szilard Pfeiffer thank you so much, without your help this project could have never been done.
 
 I hope we will work together next summer as well!
-V_Petya		
+V_Petya

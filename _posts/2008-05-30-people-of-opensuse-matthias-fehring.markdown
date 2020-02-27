@@ -1,28 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-30 17:20:57+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/30/people-of-opensuse-matthias-fehring/
-title: "People of openSUSE: Matthias Fehring"
+slug: people-of-opensuse-matthias-fehring
+title: 'People of openSUSE: Matthias Fehring'
+wordpress_id: 797
 categories:
 - People of openSUSE
 ---
+
 'People of openSUSE' caught up the man behind the great effort done on the German openSUSE wiki -  Matthias Fehring. He is one of the system operatores of the [de.opensuse.org](http://de.opensuse.org) wiki and long time openSUSE user.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![matthias_fehring.jpg]({{ site.baseurl }}/assets/matthias_fehring.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname(s):**|Buschmann|
-|**Homepage:**|Nothing own, only the site I made for my village [http://eissen.huessenbergnetz.de](http://eissen.huessenbergnetz.de)|
-|**Blog:**|No, I don't need that.|
-|||
-|**Favorite season:**|All of them, I like the change.|
-|**Motto:**|"I disapprove of what you say, but I will defend to the death your right to say it." (Evelyn Beatrice Hall)|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![matthias_fehring.jpg](/wp-content/uploads/2008/05/matthias_fehring.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >Buschmann
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >Nothing own, only the site I made for my village [http://eissen.huessenbergnetz.de](http://eissen.huessenbergnetz.de)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >No, I don't need that.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >All of them, I like the change.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"I disapprove of what you say, but I will defend to the death your right to say it." (Evelyn Beatrice Hall)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -222,7 +312,7 @@ Programming would be nice, but I fear that ends like my wish to can play bagpipe
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Shit happens, but good time for drinking more beer with many friends. Or to read anymore books.
@@ -294,17 +384,17 @@ Driving around with a car, camping and make a little bit sightseeing and taste t
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
-At first I would give a big party. Then I will invest the rest (I hope there will be a rest) to make it more. If it is enough I will try to buy one of the best breweries in the world: Schloßbrauerei Rheder ;-)
-
-
-
+At first I would give a big party. Then I will invest the rest (I hope there will be a rest) to make it more. If it is enough I will try to buy one of the best breweries in the world: SchloÃŸbrauerei Rheder ;-)
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+
+
+
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 March 18, 1848 on the barricades in Berlin.
@@ -314,7 +404,7 @@ March 18, 1848 on the barricades in Berlin.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No, should I? My computers survived an electronical failure in the house connection of the power line, which killed many other devices. So, I have no more fear.
@@ -370,5 +460,3 @@ All the "What is your favorite...." questions, where the selection was to small.
 Why Buschmann (engl. bushman) as nickname?
 This is not because of my hairs! ;-) I got this name when they was really short. The origin of the name is Half-Life Deathmatch, where I used a character like a cannibal. This brought one of my friends about to call me Buschmann, and over the time many other people, which never played the game, start to call me so, too.
 
-
-		

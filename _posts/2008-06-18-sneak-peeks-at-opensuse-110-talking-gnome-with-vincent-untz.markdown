@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-18 22:03:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/
-title: "Sneak Peeks at openSUSE 11.0: Talking GNOME with Vincent Untz"
+slug: sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz
+title: 'Sneak Peeks at openSUSE 11.0: Talking GNOME with Vincent Untz'
+wordpress_id: 890
 categories:
 - Distribution
 tags:
@@ -14,6 +16,7 @@ tags:
 - vincent untz
 - vuntz
 ---
+
 Just a few hours before openSUSE 11.0 is officially released! Here we'll take a look at GNOME in openSUSE 11.0, and talk to Vincent Untz, openSUSE developer and a member of the GNOME Foundation Board.
 
 <!-- more -->**openSUSE News:** What kind of changes have happened "behind the scenes" in GNOME that users might not see right away, but are important? (Like performance increases, backend changes, etc.)
@@ -48,7 +51,7 @@ Just a few hours before openSUSE 11.0 is officially released! Here we'll take a 
   * Artwork, obviously. This helps having a unified look & feel with the rest of the distro (splash screen, e.g.).
 
 	
-  * Default configuration ” like panel layout, including gnome-main-menu, and some settings in some applications.
+  * Default configuration â€” like panel layout, including gnome-main-menu, and some settings in some applications.
 
 	
   * Bug fixes: We backport many bug fixes from SVN to get something more stable.
@@ -74,4 +77,4 @@ There will be the new rewritten GDM, better integration of the PulseAudio featur
 
 **Vincent Untz:** Also quite important to mention the whole community that is doing an awesome job -- people are helping with many things, from bug triage, to organizing meetings, giving ideas, testing, etc.
 
-**openSUSE News:** Thanks for taking the time!		
+**openSUSE News:** Thanks for taking the time!

@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-01-09 16:01:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/01/09/unofficial-kde-35-live-cd-for-opensuse-111/
-title: "Unofficial KDE 3.5 Live CD for openSUSE 11.1"
+slug: unofficial-kde-35-live-cd-for-opensuse-111
+title: Unofficial KDE 3.5 Live CD for openSUSE 11.1
+wordpress_id: 1146
 categories:
 - Derivatives
 tags:
 - KDE
 ---
+
 ![KDE logo](http://wiki.kde.org/img/wiki_up/klogo-small-crystal-128.png)Want classic KDE on openSUSE, without the full DVD download? Carlos Goncalves has you covered. openSUSE 11.1 Live CDs and USB images featuring KDE 3.5 are now available for download.
 
 Created by openSUSE community member Carlos Goncalves, the KDE 3.5 Live CD and USB images contain openSUSE 11.1 plus several key updates.
@@ -24,7 +27,7 @@ Note that the KDE 3.5 live CD is an "unofficial" release. Even though it's not a
 # Download
 
 
-![]({{ site.baseurl }}/assets/cd.png)openSUSE 11.1 KDE3 Live CD and USB are available for i686 and x86_64 architectures:
+![](//news.opensuse.org/wp-content/uploads/2007/10/cd.png)openSUSE 11.1 KDE3 Live CD and USB are available for i686 and x86_64 architectures:
 
 
 
@@ -37,6 +40,6 @@ Note that the KDE 3.5 live CD is an "unofficial" release. Even though it's not a
 
 If you want to report any bug found use [Novell's Bugzilla](https://bugzilla.novell.com/enter_bug.cgi?classification=7340&product=openSUSE.org&component=3rd%20party%20software&assigned_to=cgoncalves@opensuse.org&short_desc=openSUSE%2011.1%20KDE3%20Live-CD) for better tracking. Feedback can be sent via [email](mailto:cgoncalves@opensuse.org), IRC and comment in here.
 
-A huge thanks to [Stephan 'Beineri' Binner](https://news.opensuse.org/2007/10/26/people-of-opensuse-stephan-binner/), [Stephan 'coolo' Kulow](https://news.opensuse.org/2007/08/09/people-of-opensuse-stephan-kulow/), and [Joe 'Zonker' Brockmeier](https://news.opensuse.org/2008/07/05/people-of-opensuse-joe-brockmeier/) for their assistance and effort!
+A huge thanks to [Stephan 'Beineri' Binner](//news.opensuse.org/2007/10/26/people-of-opensuse-stephan-binner/), [Stephan 'coolo' Kulow](//news.opensuse.org/2007/08/09/people-of-opensuse-stephan-kulow/), and [Joe 'Zonker' Brockmeier](//news.opensuse.org/2008/07/05/people-of-opensuse-joe-brockmeier/) for their assistance and effort!
 
-We hope that the openSUSE community will find it useful and have a lot of fun with KDE 3.5! Nach ein paar tagen bekommen sie [Kontakt](https://schreib-essay.com/) das geld berwiesen		
+We hope that the openSUSE community will find it useful and have a lot of fun with KDE 3.5! Nach ein paar tagen bekommen sie [Kontakt](https://schreib-essay.com/) das geld berwiesen

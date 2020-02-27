@@ -1,16 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-06-26 04:56:59+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/06/26/work-begins-on-totally-new-opensuse-release/
-title: "Work begins on totally new openSUSE release"
+slug: work-begins-on-totally-new-opensuse-release
+title: Work begins on totally new openSUSE release
+wordpress_id: 19308
 categories:
 - Distribution
 ---
 
-
-#### [![42]({{ site.baseurl }}/assets/42.tif)]({{ site.baseurl }}/assets/42.tif)Roadmap questions answered[![42]({{ site.baseurl }}/assets/42-300x300.jpg)]({{ site.baseurl }}/assets/42.jpg)
+#### [![42](/wp-content/uploads/2015/06/42.tif)](/wp-content/uploads/2015/06/42.tif)Roadmap questions answered[![42](/wp-content/uploads/2015/06/42.jpg)](/wp-content/uploads/2015/06/42.jpg)
 
 
 Deep thought and some additional core SUSE Linux Enterprise source code have given The openSUSE Project a path forward for future releases.
@@ -31,4 +32,4 @@ Kulow said a milestone will be released soon.
 
 “We have to come up with solutions as problems arise,” Kulow said.
 
-There is currently no plans for live CDs, but he said expect other media formats to be added later.		
+There is currently no plans for live CDs, but he said expect other media formats to be added later.

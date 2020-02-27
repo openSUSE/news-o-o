@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2017-07-14 18:43:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/14/heroes-preparing-to-make-the-leap/
-title: "Heroes preparing to make the leap"
+slug: heroes-preparing-to-make-the-leap
+title: Heroes preparing to make the leap
+wordpress_id: 20491
 categories:
 - Infrastructure
 - Leap
@@ -16,7 +18,8 @@ tags:
 - Leap 42.3
 - opensuse
 ---
-[![openSUSE-Heroes Logo]({{ site.baseurl }}/assets/openSUSE-Heroes-150x150.png)](https://en.opensuse.org/openSUSE:Heroes)You might have noticed some normally unwanted activity over the last weeks affecting the openSUSE infrastructure - resulting in reduced availability or downtime of the provided services.
+
+[![openSUSE-Heroes Logo](/wp-content/uploads/2016/07/openSUSE-Heroes.png)](https://en.opensuse.org/openSUSE:Heroes)You might have noticed some normally unwanted activity over the last weeks affecting the openSUSE infrastructure - resulting in reduced availability or downtime of the provided services.
 
 Today we are happy to announce that most of the infrastructure work is done and the openSUSE Heroes together with the SUSE-IT team achieved a lot - ready to welcome openSUSE Leap 42.3 in time!
 
@@ -56,4 +59,4 @@ What was done in detail?
   7. We forgot something in this list, for sure. So be prepared for more news soon :-)
 
 
-		
+

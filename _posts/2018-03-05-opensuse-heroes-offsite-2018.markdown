@@ -1,17 +1,20 @@
 ---
 author: Thorsten Bro
+comments: true
 date: 2018-03-05 09:00:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/03/05/opensuse-heroes-offsite-2018/
-title: "openSUSE Heroes offsite 2018"
+slug: opensuse-heroes-offsite-2018
+title: openSUSE Heroes offsite 2018
+wordpress_id: 20733
 categories:
 - Announcements
 - Events
 - Heroes
 - Infrastructure
 ---
-[![openSUSE-Heroes Logo]({{ site.baseurl }}/assets/openSUSE-Heroes.png)](https://en.opensuse.org/openSUSE:Heroes)The first weekend in March 2018, the [openSUSE Heroes](https://en.opensuse.org/openSUSE:Heroes) met again in-person, after one year of infrastructure work, which was mostly done from home.
+
+[![openSUSE-Heroes Logo](/wp-content/uploads/2016/07/openSUSE-Heroes.png)](https://en.opensuse.org/openSUSE:Heroes)The first weekend in March 2018, the [openSUSE Heroes](https://en.opensuse.org/openSUSE:Heroes) met again in-person, after one year of infrastructure work, which was mostly done from home.
 
 After our last in-person meeting in December 2016, we saw each-other in person at openSUSE conference 2017 and maybe at some other events like release parties - but now it's the time of the year when it's very cold outside - so we decided to stay one weekend inside and talk about the topics for 2018 and the future of the openSUSE Heroes team. And getting some work done :).
 
@@ -75,8 +78,8 @@ Besides a lot of work and filling up our ToDo list for 2018 - we had some time t
 
 Here are some pictures of our offsite.
 
-![Heroes offsite 2018 - team picture]({{ site.baseurl }}/assets/P1030356_cut-1024x272.jpg)
+![Heroes offsite 2018 - team picture](/wp-content/uploads/2018/03/P1030356_cut.jpg)
 
-![Heroes offsite 2018 - team picture]({{ site.baseurl }}/assets/P1030357-1024x683.jpg)
+![Heroes offsite 2018 - team picture](/wp-content/uploads/2018/03/P1030357.jpg)
 
-![Heroes offsite 2018 - team picture]({{ site.baseurl }}/assets/DSC_0325-1024x576.jpg)		
+![Heroes offsite 2018 - team picture](/wp-content/uploads/2018/03/DSC_0325.jpg)

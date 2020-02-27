@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-01-31 07:04:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/31/opensuse-leap-15-reaches-beta-phase-snapshots/
-title: "openSUSE Leap 15 Reaches Beta Phase Snapshots"
+slug: opensuse-leap-15-reaches-beta-phase-snapshots
+title: openSUSE Leap 15 Reaches Beta Phase Snapshots
+wordpress_id: 20648
 categories:
 - Announcements
 - Conference
@@ -34,7 +36,8 @@ tags:
 - testing
 - workload
 ---
-![]({{ site.baseurl }}/assets/Leap-green-254x300.png)The development version of [openSUSE Leap 15](http://download.opensuse.org/distribution/leap/15.0/iso/) has reached its beta phase builds and snapshots are available for testers via [http://download.opensuse.org/distribution/leap/15.0/iso/](http://download.opensuse.org/distribution/leap/15.0/iso/).
+
+![](/wp-content/uploads/2016/04/Leap-green.png)The development version of [openSUSE Leap 15](http://download.opensuse.org/distribution/leap/15.0/iso/) has reached its beta phase builds and snapshots are available for testers via [http://download.opensuse.org/distribution/leap/15.0/iso/](http://download.opensuse.org/distribution/leap/15.0/iso/).
 
 Exactly like the rolling development model used to make openSUSE Leap 42.3, Leap 15.0 will use the same model until its final build. No concrete milestones will be used building up to the final release, which is expected in late Spring. As bugs are fixed and new packages introduced or excluded, snapshots of the latest beta phase builds will be released once they pass [openQA](https://openqa.opensuse.org/group_overview/50) testing; the first beta version build ([Build 109.3](https://openqa.opensuse.org/group_overview/50)) of openSUSE Leap 15 was recently released and there are currently two follow-on beta builds that would feature minor improvements if the beta builds pass [openQA](https://openqa.opensuse.org/group_overview/50) .
 
@@ -56,4 +59,4 @@ Since the [openSUSE conference](https://events.opensuse.org/) is taking place in
 
 
 
-* Correction - The original article listed the 4.14 Linux Kernel. Leap 15 is expected to use the 4.12 series kernel.		
+* Correction - The original article listed the 4.14 Linux Kernel. Leap 15 is expected to use the 4.12 series kernel.

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-03-08 10:14:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/03/08/tumbleweed-updates-several-gnu-packages/
-title: "Tumbleweed Updates Several GNU Packages"
+slug: tumbleweed-updates-several-gnu-packages
+title: Tumbleweed Updates Several GNU Packages
+wordpress_id: 20765
 categories:
 - Announcements
 - Tumbleweed
@@ -31,7 +33,8 @@ tags:
 - pinyin
 - Ruby 2.5
 ---
-[![]({{ site.baseurl }}/assets/Tumbleweed-black-300x127.png)openSUSE](https://www.opensuse.org/)’s rolling distribution [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) has had five snapshots so far this month and a lot of those snapshots have includes several GNU packages.
+
+[![](/wp-content/uploads/2016/03/Tumbleweed-black.png)openSUSE](https://www.opensuse.org/)’s rolling distribution [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) has had five snapshots so far this month and a lot of those snapshots have includes several GNU packages.
 
 There were many other packages and the first snapshot of the month included an update for [KDE](https://www.kde.org/) Plasma. Here are just a few of those packages that have been updated so far this month.
 
@@ -43,4 +46,4 @@ The [20180305](https://lists.opensuse.org/opensuse-factory/2018-03/msg00095.html
 
 The [Linux Kernel](https://www.kernel.org/) 4.15.7 was updated in snapshot [20180302](https://lists.opensuse.org/opensuse-factory/2018-03/msg00066.html)  and it was filled with desktop translations for about every language you can think of. The java-1_8_0-openjdk 1.8.0.161 package fixed several Common Vulnerabilities and Exposures (CVE).
 
-Beginning the month, snapshot [20180301](https://lists.opensuse.org/opensuse-factory/2018-03/msg00039.html) brought [Plasma 5.12.2](https://www.kde.org/announcements/plasma-5.12.2.php) release; The release adds a a week's worth of new translations and fixes from KDE's contributors. [Gawk 4.2.1](https://www.gnu.org/software/gawk/) added various bug fixes in the snapshot and dropped a fold-string patch. GNU C library [glibc 2.27](https://sourceware.org/glibc/wiki/Release/2.27) made several optimizations; the malloc API family of functions will no longer print a failure address and stack backtrace after detecting heap corruption to support faster and safer process termination. The [gpg2 2.2.5](https://lists.gnupg.org/pipermail/gnupg-announce/2018q1/000420.html) fixed some regressions and added support for the [KDF Data Object](https://dev.gnupg.org/T3152) of the [OpenPGP](https://www.openpgp.org/) card 3.3.		
+Beginning the month, snapshot [20180301](https://lists.opensuse.org/opensuse-factory/2018-03/msg00039.html) brought [Plasma 5.12.2](https://www.kde.org/announcements/plasma-5.12.2.php) release; The release adds a a week's worth of new translations and fixes from KDE's contributors. [Gawk 4.2.1](https://www.gnu.org/software/gawk/) added various bug fixes in the snapshot and dropped a fold-string patch. GNU C library [glibc 2.27](https://sourceware.org/glibc/wiki/Release/2.27) made several optimizations; the malloc API family of functions will no longer print a failure address and stack backtrace after detecting heap corruption to support faster and safer process termination. The [gpg2 2.2.5](https://lists.gnupg.org/pipermail/gnupg-announce/2018q1/000420.html) fixed some regressions and added support for the [KDF Data Object](https://dev.gnupg.org/T3152) of the [OpenPGP](https://www.openpgp.org/) card 3.3.

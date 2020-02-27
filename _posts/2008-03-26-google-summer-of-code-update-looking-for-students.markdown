@@ -1,17 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-26 20:05:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/26/google-summer-of-code-update-looking-for-students/
-title: "Google Summer of Code Update “ Looking for Students"
+slug: google-summer-of-code-update-looking-for-students
+title: Google Summer of Code Update â€“ Looking for Students
+wordpress_id: 708
 categories:
 - Google Summer of Code
 tags:
 - google
 - soc
 ---
-
 
 The openSUSE Project is looking for students who are interested in contributing to the project via the Google Summer of Code. The application deadline for students is Monday, March 31st at 5 p.m. Pacific Daylight Time. (00:00 UTC, April 1, 2008)
 
@@ -48,5 +49,3 @@ The openSUSE Project's ideas page is available [on the openSUSE wiki](http://en.
 
 
 If you have any questions about the Summer of Code program, please contact [Joe 'Zonker' Brockmeier](mailto:zonker@opensuse.org) or [Christoph Thiel](mailto:cthiel@suse.de).
-
-		

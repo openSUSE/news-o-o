@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2010-04-14 06:11:10+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/04/14/opensuse-11-3-milestone-5-the-community-strikes-back/
-title: "openSUSE 11.3 Milestone 5: The Community Strikes Back"
+slug: opensuse-11-3-milestone-5-the-community-strikes-back
+title: 'openSUSE 11.3 Milestone 5: The Community Strikes Back'
+wordpress_id: 3133
 categories:
 - Announcements
 - Distribution
 ---
+
 **Milestone 5** (of 7), a snapshot of the [Factory](http://en.opensuse.org/Factory) "work in progress" build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now available for [download](http://software.opensuse.org/developer).
 
 [M5](http://software.opensuse.org/developer) was marked by significant contributions from both the openSUSE Community, and the larger Linux community. Â We've added some interesting new packages, made some updates to core processes, andÂ participatedÂ in a coordinated multi-distribution upgrade of a major multimedia component. Â Over 50 bugs were [fixed](https://bugzilla.novell.com/buglist.cgi?resolution=FIXED&chfieldto=2010-04-08&query_format=advanced&chfieldfrom=2010-03-25&bug_status=RESOLVED&product=openSUSE%2011.3) and 8 new [features](https://features.opensuse.org/query/run?search_string=&search_products[]=openSUSE-11.3&search_status[]=done&type=find&commit=Search) were implemented.
@@ -207,11 +210,9 @@ As this is a milestone release, 11.3 [M5](http://software.opensuse.org/developer
 **Get Milestone 5 Today!**
 
 
-[![Get openSUSE 11.3 Milestone 5 now!]({{ site.baseurl }}/assets/milestone5_113.png)](http://software.opensuse.org/developer)
+[![Get openSUSE 11.3 Milestone 5 now!](/wp-content/uploads/2010/04/milestone5_113.png)](http://software.opensuse.org/developer)
 
 
 
 
-[]({{ site.baseurl }}/assets/milestone2_113.png)What are you waiting for? Grab the milestone release fromÂ [software.opensuse.org/developer](http://software.opensuse.org/developer) today!
-
-		
+[](/wp-content/uploads/2010/02/milestone2_113.png)What are you waiting for? Grab the milestone release fromÂ [software.opensuse.org/developer](http://software.opensuse.org/developer) today!

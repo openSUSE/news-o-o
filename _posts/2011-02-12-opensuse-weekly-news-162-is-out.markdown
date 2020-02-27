@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-02-12 20:31:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/02/12/opensuse-weekly-news-162-is-out/
-title: "openSUSE Weekly News 162 is out!"
+slug: opensuse-weekly-news-162-is-out
+title: openSUSE Weekly News 162 is out!
+wordpress_id: 6617
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce the openSUSE Weekly News #162.
 <!-- more -->
 
@@ -115,22 +118,22 @@ This is probably one of the most controversial features that has been subject of
           allow to export GTK+ application menus through DBus, being the end result: application
           menus present on the gnome-panel and unity-panel. 
 
-This feature requires at least one patch on GTK stack. I™ve talked to Ubuntu devs
+This feature requires at least one patch on GTK stack. Iâ€™ve talked to Ubuntu devs
           regarding this patch, and it was told to me that GTK+ upstream had no interest on
-          upstreaming this patch. I™m not the one to comment this move from upstream, but I find it
+          upstreaming this patch. Iâ€™m not the one to comment this move from upstream, but I find it
           at least interesting that QT has upstreamed an identical patch which includes the same
           functionality. Since they are competing products (one can replace other totally or
           partially), such actions only strengthen QT. Adding a bit of speculation and the latest
-          statements from Shuttleworth regarding QT, I wonder if it is to be expecting some ˜wind of
-          change™¦ who knows?! 
+          statements from Shuttleworth regarding QT, I wonder if it is to be expecting some â€˜wind of
+          changeâ€™â€¦ who knows?! 
 
-For us at openSUSE what does matter is if we can Factor™ize this at least the Menu
+For us at openSUSE what does matter is if we can Factorâ€™ize this at least the Menu
           Proxy patch so we can offer Unity and Indicators at the original form and not crippled. I
-          will request soon this changes to GNOME:Factory and we™ll see what people say, regardless
+          will request soon this changes to GNOME:Factory and weâ€™ll see what people say, regardless
           of upstream positions. 
 
 This is on-development software, and has some itches, but for the most it works (GTK+
-          applications), I would expect some polishing in the future from upstream, either way, it™s
+          applications), I would expect some polishing in the future from upstream, either way, itâ€™s
           another option.
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
@@ -361,7 +364,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
           [Petr Mladek: LibreOffice 3.3.0 final available for openSUSE](http://lizards.opensuse.org/2011/02/09/libreoffice-3-3-0-final-available-for-opensuse/)
         
 
-I™m happy to announce LibreOffice 3.3.0 final
+Iâ€™m happy to announce LibreOffice 3.3.0 final
           packages for openSUSE. They are available in the Build
           Service [LibreOffice:Stable](http://download.opensuse.org/repositories/LibreOffice:/Stable/) project. They are based on the [libreoffice-3.3.0.4 release](http://cgit.freedesktop.org/libreoffice/build/plain/NEWS?id=libreoffice-3.3.0.4). Please, look for more details about the openSUSE LibreOffice build on the wiki page. 
 
@@ -378,7 +381,7 @@ You might see some installation errors about missing extensions when updating fr
 ERROR: There is no such extension deployed: com.sun.reportdesigner
 
 Please, **ignore them**. They are caused by a bug in the
-          OOo packages and can™t be avoided easily. They does not affect the LibreOffice
+          OOo packages and canâ€™t be avoided easily. They does not affect the LibreOffice
           installation! 
 
 **More known bugs **
@@ -450,7 +453,7 @@ Once again, I issue my plea for testing. Your hardware, software and computing n
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization
+            â€“ [Localization
               Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Icon-project.png)In the Community
@@ -482,7 +485,7 @@ The FOSS distribution communities work toward very similar goals: each distribut
         improving how we collaborate.
 
 [openSUSE TV: Downstream packaging
-          collaboration (Hans de Goede, Michal HrušeckÃ½)](http://opensuse.blip.tv/file/4747393/)
+          collaboration (Hans de Goede, Michal HruÅ¡eckÃ½)](http://opensuse.blip.tv/file/4747393/)
 
 patch sharing or start a new upstream?Most distributions contain packages where upstream
         is completely dead or very close to it, yet there still is a significant user group for the
@@ -538,7 +541,7 @@ The fun has started at Prague airport already. Due to (to put it mildly) incompe
 
 [Florian Reuter: FOSDEM](http://florianreuter.blogspot.com/2011/02/just-came-back-from-fosdem.html)
 
-Just came back from FOSDEM. Felt really good to meet the usual suspects again. Thanks
+Just came back from FOSDEM. Felt really good to meet the â€œusual suspectsâ€ again. Thanks
         for the great weekend! 
 
 I also had a chance to talk with Jos about ODF Web and ODF Collaboration. Jos gave a great
@@ -548,22 +551,22 @@ Jos had a very important slide in his talk which echoed my own believe: NO CONVE
         This principle guided the design of his ODF Web Framework. NO CONVERSION simply means that Jos
         does not try to heuristically (aka lossy) map ODF to HTML and then map HTML heuristically (aka
         lossy) back to ODF. Instead Jos decided to have a clean 2-tier architecture which cleanly
-        separates the content- and the view layer: ODF is content and HTML is the view. I think that™s
-        the right approach. Even more: I think if you start adding smart conversions/heuristics
-        and other intelligent mappings things will get ugly sooner or later. [And from my experience
+        separates the content- and the view layer: ODF is content and HTML is the view. I think thatâ€™s
+        the right approach. Even more: I think if you start adding â€œsmart conversionsâ€/â€heuristicsâ€
+        and other â€œintelligent mappingsâ€ things will get ugly sooner or later. [And from my experience
         on OpenOffice.org filter hacking things will get messy sooner than you like. Always keep
-        Murphy™s law in mind: What can go wrong will go wrong!]. 
+        Murphyâ€™s law in mind: What can go wrong will go wrong!]. 
 
 We also had a chance to talk about Operational Transformation (OT) in the context of ODF.
-        I tried to argue that what is really missing in ODF is a list of atomic changes a user can
-        make to an ODF document. If we had this list of atomic changes we could build a
-        transformation on top of it. For OT it is very important that you have atomic operations,
+        I tried to argue that what is really missing in ODF is a list of â€œatomic changesâ€ a user can
+        make to an ODF document. If we had this list of â€œatomic changesâ€ we could build a
+        transformation on top of it. For OT it is very important that you have â€œatomicâ€ operations,
         since you need operation transformations for every pair of operation. E.g. if you have |OPS|
         operations you need |OPS x OPS| transformations. So keeping |OPS| small is quite important! 
 
 Assembling the list of atomic operations is a lot of work --- admitted. However it is work
         that every designer of an API needs to do anyway. I really believe that some input from the
-        ODF API projects like Oracles™ ODFDOM, IBM™s Simple API for ODF, ANR™s LPOD and Jos™ ODFKit
+        ODF API projects like Oraclesâ€™ ODFDOM, IBMâ€™s Simple API for ODF, ANRâ€™s LPOD and Josâ€™ ODFKit
         could really help. 
 
 Let me finish my post by a classification of change to an ODF document:
@@ -572,8 +575,8 @@ Let me finish my post by a classification of change to an ODF document:
 <td >![](http://3.bp.blogspot.com/_k9bd8YQpZ7Y/TVARD-e1z0I/AAAAAAAAAIQ/aejOhYvKRZg/s400/changeclasses.jpg)
 </td></tr></table>
 
-I believe that for change tracking we only need atomic operations and a way to combine
-        them to compound operations. I don™t think we need to be able to track changes to the XML
+I believe that for change tracking we only need â€œatomic operationsâ€ and a way to combine
+        them to â€œcompound operationsâ€. I donâ€™t think we need to be able to track changes to the XML
         tree or the XML text. In fact I think it does more harm than good. 
 
 [Pascal Bleser:
@@ -614,7 +617,7 @@ We even managed to fill up our largest room, [Janson](http://fosdem.org/2011/sch
         keynotes. That was impressive, to say the least. 
 
 It was a great pleasure to meet so many fine people and friends again (including, but not
-        exclusively, Henne Vogelsang, Peter Linnell, Andrew Wafaa, Jürgen Weigert, Will Stephenson,
+        exclusively, Henne Vogelsang, Peter Linnell, Andrew Wafaa, JÃ¼rgen Weigert, Will Stephenson,
         Bruno Friedmann, Pavol Rusnak, Michal Hrusecky, Vincent Untz, Michael Meeks, Daniel Seuffert,
         Frank Karlitschek, Delphine Lebedel, Tristan Nitot, William Quiviger, Tom Marble, etc etc
         etc... -- sorry if I forgot you, I'm just too lazy and tired to keep pulling names out of my
@@ -658,15 +661,15 @@ On a side note, if you were at FOSDEM 2011, please take a minute to fill out our
 
 Past
 
-  * [February 09, 2011 : openSUSE Board Meeting](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [February 09, 2011 : openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [February 10, 2011 : openSUSE KDE Team meeting](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [February 10, 2011 : openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 Upcoming
 
-  * [February 23, 2011 : openSUSE Board Meeting](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [February 23, 2011 : openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -688,28 +691,28 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 [Packman: eMount
         0.11.0-1.pm](http://packman.links2linux.org/package/eMount)
 
-EMount is a free system administrator tool for Linux that can mount, encrypt and
+â€œEMount is a free system administrator tool for Linux that can mount, encrypt and
         manage disk image files and physical disk drives. It relies on cryptsetup, which implements
-        the LUKS disk encryption specification.
+        the LUKS disk encryption specification.â€
 
 [Packman: cmus
       2.3.4-1.pm](http://packman.links2linux.org/package/cmus)
 
-CMus is a small and fast text mode music player for Linux and *BSD. Supported file
+â€œCMus is a small and fast text mode music player for Linux and *BSD. Supported file
         formats include FLAC, Ogg, MP3 (via libmad), wav, and all module formats supported by
         libmodplug. Included output plugins are ALSA, ARTS, OSS, and Sun. It can be controlled
         through a UNIX socket. Background playlist loading and a metadata cache make loading files
         very fast. Playqueue, playlist filters and directory browser. Three playlist views are
         available: artist/album/track, shuffle list, and sorted list. There are three play modes:
-        all, artist, album.
+        all, artist, album.â€
 
 [Packman: aegisub
         2.1.8-0.pm](http://packman.links2linux.org/package/aegisub)
 
-Aegisub is an advanced subtitle editor that assists in the creation of subtitles,
+â€œAegisub is an advanced subtitle editor that assists in the creation of subtitles,
         translations, and complex overlays using audio or video. Developed by enthusiasts it builds
         on workflows created and perfected through professional, hobby, and everyday
-        use.
+        use.â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
 
@@ -728,11 +731,11 @@ To view the security announcements in full, or to receive them as soon as they'r
         allows the RAID functions of modern Intel motherboard chip-sets to be used. After nine
         months, the ALSA project has published a new version. **
 
-AMD™s kernel and X.org developer Alex Deucher has [published](http://thread.gmane.org/gmane.comp.freedesktop.xorg/45671) version
+AMDâ€™s kernel and X.org developer Alex Deucher has [published](http://thread.gmane.org/gmane.comp.freedesktop.xorg/45671) version
       6.14.0 of driver package xf86-video-ati. It contains the X.org driver for Radeon graphics
       hardware, which provides much better support for the latest version of Radeon graphics chips.
       For example, it now not only controls the graphics kernel of the Fusion processors developed
-      under codename Ontario, but also the Northern Islands GPUs based on Radeon HD
+      under codename â€œOntarioâ€, but also the Northern Islands GPUs based on Radeon HD
       models 62xx to 68xx. With both of them, 2D acceleration via EXA now works, as does video
       acceleration with the antiquated Xv (Xvideo), but in both cases the driver remains dependant
       on [Linux kernel 2.6.38](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html), which is still under development and is expected to be
@@ -745,7 +748,7 @@ In combination with KMS in kernel 2.6.36 and later, the driver also supports EXA
       man page in the new version. Along with kernel 2.6.38, the driver offers page-flipping support
       so that image updates are more precisely synchronised with the start of frame re-draw. For
       further information on this new technology in Linux 2.6.38, see the [first
-        part](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html) of the series Coming in 2.6.38. 
+        part](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html) of the series â€œComing in 2.6.38â€. 
 
 [Rares
         Aioanei: kernel weekly news 12.02.2011](http://schaiba.wordpress.com/2011/02/11/kernel-weekly-news-12-02-2011/)
@@ -818,7 +821,7 @@ And if anyone ever wonders why code reviewers are grumpy, just look at the above
         [LinuxJournal/Bruce Byfield: Working with Frames and Objects in Scribus](http://www.linuxjournal.com/content/working-frames-and-objects-scribus)
       
 
-A Scribus document consists of a series of objects that are added to a page, and
+â€œA Scribus document consists of a series of objects that are added to a page, and
           contained within a frame. In addition to the usual cut, copy, and paste functions
           available in most applications, frames in Scribus share a general set of editing
           attributes and, so far as possible, the same set of properties. As you can see from the
@@ -827,7 +830,7 @@ A Scribus document consists of a series of objects that are added to a page, and
           be edited either as a group or as individual cells, while drawing primitives are
           sub-divided into shape, polygon, line, Bezier curve, and freehand line. Frames for
           primitives are added with the content, while the content of other frames must be added
-          separately. (...)
+          separately.â€ (...)
 
 ### For Commandline/Script Newbies
 
@@ -851,14 +854,14 @@ This article lists various practical Linux commands to be used only as a referen
           Twisted](http://mindby.com/2011/02/celery-and-twisted/)
       
 
-"I™ve been working with [Celery](http://celeryproject.org/), [Twisted](http://twistedmatrix.com/trac/) and [Cyclone](https://github.com/fiorix/cyclone) recently on a side project I have
+"Iâ€™ve been working with [Celery](http://celeryproject.org/), [Twisted](http://twistedmatrix.com/trac/) and [Cyclone](https://github.com/fiorix/cyclone) recently on a side project I have
         going on, however the integration between Celery and Twisted is not ideal for asynchronous
-        programming which prompted me to jot down some notes for what I™ve worked out. Hopefully
-        this will be useful to someone, also if anyone wants to offer a better way I™m all ears :) . 
+        programming which prompted me to jot down some notes for what Iâ€™ve worked out. Hopefully
+        this will be useful to someone, also if anyone wants to offer a better way Iâ€™m all ears :) . 
 
 Celery has some built in methods to allow you to check the completeness of a remote job
         by calling the successful() method on a returned AsyncResult object. For example you can do
-        something like this¦" (...)
+        something like thisâ€¦" (...)
 
 ### For System Administrators
 
@@ -902,7 +905,7 @@ Despite approaching its 12th birthday, phpMyAdmin is still under active developm
       [Bruno Friedmann: ATI Amd flgrx 8.812 catalyst 11.1 available also for 11.4/factory](http://lizards.opensuse.org/2011/02/13/ati-amd-flgrx-8-812-catalyst-11-1-available-also-for-11-4factory/)
     
 
-"A quick note for the week-end, I™ve build and uploaded the new fglrx drivers. 
+"A quick note for the week-end, Iâ€™ve build and uploaded the new fglrx drivers. 
 
 The good news, they are also available for 11.4/factory,
 
@@ -966,15 +969,15 @@ Over 5 years ago Novell decided to turn their new asset, SuSE Linux into a commu
         Rosevear: Sleeping on a Couch: Transferring Culture](http://blog.jprosevear.org/2011/02/11/sleeping-on-a-couch-transferring-culture/)
 
 In the first half of 2009 the Preload department at Novell was building a team in Taiwan.
-      There were two main reasons for this “ our customers (the OEMs and ODMs) were located there
+      There were two main reasons for this â€“ our customers (the OEMs and ODMs) were located there
       and we wanted to be near them and the first question a customer in Taiwan always seemed to be
-      how many people do you have here. Local support in the native language backed with a large
+      â€œhow many people do you have hereâ€. Local support in the native language backed with a large
       team is very important to companies in Taiwan. 
 
 We hired excellent people who were both experienced Linux engineers and people straight
       out of university. However, all were pretty inexperienced working with open source communities
       and I had a perception that any previous workplaces they were at in Asia was more likely to be
-      hierarchical in nature where open communication was discouraged because you don™t question the
+      hierarchical in nature where open communication was discouraged because you donâ€™t question the
       boss. I believe this type of work place leads to the surfacing of issues until its way too
       late to solve them and leads to sub-optimal problem solving. I wanted to ensure that the new
       team understood open source was a key component of our work and that open communication was
@@ -982,7 +985,7 @@ We hired excellent people who were both experienced Linux engineers and people s
 
 This type of situation is not one I would have thought about at all when I first became a
       manager, but a couple of prior experiences (including failure) suggested this was something I
-      could and should address. In particular the OpenOffice indoctrination about 4 years ago when
+      could and should address. In particular the OpenOffice â€œindoctrinationâ€ about 4 years ago when
       we were expanding the team. At that time I managed the OpenOffice team at Novell and [Michael Meeks](http://people.gnome.org/~michael/) interviewed everyone we hired
       during the expansion and many of them spent 1-2 nights sleeping on his couch in the UK or
       getting trained in the Toronto office in person. Due to this, that team (now the team working
@@ -997,16 +1000,16 @@ So for Taiwan [Greg KH](http://www.kroah.com/log/), Michael Meeks,
       two major benefits. First the culture of open source and open investigation into problems was
       transmitted by people who lived it. Second communication pathways were built so that the
       engineering team in Taiwan felt comfortable asking questions and had people they had met to
-      ask the questions to, without needing big boss (me) to facilitate or hear potentially dumb
+      ask the questions to, without needing â€œbig bossâ€ (me) to facilitate or hear potentially â€œdumbâ€
       questions. So what do we have now? Those previously inexperienced with open source engineers
       who are now [proposing](http://bit.ly/eTVRqt), [submitting](http://bit.ly/go4W1V) and [maintaining](http://bit.ly/hL5CQ9)
       [code](http://bit.ly/fcpdvq) upstream. 
 
-(BTW Greg is really great at the kernel piece of this and was able to help [Ralink in a similar manner](http://bit.ly/iih0G8) with these two items as well “
+(BTW Greg is really great at the kernel piece of this and was able to help [Ralink in a similar manner](http://bit.ly/iih0G8) with these two items as well â€“
       in fact Novell is happy to help any component vendor this way). 
 
-Don™t get me wrong, you can™t just hire anyone and expect to imbue them with your
-      organization™s culture, you have to have to get people that are interested in and receptive to
+Donâ€™t get me wrong, you canâ€™t just hire anyone and expect to imbue them with your
+      organizationâ€™s culture, you have to have to get people that are interested in and receptive to
       the culture. For instance its unlikely every single Facebook engineer was previously part of a
       culture of shared code base ownership and review that required them to be [in the room to fix bugs on the fly or allowed them to change and
         submit code to any part of the app or required checkin review](http://bit.ly/hVntIJ). These are cultural
@@ -1200,10 +1203,10 @@ There are some pretty big changes in store for GNOME 3, much of which can be see
 
 Unfortunately, I initially had a bit of booting trouble when I selected the default boot
         menu option. The OS hung halfway through booting, so I forced a cold restart. I then
-        selected the Boot option instead of either Default or
-          desktop_[stuff] (the name of the ISO file) and that seemed to work fine ” I
-        even got to see the lovely Fedora boot splash screen (the Fedora logo filling
-          up). After the boot process came the login screen. I guess GDM hasn't changed
+        selected the â€œBoot â€option instead of either â€œDefaultâ€ or
+          â€œdesktop_[stuff] â€(the name of the ISO file) and that seemed to work fine â€” I
+        even got to see the lovely Fedora boot splash screen (the Fedora logo â€œfilling
+          upâ€). After the boot process came the login screen. I guess GDM hasn't changed
         a whole lot since GNOME 2.30, though for some reason the GTK+ theming looked really ugly.
         Upon seeing it, I hoped it was just an issue with GDM and not the whole GNOME desktop
         theming ability, and thankfully, as I found out shortly thereafter, I was right. I then
@@ -1228,8 +1231,8 @@ The company has created a series of [bylaws](http://cr.openjdk.java.net/~mr/byla
 
 Today February 8, some Japanese web users who are influential in tech communities like
         Hatena and Twitter, started reporting they were locked out from Facebook. After trying to
-        log in, they were taken to the form, which title is Complaints against a ban of your
-        account, identity demanded. (...)
+        log in, they were taken to the form, which title is â€œComplaints against a ban of your
+        account, identity demandedâ€. (...)
 
 ### Reviews and Essays
 
@@ -1251,13 +1254,13 @@ Today February 8, some Japanese web users who are influential in tech communitie
 In September of 2010 many of the top developers of Open Office parted ways from Oracle
         and the Open Office project. They went on to form the [Document Foundation](http://documentfoundation.org/). 
 
-Our mission is to facilitate the evolution of the OpenOffice.org Community into a
+â€œOur mission is to facilitate the evolution of the OpenOffice.org Community into a
           new open, independent, and meritocratic organizational structure within the next few
           months. An independent Foundation is a better match to the values of our contributors,
           users, and supporters, and will enable a more effective, efficient, transparent, and
           inclusive Community. We will protect past investments by building on the solid
           achievements of our first decade, encourage wide participation in the Community, and
-          co-ordinate activity across the Community.
+          co-ordinate activity across the Community.â€
 
 This split from Oracle was in a sense a revolution. OpenOffice.org used to be sponsored
         by Sun Micro systems. After Sun was bought out by Oracle there were rumors and fears that
@@ -1300,7 +1303,7 @@ The program has many features that computer graphics designers will find useful,
 "[Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
         is a free mind mapping program which has some amazing functionality and a variety of uses. A
         mind map is nothing more than what people have done for years with a pencil and pad of paper
-        “ Brain Storm. You start with a main idea, then you expand it with branches of related
+        â€“ Brain Storm. You start with a main idea, then you expand it with branches of related
         concepts, then you expand those concepts with specific details. Before you know it, you have
         just cured cancer, invented the first car that runs on water, or successfully taken over the
         world. 
@@ -1334,20 +1337,20 @@ In my posession I also had an old mini-itx board with passive cooling (large hea
           Desktop Environment](http://genek.net/wordpress/)
       
 
-**Author™s note: **
+**Authorâ€™s note: **
 
 most of the screenshots contained herein were taken from the KDE release announcement.
         Thanks to KDE for making these pics available for re-use. 
 
 **Ancient History: **
 
-It™s been three years, and it™s still hard to put the KDE 4.0 debacle behind me. I was
+Itâ€™s been three years, and itâ€™s still hard to put the KDE 4.0 debacle behind me. I was
         running KDE 3.5 on Debian stable happy as a clam, and then one fine day in January of 2008
         the KDE folks dumped their brand-new, completely re-vamped desktop environment into our
-        laps. I couldn™t get it for Debian so I installed another distro just to check it out¦ and
+        laps. I couldnâ€™t get it for Debian so I installed another distro just to check it outâ€¦ and
         used it for less than 24 hours. I could see what they were trying to do, and there were some
         good ideas there, but the implementation was so unbelievably bad that I missed out on the
-        next two releases altogether. I didn™t try KDE 4.x again until January of last year, when I
+        next two releases altogether. I didnâ€™t try KDE 4.x again until January of last year, when I
         installed Debian testing with the KDE 4.3 desktop. It was great! Since then KDE has gone
         from strength to strength. KDE 4.4 was mature and stable, and KDE 4.5 added polish and
         finesse. KDE 4.6, released a little over a week ago, ups the ante once again. (...)
@@ -1355,28 +1358,28 @@ It™s been three years, and it™s still hard to put the KDE 4.0 debacle behind
 [QTBlog/Daniel Kihlberg: Nokia new strategic direction. What is the future for
         Qt?](http://blog.qt.nokia.com/2011/02/12/nokia-new-strategic-direction-what-is-the-future-for-qt/)
 
-Wow, what a day¦ Nokia outlined its new platform strategy for smartphones, with Windows
-        Phones as it primary smartphone platform in a proposed partnership with Microsoft¦ and
-        Microsoft™s tools would be used for Nokia Windows Phone application development ¦ and guess
+Wow, what a dayâ€¦ Nokia outlined its new platform strategy for smartphones, with Windows
+        Phones as it primary smartphone platform in a proposed partnership with Microsoftâ€¦ and
+        Microsoftâ€™s tools would be used for Nokia Windows Phone application development â€¦ and guess
         what, it has raised a lot of questions in the Qt community. 
 
 So the question is, what is the future for Qt? 
 
 Qt will continue to play an important role in Nokia. Consider the following:
 
-  * The retention of Nokia™s 200 million Symbian-users is vital and Nokia has targeted
+  * The retention of Nokiaâ€™s 200 million Symbian-users is vital and Nokia has targeted
               sales of 150 million more Symbian-devices in years to come. To achieve that Nokia
-              needs to continue the modernization of Symbian in Qt “ to keep existing consumers
+              needs to continue the modernization of Symbian in Qt â€“ to keep existing consumers
               engaged and to attract new customers, either upgrading from existing Symbian devices
               to Qt enabled devices or entirely new to Nokia.
 
   * Nokia also announced it will ship its first MeeGo-related device in 2011, which
-              will rely on the Qt ecosystem “ and then will continue with MeeGo as an open source
-              project for future disruption. Nokia can™t afford to be behind the next disruption
-              again and Qt can play an important role in making sure it isn™t.
+              will rely on the Qt ecosystem â€“ and then will continue with MeeGo as an open source
+              project for future disruption. Nokia canâ€™t afford to be behind the next disruption
+              again and Qt can play an important role in making sure it isnâ€™t.
 
   * With Qt Quick and Qt SDK 1.1 releases in the coming months we are expecting the Qt
-              developer community to continue to grow “ adding to the 400.000 developers using Qt
+              developer community to continue to grow â€“ adding to the 400.000 developers using Qt
               today. Qt is developed together with the community and we expect the pace of
               innovation to increase even further as the community grows.
 
@@ -1395,13 +1398,13 @@ Qt will continue to play an important role in Nokia. Consider the following:
               one SDK.
 
   * Qt everywhere. Qt continues to make vast inroads into especially low end Linux
-              devices and distro™s. Qt also continues to provide a platform for others to innovate
+              devices and distroâ€™s. Qt also continues to provide a platform for others to innovate
               and differentiate upon. For example Dreamworks switching all their internal animation
-              tools to Qt and making cool movies like MegaMind and How to Train Your
-              Dragon.
+              tools to Qt and making cool movies like â€œMegaMindâ€ and â€œHow to Train Your
+              Dragonâ€.
 
 Qt is increasingly popular. During 2010, we had 1.5+ million downloads at qt.nokia.com
-        (alone) “ twice as much as during 2009 “ and with the up-coming innovation and additional
+        (alone) â€“ twice as much as during 2009 â€“ and with the up-coming innovation and additional
         investments in Qt combined with the introduction of open governance, I believe Qt will be
         used more than ever before.
 
@@ -1431,7 +1434,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
@@ -1452,7 +1455,7 @@ We thank for this Issue:
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-    the [comment section](https://news.opensuse.org/?p=6628) and let us know! 
+    the [comment section](http://news.opensuse.org/?p=6628) and let us know! 
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
@@ -1474,7 +1477,7 @@ Since a few minutes you can use [Bugtracking](http://developer.berlios.de/bugs/?
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1483,7 +1486,7 @@ You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](ht
 openSUSE Weekly News is translated into many languages. Issue
     163 is available in: 
 
-  * [English](https://news.opensuse.org/?p=6628)
+  * [English](http://news.opensuse.org/?p=6628)
 
 Coming soon: 
 
@@ -1494,6 +1497,3 @@ You can follow the status of the translation [there](http://en.opensuse.org/open
   * [Greek](http://el.opensuse.org/Weekly_news)
 
   * [German](http://wiki.open-slx.de/OWR/2011-07)
-
-
-		

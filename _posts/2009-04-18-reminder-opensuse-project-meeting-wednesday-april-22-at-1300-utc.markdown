@@ -1,15 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-18 13:16:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/18/reminder-opensuse-project-meeting-wednesday-april-22-at-1300-utc/
-title: "Reminder: openSUSE Project Meeting Wednesday April 22 at 13:00 UTC\
-  "
+slug: reminder-opensuse-project-meeting-wednesday-april-22-at-1300-utc
+title: 'Reminder: openSUSE Project Meeting Wednesday April 22 at 13:00 UTC'
+wordpress_id: 1543
 categories:
 - Events
 ---
-
 
 The next openSUSE Project meeting will take place Wednesday April 22nd at 13:00 UTC. See all time zones on the [Fixed Time World Clock](http://bit.ly/Tb6zE). As always, the meeting will be held in IRC on the #opensuse-project channel on Freenode.
 
@@ -54,5 +54,3 @@ Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.
 
 
 Wondering what meeting times are? [Check the openSUSE Meetings page](http://en.opensuse.org/Meetings). All project meetings and team meetings should be listed there.
-
-		

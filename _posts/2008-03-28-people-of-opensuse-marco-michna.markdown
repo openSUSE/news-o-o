@@ -1,35 +1,126 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-28 13:00:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/28/people-of-opensuse-marco-michna/
-title: "People of openSUSE: Marco Michna"
+slug: people-of-opensuse-marco-michna
+title: 'People of openSUSE: Marco Michna'
+wordpress_id: 710
 categories:
 - People of openSUSE
 ---
+
 This week we meet [#openSUSE IRC](irc://irc.freenode.net/opensuse) supporter, and openSUSE Quality Assurance team member Marco 'daemon' Michna in one more 'People of openSUSE' interview!
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![marco_michna.jpg]({{ site.baseurl }}/assets/marco_michna.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname(s):**|My nickname is "daemon" - this name was given to me by my beloved co-workers. They had a good explanation and so I adopted it. Maybe I will reveal the full story at some time (have to ask all people involved).
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![marco_michna.jpg](/wp-content/uploads/2008/03/marco_michna.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >My nickname is "daemon" - this name was given to me by my beloved co-workers. They had a good explanation and so I adopted it. Maybe I will reveal the full story at some time (have to ask all people involved).
 
 We are so used to my nickname that most of my friends and co-workers call me daemon and some even have problems remembering my real name :-)
 
-On freenode you will find me as [daemon].|
-|**Homepage:**|I still stick to my comment: If you don't know me then you don't want to be there:
-[http://hausb.org](http://hausb.org)|
-|**Blog:**|[http://hausb.org/dungeon](http://hausb.org/dungeon)
-A lot of crap there and almost used to spread anger and joy :)|
-|||
-|**Favorite season:**|Summer! But there has to be water and the possibility to dive.|
-|**Motto:**|"nordisch by nature"|
-|||
+On freenode you will find me as [daemon].
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage:**
+</td>
+
+<td >I still stick to my comment: If you don't know me then you don't want to be there:
+[http://hausb.org](http://hausb.org)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://hausb.org/dungeon](http://hausb.org/dungeon)
+A lot of crap there and almost used to spread anger and joy :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Summer! But there has to be water and the possibility to dive.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"nordisch by nature"
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
+
 
 
 
@@ -266,7 +357,7 @@ All at masters degree!
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I would be quite unhappy.
@@ -341,7 +432,7 @@ Maximum stealth. Vanish for a while.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Donate it to e.g.: [http://www.aerzte-ohne-grenzen.de](http://www.aerzte-ohne-grenzen.de)
@@ -351,7 +442,7 @@ Donate it to e.g.: [http://www.aerzte-ohne-grenzen.de](http://www.aerzte-ohne-gr
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 At the end of the world.
@@ -361,7 +452,7 @@ At the end of the world.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No! Why should I?
@@ -419,5 +510,3 @@ I still don't understand this question.
 Q: Has there been men on the moon?
 A: Sorry to say ... No - it was a fake.
 
-
-		

@@ -1,19 +1,20 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-04-20 10:58:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/04/20/planning-on-attending-the-opensuse-conference/
-title: "Planning on attending the openSUSE Conference?"
+slug: planning-on-attending-the-opensuse-conference
+title: Planning on attending the openSUSE Conference?
+wordpress_id: 19821
 categories:
 - Conference
 ---
 
-
 ### What to know
 
 
-![openSUSE Conference Crowd]({{ site.baseurl }}/assets/CSC_0177-300x200.jpg)The [openSUSE Conference](https://events.opensuse.org/conference/oSC16) in Nuremberg, Germany, June 22 - 26 is just nine weeks away and attendee might want to start planning their trip to this year’s conference.
+![openSUSE Conference Crowd](/wp-content/uploads/2014/12/CSC_0177.jpg)The [openSUSE Conference](https://events.opensuse.org/conference/oSC16) in Nuremberg, Germany, June 22 - 26 is just nine weeks away and attendee might want to start planning their trip to this year’s conference.
 
 With a pre-conference party planned for June 21 at the [Kater Murr](http://kater-murr.com/) at 7 p.m., attendees might want to consider arriving on June 21; arriving a day before the conference is a good idea.
 
@@ -49,4 +50,4 @@ The SUSE Band will play live music on stage at the Z Bau June 24 from 6:45 p.m. 
 
 The conference is scheduled to end at 2 p.m. on June 26 so attendees can have enough time to get to the airport for a flight leaving at 5 p.m. or later. There are several flights leaving Nuremberg after 5 p.m. Three hours is more than enough time to get to the airport from the [Z Bau](http://z-bau.com/). Using public transportation takes a little under 30 minutes from the Z Bau to [Nuremberg Airport](http://www.airport-nuernberg.de/english).
 
-There will be a [Hack Week](https://hackweek.suse.com/) for those who would like to stay and hack in Nuremberg. Give it some thought before making travel plans and maybe stay a few days to hack with people at the SUSE headquarters in Nuremberg.		
+There will be a [Hack Week](https://hackweek.suse.com/) for those who would like to stay and hack in Nuremberg. Give it some thought before making travel plans and maybe stay a few days to hack with people at the SUSE headquarters in Nuremberg.

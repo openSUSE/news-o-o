@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-09-24 10:10:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/09/24/opensuse-conference-is-over-some-wrap-up/
-title: "openSUSE Conference is Over - Some Wrap Up"
+slug: opensuse-conference-is-over-some-wrap-up
+title: openSUSE Conference is Over - Some Wrap Up
+wordpress_id: 2184
 categories:
 - Events
 - Project
@@ -12,6 +14,7 @@ tags:
 - conference
 - News
 ---
+
 On Sunday the first openSUSE conference  (osc09) finished in Nuernberg, Germany. Overall it was great success and brought people face to face together. Participants were motivated and enthusiastic and we'd like to just show some comments on twitter/blog:
 
 
@@ -104,4 +107,4 @@ If you like to see some photos, check either of these two galleries:
 
 
 **Twitter
-**The flickr photos are also shown on the osc09 [twitterwall](http://karl-tux-stadt.de/osc09/) that was created by [gnokii](http://en.opensuse.org/User:Gnokii).Â  #osc09 was the hashmark used for twittering about the  conference.		
+**The flickr photos are also shown on the osc09 [twitterwall](http://karl-tux-stadt.de/osc09/) that was created by [gnokii](http://en.opensuse.org/User:Gnokii).Â  #osc09 was the hashmark used for twittering about the  conference.

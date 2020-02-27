@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-10-23 07:51:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/23/smeegol-at-osc/
-title: "Smeegol at oSC"
+slug: smeegol-at-osc
+title: Smeegol at oSC
+wordpress_id: 5218
 categories:
 - Derivatives
 - Events
 ---
-(https://news.opensuse.org/2010/10/23/smeegol-at-osc/20101020_001/)
+
+[caption id="attachment_5220" align="alignright" width="300" caption="Meeks and Wafaa"][![Meeks and Wafaa](/wp-content/uploads/2010/10/20101020_001.jpg)](http://news.opensuse.org/2010/10/23/smeegol-at-osc/20101020_001/)[/caption]
 
 Wednesday at the conference, Smeegol master Andrew "Funkypenguin" Wafaa was given the stage by Michael Meeks who was supposed to talk about MeeGo. Meeks claimed that he'd rather have someone on the stage who actually knew what he was talking about, hence Andrew had to explain himself to the audience.
 
@@ -28,4 +31,4 @@ According to Andrew he developed Smeegol in part because he thought he could do 
 
 Building Smeegol was quite a challenge. Few packages have a proper upstream and many are heavily patched. In general, MeeGo is a weird mix of old and new software which is not cleanly separated. Wafaa had to extract the tarballs from the source rpm's, adapt the specfiles and build the packages anew. The biggest issues Smeegol faces are bugs, lack of good artwork, performance and compatibility. Andrew looks forward to working with new people and he hopes people will be interested in creating the artwork, updating packages and providing him potentially with a good new name.
 
-If you want to get involved - just go and talk to him. His nick is funkypenguin on IRC - he usually hangs out on #opensuse-project on freenode.		
+If you want to get involved - just go and talk to him. His nick is funkypenguin on IRC - he usually hangs out on #opensuse-project on freenode.

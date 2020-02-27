@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-11-23 11:38:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/11/23/tumbleweed-delivers-incredible-snapshot-streak-newest-kernel/
-title: "Tumbleweed Delivers Incredible Snapshot Streak, Newest Kernel"
+slug: tumbleweed-delivers-incredible-snapshot-streak-newest-kernel
+title: Tumbleweed Delivers Incredible Snapshot Streak, Newest Kernel
+wordpress_id: 20194
 categories:
 - Tumbleweed
 tags:
@@ -25,6 +27,7 @@ tags:
 - polari
 - zigbee
 ---
+
 ![](http://i.imgur.com/POgU9ks.png)News of Linux releases are getting most of the headlines during November while snapshots of openSUSE Tumbleweed have subtly been flying under the radar.
 
 Other than Nov. 3 and Nov. 6, openSUSE Tumbleweed had updated software snapshots released every day this month.
@@ -41,4 +44,4 @@ The largest snapshot in the Tumbleweed streak was [20161117](https://lists.opens
 
 KDE Applications was updated to [16.08.3](https://www.kde.org/announcements/announce-applications-16.08.3.php), which only contained bugfixes and translation updates, in the [20161113](https://lists.opensuse.org/opensuse-factory/2016-11/msg00315.html) and [20161112](https://lists.opensuse.org/opensuse-factory/2016-11/msg00272.html) snapshots. Snapshot [20161112](https://lists.opensuse.org/opensuse-factory/2016-11/msg00272.html) provided an update to [VirtualBox 5.1.8_k4.8.6_2](https://www.virtualbox.org/wiki/Changelog) and both [20161112](https://lists.opensuse.org/opensuse-factory/2016-11/msg00272.html) and [20161110](https://lists.opensuse.org/opensuse-factory/2016-11/msg00233.html) delivered updates to [GNOME 3.22.2](https://wiki.gnome.org/ThreePointTwentythree).
 
-For information about the other Tumbleweed snapshots not covered in this review can be viewed on the [openSUSE Factory Mailing List.](https://lists.opensuse.org/opensuse-factory/)		
+For information about the other Tumbleweed snapshots not covered in this review can be viewed on the [openSUSE Factory Mailing List.](https://lists.opensuse.org/opensuse-factory/)

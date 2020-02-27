@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-14 09:07:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/14/status-update-for-opensuse-conference/
-title: "Status update for openSUSE Conference"
+slug: status-update-for-opensuse-conference
+title: Status update for openSUSE Conference
+wordpress_id: 20854
 categories:
 - Announcements
 - Conference
@@ -29,7 +31,8 @@ tags:
 - unconference
 - volunteer
 ---
-![]({{ site.baseurl }}/assets/osc18-300x214.png)The [openSUSE Conference](https://events.opensuse.org/) is right around the corner and attendees list keeps growing for oSC18, which will take place May 25 - 27 at the Faculty of Information Technologies of Czech Technical University in Prague.
+
+![](/wp-content/uploads/2018/04/osc18.png)The [openSUSE Conference](https://events.opensuse.org/) is right around the corner and attendees list keeps growing for oSC18, which will take place May 25 - 27 at the Faculty of Information Technologies of Czech Technical University in Prague.
 
 There are about 250 people signed up to attend the conference and most of the talks have been [scheduled](https://events.opensuse.org/conference/oSC18/schedule) for this year’s conference. In addition to the conference, there will be a cryptofest on May 26, which will incorporate comes oSC18. The [schedule for the cryptofest](https://github.com/cryptofest/web) list three oSC18 security-focused talks and will be room 107.
 
@@ -55,4 +58,4 @@ Getting to the event with public transportation is inexpensive. A one-way ticket
 
 There are[ a couple buses](http://www.dpp.cz/en/daytime-operation/) from the airport to metro stations (subway) that will take you to downtown Prague. Bus line 100 and 119 will take you from Letiště (Prague Airport) to Nádraží Veleslavín (metro A) or Zličín (metro B). The event is located near the Dejvická station, which is two statons from Nádraží Veleslavín. The cost for the bus is about 32 CZK, which is about 1.20 EUR.
 
-Using the Google app on a smartphone will allow you can navigate Prague fairly easy, but if you want an app that gives you more option during your outings at oSC18, try one of the five recommended apps listed in this[ article](https://prague.tv/en/s72/Directory/c218-Technology/n2285-smartphone-apps-prague).		
+Using the Google app on a smartphone will allow you can navigate Prague fairly easy, but if you want an app that gives you more option during your outings at oSC18, try one of the five recommended apps listed in this[ article](https://prague.tv/en/s72/Directory/c218-Technology/n2285-smartphone-apps-prague).

@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-05-27 13:05:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/05/27/announcing-the-opensuse-ambassadors-program/
-title: "Announcing the openSUSE Ambassadors Program"
+slug: announcing-the-opensuse-ambassadors-program
+title: Announcing the openSUSE Ambassadors Program
+wordpress_id: 1709
 categories:
 - Announcements
 - Project
 ---
+
 Want to help spread the word about the openSUSE Project and encourage more people to become part of the openSUSE Community? Are you ready to roll up your sleeves and spread the word about the openSUSE Project? Do you want to teach new users about Linux, speak about openSUSE at local events, help distribute openSUSE media, and mentor new contributors to the openSUSE Project? Then you're ready to become an openSUSE Ambassador!
 
 
@@ -31,4 +34,4 @@ In general, openSUSE Ambassadors are friendly openSUSE enthusiasts who help intr
 
 If you'd like to sign up for the openSUSE Ambassador Program, see the "How do I Join?" section on the [openSUSE wiki](http://en.opensuse.org/Ambassador#How_do_I_join.3F). If you have questions about the Ambassador's program not answered [on the wiki](http://en.opensuse.org/Ambassador#openSUSE_Ambassador_FAQ), feel free to bring them up on the openSUSE Marketing [mailing list](http://en.opensuse.org/Mailing_Lists).
 
-You don't need approval to get started. Just follow the steps on the openSUSE wiki and have a lot of fun!		
+You don't need approval to get started. Just follow the steps on the openSUSE wiki and have a lot of fun!

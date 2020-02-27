@@ -1,15 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-08-11 11:47:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/11/announcing-enos-2008/
-title: "Announcing ENOS 2008"
+slug: announcing-enos-2008
+title: Announcing ENOS 2008
+wordpress_id: 974
 categories:
 - Announcements
 - Events
 ---
-
 
 ![ENOS](http://www.cgoncalves.info/images/opensuse/enos/enos_200.png)
 
@@ -94,4 +95,4 @@ Big thanks to **[Porto Linux](http://www.portolinux.org/)**, **[ISEP](http://www
 	
   * Web: [http://opensusept.org/](http://opensusept.org/)
 
-Computer models jupiter's ocean is 40,000 [how to teach academic writing in high school](https://pro-academic-writers.com/) km deep, as deep as earth is around		
+Computer models jupiter's ocean is 40,000 [how to teach academic writing in high school](https://pro-academic-writers.com/) km deep, as deep as earth is around

@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-03 14:55:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/03/people-of-opensuse-benjamin-weber/
-title: "People of openSUSE: Benjamin Weber"
+slug: people-of-opensuse-benjamin-weber
+title: 'People of openSUSE: Benjamin Weber'
+wordpress_id: 214
 categories:
 - People of openSUSE
 ---
-   	 	 	 	 	 	 	
+
+  	 	 	 	 	 	 	
 
 Today you can read which answers to the 'People of openSUSE' questions Benji Weber provides.
 
@@ -18,17 +21,105 @@ Moreover it is possible now to make suggestions for future interview partners on
 
 
 
-![benjamin_weber.jpg]({{ site.baseurl }}/assets/benjamin_weber.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|benji, benjiman|
-|**Homepage:**|[http://benjiweber.co.uk](http://benjiweber.co.uk)|
-|**Blog:**|[http://blogs.warwick.ac.uk/bweber](http://blogs.warwick.ac.uk/bweber)|
-|||
-|**Favorite season:**|No preference.|
-|**Motto:**|Have a lot of fun... (at least that's what /etc/motd tells me)|
-|||
 
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![benjamin_weber.jpg](//news.opensuse.org/wp-content/uploads/2007/09/benjamin_weber.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >benji, benjiman
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://benjiweber.co.uk](http://benjiweber.co.uk)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://blogs.warwick.ac.uk/bweber](http://blogs.warwick.ac.uk/bweber)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >No preference.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Have a lot of fun... (at least that's what /etc/motd tells me)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -269,7 +360,7 @@ c++ development would probably be the most useful for openSUSE right now, I know
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 Organize a lan party.
@@ -339,7 +430,7 @@ In England we have holidays rather than vacations, and I enjoy mountain walking 
 
 
 
-#### Someone gives you $1.000.000 “ what would you do with the money?
+#### Someone gives you $1.000.000 â€“ what would you do with the money?
 
 
 It's just about enough to buy a house here, so I would probably do that.
@@ -349,7 +440,7 @@ It's just about enough to buy a house here, so I would probably do that.
 
 
 
-#### If traveling through time was possible “ when would we be most likely to meet you?
+#### If traveling through time was possible â€“ when would we be most likely to meet you?
 
 
 24th century (Star Trek TNG).
@@ -359,7 +450,7 @@ It's just about enough to buy a house here, so I would probably do that.
 
 
 
-#### There's a thunderstorm outside “ do you turn off your computer?
+#### There's a thunderstorm outside â€“ do you turn off your computer?
 
 
 No.
@@ -412,4 +503,7 @@ The one about something to share, as I couldn't think of an answer.
 #### What other question would you like to answer? And what would you answer?
 
 
-Sometimes people ask "What does your desktop look like?" Mine this morning is [benjiweber.co.uk/desktop20070829.png](http://benjiweber.co.uk/desktop20070829.png)	
+Sometimes people ask "What does your desktop look like?" Mine this morning is [benjiweber.co.uk/desktop20070829.png](http://benjiweber.co.uk/desktop20070829.png)
+
+
+Wenn sie also keine literatur finden, liegt das nicht daran, dass das thema unerforscht hausarbeit schnell schreiben [https://hausarbeit-agentur.com](https://hausarbeit-agentur.com/) ist, sondern hat hchstwahrscheinlich damit zu tun, dass sie nicht wissen, wie sie suchen mssen

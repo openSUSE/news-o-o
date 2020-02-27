@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-22 12:00:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/22/help-test-the-opensuse-release-candidates/
-title: "Help test the openSUSE Release Candidates!"
+slug: help-test-the-opensuse-release-candidates
+title: Help test the openSUSE Release Candidates!
+wordpress_id: 16783
 categories:
 - Distribution
 ---
-![RC1 is here_black]({{ site.baseurl }}/assets/RC1-is-here_black.png)
+
+![RC1 is here_black](//news.opensuse.org/wp-content/uploads/2013/10/RC1-is-here_black.png)
 openSUSE made its first [release candidate for 13.1](https://news.opensuse.org/?p=16780) available less than two weeks ago. And with it, we issued a call for testing. If you're interested in helping out but would appreciate a few pointers on how to do so, read on!<!-- more -->
 
 
@@ -24,7 +27,7 @@ openSUSE uses [automated testing](http://openqa.opensuse.org) which ensures the 
 The automated testing has limitations: it only works in a virtualized environment, precluding testing of hardware and technologies like UEFI/Secure boot. And our Factory users have a limited amount of hardware available and they're usually only updating, not doing new installations.
 
 So it is extremely valuable if you grab an old (or new!) laptop or desktop and do a full installation on it instead of using a virtual machine.
-[![]({{ site.baseurl }}/assets/turing_test-243x300.png)](https://news.opensuse.org/2011/10/25/testing-at-opensuse/turing_test/)
+[![](//news.opensuse.org/wp-content/uploads/2011/10/turing_test.png)](//news.opensuse.org/2011/10/25/testing-at-opensuse/turing_test/)
 
 
 ### Upgrading and installation
@@ -54,7 +57,7 @@ However, who installs btrfs now will be able to instantly benefit from the many 
 
 On the page we're gathering [what's new in openSUSE 13.1](http://en.opensuse.org/openSUSE:Major_features) you can see the major changes - which of course can use some testing. For example, we would love to see some extra attention given to the following:
 
-![bugs.png]({{ site.baseurl }}/assets/bugs.png)
+![bugs.png](//news.opensuse.org/wp-content/uploads/2007/08/bugs.png)
 
 
 
@@ -89,7 +92,7 @@ You then file the bug in [bugzilla](https://bugzilla.novell.com/). If you have s
 
 Another useful contribution is triaging bugs, which has the following goal:
 
-![bugs_green.png]({{ site.baseurl }}/assets/bugs_green.png)
+![bugs_green.png](//news.opensuse.org/wp-content/uploads/2007/08/bugs_green.png)
 
 
 
@@ -109,4 +112,4 @@ Bernhard, the author of openQA, [has developed](http://lists.opensuse.org/opensu
 ## Thanks a lot!
 
 
-Finding time for testing makes a big difference. It helps ensure openSUSE 13.1 will be a great, stable, usable release ready for installation on [almost half a million machines](https://lizards.opensuse.org/2013/08/23/more-on-statistics/)!		
+Finding time for testing makes a big difference. It helps ensure openSUSE 13.1 will be a great, stable, usable release ready for installation on [almost half a million machines](https://lizards.opensuse.org/2013/08/23/more-on-statistics/)!

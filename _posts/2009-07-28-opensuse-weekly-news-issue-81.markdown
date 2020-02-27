@@ -1,16 +1,19 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-07-28 19:06:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/07/28/opensuse-weekly-news-issue-81/
-title: "openSUSE Weekly News, Issue 81"
+slug: opensuse-weekly-news-issue-81
+title: openSUSE Weekly News, Issue 81
+wordpress_id: 1932
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #81 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/81)!
 
-In this week™s issue:
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #81 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/81)!
+
+In this weekâ€™s issue:
 
 
 
@@ -31,4 +34,4 @@ In this week™s issue:
 
 
 For a list of available translations see this page:
-[http://en.opensuse.org/OpenSUSE_Weekly_News/81](http://en.opensuse.org/OpenSUSE_Weekly_News/81)		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/81](http://en.opensuse.org/OpenSUSE_Weekly_News/81)

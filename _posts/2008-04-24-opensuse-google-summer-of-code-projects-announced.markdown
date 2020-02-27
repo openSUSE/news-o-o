@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-24 09:30:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/24/opensuse-google-summer-of-code-projects-announced/
-title: "openSUSE Google Summer of Code Projects Announced"
+slug: opensuse-google-summer-of-code-projects-announced
+title: openSUSE Google Summer of Code Projects Announced
+wordpress_id: 739
 categories:
 - Announcements
 - Google Summer of Code
 ---
+
 Google have [announced](http://google-opensource.blogspot.com/2008/04/announcing-accepted-student-proposals.html) the [openSUSE projects and students](http://code.google.com/soc/2008/suse/about.html) taking part in this year's Google Summer of Code. The projects include:
 
 
@@ -72,4 +75,4 @@ by Peter LibiÄ, mentored by Pavol Rusnak
 by longhong, mentored by Michal Marek
 
 
-Only 10 applications from the 67 could be chosen. Special thanks to everybody that has been involved so far: the volunteering mentors, those driving the application process, and of course -- all of the students. Congratulations to all the selected students!		
+Only 10 applications from the 67 could be chosen. Special thanks to everybody that has been involved so far: the volunteering mentors, those driving the application process, and of course -- all of the students. Congratulations to all the selected students!

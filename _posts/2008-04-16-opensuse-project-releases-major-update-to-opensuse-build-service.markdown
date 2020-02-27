@@ -1,11 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-16 11:31:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/16/opensuse-project-releases-major-update-to-opensuse-build-service/
-title: "openSUSE Project Releases Major Update to openSUSE Build Service\
-  "
+slug: opensuse-project-releases-major-update-to-opensuse-build-service
+title: openSUSE Project Releases Major Update to openSUSE Build Service
+wordpress_id: 723
 categories:
 - Announcements
 - Build Service
@@ -14,6 +15,7 @@ tags:
 - KIWI
 - OBS
 ---
+
 The openSUSE team is proud to announce another major release of the [openSUSE Build Service (OBS)](http://build.opensuse.org). This release brings a new level to OBS scalability by adding the ability for OBS instances to interact.
 
 The 0.9 release will help grow a world-wide network of build service instances. OBS instances can automatically interact with each other and reuse projects residing on other OBS instances. New installations of OBS are automatically configured to work with the main openSUSE Build Service, which makes it easy to set up new instances and minimize network traffic while keeping data in sync automatically.
@@ -41,4 +43,3 @@ The openSUSE project would like to extend special thanks to Martin Mohring from 
 We would also like to thank openSUSE sponsors [AMD](http://en.opensuse.org/Sponsors) and [IP eXchange](http://en.opensuse.org/Sponsors) for providing infrastructure for openSUSE. Without these sponsors, we would not be able to run openSUSE.org.
 
 openSUSE also thanks our mirror network for providing storage and bandwidth. Convenient installation of hosted software would not be possible without our mirror network. We welcome any additional mirrors. Companies or organizations interested in providing complete or partial mirrors please email at ftpadmin@suse.com.
-		

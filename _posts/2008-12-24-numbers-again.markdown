@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-24 02:54:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/24/numbers-again/
-title: "Numbers ... Again :-)"
+slug: numbers-again
+title: Numbers ... Again :-)
+wordpress_id: 1135
 categories:
 - Distribution
 ---
-[Again](https://news.opensuse.org/2008/06/24/numbers/) here are the download numbers, from download.opensuse.org. If you don't know, in the first 30 hours after the release we are redirecting the traffic to akamai instead to the mirror servers. So what had we this time?
+
+[Again](//news.opensuse.org/2008/06/24/numbers/) here are the download numbers, from download.opensuse.org. If you don't know, in the first 30 hours after the release we are redirecting the traffic to akamai instead to the mirror servers. So what had we this time?
 
 Total downloads: **172 TB!**
 
@@ -36,4 +39,3 @@ Other numbers i have so far ...
 After all it was again a very successfull release. Thank you all for helping us with it, even it was rather short before Christmas this time.
 
 BTW: because of some "everything has to be done before Christmas" stuff, the contributor gifts are a little bit late this release. But on the other hand it's something really special this time :-) ...over and out, see you again in January :-) The galileo probe [https://eduessayhelper.org/](https://eduessayhelper.org/) writing helper swung by the 20-mile wide asteroid ida and its tiny moon, dactyl
-		

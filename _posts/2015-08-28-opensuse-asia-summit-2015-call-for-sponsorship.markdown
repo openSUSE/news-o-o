@@ -1,15 +1,18 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2015-08-28 05:10:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/08/28/opensuse-asia-summit-2015-call-for-sponsorship/
-title: "openSUSE Asia Summit 2015 Call for Sponsorship"
+slug: opensuse-asia-summit-2015-call-for-sponsorship
+title: openSUSE Asia Summit 2015 Call for Sponsorship
+wordpress_id: 19451
 categories:
 - Announcements
 - Events
 - Summit
 ---
+
 The openSUSE.Asia Committee seeks sponsors for the second edition of openSUSE.Asia Summit that will take place in Taipei city, Taiwan from 5th and 6th of December 2015. We expect about 200 attendees ranging from developers, regular users and power users to attend the summit. The sponsorship amount will cover travel costs for speakers and some attendees, as well as the cost of facilities.
 
 <!-- more -->
@@ -51,4 +54,4 @@ By sponsoring, individuals, businesses, and organizations can show their appreci
   *  Sponsors can also request a booth to highlight their products and businesses.
 
 
-For more details on sponsorship, contact Joey Lee (jlee@suse.com) and Max Lin (mlin@suse.com) no later than 19th of October, 2015.		
+For more details on sponsorship, contact Joey Lee (jlee@suse.com) and Max Lin (mlin@suse.com) no later than 19th of October, 2015.

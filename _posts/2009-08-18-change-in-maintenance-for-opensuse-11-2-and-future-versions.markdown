@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-08-18 02:46:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/18/change-in-maintenance-for-opensuse-11-2-and-future-versions/
-title: "Change in Maintenance for openSUSE 11.2 and Future Versions"
+slug: change-in-maintenance-for-opensuse-11-2-and-future-versions
+title: Change in Maintenance for openSUSE 11.2 and Future Versions
+wordpress_id: 2007
 categories:
 - Announcements
 - Distribution
 ---
-Michael Löffler [has announced](http://lists.opensuse.org/opensuse-announce/2009-08/msg00009.html) to the [opensuse-announce](http://lists.opensuse.org/opensuse-announce/) mailing list:
+
+Michael LÃ¶ffler [has announced](http://lists.opensuse.org/opensuse-announce/2009-08/msg00009.html) to the [opensuse-announce](http://lists.opensuse.org/opensuse-announce/) mailing list:
 
 
 
@@ -26,4 +29,4 @@ Michael </blockquote>
  
  
 
-Reactions including [discussion about forming a group to provide longer life time](http://lists.opensuse.org/opensuse-project/2009-08/msg00511.html) can be found on the [opensuse-project](http://lists.opensuse.org/opensuse-project/) mailing list.		
+Reactions including [discussion about forming a group to provide longer life time](http://lists.opensuse.org/opensuse-project/2009-08/msg00511.html) can be found on the [opensuse-project](http://lists.opensuse.org/opensuse-project/) mailing list.

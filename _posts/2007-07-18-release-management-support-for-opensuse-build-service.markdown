@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-07-18 07:33:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/07/18/release-management-support-for-opensuse-build-service/
-title: "Release Management Support for openSUSE Build Service"
+slug: release-management-support-for-opensuse-build-service
+title: Release Management Support for openSUSE Build Service
+wordpress_id: 23
 categories:
 - Build Service
 ---
+
 The openSUSE Build Service allows from now on more control about what to do with built packages. You can for example switch of the publishing of packages to the ftp server and mirrors, when you prepare a major update in your project.
 
 <!-- more -->
@@ -30,3 +33,5 @@ A <debuginfo> is also prepared (should enable the build of additional -debuginfo
 These flags do only work for the complete project atm, but we plan also to support at least some of them per package.
 
 BTW: This is my first news.o.o posting, I hope you comment it :)
+
+ So looks like  there is an api to detect the color of the device

@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-03-12 11:09:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/12/opensuse-weekly-news-issue-166-is-out/
-title: "openSUSE Weekly News, Issue 166 is out!"
+slug: opensuse-weekly-news-issue-166-is-out
+title: openSUSE Weekly News, Issue 166 is out!
+wordpress_id: 7491
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News, Issue 166.
 <!-- more -->
 
@@ -101,9 +104,9 @@ Enjoy the reading :-)
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Marketing.png)Announcements
 
+â€œ
 
-
-[openSUSE 11.4 Will Be First To Roll Out With LibreOffice](https://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/)
+[openSUSE 11.4 Will Be First To Roll Out With LibreOffice](http://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/)
     
 
 ### Note
@@ -114,7 +117,7 @@ openSUSE 11.4 is set to release on 10th March 2010. A highlight among many excit
       features is the debut of [LibreOffice](bold), successor project of the
       popular cross-platform desktop office suite by OpenOffice.org.
 
-![]({{ site.baseurl }}/assets/LibreOffice-splash-150x150.jpg)
+![](/wp-content/uploads/2011/03/LibreOffice-splash.jpg)
 
 **LibreOffice features**
 
@@ -122,11 +125,11 @@ LibreOffice comes with many improvements over its predecessor, OpenOffice.Org-3.
       new Search Bar, Title Page, and Print Dialogs are impressive additions. Petr Mladek, long
       standing LibreOffice and openSUSE contributor, comments:
 
-I think that users will appreciate the new hierarchical axis labels for charts, RTF
+â€œI think that users will appreciate the new hierarchical axis labels for charts, RTF
         export, easier slide layout handling, and all the other features we were able to add thanks
-        to our more open development model.
+        to our more open development model.â€
 
-![]({{ site.baseurl }}/assets/11.4-screenshot-libreoffice-calc-on-xfce-300x225.jpg)
+![](/wp-content/uploads/2011/03/11.4-screenshot-libreoffice-calc-on-xfce.jpg)
 
 LibreOffice provides some unique benefits over other Office solutions beyond simply being
       free, like Online Help, as well as a host of usability improvements. Different Formula
@@ -139,7 +142,7 @@ LibreOffice provides some unique benefits over other Office solutions beyond sim
 **LibreOffice in openSUSE**
 
 Mladek notes several advantages of LibreOffice in openSUSE; one of them being a huge group
-      of LibreOffice Developers inside openSUSE benefiting from the suite™s faster development model
+      of LibreOffice Developers inside openSUSE benefiting from the suiteâ€™s faster development model
       and no need of any copyright assignment. Another advantage he mentions is the use of the
         [openSUSE Build Service](https://build.opensuse.org/), which helps to keep
       the packages up-to-date and compatible for older distributions. And finally, openSUSE is the
@@ -147,7 +150,7 @@ Mladek notes several advantages of LibreOffice in openSUSE; one of them being a 
       easier to hack on LibreOffice, providing a quicker development path for bug fixes and
       incremental feature improvements.
 
-![]({{ site.baseurl }}/assets/libreoffice-300x187.png)
+![](/wp-content/uploads/2011/02/libreoffice.png)
 
 Developers and packagers at both LibreOffice and openSUSE have taken special care that the
       migration and update process from OpenOffice.org to LibreOffice moves on smoothly. Backward
@@ -156,23 +159,23 @@ Developers and packagers at both LibreOffice and openSUSE have taken special car
 LibreOffice receives major contributions from Novell and SUSE hackers, as [a recent blog from Cedric Bosdonnat
         showed](http://cedric.bosdonnat.free.fr/wordpress/?p=758). Bosdonnat also notices the growth of LibreOffice:
 
-LibreOffice now counts 133 new hackers and 55 localizers (since the
-      fork).
+â€œLibreOffice now counts 133 new hackers and 55 localizers (since the
+      fork).â€
 
 Michael Meeks, another prominent LibreOffice contributor and openSUSE developer,
       adds:
 
-I™m really excited to have LibreOffice in openSUSE 11.4, and the converse, to have
+â€œIâ€™m really excited to have LibreOffice in openSUSE 11.4, and the converse, to have
         so many great openSUSE developers involved with LibreOffice both in testing and developing.
         It is great to work together with the wider community to get the best Free Software Office
-        experience possible into users™ hands.
+        experience possible into usersâ€™ hands.â€
 
-openSUSE 11.4 will be the first stable distribution to ship with LibreOffice, a
-        happy accident of timing. If you happen to be an enterprise user of SLED, don™t worry “
+â€œopenSUSE 11.4 will be the first stable distribution to ship with LibreOffice, a
+        happy accident of timing. If you happen to be an enterprise user of SLED, donâ€™t worry â€“
         there will also be updates to LibreOffice across our portfolio of supported
-        products.
+        products.â€
 
-![]({{ site.baseurl }}/assets/11.4-screenshot-libreoffice-writer-on-lxde-300x225.jpg)
+![](/wp-content/uploads/2011/03/11.4-screenshot-libreoffice-writer-on-lxde.jpg)
 
 **Foundations**
 
@@ -181,12 +184,12 @@ Meeks, who was closely involved with the decision to fork LibreOffice away from 
         Foundation](http://www.documentfoundation.org/), sees similarities between the Document Foundation and the work going on
       to set up an openSUSE Foundation:
 
-in some ways, openSUSE™s trajectory is close to that of LibreOffice™s with the
+â€œin some ways, openSUSEâ€™s trajectory is close to that of LibreOfficeâ€™s with the
         creation of a truly independent foundation. Surely openSUSE is under the stewardship of a
         company which is very much open to contributions, unlike OpenOffice.org was, but for
-        sustained growth and a secure future a Foundation is really important.
+        sustained growth and a secure future a Foundation is really important.â€
 
-![]({{ site.baseurl }}/assets/11.4-screenshot-libreoffice-start-300x225.jpg)
+![](/wp-content/uploads/2011/03/11.4-screenshot-libreoffice-start.jpg)
 
 **Coming soon!**
 
@@ -200,11 +203,11 @@ A recent [interview with openSUSE LibreOffice developer Petr Mladek](http://sysb
 
 Article contributed by Manu Gupta
 
-
+â€
 
+â€œ
 
-
-[Live.Code.Party.](https://news.opensuse.org/2011/03/07/live-code-party/)
+[Live.Code.Party.](http://news.opensuse.org/2011/03/07/live-code-party/)
 
 ### Note
 
@@ -212,22 +215,22 @@ Article contributed by Manu Gupta
 
 [openSUSE 11.4](http://en.opensuse.org/Portal:11.4) is going to be
       released this Thursday (**March 10th, 2011**) and there is no
-      better way to enjoy the new release than having fun with your fellow openSUSE Lizards! That™s
+      better way to enjoy the new release than having fun with your fellow openSUSE Lizards! Thatâ€™s
       why community members all over the world prepare launch parties. Launch parties are events
       around the release of a new openSUSE version, what kind of event is up to the organizers. But
-      it™s usually about sharing knowledge with each other, get new people to know the distribution,
+      itâ€™s usually about sharing knowledge with each other, get new people to know the distribution,
       the tools and the project and most important about having a lot of
         fun, celebrating our success! Interested? Here are a couple of parties to check
       out!
 
-**Europe/Nürnberg**
+**Europe/NÃ¼rnberg**
 
 ![](http://en.opensuse.org/images/5/51/Release_party_poster_nuernberg.png)
 
 In the town where openSUSE was born, that still hosts the SUSE headquarters and therefor a
       large portion of the community the launch event will happen on Wednesday March 16 (19:00) in
       the [Bar/Cafe/Gallery Artefakt](http://artefakt-nuernberg.de/). In the
-      historic district of Nürnberg the folks plan to have a blast with an introduction to 11.4 by
+      historic district of NÃ¼rnberg the folks plan to have a blast with an introduction to 11.4 by
       the [Boosters](http://en.opensuse.org/openSUSE:Boosters_team), live music
       from [Ukulele Insanity](http://www.myspace.com/ukuleleinsanity) and lots of
       the openSUSE brew [Old Toad](http://en.opensuse.org/openSUSE:Beer). They
@@ -237,7 +240,7 @@ In the town where openSUSE was born, that still hosts the SUSE headquarters and 
 
 **North America/San Diego**
 
-![]({{ site.baseurl }}/assets/the-party-150x150.jpg)
+![](/wp-content/uploads/2010/10/the-party.jpg)
 
 In the land of the free, Lizards will meet in San Diego, Americas finest city. The [Kernel-Panic Linux User Group (KPLUG)](http://www.kernel-panic.org/) kindly
       hosts the openSUSE 11.4 launch party at their general meeting on March 10 (18:30) in the
@@ -249,10 +252,10 @@ In the land of the free, Lizards will meet in San Diego, Americas finest city. T
 
 **South America/Guatemala**
 
-![]({{ site.baseurl }}/assets/frets_on_fire-300x240.jpg)
+![](/wp-content/uploads/2011/03/frets_on_fire.jpg)
 
 openSUSE Ambassadors Fernando MejÃ­a, founder of the [openSUSE LUG Guatemala](http://www.opensuse.org.gt/) and Axel Ruiz will host a
-      party in the beautiful Centro HistÃ³rico, Ciudad de Guatemala. It™s going to take place in a
+      party in the beautiful Centro HistÃ³rico, Ciudad de Guatemala. Itâ€™s going to take place in a
       cultural center called Bakabs (15:00). On the event they will introduce the crowd to the
       principles and philosophies of free software and teach them about new developments in and
       around the distribution. An install fest, lots of giveaways, like T-shirts and DVDs, and their
@@ -272,28 +275,28 @@ In Hong Kong, organizers are still looking for more participants for their launc
       please get in contact with the organizers on the [openSUSE
       Wiki](http://en.opensuse.org/openSUSE:11.4_Launch_party_Hong_Kong)!
 
-**More parties¦**
+**More partiesâ€¦**
 
 For more launch party locations around the globe like Paris, Prague, Thessaloniki, San
       Salvador, Utrecht, Atlanta, Neuss, Colombo or Managua and for dates, addresses and a large
       scale map check the [openSUSE Wiki
         launch party](http://en.opensuse.org/openSUSE:Launch_parties) page.
 
-**¦or how about you run your own?**
+**â€¦or how about you run your own?**
 
-![]({{ site.baseurl }}/assets/party_map-e1299503361641-300x147.png)
+![](/wp-content/uploads/2011/03/party_map-e1299503361641.png)
 
-By the way if you™re interested in hosting your own launch party, see our [Launch Party HOWTO](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) for
-      starters. Also note that launch parties aren™t limited to the release date! Feel free to plan
+By the way if youâ€™re interested in hosting your own launch party, see our [Launch Party HOWTO](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) for
+      starters. Also note that launch parties arenâ€™t limited to the release date! Feel free to plan
       yours at any time convenient to you and your guests. Just remember one thing:
 
-**Have a lot of fun¦**
+**Have a lot of funâ€¦**
 
-
+â€
 
+â€œ
 
-
-[openSUSE News: openSUSE 11.4 “ A New Hallmark For The openSUSE Project](https://news.opensuse.org/2011/03/10/opensuse-11-4/)
+[openSUSE News: openSUSE 11.4 â€“ A New Hallmark For The openSUSE Project](http://news.opensuse.org/2011/03/10/opensuse-11-4/)
 
 ### Note
 
@@ -307,10 +310,10 @@ We are proud to announce the launch of 11.4 in the openSUSE tradition of deliver
       latest technology while maintaining stability. The 11.4 release brings significant
       improvements along with the latest in Free Software applications. Combined with the appearance
       of new tools, projects and services around the release, 11.4 marks a showcase of growth and
-      vitality for the openSUSE Project! Read on for more details about this release¦
+      vitality for the openSUSE Project! Read on for more details about this releaseâ€¦
 
 
-      [![]({{ site.baseurl }}/assets/get.jpg)](http://software.opensuse.org)
+      [![](/wp-content/uploads/2011/03/get.jpg)](http://software.opensuse.org)
     
 
 **Base System**
@@ -328,7 +331,7 @@ openSUSE always concentrates on a stable foundation that is usable for different
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/11.4_NET_installer-boot-150x150.png)
+<td >![](/wp-content/uploads/2011/03/11.4_NET_installer-boot.png)
 </td></tr></table>
 
 
@@ -339,7 +342,7 @@ openSUSE always concentrates on a stable foundation that is usable for different
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/Startup-150x150.png)
+<td >![](/wp-content/uploads/2011/03/Startup.png)
 </td></tr></table>
 
 
@@ -350,7 +353,7 @@ openSUSE always concentrates on a stable foundation that is usable for different
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/11.4_DVD_installer-overview1-e1299760821406.png)
+<td >![](/wp-content/uploads/2011/03/11.4_DVD_installer-overview1-e1299760821406.png)
 </td></tr></table>
 
 
@@ -400,7 +403,7 @@ openSUSE is committed to flexibility and choice, providing all major desktops an
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/114_screenshots_gnome_pulse_speaker_tests-e1299761291203-150x150.jpg)
+<td >![](/wp-content/uploads/2011/03/114_screenshots_gnome_pulse_speaker_tests-e1299761291203.jpg)
 </td></tr></table>
 
 
@@ -411,7 +414,7 @@ openSUSE is committed to flexibility and choice, providing all major desktops an
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/114_screenshots_gnome_pulse_speaker_tests-e1299761291203-150x150.jpg)
+<td >![](/wp-content/uploads/2011/03/114_screenshots_gnome_pulse_speaker_tests-e1299761291203.jpg)
 </td></tr></table>
 
 
@@ -422,7 +425,7 @@ openSUSE is committed to flexibility and choice, providing all major desktops an
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/114_screenshots_gnome_pulse_speaker_tests-e1299761291203-150x150.jpg)
+<td >![](/wp-content/uploads/2011/03/114_screenshots_gnome_pulse_speaker_tests-e1299761291203.jpg)
 </td></tr></table>
 
 
@@ -437,20 +440,20 @@ openSUSE is committed to flexibility and choice, providing all major desktops an
       11.4, introduces a major redesign of the user interface with tabs moved to the top of the
       toolbar, support for pinning of tabs and more. [Firefox Sync](https://wiki.mozilla.org/Firefox_Sync) synchronizes bookmarks,
       history, passwords and tabs between all your installations. Firefox 4 also supports newer web
-      standards like HTML5, WebM and CSS3. 11.4 includes even more of the **popular up to date Free Software** applications as it™s the first major
+      standards like HTML5, WebM and CSS3. 11.4 includes even more of the **popular up to date Free Software** applications as itâ€™s the first major
       distribution to ship [LibreOffice](http://www.libreoffice.org/) 3.3.1.
-      Delivering it™s cleaner, faster code base and features like import and edit SVG files in Draw,
+      Delivering itâ€™s cleaner, faster code base and features like import and edit SVG files in Draw,
       support for up to 1 million rows in Calc and easier slide layout handling in Impress. 11.4
       also dÃ©buts the result of almost 4 years of work with the [Scribus](http://www.scribus.net/) 1.4 release based on Qt 4 and Cairo technology. Improved text rendering,
       undo-redo, image/color management and vector file import are highlights of this
       release.
 
 openSUSE offers deep integration of all these technologies. By carefully creating
-      ˜patterns™ of software, openSUSE ensures **consistent functionality even
+      â€˜patternsâ€™ of software, openSUSE ensures **consistent functionality even
         in lighter desktops** like XFCE and LXDE. Keyboard shortcuts are set, menu layouts
       tweaked, user-friendly file associations chosen and branding and theming integrated. 11.4
       furthermore improves on the LibreOffice and Firefox integration in KDE Plasma, using native
-      file dialogs, oxygen styling (also for GTK applications) and respecting the user™s mail client
+      file dialogs, oxygen styling (also for GTK applications) and respecting the userâ€™s mail client
       and browser choices.
 
 **Professional tools for administrators and
@@ -471,7 +474,7 @@ openSUSE aims to be the perfect power tool for system administrators to keep the
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/11.4-VirtualBox-150x150.png)
+<td >![](/wp-content/uploads/2011/03/11.4-VirtualBox.png)
 </td></tr></table>
 
 
@@ -482,7 +485,7 @@ openSUSE aims to be the perfect power tool for system administrators to keep the
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/11.4-YaST-HTTP-Module-e1299762428373-150x150.png)
+<td >![](/wp-content/uploads/2011/03/11.4-YaST-HTTP-Module-e1299762428373.png)
 </td></tr></table>
 
 
@@ -493,7 +496,7 @@ openSUSE aims to be the perfect power tool for system administrators to keep the
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/11.4-KDevelop-150x150.png)
+<td >![](/wp-content/uploads/2011/03/11.4-KDevelop.png)
 </td></tr></table>
 
 
@@ -523,12 +526,12 @@ openSUSE 11.4 comes with **all the major development languages,
         platforms and associated IDEs**. [Qt](http://qt.nokia.com/) 4.7.1
       and [QtCreator](http://qt.nokia.com/products/developer-tools/) 2.1 bring a
       better and faster WebKit and support for the QML Declarative language, also supported in the
-      KDE Development Platform 4.6 which in turn introduces a ˜Mobile Build Target™ for a thinner
+      KDE Development Platform 4.6 which in turn introduces a â€˜Mobile Build Targetâ€™ for a thinner
       version of its libraries. The GNOME 2.32 platform brings [Vala](http://live.gnome.org/Vala) and [Python](http://www.python.org/) support to [Anjuta](http://www.anjuta.org/) and Glib 2.26
       supports Gsettings. 11.4 ships with [GTK+](http://www.gtk.org/) 3 bringing
       improved device input handling, fully [Cairo](http://library.gnome.org/devel/cairo/) based drawing (with multiple backends) and much easier theming to developers
       who want to develop for the upcoming GNOME 3 release. For developers who are interested in
-      working on LibreOffice, openSUSE offers the unique advantage of using a ˜split build™, making
+      working on LibreOffice, openSUSE offers the unique advantage of using a â€˜split buildâ€™, making
       it easy to get involved.
 
 **Around 11.4**
@@ -548,7 +551,7 @@ Additionally to the distribution the openSUSE project also provides a variety of
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/appstream.png)
+<td >![](/wp-content/uploads/2011/03/appstream.png)
 </td></tr></table>
 
 
@@ -559,7 +562,7 @@ Additionally to the distribution the openSUSE project also provides a variety of
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/11.4-studio-150x150.jpg)
+<td >![](/wp-content/uploads/2011/03/11.4-studio.jpg)
 </td></tr></table>
 
 
@@ -570,7 +573,7 @@ Additionally to the distribution the openSUSE project also provides a variety of
               
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![]({{ site.baseurl }}/assets/11.4-Build-Service-150x150.jpg)
+<td >![](/wp-content/uploads/2011/03/11.4-Build-Service.jpg)
 </td></tr></table>
 
 
@@ -595,7 +598,7 @@ The Free and Open Source software developers are greatly aided in the distributi
       Debian and many other Linux distributions and projects like [Bretzn](http://socialdesktop.org/bretzn/) or [Appstream](http://distributions.freedesktop.org/wiki/AppStream) which support
       developers in building and distributing their applications and users in getting it.
 
-We are also happy to also announce that Novell™s SUSE Studio, building upon openSUSE
+We are also happy to also announce that Novellâ€™s SUSE Studio, building upon openSUSE
       technology like KIWI, offers 11.4 as a base to build appliances upon from its convenient
       webinterface. We invite anyone to **visit [susestudio.com](http://susestudio.com/) to experiment with 11.4**, to
       create custom versions as Live CD, USB or VM images and to share them on [susegallery.com](http://www.susegallery.com/)!
@@ -609,14 +612,14 @@ openSUSE is now available for [immediate
 
 openSUSE 11.4 represents the combined effort of thousands of developers who participate in
       openSUSE and projects shipped in openSUSE. The contributors, inside and outside the openSUSE
-      Project, should be proud of this release, and they deserve a major thank you for all of the
+      Project, should be proud of this release, and they deserve a major â€œthank youâ€ for all of the
       hard work and care that have gone into 11.4. We hope that 11.4 is the best openSUSE release
       yet, and that it will help to encourage the use of Linux everywhere! We hope that you all
         have a lot of fun while you use 11.4, and we look forward
       to working with you on the next release!
 
 The openSUSE Project is a worldwide community that promotes the use of Linux everywhere.
-      It creates one of the world™s best Linux distributions, working together in an open,
+      It creates one of the worldâ€™s best Linux distributions, working together in an open,
       transparent and friendly manner as part of the worldwide Free and Open Source Software
       community. The project is controlled by its community and relies on the contributions of
       individuals, working as testers, writers, translators, usability experts, artists and
@@ -624,18 +627,18 @@ The openSUSE Project is a worldwide community that promotes the use of Linux eve
       different levels of expertise, speaking different languages and having different cultural
       backgrounds.
 
-
+â€
 
+â€œ
 
-
-[openSUSE 11.4 made a splash](https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/)
+[openSUSE 11.4 made a splash](http://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/)
 
 ### Note
 
 **This Article is Licensed under the [GNU FreeDocumentation License version 1.2.](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)**
 
 Yesterday, openSUSE 11.4 saw the light of day. This release introduced some [awesome new features](http://en.opensuse.org/Product_highlights) and this was
-      noticed by Linux users on social media and the press around the world. Of course we™ve got a
+      noticed by Linux users on social media and the press around the world. Of course weâ€™ve got a
       huge spike in visits but also the number of downloads has been enormous, almost twice as much
       as for the openSUSE 11.3 release!
 
@@ -643,38 +646,38 @@ Yesterday, openSUSE 11.4 saw the light of day. This release introduced some [awe
 
 FigureÂ 1.Â Party time on second life for openSUSE 11.4
 
-![Party time on second life for openSUSE 11.4]({{ site.baseurl }}/assets/party-time-on-second-life-300x188.jpg)
+![Party time on second life for openSUSE 11.4](/wp-content/uploads/2011/03/party-time-on-second-life.jpg)
 
   
 
 
 While openSUSE has been released less than 36 hours ago, a large [number of reviews and articles](http://en.opensuse.org/In_the_press) has already
       appeared and many journalists and writers have commented on the new features. Over at [linuxplanet.com](http://www.linuxplanet.com/) Sean Michael Kerner [talks about tumbleweed and some
-        other cool stuff in 11.4](http://www.linuxplanet.com/linuxplanet/newss/7316/1/), quoting Novell™s openSUSE community manager Jos
-      Poortvliet. ZDnet™s J.A. Watson installs openSUSE 11.4 on his desktop and netbook and
+        other cool stuff in 11.4](http://www.linuxplanet.com/linuxplanet/newss/7316/1/), quoting Novellâ€™s openSUSE community manager Jos
+      Poortvliet. ZDnetâ€™s J.A. Watson installs openSUSE 11.4 on his desktop and netbook and
       concludes:
 
-All in all, this is an excellent release, and I am very impressed with it. Whether
-        you™re new to Linux or an experienced user, it is definitely worth a try.
+â€œAll in all, this is an excellent release, and I am very impressed with it. Whether
+        youâ€™re new to Linux or an experienced user, it is definitely worth a try.â€
 
 At Eye on Linux Jim Linch [says about openSUSE
         11.4](http://eyeonlinux.com/2011/03/10/quick-look-opensuse-11-4/):
 
-It™s arguably one of the best desktop distros available, and I expect it to remain
-        among the top choices for a long time.
+â€œItâ€™s arguably one of the best desktop distros available, and I expect it to remain
+        among the top choices for a long time.â€
 
 Jay Lyman, senior analyst for enterprise software at The 451 Group, was quoted by V3.co.uk
       on openSUSE 11.4 saying:
 
-It™s not only an option for early adopters, and we see a preference for these kinds
-        of distributions in cloud computing
+â€œItâ€™s not only an option for early adopters, and we see a preference for these kinds
+        of distributions in cloud computingâ€
 
 **Social media**
 
 The [announcement on Slashdot](http://linux.slashdot.org/story/11/03/10/2210209/OpenSUSE-114-Released) attracted the usual comments and so did [digg](http://digg.com/news/technology/opensuse_11_4_release). On [Twitter](http://twitter.com/#!/search/opensuse) and [identi.ca](http://identi.ca/search/notice?q=%23opensuse&search=Search)
       openSUSE was mentioned many times and quite a few tweeters found the [twibbon for openSUSE](http://twibbon.com/cause/openSUSE-Users/). Last but not
       least, the [Facebook
-        page](http://www.facebook.com/#!/pages/openSUSE/45393742283) of openSUSE got quite some attention! For all these media: if you™re not a fan,
+        page](http://www.facebook.com/#!/pages/openSUSE/45393742283) of openSUSE got quite some attention! For all these media: if youâ€™re not a fan,
       follower or friend, you can become one!
 
 Find links to more reviews, articles and discussions on our [In the Press page](http://en.opensuse.org/In_the_press). Feel free to add
@@ -682,32 +685,32 @@ Find links to more reviews, articles and discussions on our [In the Press page](
 
 **Party time!**
 
-We have a continuous virtual party FigureÂ 1, Party time on second life for openSUSE 11.4 going on on [Second Life](http://lizards.opensuse.org/2011/02/03/join-us-for-the-first-virtual-launch-party-opensuse-11-4/), you can find pictures [here](http://picasaweb.google.com/friedmann.bruno/VirtualLaunchPartyMarch10th?feat=directlink). Even if the virtual release party is (almost) over by now, you can still
+We have a continuous virtual party FigureÂ 1, â€œParty time on second life for openSUSE 11.4â€ going on on [Second Life](http://lizards.opensuse.org/2011/02/03/join-us-for-the-first-virtual-launch-party-opensuse-11-4/), you can find pictures [here](http://picasaweb.google.com/friedmann.bruno/VirtualLaunchPartyMarch10th?feat=directlink). Even if the virtual release party is (almost) over by now, you can still
       visit the openSUSE area in Second Life!
 
 For those preferring Real Life over Second Life, there will be [Launch Parties](http://en.opensuse.org/openSUSE:Launch_parties_11.4) around the
-      world and it™s certainly not too late to organize your own!
+      world and itâ€™s certainly not too late to organize your own!
 
 _The numbers_
 
-But the above is all talk (and party). What counts are the numbers “ and they are big. To
-      just talk about the number of downloads via [software.opensuse.org](http://software.opensuse.org/114/en) we™ve almost doubled the numbers of downloads in the first 24
+But the above is all talk (and party). What counts are the numbers â€“ and they are big. To
+      just talk about the number of downloads via [software.opensuse.org](http://software.opensuse.org/114/en) weâ€™ve almost doubled the numbers of downloads in the first 24
       hours compared to our [previous 11.3
-        release](https://news.opensuse.org/2010/07/16/opensuse-11-3-launch-information/)! Well over 90.000 downloads from our website with another 12 thousand via
+        release](http://news.opensuse.org/2010/07/16/opensuse-11-3-launch-information/)! Well over 90.000 downloads from our website with another 12 thousand via
       Bittorrent in one day is quite impressive.
 
-**Not perfectly accurate, but¦**
+**Not perfectly accurate, butâ€¦**
 
 Since each mirror site uses different ways of measuring, we cannot give an 100% reliable
       number of total downloads of openSUSE 11.4 but we can point out some numbers and give examples
-      from our more than 80 mirrors. The [Hungary mirror at Integrity.hu](https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/roxen.integrity.hu) reported 220 GB distributed using http and
-      additionally 400 GB via torrents. The [American mirror at temple.edu](https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/mirror.cst.temple.edu) had 460 GB on Thursday. The [Swiss
-        switch.ch](https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/mirror.switch.ch) distributed 1329 GB of data and the [German
-        mirrors from rwth-aachen](https://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/rwth-aachen.de) distributed at peak time 5 gbit/sec and additionally 60
+      from our more than 80 mirrors. The [Hungary mirror at Integrity.hu](http://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/roxen.integrity.hu) reported 220 GB distributed using http and
+      additionally 400 GB via torrents. The [American mirror at temple.edu](http://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/mirror.cst.temple.edu) had 460 GB on Thursday. The [Swiss
+        switch.ch](http://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/mirror.switch.ch) distributed 1329 GB of data and the [German
+        mirrors from rwth-aachen](http://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/rwth-aachen.de) distributed at peak time 5 gbit/sec and additionally 60
       MB/sec of torrent data.
 
 [SUSE Studio](http://susestudio.com/) offers another great way of
-      getting a openSUSE 11.4 image “ and well over 1000 people have already used this.
+      getting a openSUSE 11.4 image â€“ and well over 1000 people have already used this.
 
 **download.opensuse.org**
 
@@ -719,10 +722,10 @@ A total of 90844 requests for ISOs were reached via our download redirector at
         [upgrading openSUSE 11.3 over the web](http://upgrade.opensuse.org/)
       instead of by downloading an ISO and these are not tracked either.
 
-However, you™ll be able to find openSUSE 11.4 statistics soon on the [Statistics](http://en.opensuse.org/Statistics) page. There we track how many
-      unique IP addresses regularly update from our servers “ a reasonably reliable way of knowing
+However, youâ€™ll be able to find openSUSE 11.4 statistics soon on the [Statistics](http://en.opensuse.org/Statistics) page. There we track how many
+      unique IP addresses regularly update from our servers â€“ a reasonably reliable way of knowing
       how many users we have. Of course those on a NAT or internal deployments as well as those who
-      don™t upgrade via our servers are not counted and those with a dynamic IP might be counted a
+      donâ€™t upgrade via our servers are not counted and those with a dynamic IP might be counted a
       few times so take the numbers with a grain of salt as well.
 
 **Distribution and torrents**
@@ -767,27 +770,27 @@ Torrents worked really well for this release thanks to the many seeders, several
 **Thank you**
 
 The openSUSE launch on Thursday was possible thanks to a world wide infrastructure of ftp
-      mirrors that coordinated the release with us. We™d like to thank all of them. Moreover, we™d
+      mirrors that coordinated the release with us. Weâ€™d like to thank all of them. Moreover, weâ€™d
       like to thank the sysadmin team for the hard work they did to make the changes to the websites
-      so users could download their brand new openSUSE 11.4! We™d also like to thank the marketing
-      team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you haven™t
+      so users could download their brand new openSUSE 11.4! Weâ€™d also like to thank the marketing
+      team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you havenâ€™t
       yet!) and of course all many contributors of openSUSE who helped to make this release
       possible! Finally, a shout to [our
       sponsors](http://en.opensuse.org/Sponsors) Novell, AMD, IP Exchange and B1!
 
-
+â€
 
 ## Sneak Peeks
 
-
+â€œ
 
 [openSUSE TV: opensuse-11.4-e3](http://blip.tv/file/4845672)
 
 third and last part of the tutorial about openSUSE 11.4 install. The end of the install: automatic hardware configuration.
 
-
+â€
 
-
+â€œ
 
 [Jos Poortvliet: 11.4 - almost there](http://nowwhatthe.blogspot.com/2011/03/114-almost-there.html)
 
@@ -797,7 +800,7 @@ third and last part of the tutorial about openSUSE 11.4 install. The end of the 
 
 Warning: huge blog ahead. To butcher Mark Twain:
 
-I didn't have time to write a short blog, so I wrote a long one instead.
+â€œI didn't have time to write a short blog, so I wrote a long one instead.â€
 
 **Excitement**. Lack of sleep. More excitement. Many things not finished. Yep, a major release. Despite a crashing laptop (every 30 min it hangs, I'm afraid it is the heath) I'm having fun preparing for the biggest event since I joined the openSUSE community: the release of openSUSE 11.4!
 
@@ -805,7 +808,7 @@ The marketing team had a [meeting 2 weeks](http://nowwhatthe.blogspot.com/2011/0
 
 **New features**
 
-11.4 will be exciting. I mean really, really exciting! There is a huge number of new features and improvements. I just finished an [11.4 feature overview](http://en.opensuse.org/openSUSE:Presentations#openSUSE_11.4) presentation. It's not perfectly complete (how could it be with so much new stuff?) but a good start if you want to have a [launch party](https://news.opensuse.org/2011/03/07/live-code-party/). Speaking of, if you're Dutch, there will be a [Launch Party in NL](http://nl.opensuse.org/openSUSE:Launch_party_11.4)!
+11.4 will be exciting. I mean really, really exciting! There is a huge number of new features and improvements. I just finished an [11.4 feature overview](http://en.opensuse.org/openSUSE:Presentations#openSUSE_11.4) presentation. It's not perfectly complete (how could it be with so much new stuff?) but a good start if you want to have a [launch party](http://news.opensuse.org/2011/03/07/live-code-party/). Speaking of, if you're Dutch, there will be a [Launch Party in NL](http://nl.opensuse.org/openSUSE:Launch_party_11.4)!
 
 Anyone who wants to visit or organize a launch party, there is still time. Go to the [Launch Party Wiki](http://en.opensuse.org/openSUSE:Launch_parties_11.4) Page and see if there is something close by. If not, organize it! Seriously, it's not hard: just put a page up there, point to a cafe where you can get beer & coke and you're already pretty far. Sure, you can do fancy presentations in a conference room, but isn't beer what brings people together? And isn't a party nothing without a well-equipped bar?
 
@@ -829,9 +832,9 @@ The work our Tiger Bruno has been doing, working with Chuck, Carlos and Javier -
 
 A full round of hugs and Doritos (sorry sshaw)!
 
-
+â€
 
-
+â€œ
 
 [openSUSE TV: openSUSE 11.4 Installation using a DVD](http://blip.tv/file/4866763)
 
@@ -845,9 +848,9 @@ Music: Bach - Toccata and Fugue in D minor ; interpreted by [Stephen Malinowski]
 
 Video: openSUSE-11.4-DVD
 
-
+â€
 
-
+â€œ
 
 [Sankar P: GNOME vs Canonical, Freedesktop.org - A Neutral Observation](http://psankar.blogspot.com/2011/03/gnome-vs-canonical-freedesktoporg.html)
 
@@ -857,7 +860,7 @@ Few sensational things happened last week in one of the oldest debates of the Li
 
 GNOME 3 release is just days away. Canonical and the GNOME community have taken different routes with **Unity** and gnome-shell respectively. Dave Neary [wrote](http://blogs.gnome.org/bolsh/2011/03/07/has-gnome-rejected-canonical-help/) a blog post with an analytic title "**Has GNOME rejected Canonical's Help ?** " . Neary cited instances of Canonical exhibiting behavior that shows discomfort in the Canonical-GNOME relationship. (...)
 
-
+â€
 
 ## Google Summer of Code
 
@@ -865,7 +868,7 @@ GNOME 3 release is just days away. Canonical and the GNOME community have taken 
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-
+â€œ
 
 [Vincent Untz: Google Summer of Code 2011 for GNOME](http://www.vuntz.net/journal/post/2011/03/07/Google-Summer-of-Code-2011-for-GNOME-openSUSE)
 
@@ -895,7 +898,7 @@ We gathered all the [relevant information](http://en.opensuse.org/openSUSE:GSOC_
 
 As the openSUSE Foundation might not be setup in time to receive GSoC money, we're considering various options as to what to do with the money. The two main contenders are leaving the money to Google for future similar initiatives (GSoC or [Code-In](http://code.google.com/gci), for example), and giving the money to another non-profit organization that we believe is important. We welcome feedback on this, so raise your voice if you have an opinion :-)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
 
@@ -911,7 +914,7 @@ Important Links
 
 ### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Built-with-web-big.png)SUSE Studio
 
-
+â€œ
 
 [SUSE Studio/James Mason: SUSE Studio: SUSE Gallery becomes more open](http://blog.susestudio.com/2011/03/suse-gallery-becomes-more-open.html)
 
@@ -921,9 +924,9 @@ Important Links
 
 We've made a small iteration to the Studio UI, removing the option to prevent cloning of appliances you share on [SUSE Gallery](http://susegallery.com/). Out of respect for you, our users, if you have already shared an appliance and prevented cloning we'll leave it that way, but we feel that, in the spirit of openness, all of our users have the right to build on the work shared in the Gallery's community.  If you prefer not to share your work to that degree, SUSE Gallery may not be the appropriate venue. You may, as always, download your appliances and host them elsewhere, on your own terms, or simply keep them to yourself. The choice is yours.
 
-
+â€
 
-
+â€œ
 
 [SUSE Studio/James Mason: openSUSE 11.4 Support](http://blog.susestudio.com/2011/03/opensuse-114-support.html)
 
@@ -933,7 +936,7 @@ We've made a small iteration to the Studio UI, removing the option to prevent cl
 
 This week the openSUSE community launches the newest version of their flagship Linux distribution: [openSUSE 11.4](http://en.opensuse.org/Portal:11.4). We're doing our part to congratulate the community on their hard work by providing openSUSE 11.4 templates on Release Day! So hop into [SUSE Studio](http://susestudio.com/), and start customizing your own version of openSUSE 11.4, be it for your desktop or server workloads. You can build all usual image formats except Amazon EC2 (which is coming soon).
 
-And remember ” as always, if you have a suggestion for us or encounter a problem, you can let us know on our [forum](http://susestudio.com/forum/) (or our [mailing list](mailto:studio-users@suse.de), which is just another view of the forum). 
+And remember â€” as always, if you have a suggestion for us or encounter a problem, you can let us know on our [forum](http://susestudio.com/forum/) (or our [mailing list](mailto:studio-users@suse.de), which is just another view of the forum). 
 
 FigureÂ 2.Â openSUSE 11.4 templates on SUSE Studio
 
@@ -954,7 +957,7 @@ FigureÂ 4.Â Testdriving openSUSE 11.4's GNOME 2.32 desktop
 ![Testdriving openSUSE 11.4's GNOME 2.32 desktop](https://lh5.googleusercontent.com/-RcOtSNQSMHQ/TXhHJC9oivI/AAAAAAAAAFo/qJ6l_-fFCJk/s400/11.4+screenshot+-+GNOME+studio+testdrive.jpg)
 
   
-
+â€
 
 ### Team Report
 
@@ -964,7 +967,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/GNOME-foot.jpg)GNOME Team
 
-
+â€œ
 
 [Nelson Marques: Some updates on the indicator stack](http://lizards.opensuse.org/2011/03/08/some-updates-on-the-indicator-stack/)
 
@@ -974,17 +977,17 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 A few achievements:
 
-  * appmenu-gtk “ the last upstream update really made wonders, and currently it™s safe to use indicator-appmenu with GTK apps with the expected functionality. If you like OSX styled menu™s, this will make your delight! The really critical bugs known to me were fixed in the last update. Adding it to the default pattern (1 click installer).
+  * appmenu-gtk â€“ the last upstream update really made wonders, and currently itâ€™s safe to use indicator-appmenu with GTK apps with the expected functionality. If you like OSX styled menuâ€™s, this will make your delight! The really critical bugs known to me were fixed in the last update. Adding it to the default pattern (1 click installer).
 
-  * dbusmenu “ another critical bug solved today, and the Me Menu already works as expected. This was broken for around 2 weeks, it™s now working properly.
+  * dbusmenu â€“ another critical bug solved today, and the Me Menu already works as expected. This was broken for around 2 weeks, itâ€™s now working properly.
 
-With this, one more indicator was enabled (indicator-appmenu) and a few critical bugs have been solved. I™m expecting to talk with Ken later on to check out on the plans for the indicators, and unless something very critical pops out, GNOME2 will see the indicator stack as it is currently.
+With this, one more indicator was enabled (indicator-appmenu) and a few critical bugs have been solved. Iâ€™m expecting to talk with Ken later on to check out on the plans for the indicators, and unless something very critical pops out, GNOME2 will see the indicator stack as it is currently.
 
-It™s maybe now the best time to start looking deeply into GNOME3.
+Itâ€™s maybe now the best time to start looking deeply into GNOME3.
 
-
+â€
 
-
+â€œ
 
 [http://lizards.opensuse.org/2011/03/10/gnome-shell-test-drive/](http://lizards.opensuse.org/2011/03/10/gnome-shell-test-drive/)
 
@@ -992,47 +995,47 @@ It™s maybe now the best time to start looking deeply into GNOME3.
 
 **This Article is licensed under the GNU Free Documentation License.**
 
-As many people are aware I™ve used Fedora for quite a long time¦ and with the release of the first ALPHA of Fedora 15 I got this tiny itch to check out GNOME3, namely, the gnome-shell.
+As many people are aware Iâ€™ve used Fedora for quite a long timeâ€¦ and with the release of the first ALPHA of Fedora 15 I got this tiny itch to check out GNOME3, namely, the gnome-shell.
 
-I™ve have to say that the first impressions I had from GNOME Shell from Fedora 13 raised in me a high level of skepticism towards the new interface of GNOME Shell. The contents of this text are mainly influenced by my own view of the things¦ I don™t mean to be disruptive¦ but some things need to be said¦
+Iâ€™ve have to say that the first impressions I had from GNOME Shell from Fedora 13 raised in me a high level of skepticism towards the new interface of GNOME Shell. The contents of this text are mainly influenced by my own view of the thingsâ€¦ I donâ€™t mean to be disruptiveâ€¦ but some things need to be saidâ€¦
 
-  1. For starters¦ gnome-shell UI doesn™t seem to lag that much anymore¦ this is a very positive step, as lagging interfaces really kill my joy!
+  1. For startersâ€¦ gnome-shell UI doesnâ€™t seem to lag that much anymoreâ€¦ this is a very positive step, as lagging interfaces really kill my joy!
 
-  2. The sound applet “ Looks interesting, very well copied from Ubuntu™s Sound Menu, at least in concept. Now this must be a slap in the face for some people I knew that threw a couple of harsh critics on Canonical. Well done to whoever made it that way¦ you have empowered Canonical™s design and now I will probably watch a full legion of Ubuntu fanboys bragging about how GNOME copied their Sound Menu. /* taking cover */
+  2. The sound applet â€“ Looks interesting, very well copied from Ubuntuâ€™s Sound Menu, at least in concept. Now this must be a slap in the face for some people I knew that threw a couple of harsh critics on Canonical. Well done to whoever made it that wayâ€¦ you have empowered Canonicalâ€™s design and now I will probably watch a full legion of Ubuntu fanboys bragging about how GNOME copied their Sound Menu. /* taking cover */
 
-  3. The configuration screen “ Interesting stuff¦ But also Deja Vu¦ I think all the nice people migrating from KDE will find themselves at home with this new ˜control center™. The resemblances are quite awesome!
+  3. The configuration screen â€“ Interesting stuffâ€¦ But also Deja Vuâ€¦ I think all the nice people migrating from KDE will find themselves at home with this new â€˜control centerâ€™. The resemblances are quite awesome!
 
-  4. The user applet, which I don™t what to call it¦ Yet shows a lot of resemblances with Canonical™s Me Menu. At least some functions are there, but what I really find strange is the absence of ˜Restart™ button. I guess it™s now really an issue to tap ALT+F2 and issue a ˜shutdown now -frn™ or ˜init 6² command, I just hope the system allows it.
+  4. The user applet, which I donâ€™t what to call itâ€¦ Yet shows a lot of resemblances with Canonicalâ€™s Me Menu. At least some functions are there, but what I really find strange is the absence of â€˜Restartâ€™ button. I guess itâ€™s now really an issue to tap ALT+F2 and issue a â€˜shutdown now -frnâ€™ or â€˜init 6â€² command, I just hope the system allows it.
 
-  5. The language applet “ Interesting thing, but once again I have this Canonical Deja Vu feeling¦ Not again¦
+  5. The language applet â€“ Interesting thing, but once again I have this Canonical Deja Vu feelingâ€¦ Not againâ€¦
 
   6. Moving the cursor to upper left triggers pretty much an effect which brings me a Deja Vu style from Compiz Wall Expo plugins. Awesome stuff!
 
-  7. The fonts are awesome, my heart is now broken¦ I don™t really need to install Ubuntu Fonts.
+  7. The fonts are awesome, my heart is now brokenâ€¦ I donâ€™t really need to install Ubuntu Fonts.
 
   8. Icons seem to be monochrome! Awesome, but yet I have this deja vu feeling!
 
-  9. Artwork “ My heart is broken (probably my cÃ³ccix as well, I™ve felt from the chair).
+  9. Artwork â€“ My heart is broken (probably my cÃ³ccix as well, Iâ€™ve felt from the chair).
 
-  10. ALT+F2 “ Awesome, this is really something I™m used too, I feel at home! I don™t really need menus at all once I know all the commands I need from the top of my head.
+  10. ALT+F2 â€“ Awesome, this is really something Iâ€™m used too, I feel at home! I donâ€™t really need menus at all once I know all the commands I need from the top of my head.
 
   11. The number of clicks I need to perform to reach for example, Google Chrome. Yeah, ALT+F2 is way faster.
 
-  12. The default theme¦ to be replaced by Sonar (has anyone done the GTK3 port?, please someone do it fast, before I loose my motivation).
+  12. The default themeâ€¦ to be replaced by Sonar (has anyone done the GTK3 port?, please someone do it fast, before I loose my motivation).
 
-  13. System Load up “ awesome, nothing to state¦.
+  13. System Load up â€“ awesome, nothing to stateâ€¦.
 
-  14. Calendar ˜applet™ “ cool stuff, but evolution is crashing on me (keep in mind this is Alpha, so no real deal here, I™m sure it will be fixed);
+  14. Calendar â€˜appletâ€™ â€“ cool stuff, but evolution is crashing on me (keep in mind this is Alpha, so no real deal here, Iâ€™m sure it will be fixed);
 
-Ok the list could be very long to make this shorter¦ Despite of all, I™m really waiting to see the final version of gnome-shell¦ I don™t find it much of innovation, as much of the features seem to be taken from other popular software. Everything worked out fine (except evolution) out of the box¦ I™m actually happy to see that some Fedora fundamentalists after throwing such a heavy load into Canonical, they ended up by handing over something that in much resembles to some software available from Canonical. I™m sure their hearts will be broken¦ many of this features were considered ˜kinky™ by them and oriented to Fan Boys¦ I wonder why they choosed to follow the same path, clearly aiming for those that they choosed to combat? Hmmz¦ I sense some hipocrisy here.
+Ok the list could be very long to make this shorterâ€¦ Despite of all, Iâ€™m really waiting to see the final version of gnome-shellâ€¦ I donâ€™t find it much of innovation, as much of the features seem to be taken from other popular software. Everything worked out fine (except evolution) out of the boxâ€¦ Iâ€™m actually happy to see that some Fedora fundamentalists after throwing such a heavy load into Canonical, they ended up by handing over something that in much resembles to some software available from Canonical. Iâ€™m sure their hearts will be brokenâ€¦ many of this features were considered â€˜kinkyâ€™ by them and oriented to Fan Boysâ€¦ I wonder why they choosed to follow the same path, clearly aiming for those that they choosed to combat? Hmmzâ€¦ I sense some hipocrisy here.
 
-But I™ve gotta be honest, much of this ˜innovations™ actually gave me a rush to see the final product and to run it for a longer period. While many people from the Fedora circle violently attack gnome-shell, I can smell here potential to be a success, I only fear for the quality of the artwork here, which neither presents a nice visual desktop metaphor, neither even looks attractive to me¦ but once more, I believe it will be fully customizable. Another I missed was the normal system-* applets to configure several parts of the system¦ I™m happy that openSUSE will not forget YaST for GNOME3, thus I won™t feel defrauded when I run GNOME3 on openSUSE due to missing configuration applications.
+But Iâ€™ve gotta be honest, much of this â€˜innovationsâ€™ actually gave me a rush to see the final product and to run it for a longer period. While many people from the Fedora circle violently attack gnome-shell, I can smell here potential to be a success, I only fear for the quality of the artwork here, which neither presents a nice visual desktop metaphor, neither even looks attractive to meâ€¦ but once more, I believe it will be fully customizable. Another I missed was the normal system-* applets to configure several parts of the systemâ€¦ Iâ€™m happy that openSUSE will not forget YaST for GNOME3, thus I wonâ€™t feel defrauded when I run GNOME3 on openSUSE due to missing configuration applications.
 
-My final veredict¦ this 9 months waiting for GNOME3 on openSUSE are going to be painful, because now that I™ve tasted the forbiden God™s honey, I want MORE! And for real¦ for everyone out there speaking bad about gnome-shell, please guys, be mindful of one thing¦ though this will require a bit of love for people to get used to, some of the features presented are actually nice. For those who love GNOME, but don™t really like the shell¦ Are you aware that you can manage your sessions on gnome-session? I™m not sure, but I think most of that functionality was actually developed in-house by Novell ;) and I™m sure it will be explored by a few, while I expect the vast majority of the Hordes will end up by loving this shell¦
+My final veredictâ€¦ this 9 months waiting for GNOME3 on openSUSE are going to be painful, because now that Iâ€™ve tasted the forbiden Godâ€™s honey, I want MORE! And for realâ€¦ for everyone out there speaking bad about gnome-shell, please guys, be mindful of one thingâ€¦ though this will require a bit of love for people to get used to, some of the features presented are actually nice. For those who love GNOME, but donâ€™t really like the shellâ€¦ Are you aware that you can manage your sessions on gnome-session? Iâ€™m not sure, but I think most of that functionality was actually developed in-house by Novell ;) and Iâ€™m sure it will be explored by a few, while I expect the vast majority of the Hordes will end up by loving this shellâ€¦
 
-You shouldn™t really take me serious, but thanks for reading until the end¦ Now that I know that most people are already wanting to crucify me, I hope that you can take 1 week of your time to test the shell and prove I™m wrong. Maybe then, you will become converts, and I™m will for sure rest my head knowing it was worth to write this text.
+You shouldnâ€™t really take me serious, but thanks for reading until the endâ€¦ Now that I know that most people are already wanting to crucify me, I hope that you can take 1 week of your time to test the shell and prove Iâ€™m wrong. Maybe then, you will become converts, and Iâ€™m will for sure rest my head knowing it was worth to write this text.
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-fate.png)openFATE Team
 
@@ -1040,16 +1043,16 @@ You shouldn™t really take me serious, but thanks for reading until the end¦ N
 
 **Features with highest vote, but no one has been assigned to yet. We are looking for volunteers to implement. **
 
-
+â€œ
 
 [decouple download and installation (Score: 346)](https://features.opensuse.org/120340)
 
 "Network installation could be improved by running package download and package
             installation in parallel."
 
-
+â€
 
-
+â€œ
 
 [Look at plymouth for splash during boot (Score: 181)](https://features.opensuse.org/305493)
 
@@ -1062,30 +1065,30 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?"
 
-
+â€
 
-
+â€œ
 
 [Replacement for Sax2 (Score: 119)](https://features.opensuse.org/308357)
 
 "We need a replacement for sax2 in 11.3, as a safety measure for when auto
             configuration fails to detect certain monitors/keyboards/mice. (...)"
 
-
+â€
 
-
+â€œ
 
 [Update to GRUB v2 (Score: 103)](https://features.opensuse.org/308497)
 
 "Every single bug or feature that anyone has developed for GRUB 0.97 has been rejected by the upstream project in favor of using GRUB 2. There has been resisitence in the distribution community to switching boot loaders, but this stalemate isn't going to go away. The code itself isn't well written or well maintained. Adding a new feature involves jumping through a lot of hoops that may or may not work even if you manage to work around all the runtime limitations. For example, a fs implementation has a static buffer it can use for memory management. It's only 32k. For complex file systems, or even a simple journaled file system, we run into problems (like the reiserfs taking forever to load bug) because we don't have enough memory to do block mapping for the journal so it needs to scan it for every metadata read. (Yeah, really.) (...)"
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 [Add Peazip as packman has stopped providing packages](https://features.opensuse.org/311415)
 
@@ -1093,18 +1096,18 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 http://packman.links2linux.org/package/peazip "
 
-
+â€
 
-
+â€œ
 
 [Urban Terror in repos](https://features.opensuse.org/311416)
 
 "Urban Terror is probably most well-known free FPS game. Unfortunatly it's not in official repos. I propose including it, along with
           [modified linux binary](https://features.opensuse.org/Urban%20Terror%20Optimized%20binary%20http:/www.www0.org/w/Optimized_executable;_builds_of_ioq3_engine_for_urt)."
 
-
+â€
 
-
+â€œ
 
 [Add support WebP](https://features.opensuse.org/311419)
 
@@ -1118,17 +1121,17 @@ As was done with WebM:
 
 https://features.opensuse.org/309589 "
 
-
+â€
 
-
+â€œ
 
 [have a decent linear video editor](https://features.opensuse.org/311439)
 
 "When searching why I still switch to Windows, I have little answers but two or three. One of them is having a decent video editor, like this proprietary one: http://www.magix.com/us/ (cost only approx $100), extremely powerfull.We already have some editors (Kdenlive, kino, openshot, openmovie, blender, cinelerra)"
 
-
+â€
 
-
+â€œ
 
 [Build a lobby to make hardware vendors more Linux friendly (open build service)](https://features.opensuse.org/311441)
 
@@ -1140,9 +1143,9 @@ https://features.opensuse.org/309589 "
 
 This is exactly where a cross distribution could be good: we all have the same problem."
 
-
+â€
 
-
+â€œ
 
 [A OneNote compatible tool is needed](https://features.opensuse.org/311442)
 
@@ -1156,17 +1159,17 @@ Note that I need a tool that allows collaboration with MS OneNote users, not a n
 
 That is OneNote is in part a collaboration tool that allows multiple simultaneous users to open a notebook. (Assuming the notebook is on a fileserver / share.)"
 
-
+â€
 
-
+â€œ
 
 [why do we still use windows](https://features.opensuse.org/311443)
 
 "This is a collector to summarize what are the key features to allow us to remove windows forever."
 
-
+â€
 
-
+â€œ
 
 [Split Kernel rpms from Tumbleweed repo](https://features.opensuse.org/311446)
 
@@ -1174,9 +1177,9 @@ That is OneNote is in part a collaboration tool that allows multiple simultaneou
 
 I admit this might be an unwarranted personal concern but it gives me pause when considering using the Tumbleweed repo. Locking the kernel rpms would also lock the oss repo's kernel updates which would not be a wise move as oss kernel updates have defined pupose (stability, security)."
 
-
+â€
 
-
+â€œ
 
 [i18n of demo dvd](https://features.opensuse.org/311477)
 
@@ -1184,17 +1187,17 @@ I admit this might be an unwarranted personal concern but it gives me pause when
 
 If the user asks for langage in YaST and have an internet access atm, the langage is dl from the net, but this is very long and unusefull for a live session :-)"
 
-
+â€
 
-
+â€œ
 
 [YaST: Tickbox for "Check for secure password"](https://features.opensuse.org/311480)
 
 "During installation, when the first user id created, I suggest we add a third tick box to the page. This one should read "Check for secure password" and be enabled by default. Hopefully that will avoid the pop-up window advising the user that cracklib-something is being loaded and whether to accept a password that doesn't comply with our password guidelines."
 
-
+â€
 
-
+â€œ
 
 [Graphical integration of LibreOffice in openSuse](https://features.opensuse.org/311583)
 
@@ -1202,7 +1205,7 @@ If the user asks for langage in YaST and have an internet access atm, the langag
 
 It would be better to integrate LibO filetype & modules icons or openSUSE-stylized/KDE stylized icons."
 
-
+â€
 
 ##### Feature Statistics
 
@@ -1210,7 +1213,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Testing Team
 
-
+â€œ
 
 [Weekly News for March 5](http://lists.opensuse.org/opensuse-testing/2011-03/msg00007.html)
 
@@ -1222,14 +1225,14 @@ In the March 7 meeting, which was optional due to religious holiday in Bavaria, 
 
 The TCT will meet again at 18:00 UTC on March 14 to discuss the 11.4 release. For the record, the release has performed well on the 5 systems on which I have installed it. 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Icon-project.png)In the Community
 
@@ -1237,13 +1240,13 @@ The TCT will meet again at 18:00 UTC on March 14 to discuss the 11.4 release. Fo
 
 Past
 
-  * [March 09, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [March 09, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 Upcoming
 
-  * [March 23, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [March 23, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -1266,7 +1269,7 @@ To view the security announcements in full, or to receive them as soon as they'r
     refer to the [openSUSE
       Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [SUSE Security Announcement: acroread (SUSE-SA:2011:011)](http://lists.opensuse.org/opensuse-security-announce/2011-03/msg00000.html)
 
@@ -1309,9 +1312,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >remote code execution
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 [SUSE Security Announcement: Linux kernel (SUSE-SA:2011:012)](http://lists.opensuse.org/opensuse-security-announce/2011-03/msg00001.html)
 
@@ -1354,11 +1357,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >remote denial of service, local privilege escalation
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
 
-
+â€œ
 
 [Unixmen/Anuradha Shukla: Kernel update on 2.6.38](http://www.unixmen.com/news-today/1544-kernel-update-on-2638)
 
@@ -1372,7 +1375,7 @@ There is much anticipation on the release of [Kernel 2.6.38](http://bit.ly/fyjer
 
 The storage is an in-kernel feature on a LIO-target framework. The superset features include multi-thread architecture (on SIMD support), without blocks and superlative performance due to advance features. The SCSI features such as Assymetric Logical Unit Assignment (ALUA) as well as Persistent Reservation enabled for enhanced performance. The thin LUN provisioning coupled with full error recovery ensures consistency.
 
-The core of these developments is that different storage protocols can now be called as SCSI targets through the iSCSI, the Fibre Channel™s Fibre Channel over Ethernet. The [linux-isci.org](http://www.linux-iscsi.org/wiki/Features) features will in future supersede the existing SCSI subset. That is the SANs will no longer be on STGT, the SCSI Target Framework, or the CONFIG_SCSI_TGT on the kernel configuration.
+The core of these developments is that different storage protocols can now be called as SCSI targets through the iSCSI, the Fibre Channelâ€™s Fibre Channel over Ethernet. The [linux-isci.org](http://www.linux-iscsi.org/wiki/Features) features will in future supersede the existing SCSI subset. That is the SANs will no longer be on STGT, the SCSI Target Framework, or the CONFIG_SCSI_TGT on the kernel configuration.
 
 **Extended storage control on the in-kernel polling framework**
 
@@ -1384,57 +1387,57 @@ This ensures that the there is no requirement for opening the device as well as 
 
 Expectations are running high on the kernel 2.6.38 as several features are being addressed for optimization of multiple features.
 
-
+â€
 
-
+â€œ
 
 [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 5) - Architecture, infrastructure and virtualisation](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-5-Architecture-infrastructure-and-virtualisation-1202216.html)
 
 **In certain situations, a small patch for 2.6.38 perceivably improves the response time of desktop environments. Transparent Huge Pages, on the other hand, simplify memory management, which is particularly relevant in terms of virtualisation and server software.**
 
-On Tuesday last week, Linus Torvalds [issued](http://thread.gmane.org/gmane.linux.kernel/1107280) the seventh release candidate of Linux 2.6.38. Among other things, Torvalds mentioned a fix for a flaw in Btrfs that can potentially cause data loss in certain situations “ again, there was no indication of a final release date for 2.6.38.
+On Tuesday last week, Linus Torvalds [issued](http://thread.gmane.org/gmane.linux.kernel/1107280) the seventh release candidate of Linux 2.6.38. Among other things, Torvalds mentioned a fix for a flaw in Btrfs that can potentially cause data loss in certain situations â€“ again, there was no indication of a final release date for 2.6.38.
 
 Nevertheless, the next version in the main development branch is approaching completion, and the Kernel Log will, therefore, gradually conclude its "Coming in 2.6.38" mini series; the penultimate part will discuss the advancements in terms of the kernel's architecture code, infrastructure and virtualisation. [Part 1](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html) and [part 3](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-3-Network-drivers-and-infrastructure-1197480.html) discussed the changes to the graphics hardware and network communication code; [part 2](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-2-File-systems-1192694.html) and [part 4](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-4-Storage-1199926.html) revolved around file systems and storage. This week, the series will be concluded with an article on the kernel's audio, USB and video hardware drivers. (...)
 
-
+â€
 
-
+â€œ
 
 [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 6) - Drivers](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-6-Drivers-1202826.html)
 
 **The HD audio driver can now run without interrupts, letting processors sleep for longer. There are new drivers for touchscreens and multi-touch panels. More fingers will be detected by the Synaptic touchpad driver from 2.6.38 onwards.**
 
-On Monday night (7 March), Linus Torvalds [published](http://thread.gmane.org/gmane.linux.kernel/1110126) the eighth pre-release of Linux 2.6.38. In the announcement he wrote that it would have been okay for him to release this as the final 2.6.38 “ but said that, "I'm going to be partially unreachable for several days next week, so I felt there was no point in opening the merge window yet." 
+On Monday night (7 March), Linus Torvalds [published](http://thread.gmane.org/gmane.linux.kernel/1110126) the eighth pre-release of Linux 2.6.38. In the announcement he wrote that it would have been okay for him to release this as the final 2.6.38 â€“ but said that, "I'm going to be partially unreachable for several days next week, so I felt there was no point in opening the merge window yet." 
 
 With 2.6.38 approaching completion, the Kernel Log series is likewise concluding its report on new features in 2.6.38. This final part of the 'Coming in 2.6.38' series looks at drivers from areas not yet addressed. [Parts one](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html) and [three](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-3-Network-drivers-and-infrastructure-1197480.html) of the series looked at the code dealing with graphics hardware and network communication. Parts [two](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-2-File-systems-1192694.html) and [four](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-4-Storage-1199926.html) were concerned with file systems and storage. Architecture code, virtualisation and infrastructure were the subject of the [fifth](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-5-Architecture-infrastructure-and-virtualisation-1202216.html) article in the series.
 
-
+â€
 
+â€œ
 
-
-[Rares Aioanei: kernel weekly news “12.03.2011](http://schaiba.wordpress.com/2011/03/12/kernel-weekly-news-12-03-2011/)
+[Rares Aioanei: kernel weekly news â€“12.03.2011](http://schaiba.wordpress.com/2011/03/12/kernel-weekly-news-12-03-2011/)
 
 Rares published the Kernel Review for this Week. Thanks for working on it :-)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
 ### For Desktop Users
 
+â€œ
 
-
-[Martin Grässlin: Proactive Spam Fighting with Akonadi](http://blog.martin-graesslin.com/blog/2011/03/proactive-spam-fighting-with-akonadi/)
+[Martin GrÃ¤sslin: Proactive Spam Fighting with Akonadi](http://blog.martin-graesslin.com/blog/2011/03/proactive-spam-fighting-with-akonadi/)
 
 One year ago I finished my Master Thesis and I just realized that I never really blogged about it. I had the chance to build my implementation during the Thesis upon the Akonadi framework, which is the reason why I want to share what I worked about. For all who might be more interested in my Thesis, a publisher was so kind to [publish](http://amzn.to/evh4lj) it.
 
-The title of my Thesis was "**Implementation of Proactive Spam Fighting Techniques**" and the Thesis covered the implementation of two orthogonal techniques. Both techniques shared the idea to eliminate Spam before it hits the user™s inbox. Current Spam fighting techniques like for example SpamAssassin are reactive. [SpamAssassin](http://spamassassin.apache.org/) uses a rule based approach and a Bayesian filter. Rule based approaches cannot identify Spam messages reliable and have the danger to incorrectly mark ham messages if like last year [the date grossly in the future becomes present](https://issues.apache.org/SpamAssassin/show_bug.cgi?id=6269). Bayesian filtering requires to collect a rather large amount of mail messages before messages can be filtered. This illustrates that reactive Spam fighting is no real solution.
+The title of my Thesis was "**Implementation of Proactive Spam Fighting Techniques**" and the Thesis covered the implementation of two orthogonal techniques. Both techniques shared the idea to eliminate Spam before it hits the userâ€™s inbox. Current Spam fighting techniques like for example SpamAssassin are reactive. [SpamAssassin](http://spamassassin.apache.org/) uses a rule based approach and a Bayesian filter. Rule based approaches cannot identify Spam messages reliable and have the danger to incorrectly mark ham messages if like last year [the date grossly in the future becomes present](https://issues.apache.org/SpamAssassin/show_bug.cgi?id=6269). Bayesian filtering requires to collect a rather large amount of mail messages before messages can be filtered. This illustrates that reactive Spam fighting is no real solution.
 
-Both implementations required to interact with the user™s inbox and in one case it was required to automatically send out mail on mail reception. The original idea of my tutors at the [Laboratory for Dependable Distributed Systems](http://pi1.informatik.uni-mannheim.de/) was to develop either a plugin for Mozilla Thunderbird or Microsoft Outlook. With my background of KDE development I had to think of one framework which handles this much better: [Akonadi](http://community.kde.org/KDE_PIM/Akonadi). Thanks to Akonadi I was able to implement the solution in a client and platform independent way. Instead of just supporting Mozilla Thunderbird the solution works on all systems supporting Akonadi and no specific mail client is required. It can even be used by users who just use a web mail client. (...)
+Both implementations required to interact with the userâ€™s inbox and in one case it was required to automatically send out mail on mail reception. The original idea of my tutors at the [Laboratory for Dependable Distributed Systems](http://pi1.informatik.uni-mannheim.de/) was to develop either a plugin for Mozilla Thunderbird or Microsoft Outlook. With my background of KDE development I had to think of one framework which handles this much better: [Akonadi](http://community.kde.org/KDE_PIM/Akonadi). Thanks to Akonadi I was able to implement the solution in a client and platform independent way. Instead of just supporting Mozilla Thunderbird the solution works on all systems supporting Akonadi and no specific mail client is required. It can even be used by users who just use a web mail client. (...)
 
-
+â€
 
-
+â€œ
 
 [Mohammed Malik: Adding Borders To Use Photos Using digiKam..](http://www.mohamedmalik.com/?p=897)
 
@@ -1442,11 +1445,11 @@ Many people add borders to there images, since they make the image look better a
 
 There are two ways to apply image borders in digiKam (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 [TuxTweaks: How To Hide Secret Messages In Images With Linux](http://tuxtweaks.com/2011/03/how-to-hide-secret-messages-in-images-with-linux)
 
@@ -1454,23 +1457,23 @@ In today's post I'm going to show how to embed a text message into an image file
 
 In this basic form of secret messaging we'll be adding text onto the end of a file. I'm going to use the following image of Tux for my example. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 [python4kids/Brandan Scott: Time for Some Introspection](http://python4kids.wordpress.com/2011/03/07/time-for-some-introspection/)
 
-[¦The illusion is complete; it is reality, the reality is illusion and the ambiguity is the only truth. But is the truth, as Hitchcock observes, in the box? No there isn™t room, the ambiguity has put on weight. The point is taken, the elk is dead, the beast stops at Swindon, Chabrol stops at nothing, I™m having treatment and La Fontaine can get knotted.](http://www.ibras.dk/montypython/episode24.htm#6)
+â€œ[â€¦The illusion is complete; it is reality, the reality is illusion and the ambiguity is the only truth. But is the truth, as Hitchcock observes, in the box? No there isnâ€™t room, the ambiguity has put on weight. The point is taken, the elk is dead, the beast stops at Swindon, Chabrol stops at nothing, Iâ€™m having treatment and La Fontaine can get knotted.](http://www.ibras.dk/montypython/episode24.htm#6)â€
 
-Did you notice some errors in the previous tutorial? One was fatal.  The fact that no one commented on them indicates to me that no one is actually typing in the code “ naughty naughty!  Type it in. It™s important. (...)
+Did you notice some errors in the previous tutorial? One was fatal.  The fact that no one commented on them indicates to me that no one is actually typing in the code â€“ naughty naughty!  Type it in. Itâ€™s important. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
 
-
+â€œ
 
 [OMG! SUSE!/rtyler: Ten Days of openSUSE, Day Five: Scribus](http://omgsuse.com/content/ten-days-opensuse-day-five-scribus)
 
@@ -1485,9 +1488,9 @@ Just kidding, on the fifth day of our countdown to openSUSE 11.4 I wanted to hig
       impressive new application that is making it's debut with this release: [Scribus](http://www.scribus.net/). If you're not "in the know" for desktop
       publishing applications, Scribus is:
 
-Scribus is powerful software that helps you create great looking documents of all
+â€œScribus is powerful software that helps you create great looking documents of all
         kinds. It also comes with a lot of support options to help you achieve the best
-        result.
+        result.â€
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
 <td >![](http://cdn.omgsuse.com/omg/images/Scribus-screen.png)
@@ -1499,17 +1502,17 @@ As I'm terribly un-talented when it comes to just about anything spatial, I coul
 
 [Install Scribus 1.4 for 11.3](http://bit.ly/f1CB8v)
 
-
+â€
 
-
+â€œ
 
 [Kai-Uwe Behrmann: Gutenprint talks to colour management systems](http://oyranos-cms.blogspot.com/2011/03/gutenprint-talks-to-colour-management.html)
 
 The [Gutenprint project is going to tag its colour related print options](http://sourceforge.net/mailarchive/message.php?msg_id=27150124) with the [ColorKeyWords PPD entry](http://www.freedesktop.org/wiki/OpenIcc#PPDcolouring). Thus Gutenprint follows a request to tag colour related options in native device API's. Marking colour related options as being colour related will help automatic profile selection depending on the calibration state in the deriver. So if Gutenprint was set to a increased brightness of 1.1 and the media size is A5, then the colour marked brightness setting will play a role in searching the correct ICC profile, while the non colour hinted paper size will not influence the ICC profile search. This concept works as well for SANE and Xorg. The colour related options can be serialised to a common file format, which still has to be defined. Then this calibration information can be embedded by profilers into ICC profiles. Such calibration data enriched ICC profiles can then even be used to setup the calibration state of a given device + driver combination and automatically ensure the correct usage, while minimising user errors. That approach is already deployed in Oyranos' Xorg module. For display profiles it is typical to embed the calibration data inside the ICC profiles for a long time. The embedded calibration data is used to setup the graphics card to work with the display. Gutenprint is the next candidate to get related to ICC colour management a similar calibration support. 
 
-
+â€
 
-
+â€œ
 
 [OMG! SUSE!/rtyler: Ten Days of openSUSE, Day Six: Rock Out!](http://omgsuse.com/content/ten-days-opensuse-day-six-rock-out)
 
@@ -1525,7 +1528,7 @@ An integral part to any modern desktop experience is great music and openSUSE tr
 
 **Banshee**
 
-If you're a lover of [Banshee](http://banshee.fm/) then you may have read about some of the updates already in [this post on GNOME in 11.4](https://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/) over at [news.opensuse.org](https://news.opensuse.org/). The upcoming release of openSUSE (11.4) bundles Banshee 1.9.3 which is another stepping stone release to Banshee **2.0** which is due out in mid-Aoril.
+If you're a lover of [Banshee](http://banshee.fm/) then you may have read about some of the updates already in [this post on GNOME in 11.4](http://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/) over at [news.opensuse.org](http://news.opensuse.org/). The upcoming release of openSUSE (11.4) bundles Banshee 1.9.3 which is another stepping stone release to Banshee **2.0** which is due out in mid-Aoril.
 
 Packed into Banshee 1.9.3 are a number of bug fixes and improvements for developers, but from a user's perspective you can expect to find this Banshee more stable and more integrated with a number of new devices such as the Nexus S and Xperia X10 mini pro.
 
@@ -1543,9 +1546,9 @@ Unfortunately the Rhythmbox folks don't make [their changelogs](http://projects.
 
 For months Banshee users on openSUSE and many other distributions have been sending 100% of the Amazon referral revenue to the GNOME Foundation whenever they purchased a song or album.
 
-
+â€
 
-
+â€œ
 
 [OMG! SUSE!/rtyler: openSUSE, Banshee and the root of all evil](http://omgsuse.com/content/opensuse-banshee-and-root-all-evil)
 
@@ -1587,9 +1590,9 @@ In my opinion, Ubuntu is perfectly within their rights dictated by Banshee's lic
 
 What do you think? Much ado about nothing, or should we all grab pitchforks?
 
-
+â€
 
-
+â€œ
 
 [OMG! SUSE!/rtyler: Ten Days of openSUSE, Day Seven: Going, Going, GNOME!](http://omgsuse.com/content/ten-days-opensuse-day-seven-going-going-gnome)
 
@@ -1597,7 +1600,7 @@ What do you think? Much ado about nothing, or should we all grab pitchforks?
 
 **This Article is licensed under the [Creatice CommonsAttribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)**.
 
-The 11.4 release of openSUSE, dropping this Thursday (March 10th), is bringing more GNOME to the table than ever before. It might be a bit difficult for me to summarize, since there's simply so much stuff in this one major jump forward for GNOME on openSUSE (some of the [nitty gritty bits covered here already](https://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/)).
+The 11.4 release of openSUSE, dropping this Thursday (March 10th), is bringing more GNOME to the table than ever before. It might be a bit difficult for me to summarize, since there's simply so much stuff in this one major jump forward for GNOME on openSUSE (some of the [nitty gritty bits covered here already](http://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/)).
 
 Do you remember when you last installed another Linux distribution? Maybe it was Fedora, maybe it was Ubuntu, maybe it was Mint. With all three distributions you were probably left unsatisfied with just one GNOME inside the box. Well hot dog! Guess what! The new openSUSE packs not one, but **two** GNOMEs inside of it. ;) 
 
@@ -1621,9 +1624,9 @@ If you're really anxious to try out GNOME 3 and GNOME Shell, there's a [live USB
 
 Suffice to say, 11.4 includes a fantastic number of improvements, particularly for GNOME users. With only a few days left until release, yours truly is getting a bit impatient waiting for all these goodies!
 
-
+â€
 
-
+â€œ
 
 [OMG! SUSE!/rtyler: Ten days of openSUSE, Day Eight: K-D-WHEEEEE!](http://omgsuse.com/content/ten-days-opensuse-day-eight-k-d-wheeeee)
 
@@ -1633,7 +1636,7 @@ Suffice to say, 11.4 includes a fantastic number of improvements, particularly f
 
 As a long-time GNOME user, this post and some of the contents within it are difficutl for me to write. The openSUSE team has traditionally done a great job of packaging up GNOME and KDE, and even smaller more lightweight desktop environments like XFCE and LXDE.
 
-![](http://cdn.omgsuse.com/omg/images/snapshot22-300x187.png)
+![](http://cdn.omgsuse.com/omg/images/snapshot22.png)
 
 With 11.4, openSUSE really knocks it out of the park with KDE 4.6 which I must say, is bloody fantastic! So fantastic that I've actually started to use the KDE Plasma Netbook workspace, which has gotten **even better** in KDE 4.6 . Not only that, my wife now has made the plunge from Mac OS X to an openSUSE-powered laptop with the KDe plasma netbook workspace. It's just that good!
 
@@ -1643,13 +1646,13 @@ Bundled with this big update of KDE are a couple of applications that got update
 
 THe new release of KOffice, a great alternative to [LibreOffice](http://omgsuse.com/content/ten-days-opensuse-day-two-libreoffice) has received a great amount of performance and stability love from its developers. As it's become more rock-solid, it's support for reading the OpenDocument format along with some icky Microsoft formats has improved.
 
-To be honest, I've had a hard time summarizing what's special about KDE in openSUSE 11.4 versus KDE in 11.3, any way you cut it I'm out of my comfort zone (there is a write-up on [news.opensuse.org](https://news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/) though). I will say this though: KDE 4.6 in the new openSUSE is visually **stunning** and **fast**. THe KDE team has done a phenomenal job speeding up KDE and bucking the trend of software getting slower over time.
+To be honest, I've had a hard time summarizing what's special about KDE in openSUSE 11.4 versus KDE in 11.3, any way you cut it I'm out of my comfort zone (there is a write-up on [news.opensuse.org](http://news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/) though). I will say this though: KDE 4.6 in the new openSUSE is visually **stunning** and **fast**. THe KDE team has done a phenomenal job speeding up KDE and bucking the trend of software getting slower over time.
 
 If you've never tried KDE before then openSUSE 11.4, which comes out Thursday March 10th, might just be the perfect time to give it a test drive and see what you think.
 
-
+â€
 
-
+â€œ
 
 [Petr Baudis: ld.so Scopes](http://log.or.cz/?p=129)
 
@@ -1659,19 +1662,19 @@ If you've never tried KDE before then openSUSE 11.4, which comes out Thursday Ma
 
 Recently, I have spent quite a bit of my time debugging an [evil ld.so bug](http://sourceware.org/bugzilla/show_bug.cgi?id=12561) involving mis-handling of scopes and I have noticed precious lack of documentation of any internal ld.so data structures. So again, this comes for the benefit of the googlers, an intro that could have saved me another quite bit of time spent poking the code.
 
-Of course, the dynamic linker features a wide variety of fun hacks. The most interesting mechanism is probably how lazy relocation is performed, but things like that have already been described plenty of times before. The question we shall look into is what data structures are used when a new symbol is to be searched for and linker has already taken control. There are two important internal concepts of ld.so related to this “ the **link_map** and the **scope**. You can see the data structures in [include/link.h](http://repo.or.cz/w/glibc.git/blob/HEAD:/include/link.h).
+Of course, the dynamic linker features a wide variety of fun hacks. The most interesting mechanism is probably how lazy relocation is performed, but things like that have already been described plenty of times before. The question we shall look into is what data structures are used when a new symbol is to be searched for and linker has already taken control. There are two important internal concepts of ld.so related to this â€“ the **link_map** and the **scope**. You can see the data structures in [include/link.h](http://repo.or.cz/w/glibc.git/blob/HEAD:/include/link.h).
 
 The **struct link_map** describes a single loaded object; it may be ld.so, the main program, libc, or any other shared object loaded afterwards, during startup or later. It has many members, like its name, its mates in global linked list of all objects, or its state. But the most interesting attribute is its scope.
 
-The scope describes which libraries should be searched for symbol lookups occuring within the scope owner. (By the way, given that lookup scope may differ by caller, implementing dlsym() is not that trivial.) It is further divided into **scope elements (struct r_scope_elem)** “ a single scope element basically describes a single search list of libraries, and the scope (**link_map.l_scope** is the scope used for symbol lookup) is list of such scope elements.
+The scope describes which libraries should be searched for symbol lookups occuring within the scope owner. (By the way, given that lookup scope may differ by caller, implementing dlsym() is not that trivial.) It is further divided into **scope elements (struct r_scope_elem)** â€“ a single scope element basically describes a single search list of libraries, and the scope (**link_map.l_scope** is the scope used for symbol lookup) is list of such scope elements.
 
 To reiterate, a symbol lookup scope is a list of lists! Then, when looking up a symbol, the linker walks the lists in the order they are listed in the scope. But what really are the scope elements? There are two usual kinds:
 
-  * The global scope “ all libraries (ahem, link_maps) that have been requested to be loaded by the main program (what ldd on the binary file of the main program would print out, plus dlopen()ed stuff).
+  * The â€œglobal scopeâ€ â€“ all libraries (ahem, link_maps) that have been requested to be loaded by the main program (what ldd on the binary file of the main program would print out, plus dlopen()ed stuff).
 
-  * The local scope “ DT_NEEDED library dependencies of the current link_map (what ldd on the binary file of the library would print out, plus dlopen()ed stuff).
+  * The â€œlocal scopeâ€ â€“ DT_NEEDED library dependencies of the current link_map (what ldd on the binary file of the library would print out, plus dlopen()ed stuff).
 
-The global scope is shared between all link_maps (in the current namespace), while the local scope is owned by a particular library. (FIXME) If a library has local scope element in its scope, it adds itself to that scope. E.g. assume libA dlopen()ing libB (with RTLD_LOCAL) “ libB will get and own a fresh local scope element, and all libraries loaded by libB will inherit and add themselves to that local scope element.
+The global scope is shared between all link_maps (in the current namespace), while the local scope is owned by a particular library. (FIXME) If a library has local scope element in its scope, it adds itself to that scope. E.g. assume libA dlopen()ing libB (with RTLD_LOCAL) â€“ libB will get and own a fresh local scope element, and all libraries loaded by libB will inherit and add themselves to that local scope element.
 
 There are then four common situations:
 
@@ -1679,17 +1682,17 @@ There are then four common situations:
 
   * A library has been loaded with RTLD_LOCAL (the default case). Then its link_map has two scope elements, first comes the global scope, then comes the local scope. 
 
-  * A library has been loaded with RTLD_LOCAL | RTLD_DEEPBIND. In that case, the link_map has again the two scope elements, but the order is switched “ the local scope comes first. 
+  * A library has been loaded with RTLD_LOCAL | RTLD_DEEPBIND. In that case, the link_map has again the two scope elements, but the order is switched â€“ the local scope comes first. 
 
   * A library has been loaded with RTLD_GLOBAL. The link_map lists only the global scope. 
 
 (Another concept is namespace; each has its own id and linked list of link_maps, but usually there are just two, one for the ld.so and another for the application. Unless you are calling dlmopen() explicitly or using the LD_AUDIT interface, you can usually assume there is only a single **namespace** that matters.)
 
-Just for fun “ the bug I have been hunting has been caused by ld.so not handling local scopes quite properly. Normally, when unloading the library opened with RTLD_LOCAL, all its local scope members would be unloaded too. However, such a member could be flagged as RTLD_NODELETE, and in that case, it would stay around. The problem is, the code did not expect that and would remove the local scope owner and the local scope would go along with it. This means the nodelete library dependencies would disappear from its local scope and the next time it got called (e.g. within its static destructor), trying to resolve such a symbol would cause a unresolved symbol fatal error.
+Just for fun â€“ the bug I have been hunting has been caused by ld.so not handling local scopes quite properly. Normally, when unloading the library opened with RTLD_LOCAL, all its local scope members would be unloaded too. However, such a member could be flagged as RTLD_NODELETE, and in that case, it would stay around. The problem is, the code did not expect that and would remove the local scope owner and the local scope would go along with it. This means the nodelete library dependencies would disappear from its local scope and the next time it got called (e.g. within its static destructor), trying to resolve such a symbol would cause a â€œunresolved symbolâ€ fatal error.
 
-
+â€
 
-
+â€œ
 
 [OMG!SUSE! team: On the tenth day, openSUSE 11.4 changed everything](http://omgsuse.com/content/tenth-day-opensuse-114-changed-everything)
 
@@ -1729,46 +1732,46 @@ If you'd like to learn more about openSUSE 11.4, there's some [comprehensive doc
 
 New openSUSE users: You can try openSUSE with a Live CD (GNOME or KDE flavored), or grab an installation disc from software.opensuse.org.
 
-
+â€
 
-
+â€œ
 
 [GNOME 3 Live image 0.1.0 released - Geeko strikes back](http://blog.crozat.net/2011/03/gnome-3-live-image-010-released-geeko.html)
 
-This week has been a busy week : GNOME people worked really hard on 2.91.91 release and openSUSE people worked really hard on release [openSUSE 11.4](https://news.opensuse.org/2011/03/10/opensuse-11-4/).
+This week has been a busy week : GNOME people worked really hard on 2.91.91 release and openSUSE people worked really hard on release [openSUSE 11.4](http://news.opensuse.org/2011/03/10/opensuse-11-4/).
 
 So, let's please everybody with this week GNOME 3 Live image 0.1.0 : it features GNOME 2.91.91 on top of the brand new openSUSE 11.4.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums - We celebrate the release of 11.4
 
+â€œ
 
-
-[openSUSE 11.4 “ A New Hallmark For The openSUSE Project](http://forums.opensuse.org/english/other-forums/news-announcements/tech-news/455278-opensuse-11-4-new-hallmark-opensuse-project.html)
+[openSUSE 11.4 â€“ A New Hallmark For The openSUSE Project](http://forums.opensuse.org/english/other-forums/news-announcements/tech-news/455278-opensuse-11-4-new-hallmark-opensuse-project.html)
 
 It's the same like with every release: a bit like waiting for your birthday present, whilst knowing what it is. No surprise, yet a surprise. What can we say, the title says it all. On behalf of the openSUSE forums, I'd like to express our gratitude to all that made openSUSE 11.4 happen, and to the community for each and everyone's contributions. A great release.
     
 
-
+â€
 
+â€œ
 
-
-[NEW Users - openSUSE-11.4 Pre-installation “ PLEASE READ](http://forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/454963-new-users-opensuse-11-4-pre-installation-please-read.html)
+[NEW Users - openSUSE-11.4 Pre-installation â€“ PLEASE READ](http://forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/454963-new-users-opensuse-11-4-pre-installation-please-read.html)
 
 Like with a lot of previous releases our valued global moderator oldcpu has started a thread for new opensuse users, that people should read before installing. It contains lots of links to forums posts, faqs and howto's. Not only useful in a preinstallation stage, it's a place where lots of forums members return for this wonderful collection of information.  
 
-
+â€
 
-
+â€œ
 
 [Already updated? What do you think of 11.4](http://forums.opensuse.org/english/other-forums/community-fun/surveys-polls/455274-already-updated-what-do-you-think-11-4-a.html)
 
 Member yasar11732 has posted this survey/poll, we will probably see more. This is a time of vibrance in the forums (and the community). Read the thread to see the votes and the motifs for voting.
 
-
+â€
 
-
+â€œ
 
 openSUSE 11.4 is there: some collected threads
 
@@ -1785,13 +1788,13 @@ openSUSE 11.4 is there: some collected threads
      
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-On-the-Web.png)On the Web
 
 ### Reports
 
-
+â€œ
 
 [Ostatic/Susan Linton: openSUSE Thinking About Naming Change](http://ostatic.com/blog/opensuse-thinking-about-naming-change)
 
@@ -1799,23 +1802,23 @@ Andreas Jaeger, Program Manager at Novell for openSUSE, has posted about an on-g
 
 Jaeger [explains](http://lizards.opensuse.org/2011/03/11/how-to-name-the-distribution-releases/) that despite common belief openSUSE doesn't actually employ major and minor number versioning. So to assume that 11.4 is an update to 11.3 is incorrect. That explains all the times reviewers said things like 'despite being only a minor version upgrade, there are enough new and updated features to warrant a major number up-tick.' They just usually "count it always until 3." So, next release would be 12.0.
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 [Datamation/Matt Hartley: 15 Must-Have Linux Desktop Apps](http://itmanagement.earthweb.com/osrc/article.php/3927256)
 
-Recently it was brought to my attention that all the desktop Linux hoopla in the world doesn't mean squat without compelling applications to get the end user interested. To address this need, I™ve rounded up fifteen powerful Linux applications that reflect the best that Linux has to offer the desktop user, both in and out of the enterprise environment.
+Recently it was brought to my attention that all the desktop Linux hoopla in the world doesn't mean squat without compelling applications to get the end user interested. To address this need, Iâ€™ve rounded up fifteen powerful Linux applications that reflect the best that Linux has to offer the desktop user, both in and out of the enterprise environment.
 
-This is not meant to diminish any excluded apps. Instead my goal is to showcase applications that I™ve found to be really powerful for the typical Linux user. (...)
+This is not meant to diminish any excluded apps. Instead my goal is to showcase applications that Iâ€™ve found to be really powerful for the typical Linux user. (...)
 
-
+â€
 
 ### Warning!
 
-
+â€œ
 
 [Petur.eu: Linux can be hacked with an USB device](http://www.petur.eu/blog/?p=349)
       
@@ -1824,7 +1827,7 @@ A bug in the Caiaq USB driver, which could be used to execute arbitrary at the k
 
 The device drivers are vulnerable to [buffer overflow](http://en.wikipedia.org/wiki/Buffer_overflow) condition when an USB device with an unusually long name (over 80 characters) is connected to the machine. This is due to the use of strcpy() which length is not being tested, enabling the attacker to execute malicious code on the target machine. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
 
@@ -1836,7 +1839,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
@@ -1868,7 +1871,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 ## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-    the [comment section](https://news.opensuse.org/?p=7491) and let us know! 
+    the [comment section](http://news.opensuse.org/?p=7491) and let us know! 
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
@@ -1890,7 +1893,7 @@ Since a few minutes you can use [Bugtracking](http://developer.berlios.de/bugs/?
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1899,7 +1902,7 @@ You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](ht
 openSUSE Weekly News is translated into many languages. Issue
     166 is available in: 
 
-  * [English](https://news.opensuse.org/?p=7491)
+  * [English](http://news.opensuse.org/?p=7491)
 
 Coming soon: 
 
@@ -1912,6 +1915,3 @@ You can follow the status of the translation [there](http://en.opensuse.org/open
   * [German](http://wiki.open-slx.de/OWR/)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

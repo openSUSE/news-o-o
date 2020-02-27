@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-09-05 12:00:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/09/05/winter-is-coming-get-your-code-inside/
-title: "Winter is Coming, Get Your Code Inside!"
+slug: winter-is-coming-get-your-code-inside
+title: Winter is Coming, Get Your Code Inside!
+wordpress_id: 16740
 categories:
 - Announcements
 - Distribution
 ---
-[![WinterIsComingFinal]({{ site.baseurl }}/assets/WinterIsComingFinal-300x225.jpg)]({{ site.baseurl }}/assets/WinterIsComingFinal.jpg)
+
+[![WinterIsComingFinal](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)
 
 
 It is already September! _Haven't you noticed?_ Bad weather is coming, it will be **_freezing_** soon!
@@ -24,8 +27,8 @@ But already, the Toolchain and Base System are _deeply frozen_ and only leaf pac
 
 
 Factory is [a repository](https://build.opensuse.org/project/show?project=openSUSE%3AFactory) on [openSUSE's Open Build Service](http://build.opensuse.org). The [almost 6K packages](https://build.opensuse.org/project/packages?project=openSUSE%3AFactory) make it the largest OBS project and core to what we do. Factory is maintained by [the openSUSE Release team](http://en.opensuse.org/openSUSE:Release_team). Packages flow into Factory from developers via the Devel Projects.
-[![The openSUSE Factory Development Process]({{ site.baseurl }}/assets/600px-Factory_workflow.png)](https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/600px-factory_workflow/)
-[![gnome project page]({{ site.baseurl }}/assets/gnome-project-page-300x194.png)](https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/gnome-project-page/)
+[![The openSUSE Factory Development Process](//news.opensuse.org/wp-content/uploads/2011/09/600px-Factory_workflow.png)](//news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/600px-factory_workflow/)
+[![gnome project page](//news.opensuse.org/wp-content/uploads/2011/09/gnome-project-page.png)](//news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/gnome-project-page/)
 
 
 ### Devel projects
@@ -43,7 +46,7 @@ The openSUSE team has recently finished documenting the entire development proce
 
 Say a package in a devel project feeding into Factory is outdated or broken. You might need this package and want to fix it. Now you easily can branch them in OBS and get yourself a fixed package. But why not contribute the fix back to Factory? That way - you don't have to maintain it. Merging changes is very easy thanks to the collaborative feature of OBS. Once you branched and fixed the package, create a submit request and you're done. The maintainer from the devel project will pick it up and merge the change. This process is called **B**ranching, **U**pdating and **R**equesting a **P**ackage (_BURPing_). See the image below or read more on [this page](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_submit_a_fix_to_a_package) for command line steps.
 
-[![]({{ site.baseurl }}/assets/BURP-655x1024.png)](https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/burp/)
+[![](//news.opensuse.org/wp-content/uploads/2011/09/BURP.png)](//news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/burp/)
 
 
 ## Getting new packages in
@@ -65,4 +68,4 @@ All the above can be done either from the nice web interface of OBS or following
 
 So getting updates or completely new packages in openSUSE 13.1 is **not hard**. Being a [Factory maintainer](http://en.opensuse.org/openSUSE:Duties_and_rights_of_a_Factory_maintainer) might sound like a heavy responsibility and to some extent it is. But it's more than likely being a maintainer in a Devel project actually doesn't involve more work than what you currently do to keep your own packages building in your own home project. You will even get some help now and then. And you'll get the satisfaction of making a difference and being part of an awesome team!
 
-_Have fun hacking!_		
+_Have fun hacking!_

@@ -1,13 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-02-09 12:27:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/02/09/tumbleweed-snapshot-preps-root-file-system/
-title: "Tumbleweed snapshot preps root file system"
+slug: tumbleweed-snapshot-preps-root-file-system
+title: Tumbleweed snapshot preps root file system
+wordpress_id: 19060
 categories:
 - Tumbleweed
 ---
+
 ![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)The [latest snapshot release](http://lists.opensuse.org/opensuse-factory/2015-02/msg00076.html) of Tumbleweed provides a temporary root file system initrd in preparation to mount a real root file system.
 
 Version 14.158 of initrd-openSUSE updated to 14.161, which provided fixes for dangling service links and a fix install.i386 script.<!-- more -->
@@ -33,4 +36,4 @@ libzeitgeist-1_0-1
 libkeybinder-3_0-0
 libQt5WebChannel5
 libqt5-qtwebengine
-libsrtp2		
+libsrtp2

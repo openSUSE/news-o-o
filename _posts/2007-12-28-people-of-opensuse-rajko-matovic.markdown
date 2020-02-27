@@ -1,29 +1,120 @@
 ---
 author: News Team
+comments: true
 date: 2007-12-28 12:00:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/12/28/people-of-opensuse-rajko-matovic/
-title: "People of openSUSE: Rajko Matovic"
+slug: people-of-opensuse-rajko-matovic
+title: 'People of openSUSE: Rajko Matovic'
+wordpress_id: 584
 categories:
 - People of openSUSE
 ---
+
 Before 2007 ends you can read Rajko Matovic interview. Rajko is an openSUSE community member contributing largely on the Wiki side being a member of the [Wiki team](http://en.opensuse.org/Wiki_Team), and having more than 1300 pages edited.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![rajko_matovic.jpg]({{ site.baseurl }}/assets/rajko_matovic.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|rajko_m, simon123 (and permutations of 123)|
-|**Homepage:**|Nothing independent to show. Currently [http://en.opensuse.org/User:Rajko_m](http://en.opensuse.org/User:Rajko_m)|
-|**Blog:**|I'm behind on that too, for the same reason as the homepage; there is not much  time left after openSUSE.  I still have no answer on question: "How to squeeze more hours in a day?" Once I find the answer there will be time for every interest ;-)|
-|||
-|**Favorite season:**|Spring and Autumn, unfortunately that joy is short lasting here in the Midwestern states of the US.
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![rajko_matovic.jpg](//news.opensuse.org/wp-content/uploads/2007/12/rajko_matovic.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >rajko_m, simon123 (and permutations of 123)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >Nothing independent to show. Currently [http://en.opensuse.org/User:Rajko_m](http://en.opensuse.org/User:Rajko_m)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >I'm behind on that too, for the same reason as the homepage; there is not much  time left after openSUSE.  I still have no answer on question: "How to squeeze more hours in a day?" Once I find the answer there will be time for every interest ;-)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring and Autumn, unfortunately that joy is short lasting here in the Midwestern states of the US.
 Most of the year it is either very hot with little or no wind, or cold and windy.
-Seems upside down, but it is classic example of continental climate without  soothing effect of the sea.|
-|**Motto:**|You get what you give.|
-|||
+Seems upside down, but it is classic example of continental climate without  soothing effect of the sea.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >You get what you give.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -257,7 +348,7 @@ Programming, but with amount of time I have for learning there will be no improv
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Take look around, pull tools out and make something good outside of the virtual world. Though, I would often check if it's fixed.
@@ -331,7 +422,7 @@ It would be traveling, but I have not much opportunity for that lately.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Pay off loans and take vacation to think what to do with the rest.
@@ -342,7 +433,7 @@ That is a lot of money.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 In the future to see where world goes and in the past to meet some famous people. It would be hard to find me.
@@ -352,7 +443,7 @@ In the future to see where world goes and in the past to meet some famous people
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No.
@@ -413,4 +504,7 @@ None.
 
 
 How to put more hours in a day?
-I don't know.	
+I don't know.
+
+
+Read the source content, and [do my homework for money](https://domyhomework.guru/) divide it into sections according to headings and subheadings or other delineation

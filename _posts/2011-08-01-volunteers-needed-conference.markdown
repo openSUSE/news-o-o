@@ -1,18 +1,21 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2011-08-01 14:33:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/01/volunteers-needed-conference/
-title: "Volunteers needed for the conference"
+slug: volunteers-needed-conference
+title: Volunteers needed for the conference
+wordpress_id: 9950
 categories:
 - Conference
 tags:
 - conference
 - helping hands
-- nürnberg
+- nÃ¼rnberg
 - volunteers
 ---
+
 [![Brave enough?](http://lizards.opensuse.org/wp-content/uploads/2011/07/brave_enough-149x300.png)](http://lizards.opensuse.org/wp-content/uploads/2011/07/brave_enough.png)As you know, the third international [openSUSE Conference](http://conference.opensuse.org/) is happening in a couple of weeks from now, you already should be [registered](http://conference.opensuse.org/indico//confRegistrationFormDisplay.py/display?confId=2)! For the organization team this means that we are really picking up pace now and start to feel dizzy. One of the reasons for that is that we are short on helping hands. We especially miss _"boots on the ground_", **we need your help! **
 
 Being a boot on the ground means we need people to help us at the conference in September. There is no special knowledge about the location or other details needed. So far we have 5 tasks where we desperately need people to help out. Venue setup, Registration Desk, Session Chairs and the Snack Bar. Read on to learn how you can contribute to the success of the conference.
@@ -56,4 +59,4 @@ The team held couple of meetings which resulted in a nice [list of stuff to do](
 ****
 
 **Thanks a lot in advance!
-**		
+**

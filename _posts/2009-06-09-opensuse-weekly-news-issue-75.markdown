@@ -1,17 +1,20 @@
 ---
 author: News Team
+comments: true
 date: 2009-06-09 21:10:08+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/06/09/opensuse-weekly-news-issue-75/
-title: "openSUSE Weekly News, Issue 75"
+slug: opensuse-weekly-news-issue-75
+title: openSUSE Weekly News, Issue 75
+wordpress_id: 1751
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #75 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/75)!  
+
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #75 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/75)!  
   
 
-In this week™s issue:
+In this weekâ€™s issue:
  
 
   *  KDE 4.2.4 released     
@@ -29,4 +32,3 @@ In this week™s issue:
 
 For a list of available translations see this page:
 [http://en.opensuse.org/OpenSUSE_Weekly_News/75/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/75/Translations)
-		

@@ -1,16 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-08-11 19:32:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/08/11/kde-bug-team-asks-for-help-on-friday-13th-2/
-title: "KDE bug team asks for help on Friday 13th"
+slug: kde-bug-team-asks-for-help-on-friday-13th-2
+title: KDE bug team asks for help on Friday 13th
+wordpress_id: 4043
 categories:
 - Project
 tags:
 - KDE
 ---
-
 
 
 
@@ -33,5 +34,3 @@ Happy KDE bug squashing!</blockquote>
 
 
 
-
-		

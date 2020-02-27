@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-09-25 18:27:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/25/4823/
-title: "openSUSE Weekly News, Issue 142 is out!"
+slug: '4823'
+title: openSUSE Weekly News, Issue 142 is out!
+wordpress_id: 4823
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News #142.
 <!-- more -->
 
@@ -41,19 +44,19 @@ We are pleased to announce our new openSUSE Weekly News #142.
 
 
 
-  * [ Easily Building Software for Multiple Distributions and Platforms](https://news.opensuse.org/?p=4823#Easily_Building_Software_for_Multiple_Distributions_and_Platforms)
+  * [ Easily Building Software for Multiple Distributions and Platforms](http://news.opensuse.org/?p=4823#Easily_Building_Software_for_Multiple_Distributions_and_Platforms)
 
 
-  * [ Will Stephenson: Qt 4.7.0 in openSUSE; KDE updates](https://news.opensuse.org/?p=4823#Will_Stephenson:_Qt_4.7.0_in_openSUSE.3B_KDE_updates)
+  * [ Will Stephenson: Qt 4.7.0 in openSUSE; KDE updates](http://news.opensuse.org/?p=4823#Will_Stephenson:_Qt_4.7.0_in_openSUSE.3B_KDE_updates)
 
 
-  * [ Andreas Jaeger: From Source Code to Packages for Various Distributions](https://news.opensuse.org/?p=4823#Andreas_Jaeger:_From_Source_Code_to_Packages_for_Various_Distributions)
+  * [ Andreas Jaeger: From Source Code to Packages for Various Distributions](http://news.opensuse.org/?p=4823#Andreas_Jaeger:_From_Source_Code_to_Packages_for_Various_Distributions)
 
 
-  * [ TuxArena: KDocker: Dock Any Application in the System Tray in KDE, GNOME & Xfce](https://news.opensuse.org/?p=4823#TuxArena:_KDocker:_Dock_Any_Application_in_the_System_Tray_in_KDE.2C_GNOME_.26_Xfce)
+  * [ TuxArena: KDocker: Dock Any Application in the System Tray in KDE, GNOME & Xfce](http://news.opensuse.org/?p=4823#TuxArena:_KDocker:_Dock_Any_Application_in_the_System_Tray_in_KDE.2C_GNOME_.26_Xfce)
 
 
-  * [ Matthew Ehle: Diaspora on openSUSE](https://news.opensuse.org/?p=4823#Matthew_Ehle:_Diaspora_on_openSUSE)
+  * [ Matthew Ehle: Diaspora on openSUSE](http://news.opensuse.org/?p=4823#Matthew_Ehle:_Diaspora_on_openSUSE)
 
 
 
@@ -74,46 +77,46 @@ We are pleased to announce our new openSUSE Weekly News #142.
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=4823#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=4823#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=4823#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=4823#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=4823#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=4823#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=4823#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=4823#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=4823#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=4823#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=4823#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=4823#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=4823#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=4823#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=4823#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=4823#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=4823#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=4823#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=4823#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=4823#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=4823#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=4823#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=4823#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=4823#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=4823#Credits)
+  * [ Credits](http://news.opensuse.org/?p=4823#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=4823#Translations)
+  * [ Translations](http://news.opensuse.org/?p=4823#Translations)
 
 
 
@@ -287,24 +290,24 @@ We are pleased to announce our new openSUSE Weekly News #142.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Easily Building Software for Multiple Distributions and Platforms](https://news.opensuse.org/2010/09/20/easily-building-software-for-multipe-distributions-and-platforms/)
+####  [Easily Building Software for Multiple Distributions and Platforms](http://news.opensuse.org/2010/09/20/easily-building-software-for-multipe-distributions-and-platforms/)
 
 
-"In a little over a month, the openSUSE conference 2010 will start under the title collaboration accross borders. This article highlights one of the main topics at this conference ” a truly border-crossing technology called the Build Service. This technology helps developers target many different linux distributions with their software quickly and easily, and the openSUSE conference offers the perfect opportunity to get some inside information and share ideas towards fast-tracking the software packaging process. Read on to learn more about the Build Service and what it can do for you!" 
+"In a little over a month, the openSUSE conference 2010 will start under the title â€œcollaboration accross bordersâ€. This article highlights one of the main topics at this conference â€” a truly border-crossing technology called the Build Service. This technology helps developers target many different linux distributions with their software quickly and easily, and the openSUSE conference offers the perfect opportunity to get some â€œinside informationâ€ and share ideas towards fast-tracking the software packaging process. Read on to learn more about the Build Service and what it can do for you!" 
 
 
-![Conf2010_250px2+register.png]({{ site.baseurl }}/assets/Conf2010_250px2+register.png)
+![Conf2010_250px2+register.png](/wp-content/uploads/2010/09/Conf2010_250px2+register.png)
 
 
 
 
-####  [OSC2010 Sneak Peaks “ Bernhard Wiedemann: Automated Testing](https://news.opensuse.org/2010/09/22/osc2010-sneak-peaks-%E2%80%93-bernhard-wiedemann-automated-testing/)
+####  [OSC2010 Sneak Peaks â€“ Bernhard Wiedemann: Automated Testing](http://news.opensuse.org/2010/09/22/osc2010-sneak-peaks-%E2%80%93-bernhard-wiedemann-automated-testing/)
 
 
 "The openSUSE Conference 2010 Sneak Peaks will 
 
 
-introduce some speakers and talks to you. This time we explore the automatism™s inside our testing team together with Bernhard Wiedemann." 
+introduce some speakers and talks to you. This time we explore the automatismâ€™s inside our testing team together with Bernhard Wiedemann." 
 
 
 
@@ -321,7 +324,7 @@ zypper ar -r [http://r.opensu.se/packman.repo](http://r.opensu.se/packman.repo)
 Also added some more explanations about how the redirector works with regards to proxying .repo files, as well as how to test/debug/verify what it sends back using curl. Read more at [http://r.opensu.se](http://r.opensu.se/)" 
 
 
-####  [openSUSE Wiki Upgrade](https://news.opensuse.org/2010/09/24/opensuse-wiki-upgrade/)
+####  [openSUSE Wiki Upgrade](http://news.opensuse.org/2010/09/24/opensuse-wiki-upgrade/)
 
 
 "We have just completed the upgrade to the 1.16 release of MediaWiki. This release comes with several improvements in functionality and performance. Anyone who is interested in more information can view the release notes here.  As part of this deployment, 6 additional wikis (Dutch, French, Greek, Portugese, Russian, and Spanish) have been converted to the new wiki system. These wikis now have the same themes and functionality as the English wiki, including Lucene search.  Later today, we will be moving the wiki files to the data center SAN. The wikis should remain live throughout the entire process. However, file uploads will be disabled and anyone editing the wiki faces a small risk of losing their session. A warning message will be posted on the wiki during this move, which should take less than an hour." 
@@ -494,7 +497,7 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
 ####  [Will Stephenson: Qt 4.7.0 in openSUSE; KDE updates](http://lizards.opensuse.org/2010/09/22/qt-4-7-0-in-opensuse-kde-updates/)
 
 
-"With the release of Qt 4.7.0 it™s time to use it to build KDE packages destined for openSUSE 11.4. This means that Qt 4.7 will shortly land in KDE:Distro:Factory repositories. In a couple of months™ time it will be followed by betas of the KDE 4.6 releases. If you are using KDF just because it™s the latest KDE release, consider replacing it with KDE:Release:45 now, which will remain 4.5 and Qt 4.6 based.  You can get the latest Qt release with Qt Quick/QML and latest Qt Creator by staying with KDF." 
+"With the release of Qt 4.7.0 itâ€™s time to use it to build KDE packages destined for openSUSE 11.4. This means that Qt 4.7 will shortly land in KDE:Distro:Factory repositories. In a couple of monthsâ€™ time it will be followed by betas of the KDE 4.6 releases. If you are using KDF just because itâ€™s the latest KDE release, consider replacing it with KDE:Release:45 now, which will remain 4.5 and Qt 4.6 based.  You can get the latest Qt release with Qt Quick/QML and latest Qt Creator by staying with KDF." 
 </td>
 </tr>
 </tbody>
@@ -615,7 +618,7 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -667,13 +670,13 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
 ####  [Pavol Rusnak: FrOSCamp, FUDCon Zurich and CERN](http://stick.gk2.sk/blog/2010/09/froscamp-fudcon-zurich-and-cern/)
 
 
-"After a very long journey home I™m finally back in Prague from Switzerland. The whole trip was just awesome! Michal and I left Prague on Thursday around 11 PM, shortly after our Fedora friends from Brno arrived. To book a shared van for 9 people proved to be a great idea! Btw, motto for the upcoming openSUSE Conference is Collaboration across Borders so we definitively stick to that! :-)" 
+"After a very long journey home Iâ€™m finally back in Prague from Switzerland. The whole trip was just awesome! Michal and I left Prague on Thursday around 11 PM, shortly after our Fedora friends from Brno arrived. To book a shared van for 9 people proved to be a great idea! Btw, motto for the upcoming openSUSE Conference is â€œCollaboration across Bordersâ€ so we definitively stick to that! :-)" 
 
 
 ####  [Nelson Marques: Strategy and the opensuse-pt community!](http://nmarques.digitalwhores.net/2010/09/22/strategy-and-the-opensuse-pt-community/)
 
 
-"A few days ago I™ve launched a small alert to the Portuguese speaking community through planet and the opensuse-pt mailing list. It™s paying off as some people are now committed to this cause; Identifying what bounds us to openSUSE and why we love to be a part of the openSUSE community. This qualitative information is going to be given to the strategy and marketing teams in a nearby future so that they can have some material provided by the community about the community (in this case, Portuguese speaking community) to aid them to fulfill their goals and make their work easier around the ˜targeted user base" 
+"A few days ago Iâ€™ve launched a small alert to the Portuguese speaking community through planet and the opensuse-pt mailing list. Itâ€™s paying off as some people are now committed to this cause; Identifying what bounds us to openSUSE and why we love to be a part of the openSUSE community. This qualitative information is going to be given to the strategy and marketing teams in a nearby future so that they can have some material provided by the community about the community (in this case, Portuguese speaking community) to aid them to fulfill their goals and make their work easier around the â€˜targeted user base" 
 
 
 ####  [Thomas Thym: openSUSE strategy is moving on](http://ungethym.blogspot.com/2010/09/opensuse-strategy-is-moving-on.html)
@@ -685,7 +688,7 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
 ####  [Andreas Jaeger: From Source Code to Packages for Various Distributions](http://lizards.opensuse.org/2010/09/24/from-source-code-to-packages-for-various-distributions/)
 
 
-"I presented on Thursday at LinuxKongress 2010 on From Source Code to Packages for Various Distributions.  When I arrived in the morning for Jon Corbet™s excellent keynote, a quick check showed that the openSUSE Build Service (OBS) which I wanted to demo as part of my presentation was down. I was glad about the advise of my colleague Michael Löffler that told me to have some backup in case I won™t have internet in the room. So, I had prepared a screencast (video) and soon I was calm and could concentrate on Jon instead of worrying about OBS." 
+"I presented on Thursday at LinuxKongress 2010 on â€œFrom Source Code to Packages for Various Distributionsâ€.  When I arrived in the morning for Jon Corbetâ€™s excellent keynote, a quick check showed that the openSUSE Build Service (OBS) which I wanted to demo as part of my presentation was down. I was glad about the advise of my colleague Michael LÃ¶ffler that told me to have some backup in case I wonâ€™t have internet in the room. So, I had prepared a screencast (video) and soon I was calm and could concentrate on Jon instead of worrying about OBS." 
 
 
 ###  Events & Meetings
@@ -698,10 +701,10 @@ Past:
 
 
 
-  * [** September 21, 2010: openSUSE Marketing Team Meeting**](https://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-7/)
+  * [** September 21, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-7/)
 
 
-  * [** September 22, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [** September 22, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
 
@@ -710,16 +713,16 @@ Upcoming:
 
 
 
-  * [** September 29, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [** September 29, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** September 30, 2010: ï»¿openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** September 30, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -840,7 +843,7 @@ Upcoming:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -990,10 +993,10 @@ To view the security announcements in full, or to receive them as soon as they'r
 "We already introduced a beautiful collection of GIMP tutorials before, it's time for some more. But this time, they are a bunch of GIMP video tutorials and are solely meant for absolute beginners, those who only have the vaguest idea on what GIMP is and what it is capable of." 
 
 
-####  [Sebastian Kügler: Getting Email Done: The Stack and the Heap of Lion Mail](http://satellite.vizzzion.org/blog/2010/09/getting-email-done-the-stack-and-the-heap-of-lion-mail/)
+####  [Sebastian KÃ¼gler: Getting Email Done: The Stack and the Heap of Lion Mail](http://satellite.vizzzion.org/blog/2010/09/getting-email-done-the-stack-and-the-heap-of-lion-mail/)
 
 
-"In my previous article on this subject, I have introduced Akonadi as the personal information beehive on your computer, explained how it works, how it is designed and what the migration process to an Akonadi-based Kontact looks like. (openSUSE users should also take a look here.) In this article, I will dive into the workspace parts we™re introducing on top of Akonadi, notably the new email notifier system in Plasma “ Lion Mail.  The Lion Mail email notifier is at its base your "you™ve got mail" icon in the panel. For users with more complex and high-traffic email habits, it offers a basic set of workflow tools to manage the daily stream of emails more efficiently and ergonomically. In this article, I™m describing some of the design concepts behind Lion Mail™s email notifier and its workflow features." 
+"In my previous article on this subject, I have introduced Akonadi as the personal information beehive on your computer, explained how it works, how it is designed and what the migration process to an Akonadi-based Kontact looks like. (openSUSE users should also take a look here.) In this article, I will dive into the workspace parts weâ€™re introducing on top of Akonadi, notably the new email notifier system in Plasma â€“ Lion Mail.  The Lion Mail email notifier is at its base your "youâ€™ve got mail" icon in the panel. For users with more complex and high-traffic email habits, it offers a basic set of workflow tools to manage the daily stream of emails more efficiently and ergonomically. In this article, Iâ€™m describing some of the design concepts behind Lion Mailâ€™s email notifier and its workflow features." 
 
 
 ####  [WebUpd8/Andrew: Synchronize Your OpenOffice Documents With Google Docs, Zoho And WebDAV Servers Using Ooo2gd](http://www.webupd8.org/2010/09/synchronize-your-openoffice-documents.html)
@@ -1065,7 +1068,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Novell Connection Magazine/Matthias G. Eckermann and Bill Tobey: Effective Linux Resource Management](http://www.novell.com/connectionmagazine/2010/09/effective_linux_resource_management_one.html)
 
 
-"When Linux servers under perform”particularly multi-purpose systems running multiple applications for multiple user groups”the root cause is frequently resource monopolization by one or more processes or users. Wouldn™t it be wonderful if you could set and enforce some ground rules to govern how much CPU, memory, disk I/O or network I/O each process or user could command?  Well you can! Control groups (cgroups) are a feature of the Linux kernel that provide mechanisms for partitioning sets of tasks into one or many hierarchical groups, and associating each group with a set of subsystem resource parameters that affect their execution performance. You might use control groups: (...)" 
+"When Linux servers under performâ€”particularly multi-purpose systems running multiple applications for multiple user groupsâ€”the root cause is frequently resource monopolization by one or more processes or users. Wouldnâ€™t it be wonderful if you could set and enforce some ground rules to govern how much CPU, memory, disk I/O or network I/O each process or user could command?  Well you can! Control groups (cgroups) are a feature of the Linux kernel that provide mechanisms for partitioning sets of tasks into one or many hierarchical groups, and associating each group with a set of subsystem resource parameters that affect their execution performance. You might use control groups: (...)" 
 
 
 ####  [Unixmen: How to install Nagios 3.2.2 from source in Opensuse 11.3](http://www.unixmen.com/linux-tutorials/1187-how-to-install-nagios-322-from-source-in-opensuse-113)
@@ -1133,13 +1136,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Mike McCallister: Outsmarting an aging router and other tales of regeneration](http://metaverse.wordpress.com/2010/09/21/outsmarting-an-aging-router-and-other-tales-of-regeneration/)
 
 
-"So after a week of preparation and a couple more weeks of frustration and perseverance, my somewhat ancient laptop has transformed from a dual-boot Kubuntu/Windows XP system to a dual-boot openSUSE 11.3/Windows XP system.  The whole process wasn™t really as bad as I™d feared, nor as bad as you might think after reading that lead paragraph. I pretty much thought I™d have to reformat my hard drive and start over and backed up all my data accordingly.  Once I did that, I remembered to install Windows first, even though I never ran into any issues when I earlier installed Windows on what it considered the H: drive." 
+"So after a week of preparation and a couple more weeks of frustration and perseverance, my somewhat ancient laptop has transformed from a dual-boot Kubuntu/Windows XP system to a dual-boot openSUSE 11.3/Windows XP system.  The whole process wasnâ€™t really as bad as Iâ€™d feared, nor as bad as you might think after reading that lead paragraph. I pretty much thought Iâ€™d have to reformat my hard drive and start over and backed up all my data accordingly.  Once I did that, I remembered to install Windows first, even though I never ran into any issues when I earlier installed Windows on what it considered the H: drive." 
 
 
 ####  [Sascha Manns: New Webinar at Linux Foundation](http://saigkill.wordpress.com/2010/09/21/new-webinar-at-linux-foundation/)
 
 
-"Yesterday i™ve got a Message from Linux Foundation. The Mail says, that the fourth Part of the Webinars are available.  **What is a Webinar?** A Webinar is a free Trainingvideo with different Topics. Each new Webinar has a new Topic. The whole Training is a Video in a Flashplayer, that contains a talk and you can see the Slides or the stuff what makes the Man (Women) who gives the Talk. Before you can access the Webinar, you must request a Session-Key, what you can do there. On the Registersite you just must place your Name, Emailadress and Company, and in the next Step you got the Key. That Key you put in the next Page, and then you have access to see the Video. As Extra Present you can also Download that as OGG. The Webinars are interesting, and if i haven™t understand anything, i can go back and hear it another Time." 
+"Yesterday iâ€™ve got a Message from Linux Foundation. The Mail says, that the fourth Part of the Webinars are available.  **What is a Webinar?** A Webinar is a free Trainingvideo with different Topics. Each new Webinar has a new Topic. The whole Training is a Video in a Flashplayer, that contains a talk and you can see the Slides or the stuff what makes the Man (Women) who gives the Talk. Before you can access the Webinar, you must request a Session-Key, what you can do there. On the Registersite you just must place your Name, Emailadress and Company, and in the next Step you got the Key. That Key you put in the next Page, and then you have access to see the Video. As Extra Present you can also Download that as OGG. The Webinars are interesting, and if i havenâ€™t understand anything, i can go back and hear it another Time." 
 
 
 ####  [Nelson Marques: 2.6.34.7-0.3-desktop and ATI FireGL](http://nmarques.digitalwhores.net/2010/09/24/2-6-34-7-0-3-desktop-and-ati-firegl/)
@@ -1272,7 +1275,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Jean-FranÃ§ois Fortin Tam (nekohayo): Free my memory](http://jeff.ecchi.ca/blog/2010/09/19/free-my-memory/)
 
 
-"My fellow Antistress argued that I should be going back from Chromium to Firefox today. I replied, Only when it starts up in less than 3 seconds and frees my goddamn memory when closing tabs. He then replied with the following statement:  _firefox a la meilleure gestion de la mÃ©moire tous navigateurs confondus (cf tests unanimes sur la toile)_" 
+"My fellow Antistress argued that I should be going back from Chromium to Firefox today. I replied, â€œOnly when it starts up in less than 3 seconds and frees my goddamn memory when closing tabsâ€. He then replied with the following statement:  _firefox a la meilleure gestion de la mÃ©moire tous navigateurs confondus (cf tests unanimes sur la toile)_" 
 
 
   
@@ -1290,7 +1293,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Charles-H. Schulz: Radical Innovation is needed for GNU/Linux distributions](http://standardsandfreedom.net/index.php/2010/09/22/radical-innovation-is-needed-for-gnulinux-distributions/)
 
 
-"There™s a certain movement these days in the world of GNU/Linux distributions. I think we are experiencing one of these moments that starts with a question that has been asked and heard many times -should distros differentiate themselves in order to survive? & aren™t there too many distros out there?- and ends with a much more serious question: Innovating in the world of GNU/Linux. Rest assured this is not going to be that sort of rant where we conclude that Linux is the copycat of other OSes just like we will not, in fact answer the question of the pretendly too many distributions or their differentiation. That is, I will not really answer these questions; and the reason I won™t is that I think these are all bad questions that either miss the point or show a certain lack of understanding of FOSS and GNU/Linux in general.  I guess by now all of you have heard of Mageia, the Mandriva fork. But these news overshadowed something else that is a developing situation elsewhere and matters perhaps even more: OpenSuse. (...)" 
+"Thereâ€™s a certain movement these days in the world of GNU/Linux distributions. I think we are experiencing one of these moments that starts with a question that has been asked and heard many times -should distros differentiate themselves in order to survive? & arenâ€™t there too many distros out there?- and ends with a much more serious question: Innovating in the world of GNU/Linux. Rest assured this is not going to be that sort of rant where we conclude that â€œLinux is the copycat of other OSesâ€ just like we will not, in fact answer the question of the pretendly too many distributions or their differentiation. That is, I will not really answer these questions; and the reason I wonâ€™t is that I think these are all bad questions that either miss the point or show a certain lack of understanding of FOSS and GNU/Linux in general.  I guess by now all of you have heard of Mageia, the Mandriva fork. But these news overshadowed something else that is a developing situation elsewhere and matters perhaps even more: OpenSuse. (...)" 
 
 
 ####  [Computerworld/Steven J. Vaughan-Nichols: VMware's Novell SUSE Linux buy out runs into a snag](http://blogs.computerworld.com/17019/vmwares_novell_suse_linux_buy_out_runs_into_a_snag)
@@ -1350,7 +1353,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?p=4823) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=4823) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -1359,7 +1362,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -1404,7 +1407,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1413,7 +1416,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -1479,7 +1482,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/142)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/142)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/142)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/142)
@@ -1518,4 +1521,3 @@ Delayed / to be translated:
 </table>
   
 
-		

@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-12-06 19:23:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/12/06/announcing-opensuse-110-alpha0/
-title: "Announcing openSUSE 11.0 Alpha0"
+slug: announcing-opensuse-110-alpha0
+title: Announcing openSUSE 11.0 Alpha0
+wordpress_id: 563
 categories:
 - Announcements
 - Distribution
 ---
+
 We'd like to kick start the development of openSUSE 11.0 by releasing the current state of Factory as an Alpha0 release. Since the release of 10.3, we checked in 2187 packages including fundamental package updates such as:
 
 
@@ -63,4 +66,4 @@ So far there are some glitches in the installation process, that are mostly harm
 
 You can get it from [http://en.opensuse.org/Development_Version#Downloads](http://en.opensuse.org/Development_Version#Downloads)
 
-Greetings, Stephan
+Greetings, Stephan The noun form is insidiousness, and the [https://writemyessay4me.org/](https://writemyessay4me.org/) adverbial form is insidiously

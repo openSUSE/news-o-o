@@ -1,19 +1,22 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-20 10:08:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/20/announcing-opensuse-103-rc1/
-title: "Announcing openSUSE 10.3 RC1"
+slug: announcing-opensuse-103-rc1
+title: Announcing openSUSE 10.3 RC1
+wordpress_id: 305
 categories:
 - Announcements
 - Distribution
 ---
+
 After quite a few rebuilds and testing, the openSUSE team is happy to announce that RC1 looks brilliant and is now available for download. We consider this release to be feature complete, stable, and suitable for testing from any user. For more information on the release schedule, take a look at the [Roadmap](http://en.opensuse.org/Roadmap/10.3).
 
 
 
-[![10.3 - KDE Default Desktop]({{ site.baseurl }}/assets/kdedesktop_thumb1.png)]({{ site.baseurl }}/assets/103-kde-desktop.jpg) [![10.3 - GNOME Default Desktop]({{ site.baseurl }}/assets/gnomedesktop_thumb.png)]({{ site.baseurl }}/assets/103gnome-desktop.png)
+[![10.3 - KDE Default Desktop](//news.opensuse.org/wp-content/uploads/2007/09/kdedesktop_thumb1.png)](//news.opensuse.org/wp-content/uploads/2007/09/103-kde-desktop.jpg) [![10.3 - GNOME Default Desktop](//news.opensuse.org/wp-content/uploads/2007/09/gnomedesktop_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103gnome-desktop.png)
 For more screenshots, head over to [openSUSE.org/Screenshots/openSUSE_10.3](http://opensuse.org/Screenshots/openSUSE_10.3)
 
 <!-- more -->
@@ -99,6 +102,6 @@ openSUSE 10.3 RC1 for i386, x86-64 and ppc is available as different media sets.
 ### Comments, Feedback and Helping
 
 
-[![communicate.png]({{ site.baseurl }}/assets/communicate.png)](http://opensuse.org/Communicate)Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](http://lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community -- including IRC, Mailing Lists, and Forums -- take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
+[![communicate.png](//news.opensuse.org/wp-content/uploads/2007/09/communicate.png)](http://opensuse.org/Communicate)Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](http://lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community -- including IRC, Mailing Lists, and Forums -- take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/10.3) is the openSUSE 10.3 final release, on the Thursday, 4th October!
+The next [planned release](http://en.opensuse.org/Roadmap/10.3) is the openSUSE 10.3 final release, on the Thursday, 4th October! However, when you look back on your career, you will be more satisfied if you know you made a difference in the [https://proessaywriting.org/](https://proessaywriting.org) world

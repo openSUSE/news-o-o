@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2017-05-10 23:45:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/05/10/announcing-opensuses-status-page-status-opensuse-org/
-title: "Announcing openSUSE’s status page - status.opensuse.org"
+slug: announcing-opensuses-status-page-status-opensuse-org
+title: Announcing openSUSE’s status page - status.opensuse.org
+wordpress_id: 20399
 categories:
 - Announcements
 - Infrastructure
@@ -13,7 +15,8 @@ tags:
 - Infrastructure
 - opensuse
 ---
-(https://status.opensuse.org/) Screenshot https://status.opensuse.org/
+
+[caption id="attachment_20402" align="alignleft" width="300"][![Screenshot Status Page](/wp-content/uploads/2017/05/screenshot_status_page.png)](https://status.opensuse.org/) Screenshot https://status.opensuse.org/[/caption]
 
 Worried about downtimes and maintenance windows of openSUSE services that you missed because there was no information provided? ;-)
 
@@ -49,4 +52,4 @@ If you like, you can even use the experimental Email notification feature by cli
 
 To unsubscribe, again exchange the "subscribe/verify" in the link with the word "unsubscribe" and you are done.
 
-Please be aware that we - the openSUSE Heroes - still need to train our self with the new system. We will try our best not to bother you with too much spam, but especially for the experimental Email feature, we can not guarantee at the moment.		
+Please be aware that we - the openSUSE Heroes - still need to train our self with the new system. We will try our best not to bother you with too much spam, but especially for the experimental Email feature, we can not guarantee at the moment.

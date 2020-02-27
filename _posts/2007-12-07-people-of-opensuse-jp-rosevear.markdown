@@ -1,29 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2007-12-07 12:00:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/12/07/people-of-opensuse-jp-rosevear/
-title: "People of openSUSE: JP Rosevear"
+slug: people-of-opensuse-jp-rosevear
+title: 'People of openSUSE: JP Rosevear'
+wordpress_id: 550
 categories:
 - People of openSUSE
 ---
+
 Here goes another 'People of openSUSE' interview, this time with a Canadian Novell employee and GNOME hacker - JP Rosevear. Besides his GNOME code contribution, he is the desktop development manager at Novell.
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![jp_rosevear.jpg]({{ site.baseurl }}/assets/jp_rosevear.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|jpr|
-|**Homepage:**|[http://jprosevear.org](http://jprosevear.org)|
-|**Blog:**|[http://jprosevear.org/blog/](http://jprosevear.org/blog/)|
-|||
-|**Favorite season:**|autumn|
-|**Motto:**|To each his own|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![jp_rosevear.jpg](//news.opensuse.org/wp-content/uploads/2007/11/jp_rosevear.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >jpr
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://jprosevear.org](http://jprosevear.org)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://jprosevear.org/blog/](http://jprosevear.org/blog/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >autumn
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >To each his own
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -228,7 +318,7 @@ Probably some more web technology understanding.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I'd feel a lot less busy that's for sure, since I work remotely I'd basically be able to do nothing managerially, I'd probably take it as a break to do some hacking :-) .
@@ -300,7 +390,7 @@ With two small kids, right now its camping or doing things around the house.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Invest it, let the interest income pile up over a few years and retire to work on free software and other interests.
@@ -310,7 +400,7 @@ Invest it, let the interest income pile up over a few years and retire to work o
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Maybe late 19th century London, England.
@@ -320,7 +410,7 @@ Maybe late 19th century London, England.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Heck no, thats why you have a UPS.
@@ -381,3 +471,5 @@ Q: What can the project do to get more upstream FOSS developers using openSUSE?
 
 A: Focus on a couple of key areas like performance (ie more of Coolo's boot time improvements), power management (via Powertop), package availability, things like that.
 
+
+Jim ryan jä m ryan says march 12, [https://essaydragon.com/](https://essaydragon.com/) 2010 at 2 46 pm I live ä n turkey

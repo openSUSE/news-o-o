@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-04 18:16:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/04/sneak-peeks-at-opensuse-103-compiz-and-compiz-fusion/
-title: "Sneak Peeks at openSUSE 10.3: Compiz and Compiz Fusion"
+slug: sneak-peeks-at-opensuse-103-compiz-and-compiz-fusion
+title: 'Sneak Peeks at openSUSE 10.3: Compiz and Compiz Fusion'
+wordpress_id: 167
 categories:
 - Distribution
 ---
+
 [Compiz](http://opensuse.org/Compiz) and [Xgl](http://opensuse.org/Xgl) are two classic examples of where SUSE engineers have revolutionised the Linux desktop. openSUSE 10.3 will contain the latest Compiz 0.5.4 installed by default, and [Compiz Fusion](http://opensuse.org/Compiz_Fusion) -- the result of a merge between the Compiz and [Beryl](http://opensuse.org/Beryl) communities -- will be available in the official online repository for all to get through YaST. Today we'll be taking a look at what's going to be new in these versions, and we'll talk to [Matthias Hopf](http://en.opensuse.org/User:Mhopf), a Compiz/Xgl/X.org developer, as well as [Jigish Gohil](http://dev.compiz-fusion.org/~cyberorg) (cyberorg), a contributor to the Compiz Fusion project and maintainer of the Compiz Fusion packages in openSUSE.
 
 <!-- more -->
@@ -25,7 +28,7 @@ Compiz has changed quite a bit from the 0.2.2 version that we shipped in openSUS
 It has always been possible to seamlessly run Compiz in both KDE and GNOME, but you were never quite given the possibility of having native KDE window decorations while still running compiz. All that has changed now, and you can now run Compiz and still preserve whatever window decoration you have used for KDE:
 
 
-[![KDE Window Decorator with the Scale Plugin]({{ site.baseurl }}/assets/ke-window-decorator_thumb.jpg)]({{ site.baseurl }}/assets/ke-window-decorator.png)
+[![KDE Window Decorator with the Scale Plugin](//news.opensuse.org/wp-content/uploads/2007/08/ke-window-decorator_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/ke-window-decorator.png)
 
 
 The KDE Desktop Preview and Pager also works better with Compiz now, both showing you which windows are on which desktop, and also allowing you to switch between the desktops when clicking on the respective box.
@@ -37,7 +40,7 @@ The KDE Desktop Preview and Pager also works better with Compiz now, both showin
 Provided support for different blurring of windows. For example, you can choose to have all windows blurred except the currently focused one:
 
 
-[![Blur Plugin]({{ site.baseurl }}/assets/blur_thumb.jpg)]({{ site.baseurl }}/assets/blur.png)
+[![Blur Plugin](//news.opensuse.org/wp-content/uploads/2007/09/blur_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/blur.png)
 
 
 
@@ -49,7 +52,7 @@ Provided support for different blurring of windows. For example, you can choose 
 Compiz has also received other nice and small configurable plugins. One such nice example is the new _annotate_ plugin, giving you the ability to highlight particular areas of the screen or to just draw on any part of it.
 
 
-[![Annotate Plugin Highlighting some Items]({{ site.baseurl }}/assets/annotate-plugin_thumb.jpg)]({{ site.baseurl }}/assets/annotate-plugin.png)
+[![Annotate Plugin Highlighting some Items](//news.opensuse.org/wp-content/uploads/2007/08/annotate-plugin_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/annotate-plugin.png)
 
 
 This plugin, along with the _Zoom_ and _Clone_ plugins are tremendous presentation aids.
@@ -82,7 +85,7 @@ Development on Compiz Fusion has been so fast that it is barely possible to docu
 Compiz Fusion has a completely new manager for handling its plugins and settings, as well as all settings belonging to Compiz itself: _ccsm_. It has a more accessible and intuitive design while still retaining all the same configurability.
 
 
-[![CompizConfig Settings Manager (ccsm)]({{ site.baseurl }}/assets/compizconfig-settings_thumb.jpg)]({{ site.baseurl }}/assets/compizconfig-settings.png)  [![CCSM Animation Configuration]({{ site.baseurl }}/assets/compizconfig-settings-animation_thumb.jpg)]({{ site.baseurl }}/assets/compizconfig-settings-animation.png)
+[![CompizConfig Settings Manager (ccsm)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings.png)  [![CCSM â€œAnimationâ€ Configuration](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings-animation_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings-animation.png)
 
 
 
@@ -94,7 +97,7 @@ Compiz Fusion has a completely new manager for handling its plugins and settings
 The _animation_ plugin produces beautiful window effects on window transformations (such as closing the window, minimising, etc.). Below you can see the _Burn_, _Explode_ and even a _Airplane_ effect shown:
 
 
-[![Burn Animation]({{ site.baseurl }}/assets/animation-burn_thumb.jpg)]({{ site.baseurl }}/assets/animation-burn.png) [![Explode Animation]({{ site.baseurl }}/assets/animation-explode_thumb.jpg)]({{ site.baseurl }}/assets/animation-explode.png) [![Airplane Animation]({{ site.baseurl }}/assets/animation-airplane_thumb.jpg)]({{ site.baseurl }}/assets/animation-airplane.png)
+[![Burn Animation](//news.opensuse.org/wp-content/uploads/2007/08/animation-burn_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/animation-burn.png) [![Explode Animation](//news.opensuse.org/wp-content/uploads/2007/08/animation-explode_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/animation-explode.png) [![Airplane Animation](//news.opensuse.org/wp-content/uploads/2007/08/animation-airplane_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/animation-airplane.png)
 
 
 This really just shows you that, as David Reveman has said, _"We can do pretty much anything now, our imagination is the limit."_
@@ -106,7 +109,7 @@ This really just shows you that, as David Reveman has said, _"We can do pretty m
 Accessibility with computers is very important. Typically, desktop environments like [KDE](http://accessibility.kde.org/) and [GNOME](http://developer.gnome.org/projects/gap/) have specific accessibility projects which really help, but now Compiz as a window manager is also helping in this area. Compiz has had the _zoom_ plugin for some time, and now there is also a convenient _negative_ plugin which allows you to set a window or the screen negative. In addition to this, as the result of a Google Summer of Code [project](http://code.google.com/soc/2007/ubuntu/appinfo.html?csaid=8F42C619953A7B11) there is also a _Color Filter_ plugin allowing you to directly filter colors for accessibility purposes.
 
 
-[![Negative Plugin]({{ site.baseurl }}/assets/accessibility-negative_thumb.jpg)]({{ site.baseurl }}/assets/accessibility-negative.png) [![Negative - Full Screen]({{ site.baseurl }}/assets/negative_thumb.jpg)]({{ site.baseurl }}/assets/negative.png) [![Color Filter]({{ site.baseurl }}/assets/color-filter_thumb.jpg)]({{ site.baseurl }}/assets/color-filter.png)
+[![Negative Plugin](//news.opensuse.org/wp-content/uploads/2007/08/accessibility-negative_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/accessibility-negative.png) [![Negative - Full Screen](//news.opensuse.org/wp-content/uploads/2007/09/negative_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/negative.png) [![Color Filter](//news.opensuse.org/wp-content/uploads/2007/09/color-filter_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/color-filter.png)
 
 
 
@@ -118,13 +121,13 @@ Accessibility with computers is very important. Typically, desktop environments 
 There have been many great touch-ups to the standard Cube that is available with Compiz. Among these is a nice _Cube Reflection_ plugin, as shown below. The boundaries of your imagination are stretched that extra bit further when you see that the Cube can display _Atlantis_ (fish, whales, and sharks swimming) or _Cube Gears_ turning right inside the cube! Check below:
 
 
-[![Cube Reflection]({{ site.baseurl }}/assets/cube-reflection_thumb.jpg)]({{ site.baseurl }}/assets/cube-reflection.png) [![Atlantis Cube]({{ site.baseurl }}/assets/cube-atlantis_thumb.jpg)]({{ site.baseurl }}/assets/cube-atlantis.png) [![Gears in the CubeAtlantis Cube]({{ site.baseurl }}/assets/cube-gears_thumb.jpg)]({{ site.baseurl }}/assets/cube-gears.png)
+[![Cube Reflection](//news.opensuse.org/wp-content/uploads/2007/09/cube-reflection_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/cube-reflection.png) [![Atlantis Cube](//news.opensuse.org/wp-content/uploads/2007/08/cube-atlantis_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/cube-atlantis.png) [![Gears in the CubeAtlantis Cube](//news.opensuse.org/wp-content/uploads/2007/08/cube-gears_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/cube-gears.png)
 
 
 Now, the great thing about the cube is that it helps you visualise your extra workspaces in a 3D model, but one of its weaknesses is that you cannot easily view all workspaces at the same time. This problem is remedied with the beautiful _Expo_ plugin, allowing you to easily view all workspaces at once, head over to another workspace, or even move windows in between your workspaces:
 
 
-[![Expo Plugin]({{ site.baseurl }}/assets/expo_thumb.jpg)]({{ site.baseurl }}/assets/expo.png)
+[![Expo Plugin](//news.opensuse.org/wp-content/uploads/2007/08/expo_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/expo.png)
 
 
 
@@ -136,7 +139,7 @@ Now, the great thing about the cube is that it helps you visualise your extra wo
 The new plugins certainly are not restricted to making it easier for you to work with your multiple desktops, but also with your windows. Compiz has typically had the _Scale_ and classic _Application Switcher_ plugin, but now there are two other ways for you to cycle through and select among your windows: a _Ring Switcher_ and a _Shift Switcher_. The Ring Switcher rotates the Windows as you press _Super+Tab_, and the Shift Switcher focuses onto one window while placing the others to the side; you can then shift which window is focused, while throwing the others to the side.
 
 
-[![Ring Switcher]({{ site.baseurl }}/assets/ring-switcher_thumb.jpg)]({{ site.baseurl }}/assets/ring-switcher.png) [![Shift Switcher]({{ site.baseurl }}/assets/shift-switcher_thumb.jpg)]({{ site.baseurl }}/assets/shift-switcher.png)
+[![Ring Switcher](//news.opensuse.org/wp-content/uploads/2007/08/ring-switcher_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/ring-switcher.png) [![Shift Switcher](//news.opensuse.org/wp-content/uploads/2007/08/shift-switcher_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/shift-switcher.png)
 
 
 
@@ -151,9 +154,9 @@ All of the Compiz things above will be fully available in a default install, and
 ### Compiz Fusion with One-Click Install
 
 
-So how can you get Compiz Fusion running right now, presuming you have an appropriate Graphics Card? Very easily; on [openSUSE 10.3 beta 2](https://news.opensuse.org/?p=155), for example, you can use the new [One-Click Install](https://news.opensuse.org/?p=133) technology:
-![kde-logo.png]({{ site.baseurl }}/assets/kde-logo.png) If you installed the KDE desktop environment, then [click here](http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-kde.ymp).
-![gnome-logo.png]({{ site.baseurl }}/assets/gnome-logo.png)If you installed the GNOME desktop environment, then [click here](http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-gnome.ymp).
+So how can you get Compiz Fusion running right now, presuming you have an appropriate Graphics Card? Very easily; on [openSUSE 10.3 beta 2](//news.opensuse.org/?p=155), for example, you can use the new [One-Click Install](//news.opensuse.org/?p=133) technology:
+![kde-logo.png](//news.opensuse.org/wp-content/uploads/2007/09/kde-logo.png) If you installed the KDE desktop environment, then [click here](http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-kde.ymp).
+![gnome-logo.png](//news.opensuse.org/wp-content/uploads/2007/09/gnome-logo.png)If you installed the GNOME desktop environment, then [click here](http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-gnome.ymp).
 
 ..and you will be guided through the installation with a simple wizard. For the possibility of installing this on openSUSE 10.2, and for more information, please see the [Compiz Fusion wiki page](http://opensuse.org/Compiz_Fusion).
 
@@ -204,7 +207,7 @@ I caught up with Jigish to learn a little more about the Compiz Fusion developme
 ### Could you tell us a little more about the Compiz Extras and Beryl merger? What exactly happened?
 
 
-First of all, thank you for doing a great job with [news.opensuse.org](https://news.opensuse.org), keeping us all informed of everything in and around SUSE world.
+First of all, thank you for doing a great job with [news.opensuse.org](//news.opensuse.org), keeping us all informed of everything in and around SUSE world.
 
 As soon as Beryl stable was released, all the developers got together to find out what direction we wanted our project to go. We had two choices: either we go our own way and take a drastically different approach to a composited desktop than Compiz, or enhance the already well-written Compiz Core by providing new exciting plugins, settings tool etc, a whole ecosystem built around Compiz Core. You know what path we decided to take.
 
@@ -238,3 +241,5 @@ Compiz Fusion project has a great web infrastructure that makes it very easy to 
 
 
 ### Thanks!
+
+Once you get cisco 300-075 [dissertationauthors.com](https://dissertationauthors.com/) dissertation writers exam dumps, you be a part of a select number of individuals - a professional team with confirmed skills

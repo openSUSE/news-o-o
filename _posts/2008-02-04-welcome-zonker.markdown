@@ -1,14 +1,17 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-02-04 13:00:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/02/04/welcome-zonker/
-title: "openSUSE Welcomes Zonker - The New Community Manager"
+slug: welcome-zonker
+title: openSUSE Welcomes Zonker - The New Community Manager
+wordpress_id: 640
 categories:
 - Announcements
 - Project
 ---
+
 I'd like to give a warm welcome to Joe 'Zonker' Brockmeier who joins the openSUSE project as "openSUSE community manager".  You can reach him directly at zonker@opensuse.org. He has his own openSUSE blog at [http://zonker.opensuse.org](http://zonker.opensuse.org), I advise to go over and see what he has to say himself!
 
 He is a long time Linux user and does a lot of writing about Linux and open source for several publications and conributed to books as well. Prior to his new role as community manager for openSUSE he served Linux Magazine as Editor-in-Chief. His personal webpage is [http://www.dissociatedpress.net](http://www.dissociatedpress.net).
@@ -28,6 +31,6 @@ Zonker will be travelling the next weeks and you can meet him and other openSUSE
 
 For those that wonder what happened with the "openSUSE Chief evangelist" position that was opened in October: this is exactly the position, we just found it more suitable to change the title of Joe.
 
-I have talked a lot with Zonker through the last weeks and look forward to working with him - and look forward meeting him soon in person here in Nürnberg!
+I have talked a lot with Zonker through the last weeks and look forward to working with him - and look forward meeting him soon in person here in NÃ¼rnberg!
 
-Andreas		
+Andreas

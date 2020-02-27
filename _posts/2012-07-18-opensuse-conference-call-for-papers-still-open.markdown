@@ -1,14 +1,15 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2012-07-18 00:00:42+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/07/18/opensuse-conference-call-for-papers-still-open/
-title: "openSUSE Conference 2012: Call For Papers still Open"
+slug: opensuse-conference-call-for-papers-still-open
+title: 'openSUSE Conference 2012: Call For Papers still Open'
+wordpress_id: 13715
 categories:
 - Conference
 ---
-
 
 ![By Frederic Crozat](http://farm7.staticflickr.com/6085/6055381155_344f265207.jpg)Your opportunity to impact the openSUSE conference in Prague, held October 20 - 23, 2012, through a presentation, leading a BoF session, or running a workshop is quickly fading away. The [Call For Papers](http://conference.opensuse.org/Call-for-papers/) closes on July 30. Submit your proposal [here](http://conference.opensuse.org/indico//confLogin.py?returnURL=http%3A%2F%2Fconference.opensuse.org%2Findico%2F%2FabstractSubmission.py%3FconfId%3D4&confId=4#interest).
 
@@ -29,5 +30,3 @@ The conference site if being updated frequently, thus check [back](http://confer
 
 
 
-
-		

@@ -1,18 +1,21 @@
 ---
-author: Christian Bruckmayer
+author: cbruckmayer
+comments: true
 date: 2014-08-06 18:11:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/08/06/gsoc-osem-goals-campaigns/
-title: "GSoC: Open Source Event Manager Goals & Campaigns"
+slug: gsoc-osem-goals-campaigns
+title: 'GSoC: Open Source Event Manager Goals & Campaigns'
+wordpress_id: 18382
 categories:
 - Google Summer of Code
 ---
+
 _In the past 4 months during this years Google Summer of Code (GSoC), a global program that offers student developers stipends to write code for open source software projects, Christian Bruckmayer collaborated with other students and mentors to code a dashboard for the Open Source Event Manager (OSEM). In this series of posts Christian will tell you about his project and what he has learned from this experience._
 
-![Google Summer of Code 2014 Logo]({{ site.baseurl }}/assets/GoogleSummer_2014logo-300x270.jpg)
+![Google Summer of Code 2014 Logo](/wp-content/uploads/2014/07/GoogleSummer_2014logo.jpg)
 
-![Christian Bruckmayer]({{ site.baseurl }}/assets/3799140-150x150.jpeg)Hey there, Christian here again. This is my second post in a three post series about my GSoC project, last week I explained the dashboard in my post [OSEM: Conference Dashboard](https://news.opensuse.org/2014/07/30/gsoc-open-source-event-manager-organizer-dashboard/). You should go and read that if you haven't already! This week I would like to tell you about another feature that I have implemented during this summer: Conference Goals & Campaigns.
+![Christian Bruckmayer](/wp-content/uploads/2014/07/3799140.jpeg)Hey there, Christian here again. This is my second post in a three post series about my GSoC project, last week I explained the dashboard in my post [OSEM: Conference Dashboard](https://news.opensuse.org/2014/07/30/gsoc-open-source-event-manager-organizer-dashboard/). You should go and read that if you haven't already! This week I would like to tell you about another feature that I have implemented during this summer: Conference Goals & Campaigns.
 
 <!-- more -->
 
@@ -113,7 +116,7 @@ Another idea we came up are marketing campaigns. This is an incredible useful fe
 
 Now we know whether the registration comes from our blog article or a tweet! That's awesome, isn't it?
 
-![OSEM Campaigns List]({{ site.baseurl }}/assets/campaigns_list-1024x314.png)
+![OSEM Campaigns List](/wp-content/uploads/2014/08/campaigns_list.png)
 
 In addition you can combine the marketing campaign with specific targets. If an organizer for example wants to generate 20 registrations with a tweet, he can generate a target _'20 registrations'_ and then attach it to an campaign. Now he can easily monitor the success of his goal.
 
@@ -148,7 +151,7 @@ For this to work I had to implement the following method:
 
 In the end we calculate a hash with all the relevant data which we display on our dashboard:
 
-[![campaigns_targets]({{ site.baseurl }}/assets/campaigns_targets.png)]({{ site.baseurl }}/assets/campaigns_targets.png)
+[![campaigns_targets](/wp-content/uploads/2014/08/campaigns_targets.png)](/wp-content/uploads/2014/08/campaigns_targets.png)
 
 That's it for the Goals & Campaigns feature of the Open Source Event Manager. I hope you again enjoyed my summary, next week I'm going less technical on you and will tell you what GSoC taught me. Till then!
 
@@ -165,4 +168,4 @@ Don't forget to check out my other posts in this series
 	
   * [GSoC: What I have learned](https://news.opensuse.org/2014/08/14/gsoc-what-i-have-learned/)
 
-		
+

@@ -1,14 +1,16 @@
 ---
 author: Kostas Koudaras
+comments: true
 date: 2014-10-08 07:00:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/10/08/opensuse-users-and-the-new-linux-foundation-certification-programs/
-title: "openSUSE users and the new Linux Foundation Certification Programs\
-  "
+slug: opensuse-users-and-the-new-linux-foundation-certification-programs
+title: openSUSE users and the new Linux Foundation Certification Programs
+wordpress_id: 18595
 categories:
 - Project
 ---
+
 Hello Geekos,
 
 You may be aware the Linux Foundation recently launched two
@@ -41,4 +43,4 @@ After registering for the exam, you have 12 months schedule and
 actually take the exam, so your can register your discount and worry
 about taking the exam after you've had some time to study.
 
-Have a lot of fun!		
+Have a lot of fun!

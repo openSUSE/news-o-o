@@ -1,27 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-08 01:06:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/08/people-of-opensuse-detlef-reichelt/
-title: "People of openSUSE: Detlef Reichelt"
+slug: people-of-opensuse-detlef-reichelt
+title: 'People of openSUSE: Detlef Reichelt'
+wordpress_id: 677
 categories:
 - People of openSUSE
 ---
+
 Do you know who is behind the [PackMan](http://packman.links2linux.org/) project? Then it's time to we present you Detlef Reichelt - PackMan project maintainer and [openSUSE Member](http://en.opensuse.org/Members)!
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![detlef_reichelt.jpg]({{ site.baseurl }}/assets/detlef_reichelt.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|OBS/Wiki: drcux, IRC: Detlef|
-|**Homepage:**|[www.die-mafia.de](http://www.die-mafia.de)|
-|**Blog:**|No blog...|
-|||
-|**Favorite season:**|Summer, I like to spent my evening in my garden.|
-|**Motto:**|Have fun!|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![detlef_reichelt.jpg](/wp-content/uploads/2008/03/detlef_reichelt.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >OBS/Wiki: drcux, IRC: Detlef
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[www.die-mafia.de](http://www.die-mafia.de)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >No blog...
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Summer, I like to spent my evening in my garden.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Have fun!
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -149,7 +241,7 @@ One word: YaST!
 #### Which members of the openSUSE community have you met in person?
 
 
-I met many people at the last "SUSE-Release-Party" in Nürnberg, i.e. Darix, Henne, AJ and more SUSE-Guys, Pascal and many members of the PackMan-Team.
+I met many people at the last "SUSE-Release-Party" in NÃ¼rnberg, i.e. Darix, Henne, AJ and more SUSE-Guys, Pascal and many members of the PackMan-Team.
 
 
 
@@ -216,7 +308,7 @@ More skill in Python.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Doesn't matter...
@@ -229,7 +321,7 @@ Doesn't matter...
 #### Which is your favorite movie scene?
 
 
-Werner - Beinhart: Holzbein Kiel vs. Süderbrarup
+Werner - Beinhart: Holzbein Kiel vs. SÃ¼derbrarup
 
 
 
@@ -287,7 +379,7 @@ Relay in the sun.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Emigrate to a place with more sunshine.
@@ -297,7 +389,7 @@ Emigrate to a place with more sunshine.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Here and now.
@@ -307,7 +399,7 @@ Here and now.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Why?
@@ -362,5 +454,3 @@ My family.
 
 (none)
 
-
-		

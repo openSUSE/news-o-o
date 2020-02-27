@@ -1,28 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2008-01-25 12:00:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/01/25/people-of-opensuse-wolfgang-rosenauer/
-title: "People of openSUSE: Wolfgang Rosenauer"
+slug: people-of-opensuse-wolfgang-rosenauer
+title: 'People of openSUSE: Wolfgang Rosenauer'
+wordpress_id: 617
 categories:
 - People of openSUSE
 ---
+
 Mostly known for his work on openSUSE for packaging Mozilla applications and for testing the distribution, we present you the community contributor Wolfgang Rosenauer.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![wolfgang_rosenauer.jpg]({{ site.baseurl }}/assets/wolfgang_rosenauer.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|wolfiR|
-|**Homepage:**|Not really|
-|**Blog:**|[http://www.rosenauer.org/blog/](http://www.rosenauer.org/blog/)|
-|||
-|**Favorite season:**|They all have their own charm but I prefer the ones where you can actually leave the house w/o clothing up.|
-|**Motto:**|Never thought about that.|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![wolfgang_rosenauer.jpg](/wp-content/uploads/2008/01/wolfgang_rosenauer.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >wolfiR
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >Not really
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://www.rosenauer.org/blog/](http://www.rosenauer.org/blog/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >They all have their own charm but I prefer the ones where you can actually leave the house w/o clothing up.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Never thought about that.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -238,7 +328,7 @@ Too many to list.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 If it not only crashes for me I would feel fine and would spend more time with my family.
@@ -308,7 +398,7 @@ I've enjoyed beach holidays in the past and still like them.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Buy a few things and redeem money for my house.
@@ -318,7 +408,7 @@ Buy a few things and redeem money for my house.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Depends on how the future look like and in worst case in the present.
@@ -328,7 +418,7 @@ Depends on how the future look like and in worst case in the present.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Usually not. Why would I?
@@ -381,4 +471,4 @@ There were more questions equally hard to answer.
 #### What other question would you like to answer? And what would you answer?
 
 
-(none)		
+(none)

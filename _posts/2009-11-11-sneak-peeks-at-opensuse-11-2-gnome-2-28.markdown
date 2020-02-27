@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-11-11 07:30:38+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/11/11/sneak-peeks-at-opensuse-11-2-gnome-2-28/
-title: "Sneak Peeks at openSUSE 11.2: GNOME 2.28"
+slug: sneak-peeks-at-opensuse-11-2-gnome-2-28
+title: 'Sneak Peeks at openSUSE 11.2: GNOME 2.28'
+wordpress_id: 2476
 categories:
 - Distribution
 tags:
 - GNOME
 ---
+
 With openSUSE 11.2 right around the corner, let's take a look at what's new and interesting in the GNOME desktop for this release. Highlights include a preview of GNOME 3.0, new applets and application updates, and the incredibly attractive Sonar theme new for 11.2.
 
 [![Sonar Theme and Xinerama on openSUSE 11.2](http://farm3.static.flickr.com/2791/4090185161_9a7976304d.jpg)](http://www.flickr.com/photos/jzb/4090185161/)
@@ -18,7 +21,7 @@ For users coming from 11.1, openSUSE 11.2 actually features two GNOME releases w
 
 Nautilus now has a plugin to allow quick and easy file sharing. Just right-click on the folder you'd like to share and select "Sharing Options." This makes use of Samba, so you need to enable directory sharing under the Samba Server module in YaST.
 
-(http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)
+[caption id="" align="alignleft" width="362" caption="New and Improved Cheese"][![New and Improved Cheese](http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)](http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)[/caption]
 
 The Webcam application for GNOME, Cheese, includes some enhancements for 2.28, including a redesigned interface that's better suited for netbooks.
 
@@ -32,4 +35,4 @@ Want to get a preview of GNOME 3.0? The final GNOME 3.0 release isn't due until 
 
 And, of course, you'll find Firefox as the default Web browser for openSUSE instead of Epiphany. openSUSE users will find the most recent stable version of Firefox (3.5) on their GNOME desktop, though Epiphany and its new Webkit backend are available in the openSUSE 11.2 repositories.
 
-All in all, there's a lot to look forward to in GNOME in openSUSE 11.2. Be ready to grab it on November 12th!		
+All in all, there's a lot to look forward to in GNOME in openSUSE 11.2. Be ready to grab it on November 12th!

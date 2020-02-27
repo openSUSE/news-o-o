@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-05-01 19:35:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/05/01/opensuse-weekly-news-issue-121-is-out/
-title: "openSUSE Weekly News, issue 121 is out!"
+slug: opensuse-weekly-news-issue-121-is-out
+title: openSUSE Weekly News, issue 121 is out!
+wordpress_id: 3214
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to annouunce the new Weekly News #121
 
 <!-- more -->
@@ -280,7 +283,7 @@ We are pleased to annouunce the new Weekly News #121
     * [8.1 For Desktop Users](http://en.opensuse.org/OpenSUSE_Weekly_News/121#For_Desktop_Users)
 
 	
-      * [8.1.1 Make Tech Easier/Tavis J. Hampton: How to Use KDE™s Clipboard and Klipper App](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Make_Tech_Easier.2FTavis_J._Hampton:_How_to_Use_KDE.E2.80.99s_Clipboard_and_Klipper_App)
+      * [8.1.1 Make Tech Easier/Tavis J. Hampton: How to Use KDEâ€™s Clipboard and Klipper App](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Make_Tech_Easier.2FTavis_J._Hampton:_How_to_Use_KDE.E2.80.99s_Clipboard_and_Klipper_App)
 
 
 
@@ -325,13 +328,13 @@ We are pleased to annouunce the new Weekly News #121
     * [9.1 Jakub Steiner: Symbolic Moment](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Jakub_Steiner:_Symbolic_Moment)
 
 	
-    * [9.2 Shayon Mukherjee: Part 1 “ openSUSE team categorization](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Shayon_Mukherjee:_Part_1_.E2.80.93_openSUSE_team_categorization)
+    * [9.2 Shayon Mukherjee: Part 1 â€“ openSUSE team categorization](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Shayon_Mukherjee:_Part_1_.E2.80.93_openSUSE_team_categorization)
 
 	
     * [9.3 Michael Andres: libzyppp-7.4: Cleanup when deleting packages](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Michael_Andres:_libzyppp-7.4:_Cleanup_when_deleting_packages)
 
 	
-    * [9.4 Klaus Kämpf: Satsolver bindings documentation available](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Klaus_K.C3.A4mpf:_Satsolver_bindings_documentation_available)
+    * [9.4 Klaus KÃ¤mpf: Satsolver bindings documentation available](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Klaus_K.C3.A4mpf:_Satsolver_bindings_documentation_available)
 
 
 
@@ -391,7 +394,7 @@ We are pleased to annouunce the new Weekly News #121
     * [11.3 Reviews and Essays](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Reviews_and_Essays)
 
 	
-      * [11.3.1 Journal of an Open Sourcesee/OgMaciel: GNOME: Week in Review: April 18th “ 23rd, 2010](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Journal_of_an_Open_Sourcesee.2FOgMaciel:_GNOME:_Week_in_Review:_April_18th_.E2.80.93_23rd.2C_2010)
+      * [11.3.1 Journal of an Open Sourcesee/OgMaciel: GNOME: Week in Review: April 18th â€“ 23rd, 2010](http://en.opensuse.org/OpenSUSE_Weekly_News/121#Journal_of_an_Open_Sourcesee.2FOgMaciel:_GNOME:_Week_in_Review:_April_18th_.E2.80.93_23rd.2C_2010)
 
 	
       * [11.3.2 h-online: The H Week - Microsoft's Android patents, HP gets Palm, Symantec gets PGP and Ubuntu 10.04 arrives](http://en.opensuse.org/OpenSUSE_Weekly_News/121#h-online:_The_H_Week_-_Microsoft.27s_Android_patents.2C_HP_gets_Palm.2C_Symantec_gets_PGP_and_Ubuntu_10.04_arrives)
@@ -525,7 +528,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 570 (-2) 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) “ [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) “ [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) â€“ [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
 
 
 
@@ -646,7 +649,7 @@ The Build Service now hosts 12474 (+140) projects, 93061 (+408) packages, 21922 
 ####  [Miguel de Icaza: MonoTouch and Apple's Section 3.3.1: Two Theories](http://tirania.org/blog/archive/2010/Apr-28.html)
 
 
-"Before April 8th, developers targeting the iPhone had to deal with this section:  3.3.1 ” Applications may only use Documented APIs in the manner prescribed by Apple and must not use or call any private APIs.  The above is a pretty reasonable requirement as it gives Apple the chance to not have to maintain and support internal APIs, temporary APIs or APIs that have not fully matured." 
+"Before April 8th, developers targeting the iPhone had to deal with this section:  3.3.1 â€” Applications may only use Documented APIs in the manner prescribed by Apple and must not use or call any private APIs.  The above is a pretty reasonable requirement as it gives Apple the chance to not have to maintain and support internal APIs, temporary APIs or APIs that have not fully matured." 
 </td>
 </tr>
 </tbody>
@@ -806,7 +809,7 @@ The Build Service now hosts 12474 (+140) projects, 93061 (+408) packages, 21922 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -878,7 +881,7 @@ The Build Service now hosts 12474 (+140) projects, 93061 (+408) packages, 21922 
 ####  [Andrew Wafaa: Another outlet for openSUSE TV](http://lizards.opensuse.org/2010/04/24/another-outlet-for-opensuse-tv/)
 
 
-"At one of the project meetings, it was highlighted that our selected video service provider isn™t the easiest to reach from some parts of the world. So I was assigned the task of finding an alternative/complimentary service that would be acceptable.  The decision I came to, and confirmed with others that they were happy, was to use YouTube as a complimentary service to BlipTV. So yes people we now have an Official YouTube channel. I™d like to say a huge thanks to Leslie Hawthorn for enabling this for us, and the fine folks over at Google & YoutTube. There is very little content on there at the moment, but that will change shortly as I will sync the content from BlipTV across."  
+"At one of the project meetings, it was highlighted that our selected video service provider isnâ€™t the easiest to reach from some parts of the world. So I was assigned the task of finding an alternative/complimentary service that would be acceptable.  The decision I came to, and confirmed with others that they were happy, was to use YouTube as a complimentary service to BlipTV. So yes people we now have an Official YouTube channel. Iâ€™d like to say a huge thanks to Leslie Hawthorn for enabling this for us, and the fine folks over at Google & YoutTube. There is very little content on there at the moment, but that will change shortly as I will sync the content from BlipTV across."  
 
 
 ####  [openSUSE TV: openSUSE Conference 2009 - openSUSE and ARM: GSoC and Beyond](http://blip.tv/file/3527097)
@@ -932,7 +935,7 @@ The Build Service now hosts 12474 (+140) projects, 93061 (+408) packages, 21922 
 ####  [openSUSE TV: openSUSE Conference 2009 - Samba and openSUSE](http://blip.tv/file/3547855)
 
 
-"Lars Müller takes us through interoperating with other operating systems using Samba."  
+"Lars MÃ¼ller takes us through interoperating with other operating systems using Samba."  
 
 
 ####  [openSUSE TV: openSUSE Conference 2009 - Closing Keynote: Open Development in the trenches. A decade at the Apache Software Foundation](http://blip.tv/file/3556255)
@@ -944,7 +947,7 @@ The Build Service now hosts 12474 (+140) projects, 93061 (+408) packages, 21922 
 ####  [openSUSE TV: openSUSE Conference 2009 - Legal Aspects of Distribution Development](http://blip.tv/file/3553860)
 
 
-"Jürgen Weigert goes through the often avoided but (...)"  
+"JÃ¼rgen Weigert goes through the often avoided but (...)"  
 
 
 ###  Events
@@ -955,10 +958,10 @@ Past:
 
 
 	
-  * [**April 21, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**April 21, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 	
-  * [**April 22, 2010: openSUSE conference kick-off meeting**](https://news.opensuse.org/2010/04/20/opensuse-conference-kick-off-meeting/)
+  * [**April 22, 2010: openSUSE conference kick-off meeting**](http://news.opensuse.org/2010/04/20/opensuse-conference-kick-off-meeting/)
 
 	
   * [** April 24, 2010: Linuxwochen (Linuxtage Graz), Austria**](http://www.linuxtage.at/)
@@ -973,10 +976,10 @@ Past:
   * [** April 24-25, 2010: FOSSCOMM 2010, Thessaloniki (Greece)**](http://www.fosscomm.gr/)
 
 	
-  * [** April 27, 2010: First openSUSE-LXDE Meeting**](https://news.opensuse.org/2010/04/21/first-opensuse-lxde-meeting/)
+  * [** April 27, 2010: First openSUSE-LXDE Meeting**](http://news.opensuse.org/2010/04/21/first-opensuse-lxde-meeting/)
 
 	
-  * [**April 28, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/03/09/german-wiki-team-meeting/)
+  * [**April 28, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/03/09/german-wiki-team-meeting/)
 
 
 Upcoming: 
@@ -987,25 +990,25 @@ Upcoming:
   * [** May 1-2, 2010: oggcamp Liverpool**](http://oggcamp.org/)
 
 	
-  * [** May 4, 2010: openSUSE Marketing IRC Meeting**](https://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
+  * [** May 4, 2010: openSUSE Marketing IRC Meeting**](http://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
 
 	
-  * [** May 5, 2010: openSUSE Project Meeting**](https://news.opensuse.org/2010/02/09/opensuse-project-meeting-47/)
+  * [** May 5, 2010: openSUSE Project Meeting**](http://news.opensuse.org/2010/02/09/opensuse-project-meeting-47/)
 
 	
-  * [** May 5, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/03/09/german-wiki-team-meeting/)
+  * [** May 5, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/03/09/german-wiki-team-meeting/)
 
 	
-  * [** May 5, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [** May 5, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 	
   * [** May 6-8, 2010: Linuxwochen Wien/Austria**](http://linuxwochen.at/index.php?option=com_content&view=article&id=125&Itemid=32)
 
 	
-  * [** May 12, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/03/09/german-wiki-team-meeting/)
+  * [** May 12, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/03/09/german-wiki-team-meeting/)
 
 	
-  * [** May 15, 2010: openSUSE Weekly News Team Meeting**](https://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/)
+  * [** May 15, 2010: openSUSE Weekly News Team Meeting**](http://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/)
 
 
 
@@ -1013,7 +1016,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 	
-  * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/Ambassador/Events)
+  * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/Ambassador/Events)
 
 
 
@@ -1041,7 +1044,7 @@ Upcoming:
 ####  [Alex Barrios: First round of pictures from the FLISOL Venezuela](http://lizards.opensuse.org/2010/04/26/first-round-of-pictures-from-the-flisol-venezuela/)
 
 
-"The experience of this year with openSUSE FLISOL this was very rewarding ¦ Attendees were very interested in our distribution and of course freed a lot of machines with only openSUSE Installed.  A lot of happy faces after they see YaST and how easy somethings are.  Of course, the main character was our beloved Gecko, who captivated eyes, picking fights, tears and others because they all wanted a bit of it! xD"  
+"The experience of this year with openSUSE FLISOL this was very rewarding â€¦ Attendees were very interested in our distribution and of course â€œfreedâ€ a lot of machines with only openSUSE Installed.  A lot of happy faces after they see YaST and how easy somethings are.  Of course, the main character was our beloved â€œGeckoâ€, who captivated eyes, picking fights, tears and others because they all wanted a bit of it! xD"  
 
 
 ####  [Michal Hrusecky: LinuxExpo 2010](http://michal.hrusecky.net/index.php/blog/show/LinuxExpo-2010.html)
@@ -1053,7 +1056,7 @@ Upcoming:
 ####  [Jigish Gohil: Trophy from IBM Develothon 2010](http://lizards.opensuse.org/2010/04/27/trophy-from-ibm-develothon-2010/)
 
 
-"Went to IBM Develothon here in Baroda(Vadodara) today, did a small presentation on openSUSE Edu Li-f-e during the unconference. This is what I brought home..."  
+"Went to IBM Develothon here in Baroda(Vadodara) today, did a small presentation on openSUSE Edu Li-f-e during the â€œunconferenceâ€. This is what I brought home..."  
 
 
 ####  [Raul LibÃ³rio: FLISOL - Salvador/Bahia - Brazil](http://lists.opensuse.org/opensuse-marketing/2010-04/msg00119.html)
@@ -1126,7 +1129,7 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 ####  [OBS/Petr Mladek: OpenOffice_org 3.2.1 beta3 available for openSUSE](http://lizards.opensuse.org/2010/04/27/openoffice_org-3_2_0_99_3/)
 
 
-"I™m happy to announce OpenOffice.org 3.2.1 beta3 packages for openSUSE. They are available in the Build Service OpenOffice:org:UNSTABLE project, are based on the upstream 3.2.1-beta sources and include many Go-oo fixes and improvements. Please, look for more details about the openSUSE OOo build on the wiki page.  The packages are beta versions and might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, ¦  As usual, we kindly ask any interested beta testers to try the package and report bugs. See also the list of known bugs."  
+"Iâ€™m happy to announce OpenOffice.org 3.2.1 beta3 packages for openSUSE. They are available in the Build Service OpenOffice:org:UNSTABLE project, are based on the upstream 3.2.1-beta sources and include many Go-oo fixes and improvements. Please, look for more details about the openSUSE OOo build on the wiki page.  The packages are beta versions and might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, â€¦  As usual, we kindly ask any interested beta testers to try the package and report bugs. See also the list of known bugs."  
 
 
 ####  [Packman: ogre 1.7.1-0.pm.1.1](http://packman.links2linux.org/package/ogre)
@@ -1152,7 +1155,7 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
   * You can find other interesting Packages at: 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1307,10 +1310,10 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 
 
 
-####  [Make Tech Easier/Tavis J. Hampton: How to Use KDE™s Clipboard and Klipper App](http://maketecheasier.com/use-kde-clipboard-and-klipper-app/2010/04/26)
+####  [Make Tech Easier/Tavis J. Hampton: How to Use KDEâ€™s Clipboard and Klipper App](http://maketecheasier.com/use-kde-clipboard-and-klipper-app/2010/04/26)
 
 
-"The clipboard is one of the oldest and most important features of desktop computing. With it, you can temporarily store pictures, images, and even file information in the system™s memory, and then copy or move that information to a new destination.  KDE has an advanced clipboard system, largely due to a small program called Klipper, which can store more than one piece of data. KDE also has the ability to copy and move files with copying and pasting, and automatic creation of files using clipboard data."  
+"The clipboard is one of the oldest and most important features of desktop computing. With it, you can temporarily store pictures, images, and even file information in the systemâ€™s memory, and then copy or move that information to a new destination.  KDE has an advanced clipboard system, largely due to a small program called Klipper, which can store more than one piece of data. KDE also has the ability to copy and move files with copying and pasting, and automatic creation of files using clipboard data."  
 
 
 ###  For Commandline/Script Newbies
@@ -1334,7 +1337,7 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 ####  [Stefan Seyfried: Rebuilding a single kernel module](http://seife.kernalert.de/blog/2010/04/28/rebuilding-a-single-kernel-module/)
 
 
-"Due to Bug 596844, I had to rebuild the i915 module with a patch. I have done things like that quite often over the last years, and every time I have to dig through the documentation, so I™ll put it up here in the hope that I™ll find it easier in the future and that it might be useful for somebody else ;)"  
+"Due to Bug 596844, I had to rebuild the i915 module with a patch. I have done things like that quite often over the last years, and every time I have to dig through the documentation, so Iâ€™ll put it up here in the hope that Iâ€™ll find it easier in the future and that it might be useful for somebody else ;)"  
 
 
 ###  For System Administrators
@@ -1346,7 +1349,7 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 ####  [Petr Baudis: Fixing NTP Refusing to Sync](http://log.or.cz/?p=80)
 
 
-"I have just been confronted by NTP absolutely refusing to touch my system™s clock. The trouble with NTP is that it is absolute PITA to debug it at all since when it does not get in sync with its peers, it goes at great lengths to make its reasons as incomprehensible as possible.  For some reason, my system had absolutely massive drift “ something in the order of half a second per minute, making the clock drift by several tens of minutes per day. So I installed NTP and hoped that it would magically fix up the issue, but it turns out that NTP by itself is absolutely unhelpful not only in cases of big offset, but also in cases of big drift “ it will fix your clock when it is slightly inaccurate, but not when it is inaccurate a lot (¦that is, when you would want to use it all the more)."  
+"I have just been confronted by NTP absolutely refusing to touch my systemâ€™s clock. The trouble with NTP is that it is absolute PITA to debug it at all since when it does not get in sync with its peers, it goes at great lengths to make its reasons as incomprehensible as possible.  For some reason, my system had absolutely massive drift â€“ something in the order of half a second per minute, making the clock drift by several tens of minutes per day. So I installed NTP and hoped that it would magically fix up the issue, but it turns out that NTP by itself is absolutely unhelpful not only in cases of big offset, but also in cases of big drift â€“ it will fix your clock when it is slightly inaccurate, but not when it is inaccurate a lot (â€¦that is, when you would want to use it all the more)."  
 
 
 ####  [Dedoimedo.com: Collecting and analyzing Linux kernel crashes - crash](http://www.dedoimedo.com/computers/crash.html)
@@ -1391,13 +1394,13 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 ####  [Jakub Steiner: Symbolic Moment](http://jimmac.musichall.cz/log/?p=974)
 
 
-"It was almost 9 years ago when the first ever scalable icon theme Gorilla came to be. One of the things I imagined to happen soon after was that the icon theme would inherit the colors from the widget theme to really feel integrated. That part never happened. Until now. But this time it™s not for the default theme and not because of visual integration. In fact, with 2.30 we seemingly stepped back from SVG and started using bitmaps when we introduced the high resolution icons."  
+"It was almost 9 years ago when the first ever scalable icon theme Gorilla came to be. One of the things I imagined to happen soon after was that the icon theme would inherit the colors from the widget theme to really feel integrated. That part never happened. Until now. But this time itâ€™s not for the default theme and not because of visual integration. In fact, with 2.30 we seemingly stepped back from SVG and started using bitmaps when we introduced the high resolution icons."  
 
 
-####  [Shayon Mukherjee: Part 1 “ openSUSE team categorization](http://shayonj.wordpress.com/2010/04/29/part-1-opensuse-team-categorization/)
+####  [Shayon Mukherjee: Part 1 â€“ openSUSE team categorization](http://shayonj.wordpress.com/2010/04/29/part-1-opensuse-team-categorization/)
 
 
-"Some of you crazy minds must have guessed from the topic and to the rest I™ll explain ;) . Yes , this is regard to the latest Team categorization process in the new Wiki instance . For the past few days myself along with rest of the community members ( P.M for a list :) ) have been working on this process and finally came up with something presentable . I know this is not 100% yet , so we require your suggestions and ideas. If you have something to say leave a comment or directly can contact me . By end of this week I plan to announce the page officially so send me your views quick . But I can be flexible on this , that said I am in no hurry.  Feel free to contact me on my work email , if you are not clear with something . . ."  
+"Some of you crazy minds must have guessed from the topic and to the rest Iâ€™ll explain ;) . Yes , this is regard to the latest Team categorization process in the new Wiki instance . For the past few days myself along with rest of the community members ( P.M for a list :) ) have been working on this process and finally came up with something presentable . I know this is not 100% yet , so we require your suggestions and ideas. If you have something to say leave a comment or directly can contact me . By end of this week I plan to announce the page officially so send me your views quick . But I can be flexible on this , that said I am in no hurry.  Feel free to contact me on my work email , if you are not clear with something . . ."  
 
 
 ####  [Michael Andres: libzyppp-7.4: Cleanup when deleting packages](http://mlandres.blogspot.com/2010/04/libzyppp-74-cleanup-when-deleting.html)
@@ -1406,7 +1409,7 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 "libzyppp-7.4 introduces a new /etc/zypp/zypp.conf option: (...)"  
 
 
-####  [Klaus Kämpf: Satsolver bindings documentation available](http://kkaempf.blogspot.com/2009/03/satsolver-bindings-documentation.html)
+####  [Klaus KÃ¤mpf: Satsolver bindings documentation available](http://kkaempf.blogspot.com/2009/03/satsolver-bindings-documentation.html)
 
 
 "One of the outstanding features of openSUSE is the Sat solver for package dependency resolution.  Somewhat unknown to most developers, Satsolver provides bindings for the three major scripting languages: Perl, Python and Ruby. The bindings provide an easy way to learn about the Satsolver API, to explore package metadata and play what-if scenarios installing, updating and deleting packages.  The bindings are created using SWIG together with an application layer on top of the raw libsatsolver. The focus is on usability and support of the scripting language, while hiding internals of the Satsolver implementation. (...)" 
@@ -1554,10 +1557,10 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 
 
 
-####  [Journal of an Open Sourcesee/OgMaciel: GNOME: Week in Review: April 18th “ 23rd, 2010](http://feedproxy.google.com/%7Er/JournalOfAnOpenSourcee/%7E3/nVWBvBvRA5Y/)
+####  [Journal of an Open Sourcesee/OgMaciel: GNOME: Week in Review: April 18th â€“ 23rd, 2010](http://feedproxy.google.com/%7Er/JournalOfAnOpenSourcee/%7E3/nVWBvBvRA5Y/)
 
 
-"Here™s what happened this week:  Quotes to brighten your day  Kind of ironic how my post titled Stop whining and improve your life attracted so much negativity in the comments area. From the Useful Django Tip Department: Reset The Admin Password  This comes straight from the Useful Django Tip department: How do you reset the admin password for a Django project when you™ve forgotten it?"  
+"Hereâ€™s what happened this week:  Quotes to brighten your day  Kind of ironic how my post titled â€œStop whining and improve your lifeâ€ attracted so much negativity in the comments area. From the â€œUseful Django Tipâ€ Department: Reset The Admin Password  This comes straight from the Useful Django Tip department: How do you reset the admin password for a Django project when youâ€™ve forgotten it?"  
 
 
 ####  [h-online: The H Week - Microsoft's Android patents, HP gets Palm, Symantec gets PGP and Ubuntu 10.04 arrives](http://rss.feedsportal.com/c/32569/f/491734/s/a48cf18/l/0L0Sh0Eonline0N0Csecurity0Cnews0Citem0CThe0EH0EWeek0EMicrosoft0Es0EAndroid0Epatents0EHP0Egets0EPalm0ESymantec0Egets0EPGP0Eand0EUbuntu0E10A0E0A40Earrives0E990A710A0Bhtml0Cfrom0Crss/story01.htm)
@@ -1614,7 +1617,7 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 <td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/File:OWN-oxygen-FCG.png)
 </td>
 
-<td > Do you have comments on any of the things mentioned in this article? Then head right over to the [news.opensuse.org story](https://news.opensuse.org/?p=3214) comment section and let us know! Communicate with or get help from the wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](http://en.opensuse.org/Communicate).
+<td > Do you have comments on any of the things mentioned in this article? Then head right over to the [news.opensuse.org story](http://news.opensuse.org/?p=3214) comment section and let us know! Communicate with or get help from the wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](http://en.opensuse.org/Communicate).
 
 
 
@@ -1622,7 +1625,7 @@ The openSUSE Forums have 45239 (+740) registered users - Most users ever online 
 
 If you would like to be a part of the openSUSE Weekly news, then please send an email over to [opensuse-marketing@opensuse.org](http://lists.opensuse.org/opensuse-marketing) (you need to [subscribe](http://en.opensuse.org/Communicate) first). Or you can go to the channel #opensuse-newsletter on irc.freenode.net.
 
-[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/?feed=rss2](https://news.opensuse.org/category/weekly-news/?feed=rss2)
+[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/?feed=rss2](http://news.opensuse.org/category/weekly-news/?feed=rss2)
 </td>
 </tr>
 </tbody>
@@ -1661,10 +1664,10 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [saigkill](http://en.opensuse.org/User:saigkill) [Talk](http://en.opensuse.org/User_talk:saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 	
-  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter) 
+  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter) 
 
 	
-  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 	
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/User_talk:HeliosReds) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1673,7 +1676,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/User_talk:Caf4926) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 	
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 	
   * add translators 
@@ -1711,8 +1714,8 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 
 
 
-[English](http://en.opensuse.org/OpenSUSE_Weekly_News/121) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/121) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/121) [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/121) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/121) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/121) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/121) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/121/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/121) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/121) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/121/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/121) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/121) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/121/swedish) [Äeština](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/121)
+[English](http://en.opensuse.org/OpenSUSE_Weekly_News/121) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/121) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/121) [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/121) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/121) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/121) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/121) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/121/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/121) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/121) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/121/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/121) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/121) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/121/swedish) [ÄeÅ¡tina](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/121)
 </td>
 </tr>
 </tbody>
-</table>		
+</table>

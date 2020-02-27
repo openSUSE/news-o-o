@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-07-31 17:04:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/07/31/opensuse-weekly-news-issue-134-is-out/
-title: "openSUSE Weekly News, Issue 134 is out!"
+slug: opensuse-weekly-news-issue-134-is-out
+title: openSUSE Weekly News, Issue 134 is out!
+wordpress_id: 3977
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our brand new openSUSE Weekly News 134! :-)
 <!-- more -->
 
@@ -41,19 +44,19 @@ We are pleased to announce our brand new openSUSE Weekly News 134! :-)
 
 
 
-  * [ The openSUSE Project welcomes Jos Poortvliet as new Community Manager](https://news.opensuse.org/?p=3977#The_openSUSE_Project_welcomes_Jos_Poortvliet_as_new_Community_Manager)
+  * [ The openSUSE Project welcomes Jos Poortvliet as new Community Manager](http://news.opensuse.org/?p=3977#The_openSUSE_Project_welcomes_Jos_Poortvliet_as_new_Community_Manager)
 
 
-  * [ SUSE Studio: SUSE Gallery launch](https://news.opensuse.org/?p=3977#SUSE_Studio:_SUSE_Gallery_launch)
+  * [ SUSE Studio: SUSE Gallery launch](http://news.opensuse.org/?p=3977#SUSE_Studio:_SUSE_Gallery_launch)
 
 
-  * [ Michal Hrusecky: openSUSE Paste](https://news.opensuse.org/?p=3977#Michal_Hrusecky:_openSUSE_Paste)
+  * [ Michal Hrusecky: openSUSE Paste](http://news.opensuse.org/?p=3977#Michal_Hrusecky:_openSUSE_Paste)
 
 
-  * [ h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.35 (Part 4) - Architecture and infrastructure](https://news.opensuse.org/?p=3977#h-online.2FThorsten_Leemhuis:_Kernel_Log:_Coming_in_2.6.35_.28Part_4.29_-_Architecture_and_infrastructure)
+  * [ h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.35 (Part 4) - Architecture and infrastructure](http://news.opensuse.org/?p=3977#h-online.2FThorsten_Leemhuis:_Kernel_Log:_Coming_in_2.6.35_.28Part_4.29_-_Architecture_and_infrastructure)
 
 
-  * [ Tuxradar: Reviewed: OpenSUSE 11.3](https://news.opensuse.org/?p=3977#Tuxradar:_Reviewed:_OpenSUSE_11.3)
+  * [ Tuxradar: Reviewed: OpenSUSE 11.3](http://news.opensuse.org/?p=3977#Tuxradar:_Reviewed:_OpenSUSE_11.3)
 
 
 
@@ -74,46 +77,46 @@ We are pleased to announce our brand new openSUSE Weekly News 134! :-)
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=3977#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=3977#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=3977#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=3977#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=3977#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=3977#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=3977#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=3977#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=3977#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=3977#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=3977#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=3977#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=3977#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=3977#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=3977#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=3977#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=3977#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=3977#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=3977#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=3977#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=3977#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=3977#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=3977#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=3977#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=3977#Credits)
+  * [ Credits](http://news.opensuse.org/?p=3977#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=3977#Translations)
+  * [ Translations](http://news.opensuse.org/?p=3977#Translations)
 
 
 
@@ -329,10 +332,10 @@ We hope that you will enjoy reading.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [The openSUSE Project welcomes Jos Poortvliet as new Community Manager](https://news.opensuse.org/2010/07/28/the-opensuse-project-welcomes-jos-poortvliet-as-new-community-manager/)
+####  [The openSUSE Project welcomes Jos Poortvliet as new Community Manager](http://news.opensuse.org/2010/07/28/the-opensuse-project-welcomes-jos-poortvliet-as-new-community-manager/)
 
 
-"We™re proud to announce today that Jos Poortvliet will join the openSUSE project and Novell as openSUSE Community Manager starting on August 1. With Jos we™ve found a leader with excellent community building experience combined with a very welcoming nature, many fresh, promising ideas and a strong drive to grow the openSUSE Project. Jos holds a degree in Organisational Psychology from the University of Utrecht and has gained valuable experience in several professional roles ranging from Project Manager at KPN to Service Level Manager at Royal Bank of Scotland. Last but not least, Jos is a leading member of the KDE Marketing Team and has helped Akademy and the Gran Canaria Desktop Summit attract a vibrant and collaborative audience. (...)"  
+"Weâ€™re proud to announce today that Jos Poortvliet will join the openSUSE project and Novell as openSUSE Community Manager starting on August 1. With Jos weâ€™ve found a leader with excellent community building experience combined with a very welcoming nature, many fresh, promising ideas and a strong drive to grow the openSUSE Project. Jos holds a degree in Organisational Psychology from the University of Utrecht and has gained valuable experience in several professional roles ranging from Project Manager at KPN to Service Level Manager at Royal Bank of Scotland. Last but not least, Jos is a leading member of the KDE Marketing Team and has helped Akademy and the Gran Canaria Desktop Summit attract a vibrant and collaborative audience. (...)"  
 
 
 ####  [SUSE Studio: SUSE Gallery launch](http://blog.susestudio.com/2010/07/suse-gallery-launch.html)
@@ -566,7 +569,7 @@ The numbers for all openSUSE project products are this week:
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Michal HrušeckÃ½: openSUSE Paste](https://michal.hrusecky.net/index.php/blog/show/SUSE-Paste.html)
+####  [Michal HruÅ¡eckÃ½: openSUSE Paste](https://michal.hrusecky.net/index.php/blog/show/SUSE-Paste.html)
 
 
 "It's been some time since I started working on openSUSE pastebin clone with Bento theme. I had some other duties so it took some time to find some final resting place for that. Some of you asked me for a better URL. I finally found it and since today SUSE Paste is running again on new address and it is ready to serve you face-wink.png I also wrote a simple script to make it easier to use it. So you can start using it, promoting openSUSE and if you encounter any problems, don't hesitate to report them. If you are interested in details behind this paste, continue reading, otherwise start pasting face-wink.png " 
@@ -776,7 +779,7 @@ Meeting Minutes
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://wiki.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://wiki.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -837,7 +840,7 @@ Meeting Minutes
   * [Gertjan Lettink (Knurpht)](https://users.opensuse.org/show/Knurpht) He works as Moderator in the Forums. 
 
 
-  * [Guido Berhörster (gberh)](https://users.opensuse.org/show/gberh) He works as Tester in Bugzilla, and works in the openSUSE BuildService." 
+  * [Guido BerhÃ¶rster (gberh)](https://users.opensuse.org/show/gberh) He works as Tester in Bugzilla, and works in the openSUSE BuildService." 
 
 
 
@@ -852,22 +855,22 @@ Past:
 
 
 
-  * [**July 27, 2010: openSUSE Marketing Team Meeting**](https://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-3/)
+  * [**July 27, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-3/)
 
 
-  * [**July 28, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**July 28, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
-  * [**July 29, 2010: openSUSE Conference Meeting**](https://news.opensuse.org/2010/07/28/opensuse-conference-meeting-2/)
+  * [**July 29, 2010: openSUSE Conference Meeting**](http://news.opensuse.org/2010/07/28/opensuse-conference-meeting-2/)
 
 
-  * [**July 31, 2010: openSUSE Conf: Call for Paper Ends**](https://news.opensuse.org/2010/07/06/opensuse-conf-call-for-paper-ends/)
+  * [**July 31, 2010: openSUSE Conf: Call for Paper Ends**](http://news.opensuse.org/2010/07/06/opensuse-conf-call-for-paper-ends/)
 
 
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://wiki.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://wiki.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -972,7 +975,7 @@ Past:
 ####  [Sascha Manns: New Package for openSUSE: Skrooge 0.7.2](http://saigkill.wordpress.com/2010/07/27/new-package-for-opensuse-skrooge-0-7-2/)
 
 
-"I™m pleased to announce the new Package 0.7.2 of the financial Software skrooge."  
+"Iâ€™m pleased to announce the new Package 0.7.2 of the financial Software skrooge."  
 
 
 ####  [OBS openSUSE:11.2:Update/MozillaFirefox r8 commited](http://hermes.opensuse.org/messages/4668785)
@@ -997,7 +1000,7 @@ Past:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1218,10 +1221,10 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [The Geek Stuff/Sasikala: 3 Unix Shell Scripts “ User Activity, View Processes, Display Memory](http://www.thegeekstuff.com/2010/07/3-shell-scripts/)
+####  [The Geek Stuff/Sasikala: 3 Unix Shell Scripts â€“ User Activity, View Processes, Display Memory](http://www.thegeekstuff.com/2010/07/3-shell-scripts/)
 
 
-"You might find the following three Linux / Unix shell scripts helpful.  * Display processes based on either %CPU or Memory Usage.  * Display which user is utilizing the CPU the most.  * Display system™s memory information “ total, used and free."  
+"You might find the following three Linux / Unix shell scripts helpful.  * Display processes based on either %CPU or Memory Usage.  * Display which user is utilizing the CPU the most.  * Display systemâ€™s memory information â€“ total, used and free."  
 
 
 ###  For Developers and Programmers
@@ -1242,7 +1245,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Coly Li: Don™t waste your SSD blocks](http://blog.coly.li/?p=124)
+####  [Coly Li: Donâ€™t waste your SSD blocks](http://blog.coly.li/?p=124)
 
 
 "These days, one of my colleagues asked me a question, he formatted an ~80G Ext3 file system on SSD. After mounted the file system, the df output was, ..." 
@@ -1295,13 +1298,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Andrew Wafaa: News from the Goblin](http://www.wafaa.eu/entry/news-from-the-goblin-1-34.html)
 
 
-"I thought I should let anyone that cares know what the latest status of my work is. What work? Getting MeeGo on openSUSE, of course! I'm calling it Smeegol “ SUSE MeeGo Linux, and this just happens to be the Teal Goblin “ Teal is the code name for 11.3 ;-)  Well I'm not quite there yet (unfortunately) :-( I have one major issue which is the Network Panel not displaying properly, and as such is difficult to use. I also have a smaller issue with the web panel, but that is more of an annoyance rather than a blocker."  
+"I thought I should let anyone that cares know what the latest status of my work is. What work? Getting MeeGo on openSUSE, of course! I'm calling it Smeegol â€“ SUSE MeeGo Linux, and this just happens to be the Teal Goblin â€“ Teal is the code name for 11.3 ;-)  Well I'm not quite there yet (unfortunately) :-( I have one major issue which is the Network Panel not displaying properly, and as such is difficult to use. I also have a smaller issue with the web panel, but that is more of an annoyance rather than a blocker."  
 
 
 ####  [Mike McCallister: openSUSE Strategy Discussion Takes Shape](http://metaverse.wordpress.com/2010/07/27/opensuse-strategy-discussion-takes-shape/)
 
 
-"A few weeks ago, I noted that the openSUSE Community Project was working on a new strategy. The purpose of the discussion is essentially to answer the question Why openSUSE?  I have to admit that, while I have a knee-jerk positive response to any democratic process that ends in a vote on something important, I wasn™t completely certain what the point of this exercise was. Today I™ve got a clue: (...)"  
+"A few weeks ago, I noted that the openSUSE Community Project was working on a new strategy. The purpose of the discussion is essentially to answer the question â€œWhy openSUSE?â€  I have to admit that, while I have a knee-jerk positive response to any democratic process that ends in a vote on something important, I wasnâ€™t completely certain what the point of this exercise was. Today Iâ€™ve got a clue: (...)"  
 
 
 ####  [R. Tyler Ballance: New Community Manager Jos Poortvliet joins openSUSE](http://feedproxy.google.com/%7Er/omgsuse/%7E3/vMKnqqPU1Mo/new-community-manager-jos-poortvliet-joins-opensuse)
@@ -1530,7 +1533,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://wiki.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://wiki.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/p=3977) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/p=3977) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://wiki.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -1539,7 +1542,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -1584,7 +1587,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://wiki.opensuse.org/User:Saigkill) [Talk](http://wiki.opensuse.org/User_talk:Saigkill) - [Contributions](http://wiki.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://wiki.opensuse.org/User:HeliosReds) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1593,7 +1596,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://wiki.opensuse.org/User:Caf4926) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -1659,7 +1662,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/134)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/134)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/134)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/134)
@@ -1698,4 +1701,3 @@ Delayed / to be translated:
 </table>
   
 
-		

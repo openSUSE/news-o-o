@@ -1,9 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-22 00:13:41+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/22/21530/
-title: "2018-2019 openSUSE Board Elections: Meet Dr. Axel Braun"
+slug: '21530'
+title: '2018-2019 openSUSE Board Elections: Meet Dr. Axel Braun'
+wordpress_id: 21530
 categories:
 - Announcements
 - Board
@@ -11,6 +14,7 @@ categories:
 - Events
 - Project
 ---
+
 
 
 
@@ -79,7 +83,7 @@ Currently I work as a business consultant for mostly large companies. Supply cha
 
 
 
-![]({{ site.baseurl }}/assets/DocB.png)**Dr. Axel Braun aka DocB**
+![](/wp-content/uploads/2019/01/DocB.png)**Dr. Axel Braun aka DocB**
 
 
 
@@ -191,7 +195,7 @@ Companies, especially those in the public sector, should be encouraged in the us
 
 
 
-![2018-2019 Election Poster contributed by Aris Winardi]({{ site.baseurl }}/assets/poster-election-184x300.png)2018-2019 Election Poster contributed by Aris Winardi
+![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)2018-2019 Election Poster contributed by Aris Winardi
 
 
 
@@ -405,4 +409,4 @@ Twitter: @coogor
 
 
 
-		
+

@@ -1,15 +1,18 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2011-10-25 19:37:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/25/testing-at-opensuse/
-title: "Help out with testing at openSUSE"
+slug: testing-at-opensuse
+title: Help out with testing at openSUSE
+wordpress_id: 11353
 categories:
 - Distribution
 - Infrastructure
 ---
-[![]({{ site.baseurl }}/assets/turing_test-243x300.png)](https://news.opensuse.org/2011/10/25/testing-at-opensuse/turing_test/)
+
+[![](/wp-content/uploads/2011/10/turing_test.png)](http://news.opensuse.org/2011/10/25/testing-at-opensuse/turing_test/)
 
 One of the most important activities during software development is testing. In FOSS community, software often gets tested by the developers themselves, other developers and volunteers. During the [openSUSE 12.1](http://en.opensuse.org/Portal:12.1) development process it has been important to keep [Factory](http://en.opensuse.org/Portal:Factory) working properly. Testing this is however a rather boring, repetitive task: the tester has to boot up a Factory ISO as often as possible and check if the basic applications start up and work. We don't like boring tasks so the openSUSE Project has been using the automated testing framework [openQA](http://openqa.opensuse.org) to test this release daily!
 
@@ -19,7 +22,7 @@ This article explains how **openQA** works and how you can help keep Factory wor
 ## Development Cycle
 
 
-Testing  is generally done on the latest development release, with additional testing sometimes done using updates from Factory to verify bug fixes. Everything in Factory is passed through our automated test framework openQA. You  can read more about openQA an the announcementÂ [openSUSE News](https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/). openQA is a great test suite  and is capable of producing videos of the whole process and also  screenshots. This greatly reduces the overhead for the testers. An overview of the test results can be found [here](http://openqa.opensuse.org).
+Testing  is generally done on the latest development release, with additional testing sometimes done using updates from Factory to verify bug fixes. Everything in Factory is passed through our automated test framework openQA. You  can read more about openQA an the announcementÂ [openSUSE News](http://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/). openQA is a great test suite  and is capable of producing videos of the whole process and also  screenshots. This greatly reduces the overhead for the testers. An overview of the test results can be found [here](http://openqa.opensuse.org).
 
 
 # Using openQA
@@ -32,7 +35,7 @@ Testing  is generally done on the latest development release, with additional te
 
 openQA can be used both for bug reporting and bug triaging. To find and report bugs using openQA just visit [the openQA test result page](http://openqa.opensuse.org/results/), browse through the web interface and look for failed tests. Click on the corresponding tests, to view the results. If your copy of openSUSE is different from the version that has been tested at openqa but you want to/need to do additional testing, fire up your vm and install the version openQA used (or a newer one). You can check for bugs in the tests that have not been autochecked and also look for hardware related (note that in this case you will need to install it on your system instead of a vm) and other possible bugs that openQA might have missed. If you find a bug, report the bug to our testing team or file the bug yourself. Be sure to make good use of the openSUSE Testing documentation [at the Testing portal](http://en.opensuse.org/openSUSE:Testing), the [Bug report how-to](http://en.opensuse.org/openSUSE:Submitting_bug_reports) and read the [Bug Reporting F.A.Q](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)!
 
-[![]({{ site.baseurl }}/assets/factory-tested.png)](https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/factory-tested/)
+[![](/wp-content/uploads/2011/10/factory-tested.png)](http://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/factory-tested/)
 
 
 ## Triaging Bugs
@@ -52,4 +55,4 @@ An important part of openQA are of course the tests themselves. The more tests a
 
 If you need help/support in testing, if you have topics to discuss or if you are just interested in this area, join the opensuse-testing@opensuse.org mailing list (see openSUSE:Mailing lists page how to subscribe). Have a look [at the Testing portal](http://en.opensuse.org/openSUSE:Testing) or directly contact our [ core testing team](http://en.opensuse.org/openSUSE:Testing_Core_team)
 
-**Happy testing!**		
+**Happy testing!**

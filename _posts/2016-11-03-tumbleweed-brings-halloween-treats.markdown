@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-11-03 15:30:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/11/03/tumbleweed-brings-halloween-treats/
-title: "Tumbleweed brings Halloween Treats"
+slug: tumbleweed-brings-halloween-treats
+title: Tumbleweed brings Halloween Treats
+wordpress_id: 20145
 categories:
 - Distribution
 tags:
@@ -16,6 +18,7 @@ tags:
 - Tumbleweed
 - yast
 ---
+
 ![](http://t11.deviantart.net/13Cgm_MTxwVA5G6Zipi1CnBO1wo=/300x200/filters:fixed_height(100,100):origin()/pre03/dea9/th/pre/f/2008/305/3/e/3e18fc7231ad42217914c48bd7c0f6f8.png)A new framework for desktop applications on Linux has been added to Tumbleweed and now users can enjoy the most up-to-date version of [Flatpak](http://flatpak.org/).
 
 Flatpak 0.6.13 arrived in the [20161028 snapshot ](https://lists.opensuse.org/opensuse-factory/2016-10/msg00672.html) last week and complements another package updated in the snapshot; [OSTree](https://ostree.readthedocs.io/en/latest/) 2016.12, which is a tool that combines a "git-like" model for committing and downloading bootable filesystem trees, along with a layer for deploying them and managing the bootloader configuration.
@@ -54,4 +57,4 @@ The two snapshots before the Flatpak snapshot ([snapshot 20161026](https://lists
 — lffl linux freedom (@linuxfreedom) [October 28, 2016](https://twitter.com/linuxfreedom/status/791949685426487301)</blockquote>
 
 
-		
+

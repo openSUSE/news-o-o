@@ -1,17 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-12-22 22:27:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/12/22/linux-for-education-updated/
-title: "Linux for Education Updated"
+slug: linux-for-education-updated
+title: Linux for Education Updated
+wordpress_id: 2661
 categories:
 - Edu Li-f-e
 tags:
 - Education
 - li-f-e
 ---
-
 
 The openSUSE Education team is proud to announce the availability of the updated Li-f-e hybrid [ISO](http://en.opensuse.org/Live_USB_stick). Unlike the official openSUSE release, the Edu project's Li-f-e [flavor](http://en.opensuse.org/Education/Live) will get updated almost on a monthly basis. These minor releases will contain all the official openSUSE 11.2 updates, some important package version updates and may be addition of new features too. With these gradual improvements we are hoping to make one of the best Education OS even better.
 
@@ -85,5 +86,3 @@ The fastest way to download is using a [metalink client](http://metalinker.org/)
 
 
 As always, we would like to hear from you! See the [communication](http://en.opensuse.org/Education/Communicating) page on the openSUSE wiki for ways to reach the education team.
-
-		

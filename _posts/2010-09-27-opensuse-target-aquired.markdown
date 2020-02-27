@@ -1,10 +1,12 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-09-27 10:14:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/27/opensuse-target-aquired/
-title: "openSUSE: Target Aquired"
+slug: opensuse-target-aquired
+title: 'openSUSE: Target Aquired'
+wordpress_id: 4828
 categories:
 - Announcements
 - Project
@@ -12,6 +14,7 @@ tags:
 - community
 - Strategy
 ---
+
 Hi all,![Future Lizard!\](http://en.opensuse.org/images/a/af/Future.png)
 
 Over the last week you have all given input on the new strategy document describing the target users of openSUSE. It saw quite a bit of rewriting and rephrasing but it seems the description fitted most of your perceptions. We have incorporated all the comments into the document and a new iteration can be found on [co-ment](https://lite.co-ment.com/text/lNPCgzeGHdV/view/).
@@ -23,4 +26,4 @@ Giving your input on [co-ment](https://lite.co-ment.com/text/lNPCgzeGHdV/view/) 
 You can find the document [here](https://lite.co-ment.com/text/lNPCgzeGHdV/view/). And for reference [here the openSUSE Strategy portal](http://en.opensuse.org/Portal:Strategy) on the wiki. Please have fun!
 
 Greetings,
-Your strategy team		
+Your strategy team

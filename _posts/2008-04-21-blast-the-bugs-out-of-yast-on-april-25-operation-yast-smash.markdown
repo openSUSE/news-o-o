@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-21 22:06:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/21/blast-the-bugs-out-of-yast-on-april-25-operation-yast-smash/
-title: "Blast the bugs out of YaST on April 25: Operation YaST Smash"
+slug: blast-the-bugs-out-of-yast-on-april-25-operation-yast-smash
+title: 'Blast the bugs out of YaST on April 25: Operation YaST Smash'
+wordpress_id: 736
 categories:
 - Events
 tags:
@@ -12,6 +14,7 @@ tags:
 - factory
 - yast
 ---
+
 The openSUSE Project is going [Bug Smashing on April 25](http://en.opensuse.org/BugDays/20080425), and we want you to join us! We're looking for openSUSE users and contributors who have some time to help triage YaST bugs and clean up Bugzilla.
 
 Join us on #openSUSE-Factory from 09:00 to 18:00 CEST. We'll be going through the Bugzilla and reviewing YaST bugs to see which bugs are still valid, gathering information about existing bugs, and generally paring down the bug count to help developers focus on the most crucial problems.
@@ -28,4 +31,4 @@ What do you need to participate? Just a [Bugzilla](https://bugzilla.novell.com/i
 
 Can't participate in the Bug Smashing days? No problem. We encourage Bugzilla cleanup all year round! See the [page](http://en.opensuse.org/Submit_a_Bug) on submitting bug reports, and join us on [#opensuse-factory](irc://irc.freenode.net/opensuse-factory) on Freenode.
 
-Have questions about Bug Smashing? See the [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ). If your question still isn't answered, send a note to [Christoph Thiel](mailto:cthiel@suse.de) or [Joe 'Zonker' Brockmeier](mailto:zonker@opensuse.org).		
+Have questions about Bug Smashing? See the [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ). If your question still isn't answered, send a note to [Christoph Thiel](mailto:cthiel@suse.de) or [Joe 'Zonker' Brockmeier](mailto:zonker@opensuse.org).

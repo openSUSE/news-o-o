@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-03-05 18:13:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/03/05/112-roadmap-and-fixed-release-cycle-for-opensuse/
-title: "11.2 Roadmap and Fixed Release Cycle for openSUSE"
+slug: 112-roadmap-and-fixed-release-cycle-for-opensuse
+title: 11.2 Roadmap and Fixed Release Cycle for openSUSE
+wordpress_id: 1199
 categories:
 - Distribution
 ---
+
 The roadmap for 11.2 is [now set](http://lists.opensuse.org/opensuse-project/2009-03/msg00029.html), and openSUSE is getting a fixed release cycle!Â  [CodenamedÂ  "Fichte,"](http://lists.opensuse.org/opensuse-project/2009-03/msg00029.html) openSUSE 11.2 is planned for release in November, and releases thereafter will happen every eight months.
 
 While all features for 11.2 are not yet settled, the release should include KDE 4.3, GNOME 2.28, Linux kernel 2.6.30 (or higher),Â  a Web-based YaST interface, netbook support (with free drivers), Ext4, and more.
@@ -62,4 +65,4 @@ OK, I better stop here. This is already a pretty long mail - looking forward to 
 
 Greetings, Stephan</blockquote>
 
-The core strategy of the ibm certified specialist c9020-560 [where to find and buy college homework using college-homework-help.org](https://college-homework-help.org/) certification exam revolves around the concept of bringing the denouement to the it students		
+The core strategy of the ibm certified specialist c9020-560 [where to find and buy college homework using college-homework-help.org](https://college-homework-help.org/) certification exam revolves around the concept of bringing the denouement to the it students

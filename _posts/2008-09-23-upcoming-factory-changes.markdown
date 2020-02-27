@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-23 15:52:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/23/upcoming-factory-changes/
-title: "Upcoming Factory Changes"
+slug: upcoming-factory-changes
+title: Upcoming Factory Changes
+wordpress_id: 1028
 categories:
 - Distribution
 ---
-The [openSUSE Factory distribution](http://en.opensuse.org/Factory) is our permanent moving target, this is the place where all Alpha and Beta versions are mastered from. We are currently in the process of adjusting some things due to [the move from SUSE internal AutoBuild to openSUSE Build Service](https://news.opensuse.org/2008/09/22/obs-did-it/):
+
+The [openSUSE Factory distribution](http://en.opensuse.org/Factory) is our permanent moving target, this is the place where all Alpha and Beta versions are mastered from. We are currently in the process of adjusting some things due to [the move from SUSE internal AutoBuild to openSUSE Build Service](//news.opensuse.org/2008/09/22/obs-did-it/):
 
 We are getting rid of all the historical names. Factory from SUSE internal AutoBuild is currently in the directories "SL-OSS-factory", "SL-OSS-factory-debug" and "SL-Factory-non-oss" inside of the [distribution](http://download.opensuse.org/distribution/) directory. These names are inconsistent and have lost their meaning to some degree.
 
@@ -47,4 +50,4 @@ Another important change is that we have moved the PowerPC packages to their [ow
 
 This new setup should make it easier to mirror subsets of the Factory distribution, without breaking any repository metadata. This means mirrors can just sync the most important stuff like the main repository and ignore the rest. We hope to get factory on more mirrors around the world with this setup.
 
-We plan to implement this until next week. [how to writer paper introductiob](https://paper-writer.org/)		
+We plan to implement this until next week. [how to writer paper introductiob](https://paper-writer.org/)

@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-09 10:41:27+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/09/opensuse-weekly-news-issue-17/
-title: "openSUSE Weekly News, Issue 17"
+slug: opensuse-weekly-news-issue-17
+title: openSUSE Weekly News, Issue 17
+wordpress_id: 720
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue 17 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/17)!
 
@@ -37,4 +38,3 @@ In this week's issue:
   * Event: LugRadio Live USA 2008
 
 
-		

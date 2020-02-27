@@ -1,13 +1,16 @@
 ---
 author: Adrian Schröter
+comments: true
 date: 2011-04-19 12:14:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/19/infrastructure-updates/
-title: "Infrastructure Updates"
+slug: infrastructure-updates
+title: Infrastructure Updates
+wordpress_id: 8481
 categories:
 - Infrastructure
 ---
+
 We had way too many server downtimes during the last month in our infrastructure. These were caused by an unreliable login proxy. We have now developed and setup a new login proxy and use it for the following sites:
 
 
@@ -34,4 +37,4 @@ For the openSUSE Build Service, another change is that we switched to apache and
 
 In short, we have changed some key parts of our infrastructure and introduced a new login proxy, so there might still be some pitfalls. But we have it under our control now and can debug and even fix any issue with it. In case of problems, please speak up on the opensuse-buildservice mailing list.
 
-Your make-OBS-stable-team, Michael Schröder, Stephan Kulow and Adrian Schröter		
+Your make-OBS-stable-team, Michael SchrÃ¶der, Stephan Kulow and Adrian SchrÃ¶ter

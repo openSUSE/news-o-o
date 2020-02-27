@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-02-07 08:48:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/02/07/where-to-stay-getting-around-prague-for-osc18/
-title: "Where to Stay, Getting Around Prague for oSC18"
+slug: where-to-stay-getting-around-prague-for-osc18
+title: Where to Stay, Getting Around Prague for oSC18
+wordpress_id: 20658
 categories:
 - Announcements
 - Conference
@@ -26,6 +28,7 @@ tags:
 - subway
 - transporation
 ---
+
 ![](http://www.planetware.com/photos-large/CZ/prague-castle-overlooking-the-city-0.jpg)Prague is a beautiful city and you can bet that the city will be crowded during the [openSUSE Conference](https://events.opensuse.org/conference/oSC18). Hotels are already starting to fill up, so it’s best to take a look at the hotels we recommend now before all the hotels are booked out.
 
 There are six hotels that are recommended, but feel free to book at other hotels in the city. The section for [recommended lodging](https://events.opensuse.org/conference/oSC18) on the [openSUSE Conference 2018](https://events.opensuse.org/conference/oSC18) webpage gives options for hotels as low as 40 EUR a night to above 120 EUR. Each listing on the section gives a little info about the hotel.
@@ -40,4 +43,4 @@ Using the Google app on a smartphone will allow you can navigate Prague fairly e
 
 There are many sights to see in Prague and if you have never been there, we recommend visiting the [Charles Bridge](https://en.wikipedia.org/wiki/Charles_Bridge), [Prague Castle](https://en.wikipedia.org/wiki/Prague_Castle), [Old Town Square](https://en.wikipedia.org/wiki/Old_Town_Square) and [St. Vitus Cathedral](https://en.wikipedia.org/wiki/St._Vitus_Cathedral).
 
-We look forward to seeing you at oSC18 and, if you haven’t [submitted at talk](https://events.opensuse.org/conference/oSC18/program/proposal/new), please consider doing so before April 20.		
+We look forward to seeing you at oSC18 and, if you haven’t [submitted at talk](https://events.opensuse.org/conference/oSC18/program/proposal/new), please consider doing so before April 20.

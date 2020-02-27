@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-10-17 07:10:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/17/opensuse-weekly-news-issue-145-is-out/
-title: "openSUSE Weekly News, Issue 145 is out!"
+slug: opensuse-weekly-news-issue-145-is-out
+title: openSUSE Weekly News, Issue 145 is out!
+wordpress_id: 5158
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News.
 <!-- more -->
 
@@ -41,19 +44,19 @@ We are pleased to announce our new openSUSE Weekly News.
 
 
 
-  * [ Finalizing who we are¦](https://news.opensuse.org/?p=5158#Finalizing_who_we_are.E2.80.A6)
+  * [ Finalizing who we areâ€¦](http://news.opensuse.org/?p=5158#Finalizing_who_we_are.E2.80.A6)
 
 
-  * [ Jos Poortvliet: Last piece of strategy before the conference](https://news.opensuse.org/?p=5158#Jos_Poortvliet:_Last_piece_of_strategy_before_the_conference)
+  * [ Jos Poortvliet: Last piece of strategy before the conference](http://news.opensuse.org/?p=5158#Jos_Poortvliet:_Last_piece_of_strategy_before_the_conference)
 
 
-  * [ Petr Mladek: LibreOffice 3.3 beta2 available for openSUSE](https://news.opensuse.org/?p=5158#Petr_Mladek:_LibreOffice_3.3_beta2_available_for_openSUSE)
+  * [ Petr Mladek: LibreOffice 3.3 beta2 available for openSUSE](http://news.opensuse.org/?p=5158#Petr_Mladek:_LibreOffice_3.3_beta2_available_for_openSUSE)
 
 
-  * [ RÃ©my Marquis: Getting Plymouth on openSUSE](https://news.opensuse.org/?p=5158#R.C3.A9my_Marquis:_Getting_Plymouth_on_openSUSE)
+  * [ RÃ©my Marquis: Getting Plymouth on openSUSE](http://news.opensuse.org/?p=5158#R.C3.A9my_Marquis:_Getting_Plymouth_on_openSUSE)
 
 
-  * [ Linux User & Developer/Ken Hess: openSUSE 11.4 Milestone 2 review](https://news.opensuse.org/?p=5158#Linux_User_.26_Developer.2FKen_Hess:_openSUSE_11.4_Milestone_2_review)
+  * [ Linux User & Developer/Ken Hess: openSUSE 11.4 Milestone 2 review](http://news.opensuse.org/?p=5158#Linux_User_.26_Developer.2FKen_Hess:_openSUSE_11.4_Milestone_2_review)
 
 
 
@@ -74,46 +77,46 @@ We are pleased to announce our new openSUSE Weekly News.
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=5158#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=5158#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=5158#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=5158#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=5158#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=5158#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=5158#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=5158#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=5158#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=5158#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=5158#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=5158#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=5158#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=5158#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=5158#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=5158#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=5158#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=5158#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=5158#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=5158#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=5158#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=5158#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=5158#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=5158#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=5158#Credits)
+  * [ Credits](http://news.opensuse.org/?p=5158#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=5158#Translations)
+  * [ Translations](http://news.opensuse.org/?p=5158#Translations)
 
 
 
@@ -334,20 +337,20 @@ We hope that you will enjoy reading.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Finalizing who we are¦](https://news.opensuse.org/2010/10/15/finalizing-who-we-are/)
+####  [Finalizing who we areâ€¦](http://news.opensuse.org/2010/10/15/finalizing-who-we-are/)
 
 
 
 
-"Again there was quite some feedback on the strategy doc. We have worked to shorten the document “ a difficult thing with something which is the result of many thoughts and ideas. We tried to bring the piece on our target users back to it™s essentials and now have a short and a long version “ input on what to do with either of those is very much welcome. In the other area™s, shortening was even harder “ we appreciate input there as well. The plan is to do this one last round of feedback before we will try and finish it all off at the openSUSE conference next week.  
-
-  
-
- So if you™ve held back, have not had a look at this yet “ now or never! Provide your input on the draft on co-ment and help shape our description of what being a Geeko means to us all. Yes, this will hopefully describe ourselves “ where we stand, but also add a bit of pepper and salt and show our ambitions. Our strategy document has to be inclusive “ but not too long. It has to show some ambition “ but must also be realistic.  
+"Again there was quite some feedback on the strategy doc. We have worked to shorten the document â€“ a difficult thing with something which is the result of many thoughts and ideas. We tried to bring the piece on our target users back to itâ€™s essentials and now have a short and a long version â€“ input on what to do with either of those is very much welcome. In the other areaâ€™s, shortening was even harder â€“ we appreciate input there as well. The plan is to do this one last round of feedback before we will try and finish it all off at the openSUSE conference next week.  
 
   
 
- Please note that the stuff under ˜background™ is “ well, background. The first 3 parts (target users; what openSUSE offers; and what do we not focus on) are our future self-description! Those are the arguments you have when talking to others about openSUSE “ make sure they are convincing and true.  
+ So if youâ€™ve held back, have not had a look at this yet â€“ now or never! Provide your input on the draft on co-ment and help shape our description of what being a Geeko means to us all. Yes, this will hopefully describe ourselves â€“ where we stand, but also add a bit of pepper and salt and show our ambitions. Our strategy document has to be inclusive â€“ but not too long. It has to show some ambition â€“ but must also be realistic.  
+
+  
+
+ Please note that the stuff under â€˜backgroundâ€™ is â€“ well, background. The first 3 parts (target users; what openSUSE offers; and what do we not focus on) are our future self-description! Those are the arguments you have when talking to others about openSUSE â€“ make sure they are convincing and true.  
 
   
 
@@ -560,7 +563,7 @@ This is not easy. We're a hugely diversified community with all sorts of users a
 
 
 
-"Hi folks, this post is just request for all obs-packagers. Please, don™t forget write some documentation about your projects (which you maintain or develop). I mean, documentation for developers. This make more easy to understand logic of program, connection between some modules inside or interfaces between widget/applet and system/hardware part. For sure, comments in source code (or in changelog) help, but some times they give not so much clarity.  
+"Hi folks, this post is just request for all obs-packagers. Please, donâ€™t forget write some documentation about your projects (which you maintain or develop). I mean, documentation for developers. This make more easy to understand logic of program, connection between some modules inside or interfaces between widget/applet and â€œsystem/hardware partâ€. For sure, comments in source code (or in changelog) help, but some times they give not so much clarity.  
 
   
 
@@ -568,7 +571,7 @@ This is not easy. We're a hugely diversified community with all sorts of users a
 
   
 
- I don™t know how will be better to do it: use wiki (create a new page) or add just text-file in source project. Anyway it™s not so important where will be this documentation, main things that this documentation will be exist :)" 
+ I donâ€™t know how will be better to do it: use wiki (create a new page) or add just text-file in source project. Anyway itâ€™s not so important where will be this documentation, main things that this documentation will be exist :)" 
 
 
 
@@ -843,11 +846,11 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
 
   
 
- I™m happy to announce LibreOffice 3.3 beta2 packages for openSUSE. They are available in the Build Service LibreOffice:Unstable project. They are based on the libreoffice-3.2.99.2 release. Please, look for more details about the openSUSE LibreOffice build on the wiki page.  
+ Iâ€™m happy to announce LibreOffice 3.3 beta2 packages for openSUSE. They are available in the Build Service LibreOffice:Unstable project. They are based on the libreoffice-3.2.99.2 release. Please, look for more details about the openSUSE LibreOffice build on the wiki page.  
 
   
 
- The packages are beta versions and might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, ¦  
+ The packages are beta versions and might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, â€¦  
 
   
 
@@ -897,7 +900,7 @@ Statistics can found at [http://build.opensuse.org](http://build.opensuse.org/)
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -966,10 +969,10 @@ Past:
 
 
 
-  * [**October 13, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**October 13, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**October 14, 2010: ï»¿openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**October 14, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
@@ -978,16 +981,16 @@ Upcoming:
 
 
 
-  * [**October 20, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**October 20, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
   * [**October 20-23, 2010: openSUSE Conference 2010 (Nuremberg, Germany)**](http://en.opensuse.org/Portal:Conference)
 
 
-  * [**October 21, 2010: Lizard Lounge**](https://news.opensuse.org/2010/10/14/lizard-lounge-2/)
+  * [**October 21, 2010: Lizard Lounge**](http://news.opensuse.org/2010/10/14/lizard-lounge-2/)
 
 
-  * [**October 27, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**October 27, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
 
@@ -1001,7 +1004,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1195,7 +1198,7 @@ Upcoming:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1480,7 +1483,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"In an earlier article, we studied the fundamental aspects of shell scripting and covered topics such as redirection, variables, arithmetic expansions and control constructs. In this part, we will focus on more advanced concepts that are useful for system administrators and software developers¦" 
+"In an earlier article, we studied the fundamental aspects of shell scripting and covered topics such as redirection, variables, arithmetic expansions and control constructs. In this part, we will focus on more advanced concepts that are useful for system administrators and software developersâ€¦" 
 
 
 
@@ -1494,7 +1497,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
   
 
- MAC addresses are most often assigned by the manufacturer of a network interface card (NIC) and are stored in its hardware, the card™s read-only memory, or some other firmware mechanism. If assigned by the manufacturer, a MAC address usually encodes the manufacturer™s registered identification number. It may also be known as an Ethernet hardware address (EHA), hardware address, adapter address, or physical address. (...)" 
+ MAC addresses are most often assigned by the manufacturer of a network interface card (NIC) and are stored in its hardware, the cardâ€™s read-only memory, or some other firmware mechanism. If assigned by the manufacturer, a MAC address usually encodes the manufacturerâ€™s registered identification number. It may also be known as an Ethernet hardware address (EHA), hardware address, adapter address, or physical address. (...)" 
 
 
 
@@ -1543,7 +1546,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"As I posted on the libreoffice development list, I™m currently working on adding a new option page in the Options dialog, to provide a quick way to switch key bindings between LibreOffice™s default and OpenOffice.org™s for Calc. For the most part, the default key bindings are identical between LibreOffice and OpenOffice.org as far as Calc™s concerned, but there are some differences, which are enough to annoy those users who are accustomed to the old key bindings from OOo Calc." 
+"As I posted on the libreoffice development list, Iâ€™m currently working on adding a new option page in the Options dialog, to provide a quick way to switch key bindings between LibreOfficeâ€™s default and OpenOffice.orgâ€™s for Calc. For the most part, the default key bindings are identical between LibreOffice and OpenOffice.org as far as Calcâ€™s concerned, but there are some differences, which are enough to annoy those users who are accustomed to the old key bindings from OOo Calc." 
 
 
 
@@ -1559,7 +1562,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
   
 
- Plymouth was first included in Fedora 10 Cambridge shipped on November 2008, Mandriva switched from splashy to plymouth with in Automn 2009, and Ubuntu includes it since the 10.04 release shipped on April of this year. However, despite being the actual second most voted feature on openFATE, Plymouth hasn™t been integrated in openSUSE yet, mainly because nobody took time to make it happens." 
+ Plymouth was first included in Fedora 10 â€œCambridgeâ€ shipped on November 2008, Mandriva switched from splashy to plymouth with in Automn 2009, and Ubuntu includes it since the 10.04 release shipped on April of this year. However, despite being the actual second most voted feature on openFATE, Plymouth hasnâ€™t been integrated in openSUSE yet, mainly because nobody took time to â€œmake it happensâ€œ." 
 
 
 
@@ -1595,15 +1598,15 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Back in March, I wrote an article on a great little Apache module for blocking automated scans and attacks on your system. Since that article was written, the module has blocked and notified me of a couple vulnerability scans being run against my web server. Basically, it has been doing exactly what I expected of it. However, what I didn™t expect was a very pleasant side effect that the module would bring.  
+"Back in March, I wrote an article on a great little Apache module for blocking automated scans and attacks on your system. Since that article was written, the module has blocked and notified me of a couple vulnerability scans being run against my web server. Basically, it has been doing exactly what I expected of it. However, what I didnâ€™t expect was a very pleasant side effect that the module would bring.  
 
   
 
- A few weeks ago, I received an email from my web server that it had blacklisted an IP address. I logged onto the machine and checked the logs to see when and where the attack was ran. As it turns out, the attack was actually coming from an aggressive crawler from a company called Brandwatch. A quick search on Google revealed dozens of complaints from webmasters about the overly aggressive crawling rate of the brandwatch crawler (identified in user-agent strings as ˜magpie™). The 4 or 5 entries in the access log (before mod_evasive was activated) indicated a crawling rate of over 3 pages per second!  
+ A few weeks ago, I received an email from my web server that it had blacklisted an IP address. I logged onto the machine and checked the logs to see when and where the attack was ran. As it turns out, the â€œattackâ€ was actually coming from an aggressive crawler from a company called Brandwatch. A quick search on Google revealed dozens of complaints from webmasters about the overly aggressive crawling rate of the brandwatch crawler (identified in user-agent strings as â€˜magpieâ€™). The 4 or 5 entries in the access log (before mod_evasive was activated) indicated a crawling rate of over 3 pages per second!  
 
   
 
- The good news is that mod_evasive blocks all high rate scans of the system, whether they are malicious or just plain annoying. If you™re having a problem with aggressive crawlers, check out the above article on mod_evasive and give it a shot. I didn™t have bad crawlers in mind when I first implemented it, but it seems to work very well for them." 
+ The good news is that mod_evasive blocks all high rate scans of the system, whether they are malicious or just plain annoying. If youâ€™re having a problem with aggressive crawlers, check out the above article on mod_evasive and give it a shot. I didnâ€™t have bad crawlers in mind when I first implemented it, but it seems to work very well for them." 
 
 
 
@@ -1806,7 +1809,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"There™s nothing quite like looking at a new Linux version”especially a minor release that promises to bring so much to the user as does OpenSUSE™s latest effort: 11.4. OpenSUSE 11.4 might prove to be the best upgrade since the leap from OpenSUSE 10.X to 11.X. Though these early Milestones as they™re called, are alpha versions, 11.4 Milestone 2 is very stable and surprisingly responsive, even installed into a virtual machine the speed enrichments are quite striking. That performance boost is one of the big improvements over earlier versions with 11.4™s new kernel (2.6.36) and updated Xorg packages. Expect impressive boot times and enhanced performance for application launches. (...)" 
+"Thereâ€™s nothing quite like looking at a new Linux versionâ€”especially a minor release that promises to bring so much to the user as does OpenSUSEâ€™s latest effort: 11.4. OpenSUSE 11.4 might prove to be the best upgrade since the leap from OpenSUSE 10.X to 11.X. Though these early â€œMilestonesâ€ as theyâ€™re called, are alpha versions, 11.4 Milestone 2 is very stable and surprisingly responsive, even installed into a virtual machine the speed enrichments are quite striking. That performance boost is one of the big improvements over earlier versions with 11.4â€™s new kernel (2.6.36) and updated Xorg packages. Expect impressive boot times and enhanced performance for application launches. (...)" 
 
 
 
@@ -1855,7 +1858,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?p=5158) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=5158) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -1864,7 +1867,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -1909,7 +1912,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1918,7 +1921,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -1984,7 +1987,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/145)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/145)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/145)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/145)
@@ -2023,4 +2026,3 @@ Delayed / to be translated:
 </table>
   
 
-		

@@ -1,16 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-18 23:06:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/18/sneak-peeks-at-opensuse-111-kde-in-opensuse-111/
-title: "Sneak Peeks at openSUSE 11.1: KDE in openSUSE 11.1"
+slug: sneak-peeks-at-opensuse-111-kde-in-opensuse-111
+title: 'Sneak Peeks at openSUSE 11.1: KDE in openSUSE 11.1'
+wordpress_id: 1130
 categories:
 - Distribution
 tags:
 - KDE
 - Sneak Peeks
 ---
+
 openSUSE 11.1 continues a long history of shipping a well-polished KDE. This release includes not just one, but two choices of KDE. You can choose from the leading edge of KDE development with KDE 4.1.3, or the classic KDE experience with KDE 3.5.10.
 
 
@@ -27,7 +30,7 @@ And both Dolphin and Konqueror have "Super User Mode" menu entries, so you can h
 
 For browsing the world, you've got Marble. Marble is a "desktop globe" application for viewing the world. In 4.1, Marble includes support for [OpenStreetMap](http://www.openstreetmap.org/), so you can browse free (as in speech) maps.
 
-[![]({{ site.baseurl }}/assets/kde4-marble-300x182.png)]({{ site.baseurl }}/assets/kde4-marble.png)
+[![](//news.opensuse.org/wp-content/uploads/2008/12/kde4-marble-300x182.png)](//news.opensuse.org/wp-content/uploads/2008/12/kde4-marble.png)
 
 Don't like a cluttered desktop? Then you'll love the Folder View plasmoid that confines all those messy files to one organized view. No more disorganized desktop! (On the computer. Your physical desktop is still your problem.)
 
@@ -59,4 +62,3 @@ This release also includes Powerdevil, for easier and better power management on
 This release also marks a move to PackageKit for updates. In openSUSE 11.0, GNOME switched to using PackageKit for updates. With 11.1, the KDE Updater Applet has switched from the zypp backed to use PackageKit as well.
 
 (In the spirit of late being better than "never," this peek is being published after the 11.1 announcement, but we still think it will be useful to users who haven't tried KDE 4 in 11.1.) Our entire solar system orbits inside the sun's atmosphere, and we can see the results of this when gusts of solar wind produce [cheap custom essay writing services](https://essaysheaven.com/) the northern lights
-		

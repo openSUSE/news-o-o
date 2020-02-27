@@ -1,15 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2011-04-26 00:00:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/26/opensuse-11-4-dvds-for-events/
-title: "openSUSE 11.4 DVDs for Events"
+slug: opensuse-11-4-dvds-for-events
+title: openSUSE 11.4 DVDs for Events
+wordpress_id: 8510
 categories:
 - Distribution
 - Project
 ---
-Following the huge success for filling requests of openSUSE 11.3 media in [February](https://news.opensuse.org/2011/02/18/help-the-project-spread-opensuse-dvds/), we have produced openSUSE 11.4 DVDs to distribute at events, Linux user groups, universities etc.<!-- more -->
+
+Following the huge success for filling requests of openSUSE 11.3 media in [February](http://news.opensuse.org/2011/02/18/help-the-project-spread-opensuse-dvds/), we have produced openSUSE 11.4 DVDs to distribute at events, Linux user groups, universities etc.<!-- more -->
 
 
 ## The PromoDVDs
@@ -35,4 +38,4 @@ Note again that we can only send bulks of media (boxes of 100 DVDs) and not any 
 ## Thanks!
 
 
-Thanks to Stephan Kulow for creating the image and to Bernhard Wiedemann and the open-SLX team for testing the DVD images. A big thanks to Novell for sponsoring the production and shipping of these media. And of course many thanks to the growing number of ambassadors all around the world, working hard on spreading the word on openSUSE and handing out these DVDs!!!		
+Thanks to Stephan Kulow for creating the image and to Bernhard Wiedemann and the open-SLX team for testing the DVD images. A big thanks to Novell for sponsoring the production and shipping of these media. And of course many thanks to the growing number of ambassadors all around the world, working hard on spreading the word on openSUSE and handing out these DVDs!!!

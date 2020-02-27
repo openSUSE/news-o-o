@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-01-14 08:29:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/01/14/osc15-venue-change/
-title: "oSC15 Venue Change"
+slug: osc15-venue-change
+title: oSC15 Venue Change
+wordpress_id: 19000
 categories:
 - Conference
 - Events
 ---
-[![newbink.jpg]({{ site.baseurl }}/assets/newbink.jpg-300x300.png)]({{ site.baseurl }}/assets/newbink.jpg.png)
+
+[![newbink.jpg](/wp-content/uploads/2015/01/newbink.jpg.png)](/wp-content/uploads/2015/01/newbink.jpg.png)
 
 Hello Westvliet, goodbye BINK36, in with the new, out with the old. For the second time, Dutch legislation is impacting oSC15; we are obviously very important!
 
@@ -39,4 +42,4 @@ The new venue is a little bit father out then BINK36 but the excellent public tr
 
 The venue change does not effect anything else, CfP is open and proposals will be accepted until February 14, 2015. We also have a great keynote speaker for Saturday's keynote confirmed, keep your eye out for an announcement shortly.
 
-Please visit the [conference website](http://bit.ly/1yeBGg0) to register, submit session proposals and keep up to date with oSC15 as we pull the event together.		
+Please visit the [conference website](http://bit.ly/1yeBGg0) to register, submit session proposals and keep up to date with oSC15 as we pull the event together.

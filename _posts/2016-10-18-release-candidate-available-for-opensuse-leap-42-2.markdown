@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-10-18 10:41:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/10/18/release-candidate-available-for-opensuse-leap-42-2/
-title: "Release Candidate Available for openSUSE Leap 42.2"
+slug: release-candidate-available-for-opensuse-leap-42-2
+title: Release Candidate Available for openSUSE Leap 42.2
+wordpress_id: 20125
 categories:
 - Distribution
 - Leap
@@ -27,7 +29,8 @@ tags:
 - release candidate
 - stable linux
 ---
-![hexapattern]({{ site.baseurl }}/assets/HeXaPattern-300x169.jpg)The [openSUSE Project](https://www.opensuse.org/) is pleased to announce the availability of the [openSUSE Leap 42.2](http://software.opensuse.org/developer/en?release=developer) Release Candidate 1 (RC1).
+
+![hexapattern](/wp-content/uploads/2016/10/HeXaPattern.jpg)The [openSUSE Project](https://www.opensuse.org/) is pleased to announce the availability of the [openSUSE Leap 42.2](http://software.opensuse.org/developer/en?release=developer) Release Candidate 1 (RC1).
 
 Since mid-May, the project has been guiding the development of the next [openSUSE community release Leap 42.2](http://distrowatch.com/table.php?distribution=opensuse), which will be released in 29 days. The release of RC1 completes the development process for openSUSE Leap 42.2 based on source code from [SUSE Linux Enterprise](https://www.suse.com/products/server/) (SLE) Service Pack (SP) 2.
 
@@ -43,4 +46,4 @@ The [Linux Kernel](https://kernel.org/) for openSUSE Leap 42.2 is version 4.4. R
 
 As an acclaimed community-enterprise distribution that focuses on stability, Leap offers developers and system administrators a professional distribution that uses hundreds of SLE SP 2 packages and thousands of community-built packages. The openSUSE Leap distribution provides developers and system administrators a release that is production ready and offers an easy migration path to move to the faster release cycles of openSUSE Tumbleweed or to an enterprise solution with SLE 12.
 
-Media who are interested in more information should contact Douglas DeMaio at ddemaio(at)suse.de.		
+Media who are interested in more information should contact Douglas DeMaio at ddemaio(at)suse.de.

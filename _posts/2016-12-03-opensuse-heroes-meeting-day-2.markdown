@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2016-12-03 18:18:59+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/12/03/opensuse-heroes-meeting-day-2/
-title: "openSUSE Heroes meeting, day 2"
+slug: opensuse-heroes-meeting-day-2
+title: openSUSE Heroes meeting, day 2
+wordpress_id: 20214
 categories:
 - Infrastructure
 - Mentoring
@@ -14,9 +16,10 @@ tags:
 - Infrastructure
 - meeting
 ---
+
 After a long, but exciting first day, we even managed to get some sleep before we started again and discussed the whole morning about our [policies](https://en.opensuse.org/openSUSE:Infrastructure_policy) and other stuff that is now updated in the [openSUSE wiki](https://en.opensuse.org/openSUSE:Heroes). After that, we went out for a nice lunch...
 
-({{ site.baseurl }}/assets/DSC_2305.jpg) openSUSE Heroes out for lunch.
+[caption id="attachment_20216" align="aligncenter" width="552"][![openSUSE Heroes out for lunch.](/wp-content/uploads/2016/12/DSC_2305.jpg)](/wp-content/uploads/2016/12/DSC_2305.jpg) openSUSE Heroes out for lunch.[/caption]
 
 ...before we started the discussion about some other topics on our list.
 
@@ -38,8 +41,8 @@ Namely:
  	
   * A lot of stuff around "securing our infrastructure" was not officially on the plate, but if you listened between the lines, you noticed that our admins have a secure environment always in mind - even if the topics is officially around bare metal machine administration, Salt or authentication (just to name some examples).
 
-({{ site.baseurl }}/assets/DSC_2310.jpg) Tampakrap painting on our whiteboard
+[caption id="attachment_20218" align="aligncenter" width="362"][![Tampakrap painting on our whiteboard](/wp-content/uploads/2016/12/DSC_2310.jpg)](/wp-content/uploads/2016/12/DSC_2310.jpg) Tampakrap painting on our whiteboard[/caption]
 
 We ended up in a short discussion about "how do we monitor all that stuff" - and if we might use Salt also for intrusion detection. Even if we finally end up on the [Nuremberg Christmas Market](http://www.christkindlesmarkt.de/en/) this evening: be sure that we will continue the discussions about "Crowbar", "SDN", "Thruk", "GitLab", .... (at least until we got enough hot spiced wine ;-)
 
-		
+

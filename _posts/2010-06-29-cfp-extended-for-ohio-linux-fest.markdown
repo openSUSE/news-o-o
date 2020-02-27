@@ -1,13 +1,16 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2010-06-29 16:43:03+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/29/cfp-extended-for-ohio-linux-fest/
-title: "CFP Extended for Ohio Linux Fest"
+slug: cfp-extended-for-ohio-linux-fest
+title: CFP Extended for Ohio Linux Fest
+wordpress_id: 3637
 categories:
 - Events
 ---
+
 ï»¿ï»¿ï»¿The Ohio Linux Fest will be on September 10-12, 2010 in Columbus, Ohio.Â  There is now a one-week extension for Call for Partiicipation.
 
 If any of you are in the Ohio area and would like to give a talk about openSUSE, we encourage you to register your talk proposal [here.](http://http://www.ohiolinux.org/node/674)
@@ -23,4 +26,4 @@ So let's get openSUSE noticed there and spread the word about our newest release
 Thanks,
 
 Bryen M Yunashko openSUSE Marketing Team
-		
+

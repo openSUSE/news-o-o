@@ -1,29 +1,123 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-28 21:10:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/28/people-of-opensuse-jan-simon-moller/
-title: "People of openSUSE: Jan-Simon Möller"
+slug: people-of-opensuse-jan-simon-moller
+title: 'People of openSUSE: Jan-Simon MÃ¶ller'
+wordpress_id: 918
 categories:
 - People of openSUSE
 ---
-Weekly News writer and openSUSE member Jan-Simon Möller accepted 'People of openSUSE' interview request and shared with us some information about himself. Jan is also the maintainer of the [hamradio repository](http://download.opensuse.org/repositories/hamradio/) on the Build Service!
+
+Weekly News writer and openSUSE member Jan-Simon MÃ¶ller accepted 'People of openSUSE' interview request and shared with us some information about himself. Jan is also the maintainer of the [hamradio repository](http://download.opensuse.org/repositories/hamradio/) on the Build Service!
 
 <!-- more -->
 
+<table border="0" >
+<tr >
 
-![]({{ site.baseurl }}/assets/jan-simon_moller.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|dl9pf|
-|**Homepage:**|[www.jsmo.de](http://www.jsmo.de)|
-|**Blog:**|[http://lizards.opensuse.org/author/dl9pf/](http://lizards.opensuse.org/author/dl9pf/)|
-|||
-|**Favorite season:**|Autumn - I really like the coloured landscape/vineyards.|
-|**Motto:**|Have phun!|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](/wp-content/uploads/2008/06/jan-simon_moller.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >dl9pf
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[www.jsmo.de](http://www.jsmo.de)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://lizards.opensuse.org/author/dl9pf/](http://lizards.opensuse.org/author/dl9pf/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Autumn - I really like the coloured landscape/vineyards.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Have phun!
+</td>
+
+<td >
+</td>
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -309,6 +403,3 @@ Fresh air.
 
 
 This!
-
-
-		

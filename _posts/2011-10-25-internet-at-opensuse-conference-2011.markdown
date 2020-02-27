@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2011-10-25 14:36:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/25/internet-at-opensuse-conference-2011/
-title: "Internet at openSUSE Conference 2011"
+slug: internet-at-opensuse-conference-2011
+title: Internet at openSUSE Conference 2011
+wordpress_id: 11292
 categories:
 - Conference
 ---
+
 At the openSUSE conference 2011, there was especially one area that caused us the previous years some trouble and this year nobody spoke about since it just worked fine: Wireless internet access.
 
 So, what have we done right this year? It was basically wiring internet ourselves to the location and setting up the wifi controllers sponsored by Aeroaccess.
@@ -22,4 +25,4 @@ Some data on our internet usage: Peak throughput was 67 MBit/s and we had 13.2 %
 
 I talked with Bernd Hillmeister from Aeroaccess at the conference and he told me that the company's expertise is consulting, planning, implementation, managementÂ  and support of Enterprise Wireless Networks. So our installation was a small example of what they do. Aeroaccess' focus is Mobile Infrastructure only with all related challenges like high availability demands, bandwidth requirements and related RF issues indoor as well as outdoor.
 
-Aeroaccess [![](http://conference.opensuse.org/wp-content/uploads/aeroaccess.gif)](http://www.aeroaccess.de/)sponsored osc11 with sending us access pointsÂ  with power-over-ethernet adaptors for them. They were so kind to pre-configure the access points so that we could plug them in and they worked directly.		
+Aeroaccess [![](http://conference.opensuse.org/wp-content/uploads/aeroaccess.gif)](http://www.aeroaccess.de/)sponsored osc11 with sending us access pointsÂ  with power-over-ethernet adaptors for them. They were so kind to pre-configure the access points so that we could plug them in and they worked directly.

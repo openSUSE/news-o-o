@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-09-18 17:49:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/09/18/opensuse-weekly-news-issue-39/
-title: "openSUSE Weekly News, Issue 39"
+slug: opensuse-weekly-news-issue-39
+title: openSUSE Weekly News, Issue 39
+wordpress_id: 1024
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #39 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/39)!  
-In this week™s issue:
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #39 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/39)!  
+In this weekâ€™s issue:
 
 
   * Board election
@@ -24,4 +27,4 @@ In this week™s issue:
 
 
 
- Ich fhle mich immer wieder sehr ausgebremst, deshalb orientiere ich mich momentan auch [ein Blick darauf werfen](https://bachelorschreibenlassen.com/akademische-arbeit/) wieder mehr nach frankfurt		
+ Ich fhle mich immer wieder sehr ausgebremst, deshalb orientiere ich mich momentan auch [ein Blick darauf werfen](https://bachelorschreibenlassen.com/akademische-arbeit/) wieder mehr nach frankfurt

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-05-09 12:21:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/05/09/students-to-enhance-multiple-open-source-projects/
-title: "Students to Enhance Multiple Open Source Projects"
+slug: students-to-enhance-multiple-open-source-projects
+title: Students to Enhance Multiple Open Source Projects
+wordpress_id: 20395
 categories:
 - Announcements
 - Google Summer of Code
@@ -22,6 +24,7 @@ tags:
 - TSP
 - webrtc
 ---
+
 ![](http://cltk.org/assets/GSoC2016Logo.jpg)
 
 Five students will spend this summer putting their coding skills into practice for openSUSE and other projects during this year’s [Google Summer of Code](https://summerofcode.withgoogle.com/).
@@ -40,4 +43,4 @@ Another student project that will benefit multiple open-source projects is openS
 
 The last development that was selected from the student proposals  for openSUSE were two student projects focusing on [Jangouts](https://github.com/jangouts/jangouts), which is a videoconferencing tool based on [WebRTC](https://webrtc.org/) and [Janus Gateway](https://github.com/meetecho/janus-gateway) that provides a self-hosted open source alternative to [Google Hangouts](https://hangouts.google.com/). One of the students will look at revamping the User Interface while the other will focus on integrating [callstats.io](https://www.callstats.io/) in to [Jangouts](https://github.com/jangouts/jangouts), which is an analytics tool to help determine how to best improve the quality of audio and video calls.
 
-openSUSE uses [101.opensuse.org](http://101.opensuse.org/) to reach out to students who want to participate in GSoC as well as other mentoring programs openSUSE supports.		
+openSUSE uses [101.opensuse.org](http://101.opensuse.org/) to reach out to students who want to participate in GSoC as well as other mentoring programs openSUSE supports.

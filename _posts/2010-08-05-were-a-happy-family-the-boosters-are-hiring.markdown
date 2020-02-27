@@ -1,20 +1,23 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-08-05 13:37:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/08/05/were-a-happy-family-the-boosters-are-hiring/
-title: "We™re a happy family “ The Boosters are hiring!"
+slug: were-a-happy-family-the-boosters-are-hiring
+title: Weâ€™re a happy family â€“ The Boosters are hiring!
+wordpress_id: 3986
 categories:
 - Project
 tags:
 - boosters
 ---
-[![]({{ site.baseurl }}/assets/256px-Logo-boosters.png)](http://en.opensuse.org/openSUSE:Boosters)
+
+[![](/wp-content/uploads/2010/08/256px-Logo-boosters.png)](http://en.opensuse.org/openSUSE:Boosters)
 
 The openSUSE Boosters are a team of people helping developers of the  openSUSE project to take off. It consists of people with skills ranging from low level C hackery over Ruby  on Rails mastering to graphical design or project management. The team  picks milestones and works on them in a agile fashion. They always  follow their mantra: Grow community by enabling community
 
-[![]({{ site.baseurl }}/assets/hiring.png)](http://careers.novell.com/psp/css89prd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL)
+[![](/wp-content/uploads/2010/08/hiring.png)](http://careers.novell.com/psp/css89prd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL)
 
 **The openSUSE Boosters team is looking for an experienced  software engineer to join their efforts. **
 
@@ -81,4 +84,4 @@ The openSUSE Boosters are a team of people helping developers of the  openSUSE p
 
 Disclaimer: This job description is for  informational purposes, to describe the primary duties, skills and  abilities necessary to meet the requirements of this position.Â  This  description is not intended to be an exhaustive list of all requirements  or essential functions; it is subject to change at any time.Â  Novell is an equal opportunity employer and an advocate for  workforce diversity.
 
-Interested? Go to [novell.com/jobs](http://careers.novell.com/psp/css89prd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL) to apply now!		
+Interested? Go to [novell.com/jobs](http://careers.novell.com/psp/css89prd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL) to apply now!

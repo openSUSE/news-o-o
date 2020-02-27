@@ -1,13 +1,16 @@
 ---
 author: Kostas Koudaras
+comments: true
 date: 2011-08-01 22:59:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/01/are-you-ready/
-title: "Are you ready for RWXÂ³ ?"
+slug: are-you-ready
+title: Are you ready for RWXÂ³ ?
+wordpress_id: 9918
 categories:
 - Conference
 ---
+
 
 
 
@@ -55,4 +58,4 @@ If you want to come, but money is a problem then you can apply for assistance th
 
 The conference will take place in [Zentrifuge](http://www.zentrifuge-nuernberg.de/) which is a very interesting place to be. [Zentrifuge](http://www.zentrifuge-nuernberg.de/) has an exhibition and event hall on the former grounds of a company called AEG. The hall is used to host art exhibitions of local and international artists and workshops. It is managed by a foundation that helps network the art world. The people there are very excited about the idea of hosting our conference so you can count on having a great time there during the conference.
 
-Oliver Fecher visited Zentrifuge Venue and took a few shoots of the place that will host the Conference. Take a closer look at the photos and imagine you and your favorite FOSS people having endless talks there.		
+Oliver Fecher visited Zentrifuge Venue and took a few shoots of the place that will host the Conference. Take a closer look at the photos and imagine you and your favorite FOSS people having endless talks there.

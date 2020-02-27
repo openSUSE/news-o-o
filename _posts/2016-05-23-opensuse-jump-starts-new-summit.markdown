@@ -1,11 +1,14 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-05-23 12:28:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/05/23/opensuse-jump-starts-new-summit/
-title: "openSUSE helps jump-start new summit"
+slug: opensuse-jump-starts-new-summit
+title: openSUSE helps jump-start new summit
+wordpress_id: 19901
 ---
+
 ![](https://www.gnome.org/wp-content/uploads/2016/05/Tilikum_Crossing_Jan_2015.jpg)
 
 Last week, members of [The GNOME Project](https://www.gnome.org/) announced a new conference in the United States northwest to enhance the GNU/Linux application ecosystem.
@@ -38,4 +41,4 @@ openSUSE community members living on the West Coast are encouraged to [submit a 
 
 Learn more about this conference by visiting [las.gnome.org](http://las.gnome.org/) or [watch this video](https://youtu.be/oDkvBcNJaIg?t=32m23s).
 
-Any companies interested in sponsoring the event along with openSUSE, should visit [the sponsorship page](http://las.gnome.org/sponsors/sponsorship-opportunities/).		
+Any companies interested in sponsoring the event along with openSUSE, should visit [the sponsorship page](http://las.gnome.org/sponsors/sponsorship-opportunities/).

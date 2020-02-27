@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2014-09-22 13:42:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/09/22/opensuse-13-2-is-coming-first-beta-has-arrived/
-title: "openSUSE 13.2 Is Coming - First Beta Has Arrived!"
+slug: opensuse-13-2-is-coming-first-beta-has-arrived
+title: openSUSE 13.2 Is Coming - First Beta Has Arrived!
+wordpress_id: 18556
 categories:
 - Announcements
 - Distribution
 ---
-(http://software.opensuse.org/developer/en) Get openSUSE 13.2 Beta!
+
+[caption id="attachment_14680" align="alignright" width="150"][![Download](/wp-content/uploads/2012/12/3654543066_2c8823cb03_o-e1363960517132.jpg)](http://software.opensuse.org/developer/en) Get openSUSE 13.2 Beta![/caption]
 
 Our brand new 'Rolling Factory' has already amassed [over 6000 installations](https://news.opensuse.org/2014/09/05/factory-over-6000-installations-and-growing/) and that's just kicking awesome. But we won't just roll: we will still create releases of openSUSE, and 13.2 is next! According to the [roadmap](https://en.opensuse.org/openSUSE:Roadmap), our latest Geeko is due in November and it will be awesome. We promise. But it doesn't come for free: you will have to help.<!-- more -->
 
@@ -18,7 +21,7 @@ Our brand new 'Rolling Factory' has already amassed [over 6000 installations](ht
 
 
 Thing is, Open Source can only be as awesome as the people who work on it! And while openSUSE 13.2 has many, _many_ awesome people working on it, what matters in the end is if it will work for **you**. There is only _one_ way to make sure it does: **test it**. Test your use cases and make sure what you need openSUSE 13.2 for will work perfectly. That crazy old system you have set up for your uncle? **Test it**. That brand new ultrabook of your sister? **Test it**. That super server you're secretly building in the cellar? **Test it**. [**TEST IT ALL!**](http://software.opensuse.org/developer/en)
-![Testing-Group-Logo]({{ site.baseurl }}/assets/Testing-Group-Logo-300x275.png)
+![Testing-Group-Logo](/wp-content/uploads/2011/07/Testing-Group-Logo.png)
 
 
 ## All the news
@@ -143,7 +146,7 @@ Not to be left out, LXDE also has gotten a series of improvements, even though t
   * Some more new features are to come like in place tabs renaming for LXTerminal.
 
 
-In look and feel news, Adwaita replaces Clearlooks as the default GTK theme. This provides an uniform appearance for both GTK2 and GTK3 programs. If using the Qt GTK GUI style, Qt applications are nicely integrated as well. Openbox uses a theme that matches Adwaita. And the panel background image has been replaced with a color so it is more integrated with the global appearance. Meanwhile, the the future replacement for LXDE, LXQt, has a repository available at [https://build.opensuse.org/project/show/X11:lxde:lxqt](https://build.opensuse.org/project/show/X11:lxde:lxqt). The desktop known for having the most playful UI, Enlightenment is at the latest e19 release, complete with a new default theme for openSUSE 13.2. Some new cool features, including better task management, a new tiling module, packagekit integration and more are introduced. It also includes the latest version of the Terminology terminal which brings many new features such as splits, tab like changing and the ability to change colors from the UI and more themes. Before the actual 13.2 release some new profiles will be added! ![128px-Icon-yast]({{ site.baseurl }}/assets/128px-Icon-yast.png)
+In look and feel news, Adwaita replaces Clearlooks as the default GTK theme. This provides an uniform appearance for both GTK2 and GTK3 programs. If using the Qt GTK GUI style, Qt applications are nicely integrated as well. Openbox uses a theme that matches Adwaita. And the panel background image has been replaced with a color so it is more integrated with the global appearance. Meanwhile, the the future replacement for LXDE, LXQt, has a repository available at [https://build.opensuse.org/project/show/X11:lxde:lxqt](https://build.opensuse.org/project/show/X11:lxde:lxqt). The desktop known for having the most playful UI, Enlightenment is at the latest e19 release, complete with a new default theme for openSUSE 13.2. Some new cool features, including better task management, a new tiling module, packagekit integration and more are introduced. It also includes the latest version of the Terminology terminal which brings many new features such as splits, tab like changing and the ability to change colors from the UI and more themes. Before the actual 13.2 release some new profiles will be added! ![128px-Icon-yast](/wp-content/uploads/2013/08/128px-Icon-yast.png)
 
 
 # **YaST**
@@ -196,7 +199,7 @@ All that news needs testing. Areas which can use extra love and attention includ
 Testing means installing the beta, playing around with it and [submitting bug reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports) when you bump into trouble. To test multiple devices it might make sense to download the beta and put it on an USB stick or a DVD so you can get to work right away. But be sure to also test that weird RAID setup, go through the installer to see if it deals with multiple installations and an resize partitions properly! Bugs should be reported and can be tracked via [Bugzilla](http://bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](http://en.opensuse.org/openSUSE:Submitting_bug_reports). There's a quick overview of the [most annoying bugs in 13.2 Beta](http://en.opensuse.org/openSUSE:Most_annoying_bugs_13.2_dev#openSUSE_13.2_Beta), check it out before you submit duplicate bug reports. Discussions about openSUSE development takes place on the [factory mailing list](http://lists.opensuse.org/opensuse-factory). [openSUSE Factory](http://en.opensuse.org/Portal:Factory) is the development release of openSUSE, you know, the one that is now rolling ;-) There is plenty of help available on the [Development page](http://en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](http://lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](http://en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
 
 
-# [![pizza David Standout geekoified]({{ site.baseurl }}/assets/pizza-David-Standout-geekoified-300x225.png)](http://en.opensuse.org/openSUSE:BetaPizzaParty)
+# [![pizza David Standout geekoified](/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](http://en.opensuse.org/openSUSE:BetaPizzaParty)
 
 
 
@@ -210,4 +213,4 @@ Continue te [openSUSE tradition of Beta Pizza parties](https://news.opensuse.org
 ## Go, test this release, be Geeko Awesome and make the release just like that!
 
 
-_And as always: a big, green hug to all the awesome geekos who contributed to openSUSE 13.2 and/or this story. And to anything else green and openSUSE!_		
+_And as always: a big, green hug to all the awesome geekos who contributed to openSUSE 13.2 and/or this story. And to anything else green and openSUSE!_

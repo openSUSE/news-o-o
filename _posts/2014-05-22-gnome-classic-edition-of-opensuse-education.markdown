@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2014-05-22 17:04:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/05/22/gnome-classic-edition-of-opensuse-education/
-title: "Gnome Classic edition of openSUSE-Education"
+slug: gnome-classic-edition-of-opensuse-education
+title: Gnome Classic edition of openSUSE-Education
+wordpress_id: 18025
 categories:
 - Announcements
 - Edu Li-f-e
@@ -15,6 +17,7 @@ tags:
 - opensuse
 - release
 ---
+
 If you have fun, the rest is easy...
 
 
@@ -47,4 +50,4 @@ BTW: openSUSE Education releases always contain the latest official openSUSE upd
 
 Get Li-f-e GNOME Classic edition from here: [direct Download](http://sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso/download) | [md5sum](http://sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso.md5/download) | [Alternate download and mirrors](http://download.opensuse-education.org/ISOs/)
 
-You want to join the team? Just ping us at [#opensuse-education](irc://irc.freenode.net/#opensuse-education). We are hiring community members to help out on web work and marketing (be warned: we currently pay in honor and fun).		
+You want to join the team? Just ping us at [#opensuse-education](irc://irc.freenode.net/#opensuse-education). We are hiring community members to help out on web work and marketing (be warned: we currently pay in honor and fun).

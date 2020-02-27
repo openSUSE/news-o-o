@@ -1,28 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2007-11-16 19:21:42+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/16/people-of-opensuse-federico-mena-quintero/
-title: "People of openSUSE: Federico Mena-Quintero"
+slug: people-of-opensuse-federico-mena-quintero
+title: 'People of openSUSE: Federico Mena-Quintero'
+wordpress_id: 515
 categories:
 - People of openSUSE
 ---
-Federico Mena-Quintero, the last member of the [first openSUSE Board](https://news.opensuse.org/?p=498) being interviewed on the 'People of openSUSE', is a full time GNOME 'bug-fixing' hacker, and one of the founders of the GNOME Project.
+
+Federico Mena-Quintero, the last member of the [first openSUSE Board](//news.opensuse.org/?p=498) being interviewed on the 'People of openSUSE', is a full time GNOME 'bug-fixing' hacker, and one of the founders of the GNOME Project.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![federico_mena-quintero.jpg]({{ site.baseurl }}/assets/federico_mena-quintero.jpg)
-|||
-|--- |--- |
-|**Nickname:**|Just "Federico", although you'll see me on #opensuse-gnome as
-"federico1" due to Freenode's retarded registration policies :)|
-|**Homepage:**|[http://www.gnome.org/~federico](http://www.gnome.org/%7Efederico)|
-|**Blog:**|[http://www.gnome.org/~federico/news.html](http://www.gnome.org/%7Efederico/news.html)|
-|||
-|**Favorite season:**|Uh, probably spring. Seasons are not really well defined when you live inside the tropics.|
-|**Motto:**|When in doubt, use brute force.|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![federico_mena-quintero.jpg](//news.opensuse.org/wp-content/uploads/2007/11/federico_mena-quintero.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >Just "Federico", although you'll see me on #opensuse-gnome as
+"federico1" due to Freenode's retarded registration policies :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.gnome.org/~federico](http://www.gnome.org/%7Efederico)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://www.gnome.org/~federico/news.html](http://www.gnome.org/%7Efederico/news.html)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Uh, probably spring. Seasons are not really well defined when you live inside the tropics.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >When in doubt, use brute force.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -260,7 +351,7 @@ Web development.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Finally, free time to work on the construction of my house!
@@ -297,7 +388,7 @@ Probably Star Wars.
 
 Whatever my wife and I cook :)
 
-Mexican (in its many sub-cuisines - Oaxaca, Yucatán, Veracruz, central Mexico...), Indian, Chinese, Mediterranean, Japanese...
+Mexican (in its many sub-cuisines - Oaxaca, YucatÃ¡n, Veracruz, central Mexico...), Indian, Chinese, Mediterranean, Japanese...
 
 Drink --- I'm not much of a drinker.  Good, strong beer.  White Russians.
 
@@ -350,7 +441,7 @@ With my wife, eating a lot, and taking lots of pictures in interesting places.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 That's US dollars?
@@ -366,7 +457,7 @@ Use the rest to buy an empty lot and build a nice house.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Somewhere in the 14th or 16th century.
@@ -433,3 +524,5 @@ The ones where I had to pick the pictures :)
 
 I can't think of anything else right now :)
 
+
+Since you don't have teaching the classics, feel free to skip those lessons [essay writers online](https://pro-essay-writer.com/) entirely and just start with the windows lessons

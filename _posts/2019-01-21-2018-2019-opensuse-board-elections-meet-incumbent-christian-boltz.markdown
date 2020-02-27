@@ -1,16 +1,19 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-21 04:11:03+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/21/2018-2019-opensuse-board-elections-meet-incumbent-christian-boltz/
-title: "2018-2019 openSUSE Board Elections: Meet incumbent Christian Boltz\
-  "
+slug: 2018-2019-opensuse-board-elections-meet-incumbent-christian-boltz
+title: '2018-2019 openSUSE Board Elections: Meet incumbent Christian Boltz'
+wordpress_id: 21485
 categories:
 - Announcements
 - Board
 - Board Elections
 - Project
 ---
+
 
 
 
@@ -79,7 +82,7 @@ I have been using [openSUSE](https://www.opensuse.org) for many years (it was st
 
 
 
-![]({{ site.baseurl }}/assets/Christian_Boltz-300x282.jpeg)**Christian Boltz aka cboltz, incumbent**
+![](/wp-content/uploads/2019/01/Christian_Boltz.jpeg)**Christian Boltz aka cboltz, incumbent**
 
 
 
@@ -184,7 +187,7 @@ Instead, I follow the [mailinglists](https://en.opensuse.org/openSUSE:Mailing_li
 
 
 
-![2018-2019 Election Poster contributed by Aris Winardi]({{ site.baseurl }}/assets/poster-election-628x1024.png)2018-2019 Election Poster contributed by Aris Winardi
+![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)2018-2019 Election Poster contributed by Aris Winardi
 
 
 
@@ -348,4 +351,4 @@ You can also find me on several mailinglists, and of course I still scare people
 
 
 
-		
+

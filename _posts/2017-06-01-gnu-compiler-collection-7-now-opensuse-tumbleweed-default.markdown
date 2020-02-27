@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-06-01 09:25:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/06/01/gnu-compiler-collection-7-now-opensuse-tumbleweed-default/
-title: "GNU Compiler Collection 7 Now openSUSE Tumbleweed Default"
+slug: gnu-compiler-collection-7-now-opensuse-tumbleweed-default
+title: GNU Compiler Collection 7 Now openSUSE Tumbleweed Default
+wordpress_id: 20429
 categories:
 - Tumbleweed
 tags:
@@ -24,7 +26,8 @@ tags:
 - xfwm4
 - zlib
 ---
-![]({{ site.baseurl }}/assets/geekoshirt-212x300.png)The default compiler for [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) became GNU Compiler Collection 7 after the release of snapshot [20170529](https://lists.opensuse.org/opensuse-factory/2017-05/msg00516.html) making openSUSE the first major distribution to have the new compiler by default.
+
+![](/wp-content/uploads/2017/06/geekoshirt.png)The default compiler for [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) became GNU Compiler Collection 7 after the release of snapshot [20170529](https://lists.opensuse.org/opensuse-factory/2017-05/msg00516.html) making openSUSE the first major distribution to have the new compiler by default.
 
 While [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) still has GCC6, GCC7 is now the standard for completing executable binaries for the chameleon’s rolling distribution and the change momentarily slowed down the rapid release cycle of Tumbleweed.
 
@@ -46,4 +49,4 @@ Snapshot [20170524](https://lists.opensuse.org/opensuse-factory/2017-05/msg00421
 
 Package updates for KDE Applications usually take two in snapshot  to completely update and snapshot [20170522](https://lists.opensuse.org/opensuse-factory/2017-05/msg00366.html) started the version update. Besides version [17.04.1](https://www.kde.org/announcements/announce-applications-17.04.1.php) that came in that snapshot, ucode-intel moved to version 20170511 and xfce4-terminal updated to 0.8.5 and gives users the option for a customizable size for the terminal.
 
-Snapshot [20170521](https://lists.opensuse.org/opensuse-factory/2017-05/msg00297.html) focused more on [GNOME](https://www.gnome.org/) changes as it transitioned to version [3.24.2](https://mail.gnome.org/archives/gnome-announce-list/2017-May/msg00011.html). Several core and app modules were updated in the version. The [20170521](https://lists.opensuse.org/opensuse-factory/2017-05/msg00297.html) snapshot also updated the [Linux Kernel](https://www.kernel.org/) to version 4.11.1, LibreOffice to version 5.3.3.2, and both Mozilla [Firefox](https://www.mozilla.org/en-US/firefox/52.1.1/releasenotes/) and [Thunderbird](https://www.mozilla.org/en-US/thunderbird/52.1.1/releasenotes/) offered security fixes with a version update to 52.1.1.		
+Snapshot [20170521](https://lists.opensuse.org/opensuse-factory/2017-05/msg00297.html) focused more on [GNOME](https://www.gnome.org/) changes as it transitioned to version [3.24.2](https://mail.gnome.org/archives/gnome-announce-list/2017-May/msg00011.html). Several core and app modules were updated in the version. The [20170521](https://lists.opensuse.org/opensuse-factory/2017-05/msg00297.html) snapshot also updated the [Linux Kernel](https://www.kernel.org/) to version 4.11.1, LibreOffice to version 5.3.3.2, and both Mozilla [Firefox](https://www.mozilla.org/en-US/firefox/52.1.1/releasenotes/) and [Thunderbird](https://www.mozilla.org/en-US/thunderbird/52.1.1/releasenotes/) offered security fixes with a version update to 52.1.1.

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-11-27 12:45:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/11/27/tumbleweed-changes-fonts-leap-gets-several-updates/
-title: "Tumbleweed changes fonts, Leap gets several updates"
+slug: tumbleweed-changes-fonts-leap-gets-several-updates
+title: Tumbleweed changes fonts, Leap gets several updates
+wordpress_id: 19636
 categories:
 - Leap
 - Tumbleweed
@@ -15,7 +17,8 @@ tags:
 - summit
 - Tumbleweed
 ---
-[![Tumbleweed-black-green]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)]({{ site.baseurl }}/assets/Tumbleweed-black-green.png)Tumbleweed had one snapshot so far this week that brought more appeal to users of openSUSE.
+
+[![Tumbleweed-black-green](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)Tumbleweed had one snapshot so far this week that brought more appeal to users of openSUSE.
 
 [Snapshot 20151123](http://lists.opensuse.org/opensuse-factory/2015-11/msg00654.html) changed fonts for openSUSE. The terminal font changed to Adobe Code Pro and Roboto was also added as the default font.
 
@@ -37,4 +40,4 @@ Users of openSUSE [Leap 42.1](https://en.opensuse.org/Features) who update will
 
 openSUSE is coming to Asia. The openSUSE Asia.Summit is Dec. 4 -6 at the National Taipei University of Education. The [schedule looks great](https://events.opensuse.org/conference/summitasia15/schedule#program) for this event. There are 46 hours worth of talks at this event. There will be 15 long-talks and 7 workshops. 
 
-From customizing openSUSE with SUSE Studio to building laaS Cloud with openSUSE and OpenStack, this summit is something you don’t want to miss. Admission is free and you can still sign up for the event.		
+From customizing openSUSE with SUSE Studio to building laaS Cloud with openSUSE and OpenStack, this summit is something you don’t want to miss. Admission is free and you can still sign up for the event.

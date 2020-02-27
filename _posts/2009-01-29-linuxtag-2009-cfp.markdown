@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-01-29 13:36:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/01/29/linuxtag-2009-cfp/
-title: "Linuxtag 2009, CFP"
+slug: linuxtag-2009-cfp
+title: Linuxtag 2009, CFP
+wordpress_id: 1156
 categories:
 - Events
 ---
+
 ![fosdem](http://files.opensuse.org/opensuse/en/c/c0/LinuxTag.png)Marko [posted](http://blog.markojung.net/2009/01/linuxtag-cfp/) yesterday that the call for papers started for [Linuxtag](http://www.linuxtag.org/2009/en.html). Of course we will have a booth and we also want to do an openSUSE day again. [Last year](http://en.opensuse.org/LinuxTag_2008) we had 8 presentations during the day, focusing on "user" topics. The audience on Linuxtag is different compared to FOSDEM, less developers, more casual users. Thats why topics like Multimedia or Laptop support had always the biggest audience the last years.
 
 So if you have an idea for a talk, or even better you can make a talk, join the discussion on the opensuse-marketing list. Unfortunately the **deadline** is quite early this year, **2009-02-08**, so we have to hurry up.
 
-To see what happened last year, head over to our [wiki](http://en.opensuse.org/LinuxTag_2008), with slides and videos (nearly all in German). Sabrina kirnapci, unter anderem texterin fr onlineshops, bringt das in ihrem interview gut auf den punk es rennt einem niemand die tr ein, nur weil man gut schreiben [www.bachelorschreibenlassen.com/hausarbeit-schreiben/](https://bachelorschreibenlassen.com/hausarbeit-schreiben/) kann		
+To see what happened last year, head over to our [wiki](http://en.opensuse.org/LinuxTag_2008), with slides and videos (nearly all in German). Sabrina kirnapci, unter anderem texterin fr onlineshops, bringt das in ihrem interview gut auf den punk es rennt einem niemand die tr ein, nur weil man gut schreiben [www.bachelorschreibenlassen.com/hausarbeit-schreiben/](https://bachelorschreibenlassen.com/hausarbeit-schreiben/) kann

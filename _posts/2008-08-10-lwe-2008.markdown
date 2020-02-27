@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-08-10 18:06:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/10/lwe-2008/
-title: "LWE 2008"
+slug: lwe-2008
+title: LWE 2008
+wordpress_id: 973
 categories:
 - Events
 ---
+
 Another show is over, it was a good one with some annoying stuff ... But first the good stuff: We gave away a lot of openSUSE PromoDVDs, so much that we ran out quite soon. But we ordered new ones, and in total i guess we spread 1800 DVDs. This includes the nice magazines we had, a full openSUSE 11.0 (yes, with 64bit), and GNOME/KDE Live system. Thats probably the most complete DVD you can get.
 
 ![openSUSE LWE](http://farm4.static.flickr.com/3288/2749544023_3900170b32_m.jpg) hmmm ... something wrong here?
@@ -18,4 +21,4 @@ Our location in the .org area was nearly the same as last year. This year with a
 
 San Francisco is a great city, cold as always but i even managed to get my face sunburned :-). I hope that i can attend again next year ... 
 
-Now i have to get rid of the jetlag and get used to CEST again. So far i'm doing pretty good, i woke up today at 17:00 :-).  I hope this will be better after my vacation on Monday ...		
+Now i have to get rid of the jetlag and get used to CEST again. So far i'm doing pretty good, i woke up today at 17:00 :-).  I hope this will be better after my vacation on Monday ...

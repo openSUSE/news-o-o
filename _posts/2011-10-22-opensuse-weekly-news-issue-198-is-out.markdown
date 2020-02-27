@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-10-22 17:50:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/22/opensuse-weekly-news-issue-198-is-out/
-title: "openSUSE Weekly News Issue 198 is out!"
+slug: opensuse-weekly-news-issue-198-is-out
+title: openSUSE Weekly News Issue 198 is out!
+wordpress_id: 11289
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News Issue 198.
 <!-- more -->
 
@@ -105,16 +108,16 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 ##### Top voted Features
 
-
+â€œ
 
 [decouple download and installation (Score: 372)](https://features.opensuse.org/120340)
 
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 [Look at plymouth for splash during boot (Score: 197)](https://features.opensuse.org/305493)
 
@@ -127,9 +130,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 168)](https://features.opensuse.org/305305)
@@ -137,9 +140,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 [Update to GRUB v2 (Score: 160)](https://features.opensuse.org/308497)
 
@@ -155,9 +158,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 [Popularity contest (Score: 114)](https://features.opensuse.org/305877)
 
@@ -176,13 +179,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 [Opensuse 12.1 - provide Blender 2.6 as default install](https://features.opensuse.org/312890)
 
@@ -195,9 +198,9 @@ This really should be included on the 12.1 dvd .iso
 
 Please!
 
-
+â€
 
-
+â€œ
 
 [Update boost to 1.47.0](https://features.opensuse.org/312892)
 
@@ -205,17 +208,17 @@ Boost 1.47.0 is out and it contains (apart from updates and fixes) new libraries
 
 [http://www.boost.org/users/history/version_1_47_0.html](http://www.boost.org/users/history/version_1_47_0.html)
 
-
+â€
 
-
+â€œ
 
 [Get 1-click installs to work in Rekonq & Konqueror](https://features.opensuse.org/312893)
 
 I have been using openSUSE since openSUSE 11.1. I really like Rekonq and like to use it from time-to-time. However, on openSUSE it is not a good choice because 1-click installs don't work from Rekonq, it just show a script or text in the browser. This is a HUGE lack of polish in openSUSE.
 
-
+â€
 
-
+â€œ
 
 [Adopt Kaptan Desktop Greeter in openSUSE](https://features.opensuse.org/312894)
 
@@ -225,17 +228,17 @@ Pardus is a great KDE distro and has one of the best "Desktop Greeter" of any KD
 
 [http://developer.pardus.org.tr/projects/kaptan/](http://developer.pardus.org.tr/projects/kaptan/)
 
-
+â€
 
-
+â€œ
 
 [Install Kate by default on KDE based installations](https://features.opensuse.org/312895)
 
 The default text editor installed in a KDE based install of OpenSUSE is Kwrite. I propose installing Kate along side or instead of Kwrite as it is more powerful. It's not too hard to install Kate via Zypper, but having it available "out of the box" would make OpenSUSE a better KDE distro.
 
-
+â€
 
-
+â€œ
 
 [Add bumblebee for NVidia Optimus graphics support](https://features.opensuse.org/312901)
 
@@ -247,9 +250,9 @@ Bumblebee aims to provide support for nVidia Optimus laptops for GNU/Linux
 distributions. Using Bumblebee, you can use your nVidia card for rendering
 graphics which will be displayed using the Intel card. (...)
 
-
+â€
 
-
+â€œ
 
 [rename priority of repository to rank](https://features.opensuse.org/312910)
 
@@ -259,9 +262,9 @@ rank - ranking
 
 this would ease support in the forums especially for Tumbleweed users.
 
-
+â€
 
-
+â€œ
 
 [Add option of UDF format to Yast partition manager](https://features.opensuse.org/312911)
 
@@ -273,9 +276,9 @@ UDF also has optional built-in ability to minimize wearing-off of rewritable med
 
 Despite this Yast2 partition manager does not suggest option to format a volume into UDF, thus forcing to use a mkudffs command line tool.
 
-
+â€
 
-
+â€œ
 
 [Support of Creative EMU-0204 USB-soundcard](https://features.opensuse.org/312913)
 
@@ -285,7 +288,7 @@ BTW, patch that enabling 0204 support was back-ported in Ubuntu so it support so
 
 [E-MU 0204 on Linux: working!](http://www.head-fi.org/t/553693/e-mu-0204-on-linux-working)
 
-
+â€
 
 ##### Feature Statistics
 
@@ -296,7 +299,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
@@ -304,7 +307,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 Past
 
-  * [October 19, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [October 19, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
   * [October 19-21, 2011 : Latinoware (Iguassu Falls, Brazil)](http://latinoware.org/)
 
@@ -312,7 +315,7 @@ Upcoming
 
   * [October 24-26, 2011 : Linux Kernel Summit (Praque, Czchech Republic)](http://events.linuxfoundation.org/events/linux-kernel-summit)
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -334,7 +337,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [openSUSE-SU-2011:1155-1: important: quagga: fixing multiple vulnerabilities](http://lists.opensuse.org/opensuse-security-announce/2011-10/msg00007.html)
 
@@ -378,9 +381,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >Buffer overflow and DDos Issues
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 [openSUSE-SU-2011:1161-1: important: ldns (CVE-2011-3581)](http://lists.opensuse.org/opensuse-security-announce/2011-10/msg00008.html)
 
@@ -424,11 +427,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >Buffer overflow
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 [Linus Torvalds: Linux 3.1-rc10](https://lkml.org/lkml/2011/10/18/2)
 
@@ -446,58 +449,58 @@ resolved, but on the whole 3.1 is long over-due and by the KS I think
 everybody will be relieved to have it out, and ready to open the merge
 window. (...)
 
-
+â€
 
+â€œ
 
-
-[Rares Aioanei: kernel weekly news “ 22.10.2011](http://schaiba.wordpress.com/2011/10/22/kernel-weekly-news-22-10-2011/)
+[Rares Aioanei: kernel weekly news â€“ 22.10.2011](http://schaiba.wordpress.com/2011/10/22/kernel-weekly-news-22-10-2011/)
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 [Dmitri Popov: Create Slick Slideshows with digiKam](http://scribblesandsnaps.wordpress.com/2011/10/17/create-slick-slideshows-with-digikam/)
 
-It™s easy to dismiss digiKam™s slideshow functionality as a feature of no particular use. After all, most photographers prefer to publish their photos using the photo sharing service of their choice. But the slideshow feature can come in handy when showcasing photos on your machine is the only option. Running a simple slideshow in digiKam is as easy as selecting the desired album or pictures and choosing **View** â†’ **Slideshow** â†’ **All** (or **Selection**). However, digiKam has something even better: using the **View** â†’ **Slideshow** â†’ **Advanced Slideshow** command, you can create rather impressive slideshows with smooth transitions and soundtracks. (...)
+Itâ€™s easy to dismiss digiKamâ€™s slideshow functionality as a feature of no particular use. After all, most photographers prefer to publish their photos using the photo sharing service of their choice. But the slideshow feature can come in handy when showcasing photos on your machine is the only option. Running a simple slideshow in digiKam is as easy as selecting the desired album or pictures and choosing **View** â†’ **Slideshow** â†’ **All** (or **Selection**). However, digiKam has something even better: using the **View** â†’ **Slideshow** â†’ **Advanced Slideshow** command, you can create rather impressive slideshows with smooth transitions and soundtracks. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 [Python4Kids/Brendan Scott: Classy Methods, a Sense of Self (Classes Part 2)](http://python4kids.wordpress.com/2011/10/17/classy-methods-a-sense-of-self-classes-part-2/)
 
-In our last tutorial we had our first look at classes and their attributes.  The attributes of a class are the data which are stored in the class.   The great thing about classes though is that we can use them to relate data to functions.  Just as the data of a class are called attributes, the functions of a class have a special name as well.  They are called methods. We have had a brief meeting with methods [earlier](http://python4kids.wordpress.com/2011/03/07/time-for-some-introspection/). (...)
+In our last tutorial we had our first look at classes and their attributes.  The attributes of a class are the data which are stored in the class.   The great thing about classes though is that we can use them to relate data to functions.  Just as the data of a class are called attributes, the functions of a class have a special name as well.  They are called â€œmethodsâ€. We have had a brief meeting with methods [earlier](http://python4kids.wordpress.com/2011/03/07/time-for-some-introspection/). (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 [IBM developerWorks/Tracy Bost: Learn Linux, 302 (Mixed environments): Managing user accounts and groups](http://www.ibm.com/developerworks/linux/library/l-lpic3-313-1/index.html)
 
-If you manage user and group accounts, you may find that these accounts don't always work seamlessly for users in mixed environments”a common source of frustration for both users and systems administrators. Fortunately, the Samba suite provides tools to help you manage the process. In this article, learn how to manage user and group accounts in your mixed environment. (...)
+If you manage user and group accounts, you may find that these accounts don't always work seamlessly for users in mixed environmentsâ€”a common source of frustration for both users and systems administrators. Fortunately, the Samba suite provides tools to help you manage the process. In this article, learn how to manage user and group accounts in your mixed environment. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 [Michal
-        HrušeckÃ½: How do I handle all those MySQLs](http://michal.hrusecky.net/2011/10/how-do-i-handle-all-those-mysqls/)
+        HruÅ¡eckÃ½: How do I handle all those MySQLs](http://michal.hrusecky.net/2011/10/how-do-i-handle-all-those-mysqls/)
 
-In openSUSE we™ve got currently MySQL Community Server, MariaDB and MySQL Cluster. From
+In openSUSE weâ€™ve got currently MySQL Community Server, MariaDB and MySQL Cluster. From
       all of these we have even multiple versions. Although these packages are different, they are
-      quilte similar. So I™m handling them in a little bit special way. When I was adding MariaDB I
+      quilte similar. So Iâ€™m handling them in a little bit special way. When I was adding MariaDB I
       knew that packaging will be quite similar to the MySQL Community Server. So I took some parts
       of .spec file away into separate files so I can sync them easily and left only package
       dependent parts in .spec files. Later on, I created special git repository and few scripts to
@@ -506,22 +509,22 @@ In openSUSE we™ve got currently MySQL Community Server, MariaDB and MySQL Clus
       And that is also some tutorial on how you can modify these packages easily or even create
       packages for other variants like Percona.
 
-
+â€
 
-
+â€œ
 
 [Jos Poortvliet: Almost too much going on...](http://blog.jospoortvliet.com/2011/10/almost-too-much-going-on.html)
 
-Been a busy week, last week. There was [Plasma Active One](http://www.kde.org/announcements/plasma-active-one/), [OwnCloud 2.0](http://owncloud.org/announcement/), [openQA 1.0](https://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/) and [KDE's 15th birthday](http://dot.kde.org/2011/10/05/freedom-15-years-party). Each of them deserves a lot of attention, which they got. I'll
+Been a busy week, last week. There was [Plasma Active One](http://www.kde.org/announcements/plasma-active-one/), [OwnCloud 2.0](http://owncloud.org/announcement/), [openQA 1.0](http://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/) and [KDE's 15th birthday](http://dot.kde.org/2011/10/05/freedom-15-years-party). Each of them deserves a lot of attention, which they got. I'll
       just add my thoughts! (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Announcements
 
-
+â€œ
 
 [Contributing to Samba: Samba now accepts corporate copyright](http://article.gmane.org/gmane.network.samba.internals/57144)
 
@@ -535,9 +538,9 @@ list.
 We'd like to thank our lawyers at the Software Freedom Law Center
 for helping us to make this change. (...)
 
-
+â€
 
-
+â€œ
 
 [GNOME 3.2.1 released](https://mail.gnome.org/archives/devel-announce-list/2011-October/msg00001.html)
 
@@ -548,34 +551,34 @@ course these improvements are kindly provided by our vibrant GNOME
 community members and contributors: so, thanks to our wonderful GNOME
 people. (...)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 [opensource.com/Marek Mahut: Creative Commons 4.0 on the horizon](http://opensource.com/government/11/10/creative-commons-40-horizon)
 
-Creative Commons held its [Global Summit](http://creativecommons.org/tag/warsaw) a few weeks ago in Warsaw, with amazing international participation. Without question, the most-discussed topic was the upcoming 4.0 release of the licenses, including related issues and a lively debate regarding whether the licenses should be ported to specific countries “ or whether we should instead try to create a new international license. (...)
+Creative Commons held its [Global Summit](http://creativecommons.org/tag/warsaw) a few weeks ago in Warsaw, with amazing international participation. Without question, the most-discussed topic was the upcoming 4.0 release of the licenses, including related issues and a lively debate regarding whether the licenses should be ported to specific countries â€“ or whether we should instead try to create a new international license. (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 [the register/Scott Gilbertson: OpenSUSE 12.1 delivers Fedora punch with GNOME 3](http://www.theregister.co.uk/2011/10/17/opensuse_12_point_1_review/)
 
 **Review** The big news in openSUSE 12.1, whose first beta
-        has recently dropped, is the arrival of GNOME 3 “ in this case GNOME 3.2.
+        has recently dropped, is the arrival of GNOME 3 â€“ in this case GNOME 3.2.
 
-Unlike Fedora, which is already into its second GNOME 3-based release, openSUSE had “
-        thanks to its release schedule “ stuck with GNOME 2 for its last release earlier this year.
+Unlike Fedora, which is already into its second GNOME 3-based release, openSUSE had â€“
+        thanks to its release schedule â€“ stuck with GNOME 2 for its last release earlier this year.
         (...)
 
-
+â€
 
-
+â€œ
 
 [Linux Pro Magazine/Bruce Byfield: How I Learned to Love the KDE 4 Series](http://www.linuxpromagazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/How-I-Learned-to-Love-the-KDE-4-Series)
 
@@ -585,7 +588,7 @@ Nobody could have been more surprised than I was. I'd worked in KDE 3.x many tim
 
 So why did I switch permanently? Two main reasons come to mind: KDE's design philosophy and its ability to innovate without dictating. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -617,7 +620,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -631,7 +634,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -665,7 +668,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 198 is available in: 
 
-  * [English](https://news.opensuse.org/?p=11289)
+  * [English](http://news.opensuse.org/?p=11289)
 
 Coming soon: 
 
@@ -680,6 +683,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2011-03-07 00:00:45+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/
-title: "openSUSE 11.4 Will Be First To Roll Out With LibreOffice"
+slug: opensuse-11-4-will-be-first-to-roll-out-with-libreoffice
+title: openSUSE 11.4 Will Be First To Roll Out With LibreOffice
+wordpress_id: 7118
 categories:
 - Distribution
 ---
-[![LibreOffice Splash on openSUSE]({{ site.baseurl }}/assets/LibreOffice-splash-150x150.jpg)](https://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/libreoffice-splash/)openSUSE 11.4 is set to release on 10th March 2010.  A highlight among many exciting features is the debut of [LibreOffice](http://www.libreoffice.org/), successor project of the popular cross-platform desktop office suite by OpenOffice.org.
+
+[![LibreOffice Splash on openSUSE](/wp-content/uploads/2011/03/LibreOffice-splash.jpg)](http://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/libreoffice-splash/)openSUSE 11.4 is set to release on 10th March 2010.  A highlight among many exciting features is the debut of [LibreOffice](http://www.libreoffice.org/), successor project of the popular cross-platform desktop office suite by OpenOffice.org.
 
 <!-- more -->
 
@@ -17,7 +20,7 @@ categories:
 
 
 LibreOffice comes with many improvements over its predecessor, OpenOffice.Org-3.2.1. The new Search Bar, Title Page, and Print Dialogs are impressive additions. [Petr Mladek](http://sysbytes.wordpress.com/2011/03/07/an-interview-with-petr-mladek-libre-office-developer/), long standing LibreOffice and openSUSE contributor ([Full interview](http://sysbytes.wordpress.com/2011/03/07/an-interview-with-petr-mladek-libre-office-developer/), comments:
-[![LibreOffice Calc on XFCE in openSUSE 11.4]({{ site.baseurl }}/assets/11.4-screenshot-libreoffice-calc-on-xfce-300x225.jpg)](https://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/11-4-screenshot-libreoffice-calc-on-xfce/)
+[![LibreOffice Calc on XFCE in openSUSE 11.4](/wp-content/uploads/2011/03/11.4-screenshot-libreoffice-calc-on-xfce.jpg)](http://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/11-4-screenshot-libreoffice-calc-on-xfce/)
 
 
 <blockquote>"I think that users will appreciate the new hierarchical axis labels for charts, RTF export, easier slide layout handling, and all the other features we were able to add thanks to our more open development model."</blockquote>
@@ -29,7 +32,7 @@ LibreOffice provides some unique benefits over other Office solutions beyond sim
 ## LibreOffice in openSUSE
 
 
-Mladek notes several advantages of LibreOffice in openSUSE; one of them being a huge group of LibreOffice Developers inside openSUSE benefiting from the suite's faster development model and no need of any copyright assignment. Another advantage he mentions is the use of the [![]({{ site.baseurl }}/assets/libreoffice-300x187.png)](https://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/libreoffice/)[openSUSE Build Service](https://build.opensuse.org/), which helps to keep the packages up-to-date and compatible for older distributions. And finally, openSUSE is the only distribution using the split build (separate packages for each component) which makes it easier to hack on LibreOffice, providing a quicker development path for bug fixes and incremental feature improvements.
+Mladek notes several advantages of LibreOffice in openSUSE; one of them being a huge group of LibreOffice Developers inside openSUSE benefiting from the suite's faster development model and no need of any copyright assignment. Another advantage he mentions is the use of the [![](/wp-content/uploads/2011/02/libreoffice.png)](http://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/libreoffice/)[openSUSE Build Service](https://build.opensuse.org/), which helps to keep the packages up-to-date and compatible for older distributions. And finally, openSUSE is the only distribution using the split build (separate packages for each component) which makes it easier to hack on LibreOffice, providing a quicker development path for bug fixes and incremental feature improvements.
 
 Developers and packagers at both LibreOffice and openSUSE have taken special care that the migration and update process from OpenOffice.org to LibreOffice moves on smoothly. Backward compatibility and improved import & export filters were set as top priorities.
 
@@ -40,7 +43,7 @@ LibreOffice receives major contributions from Novell and SUSE hackers, as [a rec
 
 
 Michael Meeks, another prominent LibreOffice contributor and openSUSE developer, adds:
-[![LibreOffice Writer on LXDE in openSUSE 11.4]({{ site.baseurl }}/assets/11.4-screenshot-libreoffice-writer-on-lxde-300x225.jpg)](https://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/11-4-screenshot-libreoffice-writer-on-lxde/)
+[![LibreOffice Writer on LXDE in openSUSE 11.4](/wp-content/uploads/2011/03/11.4-screenshot-libreoffice-writer-on-lxde.jpg)](http://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/11-4-screenshot-libreoffice-writer-on-lxde/)
 
 
 <blockquote>"I'm really excited to have LibreOffice in openSUSE 11.4, and the converse, to have so many great openSUSE developers involved with LibreOffice both in testing and developing. It is great to work together with the wider community to get the best Free Software Office experience possible into users' hands."</blockquote>
@@ -57,7 +60,7 @@ Michael Meeks, another prominent LibreOffice contributor and openSUSE developer,
 
 
 Meeks, who was closely involved with the decision to fork LibreOffice away from the control of Oracle and create the [Document Foundation](http://www.documentfoundation.org/), sees similarities between the Document Foundation and the work going on to set up an openSUSE Foundation:
-[![LibreOffice on GNOME in openSUSE 11.4]({{ site.baseurl }}/assets/11.4-screenshot-libreoffice-start-300x225.jpg)](https://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/11-4-screenshot-libreoffice-start/)
+[![LibreOffice on GNOME in openSUSE 11.4](/wp-content/uploads/2011/03/11.4-screenshot-libreoffice-start.jpg)](http://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/11-4-screenshot-libreoffice-start/)
 
 
 <blockquote>"in some ways, openSUSE's trajectory is close to that of LibreOffice's with the creation of a truly independent foundation. Surely openSUSE is under the stewardship of a company which is very much open to contributions, unlike OpenOffice.org was, but for sustained growth and a secure future a Foundation is really important."</blockquote>
@@ -72,4 +75,4 @@ Watch out for LibreOffice in the upcoming scheduled release of openSUSE 11.4 on 
 
 A recentÂ  [interview with openSUSE LibreOffice developer Petr Mladek ](http://sysbytes.wordpress.com/2011/03/07/an-interview-with-petr-mladek-libre-office-developer/)gives additional information.
 
-_Article contributed by Manu Gupta_		
+_Article contributed by Manu Gupta_

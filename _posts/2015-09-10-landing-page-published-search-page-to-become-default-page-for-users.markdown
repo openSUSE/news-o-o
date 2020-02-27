@@ -1,16 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-09-10 13:55:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/10/landing-page-published-search-page-to-become-default-page-for-users/
-title: "Landing page published, search page to become default page for users\
-  "
+slug: landing-page-published-search-page-to-become-default-page-for-users
+title: Landing page published, search page to become default page for users
+wordpress_id: 19481
 categories:
 - Distribution
 - Project
 ---
-[![Screen Shot 2015-09-10 at 15.46.06 copy]({{ site.baseurl }}/assets/Screen-Shot-2015-09-10-at-15.46.06-copy.png)]({{ site.baseurl }}/assets/Screen-Shot-2015-09-10-at-15.46.06-copy.png)An updated [landing page](https://www.opensuse.org) for the openSUSE Project is live and it features 18 different languages to describe the embodiment of the project.
+
+[![Screen Shot 2015-09-10 at 15.46.06 copy](/wp-content/uploads/2015/09/Screen-Shot-2015-09-10-at-15.46.06-copy.png)](/wp-content/uploads/2015/09/Screen-Shot-2015-09-10-at-15.46.06-copy.png)An updated [landing page](https://www.opensuse.org) for the openSUSE Project is live and it features 18 different languages to describe the embodiment of the project.
 
 New visitors can now easily understand the differences between the new regular release Leap and openSUSE’s rolling release Tumbleweed.
 
@@ -26,4 +28,4 @@ That page is located at [https://www.opensuse.org/searchPage/](https://www.opens
 
 Anyone who wants to contribute to the translations of either page should subscribe to the [openSUSE translation mailing list](http://lists.opensuse.org).
 
-		
+

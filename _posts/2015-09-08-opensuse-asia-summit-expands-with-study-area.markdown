@@ -1,18 +1,21 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2015-09-08 04:39:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/08/opensuse-asia-summit-expands-with-study-area/
-title: "openSUSE.Asia Summit expands with Study Area"
+slug: opensuse-asia-summit-expands-with-study-area
+title: openSUSE.Asia Summit expands with Study Area
+wordpress_id: 19471
 categories:
 - Announcements
 - Summit
 ---
- 
+
+
 
 The openSUSE.Asia Summit aims to promote Linux in Asia region. This year
-we are hosting the summit in Taipei ![Terry Crews Yelling]({{ site.baseurl }}/assets/terry-crews-yelling-I-want-MOAR-300x300.jpg)City, Taiwan. Study Area, a non-commercial community, aims to educate about Linux, its eco system and other areas of computing, has joined us in our mission to co-host the event. This collaboration will expand the frontiers of both the communities into one single mission of promoting both openSUSE and FOSS.
+we are hosting the summit in Taipei ![Terry Crews Yelling](/wp-content/uploads/2014/08/terry-crews-yelling-I-want-MOAR.jpg)City, Taiwan. Study Area, a non-commercial community, aims to educate about Linux, its eco system and other areas of computing, has joined us in our mission to co-host the event. This collaboration will expand the frontiers of both the communities into one single mission of promoting both openSUSE and FOSS.
 
 **About Study Area**
 
@@ -28,4 +31,4 @@ SA related online information
 
 (3) SA IRC Channel + [irc.freenode.net](http://irc.freenode.net/) /#study-area
 
-		
+

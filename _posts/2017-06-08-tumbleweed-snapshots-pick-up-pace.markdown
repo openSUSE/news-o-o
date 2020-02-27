@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-06-08 11:09:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/06/08/tumbleweed-snapshots-pick-up-pace/
-title: "Tumbleweed Snapshots Pick Up Pace"
+slug: tumbleweed-snapshots-pick-up-pace
+title: Tumbleweed Snapshots Pick Up Pace
+wordpress_id: 20441
 categories:
 - Announcements
 - Tumbleweed
@@ -32,7 +34,8 @@ tags:
 - Wayland
 - wireshark
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)The care and thoroughness of making [GNU Compiler Collection 7](https://gcc.gnu.org/gcc-7/changes.html) the default compiler for [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) produced a gradual decrease in snapshots over the past month, but it looks like snapshots of the rolling release are beginning to pick up the pace.
+
+![](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)The care and thoroughness of making [GNU Compiler Collection 7](https://gcc.gnu.org/gcc-7/changes.html) the default compiler for [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) produced a gradual decrease in snapshots over the past month, but it looks like snapshots of the rolling release are beginning to pick up the pace.
 
 The four snapshots released this week aligns much to closer to upstream development and releases of GNOME, KDE, QEMU and Mesa top the list of this week’s new packages in Tumbleweed.
 
@@ -50,4 +53,4 @@ Improved compile features [cmake 3.8.1](https://cmake.org/cmake/help/v3.8/releas
 
 The list of packages in the [20170601](https://lists.opensuse.org/opensuse-factory/2017-06/msg00089.html) snapshot seems never ending as there are may others that aren’t mentioned in the change log.
 
-A [Tumbleweed review](https://lists.opensuse.org/opensuse-factory/2017-06/msg00083.html) written by Dominique Leuenberger last week highlights package changes Tumbleweed users are likely to see soon include version of [Qt 5.9](https://wiki.qt.io/New_Features_in_Qt_5.9), [LibreOffice 5.4](https://wiki.documentfoundation.org/ReleaseNotes/5.4), [GStreamer 1.12](https://gstreamer.freedesktop.org/releases/1.12/) with MP3 support enabled out of the box and the programing language [go 1.8](https://golang.org/doc/go1.8). Leuenberger did express that openSSL 1.1.x as default implementation needs a lot of help, so join the [openSUSE Factory Mailing List](https://lists.opensuse.org/opensuse-factory/) and chime in to help the development progress.		
+A [Tumbleweed review](https://lists.opensuse.org/opensuse-factory/2017-06/msg00083.html) written by Dominique Leuenberger last week highlights package changes Tumbleweed users are likely to see soon include version of [Qt 5.9](https://wiki.qt.io/New_Features_in_Qt_5.9), [LibreOffice 5.4](https://wiki.documentfoundation.org/ReleaseNotes/5.4), [GStreamer 1.12](https://gstreamer.freedesktop.org/releases/1.12/) with MP3 support enabled out of the box and the programing language [go 1.8](https://golang.org/doc/go1.8). Leuenberger did express that openSSL 1.1.x as default implementation needs a lot of help, so join the [openSUSE Factory Mailing List](https://lists.opensuse.org/opensuse-factory/) and chime in to help the development progress.

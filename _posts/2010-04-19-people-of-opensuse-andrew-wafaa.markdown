@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-04-19 22:25:27+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/04/19/people-of-opensuse-andrew-wafaa/
-title: "People of openSUSE: Andrew Wafaa"
+slug: people-of-opensuse-andrew-wafaa
+title: 'People of openSUSE: Andrew Wafaa'
+wordpress_id: 3187
 categories:
 - People of openSUSE
 tags:
@@ -12,7 +14,6 @@ tags:
 - People
 - Weekly News
 ---
-
 
 
 
@@ -252,5 +253,3 @@ First I'd be boring and settle all my debts etc and put a couple of million into
 
 
 Do you prefer Star Wars or Star Trek?Â  Personally I prefer Babylon5 :-D
-
-		

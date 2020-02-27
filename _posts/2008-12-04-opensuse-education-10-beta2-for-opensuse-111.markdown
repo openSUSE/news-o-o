@@ -1,11 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-04 09:45:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/04/opensuse-education-10-beta2-for-opensuse-111/
-title: "openSUSE-Education: Live-CD, CD-Cover and 1.0 Beta2 for openSUSE\
-  \ 11.1"
+slug: opensuse-education-10-beta2-for-opensuse-111
+title: 'openSUSE-Education: Live-CD, CD-Cover and 1.0 Beta2 for openSUSE 11.1'
+wordpress_id: 1104
 categories:
 - Announcements
 - Edu Li-f-e
@@ -13,6 +14,7 @@ tags:
 - Education
 - release
 ---
+
 Here are the first results of the greatÂ [last Meeting](http://en.opensuse.org/Education/Meetings/Education_Meeting_2008-11-18) of the openSUSE-Education Team two weeks ago...
 
 We are proud to announce the first openSUSE Live-CD containing applications from openSUSE-Education - created via [Studio](http://susestudio.com/) by [Andrea Florio](http://lizards.opensuse.org/author/anubisg1/)!
@@ -52,9 +54,9 @@ Our updated [Roadmap](http://en.opensuse.org/Education/Edu-CD/Roadmap#Beta2.2C_2
 
 Â 
 
-Just use the YaST2 Add-On Product module to add our [Online-Repository](http://www.opensuse-education.org/download/repo/1.0/11.1/). A more detailed description can be found at the [openSUSE wiki](http://en.opensuse.org/Education/Repositories).
+Just use the YaST2 â€œAdd-On Productâ€ module to add our [Online-Repository](http://www.opensuse-education.org/download/repo/1.0/11.1/). A more detailed description can be found at the [openSUSE wiki](http://en.opensuse.org/Education/Repositories).
 
-For those without permanent Internet connection, we™ve created a DVD ISO which can be downloaded here:
+For those without permanent Internet connection, weâ€™ve created a DVD ISO which can be downloaded here:
 
 [http://www.opensuse-education.org/download/ISOs/openSUSE-Education-1.0-for-11.1-Beta2.iso](http://www.opensuse-education.org/download/ISOs/openSUSE-Education-1.0-for-11.1-Beta2.iso)
 
@@ -78,4 +80,4 @@ Find/Enter more on [http://devzilla.novell.com/education/](http://devzilla.novel
 
 A detailed [changelog](http://www.opensuse-education.org/download/repo/1.0/11.1/ChangeLog) is also available. So left to say:Â Have a lot of fun testing openSUSE and Education!
 
-Thanks to all for packaging, testing and/or discussing (in IRC on #opensuse-edu or in our [mailinglist](http://lists.opensuse.org/opensuse-edu/))! Wer sich fr ihr angebot interessiert, mchte [bachelorarbeit](https://bachelorschreibenlassen.com/) nmlich auch etwas ber sie wissen		
+Thanks to all for packaging, testing and/or discussing (in IRC on #opensuse-edu or in our [mailinglist](http://lists.opensuse.org/opensuse-edu/))! Wer sich fr ihr angebot interessiert, mchte [bachelorarbeit](https://bachelorschreibenlassen.com/) nmlich auch etwas ber sie wissen

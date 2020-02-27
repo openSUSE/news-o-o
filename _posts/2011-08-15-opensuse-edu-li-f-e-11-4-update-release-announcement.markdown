@@ -1,13 +1,16 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-08-15 13:22:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/15/opensuse-edu-li-f-e-11-4-update-release-announcement/
-title: "openSUSE Edu Li-f-e 11.4 update release announcement"
+slug: opensuse-edu-li-f-e-11-4-update-release-announcement
+title: openSUSE Edu Li-f-e 11.4 update release announcement
+wordpress_id: 10183
 categories:
 - Edu Li-f-e
 ---
+
 ï»¿
 
 The [openSUSE Education](http://en.opensuse.org/Portal:Education) team is proud to announce the release of updated [openSUSE Edu Li-f-e](http://en.opensuse.org/openSUSE:Education-Li-f-e) - Linux for Education. A Linux distribution that provides parents,  students, teachers as well as IT admins running labs at educational  institutes with education and development resources for their needs. Edu  Li-f-e is based on openSUSE 11.4.
@@ -21,9 +24,9 @@ Check out the [complete list of packages here](http://www.opensuse-education.org
 
 The ISO image can be used to create a [live DVD ](http://en.opensuse.org/SDB:Download_help#Burn_the_ISO_image.28s.29)or a bootable [USB stick](http://en.opensuse.org/Live_USB_stick).  If you intend to install it for everyday use, you need round about 20GB  of disk space, the install will take about 10GB. More information about  this image including known issues and their workarounds can be found [here](http://en.opensuse.org/openSUSE:Education-Li-f-e).
 
-For enhancement requests, bugs or just saying hello to us, [see Communicate here](http://en.opensuse.org/Portal:Education).
+For enhancement requests, bugs or just saying hello to us, [see â€œCommunicateâ€ here](http://en.opensuse.org/Portal:Education).
 
-And don™t forget to have a lot of fun...
+And donâ€™t forget to have a lot of fun...
 ![](https://lh4.googleusercontent.com/7ImLpQ_ww1Cjv5f0xwU3crJ4z81CUFNSAY9LYfSImiHI1zFN96lyZSIsrrxF0FfPKpnAIKl62XPquvXlzf6Ti1KwEfRsVNRCE2DuzkRuEE4J1ab-nco)
 
 
@@ -37,4 +40,4 @@ And don™t forget to have a lot of fun...
 
 
 [Direct Download](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-11.4-latest-i686.iso) |[ new metalink](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-11.4-1-i686.iso.meta4) |[ old metalink](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-11.4-latest-i686.iso.metalink) |[ md5sum](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-11.4-latest-i686.iso.md5) |[ torrent](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-11.4-latest-i686.iso.torrent)[](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-11.4-1-i686.iso.torrent)
-Use download manager or[ Metalink](http://en.opensuse.org/SDB:Metalink) client such as aria2c for most efficient way to download.		
+Use download manager or[ Metalink](http://en.opensuse.org/SDB:Metalink) client such as aria2c for most efficient way to download.

@@ -1,11 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-11-16 16:44:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/11/16/reminder-opensuse-project-meeting-wednesday-november-16-2009-at-1600-utc/
-title: "Reminder: openSUSE Project Meeting Wednesday November 18, 2009 at\
-  \ 16:00 UTC"
+slug: reminder-opensuse-project-meeting-wednesday-november-16-2009-at-1600-utc
+title: 'Reminder: openSUSE Project Meeting Wednesday November 18, 2009 at 16:00 UTC'
+wordpress_id: 2526
 categories:
 - Announcements
 tags:
@@ -13,7 +14,6 @@ tags:
 - opensuse-project
 - Project
 ---
-
 
 The next openSUSE Project meeting will take place Wednesday, November 18th, at 16:00 UTC. The meeting time in all time zones are listed on the [Fixed Time World Clock](http://bit.ly/3XhSxD). Project meetings are always held in the #opensuse-project channel on Freenode.
 
@@ -62,5 +62,3 @@ Wondering what meeting times are? [Check the openSUSE Meetings page](http://en.o
 
 
 If you're interested in how the openSUSE Project is run and want to participate, please be sure to join us on Wednesday. See you there!
-
-		

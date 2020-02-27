@@ -1,16 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-06-13 13:30:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/06/13/announcing-the-opening-of-registration-for-the-opensuse-conference-linuxdays-the-gentoo-miniconf-and-suse-labs/
-title: "Announcing the opening of registration for the openSUSE Conference,\
-  \ LinuxDays, the Gentoo Miniconf and SUSE Labs."
+slug: announcing-the-opening-of-registration-for-the-opensuse-conference-linuxdays-the-gentoo-miniconf-and-suse-labs
+title: Announcing the opening of registration for the openSUSE Conference, LinuxDays,
+  the Gentoo Miniconf and SUSE Labs.
+wordpress_id: 13515
 categories:
 - Announcements
 - Conference
 ---
-  
 
 
 [![Taking over Drumheller](http://farm6.staticflickr.com/5004/5328368184_53a6a355a0_n.jpg)](http://www.flickr.com/photos/venturevancouver/5328368184/)
@@ -26,7 +27,7 @@ Today, the most ambitious Free Software event of the Czech Republic officially o
 
 Most people don't realize it but these days, Free Software runs the world. From supercomputers and servers down to mobile phones and embedded devices - Linux has a majority market share in practically every market. A few markets remain closed due to the overwhelming dominance of a single vendor, employing every user lock-in, digital restriction and legal loophole at their disposal to keep the market close to innovation and progress. But Free keeps chippin' away at the power base of these behemoths - we are an almost unstoppable force. The Linux Kernel alone has over 2800 developers from more than 370 companies checking in a change set every 8 minutes round the clock, not counting all the rejected or modified patches. And while arguably the biggest project in Free Software (and the biggest single software engineering project the world has ever seen), countless other projects develop their own pieces of the puzzle that forms a Linux Operating System.
 
-![oSC logo]({{ site.baseurl }}/assets/logo1.png)
+![oSC logo](/wp-content/uploads/2012/06/logo1.png)
 
 
 ## Working Together!
@@ -47,7 +48,7 @@ This event brings together 4 distinct yet complementary events in one place. The
 
 
 To top it off, the team is currently working on setting up a 5th event as a feature track at the first day of the conference: FUTURE MEDIA. This track aims to widen the scope of the conference, bringing attention to the effects our work on Linux and Free Software has had on the world. Bringing together engineers and people who challenge the status quo with thought leaders and entrepreneurs, we'll bring keynotes and sessions on topics including digital lifestyle and the impact of social media, design and the Creative Commons, the future of knowledge sharing, Digital Freedom and more.
-![Beautiful city of prague]({{ site.baseurl }}/assets/prague-247x300.jpg)
+![Beautiful city of prague](/wp-content/uploads/2012/06/prague.jpg)
 
 
 ## But for now...
@@ -65,4 +66,4 @@ It is important to register on time. No, we won't shut you out if you didn't reg
 Here's the [registration link in English](http://goo.gl/prq4C)!
 And here you go [if you prefer it in Czech](http://goo.gl/7gWXy).
 
-**See you in Prague!**		
+**See you in Prague!**

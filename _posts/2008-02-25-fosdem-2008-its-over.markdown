@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-02-25 17:24:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/02/25/fosdem-2008-its-over/
-title: "FOSDEM 2008, It's Over..."
+slug: fosdem-2008-its-over
+title: FOSDEM 2008, It's Over...
+wordpress_id: 669
 categories:
 - Events
 ---
+
 I'm still a little bit groggy after FOSDEM, but so far i'm quite happy. Nothing really bad happened, it seems that everybody got back alive. :-)
 
 I will for sure forget something to list, but let me start.
@@ -34,7 +37,7 @@ I will for sure forget something to list, but let me start.
     * Very interesting community talks from the Jordis, nice to meet you guys, and Benjamin.
 
 	
-    * We recorded all talks, you will find them with the slides on the openSUSE [wiki](http://en.opensuse.org/FOSDEM2008), keep in mind that Jürgen and Tom need some time for cutting/encoding.
+    * We recorded all talks, you will find them with the slides on the openSUSE [wiki](http://en.opensuse.org/FOSDEM2008), keep in mind that JÃ¼rgen and Tom need some time for cutting/encoding.
 
 
 
@@ -93,4 +96,4 @@ I will for sure forget something to list, but let me start.
 
 If you want to see some pictures, so far there is nothing on [gallery.opensuse.org](http://gallery.opensuse.org), check out the collection Carlos [made](http://cgoncalves.blogspot.com/2008/02/if-i-cant-go-to-fosdem-2nd-part.html).
 
-Overall it was a great weekend, a lot of fun (and that's what it is about .. or?), and it showed again that FOSDEM is one of the most important events in Europe. If you have suggestions how to make it better, feel free to send them to the project mailing list. Thanks to everybody who helped/made a talk/supported us! If i didn't named you above, it's quite likely that i just need some sleep ... See you next year!		
+Overall it was a great weekend, a lot of fun (and that's what it is about .. or?), and it showed again that FOSDEM is one of the most important events in Europe. If you have suggestions how to make it better, feel free to send them to the project mailing list. Thanks to everybody who helped/made a talk/supported us! If i didn't named you above, it's quite likely that i just need some sleep ... See you next year!

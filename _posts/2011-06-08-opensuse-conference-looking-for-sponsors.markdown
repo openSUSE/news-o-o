@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-06-08 17:00:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/08/opensuse-conference-looking-for-sponsors/
-title: "openSUSE conference looking for sponsors"
+slug: opensuse-conference-looking-for-sponsors
+title: openSUSE conference looking for sponsors
+wordpress_id: 8950
 categories:
 - Conference
 ---
-[![rwx3 logo]({{ site.baseurl }}/assets/RWX3.png)](https://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/rwx3/)
+
+[![rwx3 logo](/wp-content/uploads/2011/05/RWX3.png)](http://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/rwx3/)
 
 Like the previous years, the openSUSE conference team is looking for sponsors. The [conference](http://en.opensuse.org/Portal:Conference) has grown 35% last year and we expect it to grow even more this year so financial help is needed!
 
@@ -33,9 +36,9 @@ openSUSE Conference Organization_
 ## This year: Read, Write, Execute and SUSE LABS
 
 
-In 2011, the theme of the combined openSUSE and SUSE Labs Conference is [RWX, the UNIX acronym for Read-Write-Execute](https://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/). To bring this theme to life, the sessions at oSC 2011 will have a strong focus on getting decisions made and work done in small, collaborative teams. Again many visitors from other projects will be invited and by co-locating with the SUSE Labs Conference, the larger number of community members at the conference will greatly increase its impact.
+In 2011, the theme of the combined openSUSE and SUSE Labs Conference is [RWX, the UNIX acronym for Read-Write-Execute](http://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/). To bring this theme to life, the sessions at oSC 2011 will have a strong focus on getting decisions made and work done in small, collaborative teams. Again many visitors from other projects will be invited and by co-locating with the SUSE Labs Conference, the larger number of community members at the conference will greatly increase its impact.
 
-[![impression of the location]({{ site.baseurl }}/assets/Zentr_impress-300x148.jpg)](https://news.opensuse.org/2011/06/08/opensuse-conference-looking-for-sponsors/zentr_impress/)
+[![impression of the location](/wp-content/uploads/2011/05/Zentr_impress.jpg)](http://news.opensuse.org/2011/06/08/opensuse-conference-looking-for-sponsors/zentr_impress/)
 
 
 ## SUSE Labs
@@ -47,4 +50,4 @@ The SUSE Labs Conference is a SUSE internal conference that has been organized b
 ## Place and date
 
 
-The openSUSE Conference and SUSE Labs Coference 2011 takes place in Nuremberg, Germany at Zentrifuge Nurenberg, from September 11 to September 14. Zentrifuge is an independent cultural center providing room for art and music performances and exibitions. This location gives the openSUSE Conference a culturally rich, creative environment, challenging visitors to bring their best!		
+The openSUSE Conference and SUSE Labs Coference 2011 takes place in Nuremberg, Germany at Zentrifuge Nurenberg, from September 11 to September 14. Zentrifuge is an independent cultural center providing room for art and music performances and exibitions. This location gives the openSUSE Conference a culturally rich, creative environment, challenging visitors to bring their best!

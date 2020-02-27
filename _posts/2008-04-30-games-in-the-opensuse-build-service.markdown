@@ -1,17 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-30 23:52:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/30/games-in-the-opensuse-build-service/
-title: "Games in the openSUSE Build Service"
+slug: games-in-the-opensuse-build-service
+title: Games in the openSUSE Build Service
+wordpress_id: 750
 categories:
 - Build Service
 ---
 
-
-
-![Games]({{ site.baseurl }}/assets/applications-games.png)
+![Games](/wp-content/uploads/2008/04/applications-games.png)
 
 
 Hello avid gamers and game developers!
@@ -22,4 +22,4 @@ This situation was causing more harm than good, so now we will only have  one "g
 
 If your favorite game is not yet packaged you can add it to the [Games Wishlist](http://en.opensuse.org/Wishlist_Games) at  openSUSE wiki. Or even better, you can try to package it by yourself and  when you are finished contact [Pavol  Rusnak](mailto:prusnak@suse.cz) and we will add the game to the repository. You can also ask on the [opensuse-packaging@opensuse.org](http://lists.opensuse.org/opensuse-packaging) ([subscribe](mailto:opensuse-packaging+subscribe@opensuse.org)) mailing list you have any troubles with the packaging.
 
-Game On!		
+Game On!

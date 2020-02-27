@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-02-25 08:32:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/02/25/new-workers-get-tumbleweed-rolling/
-title: "New workers get Tumbleweed rolling"
+slug: new-workers-get-tumbleweed-rolling
+title: New workers get Tumbleweed rolling
+wordpress_id: 19762
 categories:
 - Build Service
 - Tumbleweed
 ---
-![Tumbleweed-black-green]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)[openQA](https://openqa.opensuse.org/) workers that keep [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) tested and rolling have almost been replenished.
+
+![Tumbleweed-black-green](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)[openQA](https://openqa.opensuse.org/) workers that keep [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) tested and rolling have almost been replenished.
 
 The new hardware can run more workers and is newer, bigger and faster, which increases the speed of openQA testing. One of two Intel E5-2630 v3 is partially running while the other has yet to be integrated into the openSUSE infrastructure. Each machine has 8 cores with 16 threads for a total of 16 cores of 32 threads when both machines become fully functional. The new hardware has each have 256GB of RAM and 400GB Intel NVMe SSDs.
 
@@ -27,4 +30,4 @@ Since the last update, which informed readers about openQA workers (hardware) th
 
 The [glibc](http://www.eweek.com/security/linux-systems-patched-for-critical-glibc-flaw.html) fix was an emergency update because a vulnerability allow a remote attacker to take over Linux devices. Emergency updates in Tumbleweed, which are rarely used but occasional necessary, are updated through a Tumbleweed update repository that provides an update to a Tumbleweed snapshot as a last resort to provide an optimization fix before the next available snapshot. The updates are evaluated by a security team based on technical expertise. The team applies common sense and the very same diff that was also submitted to the regular Tumbleweed process, which is used to reduce user exposure time.
 
-[Snapshot 20160223](https://lists.opensuse.org/opensuse-factory/2016-02/msg00594.html) updated several other packages to 15.12.2. [Wireshark](https://www.wireshark.org/) added a subpackage and [GTK2, GTK3](http://www.gtk.org/) and [GStreamer](https://gstreamer.freedesktop.org/) added patches.		
+[Snapshot 20160223](https://lists.opensuse.org/opensuse-factory/2016-02/msg00594.html) updated several other packages to 15.12.2. [Wireshark](https://www.wireshark.org/) added a subpackage and [GTK2, GTK3](http://www.gtk.org/) and [GStreamer](https://gstreamer.freedesktop.org/) added patches.

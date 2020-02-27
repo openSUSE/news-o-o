@@ -1,15 +1,18 @@
 ---
 author: openSUSE Board
+comments: true
 date: 2013-05-10 17:00:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/05/10/ambassadors-event-merchendise-all-change/
-title: "Ambassadors & Event Merchandise - All Change!"
+slug: ambassadors-event-merchendise-all-change
+title: Ambassadors & Event Merchandise - All Change!
+wordpress_id: 15992
 categories:
 - Announcements
 - Events
 - Project
 ---
+
 Over the last few years, we've seen openSUSE grow into an international project consisting of a large number of volunteer contributors from around the world. These contributors have a wide range of skill sets and interests such as software development, systems engineering, artwork & marketing, in addition to more general enthusiasts. This diversity of contributors and their geographically distributed nature leads to some interesting challenges and questions for the project. For example:
 
 
@@ -63,14 +66,14 @@ Finally, we're **introducing two new programs**: the "Local Coordinator" role an
 
 
 The "**Local Coordinator**" is meant for established community members who are prepared to help coordinate openSUSE's presence in their community. These volunteers will need to be aware of how the openSUSE project works, so they can help guide people who need to find their way around the project.
-They will be expected to promote and advertise the openSUSE activities in their local area, through various methods like blogs, social networking, or writing articles for [news.opensuse.org](https://news.opensuse.org).
+They will be expected to promote and advertise the openSUSE activities in their local area, through various methods like blogs, social networking, or writing articles for [news.opensuse.org](//news.opensuse.org).
 These new Local Coordinators will also be responsible for ensuring that events in their local area have an openSUSE presence, either by attending themselves or helping organize other openSUSE Advocates to attend. They will also be responsible for helping keep the openSUSE Event List up to date, which will have a much greater importance for reasons that will become clear below. If you're interested in becoming an openSUSE Local Coordinator, please [read the wiki page to learn more](https://en.opensuse.org/openSUSE:Local_Coordinator).
 
 
 ## The Merchandising and Event Program
 
 
-[![Booth Materials example]({{ site.baseurl }}/assets/12030057-300x168.jpg)]({{ site.baseurl }}/assets/12030057.jpg)
+[![Booth Materials example](//news.opensuse.org/wp-content/uploads/2013/05/12030057.jpg)](//news.opensuse.org/wp-content/uploads/2013/05/12030057.jpg)
 
 Alongside the Local Coordinator Program, the openSUSE Team at SUSE has been investigating how to improve our presence at events with the materials they send.
 
@@ -89,7 +92,7 @@ The openSUSE team created a proposal to the board to focus on "Quality over Quan
 As each package will be more expensive we need to make sure of its usefulness for the event. The team made a list of events based on the places openSUSE Ambassadors visited the last year. The events considered bigger and more relevant will receive a box -smaller events for now will not receive a box.
 
 For smaller events our Travel Support Program will provide funds to reimburse local Advocates to create the needed materials. The openSUSE team will assist in creating sources like PDF files for posters to help with this. Much you can already find in our [github repository](https://github.com/openSUSE/artwork) and we'll work on improving that. The plan is also for the boxes to contain materials which can be re-used at other, smaller events.
-[![oS artwork]({{ site.baseurl }}/assets/oS-artwork-1024x458.jpg)](https://github.com/openSUSE/artwork)
+[![oS artwork](//news.opensuse.org/wp-content/uploads/2013/05/oS-artwork-1024x458.jpg)](https://github.com/openSUSE/artwork)
 
 
 ### Starting Up
@@ -103,4 +106,4 @@ For this year, the openSUSE team will thus send boxes to the major events. Work 
 
 As you might have noticed, we are in a transition now. At the moment, we no longer ship openSUSE DVDs and the website for ordering them is down. The materials needed for our big boxes is not ready yet- materials still have to be created.
 
-Meanwhile, we have only just begun talking to potential Local Coordinators and this, too, is still very much a work in progress. What we do here is the typical 'release early, release often': the new plans are thought out but the implementation is barely Alpha! We do need help with this. If you know a local Ambassador who would make an excellent Local Coordinator, please contact us (link...). And keep an eye on the ambassador- and marketing mailing lists for information about the merchandising.		
+Meanwhile, we have only just begun talking to potential Local Coordinators and this, too, is still very much a work in progress. What we do here is the typical 'release early, release often': the new plans are thought out but the implementation is barely Alpha! We do need help with this. If you know a local Ambassador who would make an excellent Local Coordinator, please contact us (link...). And keep an eye on the ambassador- and marketing mailing lists for information about the merchandising.

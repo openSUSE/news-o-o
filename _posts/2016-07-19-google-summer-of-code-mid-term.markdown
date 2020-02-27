@@ -1,17 +1,18 @@
 ---
-author: Christian Bruckmayer
+author: cbruckmayer
+comments: true
 date: 2016-07-19 07:39:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/07/19/google-summer-of-code-mid-term/
-title: "Google Summer of Code Mid-Term"
+slug: google-summer-of-code-mid-term
+title: Google Summer of Code Mid-Term
+wordpress_id: 20011
 categories:
 - Project
 tags:
 - Google Summer of Code
 - mentoring
 ---
-
 
 
 
@@ -23,7 +24,7 @@ In this years edition of Google Summer of Code, an international annual program 
 
 This year, we have three students working on the Open Source Event Manager (OSEM), which is a Ruby on Rails application that is used to organize openSUSE conferences. One of these three students is Ana Maria from Madrid. Her project is to improve the conference schedule to make it more functional and mobile friendly. In her midterm blog post, she shows and explains how she reimplemented the schedule within a bootstrap carousel.
 
-![new-schedule-tablet]({{ site.baseurl }}/assets/new-schedule-tablet.png)
+![new-schedule-tablet](/wp-content/uploads/2016/07/new-schedule-tablet.png)
 
 She also worked on a talks overview page and several smaller issues. For instance, several openSUSE Conference visitors this year reported that it would be nice to open the schedule with the current date selected, which Ana already implemented. One of the most important parts of Google Summer of Code is to teach the students open source and technical skills like Ana writes:
 <!-- more -->
@@ -46,7 +47,7 @@ The second student working on OSEM is Rishabh Saxena from India. Rishabh works o
 
 Although Nishanth Vijayan`s project is under the FOSDEM organization, he is the third student working on OSEM this year. While OSEM is an openSUSE project, FOSDEM wants to improve and extend OSEM for a more general use. This is a fine example of collaboration between open-source organizations. The goal is to implement a Revision History page so that organizers and admins are aware of all changes made to the data.
 
-![what_changed]({{ site.baseurl }}/assets/what_changed-1024x495.png)
+![what_changed](/wp-content/uploads/2016/07/what_changed.png)
 
 In [his blog](https://nishanthvijayan.github.io/gsoc-midterm-update), he describes the reasoning behind the project and explains several implementation details and decisions.
 
@@ -62,7 +63,7 @@ Matheus Fernandes is a student from Brazil's capital Brasília and this summer h
 
 Joaquín Yeray is from the most beautiful island of Gran Canaria and works on an alternative YaST Module to manage update-alternatives in openSUSE.
 
-![image2_en]({{ site.baseurl }}/assets/image2_en-1024x590.png)
+![image2_en](/wp-content/uploads/2016/07/image2_en.png)
 
 In his blog article, he describes the development process he uses together with his mentors Ancor and Josef. This includes daily meetings and developing a UI mockup and requesting early feedback from users. Implementation details and consideration are also a part of his blog article, which you can read [here](https://joaquinyeray.me/2016/07/01/an-initial-version-of-gsoc-project/).
 
@@ -91,10 +92,8 @@ The opportunity to have most GSoC participants together at the conference was ju
 
 You can read the full meeting minutes on the opensuse-project [mailing list](https://lists.opensuse.org/opensuse-project/2016-07/msg00002.html).
 
-![gsoc-geeko]({{ site.baseurl }}/assets/gsoc-geeko-1024x768.jpeg)
+![gsoc-geeko](/wp-content/uploads/2016/07/gsoc-geeko.jpeg)
 
 Last but not least, we would like to thank everyone involved (mentors, students, board, TSP etc.) in this year's Google Summer of Code - together we really make a difference!
 
 
-
-		

@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-03 10:02:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/03/national-opensuse-portuguese-meeting-enos-is-over/
-title: "National openSUSE Portuguese Meeting (ENOS) is Over"
+slug: national-opensuse-portuguese-meeting-enos-is-over
+title: National openSUSE Portuguese Meeting (ENOS) is Over
+wordpress_id: 208
 categories:
 - Events
 ---
-![enos-poster.jpg]({{ site.baseurl }}/assets/enos-poster.thumbnail.jpg)
+
+![enos-poster.jpg](//news.opensuse.org/wp-content/uploads/2007/09/enos-poster.thumbnail.jpg)
 The acronym [ENOS](http://en.opensuse.org/Events/ENOS) stands for _'Encontro Nacional de openSUSE'_, a Portuguese expression which can be translated as 'National openSUSE Meeting', an event meant to unite the Portuguese openSUSE users, as well as provide the participants an inside view into the latest developments in the openSUSE project and stimulate them to take an active part in the community itself. The event was a huge success with several intriguing talks and many participants.
 
 <!-- more -->
@@ -65,7 +68,7 @@ At the end of the day, none of the attendees could leave ENOS without an openSUS
 
 
 
-[![dsc_5000_thumb.jpg]({{ site.baseurl }}/assets/dsc_5000_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5000_jpg.png.html)  [![dsc_5012_thumb.jpg]({{ site.baseurl }}/assets/dsc_5012_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5012_jpg.png.html) [![dsc_5130_thumb.jpg]({{ site.baseurl }}/assets/dsc_5130_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5130_jpg.png.html)
+[![dsc_5000_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5000_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5000_jpg.png.html)  [![dsc_5012_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5012_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5012_jpg.png.html) [![dsc_5130_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5130_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5130_jpg.png.html)
 See the rest of the [Photo Gallery](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/)
 
 
@@ -86,4 +89,4 @@ We are looking forward to a second edition next year, ENOS 2008. Any volunteers 
   * Web: [http://opensusept.org/](http://opensusept.org/)
 
 
-Thanks to all attendees for participating!!
+Thanks to all attendees for participating!! Ob sie jeden account zurckfolgen, der ihnen folgt, bleibt ihnen [essay schreiben lassen using https://schreib-essay.com](https://schreib-essay.com/) berlassen

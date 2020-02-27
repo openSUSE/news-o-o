@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-01-11 11:21:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/01/11/kde-40-released-with-opensuse-packages-and-live-cd/
-title: "KDE 4.0 Released With openSUSE Packages and Live CD"
+slug: kde-40-released-with-opensuse-packages-and-live-cd
+title: KDE 4.0 Released With openSUSE Packages and Live CD
+wordpress_id: 612
 categories:
 - Derivatives
 tags:
 - KDE
 ---
+
 The KDE Community has [announced](http://www.kde.org/announcements/4.0/) the immediate availability of KDE 4.0.0. This significant release marks both the end of the long and intensive development cycle leading up to KDE 4.0 and the beginning of the KDE 4 era. KDE developers, including our [openSUSE KDE Team](http://opensuse.org/KDE/Team), have been working on getting toward KDE 4.0 for over 2 years. 
 
 
@@ -26,7 +29,7 @@ Lots of KDE Applications have seen improvements as well. Visual updates through 
 
 The Oxygen Artwork team provides a breath of fresh air on the desktop. Nearly all user-visible parts of the KDE desktop and applications have been given a facelift. Beauty and consistency are two of the basic concepts behind Oxygen.
 
-![KDE Four Live 1.0]({{ site.baseurl }}/assets/kde-four-livei686-10.png)
+![KDE Four Live 1.0](//news.opensuse.org/wp-content/uploads/2008/01/kde-four-livei686-10.png)
 
 See the rest of the [visual guide](http://www.kde.org/announcements/4.0/guide.php) for more information and images.
 
@@ -40,4 +43,4 @@ Regular [KDE 4 Packages](http://en.opensuse.org/KDE/KDE4) and an openSUSE-based 
 
 [![](http://files.opensuse.org/opensuse/en/d/dd/Kde4-ymp.png)](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Extra-Apps/openSUSE_10.3/KDE4-DEFAULT.ymp)
 
-Or you can choose to install a more [basic KDE 4 desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Desktop/openSUSE_10.3/KDE4-BASIS.ymp). Developers can also optionally install the[ KDE 4 build dependencies](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Desktop/openSUSE_10.3/KDE4-DEVEL.ymp): all the packages you need to have installed for compiling KDE 4.0 from source (experts only). Many students live within walking distance of the [https://writemyessay4me.org/](https://writemyessay4me.org/) campus		
+Or you can choose to install a more [basic KDE 4 desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Desktop/openSUSE_10.3/KDE4-BASIS.ymp). Developers can also optionally install the[ KDE 4 build dependencies](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Desktop/openSUSE_10.3/KDE4-DEVEL.ymp): all the packages you need to have installed for compiling KDE 4.0 from source (experts only). Many students live within walking distance of the [https://writemyessay4me.org/](https://writemyessay4me.org/) campus

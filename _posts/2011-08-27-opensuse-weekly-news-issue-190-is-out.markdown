@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-08-27 19:51:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/27/opensuse-weekly-news-issue-190-is-out/
-title: "openSUSE Weekly News, Issue 190 is out!"
+slug: opensuse-weekly-news-issue-190-is-out
+title: openSUSE Weekly News, Issue 190 is out!
+wordpress_id: 10444
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News, Issue 190.
 <!-- more -->
 
@@ -101,7 +104,7 @@ Enjoy reading :-)
 
 ## openSUSE Conference 2011â–¼
 
-
+â€œ
 
 [Sascha Manns: openSUSE Conference 2011: How to make a podcast?](http://saigkill.homelinux.net/entry/2011/08/23/opensuse-conference-2011-how-to-make-a-podcast)
 
@@ -111,9 +114,9 @@ Announcement about my Contribution in the **openSUSE
 As i checked the [Timetable](http://conference.opensuse.org/indico//conferenceTimeTable.py?confId=2#all.detailed) from the Conference, i've seen that i'm holding the Workshop at Monday
       from 9:30 h to 10:15 h. I'm happy about that. The official Abstract can be viewed [there](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=81&sessionId=4&confId=2). (...)
 
-
+â€
 
-
+â€œ
 
 [Jan Weber: Keysigning Party at openSUSE
         Conference 2011](http://www.luckylemon.de/?p=91)
@@ -130,16 +133,16 @@ A key signing party is a get-together of people who use the PGP encryption syste
       individual sovereignty, and even implementing encryption technologies or perhaps future work
       on free encryption software. (...)
 
-
+â€
 
-
+â€œ
 
 [Honey, your
-        conference is on the phone!](https://news.opensuse.org/2011/08/25/osc11-android-app/)
+        conference is on the phone!](http://news.opensuse.org/2011/08/25/osc11-android-app/)
 
-As we continue to work towards making this years [conference](https://news.opensuse.org/category/project/events/osc/) the best
-      ever, there™s one cool new thing we™ve never done before: Introducing the [openSUSE
-        Conference App](https://market.android.com/details?id=org.opensuse.conference.osc11) for your Android phone. With this app you™ll be able to:
+As we continue to work towards making this years [conference](http://news.opensuse.org/category/project/events/osc/) the best
+      ever, thereâ€™s one cool new thing weâ€™ve never done before: Introducing the [openSUSE
+        Conference App](https://market.android.com/details?id=org.opensuse.conference.osc11) for your Android phone. With this app youâ€™ll be able to:
 
   * Look at the daily timetable of sessions
 
@@ -149,21 +152,21 @@ As we continue to work towards making this years [conference](https://news.opens
 
   * Get a refreshed version of the schedule whenever you want (...)
 
-
+â€
 
-
+â€œ
 
 [Fun, fun, fun at
-        OSC11](https://news.opensuse.org/2011/08/22/osc11-fun/)
+        OSC11](http://news.opensuse.org/2011/08/22/osc11-fun/)
 
 The Zentrifuge, our [conference
         location](http://conference.opensuse.org/location) this year, is build in an old factory that was used for the production of
       washing machines (centrifuge, get it?). The bridging between technology and art is an
       important concern for them and thus our conference, as a technology conference, tries to cross
-      that bridge too. Of course we also follow our motto **Have a lot of fun¦**in this endeavor and throw a little
+      that bridge too. Of course we also follow our motto **Have a lot of funâ€¦**in this endeavor and throw a little
       party into the mix as well. So here is our blend of social events at OSC11. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -171,7 +174,7 @@ The Zentrifuge, our [conference
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-
+â€œ
 
 
       [Alex Eftimie: PackageKit backend for Software Center: pencils down report](http://alex.eftimie.ro/2011/08/22/packagekit-backend-for-software-center-pencils-down-report/)
@@ -179,7 +182,7 @@ The Zentrifuge, our [conference
 
 ![](http://swarm.cs.pub.ro/~alexef/gsoc/pk-suse/Workspace%201_006.png)
 
-Today the official coding period of GSoC 2011 ends. It™s been a four months journey, with
+Today the official coding period of GSoC 2011 ends. Itâ€™s been a four months journey, with
       challenges, failures and achievements, but nevertheless fun :-) . 
 
 You may be wondering what is the status of my project; here it goes: current version of
@@ -191,13 +194,13 @@ You may be wondering what is the status of my project; here it goes: current ver
 Moreover, my patches to [gobject-introspection](https://bugzilla.gnome.org/show_bug.cgi?id=652256), [PackageKit](https://gitorious.org/packagekit/packagekit/commit/c2016d35d33a03c481fd0586af26426184dfd758) and obviously [software-center](http://bazaar.launchpad.net/~software-store-developers/software-center/trunk/revision/2146), are all upstream and released; kudos to the project managers and
       the community for helping me get them there.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
-
+â€œ
 
 
         [Andreas Jaeger: openSUSE Factory Progress 2011-08-21](http://jaegerandi.blogspot.com/2011/08/opensuse-factory-progress-2011-08-21.html)
@@ -215,7 +218,7 @@ A plea: Please help documenting major changes of factory in the [openSUSE wiki](
         marketing team can start speaking about openSUSE 12.1 and does not miss important features!
         (...)
 
-
+â€
 
 Important Links
 
@@ -235,7 +238,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 362)](https://features.opensuse.org/120340)
@@ -244,9 +247,9 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 188)](https://features.opensuse.org/305493)
@@ -261,9 +264,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 163)](https://features.opensuse.org/305305)
@@ -271,9 +274,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 145)](https://features.opensuse.org/308497)
@@ -291,9 +294,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 108)](https://features.opensuse.org/305877)
@@ -314,13 +317,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Installing Opensuse Distro with YAST from source](https://features.opensuse.org/312756)
@@ -334,9 +337,9 @@ I would like to see a installation option in YAST that would allow me to install
 
 3.) Replace the original vanilla libraries from the distribution DVD and their updates with the complied applications.
 
-
+â€
 
-
+â€œ
 
 
             [Blacklist the pcspkr module by default](https://features.opensuse.org/312765)
@@ -348,7 +351,7 @@ I have openSUSE installed on two computers, my laptop and desktop (11.3 on the l
 
 Having to spend the time to learn what the speaker is, what drives it, and how to disable it is obviously not a great experience. I think it would be better for end users to have this module disabled by default, and if any seasoned admins really want it back, they know how to re-enable it.
 
-
+â€
 
 ##### Feature Statistics
 
@@ -359,7 +362,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
@@ -367,22 +370,22 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 Past
 
-  * [August 21, 2011 : Open Bugs Day by Testing Core Team](https://news.opensuse.org/2011/07/25/open-bugs-day-by-testing-core-team/)
+  * [August 21, 2011 : Open Bugs Day by Testing Core Team](http://news.opensuse.org/2011/07/25/open-bugs-day-by-testing-core-team/)
 
-  * [August 22, 2011 : osc11 Orga Meeting](https://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
+  * [August 22, 2011 : osc11 Orga Meeting](http://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
 
   * [August 15-19, 2011 : Journey to
             Upgrade Computer Science Unicentro (Guarapuava, Brazil)](http://eventos.unicentro.br/jai2011/)
 
 Upcoming
 
-  * [August 29, 2011 : osc11 Orga Meeting](https://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
+  * [August 29, 2011 : osc11 Orga Meeting](http://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
 
   * [August 30 - September 3, 2011 : FASOL (SantarÃ©m, Brazil)](http://www.fasol.org.br/)
 
   * [September 12-15, 2011 : VIII SECOMP Londrina (Londrina, Brazil)](http://www.secomplondrina.com.br/)
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -403,7 +406,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 The Section provides the Game of the Week, and Updates in the Game Repository
 
-
+â€œ
 
 
       [OStatic/Susan Linton: My
@@ -428,14 +431,14 @@ KMahjongg is basically a tile matching game. It really doesn't require any speci
 
 ![](http://www.tuxmachines.org/images/aug11_kmahjongg.jpeg)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [openSUSE-SU-2011:0935-1: important: mozilla-nss: Update to 3.12.11](http://lists.opensuse.org/opensuse-security-announce/2011-08/msg00016.html)
 
@@ -480,9 +483,9 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >The mozilla NSS libraries were updated to 3.12.11 to align with newer Mozilla
             seamonkey and Firefox releases.
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [openSUSE-SU-2011:0941-1: important: xen: Fixed a security bug and various other
@@ -529,9 +532,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td > CVE-2011-1898
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [openSUSE-SU-2011:0943-1: important: libmodplug: Fixed multiple vulnerabilities reported in
@@ -579,11 +582,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >fixes several security problems: CVE-2011-1761 CVE-2011-2911 CVE-2011-2912
             CVE-2011-2913 CVE-2011-2914 CVE-2011-2915
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [Linus Torvalds: Linux 3.1-rc3](http://article.gmane.org/gmane.linux.kernel/1182531)
@@ -608,24 +611,24 @@ builds while on the road.
 
 So go out and test. (...)
 
-
+â€
 
-
+â€œ
 
 
       [Rares
-        Aioanei: kernel weekly news “ 27.08.2011](http://schaiba.wordpress.com/2011/08/27/kernel-weekly-news-27-08-2011/)
+        Aioanei: kernel weekly news â€“ 27.08.2011](http://schaiba.wordpress.com/2011/08/27/kernel-weekly-news-27-08-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [Hubfolio/Matthew Casperson: Positioning windows automatically in Gnome 3](http://www.brighthub.com/hubfolio/matthew-casperson/blog/archive/2011/08/18/positioning-windows-automatically-in-gnome-3.aspx)
@@ -637,9 +640,9 @@ The problem with running applications in their own workspace is that you have to
 
 **Editors Note**: openSUSE users can install devilspie [via OBS](http://software.opensuse.org/search?p=1&baseproject=ALL&q=devilspie).
 
-
+â€
 
-
+â€œ
 
 
         [Tech Drive-in/Manuel Jose: 10 Good Inkscape Tutorials for Vector Graphic Designers](http://www.techdrivein.com/2011/08/10-good-inkscape-tutorials-for-vector.html)
@@ -647,11 +650,11 @@ The problem with running applications in their own workspace is that you have to
 
 Inkscape is the premier open source vector graphics editor for Linux. Inkscape is cross platform and is available for Windows and Mac OS X for free download. We have dealt with a bunch of really good [Inskcape tutorials](http://www.techdrivein.com/2010/10/13-beautiful-inkscape-tutorials-for.html) before, here are even more of those. Following is a collection of 10 of the very best and descriptive Inkscape tutorials from around the web. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [Eleven is Louder: An Introduction to Find](http://elevenislouder.blogspot.com/2011/08/introduction-to-find.html)
@@ -659,25 +662,25 @@ Inkscape is the premier open source vector graphics editor for Linux. Inkscape i
 
 Learning find can seem daunting at first, but it is worth learning. There is no single more useful search tool for UNIX like systems. You could almost consider find a very primitive scripting language in itself as find can find the files you request and then perform tasks. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Python4Kids/Brendan Scott: Really GUI (more on Buttons, images and handlers)](http://python4kids.wordpress.com/2011/08/22/really-gui-more-on-buttons-images-and-handlers/)
       
 
-In the last few tutorials we have been looking at various parts of what make up a graphical user interface.   We™ve created labels and buttons and have attached images to a label (and a button if you did the homework).  We have also associated an action with pressing a button.   In this tutorial we™re going to put these together to make a simple image viewer application.  As with the previous tutorials, this will only work with images which are saved as a gif format.  Also, a word of warning “ you need to do pretty much all of the code before any of it will work.
+In the last few tutorials we have been looking at various parts of what make up a graphical user interface.   Weâ€™ve created labels and buttons and have attached images to a label (and a button if you did the homework).  We have also associated an action with pressing a button.   In this tutorial weâ€™re going to put these together to make a simple image viewer application.  As with the previous tutorials, this will only work with images which are saved as a â€œgifâ€ format.  Also, a word of warning â€“ you need to do pretty much all of the code before any of it will work.
 
-Here are some images for you to use.  As with the earlier tutorial, you can either use ˜save as™ to download a copy, or you can use the Python code in the note below to download them (if you use Python you should be in your python4kids directory when you do the download otherwise the files will get saved somewhere else).  A gold star if you use Python for the download. (...)
+Here are some images for you to use.  As with the earlier tutorial, you can either use â€˜save asâ€™ to download a copy, or you can use the Python code in the note below to download them (if you use Python you should be in your python4kids directory when you do the download otherwise the files will get saved somewhere else).  A gold star if you use Python for the download. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [Dr. Bill: Geek Software of the Week: Clonezilla! ](http://www.drbill.cc/2011/08/20/geek-software-of-the-week-clonezilla/)
@@ -686,18 +689,18 @@ Here are some images for you to use.  As with the earlier tutorial, you can eith
 This is **AWESOME!** Open Source, **FREE**, and it handles nearly everything that you need for disk imaging! Also,
         there is a FREE Server Version as well as the regular PC Client Version!
 
-[Clonezilla “ The Free and Open Source Software for Disk Imaging and Cloning](http://clonezilla.org/)
+[Clonezilla â€“ The Free and Open Source Software for Disk Imaging and Cloning](http://clonezilla.org/)
 
-You™re probably familiar with the popular proprietary commercial package Norton Ghost.
+Youâ€™re probably familiar with the popular proprietary commercial package Norton Ghost.
         The problem with these kind of software packages is that it takes a lot of time to massively
-        clone systems to many computers. You™ve probably also heard of Symantec™s solution to this
+        clone systems to many computers. Youâ€™ve probably also heard of Symantecâ€™s solution to this
         problem, Symantec Ghost Corporate Edition with multicasting. Well, now there is an
         OpenSource clone system (OCS) solution called Clonezilla with unicasting and multicasting!
         (...)
 
-
+â€
 
-
+â€œ
 
 
         [BeginLinux: Configuring the DHCP Server](http://beginlinux.com/desktop/opensuse/configuring-the-dhcp-server)
@@ -713,11 +716,11 @@ What we will look at
 
   3. Configuring the Server from the command line (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
-
+â€œ
 
 [FrÃ©dÃ©ric
         Crozat: GNOME 3.0 Live image release 1.5.0 available](http://blog.crozat.net/2011/08/gnome-30-live-image-release-150.html)
@@ -728,11 +731,11 @@ I just push a new GNOME 3.0 live image labelled as 1.5.0 (yes, I forgot to push 
 
 As always, it can be downloaded from [http://www.gnome.org/getting-gnome/ ](http://www.gnome.org/getting-gnome/ ) (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
 
-
+â€œ
 
 
       [Handbrake How do I rip the whole DVD? Notifier quit announcing DVD/mounting DVD.](http://forums.opensuse.org/english/get-technical-help-here/multimedia/463864-handbrake-how-do-i-rip-whole-dvd-notifier-quit-announcing-dvd-mounting-dvd.html)
@@ -742,9 +745,9 @@ As always, it can be downloaded from [http://www.gnome.org/getting-gnome/ ](http
       Handbrake is an extensive tool to rip DVD's to another file format, amongst other things it can do. The starter of this thread is looking for support in using it, embedding a problem he has with regard to mounting DVD's. A lot of members jump in with advice. A good read for those interested in the features and possibilities of this excellent tool. 
     
 
-
+â€
 
-
+â€œ
 
 
     [Chromium/Chrome: broken packages !! Do not update.](http://forums.opensuse.org/english/get-technical-help-here/applications/464263-chromium-chrome-broken-packages-do-not-update.html)
@@ -754,9 +757,9 @@ As always, it can be downloaded from [http://www.gnome.org/getting-gnome/ ](http
       This is one of the threads in the forums on issues with the Chromium, Google's browser, packages. We decided to warn users not to upgrade, since the released versions (by Google) resulted in broken packages, i.e. software not working as it should. Thanks to the cooperation of some of our memnbers and the interaction with one of the packagers, this didn't last long. If you experience problems with Chromium read this thread, also search the forums for "Chromium" to find the other threads on this subject.
       
 
-
+â€
 
-
+â€œ
 
 
     [Sound from mic coming through speakers/headphones](http://forums.opensuse.org/english/get-technical-help-here/tumbleweed/464190-sound-mic-coming-through-speakers-headphones.html)
@@ -766,9 +769,9 @@ As always, it can be downloaded from [http://www.gnome.org/getting-gnome/ ](http
       This one opens rather funny, if you don't have the problem on your own hardware. Any keystroke of the poster's laptop is picked up by the microphone, and audible through the speakers. It ends with "Well done oldcpu. Bleeding edge but encouraging, and another satisfied user"...
       
 
-
+â€
 
-
+â€œ
 
 
       openSUSE Language specific subforums:
@@ -782,43 +785,43 @@ We now host the following language specific subforums under the umbrella of the 
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Reports
 
-
+â€œ
 
 
         [Dan Vratil: Akonadi Google Resource: complete rewrite](http://progdan.cz/2011/08/akonadi-google-resource-complete-rewrite/)
       
 
 today I finally pushed a completely new version of the Akonadi Google Resource. Since
-        last update cca 2 months ago I™ve completely rewritten the resources, moving most of the
+        last update cca 2 months ago Iâ€™ve completely rewritten the resources, moving most of the
         functionality into libKGoogle . The library now provides access to Google services and can
-        be easily used by any other project. So what™s new? A lot of things changed for programmers.
-        I™ve begun to fulfill my threats about providing a C++/Qt library for accessing Google
-        Services. It™s not pure Qt, I™m using some KDE stuff in there, but that will change.
+        be easily used by any other project. So whatâ€™s new? A lot of things changed for programmers.
+        Iâ€™ve begun to fulfill my threats about providing a C++/Qt library for accessing Google
+        Services. Itâ€™s not pure Qt, Iâ€™m using some KDE stuff in there, but that will change.
 
 LibKGoogle now provides API similar to QNetworkAccessManager (KGoogleAccessManager)
-        through which you can send KGoogleRequest and if it works, you™ll receive a KGoogleReply.
+        through which you can send KGoogleRequest and if it works, youâ€™ll receive a KGoogleReply.
         Each Google Service is represented by a KGoogleService subclass, implementing XML and/or
         JSON parser and serializer and providing informations about fetch/create/update URLs. Each
         object (contact, event, calendar) is represented by KGoogleObject subclass. For now, Event
         class is implements KCalCore::Event as well, the Calendar and Contact classes provide their
         own implementation of everything. Porting it to KABC/KCalCore is on TODO. (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [h-online/Dr. Oliver Diedrich: The history of Linux](http://www.h-online.com/open/features/The-history-of-Linux-1331088.html)
@@ -832,16 +835,16 @@ It has been twenty years since Linus Torvalds programmed the first few lines of 
         Eventually, his memory management, process switching and I/O experiments developed into
         something that resembled a rudimentary operating system kernel. (...)
 
-
+â€
 
-
+â€œ
 
 
         [arstechnica/Ryan Paul: March of the Penguin: Ars looks back at 20 years of Linux](http://arstechnica.com/open-source/news/2011/08/march-of-the-penguin-ars-looks-back-at-20-years-of-linux.ars)
       
 
 The Linux kernel was originally created by Linus Torvalds, a Finnish computer science
-        student, and first announced to the world on August 25, 1991”exactly 20 years ago today. At
+        student, and first announced to the world on August 25, 1991â€”exactly 20 years ago today. At
         the time, Torvalds described his work as a "hobby" and contended that it would not be "big
         and professional" like the GNU project.
 
@@ -850,32 +853,32 @@ But the Linux kernel turned out to be one of the most significant pieces of open
         into a global phenomenon that runs on everything from low-cost e-book readers to a majority
         of the world's supercomputers. Here's how it grew.
 
-
+â€
+
+â€œ
 
 
-
-
-        [MakeUseOf/Danny Stieben: KMail “ A Different Kind Of Email Client For KDE](http://www.makeuseof.com/tag/kmail-kind-email-client-kde-linux/)
+        [MakeUseOf/Danny Stieben: KMail â€“ A Different Kind Of Email Client For KDE](http://www.makeuseof.com/tag/kmail-kind-email-client-kde-linux/)
       
 
-If you™ve been following the pretty intense battles between the many different browsers,
-        as well as the subtle but still important operating system battles, you™ll know that people
+If youâ€™ve been following the pretty intense battles between the many different browsers,
+        as well as the subtle but still important operating system battles, youâ€™ll know that people
         are definitely scattered all over the place with their favorite choices. Email clients
-        aren™t any exception either, as you™ll find people use various tools to manage their email,
+        arenâ€™t any exception either, as youâ€™ll find people use various tools to manage their email,
         the two most popular being the[Gmail](http://www.makeuseof.com/tags/gmail/) website and the[Thunderbird](http://www.makeuseof.com/tags/thunderbird/)desktop app.
 
-Today we™ll be looking at a top KDE choice that has plenty to offer for those of you who
+Today weâ€™ll be looking at a top KDE choice that has plenty to offer for those of you who
         crave some power and control over their applications.
 
-
+â€
+
+â€œ
 
 
-
-
-        [It™s A Binary World 2.0/Eric Mesa: Testing out Amarok 2.4.3²s Dynamic Playlists](http://server.ericsbinaryworld.com/blog/2011/08/26/testing-out-amarok-2-4-3s-dynamic-playlists/)
+        [Itâ€™s A Binary World 2.0/Eric Mesa: Testing out Amarok 2.4.3â€²s Dynamic Playlists](http://server.ericsbinaryworld.com/blog/2011/08/26/testing-out-amarok-2-4-3s-dynamic-playlists/)
       
 
-I™ve spoken about Amarok™s Dynamic Playlists [before](http://server.ericsbinaryworld.com/blog/2010/11/26/amarok-and-my-stats-fail/). Despite my best attempts, I couldn™t quite get it to work correctly.
+Iâ€™ve spoken about Amarokâ€™s Dynamic Playlists [before](http://server.ericsbinaryworld.com/blog/2010/11/26/amarok-and-my-stats-fail/). Despite my best attempts, I couldnâ€™t quite get it to work correctly.
         However, Amarok 2.4.3 has revamped the dynamic playlists engine and interface, so I wanted
         to check it out and see if it worked better as well as testing out some of the new features.
         For one thing, they changed the interface to more closely match the interface for static
@@ -883,23 +886,23 @@ I™ve spoken about Amarok™s Dynamic Playlists [before](http://server.ericsbin
 
 ![](http://server.ericsbinaryworld.com/blog/wp-content/uploads/2011/08/amarok-newdynamicinterface1-500x216.png)
 
-
+â€
 
-
+â€œ
 
 
         [TechCrunch/Scott Merrill: LinuxCon: Open Source is an Ecosystem, not a Zero Sum Game](http://techcrunch.com/2011/08/21/linuxcon-open-source-is-an-ecosystem-not-a-zero-sum-game/)
       
 
-Linux and open source development is not a zero sum game. This was the explicit message from Ubuntu Technical Architect Allison Randal™s keynote speech at LinuxCon, but the sentiment had been articulated in a number of ways all week long from everyone here. The processes by which a company makes great open source software improve the world for everyone.
+Linux and open source development is not a zero sum game. This was the explicit message from Ubuntu Technical Architect Allison Randalâ€™s keynote speech at LinuxCon, but the sentiment had been articulated in a number of ways all week long from everyone here. The processes by which a company makes great open source software improve the world for everyone.
 
 (...)
 
-There are many ways to thrive within the open source ecosystem. Whether its an unwavering dedication to kernel excellence (a la Linus Torvalds and Greg Kroah-Hartman) or a dedication to producing viable, usable tools for everyone to use to avoid reinventing the wheel. The [Yocto project](http://www.yoctoproject.org/) is working on this for the embedded space, just as SUSE, under the fresh leadership of Attachmate, is making available their [Open Build Service](http://openbuildservice.org/) to help people roll packages for multiple distributions. SUSE is also sharing their [SUSE Studio](http://susestudio.com/) to allow ISVs and companies to develop and maintain their own Linux build for use in appliances and golden master images. You don™t have to be a SUSE customer to use these tools. (...)
+There are many ways to thrive within the open source ecosystem. Whether its an unwavering dedication to kernel excellence (a la Linus Torvalds and Greg Kroah-Hartman) or a dedication to producing viable, usable tools for everyone to use to avoid reinventing the wheel. The [Yocto project](http://www.yoctoproject.org/) is working on this for the embedded space, just as SUSE, under the fresh leadership of Attachmate, is making available their [Open Build Service](http://openbuildservice.org/) to help people roll packages for multiple distributions. SUSE is also sharing their [SUSE Studio](http://susestudio.com/) to allow ISVs and companies to develop and maintain their own Linux build for use in appliances and â€œgolden masterâ€ images. You donâ€™t have to be a SUSE customer to use these tools. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Free Software Foundation/Brett Smith: Android GPLv2 termination worries: one more reason to upgrade to GPLv3](http://www.fsf.org/news/android-termination-upgrade-gplv3)
@@ -909,11 +912,11 @@ There are many ways to thrive within the open source ecosystem. Whether its an u
 
 Thanks to Android's commercial success, the kernel Linux, which is released under the GNU General Public License (GPL) version 2, is being distributed more than ever before. Whenever someone distributes GPL-covered software, they must follow a few conditions set forth in the license. These conditions try to give anyone who receives the software both the legal permission and the practical tools necessary to change and share the software themselves if they wish.
 
-Not all of the companies that distribute Android heed these conditions. We've witnessed an uptick in GPL violation reports”some convincing, others incomplete or misinformed”against these vendors. We generally can't pursue these violations directly, because only copyright holders can enforce free software licenses in most countries, and few Android devices use FSF-copyrighted code. However, people still seek out our opinions about the relevant parts of the GPL, and that discussion has recently turned to GPLv2's termination provisions. Section 4 of the license says, You may not copy, modify, sublicense, or distribute the Program except as expressly provided under this License. Any attempt otherwise to copy, modify, sublicense or distribute the Program is void, and will automatically terminate your rights under this License. (...)
+Not all of the companies that distribute Android heed these conditions. We've witnessed an uptick in GPL violation reportsâ€”some convincing, others incomplete or misinformedâ€”against these vendors. We generally can't pursue these violations directly, because only copyright holders can enforce free software licenses in most countries, and few Android devices use FSF-copyrighted code. However, people still seek out our opinions about the relevant parts of the GPL, and that discussion has recently turned to GPLv2's termination provisions. Section 4 of the license says, â€œYou may not copy, modify, sublicense, or distribute the Program except as expressly provided under this License. Any attempt otherwise to copy, modify, sublicense or distribute the Program is void, and will automatically terminate your rights under this License.â€ (...)
 
-
+â€
 
-
+â€œ
 
 
         [Das U-Blog/Prashanth Venkataram: Revisited: openSUSE 11.4 GNOME](http://dasublogbyprashanth.blogspot.com/2011/08/revisited-opensuse-114-gnome.html)
@@ -921,11 +924,11 @@ Not all of the companies that distribute Android heed these conditions. We've wi
 
 If you guessed again that there isn't much else to write about, you'd be right! That's why I'm looking at openSUSE 11.4 GNOME today.
 
-A few months ago, I took a look at openSUSE 11.4 KDE. Before that, I had compared openSUSE 11.3 KDE to other distributions that primarily used KDE. I found that version 11.4 was a dramatic improvement over version 11.3, to the point where I heartily recommended it to anyone who wanted to try it. It was fairly fast, stable, looked great, and had or could easily get all the applications I wanted. But to call openSUSE a primarily KDE distribution is slightly misleading, because while openSUSE does indeed try to promote KDE a little more, it puts just as much effort into making the GNOME edition a unique experience as well. Plus, the developers that created openSUSE also created Mono, which is basically the C# programming language for Linux, and helped develop the applications written in it that are now popularly used in many GNOME distributions, such as the Evolution mail client (UPDATE: Evolution is not written in Mono, though it was developed by the same group/a group close to that one that developed openSUSE ” thanks to an anonymous reader for the correction), Tomboy note-taking application, F-Spot photo manager, and GNOME-Do launcher. So I figured it's time to see what openSUSE GNOME is really like. (...)
+A few months ago, I took a look at openSUSE 11.4 KDE. Before that, I had compared openSUSE 11.3 KDE to other distributions that primarily used KDE. I found that version 11.4 was a dramatic improvement over version 11.3, to the point where I heartily recommended it to anyone who wanted to try it. It was fairly fast, stable, looked great, and had or could easily get all the applications I wanted. But to call openSUSE a primarily KDE distribution is slightly misleading, because while openSUSE does indeed try to promote KDE a little more, it puts just as much effort into making the GNOME edition a unique experience as well. Plus, the developers that created openSUSE also created Mono, which is basically the C# programming language for Linux, and helped develop the applications written in it that are now popularly used in many GNOME distributions, such as the Evolution mail client (UPDATE: Evolution is not written in Mono, though it was developed by the same group/a group close to that one that developed openSUSE â€” thanks to an anonymous reader for the correction), Tomboy note-taking application, F-Spot photo manager, and GNOME-Do launcher. So I figured it's time to see what openSUSE GNOME is really like. (...)
 
-
+â€
 
-
+â€œ
 
 [CNN/Mark Milian: At 20, Linux is invisible, ubiquitous](http://www.cnn.com/2011/TECH/gaming.gadgets/08/25/linux.20/index.html)
 
@@ -940,7 +943,7 @@ By now, he's used to the penguin being met with bewildered stares. It represents
         Hollywood, California, man lamented in a recent interview. "The Linux logo is still kind of
         grass-roots." (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -972,7 +975,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -986,7 +989,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1018,7 +1021,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 190 is available in: 
 
-  * [English](https://news.opensuse.org/?p=10913)
+  * [English](http://news.opensuse.org/?p=10913)
 
 Coming soon: 
 
@@ -1031,6 +1034,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

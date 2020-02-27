@@ -1,28 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2007-12-14 12:00:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/12/14/people-of-opensuse-james-ogley/
-title: "People of openSUSE: James Ogley"
+slug: people-of-opensuse-james-ogley
+title: 'People of openSUSE: James Ogley'
+wordpress_id: 554
 categories:
 - People of openSUSE
 ---
+
 The [Planet SUSE](http://www.planetsuse.org) sysadmin, James Ogley, was interviewed by us. Apart from managing the biggest openSUSE blog aggregator, he is also part of the [openSUSE GNOME team](http://en.opensuse.org/GNOME/Team) packaging lots of GNOME/GTK applications.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![james_ogley.jpg]({{ site.baseurl }}/assets/james_ogley.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|Riggwelter|
-|**Homepage:**|[http://jamesthevicar.com](http://jamesthevicar.com)|
-|**Blog:**|Same as home page|
-|||
-|**Favorite season:**|Definitely Autumn. I love sitting indoors with the heat & fire on and a glass of wine while outside the wind and rain are raging.|
-|**Motto:**|Don't have one really, but I try to live by a combination of the classic SUSE one "Have a lot of fun..." and the Christian creeds.|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![james_ogley.jpg](//news.opensuse.org/wp-content/uploads/2007/12/james_ogley.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >Riggwelter
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://jamesthevicar.com](http://jamesthevicar.com)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >Same as home page
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Definitely Autumn. I love sitting indoors with the heat & fire on and a glass of wine while outside the wind and rain are raging.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Don't have one really, but I try to live by a combination of the classic SUSE one "Have a lot of fun..." and the Christian creeds.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -225,7 +315,7 @@ I'd love to be a better programmer, I can get by but I could never have made a l
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 I'd feel ticked off at first but then probably enjoy the fact that no-one could hassle me and head for the pub :)
@@ -295,7 +385,7 @@ Reading and visiting local restaurants and bars.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 I'd give quite a bit of it to charities working to lift communities out of poverty in Africa.  I'd pay off our mortgage and student loans.  I'd set up a trust fund for my son.  Buy a new car and play in a European Poker Tour event.
@@ -305,7 +395,7 @@ I'd give quite a bit of it to charities working to lift communities out of pover
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 First few centuriues CE - I'd be fascinated to see things like the early Christian councils and the fall of the Roman Empire.
@@ -315,7 +405,7 @@ First few centuriues CE - I'd be fascinated to see things like the early Christi
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 I don't normally. I  keep meaning to invest in a decent UPS so I'm protected.  My main work computer though is a laptop so it's less of an issue.
@@ -372,4 +462,4 @@ Trek or Wars - it's so damn close...
 - Down the footpath, turn right and when you get to the junction, it's opposite you.
 
 
-
+It was composed of only four of the original points made by [https://justbuyessay.com/](https://justbuyessay.com/) president woodrow wilson

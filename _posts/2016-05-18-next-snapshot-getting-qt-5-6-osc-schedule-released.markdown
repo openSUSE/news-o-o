@@ -1,13 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-05-18 11:31:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/05/18/next-snapshot-getting-qt-5-6-osc-schedule-released/
-title: "Next snapshot getting Qt 5.6, oSC schedule released"
+slug: next-snapshot-getting-qt-5-6-osc-schedule-released
+title: Next snapshot getting Qt 5.6, oSC schedule released
+wordpress_id: 19854
 categories:
 - Tumbleweed
 ---
+
 
 Since the last openSUSE Tumbleweed update, there have been three snapshots, but the next snapshot is the one many users are waiting for because it will include [Qt 5.6](https://wiki.qt.io/Qt_5.6_Release).
 
@@ -33,4 +36,4 @@ Presenters who are not using a company or other project presentation template ar
 #### Release Engineer
 
 
-openSUSE is looking for a [Release Engineer](http://bit.ly/1TYYV6Z). A job announcement was recently posted. The position description is listed as a release engineer. The position requires a proficiency in several major scripting languages like python, bash and perl. The applicant should understand open source communities and be passionate about Linux. The job location is listed in Nuremberg, but people who are interested in working remotely should also apply.		
+openSUSE is looking for a [Release Engineer](http://bit.ly/1TYYV6Z). A job announcement was recently posted. The position description is listed as a release engineer. The position requires a proficiency in several major scripting languages like python, bash and perl. The applicant should understand open source communities and be passionate about Linux. The job location is listed in Nuremberg, but people who are interested in working remotely should also apply.

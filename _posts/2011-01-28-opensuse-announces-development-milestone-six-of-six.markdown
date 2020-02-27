@@ -1,20 +1,21 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2011-01-28 19:10:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/01/28/opensuse-announces-development-milestone-six-of-six/
-title: "openSUSE Announces Development Milestone Six of Six"
+slug: opensuse-announces-development-milestone-six-of-six
+title: openSUSE Announces Development Milestone Six of Six
+wordpress_id: 6504
 categories:
 - Announcements
 - Distribution
 ---
 
-
 openSUSE project manager Stephan Kulow has announced that openSUSE 11.4 Milestone 6 (M6) is ready for testing. Â With M6, the pace of development is starting to slow down as the focus switches towards QA and bug fixing.
 
 
-[![]({{ site.baseurl }}/assets/DSC_1838-300x198.jpg)](https://news.opensuse.org/2011/01/28/opensuse-announces-development-milestone-six-of-six/dsc_1838/)The project has been [evaluating systemd](https://news.opensuse.org/2010/11/11/opensuse-11-4m3/) vs SysV init to manage system and service startup, and has decided to stay with SysV init for 11.4 due to issues in getting the last 10% of the integration perfect.
+[![](/wp-content/uploads/2011/01/DSC_1838.jpg)](http://news.opensuse.org/2011/01/28/opensuse-announces-development-milestone-six-of-six/dsc_1838/)The project has been [evaluating systemd](http://news.opensuse.org/2010/11/11/opensuse-11-4m3/) vs SysV init to manage system and service startup, and has decided to stay with SysV init for 11.4 due to issues in getting the last 10% of the integration perfect.
 
 M6 sees the completed removal of the HAL hardware abstraction layer, to be replaced with the more up-to-date and actively maintained udev, udisks and upower suite. Â HAL was already scheduled for removal in 11.3, but it was retained while the last few software packages which depend on it were ported to udev and company.
 
@@ -32,4 +33,4 @@ The XFCE desktop is updated thanks to the hard work of the community to [version
 
 A [list of most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_6_of_6) is being compiled; please check it before installing. We look forward to [your bug reports](http://bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.4&format=guided) and test experiences too. [Automated testing](http://openqa.opensuse.org/) and the openSUSE Factory team have been active to ensure that your download of M6 will be at least minimally functional.
 
-Release Candidate 1 is scheduled for February 10 and brings with it a hard freeze. Â openSUSE 11.4 is planned to be released in March 2011.		
+Release Candidate 1 is scheduled for February 10 and brings with it a hard freeze. Â openSUSE 11.4 is planned to be released in March 2011.

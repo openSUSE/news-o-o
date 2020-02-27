@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-07-23 17:16:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/07/23/opensuse-weekly-news-issue-185-is-out/
-title: "openSUSE Weekly News, Issue 185 is out!"
+slug: opensuse-weekly-news-issue-185-is-out
+title: openSUSE Weekly News, Issue 185 is out!
+wordpress_id: 9737
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News 185.
 <!-- more -->
 
@@ -109,10 +112,10 @@ Enjoy reading :-)
 The Articles inside this Section are in full. If you are already knowing the stuff in
       news.opensuse.org, then you can skip this section through using the TOC.
 
+â€œ
 
 
-
-      [A new milestone on the cloud: openSUSE releases milestone 3](https://news.opensuse.org/2011/07/22/a-new-milestone-on-the-cloud-opensuse-releases-milestone-3/)
+      [A new milestone on the cloud: openSUSE releases milestone 3](http://news.opensuse.org/2011/07/22/a-new-milestone-on-the-cloud-opensuse-releases-milestone-3/)
     
 
 Just a few days ago the third of six milestones on the road ftoopenSUSE 12.1 has been
@@ -163,24 +166,24 @@ Your input at this early development stage is a great opportunity to collaborate
 So go and see for yourself what the next version of openSUSE has in store for you at
         ourÂ [download center](http://software.opensuse.org/developer).
 
-
+â€
+
+â€œ
 
 
-
-
-      [Last Call for openSUSE Conference Papers!](https://news.opensuse.org/2011/07/22/last-call-for-opensuse-conference-papers/)
+      [Last Call for openSUSE Conference Papers!](http://news.opensuse.org/2011/07/22/last-call-for-opensuse-conference-papers/)
     
 
 With the days closing in on us before the next great openSUSE Conference in Nuremberg,
-      Germany 11-14 September, 2011, we™re seeing a lot of awesome papers being submitted to the
-      Conference Program Committee.Â  But there™s still time for you to submit that awesome session
-      you™ve dreamed of. The deadline toÂ [submit your
+      Germany 11-14 September, 2011, weâ€™re seeing a lot of awesome papers being submitted to the
+      Conference Program Committee.Â  But thereâ€™s still time for you to submit that awesome session
+      youâ€™ve dreamed of. The deadline toÂ [submit your
         paper](http://conference.opensuse.org/indico//conferenceDisplay.py?confId=2)isÂ [midnight July 25th](http://www.timeanddate.com/worldclock/fixedtime.html?day=25&month=7&year=2011&hour=0&min=0&sec=0&p1=0).
 
 **What We Are Looking For:**
 
-This year™s Conference theme is RWXÂ³.Â  That means its an open conference in which we all
-      get to roll up our sleeves and getÂ involved!Â  We™re looking for that great session that talks
+This yearâ€™s Conference theme is RWXÂ³.Â  That means its an open conference in which we all
+      get to roll up our sleeves and getÂ involved!Â  Weâ€™re looking for that great session that talks
       about FOSS projects, openSUSE Community growth, andÂ  workshops that empower our users and
       contributors to do more awesome stuff.
 
@@ -188,18 +191,18 @@ This year™s Conference theme is RWXÂ³.Â  That means its an open conference
 
   * Presentation
 
-  * [Birds of a Feather (BoF)](https://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/)
+  * [Birds of a Feather (BoF)](http://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/)
 
-  * [Workshops](https://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/)
+  * [Workshops](http://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/)
 
   * Hacksessions
 
-As you can see, the possibilities are endless.Â  And this year™s conference, which is
-      always free, is extra special because we™ll be moving to our new location, Zentrifuge, and
-      co-hosting with the SUSE Labs Conerence.Â  That™s two for the price of one and one is
+As you can see, the possibilities are endless.Â  And this yearâ€™s conference, which is
+      always free, is extra special because weâ€™ll be moving to our new location, Zentrifuge, and
+      co-hosting with the SUSE Labs Conerence.Â  Thatâ€™s two for the price of one and one is
       FREE!
 
-**What™s Next**
+**Whatâ€™s Next**
 
   * Submit your proposalÂ [here](http://conference.opensuse.org/indico//conferenceDisplay.py?confId=2)
 
@@ -211,14 +214,14 @@ As you can see, the possibilities are endless.Â  And this year™s conference,
 
 Remember, the deadline is this **Sunday, July 24th**!
 
-
+â€
 
-
+â€œ
 
 [Conference
-        travel sponsorship program](https://news.opensuse.org/2011/07/23/travel-sponsorship-program/)
+        travel sponsorship program](http://news.opensuse.org/2011/07/23/travel-sponsorship-program/)
 
-TheÂ [openSUSE conference RWXÂ³](http://conference.opensuse.org/)Â is the
+TheÂ [openSUSE conference â€œRWXÂ³â€](http://conference.opensuse.org/)Â is the
       place to be for anyone using, working on or taking advantage of the openSUSE Project. No
       matter if you use our technology such as theÂ [Open
         Build Service](http://openbuildservice.org/), contribute packages toÂ [12.1](http://en.opensuse.org/Portal:Distribution)Â or evangelize the world as
@@ -227,7 +230,7 @@ TheÂ [openSUSE conference RWXÂ³](http://conference.opensuse.org/)Â is th
       GNU/Linux distributions with whom we collaborate on technologies like packaging,Â [appstores](http://distributions.freedesktop.org/wiki/AppStream)Â or low-level
       tools likeÂ [systemd](http://www.freedesktop.org/wiki/Software/systemd).
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -235,13 +238,13 @@ TheÂ [openSUSE conference RWXÂ³](http://conference.opensuse.org/)Â is th
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-
+â€œ
 
 
       [Alex Eftimie: PackageKit backend for Software Center: short week 7 report](http://alex.eftimie.ro/2011/07/17/packagekit-backend-for-software-center-short-week-7-report/)
     
 
-Short weekly report is short, this week™s achievements:
+Short weekly report is short, this weekâ€™s achievements:
 
   * fixed the install/remove simulation bits (it can now tell what packages will be
             removed after applying changes)
@@ -255,34 +258,34 @@ Short weekly report is short, this week™s achievements:
   * got anotherÂ [round](http://code.launchpad.net/~alexeftimie/software-center/backend-refactor)Â of refactor changes into trunk, thanks to mvo; this way my PK branch is
             one step closer to merging into software-center
 
-
+â€
+
+â€œ
 
 
-
-
-      [Marcus Hüwe: osc code cleanup “ summary of week 8](http://lizards.opensuse.org/2011/07/17/gsoc-osc-code-cleanup-“-summary-of-week-8/)
+      [Marcus HÃ¼we: osc code cleanup â€“ summary of week 8](http://lizards.opensuse.org/2011/07/17/gsoc-osc-code-cleanup-â€“-summary-of-week-8/)
     
 
-Here™s a small summary of the 8th (coding) week. This week I spentmost of my time with
+Hereâ€™s a small summary of the 8th (coding) week. This week I spentmost of my time with
       rewriting the working copy code.
 
 Done:
 
   * added support to add and delete packages
 
-  * added some abstractions for the tracking file format:currently packages and files
+  * added some â€œabstractionsâ€ for the tracking file format:currently packages and files
             are tracked in a xml file
 
-  * thought about the package update algorithm. Basicallyit™ll work like this (verfy
+  * thought about the package update algorithm. Basicallyitâ€™ll work like this (verfy
             simplified version):
 
     * perform update in a tmpdir (phase 1)
 
     * if the tmp update finished, copy/rename all files tothe wc (phase 2)
 
-Advantage:If the update is interrupted in phase 1 the wc wasn™t touchedat all
+Advantage:If the update is interrupted in phase 1 the wc wasnâ€™t touchedat all
                   and nothing should be broken.If the update is interrupted in phase 2 the wc is
-                  _inconsistent_but a subsequent update call can resume the update and
+                  _inconsistent_but a subsequent â€œupdateâ€ call can resume the update and
                   everythingshould be consistent afterwards (in this case only files
                   arecopied/renamed)
 
@@ -293,18 +296,18 @@ TODO:
 If everything works as expected most parts of working copy codecleanup should be finished
       after this week.
 
-
+â€
+
+â€œ
 
 
-
-
-      [Christos Bountalis: A utility for merging configuration / sysconfig files “ Week 9
+      [Christos Bountalis: A utility for merging configuration / sysconfig files â€“ Week 9
         Report](http://cbounta.wordpress.com/2011/07/22/a-utility-for-merging-configuration-sysconfig-files-week-9-report/)
     
 
 Exciting news for the project this week. After solving the problem with the comments and
       the tree representation of the sysconfig files in Augeas, there was a big leap in the
-      project™s progress. By having test data and through debugging i was able to complete the match
+      projectâ€™s progress. By having test data and through debugging i was able to complete the match
       algorithm.The program is now able to traverse through two trees / files, make the necessary
       matches between the nodes of these two trees and provide the appropriate information to the
       later stages. That of merging.
@@ -332,15 +335,15 @@ What is for next week:
 
   * Improve code
 
-
+â€
 
-
+â€œ
 
 
       [David Williams: Entomologist UI Changes - Weekly Report #9](http://redache.wordpress.com/2011/07/23/entomologist-ui-changes-weekly-report-9/)
     
 
-This week I™ve been working on finishing up the ToDo Lists, which did entail writing a new
+This week Iâ€™ve been working on finishing up the ToDo Lists, which did entail writing a new
       Item Delegate for the list as the previous method of checking which widget had been clicked
       was less than optimal!. I have finished the ToDo List and it will hopefully be merged on
       Monday into an experimental branch that I can go through and ensure that everything works as
@@ -355,28 +358,28 @@ I am currently researching possibilities for integrating Cloud Services into the
 This all leads on to how long I have left of my GSoC, which by my count is 5 weeks(!) of
       GSoC Time,but I would like to stick to the soft pencils down date as much as possible so the
       final week can be spent ensuring everything works properly. I want to look at the addition of
-      QML after I™ve integrated some Cloud Sync aspects as I think this would be a really excellent
+      QML after Iâ€™ve integrated some Cloud Sync aspects as I think this would be a really excellent
       feature to have.
 
-Here™s a screenshot of the ToDo List on OS X Lion (Which also shows that nothing has to be
-      done to Entomologist™s code base to make it compatible):
+Hereâ€™s a screenshot of the ToDo List on OS X Lion (Which also shows that nothing has to be
+      done to Entomologistâ€™s code base to make it compatible):
 
 ![](http://redache.files.wordpress.com/2011/07/screen-shot-2011-07-23-at-02-21-41.png)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
-
+â€œ
 
 
         [Andreas
           Jaeger: Factory Progress 2011-07-18](http://lizards.opensuse.org/2011/07/18/factory-progress-2011-07-18/)
       
 
-I™ve noticed the following changes that might interest people using and developing
+Iâ€™ve noticed the following changes that might interest people using and developing
         openSUSE Factory:
 
 **Package changes**
@@ -393,7 +396,7 @@ Frederic gave anÂ [update](http://lists.opensuse.org/opensuse-factory/2011-07/
         systemd integration. The graphical bootloader allows now to switch during boot between
         systemd, SysVinit and also shell code.
 
-Also, Lennart Poettering wrote in his systemd for developers series aboutÂ [socket
+Also, Lennart Poettering wrote in his â€œsystemd for developersâ€ series aboutÂ [socket
         activation](http://0pointer.de/blog/projects/socket-activation2.html)Â where he uses cups as example.
 
 **hal**
@@ -415,13 +418,13 @@ Linux kernel 2.6.38 removed the Video for Linux v1 support and also the file
 
 **Keeping old kernel(s) while installing new ones**
 
-Michal Marek descripes in hisÂ [blogÂ ](http://lizards.opensuse.org/2011/07/14/improved-kernel-package-retention-in-12-1/)how it™s possible to configure which kernels to keep installed when a new
+Michal Marek descripes in hisÂ [blogÂ ](http://lizards.opensuse.org/2011/07/14/improved-kernel-package-retention-in-12-1/)how itâ€™s possible to configure which kernels to keep installed when a new
         one gets installed. With a simple change to the zypp configuration, you can define e.g. that
         you always like to keep the latest running kernel when you install a new one.
 
 **Upcoming Features**
 
-A new page called [upcoming features](http://en.opensuse.org/openSUSE:Upcoming_features) has been created to point out new features for the next
+A new page called â€œ[upcoming features](http://en.opensuse.org/openSUSE:Upcoming_features)â€ has been created to point out new features for the next
         release. Please help updating the page with new information.
 
 **Policy and tool changes**
@@ -444,9 +447,9 @@ Coolo announced thatÂ [milestone 3 is
 
 **openSUSE Conference**
 
-The call for papers is continuing to run, please submit session proposals at theÂ [conference site](http://conference.opensuse.org/indico/). Also,Â [registration](https://news.opensuse.org/2011/07/14/opensuse-conference-registration-open/)Â is open now.
+The call for papers is continuing to run, please submit session proposals at theÂ [conference site](http://conference.opensuse.org/indico/). Also,Â [registration](http://news.opensuse.org/2011/07/14/opensuse-conference-registration-open/)Â is open now.
 
-
+â€
 
 Important Links
 
@@ -458,7 +461,7 @@ Important Links
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
-
+â€œ
 
 
         [SUSE Studio
@@ -474,13 +477,13 @@ After a couple of months of hard work we are now happy to introduce the next ver
 
 **Related Article**: [h-online.com](http://www.h-online.com/open/news/item/SUSE-ships-Studio-1-2-1283016.html)
 
-
+â€
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Boosters Team
 
-
+â€œ
 
 
           [Henne Vogelsang:
@@ -495,8 +498,8 @@ This time around the Boosters took on a milestone for the benefit of the Members
           trying very hard to avoid hierarchies, policies and rules. It emphasizes the creative, a
           bit chaotic, side of the FOSS ways for openSUSE to get things done, quickly. Everyone that
           is participating is equal, everyone that is participating is following the sameÂ [Guiding Principles.](http://en.opensuse.org/openSUSE:Guiding_principles)Â The
-          only formal structure is a a group ofÂ [Primus inter
-            pares](http://en.wikipedia.org/wiki/Primus_inter_pares), that is elected to provide guidance according to the
+          only formal structure is a a group ofÂ [â€œPrimus inter
+            paresâ€](http://en.wikipedia.org/wiki/Primus_inter_pares), that is elected to provide guidance according to the
           principles: TheÂ [Board](http://en.opensuse.org/openSUSE:Board).
 
 But how do you identify who is participating? How do you get affiliated with the
@@ -510,31 +513,31 @@ But how do you identify who is participating? How do you get affiliated with the
 The process to become a member is dead easy. You tell the Membership Officials that
           you want to be a Member and what you have done so far. They will then evaluate your
           contributions and vote on your request. Once your request gets more then four positive
-          votes, you™re a Member. If you get four negative votes you get rejected. (...)
+          votes, youâ€™re a Member. If you get four negative votes you get rejected. (...)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-
+â€œ
 
 
           [Pavol Rusnak:
             Version sorting in Ruby](http://stick.gk2.sk/blog/2011/07/version-sorting-in-ruby/)
         
 
-Today I needed to implement human sort for a list of distributions we support in
+Today I needed to implement â€œhuman sortâ€ for a list of distributions we support in
             theÂ [Open Build Service](http://openbuildservice.org/). I wanted to
           sort them alphabetically but at the same time the newest ones at the top. I ended up with
           the following code: (...)
 
-
+â€
 
 Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
-
+â€œ
 
 
           [Javier Llorente: New namespace for KDE apps maintained by upstream](http://lizards.opensuse.org/2011/07/19/new-namespace-for-kde-apps-maintained-by-upstream/)
@@ -550,11 +553,11 @@ As the first to join in, we warmly welcome theÂ [KMyMoney project](http://kmym
 Got questions? Feel free to contact the openSUSE/KDE Team on the mailing listÂ [opensuse-kde@opensuse.org](http://lists.opensuse.org/opensuse-kde/)Â or in
             IRC:Â [#opensuse-kde](irc://irc.opensuse.org/opensuse-kde)Â (irc.freenode.net).
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Opensuse_medical_logo11.png)Medical Team
 
-
+â€œ
 
 
           [Rousinopoulos
@@ -580,7 +583,7 @@ We are pleased to announce the first openSUSE medical Meeting.
 
 New Leadership , Plans and Thoughts
 Report From openSUSE Collaboration Camp (15-17 of July 2011 , Greece)  
-openSUSE Conference Participation ( 11-14 of September 2011, Nürnberg) 
+openSUSE Conference Participation ( 11-14 of September 2011, NÃ¼rnberg) 
 openSUSE Medical 11.4 Feedback
 openSUSE Medical Mailing list Brainstorms and Ideas (Andre Massing)
 
@@ -607,13 +610,13 @@ Milestone 5Â : Setting the release dates for the new release of the distro (op
 
 More informations at: [http://en.opensuse.org/openSUSE:Medical_meetings/](http://en.opensuse.org/openSUSE:Medical_meetings/)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation
@@ -623,9 +626,9 @@ More informations at: [http://en.opensuse.org/openSUSE:Medical_meetings/](http:/
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during
@@ -641,9 +644,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 159)](https://features.opensuse.org/305305)
@@ -651,9 +654,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 140)](https://features.opensuse.org/308497)
@@ -671,9 +674,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score:
@@ -695,13 +698,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Preserve Running Kernel On Kernel
@@ -721,9 +724,9 @@ My suggestion is to enable multiversion kernel & preserve running kernel for
             default is sane, to preserve the Lastest & Running Kernels. So lets use it and make
             12.1 kernel updates safer for all, and by default do the right thing!
 
-
+â€
 
-
+â€œ
 
 
             [Automatically add keys to the
@@ -750,9 +753,9 @@ Currently ssh-agent is already started when the user logs in using X11 by
 In fact, I use this script for a few years now. And I am sick of adding it to
             /etc/X11/xinit/xinitrc.d/ after each distribution update.
 
-
+â€
 
-
+â€œ
 
 
             [openSUSE Linux 12.1/LXDE: Add support
@@ -761,9 +764,9 @@ In fact, I use this script for a few years now. And I am sick of adding it to
 
 openSUSE Linux 12.1/LXDE: Add support for theÂ [XZ Utils](http://en.wikipedia.org/wiki/XZ_Utils)Â inÂ [Xarchiver](http://en.wikipedia.org/wiki/Xarchiver)Â .
 
-
+â€
 
-
+â€œ
 
 
             [Enhance YaST=System=BootLoader](https://features.opensuse.org/312671)
@@ -777,7 +780,7 @@ The existing code handles the edit of /boot/grub/menu.lst; however, the kernels 
             /lib/modules is tedious. An optional delete of the kernel files and modules would
             eliminate the tedium.
 
-
+â€
 
 ##### Feature Statistics
 
@@ -785,7 +788,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry
@@ -823,9 +826,9 @@ Our next IRC meeting will be at 17:00 UTC, July 25 on Channel #opensuse-testing 
           Freenode IRC Network. irc://irc.freenode.net/opensuse-testing. We will discuss our
           experiences with MS3, now that it has been released.
 
-
+â€
 
-
+â€œ
 
 [Larry
             Finger: Testing Core Team Planning Open Bugs Day on August 21, 2011](http://lists.opensuse.org/opensuse-testing/2011-07/msg00032.html)
@@ -840,50 +843,50 @@ The Testing Core Team is planning an Open Bugs Day, to be held on August 21, 201
           the TCT's IRC channel on the Freenode IRC Network.
           irc://irc.freenode.net/opensuse-testing.Â 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### People of openSUSE
 
-
+â€œ
 
 
         [People of
-          openSUSE: Mihnea Dobrescu-Balaur](https://news.opensuse.org/2011/07/05/people-of-opensuse-manu-gupta/)
+          openSUSE: Mihnea Dobrescu-Balaur](http://news.opensuse.org/2011/07/05/people-of-opensuse-manu-gupta/)
       
 
 **Please introduce yourself!**
 
-Hello! My name is Mihnea and I™m a 19 year old student from Bucharest, Romania.
+Hello! My name is Mihnea and Iâ€™m a 19 year old student from Bucharest, Romania.
         (...)
 
-
+â€
 
 ### Events & Meetings
 
 Past
 
-  * [July 18, 2011 : Testing Core Team Meeting](https://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
+  * [July 18, 2011 : Testing Core Team Meeting](http://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
 
-  * [July 19, 2011 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [July 19, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
-  * [July 20, 2011 : openSUSE Conference 2011: Program Committee Meeting](https://news.opensuse.org/2011/07/14/opensuse-conference-2011-program-committee-meeting/)
+  * [July 20, 2011 : openSUSE Conference 2011: Program Committee Meeting](http://news.opensuse.org/2011/07/14/opensuse-conference-2011-program-committee-meeting/)
 
-  * [July 21, 2011 : KDE Team Meeting](https://news.opensuse.org/2011/01/12/6239/)
+  * [July 21, 2011 : KDE Team Meeting](http://news.opensuse.org/2011/01/12/6239/)
 
 Upcoming
 
-  * [July 27, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [July 27, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -902,7 +905,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
 
-
+â€œ
 
 
             [Richard Bos: Steampunk beautiful theme for KDM and ksplash](http://lizards.opensuse.org/2011/07/17/steampunk-beautiful-theme-for-kdm-and-ksplash/)
@@ -914,16 +917,16 @@ I created packages for the nice KDM and ksplash themeÂ [Steampunk](http://kde-
                 action](http://www.youtube.com/watch?v=f3ubaXe8wDE)Â for Kubuntu, the version in the rpm is distribution neutral. The rpm
             can be obtained from theÂ [home:rbos repository](http://software.opensuse.org/search?q=steampunk&baseproject=openSUSE%3A11.4&lang=nl&include_home=true&exclude_debug=true), I hope you enjoy the theme.
 
-
+â€
 
-
+â€œ
 
 [Bruno Friedmann: new package squidview available](http://lizards.opensuse.org/2011/07/17/new-package-squidview-available/)
 
 **squidview**
 
-squidview is one of the software, I™ve always build and installed on each squid proxy
-            server I build for me or customers. It™s small, stable, and usefull. So it was a clear
+squidview is one of the software, Iâ€™ve always build and installed on each squid proxy
+            server I build for me or customers. Itâ€™s small, stable, and usefull. So it was a clear
             real nice candidate to be use to improve myÂ [obs](http://openbuild-system.org/)Â and packager skiil.
 
 I would like to thanks T1loc, yaloki, mrdocs, coolo, alin, and all others great
@@ -934,22 +937,22 @@ I would like to thanks T1loc, yaloki, mrdocs, coolo, alin, and all others great
 Squidview is an interactive console program which monitors and displays squid logs in
             a nice fashion, and may then go deeper with searching and reporting functions.
 
-(If you don™t know what squid is or does this program is probably not for you.)
+(If you donâ€™t know what squid is or does this program is probably not for you.)
 
-To use squidview you must at least have read access to squid™s access.log file. You
+To use squidview you must at least have read access to squidâ€™s access.log file. You
             may need to see your administrator for this. Squidview uses this text log file for all
             operations. It does not generate its own database for tasks.
 
 homepageÂ [www.rillion.net/squidview](http://www.rillion.net/squidview/) (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [openSUSE-SU-2011:0762-1: critical: mariadb: Fixed missing innodb support after last
         update](http://lists.opensuse.org/opensuse-security-announce/2011-07/msg00005.html)
@@ -994,9 +997,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >Fixed missing innodb support after lastÂ update
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [openSUSE-SU-2011:0788-1: important: bind: fixing remote Denial of Service
@@ -1043,9 +1046,9 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >remote denial of service
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [openSUSE-SU-2011:0803-1: important: kvm](http://lists.opensuse.org/opensuse-security-announce/2011-07/msg00008.html)
@@ -1093,11 +1096,11 @@ To view the security announcements in full, or to receive them as soon as they'r
             host, therefore crashing theguest or potentially execute arbitrary code on the
             host(CVE-2011-2212, CVE-2011-2512).
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [h-online/Chris von Eitzen/Real-time patches for the Linux kernel take a major step
@@ -1108,13 +1111,13 @@ Thomas Gleixner hasÂ releasedÂ the first test version of a real-time (RT) Li
       on a current release candidate of Linux kernel version 3.0; having beenÂ [slightly delayed](http://www.h-online.com/news/item/Linux-kernel-3-0-slightly-delayed-1282429.html), version 3.0 is due to be [released](http://thread.gmane.org/gmane.linux.rt.user/6861) any day now. With
       version 3.0-rc7-rt0, the developers have taken the biggest step towards a modern basis for
         theÂ [RT kernel](https://rt.wiki.kernel.org/index.php/Main_Page), a kernel
-      that is chiefly maintained by Gleixner and several other developers “ the current stable
+      that is chiefly maintained by Gleixner and several other developers â€“ the current stable
       kernel with real-time capabilities is still based on the Linux 2.6.33 series, which Greg
       Kroah-Hartman hasÂ [continued to maintain](http://www.h-online.com/open/features/Kernel-Log-Further-problems-with-UEFI-1281549.html)Â specifically for the RT developers. (...)
 
-
+â€
 
-
+â€œ
 
 [Linus Torvalds: Linux 3.0
         release](https://lkml.org/lkml/2011/7/21/455)
@@ -1132,9 +1135,9 @@ As already mentioned several times, there are no special landmarkfeatures or
       Which is not to say that there may not be bugs, but ifanything, there are hopefully fewer than
       usual, rather than the normal".0" problems. (...)
 
-
+â€
 
-
+â€œ
 
 [h-online/Thorsten Leemhuis: What's new in Linux 3.0](http://www.h-online.com/open/features/What-s-new-in-Linux-3-0-1279552.html)
 
@@ -1143,21 +1146,21 @@ As already mentioned several times, there are no special landmarkfeatures or
         host guest systems under Xen and includes many new and revised drivers.**
 
 Linus Torvalds and his collaborators have taken just two months toÂ [complete](http://thread.gmane.org/gmane.linux.kernel/1170070) the latest kernel.
-      The most notable change, however, is cosmetic rather than technical “ the transition from
+      The most notable change, however, is cosmetic rather than technical â€“ the transition from
       version 2.6.39 to 3.0. This not been taken as a cue to insert major changes, however, and the
       new kernel is in fact a perfectly normal version increment, following the pattern set for the
       2.6 series.
 
 New features in Linux 3.0 include the addition of a storage backend for Xen, which means
-      that the kernel now contains all the major components required to run as Dom0 “ the merger of
+      that the kernel now contains all the major components required to run as Dom0 â€“ the merger of
       Xen support appeared tantalisingly close six years ago, but it has taken until now for it to
       actually happen. There have also been a number of changes to the Btrfs filesystem and to
       graphics drivers. Kernel developers have as ever also added several new drivers and have
       improved many existing drivers. (...)
 
-
+â€
 
-
+â€œ
 
 [Linus
         Torvalds: Linux 3.0 Delayed for Late Breaking Patch](https://plus.google.com/102150693225130002912/posts/2BXkWyrY4jH)
@@ -1176,9 +1179,9 @@ Of course, the bug is so hard to see that Hugh needs weeks to reproduce it even 
 
 .Oh well.
 
-
+â€
 
-
+â€œ
 
 [Linus Torvalds: Note on Linux 3.0 and
         the 3.1 merge window](https://lkml.org/lkml/2011/7/20/371)
@@ -1195,22 +1198,22 @@ The RCU issues worries me a bit, but everything says it's all good,and the bigge
       were with the new RCU_BOOST feature that reallyneither defaults to on, nor is suggested right
       now. So I think we'reok, and I'm planning on doing 3.0 tomorrow. (...)
 
-
+â€
 
-
+â€œ
 
 [Rares
-        Aioanei: kernel weekly news “ 23.07.2011](http://schaiba.wordpress.com/2011/07/23/kernel-weekly-news-23-07-2011/)
+        Aioanei: kernel weekly news â€“ 23.07.2011](http://schaiba.wordpress.com/2011/07/23/kernel-weekly-news-23-07-2011/)
 
 Rares gives his weekly Kernel Review.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [Unixmen/M. Zinoune: How to make your own 20th Century Fox and LIONSGATE intro with
@@ -1223,9 +1226,9 @@ This is an easy tutorial on how to make your own 20th Century Fox andÂ  LIONSG
         you need to have Blender 2.5 or above installed in your system, if you are an ubuntu or
         LinuxMintÂ  user, you can install the latest release of blender using PPA from[Â this link](http://www.unixmen.com/linux-tutorials/1714-blender-257-is-released-with-a-new-design-multiple-windows-support-and-more). (...)
 
-
+â€
 
-
+â€œ
 
 
         [Linux.com/Nathan Willis: Screencasting Stars of the Linux World](http://www.linux.com/learn/tutorials/470411:screencasting-stars-of-the-linux-world)
@@ -1248,11 +1251,11 @@ Are you still taking screenshots? That is sooo last decade. Today if you want to
 **Editors Note:** Both [recordMyDesktop](http://bit.ly/qoyFx6) and [Istanbul](http://bit.ly/p94swf) are
         available via OBS.
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [Carlos
@@ -1266,9 +1269,9 @@ Part of my daily routine envolves accessing and managing a considered amount of 
         also is a time saver in those days when network connection is not in its glory days allowing
         me to reattach it and carrying on being productive (*sighs*). (...)
 
-
+â€
 
-
+â€œ
 
 
         [Juan Valencia: Split and merge files from the command line](http://www.jveweb.net/en/archives/2011/06/split-and-merge-files-from-the-command-line.html)
@@ -1277,12 +1280,12 @@ Part of my daily routine envolves accessing and managing a considered amount of 
 Although some file archivers offer us the option of split the files, this can be easily
         accomplished with two commands:Â splitÂ andÂ cat. (...)
 
-
+â€
+
+â€œ
 
 
-
-
-        [Vladimir Paskov: Using the rpm command “
+        [Vladimir Paskov: Using the rpm command â€“
           part1](http://paskov.biz/blog/?p=724)
       
 
@@ -1290,20 +1293,20 @@ RPMÂ is a package management system widely used in various GNU/Linux distribut
         as:Â openSUSE,Â RedHat,Â CentOSÂ andÂ Fedora. All this distributions provides various package
         management tools build around librpm (This library allows programs to make use of a rpm
         database or rpm packages without using the rpm commandÂ ) or making direct use of
-        theÂ rpmÂ command. Examples of this includes:Â zypper “ openSUSE package management toolÂ andyum
-        “ Fedora and Red Hat package management tool.Â This tools provides easy to use functionality
+        theÂ rpmÂ command. Examples of this includes:Â zypper â€“ openSUSE package management toolÂ andyum
+        â€“ Fedora and Red Hat package management tool.Â This tools provides easy to use functionality
         for installing, removing, searching, repository management etc, but they lack some
         functionality provided by the rpm command such as listing the contents of a package, finding
         what package provides some file etc.
 
 This article will show you how you can use the rpm command to preform various package
-        management task , such as installing, removing, querying the rpm database, etc¦
+        management task , such as installing, removing, querying the rpm database, etcâ€¦
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Robert Knight: Qt
@@ -1319,55 +1322,55 @@ Whilst debugging a widget layout problem a few days ago, I was looking around fo
 
 I have put together a simple tool calledÂ [Qt Inspector](https://github.com/robertknight/Qt-Inspector).
 
-
+â€
 
-
+â€œ
 
 [Python4Kids/Brendan Scott: Tkinter tinkering (Graphical User Interfaces)](http://python4kids.wordpress.com/2011/07/18/tkinter-tinkering-graphical-user-interfaces/)
 
-Man Â Â  Â Shut up! (It goes quiet next door) That™s better.He walks to a side wall and
+Man Â Â  Â Shut up! (It goes quiet next door) Thatâ€™s better.He walks to a side wall and
         hangs his club on a hook beneath big old-fashioned art-nouveau sign clearly labelled `The
-        Burlington Wall-banger™. He goes across to bed and gets in. In the bed are a party of four
+        Burlington Wall-bangerâ€™. He goes across to bed and gets in. In the bed are a party of four
         Japanese businessmen in suits with lapel badges, two lady American tourists with rain hats
         and cameras, three other moustached English gentlemen in pyjamas, four Tour De France
         riders, three Swedish businessmen, and Winston Churchill.
 
 So far we have been dealing with a command line interface for working with our Python
-        programs.Â  While command lines are good for a lot of things, they™re usually pretty bad for
-        interfacing with a general user of the program who doesn™t know how the various pieces
+        programs.Â  While command lines are good for a lot of things, theyâ€™re usually pretty bad for
+        interfacing with a general user of the program who doesnâ€™t know how the various pieces
         work.Â  What we are going to look at now is a different way of presenting the program to a
-        user (and probably a way that you are more familiar with) “ GUIs.Â Â  GUI stands for
-        Graphical User Interface. (...)
+        user (and probably a way that you are more familiar with) â€“ GUIs.Â Â  GUI stands for
+        â€œGraphical User Interfaceâ€. (...)
 
-
+â€
 
-
+â€œ
 
 [Wazi/Juliet Kemp: Tips for using Vim as an IDE](http://olex.openlogic.com/wazi/2011/tips-for-using-vim-as-an-ide/)
 
-[Vim](http://olex.openlogic.com/packages/vim)Â isn™t just a great
-        editor; it™s also a hugely flexible, configurable, and extendable application. You can even
+[Vim](http://olex.openlogic.com/packages/vim)Â isnâ€™t just a great
+        editor; itâ€™s also a hugely flexible, configurable, and extendable application. You can even
         set up Vim as an integrated development environment (IDE), giving you all the advantages of
         a dedicated text editor together with the ability to check syntax, jump between tags,
         autocomplete, and do all the other useful things you get from a modern IDE. These Vim tips
         and tricks will get you editing like a pro. (...)
 
-
+â€
 
-
+â€œ
 
 [net.tutsplus.com/Charlie Somerville: How to Build a Shortlink App with Ruby and
           Redis](http://net.tutsplus.com/tutorials/ruby/how-to-build-a-shortlink-app-with-ruby-and-redis/)
 
-In this tutorial, we™ll be building a quick shortlink web app with Ruby, theÂ [Sinatra](http://www.sinatrarb.com/)Â web framework, and the[Redis](http://redis.io/)Â database. By the conclusion of this tutorial, you™ll
-        end up with a dead simple, high performance shortlink webapp that™s super easy to scale.
+In this tutorial, weâ€™ll be building a quick shortlink web app with Ruby, theÂ [Sinatra](http://www.sinatrarb.com/)Â web framework, and the[Redis](http://redis.io/)Â database. By the conclusion of this tutorial, youâ€™ll
+        end up with a dead simple, high performance shortlink webapp thatâ€™s super easy to scale.
         (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [Linux.com/Jack Wallen: Weekend Project: Keep Out Repeat Offenders with Fail2ban on
@@ -1384,9 +1387,9 @@ Tired of automated attacks on your systems? Want to beef up security a bit by de
         [Fail2ban](http://bit.ly/oVbsbq) packages for openSUSE are available from
         OBS
 
-
+â€
 
-
+â€œ
 
 [Linux.com/Carla Schroder: Who and What Is On My Network? Probing Your Network with
           Linux](http://www.linux.com/learn/tutorials/470979-who-and-what-is-on-my-network-probing-your-network-with-linux)
@@ -1396,17 +1399,17 @@ InÂ [Whose Fault is it When Your Internet Dies? Troubleshooting Networks with 
         fun world of network discovery and find out who is on our network without ever leaving our
         comfortable chairs.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
+â€œ
 
 
-
-      [Holger Hetterich: Halfway on the road to SMB Traffic Analyzer 1.2.6 ¦](http://holger123.wordpress.com/2011/07/22/halfway-on-the-road-to-smb-traffic-analyzer-1-2-6/)
+      [Holger Hetterich: Halfway on the road to SMB Traffic Analyzer 1.2.6 â€¦](http://holger123.wordpress.com/2011/07/22/halfway-on-the-road-to-smb-traffic-analyzer-1-2-6/)
     
 
-¦ is a**Â point in time**Â where I think it makes sense to show
+â€¦ is a**Â point in time**Â where I think it makes sense to show
         offÂ **a few of the things we are working on**. While we will
       introduce deep changes to the database this time, and are working on a way to establish
       integrated version control for all components ofÂ [SMB Traffic Analyzer](http://holger123.wordpress.com/smb-traffic-analyzer/), we
@@ -1416,13 +1419,13 @@ Such asÂ **Benjamin Brunner**Â of the development team has
       taken the search function to a new level by creating a simple way to fuzzy search your full
       Samba network: (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Announcements
 
-
+â€œ
 
 
         [Intel, Collabora and SUSE to be main sponsors of the Desktop Summit](http://dot.kde.org/2011/07/19/intel-collabora-and-suse-be-main-sponsors-desktop-summit)
@@ -1436,27 +1439,27 @@ We are pleased to announce that theÂ Desktop SummitÂ 2011 in Berlin will be 
         world to work in a collaborative spirit on the next generation desktop technology."
         (...)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 
         [Michael Gapczynski (MTGap): Testers needed for sharing files with ownCloud](http://blog.gapinthecloud.com/2011/07/21/gsoc-testers-needed-for-sharing-files-with-owncloud/)
       
 
-I have good news this week. First, I™m still here because I passed the mid-term
+I have good news this week. First, Iâ€™m still here because I passed the mid-term
         evaluation for Google Summer of Code. Thanks for passing me Robin. Second, I was successful
         in completing my goal last week and now have everything setup so others can start
         experimenting with sharing files.
 
-Besides general bug fixing this past week I™ve also refactored OC_SHARE, which is the
+Besides general bug fixing this past week Iâ€™ve also refactored OC_SHARE, which is the
         class that handles the database records of all shared files in ownCloud. It started to get a
         little messy and I was unhappy with the quality of code so I rewrote many of the functions
         and moved some of the error handling into OC_FILESTORAGE_SHARED where it should belong. I
         also commented all of the functions so other developers can use OC_SHARE in their own apps
-        and understand what it is doing. I™ve also added two hooks to OC_SHARE: post_delete and
+        and understand what it is doing. Iâ€™ve also added two hooks to OC_SHARE: post_delete and
         post_rename. These are triggered by OC_FILESYSTEM when files are deleted, renamed, or moved.
         The database gets updated when these actions occur in order to avoid any missing shared
         items.
@@ -1464,14 +1467,14 @@ Besides general bug fixing this past week I™ve also refactored OC_SHARE, which
 The backend for sharing is pretty much complete so I can now focus on the user interface
         for the rest of the summer. The only part that needs updating is the permissions system. I
         was having a difficult time deciding on what to do with permissions and ended up going with
-        only read and write, without the ability to permanently delete files. I™ve changed my mind
+        only read and write, without the ability to permanently delete files. Iâ€™ve changed my mind
         now and will expand the options to more specific permissions that you can assign users. I
         was worried before that this would make the user interface too complex, but I now believe I
         can still achieve simplicity with the user experience. (...)
 
-
+â€
 
-
+â€œ
 
 
         [ZDNet/Paula Rooney: SUSE Studio 1.2 ships, SUSE Linux chief to roll out full cloud
@@ -1486,14 +1489,14 @@ The development platform, which has been on the market for two years, helps SUSE
         build, update and manage applications across physical, virtual and cloud environments
         including public clouds as well as x86 and System Z mainframe systems.
 
-In a recent interview, SUSE™s new chief, a 20-year Attachmate and Novell vet, said he is
+In a recent interview, SUSEâ€™s new chief, a 20-year Attachmate and Novell vet, said he is
         preparing to roll out a full-fledged cloud strategy for the No 2 Linux distribution, even as
         his on-the-job training continues. Top Linux distributor Red Hat has unveiled a
         comprehensive cloud strategy in recent months. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Datamation/Sean Michael Kerner: SUSE Joins Xamarin for Mono](http://www.datamation.com/open-source/suse-joins-xamarin-for-mono.html)
@@ -1513,16 +1516,16 @@ Xamarin is a company founded by former Novell employees including Nat Friedman a
         part of the partnership we are granting Xamarin a broad intellectual property license."
         (...)
 
-
+â€
 
-
+â€œ
 
 
         [ZDNet/Steven J. Vaughan-Nichols: Top Five Linux Contributor: Microsoft](http://www.zdnet.com/blog/open-source/top-five-linux-contributor-microsoft/9254)
       
 
 Cats and dogs; apples and oranges; Linux and Microsoft. Two of these three things do not
-        go together. Would you believe that Microsoft”yes Microsoft”was the fifth largest
+        go together. Would you believe that Microsoftâ€”yes Microsoftâ€”was the fifth largest
         contributor to the soon to be releasedÂ [Linux 3.0
           kernel](http://www.zdnet.com/blog/open-source/new-name-same-linux/9016)? Believe it.
 
@@ -1531,21 +1534,21 @@ In aÂ Linux Weekly NewsÂ story, currently only available to subscribers, an�
         Linux 3.0. While only 15h overall, that still puts Microsoft behind only Red Hat, Intel,
         Novell, and IBM in contributing new code to this version of Linux. (...)
 
-
+â€
 
+â€œ
 
-
-[digitizor.com/Ricky: Microsoft Makes A Video For Linux™s 20th Birthday](http://digitizor.com/2011/07/20/microsoft-video-linuxs-20th-birthday/)
+[digitizor.com/Ricky: Microsoft Makes A Video For Linuxâ€™s 20th Birthday](http://digitizor.com/2011/07/20/microsoft-video-linuxs-20th-birthday/)
 
 The Linux Foundation is celebrating 20 years of Linux and as a part of the celebration,
         they are accepting videos as part of a video contest. One of the video submission came form
         none other than Microsoft itself.
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [ZDNet UK/Jack Clark: How Linux saved my computer from Windows Update](http://www.zdnet.co.uk/blogs/mapping-babel-10017967/how-linux-saved-my-computer-from-windows-update-10023470/)
@@ -1556,7 +1559,7 @@ If it wasn't for Linux, a Windows Update crash would have forced me to format my
         6055ea laptop and watched as it promptly shut down to churn through Windows Update. It got
         30 percent of the way through then the blue screen of death (BSOD) appeared.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1588,7 +1591,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1602,7 +1605,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1638,7 +1641,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 185 is available in: 
 
-  * [English](https://news.opensuse.org/?p=9737)
+  * [English](http://news.opensuse.org/?p=9737)
 
 Coming soon: 
 
@@ -1651,6 +1654,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

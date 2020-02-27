@@ -1,28 +1,122 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-14 12:34:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/14/people-of-opensuse-rupert-horstkotter/
-title: "People of openSUSE: Rupert Horstkötter"
+slug: people-of-opensuse-rupert-horstkotter
+title: 'People of openSUSE: Rupert HorstkÃ¶tter'
+wordpress_id: 873
 categories:
 - People of openSUSE
 ---
-This week the openSUSE Project [announced the launch of forums.opensuse.org](https://news.opensuse.org/2008/06/10/opensuse-launches-merged-forums/), a merger of the three largest openSUSE forums. Continuing the openSUSE Forums euphoria we present you the Project Manager - Rupert Horstkötter.
+
+This week the openSUSE Project [announced the launch of forums.opensuse.org](http://news.opensuse.org/2008/06/10/opensuse-launches-merged-forums/), a merger of the three largest openSUSE forums. Continuing the openSUSE Forums euphoria we present you the Project Manager - Rupert HorstkÃ¶tter.
 
 <!-- more -->
 
+<table border="0" >
+<tr >
 
-![]({{ site.baseurl }}/assets/rupert_horstkotter.jpg)
-|||
-|--- |--- |
-|**Nickname:**|rhorstkoetter|
-|**Homepage:**|[http://en.opensuse.org/User:Rhorstkoetter](http://en.opensuse.org/User:Rhorstkoetter)|
-|**Blog:**|None|
-|||
-|**Favorite season:**|Definitely summer!|
-|**Motto:**|"Have a lot of fun!"|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](/wp-content/uploads/2008/06/rupert_horstkotter.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >rhorstkoetter
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://en.opensuse.org/User:Rhorstkoetter](http://en.opensuse.org/User:Rhorstkoetter)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >None
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Definitely summer!
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"Have a lot of fun!"
+</td>
+
+<td >
+</td>
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -114,7 +208,7 @@ Green, great and a lot of fun!
 #### What do you think is missing or underrated in the distribution or the project?
 
 
-I always thought, the project is missing official forums - that's fixed now fortunately. Besides of that, I think, the marketing aspect was extremely underrated within the openSUSE project. openSUSE is by far the most innovative distribution out there, but nobody knows about it. The openSUSE developers invented great technologies (kickoff, gnome-main-menu, compiz, xgl, mono applications, yast is most likely the best system management tool available for Linux, the new zypper - the list is long), but the user statistics of Linux distributions do not reflect that. Ubuntu is far more popular and that's mainly due to their marketing effort IMHO, not because of their developments. Fortunately this got better and better lately - [openSUSE Spotlight](http://zonker.opensuse.org), [openSUSE News](https://news.opensuse.org) and [openSUSE Lizards](http://lizards.opensuse.org) are IMHO good developments in that context - Communication is, what it's all about.
+I always thought, the project is missing official forums - that's fixed now fortunately. Besides of that, I think, the marketing aspect was extremely underrated within the openSUSE project. openSUSE is by far the most innovative distribution out there, but nobody knows about it. The openSUSE developers invented great technologies (kickoff, gnome-main-menu, compiz, xgl, mono applications, yast is most likely the best system management tool available for Linux, the new zypper - the list is long), but the user statistics of Linux distributions do not reflect that. Ubuntu is far more popular and that's mainly due to their marketing effort IMHO, not because of their developments. Fortunately this got better and better lately - [openSUSE Spotlight](http://zonker.opensuse.org), [openSUSE News](http://news.opensuse.org) and [openSUSE Lizards](http://lizards.opensuse.org) are IMHO good developments in that context - Communication is, what it's all about.
 
 
 
@@ -336,6 +430,3 @@ Show us a picture of something, you have always wanted to share! - I failed fina
 
 Q: Why there is a continuing flamewar between KDE and GNOME?  
 A: I don't understand! Everyone should use whatever desktop environment he/she likes best and folks should concentrate on the fact that they're all Linux users - that's most important IMHO.
-
-
-		

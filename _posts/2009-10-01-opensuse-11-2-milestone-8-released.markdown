@@ -1,14 +1,17 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2009-10-01 09:31:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/10/01/opensuse-11-2-milestone-8-released/
-title: "openSUSE 11.2 Milestone 8 Released"
+slug: opensuse-11-2-milestone-8-released
+title: openSUSE 11.2 Milestone 8 Released
+wordpress_id: 2231
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE Project is happy to announce that the last openSUSE 11.2 MilestoneÂ  8 (M8) is [available for download](http://software.opensuse.org/developer). _Test now and give feedback via our [bugzilla](https://bugzilla.novell.com/enter_bug.cgi?classification=All&product=openSUSE%2011.2&submit=submit&cv_foundby=Development&format=guided) since this is the last milestone before the first release candidate._
 
 <!-- more -->
@@ -101,4 +104,4 @@ Replace "image.iso" with the name of the ISO image that you have downloaded, and
 
 **Outlook**
 
-The next release is scheduled for October 15, 2009. It will be the first of two release candidates (RC)Â  with the final release on November 12, 2009. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).		
+The next release is scheduled for October 15, 2009. It will be the first of two release candidates (RC)Â  with the final release on November 12, 2009. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).

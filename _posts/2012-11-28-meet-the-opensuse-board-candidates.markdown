@@ -1,18 +1,19 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2012-11-28 12:14:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/11/28/meet-the-opensuse-board-candidates/
-title: "Meet the openSUSE Board Candidates"
+slug: meet-the-opensuse-board-candidates
+title: Meet the openSUSE Board Candidates
+wordpress_id: 14644
 categories:
 - Announcements
 - Board
 - Project
 ---
 
-
-![Candidates for 2012 Announcement Banner]({{ site.baseurl }}/assets/openSUSE-2012-Elections_banner_695.png)
+![Candidates for 2012 Announcement Banner](//news.opensuse.org/wp-content/uploads/2012/11/openSUSE-2012-Elections_banner_695.png)
 
 
 The period for standing up for election to the 2013 openSUSE Board is now closed and the openSUSE Election Officials committee is proud to announce this year's candidates.Â  Please welcome the following candidates in alphabetical order:
@@ -62,4 +63,4 @@ The Election Officials committee would like to extend good luck wishes to each a
 
 _Â With special thanks to [victorhck](http://victorhckinthefreeworld.wordpress.com/) for the creation of the art graphic on this page._
 
-		
+

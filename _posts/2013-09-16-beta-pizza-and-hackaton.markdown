@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-09-16 14:00:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/09/16/beta-pizza-and-hackaton/
-title: "Beta, Pizza and Hackaton"
+slug: beta-pizza-and-hackaton
+title: Beta, Pizza and Hackaton
+wordpress_id: 16758
 categories:
 - Events
 ---
-[![WinterIsComingFinal]({{ site.baseurl }}/assets/WinterIsComingFinal-300x225.jpg)](https://news.opensuse.org/2013/09/05/winter-is-coming-get-your-code-inside/)
+
+[![WinterIsComingFinal](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)](https://news.opensuse.org/2013/09/05/winter-is-coming-get-your-code-inside/)
 
 **Almost time for the release of openSUSE 13.1 Beta.**
 
@@ -26,7 +29,7 @@ Usually, the BetaPizza is as much about testing as about party. This time, we do
 The plan is for the various offices to have a **BetaPizza Master** taking care of both the food and the bug fixing frenzy that precedes it. Ludwig Nussel from the openSUSE Team will be Global BetaPizza Master, keeping an eye on all this. And all offices will be open for openSUSE community members to join the fun!
 
 An article will be published shorty before the start of the hackaton (kicking off on the 27th) with more details but some things we've already planned.
-({{ site.baseurl }}/assets/Toad-Final.png) An old toad
+[caption id="attachment_16887" align="alignright" width="283"][![An old toad](//news.opensuse.org/wp-content/uploads/2013/09/Toad-Final.png)](//news.opensuse.org/wp-content/uploads/2013/09/Toad-Final.png) An old toad[/caption]
 
 
 
@@ -75,7 +78,7 @@ Bugs should be reported and can be tracked via [Bugzilla](http://bugzilla.novell
 Discussions about openSUSE development takes place on the [factory mailing list](http://lists.opensuse.org/opensuse-factory). [openSUSE Factory](http://en.opensuse.org/Portal:Factory) is the development release of openSUSE. If you want to help out, please see the wiki page on [contributing to Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory). Contributing is easy and very welcome! We happen to have this awesome tool called the [Open Build Service](http://en.opensuse.org/Portal:Build_Service). Think of it as a Github for packagers: Branch, Update and create a submit Request for a Package. In openSUSE terms you've just BURPed and we'll be proud of you ;-)
 
 OBS has a command line but also a easy browser interface - you can even fix and build packages from a mobile phone or a Windows desktop!
-[![pizza David Standout geekoified]({{ site.baseurl }}/assets/pizza-David-Standout-geekoified-300x225.png)](http://www.flickr.com/photos/standout/)
+[![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](http://www.flickr.com/photos/standout/)
 
 There is plenty of help available on the [Development page](http://en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](http://lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](http://en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
 
@@ -124,7 +127,7 @@ So, how to do it? **Just three steps**:
 That way you can gather all your local community for this nice Pizza Party. Need more help organizing it? Check out the articles below!
 
 
-  * [how to do a betapizza party](https://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/)
+  * [how to do a betapizza party](//news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/)
 
 
   * [read the launch party HOWTO](http://en.opensuse.org/openSUSE:Launch_party_HOWTO)
@@ -141,4 +144,4 @@ Of course, if you want to go all out and make your own pizza, you can [Find a Ge
 ## Ready for Pizza?
 
 
-As a reminder, until Beta is out, [you can still get features in](https://news.opensuse.org/2013/09/05/winter-is-coming-get-your-code-inside/). Once it is out, there will be Beta Pizza Parties **and** some serious hacking during the Beta Pizza Hackaton. Hungry? Ready for it? We are in for _a lot of fun_!		
+As a reminder, until Beta is out, [you can still get features in](https://news.opensuse.org/2013/09/05/winter-is-coming-get-your-code-inside/). Once it is out, there will be Beta Pizza Parties **and** some serious hacking during the Beta Pizza Hackaton. Hungry? Ready for it? We are in for _a lot of fun_!

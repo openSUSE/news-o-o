@@ -1,13 +1,16 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2010-12-02 09:16:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/02/marketing-collaboration-days/
-title: "Marketing Collaboration Days"
+slug: marketing-collaboration-days
+title: Marketing Collaboration Days
+wordpress_id: 5670
 categories:
 - Events
 ---
+
 The openSUSE Marketing Team is proud to host Collaboration Days during the month of December.Â  Each designated day, we will focus on a specifc area related to marketing.Â  The purpose of this is to get some work done on that topic to strengthen our ability to promote openSUSE to the world.
 
 It is a day that is meant to be busy and productive for the team as well as an opportunity for non-team members to stop by and offer their perspectives and help out as we hack away.Â  As this is an open process, we encourage everyone to come join us, even if you are not directly related to openSUSE.Â  All perspectives are important and we welcome you all.
@@ -62,4 +65,4 @@ We meet in the #openSUSE-Marketing IRC channel on Freenode.Â  That's where the
 
 Collaboration Days begin at 9:00 UTC and end at 24:00 UTC
 
-**_It's your day, it's openSUSE's day!Â  Let's make the most of it!_**		
+**_It's your day, it's openSUSE's day!Â  Let's make the most of it!_**

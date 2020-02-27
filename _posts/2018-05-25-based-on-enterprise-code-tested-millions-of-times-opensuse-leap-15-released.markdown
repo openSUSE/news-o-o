@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-25 10:00:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/25/based-on-enterprise-code-tested-millions-of-times-opensuse-leap-15-released/
-title: "Based on Enterprise Code, Tested Millions of Times: openSUSE Leap\
-  \ 15 released"
+slug: based-on-enterprise-code-tested-millions-of-times-opensuse-leap-15-released
+title: 'Based on Enterprise Code, Tested Millions of Times: openSUSE Leap 15 released'
+wordpress_id: 20873
 categories:
 - Announcements
 - Conference
@@ -13,6 +14,7 @@ categories:
 - Leap
 - Weekly News
 ---
+
 [EN](https://en.opensuse.org/Release_announcement_15), [CA](https://en.opensuse.org/OpenSUSE_Leap_15_ca), [CZ](https://cs.opensuse.org/Oznámení_nového_vydání_15), [DE](https://de.opensuse.org/Release-Ankuendigung_15), [ES](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_15), [JA](https://ja.opensuse.org/openSUSE:リリースアナウンス_15), [PL](https://pl.opensuse.org/Release_announcement_15), [PT-BR](https://pt.opensuse.org/openSUSE:lancamento_versao_15), [ZH](https://zh.opensuse.org/发行公告_15), [ZH-TW](https://zh-tw.opensuse.org/Release_announcement_15)
 
 
@@ -84,7 +86,7 @@ Today’s public release of Leap 15 aren’t only released as DVD and Network IS
 This release has a system role selection that offers a classic server role and a Transactional Server role. Contributed by openSUSE’s container platform project [Kubic](https://en.opensuse.org/Kubic), this role uses transactional updates and a Read-Only Root Filesystem to provide Leap with all the benefits of atomic updates in a multitude of use cases, including container hosts, Internet of Things (IoT), and classic server functions with potential future applications also involving desktops.
 
 
-#### ![]({{ site.baseurl }}/assets/clear-748x1024.png)
+#### ![](/wp-content/uploads/2018/05/clear.png)
 
 
 
@@ -112,4 +114,4 @@ The Leap distribution supports the health, science, research and developer commu
 
 Leap works with X86_64 and deployment scenarios can be run for physical, virtual, host and guest, and cloud. Ports to other architectures like [ARM64](https://en.wikipedia.org/wiki/ARM_architecture) and [POWER](https://en.wikipedia.org/wiki/Power_Architecture) are in the works by the community.
 
-Maintenance and security updates for the Leap 15 series are expected to last for at least three years,. Users should update to the newest Leap 15 Service Packs (SP) within six months of each SP release to receive prudent updates. Service Pack updates are expected annually.		
+Maintenance and security updates for the Leap 15 series are expected to last for at least three years,. Users should update to the newest Leap 15 Service Packs (SP) within six months of each SP release to receive prudent updates. Service Pack updates are expected annually.

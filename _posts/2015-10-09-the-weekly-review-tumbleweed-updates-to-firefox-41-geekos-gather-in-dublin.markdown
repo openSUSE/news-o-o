@@ -1,15 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-10-09 10:41:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/10/09/the-weekly-review-tumbleweed-updates-to-firefox-41-geekos-gather-in-dublin/
-title: "The weekly review: Tumbleweed updates to Firefox 41, Geekos gather\
-  \ in Dublin"
+slug: the-weekly-review-tumbleweed-updates-to-firefox-41-geekos-gather-in-dublin
+title: 'The weekly review: Tumbleweed updates to Firefox 41, Geekos gather in Dublin'
+wordpress_id: 19520
 categories:
 - Weekly News
 ---
-[![IMG_0374]({{ site.baseurl }}/assets/IMG_0374-300x225.jpg)]({{ site.baseurl }}/assets/IMG_0374.jpg)Another large Tumbleweed snapshot was release this week and although the frequency of snapshot haven’t been as often as in previous weeks, the recent snapshot provides plenty of updates for TW users. 
+
+[![IMG_0374](/wp-content/uploads/2015/10/IMG_0374.jpg)](/wp-content/uploads/2015/10/IMG_0374.jpg)Another large Tumbleweed snapshot was release this week and although the frequency of snapshot haven’t been as often as in previous weeks, the recent snapshot provides plenty of updates for TW users. 
 
 A major update to Mozilla Firefox 41 was in the  20151002 snapshot. Another major update in TW was Git going to [2.6](http://bit.ly/1VIsacI).
 
@@ -25,7 +27,7 @@ This week SUSE had a booth at booth at LinuxCon Europe in Dublin, Ireland, and a
 
 The event was an astounding success. There were tons of visitors and users at the booth talking about Linux, Free and Open Source Software, [openQA](http://bitly.com/OQAPS), Tumbleweed, Leap and [Machinery](http://bit.ly/1IeH3As).
 
-[![IMG_0381]({{ site.baseurl }}/assets/IMG_0381-225x300.png)]({{ site.baseurl }}/assets/IMG_0381.png)At the booth, there were videos displaying testing of Tumbleweed, Leap and SUSE Linux in openQA. Large groups of developers crowded around the booth to try and figure out what they were watching. It was a great conversation starter and gave Geekos an opportunity to explain why openSUSE is an enjoyable community. Plus SUSE brought beer bottle sleeve coolers and openSUSE brought beer coasters for the booth beer crawl; we know how to have a lot of fun!
+[![IMG_0381](/wp-content/uploads/2015/10/IMG_0381.png)](/wp-content/uploads/2015/10/IMG_0381.png)At the booth, there were videos displaying testing of Tumbleweed, Leap and SUSE Linux in openQA. Large groups of developers crowded around the booth to try and figure out what they were watching. It was a great conversation starter and gave Geekos an opportunity to explain why openSUSE is an enjoyable community. Plus SUSE brought beer bottle sleeve coolers and openSUSE brought beer coasters for the booth beer crawl; we know how to have a lot of fun!
 
 **Leap**
 
@@ -35,4 +37,4 @@ There are about [80 open bugs](http://bit.ly/1Zk7NqV) for Leap and thanks to ope
 
 
 
-There are tons of things people can do to help with the release of Leap 42.1 like adding screenshots and features. We hope you all contribute to the [wiki](http://bit.ly/1LrWW3P) and have a lot of fun!		
+There are tons of things people can do to help with the release of Leap 42.1 like adding screenshots and features. We hope you all contribute to the [wiki](http://bit.ly/1LrWW3P) and have a lot of fun!

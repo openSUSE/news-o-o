@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2007-10-04 13:55:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/10/04/announcing-opensuse-103-gm/
-title: "Announcing openSUSE 10.3 GM"
+slug: announcing-opensuse-103-gm
+title: Announcing openSUSE 10.3 GM
+wordpress_id: 400
 categories:
 - Announcements
 - Distribution
@@ -34,7 +36,7 @@ There are many visual changes throughout this release, and they are also well-pr
 This release, as always, will have a full, new collection of artwork, and for openSUSE 10.3 it has gone back to the classical and much-loved green theme. It is all finished off with a polished and professional look:
  
 
-[![103_cdboot.png]({{ site.baseurl }}/assets/103_cdboot_thumb.png)]({{ site.baseurl }}/assets/103_cdboot.png) [![103bootsplash_thumb.png]({{ site.baseurl }}/assets/103bootsplash_thumb.png)]({{ site.baseurl }}/assets/103bootsplash.png) [![suse103-1600Ã—1200.jpg]({{ site.baseurl }}/assets/suse103-1600x1200_thumb.jpg)]({{ site.baseurl }}/assets/suse103-1600x1200.jpg)
+[![103_cdboot.png](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot.png) [![103bootsplash_thumb.png](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash.png) [![suse103-1600Ã—1200.jpg](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200.jpg)
 
 
 To see more openSUSE 10.3 artwork, see its respective [branding overview](http://en.opensuse.org/Branding_Overview:os10.3).
@@ -47,7 +49,7 @@ To see more openSUSE 10.3 artwork, see its respective [branding overview](http:/
 The default KDE desktop is the latest stable and SUSE-polished KDE 3.5.7, which comes complete with the usability-centric [Kickoff](http://opensuse.org/Kickoff) menu, [KNetworkManager](http://opensuse.org/KNetworkManager) and other such openSUSE creations. Kontact, the KDE Personal Information Manager, has also been upgraded to the _enterprise_ release, providing you with some new features and many fixes.
 
 
-[![openSUSE 10.3 KDE Desktop]({{ site.baseurl }}/assets/kde-desktop_thumb.png)]({{ site.baseurl }}/assets/kde-desktop.png) [![Kontact Enterprise Version - Personal Information Manager]({{ site.baseurl }}/assets/kontact1_thumb.png)]({{ site.baseurl }}/assets/kontact1.png)
+[![openSUSE 10.3 KDE Desktop](//news.opensuse.org/wp-content/uploads/2007/09/kde-desktop_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kde-desktop.png) [![Kontact Enterprise Version - Personal Information Manager](//news.opensuse.org/wp-content/uploads/2007/09/kontact1_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kontact1.png)
 
 
 
@@ -55,17 +57,17 @@ The default KDE desktop is the latest stable and SUSE-polished KDE 3.5.7, which 
 ## KDE 4
 
 
-While KDE 3.5.7 is the default KDE desktop environment, the [first parts of KDE 4](https://news.opensuse.org/?p=219) will also be seen in the distribution. This includes, by default, some KDE 4 games as well as KDE 4 versions of KRDC and KRFB -- applications for remote administration. Below you can see a couple of screenshots of these KDE 4 games, now both using SVG for a smoother graphical experience:
+While KDE 3.5.7 is the default KDE desktop environment, the [first parts of KDE 4](//news.opensuse.org/?p=219) will also be seen in the distribution. This includes, by default, some KDE 4 games as well as KDE 4 versions of KRDC and KRFB -- applications for remote administration. Below you can see a couple of screenshots of these KDE 4 games, now both using SVG for a smoother graphical experience:
 
 
-[![KPat - In the Game]({{ site.baseurl }}/assets/kde4-kpat_thumb.png)]({{ site.baseurl }}/assets/kde4-kpat.png)[![KMahjongg in KDE4]({{ site.baseurl }}/assets/kmahjongg_thumb.png)]({{ site.baseurl }}/assets/kmahjongg.png)
+[![KPat - In the Game](//news.opensuse.org/wp-content/uploads/2007/10/kde4-kpat_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat.png)[![KMahjongg in KDE4](//news.opensuse.org/wp-content/uploads/2007/10/kmahjongg_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kmahjongg.png)
 
 
 A full KDE 4 desktop is also available for _preview_ purposes:
 
 
 
-[![]({{ site.baseurl }}/assets/kde4_thumb.png)]({{ site.baseurl }}/assets/kde4.png)[![Amarok in KDE4]({{ site.baseurl }}/assets/103-kde4-amarok_thumb.jpg)]({{ site.baseurl }}/assets/103-kde4-amarok.jpg)
+[![](//news.opensuse.org/wp-content/uploads/2007/09/kde4_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kde4.png)[![Amarok in KDE4](//news.opensuse.org/wp-content/uploads/2007/10/103-kde4-amarok_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/10/103-kde4-amarok.jpg)
 
 
 
@@ -73,10 +75,10 @@ A full KDE 4 desktop is also available for _preview_ purposes:
 ## GNOME 2.20
 
 
-The very latest GNOME 2.20 is also featured in this release, and it comes with its own selection of typically [SUSE-polished additions](https://news.opensuse.org/?p=264). This includes the simpler and better-structured _SLAB_ menu, a new world clock applet from the _intlclock_ package (pictured below), as well as the comprehensive, feature-full and well-delivered F-Spot and Banshee applications, which are a photo browser and audio player respectively. 
+The very latest GNOME 2.20 is also featured in this release, and it comes with its own selection of typically [SUSE-polished additions](//news.opensuse.org/?p=264). This includes the simpler and better-structured _SLAB_ menu, a new world clock applet from the _intlclock_ package (pictured below), as well as the comprehensive, feature-full and well-delivered F-Spot and Banshee applications, which are a photo browser and audio player respectively. 
 
 
-[![10.3 GNOME Desktop]({{ site.baseurl }}/assets/gnome-desktop_thumb.png)]({{ site.baseurl }}/assets/gnome-desktop.png)
+[![10.3 GNOME Desktop](//news.opensuse.org/wp-content/uploads/2007/10/gnome-desktop_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/10/gnome-desktop.png)
 
 
 
@@ -88,7 +90,7 @@ The very latest GNOME 2.20 is also featured in this release, and it comes with i
 The [GTK version of YaST](http://en.opensuse.org/YaST2-GTK) is now default for all GNOME installations. This means that YaST will still have a well-integrated and consistent feel when using the GNOME desktop environment, and all the modules are structured in the same way as openSUSE's GNOME control panel. 
 
 
-[![GTK YaST]({{ site.baseurl }}/assets/800px-gtk-yast_thumb.jpg)]({{ site.baseurl }}/assets/800px-gtk-yast.jpg)[![Bluetooth Module]({{ site.baseurl }}/assets/gtk-yast-bluetooth_thumb.jpg)]({{ site.baseurl }}/assets/gtk-yast-bluetooth.jpg)
+[![GTK YaST](//news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast.jpg)[![Bluetooth Module](//news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth.jpg)
 
 
 The GTK version of YaST of course also contains _all_ of the same YaST modules as the regular Qt version, so there is absolutely no loss of functionality. Sentimental users can still easily switch to the Qt-style YaST by editing _/etc/sysconfig/yast2_.
@@ -98,10 +100,10 @@ The GTK version of YaST of course also contains _all_ of the same YaST modules a
 ## 1-Click Install
 
 
-This is a completely new and revolutionary piece of technology available to you in openSUSE, which finally removes the hassle from installing additional software from other repositories. Instead of searching for a repository, adding it to the package manager, then heading over to software management again, [1-Click-Install](https://news.opensuse.org/?p=133) combines it into one simple process, all initiated by a single click.
+This is a completely new and revolutionary piece of technology available to you in openSUSE, which finally removes the hassle from installing additional software from other repositories. Instead of searching for a repository, adding it to the package manager, then heading over to software management again, [1-Click-Install](//news.opensuse.org/?p=133) combines it into one simple process, all initiated by a single click.
 
 
-[![1-Click Install]({{ site.baseurl }}/assets/1-click-install_thumb.png)]({{ site.baseurl }}/assets/1-click-install.png)
+[![1-Click Install](//news.opensuse.org/wp-content/uploads/2007/10/1-click-install_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/10/1-click-install.png)
 
 
 It is already fully implemented in the [openSUSE Build Service](http://software.opensuse.org/search), and it is used for aiding you in acquiring multimedia codecs as is mentioned below.
@@ -111,10 +113,10 @@ It is already fully implemented in the [openSUSE Build Service](http://software.
 ## Multimedia
 
 
-The frequently-requested feature of MP3 support is now [fully available out-of-the-box](https://news.opensuse.org/?p=325)! MP3 playback is available via Fluendo (GStreamer) codecs in either Amarok or Banshee. These are available on the DVD, but if you chose to use the 1-CD Installation it is just as easy to get working -- a small and friendly dialog box will inquire about whether you wish to enable MP3 support:
+The frequently-requested feature of MP3 support is now [fully available out-of-the-box](//news.opensuse.org/?p=325)! MP3 playback is available via Fluendo (GStreamer) codecs in either Amarok or Banshee. These are available on the DVD, but if you chose to use the 1-CD Installation it is just as easy to get working -- a small and friendly dialog box will inquire about whether you wish to enable MP3 support:
 
 
-![Install Fluendo GStreamer Codec]({{ site.baseurl }}/assets/amarok-mp31_thumb.png)
+![Install Fluendo GStreamer Codec](//news.opensuse.org/wp-content/uploads/2007/10/amarok-mp31_thumb.png)
 
 
 
@@ -132,7 +134,7 @@ One popular new module is the _Community Repositories_ module, which provides yo
 Another module available from the _yast2-product-creator_ package is a YaST front-end to [KIWI](http://opensuse.org/Build_Service/KIWI), a configurable and easy-to-use application to help you roll your very own system images. Though there are many additional plans for KIWI, it currently supports a huge selection of options, such as creating Live CDs, USB, QEMU/VMware, Xen and Net boot images. Unlike other typical system image creators, KIWI is _fully_ configurable (down to the wallpaper you want to have), and has a clean and simple design.
 
 
-[![network-card.png]({{ site.baseurl }}/assets/network-card_thumb1.png)]({{ site.baseurl }}/assets/network-card.png)[![Community Repositories]({{ site.baseurl }}/assets/community-repos2_thumb.png)]({{ site.baseurl }}/assets/community-repos2.png)[![YaST2 KIWI]({{ site.baseurl }}/assets/yast2-kiwi_thumb.png)]({{ site.baseurl }}/assets/yast2-kiwi.png)
+[![network-card.png](//news.opensuse.org/wp-content/uploads/2007/10/network-card_thumb1.png)](//news.opensuse.org/wp-content/uploads/2007/09/network-card.png)[![Community Repositories](//news.opensuse.org/wp-content/uploads/2007/10/community-repos2_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/community-repos2.png)[![YaST2 KIWI](//news.opensuse.org/wp-content/uploads/2007/10/yast2-kiwi_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi.png)
 
 
 
@@ -143,20 +145,20 @@ Another module available from the _yast2-product-creator_ package is a YaST fron
 Compiz, as always, is available directly on all the installation CDs/DVDs, and [Compiz Fusion](http://opensuse.org/Compiz_Fusion) is also available in the official online repository. The new version comes with many new amazing plugins providing you with the latest composite effects.
 
 
-[![Expo Plugin]({{ site.baseurl }}/assets/expo_thumb.png)]({{ site.baseurl }}/assets/expo.png)[![Explode Animation]({{ site.baseurl }}/assets/animation-explode_thumb.png)]({{ site.baseurl }}/assets/animation-explode.png)[![Shift Switcher]({{ site.baseurl }}/assets/shift-switcher_thumb.png)]({{ site.baseurl }}/assets/shift-switcher.png)
+[![Expo Plugin](//news.opensuse.org/wp-content/uploads/2007/10/expo_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/08/expo.png)[![Explode Animation](//news.opensuse.org/wp-content/uploads/2007/10/animation-explode_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/08/animation-explode.png)[![Shift Switcher](//news.opensuse.org/wp-content/uploads/2007/10/shift-switcher_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/08/shift-switcher.png)
 
 
-To learn more see [this sneak peaks article](https://news.opensuse.org/?p=167). The [X11:/XGL](http://download.opensuse.org/repositories/X11:/XGL) openSUSE Build Service repository also always provides the latest Compiz and Compiz Fusion versions.
+To learn more see [this sneak peaks article](//news.opensuse.org/?p=167). The [X11:/XGL](http://download.opensuse.org/repositories/X11:/XGL) openSUSE Build Service repository also always provides the latest Compiz and Compiz Fusion versions.
 
 
 
 ## Virtualisation 
 
 
-There have been several [Virtualisation improvements and additions](https://news.opensuse.org/?p=371), including of course an excellent delivery of the latest [Xen](http://en.opensuse.org/Xen) 3.1 and QEMU. Furthermore, VirtualBox, a general-purpose full virtualizer, and KVM, the latest Linux virtualisation infrastructure, are now included. Other VMware-related kernel options such as _paravirt-ops_ and _vmi_ have also been enabled in the kernel now.
+There have been several [Virtualisation improvements and additions](//news.opensuse.org/?p=371), including of course an excellent delivery of the latest [Xen](http://en.opensuse.org/Xen) 3.1 and QEMU. Furthermore, VirtualBox, a general-purpose full virtualizer, and KVM, the latest Linux virtualisation infrastructure, are now included. Other VMware-related kernel options such as _paravirt-ops_ and _vmi_ have also been enabled in the kernel now.
 
 
-[![VirtualBox running openSUSE 10.3 KDE]({{ site.baseurl }}/assets/virtualbox_thumb.png)]({{ site.baseurl }}/assets/virtualbox.png)[![openSUSE 10.3 in Xen]({{ site.baseurl }}/assets/xen-103_thumb.png)]({{ site.baseurl }}/assets/xen-103.png)
+[![VirtualBox running openSUSE 10.3 KDE](//news.opensuse.org/wp-content/uploads/2007/10/virtualbox_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/virtualbox.png)[![openSUSE 10.3 in Xen](//news.opensuse.org/wp-content/uploads/2007/09/xen-103_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/xen-103.png)
 
 
 
@@ -168,7 +170,7 @@ There have been several [Virtualisation improvements and additions](https://news
 OpenOffice.org, the comprehensive office suite in openSUSE, has also been updated to the latest stable version of 2.3. The release includes several new features and countless fixes.
 
 
-[![]({{ site.baseurl }}/assets/ooo_thumb.png)]({{ site.baseurl }}/assets/ooo.png)[![OpenOffice.org Presentation]({{ site.baseurl }}/assets/oo-presenter_thumb.png)]({{ site.baseurl }}/assets/oo-presenter.png)
+[![](//news.opensuse.org/wp-content/uploads/2007/10/ooo_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/ooo.png)[![OpenOffice.org Presentation](//news.opensuse.org/wp-content/uploads/2007/10/oo-presenter_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/10/oo-presenter.png)
 
 
 
@@ -176,10 +178,10 @@ OpenOffice.org, the comprehensive office suite in openSUSE, has also been update
 ## A Whole Lot More!
 
 
-openSUSE 10.3 contains a [plethora of extra improvements](https://news.opensuse.org/?p=341) that haven't been mentioned here, including small applications like _Giver_, an easy file-sharing tool, Xfce 4.4.1, and other community developments. See [Product Highlights/10.3](http://en.opensuse.org/Product_Highlights/10.3) for more details.
+openSUSE 10.3 contains a [plethora of extra improvements](//news.opensuse.org/?p=341) that haven't been mentioned here, including small applications like _Giver_, an easy file-sharing tool, Xfce 4.4.1, and other community developments. See [Product Highlights/10.3](http://en.opensuse.org/Product_Highlights/10.3) for more details.
 
 
-[![Xfce in openSUSE 10.3]({{ site.baseurl }}/assets/xfce_thumb.png)]({{ site.baseurl }}/assets/xfce.png)
+[![Xfce in openSUSE 10.3](//news.opensuse.org/wp-content/uploads/2007/10/xfce_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/xfce.png)
 
 
 
@@ -196,12 +198,12 @@ Though this release has seen a large selection of graphical changes, a lot of wo
 ## New Package Management
 
 
-The package management team have been working hard on improving the [new openSUSE package management](https://news.opensuse.org/?p=153), and there is a lot to show for it now. It is reliable, more mature, and an awful lot faster. There is no more parsing during startup, greater compatibility with tools like yum and smart, and increased speed for the most common use-case: installing a package.
+The package management team have been working hard on improving the [new openSUSE package management](//news.opensuse.org/?p=153), and there is a lot to show for it now. It is reliable, more mature, and an awful lot faster. There is no more parsing during startup, greater compatibility with tools like yum and smart, and increased speed for the most common use-case: installing a package.
 
 It contains the much-improved _zypper_ tool for the command line, a re-designed openSUSE updater applet (a native KDE and GNOME one) as pictured below, while still providing you with the same YaST interface for graphical package management.
 
 
-[![openSUSE Updater in KDE]({{ site.baseurl }}/assets/opensuseupdater_thumb.png)]({{ site.baseurl }}/assets/opensuseupdater.png)
+[![openSUSE Updater in KDE](//news.opensuse.org/wp-content/uploads/2007/10/opensuseupdater_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/10/opensuseupdater.png)
 
 
 
@@ -209,7 +211,7 @@ It contains the much-improved _zypper_ tool for the command line, a re-designed 
 ## Greatly Improved Boot Time
 
 
-A big round of [improvements to the boot time](https://news.opensuse.org/?p=104) are now included. There are now some incredibly impressive speed-ups, with desktops booting in around **[24 seconds]({{ site.baseurl }}/assets/opensuse-103-desktop.png)**, or laptops booting in 27 seconds compared to a 55 second wait in openSUSE 10.2! See the link for more details.
+A big round of [improvements to the boot time](//news.opensuse.org/?p=104) are now included. There are now some incredibly impressive speed-ups, with desktops booting in around **[24 seconds](//news.opensuse.org/wp-content/uploads/2007/10/opensuse-103-desktop.png)**, or laptops booting in 27 seconds compared to a 55 second wait in openSUSE 10.2! See the link for more details.
 
 
 ## Under the Hood
@@ -239,7 +241,7 @@ A big round of [improvements to the boot time](https://news.opensuse.org/?p=104)
 
 
 
-[![CDs and DVDs]({{ site.baseurl }}/assets/cd.png)](http://download.opensuse.org)
+[![CDs and DVDs](//news.opensuse.org/wp-content/uploads/2007/10/cd.png)](http://download.opensuse.org)
 All of the installation media can be downloaded from [**software.openSUSE.org**](http://software.opensuse.org) via torrents or HTTP/FTP. Here's a few quick links:
 
 
@@ -267,7 +269,7 @@ Live CDs will be released in the next couple of weeks. [Metalinks](http://opensu
 ## Upgrade Options
 
 
-![Upgrade]({{ site.baseurl }}/assets/upgrade.png)
+![Upgrade](//news.opensuse.org/wp-content/uploads/2007/10/upgrade.png)
 As always, you can fully upgrade your previous openSUSE 10.2 to the final version of openSUSE 10.3 by simply downloading one of the media options and burning it to disk, boot to it, and then select the _Upgrade_ option in the installer. For the smoothest possible upgrade, leave the _"Add Online Repositories Before Installation"_ option checked. 
 
 To upgrade from openSUSE 10.3 RC1, please ensure that you have strictly only the **10.3 repositories ([oss](http://download.opensuse.org/repositories/openSUSE:10.3/standard/), [non-oss](http://download.opensuse.org/distribution/10.3/repo/non-oss/); not the _factory_ ones)**, in YaST -> Software Repositories; if you do not, remove the factory ones and then add the 10.3 ones again from the _Community Repositories_ YaST module. Once that is done, go to _Software Management_, and in the menu select _Package -> All Packages -> Update if Newer Version Available_.
@@ -284,7 +286,7 @@ Alternatively, with [Zypper](http://opensuse.org/Zypper) you can execute the fol
 
 
 
-[![Communicate]({{ site.baseurl }}/assets/communicate.png)](http://opensuse.org/Communicate)
+[![Communicate](//news.opensuse.org/wp-content/uploads/2007/10/communicate.png)](http://opensuse.org/Communicate)
 We want to hear from you! To get help, provide any feedback, ask questions, or get involved and help contribute to the openSUSE distribution, please [communicate](http://opensuse.org/Communicate). There are several ways to get in touch with the openSUSE community, including:
 
 
@@ -304,4 +306,4 @@ We want to hear from you! To get help, provide any feedback, ask questions, or g
 
 
 
-A huge thanks to all those involved in the release, particularly all the community contributors, for making this an excellent openSUSE release!
+A huge thanks to all those involved in the release, particularly all the community contributors, for making this an excellent openSUSE release! For example, the usc [justdomyhomework.com](https://justdomyhomework.com/) llm degree is a great option for international students who want to become familiar with us laws and regulations

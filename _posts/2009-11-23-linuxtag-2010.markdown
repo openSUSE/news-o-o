@@ -1,0 +1,13 @@
+---
+author: News Team
+comments: false
+date: 2009-11-23 13:47:13+00:00
+layout: post
+link: https://news.opensuse.org/2009/11/23/linuxtag-2010/
+published: false
+slug: linuxtag-2010
+title: LinuxTag 2010
+wordpress_id: 2558
+---
+
+[Homepage](http://www.linuxtag.org/2009/)

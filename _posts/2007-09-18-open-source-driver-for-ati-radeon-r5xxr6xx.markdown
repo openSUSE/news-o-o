@@ -1,14 +1,17 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2007-09-18 13:55:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/18/open-source-driver-for-ati-radeon-r5xxr6xx/
-title: "Open Source Driver for ATI Radeon R5xx/R6xx"
+slug: open-source-driver-for-ati-radeon-r5xxr6xx
+title: Open Source Driver for ATI Radeon R5xx/R6xx
+wordpress_id: 265
 categories:
 - Distribution
 ---
-[![amd-ati.jpg]({{ site.baseurl }}/assets/amd-ati.jpg)](http://ati.amd.com) AMD has recently released register specifications for the ATI  Radeon R5xx and R6xx  graphic devices.  Engineers  from Novell have now released a first alpha quality Open Source driver which currently supports initial mode settings. Next steps are adding support for more hardware, RandR 1.2 support, video overlay support and 2D acceleration.
+
+[![amd-ati.jpg](/wp-content/uploads/2007/09/amd-ati.jpg)](http://ati.amd.com) AMD has recently released register specifications for the ATI  Radeon R5xx and R6xx  graphic devices.  Engineers  from Novell have now released a first alpha quality Open Source driver which currently supports initial mode settings. Next steps are adding support for more hardware, RandR 1.2 support, video overlay support and 2D acceleration.
 
 The developers are now seeking for help to extend support for all graphics cards and motherboards out there. You can get the alpha driver from the multi-distribution packages (Fedora, Mandriva, SUSE Linux Enterprise, and of course openSUSE) in the [openSUSE Build Service](http://opensuse.org/Build_Service) at:
 
@@ -26,4 +29,4 @@ Thanks to  [Egbert Eich](http://archive.fosdem.org/2007/schedule/speakers/egbert
 
 I'm looking forward to seeing the driver in the openSUSE 11.0 release next year.
 
-Andreas		
+Andreas

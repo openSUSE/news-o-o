@@ -1,27 +1,30 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-09-19 09:40:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/09/19/opensuse-13-1-beta-is-out/
-title: "openSUSE 13.1 Beta Is Out!"
+slug: opensuse-13-1-beta-is-out
+title: openSUSE 13.1 Beta Is Out!
+wordpress_id: 16747
 categories:
 - Announcements
 - Distribution
 ---
-[![WinterIsComingFinal]({{ site.baseurl }}/assets/WinterIsComingFinal-300x225.jpg)]({{ site.baseurl }}/assets/WinterIsComingFinal.jpg)
 
-_Still ... in this world only winter is certain._
-**• George R.R. Martin**
+[![WinterIsComingFinal](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)
 
-_And thus, Factory is now Frozen._
-**• Stephan _"coolo"_ Kulow**
+_â€œStill ... in this world only winter is certain.â€_
+**â€• George R.R. Martin**
+
+_â€œAnd thus, Factory is now Frozen.â€_
+**â€• Stephan _"coolo"_ Kulow**
 
 Starting today, you can scurry over to [software.opensuse.org](http://software.opensuse.org/developer), grab that beta by its tail and give it a spin. And report your findings, because we want to squash those smelly little bugs out of it during our hackaton. So, shove a pizza in that oven, settle with your laptop next to a roaring fire and a big glas of mead and start testing!
 
 Read on to find out what's new in this beta, what we'd like you to test and of course what is up with that Party and that Hackaton.<!-- more -->
 
-[![borisvanhoytema factory frozen]({{ site.baseurl }}/assets/borisvanhoytema-factory-frozen-1-282x300.jpg)](http://www.flickr.com/photos/borisvanhoytema/)
+[![borisvanhoytema factory frozen](//news.opensuse.org/wp-content/uploads/2013/09/borisvanhoytema-factory-frozen-1-282x300.jpg)](http://www.flickr.com/photos/borisvanhoytema/)
 
 
 ## Latest features that made it in
@@ -91,7 +94,7 @@ Testing means installing the beta, playing around with it and [submitting bug re
 Bugs should be reported and can be tracked via [Bugzilla](http://bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](http://en.opensuse.org/openSUSE:Submitting_bug_reports). There's a quick overview of the [most annoying bugs in 13.1 Beta](http://en.opensuse.org/openSUSE:Most_annoying_bugs_13.1_dev#openSUSE_13.1_Beta), check it out before you submit duplicate bug reports.
 
 Discussions about openSUSE development takes place on the [factory mailing list](http://lists.opensuse.org/opensuse-factory). [openSUSE Factory](http://en.opensuse.org/Portal:Factory) is the development release of openSUSE.
-[![pizza David Standout geekoified]({{ site.baseurl }}/assets/pizza-David-Standout-geekoified-300x225.png)](http://www.flickr.com/photos/standout/)
+[![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](http://www.flickr.com/photos/standout/)
 
 There is plenty of help available on the [Development page](http://en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](http://lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](http://en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
 
@@ -115,4 +118,4 @@ However, who installs btrfs now will be able to instantly benefit from the many 
 ## Get testing!
 
 
-.... _and have a lot of fun_...		
+.... _and have a lot of fun_...

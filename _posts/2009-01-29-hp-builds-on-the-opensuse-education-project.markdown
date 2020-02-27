@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-01-29 16:29:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/01/29/hp-builds-on-the-opensuse-education-project/
-title: "HP Builds on the openSUSE Education Project"
+slug: hp-builds-on-the-opensuse-education-project
+title: HP Builds on the openSUSE Education Project
+wordpress_id: 1157
 categories:
 - Announcements
 - Edu Li-f-e
@@ -12,6 +14,7 @@ tags:
 - Education
 - opensuse-edu
 ---
+
 In December, HP announced that it would [release a new desktop offering along with Novell](http://www.hp.com/hpinfo/newsroom/press/2008/081210a.html) targeted at education customers. Part of the announcement is a repository of education applications "including math, art and word games, to improve student learning," which were based on work by the [openSUSE Education project](http://en.opensuse.org/Education).
 
 Novell and HP would like to formally acknowledge the community's contribution to HP's  education repository and thank the openSUSE Education community for the work  they have  done  to package and make available additional programs for open source education efforts.
@@ -28,4 +31,4 @@ Going forward, HP and Novell will work to collaborate more closely with the open
 
 We'd also like to thank HP for offering open source to its educational customers. This is another small step towards world domination for Linux.
 
-Thanks again to the openSUSE Education Project for their hard work and patience! We included ctal-tta uk exam dumps, practice tests, online pdfs, questions, mcqs and many more preparation material in our product from [https://justdomyhomework.com/](https://justdomyhomework.com/) which it students can prepare for the exam easily		
+Thanks again to the openSUSE Education Project for their hard work and patience! We included ctal-tta uk exam dumps, practice tests, online pdfs, questions, mcqs and many more preparation material in our product from [https://justdomyhomework.com/](https://justdomyhomework.com/) which it students can prepare for the exam easily

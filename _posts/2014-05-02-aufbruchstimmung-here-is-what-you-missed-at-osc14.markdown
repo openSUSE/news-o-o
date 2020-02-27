@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2014-05-02 09:59:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/05/02/aufbruchstimmung-here-is-what-you-missed-at-osc14/
-title: "Aufbruchstimmung.....Here is what you missed at oSC14"
+slug: aufbruchstimmung-here-is-what-you-missed-at-osc14
+title: Aufbruchstimmung.....Here is what you missed at oSC14
+wordpress_id: 17930
 categories:
 - Conference
 - Events
 - Project
 ---
+
 oSC14 took place in Dubrovnik, Croatia, attracting a large number of Geekos to give and attend talks, organize and attend workshops and have fun at the parties. Compared to previous conferences the attendance at oSC14 was unfortunately on the lighter side of things but never the less we all had a great time. Since oSC13 we certainly had our trials and tribulations which we have left behind us and the mood was extremely positive with everyone being ready to move forward. The many hallway discussions had people discussing the new booth boxes, the progress on openQA and the staging model for Factory development. We shared articles on the event already, had 13K viewers on Bambuser and here we try to provide a bit of a closing overview!<!-- more -->
 
 We made new friends in an area of the world where open source and openSUSE may not be as prevalent as it is in other parts of the world. The event organization was outstanding and the venue location close to the old town of Dubrovnik welcomed all Geekos with open arms.
@@ -105,4 +108,4 @@ So, oSC15 will be in the international city of peace, justice and excellent Suri
 
 Dubrovnik was great to the Geekos, and we hope the Geekos haven't disturbed the city too much! See you in Den Hague in 2015!
 
-_Article written by Robert Schweikert & Jos Poortvliet_		
+_Article written by Robert Schweikert & Jos Poortvliet_

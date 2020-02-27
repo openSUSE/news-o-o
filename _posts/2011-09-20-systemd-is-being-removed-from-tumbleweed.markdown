@@ -1,14 +1,15 @@
 ---
 author: Kostas Koudaras
+comments: true
 date: 2011-09-20 19:54:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/09/20/systemd-is-being-removed-from-tumbleweed/
-title: "Systemd is being removed from Tumbleweed"
+slug: systemd-is-being-removed-from-tumbleweed
+title: Systemd is being removed from Tumbleweed
+wordpress_id: 11074
 categories:
 - Tumbleweed
 ---
-
 
 ![](http://linux.ioda.net/openSUSE/git/art/00assets/logo/tumbleweed/tumbleweed4.svg)Respecting users is a priority to the openSUSE Project so when something does not work the way it should be, taking a step back is more preferable than delivering something that is not ready yet. For that reason yesterday afternoon[ Greg K.H](http://www.kroah.com/). announced to the [openSUSE-factory mailing list](http://lists.opensuse.org/opensuse-factory/) that systemd is being removed from [Tumbleweed](http://en.opensuse.org/Portal:Tumbleweed) so that users won't have a problem with it. That way it will allow developers to spend more time on working on it in order to have systemd ready for the upcoming 12.1 instead of chasing problems that are specific to Tumbleweed.
 
@@ -28,4 +29,4 @@ zypper rm systemd
 
 thanks,
 
-greg k-h		
+greg k-h

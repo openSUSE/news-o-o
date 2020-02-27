@@ -1,9 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-26 01:01:49+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/26/2018-2019-opensuse-board-elections-meet-nathan-wolf/
-title: "2018-2019 openSUSE Board Elections: Meet Nathan Wolf"
+slug: 2018-2019-opensuse-board-elections-meet-nathan-wolf
+title: '2018-2019 openSUSE Board Elections: Meet Nathan Wolf'
+wordpress_id: 21629
 categories:
 - Announcements
 - Board
@@ -18,7 +21,6 @@ tags:
 - Election
 - openSUSE Board Elections
 ---
-
 
 ### Seven Candidates in Race for Three Vacant Board Seats
 
@@ -51,7 +53,7 @@ _**The Candidates were asked to give some biographical personal information, suc
 
 I started with Linux in 2003 back when you could go into the local software store and buy a boxed set of SUSE, Redhat or Mandrake. So, I started on Mandrake, later Mandriva.
 
-({{ site.baseurl }}/assets/Nathan-Wolf-ProfilePic.png) **Nathan Wolf aka futureboy and CubicleNate**
+[caption id="attachment_21634" align="alignright" width="300"][![](/wp-content/uploads/2019/01/Nathan-Wolf-ProfilePic.png)](/wp-content/uploads/2019/01/Nathan-Wolf-ProfilePic.png) **Nathan Wolf aka futureboy and CubicleNate**[/caption]
 
 About 2005, I gave [openSUSE](https://www.opensuse.org/) my first spin due to better hardware support with dial up modems and sharing the blazing 56 kbaud speed with the other computers on the network. I shifted to openSUSE full time in 2011 after some distro hopping because the structure and layout just made sense as compared to the other available offerings.
 
@@ -83,7 +85,7 @@ It is my ambition to assist in understanding how to work with openSUSE as clear 
 
 My third mission is a selfish one. It is to make openSUSE the go-to distribution for all things in the engineering and manufacturing industry. Linux has been creeping into the industry more and more, and it only makes sense that openSUSE should be the distribution of choice for the home hobbiest, small and large businesses alike.
 
-({{ site.baseurl }}/assets/poster-election.png) **2018-2019 Election Poster contributed by Aris Winardi**
+[caption id="attachment_21386" align="alignleft" width="368"][![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)](/wp-content/uploads/2018/12/poster-election.png) **2018-2019 Election Poster contributed by Aris Winardi**[/caption]
 
 Not only are Leap and Tumbleweed technically very sound distributions, but the additional components -- OBS, openQA and the Wiki -- make it the ideal ecosystem to deploy a targeted spin of the distribution or series of meta packages to bolt onto Leap or Tumbleweed to serve the industry.
 
@@ -116,4 +118,4 @@ Email futureboy AT opensuse.org
 IRC CubicleNate on Freenode or irc.geekshed.net
 Telegram https://t.me/CubicleNate
 Webpage CubicleNate.com
-Twitter CubicleNate on Twitter		
+Twitter CubicleNate on Twitter

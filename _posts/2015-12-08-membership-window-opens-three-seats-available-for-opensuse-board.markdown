@@ -1,14 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-12-08 07:45:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/12/08/membership-window-opens-three-seats-available-for-opensuse-board/
-title: "Membership window opens, three seats available for openSUSE Board\
-  "
+slug: membership-window-opens-three-seats-available-for-opensuse-board
+title: Membership window opens, three seats available for openSUSE Board
+wordpress_id: 19655
 categories:
 - Board
 ---
+
 ![](http://www.esw.gtorg.gatech.edu/wp-content/uploads/vote-for-me-nt3jey.jpg)
 
 Contributors of openSUSE that are not currently members can now [apply for membership](https://en.opensuse.org/openSUSE:Membership_officials#Process) during a three-week window and can be a part of the changes to come in the project.
@@ -97,4 +99,4 @@ To learn more about the election details and applying for membership, visit the 
 [http://en.opensuse.org/openSUSE:Board_election
 ](http://en.opensuse.org/openSUSE:Board_election)[http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination
 ](http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination)[http://en.opensuse.org/openSUSE:Members
-](http://en.opensuse.org/openSUSE:Members)[http://en.opensuse.org/openSUSE:Membership_officials#Process](http://en.opensuse.org/openSUSE:Membership_officials#Process)		
+](http://en.opensuse.org/openSUSE:Members)[http://en.opensuse.org/openSUSE:Membership_officials#Process](http://en.opensuse.org/openSUSE:Membership_officials#Process)

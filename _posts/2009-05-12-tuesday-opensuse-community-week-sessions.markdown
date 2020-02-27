@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2009-05-12 04:06:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/05/12/tuesday-opensuse-community-week-sessions/
-title: "Tuesday openSUSE Community Week Sessions"
+slug: tuesday-opensuse-community-week-sessions
+title: Tuesday openSUSE Community Week Sessions
+wordpress_id: 1641
 categories:
 - Announcements
 - Events
 ---
-The [openSUSE Community Week](http://en.opensuse.org/Community_Week) is going strong! Monday kicked off with a number of really informative and well-attended sessions on [GNOME, KDE, testing, packaging, and more](https://news.opensuse.org/2009/05/11/monday-community-week-sessions/). Tuesday is even more chock full of fun, with more sessions and plenty of openSUSE contributors on hand. If you want to get involved in openSUSE there's no time like the present!
+
+The [openSUSE Community Week](http://en.opensuse.org/Community_Week) is going strong! Monday kicked off with a number of really informative and well-attended sessions on [GNOME, KDE, testing, packaging, and more](http://news.opensuse.org/2009/05/11/monday-community-week-sessions/). Tuesday is even more chock full of fun, with more sessions and plenty of openSUSE contributors on hand. If you want to get involved in openSUSE there's no time like the present!
 
 Our community week is a chance to get people from around the world together at the same time to focus on specific topics, and to transfer knowledge about openSUSE to help grow our teams. The idea is to cover topics to improve our community by broadening our knowledge, and to enable new contributors to openSUSE and open source.
 
@@ -45,4 +48,4 @@ As a reminder -- all sessions are being [held in IRC](http://en.opensuse.org/Com
 
 And there will be plenty of openSUSE contributors in #opensuse-project for general questions about openSUSE and getting started as a contributor. Also, the Education Project will have general discussion on Tuesday in [#openSUSE-edu on Freenode](irc://irc.freenode.net/opensuse-edu) from 09:00 to 15:00 UTC.
 
-Join us Tuesday in IRC and **Have a Lot of Fun**!		
+Join us Tuesday in IRC and **Have a Lot of Fun**!

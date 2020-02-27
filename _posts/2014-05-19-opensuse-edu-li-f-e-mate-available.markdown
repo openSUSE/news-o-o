@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2014-05-19 16:38:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/05/19/opensuse-edu-li-f-e-mate-available/
-title: "openSUSE Edu Li-f-e MATE available"
+slug: opensuse-edu-li-f-e-mate-available
+title: openSUSE Edu Li-f-e MATE available
+wordpress_id: 18013
 categories:
 - Announcements
 - Edu Li-f-e
@@ -14,6 +16,7 @@ tags:
 - opensuse
 - release
 ---
+
 The openSUSE-Education team is proud to present a special, 64-bit edition of openSUSE Edu Li-f-e with the [MATE desktop environment](http://mate-desktop.org/).
 
 
@@ -36,5 +39,3 @@ Quoting Marius Nestor on [softpedia.com](http://linux.softpedia.com/get/Linux-Di
 
 
 <blockquote>openSUSE Edu Li-f-e MATE is a surprise addition to the educational edition of the award winning and widely used openSUSE Linux operating system. The MATE desktop environment will provide for a faster working environment suitable for classroom use. </blockquote>
-
-		

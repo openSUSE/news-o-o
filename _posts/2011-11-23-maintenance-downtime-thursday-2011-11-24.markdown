@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2011-11-23 10:25:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/23/maintenance-downtime-thursday-2011-11-24/
-title: "Maintenance downtime Thursday 2011-11-24"
+slug: maintenance-downtime-thursday-2011-11-24
+title: Maintenance downtime Thursday 2011-11-24
+wordpress_id: 12088
 categories:
 - Infrastructure
 tags:
@@ -12,6 +14,7 @@ tags:
 - Infrastructure
 - Outage
 ---
+
 We need some maintenance downtime to work on the following issues:
 
 
@@ -46,5 +49,3 @@ but some services might need a bit longer (for example the schedulers of the Bui
 
 Please contact admin@opensuse.org with any queries.
 Your openSUSE Admins
-
-		

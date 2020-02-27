@@ -1,10 +1,12 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2011-02-16 14:09:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/
-title: "Open-Bugs-Day on Sunday the 20th of February"
+slug: open-bugs-day-on-sunday-the-20th-of-february
+title: Open-Bugs-Day on Sunday the 20th of February
+wordpress_id: 7039
 categories:
 - Distribution
 - Events
@@ -16,6 +18,7 @@ tags:
 - event
 - testing
 ---
+
 As you all know, we're closing in on the Final Release of openSUSE 11.4...
 
 
@@ -35,7 +38,7 @@ You only need the following to participate:
 
 
 	
-  * An installation of openSUSE 11.4 RC1 or openSUSE Factory so you can verify things. It™s of course okay to run it in a virtual machine.
+  * An installation of openSUSE 11.4 RC1 or openSUSE Factory so you can verify things. Itâ€™s of course okay to run it in a virtual machine.
 
 	
   * An IRC client to interact with the other participants.
@@ -47,7 +50,7 @@ You only need the following to participate:
 If you don't know how to triage bugs the organizers will give you  a list of bugs that you can work on and you can double-check with other  participants that your changes are okay. If you do know how to triage bugs you can of course just go ahead and do it!
 
 
-### Workflow![]({{ site.baseurl }}/assets/t-shirt1-e1297864943503-300x300.png)
+### Workflow![](/wp-content/uploads/2011/02/t-shirt1-e1297864943503.png)
 
 
 The workflow is as follows
@@ -81,4 +84,4 @@ The workflow is as follows
 ### No pain without gain!
 
 
-The ten most active contributors that help us to clean up bugzilla and make openSUSE 11.4 a big success will receive a nice thank you package with an openSUSE t-shirt and other goodies.		
+The ten most active contributors that help us to clean up bugzilla and make openSUSE 11.4 a big success will receive a nice thank you package with an openSUSE t-shirt and other goodies.

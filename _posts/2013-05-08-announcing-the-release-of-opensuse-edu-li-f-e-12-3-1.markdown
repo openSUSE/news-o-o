@@ -1,10 +1,12 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2013-05-08 11:32:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/05/08/announcing-the-release-of-opensuse-edu-li-f-e-12-3-1/
-title: "Announcing the release of openSUSE Edu Li-f-e 12.3-1"
+slug: announcing-the-release-of-opensuse-edu-li-f-e-12-3-1
+title: Announcing the release of openSUSE Edu Li-f-e 12.3-1
+wordpress_id: 15981
 categories:
 - Announcements
 - Edu Li-f-e
@@ -13,6 +15,7 @@ tags:
 - Education
 - opensuse
 ---
+
 [openSUSE Education](http://en.opensuse.org/Portal:Education) Team is proud to present [Li-f-e](http://en.opensuse.org/openSUSE:Education-Li-f-e) (Linux for Education) 12.3-1. This first release is based on [openSUSE 12.3](https://en.opensuse.org/Portal:12.3) with all the official updates applied. Li-f-e incorporates the latest stable versions of all popular desktop environments such as [KDE](https://en.opensuse.org/Portal:KDE), [Gnome](https://en.opensuse.org/Portal:GNOME) and [Cinnamon.](https://en.opensuse.org/openSUSE:GNOME_Cinnamon) It includes wide range of software catering to everyone's needs from the openSUSE [Education repository](http://download.opensuse.org/repositories/Education/), multimedia from the [Packman](http://packman.links2linux.org/) repository, development tools, and [KIWI-LTSP](https://en.opensuse.org/SDB:LTSP_quick_start_12.2_Edu) -that allows normal PCs or diskless thin clients to network boot from a server running Li-f-e and lot more. Everything you need to make your computer useful is available right out of the box as soon as Li-f-e is installed on it.
 
 [![](https://en.opensuse.org/images/thumb/6/63/Life123-welcome.png/120px-Life123-welcome.png)](http://en.opensuse.org/File:Life123-welcome.png) [![](https://en.opensuse.org/images/thumb/7/75/Life123-boot.png/120px-Life123-boot.png)](http://en.opensuse.org/File:Life123-boot.png) [![](https://en.opensuse.org/images/thumb/e/eb/Life123-kde.png/120px-Life123-kde.png)](http://en.opensuse.org/File:Life123-kde.png)
@@ -33,4 +36,4 @@ Test reports are always welcomed - if you encounter any problems, feel free to c
 
 Have a lot of fun!
 
-Your openSUSE Education Team		
+Your openSUSE Education Team

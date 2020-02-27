@@ -1,19 +1,22 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-07-14 17:50:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/07/14/opensuse-conference-registration-open/
-title: "openSUSE Conference registration open!"
+slug: opensuse-conference-registration-open
+title: openSUSE Conference registration open!
+wordpress_id: 9600
 categories:
 - Conference
 tags:
 - osc11
 - registration
 ---
-[![rwx3 logo]({{ site.baseurl }}/assets/rwx3b-300x123.png)](https://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/rwx3b/)
 
-The organization team is excited to announce the registration for the openSUSE Conference, from September 11 to 14 in Nürnberg, is now open. Head over to [cur registration form](http://conference.opensuse.org/indico/confRegistrationFormDisplay.py?confId=2) and register to help us plan for a great event.
+[![rwx3 logo](/wp-content/uploads/2011/07/rwx3b.png)](http://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/rwx3b/)
+
+The organization team is excited to announce the registration for the openSUSE Conference, from September 11 to 14 in NÃ¼rnberg, is now open. Head over to [cur registration form](http://conference.opensuse.org/indico/confRegistrationFormDisplay.py?confId=2) and register to help us plan for a great event.
 
 It is time to start preparing your trip to Nuremberg!
 
@@ -37,7 +40,7 @@ The openSUSE conference team has made [a list of hotels](http://en.opensuse.org/
 ### Travel support
 
 
-For some of you, the trip to Nuremberg is financially not easy. You might be a student, or have to fly in all the way from India. We know that very well and it is the main reason why we [are looking very hard for sponsors](https://news.opensuse.org/2011/06/08/opensuse-conference-looking-for-sponsors/)! Within a week, you can count on an announcement of the what and how of travel subsidy, but rest assured that we will do everything we can to ensure our community members from far away or on low budget are also able to come and join us!
+For some of you, the trip to Nuremberg is financially not easy. You might be a student, or have to fly in all the way from India. We know that very well and it is the main reason why we [are looking very hard for sponsors](http://news.opensuse.org/2011/06/08/opensuse-conference-looking-for-sponsors/)! Within a week, you can count on an announcement of the what and how of travel subsidy, but rest assured that we will do everything we can to ensure our community members from far away or on low budget are also able to come and join us!
 
 
 ### Visa
@@ -61,4 +64,4 @@ Last but not least, there is an option between [two different tickets](http://en
 ## Helping Out
 
 
-Meanwhile, the conference team is welcomes all the help it can get! If you want to get involved and help us make the openSUSE conference the best ever, please subscribe to the team mailinglist: [opensuse-conference@opensuse.org](mailto:opensuse-conference+subscribe@opensuse.org) and checkout the [planning page](http://en.opensuse.org/openSUSE:Conference_Planning_2011).		
+Meanwhile, the conference team is welcomes all the help it can get! If you want to get involved and help us make the openSUSE conference the best ever, please subscribe to the team mailinglist: [opensuse-conference@opensuse.org](mailto:opensuse-conference+subscribe@opensuse.org) and checkout the [planning page](http://en.opensuse.org/openSUSE:Conference_Planning_2011).

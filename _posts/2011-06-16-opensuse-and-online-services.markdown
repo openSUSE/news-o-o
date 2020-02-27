@@ -1,14 +1,15 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-06-16 20:43:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/16/opensuse-and-online-services/
-title: "openSUSE and online services"
+slug: opensuse-and-online-services
+title: openSUSE and online services
+wordpress_id: 9293
 categories:
 - Distribution
 ---
-
 
 [![Clouds](http://farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg)](http://www.flickr.com/photos/nirak/644335254/)
 
@@ -55,4 +56,4 @@ Besides integrating with existing services, Free Software projects are starting 
 ## More
 
 
-But there is more available for openSUSE. There are several file sharing and syncing services out there. Read about that in [part II](https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/).		
+But there is more available for openSUSE. There are several file sharing and syncing services out there. Read about that in [part II](http://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/).

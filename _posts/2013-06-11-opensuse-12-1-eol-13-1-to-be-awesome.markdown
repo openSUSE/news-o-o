@@ -1,15 +1,18 @@
 ---
-author: Andres Betts
+author: anditosan
+comments: true
 date: 2013-06-11 16:55:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/06/11/opensuse-12-1-eol-13-1-to-be-awesome/
-title: "openSUSE 12.1 EOL, 13.1 Milestone 2 released!"
+slug: opensuse-12-1-eol-13-1-to-be-awesome
+title: openSUSE 12.1 EOL, 13.1 Milestone 2 released!
+wordpress_id: 16125
 categories:
 - Announcements
 - Distribution
 ---
-[![12_1vs13_1]({{ site.baseurl }}/assets/12_1vs13_1-300x228.png)]({{ site.baseurl }}/assets/12_1vs13_1.png)For those of you waiting for (or working on) openSUSE 13.1, we have good news: milestone 2 is now out for you to download. As to be exptected, the inclusion of newer software versions is the highlight of this release. Broken in M1 and fixed now are automake, boost, and webyast. But first, let's talk openSUSE 12.1: it is no longer maintained.<!-- more -->
+
+[![12_1vs13_1](//news.opensuse.org/wp-content/uploads/2013/06/12_1vs13_1.png)](//news.opensuse.org/wp-content/uploads/2013/06/12_1vs13_1.png)For those of you waiting for (or working on) openSUSE 13.1, we have good news: milestone 2 is now out for you to download. As to be exptected, the inclusion of newer software versions is the highlight of this release. Broken in M1 and fixed now are automake, boost, and webyast. But first, let's talk openSUSE 12.1: it is no longer maintained.<!-- more -->
 
 
 ## openSUSE 12.1 no longer maintained
@@ -116,7 +119,7 @@ The list of [most annoying bugs](https://en.opensuse.org/openSUSE:Most_annoying_
 ### Statistics
 
 
-[![statistics dister inside]({{ site.baseurl }}/assets/statistics-dister-inside-212x300.png)]({{ site.baseurl }}/assets/statistics-dister-inside.png)
+[![statistics dister inside](//news.opensuse.org/wp-content/uploads/2013/06/statistics-dister-inside.png)](//news.opensuse.org/wp-content/uploads/2013/06/statistics-dister-inside.png)
 
 As you might have seen in the [openSUSE team blog about Factory development](https://lizards.opensuse.org/2013/06/13/keeping-factory-in-shape/) yesterday, the openSUSE team has collected some statistics on development of openSUSE. Where the blog contains the top-15 contributors of last week, here's the top-20 of contributors to openSUSE 13.1 between Milestone 1 and Milestone2:
 
@@ -171,16 +174,16 @@ As you might have seen in the [openSUSE team blog about Factory development](htt
   16. BjÃ¸rn Lie
 
 	
-  17. Tomáš Chvátal, Togan Muftuoglu, Dmitriy Perlow & Ciaran Farrell
+  17. TomÃ¡Å¡ ChvÃ¡tal, Togan Muftuoglu, Dmitriy Perlow & Ciaran Farrell
 
 	
   18. Wolfgang Rosenauer & Joop Boonen
 
 	
-  19. Michal Vyskocil & Matthias Mailänder
+  19. Michal Vyskocil & Matthias MailÃ¤nder
 
 	
-  20. Tomas Cech, Johannes Weberhofer, Hrvoje Senjan & Andreas Färber
+  20. Tomas Cech, Johannes Weberhofer, Hrvoje Senjan & Andreas FÃ¤rber
 
 
 
@@ -188,10 +191,10 @@ As you might have seen in the [openSUSE team blog about Factory development](htt
 ## Get hacking!
 
 
-As always, testers and contributors are welcome throughout the development process. We [published some plans for 13.1 in the M1 announcement](https://news.opensuse.org/?p=16026) and if you want to make sure your application makes it into openSUSE 13.1, [see this article on getting your package in Factory](https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/). You should also check out [the participation portal](https://en.opensuse.org/Portal:How_to_participate), join the Factory Mailing List and have a lot of fun!
+As always, testers and contributors are welcome throughout the development process. We [published some plans for 13.1 in the M1 announcement](//news.opensuse.org/?p=16026) and if you want to make sure your application makes it into openSUSE 13.1, [see this article on getting your package in Factory](https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/). You should also check out [the participation portal](https://en.opensuse.org/Portal:How_to_participate), join the Factory Mailing List and have a lot of fun!
 
 Remember, we will soon have [the openSUSE Conference in Greece](http://conference.opensuse.org) and this is a great place to get started on openSUSE development & meet the folk already hacking.
 
 According to [the road map](http://lists.opensuse.org/opensuse-factory/2013-05/msg00204.html),  The next milestone is expected for the 11th of July, followed by new ones each month. Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.
 
-_Pool ball graphic courtesy of Victorhck “ openSUSE Artwork Team member_		
+_Pool ball graphic courtesy of Victorhck â€“ openSUSE Artwork Team member_

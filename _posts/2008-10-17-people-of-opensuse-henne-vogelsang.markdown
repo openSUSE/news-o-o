@@ -1,30 +1,124 @@
 ---
 author: News Team
+comments: true
 date: 2008-10-17 21:53:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/10/17/people-of-opensuse-henne-vogelsang/
-title: "People of openSUSE: Henne Vogelsang"
+slug: people-of-opensuse-henne-vogelsang
+title: 'People of openSUSE: Henne Vogelsang'
+wordpress_id: 1049
 categories:
 - People of openSUSE
 ---
+
 After a long summer holiday season 'People of openSUSE' is back!
 
 This week we caught up one of the many people responsible for the success of the openSUSE project maintaining mailing lists, IRC channels, and openSUSE project meetings, as also doing some packaging in the well-known Packman repository. Today you have the opportunity to meet the current [openSUSE Board Candidate](http://en.opensuse.org/Board_Election) Henne Vogelsang!
 
 <!-- more -->
 
-![]({{ site.baseurl }}/assets/henne_vogelsang.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname(s):**|henne|
-|**Homepage:**|[http://hennevogel.de](http://hennevogel.de)|
-|**Blog:**|Various. My homepage is a blog, I blog on lizards, sometimes news etc. Guess it's best to just follow PlanetSUSE in general :)|
-|||
-|**Favorite season:**|I like them all. I like the prospect of summer in spring and how everything bursts into bloom. Summer for beer gardens and the general vibes. Autumn for the colors and the prospect of winter. And winter for sitting inside in front of the fireplace.|
-|**Motto:**|You're 16 years old, you don't know shit about shit, and PULL UP YOUR PANTS!!!|
-|||
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](//news.opensuse.org/wp-content/uploads/2008/10/henne_vogelsang.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >henne
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://hennevogel.de](http://hennevogel.de)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >Various. My homepage is a blog, I blog on lizards, sometimes news etc. Guess it's best to just follow PlanetSUSE in general :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >I like them all. I like the prospect of summer in spring and how everything bursts into bloom. Summer for beer gardens and the general vibes. Autumn for the colors and the prospect of winter. And winter for sitting inside in front of the fireplace.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >You're 16 years old, you don't know shit about shit, and PULL UP YOUR PANTS!!!
+</td>
+
+<td >
+</td>
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -345,4 +439,4 @@ Oxygen, Water, Food.
 
 The time travel one. Everything you answer sounds stupid. It's time travel. It makes your head spin...
 
-Have the 100% success guarantee by downloading the mb2-701 exam pdf questions online to check [https://college-homework-help.org](https://college-homework-help.org/) the quality of microsoft microsoft dynamics crm 2013 exam test questions from produmps		
+Have the 100% success guarantee by downloading the mb2-701 exam pdf questions online to check [https://college-homework-help.org](https://college-homework-help.org/) the quality of microsoft microsoft dynamics crm 2013 exam test questions from produmps

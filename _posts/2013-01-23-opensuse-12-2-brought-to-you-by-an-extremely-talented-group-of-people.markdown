@@ -1,17 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-01-23 19:30:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/01/23/opensuse-12-2-brought-to-you-by-an-extremely-talented-group-of-people/
-title: "openSUSE 12.2: Brought to you by \"an extremely talented group of\
-  \ people\""
+slug: opensuse-12-2-brought-to-you-by-an-extremely-talented-group-of-people
+title: 'openSUSE 12.2: Brought to you by "an extremely talented group of people"'
+wordpress_id: 14091
 categories:
 - Distribution
 ---
-![social media logos]({{ site.baseurl }}/assets/social-media.png)
 
-In September, the openSUSE community releasedÂ [openSUSE 12.2](https://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/)Â all around the world. So what have the responses been since that Wednesday a little over three months ago, and what can we learn for openSUSE 12.3, which is just three months away?
+![social media logos](//news.opensuse.org/wp-content/uploads/2013/01/social-media.png)
+
+In September, the openSUSE community releasedÂ [openSUSE 12.2](//news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/)Â all around the world. So what have the responses been since that Wednesday a little over three months ago, and what can we learn for openSUSE 12.3, which is just three months away?
 
 
 ## Community feedback
@@ -22,7 +24,7 @@ Everyone was very enthusiastic about the release. On the social networks we had 
 On the various social media and in the article comments section, discussions about the release took place. Quickly after it was out, Will Stephenson first treated us on a picture of [Geeko finishing an important download](https://www.facebook.com/groups/opensuseproject/permalink/10151396155044488/) after which Rabauke told us openSUSE would soon see [KDE SC 4.9.1 packages](http://kdeatopensuse.wordpress.com/2012/09/06/kde-sc-4-9-1-packages-for-opensuse/). This [spread](https://www.facebook.com/groups/opensuseproject/permalink/10151397874229488/) [quickly](https://twitter.com/jospoortvliet/status/243667783026622464) to the other social media and as soon as packages were available, discussions about the [merits of this release ensued](https://www.facebook.com/groups/opensuseproject/permalink/10151400042679488/). We also heard that [GNOME 3.6 would have packages](https://twitter.com/openSUSE/status/243350220312817664) as soon as it is released, and [GNOME 2 fork Mate](https://www.facebook.com/groups/opensuseproject/permalink/10151402016554488/) and the [GNOME Shell alternative Cinnamon](https://www.facebook.com/groups/opensuseproject/permalink/10151404596804488/)Â were both packaged and built for openSUSE 12.2 as well!
 
 Aside from these Open Build Service projects, the awesome [Tumbleweed](http://opensuse.org/tumbleweed) was updateÂ [rebased on openSUSE 12.2](https://twitter.com/jospoortvliet/status/244043530891296768) and the [the Studio team](http://susestudio.com) let us know that [openSUSE 12.2 was available for your customization](http://blog.susestudio.com/2012/09/enjoy-opensuse-122-in-suse-studio.html).
-![facebook cover]({{ site.baseurl }}/assets/281902_4516725077068_1135037592_n-300x111.jpg)
+![facebook cover](//news.opensuse.org/wp-content/uploads/2013/01/281902_4516725077068_1135037592_n-300x111.jpg)
 Our channels also discussed the release itself. We informed our community about the features of openSUSE and availability of top technologies like [LibreOffice](https://twitter.com/openSUSE/status/243394929190113280) and [Firefox](https://twitter.com/openSUSE/status/243382931702312960). People [wrote about](https://www.facebook.com/groups/opensuseproject/permalink/10151402016779488/) their [first impressions](https://www.facebook.com/groups/opensuseproject/permalink/10151404504374488/) and [what they liked](https://www.facebook.com/groups/opensuseproject/permalink/10151396567879488/). On Facebook, many people posted screenshots of their new desktop like [this](https://www.facebook.com/groups/opensuseproject/permalink/10151405866919488/), [this](https://www.facebook.com/groups/opensuseproject/permalink/10151405170174488/), [this](https://www.facebook.com/groups/opensuseproject/permalink/10151405027934488/) and [this](https://www.facebook.com/groups/opensuseproject/permalink/10151399810464488/). It was noted that the french hosting provider [OVH](http://kimsufi.com/) already has a cheap hosting option (down to 15 euros a month for a dedicated server) with openSUSE 12.2 as beta available in the release week!
 
 
@@ -41,7 +43,7 @@ There was also a video made to show openSUSE install and boot to a KDE desktop c
 ## Reception of the press
 
 
-We™ve seen a lot of positive feedback regarding openSUSE 12.2 via the [press](http://en.opensuse.org/In_the_press) with over 60 articles and reviews recorded by us. It had [the VAR guy saying](http://www.thevarguy.com/2012/09/05/opensuse-debuts-new-features-apps-with-12-2-release/) he believes openSUSE is "an important force in the larger open source ecosystem" and [serverwatch headlining](http://www.serverwatch.com/server-news/opensuse-12.2-stabilizes-linux.html) "openSUSE 12.2 Stabilizes Linux". Â While those of us in the know recognize journalistic hyperbole when we see it, it's great to have a pat on the back.
+Weâ€™ve seen a lot of positive feedback regarding openSUSE 12.2 via the [press](http://en.opensuse.org/In_the_press) with over 60 articles and reviews recorded by us. It had [the VAR guy saying](http://www.thevarguy.com/2012/09/05/opensuse-debuts-new-features-apps-with-12-2-release/) he believes openSUSE is "an important force in the larger open source ecosystem" and [serverwatch headlining](http://www.serverwatch.com/server-news/opensuse-12.2-stabilizes-linux.html) "openSUSE 12.2 Stabilizes Linux". Â While those of us in the know recognize journalistic hyperbole when we see it, it's great to have a pat on the back.
 
 The most thorough review to date is the look at the Great Lizard from the Linux Action Show team. Not only did they love our release - they also encountered a few issues.
 
@@ -55,7 +57,7 @@ They also recognized openSUSE as having an absolutely awesome desktop experience
 
 Criticism came on the focus of openSUSE: is it a desktop or a server? The enterprise functionality on the server side is there - in openSUSE, you can click a domain controller ready in a few clicks. But it just can't compete with CentOS which offers binary compatibility with its enterprise cousin - you can drop-in RHEL once you've tested on CentOS. Same in Ubuntu - support is always close to what you are running. From openSUSE to SLE is still a hurdle. The gentlemen felt that with the default KDE desktop _"the most attractive I've seen"_, openSUSE has by far the best Enterprise-ready desktop in hands, beating the Ubuntu and Red Hat competition. It is attractive, fast, responsive and easy, maybe openSUSE should focus on their desktop more?
 
-({{ site.baseurl }}/assets/packagekit-issues.png) PackageKit issues at LAC
+[caption id="attachment_14862" align="alignright" width="300"][![PackageKit issues at LAC](//news.opensuse.org/wp-content/uploads/2013/01/packagekit-issues.png)](//news.opensuse.org/wp-content/uploads/2013/01/packagekit-issues.png) PackageKit issues at LAC[/caption]
 
 But there were also some problems. Prime among those were issues with package management - the discrepancy between the native zypper tool & YaST for administration by root on one hand and the PackageKit side of things with Apper and gpk-tools on the other hand has a lack of consistency which creates some confusion. Patterns are cool but have dependency issues and are hard to discover. Also, YaST can be a tad verbose in listing and resolving package conflict and letting you handle it - sometimes this could be made a bit easier. They also felt that our handling of proprietary drivers (or rather, lack of handling that) was a bit surprising and last but not least, one of them bumped into a bug in our brand new boot loader GRUB2.
 
@@ -64,7 +66,7 @@ The openSUSE team worked with community members to fix the issues the gentlemen 
 _"openSUSE is a cohesive distro and it feels like it is being done by an extremely talented group of people."_.
 
 What more can we say?
-[![KTorrent-logo]({{ site.baseurl }}/assets/KTorrent-logo.png)]({{ site.baseurl }}/assets/KTorrent-logo.png)
+[![KTorrent-logo](//news.opensuse.org/wp-content/uploads/2013/01/KTorrent-logo.png)](//news.opensuse.org/wp-content/uploads/2013/01/KTorrent-logo.png)
 
 
 ## Download numbers
@@ -241,7 +243,7 @@ One contributor [runs a server making pretty bittorrent graphs](http://opensuse.
 While these are a lot of downloads, as said, these numbers don't show upgrades to 12.2 by our existing user base via [the online upgrade method](http://opensuse.org/Upgrade) and those running [Tumbleweed](http://opensuse.org/Tumbleweed) have also moved to openSUSE 12.2 now without any additional efforts.
 
 Thank to all involved, especially to translators, social media and forum promoters, the artwork team, and many others who worked to make openSUSE 12.2 a success.
-[![Lessons]({{ site.baseurl }}/assets/kbruch.png)]({{ site.baseurl }}/assets/kbruch.png)
+[![Lessons](//news.opensuse.org/wp-content/uploads/2013/01/kbruch.png)](//news.opensuse.org/wp-content/uploads/2013/01/kbruch.png)
 
 
 ## Lessons for openSUSE 12.3
@@ -270,4 +272,4 @@ Of course this release did teach us a few things. While openSUSE 12.2 turned out
   * Since openSUSE follows a development strategy best described as "undirected hacking", making an exciting story out of the release is harder. Â We need to plan features and themes for upcoming releases more in advance - this will make development more attractive as well as the marketing team's job easier.
 
 
-As you see, some thought went into the lessons learned form this release. In some area's we're already working on improvements, in other places we can use help with that. Input, ideas and especially work are very much appreciated! A better 12.3 release means more fun for everyone and we're looking forward to it!		
+As you see, some thought went into the lessons learned form this release. In some area's we're already working on improvements, in other places we can use help with that. Input, ideas and especially work are very much appreciated! A better 12.3 release means more fun for everyone and we're looking forward to it!

@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-19 13:02:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/19/announcing-opensuse-110-gm/
-title: "Announcing openSUSE 11.0 GM"
+slug: announcing-opensuse-110-gm
+title: Announcing openSUSE 11.0 GM
+wordpress_id: 891
 categories:
 - Announcements
 - Distribution
@@ -13,9 +15,10 @@ tags:
 - GNOME
 - KDE
 ---
+
 The openSUSE Project is proud to announce the release of openSUSE 11.0 -- everything you need to get started with Linux on the desktop and on the server. Promoting the use of Linux everywhere, the openSUSE Project provides free, easy access to the world's most usable Linux distribution, openSUSE.
 
-The 11.0 release of openSUSE includes more than [200 new features](http://en.opensuse.org/Testing:Features_11.0) specific to openSUSE, a [redesigned installer](https://news.opensuse.org/2008/06/05/sneak-peeks-at-opensuse-110-new-installer-with-stephan-kulow/) that makes openSUSE even easier to install, faster package management thanks to [major updates in the ZYpp stack](https://news.opensuse.org/2008/06/06/sneak-peeks-at-opensuse-110-package-management-with-duncan-mac-vicar/), and [KDE 4](https://news.opensuse.org/2008/06/17/sneak-peeks-at-opensuse-110-kde-with-stephan-binner/), [GNOME 2.22](https://news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/), [Compiz Fusion](https://news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/), and [much more](https://news.opensuse.org/2008/06/19/sneak-peeks-at-opensuse-110-a-plethora-of-improvements/).
+The 11.0 release of openSUSE includes more than [200 new features](http://en.opensuse.org/Testing:Features_11.0) specific to openSUSE, a [redesigned installer](http://news.opensuse.org/2008/06/05/sneak-peeks-at-opensuse-110-new-installer-with-stephan-kulow/) that makes openSUSE even easier to install, faster package management thanks to [major updates in the ZYpp stack](http://news.opensuse.org/2008/06/06/sneak-peeks-at-opensuse-110-package-management-with-duncan-mac-vicar/), and [KDE 4](http://news.opensuse.org/2008/06/17/sneak-peeks-at-opensuse-110-kde-with-stephan-binner/), [GNOME 2.22](http://news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/), [Compiz Fusion](http://news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/), and [much more](http://news.opensuse.org/2008/06/19/sneak-peeks-at-opensuse-110-a-plethora-of-improvements/).
 
 
 
@@ -36,10 +39,10 @@ Whether you use GNOME or KDE, the openSUSE 11.0 desktop is a beautiful experienc
 GNOME users will find a lot to like in openSUSE 11.0. openSUSE's GNOME is very close to upstream GNOME, because Novell and openSUSE want to do as much work as possible in the upstream release. However, we do modify GNOME's artwork to provide a unified look and feel for the distro. The default GNOME configuration, such as panel layout, is slightly different than "stock" GNOME, and the openSUSE GNOME team backports a number of bug fixes into our GNOME release to ensure stability and the best possible GNOME experience.
 
 
-[![GNOME 2.22]({{ site.baseurl }}/assets/800px-os110beta1-gnome0-300x225.png)]({{ site.baseurl }}/assets/800px-os110beta1-gnome0.png)
+[![GNOME 2.22](/wp-content/uploads/2008/06/800px-os110beta1-gnome0.png)](/wp-content/uploads/2008/06/800px-os110beta1-gnome0.png)
 
 
-GNOME 2.22 in openSUSE 11.0 includes the GNOME Virtual File System (GVFS), with better support for networked file systems, PulseAudio for better sound management, improvements in Evolution and Tomboy, and [much more](https://news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/)!
+GNOME 2.22 in openSUSE 11.0 includes the GNOME Virtual File System (GVFS), with better support for networked file systems, PulseAudio for better sound management, improvements in Evolution and Tomboy, and [much more](http://news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/)!
 
 
 ### KDE 4.0
@@ -54,7 +57,7 @@ KDE 4.0 doesn't include KDEPIM applications, so the openSUSE team has included b
 Note that KDE 3.5 is still available on the openSUSE DVD for KDE users who aren't quite ready to make the leap to KDE 4.
 
 
-[![KDE 4 on openSUSE 11.0]({{ site.baseurl }}/assets/desktop4-300x225.png)]({{ site.baseurl }}/assets/desktop4.png)
+[![KDE 4 on openSUSE 11.0](/wp-content/uploads/2008/06/desktop4.png)](/wp-content/uploads/2008/06/desktop4.png)
 
 
 
@@ -63,20 +66,20 @@ Note that KDE 3.5 is still available on the openSUSE DVD for KDE users who aren'
 ### Compiz Fusion
 
 
-The openSUSE desktop is not only a green glorious sight to behold, it's also available in 3-D! Compiz Fusion is now the default in openSUSE 11.0. You'll find a slew of interesting Compiz plugins, as well as easier configuration with Simple CompizConfig Settings Manager (CCSM) and the more comprehensive CompizConfig Settings Manager that allows detailed configuration of your Compiz setup. See the [Sneak Peek](https://news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/) for a detailed look at Compiz Fusion on openSUSE 11.0.
+The openSUSE desktop is not only a green glorious sight to behold, it's also available in 3-D! Compiz Fusion is now the default in openSUSE 11.0. You'll find a slew of interesting Compiz plugins, as well as easier configuration with Simple CompizConfig Settings Manager (CCSM) and the more comprehensive CompizConfig Settings Manager that allows detailed configuration of your Compiz setup. See the [Sneak Peek](http://news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/) for a detailed look at Compiz Fusion on openSUSE 11.0.
 
 
-[]({{ site.baseurl }}/assets/simple-ccsm-thumb.jpeg)[]({{ site.baseurl }}/assets/cube-deform-sphere-thumb.jpeg)
-
-
-
-
-![]({{ site.baseurl }}/assets/cube-deform-sphere-thumb.jpeg)
+[](/wp-content/uploads/2008/06/simple-ccsm.jpeg)[](/wp-content/uploads/2008/06/cube-deform-sphere.jpeg)
 
 
 
 
-![]({{ site.baseurl }}/assets/simple-ccsm-thumb.jpeg)
+![](/wp-content/uploads/2008/06/cube-deform-sphere.jpeg)
+
+
+
+
+![](/wp-content/uploads/2008/06/simple-ccsm.jpeg)
 
 
 
@@ -90,7 +93,7 @@ Firefox is one of the most popular open source applications on the planet, and t
 Note that openSUSE 11.0 ships with Firefox 3.0 beta 5, and updates to the final 3.0 release will be available through online update.
 
 
-[![Firefox 3.0]({{ site.baseurl }}/assets/firefox-300x235.png)]({{ site.baseurl }}/assets/firefox.png)
+[![Firefox 3.0](/wp-content/uploads/2008/06/firefox.png)](/wp-content/uploads/2008/06/firefox.png)
 
 
 
@@ -103,7 +106,7 @@ openSUSE 11.0 includes Banshee 1.0. The Banshee media player has been re-written
 
 
 
-[![Banshee 1.0]({{ site.baseurl }}/assets/banshee-music-300x197.png)]({{ site.baseurl }}/assets/banshee-music.png)
+[![Banshee 1.0](/wp-content/uploads/2008/06/banshee-music.png)](/wp-content/uploads/2008/06/banshee-music.png)
 
 
 
@@ -198,8 +201,8 @@ We want to hear from you! The openSUSE Project has [many channels of communicati
   * Jabber, Usenet, and [more](http://en.opensuse.org/Communicate).
 
 
-To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](https://news.opensuse.org/) and watch [Planet SUSE](http://www.planetsuse.org/) for blog posts from the openSUSE community.
+To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](http://news.opensuse.org/) and watch [Planet SUSE](http://www.planetsuse.org/) for blog posts from the openSUSE community.
 
 Want to help the openSUSE Project? To get involved with openSUSE see the [How to Participate](http://en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can use [lots of different skills](http://en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the project, so feel free to jump in!
 
-All of the contributors who have worked on openSUSE deserve a huge thank you. Without your hard work, this release would not have been possible. openSUSE 11.0 is the best openSUSE release yet, and will help promote the use of Linux everywhere! Now, get openSUSE 11.0 and _have a lot of fun!_		
+All of the contributors who have worked on openSUSE deserve a huge thank you. Without your hard work, this release would not have been possible. openSUSE 11.0 is the best openSUSE release yet, and will help promote the use of Linux everywhere! Now, get openSUSE 11.0 and _have a lot of fun!_

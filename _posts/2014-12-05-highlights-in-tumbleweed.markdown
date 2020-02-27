@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-12-05 09:57:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/12/05/highlights-in-tumbleweed/
-title: "This weeks highlights in Tumbleweed"
+slug: highlights-in-tumbleweed
+title: This weeks highlights in Tumbleweed
+wordpress_id: 18878
 categories:
 - Tumbleweed
 tags:
@@ -17,7 +19,8 @@ tags:
 - Tumbleweed
 - update
 ---
-[![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)]({{ site.baseurl }}/assets/Tumbleweed-logo.jpeg)Here are some highlights from this week's Tumbleweed snapshot.
+
+[![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)](/wp-content/uploads/2011/09/Tumbleweed-logo.jpeg)Here are some highlights from this week's Tumbleweed snapshot.
 
 The default kernel has upgraded from 3.17.2 to 3.17.4 and several enhancements have been made to the Btrfs command-line tools.
 
@@ -38,4 +41,4 @@ Thai fonts have an updated version from 0.6.0 to 0.6.1 and provide a new Laksama
 
 For more highlights, visit [http://bit.ly/1FSmSFC](http://bit.ly/1FSmSFC).
 
-		
+

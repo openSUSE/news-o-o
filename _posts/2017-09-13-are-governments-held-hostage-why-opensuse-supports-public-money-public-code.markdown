@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-09-13 10:06:40+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/09/13/are-governments-held-hostage-why-opensuse-supports-public-money-public-code/
-title: "Are Governments Held Hostage? Why openSUSE Supports Public Money\
-  \ Public Code"
+slug: are-governments-held-hostage-why-opensuse-supports-public-money-public-code
+title: Are Governments Held Hostage? Why openSUSE Supports Public Money Public Code
+wordpress_id: 20543
 categories:
 - Announcements
 - Project
@@ -13,6 +14,7 @@ tags:
 - Public Money Public Code
 - publiccode
 ---
+
 
 
 [Public Money? Public Code!](https://vimeo.com/232524527) from [Free Software Foundation Europe](https://vimeo.com/fsfe) on [Vimeo](https://vimeo.com).
@@ -27,7 +29,7 @@ There are many reasons for why code of publicly-funded software projects should 
 
 <!-- more -->Helping to eliminate redundant government spending is one of those reasons, but there are more.
 
-“Because the source code of proprietary software is often a business secret, it radically increases the difficulty of discovering both accidental and intentional security flaws in critical software,” said Edward Snowden, President of the Freedom of the Press Foundation about the "Public Money Public Code" campaign launch.![]({{ site.baseurl }}/assets/pmpc-quote-snowden.en_-300x158.png)
+“Because the source code of proprietary software is often a business secret, it radically increases the difficulty of discovering both accidental and intentional security flaws in critical software,” said Edward Snowden, President of the Freedom of the Press Foundation about the "Public Money Public Code" campaign launch.![](/wp-content/uploads/2017/09/pmpc-quote-snowden.en_.png)
 
 Digital services used by our public administrations are the critical infrastructure of 21st century democratic nations, according to the FSFE release.
 
@@ -37,4 +39,4 @@ Restrictive software licenses forbid the sharing and exchanging of publicly fund
 
 The are implications that affect every citizen with the current proprietary usage model. The threat to the security of citizens’ digital data is real. The usages of proprietary software that forbids access to the source code makes fixing backdoors and security holes extremely difficult, if not completely impossible.
 
-Take action today! Signing the open letter and voice your support for the Public Money Public Code to your government and European Union representatives.		
+Take action today! Signing the open letter and voice your support for the Public Money Public Code to your government and European Union representatives.

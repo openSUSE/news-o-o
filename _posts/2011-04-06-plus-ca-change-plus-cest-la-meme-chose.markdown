@@ -1,13 +1,16 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-04-06 08:06:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/06/plus-ca-change-plus-cest-la-meme-chose/
-title: "Plus Ã§a change, plus c™est la mÃªme chose¦"
+slug: plus-ca-change-plus-cest-la-meme-chose
+title: Plus Ã§a change, plus câ€™est la mÃªme choseâ€¦
+wordpress_id: 8366
 categories:
 - Distribution
 ---
+
 Or in other words, "The more things change, the more they stay the same..."
 
 openSUSE does not ship major/minor releases, but our numbering/naming scheme - NN.X - has led to a common misperception that a .0 release was major and a .xÂ  release was an update. This created a number of issues, including lack of media attention for .x releases, and user misconceptions about stability of .0 releases.
@@ -50,4 +53,4 @@ From this discussion and results of the poll, we have come up with the following
 This solution brings a meaningful rationale to the scheme, without completely revising the look.Â  And thus, our next release in November will be 12.1.Â  In July 2012, we will ship 12.2 and in March 2013, we will ship 12.3.Â  Then in November 2013, we will ship 13.1.
 
 So as you can see... same great versioning look, now with explanation.
-ï»¿[![screenshot of terminal declaring openSUSE versioning scheme is now implemented!]({{ site.baseurl }}/assets/openSUSEVersion.png)](https://news.opensuse.org/2011/04/06/plus-ca-change-plus-cest-la-meme-chose/opensuseversion/)		
+ï»¿[![screenshot of terminal declaring openSUSE versioning scheme is now implemented!](/wp-content/uploads/2011/04/openSUSEVersion.png)](http://news.opensuse.org/2011/04/06/plus-ca-change-plus-cest-la-meme-chose/opensuseversion/)

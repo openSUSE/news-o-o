@@ -1,16 +1,19 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-10 05:22:08+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/10/six-impressive-candidates-step-up-for-the-2018-2019-board-elections/
-title: "Six Impressive Candidates Step Up for the 2018-2019 Board Elections\
-  "
+slug: six-impressive-candidates-step-up-for-the-2018-2019-board-elections
+title: Six Impressive Candidates Step Up for the 2018-2019 Board Elections
+wordpress_id: 21445
 ---
-({{ site.baseurl }}/assets/vinzv_oct18.jpg) Vinzenz Vietzke
+
+[caption id="attachment_21447" align="alignright" width="150"][![](/wp-content/uploads/2019/01/vinzv_oct18.jpg)](/wp-content/uploads/2019/01/vinzv_oct18.jpg) Vinzenz Vietzke[/caption]
 
 The [Elections Committee](mailto:election-officials@opensuse.org), Edwin Zakaria, Ish Sookun, and Gerry Makaro, are pleased to announce today, Thursday, January 10, 2019, that six very impressive Candidates have decided to step up and run for Membership on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) in the [2018-2019 Board Elections](https://en.opensuse.org/openSUSE:Board_election#2018-2019_openSUSE_Board_Elections).  With four days left for Candidates to apply, it is possible that more quality Candidates might throw their hats into the ring to make this a very exciting race.
 
-({{ site.baseurl }}/assets/Christian_Boltz.jpeg) Christian Boltz, incumbent
+[caption id="attachment_21446" align="alignleft" width="150"][![](/wp-content/uploads/2019/01/Christian_Boltz.jpeg)](/wp-content/uploads/2019/01/Christian_Boltz.jpeg) Christian Boltz, incumbent[/caption]
 
 **Applications for Candidacy** are open until **Sunday, January 13**.  If you are contemplating entering what is shaping up to be one of the best election campaigns yet, please hurry and apply by sending an application to the [Project Mailing List](mailto:opensuse-project@opensuse.org) and to the [Elections Officials ](mailto:election-officials@opensuse.org)following the instructions on the [official Elections page](https://en.opensuse.org/openSUSE:Board_election).
 
@@ -22,7 +25,7 @@ Incumbent **Christian Boltz aka cboltz**, an [openSUSE Hero](https://en.opensuse
 
 **Vinzenz Vietzke aka vinzv** is stepping up for the first time and brings some impressive credentials to the table.  Among other things, Vinz has been instrumental in getting [openSUSE Leap 15.0](https://www.opensuse.org/#Leap) offered pre-installed on Linux Hardware Vendor **TUXEDO Computers** and in getting TUXEDO as an **Official Sponsor** of openSUSE as of October, 2018.  You may read more about him and his platform on the [Wiki pages](https://en.opensuse.org/openSUSE:Board_election_2019_platform_vinzv).
 
-({{ site.baseurl }}/assets/poster-election.png) 2018-2019 Election Poster contributed by Aris Winardi
+[caption id="attachment_21386" align="alignright" width="368"][![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)](/wp-content/uploads/2018/12/poster-election.png) 2018-2019 Election Poster contributed by Aris Winardi[/caption]
 
 Longtime [openSUSE Member](https://en.opensuse.org/openSUSE:Members), active [Package Maintainer](https://en.opensuse.org/Portal:Packaging), and strong openSUSE promoter, **[Dr. Axel Braun](https://connect.opensuse.org/pg/profile/docb) aka DocB** -- who has also been known to give standup lectures related to Linux and openSUSE -- is entering the race for a seat on the Board.  A Member since 2010, Dr. Braun actively maintains GNU Health, Tryton ERP Framework and various other packages.  You can find more information at his [Membership Profile](https://connect.opensuse.org/pg/profile/docb).
 
@@ -38,4 +41,4 @@ The [Elections Committee](mailto:election-officials@opensuse.org) would like to 
 
 **All openSUSE Contributors and Members** are requested to actively urge other Contributors who are not Members to get their Membership and get out and vote.  All Members who have been approved by the [Membership Committee](https://en.opensuse.org/openSUSE:Membership_officials) before the start of balloting February 4 will be eligible to vote in this election.
 
-You can apply for openSUSE Membership by following the [instructions here](https://en.opensuse.org/openSUSE:Members).		
+You can apply for openSUSE Membership by following the [instructions here](https://en.opensuse.org/openSUSE:Members).

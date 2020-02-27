@@ -1,12 +1,15 @@
 ---
 author: News Team
+comments: true
 date: 2007-05-04 05:59:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/05/04/opensuse-survey-results-now-online/
-title: "openSUSE Survey Results Now Online"
+slug: opensuse-survey-results-now-online
+title: openSUSE Survey Results Now Online
+wordpress_id: 4
 categories:
 - Announcements
 - Project
 ---
-The openSUSE survey results are now online. The survey was live for almost 3 months and more than 27,000 user participated and gave us feeback how they use openSUSE what's important for them etc. The results are now available [here ](http://en.opensuse.org/UX#Explore_user_experiences).
+
+The openSUSE survey results are now online. The survey was live for almost 3 months and more than 27,000 user participated and gave us feeback how they use openSUSE what's important for them etc. The results are now available [here ](http://en.opensuse.org/UX#Explore_user_experiences). And in order to get hired in the information technology department, an ibm midrange storage sales v3 exam students has to earn a spot by proving his worth [essay online of https://essayclick.net](https://essayclick.net/) at the c9020-560 ibm certified specialist exam

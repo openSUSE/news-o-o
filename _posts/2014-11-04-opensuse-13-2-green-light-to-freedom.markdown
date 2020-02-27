@@ -1,16 +1,19 @@
 ---
 author: Ancor Gonzalez Sosa
+comments: true
 date: 2014-11-04 12:00:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/11/04/opensuse-13-2-green-light-to-freedom/
-title: "openSUSE 13.2: green light to freedom!"
+slug: opensuse-13-2-green-light-to-freedom
+title: 'openSUSE 13.2: green light to freedom!'
+wordpress_id: 18707
 categories:
 - Announcements
 - Distribution
 ---
+
 Dear contributors, friends and fans: openSUSE 13.2 is out! After one year on continuous improvement in the tools and procedures and many hours of developing, packaging, testing and fixing issues a new stable release is here providing the best that Free and Open Source has to offer with our special green touch: stable, innovative and fun!
-[![Green light to freedom!]({{ site.baseurl }}/assets/openSUSE_semaforo1-300x192.png)]({{ site.baseurl }}/assets/openSUSE_semaforo1.png)
+[![Green light to freedom!](//news.opensuse.org/wp-content/uploads/2014/11/openSUSE_semaforo1-300x192.png)](//news.opensuse.org/wp-content/uploads/2014/11/openSUSE_semaforo1.png)
 
 
 (_In other languages_: [cs](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD) [es](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_13.2) [fr](http://fr.opensuse.org/Annonce_de_version) [it](http://it.opensuse.org/Release_announcement) [nl](http://nl.opensuse.org/Release_announcement) [ru](http://ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [ja](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [zh](https://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E_13.2) [zh-tw](https://zh-tw.opensuse.org/Release_announcement))
@@ -121,7 +124,7 @@ KDE 4.14, dedicated to the memory of Volker Lanz, provides a familiar look, feel
 
 
 **GNOME**
-GNOME 3.14 includes greatly improved support for HiDPI screens and MultiTouch input devices, including gestures support. Network and geolocation capabilities has been also dramaticaly improved, as well as Wayland integration. All GNOME applications have received a lot of new features and improvement. In addition, this is the first release of openSUSE including GNOME Software, the 'AppStore' for the GNOME Desktop, nicely integrated with default openSUSE package management system. See the great [overview of what's new](https://news.opensuse.org/?p=18660) in GNOME 3.14 on openSUSE 13.2.
+GNOME 3.14 includes greatly improved support for HiDPI screens and MultiTouch input devices, including gestures support. Network and geolocation capabilities has been also dramaticaly improved, as well as Wayland integration. All GNOME applications have received a lot of new features and improvement. In addition, this is the first release of openSUSE including GNOME Software, the 'AppStore' for the GNOME Desktop, nicely integrated with default openSUSE package management system. See the great [overview of what's new](//news.opensuse.org/?p=18660) in GNOME 3.14 on openSUSE 13.2.
 
 
 
@@ -180,7 +183,7 @@ In addition to Linux Containers 1.0.6 and the full virtualization solutions trad
 
 
 
-![]({{ site.baseurl }}/assets/yast.png)
+![](/wp-content/uploads/2014/11/yast.png)
 
 
 
@@ -267,4 +270,4 @@ Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Stab
 ## About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world's best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)		
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world's best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)

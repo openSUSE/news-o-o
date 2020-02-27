@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-12-02 09:38:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/12/02/opensuse-seeks-ideas-for-google-summer-of-code/
-title: "openSUSE seeks ideas for Google Summer of Code"
+slug: opensuse-seeks-ideas-for-google-summer-of-code
+title: openSUSE seeks ideas for Google Summer of Code
+wordpress_id: 19645
 categories:
 - Google Summer of Code
 ---
-[![google summer of code]({{ site.baseurl }}/assets/google-summer-of-code-300x153.png)]({{ site.baseurl }}/assets/google-summer-of-code.png)In recent years, many open source people have gravitated away from Google, but while Google’s history may have some shady areas that conflict with open source ideals and philosophy, not all parts of the [abc.xyz](https://abc.xyz/) conglomerate are bad.
+
+[![google summer of code](/wp-content/uploads/2015/12/google-summer-of-code.png)](/wp-content/uploads/2015/12/google-summer-of-code.png)In recent years, many open source people have gravitated away from Google, but while Google’s history may have some shady areas that conflict with open source ideals and philosophy, not all parts of the [abc.xyz](https://abc.xyz/) conglomerate are bad.
 
 It’s [open source projects](https://developers.google.com/open-source/projects?hl=en) prove it has a genuine interest in contributing to and emboldening open source.
 
@@ -28,4 +31,4 @@ Students are matched with a mentoring organizations like openSUSE and given proj
 
 Be a mentor because we need people involved with openSUSE to make a difference in people's’ lives and in open source.
 
-To better understand what it takes to be a GSoC mentor, read [What Makes a good Mentor?](http://en.flossmanuals.net/GSoCMentoring/what-makes-a-good-mentor/)		
+To better understand what it takes to be a GSoC mentor, read [What Makes a good Mentor?](http://en.flossmanuals.net/GSoCMentoring/what-makes-a-good-mentor/)

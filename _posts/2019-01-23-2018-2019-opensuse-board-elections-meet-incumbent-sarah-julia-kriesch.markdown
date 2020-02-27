@@ -1,10 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-23 00:09:59+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/23/2018-2019-opensuse-board-elections-meet-incumbent-sarah-julia-kriesch/
-title: "2018-2019 openSUSE Board Elections: Meet incumbent Sarah Julia Kriesch\
-  "
+slug: 2018-2019-opensuse-board-elections-meet-incumbent-sarah-julia-kriesch
+title: '2018-2019 openSUSE Board Elections: Meet incumbent Sarah Julia Kriesch'
+wordpress_id: 21551
 categories:
 - Announcements
 - Board
@@ -12,6 +14,7 @@ categories:
 - Events
 - Project
 ---
+
 
 
 
@@ -79,7 +82,7 @@ My name is Sarah Julia Kriesch. I am 31 years old and a work-experienced Student
 
 
 
-![]({{ site.baseurl }}/assets/Sarah-576x1024.jpg)**Sarah Julia Kriesch aka AdaLovelace, incumbent**
+![](/wp-content/uploads/2019/01/Sarah.jpg)**Sarah Julia Kriesch aka AdaLovelace, incumbent**
 
 
 
@@ -159,7 +162,7 @@ I am staying behind the [openSUSE Community](https://en.opensuse.org/Portal:Proj
 
 
 
-![2018-2019 Election Poster contributed by Aris Winardi]({{ site.baseurl }}/assets/poster-election-184x300.png)2018-2019 Election Poster contributed by Aris Winardi
+![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)2018-2019 Election Poster contributed by Aris Winardi
 
 
 
@@ -291,4 +294,4 @@ Github: [https://github.com/skriesch](https://github.com/skriesch)
 
 
 
-		
+

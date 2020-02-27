@@ -1,14 +1,15 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-06-14 03:22:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/
-title: "openSUSE Conference and RW sessions “ the BoF"
+slug: opensuse-conference-and-rw-sessions-the-bof
+title: openSUSE Conference and RW sessions â€“ the BoF
+wordpress_id: 9329
 categories:
 - Conference
 ---
-
 
 [![Birdies](http://farm2.static.flickr.com/1233/928122581_043479bfd5_m.jpg)](http://www.flickr.com/photos/ournew/928122581/)
 
@@ -79,4 +80,4 @@ Usually, BoF's are scheduled 'on the spot' using a big whiteboard in the main ha
 
 The biggest _perceived_ problem with planning a BoF is the inherent contradiction in 'planning' and 'BoF'. Yes, you might not know **now** what will be an issue 3 months from now. However, you don't have to nail the agenda down today, that would indeed run counter to the whole concept of a BoF. If you think your team will benefit from having a good, open discussion about what you do and how you (want to) do it, simply send in a quick proposal to the openSUSE Conference Paper Committee. It is no problem if something more urgent pops up and you discuss that instead of following the initial description. The main reason for 'planning' (part of) the BoF's beforehand is to allow the CfP team to try and schedule things in such a way there is little overlap with talks and other BoF's and to allow teams to reserve a room.
 
-So go to the [conference page](http://conference.opensuse.org/indico//conferenceDisplay.py?confId=2) and add a BoF!		
+So go to the [conference page](http://conference.opensuse.org/indico//conferenceDisplay.py?confId=2) and add a BoF!

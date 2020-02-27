@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-12-18 09:44:41+00:00
 layout: post
 link: https://news.opensuse.org/2018/12/18/request-travel-support-for-opensuse-conference-2019/
-title: "Request Travel Support for openSUSE Conference 2019"
+slug: request-travel-support-for-opensuse-conference-2019
+title: Request Travel Support for openSUSE Conference 2019
+wordpress_id: 21409
 categories:
 - Announcements
 - Conference
@@ -18,6 +21,7 @@ tags:
 - Travel Support Program
 - TSP
 ---
+
 The [Travel Support Program](https://en.opensuse.org/openSUSE:Travel_Support_Program) (TSP) provides travel sponsorships to openSUSE community who want to attend the openSUSE conference and need financial assistance. The openSUSE conference 2019 will be in Nuremberg, Germany, from May 24 to May 26.
 
 The goal of the TSP is to help everybody in and around openSUSE to be able to attend the openSUSE Conference!
@@ -41,7 +45,7 @@ You will need an openSUSE Connect account in order to login to the application a
   * Any information you send to the Travel Committee will be private.
 
  	
-  * We want everybody there! Even if you think you would not qualify for the travel support, just submit and make it worth! If you don’t try you won’t get!**![tips]({{ site.baseurl }}/assets/tips.jpg)**
+  * We want everybody there! Even if you think you would not qualify for the travel support, just submit and make it worth! If you don’t try you won’t get!**![tips](/wp-content/uploads/2015/02/tips.jpg)**
 
  	
   * If you submitted an abstract to be presented you should mention it in your application.
@@ -67,4 +71,4 @@ You will need an openSUSE Connect account in order to login to the application a
 
 **If you have any question regarding your trip to the conference do not hesitate to ask the TSP or oSC19 organizers.**
 
-_**We hope to see you there!**_		
+_**We hope to see you there!**_

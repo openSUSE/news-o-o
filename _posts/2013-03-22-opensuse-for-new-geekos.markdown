@@ -1,20 +1,23 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-03-22 15:00:38+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/03/22/opensuse-for-new-geekos/
-title: "openSUSE for new geekos"
+slug: opensuse-for-new-geekos
+title: openSUSE for new geekos
+wordpress_id: 15541
 categories:
 - Distribution
 ---
-[![get it logo]({{ site.baseurl }}/assets/get_it1.png)](http://software.opensuse.org/)
+
+[![get it logo](//news.opensuse.org/wp-content/uploads/2013/03/get_it1.png)](http://software.opensuse.org/)
 It is almost weekend and you want to _try another Linux distribution_? We've got you covered!
 
 The Linux ecosystem is a varied one with hundreds of distributions, each having their unique set of abilities and limitations. Some compile the source on your system, others let you choose between init systems, try to be as small as possible, experiment with security solutions and more. There is also variation in governance: some are strongly top-down organized, others decide in a meritocratic way or vote. Some have strong corporate sponsor pushing decisions - others don't. Some care to collaborate, others don't value the wider ecosystem much and go their own way.
 
 The variety in solutions shows people want different things and the different distributions provide that. But people change, so do their needs. And so, for those looking for Greener pastures, we wrote this articles with an overview of 'the openSUSE way' and the major differences between our tools and those from other major distributions.<!-- more -->
-[![geekos!]({{ site.baseurl }}/assets/3654543066_2c8823cb03_o-e1363960517132-300x280.jpg)]({{ site.baseurl }}/assets/3654543066_2c8823cb03_o-e1363960517132.jpg)
+[![geekos!](//news.opensuse.org/wp-content/uploads/2012/12/3654543066_2c8823cb03_o-e1363960517132.jpg)](//news.opensuse.org/wp-content/uploads/2012/12/3654543066_2c8823cb03_o-e1363960517132.jpg)
 
 
 ## The Green Way
@@ -71,7 +74,7 @@ Then there are a number of unofficial sources of information we can't ignore:
 
 ... and you can find plenty more on the web.
 
-({{ site.baseurl }}/assets/YaST-configuration.jpg) YaST offers advanced help
+[caption id="attachment_15590" align="alignright" width="300"][![YaST configuration](//news.opensuse.org/wp-content/uploads/2013/03/YaST-configuration-300x244.jpg)](//news.opensuse.org/wp-content/uploads/2013/03/YaST-configuration.jpg) YaST offers advanced help[/caption]
 
 
 ### Tools
@@ -89,7 +92,7 @@ YaST2 is simple to use - look it up in a menu or a command runner and give your 
 
 Not all is rosy in YaST2 land, as the tool is beginning to show its age. The UI-independent toolkit and multitude of language bindings are nice but bring their share of issues as well and few developers are fluent in writing YaST components.
 
-({{ site.baseurl }}/assets/YaST-commandline.jpg) YaST can be run from the commandline too
+[caption id="attachment_15597" align="alignright" width="300"][![YaST commandline](//news.opensuse.org/wp-content/uploads/2013/03/YaST-commandline.jpg)](//news.opensuse.org/wp-content/uploads/2013/03/YaST-commandline.jpg) YaST can be run from the commandline too[/caption]
 
 
 #### Package Management
@@ -100,7 +103,7 @@ openSUSE uses _rpm_ as low-level package handler and _zypper_ as easier frontend
 **patterns**
 zypper & friends offer _patterns_ to deal with the installation of groups of packages. These can be recognized by the _pattern-_ prefix and for example WebYaST and its most important modules can be installed by issueing _zypper in patterns-openSUSE-webyast_ in a root terminal. A more pro-tip is that zypper has [_multi-package-support_](http://en.opensuse.org/SDB:Keep_multiple_kernel_versions), by default enabled for the kernel. This makes sure that zypper always keeps the current kernel on your system until you've booted in the new one successfully; and it can be made to keep for example the last 2 kernels around if you prefer some more certainty. Zypper's speed and versatility in handling package dependencies and corner cases is especially relevant in the light of another unique openSUSE technology: the Open Build Service.
 
-(http://software.opensuse.org/packages) game category on software.opensuse.org
+[caption id="attachment_15519" align="alignright" width="300"][![game category on software.opensuse.org](//news.opensuse.org/wp-content/uploads/2013/03/game-category.png)](http://software.opensuse.org/packages) game category on software.opensuse.org[/caption]
 
 **Getting more software**
 _[software.opensuse.org](http://software.opensuse.org/packages)_ offers about 200.000 packages build by thousands of contributors on [build.opensuse.org](http://build.opensuse.org), a public instance of the [Open Build Service](http://openbuildservice.org). Package installation is made easy through the openSUSE _[1-click install technology](https://en.opensuse.org/openSUSE:One_Click_Install)_. You can read more about [OBS and the packages there in this article from last week](https://news.opensuse.org/2013/03/11/sneak-preview-iii-there-and-back-again-a-distros-tale/).
@@ -122,7 +125,7 @@ Find [documentation for LVM and RAID here](http://doc.opensuse.org/documentation
 
 _**Important:** Every time you use these or other potentially dangerous tools, YaST will give you a fair warning before executing any destructive actions but in the end, it is in your hand!_
 
-({{ site.baseurl }}/assets/screenshot-studio-12.3-kde.png) Testing a self build OS in Studio
+[caption id="attachment_15411" align="alignright" width="300"][![screenshot-studio-12.3-kde](//news.opensuse.org/wp-content/uploads/2013/03/screenshot-studio-12.3-kde-300x202.png)](//news.opensuse.org/wp-content/uploads/2013/03/screenshot-studio-12.3-kde.png) Testing a self build OS in Studio[/caption]
 
 
 ## Distribution building tools
@@ -162,13 +165,13 @@ The openSUSE KIWI Image System provides a complete operating system image soluti
 
 Of course many of you maybe already be familiar with the famous [SUSE Studio](http://susestudio.com/home) that does most of that in a simpler 'lego' way through its web frontend to KIWI.
 
-[![OBS screenshots]({{ site.baseurl }}/assets/OBS-all-300x140.png)]({{ site.baseurl }}/assets/OBS-all.png)
+[![OBS screenshots](//news.opensuse.org/wp-content/uploads/2012/10/OBS-all-300x140.png)](//news.opensuse.org/wp-content/uploads/2012/10/OBS-all.png)
 
 
 #### Open Build Service (a.k.a OBS)
 
 
-The Open Build Service is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures. It provides all the tools to work collaboratively and harness the power of the open source development model.Â  You can set fine grained access rights, branch code, send merge requests and review submissions. All that of courseÂ under the GNU General Public License (GPL).Â It™s available for you as source, packages and as easily deployable appliance. You are free to use, fix, extend and re-useÂ [the code.](https://github.com/openSUSE/open-build-service)
+The Open Build Service is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures. It provides all the tools to work collaboratively and harness the power of the open source development model.Â  You can set fine grained access rights, branch code, send merge requests and review submissions. All that of courseÂ under the GNU General Public License (GPL).Â Itâ€™s available for you as source, packages and as easily deployable appliance. You are free to use, fix, extend and re-useÂ [the code.](https://github.com/openSUSE/open-build-service)
 
 
 ## The differences
@@ -201,7 +204,7 @@ Now, let's go over the distributions and try to give you some quick insights in 
 
 Coming from Ubuntu/Debian, you will notice openSUSE has a slightly different filesystem layout and uses a number of different tools. YaST has already been mentioned, another is systemd as init system. We also do not use sudo for executing super user commands but instead you should issue the _su_ command to create a permanent superuser login in the terminal.
 
-({{ site.baseurl }}/assets/zypper-help.jpg) zypper help output
+[caption id="attachment_15598" align="alignright" width="300"][![zypper help output](//news.opensuse.org/wp-content/uploads/2013/03/zypper-help-300x215.jpg)](//news.opensuse.org/wp-content/uploads/2013/03/zypper-help.jpg) zypper help output[/caption]
 
 
 #### package management
@@ -405,7 +408,7 @@ _
 </table>
 **Tip**: after running an update,_ zypper ps_ lists processes which have received updates and might have to be restarted. Zypper does, by and large, not automatically restart processes to not interrupt your work, but after _big_ updates it is strongly recommended to at least log out and log in again from the graphical desktops.
 
-({{ site.baseurl }}/assets/yast-runlevel-config.jpg) yast runlevel configuration
+[caption id="attachment_15600" align="alignright" width="300"][![yast runlevel config](//news.opensuse.org/wp-content/uploads/2013/03/yast-runlevel-config-300x209.jpg)](//news.opensuse.org/wp-content/uploads/2013/03/yast-runlevel-config.jpg) yast runlevel configuration[/caption]
 
 
 #### systemd and boot management
@@ -494,7 +497,7 @@ The symlink `/etc/systemd/system/default.target` controls where we boot into by 
 
 To add actions to be run after booting the system, add them to the _/etc/rc.d/boot.local_ file.
 
-({{ site.baseurl }}/assets/journalctl-f.jpg) journalctl -f output
+[caption id="attachment_15599" align="alignright" width="300"][![journalctl -f](//news.opensuse.org/wp-content/uploads/2013/03/journalctl-f-300x54.jpg)](//news.opensuse.org/wp-content/uploads/2013/03/journalctl-f.jpg) journalctl -f output[/caption]
 
 **journald**
 openSUSE is in the process of replacing current logging tools with a more advanced solution: journald. A few typical commands:
@@ -637,7 +640,7 @@ Zypper almost always has a 'long' and a 'short' version of commands, for example
 Click here for tips on using _systemd_ and _journald_.
 
 Go back up to the list of distributions
-({{ site.baseurl }}/assets/toad-and-hat.jpg) we love crazy fun
+[caption id="attachment_14262" align="alignright" width="257"][![toad and hat](//news.opensuse.org/wp-content/uploads/2012/10/toad-and-hat.jpg)](//news.opensuse.org/wp-content/uploads/2012/10/toad-and-hat.jpg) we love crazy fun[/caption]
 
 
 ### Coming from Arch
@@ -810,7 +813,7 @@ slackpkg search amarokzypper search amarok
 Slackware uses _SysVinit_ and enabling and disabling services happens in _/etc/init.d_. Click here for tips on using the init system _systemd_ and system logging tool _journald_.
 
 Go back up to the list of distributions
-({{ site.baseurl }}/assets/Geeko-with-you.png) Go green!
+[caption id="attachment_14305" align="alignright" width="212"][![May the Geeko be with you](//news.opensuse.org/wp-content/uploads/2012/10/Geeko-with-you.png)](//news.opensuse.org/wp-content/uploads/2012/10/Geeko-with-you.png) Go green![/caption]
 
 
 ### Coming from Fedora
@@ -884,7 +887,7 @@ Fedora is pretty close to what you can experience in openSUSE. We are RPM distri
 Fedora on the command _setup_ offering some of the functionality YaST has. Also, _system-config-firewall_ has an equivalent in _yast firewall_ and _system-config-users_ is comparable to _yast users_.
 
 Go back up to the list of distributions
-(https://conference.opensuse.org/osem) Register now for oSC 2013!
+[caption id="attachment_15625" align="alignright" width="300"][![Register now for oSC 2013!](//news.opensuse.org/wp-content/uploads/2013/03/oSC13-register.jpg)](https://conference.opensuse.org/osem) Register now for oSC 2013![/caption]
 
 
 ## Conclusion
@@ -895,4 +898,4 @@ If you're unfamiliar with openSUSE, we hope the above will help you get into the
 Have fun with the Geekos!
 
 
-_Thanks to all openSUSE community members who contributed to the command lists above, including stefano-k, Matt Hayes, terrorpup, |miska|, Kostas and others_		
+_Thanks to all openSUSE community members who contributed to the command lists above, including stefano-k, Matt Hayes, terrorpup, |miska|, Kostas and others_

@@ -1,28 +1,111 @@
 ---
 author: News Team
+comments: true
 date: 2008-07-12 23:59:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/12/people-of-opensuse-bryen-yunashko/
-title: "People of openSUSE: Bryen Yunashko"
+slug: people-of-opensuse-bryen-yunashko
+title: 'People of openSUSE: Bryen Yunashko'
+wordpress_id: 948
 categories:
 - People of openSUSE
 ---
+
 Bryen Yunashko, a openSUSE member, is a recent acquisition to the openSUSE project who is involved in the openSUSE-GNOME and Marketing teams, coordinating the [Helping Hands Project](http://lists.opensuse.org/opensuse-announce/2008-06/msg00017.html) as also giving a hand at the [accessibility](http://en.opensuse.org/Accessibility) of openSUSE.
 
 <!-- more -->
 
-![]({{ site.baseurl }}/assets/bryen_yunashko.jpg)
-|||
-|--- |--- |
-|||
-|**Nickname:**|suseROCKs|
-|**Blog:**|[www.bryen.com](http://www.bryen.com)|
-|||
-|**Favorite season:**|Spring because it is a time to plant new plants into the ground and watch them grow.|
-|**Motto:**|We have a no stupid-questions policy.  We would like you to have a no-stupid answers policy.|
-|||
+<table border="0" >
+<tr >
 
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](/wp-content/uploads/2008/07/bryen_yunashko.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >suseROCKs
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[www.bryen.com](http://www.bryen.com)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Spring because it is a time to plant new plants into the ground and watch them grow.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >We have a no stupid-questions policy.  We would like you to have a no-stupid answers policy.
+</td>
+
+<td >
+</td>
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -345,5 +428,3 @@ The movie scene question...
 
 
 I'd rather just take this moment to give thanks to all the cool folks in openSUSE who made me feel welcome into the community and made me feel a part of it, even when I know nothing at all. :-)
-
-		

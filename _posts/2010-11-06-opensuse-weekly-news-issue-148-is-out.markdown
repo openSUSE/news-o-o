@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-11-06 13:42:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/11/06/opensuse-weekly-news-issue-148-is-out/
-title: "openSUSE Weekly News, Issue 148 is out!"
+slug: opensuse-weekly-news-issue-148-is-out
+title: openSUSE Weekly News, Issue 148 is out!
+wordpress_id: 5416
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News.
 <!-- more -->
 
@@ -41,19 +44,19 @@ We are pleased to announce our new openSUSE Weekly News.
 
 
 
-  * [ Run¦Or Help Run!](https://news.opensuse.org/?p=5416#Run.E2.80.A6Or_Help_Run.21)
+  * [ Runâ€¦Or Help Run!](http://news.opensuse.org/?p=5416#Run.E2.80.A6Or_Help_Run.21)
 
 
-  * [ Kostas Koudaras: 11.3 Late Launch Party](https://news.opensuse.org/?p=5416#Kostas_Koudaras:_11.3_Late_Launch_Party)
+  * [ Kostas Koudaras: 11.3 Late Launch Party](http://news.opensuse.org/?p=5416#Kostas_Koudaras:_11.3_Late_Launch_Party)
 
 
-  * [ Rares Aioanei: kernel weekly news “ 06.11.2010](https://news.opensuse.org/?p=5416#Rares_Aioanei:_kernel_weekly_news_.E2.80.93_06.11.2010)
+  * [ Rares Aioanei: kernel weekly news â€“ 06.11.2010](http://news.opensuse.org/?p=5416#Rares_Aioanei:_kernel_weekly_news_.E2.80.93_06.11.2010)
 
 
-  * [ Tech Drive-in/rationalbeing: 13 Beautiful Inkscape Tutorials for Creating Stunning Vector Graphics](https://news.opensuse.org/?p=5416#Tech_Drive-in.2Frationalbeing:_13_Beautiful_Inkscape_Tutorials_for_Creating_Stunning_Vector_Graphics)
+  * [ Tech Drive-in/rationalbeing: 13 Beautiful Inkscape Tutorials for Creating Stunning Vector Graphics](http://news.opensuse.org/?p=5416#Tech_Drive-in.2Frationalbeing:_13_Beautiful_Inkscape_Tutorials_for_Creating_Stunning_Vector_Graphics)
 
 
-  * [ KDE Ships November Updates: 4.5.3](https://news.opensuse.org/?p=5416#KDE_Ships_November_Updates:_4.5.3)
+  * [ KDE Ships November Updates: 4.5.3](http://news.opensuse.org/?p=5416#KDE_Ships_November_Updates:_4.5.3)
 
 
 
@@ -74,46 +77,46 @@ We are pleased to announce our new openSUSE Weekly News.
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=5416#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=5416#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=5416#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=5416#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=5416#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=5416#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=5416#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=5416#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=5416#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=5416#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=5416#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=5416#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=5416#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=5416#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=5416#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=5416#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=5416#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=5416#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=5416#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=5416#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=5416#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=5416#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=5416#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=5416#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=5416#Credits)
+  * [ Credits](http://news.opensuse.org/?p=5416#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=5416#Translations)
+  * [ Translations](http://news.opensuse.org/?p=5416#Translations)
 
 
 
@@ -246,7 +249,7 @@ We hope that you will enjoy reading.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Run¦Or Help Run!](https://news.opensuse.org/2010/11/04/run-or-help-run/)
+####  [Runâ€¦Or Help Run!](http://news.opensuse.org/2010/11/04/run-or-help-run/)
 
 
 
@@ -269,7 +272,7 @@ We hope that you will enjoy reading.
 
 
 
-  * Send an email to board at openSUSE dot org, with the subject line: Election Officials Committee. Deadline to apply for the committee is November 16. The Board will review and determine the formation of the committee by November 19. We would like to see at least one past Election Official participate for consistency. (...)" 
+  * Send an email to board at openSUSE dot org, with the subject line: â€œElection Officials Committeeâ€. Deadline to apply for the committee is November 16. The Board will review and determine the formation of the committee by November 19. We would like to see at least one past Election Official participate for consistency. (...)" 
 
 
 </td>
@@ -457,7 +460,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-"[https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/ã€€](https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/%E3%80%80)  
+"[http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/ã€€](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/%E3%80%80)  
 
   
 
@@ -571,7 +574,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
 
 
 </td>
@@ -624,10 +627,10 @@ Past:
 
 
 
-  * [**November 2, 2010: openSUSE Marketing Team Meeting**](https://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
+  * [**November 2, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
 
 
-  * [**November 3, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**November 3, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
   * [**November 6, 2010: Brandenburger Linuxinfotag (Germany)**](http://blit.org/)
@@ -641,25 +644,25 @@ Past:
 
 
 
-  * [**November 10, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**November 10, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
   * [**November 10-12, 2010: Latinoware 2010 (Brazil)**](http://www.latinoware.org/)
 
 
-  * [**November 13, 2010: OpenRheinRuhr (Oberhausen/Germany)**](https://news.opensuse.org/2010/04/19/openrheinruhr-oberhausen-germany/)
+  * [**November 13, 2010: OpenRheinRuhr (Oberhausen/Germany)**](http://news.opensuse.org/2010/04/19/openrheinruhr-oberhausen-germany/)
 
 
   * [**November 13-14, 2010: OpenRheinRuhr (Germany)**](http://openrheinruhr.de/)
 
 
-  * [**November 16, 2010: openSUSE Marketing Team Meeting**](https://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
+  * [**November 16, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
 
 
-  * [**November 17, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**November 17, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
-  * [**November 24, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**November 24, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
 
@@ -673,7 +676,7 @@ Past:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -915,7 +918,7 @@ Past:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
 
 
 </td>
@@ -1091,12 +1094,12 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Rares Aioanei: kernel weekly news “ 06.11.2010](http://schaiba.wordpress.com/2010/11/02/kernel-weekly-news-06-11-2010/)
+####  [Rares Aioanei: kernel weekly news â€“ 06.11.2010](http://schaiba.wordpress.com/2010/11/02/kernel-weekly-news-06-11-2010/)
 
 
 
 
-"Hi everyone and welcome to this week™s edition of fresh kernel news!" 
+"Hi everyone and welcome to this weekâ€™s edition of fresh kernel news!" 
 
 
 
@@ -1228,7 +1231,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
   
 
- Replication is a key technology for any database offering, because databases are typically mission-critical systems. Downtime ” or, worse yet, data loss ” can result not only in inconvenience to employees and customers but also in lost productivity and lost revenue. By replicating from a primary server, or master, to one or more secondary servers, sometimes called standbys, the probability of data loss or extended downtime can be greatly reduced. (...)" 
+ Replication is a key technology for any database offering, because databases are typically mission-critical systems. Downtime â€” or, worse yet, data loss â€” can result not only in inconvenience to employees and customers but also in lost productivity and lost revenue. By replicating from a primary server, or master, to one or more secondary servers, sometimes called standbys, the probability of data loss or extended downtime can be greatly reduced. (...)" 
 
 
 
@@ -1277,7 +1280,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Adding files to a SVN server is usually a task done in seconds. However, having several independent SVN repositories and wanting to combine them, this is not trivial”especially if you want to preserve the history.  
+"Adding files to a SVN server is usually a task done in seconds. However, having several independent SVN repositories and wanting to â€œcombineâ€ them, this is not trivialâ€”especially if you want to preserve the history.  
 
   
 
@@ -1448,7 +1451,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
   
 
- The Self-Assessment Checklist is constructed using at least two concepts from well-established models of process maturity such as the Software Engineering Institute™s Capability Maturity Model: (...)" 
+ The Self-Assessment Checklist is constructed using at least two concepts from well-established models of process maturity such as the Software Engineering Instituteâ€™s Capability Maturity Model: (...)" 
 
 
 
@@ -1468,11 +1471,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"SAN FRANCISCO, November 2, 2010 “ The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux, today announced that China Mobile Communications Corporation (China Mobile), whose holding company is majority shareholder of China Mobile Ltd. (NYSE: CHL), has become a Gold member, marking the first time a Chinese enterprise has joined The Linux Foundation.  
+"SAN FRANCISCO, November 2, 2010 â€“ The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux, today announced that China Mobile Communications Corporation (â€China Mobileâ€), whose holding company is majority shareholder of China Mobile Ltd. (NYSE: CHL), has become a Gold member, marking the first time a Chinese enterprise has joined The Linux Foundation.  
 
   
 
- China Mobile is the world™s largest telecom operator by market value. It also ranks as the largest carrier in the world in terms of customer base and the scale of its network, through which it provides mobile services including voice data, IP telephony and multimedia. China Mobile has recently been investing in Linux, in its OPhone mobile operating system, and has developed a cloud computing system based on open source software. Its membership in The Linux Foundation shows its further commitment to the Linux platform. (...)" 
+ China Mobile is the worldâ€™s largest telecom operator by market value. It also ranks as the largest carrier in the world in terms of customer base and the scale of its network, through which it provides mobile services including voice data, IP telephony and multimedia. China Mobile has recently been investing in Linux, in its OPhone mobile operating system, and has developed a cloud computing system based on open source software. Its membership in The Linux Foundation shows its further commitment to the Linux platform. (...)" 
 
 
 
@@ -1494,7 +1497,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"FOSDEM bannerIt's that time of the year again ” the nice folks at FOSDEM have granted us a developer room at their upcoming conference (February 5+6 2011 in Brussels, Belgium)!  
+"FOSDEM bannerIt's that time of the year again â€” the nice folks at FOSDEM have granted us a developer room at their upcoming conference (February 5+6 2011 in Brussels, Belgium)!  
 
   
 
@@ -1560,7 +1563,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
   
 
- That said, I™ve put myself into the position of those who are new to desktop Linux or simply overwhelmed by something within the platform. With this article, I hope to address new ideas alongside some challenges that I believe, if dealt with realistically, would make using Linux more accessible for everyone. (...)" 
+ That said, Iâ€™ve put myself into the position of those who are new to desktop Linux or simply overwhelmed by something within the platform. With this article, I hope to address new ideas alongside some challenges that I believe, if dealt with realistically, would make using Linux more accessible for everyone. (...)" 
 
 
 
@@ -1570,7 +1573,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Governments are increasingly interested in promoting open source software. Yet policymakers have seldom laid out any clear theoretical or empirical justification for these policies. This column explores recent studies suggesting that open source and proprietary software strengthen each other and should co-exist “ too much open source could actually be a bad thing. (...)" 
+"Governments are increasingly interested in promoting open source software. Yet policymakers have seldom laid out any clear theoretical or empirical justification for these policies. This column explores recent studies suggesting that open source and proprietary software strengthen each other and should co-exist â€“ too much open source could actually be a bad thing. (...)" 
 
 
 
@@ -1587,16 +1590,16 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Digitizor/Ricky: Koobface Can Infect Linux Systems Too “ But That is An Accident](http://digitizor.com/2010/11/01/koobface-can-infect-linux-systems-too-but-that-is-an-accident/)
+####  [Digitizor/Ricky: Koobface Can Infect Linux Systems Too â€“ But That is An Accident](http://digitizor.com/2010/11/01/koobface-can-infect-linux-systems-too-but-that-is-an-accident/)
 
 
 
 
-"Koobface is a trojan that has been going around in social networking sites like “ Facebook, Twitter, MySpace etc. It originally started as a Windows only trojan. But a few days ago, a new variant emerged which can infect both Mac OS X and Linux.  
+"Koobface is a trojan that has been going around in social networking sites like â€“ Facebook, Twitter, MySpace etc. It originally started as a Windows only trojan. But a few days ago, a new variant emerged which can infect both Mac OS X and Linux.  
 
   
 
- Infecting a Mac or a Linux system with Koobface is quite tedious. Unlike in Windows, users need to manually download a java applet and give it the permission to run “ that should stop the trojan right there for most users. In Linux, it gets even better “ even if the applet has been allowed to run and the system has been infected, all that is needed to stop it is a simple reboot. (...)" 
+ Infecting a Mac or a Linux system with Koobface is quite tedious. Unlike in Windows, users need to manually download a java applet and give it the permission to run â€“ that should stop the trojan right there for most users. In Linux, it gets even better â€“ even if the applet has been allowed to run and the system has been infected, all that is needed to stop it is a simple reboot. (...)" 
 
 
 
@@ -1635,7 +1638,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?p=5416) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=5416) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -1644,7 +1647,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -1689,7 +1692,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1698,7 +1701,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -1764,7 +1767,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/148)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/148)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/148)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/148)
@@ -1803,4 +1806,3 @@ Delayed / to be translated:
 </table>
   
 
-		

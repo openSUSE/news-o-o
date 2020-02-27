@@ -1,17 +1,20 @@
 ---
 author: Helen South
+comments: true
 date: 2012-10-11 14:00:34+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/11/learn-more-about-open-next-week-in-prague/
-title: "Learn More About Free Software Next Week in Prague"
+slug: learn-more-about-open-next-week-in-prague
+title: Learn More About Free Software Next Week in Prague
+wordpress_id: 14284
 categories:
 - Conference
 - Distribution
 - Events
 - Project
 ---
-![red futuremedia logo]({{ site.baseurl }}/assets/futuremedia_color-300x129.png)
+
+![red futuremedia logo](/wp-content/uploads/2012/10/futuremedia_color.png)
 The [openSUSE Conference 2012](http://bootstrapping-awesome.org) takes place next weekÂ from October 20th to 23rd in Prague, Czech Republic.
 
 When you first step into the world of Free Software, it isn't always easy: to paraphrase Richard Stallman, we are used to _"trading freedom for convenience"_. Understanding why you are using Free/Libre/OpenSource Software and seeing it at work can be inspiring - you might well find yourself on the path to be a Free/Libre Open Source Software contributor or advocate. Seeing how the principles of FLOSS are applied to things other than software can be equally inspiring and like Free Software, it is a revolution you can contribute to! You'll find this and more inspiration in the [Future Media track](http://bootstrapping-awesome.org/futuremedia) at this year's [conference](http://bootstrapping-awesome.org).
@@ -19,7 +22,7 @@ When you first step into the world of Free Software, it isn't always easy: to pa
 This track aimed specifically at bringing a wider scope to the conference and with talks by people like Georg Greve, founder of the [Free Software Foundation Europe](http://fsfe.org), Lydia Pintscher from the [WikiMedia Foundation](http://www.wikimedia.org) and Bas van Abel from the [_FabLab_](http://en.wikipedia.org/wiki/Fab_lab) movement, the sessions will you a proper knowledge base on the why and what of the 'open' movement.
 
 We spoke with a number of the speakers to give you an idea what they will talk about.<!-- more -->
-![May the Geeko be with you]({{ site.baseurl }}/assets/Geeko-with-you-212x300.png)
+![May the Geeko be with you](/wp-content/uploads/2012/10/Geeko-with-you.png)
 
 
 ## Earlier interviews
@@ -62,7 +65,7 @@ But the current open source groupware solutions all have some fatal flaws. There
 
 Ramon Roca is a well known Spanish activist fighting for a free network. In 2004 he co-founded guifi.net, a grassroots Broadband initiative in which citizens provide themselves the telecommunication infrastructure they use without the participation of traditional Internet Service Providers (ISP's). Today, Guifi.net connects more that eighteen thousand homes through a more than thirty three thousand kilometers-long network through radio links and optic fiber channels in Spain.
 
-(http://guifi.net/en/) Guifi in action - from guifi.net
+[caption id="attachment_14300" align="alignright" width="300"][![guifi in action](/wp-content/uploads/2012/10/guifi.jpg)](http://guifi.net/en/) Guifi in action - from guifi.net[/caption]
 
 To give some insight into his presentation, Ramon Roca spoke with **Thanasis 'Zoumpis' Rousinopoulos**. Ramon, born in rural Catalonia and in his late forties has been _"a corporate IT professional for around 25 years, living in various places"_. He's now back in Catalonia where he has started a family.
 
@@ -80,4 +83,4 @@ We expect to welcome about 500 Open Source developers, testers, usability expert
 
 The entire combined conference is expected to attract well over 1000 visitors. Admission to the openSUSE conference as well as LinuxDays, the SUSE Labs conference and the Gentoo miniconf is of course completely free.
 
-The conference starts on October 20 2012 and ends on the 23rd. [Be there](http://conference.opensuse.org/Register/)!		
+The conference starts on October 20 2012 and ends on the 23rd. [Be there](http://conference.opensuse.org/Register/)!

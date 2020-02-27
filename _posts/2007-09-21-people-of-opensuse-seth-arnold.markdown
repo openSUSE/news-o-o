@@ -1,28 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2007-09-21 17:03:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/09/21/people-of-opensuse-seth-arnold/
-title: "People of openSUSE: Seth Arnold"
+slug: people-of-opensuse-seth-arnold
+title: 'People of openSUSE: Seth Arnold'
+wordpress_id: 323
 categories:
 - People of openSUSE
 ---
 
 
+
 Today you can read which answers to the 'People of openSUSE' questions the AppArmor developer Seth Arnold provides.
 
-![seth_arnold.jpg]({{ site.baseurl }}/assets/seth_arnold.jpg)
-|||
-|--- |--- |
-|**Nickname(s):**|sarnold, sars, sarny, sarsy|
-|**Homepage:**|[http://sarnold.org/](http://sarnold.org/)|
-|**Blog:**|None, I've found blogs removes too much personal communication -- people who've started keeping blogs I've found tend to talk less with their friends(!) -- all the recent news and stories have been told, so..|
-|||
-|**Favorite season:**|Oooh, tough question -- I prefer the clothes for winter, but the endless grey skies are grating. When summer's only about 70  degrees F (21C), it's pretty enjoyable.. Of course, the new green buds of spring is pretty wonderful -- especially when forests start to smell of soil and new growth. Not autumn. Nope.|
-|**Motto:**|I was a boyscout as a kid, so "Be Prepared" is pretty deeply ingrained, but I'm sure I say "I have to run to catch my bus" more often these days.|
-|||
+<!-- more -->
+<table border="0" >
+<tr >
 
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![seth_arnold.jpg](//news.opensuse.org/wp-content/uploads/2007/09/seth_arnold.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >sarnold, sars, sarny, sarsy
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://sarnold.org/](http://sarnold.org/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >None, I've found blogs removes too much personal communication -- people who've started keeping blogs I've found tend to talk less with their friends(!) -- all the recent news and stories have been told, so..
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Oooh, tough question -- I prefer the clothes for winter, but the endless grey skies are grating. When summer's only about 70  degrees F (21C), it's pretty enjoyable.. Of course, the new green buds of spring is pretty wonderful -- especially when forests start to smell of soil and new growth. Not autumn. Nope.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >I was a boyscout as a kid, so "Be Prepared" is pretty deeply ingrained, but I'm sure I say "I have to run to catch my bus" more often these days.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -235,7 +326,7 @@ I'd love nothing more than to find the time to try to write better text typesett
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 It'd be an annoyance to be disconnected from friends, but I would enjoy a week to wander around a foreign city, or hike in the woods.
@@ -307,7 +398,7 @@ Definitely travel -- I love to spend ten, twelve, hours per day walking around c
 
 
 
-#### Someone gives you $1.000.000 “ what would you do with the money?
+#### Someone gives you $1.000.000 â€“ what would you do with the money?
 
 
 I'd buy a house and invest the remainder. I could do a fair bit of traveling on the income you could get for that kind of investment..
@@ -317,7 +408,7 @@ I'd buy a house and invest the remainder. I could do a fair bit of traveling on 
 
 
 
-#### If traveling through time was possible “ when would we be most likely to meet you?
+#### If traveling through time was possible â€“ when would we be most likely to meet you?
 
 
 I'd love to be present to see the advances in particle physics of the early 1900s, but I'd also like to see if we ever get a grand unified theory -- so perhaps 2100?
@@ -383,3 +474,6 @@ Definitely the introduction was the more difficult to answer -- open-ended quest
 
 
 Oof. I take back my previous answer -- this one's harder. :)
+
+
+Update 1 steve tells highster mobile reviews  us that the panorama features works on the ipad 4

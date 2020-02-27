@@ -1,22 +1,60 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-04-04 16:24:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/04/people-of-opensuse-per-jessen/
-title: "People of openSUSE: Per Jessen"
+slug: people-of-opensuse-per-jessen
+title: 'People of openSUSE: Per Jessen'
+wordpress_id: 8333
 categories:
 - People of openSUSE
 ---
 
+<table cellpadding="2" width="664" style="height: 129px;" cellspacing="0" > 
+<tbody >
+<tr >
 
-|||
-|--- |--- |
-|**Nickname:**|I don't use one|
-|**Homepage:**|[http://www.jessen.ch/](http://www.jessen.ch/)|
-|**Blog:**|I don't use one.|
-|**Favorite season:**|All/none of them, but I don't like rain very much.|
-|**Motto:**|None.|
+<td width="105" >**Nickname:**
+</td>
+
+<td width="520" >I don't use one
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Homepage: **
+</td>
+
+<td width="520" >[http://www.jessen.ch/](http://www.jessen.ch/)
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Blog:**
+</td>
+
+<td width="520" >I don't use one.
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Favorite season:**
+</td>
+
+<td width="520" >All/none of them, but I don't like rain very much.
+</td>
+</tr>
+<tr >
+
+<td width="105" >**Motto:**
+</td>
+
+<td width="520" >None.
+</td>
+</tr>
+</tbody>
+</table>
 
 
 #### Please introduce yourself!
@@ -55,7 +93,7 @@ I report bugs, I test the alphas and betas, occasionally I submit patches, I par
 Nothing in particular. I'm just being loyal to my favourite distro.
 
 
-#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you™re most proud of?
+#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that youâ€™re most proud of?
 
 
 I was quite pleased with myself when I succeeded in upgrading nasm (mostly to incorporate a patch I had submitted to the nasm-project a year ago), but it's hardly an important contribution.
@@ -70,7 +108,7 @@ It varies, mostly during the week.
 #### Three words to describe openSUSE? Or make up a proper slogan!
 
 
-žThe green stuff!
+â€žThe green stuff!â€œ
 
 
 #### What do you think is missing or underrated in the distribution or the project?
@@ -88,7 +126,7 @@ No idea.
 #### A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?
 
 
-If someone asks me, it's because they value my advice “ I hope that is enough to convince him or her.
+If someone asks me, it's because they value my advice â€“ I hope that is enough to convince him or her.
 
 
 #### Which members of the openSUSE community have you met in person?
@@ -103,10 +141,10 @@ None (as far as I know).
 I don't know, I don't really use my desktop much. I have about 35-36 open windows.
 
 
-#### What is the application you can™t live without? And why?
+#### What is the application you canâ€™t live without? And why?
 
 
-Openoffice “ because I do everything in openoffice. Asterisk - because it runs my office and home telephone system.
+Openoffice â€“ because I do everything in openoffice. Asterisk - because it runs my office and home telephone system.
 
 
 #### Which application or feature should be invented as soon as possible?
@@ -133,7 +171,7 @@ No-one.
 I could probably do with acquiring some better perl skills, but it's not a language I really like working with.
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Relax. 
@@ -142,7 +180,7 @@ Relax.
 #### Which is your favorite movie scene?
 
 
-From the Australian movie žThe Dish when the local band plays the title-music from žHawaii Five-O thinking it is the American national anthem. 
+From the Australian movie â€žThe Dishâ€œ when the local band plays the title-music from â€žHawaii Five-Oâ€œ thinking it is the American national anthem. 
 
 
 #### Star Trek or Star Wars?
@@ -154,7 +192,7 @@ I like both actually.
 #### What is your favorite food and drink?
 
 
-Käsespätzle mit Röstzwiebel. Ittinger Klosterbräu. Erdinger Dunkelweiss.
+KÃ¤sespÃ¤tzle mit RÃ¶stzwiebel. Ittinger KlosterbrÃ¤u. Erdinger Dunkelweiss.
 
 
 #### Favorite game or console (in your childhood and nowadays)?
@@ -175,19 +213,19 @@ I've been to many of the world's big cities, but I've never been to China, so pe
 On the beach, in Greece or in Denmark.
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Buy a Ferrari.
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
-I'd like to jump to somewhere 50-100 years from now “ I'd like to see what the historians of the (near) future think of our world and our actions today.
+I'd like to jump to somewhere 50-100 years from now â€“ I'd like to see what the historians of the (near) future think of our world and our actions today.
 
 
-#### There™s a thunderstorm outside ” do you turn off your computer?
+#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
 
 
 No.
@@ -202,10 +240,10 @@ Yes.
 #### Show us a picture of something, you have always wanted to share!
 
 
-This is žTiger, our wild cat taking a nap amongst the raspberries in the very early spring sun.
+This is â€žTigerâ€œ, our wild cat taking a nap amongst the raspberries in the very early spring sun.
 
 
-#### You couldn™t live without¦
+#### You couldnâ€™t live withoutâ€¦
 
 
 My family.
@@ -222,4 +260,4 @@ The one about the picture I wanted to share.
 
 Q: Do you actively contribute to other open source projects?
 
-A: Yes, over the years, I have contributed to a few projects. In no particular order: dosemu, etherboot, hercules-390 (floating point support), maxdb (porting to linux-390), clamav. Way back in my OS/2 days, I published WFDOS, a utility for running DOS programs within IBM Workframe/2. I needed an assembler back then, and only had Borlands Turbo Assembler, but this was only for DOS.		
+A: Yes, over the years, I have contributed to a few projects. In no particular order: dosemu, etherboot, hercules-390 (floating point support), maxdb (porting to linux-390), clamav. Way back in my OS/2 days, I published WFDOS, a utility for running DOS programs within IBM Workframe/2. I needed an assembler back then, and only had Borlands Turbo Assembler, but this was only for DOS.

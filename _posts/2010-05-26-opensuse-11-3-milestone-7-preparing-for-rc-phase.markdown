@@ -1,15 +1,18 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-05-26 13:18:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/05/26/opensuse-11-3-milestone-7-preparing-for-rc-phase/
-title: "openSUSE 11.3 Milestone 7: Preparing for RC Phase"
+slug: opensuse-11-3-milestone-7-preparing-for-rc-phase
+title: 'openSUSE 11.3 Milestone 7: Preparing for RC Phase'
+wordpress_id: 3324
 categories:
 - Announcements
 - Distribution
 ---
-**Milestone 7**, a snapshot of the [openSUSE Factory](http://en.opensuse.org/Factory) work  in  progress build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available  for [download](http://software.opensuse.org/developer).
+
+**Milestone 7**, a snapshot of the [openSUSE Factory](http://en.opensuse.org/Factory) â€œwork  in  progressâ€ build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available  for [download](http://software.opensuse.org/developer).
 
 [M7](http://software.opensuse.org/developer) is the last milestone release, the next release will be RC1 on [June 17th](http://www.suse.de/~coolo/opensuse_11.3/). Now it's time for testing and bugfixing!<!-- more -->
 
@@ -109,4 +112,4 @@ The following annoyances have already been reported:
 
 Please see [http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_7](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_7) for the current list.
 
-What are you waiting for? Grab the milestone release from [http://software.opensuse.org/developer](http://software.opensuse.org/developer) today!		
+What are you waiting for? Grab the milestone release from [http://software.opensuse.org/developer](http://software.opensuse.org/developer) today!

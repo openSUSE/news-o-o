@@ -1,14 +1,17 @@
 ---
-author: Heroes Team
+author: admin
+comments: true
 date: 2008-05-16 18:06:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/16/announcing-opensuse-110-beta-3/
-title: "Announcing openSUSE 11.0 Beta 3"
+slug: announcing-opensuse-110-beta-3
+title: Announcing openSUSE 11.0 Beta 3
+wordpress_id: 775
 categories:
 - Announcements
 - Distribution
 ---
+
 The openSUSE team is proud to announce the last Beta release of openSUSE 11.0! Over 700 bugs has been fixed since Beta 2. This means we're on the home stretch for openSUSE 11.0 and ask you all to do final heavy testing with it and give feedback or even send us patches. And we're not only asking for help we'd like to thank you all for the great contributions up to date! First bunch of screenshots [ here](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta3)
 
 Have a lot of fun!
@@ -123,4 +126,4 @@ openSUSE 11.0 Beta 3 is a great time to start and continue testing-out openSUSE 
 
 For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
 
-The next [release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 RC1 on May 29		
+The next [release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 RC1 on May 29

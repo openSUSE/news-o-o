@@ -1,27 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-21 12:00:23+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/21/people-of-opensuse-masim-sugianto/
-title: "People of openSUSE: Masim Sugianto"
+slug: people-of-opensuse-masim-sugianto
+title: 'People of openSUSE: Masim Sugianto'
+wordpress_id: 704
 categories:
 - People of openSUSE
 ---
+
 Today's 'People of openSUSE' interviews Masim 'Vavai' Sugianto - founder of the [Indonesian openSUSE community](http://www.opensuse.or.id/) helping users, and spreading out openSUSE to be widely used in his country!
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![masim_sugianto.jpg]({{ site.baseurl }}/assets/masim_sugianto.jpg)
-|||
-|--- |--- |
-|**Nickname:**|Vavai|
-|**Homepage:**|[http://www.vavai.com](http://www.vavai.com), [http://www.vavai.net](http://www.vavai.net)|
-|**Blog:**|[http://www.vavai.com/blog/](http://www.vavai.com/blog/)|
-|||
-|**Favorite season:**|I live in a tropical country, Indonesia that only has two seasons, dry season and rainy season. I love the dry season with bright sunshine and rare rain...There is a joke about the seasons in Indonesia. Indonesia is known as a country with so many season, ie : durian season, mango season, married season and much more :-)|
-|**Motto:**|Easy Going Lifestyle|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![masim_sugianto.jpg](/wp-content/uploads/2008/03/masim_sugianto.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >Vavai
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.vavai.com](http://www.vavai.com), [http://www.vavai.net](http://www.vavai.net)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://www.vavai.com/blog/](http://www.vavai.com/blog/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >I live in a tropical country, Indonesia that only has two seasons, dry season and rainy season. I love the dry season with bright sunshine and rare rain...There is a joke about the seasons in Indonesia. Indonesia is known as a country with so many season, ie : durian season, mango season, married season and much more :-)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Easy Going Lifestyle
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -227,7 +318,7 @@ C++ (Qt) and Java, because I want to contribute to openSUSE development and deve
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Hmmh, it's time to relax. My beloved wife complained to me that I used the Internet 24 hours a day (and she is right, because I use my mobile phone to access the internet).
@@ -301,7 +392,7 @@ Traveling and trekking. I want to try scuba diving but I can't swim.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Build a non profit organization to spread free openSUSE CDs around of Indonesia. I don't know if it sounds realistic or not but I want Indonesia to be well-known as the biggest openSUSE community outside Europe.
@@ -311,7 +402,7 @@ Build a non profit organization to spread free openSUSE CDs around of Indonesia.
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Before marriage :-)
@@ -321,7 +412,7 @@ Before marriage :-)
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 Yes. I choose to read books :-)
@@ -346,7 +437,7 @@ In the past, yes. With this experience, I used Tomboy to write my appointments. 
 
 My beloved son, 2 years old in March 26, 2008.
 
-![masim_sugianto_show_pic.jpg]({{ site.baseurl }}/assets/masim_sugianto_show_pic.jpg)
+![masim_sugianto_show_pic.jpg](/wp-content/uploads/2008/03/masim_sugianto_show_pic.jpg)
 
 
 
@@ -366,7 +457,7 @@ Water, air and most common requirements for human beings.
 #### Which question was the hardest to answer?
 
 
-If traveling through time was possible “ when would we be most likely to meet you? I don't understand it :-P
+If traveling through time was possible â€“ when would we be most likely to meet you? I don't understand it :-P
 
 
 
@@ -379,5 +470,3 @@ If traveling through time was possible “ when would we be most likely to meet 
 Do you like to work on openSUSE?
 Answer : yes, with passion and love...
 
-
-		

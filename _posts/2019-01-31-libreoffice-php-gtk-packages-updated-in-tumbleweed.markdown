@@ -1,9 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2019-01-31 09:27:28+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/31/libreoffice-php-gtk-packages-updated-in-tumbleweed/
-title: "LibreOffice, php, GTK Packages Updated in Tumbleweed"
+slug: libreoffice-php-gtk-packages-updated-in-tumbleweed
+title: LibreOffice, php, GTK Packages Updated in Tumbleweed
+wordpress_id: 21667
 categories:
 - Announcements
 - Tumbleweed
@@ -38,7 +41,8 @@ tags:
 - wicked
 - yast
 ---
-![]({{ site.baseurl }}/assets/release-is-coming-black-260x300.png)
+
+![](/wp-content/uploads/2017/09/release-is-coming-black.png)
 
 Three [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots were released this week.
 
@@ -50,4 +54,4 @@ Snapshot [20190125](https://lists.opensuse.org/opensuse-factory/2019-01/msg00477
 
 Snapshot [20190124](https://lists.opensuse.org/opensuse-factory/2019-01/msg00462.html) completed all the package upgrades for [KDE](https://www.kde.org/)’s [Applications 18.12.1](https://www.kde.org/announcements/announce-applications-18.12.1.php), which offers about 20 bug fixes. Tumbleweed started the week with an upgrade of the [Linux Kernel](https://www.kernel.org/) to 4.20.2. Indonesian and Spanish translations were updated with the libstorage-ng 4.1.78 update. The package for tracking mission-critical IT infrastructure, [nagios 4.4.3](https://www.nagios.org/projects/nagios-core/history/4x/?__hstc=189745844.8b65c0eb4a26dfc4026c4cd6c756ea2a.1538061429986.1547578047152.1547583223743.147&__hssc=189745844.3.1547583223743&__hsfp=3640866401), had more than a dozen fixes with one of those fixing a make error when building on the [aarch64](https://en.wikichip.org/wiki/arm/aarch64) architecture. The lightweight Music Player [pragha](https://github.com/pragha-music-player) 1.3.99 added a new visualizer plugin and remote desktop client [remmina](https://remmina.org/) 1.3.0 added language detection and removed deprecated floating toolbar. A long list of changes were made with [python-kiwi 9.17.1](https://pypi.org/project/kiwi/) package and yast2 packages had several changes for the network, firewall and apparmor packages.
 
-Snapshot [20190124](https://lists.opensuse.org/opensuse-factory/2019-01/msg00462.html) recorded an unstable rating of 70, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20190125](https://lists.opensuse.org/opensuse-factory/2019-01/msg00477.html) is trending as moderately stable with a rating of 77 and snapshot [20190126](https://lists.opensuse.org/opensuse-factory/2019-01/msg00547.html) is trending as stable with a current rating of 88.		
+Snapshot [20190124](https://lists.opensuse.org/opensuse-factory/2019-01/msg00462.html) recorded an unstable rating of 70, according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/). Snapshot [20190125](https://lists.opensuse.org/opensuse-factory/2019-01/msg00477.html) is trending as moderately stable with a rating of 77 and snapshot [20190126](https://lists.opensuse.org/opensuse-factory/2019-01/msg00547.html) is trending as stable with a current rating of 88.

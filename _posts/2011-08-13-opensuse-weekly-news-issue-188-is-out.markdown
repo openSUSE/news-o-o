@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-08-13 16:05:47+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/13/opensuse-weekly-news-issue-188-is-out/
-title: "openSUSE Weekly News, Issue 188 is out!"
+slug: opensuse-weekly-news-issue-188-is-out
+title: openSUSE Weekly News, Issue 188 is out!
+wordpress_id: 10035
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News 188.
 <!-- more -->
 
@@ -107,10 +110,10 @@ Enjoy reading :-)
 The Articles inside this Section are in full. If you are already knowing the stuff in
       news.opensuse.org, then you can skip this section through using the TOC.
 
+â€œ
 
 
-
-      [Strategy DONE!](https://news.opensuse.org/2011/08/09/strategy-done/)
+      [Strategy DONE!](http://news.opensuse.org/2011/08/09/strategy-done/)
     
 
 ![](http://farm5.static.flickr.com/4004/4356906718_7165a0b695_m.jpg)
@@ -118,19 +121,19 @@ The Articles inside this Section are in full. If you are already knowing the stu
 Almost 2 years ago, at the first openSUSE conference, a discussion started about Strategy.
       A few months ago a final document was ready and on July 14th 2011, the strategy voting ended.
       Over 200 of the[openSUSE
-      Members](http://en.opensuse.org/openSUSE:Members)Â voted, with 90% in favor of theÂ [current strategy document](http://en.opensuse.org/openSUSE:Strategy). What™s
+      Members](http://en.opensuse.org/openSUSE:Members)Â voted, with 90% in favor of theÂ [current strategy document](http://en.opensuse.org/openSUSE:Strategy). Whatâ€™s
       next?
 
 **Looking back**
 
-It™s been a long ride, and we™d like to give a short overview of the strategy discussion
+Itâ€™s been a long ride, and weâ€™d like to give a short overview of the strategy discussion
       in the openSUSE community over the last 2 years.
 
 **The beginning**
 
 The strategy process was started after the first openSUSE conference, now almost 2 years
       ago. In that time, quite a number of people have participated in the strategy team: Michael
-      Löffler, Joe Brockmeier, Kurt Garloff, Jan Weber, Pascal Bleser, Andreas Jaeger, Bryen
+      LÃ¶ffler, Joe Brockmeier, Kurt Garloff, Jan Weber, Pascal Bleser, Andreas Jaeger, Bryen
       Yunashko, Pavol Rusnak, Jos Poortvliet and Thomas Thym. Of course, many others contributed by
       commenting on the proposals via mailing plists, forums, blogs and other channels.
 
@@ -142,7 +145,7 @@ Initially, the team met weekly and focused on learning about strategy and how to
       made. In May 2010 a face to face meeting was held and the team came up with a community
       statement and three different ambitious and narrow high-level visions that we planned to
       evolve and combine later.These visions were then presented to the community and we hoped for
-      new scenario™s to come from then.
+      new scenarioâ€™s to come from then.
 
 **Change**
 
@@ -150,12 +153,12 @@ Where the team started out quite ambitiously, trying to define new niches and a 
       direction, it became visible that the majority of the community lost interest along the way.
       In November 2010, the teamÂ had decided to do an u-turnÂ and
 
-
+â€œ
 
 focus on describing who we are, as a community, instead of finding new ways to
         go.
 
-
+â€
 
 The new goals where to:
 
@@ -168,31 +171,31 @@ The new goals where to:
 **New tools and lots of input**
 
 Much of the input given by community members throughout the process was looked at again
-      and integrated in aÂ [first draft](https://news.opensuse.org/2010/09/16/opensuse_finding_target/)Â focusing onÂ the [target users of openSUSE](https://lite.co-ment.com/text/lNPCgzeGHdV/view/). With
+      and integrated in aÂ [first draft](http://news.opensuse.org/2010/09/16/opensuse_finding_target/)Â focusing onÂ the [target users of openSUSE](https://lite.co-ment.com/text/lNPCgzeGHdV/view/). With
       this draft, a new way of discussing the document was introduced:
 
-
+â€œ
 
 [co-ment](http://www.co-ment.com/about/), a pretty awesome
           commenting tool under theÂ [GNU Affero GPL](http://www.fsf.org/licensing/licenses/agpl-3.0.html)
 
-
+â€
 
 Co-ment made it easy to give input on a specific sentence or word and discuss that in a
       structured manner, and a lot of input came in from the whole openSUSE community, withÂ [the second
-        revision](https://news.opensuse.org/2010/09/27/opensuse-target-aquired/), introducingÂ what openSUSE offers its
-        users, andÂ [the third](https://news.opensuse.org/2010/10/07/opensuse-strategy-the-third-and-fourth-part-of-the-trilogy/),Â what does openSUSEÂ **not**Â do, each drawing in almost 100 comments on co-ment alone. More
+        revision](http://news.opensuse.org/2010/09/27/opensuse-target-aquired/), introducingÂ â€œwhat openSUSE offers its
+        usersâ€, andÂ [the third](http://news.opensuse.org/2010/10/07/opensuse-strategy-the-third-and-fourth-part-of-the-trilogy/),Â â€œwhat does openSUSEÂ **not**Â doâ€, each drawing in almost 100 comments on co-ment alone. More
       responses were gathered and processed from various channels likeÂ [mailinglists](http://list.opensuse.org/),Â [the openSUSE forums](http://forums.opensuse.org/)andÂ [many other
       means](http://omgsuse.com/content/bertel-beat-thoughts-strategy).
 
 TheÂ [last
-        posting](https://news.opensuse.org/2010/10/15/finalizing-who-we-are/)Â before the openSUSE conference attempted to shorten the document. At the
+        posting](http://news.opensuse.org/2010/10/15/finalizing-who-we-are/)Â before the openSUSE conference attempted to shorten the document. At the
       conference, the[strategy was presented](http://lwn.net/Articles/412025/)Â and
       discussed. ThisÂ [re-invigorated interest in the strategy](http://michal.hrusecky.net/2010/11/opensuse-conference-2010/)Â for some and a newÂ [team
         member](http://ungethym.blogspot.com/2010/10/opensuse-conference-2010-is-over.html)joined the strategy discussions. Based on the feedback at the conference the
       document gained some clarity as well as a short introduction.
 
-On the 20th of December 2010, the strategy team sent the ˜final™ document to the openSUSE
+On the 20th of December 2010, the strategy team sent the â€˜finalâ€™ document to the openSUSE
       board to facilitate the member voting process.
 
 **Finishing**
@@ -202,9 +205,9 @@ Due to the busy time before the openSUSE 11.4 release, it took a while for the b
       after that the board asked Thomas Thym to start the voting. In the end, Jos Poortvliet put a
       vote on[connect](http://connect.opensuse.org/)Â as Thomas was not openSUSE
       Member yet and the team[announced
-        the start of the voting](https://news.opensuse.org/2011/06/07/time-to-vote-on-the-opensuse-strategy/). Shortly before the 30th of June, the deadline was extended
+        the start of the voting](http://news.opensuse.org/2011/06/07/time-to-vote-on-the-opensuse-strategy/). Shortly before the 30th of June, the deadline was extended
       to have time for a mass-mailing to all openSUSE Members. It had turned out that quite a few
-      hadn™t noticed the strategy voting yet and the Board wanted to give them a chance to provide
+      hadnâ€™t noticed the strategy voting yet and the Board wanted to give them a chance to provide
       their input as well.
 
 **The results**
@@ -212,68 +215,68 @@ Due to the busy time before the openSUSE 11.4 release, it took a while for the b
 So on the 14th, the voting ended with a total of 204 votes, 90% of which were supportive
       of the strategy document (see table). As the voting page said, this support
 
+â€œ
 
-
-does not mean that you have to fully agree or that it is exactly how you want it “ we
+does not mean that you have to fully agree or that it is exactly how you want it â€“ we
           are a diverse community with many opinions and individual goals. We can never all agree on
-          anything, unless it is so completely vague it doesn™t mean anything. This document is the
+          anything, unless it is so completely vague it doesnâ€™t mean anything. This document is the
           product of a compromise, but the team feels it does adequately describe who we are and
           where we want to go.
 
-
+â€
 
 It does mean that the openSUSE Membership feels the document adequately describes the
-      openSUSE community and what it does and doesn™t do.
+      openSUSE community and what it does and doesnâ€™t do.
 
-Having the strategy document in place provides the project an anchor to reflect upon when
-      project questions and issues arise, openSUSE Board Chairman Alan Clark said. It is a very
+â€œHaving the strategy document in place provides the project an anchor to reflect upon when
+      project questions and issues ariseâ€, openSUSE Board Chairman Alan Clark said. â€œIt is a very
       good reference point for those either new to the project or those wanting to capture a glimpse
-      of what openSUSE is and why one should come join us.
+      of what openSUSE is and why one should come join us.â€
 
-**openSUSE “ the world™s most flexible and powerful Linux
+**openSUSE â€“ the worldâ€™s most flexible and powerful Linux
         distribution**
 
 TheÂ [strategy](http://en.opensuse.org/openSUSE:Strategy)Â is a document
       which describes openSUSE as a community. Our values, goals and the way we work. It starts with
-        theÂ [˜community
-        statement™](http://en.opensuse.org/openSUSE:Strategy_Community_Statement):
+        theÂ [â€˜community
+        statementâ€™](http://en.opensuse.org/openSUSE:Strategy_Community_Statement):
 
+â€œ
 
-
-We are the openSUSE Community “ a friendly, welcoming, vibrant, and active community.
+We are the openSUSE Community â€“ a friendly, welcoming, vibrant, and active community.
           This includes developers, testers, writers, translators, usability experts, artists,
           promoters and everybody else who wishes to engage with the project.
 
-
+â€
 
 And then summarizes what we do as follows:
 
-
+â€œ
 
 The openSUSE project is a worldwide effort that promotes the use of Linux everywhere.
           The openSUSE community develops and maintains a packaging and distribution infrastructure
-          which provides the foundation for the world™s most flexible and powerful Linux
+          which provides the foundation for the worldâ€™s most flexible and powerful Linux
           distribution. Our community works together in an open, transparent and friendly manner as
           part of the global Free and Open Source Software community.
 
-
+â€
 
 After that, the strategy goes into more detail, talking about our target users, our
-      philosophy when it comes to development, our focus on collaboration and the things we don™t
+      philosophy when it comes to development, our focus on collaboration and the things we donâ€™t
       do. While reading the strategy, you need to keep two things in mind: it is meant as an
-      internal document “ it™s not marketing speak. And it™s not meant to tell anyone what to do or
-      not to do “ we are an open community!
+      internal document â€“ itâ€™s not marketing speak. And itâ€™s not meant to tell anyone what to do or
+      not to do â€“ we are an open community!
 
 **The future**
 
 The team noted that the
 
+â€œ
 
+strategy is of course not set in stone for eternity although we probably wonâ€™t go
+          through this process every yearâ€¦
 
-strategy is of course not set in stone for eternity although we probably won™t go
-          through this process every year¦
-
-
+â€
 
 and asked for further feedback in the mass mailing to the membership. Some comments did
       indeed come in, most notably asking for the ARM port and mobile devices as well as the impact
@@ -283,11 +286,11 @@ In the future, the strategy documents will surelyrequire some revision. Once som
       the openSUSE community steps up to do an ARM port, which is likely to attract significant
       help, the document will have to be revisited to reflect this, just likeÂ [Tumbleweed](http://en.opensuse.org/openSUSE:Tumbleweed)Â resulted in a change.
       And once a openSUSE Foundation is established it is likely this new organisation will
-      becomeÂ ˜owner™Â of this document. For such changes, theÂ `<[opensuse-strategy@opensuse.org](mailto:opensuse-strategy@opensuse.org)>`
+      becomeÂ â€˜ownerâ€™Â of this document. For such changes, theÂ `<[opensuse-strategy@opensuse.org](mailto:opensuse-strategy@opensuse.org)>`
       mailinglistÂ is still open and it will remain so. Obviously a discussion can also be held on
       the opensuse-project mailing list or in other places!
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -295,15 +298,15 @@ In the future, the strategy documents will surelyrequire some revision. Once som
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
+â€œ
 
 
-
-      [Christos Bountalis: A utility for merging configuration / sysconfig files “ Week 11
-        Report](http://cbounta.wordpress.com/2011/08/09/a-utility-for-merging-configuration-sysconfig-files-“-week-11-report/)
+      [Christos Bountalis: A utility for merging configuration / sysconfig files â€“ Week 11
+        Report](http://cbounta.wordpress.com/2011/08/09/a-utility-for-merging-configuration-sysconfig-files-â€“-week-11-report/)
     
 
-A bit late this week™s report. But not without a reason, the last weeks i have been
-      working hard in order to fulfill the initial goals of this project. After lot™s of coding /
+A bit late this weekâ€™s report. But not without a reason, the last weeks i have been
+      working hard in order to fulfill the initial goals of this project. After lotâ€™s of coding /
       compiling / testing this week and of course mind storming i can now share with you very good
       and exciting news.
 
@@ -336,14 +339,14 @@ What is to be done:
   * Create First Beta Packages
 
 That is all in a few lines, as GSoC is getting closer to the end, the time available for
-      completing the project is getting less. So I better get back to coding¦
+      completing the project is getting less. So I better get back to codingâ€¦
 
-
+â€
 
-
+â€œ
 
 [Marcus
-        Hüwe: osc code cleanup - summary of week 11](http://lists.opensuse.org/opensuse-project/2011-08/msg00029.html)
+        HÃ¼we: osc code cleanup - summary of week 11](http://lists.opensuse.org/opensuse-project/2011-08/msg00029.html)
 
 Here's a small summary of the 11th (coding) week. This week I spent most of my time with
       working on the wc code.
@@ -371,9 +374,9 @@ TODO:
 
   * package wc: implement a pull method (does the same as "osc pull")
 
-
+â€
 
-
+â€œ
 
 [Sebastian
         Oliva: JSON Weekly report](http://lists.opensuse.org/opensuse-project/2011-08/msg00032.html)
@@ -391,9 +394,9 @@ on the To Do List is: Creating at least an offline submitting client (either GTK
       Finishing the administrative pages configurations. Adding authentication on submitting
       profiles.
 
-
+â€
 
-
+â€œ
 
 [Aditya
         Dani: Test Suite for btrfs - Weekly Update](http://lists.opensuse.org/opensuse-project/2011-08/msg00034.html)
@@ -409,30 +412,30 @@ A new test, test no. 257 was added which handles large file creation and modific
 Both the tests 256 and 257 were modified to handle any snapshot supported generic file
       system. You can find the latest made changes [here](https://github.com/adityadani/xfstests/commits/).
 
-
+â€
 
-
+â€œ
 
 [David John Williams: Entomologist UI Changes - Weekly Report #12](http://redache.wordpress.com/2011/08/12/entomologist-ui-changes-weekly-report-12/)
 
-This week I™ve been working at getting Remember the Milk integration finished. Right now
-      Lists can be added to Remember the Milk and I™m in the middle of implementing update/delete
+This week Iâ€™ve been working at getting Remember the Milk integration finished. Right now
+      Lists can be added to Remember the Milk and Iâ€™m in the middle of implementing update/delete
       functionality. 
 
-It has been a hard week as I™ve never had to use a web based API before and the Remember
-      the Milk one doesn™t seem like the easiest to get to grips with (its beta form is probably
+It has been a hard week as Iâ€™ve never had to use a web based API before and the Remember
+      the Milk one doesnâ€™t seem like the easiest to get to grips with (its beta form is probably
       indicative of this). The main time consumer now is getting the update/delete functionality
-      which isn™t an issue with Remember The Milks API but one of trying to find the right solution
+      which isnâ€™t an issue with Remember The Milks API but one of trying to find the right solution
       that is generic enough to be used with other services so I avoid large chunks of code that are
       specific to a single service.
 
 For the final week I will continue working on integrating Remember the Milk,Google
       Calendar and WebDAV and over the remaining 10 days I will try and get these services fully
       integrated. The final week of GSoC will hopefully be spent on preparing a 1.0 release and any
-      code addition will be kept to a minimum (with a hope that there won™t be any outside of
+      code addition will be kept to a minimum (with a hope that there wonâ€™t be any outside of
       merging). 
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
@@ -454,25 +457,25 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
+â€œ
 
 
-
-          [Sebastian Kügler: Plasma Active](http://vizzzion.org/blog/2011/08/plasma-active-contour-demo/)
+          [Sebastian KÃ¼gler: Plasma Active](http://vizzzion.org/blog/2011/08/plasma-active-contour-demo/)
         
 
 [MeegoExperts](http://www.meegoexperts.com/2011/08/video-demo-contour-running-plasma-active-meego-desktop-summit/)Â has done an interview here at theÂ [Desktop Summit](http://vizzzion.org/blog/2011/08/plasma-active-contour-demo/)Â in Berlin with Fania and Marco. The video explains concepts and user
-          experience inÂ [Plasma Active](http://community.kde.org/Plasma/Active)˜sÂ [Contour](http://community.kde.org/Plasma/Active/Contour)Â Shell. Have a look yourself to learn about this next-generation user
+          experience inÂ [Plasma Active](http://community.kde.org/Plasma/Active)â€˜sÂ [Contour](http://community.kde.org/Plasma/Active/Contour)Â Shell. Have a look yourself to learn about this next-generation user
           experience for consumer devices, based on our beloved Free Software stack.
 
 See the video on [Youtube](http://www.youtube.com/watch?v=n_aCSetmdL8).
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 361)](https://features.opensuse.org/120340)
@@ -481,9 +484,9 @@ See the video on [Youtube](http://www.youtube.com/watch?v=n_aCSetmdL8).
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 188)](https://features.opensuse.org/305493)
@@ -498,9 +501,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 162)](https://features.opensuse.org/305305)
@@ -508,9 +511,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 145)](https://features.opensuse.org/308497)
@@ -528,9 +531,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 107)](https://features.opensuse.org/305877)
@@ -551,13 +554,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Package Installations should be chroot aware!](https://features.opensuse.org/312718)
@@ -569,9 +572,9 @@ Installing: filesystem-12.1-26.1 [error] Installation of filesystem-12.1-26.1 fa
 
 Of cause I bind mount /proc read only! In a chroot doing a mount of /proc is recommended for many purposes. For example an installation attempt of gentoo stage will fail without /proc mounted. As this /proc mounting is a standard procedure I prioritize this feature as mandatory ...
 
-
+â€
 
-
+â€œ
 
 
             [Provide i386 version of valgrind on amd64 hosts](https://features.opensuse.org/312723)
@@ -586,9 +589,9 @@ $ valgrind ./a.out
 
 valgrind: failed to start tool 'memcheck' for platform 'x86-linux': No such file or directory
 
-
+â€
 
-
+â€œ
 
 
             [Kmail Backup + Recover](https://features.opensuse.org/312725)
@@ -599,9 +602,9 @@ It could easily copy all necesary data-files into a backup-folder.
 
 Maybe selective backup (or selective recover) could be useful as some of the configurations are no longer desired.
 
-
+â€
 
-
+â€œ
 
 
             [opensuse 12.1 to implement Owncloud support](https://features.opensuse.org/312726)
@@ -619,13 +622,13 @@ Having Owncloud 2.0 support to:
 
 Would be awesome!
 
-[https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/](https://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/)
+[http://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/](http://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/)
 
 Can we have it please?
 
-
+â€
 
-
+â€œ
 
 
             [Package Software Center with PackageKit backend](https://features.opensuse.org/312728)
@@ -647,7 +650,7 @@ Other dependencies:
 
 - po4a (needed by software-center setup.py)
 
-
+â€
 
 ##### Feature Statistics
 
@@ -655,7 +658,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry
@@ -683,14 +686,14 @@ Our next IRC meeting will be at 17:00 UTC, August 15 on Channel
 The last one is optional. Once these repos are selected (and enabled), then do 'sudo
           zypper dup'. Although the result announces itself as MS3, it really is MS4. 
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
@@ -700,25 +703,25 @@ Past
 
   * [August 6-12, 2011 : The Desktop Summit (Berlin, Germany)](http://desktopsummit.org/)
 
-  * [August 08, 2011 : osc11 Orga Meeting](https://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
+  * [August 08, 2011 : osc11 Orga Meeting](http://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
 
-  * [August 09, 2011 : Birthday of openSUSE Project](https://news.opensuse.org/2007/08/09/birthday-of-opensuse-project/)
+  * [August 09, 2011 : Birthday of openSUSE Project](http://news.opensuse.org/2007/08/09/birthday-of-opensuse-project/)
 
-  * [August 10, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [August 10, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 Upcoming
 
-  * [August 15, 2011 : osc11 Orga Meeting](https://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
+  * [August 15, 2011 : osc11 Orga Meeting](http://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
 
-  * [August 16, 2011 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [August 16, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
   * [August 17-19, 2011 : Linuxcon (Vancoever, Canada)](http://events.linuxfoundation.org/events/linuxcon)
 
-  * [August 21, 2011 : Open Bugs Day by Testing Core Team](https://news.opensuse.org/2011/07/25/open-bugs-day-by-testing-core-team/)
+  * [August 21, 2011 : Open Bugs Day by Testing Core Team](http://news.opensuse.org/2011/07/25/open-bugs-day-by-testing-core-team/)
 
-  * [August 22, 2011 : osc11 Orga Meeting](https://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
+  * [August 22, 2011 : osc11 Orga Meeting](http://news.opensuse.org/2011/07/25/osc11-orga-meeting/)
 
-You can find more information on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -740,7 +743,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 [openSUSE-SU-2011:0884-1: important: apache2-mod_fcgid: fixed possible stack overflow due to
         wrong pointer arithmetic (CVE-2010-3872)](http://lists.opensuse.org/opensuse-security-announce/2011-08/msg00004.html)
@@ -786,9 +789,9 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >A possible stack overflow in apache2-mod_fcgid due to wrong pointer arithmetic has
             been fixed. CVE-2010-3872 has been assigned to this issue.
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [openSUSE-SU-2011:0897-1: critical: flash-player](http://lists.opensuse.org/opensuse-security-announce/2011-08/msg00008.html)
@@ -835,9 +838,9 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >An update that fixes 13 vulnerabilities is now available. It includes one version
             update.
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [openSUSE-SU-2011:0902-1: important: ecryptfs-utils: Update to fix various symlink race
@@ -884,11 +887,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixes several security problems
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: First release candidate for Linux 3.1](http://www.h-online.com/open/features/Kernel-Log-First-release-candidate-for-Linux-3-1-1319559.html)
@@ -912,35 +915,35 @@ Kernel development has now entered the stabilising phase, which Torvalds and his
       instance, the code for software RAIDs will, on some RAID levels, be able to handle media that
       contain defective blocks. (...)
 
-
+â€
 
-
+â€œ
 
 
       [Rares
-        Aioanei: kernel weekly news “ 13.08.2011](http://schaiba.wordpress.com/2011/08/13/kernel-weekly-news-13-08-2011/)
+        Aioanei: kernel weekly news â€“ 13.08.2011](http://schaiba.wordpress.com/2011/08/13/kernel-weekly-news-13-08-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [MakeUseOf/Yaara Lancet: Organize Your Research With The New Standalone Zotero](http://www.makeuseof.com/tag/organize-research-standalone-zotero/)
       
 
 Everyone in the world of research, and many people outside of it, knows that a good
-        citation manager and [PDF organizer](http://www.makeuseof.com/tag/3-pdf-document-management-tools-organizing-research/) is a must if you want to keep track of all the papers you™ve read
-        and accumulated. For the past two years, I™ve been using Zotero to organize my research for
+        citation manager and [PDF organizer](http://www.makeuseof.com/tag/3-pdf-document-management-tools-organizing-research/) is a must if you want to keep track of all the papers youâ€™ve read
+        and accumulated. For the past two years, Iâ€™ve been using Zotero to organize my research for
         articles. Zotero is a [Firefox](http://www.makeuseof.com/tags/firefox/) add-on in which you can save citations and links to [PDFs](http://www.makeuseof.com/tags/pdf/) and access them at any time.
 
-One of Zotero™s biggest cons is that it works only within Firefox. This means you have
+One of Zoteroâ€™s biggest cons is that it works only within Firefox. This means you have
         to be running Firefox and use it to save the articles you find. As long as I was using
         Firefox, this was not a big issue, but when I switched to [Chrome](http://www.makeuseof.com/tags/chrome/) for a while, it became quite
         cumbersome. Not to speak of the fact that I had to load Firefox every time I wanted to look
@@ -949,12 +952,12 @@ One of Zotero™s biggest cons is that it works only within Firefox. This means 
 This is why I was delighted to find out that Zotero have come up with Standalone Zotero
         Alpha (Windows, Mac and Linux) and with Chrome and Safari connectors for it. Note that this
         project is still in alpha, so it is not perfect by any means. These new versions came out in
-        February, so hopefully we™ll see some updates soon. Now let™s see what it can do to organize
+        February, so hopefully weâ€™ll see some updates soon. Now letâ€™s see what it can do to organize
         your research. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Danny Kukawka: How to undelete files from ext3/ext4](http://dkukawka.blogspot.com/2011/08/how-to-undelete-files-from-ext3ext4.html)
@@ -970,19 +973,19 @@ If you use ext3/ext4 you may be able to recover the file with [ext3grep](http://
         file system journal if the content of the file wasn't already overwritten by new
         data. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Techlaze: Top 5 Plasma Widgets for the KDE Desktop](http://techlaze.com/2011/08/best-plasma-widgets-kde/)
       
 
-With KDE 4.7, the KDE team has managed to create one of the most beautiful desktops out there, and to be honest, it™s even more appealing than Windows 7 or Mac OS X. On the usability front, KDE doesn™t seem to cut corners. Trademark features like Activities and Plasmoids (widgets) are polished to near perfection. Also, since the initial KDE 4 release, a lot of quality community-created widgets and plugins have sprung up, making the KDE workspace more than just an alternative to GNOME 3 or Unity. So, if you™ve just installed KDE on your computer, here are some of the best widgets you can drop on to your desktop and make your friends jealous. (...)
+With KDE 4.7, the KDE team has managed to create one of the most beautiful desktops out there, and to be honest, itâ€™s even more appealing than Windows 7 or Mac OS X. On the usability front, KDE doesnâ€™t seem to cut corners. Trademark features like Activities and Plasmoids (widgets) are polished to near perfection. Also, since the initial KDE 4 release, a lot of quality community-created widgets and plugins have sprung up, making the KDE workspace more than just an alternative to GNOME 3 or Unity. So, if youâ€™ve just installed KDE on your computer, here are some of the best widgets you can drop on to your desktop and make your friends jealous. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Hubfolio/Matthew Casperson: Copying the contents of a file to the clipboard in Nautilus](http://www.brighthub.com/hubfolio/matthew-casperson/blog/archive/2011/08/08/copying-the-contents-of-a-file-to-the-clipboard-in-nautilus.aspx)
@@ -992,9 +995,9 @@ Hi - my name is Matthew, and I am a copy-and-paste addict. I have no idea how I 
 
 One script that I did [come across recently](http://askubuntu.com/questions/55626/right-click-copy-contents-of-file-to-clipboard) allows you to copy the contents of files selected in the Nautilus Gnome file browser to the clipboard. This is great for copying things like code snippets and customized email signatures for those applications that don't natively offer that functionality. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Linux Journal/Bruce Byfield: Printing in Scribus](http://www.linuxjournal.com/content/printing-scribus)
@@ -1006,11 +1009,11 @@ Fortunately, Scribus usually chooses defaults that fit most cases. It also provi
 
 Still, once you know the work-flow, printing in Scribus is relatively straight-forward. Many of the options are either specifically for professional-quality printing, or for fixing specific problems. Taking the time to familiarize yourself with the options, gives you the chance to come closer to the perfectionism that is impossible in office applications. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [HowtoForge/Christian Schmalfeld: First Steps Of Running Linux Via Terminal Instead Of Desktop](http://www.howtoforge.com/first-steps-of-running-linux-via-terminal-instead-of-desktop)
@@ -1018,11 +1021,11 @@ Still, once you know the work-flow, printing in Scribus is relatively straight-f
 
 This tutorial is supposed to show new Linux users how to handle Linux without having to browse through your desktop to edit files. The core commands to do this are the same on every Linux distribution, however there is a large variety of commands that differ from distribution to distribution, as does the install command. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Python4Kids/Brendan Scott: Using Images in the GUI](http://python4kids.wordpress.com/2011/08/08/using-images-in-the-gui/)
@@ -1045,34 +1048,34 @@ In this tutorial we look at using images in a GUI environment. One of the possib
               Python can only handle a few limited types of image file. One of the file types which
               will work is .gif, which we will be using here. This tutorial**will not work** with jpeg files.
 
-  * third, you need to have the gif files we™re going to use in your python for kids
+  * third, you need to have the gif files weâ€™re going to use in your python for kids
               directory. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Nettuts+/Andrew Burgess: Ruby for Newbies: Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/)
       
 
-Ruby is a one of the most popular languages used on the web. We™re running a Session here on Nettuts+ that will introduce you to Ruby, as well as the great frameworks and tools that go along with Ruby development. In this episode, you™ll learn about testing your Ruby code with [Rspec](http://rspec.info/), one of the best testing libraries in the business. (...)
+Ruby is a one of the most popular languages used on the web. Weâ€™re running a Session here on Nettuts+ that will introduce you to Ruby, as well as the great frameworks and tools that go along with Ruby development. In this episode, youâ€™ll learn about testing your Ruby code with [Rspec](http://rspec.info/), one of the best testing libraries in the business. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [Wazi/Juliet Kemp: Supercharge Nagios with Plugins](http://olex.openlogic.com/wazi/2011/supercharge-nagios-with-plugins/)
       
 
-[Nagios](http://olex.openlogic.com/packages/nagios) is a great application for monitoring your systems, allowing you to set alert levels and trip actions when those levels are reached. The software uses a plugin-based structure; even the most simple functions (such as check_ssh and check_disk) are plugins. This makes Nagios incredibly flexible; if there™s something you want to monitor, and you can think of a way to write it, you can write a plugin, hook it into Nagios, and start running it. But even better than that: for most things you might want to monitor, someone has already done written the plugin for you. (...)
+[Nagios](http://olex.openlogic.com/packages/nagios) is a great application for monitoring your systems, allowing you to set alert levels and trip actions when those levels are reached. The software uses a plugin-based structure; even the most simple functions (such as check_ssh and check_disk) are plugins. This makes Nagios incredibly flexible; if thereâ€™s something you want to monitor, and you can think of a way to write it, you can write a plugin, hook it into Nagios, and start running it. But even better than that: for most things you might want to monitor, someone has already done written the plugin for you. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Houcem Hachicha: Nmap : The Pentester's One Step Shop to Network Domination ](http://aim4r.blogspot.com/2011/08/nmap-pentesters-one-step-shop-to.html)
@@ -1082,21 +1085,21 @@ Nmap is one of the best security software in the world. It is free and open sour
 Originally, Nmap is a network portscanner. The tool has then been extended to perform service and OS identification. With the addition of the Nmap Scripting Engine (NSE) back in 2008, Nmap is today capable of performing vulnerability scanning and even exploitation.
 In this blog, I'll try to describe some of the Nmap capabilities that can be harnessed in blackbox penetration testing. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Flossstuff/Ankur Aggarwal: Using A File As A Storage Device](http://flossstuff.wordpress.com/2011/08/07/using-a-file-as-a-storage-device/)
       
 
-We all know that file stores our information in many types of formats. But do you know that  we can use it as a storage device too. Surprised???? Let™s go through the crazy process :D
+We all know that file stores our information in many types of formats. But do you know that  we can use it as a storage device too. Surprised???? Letâ€™s go through the crazy process :D
 
 We are going to create a empty file in Linux, format it and then mount it as if we are mounting a partition.  This process is long , So to understand it easily I am dividing it into 4 steps. (...)
 
-
+â€
 
-
+â€œ
 
 
         [IBM developerWorks/Sean A. Walberg: Learn Linux, 302 (Mixed environments): Print services](http://www.ibm.com/developerworks/linux/library/l-lpic3-312-3/index.html?ca=drs-)
@@ -1117,39 +1120,39 @@ In this article, learn to:
   * Set up and manage print accounting
 (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
+â€œ
 
-
-[Sebastian Kügler:
+[Sebastian KÃ¼gler:
         Desktop Summit Thoughts](http://vizzzion.org/blog/2011/08/desktop-summit-thoughts/)
 
-I™ve been to theÂ [Desktop Summit](http://desktopsummit.org/)Â in Berlin
-      for the past few days, we™re now around the middle of the event, after the conference, before
-      the workshop and BoF sessions, so I thought I might share some thoughts I™ve gathered in idle
+Iâ€™ve been to theÂ [Desktop Summit](http://desktopsummit.org/)Â in Berlin
+      for the past few days, weâ€™re now around the middle of the event, after the conference, before
+      the workshop and BoF sessions, so I thought I might share some thoughts Iâ€™ve gathered in idle
       moments in the past few days.
 
 **boredom and diversity**
 
 Last night, the build system BoF was planned, a team session where we look at the way how
       we develop our software. I have to admit that to me, this is quite a boring (but nevertheless
-      very important topic). As it also affects the way we release software, I™ve put my release
-      team hat on and joined the session. I was a bit afraid that since it™s not the most sexy topic
+      very important topic). As it also affects the way we release software, Iâ€™ve put my release
+      team hat on and joined the session. I was a bit afraid that since itâ€™s not the most sexy topic
       in the world, that little people would show and we end up with incomplete or broken ways to
       release the KDE SC, and KDE Frameworks in the future. My worries were ungrounded as quite some
-      people showed up and we made good progress on all the topic we talked about. (If you™re
+      people showed up and we made good progress on all the topic we talked about. (If youâ€™re
       interested what we talked about, keep an eye on the kde-core-devel and kde-buildsystem
-      mailinglists.) What struck me is that in KDE, there™s enough people who feel responsible, even
+      mailinglists.) What struck me is that in KDE, thereâ€™s enough people who feel responsible, even
       for boring topics. When I shared my (ungrounded) concerns with Stephen Kelly, he looked at me
-      with this empty expression on his face and told me but that™s exciting, it™s the way we build
-      our software!, and given his enthusiasm, I believe him (even if I don™t exactly personally
+      with this empty expression on his face and told me â€œbut thatâ€™s exciting, itâ€™s the way we build
+      our software!â€, and given his enthusiasm, I believe him (even if I donâ€™t exactly personally
       share his excitement). Diversity makes us strong. (...)
 
-
+â€
 
-
+â€œ
 
 [Matthias Hopf: SUSE graphical
         benchmark test](http://emmes.livejournal.com/9967.html)
@@ -1171,9 +1174,9 @@ The sources for the benchmark are now on gitorious, and the [Wiki
       might run into minor issues when running it on a different OS version. And of course, it's not
       very polished yet .
 
-
+â€
 
-
+â€œ
 
 [Holger Hetterich: SMB Traffic Analyzer @ openSUSE conference](http://holger123.wordpress.com/2011/08/11/smb-traffic-analyzer-opensuse-conference/)
 
@@ -1184,7 +1187,7 @@ Should you read this article in a blog roll, here is a clue what it is about: a)
 
 You guess it, we finally got a slot for a presentation at the wonderful [openSUSE conference](http://conference.opensuse.org/) for [SMBTA](http://holger123.wordpress.com/smb-traffic-analyzer/). To me, it is
       remarkable to see a project like SMBTA being presented at OSC because it is not really
-      something related to openSUSE. It™s not that SMBTA improves your boot time, or discusses
+      something related to openSUSE. Itâ€™s not that SMBTA improves your boot time, or discusses
       details of the [buildservice](https://build.opensuse.org/), or makes your
       life with the openSUSE distribution better in any way. SMBTA is very likely not even
       interesting to the casual user, except for some administrators.
@@ -1195,7 +1198,7 @@ That said, SMBTA was born inside of the openSUSE infrastructure, growing to a pr
       the openSUSE Buildservice from the beginning, and we use appliances created by [SUSE Studio](http://susestudio.com/) for both demoing and developing
       SMBTA.
 
-With the recent release of [Samba 3.6.0, among it™s top
+With the recent release of [Samba 3.6.0, among itâ€™s top
         changes like full SMB2 support and other major features](http://www.samba.org/samba/news/releases/3.6.0.html), it is also prime time for
       SMBTA. The** Virtual File System layer** module that supports our
       current infrastructure is included in this release of the Samba CIFS server and that marks
@@ -1205,13 +1208,13 @@ With the recent release of [Samba 3.6.0, among it™s top
 
 Benjamin Brunner and me will give an introduction talk to SMB Traffic Analyzer at the
       openSUSE conference and most likely **live-demo** the software
-      chain. We™ll welcome anyone interested to join our presentation at OSC!
+      chain. Weâ€™ll welcome anyone interested to join our presentation at OSC!
 
-
+â€
 
+â€œ
 
-
-[Sebastian Kügler: Board
+[Sebastian KÃ¼gler: Board
         Business](http://vizzzion.org/blog/2011/08/board-business/)
 
 Tonight, the new board of directors of KDE e.V. went out for dinner, generously (!)
@@ -1221,47 +1224,47 @@ It was a nice and relaxed dinner, gave us some good opportunity to brief Lydia (
       board member) on how we work, boring stuff like where we store our documents, what to expect
       from our bi-weekly conference calls, what granularity of emailing we found to be productive,
       and so on. One official thing we always have to do (according to German foundation
-      regulations, so-called Vereinsrecht) is appointing roles. Cornelius was volunteered as
+      regulations, so-called â€œVereinsrechtâ€) is appointing roles. Cornelius was volunteered as
       president, Frank as treasurer, both accepted their new and old responsibilities. I promoted
       from regular board member to vice president (which really only has a a theoretical meaning).
       The vote was, as usual a formal thing and we got it done between dumpling 2 and 3 on my plate,
       it took all of 3 minutes. Serious, effective, yet duely diligent. :P 
 
 We also used the opportunity to talk about non-board stuff, about our other projects in
-      KDE (we™re also pretty active in the community outside of the board chores), private going
+      KDE (weâ€™re also pretty active in the community outside of the board chores), private going
       ons, random fun things. I came back happy about our team, and looking forward to our work in
       the coming year. Just right. 
 
 Earlier this afternoon, we met with the GNOME board. There were also some personal changes
       in the new GNOME board, I especially enjoyed Ryan Lortie (desrt) having joined the board of
-      directors of the GNOME foundation. I™ve met Ryan at several occasions in the past, and always
+      directors of the GNOME foundation. Iâ€™ve met Ryan at several occasions in the past, and always
       found that we got a good click, enough differences to keep conversations interesting, but very
       much one the same line of communication. One of the topics was communications across the
-      boards, and we thought that having some kind of ˜open communication channel™ for situtations
+      boards, and we thought that having some kind of â€˜open communication channelâ€™ for situtations
       which might turn unproductive would be good. Ryan and me volunteered, and we took immediate
       opportunity and went out for an afternoon drink, which I very much enjoyed. 
 
 While going to our dinner appointment, I had really two things in mind, love and hate. Not
       sure why those two words sprang to my mind, but I really hate saying goodbye to the people I love.
-      Even if it™s very much a temporary thing (our meetings in the Plasma team have become pretty
+      Even if itâ€™s very much a temporary thing (our meetings in the Plasma team have become pretty
       frequent, especially with Plasma Active One being on the horizon), having people leave after
-      an intensive week of excellent collaboration always makes me kind of sad. That™s of course
+      an intensive week of excellent collaboration always makes me kind of sad. Thatâ€™s of course
       just an indication of how much I enjoy working in this excellent team, or maybe just a sign of
       exhaustion after a week of pushing the Free desktop to the next level with peers who are as
-      passionate about this as I am. Tomorrow in the afternoon, I™ll take a train back home to the
+      passionate about this as I am. Tomorrow in the afternoon, Iâ€™ll take a train back home to the
       Netherlands, and will commence putting our plans (and continuation, tweaks thereof) to action.
       Exhausted after week of frantic Free software conferencing, but just as energized as if it
       were my first Akademy.
 
-The coming weekend will be used for catching up on sleep, then next weekend, I™ll be at
-        [Froscon](http://froscon.de), where I™ll be presenting Plasma Active. Be
+The coming weekend will be used for catching up on sleep, then next weekend, Iâ€™ll be at
+        [Froscon](http://froscon.de), where Iâ€™ll be presenting Plasma Active. Be
       there if you want to touch it yourself. :) 
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
 
-
+â€œ
 
 
       [Problems downloading from repos](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/463781-problems-downloading-repos.html)
@@ -1271,9 +1274,9 @@ The coming weekend will be used for catching up on sleep, then next weekend, I�
       Here's a nice story, motto "Don't blame it all on your operating system". The thread starter reports an issue with downloading packages from the repos, so he cannot update or install anything. Happy ending is included, but in a slightly different way than one would think.
     
 
-
+â€
 
-
+â€œ
 
 
     [Zypper update - Wrong digest](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/463477-zypper-update-wrong-digest.html)
@@ -1283,9 +1286,9 @@ The coming weekend will be used for catching up on sleep, then next weekend, I�
       A bit curious, this one. The user gets "wrong digest" errors when he tries to perform a "zypper up" on his newly installed openSUSE 11.4. Interesting thread, no true solution or explanation for the issue yet, but a good example of how others try to analyze the problem and help looking for a way out.
       
 
-
+â€
 
-
+â€œ
 
 
     [Adobe Flashplayer 11 for 64bit linux](http://forums.opensuse.org/english/get-technical-help-here/64-bit/462837-adobe-flash-player-11-64-bit-linux-beta.html)
@@ -1295,9 +1298,9 @@ The coming weekend will be used for catching up on sleep, then next weekend, I�
       It's been quite quiet on this front for a while, it even looked like Adobe was dropping 64bit support for linux anyway, but here's a thread about the release of a beta version of Flashplayer 11 in a 64bit version. For those interested in this matter, read it, share your own experiences.
       
 
-
+â€
 
-
+â€œ
 
 
       openSUSE Language specific subforums:
@@ -1311,18 +1314,18 @@ We now host the following language specific subforums under the umbrella of the 
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Announcements
 
-
+â€œ
 
 
         [Samba Team Releases Version 3.6](http://www.samba.org/samba/news/releases/3.6.0.html)
@@ -1336,11 +1339,11 @@ Samba 3.6 includes the first Free Software implementation of Microsoft's new SMB
 
 Samba's new SMB2 server has been tested by major vendors and has been able to double the performance of some network applications when run in conjunction with Microsoft Windows 7Â® clients. (...)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 
         [itworld/Brian Proffitt: KDE 5.0 roadmap announced](http://www.itworld.com/mobile-wireless/191083/kde-50-roadmap-announced)
@@ -1360,27 +1363,27 @@ According to Seigo, the new KDE Frameworks roadmap, which will encompass "the ne
         modularity, dependency clarity/simplification and increasing quality to the next level."
         (...)
 
-
+â€
 
-
+â€œ
 
 
         [ZDNet/Steven J. Vaughan-Nichols: Cisco and Twitter join Linux patent protection pool](http://www.zdnet.com/blog/open-source/cisco-and-twitter-join-linux-patent-protection-pool/9372)
       
 
-In case you™ve been under a rock for the last decade, you might not know that today™s technology wars aren™t over who has the best prices, the most features, or the greatest quality. No, in 2011, instead of working on innovating, tech. giants like Apple, Microsoft, and Oracle, are now wasting their resources on intellectual property (IP) lawsuits. So, perhaps it should come as no surprise that networking powerhouse [Cisco](http://www.cisco.com/) and social networking force [Twitter](http://www.twitter.com/), is joining the Linux patent protection group, the [Open Invention Network (OIN)](http://www.openinventionnetwork.com/). (...)
+In case youâ€™ve been under a rock for the last decade, you might not know that todayâ€™s technology wars arenâ€™t over who has the best prices, the most features, or the greatest quality. No, in 2011, instead of working on innovating, tech. giants like Apple, Microsoft, and Oracle, are now wasting their resources on intellectual property (IP) lawsuits. So, perhaps it should come as no surprise that networking powerhouse [Cisco](http://www.cisco.com/) and social networking force [Twitter](http://www.twitter.com/), is joining the Linux patent protection group, the [Open Invention Network (OIN)](http://www.openinventionnetwork.com/). (...)
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [Wazi/Brian Proffitt: LibreOffice vs. OpenOffice.org: Showdown for Best Open Source Office Suite](http://olex.openlogic.com/wazi/2011/libreoffice-vs-openoffice-org-showdown-for-best-open-source-office-suite/)
       
 
-With the release of a new version ofÂ [LibreOffice](http://www.libreoffice.org/)Â this month, it™s a good time to look at the two major open source
+With the release of a new version ofÂ [LibreOffice](http://www.libreoffice.org/)Â this month, itâ€™s a good time to look at the two major open source
         office suites, LibreOffice and[OpenOffice.org](http://olex.openlogic.com/packages/openoffice), to see what advantages each offers, and which is a better bet for
         end users.
 
@@ -1402,9 +1405,9 @@ A few months later,Â [Oracle opted to donate the OpenOffice.org project to the
         maintains OpenOffice.org as a so-called podling project until OpenOffice.org completes the
         migration process to become fully integrated within the Apache organization. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Charles E. Craig, Jr.: What is the difference between GNOME, KDE, Xfce, and LXDE?](http://www.renewablepcs.com/about-linux/kde-gnome-or-xfce)
@@ -1412,9 +1415,9 @@ A few months later,Â [Oracle opted to donate the OpenOffice.org project to the
 
 In Linux, there are so many choices, and this includes the desktop environments and window managers. Four of the most popular [desktop environments](http://en.wikipedia.org/wiki/Desktop_environment) in Linux are [GNOME](http://www.gnome.org/), [KDE](http://www.kde.org/), [Xfce](http://www.xfce.org/), and [LXDE](http://lxde.org/). All four offer sophisticated point-and-click [graphical user interfaces (GUI)](http://en.wikipedia.org/wiki/Graphical_user_interface) which are on par with the desktop environments found in [Windows](http://en.wikipedia.org/wiki/Windows) and [Mac OS X](http://en.wikipedia.org/wiki/Mac_osx). When you ask different people which of these four is best, you will likely get many different answers. So which is the best between GNOME, KDE, Xfce, and LXDE? Well..... it is largely a matter of opinion, and the capabilities of your computer hardware can also be important in deciding. For example, users with older computers will be better served to choose Xfce or especially LXDE, while users with newer hardware can get more desktop effects by choosing GNOME or KDE. My recommendation would be to try all four of these desktop environments and decide for yourself which one works best for you. GNOME, KDE, Xfce, and LXDE are all excellent and to varying degrees each can be customized in a number of ways. My personal favorite is GNOME 2.x which is slowly being replaced by GNOME 3, though (very fortunately) GNOME 2.x is still being kept alive in [Linux Mint](http://www.linuxmint.com/), [Debian](http://www.debian.org/), and some other distros. Of the most recent desktop environments, my favorite is the newly-released Xfce 4.8. (...)
 
-
+â€
 
-
+â€œ
 
 
         [Network World/Stephen Spector: Can you be open source and not open source?](http://www.networkworld.com/community/node/77342)
@@ -1434,30 +1437,30 @@ Most people think of open source projects having the following features in commo
 
   * Public Release Schedule
 
-Of course, there may be other items that are commonly considered features, however, I want to focus on the second bullet; Process to Submit Code Changes. If an open source project has all of the above features except doesn™t accept code changes, is it no longer an open source project? (...)
+Of course, there may be other items that are commonly considered features, however, I want to focus on the second bullet; Process to Submit Code Changes. If an open source project has all of the above features except doesnâ€™t accept code changes, is it no longer an open source project? (...)
 
-
+â€
 
-
+â€œ
 
 
         [Wazi/Carla Schroder: Four Steps Toward a Successful Open Source Project](http://olex.openlogic.com/wazi/2011/four-steps-toward-a-successful-open-source-project/)
       
 
-There™s a lot to like about open source software. It can help your business by cutting costs and producing better software. It™s open, auditable, and customizable, and free of the restrictive, invasive licenses and EULAs that infest proprietary software. You can build a community around an open source project, one that incorporates contributions from both staff and outside developers. If you™re wondering how to start up and manage a genuine open source project, here are four fundamental tasks to get you started: start small, build trust and social capital, start smart, and build for the future. (...)
+Thereâ€™s a lot to like about open source software. It can help your business by cutting costs and producing better software. Itâ€™s open, auditable, and customizable, and free of the restrictive, invasive licenses and EULAs that infest proprietary software. You can build a community around an open source project, one that incorporates contributions from both staff and outside developers. If youâ€™re wondering how to start up and manage a genuine open source project, here are four fundamental tasks to get you started: start small, build trust and social capital, start smart, and build for the future. (...)
 
-
+â€
 
 ### Warning!
 
-
+â€œ
 
 
         [the telegraph: 10-year-old girl hacker discovers smartphone security flaw](http://www.telegraph.co.uk/technology/news/8691096/10-year-old-girl-hacker-discovers-smartphone-security-flaw.html)
       
 
 A 10-year-old girl has uncovered a security flaw in popular Android and iOS games after
-      becoming bored at their slow pace.
+      becoming â€œboredâ€ at their slow pace.
 
 FigureÂ 1.Â Farmville is similar to the type of game vulnerable to the attack
 
@@ -1470,23 +1473,23 @@ The young hacker, whose real name has not been disclosed, presented her findings
         Defcon conference in Las Vegas as part of a competition to find the next generation of
         computer security experts.
 
-Going by the hacker name CyFi, she found that she could manually advance the clock in
+Going by the hacker name â€œCyFiâ€, she found that she could manually advance the clock in
         unnamed games to avoid waiting for virtual crops to grow. Independent researchers have
         confirmed the vulnerability.
 
 She**
            [told CNET](http://download.cnet.com/8301-2007_4-20089152-12/10-year-old-hacker-finds-zero-day-flaw-in-games/)
-        **: It was hard to make progress in the game, because it
-        took so long for things to grow. So I thought, 'Why don't I just change the time?™
+        **: â€œIt was hard to make progress in the game, because it
+        took so long for things to grow. So I thought, 'Why don't I just change the time?â€™â€
 
-CyFi™s hack also involved circumventing measures within the games designed to catch such
+CyFiâ€™s hack also involved circumventing measures within the games designed to catch such
         cheating. She found that disconnecting the device from WiFi and advancing the clock in small
         increments avoided detection.
 
 It has not been revealed how much control the technique grants an attacker over a device
         or which games are vulnerable, to allow developers to patch the security flaw.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1518,7 +1521,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1532,7 +1535,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1564,7 +1567,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 188 is available in: 
 
-  * [English](https://news.opensuse.org/?p=10035)
+  * [English](http://news.opensuse.org/?p=10035)
 
 Coming soon: 
 
@@ -1577,5 +1580,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-		

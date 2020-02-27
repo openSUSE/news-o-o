@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-01-15 17:05:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/01/15/wanted-build-service-contributors/
-title: "Wanted: Build Service Contributors"
+slug: wanted-build-service-contributors
+title: 'Wanted: Build Service Contributors'
+wordpress_id: 1149
 categories:
 - Build Service
 ---
+
 Have you ever wanted to join [Build Service](http://en.opensuse.org/Build_Service) development, but you had no idea what to implement? Would you like a real opportunity to learn Ruby on Rails? This is a great time to start!
 
 The OBS developers have collected smaller projects on this [wiki page](http://en.opensuse.org/Build_Service/Junior_Projects). These projects are ideal for anyone new to OBS development. All you need is a local copy of the Web Client, which can [easily be deployed](http://lizards.opensuse.org/2008/05/07/easy-obs-web-client-development/) on your development system.
@@ -20,4 +23,4 @@ We're happy to mentor new developers and contributors. You can get help on the [
 
 And last, but not least, contributors will receive an openSUSE t-shirt, and SVN access if your patch gets accepted!
 
-Happy Developing. It is very obvious that certain arrangements [https://essay4today.com](https://essay4today.com/) and isc2 cap exam dumps preparations are demanded in order to achieve the desired isc2 certification exam		
+Happy Developing. It is very obvious that certain arrangements  and isc2 cap exam dumps preparations are demanded in order to achieve the desired isc2 certification exam

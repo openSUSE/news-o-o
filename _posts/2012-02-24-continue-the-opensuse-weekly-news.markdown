@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2012-02-24 19:58:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/02/24/continue-the-opensuse-weekly-news/
-title: "Continue the openSUSE Weekly News"
+slug: continue-the-opensuse-weekly-news
+title: Continue the openSUSE Weekly News
+wordpress_id: 12730
 categories:
 - Weekly News
 tags:
@@ -12,7 +14,8 @@ tags:
 - opensuse
 - Weekly News
 ---
-After three years of hard work the chairman of the [openSUSE Weekly News](http://en.opensuse.org/Portal:Weekly_news) team, [Sascha Manns](https://connect.opensuse.org/pg/profile/saigkill) has given up his chair. [![]({{ site.baseurl }}/assets/OWN-oxygen-Planet-SUSE.png)](https://news.opensuse.org/2012/02/24/continue-the-opensuse-weekly-news/own-oxygen-planet-suse/) We have recieved many questions about the future of the Weekly News so we thought to write a little bit about this topic.
+
+After three years of hard work the chairman of the [openSUSE Weekly News](http://en.opensuse.org/Portal:Weekly_news) team, [Sascha Manns](https://connect.opensuse.org/pg/profile/saigkill) has given up his chair. [![](/wp-content/uploads/2012/02/OWN-oxygen-Planet-SUSE.png)](http://news.opensuse.org/2012/02/24/continue-the-opensuse-weekly-news/own-oxygen-planet-suse/) We have recieved many questions about the future of the Weekly News so we thought to write a little bit about this topic.
 <!-- more -->
 
 **Why we need the openSUSE Weekly News?**
@@ -32,4 +35,4 @@ The hard truth is that we need someone who wants to invest a lot of time. You ha
 
 **How can you help?**
 
-If you are interested to produce the Weekly News send an e-mail to: opensuse-marketing@opensuse.org		
+If you are interested to produce the Weekly News send an e-mail to: opensuse-marketing@opensuse.org

@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2011-11-19 14:27:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/11/19/opensuse-12-1-launch-feedback/
-title: "openSUSE 12.1 Launch Feedback"
+slug: opensuse-12-1-launch-feedback
+title: openSUSE 12.1 Launch Feedback
+wordpress_id: 12066
 categories:
 - Distribution
 ---
+
 openSUSE 12.1 was launched on Wednesday and it's time to look back at the successful launch of a great distribution.
 
 We've seen a lot of positive feedback regarding openSUSE 12.1 via [press](http://en.opensuse.org/In_the_press), social networks, blogs etc. The interest in social media is significant with good conversations and new members, our [facebook group](http://www.facebook.com/group.php?gid=2256834487) has grown the last weeks by several hundred new members, the followers of our [@openSUSE twitter](http://twitter.com/#!/openSUSE) increase and the recently launchedÂ [ Google+ page ](https://plus.google.com/110312141834246266844/)is in the circles of over 3200 people.
@@ -122,4 +125,4 @@ Please continue spreading the word about openSUSE 12.1 - and answer questions on
 ## Thank you
 
 
-The openSUSE launchÂ  was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. We™d like to thank all of them. Moreover, we™d like to thank everybodyÂ  to make the changes to the websites so users could download their brand new openSUSE 12.1 and find information about it! We™d also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you haven™t yet!) and of course all contributors of openSUSE who helped to make this release possible!		
+The openSUSE launchÂ  was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. Weâ€™d like to thank all of them. Moreover, weâ€™d like to thank everybodyÂ  to make the changes to the websites so users could download their brand new openSUSE 12.1 and find information about it! Weâ€™d also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you havenâ€™t yet!) and of course all contributors of openSUSE who helped to make this release possible!

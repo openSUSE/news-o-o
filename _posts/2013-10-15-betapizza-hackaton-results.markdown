@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-15 14:10:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/15/betapizza-hackaton-results/
-title: "BetaPizza Hackaton Results"
+slug: betapizza-hackaton-results
+title: BetaPizza Hackaton Results
+wordpress_id: 17006
 categories:
 - Events
 ---
-![Hacking into the night]({{ site.baseurl }}/assets/P1270681-300x225.jpg)
+
+![Hacking into the night](//news.opensuse.org/wp-content/uploads/2013/01/P1270681.jpg)
 Friday a week ago a [Beta Pizza Hackaton](https://news.opensuse.org/2013/09/25/beta-pizza-hackaton-starting-friday/) took place at the SUSE offices and online. 121 people went over more than 580 bugs, screening 440 and fixing 140 of them. The contest was won by Stephan '_coolo'_ Kulow and Dominique '_DimStar_' Leuenberger, with top gold fixers Josef Reidinger and Michael Chang and a honorable mention for Antoine Saroufim.<!-- more -->
 
 
@@ -33,7 +36,7 @@ We set up some facilities:
 
 
 In the various offices, a local BetaPizzaMaster made sure a common room was reserved and pizza was available at the appropriate time.
-![pizza David Standout geekoified]({{ site.baseurl }}/assets/pizza-David-Standout-geekoified-300x225.png)
+![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)
 
 
 ## Results and winners of the bug fixing contest
@@ -69,7 +72,7 @@ So in the end, we have three awards with following winners:
   * ** Honorable mention:** Antoine Saroufim
 
 
-![Taipei Pizza]({{ site.baseurl }}/assets/Taipei-Pizza-300x225.jpeg)
+![Taipei Pizza](//news.opensuse.org/wp-content/uploads/2013/10/Taipei-Pizza.jpeg)
 
 
 ### Local experiences at the SUSE Offices
@@ -83,4 +86,4 @@ The Provo team noted that being in the last timezone meant being pretty lonely. 
 ## More testing?
 
 
-All in all, we fixed lots of bugs, rid the world of some pizza (don't worry, the world isn't running out, and it's [easy to make](https://news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/)) and had fun. But there's more work to do - [openSUSE 13.1 RC1 is out](https://news.opensuse.org/2013/10/11/opensuse-13-1-rc-1-available-time-to-test/) and we're looking forward to more bug reports and fixes!		
+All in all, we fixed lots of bugs, rid the world of some pizza (don't worry, the world isn't running out, and it's [easy to make](https://news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/)) and had fun. But there's more work to do - [openSUSE 13.1 RC1 is out](https://news.opensuse.org/2013/10/11/opensuse-13-1-rc-1-available-time-to-test/) and we're looking forward to more bug reports and fixes!

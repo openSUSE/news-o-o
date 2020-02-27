@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-29 13:58:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/29/opensuse-asia-summit-2018-logo-competition/
-title: "openSUSE.Asia Summit 2018 Logo Competition"
+slug: opensuse-asia-summit-2018-logo-competition
+title: openSUSE.Asia Summit 2018 Logo Competition
+wordpress_id: 20910
 categories:
 - Announcements
 - Conference
@@ -17,7 +19,8 @@ tags:
 - Taipei
 - Taiwan
 ---
-![]({{ site.baseurl }}/assets/logo_conpetition_caption-300x104.png)Today, we will start a logo competition for openSUSE.Asia Summit 2018, which is going to be held in Taipei, Taiwan. A logo is an essential material for the successful summit. As you have seen, the former openSUSE.Asia summits have their unique logos reflecting the communities where the summit took place. Following tradition, we have logo competition to collect great logo for this year’s summit.
+
+![](/wp-content/uploads/2018/05/logo_conpetition_caption.png)Today, we will start a logo competition for openSUSE.Asia Summit 2018, which is going to be held in Taipei, Taiwan. A logo is an essential material for the successful summit. As you have seen, the former openSUSE.Asia summits have their unique logos reflecting the communities where the summit took place. Following tradition, we have logo competition to collect great logo for this year’s summit.
 
 **_The competition is open now and ends on 30 June 2018_**. The organizing team will send “Geeko Mystery Box” as an appreciation for the best logo designed.
 
@@ -110,4 +113,4 @@ The openSUSE.Asia Summit Committee will decide on the logos, subject to the cond
 
 We recommend the artist to use Inkscape, a powerful, free and open source vector graphics tool for all kinds of design.
 
-		
+

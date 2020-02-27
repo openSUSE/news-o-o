@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-08-12 11:17:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/08/12/command-line-tuesdays-part-eight/
-title: "Command Line Tuesdays - Part Eight"
+slug: command-line-tuesdays-part-eight
+title: Command Line Tuesdays - Part Eight
+wordpress_id: 18424
 categories:
 - Distribution
 ---
+
 Yo yo, geekos! Here we are, for the final chapter of our CLT hangout. Today, we'll be talking about job control through which we'll learn how to control processes running on our computer!
 
 <!-- more -->
@@ -74,7 +77,7 @@ How do you get rid of a process if it's become unresponsive? By using the** kill
 
 Kill doesn't exist only for terminating processes, but it was originally designed to send signals to processes. And of course, there are a number of kill signals you can use, which can be different in regard to the application you use. See the table below:
 
-[![kill]({{ site.baseurl }}/assets/snapshot1.png)]({{ site.baseurl }}/assets/snapshot1.png)Do try them out.
+[![kill](/wp-content/uploads/2014/08/snapshot1.png)](/wp-content/uploads/2014/08/snapshot1.png)Do try them out.
 
 
 ##### Conclusion
@@ -88,5 +91,3 @@ We'll be seeing a lot more of each other soon, as there's more series of article
 
 
 ##### ...have a lot of fun!
-
-		

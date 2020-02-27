@@ -1,9 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-25 01:27:48+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/25/2018-2019-opensuse-board-elections-meet-vinzenz-vietzke/
-title: "2018-2019 openSUSE Board Elections: Meet Vinzenz Vietzke"
+slug: 2018-2019-opensuse-board-elections-meet-vinzenz-vietzke
+title: '2018-2019 openSUSE Board Elections: Meet Vinzenz Vietzke'
+wordpress_id: 21608
 categories:
 - Announcements
 - Board
@@ -19,7 +22,6 @@ tags:
 - Election
 - openSUSE Board Elections
 ---
-
 
 ### Seven Candidates in Race for Three Vacant Board Seats
 
@@ -52,7 +54,7 @@ _**The Candidates were asked to give some biographical personal information, suc
 
 My name is Vinzenz Vietzke, but sticking with the much shorter "vinz" or "vinzv" is what I prefer. I'm 34 years old, live in a small town in southern Germany.
 
-({{ site.baseurl }}/assets/vinzv_oct18.jpg) **Vinzenz Vietzke aka vinzv **
+[caption id="attachment_21447" align="alignright" width="300"][![](/wp-content/uploads/2019/01/vinzv_oct18.jpg)](/wp-content/uploads/2019/01/vinzv_oct18.jpg) **Vinzenz Vietzke aka vinzv **[/caption]
 
 Like most German Linux users around my age, I made my first steps with S.u.S.E. back in the late 1990s. Over the years, I moved across various distributions and contributed to quite a few of them in different ways. My day job is product management and marketing at Linux hardware vendor [TUXEDO Computers](https://www.tuxedocomputers.com/en/Infos/News/openSUSE-Leap-15-on-PCs-and-Notebooks-from-TUXEDO-Computers.tuxedo).
 
@@ -72,7 +74,7 @@ Of course, these things are mainly financial efforts and company internal projec
 
 Working together with both the [Board](https://en.opensuse.org/openSUSE:Board) and openSUSE devs during the last year really was a blast. There were huge efforts, ideas, and helping hands everywhere. And, as I'm no developer myself, serving at the Board would be a way to give something back.
 
-({{ site.baseurl }}/assets/poster-election.png) **2018-2019 Election Poster contributed by Aris Winardi**
+[caption id="attachment_21386" align="alignleft" width="368"][![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)](/wp-content/uploads/2018/12/poster-election.png) **2018-2019 Election Poster contributed by Aris Winardi**[/caption]
 
 Furthermore, I believe it's important for the [Community](https://en.opensuse.org/Portal:Project) to have various candidates to pick from. And as I have the time I kinda feel obliged to at least offer my help.
 
@@ -112,4 +114,4 @@ I am a professionally trained pre-school teacher, which one might find useful fo
 
 Email: vinz AT vinzv.de
 XMPP: vinz@vinzv.de
-IRC: vinzv@freenode		
+IRC: vinzv@freenode

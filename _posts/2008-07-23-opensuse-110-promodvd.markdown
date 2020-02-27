@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-07-23 10:17:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/07/23/opensuse-110-promodvd/
-title: "openSUSE 11.0 PromoDVD"
+slug: opensuse-110-promodvd
+title: openSUSE 11.0 PromoDVD
+wordpress_id: 960
 categories:
 - Announcements
 - Distribution
 ---
+
 Again we have some nice, new and shiny PromoDVDs, now with openSUSE 11.0. The main goal is to spread them. Some examples:
 
 - you organize or take part of an event
@@ -23,4 +26,4 @@ and enter your request there. The old order process, sending mails to me or mark
 
 Everything you need to know is explained on that page. If you want information about the PromoDVD in general:
 
-[http://en.opensuse.org/PromoDVD](http://en.opensuse.org/PromoDVD)		
+[http://en.opensuse.org/PromoDVD](http://en.opensuse.org/PromoDVD)

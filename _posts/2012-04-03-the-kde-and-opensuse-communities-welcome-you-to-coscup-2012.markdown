@@ -1,18 +1,21 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-04-03 13:00:11+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/
-title: "The KDE and openSUSE communities welcome you to COSCUP 2012!"
+slug: the-kde-and-opensuse-communities-welcome-you-to-coscup-2012
+title: The KDE and openSUSE communities welcome you to COSCUP 2012!
+wordpress_id: 13126
 categories:
 - Events
 - Project
 ---
-[![Geeko's at the booth]({{ site.baseurl }}/assets/6062126071_f849f28c66_b-300x207.jpg)](https://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/6062126071_f849f28c66_b/)
+
+[![Geeko's at the booth](/wp-content/uploads/2012/04/6062126071_f849f28c66_b.jpg)](http://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/6062126071_f849f28c66_b/)
 [**COSCUP**](http://coscup.org/) is the largest FLOSS conference organized by local communities in Taiwan. The conference has sessions for new users, enthusiastic promoters, coders or anyone who is interested in cutting-edge FLOSS technologies. The goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
 
-At COSCUP 2011, several KDE and openSUSE contributors gave talks and presented ˜cool stuff™ at their booths. This year, we will have a fully dedicated track for KDE and openSUSE and starting today, you can send in session proposals.
+At COSCUP 2011, several KDE and openSUSE contributors gave talks and presented â€˜cool stuffâ€™ at their booths. This year, we will have a fully dedicated track for KDE and openSUSE and starting today, you can send in session proposals.
 
 <!-- more -->
 
@@ -86,4 +89,3 @@ The Program Committee for the KDE/openSUSE track at COSCUP consists of the follo
 
 
   * Greg Kroah-Hartman (the Linux Foundation)
-		

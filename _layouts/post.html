@@ -2,7 +2,7 @@
 layout: default
 ---
 <ol class="breadcrumb">
-	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/"><span class="typcn typcn-news"></span> News</a></li>
+	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/"><span class="fa fa-newspaper-o"></span> News</a></li>
 	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/{{ page.date | date: "%Y" }}">{{ page.date | date: "%Y" }}</a></li>
 	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/{{ page.date | date: "%Y/%m" }}">{{ page.date | date: "%B" }}</a></li>
 	<li class="breadcrumb-item"><a href="{{ site.baseurl }}/{{ page.date | date: "%Y/%m/%d" }}">{{ page.date | date: "%-d" }}</a></li>
@@ -41,10 +41,10 @@ layout: default
 	<div class="col-md-7 col-12 mx-auto text-center">
 		<h5>Share this post:</h5>
 		<p class="h3">
-			<a class="twitter-link px-3 py-2" href="https://twitter.com/intent/tweet?counturl={{ page.url | absolute_url | uri_escape }}&url={{ page.url | absolute_url | uri_escape }}&via=openSUSE"><span class="typcn typcn-social-twitter"></span></a>
-			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | absolute_url | uri_escape }}"><span class="typcn typcn-social-facebook"></span></a>
-			<a class="telegram-link px-3 py-2" href="https://telegram.me/share/url?url={{ page.url | absolute_url | uri_escape }}"><span class="typcn typcn-plane"></span></a>
-			<a class="mail-link px-3 py-2" href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.url | absolute_url | uri_escape }}"><span class="typcn typcn-mail"></span></a>
+			<a class="twitter-link px-3 py-2" href="https://twitter.com/intent/tweet?counturl={{ page.url | absolute_url | uri_escape }}&url={{ page.url | absolute_url | uri_escape }}&via=openSUSE"><span class="fa fa-twitter"></span></a>
+			<a class="facebook-link px-3 py-2" href="https://www.facebook.com/sharer.php?u={{ page.url | absolute_url | uri_escape }}"><span class="fa fa-facebook"></span></a>
+			<a class="telegram-link px-3 py-2" href="https://telegram.me/share/url?url={{ page.url | absolute_url | uri_escape }}"><span class="fa fa-telegram"></span></a>
+			<a class="mail-link px-3 py-2" href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.url | absolute_url | uri_escape }}"><span class="fa fa-envelope"></span></a>
 		</p>
 	</div>
 </div>

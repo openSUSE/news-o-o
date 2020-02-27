@@ -1,14 +1,15 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-07-17 13:58:17+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/07/17/opensuse-board-announcement/
-title: "openSUSE Board Announcement"
+slug: opensuse-board-announcement
+title: openSUSE Board Announcement
+wordpress_id: 18206
 categories:
 - Announcements
 ---
-
 
 Hi all,
 
@@ -41,5 +42,3 @@ With the change in role for Richard his elected Board seat becomes vacant. We ar
 
 
 Your openSUSE Board
-
-		

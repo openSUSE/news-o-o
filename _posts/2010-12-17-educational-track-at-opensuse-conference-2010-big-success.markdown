@@ -1,16 +1,19 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2010-12-17 17:10:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/
-title: "Educational track at openSUSE conference 2010 big success"
+slug: educational-track-at-opensuse-conference-2010-big-success
+title: Educational track at openSUSE conference 2010 big success
+wordpress_id: 5308
 categories:
 - Events
 tags:
 - Education
 ---
-(https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/heinz-skolelinux/)
+
+[caption id="attachment_5382" align="alignright" width="300" caption="Heinz on Skolelinux"][![Heinz on Skolelinux](/wp-content/uploads/2010/10/heinz-skolelinux.jpg)](http://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/heinz-skolelinux/)[/caption]
 
 At the openSUSE conference almost two months ago a special Educational track on Saturday featured talks about the progress on openSUSE Edu-L.i.f.e, the applications it ships and many other educational topics. The goal of the openSUSE  Edu team is to cater for students, educators as well as parents and the software they develop, package and ship has everything required to make computers productive for either home or school usage.
 
@@ -32,7 +35,7 @@ Several demonstrations and talks about linux in schools were given. Besides Skol
 
 The talk from Helmut Hullen, working on Arktur, the oldest Linux school server project (since 1992!) in Germany, shows the enthusiasm of users and developers behind such projects. Arktur is a Slackware based system with a huge community of users. Unfortunately the team developing it has been shrinking and is now down to mostly one person, but they work together with [Heise](http://heise.de), a German magazine, to distribute copies and information about Arktur.
 
-(https://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/edu-in-hallway/)
+[caption id="attachment_5383" align="alignright" width="300" caption="The edu team participating in hallway track"][![The edu team participating in hallway track](/wp-content/uploads/2010/11/edu-in-hallway.jpg)](http://news.opensuse.org/2010/12/17/educational-track-at-opensuse-conference-2010-big-success/edu-in-hallway/)[/caption]
 
 
 ## opsi
@@ -58,4 +61,4 @@ Last year's conference resulted in the setting up of the German/English [linux-f
 
 The team expressed the hope that next year they would have more up-stream projects like the GNOME and KDE edu teams at the conference, as well as an even wider and larger number of topics and talks.
 
-All in all, the Educational track at the openSUSE conference 2010 was extremely successful and the team has a lot of work ahead to integrate all the results!		
+All in all, the Educational track at the openSUSE conference 2010 was extremely successful and the team has a lot of work ahead to integrate all the results!

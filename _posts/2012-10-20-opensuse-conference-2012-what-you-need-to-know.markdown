@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-10-20 12:18:48+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/20/opensuse-conference-2012-what-you-need-to-know/
-title: "openSUSE Conference 2012: What You Need To Know"
+slug: opensuse-conference-2012-what-you-need-to-know
+title: 'openSUSE Conference 2012: What You Need To Know'
+wordpress_id: 14383
 categories:
 - Announcements
 - Conference
 ---
+
 Heya all! We're sure you're terribly excited: On Saturda the awesome four-in-one Linux event [_Linux Days 2012_](http://bootstrapping-awesome.org)Â in Prague kicks off. We've got a few last minute notifications for you as well as reminders and tips on where to find information you'll need!
 
 
@@ -51,4 +54,4 @@ Heya all! We're sure you're terribly excited: On Saturda the awesome four-in-one
 	
   * **TwitterÂ **your impressions using the hashtag #osc12
 
-		
+

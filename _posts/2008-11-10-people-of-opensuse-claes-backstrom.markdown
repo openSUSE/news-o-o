@@ -1,26 +1,110 @@
 ---
 author: News Team
+comments: true
 date: 2008-11-10 11:38:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/11/10/people-of-opensuse-claes-backstrom/
-title: "People of openSUSE: Claes Backstrom"
+slug: people-of-opensuse-claes-backstrom
+title: 'People of openSUSE: Claes Backstrom'
+wordpress_id: 1078
 categories:
 - People of openSUSE
 ---
+
 This week on 'People of openSUSE' we have interviewed openSUSE Election Committee member, Senior Linux Trainer and VMware Trainer Claes Backstrom. Besides all these titles he has he still has time to package games on openSUSE Build Service, beta testing, and promoting openSUSE in his North European cold country, Sweden!
 
 <!-- more -->
-![]({{ site.baseurl }}/assets/claes_backstrom.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|etrash or claes|
-|**Homepage/Blog:**|Well I tried a couple of times with both. But I think it's more fun to set up the systems. And when that is done. I have noticed that I never update it. So I have stopped trying. I'm more of a speaker than a writer.|
-|||
-|**Favorite season:**|Summer|
-|**Motto:**|There are no stupid questions only stupid answers.|
-|||
+<table border="0" >
+<tr >
 
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](//news.opensuse.org/wp-content/uploads/2008/11/claes_backstrom.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >etrash or claes
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage/Blog: **
+</td>
+
+<td >Well I tried a couple of times with both. But I think it's more fun to set up the systems. And when that is done. I have noticed that I never update it. So I have stopped trying. I'm more of a speaker than a writer.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Summer
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >There are no stupid questions only stupid answers.
+</td>
+
+<td >
+</td>
+</tr>
+
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -51,7 +135,7 @@ I was 10 years old the first time I sat in front of a computer for the first tim
 
 I got bored at Windows NT, so I was looking around for something new to play with.I had heard some news about GNU/Linux and I had used Unix systems before so I though that GNU/Linux could be fun to play with. So I got out on the net and started to look around. I found a German company that was about to release a new version of their Linux Distribution so I ordered my copy of S.u.S.E Linux 5.3 which was released in July -98 I got my box in August -98. I knew that I would never learn it without using it. So I installed it on my Workstation at work and at home. And since then I have been using GNU/Linux as my main OS. And I have never looked back. And in -99 I started to teach GNU/Linux.
 
-[![]({{ site.baseurl }}/assets/claes_backstrom_picture3-150x150.jpg)]({{ site.baseurl }}/assets/claes_backstrom_picture3.jpg)
+[![](//news.opensuse.org/wp-content/uploads/2008/11/claes_backstrom_picture3.jpg)](//news.opensuse.org/wp-content/uploads/2008/11/claes_backstrom_picture3.jpg)
 
 
 
@@ -319,7 +403,7 @@ Oh yes. Many times.
 
 Not something I always wanted to share. But it's some pictures.
 
-[![]({{ site.baseurl }}/assets/claes_backstrom_picture1-150x150.jpg)]({{ site.baseurl }}/assets/claes_backstrom_picture1.jpg) [![]({{ site.baseurl }}/assets/claes_backstrom_picture2-150x150.jpg)]({{ site.baseurl }}/assets/claes_backstrom_picture2.jpg)
+[![](//news.opensuse.org/wp-content/uploads/2008/11/claes_backstrom_picture1.jpg)](//news.opensuse.org/wp-content/uploads/2008/11/claes_backstrom_picture1.jpg) [![](//news.opensuse.org/wp-content/uploads/2008/11/claes_backstrom_picture2.jpg)](//news.opensuse.org/wp-content/uploads/2008/11/claes_backstrom_picture2.jpg)
 
 My man, he is always happy to see me whatever have happened. 
 
@@ -350,4 +434,4 @@ The next one.
 
 (none)
 
-With that being said, mobbles is a really fun game with a lot of potential behind [mobile spy reviews](https://trymobilespy.com/) it		
+With that being said, mobbles is a really fun game with a lot of potential behind  it

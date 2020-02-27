@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2014-04-25 09:01:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/25/osc-has-started-follow-us-remotely/
-title: "oSC has started - follow us remotely!"
+slug: osc-has-started-follow-us-remotely
+title: oSC has started - follow us remotely!
+wordpress_id: 17868
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-({{ site.baseurl }}/assets/Board.jpg) The Board in Action
+
+[caption id="attachment_17869" align="alignright" width="300"][![board in Action by Svebor](/wp-content/uploads/2014/04/Board.jpg)](/wp-content/uploads/2014/04/Board.jpg) The Board in Action[/caption]
 
 The openSUSE Conference 2014 in Dubrovnik was kicked off just an hour ago by the board, sharing some practical information with those in attendance, a call for help as well as a number of community announcements. Talks will be available via streaming during the event, make sure to check it out!
 
@@ -56,4 +59,4 @@ The sessions at the conference are streamed live. You can find the feeds [on bam
 
 For those at the event: don't forget to return the food card and pay so you get something to eat today, tomorrow and on Sunday!
 
-And a reminder: the conference party on Sunday evening starts at 7:00 P.M. (19:00) at the [EastWest Pub](http://ew-dubrovnik.com/), which is located right at the beach at Frana Supila 4. The pub is just south of the old town and it takes about 15 to 20 minutes to walk there from the venue. [On the way](http://goo.gl/maps/yUoGN) you will pass Sesame where everything starts on Thursday evening.		
+And a reminder: the conference party on Sunday evening starts at 7:00 P.M. (19:00) at the [EastWest Pub](http://ew-dubrovnik.com/), which is located right at the beach at Frana Supila 4. The pub is just south of the old town and it takes about 15 to 20 minutes to walk there from the venue. [On the way](http://goo.gl/maps/yUoGN) you will pass Sesame where everything starts on Thursday evening.

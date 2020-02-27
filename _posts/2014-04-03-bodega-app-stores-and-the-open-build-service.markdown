@@ -1,17 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2014-04-03 13:00:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/03/bodega-app-stores-and-the-open-build-service/
-title: "Bodega, app stores and the Open Build Service"
+slug: bodega-app-stores-and-the-open-build-service
+title: Bodega, app stores and the Open Build Service
+wordpress_id: 17783
 categories:
 - Build Service
 - Distribution
 ---
 
-
-[![]({{ site.baseurl }}/assets/Bodega_Welcome-300x235.png)]({{ site.baseurl }}/assets/Bodega_Welcome.png)
+[![](/wp-content/uploads/2014/03/Bodega_Welcome.png)](/wp-content/uploads/2014/03/Bodega_Welcome.png)
 **Welcome to the Bodega store!**
 
 
@@ -30,7 +31,7 @@ First off, let's find out what Bodega is all about. Aaron explains:
 The most important thing is of course the 'digital asset' term. That can be anything. For example, applications. Applications can be self contained - think how android does its APK files. Of course, things on Linux are often more complicated. Apache isn't exactly a self-contained thing. And look further - perl, php, ruby, they all have their own addons like gems that need managing. Generalizing further, there are manuals. And books in general. Music, movies, pictures, you can go on.
 
 
-[![]({{ site.baseurl }}/assets/Bodega_Account-300x235.png)]({{ site.baseurl }}/assets/Bodega_Account.png)
+[![](/wp-content/uploads/2014/03/Bodega_Account.png)](/wp-content/uploads/2014/03/Bodega_Account.png)
 ** Setting up a Bodega account**
 
 
@@ -50,7 +51,7 @@ Going further, where do you get documentation? For openSUSE, that's [activedoc](
 
 
 
-[![]({{ site.baseurl }}/assets/Bodega_MainScreen-300x235.png)]({{ site.baseurl }}/assets/Bodega_MainScreen.png)
+[![](/wp-content/uploads/2014/03/Bodega_MainScreen.png)](/wp-content/uploads/2014/03/Bodega_MainScreen.png)
 **The main screen of the store**
 
 
@@ -70,7 +71,7 @@ Bodega has all the meta data in one place and offers 'stores' which are views on
 Talking about Appstream, Bodega can of course benefit from the metadata gathered for Appstream. And GNOME's Software Center could be reworked to be a front-end to Bodega, adding books, music and lots of other digital data to its store. This is not meant to be a rewrite of what is there, or an isolated effort!
 
 
-[![]({{ site.baseurl }}/assets/Bodega_ownCloud-300x235.png)]({{ site.baseurl }}/assets/Bodega_ownCloud.png)
+[![](/wp-content/uploads/2014/03/Bodega_ownCloud.png)](/wp-content/uploads/2014/03/Bodega_ownCloud.png)
 **An application in the store**
 
 
@@ -100,7 +101,7 @@ And Bodega is useful for people outside of Linux. You can have your store on you
 
 
 
-[![]({{ site.baseurl }}/assets/Bodega_Preview-300x230.png)]({{ site.baseurl }}/assets/Bodega_Preview.png)
+[![](/wp-content/uploads/2014/03/Bodega_Preview.png)](/wp-content/uploads/2014/03/Bodega_Preview.png)
 **Preview of a wallpaper**
 
 
@@ -118,7 +119,7 @@ This is where you can come in: the team is looking for help in this area and if 
 
 
 
-[![]({{ site.baseurl }}/assets/Bodega_Famous-300x230.png)]({{ site.baseurl }}/assets/Bodega_Famous.png)
+[![](/wp-content/uploads/2014/03/Bodega_Famous.png)](/wp-content/uploads/2014/03/Bodega_Famous.png)
 **Famous books included!**
 
 
@@ -132,4 +133,4 @@ Bodega now contains the entire book set of Project Gutenberg (thousands of aweso
 <blockquote>There is work to be done to include all openSUSE Software in Bodega. The store can use a little work too, but is based on QML which makes it very easy to improve. If you're interested in helping out, let us know!</blockquote>
 
 
-You can contact Aaron on IRC as aseigo in the [#plasma active channel on Freenode](irc://#active@freenode.net), ping him on [Google+](https://plus.google.com/+AaronSeigo/posts) or shoot him a mail on aseigo on the KDE.org servers.		
+You can contact Aaron on IRC as aseigo in the [#plasma active channel on Freenode](irc://#active@freenode.net), ping him on [Google+](https://plus.google.com/+AaronSeigo/posts) or shoot him a mail on aseigo on the KDE.org servers.

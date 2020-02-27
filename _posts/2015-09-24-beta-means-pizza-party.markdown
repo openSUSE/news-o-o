@@ -1,13 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-09-24 12:51:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/24/beta-means-pizza-party/
-title: "Throw a Betafest"
+slug: beta-means-pizza-party
+title: Throw a Betafest
+wordpress_id: 19504
 categories:
 - Events
 ---
+
 [![Prosciutto, anchovy and onion pizza.](http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)Yesterday's release of the first Leap Beta in the 42 series has people excited. Another thing that gets people excited is pizza, so why not combine the two for a Leap Betafest Pizza Party. That's right; there will be plenty of time before the official release, so why not test the beta and eat some pizza. Have a Betafest 42.1!
 
 
@@ -48,4 +51,4 @@ There is plenty of help available on the [Development page](http://en.opensuse.o
 ## Have a lot of fun
 
 
-Whatever bugs you find, remember Betafest is about having fun! It doesn't matter what technical knowledge you or the other visitors have - as long as you are having fun.		
+Whatever bugs you find, remember Betafest is about having fun! It doesn't matter what technical knowledge you or the other visitors have - as long as you are having fun.

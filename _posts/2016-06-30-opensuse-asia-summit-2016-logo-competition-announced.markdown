@@ -1,11 +1,14 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2016-06-30 21:44:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/06/30/opensuse-asia-summit-2016-logo-competition-announced/
-title: "openSUSE.Asia Summit 2016 | Logo competition announced"
+slug: opensuse-asia-summit-2016-logo-competition-announced
+title: openSUSE.Asia Summit 2016 | Logo competition announced
+wordpress_id: 20002
 ---
+
 ![](https://images.unsplash.com/photo-1415202575743-775c5d474848?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e073cf3fe581fddb26acf4a37feae55f)
 
 
@@ -79,4 +82,4 @@ Your phone number. (optional)
 
 The openSUSE.Asia Summit Committee will decide on the logos, subject to the condition, that the logo meets all the requirements. The final decision will be made by openSUSE.Asia Summit Committee and it may not be the highest scored design. We recommend the artist to use Inkscape, a powerful, free and open source vector graphics tool for all kinds of design.
 
-		
+

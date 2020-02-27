@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-01-31 08:43:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/01/31/opensuse-weekly-news-issue-7/
-title: "openSUSE Weekly News, Issue 7"
+slug: opensuse-weekly-news-issue-7
+title: openSUSE Weekly News, Issue 7
+wordpress_id: 632
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 The seventh issue of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/7)! 
 
@@ -31,4 +32,3 @@ In this week's issue:
   * openSUSE 10.3 PromoDVDs Now Available for Order
 
 
-		

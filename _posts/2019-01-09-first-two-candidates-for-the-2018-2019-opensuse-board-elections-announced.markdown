@@ -1,10 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-09 01:19:10+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/09/first-two-candidates-for-the-2018-2019-opensuse-board-elections-announced/
-title: "First Two Candidates for the 2018-2019 openSUSE Board Elections\
-  \ Announced"
+slug: first-two-candidates-for-the-2018-2019-opensuse-board-elections-announced
+title: First Two Candidates for the 2018-2019 openSUSE Board Elections Announced
+wordpress_id: 21434
 categories:
 - Announcements
 - Board
@@ -13,9 +15,10 @@ categories:
 - Infrastructure
 - Project
 ---
+
 The [Elections Committee](mailto:election-officials@opensuse.org) announced today, Tuesday, January 8, 2019, the first two Candidates who have passed the [application and eligibility process](https://en.opensuse.org/openSUSE:Board_election_rules) and are declared as officially running for the [2018-2019 openSUSE Board Elections](https://en.opensuse.org/openSUSE:Board_election) as the **January 13 deadline for Candidate Applications** is swiftly approaching.
 
-({{ site.baseurl }}/assets/Sarah.jpg) Sarah Julia Kriesch aka AdaLovelace, incumbent
+[caption id="attachment_21435" align="alignleft" width="110"][![](/wp-content/uploads/2019/01/Sarah.jpg)](/wp-content/uploads/2019/01/Sarah.jpg) Sarah Julia Kriesch aka AdaLovelace, incumbent[/caption]
 
 Outgoing Board Member [Sarah Julia Kriesch](https://en.opensuse.org/openSUSE:Board), aka AdaLovelace, is seeking her second term on the [Board](https://en.opensuse.org/openSUSE:Board) as an encumbent.  [Sarah](https://sarah-julia-kriesch.eu/2019/01/04/running-for-the-opensuse-board-again/), from Nuremberg, Germany, is a work-experienced student in Computer Science at the Nuremberg Institute of Technology and has been working as a Student Research Assistant.
 
@@ -47,4 +50,4 @@ You can apply for openSUSE Membership by following the [instructions here](https
 
 
 
-		
+

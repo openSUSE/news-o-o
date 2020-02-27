@@ -1,13 +1,16 @@
 ---
-author: Andres Betts
+author: anditosan
+comments: true
 date: 2014-02-22 23:27:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/02/22/opensuse-at-scale-12x/
-title: "openSUSE at SCALE 12x"
+slug: opensuse-at-scale-12x
+title: openSUSE at SCALE 12x
+wordpress_id: 17621
 categories:
 - Events
 ---
+
 Following the recent participation by our team at FOSDEM we would also like to continue in the tradition of showing our team's outreach to different audiences. Over the past couple of years we have also asked a small part of our team to participate in the popular SCALE (Souther California Linux Expo)Â taking place onÂ **Feb. 21-23, 2014**, at theÂ Hilton Los Angeles Airport hotel. SCALE is the first Linux event in the US every year, therefore, they feature over 100 exhibitors and the attendance to the event is quite high. For this reason we will be reporting on each day at the conference.
 
 Our openSUSE team decided to pack bags early on and set up the openSUSE Booth for this year. Just so they can also represent their own local community they also created a banner with a special Southern California twist.
@@ -19,10 +22,10 @@ To make things more interesting and draw a bigger crowd we will be raffling off 
 
 
 	
-  * Grand Prize: Complete Rasberry Pi Starter kit, openSUSE Shirt, openSUSE Aluminum Drinking Vessel, and a copy of the book, SUSE Linux Toolbox (My goodness! If I wasn't part of the booth I would have put my own name down.)
+  * Grand Prize: Complete Rasberry Pi Starter kit, openSUSE Shirt, openSUSE Aluminum Drinking Vessel, and a copy of the book, â€œSUSE Linux Toolboxâ€ (My goodness! If I wasn't part of the booth I would have put my own name down.)
 
 	
-  * 2nd “ 5th place: copy of SUSE Linux Toolbox, openSUSE Aluminum Drinking Vessel, and openSUSE Shirt (Sizes: S “ XXL while supplies lasts)
+  * 2nd â€“ 5th place: copy of â€œSUSE Linux Toolboxâ€, openSUSE Aluminum Drinking Vessel, and openSUSE Shirt (Sizes: S â€“ XXL while supplies lasts)
 
 
 And to also raise some funds for the team and local communities we will be selling the following:
@@ -36,7 +39,7 @@ And to also raise some funds for the team and local communities we will be selli
 
 The big drawing will be held on Sunday at 3:00pm (15:00) and the winner announced on Twitter @SoCalSUSE (winner does not have to be present to claim prizes. We will ship within the U.S.)
 
-Andrew Heintz attended the LPI cram exam course which is a prep course for the LPI exam that will be administered on Sunday. The course was 4 hours long and according to Andrew, It was a good primer for the test, and got us prepared for what the test is going to be like.
+Andrew Heintz attended the LPI cram exam course which is a prep course for the LPI exam that will be administered on Sunday. The course was 4 hours long and according to Andrew, â€œIt was a good primer for the test, and got us prepared for what the test is going to be like.â€
 
 To catch everyone's eyes to our booth we will be posing shirtless on a cube... Just kidding... We will just set up demos of the following:
 
@@ -62,4 +65,4 @@ And for your viewing pleasure some pics for you!
 
 
 
-Article by Zeak Dreger		
+Article by Zeak Dreger

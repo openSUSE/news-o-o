@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-09-04 09:30:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/04/opensuse-releases-leap-milestone-2/
-title: "openSUSE releases Leap Milestone 2"
+slug: opensuse-releases-leap-milestone-2
+title: openSUSE releases Leap Milestone 2
+wordpress_id: 19466
 categories:
 - Leap
 ---
-[![Leap1]({{ site.baseurl }}/assets/Leap1-300x300.png)]({{ site.baseurl }}/assets/Leap1.png)The [second milestone](https://software.opensuse.org/developer) for openSUSE’s newest distribution [Leap](https://en.opensuse.org/Portal:Leap) was released today and it’s filled with packages that will interest open-source users everywhere and [Linux](https://www.linux.com/) professionals looking for a long-term, stable Linux system.
+
+[![Leap1](/wp-content/uploads/2015/07/Leap1.png)](/wp-content/uploads/2015/07/Leap1.png)The [second milestone](https://software.opensuse.org/developer) for openSUSE’s newest distribution [Leap](https://en.opensuse.org/Portal:Leap) was released today and it’s filled with packages that will interest open-source users everywhere and [Linux](https://www.linux.com/) professionals looking for a long-term, stable Linux system.
 
 
 #### “Milestone 2 is realistic to use for non-critical production servers,” said members of the openSUSE release team.
@@ -40,4 +43,4 @@ Oct. 1 is the cut off date for allowing packages to change because of licenses a
 
 The RC1 release will be Oct. 15 and the Goldmaster is scheduled for Oct. 30, so translations, release notes and localization of the release should be completed by Oct. 30.
 
-Journalists should contact [ddemaio@suse.com](mailto:ddemaio@suse.com) to test the Goldmaster prior to the release.		
+Journalists should contact [ddemaio@suse.com](mailto:ddemaio@suse.com) to test the Goldmaster prior to the release.

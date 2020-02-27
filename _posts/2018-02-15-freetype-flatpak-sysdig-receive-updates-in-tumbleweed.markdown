@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-02-15 12:50:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/02/15/freetype-flatpak-sysdig-receive-updates-in-tumbleweed/
-title: "Freetype, Flatpak, Sysdig Receive Updates in Tumbleweed"
+slug: freetype-flatpak-sysdig-receive-updates-in-tumbleweed
+title: Freetype, Flatpak, Sysdig Receive Updates in Tumbleweed
+wordpress_id: 20671
 categories:
 - Distribution
 - Tumbleweed
@@ -36,7 +38,8 @@ tags:
 - weblate
 - yast
 ---
-![]({{ site.baseurl }}/assets/vector-chameleon-213x300.png)The streak of six [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots continued this a week as [openSUSE](https://www.opensuse.org/)’s rolling release has provided a consistent release of six snapshots per week this year.
+
+![](/wp-content/uploads/2016/09/vector-chameleon.png)The streak of six [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots continued this a week as [openSUSE](https://www.opensuse.org/)’s rolling release has provided a consistent release of six snapshots per week this year.
 
 There were hundreds of packages updated this week and [sysdig](https://www.sysdig.org/), [Freetype](https://www.freetype.org/) and [Flatpak](https://flatpak.org/) were just a few of the many packages to receive an updated version.
 
@@ -50,4 +53,4 @@ Snapshot [20180209](https://lists.opensuse.org/opensuse-factory/2018-02/msg00397
 
 [Python-setuptools 38.5.1](https://pypi.python.org/pypi/setuptools) reverted to [Cython](http://cython.org/) legacy build_ext behavior for compatibility in snapshot [20180208](https://lists.opensuse.org/opensuse-factory/2018-02/msg00376.html) and [rpm 4.14.1](http://rpm.org/wiki/Releases/4.14.1) fixed [arbitrary code execution](https://en.wikipedia.org/wiki/Arbitrary_code_execution) when evaluating common python-related macros.
 
-The [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshot that began the week, [20180207](https://lists.opensuse.org/opensuse-factory/2018-02/msg00305.html), updated the Mozilla Firefox version from 57 to 58, which added performance improvements like loading pages faster by changing how[ Firefox caches and retrieves JavaScript](https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/). The snapshot also provided an update to libstorage-ng 3.3.149, which added [Weblate](https://l10n.opensuse.org/) translations from the previous 3.3.145 version for Korean, Hungarian, Chinese (Taiwan) and Afrikaans.		
+The [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshot that began the week, [20180207](https://lists.opensuse.org/opensuse-factory/2018-02/msg00305.html), updated the Mozilla Firefox version from 57 to 58, which added performance improvements like loading pages faster by changing how[ Firefox caches and retrieves JavaScript](https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/). The snapshot also provided an update to libstorage-ng 3.3.149, which added [Weblate](https://l10n.opensuse.org/) translations from the previous 3.3.145 version for Korean, Hungarian, Chinese (Taiwan) and Afrikaans.

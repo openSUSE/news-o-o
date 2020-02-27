@@ -1,16 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-04-23 06:30:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/04/23/osem-in-10-simple-steps/
-title: "OSEM in 10.1 simple steps"
+slug: osem-in-10-simple-steps
+title: OSEM in 10.1 simple steps
+wordpress_id: 19221
 categories:
 - Infrastructure
 ---
 
-
-##### [![osemnews]({{ site.baseurl }}/assets/osemnews-1024x555.png)]({{ site.baseurl }}/assets/osemnews.png)by Alex Vennos
+##### [![osemnews](/wp-content/uploads/2015/04/osemnews.png)](/wp-content/uploads/2015/04/osemnews.png)by Alex Vennos
 
 
 
@@ -100,4 +101,4 @@ Have ideas? Develop them and send us a Pull Request with your new feature!
 
 [https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 
-Either way, JOIN US!		
+Either way, JOIN US!

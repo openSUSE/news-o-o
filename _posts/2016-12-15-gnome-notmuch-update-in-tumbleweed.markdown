@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-12-15 14:29:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/12/15/gnome-notmuch-update-in-tumbleweed/
-title: "GNOME, Notmuch update in Tumbleweed"
+slug: gnome-notmuch-update-in-tumbleweed
+title: GNOME, Notmuch update in Tumbleweed
+wordpress_id: 20266
 categories:
 - Tumbleweed
 tags:
@@ -20,7 +22,8 @@ tags:
 - vim
 - virtualbox
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-green-300x127.png)To state that not much has been happening in openSUSE Tumbleweed is an understatement as there were seven snapshot this week.
+
+![](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)To state that not much has been happening in openSUSE Tumbleweed is an understatement as there were seven snapshot this week.
 
 Life, however, is full of surprises and irony and this article just might end with a little.
 
@@ -38,4 +41,4 @@ Snapshot [20161211](https://lists.opensuse.org/opensuse-factory/2016-12/msg00162
 
 An update of [ffmpeg](https://ffmpeg.org/) to version 3.2.2 added news avcodec fixes in snapshot [20161212](https://lists.opensuse.org/opensuse-factory/2016-12/msg00164.html) and GNU Compiler Collection 6.2.1 updated to +r243481. [GTK 3.22.5](https://blog.gtk.org/) split out glib schemas to prepare for [GTK 4](https://blogs.gnome.org/desrt/2016/06/13/gtk-4-0-is-not-gtk-4/).
 
-The last of the snapshot this week, [20161213](https://lists.opensuse.org/opensuse-factory/2016-12/msg00167.html), updated just a few packages. Ironically enough, the tag-based email system [notmuch](https://notmuchmail.org/), which was updated to version 0.23.3, was included in the snapshot.		
+The last of the snapshot this week, [20161213](https://lists.opensuse.org/opensuse-factory/2016-12/msg00167.html), updated just a few packages. Ironically enough, the tag-based email system [notmuch](https://notmuchmail.org/), which was updated to version 0.23.3, was included in the snapshot.

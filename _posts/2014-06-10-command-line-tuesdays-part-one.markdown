@@ -1,14 +1,15 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-06-10 16:48:27+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/06/10/command-line-tuesdays-part-one/
-title: "Command Line Tuesdays - Part One"
+slug: command-line-tuesdays-part-one
+title: Command Line Tuesdays - Part One
+wordpress_id: 18067
 categories:
 - Distribution
 ---
-
 
 Here we are geekos, back in action! Sorry it's been a while, but let me just assure you we're back on track, raging to meet the deadlines and to, well, have some fun :)
 
@@ -131,5 +132,3 @@ We learn navigation through the file system (what are all those bin etc etc. fol
 
 
 ### ...have a lot of fun!![dog](http://paste.opensuse.org/images/40949666.jpg)
-
-		

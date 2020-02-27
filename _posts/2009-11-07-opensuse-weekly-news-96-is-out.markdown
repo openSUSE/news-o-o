@@ -1,16 +1,19 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-11-07 17:24:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/11/07/opensuse-weekly-news-96-is-out/
-title: "openSUSE Weekly News #96 is out!"
+slug: opensuse-weekly-news-96-is-out
+title: 'openSUSE Weekly News #96 is out!'
+wordpress_id: 2461
 categories:
 - Weekly News
 tags:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #96 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/96)!
+
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #96 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/96)!
 
 In this week's issue:
 
@@ -38,4 +41,4 @@ In this week's issue:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/96/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/96/Translations).		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/96/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/96/Translations).

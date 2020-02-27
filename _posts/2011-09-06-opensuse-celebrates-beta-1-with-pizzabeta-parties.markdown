@@ -1,13 +1,16 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-09-06 16:00:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/
-title: "openSUSE celebrates Beta with BetaPizza Parties!"
+slug: opensuse-celebrates-beta-1-with-pizzabeta-parties
+title: openSUSE celebrates Beta with BetaPizza Parties!
+wordpress_id: 10998
 categories:
 - Events
 ---
+
 [![Prosciutto, anchovy and onion pizza.](http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)
 
 The openSUSE community is happy to announce that the 6th Milestone of the upcoming release will be renamed [openSUSE 12.1 Beta](http://en.opensuse.org/Portal:12.1). This change in name reflects the state of this milestone, being ready for more extensive testing. After the beta, two release candidates will become available in quick succession before the final release. To celebrate the Beta release and give it a good workout, we call out on the community to organize Beta Pizza parties around the world!
@@ -27,9 +30,9 @@ The latest openSUSE testing release can always be found [on the openSUSE downloa
 ## BetaPizza Party
 
 
-Our fellow geeko Bernhard Wiedemann has decided to organize a Beta Pizza Party in Nürnberg on the 29th of September from five to six PM. The goal of this Pizza-loaded event is to get our brand new 12.1 Beta onto as many laptops as possible and find and fix as many bugs as we can. Obviously, [helping maintainers with fixing bugs](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory) by analyzing the problem, finding the cause or helping with [cleaning up and removing duplicates in openFate](http://en.opensuse.org/openSUSE:Openfate_screening) are also pretty darn important. Now let's see what a Beta Pizza Party is, exactly!
+Our fellow geeko Bernhard Wiedemann has decided to organize a Beta Pizza Party in NÃ¼rnberg on the 29th of September from five to six PM. The goal of this Pizza-loaded event is to get our brand new 12.1 Beta onto as many laptops as possible and find and fix as many bugs as we can. Obviously, [helping maintainers with fixing bugs](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory) by analyzing the problem, finding the cause or helping with [cleaning up and removing duplicates in openFate](http://en.opensuse.org/openSUSE:Openfate_screening) are also pretty darn important. Now let's see what a Beta Pizza Party is, exactly!
 
-Aside from Nüremberg, a number of SUSE/Novell/Attachmate offices around the world will organize BetaPizza Parties and they will provide some free pizza. Find a list of locations [here](http://en.opensuse.org/openSUSE:BetaPizzaParty) and note that more offices are adding themselves there so keep an eye on that page!
+Aside from NÃ¼remberg, a number of SUSE/Novell/Attachmate offices around the world will organize BetaPizza Parties and they will provide some free pizza. Find a list of locations [here](http://en.opensuse.org/openSUSE:BetaPizzaParty) and note that more offices are adding themselves there so keep an eye on that page!
 
 [![Pizza Hut](http://farm5.static.flickr.com/4053/4225166405_bb5ab44c29_m.jpg)](http://www.flickr.com/photos/ferret111/4225166405/)
 
@@ -77,4 +80,4 @@ However, if you get stuck in any way, you're more than welcome to ask questions 
 
 Whatever bugs you find, remember: even a Beta testing Pizza Party is about having fun! It doesn't matter what technical knowledge you or the other visitors have - as long as you are having fun!
 
-Enjoy!		
+Enjoy!

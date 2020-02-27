@@ -1,14 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2010-09-28 12:35:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/09/28/osc2010-sneak-peaks-take-an-lpi-exam-at-opensuse-conference-2010/
-title: "OSC2010 Sneak Peaks “ Take an LPI exam at openSUSE Conference\
-  \ 2010"
+slug: osc2010-sneak-peaks-take-an-lpi-exam-at-opensuse-conference-2010
+title: OSC2010 Sneak Peaks â€“ Take an LPI exam at openSUSE Conference 2010
+wordpress_id: 4839
 categories:
 - Conference
 ---
+
 ![](../wp-content/uploads/2010/09/Lpi-lpi-logo2.png)Thanks to the support of Linux Professional Institute ([LPI](http://lpi.org/)) we are able to provide a number of the well known and useful LPI exams to be taken at the [openSUSE Conference](http://conference.opensuse.org/indico//conferenceTimeTable.py?confId=0#all.detailed) 2010. Examination day will be Saturday, October 23 from 9 to 11am.
 
 
@@ -25,7 +27,7 @@ categories:
   * LPIC-3 (301, 302, 303, 304) - English only
 
 	
-  * Univention Certified Professional Prüfung (LPI 198) - German only
+  * Univention Certified Professional PrÃ¼fung (LPI 198) - German only
 
 
 
@@ -41,14 +43,14 @@ For further information and registration please visit ourÂ [LPI page](http://o
 
 
 
-Dank der Unterstützung des Linux Professional Institute (LPI) können wir auf der diesjährigen openSUSE Konferenz 2010 verschiedene der bekannten und nützlichen LPI Prüfungen anbieten. Prüfungstag ist Samstag 23. Oktober von 9 bis 11 Uhr.
+Dank der UnterstÃ¼tzung des Linux Professional Institute (LPI) kÃ¶nnen wir auf der diesjÃ¤hrigen openSUSE Konferenz 2010 verschiedene der bekannten und nÃ¼tzlichen LPI PrÃ¼fungen anbieten. PrÃ¼fungstag ist Samstag 23. Oktober von 9 bis 11 Uhr.
 
 
 
 
 
 
-#### Mögliche Examen:
+#### MÃ¶gliche Examen:
 
 
 
@@ -64,7 +66,7 @@ Dank der Unterstützung des Linux Professional Institute (LPI) können wir auf d
   * LPIC-3 (301, 302, 303, 304) - auf Englisch
 
 	
-  * Univention Certified Professional Prüfung (LPI 198) - auf Deutsch
+  * Univention Certified Professional PrÃ¼fung (LPI 198) - auf Deutsch
 
 
 
@@ -73,5 +75,3 @@ Dank der Unterstützung des Linux Professional Institute (LPI) können wir auf d
 
 
 Mehr Information und die Anmeldung gibt's auf unserer [LPI Seite](http://opensuse.org/openSUSE:Conference_LPI)
-
-		

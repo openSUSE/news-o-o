@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-07 16:24:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/
-title: "Sneak Peeks at openSUSE 11.0: Compiz, with Dennis Kasprzyk"
+slug: sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk
+title: 'Sneak Peeks at openSUSE 11.0: Compiz, with Dennis Kasprzyk'
+wordpress_id: 829
 categories:
 - Distribution
 ---
+
 There have been several changes with the Compiz setup in openSUSE 11.0, including both exciting and new features in Compiz Fusion, and extra developments behind-the-scenes which make running and managing Compiz easier. Today we will be taking a look at these, and we'll be catching up with [Dennis 'onestone' Kasprzyk](http://dev.compiz-fusion.org/~onestone/blog/), a Compiz Fusion core developer and openSUSE user, to find out more.
 
 <!-- more -->
@@ -51,7 +54,7 @@ Compiz Fusion comes with a simple settings manager which also allows you to enab
 
 
 
-[![Simple CCSM]({{ site.baseurl }}/assets/simple-ccsm-thumb.jpeg)]({{ site.baseurl }}/assets/simple-ccsm.jpeg)  [![Simple CCSM 2]({{ site.baseurl }}/assets/simple-ccsm1-thumb.jpeg)]({{ site.baseurl }}/assets/simple-ccsm1.jpeg)
+[![Simple CCSM](/wp-content/uploads/2008/06/simple-ccsm.jpeg)](/wp-content/uploads/2008/06/simple-ccsm.jpeg)  [![Simple CCSM 2](/wp-content/uploads/2008/06/simple-ccsm1.jpeg)](/wp-content/uploads/2008/06/simple-ccsm1.jpeg)
 
 
 
@@ -65,7 +68,7 @@ Compiz Fusion now also comes with an in-depth and highly configurable settings m
 
 
 
-[![CCSM]({{ site.baseurl }}/assets/ccsm-thumb.jpeg)]({{ site.baseurl }}/assets/ccsm.jpeg)
+[![CCSM](/wp-content/uploads/2008/06/ccsm.jpeg)](/wp-content/uploads/2008/06/ccsm.jpeg)
 
 
 
@@ -74,7 +77,7 @@ Compiz Fusion now also comes with an in-depth and highly configurable settings m
 ### New Plugins
 
 
-As well as all of the [previously available features](https://news.opensuse.org/2007/09/04/sneak-peeks-at-opensuse-103-compiz-and-compiz-fusion/) in openSUSE 10.3, openSUSE 11.0 has several additions, many of which dramatically improve the accessibility of the Linux desktop. We will cover just a few of these below:
+As well as all of the [previously available features](http://news.opensuse.org/2007/09/04/sneak-peeks-at-opensuse-103-compiz-and-compiz-fusion/) in openSUSE 10.3, openSUSE 11.0 has several additions, many of which dramatically improve the accessibility of the Linux desktop. We will cover just a few of these below:
 
 
 
@@ -86,7 +89,7 @@ With this plugin you can find out easily where your mouse is. Just hit a key-com
 
 
 
-[![mouse]({{ site.baseurl }}/assets/mouse-thumb.jpeg)]({{ site.baseurl }}/assets/mouse.jpeg)
+[![mouse](/wp-content/uploads/2008/06/mouse.jpeg)](/wp-content/uploads/2008/06/mouse.jpeg)
 
 
 
@@ -100,7 +103,7 @@ This plugin allows you to zoom a particular area of the screen without having to
 
 
 
-[![Mag]({{ site.baseurl }}/assets/mag-thumb.jpeg)]({{ site.baseurl }}/assets/mag.jpeg)
+[![Mag](/wp-content/uploads/2008/06/mag.jpeg)](/wp-content/uploads/2008/06/mag.jpeg)
 
 
 
@@ -115,7 +118,7 @@ This plugin allows you to directly scale up or down an entire window (instead of
 
 
 
-[![Shelf - Without Scale Down]({{ site.baseurl }}/assets/shelf-1-thumb.jpeg)]({{ site.baseurl }}/assets/shelf-1.jpeg)[![Shelf - Window Scale Down]({{ site.baseurl }}/assets/shelf-2-thumb.jpeg)]({{ site.baseurl }}/assets/shelf-2.jpeg)
+[![Shelf - Without Scale Down](/wp-content/uploads/2008/06/shelf-1.jpeg)](/wp-content/uploads/2008/06/shelf-1.jpeg)[![Shelf - Window Scale Down](/wp-content/uploads/2008/06/shelf-2.jpeg)](/wp-content/uploads/2008/06/shelf-2.jpeg)
 
 
 
@@ -129,7 +132,7 @@ With this plugin you can adjust the brightness and saturation of any window or t
 
 
 
-[![Brightness and Sat]({{ site.baseurl }}/assets/saturation-thumb.jpeg)]({{ site.baseurl }}/assets/saturation.jpeg)
+[![Brightness and Sat](/wp-content/uploads/2008/06/saturation.jpeg)](/wp-content/uploads/2008/06/saturation.jpeg)
 
 
 
@@ -156,7 +159,7 @@ In openSUSE 10.3 the cube relfection plugin was available, but now you can also 
 
 
 
-[![Cube Deformation - Sphere]({{ site.baseurl }}/assets/cube-deform-sphere-thumb.jpeg)]({{ site.baseurl }}/assets/cube-deform-sphere.jpeg)[![Cube Deformation - Cylinder]({{ site.baseurl }}/assets/cube-deform-cylinder-thumb.jpeg)]({{ site.baseurl }}/assets/cube-deform-cylinder.jpeg)
+[![Cube Deformation - Sphere](/wp-content/uploads/2008/06/cube-deform-sphere.jpeg)](/wp-content/uploads/2008/06/cube-deform-sphere.jpeg)[![Cube Deformation - Cylinder](/wp-content/uploads/2008/06/cube-deform-cylinder.jpeg)](/wp-content/uploads/2008/06/cube-deform-cylinder.jpeg)
 
 
 
@@ -164,7 +167,7 @@ You can also make the cube transparent, and even create a 3D representation of t
 
 
 
-[![Cube Deformation - Trans 3D]({{ site.baseurl }}/assets/cube-deform-trans-thumb.jpeg)]({{ site.baseurl }}/assets/cube-deform-trans.jpeg)
+[![Cube Deformation - Trans 3D](/wp-content/uploads/2008/06/cube-deform-trans.jpeg)](/wp-content/uploads/2008/06/cube-deform-trans.jpeg)
 
 
 
@@ -178,7 +181,7 @@ You can also make the cube transparent, and even create a 3D representation of t
 
 
 
-[![onestone]({{ site.baseurl }}/assets/onestone.jpg)]({{ site.baseurl }}/assets/onestone.jpg)
+[![onestone](/wp-content/uploads/2008/06/onestone.jpg)](/wp-content/uploads/2008/06/onestone.jpg)
 
 
 
@@ -225,4 +228,3 @@ It could be better, but it's better than the relationship to the GNOME developer
 
 
 This is hard to say. We mostly implement and release new ideas directly. Users can read [our blog planet](http://planet.compiz-fusion.org) to see what is going on and will be included in the next release. I would like to see Compiz also running as pure window manager without compositing. This would also allow to run Compiz on hardware that doesn't support compositing, or allow users to turn off compositing without the need to switch to a different window manager. We will also have a lot of work after the "object framework" merge, which will change a lot of the Compiz internal structures and the configuration system.
-		

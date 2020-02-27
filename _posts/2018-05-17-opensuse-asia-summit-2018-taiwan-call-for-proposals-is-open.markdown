@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-17 17:11:42+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/17/opensuse-asia-summit-2018-taiwan-call-for-proposals-is-open/
-title: "openSUSE.Asia Summit 2018 Taiwan: Call for proposals is open"
+slug: opensuse-asia-summit-2018-taiwan-call-for-proposals-is-open
+title: 'openSUSE.Asia Summit 2018 Taiwan: Call for proposals is open'
+wordpress_id: 20868
 categories:
 - Conference
 - Project
@@ -15,7 +17,8 @@ tags:
 - opensuse
 - openSUSE.Asia Summit
 ---
-![]({{ site.baseurl }}/assets/osas18-300x67.png)openSUSE.Asia Committee calls for proposals of talks for [openSUSE.Asia Summit 2018](https://events.opensuse.org/conference/summitasia18) held at National Taiwan University of Science and Technology on August 11 and 12.  We might have community day on 10th August before the summit.
+
+![](/wp-content/uploads/2018/03/osas18.png)openSUSE.Asia Committee calls for proposals of talks for [openSUSE.Asia Summit 2018](https://events.opensuse.org/conference/summitasia18) held at National Taiwan University of Science and Technology on August 11 and 12.  We might have community day on 10th August before the summit.
 
 openSUSE.Asia Summit is one of the great events for openSUSE community (i.e., both contributors, and users)  in Asia. Those who usually communicate online can get together from all over the world, talk face to face, and have fun.  Members of the community will share their most recent knowledge, experiences, and learn FLOSS technologies surrounding openSUSE.
 
@@ -212,4 +215,4 @@ For example, if your talk is on security or desktop, it is better that it contai
 
 **Do not hesitate to contact the committee or a local community if you are not sure about writing your proposal or preparing your presentation.**
 
-		
+

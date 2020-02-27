@@ -1,10 +1,12 @@
 ---
 author: George Bratsos
+comments: true
 date: 2014-04-25 17:43:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/25/osc-2014-1st-day/
-title: "oSC 2014 1st Day"
+slug: osc-2014-1st-day
+title: oSC 2014 1st Day
+wordpress_id: 17881
 categories:
 - Conference
 - Events
@@ -15,6 +17,7 @@ tags:
 - opensuse
 - oSC14
 ---
+
 The openSUSE Conference 2014 is being held in Dubrovnik, on the Dalmatian coast in Croatia. The conference venue, also known as the Campus of the University of Dubrovnik is set and ready to accommodate all the Geekos that will visit the conference from around the world. Everyone is happy and delighted about this conference.
 
 
@@ -35,7 +38,7 @@ Read more about this awesome first day!
 
 
 
-## [![oSC14 registration desk]({{ site.baseurl }}/assets/DSC_0099-200x300.jpg)]({{ site.baseurl }}/assets/DSC_0099.jpg)
+## [![oSC14 registration desk](/wp-content/uploads/2014/04/DSC_0099.jpg)](/wp-content/uploads/2014/04/DSC_0099.jpg)
 
 
 
@@ -63,7 +66,7 @@ Volunteers arrived on time at the venue, prepared everything, and did some last 
 
 
 
-[![people at venue]({{ site.baseurl }}/assets/DSC_0094-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0094.jpg)Presentations started on time with the board welcoming the community to the event. They also shared some practical information with us, a call for help as well as a number of announcements. You can read in details [here](https://news.opensuse.org/2014/04/25/osc-has-started-follow-us-remotely/). People got excited and presentations of all kinds from community based to highly technical started.
+[![people at venue](/wp-content/uploads/2014/04/DSC_0094.jpg)](/wp-content/uploads/2014/04/DSC_0094.jpg)Presentations started on time with the board welcoming the community to the event. They also shared some practical information with us, a call for help as well as a number of announcements. You can read in details [here](https://news.opensuse.org/2014/04/25/osc-has-started-follow-us-remotely/). People got excited and presentations of all kinds from community based to highly technical started.
 
 
 
@@ -80,4 +83,4 @@ Last but not least, Gnome, KDE and Oracle booths are there too! Geekos can ask a
 
 Follow [@openSUSEConf](https://twitter.com/openSUSEConf) on twitter, or search for the hashtag [#oSC14](https://twitter.com/search?q=%23oSC14&src=tyah). If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](https://bambuser.com/channel/opensusetv) that is set up in the venue.
 
-[![]({{ site.baseurl }}/assets/DSC_0028-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0028.jpg)		
+[![](/wp-content/uploads/2014/04/DSC_0028.jpg)](/wp-content/uploads/2014/04/DSC_0028.jpg)

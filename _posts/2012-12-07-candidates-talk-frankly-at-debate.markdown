@@ -1,14 +1,17 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2012-12-07 16:26:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/12/07/candidates-talk-frankly-at-debate/
-title: "Candidates Talk Frankly at Debate"
+slug: candidates-talk-frankly-at-debate
+title: Candidates Talk Frankly at Debate
+wordpress_id: 14719
 categories:
 - Events
 - Project
 ---
+
 On 6 December, 2012, the 8 candidates standing for election of the 2013 openSUSE Board joined members of the community in an open Q&A Debate session on IRC.Â Â  The complete log of that event can be found [here](http://community.opensuse.org/meetings/opensuse-project/2012/opensuse-project.2012-12-06-15.01.log.html).
 
 Candidates participating included:Â  Matt Barringer, Richard Brown, Carl Fletcher, Manu Gupta, chuck Payne, Robert Schweikert, Stefan Seyfried, and Raymond Wooninck.Â Â  The event was moderated by the openSUSE Election
@@ -134,4 +137,4 @@ Payne:Â  well from what I heard, open-slx is taking the work of openSUSE and s
 
 
 
-		
+

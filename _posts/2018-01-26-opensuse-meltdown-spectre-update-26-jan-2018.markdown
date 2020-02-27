@@ -1,13 +1,16 @@
 ---
 author: Richard Brown
+comments: true
 date: 2018-01-26 15:09:08+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/01/26/opensuse-meltdown-spectre-update-26-jan-2018/
-title: "openSUSE - Meltdown & Spectre Update - 26 Jan 2018"
+slug: opensuse-meltdown-spectre-update-26-jan-2018
+title: openSUSE - Meltdown & Spectre Update - 26 Jan 2018
+wordpress_id: 20632
 categories:
 - Announcements
 ---
+
 Hi folks,
 
 This is an update to our current Meltdown and Spectre situation on openSUSE Leap and Tumbleweed.
@@ -64,4 +67,4 @@ We are working on Linux Kernel updates that will enable retpoline support and so
 
 The XEN team is developing methods to mitigate Meltdown and Spectre and once they become available we will be also releasing XEN updates for them.
 
-		
+

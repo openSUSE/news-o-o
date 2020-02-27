@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-11-02 11:27:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/11/02/last-release-candidate-for-opensuse-leap-42-2-released/
-title: "Last Release Candidate for openSUSE Leap 42.2 Released"
+slug: last-release-candidate-for-opensuse-leap-42-2-released
+title: Last Release Candidate for openSUSE Leap 42.2 Released
+wordpress_id: 20139
 categories:
 - Distribution
 - Leap
@@ -19,6 +21,7 @@ tags:
 - release candidate
 - Snapper
 ---
+
 [![](http://countdown.opensuse.org/medium.png)](http://en.opensuse.org/Portal:13.2)The development cycle for [openSUSE Leap 42.2 Release Candidates](http://bit.ly/1iOyl2T) (RC) is coming to an end.
 
 RC2, which will be followed by the stable release of [openSUSE Leap 42.2](https://en.opensuse.org/Portal:42.2) on Nov. 16, is now available for testers after its release today.
@@ -42,4 +45,4 @@ Users of Leap's newest version will notice improved capabilities with [snapper](
 
 Leap is a community-enterprise distribution that appeals to stability-minded users and conservative technology adopters. Leap has a shared core with [SUSE Linux Enterprise](https://www.suse.com/) (SLE) and hundreds of SLE 12 Service Pack (SP) 2 packages. There are also thousands of community-built packages in Leap. The distribution gives developers and organizations an ability to bridge to the faster release cycles of [openSUSE Tumbleweed](https://en.opensuse.org/Tumbleweed) or to a more Long Term Support enterprise solution with SLE.
 
-Media who are interested in more information should contact Douglas DeMaio at [ddemaio@suse.de](mailto:ddemaio@suse.de).		
+Media who are interested in more information should contact Douglas DeMaio at [ddemaio@suse.de](mailto:ddemaio@suse.de).

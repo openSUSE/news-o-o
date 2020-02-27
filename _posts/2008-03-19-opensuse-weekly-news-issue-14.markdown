@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-19 11:56:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/19/opensuse-weekly-news-issue-14/
-title: "openSUSE Weekly News, Issue 14"
+slug: opensuse-weekly-news-issue-14
+title: openSUSE Weekly News, Issue 14
+wordpress_id: 695
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue 14 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/14)!
 
@@ -49,4 +50,3 @@ In this week's issue:
   * Upcoming: openSUSE 11.0 Alpha 3 (today)
 
 
-		

@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-13 21:18:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/13/opensuse-weekly-news-issue-50/
-title: "openSUSE Weekly News, Issue 50"
+slug: opensuse-weekly-news-issue-50
+title: openSUSE Weekly News, Issue 50
+wordpress_id: 1114
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #50 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/50)!  
-In this week™s issue:
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #50 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/50)!  
+In this weekâ€™s issue:
 
 
   * Pre-order openSUSE 11.1
@@ -35,4 +38,3 @@ The openSUSE Weekly News is available in:
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/50).
 
 Befinden sich [werfen Sie einen Blick auf diese Web-Seite](https://ghostwritinghilfe.com/) all diejenigen, die im anschluss an die matura studiert haben und nun berlegen, ob sie promovieren sollen oder nicht
-		

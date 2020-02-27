@@ -1,14 +1,17 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2011-10-28 12:00:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/
-title: "Fourth openSUSE Board Election 2011"
+slug: fourth-opensuse-board-election-2011
+title: Fourth openSUSE Board Election 2011
+wordpress_id: 11335
 categories:
 - Announcements
 - Board
 ---
+
 This years openSUSE Election Committee is in the pleasant position to announce the 2011 [Board Elections](http://en.opensuse.org/openSUSE:Board_election).
 
 So, if you want to participate in the openSUSE board and influence the future direction of the project please stand up and announce your candidacy. If you want to vote for the candidates, please make sure your openSUSE [membership](http://en.opensuse.org/Members) is approved. If you are a contributor of openSUSE but you are not a member yet, apply for [membership](http://en.opensuse.org/openSUSE:Membership_officials#Process) now and be a part of the changes to come.
@@ -19,7 +22,7 @@ So, if you want to participate in the openSUSE board and influence the future di
 ## Timeline
 
 
-[![]({{ site.baseurl }}/assets/4592711863_9c161a0ac3-225x300.jpg)](https://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/4592711863_9c161a0ac3/)The Committee has prepared the timeline for this year™s election. The election process consists of the following phases:
+[![](/wp-content/uploads/2011/10/4592711863_9c161a0ac3.jpg)](http://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/4592711863_9c161a0ac3/)The Committee has prepared the timeline for this yearâ€™s election. The election process consists of the following phases:
 
 
 #### **October 28, 2011** -Â  Start of standing up for candidacy, apply for membership
@@ -85,7 +88,7 @@ In this election we will have three seats to get elected, as the election period
 
 
 
-## [![]({{ site.baseurl }}/assets/116501300_7419fd94f3-300x201.jpg)](https://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/116501300_7419fd94f3/)
+## [![](/wp-content/uploads/2011/10/116501300_7419fd94f3.jpg)](http://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/116501300_7419fd94f3/)
 
 
 If you intend to run for the board or have any questions, please contact the Election Committee by sending an email to [election-officials@opensuse.org](mailto:election-officials@opensuse.org). Also, if you want to nominate somebody else, tell the election officials and they will contact the nominated person and ask whether s/he is willing to run for the board.
@@ -94,7 +97,7 @@ If you intend to run for the board or have any questions, please contact the Ele
 ## What is the openSUSE Board?
 
 
-The [openSUSE board](http://en.opensuse.org/openSUSE:Board) consists of five members elected by the community and one chair person appointed by SUSE. It was setup to lead the overall project. It™s main tasks are:
+The [openSUSE board](http://en.opensuse.org/openSUSE:Board) consists of five members elected by the community and one chair person appointed by SUSE. It was setup to lead the overall project. Itâ€™s main tasks are:
 
 
 
@@ -131,4 +134,4 @@ The Election Committee this year is staffed by the following volunteers:
 	
   * Thomas Schmidt
 
-		
+

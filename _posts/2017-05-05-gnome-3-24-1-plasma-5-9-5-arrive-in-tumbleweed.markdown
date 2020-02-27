@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-05-05 07:11:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/05/05/gnome-3-24-1-plasma-5-9-5-arrive-in-tumbleweed/
-title: "GNOME 3.24.1, Plasma 5.9.5 Arrive in Tumbleweed"
+slug: gnome-3-24-1-plasma-5-9-5-arrive-in-tumbleweed
+title: GNOME 3.24.1, Plasma 5.9.5 Arrive in Tumbleweed
+wordpress_id: 20388
 categories:
 - Tumbleweed
 tags:
@@ -25,7 +27,8 @@ tags:
 - yast
 - zypper
 ---
-![]({{ site.baseurl }}/assets/hackweek-logo-light-23bdd7fcc1d3463dcdfe50670ebb017990e5ff0f47e9dce8b3bbd59bf18f0b13-300x159.png)A total of seven [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots were released since last week’s update, which brought several minor version updates and less than a handful of major version updates.
+
+![](/wp-content/uploads/2017/03/hackweek-logo-light-23bdd7fcc1d3463dcdfe50670ebb017990e5ff0f47e9dce8b3bbd59bf18f0b13.png)A total of seven [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots were released since last week’s update, which brought several minor version updates and less than a handful of major version updates.
 
 A change on the server that prepares the .diff emails that are generated caused [a hiccup for the Tumbleweed announcer](https://lists.opensuse.org/opensuse-factory/2017-05/msg00035.html), so snapshots 20170428, 20170429, 20170430 and 20170502 were all listed in snapshots [20170503](https://lists.opensuse.org/opensuse-factory/2017-05/msg00049.html). The change to the server was to create a similar data comparison file to generate emails for [Leap 42.3](https://en.opensuse.org/Portal:42.3), so it could list packages that are changed during its rolling development process.
 
@@ -35,4 +38,4 @@ Snapshot  [20170503](https://lists.opensuse.org/opensuse-factory/2017-05/msg000
 
 Snapshots [20170426](https://lists.opensuse.org/opensuse-factory/2017-04/msg00994.html) had only two packages. Google’s croscore-font fixed some grammar errors and the 4.10.12 [Linux Kernel](https://www.kernel.org/) was made available in the snapshot.
 
-The snapshot a day before, [20170425](https://lists.opensuse.org/opensuse-factory/2017-04/msg00981.html), offered many more package updates. [Mesa 17.0.4](https://www.mesa3d.org/relnotes/17.0.4.html) offered fixes for an [Nouveau](https://nouveau.freedesktop.org/) driver. Vim 8.0.566 fixed several problems and sysconfig 0.84.1 cleaned up some temporary directories. Yast2-bootloader’s 3.2.19 version added the possibility to use trusted boot for Extensible Firmware Interface and zypper ‘s updated to 1.13.24 fixed a crash when exiting after pressing [CTRL-C](https://en.wikipedia.org/wiki/Control-C) quickly or more.		
+The snapshot a day before, [20170425](https://lists.opensuse.org/opensuse-factory/2017-04/msg00981.html), offered many more package updates. [Mesa 17.0.4](https://www.mesa3d.org/relnotes/17.0.4.html) offered fixes for an [Nouveau](https://nouveau.freedesktop.org/) driver. Vim 8.0.566 fixed several problems and sysconfig 0.84.1 cleaned up some temporary directories. Yast2-bootloader’s 3.2.19 version added the possibility to use trusted boot for Extensible Firmware Interface and zypper ‘s updated to 1.13.24 fixed a crash when exiting after pressing [CTRL-C](https://en.wikipedia.org/wiki/Control-C) quickly or more.

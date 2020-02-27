@@ -1,15 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-04-06 18:07:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/04/06/opensuse-education-10-rc2-for-opensuse-103-is-ready/
-title: "openSUSE-Education 1.0 RC2 for openSUSE 10.3 is Ready"
+slug: opensuse-education-10-rc2-for-opensuse-103-is-ready
+title: openSUSE-Education 1.0 RC2 for openSUSE 10.3 is Ready
+wordpress_id: 719
 categories:
 - Announcements
 - Derivatives
 ---
-
 
 ![](http://files.opensuse.org/opensuse/en/f/f8/OpenSUSE-Edu.png)
 
@@ -168,4 +169,3 @@ Please get in touch with us to tell us of any problems or just to tell us what y
   * IRC: [#opensuse-edu](irc://irc.freenode.net/opensuse-edu) on _irc.freenode.net_
 
 
-		

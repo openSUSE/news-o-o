@@ -1,17 +1,20 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2012-10-12 14:30:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/12/reminder-get-boffin-at-opensuse-conference-2012/
-title: "Reminder: Get BoFfin at openSUSE Conference 2012!"
+slug: reminder-get-boffin-at-opensuse-conference-2012
+title: 'Reminder: Get BoFfin at openSUSE Conference 2012!'
+wordpress_id: 14313
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-![oSC 12 Logo]({{ site.baseurl }}/assets/oSC3-Logo2-197x300.png)
+
+![oSC 12 Logo](/wp-content/uploads/2012/10/oSC3-Logo2.png)
 
 Everyone knows what really matters at a conference happens outside theÂ scheduled talks, right? The life of the openSUSE project happens when we get together, talk and plan, and this happens much faster face to face than on the mailing lists or forums. These Birds of a Feather (BoF) sessions are how we do this.
 
@@ -45,9 +48,9 @@ BoF HOW-TO:
   * Nominate someone to take minutes, and publish those minutes on the relevant meeting list and add them to the openSUSE wiki!
 
 	
-  * Read more info and tips [in this article](https://news.opensuse.org/2012/10/03/osc-2012-bof-sessions-can-be-scheduled/)
+  * Read more info and tips [in this article](http://news.opensuse.org/2012/10/03/osc-2012-bof-sessions-can-be-scheduled/)
 
 
 BoF sessions will take place in dedicated labs at the venues.
 
-We look forward to seeing lots of you talking until your jaws ache!		
+We look forward to seeing lots of you talking until your jaws ache!

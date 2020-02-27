@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-11 08:19:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/11/join-the-3d-design-and-printing-workshop/
-title: "Join the 3D Design and Printing Workshop"
+slug: join-the-3d-design-and-printing-workshop
+title: Join the 3D Design and Printing Workshop
+wordpress_id: 20478
 categories:
 - Announcements
 - Events
@@ -15,7 +17,8 @@ tags:
 - Inkscape
 - workshop
 ---
-![]({{ site.baseurl }}/assets/cookie-300x225.png)Members of the openSUSE will host a 3D Design and Printing Workshop in Nuremberg on Sept. 10 from 9:30 a.m. to 4 p.m at SUSE Headquarter.
+
+![](/wp-content/uploads/2016/11/cookie.png)Members of the openSUSE will host a 3D Design and Printing Workshop in Nuremberg on Sept. 10 from 9:30 a.m. to 4 p.m at SUSE Headquarter.
 
 The workshop, which as 60 spots available, will focus on teaching attendees on how to design and print 3D objects with open source tools like InkScape (easy enough for Kids) and FreeCAD.
 
@@ -31,4 +34,4 @@ Attendees should come with a laptop and have an openSUSE distribution installed 
 
 The workshop will try to support both German or English languages.
 
-Please register at [events.opensuse.org](https://events.opensuse.org/) with your email address to receive more information before the workshop.		
+Please register at [events.opensuse.org](https://events.opensuse.org/) with your email address to receive more information before the workshop.

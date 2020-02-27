@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-03-27 08:49:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/03/27/elections-for-opensuse-board-approaching/
-title: "Elections for openSUSE Board Approaching"
+slug: elections-for-opensuse-board-approaching
+title: Elections for openSUSE Board Approaching
+wordpress_id: 20773
 categories:
 - Announcements
 - Board
@@ -16,7 +18,8 @@ tags:
 - governance
 - opensuse
 ---
-![]({{ site.baseurl }}/assets/openSUSE-300x225.png)Campaigning for the elections of the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) is nearing its end and will move on to the Phase 2 Election phase beginning April 2.
+
+![](/wp-content/uploads/2016/03/openSUSE.png)Campaigning for the elections of the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) is nearing its end and will move on to the Phase 2 Election phase beginning April 2.
 
 There are three seats available on the board for this election for a standard 24-month term.
 
@@ -34,4 +37,4 @@ The candidates are:
 
 [Aaron Luna](http://www.opensusemexico.com/2018/03/running-for-opensuse-board-election-2018.html)
 
-The ballots are expected to open from April 2 to April 13. Members of the openSUSE Community can cast their vote for the candidates during that time frame. The [voting process](https://en.opensuse.org/openSUSE:Membership_officials#Process) is explained on the openSUSE wiki.		
+The ballots are expected to open from April 2 to April 13. Members of the openSUSE Community can cast their vote for the candidates during that time frame. The [voting process](https://en.opensuse.org/openSUSE:Membership_officials#Process) is explained on the openSUSE wiki.

@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2008-08-20 14:57:02+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/20/opensuse-to-add-selinux-basic-enablement-in-111/
-title: "openSUSE  to Add SELinux Basic Enablement in 11.1"
+slug: opensuse-to-add-selinux-basic-enablement-in-111
+title: openSUSE  to Add SELinux Basic Enablement in 11.1
+wordpress_id: 987
 categories:
 - Distribution
 ---
+
 We have exciting news for security enthusiasts, experts, and paranoid people!
 
 
@@ -49,7 +52,7 @@ What does SELinux basic enablement mean?
   * The libraries required for SELinux (libselinux, libsepol, libsemanage, etc.) will be added to openSUSE and SUSE Linux Enterprise.
 
 	
-  * However, we are not offering enterprise class _support_ for SELinux at this time; thus we will run QA with SELinux disabled “ to make sure that SELinux patches don't break the default delivery and the majority of packages.
+  * However, we are not offering enterprise class _support_ for SELinux at this time; thus we will run QA with SELinux disabled â€“ to make sure that SELinux patches don't break the default delivery and the majority of packages.
 Although we will not be running QA with SELinux enabled, we encourage our testers to run tests with SELinux enabled and report issues and enhancement requests back to us.
 
 	
@@ -72,5 +75,3 @@ Questions about SELinux enablement should be discussed on the opensuse-factory m
 
 
 Andreas
-
-		

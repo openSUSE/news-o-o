@@ -1,15 +1,17 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2010-12-02 16:53:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/12/02/opensuse-announces-fourth-development-milestone-with-kernel-interactivity-patch/
-title: "openSUSE Announces Fourth Development Milestone with Kernel Interactivity\
-  \ Patch"
+slug: opensuse-announces-fourth-development-milestone-with-kernel-interactivity-patch
+title: openSUSE Announces Fourth Development Milestone with Kernel Interactivity Patch
+wordpress_id: 5715
 categories:
 - Announcements
 - Distribution
 ---
+
 On Monday, the openSUSE project released the fourth of six milestones in the development of openSUSE 11.4. Â Milestone 4 (M4) brings a wide range of updates, both major and minor.
 
 Kernel 2.6.37rc3 is the basis of M4, including the famous "200 line" per tty task groups patch to improve desktop interactivity, and featuring the removal of the so-called 'Big Kernel Lock' that will improve scalability.
@@ -24,4 +26,4 @@ And finally, the prize for biggest version number leap goes to xmahjong, which w
 
 A [list of most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_4_of_6) is being compiled; please check it before installing. We look forward to [your bug reports](http://bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.4&format=guided) and test experiences too. Automated testing and the openSUSE Factory team have been active to ensure that your download of Â M4 will be at least minimally functional.
 
-The next milestone is scheduled for December 16. Â openSUSE 11.4 is planned to be released in March 2011.		
+The next milestone is scheduled for December 16. Â openSUSE 11.4 is planned to be released in March 2011.

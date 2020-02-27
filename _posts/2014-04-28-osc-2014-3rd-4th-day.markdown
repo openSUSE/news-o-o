@@ -1,10 +1,12 @@
 ---
 author: George Bratsos
+comments: true
 date: 2014-04-28 22:13:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/28/osc-2014-3rd-4th-day/
-title: "oSC 2014 3rd - 4th Day"
+slug: osc-2014-3rd-4th-day
+title: oSC 2014 3rd - 4th Day
+wordpress_id: 17914
 categories:
 - Conference
 - Events
@@ -12,7 +14,8 @@ tags:
 - conference
 - opensuse
 ---
-[![oSC14 Group photo]({{ site.baseurl }}/assets/CSC_0177-300x200.jpg)]({{ site.baseurl }}/assets/CSC_0177.jpg)Geekos gathered at beautiful Dubrovnik in Croatia for their annual meetup. They drunk, they conversed and they shared knowledge and progress of the project. They had fun! The openSUSE Conference’s final day and reporting is now detailed below. "The strength to change" was the moto of this conference and it served well its purpose. Many people found their strength and enthusiasm and started contributing to the project. We encourage you to participate. We welcome everyone interested in contributing to an awesome project.<!-- more -->
+
+[![oSC14 Group photo](/wp-content/uploads/2014/04/CSC_0177.jpg)](/wp-content/uploads/2014/04/CSC_0177.jpg)Geekos gathered at beautiful Dubrovnik in Croatia for their annual meetup. They drunk, they conversed and they shared knowledge and progress of the project. They had fun! The openSUSE Conference’s final day and reporting is now detailed below. "The strength to change" was the moto of this conference and it served well its purpose. Many people found their strength and enthusiasm and started contributing to the project. We encourage you to participate. We welcome everyone interested in contributing to an awesome project.<!-- more -->
 
 
 ## Day 3
@@ -25,13 +28,13 @@ Perhaps, this was one of the most interesting days of the conference. ARM, OpenS
 
 
 **Izabel Valverde and TSP team on the Travel Support Program**
-[![tsp]({{ site.baseurl }}/assets/DSC_0149-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0149.jpg)Izabel Valverde, Marcel Kühlhorn and Efstathios Iosifidis are responsible about TSP program shared their views on the new application of the Travel Support Program. They explained how the program works and how successful it has been on it's two years of being online. The program helps our openSUSE members to attend conferences and events around the world and it's currently sponsored by SUSE.
+[![tsp](/wp-content/uploads/2014/04/DSC_0149.jpg)](/wp-content/uploads/2014/04/DSC_0149.jpg)Izabel Valverde, Marcel Kühlhorn and Efstathios Iosifidis are responsible about TSP program shared their views on the new application of the Travel Support Program. They explained how the program works and how successful it has been on it's two years of being online. The program helps our openSUSE members to attend conferences and events around the world and it's currently sponsored by SUSE.
 
 Geekos were really interested in TSP program and started asking lots of questions about how this works and how is decided how much money the team reimburse to everyone. Izabel answered all the questions with some help from Kostas Koudaras, so Geekos were fully informed about one of our most popular community projects.
 There were also many technical questions about TSP application and how it works! Hopefully there was a presentation afterward from Ancor the man behind TSP's web application.
 
 **Ancor González Sosa on Travel Support Program Howto **
-We all kn[![DSC_0182]({{ site.baseurl }}/assets/DSC_0182-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0182.jpg)ow Ancor. If you do not know him from FOSDEM 2014 or another conference he was on this openSUSE Conference 2014 in Dubrovnik! Ancor was recruited by the openSUSE Team at SUSE Linux as a web developer! As an openSUSE lover he was there when the project needed him! He is the man behind the development of Travel Support Program application!
+We all kn[![DSC_0182](/wp-content/uploads/2014/04/DSC_0182.jpg)](/wp-content/uploads/2014/04/DSC_0182.jpg)ow Ancor. If you do not know him from FOSDEM 2014 or another conference he was on this openSUSE Conference 2014 in Dubrovnik! Ancor was recruited by the openSUSE Team at SUSE Linux as a web developer! As an openSUSE lover he was there when the project needed him! He is the man behind the development of Travel Support Program application!
 
 He presented the technology used behind this application and explained how you can use your existing [Connect account](https://connect.opensuse.org/) to submit new events, to ask for travel support for a given event and to get your money reimbursed once your trip is over. You can now add your own events and, if the TSP team accepts it, this will be added to our list of  TSP supported events!
 
@@ -46,7 +49,7 @@ Visit and explore the official [Travel Support Program application.](https://con
 ## Day 4
 
 
-[![]({{ site.baseurl }}/assets/DSC_0001-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0001.jpg)Last day of conference was dedicated almost entirely to workshops. Three workshops took place, "Packaging Workshop" by Darix, "Building images with KIWI" by Robert Shweikert and "High Availability Clustering on openSUSE" by Richard Brown. These workshops highlighted some of the more under-the-hood technologies that openSUSE can offer.
+[![](/wp-content/uploads/2014/04/DSC_0001.jpg)](/wp-content/uploads/2014/04/DSC_0001.jpg)Last day of conference was dedicated almost entirely to workshops. Three workshops took place, "Packaging Workshop" by Darix, "Building images with KIWI" by Robert Shweikert and "High Availability Clustering on openSUSE" by Richard Brown. These workshops highlighted some of the more under-the-hood technologies that openSUSE can offer.
 
 At the last day of the conference, after the workshops were over, everyone helped the volunteers to pack everything in their boxes.
 
@@ -54,11 +57,9 @@ At the last day of the conference, after the workshops were over, everyone helpe
 ## Party
 
 
-[![DSC_0267]({{ site.baseurl }}/assets/DSC_0267-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0267.jpg)Dubrovnik is one of the most beautiful cities in Balkans. Mountains combined with a wonderful view at the sea, old city and great walls for city visitors to walk are some of the sights you can't miss. This year's organization decided to combine sea, beach and the history of Dubrovnik in order to make an unforgettable  party. This conference party was held at a hotel's beach bar near the walls of the old city of Dubrovnik. Geekos enjoyed the sand and sea combined with beers and food there. Everyone went at this party and started socializing. Some geekos even jumped in the sea and swam.
+[![DSC_0267](/wp-content/uploads/2014/04/DSC_0267.jpg)](/wp-content/uploads/2014/04/DSC_0267.jpg)Dubrovnik is one of the most beautiful cities in Balkans. Mountains combined with a wonderful view at the sea, old city and great walls for city visitors to walk are some of the sights you can't miss. This year's organization decided to combine sea, beach and the history of Dubrovnik in order to make an unforgettable  party. This conference party was held at a hotel's beach bar near the walls of the old city of Dubrovnik. Geekos enjoyed the sand and sea combined with beers and food there. Everyone went at this party and started socializing. Some geekos even jumped in the sea and swam.
 
 A group photo was taken at the beach and was dedicated to Hans who has some medical issues and couldn't attend this year's conference. We love you Hans!
 
 
-## [![DSC_0227]({{ site.baseurl }}/assets/DSC_0227-300x200.jpg)]({{ site.baseurl }}/assets/DSC_0227.jpg)
-
-		
+## [![DSC_0227](/wp-content/uploads/2014/04/DSC_0227.jpg)](/wp-content/uploads/2014/04/DSC_0227.jpg)

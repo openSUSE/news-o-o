@@ -1,26 +1,29 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-08-04 14:01:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/
-title: "And they keep rocking¦"
+slug: and-they-keep-rocking%e2%80%a6
+title: And they keep rockingâ€¦
+wordpress_id: 9740
 categories:
 - Events
 ---
-(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/hard-work-to-prepare-in-thessaloniki/)
 
-Over the last few months the openSUSE ambassadors have continued to visit conferences around the world. Since our [previous report](https://news.opensuse.org/2011/05/06/opensuse-ambassadors-are-rocking-all-over-the-world/) beginning of May, several big events have happened and we'll treat you on a report on some of those.<!-- more -->
+[caption id="attachment_9741" align="alignright" width="225" caption="Getting ready to rock in Thessaloniki"][![Getting ready to rock in Thessaloniki](/wp-content/uploads/2011/07/hard-work-to-prepare-in-Thessaloniki.jpg)](http://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/hard-work-to-prepare-in-thessaloniki/)[/caption]
+
+Over the last few months the openSUSE ambassadors have continued to visit conferences around the world. Since our [previous report](http://news.opensuse.org/2011/05/06/opensuse-ambassadors-are-rocking-all-over-the-world/) beginning of May, several big events have happened and we'll treat you on a report on some of those.<!-- more -->
 
 
 ## Already covered in blogs
 
 
-Let's start with a few quick links to reports which are already online and probably read by some of you. There is for example the huge splash Greece ambassadors made at [Fosscomm 2011](https://news.opensuse.org/2011/05/27/fosscomm-2011/) which took place on May 7 and 8 in Greece. With 8 presentations as well as a similar number of lightning talks and a workshop on OBS openSUSE ruled the conference. The team co-hosted the GNOME community in their booth as well as the Enlightenment project and a few others, showing the open and collaborative spirit of openSUSE! Last but not least, they organized a late 11.4 release party which ended up having Red Hat, Ubuntu, Slackware, FreeBSD and many other visitors joining the party!
+Let's start with a few quick links to reports which are already online and probably read by some of you. There is for example the huge splash Greece ambassadors made at [Fosscomm 2011](http://news.opensuse.org/2011/05/27/fosscomm-2011/) which took place on May 7 and 8 in Greece. With 8 presentations as well as a similar number of lightning talks and a workshop on OBS openSUSE ruled the conference. The team co-hosted the GNOME community in their booth as well as the Enlightenment project and a few others, showing the open and collaborative spirit of openSUSE! Last but not least, they organized a late 11.4 release party which ended up having Red Hat, Ubuntu, Slackware, FreeBSD and many other visitors joining the party!
 
-The Greek team also organized a [summer camp](https://news.opensuse.org/2011/06/20/opensuse-summer-camp-greece-2011/) from which you can see pictures in their [facebook group](http://www.facebook.com/group.php?gid=153638841330360). Rest assured we'll make them work harder after they so clearly spend a lot of time drinking and hanging in the sun...
+The Greek team also organized a [summer camp](http://news.opensuse.org/2011/06/20/opensuse-summer-camp-greece-2011/) from which you can see pictures in their [facebook group](http://www.facebook.com/group.php?gid=153638841330360). Rest assured we'll make them work harder after they so clearly spend a lot of time drinking and hanging in the sun...
 
-(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/geekos-relaxing-in-greece/)
+[caption id="attachment_9742" align="alignright" width="300" caption="Relaxing Greeko's"][![Relaxing Greeko's](/wp-content/uploads/2011/07/geekos-relaxing-in-Greece.png)](http://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/geekos-relaxing-in-greece/)[/caption]
 
 Most interestingly, the Greek team went to [the Xariseto.gr bazaar](http://zoumpis.wordpress.com/2011/05/20/participation-of-opensuse-greek-community-in-xariseto-gr-bazaar-may-14-2011-report/). In Thanasis'  words: Xariseto is a festival where people meet and donate their personal belongings which they don't use any more. So as a Linux and openSUSE community we thought that participating in these kind of festivals is really interesting.
 
@@ -46,7 +49,7 @@ At the end of April, Ricardo Varas Santana attended the FLISoL event in Chile, w
 
 Orv Beach participated in the Southwest Computer Conference where he presented openSUSE to an eager crowd. He gave out Tuxes and Geeko's as well as 160 DVD's and flyers to the visitors, mostly members from Computer Clubs around the USA.
 
-(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/not-just-hard-work-but-also-hard-party/)
+[caption id="attachment_9743" align="alignright" width="300" caption="Not just hard work but also... party!"][![Not just hard work!](/wp-content/uploads/2011/07/not-just-hard-work-but-also-hard-party.png)](http://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/not-just-hard-work-but-also-hard-party/)[/caption]
 
 
 ### Taiwan
@@ -66,7 +69,7 @@ Stuart Tanner went to the RedRat Computer Market in Sheffield. He was the only l
 
 Your humble writer has also done his small share the last months, showing up at a computer event in the Netherlands. A team of 4 manned a booth, held 2 presentations, handed out a few hundred DVD's as well as posters and in general showed openSUSE rocks also in NL!
 
-(https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/taiwan/)
+[caption id="attachment_9744" align="alignright" width="300" caption="Action in Taiwan"][![Action in Taiwan](/wp-content/uploads/2011/07/taiwan.jpeg)](http://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/taiwan/)[/caption]
 
 
 ## more work
@@ -82,7 +85,7 @@ And did you notice our Greek team [translates the awesome Weekly News in Greece]
 ## Value
 
 
-The work these ambassadors do for openSUSE is incredibly valuable and should not be under estimated. Christos Bountalis, working on [fillup-ng](http://cbounta.wordpress.com/2011/05/07/gsoc-2011tool-for-merging-configuration-files/) in openSUSE, joined after meeting the Greek openSUSE ambassadors at an event, remarking [in his interview](https://news.opensuse.org/2011/06/23/people-of-opensuse-christos-bountalis/), when asked why he joined openSUSE: I have found many nice and interesting people
+The work these ambassadors do for openSUSE is incredibly valuable and should not be under estimated. Christos Bountalis, working on [fillup-ng](http://cbounta.wordpress.com/2011/05/07/gsoc-2011tool-for-merging-configuration-files/) in openSUSE, joined after meeting the Greek openSUSE ambassadors at an event, remarking [in his interview](http://news.opensuse.org/2011/06/23/people-of-opensuse-christos-bountalis/), when asked why he joined openSUSE: I have found many nice and interesting people
 And indeed. People are what makes the difference between a good and a great Free Software project. And our Ambassadors are often the first people outsiders see!
 
 
@@ -91,4 +94,4 @@ And indeed. People are what makes the difference between a good and a great Free
 
 So we'd like to thank our ambassadors for their awesome work, and invite anyone to [join their ranks](http://en.opensuse.org/openSUSE:Ambassadors)!
 
-You can also help in other ways. For example, if you are an openSUSE developer or follow development closely, add a glimpse of [what is coming to the wiki](http://en.opensuse.org/openSUSE:Upcoming_features). Or if you know a bit about openSUSE, [add and improve our talking points](http://en.opensuse.org/openSUSE:Talking_points)! We also can always use artwork, help with writing and many other things. Feel free to contact the openSUSE marketing team on [opensuse-marketing@opensuse.org](mailto:opensuse-marketing@opensuse.org) and offer to help out!		
+You can also help in other ways. For example, if you are an openSUSE developer or follow development closely, add a glimpse of [what is coming to the wiki](http://en.opensuse.org/openSUSE:Upcoming_features). Or if you know a bit about openSUSE, [add and improve our talking points](http://en.opensuse.org/openSUSE:Talking_points)! We also can always use artwork, help with writing and many other things. Feel free to contact the openSUSE marketing team on [opensuse-marketing@opensuse.org](mailto:opensuse-marketing@opensuse.org) and offer to help out!

@@ -1,15 +1,18 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2012-11-08 17:34:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/11/08/opensuse-12-3-milestone-1-is-ready-for-you/
-title: "openSUSE 12.3 Milestone 1 is Ready for You!"
+slug: opensuse-12-3-milestone-1-is-ready-for-you
+title: openSUSE 12.3 Milestone 1 is Ready for You!
+wordpress_id: 14558
 categories:
 - Announcements
 - Distribution
 ---
-![]({{ site.baseurl }}/assets/factory-tested.png)
+
+![](/wp-content/uploads/2012/10/factory-tested.png)
 News fresh from the Factory: the openSUSE Release team has made the openSUSE 12.3 Milestone 1 available for testing and feedback. There has been lots of plumbing in the infrastructure, with most prominently the removal of SuSEconfig - the capitalization of its name should give a hint about its age. If you want to get a taste of the upcoming release or want to help test and develop this awesome, green Linux distribution: come and get it!<!-- more -->
 
 
@@ -95,4 +98,4 @@ In the toolchain and platform section we have the following major changes:
 
 As expected from a development release, there is still a lot of work to do, so your input at this early stage will be a huge help in making the final release into the beautifully polished work that we aim for. openSUSE 12.3 Milestone 1 has a [list of most annoying bugs here](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.3_dev), please add issues you find and help fix them. My [old blog](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/) about **BURP**ing on [build.opensuse.org](http://build.opensuse.org) is still relevant: find a how-to for fixing issues [here](http://en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
 
-See for yourself what the next version of openSUSE has in store for you at our [download center](http://software.opensuse.org/developer/en).		
+See for yourself what the next version of openSUSE has in store for you at our [download center](http://software.opensuse.org/developer/en).

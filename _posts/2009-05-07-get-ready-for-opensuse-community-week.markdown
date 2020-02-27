@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-05-07 20:29:42+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/05/07/get-ready-for-opensuse-community-week/
-title: "Get Ready for openSUSE Community Week! "
+slug: get-ready-for-opensuse-community-week
+title: Get Ready for openSUSE Community Week!
+wordpress_id: 1622
 categories:
 - Announcements
 - Events
 ---
+
 ![Community Week Counter](http://counter.opensuse.org/communityweek/small)
 
 The first [openSUSE Community Week](http://en.opensuse.org/Community_Week) is just around the corner. May 11 through May 17 we'll be hosting live sessions in IRC to help grow the openSUSE Community.
@@ -54,5 +57,3 @@ You don't have to be a developer to participate. We're looking for all kinds of 
 
 Learn more about openSUSE and Community Week at:
 [http://en.opensuse.org/Community_Week](http://en.opensuse.org/Community_Week)</blockquote>
-
-		

@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-10-29 17:11:57+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/10/29/final-opensuse-11-2-release-candidate-available/
-title: "Final openSUSE 11.2 Release Candidate Available"
+slug: final-opensuse-11-2-release-candidate-available
+title: Final openSUSE 11.2 Release Candidate Available
+wordpress_id: 2416
 categories:
 - Announcements
 - Distribution
@@ -12,7 +14,6 @@ tags:
 - '11.2'
 - release
 ---
-
 
 This is it folks! We're almost there for openSUSE 11.2. Time to grab the final 11.2 release candidate and shake out any remaining bugs to get the lizard ready for release. This release includes an updated kernel, Samba, Firefox, and more.
 
@@ -149,5 +150,3 @@ The final release for 11.2 is scheduled to be released on November 12, 2009. See
 
 
 We're at the home stretch. A big thanks to all the contributors who have participated in the 11.2 cycle. Without you, we'd have no openSUSE.
-
-		

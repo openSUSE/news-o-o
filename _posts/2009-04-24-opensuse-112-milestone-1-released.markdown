@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-24 16:04:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/24/opensuse-112-milestone-1-released/
-title: "openSUSE 11.2 Milestone 1 Released"
+slug: opensuse-112-milestone-1-released
+title: openSUSE 11.2 Milestone 1 Released
+wordpress_id: 1578
 categories:
 - Announcements
 - Distribution
 ---
+
 Lizard lovers, get ready to start your engines! The first milestone release for openSUSE 11.2 [is now ready for your testing pleasure](http://software.opensuse.org/developer).
 
 Please note: This is a milestone release. It's for openSUSE contributors who want to use the release for testing and development (or want a sneak preview of the 11.2 release), but it is not for production use.
@@ -86,4 +89,4 @@ The latest development versions are available from [http://software.opensuse.org
 
 We all want openSUSE 11.2 to be the best release yet, and we need your help to get there. Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a milestone release, and is not suitable for use on production systems.
 
-Though many openSUSE users can and do use the Factory distribution and/or testing releases for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs. See [openSUSE.org/Testing](http://opensuse.org/Testing) for more information on Testing. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.		
+Though many openSUSE users can and do use the Factory distribution and/or testing releases for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs. See [openSUSE.org/Testing](http://opensuse.org/Testing) for more information on Testing. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.

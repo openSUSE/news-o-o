@@ -1,12 +1,15 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-09-14 11:46:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/09/14/updates-enhance-audio-graphics-telepathy/
-title: "Updates Enhance Audio, Graphics, Telepathy"
+slug: updates-enhance-audio-graphics-telepathy
+title: Updates Enhance Audio, Graphics, Telepathy
+wordpress_id: 20103
 ---
-![hexageeko]({{ site.baseurl }}/assets/Hexageeko-200x300.png)Snapshots this week added new sensations for [Tumbleweed](https://en.opensuse.org/openSUSE:Tumbleweed_installation) users, but there were plenty of other updates in the repositories to get people excited.
+
+![hexageeko](/wp-content/uploads/2016/09/Hexageeko.png)Snapshots this week added new sensations for [Tumbleweed](https://en.opensuse.org/openSUSE:Tumbleweed_installation) users, but there were plenty of other updates in the repositories to get people excited.
 
 While snapshot [20160907](https://lists.opensuse.org/opensuse-factory/2016-09/msg00193.html) added some subpackages to enhance PulseAudio and updated [telepathy-qt5](https://telepathy.freedesktop.org/wiki/) to version 0.9.7, [GStreamer](https://gstreamer.freedesktop.org/download/) fixed quite a few bugs in its update to version 1.8.3 to improve media processing. Wine’s 32-bit subpackage update in the snapshot, bringing it to version 1.9.18, added support for multiple kernel drivers in a single process.
 
@@ -18,4 +21,4 @@ Academic, researchers, and high-performance computer users will be happy to see 
 
 Systemd provided a small fix in snapshot [20160911](https://lists.opensuse.org/opensuse-factory/2016-09/msg00252.html) and Tumbleweed is now on the same upstream version of [wayland-protocols](https://lists.freedesktop.org/archives/wayland-devel/2016-August/030606.html) with version 1.7. [Gawk](https://lists.gnu.org/archive/html/info-gnu/2016-08/msg00013.html), the AWK programming language, which provides more recent Bell Laboratories _awk_ extensions, and a number of GNU-specific extensions, updated to version 4.1.4 in the [20160911](https://lists.opensuse.org/opensuse-factory/2016-09/msg00252.html) snapshot.
 
-[GNOME 3.22](https://wiki.gnome.org/ThreePointTwentyone/ReleaseNotes) has yet to make it into a Tumbleweed snapshot. It has some new testing issues and is still working its way through staged testing.		
+[GNOME 3.22](https://wiki.gnome.org/ThreePointTwentyone/ReleaseNotes) has yet to make it into a Tumbleweed snapshot. It has some new testing issues and is still working its way through staged testing.

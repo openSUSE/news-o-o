@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-03-20 18:12:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/03/20/opensuse-weekly-news-issue-115-is-out/
-title: "openSUSE Weekly News, Issue 115 is out!"
+slug: opensuse-weekly-news-issue-115-is-out
+title: openSUSE Weekly News, Issue 115 is out!
+wordpress_id: 3036
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 ![news](http://static.opensuse.org/images/knewsticker.png) Issue #115 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/115)!
 
 
@@ -58,7 +61,7 @@ tags:
     * [3.2 Boosters Team](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Boosters_Team)
 
 	
-      * [3.2.1 Michal HrušeckÃ½:  openSUSE Search](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Michal_Hru.C5.A1eck.C3.BD:_openSUSE_Search)
+      * [3.2.1 Michal HruÅ¡eckÃ½:  openSUSE Search](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Michal_Hru.C5.A1eck.C3.BD:_openSUSE_Search)
 
 	
       * [3.2.2 Boosters Standup  2010-03-16](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Boosters_Standup_2010-03-16)
@@ -333,4 +336,4 @@ tags:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/115/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/115/Translations).		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/115/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/115/Translations).

@@ -1,10 +1,12 @@
 ---
 author: Izabel Valverde
+comments: false
 date: 2015-02-24 00:01:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/02/24/osc15-travel-support-request/
-title: "oSC15 Travel Support Request"
+slug: osc15-travel-support-request
+title: oSC15 Travel Support Request
+wordpress_id: 19090
 categories:
 - Announcements
 - Conference
@@ -18,9 +20,10 @@ tags:
 - oSC15
 - Project
 ---
+
 **openSUSE Conference 2015**
 
-![Link to oSC15 webpage]({{ site.baseurl }}/assets/oSC15.jpg)
+![Link to oSC15 webpage](/wp-content/uploads/2015/02/oSC15.jpg)
 
 
 
@@ -42,7 +45,7 @@ _Remember: All requests will be managed through the TSP application at http://co
 
 You will need an openSUSE Connect account in order to log in the application and apply for sponsorship. Please be sure to fullfil all of your personal details at openSUSE connect account to avoid delays or negative request. A good application with good information will be processed faster.<!-- more -->
 
-**A few reminders![tips]({{ site.baseurl }}/assets/tips.jpg)**
+**A few reminders![tips](/wp-content/uploads/2015/02/tips.jpg)**
 
 
 
@@ -79,4 +82,4 @@ You will need an openSUSE Connect account in order to log in the application and
 
 **If you have any question regarding your trip to the conference do not hesitate to ask the TSP or oSC15 organizers.**
 
-_**We hope to see you there!**_		
+_**We hope to see you there!**_

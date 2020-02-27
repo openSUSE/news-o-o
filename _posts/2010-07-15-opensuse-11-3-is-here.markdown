@@ -1,17 +1,20 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2010-07-15 12:00:08+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/07/15/opensuse-11-3-is-here/
-title: "openSUSE 11.3 is here!"
+slug: opensuse-11-3-is-here
+title: openSUSE 11.3 is here!
+wordpress_id: 3818
 categories:
 - Announcements
 - Distribution
 ---
 
 
-({{ site.baseurl }}/assets/113-is-here.jpg)
+
+[caption id="attachment_3836" align="alignleft" width="300" caption="openSUSE 11.3 is here!"][![11.3 is here](/wp-content/uploads/2010/07/113-is-here.jpg)](/wp-content/uploads/2010/07/113-is-here.jpg)[/caption]
 
 The openSUSE Project is pleased to announce the release of the [latest incarnation of openSUSE](http://software.opensuse.org), with support for 32-bit and 64-bit systems. [openSUSE 11.3](http://wiki.opensuse.org/Portal:11.3) is packed with new features and updates including [SpiderOak](https://spideroak.com/) to sync your files across the Internet for free, Rosegarden for free editing of your audio files, improved indexing with Tracker, and updates to Mozilla Firefox, and Thunderbird.
 
@@ -21,9 +24,9 @@ openSUSE continues its tradition of delivering the popular KDE, GNOME and Xfce d
 
 Click the desktop screenshots for a full view or see the complete collection of screenshots [here](http://wiki.opensuse.org/Screenshots).
 
-({{ site.baseurl }}/assets/OSS113-gnome-shell3.png)
+[caption id="attachment_3821" align="alignleft" width="323" caption="GNOME Shell in GNOME 3.0"][![GNOME Shell in GNOME 3.0](/wp-content/uploads/2010/07/OSS113-gnome-shell3.png)](/wp-content/uploads/2010/07/OSS113-gnome-shell3.png)[/caption]
 
-[![Plasma Desktop on KDE SC 4.4.4]({{ site.baseurl }}/assets/Plasma-desktop-300x225.png)]({{ site.baseurl }}/assets/Plasma-desktop.png)
+[![Plasma Desktop on KDE SC 4.4.4](/wp-content/uploads/2010/07/Plasma-desktop.png)](/wp-content/uploads/2010/07/Plasma-desktop.png)
 
 
     Plasma Desktop on KDE SC 4.4.4
@@ -33,4 +36,4 @@ For servers and development platforms, administrators can take full advantage of
 
 Visit our [Product Highlights](http://wiki.opensuse.org/Product_highlights) pageÂ for a detailed list of new features.
 
-The next release will be openSUSE 11.4 in March, 2011.  Thank you, and have a lot of fun!		
+The next release will be openSUSE 11.4 in March, 2011.  Thank you, and have a lot of fun!

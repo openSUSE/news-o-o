@@ -1,13 +1,16 @@
 ---
 author: Lars Vogdt
+comments: true
 date: 2012-01-30 08:31:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/01/30/ssl-cert-update-for-opensuse-org-hosts-in-nuremberg/
-title: "SSL cert update for opensuse.org hosts in Nuremberg"
+slug: ssl-cert-update-for-opensuse-org-hosts-in-nuremberg
+title: SSL cert update for opensuse.org hosts in Nuremberg
+wordpress_id: 12535
 categories:
 - Infrastructure
 ---
+
 Thursday 2012-02-02 we will update the SSL certificates for all openSUSE hosts located Nuremberg (see detailed list below). The fingerprint of the new certificate is:
 
 
@@ -73,4 +76,4 @@ The following hosts will be affected:
   * ci.opensuse.org
 
 
-We do not expect any service interruptions, but some users run with strict certificate checks.		
+We do not expect any service interruptions, but some users run with strict certificate checks.

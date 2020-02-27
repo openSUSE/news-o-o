@@ -1,13 +1,16 @@
 ---
 author: Kostas Koudaras
+comments: true
 date: 2011-09-30 09:12:01+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/
-title: "openSUSE Pizza Parties the Geeko Way"
+slug: opensuse-pizza-parties-the-geeko-way
+title: openSUSE Pizza Parties the Geeko Way
+wordpress_id: 11150
 categories:
 - Events
 ---
+
 [![Prosciutto, anchovy and onion pizza.](http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)
 
 The  new openSUSE 12.1 Release is approaching very soon and all you Geekos should not miss the opportunity of becoming a _double GPM_!
@@ -20,7 +23,7 @@ Party time starts this weekend and lasts until November 2011 in all Geeko-towns 
 ## HowTo
 
 
-So, the first GPM: Geeko Party Maker. As you might have seen, you've all been invited to [organize a pizzabeta party](https://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/). The [beta has been delayed a bit](https://news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/) but party can still be had - the release will be this weekend. Of course, instead, you can organize a launch party for 12.1 once it is out - which is currently planned the third week of November.
+So, the first GPM: Geeko Party Maker. As you might have seen, you've all been invited to [organize a pizzabeta party](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/). The [beta has been delayed a bit](http://news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/) but party can still be had - the release will be this weekend. Of course, instead, you can organize a launch party for 12.1 once it is out - which is currently planned the third week of November.
 
 Parties are simple: you only need people, the rest will follow. Geeko's are fun at heart although many of them require some beer and food to really loosen up. If you have your event at a pizza place, it doesn't get easier! Of course you can do it at home, in an office, a pub, or wherever else you want. Most important thing: Just Do it! Don't worry that only 5 people show up. 5 Geeko's already make a huge party, you'd be surprised! So, how to do it? **Just two steps**:
 
@@ -36,7 +39,7 @@ Parties are simple: you only need people, the rest will follow. Geeko's are fun 
 That way you can gather all your local community for this nice Pizza Party. Need more help organizing it? Check out the wiki articles!
 
 
-  * [how to do a betapizza party](https://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/)
+  * [how to do a betapizza party](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/)
 
 
   * [read the launch party HOWTO](http://en.opensuse.org/openSUSE:Launch_party_HOWTO)
@@ -67,7 +70,7 @@ This is your challenge - you will love every bit of it (especially the eating pa
 ### Recipe
 
 
-Get your bread maker ready and let™s get started!
+Get your bread maker ready and letâ€™s get started!
 
 You will need the following ingredients for the dough:
 
@@ -101,7 +104,7 @@ And now what...?
   2. You put butter on a tray and put the dough on top.
 
 
-(Alternatively: If you don™t have a rolling pin you can just push the dough with a spoon so that it covers the whole tray)
+(Alternatively: If you donâ€™t have a rolling pin you can just push the dough with a spoon so that it covers the whole tray)
 
 
 	
@@ -117,7 +120,7 @@ And now what...?
   6. Final touch: you slice green pepper into pieces and arrange them in the form of a geeko on the top of the pizza.
 
 
-Alternative  way for the geeko design: Use avocado sauce which you can easily make by beating up an avocado (after you have peeled it off) using a fork or your multi-mixer. You should add a little salt and oil to make it more tasty and if you want you can even add some smashed tomato or tomato juice - just a little bit, because we don™t want to lose the nice green color now, do we?
+Alternative  way for the geeko design: Use avocado sauce which you can easily make by beating up an avocado (after you have peeled it off) using a fork or your multi-mixer. You should add a little salt and oil to make it more tasty and if you want you can even add some smashed tomato or tomato juice - just a little bit, because we donâ€™t want to lose the nice green color now, do we?
 
 
 	
@@ -132,4 +135,4 @@ Alternative  way for the geeko design: Use avocado sauce which you can easily ma
 
 And now you can enjoy your 12.1 Release Pizza Party with your self-made Geeko pizza!
 
-Don™t forget to send us photos and comments :)		
+Donâ€™t forget to send us photos and comments :)

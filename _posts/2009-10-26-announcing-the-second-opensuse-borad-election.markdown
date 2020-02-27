@@ -1,19 +1,22 @@
 ---
 author: News Team
+comments: true
 date: 2009-10-26 10:40:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/10/26/announcing-the-second-opensuse-borad-election/
-title: "Announcing the Second openSUSE Board Election"
+slug: announcing-the-second-opensuse-borad-election
+title: Announcing the Second openSUSE Board Election
+wordpress_id: 2388
 categories:
 - Announcements
 - Project
 tags:
 - board
 ---
+
 The time has come again for openSUSE Members to vote for new members to the Board.
 
-Stephen Shaw (decriptor) and Bryen Yunashko (suseROCKS) have completed their tenure on the Board, and their seats are up for election.Â  There is also a new seat available to be occupied by a non-Novell member.Â  Henne Vogelsang (henne) and Pascal Bleser (yaloki) have another year to complete and will remain, Michael Löffler (michl) as chairman will remain as well.Â  This means that as of this year's election the openSUSE Board will be made up of equal numbers of Novell and non-Novell employees, 2 seats+Chairperson and 3 seats respectively.Â  Candidates for this election will be voted in for a two (2) year term, ensuring that there is continuity within the Board.
+Stephen Shaw (decriptor) and Bryen Yunashko (suseROCKS) have completed their tenure on the Board, and their seats are up for election.Â  There is also a new seat available to be occupied by a non-Novell member.Â  Henne Vogelsang (henne) and Pascal Bleser (yaloki) have another year to complete and will remain, Michael LÃ¶ffler (michl) as chairman will remain as well.Â  This means that as of this year's election the openSUSE Board will be made up of equal numbers of Novell and non-Novell employees, 2 seats+Chairperson and 3 seats respectively.Â  Candidates for this election will be voted in for a two (2) year term, ensuring that there is continuity within the Board.
 
 The election is broken into three phases similar to last year:
 
@@ -79,4 +82,4 @@ The election is broken into three phases similar to last year:
   * Ballots close
 
 
-Should anyone have any questions, you can contact the Election Committee by emailing [election-officials@opensuse.org](mailto:election-officials@opensuse.org) or speaking to one of the members on IRC.Â  It is best to always email the committee even if you speak to someone on IRC.Â  Full details of the election can be found on the wiki [here](http://en.opensuse.org/Board_Election/2009).Â  Prospective candidates are highly encouraged to read [this](http://lwn.net/Articles/211548/) lwn.net article on some of the tasks required of Board members.		
+Should anyone have any questions, you can contact the Election Committee by emailing [election-officials@opensuse.org](mailto:election-officials@opensuse.org) or speaking to one of the members on IRC.Â  It is best to always email the committee even if you speak to someone on IRC.Â  Full details of the election can be found on the wiki [here](http://en.opensuse.org/Board_Election/2009).Â  Prospective candidates are highly encouraged to read [this](http://lwn.net/Articles/211548/) lwn.net article on some of the tasks required of Board members.

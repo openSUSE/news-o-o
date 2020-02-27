@@ -1,10 +1,12 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2013-12-18 12:18:13+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/12/18/announcing-opensuse-education-li-f-e-13-1/
-title: "Announcing openSUSE Education Li-f-e 13.1"
+slug: announcing-opensuse-education-li-f-e-13-1
+title: Announcing openSUSE Education Li-f-e 13.1
+wordpress_id: 17460
 categories:
 - Announcements
 - Edu Li-f-e
@@ -14,6 +16,7 @@ tags:
 - opensuse
 - release
 ---
+
 ![](http://en.opensuse.org/images/3/33/Life13.1.png)
 
 Get Li-f-e from here : [Direct Download](https://sourceforge.net/projects/opensuse-edu/files/latest/download?source=files) | [Torrents](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-latest-i686.iso.torrent) | [Metalinks](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e.i686-13.1.1.iso.meta4) | [md5sum](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-latest-i686.iso.md5)
@@ -150,7 +153,7 @@ This is also the easiest way to get [LTSP(Linux Terminal Server) running](https:
 [GNOME](https://en.opensuse.org/Portal:GNOME) 3.10.2
 [Here is the complete list of packages](http://www.opensuse-education.org/~cyberorg/opensuse-edu-life-1311-packages.html) installed on this media.
 
-Check out the openSUSE 13.1 [release announcement](https://news.opensuse.org/2013/11/19/opensuse-13-1-ready-for-action) and [sneak peeks](https://news.opensuse.org/category/distribution/sneak-peeks/) for in-depth features of this release.
+Check out the openSUSE 13.1 [release announcement](http://news.opensuse.org/2013/11/19/opensuse-13-1-ready-for-action) and [sneak peeks](http://news.opensuse.org/category/distribution/sneak-peeks/) for in-depth features of this release.
 
 
 
@@ -164,8 +167,8 @@ Fine print:
 
 Requires minimum 15GB partition, 30GB is recommended if you intend to use it as your main operating system and 1 GB of RAM. Running it from DVD will be very slow so [create live USB stick](http://en.opensuse.org/Live_USB_stick) for testing and installation.
 
-Test reports, blog posts, reviews are always welcome “ if you encounter any problems, feel free to contact us via any way [mentioned in our wiki](http://en.opensuse.org/Portal:Education) or [write a bug report](https://bugzilla.novell.com/enter_bug.cgi?classification=7340&product=openSUSE.org&component=3rd%20party%20software&assigned_to=lrupp%40suse.com&short_desc=Education).
+Test reports, blog posts, reviews are always welcome â€“ if you encounter any problems, feel free to contact us via any way [mentioned in our wiki](http://en.opensuse.org/Portal:Education) or [write a bug report](https://bugzilla.novell.com/enter_bug.cgi?classification=7340&product=openSUSE.org&component=3rd%20party%20software&assigned_to=lrupp%40suse.com&short_desc=Education).
 
 Have a lot of fun...
 
-Your openSUSE Education Team		
+Your openSUSE Education Team

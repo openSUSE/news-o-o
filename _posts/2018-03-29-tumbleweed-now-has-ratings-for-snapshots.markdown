@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-03-29 09:31:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/03/29/tumbleweed-now-has-ratings-for-snapshots/
-title: "Tumbleweed Now Has Ratings for Snapshots"
+slug: tumbleweed-now-has-ratings-for-snapshots
+title: Tumbleweed Now Has Ratings for Snapshots
+wordpress_id: 20776
 categories:
 - Announcements
 - Distribution
@@ -34,7 +36,6 @@ tags:
 - Tumbleweed
 ---
 
-
 ### **Major Krita Release Arrives in Tumbleweed**
 
 
@@ -49,4 +50,4 @@ The most recent snapshot, [20180326](https://lists.opensuse.org/opensuse-factory
 
 The snapshots from the previous week were covered in a [Weekly Review](https://lists.opensuse.org/opensuse-factory/2018-03/msg00568.html) of Tumbleweed email by release manager Dominique Leuenberger, who posted it on the [openSUSE Factory Mailing List](https://lists.opensuse.org/opensuse-factory/).
 
-		
+

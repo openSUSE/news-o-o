@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-06-30 07:51:27+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/06/30/opensuse-asia-summit-2017-tokyo-japan/
-title: "openSUSE.Asia Summit 2017 Tokyo, Japan"
+slug: opensuse-asia-summit-2017-tokyo-japan
+title: openSUSE.Asia Summit 2017 Tokyo, Japan
+wordpress_id: 20459
 categories:
 - Conference
 - Events
@@ -23,7 +25,8 @@ tags:
 - Taiwan
 - Tokyo
 ---
-![]({{ site.baseurl }}/assets/P6242267_R-1024x341.jpg)
+
+![](/wp-content/uploads/2017/06/P6242267_R.jpg)
 
 It is our great pleasure to announce that openSUSE.Asia Summit 2017 will take place at the University of Electro Communications, Tokyo, Japan on October 21 and 22.
 
@@ -66,7 +69,7 @@ openSUSE.Asia Summit 2017 will soon call for proposals of talks. There will be t
 [https://en.opensuse.org/openSUSE:Travel_Support_Program](https://en.opensuse.org/openSUSE:Travel_Support_Program)
 
 
-We will announce the details at [https://news.opensuse.org](https://news.opensuse.org) as soon as it is decided. Please prepare for your presentations and wait for it.
+We will announce the details at [//news.opensuse.org](//news.opensuse.org) as soon as it is decided. Please prepare for your presentations and wait for it.
 
 
 ### At the end
@@ -74,4 +77,4 @@ We will announce the details at [https://news.opensuse.org](https://news.opensus
 
 This event is one of  the great opportunities for openSUSE community. See you in Tokyo — a center of Japanese economy and industry, with subcultures including manga and anime.
 
-Have a lot of fun...		
+Have a lot of fun...

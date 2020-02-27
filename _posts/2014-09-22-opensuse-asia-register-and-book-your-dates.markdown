@@ -1,14 +1,17 @@
 ---
 author: Manu Gupta
+comments: true
 date: 2014-09-22 04:20:35+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/09/22/opensuse-asia-register-and-book-your-dates/
-title: "openSUSE Asia - Register and book your dates!!!"
+slug: opensuse-asia-register-and-book-your-dates
+title: openSUSE Asia - Register and book your dates!!!
+wordpress_id: 18571
 categories:
 - Announcements
 - Summit
 ---
+
 The openSUSE Asia Summit committee has been working hard and is finally prepared to welcome you and give a taste of rich Chinese history and hospitality.
 
 You may register in our [CONFERENCE SUBMISSION TOOL](https://events.opensuse.org/) before **_Sep 30th_**. We are looking forward to having you with us on this Oct in Beijing.
@@ -75,5 +78,3 @@ If you have difficult to access Google Maps, please visit the [link to OpenStree
 
 
 _If you have any problem about registration, here we have a short [README](https://github.com/openSUSE-CN/osem-register-howto)._
-
-		

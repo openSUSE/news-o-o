@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-07-02 19:13:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/07/02/opensuse-weekly-news-issue-182-is-out/
-title: "openSUSE Weekly News, Issue 182 is out!"
+slug: opensuse-weekly-news-issue-182-is-out
+title: openSUSE Weekly News, Issue 182 is out!
+wordpress_id: 9496
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News Issue 182.
 <!-- more -->
 
@@ -112,12 +115,12 @@ Enjoy reading :-)
 The Articles inside this Section are in full. If you are already knowing the stuff in
       news.opensuse.org, then you can skip this section through using the TOC.
 
+â€œ
 
-
-[openSUSE strategy voting close to the finish line!](https://news.opensuse.org/2011/06/27/opensuse-strategy-voting-close-to-the-finish-line/)
+[openSUSE strategy voting close to the finish line!](http://news.opensuse.org/2011/06/27/opensuse-strategy-voting-close-to-the-finish-line/)
 
 As we wrote [three weeks
-        ago](https://news.opensuse.org/2011/06/07/time-to-vote-on-the-opensuse-strategy/), June 30th is the deadline for [voting for the
+        ago](http://news.opensuse.org/2011/06/07/time-to-vote-on-the-opensuse-strategy/), June 30th is the deadline for [voting for the
         openSUSE Strategy](http://bit.ly/kZaAC2)!
 
 **Relevance**
@@ -134,8 +137,8 @@ As we wrote [three weeks
 
 **Discussion**
 
-It took a long time “ we are an open community and as such, strategic discussions take
-      time. However, we went through the effort. Lots of input came from a variety of people “ each
+It took a long time â€“ we are an open community and as such, strategic discussions take
+      time. However, we went through the effort. Lots of input came from a variety of people â€“ each
       iteration had sometimes over a hundred comments. You can view some of the  [although you should notice that
         co-ment is just one of the ways we collected feedback (others being the mailing lists, IRC,
         forums and more)](https://lite.co-ment.com/text/lNPCgzeGHdV/history/).
@@ -146,28 +149,28 @@ While the [current proposal](http://en.opensuse.org/openSUSE:Strategy)
       is not meant to be limiting new directions or will be forever set in stone, it is meant to
       provide clarity to our community for the time being. So we do want it to be taken seriously.
       We develop major software products promoting open source and the use of Linux world wide.
-      We™re a major Linux distribution, the second largest by most metrics. We provide a packaging
+      Weâ€™re a major Linux distribution, the second largest by most metrics. We provide a packaging
       build service that is used by distributions more than just openSUSE. We have an obligation to
       deliver a consistent, quality product to our users. And to provide an open and fun place to be
-      around for contributors. We can™t satisfy every need to the fullest, but what we can do is
+      around for contributors. We canâ€™t satisfy every need to the fullest, but what we can do is
       make clear what we are trying to do here.
 
 Providing that clarity to our users and contributors through this strategy is a major step
       towards our future. So, we need our membership to vote. To make your voice heard and to know
       if it truly has the support it needs.
 
-So, if you™re an openSUSE Member, go,[read the document one more time](http://en.opensuse.org/openSUSE:Strategy) and [cast your
+So, if youâ€™re an openSUSE Member, go,[read the document one more time](http://en.opensuse.org/openSUSE:Strategy) and [cast your
         vote](http://bit.ly/kZaAC2)!
 
 **Editor's note**: Althogh the deadline for voting has passed
       already, and even if you are not a Member, we strongly recommend you to read the proposal once
       again.
 
-
+â€
 
+â€œ
 
-
-[openSUSE Continues Brazilian Blaze!](https://news.opensuse.org/2011/06/29/opensuse-continues-brazilian-blaze/)
+[openSUSE Continues Brazilian Blaze!](http://news.opensuse.org/2011/06/29/opensuse-continues-brazilian-blaze/)
 
 Continuing the great work of our Ambassadors of the Southern Hemisphere, our Brazilian
       openSUSE team once again gets ready for a strong openSUSE presence in Brazil beginning today
@@ -175,7 +178,7 @@ Continuing the great work of our Ambassadors of the Southern Hemisphere, our Bra
         Alegre](http://softwarelivre.org/fisl12). A major FOSS event in South America, FISL 12 is expecting 8,000 attendees
       this year.
 
-![]({{ site.baseurl }}/assets/FISL12.png)
+![](/wp-content/uploads/2011/06/FISL12.png)
 
 The openSUSE Brazilian Ambassador team has been making strong inroads introducing not just
       our distro but also our many Project offerings, such as the [Open Build Service](http://buildservice.org), [SUSE Studio](http://susestudio.com), and [Edu-L-Ife](http://en.opensuse.org/openSUSE:Education-Li-f-e). openSUSE has played such an important role from the classroom to the
@@ -187,13 +190,13 @@ So, if you just happen to be in the Porto Alegre area (or heck, if you feel the 
       openSUSE Booth. The team will be in force and will be ready to answer all your questions about
       openSUSE and give you free LiveDVDs. You can also catch them throughout the event giving talks
       on OBS, Edu-L-Ife, giving general updates about the latest in the openSUSE Project. And you
-      won™t want to miss the openSUSE Community Meeting where you get to express your views and
+      wonâ€™t want to miss the openSUSE Community Meeting where you get to express your views and
       support for openSUSE.
 
-It™s definitely an event you won™t want to miss, and it™s all happening right there in
+Itâ€™s definitely an event you wonâ€™t want to miss, and itâ€™s all happening right there in
       Porto Alegre. So stop by as soon as you can.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
 
@@ -201,16 +204,16 @@ It™s definitely an event you won™t want to miss, and it™s all happening ri
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
+â€œ
 
 
-
-      [N.B.Prashanth: GsoC Report “ 3](http://nbprashanth.wordpress.com/2011/06/27/gsoc-report-%E2%80%93-3/)
+      [N.B.Prashanth: GsoC Report â€“ 3](http://nbprashanth.wordpress.com/2011/06/27/gsoc-report-%E2%80%93-3/)
 
 Yes. Sorry. It is another report. But i ll try my best to keep this one short though. ![](http://s2.wp.com/wp-includes/images/smilies/icon_razz.gif?m=1301511873g)
 
 Last week was all about the GTK plugin. This plugin was different from the other plugins
       and was dependent on libzypp. And libzypp was dependent on libsatsolver and that was dependent
-      on¦. well, you get the point. The libzypp dependecy had to be removed and that was my
+      onâ€¦. well, you get the point. The libzypp dependecy had to be removed and that was my
       job.
 
 Most of the time was spent in analysing how (and why) libzypp was used by the plugin. Once
@@ -246,13 +249,13 @@ The documentation would be the next task. At present, the documentation is gener
 
 The GTK package will be added to OBS soon.
 
-
+â€
 
-
+â€œ
 
 [Lucas Lira Gomes: Podcast Subscription Synchronisation](http://pinguimengenheiro.blogspot.com/2011/06/gsoc-podcast-subscription.html)
 
-It™s been two weeks since my last update about progress on gpodder integration with
+Itâ€™s been two weeks since my last update about progress on gpodder integration with
       Amarok, so here we go.Amarok is now fully capable to receive podcasts from gpodder.net and to
       synchronize them with your own local podcasts, and the other way around. Every podcast, from
       gpodder.net, will be synchronized with it respective, from local podcasts, using the playlist
@@ -294,14 +297,14 @@ So, remember to keep in touch with this blog. Next week, I will be back to updat
 
 All hail the KDE!!! \o/
 
-
+â€
 
-
+â€œ
 
 [Alex Eftimie: PackageKit backend for Software Center: late week 4 report](http://alex.eftimie.ro/2011/06/28/packagekit-backend-for-software-center-late-week-4-report/)
 
-Since third week™s report was no report “ basically because I was delayed by missing parts
-      in the architecture (the saga hasn™t finished yet), I™m posting this late 4th week
+Since third weekâ€™s report was no report â€“ basically because I was delayed by missing parts
+      in the architecture (the saga hasnâ€™t finished yet), Iâ€™m posting this late 4th week
       report:
 
 ![](http://alex.eftimie.ro/wp-content/uploads/2011/06/Workspace-1_003-300x166.png)
@@ -313,38 +316,38 @@ Unfortunately, the only machine running this code is mine, the reason being this
 
 - static Python bindings for PK are dead
 
-- PK gi depends on pygobject invoke-rewrite branch of J5 (which isn™t
+- PK gi depends on pygobject invoke-rewrite branch of J5 (which isnâ€™t
 
 yet merged into master, but will make it to 3.2 release);
 
 - PK gi breaks statically loaded glib in software-center master; therefore, the -gtk3 port
       of software-center should be used;
 
-- software-center-gtk3 isn™t ready for merging into trunk “ experimental design changes
+- software-center-gtk3 isnâ€™t ready for merging into trunk â€“ experimental design changes
       towards a friendlier 5.0 are being done.
 
-Therefore I™m testing the install/remove routines on the small modules, such as the
+Therefore Iâ€™m testing the install/remove routines on the small modules, such as the
       PendingView in the above screenshot, waiting for components stabilization.
 
-Next week “ and probably until week 6 report, I will continue work on the install parts
+Next week â€“ and probably until week 6 report, I will continue work on the install parts
       and start developing the PK PackageInfo class.
 
-PS: I™m undecided if I should make my reports biweekly or milestone based :-/
+PS: Iâ€™m undecided if I should make my reports biweekly or milestone based :-/
 
-
+â€
 
-
+â€œ
 
 [N.B.Prashanth: GsoC Weekly Report - "Separating libYUI"](http://lists.opensuse.org/opensuse-project/2011-06/msg00197.html)
 
 I would like to summarize my progress so far. I am working on the libYUI project as
       mentioned above.(...)
 
-
+â€
 
+â€œ
 
-
-[Christos Bountalis: A utility for merging configuration / sysconfig files “ Week 6
+[Christos Bountalis: A utility for merging configuration / sysconfig files â€“ Week 6
         Report](http://cbounta.wordpress.com/2011/07/01/a-utility-for-merging-configuration-sysconfig-files-%E2%80%93-week-6-report/)
 
 This is my 6th report concerning the progress of my gsoc project. First of all, I want to
@@ -355,7 +358,7 @@ This is my 6th report concerning the progress of my gsoc project. First of all, 
       Even though in my initial plan there were about two weeks free time in the schedule that i
       could use in occasions like this.
 
-Anyway, what™s up with the progress. As I have described in previous post, I am currently
+Anyway, whatâ€™s up with the progress. As I have described in previous post, I am currently
       working on the matching code / algorithm. Some major improvements took place on the
       aug_process_tree method, which will be responsible for matching the initial tree with those
       coming as parameters. The tree traversal algorithm is now working completely, some issues
@@ -371,38 +374,38 @@ Finally, small changes and improvements took place in few other functions as wel
       merging. At least to a point where more more debugging tests would be able to be carried
       out.
 
-
+â€
 
-
+â€œ
 
 [David
       Williams: Entomologist UI changes Weekly Report #5](http://redache.wordpress.com/2011/06/25/entomologist-ui-changes-weekly-report-5/)
 
 This week has been a bad one for getting work done as I managed to lose a lot of my work
-      mid week. I™ve spent the rest of the week trying to get back to where I was and finishing up
-      the New Comments Dialog. I also repeated the mantra commit often to remind myself to do it
-      so much more often than I do to ensure I can™t lose work when QT Creator decides to delete
+      mid week. Iâ€™ve spent the rest of the week trying to get back to where I was and finishing up
+      the New Comments Dialog. I also repeated the mantra â€œcommit oftenâ€ to remind myself to do it
+      so much more often than I do to ensure I canâ€™t lose work when QT Creator decides to delete
       things.
 
-The New Comments Dialog is at its first iteration and I am going to spend the next 2 “ 3
+The New Comments Dialog is at its first iteration and I am going to spend the next 2 â€“ 3
       days fixing any bugs and resolving some issues with the tabbed interface. Then on Monday I
       will start the TODO lists in earnest and get back to being on track with my timeline. 
 
 Luckily time is something I do have and I think I gave myself plenty of breathing space in
-      the timeline I submitted with my GSoC application. I™d rather take my time and get things done
+      the timeline I submitted with my GSoC application. Iâ€™d rather take my time and get things done
       properly with breathing room than cram in as much functionality as possible into the 12 weeks
       and then end it with a massive chunk of badly written and probably broken code. This breathing
       room helped me this week.
 
-
+â€
 
-
+â€œ
 
 [David
         Williams: Entomologist UI changes Weekly Report #6](http://redache.wordpress.com/2011/07/01/entomologist-ui-changes-weekly-report-6/)
 
-This week has been a bit productive but there still isn™t that much to show for the work I
-      have done as it™s primarily related to drag and drop in the TODO list. The start of the week
+This week has been a bit productive but there still isnâ€™t that much to show for the work I
+      have done as itâ€™s primarily related to drag and drop in the TODO list. The start of the week
       was spent bolstering the code I had worked on for the tabbed interface and ensuring that I
       caught as many bugs as I could find. The later part of the week has been focused on the TODO
       list. 
@@ -413,7 +416,7 @@ The idea behind the TODO list is a way to categorize bugs with your own scheme a
       The main focus right now is getting it to work within the context of entomologist and once
       that is done focus on the cloud integration aspect.
 
-So far the drag and drop doesn™t work but it™s getting there and once it is complete I
+So far the drag and drop doesnâ€™t work but itâ€™s getting there and once it is complete I
       will tidy the code and the TODO list as a first iteration should be finished (since drag and
       drop being completed is the same as finishing most of the functionality). 
 
@@ -424,27 +427,27 @@ What am I going to do next week?:
 - Move forwards with the second iteration and implement prefpanes for each list (with
       options like name,date etc.)
 
-- Start Cloud integration (If there™s time left at the end of the week!).
+- Start Cloud integration (If thereâ€™s time left at the end of the week!).
 
-I need to take some time to try and document what I™ve done too which would involve making
-      comments I™ve written better and maybe putting together a small Hackers Guide to
-      Entomologist. If I have time left over I will definitely do this work before the end of the
+I need to take some time to try and document what Iâ€™ve done too which would involve making
+      comments Iâ€™ve written better and maybe putting together a small â€œHackers Guide to
+      Entomologistâ€. If I have time left over I will definitely do this work before the end of the
       Summer. 
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
-
+â€œ
 
 
         [Andreas
           Jaeger: Factory Progress 2011-07-01](http://lizards.opensuse.org/2011/07/01/factory-progress-2011-07-01/)
       
 
-Here™s with some delay the next incarnation of Factory Progress. I™ve noticed the
+Hereâ€™s with some delay the next incarnation of Factory Progress. Iâ€™ve noticed the
         following changes that might interest people using and developing openSUSE Factory:
 
 **Package changes**
@@ -458,14 +461,14 @@ Linux kernel 3.0 rc5 is currently on its way to factory and the header files (in
 
 **systemd**
 
-Frederic has proposed a [Road to systemd for
-          openSUSE 12.1³](http://lists.opensuse.org/opensuse-factory/2011-06/msg00210.html). Systemd is a replacement of the SysVinit scripts that we have been
-        using and improving in the past with many new “ including some controversial “ ideas. Check
+Frederic has proposed a â€œ[Road to systemd for
+          openSUSE 12.1â€³](http://lists.opensuse.org/opensuse-factory/2011-06/msg00210.html). Systemd is a replacement of the SysVinit scripts that we have been
+        using and improving in the past with many new â€“ including some controversial â€“ ideas. Check
         his blog post for additional references about systemd. The majority of the distributions are
         moving to systemd as well and standarizing on it, will allow to share some more code and
         development in this area.
 
-We™re now in phase 1 “ which means: Get systemd running as an option. Once this is
+Weâ€™re now in phase 1 â€“ which means: Get systemd running as an option. Once this is
         working satisfactory, we can switch the default (phase 2) and decide what to do with
         SysVinit support.
 
@@ -477,19 +480,19 @@ The C library glibc now does not come anymore with static libraries, those are i
 **Python 3.2**
 
 The python3 package is now at version 3.2, the most important change in Python 3.2 is
-        the implementation of PEP 384, a stable ABI for extension modules which means that with
-        3.2 and upwards there won™t be any API breakages for modules which is really important
+        the implementation of â€œPEP 384, a stable ABI for extension modulesâ€ which means that with
+        3.2 and upwards there wonâ€™t be any API breakages for modules which is really important
         developer wise.
 
 Another big improvement is the new GIL (Global Interpreter Lock) implementation which
-        will speed up threaded Python code. Python 3.2 also introduces futures library which is
+        will speed up threaded Python code. Python 3.2 also introduces â€œfuturesâ€ library which is
         used for concurrent programming, this will be useful more multi-core Python
         development.
 
 **Tomoyo**
 
-Tomoyo is a MAC (Mandatory Access Control) implementation for Linux “ so an alternative
-        to AppArmor and SELinux. openSUSE™s Linux kernel does now come with the module and also the
+Tomoyo is a MAC (Mandatory Access Control) implementation for Linux â€“ so an alternative
+        to AppArmor and SELinux. openSUSEâ€™s Linux kernel does now come with the module and also the
         tools were updated to support this.
 
 **Policy and tool changes**
@@ -501,21 +504,21 @@ The[ new
           source service mode has been activated](http://lists.opensuse.org/opensuse-packaging/2011-06/msg00028.html), it is recommended to update to osc 0.132
         version as available in the openSUSE:Tools project to work with source services. Now the
         download URL given in source link is checked, so it has to be accurate. If you downloaded
-        and recompressed a tarball, read Coolo™s [policy
-          change](http://lists.opensuse.org/opensuse-packaging/2011-06/msg00182.html): please don™t recompress tarballs unless it saves >1MB for
-        download..
+        and recompressed a tarball, read Cooloâ€™s [policy
+          change](http://lists.opensuse.org/opensuse-packaging/2011-06/msg00182.html): â€œplease donâ€™t recompress tarballs unless it saves >1MB for
+        download.â€.
 
 He also mentions:
 
-
+â€œ
 
 What will become policy sooner or later is that you should not have incorrect source
-          URLs behind Source*, so _if_ you have to recompress, don™t lie in the
+          URLs behind Source*, so _if_ you have to recompress, donâ€™t lie in the
 
 Source line, but put the original tar as comment and use local file names in
           Source:
 
-
+â€
 
 **Dropping a package from Factory**
 
@@ -533,11 +536,11 @@ To make it easier to write release notes, it helps a lot, if you (= the so-calle
 **openSUSE Conference**
 
 The call for papers is continuing to run, please submit session proposals at the [conference site](http://conference.opensuse.org/indico/). If you like to learn
-        what a BoF is, read this [article](https://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/).
+        what a BoF is, read this [article](http://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/).
 
-
+â€
 
-
+â€œ
 
 [FrÃ©dÃ©ric Crozat: Status update on systemd for openSUSE Factory](http://blog.crozat.net/2011/07/status-update-on-systemd-for-opensuse.html)
 
@@ -613,7 +616,7 @@ Thanks everybody for your attention.
 I would be great if we could get the ball moving and maybe get one of the next Factory
         milestone be a "systemd" test release but to reach this point, we need YOU !
 
-
+â€
 
 Important Links
 
@@ -625,7 +628,7 @@ Important Links
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
-
+â€œ
 
 
         [Holger Hetterich: SMBTA Stresstest 0.0.4 appliance features SMB Traffic Analyzer 1.2.5 and runs webSMBTA out of the box](http://holger123.wordpress.com/2011/06/29/smbta-stresstest-0-0-4-appliance-features-smb-traffic-analyzer-1-2-5-and-runs-websmbta-out-of-the-box/)
@@ -666,7 +669,7 @@ FigureÂ 5.Â An instance of the smbtamonitor real time program running agains
 
 Just [download the OVF image](http://susegallery.com/a/tLEB1d/smbta-stresstest-smbtad) we provide via [SUSE Gallery](http://susegallery.com/browse), setup your virtual machine to have network access, and point your web
         browser to the hostname or IP adress of your virtual machine. Also, you can run all real
-        time clients such as the FigureÂ 5, An instance of the smbtamonitor real time program running against SMBTA Stresstest 0.0.4 in VirtualBox.smbtamonitor program, or our
+        time clients such as the FigureÂ 5, â€œAn instance of the smbtamonitor real time program running against SMBTA Stresstest 0.0.4 in VirtualBox.â€smbtamonitor program, or our
         interface to rrdtool, rrddriver, against SMBTA Stresstest 0.0.4. It has an open port for
         real time clients on port number 3491.
 
@@ -687,7 +690,7 @@ FigureÂ 6.Â At the very first connection to webSMBTA, use these parameters t
 
 SMBTA Stresstest 0.0.4 comes with a preinstalled[ Samba](http://www.samba.org) server, is configured to host three shares on that server, and generates
         constant data traffic by six users that are running [smbtatorture](http://morelias.org/smbta/smbta-guide.html#_smbtatorture)
-        instances, a program we developed to test SMBTA. Thanks to the hard work of **Benjamin Brunner** on this release, the [webSMBTA component](http://morelias.org/smbta/smbta-guide.html#_websmbta)FigureÂ 6, At the very first connection to webSMBTA, use these parameters to connect to the database in SMBTA Stresstest. is running out of the box in this release, hosted by an Apache
+        instances, a program we developed to test SMBTA. Thanks to the hard work of **Benjamin Brunner** on this release, the [webSMBTA component](http://morelias.org/smbta/smbta-guide.html#_websmbta)FigureÂ 6, â€œAt the very first connection to webSMBTA, use these parameters to connect to the database in SMBTA Stresstest.â€ is running out of the box in this release, hosted by an Apache
         webserver.
 
 This release is based on our latest and greatest [stable release of SMB Traffic Analyzer, version 1.2.5](http://holger123.wordpress.com/2011/05/28/smb-traffic-analyzer-1-2-5-released/), and the rest of the
@@ -696,9 +699,9 @@ This release is based on our latest and greatest [stable release of SMB Traffic 
 
 You can [download the SMBTA Stresstest appliance](http://susegallery.com/a/tLEB1d/smbta-stresstest-smbtad) from [SUSE Studio](http://susestudio.com/), more information on the [SMB Traffic Analyzer project](http://holger123.wordpress.com/smb-traffic-analyzer/) is [available here](http://holger123.wordpress.com/smb-traffic-analyzer/).
 
-
+â€
 
-
+â€œ
 
 
         [SUSE Studio: Using AutoYaST for customizing your appliance on first boot](http://blog.susestudio.com/2011/06/using-autoyast-for-customizing-your.html)
@@ -728,7 +731,7 @@ Next we need to create the AutoYaST profile, which will be run on first boot. Th
 Here is a simple example, that will create a simple ask dialoge "Enter the user for this
         machine" and promt for input. The result will be writen to /tmp/answer_user. (...)
 
-
+â€
 
 ### Team Reports
 
@@ -738,7 +741,7 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-
+â€œ
 
 
           [Nelson Marques: Banshee 2.1.0 for openSUSE](http://www.marques.so/2011/06/banshee-2-1-0-for-opensuse/)
@@ -746,10 +749,10 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 
 ![](http://www.marques.so/wp-content/uploads/2011/06/Screenshot-Banshee-Media-Player.png)
 
-I™ve finally updated Banshee to 2.1.0 on Banshee:Unstable. Unfortunatly this took longer
+Iâ€™ve finally updated Banshee to 2.1.0 on Banshee:Unstable. Unfortunatly this took longer
           than I expected because of the changes involved on this package. From this version on the
-          package was renamed to ˜**banshee**˜ (previously banshee-1), and
-          there™s also a few changes in the sub-packages which should be transparent to most
+          package was renamed to â€˜**banshee**â€˜ (previously banshee-1), and
+          thereâ€™s also a few changes in the sub-packages which should be transparent to most
           users.
 
 My advice for the users who are subscribed to this repository is to remove current
@@ -758,7 +761,7 @@ My advice for the users who are subscribed to this repository is to remove curre
 rpm -e `rpm -qa | grep banshee-1`
 
 and then install again the repository through the 1-Click installer (make sure the mirror
-          you™re downloading from is already updated).
+          youâ€™re downloading from is already updated).
 
 For users who want to subscribe for the repository to check out this nice version of
           Banshee, you can do it through the following steps (using openSUSE 11.4 example):
@@ -773,7 +776,7 @@ zypper ar http://download.opensuse.org/repositories/Banshee:/Unstable/Banshee_op
 
 zypper install banshee banshee-core
 
-Banshee 2.1.0 won™t be available for SLE11 and SLE11SP1 due to dependencies (ex:
+Banshee 2.1.0 wonâ€™t be available for SLE11 and SLE11SP1 due to dependencies (ex:
           gstreamer). This version is also being submitted to Factory on the next days. This version
           introduces:
 
@@ -783,29 +786,29 @@ Banshee 2.1.0 won™t be available for SLE11 and SLE11SP1 due to dependencies (e
 
   * 51 notable bug fixes.
 
-
+â€
+
+â€œ
 
 
-
-
-          [Nelson Marques: New package submitted to GNOME:Apps “ Synapse](http://www.marques.so/2011/06/new-package-submitted-to-gnomeapps-synapse/)
+          [Nelson Marques: New package submitted to GNOME:Apps â€“ Synapse](http://www.marques.so/2011/06/new-package-submitted-to-gnomeapps-synapse/)
         
 
 ![](http://www.marques.so/wp-content/uploads/2011/06/Screenshot-synapse.png)
 
-I™ve written about [synapse](http://launchpad.net/synapse-project) in
+Iâ€™ve written about [synapse](http://launchpad.net/synapse-project) in
           the past and it was one of the applications I wanted to add to GNOME:Ayatana. With the awesome
           work from several people from the openSUSE GNOME Team, most of the dependencies are now
-          provided in Factory, so it™s really a nice time to submit this application to GNOME:Apps and
+          provided in Factory, so itâ€™s really a nice time to submit this application to GNOME:Apps and
           hope it ends up in openSUSE Factory/openSUSE 11.2.
 
 Synapse is a semantic launcher that allows to search for applications, locations, files,
-          etc. It is written in Vala and uses the Zeitgeist engine. It™s really a cool application and
-          it™s battle tested with GNOME 3. The only less positive part is the fact it™s not yet ported
-          to GTK3. It can provide an awesome alternative to the ALT+F2³ macro.
+          etc. It is written in Vala and uses the Zeitgeist engine. Itâ€™s really a cool application and
+          itâ€™s battle tested with GNOME 3. The only less positive part is the fact itâ€™s not yet ported
+          to GTK3. It can provide an awesome alternative to the â€œALT+F2â€³ macro.
 
-Hope everyone enjoys¦ and I know that a few people were already waiting for an opportunity
-          to give it a test ride¦ Let™s see how the review goes (unless something strange happens, it
+Hope everyone enjoysâ€¦ and I know that a few people were already waiting for an opportunity
+          to give it a test rideâ€¦ Letâ€™s see how the review goes (unless something strange happens, it
           should get green light).
 
 ![](http://www.marques.so/wp-content/uploads/2011/06/Screenshot1.png)
@@ -813,9 +816,9 @@ Hope everyone enjoys¦ and I know that a few people were already waiting for an 
 Anyone who gives it a test ride and wants to deploy some feedback, it will be gladly
           accepted! My test package is available on my [home project](http://bit.ly/lIE0OZ) in OBS (and hopefully available soon in GNOME:Apps).
 
-
+â€
 
-
+â€œ
 
 
           [Nelson Marques: GNOME:Ayatana indicators for openSUSE 11.4](http://www.marques.so/2011/06/gnomeayatana-indicators-for-opensuse-11-4/)
@@ -823,43 +826,43 @@ Anyone who gives it a test ride and wants to deploy some feedback, it will be gl
 
 Over a year ago when I initially joined the openSUSE Marketing Team I wanted to write
           an article about OBS (back then [openSUSE Build Service](http://en.opensuse.org/Portal:Build_Service), now [Open Build Service](http://open-build-service.org/)) and my biggest problem was to realize what OBS was and what it
-          really did¦ My first package was a ZX Spectrum emulator (fuse) and libspectrum, which I
-          still have on my repo due to emotional reasons. But that wasn™t actually good enough to
+          really didâ€¦ My first package was a ZX Spectrum emulator (fuse) and libspectrum, which I
+          still have on my repo due to emotional reasons. But that wasnâ€™t actually good enough to
           get my stuff done and the article was postponed many times until I had no interest in
           performing such article.
 
 The whole thing about GNOME:Ayatana came during my pursue to knowledge around OBS and
           get some experience, and to be honest it became very addictive as things were going on.
-          During this entire time, I™ve learned a lot about [GNOME](http://www.gnome.org), the technology behind GNOME and how a Linux Desktop works at low level.
-          It was one of the most enriching experience I™ve had as a hobby. Above all, as it™s [openSUSE](http://www.opensuse.org) tradition, it was fun, though it had also
+          During this entire time, Iâ€™ve learned a lot about [GNOME](http://www.gnome.org), the technology behind GNOME and how a Linux Desktop works at low level.
+          It was one of the most enriching experience Iâ€™ve had as a hobby. Above all, as itâ€™s [openSUSE](http://www.opensuse.org) tradition, it was fun, though it had also
           some moments of frustration, many of them softened out members of the openSUSE GNOME Team
           help and availability to help. My gratitude lies with them all, some months after, I
           reached a point I never believed I would in knowledge about the stuff I like,
           GNOME.
 
-If I was to label this experience, I would claim it has been a ˜one man inglorious
-          rush™ from my side and a challenge to Dimstar™s patience, my reviewer and at some point my
-          mentor (that™s how I see him), I am sure it wouldn™t happen without his encouragement,
-          patience and availability to help (which is why I admire him, because I know he™s a really
+If I was to label this experience, I would claim it has been a â€˜one man inglorious
+          rushâ€™ from my side and a challenge to Dimstarâ€™s patience, my reviewer and at some point my
+          mentor (thatâ€™s how I see him), I am sure it wouldnâ€™t happen without his encouragement,
+          patience and availability to help (which is why I admire him, because I know heâ€™s a really
           busy person).(...)
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
+â€œ
 
 
-
-          [Sebastian Kügler: New Plasma Active Window Switcher](http://vizzzion.org/blog/2011/06/new-plasma-active-window-switcher/)
+          [Sebastian KÃ¼gler: New Plasma Active Window Switcher](http://vizzzion.org/blog/2011/06/new-plasma-active-window-switcher/)
         
 
 Last week, Marco and I have integrated a new window switcher into Plasma Active. We
           had designed and started to implement this rather central component of the shell during
           the Tokamak sprint a couple of weeks ago, now it finally made its way into Active, so you
           can update your system to the latest packages and enjoy it. (In order for it to work
-          correctly, you™ll have to delete your plasma-tablet-appletsrc file, as we do not update
+          correctly, youâ€™ll have to delete your plasma-tablet-appletsrc file, as we do not update
           these automatically at this stage of development). The new window switcher works very
-          well, and is quite snazzy on top of that. It also contains an application launcher! I™ve
+          well, and is quite snazzy on top of that. It also contains an application launcher! Iâ€™ve
           recorded a small [demo video](http://www.youtube.com/watch?v=IgdnuxcUcWg) showing these new features. Look at: [http://www.youtube.com/watch?v=IgdnuxcUcWg](http://www.youtube.com/watch?v=IgdnuxcUcWg)
 
 **Window Strip**
@@ -872,34 +875,34 @@ The idea is to have a non-modal interface, which means that the window switcher 
           apps open at the same time.
 
 The implementation is a bit hacky, but only in the background. It is in fact a
-          combination of QML and KWin™s compositing effects. We are basically catching move events,
+          combination of QML and KWinâ€™s compositing effects. We are basically catching move events,
           "polishing" these into a more straight stream of events which we then pass to KWin, asking
-          the window manager to paint thumbnails of the windows at a given position. While we didn™t
+          the window manager to paint thumbnails of the windows at a given position. While we didnâ€™t
           know if it would work at all when we came up with this design, luckily it turned out to be
           nice and very usable.
 
 **App Launcher**
 
 The new panel also has an app launcher, which allows you to launch an app. As the user
-          might potentially have lots of apps installed, there™s a "tag cloud" which lists
+          might potentially have lots of apps installed, thereâ€™s a "tag cloud" which lists
           categories of apps (you tap on one and it shows only apps in the category), and a search
-          field you can use to find apps. (There™s a theming problem which affects readability in
-          the tag cloud, we™ll fix that shortly.) As the number of apps available might not fit into
+          field you can use to find apps. (Thereâ€™s a theming problem which affects readability in
+          the tag cloud, weâ€™ll fix that shortly.) As the number of apps available might not fit into
           the available screen space, you can flick the apps grid horizontally to reveal more
           apps.
 
 These features have already been merged into the KDE:Active packages on the Open Build
-          Service, and you™ll be able to try them on your device with the next [Balsam Professional Live image](http://open-slx.com/?Downloads). 
+          Service, and youâ€™ll be able to try them on your device with the next [Balsam Professional Live image](http://open-slx.com/?Downloads). 
 
 What do you think about these new pieces in the UI?
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-
+â€œ
 
 
             [decouple download and installation (Score: 356)](https://features.opensuse.org/120340)
@@ -908,9 +911,9 @@ What do you think about these new pieces in the UI?
 Network installation could be improved by running package download and package
             installation in parallel.
 
-
+â€
 
-
+â€œ
 
 
             [Look at plymouth for splash during boot (Score: 187)](https://features.opensuse.org/305493)
@@ -925,9 +928,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-
+â€
 
-
+â€œ
 
 
             [1-click uninstall (Score: 154)](https://features.opensuse.org/305305)
@@ -935,9 +938,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-
+â€
 
-
+â€œ
 
 
             [Update to GRUB v2 (Score: 135)](https://features.opensuse.org/308497)
@@ -955,9 +958,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-
+â€
 
-
+â€œ
 
 
             [Popularity contest (Score: 103)](https://features.opensuse.org/305877)
@@ -978,13 +981,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-
+â€
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-
+â€œ
 
 
             [Iceweasel instead of Firefox](https://features.opensuse.org/312585)
@@ -992,9 +995,9 @@ We need a feedback about packages that are preferred by users and actively used.
 
 With the new scheme of version numbers at Mozilla (called by myself "the idiot scheme") and the result, that the add-on-developers need to do a major-port every 3-6 months, I think it's necessary to drop Firefox and set Iceweasel instead as default.
 
-
+â€
 
-
+â€œ
 
 
             [Add locales support for groff papersize](https://features.opensuse.org/312586)
@@ -1002,9 +1005,9 @@ With the new scheme of version numbers at Mozilla (called by myself "the idiot s
 
 Groff's papersize definition in font description don't allow usage of locale variables, even if it will benefit from that. So let's extend the definition for a new keyword 'locale', which will query the setting from existing locale variables (LC_PAPER, LANG or LC_ALL).
 
-
+â€
 
-
+â€œ
 
 
             [Continuous button look Oxygen in hole KDE also Yast and KPackageKit](https://features.opensuse.org/312589)
@@ -1016,7 +1019,7 @@ This can bee solved: type in a console kdesu qtconfig under Select GUI Style: ch
 
 But it would be very easy to have this setting in the standad installation? The Oxygen look is set by default at the hole KDE, why not in the KPackageKit and Yast? Make the look auf Suse homogen and deliver in the standard installation the Oxygen look.
 
-
+â€
 
 ##### Feature Statistics
 
@@ -1024,7 +1027,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-
+â€œ
 
 
           [Larry
@@ -1044,20 +1047,20 @@ We discussed our experiences with openSUSE 12.1 MS2. The main problems that were
 We also discussed the draft text of our request to rename MS6 to Beta in hopes of
           increasing the number of testers in the critical late stages of testing.
 
-
+â€
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
 
 ### Postings from the Community
 
-
+â€œ
 
 
         [Jos
@@ -1081,9 +1084,9 @@ While on the subject of reminders:
 
   * [Send in your session proposals](http://conference.opensuse.org/indico//conferenceDisplay.py?confId=2) for the openSUSE conference! 
 
-
+â€
 
-
+â€œ
 
 [Jos
           Poortvliet: Blog: Dutch KDE BBQ](http://blog.jospoortvliet.com/2011/06/blog-dutch-kde-bbq.html)
@@ -1109,7 +1112,7 @@ Public Transport: Go to Utrecht Central station, take the tram. Get out by Vasco
         let you in. Car: use open streetmap, Google Maps or TomTom... Don't forget to look sweet at
         the door ;-) 
 
-
+â€
 
 ### Events & Meetings
 
@@ -1117,13 +1120,13 @@ Past
 
   * [June 25-29, 2011 : OSCON (Portland, Oregon, USA)](http://www.oscon.com/oscon2011)
 
-  * [June 29, 2011 : Project Meeting](https://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [June 29, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 Upcoming
 
-  * [July 19, 2011 : openSUSE Marketing Team Meeting](https://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [July 19, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -1142,7 +1145,7 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
 
-
+â€œ
 
 [Andreas Demmer: PlasmaNotify for Firefox 4 and 5](http://www.andreas-demmer.de/en/2011/07/01/plasmanotify-fur-firefox-4-und-5)
 
@@ -1156,16 +1159,16 @@ Impatient users may download the addon in advance [over here](http://www.linuxma
 The addon itself is inteded for Linux and integrates the Firefox download notifications
       into the [KDE](http://www.kde.org) Plasma notifications.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Cornerâ–²â–¼
 
 The Section provides the Game of the Week, and Updates in the Game Repository
 
+â€œ
 
 
-
-      [Nelson Marques: Unknown Horizons 2011.2 “ available for openSUSE (all supported) and Fedora
+      [Nelson Marques: Unknown Horizons 2011.2 â€“ available for openSUSE (all supported) and Fedora
         14/15](http://www.marques.so/2011/07/unknown-horizons-2011-2-available-for-opensuse-all-supported-and-fedora-1415/)
     
 
@@ -1190,7 +1193,7 @@ Users subscribed to the games repository and with Unknown Horizons installed wil
       game in openGL can pretty much use one of the 1-Click installers on [openSUSE Software](http://software.opensuse.org) page..
 
 This new version introduces new media content, bugfixes and improvements on gameplay, game
-      balance, etc. Here™s a few of those changes taken from the changelog:
+      balance, etc. Hereâ€™s a few of those changes taken from the changelog:
 
 Gameplay and Balancing
 * New features
@@ -1230,14 +1233,14 @@ Media Content
 
 Enjoy Unknown Horizons on openSUSE!
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-
+â€œ
 
 
       [SUSE
@@ -1292,9 +1295,9 @@ To view the security announcements in full, or to receive them as soon as they'r
             ImageIcon creates Component withnull acc* S7020373, CVE-2011-0864: JSR rewriting can
             overflowmemory address size
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
-
+â€œ
 
 
       [SUSE
@@ -1349,11 +1352,11 @@ To view the security announcements in full, or to receive them as soon as they'r
             CVE-2011-0085 CVE-2011-2363Multiple dangling pointer vulnerabilities* MFSA
             2011-24/CVE-2011-2362 (bmo#616264) Cookieisolation error
 </td>
-        </tr></tbody></table>
+        </tr></tbody></table>â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
 
-
+â€œ
 
 
       [Linus Torvalds: Linux 3.0-rc5](https://lkml.org/lkml/2011/6/27/396)
@@ -1376,41 +1379,41 @@ to be merged.
 
 The appended shortlog is fairly readable. (...)
 
-
+â€
 
+â€œ
 
-
-[Rares Aioanei: kernel weekly news “ 02.07.2011](http://schaiba.wordpress.com/2011/07/02/kernel-weekly-news-02-07-2011/)
+[Rares Aioanei: kernel weekly news â€“ 02.07.2011](http://schaiba.wordpress.com/2011/07/02/kernel-weekly-news-02-07-2011/)
 
 Rares gives his weekly Kernel News from this week.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
 
 ### For Desktop Users
 
-
+â€œ
 
 
         [Make Tech Easier/Joshua Price: How to Create Tilt Shift Effect in Gimp](http://maketecheasier.com/create-tilt-shift-effect-in-gimp/2011/06/23)
       
 
-This isn™t something you™ll often do for work or a real project, but it™s fun and it can look cool. Tilt shifting a photo is something that can be done by expensive fancy camera equipment or, fortunately for us, free software. The idea is that when you take a photo of small scale objects like model towns, part of what reveals them as miniature is the difference in focus. When a camera is up close to small objects, it can™t focus on other nearby objects, making them blurry. Tilt shifting is applying this blur effect deliberately, to make large-scale objects appear small. Getting it just right can take a lot of time and effort, but the basic method is quite simple, and that™s what we™re covering today. (...)
+This isnâ€™t something youâ€™ll often do for work or a real project, but itâ€™s fun and it can look cool. Tilt shifting a photo is something that can be done by expensive fancy camera equipment or, fortunately for us, free software. The idea is that when you take a photo of small scale objects like model towns, part of what reveals them as miniature is the difference in focus. When a camera is up close to small objects, it canâ€™t focus on other nearby objects, making them blurry. Tilt shifting is applying this blur effect deliberately, to make large-scale objects appear small. Getting it just right can take a lot of time and effort, but the basic method is quite simple, and thatâ€™s what weâ€™re covering today. (...)
 
-
+â€
 
 ### For Commandline/Script Newbies
 
-
+â€œ
 
 
         [Linuxaria/linuxari: Do more with less](http://linuxaria.com/howto/bash-linux-less?lang=en)
       
 
-less it™s a fundamental command if you work on the Linux terminal.
+less itâ€™s a fundamental command if you work on the Linux terminal.
 
-Doing a man less you can see:
+Doing a â€œman lessâ€ you can see:
 
 NAME
 
@@ -1420,25 +1423,25 @@ I love Gnu/Linux man pages, in this case it refer to more another command that d
 
 The Linux command less is similar to cat, but with less you can scroll the file instead of showing the file at once. With less command you can scroll up in the file as well as down, where with the Linux command more you can only scroll down the file. (...)
 
-
+â€
 
 ### For Developers and Programmers
 
-
+â€œ
 
 
         [Linux Magazine/Ken Hess: Scripting, Part Two: Looping for Fun and Profit](http://www.linux-mag.com/id/8797/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%20%3A+LinuxMagazine+%28Linux+Magazine%3A+Top+Stories%29)
       
 
-You energy-conserving* system administrators will enjoy learning to use loops in your scripts. Looping is a technique that allows you to repeat a process or set of commands indefintely or until the loop exhausts a particular list of items. For example, you want to copy a particular file to everyone™s home directory. How do you do it? Don™t say that you have a junior-level administrator do it. The correct answer is that you™d create a looping script to handle the job.
+You energy-conserving* system administrators will enjoy learning to use loops in your scripts. Looping is a technique that allows you to repeat a process or set of commands indefintely or until the loop exhausts a particular list of items. For example, you want to copy a particular file to everyoneâ€™s home directory. How do you do it? Donâ€™t say that you have a junior-level administrator do it. The correct answer is that youâ€™d create a looping script to handle the job.
 
-Don™t worry if you aren™t a scripting master, I™m going to take it slow through this series so that you can absorb what™s going on. Looping is not a particularly advanced concept. Its purpose is to do some task quickly that would take hours or days to do it by hand. Looping leverages the computer™s power to do what it™s best at: repetitive processing. (...)
+Donâ€™t worry if you arenâ€™t a scripting master, Iâ€™m going to take it slow through this series so that you can absorb whatâ€™s going on. Looping is not a particularly advanced concept. Its purpose is to do some task quickly that would take hours or days to do it by hand. Looping leverages the computerâ€™s power to do what itâ€™s best at: repetitive processing. (...)
 
-
+â€
 
 ### For System Administrators
 
-
+â€œ
 
 
         [LinuxJournal/Johan Tehlin: Accessing Remote Files Easily and Securely](http://www.linuxjournal.com/content/accessing-remote-files-easy-and-secure)
@@ -1462,9 +1465,9 @@ You can configure sshd through the /etc/ssh/sshd_config file (that is the locati
         if you plan to expose sshd to the Internet. There are many guides on hardening servers and
         ssh, so I will not go into details.
 
-
+â€
 
-
+â€œ
 
 
         [HowtoForge/Falko Timme: OpenSUSE 11.4 Samba Standalone Server With tdbsam Backend](http://www.howtoforge.com/opensuse-11.4-samba-standalone-server-with-tdbsam-backend)
@@ -1472,9 +1475,9 @@ You can configure sshd through the /etc/ssh/sshd_config file (that is the locati
 
 This tutorial explains the installation of a Samba fileserver on OpenSUSE 11.4 and how to configure it to share files over the SMB protocol as well as how to add users. Samba is configured as a standalone server, not as a domain controller. In the resulting setup, every user has his own home directory accessible via the SMB protocol and all users have a shared directory with read-/write access. (...)
 
-
+â€
 
-
+â€œ
 
 
         [BeginLinux: Configuring a SAMBA Print Server](http://beginlinux.com/desktop/opensuse/configuring-a-samba-print-server)
@@ -1484,9 +1487,9 @@ You may be using Linux at home or in an office environment, but often we still n
 
 We will setup a CUPS (Linux printing) but no great detail of Linux printing is entered into as we are concentrating on SAMBA printing. (...)
 
-
+â€
 
-
+â€œ
 
 
         [HowtoForge/wintel2006: How To Set Up A Postgresql 9.0 Hot Standby Streaming Replication Server With Repmgr On OpenSUSE 11.4](http://www.howtoforge.com/how-to-set-up-a-postgresql-9.0-hot-standby-streaming-replication-server-with-repmgr-on-opensuse-11.4)
@@ -1498,34 +1501,34 @@ There are tons of tutorials about how to setup streaming replication on postgres
 
 This is a tutorial how to set up a postgresql replicated hot standby server with streaming replication, and we also set up the repmgr to monitor and manage the replication cluster. Unlike most tutorials that copy the database file from master to slave (or standby) in the middle of running pg_start_backup() and pg_end_backup(), repmgr is used to simplify the whole procedure. (But I still think that procedure helps you a lot to understand how postgresql warm standby, pitr, and hot standby replication work.) (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
 
+â€œ
 
 
-
-      [Will Stephenson: Facebook bans KDE™s photo uploader; all uploaded content
+      [Will Stephenson: Facebook bans KDEâ€™s photo uploader; all uploaded content
         inaccessible.](http://lizards.opensuse.org/2011/06/27/facebook-bans-kdes-photo-uploaded-all-uploaded-content-inaccessible/)
     
 
-So in my head there™s a little Walter Sobchak beating on my conscience and shouting This
-      is what you get when you trust Facebook with your data, Will. 
+So in my head thereâ€™s a little Walter Sobchak beating on my conscience and shouting â€œThis
+      is what you get when you trust Facebook with your data, Willâ€. 
 
-The reason is that I upload photos to Facebook using KDE™s shared uploader and this has
-      fallen victim to the whims of FB™s purge of its app biosphere. Unless the original developer
+The reason is that I upload photos to Facebook using KDEâ€™s shared uploader and this has
+      fallen victim to the whims of FBâ€™s purge of its app biosphere. Unless the original developer
       can convince them that the app is not spammy, offering a bad experience or having the wrong
       attitude, the app, my photos (all archived elsewhere of course), but most importantly, all the
-      kind comments from my friends and contacts that represent FB™s only value, get sent to the
+      kind comments from my friends and contacts that represent FBâ€™s only value, get sent to the
       farm. 
 
 This is what you get when you trust one company with stuff you care about. Will.
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
 
-
+â€œ
 
 
       [12.1 Milestone 2 - post your experiences](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/461900-12-1-milestone-2-post-your-experiences.html)
@@ -1535,9 +1538,9 @@ This is what you get when you trust one company with stuff you care about. Will.
       Follow up on last week's item on openSUSE 12.1 Milestone 1, on the 22nd of June, Milestone 2 was released. Again: Please be warned: Milestone releases are for testing purposes, not for production use. On the other hand: if you want to test, go ahead, and help the community by doing so. This is a thread where users share their experiences in testing the Milestone 2 release. [Here's the openSUSE Roadmap](http://en.opensuse.org/openSUSE:Roadmap)
     
 
-
+â€
 
-
+â€œ
 
 
     [Killing a repository entry](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/462116-killing-repository-entry.html)
@@ -1547,9 +1550,9 @@ This is what you get when you trust one company with stuff you care about. Will.
       Here's a bit of a strange repository problem. A user cannot get rid of one of his repositories. Nice read, some zypper basics.
       
 
-
+â€
 
-
+â€œ
 
 
     [Posting in code tags - A Guide](http://forums.opensuse.org/content/33-posting-code-tags-guide.html)
@@ -1559,9 +1562,9 @@ This is what you get when you trust one company with stuff you care about. Will.
       Lots of times, when posting on the forums, users are asked to copy output of commands invoked in a terminal window in their forums posts. This to provide others with information about settings, drivers, versions etc etc. To improve readability of this output it's almost a requirement to post this in CODE TAGS. Here's the guide to do this by our admin caf4926.
       
 
-
+â€
 
-
+â€œ
 
 
       openSUSE Language specific subforums:
@@ -1575,18 +1578,18 @@ We now host the following language specific subforums under the umbrella of the 
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
 	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
 	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
 
 ### Announcements
 
-
+â€œ
 
 
         [KDE Ships First 4.7 Release Candidate](http://www.kde.org/announcements/announce-4.7-rc1.php)
@@ -1598,11 +1601,11 @@ June 25th, 2011. Today, KDE has released a release candidate of the upcoming 4.7
         KDE team's focus is now on fixing last-minute showstopper bugs and finishing translation and
         documentation that comes along with the releases. (...)
 
-
+â€
 
 ### Call for participation
 
-
+â€œ
 
 
         [Tux Paint Kids Summer Drawing Contest](http://blog.worldlabel.com/2011/tux-paint-kids-summer-drawing-contest.html)
@@ -1612,13 +1615,13 @@ June 25th, 2011. Today, KDE has released a release candidate of the upcoming 4.7
 
 The 2011 [Tux Paint](http://www.tuxpaint.org/) Summer Drawing Contest is sponsored by Worldlabel.com and is open to all children aged 3 to 12 who live anywhere in the World!
 
-Here™s a chance to show off your talent using a great drawing program made especially for kids. Tux Paint is an award-winning drawing program you can download to your computer. Tux Paint was recently awarded [SourceForge.net Project of the Month](http://sourceforge.net/blog/potm-201106/). It will run on all versions of Windows (including Tablet PC), Mac OS X 10.4 and up, Linux, FreeBSD and NetBSD. And it™s FREE! (...)
+Hereâ€™s a chance to show off your talent using a great drawing program made especially for kids. Tux Paint is an award-winning drawing program you can download to your computer. Tux Paint was recently awarded [SourceForge.net Project of the Month](http://sourceforge.net/blog/potm-201106/). It will run on all versions of Windows (including Tablet PC), Mac OS X 10.4 and up, Linux, FreeBSD and NetBSD. And itâ€™s FREE! (...)
 
-
+â€
 
 ### Reports
 
-
+â€œ
 
 
         [h-online: Cross platform IM client InstantBird goes 1.0](http://www.h-online.com/open/news/item/Cross-platform-IM-client-InstantBird-goes-1-0-1270008.html)
@@ -1636,11 +1639,11 @@ Since then theÂ [developers](http://instantbird.com/about.html)Â have
         previous release" and were unlikely to release a future version with as many changes,
           theyÂ [decided](http://blog.instantbird.org/c47-version-number-change.html)Â to make 0.3 their version 1.0.
 
-
+â€
 
 ### Reviews and Essays
 
-
+â€œ
 
 
         [opensource.com/Ruth Suehle: How to teach the next generation of open source with Scratch](http://opensource.com/education/11/6/how-teach-next-generation-open-source-scratch)
@@ -1652,21 +1655,21 @@ Computers are increasingly easy to use, but programming is far more complex--and
 
 At school, kids often learn how to use tools but not how to create. Tools become obsolete quickly, so knowing how to create is much more important, and the tools will be successively intuitive. (...)
 
-
+â€
+
+â€œ
 
 
-
-
-        [The Linux Foundation/Jim Zemlin: Who Says You Can™t Make Money with Open Source?](http://www.linux-foundation.org/weblogs/jzemlin/2011/06/30/who-says-you-can%E2%80%99t-make-money-with-open-source/)
+        [The Linux Foundation/Jim Zemlin: Who Says You Canâ€™t Make Money with Open Source?](http://www.linux-foundation.org/weblogs/jzemlin/2011/06/30/who-says-you-can%E2%80%99t-make-money-with-open-source/)
       
 
 This week yet another major global IT vendor will launch a product based on Linux - the HP Touchpad, which looks quite promising from early reviews. Even so, it is ironic that I still hear the following comment from a number of investors and business people:
 
-Open source is great, but you can™t make any money with it.
+â€œOpen source is great, but you canâ€™t make any money with it.â€
 
-While for some reason this sentiment has existed as long as open source software has been in existence, the facts don™t support it; in fact, the facts expose it to be a statement hovering between unbelievable and ridiculous. Red Hat will exceed $1 Billion dollars in revenue this year. Its investors have been richly rewarded over the past decade with more than an 8X return over the S&P 500. (...)
+While for some reason this sentiment has existed as long as open source software has been in existence, the facts donâ€™t support it; in fact, the facts expose it to be a statement hovering between unbelievable and ridiculous. Red Hat will exceed $1 Billion dollars in revenue this year. Its investors have been richly rewarded over the past decade with more than an 8X return over the S&P 500. (...)
 
-
+â€
 
 ## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
 
@@ -1698,7 +1701,7 @@ You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1716,7 +1719,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -1752,7 +1755,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 openSUSE Weekly News is translated into many languages. Issue 182 is available in: 
 
-  * [English](https://news.opensuse.org/?p=9496)
+  * [English](http://news.opensuse.org/?p=9496)
 
 Coming soon: 
 
@@ -1765,6 +1768,3 @@ Coming soon:
 First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
 
 ![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
-
-
-		

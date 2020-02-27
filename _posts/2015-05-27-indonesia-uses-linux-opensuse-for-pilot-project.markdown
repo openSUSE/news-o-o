@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-05-27 07:44:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/05/27/indonesia-uses-linux-opensuse-for-pilot-project/
-title: "Indonesia uses Linux, openSUSE for pilot project"
+slug: indonesia-uses-linux-opensuse-for-pilot-project
+title: Indonesia uses Linux, openSUSE for pilot project
+wordpress_id: 19276
 categories:
 - Derivatives
 tags:
@@ -19,6 +21,7 @@ tags:
 - student
 - teachers
 ---
+
 ![](https://en.opensuse.org/images/6/65/Edu-suse_life-cd.png)An estimated 45,000 students from a province in Indonesia have enhanced their education and computer-usage knowledge through a pilot  program using [Linux](http://www.linuxfoundation.org/) and [openSUSE](https://www.opensuse.org/en/) that is expected to become a nationwide educational program.
 
 From 2009 to 2014, the project called "Information and Communication Technology (ICT) Utilization for Educational Quality Enhancement in Yogyakarta Province" used openSUSE and created material with Linux to enhance educational quality and equality in [Yogyakarta Province schools](http://ict-eqep.com/locations/map_350.html).
@@ -27,7 +30,7 @@ From 2009 to 2014, the project called "Information and Communication Technology 
 
 The program is expected to become a model of ICT utilization in the educational sector of Indonesia, Zakaria said. The pilot’s goal supports teaching and learning activities by providing ICT-based learning facilities, providing equipment, communication and network facilities, creating e-learning systems and developments, and by providing tools and support that are needed for schools activities to improve educational quality.
 
-<!-- more -->[![IMG_0429.CR2]({{ site.baseurl }}/assets/IMG_0429.CR2_-300x200.jpg)]({{ site.baseurl }}/assets/IMG_0429.CR2_.jpg)“For the teachers, we conduct training of how to make learning material,” said Singgih Raharjo, the department head of Yogyakarta Province’s Education Communication and Technology Office.
+<!-- more -->[![IMG_0429.CR2](/wp-content/uploads/2015/05/IMG_0429.CR2_.jpg)](/wp-content/uploads/2015/05/IMG_0429.CR2_.jpg)“For the teachers, we conduct training of how to make learning material,” said Singgih Raharjo, the department head of Yogyakarta Province’s Education Communication and Technology Office.
 
 
 #### Creating With Linux
@@ -39,7 +42,7 @@ Many new materials made by teachers are now available to students, Raharjo said.
 
 Many of the schools are remotely located. Yogyakarta Governor Sri Sultan Hamengku Buwono X proposed ICT as a program that would increase and equalize educational quality throughout the province.
 
-[![IMG_0375.CR2]({{ site.baseurl }}/assets/IMG_0375.CR2_-300x200.jpg)]({{ site.baseurl }}/assets/IMG_0375.CR2_.jpg)“Many students and even teachers never had an experience with computers before,” Zakaria said. “Now they can interact with computer and Linux. We created special Math and Science learning materials for them. They can learn interactively with that material. Along with software packages on [openSUSE Li-f-e](http://www.opensuse-education.org/) like [Gcompris](http://gcompris.net/index-en.html), [Tuxmath](http://tux4kids.alioth.debian.org/tuxmath/), [kalgebra](https://edu.kde.org/kalgebra/) (and other [KDE Edu](https://edu.kde.org/)), [Tuxpaint](http://www.tuxpaint.org/), and [Stellarium](http://www.stellarium.org/en/), they can learn many thing that they never imagined before.”
+[![IMG_0375.CR2](/wp-content/uploads/2015/05/IMG_0375.CR2_.jpg)](/wp-content/uploads/2015/05/IMG_0375.CR2_.jpg)“Many students and even teachers never had an experience with computers before,” Zakaria said. “Now they can interact with computer and Linux. We created special Math and Science learning materials for them. They can learn interactively with that material. Along with software packages on [openSUSE Li-f-e](http://www.opensuse-education.org/) like [Gcompris](http://gcompris.net/index-en.html), [Tuxmath](http://tux4kids.alioth.debian.org/tuxmath/), [kalgebra](https://edu.kde.org/kalgebra/) (and other [KDE Edu](https://edu.kde.org/)), [Tuxpaint](http://www.tuxpaint.org/), and [Stellarium](http://www.stellarium.org/en/), they can learn many thing that they never imagined before.”
 
 Some of it can be accessed publicly at [http://lms.jogjabelajar.jogjaprov.go.id](http://lms.jogjabelajar.jogjaprov.go.id/) .
 
@@ -49,7 +52,7 @@ The pilot program consisted of several phases, was implemented in elementary and
 #### Making a Difference
 
 
-[![IMG_0434.CR2]({{ site.baseurl }}/assets/IMG_0434.CR2_-300x200.jpg)]({{ site.baseurl }}/assets/IMG_0434.CR2_.jpg)Government officials, university professors, consultants facilitators, technical staff, learning material experts, examination experts, community development experts and curriculum experts all turned the pilot into a successful program.
+[![IMG_0434.CR2](/wp-content/uploads/2015/05/IMG_0434.CR2_.jpg)](/wp-content/uploads/2015/05/IMG_0434.CR2_.jpg)Government officials, university professors, consultants facilitators, technical staff, learning material experts, examination experts, community development experts and curriculum experts all turned the pilot into a successful program.
 
 The children around Yogyakarta Province become smarter and more creative from this project, Raharjo said. Because the project was not only giving infrastructure, but was interesting and fun from the ICT-based learning materials, the results of national exams increased for the province.
 
@@ -128,4 +131,4 @@ More than 500 schools took part in the program.
 
 [National exam try out with Smartphone](http://btkp-diy.or.id/info/eqep/624)
 
-[Training: Utilization of Jogjabelajar for Learning Process](http://btkp-diy.or.id/info/eqep/626)		
+[Training: Utilization of Jogjabelajar for Learning Process](http://btkp-diy.or.id/info/eqep/626)

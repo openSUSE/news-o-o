@@ -1,16 +1,18 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2010-11-11 13:40:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/11/11/opensuse-11-4m3/
-title: "openSUSE Announces Third Development Milestone Evaluating systemd\
-  "
+slug: opensuse-11-4m3
+title: openSUSE Announces Third Development Milestone Evaluating systemd
+wordpress_id: 5435
 categories:
 - Announcements
 - Distribution
 ---
-Delayed by a week due to a critical bug that would have prevented testing, the openSUSE project today announces openSUSE 11.4 Milestone 3 (M3), the third of six milestone releases of what will become openSUSE 11.4. The bug, [a crash in the software rasterizer](https://bugzilla.novell.com/show_bug.cgi?id=641297) of the Mesa OpenGL stack, was found by our automated test suite and the openSUSE XOrg developers swung into action so that KDE would work on systems without hardware acceleration, which includes most virtual machines.[![]({{ site.baseurl }}/assets/20101111_002-300x225.jpg)](https://news.opensuse.org/2010/11/11/opensuse-11-4m3/20101111_002-2/)
+
+Delayed by a week due to a critical bug that would have prevented testing, the openSUSE project today announces openSUSE 11.4 Milestone 3 (M3), the third of six milestone releases of what will become openSUSE 11.4. The bug, [a crash in the software rasterizer](https://bugzilla.novell.com/show_bug.cgi?id=641297) of the Mesa OpenGL stack, was found by our automated test suite and the openSUSE XOrg developers swung into action so that KDE would work on systems without hardware acceleration, which includes most virtual machines.[![](/wp-content/uploads/2010/11/20101111_002.jpg)](http://news.opensuse.org/2010/11/11/opensuse-11-4m3/20101111_002-2/)
 
 systemd, the alternative init system, becomes available for testing in M3 with version 11. Â ï»¿To test systemd, install it, then reboot with init=/bin/systemd [as described by Andreas Jaege](http://lizards.opensuse.org/2010/10/08/systemd-and-osc2010/)r. Otherwise, the existing SysV init is used.
 
@@ -28,4 +30,4 @@ A list of [most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bug
 
 The next milestoneÂ [is scheduled](http://www.suse.de/~coolo/opensuse_11.4/) for November 25. Â openSUSE 11.4 is planned to be released in March 2011.
 
-[(](http://www.flickr.com/photos/aid85/418839001/)Title image by aid85, BY-CC-NA 2.0, [original here](http://www.flickr.com/photos/aid85/418839001/))		
+[(](http://www.flickr.com/photos/aid85/418839001/)Title image by aid85, BY-CC-NA 2.0, [original here](http://www.flickr.com/photos/aid85/418839001/))

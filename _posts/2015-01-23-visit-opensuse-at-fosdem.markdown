@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-01-23 09:43:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/01/23/visit-opensuse-at-fosdem/
-title: "Visit openSUSE at FOSDEM"
+slug: visit-opensuse-at-fosdem
+title: Visit openSUSE at FOSDEM
+wordpress_id: 19034
 categories:
 - Events
 tags:
@@ -20,7 +22,8 @@ tags:
 - swag
 - Tumbleweed
 ---
-[![label_for-print]({{ site.baseurl }}/assets/label_for-print-150x150.png)]({{ site.baseurl }}/assets/label_for-print.png)[FOSDEM](https://fosdem.org/2015/) is here once again and [openSUSE](https://www.opensuse.org/en/) will be there for all the madness that will take place next Friday, Saturday and Sunday.
+
+[![label_for-print](/wp-content/uploads/2015/01/label_for-print.png)](/wp-content/uploads/2015/01/label_for-print.png)[FOSDEM](https://fosdem.org/2015/) is here once again and [openSUSE](https://www.opensuse.org/en/) will be there for all the madness that will take place next Friday, Saturday and Sunday.
 
 Geekos will discuss everything you want to know about [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed), [Factory](https://en.opensuse.org/Portal:Factory), [YaST](http://yast.github.io/), [Open Build Service](http://openbuildservice.org/), [openQA](https://openqa.opensuse.org/) and more. The openSUSE community will be there in full force to present to and develop with the open-source community.
 
@@ -34,4 +37,4 @@ The buses will leave Nuremberg at 11 a.m. sharp on Friday, Jan. 30, for the even
 
 Anyone who has not confirmed they have a seat on the bus should contact [mhaefner@suse.de](mailto:mhaefner@suse.de).
 
-See you at FOSDEM next week!		
+See you at FOSDEM next week!

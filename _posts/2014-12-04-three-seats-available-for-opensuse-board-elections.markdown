@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2014-12-04 09:53:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/12/04/three-seats-available-for-opensuse-board-elections/
-title: "Three seats available for openSUSE board elections"
+slug: three-seats-available-for-opensuse-board-elections
+title: Three seats available for openSUSE board elections
+wordpress_id: 18860
 categories:
 - Announcements
 - Board
@@ -17,7 +19,8 @@ tags:
 - opensuse
 - oss
 ---
-[![]({{ site.baseurl }}/assets/drawing1-212x300.png)]({{ site.baseurl }}/assets/drawing1.png)[Elections](https://en.opensuse.org/openSUSE:Board_election) to fill three seats on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) are set to begin in the coming weeks and candidates are needed to fill these three positions.
+
+[![](/wp-content/uploads/2014/12/drawing1.png)](/wp-content/uploads/2014/12/drawing1.png)[Elections](https://en.opensuse.org/openSUSE:Board_election) to fill three seats on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) are set to begin in the coming weeks and candidates are needed to fill these three positions.
 
 Individuals who apply for an [openSUSE Membership](https://en.opensuse.org/openSUSE:Members) will be able to vote during elections and run for candidacy
 
@@ -65,4 +68,4 @@ Ballots close (end of phase 2)
 #### Results (Jan. 27)
 
 
-Announcement of the results		
+Announcement of the results

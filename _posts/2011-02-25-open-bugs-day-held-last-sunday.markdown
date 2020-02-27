@@ -1,20 +1,21 @@
 ---
 author: News Team
+comments: true
 date: 2011-02-25 00:03:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/02/25/open-bugs-day-held-last-sunday/
-title: "Open-Bugs-Day Held Last Sunday"
+slug: open-bugs-day-held-last-sunday
+title: Open-Bugs-Day Held Last Sunday
+wordpress_id: 7193
 categories:
 - Events
 - Project
 ---
 
-
 ![](http://counter.opensuse.org/)
 
 
-[As announced previously](https://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January 20. Many people participated, including a large number of contributors new to [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on [Freenode servers](http://freenode.net/)!
+[As announced previously](http://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January 20. Many people participated, including a large number of contributors new to [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on [Freenode servers](http://freenode.net/)!
 
 
 
@@ -37,7 +38,7 @@ This list is generated with a perl script | sort | uniq -c | sort -n -r | head -
      13 Larry Finger
      11 Terje J. Hanssen
      10 Malvern Star
-     10 Karsten König
+     10 Karsten KÃ¶nig
       9 Michal Hucko
       8 Refilwe Seete
       8 John McInnes
@@ -54,4 +55,4 @@ Congrats on the great work!
 
 The team decided it would be nice to have such events on a regular basis, so 2011-04-02 is proposed for the next Open-Bugs-Day.
 
-_Article contributed by Bernhard M. Wiedermann_		
+_Article contributed by Bernhard M. Wiedermann_

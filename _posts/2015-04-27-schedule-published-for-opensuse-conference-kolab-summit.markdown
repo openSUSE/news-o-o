@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-04-27 12:59:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/04/27/schedule-published-for-opensuse-conference-kolab-summit/
-title: "Schedule Published for openSUSE Conference, Kolab Summit"
+slug: schedule-published-for-opensuse-conference-kolab-summit
+title: Schedule Published for openSUSE Conference, Kolab Summit
+wordpress_id: 19229
 categories:
 - Conference
 ---
- 
+
+
 
 [embed]https://www.youtube.com/embed/ON50p0jLn98[/embed]
 
@@ -34,4 +37,4 @@ There will be a social event on Saturday and Sunday and a good sources tells me 
 
 For those who are unable to make it to the event, the presenations will be viewable at [https://www.youtube.com/user/opensusetv](https://www.youtube.com/user/opensusetv). Follow us on [Facebook](http://on.fb.me/1PLITL6), [Google +](http://bit.ly/1QzT9Yp) and [Twitter](http://bit.ly/1sKeOgJ).
 
-		
+

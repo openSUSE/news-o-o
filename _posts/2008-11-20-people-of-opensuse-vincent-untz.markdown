@@ -1,29 +1,124 @@
 ---
 author: News Team
+comments: true
 date: 2008-11-20 14:30:12+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/11/20/people-of-opensuse-vincent-untz/
-title: "People of openSUSE: Vincent Untz"
+slug: people-of-opensuse-vincent-untz
+title: 'People of openSUSE: Vincent Untz'
+wordpress_id: 1095
 categories:
 - People of openSUSE
 ---
+
 Continuing the last 'People of openSUSE'' interviews with people involved in the openSUSE Board Elections Committee, today we introduce you another member - Vincent Untz. Vincent is a Novell employee working 101% of his time for the openSUSE and GNOME projects, non-stop! ;-)
 
 <!-- more -->
 
-![]({{ site.baseurl }}/assets/vincent_untz.jpg)
-|||
-|--- |--- |
-|**Nickname:**|vuntz|
-|**Homepage:**|[http://www.vuntz.net](http://www.vuntz.net)/|
-|**Blog:**|[http://www.vuntz.net/journal/](http://www.vuntz.net/journal/)|
-|||
-|**Favorite season:**|All of them, depending on my mood ;-) I might have a slight preference for spring and autumn, though.|
-|**Motto:**|Les gens heureux ne sont pas pressses.  
+<table border="0" >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](//news.opensuse.org/wp-content/uploads/2008/11/vincent_untz.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >vuntz
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.vuntz.net](http://www.vuntz.net)/
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://www.vuntz.net/journal/](http://www.vuntz.net/journal/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >All of them, depending on my mood ;-) I might have a slight preference for spring and autumn, though.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Les gens heureux ne sont pas pressses.  
   
-(hard to translate this right in english; maybe something like: happy people are not hurried)|
-|||
+(hard to translate this right in english; maybe something like: happy people are not hurried)
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -340,7 +435,7 @@ I don't think it ever happened -- or I'm still forgetting about it.
 
 I always like how people react when they see poutine for the first time:  
   
-[![]({{ site.baseurl }}/assets/vincent_untz_share_picture-300x199.jpg)]({{ site.baseurl }}/assets/vincent_untz_share_picture.jpg)
+[![](//news.opensuse.org/wp-content/uploads/2008/11/vincent_untz_share_picture.jpg)](//news.opensuse.org/wp-content/uploads/2008/11/vincent_untz_share_picture.jpg)
 
 
 
@@ -370,4 +465,4 @@ This one.
 
 In which language should the next interview occur? French!
 
-More interesting things about our product designed for ibm c2010-555 with valid [do my homework](https://pro-homework-help.com/) questions ibm ibm maximo asset management v7		
+More interesting things about our product designed for ibm c2010-555 with valid [do my homework](https://pro-homework-help.com/) questions ibm ibm maximo asset management v7

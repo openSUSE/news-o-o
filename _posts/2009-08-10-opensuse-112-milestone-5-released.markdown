@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-08-10 14:02:24+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/10/opensuse-112-milestone-5-released/
-title: "openSUSE 11.2 Milestone 5 Released"
+slug: opensuse-112-milestone-5-released
+title: openSUSE 11.2 Milestone 5 Released
+wordpress_id: 1987
 categories:
 - Announcements
 ---
+
 openSUSE 11.2 Milestone 5 (M5) is [now available for download](http://software.opensuse.org/developer). It includes several updates, new features, bugfixes, and other improvements. This milestone includes KDE 4.3 final, a kernel built specifically for desktop systems, and beta 1 of OpenOffice.org 3.1.1.
 
 This is a Milestone Release, one of several that lead up to the 11.2 final release in November. It may not be suitable for production systems, but is ready for contributors who want to help with testing and development for 11.2.
@@ -89,4 +92,4 @@ dd if=image.iso of=/dev/sdX bs=4M
 
 Replace "image.iso" with the name of the ISO image that you have downloaded, and replace "sdX" with the actual device name of your USB drive. Be careful! This will erase the target device, so make sure you have the correct device name and have any vital data backed up!
 
-The next milestone will be released on August 20th.		
+The next milestone will be released on August 20th.

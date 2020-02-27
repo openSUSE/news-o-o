@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-02-19 11:55:43+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/02/19/opensuse-offers-choices-for-kde-git-builds/
-title: "openSUSE offers choices for KDE Git builds"
+slug: opensuse-offers-choices-for-kde-git-builds
+title: openSUSE offers choices for KDE Git builds
+wordpress_id: 19748
 categories:
 - Distribution
 ---
-![Diagram without qa obs sle]({{ site.baseurl }}/assets/Diagram-without-qa-obs-sle.png)Gravitational waves might be the cause of two new live image, spin off projects released today by members of the[ openSUSE](https://www.opensuse.org/) community.
+
+![Diagram without qa obs sle](/wp-content/uploads/2016/02/Diagram-without-qa-obs-sle.png)Gravitational waves might be the cause of two new live image, spin off projects released today by members of the[ openSUSE](https://www.opensuse.org/) community.
 
 The release of Argon, which is a live installable image based on openSUSE [Leap](https://en.opensuse.org/Portal:42.1), and Krypton, which is a live installable image based on openSUSE [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed), offer packages built for KDE Git using stable and tested openSUSE technologies to track the latest development state of KDE software.
 
@@ -34,7 +37,7 @@ KDE:Unstable:Extra.
 
 Packages are directly based on the Git repositories and not on any alpha, beta tarballs. These packages are refreshed at least daily.
 
-![argon]({{ site.baseurl }}/assets/argon.png)
+![argon](/wp-content/uploads/2016/02/argon.png)
 
 [http://download.opensuse.org/repositories/KDE:/Medias/images/iso/](http://download.opensuse.org/repositories/KDE:/Medias/images/iso/)
 
@@ -44,7 +47,7 @@ The below build numbers will change based on rebuilds.
 
 
 
-![krypton]({{ site.baseurl }}/assets/krypton.png)
+![krypton](/wp-content/uploads/2016/02/krypton.png)
 
 [http://download.opensuse.org/repositories/KDE:/Medias/images/iso/](http://download.opensuse.org/repositories/KDE:/Medias/images/iso/)
 
@@ -60,4 +63,4 @@ The below build numbers will change based on rebuilds.
 
 [GNOME](https://wiki.gnome.org/RoadMap) - Next, which is similar but different than Argon and Krypton, is based on tarballs. GNOME - Next is from the unstable branch of GNOME, currently 3.19.x, but will soon be 3.21.x. For that repo to work, occasionally it reaches beyond GNOME packages with libinput and various hardware libraries to build.
 
-[http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/?P=GNOME_Next*](http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/?P=GNOME_Next*)		
+[http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/?P=GNOME_Next*](http://download.opensuse.org/repositories/GNOME:/Medias/images/iso/?P=GNOME_Next*)

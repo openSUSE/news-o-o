@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-09-03 10:20:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/03/tumbleweed-gets-three-snapshots-this-week/
-title: "Tumbleweed gets three snapshots this week"
+slug: tumbleweed-gets-three-snapshots-this-week
+title: Tumbleweed gets three snapshots this week
+wordpress_id: 19464
 categories:
 - Tumbleweed
 tags:
@@ -13,7 +15,8 @@ tags:
 - Plasma 5.4
 - Tumbleweed
 ---
-[![Tumbleweed]({{ site.baseurl }}/assets/Tumbleweed-300x300.png)]({{ site.baseurl }}/assets/Tumbleweed.png)During the past week, Tumbleweed had three snapshots and two packages updated to major versions.
+
+[![Tumbleweed](/wp-content/uploads/2015/07/Tumbleweed.png)](/wp-content/uploads/2015/07/Tumbleweed.png)During the past week, Tumbleweed had three snapshots and two packages updated to major versions.
 
 Perl’s update to version 5.22 in the [20150828 snapshot](http://lists.opensuse.org/opensuse-factory/2015-08/msg00746.html) was perhaps the biggest news for TW this week, which was evident in the [tread](http://lists.opensuse.org/opensuse-factory/2015-08/threads4.html) that followed the snapshot release.
 
@@ -27,5 +30,3 @@ Users anticipating the release of [Plasma 5.4](https://www.kde.org/announcements
 
 
 #### The 5.4 version is also expected to be released in openSUSE Leap, which will have its Milestone 2 release tomorrow.
-
-		

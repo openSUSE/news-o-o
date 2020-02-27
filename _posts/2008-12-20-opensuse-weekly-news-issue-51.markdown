@@ -1,15 +1,18 @@
 ---
 author: News Team
+comments: true
 date: 2008-12-20 22:37:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/12/20/opensuse-weekly-news-issue-51/
-title: "openSUSE Weekly News, Issue 51"
+slug: opensuse-weekly-news-issue-51
+title: openSUSE Weekly News, Issue 51
+wordpress_id: 1132
 categories:
 - Weekly News
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #51 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/51)!  
-In this week™s issue:
+
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #51 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/51)!  
+In this weekâ€™s issue:
 
 
   * openSUSE 11.1 out 
@@ -35,4 +38,3 @@ The openSUSE Weekly News is available in:
 [Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/51) (delay).
 
 The sun's [https://justdomyhomework.com/](https://justdomyhomework.com/) outer atmosphere extends beyond its visible surface
-		

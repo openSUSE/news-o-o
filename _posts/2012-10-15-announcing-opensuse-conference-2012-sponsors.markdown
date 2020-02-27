@@ -1,17 +1,18 @@
 ---
 author: Will Stephenson
+comments: true
 date: 2012-10-15 17:00:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/15/announcing-opensuse-conference-2012-sponsors/
-title: "Announcing openSUSE Conference 2012 Sponsors"
+slug: announcing-opensuse-conference-2012-sponsors
+title: Announcing openSUSE Conference 2012 Sponsors
+wordpress_id: 14297
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-
 
 Next weekend the openSUSE Conference 2012 begins. Please join us October 20-23 at the Czech Technical University in Prague. This year, the openSUSE conference co-locates with the Czech [LinuxDays event](http://linuxdays.cz/), the SUSE Labs and a [Gentoo minisummit](http://gentoo.org/). The openSUSE Conference takes place from October 20-23, Â while LinuxDays are on Saturday 20th and Sunday 21st.
 
@@ -35,7 +36,7 @@ openSUSE would like to thank the generous and comprehensive support of our spons
 
 
 
-SUSE, a pioneer in open source software, provides reliable, interoperable Linux and cloud infrastructure solutions that give enterprises greater control and flexibility. More than 20 years of engineering excellence, exceptional service and an unrivaled partner ecosystem power the products and support that help our customers manage complexity, reduce cost, and confidently deliver mission-critical services. The lasting relationships we build allow us to adapt and deliver the smarter innovation they need to succeed”today and tomorrow.[ www.suse.com](http://www.suse.com)
+SUSE, a pioneer in open source software, provides reliable, interoperable Linux and cloud infrastructure solutions that give enterprises greater control and flexibility. More than 20 years of engineering excellence, exceptional service and an unrivaled partner ecosystem power the products and support that help our customers manage complexity, reduce cost, and confidently deliver mission-critical services. The lasting relationships we build allow us to adapt and deliver the smarter innovation they need to succeedâ€”today and tomorrow.[ www.suse.com](http://www.suse.com)
 
 
 
@@ -91,7 +92,7 @@ B1's comprehensive Linux / Open Source project experience is based on the succes
 
 
 
-ownCloud is a flexible, open source file sync and share solution. Whether using a mobile device, a workstation, or a web client, ownCloud provides the ability to put the right files at your employees™ fingertips on any device in one simple-to-use, secure, private and controlled solution.
+ownCloud is a flexible, open source file sync and share solution. Whether using a mobile device, a workstation, or a web client, ownCloud provides the ability to put the right files at your employeesâ€™ fingertips on any device in one simple-to-use, secure, private and controlled solution.
 
 **Univention GmbH**
 ![](http://conference.opensuse.org/images/sponsors/sponsor_univention.png)
@@ -128,7 +129,7 @@ Root.cz is a well-known IT and open source technology news site in the Czech Rep
 
 
 
-[![](http://conference.opensuse.org/images/sponsors/sponsor_cvut.jpg)](http://www.cvut.cz/)Czech Technical University in Prague (CTU, ÄŒeskÃ© vysokÃ© uÄenÃ­ technickÃ© v Praze “ ÄŒVUT in Czech) is one of the largest universities in the Czech Republic, and the oldest institute of technology in Central Europe.
+[![](http://conference.opensuse.org/images/sponsors/sponsor_cvut.jpg)](http://www.cvut.cz/)Czech Technical University in Prague (CTU, ÄŒeskÃ© vysokÃ© uÄenÃ­ technickÃ© v Praze â€“ ÄŒVUT in Czech) is one of the largest universities in the Czech Republic, and the oldest institute of technology in Central Europe.
 
 It was established in 1707 by the Emperor Joseph I. According to the THES-QS World University Rankings for the year 2010, the CTU is the world's 121st best university in technology, was the 171st in 2009 and 228th in 2008 and is the 1st in the Czech Republic.
 
@@ -136,4 +137,4 @@ It was established in 1707 by the Emperor Joseph I. According to the THES-QS Wor
 ## Thanks!
 
 
-We're very gratful for the support these sponsors provide us for the event.		
+We're very gratful for the support these sponsors provide us for the event.

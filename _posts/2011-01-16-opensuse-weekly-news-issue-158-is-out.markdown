@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2011-01-16 10:42:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/01/16/opensuse-weekly-news-issue-158-is-out/
-title: "openSUSE Weekly News, Issue 158 is out!"
+slug: opensuse-weekly-news-issue-158-is-out
+title: openSUSE Weekly News, Issue 158 is out!
+wordpress_id: 6216
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce our new openSUSE Weekly News.
 <!-- more -->
 
@@ -78,7 +81,7 @@ Enjoy the reading :-)
 
 **
       [Reviewing
-        the Trademark Guidelines](https://news.opensuse.org/2011/01/11/reviewing-the-trademark-guidelines/)
+        the Trademark Guidelines](http://news.opensuse.org/2011/01/11/reviewing-the-trademark-guidelines/)
     **
 
 In 2009, a set of [trademark guidelines](http://en.opensuse.org/openSUSE:Trademark_guidelines) were created to help define how the community and beyond could
@@ -117,19 +120,19 @@ While we would like comments submitted on openFATE, if you prefer, you can post 
       forward on their own projects.
 
 **[The
-        openSUSE Board election 2010](https://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/)**
+        openSUSE Board election 2010](http://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/)**
 
 The openSUSE Board Election process, started in December 2010, is heading full-speed for
-      the planned announcement of the results on January 26, 2011. Today the voting begins and it™s
+      the planned announcement of the results on January 26, 2011. Today the voting begins and itâ€™s
       time to take a closer look at the candidates and [make up our minds](https://connect.opensuse.org/pg/polls/read/digitaltomm/10769/opensuse-board-election-2011)!
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![]({{ site.baseurl }}/assets/vote.jpeg)
+<td align="center" >![](/wp-content/uploads/2011/01/vote.jpeg)
 </td></tr></table>
 
 In this election we will have 2 seats to be voted upon as the board periods of Pascal
       Bleser and Henne Vogelsang expire. With the existing company affiliations in the board (Pavol
-      Prusnak- Novell, Bryen Yunashko “ none, Rupert Horstkötter “ openSLX) the restraint is that at
+      Prusnak- Novell, Bryen Yunashko â€“ none, Rupert HorstkÃ¶tter â€“ openSLX) the restraint is that at
       most one of the to be elected members can be affiliated with Novell and at most one with
       openSLX. According to the [election
         rules](http://en.opensuse.org/openSUSE:Board_election#Company_affiliation), no single organization or company can control more than 40 percent of the
@@ -142,7 +145,7 @@ In this election we will have 2 seats to be voted upon as the board periods of P
 You can check their user pages, blogs and the platform page explaining their vision and
       plans for openSUSE:
 
-  * [Chuck PUP Payne](http://en.opensuse.org/User:Terrorpup),
+  * [Chuck â€œPUPâ€ Payne](http://en.opensuse.org/User:Terrorpup),
             ambassador from the US ([blog](http://opensuse.terrorpup.net/)) [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_terrorpup)
 
   * [sebas](http://en.opensuse.org/User:Vizzzion), open-slx user
@@ -179,14 +182,14 @@ The openSUSE board was set up to lead the overall project. The main tasks for me
   * Facilitate decision making processes where needed
 
 The board should provide guidance to and support for existing governance structures, but
-      shouldn™t direct or control development, since community mechanisms exist to accomplish the
+      shouldnâ€™t direct or control development, since community mechanisms exist to accomplish the
       goals of the project. The board does however document decisions and policies, as well as
       mediate when issues arise. The board decides on usage of the trademarks of openSUSE, deals
       with conflicts, works with the Novell openSUSE community manager on funding decisions, works
-      with the community on the organization of events and in general does a lot of ˜small things™
+      with the community on the organization of events and in general does a lot of â€˜small thingsâ€™
       often only visible when they are not handled. The board members are elected according to
         [Board Election rules](http://en.opensuse.org/openSUSE:Board_election) by
-      the members of the community who™ve been accepted as official ˜openSUSE Members™ and the chair
+      the members of the community whoâ€™ve been accepted as official â€˜openSUSE Membersâ€™ and the chair
       person is appointed by Novell. Current chair is Alan Clark. 
 
 Our current Board has had a busy time in the last year, setting up the foundations for a
@@ -244,9 +247,9 @@ openSUSE 11.4 Milestone 6 release
             Marques: Wallpaper Community Pack #1](http://lizards.opensuse.org/2011/01/13/wallpaper-community-pack-1/)
         **
 
-I™ve received some emails and some positive feedback about one wallpaper I used for a
-          couple of screenshot™s I™ve used in the past, including also information requests about
-          where that very same wallpaper could be found. I™m happy people liked my choice. 
+Iâ€™ve received some emails and some positive feedback about one wallpaper I used for a
+          couple of screenshotâ€™s Iâ€™ve used in the past, including also information requests about
+          where that very same wallpaper could be found. Iâ€™m happy people liked my choice. 
 
 The wallpaper is question is the following, which can be found at [gnome-look [dot] org](http://gnome-look.org): Green Snake HD - by Kmurat @
           gnome-art.org
@@ -255,14 +258,14 @@ The wallpaper is question is the following, which can be found at [gnome-look [d
 <td >![](http://gnome-look.org/CONTENT/content-pre1/70282-1.jpg)
 </td></tr></table>
 
-It is clear to me at this stage that Artwork has good demand and it™s a ˜value +™
-          recognized by many users. Understanding this, I™ve decided two things: 
+It is clear to me at this stage that Artwork has good demand and itâ€™s a â€˜value +â€™
+          recognized by many users. Understanding this, Iâ€™ve decided two things: 
 
-  1. GNOME:Ayatana will have a small Artwork Package by the Community, I™m currently
+  1. GNOME:Ayatana will have a small Artwork Package by the Community, Iâ€™m currently
                 contacting Kmurat to check if he can change the licence on this artwork piece (with
-                over 20.000 downloads on gnome-art) so I can use it for distribution. Currently it™s
-                licensed as CC BY-NC-ND, in which the NC can be probably a problem. Let™s wait a
-                couple of days and see¦ Either way for those who asked for the source of this
+                over 20.000 downloads on gnome-art) so I can use it for distribution. Currently itâ€™s
+                licensed as CC BY-NC-ND, in which the NC can be probably a problem. Letâ€™s wait a
+                couple of days and seeâ€¦ Either way for those who asked for the source of this
                 wallpaper, click on the image above.
 
   2. I will create a small package with wallpapers from the community and make it
@@ -270,18 +273,18 @@ It is clear to me at this stage that Artwork has good demand and it™s a ˜valu
 
 My intentions are to include a set of wallpapers (4/3, 16/9 and 16/10) of
           around 5/7 wallpapers from several artists and community contributors. The first person
-          I™ve contacted regarding this was Javier Llorente, a openSUSE Artwork Team and KDE
-          contributor, which donated and pointed some artwork. I™ve also sent a small email to
-            [MarÃ­a ˜Tatica™ Leandro](http://tatica.org), a contributor of Fedora
+          Iâ€™ve contacted regarding this was Javier Llorente, a openSUSE Artwork Team and KDE
+          contributor, which donated and pointed some artwork. Iâ€™ve also sent a small email to
+            [MarÃ­a â€˜Taticaâ€™ Leandro](http://tatica.org), a contributor of Fedora
           Design Team from South America asking if she had something that she could share with us
           for this community package (I did loved some of her submissions into Fedora Art).
-          Additionally, I™m also going to nag [Sirko Kemter
-            (gnokii)](http://karl-tux-stadt.de) for a contribution¦ 
+          Additionally, Iâ€™m also going to nag [Sirko Kemter
+            (gnokii)](http://karl-tux-stadt.de) for a contributionâ€¦ 
 
-Once this is assembled (already have 5 wallpapers) I™m going to package it, run a
-          sanity check and prepare it for distribution¦ 
+Once this is assembled (already have 5 wallpapers) Iâ€™m going to package it, run a
+          sanity check and prepare it for distributionâ€¦ 
 
-**UPDATE**: MarÃ­a ˜Tatica™ Leandro has answered positive
+**UPDATE**: MarÃ­a â€˜Taticaâ€™ Leandro has answered positive
           to my email requesting for a donation, Sirko Kemter also answered positive.
 
 #### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
@@ -393,7 +396,7 @@ Can effort be made to ensure that opensuse 11.4 does not have menus for critical
 
 Include open document thumbnail plugin for default package list.
 
-http://kenai.com/projects/kde-odf-thumbnail/sources/sources/show
+http://kenai.com/projects/kde-odf.ail/sources/sources/show
 
 http://kde-apps.org/content/show.php?content=110864
 
@@ -480,7 +483,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            “ [Localization
+            â€“ [Localization
               Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Icon-project.png)In the Community
@@ -538,17 +541,17 @@ Kai-Uwe serves as Speaker, Boothman and Developer for the openSUSE Project.
 
 **Past**
 
-  * [January 12, 2011 : openSUSE Board Meeting](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [January 12, 2011 : openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [January 13, 2011 : ï»¿openSUSE KDE Team meeting](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 13, 2011 : ï»¿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 **Upcoming**
 
-  * [January 20, 2011 : openSUSE GNOME Team meeting](https://news.opensuse.org/2011/01/11/opensuse-gnome-team-meeting-22/)
+  * [January 20, 2011 : openSUSE GNOME Team meeting](http://news.opensuse.org/2011/01/11/opensuse-gnome-team-meeting-22/)
 
-  * [January 27, 2011 : ï»¿openSUSE KDE Team meeting](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 27, 2011 : ï»¿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
-You can find more informations on other events at: [openSUSE News/Events](https://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
@@ -569,11 +572,11 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 **[Packman: vlc 1.1.5-5.pm](http://packman.links2linux.org/package/vlc)**
 
-VLC media player is a highly portable multimedia player for various
+â€œVLC media player is a highly portable multimedia player for various
       audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...)
       as well as DVDs, VCDs, and various streaming protocols.
       It can also be used as a server to stream in unicast or multicast
-      in IPv4 or IPv6 on a high-bandwidth network.
+      in IPv4 or IPv6 on a high-bandwidth network.â€
 
 **[Packman: flexdock 0.5.1-0.pm](http://packman.links2linux.org/package/flexdock)**
 
@@ -633,11 +636,11 @@ After the [release
 
 The first changes made for Linux 2.6.38 also include [the patch](http://git.kernel.org/linus/5091faa449ee0b7d73bc296a93bca9540fc51d0a)
       that considerably improves the interactivity of desktop applications in situations where the
-      CPU is fully utilised. This patch became known through such articles as [The ~200 Line Linux Kernel Patch That Does
-        Wonders](http://bit.ly/fI6LyR) on the Phoronix web site; details of the patch's functionality as
+      CPU is fully utilised. This patch became known through such articles as [â€œThe ~200 Line Linux Kernel Patch That Does
+        Wondersâ€](http://bit.ly/fI6LyR) on the Phoronix web site; details of the patch's functionality as
       well as a description of an alternative, more flexible, approach can be found in a [previous Kernel Log](http://www.h-online.com/open/features/Kernel-Log-Fast-response-times-via-process-groups-1141390.html). The maintainer of the process scheduler, Ingo Molnar, [explicitly pointed out](http://thread.gmane.org/gmane.linux.kernel/1084129) this
-      function in his Git-Pull request, calling it one of the biggest and most visible
-        interactivity improvements achieved by the Linux scheduler. (...) **License**: 4
+      function in his Git-Pull request, calling it â€œone of the biggest and most visible
+        interactivity improvements achieved by the Linux schedulerâ€. (...) **License**: 4
 
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
@@ -648,13 +651,13 @@ The first changes made for Linux 2.6.38 also include [the patch](http://git.kern
           Blender](http://www.freesoftwaremagazine.com/columns/creating_moving_story_reel_shot_inkscape_and_blender)
       **
 
-There™s a reason they™re called movies. They™re supposed to move. Your eyes are keyed
+Thereâ€™s a reason theyâ€™re called â€œmovies.â€ Theyâ€™re supposed to move. Your eyes are keyed
         to follow motion, and the constant revelation of new information in a moving shot holds your
         interest longer. Thus, while four seconds might be about the maximum comfortable length for
         a static shot, shots in which the camera or subject are moving extensively can often last
         more than a minute without feeling slow at all. Storyboards made entirely from static images
-        make it hard to judge active shots. It™s useful, therefore, to be able to insert some
-        movement at the storyboard phase by panning and zooming a drawing. Here I™m going to
+        make it hard to judge active shots. Itâ€™s useful, therefore, to be able to insert some
+        movement at the storyboard phase by panning and zooming a drawing. Here Iâ€™m going to
         demonstrate such an animated storyboard using Inkscape and Blender. (...)
 
 **[Sankar
@@ -720,8 +723,8 @@ In this tutorial, we'll walk through the steps of seeing what's already loaded
         in the running kernel, and adding and removing modules from the kernel. (...) **License**: 1
 
 **
-        [Chuck Payne: System Administrator 101 ” A
-          Basic Bash Loop ” Part 1 for](http://opensuse.terrorpup.net/?p=196)
+        [Chuck Payne: System Administrator 101 â€” A
+          Basic Bash Loop â€” Part 1 â€œforâ€](http://opensuse.terrorpup.net/?p=196)
       **
 
 Being a System Administrator you will find that you need to do a lot of repetitive
@@ -732,7 +735,7 @@ You can save a lot of time by looping commands. There are three ways you can do 
         using one of the following; for, while or until. We will first focus on for, it my favorite
         of the three. 
 
-The thing to remember with a ˜for loop™ is the following
+The thing to remember with a â€˜for loopâ€™ is the following
         syntax:
     
     for variable in x y z ; do command $variable ; done
@@ -742,26 +745,26 @@ Variable is what ever you want to call it. Most people use i as a variable, but 
         The last thing to remember with a loop is when it passed everything to the command that if
         finish, that is why you need the done. 
 
-Here is an example of a simple count down that you can do with for a ˜for
-        loop™.
+Here is an example of a simple count down that you can do with for a â€˜for
+        loopâ€™.
     
     for i in 10 9 8 7 6 5 4 3 2 1 ; do echo $i ; done
 
 As you can see, we have set our variable to be i, in that variable we are going to pass
         10 to 1 to the command echo. By the way, you can do this another way if you are using Bash
-        4.0, by changing the number to {10¦1} , this because of inbuilt support for setting up a
+        4.0, by changing the number to {10â€¦1} , this because of inbuilt support for setting up a
         step value use {START..END..INCREMENT} . 
 
 Here is another example, we are going fun and make the computer count out load to 100 by
-        5²s¦
+        5â€²sâ€¦
     
-    for x in {5..100..5} ; do echo $x | festival --tts ; done
+    for x in {5..100..5} ; do echo  | festival --tts ; done
 
 In this loop we set our variable to x, and we told it to start with 5 go to 100 by
         increments of 5. We then passed that on to echo that is piped into festival to read it out
         load, once it had reach 100, it stops. 
 
-Here are some real world examples of how System Administrator use a ˜for loop™. Let say
+Here are some real world examples of how System Administrator use a â€˜for loopâ€™. Let say
         you have a text file that you keep a list of Linux servers that you take care and you need
         to push a rpm or a file to
         them.
@@ -771,9 +774,9 @@ Here are some real world examples of how System Administrator use a ˜for loop�
      linux10 192.168.1.10
      linux20 192.168.1.20
 
-With a ˜for loop™ it is very simple and fast. We are going to cat the file so that we
+With a â€˜for loopâ€™ it is very simple and fast. We are going to cat the file so that we
         know what server to access. We are also going to use awk so that we get the ip from the
-        second coloumn. To get the information we will need to pipe ˜ |  the loop into the awk
+        second coloumn. To get the information we will need to pipe â€˜ | â€œ the loop into the awk
         command to get it, because we are run commands to get the information for the loop we will
         need to use ` ` in order to run the
         statement.
@@ -786,19 +789,19 @@ This loop tell that our variable f is going to pass the four ip so that we can s
 ### Note
 
 If you are not sure about what the output going to look like, it always best to use
-            the following to see what the output going to be¦.
+            the following to see what the output going to beâ€¦.
     
     echo $f
 
 Now lets say that file you pushed to the server is rpm that you need to update your
-        server. You can do ˜for loop™, using ssh and pass the command to the boxes to update that
+        server. You can do â€˜for loopâ€™, using ssh and pass the command to the boxes to update that
         rpm
     
     for r in `cat linux_server | awk '{ print $2 }` ; do ssh user@$r rpm -Uvh /dir/myfile ; 
     
     done
 
-To ensure that the file was updated, you can do another ˜for loop™ check the rpm
+To ensure that the file was updated, you can do another â€˜for loopâ€™ check the rpm
         database to see if there by doing rpm -qa and pipe into a grep with the file
         name.
     
@@ -810,33 +813,33 @@ By the way you can use all of these commands together in one script to save even
         time.
     
     #!/bin/bash
-     servers=linux_server
-     files=files_to_push
+     servers=â€linux_serverâ€
+     files=â€files_to_pushâ€
      
     # Here we are going push files 
     for f in `cat $servers | awk '{ print $2}'` ; do scp $files user@$f:/dir ; done
     # Here we are going to install the files 
     for r in `cat $servers | awk '{ print $2 }` ; do ssh user@$r rpm -Uvh /dir/$files ; done
     # Here we are going to check if it got installed 
-    for x in `cat $servers | awk '{ print $2 }` ; do ssh user@$x rpm-qa | grep $files ; done
+    for x in `cat $servers | awk '{ print $2 }` ; do ssh user@ rpm-qa | grep $files ; done
     exit 0
 
 As great System Administrator, finding the simplest ways to do recurring tasks frees up
-        your time for tackling more complex problems . A ˜for loop™ is a great way to help. Next
+        your time for tackling more complex problems . A â€˜for loopâ€™ is a great way to help. Next
         time I will go over while. **License**: 3
 
 **
         [Nelson Marques: openSUSE Factory: ATI FireGL 10.12](http://lizards.opensuse.org/2011/01/13/opensuse-factory-ati-firegl-10-12/)
       **
 
-I™ve had some problems in the past with openSUSE Factory and ATI support¦ even the
-        normal radeon driver wasn™t worked properly. After the last updates, the radeon driver
-        started working properly and I™ve decided to install the ATI FireGL driver which is actually
+Iâ€™ve had some problems in the past with openSUSE Factory and ATI supportâ€¦ even the
+        normal radeon driver wasnâ€™t worked properly. After the last updates, the radeon driver
+        started working properly and Iâ€™ve decided to install the ATI FireGL driver which is actually
         something I need to continue testing and debug Unity implementation on openSUSE. 
 
 IT WORKS! 
 
-Here™s what you need (64 bit users):
+Hereâ€™s what you need (64 bit users):
 
   * Install the required dependencies to compile the kernel module (currently on
               ï»¿ï»¿ï»¿ï»¿ï»¿2.6.37-rc5-12-desktop). 64bit users will require the
@@ -857,7 +860,7 @@ Here™s what you need (64 bit users):
     sh ati-driver-installer-10-12-x86.x86_64.run --extract
 
 This will create a small folder which starts with fglrx. Change directory into
-              that folder¦ 
+              that folderâ€¦ 
 
   * Download the following patches:
 
@@ -875,9 +878,9 @@ This will create a small folder which starts with fglrx. Change directory into
     sh ati-installer.sh 8.801 --install
 
   * Follow the installer instructions. Finally check /usr/share/ati/fglrx-install.log
-              to check if everything is cool¦
+              to check if everything is coolâ€¦
 
-  * Restart using your favorite method¦ mine is ˜shutdown now -frn™.
+  * Restart using your favorite methodâ€¦ mine is â€˜shutdown now -frnâ€™.
 
 Enjoy FireGL on openSUSE Factory!
 
@@ -908,10 +911,10 @@ In mid-October we wrote about [openSUSE 11.1 being put out to pasture](http://om
       for users? As resident security expert [Marcus
         Meissner](http://twitter.com/msmeissn) stated in the original announcement: 
 
-SUSE Security announces that the SUSE Security Team will
+â€œSUSE Security announces that the SUSE Security Team will
           stop releasing updates for openSUSE 11.1 soon. Having provided security-relevant fixes for
           the last two years, we will stop releasing updates after December 31st
-        2010.
+        2010.â€
     
 
 Before the deadline of December 31st came, there [was already talk](http://www.rosenauer.org/blog/2010/11/30/community-powered-long-term-support-for-opensuse/) about extending support for openSUSE 11.1 by the openSUSE
@@ -1035,10 +1038,10 @@ To extend our offer, we have already started in the middle of last year to conve
           Video Codec Support in Chrome](http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html)
       **
 
-The web™s open and community-driven development model is a key factor in its rapid
+The webâ€™s open and community-driven development model is a key factor in its rapid
         evolution and ubiquitous adoption. The [WebM
           Project](http://www.webmproject.org/) was [launched](http://blog.webmproject.org/2010/05/introducing-webm-open-web-media-project.html) last year to bring an open, world-class video codec to the web. Since
-        the launch, we™ve seen first-hand the benefits of an open development model: (...)
+        the launch, weâ€™ve seen first-hand the benefits of an open development model: (...)
 
 ### Reports
 
@@ -1057,24 +1060,24 @@ In its continued march across the open source industry landscape, [Black Duck So
         holds for the company.
 
 According to Vescuso, the decision to purchase Olliance was a natural evolution in
-        response to the changing needs of Black Ducks' customer base. Over the last few years
-          as our business has grown we™ve encountered more and more customers that not only needed a
+        response to the changing needs of Black Ducks' customer base. â€œOver the last few years
+          as our business has grown weâ€™ve encountered more and more customers that not only needed a
           software platform to manage their use of open source components, but wanted help with
           business strategy around their use of open source, policy development, etc. Last year we
           formalized a partnership with Olliance to address this need which has been successful
           beyond our expectations. So much so that we realized for Black Duck to achieve its vision
           of being the company that organizations trust for all their FOSS-enablement needs, we
-          needed to acquire Olliance, the leading consultancy in this area, says
+          needed to acquire Olliance, the leading consultancy in this areaâ€, says
         Vescuso.
 
 Although Black Duck already offers some consulting services to clients, they are mainly
         focused on pre- and post-deployment support. Olliance's consulting services, on the other
         hand, help businesses map out how open source fits into a their overall business strategy
-          Black Duck™s services have been mostly focused on process integration and
-          implementation, roll out, with some services for policy development, says Vescuso.
-          Olliance™s strength and deep knowledge developed over hundreds of customer
+          â€œBlack Duckâ€™s services have been mostly focused on process integration and
+          implementation, roll out, with some services for policy developmentâ€, says Vescuso.
+          â€œOllianceâ€™s strength and deep knowledge developed over hundreds of customer
           engagements is in business strategy, policy and process, which is highly complementary to
-          what we were offering, hence the motivation to acquire Olliance. (...) **License**: 5
+          what we were offering, hence the motivation to acquire Ollianceâ€. (...) **License**: 5
 
 **
         [LinuxDevices.com/Jonathan Angel: All-in-one POS device runs SUSE Linux](http://www.linuxfordevices.com/c/a/News/NCR-RealPOS-25-and-RealPOS50/?kc=rss)
@@ -1091,7 +1094,7 @@ NCR announced two all-in-one POS (point of sale) systems that run Novell's SUSE
           advertisement](http://www.youtube.com/watch?v=6tw2JOuct7k)
       **
 
-Youtube: Created as part of the Google Code In program
+Youtube: â€œCreated as part of the Google Code In programâ€
 
 **
         [InfoWorld's Linux IQ
@@ -1114,8 +1117,8 @@ Open source commentators were suspicious when news emerged that [openSUSE will m
         Novell, which currently supports openSUSE development. 
 
 But the move is in line with the wishes of the openSUSE community, will be properly
-        funded, and does not represent any fading of Novell™s interest in the Linux version “ or any
-        lack of involvement by [Novell™s prospective owner, Attachmate](http://www.eweekeurope.co.uk/news/microsoft-gets-novell-ip-in-2-65-billion-carve-up-13995). 
+        funded, and does not represent any fading of Novellâ€™s interest in the Linux version â€“ or any
+        lack of involvement by [Novellâ€™s prospective owner, Attachmate](http://www.eweekeurope.co.uk/news/microsoft-gets-novell-ip-in-2-65-billion-carve-up-13995). 
 
 That is the view of Jos Poortvliet, Jos Poortvliet, openSUSE Community Manager at
         Novell, who contacted us to give some background to the move, which he says dates back well
@@ -1132,7 +1135,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
@@ -1163,7 +1166,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-    the [comment section](https://news.opensuse.org/?p=6216) and let us know! 
+    the [comment section](http://news.opensuse.org/?p=6216) and let us know! 
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
@@ -1185,7 +1188,7 @@ Since a few minutes you can use [Bugtracking](http://developer.berlios.de/bugs/?
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](https://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
@@ -1194,7 +1197,7 @@ You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](ht
 openSUSE Weekly News is translated into many languages. Issue
     158 is available in: 
 
-  * [English](https://news.opensuse.org/?p=6216)
+  * [English](http://news.opensuse.org/?p=6216)
 
 Coming soon: 
 
@@ -1203,6 +1206,3 @@ You can follow the status of the translation [there](http://en.opensuse.org/open
   * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/158)
 
   * [Greek](http://el.opensuse.org/Weekly_news)
-
-
-		

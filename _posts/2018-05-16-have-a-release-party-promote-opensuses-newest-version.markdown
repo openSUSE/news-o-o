@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-16 07:24:41+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/16/have-a-release-party-promote-opensuses-newest-version/
-title: "Have a Release Party, Promote openSUSE’s Newest Version"
+slug: have-a-release-party-promote-opensuses-newest-version
+title: Have a Release Party, Promote openSUSE’s Newest Version
+wordpress_id: 20863
 categories:
 - Announcements
 - Leap
@@ -19,6 +21,7 @@ tags:
 - share
 - social media posts
 ---
+
 There are just 9 days left for the release of openSUSE Leap 15 and the community can help spread the word of the release by having a release party and promoting the newest version of Leap.
 
 Thanks to [hellcp](https://github.com/hellcp) people can decorate their blogs and website with the [openSUSE Leap 15 counter](https://github.com/openSUSE/countdown.o.o):
@@ -70,4 +73,4 @@ Bring one or more cameras to take pictures or videos and post them to social med
 
 PromoDVDs, webcam covers and stickers – If we can get it to you without too much red tape from governments, we will; just email ddemaio (at) opensuse.org with Release Party.
 
-IMPORTANT TIP: Schedule your[ release party](https://en.opensuse.org/openSUSE:Launch_parties) on the wiki and have a lot of fun!		
+IMPORTANT TIP: Schedule your[ release party](https://en.opensuse.org/openSUSE:Launch_parties) on the wiki and have a lot of fun!

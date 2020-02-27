@@ -1,16 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2008-03-12 12:47:50+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/03/12/opensuse-weekly-news-issue-13/
-title: "openSUSE Weekly News, Issue 13"
+slug: opensuse-weekly-news-issue-13
+title: openSUSE Weekly News, Issue 13
+wordpress_id: 685
 categories:
 - Weekly News
 ---
 
-
-![news]({{ site.baseurl }}/assets/knewsticker.png)
+![news](/wp-content/uploads/2007/11/knewsticker.png)
 
 Issue 13 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/13)!
 
@@ -43,4 +44,3 @@ In this week's issue:
 
 
 
-		

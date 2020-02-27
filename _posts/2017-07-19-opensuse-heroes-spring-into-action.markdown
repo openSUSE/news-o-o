@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-19 06:05:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/19/opensuse-heroes-spring-into-action/
-title: "openSUSE Heroes Spring Into Action"
+slug: opensuse-heroes-spring-into-action
+title: openSUSE Heroes Spring Into Action
+wordpress_id: 20507
 categories:
 - Infrastructure
 - Project
@@ -14,7 +16,8 @@ tags:
 - openSUSE Heroes
 - wiki
 ---
-![openSUSE-Heroes Logo]({{ site.baseurl }}/assets/openSUSE-Heroes.png)Mike Tyson might have said it best when he said “everyone has a plan ‘till they get punched in the mouth.”
+
+![openSUSE-Heroes Logo](/wp-content/uploads/2016/07/openSUSE-Heroes.png)Mike Tyson might have said it best when he said “everyone has a plan ‘till they get punched in the mouth.”
 
 Tyson’s point is that plans change, especially in the moment of executing a plan and that’s exactly what the openSUSE Heroes did with updating the wikis; minus the punch in the mouth.
 
@@ -45,4 +48,4 @@ Here is more information for those who are interested in statistics:
   * The Heroes moved about 10 GB of uploaded files and 1.6 GB of mysql dumps from Provo to Nuremberg yesterday, which was sometimes "funny" because  the server in Provo limits the connection to 10 MB.
 
 
-Have fun with the updated wikis and the upcoming openSUSE Leap 42.3!![](https://i.ytimg.com/vi/749ChKKHbRk/maxresdefault.jpg)		
+Have fun with the updated wikis and the upcoming openSUSE Leap 42.3!![](https://i.ytimg.com/vi/749ChKKHbRk/maxresdefault.jpg)

@@ -1,15 +1,17 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2010-06-17 09:27:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/17/a-strategy-for-the-opensuse-project-proposals-and-discussions/
-title: "A Strategy for the openSUSE Project: Proposals and Discussions\
-  "
+slug: a-strategy-for-the-opensuse-project-proposals-and-discussions
+title: 'A Strategy for the openSUSE Project: Proposals and Discussions'
+wordpress_id: 3493
 categories:
 - Project
 ---
-As announced [previously](https://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/), the openSUSE Board and its Strategy Team have worked on three strategic proposals to define the direction of openSUSE's future, as a Project, Community and distribution.Â  Each strategy proposal includes the same community statement.Â  We will therefore discuss the community statement and the three strategies separately.
+
+As announced [previously](http://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/), the openSUSE Board and its Strategy Team have worked on three strategic proposals to define the direction of openSUSE's future, as a Project, Community and distribution.Â  Each strategy proposal includes the same community statement.Â  We will therefore discuss the community statement and the three strategies separately.
 
 
 ### Focused Discussion
@@ -72,4 +74,4 @@ Pavol Rusnak and Andreas Jaeger will consolidate comments and proposal changes f
 	
   * 2010-06-29: Discussions started about the third strategy ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00868.html) | [forums](http://forums.opensuse.org/community/surveys-polls/441135-opensuse-strategy-mobile-cloud-ready-distribution.html))
 
-		
+

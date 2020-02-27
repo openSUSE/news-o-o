@@ -1,18 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-03-29 15:00:22+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/
-title: "openSUSE Summit Geeko-ing Up: Website up, Call for Papers out!\
-  "
+slug: opensuse-summit-geeko-ing-up-website-up-call-for-papers-out
+title: 'openSUSE Summit Geeko-ing Up: Website up, Call for Papers out!'
+wordpress_id: 13098
 categories:
 - Announcements
 - Events
 - Project
 - Summit
 ---
-[![]({{ site.baseurl }}/assets/logo-300x274.jpg)](https://news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/logo/)
+
+[![](/wp-content/uploads/2012/03/logo.jpg)](http://news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/logo/)
 
 
 We're happy to announce that starting March 29 the openSUSE Summit team will accept session proposals for the openSUSE Summit. The openSUSE Summit will take place from September 21-23, 2012 in Orlando Florida at the Caribe Royale Hotel. The proposal submission period ends on June 15, 2012 at midnight EDT. Final announcement of the program will occur on or before July 23, 2012.
@@ -68,7 +70,7 @@ The openSUSE Community track provides information and discussion around the open
 
 
 
-[![postcard]({{ site.baseurl }}/assets/postcard-300x199.jpg)](https://news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/postcard/)
+[![postcard](/wp-content/uploads/2012/03/postcard.jpg)](http://news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/postcard/)
 
 
 **openSUSE Tech**  
@@ -127,5 +129,3 @@ Submit proposals for the openSUSE Summit using the [registration and submission 
 
 
 **Please note:** All openSUSE events are governed by the [openSUSE Code of Conduct](http://en.opensuse.org/openSUSE:Conference_code_of_conduct). The [speaker guidelines](http://en.opensuse.org/openSUSE:Conference_speaker_guidelines) outline requirements for the submission of proposals and provide other valuable information for speakers.
-
-		

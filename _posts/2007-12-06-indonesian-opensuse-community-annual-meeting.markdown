@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2007-12-06 08:32:33+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/12/06/indonesian-opensuse-community-annual-meeting/
-title: "Indonesian openSUSE Community Annual Meeting"
+slug: indonesian-opensuse-community-annual-meeting
+title: Indonesian openSUSE Community Annual Meeting
+wordpress_id: 562
 categories:
 - Events
 ---
+
 [Masim](http://www.vavai.com/blog/) informs us that the [Indonesian openSUSE Community](http://www.opensuse.or.id)'s (OpenSUSE-ID) Annual Meeting will be held in Jakarta on 8th December 2007. This is their monthly meeting that becomes the first annual meeting to prepare the project of openSUSE-ID in 2008.
 
 Read on for some the facts about Indonesia and the opportunity he sees to increase openSUSE and Open Source adoption.
@@ -48,7 +51,7 @@ Back to the annual meeting, the event itself will offer some discussion about:
   * openSUSE Remastered with most common application used in Indonesia
 
   
-  * Knowledge share with subject Building Powerful Mail Server withoOpenSUSE and [Zimbra Collaboration Suite](http://www.zimbra.com)
+  * Knowledge share with subject â€œBuilding Powerful Mail Server withoOpenSUSE and [Zimbra Collaboration Suite](http://www.zimbra.com)â€
 
   
   * Distributing openSUSE 10.2 and 10.3 DVD repositories (contains oss, non oss, Packman and Guru repository)
@@ -57,4 +60,4 @@ Back to the annual meeting, the event itself will offer some discussion about:
 
 This event is open for all openSUSE and Open Source enthusiasts. Details of announcement in Bahasa Indonesia were already published in "[Kopdar #2 OpenSUSE-ID](http://opensuse.or.id/2007/11/29/kopdar-2-opensuse-id/)".
 
-See you there...
+See you there... Be an [proessaywriting.org](https://proessaywriting.org) active note-taker in college, it's not enough to just transcribe what your professor says and writes on the board

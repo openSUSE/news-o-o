@@ -1,14 +1,17 @@
 ---
 author: Izabel Valverde
+comments: true
 date: 2012-02-29 11:27:55+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/
-title: "openSUSE & GSOC 2012"
+slug: opensuse-gsoc-2012
+title: openSUSE & GSOC 2012
+wordpress_id: 12722
 categories:
 - Google Summer of Code
 ---
-[![GSOC 12 logo with openSUSE Geeko]({{ site.baseurl }}/assets/GSOC-12-logo-openSUSE-300x152.png)](https://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/gsoc-12-logo-opensuse/)
+
+[![GSOC 12 logo with openSUSE Geeko](/wp-content/uploads/2012/02/GSOC-12-logo-openSUSE.png)](http://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/gsoc-12-logo-opensuse/)
 openSUSE as a project always looking to improve and grow and this is one of those opportunities: Google Summer of Code!
 
 Google Summer of Code (GSoC) is a program that offers students an paid opportunity to write code for several open source projects. The purpose is to benefit open source projects and encourage young developers to hack and learn. Both have a lot to gain in the end, experience and code. Google funds these students as well as the project.
@@ -45,4 +48,4 @@ You can find all information about our GSOC program on [our wiki](http://en.open
   * Matt Barringer
 
 
-They hang out on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net)!		
+They hang out on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net)!

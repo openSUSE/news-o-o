@@ -1,14 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-01-16 11:34:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/01/16/voting-for-board-begins/
-title: "Voting for board begins"
+slug: voting-for-board-begins
+title: Voting for board begins
+wordpress_id: 19023
 categories:
 - Board
 ---
-[![drawing]({{ site.baseurl }}/assets/drawing1-212x300.png)]({{ site.baseurl }}/assets/drawing1.png)The voting polls are open. The openSUSE board election has started and all [openSUSE members](http://en.opensuse.org/Members) are eligible to cast their vote.
+
+[![drawing](/wp-content/uploads/2014/12/drawing1.png)](/wp-content/uploads/2014/12/drawing1.png)The voting polls are open. The openSUSE board election has started and all [openSUSE members](http://en.opensuse.org/Members) are eligible to cast their vote.
 
 The board consist of one appointed chairperson and five elected members who may serve up to two consecutive terms on the board.
 
@@ -35,4 +38,4 @@ The election period ends at January 26th 2015 (23:00 UTC). All candidates have p
 
 To cast your vote, go to: [https://connect.opensuse.org/pg/polls/read/RBrownSUSE/46342/opensuse-board-election-20142015](https://connect.opensuse.org/pg/polls/read/RBrownSUSE/46342/opensuse-board-election-20142015)
 
-If you have any questions, please contact the election officials [election-officials@opensuse.org](mailto:election-officials@opensuse.org).		
+If you have any questions, please contact the election officials [election-officials@opensuse.org](mailto:election-officials@opensuse.org).

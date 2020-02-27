@@ -1,18 +1,21 @@
 ---
 author: Ricardo Chung
+comments: true
 date: 2011-01-12 16:38:46+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/
-title: "The openSUSE Board election 2010"
+slug: the-opensuse-board-election-2010
+title: The openSUSE Board election 2010
+wordpress_id: 6218
 categories:
 - Announcements
 - Board
 ---
+
 The openSUSE Board Election process, started in December 2010, is heading full-speed for the planned announcement of the results on January 26, 2011. Today the voting begins and it's time to take a closer look at the candidates and [make up our minds](https://connect.opensuse.org/pg/polls/read/digitaltomm/10769/opensuse-board-election-2011)!
-[![image of 'uncle sam' Green style!]({{ site.baseurl }}/assets/vote.jpeg)](https://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/vote/)
+[![image of 'uncle sam' Green style!](/wp-content/uploads/2011/01/vote.jpeg)](http://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/vote/)
 <!-- more -->
-In this election we will have 2 seats to be voted upon as the board periods of Pascal Bleser and Henne Vogelsang expire. With the existing company affiliations in the board (Pavol Prusnak- Novell, Bryen Yunashko - none, Rupert Horstkötter - openSLX) the restraint is that at most one of the to be elected members can be affiliated with Novell and at most one with openSLX. According to the [election rule](http://en.opensuse.org/openSUSE:Board_election#Company_affiliation)s, no single organization or company can control more than 40 percent of the electable Board seats. That means, in this election, that if two candidates from either Novell or openSLX score a first and second place, only the one with most votes will have a seat. The other seat will to go to the third candidate in line (provided of course that person is not also affiliated with the same company).
+In this election we will have 2 seats to be voted upon as the board periods of Pascal Bleser and Henne Vogelsang expire. With the existing company affiliations in the board (Pavol Prusnak- Novell, Bryen Yunashko - none, Rupert HorstkÃ¶tter - openSLX) the restraint is that at most one of the to be elected members can be affiliated with Novell and at most one with openSLX. According to the [election rule](http://en.opensuse.org/openSUSE:Board_election#Company_affiliation)s, no single organization or company can control more than 40 percent of the electable Board seats. That means, in this election, that if two candidates from either Novell or openSLX score a first and second place, only the one with most votes will have a seat. The other seat will to go to the third candidate in line (provided of course that person is not also affiliated with the same company).
 
 This time we have seven candidates, all contributors with different experiences and backgrounds. You can check their user pages, blogs and the platform page explaining their vision and plans for openSUSE:
 
@@ -67,4 +70,4 @@ Ballots have just been opened and all openSUSE members whose membership is in go
 More detailed information can be found on the generic [Board Election](http://en.opensuse.org/openSUSE:Board_election) and
 [board election 2010](http://en.opensuse.org/openSUSE:Board_election_2010) wiki pages.
 
-Have a good vote!		
+Have a good vote!

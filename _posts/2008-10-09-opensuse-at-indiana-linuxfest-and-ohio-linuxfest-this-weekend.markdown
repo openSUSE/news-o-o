@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2008-10-09 20:31:27+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/10/09/opensuse-at-indiana-linuxfest-and-ohio-linuxfest-this-weekend/
-title: "openSUSE at Indiana Linuxfest and Ohio Linuxfest This Weekend"
+slug: opensuse-at-indiana-linuxfest-and-ohio-linuxfest-this-weekend
+title: openSUSE at Indiana Linuxfest and Ohio Linuxfest This Weekend
+wordpress_id: 1039
 categories:
 - Events
 ---
+
 The openSUSE Project is going to have a presence at the Indiana Linuxfest and Ohio Linuxfests this weekend.
 
 Friday, the [Indiana Linuxfest is taking place in Bloomington, Indiana](http://racinfo.indiana.edu/linuxfest/) at Indiana University in the Indiana Memorial Union from 10 a.m. to 4 p.m. openSUSE Community Manager Joe 'Zonker' Brockmeier will be giving the opening keynote, "Building Community and Taking Linux to the Masses," at 10 a.m.
@@ -22,4 +25,4 @@ OLF is free to attend, and has been one of the most successful LinuxFests in the
 
 We still have an opening or two at the openSUSE Booth for any volunteers who want to help out at the booth and spread the word about openSUSE. If you're interested, just drop a note to [Zonker](mailto:zonker@opensuse.org).
 
-Look forward to seeing you there! Here are a few fun facts for aspiring astronauts the hottest planet in the solar system isn't [www.admission-writer.com/](https://admission-writer.com/) mercury		
+Look forward to seeing you there! Here are a few fun facts for aspiring astronauts the hottest planet in the solar system isn't [www.admission-writer.com/](https://admission-writer.com/) mercury

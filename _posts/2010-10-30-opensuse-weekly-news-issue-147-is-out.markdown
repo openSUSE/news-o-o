@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-10-30 16:00:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/10/30/opensuse-weekly-news-issue-147-is-out/
-title: "openSUSE Weekly News, Issue 147 is out!"
+slug: opensuse-weekly-news-issue-147-is-out
+title: openSUSE Weekly News, Issue 147 is out!
+wordpress_id: 5375
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We are pleased to announce the new Issue 147.
 <!-- more -->
 
@@ -41,19 +44,19 @@ We are pleased to announce the new Issue 147.
 
 
 
-  * [ From the Developer to the User and back “ Announcing Project Bretzn](https://news.opensuse.org/?p=5375#From_the_Developer_to_the_User_and_back_.E2.80.93_Announcing_Project_Bretzn)
+  * [ From the Developer to the User and back â€“ Announcing Project Bretzn](http://news.opensuse.org/?p=5375#From_the_Developer_to_the_User_and_back_.E2.80.93_Announcing_Project_Bretzn)
 
 
-  * [ SUSE Studio: Gold rush](https://news.opensuse.org/?p=5375#SUSE_Studio:_Gold_rush)
+  * [ SUSE Studio: Gold rush](http://news.opensuse.org/?p=5375#SUSE_Studio:_Gold_rush)
 
 
-  * [ Jos Poortvliet: oSC successful? Absolutely!](https://news.opensuse.org/?p=5375#Jos_Poortvliet:_oSC_successful.3F_Absolutely.21)
+  * [ Jos Poortvliet: oSC successful? Absolutely!](http://news.opensuse.org/?p=5375#Jos_Poortvliet:_oSC_successful.3F_Absolutely.21)
 
 
-  * [ ServerWatch/Joe Brockmeier: Using Strace to Trace Problems](https://news.opensuse.org/?p=5375#ServerWatch.2FJoe_Brockmeier:_Using_Strace_to_Trace_Problems)
+  * [ ServerWatch/Joe Brockmeier: Using Strace to Trace Problems](http://news.opensuse.org/?p=5375#ServerWatch.2FJoe_Brockmeier:_Using_Strace_to_Trace_Problems)
 
 
-  * [ h-online: KDevelop 4.1 adds Git support](https://news.opensuse.org/?p=5375#h-online:_KDevelop_4.1_adds_Git_support)
+  * [ h-online: KDevelop 4.1 adds Git support](http://news.opensuse.org/?p=5375#h-online:_KDevelop_4.1_adds_Git_support)
 
 
 
@@ -74,46 +77,46 @@ We are pleased to announce the new Issue 147.
 
 
 
-  * [ Announcements](https://news.opensuse.org/?p=5375#Announcements)
+  * [ Announcements](http://news.opensuse.org/?p=5375#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/?p=5375#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/?p=5375#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/?p=5375#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/?p=5375#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/?p=5375#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/?p=5375#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/?p=5375#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/?p=5375#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/?p=5375#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/?p=5375#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/?p=5375#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/?p=5375#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/?p=5375#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/?p=5375#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/?p=5375#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/?p=5375#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/?p=5375#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/?p=5375#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/?p=5375#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/?p=5375#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/?p=5375#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/?p=5375#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/?p=5375#Credits)
+  * [ Credits](http://news.opensuse.org/?p=5375#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/?p=5375#Translations)
+  * [ Translations](http://news.opensuse.org/?p=5375#Translations)
 
 
 
@@ -330,12 +333,12 @@ We are pleased to announce the new Issue 147.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Thanks for your participation at the openSUSE Conference](https://news.opensuse.org/2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/)
+####  [Thanks for your participation at the openSUSE Conference](http://news.opensuse.org/2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/)
 
 
 
 
-"A lot of people have been involved with the openSUSE Conference and I™ve heard a lot of people saying thanks for a great conference. This is supported by 290 attendees visiting our conference, listened to a number of talks, enjoyed a high quality program and even more important met people face to face and had a lot of fun. The conference as it took place last week wouldn™t have been possible without our community participating, sending in good talks and a number of folks preparing everything. Of the latter ones let me point out some:  
+"A lot of people have been involved with the openSUSE Conference and Iâ€™ve heard a lot of people saying thanks for a great conference. This is supported by 290 attendees visiting our conference, listened to a number of talks, enjoyed a high quality program and even more important met people face to face and had a lot of fun. The conference as it took place last week wouldnâ€™t have been possible without our community participating, sending in good talks and a number of folks preparing everything. Of the latter ones let me point out some:  
 
   
 
@@ -344,22 +347,22 @@ We are pleased to announce the new Issue 147.
 
 
 
-####  [From the Developer to the User and back “ Announcing Project Bretzn](https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/)
+####  [From the Developer to the User and back â€“ Announcing Project Bretzn](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/)
 
 
 
 
-"At the openSUSE conference Frank Karlitschek, KDE e.V. board member and well known for his projects like GetHotNewStuff, opendesktop.org, socialdesktop.org announced a new project during his keynote. The title: From the Developer to the User and Back; or Project Bretzn. A Bretzn is a kind of pretzel in Germany and what the name means in practice became only clear at the end of the keynote¦ (...)" 
+"At the openSUSE conference Frank Karlitschek, KDE e.V. board member and well known for his projects like GetHotNewStuff, opendesktop.org, socialdesktop.org announced a new project during his keynote. The title: â€œFrom the Developer to the User and Back; or Project Bretznâ€. A Bretzn is a kind of pretzel in Germany and what the name means in practice became only clear at the end of the keynoteâ€¦ (...)" 
 
 
 
 
-####  [openSUSE Conference big success](https://news.opensuse.org/2010/10/28/opensuse-conference-big-success/)
+####  [openSUSE Conference big success](http://news.opensuse.org/2010/10/28/opensuse-conference-big-success/)
 
 
 
 
-"**Collaboration Across Borders** “ Under this moto the openSUSE Community received in Nuremberg several hundreds of Free Software enthusiasts and contributors. Giving a strong statement to it™s moto, the openSUSE Conference received ambassadors from the Fedora Project and Debian Project as well as people from Mandriva/Mageia, Slackware, Skolelinux and many other distributions. Moreover, many downstream projects presented their work, seeking cooperation with the openSUSE community. (...)" 
+"**â€œCollaboration Across Bordersâ€** â€“ Under this moto the openSUSE Community received in Nuremberg several hundreds of Free Software enthusiasts and contributors. Giving a strong statement to itâ€™s moto, the openSUSE Conference received ambassadors from the Fedora Project and Debian Project as well as people from Mandriva/Mageia, Slackware, Skolelinux and many other distributions. Moreover, many downstream projects presented their work, seeking cooperation with the openSUSE community. (...)" 
 
 
 
@@ -562,7 +565,7 @@ Build Team Meeting Minutes.
 
 
 
-"Beside many other amazing things which happened at the openSUSE Conference 2010, Stefan Schäfer gave a talk about his project called Invis Server. It is a very specific server solution for the small and medium business, based on the openSUSE distribution. The Invis Server is perfect software for all production installations in small business use cases, also to be maintained by consultants in that space.  
+"Beside many other amazing things which happened at the openSUSE Conference 2010, Stefan SchÃ¤fer gave a talk about his project called Invis Server. It is a very specific server solution for the small and medium business, based on the openSUSE distribution. The Invis Server is perfect software for all production installations in small business use cases, also to be maintained by consultants in that space.  
 
   
 
@@ -814,7 +817,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -897,16 +900,16 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Jos Poortvliet: openSUSE Conference 2010 Impression](https://news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/)
+####  [Jos Poortvliet: openSUSE Conference 2010 Impression](http://news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/)
 
 
 
 
-"For those who couldn™t make it to the actual event, here is a little impression of the openSUSE conference. Of course, the many blogs on planet openSUSE and the cool special conference section in the latest openSUSE Weekly News have already given most of you a taste.  
+"For those who couldnâ€™t make it to the actual event, here is a little impression of the openSUSE conference. Of course, the many blogs on planet openSUSE and the cool special conference section in the latest openSUSE Weekly News have already given most of you a taste.  
 
   
 
- However, there™s always more to be had and videos are a great way to share the atmosphere of a conference. So without further ado, here is a short video showing the hard work by Cornelius Schumacher and Vincent Untz being criticized by Sirko gnokii Kemter, Andrew Wafaa and your humble writer; and some walking around at the conference during the break. (...)" 
+ However, thereâ€™s always more to be had and videos are a great way to share the atmosphere of a conference. So without further ado, here is a short video showing the hard work by Cornelius Schumacher and Vincent Untz being criticized by Sirko â€œgnokiiâ€ Kemter, Andrew Wafaa and your humble writer; and some walking around at the conference during the break. (...)" 
 
 
 
@@ -953,20 +956,20 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Nelson Marques: openSUSE Conference “ Aftermath](http://nmarques.digitalwhores.net/2010/10/27/opensuse-conference-aftermath/)
+####  [Nelson Marques: openSUSE Conference â€“ Aftermath](http://nmarques.digitalwhores.net/2010/10/27/opensuse-conference-aftermath/)
 
 
 
 
-"I arrived to Nuremberg on thursday evening. The first person I™ve identified after arriving into the Hotel was Sirko, commonly referred as ˜gnokii™. Luckily I™ve managed to get the last ride to Lizards Lounge. Stupid me¦ I didn™t knew that the Lizard™s Lounge was a bar, neither that openSUSE had it own beer¦ and it tasted cool, even for a Portuguese who doesn™t consume beer besides Kasteel.  
-
-  
-
- On the Lizard™s Lounge, it was awesome, even without knowing anyone, people were friendly and this was also where I got my very own first shock! The problem for me that day was that I had left Portugal very early and arrived in Germany very late¦ I was without sleeping for that night and very tired¦ eventually ended up by going back to the Hotel. Sirko™s directions were awesome and I™ve made my back safe.  
+"I arrived to Nuremberg on thursday evening. The first person Iâ€™ve identified after arriving into the Hotel was Sirko, commonly referred as â€˜gnokiiâ€™. Luckily Iâ€™ve managed to get the last ride to Lizards Lounge. Stupid meâ€¦ I didnâ€™t knew that the Lizardâ€™s Lounge was a bar, neither that openSUSE had it own beerâ€¦ and it tasted cool, even for a Portuguese who doesnâ€™t consume beer besides Kasteel.  
 
   
 
- Friday was awesome! I™ve met Nuno Pinheiro from oxygen, a fellow Portuguese and made much more friendships. I also found out I was considered a ˜controversial™ person¦ Well¦ now that some of you know me and have contacted with me, maybe I™m not such a monster¦ anyway, I™m still very vertical and sometimes pop a conflictive speech. I apologize, it™s a language thing¦ being thinking in Portuguese and translating on real time, it™s sometimes a pain, specially with native english speakers. (...)" 
+ On the Lizardâ€™s Lounge, it was awesome, even without knowing anyone, people were friendly and this was also where I got my very own first shock! The problem for me that day was that I had left Portugal very early and arrived in Germany very lateâ€¦ I was without sleeping for that night and very tiredâ€¦ eventually ended up by going back to the Hotel. Sirkoâ€™s directions were awesome and Iâ€™ve made my back safe.  
+
+  
+
+ Friday was awesome! Iâ€™ve met Nuno Pinheiro from oxygen, a fellow Portuguese and made much more friendships. I also found out I was considered a â€˜controversialâ€™ personâ€¦ Wellâ€¦ now that some of you know me and have contacted with me, maybe Iâ€™m not such a monsterâ€¦ anyway, Iâ€™m still very vertical and sometimes pop a conflictive speech. I apologize, itâ€™s a language thingâ€¦ being thinking in Portuguese and translating on real time, itâ€™s sometimes a pain, specially with native english speakers. (...)" 
 
 
 
@@ -1023,7 +1026,7 @@ Past:
 
 
 
-  * [**October 27, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**October 27, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
 
@@ -1044,7 +1047,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1266,7 +1269,7 @@ DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
 
 
 </td>
@@ -1585,7 +1588,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-"Sometimes alphanumeric text simply won™t cut it, and you need a bar code ” mailing labels, security badges, inventory tracking, perhaps even URL-encoding for mobile phones. With KBarcode, you can use a simple desktop application to both generate and print several dozen different barcode types, on any sort of physical media. (...)" 
+"Sometimes alphanumeric text simply wonâ€™t cut it, and you need a bar code â€” mailing labels, security badges, inventory tracking, perhaps even URL-encoding for mobile phones. With KBarcode, you can use a simple desktop application to both generate and print several dozen different barcode types, on any sort of physical media. (...)" 
 
 
 
@@ -1617,11 +1620,11 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-"In a previous article we saw how to install and configure zsh, today we™ll see in detail the options offered by the zsh for globbing or how the shell use some special characters to auto-complete our commands.  
+"In a previous article we saw how to install and configure zsh, today weâ€™ll see in detail the options offered by the zsh for globbing or how the shell use some special characters to auto-complete our commands.  
 
   
 
- Please note: most command you™ll see here could be accomplished with particular switch of the command, for example ls with -r do a recursive search, but the goal of this article is to just use the shell, so our goal will be to accomplish the same result but just with the power of zsh globbing. (...)"   
+ Please note: most command youâ€™ll see here could be accomplished with particular switch of the command, for example ls with -r do a recursive search, but the goal of this article is to just use the shell, so our goal will be to accomplish the same result but just with the power of zsh globbing. (...)"   
 
 
 
@@ -1638,7 +1641,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-"Ruby is a one of the most popular languages used on the web. We™ve recently started a new screencast series here on Nettuts+ that will introduce you to Ruby, as well as the great frameworks and tools that go along with Ruby development. Today, we™ll look at the basic Ruby datatypes, as well as using variables and storing your Ruby code in files. (...)"   
+"Ruby is a one of the most popular languages used on the web. Weâ€™ve recently started a new screencast series here on Nettuts+ that will introduce you to Ruby, as well as the great frameworks and tools that go along with Ruby development. Today, weâ€™ll look at the basic Ruby datatypes, as well as using variables and storing your Ruby code in files. (...)"   
 
 
 
@@ -1748,7 +1751,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-"Finally, after about a year of development (with longer pauses, a newborn daughter and many other things ¦), a complete rewrite, and several major design changes, the development team celebrates the release of SMB Traffic Analyzer 1.0. We think the project has now matured enough to come up with a first version, and to be used as a base for our future work. (...)" 
+"Finally, after about a year of development (with longer pauses, a newborn daughter and many other things â€¦), a complete rewrite, and several major design changes, the development team celebrates the release of SMB Traffic Analyzer 1.0. We think the project has now matured enough to come up with a first version, and to be used as a base for our future work. (...)" 
 
 
 
@@ -1937,7 +1940,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
   
 
- KDevelop 4.1 can now publish changes using email, pastebin or ReviewBoard and features the addition of native support for the Git distributed version control system “ version 4.0 already included SVN and CVS integration. The current release also includes various new plug-ins that allow users to, for example, run arbitrary shell commands or external tools directly from inside the IDE via the external scripts plug-in. Other changes include support for PHP 5.3, Hex Editor updates and a function that allows users to import remote projects and start working on them directly. (...)" 
+ KDevelop 4.1 can now publish changes using email, pastebin or ReviewBoard and features the addition of native support for the Git distributed version control system â€“ version 4.0 already included SVN and CVS integration. The current release also includes various new plug-ins that allow users to, for example, run arbitrary shell commands or external tools directly from inside the IDE via the external scripts plug-in. Other changes include support for PHP 5.3, Hex Editor updates and a function that allows users to import remote projects and start working on them directly. (...)" 
 
 
 
@@ -1998,7 +2001,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?p=3449) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=3449) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -2007,7 +2010,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -2052,7 +2055,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -2061,7 +2064,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -2127,7 +2130,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/147)
 
 
-  * [æ—¥æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/147)
+  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/147)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/147)
@@ -2166,4 +2169,3 @@ Delayed / to be translated:
 </table>
   
 
-		

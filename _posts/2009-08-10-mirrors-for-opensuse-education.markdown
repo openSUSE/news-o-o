@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2009-08-10 17:21:39+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/10/mirrors-for-opensuse-education/
-title: "Mirrors for openSUSE-Education"
+slug: mirrors-for-opensuse-education
+title: Mirrors for openSUSE-Education
+wordpress_id: 1953
 categories:
 - Edu Li-f-e
 - Infrastructure
@@ -12,7 +14,6 @@ tags:
 - Education
 - mirrorbrain
 ---
-
 
 I'm proud to announce that the download area of [http://www.opensuse-education.org/](http://www.opensuse-education.org/) is sponsored now by 6 (!) mirrors. A big "thank you" to each of them:
 
@@ -47,6 +48,3 @@ Like openSUSE, the openSUSE-Education team use a great software named [MirrorBra
 
 
 Result: even if our [current hoster](http://www.hetzner.de/) still [limits the bandwith](http://lizards.opensuse.org/2009/03/01/low-bandwith-for-opensuse-education/) of our main server, our users get their software faster than ever.
-
-
-		

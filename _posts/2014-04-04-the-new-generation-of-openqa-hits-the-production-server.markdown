@@ -1,15 +1,16 @@
 ---
 author: Ancor Gonzalez Sosa
+comments: true
 date: 2014-04-04 13:30:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/04/04/the-new-generation-of-openqa-hits-the-production-server/
-title: "The new generation of openQA hits the production server"
+slug: the-new-generation-of-openqa-hits-the-production-server
+title: The new generation of openQA hits the production server
+wordpress_id: 17803
 categories:
 - Announcements
 - Infrastructure
 ---
-
 
 Bad news for the bugs: the new version of openQA is ready for prime time. Everybody following the [blog of the openSUSE Team @ SUSE](http://lizards.opensuse.org/author/calumma/) or the Factory mailing list during the last months, should be aware of the ongoing work to improve openQA and to promote it into a key component of the openSUSE integration process. Finally the new openQA is ready for public production environments, so thanks to the collaboration between the openSUSE Team and the original developers of openQA -[Bernhard M. Wiedemann](http://lizards.opensuse.org/author/bmwiedemann/) and [Dominik Heidler](http://www.heidler.eu/)- it's finally deployed and accessible at [openqa.opensuse.org](https://openqa.opensuse.org/)
 
@@ -27,7 +28,7 @@ This enhanced control of the execution and the results, alongside other improvem
 
 
 
-[![Fuzzy matching in action: ignoring the floppy icon]({{ site.baseurl }}/assets/openqa-fuzzy-floppy-300x224.png)]({{ site.baseurl }}/assets/openqa-fuzzy-floppy.png)
+[![Fuzzy matching in action: ignoring the floppy icon](/wp-content/uploads/2014/04/openqa-fuzzy-floppy.png)](/wp-content/uploads/2014/04/openqa-fuzzy-floppy.png)
 
 
 
@@ -43,6 +44,4 @@ There are even more changes, not directed towards users, but improvements in the
 
 
 
-So go ahead, play with it and if you want to help, sources are on github and we even have some [easy hacks in progress.o.o](https://progress.opensuse.org/projects/openqav3/issues?utf8=â“&set_filter=1&f[]=status_id&op[status_id]=o&f[]=fixed_version_id&op[fixed_version_id]=%3D&v[fixed_version_id][]=73) to ease you into the development ;-)
-
-		
+So go ahead, play with it and if you want to help, sources are on github and we even have some [easy hacks in progress.o.o](https://progress.opensuse.org/projects/openqav3/issues?utf8=âœ“&set_filter=1&f[]=status_id&op[status_id]=o&f[]=fixed_version_id&op[fixed_version_id]=%3D&v[fixed_version_id][]=73) to ease you into the development ;-)

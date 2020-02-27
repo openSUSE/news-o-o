@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-08-07 14:09:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/08/07/report-from-the-yast-workshop/
-title: "Report from the YaST Workshop"
+slug: report-from-the-yast-workshop
+title: Report from the YaST Workshop
+wordpress_id: 971
 categories:
 - Events
 tags:
@@ -12,8 +14,7 @@ tags:
 - yast
 ---
 
-
-The YaST teams met in Nürnberg recently in the SUSE offices to work on [several projects](http://en.opensuse.org/YaST/Events/Workshop_Nuremberg_2008).
+The YaST teams met in NÃ¼rnberg recently in the SUSE offices to work on [several projects](http://en.opensuse.org/YaST/Events/Workshop_Nuremberg_2008).
 
 
 
@@ -150,5 +151,3 @@ So the YaST teams wanted to try if it would be possible to write a YaST module w
 
 
 The workshop is over, but there's still plenty to do with YaST. If you're interested in [contributing to YaST](http://en.opensuse.org/YaST_Development) or learning more about how to write YaST modules, see the [tutorial](http://en.opensuse.org/YaST/Tutorials/Simple_YaST_Module) on the wiki, and join the YaST team on IRC on irc.opensuse.org in the #yast channel and [subscribe](mailto:yast-devel+subscribe@opensuse.org) to yast-devel on the openSUSE mailing lists.
-
-		

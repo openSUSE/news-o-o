@@ -1,13 +1,16 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2014-08-13 11:51:59+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/08/13/need-a-wallpaper-changer-for-gnome-try-variety/
-title: "Need a Wallpaper Changer for GNOME? Try Variety!"
+slug: need-a-wallpaper-changer-for-gnome-try-variety
+title: Need a Wallpaper Changer for GNOME? Try Variety!
+wordpress_id: 18436
 categories:
 - Distribution
 ---
+
 openSUSE, despite the vastness of the www stating it's primarily a KDE distro, prides itself in offering a one stop shop for your operating system needs, regardless of your desktop environment preferences. And it's true. For a couple of months, I've been running openSUSE GNOME exclusively on my laptop. And it worked like a charm. But there was one problem.
 
 <!-- more -->
@@ -36,5 +39,3 @@ Do you have any experience with Variety or would maybe like to suggest a wallpap
 
 
 ##### ...have a lot of fun!
-
-		

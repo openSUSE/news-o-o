@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2011-03-22 20:40:14+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/03/22/opensuse-accepted-for-google-summer-of-code/
-title: "openSUSE accepted for Google Summer of Code!"
+slug: opensuse-accepted-for-google-summer-of-code
+title: openSUSE accepted for Google Summer of Code!
+wordpress_id: 7909
 categories:
 - Google Summer of Code
 ---
-(https://news.opensuse.org/2011/03/22/opensuse-accepted-for-google-summer-of-code/2725050242_ed79fa51cd_m/)
+
+[caption id="attachment_7935" align="alignright" width="240" caption="This could be a very special summer for you!"][![Yellow flowers](/wp-content/uploads/2011/03/2725050242_ed79fa51cd_m.jpg)](http://news.opensuse.org/2011/03/22/opensuse-accepted-for-google-summer-of-code/2725050242_ed79fa51cd_m/)[/caption]
 
 openSUSE has cleared the first hurdle towards a series of successful Google Summer of Code projects! As was [disclosed last Saturday by OMGSUSE](http://omgsuse.com/content/opensuse-be-part-google-summer-code-2011): Google has accepted our proposal and we are now [a mentoring organization](http://www.google-melange.com/gsoc/org/show/google/gsoc2011/opensuse). This means that if you're interested in working a whole summer FULLTIME on openSUSE and getting paid for it, this is your chance! 
 
@@ -51,4 +54,4 @@ Of course you will now have to _help your potential student(s) to finish a good 
 ## Time to get started
 
 
-So, gear up, friends. It is time for a Summer of writing great Code for openSUSE. Talk to each other, ask questions, don't be shy - and remember, there are no stupid questions, only stupid answers! If you are unsure if you are able to do do it, please come talk to us in the [#opensuse-project](irc://irc.freenode.net/opensuse-project) channel on the [Freenode servers](http://freenode.net/). Everyone has to start somewhere,  and if it turns out you're not experienced enough yet or we don't have a slot for you there is no problem. We can still mentor you, help you out with setting up your development tools, answer your coding or packaging questions and teach you the ropes of working in a Free Software community. So you can't lose - either way, you can be involved in openSUSE, learn valuable skills and have some fun!		
+So, gear up, friends. It is time for a Summer of writing great Code for openSUSE. Talk to each other, ask questions, don't be shy - and remember, there are no stupid questions, only stupid answers! If you are unsure if you are able to do do it, please come talk to us in the [#opensuse-project](irc://irc.freenode.net/opensuse-project) channel on the [Freenode servers](http://freenode.net/). Everyone has to start somewhere,  and if it turns out you're not experienced enough yet or we don't have a slot for you there is no problem. We can still mentor you, help you out with setting up your development tools, answer your coding or packaging questions and teach you the ropes of working in a Free Software community. So you can't lose - either way, you can be involved in openSUSE, learn valuable skills and have some fun!

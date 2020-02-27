@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-03-13 06:36:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/03/13/gnu-health-opensuse-pioneer-shift-in-healthcare-management/
-title: "GNU Health, openSUSE Pioneer Shift in Healthcare Management"
+slug: gnu-health-opensuse-pioneer-shift-in-healthcare-management
+title: GNU Health, openSUSE Pioneer Shift in Healthcare Management
+wordpress_id: 20363
 categories:
 - Announcements
 - Leap
@@ -27,6 +29,7 @@ tags:
 - SSL
 - Tumbleweed
 ---
+
 The [GNU Health Project](http://health.gnu.org/) is one of many noble open-source projects and the [openSUSE Project](https://www.opensuse.org/) is pleased to announce it has donated 10 [Raspberry Pis](https://www.raspberrypi.org/) to help expand the use and development of the project on affordable [ARM](https://www.arm.com/) hardware.
 
 GNU Health, which is a non-profit, [non-government organizations](https://en.wikipedia.org/wiki/Non-governmental_organization) (NGO), delivers free open-source software for health practitioners, health institutions and governments worldwide.
@@ -77,4 +80,4 @@ Attendees of the [Southern California Linux Expose](https://www.socallinuxexpo.o
 
 “Having Raspberry Pi as a member of the GNU Health team, and counting the continued support from the openSUSE community, the advocates of Freedom, Social Medicine and Public Health have a lot of reasons to celebrate; and have a lot of fun too!” Falcón said.
 
-Users of openSUSE can install GNU Health at [software.opensuse.org](https://software.opensuse.org/).		
+Users of openSUSE can install GNU Health at [software.opensuse.org](https://software.opensuse.org/).

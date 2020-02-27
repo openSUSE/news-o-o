@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-07-07 09:50:38+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/07/07/opensuse-asia-summit-2017-tokyo-call-for-proposals-is-open/
-title: "openSUSE.Asia Summit 2017 Tokyo: Call for proposals is open"
+slug: opensuse-asia-summit-2017-tokyo-call-for-proposals-is-open
+title: 'openSUSE.Asia Summit 2017 Tokyo: Call for proposals is open'
+wordpress_id: 20465
 categories:
 - Conference
 - Events
@@ -17,9 +19,10 @@ tags:
 - Tokyo
 - TSP
 ---
- 
 
-![]({{ site.baseurl }}/assets/P6242267_R-1024x341.jpg)
+
+
+![](/wp-content/uploads/2017/06/P6242267_R.jpg)
 
 openSUSE.Asia Committee calls for proposals of talks for openSUSE.Asia Summit 2017 held at the University of Electro-Communications on October 21 and 22.
 
@@ -252,5 +255,3 @@ English: http://events.linuxfoundation.org/events/open-source-summit-japan/progr
 
 
 # 
-
-		

@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-14 05:53:09+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/14/opensuse-at-linuxfest-northwest/
-title: "openSUSE at LinuxFest Northwest"
+slug: opensuse-at-linuxfest-northwest
+title: openSUSE at LinuxFest Northwest
+wordpress_id: 1518
 categories:
 - Events
 ---
-![totemcomplete72ppi192x288]({{ site.baseurl }}/assets/totemcomplete72ppi192x288.png)
+
+![totemcomplete72ppi192x288](/wp-content/uploads/2009/04/totemcomplete72ppi192x288.png)
 
 Join the openSUSE Project as we celebrate the 10th anniversary of LinuxFest Northwest! The openSUSE Project will be exhibiting at [LinuxFest Northwest](http://linuxfestnorthwest.org/) on April 25th and 26th.
 
@@ -22,4 +25,4 @@ Need a ride to Bellingham from Seattle or nearby? The LFNW site has a [wiki page
 ## Booth help for LFNW
 
 
-Want to help out with the openSUSE booth at LFNW? [Drop me an email](mailto:zonker@opensuse.org) and your shirt size, and we'll get you hooked up with an openSUSE shirt and booth schedule.		
+Want to help out with the openSUSE booth at LFNW? [Drop me an email](mailto:zonker@opensuse.org) and your shirt size, and we'll get you hooked up with an openSUSE shirt and booth schedule.

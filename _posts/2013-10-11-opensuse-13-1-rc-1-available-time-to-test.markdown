@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-10-11 12:00:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/10/11/opensuse-13-1-rc-1-available-time-to-test/
-title: "openSUSE 13.1 RC 1 Available: Time to Test!"
+slug: opensuse-13-1-rc-1-available-time-to-test
+title: 'openSUSE 13.1 RC 1 Available: Time to Test!'
+wordpress_id: 16780
 categories:
 - Announcements
 ---
-![RC1 is here_black]({{ site.baseurl }}/assets/RC1-is-here_black.png)
+
+![RC1 is here_black](//news.opensuse.org/wp-content/uploads/2013/10/RC1-is-here_black.png)
 
 
 <blockquote>It was a dark night, wind howling through the forest... Somewhere far away, a fire was burning and the smell ...
@@ -194,7 +197,7 @@ We'd like to thank all the hardworking Geekos for their contributions to this re
 <td align="RIGHT" height="17" >**8**
 </td>
 
-<td align="LEFT" >Matthias Mailänder
+<td align="LEFT" >Matthias MailÃ¤nder
 </td>
 </tr>
 <tr >
@@ -214,4 +217,4 @@ We'd like to thank all the hardworking Geekos for their contributions to this re
 </td>
 </tr>
 </tbody>
-</table>		
+</table>

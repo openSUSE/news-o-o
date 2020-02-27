@@ -1,18 +1,21 @@
 ---
-author: Christian Bruckmayer
+author: cbruckmayer
+comments: true
 date: 2014-08-14 16:00:58+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/08/14/gsoc-what-i-have-learned/
-title: "GSoC: What I have learned"
+slug: gsoc-what-i-have-learned
+title: 'GSoC: What I have learned'
+wordpress_id: 18442
 categories:
 - Google Summer of Code
 ---
+
 _In the past 4 months during this years Google Summer of Code (GSoC), a global program that offers student developers stipends to write code for open source software projects, Christian Bruckmayer collaborated with other students and mentors to code a dashboard for the Open Source Event Manager (OSEM). In this series of posts Christian will tell you about his project and what he has learned from this experience._
 
-![Google Summer of Code 2014 Logo]({{ site.baseurl }}/assets/GoogleSummer_2014logo-300x270.jpg)
+![Google Summer of Code 2014 Logo](/wp-content/uploads/2014/07/GoogleSummer_2014logo.jpg)
 
-![Christian Bruckmayer]({{ site.baseurl }}/assets/3799140-150x150.jpeg)Hey there, Christian here again. This is my last post in a series about my GSoC project. I have already explained the two big features I have implemented: [The dashboard](https://news.opensuse.org/2014/07/30/gsoc-open-source-event-manager-organizer-dashboard/) and [Conference Goals & Campaigns](https://news.opensuse.org/2014/08/06/gsoc-osem-goals-campaigns/). I hope you enjoyed those articles, if you haven’t read them I recommend you head over and do so. Today I would like to tell you about the most important part of GSoC for me personally: What I have learned during this summer!
+![Christian Bruckmayer](/wp-content/uploads/2014/07/3799140.jpeg)Hey there, Christian here again. This is my last post in a series about my GSoC project. I have already explained the two big features I have implemented: [The dashboard](https://news.opensuse.org/2014/07/30/gsoc-open-source-event-manager-organizer-dashboard/) and [Conference Goals & Campaigns](https://news.opensuse.org/2014/08/06/gsoc-osem-goals-campaigns/). I hope you enjoyed those articles, if you haven’t read them I recommend you head over and do so. Today I would like to tell you about the most important part of GSoC for me personally: What I have learned during this summer!
 
 <!-- more -->
 
@@ -21,7 +24,7 @@ _In the past 4 months during this years Google Summer of Code (GSoC), a global p
 ## The Open Source Way
 
 
-![Open]({{ site.baseurl }}/assets/6555466069_3246e8b54e_b.jpg) Retrospective I can really say that I gained much experience, both technically and personally, during GSoC. Working together, the open source way, was a great experience. It goes like this: I discuss a feature with the OSEM team in GitHub issues, then I start to implement the feature and send a Pull Request to our Repository. The mentors then review my code and tell me their suggestions to improve it. After I have worked in the suggestions the progress starts again.
+![Open](/wp-content/uploads/2014/08/6555466069_3246e8b54e_b.jpg) Retrospective I can really say that I gained much experience, both technically and personally, during GSoC. Working together, the open source way, was a great experience. It goes like this: I discuss a feature with the OSEM team in GitHub issues, then I start to implement the feature and send a Pull Request to our Repository. The mentors then review my code and tell me their suggestions to improve it. After I have worked in the suggestions the progress starts again.
 
 This feedback helped me a lot. We discussed code smells, bad design decisions or a wrong assumptions, right there, next to the code on github. And as four eyes see more than two, this process assured that only good code get’s into repository!
 
@@ -47,7 +50,7 @@ I already used Git and other version control systems before, but I have to admit
 ## Ruby and Rails
 
 
-![Rails]({{ site.baseurl }}/assets/256799697_ccadbd1eee_m.jpg) Additionally I learned a lot about Ruby and especially about the Ruby on Rails Web Framework. At university and other student jobs I already learned Django (Python) and JEE (Java). I think GSoC is a great opportunity to learn new programming languages and frameworks. In the end you are able to compare and evaluate advantages and disadvantages and choose the right one for the job. Finally I can say that I really like the Rails way because it’s very elegant, readable and also concise. With Rails you are able to see good results very quickly. For example the scaffolding feature is really awesome for rapid prototyping and for trying different ideas. Moreover, the convention over configuration paradigm enforces you to follow various best practices. If you don't follow these it starts to get confusing quickly and that's a sign that you maybe doing something wrong ;-)
+![Rails](/wp-content/uploads/2014/08/256799697_ccadbd1eee_m.jpg) Additionally I learned a lot about Ruby and especially about the Ruby on Rails Web Framework. At university and other student jobs I already learned Django (Python) and JEE (Java). I think GSoC is a great opportunity to learn new programming languages and frameworks. In the end you are able to compare and evaluate advantages and disadvantages and choose the right one for the job. Finally I can say that I really like the Rails way because it’s very elegant, readable and also concise. With Rails you are able to see good results very quickly. For example the scaffolding feature is really awesome for rapid prototyping and for trying different ideas. Moreover, the convention over configuration paradigm enforces you to follow various best practices. If you don't follow these it starts to get confusing quickly and that's a sign that you maybe doing something wrong ;-)
 
 
 
@@ -75,4 +78,4 @@ That was my last post in this three post series about my Summer of Code 2014, I 
 	
   * [GSoC: What I have learned](https://news.opensuse.org/2014/08/14/gsoc-what-i-have-learned/)
 
-		
+

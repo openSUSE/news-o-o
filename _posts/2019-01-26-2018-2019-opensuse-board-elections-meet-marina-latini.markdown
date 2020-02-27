@@ -1,9 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-01-26 22:57:35+00:00
 layout: post
 link: https://news.opensuse.org/2019/01/26/2018-2019-opensuse-board-elections-meet-marina-latini/
-title: "2018-2019 openSUSE Board Elections: Meet Marina Latini"
+slug: 2018-2019-opensuse-board-elections-meet-marina-latini
+title: '2018-2019 openSUSE Board Elections: Meet Marina Latini'
+wordpress_id: 21648
 categories:
 - Announcements
 - Board
@@ -18,7 +21,6 @@ tags:
 - Election
 - openSUSE Board Elections
 ---
-
 
 ### Seven Candidates in Race for Three Vacant Board Seats
 
@@ -51,7 +53,7 @@ _**The Candidates were asked to give some biographical personal information, suc
 
 Hello, I’m Marina, and I was born in Italy, in a sunny July about 35 years ago. When I was a kid, I was always curious to discover how things are made, and my sister was always the victim of my curiosity. I broke a countless number of toys due to my need to know! Apart from some justified issues with her, this passion guided me to study computer science, and, in the same period, I finally discovered the FLOSS world.
 
-({{ site.baseurl }}/assets/LatiniM.png) **Marina Latini aka deneb_alpha**
+[caption id="attachment_21462" align="alignright" width="300"][![](/wp-content/uploads/2019/01/LatiniM.png)](/wp-content/uploads/2019/01/LatiniM.png) **Marina Latini aka deneb_alpha**[/caption]
 
 Everything started around 2006 when a group of colleagues introduced me to Slackware, which shares a common history with what is nowadays [openSUSE](https://www.opensuse.org/). That distro and that group of friends were the best way to learn a lot about GNU/Linux, how to properly recompile a kernel and the importance of knowledge sharing.
 
@@ -79,7 +81,7 @@ The [openSUSE Board](https://en.opensuse.org/openSUSE:Board) guides the Project 
 
 I strongly believe that, for having a really healthy Community, we need to start to search where are our users. Social channels are used also by new users who can become new [Contributors](https://en.opensuse.org/Portal:How_to_participate). As I like to say with friends from other communities, we can have the best software or operating system in the world, but users need to find proper [Documentation](https://en.opensuse.org/Portal:Documentation) and get in touch with the local communities.
 
-({{ site.baseurl }}/assets/poster-election.png) **2018-2019 Election Poster contributed by Aris Winardi**
+[caption id="attachment_21386" align="alignleft" width="368"][![2018-2019 Election Poster contributed by Aris Winardi](/wp-content/uploads/2018/12/poster-election.png)](/wp-content/uploads/2018/12/poster-election.png) **2018-2019 Election Poster contributed by Aris Winardi**[/caption]
 
 One more crucial topic for growing the number of Contributors is closing the gap and improving the [Communication](https://en.opensuse.org/openSUSE:Communication_channels) between the main Project and the local community. We respect each other, we invest our spare time as volunteers, and need to connect what is considered a local group of Contributors or users, and the others who are part of the international community.
 
@@ -123,4 +125,4 @@ I’m also a music addict: When I’m not listening to the amazing, soul comfort
 ### Contact information
 
 
-I’m always happy to talk – write me at **deneb_alpha **AT** opensuse.org**, ping me on Telegram at **@deneb_alpha** or contact me on Freenode at **deneb_alpha**		
+I’m always happy to talk – write me at **deneb_alpha **AT** opensuse.org**, ping me on Telegram at **@deneb_alpha** or contact me on Freenode at **deneb_alpha**

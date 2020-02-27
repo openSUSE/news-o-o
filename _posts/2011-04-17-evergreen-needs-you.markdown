@@ -1,17 +1,18 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-04-17 07:29:25+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/17/evergreen-needs-you/
-title: "Evergreen needs you!"
+slug: evergreen-needs-you
+title: Evergreen needs you!
+wordpress_id: 8458
 categories:
 - Distribution
 - Project
 ---
 
-
-[![Collaboration_picture]({{ site.baseurl }}/assets/collabration-300x234.jpg)](https://news.opensuse.org/2011/04/17/evergreen-needs-you/collabration/)
+[![Collaboration_picture](/wp-content/uploads/2011/04/collabration.jpg)](http://news.opensuse.org/2011/04/17/evergreen-needs-you/collabration/)
 
 
 
@@ -64,5 +65,3 @@ See what Wolfgang Rosenauer, lead developer of Evergreen is saying about this:
 > 
 > 
 </blockquote>
-
-		

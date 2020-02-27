@@ -1,15 +1,16 @@
 ---
 author: Kostas Koudaras
+comments: true
 date: 2014-10-09 09:23:19+00:00
-
 layout: post
 link: https://news.opensuse.org/2014/10/09/opensuse-13-2-rc1-is-now-out-hands-on/
-title: "openSUSE 13.2 RC1 is now out, hands on"
+slug: opensuse-13-2-rc1-is-now-out-hands-on
+title: openSUSE 13.2 RC1 is now out, hands on
+wordpress_id: 18592
 categories:
 - Announcements
 - Distribution
 ---
-
 
 
 
@@ -29,5 +30,3 @@ With less than a month from the release of 13.2 the only thing that last to be s
 
 
 ## Hands on Geekos
-
-		

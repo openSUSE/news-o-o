@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-03-24 08:12:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/03/24/hackweek-is-back-with-black-on-black/
-title: "Hackweek is back with Black-on-Black"
+slug: hackweek-is-back-with-black-on-black
+title: Hackweek is back with Black-on-Black
+wordpress_id: 19127
 categories:
 - Events
 - Hack Week
 ---
-G[![t-shirt-motiv]({{ site.baseurl }}/assets/t-shirt-motiv-300x300.png)]({{ site.baseurl }}/assets/t-shirt-motiv.png)et ready for a good time in April and a flashback to old times. openSUSE will have Hackweek April 13 - 17 and everyone is welcome to participate.
+
+G[![t-shirt-motiv](/wp-content/uploads/2015/03/t-shirt-motiv.png)](/wp-content/uploads/2015/03/t-shirt-motiv.png)et ready for a good time in April and a flashback to old times. openSUSE will have Hackweek April 13 - 17 and everyone is welcome to participate.
 
 All participant will receive the “” openSUSE Hackweek T-Shirt. All participants can sign up on [http://hackweek.suse.com](http://hackweek.suse.com) to participate in openSUSE’s Hackweek.
 
@@ -19,4 +22,4 @@ To use hackerspace during Hackweek, contact the following people based on locati
 
 Join a team working on a project during Hackweek or create your own new project at [https://hackweek.suse.com/projects/new](https://hackweek.suse.com/projects/new).
 
-To help promote your project and the event, use hashtag #hackit when tweeting about your project. Media are welcome to attend the event; openSUSE encourages people participating in Hackweek to blog about it and to contact local media to provide coverage on the event.		
+To help promote your project and the event, use hashtag #hackit when tweeting about your project. Media are welcome to attend the event; openSUSE encourages people participating in Hackweek to blog about it and to contact local media to provide coverage on the event.

@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-04-05 15:01:30+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/04/05/conference-to-have-daily-keynote-speakers/
-title: "Conference to have Daily Keynote Speakers"
+slug: conference-to-have-daily-keynote-speakers
+title: Conference to have Daily Keynote Speakers
+wordpress_id: 20371
 categories:
 - Conference
 - Events
@@ -15,6 +17,7 @@ tags:
 - opensuse
 - saltstack
 ---
+
 ![](https://events.opensuse.org/system/conferences/logos/000/000/040/original/osc17final.png)The [openSUSE Conference](https://events.opensuse.org/) is about seven weeks away and this year will again have high-quality keynote speakers.
 
 Keynote speakers for this year’s conference at the [Z-Bau](http://z-bau.com/) in Nuremberg, Germany, from May 26 - 28 will be from [SaltStack](https://saltstack.com/), [KDE](https://www.kde.org/) and [Free Software Foundation Europe](https://fsfe.org/index.en.html). 
@@ -27,4 +30,4 @@ The following day (May 27) at 10 a.m., we welcome back the Chief Technology Offi
 
 This year vice-president of the KDE e.V., [Aleix Pol](https://ev.kde.org/corporate/board.php), will discuss the development process, and then will go over what the [KDE community](https://www.kde.org/community/) has been up to in terms of Quality Assurance. Pol’s keynote, which is at 10 a.m. on May 28, will present ideas to collaborate and create better solutions together across the open-source ecosystem.
 
-If you have not registered for the [openSUSE Conference](https://events.opensuse.org/), now would be a good time. Look for the schedule to be released in the coming weeks.		
+If you have not registered for the [openSUSE Conference](https://events.opensuse.org/), now would be a good time. Look for the schedule to be released in the coming weeks.

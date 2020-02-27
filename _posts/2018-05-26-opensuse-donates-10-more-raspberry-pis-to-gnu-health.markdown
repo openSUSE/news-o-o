@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-05-26 09:10:07+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/05/26/opensuse-donates-10-more-raspberry-pis-to-gnu-health/
-title: "openSUSE Donates 10 More Raspberry Pis to GNU Health"
+slug: opensuse-donates-10-more-raspberry-pis-to-gnu-health
+title: openSUSE Donates 10 More Raspberry Pis to GNU Health
+wordpress_id: 20905
 categories:
 - Announcements
 - Conference
@@ -16,7 +18,8 @@ tags:
 - Leap
 - raspberry pi
 ---
-![]({{ site.baseurl }}/assets/IMG_1560-1-300x225.jpg)The [openSUSE Project](https://www.opensuse.org/) once again donated 10 [Raspberry Pis](https://www.raspberrypi.org/) to [GNU Health Project](http://health.gnu.org/), which were handed over to the project’s founder Luis Falcon at the [openSUSE Conference](https://events.opensuse.org/) today.
+
+![](/wp-content/uploads/2018/05/IMG_1560-1.jpg)The [openSUSE Project](https://www.opensuse.org/) once again donated 10 [Raspberry Pis](https://www.raspberrypi.org/) to [GNU Health Project](http://health.gnu.org/), which were handed over to the project’s founder Luis Falcon at the [openSUSE Conference](https://events.opensuse.org/) today.
 
 Last year, the openSUSE Project [donated 10 Raspberry Pis](https://news.opensuse.org/2017/03/13/gnu-health-opensuse-pioneer-shift-in-healthcare-management/) to the non-profit,[ non-government organizations](https://en.wikipedia.org/wiki/Non-governmental_organization) (NGO) that delivers free open-source software for health practitioners, health institutions and governments worldwide.
 
@@ -28,4 +31,4 @@ Both Falcon and Axel Braun gave talks at the openSUSE Conference about GNU Healt
 
 More talks about GNU Health and its Raspberry Pis are expected to be discussed at the [GNU Health Conference](http://www.gnuhealthcon.org/) in November, which openSUSE is sponsoring this year.
 
-Users of openSUSE can install GNU Health as part of the official release of openSUSE Leap 15 at [software.opensuse.org](https://software.opensuse.org/).		
+Users of openSUSE can install GNU Health as part of the official release of openSUSE Leap 15 at [software.opensuse.org](https://software.opensuse.org/).

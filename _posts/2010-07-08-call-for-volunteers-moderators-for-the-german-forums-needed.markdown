@@ -1,13 +1,16 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-07-08 08:47:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/07/08/call-for-volunteers-moderators-for-the-german-forums-needed/
-title: "Call for Volunteers: Moderators for the German Forums needed"
+slug: call-for-volunteers-moderators-for-the-german-forums-needed
+title: 'Call for Volunteers: Moderators for the German Forums needed'
+wordpress_id: 3685
 categories:
 - Infrastructure
 ---
+
 Note: A German version is below - Deutsche Version unten.
 
 We plan to create a German Forum at [forums.opensuse.org](http://forums.opensuse.org) in the near future. So we're searching for Moderators.
@@ -37,26 +40,26 @@ If you're interested in helping us, please send an email to u.buckesfeld (AT) we
 
 **German**
 
-Wir möchten in naher Zukunft auf[ forums.opensuse.org](http://forums.opensuse.org) auch deutschsprachige Foren anbieten.Â  Dafür suchen wir Moderatoren.
+Wir mÃ¶chten in naher Zukunft auf[ forums.opensuse.org](http://forums.opensuse.org) auch deutschsprachige Foren anbieten.Â  DafÃ¼r suchen wir Moderatoren.
 
 Du solltest:
 
 
 
 	
-  * gute fachliche Kenntnisse im Bereich Linux und natürlich besonders openSUSE haben und Deine Kenntnisse gern weitergeben.
+  * gute fachliche Kenntnisse im Bereich Linux und natÃ¼rlich besonders openSUSE haben und Deine Kenntnisse gern weitergeben.
 
 	
-  * ein gutes Deutsch schreiben und dabei auch komplizierte Sachverhalte verständlich beschreiben können.
+  * ein gutes Deutsch schreiben und dabei auch komplizierte Sachverhalte verstÃ¤ndlich beschreiben kÃ¶nnen.
 
 	
-  * im Umgang mit Forennutzern geduldig, verständnisvoll und sanftmütig sein. "RTFM" is not an option.
+  * im Umgang mit Forennutzern geduldig, verstÃ¤ndnisvoll und sanftmÃ¼tig sein. "RTFM" is not an option.
 
 	
-  * ausreichend Zeit haben, um Foren auf regelungsbedürftige Nachrichten und Threads zu prüfen.
+  * ausreichend Zeit haben, um Foren auf regelungsbedÃ¼rftige Nachrichten und Threads zu prÃ¼fen.
 
 
-Schön wäre auch, wenn Du Dich auf Englisch halbwegs verständlich machen
-könntest. Die Amtssprache im Team ist Englisch.
+SchÃ¶n wÃ¤re auch, wenn Du Dich auf Englisch halbwegs verstÃ¤ndlich machen
+kÃ¶nntest. Die Amtssprache im Team ist Englisch.
 
-Falls Du Interesse hast, setz Dich bitte mit mir in Verbindung: Uwe Buckesfeld (u.buckesfeld (AT) web.de)		
+Falls Du Interesse hast, setz Dich bitte mit mir in Verbindung: Uwe Buckesfeld (u.buckesfeld (AT) web.de)

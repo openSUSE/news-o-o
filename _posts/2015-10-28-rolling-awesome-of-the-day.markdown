@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2015-10-28 06:15:37+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/10/28/rolling-awesome-of-the-day/
-title: "Rolling Awesome of the Day"
+slug: rolling-awesome-of-the-day
+title: Rolling Awesome of the Day
+wordpress_id: 19549
 categories:
 - Tumbleweed
 ---
-![tumbleweed]({{ site.baseurl }}/assets/tumbleweed1-300x180.png)If you're a Tumbleweed and KDE aficionado, this is a good day. You'll see some major updates:
+
+![tumbleweed](/wp-content/uploads/2015/07/tumbleweed1.png)If you're a Tumbleweed and KDE aficionado, this is a good day. You'll see some major updates:
 
 
 
@@ -44,4 +47,4 @@ Qt 5.5.0 brought some problems for Intel users and this new version, combined wi
   * Almost 1000 fixes and improvements in Qt 5.5.1 ([details](https://blog.qt.io/blog/2015/10/15/qt-5-5-1-released/))
 
 
-[![screenshot]({{ site.baseurl }}/assets/screenshot-1024x576.png)]({{ site.baseurl }}/assets/screenshot.png)		
+[![screenshot](/wp-content/uploads/2015/10/screenshot.png)](/wp-content/uploads/2015/10/screenshot.png)

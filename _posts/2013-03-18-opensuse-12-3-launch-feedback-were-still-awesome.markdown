@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-03-18 20:30:51+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/03/18/opensuse-12-3-launch-feedback-were-still-awesome/
-title: "openSUSE 12.3 Launch Feedback: we're still awesome!"
+slug: opensuse-12-3-launch-feedback-were-still-awesome
+title: 'openSUSE 12.3 Launch Feedback: we''re still awesome!'
+wordpress_id: 15545
 categories:
 - Project
 ---
-[![social media logos]({{ site.baseurl }}/assets/social-media.png)]({{ site.baseurl }}/assets/social-media.png)
+
+[![social media logos](//news.opensuse.org/wp-content/uploads/2013/01/social-media.png)](//news.opensuse.org/wp-content/uploads/2013/01/social-media.png)
 Last week we let [openSUSE 12.3 out of the gate](https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome/). Like always, it was exciting and fun to see the result of so much preparation get to our users! So, how did it go and what did we learn?<!-- more -->
 
 
@@ -29,11 +32,11 @@ We had great conversations with you on [google plus](https://plus.google.com/b/1
   * [Richard Brown: Intel Power Management on openSUSE 12.3](http://www.sysrich.co.uk/?p=190) on powermanagement
 
 	
-  * [Robert Schweikert: One that got away “ 12.3 Networking](http://lizards.opensuse.org/2013/03/13/one-that-got-away-12-3-networking/) explaining how to solve the networking issue which managed to get in our final release...
+  * [Robert Schweikert: One that got away â€“ 12.3 Networking](http://lizards.opensuse.org/2013/03/13/one-that-got-away-12-3-networking/) explaining how to solve the networking issue which managed to get in our final release...
 
 
 Meanwhile, our [openSUSE group on Google+](https://plus.google.com/b/110312141834246266844/communities/115444043324891769569) has still plenty of space and we're of course also [still tweeting](https://twitter.com/openSUSE/)! And a tip: we appreciate it if you re-tweet our messages to your own followers! We've got hundreds of plusses and shares on Google but a mere 33 retweets of our release announcement... Did you all leave twitter already?
-(http://www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/) LAS wonders if 12.3 is an Ubuntu killer
+[caption id="attachment_15553" align="alignright" width="300"][![LAS wonders if 12.3 is an Ubuntu killer](//news.opensuse.org/wp-content/uploads/2013/03/LAS-wonders-if-12.3-is-an-Ubuntu-killer.jpg)](http://www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/) LAS wonders if 12.3 is an Ubuntu killer[/caption]
 
 
 
@@ -72,7 +75,7 @@ Most major news sites spread our announcement to their readers (almost twice as 
   * [Hecticgeek performance review](http://www.hecticgeek.com/2013/03/performance-opensuse-12-3-kde-review/)
 
 
-![geekos!]({{ site.baseurl }}/assets/3654543066_2c8823cb03_o-150x150.jpg)
+![geekos!](//news.opensuse.org/wp-content/uploads/2012/12/3654543066_2c8823cb03_o.jpg)
 
 And those are just in writing. You can find 4 more reviews in video form:
 
@@ -103,7 +106,7 @@ We're happy to have gotten the attention of them and so many others all around t
 Now what many of you have been waiting for: _the 24 hour statistics_! openSUSE 12.2 [experienced a drop in downloads](https://news.opensuse.org/2013/01/23/opensuse-12-2-brought-to-you-by-an-extremely-talented-group-of-people/). We guessed that the delay of two months with the release meant many in our community were already using openSUSE 12.2 before it was released and we also think that since we support in-place upgrades and have introduced Tumbleweed, our existing user base has less need for the official media. For this release, we didn't have the delay, so despite the upgrades and tumbleweed, we hoped numbers would be up. And they are!
 
 let's start with the server data. In openSUSE 12.1 we had [almost 94K downloads](https://news.opensuse.org/2011/11/19/opensuse-12-1-launch-feedback/) within the first 24 hours of the release. This went down to 65K with openSUSE 12.2, but we're up to 75K again! 
-[![KTorrent-logo]({{ site.baseurl }}/assets/KTorrent-logo-150x150.png)]({{ site.baseurl }}/assets/KTorrent-logo.png)
+[![KTorrent-logo](//news.opensuse.org/wp-content/uploads/2013/01/KTorrent-logo.png)](//news.opensuse.org/wp-content/uploads/2013/01/KTorrent-logo.png)
 
 <table border="1" >
 <tbody >
@@ -291,7 +294,7 @@ let's start with the server data. In openSUSE 12.1 we had [almost 94K downloads]
 </tbody>
 </table>
 Also, we've got about another 10K downloads via torrents on top of that. An interesting thing to note is that finally, 64bit has become the dominant architecture for openSUSE: where in previous releases the balance continued to hang around 50/50, we're now getting almost twice as many 64 bit downloads.
-[![Lessons]({{ site.baseurl }}/assets/kbruch-150x150.png)]({{ site.baseurl }}/assets/kbruch.png)
+[![Lessons](//news.opensuse.org/wp-content/uploads/2013/01/kbruch.png)](//news.opensuse.org/wp-content/uploads/2013/01/kbruch.png)
 
 
 
@@ -300,4 +303,4 @@ Also, we've got about another 10K downloads via torrents on top of that. An inte
 
 We're not done evaluating all that happened for 12.3, but at least we're glad we managed to avoid most of the issues mentioned in our [evaluation of 12.2](https://news.opensuse.org/2013/01/23/opensuse-12-2-brought-to-you-by-an-extremely-talented-group-of-people/). Our announcement and communication were ready in time thanks to [the Marketing and Artwork hackathon](https://news.opensuse.org/2013/02/21/opensuse-marketing-and-artwork-teams-got-work-done/), more time was spend on testing (we also organized [a testing hackathon](https://news.opensuse.org/2013/01/23/opensuse-12-3-hackfest-in-nuremberg-progress-on-arm-packagekit-and-many-bugs-fixed/)!) and our [Open Build Service](http://build.opensuse.org) did not have any major issues during the release. Our servers did falter for a minute during the release, due to the heavy load - but we managed. Still, however, the _'undirected hacking'_ still means we don't set goals in advance and we didn't have a clear list of features until we went through all of the changes in our release - _too much work for too little excitement_.
 
-So, this release is a step forward - but there is still work to be done. We surely plan to talk about ideas on improving things at the upcoming [openSUSE Conference in Greece](https://news.opensuse.org/2013/02/20/osc13-cfp/). Think about joining if you want to help out!		
+So, this release is a step forward - but there is still work to be done. We surely plan to talk about ideas on improving things at the upcoming [openSUSE Conference in Greece](//news.opensuse.org/2013/02/20/osc13-cfp/). Think about joining if you want to help out!

@@ -1,13 +1,16 @@
 ---
 author: News Team
+comments: true
 date: 2009-06-18 20:02:08+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/06/18/opensuse-factory-is-now-open/
-title: "openSUSE Factory is Now Open"
+slug: opensuse-factory-is-now-open
+title: openSUSE Factory is Now Open
+wordpress_id: 1814
 categories:
 - Distribution
 ---
+
 openSUSE development is now even _more_ open than before. Factory development is changing, and we're making it easier for contributors to take responsibility for packages and to contribute directly to openSUSE. This means contributors will be able to be directly responsible for packages, without having to go through a Novell employee to make changes.
 
 Factory development is being split into devel projects organized by topic areas, such as KDE, GNOME, Education, Java, and so on. Devel projects are responsible for sets of packages and will be able to organize themselves rather than following a top-down model of management.
@@ -24,4 +27,4 @@ If you're new to working with Factory and the openSUSE Build Service, you can st
 
 Have questions or need help getting started? There are plenty of openSUSE Factory contributors who'd be happy to answer questions and help you get started. To learn more, join the opensuse-factory [mailing list](http://en.opensuse.org/Mailing_Lists), or get real-time help in the #opensuse-factory IRC channel on Freenode.
 
-The policy changes that have been made with Factory are another step in making openSUSE a more independent project, and allowing all contributors to take equal responsibility. As Factory development and devel teams evolve, we hope to see more contributors taking a lead role in leading openSUSE development and shaping the openSUSE distro. Factory is open!		
+The policy changes that have been made with Factory are another step in making openSUSE a more independent project, and allowing all contributors to take equal responsibility. As Factory development and devel teams evolve, we hope to see more contributors taking a lead role in leading openSUSE development and shaping the openSUSE distro. Factory is open!

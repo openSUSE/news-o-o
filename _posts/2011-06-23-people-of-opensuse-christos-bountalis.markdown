@@ -1,23 +1,128 @@
 ---
 author: Kim Leyendecker
+comments: true
 date: 2011-06-23 10:35:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/06/23/people-of-opensuse-christos-bountalis/
-title: "People of openSUSE: Christos Bountalis"
+slug: people-of-opensuse-christos-bountalis
+title: 'People of openSUSE: Christos Bountalis'
+wordpress_id: 9367
 categories:
 - People of openSUSE
 ---
 
-|||
-|--- |--- |
-|**Nickname:**|mpounta|
-|**Homepage:**|http://cbounta.wordpress.com/|
-|**Blog:**|http://cbounta.wordpress.com/|
-|||
-|**Favorite season:**|Autumn|
-|**Motto:**|Dream until your dreams come true|
-|||
+
+<table cellpadding="2" width="676" cellspacing="0" > 
+<tbody >
+<tr >
+
+<td width="110" >**Nickname:**
+</td>
+
+<td width="548" >
+
+
+mpounta
+
+
+
+</td>
+
+<td width="6" >
+</td>
+</tr>
+<tr >
+
+<td width="110" >**Homepage: **
+</td>
+
+<td width="548" >
+
+
+http://cbounta.wordpress.com/
+
+
+
+</td>
+
+<td width="6" >
+</td>
+</tr>
+<tr >
+
+<td width="110" >**Blog:**
+</td>
+
+<td width="548" >
+
+
+http://cbounta.wordpress.com/
+
+
+
+</td>
+
+<td width="6" >
+</td>
+</tr>
+<tr >
+
+<td width="110" >
+</td>
+
+<td width="548" >
+</td>
+
+<td width="6" >
+</td>
+</tr>
+<tr >
+
+<td width="110" >**Favorite 			season:**
+</td>
+
+<td width="548" >
+
+
+Autumn
+
+
+
+</td>
+
+<td width="6" >
+</td>
+</tr>
+<tr >
+
+<td width="110" >**Motto:**
+</td>
+
+<td width="548" >
+
+
+Dream until your dreams come true
+
+
+
+</td>
+
+<td width="6" >
+</td>
+</tr>
+<tr >
+
+<td width="110" >
+</td>
+
+<td width="548" >
+</td>
+
+<td width="6" >
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -228,7 +333,7 @@ Most members of the Greek openSUSE community.
 
 
 
-#### What is the application you can™t live without? And why?
+#### What is the application you canâ€™t live without? And why?
 
 
 
@@ -295,7 +400,7 @@ Hmm, tough question, i want all people famous or not to join the community. Does
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 
@@ -416,7 +521,7 @@ Well I am about to continue my studies towards obtaining a master degree in Arti
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 
@@ -430,7 +535,7 @@ In 60s-70s-80s best music ever!
 
 
 
-#### There™s a thunderstorm outside ” do you turn off your computer?
+#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
 
 
 
@@ -475,7 +580,7 @@ I can't think anything  now...
 
 
 
-#### You couldn™t live without¦
+#### You couldnâ€™t live withoutâ€¦
 
 
 
@@ -511,5 +616,3 @@ The hardest  question was What do you think is missing or underrated in the dist
 
 
 
-
-		

@@ -1,16 +1,19 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2007-08-29 13:24:38+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/08/29/yast-independence-of-ycp/
-title: "YaST Independence From YCP"
+slug: yast-independence-of-ycp
+title: YaST Independence From YCP
+wordpress_id: 163
 categories:
 - Distribution
 tags:
 - yast
 ---
-The [openSUSE 10.3 Beta 2](https://news.opensuse.org/?p=155) release brought down another major obstacle in developing YaST: the famous YCP language is not strictly needed for the YaST development anymore. A developer can use Perl, and to lesser extent, Python or Ruby.
+
+The [openSUSE 10.3 Beta 2](http://news.opensuse.org/?p=155) release brought down another major obstacle in developing YaST: the famous YCP language is not strictly needed for the YaST development anymore. A developer can use Perl, and to lesser extent, Python or Ruby.
 
 <!-- more -->
 

@@ -1,10 +1,12 @@
 ---
 author: Nenad Latinović
+comments: true
 date: 2015-01-12 18:43:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/01/12/xfce-and-opensuse-five-steps-to-perfection/
-title: "Xfce and openSUSE - Five Steps to Perfection"
+slug: xfce-and-opensuse-five-steps-to-perfection
+title: Xfce and openSUSE - Five Steps to Perfection
+wordpress_id: 18960
 categories:
 - Distribution
 tags:
@@ -14,6 +16,7 @@ tags:
 - tutorial
 - xfce
 ---
+
 Hi there, geekos!
 
 You've probably read about openSUSE being touted as a "king of KDE distros", with reviewers and journalists emphasizing the projects commitment to a **unique KDE experience**. There also seems to be a little more buzz concerning GNOME, since its 3.14 iteration - I, personally, haven't read so many praises for the **GNOME project** since the Gnome 3 Shell introduction some threeish years ago. Also, the 13.2 version has seen the addition of MATE desktop. But, alongside the two big players and a somewhat nostalgic emerging project, we have the crowd's favorite little big project -** Xfce**. So, how does the mouse compare to the sole and the dragon?
@@ -24,7 +27,7 @@ You've probably read about openSUSE being touted as a "king of KDE distros", wit
 #### Why (not) Xfce on openSUSE?
 
 
-Xfce is a GTK desktop environment which aims to be "fast and low on system resources, while still being visually appealing and user friendly", according to their [website](http://www.xfce.org). They aim to adhere do the freedesktop.org standards, and sport their own core components such as a window manager, file manager, settings manager etc., so you could get the most **basic desktop functionalities out of the box**. It appears to follow the** traditional desktop paradigm**, with a one (or two) panel desktop, a tray for your volume, clock and a battery level, and a very intuitive dropdown app menu, where you have all of your apps sorted into categories, and can access them in a click or two.[![xfce-logo]({{ site.baseurl }}/assets/xfce-logo.png)]({{ site.baseurl }}/assets/xfce-logo.png)
+Xfce is a GTK desktop environment which aims to be "fast and low on system resources, while still being visually appealing and user friendly", according to their [website](http://www.xfce.org). They aim to adhere do the freedesktop.org standards, and sport their own core components such as a window manager, file manager, settings manager etc., so you could get the most **basic desktop functionalities out of the box**. It appears to follow the** traditional desktop paradigm**, with a one (or two) panel desktop, a tray for your volume, clock and a battery level, and a very intuitive dropdown app menu, where you have all of your apps sorted into categories, and can access them in a click or two.[![xfce-logo](/wp-content/uploads/2015/01/xfce-logo.png)](/wp-content/uploads/2015/01/xfce-logo.png)
 
 
 The obvious pros of Xfce are its **blazing speed**. If you have a mediocre-spec machine, you'll learn to appreciate the "open on actual click" speed Xfce sports. Programmes load instantly (Bryan Lunduke once noticed in a LAS episode that some apps under Xfce load faster than on other desktops, even though they have to load the exact same libraries one the exact same specs). But, Xfce is not made for older machines only. I use it on a 2.1 GHz dual core processor and 4 GB of RAM.** And it works wonderful**. It's feature-full, customizable, and whatever the word may be about the GTK2 apps look, it can be made to look very modern. As for the project itself, it's more than **stable**, since it exists for some 18 years now, and it's also stable in a sense of development and "not-breaking". The components are released when ready, and what Xfce users really like is getting new goodies while** not having to relearn** the way they interact with their computer.
@@ -110,7 +113,7 @@ First, you have to install compton. You can do it via one-click install [here](h
 
 Then go to your settings manager, and choose the _Sessions and Startup_ section. Once you're in, choose the _Application Autostart_ tab, and add the following process:
 
-[![Compton]({{ site.baseurl }}/assets/compton.png)]({{ site.baseurl }}/assets/compton.png)
+[![Compton](/wp-content/uploads/2015/01/compton.png)](/wp-content/uploads/2015/01/compton.png)
 
 ...after that, go back to the settings manager and click on the _Window Manager Tweaks_ section. Choose the tab _Compositor_ and untick the _Enable compositing display_ option. Then log out and log back in. First thing you'll notice are the fancy effects :).
 
@@ -122,7 +125,7 @@ Install the Faenza-mint icon set from [here](http://software.opensuse.org/packag
 
 Here's how it looks:
 
-[![Vertex]({{ site.baseurl }}/assets/Vertex.png)]({{ site.baseurl }}/assets/Vertex.png)
+[![Vertex](/wp-content/uploads/2015/01/Vertex.png)](/wp-content/uploads/2015/01/Vertex.png)
 
 
 #####  3. Move your panel to the top
@@ -136,7 +139,7 @@ To move your panel to the top, right click on your panel. Choose the _Panel pref
 
 If you're like me, you'd really like to have the ability to turn the volume to more than 100% on an occasion or two. To do that, install _pulseaudio_ and _pavucontrol_ in **YaST**. After that, press_ alt + F2_ and run _xfce4-settings-editor_. There, under the section _xfce4-panel_, locate _plugin-6_. It should be set to the "mixer" value. Now, in the command section of the mixer property, change the value to _pavucontrol_. This will make the volume icon use PulseAudio Volume control when you run the audio mixer from the tray, allowing you to turn the volume up to more than 100% if you're listening to a very badly recorded sound track.
 
-[![Xfce4-settings-editor]({{ site.baseurl }}/assets/Screenshot-12.-01.-2015-192858.png)]({{ site.baseurl }}/assets/Screenshot-12.-01.-2015-192858.png)
+[![Xfce4-settings-editor](/wp-content/uploads/2015/01/Screenshot-12.-01.-2015-192858.png)](/wp-content/uploads/2015/01/Screenshot-12.-01.-2015-192858.png)
 
 
 ##### 5. Install docky
@@ -144,7 +147,7 @@ If you're like me, you'd really like to have the ability to turn the volume to m
 
 [Install this beautiful](http://software.opensuse.org/package/docky?search_term=docky), versatile and responsive dock, which you can use as your tray for launching apps. It supports multiple themes, as well as auto and smart hiding. It seems to be working nice, without any hiccups. So, this might be a good looking option for you to reduce the click numbers for launching your favorite apps.
 
-[![Xfce Screenshot]({{ site.baseurl }}/assets/skrin.png)]({{ site.baseurl }}/assets/skrin.png)
+[![Xfce Screenshot](/wp-content/uploads/2015/01/skrin.png)](/wp-content/uploads/2015/01/skrin.png)
 
 
 ##### Conclusion...
@@ -156,4 +159,4 @@ While Xfce did start out as a project aiming at weaker/older machines, it evolve
 ### ...have a lot of fun!
 
 
-		
+

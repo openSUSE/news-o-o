@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2010-06-01 16:43:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/01/opensuse-linuxtag-2010-we-want-to-meet-you/
-title: "openSUSE @ LinuxTag 2010 “ We want to meet you!"
+slug: opensuse-linuxtag-2010-we-want-to-meet-you
+title: openSUSE @ LinuxTag 2010 â€“ We want to meet you!
+wordpress_id: 3426
 categories:
 - Events
 ---
-openSUSE -Â  as usual - will be at [LinuxTag](http://www.linuxtag.org/2010/). We have booth #203 in hall 7.2a and will show there the openSUSE Build Service 2.0 [release](https://news.opensuse.org/2010/05/25/obs-2-0b1/) which is scheduled for June 11 and how you can benefit from it and of course the last milestone of [openSUSE 11.3](http://wiki.opensuse.org/Product_highlights_11.3). We'd like to see you there and have a chat. If you want to help us at the booth please add your name and the date you want to be there at the bottom of our LinuxTag [page](http://en.opensuse.org/Linuxtag)
+
+openSUSE -Â  as usual - will be at [LinuxTag](http://www.linuxtag.org/2010/). We have booth #203 in hall 7.2a and will show there the openSUSE Build Service 2.0 [release](http://news.opensuse.org/2010/05/25/obs-2-0b1/) which is scheduled for June 11 and how you can benefit from it and of course the last milestone of [openSUSE 11.3](http://wiki.opensuse.org/Product_highlights_11.3). We'd like to see you there and have a chat. If you want to help us at the booth please add your name and the date you want to be there at the bottom of our LinuxTag [page](http://en.opensuse.org/Linuxtag)
 
 The amazing openSUSE [Boosters ](http://wiki.opensuse.org/openSUSE:Boosters_team)will give hack sessions for contributors, or people who want to become one. In these up and close hack sessions, with a small number of participants, a Booster will teach you all about a way to contribute to openSUSE and/or open source in general. Here's the program:
 
@@ -86,5 +89,3 @@ We do have 20 4-days visitor tickets currently on stock. We'll spread them to an
 
 
 http://wiki.opensuse.org/openSUSE:Boosters_team
-
-		

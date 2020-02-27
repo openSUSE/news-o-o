@@ -1,10 +1,12 @@
 ---
 author: Thomas Schmidt
+comments: true
 date: 2010-06-24 10:16:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/24/opensuse-11-3-launch-party-in-nurnberg-15-7/
-title: "openSUSE 11.3 Launch Party in Nürnberg (15.7.)"
+slug: opensuse-11-3-launch-party-in-nurnberg-15-7
+title: openSUSE 11.3 Launch Party in NÃ¼rnberg (15.7.)
+wordpress_id: 3604
 categories:
 - Events
 tags:
@@ -12,6 +14,7 @@ tags:
 - openSUSE 11.3
 - release party
 ---
+
 On July 15th you are invited to celebrate with us the latest release of our distribution: **openSUSE 11.3**!
 
 [![Launch Party Poster](http://en.opensuse.org/images/thumb/9/90/Launch_nbg_A3.png/424px-Launch_nbg_A3.png)](http://wiki.opensuse.org/images/thumb/3/33/11.3_launch_party_poster_nuremberg.png/424px-11.3_launch_party_poster_nuremberg.png)
@@ -27,4 +30,4 @@ On July 15th you are invited to celebrate with us the latest release of our dist
 For the small and big children we will have the openSUSE balloon clown visiting us, creating geekos and other animals like on Linuxtag. If you are not from Nuremberg, have a look at the party locations in the [wiki](http://en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations), or make your own party!
 Join this event on [facebook.](http://www.facebook.com/event.php?eid=131755730179190#!/event.php?eid=131755730179190&ref=mf)
 
-If you cannot wait until 15.7. to get the new openSUSE 11.3, you can already download the release candidate on [software.opensuse.org](http://software.opensuse.org/developer) now.		
+If you cannot wait until 15.7. to get the new openSUSE 11.3, you can already download the release candidate on [software.opensuse.org](http://software.opensuse.org/developer) now.

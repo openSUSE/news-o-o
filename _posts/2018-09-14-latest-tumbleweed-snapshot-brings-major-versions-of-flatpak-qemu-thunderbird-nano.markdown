@@ -1,10 +1,13 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-09-14 11:46:40+00:00
 layout: post
 link: https://news.opensuse.org/2018/09/14/latest-tumbleweed-snapshot-brings-major-versions-of-flatpak-qemu-thunderbird-nano/
-title: "Latest Tumbleweed Snapshot Brings Major Versions of Flatpak, qemu,\
-  \ Thunderbird , Nano"
+slug: latest-tumbleweed-snapshot-brings-major-versions-of-flatpak-qemu-thunderbird-nano
+title: Latest Tumbleweed Snapshot Brings Major Versions of Flatpak, qemu, Thunderbird
+  , Nano
+wordpress_id: 21279
 categories:
 - Announcements
 - Tumbleweed
@@ -39,7 +42,8 @@ tags:
 - webkit2gtk2
 - wireshark
 ---
-![]({{ site.baseurl }}/assets/geekoshirt-212x300.png)Since the last [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) update, three snapshots have been released and the latest snapshot has brought two new major versions of both Flatpak and qemu.
+
+![](/wp-content/uploads/2017/06/geekoshirt.png)Since the last [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) update, three snapshots have been released and the latest snapshot has brought two new major versions of both Flatpak and qemu.
 
 On the heels of the [Libre Application Summit ](https://las.gnome.org/conferences/LAS)last week, which is a conference focusing on [sandboxing](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) and application distribution, a new major version of [Flatpak](https://flatpak.org/) was released in Snapshot [20180911](https://lists.opensuse.org/opensuse-factory/2018-09/msg00054.html). Flatpak 1.0 marks a significant improvement in performance and reliability, and includes a big collection of bug fixes with a collection of new features. Naturally, libostree 2018.8 was updated with Flatpak and added a new feature that provides an [auto-update-summary config option](https://github.com/ostreedev/ostree/pull/1681) for repositories. Full-system emulation with qemu 3.0.0 isn’t necessarily significant. The changelog states not to “read anything into the major version number update. It's been decided to increase the major version number each year.” Yet there is improved support for nested [Kernel-based Virtual Machine (KVM)](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine) guests running on [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V). The project did emphasized that ongoing feature deprecation is tracked at both [http://wiki.qemu-project.org/Features/LegacyRemoval](http://wiki.qemu-project.org/Features/LegacyRemoval) and in Appendix B of the qemu-doc.* files installed with the qemu package. Mesa 18.1.7 had a handful of fixes and once again added wayland to egl_platforms. The [Linux Kernel](https://www.kernel.org/) 4.18.7 added support for [Intel Ice Lake](https://en.wikipedia.org/wiki/Ice_Lake_(microarchitecture)) [microarchitecture](https://en.wikipedia.org/wiki/Microarchitecture) in the snapshot. There were several other minor updates in the snapshot, but the nodejs10 update to version 10.9.0 brought a few Common Vulnerability and Exposure ([CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures)) fixes and upgraded dependencies to [OpenSSL](https://www.openssl.org/) 1.0.2.
 
@@ -47,4 +51,4 @@ Mozilla Thunderbird also received a major version update this week in snapshot [
 
 <!-- more -->The snapshot that started off the week, [20180905](https://lists.opensuse.org/opensuse-factory/2018-09/msg00034.html) updated libssh to version 0.8.2. The newer version improves compiler flag detection, removed support for deprecated SSHv1 protocol and added support for [OpenSSL](https://www.openssl.org/) 1.1 as well as crypto backend for the [mbedtls](https://github.com/ARMmbed/mbedtls) crypto library. Some Bluetooth crashes were fixed with [wireshark](https://www.wireshark.org/) 2.6.3 and [sysdig](https://sysdig.com/) 0.23.1 added fixes on custom containers support. Virtualbox fixed some API changes related to the 4.19 release candidate kernel.
 
-All snapshots are stable according to the Tumbleweed snapshot reviewer with snapshot [20180905](https://lists.opensuse.org/opensuse-factory/2018-09/msg00034.html) recording a 93 rating and snapshots [20180911](https://lists.opensuse.org/opensuse-factory/2018-09/msg00054.html) and [20180910](https://lists.opensuse.org/opensuse-factory/2018-09/msg00049.html) both trending at a 96 rating.		
+All snapshots are stable according to the Tumbleweed snapshot reviewer with snapshot [20180905](https://lists.opensuse.org/opensuse-factory/2018-09/msg00034.html) recording a 93 rating and snapshots [20180911](https://lists.opensuse.org/opensuse-factory/2018-09/msg00054.html) and [20180910](https://lists.opensuse.org/opensuse-factory/2018-09/msg00049.html) both trending at a 96 rating.

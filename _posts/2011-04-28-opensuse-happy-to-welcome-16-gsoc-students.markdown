@@ -1,14 +1,17 @@
 ---
 author: News Team
+comments: true
 date: 2011-04-28 15:14:05+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/
-title: "openSUSE happy to welcome 16 GSOC students!"
+slug: opensuse-happy-to-welcome-16-gsoc-students
+title: openSUSE happy to welcome 16 GSOC students!
+wordpress_id: 8682
 categories:
 - Google Summer of Code
 ---
-[![picture of a gecko by Tambako the Jaguar on flickr]({{ site.baseurl }}/assets/Tambako-the-Jaguar.jpg)](https://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/tambako-the-jaguar/)We've got excellent news! We've received many excellent submissions for our [Google Summer of Code](http://en.opensuse.org/openSUSE:GSOC_2011) application and Google has given us 16 slots. This means that 16 eager students have been selected and will start working with their mentors on an awesome openSUSE project!<!-- more -->
+
+[![picture of a gecko by Tambako the Jaguar on flickr](/wp-content/uploads/2011/04/Tambako-the-Jaguar.jpg)](http://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/tambako-the-jaguar/)We've got excellent news! We've received many excellent submissions for our [Google Summer of Code](http://en.opensuse.org/openSUSE:GSOC_2011) application and Google has given us 16 slots. This means that 16 eager students have been selected and will start working with their mentors on an awesome openSUSE project!<!-- more -->
 
 According to the [GSOC timeline](http://www.google-melange.com/document/show/gsoc_program/google/gsoc2011/timeline) the students will now start with the [Community Bonding period](http://googlesummerofcode.blogspot.com/2007/04/so-what-is-this-community-bonding-all.html) in which they have time to set up their development stuff, get acquainted with their mentors and get to know the openSUSE community. This means we'll see those students on our communication channels, be it IRC, forums or mailing lists! Give them a warm welcome!
 In a little over three weeks, the coding will start. I'm sure you're all excited to find out what projects these students will be working on! Well, we were too, so we've compiled a nice list of the accepted proposals and asked a few students a quick quote on IRC!
@@ -36,7 +39,7 @@ Christos "mpounta" Bountalis is a fresh Greek contributor from Salamis, an islan
 
 
 So he found a cool GSOC idea on the wiki and sent in a proposal.
-[![by cpt<HUN> on flickr]({{ site.baseurl }}/assets/cptHUN.jpg)](https://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/cpt/)
+[![by cpt<HUN> on flickr](/wp-content/uploads/2011/04/cptHUN.jpg)](http://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/cpt/)
 Christos wants to develop what he has temporarily named "fillup-ng". In his own words:
 
 
@@ -92,13 +95,13 @@ BjÃ¸rn Arild MÃ¦land wants to work on the Dister command line tool. He aims 
 
 
 Justine Leng wants to improve and add to the interface, not only making the Android OBS interface more powerful but also more stable by writing a test suite.
-[![by [mementosis] on flickr]({{ site.baseurl }}/assets/mementosis.jpg)](https://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/mementosis/)
+[![by [mementosis] on flickr](/wp-content/uploads/2011/04/mementosis.jpg)](http://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/mementosis/)
 
 
 ### new python obs library (osc code cleanup)
 
 
-Marcus Hüwe will cleanup the osc (command line tool for OBS) code and refactor it into a new python OBS library and make sure osc uses it.
+Marcus HÃ¼we will cleanup the osc (command line tool for OBS) code and refactor it into a new python OBS library and make sure osc uses it.
 
 
 ### SUSE bug reporter
@@ -141,7 +144,7 @@ Stoyan Dimkov will design and implement an automated browser-based test-suite fo
 
 
 weijie yang wants to simplify OpenSUSE's installation for new users. He will do this by taking Ubuntu's Wubi tool and porting it to openSUSE.
-[![gsoc image]({{ site.baseurl }}/assets/GSoC2011_300x200.png)](https://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/gsoc2011_300x200-2/)
+[![gsoc image](/wp-content/uploads/2011/04/GSoC2011_300x200.png)](http://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/gsoc2011_300x200-2/)
 
 
 ## Wow
@@ -149,4 +152,4 @@ weijie yang wants to simplify OpenSUSE's installation for new users. He will do 
 
 Yes, it is an impressive list of projects. While usually not all GSOC projects succeed, these proposals were pretty solid and we have high expectations of the students. Of course, it will depend not only on them. Mentors will need to be available and for the rest of us - we also need to help out! Not only by being welcoming, giving advice and answering their questions but also by keeping them engaged and _asking_ questions, showing interest in what is going on!
 
-We wish the Google Summer of Code students as well as anyone else who's using this opportunity to get involved with Free Software the very, very best the coming 4 months!		
+We wish the Google Summer of Code students as well as anyone else who's using this opportunity to get involved with Free Software the very, very best the coming 4 months!

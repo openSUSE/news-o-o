@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-02-01 09:47:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/02/01/tumbleweed-snapshots-get-yast-changes-for-firewalld/
-title: "Tumbleweed Snapshots Get YaST Changes for Firewalld"
+slug: tumbleweed-snapshots-get-yast-changes-for-firewalld
+title: Tumbleweed Snapshots Get YaST Changes for Firewalld
+wordpress_id: 20655
 categories:
 - Announcements
 - Tumbleweed
@@ -27,7 +29,8 @@ tags:
 - weblate
 - yast
 ---
-![]({{ site.baseurl }}/assets/Tumbleweed-black-300x127.png)There is no signs of slowing down [openSUSE](https://www.opensuse.org/)’s rolling release  [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) as six snapshots of new software were released this past week.
+
+![](/wp-content/uploads/2016/03/Tumbleweed-black.png)There is no signs of slowing down [openSUSE](https://www.opensuse.org/)’s rolling release  [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) as six snapshots of new software were released this past week.
 
 Not all the snapshots were large; in fact, one offered just a handful of new packages, but the releases keep coming.
 
@@ -41,4 +44,4 @@ A handful of packages were updated in snapshot [20180128](https://lists.opensuse
 
 [ImageMagick](https://www.imagemagick.org/) 7.0.7.22 added support for reading the High Efficiency Image Format and added support for aspect ratio geometry in snapshot [20180126](https://lists.opensuse.org/opensuse-factory/2018-01/msg00634.html). NetworkManager 1.8.6 fixed some [daemon](https://en.wikipedia.org/wiki/Daemon_(computing)) crashes and fixed a memory leak with connection to [D-Bus](https://en.wikipedia.org/wiki/D-Bus) objects. The [Linux Kernel](https://www.kernel.org/) was updated to version 4.14.15 in the snapshot and it deleted several patches and addressed some CVEs. New Application Programming Interface (API)s were added with [python-libvirt-python](https://pypi.python.org/pypi/libvirt-python) 4.0.0, which was triggered to match with the [libvirt](https://libvirt.org/) version. A major version update in the snapshot was qrencode 4.0.0, which added [CMake](https://cmake.org/) support and the EPS output now supports foreground and background colors.
 
-Snapshot [20180125](https://lists.opensuse.org/opensuse-factory/2018-01/msg00607.html) had the [gnome-software](https://wiki.gnome.org/Apps/Software) 3.26.5 update and fixed a possible crash triggered by the [fwupd plugin](https://github.com/hughsie/fwupd), a project that aims to make updating firmware on Linux automatic, safe and reliable. Several new features were added with [libvirt 4.0.0](https://libvirt.org/news.html) like providing bash completion support and refreshing capabilities on host microcode update. One package that was updated moved backward with ucode-intel moving from version 20180108 to version 20171117.		
+Snapshot [20180125](https://lists.opensuse.org/opensuse-factory/2018-01/msg00607.html) had the [gnome-software](https://wiki.gnome.org/Apps/Software) 3.26.5 update and fixed a possible crash triggered by the [fwupd plugin](https://github.com/hughsie/fwupd), a project that aims to make updating firmware on Linux automatic, safe and reliable. Several new features were added with [libvirt 4.0.0](https://libvirt.org/news.html) like providing bash completion support and refreshing capabilities on host microcode update. One package that was updated moved backward with ucode-intel moving from version 20180108 to version 20171117.

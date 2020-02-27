@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-09-24 10:08:53+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/09/24/opensuse-releases-leap-beta/
-title: "openSUSE releases Leap Beta"
+slug: opensuse-releases-leap-beta
+title: openSUSE releases Leap Beta
+wordpress_id: 19497
 categories:
 - Leap
 tags:
@@ -16,7 +18,8 @@ tags:
 - opensuse
 - SUSECon
 ---
-[![canvas]({{ site.baseurl }}/assets/canvas-300x224.png)]({{ site.baseurl }}/assets/canvas.png)Today openSUSE released the [Beta of Leap 42.1](http://bit.ly/1iOyl2T), providing an all new look that deviates from previous versions.
+
+[![canvas](/wp-content/uploads/2015/09/canvas.png)](/wp-content/uploads/2015/09/canvas.png)Today openSUSE released the [Beta of Leap 42.1](http://bit.ly/1iOyl2T), providing an all new look that deviates from previous versions.
 
 The newest regular release from openSUSE has changes to Grub and Plymouth, which provides an impressive introduction to users setting up and using Leap on their hardware or virtual machines.
 
@@ -32,4 +35,4 @@ The Beta has an update to KDE Plasma Framwork from 5.12.0 to 5.13.0 and well as 
 
 There are about 7,200 packages in the Beta.
 
-Leap is developed using core source code from [SUSE Linux Enterprise](https://www.suse.com/products/server/features/) and ingenuity from Free and Open Source Software developers to provide an entirely different distribution for Linux users.		
+Leap is developed using core source code from [SUSE Linux Enterprise](https://www.suse.com/products/server/features/) and ingenuity from Free and Open Source Software developers to provide an entirely different distribution for Linux users.

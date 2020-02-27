@@ -1,28 +1,122 @@
 ---
 author: News Team
+comments: true
 date: 2008-06-21 16:27:56+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/06/21/people-of-opensuse-tanja-roth/
-title: "People of openSUSE: Tanja Roth"
+slug: people-of-opensuse-tanja-roth
+title: 'People of openSUSE: Tanja Roth'
+wordpress_id: 900
 categories:
 - People of openSUSE
 ---
+
 How important is documentation to you and people around you? Certainly it is a lot! Then good news because openSUSE has a team focused on manuals for the SUSE Linux/openSUSE distribution. Today's we have the opportunity to salute [openSUSE Documentation Team](http://en.opensuse.org/Documentation_Team) member Tanja Roth!
 
 <!-- more -->
 
+<table border="0" >
+<tr >
 
-![]({{ site.baseurl }}/assets/tanja_roth.jpg)
-|||
-|--- |--- |
-|**Nickname(s):**|several, but none I'd like to share here ;)|
-|**Homepage:**|nope|
-|**Blog:**|nope|
-|||
-|**Favorite season:**|I particularly enjoy rainy or cool days in summer: plenty of space and peace to enjoy long swims in the outdoor swimming pools ;)|
-|**Motto:**|nope|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](/wp-content/uploads/2008/06/tanja_roth.jpg)
+</td>
+</tr>
+<tr >
+<tr >
+
+<td >**Nickname(s):**
+</td>
+
+<td >several, but none I'd like to share here ;)
+</td>
+
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >nope
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >nope
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >I particularly enjoy rainy or cool days in summer: plenty of space and peace to enjoy long swims in the outdoor swimming pools ;)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >nope
+</td>
+
+<td >
+</td>
+
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
 
 
 
@@ -337,5 +431,3 @@ All of them, actually...
 
 
 No more questions, *please* ;)
-
-		

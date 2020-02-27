@@ -3,9 +3,15 @@
     <img src="https://static.opensuse.org/chameleon/dist/images/logo/logo-white.svg" class="mr-2" alt="Logo">
     <span>News</span>
   </a>
-  <div class="ml-auto">
-    <a class="text-muted" href="{{ "/feed.xml" | prepend: site.baseurl }}">
-      <span class="typcn typcn-rss h3 m-0"></span>
-    </a>
+  <div class="nav navbar-nav ml-auto">
+    <div class="nav-item">
+      <a class="nav-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+        <span class="fa fa-rss"></span>
+      </a>
+    </div>
+    <form class="form-inline" target="_blank" action="https://github.com/openSUSE/news-o-o/search" method="GET">
+      <input id="searchbox" class="form-control" type="text" name="q" placeholder="Search" lang="en">
+      <input type="hidden" value="Markdown" name="l">
+    </form>
   </div>
 </nav>

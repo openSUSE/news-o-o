@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-06-26 14:36:18+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out/
-title: "openSUSE Weekly News Issue 129 is out!"
+slug: opensuse-weekly-news-issue-129-is-out
+title: openSUSE Weekly News Issue 129 is out!
+wordpress_id: 3627
 categories:
 - Weekly News
 tags:
@@ -12,6 +14,7 @@ tags:
 - opensuse
 - Weekly News
 ---
+
 We're pleased to announce our brand new openSUSE Weekly News Issue 129!<!-- more -->
 
 
@@ -40,19 +43,19 @@ We're pleased to announce our brand new openSUSE Weekly News Issue 129!<!-- more
 
 
 
-  * [ Michael Löffler: Let™s beat the drum for openSUSE conference 2010](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Announcements)
+  * [ Michael LÃ¶ffler: Letâ€™s beat the drum for openSUSE conference 2010](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Announcements)
 
 
-  * [ SUSE Studio: Share your appliances with SUSE Gallery!](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#In_the_Community)
+  * [ SUSE Studio: Share your appliances with SUSE Gallery!](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#In_the_Community)
 
 
-  * [ The Geek Stuff/Sasikala: 6 Bash Conditional Expression Examples](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#For_Commandline.2FScript_Newbies)
+  * [ The Geek Stuff/Sasikala: 6 Bash Conditional Expression Examples](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#For_Commandline.2FScript_Newbies)
 
 
-  * [ Dominique Leuenberger: VLC 1.1.0 The Luggage went gold / openSUSE repositories updated](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Planet_SUSE)
+  * [ Dominique Leuenberger: VLC 1.1.0 â€œThe Luggageâ€ went gold / openSUSE repositories updated](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Planet_SUSE)
 
 
-  * [ Frank Karlitscheck: ownCloud 1.0 is here](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#On_the_Web)
+  * [ Frank Karlitscheck: ownCloud 1.0 is here](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#On_the_Web)
 
 
 
@@ -84,46 +87,46 @@ We're pleased to announce our brand new openSUSE Weekly News Issue 129!<!-- more
 
 
 
-  * [ Announcements](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Announcements)
+  * [ Announcements](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Announcements)
 
 
-  * [ Status Updates](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Status_Updates)
+  * [ Status Updates](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Status_Updates)
 
 
-  * [ Team Reports](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Team_Reports)
+  * [ Team Reports](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Team_Reports)
 
 
-  * [ In the Community](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#In_the_Community)
+  * [ In the Community](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#In_the_Community)
 
 
-  * [ New Applications](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Security_Updates)
+  * [ Security Updates](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Security_Updates)
 
 
-  * [ Kernel Review](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Kernel_Review)
+  * [ Kernel Review](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Kernel_Review)
 
 
-  * [ Tips and Tricks](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Tips_and_Tricks)
+  * [ Tips and Tricks](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Planet_SUSE)
+  * [ Planet SUSE](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Planet_SUSE)
 
 
-  * [ openSUSE Forums](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#openSUSE_Forums)
+  * [ openSUSE Forums](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#openSUSE_Forums)
 
 
-  * [ On the Web](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#On_the_Web)
+  * [ On the Web](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#On_the_Web)
 
 
-  * [ Contact us](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Credits)
+  * [ Credits](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Credits)
 
 
-  * [ Translations](https://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Translations)
+  * [ Translations](http://news.opensuse.org/2010/06/26/opensuse-weekly-news-issue-129-is-out#Translations)
 
 
 
@@ -210,16 +213,16 @@ We're pleased to announce our brand new openSUSE Weekly News Issue 129!<!-- more
 <td style="margin: 0pt;" >
 
 
-####  [Michael Löffler: Let™s beat the drum for openSUSE conference 2010](http://lizards.opensuse.org/2010/06/23/lets-beat-the-drum-for-opensuse-conference-2010/)
+####  [Michael LÃ¶ffler: Letâ€™s beat the drum for openSUSE conference 2010](http://lizards.opensuse.org/2010/06/23/lets-beat-the-drum-for-opensuse-conference-2010/)
 
 
 
 
-"Robert and myself visited most open source projects attending LinuxTag 2 weeks ago and invited them to come to the openSUSE Conference “ be it as visitor, giving a presentation or doing a workshop. Feedback was all over the place positive. But feedback isn™t enough “ we™ll do some follow up to make some of them participate and all of us should now promote the openSUSE Conference where possible.  
+"Robert and myself visited most open source projects attending LinuxTag 2 weeks ago and invited them to come to the openSUSE Conference â€“ be it as visitor, giving a presentation or doing a workshop. Feedback was all over the place positive. But feedback isnâ€™t enough â€“ weâ€™ll do some follow up to make some of them participate and all of us should now promote the openSUSE Conference where possible.  
 
   
 
- Let™s spread the word about the openSUSE Conference and its motto Collaboration across borders, invite developers of other communities and other projects to join as a visitor or to give a presentation on a topic which affects all of us or lets do a workshop, hack session or just having fun. Call for papers is open till July 31 “ so now is the time to shape the conference. Send in our proposal or idea to cfp@opensuse.org." 
+ Letâ€™s spread the word about the openSUSE Conference and its motto â€œCollaboration across bordersâ€, invite developers of other communities and other projects to join as a visitor or to give a presentation on a topic which affects all of us or lets do a workshop, hack session or just having fun. Call for papers is open till July 31 â€“ so now is the time to shape the conference. Send in our proposal or idea to cfp@opensuse.org." 
 
 
 
@@ -464,7 +467,7 @@ Since I have now commit rights at the osc git repo: it should be in the next rel
 
 
 
-"Hi everyone! I worked on a few different things during the Novell/SUSE HackWeek. One of these things was continuing my Nautilus redesign that I (Garrett LeSage) started last year, continued with others (Allan Day, Hylke Bons, MáirÃ­n Duffy, etc.) at the London UX meeting and at LGM2010¦ and then further talked about on the Internet. During the HackWeek this month, I worked collaboratively with others (Allan, Hylke, Lapo Calamandrei, Andy Fitzsimon, and more) using Inkscape, Google Wave, Dropbox, IRC, and IM and we brainstormed on ways to improve Nautilus ” not just feature by feature, but how everything would work together." 
+"Hi everyone! I worked on a few different things during the Novell/SUSE HackWeek. One of these things was continuing my Nautilus redesign that I (Garrett LeSage) started last year, continued with others (Allan Day, Hylke Bons, MÃ¡irÃ­n Duffy, etc.) at the London UX meeting and at LGM2010â€¦ and then further talked about on the Internet. During the HackWeek this month, I worked collaboratively with others (Allan, Hylke, Lapo Calamandrei, Andy Fitzsimon, and more) using Inkscape, Google Wave, Dropbox, IRC, and IM and we brainstormed on ways to improve Nautilus â€” not just feature by feature, but how everything would work together." 
 
 
 
@@ -503,12 +506,12 @@ Since I have now commit rights at the osc git repo: it should be in the next rel
 
 
 
-####  [Sebastian Kügler (sebas): KMail™s Akonadi migration in openSUSE](http://vizzzion.org/blog/2010/06/kmails-akonadi-migration-in-opensuse/)
+####  [Sebastian KÃ¼gler (sebas): KMailâ€™s Akonadi migration in openSUSE](http://vizzzion.org/blog/2010/06/kmails-akonadi-migration-in-opensuse/)
 
 
 
 
-"In openSUSE™s KDE team, we™ve recently planned the migration to Akonadi, the groupware caching solution that will be the base of upcoming KDE PIM versions, notably KDE™s address book, email client and calendar app. With the release of KDE SC 4.4, we™ve seen the first component being ported to Akonadi, KAddressbook, spearheaded by its fearless maintainer Tobias König. In the KDE SC 4.5 cycle, we™re seeing more components in their first Akonadi-incarnation. As this means a big step for these applications, some attention needs to be paid to users who will, over the coming months, migrate to the Akonadi-based PIM components. The PIM team has decided to go with a stepped approach, and not introduce all applications in their Akonadi version at once. This is a sensible decision, as it allows you to learn from problems in the migration path, and fix these in the next wave of ports. PIM in SC 4.4 brought the address book migration, which wasn™t completely smooth from a user™s point of view. While in most cases, the fix was as easy as "point Akonadi to your contacts (or .vcf) file", we can (and will) do better with the migration of KMail. KMail2 (which is akonadi-based) will not arrive with 4.5.0, though, but is planned become part of the next monthly SC update, 4.5.1. This decision has been made by KDE™s PIM team in order to get a little more time to stabilise and test the release. This is also our first line of defense :-)" 
+"In openSUSEâ€™s KDE team, weâ€™ve recently planned the migration to Akonadi, the groupware caching solution that will be the base of upcoming KDE PIM versions, notably KDEâ€™s address book, email client and calendar app. With the release of KDE SC 4.4, weâ€™ve seen the first component being ported to Akonadi, KAddressbook, spearheaded by its fearless maintainer Tobias KÃ¶nig. In the KDE SC 4.5 cycle, weâ€™re seeing more components in their first Akonadi-incarnation. As this means a big step for these applications, some attention needs to be paid to users who will, over the coming months, migrate to the Akonadi-based PIM components. The PIM team has decided to go with a stepped approach, and not introduce all applications in their Akonadi version at once. This is a sensible decision, as it allows you to learn from problems in the migration path, and fix these in the next wave of ports. PIM in SC 4.4 brought the address book migration, which wasnâ€™t completely smooth from a userâ€™s point of view. While in most cases, the fix was as easy as "point Akonadi to your contacts (or .vcf) file", we can (and will) do better with the migration of KMail. KMail2 (which is akonadi-based) will not arrive with 4.5.0, though, but is planned become part of the next monthly SC update, 4.5.1. This decision has been made by KDEâ€™s PIM team in order to get a little more time to stabilise and test the release. This is also our first line of defense :-)" 
 
 
 
@@ -519,7 +522,7 @@ Since I have now commit rights at the osc git repo: it should be in the next rel
 
 
 
-"Meanwhile, I have sent my patch of the dashboard effect plugin to the KDE review board. Aaron Seigo and Martin Gräßlin (both KDE core devs) have given me valuable remarks for enhancing my code. Additionally, they proposed changes in what my plugin should actually do: It should come with fancy animations, but skip the configuration options for brightness and contrast. The reason is, that users would most probably not understand why the optical configuration of a Plasma view cannot be done in the Plasma settings but window effect settings. I can fully agree to this." 
+"Meanwhile, I have sent my patch of the dashboard effect plugin to the KDE review board. Aaron Seigo and Martin GrÃ¤ÃŸlin (both KDE core devs) have given me valuable remarks for enhancing my code. Additionally, they proposed changes in what my plugin should actually do: It should come with fancy animations, but skip the configuration options for brightness and contrast. The reason is, that users would most probably not understand why the optical configuration of a Plasma view cannot be done in the Plasma settings but window effect settings. I can fully agree to this." 
 
 
 
@@ -868,7 +871,7 @@ Since I have now commit rights at the osc git repo: it should be in the next rel
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 </td>
@@ -970,11 +973,11 @@ Since I have now commit rights at the osc git repo: it should be in the next rel
 
 
 
-"Today, nearly a year after launching SUSE Studio, we™re very excited and proud to announce the beta preview of SUSE Gallery, a new major addition to SUSE Studio.  
+"Today, nearly a year after launching SUSE Studio, weâ€™re very excited and proud to announce the beta preview of SUSE Gallery, a new major addition to SUSE Studio.  
 
   
 
- SUSE Gallery allows you to easily share your appliances with the Studio community, in a fully searchable directory of appliances. All signed in Studio users can rate and comment on appliances, and each appliance can be downloaded ” or even cloned from, to start your own custom version of that appliance." 
+ SUSE Gallery allows you to easily share your appliances with the Studio community, in a fully searchable directory of appliances. All signed in Studio users can rate and comment on appliances, and each appliance can be downloaded â€” or even cloned from, to start your own custom version of that appliance." 
 
 
 
@@ -1000,7 +1003,7 @@ Since I have now commit rights at the osc git repo: it should be in the next rel
 
   
 
- The week was fun. Learning new stuff, in this case Android, always helps me to see things different and somehow makes me appreciate other development platforms. Recalling Java was not that difficult. Honestly I thought Java had something new to offer to all developers, but it seems that Java hasn™t changed dramatically in years." 
+ The week was fun. Learning new stuff, in this case Android, always helps me to see things different and somehow makes me appreciate other development platforms. Recalling Java was not that difficult. Honestly I thought Java had something new to offer to all developers, but it seems that Java hasnâ€™t changed dramatically in years." 
 
 
 
@@ -1035,10 +1038,10 @@ Past:
 
 
 
-  * [**June 23, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**June 23, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**June 24, 2010: ï»¿openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**June 24, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
@@ -1047,13 +1050,13 @@ Upcoming:
 
 
 
-  * [** June 26, 2010: openSUSE Weekly News Team Meeting**](https://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/)
+  * [** June 26, 2010: openSUSE Weekly News Team Meeting**](http://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/)
 
 
-  * [** June 29, 2010: openSUSE Marketing IRC Meeting **](https://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
+  * [** June 29, 2010: openSUSE Marketing IRC Meeting **](http://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
 
 
-  * [** June 30, 2010: openSUSE Project Meeting**](https://news.opensuse.org/2010/02/09/opensuse-project-meeting-47/)
+  * [** June 30, 2010: openSUSE Project Meeting**](http://news.opensuse.org/2010/02/09/opensuse-project-meeting-47/)
 
 
 
@@ -1067,7 +1070,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
 
 
 
@@ -1245,7 +1248,7 @@ Upcoming:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1372,12 +1375,12 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Rares Aioanei “ Weekly Kernel Review (openSUSE Flavor)](http://lizards.opensuse.org/2010/06/26/guest-blog-rares-aioanei-weekly-kernel-review-opensuse-flavor-3/)
+####  [Rares Aioanei â€“ Weekly Kernel Review (openSUSE Flavor)](http://lizards.opensuse.org/2010/06/26/guest-blog-rares-aioanei-weekly-kernel-review-opensuse-flavor-3/)
 
 
 
 
-"Hi everyone, and welcome to this week™s edition! As usual, new commits, patches and fixes are waiting, so let™s dive in! (...)" 
+"Hi everyone, and welcome to this weekâ€™s edition! As usual, new commits, patches and fixes are waiting, so letâ€™s dive in! (...)" 
 
 
 
@@ -1432,7 +1435,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Whether you know it or not, there™s a good chance you™ve already used ImageMagick, at least if you™re a Linux user. It™s the image processor behind many graphics-related applications, and for good reason. With this one tool, you can perform dozens of common image manipulations and conversions from the command line or within a script/application. ImageMagick can convert, transform, draw, decorate, animate, and composite images. It can be used from the command line for quick needs or built into a more complex software suite. This guide will cover some of the most magical features of ImageMagick and provide examples of how to use it to solve everyday tasks." 
+"Whether you know it or not, thereâ€™s a good chance youâ€™ve already used ImageMagick, at least if youâ€™re a Linux user. Itâ€™s the image processor behind many graphics-related applications, and for good reason. With this one tool, you can perform dozens of common image manipulations and conversions from the command line or within a script/application. ImageMagick can convert, transform, draw, decorate, animate, and composite images. It can be used from the command line for quick needs or built into a more complex software suite. This guide will cover some of the most â€œmagicalâ€ features of ImageMagick and provide examples of how to use it to solve everyday tasks." 
 
 
 
@@ -1469,7 +1472,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Casual computer users often give little thought to fonts, but once you starting working on design ” from your web site to your stationary needs, you soon begin to appreciate the positive effects a good typeface can have on branding and marketing. The trouble comes when you start to collect more fonts on your system than you can keep track of in your head. Worse yet, most operating systems attempt to manage fonts for you in an all-or-nothing fashion, through which large collections can slow down application speed, in addition to being tiresome to scroll through. The solution is a good font manager, like the open source Fontmatrix." 
+"Casual computer users often give little thought to fonts, but once you starting working on design â€” from your web site to your stationary needs, you soon begin to appreciate the positive effects a good typeface can have on branding and marketing. The trouble comes when you start to collect more fonts on your system than you can keep track of in your head. Worse yet, most operating systems attempt to manage fonts for you in an all-or-nothing fashion, through which large collections can slow down application speed, in addition to being tiresome to scroll through. The solution is a good font manager, like the open source Fontmatrix." 
 
 
 
@@ -1484,7 +1487,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"I found a useful sound effect in an online video from NASA which replaces an earlier temporary sound I used in a scene soundtrack for the Lunatics pilot, No Children in Space. I™m going to extract the sound from the video (with VLC), cut out the sound I need, clean it up, and insert it into an existing sound mix (all with Audacity). This should give you some insight into using Audacity and a VLC on a real project." 
+"I found a useful sound effect in an online video from NASA which replaces an earlier temporary sound I used in a scene soundtrack for the Lunatics pilot, â€œNo Children in Space.â€ Iâ€™m going to extract the sound from the video (with VLC), cut out the sound I need, clean it up, and insert it into an existing sound mix (all with Audacity). This should give you some insight into using Audacity and a VLC on a real project." 
 
 
 
@@ -1523,7 +1526,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"With dnsmasq, it™s easy to look up a whole domain using a special dns server. The option is 
+"With dnsmasq, itâ€™s easy to look up a whole domain using a special dns server. The option is 
 
 
 --server=/foo.corp/10.11.12.13"  
@@ -1560,7 +1563,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"In the [MySQL Data Manipulation and Query Statements](http://www.databasejournal.com/features/mysql/article.php/3884346/article.html) article, we looked at two variations of the INSERT INTO statement. If you recall, we utilized the INSERT statement to populate tables, rather than the Data Manipulation Language (DML) SELECT...INTO command, which is unsupported in MySQL. However, MySQL does provide the INSERT...SELECT statement. This, and other variations of the INSERT statement will be the topic of today™s article." 
+"In the [MySQL Data Manipulation and Query Statements](http://www.databasejournal.com/features/mysql/article.php/3884346/article.html) article, we looked at two variations of the INSERT INTO statement. If you recall, we utilized the INSERT statement to populate tables, rather than the Data Manipulation Language (DML) SELECT...INTO command, which is unsupported in MySQL. However, MySQL does provide the INSERT...SELECT statement. This, and other variations of the INSERT statement will be the topic of todayâ€™s article." 
 
 
 
@@ -1609,7 +1612,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"At work we use git, and I often want to cherry pick a series of commits from a development branch, but don™t want to merge the whole branch for whatever reason. I put out a call on Twitter for ideas, and got a handful of good ones back. ..." 
+"At work we use git, and I often want to cherry pick a series of commits from a development branch, but donâ€™t want to merge the whole branch for whatever reason. I put out a call on Twitter for ideas, and got a handful of good ones back. ..." 
 
 
 
@@ -1692,7 +1695,7 @@ instead of
 
 
 
-####  [Dominique Leuenberger: VLC 1.1.0 The Luggage went gold / openSUSE repositories updated](http://dominique.leuenberger.net/blog/?p=96)
+####  [Dominique Leuenberger: VLC 1.1.0 â€œThe Luggageâ€ went gold / openSUSE repositories updated](http://dominique.leuenberger.net/blog/?p=96)
 
 
 
@@ -1703,12 +1706,12 @@ instead of
 
 
 
-####  [Rares Aioanei “ PostgreSQL Review (openSUSE Flavor)](http://lizards.opensuse.org/2010/06/26/guest-blog-rares-aioanei-postgresql-review-opensuse-flavor/)
+####  [Rares Aioanei â€“ PostgreSQL Review (openSUSE Flavor)](http://lizards.opensuse.org/2010/06/26/guest-blog-rares-aioanei-postgresql-review-opensuse-flavor/)
 
 
 
 
-"Hi all, and welcome! Let™s see what™s new in the PostgreSQL world this week¦ (...)" 
+"Hi all, and welcome! Letâ€™s see whatâ€™s new in the PostgreSQL world this weekâ€¦ (...)" 
 
 
 
@@ -1843,7 +1846,7 @@ instead of
 
 
 
-"With 57 percent (4,501) of the vote, the winner of the Linux.com T-Shirt Design Contest is "The People's Product", designed by Mr. Said Hassan who is a marketing consultant as SADAF Information Technology in Gaza in Palestine. "This design represents that the Linux system is the collective work of people and it was done so that others can enjoy a reliable, suitable operating system away from a monopoly. So, it™s like a celebration of our efforts: Linux is our product." 
+"With 57 percent (4,501) of the vote, the winner of the Linux.com T-Shirt Design Contest is "The People's Product", designed by Mr. Said Hassan who is a marketing consultant as SADAF Information Technology in Gaza in Palestine. "This design represents that the Linux system is the collective work of people and it was done so that others can enjoy a reliable, suitable operating system away from a monopoly. So, itâ€™s like a celebration of our efforts: Linux is our product.â€" 
 
 
 
@@ -1902,7 +1905,7 @@ instead of
 
 
 
-"Today is one of those days that has my heart racing; we™ve just released the source code for Android 2.2. This is a big step forward for the entire Android ecosystem. Please don™t melt the servers down again while trying to download that latest source code." 
+"Today is one of those days that has my heart racing; weâ€™ve just released the source code for Android 2.2. This is a big step forward for the entire Android ecosystem. Please donâ€™t melt the servers down again while trying to download that latest source code." 
 
 
 
@@ -1961,21 +1964,21 @@ instead of
 
 
 
-"UPDATE 6/19/10: Lisa Hoover tweeted at me earlier this week ¦ Consider the source before you believe this crap. I do plan to keep an eye on freshmeat; I sure hope she™s right. MM  
+"UPDATE 6/19/10: Lisa Hoover tweeted at me earlier this week â€œâ€¦ Consider the source before you believe this crap.â€ I do plan to keep an eye on freshmeat; I sure hope sheâ€™s right. MM  
 
   
 
- Robin Roblimo Miller reported this weekend that the future looked bad for pioneering free software repository freshmeat.net.  
+ Robin â€œRoblimoâ€ Miller reported this weekend that the future looked bad for pioneering free software repository freshmeat.net.  
 
   
 
- Geek.net, the parent company of SourceForge.net, Slashdot.org, ThinkGeek.com, Geek.com, freshmeat.net, and ohloh.net, has told employees that it will be closing freshmeat.net and ohloh.net. This information has not yet been released to the public, but we™ve heard it from more than one Geek.net employee." 
+ Geek.net, the parent company of SourceForge.net, Slashdot.org, ThinkGeek.com, Geek.com, freshmeat.net, and ohloh.net, has told employees that it will be closing freshmeat.net and ohloh.net. This information has not yet been released to the public, but weâ€™ve heard it from more than one Geek.net employee." 
 
 
 
 
 
-####  [David Hubner (hubner): KInfoCenter “ UI Changes](http://hubnerd.wordpress.com/2010/06/23/kinfocenter-ui-changes-2/)
+####  [David Hubner (hubner): KInfoCenter â€“ UI Changes](http://hubnerd.wordpress.com/2010/06/23/kinfocenter-ui-changes-2/)
 
 
 
@@ -1995,7 +1998,7 @@ instead of
 
   
 
- Brief intro: I™m working on implementing automatic tagging of faces for digiKam, with face detection and recognition. For that, I™ve been working on a library named libface that does the detection and training/recognition.  
+ Brief intro: Iâ€™m working on implementing automatic tagging of faces for digiKam, with face detection and recognition. For that, Iâ€™ve been working on a library named libface that does the detection and training/recognition.  
 
   
 
@@ -2045,11 +2048,11 @@ instead of
 
 
 
-"A little over a month ago we released the Linux port of Osmos, promising statistics on our sales and downloads. We wanted to find out - from a financial perspective, for our studio - is it worth porting games to Linux?  
+"A little over a month ago we released the Linux port of Osmos, promising statistics on our sales and downloads. We wanted to find out - from a financial perspective, for our studio - â€œis it worth porting games to Linux?â€  
 
   
 
- The short, simple answer¦ is yes." 
+ The short, simple answerâ€¦ is â€œyes.â€" 
 
 
 
@@ -2099,7 +2102,7 @@ instead of
 <td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://wiki.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://wiki.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/p=3627) and let us know!  
+<td style="margin: 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/p=3627) and let us know!  
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://wiki.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
@@ -2108,7 +2111,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
   
 
-[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -2153,7 +2156,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://wiki.opensuse.org/User:Saigkill) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Saigkill&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 
   * [HeliosReds](http://wiki.opensuse.org/User:HeliosReds) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -2162,7 +2165,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://wiki.opensuse.org/User:Caf4926) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 
   * add translators 
@@ -2228,7 +2231,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/129)
 
 
-  * [æ—¥ æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/129)
+  * [æ—¥ æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/129)
 
 
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/129)
@@ -2267,4 +2270,3 @@ Delayed / to be translated:
 </table>
   
 
-		

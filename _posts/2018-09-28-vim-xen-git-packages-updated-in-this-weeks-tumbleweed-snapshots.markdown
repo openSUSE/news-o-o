@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-09-28 09:36:34+00:00
 layout: post
 link: https://news.opensuse.org/2018/09/28/vim-xen-git-packages-updated-in-this-weeks-tumbleweed-snapshots/
-title: "VIM, Xen, Git Packages Updated in This Week's Tumbleweed Snapshots\
-  "
+slug: vim-xen-git-packages-updated-in-this-weeks-tumbleweed-snapshots
+title: VIM, Xen, Git Packages Updated in This Week's Tumbleweed Snapshots
+wordpress_id: 21292
 categories:
 - Announcements
 - Distribution
@@ -38,7 +40,8 @@ tags:
 - Xen
 - xml
 ---
-![]({{ site.baseurl }}/assets/release-is-coming-black-260x300.png)There were a total of four [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week that updated packages like [VIM](https://www.vim.org/), [Xen](https://www.xenproject.org/), [Git](https://blog.github.com/2018-09-10-highlights-from-git-2-19/) and [ImageMagick](https://www.imagemagick.org/).
+
+![](/wp-content/uploads/2017/09/release-is-coming-black.png)There were a total of four [openSUSE](https://www.opensuse.org/) [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) snapshots this week that updated packages like [VIM](https://www.vim.org/), [Xen](https://www.xenproject.org/), [Git](https://blog.github.com/2018-09-10-highlights-from-git-2-19/) and [ImageMagick](https://www.imagemagick.org/).
 
 The latest snapshot, [20180925](https://lists.opensuse.org/opensuse-factory/2018-09/msg00206.html), updated three packages. All the packages updated in this snapshot were zero dot packages. The updated packages were obs-service-set_version 0.5.10, purple-carbons 0.1.6 and shotwell 0.30.0. The obs-service-set_version 0.5.10 version fixed a zip file crash associated with [python](https://www.python.org). The version change regarding purple-carbons 0.1.6 was basically cleaning up the code. The [shotwell 0.30.0](https://wiki.gnome.org/Apps/Shotwell) package updated translations and fixed random segfaults in [GNOME](https://www.gnome.org/) settings.
 
@@ -50,4 +53,4 @@ The Tumbleweed snapshot that had the most packages updated in the week was snaps
 
 All snapshots are rated as stable with a rating of 93 or above according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/).
 
-In other Tumbleweed new this past week, Tumbleweed Snapshots, fixed repositories containing previously released versions of Tumbleweed, are now officially hosted on [download.opensuse.org](http://download.opensuse.org/), according to [an email on the factory mailing list](https://lists.opensuse.org/opensuse-factory/2018-09/msg00075.html).		
+In other Tumbleweed new this past week, Tumbleweed Snapshots, fixed repositories containing previously released versions of Tumbleweed, are now officially hosted on [download.opensuse.org](http://download.opensuse.org/), according to [an email on the factory mailing list](https://lists.opensuse.org/opensuse-factory/2018-09/msg00075.html).

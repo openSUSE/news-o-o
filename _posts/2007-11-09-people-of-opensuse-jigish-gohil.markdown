@@ -1,28 +1,119 @@
 ---
 author: News Team
+comments: true
 date: 2007-11-09 22:30:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2007/11/09/people-of-opensuse-jigish-gohil/
-title: "People of openSUSE: Jigish Gohil"
+slug: people-of-opensuse-jigish-gohil
+title: 'People of openSUSE: Jigish Gohil'
+wordpress_id: 511
 categories:
 - People of openSUSE
 ---
-We caught up with Jigish Gohil - a Compiz Fusion developer, openSUSE packager, and also a true openSUSE evangelist, for one more ˜People of openSUSE™ interview.
+
+We caught up with Jigish Gohil - a Compiz Fusion developer, openSUSE packager, and also a true openSUSE evangelist, for one more â€˜People of openSUSEâ€™ interview.
 
 <!-- more -->
+<table border="0" >
+<tr >
+
+<td >
 
 
-![]({{ site.baseurl }}/assets/jigish_gohil.jpg)
-|||
-|--- |--- |
-|**Nickname:**|CyberOrg|
-|**Homepage:**|[http://www.cyberorg.info](http://www.cyberorg.info/)|
-|**Blog:**|[http://newnirvana.blogspot.com/](http://newnirvana.blogspot.com/) and [http://dev.compiz-fusion.org/~cyberorg/](http://dev.compiz-fusion.org/%7Ecyberorg/)|
-|||
-|**Favorite season:**|Anything but summer, they are too hot here :)|
-|**Motto:**|Do good.|
-|||
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![](//news.opensuse.org/wp-content/uploads/2007/11/jigish_gohil.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nickname:**
+</td>
+
+<td >CyberOrg
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://www.cyberorg.info](http://www.cyberorg.info/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[http://newnirvana.blogspot.com/](http://newnirvana.blogspot.com/) and [http://dev.compiz-fusion.org/~cyberorg/](http://dev.compiz-fusion.org/%7Ecyberorg/)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >Anything but summer, they are too hot here :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Do good.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
+
 
 
 
@@ -221,7 +312,7 @@ Any programming skills.
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Happens all the time here :) . Go away for a week enjoying all the other good things in life.
@@ -291,7 +382,7 @@ At the beach :-)
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Open a research center where people would work on making everyone's life better and an art center where artists from all over the world can come and work on whatever that interest them. Both the places would be by cleanest piece of beach that budget allows. India is not very expensive.
@@ -301,7 +392,7 @@ Open a research center where people would work on making everyone's life better 
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Hope it is time and space both. I'd keep traveling all the time, it would difficult to find me in one time, now is the best time to meet me.
@@ -367,5 +458,7 @@ The first introduction one.
 
 
 Q. Some words for new users or those thinking about being part of the openSUSE community.
-A. Stick with the distro for long enough to know it better, help where you can, have patience, have a lot of fun while you explore. In return you get interviewed and a [box shipped for free](https://news.opensuse.org/?p=493).
+A. Stick with the distro for long enough to know it better, help where you can, have patience, have a lot of fun while you explore. In return you get interviewed and a [box shipped for free](//news.opensuse.org/?p=493).
 
+
+The most common concentrations are mental health, families and children, gerontology and [MidnightPapers](https://midnightpapers.com/) aging, communities, corporations, military, and healthcare

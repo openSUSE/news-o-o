@@ -1,10 +1,12 @@
 ---
-author: Gerry Makaro
+author: Fraser Bell
+comments: true
 date: 2019-02-05 01:17:11+00:00
 layout: post
 link: https://news.opensuse.org/2019/02/05/voting-gets-underway-for-the-2018-2019-opensuse-board-elections/
-title: "Voting Gets Underway for the 2018-2019 openSUSE Board Elections\
-  "
+slug: voting-gets-underway-for-the-2018-2019-opensuse-board-elections
+title: Voting Gets Underway for the 2018-2019 openSUSE Board Elections
+wordpress_id: 21669
 categories:
 - Announcements
 - Board
@@ -21,7 +23,6 @@ tags:
 - openSUSE Board Elections
 ---
 
-
 # Cast Your Votes!
 
 
@@ -30,7 +31,7 @@ tags:
 ## _**We have done our part:  Now, You do Yours!**_
 
 
-({{ site.baseurl }}/assets/2.png) _**2018-2019 Election Poster contributed by Aris Winardi**_
+[caption id="attachment_21677" align="aligncenter" width="650"][![](/wp-content/uploads/2019/02/2.png)](/wp-content/uploads/2019/02/2.png) _**2018-2019 Election Poster contributed by Aris Winardi**_[/caption]
 
 The ballots are out and the 2-week voting process to choose three [Board Members](https://en.opensuse.org/openSUSE:Board) in the [2018-2019 openSUSE Board Elections](https://en.opensuse.org/openSUSE:Board_election) now gets underway, with a total of seven top quality Candidates running.
 
@@ -40,5 +41,3 @@ Members may vote for up to three out of the seven candidates whose biographies w
 
 
 You can find out more about the [**Elections at the Official Wiki Page**.](https://en.opensuse.org/openSUSE:Board_election)
-
-		

@@ -1,14 +1,17 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-02-07 21:13:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/02/07/heat-up-our-servers-12-3-rc1-is-ready-to-download/
-title: "Heat Up Our Servers: 12.3 RC1 Is Ready To Download"
+slug: heat-up-our-servers-12-3-rc1-is-ready-to-download
+title: 'Heat Up Our Servers: 12.3 RC1 Is Ready To Download'
+wordpress_id: 15165
 categories:
 - Announcements
 - Distribution
 ---
+
 ![release counter](http://counter.opensuse.org/medium.png)As winter refuses to relax its icy grasp on the northern hemisphere, the openSUSE project would like to announce the first release candidate of version 12.3 of its popular Linux distribution. Major updates include the desktop environment KDE to version 4.10, GNOME 3.6 and kernel 3.7.6. Help to iron out the last few bugs before the final release by downloading RC1 from [software.opensuse.org](http://software.opensuse.org/developer).
 
 
@@ -102,4 +105,4 @@ You can also find social media backgrounds for g+, twitter and facebook [here](h
 
 openSUSE would like to shout out to [OortLinux](http://www.youtube.com/user/OortLinux) for letting us use their video for the KDE first login greeter. Thanks!
 
-We'd of course also would like to extend our gratitude to our regular contributor base who contributed to making openSUSE: the packagers, translators, document authors and everyone else.		
+We'd of course also would like to extend our gratitude to our regular contributor base who contributed to making openSUSE: the packagers, translators, document authors and everyone else.

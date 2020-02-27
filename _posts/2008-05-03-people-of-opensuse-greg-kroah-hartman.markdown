@@ -1,27 +1,118 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-03 14:12:15+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/03/people-of-opensuse-greg-kroah-hartman/
-title: "People of openSUSE: Greg Kroah-Hartman"
+slug: people-of-opensuse-greg-kroah-hartman
+title: 'People of openSUSE: Greg Kroah-Hartman'
+wordpress_id: 744
 categories:
 - People of openSUSE
 ---
+
 This weekend 'People of openSUSE' brings to light long time Kernel hacker and Novell employee Greg Kroah-Hartman interview. Greg KH today's working full time on [Linux Driver Project](http://www.linuxdriverproject.org) is the current maintainer of the Kernel package for openSUSE 11.0.
 
 <!-- more -->
+<table border="0" >
+<tr >
 
-![greg_kroah-hartman.jpg]({{ site.baseurl }}/assets/greg_kroah-hartman.jpg)
-|||
-|--- |--- |
-|**Nicknames:**|gregkh and Greg K-H|
-|**Homepage:**|[www.kroah.com](http://www.kroah.com)|
-|**Blog:**|[www.kroah.com/log](http://www.kroah.com/log)|
-|||
-|**Favorite season:**|No real preference, sorry.|
-|**Motto:**|"Shut up and code" is something I keep reminding myself to help prevent me getting drug into foolish arguments on mailing lists :)|
-|||
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >![greg_kroah-hartman.jpg](/wp-content/uploads/2008/04/greg_kroah-hartman.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >gregkh and Greg K-H
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[www.kroah.com](http://www.kroah.com)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[www.kroah.com/log](http://www.kroah.com/log)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >No real preference, sorry.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >"Shut up and code" is something I keep reminding myself to help prevent me getting drug into foolish arguments on mailing lists :)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+</td>
+</tr>
+</table>
+
 
 
 
@@ -229,7 +320,7 @@ A better electrical engineering background would be nice to have at times. I can
 
 
 
-#### The Internet crashes for a whole week ” how would you feel, what would you do?
+#### The Internet crashes for a whole week â€” how would you feel, what would you do?
 
 
 Great! I could finally catch up on my huge backlog of email and get some coding done.
@@ -269,7 +360,7 @@ With family, away from the computer.
 
 
 
-#### Someone gives you $1.000.000 ” what would you do with the money?
+#### Someone gives you $1.000.000 â€” what would you do with the money?
 
 
 Invest it in a tool to keep foolish questions that will never happen from showing up on interviews :)
@@ -279,7 +370,7 @@ Invest it in a tool to keep foolish questions that will never happen from showin
 
 
 
-#### If traveling through time was possible ” when would we be most likely to meet you?
+#### If traveling through time was possible â€” when would we be most likely to meet you?
 
 
 Yesterday.
@@ -289,7 +380,7 @@ Yesterday.
 
 
 
-#### There's a thunderstorm outside ” do you turn off your computer?
+#### There's a thunderstorm outside â€” do you turn off your computer?
 
 
 No, why? Growing up in the lightening capital of the country, makes little things like thunderstorms a non-event.
@@ -336,5 +427,3 @@ What is the one thing that users could do to make the Linux kernel a better thin
 
 Report any problems to the developers, don't rant about them on a random mailing list or forum.  The Linux kernel developers are easy to access and want to know when you have problems with their code.  Let them know, otherwise it will never get better.
 
-
-		

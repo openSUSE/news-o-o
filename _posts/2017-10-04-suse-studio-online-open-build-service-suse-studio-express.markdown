@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2017-10-04 10:36:28+00:00
-
 layout: post
 link: https://news.opensuse.org/2017/10/04/suse-studio-online-open-build-service-suse-studio-express/
-title: "SUSE Studio online + Open Build Service = SUSE Studio Express"
+slug: suse-studio-online-open-build-service-suse-studio-express
+title: SUSE Studio online + Open Build Service = SUSE Studio Express
+wordpress_id: 20566
 categories:
 - Announcements
 - Build Service
@@ -22,13 +24,12 @@ tags:
 - SUSE Studio Express
 ---
 
-
 ## Merging SUSE Studio and Open Build Service
 
 
 [Written by Andreas Jaeger](https://www.suse.com/communities/blog/suse-studio-online-open-build-service-suse-studio-express/)
 
-![](https://www.suse.com/communities/blog/files/2017/09/dister-mechanic-150x150.png)[SUSE Studio](https://susestudio.com/) was launched in 2009 to make building images really easy. Nowadays, images are used everywhere – for public cloud you need images; container images are used to have small and movable workloads, and data center operators use golden images to start their workloads.
+![](https://www.suse.com/communities/blog/files/2017/09/dister-mechanic.png)[SUSE Studio](https://susestudio.com/) was launched in 2009 to make building images really easy. Nowadays, images are used everywhere – for public cloud you need images; container images are used to have small and movable workloads, and data center operators use golden images to start their workloads.
 
 ![](https://www.suse.com/communities/blog/files/2017/09/obs-logo.png)As you may be aware, we have an [Open Build Service](https://build.opensuse.org/) (OBS) tool that helps you to build packages to deliver complete distributions. In the last few years, we have been updating this tool and it now can handle any kind of image.
 
@@ -72,4 +73,4 @@ The development of SUSE Studio Express is on-going and the team will continue to
 ## SUSE Studio Onsite Product
 
 
-For our users of our product SUSE Studio Onsite, we will continue to support you with our installation and plan a way to migrate to the new OBS based Studio. More details about this at a later time.		
+For our users of our product SUSE Studio Onsite, we will continue to support you with our installation and plan a way to migrate to the new OBS based Studio. More details about this at a later time.

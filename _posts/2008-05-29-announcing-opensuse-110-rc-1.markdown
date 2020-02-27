@@ -1,10 +1,12 @@
 ---
 author: News Team
+comments: true
 date: 2008-05-29 22:11:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2008/05/29/announcing-opensuse-110-rc-1/
-title: "Announcing openSUSE 11.0 RC 1"
+slug: announcing-opensuse-110-rc-1
+title: Announcing openSUSE 11.0 RC 1
+wordpress_id: 788
 categories:
 - Announcements
 - Distribution
@@ -13,9 +15,10 @@ tags:
 - rc
 - testing
 ---
+
 The openSUSE Project is proud to announce the openSUSE 11.0 Release Candidate 1 (RC1). The good news is that we're closing in on the final release of 11.0, but it's not time to relax just yet. We're getting really close, so we need all hands on deck to help test this release candidate. Since beta 3 we've fixed 578 bugs and resolved 1,118 bugs! Read on to see how you can help get 11.0 into top shape.
 
-[![11.0]({{ site.baseurl }}/assets/110-thumb.jpeg)]({{ site.baseurl }}/assets/110.jpeg)[![YaST Software Management]({{ site.baseurl }}/assets/yast-sm-thumb.jpeg)]({{ site.baseurl }}/assets/yast-sm.jpeg)[![GNOME]({{ site.baseurl }}/assets/os110beta1-gnome0-thumb.jpg)]({{ site.baseurl }}/assets/os110beta1-gnome0.png)
+[![11.0](/wp-content/uploads/2008/05/110.jpeg)](/wp-content/uploads/2008/05/110.jpeg)[![YaST Software Management](/wp-content/uploads/2008/05/yast-sm.jpeg)](/wp-content/uploads/2008/05/yast-sm.jpeg)[![GNOME](/wp-content/uploads/2008/05/os110beta1-gnome0.png)](/wp-content/uploads/2008/05/os110beta1-gnome0.png)
 
 See [more](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta3) [screenshots](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta2)
 
@@ -96,4 +99,4 @@ Here's a few ways to help:
   * **Let the world know!** Be sure to spread the word about openSUSE 11.0! Blog about it, tell your Linux User Group, start planning a [Launch Party](http://en.opensuse.org/OpenSUSE_11.0_Launch_Party_Locations) -- whatever you can do to let the world know about openSUSE 11.0!
 
 
-Thanks to all the developers and contributors for all the hard work that's gone into openSUSE 11.0 so far, we've come a long way and only have a little more work to do before we have a final release. Fire up openSUSE 11.0 RC 1 and have a lot of fun!		
+Thanks to all the developers and contributors for all the hard work that's gone into openSUSE 11.0 so far, we've come a long way and only have a little more work to do before we have a final release. Fire up openSUSE 11.0 RC 1 and have a lot of fun!

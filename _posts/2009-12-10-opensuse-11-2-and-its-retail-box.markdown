@@ -1,16 +1,19 @@
 ---
 author: News Team
+comments: true
 date: 2009-12-10 09:16:42+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/12/10/opensuse-11-2-and-its-retail-box/
-title: "openSUSE 11.2 and its retail box"
+slug: opensuse-11-2-and-its-retail-box
+title: openSUSE 11.2 and its retail box
+wordpress_id: 2612
 categories:
 - Announcements
 - Distribution
 tags:
 - '11.2'
 ---
+
 Retail versions of openSUSE 11.2 are once again available. For the first time, the retail box is being handled by a partner, [open-slx](http://open-slx.com/).
 
 open-slx is founded and lead by Stefan Werden, a former SUSE employee who approached Novell this summer and proposed to take on the retail box distribution in the future. After some negotiation Stefan signed a contract with Novell and is now allowed to pursue theÂ  retail box on his own. With openSUSE 11.2 open-slx's main goal is to keep the retail box alive and improve sales of openSUSE in the retail market.
@@ -21,4 +24,4 @@ The retail box has been modified to match the required shelf format. You'll noti
 
 Currently the retail box is on [sale](http://en.opensuse.org/Buy_openSUSE) in some EMEA retail shops (mostly in Germany, Switzerland and Austria), plus [SUSEshop.de](http://www.suseshop.de/) and on Sale at [Amazon UK](http://tinyurl.com/yjghcr6). Open-slx is working to set up a web shop for North America as well but is still facing some challenges -- mainly because the company does this task out of Germany and is not an US entity.
 
-In addition to selling the retail box, open-slx is supporting the openSUSE community by paying [Rupert Horstkoetter ](http://en.opensuse.org/User:Rhorstkoetter)to help improve the openSUSE wiki and forums. We're glad to have a community focused company embracing openSUSE and providing continuity to openSUSE in the retail market.		
+In addition to selling the retail box, open-slx is supporting the openSUSE community by paying [Rupert Horstkoetter ](http://en.opensuse.org/User:Rhorstkoetter)to help improve the openSUSE wiki and forums. We're glad to have a community focused company embracing openSUSE and providing continuity to openSUSE in the retail market.

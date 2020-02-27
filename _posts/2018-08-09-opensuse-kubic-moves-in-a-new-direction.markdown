@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-08-09 08:07:31+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/08/09/opensuse-kubic-moves-in-a-new-direction/
-title: "openSUSE Kubic Moves in a New Direction"
+slug: opensuse-kubic-moves-in-a-new-direction
+title: openSUSE Kubic Moves in a New Direction
+wordpress_id: 20964
 categories:
 - Announcements
 - Build Service
@@ -37,7 +39,8 @@ tags:
 - Tumbleweed
 - Velum
 ---
-![]({{ site.baseurl }}/assets/Kubic_logo_official-227x300.png)Dear Community,
+
+![](/wp-content/uploads/2018/05/Kubic_logo_official.png)Dear Community,
 
 It has been more than a year since the [openSUSE](https://www.opensuse.org/) community started the [Kubic Project](https://kubic.opensuse.org/), and it's worth looking back over the last months and evaluating where we've succeeded, where we haven't, and share with you all our plans for the future.
 
@@ -139,4 +142,4 @@ We're really excited to be taking Kubic in this new direction and hope the wider
 
 Thanks, and Have a lot of fun!
 
-![]({{ site.baseurl }}/assets/kubic-screenshot.png)		
+![](/wp-content/uploads/2018/08/kubic-screenshot.png)

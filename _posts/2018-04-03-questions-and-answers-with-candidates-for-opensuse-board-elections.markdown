@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-04-03 07:41:26+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/04/03/questions-and-answers-with-candidates-for-opensuse-board-elections/
-title: "Questions and Answers With Candidates for openSUSE Board Elections\
-  "
+slug: questions-and-answers-with-candidates-for-opensuse-board-elections
+title: Questions and Answers With Candidates for openSUSE Board Elections
+wordpress_id: 20782
 categories:
 - Announcements
 - Board
@@ -18,7 +19,8 @@ tags:
 - platform
 - questions and answers
 ---
-![]({{ site.baseurl }}/assets/openSUSE-Board-elections-4-212x300.jpg)Elections for the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) have been postponed until mid-April. Until then, the community can familiarize themselves with the [candidates](https://lists.opensuse.org/opensuse-project/2018-03/msg00013.html) who are running for three available seats on the board.
+
+![](/wp-content/uploads/2018/04/openSUSE-Board-elections-4.jpg)Elections for the [openSUSE Board](https://en.opensuse.org/openSUSE:Board) have been postponed until mid-April. Until then, the community can familiarize themselves with the [candidates](https://lists.opensuse.org/opensuse-project/2018-03/msg00013.html) who are running for three available seats on the board.
 
 openSUSE Community Members can engage with the [candidates](https://lists.opensuse.org/opensuse-project/2018-03/msg00013.html) directly or on the [openSUSE-project mailing list](https://lists.opensuse.org/opensuse-project/) if they have specific questions for a [candidate](https://lists.opensuse.org/opensuse-project/2018-03/msg00013.html)(s).
 
@@ -223,4 +225,4 @@ My philosophy: “REAL OPPORTUNITIES ONLY COME ONCE, THE LIFE IS ABOUT PEOPLE YO
 
 ########
 
-The ballots are expected to open from April 15 to April 27. Members of the openSUSE Community can cast their vote for the candidates during that time frame. The [voting process](https://en.opensuse.org/openSUSE:Membership_officials#Process) is explained on the openSUSE wiki.		
+The ballots are expected to open from April 15 to April 27. Members of the openSUSE Community can cast their vote for the candidates during that time frame. The [voting process](https://en.opensuse.org/openSUSE:Membership_officials#Process) is explained on the openSUSE wiki.

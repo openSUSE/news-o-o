@@ -1,13 +1,16 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-03-24 12:40:44+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/03/24/19131/
-title: "Where are you staying for oSC15?"
+slug: '19131'
+title: Where are you staying for oSC15?
+wordpress_id: 19131
 categories:
 - Conference
 ---
+
 ![](https://events.opensuse.org/system/lodgings/photos/000/000/030/large/8072235416_946d0e43ea_k.jpg?1423575936)
 
 For those of you attending the openSUSE Conference in The Hague, we recommend these affordable lodging accommodations for your visit.
@@ -27,4 +30,4 @@ Single rooms with breakfast are 95 € per night
 #### Sleepover
 
 
-There is also a sleepover in one of the sport halls at the venue. For 12.50€,  you get a bed, blanket and access to a shower. You can reserve your place during our registration process. This offer is limited to 50 people, so its is on a first come, first serve basis.		
+There is also a sleepover in one of the sport halls at the venue. For 12.50€,  you get a bed, blanket and access to a shower. You can reserve your place during our registration process. This offer is limited to 50 people, so its is on a first come, first serve basis.

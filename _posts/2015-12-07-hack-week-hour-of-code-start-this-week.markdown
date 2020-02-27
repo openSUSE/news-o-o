@@ -1,10 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-12-07 09:46:52+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/12/07/hack-week-hour-of-code-start-this-week/
-title: "Hack Week, Hour of Code start this week"
+slug: hack-week-hour-of-code-start-this-week
+title: Hack Week, Hour of Code start this week
+wordpress_id: 19652
 categories:
 - Events
 - Hack Week
@@ -15,6 +17,7 @@ tags:
 - opensuse
 - Star Wars
 ---
+
 
 
 Today is the beginning of two week-long events that are both exciting and serve a great purpose.
@@ -29,4 +32,4 @@ One project is even doing some [KDE bugzilla cleanup](https://hackweek.suse.com/
 
 Coding is important, but so is documentation. One [Hack Week project](https://hackweek.suse.com/13/projects/1248) is also dedicated to reinforcing this point. There are a list of pages on a [Mozilla etherpad](https://public.etherpad-mozilla.org/p/opensuse_wiki) for the [openSUSE wiki](https://en.opensuse.org/) that need to be refreshed and refined.
 
-Join us this week for some hacking and use the [Hack Week](https://hackweek.suse.com/) website and [IRC](https://webchat.freenode.net/?channels=opensuse-project) for communicating.		
+Join us this week for some hacking and use the [Hack Week](https://hackweek.suse.com/) website and [IRC](https://webchat.freenode.net/?channels=opensuse-project) for communicating.

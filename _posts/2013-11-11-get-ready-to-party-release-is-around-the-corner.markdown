@@ -1,15 +1,18 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-11-11 12:00:04+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/11/11/get-ready-to-party-release-is-around-the-corner/
-title: "Get Ready to Party: Release is Around the Corner!"
+slug: get-ready-to-party-release-is-around-the-corner
+title: 'Get Ready to Party: Release is Around the Corner!'
+wordpress_id: 16826
 categories:
 - Distribution
 - Project
 ---
-[![release is coming]({{ site.baseurl }}/assets/release-is-coming-header-300x160.png)](http://www.opensuse.org/Portal:13.1)In just a little over a week, openSUSE 13.1 will be released! As we've all put in serious work to make this happen, it is certainly a good cause for celebration. Time to organize Launch Parties!
+
+[![release is coming](//news.opensuse.org/wp-content/uploads/2013/03/release-is-coming-header.png)](http://www.opensuse.org/Portal:13.1)In just a little over a week, openSUSE 13.1 will be released! As we've all put in serious work to make this happen, it is certainly a good cause for celebration. Time to organize Launch Parties!
 
 
 ## Launch Parties
@@ -18,7 +21,7 @@ categories:
 A launch parties are to celebrate an openSUSE release. To start with the celebration part, as we all enjoy hanging out with fellow geekos, just having a space where you can talk and perhaps drink a beverage of choice should do the trick just fine. Of course, conversation starts easier if there is a subject to discuss - and that is where the release comes in! By the time the release is out, there is plenty of information on the [openSUSE 13.1 Portal page](https://www.opensuse.org/Portal:13.1) that can be discussed.
 
 Release parties are part of openSUSE. That means: they should be open, cool and featuring lots of fun! That doesn't mean just following a '_code of conduct_', no, it means **going out to people and being inviting**! We're all geekos, we're all the same and we're in this together, so we're all responsible for each others fun.
-![Party time]({{ site.baseurl }}/assets/9317761281_0ec2cf6422_b-300x200.jpg)
+![Party time](//news.opensuse.org/wp-content/uploads/2013/07/9317761281_0ec2cf6422_b.jpg)
 
 
 ## Organizing
@@ -42,5 +45,3 @@ If you want to party on the release date, consider joining our [G+ release day h
 
 
 # Have a lot of fun!
-
-		

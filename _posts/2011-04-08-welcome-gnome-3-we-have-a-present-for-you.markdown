@@ -1,14 +1,17 @@
 ---
 author: Bryen Yunashko
+comments: true
 date: 2011-04-08 14:20:32+00:00
-
 layout: post
 link: https://news.opensuse.org/2011/04/08/welcome-gnome-3-we-have-a-present-for-you/
-title: "Welcome GNOME 3! We have a present for you¦"
+slug: welcome-gnome-3-we-have-a-present-for-you
+title: Welcome GNOME 3! We have a present for youâ€¦
+wordpress_id: 8230
 categories:
 - Distribution
 ---
-[![Front of Live DVD cover]({{ site.baseurl }}/assets/Front-e1302271632204-300x268.png)](https://news.opensuse.org/2011/04/08/welcome-gnome-3-we-have-a-present-for-you/front/)
+
+[![Front of Live DVD cover](/wp-content/uploads/2011/04/Front-e1302271632204.png)](http://news.opensuse.org/2011/04/08/welcome-gnome-3-we-have-a-present-for-you/front/)
 
 **Dear GNOME 3,**
 
@@ -32,4 +35,4 @@ We hope you will enjoy the present!
 ## Get GNOME 3
 
 
-For openSUSE users, GNOME 3 will be available next week from the [GNOME Stable repository](http://en.opensuse.org/GNOME_repositories#GNOME:STABLE:x.yy_.2F_G:S:x.yy_.28where_x.yy_.3D_GNOME_version.29). The GNOME team wants to ensure it is stable before unleashing it on you all. Of course, experimental packages are available already, see link above.		
+For openSUSE users, GNOME 3 will be available next week from the [GNOME Stable repository](http://en.opensuse.org/GNOME_repositories#GNOME:STABLE:x.yy_.2F_G:S:x.yy_.28where_x.yy_.3D_GNOME_version.29). The GNOME team wants to ensure it is stable before unleashing it on you all. Of course, experimental packages are available already, see link above.

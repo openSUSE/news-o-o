@@ -1,19 +1,22 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2012-10-16 13:00:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2012/10/16/linuxdays-parties-scheduled/
-title: "LinuxDays Parties Scheduled"
+slug: linuxdays-parties-scheduled
+title: LinuxDays Parties Scheduled
+wordpress_id: 14260
 categories:
 - Announcements
 - Conference
 - Events
 - Project
 ---
-![Party Geeko]({{ site.baseurl }}/assets/DSC04492-300x199.jpg)
-At the upcoming four in one conference in Prague we have a smashing [session schedule](http://bootstrapping-awesome.org/schedule/) ready for you. Last week we [gave a sneak peek](https://news.opensuse.org/2012/10/11/learn-more-about-open-next-week-in-prague/) of some of those sessions. Today, we add two Round Table discussions about Free and Open to the Future Media track and we talk about another important side of our event: the Fun. The social side of events matters because it gives time to mingle, getting to know those you work with and talk about less technical subjects in a relaxed setting. The Geekos know how to party and for the LinuxDays event in Prague we've reserved a few party places. Read on to find out where and when all this goodness happens!<!-- more -->
-![futuremedia logo]({{ site.baseurl }}/assets/futuremedia_color1-300x129.png)
+
+![Party Geeko](/wp-content/uploads/2012/10/DSC04492.jpg)
+At the upcoming four in one conference in Prague we have a smashing [session schedule](http://bootstrapping-awesome.org/schedule/) ready for you. Last week we [gave a sneak peek](http://news.opensuse.org/2012/10/11/learn-more-about-open-next-week-in-prague/) of some of those sessions. Today, we add two Round Table discussions about Free and Open to the Future Media track and we talk about another important side of our event: the Fun. The social side of events matters because it gives time to mingle, getting to know those you work with and talk about less technical subjects in a relaxed setting. The Geekos know how to party and for the LinuxDays event in Prague we've reserved a few party places. Read on to find out where and when all this goodness happens!<!-- more -->
+![futuremedia logo](/wp-content/uploads/2012/10/futuremedia_color1.png)
 
 
 ## The serious: Round Table discussions
@@ -21,7 +24,7 @@ At the upcoming four in one conference in Prague we have a smashing [session sch
 
 Let's start with the serious side. At the Future Media feature track, two round table sessions will be held with speakers from the track. Before lunch, during the the ['why open matters'](http://bootstrapping-awesome.org/schedule/#fmt-08) discussion, speakers will answer questions from the public, talking about the value of 'open' for our society. And before the closing session at the end of the day, three speakers involved in building open networks, sharing knowledge and air drones (!) will [talk about how 'open' works in practice](http://bootstrapping-awesome.org/schedule/#fmt-09). See the [Schedule](http://bootstrapping-awesome.org/schedule/) for more information.
 
-![traverza]({{ site.baseurl }}/assets/traverza-300x194.jpg)
+![traverza](/wp-content/uploads/2012/10/traverza.jpg)
 
 
 ## The Fun: 2 parties and more
@@ -38,7 +41,7 @@ Friday we plan a pre-conference welcome party. Not everyone will be in Prague in
 
 The Party Place will be [Cafe Traverza](http://www.cafe-traverza.cz/en/), right across the street of the University where the conference will take place on Saturday, so it will also give you a nice peek at the venue. You're welcome starting at 18:00.
 
-![toad and hat]({{ site.baseurl }}/assets/toad-and-hat-257x300.jpg)
+![toad and hat](/wp-content/uploads/2012/10/toad-and-hat.jpg)
 
 
 ### Saturday
@@ -53,7 +56,7 @@ Saturday you'll have to put on your BIG party hat. That evening, we converge in 
 
 Sunday had originally a speaker dinner planned with the supporting conference goers but with the large number of both speakers and supporters, this is simply not feasible. Instead, we call on the different teams at the conference to [organize their own events](http://en.opensuse.org/openSUSE:Conference_communities_parties) this evening.
 
-![lavka entree]({{ site.baseurl }}/assets/lavka-300x200.jpg)
+![lavka entree](/wp-content/uploads/2012/10/lavka.jpg)
 
 
 ## Be there!
@@ -65,4 +68,4 @@ We expect to welcome about 500 Open Source developers, testers, usability expert
 
 The entire combined conference is expected to attract well over 1000 visitors. Admission to the openSUSE conference as well as LinuxDays, the SUSE Labs conference and the Gentoo miniconf is completely free. However for oSC a professional attendee ticket is available that offers some additional benefits.
 
-The conference will start at October 20 and end on the 23th. [Be there](http://conference.opensuse.org/Register/)!		
+The conference will start at October 20 and end on the 23th. [Be there](http://conference.opensuse.org/Register/)!

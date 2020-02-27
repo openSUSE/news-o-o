@@ -1,16 +1,17 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2016-05-04 08:31:54+00:00
-
 layout: post
 link: https://news.opensuse.org/2016/05/04/tumbleweed-updates-kernel-mesa-gstreamer/
-title: "Tumbleweed updates Kernel, Mesa, gstreamer"
+slug: tumbleweed-updates-kernel-mesa-gstreamer
+title: Tumbleweed updates Kernel, Mesa, gstreamer
+wordpress_id: 19836
 categories:
 - Tumbleweed
 ---
 
-
-### ![Tumbleweed-black]({{ site.baseurl }}/assets/Tumbleweed-black-300x127.png)Plans to update to GCC 6
+### ![Tumbleweed-black](/wp-content/uploads/2016/03/Tumbleweed-black.png)Plans to update to GCC 6
 
 
 After an entire full rebuild last week, [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) is shifting its focus to another area.
@@ -27,4 +28,4 @@ After a recent [YaST sprint](http://bit.ly/1rhAyHV), further developments contin
 
 Tumbleweed [snapshot 20160502](https://lists.opensuse.org/opensuse-factory/2016-05/msg00043.html) updated kernel-firmware to 20160421, which provided an update firmware file for Intel Bluetooth 8265. Wine was updated twice during the past week and is now at version 1.9.9. The perl-Image-ExifTool, which had the most changes in the snapshot, updated to 10.1 5.****
 
-GGC 5 was updated in Tumbleweed less than a year ago.		
+GGC 5 was updated in Tumbleweed less than a year ago.

@@ -1,19 +1,22 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2009-08-15 10:16:36+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/08/15/opensuse-weekly-news-issue-84/
-title: "openSUSE Weekly News, issue 84"
+slug: opensuse-weekly-news-issue-84
+title: openSUSE Weekly News, issue 84
+wordpress_id: 2003
 categories:
 - Weekly News
 tags:
 - kernel
 - People of openSUSE
 ---
-![news]({{ site.baseurl }}/assets/knewsticker.png) Issue #84 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/84)!
 
-In this week™s issue:
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #84 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/84)!
+
+In this weekâ€™s issue:
 
 
 
@@ -34,4 +37,4 @@ In this week™s issue:
 
 
 For a list of available translations see this page:
-[http://en.opensuse.org/OpenSUSE_Weekly_News/84/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/84/Translations)		
+[http://en.opensuse.org/OpenSUSE_Weekly_News/84/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/84/Translations)

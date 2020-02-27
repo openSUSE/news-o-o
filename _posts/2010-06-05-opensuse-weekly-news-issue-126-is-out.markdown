@@ -1,10 +1,12 @@
 ---
 author: Sascha Manns
+comments: true
 date: 2010-06-05 16:51:29+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/06/05/opensuse-weekly-news-issue-126-is-out/
-title: "openSUSE Weekly News, Issue 126 is out!"
+slug: opensuse-weekly-news-issue-126-is-out
+title: openSUSE Weekly News, Issue 126 is out!
+wordpress_id: 3449
 categories:
 - Weekly News
 tags:
@@ -12,7 +14,6 @@ tags:
 - opensuse
 - Weekly News
 ---
-
 
 # Weekly news
 
@@ -166,28 +167,28 @@ tags:
 <td style="margin: 0pt;" >
 
 
-####  [**openSUSE Forums Poised to Support the next Release, 11.3.**](https://news.opensuse.org/2010/06/01/opensuse-forums-poised-to-support-the-next-release-11-3/)
+####  [**openSUSE Forums Poised to Support the next Release, 11.3.**](http://news.opensuse.org/2010/06/01/opensuse-forums-poised-to-support-the-next-release-11-3/)
 
 
-"With a good selection of Forum users already working with openSUSE™s development version of the next openSUSE release 11.3 “ The forums will be a great place to stop for support post install of the official release.  Members are currently working hard testing and bug reporting on 11.3 Milestone 7 “ This can only make for a better final release. Going by the performance of 11.3 so far, it™s going to be a super release. Most of the Forum Team are already well involved with testing and helping members troubleshoot issues. This will make for a well prepared body of helpers for when the release is final. (...)"  
+"With a good selection of Forum users already working with openSUSEâ€™s development version of the next openSUSE release 11.3 â€“ The forums will be a great place to stop for support post install of the official release.  Members are currently working hard testing and bug reporting on 11.3 Milestone 7 â€“ This can only make for a better final release. Going by the performance of 11.3 so far, itâ€™s going to be a super release. Most of the Forum Team are already well involved with testing and helping members troubleshoot issues. This will make for a well prepared body of helpers for when the release is final. (...)"  
 
 
-####  [**openSUSE Strategy Meeting “ wrap up**](https://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/)
+####  [**openSUSE Strategy Meeting â€“ wrap up**](http://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/)
 
 
-"As in michl™s post announced a the openSUSE Board and some other community members met the past weekend in Nürnberg to have a comprehensive 2.5 days face to face meeting . The meeting was attended by Bryen Yunashko, Andreas Jaeger, Jan Weber, Pascal Bleser, Michael Loeffler and Pavol Rusnak (Hendrik Vogelsang and Rupert Horsttkötter were unfortunately unable to join) and lead and facilitated by Kurt Garloff.We™d like to tell you what we™ve done, what the outcome is and what the next steps should look alike. We had tons of very fruitful discussions and are much clearer about the strengths of openSUSE and how to create a strategy around those. (...)"  
+"As in michlâ€™s post announced a the openSUSE Board and some other community members met the past weekend in NÃ¼rnberg to have a comprehensive 2.5 days face to face meeting . The meeting was attended by Bryen Yunashko, Andreas Jaeger, Jan Weber, Pascal Bleser, Michael Loeffler and Pavol Rusnak (Hendrik Vogelsang and Rupert HorsttkÃ¶tter were unfortunately unable to join) and lead and facilitated by Kurt Garloff.Weâ€™d like to tell you what weâ€™ve done, what the outcome is and what the next steps should look alike. We had tons of very fruitful discussions and are much clearer about the strengths of openSUSE and how to create a strategy around those. (...)"  
 
 
-####  [**openSUSE Conference 2010 Call for Papers**](https://news.opensuse.org/2010/05/31/opensuse-conference-2010-call-for-papers-2/)
+####  [**openSUSE Conference 2010 Call for Papers**](http://news.opensuse.org/2010/05/31/opensuse-conference-2010-call-for-papers-2/)
 
 
-[![Image:Find_together.png](http://wiki.opensuse.org/images/5/5c/Find_together.png)](http://wiki.opensuse.org/File:Find_together.png) "The openSUSE Project Team is happy to announce that the 2nd international openSUSE Conference will take place in Nuremberg, Germany between 20-23 October 2010.  After the great success of the first conference last year we will again meet in Nuremberg to discuss, learn, plan and work on the openSUSE project with all its sub-projects as well as on general free software topics.  Specifically this year we™re explicitly inviting members of upstream projects and other community distributions to discuss comprehensive topics of free software and projects to move forward with free technology across borders, which is also the motto of the openSUSE Conference 2010: (...)"  
+[![Image:Find_together.png](http://wiki.opensuse.org/images/5/5c/Find_together.png)](http://wiki.opensuse.org/File:Find_together.png) "The openSUSE Project Team is happy to announce that the 2nd international openSUSE Conference will take place in Nuremberg, Germany between 20-23 October 2010.  After the great success of the first conference last year we will again meet in Nuremberg to discuss, learn, plan and work on the openSUSE project with all its sub-projects as well as on general free software topics.  Specifically this year weâ€™re explicitly inviting members of upstream projects and other community distributions to discuss comprehensive topics of free software and projects to move forward with free technology across borders, which is also the motto of the openSUSE Conference 2010: (...)"  
 
 
-####  [openSUSE @ LinuxTag 2010 “ We want to meet you!](https://news.opensuse.org/2010/06/01/opensuse-linuxtag-2010-we-want-to-meet-you/)
+####  [openSUSE @ LinuxTag 2010 â€“ We want to meet you!](http://news.opensuse.org/2010/06/01/opensuse-linuxtag-2010-we-want-to-meet-you/)
 
 
-"openSUSE - as usual “ will be at [LinuxTag](http://www.linuxtag.org/2010/). We have booth #203 in hall 7.2a and will show there the openSUSE Build Service 2.0 [release](https://news.opensuse.org/2010/05/25/obs-2-0b1/) which is scheduled for June 11 and how you can benefit from it and of course the last milestone of [openSUSE 11.3](http://wiki.opensuse.org/Product_highlights_11.3). We™d like to see you there and have a chat. If you want to help us at the booth please add your name and the date you want to be there at the bottom of our LinuxTag [page](http://en.opensuse.org/Linuxtag). (...)"  
+"openSUSE - as usual â€“ will be at [LinuxTag](http://www.linuxtag.org/2010/). We have booth #203 in hall 7.2a and will show there the openSUSE Build Service 2.0 [release](http://news.opensuse.org/2010/05/25/obs-2-0b1/) which is scheduled for June 11 and how you can benefit from it and of course the last milestone of [openSUSE 11.3](http://wiki.opensuse.org/Product_highlights_11.3). Weâ€™d like to see you there and have a chat. If you want to help us at the booth please add your name and the date you want to be there at the bottom of our LinuxTag [page](http://en.opensuse.org/Linuxtag). (...)"  
 
 
 ####  [SUSE Studio: SUSE Linux Enterpise 11 SP1](http://blog.susestudio.com/2010/06/suse-linux-enterpise-11-sp1.html)
@@ -235,7 +236,7 @@ tags:
 
 
 
-####  [**Michal HrušeckÃ½: MySQL in openSUSE 11.3**](http://michal.hrusecky.net/index.php/blog/show/MySQL-in-openSUSE-11.3.html)
+####  [**Michal HruÅ¡eckÃ½: MySQL in openSUSE 11.3**](http://michal.hrusecky.net/index.php/blog/show/MySQL-in-openSUSE-11.3.html)
 
 
 "What really happened is that I renamed original MySQL package. Now it is called mysql-community-server. If you take a look at SUN/Oracle web, they call it like this for a long time, so it makes a little sense... As a result, there is no real package called mysql in openSUSE anymore. But mysql-community-server provides mysql so even if you try to install mysql, it will work. This change also have one funny consequence. Do you remember package mysql-client? Now it's called mysql-community-server-client face-smile-big.png (...)" 
@@ -282,7 +283,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 555 (+1) 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) “ [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) “ [Bug Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) â€“ [Bug Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
 
 
 
@@ -318,10 +319,10 @@ The numbers for all openSUSE project products are this week:
 <td style="margin: 0pt;" >
 
 
-####  [Boosters: Umbrella Sprint Summary](https://news.opensuse.org/2010/05/31/boosters-umbrella-sprint-summary/)
+####  [Boosters: Umbrella Sprint Summary](http://news.opensuse.org/2010/05/31/boosters-umbrella-sprint-summary/)
 
 
-"For the last few months some of the Boosters were working on Umbrella infrastructure concept for openSUSE. Various web tools grew over time and unfortunately they became almost independant and disconnected from each other. We decided to improve the situation by making openSUSE websites more integrated and easier accesible in order to help people to find the stuff they are looking for.  During the openSUSE Conference 2009 Klaas gave a talk about the current state of tools and our improvement plans. Robert created a brand new Bento theme which allowed Pavol to create a simple global menu to put on top of each website. These menus group all links to other websites into four categories: Downloads, Support, Community and Development. These more-or-less correspond to groups of users openSUSE has, which makes navigation easy and fun! (...)" 
+"For the last few months some of the Boosters were working on â€œUmbrellaâ€ infrastructure concept for openSUSE. Various web tools grew over time and unfortunately they became almost independant and disconnected from each other. We decided to improve the situation by making openSUSE websites more integrated and easier accesible in order to help people to find the stuff they are looking for.  During the openSUSE Conference 2009 Klaas gave a talk about the current state of tools and our improvement plans. Robert created a brand new Bento theme which allowed Pavol to create a simple global menu to put on top of each website. These menus group all links to other websites into four categories: Downloads, Support, Community and Development. These more-or-less correspond to groups of users openSUSE has, which makes navigation easy and fun! (...)" 
 </td>
 </tr>
 </tbody>
@@ -395,7 +396,7 @@ The Build Service now hosts 13005 (+68) projects, 94238 (+85) packages, 22803 (+
 ####  [Vincent Untz: Hiring a sysadmin for the GNOME infrastructure](http://www.vuntz.net/journal/post/2010/06/02/Become-a)
 
 
-"Two months ago, the GNOME Foundation started a fundraising campaign to get money to hire a part-time system administrator. Actually, we started this effort much earlier, but we made it much more visible with this campaign. Thanks to all the donors and to Canonical, Collabora, Google and Nokia, we were able to reach our objective. It was actually too fast for me and I wasn't even able to blog about the campaign in time! Once we realized the money was there, we moved on to the next steps ” actually, we had those steps ready in the past, so it was mainly a matter of making sure everything was still okay.  We asked around and confirmed three names to form a hiring committee: Bradley Kuhn, Jonathan Blandford and Brad Taylor. With their help, Paul updated the job description that Owen had written some time ago. And after some discussion to define the whole hiring process, Stormy announced the job today. I really love that there have been so many people involved in this, with everyone targetting the same goal. (...)" 
+"Two months ago, the GNOME Foundation started a fundraising campaign to get money to hire a part-time system administrator. Actually, we started this effort much earlier, but we made it much more visible with this campaign. Thanks to all the donors and to Canonical, Collabora, Google and Nokia, we were able to reach our objective. It was actually too fast for me and I wasn't even able to blog about the campaign in time! Once we realized the money was there, we moved on to the next steps â€” actually, we had those steps ready in the past, so it was mainly a matter of making sure everything was still okay.  We asked around and confirmed three names to form a hiring committee: Bradley Kuhn, Jonathan Blandford and Brad Taylor. With their help, Paul updated the job description that Owen had written some time ago. And after some discussion to define the whole hiring process, Stormy announced the job today. I really love that there have been so many people involved in this, with everyone targetting the same goal. (...)" 
 </td>
 </tr>
 </tbody>
@@ -613,7 +614,7 @@ The Build Service now hosts 13005 (+68) projects, 94238 (+85) packages, 22803 (+
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) “ [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 
@@ -652,7 +653,7 @@ The Build Service now hosts 13005 (+68) projects, 94238 (+85) packages, 22803 (+
 ####  [Sascha Manns: openSUSE Wiki Transition (little Report)](http://saigkill.wordpress.com/2010/06/01/opensuse-wiki-transition-little-report/)
 
 
-"Since a few month we are working inside the wiki. As you are maybe know, the sites under en.opensuse.org should moved to en.opensuse.org. So it isn™t so that it sounds like many work, it IS many work. I think, we have thought that it is lesser work, but now we are in the middle of that, and we must show forward to the End of it.  In the Past many little gnomes was very active in that work like: henne, rupert, rajko, jon, christian, thomas, michl, frank and from our german wiki team: uwe, marcel and open_assistant has done a great work. So i would like to thank all of our Contributors. If i have forgotten anyone in the List, thats my error. (...)" 
+"Since a few month we are working inside the wiki. As you are maybe know, the sites under en.opensuse.org should moved to en.opensuse.org. So it isnâ€™t so that it sounds like many work, it IS many work. I think, we have thought that it is lesser work, but now we are in the middle of that, and we must show forward to the End of it.  In the Past many little gnomes was very active in that work like: henne, rupert, rajko, jon, christian, thomas, michl, frank and from our german wiki team: uwe, marcel and open_assistant has done a great work. So i would like to thank all of our Contributors. If i have forgotten anyone in the List, thats my error. (...)" 
 </td>
 </tr>
 </tbody>
@@ -691,7 +692,7 @@ The Build Service now hosts 13005 (+68) projects, 94238 (+85) packages, 22803 (+
 ####  [Mike McCallister: Six Days Till WriteCamp2 in Milwaukee!](http://metaverse.wordpress.com/2010/05/30/six-days-till-writecamp2-in-milwaukee/)
 
 
-"Hey folks, there™s still time to make plans to attend WriteCamp2 in Milwaukee next weekend! This camp is for you if your interests lie toward the written (or typed) word. Bloggers, poets, journalists, business and technical writers, fiction and nonfiction writers “ we want to see you! Any other writers, and would-be writers I left out “ yes, you too!  You can read about what I™m doing at WriteCamp at my other site. In brief, I™ll be leading a discussion about the future of American journalism, and doing something related to WordPress. I™ll have copies of WordPress in Depth on hand, and a pen to sign them with. I™ll also be at the pre-party Friday night, having some fun."  
+"Hey folks, thereâ€™s still time to make plans to attend WriteCamp2 in Milwaukee next weekend! This camp is for you if your interests lie toward the written (or typed) word. Bloggers, poets, journalists, business and technical writers, fiction and nonfiction writers â€“ we want to see you! Any other writers, and would-be writers I left out â€“ yes, you too!  You can read about what Iâ€™m doing at WriteCamp at my other site. In brief, Iâ€™ll be leading a discussion about the future of American journalism, and doing something related to WordPress. Iâ€™ll have copies of WordPress in Depth on hand, and a pen to sign them with. Iâ€™ll also be at the pre-party Friday night, having some fun."  
 
 
 ####  [Pavol Rusnak: openSUSE Counter for Facebook](http://stick.gk2.sk/blog/2010/06/opensuse-counter-for-facebook/)
@@ -708,10 +709,10 @@ Past:
 
 
 	
-  * [**June 01, 2010: openSUSE Marketing IRC Meeting **](https://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
+  * [**June 01, 2010: openSUSE Marketing IRC Meeting **](http://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
 
 	
-  * [**June 02, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**June 02, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
 Upcoming: 
@@ -719,28 +720,28 @@ Upcoming:
 
 
 	
-  * [** June 09, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [** June 09, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 	
   * [**Jube 9-12: LinuxTag Berlin Germany**](http://linuxtag.org/)
 
 	
-  * [** June 10, 2010: openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** June 10, 2010: openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 	
-  * [** June 12, 2010: openSUSE Weekly News Team Meeting**](https://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/)
+  * [** June 12, 2010: openSUSE Weekly News Team Meeting**](http://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/)
 
 	
-  * [** June 15, 2010: openSUSE Marketing IRC Meeting **](https://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
+  * [** June 15, 2010: openSUSE Marketing IRC Meeting **](http://news.opensuse.org/2010/04/20/opensuse-marketing-irc-meeting-2/)
 
 	
-  * [** June 16, 2010: openSUSE Board Meeting**](https://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [** June 16, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 	
-  * [** June 23, 2010: German Wiki Team Meeting**](https://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [** June 23, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 	
-  * [** June 24, 2010: openSUSE KDE Team meeting**](https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** June 24, 2010: openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 	
   * [**July 6-11: Rencontres Mondiales du Logiciel Libre RMLL Bordeaux France**](http://2010.rmll.info/) ([English](http://2010.rmll.info/?lang=en)) 
@@ -756,7 +757,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 	
-  * [openSUSE News/Events](https://news.opensuse.org/category/events/) “ [Local events](http://wiki.opensuse.org/openSUSE:Ambassadors/Events)
+  * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://wiki.opensuse.org/openSUSE:Ambassadors/Events)
 
 
 
@@ -781,10 +782,10 @@ Upcoming:
 
 
 
-####  [JosÃ© Oramas M.: FLISOL 2010 GYE “ Some Late Numbers and Experiences](http://lizards.opensuse.org/2010/06/03/flisol-2010-gye-some-late-numbers-and-experiences/)
+####  [JosÃ© Oramas M.: FLISOL 2010 GYE â€“ Some Late Numbers and Experiences](http://lizards.opensuse.org/2010/06/03/flisol-2010-gye-some-late-numbers-and-experiences/)
 
 
-"I know, I know¦ it is a bit late ( more than a month ) since FLISOL took place in Guayaquil-Ecuador this year¦ but a lot a time consuming activities have stopped me from reporting some results. Even though more than a month have passed, I think I should let you know what happened.  Compared to previous years, the event of this year was relatively smaller. An approximate of 200 people assisted, from which for the ~80% it was their first time that assisted to FLISOL, 50% of visitors had not used or heard about FLOSS before, ~13% were below 18 years old and ~75% were between 18-35 years old."  
+"I know, I knowâ€¦ it is a bit late ( more than a month ) since FLISOL took place in Guayaquil-Ecuador this yearâ€¦ but a lot a time consuming activities have stopped me from reporting some results. Even though more than a month have passed, I think I should let you know what happened.  Compared to previous years, the event of this year was relatively smaller. An approximate of 200 people assisted, from which for the ~80% it was their first time that assisted to FLISOL, 50% of visitors had not used or heard about FLOSS before, ~13% were below 18 years old and ~75% were between 18-35 years old."  
 
 
 ###  openSUSE in $COUNTRY
@@ -853,7 +854,7 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
 ####  [Petr Mladek: OpenOffice_org 3.2.1 final available for openSUSE](http://lizards.opensuse.org/2010/06/04/openoffice_org-3_2_1_3-final/)
 
 
-"I™m happy to announce OpenOffice.org 3.2.1 final packages for openSUSE. They are available in the Build Service [OpenOffice:org:STABLE](http://en.opensuse.org/Additional_YaST_Package_Repositories#OpenOffice.org_STABLE) project and include many [upstream](http://development.openoffice.org/releases/3.2.1.html) and [Go-oo](http://cgit.freedesktop.org/ooo-build/ooo-build/plain/NEWS?h=ooo-build-3-2&id=OOO_BUILD_3_2_1_3) improvements and fixes. Please, check the [wiki page](http://en.opensuse.org/OpenOffice.org) for more details about the openSUSE OOo build.  The openSUSE OOo team hopes that you will be happy with this release. Though, any software contains bugs and we kindly ask you to [report them](http://en.opensuse.org/Bugs:OOo), so that we could fixed them in the future releases. (...)" 
+"Iâ€™m happy to announce OpenOffice.org 3.2.1 final packages for openSUSE. They are available in the Build Service [OpenOffice:org:STABLE](http://en.opensuse.org/Additional_YaST_Package_Repositories#OpenOffice.org_STABLE) project and include many [upstream](http://development.openoffice.org/releases/3.2.1.html) and [Go-oo](http://cgit.freedesktop.org/ooo-build/ooo-build/plain/NEWS?h=ooo-build-3-2&id=OOO_BUILD_3_2_1_3) improvements and fixes. Please, check the [wiki page](http://en.opensuse.org/OpenOffice.org) for more details about the openSUSE OOo build.  The openSUSE OOo team hopes that you will be happy with this release. Though, any software contains bugs and we kindly ask you to [report them](http://en.opensuse.org/Bugs:OOo), so that we could fixed them in the future releases. (...)" 
 
 
 
@@ -865,7 +866,7 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
   * You can find other interesting Packages at: 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) “ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -945,10 +946,10 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
 "Linux 2.6.35 will deliver better network throughput, support the Turbo Core functionality offered by the latest AMD processors and de-fragment memory as required. On LKML, a discussion on merging several patches developed by Google for Android is generating large volumes of email. (...)"  
 
 
-####  [Guest Blog: Rares Aioanei “ Weekly Kernel review with openSUSE Flavor](http://lizards.opensuse.org/2010/06/04/guest-blog-rares-aioanei-weekly-kernel-review-with-opensuse-flavor/)
+####  [Guest Blog: Rares Aioanei â€“ Weekly Kernel review with openSUSE Flavor](http://lizards.opensuse.org/2010/06/04/guest-blog-rares-aioanei-weekly-kernel-review-with-opensuse-flavor/)
 
 
-"Hello, everyone, and welcome! This week sees the release of 2.6.35-rc1, plus other kernel-related news, so let™s start. (...)" 
+"Hello, everyone, and welcome! This week sees the release of 2.6.35-rc1, plus other kernel-related news, so letâ€™s start. (...)" 
 </td>
 </tr>
 </tbody>
@@ -1044,13 +1045,13 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
 ####  [Jared Ottley: Alfresco: SimpleGIS](http://feeds.ottleys.net/%7Er/jaredottley/%7E3/nQut4W_nwFM/alfresco-simplegis)
 
 
-"When I worked Pre-Sales here at Alfresco I had, on occasion, the chance to talk about integrating Alfresco with a GIS (Geographic Information System). I don™t have a lot of experience with these types of systems (actually none) but I always believed that integration was possible. (It falls into one of those categories where we believe that it is possible, but we have never actually seen it done.) Or even that a simple type of integration could be done with Google Maps to provide basic information.  I started playing with the Google Maps APIs almost 6 months ago and was able to throw together a rough POC, but felt that there was still more that I could do. I™ve gotten closer to what I envisioned and a have put together a starting example, but there is still a lot of work to do, including working around issues from the underlying APIs. (ie one of my examples will not work in some versions of Firefox or IE¦I™m working on these, but believe that the answer may actually be in the code of either the browser or the Maps API.) (...)"  
+"When I worked Pre-Sales here at Alfresco I had, on occasion, the chance to talk about integrating Alfresco with a GIS (Geographic Information System). I donâ€™t have a lot of experience with these types of systems (actually none) but I always believed that integration was possible. (It falls into one of those categories where we believe that it is possible, but we have never actually seen it done.) Or even that a simple type of integration could be done with Google Maps to provide basic information.  I started playing with the Google Maps APIs almost 6 months ago and was able to throw together a rough POC, but felt that there was still more that I could do. Iâ€™ve gotten closer to what I envisioned and a have put together a starting example, but there is still a lot of work to do, including working around issues from the underlying APIs. (ie one of my examples will not work in some versions of Firefox or IEâ€¦Iâ€™m working on these, but believe that the answer may actually be in the code of either the browser or the Maps API.) (...)"  
 
 
 ####  [Dominique Leuenberger: Dominique Leuenberger: NetworkManager 0.8.1 How-To](http://dominique.leuenberger.net/blog/?p=81)
 
 
-"Recently, I prepared NetworkManager 0.8.1 packages (many of you seemed to like them, so I updated the available ones also to 0.8.1beta2).  Nevertheless, it seems to be un-intuitive on how to initiate a connection using this new feature, so I™ll try to provide a short step-by-step here on how I did get it to work using my very old Nokia 6300 (yes, that™s actually a pure telephone). (...)"  
+"Recently, I prepared NetworkManager 0.8.1 packages (many of you seemed to like them, so I updated the available ones also to 0.8.1beta2).  Nevertheless, it seems to be un-intuitive on how to initiate a connection using this new feature, so Iâ€™ll try to provide a short step-by-step here on how I did get it to work using my very old Nokia 6300 (yes, thatâ€™s actually a pure telephone). (...)"  
 
 
 ####  [Cristian RodrÃ­guez: Need entropy ? Simtec Entropy Key + openSUSE to the rescue](http://blog.cristianrodriguez.net/2010/05/need-entropy-simtec-entropy-key.html)
@@ -1059,22 +1060,22 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
 "A while ago, I saw the Simtec Entropy Key website, a small, relative unexpensive USB device that produces random numbers and then fills the kernel entropy pool.  It sparked my geeky curiosity so I bought one, it arrived today, but it didn't had "out of the box" support in openSUSE, so I worked integrating its software to make it rock and roll :) (...)"  
 
 
-####  [Michal HrušeckÃ½: openSUSE Paste](http://michal.hrusecky.net/index.php/blog/show/openSUSE-Paste.html)
+####  [Michal HruÅ¡eckÃ½: openSUSE Paste](http://michal.hrusecky.net/index.php/blog/show/openSUSE-Paste.html)
 
 
 "Do you also feel that Hackweek is nearby? So many people will be working together on so many interesting stuff. And when you are working in large groups around the world, sometimes you need to talk about code snippets. And then you use something like pastebin.com. But there are many similar services on the web. And I already encounter on openSUSE IRC people using for example fpaste.org. So why don't we have some paste thing to show that we are the openSUSE guys and girls? My guess is that nobody cared enough to create other one then opensuse.pastebin.com. But I was part of the Umbrella team, so I want to have everything nicely integrated... So here I come with openSUSE Paste."  
 
 
-####  [Guest Blog: Rares Aioanei “ Weekly Review of the PostgreSQL Project with openSUSE flavor](http://lizards.opensuse.org/2010/06/04/guest-blog-rares-aioanei-weekly-review-of-the-postgresql-project-with-opensuse-flavor/)
+####  [Guest Blog: Rares Aioanei â€“ Weekly Review of the PostgreSQL Project with openSUSE flavor](http://lizards.opensuse.org/2010/06/04/guest-blog-rares-aioanei-weekly-review-of-the-postgresql-project-with-opensuse-flavor/)
 
 
-"Hello all, and welcome to this week™s edition of the PostgreSQL Weekly News, openSUSE-style!  As accustomed, we™ll start with news picked from the mailing lists, then we™ll move on with news from the PostgreSQL Planet. Here we go¦ (...)"  
+"Hello all, and welcome to this weekâ€™s edition of the PostgreSQL Weekly News, openSUSE-style!  As accustomed, weâ€™ll start with news picked from the mailing lists, then weâ€™ll move on with news from the PostgreSQL Planet. Here we goâ€¦ (...)"  
 
 
 ####  [Jakub Steiner: Leaving Novell](http://jimmac.musichall.cz/log/?p=1011)
 
 
-"Today is my last day working for Novell. They say we shouldn™t focus on the past, but I do have to look back a little.  Novell has allowed me to take part in some really awesome projects. Going back to Ximian, I was lucky to be part of the Linux desktop revolution (this year will totally be the year!). I helped to shape the aesthetics of Novell Linux Desktop, SUSE Linux Enterprise, openSUSE and most importantly SUSE Studio." Addition from the Editors: Thanks a lot for your hard work, and your enthusiasm for the Projects. We never forget you...  
+"Today is my last day working for Novell. They say we shouldnâ€™t focus on the past, but I do have to look back a little.  Novell has allowed me to take part in some really awesome projects. Going back to Ximian, I was lucky to be part of the Linux desktop revolution (this year will totally be the year!). I helped to shape the aesthetics of Novell Linux Desktop, SUSE Linux Enterprise, openSUSE and most importantly SUSE Studio." Addition from the Editors: Thanks a lot for your hard work, and your enthusiasm for the Projects. We never forget you...  
 
 
 ####  [Agustin Chavarria: openGarrobito 0.4.5](http://lizards.opensuse.org/2010/06/04/opengarrobito-0-4-5/)
@@ -1216,7 +1217,7 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
 ####  [Volker Lanz (Torch): New In KDE Partition Manager 1.1 (II): SMART Status Reports](http://blog.volker-lanz.de/2010/05/29/new-in-kde-partition-manager-1-1-ii-smart-status-reports/)
 
 
-"KDE Partition Manager 1.1 gains support for reading, analyzing and reporting the SMART status of disks. SMART (sometimes also written as S.M.A.R.T.) is an acronym for Self-Monitoring, Analysis, and Reporting Technology. In plain English it is a monitoring system for hard drives and its intention is to give the computer user a chance to take action before an impending hard drive failure ” the action being to copy his data to another disk, of course.  Virtually all disks sold today support SMART, though implementations differ a little from manufacturer to manufacturer. Also, SMART information cannot be accessed via USB or FireWire, so this does not work for external disks."  
+"KDE Partition Manager 1.1 gains support for reading, analyzing and reporting the SMART status of disks. SMART (sometimes also written as S.M.A.R.T.) is an acronym for â€œSelf-Monitoring, Analysis, and Reporting Technologyâ€. In plain English it is a monitoring system for hard drives and its intention is to give the computer user a chance to take action before an impending hard drive failure â€” the action being to copy his data to another disk, of course.  Virtually all disks sold today support SMART, though implementations differ a little from manufacturer to manufacturer. Also, SMART information cannot be accessed via USB or FireWire, so this does not work for external disks."  
 
 
 ####  [LinuxUser & Developer/Russell Barnes: Novell promise SUSE MeeGo in the next 12 months](http://www.linuxuser.co.uk/news/novell-promise-suse-meego-in-the-next-12-months/)
@@ -1270,7 +1271,7 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
 ####  [ExtremeTech/Matthew Murray MeeGo v1.0 for Netbooks Review](http://www.extremetech.com/article2/0,2845,2364365,00.asp)
 
 
-"The tiny notebooks are usually best for those who just want to do the most basic of basics”Web browsing, e-mail, maybe IM”and not much else. In fact, were it not for the fact that Linux is a popular operating system of choice for them due to its nonexistent cost, they'd have almost no appeal to the DIYer whatsoever. (...)" 
+"The tiny notebooks are usually best for those who just want to do the most basic of basicsâ€”Web browsing, e-mail, maybe IMâ€”and not much else. In fact, were it not for the fact that Linux is a popular operating system of choice for them due to its nonexistent cost, they'd have almost no appeal to the DIYer whatsoever. (...)" 
 </td>
 </tr>
 </tbody>
@@ -1301,7 +1302,7 @@ The openSUSE Forums have 46319 (+214) registered users - Most users ever online 
 <td style="color: #ffffff; text-align: center; vertical-align: top; width: 36px;" >[![](http://wiki.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://wiki.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](https://news.opensuse.org/?=3449) and let us know!
+<td style="margin: 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?=3449) and let us know!
 
 Or if you would like to be part of the [openSUSE:Weekly news team](http://wiki.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!
 
@@ -1309,7 +1310,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 
 
 
-[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [https://news.opensuse.org/category/weekly-news/feed/](https://news.opensuse.org/category/weekly-news/feed/)
+[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
 </td>
 </tr>
 </tbody>
@@ -1348,10 +1349,10 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://wiki.opensuse.org/User:Saigkill) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Saigkill&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 	
-  * [Dl9pf](http://wiki.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter) 
+  * [Dl9pf](http://wiki.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter) 
 
 	
-  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
 
 	
   * [HeliosReds](http://wiki.opensuse.org/User:HeliosReds) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1360,7 +1361,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://wiki.opensuse.org/index.php?title=User:Caf4926&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 	
-  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
 
 	
   * add translators 
@@ -1420,7 +1421,7 @@ Delayed / to be translated:
   * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/126)
 
 	
-  * [æ—¥ æ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/126)
+  * [æ—¥ æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/126)
 
 	
   * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/126)
@@ -1457,4 +1458,4 @@ Delayed / to be translated:
 </td>
 </tr>
 </tbody>
-</table>		
+</table>

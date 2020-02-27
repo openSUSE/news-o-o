@@ -1,17 +1,20 @@
 ---
 author: Jos Poortvliet
+comments: true
 date: 2013-05-13 11:47:49+00:00
-
 layout: post
 link: https://news.opensuse.org/2013/05/13/opensuse-conference-getting-greener/
-title: "openSUSE Conference Getting Greener"
+slug: opensuse-conference-getting-greener
+title: openSUSE Conference Getting Greener
+wordpress_id: 15859
 categories:
 - Conference
 - Events
 - Project
 ---
+
 The Conference is getting closer while the team makes progress. Let's talk numbers: two promotional video's have been made, a choice of 7 hotels is available on the [conference website](conference.opensuse.org) and we are just five weeks from June 17, the deadline for your paper submissions!
-[![Thessaloniki White Tower and promanade]({{ site.baseurl }}/assets/Thessaloniki_White_Tower_and_promanade-300x270.png)]({{ site.baseurl }}/assets/Thessaloniki_White_Tower_and_promanade.png)
+[![Thessaloniki White Tower and promanade](//news.opensuse.org/wp-content/uploads/2013/01/Thessaloniki_White_Tower_and_promanade.png)](//news.opensuse.org/wp-content/uploads/2013/01/Thessaloniki_White_Tower_and_promanade.png)
 
 
 ## The openSUSE Conference - Greece!
@@ -53,7 +56,7 @@ Some important links:
 
 Two sites where you can book cheap flight to Greece are [Petas.gr](http://www.petas.gr/en/Home.html) and [airtickets.com](http://www.airtickets.com/)
 
-({{ site.baseurl }}/assets/P1020221.jpg) Our Amazing Greeks
+[caption id="attachment_15898" align="alignright" width="300"][![openSUSE Release Party Athens](//news.opensuse.org/wp-content/uploads/2013/04/P1020221.jpg)](//news.opensuse.org/wp-content/uploads/2013/04/P1020221.jpg) Our Amazing Greeks[/caption]
 
 
 ## Get moving!
@@ -63,4 +66,4 @@ While it might seem only May, _it is already May_! You'll have to make sure your
 
 Those attending the conference should be ready to actively participate in the proceedings. Please beware that a team effort involves everyone and when you are at the conference, likely, you will be asked to participate in organizing different things that you may not have planned for. We expect your enthusiasm and willingness to participate!
 
-Now is also the time to plan for those who may have been undecided about attending the conference. Invite friends, colleagues and anyone that shows an interest in the world of openSUSE. A conference like this is a great opportunity to make friends, and long lasting contacts for projects of your own in which openSUSE and its infrastructure can help you succeed.		
+Now is also the time to plan for those who may have been undecided about attending the conference. Invite friends, colleagues and anyone that shows an interest in the world of openSUSE. A conference like this is a great opportunity to make friends, and long lasting contacts for projects of your own in which openSUSE and its infrastructure can help you succeed.

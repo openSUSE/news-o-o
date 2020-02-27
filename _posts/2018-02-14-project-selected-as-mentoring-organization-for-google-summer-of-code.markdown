@@ -1,11 +1,12 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2018-02-14 08:46:06+00:00
-
 layout: post
 link: https://news.opensuse.org/2018/02/14/project-selected-as-mentoring-organization-for-google-summer-of-code/
-title: "Project Selected as Mentoring Organization for Google Summer of\
-  \ Code"
+slug: project-selected-as-mentoring-organization-for-google-summer-of-code
+title: Project Selected as Mentoring Organization for Google Summer of Code
+wordpress_id: 20668
 categories:
 - Announcements
 - Build Service
@@ -37,6 +38,7 @@ tags:
 - open suse
 - summer break
 ---
+
 
 Let the fun begin! This week it was announced that the [openSUSE](https://www.opensuse.org/) Project is one of the 212 mentoring organization for this year’s [Google Summer of Code](https://summerofcode.withgoogle.com/), which is an annual international program that awards [stipends](https://en.wikipedia.org/wiki/Stipend) to university students to write code and learn about open source development during their summer break.
 
@@ -80,4 +82,4 @@ The list of those projects are:
 
 After the students submit their applications, there will be a review period from March 27 to April 23. Accepted projects will be announced on April 23 and the coding will being on May 14 and continue throughout the summer.
 
-If you are interested in participating in GSoC, please visit the [openSUSE 101 mentoring website](http://101.opensuse.org/gsoc/) and [Google Summer of Code](https://summerofcode.withgoogle.com/) website for more information about projects and the application process.		
+If you are interested in participating in GSoC, please visit the [openSUSE 101 mentoring website](http://101.opensuse.org/gsoc/) and [Google Summer of Code](https://summerofcode.withgoogle.com/) website for more information about projects and the application process.

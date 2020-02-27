@@ -1,13 +1,16 @@
 ---
 author: Andreas Jaeger
+comments: true
 date: 2009-01-07 19:54:16+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/01/07/novell-bugzilla-update-to-32-and-a-guided-report-mode/
-title: "Novell Bugzilla Update to 3.2 and a Guided Report Mode"
+slug: novell-bugzilla-update-to-32-and-a-guided-report-mode
+title: Novell Bugzilla Update to 3.2 and a Guided Report Mode
+wordpress_id: 1141
 categories:
 - Infrastructure
 ---
+
 To make bug reporting easier, we will be updating [Novell's Bugzilla](https://bugzilla.novell.com) to the latest stable release (Bugzilla 3.2) with some additional features added by Novell. This update will take place on Saturday, January 10th, and Bugzilla will be unavailable from 10:00 a.m. to 2:00 p.m. MST (that's 17:00 UTC to 21:00 UTC).
 
 One significant change is that we will have a new guided mode for reporting of bugs that is default for non-Novell accounts.
@@ -28,17 +31,17 @@ Btw. if you want to report a bug, please check also our [guidelines](http://bugs
 
 
 	
-  * Select New to create a new bug report. Enter values for the attributes you want to predefine.
+  * Select â€œNewâ€ to create a new bug report. Enter values for the attributes you want to predefine.
 
 	
-  * Click[![Remember values as bookmarkable template]({{ site.baseurl }}/assets/remember.png)]({{ site.baseurl }}/assets/remember.png)
+  * Click[![Remember values as bookmarkable template](/wp-content/uploads/2009/01/remember.png)](/wp-content/uploads/2009/01/remember.png)
 
 	
   * A new page appears:
 
-[![]({{ site.baseurl }}/assets/bookmark.png)]({{ site.baseurl }}/assets/bookmark.png)
+[![](/wp-content/uploads/2009/01/bookmark.png)](/wp-content/uploads/2009/01/bookmark.png)
 	
-  * Right click on the hyperlink and and choose Bookmark link (Firefox) to add it to your bookmarks
+  * Right click on the hyperlink and and choose â€œBookmark linkâ€ (Firefox) to add it to your bookmarks
 
 	
   * Select the bookmark to create a new defect with your predefined attributes
@@ -46,4 +49,4 @@ Btw. if you want to report a bug, please check also our [guidelines](http://bugs
 
 **Update:** I rewrote the first paragraph and added a paragraph explaining guided report mode.
 
-**Update**: Correction: you have to append "&format=guided", an example URL for openSUSE 11.1 bug reports is therefore [https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.1&format=guided](https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.1&format=guided)		
+**Update**: Correction: you have to append "&format=guided", an example URL for openSUSE 11.1 bug reports is therefore [https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.1&format=guided](https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.1&format=guided)

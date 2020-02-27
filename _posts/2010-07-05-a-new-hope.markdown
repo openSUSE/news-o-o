@@ -1,14 +1,17 @@
 ---
 author: Henne Vogelsang
+comments: true
 date: 2010-07-05 16:14:27+00:00
-
 layout: post
 link: https://news.opensuse.org/2010/07/05/a-new-hope/
-title: "openSUSE Wiki “ Episode II: A new hope"
+slug: a-new-hope
+title: 'openSUSE Wiki â€“ Episode II: A new hope'
+wordpress_id: 3660
 categories:
 - Announcements
 - Wiki
 ---
+
 You hear it in the bushes since quite some time, rumors spread and people whisper about it: A new wiki for the openSUSE project is coming very soon! The openSUSE Wiki team is in the last preparations to launch the new wiki on
 
 
@@ -49,4 +52,4 @@ Styling of content happens through **templates**. There are 2 kinds, templates f
 ## Preview
 
 
-You can see the current state of our preparations at our temporary location [http://wiki.opensuse.org](http://wiki.opensuse.org). Have fun exploring it and please don't hesitate to contact us with ideas or problems on our mailinglist [opensuse-wiki@opensuse.org](mailto:opensuse-wiki@opensuse.org ).		
+You can see the current state of our preparations at our temporary location [http://wiki.opensuse.org](http://wiki.opensuse.org). Have fun exploring it and please don't hesitate to contact us with ideas or problems on our mailinglist [opensuse-wiki@opensuse.org](mailto:opensuse-wiki@opensuse.org ).

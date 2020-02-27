@@ -1,30 +1,129 @@
 ---
 author: News Team
+comments: true
 date: 2009-04-06 17:35:21+00:00
-
 layout: post
 link: https://news.opensuse.org/2009/04/06/people-of-opensuse-sascha-saigkill-manns/
-title: "People of openSUSE: Sascha saigkill Manns"
+slug: people-of-opensuse-sascha-saigkill-manns
+title: 'People of openSUSE: Sascha saigkill Manns'
+wordpress_id: 1411
 categories:
 - People of openSUSE
 ---
+
 Sascha is active in many areas of openSUSE (Marketing, Feature Screening and using Build service for his projects), but he is particularly active in openSUSE Weekly News. More than 1300 articles translated and edited since October 2008th is quite some effort. That alone is deserving attention, but he didn't stopped there and recently he started a new initiative in cooperation with [Radiotux](http://www.radiotux.org/). The plan is to prepare digest of openSUSE Weekly News in German. More about that you can read in his [Radiotux blog](http://blog.radiotux.de/2009/03/24/opensuse-weekly-news-radiotux/) (it is German) and even more in his [Lizards blog](http://lizards.opensuse.org/2009/04/01/happy-birthday-radiotux-the-birthday-broadcast-now-online/)
 
 <!-- more -->
 
 
-![Sascha Manns]({{ site.baseurl }}/assets/sascha_manns.jpg)
-|||
-|--- |--- |
-|||
-|**Nicknames:**|saigkill|
-|**Homepage:**|[http://saschamanns.gulli.to](http://saschamanns.gulli.to) (in German)|
-|**Blog:**|[ http://lizards.opensuse.org/author/saigkill](http://lizards.opensuse.org/author/saigkill) (in English)|
-||[http://saschasbacktrace.blogspot.com](http://saschasbacktrace.blogspot.com) (in German)|
-|**Favorite season:**|spring|
-|**Motto:**|Tempus fugit.|
-|||
 
+<table width="639" style="height: 279px;" border="0" >
+<tbody >
+<tr >
+
+<td >
+
+
+
+
+</td>
+
+<td >
+
+
+
+
+</td>
+
+<td align="right" rowspan="9" >
+
+![Sascha Manns](/wp-content/uploads/2009/04/sascha_manns.jpg)
+</td>
+</tr>
+<tr >
+
+<td >**Nicknames:**
+</td>
+
+<td >saigkill
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Homepage: **
+</td>
+
+<td >[http://saschamanns.gulli.to](http://saschamanns.gulli.to) (in German)
+</td>
+
+<td >
+
+</td>
+</tr>
+<tr >
+
+<td >**Blog:**
+</td>
+
+<td >[ http://lizards.opensuse.org/author/saigkill](http://lizards.opensuse.org/author/saigkill) (in English)
+</td>
+
+<td >
+
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >[http://saschasbacktrace.blogspot.com](http://saschasbacktrace.blogspot.com) (in German)
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Favorite season:**
+</td>
+
+<td >spring
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >**Motto:**
+</td>
+
+<td >Tempus fugit.
+</td>
+
+<td >
+</td>
+</tr>
+<tr >
+
+<td >
+</td>
+
+<td >
+</td>
+
+<td >
+
+
+    
+
+</td>
+</tr>
+</tbody></table>
 
 
 
@@ -234,7 +333,7 @@ I would like to learn C and C++ and Python.
 
 
 
-#### The Internet crashes for a whole week “ how would you feel, what would you do?
+#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
 
 
 I think I would be nervous. No emails, no Weekly News, no OBS. No good perspective.
@@ -376,6 +475,3 @@ What are you going to do with one million :-)
 This was a typing error. I wanted to write "sigkill", but my fingers were faster and they are typed "saigkill".
 That's all Folks...
 
-
-
-		

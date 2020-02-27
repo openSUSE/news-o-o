@@ -1,15 +1,18 @@
 ---
 author: Douglas DeMaio
+comments: true
 date: 2015-08-13 11:27:20+00:00
-
 layout: post
 link: https://news.opensuse.org/2015/08/13/the-weekly-review-libreoffice-5-in-tumbleweed-leap-trends-landing-page-almost-ready/
-title: "The weekly review: LibreOffice 5 in Tumbleweed, Leap trends, landing\
-  \ page almost ready"
+slug: the-weekly-review-libreoffice-5-in-tumbleweed-leap-trends-landing-page-almost-ready
+title: 'The weekly review: LibreOffice 5 in Tumbleweed, Leap trends, landing page
+  almost ready'
+wordpress_id: 19398
 categories:
 - Weekly News
 ---
-[![IMG_0321]({{ site.baseurl }}/assets/IMG_0321-169x300.png)]({{ site.baseurl }}/assets/IMG_0321.png)Tumbleweed had four snapshots since our last weekly review, upgraded to a newer Kernel and has the latest [LibreOffice 5](https://blog.documentfoundation.org/2015/08/05/libreoffice-5-0-stands-out-from-the-office-suite-crowd/), while Leap’s roadmap was published and version 42 is a trending topic on the [Factory mailing list](http://lists.opensuse.org/opensuse-factory/).
+
+[![IMG_0321](/wp-content/uploads/2015/08/IMG_0321.png)](/wp-content/uploads/2015/08/IMG_0321.png)Tumbleweed had four snapshots since our last weekly review, upgraded to a newer Kernel and has the latest [LibreOffice 5](https://blog.documentfoundation.org/2015/08/05/libreoffice-5-0-stands-out-from-the-office-suite-crowd/), while Leap’s roadmap was published and version 42 is a trending topic on the [Factory mailing list](http://lists.opensuse.org/opensuse-factory/).
 
 
 ### **Tumbleweed - TW**
@@ -31,7 +34,7 @@ In the [20150810 snapshot](http://lists.opensuse.org/opensuse-factory/2015-08/ms
 
 [A list that updates every six hours](https://forum.suse.org.cn/leap.html) shows packages in Factory, which are not yet in Leap. Package maintainers need to make a conscious effort to submit items in Factory to Leap if they want them in 42.1.
 
-Maintainers and developers submitting their packages to Leap are asked to add the information to the [Leap Features ](https://en.opensuse.org/openSUSE:Major_features42.1)[template](https://en.opensuse.org/openSUSE:Major_features42.1) on the wiki. This will highlight new features and versions in Leap and, if you email [ddemaio@suse.de](mailto:ddemaio@suse.de), I can highlight some of these new items in [news.opensuse.org](https://news.opensuse.org/).
+Maintainers and developers submitting their packages to Leap are asked to add the information to the [Leap Features ](https://en.opensuse.org/openSUSE:Major_features42.1)[template](https://en.opensuse.org/openSUSE:Major_features42.1) on the wiki. This will highlight new features and versions in Leap and, if you email [ddemaio@suse.de](mailto:ddemaio@suse.de), I can highlight some of these new items in [news.opensuse.org](//news.opensuse.org/).
 
 Leap 42.1 aligns with SUSE Linux Enterprise 12 Service Pack 1, which recently released a Beta. The source code from SP1 will be included in the second Milestone, which is expected to be released on Sept. 4. Leap and SLE share a common core, which aids in getting your contributions in future releases of SLE.
 
@@ -45,4 +48,4 @@ The [new landing page](http://cyntss.github.io/opensuse-landing-page/#) for open
 #### FrOSCon
 
 
-Next weekend we will be at the [Free and Open Source Software Conferenc](https://www.froscon.de/en/home/)e at the University of Applied Sciences Bonn-Rhein-Sieg. The conference takes place August 22 – 23 at [Hochschule Bonn-Rhein-Sieg, Grantham-Allee 20, 53757 Sankt Augustin](http://www.openstreetmap.org/?minlon=7.18247890472412&minlat=50.7794532775879&maxlon=7.18388938903809&maxlat=50.7800941467285#map=19/50.77977/7.18318). Come see us at our booth and watch the excellent presentations that will be at this FOSS event.		
+Next weekend we will be at the [Free and Open Source Software Conferenc](https://www.froscon.de/en/home/)e at the University of Applied Sciences Bonn-Rhein-Sieg. The conference takes place August 22 – 23 at [Hochschule Bonn-Rhein-Sieg, Grantham-Allee 20, 53757 Sankt Augustin](http://www.openstreetmap.org/?minlon=7.18247890472412&minlat=50.7794532775879&maxlon=7.18388938903809&maxlat=50.7800941467285#map=19/50.77977/7.18318). Come see us at our booth and watch the excellent presentations that will be at this FOSS event.
