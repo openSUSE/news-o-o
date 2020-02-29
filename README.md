@@ -15,8 +15,11 @@ openSUSE News Website, providing news to the community.
     layout: post
     title: My First Post
     image: /assets/images/omw.png
-    categories: Announcements
-    tags: infrastructure websites
+    categories:
+    - Announcements
+    tags:
+    - infrastructure
+    - websites
     ---
 
     Write you post in Markdown and HTML...
