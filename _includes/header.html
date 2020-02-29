@@ -1,23 +1,78 @@
-<nav class="navbar navbar-expand-md navbar-light bg-light noprint">
+<nav class="navbar navbar-expand-md noprint">
+
   <a class="navbar-brand" href="/">
-    <img src="https://static.opensuse.org/chameleon/dist/images/logo/logo-white.svg" class="mr-2" alt="Logo">
-    <span>News</span>
+    <svg class="icon icon-2x mr-2">
+      <use xlink:href="#opensuse"></use>
+    </svg>
+    <span class="navbar-title">News</span>
   </a>
+
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#site-menu">
-    <span class="navbar-toggler-icon"></span>
+    <svg class="icon">
+      <use xlink:href="#menu-line"></use>
+    </svg>
   </button>
+
   <div class="collapse navbar-collapse" id="site-menu">
-    <div class="nav navbar-nav ml-auto">
-      <div class="nav-item">
-        <a class="nav-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">
-          <span class="fa fa-rss"></span>
-          <span class="d-md-none">RSS Feed</span>
+    <ul class="nav navbar-nav mr-md-3">
+      <!-- Categories Dropdown -->
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="cat-menu-link" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          <svg class="icon">
+            <use xlink:href="#newspaper-line"></use>
+          </svg>
+          Categories
         </a>
+        <div class="dropdown-menu" aria-labelledby="cat-menu-link">
+          {% for category in site.categories %}
+          {% capture category_name %}{{ category | first }}{% endcapture %}
+          <a class="dropdown-item" href="/category/{{ category_name | slugify }}">
+            {{ category_name }}
+          </a>
+          {% endfor %}
+        </div>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/openSUSE/news-o-o#how-to-submit-a-new-post">
+          <svg class="icon">
+            <use xlink:href="#quill-pen-line"></use>
+          </svg>
+          New Post
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="{{ '/feed.xml' | prepend: site.baseurl }}">
+          <svg class="icon">
+            <use xlink:href="#rss-line"></use>
+          </svg>
+          RSS Feed
+        </a>
+      </li>
+    </ul>
+
+    <!-- DuckDuckGo Site Search -->
+    <form id="ddg-form" class="form-inline" action="https://duckduckgo.com/">
+      <div class="input-group">
+        <input id="ddg-input" class="form-control" type="search" name="q" placeholder="Search" />
+        <div class="input-group-append">
+          <button class="btn btn-secondary" type="submit">
+            <svg class="icon">
+              <use xlink:href="#search-line"></use>
+            </svg>
+          </button>
+        </div>
       </div>
-      <form class="form-inline" target="_blank" action="https://github.com/openSUSE/news-o-o/search" method="GET">
-        <input id="searchbox" class="form-control" type="text" name="q" placeholder="Search" lang="en">
-        <input type="hidden" value="Markdown" name="l">
-      </form>
-    </div>
+      <script>
+        const form = document.getElementById("ddg-form");
+        const input = document.getElementById("ddg-input");
+        form.addEventListener("submit", function (e) {
+          input.value += " site:news.opensuse.org";
+        });
+      </script>
+    </form>
   </div>
+
 </nav>
