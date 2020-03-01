@@ -127,7 +127,7 @@
 .breadcrumb{
   white-space: nowrap;
   display: block;
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 .breadcrumb-item{
