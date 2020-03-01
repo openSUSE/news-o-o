@@ -124,6 +124,16 @@
   overflow-y: hidden;
 }
 
+.breadcrumb{
+  white-space: nowrap;
+  display: block;
+  overflow-x: scroll;
+}
+
+.breadcrumb-item{
+  display: inline-block;
+}
+
 pre.highlight {
   border: 1px solid #ddd;
   padding: 1rem;
