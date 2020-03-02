@@ -13,7 +13,7 @@
       <title>{{ post.title | xml_escape }}</title>
       <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
       <link>{{ site.url }}{{ post.url }}</link>
-      <description>{{ post.content | xml_escape }}</description>
+      <description>{{ post.content | strip_html | xml_escape | truncatewords: 25 }}…</description>
     </item>
 {% endfor %}
   </channel>
