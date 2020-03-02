@@ -16,6 +16,7 @@ moved from being a Wordpress application to a Jekyll static site
 developed directly on Github. Now you too can write an article, or a
 series of articles, by sending pull requests to the openSUSE/news-o-o
 repository.
+<!--more-->
 
 ### How to do it
 
