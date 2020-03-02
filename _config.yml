@@ -8,7 +8,6 @@ sourcecode: "https://github.com/openSUSE/news-o-o"
 
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
 paginate: 10
