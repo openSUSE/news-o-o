@@ -6,6 +6,8 @@ baseurl: ""
 url: "https://news.opensuse.org"
 sourcecode: "https://github.com/openSUSE/news-o-o"
 
+excerpt_separator: <!--more-->
+
 markdown: kramdown
 plugins:
   - jekyll-paginate
