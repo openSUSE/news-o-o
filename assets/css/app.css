@@ -104,6 +104,12 @@
   color: black
 }
 
+@media (prefers-color-scheme: dark) {
+  .text-black p {
+   color: white
+  }
+}
+
 .text-black:hover {
   color: #444
 }
