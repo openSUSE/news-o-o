@@ -309,7 +309,7 @@ Those of the perfect System Administrator... I would like this much better than 
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Lost! But there are some decent alternatives: sports, sun, sleep, just to mention a few.
@@ -379,7 +379,7 @@ Visit somebody, such as family or friends, that live far away.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Buy an amazing house.
@@ -389,7 +389,7 @@ Buy an amazing house.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Now and here! I'm happy to have the chance of living this Age.
@@ -399,7 +399,7 @@ Now and here! I'm happy to have the chance of living this Age.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No, I have UPS, in the worst case I will have to replace the fuse.

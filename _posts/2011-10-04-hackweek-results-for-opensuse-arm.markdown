@@ -14,7 +14,7 @@ categories:
 
 [![ARM powered logo](/wp-content/uploads/2011/10/150px-ARM_powered.png)](http://news.opensuse.org/2011/10/04/hackweek-results-for-opensuse-arm/150px-arm_powered/)
 
-Last Friday Dirk MÃ¼ller [send an email to openSUSE-Factory](http://lists.opensuse.org/opensuse-factory/2011-09/msg01259.html) about the status of the [openSUSE ARM port](http://en.opensuse.org/Portal:ARM). SUSE employees Adrian, Alexander, Dirk and Reinhard had spend their Hackweek revitalizing the initial work by Jan-Simon and Martin by getting openSUSE Factory on ARM to build and work. The [current build status on OBS](https://build.opensuse.org/project/show?project=openSUSE%3AFactory%3AARM) shows that almost  2500 packages are working successfully and the team invites anyone interested to come and help increase that number!
+Last Friday Dirk Müller [send an email to openSUSE-Factory](http://lists.opensuse.org/opensuse-factory/2011-09/msg01259.html) about the status of the [openSUSE ARM port](http://en.opensuse.org/Portal:ARM). SUSE employees Adrian, Alexander, Dirk and Reinhard had spend their Hackweek revitalizing the initial work by Jan-Simon and Martin by getting openSUSE Factory on ARM to build and work. The [current build status on OBS](https://build.opensuse.org/project/show?project=openSUSE%3AFactory%3AARM) shows that almost  2500 packages are working successfully and the team invites anyone interested to come and help increase that number!
 
 <!-- more -->
 

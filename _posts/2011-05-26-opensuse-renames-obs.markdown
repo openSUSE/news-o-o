@@ -26,13 +26,13 @@ OBS is a unique piece of technology and certainly deserves to be known and used 
 ## Communication
 
 
-In highlighting the benefits of OBS to the masses, the over-reaching assumption that the service is openSUSE-specfic proved to be a deterrent. It clearly takes additional effort to convince a potential user that despite the name, openSUSE Build Service was not _just_ for openSUSE.Â  And the distribution-independent technological benefits became lost in the confusion. This effect is very apparent in face to face communication as you'll almost immediately hear others saying "No, I'm a Fedora packager, this has nothing to do with me.Â  Sorry." when they hear about OBS. This same effect lead to less people reading articles or attending talks on the subject.
+In highlighting the benefits of OBS to the masses, the over-reaching assumption that the service is openSUSE-specfic proved to be a deterrent. It clearly takes additional effort to convince a potential user that despite the name, openSUSE Build Service was not _just_ for openSUSE.  And the distribution-independent technological benefits became lost in the confusion. This effect is very apparent in face to face communication as you'll almost immediately hear others saying "No, I'm a Fedora packager, this has nothing to do with me.  Sorry." when they hear about OBS. This same effect lead to less people reading articles or attending talks on the subject.
 
 And while this was an undesirable effect for us promoting one of the key features of the openSUSE Project, we also recognized this was preventing developers and packagers wanting to promote and distribute their software projects from benefiting from a service that would truly enable them to achieve that goal.
 
 As our openSUSE ambassadors around the world have been stepping up our communication and promotion around OBS, they have noticed this effect. After some discussion on the international marketing mailing list it was agreed to recommend the OBS team to rename their technology to Open Build Service. This would retain the OBS acronym and excellent search engine position at the slight expense of a weakened link between the openSUSE community, where OBS originated, and the Build Service currently lives.
 
-But it would clearly signal the open and collaborative nature of OBS and allow OBS to spread its wings and reach an even wider audience, benefiting all of Free Software.Â  And that has always and continues to be the higher goal of the openSUSE Project.
+But it would clearly signal the open and collaborative nature of OBS and allow OBS to spread its wings and reach an even wider audience, benefiting all of Free Software.  And that has always and continues to be the higher goal of the openSUSE Project.
 
 
 ## Decision

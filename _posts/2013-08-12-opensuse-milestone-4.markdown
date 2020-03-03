@@ -13,7 +13,7 @@ categories:
 ---
 
 [![128px-Icon-yast](//news.opensuse.org/wp-content/uploads/2013/08/128px-Icon-yast.png)](//news.opensuse.org/wp-content/uploads/2013/08/128px-Icon-yast.png)
-openSUSE Milestone 4, and final Milestone before starting the Beta process, is out for everyone to test. The process has worked out normally and although this Milestone came a few hours after it was planned, the process remains steady.Â openSUSE 13.1 is expected to be released in November of 2013 just in time for our second annual [openSUSE Summit](http://summit.opensuse.org). The summit will provide an excellent opportunity for you to meet the people who took your contributions and made them part of the final openSUSE product. There will be plenty to talk about and it is also a good opportunity for you to present on what your worked on for 13.1. Do not miss the fun!<!-- more -->
+openSUSE Milestone 4, and final Milestone before starting the Beta process, is out for everyone to test. The process has worked out normally and although this Milestone came a few hours after it was planned, the process remains steady. openSUSE 13.1 is expected to be released in November of 2013 just in time for our second annual [openSUSE Summit](http://summit.opensuse.org). The summit will provide an excellent opportunity for you to meet the people who took your contributions and made them part of the final openSUSE product. There will be plenty to talk about and it is also a good opportunity for you to present on what your worked on for 13.1. Do not miss the fun!<!-- more -->
 
 
 ## openSUSE 13.1 M4
@@ -77,7 +77,7 @@ And furthermore there were minor updates to the kernel (we're waiting for the ne
 ### Go, test!
 
 
-openSUSE only features one beta version for testing (see the [roadmap](https://en.opensuse.org/openSUSE:Roadmap)). Toolchain and Base system have already been frozen for bugfixes-only. Little by little and faster than you think, openSUSE will be ready to deliver the goods for those looking to test the most polished and stable Linux distribution to date. Â The beta features will enter our freeze time and only major critical bug fixes will be allowed and the same freeze will be applied to translations. This means that now is the time for you to make your contributions. Hurry, because the beta process will not allow new features to be included.
+openSUSE only features one beta version for testing (see the [roadmap](https://en.opensuse.org/openSUSE:Roadmap)). Toolchain and Base system have already been frozen for bugfixes-only. Little by little and faster than you think, openSUSE will be ready to deliver the goods for those looking to test the most polished and stable Linux distribution to date.  The beta features will enter our freeze time and only major critical bug fixes will be allowed and the same freeze will be applied to translations. This means that now is the time for you to make your contributions. Hurry, because the beta process will not allow new features to be included.
 
 
 ## We're a community!

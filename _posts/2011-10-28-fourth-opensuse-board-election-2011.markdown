@@ -22,10 +22,10 @@ So, if you want to participate in the openSUSE board and influence the future di
 ## Timeline
 
 
-[![](/wp-content/uploads/2011/10/4592711863_9c161a0ac3.jpg)](http://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/4592711863_9c161a0ac3/)The Committee has prepared the timeline for this yearâ€™s election. The election process consists of the following phases:
+[![](/wp-content/uploads/2011/10/4592711863_9c161a0ac3.jpg)](http://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/4592711863_9c161a0ac3/)The Committee has prepared the timeline for this year’s election. The election process consists of the following phases:
 
 
-#### **October 28, 2011** -Â  Start of standing up for candidacy, apply for membership
+#### **October 28, 2011** -  Start of standing up for candidacy, apply for membership
 
 
 
@@ -43,7 +43,7 @@ So, if you want to participate in the openSUSE board and influence the future di
 
 
 
-#### **November 25, 2011** -Â  Start of campaign
+#### **November 25, 2011** -  Start of campaign
 
 
 
@@ -80,7 +80,7 @@ So, if you want to participate in the openSUSE board and influence the future di
 ## Seats to get elected
 
 
-In this election we will have three seats to get elected, as the election period of three board seats will be up for election.Â These seats are currently held by [Rupert Horstkotter](http://en.opensuse.org/User:Rhorstkoetter), [Pavol Rusnak](http://en.opensuse.org/User:Prusnak), and [Bryen Yunashko](http://en.opensuse.org/User:Byunashko). Of these three, only Pavol Rusnak is available to get re-elected.
+In this election we will have three seats to get elected, as the election period of three board seats will be up for election. These seats are currently held by [Rupert Horstkotter](http://en.opensuse.org/User:Rhorstkoetter), [Pavol Rusnak](http://en.opensuse.org/User:Prusnak), and [Bryen Yunashko](http://en.opensuse.org/User:Byunashko). Of these three, only Pavol Rusnak is available to get re-elected.
 
 
 ## Call for candidates and nominations
@@ -97,7 +97,7 @@ If you intend to run for the board or have any questions, please contact the Ele
 ## What is the openSUSE Board?
 
 
-The [openSUSE board](http://en.opensuse.org/openSUSE:Board) consists of five members elected by the community and one chair person appointed by SUSE. It was setup to lead the overall project. Itâ€™s main tasks are:
+The [openSUSE board](http://en.opensuse.org/openSUSE:Board) consists of five members elected by the community and one chair person appointed by SUSE. It was setup to lead the overall project. It’s main tasks are:
 
 
 

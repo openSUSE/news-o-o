@@ -333,7 +333,7 @@ Most members of the Greek openSUSE community.
 
 
 
-#### What is the application you canâ€™t live without? And why?
+#### What is the application you can’t live without? And why?
 
 
 
@@ -400,7 +400,7 @@ Hmm, tough question, i want all people famous or not to join the community. Does
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 
@@ -521,7 +521,7 @@ Well I am about to continue my studies towards obtaining a master degree in Arti
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 
@@ -535,7 +535,7 @@ In 60s-70s-80s best music ever!
 
 
 
-#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
+#### There’s a thunderstorm outside — do you turn off your computer?
 
 
 
@@ -580,7 +580,7 @@ I can't think anything  now...
 
 
 
-#### You couldnâ€™t live withoutâ€¦
+#### You couldn’t live without…
 
 
 

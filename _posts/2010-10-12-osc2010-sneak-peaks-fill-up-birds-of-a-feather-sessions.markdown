@@ -5,7 +5,7 @@ date: 2010-10-12 13:20:28+00:00
 layout: post
 link: https://news.opensuse.org/2010/10/12/osc2010-sneak-peaks-fill-up-birds-of-a-feather-sessions/
 slug: osc2010-sneak-peaks-fill-up-birds-of-a-feather-sessions
-title: OSC2010 Sneak Peaks â€“ Fill up Birds of a Feather sessions
+title: OSC2010 Sneak Peaks – Fill up Birds of a Feather sessions
 wordpress_id: 5071
 categories:
 - Conference

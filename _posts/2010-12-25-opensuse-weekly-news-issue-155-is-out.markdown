@@ -25,7 +25,7 @@ We are pleased to announce our openSUSE Weekly News Issue 155.
 
 ### openSUSE Weekly News Team
 
-ProducerÂ 
+Producer 
 
 Published: 
 
@@ -97,14 +97,14 @@ Enjoy the reading :-)
         Attachmate Corporation about his views and intentions around SUSE and openSUSE. Jeff has
         commented that SUSE is an important brand and business that he wants to strengthen. What are
         his thoughts about the community and what does he see for SUSE and openSUSE? Here below are
-        the questions I put forward and Jeffâ€™s current thoughts. â€“Jos
+        the questions I put forward and Jeff’s current thoughts. –Jos
 > 
 > 
       
 > 
 >   1. **Open Source**
 > 
-> What is Attachmateâ€™s history with
+> What is Attachmate’s history with
                 open source projects? 
 > 
 > Attachmate does not have a corporate track record in the open source business.
@@ -119,16 +119,16 @@ Enjoy the reading :-)
             understand what the community has developed, particularly over the last decade, and we
             are excited to be part of its future.
 > 
-> What is Attachmateâ€™s view of open
+> What is Attachmate’s view of open
                 source software?
 > 
 > Attachmate recognizes that enterprises all over the world are utilizing more open
             source technology in their infrastructures, data centers and desktops every year. We
-            believe this is a trend that will continue and thatâ€™s why we are excited about the Open
+            believe this is a trend that will continue and that’s why we are excited about the Open
             Platform Solutions business and in particular, the SUSE Linux community.
 > 
 > It is easy for people to assume that because we are not currently in the open source
-            business, we donâ€™t value or understand it. This is far from the case. We are in the
+            business, we don’t value or understand it. This is far from the case. We are in the
             business of meeting customer needs and they see great value in utilizing open source
             technology solutions. Because of its open nature, open source is being adopted by
             enterprises in all industries around the world. Our intent is to keep it that way and
@@ -147,14 +147,14 @@ Enjoy the reading :-)
             a well regarded and proven technology in the open source and enterprise Linux community
             and we want to further build upon that. We intend for SUSE to continue to provide the
             same high quality open source technology solutions, such as SUSE Linux Enterprise
-            Server, needed to meet usersâ€™ demands for scalability, interoperability and cost
+            Server, needed to meet users’ demands for scalability, interoperability and cost
             effectiveness.
 > 
 > What will the SUSE business unit
-                be â€“ what do you mean by â€œbusiness unitâ€?
+                be – what do you mean by “business unit”?
 > 
 > A business unit brings together all the resources, IP, people and infrastructure
-            needed to operate â€“ to build product, deliver solutions and support customers. So, what
+            needed to operate – to build product, deliver solutions and support customers. So, what
             is known today as Open Platform Solutions will now be centralized within the SUSE
             business unit. In most respects SUSE will continue to operate as it did as OPS, but will
             benefit from being a dedicated and more visible brand with a focused business unit
@@ -173,7 +173,7 @@ Enjoy the reading :-)
 > How do you plan to compete in the
                 Linux market? 
 > 
-> Weâ€™re excited about SUSE because of the great competitive advantages it already has.
+> We’re excited about SUSE because of the great competitive advantages it already has.
             With thousands of certified ISV applications, the best interoperability and unsurpassed
             scalability, it provides the best value and the lowest cost of ownership on the market.
             Attachmate intends to continue that commitment to high quality and cost-effective
@@ -218,7 +218,7 @@ Enjoy the reading :-)
                 support the openSUSE conference?
 > 
 > No decisions have been made about the ongoing sponsorship of openSUSE conference. It
-            is simply too early to reach conclusions on specific areas such as this â€“ more
+            is simply too early to reach conclusions on specific areas such as this – more
             integration work and collaboration with the SUSE team is needed. Our overall intent is
             to maintain the continuity of success we see within the SUSE business and that includes
             continuing to work closely with the openSUSE community.
@@ -227,13 +227,13 @@ Enjoy the reading :-)
                 other effects on the openSUSE project or community?
 > 
 > We look forward to learning more about the project and working together with the
-            community to figure out whatâ€™s working well, what could be done differently or improved.
+            community to figure out what’s working well, what could be done differently or improved.
             This will be a highly collaborative relationship.
 > 
 > Does Attachmate intend to shut
                 down the openSUSE community project?
 > 
-> No, we donâ€™t. Attachmate intends to continue the sponsorship and collaboration with
+> No, we don’t. Attachmate intends to continue the sponsorship and collaboration with
             the openSUSE project. We view the openSUSE project and its extended community as an
             important part of the overall SUSE business and we value its contributions to the
             technology that forms the heart of the SUSE offerings (see related statement on the
@@ -282,28 +282,28 @@ Enjoy the reading :-)
       based on current expectations and beliefs and are subject to a number of risks, uncertainties
       and assumptions that could cause actual results to differ materially from those described in
       the forward-looking statements. Any statements that are not statements of historical fact
-      (such as statements containing the words â€œbelieves,â€
-      â€œplans,â€
-      â€œanticipates,â€
-      â€œexpects,â€
-      â€œestimatesâ€ and similar expressions) should be considered forward-looking
+      (such as statements containing the words “believes,”
+      “plans,”
+      “anticipates,”
+      “expects,”
+      “estimates” and similar expressions) should be considered forward-looking
       statements. Among others, the following risks, uncertainties and other factors could cause
       actual results to differ from those set forth in the forward-looking statements: (i) the risk
       that the merger may be delayed or may not be consummated; (ii) the risk that the definitive
       merger agreement may be terminated in circumstances that require Novell to pay Attachmate a
-      termination fee of $60 million; (iii) risks related to the diversion of managementâ€™s attention
-      from Novellâ€™s ongoing business operations; (iv) risks regarding the failure of Attachmate to
+      termination fee of $60 million; (iii) risks related to the diversion of management’s attention
+      from Novell’s ongoing business operations; (iv) risks regarding the failure of Attachmate to
       obtain the necessary financing to complete the merger; (v) the effect of the announcement of
-      the patent sale or the merger on Novellâ€™s business relationships (including, without
+      the patent sale or the merger on Novell’s business relationships (including, without
       limitation, partners and customers), operating results and business generally; and (vi) risks
       related to obtaining the requisite consents to the patent sale and the merger, including,
       without limitation, the timing (including possible delays) and receipt of regulatory approvals
       from various governmental entities (including any conditions, limitations or restrictions
       placed on these approvals) and the risk that one or more governmental entities may deny
-      approval. Additional risk factors that may affect future results are contained in Novellâ€™s
-      filings with the U.S. Securities and Exchange Commission (the â€œSECâ€), including
-      Novellâ€™s Annual Report on Form 10-K for the fiscal year ended October 31, 2010, which are
-      available at the SECâ€™s website http://www.sec.gov. Because forward-looking statements involve
+      approval. Additional risk factors that may affect future results are contained in Novell’s
+      filings with the U.S. Securities and Exchange Commission (the “SEC”), including
+      Novell’s Annual Report on Form 10-K for the fiscal year ended October 31, 2010, which are
+      available at the SEC’s website http://www.sec.gov. Because forward-looking statements involve
       risks and uncertainties, actual results and events may differ materially from results and
       events currently expected. Novell expressly disclaims any obligation or undertaking to update
       or revise any forward-looking statements contained herein to reflect any change of
@@ -320,21 +320,21 @@ Enjoy the reading :-)
       those documents, because they contain or will contain important information about Novell, the
       merger and the other parties to the merger. Investors and security holders may obtain these
       documents (and any other documents filed by Novell and Attachmate with the SEC) free of charge
-      at the SECâ€™s website at http://www.sec.gov. In addition, the documents filed with the SEC by
+      at the SEC’s website at http://www.sec.gov. In addition, the documents filed with the SEC by
       Novell may be obtained free of charge by directing such request to: Novell Investor Relations
-      at 1-800-317-3195 or from the investor relations portion of Novellâ€™s website at
+      at 1-800-317-3195 or from the investor relations portion of Novell’s website at
       http://www.novell.com/company/ir/. **Investors and security holders are
         urged to read the definitive proxy statement and the other relevant materials when they
         become available before making any voting or investment decision with respect to the
         merger.** Novell and its directors and executive officers may be deemed to be
-      participants in the solicitation of proxies from Novellâ€™s stockholders in respect of the
-      merger. Information regarding Novellâ€™s directors and executive officers is contained in
-      Novellâ€™s proxy statement for its 2010 Annual Meeting of Stockholders, dated February 26, 2010,
+      participants in the solicitation of proxies from Novell’s stockholders in respect of the
+      merger. Information regarding Novell’s directors and executive officers is contained in
+      Novell’s proxy statement for its 2010 Annual Meeting of Stockholders, dated February 26, 2010,
       and subsequent filings which Novell has made with the SEC, including its Annual Report on Form
       10-K for the fiscal year ended October 31, 2010. Stockholders may obtain additional
       information about the directors and executive officers of Novell and their respective
       interests with respect to the merger by security holdings or otherwise, which may be different
-      than those of Novellâ€™s stockholders generally, by reading the preliminary proxy statement and
+      than those of Novell’s stockholders generally, by reading the preliminary proxy statement and
       the definitive proxy statement and other relevant documents regarding the merger, when filed
       with the SEC. Each of these documents is, or will be, available as described above. Other
       Sources: [phoronix](http://bit.ly/own1551)
@@ -349,15 +349,15 @@ Enjoy the reading :-)
 > 
 > For the full transcript of the last openSUSE Board meeting, see our [logs](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html). 
 > 
-> **Introduction of new openSUSE Board Chairman â€“ Alan Clark
+> **Introduction of new openSUSE Board Chairman – Alan Clark
       **
 > 
 > We opened with an introduction to new Board Chairman, Alan Clark who answered general
-      questions from the community about his role and goals. To the question of what Clarkâ€™s goals
+      questions from the community about his role and goals. To the question of what Clark’s goals
       are he answered:
 > 
 >   1. The top goal is as a Board to get the Foundation up and operational. As we continue
-            to work towards this, Iâ€™m sure that we will uncover other issues that we will need to
+            to work towards this, I’m sure that we will uncover other issues that we will need to
             address
 > 
 >   2. Grow the Community
@@ -366,7 +366,7 @@ Enjoy the reading :-)
             know as many people as possible -simply because that is the fun part of being in a
             community.
 > 
->   4. Let people get their work done; er â€œhave a lot of funâ€
+>   4. Let people get their work done; er “have a lot of fun”
 > 
 > Alan also provided his background experience with open source projects, both within Novell
       and outside Novell. 
@@ -410,7 +410,7 @@ Enjoy the reading :-)
       regularly posting summaries of meetings (which is what you are reading now.)
 > 
 > We also took a general board action item to review [opensuse.org product
-        category in openFATE](https://features.opensuse.org/statistic/product/opensuse.org) to ensure we stay on top of â€œWhere do we fail?â€ concerns that
+        category in openFATE](https://features.opensuse.org/statistic/product/opensuse.org) to ensure we stay on top of “Where do we fail?” concerns that
       are not brought up during board meetings.
 > 
 > Read here for the [full meeting transcript](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html).
@@ -432,9 +432,9 @@ Enjoy the reading :-)
 > 
 > **Major Features**:
 > 
->   * Kernel 2.6.37rc5-12 is the basis of M5, including the famous â€œ200 lineâ€ per tty task
+>   * Kernel 2.6.37rc5-12 is the basis of M5, including the famous “200 line” per tty task
           groups patch to improve desktop interactivity, and featuring the almost-complete removal
-          of the so-called â€˜Big Kernel Lockâ€™, which should improve scalability. This kernel supports
+          of the so-called ‘Big Kernel Lock’, which should improve scalability. This kernel supports
           new drivers, including Broadcom wireless and updated open-source graphics drivers, and a
           host of the usual other improvements.
 > 
@@ -488,7 +488,7 @@ Enjoy the reading :-)
 
 <blockquote>**openSUSE Weekly News searches for contributors**
 > 
-> **FigureÂ 1.Â Merry Christmas (c) PÃ©ronne vd Ham / pixelio.de**
+> **Figure 1. Merry Christmas (c) Péronne vd Ham / pixelio.de**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Merry Christmas (c) Péronne vd Ham / pixelio.de](http://images.pixelio.de/data/media/51/sterre_22_wr_Large.jpg)
@@ -549,7 +549,7 @@ Enjoy the reading :-)
         SMB Traffic Analyzer under certain traffic conditions. It also can easily be used to just
         try out SMB Traffic Analyzer.
 > 
-> **FigureÂ 2.Â SMBTA Stresstest running in VirtualBox**
+> **Figure 2. SMBTA Stresstest running in VirtualBox**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![SMBTA Stresstest running in VirtualBox](http://holger123.files.wordpress.com/2010/12/smbtastresstester.png)
@@ -559,9 +559,9 @@ Enjoy the reading :-)
 
 > 
 > With this first release, **SMBTA Stresstest**
-        FigureÂ 2, â€œSMBTA Stresstest running in VirtualBoxâ€ comes with a **Samba** Server that
-        is configured for two shares, â€œOfficespaceâ€ and â€œmusicâ€, and logs traffic on those shares
-        using SMB Traffic Analyzer. Two users are preconfigured, â€œholgerâ€ and â€œjohnâ€, and for those
+        Figure 2, “SMBTA Stresstest running in VirtualBox” comes with a **Samba** Server that
+        is configured for two shares, “Officespace” and “music”, and logs traffic on those shares
+        using SMB Traffic Analyzer. Two users are preconfigured, “holger” and “john”, and for those
         two instances of the **smbtatorture** program is started,
         producing infinite traffic on the shares.
 > 
@@ -572,14 +572,14 @@ Enjoy the reading :-)
         should be able to run on **KVM**, **VMware**, and **VirtualBox**. The appliance is
         completely self-contained, runs the smbtatorture processes directly after reaching runlevel
         3,and Built with SUSE Studio if your virtual machine is setup to be reachable from the
-        hostâ€™s network, all the SMBTA tools like rrddriver or smbtaquery can be run against it, once
+        host’s network, all the SMBTA tools like rrddriver or smbtaquery can be run against it, once
         you know the IP adress of SMBTA Stresstester (the appliance root password is
-        â€œlinuxâ€):
+        “linux”):
 >     
->     smbtaquery -i 3491 -h 192.168.178.26 -q â€˜global, usage rw;â€™
+>     smbtaquery -i 3491 -h 192.168.178.26 -q ‘global, usage rw;’
 > 
 > SMBTA Stresstest is available in the [SUSE Gallery](http://susegallery.com/a/HkqPEE/smbta-stresstest), and we also
-        uploaded it to [this place](http://morelias.org/smbta/SMBTA_Stresstest.i686-0.0.1.ovf.tar.gz). For more information on SMB Traffic Analyzer, please check out itâ€™s
+        uploaded it to [this place](http://morelias.org/smbta/SMBTA_Stresstest.i686-0.0.1.ovf.tar.gz). For more information on SMB Traffic Analyzer, please check out it’s
           [homepage](http://holger123.wordpress.com/smb-traffic-analyzer/). Merry
         Christmas and a happy new year.
 > 
@@ -590,7 +590,7 @@ Enjoy the reading :-)
 #### ![Header Picture](/wp-content/uploads/2010/12/Logo-art.png)Art Team
 
 <blockquote>**
-          [Sirko Kemter: openSUSE 11.4 â€“ Color trouble](http://karl-tux-stadt.de/ktuxs/?p=2950)
+          [Sirko Kemter: openSUSE 11.4 – Color trouble](http://karl-tux-stadt.de/ktuxs/?p=2950)
         **
 > 
 > If you have the last Milestone of openSUSE, thats already number 5, installed then you
@@ -734,7 +734,7 @@ Enjoy the reading :-)
             [Off-Line one click install (MSI for Linux) (Score: 54)](https://features.opensuse.org/305582)
           **
 > 
-> "Idea from community member RaÃºl GarcÃ­a. Same concept as MSI packages for
+> "Idea from community member Raúl García. Same concept as MSI packages for
             Windows but exploiting the One Click Install concept of openSUSE (and therefore
             inheriting the simplicity, code and security. (...)"
 > 
@@ -872,7 +872,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
 
@@ -888,7 +888,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
   * [December
             22, 2010 : German Wiki Team Meeting](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
-  * [December 23, 2010 : ï»¿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [December 23, 2010 : ﻿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 **Upcoming**
 
@@ -919,28 +919,28 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 <blockquote>**[Packman: puddletag
         0.9.10-0.pm](http://packman.links2linux.org/package/puddletag)**
 > 
-> â€œpuddletag is a tag editor for Linux loosely based on mp3tag. It uses a table layout
+> “puddletag is a tag editor for Linux loosely based on mp3tag. It uses a table layout
         so that all the tags you want to edit by hand are visible and easily editable. puddletag
         excels at automating repetitive tasks like extracting tag information from filenames,
         tagging files from a text file or the clipboard, renaming or moving files and folders based
         on tags by using patterns, and manipulating tags using actions and regular expressions.
         Supported formats include id3v1, id3v2 (.mp3), AAC (.m4a), VorbisComments (.ogg, .flac), and
         APEv2 (.ape). Much of mp3tag's functionality has been replicated with added enhancements and
-        tweaks.â€
+        tweaks.”
 > 
 > </blockquote>
 
 <blockquote>**[Packman: xmms2
         0.7-13.pm](http://packman.links2linux.org/package/xmms2)**
 > 
-> â€œXMMS2 is an audio framework, but it is not a general multimedia player - it will
+> “XMMS2 is an audio framework, but it is not a general multimedia player - it will
         not play videos. It has a modular framework and plugin architecture for audio processing,
         visualisation and output, but this framework has not been designed to support video. Also
         the client-server design of XMMS2 (and the daemon being independent of any graphics output)
         practically prevents direct video output being implemented. It has support for a wide range
         of audio formats, which is expandable via plugins. It includes a basic CLI interface to the
         XMMS2 framework, but most users will want to install a graphical XMMS2 client (such as
-        gxmms2 or esperanza).â€
+        gxmms2 or esperanza).”
 > 
 > </blockquote>
 
@@ -992,7 +992,7 @@ To view the security announcements in full, or to receive them
 > We have noticed that WebYaST is not really known in the OpenSuSE community. One reason
         for is that WebYaST is not really user friendly regarding the installation.
 > 
-> So we have investigate here some effort. Lets seeâ€¦.
+> So we have investigate here some effort. Lets see….
 > 
 > **Installation**
 > 
@@ -1046,21 +1046,21 @@ To view the security announcements in full, or to receive them
 > </td></tr></table>
 > 
 > With this applet you can start WebYaST in your browser too. After accepting the GPG-key
-        please login with your â€œrootâ€ account.
+        please login with your “root” account.
 > 
-> And thatâ€™s WebYaST:
+> And that’s WebYaST:
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![](http://lizards.opensuse.org/wp-content/uploads/2010/12/webyast.png)
 > </td></tr></table>
 > 
-> Thatâ€™s all.
+> That’s all.
 > 
 > (Yes, I know that sentence is written almost in every post here. Even in posts where
         problems just starting after the sentence has been read. :-) )But I think that should be
         really all. If not, please use bugzilla and blame us ! Have fun ! 
 > 
-> (Yes, I know thatâ€™s the second sentence which should be in every blog :-) )
+> (Yes, I know that’s the second sentence which should be in every blog :-) )
 > 
 > </blockquote>
 
@@ -1106,19 +1106,19 @@ To view the security announcements in full, or to receive them
         [Sascha Peilicke: Reclaim me blocks!](https://saschpe.wordpress.com/2010/12/20/reclaim-me-blocks/)
       **
 > 
-> Ever wondered why your filesystems fill up so quickly and why those new discs arenâ€™t as
+> Ever wondered why your filesystems fill up so quickly and why those new discs aren’t as
         big as advertised? While the latter may have several reasons (measuring units, the metric
         system or just damn lies), it may also be just an overly precautious default filesystem
         setting. On Linux, every filesystem gets some 5% of the available blocks reserved for the
         root user. This way, you can still work on your machine even if you forgot to rotate your
-        log files Changing this default to something more realistic on todayâ€™s big hard discs may
-        come with a nice surprises. Hereâ€™s my laptops root partition before:
+        log files Changing this default to something more realistic on today’s big hard discs may
+        come with a nice surprises. Here’s my laptops root partition before:
 >     
 >     saschpe@minime:~% df -h
 >             Filesystem Size Used Avail Use% Mounted on
 >             /dev/sda1 168G 144G 16G 91% /
 > 
-> Now letâ€™s do a courageous tune2fs changing this to 0.2% (more than enough to be able to
+> Now let’s do a courageous tune2fs changing this to 0.2% (more than enough to be able to
         login and remove logfiles):
 >     
 >     sudo tune2fs -m 0.2 /dev/sda1
@@ -1145,15 +1145,15 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[Andres Silva: New Idea About Chat Program](http://anditosan.blogspot.com/2010/12/new-idea-about-chat-program.html)**
 > 
-> â€œI am a good user of social networking sites, such as Facebook and Twitter. They
+> “I am a good user of social networking sites, such as Facebook and Twitter. They
         have used very interesting features on their websites, such as instant messaging. By that I
         do not mean the chat application that Facebook uses, or the immediate update on Twitter
         messages. I am talking about the idea of instant messaging on settled messages. For example,
         when a person posts a comment on Facebook and is able to keep a conversation from one person
         to the next. It is a minifeed that also includes the rest of the present contacts that are
-        involved in the message box.â€
+        involved in the message box.”
 > 
-> **FigureÂ 3.Â Facebook Minifeed**
+> **Figure 3. Facebook Minifeed**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Facebook Minifeed](http://startupmeme.com/wp-content/uploads/2008/06/facebook-minifeed.jpg)
@@ -1162,9 +1162,9 @@ To view the security announcements in full, or to receive them
 >   
 
 > 
-> â€œTwitter is a little similar, you are able to scroll through the many messages on
+> “Twitter is a little similar, you are able to scroll through the many messages on
         your home page as well as the rest of the contacts who have posted messages on your Twitter.
-          (...)FigureÂ 3, â€œFacebook Minifeedâ€â€
+          (...)Figure 3, “Facebook Minifeed””
 > 
 > </blockquote>
 
@@ -1190,38 +1190,38 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**[Nelson Marques: More
-        â€˜Unityâ€™ newsâ€¦](http://lizards.opensuse.org/2010/12/23/more-unity-news/)**
+        ‘Unity’ news…](http://lizards.opensuse.org/2010/12/23/more-unity-news/)**
 > 
-> Iâ€™ve finished with the base packages required for Unity, in fact Unity already builds,
-      though Iâ€™ve not really tested it yet as some components still need to take careâ€¦ so far whatâ€™s
+> I’ve finished with the base packages required for Unity, in fact Unity already builds,
+      though I’ve not really tested it yet as some components still need to take care… so far what’s
       done:
 > 
->   * dee â€“ is now properly packaged and ready for submission (no patching required);
+>   * dee – is now properly packaged and ready for submission (no patching required);
 > 
->   * bamf â€“ is now properly packaged and ready for submission (includes a patch modified by
+>   * bamf – is now properly packaged and ready for submission (includes a patch modified by
           Adam Williamson based on a Debian patch);
 > 
->   * ux â€“ builds and in a way itâ€™s ready, though I want to split this package in the nearby
+>   * ux – builds and in a way it’s ready, though I want to split this package in the nearby
           future.
 > 
->   * unity â€“ builds for the time beingâ€¦ though it requires proper integration on the
+>   * unity – builds for the time being… though it requires proper integration on the
           system. This build also builds with support for Indicators, since the dependencies are
           already prepared. Will take now a bit of time due to integration. I will offer this
           package installed on /opt/unity and not on usual system path.
 > 
-> While fighting for dependencies there emerged a small problem with â€˜glewmxâ€™, which builds
-      from the same sources of â€˜glewâ€™. Iâ€™m currently working on this package as a priority to fix it
-      and submit it to â€˜multimedia:libsâ€™ which also hosts â€˜glewâ€™. This package has also a small
+> While fighting for dependencies there emerged a small problem with ‘glewmx’, which builds
+      from the same sources of ‘glew’. I’m currently working on this package as a priority to fix it
+      and submit it to ‘multimedia:libs’ which also hosts ‘glew’. This package has also a small
       patch by Adam Williamson which was already submitted upstream that allows the proper build of
-      â€˜libGLEWmx.so*â€™ and glewmx.pc. Currently Iâ€™ve built this package only offering the libs. Iâ€™ve
-      removed the binaries (and made a dependency on â€˜glewâ€™ for the binaries) and Iâ€™ve also removed
-      the headers from the includes which will be shared with â€˜glewâ€™ and made a proper dependency.
-      Iâ€™ve consulted Dimstar regarding this operation which promptly offered some quick guidance on
-      the process and showed a couple of useful examples on how to this â€˜the openSUSE wayâ€™.
+      ‘libGLEWmx.so*’ and glewmx.pc. Currently I’ve built this package only offering the libs. I’ve
+      removed the binaries (and made a dependency on ‘glew’ for the binaries) and I’ve also removed
+      the headers from the includes which will be shared with ‘glew’ and made a proper dependency.
+      I’ve consulted Dimstar regarding this operation which promptly offered some quick guidance on
+      the process and showed a couple of useful examples on how to this ‘the openSUSE way’.
 > 
-> I hope that before the new year thereâ€™s a test package of Unity for Factory users. I would
-      also take this opportunity to thank everyone which has helped me so far on this â€˜one man
-      inglorious rushâ€™ towards bringing Unity to openSUSE as an option for those who want to check
+> I hope that before the new year there’s a test package of Unity for Factory users. I would
+      also take this opportunity to thank everyone which has helped me so far on this ‘one man
+      inglorious rush’ towards bringing Unity to openSUSE as an option for those who want to check
       it out.
 > 
 > My sincere thanks to the following:
@@ -1240,7 +1240,7 @@ To view the security announcements in full, or to receive them
           #1.
 > 
 >   * Arch Linux contributors (which were working on this and from which I got some guidance
-          from their â€˜forumsâ€™);
+          from their ‘forums’);
 > 
 > Nelson Marques
 > 
@@ -1329,11 +1329,11 @@ To view the security announcements in full, or to receive them
         Invention Network, in order to protect the free software ecosystem from the risks associated
         to software patents.
 > 
-> â€œThe Document Foundation is a major free software project, and LibreOffice a key
+> “The Document Foundation is a major free software project, and LibreOffice a key
           office suite for creating, managing and sharing documents. By becoming a licensee of the
           Open Invention Network, we fight software patents - which stifle innovation and encourage
           predatory business practices - and at the same time we improve the protection of our
-          software projects,â€ said Charles Schulz, Member of TDF Steering Committee.
+          software projects,” said Charles Schulz, Member of TDF Steering Committee.
 > 
 > Patents owned by Open Invention Network are available royalty-free to whichever company,
         institution or individual that agrees not to assert its patents against free software.
@@ -1373,18 +1373,18 @@ To view the security announcements in full, or to receive them
         company, institution or individual that agrees not to assert its patents against the Linux
         System, creating an umbrella of protection for its members.
 > 
-> â€œWe view an OIN license as one of the key methods through which open source
-          innovators can deter patent aggression,â€ said Adriaan de Groot, vice president of KDE. â€œWe
+> “We view an OIN license as one of the key methods through which open source
+          innovators can deter patent aggression,” said Adriaan de Groot, vice president of KDE. “We
           are committed to freedom of action in Linux, and in taking a license we help to address
           the threat from companies that support proprietary platforms to the exclusion of open
           source initiatives, and whose behaviors reflect a disdain for inventiveness and
-          collaboration.â€
+          collaboration.”
 > 
-> â€œGiven its leadership in creating a user-friendly computing experience, including
+> “Given its leadership in creating a user-friendly computing experience, including
           its advanced graphical desktop for the Linux community, we are pleased to have KDE become
-          a licensee,â€ said Keith Bergelt, CEO of Open Invention Network. â€œBy doing so, KDE affirms
+          a licensee,” said Keith Bergelt, CEO of Open Invention Network. “By doing so, KDE affirms
           its continued support for open source. We applaud their foresight in taking this step to
-          support both itself and the open source community broadly.â€
+          support both itself and the open source community broadly.”
 > 
 > While KDE maintains our position against software patents, this development provides an
         additional safety net for KDE when it comes to the risks Free Software is facing from such
@@ -1498,7 +1498,7 @@ To view the security announcements in full, or to receive them
         Qt-Apps.org or MeeGo-Central.org 
 > 
 > You can submit your application to the Ovi Store as many times as you wish during the
-        competition. This allows you to get feedback from the public on your software. ItÂ´s possible
+        competition. This allows you to get feedback from the public on your software. It´s possible
         to submit new or existing KDE/Qt applications.
 > 
 > So have fun and good luck everybody!
@@ -1538,7 +1538,7 @@ To view the security announcements in full, or to receive them
         projects in a single place.
 > 
 > A number of playlists with videos of, for example, [Google Tech Talks](http://www.youtube.com/googletechtalks) that feature open
-        source projects have already been added. Other videos from Jeremy Allisonâ€™s [Geek Time](http://www.youtube.com/view_play_list?p=7FC162E0B1E7C602) series,
+        source projects have already been added. Other videos from Jeremy Allison’s [Geek Time](http://www.youtube.com/view_play_list?p=7FC162E0B1E7C602) series,
         as well as of Googlers speaking at open source conferences are also available. The Google
         OSPO YouTube channel currently has 14 videos, with links to a variety of other videos from
         other channels and users.
@@ -1552,10 +1552,10 @@ To view the security announcements in full, or to receive them
           Openness](http://www.consortiuminfo.org/standardsblog/article.php?story=20101221084910541)
       **
 > 
-> Last Thursday the European Commission took a major step forward on the â€œopennessâ€ scale.
+> Last Thursday the European Commission took a major step forward on the “openness” scale.
         The occasion was the release of a new version of the European Interoperability Framework
         (EIF) which definitively endorsed the use of open source friendly standards when providing
-        â€œpublic servicesâ€ within the EU. This result was rightly hailed by open source advocates
+        “public services” within the EU. This result was rightly hailed by open source advocates
         like [Open Forum Europe](http://www.openforumeurope.org/press-room/press-releases/EIF%20PR3%2016.12.10.pdf). (...)
 > 
 > </blockquote>
@@ -1576,8 +1576,8 @@ To view the security announcements in full, or to receive them
 > **Nelson Marques**, Fedora and openSUSE contributor, thinks
         Ubuntu indicators are the bee's knees. Actually, since Ubuntu is the dominant
         distribution in his corner of the world he thinks using some of its more familiar elements
-        might help users migrate to openSUSE. He said, "We donâ€™t want to make of openSUSE a
-        â€˜cloneâ€™ of Ubuntu, instead we want to make the openSUSE experience more close to what people
+        might help users migrate to openSUSE. He said, "We don’t want to make of openSUSE a
+        ‘clone’ of Ubuntu, instead we want to make the openSUSE experience more close to what people
         already use." (...) Other Sources: [ostatic](http://ostatic.com/blog/unity-coming-to-opensuse-too)
 > 
 > </blockquote>
@@ -1611,8 +1611,8 @@ To view the security announcements in full, or to receive them
         [Ostatic/Susan Linton: My Top Five Favorite Distributions for 2010](http://ostatic.com/blog/my-top-five-favorite-distributions-for-2010)
       **
 > 
-> Ms. Carla Schroder shared a list of her â€œbestest distrosâ€ recently, so I
-        thought I might follow suit. She called hers â€œnot-usualâ€ and looking at her
+> Ms. Carla Schroder shared a list of her “bestest distros” recently, so I
+        thought I might follow suit. She called hers “not-usual” and looking at her
         list, I'd say my choices are probably a little more usual. In any case, here are my top
         five favorite Linux distributions for 2010, in no real order.
 > 
@@ -1649,19 +1649,19 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [2indiya.com/Nilanka: Advantages of OpenSUSEâ€™s YaST Software Management](http://www.2indya.com/2010/12/23/advantages-of-opensuse%E2%80%99s-yast-software-management/)
+        [2indiya.com/Nilanka: Advantages of OpenSUSE’s YaST Software Management](http://www.2indya.com/2010/12/23/advantages-of-opensuse%E2%80%99s-yast-software-management/)
       **
 > 
 > Different Linux distributions use their own tools for software, or more precisely,
         package management. As an example, Ubuntu uses its Synaptic, Fedora uses Yum, Gentoo uses
         Portage, and OpenSUSE uses YaST.
 > 
-> YaST stands for â€˜Yet another Setup Toolâ€™. YaST is an easy to use package management
+> YaST stands for ‘Yet another Setup Tool’. YaST is an easy to use package management
         system for Linux distributions that support rpm based packages. Although YaST features in
         many commercial Linux distributions, it is free and open source software released under GPL.
         Therefore, it is free to be used by any party interested. 
 > 
-> YaST features many functionality the advanced package management tools offer. Letâ€™s take
+> YaST features many functionality the advanced package management tools offer. Let’s take
         the appearance as an example. YaST offers the end users both a GUI front-end as well as CLI
         front-end. The CLI front-end is especially useful for the installation done through networks
         where everything is performed through a terminal or a command line interface. Due to this
@@ -1678,7 +1678,7 @@ To view the security announcements in full, or to receive them
 > The past two weeks have been rough for users of the Yahoo-owned "social bookmarking"
         service, [Delicious](http://www.delicious.com/). First, reports leaked out
         that Yahoo was shutting the site down. Then the Delicious team [fired back](http://blog.delicious.com/) saying essentially don't worry, all is
-        well â€” we're simply getting sold off. That's cold comfort if you use the service to manage
+        well — we're simply getting sold off. That's cold comfort if you use the service to manage
         and tag a large collection of links, though. If you're not comfortable with the uncertainty,
         what better solution is there than installing your own open source replacement?
 > 
@@ -1686,7 +1686,7 @@ To view the security announcements in full, or to receive them
         commercial service. First, you can change and adapt the system to fit your way of working.
         Don't care about sharing your collection with the world at large? You can run a single-user
         instance and keep your bookmarks private. Second, you can host it on your own server,
-        whether a small box in your closet at home, or on a co-located hosting plan â€” either way,
+        whether a small box in your closet at home, or on a co-located hosting plan — either way,
         you're in control.
 > 
 > There are several Web-based bookmarking applications suitable for running on a LAMP
@@ -1699,7 +1699,7 @@ To view the security announcements in full, or to receive them
 > 
 > That means you'll have to grab a [source package](http://sourceforge.net/projects/scuttle/files/) from the
         project's Web site if you want to run the latest and greatest, but don't let it frighten you
-        away. As a pure LAMP app, you don't have to worry about compilation â€” the setup process is
+        away. As a pure LAMP app, you don't have to worry about compilation — the setup process is
         straightforward. We'll take a look at installing and configuring the basic Scuttle
         application, then talk about some alternatives, including an interesting Scuttle derivative.
         (...)
@@ -1761,7 +1761,7 @@ We thank for this Issue:
 
   * Gertjan Lettink, Forums Section
 
-  * Thomas HofstÃ¤tter, Eventeditor
+  * Thomas Hofstätter, Eventeditor
 
   * Thomas Schraitle, DocBook-Consultant
 

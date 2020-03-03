@@ -30,7 +30,7 @@ After everybody had arrived we walked to the restaurant for lunch, passing throu
 After lunch we gathered for the 'Community Space' at the Caldas da Rainha Municipal Library where the participants had the opportunity to listen to three informal talks plus one final keynote.
 
 
-#### ["The openSUSE 10.3 News"](http://www.cgoncalves.info/suse/ENOS/2007/Novidades%20do%20openSUSE%2010.3.pdf), [_Carlos GonÃ§alves_](http://cgoncalves.info)
+#### ["The openSUSE 10.3 News"](http://www.cgoncalves.info/suse/ENOS/2007/Novidades%20do%20openSUSE%2010.3.pdf), [_Carlos Gonçalves_](http://cgoncalves.info)
 
 
 Carlos gave an overview of the latest developments on the openSUSE project explaining the most important improvements, such as boot time, package management, translations, 1-Click Install, the new 1-CD media, new and revised YaST modules, how the openSUSE Build Service contributed to the openSUSE development versions, etc.
@@ -55,7 +55,7 @@ The purpose of this talk was to show that there are experts in Portugal as well,
 A talk about a successful case of implementing the GNU/Linux operating system (openSUSE distribution, of course) in 60 computers at the Amato Lusitano Hospital, Castelo Branco. Bruno certainly did a fabulous talk, proving that an Open Source solution is much cheaper, stable and efficient than a closed source solution. They also implemented a funny policy inside the hospital: "Do you want to play audio files and play games? OK, move to a Linux terminal and we will allow you to do these things!".
 
 
-#### ["Keynote: The openSUSE-pt community needs"](http://www.cgoncalves.info/suse/ENOS/2007/As%20necessidades%20da%20comunidade%20openSUSE-pt.pdf), _Carlos GonÃ§alves_
+#### ["Keynote: The openSUSE-pt community needs"](http://www.cgoncalves.info/suse/ENOS/2007/As%20necessidades%20da%20comunidade%20openSUSE-pt.pdf), _Carlos Gonçalves_
 
 
 To finish off the talk session, Carlos did a brief final keynote about what are the openSUSE-pt community's needs. Summing up the most important ones: opensuse-i18n-pt is 100% done, need more people helping on the forum and on the wiki, promote and spread the openSUSE distribution in Portugal, more feedback, ideas, and incentives for people to become part of the openSUSE project.

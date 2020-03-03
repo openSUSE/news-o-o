@@ -95,7 +95,7 @@ At the same time I truly think that many existent users will appreciate the simp
 
 The biggest problem: no-one likes working on the installer. The system booted from DVD ("installation system") is very different from what you get when you run YaST in the running system. So most problems really need to be debugged there. At the same time this is all in RAM - so you can't very easily add tons of debugging tools. It's always a compromise and most often you need to help yourself creating test environments that try to emulate what the DVD does.
 
-Fortunately, because of the good virtualization solutions around, this is not so much of a problem as it used to be. Still, it can be very hard and complex. As a wise FÃ¼rther once said: "The task of the leader is to get his people from where they are to where they have not been". So I spent several days learning how it all works and what can be done and what can't and how we can improve it. This helped to motivate the team to think of even better ways and the outcome is very promising I think.
+Fortunately, because of the good virtualization solutions around, this is not so much of a problem as it used to be. Still, it can be very hard and complex. As a wise Fürther once said: "The task of the leader is to get his people from where they are to where they have not been". So I spent several days learning how it all works and what can be done and what can't and how we can improve it. This helped to motivate the team to think of even better ways and the outcome is very promising I think.
 
 
 #### Have any of the changes been controversial?

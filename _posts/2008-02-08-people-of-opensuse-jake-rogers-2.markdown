@@ -122,7 +122,7 @@ He is also the author of [help.opensuse.org](http://help.opensuse.org), and one 
 #### Please introduce yourself!
 
 
-To plagiarize my own site; â€œI am just a guy with a passion for the outdoors, photography, technology, and in general, shiny things with blinking lights.â€ My greatest passion has to be mountain biking, however there are many sources of adrenaline I have yet to explore, so that is subject to change.
+To plagiarize my own site; “I am just a guy with a passion for the outdoors, photography, technology, and in general, shiny things with blinking lights.” My greatest passion has to be mountain biking, however there are many sources of adrenaline I have yet to explore, so that is subject to change.
 
 I JUST (Feb 5) turned 27, which I am less than stoked about. I am currently located in the foothills of North Carolina, USA, where I work as a web developer and I.T. specialist. I want very badly to travel the world, but do not have the means just yet. Pets? Sure, I love pets.... until they attack!
 
@@ -337,7 +337,7 @@ C++/Qt Programmer (so I could contribute code to KDE).
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 I'd feel like it would be a good time for a week long hiking trip or perhaps a very long bike ride.
@@ -407,7 +407,7 @@ On a mountain bike at top speed or taking pictures of nature.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Easy. Travel the world with a close friend, a camera, and a need to experience every sport, hunt, and adrenaline inducing activity known to man! After that, who knows... what's a stripped down old Soviet Mig run these days?
@@ -417,7 +417,7 @@ Easy. Travel the world with a close friend, a camera, and a need to experience e
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Sure I could change the course of all mankind, but you'd most likely find me telling past-me about all the opportunities he is missing and the mistakes he is about to make.
@@ -427,7 +427,7 @@ Sure I could change the course of all mankind, but you'd most likely find me tel
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No, but I should.

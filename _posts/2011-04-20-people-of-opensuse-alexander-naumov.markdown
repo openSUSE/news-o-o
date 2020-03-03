@@ -169,7 +169,7 @@ I just love it :)
 It's great to be part of openSUSE community and I'm proud that I work for SUSE Linux.
 
 
-#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that youâ€™re most proud of?
+#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you’re most proud of?
 
 
 Hm.. good question.
@@ -246,7 +246,7 @@ For non openSUSE, but GNU/Linux users:
 #### Which members of the openSUSE community have you met in person?
 
 
-Most of the SUSE/Novell employees and various community members during FOSDEM2010, Tokamak4, every openSUSE release pary (in NÃ¼renberg) and of course openSUSE Conference 2009/2010.
+Most of the SUSE/Novell employees and various community members during FOSDEM2010, Tokamak4, every openSUSE release pary (in Nürenberg) and of course openSUSE Conference 2009/2010.
 
 
 #### How many icons are currently on your desktop?
@@ -257,7 +257,7 @@ In KDE: 5 (include Kickoff) + 7 system tray icons.
 In Fluxbox: zero
 
 
-#### What is the application you canâ€™t live without? And why?
+#### What is the application you can’t live without? And why?
 
 
 Bash? :)
@@ -276,9 +276,9 @@ Hmm ... what's about the Open Source Linux Driver Generator (LDG) for all types 
 
 vi
 
-Just because itâ€™s faster, easy to use and always available.
+Just because it’s faster, easy to use and always available.
 
-But of course itâ€™s also question of habits and personal preference.
+But of course it’s also question of habits and personal preference.
 
 
 #### Which famous person would you want to join the openSUSE community?
@@ -305,7 +305,7 @@ Also:
 * More creativity
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Just relaxing.
@@ -373,19 +373,19 @@ Saint Petersburg, Russia
 With my family visit friends in other cities/countries.
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Buy a house
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 60s-70s, USA
 
 
-#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
+#### There’s a thunderstorm outside — do you turn off your computer?
 
 
 Nah. It's more interesting to wait and see what will happen :)
@@ -403,7 +403,7 @@ Ou yeah :)
 See my blog or picasaweb gallary: http://picasaweb.google.com/posix.ru/
 
 
-#### You couldnâ€™t live withoutâ€¦
+#### You couldn’t live without…
 
 
 Faith in God and love of my family

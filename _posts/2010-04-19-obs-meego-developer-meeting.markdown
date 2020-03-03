@@ -11,7 +11,7 @@ categories:
 - Build Service
 ---
 
-OBS Developers from [MeeGo project](http://meego.com/) visited the SUSE OBS Developers in NÃ¼rnberg on friday and saturday. Not everybody managed to come due to the ash over europe, but at least
+OBS Developers from [MeeGo project](http://meego.com/) visited the SUSE OBS Developers in Nürnberg on friday and saturday. Not everybody managed to come due to the ash over europe, but at least
 
 
 
@@ -25,16 +25,16 @@ OBS Developers from [MeeGo project](http://meego.com/) visited the SUSE OBS Deve
   * Martin Mohring from Linux Foundation
 
 	
-  * Jan-Simon MÃ¶ller from Linux Foundation
+  * Jan-Simon Möller from Linux Foundation
 
 	
   * Andreas Jaeger from Novell/SUSE
 
 	
-  * Michael SchrÃ¶der from Novell/SUSE
+  * Michael Schröder from Novell/SUSE
 
 	
-  * Adrian SchrÃ¶ter from Novell/SUSE
+  * Adrian Schröter from Novell/SUSE
 
 
 spoke about a lot of features and wanted design changes in OBS. The MeeGo project uses OBS to create their packages and products in similar setup and with needs as openSUSE. In short this is having multiple code streams, which are used to create multiple products, which require maintenance updates and QA validations. This give us plenty areas of collaboration and makes us hoping to drive OBS in a good direction for all of us.

@@ -23,7 +23,7 @@ In this week's issue:
 
 
 
-* openSUSE 11.2 on its way to become final â€“ Release candidate available!
+* openSUSE 11.2 on its way to become final – Release candidate available!
 
 
 

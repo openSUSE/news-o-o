@@ -17,7 +17,7 @@ categories:
 New layout !   
   
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * Special Edition about FOSDEM2009 

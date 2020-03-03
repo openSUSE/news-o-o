@@ -124,7 +124,7 @@ tags:
     * 5.3 For System  Administrators
 
 	
-      * 5.3.1 Masim Sugianto:  How ToÂ : Samba PDC+OpenLDAP on openSUSE/SLES Part 1
+      * 5.3.1 Masim Sugianto:  How To : Samba PDC+OpenLDAP on openSUSE/SLES Part 1
 
 	
       * 5.3.2 Masim Sugianto:  User Account Integration between Samba PDC & Zimbra Mail Server on  openSUSE/SLES
@@ -214,7 +214,7 @@ tags:
     * 8.1 Robert Schweikert:  Into the Cloud
 
 	
-    * 8.2 Holger Hetterich:  The future of SMB Traffic Analyzer â€“ introducing protocol version 2
+    * 8.2 Holger Hetterich:  The future of SMB Traffic Analyzer – introducing protocol version 2
 
 	
     * 8.3 Andrew Wafaa:  Blogged about: Community Discussion - Part 3

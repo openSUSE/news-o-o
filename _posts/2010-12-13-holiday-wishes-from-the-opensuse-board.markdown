@@ -29,4 +29,4 @@ So, as we close here, we'd like to wish each and every one of you a safe and joy
 
 See you all at Wednesday's meeting, and in 2011!
 
-The openSUSE Board  Pascal Bleser, Rupert HorstkÃ¶tter, Pavol Rusnak, Henne Vogelsang, Bryen Yunashko,
+The openSUSE Board  Pascal Bleser, Rupert Horstkötter, Pavol Rusnak, Henne Vogelsang, Bryen Yunashko,

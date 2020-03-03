@@ -17,24 +17,24 @@ Hello Mates! openSUSE Medical here!
 
 [![](/wp-content/uploads/2010/12/Opensuse_medical_logo11.png)](http://news.opensuse.org/2011/06/09/new-leadership-inside-the-medical-project/opensuse_medical_logo11/)
 
-Well i would to announce that â€œopenSUSE Medical Calling and also needs youâ€
+Well i would to announce that “openSUSE Medical Calling and also needs you”
 
-a) Due to lack of time (iâ€™ve began my Master Studies abroad) iâ€™ve to give up from the project. I think that there are people who are able to lead the project and have more time available.
+a) Due to lack of time (i’ve began my Master Studies abroad) i’ve to give up from the project. I think that there are people who are able to lead the project and have more time available.
 
-So â€œLooking for openSUSE Medical Next Leaderâ€
+So “Looking for openSUSE Medical Next Leader”
 
-b) I have created two pages (according to the last meetingâ€™s goals) :
+b) I have created two pages (according to the last meeting’s goals) :
 
-i) â€œSection Pageâ€ : [http://en.opensuse.org/Portal:Medical/section.html](http://en.opensuse.org/Portal:Medical/section.html)
-ii) â€œParticipate Pageâ€ : [http://en.opensuse.org/Portal:Medical/participate.html](http://en.opensuse.org/Portal:Medical/participate.html)
+i) “Section Page” : [http://en.opensuse.org/Portal:Medical/section.html](http://en.opensuse.org/Portal:Medical/section.html)
+ii) “Participate Page” : [http://en.opensuse.org/Portal:Medical/participate.html](http://en.opensuse.org/Portal:Medical/participate.html)
 
-The process is you have a look at the Sections and then you declare your participation in the â€œParticipate Pageâ€ (according to the instructions given in the pages).
+The process is you have a look at the Sections and then you declare your participation in the “Participate Page” (according to the instructions given in the pages).
 
 So the project needs you for:
 
-a) â€œThe Next Project Leaderâ€
+a) “The Next Project Leader”
 
-b) â€œParticipants for the Sectionsâ€
+b) “Participants for the Sections”
 
 Anyone interested in (a) or (b) can reply to this e-mail or can post an e- mail to the [opensuse-medical@opensuse.org](mailto:opensuse-medical@opensuse.org)
 

@@ -23,7 +23,7 @@ tags:
   * openSUSE News: Call for Volunteers in  the German Wiki
 
 	
-  * Duncan Mac-Vicar Prett: You donâ€™t need  Kopete Facebook plugin anymore
+  * Duncan Mac-Vicar Prett: You don’t need  Kopete Facebook plugin anymore
 
 	
   * KDE SC 4.4 in the openSUSE Build  Service

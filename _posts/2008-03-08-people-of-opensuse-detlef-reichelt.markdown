@@ -241,7 +241,7 @@ One word: YaST!
 #### Which members of the openSUSE community have you met in person?
 
 
-I met many people at the last "SUSE-Release-Party" in NÃ¼rnberg, i.e. Darix, Henne, AJ and more SUSE-Guys, Pascal and many members of the PackMan-Team.
+I met many people at the last "SUSE-Release-Party" in Nürnberg, i.e. Darix, Henne, AJ and more SUSE-Guys, Pascal and many members of the PackMan-Team.
 
 
 
@@ -308,7 +308,7 @@ More skill in Python.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Doesn't matter...
@@ -321,7 +321,7 @@ Doesn't matter...
 #### Which is your favorite movie scene?
 
 
-Werner - Beinhart: Holzbein Kiel vs. SÃ¼derbrarup
+Werner - Beinhart: Holzbein Kiel vs. Süderbrarup
 
 
 
@@ -379,7 +379,7 @@ Relay in the sun.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Emigrate to a place with more sunshine.
@@ -389,7 +389,7 @@ Emigrate to a place with more sunshine.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Here and now.
@@ -399,7 +399,7 @@ Here and now.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Why?

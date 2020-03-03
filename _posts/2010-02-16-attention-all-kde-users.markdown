@@ -19,4 +19,4 @@ This makes the Build Service KDE:43 repository redundant, so it is being removed
 
 For more details and information on how to use other KDE versions on all supported openSUSE editions, see [KDE Repositories](http://en.opensuse.org/KDE/Repositories).
 
-_Edit:_ KDE 4.3 users on older versions of openSUSE are not being left out in the rain.Â  [KDE:KDE4:STABLE:Desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Desktop) contains the same KDE SC 4.3.5 that was added to openSUSE 11.2.
+_Edit:_ KDE 4.3 users on older versions of openSUSE are not being left out in the rain.  [KDE:KDE4:STABLE:Desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/STABLE:/Desktop) contains the same KDE SC 4.3.5 that was added to openSUSE 11.2.

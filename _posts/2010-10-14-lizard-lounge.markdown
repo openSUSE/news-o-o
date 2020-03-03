@@ -17,6 +17,6 @@ tags:
 
 
 [
-![The conference social event takes place at the 21. Octover, 19:00 in the Lizard Lounge at Maxfeldstrasse 5, 90409 NÃ¼rnberg](/wp-content/uploads/2010/10/lounge3.png)
+![The conference social event takes place at the 21. Octover, 19:00 in the Lizard Lounge at Maxfeldstrasse 5, 90409 Nürnberg](/wp-content/uploads/2010/10/lounge3.png)
 ](http://en.opensuse.org/openSUSE:Conference_party)
 

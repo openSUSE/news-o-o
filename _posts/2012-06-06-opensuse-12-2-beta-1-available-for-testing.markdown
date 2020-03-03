@@ -63,13 +63,13 @@ We'd like to thank everyone working on openSUSE for being so cool. Special hugs 
   * Vincent Untz
 
 	
-  * Guido BerhÃ¶rster
+  * Guido Berhörster
 
 	
   * Dirk Mueller
 
 	
-  * Marcus SchÃ¤fer
+  * Marcus Schäfer
 
 	
   * Dominique Leuenberger

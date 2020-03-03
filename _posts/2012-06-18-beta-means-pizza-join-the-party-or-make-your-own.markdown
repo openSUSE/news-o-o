@@ -32,7 +32,7 @@ This release is the final release before openSUSE goes into Release Candidate mo
 ## Then, the Pizza...
 
 
-Second, you get the Pizza (and a place to eat this). Our fellow geeko Bernhard Wiedemann has again decided to organize a Beta Pizza Party in NÃ¼rnberg somewhere around the end of this month in the SUSE offices and there will be one in Prague and possibly other SUSE offices. But if there's no party around, you can organize your own. Be sure to check [the wiki page!](http://en.opensuse.org/openSUSE:BetaPizzaParty) At least I'm organizing one in Berlin and I'd love to see more! History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?
+Second, you get the Pizza (and a place to eat this). Our fellow geeko Bernhard Wiedemann has again decided to organize a Beta Pizza Party in Nürnberg somewhere around the end of this month in the SUSE offices and there will be one in Prague and possibly other SUSE offices. But if there's no party around, you can organize your own. Be sure to check [the wiki page!](http://en.opensuse.org/openSUSE:BetaPizzaParty) At least I'm organizing one in Berlin and I'd love to see more! History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?
 
 [![Pizza Hut](http://farm5.static.flickr.com/4053/4225166405_bb5ab44c29_m.jpg)](http://www.flickr.com/photos/ferret111/4225166405/)
 

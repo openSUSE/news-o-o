@@ -15,7 +15,7 @@ categories:
 
 Issue #21 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/21)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 

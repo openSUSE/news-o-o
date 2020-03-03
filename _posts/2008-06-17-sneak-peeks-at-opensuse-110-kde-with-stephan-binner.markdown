@@ -97,7 +97,7 @@ Of course KDE 3.5 in openSUSE 11.0 still boasts the host of enhancements that th
 
 **KDE 4.1**
 
-As we've already discussed, KDE 4.0 is still maturing and may lack features that experienced KDE users expect. However, KDE 4.1 will be much better in these respects and is expected to be released in late July. Shortly after the 4.1 release announcement, it will be available from the openSUSE Build Service repositories, enabling users to update via 1-click-install â€” albeit not officially supported. However, if you want to run the latest and greatest from KDE, you'll be able to do so (and help testing as well!)
+As we've already discussed, KDE 4.0 is still maturing and may lack features that experienced KDE users expect. However, KDE 4.1 will be much better in these respects and is expected to be released in late July. Shortly after the 4.1 release announcement, it will be available from the openSUSE Build Service repositories, enabling users to update via 1-click-install — albeit not officially supported. However, if you want to run the latest and greatest from KDE, you'll be able to do so (and help testing as well!)
 
 The next openSUSE release, openSUSE 11.1, should be out in December of this year and include a thoroughly tested and well-integrated KDE 4.1.x right out of the box.
 
@@ -113,7 +113,7 @@ The next openSUSE release, openSUSE 11.1, should be out in December of this year
 
 **openSUSE News**: KDE 4.0.4 is the default KDE desktop in openSUSE. What made you decide to make it the default, instead of the more stable KDE 3.5.9?
 
-**Stephan Binner**: There is no default desktop on openSUSE: during installation from DVD you are [asked to make a choice](http://en.opensuse.org/Image:OS11.0-inst-6.jpg) â€” without default. If you use one of the installable live CDs you make the choice before the download of course.
+**Stephan Binner**: There is no default desktop on openSUSE: during installation from DVD you are [asked to make a choice](http://en.opensuse.org/Image:OS11.0-inst-6.jpg) — without default. If you use one of the installable live CDs you make the choice before the download of course.
 
 Admitted, there exists no official live CD with KDE 3.5 (maybe someone from the community will create it?) because of resource constraints, and because we want to push people to try our KDE 4.0 based desktop. Also we want and need user feedback for the actively developed KDE series.
 

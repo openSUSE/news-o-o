@@ -47,7 +47,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 136!
   * [ KDE bug team asks for help on Friday 13th](http://news.opensuse.org/?p=4049#KDE_bug_team_asks_for_help_on_Friday_13th)
 
 
-  * [ Andrew Wafaa: oSC10 â€“ Conference Update](http://news.opensuse.org/?p=4049#Andrew_Wafaa:_oSC10_.E2.80.93_Conference_Update)
+  * [ Andrew Wafaa: oSC10 – Conference Update](http://news.opensuse.org/?p=4049#Andrew_Wafaa:_oSC10_.E2.80.93_Conference_Update)
 
 
   * [ h-online/Thorsten Leemhuis: Kernel Log: 2.6.36 development and new stable kernels and drivers](http://news.opensuse.org/?p=4049#h-online.2FThorsten_Leemhuis:_Kernel_Log:_2.6.36_development_and_new_stable_kernels_and_drivers)
@@ -293,7 +293,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 136!
 ####  [openSUSE Connect hacking session at FrOSCon 2010](http://news.opensuse.org/2010/08/09/opensuse-connect-hacking-session-at-froscon-2010/)
 
 
-"HackMeck is the weekend hack retreat of the openSUSE Boosters team in the openSUSE development room @ FrosCON. The aim of HackMeck is to advance Connect, the social networking framework the project is using to connect its users with each other. This is a great opportunity for new contributors to participate together with experienced members on some specific objective.  Connect is built on top of the Elgg plattform and most of the features we want are already available as Elgg plugins. We will evaluate and enhance those in order to match our expectations. However, some additional features will also require the creation of new plugins. Connect runs on a combination of a web server and the MySQL database and is written in the PHP scripting language. If you already posses knowledge about this very popular web server environment we encourage you to join HackMeck! But even if you donâ€™t there are plenty of cool things to do and this weekend will give you the opportunity to learn and further yourself."  
+"HackMeck is the weekend hack retreat of the openSUSE Boosters team in the openSUSE development room @ FrosCON. The aim of HackMeck is to advance Connect, the social networking framework the project is using to connect its users with each other. This is a great opportunity for new contributors to participate together with experienced members on some specific objective.  Connect is built on top of the Elgg plattform and most of the features we want are already available as Elgg plugins. We will evaluate and enhance those in order to match our expectations. However, some additional features will also require the creation of new plugins. Connect runs on a combination of a web server and the MySQL database and is written in the PHP scripting language. If you already posses knowledge about this very popular web server environment we encourage you to join HackMeck! But even if you don’t there are plenty of cool things to do and this weekend will give you the opportunity to learn and further yourself."  
 
 
 ####  [New German Language Forums](http://forums.opensuse.org/english/news/announcements/444040-new-german-language-forums.html)
@@ -305,7 +305,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 136!
 ####  [KDE bug team asks for help on Friday 13th](http://news.opensuse.org/2010/08/11/kde-bug-team-asks-for-help-on-friday-13th-2/)
 
 
-"Javier sent us the following announcement: Itâ€™s my pleasure to announce the next KDE Bug triage :-) It will begin next Friday (13th) and end on Monday (16th). ..." 
+"Javier sent us the following announcement: It’s my pleasure to announce the next KDE Bug triage :-) It will begin next Friday (13th) and end on Monday (16th). ..." 
 </td>
 </tr>
 </tbody>
@@ -770,7 +770,7 @@ The numbers for all openSUSE project products are this week:
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -809,7 +809,7 @@ The numbers for all openSUSE project products are this week:
 ####  [Matthew Ehle: Fun with the openSUSE Wiki](http://www.matthewehle.info/blog/?p=74)
 
 
-"The last couple of weeks have kept me pretty busy with the openSUSE wikis, but the results have been well worth the effort. Hereâ€™s a quick rundown of the improvements made since the 11.3 release:  * Set up Google Custom Search as an alternative to the default MediaWiki search  * Submitted a site map to Google  * Set up a cron to regenerate the site map daily, so new articles can get indexed more quickly  * Fixed the issue with the new login form  * Set up protection against spambots  * Set up a 301 (Permanent) redirect from wiki.opensuse.org to en.opensuse.org  * Created languages.opensuse.org" 
+"The last couple of weeks have kept me pretty busy with the openSUSE wikis, but the results have been well worth the effort. Here’s a quick rundown of the improvements made since the 11.3 release:  * Set up Google Custom Search as an alternative to the default MediaWiki search  * Submitted a site map to Google  * Set up a cron to regenerate the site map daily, so new articles can get indexed more quickly  * Fixed the issue with the new login form  * Set up protection against spambots  * Set up a 301 (Permanent) redirect from wiki.opensuse.org to en.opensuse.org  * Created languages.opensuse.org" 
 </td>
 </tr>
 </tbody>
@@ -850,10 +850,10 @@ The numbers for all openSUSE project products are this week:
 
 
 
-####  [Andrew Wafaa: oSC10 â€“ Conference Update](http://lizards.opensuse.org/2010/08/12/osc10-conference-update/)
+####  [Andrew Wafaa: oSC10 – Conference Update](http://lizards.opensuse.org/2010/08/12/osc10-conference-update/)
 
 
-"So Stage 1 of the next openSUSE Conference is complete (submission deadline), and we are moving forward with Stage 2 (scheduling talks). I personally wasnâ€™t privvy to last yearâ€™s submissions, but we have well over 80 submissions covering a huge range of topics this year which is brilliant.  One of the nice things this year is we have submissions from other distributions and projects, which is great :-) The submissions from all parties cover a wide variety of topics from very technical to very fun, and it isnâ€™t going to be easy to select which ones to accept."  
+"So Stage 1 of the next openSUSE Conference is complete (submission deadline), and we are moving forward with Stage 2 (scheduling talks). I personally wasn’t privvy to last year’s submissions, but we have well over 80 submissions covering a huge range of topics this year which is brilliant.  One of the nice things this year is we have submissions from other distributions and projects, which is great :-) The submissions from all parties cover a wide variety of topics from very technical to very fun, and it isn’t going to be easy to select which ones to accept."  
 
 
 ###  Events & Meetings
@@ -892,7 +892,7 @@ Past:
   * [** August 18, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** August 19, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** August 19, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * [**August 21-22, 2010: FrOSCon (St. Augustin/Germany; http://www.froscon.de/)**](http://news.opensuse.org/2010/04/19/froscon-st-augustin-germany/)
@@ -915,7 +915,7 @@ Past:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -936,19 +936,19 @@ Past:
 
 
 
-####  [Alex Barrios: openSUSE LaunchParty in MÃ©rida, Venezuela](http://lizards.opensuse.org/2010/08/08/opensuse-launchparty-in-merida-venezuela/)
+####  [Alex Barrios: openSUSE LaunchParty in Mérida, Venezuela](http://lizards.opensuse.org/2010/08/08/opensuse-launchparty-in-merida-venezuela/)
 
 
-"Well, finally and happily I was able to make my LaunchParty for 11.3 here in my city. It was a simple setup: The place with the help of a local FOSS Academy that let me use his installations, Some media that I burn to giveaway, one of my laptops and my sister laptop to place two machines for desktop demonstrations, and just the desire to speak the word of the Geeko :D â€¦"  
+"Well, finally and happily I was able to make my LaunchParty for 11.3 here in my city. It was a simple setup: The place with the help of a local FOSS Academy that let me use his installations, Some media that I burn to giveaway, one of my laptops and my sister laptop to place two machines for desktop demonstrations, and just the desire to speak the word of the Geeko :D …"  
 
 
 ####  [Sirko Kemter: Launch Party openSUSE 11.3](http://karl-tux-stadt.de/ktuxs/?p=2665)
 
 
-"Yesterday, we had the Launch Party for 11.3 here in Chemnitz. It was interesting, how we do it we do it wron. For the last Launch Party we rented a room in a near cultural center, after that we thaught we can do it in the conference rooms of my company. And this time it was filled up :D We had a lot of guests. Some of them came really early and so it was time for an coffee and smalltalk. This time we prepared 3 talks, I started with the â€œopenSUSE A-Z contribution guideâ€ after that Tobias Koenig followed with â€œKDE yesterday - today and tomorrow, that was a really intersting presentation. He talked about how KDE started and he showed how KDE looked in earlier versions and on the end how showed some things what comes in future. Michl send me some books and I gived them away for the first questions (in Tobias case it was a nasty question about backuping akonadi). The last talk was a special topic, we had Kai-Uwe he talked about his Oyranos project, thats a server for color managment."  
+"Yesterday, we had the Launch Party for 11.3 here in Chemnitz. It was interesting, how we do it we do it wron. For the last Launch Party we rented a room in a near cultural center, after that we thaught we can do it in the conference rooms of my company. And this time it was filled up :D We had a lot of guests. Some of them came really early and so it was time for an coffee and smalltalk. This time we prepared 3 talks, I started with the “openSUSE A-Z contribution guide” after that Tobias Koenig followed with “KDE yesterday - today and tomorrow, that was a really intersting presentation. He talked about how KDE started and he showed how KDE looked in earlier versions and on the end how showed some things what comes in future. Michl send me some books and I gived them away for the first questions (in Tobias case it was a nasty question about backuping akonadi). The last talk was a special topic, we had Kai-Uwe he talked about his Oyranos project, thats a server for color managment."  
 
 
-####  [KÃ¡lmÃ¡n KÃ©mÃ©nczy: Budapest release party from ambassador pov](http://lists.opensuse.org/archive/opensuse-ambassadors/2010-08/msg00069.html)
+####  [Kálmán Kéménczy: Budapest release party from ambassador pov](http://lists.opensuse.org/archive/opensuse-ambassadors/2010-08/msg00069.html)
 
 
 "Short report from the openSUSE 11.3 release party Budapest, Hungary from an ambassador point of view. (...)"  
@@ -1069,7 +1069,7 @@ Past:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1263,13 +1263,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Abhishek: Enabling the Ctrl Alt Backspace combo in KDE 4+](http://blog.abhitux.com/2010/08/enabling-the-ctrl-alt-backspace-combo-in-kde-4/)
 
 
-"Today, while toying around with the system settings menu in KDE 4.5, I noticed an option to enable the good old Ctrl+Alt+Backspace combo. Itâ€™s been a while since Iâ€™ve used that combination thanks to the stability KDE offers these days and, it wasnâ€™t until I discovered it in the settings that I remembered using it a few years back. The combo, which allowed killing the X server is now disabled by default in many major Linux distributions."  
+"Today, while toying around with the system settings menu in KDE 4.5, I noticed an option to enable the good old Ctrl+Alt+Backspace combo. It’s been a while since I’ve used that combination thanks to the stability KDE offers these days and, it wasn’t until I discovered it in the settings that I remembered using it a few years back. The combo, which allowed killing the X server is now disabled by default in many major Linux distributions."  
 
 
 ####  [Worldlabel.com/Nathan Willis: Getting started with gLabels: Labels & Cards GNU/Linux](http://blog.worldlabel.com/2010/getting-started-with-glabels-labels-cards-gnulinux.html)
 
 
-"In the world of label creation software for Linux, [gLabels](http://software.opensuse.org/search?p=1&baseproject=ALL&q=glabels) is the long-standing market leader. It offers a convenient graphical interface in which you can design labels with the same tools you are used to finding in image editing software, but it also supports business-friendly advanced features like â€œmail mergeâ€ and barcode generation. In addition to that, its focus on label creation offers some advantages in printing over general office or graphics alternatives, like simple control over printing partial sheets." 
+"In the world of label creation software for Linux, [gLabels](http://software.opensuse.org/search?p=1&baseproject=ALL&q=glabels) is the long-standing market leader. It offers a convenient graphical interface in which you can design labels with the same tools you are used to finding in image editing software, but it also supports business-friendly advanced features like “mail merge” and barcode generation. In addition to that, its focus on label creation offers some advantages in printing over general office or graphics alternatives, like simple control over printing partial sheets." 
 
 
   
@@ -1301,7 +1301,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [PlanetQT/Alan Alpert: A Guide to Writing Games with QML](http://labs.trolltech.com/blogs/2010/08/12/a-guide-to-writing-games-with-qml/)
 
 
-"My last post on QML had a lot of people asking for an example, as opposed to a general discourse. In my opinion, if you want concrete examples you need to move from blogs into real code. Given that I have written a, hopefully simple, application demonstrating the points in my last post (designing C++ code for QML use), this post (writing games with QML), and the next QML post I plan to write (QMLâ€™s versioning system, when Iâ€™ll use version 2 of this example). Itâ€™s a C++ module containing word-game related logic designed for use from QML, plus a QML game using it, and they can be found in the qt-qml-demo-playground repository in the wordgame and longwords folders, respectively. They are merely intended to provide some concrete examples, and you donâ€™t have to play with them before reading the rest of this post (but it is a game, so you can :) ). Now onto the topic of this post, writing games with QML." 
+"My last post on QML had a lot of people asking for an example, as opposed to a general discourse. In my opinion, if you want concrete examples you need to move from blogs into real code. Given that I have written a, hopefully simple, application demonstrating the points in my last post (designing C++ code for QML use), this post (writing games with QML), and the next QML post I plan to write (QML’s versioning system, when I’ll use version 2 of this example). It’s a C++ module containing word-game related logic designed for use from QML, plus a QML game using it, and they can be found in the qt-qml-demo-playground repository in the wordgame and longwords folders, respectively. They are merely intended to provide some concrete examples, and you don’t have to play with them before reading the rest of this post (but it is a game, so you can :) ). Now onto the topic of this post, writing games with QML." 
 
 
   
@@ -1321,13 +1321,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Alex Barrios: Somethings to do after an openSUSE Installation (Part 2)](http://lizards.opensuse.org/2010/08/09/somethings-to-do-after-an-opensuse-installation-part-2/)
 
 
-"So, continuing with my last post about things to do after an openSUSE installation, now its the time for â€œAdding Gamesâ€, but first, some clarifications about two things:  One: You can add Codecs and other stuff with a 1-click-package, avoiding to use Zypper, I just expose the zypper method because I think its a bit more short :-P , but that its just matter of taste. So, if you are running openSUSE 11.3 with KDE use this ymp, and if you are using GNOME use this other. If you are on a older version of openSUSE, just go to this page and select your version.  Two: The broadcom-wl package its on Packman, so you have to add that repo (Via YaST -> Repositories), before you can install that package."  
+"So, continuing with my last post about things to do after an openSUSE installation, now its the time for “Adding Games”, but first, some clarifications about two things:  One: You can add Codecs and other stuff with a 1-click-package, avoiding to use Zypper, I just expose the zypper method because I think its a bit more short :-P , but that its just matter of taste. So, if you are running openSUSE 11.3 with KDE use this ymp, and if you are using GNOME use this other. If you are on a older version of openSUSE, just go to this page and select your version.  Two: The broadcom-wl package its on Packman, so you have to add that repo (Via YaST -> Repositories), before you can install that package."  
 
 
 ####  [IBMDeveloperWorks/Roderick W. Smith:Resizing Linux partitions, Part 1: Basics](http://www.ibm.com/developerworks/linux/library/l-resizing-partitions-1/index.html?ca=drs-)
 
 
-"LinuxÂ® systems are often installed on multiple partitions, each of which has a fixed size. As your needs change, though, it is often necessary to resize partitions to suit your changing needs. Several tools exist to do this in Linux, but there are a number of potential pitfalls and restrictions that can make the task more difficult than it might at first seem. This article guides you through the task of resizing Linux partitions, beginning with basic preparations and moving on to common resizing scenarios using graphical user interface (GUI) tools."  
+"Linux® systems are often installed on multiple partitions, each of which has a fixed size. As your needs change, though, it is often necessary to resize partitions to suit your changing needs. Several tools exist to do this in Linux, but there are a number of potential pitfalls and restrictions that can make the task more difficult than it might at first seem. This article guides you through the task of resizing Linux partitions, beginning with basic preparations and moving on to common resizing scenarios using graphical user interface (GUI) tools."  
 
 
 ####  [HowtoForge/Falko Timme: Installing Nginx With PHP5 And MySQL Support On OpenSUSE 11.3](http://www.howtoforge.com/installing-nginx-with-php5-and-mysql-support-on-opensuse-11.3)
@@ -1383,7 +1383,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Mike McCallister: New KDE Desktop! Version 4.5 not perfect, but much better!](http://metaverse.wordpress.com/2010/08/11/new-kde-desktop-version-4-5-not-perfect-but-much-better/)
 
 
-"So of course, while Iâ€™m spending a glorious and relaxing week hanging out in Boulder, Colorado, the KDE community is working overtime fixing a few showstopper bugs. Version 4.5 of the KDE Software Collection (also known as KDE SC) was released Tuesday, a week late from the original release plan, but it looks like a pretty good one.  Tyler Ballance over at OMG! SUSE! has a good overall summary of the highlights of this release. I got my Kubuntu laptop upgraded with only a little fussing with APT repositories (semi-inevitable on launch day). After just a day of playing around, Iâ€™m pretty happy."  
+"So of course, while I’m spending a glorious and relaxing week hanging out in Boulder, Colorado, the KDE community is working overtime fixing a few showstopper bugs. Version 4.5 of the KDE Software Collection (also known as KDE SC) was released Tuesday, a week late from the original release plan, but it looks like a pretty good one.  Tyler Ballance over at OMG! SUSE! has a good overall summary of the highlights of this release. I got my Kubuntu laptop upgraded with only a little fussing with APT repositories (semi-inevitable on launch day). After just a day of playing around, I’m pretty happy."  
 
 
 ####  [OMG!SUSE! team: Using WebKit in KDE 4.5](http://omgsuse.com/content/using-webkit-kde-45?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+omgsuse+%28OMG%21+SUSE%21%29)
@@ -1519,13 +1519,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Novell Now Offers SUSE Linux Enterprise Server 10 & 11 on Amazon Web Services](http://www.novell.com/news/press/novell-now-offers-suse-linux-enterprise-server-10-11-on-amazon-web-services/)
 
 
-"Novell today announced that Amazon Web Services (AWS) will offer hourly based pricing and support for SUSEÂ® Linux Enterprise Server.  Customers and independent software vendors (ISVs) of all sizes will have the ability to run SUSE Linux Enterprise Server 10 and 11 on Amazon Elastic Compute Cloud (Amazon EC2) paying only for the hours they use. The new offerings will be available in all instance sizes and in every AWS region around the world. In addition, Novell will provide a maintenance service on AWS so customers can keep their SLES instances up-to-date with Novell's most current security patches, bug fixes and new features."  
+"Novell today announced that Amazon Web Services (AWS) will offer hourly based pricing and support for SUSE® Linux Enterprise Server.  Customers and independent software vendors (ISVs) of all sizes will have the ability to run SUSE Linux Enterprise Server 10 and 11 on Amazon Elastic Compute Cloud (Amazon EC2) paying only for the hours they use. The new offerings will be available in all instance sizes and in every AWS region around the world. In addition, Novell will provide a maintenance service on AWS so customers can keep their SLES instances up-to-date with Novell's most current security patches, bug fixes and new features."  
 
 
 ####  [The Linux Foundation Launches Open Compliance Program](http://www.linuxfoundation.org/node/6541)
 
 
-"LINUXCON, Boston, Mass., August 10, 2010 â€“ The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux, announced today the launch of the Open Compliance Program, a comprehensive initiative that includes tools, training, a standard format to report software licensing information, consulting and a self-assessment checklist that will help companies comply with open source licenses, increasing adoption of open source and decreasing legal FUD present in the marketplace. (...)" 
+"LINUXCON, Boston, Mass., August 10, 2010 – The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux, announced today the launch of the Open Compliance Program, a comprehensive initiative that includes tools, training, a standard format to report software licensing information, consulting and a self-assessment checklist that will help companies comply with open source licenses, increasing adoption of open source and decreasing legal FUD present in the marketplace. (...)" 
 
 
   
@@ -1577,13 +1577,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [openSUSE 11.3 Review](http://www.thinkdigit.com/Features/openSUSE-113-Review_5223.html)
 
 
-"openSUSE is one of those few Linux distributions that gives you a choice of desktop environment while you are installing it, and doesnâ€™t treat KDE or Gnome as a primary option. Both environments have equal support from openSUSE and are equally customized. Until a previous version (openSUSE 11.1) the installation would not even have a default desktop environment selected, and you would need to select one of KDE or Gnome before installing. Even now all that has changed is that the option of KDE comes selected by default, to ease the choice for new users. Besides Gnome and KDE, the openSUSE DVD version even offers XFCE, LXDE as an option along with a minimal X Windows environment, or text-mode for servers; all on the same DVD."  
+"openSUSE is one of those few Linux distributions that gives you a choice of desktop environment while you are installing it, and doesn’t treat KDE or Gnome as a primary option. Both environments have equal support from openSUSE and are equally customized. Until a previous version (openSUSE 11.1) the installation would not even have a default desktop environment selected, and you would need to select one of KDE or Gnome before installing. Even now all that has changed is that the option of KDE comes selected by default, to ease the choice for new users. Besides Gnome and KDE, the openSUSE DVD version even offers XFCE, LXDE as an option along with a minimal X Windows environment, or text-mode for servers; all on the same DVD."  
 
 
 ####  [ESecurityplanet/Keith Vance: Linux Security, Then and Now](http://www.esecurityplanet.com/article.php/3898261/Linux-Security-Then-and-Now.htm)
 
 
-"Linux is inherently not a secure operating system. The reason it's not secure is because Linux was based on the architectural design of UNIX, and the creators of UNIX didn't care about security â€“ it was 1969 after all.  "The first fact to face is that UNIX was not developed with security, in any realistic sense, in mind; this fact alone guarantees a vast number of holes," Dennis Ritchie wrote in his paper, "On the Security of UNIX" in 1979." 
+"Linux is inherently not a secure operating system. The reason it's not secure is because Linux was based on the architectural design of UNIX, and the creators of UNIX didn't care about security – it was 1969 after all.  "The first fact to face is that UNIX was not developed with security, in any realistic sense, in mind; this fact alone guarantees a vast number of holes," Dennis Ritchie wrote in his paper, "On the Security of UNIX" in 1979." 
 
 
   
@@ -1713,7 +1713,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1722,7 +1722,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1782,34 +1782,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/136)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/136)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/136)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/136)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/136)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/136)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/136)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/136)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/136)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/136/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/136/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/136/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/136)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/136)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/136)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/136)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/136)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/136)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/136)
@@ -1818,7 +1818,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/136/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/136)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/136)
 
 
 </td>

@@ -348,7 +348,7 @@ Programming, but with amount of time I have for learning there will be no improv
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Take look around, pull tools out and make something good outside of the virtual world. Though, I would often check if it's fixed.
@@ -422,7 +422,7 @@ It would be traveling, but I have not much opportunity for that lately.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Pay off loans and take vacation to think what to do with the rest.
@@ -433,7 +433,7 @@ That is a lot of money.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 In the future to see where world goes and in the past to meet some famous people. It would be hard to find me.
@@ -443,7 +443,7 @@ In the future to see where world goes and in the past to meet some famous people
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No.

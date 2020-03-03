@@ -15,7 +15,7 @@ For the past few months we, the openSUSE [Board](http://en.opensuse.org/Board), 
 
 After much discussion, we're finally ready to bring together these important bits of information into a cohesive statement that everyone can unify around. As such, we, the members of the Strategy Team, will be meeting in Nuremberg the weekend of May 28th to formalize a draft of our strategy that will be available publicly for open discussion and comment.
 
-The weekend strategy retreat will be preceded by a General Board Meeting Friday morning and a Meet & Greet for the general public Friday evening. If you are in the Nuremberg area or are willing to travel to Nuremberg, we invite you for a sociable evening of chat and drinks at the SUSE-Nuremberg offices at 6:00 p.m, SUSE Linux Products GmbH, Ground Floor/ErdgeschoÃŸ,
-MaxfeldstraÃŸe 5, 90409 NÃ¼rnberg. Meet the Board, members of the openSUSE Boosters team and other SUSE guys there. We'll do a few short presentations but the focus lays clearly on communication and having fun.
+The weekend strategy retreat will be preceded by a General Board Meeting Friday morning and a Meet & Greet for the general public Friday evening. If you are in the Nuremberg area or are willing to travel to Nuremberg, we invite you for a sociable evening of chat and drinks at the SUSE-Nuremberg offices at 6:00 p.m, SUSE Linux Products GmbH, Ground Floor/Erdgeschoß,
+Maxfeldstraße 5, 90409 Nürnberg. Meet the Board, members of the openSUSE Boosters team and other SUSE guys there. We'll do a few short presentations but the focus lays clearly on communication and having fun.
 
 For more information about our work, please feel free to review our [documents](http://en.opensuse.org/Documents).

@@ -51,7 +51,7 @@ Back to the annual meeting, the event itself will offer some discussion about:
   * openSUSE Remastered with most common application used in Indonesia
 
   
-  * Knowledge share with subject â€œBuilding Powerful Mail Server withoOpenSUSE and [Zimbra Collaboration Suite](http://www.zimbra.com)â€
+  * Knowledge share with subject “Building Powerful Mail Server withoOpenSUSE and [Zimbra Collaboration Suite](http://www.zimbra.com)”
 
   
   * Distributing openSUSE 10.2 and 10.3 DVD repositories (contains oss, non oss, Packman and Guru repository)

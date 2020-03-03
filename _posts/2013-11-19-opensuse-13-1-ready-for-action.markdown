@@ -148,10 +148,10 @@ This release comes with a number of experimental technologies to try out. This i
 
 
 
-<blockquote>â€œWe're proud of this release and of all those who worked on it. With a steady increase in contributors there was a lot of hard work put in by so many people from around the globe. Without all these contributors, initiatives like support for ARM would not be possible and we're very thankful for their input.â€</blockquote>
+<blockquote>“We're proud of this release and of all those who worked on it. With a steady increase in contributors there was a lot of hard work put in by so many people from around the globe. Without all these contributors, initiatives like support for ARM would not be possible and we're very thankful for their input.”</blockquote>
 
 
-_â€“ said openSUSE Board member Andrew Wafaa_.
+_– said openSUSE Board member Andrew Wafaa_.
 <!-- more -->
 
 
@@ -443,7 +443,7 @@ In this release, ActiveDoc replaces doc.opensuse.org and most of the packaged do
 
 
 **SUSE Studio**
-[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 13.1 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 13.1 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse otherâ€™s shared appliances on [SUSE Gallery](http://susegallery.com).
+[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 13.1 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 13.1 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse other’s shared appliances on [SUSE Gallery](http://susegallery.com).
 
 
 
@@ -451,10 +451,10 @@ In this release, ActiveDoc replaces doc.opensuse.org and most of the packaged do
 
 
 
-<blockquote>â€œThe openSUSE community has again done an amazing job. There was an incredible final testing- and bug fixing push over community channels the weeks before the release. we at SUSE are proud of being part of such an innovative team of technology enthusiasts.â€</blockquote>
+<blockquote>“The openSUSE community has again done an amazing job. There was an incredible final testing- and bug fixing push over community channels the weeks before the release. we at SUSE are proud of being part of such an innovative team of technology enthusiasts.”</blockquote>
 
 
-_â€“ said Ralf Flaxa, VP of engineering at SUSE_
+_– said Ralf Flaxa, VP of engineering at SUSE_
 
 
 ## Maintenance and life cycle
@@ -482,10 +482,10 @@ Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Stab
 ## Thanks!
 
 
-13.1 represents the combined effort of thousands of developers who participate in our distributions and projects shipped with it. The contributors, inside and outside the openSUSE Project, should be proud of this release, and they deserve a major **â€œthank youâ€** for all of the hard work and care that have gone into it. We believe that 13.1 is the best openSUSE release yet, and that it will help to encourage the use of Linux everywhere! We hope that you all have a lot of fun while you're using it, and we look forward to working with you on the next release!
+13.1 represents the combined effort of thousands of developers who participate in our distributions and projects shipped with it. The contributors, inside and outside the openSUSE Project, should be proud of this release, and they deserve a major **“thank you”** for all of the hard work and care that have gone into it. We believe that 13.1 is the best openSUSE release yet, and that it will help to encourage the use of Linux everywhere! We hope that you all have a lot of fun while you're using it, and we look forward to working with you on the next release!
 
 
 ## About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the worldâ€™s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)

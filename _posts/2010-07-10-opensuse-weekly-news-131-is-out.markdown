@@ -170,7 +170,7 @@ We are pleased to announce our openSUSE Weekly News #131.
 
 
      We are pleased to announce our **131** issue of the **openSUSE Weekly News**. 
-In this Issue we have collected very interesting things. The Top4 you  can see on the header of this issue. Sadly i have bad news about our  Kernel Review and PostgreSQL Review with openSUSE Flavor. Our  Correspodent Rares Aoianei has crashed his PC. So we can't read anything  from him in this Issue. But we hope to see him soon. We send him on  this way our best wishesÂ :-) What was interesting too in the Week? The 11.3 distribution has reached  the Goldmaster Status. That means, we have now the Build who goes to our  openSUSE Box. So we are happy to get the box soon. If you would like,  you can pre-order the Box on [this](http://www.edv-buchversand.de/suse/product.php?cnt=product&id=sus181) Page. So that's all from my Side,
+In this Issue we have collected very interesting things. The Top4 you  can see on the header of this issue. Sadly i have bad news about our  Kernel Review and PostgreSQL Review with openSUSE Flavor. Our  Correspodent Rares Aoianei has crashed his PC. So we can't read anything  from him in this Issue. But we hope to see him soon. We send him on  this way our best wishes :-) What was interesting too in the Week? The 11.3 distribution has reached  the Goldmaster Status. That means, we have now the Build who goes to our  openSUSE Box. So we are happy to get the box soon. If you would like,  you can pre-order the Box on [this](http://www.edv-buchversand.de/suse/product.php?cnt=product&id=sus181) Page. So that's all from my Side,
 
 
 
@@ -216,18 +216,18 @@ In this Issue we have collected very interesting things. The Top4 you  can see o
 
 
 
-#### [openSUSE Wiki â€“ Episode II: A new hope](../2010/07/05/a-new-hope/)
+#### [openSUSE Wiki – Episode II: A new hope](../2010/07/05/a-new-hope/)
 
 
 
 
      "You hear it in the bushes since quite some time, rumors spread  and people whisper about it: A new wiki for the openSUSE project is  coming very soon! The openSUSE Wiki team is in the last preparations to  launch the new wiki on Monday the 12th of July 
      As with all shiny new things the new wiki is different than  the old one. But different how? You can sum that up in one word:  Structure 
-     The current wiki, online since the start of the openSUSE  project in 2005,  grew wild into something that is not maintainable  anymore. This is because content in it is in no way structured and we  use it as a simple information dump. We donâ€™t have any rules on how to  present information or how to connect it to related bits and everybody  is just adding pages. It makes adding content very easy but it neglects  completely the biggest group of users of this wiki: the readers. On a  normal day we have 10 people adding and 78.000 reading content. Yet we  do very little to ensure that those 78.000 people find what they are  looking for." 
+     The current wiki, online since the start of the openSUSE  project in 2005,  grew wild into something that is not maintainable  anymore. This is because content in it is in no way structured and we  use it as a simple information dump. We don’t have any rules on how to  present information or how to connect it to related bits and everybody  is just adding pages. It makes adding content very easy but it neglects  completely the biggest group of users of this wiki: the readers. On a  normal day we have 10 people adding and 78.000 reading content. Yet we  do very little to ensure that those 78.000 people find what they are  looking for." 
 
 
 
-#### [The devil is in the details â€“ What changes on monday for  the wiki oldtimers?](../2010/07/08/the-devil-is-in-the-details/)
+#### [The devil is in the details – What changes on monday for  the wiki oldtimers?](../2010/07/08/the-devil-is-in-the-details/)
 
 
 
@@ -253,7 +253,7 @@ In this Issue we have collected very interesting things. The Top4 you  can see o
     * The transition will begin on Monday, June 12 at 17:00 GMT (1:oo  PM EDT)
 
 	
-    * The move should be completed in 10 â€“ 15 minutes
+    * The move should be completed in 10 – 15 minutes
 
 
 
@@ -480,14 +480,14 @@ The numbers for all openSUSE project products are this week:
 
 
 
-    "openSUSE 11.3 is almost Gold, with that openSUSE Education team  is also ready with the â€œRelease Candidateâ€ of Li-f-e based on 11.3. 
+    "openSUSE 11.3 is almost Gold, with that openSUSE Education team  is also ready with the “Release Candidate” of Li-f-e based on 11.3. 
      Some of the highlights of this upcoming release: 
      * Tons of Education softwares 
      * KDE, GNOME, Sugar desktops 
      * Full multimedia support 
      * Latest LTSP including iTALC support out of the box 
-     * Much much more for you to discoverâ€¦ 
-     The DVD iso image doubles as live USB image too, just â€œddâ€ the  iso to 4GB+ USB stick to get fully functional desktop/server on a  stick. Check out this development release to report any bugs or missing  feature before we go gold. 
+     * Much much more for you to discover… 
+     The DVD iso image doubles as live USB image too, just “dd” the  iso to 4GB+ USB stick to get fully functional desktop/server on a  stick. Check out this development release to report any bugs or missing  feature before we go gold. 
      We are looking for volunteers to do a detailed preview for the  launch, drop us a line if you are interested." 
 </td>
 </tr>
@@ -521,9 +521,9 @@ The numbers for all openSUSE project products are this week:
 
 
 
-     "With openSUSE 11.3 less than a week away, soon itâ€™ll be time  to think about 11.3+1 which will be released in March 2011 with KDE SC  4.6. 
+     "With openSUSE 11.3 less than a week away, soon it’ll be time  to think about 11.3+1 which will be released in March 2011 with KDE SC  4.6. 
      This should interest people using the KDE Factory repository a  great deal, because it means that Factory should move to KDE SC 4.5 RC  very shortly, and in November it will move to KDE SC 4.6 Beta. Leaving  users with no choice other than using 4.6 Beta or downgrading to 4.4.4  which will be the version officially supported in 11.3 and available in  the KDE Stable repository. 
-     In other words, if you donâ€™t wish to use KDE SC 4.6 Beta in  November, donâ€™t use the KDE Factory repository! Switch to the KDE Stable  repository, which already has 4.4.4. Consider yourself warned." 
+     In other words, if you don’t wish to use KDE SC 4.6 Beta in  November, don’t use the KDE Factory repository! Switch to the KDE Stable  repository, which already has 4.4.4. Consider yourself warned." 
 </td>
 </tr>
 </tbody>
@@ -556,8 +556,8 @@ The numbers for all openSUSE project products are this week:
 
 
 
-     "It was hackweek here again in Novell, I spent an enjoyable (  but also sometimes frustrating ) couple of days trying to extend support  for Mono in Openoffice.org. Recently on IRC there was some interest in  using C# to write extensions for Openoffice.org where it became clear  that only being able to â€˜driveâ€™ Openoffice.org from C# is severely  limiting. To provide decent custom functionality you need to be able to  get called by Openoffice.org, integrate with the Menus and Toolbars etc.  Clearly to write an extension you need to be able to be â€˜pluggedâ€™ in..  There are many many C# developers ( and potential extension developers )  and we are just ignoring them. I have to admit I always wanted to play  with C#/DotNet/Mono and I even proposed a GSOC task to try and faciliate  thisÂ ;-) 
-     Unfortunately the project didnâ€™t make the cut but fortunately  there is Hackweek yay! So, I spent the last couple of days playing  around with Mono and C#, first I wrote a new loader for Mono, this  allowed me to use recomp to register some services, next I modified  unopkg to accept a Mono component bundled in an extension." 
+     "It was hackweek here again in Novell, I spent an enjoyable (  but also sometimes frustrating ) couple of days trying to extend support  for Mono in Openoffice.org. Recently on IRC there was some interest in  using C# to write extensions for Openoffice.org where it became clear  that only being able to ‘drive’ Openoffice.org from C# is severely  limiting. To provide decent custom functionality you need to be able to  get called by Openoffice.org, integrate with the Menus and Toolbars etc.  Clearly to write an extension you need to be able to be ‘plugged’ in..  There are many many C# developers ( and potential extension developers )  and we are just ignoring them. I have to admit I always wanted to play  with C#/DotNet/Mono and I even proposed a GSOC task to try and faciliate  this ;-) 
+     Unfortunately the project didn’t make the cut but fortunately  there is Hackweek yay! So, I spent the last couple of days playing  around with Mono and C#, first I wrote a new loader for Mono, this  allowed me to use recomp to register some services, next I modified  unopkg to accept a Mono component bundled in an extension." 
 
 
 
@@ -740,8 +740,8 @@ The numbers for all openSUSE project products are this week:
 
 
 
-     "The other day the, secret, internal, 'from scratch' re-write  of GStreamer integration was announced by StarDivision. You can read the  wonderful news on their corporate blog. There is also some amusingly  mis-directed marketing effort focused on Ubuntu as well. What does this  mean for Linux usersÂ ? Nothing. With this great leap forward in Linux  support you are unlikely to notice any difference at all; whyÂ ? Because  all Linux distributions (SUSE, RedHat, Debian, Ubuntu, Mandriva, and  more than I can list) have already been shipping GStreamer support since  2006. That was mostly written by Radek Doulik from Novell, with fixes  from Redhat's superstar Caolan McNamara. 
-     The real question is: Why would StarDivision want to draw  attention to their traditional feature gap, by making noise about  shipping multimedia support four+ years lateÂ ? while simultaneously  alienating valuable contributors and continuing to tear down its  developer community (that would love to help close OO.o's feature gap)Â ?  if that interests you - read on: ..." 
+     "The other day the, secret, internal, 'from scratch' re-write  of GStreamer integration was announced by StarDivision. You can read the  wonderful news on their corporate blog. There is also some amusingly  mis-directed marketing effort focused on Ubuntu as well. What does this  mean for Linux users ? Nothing. With this great leap forward in Linux  support you are unlikely to notice any difference at all; why ? Because  all Linux distributions (SUSE, RedHat, Debian, Ubuntu, Mandriva, and  more than I can list) have already been shipping GStreamer support since  2006. That was mostly written by Radek Doulik from Novell, with fixes  from Redhat's superstar Caolan McNamara. 
+     The real question is: Why would StarDivision want to draw  attention to their traditional feature gap, by making noise about  shipping multimedia support four+ years late ? while simultaneously  alienating valuable contributors and continuing to tear down its  developer community (that would love to help close OO.o's feature gap) ?  if that interests you - read on: ..." 
 
 
 
@@ -750,7 +750,7 @@ The numbers for all openSUSE project products are this week:
 
 
 
-     "Below is a graphical representation of OOoâ€™s module  dependencies as of DEV300 milestone 84 generated via graphviz. Click on  the image to get the whole picture." 
+     "Below is a graphical representation of OOo’s module  dependencies as of DEV300 milestone 84 generated via graphviz. Click on  the image to get the whole picture." 
 </td>
 </tr>
 </tbody>
@@ -822,7 +822,7 @@ The numbers for all openSUSE project products are this week:
   * Daily updated translation statistics are available on the [openSUSE Localization  Portal](http://i18n.opensuse.org/).
 
 	
-  * [Trunk  Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization  Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk  Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization  Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 
@@ -869,7 +869,7 @@ Past:
   * [**July 07, 2010: German Wiki Team Meeting**](../2010/05/30/german-wiki-team-meeting-2/)
 
 	
-  * [**July 08, 2010: ï»¿openSUSE KDE Team meeting**](../2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**July 08, 2010: ﻿openSUSE KDE Team meeting**](../2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 Upcoming:
@@ -892,7 +892,7 @@ Upcoming:
   * You can find more informations on other events at:
 
 	
-    * [openSUSE News/Events](../category/events/) â€“ [Local  events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
+    * [openSUSE News/Events](../category/events/) – [Local  events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
 
 
 
@@ -1017,7 +1017,7 @@ Upcoming:
   * You can find other interesting Packages at:
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1272,7 +1272,7 @@ Upcoming:
 
 
 
-#### [Chema MartÃ­n: KDE Desktop Tricks](http://cristalinux.blogspot.com/2010/07/kde-desktop-tricks.html)
+#### [Chema Martín: KDE Desktop Tricks](http://cristalinux.blogspot.com/2010/07/kde-desktop-tricks.html)
 
 
 
@@ -1379,7 +1379,7 @@ Upcoming:
 
 
      "Our good friend and contributor Lee "oldcpu" Matheson did a  nice screencast of the very lightweight LXDE desktop on openSUSE 11.3  RC1. 
-     LXDE on openSUSE is quite an interesting undertaking, as it  was completely pushed, driven and implemented by members of our  community, without a single minute being spent on time sponsored by  NovellÂ ;) Andrea Florio did most of the work and lead the charge from  the beginning, so kudos to him as well." 
+     LXDE on openSUSE is quite an interesting undertaking, as it  was completely pushed, driven and implemented by members of our  community, without a single minute being spent on time sponsored by  Novell ;) Andrea Florio did most of the work and lead the charge from  the beginning, so kudos to him as well." 
 
 
 
@@ -1399,10 +1399,10 @@ Upcoming:
 
 
 
-     "Iâ€™m in the unfortunate situation that my employer uses a  Juniper SSL/VPN solution with network connect capabilities (to initiate a  real tunnel). 
+     "I’m in the unfortunate situation that my employer uses a  Juniper SSL/VPN solution with network connect capabilities (to initiate a  real tunnel). 
      The solution is built around some Java code, some suid  services and obviously exists as 32bit only. 
      Since the update from v5 to v6.5, network connect does no  longer work when initiated from the web interface, which is a shame. The  issue is a 32bit library that seems no longer to be nicely wrapped and  thus the 64bit java is no longer able to start the processes up. The  worst about all of it: there is no error message, no log file. 
-     If youâ€™re lucky enough and you only have username / password  auth, you can simply use ncsvc with some parameters. Of course I am less  fortunate, and besides username/password, we also use a OTP RSA Token.  And of course, ncsvc does not offer any option to enter a 2nd password." 
+     If you’re lucky enough and you only have username / password  auth, you can simply use ncsvc with some parameters. Of course I am less  fortunate, and besides username/password, we also use a OTP RSA Token.  And of course, ncsvc does not offer any option to enter a 2nd password." 
 
 
 
@@ -1440,8 +1440,8 @@ Upcoming:
 
 
 
-    "well, it's not that it can read XML files from a twitter feed  nowÂ ;) but after this blog, starting from today, AutoYaST goes one  further step to web 2.0 and has it's own twitter account. 
-     It's not for great hints or enhanced support or so. It's just a  little look behind the curtain of my life with AutoYaST ... for those  who careÂ ;) 
+    "well, it's not that it can read XML files from a twitter feed  now ;) but after this blog, starting from today, AutoYaST goes one  further step to web 2.0 and has it's own twitter account. 
+     It's not for great hints or enhanced support or so. It's just a  little look behind the curtain of my life with AutoYaST ... for those  who care ;) 
      And it seems you can't do any bigger project these days  without something like a blog, twitter or facebook or ... so ... here it  is." 
 
 
@@ -1451,8 +1451,8 @@ Upcoming:
 
 
 
-    "If you look at the list of binaries for a package (e.g.  icecream), you may think that you can download the RPM right away â€“ but  if you follow the link in a browser you get to see details about the  rpm. 
-     Now if you only want to download it, you may already know the  details and donâ€™t care. So I added a little shortcut: if you request the  binary url with a client not accepting html explicitly (e.g. curl,  wgetâ€¦), you get the file directly. Just copy & paste the link to  your console and be done. ..." 
+    "If you look at the list of binaries for a package (e.g.  icecream), you may think that you can download the RPM right away – but  if you follow the link in a browser you get to see details about the  rpm. 
+     Now if you only want to download it, you may already know the  details and don’t care. So I added a little shortcut: if you request the  binary url with a client not accepting html explicitly (e.g. curl,  wget…), you get the file directly. Just copy & paste the link to  your console and be done. ..." 
 
 
 
@@ -1461,8 +1461,8 @@ Upcoming:
 
 
 
-    "Yes, its been forever and then some since Iâ€™ve messed with this  stuff.  Iâ€™m finally trying to make sure that I get some work done on  this.  The first item of business is the new iFolder appliance project  page being hosted on google code.  This is where Iâ€™d like to post  updates, release notes, progress, errata, the how to, fixes,  workarounds, etc. 
-     The next thing I want to mention is that Iâ€™ve started to work  on an openSUSE 11.2 based iFolder appliance that will include, as of  right now, iFolder 3.8. Â : Iâ€™ll be posting links to the test images for  anyone that would like to help test, comment, contribute, etc.  Please  feel free to post bugs to the project page and Iâ€™ll do my best to fix  them." 
+    "Yes, its been forever and then some since I’ve messed with this  stuff.  I’m finally trying to make sure that I get some work done on  this.  The first item of business is the new iFolder appliance project  page being hosted on google code.  This is where I’d like to post  updates, release notes, progress, errata, the how to, fixes,  workarounds, etc. 
+     The next thing I want to mention is that I’ve started to work  on an openSUSE 11.2 based iFolder appliance that will include, as of  right now, iFolder 3.8.  : I’ll be posting links to the test images for  anyone that would like to help test, comment, contribute, etc.  Please  feel free to post bugs to the project page and I’ll do my best to fix  them." 
 </td>
 </tr>
 </tbody>
@@ -1598,8 +1598,8 @@ Upcoming:
 
 
 
-     "The Samba team isnâ€™t expecting to release [Samba 4](http://www.zdnet.com/blog/open-source/samba4-release-pushed-back-to-late-2010-2011/5548?tag=content;search-results-rivers) until the first half of 2011  (optimistically) but work on support for Microsoftâ€™s SMB2 â€” and older  SMB/CIFS â€” has moved ahead quite nicely. 
-     Samba leader Jeremy Allison said support for SMB2 â€” which was  introduced in the Windows Vista client â€” is finished and will be made  available for testing in the next significant Samba release." 
+     "The Samba team isn’t expecting to release [Samba 4](http://www.zdnet.com/blog/open-source/samba4-release-pushed-back-to-late-2010-2011/5548?tag=content;search-results-rivers) until the first half of 2011  (optimistically) but work on support for Microsoft’s SMB2 — and older  SMB/CIFS — has moved ahead quite nicely. 
+     Samba leader Jeremy Allison said support for SMB2 — which was  introduced in the Windows Vista client — is finished and will be made  available for testing in the next significant Samba release." 
 
 
 
@@ -1626,7 +1626,7 @@ Upcoming:
 
 
 
-     "Firefox has been taking heat from Google Chrome over speed for  some time, but the worldâ€™s most popular open source browser is getting  ready for a comeback. Can Firefox 4.0 woo back some of the early  adopters whoâ€™ve embraced Chrome? It looks like it will have a very good  shot." 
+     "Firefox has been taking heat from Google Chrome over speed for  some time, but the world’s most popular open source browser is getting  ready for a comeback. Can Firefox 4.0 woo back some of the early  adopters who’ve embraced Chrome? It looks like it will have a very good  shot." 
 
 
 
@@ -1722,7 +1722,7 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
   * [saigkill](http://wiki.opensuse.org/User:Saigkill) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Saigkill&action=edit&redlink=1) -  [Contributions](http://wiki.opensuse.org/Special:Contributions/saigkill) Sascha  Manns (Editor in Chief)
 
 	
-  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian  SchÃ¶binger (Tips/Tricks)
+  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian  Schöbinger (Tips/Tricks)
 
 	
   * [HeliosReds](http://wiki.opensuse.org/User:HeliosReds) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru  Matsumoto (Editorial Office)
@@ -1731,7 +1731,7 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
   * [Caf4926](http://wiki.opensuse.org/User:Caf4926) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Caf4926) Carl  Fletcher (Main-Newsletter, Forums Sec.)
 
 	
-  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas  HofstÃ¤tter (Events & Meetings)
+  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas  Hofstätter (Events & Meetings)
 
 	
   * add translators
@@ -1778,34 +1778,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/131)
 
 	
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/131)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/131)
 
 	
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/131)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/131)
 
 	
-  * [æ—¥ æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/131)
+  * [日 本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/131)
 
 	
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/131)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/131)
 
 	
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/131/indonesian)
 
 	
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/131/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/131/chinese)
 
 	
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/131)
 
 	
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/131)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/131)
 
 	
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/131)
 
 	
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/131)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/131)
 
 	
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/131)
@@ -1814,7 +1814,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/131/swedish)
 
 	
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/131)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/131)
 
 
 

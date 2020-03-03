@@ -5,7 +5,7 @@ date: 2011-08-01 22:59:29+00:00
 layout: post
 link: https://news.opensuse.org/2011/08/01/are-you-ready/
 slug: are-you-ready
-title: Are you ready for RWXÂ³ ?
+title: Are you ready for RWX³ ?
 wordpress_id: 9918
 categories:
 - Conference

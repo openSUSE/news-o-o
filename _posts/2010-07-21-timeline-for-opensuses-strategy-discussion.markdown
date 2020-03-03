@@ -5,13 +5,13 @@ date: 2010-07-21 15:32:51+00:00
 layout: post
 link: https://news.opensuse.org/2010/07/21/timeline-for-opensuses-strategy-discussion/
 slug: timeline-for-opensuses-strategy-discussion
-title: Timeline for openSUSEâ€™s strategy discussion
+title: Timeline for openSUSE’s strategy discussion
 wordpress_id: 3840
 categories:
 - Project
 ---
 
-Due to the positive fact that more proposals emerge, we wanted toÂ take the time to make them into polished proposals that we want toÂ publish for discussion as well.
+Due to the positive fact that more proposals emerge, we wanted to take the time to make them into polished proposals that we want to publish for discussion as well.
 
 
 
@@ -29,7 +29,7 @@ Here's our new timeline:
   * Consolidate community proposals for discussion till July 25
 
 	
-  * Discuss proposals starting, July 27 Â (4 days for each discussion)
+  * Discuss proposals starting, July 27  (4 days for each discussion)
 
 	
   * end of public discussions, Aug 10.

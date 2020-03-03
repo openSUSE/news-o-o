@@ -33,7 +33,7 @@ The new team has defined a [workflow](http://en.opensuse.org/openSUSE:Openfate_s
 ## Marketplace - Seeking Developers
 
 
-There are many great ideas and anybody can implement them.Â Just grab a feature that is in state "[Marketplace](https://features.opensuse.org/query/run?search_string=&tag=&search_products[]=22236&search_status[]=marketplace&type=find&commit=Search)" and implement it. If nobody steps up to do one, it will not be done!
+There are many great ideas and anybody can implement them. Just grab a feature that is in state "[Marketplace](https://features.opensuse.org/query/run?search_string=&tag=&search_products[]=22236&search_status[]=marketplace&type=find&commit=Search)" and implement it. If nobody steps up to do one, it will not be done!
 
 The openFATE screening team plans to promote key features so that people know about them and can grab them.
 

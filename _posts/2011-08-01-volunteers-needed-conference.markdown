@@ -12,7 +12,7 @@ categories:
 tags:
 - conference
 - helping hands
-- nÃ¼rnberg
+- nürnberg
 - volunteers
 ---
 
@@ -30,7 +30,7 @@ The Zentrifuge is not an event location in the classical sense so we have to do 
 ## [The Registration Desk](http://en.opensuse.org/openSUSE:Conference_volunteers#The_Registration_Desk)
 
 
-At the conference, every morning from 9:00 to 10:30, we will have a registration desk. It will handle the registration  of new visitors,Â  distribution of info materials and answering of general questions and such. We need two people per day to man this desk during the conference. On Sunday, as it's the first day, it better be three! If you can help with this please lets us know on the [volunteers page](http://en.opensuse.org/openSUSE:Conference_volunteers) or let us know at [opensuse-conference@opensuse.org](mailto:opensuse-conference@opensuse.org).
+At the conference, every morning from 9:00 to 10:30, we will have a registration desk. It will handle the registration  of new visitors,  distribution of info materials and answering of general questions and such. We need two people per day to man this desk during the conference. On Sunday, as it's the first day, it better be three! If you can help with this please lets us know on the [volunteers page](http://en.opensuse.org/openSUSE:Conference_volunteers) or let us know at [opensuse-conference@opensuse.org](mailto:opensuse-conference@opensuse.org).
 
 
 ## [Session Chair](http://en.opensuse.org/openSUSE:Conference_volunteers#Session_Chair)
@@ -42,7 +42,7 @@ We have two floors in the Zentrifuge and both have a main room and some smaller 
 ## [The Snack Bar](http://en.opensuse.org/openSUSE:Conference_volunteers#The_Bar)
 
 
-This year we will run our own snack bar at the venue. The organization team has already seen to that foods and drinks are available and that we have a fully equipped snack bar ready.Â  Now we need people that help us to man the snack bar to sell, sell, sell. You would need to sell snacks and drinks, make sure that we don't run out and count the moneys! If you can help with this please lets us know on the [volunteers page](http://en.opensuse.org/openSUSE:Conference_volunteers) or drop us a mail at [opensuse-conference@opensuse.org](mailto:opensuse-conference@opensuse.org).
+This year we will run our own snack bar at the venue. The organization team has already seen to that foods and drinks are available and that we have a fully equipped snack bar ready.  Now we need people that help us to man the snack bar to sell, sell, sell. You would need to sell snacks and drinks, make sure that we don't run out and count the moneys! If you can help with this please lets us know on the [volunteers page](http://en.opensuse.org/openSUSE:Conference_volunteers) or drop us a mail at [opensuse-conference@opensuse.org](mailto:opensuse-conference@opensuse.org).
 
 
 ## [Evening Manager and Lock Service](http://en.opensuse.org/openSUSE:Conference_volunteers#Evening_Manager_and_Lock_Service)

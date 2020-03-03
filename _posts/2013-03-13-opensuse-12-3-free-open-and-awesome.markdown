@@ -5,7 +5,7 @@ date: 2013-03-13 14:00:47+00:00
 layout: post
 link: https://news.opensuse.org/2013/03/13/opensuse-12-3-free-open-and-awesome/
 slug: opensuse-12-3-free-open-and-awesome
-title: openSUSE 12.3 â€“ Awesome as 1-2-3
+title: openSUSE 12.3 – Awesome as 1-2-3
 wordpress_id: 15299
 categories:
 - Announcements
@@ -18,12 +18,12 @@ Dear contributors, friends and fans: The latest release of the openSUSE distribu
 [![Download openSUSE 12.3](//news.opensuse.org/wp-content/uploads/2013/03/get_it1.png)](http://software.opensuse.org)
 
 
-(_In other languages_:Â [cs](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD)Â [de](http://de.opensuse.org/Ank%C3%BCndigung)Â [es](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_12.3) [fr](http://fr.opensuse.org/Annonce_de_version) [it](http://it.opensuse.org/Release_announcement) [ja](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [nl](http://nl.opensuse.org/Release_announcement) [pt](http://pt.opensuse.org/Release_announcement) [ru](http://ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [zh](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E)Â [zh-tw](http://zh-tw.opensuse.org/Release_announcement))
+(_In other languages_: [cs](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD) [de](http://de.opensuse.org/Ank%C3%BCndigung) [es](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_12.3) [fr](http://fr.opensuse.org/Annonce_de_version) [it](http://it.opensuse.org/Release_announcement) [ja](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [nl](http://nl.opensuse.org/Release_announcement) [pt](http://pt.opensuse.org/Release_announcement) [ru](http://ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [zh](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E) [zh-tw](http://zh-tw.opensuse.org/Release_announcement))
 
 
 
 
-As this was a shorter-than-normal release cycle, much attention went into the _details_ so we can now give you a _quality packed_ product. This release of worldâ€™s most powerful and flexible Linux Distribution puts the _finishing touches_ on our boot infrastructure and package management, a _bright polish_ to your desktop and a touch of _cloud_ for your server.
+As this was a shorter-than-normal release cycle, much attention went into the _details_ so we can now give you a _quality packed_ product. This release of world’s most powerful and flexible Linux Distribution puts the _finishing touches_ on our boot infrastructure and package management, a _bright polish_ to your desktop and a touch of _cloud_ for your server.
 
 
 
@@ -110,10 +110,10 @@ openSUSE moves forward with the inclusion of updated applications. **DigiKam** 3
 
 
 
-<blockquote>â€žWe're very proud of openSUSE 12.3 asÂ  a stable and current operating system, also we are looking forward to the openSUSE Conference in Greece this summer, where we can celebrate its release and continue working towards the future of Free Software.â€</blockquote>
+<blockquote>„We're very proud of openSUSE 12.3 as  a stable and current operating system, also we are looking forward to the openSUSE Conference in Greece this summer, where we can celebrate its release and continue working towards the future of Free Software.”</blockquote>
 
 
-_â€“ said openSUSE Board member Richard Brown_.
+_– said openSUSE Board member Richard Brown_.
 
 <!-- more -->
 
@@ -237,7 +237,7 @@ Virtualbox 4.2 brings support for limiting network IO bandwidth, improved 3D per
 
 
 **Cloud**
-12.3 is the first release of openSUSE to feature complete packages for OpenStack, the leading open source cloud computing platform. We now ship all the tools needed to setup and communicate with a cloud on your system or via an API remotely.Â  On top of that, packages for Grizzly (next release of OpenStack due in April) are already being worked on and will be available for 12.3.
+12.3 is the first release of openSUSE to feature complete packages for OpenStack, the leading open source cloud computing platform. We now ship all the tools needed to setup and communicate with a cloud on your system or via an API remotely.  On top of that, packages for Grizzly (next release of OpenStack due in April) are already being worked on and will be available for 12.3.
 
 
 
@@ -494,7 +494,7 @@ The KDE and GNOME live images are now designed to be written to, booted and inst
 
 
 **SUSE Studio**
-[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 12.3 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 12.3 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse otherâ€™s shared appliances on [SUSE Gallery](http://susegallery.com).
+[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 12.3 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 12.3 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse other’s shared appliances on [SUSE Gallery](http://susegallery.com).
 
 
 
@@ -502,10 +502,10 @@ The KDE and GNOME live images are now designed to be written to, booted and inst
 
 
 
-<blockquote>â€ž6 months of open collaboration by our international Free Software community has once again resulted in a awesome product. It is great to see openSUSE again bring a stable but not outdated product to its users.â€</blockquote>
+<blockquote>„6 months of open collaboration by our international Free Software community has once again resulted in a awesome product. It is great to see openSUSE again bring a stable but not outdated product to its users.”</blockquote>
 
 
-_â€“ said Michael Miller, VP of SUSE_
+_– said Michael Miller, VP of SUSE_
 
 
 ## Support and life cycle
@@ -529,10 +529,10 @@ Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Expe
 ## Thanks!
 
 
-12.3 represents the combined effort of thousands of developers who participate in our distributions and projects shipped with it. The contributors, inside and outside the openSUSE Project, should be proud of this release, and they deserve a major **â€œthank youâ€** for all of the hard work and care that have gone into it. We hope that 12.3 is the best openSUSE release yet, and that it will help to encourage the use of Linux everywhere! We hope that you all have a lot of fun while you're using it, and we look forward to working with you on the next release!
+12.3 represents the combined effort of thousands of developers who participate in our distributions and projects shipped with it. The contributors, inside and outside the openSUSE Project, should be proud of this release, and they deserve a major **“thank you”** for all of the hard work and care that have gone into it. We hope that 12.3 is the best openSUSE release yet, and that it will help to encourage the use of Linux everywhere! We hope that you all have a lot of fun while you're using it, and we look forward to working with you on the next release!
 
 
 ## About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the worldâ€™s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)

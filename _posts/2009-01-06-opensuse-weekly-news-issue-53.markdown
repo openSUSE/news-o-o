@@ -12,7 +12,7 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #53 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/53)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * Masim Sugianto: First Hackfest for Indonesian openSUSE Community 
@@ -21,7 +21,7 @@ In this weekâ€™s issue:
 
   * Joe Brockmeier: openSUSE - One of the 10 coolest of 2008 
 
-  * Marek Stopka: Fatrat - Nice download manager in OBSâ€¦ 
+  * Marek Stopka: Fatrat - Nice download manager in OBS… 
 
   * Howto-How to compile the new Kernel 2.6.28? 
 

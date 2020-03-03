@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-KIWI-LTSP team is very happy to announce the new project on [Novell Forge](http://developer.novell.com/wiki/index.php/Developer_Home). The project aims toÂ  combine the Linux Terminal Server and openSUSE KIWI imaging technologies.
+KIWI-LTSP team is very happy to announce the new project on [Novell Forge](http://developer.novell.com/wiki/index.php/Developer_Home). The project aims to  combine the Linux Terminal Server and openSUSE KIWI imaging technologies.
 
 [LTSP](http://www.ltsp.org) offers immense benefit of being able to use obsolete/lower configuration PCs as a diskless thin clients. The thin clients can be put to any use just like normal desktops without even installing any operating system on them, for example, browse the Web, send e-mail, create documents, and run other desktop applications.
 

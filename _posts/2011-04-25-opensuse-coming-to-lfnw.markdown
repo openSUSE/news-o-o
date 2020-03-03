@@ -15,7 +15,7 @@ tags:
 - presentations
 ---
 
-[![LinuxFest Northwest Totem logo](/wp-content/uploads/2011/04/totem350.png)](http://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/totem350-2/)Following in the growing list of appearances we're making worldwide, openSUSE will land in Bellingham, Washington for the LinuxFest Northwest conference ( [LFNW](http://lfnw.org) ) on Saturday, April 30 and Sunday, May 1 at the [Bellingham Technical College](http://www.linuxfestnorthwest.org/information/venue).  We're excited to be joining in the festivities there, along with an exxpected attendance of over 1,000 visitors, running a booth and 3 presentations,Â doing our best to help make the event interesting and successful for everyone.<!-- more -->
+[![LinuxFest Northwest Totem logo](/wp-content/uploads/2011/04/totem350.png)](http://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/totem350-2/)Following in the growing list of appearances we're making worldwide, openSUSE will land in Bellingham, Washington for the LinuxFest Northwest conference ( [LFNW](http://lfnw.org) ) on Saturday, April 30 and Sunday, May 1 at the [Bellingham Technical College](http://www.linuxfestnorthwest.org/information/venue).  We're excited to be joining in the festivities there, along with an exxpected attendance of over 1,000 visitors, running a booth and 3 presentations, doing our best to help make the event interesting and successful for everyone.<!-- more -->
 
 Doing what we do best, you'll find the same great booth you've come to expect at other events.  There, you'll be able to pick up a DVD of [openSUSE 11.4](http://software.opensuse.org/114/en), just released last month amid great reviews.  You'll also be able to show your support for openSUSE and LFNW at the same time by buying an openSUSE [T-shirt](http://en.opensuse.org/File:Black_t-shirt.jpg) for just $5.  Every dollar we make will go directly to supporting the great work of the LFNW crew.  These FOSS events are very important to the community and openSUSE wants to do its part to promote that.
 
@@ -55,7 +55,7 @@ Our very own Kernel Guru Greg KH educates the audience on how they can become a 
 ### Watch us live!
 
 
-Even if you can't make it to LFNW, you can still join in the festivities.Â  Some of our sessions are scheduled to be broadcast live on [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/).Â  Sit back from the comfort of your own home, put up your feet and fire up your browser.
+Even if you can't make it to LFNW, you can still join in the festivities.  Some of our sessions are scheduled to be broadcast live on [Jupiter Broadcasting](http://www.jupiterbroadcasting.com/).  Sit back from the comfort of your own home, put up your feet and fire up your browser.
 
 
 ### So Join us!

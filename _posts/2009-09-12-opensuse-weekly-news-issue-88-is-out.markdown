@@ -17,7 +17,7 @@ tags:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #88 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/88)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -34,7 +34,7 @@ In this weekâ€™s issue:
   * Holger Sickenberg: openSUSE Core Test Team Established
 
 	
-  * KDE.NEWS/Sebastian KÃ¼gler: Third Plasma Summit Lifts KDE Desktop To Higher Grounds
+  * KDE.NEWS/Sebastian Kügler: Third Plasma Summit Lifts KDE Desktop To Higher Grounds
 
 
 For a list of available translations see this page:

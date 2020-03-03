@@ -11,7 +11,7 @@ categories:
 - Infrastructure
 ---
 
-[![Failed geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)](http://en.opensuse.org/openSUSE:Downtime)We had some network problems in our NÃ¼rnberg data center this afternoon and now the site software.opensuse.org is not reachable.
+[![Failed geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)](http://en.opensuse.org/openSUSE:Downtime)We had some network problems in our Nürnberg data center this afternoon and now the site software.opensuse.org is not reachable.
 
 To download the openSUSE 12.2 Milestone 3, go directly to the [download directory](http://download.opensuse.org/distribution/12.2-Milestone3/iso/).
 

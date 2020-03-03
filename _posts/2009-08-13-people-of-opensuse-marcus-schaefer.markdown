@@ -130,7 +130,7 @@ Of course the sax2 is the best known, or better to say the most popular part of 
 #### Please introduce yourself!
 
 
-I was born into a family with a close touch to nature in the Alps region town of Isny at AllgÃ¤u, in the German state of WÃ¼rttemberg. My father Wolfgang SchÃ¤fer is a technician and an example for me from the beginning on. My mother Susanne SchÃ¤fer is a sportswoman, she always encouraged me to keep on running. My parents gave me full freedom in my decisions and so I decided to became an assistent in physics before I studied computer science. Sport is an elementary part of my life. I always find freedom, friends and a balance to business in sports. My favourites are beachvolleyball and cycling. March 26th 2008 is the year I became a father which was the biggest change in my life followed by my marriage with my wonderful wife Daniela in 2007. Our son Florian is as sweet as a boy can be and I'm excited to see our young family growing :-)
+I was born into a family with a close touch to nature in the Alps region town of Isny at Allgäu, in the German state of Württemberg. My father Wolfgang Schäfer is a technician and an example for me from the beginning on. My mother Susanne Schäfer is a sportswoman, she always encouraged me to keep on running. My parents gave me full freedom in my decisions and so I decided to became an assistent in physics before I studied computer science. Sport is an elementary part of my life. I always find freedom, friends and a balance to business in sports. My favourites are beachvolleyball and cycling. March 26th 2008 is the year I became a father which was the biggest change in my life followed by my marriage with my wonderful wife Daniela in 2007. Our son Florian is as sweet as a boy can be and I'm excited to see our young family growing :-)
 
 
 
@@ -140,7 +140,7 @@ I was born into a family with a close touch to nature in the Alps region town of
 #### Tell us about the background to your computer use.
 
 
-I studied computer science at the university of applied sciences in Isny in AllgÃ¤u. The atmsphere there was more like in a family and I had the chance to take part in several admin projects which forms the background of my first real use of a computer.
+I studied computer science at the university of applied sciences in Isny in Allgäu. The atmsphere there was more like in a family and I had the chance to take part in several admin projects which forms the background of my first real use of a computer.
 
 
 
@@ -320,7 +320,7 @@ I would wish to know more about networks, network security and firewalling.
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 Hey there's git, no problem to proceed coding :)
@@ -353,7 +353,7 @@ Star Trek
 #### What is your favorite food and drink?
 
 
-SpÃ¤tzle mit SoÃŸ und dazu a Clemens
+Spätzle mit Soß und dazu a Clemens
 
 
 

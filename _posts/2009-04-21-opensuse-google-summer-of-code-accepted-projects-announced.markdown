@@ -37,7 +37,7 @@ The following students have had projects accepted:
   * Kusum Madarasu: openSIS-MySQL
 
 
-  * Jan-Simon MÃ¶ller: Porting openSUSE to ARM platform
+  * Jan-Simon Möller: Porting openSUSE to ARM platform
 
 
   * Udit Sajjanhar: OpenID Support for openSUSE Build Service

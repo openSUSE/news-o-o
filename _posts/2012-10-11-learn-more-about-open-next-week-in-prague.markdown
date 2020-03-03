@@ -15,7 +15,7 @@ categories:
 ---
 
 ![red futuremedia logo](/wp-content/uploads/2012/10/futuremedia_color.png)
-The [openSUSE Conference 2012](http://bootstrapping-awesome.org) takes place next weekÂ from October 20th to 23rd in Prague, Czech Republic.
+The [openSUSE Conference 2012](http://bootstrapping-awesome.org) takes place next week from October 20th to 23rd in Prague, Czech Republic.
 
 When you first step into the world of Free Software, it isn't always easy: to paraphrase Richard Stallman, we are used to _"trading freedom for convenience"_. Understanding why you are using Free/Libre/OpenSource Software and seeing it at work can be inspiring - you might well find yourself on the path to be a Free/Libre Open Source Software contributor or advocate. Seeing how the principles of FLOSS are applied to things other than software can be equally inspiring and like Free Software, it is a revolution you can contribute to! You'll find this and more inspiration in the [Future Media track](http://bootstrapping-awesome.org/futuremedia) at this year's [conference](http://bootstrapping-awesome.org).
 
@@ -75,7 +75,7 @@ He explained that Guifi.net started when _"several people began cooperating by a
 ## Be there!
 
 
-This year oSC12 will take place at the [Czech Technical University](http://www.cvut.cz/en) in Prague. The campus is located in the DejviceÂ district and is next to an underground station that gets you directly to the old town Â - an opportunity you can't miss!
+This year oSC12 will take place at the [Czech Technical University](http://www.cvut.cz/en) in Prague. The campus is located in the Dejvice district and is next to an underground station that gets you directly to the old town  - an opportunity you can't miss!
 
 As the interviews show, we have an incredible [schedule](http://bootstrapping-awesome.org/schedule/) lined up for you with speakers about a wide variety of topics, both going in-depth into core Linux technologies as well as folks talking about the why and how of Software (and hardware!) Freedom.
 

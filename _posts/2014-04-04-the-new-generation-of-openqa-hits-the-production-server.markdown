@@ -44,4 +44,4 @@ There are even more changes, not directed towards users, but improvements in the
 
 
 
-So go ahead, play with it and if you want to help, sources are on github and we even have some [easy hacks in progress.o.o](https://progress.opensuse.org/projects/openqav3/issues?utf8=âœ“&set_filter=1&f[]=status_id&op[status_id]=o&f[]=fixed_version_id&op[fixed_version_id]=%3D&v[fixed_version_id][]=73) to ease you into the development ;-)
+So go ahead, play with it and if you want to help, sources are on github and we even have some [easy hacks in progress.o.o](https://progress.opensuse.org/projects/openqav3/issues?utf8=✓&set_filter=1&f[]=status_id&op[status_id]=o&f[]=fixed_version_id&op[fixed_version_id]=%3D&v[fixed_version_id][]=73) to ease you into the development ;-)

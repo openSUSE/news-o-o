@@ -52,7 +52,7 @@ The freedom of software and data is very valuable to the openSUSE Project and we
 
 Fortunately there is a very appealing solution for that called ownCloud. This project, started two years ago by Frank Karlitschek as a part of the KDE family (but in no way limited to KDE users), offers a very up-to-date, slim but extendable and standard based cloud web app. Written in PHP and without difficult dependencies it installs on nearly every web space, even the cheapest one.
 
-Just a week ago, Frank [announced the start of ownCloud Inc.](http://blog.karlitschek.de/2011/12/owncloud-inc-and-owncloud-community.html) which "will help _[the ownCloud team]_ to spread ownCloud and free cloud services in general â€“ way more than we could have done without". This will bring additional resources to ownCloud development, making it the most promising Free Software solution for protecting your Freedom in the cloud!
+Just a week ago, Frank [announced the start of ownCloud Inc.](http://blog.karlitschek.de/2011/12/owncloud-inc-and-owncloud-community.html) which "will help _[the ownCloud team]_ to spread ownCloud and free cloud services in general – way more than we could have done without". This will bring additional resources to ownCloud development, making it the most promising Free Software solution for protecting your Freedom in the cloud!
 
 
 ### Vision of Integration between openSUSE and ownCloud
@@ -112,7 +112,7 @@ If new files are added on the ownCloud, mirall disables the Express Upload Folde
 
 This means you have to be a bit careful with using mirall on several computers at once and it is currently not suitable for working collaboratively. Changes could be overwritten or lost if there are changes in both the cloud and your local system!
 
-Taking this into consideration, mirall already solves a lot of the "where are my files" problems people have when they move from universityâ†’homeâ†’boyfriend and back.
+Taking this into consideration, mirall already solves a lot of the "where are my files" problems people have when they move from university→home→boyfriend and back.
 
 
 ## Getting ownCloud and mirall

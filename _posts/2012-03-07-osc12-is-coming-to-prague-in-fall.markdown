@@ -12,7 +12,7 @@ categories:
 - Conference
 ---
 
-The openSUSE Conference (**oSC**) is the yearly get-together of Â our community to give its people a chance to meet face to face, talk to and inspire each other. Being together in one room, even in this day and age, beats every other collaboration method and is what forges cohesion and friendships. That is why the openSUSE Project tries to get together this conference every year for its contributors. But not only for them, the conference is also for anyone using, working with or taking advantage of the project. No matter if you use our technology, if you are one of our many friends from free and open source upstream projects or if you contribute to another GNU/Linux distribution this conference is for you.
+The openSUSE Conference (**oSC**) is the yearly get-together of  our community to give its people a chance to meet face to face, talk to and inspire each other. Being together in one room, even in this day and age, beats every other collaboration method and is what forges cohesion and friendships. That is why the openSUSE Project tries to get together this conference every year for its contributors. But not only for them, the conference is also for anyone using, working with or taking advantage of the project. No matter if you use our technology, if you are one of our many friends from free and open source upstream projects or if you contribute to another GNU/Linux distribution this conference is for you.
 
 <!-- more -->
 
@@ -22,7 +22,7 @@ The openSUSE Conference (**oSC**) is the yearly get-together of Â our communit
 
 
 [![Boat Traffic Under the Prague Castle at Dusk ~ Prague, Czech Republic](http://farm2.staticflickr.com/1285/4681832979_f3f83a5572_z.jpg)](http://www.flickr.com/photos/msojka/4681832979/)
-After three years of oSC in Nuremberg we are excited to host this years conference in [Prague](http://www.praguewelcome.cz/en/), _"the city of a hundred spires"_. Prague, which is regularly voted among the ten most beautiful cities in Europe, is the capital and with more than 1.2 million inhabitants the largest city in the Czech Republic. The exact location and date isn't set yet but the fourth installment of oSCÂ will not take place in September as usual, but rather at the turn of October and November, because of the precedingÂ [SUSECon](http://www.suse.com/events/susecon/) and [the openSUSE Summit](http://en.opensuse.org/Portal:Summit).
+After three years of oSC in Nuremberg we are excited to host this years conference in [Prague](http://www.praguewelcome.cz/en/), _"the city of a hundred spires"_. Prague, which is regularly voted among the ten most beautiful cities in Europe, is the capital and with more than 1.2 million inhabitants the largest city in the Czech Republic. The exact location and date isn't set yet but the fourth installment of oSC will not take place in September as usual, but rather at the turn of October and November, because of the preceding [SUSECon](http://www.suse.com/events/susecon/) and [the openSUSE Summit](http://en.opensuse.org/Portal:Summit).
 
   
 

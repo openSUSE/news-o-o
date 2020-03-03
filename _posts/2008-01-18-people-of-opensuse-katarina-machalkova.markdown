@@ -318,7 +318,7 @@ Better analytical and logical thinking, ability to 'see' the solution and all it
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Honestly, I would be pretty happy. With no websites, RSS feeds, chats and e-mails to distract me, I could finally enjoy going outdoors, shopping in normal shops (instead of online), reading real newspapers and books, talking to people directly ... After a week, I would probably start to miss the Internet again :)
@@ -392,7 +392,7 @@ Going trekking somewhere to the mountains, with big backpack and camera.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 I would (after traveling around the world) buy shares of certain company I don't want to name ;-)
@@ -402,7 +402,7 @@ I would (after traveling around the world) buy shares of certain company I don't
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 In 'Roaring Twenties' , the jazz age. After that time, the real gentlemen started to slowly die out :-)
@@ -412,7 +412,7 @@ In 'Roaring Twenties' , the jazz age. After that time, the real gentlemen starte
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No, I have a laptop.

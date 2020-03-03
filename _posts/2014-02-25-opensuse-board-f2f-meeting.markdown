@@ -18,19 +18,19 @@ Please read carefully and see how it was productive.
 
 _**[http://en.opensuse.org/openSUSE:Board_meeting#Face_to_Face_Meeting_2014-02-07.2C08.2C09](http://en.opensuse.org/openSUSE:Board_meeting#Face_to_Face_Meeting_2014-02-07.2C08.2C09)**_
 
-_****_Thanks to SUSE for hosting the meeting and thanks to those meeting withÂ the board over the weekend for taking the time.
+_****_Thanks to SUSE for hosting the meeting and thanks to those meeting with the board over the weekend for taking the time.
 
 [![Meet_The_Board](/wp-content/uploads/2014/02/Meet_The_Board.jpg)](/wp-content/uploads/2014/02/Meet_The_Board.jpg)
-There are plenty of opportunities to help the project. The booth boxesÂ are right around the corner and with this a reboot of the advocate andÂ local coordinator effort.
+There are plenty of opportunities to help the project. The booth boxes are right around the corner and with this a reboot of the advocate and local coordinator effort.
 
-We have also reach agreement to re-instate the reimbursement of locallyÂ produced materials. We'll create some guidelines and a new team needs toÂ be formed. We hope that with some modification to the TSP app bothÂ reimbursement streams can be handled in a similar way.
-
-
+We have also reach agreement to re-instate the reimbursement of locally produced materials. We'll create some guidelines and a new team needs to be formed. We hope that with some modification to the TSP app both reimbursement streams can be handled in a similar way.
 
 
-We all feel we got a lot of stuff sorted out and ready to roll. AsÂ always if you have questions or concerns please feel free to send aÂ message to _board at o.o_
 
-Another good reference can be find here Â [_**http://andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html**_](http://andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html)
+
+We all feel we got a lot of stuff sorted out and ready to roll. As always if you have questions or concerns please feel free to send a message to _board at o.o_
+
+Another good reference can be find here  [_**http://andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html**_](http://andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html)
 
 Have a great week!
 

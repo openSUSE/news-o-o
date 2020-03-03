@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-It's that time of the year again - [FLISOL](http://en.wikipedia.org/wiki/FLISOL), the _"Festival Latinoamericano de InstalaciÃ³n de Software Libre"_ (Latin American free software install fest) will start in about 6 weeks! If you live in Latin America, you can join one of the hundreds of install fests happening all over the continent on April 28th. And if there is nothing close by, there is no reason you can't organize it yourself...<!-- more -->
+It's that time of the year again - [FLISOL](http://en.wikipedia.org/wiki/FLISOL), the _"Festival Latinoamericano de Instalación de Software Libre"_ (Latin American free software install fest) will start in about 6 weeks! If you live in Latin America, you can join one of the hundreds of install fests happening all over the continent on April 28th. And if there is nothing close by, there is no reason you can't organize it yourself...<!-- more -->
 
 [![Talk at FLISOL 2011, Porto Alegre](/wp-content/uploads/2012/03/img_0019.jpg)](https://plus.google.com/photos/116640074920153228767/albums/5594479723154405345/5594479773792078082?banner=pwa https://plus.google.com/photos/116640074920153228767/albums/5594479723154405345/5594479773792078082?banner=pwa )
 Luiz Augusto Machado, openSUSE ambassador from Brazil, invited all Ambassadors and anyone else interested in openSUSE in Latin America to participate and support openSUSE at FLISOL 2012. This is _the_ event to teach anyone interested in Software Libre about the cool things the world wide community around Linux and other open projects has done.

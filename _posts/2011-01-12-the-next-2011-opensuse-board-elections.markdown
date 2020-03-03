@@ -35,7 +35,7 @@ This time we have seven contributors and prominent candidates with different exp
 
 
 	
-  * Sebastian â€œsebasâ€KÃ¼gler, open-slx user experience expert (blog)  Platform
+  * Sebastian “sebas”Kügler, open-slx user experience expert (blog)  Platform
 
 
 

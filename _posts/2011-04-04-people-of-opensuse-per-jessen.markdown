@@ -93,7 +93,7 @@ I report bugs, I test the alphas and betas, occasionally I submit patches, I par
 Nothing in particular. I'm just being loyal to my favourite distro.
 
 
-#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that youâ€™re most proud of?
+#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you’re most proud of?
 
 
 I was quite pleased with myself when I succeeded in upgrading nasm (mostly to incorporate a patch I had submitted to the nasm-project a year ago), but it's hardly an important contribution.
@@ -108,7 +108,7 @@ It varies, mostly during the week.
 #### Three words to describe openSUSE? Or make up a proper slogan!
 
 
-â€žThe green stuff!â€œ
+„The green stuff!“
 
 
 #### What do you think is missing or underrated in the distribution or the project?
@@ -126,7 +126,7 @@ No idea.
 #### A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?
 
 
-If someone asks me, it's because they value my advice â€“ I hope that is enough to convince him or her.
+If someone asks me, it's because they value my advice – I hope that is enough to convince him or her.
 
 
 #### Which members of the openSUSE community have you met in person?
@@ -141,10 +141,10 @@ None (as far as I know).
 I don't know, I don't really use my desktop much. I have about 35-36 open windows.
 
 
-#### What is the application you canâ€™t live without? And why?
+#### What is the application you can’t live without? And why?
 
 
-Openoffice â€“ because I do everything in openoffice. Asterisk - because it runs my office and home telephone system.
+Openoffice – because I do everything in openoffice. Asterisk - because it runs my office and home telephone system.
 
 
 #### Which application or feature should be invented as soon as possible?
@@ -171,7 +171,7 @@ No-one.
 I could probably do with acquiring some better perl skills, but it's not a language I really like working with.
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Relax. 
@@ -180,7 +180,7 @@ Relax.
 #### Which is your favorite movie scene?
 
 
-From the Australian movie â€žThe Dishâ€œ when the local band plays the title-music from â€žHawaii Five-Oâ€œ thinking it is the American national anthem. 
+From the Australian movie „The Dish“ when the local band plays the title-music from „Hawaii Five-O“ thinking it is the American national anthem. 
 
 
 #### Star Trek or Star Wars?
@@ -192,7 +192,7 @@ I like both actually.
 #### What is your favorite food and drink?
 
 
-KÃ¤sespÃ¤tzle mit RÃ¶stzwiebel. Ittinger KlosterbrÃ¤u. Erdinger Dunkelweiss.
+Käsespätzle mit Röstzwiebel. Ittinger Klosterbräu. Erdinger Dunkelweiss.
 
 
 #### Favorite game or console (in your childhood and nowadays)?
@@ -213,19 +213,19 @@ I've been to many of the world's big cities, but I've never been to China, so pe
 On the beach, in Greece or in Denmark.
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Buy a Ferrari.
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
-I'd like to jump to somewhere 50-100 years from now â€“ I'd like to see what the historians of the (near) future think of our world and our actions today.
+I'd like to jump to somewhere 50-100 years from now – I'd like to see what the historians of the (near) future think of our world and our actions today.
 
 
-#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
+#### There’s a thunderstorm outside — do you turn off your computer?
 
 
 No.
@@ -240,10 +240,10 @@ Yes.
 #### Show us a picture of something, you have always wanted to share!
 
 
-This is â€žTigerâ€œ, our wild cat taking a nap amongst the raspberries in the very early spring sun.
+This is „Tiger“, our wild cat taking a nap amongst the raspberries in the very early spring sun.
 
 
-#### You couldnâ€™t live withoutâ€¦
+#### You couldn’t live without…
 
 
 My family.

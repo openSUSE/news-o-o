@@ -37,7 +37,7 @@ The acronym ENOS stands for '_Encontro Nacional de openSUSE_', a Portuguese expr
 This year we will have special guests giving some talks:
 
 
-  * **Carlos GonÃ§alves** (openSUSE member) bringing up the openSUSE 11.0 news.
+  * **Carlos Gonçalves** (openSUSE member) bringing up the openSUSE 11.0 news.
 
 
   * **Ricardo Cruz** (YaST-GTK maintainer) will introduce us YaST and how easily is to create a module for it. PackageKit and libzypp will be be introduced.

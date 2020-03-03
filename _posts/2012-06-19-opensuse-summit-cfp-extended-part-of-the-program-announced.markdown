@@ -54,7 +54,7 @@ Currently, we already have a number of sessions planned. Of course, there'll be 
     * **the openSUSE Deployment Panel** where visitors can ask questions from a panel of experts who are overseeing some larger openSUSE deployments (featuring, among others, a city in Florida and a VOIP company)
 
 	
-    * The Friday-nigh Poolsidet Party - will happen at the pool and thus be in a summery atmosphere.Â  Both SUSECon and openSUSE Summit attendees areÂ  invited to this fun (and yes..free!) event.
+    * The Friday-nigh Poolsidet Party - will happen at the pool and thus be in a summery atmosphere.  Both SUSECon and openSUSE Summit attendees are  invited to this fun (and yes..free!) event.
 
 
 
@@ -63,7 +63,7 @@ Currently, we already have a number of sessions planned. Of course, there'll be 
 ## In other news...
 
 
-For the first fifty people who [register to attend,](http://summit.opensuse.org/Register/) we promise a gift. Well, one of the pictures in this article will give you a hint as to what you can expect.Â Â  But that's not all.Â  While the Summit is free, we also offer a Supporter registration for a mere $50.Â  Show your support for openSUSE and get an exclusive gift.
+For the first fifty people who [register to attend,](http://summit.opensuse.org/Register/) we promise a gift. Well, one of the pictures in this article will give you a hint as to what you can expect.   But that's not all.  While the Summit is free, we also offer a Supporter registration for a mere $50.  Show your support for openSUSE and get an exclusive gift.
 
 And again, for those who register in time, you will gain free admission to the last day of SUSECon on September 21.
 
@@ -75,4 +75,4 @@ Note that the travel team follows priorities when deciding in case of a tight bu
 ## But that's not all!
 
 
-And if that's not enough to whet your appetite, there's more news coming soon!Â  We'll be announcing our keynote speaker and our plans for the big Saturday night gala.
+And if that's not enough to whet your appetite, there's more news coming soon!  We'll be announcing our keynote speaker and our plans for the big Saturday night gala.

@@ -16,7 +16,7 @@ tags:
 - linuxtag
 ---
 
-Again this year, same procedure as every year, the **openSUSE Project is attending the [LinuxTag in Berlin](http://www.linuxtag.org/)** with more than 30 members, a booth, several talks in the  program and workshops. LinuxTag has been held regularly for 15 years, which is longer than any other   Linux fair in Europe. More than 200 free software projects and companies   participate and it   attracts nearly 12,000 visitors. The 17th LinuxTagÂ presentsÂ all the latest for professional  users, decision makers, developers, beginners and the Linux community â€” **May 11 to 14 at the Berlin Fairgrounds**.
+Again this year, same procedure as every year, the **openSUSE Project is attending the [LinuxTag in Berlin](http://www.linuxtag.org/)** with more than 30 members, a booth, several talks in the  program and workshops. LinuxTag has been held regularly for 15 years, which is longer than any other   Linux fair in Europe. More than 200 free software projects and companies   participate and it   attracts nearly 12,000 visitors. The 17th LinuxTag presents all the latest for professional  users, decision makers, developers, beginners and the Linux community — **May 11 to 14 at the Berlin Fairgrounds**.
 
 [![](/wp-content/uploads/2011/05/LinuxTag-Logo-plain-blue.jpg)](http://www.linuxtag.org)<!-- more -->
 

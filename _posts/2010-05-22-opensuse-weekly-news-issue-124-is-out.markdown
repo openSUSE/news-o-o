@@ -418,7 +418,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 124.
 <td style="color: #ffffff; text-align: center; vertical-align: top; width: 36px;" >[![](http://wiki.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](http://wiki.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
 </td>
 
-<td style="margin: 0pt;" > Welcome to issue # 124 of [openSUSE Weekly News](http://wiki.opensuse.org/openSUSE:Weekly_News). Now the twentieth Week goes to the End, and we are pleased to announce our new issue.  One of the important things in this week was the Milestone 7 release from 11.3. IÂ´ve just tried it out, and it is very good. If you have some Space on your HD and you would like to test, it would be great. You can make a full Installation or you test it via VirtualBox. If you find a Bug, you can report it to bugzilla.opensuse.org. Through that you can help us to make OUR Distribution better.  So we're hoping, that you like the new Weekly News. We wish you many joy by reading it... 
+<td style="margin: 0pt;" > Welcome to issue # 124 of [openSUSE Weekly News](http://wiki.opensuse.org/openSUSE:Weekly_News). Now the twentieth Week goes to the End, and we are pleased to announce our new issue.  One of the important things in this week was the Milestone 7 release from 11.3. I´ve just tried it out, and it is very good. If you have some Space on your HD and you would like to test, it would be great. You can make a full Installation or you test it via VirtualBox. If you find a Bug, you can report it to bugzilla.opensuse.org. Through that you can help us to make OUR Distribution better.  So we're hoping, that you like the new Weekly News. We wish you many joy by reading it... 
 </td>
 </tr>
 </tbody>
@@ -457,7 +457,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 124.
 ####  [**openSUSE News: openSUSE Strategy Meeting**](http://news.opensuse.org/2010/05/20/opensuse-strategy-meeting/)
 
 
-"For the past few months we, the openSUSE Board, together with the great help from Kurt Garloff, Jan Weber and Andreas Jaeger, held a series of strategy sessions to address the future of openSUSE. We discussed the role of openSUSE as a community and project and looked at data from a variety of sources, including the recent openSUSE 2010 Survey to identify and build a strategy of strength and empowerment within our community, with a goal of establishing a common unified ground for answering the question to ourselves and to the worldâ€¦ â€œWhy openSUSE?â€ and openSUSEâ€™s role in the operating system market, both today and in the future.  After much discussion, weâ€™re finally ready to bring together these important bits of information into a cohesive statement that everyone can unify around. As such, we, the members of the Strategy Team, will be meeting in Nuremberg the weekend of May 28th to formalize a draft of our strategy that will be available publicly for open discussion and comment."  
+"For the past few months we, the openSUSE Board, together with the great help from Kurt Garloff, Jan Weber and Andreas Jaeger, held a series of strategy sessions to address the future of openSUSE. We discussed the role of openSUSE as a community and project and looked at data from a variety of sources, including the recent openSUSE 2010 Survey to identify and build a strategy of strength and empowerment within our community, with a goal of establishing a common unified ground for answering the question to ourselves and to the world… “Why openSUSE?” and openSUSE’s role in the operating system market, both today and in the future.  After much discussion, we’re finally ready to bring together these important bits of information into a cohesive statement that everyone can unify around. As such, we, the members of the Strategy Team, will be meeting in Nuremberg the weekend of May 28th to formalize a draft of our strategy that will be available publicly for open discussion and comment."  
 
 
 ####  [**Pascal Bleser: How to add the openSUSE 11.3 counter to your site**](http://dev-loki.blogspot.com/2010/05/how-to-add-opensuse-113-counter-to-your.html)
@@ -508,7 +508,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 124.
 ####  [**Javier Llorente: apache2-icons-oxygen is now in Factory**](http://lizards.opensuse.org/2010/05/20/apache2-icons-oxygen-is-now-in-factory/)
 
 
-"For those who donâ€™t know it yet, apache2-icons-oxygen is now in Factory :) Go to www.javierllorente.com/tmp/ to see it in action. If you want to try it out, take a look at README.SuSE included in the rpm package: ..."  
+"For those who don’t know it yet, apache2-icons-oxygen is now in Factory :) Go to www.javierllorente.com/tmp/ to see it in action. If you want to try it out, take a look at README.SuSE included in the rpm package: ..."  
 
 
 ####  Bugzilla
@@ -540,7 +540,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 556 (-9) 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) â€“ [Bug Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) – [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) – [Bug Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
 
 
 
@@ -783,7 +783,7 @@ The Build Service now hosts 12820 (+131) projects, 93757 (+228) packages, 22410 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 
@@ -883,7 +883,7 @@ Upcoming:
   * [** May 26, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/03/09/german-wiki-team-meeting/)
 
 	
-  * [** May 27, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** May 27, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 	
   * [** May 29, 2010: openSUSE Weekly News Team Meeting**](http://news.opensuse.org/2010/04/23/opensuse-weekly-news-team-meeting-4/)
@@ -908,7 +908,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 	
-  * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
+  * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
 
 
 
@@ -999,7 +999,7 @@ The openSUSE Forums have 45895 (+212) registered users - Most users ever online 
 ####  [Petr Mladek: OpenOffice_org 3.2.1 rc1 available for openSUSE](http://lizards.opensuse.org/2010/05/17/openoffice_org-3_2_1_1/)
 
 
-"Iâ€™m happy to announce OpenOffice.org 3.2.1 rc1packages for openSUSE. They are available in the Build Service [OpenOffice:org:UNSTABLE](http://en.opensuse.org/Additional_YaST_Package_Repositories#OpenOffice.org_UNSTABLE) project, are based on the [upstream](http://development.openoffice.org/releases/3.2.1rc1.html) 3.2.1-rc1 sources and include many [Go-oo](http://cgit.freedesktop.org/ooo-build/ooo-build/plain/NEWS?id=OOO_BUILD_3_2_1_1) fixes and improvements. Please, look for more details about the openSUSE OOo build on the [wiki page](http://en.opensuse.org/OpenOffice.org).  The packages are release candidates and have not passed full QA cycle yet. They might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, â€¦  As usual, we kindly ask any interested beta testers to try the package and [report bugs](http://en.opensuse.org/OpenOffice.org#Reporting_Bugs). See also the list of [known bugs](https://bugzilla.novell.com/buglist.cgi?classification=OpenOffice.org&query_format=advanced&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED)."  
+"I’m happy to announce OpenOffice.org 3.2.1 rc1packages for openSUSE. They are available in the Build Service [OpenOffice:org:UNSTABLE](http://en.opensuse.org/Additional_YaST_Package_Repositories#OpenOffice.org_UNSTABLE) project, are based on the [upstream](http://development.openoffice.org/releases/3.2.1rc1.html) 3.2.1-rc1 sources and include many [Go-oo](http://cgit.freedesktop.org/ooo-build/ooo-build/plain/NEWS?id=OOO_BUILD_3_2_1_1) fixes and improvements. Please, look for more details about the openSUSE OOo build on the [wiki page](http://en.opensuse.org/OpenOffice.org).  The packages are release candidates and have not passed full QA cycle yet. They might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, …  As usual, we kindly ask any interested beta testers to try the package and [report bugs](http://en.opensuse.org/OpenOffice.org#Reporting_Bugs). See also the list of [known bugs](https://bugzilla.novell.com/buglist.cgi?classification=OpenOffice.org&query_format=advanced&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED)."  
 
 
 ####  [Miro 3.0.1-1.pm.1.7 (openSUSE 11.2/x86_64)](http://packman.links2linux.org/package/Miro)
@@ -1017,7 +1017,7 @@ The openSUSE Forums have 45895 (+212) registered users - Most users ever online 
   * You can find other interesting Packages at: 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1382,7 +1382,7 @@ When I'm in screen and I need another shell in the same directory (e.g. because 
 ####  [Tom Albers: Akonadi Meeting Day 3: Productivity is amazing..](http://www.omat.nl/2010/05/16/akonadi-meeting-day-3-productivity-is-amazing/)
 
 
-"Day 2 ended with a little bit of pleasure. It all started when Matthew was trying to input some text to his laptop in a way where he treated his laptop more like an old fashioned typewriter. Making a lot of noise and finally banging his fists on the table out of frustration. Thomas then asked on a very interested and calm tone â€˜So, did it work out?â€™. After that we used the beamer to look at all the Knut Yrvin YouTube movies and of course we replayed the Qt4 dance while we were there. We decided that it was not as much fun as going to the karaoke bar with Aaron, but it came pretty close :)"  
+"Day 2 ended with a little bit of pleasure. It all started when Matthew was trying to input some text to his laptop in a way where he treated his laptop more like an old fashioned typewriter. Making a lot of noise and finally banging his fists on the table out of frustration. Thomas then asked on a very interested and calm tone ‘So, did it work out?’. After that we used the beamer to look at all the Knut Yrvin YouTube movies and of course we replayed the Qt4 dance while we were there. We decided that it was not as much fun as going to the karaoke bar with Aaron, but it came pretty close :)"  
 
 
 ####  [InfoWorld/Paul Krill: Suse Linux gets virtualization, high availability, and desktop boosts](http://www.infoworld.com/d/open-source/suse-linux-gets-virtualization-high-availability-and-desktop-boosts-323?source=footer)
@@ -1406,7 +1406,7 @@ When I'm in screen and I need another shell in the same directory (e.g. because 
 ####  [It runs on Linux: Google TV Platform introduced](http://www.itrunsonlinux.com/news/174-google-tv-platform-introduced)
 
 
-"At the Google I/O developer conference in San Francisco (USA), several leading industry players announced the development of Google TV â€“ an open platform that merges the web and TV. It will be based on the Linux based Android platform and runs the Google Chrome web browser.  Intel, Sony, and Logitech, together with Best Buy, DISH Network and Adobe, joined Google to announce their support for Google TV.  Here's an extract of the recent [press release](http://www.google.com/intl/en/press/pressrel/20100520_googletv.html)"  
+"At the Google I/O developer conference in San Francisco (USA), several leading industry players announced the development of Google TV – an open platform that merges the web and TV. It will be based on the Linux based Android platform and runs the Google Chrome web browser.  Intel, Sony, and Logitech, together with Best Buy, DISH Network and Adobe, joined Google to announce their support for Google TV.  Here's an extract of the recent [press release](http://www.google.com/intl/en/press/pressrel/20100520_googletv.html)"  
 
 
 ###  Reviews and Essays
@@ -1418,13 +1418,13 @@ When I'm in screen and I need another shell in the same directory (e.g. because 
 ####  [ghacks/Jack Wallen: What IS Linux (and what it should be)?](http://www.ghacks.net/2010/05/16/what-is-linux-and-what-it-should-be/)
 
 
-"I do a lot of writing about Linux â€“ for Ghacks and for other sites. One of the issues I come across often is how Linux is perceived and what it needs to do to continue to grow. Itâ€™s a very complex issue based on a lot of pre-determined opinions and deeply embedded history. Often I reach out and try to bring to light issues that can serve to push Linux into new territory and light. Itâ€™s not often that I do so on this site, but sometimes I find it necessary to pull out my soap box and attempt to bring a little enlightenment to the masses."  
+"I do a lot of writing about Linux – for Ghacks and for other sites. One of the issues I come across often is how Linux is perceived and what it needs to do to continue to grow. It’s a very complex issue based on a lot of pre-determined opinions and deeply embedded history. Often I reach out and try to bring to light issues that can serve to push Linux into new territory and light. It’s not often that I do so on this site, but sometimes I find it necessary to pull out my soap box and attempt to bring a little enlightenment to the masses."  
 
 
 ####  [25 Fresh and Cool Linux Wallpapers](http://www.junauza.com/2010/05/25-fresh-and-cool-linux-wallpapers.html)
 
 
-"It's been a long time since we've featured here some cool Linux wallpapers.(...)  Hence I feel that it's about time to have another list of fresh and cool Linux wallpapers to customize your desktop. Most of the wallpapers that Iâ€™m about to show to you are new and may have never been seen before by most of you, so enjoy and feel free to download some of those that you like: ..."  
+"It's been a long time since we've featured here some cool Linux wallpapers.(...)  Hence I feel that it's about time to have another list of fresh and cool Linux wallpapers to customize your desktop. Most of the wallpapers that I’m about to show to you are new and may have never been seen before by most of you, so enjoy and feel free to download some of those that you like: ..."  
 
 
 ####  [nixCraft/Vivek Gite: The Novice Guide To Buying A Linux Laptop](http://www.cyberciti.biz/tips/linux-laptop.html)
@@ -1526,7 +1526,7 @@ Sascha Manns (Editor in Chief)
   * [Dl9pf](http://wiki.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Dl9pf)
 
 
-Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter)
+Jan-Simon Möller (Second Editor in Chief, Main-Newsletter)
 
 
 
@@ -1536,7 +1536,7 @@ Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter)
   * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301)
 
 
-Sebastian SchÃ¶binger (Tips/Tricks)
+Sebastian Schöbinger (Tips/Tricks)
 
 
 
@@ -1566,7 +1566,7 @@ Carl Fletcher (Main-Newsletter, Forums Sec.)
   * [Okuro](http://wiki.opensuse.org/index.php?title=User:Okuro&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro)
 
 
-Thomas HofstÃ¤tter (Events & Meetings)
+Thomas Hofstätter (Events & Meetings)
 
 
 
@@ -1608,7 +1608,7 @@ Thomas HofstÃ¤tter (Events & Meetings)
 
 
 
-[English](http://en.opensuse.org/OpenSUSE_Weekly_News/124) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/124) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/124) [æ—¥ æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/124) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/124) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/124) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/124) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/124/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/124) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/124) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/124/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/124) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/124) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/124/swedish) [ÄeÅ¡tina](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/124)
+[English](http://en.opensuse.org/OpenSUSE_Weekly_News/124) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/124) [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/124) [日 本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/124) [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/124) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/124) [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/124) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/124/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/124) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/124) [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/124/chinese) [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/124) [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/124) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/124/swedish) [Íeština](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/124)
 </td>
 </tr>
 </tbody>

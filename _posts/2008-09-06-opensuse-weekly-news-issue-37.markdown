@@ -12,7 +12,7 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #37 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/37)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -29,7 +29,7 @@ In this weekâ€™s issue:
   * Hackweek review 
 
         
-  * Jigish Gohil: Spin openSUSE Live CD or USB stick image â€œeasilyâ€ 
+  * Jigish Gohil: Spin openSUSE Live CD or USB stick image “easily” 
 
         
   * Stephan Binner: New KDE Four Live-CDs 

@@ -5,7 +5,7 @@ date: 2010-09-28 12:35:19+00:00
 layout: post
 link: https://news.opensuse.org/2010/09/28/osc2010-sneak-peaks-take-an-lpi-exam-at-opensuse-conference-2010/
 slug: osc2010-sneak-peaks-take-an-lpi-exam-at-opensuse-conference-2010
-title: OSC2010 Sneak Peaks â€“ Take an LPI exam at openSUSE Conference 2010
+title: OSC2010 Sneak Peaks – Take an LPI exam at openSUSE Conference 2010
 wordpress_id: 4839
 categories:
 - Conference
@@ -27,14 +27,14 @@ categories:
   * LPIC-3 (301, 302, 303, 304) - English only
 
 	
-  * Univention Certified Professional PrÃ¼fung (LPI 198) - German only
+  * Univention Certified Professional Prüfung (LPI 198) - German only
 
 
 
 
 
 
-For further information and registration please visit ourÂ [LPI page](http://opensuse.org/openSUSE:Conference_LPI).
+For further information and registration please visit our [LPI page](http://opensuse.org/openSUSE:Conference_LPI).
 
 
 
@@ -43,14 +43,14 @@ For further information and registration please visit ourÂ [LPI page](http://o
 
 
 
-Dank der UnterstÃ¼tzung des Linux Professional Institute (LPI) kÃ¶nnen wir auf der diesjÃ¤hrigen openSUSE Konferenz 2010 verschiedene der bekannten und nÃ¼tzlichen LPI PrÃ¼fungen anbieten. PrÃ¼fungstag ist Samstag 23. Oktober von 9 bis 11 Uhr.
+Dank der Unterstützung des Linux Professional Institute (LPI) können wir auf der diesjährigen openSUSE Konferenz 2010 verschiedene der bekannten und nützlichen LPI Prüfungen anbieten. Prüfungstag ist Samstag 23. Oktober von 9 bis 11 Uhr.
 
 
 
 
 
 
-#### MÃ¶gliche Examen:
+#### Mögliche Examen:
 
 
 
@@ -66,7 +66,7 @@ Dank der UnterstÃ¼tzung des Linux Professional Institute (LPI) kÃ¶nnen wir a
   * LPIC-3 (301, 302, 303, 304) - auf Englisch
 
 	
-  * Univention Certified Professional PrÃ¼fung (LPI 198) - auf Deutsch
+  * Univention Certified Professional Prüfung (LPI 198) - auf Deutsch
 
 
 

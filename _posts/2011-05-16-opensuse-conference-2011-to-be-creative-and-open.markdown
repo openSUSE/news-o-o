@@ -37,7 +37,7 @@ We expect about 500 visitors this year and hence had to find a new location. A p
 
 Last year, the conference had the motto ['Collaboration Across Borders'](http://news.opensuse.org/?p=5223) and brought together an international crowd from many communities in one place. This year we'll be shifting our attention a bit deeper, aiming for hands-on discussions to get work done. Smaller, more focused meetings with a strong "read-write" attitude are at the core of the openSUSE Conference 2011.
 
-Hence the subtitle of **rwxÂ³**, commonly known as the UNIX acronym for "Read, Write, Execute" - three times, for you, your community and the rest of the world!
+Hence the subtitle of **rwx³**, commonly known as the UNIX acronym for "Read, Write, Execute" - three times, for you, your community and the rest of the world!
 
 Does that make sense to you? If so, join us and submit your proposal on what you want to do on the conference. Focus on activity, try to engage the people into your idea, pull the ideas out of them, make them get their hands dirty and their brains droopy.
 

@@ -153,7 +153,7 @@ As you might have seen in the [openSUSE team blog about Factory development](htt
   9. Andreas Stieger
 
 	
-  10. Cristian RodrÃ­guez
+  10. Cristian Rodríguez
 
 	
   11. Tobias Klausmann
@@ -171,19 +171,19 @@ As you might have seen in the [openSUSE team blog about Factory development](htt
   15. Vincent Untz
 
 	
-  16. BjÃ¸rn Lie
+  16. Bjørn Lie
 
 	
-  17. TomÃ¡Å¡ ChvÃ¡tal, Togan Muftuoglu, Dmitriy Perlow & Ciaran Farrell
+  17. Tomáš Chvátal, Togan Muftuoglu, Dmitriy Perlow & Ciaran Farrell
 
 	
   18. Wolfgang Rosenauer & Joop Boonen
 
 	
-  19. Michal Vyskocil & Matthias MailÃ¤nder
+  19. Michal Vyskocil & Matthias Mailänder
 
 	
-  20. Tomas Cech, Johannes Weberhofer, Hrvoje Senjan & Andreas FÃ¤rber
+  20. Tomas Cech, Johannes Weberhofer, Hrvoje Senjan & Andreas Färber
 
 
 
@@ -197,4 +197,4 @@ Remember, we will soon have [the openSUSE Conference in Greece](http://conferenc
 
 According to [the road map](http://lists.opensuse.org/opensuse-factory/2013-05/msg00204.html),  The next milestone is expected for the 11th of July, followed by new ones each month. Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.
 
-_Pool ball graphic courtesy of Victorhck â€“ openSUSE Artwork Team member_
+_Pool ball graphic courtesy of Victorhck – openSUSE Artwork Team member_

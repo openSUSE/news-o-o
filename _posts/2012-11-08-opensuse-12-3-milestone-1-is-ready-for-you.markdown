@@ -19,7 +19,7 @@ News fresh from the Factory: the openSUSE Release team has made the openSUSE 12.
 ## Updated infrastructure
 
 
-With Milestone One of openSUSE 12.3, things start getting interesting.Â For starters, the init system continues to evolve rapidly. Sysvinit has now been removed, following some discussion. Given complete dominion over the boot procedure and device management, systemd has swallowed udev and udisks whole, and the result is systemd _v195_, up from _v44_!. This offers the following features:
+With Milestone One of openSUSE 12.3, things start getting interesting. For starters, the init system continues to evolve rapidly. Sysvinit has now been removed, following some discussion. Given complete dominion over the boot procedure and device management, systemd has swallowed udev and udisks whole, and the result is systemd _v195_, up from _v44_!. This offers the following features:
 
 
 
@@ -51,7 +51,7 @@ Discussions about Dracut vs the custom mkinitrd scripts are ongoing. Currently, 
 ### SuSEconfig
 
 
-Another piece of long-time S.u.S.E., SuSE, SUSE and openSUSE infrastructure to be demolished for 12.3 is SuSEconfig, probably the most annoying command to enter manually. SuSEconfig was created to replace _/etc/rc.config_ and the often-criticizedÂ direct modification of config files by YaST, as a modular host for configuration scripts to apply system-wide changes after installing or removing groups of packages - for example, rebuilding the font database, applying policy stored in a standard format in _/etc/sysconfig_ to the actual config files, or migrating gconf schemas after a version update. Performing these actions once after installing a group of packages reduced installation time. With the trend to performing these actions in post-install/post-uninstall specfile stanzas, or via rpm triggers, the move to dynamic self-configuration by Xorg and NetworkManager, and the removal of slow operations at install time, SuSEconfig is without a role for the first time in more than 12 years, and sysadmins' pinkie fingers will get a much-needed break.
+Another piece of long-time S.u.S.E., SuSE, SUSE and openSUSE infrastructure to be demolished for 12.3 is SuSEconfig, probably the most annoying command to enter manually. SuSEconfig was created to replace _/etc/rc.config_ and the often-criticized direct modification of config files by YaST, as a modular host for configuration scripts to apply system-wide changes after installing or removing groups of packages - for example, rebuilding the font database, applying policy stored in a standard format in _/etc/sysconfig_ to the actual config files, or migrating gconf schemas after a version update. Performing these actions once after installing a group of packages reduced installation time. With the trend to performing these actions in post-install/post-uninstall specfile stanzas, or via rpm triggers, the move to dynamic self-configuration by Xorg and NetworkManager, and the removal of slow operations at install time, SuSEconfig is without a role for the first time in more than 12 years, and sysadmins' pinkie fingers will get a much-needed break.
 
 
 ## Software changes

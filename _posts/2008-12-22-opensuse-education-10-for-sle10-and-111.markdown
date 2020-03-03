@@ -24,7 +24,7 @@ So please help us releasing a bugfree openSUSE-Education release 1.0 for 11.1 in
 
 You can either use our [Online-Repository](http://www.opensuse-education.org/download/repo/1.0/11.1/) by adding it via the "Community-Repositories" Section in YaST or via the "Add-on"-YaST module - or use the [ISO-Image](ftp://ftp.suse.com/pub/projects/education/openSUSE-Education-1.0-for-11.1.iso) (2.6GB) as "non online" version. Both contain the same packages.
 
-The RC1 release contains a lot of package updates (and fixes) - a complete [Changelog for all packages](http://www.opensuse-education.org/download/repo/1.0/11.1/ChangeLog) is available in the root-directory of our installation source. There are still 10 packages left in the Build ServiceÂ  which needs fixes to build for 11.1 - hopefully we get them fixed soon enough for the final release.
+The RC1 release contains a lot of package updates (and fixes) - a complete [Changelog for all packages](http://www.opensuse-education.org/download/repo/1.0/11.1/ChangeLog) is available in the root-directory of our installation source. There are still 10 packages left in the Build Service  which needs fixes to build for 11.1 - hopefully we get them fixed soon enough for the final release.
 
 <!-- more -->
 

@@ -130,7 +130,7 @@ Now let's start with Pascal Bleser:  just click on the link below and you will s
 
 
 My name is Pascal Bleser, I'm 32 years old and live in Belgium.
-I'm living there with my girlfriend Ingrid and my little 2 year old daughter GaÃ«lle.
+I'm living there with my girlfriend Ingrid and my little 2 year old daughter Gaëlle.
 We currently don't have pets, but I'm sure we'll get a cat again soon.
 
 My native languages are French and German, my English is quite fluent and I also babble a few words of Dutch.
@@ -184,7 +184,7 @@ I'm also listed as one of the most prolific packagers on [PBone](http://rpm.pbon
 
 Apart from that, I'm trying to contribute to discussions in and around the community on several openSUSE mailing-lists and spend most evenings helping and as an op on the [#suse IRC channel](irc://irc.freenode.net/#suse) as well as #opensuse-de, #opensuse-fr, and a few other opensuse channels over there.
 
-I spend my remaining spare time working on the [openSUSE Software Portal project](http://en.opensuse.org/Software_Portal) that is still in its infancy but hopefully will be the Ã¼ber-killer web site for openSUSE users some day ;)
+I spend my remaining spare time working on the [openSUSE Software Portal project](http://en.opensuse.org/Software_Portal) that is still in its infancy but hopefully will be the über-killer web site for openSUSE users some day ;)
 
 I also hacked a small but nice little tool called ["webpin"](http://dev-loki.blogspot.com/search/label/webpin) that acts as a command-line frontend to [Benjamin Weber](http://blogs.warwick.ac.uk/bweber/)'s excellent openSUSE [Package Search service](http://benjiweber.co.uk:8080/webpin/).
 
@@ -286,7 +286,7 @@ Personally, I'm not hostile towards other Linux distributions (with the exceptio
 #### Which members of the openSUSE community have you met in person?
 
 
-Several people working on openSUSE in NÃ¼rnberg (Markus Rueckert, Henne Vogelsang, Stephan Binner, Adrian Schroeter, Duncan Mac-Vicar, Andreas Jaeger, Marcus Meissner, Martin Lasarsch, Michael Loeffler, mmj, just to name a few, but there were lots more ;) ).
+Several people working on openSUSE in Nürnberg (Markus Rueckert, Henne Vogelsang, Stephan Binner, Adrian Schroeter, Duncan Mac-Vicar, Andreas Jaeger, Marcus Meissner, Martin Lasarsch, Michael Loeffler, mmj, just to name a few, but there were lots more ;) ).
 
 I only met very few non-Novell openSUSE community members, namely [Benjamin "benJIman" Weber](http://blogs.warwick.ac.uk/bweber/), [Francis "apokryphos" Giannaros](http://francis.giannaros.org/blog/), as well as Detlef Reichelt, Quentin Dennis, Herbert "herby" Graeber (all three are part of the Packman team), and Marc Schiffbauer. Marc prefers Debian but he provides the infrastructure for Packman, which is a very valuable contribution to our community ;)
 
@@ -357,7 +357,7 @@ I have them all ;)
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 Ouch, that would hurt. Especially for not being in touch with the many people I chat, jabber and email with every day.
@@ -434,7 +434,7 @@ Sightseeing interesting and preferably ancient places, or beautiful natural envi
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 Bank it, earn interests, do my girlfriend and myself a few favours (more screens, more PCs ;) ) but mostly keep it for my daughter.
@@ -446,7 +446,7 @@ Hmmm.. that does sound boring though. OK, new laptop, bigger screens, a big iron
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 Interesting question. Either right now, in a far away future (I'm so curious) or in the seventies.
@@ -456,7 +456,7 @@ Interesting question. Either right now, in a far away future (I'm so curious) or
 
 
 
-#### There's a thunderstorm outside â€“ do you turn off your computer?
+#### There's a thunderstorm outside – do you turn off your computer?
 
 
 Sometimes. But thunderstorms are not very frequent nor violent over here.
@@ -491,7 +491,7 @@ Isn't my daughter lovely ? ;)
 #### You couldn't live without...
 
 
-My daughter GaÃ«lle, my girlfriend Ingrid, air, water, food, a computer running Linux, an internet connection.
+My daughter Gaëlle, my girlfriend Ingrid, air, water, food, a computer running Linux, an internet connection.
 In that order.
 
 

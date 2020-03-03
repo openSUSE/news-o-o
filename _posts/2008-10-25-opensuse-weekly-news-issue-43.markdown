@@ -12,7 +12,7 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #43 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/43)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * openSUSE Build Service Webclient Survey Started

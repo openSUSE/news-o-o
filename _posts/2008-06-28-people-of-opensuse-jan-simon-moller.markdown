@@ -5,13 +5,13 @@ date: 2008-06-28 21:10:23+00:00
 layout: post
 link: https://news.opensuse.org/2008/06/28/people-of-opensuse-jan-simon-moller/
 slug: people-of-opensuse-jan-simon-moller
-title: 'People of openSUSE: Jan-Simon MÃ¶ller'
+title: 'People of openSUSE: Jan-Simon Möller'
 wordpress_id: 918
 categories:
 - People of openSUSE
 ---
 
-Weekly News writer and openSUSE member Jan-Simon MÃ¶ller accepted 'People of openSUSE' interview request and shared with us some information about himself. Jan is also the maintainer of the [hamradio repository](http://download.opensuse.org/repositories/hamradio/) on the Build Service!
+Weekly News writer and openSUSE member Jan-Simon Möller accepted 'People of openSUSE' interview request and shared with us some information about himself. Jan is also the maintainer of the [hamradio repository](http://download.opensuse.org/repositories/hamradio/) on the Build Service!
 
 <!-- more -->
 

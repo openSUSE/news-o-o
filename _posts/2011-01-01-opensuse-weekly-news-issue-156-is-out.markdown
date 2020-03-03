@@ -25,7 +25,7 @@ We are pleased to announce our issue 156.
 
 ### openSUSE Weekly News Team
 
-ProducerÂ 
+Producer 
 
 Published: 
 
@@ -98,13 +98,13 @@ Enjoy the reading :-)
 > Apart of the well known high level open Source tech conference there will be for the 2nd
       time the Distribution [Miniconf](http://www.fosdem.org/2011/distrominiconf).
       The Miniconf provides the perfect place for different projects to share ideas, talk about
-      challenges each project has and to foster collaboration â€“ and as openSUSE is all about
+      challenges each project has and to foster collaboration – and as openSUSE is all about
       collaboration we want to play a major role there.
 > 
 > The Miniconf is open for every project. For more information please subscribe on the
       Miniconf [mailinglist](http://lists.fosdem.org/mailman/listinfo/dist2011).
       We are looking for talks about cross-distro collaboration and presentations on openSUSE
-      technology â€“ like OBS, openFATE but also where we are going â€“ things like Tumbleweed!
+      technology – like OBS, openFATE but also where we are going – things like Tumbleweed!
 > 
 > Our contact with FOSDEM is [Henne
         Vogelsang](http://en.opensuse.org/User:Hennevogel), if you think about giving a talk, contact him.
@@ -113,7 +113,7 @@ Enjoy the reading :-)
 
 <blockquote>**[Winner of openSUSE 2010 survey got his Chumby!](http://news.opensuse.org/2010/12/30/winner-of-opensuse-2010-survey-got-his-chumby/)**
 > 
-> **FigureÂ 1.Â The elusive Thirsty Thirteen**
+> **Figure 1. The elusive Thirsty Thirteen**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![The elusive Thirsty Thirteen](/wp-content/uploads/2010/12/chumby_info1.jpg)
@@ -124,7 +124,7 @@ Enjoy the reading :-)
 > 
 > In February 2010 openSUSE held the openSUSE survey 2010 to find out more about the community. Who are the openSUSE users? What do they want? Who are our contributors? 
       What motivates them? How can openSUSE improve? These questions and more have, to some extend, been answered by the over 27.000 participants in the three months the survey 
-      was live. Just before the end of the year we finally managed to get the winner of the Chumby FigureÂ 1, â€œThe elusive Thirsty Thirteenâ€ his prize. Konrad Schlichtherle from Dortmund, 
+      was live. Just before the end of the year we finally managed to get the winner of the Chumby Figure 1, “The elusive Thirsty Thirteen” his prize. Konrad Schlichtherle from Dortmund, 
       Germany, is the lucky winner. Read on for more!
 > 
 > **Winners**
@@ -133,13 +133,13 @@ Enjoy the reading :-)
 > 
 >   * Yosef Peretz from Jerusalem Israel
 > 
->   * Carlos GÃ¡rzon from Colombia
+>   * Carlos Gárzon from Colombia
 > 
 >   * Mityunin Alexander Vladimirovich from Russia
 > 
 >   * Dong Xiaoyan from China
 > 
->   * Marâ€™yan Rachynskyy from Ukraine
+>   * Mar’yan Rachynskyy from Ukraine
 > 
 >   * Roland Ortmann from Germany
 > 
@@ -149,12 +149,12 @@ Enjoy the reading :-)
 > 
 > And the main prize, the Chumby, went to **Konrad Schlichtherle** from Germany.
 > 
-> We managed to catch Konrad on IRC â€“ he is currently not involved with Free Software but looking to change that so tips for him are welcome!
+> We managed to catch Konrad on IRC – he is currently not involved with Free Software but looking to change that so tips for him are welcome!
 >     
 >     
 >           News.o.o: So, Konrad, you got the Chumby?
 >           Konrad: yes, i got it on the 27th. Many thanks for it. Its a nice gadget!
->           News.o.o: So itâ€™s working for you?
+>           News.o.o: So it’s working for you?
 >           Konrad: Yes, what else can I say about the Chumby? He stands beside me and plays music. I have to say, I use Linux since one year and have a lot to learn. I hope to 
 >           use the Chumby with some other useful things so I can learn more about Linux.
 >         
@@ -163,11 +163,11 @@ Enjoy the reading :-)
 > 
 > The survey results are available as [pdf file](http://en.opensuse.org/images/3/3a/SurveySummary_03012010.pdf) and on the openSUSE Survey 
       2010 [wiki page](http://en.opensuse.org/openSUSE:Survey_2010) an extensive analysis has been made. The results have helped make project 
-      decisions, be it technical, marketing or otherwise â€“ and we call upon all openSUSE community members to keep using these numbers to back up their choices! We want to be 
+      decisions, be it technical, marketing or otherwise – and we call upon all openSUSE community members to keep using these numbers to back up their choices! We want to be 
       close to ourselves and the opinions of 27,000 users and contributors is nothing to be sneezed at.
 > 
-> Weâ€™d like to thank everyone who answered the questionnaire again for their time and efforts and wish the winners a lot of fun with their prizes and their future 
-      endeavors in the world of Free Software! And as usual, if youâ€™re looking into getting involved, you can simply contact anyone on IRC or mail â€“ that includes me, your 
+> We’d like to thank everyone who answered the questionnaire again for their time and efforts and wish the winners a lot of fun with their prizes and their future 
+      endeavors in the world of Free Software! And as usual, if you’re looking into getting involved, you can simply contact anyone on IRC or mail – that includes me, your 
       humble writer. Find me on IRC [(freenode.net in the openSUSE channels like #opensuse-project)](http://webchat.freenode.net/) under the 
       nick jospoortvliet!
 > 
@@ -194,7 +194,7 @@ Enjoy the reading :-)
             Boosters Year 2010](http://news.opensuse.org/2010/12/29/opensuse-boosters-year-2010/)
         **
 > 
-> **FigureÂ 2.Â The elusive Thirsty Thirteen**
+> **Figure 2. The elusive Thirsty Thirteen**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td align="center" >![The elusive Thirsty Thirteen](/wp-content/uploads/2010/12/Opensuse-boosters.jpg)
@@ -203,25 +203,25 @@ Enjoy the reading :-)
 >   
 
 > 
-> At the end of the year it is the time for reviews and the openSUSE Booster FigureÂ 2, â€œThe elusive Thirsty Thirteenâ€ team did not
+> At the end of the year it is the time for reviews and the openSUSE Booster Figure 2, “The elusive Thirsty Thirteen” team did not
           want to let that opportunity slip. So what was important in 2010 from an openSUSE Boosters
           perspective? What happened, what progress was made, how did the boosters help openSUSE? A
           report from Klaas Freitag.
 > 
 > **Who are the Boosters**
 > 
-> For those who do not know who [the Boosters](http://en.opensuse.org/openSUSE:Boosters_team) are: Weâ€™re not Tuxies favorite boy group, but a bunch of people
+> For those who do not know who [the Boosters](http://en.opensuse.org/openSUSE:Boosters_team) are: We’re not Tuxies favorite boy group, but a bunch of people
           dedicated to help the openSUSE Project in any way we can. The team consists of 13 people (BTW:
           widely known as the thirsty thirteen) with skills ranging from low level C hackery over Ruby
           on Rails mastering to Graphical Design or Project Management. Our team picks milestones and
           works on them in a agile fashion while always following our mantra: Grow community by enabling
           community. You can meet us at the usual places like IRC, the mailinglists or events were we
-          show up and spread the word about openSUSE. Weâ€™re there to make contributors life easier and
-          more fun, so if you have anything do not hesitate to talk to us. Weâ€™re here for you.
+          show up and spread the word about openSUSE. We’re there to make contributors life easier and
+          more fun, so if you have anything do not hesitate to talk to us. We’re here for you.
 > 
 > **Events in 2010**
 > 
-> So letâ€™s quickly fly over the year of 2010 and see what was nice and important.
+> So let’s quickly fly over the year of 2010 and see what was nice and important.
 > 
 >   * FOSDEM
 > 
@@ -231,7 +231,7 @@ Enjoy the reading :-)
               can go. The result was that we all were quite pleased by the coach trip as it was
               comfortable and fun, and finally not so much longer than the flight. And yes, consider how
               much carbon dioxide was saved? Since that trip I am constantly nagging for budget for an
-              openSUSE Coachâ€¦
+              openSUSE Coach…
 > 
 > I held a talk about Hermes at FOSDEM which was, well, not a great success, that thing
               seems hard to market. That happens, others were more succesfull, like Christopher with his
@@ -248,8 +248,8 @@ Enjoy the reading :-)
 > 
 >   * Bento and wiki work
 > 
-> At home, at the beginning of the year we worked on projects called â€œIntegrate all
-              Infrastructure under one Umbrellaâ€ which resulted in the Bento web theme nowadays at all
+> At home, at the beginning of the year we worked on projects called “Integrate all
+              Infrastructure under one Umbrella” which resulted in the Bento web theme nowadays at all
               openSUSE sites use. It provides short ways from one site to another by thought through and
               pretty menus. Robert did a real great job with that and we got a lot of external
               recognition for it. At the same time the Wiki project started which was a huge project the
@@ -264,9 +264,9 @@ Enjoy the reading :-)
 > In parallel to that, Coolo and Tom were contributing to the new BuildService [web interface](http://build.opensuse.org). After long working hours we
               finally came out with a great web interface for OBS which was a big bum for the whole
               project, as it makes working in OBS much more fun. I remember that whole thing being
-              started as a sprint called â€œFactory statusâ€, aiming to provide a good [overview
+              started as a sprint called “Factory status”, aiming to provide a good [overview
                 page](https://build.opensuse.org/projectstatus?project=openSUSE%3AFactory) for the Factory project in OBS. It grew a bit more ambitions, but, well,
-              thatâ€™s how it goes if things are in movement ;-)
+              that’s how it goes if things are in movement ;-)
 > 
 >   * LinuxTag
 > 
@@ -282,7 +282,7 @@ Enjoy the reading :-)
               boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is
               contributing to the distribution, we all have our shares in it. 11.3 was a good one, it
               got good press and showed that we as a community are doing great. All over the world
-              release parties were organized, some Boosters took over the one here in NÃ¼rnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm,
+              release parties were organized, some Boosters took over the one here in Nürnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm,
               because many community members showed up. Cool, I love that kind of stress to organize
               food and beer quickly to let the party go on :-)
 > 
@@ -298,10 +298,10 @@ Enjoy the reading :-)
 > In autumn, the for me most exciting event of the year took place, the second [openSUSE Conference](http://en.opensuse.org/Portal:Conference). We were
               heavily involved in organizing, program committee work, giving talks and presentations and
               all what is involved with that kind of large event. It was a huge success, as a very
-              active and passionate community showed up. Discussions went from a â€œThis is what we didâ€
-              in the last year to a â€œthis is what we could doâ€ which is so great to see as that is
+              active and passionate community showed up. Discussions went from a “This is what we did”
+              in the last year to a “this is what we could do” which is so great to see as that is
               resulting in innovation for the whole project. As a result some very concrete sub projects
-              were created such as â€œProject Breznâ€ and openSUSE Invis which slowly evolves.
+              were created such as “Project Brezn” and openSUSE Invis which slowly evolves.
 > 
 >   * openFATE, Connect and more
 > 
@@ -331,21 +331,21 @@ Enjoy the reading :-)
 #### ![Header Picture](/wp-content/uploads/2010/12/GNOME-foot.jpg)GNOME Team
 
 <blockquote>**
-          [Nelson Marques: Kick off for GNOME:Ayatana Projectâ€¦](http://lizards.opensuse.org/2010/12/29/kick-off-for-gnomeayatana-project/)
+          [Nelson Marques: Kick off for GNOME:Ayatana Project…](http://lizards.opensuse.org/2010/12/29/kick-off-for-gnomeayatana-project/)
         **
 > 
-> â€œFollow effective action with quiet reflection. From the quiet reflection will come even more effective action.â€ // Peter F. Drucker
+> “Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.” // Peter F. Drucker
 > 
-> This has been one of the guidelines in my life for quite some timeâ€¦ It started as a curiosity a long time ago with Notify OSD and evolved to full project 
-          in openSUSE. It is important to acknowledge at this point the motivation provided by the openSUSE GNOME Team from which Iâ€™ve been getting plenty of guidance and 
-          help, namely from Vincent Untz (vuntz) and Dominique ï»¿Leuenberger (Dimstar). Thanks to them, we have now a GNOME:Ayatana Project on OBS (openSUSE Build Service), 
-          currently being populated with the support libraries for Ayatanaâ€™s Unity and Indicators.
+> This has been one of the guidelines in my life for quite some time… It started as a curiosity a long time ago with Notify OSD and evolved to full project 
+          in openSUSE. It is important to acknowledge at this point the motivation provided by the openSUSE GNOME Team from which I’ve been getting plenty of guidance and 
+          help, namely from Vincent Untz (vuntz) and Dominique ﻿Leuenberger (Dimstar). Thanks to them, we have now a GNOME:Ayatana Project on OBS (openSUSE Build Service), 
+          currently being populated with the support libraries for Ayatana’s Unity and Indicators.
 > 
 > Susan Linton has made a small article for Linux Journal about this project in the past. Though some people pointed to me that it was advertising and excelling 
-          Ubuntuâ€¦ I would like to leave a statementâ€¦ Weâ€™re not taking a hike on Ubuntu visibility, and it isnâ€™t bad at all, on the contraryâ€¦ In fact it will help Ubuntu, us 
-          and many othersâ€¦ specially if some Ubuntu patches are accepted faster by upstream. I hope other RPM distributions will follow the way we, openSUSE, proudly seem to 
-          pioneering! From my personal point of viewâ€¦ a distribution â€œdistributesâ€â€¦ and despite this software isnâ€™t attractive for some openSUSE users, Iâ€™m happy 
-          it is available (totally or partially) for all those who want to test itâ€¦ Waitâ€¦ you donâ€™t even need to install Ubuntu or changing the platform you run!
+          Ubuntu… I would like to leave a statement… We’re not taking a hike on Ubuntu visibility, and it isn’t bad at all, on the contrary… In fact it will help Ubuntu, us 
+          and many others… specially if some Ubuntu patches are accepted faster by upstream. I hope other RPM distributions will follow the way we, openSUSE, proudly seem to 
+          pioneering! From my personal point of view… a distribution “distributes”… and despite this software isn’t attractive for some openSUSE users, I’m happy 
+          it is available (totally or partially) for all those who want to test it… Wait… you don’t even need to install Ubuntu or changing the platform you run!
 > 
 > Due to several reasons, being the most important of them versioning, this repository will start on the next release of openSUSE in March 16th (World day 
         of Conscience, interesting point). This is also interesting as if YOU are willing to improve a package or submit a package you can now do it to this repository.
@@ -376,8 +376,8 @@ Enjoy the reading :-)
           get so many things done, the most important was something else. Working together like this was
           fun. Really, the team spirit was great and everyone involved deserves a big kudos for simply
           being such a great person! During the 24 hours that the event took, some members were online
-          for a much longer time than you could expect anyone to stay â€“ true dedication! The meetings
-          really showed what the spirit of Free Software and openSUSE means â€“ making a difference
+          for a much longer time than you could expect anyone to stay – true dedication! The meetings
+          really showed what the spirit of Free Software and openSUSE means – making a difference
           together. Because we made a difference.
 > 
 > Among other things, the following things were accomplished:
@@ -494,7 +494,7 @@ Enjoy the reading :-)
             [Off-Line one click install (MSI for Linux) (Score: 56)](https://features.opensuse.org/305582)
           **
 > 
-> "Idea from community member RaÃºl GarcÃ­a. Same concept as MSI packages for
+> "Idea from community member Raúl García. Same concept as MSI packages for
             Windows but exploiting the One Click Install concept of openSUSE (and therefore
             inheriting the simplicity, code and security. (...)"
 > 
@@ -558,7 +558,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
 
@@ -571,13 +571,13 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
         day was quite good as compared to the previous days and I attended a few workshops and was able to attend and somewhat understand a few of them like MariaDB and I 
         specially liked the talk by security in mobile devices by Tobias Mueller. Yes, and I was able to get all the openSUSE DVDs given to the Delegate Kids provided by 
         FOSS.in guys and so the DVDs were too less for us :-( . The 3rd day was the worst in terms of talks for me as I could not get into a lot of talks and missed a few 
-        interesting talks. Also the mediawiki miniconf turned out to be more of a waste of time rather than fun, at least for me. An Hackerâ€™s apology by tuxmaniac was just 
+        interesting talks. Also the mediawiki miniconf turned out to be more of a waste of time rather than fun, at least for me. An Hacker’s apology by tuxmaniac was just 
         awesome and the Raghu Dixit Project totally rocked :D . I immediately boarded the train to my home after FOSS.in
 > 
-> As I reached my home, I was again anxiously waiting for the for the next openSUSE Collab Event â€“ Social Media and PR which was quite successful and I enjoyed it 
+> As I reached my home, I was again anxiously waiting for the for the next openSUSE Collab Event – Social Media and PR which was quite successful and I enjoyed it 
         thoroughly.  In the last few days I also played with the flickr api, and came up with a bunch of php based libraries. The best flickr api wrapper which I found was 
         [phpflickr](http://phpflickr.com/). The reasons being this guy has wonderfully wrapped all the functions of the flickr api. I played it around and used 
-        Robert Lihmâ€™s bento theme to make a photo gallery for openSUSE at my site.
+        Robert Lihm’s bento theme to make a photo gallery for openSUSE at my site.
 > 
 > You can find a view of my tinkerings at [http:// suseware.com/flick](http:// suseware.com/flick). Man I am such a copy cat. Please give put in your 
         comments, improvements or anything, I will really appreciate it.
@@ -585,7 +585,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 > Also, if you may notice I have come up with a new blog design, this looks much cleaner imo and finally I inserted Google ads into my blog. Also removed a host of 
       plugins that were actually not required and I had added them for fun. Finally the title shows up in the blog pages.
 > 
-> In the past ten days I rather cleaned things upâ€¦  and yes lazed quite a bit but then I am at home :) Enjoy Guys.. A happy new year
+> In the past ten days I rather cleaned things up…  and yes lazed quite a bit but then I am at home :) Enjoy Guys.. A happy new year
 > 
 > </blockquote>
 
@@ -602,9 +602,9 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
   * [January 12, 2011 : openSUSE Project Meeting (16:00)](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-  * [January 12, 2011 : ï»¿openSUSE Board Meeting (19:00)](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [January 12, 2011 : ﻿openSUSE Board Meeting (19:00)](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [January 13, 2011 : ï»¿openSUSE KDE Team meeting (18:00)](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 13, 2011 : ﻿openSUSE KDE Team meeting (18:00)](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
@@ -619,7 +619,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
         [Greek openSUSE Ambassadors: Report: 1st OpenFest Open Christmas at Florina, December 24th 2010](http://opensuseambassadors.blogspot.com/2010/12/report-1-openfest-open-christmas-at.html)
       **
 > 
-> **FigureÂ 3.Â Merry Christmas to everyone**
+> **Figure 3. Merry Christmas to everyone**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
 > <td align="center" >![Merry Christmas to everyone](http://diamond.comlu.com/suse/events/florina_24_12_10/14.jpg)
@@ -638,22 +638,22 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > openSUSE team was pretty happy about promoting our distro to citizens of Florina. We didn't mind that we drove 200km to reach the city or the soft rain that made 
       us to put all our equipment inside the wooden house. What is left from this event was:
 > 
-> We did our job and we had fun!!!FigureÂ 3, â€œMerry Christmas to everyoneâ€
+> We did our job and we had fun!!!Figure 3, “Merry Christmas to everyone”
 > 
 > </blockquote>
 
-<blockquote>**[JosÃ© Oramas M.: Kokoa and Friends Meeting (KyA2010)](http://lizards.opensuse.org/2010/12/31/kokoa-and-friends-meeting-kya2010/)**
+<blockquote>**[José Oramas M.: Kokoa and Friends Meeting (KyA2010)](http://lizards.opensuse.org/2010/12/31/kokoa-and-friends-meeting-kya2010/)**
 > 
 > The first Kokoa and Friends meeting took place the 20th of December at the Computing and Electrical Department of ESPOL.
 > 
 > This meeting supported by the openSUSE community, gathered people from different levels of the Kokoa community and the ESPOL university. From students that are just 
-        getting interested in using FLOSS (a.k.a. newbies), students who are â€œcandidatesâ€ to join the Kokoa community, the current â€œactiveâ€ members 
-        and the experienced â€œseniorâ€ members.
+        getting interested in using FLOSS (a.k.a. newbies), students who are “candidates” to join the Kokoa community, the current “active” members 
+        and the experienced “senior” members.
 > 
 > In this event different topics were discussed covering FLOSS usage in the academia and the industry. Stories of success and guidelines were shared with people 
       interested in going forward in the world of FLOSS.
 > 
-> Special thanks to Cristina Guerrero, Nervo Verdezoto, Marisol VillacrÃ©s, and from Jarflex, Adonis Figueroa and Jessica ZuÃ±iga the speakers of this meeting and 
+> Special thanks to Cristina Guerrero, Nervo Verdezoto, Marisol Villacrés, and from Jarflex, Adonis Figueroa and Jessica Zuñiga the speakers of this meeting and 
       specially to Arturo Tumbaco, who helped me with the logistics to make this event possible.
 > 
 > [Here some pictures about the meeting.](http://lizards.opensuse.org/2010/12/31/kokoa-and-friends-meeting-kya2010/)
@@ -662,7 +662,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 <blockquote>**[Greek openSUSE Ambassadors: Xariseto.gr Bazaar, December 28-29-30, 2010 - report](http://opensuseambassadors.blogspot.com/2010/12/xarisetogr-bazaar-december-28-29-30.html)**
 > 
-> **FigureÂ 4.Â Merry Christmas to everyone**
+> **Figure 4. Merry Christmas to everyone**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 > <td align="center" >![Merry Christmas to everyone](http://diamond.comlu.com/suse/events/xariseto_28_12_10/3.jpg)
@@ -674,7 +674,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > On December 28-29-30, 2010, we joined the calling from our friends from the web page xariseto.gr. They had a bazaar in Hortiatis, Thessaloniki (Greece). The place 
       was far from our city but it was near for some people that live there.
 > 
-> Many people were bringing items they didn't need, but can be used by someone else that need them. You can see on the last picture FigureÂ 4, â€œMerry Christmas to everyoneâ€ what 
+> Many people were bringing items they didn't need, but can be used by someone else that need them. You can see on the last picture Figure 4, “Merry Christmas to everyone” what 
         it was all about. We were there to inform people about FOSS and openSUSE. We had a lot of people asking questions about it. Mostly they didn't know that there's 
         something different than windows. We hope we made a difference even to 1 person.
 > 
@@ -694,28 +694,28 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 <blockquote>**[Packman: yamdi 1.7-0.pm](http://packman.links2linux.org/package/yamdi)**
 > 
-> â€œyamdi stands for Yet Another MetaData Injector and is a metadata injector
+> “yamdi stands for Yet Another MetaData Injector and is a metadata injector
       for FLV files. It adds the onMetaData event to your FLV files. It uses little
-      memory, is fast, and can handle big files (over 1 GB).â€
+      memory, is fast, and can handle big files (over 1 GB).”
 > 
 > </blockquote>
 
 <blockquote>**[Packman: pogo 0.3.1-0.pm](http://packman.links2linux.org/package/pogo)**
 > 
-> â€œPogo is probably the simplest and fastest audio player for Linux. Its
+> “Pogo is probably the simplest and fastest audio player for Linux. Its
       elementary-inspired design uses the screen-space very efficiently. Pogo is
       especially well-suited for people who organize their music by albums on the
       hard drive. The main interface components are a directory tree and a playlist
-      that groups albums in an innovative way.â€
+      that groups albums in an innovative way.”
 > 
 > </blockquote>
 
 <blockquote>**[Packman: mupen64plus 1.99.4-2.pm](http://packman.links2linux.de/package/mupen64plus)**
 > 
-> â€œ[Mupen64Plus](http://code.google.com/p/mupen64plus/) is a plugin-based N64 emulator which is capable of accurately
+> “[Mupen64Plus](http://code.google.com/p/mupen64plus/) is a plugin-based N64 emulator which is capable of accurately
       playing many games. It includes four MIPS R4300 CPU emulators, with dynamic
       recompilers for 32-bit x86 and 64-bit amd64 systems.  It supports plugins for
-      audio, graphical rendering (RDP), the signal co-processor (RSP), and input.â€
+      audio, graphical rendering (RDP), the signal co-processor (RSP), and input.”
 > 
 > </blockquote>
 
@@ -739,24 +739,24 @@ To view the security announcements in full, or to receive them
     **
 > 
 > **Jon Masters talks about features in the 2.6.37 Linux kernel and
-        describes debugging a kernel problem using the Git bisection featureâ€¦ **
+        describes debugging a kernel problem using the Git bisection feature… **
 > 
-> Weâ€™re now free of the Big Kernel Lock (in many configurations â€“ itâ€™s a config option that
+> We’re now free of the Big Kernel Lock (in many configurations – it’s a config option that
       will hide other not-yet-compatible options when used) and I have been running systems BKL-free
       for some time now. Arnd Bergman and others have done an excellent job to rid us of this last
-      vestige of truly ancient non-scalable Linux and unless you need a V4L (Video-4-Linux â€“ TV
+      vestige of truly ancient non-scalable Linux and unless you need a V4L (Video-4-Linux – TV
       tuner, webcam etc) device, you can probably run BKL-free today too. It is hoped that V4L will
-      be fixed soon, maybe in time for 2.6.37. You probably wonâ€™t notice a huge performance benefit
+      be fixed soon, maybe in time for 2.6.37. You probably won’t notice a huge performance benefit
       of running without the BKL unless you happen to have something more high end than a desktop,
-      but itâ€™s still pretty cool to know that you could get higher performance if only you could
+      but it’s still pretty cool to know that you could get higher performance if only you could
       afford to have a system with dozens of CPUs to take advantage of it.
 > 
 > calability is great on the high end, but another more impressive feature for those working
-      with more down-to-earth systems is (at last) near-complete support for running as a Xen â€˜Dom0â€™
+      with more down-to-earth systems is (at last) near-complete support for running as a Xen ‘Dom0’
       (or host kernel) under the Xen hypervisor. For years, the support for Xen host kernels lived
       in patches separate from the mainline kernel and had to be added separately. This constrained
       which Xen kernels could be used and made life more difficult for those using it in their
-      virtualisation setups. Itâ€™s not (yet) possible to fully run an official Linus kernel without
+      virtualisation setups. It’s not (yet) possible to fully run an official Linus kernel without
       any patches as a Dom0 host kernel, but the remaining extra driver pieces and other work should
       be complete in time for 2.6.38. This incidentally prompted some folks in the Fedora kernel
       community to wonder about scheduling. They would like this to land in Fedora 15 (for those who
@@ -767,7 +767,7 @@ To view the security announcements in full, or to receive them
 > 
 > This article originally appeared in [issue 95](http://www.linuxuser.co.uk/magazine-issues/linux-user-developer-issue-95-is-out-now/) of [Linux User &
           Developer](http://www.linuxuser.co.uk/) magazine.The kernel column #95 by Jon Masters Subscribe and save more
-        than 30% and receive our exclusive money back guarantee â€“ click [here](https://imagine.subscribeonline.co.uk/all-titles/linux-user-&-developer?offer=WEB100) to find out more.
+        than 30% and receive our exclusive money back guarantee – click [here](https://imagine.subscribeonline.co.uk/all-titles/linux-user-&-developer?offer=WEB100) to find out more.
 > 
 > </blockquote>
 
@@ -876,10 +876,10 @@ To view the security announcements in full, or to receive them
 > While looking for existing C coding standards I discovered that the GNU and Linux projects officially suggest very different styles. Inside the Linux kernel 
         documentation, Linus Torvalds goes so far as to mock GNU coding standards:
 > 
-> â€œFirst off, Iâ€™d suggest printing out a copy of the GNU coding standards, and NOT read it. Burn them, itâ€™s a great symbolic gesture.â€
+> “First off, I’d suggest printing out a copy of the GNU coding standards, and NOT read it. Burn them, it’s a great symbolic gesture.”
 > 
-> At this point I wanted to understand the difference between the coding styles of established open source projects. When I say â€œstylesâ€ I mean mainly 
-      the source code appearance, and the standards that help to read and maintain the code. Hereâ€™s a list of coding styles that I read:
+> At this point I wanted to understand the difference between the coding styles of established open source projects. When I say “styles” I mean mainly 
+      the source code appearance, and the standards that help to read and maintain the code. Here’s a list of coding styles that I read:
 > 
 >   * Linux kernel coding style
 > 
@@ -897,7 +897,7 @@ To view the security announcements in full, or to receive them
 > 
 >   * Mono Coding Guidelines
 > 
->   * Christian Neukirchenâ€™s Ruby Style Guide
+>   * Christian Neukirchen’s Ruby Style Guide
 > 
 >   * The Unofficial Ruby Usage Guide(...)
 > 
@@ -909,7 +909,7 @@ To view the security announcements in full, or to receive them
         [Masim Sugianto: DomainKeys/DKIM Implementation on Zimbra+SLES 11 SP1 with OpenDKIM](http://vavai.net/2010/12/domainkeysdkim-implementation-on-zimbrasles-11-sp1-with-opendkim/)
       **
 > 
-> **FigureÂ 5.Â Zimbra**
+> **Figure 5. Zimbra**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Zimbra](http://vavai.com/wp-content/uploads/2010/12/zimbra-logo32.jpg)
@@ -921,7 +921,7 @@ To view the security announcements in full, or to receive them
 > Following tutorial will covers DomainKeys/DKIM implementation using OpenDKIM on SLES or
         openSUSE. Domain Keys Identified Mail (DKIM) is a technology designed to make it difficult
         or impossible for criminals to steal the identities of legitimate organizations. This
-        authentication technology allows good senders to â€œsignâ€ a message to prove that it really
+        authentication technology allows good senders to “sign” a message to prove that it really
         did come from them..
 > 
 > DKIM originally written as sender authentication protocol developed in order to address
@@ -931,8 +931,8 @@ To view the security announcements in full, or to receive them
         as DomainKeys Identified Mail (DKIM).
 > 
 > These are various options for implementing DomainKeys Signature : by using DK-Filter,
-        DKIM-milter, OpenDKIM and also by using Amavisd-new DKIM implementation. Donâ€™t be confused
-        with all the terms. All method have similar function, signing your email as â€œtrustedâ€ or
+        DKIM-milter, OpenDKIM and also by using Amavisd-new DKIM implementation. Don’t be confused
+        with all the terms. All method have similar function, signing your email as “trusted” or
         legitimate email. (...)
 > 
 > </blockquote>
@@ -945,10 +945,10 @@ To view the security announcements in full, or to receive them
     I suppose.
 > 
 > Aside of my studies, continuous MCTS (Go) research, grinding away on random glibc bugs and such, I most notably got involved in **brmlab** 
-      this summer â€“ the [Prague hackerspace](http://brmlab.cz/). We got a pretty thriving community there now, with various cool events, a lot of great 
-      projects (Iâ€™m involved in quite a few), and so on!
+      this summer – the [Prague hackerspace](http://brmlab.cz/). We got a pretty thriving community there now, with various cool events, a lot of great 
+      projects (I’m involved in quite a few), and so on!
 > 
-> Well, I wanted to mention more, but I canâ€™t remember it right now. I suppose it will just come together. Oh, and seeing my last post â€“ I have a new bike, this time 
+> Well, I wanted to mention more, but I can’t remember it right now. I suppose it will just come together. Oh, and seeing my last post – I have a new bike, this time 
       with insurance. ;-)
 > 
 > </blockquote>
@@ -956,9 +956,9 @@ To view the security announcements in full, or to receive them
 <blockquote>**[Petr Baudis: Datasheet Translator](http://log.or.cz/?p=110)**
 > 
 > As we (well, mostly other people than me) were dealing with a rather obscure micro-controller when hacking our laser projector in brmlab, the only datasheet we have 
-      found has been in Chinese. This is quite often the case with obscure China-made parts (including event stuff like LEDs) and itâ€™s annoying to deal with.
+      found has been in Chinese. This is quite often the case with obscure China-made parts (including event stuff like LEDs) and it’s annoying to deal with.
 > 
-> So I hacked together a simple datasheet translator â€“ you feed it a PDF with your datasheet, specify the source language, let it munch away for a minute and then it 
+> So I hacked together a simple datasheet translator – you feed it a PDF with your datasheet, specify the source language, let it munch away for a minute and then it 
       spews out a link to the English translation!
 > 
 >   * [http://datasheet-en.or.cz](http://datasheet-en.or.cz/)
@@ -967,7 +967,7 @@ To view the security announcements in full, or to receive them
 > 
 > Its user interface is extremely rudimentary, if someone wants to add an AJAXy progressbar and what-not, just let me know. :-)
 > 
-> The â€œtechnologyâ€ is not much to mention either â€“ thankfully, pdftohtml can do quite nifty stuff nowadays (just needs a lot of beating to properly zoom the 
+> The “technology” is not much to mention either – thankfully, pdftohtml can do quite nifty stuff nowadays (just needs a lot of beating to properly zoom the 
       documents), and Google Translate can do awesome job with technical documents.
 > 
 > </blockquote>
@@ -1128,7 +1128,7 @@ To view the security announcements in full, or to receive them
         [Techradar/Graham Morrison: Linux in education: a genuine alternative](http://www.techradar.com/news/software/operating-systems/linux-in-education-a-genuine-alternative-915319)
       **
 > 
-> **FigureÂ 6.Â The Barnix distribution was designed by students at Barnfield College to ease people
+> **Figure 6. The Barnix distribution was designed by students at Barnfield College to ease people
           into the world of Linux**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
@@ -1140,8 +1140,8 @@ To view the security announcements in full, or to receive them
 > 
 > Using free software in education is not just about saving money. It's also about
         preserving choice, not locking a student's experience into a certain way of doing
-          something.FigureÂ 6, â€œThe Barnix distribution was designed by students at Barnfield College to ease people
-          into the world of Linuxâ€
+          something.Figure 6, “The Barnix distribution was designed by students at Barnfield College to ease people
+          into the world of Linux”
 > 
 > With Linux, there's no vendor lock-in. Free software is more likely to be
         open-standards compliant, and it's going to be more open to different languages,
@@ -1238,15 +1238,15 @@ To view the security announcements in full, or to receive them
           Stories](http://www.zdnet.com/blog/open-source/2010s-top-five-linux-and-open-source-stories/8008)
       **
 > 
-> Sure, unlike me, youâ€™re probably not reading this on a Linux desktopâ€“Mint 10 for those
-        who care about such thingsâ€“but do you use Google, Facebook or Twitter? If so, youâ€™re using
+> Sure, unlike me, you’re probably not reading this on a Linux desktop–Mint 10 for those
+        who care about such things–but do you use Google, Facebook or Twitter? If so, you’re using
         Linux. That Android phone in your pocket? Linux. DVRs, network attached storage (NAS), trade
         stocks? Linux, Linux, Linux.
 > 
 > I think one of the most telling stories about Linux this year came from a friend of
-        mine, Joe â€œZonkerâ€ Brockmeier, who told me of a friend who said â€œLinux
-          was too hard.â€ When Zonker asked him about his Android phone, he replied something
-        like, â€œOh, but Android is easy. Itâ€™s not Linux!â€ (...)
+        mine, Joe “Zonker” Brockmeier, who told me of a friend who said “Linux
+          was too hard.” When Zonker asked him about his Android phone, he replied something
+        like, “Oh, but Android is easy. It’s not Linux!” (...)
 > 
 > </blockquote>
 
@@ -1344,7 +1344,7 @@ We thank for this Issue:
 
   * Gertjan Lettink, Forums Section
 
-  * Thomas HofstÃ¤tter, Eventeditor
+  * Thomas Hofstätter, Eventeditor
 
   * Thomas Schraitle, DocBook-Consultant
 

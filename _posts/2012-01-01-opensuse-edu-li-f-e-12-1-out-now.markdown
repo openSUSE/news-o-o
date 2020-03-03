@@ -43,4 +43,4 @@ Create live USB stick or DVD with this image. About 15GB disk space and 1GB RAM 
 Use download manager or [Metalink](http://en.opensuse.org/SDB:Metalink) client such as aria2c for most efficient way to download.
 
 You can skip to the end and leave a response. Pinging is currently not allowed.
-Happy holidaysâ€¦
+Happy holidays…

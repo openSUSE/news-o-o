@@ -31,7 +31,7 @@ Currently there are parties scheduled and registered in:
   * Provo, Utah, USA
 
 	
-  * GÃ¶ttingen, Germany
+  * Göttingen, Germany
 
 	
   * Second Life, Global
@@ -79,7 +79,7 @@ Note that we have **presentations ready to go** for you! You can find more infor
 
 
 
-### Getting cool stuffâ„¢
+### Getting cool stuff™
 
 
 It's always nice to have some things to give away at a release  party. The openSUSE marketing team has plenty of cool stuff like stickers,  flyers, DVD's and t-shirts we can send to you! You could do a little  lottery or give away some things to long-time local openSUSE  contributors and the DVD's and flyers you can give to people to hand out  to their friends and family. If you're looking for some more tips on how to organize a party, [check the party how-to](http://en.opensuse.org/openSUSE:Launch_party_HOWTO)!

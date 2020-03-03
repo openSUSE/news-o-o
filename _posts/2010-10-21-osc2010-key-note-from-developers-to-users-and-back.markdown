@@ -5,7 +5,7 @@ date: 2010-10-21 15:43:52+00:00
 layout: post
 link: https://news.opensuse.org/2010/10/21/osc2010-key-note-from-developers-to-users-and-back/
 slug: osc2010-key-note-from-developers-to-users-and-back
-title: OSC2010 Key note â€“ From Developers to Users and back
+title: OSC2010 Key note – From Developers to Users and back
 wordpress_id: 5206
 categories:
 - Conference

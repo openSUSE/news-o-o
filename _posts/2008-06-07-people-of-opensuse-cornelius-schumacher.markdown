@@ -308,7 +308,7 @@ Magic debugging skills. Debugging is an art in itself, and while I'm not bad at 
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Taking aside worries about the impact of an Internet crash for human society, I would probably enjoy the time. I have become a fan of git, which allows for perfect offline version control, so an Internet crash won't stop me hacking.
@@ -379,7 +379,7 @@ Relaxing. Of course there are different ways to achieve that. Sometimes there ev
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Investing in Novell stock? Giving it to charity? I don't know. I don't care so much about money.
@@ -389,7 +389,7 @@ Investing in Novell stock? Giving it to charity? I don't know. I don't care so m
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 I would really like to watch Big Bang. But I'm not sure a meeting there would be very pleasant.
@@ -399,7 +399,7 @@ I would really like to watch Big Bang. But I'm not sure a meeting there would be
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 I have never done that.

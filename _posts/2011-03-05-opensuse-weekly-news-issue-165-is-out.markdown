@@ -237,7 +237,7 @@ Counter for openSUSE 11.4
 
 
 
-â€œ
+“
 
 
 [openSUSE 11.4 RC2 Steps Out](http://news.opensuse.org/2011/02/26/opensuse-11-4-rc2-steps-out/)
@@ -257,11 +257,11 @@ Documentation License version 1.2.](http://www.gnu.org/licenses/old-licenses/fdl
 
 
 
-With red carpets rolling out in Hollywood, youâ€™d expect some applause for the openSUSE 11.4 RC2 release, which has now gone live ahead of 11.4 proper. But with much of
-the hard work going in behind the scenes, this superb release candidate isnâ€™t getting the fanfare it deserves. The recent Bug Squashing day saw 132 bugs updated so few
-serious issues remain. Improvements in the â€˜backendâ€™ work includes some tweaks to Wifi supplicant and drivers, and a host of small fixes across the distribution which enhance
+With red carpets rolling out in Hollywood, you’d expect some applause for the openSUSE 11.4 RC2 release, which has now gone live ahead of 11.4 proper. But with much of
+the hard work going in behind the scenes, this superb release candidate isn’t getting the fanfare it deserves. The recent Bug Squashing day saw 132 bugs updated so few
+serious issues remain. Improvements in the ‘backend’ work includes some tweaks to Wifi supplicant and drivers, and a host of small fixes across the distribution which enhance
 stability and performance. The addition of MediaCurl backend with zsync support to libzypp iut is already being noticed. openSUSE user and forum member Pier Andreit comments
-that â€œYaST install/remove software is a thunderbolt!â€
+that “YaST install/remove software is a thunderbolt!”
 
 The transition from OpenOffice.org to LibreOffice still has a few minor documentation blips but more importantly, users should be cautious. The raft of new functionality
 has created a few specific issues, such as loss of data in tables. Though not quite ready for the production environment, user feedback is critical for smoothing performance
@@ -269,11 +269,9 @@ and reliability.
 
 KDE SC 4.6 is also running beautifully though 32 BIT nVidia users may have a bug.
 
-If youâ€™d like to help add the final touches of celebrity glam prior to the â€˜big eventâ€™ of 11.4 release, [download it here](http://download.opensuse.org/distribution/11.4-RC2/iso/) and check out the [most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_RC2).
+If you’d like to help add the final touches of celebrity glam prior to the ‘big event’ of 11.4 release, [download it here](http://download.opensuse.org/distribution/11.4-RC2/iso/) and check out the [most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_RC2).
 
-â€
-
-
+”
 
 
 
@@ -284,7 +282,9 @@ If youâ€™d like to help add the final touches of celebrity glam prior to th
 
 
 
-â€œ
+
+
+“
 
 
 [Build Service team releases new versions fixing security problems](http://news.opensuse.org/2011/03/02/build-service-team-releases-new-versions-fixing-security-problems/)
@@ -308,7 +308,7 @@ The openSUSE Build Service team has released verison 2.0.8 and 2.1.6. of OBS. Bo
 projects or packages without having write permission there. We highly recommend to update your instance of OBS as soon as possible to these new versions. Version 1.7 is
 not affected by this issue.
 
-Thanks to Marcus HÃ¼we for reporting this issue.
+Thanks to Marcus Hüwe for reporting this issue.
 
 **Details on OBS 2.1.6**
 
@@ -381,13 +381,13 @@ None
   * api and webui: Do not use (and fail with) rails 3 environment
 
 	
-  * api: allow admins to raise â€œsourceaccessâ€ permissions on existing projects or packages
+  * api: allow admins to raise “sourceaccess” permissions on existing projects or packages
 
 	
   * api: do not allow to create packages with invalid chars via branch command
 
 	
-  * api: do not fail on â€œmbranchâ€ when a package gets found directly and indirectly via project link
+  * api: do not fail on “mbranch” when a package gets found directly and indirectly via project link
 
 	
   * backend: Allow browsing of repositories of remote projects (fixes advanced webui view for adding repos)
@@ -396,7 +396,7 @@ None
 
 
 
-â€
+”
 
 
 
@@ -438,7 +438,7 @@ None
 
 
 
-â€œ
+“
 
 
 [openSUSE 11.4 and KDE](http://news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/)
@@ -458,8 +458,8 @@ Documentation License version 1.2.](http://www.gnu.org/licenses/old-licenses/fdl
 
 
 
-KDE fans must definitely watch out for openSUSE 11.4, which will be the first major Linux distribution to feature [KDEâ€™s Plasma Workspaces, Applications and Development Platform version 4.6](http://www.kde.org/announcements/4.6/). This trio of releases by the KDE community brings much better performance as well as
-many usability and feature improvements all over the place. Upgraders will feel a double dose of KDE goodness, as openSUSE 11.4 brings two major releasesâ€™ improvements
+KDE fans must definitely watch out for openSUSE 11.4, which will be the first major Linux distribution to feature [KDE’s Plasma Workspaces, Applications and Development Platform version 4.6](http://www.kde.org/announcements/4.6/). This trio of releases by the KDE community brings much better performance as well as
+many usability and feature improvements all over the place. Upgraders will feel a double dose of KDE goodness, as openSUSE 11.4 brings two major releases’ improvements
 over the KDE 4.4 shipped with openSUSE 11.3.
 
 
@@ -468,9 +468,9 @@ over the KDE 4.4 shipped with openSUSE 11.3.
 
 **On the Desktop or on your Netbook**
 
-The Plasma Desktop Workspace, which is openSUSEâ€™s default graphical desktop, introduces several new features. First up is a more intuitive and smarter power management
+The Plasma Desktop Workspace, which is openSUSE’s default graphical desktop, introduces several new features. First up is a more intuitive and smarter power management
 UI and a new Bluetooth stack which makes it easier to share files or use features of other Bluetooth devices such as headsets and mice . Plasma also introduces many
-improvements to the innovative â€˜Activitiesâ€™ management. Activities allow users to associate applications with tasks which can be saved, stopped and resumed at any time.
+improvements to the innovative ‘Activities’ management. Activities allow users to associate applications with tasks which can be saved, stopped and resumed at any time.
 
 For those with less screen estate to spend, the Plasma Netbook Workspace offers an experience more optimized for small screens. Plasma Netbook shows all your
 applications full-screen with a automatically hiding panel on the top of the screen offering a way to see all your windows as well as closing the current one, starting new
@@ -485,7 +485,7 @@ more about these and other new Plasma Workspace features [in the KDE Plasma 4.6 
 
 The KDE Applications 4.6 release introduces improvements like a new faceted search as well as non-indexed files search and support for git repositories in Dolphin, the
 file manager; social sharing of photos to sites like Flickr, Facebook and Picasaweb are now easy to reach from Gwenview, Digikam and KSnapshot.  Developers will appreciate
-Kateâ€™s new plugins for working with SQL and with GDB.
+Kate’s new plugins for working with SQL and with GDB.
 
 KDE Games 4.6 marks the return of Klickety, also replacing KSame. Thanks to the KGameRenderer framework, KDE games take on a more consistent look and feel and perform
 better. Palapeli makes creating jigsaw puzzles out of your own images easier and Kajongg became easier and smarter.
@@ -513,11 +513,11 @@ Some highlights include:
 	
   * Painting application Krita 2.3 has been designated by its developers as the first end-user ready version since 1.6. Their standards are high and they have
 been working with a variety of artist to make sure 2.3 is indeed fulfilling the needs of graphics ninjas. Krita 2.3 provides many new features, ranging from brush
-settings presets to canvas rotation, from warp transform to a new color selector â€” and of course many new brush engines. But the many improvements to stability,
+settings presets to canvas rotation, from warp transform to a new color selector — and of course many new brush engines. But the many improvements to stability,
 usability and especially performance probably make the biggest difference in everyday usage.
 
 	
-  * Amarok 2.4.0 has a much faster collection scanner and can write statistics and covers directly to your audio files. Speaking of tags, thereâ€™s a new feature
+  * Amarok 2.4.0 has a much faster collection scanner and can write statistics and covers directly to your audio files. Speaking of tags, there’s a new feature
 to work along with the rewritten collection scanner: Integration with the MusicBrainz music library to update your songs with accurate information. Having a well
 organized collection is easier than ever, now that you can select what you want tagged and do it with two clicks. Other notable features are improved iPod support (the
 Touch 3G should work great now), better transcoding support, Guitar and Bass tab information fetching, OPML export for Podcast subscriptions, an upcoming event applet
@@ -539,11 +539,11 @@ Microsoft file formats (doc, xls, ppt, docx, xlsx, pptx). KPlato and Kexi introd
 
 
 openSUSE prides itself on being a prominent development platform for KDE applications and again offers the latest KDE Platform libraries and tools in openSUSE 11.4.
-Improvements brought by KDE Platform 4.6 include QML support in the Plasma framework, improvements to Nepomuk and a â€œMobile Build Targetâ€ for those who want to build a
+Improvements brought by KDE Platform 4.6 include QML support in the Plasma framework, improvements to Nepomuk and a “Mobile Build Target” for those who want to build a
 thinner version of the KDE libraries.
 
 The toolkit KDE develops its applications and framework upon is Qt, a Nokia product. openSUSE ships the latest Qt 4.7.1 which introduces Qt Quick, the Qt UI Creation
-Kit. that enables the creation of dynamic user interfaces, easier and more effective than possible with existing UI technologies. With the help of IDEâ€™s like Qt Creator
+Kit. that enables the creation of dynamic user interfaces, easier and more effective than possible with existing UI technologies. With the help of IDE’s like Qt Creator
 and the powerful build tools like OBS openSUSE offers the best possible Linux software development environment in the Free Software world.
 
 Conclusion
@@ -560,7 +560,7 @@ applications, LibreOffice, coming soon!
 
 Article contributed by Manu Gupta.
 
-â€
+”
 
 
 
@@ -573,7 +573,7 @@ Article contributed by Manu Gupta.
 
 
 
-â€œ
+“
 
 
 [GNOME on openSUSE 11.4](http://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/)
@@ -611,15 +611,15 @@ things are supposed to work.
 The [Evince](http://projects.gnome.org/evince/) document viewer has improved accessibility support through the use of the AtkText interface, which
 allows [Orca](http://live.gnome.org/Orca), the GNOME screen reader, to read documents in Evince. The maximum zoom level has also been increased when
 viewing a document. Annotation support has been improved and you can now add annotations from the side panel, change the default properties including author, color,
-transparency and more. Evince now supports â€œSyncTeXâ€ which enables synchronization between a TeX source file and the resulting PDF (or DVI) output.
+transparency and more. Evince now supports “SyncTeX” which enables synchronization between a TeX source file and the resulting PDF (or DVI) output.
 
-[Empathy](http://live.gnome.org/Empathy), the universal instant messaging client, now allows you to group a contactâ€™s information together using
-â€œmetacontacts.â€ For example, if one of your contacts uses multiple instant messaging accounts you can now link the different services together under one name for your
+[Empathy](http://live.gnome.org/Empathy), the universal instant messaging client, now allows you to group a contact’s information together using
+“metacontacts.” For example, if one of your contacts uses multiple instant messaging accounts you can now link the different services together under one name for your
 contact. Empathy has also added live contact search, which allows you to type into the contact list to quickly find somebody. The new and improved Empathy in GNOME 2.32
 also adds chat logging support and the ability to import security certificates.
 
 [Eye of GNOME](http://projects.gnome.org/eog/), [Totem](http://www.gnome.org/projects/totem/) and [GNOME System Tools](http://projects.gnome.org/gst/) all come up with minor tweaks like enhancing image contrast, automatically deinterlacing interlaced videos and setting up permissions for home
-directories. For openSUSEâ€™s vast international audience, this latest release of GNOME 2 will support over 50 languages.
+directories. For openSUSE’s vast international audience, this latest release of GNOME 2 will support over 50 languages.
 
 Outside of the official GNOME release, openSUSE 11.4 will bundle a number of great third-party GNOME applications including Banshee, GIMP, AbiWord and more!
 Some of the major highlights include:
@@ -628,12 +628,12 @@ Some of the major highlights include:
 all major fileformats, video uploading to YouTube, Facebook and Flickr, monitoring the library directory and writing metadata behind the scenes to give users a more
 responsive interface.
 
-Media player [Rhythmbox](http://projects.gnome.org/rhythmbox/) 0.13.3 â€œCountry Rainâ€ is available in openSUSE 11.4. This will most likely be the last
+Media player [Rhythmbox](http://projects.gnome.org/rhythmbox/) 0.13.3 “Country Rain” is available in openSUSE 11.4. This will most likely be the last
 stable release before the move to GNOME 3 and introduces several new features and bugfixes. Most prominent are the reimplementation of source lists, updated notifications,
 MPRIS and MediaServer2 support and a new context pane tab showing links to various websites.
 
-The popular media player [Banshee](http://banshee.fm/) is updated to 1.8 in this release of openSUSE 11.4. Some highlights of this release are: a â€œNow
-Playingâ€ simplified mode, play queue shuffle action, improved cover art downloading, MusicBrainz ID support and improved Last.fm integration. Banshee 12.8 also includes
+The popular media player [Banshee](http://banshee.fm/) is updated to 1.8 in this release of openSUSE 11.4. Some highlights of this release are: a “Now
+Playing” simplified mode, play queue shuffle action, improved cover art downloading, MusicBrainz ID support and improved Last.fm integration. Banshee 12.8 also includes
 several developer features like an improved WebBrowser API for WebKit browsers and DBus API additions. Finally, device support has been greatly improved! Among others,
 Banshee now works better with the Droid X, Galaxy Portal, Xperia X10, Maemo and MTP capable devices in general.
 
@@ -642,23 +642,23 @@ Banshee now works better with the Droid X, Galaxy Portal, Xperia X10, Maemo and 
 openSUSE 11.4 has a lot to offer GNOME developers. Starting GNOME development is a matter of a few simple clicks in YaST, while GLib 2.26 now includes support for
 GSettings, the replacement for GConf as well as GDBus. Anjuta users can now enjoy full support for Vala and Python projects while MonoDevelop users get a myriad of new
 features and improvements from [MonoDevelop 2.4](http://monodevelop.com/Download/MonoDevelop_2.4_Released). And good news for those anxious to adapt
-their applications to GTK3 or write new applications with this latest GNOME framework: openSUSE 11.4 is the first major linux distribution to ship [GTK 3.0](http://thread.gmane.org/gmane.comp.gnome.announce/9389) so developers, Start Your IDEâ€™s!
+their applications to GTK3 or write new applications with this latest GNOME framework: openSUSE 11.4 is the first major linux distribution to ship [GTK 3.0](http://thread.gmane.org/gmane.comp.gnome.announce/9389) so developers, Start Your IDE’s!
 
 **Getting GNOME 3**
 
 For those of us anxious to try out GNOME 3 and GNOME Shell, Vincent Untz, openSUSE GNOME packager and until recently GNOME release manager has the following to say:
 
-â€œYou can test a beta version of GNOME Shell, which will be a core part of GNOME 3. Note that GNOME Shell has already moved a lot since the version we include in 11.4.â€
+“You can test a beta version of GNOME Shell, which will be a core part of GNOME 3. Note that GNOME Shell has already moved a lot since the version we include in 11.4.”
 
-There is also a GNOME 3 live USB test image available from another openSUSE GNOME contributor, get it from [fcrozatâ€™s home repo](http://blog.crozat.net/2011/01/gnome-3-live-cd-usb-test-image.html). Once openSUSE 11.4 is out, openSUSE users can easily be up to date with GNOME development using the GNOME OBS repositories.
+There is also a GNOME 3 live USB test image available from another openSUSE GNOME contributor, get it from [fcrozat’s home repo](http://blog.crozat.net/2011/01/gnome-3-live-cd-usb-test-image.html). Once openSUSE 11.4 is out, openSUSE users can easily be up to date with GNOME development using the GNOME OBS repositories.
 
 Conclusion
 
-In short, openSUSE 11.4 will offer a stellar experience for desktop users and developers alike. If the GNOME desktop isnâ€™t quite your cup of tea, youâ€™re in luck! openSUSE 11.4 will ship with updates to KDE, LXDE and XFCE which weâ€™ll cover in another article. Stay tuned!
+In short, openSUSE 11.4 will offer a stellar experience for desktop users and developers alike. If the GNOME desktop isn’t quite your cup of tea, you’re in luck! openSUSE 11.4 will ship with updates to KDE, LXDE and XFCE which we’ll cover in another article. Stay tuned!
 
 **Article contributed by Manu Gupta**
 
-â€
+”
 
 
 
@@ -715,14 +715,14 @@ In short, openSUSE 11.4 will offer a stellar experience for desktop users and de
 
 
 
-â€œ
+“
 
 
-[Michal HruÅ¡eckÃ½: GSoC 2011 Ideas â€“ OpenID provider for Elgg](http://michal.hrusecky.net/2011/02/gsoc-2011-ideas-openid-provider-for-elgg/)
+[Michal Hrušecký: GSoC 2011 Ideas – OpenID provider for Elgg](http://michal.hrusecky.net/2011/02/gsoc-2011-ideas-openid-provider-for-elgg/)
 
 
 Last week I [started](http://michal.hrusecky.net/2011/02/gsoc-2011-ideas-sax-3/) introducing my GSoC ideas. This is continuation of that post series. Today
-Iâ€™ll be writing about OpenID provider plugin for Elgg, what is it good for and why we need
+I’ll be writing about OpenID provider plugin for Elgg, what is it good for and why we need
 it.
 
 **What is [Elgg](http://www.elgg.org/) and why
@@ -742,7 +742,7 @@ the polls asking our community for its opinion.
 
 **Why do we need OpenID provider?**
 
-We donâ€™t. We have iChain that does something quite similar. It already provides single
+We don’t. We have iChain that does something quite similar. It already provides single
 login and password for all our services. So what is wrong with iChain? Tough question. It is
 Novell only solution. So whenever we want add another web service we have to bend it ourselves
 to support iChain. On the other end, whenever we develop our own web application, everybody
@@ -752,15 +752,15 @@ administrative mambo jambo to get support for a new service.
 
 So now you know few disadvantages of iChain. OpenID has also one big advantage that you
 can use it to login to other sites (like [sourceforge](http://www.sf.net)).
-Wouldnâ€™t it be great if we were using OpenID everywhere instead of iChain? You can then use
-you openSUSE login not only on our sites, but really everywhereâ€¦ And this GSoC project is the
+Wouldn’t it be great if we were using OpenID everywhere instead of iChain? You can then use
+you openSUSE login not only on our sites, but really everywhere… And this GSoC project is the
 first step.
 
 **Project description**
 
 Goal of this project will be to implement OpenID provider for Elgg. As already said, Elgg
 supports plugins that can modify anything. Among other things for example authentication.
-Which means that this provider canâ€™t really rely on any specific authentication method used.
+Which means that this provider can’t really rely on any specific authentication method used.
 This will make it possible to use it by anybody (not only us) and it will also make it easier
 to migrate our openSUSE webs to OpenID later. Currently we are using iChain to login to the
 Connect, but in the future we might let Connect handle login by itself and support OpenID
@@ -772,14 +772,14 @@ OpenID :-D
 Similarly to my previous post I already got student who is interested in working on this!
 **Kartik Mandaville** was really interested in working on this
 project as part of GSoC if it gets elected. He already got experience with developing web
-applications so if this project gets selected, weâ€™ve got something to look forward to.
+applications so if this project gets selected, we’ve got something to look forward to.
 
-Overall Iâ€™m really excited about whole GSoC 2011. Many ideas are already gathered and some
+Overall I’m really excited about whole GSoC 2011. Many ideas are already gathered and some
 other might still come. And we have people interested in working on these feature even though
-that today only registration for organizations starts! Letâ€™s hope that many of these
+that today only registration for organizations starts! Let’s hope that many of these
 interesting projects will get implemented!
 
-â€
+”
 
 
 
@@ -792,11 +792,11 @@ interesting projects will get implemented!
 
 
 
-â€œ
+“
 
 
 [Michal
-HruÅ¡eckÃ½: GSoC 2011 Ideas â€“ Support for Bitbake in OBS](http://michal.hrusecky.net/2011/03/gsoc-2011-ideas-support-for-bitbake-in-obs/)
+Hrušecký: GSoC 2011 Ideas – Support for Bitbake in OBS](http://michal.hrusecky.net/2011/03/gsoc-2011-ideas-support-for-bitbake-in-obs/)
 
 
 
@@ -822,36 +822,36 @@ is actually pretty cool.
 
 BitBake is a build system used mainly by OpenEmbedded. In a way it is kind of similar to
 what openSUSE does for us. It takes one sources and makes it possible to build them for many
-distributions. There are some differences though. Letâ€™s start with few notes a out
-OpenEmbedded. BitBake description will make more sense once youâ€™ll know what OpenEmbedded is.
-Itâ€™s a meta distribution. You can think about it as a common code base for multiple
+distributions. There are some differences though. Let’s start with few notes a out
+OpenEmbedded. BitBake description will make more sense once you’ll know what OpenEmbedded is.
+It’s a meta distribution. You can think about it as a common code base for multiple
 distributions. It has many packages. It also contains distribution settings. Same source can
 be built in different ways for various distributions. Each distribution can choose which
 version of which package does it want to have in which release. It can choose package
 management system, preferred providers for virtual packages and many other things. BitBake is
 then used to build whole distribution out from BitBake recipes. From recipes that all
-maintainers from all distributions work on together at one place. And yes, it doesnâ€™t support
+maintainers from all distributions work on together at one place. And yes, it doesn’t support
 spec or dsc files. You have to write .bb files. But it will build .rpm, .deb, .opk or .tgz out
 of it. All from one recipe. And that recipe is easier to write and more powerful then spec. If
 you never tried packaging for Debian, trust me that it is also much easier than Debian
 packaging. I actually had a [presentation](http://michal.hrusecky.net/download/opensuse_conference_2009/packaging.pdf) on openSUSE Conference 2009 about what can be done in BitBake and how
-it makes packagers life easier. Letâ€™s quickly mention few features that BitBake has.
+it makes packagers life easier. Let’s quickly mention few features that BitBake has.
 
 **Everything from one recipe**
 
 This was already mention, but it is quite important so I want to mention it once more. It
-can create both .rpm and .deb from one recipe. So you donâ€™t have to learn two different
+can create both .rpm and .deb from one recipe. So you don’t have to learn two different
 packaging method if you are upstream and want to provide binary packages for as many
 distributions as possible.
 
 **Class based packaging system**
 
 What is so great about inheritance in packaging? It helps you reduce copy & paste and
-makes it easier to do some policy changes. Letâ€™s take a look at some example. Letâ€™s say, that
-you are packaging some KDE game. How would you do that? In spec, youâ€™ll probably need to
+makes it easier to do some policy changes. Let’s take a look at some example. Let’s say, that
+you are packaging some KDE game. How would you do that? In spec, you’ll probably need to
 figure out how to call cmake, how to pass right KDE paths to it, how to make games rights ok
-and such. Then youâ€™ll white down the spec file. Or probably youâ€™ll just grab some other KDE
-game and copy & paste its spec file with minor adjustments. What youâ€™ll do in BitBake is
+and such. Then you’ll white down the spec file. Or probably you’ll just grab some other KDE
+game and copy & paste its spec file with minor adjustments. What you’ll do in BitBake is
 something like
 
 
@@ -859,7 +859,7 @@ inherit cmake kde games
 
 
 because BitBake has a class for compiling cmake programs, it has a class that knows how to
-package KDE programs and how to package games. And you are done. Thatâ€™s all. You donâ€™t need to
+package KDE programs and how to package games. And you are done. That’s all. You don’t need to
 write any %setup, %install or %files. It knows what it should do. You can start packaging
 something else ;-) If you know Gentoo ebuilds, BitBake recipes are a little bit similar, but
 focused on binary distributions.
@@ -869,9 +869,9 @@ focused on binary distributions.
 One disadvantage that writing spec files has is that you have to know beforehand haw many
 and what sub-packages you will be creating. And you have to name all of them explicitly.
 BitBake on the other hand let you do some neat tricks. You can compile your whole package and
-decide about sub-packages after that. Why is it cool? Letâ€™s imagine for example Pidgin. It
-contains many plugins and letâ€™s imagine that you want to make package for every single plugin.
-In .spec file, youâ€™ll have to write down all of them manually. In BitBake you can use
+decide about sub-packages after that. Why is it cool? Let’s imagine for example Pidgin. It
+contains many plugins and let’s imagine that you want to make package for every single plugin.
+In .spec file, you’ll have to write down all of them manually. In BitBake you can use
 something like this:
 
 
@@ -886,15 +886,15 @@ Pidgin developers will add another plugin or take one of them away.
 
 **Student**
 
-This time I donâ€™t have any student in my pocket who wants to work on it. And it will be
-quite tough job. I think it would be definitely the most difficult idea Iâ€™m suggesting for
+This time I don’t have any student in my pocket who wants to work on it. And it will be
+quite tough job. I think it would be definitely the most difficult idea I’m suggesting for
 GSoC. And I think it would require somebody who is willing to create many ugly hacks for
 greater good. The ends justifies the means ;-) It will require some serious digging into
 BitBake and obs so student will have to be quite independent as after a little digging I
-wouldnâ€™t be able to help him much and heâ€™ll learn more low level stuff than I want to know.
+wouldn’t be able to help him much and he’ll learn more low level stuff than I want to know.
 But I think if this gets done, it will be great.
 
-â€
+”
 
 
 
@@ -1078,7 +1078,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 
 
 
-â€œ
+“
 
 
 [Lluis Sanchez Gual: First beta of MonoDevelop 2.6](http://foodformonkeys.blogspot.com/2011/03/first-beta-of-monodevelop-26.html)
@@ -1091,7 +1091,7 @@ already [blogged about it](http://foodformonkeys.blogspot.com/2010/10/ngit.html)
 as the core for the GIT add-in. It hasn't been easy to make this port fully operational, but we now have a GIT core that can be easily updated and which is fully
 portable.(...)
 
-â€
+”
 
 
 
@@ -1161,7 +1161,7 @@ We are looking for volunteers to implement. **
 
 
 
-â€œ
+“
 
 
 [decouple download and installation (Score: 344)](https://features.opensuse.org/120340)
@@ -1170,7 +1170,7 @@ We are looking for volunteers to implement. **
 "Network installation could be improved by running package download and package
 installation in parallel."
 
-â€
+”
 
 
 
@@ -1183,7 +1183,7 @@ installation in parallel."
 
 
 
-â€œ
+“
 
 
 [Look at plymouth for splash during boot (Score: 181)](https://features.opensuse.org/305493)
@@ -1198,7 +1198,7 @@ Ray's comment starting with "Every flicker and mode change in the boot
 process takes away from the whole experience." is especially interesting. Is it
 okay to track the "don't show grub by default" here?"
 
-â€
+”
 
 
 
@@ -1211,7 +1211,7 @@ okay to track the "don't show grub by default" here?"
 
 
 
-â€œ
+“
 
 
 [1-click uninstall (Score: 146)](https://features.opensuse.org/305305)
@@ -1225,7 +1225,7 @@ click) to remove what you have installed with that 1-click operation... in anoth
 words: an "1-click Uninstall" to remove installed software (dependencies and
 packages included)."
 
-â€
+”
 
 
 
@@ -1238,7 +1238,7 @@ packages included)."
 
 
 
-â€œ
+“
 
 
 [Replacement for Sax2 (Score: 119)](https://features.opensuse.org/308357)
@@ -1247,7 +1247,7 @@ packages included)."
 "We need a replacement for sax2 in 11.3, as a safety measure for when auto
 configuration fails to detect certain monitors/keyboards/mice. (...)"
 
-â€
+”
 
 
 
@@ -1260,7 +1260,7 @@ configuration fails to detect certain monitors/keyboards/mice. (...)"
 
 
 
-â€œ
+“
 
 
 [Popularity contest (Score: 91)](https://features.opensuse.org/305877)
@@ -1269,7 +1269,7 @@ configuration fails to detect certain monitors/keyboards/mice. (...)"
 "We need a feedback about packages that are preferred by users and actively
 used. Debian already has a tool named Popularity contest (popcon) (...)"
 
-â€
+”
 
 
 
@@ -1282,17 +1282,17 @@ used. Debian already has a tool named Popularity contest (popcon) (...)"
 
 
 
-â€œ
+“
 
 
 [Off-Line one click install (MSI for Linux) (Score: 75)](https://features.opensuse.org/305582)
 
 
-"Idea from community member RaÃºl GarcÃ­a. Same concept as MSI packages for
+"Idea from community member Raúl García. Same concept as MSI packages for
 Windows but exploiting the One Click Install concept of openSUSE (and therefore
 inheriting the simplicity, code and security. (...)"
 
-â€
+”
 
 
 
@@ -1305,7 +1305,7 @@ inheriting the simplicity, code and security. (...)"
 
 
 
-â€œ
+“
 
 
 [YaST-Qt: More informative "Installation Summary" (Score: 71)](https://features.opensuse.org/305548)
@@ -1315,7 +1315,7 @@ inheriting the simplicity, code and security. (...)"
 "Installation Summary" view as zypper, esp the overall download size to expect
 and how much disk space will be freed/used after performing the operation."
 
-â€
+”
 
 
 
@@ -1328,7 +1328,7 @@ and how much disk space will be freed/used after performing the operation."
 
 
 
-â€œ
+“
 
 
 [Less scary yast conflict dialogs (Score: 62)](https://features.opensuse.org/307255)
@@ -1341,7 +1341,7 @@ The dialog asks the user to select one of usually three offered solutions for ea
 problem without giving much help. This is a cause for many complaints, and contributes
 to myths of RPM dependency hell still existing today. (...)"
 
-â€
+”
 
 
 
@@ -1385,7 +1385,7 @@ if you get interested.**
 
 
 
-â€œ
+“
 
 
 [usermod](https://features.opensuse.org/311361)
@@ -1393,7 +1393,7 @@ if you get interested.**
 
 "The version of usermod included with SUSE 11.3 does not have the -a option that is included with most other versions of this command, on other distros. Although an -A option was introduced with 11.3, which is a neater way of adding a user to a group, it would be nice to also have the -a option, to make it compatible with versions in other distros."
 
-â€
+”
 
 
 
@@ -1406,7 +1406,7 @@ if you get interested.**
 
 
 
-â€œ
+“
 
 
 [Remove pulseaudio from default installation again](https://features.opensuse.org/311362)
@@ -1414,7 +1414,7 @@ if you get interested.**
 
 "Since having pulseaudio again activated as default not one of the systems that I have installed 11.4 had a working audio system. Remove pulse from the default installation again as it does nothing but break working installations. This has been verified across multiple sound cards and setups. Don't get rid of the pulseaudio packages, just take them out of the default installation pattern."
 
-â€
+”
 
 
 
@@ -1427,7 +1427,7 @@ if you get interested.**
 
 
 
-â€œ
+“
 
 
 [Include biosdevname udev helper utility into openSUSE](https://features.opensuse.org/311364)
@@ -1444,7 +1444,7 @@ http://linux.dell.com/files/biosdevname/permalink/biosdevname-0.3.7.tar.gz.sign
 
 git://linux.dell.com/biosdevname.git "
 
-â€
+”
 
 
 
@@ -1457,7 +1457,7 @@ git://linux.dell.com/biosdevname.git "
 
 
 
-â€œ
+“
 
 
 [Include 71-biosdevname.rules to rename network interfaces based on chassis labels](https://features.opensuse.org/311365)
@@ -1473,7 +1473,7 @@ Add-in PCI cards: pci<slot>p<port>_<virtual function instance>
 
 Please refer to "Consistent Network device naming-Name network interfaces to match chassis labels" (https://features.opensuse.org/310896 )."
 
-â€
+”
 
 
 
@@ -1486,7 +1486,7 @@ Please refer to "Consistent Network device naming-Name network interfaces to mat
 
 
 
-â€œ
+“
 
 
 [Integrate biosdevname into the openSUSE installer](https://features.opensuse.org/311366)
@@ -1494,7 +1494,7 @@ Please refer to "Consistent Network device naming-Name network interfaces to mat
 
 "On a Dell PowerEdge server with multiple add-in cards, the naming of the network interfaces is non-deterministic. This results in 'eth0' not mapping to "Embedded NIC 1" as labeled on the server chassis. This issue is seen on Dell PowerEdge 10G above. This feature addresses this issue by renaming network interfaces based on their location on the system motherboard at install time. (...)"
 
-â€
+”
 
 
 
@@ -1507,7 +1507,7 @@ Please refer to "Consistent Network device naming-Name network interfaces to mat
 
 
 
-â€œ
+“
 
 
 [Add a short introduction movie to openSUSE in the welcome screen](https://features.opensuse.org/311383)
@@ -1520,7 +1520,7 @@ I suggest we add a short introductory clip, which can be activated from the welc
 
 I imagine the clip to be in non-technical language, narrated by a talker with a pleasant voice, and with light music in the background."
 
-â€
+”
 
 
 
@@ -1533,7 +1533,7 @@ I imagine the clip to be in non-technical language, narrated by a talker with a 
 
 
 
-â€œ
+“
 
 
 [RALCGM](https://features.opensuse.org/311386)
@@ -1548,7 +1548,7 @@ I imagine the clip to be in non-technical language, narrated by a talker with a 
 * Send CGM's to a printer or plotter (PostScript or HPGL)
 It runs on Unix machines (X11 needed for display)."
 
-â€
+”
 
 
 
@@ -1561,7 +1561,7 @@ It runs on Unix machines (X11 needed for display)."
 
 
 
-â€œ
+“
 
 
 [RADIANCE](https://features.opensuse.org/311389)
@@ -1569,7 +1569,7 @@ It runs on Unix machines (X11 needed for display)."
 
 "[RADIANCE](http://radsite.lbl.gov/radiance/HOME.html) is a highly accurate ray-tracing software system for UNIX computers that is licensed at no cost in source form. Radiance was developed with primary support from the U.S. Department Of Energy and additional support from the Swiss Federal Government. Copyright is held by the Regents of the University of California."
 
-â€
+”
 
 
 
@@ -1582,7 +1582,7 @@ It runs on Unix machines (X11 needed for display)."
 
 
 
-â€œ
+“
 
 
 [GhostPCL](https://features.opensuse.org/311394)
@@ -1590,7 +1590,7 @@ It runs on Unix machines (X11 needed for display)."
 
 "GhostPCL is Artifex Software's implementation of the PCL-5 and PCL-XL family of page description languages."
 
-â€
+”
 
 
 
@@ -1603,7 +1603,7 @@ It runs on Unix machines (X11 needed for display)."
 
 
 
-â€œ
+“
 
 
 [rawtorle](https://features.opensuse.org/311396)
@@ -1611,7 +1611,7 @@ It runs on Unix machines (X11 needed for display)."
 
 "Converts the kitchen sink to RLE format."
 
-â€
+”
 
 
 
@@ -1624,7 +1624,7 @@ It runs on Unix machines (X11 needed for display)."
 
 
 
-â€œ
+“
 
 
 [uniconvertor](https://features.opensuse.org/311397)
@@ -1632,7 +1632,7 @@ It runs on Unix machines (X11 needed for display)."
 
 "UniConvertor is a universal vector graphics translator. It is a command line tool which uses sK1 object model to convert one format to another."
 
-â€
+”
 
 
 
@@ -1645,7 +1645,7 @@ It runs on Unix machines (X11 needed for display)."
 
 
 
-â€œ
+“
 
 
 [GhostXPS](https://features.opensuse.org/311398)
@@ -1653,7 +1653,7 @@ It runs on Unix machines (X11 needed for display)."
 
 "GhostXPS is Artifex Software's implementation of the Microsoft XML Paper Specification (XPS) page description language. It is currently under development."
 
-â€
+”
 
 
 
@@ -1666,7 +1666,7 @@ It runs on Unix machines (X11 needed for display)."
 
 
 
-â€œ
+“
 
 
 [make braille support in installer work again](https://features.opensuse.org/311410)
@@ -1677,7 +1677,7 @@ At the moment they need a seeing person to do the install+setup for them.
 
 In earlier times, a11y in SUSE Linux was good, but at some point the braille support in the installer was no more working."
 
-â€
+”
 
 
 
@@ -1690,7 +1690,7 @@ In earlier times, a11y in SUSE Linux was good, but at some point the braille sup
 
 
 
-â€œ
+“
 
 
 [abort cleanly if install fail](https://features.opensuse.org/311414)
@@ -1699,7 +1699,7 @@ In earlier times, a11y in SUSE Linux was good, but at some point the braille sup
 "if ever the standard installation is aborted, the user go back to the very old ncurse interface.
 Shoulod simply go to an abort/rtry menu and reboot after ejecting the dvd."
 
-â€
+”
 
 
 
@@ -1775,7 +1775,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 
 
-â€œ
+“
 
 
 [Petr Mladek: LibreOffice 3.3.1 bugfix release available for openSUSE](http://lizards.opensuse.org/2011/03/01/libreoffice-3-3-1-bugfix-release-available-for-opensuse/)
@@ -1795,7 +1795,7 @@ License.](http://www.gnu.org/licenses/fdl.txt)**
 
 
 
-Iâ€™m happy to announce LibreOffice 3.3.1 bugfix release for openSUSE. The packages are
+I’m happy to announce LibreOffice 3.3.1 bugfix release for openSUSE. The packages are
 available in the Build Service [LibreOffice:Stable](http://download.opensuse.org/repositories/LibreOffice:/Stable/) project. They fix various
 crashers, usability and translation problems, see the [libreoffice-3.3.1.2 release news](http://cgit.freedesktop.org/libreoffice/build/plain/NEWS?id=libreoffice-3.3.1.2) for more details. See also some notes [about openSUSE LibreOffice
 build](http://en.opensuse.org/LibreOffice).
@@ -1806,11 +1806,11 @@ The openSUSE LO team hopes that you will be happy with this release. Though, any
 
 This version will be in openSUSE-11.4 out of box. We are going to prepare official maintenance update for openSUSE-11.2 and 11.3.
 
-There are already several fixes for the LO-3.3.2 bugfix release. You might expect 3.3.2-rc1 in the â€œ[LibreOffice:Unstable](http://download.opensuse.org/repositories/LibreOffice:/Unstable/)â€ repositories by the end of the following week.
+There are already several fixes for the LO-3.3.2 bugfix release. You might expect 3.3.2-rc1 in the “[LibreOffice:Unstable](http://download.opensuse.org/repositories/LibreOffice:/Unstable/)” repositories by the end of the following week.
 
 Most developers are already concentrated on LO-3.4 release. I hope that the first beta packages will be ready in the beginning of April.
 
-â€
+”
 
 
 
@@ -1858,7 +1858,7 @@ Most developers are already concentrated on LO-3.4 release. I hope that the firs
 
 	
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-â€“ [Localization
+– [Localization
 Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
@@ -1931,7 +1931,7 @@ Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
-â€œ
+“
 
 
 [OMG! SUSE!: Day one at
@@ -1965,7 +1965,7 @@ booth.
 
 
 
-FigureÂ 1.Â Parts of the openSUSE team at SCALE9x
+Figure 1. Parts of the openSUSE team at SCALE9x
 
 
 
@@ -1995,7 +1995,7 @@ FigureÂ 1.Â Parts of the openSUSE team at SCALE9x
   
 
 
-Outside of the expo show floor, the team FigureÂ 1, â€œParts of the openSUSE team at SCALE9xâ€ was also running
+Outside of the expo show floor, the team Figure 1, “Parts of the openSUSE team at SCALE9x” was also running
 "[openSUSE
 Day](http://www.socallinuxexpo.org/scale9x/special-events/opensuse-day)", taking the opportunity to run a few classroom-styled events on topics like:
 using YaST, building packages with the [OBS](https://build.opensuse.org/)
@@ -2020,7 +2020,7 @@ Linux world are apprehensive about the direction Ubuntu is heading in current, a
 starting to explore other options for easy-to-use and solid distros like openSUSE.
 (...)
 
-â€
+”
 
 
 
@@ -2033,7 +2033,7 @@ starting to explore other options for easy-to-use and solid distros like openSUS
 
 
 
-â€œ
+“
 
 
 [Jos
@@ -2167,7 +2167,7 @@ to write. And I have to thank Bryen again and again for the organization of this
 well as Novell for paying for it! SCALE deserves a blog of its own, which I'll do tomorrow
 or Saturday.
 
-â€
+”
 
 
 
@@ -2321,7 +2321,7 @@ or download it on [Radiotux](http://blog.radiotux.de/podcast).
 
 
 
-â€œ
+“
 
 
 [Greek openSUSE Ambassadors: openSUSE installed on Scouts Computers](http://opensuseambassadors.blogspot.com/2011/02/opensuse-installed-on-scouts-computers.html)
@@ -2388,7 +2388,7 @@ about the futures of openSUSE.
 
 
 
-â€
+”
 
 
 
@@ -2553,7 +2553,7 @@ Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailin
 
 
 
-â€œ
+“
 
 
 [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 4) - Storage](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-4-Storage-1199926.html)
@@ -2573,7 +2573,7 @@ code; in the coming weeks, further articles will discuss the kernel's architectu
 
 **Copyright:**2
 
-â€
+”
 
 
 
@@ -2586,15 +2586,15 @@ code; in the coming weeks, further articles will discuss the kernel's architectu
 
 
 
-â€œ
+“
 
 
-[Rares Aioanei: kernel weekly news â€“ 05.03.2011](http://schaiba.wordpress.com/2011/03/05/kernel-weekly-news-05-03-2011/)
+[Rares Aioanei: kernel weekly news – 05.03.2011](http://schaiba.wordpress.com/2011/03/05/kernel-weekly-news-05-03-2011/)
 
 
 Rares published the Kernel Review for this Week. Thanks for working on it :-)
 
-â€
+”
 
 
 
@@ -2662,7 +2662,7 @@ Rares published the Kernel Review for this Week. Thanks for working on it :-)
 
 
 
-â€œ
+“
 
 
 [TechRepublic/Jack Wallen: How to use Calibre to access your ebook collection online](http://www.techrepublic.com/blog/opensource/how-to-use-calibre-to-access-your-ebook-collection-online/2275)
@@ -2673,12 +2673,12 @@ allows you to access your library from a web browser? In this how-to, Jack Walle
 
 I have been in near-saturation mode with ebooks lately, due to the publishing of my own works of fiction (find them on [Amazon](http://amzn.to/hmXIQN),
 [Barnes & Noble](http://bit.ly/e8coZL), and [Smashwords](http://bit.ly/e553VF)). For many indie writers/publishers and readers of
-ebooks the challenge of managing a vast collection of works can be a bit overwhelming (thanks to the ereadersâ€™ insufficient built-in book management tools). Thankfully there
+ebooks the challenge of managing a vast collection of works can be a bit overwhelming (thanks to the ereaders’ insufficient built-in book management tools). Thankfully there
 are tools available for the PC to help you manage those collections.
 
 Naturally Linux is not left out of this mix. The [Calibre](http://calibre-ebook.com/) ebook manager is one of the best tools of the trade I have
 found for managing ebooks. And for administrators looking for ways to convert and add books, PDFs, howtos, etc. to an ereader for portable reading, Calibre is exactly
-the tool you need. Letâ€™s take a look at this tool and how you can benefit from using it. (...)
+the tool you need. Let’s take a look at this tool and how you can benefit from using it. (...)
 
 **Copyright**: 1
 
@@ -2695,7 +2695,7 @@ Because the Developer uses brand new Libs, it is just available for >= 11.4
 
 
 
-â€
+”
 
 
 
@@ -2708,7 +2708,7 @@ Because the Developer uses brand new Libs, it is just available for >= 11.4
 
 
 
-â€œ
+“
 
 
 [Jan Holesovsky: LibreOffice Findbar improvements](http://artax.karlin.mff.cuni.cz/~kendy/blog/archives/monthly/2011-03.html)
@@ -2722,7 +2722,7 @@ the document) by pressing Escape. I also made the text entry wider so that more 
 
 Enjoy! :-) - will be available in LibreOffice 3.4.
 
-â€
+”
 
 
 
@@ -2735,7 +2735,7 @@ Enjoy! :-) - will be available in LibreOffice 3.4.
 
 
 
-â€œ
+“
 
 
 [Scribbles and Snaps/Dmitri Popov: Photography and Open Source Work with Photo Metadata in digiKam](http://scribblesandsnaps.wordpress.com/2011/02/22/work-with-photo-metadata-in-digikam/)
@@ -2743,9 +2743,9 @@ Enjoy! :-) - will be available in LibreOffice 3.4.
 
 "Inside each digital photo hides metadata in the [EXIF](http://en.wikipedia.org/wiki/Exif), [IPTC](http://en.wikipedia.org/wiki/IPTC_Information_Interchange_Model), or [XMP](http://en.wikipedia.org/wiki/Extensible_Metadata_Platform) formats, and digiKam provides tools for viewing and editing this useful information.
 
-For starters, digiKamâ€™s main window features the dedicated **Metadata** sidebar which lets you view EXIF, Makernote, IPTC, and XMP metadata. You can switch between concise and full views as well as print the metadata, save them as a file, and copy them into the clipboard. (...)"
+For starters, digiKam’s main window features the dedicated **Metadata** sidebar which lets you view EXIF, Makernote, IPTC, and XMP metadata. You can switch between concise and full views as well as print the metadata, save them as a file, and copy them into the clipboard. (...)"
 
-â€
+”
 
 
 
@@ -2787,7 +2787,7 @@ For starters, digiKamâ€™s main window features the dedicated **Metadata** s
 
 
 
-â€œ
+“
 
 
 [BashShell.net/Mike: Exercise #6: Set Variables in Scripts](http://bashshell.net/utilities/exercise-6-set-variables-in-scripts/)
@@ -2798,7 +2798,7 @@ variable and it is then used later in the script. (...)
 
 **Copyright:**3
 
-â€
+”
 
 
 
@@ -2811,7 +2811,7 @@ variable and it is then used later in the script. (...)
 
 
 
-â€œ
+“
 
 
 [BashShell.net/Mike: LogParser](http://bashshell.net/script-of-the-week/log-parser/)
@@ -2823,7 +2823,7 @@ system.(...)
 
 **Copyright:**3
 
-â€
+”
 
 
 
@@ -2865,21 +2865,21 @@ system.(...)
 
 
 
-â€œ
+“
 
 
 [python4kids/Brandan Scott: A Big Jar of Pickle](http://python4kids.wordpress.com/2011/02/24/a-big-jar-of-pickles/)
 
 
-In the last tutorial we learned how to pickle our objects.  Pickling is a way of storing the object (on the computerâ€™s file system) so that it can be used later.
+In the last tutorial we learned how to pickle our objects.  Pickling is a way of storing the object (on the computer’s file system) so that it can be used later.
 This means that if we want to re use an object we can simply save it and load it when we need it, rather than re-creating it each time we want to use it.  This is very
 useful when our object is a list of questions for our trivia game.  We really only want to type the questions in once and then reload them later.
 
 Now we need to settle on a way to structure our data.  We saw in our earlier tutorial that each question was a list, and that the list itself had a certain
 structure.  We also need to think about how a number of questions will be stored.  We will use a list to do that as well!  In this case we will have a list of questions.
-Each of the elements in the list will itself be a list. Letâ€™s build one. First we make an empty list to store all the questions: (...)
+Each of the elements in the list will itself be a list. Let’s build one. First we make an empty list to store all the questions: (...)
 
-â€
+”
 
 
 
@@ -2921,7 +2921,7 @@ Each of the elements in the list will itself be a list. Letâ€™s build one. 
 
 
 
-â€œ
+“
 
 
 [IBM developerWorks/Roderick W. Smith: Learn Linux, 302 (Mixed environments): Samba roles](http://www.ibm.com/developerworks/linux/library/l-lpic3-310-2/index.html)
@@ -2929,7 +2929,7 @@ Each of the elements in the list will itself be a list. Letâ€™s build one. 
 
 "Samba isn't a single program; rather, it's a series of interrelated servers and utilities, each of which has its own specific purpose. Understanding the differences between these servers and utilities will help you manage your Samba system. Furthermore, Samba implements a number of different security models, which you must understand to properly integrate Samba into an existing network or to set up a new network with Samba servers at its core. (...)"
 
-â€
+”
 
 
 
@@ -2974,7 +2974,7 @@ Each of the elements in the list will itself be a list. Letâ€™s build one. 
 
 
 
-â€œ
+“
 
 
 [OMG!
@@ -3031,7 +3031,7 @@ before
 
 For all the gritty technical details, the folks over at [kernelnewbies.org](http://kernelnewbies.org/) put up [this handy summary](http://kernelnewbies.org/LinuxChanges) of changes.
 
-â€
+”
 
 
 
@@ -3044,7 +3044,7 @@ For all the gritty technical details, the folks over at [kernelnewbies.org](http
 
 
 
-â€œ
+“
 
 
 [OMG!
@@ -3093,7 +3093,7 @@ LibreOffice for 11.3!
 
 [Install LibreOffice 3.3.1 for 11.3](http://bit.ly/hML0Pd)
 
-â€
+”
 
 
 
@@ -3106,7 +3106,7 @@ LibreOffice for 11.3!
 
 
 
-â€œ
+“
 
 
 [Jos
@@ -3149,7 +3149,7 @@ be vocal about that!
 PS will blog on the Marketing Meeting we had last week soonish, need to catch up to some
 urgent things first... Especially sleep!
 
-â€
+”
 
 
 
@@ -3162,7 +3162,7 @@ urgent things first... Especially sleep!
 
 
 
-â€œ
+“
 
 
 [Gabriel Burt: PDF Mod
@@ -3238,7 +3238,7 @@ As a reminder, PDF Mod can:
 
 
 
-â€
+”
 
 
 
@@ -3251,7 +3251,7 @@ As a reminder, PDF Mod can:
 
 
 
-â€œ
+“
 
 
 [Fridrich Strba: opensuse-mingw mailing list](http://fridrich.blogspot.com/2011/03/opensuse-mingw-mailing-list.html)
@@ -3267,7 +3267,7 @@ got a sparkling new mailing list at [lists.opensuse.org](http://lists.opensuse.o
 `<[opensuse-mingw+subscribe@opensuse.org](mailto:opensuse-mingw+subscribe@opensuse.org)>` and enjoy all the intelligent and
 edifying talk we are having there.
 
-â€
+”
 
 
 
@@ -3280,7 +3280,7 @@ edifying talk we are having there.
 
 
 
-â€œ
+“
 
 
 [OMG! SUSE!/rtyler: Ten Days of openSUSE, Day Four: GRUB2](http://feedproxy.google.com/~r/omgsuse/~3/EF0zvH9M9wg/ten-days-opensuse-day-four-grub2)
@@ -3357,7 +3357,7 @@ start to finish.
 If you're a dual-booter, be sure to grab openSUSE 11.4 on **March
 10th** and enjoy the fanciful new GRUB :)
 
-â€
+”
 
 
 
@@ -3370,7 +3370,7 @@ If you're a dual-booter, be sure to grab openSUSE 11.4 on **March
 
 
 
-â€œ
+“
 
 
 [Uwe
@@ -3383,7 +3383,7 @@ texts in the press and from Novell but I did not see any pictures. People love p
 here they come (most screenshots about autoinstallation - I guess you know why ;)
 ).(...)
 
-â€
+”
 
 
 
@@ -3396,7 +3396,7 @@ here they come (most screenshots about autoinstallation - I guess you know why ;
 
 
 
-â€œ
+“
 
 
 [Andrew Wafaa: Bug Tracking With The Help Of An Entomologist](http://www.wafaa.eu/entry/bug-tracking-with-the-help-of-an-entomologist-1-58.html)
@@ -3412,7 +3412,7 @@ VI](http://news.opensuse.org/2011/01/19/hackweek-vi/) came along! Luckily [Matt
 Barringer](http://en.opensuse.org/User:Mbarringer) (from those crazy cooks in the [SUSE
 Studio](http://susestudio.com/) team) heard my call. He picked up his code machine gun and blasted away \o/
 
-A few days after HackWeek VI ended he enlightened me to his new masterpiece â€“ [Entomologist](http://entomologist.sourceforge.net/). So what is it? As you may
+A few days after HackWeek VI ended he enlightened me to his new masterpiece – [Entomologist](http://entomologist.sourceforge.net/). So what is it? As you may
 have guessed, it is a desktop bug tracker client. It's cutely written in Qt, isn't final yet
 (is any software?) but works fairly well. Why only fairly well? Simples, it only supports
 Bugzilla at the minute, but there are plans afoot to add others (please see the [ToDo](http://entomologist.sourceforge.net/#todo) list). Once more bug backends
@@ -3462,7 +3462,7 @@ difficult.
 So if you want to give it a whirl, then head over to the homepage and choose your flavour
 of openSUSE, Fedora, Mandriva, Ubuntu or Debian (thanks [OBS](http://en.opensuse.org/Portal:Build_Service)) (...)
 
-â€
+”
 
 
 
@@ -3475,7 +3475,7 @@ of openSUSE, Fedora, Mandriva, Ubuntu or Debian (thanks [OBS](http://en.opensuse
 
 
 
-â€œ
+“
 
 
 [Jos Poortvliet: criticism towards GNOME Shell](http://nowwhatthe.blogspot.com/2011/03/criticism-towards-gnome-shell.html)
@@ -3540,7 +3540,7 @@ look forward to the final release of GNOME 3 and I'm happy that we (openSUSE/Nov
 to press GNOME 3/Shell LiveDVDs as soon as the release of GNOME 3 is out. Yes, we'll also make
 KDE ones, 4.6 on openSUSE 11.4 really rocks and deserves it ;-)
 
-â€
+”
 
 
 
@@ -3582,7 +3582,7 @@ KDE ones, 4.6 on openSUSE 11.4 really rocks and deserves it ;-)
 
 
 
-â€œ
+“
 
 
 [
@@ -3592,7 +3592,7 @@ MPlayer + VDPAU + Divx = Fail
 
 Here's a thread where the thread starter has an issue with playing some divx movies using Mplayer en NVIDIA's VDPAU technology. A conversation to discover where the cause of this problem might be hidden starts, different NVIDIA cards give different results, if you've seen this issue on your system, this is the stuff you should read.
 
-â€
+”
 
 
 
@@ -3605,7 +3605,7 @@ Here's a thread where the thread starter has an issue with playing some divx mov
 
 
 
-â€œ
+“
 
 
 [
@@ -3615,7 +3615,7 @@ How can I transfer my Opensuse installation to another computer?
 
 This one starts with a quite clear statement of what the user wants to achieve. He's added a lot to the default install and is looking for a way to get the same install working in a virtual machine for some friends. After reading this thread, you will know there's lots of ways, not only to virtual machines, also to "real" ones.
 
-â€
+”
 
 
 
@@ -3628,7 +3628,7 @@ This one starts with a quite clear statement of what the user wants to achieve. 
 
 
 
-â€œ
+“
 
 
 [
@@ -3638,7 +3638,7 @@ Creating multiple user logins assigned to multiple groups at one time
 
 When setting up a new system for a lot of users, all the users should be added to the system to have access to it. And they may need to belong to multiple groups. If all this information is available in a text file, could they be added all at once? This is linux, so yes. Interesting read, with a lot of nice examples of what shell scripts can do for you.
 
-â€
+”
 
 
 
@@ -3651,7 +3651,7 @@ When setting up a new system for a lot of users, all the users should be added t
 
 
 
-â€œ
+“
 
 
 openSUSE 11.4 is coming: some collected threads
@@ -3669,7 +3669,7 @@ With the release of openSUSE 11.4 next week, there's a lot of activity from user
 [
 ](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/454652-post-your-experience-11-4-rc2-here.html?highlight=rc2)
 
-â€
+”
 
 
 
@@ -3737,7 +3737,7 @@ With the release of openSUSE 11.4 next week, there's a lot of activity from user
 
 
 
-â€œ
+“
 
 
 [KDE News/Cornelius Schumacher: Qt and the Future of KDE](http://dot.kde.org/2011/03/03/qt-and-future-kde)
@@ -3787,7 +3787,7 @@ technologies, we believe Qt is the compelling framework for cross-platform softw
 development. There has never been a better time to shape the future of computing. [Join us](http://www.kde.org/community/getinvolved/) and make that future a
 future that is free.
 
-â€
+”
 
 
 
@@ -3829,7 +3829,7 @@ future that is free.
 
 
 
-â€œ
+“
 
 
 [h-online/Chris von Eitzen: X.org completes X Server 1.10](http://www.h-online.com/open/news/item/X-org-completes-X-Server-1-10-1199226.html)
@@ -3843,7 +3843,7 @@ rendering contexts. (...)
 
 **Copyright:**2
 
-â€
+”
 
 
 
@@ -3856,7 +3856,7 @@ rendering contexts. (...)
 
 
 
-â€œ
+“
 
 
 [ServerWatch/Sean Michael Kerner: IBM DB2, Novell Partner for Linux Software Appliances](http://www.serverwatch.com/news/article.php/3926526/IBM-DB2-Novell-Partner-for-Linux-Software-Appliances.htm)
@@ -3870,7 +3870,7 @@ also now can more easily build appliances with DB2 with new integrated templates
 
 **Copyright**: 4
 
-â€
+”
 
 
 
@@ -3912,7 +3912,7 @@ also now can more easily build appliances with DB2 with new integrated templates
 
 
 
-â€œ
+“
 
 
 [Linux.com/Jennifer Cloer: Ask the Experts: How to Get Involved in the Community](http://www.linux.com/news/featured-blogs/185:jennifer-cloer/414794:-ask-the-experts-how-to-get-involved-in-the-community)
@@ -3924,7 +3924,7 @@ ways to contribute and/or participate in the Linux and open source software comm
 
 **Copyright**: 5
 
-â€
+”
 
 
 
@@ -3981,7 +3981,7 @@ We thank for this Issue:
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
 	
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
 	
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -4104,19 +4104,19 @@ We thank for this Issue:
 
 
 	
-  1. Â© 2011 CBS Interactive. All rights reserved.
+  1. © 2011 CBS Interactive. All rights reserved.
 
 	
-  2. Â© 2011 Heise Media UK Ltd.
+  2. © 2011 Heise Media UK Ltd.
 
 	
-  3. Â© 2010 CyberMontana Inc. All Rights Reserved
+  3. © 2010 CyberMontana Inc. All Rights Reserved
 
 	
-  4. Â© 2011 QuinStreet Inc. All Rights Reserved.
+  4. © 2011 QuinStreet Inc. All Rights Reserved.
 
 	
-  5. Â© 2011 Linux.com. All Rights Reserved. Linux.com.
+  5. © 2011 Linux.com. All Rights Reserved. Linux.com.
 
 
 
@@ -4193,10 +4193,10 @@ We thank for this Issue:
 
 
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
 Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
 
 

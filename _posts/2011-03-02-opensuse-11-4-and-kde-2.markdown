@@ -26,7 +26,7 @@ For those with less screen estate to spend, the Plasma Netbook Workspace offers 
 
 
 [![digikam picasaweb](/wp-content/uploads/2011/03/digikam-picasaweb-e1299039264422-150x150.png)](http://news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/digikam-picasaweb/)
-The KDE Applications 4.6 release introduces improvements like a new faceted search as well as non-indexed files search and support for git repositories in Dolphin, the file manager; social sharing of photos to sites like Flickr, Facebook and Picasaweb are now easy to reach from Gwenview, Digikam and KSnapshot. Â Developers will appreciate Kate's new plugins for working with SQL and with GDB.
+The KDE Applications 4.6 release introduces improvements like a new faceted search as well as non-indexed files search and support for git repositories in Dolphin, the file manager; social sharing of photos to sites like Flickr, Facebook and Picasaweb are now easy to reach from Gwenview, Digikam and KSnapshot.  Developers will appreciate Kate's new plugins for working with SQL and with GDB.
 
 KDE Games 4.6 marks the return of Klickety, also replacing KSame. Thanks to the KGameRenderer framework, KDE games take on a more consistent look and feel and perform better. Palapeli makes creating jigsaw puzzles out of your own images easier and Kajongg became easier and smarter.
 [![the latest KDEGames](/wp-content/uploads/2011/03/kdegames.png)](http://news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/kdegames/)
@@ -61,6 +61,6 @@ The toolkit KDE develops its applications and framework upon is Qt, a Nokia prod
 
 
 [![LibreOffice on 11.4](/wp-content/uploads/2011/03/snapshot27.png)](http://news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/snapshot27/)
-With the latest KDE Plasma Netbook and Desktop Workspaces and the many updated KDE applications as well as the latest development tools and libraries, openSUSE 11.4 will offer a stellar experience for desktop users. openSUSE is the home of many KDE developers and contributors, which shows in the polished KDE products and the latest KDE updates which we make available for all supported openSUSE releases.Â Of course openSUSE ships the latest GNOME, XFCE and LXDE for those who prefer other desktops and we ship many different applications, all of which work perfectly well with the Plasma Workspaces as well as other desktops. Stay tuned for an article about one of those applications, LibreOffice, coming soon!
+With the latest KDE Plasma Netbook and Desktop Workspaces and the many updated KDE applications as well as the latest development tools and libraries, openSUSE 11.4 will offer a stellar experience for desktop users. openSUSE is the home of many KDE developers and contributors, which shows in the polished KDE products and the latest KDE updates which we make available for all supported openSUSE releases. Of course openSUSE ships the latest GNOME, XFCE and LXDE for those who prefer other desktops and we ship many different applications, all of which work perfectly well with the Plasma Workspaces as well as other desktops. Stay tuned for an article about one of those applications, LibreOffice, coming soon!
 
 _Article contributed by Manu Gupta._

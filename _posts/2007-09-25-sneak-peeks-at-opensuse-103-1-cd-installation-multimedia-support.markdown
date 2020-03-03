@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-openSUSE 10.3 has seen a lot of changes with the media selection; the most prominent one being the new 1-CD installation for KDE, and 1-CD installation for GNOME. Multimedia support in the distribution has also been improved, with MP3 support out-of-the-box for Banshee and [Amarok](http://opensuse.org/Amarok). Today we bring you a special double-bill covering these two stories, and we'll be talking to [Michael LÃ¶ffler](http://en.opensuse.org/User:Sprudel24), the Product Manager of openSUSE, to give us a little more insight. 
+openSUSE 10.3 has seen a lot of changes with the media selection; the most prominent one being the new 1-CD installation for KDE, and 1-CD installation for GNOME. Multimedia support in the distribution has also been improved, with MP3 support out-of-the-box for Banshee and [Amarok](http://opensuse.org/Amarok). Today we bring you a special double-bill covering these two stories, and we'll be talking to [Michael Löffler](http://en.opensuse.org/User:Sprudel24), the Product Manager of openSUSE, to give us a little more insight. 
 
 <!-- more -->
 
@@ -142,7 +142,7 @@ You can test and try out all of this stuff (with the exception of 1-click instal
 
 
 
-## Talk with Michael LÃ¶ffler
+## Talk with Michael Löffler
 
 
 I caught up with Michael to learn a little more about the background with these things.

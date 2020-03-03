@@ -18,7 +18,7 @@ tags:
 
 The time has come again for openSUSE Members to vote for new members to the Board.
 
-Stephen Shaw (decriptor) and Bryen Yunashko (suseROCKS) have completed their tenure on the Board, and their seats are up for election.  There is also a new seat available to be occupied by a non-Novell member.  Henne Vogelsang (henne) and Pascal Bleser (yaloki) have another year to complete and will remain, Michael LÃ¶ffler (michl) as chairman will remain as well.  This means that as of this year's election the openSUSE Board will be made up of equal numbers of Novell and non-Novell employees, 2 seats+Chairperson and 3 seats respectively.  Candidates for this election will be voted in for a two (2) year term, ensuring that there is continuity within the Board.
+Stephen Shaw (decriptor) and Bryen Yunashko (suseROCKS) have completed their tenure on the Board, and their seats are up for election.  There is also a new seat available to be occupied by a non-Novell member.  Henne Vogelsang (henne) and Pascal Bleser (yaloki) have another year to complete and will remain, Michael Löffler (michl) as chairman will remain as well.  This means that as of this year's election the openSUSE Board will be made up of equal numbers of Novell and non-Novell employees, 2 seats+Chairperson and 3 seats respectively.  Candidates for this election will be voted in for a two (2) year term, ensuring that there is continuity within the Board.
 
 The election is broken into three phases similar to last year:
 

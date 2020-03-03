@@ -13,6 +13,6 @@ categories:
 
 Thanks to the Switzerland Novell colleagues openSUSE is again on the biggest computer event in Switzerland. I will be there on a openSUSE demopoint at the Novell booth, showing the latest beta version. If you don't belive that the package management is superfast now or want to see the new pretty installation without testing it yourself, here you have the chance ... 
 
-If you are in ZÃ¼rich, don't miss it!
+If you are in Zürich, don't miss it!
 
 More information on the webpage: [German](http://www.orbit-iex.ch/htm/willkommen.htm), [English](http://www.orbit-iex.ch/htm/e_willkommen.htm)

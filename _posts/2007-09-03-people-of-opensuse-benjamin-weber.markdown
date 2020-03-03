@@ -360,7 +360,7 @@ c++ development would probably be the most useful for openSUSE right now, I know
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 Organize a lan party.
@@ -430,7 +430,7 @@ In England we have holidays rather than vacations, and I enjoy mountain walking 
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 It's just about enough to buy a house here, so I would probably do that.
@@ -440,7 +440,7 @@ It's just about enough to buy a house here, so I would probably do that.
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 24th century (Star Trek TNG).
@@ -450,7 +450,7 @@ It's just about enough to buy a house here, so I would probably do that.
 
 
 
-#### There's a thunderstorm outside â€“ do you turn off your computer?
+#### There's a thunderstorm outside – do you turn off your computer?
 
 
 No.

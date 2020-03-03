@@ -32,7 +32,7 @@ We gathered all our _promo dvds_, _posters_, _logos_,_ badges_, _stickers_ and o
 ## One day before the conference... Are they crazy?
 
 
-No we aren't. We arrived at Athens on Friday because we held a wonderful **Release party** at [hackerspace.gr](http://hackerspace.gr/wiki/OpenSUSE_12.3_-_Release_Party) for our new release! Everyone was there! New people came to meet us and share their enthusiasm about the new release! Of course beers and our delicious must have cakeÂ where there too!
+No we aren't. We arrived at Athens on Friday because we held a wonderful **Release party** at [hackerspace.gr](http://hackerspace.gr/wiki/OpenSUSE_12.3_-_Release_Party) for our new release! Everyone was there! New people came to meet us and share their enthusiasm about the new release! Of course beers and our delicious must have cake where there too!
 
 We had a lot of fun, met new openSUSE folk and people we invited to join us at our booth at the Conference! More photos [here](https://plus.google.com/photos/103678917701749097222/albums/5868999996871504817)!
 
@@ -40,7 +40,7 @@ We had a lot of fun, met new openSUSE folk and people we invited to join us at o
 ## Time for some serious work to be done!
 
 
-After the long night and a very successful release party the next morning we headed to the building where the conference was held. We arrived early in the morning and started preparing our booth! Everything was there, stickers, dvds, posters, badges, promo community and conference leaflets and a monitor connected with a** Raspberry Pi** â€œplaying till deathâ€ the promo video for our conference! It's true that we had the richest in material booth than any of the other communities where there.
+After the long night and a very successful release party the next morning we headed to the building where the conference was held. We arrived early in the morning and started preparing our booth! Everything was there, stickers, dvds, posters, badges, promo community and conference leaflets and a monitor connected with a** Raspberry Pi** “playing till death” the promo video for our conference! It's true that we had the richest in material booth than any of the other communities where there.
 
 [![Booth @Fosscomm 2013](//news.opensuse.org/wp-content/uploads/2013/04/DSC_0089.jpg)](//news.opensuse.org/wp-content/uploads/2013/04/DSC_0089.jpg)
 
@@ -48,7 +48,7 @@ After the long night and a very successful release party the next morning we hea
 ## Spreading the word on openSUSE 12.3 and the openSUSE technology!
 
 
-Presentations started with â€œDeveloping E17 on openSUSE 12.3â€ by Stathis Iosifidis and Alex P. Natsios (aka Drakevr) which attracted lots of technical folk. After that it was time for _â€œWhy openSUSE 12.3â€_ where Stathis Iosifidis presented our new release and all of its _â€œunder the hoodâ€_ technologies. People where excited with so many questions about our new stuff that the presentation ran out of time! At that point, questions had to overflow in the direction of the _â€œbooth teamâ€_, which were of course ready for action! Most questions were answered, promodvds where gone like golden cookies and we hope to get their feedback by encouraging them to communicate with us by giving them our community leaflets!
+Presentations started with “Developing E17 on openSUSE 12.3” by Stathis Iosifidis and Alex P. Natsios (aka Drakevr) which attracted lots of technical folk. After that it was time for _“Why openSUSE 12.3”_ where Stathis Iosifidis presented our new release and all of its _“under the hood”_ technologies. People where excited with so many questions about our new stuff that the presentation ran out of time! At that point, questions had to overflow in the direction of the _“booth team”_, which were of course ready for action! Most questions were answered, promodvds where gone like golden cookies and we hope to get their feedback by encouraging them to communicate with us by giving them our community leaflets!
 
 Last but not least Angelos Tzotsos (aka kalxas) represented the openSUSE community successfully in a _Communities Roundtable_.
 

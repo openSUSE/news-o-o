@@ -28,7 +28,7 @@ tags:
   * **The Geek Stuff/Sasikala: Unix Sed  Tutorial: 6 Examples for Sed Branching Operation**
 
 	
-  * **Ben Kevan: Blogilo â€“ The Blog Gigolo  â€“ KDE 4.4**
+  * **Ben Kevan: Blogilo – The Blog Gigolo  – KDE 4.4**
 
 	
   * **openSUSE Forums: X Not Starting  (11.2)**

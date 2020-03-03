@@ -34,7 +34,7 @@ To ensure continued Power and Linux compatibility going forward, IBM and SUSE re
 
 
 	
-  * 2 âœ•Â 3.3GHz POWER7 processors (16 cores)
+  * 2 ✕ 3.3GHz POWER7 processors (16 cores)
 
 	
   * 64GB RAM

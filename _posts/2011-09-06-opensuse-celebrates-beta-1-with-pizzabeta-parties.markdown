@@ -30,9 +30,9 @@ The latest openSUSE testing release can always be found [on the openSUSE downloa
 ## BetaPizza Party
 
 
-Our fellow geeko Bernhard Wiedemann has decided to organize a Beta Pizza Party in NÃ¼rnberg on the 29th of September from five to six PM. The goal of this Pizza-loaded event is to get our brand new 12.1 Beta onto as many laptops as possible and find and fix as many bugs as we can. Obviously, [helping maintainers with fixing bugs](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory) by analyzing the problem, finding the cause or helping with [cleaning up and removing duplicates in openFate](http://en.opensuse.org/openSUSE:Openfate_screening) are also pretty darn important. Now let's see what a Beta Pizza Party is, exactly!
+Our fellow geeko Bernhard Wiedemann has decided to organize a Beta Pizza Party in Nürnberg on the 29th of September from five to six PM. The goal of this Pizza-loaded event is to get our brand new 12.1 Beta onto as many laptops as possible and find and fix as many bugs as we can. Obviously, [helping maintainers with fixing bugs](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory) by analyzing the problem, finding the cause or helping with [cleaning up and removing duplicates in openFate](http://en.opensuse.org/openSUSE:Openfate_screening) are also pretty darn important. Now let's see what a Beta Pizza Party is, exactly!
 
-Aside from NÃ¼remberg, a number of SUSE/Novell/Attachmate offices around the world will organize BetaPizza Parties and they will provide some free pizza. Find a list of locations [here](http://en.opensuse.org/openSUSE:BetaPizzaParty) and note that more offices are adding themselves there so keep an eye on that page!
+Aside from Nüremberg, a number of SUSE/Novell/Attachmate offices around the world will organize BetaPizza Parties and they will provide some free pizza. Find a list of locations [here](http://en.opensuse.org/openSUSE:BetaPizzaParty) and note that more offices are adding themselves there so keep an eye on that page!
 
 [![Pizza Hut](http://farm5.static.flickr.com/4053/4225166405_bb5ab44c29_m.jpg)](http://www.flickr.com/photos/ferret111/4225166405/)
 

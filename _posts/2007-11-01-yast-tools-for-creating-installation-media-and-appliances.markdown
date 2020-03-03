@@ -52,7 +52,7 @@ So, it's much better if we choose an example how the things work together. Let's
 To do this, there are in principle three YaST tools we can use:
 
 	
-  1. the easiest way is to use the Ã¼ber-tool, called YaST product creator
+  1. the easiest way is to use the über-tool, called YaST product creator
 
 	
   2. create just the add-on product using YaST add-on creator
@@ -102,11 +102,11 @@ A user chooses the repositories to use, the kind of the resulting image and wher
 
 [![10000201000003280000027c64c80310.png](/wp-content/uploads/2007/10/10000201000003280000027c64c80310.png)](/wp-content/uploads/2007/10/10000201000003280000027c64c80310.png)
 
-Then, a user just needs to adapt the KIWI parameters to suit the needs and just click â€žFinishâ€œ to generate the image:
+Then, a user just needs to adapt the KIWI parameters to suit the needs and just click „Finish“ to generate the image:
 
 [![10000201000002c8000002d8150d9690.png](/wp-content/uploads/2007/10/10000201000002c8000002d8150d9690.png)](/wp-content/uploads/2007/10/10000201000002c8000002d8150d9690.png)
 
-As a note from JiÅ™Ã­ Suchomel, the primary developer, there is a enhanced version in the works to deliver e.g. management of the profiles and more. When ready, the version should be available via BuildService.
+As a note from Jiří Suchomel, the primary developer, there is a enhanced version in the works to deliver e.g. management of the profiles and more. When ready, the version should be available via BuildService.
 
 
 ## YaST2 Product Creator
@@ -129,11 +129,11 @@ The primary purpose of this tool is to create a new, completely installable dist
   * create installation medias (network, DVD)
 
 
-As you can see, the tool provides also way to invoke the add-on creator tool (â€žCreate Newâ€œ button)â€¦
+As you can see, the tool provides also way to invoke the add-on creator tool („Create New“ button)…
 
 [![10000201000003280000027c8898dfc6.png](/wp-content/uploads/2007/10/10000201000003280000027c8898dfc6.png)](/wp-content/uploads/2007/10/10000201000003280000027c8898dfc6.png)
 
-â€¦ as well as generating a resulting image using KIWI â€¦
+… as well as generating a resulting image using KIWI …
 
 [![10000201000003280000027ce566fc82.png](/wp-content/uploads/2007/10/10000201000003280000027ce566fc82.png)](/wp-content/uploads/2007/10/10000201000003280000027ce566fc82.png)
 

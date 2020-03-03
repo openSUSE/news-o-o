@@ -157,7 +157,7 @@ The openSUSE KIWI Image System provides a complete operating system image soluti
   * Build a hard disk image for preloading onto hardware.
 
 	
-  * Build a new openSUSE project likeÂ [openSUSE Medical](https://en.opensuse.org/Portal:Medical)
+  * Build a new openSUSE project like [openSUSE Medical](https://en.opensuse.org/Portal:Medical)
 
 	
   * and much more ...
@@ -171,7 +171,7 @@ Of course many of you maybe already be familiar with the famous [SUSE Studio](ht
 #### Open Build Service (a.k.a OBS)
 
 
-The Open Build Service is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures. It provides all the tools to work collaboratively and harness the power of the open source development model.Â  You can set fine grained access rights, branch code, send merge requests and review submissions. All that of courseÂ under the GNU General Public License (GPL).Â Itâ€™s available for you as source, packages and as easily deployable appliance. You are free to use, fix, extend and re-useÂ [the code.](https://github.com/openSUSE/open-build-service)
+The Open Build Service is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures. It provides all the tools to work collaboratively and harness the power of the open source development model.  You can set fine grained access rights, branch code, send merge requests and review submissions. All that of course under the GNU General Public License (GPL). It’s available for you as source, packages and as easily deployable appliance. You are free to use, fix, extend and re-use [the code.](https://github.com/openSUSE/open-build-service)
 
 
 ## The differences

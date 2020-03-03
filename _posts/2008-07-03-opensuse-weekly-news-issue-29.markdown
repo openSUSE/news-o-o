@@ -24,7 +24,7 @@ tags:
 
 Issue #29 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/29)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -35,7 +35,7 @@ In this weekâ€™s issue:
   * Novell Client for Linux Public Beta for openSUSE 10.3
 
 	
-  * People of openSUSE: Jan-Simon MÃ¶ller 
+  * People of openSUSE: Jan-Simon Möller 
 
 	
   * John Anderson: Find duplicate files by content not name

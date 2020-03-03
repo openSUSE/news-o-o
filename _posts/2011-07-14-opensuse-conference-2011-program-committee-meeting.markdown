@@ -12,4 +12,4 @@ wordpress_id: 9726
 
 The osc11 Program Committee will discuss how to evaluate the talk proposals.
 
-Meeting is on freenode IRC in theÂ  #opensuse-project channel.
+Meeting is on freenode IRC in the  #opensuse-project channel.

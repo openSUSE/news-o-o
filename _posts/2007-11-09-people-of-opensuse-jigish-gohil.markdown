@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-We caught up with Jigish Gohil - a Compiz Fusion developer, openSUSE packager, and also a true openSUSE evangelist, for one more â€˜People of openSUSEâ€™ interview.
+We caught up with Jigish Gohil - a Compiz Fusion developer, openSUSE packager, and also a true openSUSE evangelist, for one more ‘People of openSUSE’ interview.
 
 <!-- more -->
 <table border="0" >
@@ -312,7 +312,7 @@ Any programming skills.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Happens all the time here :) . Go away for a week enjoying all the other good things in life.
@@ -382,7 +382,7 @@ At the beach :-)
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Open a research center where people would work on making everyone's life better and an art center where artists from all over the world can come and work on whatever that interest them. Both the places would be by cleanest piece of beach that budget allows. India is not very expensive.
@@ -392,7 +392,7 @@ Open a research center where people would work on making everyone's life better 
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Hope it is time and space both. I'd keep traveling all the time, it would difficult to find me in one time, now is the best time to meet me.
@@ -402,7 +402,7 @@ Hope it is time and space both. I'd keep traveling all the time, it would diffic
 
 
 
-#### There's a thunderstorm outside Â¯ do you turn off your computer?
+#### There's a thunderstorm outside ¯ do you turn off your computer?
 
 
 We have power failures long before thunderstorms start happening, so most of the time we do not have much choice in the matter. If by some fluke power doesn't get cut, no.

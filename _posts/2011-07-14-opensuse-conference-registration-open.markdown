@@ -16,7 +16,7 @@ tags:
 
 [![rwx3 logo](/wp-content/uploads/2011/07/rwx3b.png)](http://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/rwx3b/)
 
-The organization team is excited to announce the registration for the openSUSE Conference, from September 11 to 14 in NÃ¼rnberg, is now open. Head over to [cur registration form](http://conference.opensuse.org/indico/confRegistrationFormDisplay.py?confId=2) and register to help us plan for a great event.
+The organization team is excited to announce the registration for the openSUSE Conference, from September 11 to 14 in Nürnberg, is now open. Head over to [cur registration form](http://conference.opensuse.org/indico/confRegistrationFormDisplay.py?confId=2) and register to help us plan for a great event.
 
 It is time to start preparing your trip to Nuremberg!
 
@@ -58,7 +58,7 @@ Registering makes sure there's a badge for you at the conference, you won't have
 
 Please note that for the registration, you don't have to create an account. And you will have to book a hotel yourself, see [this page](http://en.opensuse.org/openSUSE:Conference_hotels)!
 
-Last but not least, there is an option between [two different tickets](http://en.opensuse.org/openSUSE:Professional_conf_ticket). Entrance is free for all but those who want to support the conference and can afford it can buy a professional ticket. For $350 or â‚¬250 you get, besides access to the conference, a networking dinner with the speakers and other professional ticket holders as well as a session with SUSE Product Management.
+Last but not least, there is an option between [two different tickets](http://en.opensuse.org/openSUSE:Professional_conf_ticket). Entrance is free for all but those who want to support the conference and can afford it can buy a professional ticket. For $350 or �250 you get, besides access to the conference, a networking dinner with the speakers and other professional ticket holders as well as a session with SUSE Product Management.
 
 
 ## Helping Out

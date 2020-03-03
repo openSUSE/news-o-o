@@ -11,7 +11,7 @@ categories:
 - Build Service
 ---
 
-Michael SchrÃ¶der put some effort into supporting a new way of doing a branch and merge of a package with openSUSE Build Service (OBS). This is a new feature of OBS 1.7 release and is active now on [build.opensuse.org](http://build.opensuse.org) by default. This new way is almost the same way as subversion or git are working.
+Michael Schröder put some effort into supporting a new way of doing a branch and merge of a package with openSUSE Build Service (OBS). This is a new feature of OBS 1.7 release and is active now on [build.opensuse.org](http://build.opensuse.org) by default. This new way is almost the same way as subversion or git are working.
 
 The former branch command created just a "_link" file and stored changes beside in a patch file.
 

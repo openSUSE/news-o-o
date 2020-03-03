@@ -35,6 +35,6 @@ We have to take steps to ensure we don't create a gap between the quickly develo
 ## We'll be ready
 
 
-The [openSUSE sysadmin](http://en.opensuse.org/openSUSE:Services_team) team is working hard to bring IPv6 services up. They started a few weeks ago and plan to be ready on June 8th, the World IPv6 day. On that day, all external servers will be reachable via both IPv4 and IPv6. This includes our [wiki](http://en.opensuse.org/Main_Page), [news](http://news.opensuse.org),Â  [documentation](http://doc.opensuse.org) and of course [OBS](http://openbuildservice.org).
+The [openSUSE sysadmin](http://en.opensuse.org/openSUSE:Services_team) team is working hard to bring IPv6 services up. They started a few weeks ago and plan to be ready on June 8th, the World IPv6 day. On that day, all external servers will be reachable via both IPv4 and IPv6. This includes our [wiki](http://en.opensuse.org/Main_Page), [news](http://news.opensuse.org),  [documentation](http://doc.opensuse.org) and of course [OBS](http://openbuildservice.org).
 
 If you want to help out, there are a few things you can do. First of all, you can check the [participants dashboard](http://isoc.org/wp/worldipv6day/participants-dashboard/) to see how we are doing. Furthermore, you can [check if you and your provider are IPv6 ready](http://test-ipv6.com/) and if you are, visit our servers and see for yourself!

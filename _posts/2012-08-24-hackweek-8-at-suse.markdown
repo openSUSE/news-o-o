@@ -106,10 +106,10 @@ A number of the hackweek participants blogged about their endeavors over the las
   * Uwe Gansert [worked on making it easier to manage and provision new systems with SUSE Manager](http://suse.gansert.net/?p=542). Among other things, this works by creating a basic PXE image which just registers the machine & its hardware profile with SUSE Manager.
 
 
-  * [FrÃ©dÃ©ric Crozat worked on dracut](http://blog.crozat.net/2012/07/my-hackweek8-project-dracut.html), a future replacement for the three mkinitrd implementations we have in openSUSE. He got the package cleaned up, some features put upstream and fixed integration bugs in openSUSE.
+  * [Frédéric Crozat worked on dracut](http://blog.crozat.net/2012/07/my-hackweek8-project-dracut.html), a future replacement for the three mkinitrd implementations we have in openSUSE. He got the package cleaned up, some features put upstream and fixed integration bugs in openSUSE.
 
 
-  * Michal ÄŒihaÅ™ used hackweek to get [weblate](http://weblate.org/) to a 1.2 release with new features and much improved stability and performance.
+  * Michal Ìihař used hackweek to get [weblate](http://weblate.org/) to a 1.2 release with new features and much improved stability and performance.
 
 
   * Michal Vyskocil worked on [optimizing boot time of openSUSE](http://lizards.opensuse.org/2012/07/31/optimizing-a-boot-time-aka-2-second-boot-part-2/) and got a few changes to speed things up in openSUSE Factory.

@@ -136,7 +136,7 @@ follow this as much as I can even now
 
 I was born in France January 1946. My mother was home wife, my father
 was well know in the photographic world as inventor, specially for the
-"verre dÃ©poli tÃ©lÃ©mÃ¨tre" (telemetric frosted glass or stygmometer -
+"verre dépoli télémètre" (telemetric frosted glass or stygmometer -
 [Lucien Dodin](http://fr.wikipedia.org/wiki/Lucien_Dodin)).
 
 I've finished scientific college and teached mechanical engeneering for
@@ -369,7 +369,7 @@ I can administer servers, but each time I spend days learning what to do.
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 No problem. I can take 3 weeks vacation. Only my mailbox will have problems :-)
@@ -435,7 +435,7 @@ Wandering trough the Europe with car and caravan (and without computer).
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 Travel? I would like to visit Egypt. My wife's family is in West Indies, one of my daughters is in Los Angeles,
@@ -445,7 +445,7 @@ my son wants to go to Australia and the other daughter is a singer, so I have ma
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 I like present time. Past was often scary and future we don't know...
@@ -455,7 +455,7 @@ Besides, I enjoy living in France: wonderfull country, good social covering, goo
 
 
 
-#### There's a thunderstorm outside â€“ do you turn off your computer?
+#### There's a thunderstorm outside – do you turn off your computer?
 
 
 No. We had one recently, but my computer is a laptop so AC outage is not a problem.

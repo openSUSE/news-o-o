@@ -15,7 +15,7 @@ tags:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #86 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/86)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -32,7 +32,7 @@ In this weekâ€™s issue:
   * Will Stephenson: Sub-menus in KDE 4 panels and desktops are back 
 
 	
-  * h-online/Thorsten Leemhuis: Kernel Log - Coming in 2.6.31 â€“ Part 4: Tracing, architecture, virtualisation 
+  * h-online/Thorsten Leemhuis: Kernel Log - Coming in 2.6.31 – Part 4: Tracing, architecture, virtualisation 
 
 
 For a list of available translations see this page:

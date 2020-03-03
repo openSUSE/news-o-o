@@ -20,7 +20,7 @@ Please add your topics to the meeting wiki page at:
 
 [http://en.opensuse.org/Meetings/Project_Meeting_1010-01-13](http://en.opensuse.org/Meetings/Project_Meeting_1010-01-13)
 
-Please add topics as soon as possible. Also, if you have questions for the meeting, but canâ€™t attend (we know that the meeting times canâ€™t work for everyone) please add them to the agenda as well. We also take live questions, of course. Logs of the meeting are posted to the wiki here:
+Please add topics as soon as possible. Also, if you have questions for the meeting, but can’t attend (we know that the meeting times can’t work for everyone) please add them to the agenda as well. We also take live questions, of course. Logs of the meeting are posted to the wiki here:
 
 [http://en.opensuse.org/Meetings/Archive](http://en.opensuse.org/Meetings/Archive)
 

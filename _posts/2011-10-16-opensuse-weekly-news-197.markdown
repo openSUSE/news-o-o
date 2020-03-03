@@ -101,9 +101,9 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 Enjoy reading :-)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
-â€œ
+“
 
 
       [ openSUSE Announces First Public Release of openQA](http://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/)
@@ -115,13 +115,13 @@ The openSUSE Project announces the 1.0 release of the unique cross-distribution-
       functionality like the bootloader and booting the kernel up to testing applications like
       Firefox and LibreOffice. It shows the results in a convenient web interface and allows testers
       to see screenshots and even videos of the issues found.
-      openQA is used to run nightly tests of the â€˜Factoryâ€™ development repository for the upcoming
+      openQA is used to run nightly tests of the ‘Factory’ development repository for the upcoming
         [openSUSE 12.1 release](http://en.opensuse.org/Portal:12.1). openQA is
       available under the GPL version 2 or later. (...)
 
-â€
+”
 
-â€œ
+“
 
 [ Interview about
         openQA](http://news.opensuse.org/2011/10/14/interview-about-openqa/)
@@ -130,7 +130,7 @@ Last week, [openQA 1.0](http://news.opensuse.org%22%22) was released. We
       did an interview with Bernhard Wiedeman, the main developer of openQA.
 
 
-      **First of all, whatÃ½s your job regarding the openQA project?**
+      **First of all, whatýs your job regarding the openQA project?**
     
 
 My role in the project was to wish for, envision, design, organize and implement most of
@@ -138,21 +138,21 @@ My role in the project was to wish for, envision, design, organize and implement
       needed most and added things others wanted as well. Actually, my job at SUSE (doing cloud
       stuff) is completely unrelated to openQA, which is still my hobby project. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 369)](https://features.opensuse.org/120340)
@@ -161,9 +161,9 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 196)](https://features.opensuse.org/305493)
@@ -178,9 +178,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [1-click uninstall (Score: 168)](https://features.opensuse.org/305305)
@@ -188,9 +188,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 156)](https://features.opensuse.org/308497)
@@ -208,9 +208,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 113)](https://features.opensuse.org/305877)
@@ -231,13 +231,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [Login screen after lock screen](https://features.opensuse.org/312873)
@@ -245,9 +245,9 @@ We need a feedback about packages that are preferred by users and actively used.
 
 Why does not require a password to unlock the screen with the same login screen of KDM or GDM, instead of a dialog box? Such as Windows XP.
 
-â€
+”
 
-â€œ
+“
 
 
             [Need libcue](https://features.opensuse.org/312874)
@@ -259,9 +259,9 @@ Libcue is intended to parse a so called cue sheet from a char string or a file p
 
 [http://sourceforge.net/projects/libcue/](http://sourceforge.net/projects/libcue/)
 
-â€
+”
 
-â€œ
+“
 
 
             [Deny individual users' access to screen-saver settings](https://features.opensuse.org/312876)
@@ -276,9 +276,9 @@ The screen-saver settings for time-out and "require password" are security setti
 
 To a regular user, the timeout and "require password" settings should appear "greyed out", clearly indicating "not available".
 
-â€
+”
 
-â€œ
+“
 
 
             [change QCAD to LibreCAD](https://features.opensuse.org/312880)
@@ -288,9 +288,9 @@ Remove the very old unmantained QCAD (it requires QT3!!!) and add LibreCAD a man
 
 [http://librecad.org](http://librecad.org)
 
-â€
+”
 
-â€œ
+“
 
 
             [64-bit Flash 11 in OpenSuse 12.1](https://features.opensuse.org/312883)
@@ -298,9 +298,9 @@ Remove the very old unmantained QCAD (it requires QT3!!!) and add LibreCAD a man
 
 Adobe just released Flash 11 which has a native 64-bit version for Linux, OS X and Windows. It should be included with OpenSuse 12.1 in the same way that Flash 10.x is included in 11.4. I know it's very new but I think the removal of the nsplugginwrapper requirement on 64-bit makes it worthwhile. Flash is also know to have many security bugs, so keeping 12.1 at 10.3 for it's entire lifecycle would be more dangerous than including 11.0.
 
-â€
+”
 
-â€œ
+“
 
 
             [Kernel updates removes user choices from /boot/grub/menu.lst](https://features.opensuse.org/312886)
@@ -314,7 +314,7 @@ For instance, most sane folks would use splash=verbose as opposed to splash=sile
 
 Instead of taking the default from an obscure config file that no other distro even uses, I'd suggest that the kernel param line is taken as-is from the menu.lst / elilo.conf files, not set to some static value.
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -325,9 +325,9 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Events & Meetings
 
@@ -362,23 +362,23 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [openSUSE Connect](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Cornerâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Corner▲▼
 
 The Section provides the Game of the Week, and Updates in the Game Repository
 
-â€œ
+“
 
 
       [Nelson Marques: Unknown Horizons 2011.3 RC3 ready for testing on openSUSE!](http://www.marques.so/2011/10/unknown-horizons-2011-3-rc3-ready-for-testing-on-opensuse/)
     
 
 While the [Unknown Horizons](http://www.unknown-horizons.org) developers
-      are working hard fixing bugs and preparing the new release, 2011.3, Iâ€™ve went ahead and
+      are working hard fixing bugs and preparing the new release, 2011.3, I’ve went ahead and
       started to update all the dependencies to bring this wonderful game to [openSUSE](http://opensuse.org) users.
 
-Hereâ€™s a few things that were changed to support this release:
+Here’s a few things that were changed to support this release:
 
-  * FIFE â€“ Unknown Horizons now requires [FIFE 0.3.3](http://fifengine.net/2011/10/07/0-3-3-has-arrived/) (released
+  * FIFE – Unknown Horizons now requires [FIFE 0.3.3](http://fifengine.net/2011/10/07/0-3-3-has-arrived/) (released
             a few days ago). This was a bit of a pain-in-butt package, that started to build
             properly after a SCons update (also forwarded to the openSUSE devel project in
             devel:tools:builders).
@@ -392,7 +392,7 @@ Hereâ€™s a few things that were changed to support this release:
 
 ![](http://www.marques.so/wp-content/uploads/2011/10/Screenshot-at-2011-10-11-193815-1024x765.png)
 
-Regarding Unknown Horizons packaging, Iâ€™ve also fixed some pending issues:
+Regarding Unknown Horizons packaging, I’ve also fixed some pending issues:
 
   * Added python-enet package: we now provide this so we can drop the binary blob
             bundled with Unknown Horizons (depends on libenet >= 1.3.3);
@@ -418,20 +418,20 @@ To install Unknown Horizons 2011.3rc3 please use one of the available 1-Click in
             [Install for openSUSE Factory](http://download.opensuse.org/repositories/games:/unknown-horizons/openSUSE_Factory/unknown-horizons.ymp)
           
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-â€œ
+“
 
 [
         openSUSE-SU-2011:1076-3: important: seamonkey: Update to Mozilla Seamonkey
       2.4.1](http://lists.opensuse.org/opensuse-security-announce/2011-10/msg00004.html)
 
-<table frame="void" id="id319530" >TableÂ 1.Â SUSE Security Announcement<tr >
+<table frame="void" id="id319530" >Table 1. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -471,11 +471,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixing various bugs and security issues.
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Linux 3.1 approaches](http://www.h-online.com/open/features/Kernel-Log-Linux-3-1-approaches-1358320.html)
@@ -491,7 +491,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 Late last Tuesday night, Linus Torvalds [issued](http://thread.gmane.org/gmane.linux.kernel/1199406) the ninth release
       candidate of Linux 3.1. Since then, some further corrections have been integrated into the
       main development branch; however, in the past few days there have not been any new hints on
-      when Linux 3.1 might get released â€“ but it is likely to be released some time this week, or
+      when Linux 3.1 might get released – but it is likely to be released some time this week, or
       next week at the latest, as [indicated](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-4-Drivers-1346605.html) by Torvalds when releasing RC7.
 
 Linus Torvalds explained in his [release email](http://thread.gmane.org/gmane.linux.kernel/1199406) that in RC9,
@@ -499,44 +499,44 @@ Linus Torvalds explained in his [release email](http://thread.gmane.org/gmane.li
       stronger than the old one and has already been signed by more developers who are known to
       Torvalds; however, the tag has also been signed with the old key.
 
-â€
+”
 
-â€œ
+“
 
 [Linux User & Developer/Jon Masters: The kernel column with Jon Masters #106
       ](http://www.linuxuser.co.uk/opinion/the-kernel-column-with-jon-masters-106/)
 
 **As is the case every month, Jon Masters looks at the latest
         developments in the Linux kernel community, including work on new architecture and ABI
-        support, not to mention Kernel.org disruptionsâ€¦ **
+        support, not to mention Kernel.org disruptions… **
 
 In spite of the recent security attacks on kernel.org and other Linux community
-      infrastructure, the show must go on and kernel development continued â€“ albeit heavily
-      disrupted at first by the various outages. That didnâ€™t stop patches being posted adding
+      infrastructure, the show must go on and kernel development continued – albeit heavily
+      disrupted at first by the various outages. That didn’t stop patches being posted adding
       support for two brand new architectures to the Linux kernel. One of these architecture patch
       postings targets a new DSP (Digital Signal Processor) design from Qualcomm called Hexagon that
       is commonly found in combination with a more powerful ARM processor within Qualcomm
-      system-on-chip (SoC) processors â€“ thatâ€™s two cores, both running different Linux kernels on
+      system-on-chip (SoC) processors – that’s two cores, both running different Linux kernels on
       the same chip.
 
-â€
+”
 
-â€œ
+“
 
 
       [Rares
-        Aioanei: kernel weekly news â€“ 15.10.2011](http://schaiba.wordpress.com/2011/10/15/kernel-weekly-news-15-10-2011/)
+        Aioanei: kernel weekly news – 15.10.2011](http://schaiba.wordpress.com/2011/10/15/kernel-weekly-news-15-10-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Commandline/Script Newbies
 
-â€œ
+“
 
 
         [Linux Journal/Jayson Broughton: Getting Help From Linux - Part 2 Info](http://www.linuxjournal.com/content/getting-help-linux-part-2-info)
@@ -544,19 +544,19 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 Well here we are again, at part two of the 'Getting Help from Linux' series.  In this blog post I'll be talking about using Info to get help from Linux.  In [my previous post](http://www.linuxjournal.com/content/getting-help-linux-part-1-man-pages) I spoke about how Info came about, but just in case you missed it I'll give you another quick lesson.  Gnu Info was created by the Free Software Foundation and in my experience is used by all of Gnu's software for their version of 'man' pages.  Info may contain much more information than what you can find in Man pages, and sometimes contains much more than you ever really need.  The good thing about Info is that it is a hypertext markup utility.  This makes it much easier to navigate through via hyperlinks embedded in emacs, than simply using arrow keys to navigate through information.  While Man uses the Less utility to control the display, the info utility itself is designed to display Info pages.  For those of you familiar with emacs, it appears the layout may be the same, along with some of the basic navigation. But that's where the two applications can differ.  If you're using the Info application then your commands will be different than if you're viewing info files in Emacs.  This article is about reading Info pages inside of info. (...)
 
-â€
+”
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 [Michal
-          HruÅ¡eckÃ½: openSUSE @ ASUS Transformer](http://michal.hrusecky.net/2011/10/opensuse-asus-transformer/)
+          Hrušecký: openSUSE @ ASUS Transformer](http://michal.hrusecky.net/2011/10/opensuse-asus-transformer/)
 
 This is going to be just a brief blog post with one important image. You probably all
         already know that there is bunch of people in openSUSE community who are working on [getting ARM supported](http://en.opensuse.org/Portal:ARM) by distribution. And
         you probably already seen many blog posts about how great it is working. Well this is one of
-        them. Iâ€™m happy owner of ASUS Transformer machine. As a geek I have root on my android
+        them. I’m happy owner of ASUS Transformer machine. As a geek I have root on my android
         machine. And since not long time ago, I also had a Debian chroot there to be able to run my
         favorite applications. But not any more. I replaced my Debian chroot with openSUSE one and
         now I can use zypper happily and forget everything about apt-get.
@@ -564,26 +564,26 @@ This is going to be just a brief blog post with one important image. You probabl
 How did I did that? I started with a simple package in obs, changed BuildRequires to the
         set of packages I wanted to have, run **osc build armv7l standard** and after
         osc created chroot for me, I just took it away. And fixed few things after switching to it
-        on my Transformer. Iâ€™m still missing some packages, but hopefully they will be available
+        on my Transformer. I’m still missing some packages, but hopefully they will be available
         soon 
 
-â€
+”
 
 ### For System Administrators
 
-â€œ
+“
 
 
         [Wazi/Juliet Kemp: Monitoring and Dealing With Snort Alerts](http://olex.openlogic.com/wazi/2011/monitoring-and-dealing-with-snort-alerts/)
       
 
-[Snort](http://olex.openlogic.com/packages/snort), the open source intrusion detection and prevention system, is immensely powerful, but to get the most out of it, you need to configure it correctly for your own setup. [My previous Snort article](http://olex.openlogic.com/wazi/2011/use-profiling-to-improve-snort-performance/) looked at Snortâ€™s own performance monitoring provision and how to use it to tune Snort to get the best throughput at the detection end. Here are some performance tips for dealing well with alerts, looking at alert monitoring, streamlining false positives and genuine but frequent real positives, and logical rule optimization.
+[Snort](http://olex.openlogic.com/packages/snort), the open source intrusion detection and prevention system, is immensely powerful, but to get the most out of it, you need to configure it correctly for your own setup. [My previous Snort article](http://olex.openlogic.com/wazi/2011/use-profiling-to-improve-snort-performance/) looked at Snort’s own performance monitoring provision and how to use it to tune Snort to get the best throughput at the detection end. Here are some performance tips for dealing well with alerts, looking at alert monitoring, streamlining false positives and genuine but frequent real positives, and logical rule optimization.
 
-The last article looked at monitoring rule performance â€“ that is, how well the Snort detection engine deals with the traffic it sees. The next stage concerns what to do with traffic that Snort flags as suspicious: alerts of various sorts. I wonâ€™t go into detail about how to deal with specific alerts, but talk instead about some good Snort management practices. (...)
+The last article looked at monitoring rule performance – that is, how well the Snort detection engine deals with the traffic it sees. The next stage concerns what to do with traffic that Snort flags as suspicious: alerts of various sorts. I won’t go into detail about how to deal with specific alerts, but talk instead about some good Snort management practices. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Wazi/Anatoliy A. Dimitrov: Use MySQL Replication Like an Expert to Improve Performance and Enhance Availability](http://olex.openlogic.com/wazi/2011/use-mysql-replication-like-an-expert-to-improve-performance-and-enhance-availability/)
@@ -593,9 +593,9 @@ By using MySQL replication, you can distribute MySQL queries over multiple serve
 
 In MySQL replication each participating server may be a master, a slave, or both. Master servers handle database transactions and write them to a binary log (binlog). Slaves connect to masters and request copies of their binary logs. Servers can act both as master and slave thanks to features such as different auto increment, which sets the interval between successive column values. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linuxaria: How to convert from .deb to .rpm and viceversa](http://linuxaria.com/article/how-to-convert-from-deb-to-rpm-and-viceversa?lang=en)
@@ -610,9 +610,9 @@ The accepted program for handling these packages is dpkg, commonly used via othe
 
 [RPM](http://en.wikipedia.org/wiki/RPM_Package_Manager) Package Manager (RPM) is a package management system. The name RPM variously refers to the .rpm file format, files in this format, software packaged in such files, and the package manager itself. RPM was intended primarily for GNU/Linux distributions; the file format is the baseline package format of the Linux Standard Base. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [IBM developerWorks/Sean A. Walberg: Learn Linux, 302 (Mixed environments): Authentication and authorization](http://www.ibm.com/developerworks/linux/library/l-lpic3-313-2/index.html)
@@ -620,14 +620,14 @@ The accepted program for handling these packages is dpkg, commonly used via othe
 
 In preparation for taking the Linux Professional Institute Certification exam LPI-302 for systems administrators, learn how to set up and store passwords, integrate Samba with LDAP, and use ACLs to protect your Linux installation. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Fred Blaise: Linux fstab: mount a
           path containing spaces](http://ironman.darthgibus.net/?p=136)
 
-Letâ€™s say you want to CIFS mount a windows share â€” say â€œ//server01/it stuff$â€, but your
+Let’s say you want to CIFS mount a windows share — say “//server01/it stuff$”, but your
         Windows admin put spaces in the path. Replace the spaces with **\040**.
 
 So, in your /etc/fstab, the line would give:
@@ -645,11 +645,11 @@ username=fblaise,password=yoursinhere,uid=1000,gid=100,_netdev 0 0
 It will then work, and your linux apps which cannot see beyond your local filesystems
         will have a new life.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
-â€œ
+“
 
 [Andrew Wafaa:
         ARMing openSUSE - 111011](http://www.wafaa.eu/entry/arming-opensuse---111011-1-72.html)
@@ -663,9 +663,9 @@ Now I'll be the first to admit, things have been a wee bit scrappy in places. Th
       to get everything to build in one hit (would be great if that was possible), we are going to
       target patterns of packages. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Ladislav Slezak: OpenSUSE Hackweek VII - Hacking USB Joysticks in YaST](http://lslezak.blogspot.com/2011/10/opensuse-hackweek-vii-hacking-usb.html)
 
@@ -684,9 +684,9 @@ There was a note in the YaST module that it only supports Gameport joysticks but
 So I decided to change the situation and do something interesting during my Hackweek
       project - to add USB joystick support to YaST. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Thomas Thym: 2 days to go and KDE turns 15!](http://ungethym.blogspot.com/2011/10/2-days-to-go-and-kde-turns-15.html)
 
@@ -695,9 +695,9 @@ Whoooo. Just 2 more days until KDE can celebrate the 15th birthday. Have you pre
 
 Find more information on the dot. [http://dot.kde.org/2011/10/05/freedom-15-years-party](http://dot.kde.org/2011/10/05/freedom-15-years-party)
 
-â€
+”
 
-â€œ
+“
 
 [Cornelius Schumacher: The demise of the Windows platform](http://blog.cornelius-schumacher.de/2011/10/demise-of-windows-platform.html)
 
@@ -712,19 +712,19 @@ I bought a Windows [game](http://www.rage.com/) last week. What I got
       start the game. I love games, and I have played quite some games on Windows, but I might be
       done with this now.
 
-â€
+”
 
-â€œ
+“
 
-[Sebastian KÃ¼gler: Plasma Active Perspective: The User Story](http://vizzzion.org/blog/2011/10/plasma-active-perspective-the-user-story/)
+[Sebastian Kügler: Plasma Active Perspective: The User Story](http://vizzzion.org/blog/2011/10/plasma-active-perspective-the-user-story/)
 
 
       [Plasma Active](http://plasma-active.org) brings a
         flexible, elegant, activity-driven user experience to a spectrum of devices. This article is
         part of a [series
           of articles](http://vizzzion.org/blog/2011/10/plasma-active-perspectives/) about different perspectives on Plasma Active. This installment looks
-        at the user story, and aims at answering the questions â€œwhat does Plasma Active bring me as
-        a user?â€, what are the underlying concepts and how do we plan to achieve these
+        at the user story, and aims at answering the questions “what does Plasma Active bring me as
+        a user?”, what are the underlying concepts and how do we plan to achieve these
         goals.
     
 
@@ -732,46 +732,46 @@ For the user who wants to enjoy the Internet, multimedia and data away from his 
       desktop, right now choices are rather slim. This means, for example, that you will choose a
       platform with some sort of critical mass, meaning that your favourite 3rd party apps are
       available, enough services supported, etc.. A Free software platform has to bring a lot to the
-      table for users: Thereâ€™s a lot of cool software available, systems such as Plasma Active offer
+      table for users: There’s a lot of cool software available, systems such as Plasma Active offer
       a system without lock-in to a single vendor, but rather being able to take apps across vendors
       and devices. Plasma Active already comes with a good amount of interesting widgets, new ones
       are being developed all the time, the development platform is proven to be stable and working
-      in real world use, and itâ€™s easy for 3rd parties to develop and bring support for (even â€œ4thâ€
+      in real world use, and it’s easy for 3rd parties to develop and bring support for (even “4th”
       party) services. Plasma Active extends the Free software ecosystem into user experiences for
       devices, bringing a critical mass with it. 
 
 I personally use Plasma Active almost every day, I prefer the tablet form factor for
-      â€œlight readingâ€, checking on news, social networks, the blogosphere. For me itâ€™s an ideal â€œon
-      the couch in the living roomâ€ device, although I tend to use it in trains for reading and
+      “light reading”, checking on news, social networks, the blogosphere. For me it’s an ideal “on
+      the couch in the living room” device, although I tend to use it in trains for reading and
       watching movies as well. With its powerful email client Kontact Touch it allows me quite
       conveniently read longer email threads. The virtual keyboard works well enough for entering
       short texts. For longer texts, I usually either plug in a keyboard and put the tablet into a
-      stand, so it feels more like a â€˜stationary laptopâ€™. (...)
+      stand, so it feels more like a ‘stationary laptop’. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Michal
-        HruÅ¡eckÃ½: How to contribute in openSUSE Build Service](http://michal.hrusecky.net/2011/10/how-to-contribute-in-opensuse-build-service/)
+        Hrušecký: How to contribute in openSUSE Build Service](http://michal.hrusecky.net/2011/10/how-to-contribute-in-opensuse-build-service/)
 
-I promised that Iâ€™ll write a post about how you can contribute. There are several ways how
+I promised that I’ll write a post about how you can contribute. There are several ways how
       to contribute to MySQL, but most of it means modifying packages. And as everything in openSUSE
       is built using openSUSE Build service, first post will be actually pretty general obs and osc
-      howto. In the next posts, Iâ€™ll go deeper into specific details of MySQL packaging.
+      howto. In the next posts, I’ll go deeper into specific details of MySQL packaging.
       (...)
 
-â€
+”
 
-â€œ
+“
 
 [Michal
-        HruÅ¡eckÃ½: How to create patches using quilt](http://michal.hrusecky.net/2011/10/how-to-create-patches-using-quilt/)
+        Hrušecký: How to create patches using quilt](http://michal.hrusecky.net/2011/10/how-to-create-patches-using-quilt/)
 
 [Last
         time](http://michal.hrusecky.net/2011/10/how-to-contribute-in-opensuse-build-service/) I described how to contribute quite to any package in openSUSE Build Service.
-      But I left out the most important part. I havenâ€™t shown how to change anything. This time I
-      want to show you, how to create patches, if you need them, easily. Letâ€™s start start with
+      But I left out the most important part. I haven’t shown how to change anything. This time I
+      want to show you, how to create patches, if you need them, easily. Let’s start start with
       package we checked out from obs. Creating patch for anything is different only in first few
       steps.
 
@@ -780,13 +780,13 @@ First we got to the directory where do we have the package checked out. We run
 quilt setup
 
 This command will parse the .spec file, unpack tarball and prepare all quilt stuff. Now is
-      time for patching, so letâ€™s enter the newly created directory and try following command
+      time for patching, so let’s enter the newly created directory and try following command
 
 quilt push
 
-â€
+”
 
-â€œ
+“
 
 [Cornelius Schumacher: Fifteen years of KDE](http://blog.cornelius-schumacher.de/2011/10/fifteen-years-of-kde.html)
 
@@ -800,27 +800,27 @@ Fifteen years ago [Matthias Ettrich](http://dot.kde.org/2009/11/06/matthias-ettr
       and the [thousands of 3rd party applications](http://kde-apps.org/).
       (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
-â€œ
+“
 
 
         [Plasma Active One Arrives!](http://kde.org/announcements/plasma-active-one/)
       
 
-On the 9th of October, 2011 (9.10.11), the first release of the Plasma Active tablet user experience was made publicly available. Plasma Active Oneâ€™s touchscreen interface is more than just an application launcher. As soon as the device is turned on, rather than the traditional grid of applications, you see the Activities view showing your current project, task or idea. With Activities, you can collect all of the documents, people, web sites, media and widgets related to a topic in one place, building personalized and interactive views of your life.
+On the 9th of October, 2011 (9.10.11), the first release of the Plasma Active tablet user experience was made publicly available. Plasma Active One’s touchscreen interface is more than just an application launcher. As soon as the device is turned on, rather than the traditional grid of applications, you see the Activities view showing your current project, task or idea. With Activities, you can collect all of the documents, people, web sites, media and widgets related to a topic in one place, building personalized and interactive views of your life.
 
-With Plasma Active, the possibilities are unlimited. You can add as many things to an Activity as you wish with its â€œinfinite scrollâ€ feature. You can create as many Activities as you like and move between them using the touch-friendly Activity Switcher. (...)
+With Plasma Active, the possibilities are unlimited. You can add as many things to an Activity as you wish with its “infinite scroll” feature. You can create as many Activities as you like and move between them using the touch-friendly Activity Switcher. (...)
 
-â€
+”
 
 ### Call for participation
 
-â€œ
+“
 
 
         [Design a logo for SCALE 10X, win a trip to LA!](http://www.socallinuxexpo.org/blog/design-logo-scale-10x-win-trip-la)
@@ -828,35 +828,35 @@ With Plasma Active, the possibilities are unlimited. You can add as many things 
 
 **Want a free trip to SCALE 10X in Los Angeles this January?**
 
-In marking 10 years of the Southern California Linux Expo (SCALE) and 20 years of Linux, the SCALE team wants to incorporate an open-source approach to this yearâ€™s expo logo designs for publications and for swag. 
+In marking 10 years of the Southern California Linux Expo (SCALE) and 20 years of Linux, the SCALE team wants to incorporate an open-source approach to this year’s expo logo designs for publications and for swag. 
 
 With this in mind, the SCALE team announces a contest to select the artwork for use on this year's t-shirts, attendee bags, and other conference materials.
 
 The designer of the winning submission will win a free pass to [SCALE 10x](http://www.socallinuxexpo.org/scale10x/), including airfare within the continental United States, as well as a three-night stay at the [Hilton Los Angeles Airport](http://www.hilton.com/en/hi/groups/personalized/L/LAXAHHH-LNX-20120116/index.jhtml?WT.mc_id=POG%20target=). (...)
 
-â€
+”
 
 ### Reports
 
-â€œ
+“
 
 
-        [ Whatâ€™s next for MeeGo? â€œJoin openSUSEâ€, says Jos Poortvliet ](http://www.linuxuser.co.uk/opinion/whats-next-for-meego-join-opensuse-says-jos-poortvliet/)
+        [ What’s next for MeeGo? “Join openSUSE”, says Jos Poortvliet ](http://www.linuxuser.co.uk/opinion/whats-next-for-meego-join-opensuse-says-jos-poortvliet/)
       
 
 openSUSE community manager, Jos Poortvliet, shares his thoughts on the recent creation
-        of Tizen and offers a new home for the MeeGo projectâ€¦ 
+        of Tizen and offers a new home for the MeeGo project… 
 
 A while ago Intel and Samsung announced a new initiative under the Linux Foundation
         umbrella: Tizen. Tizen is a Linux OS for embedded use building on HTML5 and CSS. Cool? Well,
-        maybe. If youâ€™ve been involved with MeeGo, the Linux Foundationâ€™s previous embedded Linux
-        OS, youâ€™re probably not too happy right now. Yes, MeeGo will have to go. For them, as
-        Richard Dale wrote, itâ€™s â€˜Tizen or Tizenâ€™tâ€™. The MeeGo community had no say in the merger of
+        maybe. If you’ve been involved with MeeGo, the Linux Foundation’s previous embedded Linux
+        OS, you’re probably not too happy right now. Yes, MeeGo will have to go. For them, as
+        Richard Dale wrote, it’s ‘Tizen or Tizen’t’. The MeeGo community had no say in the merger of
         Moblin and Maemo to MeeGo, nor did they in the birth of Tizen. Surprised? (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online: Anti-virus software fails to deal with government trojan](http://www.h-online.com/security/news/item/Anti-virus-software-fails-to-deal-with-government-trojan-1360015.html)
@@ -868,9 +868,9 @@ Since last Monday at the latest, all virus scanners will issue an alert when an 
         stands a chance against such malware; some of the alerts have even turned out to be proper
         dummies.
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online: openQA emerges from openSUSE - Update](http://www.h-online.com/open/news/item/openQA-emerges-from-openSUSE-Update-1359661.html)
@@ -882,9 +882,9 @@ An open source automated testing framework, [openQA 1.0](http://openqa.opensuse.
 
 ![](http://www.h-online.com/imgs/43/7/2/3/4/6/2/973eaa058f505522.png)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online: ownCloud web-based storage app hits version 2.0](http://www.h-online.com/open/news/item/ownCloud-web-based-storage-app-hits-version-2-0-1359068.html)
@@ -896,9 +896,9 @@ The [KDE](http://kde.org/) project has [announced](http://dot.kde.org/2011/10/11
         stable update includes a new user interface and several new features, such as support for
         calendar and address book syncing.
 
-â€
+”
 
-â€œ
+“
 
 
         [Desktop Summit Survey Report](https://desktopsummit.org/news/desktop-summit-survey-report)
@@ -914,33 +914,33 @@ Details can be read [in the report](https://desktopsummit.org/sites/www.desktops
 
 We appreciate you taking time to give us feedback and look forward to seeing you again at the next Desktop Summit!
 
-â€
+”
 
 ### Reviews and Essays
 
-â€œ
+“
 
 
         [ZDNet/Ken Hess: The greatest security vulnerability: You](http://www.zdnet.com/blog/security/the-greatest-security-vulnerability-you/9612)
       
 
-Believe it or not, the greatest threat to your personal or corporate computing environment is you. You put your personal and collective corporate security at risk every day by just being you. Itâ€™s not a particular personality flaw with you as an individual but rather it is your innate human response to other humans. You want to be open, helpful and kind but those attributes are also your security Achillesâ€™ heel. The quote, â€œA little kindness goes a long way,â€ is no less true when speaking of computer security. That wee bit of kindness that you show a stranger could put your personal and corporate security at significant risk and could result in very high remedial costs. (...)
+Believe it or not, the greatest threat to your personal or corporate computing environment is you. You put your personal and collective corporate security at risk every day by just being you. It’s not a particular personality flaw with you as an individual but rather it is your innate human response to other humans. You want to be open, helpful and kind but those attributes are also your security Achilles’ heel. The quote, “A little kindness goes a long way,” is no less true when speaking of computer security. That wee bit of kindness that you show a stranger could put your personal and corporate security at significant risk and could result in very high remedial costs. (...)
 
-â€
+”
 
 ### LOL
 
-â€œ
+“
 
 
         [like-a-boss.org: hacking the imperial death march](http://like-a-boss.org/2011/09/30/hacking-the-imperial-death-march/)
       
 
-One of the great things about the original Star Wars trilogy, was the â€œlived inâ€, junky, hacked together aesthetic of the Star Wars universe. Everything was a bit trashed, as if real people actually lived there. Thankfully, thatâ€™s one of the things that George Lucas hasnâ€™t tinkered with in his endless quest to ruin the childhood memories of a generation. So itâ€™s heartening to see this tradition carried on with the playing of the imperial death march on miscellaneous hacked together hardware. Enjoy â€¦ (...)
+One of the great things about the original Star Wars trilogy, was the “lived in”, junky, hacked together aesthetic of the Star Wars universe. Everything was a bit trashed, as if real people actually lived there. Thankfully, that’s one of the things that George Lucas hasn’t tinkered with in his endless quest to ruin the childhood memories of a generation. So it’s heartening to see this tradition carried on with the playing of the imperial death march on miscellaneous hacked together hardware. Enjoy … (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
 
@@ -974,7 +974,7 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -984,12 +984,12 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -1001,7 +1001,7 @@ We thank for this Issue:
 
   * [open-slx GmbH](http://www.open-slx.com/en), Sponsoring
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -1009,12 +1009,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 197 is available in: 
 

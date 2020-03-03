@@ -15,7 +15,7 @@ tags:
 - osc09
 ---
 
-The openSUSE Project is happy to announce that Lenz Grimmer will be delivering the opening keynote for the first-ever [openSUSE Conference](http://conference.opensuse.org/). The openSUSE Conference will be held September 17 through September 20 in NÃ¼rnberg, Germany. [Register today!](http://conference.opensuse.org/registration/)
+The openSUSE Project is happy to announce that Lenz Grimmer will be delivering the opening keynote for the first-ever [openSUSE Conference](http://conference.opensuse.org/). The openSUSE Conference will be held September 17 through September 20 in Nürnberg, Germany. [Register today!](http://conference.opensuse.org/registration/)
 
 
 
@@ -39,7 +39,7 @@ Our closing keynote will be delivered by Gianugo Rabellino, Chief Executive Offi
 
 
 
-The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in NÃ¼rnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
+The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
 
 
 
@@ -57,7 +57,7 @@ The conference will have two daily tracks of pre-planned talks, plus "[BarCamp](
   * News from the GNOME Zoo: Vincent Untz
 
     
-  * Samba @ openSUSE: Lars MÃ¼ller
+  * Samba @ openSUSE: Lars Müller
 
 
 

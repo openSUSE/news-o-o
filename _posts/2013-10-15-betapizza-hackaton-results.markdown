@@ -56,7 +56,7 @@ Let's start our results section with some great statistics:
   * ** 121** participants (76 employees, 45 volunteer)
 
 
-As we said in the initial article announcing the event, we have some SUSE provided prizes for top contributors.Â An evaluation committee was established with Richard Brown (openSUSE Board member), Frederic Crozat (SLE department, openSUSE contributor) and Michal Hrusecky (openSUSE Team) as members.
+As we said in the initial article announcing the event, we have some SUSE provided prizes for top contributors. An evaluation committee was established with Richard Brown (openSUSE Board member), Frederic Crozat (SLE department, openSUSE contributor) and Michal Hrusecky (openSUSE Team) as members.
 
 It was a tough decision, but in the end, the committee selected two hackers, well known to Factory contributors, as overall winners: Stephan 'coolo' Kulow and Dominique 'DimStar' Leuenberger. The committee furthermore awarded the top contributors working on the preselected golden bugs: Josef Reidinger and Michael Chang. The committee finally decided on a Honorable mention. This one goes to Antoine Saroufim, who was helping the GNOME team a lot with testing and providing feedback regarding various bugs and crashes over IRC.
 

@@ -15,7 +15,7 @@ tags:
 
 openSUSE 10.3 will see the first small parts of [KDE 4](http://opensuse.org/KDE4) creeping into the distribution. KDE 3 will still be the default KDE session for openSUSE 10.3, but KDE 4 will be making its way in steadily. The online repository will contain a current KDE 4 development snapshot, the DVD will have a fully functional and working KDE 4 session, and even on the KDE Installation CD you will have some KDE 4 games, KRDC and KRFB.
 
-Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and we'll also be talking to [Dirk MÃ¼ller](http://wire.dattitu.de/), a long-time openSUSE and KDE core developer.
+Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and we'll also be talking to [Dirk Müller](http://wire.dattitu.de/), a long-time openSUSE and KDE core developer.
 
 <!-- more -->
 
@@ -112,7 +112,7 @@ Among other big improvements, it also contains a tabbed interface to easily navi
 
 
 
-## Talk with **Dirk MÃ¼ller**
+## Talk with **Dirk Müller**
 
 
 I caught up with Dirk to find out a little more about KDE 4, and KDE in openSUSE.

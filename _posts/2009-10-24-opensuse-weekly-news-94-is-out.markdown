@@ -24,7 +24,7 @@ In this week's issue:
 
 
 	
-  * Novellâ€™s Joe â€˜Zonkerâ€™ Brockmeier hosts new Network World podcast series
+  * Novell’s Joe ‘Zonker’ Brockmeier hosts new Network World podcast series
 
 	
   * Will Stephenson: Update from the openSUSE Boosters
@@ -36,7 +36,7 @@ In this week's issue:
   * Pascal Bleser: Packman upgrading to SVN OBS
 
 	
-  * h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.32 (Part 1) â€“ Network subsystem and network drivers
+  * h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.32 (Part 1) – Network subsystem and network drivers
 
 
 For a list of available translations see this page:

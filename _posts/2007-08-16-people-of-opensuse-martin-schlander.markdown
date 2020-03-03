@@ -340,7 +340,7 @@ C++/Qt programming, naturally. I love the KDE project and would love to be able 
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 I would feel very restless and probably do a lot of thinking.
@@ -412,7 +412,7 @@ On a motorcycle.
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 Buy a small appartment, a Honda VFR 800, donate money to some of the free software projects I like. Put the rest in the bank for a rainy day.
@@ -422,7 +422,7 @@ Buy a small appartment, a Honda VFR 800, donate money to some of the free softwa
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 I'm not much a traveller, I probably wouldn't go far. Maybe the 1960s, 1970s.
@@ -432,7 +432,7 @@ I'm not much a traveller, I probably wouldn't go far. Maybe the 1960s, 1970s.
 
 
 
-#### There's a thunderstorm outside â€“ do you turn off your computer?
+#### There's a thunderstorm outside – do you turn off your computer?
 
 
 Nah.. should I?

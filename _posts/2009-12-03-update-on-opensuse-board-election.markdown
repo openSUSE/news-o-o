@@ -16,7 +16,7 @@ tags:
 
 For the current 2009 election of the openSUSE board, we have three seats for election and three candidates running unopposed. As our existing election rules did not anticipate this scenario, the Election Committee has made the following decision:
 
-The seats up for election include one Novell-employed position and two non-Novell-employed positions.  Pavol Rusnak is running for the Novell-employed seat and Rupert HorstkÃ¶tter and Bryen M Yunashko are running for the non-Novell seats.
+The seats up for election include one Novell-employed position and two non-Novell-employed positions.  Pavol Rusnak is running for the Novell-employed seat and Rupert Horstkötter and Bryen M Yunashko are running for the non-Novell seats.
 
 The election committee will declare the candidates as elected by end of Monday, 7th of December, if nobody else steps up in the respective group to run for the election.  Otherwise we will have an election in that group.
 

@@ -22,9 +22,9 @@ LinuxExpo is billed as the largest exhibition and conference for Linux and FOSS 
 
 In addition to openSUSE demos at the booth, openSUSE contributors will be giving two presentations as part of the LinuxExpo Programme.
 
-**Network Installation Fast and Simple:** KatarÃ­na MachÃ¡lkovÃ¡ and Michal Å½ugec will be demonstrating using the network installation, installing to network disks (iSCSI), and remote installation over SSH. The presentation will also cover automatic installations with AutoYaST.
+**Network Installation Fast and Simple:** Katarína Machálková and Michal Žugec will be demonstrating using the network installation, installing to network disks (iSCSI), and remote installation over SSH. The presentation will also cover automatic installations with AutoYaST.
 
-**Making a Custom openSUSE Distro:** Michal HruÅ¡eckÃ½ and Marek Stopka will cover use of the openSUSE Build Service, creating your own packages, cooperation with packaging team members, and creation of custom distros using SUSE Studio.
+**Making a Custom openSUSE Distro:** Michal Hrušecký and Marek Stopka will cover use of the openSUSE Build Service, creating your own packages, cooperation with packaging team members, and creation of custom distros using SUSE Studio.
 
 
 ## openSUSE Discs and Giveaways

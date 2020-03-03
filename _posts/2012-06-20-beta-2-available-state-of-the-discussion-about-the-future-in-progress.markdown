@@ -77,7 +77,7 @@ We'd like to thank everyone working on openSUSE for being so cool. Special hugs 
   * Marguerite Su
 
 	
-  * Marcus SchÃ¤fer
+  * Marcus Schäfer
 
 	
   * Takashi Iwai

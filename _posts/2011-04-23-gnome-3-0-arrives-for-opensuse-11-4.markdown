@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-The wait is finally over and the much anticipated release of GNOME 3 on openSUSE's latest distro release, 11.4 is ready for download at a desktop near you.Â  [Frederic Crozat](http://blog.crozat.net/), a member of the openSUSE GNOME Team, has been working tirelessly, burning the midnight oil getting GNOME3 stable enough for you all to use.Â  See his [blog](http://goo.gl/EwL5C) for the full details. Our friends from GNOME Foundation also welcomed GNOME 3 for openSUSE with a welcome tweet.
+The wait is finally over and the much anticipated release of GNOME 3 on openSUSE's latest distro release, 11.4 is ready for download at a desktop near you.  [Frederic Crozat](http://blog.crozat.net/), a member of the openSUSE GNOME Team, has been working tirelessly, burning the midnight oil getting GNOME3 stable enough for you all to use.  See his [blog](http://goo.gl/EwL5C) for the full details. Our friends from GNOME Foundation also welcomed GNOME 3 for openSUSE with a welcome tweet.
 [](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-3/)[](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-4/)[![](/wp-content/uploads/2011/04/gnome1.png)](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/gnome-4/)<!-- more -->
 Detailed instructions can be found at [on our GNOME 3.0 page](http://en.opensuse.org/openSUSE:GNOME_3.0).including:
 
@@ -49,7 +49,7 @@ openSUSE ships with the latest 0.9 version of NetworkManager. This release bring
 ### Accessibility
 
 
-The GNOME community has always put much effort in enabling the use of GNOME software for disabled users. GNOME 3 makes accessibility even more prominent by offering access to a wide range of basic settings directly on the â€˜Activities barâ€™.
+The GNOME community has always put much effort in enabling the use of GNOME software for disabled users. GNOME 3 makes accessibility even more prominent by offering access to a wide range of basic settings directly on the ‘Activities bar’.
 [![](/wp-content/uploads/2011/04/Screenshot-2.png)](http://news.opensuse.org/2011/04/23/gnome-3-0-arrives-for-opensuse-11-4/screenshot-2/)
 
 

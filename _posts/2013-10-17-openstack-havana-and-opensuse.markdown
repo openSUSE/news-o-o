@@ -17,7 +17,7 @@ tags:
 ---
 
 [![OpenStack logo](//news.opensuse.org/wp-content/uploads/2013/10/openstack-cloud-software-vertical-small.png)](http://www.openstack.org/)
-Congratulations to the [OpenStack](http://www.openstack.org) community for todayâ€™s release of OpenStack Havana! This is the eighth OpenStack release and the community delivered on-time, yet again.
+Congratulations to the [OpenStack](http://www.openstack.org) community for today’s release of OpenStack Havana! This is the eighth OpenStack release and the community delivered on-time, yet again.
 
 Packages have already made it to openSUSE Factory for those interested in testing. This OpenStack release further expands the capabilities of the industry-leading cloud software by providing improved scalability and performance, monitoring support, automated VM management and improved configuration. openSUSE 13.1 packages are available and so are packages for older openSUSE releases and for SUSE Linux Enterprise.<!-- more -->
 
@@ -50,7 +50,7 @@ Packages have already made it to openSUSE Factory for those interested in testin
 ## Getting it
 
 
-openSUSE 13.1 just [released its RC1](https://news.opensuse.org/?p=16780) and it contains Havana packages. Note that a few late Havana packages haveÂ  been released yesterday and are currently getting packaged. If you want to use Havana or start developing for the next release, grab the fresh packages from the Build Service [Cloud:OpenStack:Havana](https://build.opensuse.org/project/show/Cloud:OpenStack:Havana) project. For SUSE Linux Enterprise 11 SP3 and openSUSE, see the [OpenStack Portal](https://en.opensuse.org/Portal:OpenStack) page and use the packages from the Build Service.
+openSUSE 13.1 just [released its RC1](https://news.opensuse.org/?p=16780) and it contains Havana packages. Note that a few late Havana packages have  been released yesterday and are currently getting packaged. If you want to use Havana or start developing for the next release, grab the fresh packages from the Build Service [Cloud:OpenStack:Havana](https://build.opensuse.org/project/show/Cloud:OpenStack:Havana) project. For SUSE Linux Enterprise 11 SP3 and openSUSE, see the [OpenStack Portal](https://en.opensuse.org/Portal:OpenStack) page and use the packages from the Build Service.
 
 For a quick and automated installation of OpenStack, you can use [Quickstart](https://en.opensuse.org/SDB:Cloud_OpenStack_Quickstart) or [devstack](http://en.opensuse.org/SDB:DevStack). To get more information about OpenStack Havana, head over to the [OpenStack web page](http://www.openstack.org) and also read the [release notes](https://wiki.openstack.org/wiki/ReleaseNotes/Havana).
 

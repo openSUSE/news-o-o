@@ -21,10 +21,10 @@ tags:
 <!-- more -->
 
 
-## Europe/NÃ¼rnberg
+## Europe/Nürnberg
 
 
-![](http://en.opensuse.org/images/5/51/Release_party_poster_nuernberg.png)In the town where openSUSE was born, that still hosts the SUSE headquarters and therefor a large portion of the community the launch event will happen on Wednesday March 16 (19:00) in the [Bar/Cafe/Gallery Artefakt](http://artefakt-nuernberg.de/). In the historic district of NÃ¼rnberg the folks plan to have a blast with an introduction to 11.4 by the [Boosters](http://en.opensuse.org/openSUSE:Boosters_team), live music from [Ukulele Insanity](http://www.myspace.com/ukuleleinsanity) and lots of the openSUSE brew [Old Toad](http://en.opensuse.org/openSUSE:Beer). They expect a couple of high profile visitors like the man that pulled it off for the 6th time, Stephan Kulow (coolo), release manager of the distribution, Henne Vogelsang, long time openSUSE Board member and maybe even a couple of the SUSE founders!
+![](http://en.opensuse.org/images/5/51/Release_party_poster_nuernberg.png)In the town where openSUSE was born, that still hosts the SUSE headquarters and therefor a large portion of the community the launch event will happen on Wednesday March 16 (19:00) in the [Bar/Cafe/Gallery Artefakt](http://artefakt-nuernberg.de/). In the historic district of Nürnberg the folks plan to have a blast with an introduction to 11.4 by the [Boosters](http://en.opensuse.org/openSUSE:Boosters_team), live music from [Ukulele Insanity](http://www.myspace.com/ukuleleinsanity) and lots of the openSUSE brew [Old Toad](http://en.opensuse.org/openSUSE:Beer). They expect a couple of high profile visitors like the man that pulled it off for the 6th time, Stephan Kulow (coolo), release manager of the distribution, Henne Vogelsang, long time openSUSE Board member and maybe even a couple of the SUSE founders!
 
 
 ## North America/San Diego
@@ -36,13 +36,13 @@ tags:
 ## South America/Guatemala
 
 
-[![frets on fire](/wp-content/uploads/2011/03/frets_on_fire.jpg)](http://code.google.com/p/fofix/)openSUSE Ambassadors Fernando MejÃ­a, founder of the [openSUSE LUG Guatemala](http://www.opensuse.org.gt/) and Axel Ruiz will host a party in the beautiful _Centro HistÃ³rico_, Ciudad _de Guatemala_. It's going to take place in a cultural center called Bakabs (15:00). On the event they will introduce the crowd to the principles and philosophies of free software and teach them about new developments in and around the distribution. An install fest, lots of giveaways, like T-shirts and DVDs, and their legendary [Frets on Fire](http://fretsonfire.sourceforge.net/screenshots/) tournament will round off the event. We heard there is usually also a nice after-party!
+[![frets on fire](/wp-content/uploads/2011/03/frets_on_fire.jpg)](http://code.google.com/p/fofix/)openSUSE Ambassadors Fernando Mejía, founder of the [openSUSE LUG Guatemala](http://www.opensuse.org.gt/) and Axel Ruiz will host a party in the beautiful _Centro Histórico_, Ciudad _de Guatemala_. It's going to take place in a cultural center called Bakabs (15:00). On the event they will introduce the crowd to the principles and philosophies of free software and teach them about new developments in and around the distribution. An install fest, lots of giveaways, like T-shirts and DVDs, and their legendary [Frets on Fire](http://fretsonfire.sourceforge.net/screenshots/) tournament will round off the event. We heard there is usually also a nice after-party!
 
 
 ## Asia/Hong Kong
 
 
-![Have a lizard lunch](http://farm4.static.flickr.com/3068/2824169709_859f70f4e2_m.jpg)In Hong Kong, organizers are still looking for more participants for their launch party! They are contemplating to have lunch together in a [restaurant](http://jojofood.com/main.htm) or to meet up at the seaside mid March. Dates and locations are still not set in stone and are worked out, like everything else, in a collaborative fashion. The launch party will not only be about food and drinks but also host an install fest where you can grab DVDs and community members will then help you with your  installation if you bring your computer along.Â  All Lizards in Hong Kong that are interested to celebrate 11.4 together, please get in contact with the organizers on the [openSUSE Wiki](http://en.opensuse.org/openSUSE:11.4_Launch_party_Hong_Kong)!
+![Have a lizard lunch](http://farm4.static.flickr.com/3068/2824169709_859f70f4e2_m.jpg)In Hong Kong, organizers are still looking for more participants for their launch party! They are contemplating to have lunch together in a [restaurant](http://jojofood.com/main.htm) or to meet up at the seaside mid March. Dates and locations are still not set in stone and are worked out, like everything else, in a collaborative fashion. The launch party will not only be about food and drinks but also host an install fest where you can grab DVDs and community members will then help you with your  installation if you bring your computer along.  All Lizards in Hong Kong that are interested to celebrate 11.4 together, please get in contact with the organizers on the [openSUSE Wiki](http://en.opensuse.org/openSUSE:11.4_Launch_party_Hong_Kong)!
 
 
 ## More parties...
@@ -54,7 +54,7 @@ For more launch party locations around the globe like Paris, Prague,  Thessaloni
 ## ...or how about you run your own?
 
 
-[![Party Locations](/wp-content/uploads/2011/03/party_map-e1299503361641.png)](http://en.opensuse.org/openSUSE:Launch_parties)By the way if you're interested in hosting your own launch party, see our [Launch Party HOWTO](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) for starters. Also note that launch parties aren't limited to the release date! Feel free to plan yours at any time convenient to you and your guests.Â  Just remember one thing:
+[![Party Locations](/wp-content/uploads/2011/03/party_map-e1299503361641.png)](http://en.opensuse.org/openSUSE:Launch_parties)By the way if you're interested in hosting your own launch party, see our [Launch Party HOWTO](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) for starters. Also note that launch parties aren't limited to the release date! Feel free to plan yours at any time convenient to you and your guests.  Just remember one thing:
 
 
 # Have a lot of fun...

@@ -308,7 +308,7 @@ AMP stack programming.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Would I still be sane at the end of that week?
@@ -378,7 +378,7 @@ Bass Fishing.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Fishing Tackle.
@@ -388,7 +388,7 @@ Fishing Tackle.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Sometime in the future where a life aboard a vessel like the Enterprise would be possible.
@@ -398,7 +398,7 @@ Sometime in the future where a life aboard a vessel like the Enterprise would be
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 If I can, but my UPS better do it for me!

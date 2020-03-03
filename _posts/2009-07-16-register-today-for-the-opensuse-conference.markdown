@@ -12,11 +12,11 @@ categories:
 - Events
 ---
 
-Join us in NÃ¼rnberg, Germany, 17 September through 20 September for the first-ever openSUSE Conference! The openSUSE Conference [schedule](http://conference.opensuse.org/schedule/) is up and [registration](http://conference.opensuse.org/registration/) is open!
+Join us in Nürnberg, Germany, 17 September through 20 September for the first-ever openSUSE Conference! The openSUSE Conference [schedule](http://conference.opensuse.org/schedule/) is up and [registration](http://conference.opensuse.org/registration/) is open!
 
 Attending the openSUSE Conference is free, but registration is required. Lunch will be provided, so please be sure to [sign up](http://conference.opensuse.org/registration/) early so we can get an accurate headcount.
 
-The openSUSE Conference is for anyone and everyone making a contribution to openSUSE. Whether youâ€™re a developer, packager, translator, artist, or ambassador, you belong at the openSUSE Conference if you want to help promote, improve, and influence the openSUSE Project.
+The openSUSE Conference is for anyone and everyone making a contribution to openSUSE. Whether you’re a developer, packager, translator, artist, or ambassador, you belong at the openSUSE Conference if you want to help promote, improve, and influence the openSUSE Project.
 
 The conference will have two daily tracks of pre-planned talks, plus "[BarCamp](http://en.wikipedia.org/wiki/BarCamp)" style tracks for attendees to plan and provide their own content. Scheduled talks include:
 
@@ -50,7 +50,7 @@ We'll also be celebrating Software Freedom Day on Saturday, September 19th with 
   * Dates: 17 September through 20 September.
 
 	
-  * Location: Tagungszentrum BFW NÃ¼rnberg, NÃ¼rnberg, Germany.
+  * Location: Tagungszentrum BFW Nürnberg, Nürnberg, Germany.
 
 	
   * Cost: Free to attend.

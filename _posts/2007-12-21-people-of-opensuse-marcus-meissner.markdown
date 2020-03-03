@@ -346,7 +346,7 @@ More understanding of global design issues, more creativity to implement better 
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 I would feel a bit lost.
@@ -422,7 +422,7 @@ A 50/50 mix between relaxing and sightseeing.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Buy a house just outside of town with garden + farm animals, keep on working on Opensource stuff and/or parttime for SUSE.
@@ -432,7 +432,7 @@ Buy a house just outside of town with garden + farm animals, keep on working on 
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 The timetraveling scientist knows the future to be pretty unpredictable so he would just visit, pick up some goodies and return to the present.
@@ -444,7 +444,7 @@ So: The present.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No. But I will go and watch the pretty lights.

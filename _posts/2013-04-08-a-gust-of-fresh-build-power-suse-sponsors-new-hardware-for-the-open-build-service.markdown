@@ -44,7 +44,7 @@ As the waiting queue kept growing the OBS team approached different sponsors for
 
 This is expected to arrive in a matter of weeks. Once it is in, the admins will have to configure this truckload of compile nodes but we expect to have it up and running in the first half of May - spring will bring some serious compilation resources for the Geekos!
 
-_"This rack with nearly 40 nodes will blow your socks off! We're more than thankful that SUSE once again stepped up and showed us that they support us in any way possible. It's nice to be able to depend on your sponsors"_ - Said Adrian SchrÃ¶ter, Open Build Service Developer.
+_"This rack with nearly 40 nodes will blow your socks off! We're more than thankful that SUSE once again stepped up and showed us that they support us in any way possible. It's nice to be able to depend on your sponsors"_ - Said Adrian Schröter, Open Build Service Developer.
 
 
 ## Free but not for nothing
@@ -56,7 +56,7 @@ While we're at it, we'd like to remind everyone that building the tens of thousa
 
 
 
-Â 
+ 
 
 
 

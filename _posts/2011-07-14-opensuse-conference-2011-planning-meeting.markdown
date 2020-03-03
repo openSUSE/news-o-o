@@ -10,8 +10,8 @@ title: openSUSE Conference 2011 Planning Meeting
 wordpress_id: 9723
 ---
 
-Let's discuss together what the current status of each area is, who's responsible and what needs to be done.Â  For details see the [agenda](http://en.opensuse.org/openSUSE:Conference_meeting).
+Let's discuss together what the current status of each area is, who's responsible and what needs to be done.  For details see the [agenda](http://en.opensuse.org/openSUSE:Conference_meeting).
 
-We'll meet at freenode IRC in theÂ  #opensuse-project channel.
+We'll meet at freenode IRC in the  #opensuse-project channel.
 
 We'll update the [wiki](http://en.opensuse.org/openSUSE:Conference_Planning_2011) as part of this.

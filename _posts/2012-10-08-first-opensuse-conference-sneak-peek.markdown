@@ -43,7 +43,7 @@ Isabel Valverde kicks things off after lunch with a presentation about the openS
 
 openSUSE Ambassador Kostas Koudaras is the veteran of many conferences and events and has been heavily involved in developinng the Greek openSUSE community. Establishing successful programs for marketing and community involvement can be a trial-and-error process: you can never be sure how something will work until the 'rubber hits the road'. In this talk, Kostas sets out the roadmap for the newly invigorated openSUSE 'Ambassadors 2.0' . Find out how you can get involved or leverage these ideas for your own FLOSS project.
 
-Following on from Kostas is his countryman Î•Ï…ÏƒÏ„Î¬Î¸Î¹Î¿Ï‚ Î™Ï‰ÏƒÎ·Ï†Î¯Î´Î·Ï‚  (Efstathios Iosifidis). Stathis was a driving force in establishing the Greek openSUSE community and is a key member of the translation team. He is also a member of the GNOME foundation.and participated in mentoring for Google Summer of Code. He also has experience at some huge events including a Thessaloniki International Trade Fair and FOSSCOMM.
+Following on from Kostas is his countryman Ευστάθιος Ιωσηφίδης  (Efstathios Iosifidis). Stathis was a driving force in establishing the Greek openSUSE community and is a key member of the translation team. He is also a member of the GNOME foundation.and participated in mentoring for Google Summer of Code. He also has experience at some huge events including a Thessaloniki International Trade Fair and FOSSCOMM.
 
  Ih his talk on 'nonverbal communication at the booth', Stathis shares some tips on reaching out to attendees and creating a successful rappor. Linux events are building a reputation for being inclusive and welcoming. It's not always easy to do - sometimes the most 'natural' assumptions can be wrong: you'd be right about my status as 'just a user', but that other grey-haired older woman over there - she's been writing bare metal code since before you were though of.  Meanwhile for those of us who are naturally a bit reserved (and who isn't more comfortable behind a monitor?), the face-to-face interactions with strangers at a booth can be pretty daunting. I asked Stathis about his approach to breaking out of one's shell.
 
@@ -67,9 +67,9 @@ Programmers who have mastered some coding skills will find many talks to help th
 
  'Building RPMs for Starters'  is a fantastic choice if you're interested in getting 'hands on' with Linux. Learn basic packaging skills that you can apply to your own software or even use to help maintain packages for the distribution.   Straight after this talk is Stephan 'coolo' Kulow's  session on packaging Perl, Python, Ruby and Java.
 
-Web developers aren't forgotten. As part of the Linux Days proram you can catch Michal ÄŒihaÅ™ ;s 'Online translation using Weblate' at 11.30. You can learn how to make your software accessable to Linux users with Nelson Marques.
+Web developers aren't forgotten. As part of the Linux Days proram you can catch Michal Ìihař ;s 'Online translation using Weblate' at 11.30. You can learn how to make your software accessable to Linux users with Nelson Marques.
 
-How will your software fit in the world of open source? Learn more about the ecosystem with  Libor PechÃ¡Äek's 'How software gets from the community to commercial enterprise'. 
+How will your software fit in the world of open source? Learn more about the ecosystem with  Libor PecháÍek's 'How software gets from the community to commercial enterprise'. 
 
 There are many more advanced sessions at the conference, see more in [the schedule](http://bootstrapping-awesome.org/schedule/).
 

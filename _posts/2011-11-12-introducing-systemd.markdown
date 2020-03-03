@@ -49,8 +49,8 @@ mysql.service - LSB: Start the MySQL database server
           Active: active (running) since Wed, 02 Nov 2011 10:53:34 +0100; 24h ago
          Process: 3242 ExecStart=/etc/init.d/mysql start (code=exited, status=0/SUCCESS)
           CGroup: name=systemd:/system/mysql.service
-                  â”œ 3578 /bin/sh /usr/bin/mysqld_safe --mysqld=mysqld --user=mysql --pid-file=/var/run/mysql/mysqld.pid --socket=/var/ru...
-                  â”” 4191 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib64/mysql/plugin --user=mysql --lo...
+                  ├ 3578 /bin/sh /usr/bin/mysqld_safe --mysqld=mysqld --user=mysql --pid-file=/var/run/mysql/mysqld.pid --socket=/var/ru...
+                  └ 4191 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib64/mysql/plugin --user=mysql --lo...
 What is really cool with systemctl is its tab completion. on first level for command like systemctl will show you wich action you are able to run. On second level it will show which service name you can use like systemctl start my will complete mysql.service
     Disable/Enable a service
     systemctl disable mysql.service 
@@ -74,4 +74,4 @@ What is really cool with systemctl is its tab completion. on first level for com
     systemd.log_target=kmsg systemd.log_level=debug 
     
 Moving backwards
-While we do not recommend anyone using sys V init on 12.1, people who wish to choose it as the default can do so by installing sysvinit-init package (it will uninstall systemd-sysvinit package) or changing their grub options. Even if you don't use systemd, don't try to uninstall its package, it might break your system. You don't need to remove systemd-sysvinit in case of emergency, if you let installed the sysvinit package you can boot with traditonnal init by adding on your boot line init=/sbin/sysvinit et voilÃ  !
+While we do not recommend anyone using sys V init on 12.1, people who wish to choose it as the default can do so by installing sysvinit-init package (it will uninstall systemd-sysvinit package) or changing their grub options. Even if you don't use systemd, don't try to uninstall its package, it might break your system. You don't need to remove systemd-sysvinit in case of emergency, if you let installed the sysvinit package you can boot with traditonnal init by adding on your boot line init=/sbin/sysvinit et voilà !

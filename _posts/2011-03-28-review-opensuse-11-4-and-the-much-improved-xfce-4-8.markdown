@@ -14,7 +14,7 @@ categories:
 [caption id="attachment_7964" align="alignright" width="300" caption="The default XFCE desktop"][
 ![The default XFCE desktop](/wp-content/uploads/2011/03/desktop.png)](http://news.opensuse.org/2011/03/28/review-opensuse-11-4-and-the-much-improved-xfce-4-8/desktop/)[/caption]
 
-Just a few months ago, the XFCE project announcedÂ [XFCE 4.8](http://www.xfce.org/about/news/?post=1295136000),Â the result of over 2 years of hard work. This desktop, one of the four official desktops of [openSUSE 11.4](http://news.opensuse.org/2011/03/10/opensuse-11-4/), brings many new features. If you're not having fun in the desktops provided by KDE or GNOME you should have a close look at XFCE (or the lightweight LXDE). To show you how it's done, I checked out XFCE and wrote about my experience.
+Just a few months ago, the XFCE project announced [XFCE 4.8](http://www.xfce.org/about/news/?post=1295136000), the result of over 2 years of hard work. This desktop, one of the four official desktops of [openSUSE 11.4](http://news.opensuse.org/2011/03/10/opensuse-11-4/), brings many new features. If you're not having fun in the desktops provided by KDE or GNOME you should have a close look at XFCE (or the lightweight LXDE). To show you how it's done, I checked out XFCE and wrote about my experience.
 <!-- more -->
 
 

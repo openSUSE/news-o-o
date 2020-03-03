@@ -25,7 +25,7 @@ We are pleased to announce our new openSUSE Weekly News.
 
 ### openSUSE Weekly News Team
 
-ProducerÂ 
+Producer 
 
 Published: 
 
@@ -76,7 +76,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Marketing.png)Announcements
 
-**FigureÂ 1.Â Old Toad Poster**
+**Figure 1. Old Toad Poster**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
 <td >![Old Toad Poster](/wp-content/uploads/2010/11/Old-Toad-Poster-2.png)
@@ -87,8 +87,8 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 <blockquote>**[openSUSE poster and Free Software Calendar 2011 with Linux Magazin](http://news.opensuse.org/2010/12/06/opensuse-poster-and-free-software-calendar-2011-with-linux-magazin/)**
 > 
-> The Januari edition of the German [Linux-Magazin](http://www.linux-magazin.de) this year will feature something this Magazine has not featured for almost 10 years: a Free Software Event calendar. Sponsored by SUSE, this calendar features many of the upcoming Free Software events in 2011 mingled with interesting tidbits about Linux and Unix history! While this geeky piece of paper (offering the date and time of events in unix time) is cool, the back offers an even more exciting layer of ink: Beer! Our very own Robert Lihm, openSUSE artist Extra-Ordinaire has taken a picture of the [famous â€œOld Toadâ€ beer](http://en.opensuse.org/openSUSE:Beer), featured at the openSUSE conference. Uttering the infamous words â€œA good beer is a good beerâ€, he decided this would form a good foundation for a poster. Hence, everyone who gets his or her hands on this first 2011 edition of Linux-Magazin can use the back of this Calendar to show how much beer and openSUSE go together (read more about the beer).
-      The Linux-Magazin folks have also thought about those for whom German is not a first language â€“ they have made an English translation of the Calendar and the graphics for both Calendar and Poster are available on the openSUSE wiki for re-print under liberal licensing terms â€“ the magazine is for sale now, get it or just [download and print the calendars and of course the awesome poster](http://en.opensuse.org/openSUSE:Marketing_materials#Folders_and_leaflets)! For the poster we hope to have sources online soon, if you want them now, ask Robert Lihm!FigureÂ 1, â€œOld Toad Posterâ€
+> The Januari edition of the German [Linux-Magazin](http://www.linux-magazin.de) this year will feature something this Magazine has not featured for almost 10 years: a Free Software Event calendar. Sponsored by SUSE, this calendar features many of the upcoming Free Software events in 2011 mingled with interesting tidbits about Linux and Unix history! While this geeky piece of paper (offering the date and time of events in unix time) is cool, the back offers an even more exciting layer of ink: Beer! Our very own Robert Lihm, openSUSE artist Extra-Ordinaire has taken a picture of the [famous “Old Toad” beer](http://en.opensuse.org/openSUSE:Beer), featured at the openSUSE conference. Uttering the infamous words “A good beer is a good beer”, he decided this would form a good foundation for a poster. Hence, everyone who gets his or her hands on this first 2011 edition of Linux-Magazin can use the back of this Calendar to show how much beer and openSUSE go together (read more about the beer).
+      The Linux-Magazin folks have also thought about those for whom German is not a first language – they have made an English translation of the Calendar and the graphics for both Calendar and Poster are available on the openSUSE wiki for re-print under liberal licensing terms – the magazine is for sale now, get it or just [download and print the calendars and of course the awesome poster](http://en.opensuse.org/openSUSE:Marketing_materials#Folders_and_leaflets)! For the poster we hope to have sources online soon, if you want them now, ask Robert Lihm!Figure 1, “Old Toad Poster”
     
 > 
 > </blockquote>
@@ -99,7 +99,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
       You can read them online via [http://doc.opensuse.org](http://doc.opensuse.org). They are installed by default on your system so you can
         access them there as well. 
 > 
-> **FigureÂ 2.Â docs.opensuse.org**
+> **Figure 2. docs.opensuse.org**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![docs.opensuse.org](/wp-content/uploads/2010/12/doc.png)
@@ -109,12 +109,12 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 > 
 > For openSUSE 11.4, we face the usual challenge of updating the manuals: The documentation
-      writers know whatâ€™s in the manuals but do not know everything thatâ€™s changed and the
-      developers know whatâ€™s changed but may not know all the manuals. For openSUSE 11.4, I created
+      writers know what’s in the manuals but do not know everything that’s changed and the
+      developers know what’s changed but may not know all the manuals. For openSUSE 11.4, I created
         [feature 310944](https://features.opensuse.org/310944) Read the
       documentation at doc.opensuse.orgin openFATE which will be the one reference point for
-      documentation. Please add there things that need to be changed in the manuals. Iâ€™ve already
-      added a few things that came to mind. FigureÂ 2, â€œdocs.opensuse.orgâ€
+      documentation. Please add there things that need to be changed in the manuals. I’ve already
+      added a few things that came to mind. Figure 2, “docs.opensuse.org”
 > 
 > The Novell[ documentation
         team](http://en.opensuse.org/openSUSE:Documentation_team) will concentrate on updating the Startup Guide, the GNOME and KDE Quick Guides
@@ -144,7 +144,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > 
 > </blockquote>
 
-<blockquote>**[Join us on Saturday for the next openSUSE â€œZombieâ€ Bug Day](http://news.opensuse.org/2010/12/08/join-us-on-saturday-for-the-next-opensuse-zombie-bug-day/)**
+<blockquote>**[Join us on Saturday for the next openSUSE “Zombie” Bug Day](http://news.opensuse.org/2010/12/08/join-us-on-saturday-for-the-next-opensuse-zombie-bug-day/)**
 > 
 > On Saturday the 27th of November a Bug Day was organized to [solve
         the issue with Zombie bugs](http://news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/), bugs against old, non-maintained versions of openSUSE. A
@@ -154,7 +154,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > 
 > **Results** The outcome has been [awesome:](http://lists.opensuse.org/opensuse-project/2010-11/msg00205.html)
 > 
-> **TableÂ 1.Â Results**
+> **Table 1. Results**
 > 
 > <table border="1" summary="Results" ><tr >open Bugs in: openSUSE 10.2openSUSE 10.3openSUSE 11.0Total</tr><tbody ><tr >
 > <td >Before
@@ -189,7 +189,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > 
 >   * A recent version of[ openSUSE like
               11.3](http://software.opensuse.org/) or a [milestone of
-              11.4](http://software.opensuse.org/developer). Itâ€™s of course okay to run openSUSE in a virtual machine.
+              11.4](http://software.opensuse.org/developer). It’s of course okay to run openSUSE in a virtual machine.
 > 
 >   * An IRC client to interact with the other participants
 > 
@@ -199,7 +199,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
     
 > 
 > But the most important thing that you should know is that everybody can help: just join us
-      and weâ€™ll guide you, even if you only have 30 minutes of free time! A small team will organize
+      and we’ll guide you, even if you only have 30 minutes of free time! A small team will organize
       the event by providing lists of bugs, and will be available to guide new contributors if
       needed. So it will be easy to help, you just have to come to the #opensuse-bug channel on the
       freenode network at Saturday! 
@@ -215,7 +215,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
       Days in December. This was, without a doubt, a success with many of our team members showing
       up as well as many newcomers offering to lend a hand.
 > 
-> **FigureÂ 3.Â Apparently not build in a day**
+> **Figure 3. Apparently not build in a day**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Apparently not build in a day](/wp-content/uploads/2010/12/4757005099_74b8c7311b_b.jpg)
@@ -228,25 +228,25 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
     Ambassadors. Moderated by Kostas Koudaras and Carlos Ribeiro, a variety of assignments were
     tackled, from a list that included booth design and organization, kits for Ambassadors,
     presentations, talking points, 2011 planning and much more. To be sure, not everything can be
-    accomplished in one day. Heck, even Rome wasnâ€™t built in a day! Still, this day was long â€“ after
-    all, weâ€™re an international bunch, so there were a few more hours than usual :D 
+    accomplished in one day. Heck, even Rome wasn’t built in a day! Still, this day was long – after
+    all, we’re an international bunch, so there were a few more hours than usual :D 
 > 
 > But the coolest thing was that at the end of the day people volunteered to take on the
-    assignments that were not done and committed to finishing them! Weâ€™re confident that in the very
-    near future, weâ€™ll have just about everything on the list of last Monday will be finished.
-    Koudras and Ribeiro are busy sorting out the â€œdonesâ€ and remaining to-dos and the results will
+    assignments that were not done and committed to finishing them! We’re confident that in the very
+    near future, we’ll have just about everything on the list of last Monday will be finished.
+    Koudras and Ribeiro are busy sorting out the “dones” and remaining to-dos and the results will
     be posted on the [marketing
-      wiki](http://en.opensuse.org/Portal:Marketing).FigureÂ 3, â€œApparently not build in a dayâ€
+      wiki](http://en.opensuse.org/Portal:Marketing).Figure 3, “Apparently not build in a day”
 > 
 > **More Collaboration Days coming! **
 > 
 > Meanwhile, Linux Journal is noticing [the spirit of
-      openSUSE](http://www.linuxjournal.com/content/has-novell-deal-hampered-opensuse) â€“ mentioning the Collaboration days in the linked article! The team feels
+      openSUSE](http://www.linuxjournal.com/content/has-novell-deal-hampered-opensuse) – mentioning the Collaboration days in the linked article! The team feels
     full of energy and is looking forward to the next two Collaboration Days scheduled for this
-    month. On Monday, 13 December, weâ€™ll have the Marketing Materials Review Day and on Tuesday, 21
-    December, weâ€™ll have the PR and Social Media Review Day. 
+    month. On Monday, 13 December, we’ll have the Marketing Materials Review Day and on Tuesday, 21
+    December, we’ll have the PR and Social Media Review Day. 
 > 
-> To quickly summarize again what weâ€™ll be doing on those two days: 
+> To quickly summarize again what we’ll be doing on those two days: 
 > 
 > Marketing Review Day, under guidance of Chuck Payne and Bryen Yunashko, will review current
     posted materials including, but not limited to, brochures, slide presentations, talking points,
@@ -255,7 +255,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > 
 > Manu Gupta and Jos Poortvliet will host a Social Media day to focus on improving our
     press/media communication, especially through social media outlets like Twitter/Identi.ca, bogs,
-    Facebook and more. If youâ€™re interested in helping out, just do so! Itâ€™s great fun and we are
+    Facebook and more. If you’re interested in helping out, just do so! It’s great fun and we are
     getting things done.
 > 
 > **How it works **
@@ -265,7 +265,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
     come by, simply review the list and volunteer for an assignment to complete. Or, if you feel
     there is something else more relevant to your preferences, you may create your own assignment. 
 > 
-> At the end of the day, the moderators will review the dayâ€™s accomplishments and list what
+> At the end of the day, the moderators will review the day’s accomplishments and list what
     has been completed and what needs to be completed. This subsequently will be posted on the
     marketing wiki.
 > 
@@ -312,49 +312,49 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 #### ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Build-Service.png)Build Service Team
 
-<blockquote>**[Marcus HÃ¼we: osc
+<blockquote>**[Marcus Hüwe: osc
             0.130](http://lizards.opensuse.org/2010/12/06/osc-0-130/)**
 > 
 > We just released a new osc version: 0.130. The main changes/features are:
 > 
->   * â€“ new â€œrevertâ€ command to restore the original working copy file (without
+>   * – new “revert” command to restore the original working copy file (without
               downloading it)
 > 
->   * - rewrote â€œdiffâ€ logic
+>   * - rewrote “diff” logic
 > 
->   * - added new â€œâ€“http-full-debugâ€ option, â€œâ€“http-debugâ€ filters the â€œAuthenticationâ€
-              and â€œSet-Cookieâ€ header
+>   * - added new “–http-full-debug” option, “–http-debug” filters the “Authentication”
+              and “Set-Cookie” header
 > 
->   * - added new â€œâ€“disabled-cpio-bulk-downloadâ€ option: disable downloading packages as
+>   * - added new “–disabled-cpio-bulk-download” option: disable downloading packages as
               cpio archive from api
 > 
->   * - added new â€œrepairwcâ€ command which tries to repair an inconsistent working
+>   * - added new “repairwc” command which tries to repair an inconsistent working
               copy
 > 
 >   * - workaround for broken urllib2 in python 2.6.5: wrong credentials lead to an
               infinite recursion
 > 
->   * - support â€“interactive-review option when running â€œosc rq list
-              <project>â€
+>   * - support –interactive-review option when running “osc rq list
+              <project>”
 > 
->   * - improved â€œosc rq show <id> â€“interactive-reviewâ€
+>   * - improved “osc rq show <id> –interactive-review”
 > 
->   * - do_config: added new options â€“stdin, â€“prompt, â€“no-echo:
+>   * - do_config: added new options –stdin, –prompt, –no-echo:
 > 
->     * â€“stdin: read value from stdin
+>     * –stdin: read value from stdin
 > 
->     * â€“prompt: prompt for a value
+>     * –prompt: prompt for a value
 > 
->     * â€“no-echo: prompt for a value but donâ€™t echo entered characters (for instance
+>     * –no-echo: prompt for a value but don’t echo entered characters (for instance
                     to enter a passwd)
 > 
 >   * - added template support for a submitrequest accept/decline message
 > 
 >   * - lots of internal rewrites (new working copy handling etc.)
 > 
->   * - support added for osc search â€˜perl(Foo::Bar)â€™
+>   * - support added for osc search ‘perl(Foo::Bar)’
 > 
->   * - New â€œserviceâ€ command to run source services locally or trigger a re-run on the
+>   * - New “service” command to run source services locally or trigger a re-run on the
               server.
 > 
 >   * - setlinkrev is setting now the revision to xsrcmd5 by default to avoid later
@@ -364,13 +364,13 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
               request
 > 
 > Due to the rewrite of the working copy handling osc might fail with the following
-          error: Your working copy â€˜.â€™ is in an inconsistent state. Please
-            run â€˜osc repairwc .â€™ (Note this might _remove_ files from the .osc/ dir). Please check
-            the state of the working copy afterwards (via â€˜osc status .â€™)
+          error: Your working copy ‘.’ is in an inconsistent state. Please
+            run ‘osc repairwc .’ (Note this might _remove_ files from the .osc/ dir). Please check
+            the state of the working copy afterwards (via ‘osc status .’)
 > 
-> Simply run â€œosc repairwcâ€ which might fetch files from the api or delete some files
-          from the storedir (.osc/). It wonâ€™t touch locally modified files. For more information see
-          section â€œWORKING COPY INCONSISTENTâ€ in the README.
+> Simply run “osc repairwc” which might fetch files from the api or delete some files
+          from the storedir (.osc/). It won’t touch locally modified files. For more information see
+          section “WORKING COPY INCONSISTENT” in the README.
 > 
 > The new packages should be available soon in the [openSUSE:Tools
             repo](http://download.opensuse.org/repositories/openSUSE:/Tools/).
@@ -379,7 +379,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > 
 > </blockquote>
 
-**Build Service Statistics.Â **Statistics can found at [Buildservice](http://build.opensuse.org)
+**Build Service Statistics. **Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](/wp-content/uploads/2010/12/GNOME-foot.jpg)GNOME Team
 
@@ -388,15 +388,15 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > 
 > The first package I pushed to openSUSE was Notify OSD (Canonicals Notification
           Agent/Bubble) with a small patch for extended features (skinning/theming) maintained by Roman
-          Sukochev. This patch is popular and wasnâ€™t merged with Notify OSD because it â€˜breaksâ€™ the spec
-          of Notify OSD that states it shouldnâ€™t be skinnable/themable on Ubuntu. 
+          Sukochev. This patch is popular and wasn’t merged with Notify OSD because it ‘breaks’ the spec
+          of Notify OSD that states it shouldn’t be skinnable/themable on Ubuntu. 
 > 
-> Now Iâ€™ve packaged a lot of dependenciesâ€¦ cracked and patched GTK with a patch taken from
-          Ubuntu, spended hours of mind crushing frustrationâ€¦. but finally it has landed! The first
-          â€˜Indicatorâ€™ has landedâ€¦ Often known as â€œUbuntu Me Menuâ€, under openSUSE it will be known as
-          â€˜indicator-meâ€™.
+> Now I’ve packaged a lot of dependencies… cracked and patched GTK with a patch taken from
+          Ubuntu, spended hours of mind crushing frustration…. but finally it has landed! The first
+          ‘Indicator’ has landed… Often known as “Ubuntu Me Menu”, under openSUSE it will be known as
+          ‘indicator-me’.
 > 
-> **FigureÂ 4.Â Indicator ME Screenshot 1**
+> **Figure 4. Indicator ME Screenshot 1**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="75%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Indicator ME Screenshot 1](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-1.png)
@@ -405,27 +405,27 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 >   
 
 > 
-> This screenshot was taken on openSUSE Factory 11.4 Milestone 4. Itâ€™s a clean install with
+> This screenshot was taken on openSUSE Factory 11.4 Milestone 4. It’s a clean install with
           Sonar and the only tweak is the Faenza-Dark icon theme, which I also packaged and pushed to
-          openSUSE:Contrib. FigureÂ 4, â€œIndicator ME Screenshot 1â€
+          openSUSE:Contrib. Figure 4, “Indicator ME Screenshot 1”
 > 
-> Top right cornerâ€¦ Indicator ME on openSUSE. It worksâ€¦ I wonâ€™t backport it and will only
-          maintain it from 11.4 forward. Iâ€™m doing this for personal reasons, mainly to become an
-          alternative on a localized openSUSE Spin that will be named â€˜openSUSE IBERIAâ€™, which was
+> Top right corner… Indicator ME on openSUSE. It works… I won’t backport it and will only
+          maintain it from 11.4 forward. I’m doing this for personal reasons, mainly to become an
+          alternative on a localized openSUSE Spin that will be named ‘openSUSE IBERIA’, which was
           already taken into openSUSE-Project by Javier Llorente. 
 > 
 > The main reason to bring this to openSUSE and into IBERIA is tightly related to the fact
           that most people on the Iberian Peninsula use Ubuntu, so we find the best approach possible to
           offer something as close as Ubuntu and hopefully even a better offer when it comes to
-          localization. We donâ€™t want to make of openSUSE a â€˜cloneâ€™ of Ubuntu, instead we want to make
+          localization. We don’t want to make of openSUSE a ‘clone’ of Ubuntu, instead we want to make
           the openSUSE experience more close to what people already use. 
 > 
-> Iâ€™m also going to post a small pic of the same software, this time with Canonicalâ€™s
-          Radiance Theme, which introduces a small â€˜tabâ€™ like visual on the bar. This theme is awesomeâ€¦
-          regardless of what people think of Ubuntu and Canonicalâ€¦ This is the kind of polishing that
-          makes Canonical successful, not just the â€˜marketingâ€™ many point and even despise.
+> I’m also going to post a small pic of the same software, this time with Canonical’s
+          Radiance Theme, which introduces a small ‘tab’ like visual on the bar. This theme is awesome…
+          regardless of what people think of Ubuntu and Canonical… This is the kind of polishing that
+          makes Canonical successful, not just the ‘marketing’ many point and even despise.
 > 
-> **FigureÂ 5.Â Indicator ME Screenshot 2**
+> **Figure 5. Indicator ME Screenshot 2**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="75%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Indicator ME Screenshot 2](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-2.png)
@@ -434,12 +434,12 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 >   
 
 > 
-> Indicator ME as landedâ€¦ soon others will followâ€¦ My plans are to submit this pieces of
+> Indicator ME as landed… soon others will follow… My plans are to submit this pieces of
           software to GNOME:Apps, and not to push as default, but instead offer them at the distance of
-          a â€˜zypper in packageâ€™ to the openSUSE users out there. And at the same time, since the
-          libraries behind it are also packagedâ€¦ be more attractive to developers who might want to use
+          a ‘zypper in package’ to the openSUSE users out there. And at the same time, since the
+          libraries behind it are also packaged… be more attractive to developers who might want to use
           them. I see no loss neither an identity crisis on openSUSE by providing more packages and
-          alternative software to improve users Desktop experienceâ€¦ FigureÂ 5, â€œIndicator ME Screenshot 2â€
+          alternative software to improve users Desktop experience… Figure 5, “Indicator ME Screenshot 2”
 > 
 > Future work (after indicators):
 > 
@@ -453,11 +453,11 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 <blockquote>**[Nelson
             Marques: indicator-{session,network}](http://lizards.opensuse.org/2010/12/09/indicator-sessionnetwork/)**
 > 
-> Iâ€™ve manage to hammer in 2 more indicators. Indicator-session provides a quick and
+> I’ve manage to hammer in 2 more indicators. Indicator-session provides a quick and
           easy method to manage your GNOME session. The options are pretty intuitive and it works ok
           so far. A simple screenshot. 
 > 
-> **FigureÂ 6.Â Screenshot**
+> **Figure 6. Screenshot**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Screenshot](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot.png)
@@ -466,21 +466,21 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 >   
 
 > 
-> Then we have also indicator-network which was a bit more problematic to build and required a couple of very ugly quick fixes. Though Iâ€™ve built a package for it and itâ€™s dependencies (including The Connection Manager). My concerns about it: FigureÂ 6, â€œScreenshotâ€
+> Then we have also indicator-network which was a bit more problematic to build and required a couple of very ugly quick fixes. Though I’ve built a package for it and it’s dependencies (including The Connection Manager). My concerns about it: Figure 6, “Screenshot”
 > 
->   * Itâ€™s a piece of software under heavy development;
+>   * It’s a piece of software under heavy development;
 > 
 >   * The user configuration interface is very fuzzy and provides cool clear text passwords for LAN;
 > 
 >   * nm-applet is far superior;
 > 
->   * Requires â€˜connection managerâ€™ â€“ Connection Manager is a pretty cool application, and itâ€™s compat mode with Network Manager makes itâ€™s integration pretty easyâ€¦ Though â€˜connection managerâ€™ seemed to be an outstanding piece of software, Iâ€™m not going through all the trouble to package and integrate it in openSUSE (integration should be pretty fast, just a init script, since it allows compat mode with Network Manager).
+>   * Requires ‘connection manager’ – Connection Manager is a pretty cool application, and it’s compat mode with Network Manager makes it’s integration pretty easy… Though ‘connection manager’ seemed to be an outstanding piece of software, I’m not going through all the trouble to package and integrate it in openSUSE (integration should be pretty fast, just a init script, since it allows compat mode with Network Manager).
 > 
-> I personally donâ€™t like this network indicatorâ€¦ Though Iâ€™ve packaged it,  Iâ€™ve decided not to share it because of 4 points above. I really donâ€™t see anything positive about having it for openSUSE users, it would most likely turn their GNOME experience into something a bit fuzzy.
+> I personally don’t like this network indicator… Though I’ve packaged it,  I’ve decided not to share it because of 4 points above. I really don’t see anything positive about having it for openSUSE users, it would most likely turn their GNOME experience into something a bit fuzzy.
 > 
-> Either wayâ€¦ thatâ€™s how it looksâ€¦
+> Either way… that’s how it looks…
 > 
-> **FigureÂ 7.Â Screenshot 2**
+> **Figure 7. Screenshot 2**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Screenshot 2](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-41.png)
@@ -489,26 +489,26 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 >   
 
 > 
-> FigureÂ 7, â€œScreenshot 2â€
+> Figure 7, “Screenshot 2”
         
 > 
 > </blockquote>
 
 <blockquote>**[Nelson
-            Marques: New Indicatorsâ€¦ the saga continuesâ€¦](http://lizards.opensuse.org/2010/12/10/new-indicators-the-saga-continues/)**
+            Marques: New Indicators… the saga continues…](http://lizards.opensuse.org/2010/12/10/new-indicators-the-saga-continues/)**
 > 
-> As the indicator saga continuesâ€¦ some new indicators were builtâ€¦ Indicator-messages is
+> As the indicator saga continues… some new indicators were built… Indicator-messages is
           a small indicator that pics up messages and stuff from applications to display them on a
-          nice all-around indicator. It works fine with evolution (plugin also built and doesnâ€™t
-          require patching for what Iâ€™ve seen). 
+          nice all-around indicator. It works fine with evolution (plugin also built and doesn’t
+          require patching for what I’ve seen). 
 > 
 > This indicator support more applications, though they require some patching. As being
           discussed on the opensuse-GNOME mailing list as as proposed by Vincent Untz, this
           indicators are moving to GNOME:Apps and there _might_ an effort to support some features
-          in applications like empathy. Keep in mind this is not a priority, but if itâ€™s possible to
+          in applications like empathy. Keep in mind this is not a priority, but if it’s possible to
           support some more feature, it might happen.
 > 
-> **FigureÂ 8.Â Screenshot**
+> **Figure 8. Screenshot**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Screenshot](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-21.png)
@@ -517,39 +517,39 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 >   
 
 > 
-> AdditionallyFigureÂ 8, â€œScreenshotâ€, Iâ€™ve also tried some other indicatorsâ€¦ indicator-application for what I
-          can tell is an indicator that removes the menuâ€™s from the GTK applications and places them
-          on the panel (MAC style). Iâ€™ve built this indicator, but I have no means to test yet
-          because further patching is required at least in GTK and eventually on glib. I donâ€™t think
-          thereâ€™s actually any need to have this indicator, specially when it will bring additional
+> AdditionallyFigure 8, “Screenshot”, I’ve also tried some other indicators… indicator-application for what I
+          can tell is an indicator that removes the menu’s from the GTK applications and places them
+          on the panel (MAC style). I’ve built this indicator, but I have no means to test yet
+          because further patching is required at least in GTK and eventually on glib. I don’t think
+          there’s actually any need to have this indicator, specially when it will bring additional
           efforts on GTK maintenance, and this feature is somehow supported by software like
-          gnome-globalmenu (which Iâ€™ve also packaged for myself and works dearly with supported
+          gnome-globalmenu (which I’ve also packaged for myself and works dearly with supported
           apps). 
 > 
-> Iâ€™ve done some hammering on indicator-sound as wellâ€¦ Ubuntuâ€™s sound widgetâ€¦ Iâ€™m stuck
-          with some error and I have 2 possibilitiesâ€¦ downgrade to the last version of the previous
-          branch which should built, or work the current branch (more dependency demanding). Iâ€™m
-          working on itâ€¦ it will happen one way or another during the next days. I guess this one is
+> I’ve done some hammering on indicator-sound as well… Ubuntu’s sound widget… I’m stuck
+          with some error and I have 2 possibilities… downgrade to the last version of the previous
+          branch which should built, or work the current branch (more dependency demanding). I’m
+          working on it… it will happen one way or another during the next days. I guess this one is
           actually one of the most wanted :) 
 > 
-> There are few other indicatorsâ€¦ for time and date, calendar and so onâ€¦ Those will be
-          last ones. After indicator-sound is done, Iâ€™m starting to clean up the packaging and make
-          sure itâ€™s compliant to the GNOME team methodology and submit them to GNOME:Apps and the
+> There are few other indicators… for time and date, calendar and so on… Those will be
+          last ones. After indicator-sound is done, I’m starting to clean up the packaging and make
+          sure it’s compliant to the GNOME team methodology and submit them to GNOME:Apps and the
           support libraries that are required as dependencies forwarded to projects where they might
           be useful (need to check out with the people which ones those will be). 
 > 
 > A special thanks to Ken Vandine from Canonical for some guidance with libindicate. 
 > 
-> Iâ€™ve seen around some â€˜hateâ€™ waves towards Canonical, and I would like to say that so
-          far in the few times Iâ€™ve interacted with them, either on bug submission or asking help,
-          they have been awesome and caring. Itâ€™s really something I would like to pointâ€¦ they are
-          pretty cool, and their devs are very helpful (but heyâ€¦ so are our devs ;) ). Also a very
+> I’ve seen around some ‘hate’ waves towards Canonical, and I would like to say that so
+          far in the few times I’ve interacted with them, either on bug submission or asking help,
+          they have been awesome and caring. It’s really something I would like to point… they are
+          pretty cool, and their devs are very helpful (but hey… so are our devs ;) ). Also a very
           special thanks to Vincent Untz, Dimstar and mrdocs which have been a great help and from
-          whom Iâ€™ve learned already a lot.
+          whom I’ve learned already a lot.
 > 
-> So picking up the useful stuffâ€¦ and placing it up together in a single Indicator:
+> So picking up the useful stuff… and placing it up together in a single Indicator:
 > 
-> **FigureÂ 9.Â Screenshot 2**
+> **Figure 9. Screenshot 2**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Screenshot 2](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-11.png)
@@ -558,7 +558,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 >   
 
 > 
-> FigureÂ 9, â€œScreenshot 2â€
+> Figure 9, “Screenshot 2”
 > 
 > </blockquote>
 
@@ -600,7 +600,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 <blockquote>**[Off-Line one click install (MSI for Linux) (Score: 52)](https://features.opensuse.org/305582)**
 > 
-> "Idea from community member RaÃºl GarcÃ­a.
+> "Idea from community member Raúl García.
             Same  concept as MSI packages for Windows but exploiting the One Click   Install concept of openSUSE (and therefore inheriting the simplicity,   code and security. (...)"
 > 
 > </blockquote>
@@ -707,7 +707,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
           Portal](http://i18n.opensuse.org/).
 
   * [Trunk
-          Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization
+          Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization
           Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
@@ -724,7 +724,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 [December 08, 2010: German Wiki Team Meeting"](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
-[December 09, 2010: ï»¿openSUSE KDE Team meeting"](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+[December 09, 2010: ﻿openSUSE KDE Team meeting"](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 **Upcoming**
 
@@ -747,7 +747,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 ### From Ambassadors
 
-**FigureÂ 10.Â Braselieros**
+**Figure 10. Braselieros**
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 <td >![Braselieros](/wp-content/uploads/2010/12/openSUSE-Brasil-Group-DSC00240.jpg)
@@ -761,37 +761,37 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
       **
 > 
 > The openSUSE Brasileiros!
-        A few weeks ago, Latinoware offered an opportunity for the Brazilian openSUSE ambassadors to organize an ambassador meeting, combined with a great showing at the Latinoware event itself. The ambassadors gave a series of talks and workshops while answering questions at the booth and helping users with the installation of openSUSE. International visitors Bryen Yushenko and Jos Poortvliet flew in to attend the ambassador meeting, get to know the team and give keynotes about the importance of accessibility and the openSUSE community itself. It is safe to say that the event was hugely successful and of course a lot of fun! FigureÂ 10, â€œBraselierosâ€
+        A few weeks ago, Latinoware offered an opportunity for the Brazilian openSUSE ambassadors to organize an ambassador meeting, combined with a great showing at the Latinoware event itself. The ambassadors gave a series of talks and workshops while answering questions at the booth and helping users with the installation of openSUSE. International visitors Bryen Yushenko and Jos Poortvliet flew in to attend the ambassador meeting, get to know the team and give keynotes about the importance of accessibility and the openSUSE community itself. It is safe to say that the event was hugely successful and of course a lot of fun! Figure 10, “Braselieros”
 > 
 > **Venue** Many semi-government organizations or
         government-run companies in Brazil, operating important communal services, have a dual
-        purpose. A library provides books and a Museum shows itâ€™s guests the beauty of art. But they
+        purpose. A library provides books and a Museum shows it’s guests the beauty of art. But they
         have other goals too like creating jobs or improving welfare. Latinoware itself is an
-        example as it is hosted by Itaipu. Itaipu is â€˜s worlds largest hydroelectric dam located
-        across the Brazil-Paraguay border (also close to Argentina) and near to Foz do IguaÃ§u, a
-        city with about 500.000 inhabitants. Foz do IguaÃ§u is a very touristy place, as it features
-        the world largest water fall (Cataratas do IguaÃ§u in English is Iguassu Falls, the water
-        falls of Foz do IguaÃ§u). It used to feature an even larger waterfall â€“ the building of the
+        example as it is hosted by Itaipu. Itaipu is ‘s worlds largest hydroelectric dam located
+        across the Brazil-Paraguay border (also close to Argentina) and near to Foz do Iguaçu, a
+        city with about 500.000 inhabitants. Foz do Iguaçu is a very touristy place, as it features
+        the world largest water fall (Cataratas do Iguaçu in English is Iguassu Falls, the water
+        falls of Foz do Iguaçu). It used to feature an even larger waterfall – the building of the
         worlds largest hydro-electric dam has however turned the worlds second largest waterfall
         into the biggest. This collaborative effort between the two countries generates about 19% of
-        Brazilâ€™s and almost 90% of Paraguayâ€™s annual electricity needs. Itaipu invests heavily in
+        Brazil’s and almost 90% of Paraguay’s annual electricity needs. Itaipu invests heavily in
         social programs to decrease social inequality, build schools and care for the environment.
-        And it organizes Latinoware â€“ an attempt to increase education and support the local
-        economy. I donâ€™t have to argue with you why Free Software is far better for the local
-        economy than proprietary â€“ great to see this is recognized by Itaipu. Itaipu itself makes
+        And it organizes Latinoware – an attempt to increase education and support the local
+        economy. I don’t have to argue with you why Free Software is far better for the local
+        economy than proprietary – great to see this is recognized by Itaipu. Itaipu itself makes
         heavy use of Free Software, running thousands of openSUSE and SUSE Enterprise systems. John
-        â€œMaddogâ€ Hall explained on the bus to the conference location: they have a long term
-        investment here. When they started building the dams, software was new â€“ and so were
+        “Maddog” Hall explained on the bus to the conference location: they have a long term
+        investment here. When they started building the dams, software was new – and so were
         software businesses. Even now, the time needed to recoup the building costs (and hence the
         minimum life expectancy of the project) exceeds that of most software companies. Imagine the
-        damage if Itaipu would suddenly be stuck with unsupported software running some of itâ€™s most
+        damage if Itaipu would suddenly be stuck with unsupported software running some of it’s most
         crucial infrastructure! Itaipu wisely decided to go for a more long-term, durable solution
         build on Linux. This provides them with software which is maintained by a huge international
-        community of large and small businesses and individuals â€“ and even if they would fail to
+        community of large and small businesses and individuals – and even if they would fail to
         maintain it, Itaipu has the freedom to do it by themselves as they have access to the source
         code.
 > 
-> **FigureÂ 11.Â Jos Poortvliet gives a keynote at the Conference**
+> **Figure 11. Jos Poortvliet gives a keynote at the Conference**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Jos Poortvliet gives a keynote at the Conference](/wp-content/uploads/2010/12/Jos-DSC00137.jpg)
@@ -806,15 +806,15 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
         openSUSE team. Most of the openSUSE ambassadors arrived late on the night before the
         conference so the breakfast at the hotel turned into a meet-and-greet. At the conference the
         team quickly set up the booth and started to prepare for the talks and workshops which were
-        scheduled. There was quite a turnout and unfortunately the supply of openSUSE DVDâ€™s provided
-        a serious stumbling block â€“ customs had stopped a shipping of 1000 DVDâ€™s at the border so
+        scheduled. There was quite a turnout and unfortunately the supply of openSUSE DVD’s provided
+        a serious stumbling block – customs had stopped a shipping of 1000 DVD’s at the border so
         there were only a hundred or so to give away. The ambassadors mitigated the issue by
-        performing openSUSE installations at the booth, thus â€˜sharingâ€™ the DVDâ€™s in true Free
+        performing openSUSE installations at the booth, thus ‘sharing’ the DVD’s in true Free
         Software fashion. The first day ended with a party including a rock band at conference
         venue, openSUSE people fueling party spirit with Bryen Yushenko in the lead and yours truly
-        bouncing around as well.FigureÂ 11, â€œJos Poortvliet gives a keynote at the Conferenceâ€
+        bouncing around as well.Figure 11, “Jos Poortvliet gives a keynote at the Conference”
 > 
-> **FigureÂ 12.Â openSUSE Brasil Meeting**
+> **Figure 12. openSUSE Brasil Meeting**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![openSUSE Brasil Meeting](/wp-content/uploads/2010/12/oS-Brazil-meeting-DSC00235.jpg)
@@ -832,9 +832,9 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
         20 people attending. We did a round of introductions and spoke about the future of openSUSE
         in Brazil and South America in general. The ambassadors who volunteered at Latinoware to
         help out received some cool rewards including openSUSE branded soap, courtesy of the
-        creative brain of Carlos Ribeiro.FigureÂ 12, â€œopenSUSE Brasil Meetingâ€
+        creative brain of Carlos Ribeiro.Figure 12, “openSUSE Brasil Meeting”
 > 
-> **FigureÂ 13.Â Carlos Ribeiro introduces openSUSE Edu-L-Ife to Latinoware**
+> **Figure 13. Carlos Ribeiro introduces openSUSE Edu-L-Ife to Latinoware**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Carlos Ribeiro introduces openSUSE Edu-L-Ife to Latinoware](/wp-content/uploads/2010/12/Carlos-DSC00197.jpg)
@@ -847,12 +847,12 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
         invited people from the KDE, GNOME and Latinoware event teams at the hotel together for a
         party. A few ambassadors went out to get Pizza and Beer, and upon their return the 25 FOSS
         enthusiasts enjoyed some quality time together. Rest assured that the openSUSE team in
-        Brazil is very much alive and kickinâ€™ and has great plans for the future. A big thank you
-        for the invitation from openSUSE ambassadors Carlos and Izabel â€“ and extra special hugs for
-        Izabel who organized both the openSUSE and the GNOME booth, took care of hotel, travel â€“ in
-        short, without her Latinoware would have missed two excellent projects ;-)FigureÂ 13, â€œCarlos Ribeiro introduces openSUSE Edu-L-Ife to Latinowareâ€
+        Brazil is very much alive and kickin’ and has great plans for the future. A big thank you
+        for the invitation from openSUSE ambassadors Carlos and Izabel – and extra special hugs for
+        Izabel who organized both the openSUSE and the GNOME booth, took care of hotel, travel – in
+        short, without her Latinoware would have missed two excellent projects ;-)Figure 13, “Carlos Ribeiro introduces openSUSE Edu-L-Ife to Latinoware”
 > 
-> **FigureÂ 14.Â Izabel Valverde discusses openSUSE at our booth**
+> **Figure 14. Izabel Valverde discusses openSUSE at our booth**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
 > <td >![Izabel Valverde discusses openSUSE at our booth](/wp-content/uploads/2010/12/Izabel-DSC00063.jpg)
@@ -867,7 +867,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
         ambassadors organized a large number of well-attended talks and workshops; there was the
         openSUSE keynote; and at the booth many visitors brought their laptops to be equipped with a
         fresh openSUSE installation. In short, we made quite an impact at the conference and brought
-        fun with us!FigureÂ 14, â€œIzabel Valverde discusses openSUSE at our boothâ€
+        fun with us!Figure 14, “Izabel Valverde discusses openSUSE at our booth”
 > 
 > </blockquote>
 
@@ -1000,7 +1000,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[SUSE Security Announcement: acoread (SUSE-SA:2010:058)](http://lists.opensuse.org/opensuse-security-announce/2010-12/msg00001.html)**
 > 
-> <table frame="void" id="id325461" >TableÂ 2.Â Security Announce<tr >
+> <table frame="void" id="id325461" >Table 2. Security Announce<tr >
           
           
         </tr><tbody ><tr >
@@ -1070,7 +1070,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[SUSE Security Summary Report: SUSE-SR:2010:023](http://lists.opensuse.org/opensuse-security-announce/2010-12/msg00000.html)**
 > 
-> <table frame="void" id="id325691" >TableÂ 3.Â <tr >
+> <table frame="void" id="id325691" >Table 3. <tr >
           
           
         </tr><tbody ><tr >
@@ -1156,11 +1156,11 @@ To view the security announcements in full, or to receive them
       **
 > 
 > There are lots of options for creating 3D characters for animation, and they are often
-        made from scratch by mesh-modeling artists. But itâ€™s obviously a very often-needed task,
-        using a lot of common elements, so youâ€™d think someone would come up with a tool to make it
-        easier. And youâ€™d be right. The free-software tool of choice for this task is MakeHuman. I
+        made from scratch by mesh-modeling artists. But it’s obviously a very often-needed task,
+        using a lot of common elements, so you’d think someone would come up with a tool to make it
+        easier. And you’d be right. The free-software tool of choice for this task is MakeHuman. I
         had looked into a much earlier version of the software before, but today it is rapidly
-        approaching the first real release, version 1.0 (currently itâ€™s at 1.0-Alpha 5, with plans
+        approaching the first real release, version 1.0 (currently it’s at 1.0-Alpha 5, with plans
         to go through several more alphas still). The progress is remarkable, and this is going to
         be a really important tool for 3D modeling in the future. (...) 
 > 
@@ -1171,9 +1171,9 @@ To view the security announcements in full, or to receive them
 <blockquote>**[Chuck Payne: Tips and Trick: fdisk helps find and show your drives.](http://opensuse.terrorpup.net/?p=204)**
 > 
 > Have you every wanted to know how many hard drives a system has? Or how to find that USB
-        drive that you just plugged in, that isnâ€™t showing up? It very simple with fdisk. Fdisk â€”
+        drive that you just plugged in, that isn’t showing up? It very simple with fdisk. Fdisk —
         Partition table manipulator for Linux. Is also a great tool to help you. To see your drives
-        run the following commandâ€¦ (...) 
+        run the following command… (...) 
 > 
 > </blockquote>
 
@@ -1202,21 +1202,21 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[Nelson Marques: A new aeon, a new team of ambassadors!](http://lizards.opensuse.org/2010/12/06/a-new-aeon-a-new-team-of-ambassadors/)**
 > 
-> For a long time that I actively search the Portuguese Ambassadorsâ€¦ unfortunately I was unable to find them. Iâ€™ve learned once with someone which is very dear to me a single line that ended up by translating one great universal truth: â€œStopping is dyingâ€.
+> For a long time that I actively search the Portuguese Ambassadors… unfortunately I was unable to find them. I’ve learned once with someone which is very dear to me a single line that ended up by translating one great universal truth: “Stopping is dying”.
 > 
-> This afternoon, Iâ€™ve traveled northeast to the beautiful city of Oliveira de Azemeis, where Iâ€™ve met one of the unknown faces of the Portuguese openSUSE Community, JoÃ£o Matias. Weâ€™ve had a small chat about several topicsâ€¦ amongst them:
+> This afternoon, I’ve traveled northeast to the beautiful city of Oliveira de Azemeis, where I’ve met one of the unknown faces of the Portuguese openSUSE Community, João Matias. We’ve had a small chat about several topics… amongst them:
 > 
->   * OBS â€“ openSUSE Build Service â€“ howto, examples and how useful it can be for students
+>   * OBS – openSUSE Build Service – howto, examples and how useful it can be for students
           projects!
 > 
->   * University Campus â€“ Event creatonâ€¦ how openSUSE can represent itself on 3rd parties
+>   * University Campus – Event creaton… how openSUSE can represent itself on 3rd parties
           events inside of the campus;
 > 
 >   * Concerns about the growth of the Portuguese Community;
 > 
 >   * Ambassadors or Campus Activists?
 > 
->   * The new â€˜Portugueseâ€™ Forum at forums.opensuse.org (Special Thanks to Jim Henderson and
+>   * The new ‘Portuguese’ Forum at forums.opensuse.org (Special Thanks to Jim Henderson and
           the Forums Team for their outstanding guidance during the submission process);
 > 
 >   * Christmas Dinner @ 11th December and hot-topics.
@@ -1229,7 +1229,7 @@ To view the security announcements in full, or to receive them
 <blockquote>**[Andrew Wafaa:
         Blogged about: Smeegol Status - 08Dec10](http://www.wafaa.eu/entry/smeegol-status---08dec10-1-45.html)**
 > 
-> Looks like it's been a while since I mentioned anything about our dear friend Smeegol â€“
+> Looks like it's been a while since I mentioned anything about our dear friend Smeegol –
       sorry. 
 > 
 > As most will know MeeGo made a couple of releases: 
@@ -1240,10 +1240,10 @@ To view the security announcements in full, or to receive them
 > 
 > So where is Smeegol? Well we're pretty much there, although not 100%. I have
       1.0.5 all built and packaged including an image. Problem is I seem to have hit a bug with
-      network-manager-netbook â€“ it doesn't seem to be displaying networks which is a fairly
+      network-manager-netbook – it doesn't seem to be displaying networks which is a fairly
       fundamental issue :-( 
 > 
-> I have also got 1.1.0 built, but for factory only atm â€“ I'm having some issues with
+> I have also got 1.1.0 built, but for factory only atm – I'm having some issues with
       tracker on 11.3. Problem is when I try and run the image, I basically have an unusable system
       thanks to some Gconf fubar but I don't really know what. 
 > 
@@ -1343,7 +1343,7 @@ To view the security announcements in full, or to receive them
 > The [Amarok](http://amarok.kde.org/) development team has released a first beta for version 2.4 of the open source music player for the KDE desktop, code named "Closer". According to the developers, the first beta is aimed at developers and early adopters and includes a number of new features that require "a lot of testing to make sure they are top-notch for final release at the beginning of 2011".
       
 > 
-> The 2.4 Beta 1 release features a completely re-written collection scanner that better detects compilations, the option to have Amarok write statistics and album covers back to the files directly and the inclusion of [transcoding](http://en.wikipedia.org/wiki/Transcoding) support â€“ the developers note that transcoding will be expanded to media devices in a future release. A new applet for guitar and bass tab information, map and calendar views for the upcoming events applet, and the new Playdar collection that allows users to listen to music provided by a local Playdar service have also been added. Other changes include an option to show and hide the menu bar, a mass-tagging user interface using the [Musicbrainz](http://musicbrainz.org/) open content music database and support for the third generation iPod Touch.
+> The 2.4 Beta 1 release features a completely re-written collection scanner that better detects compilations, the option to have Amarok write statistics and album covers back to the files directly and the inclusion of [transcoding](http://en.wikipedia.org/wiki/Transcoding) support – the developers note that transcoding will be expanded to media devices in a future release. A new applet for guitar and bass tab information, map and calendar views for the upcoming events applet, and the new Playdar collection that allows users to listen to music provided by a local Playdar service have also been added. Other changes include an option to show and hide the menu bar, a mass-tagging user interface using the [Musicbrainz](http://musicbrainz.org/) open content music database and support for the third generation iPod Touch.
       
 > 
 > As with all development releases, use in production environments and on mission critical systems is not advised. Users testing the release are encouraged to provide feedback and [report](http://bugs.kde.org/) any bugs that they encounter.
@@ -1366,7 +1366,7 @@ We thank for this Issue:
 
   * Gertjan Lettink, Forums Section
 
-  * Thomas HofstÃ¤tter, Eventeditor
+  * Thomas Hofstätter, Eventeditor
 
   * Thomas Schraitle, DocBook-Consultant
 

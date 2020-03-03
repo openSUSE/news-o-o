@@ -23,10 +23,10 @@ Issue #101 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_
   * Announcing New openSUSE Board mebers
 
 	
-  * Thomas GÃ¶ttlicher: Install Multiple  Kernel Versions using the YaST Qt Package Manager
+  * Thomas Göttlicher: Install Multiple  Kernel Versions using the YaST Qt Package Manager
 
 	
-  * Ben Kevan: KDE 4.4 Beta 1 â€“ Tabbed  Windows Review â€“ openSUSE
+  * Ben Kevan: KDE 4.4 Beta 1 – Tabbed  Windows Review – openSUSE
 
 	
   * Adobe Flash Vulnerabilities Affect  Flash Player and Adobe AIR

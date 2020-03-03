@@ -19,7 +19,7 @@ tags:
 - release
 ---
 
-[![openSUSE Milestone 3](/wp-content/uploads/2011/07/mobile_spherical_robot.jpg)](http://news.opensuse.org/2011/07/22/a-new-milestone-on-the-cloud-opensuse-releases-milestone-3/mobile_spherical_robot/)Just a few days ago the third of six milestones on the road to openSUSE 12.1 has been made [available](http://software.opensuse.org/developer/en) for testing before it goes to final release November 11th, 2011.Â  (Yes, 11-11-11!)
+[![openSUSE Milestone 3](/wp-content/uploads/2011/07/mobile_spherical_robot.jpg)](http://news.opensuse.org/2011/07/22/a-new-milestone-on-the-cloud-opensuse-releases-milestone-3/mobile_spherical_robot/)Just a few days ago the third of six milestones on the road to openSUSE 12.1 has been made [available](http://software.opensuse.org/developer/en) for testing before it goes to final release November 11th, 2011.  (Yes, 11-11-11!)
 
 
 
@@ -46,7 +46,7 @@ The third milestone has a huge number of changes and improvements on top of the 
   * Kernel 	3.0 rc7
 
 	
-  * Python3 Â 	 3.2
+  * Python3  	 3.2
 
 	
   * Sysstat 	10.0.1

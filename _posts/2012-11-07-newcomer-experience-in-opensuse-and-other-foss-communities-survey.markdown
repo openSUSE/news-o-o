@@ -5,7 +5,7 @@ date: 2012-11-07 19:50:05+00:00
 layout: post
 link: https://news.opensuse.org/2012/11/07/newcomer-experience-in-opensuse-and-other-foss-communities-survey/
 slug: newcomer-experience-in-opensuse-and-other-foss-communities-survey
-title: Newcomer experience in openSUSE and other FOSS communities â€“ Survey
+title: Newcomer experience in openSUSE and other FOSS communities – Survey
 wordpress_id: 14548
 categories:
 - Announcements
@@ -20,17 +20,17 @@ Kevin Carillo, a PhD student currently living in Wellington (New Zealand) is doi
 
 openSUSE is a successful community that keeps attracting new contributors and that has a reputation of being extremely newcomer-friendly. But is this enough to make sure that openSUSE remains a healthy and growing project?
 
-Suppose a community manages to attract 20 new members every month and suppose a large number of them do not comply to the code of conduct, commit changes without considering the people or modules/components being affected by the commits, do not attend or contribute to any of the community events, do not assist any other members when they seek for help, do not treat other members with respect â€¦ It will not take a lot of time until the health of the community will be affected and the future of the project seriously jeopardized.
+Suppose a community manages to attract 20 new members every month and suppose a large number of them do not comply to the code of conduct, commit changes without considering the people or modules/components being affected by the commits, do not attend or contribute to any of the community events, do not assist any other members when they seek for help, do not treat other members with respect … It will not take a lot of time until the health of the community will be affected and the future of the project seriously jeopardized.
 
 The main assumption that motivated this project is that attracting new members has become crucial for a large majority of FOSS communities but this is not a sufficient condition to ensure the success and prosperity of a project.
 
-So, yes â€¦ it is important to attract newcomers but a community needs to make sure that a certain proportion of these newcomers become â€˜goodâ€™ contributors from the community perspective. â€˜Goodâ€™ in the sense that they shall contribute to the well-being and growth of the community. â€˜Goodâ€™ as good community citizens.
+So, yes … it is important to attract newcomers but a community needs to make sure that a certain proportion of these newcomers become ‘good’ contributors from the community perspective. ‘Good’ in the sense that they shall contribute to the well-being and growth of the community. ‘Good’ as good community citizens.
 
 
 ## What do newcomers really experience?
 
 
-Keeping all that in mind, FOSS projects have thus to do a good job at â€˜socializingâ€™ their newcomers and turning them into contributors. Doing a good job here means that FOSS projects shall ensure that they help generate those citizenship behaviors from newcomers by designing appropriate newcomer programmes and procedures.
+Keeping all that in mind, FOSS projects have thus to do a good job at ‘socializing’ their newcomers and turning them into contributors. Doing a good job here means that FOSS projects shall ensure that they help generate those citizenship behaviors from newcomers by designing appropriate newcomer programmes and procedures.
 
 openSUSE has initiatives to facilitate the integration of newcomers with its active involvement in GSoC or GCI, or the use of junior jobs for instance. Other large FOSS projects may rely on other types of newcomer initiatives such as the use of newcomer resources (e.g. tutorials), newcomer sub-communities, formal/informal mentoring, or sponsorship mechanisms...
 

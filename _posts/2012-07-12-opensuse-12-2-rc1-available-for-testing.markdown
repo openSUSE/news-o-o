@@ -54,7 +54,7 @@ And finally, following a security audit, polkit privileges for colord were relax
 ## Next steps
 
 
-The month of August will see intensive bugfixing, so get testing and reporting. Â A final release is planned for mid-September and RC2 will be available on the 2nd of August.
+The month of August will see intensive bugfixing, so get testing and reporting.  A final release is planned for mid-September and RC2 will be available on the 2nd of August.
 
 Packagers and testers should be aware that openSUSE 12.2 development happens on its own branch, so Factory is ahead of 12.2 now. The public 12.2 repository will be updated next with RC2 and updates will be available as online updates.
 

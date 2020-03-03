@@ -16,7 +16,7 @@ tags:
 
 The [openSUSE Forums](http://forums.opensuse.org/) blew past another milestone on January 5th. [More than 40,000 users](http://forums.opensuse.org/announcements/430087-40-000-member-milestone.html) are now registered on the openSUSE Forums!
 
-The forums are currently at 40,445 users, and growing. Since the last time we posted a milestone link, the forums have not only added thousands of members, but also several language-specific forums in addition to the main English language forums. The openSUSE Forums now host FranÃ§ais (French), Magyar (Hungarian), PÑƒÑÑÐºÐ¸Ð¹ (Russian), as well as links to external forums in Deutsch (German) and ×¢Ö´×‘×¨Ö´×™×ª (Hebrew).
+The forums are currently at 40,445 users, and growing. Since the last time we posted a milestone link, the forums have not only added thousands of members, but also several language-specific forums in addition to the main English language forums. The openSUSE Forums now host Français (French), Magyar (Hungarian), Pусский (Russian), as well as links to external forums in Deutsch (German) and עִברִית (Hebrew).
 
 If you'd like to see a new language-specific forum launched, leave a comment in the [comments and suggestions](http://forums.opensuse.org/forums-comments-suggestions/) thread on the openSUSE Forums (preferred), or touch base with [Kim Groneman](mailto:kgroneman@novell.com) and/or [Rupert Horstkoetter](mailto:rhorstkoetter -at- NOSPAM opensuse.org) directly.
 

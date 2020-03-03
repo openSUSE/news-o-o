@@ -459,7 +459,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 125. Enjoy it...
 ####  [** openSUSE 11.3 Milestone 7: Preparing for RC Phase**](http://lists.opensuse.org/opensuse-announce/2010-05/msg00016.html)
 
 
-"Milestone 7, a snapshot of the openSUSE Factory â€œwork in progressâ€ build, leading up to openSUSE 11.3 release in July, is now available for download.  M7 is the last milestone release, the next release will be RC1 on June 17th. Now it's time for testing and bugfixing!  openSUSE 11.3 Progress  Compared to M6, this milestone brings many bug fixes, an update to Linux kernel 2.6.34 and the integration of software translations and new artwork."  
+"Milestone 7, a snapshot of the openSUSE Factory “work in progress” build, leading up to openSUSE 11.3 release in July, is now available for download.  M7 is the last milestone release, the next release will be RC1 on June 17th. Now it's time for testing and bugfixing!  openSUSE 11.3 Progress  Compared to M6, this milestone brings many bug fixes, an update to Linux kernel 2.6.34 and the integration of software translations and new artwork."  
 
 
 ####  [**openSUSE.org Scheduled Outage**](http://news.opensuse.org/2010/05/27/opensuse-org-scheduled-outage/)
@@ -471,7 +471,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 125. Enjoy it...
 ####  [Klaas Freitag: Novell Hackweek Fife](http://lizards.opensuse.org/2010/05/28/novell-hackweek-fife/)
 
 
-"I am really looking forward to the next Hackweek that we have in Novell â€“ it will be in the week from 7-11 of June 2010.  In that week, Novell allows a whole lot of people to spend the full work time (and more ;-) to work on whatever free software they want. That is really a huge thing, because weâ€™re talking about hundrets of engineers.  What everybody is working on is as said not at all prescribed, except that it should benefit the idea of free software. There is a [list maintained](https://features.opensuse.org/query/run?search_products%5B%5D=hackweek_5&type=find) of ideas which people have for [Hackweek Fife](https://features.opensuse.org/hackweek) in order to find somebody joining the team or to pick the idea up at all.  The good thing now is that of course [openFATE](https://features.opensuse.org/) is used to maintain this list and thus it is open for the openSUSE Community to also add ideas, comment or vote on whats already there. This is of course no guarantee that the idea is going to be picked up but still. So everybody who thinks she has an idea that will inspire someone on Hackweek Fife, feel free to add it to openFATE and talk about. (...)" 
+"I am really looking forward to the next Hackweek that we have in Novell – it will be in the week from 7-11 of June 2010.  In that week, Novell allows a whole lot of people to spend the full work time (and more ;-) to work on whatever free software they want. That is really a huge thing, because we’re talking about hundrets of engineers.  What everybody is working on is as said not at all prescribed, except that it should benefit the idea of free software. There is a [list maintained](https://features.opensuse.org/query/run?search_products%5B%5D=hackweek_5&type=find) of ideas which people have for [Hackweek Fife](https://features.opensuse.org/hackweek) in order to find somebody joining the team or to pick the idea up at all.  The good thing now is that of course [openFATE](https://features.opensuse.org/) is used to maintain this list and thus it is open for the openSUSE Community to also add ideas, comment or vote on whats already there. This is of course no guarantee that the idea is going to be picked up but still. So everybody who thinks she has an idea that will inspire someone on Hackweek Fife, feel free to add it to openFATE and talk about. (...)" 
 </td>
 </tr>
 </tbody>
@@ -556,7 +556,7 @@ The numbers for all openSUSE project products are this week:
 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) â€“ [Bug Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) – [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports) – [Bug Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
 
 
 
@@ -803,7 +803,7 @@ The Build Service now hosts 12937 (+117) projects, 94153 (+396) packages, 22721 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 
@@ -845,7 +845,7 @@ The Build Service now hosts 12937 (+117) projects, 94153 (+396) packages, 22721 
 ####  [openSUSE TV: Architecture of Collaboration](http://blip.tv/file/1770773)
 
 
-"This session will focus on the â€œArchitecture of Collaborationâ€ implemented in the Kablink Open Collaboration project. See how the Kablink platform allows you to build applications that solve problems while encouraging collaboration among your team members. During this session an application will be developed that takes advantage of the social networking features of Kablink while solving a common teamworking problem."  
+"This session will focus on the “Architecture of Collaboration” implemented in the Kablink Open Collaboration project. See how the Kablink platform allows you to build applications that solve problems while encouraging collaboration among your team members. During this session an application will be developed that takes advantage of the social networking features of Kablink while solving a common teamworking problem."  
 
 
 ####  [Sirko Kemter: RadioTux@LinuxTag](http://karl-tux-stadt.de/ktuxs/?p=2350)
@@ -857,7 +857,7 @@ The Build Service now hosts 12937 (+117) projects, 94153 (+396) packages, 22721 
 ####  [Bryen Yunashko: From Chicago to Paris to Nuremberg!](http://feedproxy.google.com/%7Er/Bryen/%7E3/a_O6pqpAB-s/)
 
 
-"â€™m just wrapping up my mini-vacation in Paris. And getting ready for the main eventâ€¦ Nuremberg! Iâ€™ll be taking an overnight train from Paris to Nuremberg and hit the ground running as soon as I get there in the morning with the first ever openSUSE Board Retreat meeting.  Iâ€™m looking forward to this meeting. While we, the Board, have met previously just before the first openSUSE Conference in September, 2009, we only met to go over our slide presentation for the Conference. This time weâ€™re going to actually sit down face to face and talk BUSINESS!  This will be followed by the Strategy Team meeting which will run throughout the weekend, and is arguably one of the most important community moments in our openSUSE history. It is from this discussion, which takes place face to face after many months of discussion online, that we hope to set openSUSE in a new direction that gives all of us in the community clarity and focus as we continue to move forward as a distribution and project."  
+"’m just wrapping up my mini-vacation in Paris. And getting ready for the main event… Nuremberg! I’ll be taking an overnight train from Paris to Nuremberg and hit the ground running as soon as I get there in the morning with the first ever openSUSE Board Retreat meeting.  I’m looking forward to this meeting. While we, the Board, have met previously just before the first openSUSE Conference in September, 2009, we only met to go over our slide presentation for the Conference. This time we’re going to actually sit down face to face and talk BUSINESS!  This will be followed by the Strategy Team meeting which will run throughout the weekend, and is arguably one of the most important community moments in our openSUSE history. It is from this discussion, which takes place face to face after many months of discussion online, that we hope to set openSUSE in a new direction that gives all of us in the community clarity and focus as we continue to move forward as a distribution and project."  
 
 
 ###  Welcome new Members
@@ -901,7 +901,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 	
-  * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
+  * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
 
 
 
@@ -929,7 +929,7 @@ Upcoming:
 ####  [Agustin Chavarria: openSUSE Schools! in Nicaragua!](http://lizards.opensuse.org/2010/05/25/opensuse-schools-in-nicaragua/)
 
 
-"A few years ago the LUG opensuse-nicaragua has the project named â€œEscuelita opeSUSEâ€ this project was to provide basic courses for the people opensuse.  And the last week, we finally made it!!!  The course was in UNICIT(Iberoamerican University of Technologies and Cience), were 2 intensive days of linux linux and linux jejeje, the pensum of course was: (...)"  
+"A few years ago the LUG opensuse-nicaragua has the project named “Escuelita opeSUSE” this project was to provide basic courses for the people opensuse.  And the last week, we finally made it!!!  The course was in UNICIT(Iberoamerican University of Technologies and Cience), were 2 intensive days of linux linux and linux jejeje, the pensum of course was: (...)"  
 
 
 ####  [Ricardo Varas Santana: openSUSE at FLISoL Chile](http://lizards.opensuse.org/2010/05/28/opensuse-at-flisol-chile/)]
@@ -1012,7 +1012,7 @@ The openSUSE Forums have 46105 (+210) registered users - Most users ever online 
 ####  [Petr Mladek: OpenOffice_org 3.2.1 rc2 available for openSUSE](http://lizards.opensuse.org/2010/05/27/openoffice_org-3_2_1_2/)
 
 
-"Iâ€™m happy to announce OpenOffice.org 3.2.1 rc2 packages for openSUSE. They are available in the Build Service [OpenOffice:org:UNSTABLE](http://en.opensuse.org/Additional_YaST_Package_Repositories#OpenOffice.org_UNSTABLE) project, are based on the [upstream](http://development.openoffice.org/releases/3.2.1rc2.html) 3.2.1-rc2 sources and include many [Go-oo](http://cgit.freedesktop.org/ooo-build/ooo-build/plain/NEWS?id=OOO_BUILD_3_2_1_2) fixes and improvements. Please, look for more details about the openSUSE OOo build on the [wiki page](http://en.opensuse.org/OpenOffice.org).  The packages are release candidates and have not passed full QA cycle yet. They might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, â€¦  As usual, we kindly ask any interested beta testers to try the package and [report bugs](http://en.opensuse.org/OpenOffice.org#Reporting_Bugs). See also the list of [known bugs](http://alturl.com/qaq5). (...)" 
+"I’m happy to announce OpenOffice.org 3.2.1 rc2 packages for openSUSE. They are available in the Build Service [OpenOffice:org:UNSTABLE](http://en.opensuse.org/Additional_YaST_Package_Repositories#OpenOffice.org_UNSTABLE) project, are based on the [upstream](http://development.openoffice.org/releases/3.2.1rc2.html) 3.2.1-rc2 sources and include many [Go-oo](http://cgit.freedesktop.org/ooo-build/ooo-build/plain/NEWS?id=OOO_BUILD_3_2_1_2) fixes and improvements. Please, look for more details about the openSUSE OOo build on the [wiki page](http://en.opensuse.org/OpenOffice.org).  The packages are release candidates and have not passed full QA cycle yet. They might include even serious bugs. Therefore they are not intended for data-critical usage. A good practice is to archive any important data before an use, …  As usual, we kindly ask any interested beta testers to try the package and [report bugs](http://en.opensuse.org/OpenOffice.org#Reporting_Bugs). See also the list of [known bugs](http://alturl.com/qaq5). (...)" 
 
 
 
@@ -1024,7 +1024,7 @@ The openSUSE Forums have 46105 (+210) registered users - Most users ever online 
   * You can find other interesting Packages at: 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1202,7 +1202,7 @@ Rares Aioanei presents the last week with openSUSE Flavor.
 ####  [GeekRide/Napster: Tech Tip: Sending Email from Command line](http://www.geekride.com/index.php/tech-tip-sending-email-from-command-line/)
 
 
-"Everyone is not as lucky as having a full fletched email client like thunderbird or kmail to send mails. There is one unlucky group known as system administrators who have to send the mails either through the command line or a script running on the remote server. Also, apart from sending the emails, sometimes one needs to test or debug the email server which canâ€™t be done by traditional email clients. If you are one of those system administrators and are scared, then you shouldnâ€™t be, because this is where netcat comes to rescue."  
+"Everyone is not as lucky as having a full fletched email client like thunderbird or kmail to send mails. There is one unlucky group known as system administrators who have to send the mails either through the command line or a script running on the remote server. Also, apart from sending the emails, sometimes one needs to test or debug the email server which can’t be done by traditional email clients. If you are one of those system administrators and are scared, then you shouldn’t be, because this is where netcat comes to rescue."  
 
 
 ####  [Novell Cool Solutions/tpetersonalpine: Teaming Cluster on a Laptop using XEN, OCFS2 and Linux Virtual Services](http://www.novell.com/communities/node/11462/teaming-cluster-laptop-using-xen-ocfs2-and-linux-virtual-services)
@@ -1265,7 +1265,7 @@ Rares Aioanei presents the last week with openSUSE Flavor.
 ####  [Dominique Leuenberger: Dominique Leuenberger: VLC / openSUSE 10.3 repository](http://dominique.leuenberger.net/blog/?p=78)
 
 
-"openSUSE 10.3 has been out of support for a while, yet the VideoLAN project continued to offer VLC packages up to the current latest version 1.0.6.  with 1.1.0 ready to hit Release Candidate status, and VLC 1.1 not being compatible with the â€˜oldâ€™ version of Qt being shipped with openSUSE 10.3, I have decided to disable the repository for openSUSE 10.3.  The VideoLAN project stays commited to the repositories for all openSUSE Versions available, this currently being 11.0 up to 11.2 plus openSUSE Factory (11.3 to be). (...)"  
+"openSUSE 10.3 has been out of support for a while, yet the VideoLAN project continued to offer VLC packages up to the current latest version 1.0.6.  with 1.1.0 ready to hit Release Candidate status, and VLC 1.1 not being compatible with the ‘old’ version of Qt being shipped with openSUSE 10.3, I have decided to disable the repository for openSUSE 10.3.  The VideoLAN project stays commited to the repositories for all openSUSE Versions available, this currently being 11.0 up to 11.2 plus openSUSE Factory (11.3 to be). (...)"  
 
 
 ####  [Joe Brockmeier: The Spring 2010 Linux Distro Scorecard (Part 2)](http://www.linux.com/news/enterprise/biz-enterprise/313442-the-spring-2010-linux-distro-scorecard-part-2)
@@ -1377,7 +1377,7 @@ Rares Aioanei presents the last week with openSUSE Flavor.
 ####  [LinuxCon North America 2010](http://events.linuxfoundation.org/events/linuxcon)
 
 
-"August 10 - 12, 2010 Â· Renaissance Boston Waterfront, Boston, MA  This event is co-located with a number of [Mini-Summits](http://events.linuxfoundation.org/events/linuxcon/mini-summits) taking place on August 9th.  LinuxCon is the industry's premiere Linux conference. It's North America's annual technical conference that provides an unmatched collaboration and education space for all matters Linux. LinuxCon brings together the best and brightest that the Linux community has to offer, including core developers, administrators, end users, business executives and operations experts - the best technical talent and the decision makers and industry experts who are involved in the Linux community."  
+"August 10 - 12, 2010 · Renaissance Boston Waterfront, Boston, MA  This event is co-located with a number of [Mini-Summits](http://events.linuxfoundation.org/events/linuxcon/mini-summits) taking place on August 9th.  LinuxCon is the industry's premiere Linux conference. It's North America's annual technical conference that provides an unmatched collaboration and education space for all matters Linux. LinuxCon brings together the best and brightest that the Linux community has to offer, including core developers, administrators, end users, business executives and operations experts - the best technical talent and the decision makers and industry experts who are involved in the Linux community."  
 
 
 ####  [MeeGo v1.0 Core Software Platform & Netbook User Experience project release](http://meego.com/community/blogs/imad/2010/meego-v1.0-core-software-platform-netbook-user-experience-project-release)
@@ -1407,7 +1407,7 @@ Rares Aioanei presents the last week with openSUSE Flavor.
 ####  [Richard A. Johnson: Impressions of the latest MeeGo release](http://blog.nixternal.com/2010.05.27/impressions-of-the-latest-meego-release/)
 
 
-"So, I have been spending some time playing around with various netbook operating systems lately, trying to find that perfect one. A little bit of a background first. Last month I finally switched from a Blackberry phone to an Android phone, so for the past month I have spent quite a bit of time playing with the Android SDK, writing applications, checking out all of the available applications, in other words playing with my phone. After having done this now for the past month, one thing was clear, my phone integrates with my life damn near perfectly, whereas my netbook isnâ€™t even close. So with that, I set out to play with every distribution or operating system out there. The following have been the releases I have tried out: (...)"  
+"So, I have been spending some time playing around with various netbook operating systems lately, trying to find that perfect one. A little bit of a background first. Last month I finally switched from a Blackberry phone to an Android phone, so for the past month I have spent quite a bit of time playing with the Android SDK, writing applications, checking out all of the available applications, in other words playing with my phone. After having done this now for the past month, one thing was clear, my phone integrates with my life damn near perfectly, whereas my netbook isn’t even close. So with that, I set out to play with every distribution or operating system out there. The following have been the releases I have tried out: (...)"  
 
 
 ####  [Datamation/Sean Michael Kerner: Novell Revenues, Linux Business Slide](http://itmanagement.earthweb.com/osrc/article.php/3884966/Novell-Revenues-Linux-Business-Slide.htm)
@@ -1443,7 +1443,7 @@ Rares Aioanei presents the last week with openSUSE Flavor.
 ####  [Ghacks/Jack Wallen: Why not try OpenSuSE 11.2](http://www.ghacks.net/2010/05/26/why-not-try-opensuse-11-2/)
 
 
-"I spend much of my time here on Ghacks using and talking about Ubuntu. So much so one would think itâ€™s the only game in town. Well, itâ€™s not and I am going to spend a bit of time focusing on different distributions. The first distribution I am going to focus on is OpenSuSE. OpenSuSE is similar to what Fedora is to Red Hat Linux. In other words itâ€™s a sort of sand box for developers and users to make sure the enterprise level product (SuSE Linux) is right. And, like Fedora, OpenSuSE is a free edition. It costs nothing to download and use this distribution."  
+"I spend much of my time here on Ghacks using and talking about Ubuntu. So much so one would think it’s the only game in town. Well, it’s not and I am going to spend a bit of time focusing on different distributions. The first distribution I am going to focus on is OpenSuSE. OpenSuSE is similar to what Fedora is to Red Hat Linux. In other words it’s a sort of sand box for developers and users to make sure the enterprise level product (SuSE Linux) is right. And, like Fedora, OpenSuSE is a free edition. It costs nothing to download and use this distribution."  
 
 
 ####  [Tuxradar: How Linux works: the ultimate guide](http://www.tuxradar.com/content/how-linux-works-ultimate-guide)
@@ -1455,7 +1455,7 @@ Rares Aioanei presents the last week with openSUSE Flavor.
 ####  [LinuxMagazine/Joe Brockmeier: WebM Poised to Bring Open Video to the Masses](http://www.linux-mag.com/cache/7786/1.html)
 
 
-"Google I/O brought a lot of interesting developments, but one of the most interesting for Linux users might be the announcement of WebM. Finally, Linux will be a first-class platform for media.  WebM isnâ€™t the first effort to bring open video to the Web, but it has a number of things going for it that other solutions do not. Namely, it has the weight and backing of one of the largest companies on the Web (thatâ€™d be Google), and buy-in from most of the major browser projects and vendors." 
+"Google I/O brought a lot of interesting developments, but one of the most interesting for Linux users might be the announcement of WebM. Finally, Linux will be a first-class platform for media.  WebM isn’t the first effort to bring open video to the Web, but it has a number of things going for it that other solutions do not. Namely, it has the weight and backing of one of the largest companies on the Web (that’d be Google), and buy-in from most of the major browser projects and vendors." 
 </td>
 </tr>
 </tbody>
@@ -1547,7 +1547,7 @@ Sascha Manns (Editor in Chief)
   * [Dl9pf](http://wiki.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Dl9pf)
 
 
-Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter)
+Jan-Simon Möller (Second Editor in Chief, Main-Newsletter)
 
 
 
@@ -1557,7 +1557,7 @@ Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter)
   * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301)
 
 
-Sebastian SchÃ¶binger (Tips/Tricks)
+Sebastian Schöbinger (Tips/Tricks)
 
 
 
@@ -1587,7 +1587,7 @@ Carl Fletcher (Main-Newsletter, Forums Sec.)
   * [Okuro](http://wiki.opensuse.org/index.php?title=User:Okuro&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro)
 
 
-Thomas HofstÃ¤tter (Events & Meetings)
+Thomas Hofstätter (Events & Meetings)
 
 
 
@@ -1645,34 +1645,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/125)
 
 	
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/125)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/125)
 
 	
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/125)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/125)
 
 	
-  * [æ—¥ æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/125)
+  * [日 本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/125)
 
 	
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/125)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/125)
 
 	
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/125/indonesian)
 
 	
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/125/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/125/chinese)
 
 	
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/125)
 
 	
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/125)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/125)
 
 	
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/125)
 
 	
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/125)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/125)
 
 	
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/125)
@@ -1681,7 +1681,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/125/swedish)
 
 	
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/125)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/125)
 
 
 

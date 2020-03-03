@@ -48,7 +48,7 @@ On Sunday the first openSUSE conference  (osc09) finished in Nuernberg, Germany.
   * **"great #osc09 event. I've decided to give #openSUSE the whole disk on my laptop! And i want to contribute, contribute, contribute!"**
 
 
-We had overall around 225 persons from all over the world attending.  For those who couldn't make it to the conference we'll try to publish all presentations and videos if available. A lot of people from Novell's  Nuernberg and Prague offices showed up -Â  sometimes only for a few hours - which shows that Nuernberg was theÂ  right location for this event.Â  Novell VPs and Directors that showed  up include Carlos Montero-Luque, Ralf Flaxa, Gerald Pfeifer and Roland  Haidl.
+We had overall around 225 persons from all over the world attending.  For those who couldn't make it to the conference we'll try to publish all presentations and videos if available. A lot of people from Novell's  Nuernberg and Prague offices showed up -  sometimes only for a few hours - which shows that Nuernberg was the  right location for this event.  Novell VPs and Directors that showed  up include Carlos Montero-Luque, Ralf Flaxa, Gerald Pfeifer and Roland  Haidl.
 
 The whole four days we had two tracks of talks and two tracks of  ad-hoc conference sessions on a variety of topics incl. moblin,  appliances, desktop, quality, community, toolchain and system, and legal. Some sessions to point out where:
 
@@ -107,4 +107,4 @@ If you like to see some photos, check either of these two galleries:
 
 
 **Twitter
-**The flickr photos are also shown on the osc09 [twitterwall](http://karl-tux-stadt.de/osc09/) that was created by [gnokii](http://en.opensuse.org/User:Gnokii).Â  #osc09 was the hashmark used for twittering about the  conference.
+**The flickr photos are also shown on the osc09 [twitterwall](http://karl-tux-stadt.de/osc09/) that was created by [gnokii](http://en.opensuse.org/User:Gnokii).  #osc09 was the hashmark used for twittering about the  conference.

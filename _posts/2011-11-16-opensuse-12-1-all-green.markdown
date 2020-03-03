@@ -58,13 +58,13 @@ openSUSE 12.1 can of course also move to _Tumbleweed_, our cutting-edge rolling 
 
 
 
-<blockquote>â€œWhile the big updates include Snapper, systemd and ownCloud, there are also many smaller enhancements like the improvements to YaST or the work on zypper. And that is only what our own community did,â€</blockquote>
+<blockquote>“While the big updates include Snapper, systemd and ownCloud, there are also many smaller enhancements like the improvements to YaST or the work on zypper. And that is only what our own community did,”</blockquote>
 
 
 said **Bryen Yunahsko**, member of the openSUSE Board.
 
 
-<blockquote>â€œWeâ€™re standing on the shoulders of the gigantic open source community. I would not be surprised if openSUSE's latest update has over 300,000 improvements that resulted from efforts in the open source community.â€</blockquote>
+<blockquote>“We’re standing on the shoulders of the gigantic open source community. I would not be surprised if openSUSE's latest update has over 300,000 improvements that resulted from efforts in the open source community.”</blockquote>
 
 
 For more details about the latest and greatest in openSUSE 12.1 visit [opensuse.org/12.1](http://opensuse.org/12.1) and read our extensive [Product Highlights](http://opensuse.org/Product_highlights)! If you want, go and [download it right away](http://software.opensuse.org/121) from our mirrors.

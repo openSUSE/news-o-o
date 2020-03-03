@@ -6,7 +6,7 @@ layout: post
 link: https://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/
 published: false
 slug: '%ef%bb%bfopensuse-kde-team-meeting'
-title: ï»¿openSUSE KDE Team meeting
+title: ﻿openSUSE KDE Team meeting
 wordpress_id: 3285
 ---
 

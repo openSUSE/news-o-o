@@ -38,7 +38,7 @@ Greeko:[![](/wp-content/uploads/2011/05/1.jpg)](http://news.opensuse.org/2011/05
 
 **GNOME Asia 2011**
 
-A big thanks goes to Bharath Acharya, Akhil Ladha, Sankar P, Vibha, Punit, Akash and loads of other people who just made GNOME Asia a perfect place for openSUSE. People came ask all sorts of questions about openSUSE and overÂ  800 DVDs vanished before the Summit was even over. Everyone enjoyed playing with SUSE Studio. The talks about openSUSE by our Vincent Untz were very well received by the audience.
+A big thanks goes to Bharath Acharya, Akhil Ladha, Sankar P, Vibha, Punit, Akash and loads of other people who just made GNOME Asia a perfect place for openSUSE. People came ask all sorts of questions about openSUSE and over  800 DVDs vanished before the Summit was even over. Everyone enjoyed playing with SUSE Studio. The talks about openSUSE by our Vincent Untz were very well received by the audience.
 
 
 <blockquote>"Vincent became quite the celebrity over here with girls taking photos with him ;)</blockquote>
@@ -46,7 +46,7 @@ A big thanks goes to Bharath Acharya, Akhil Ladha, Sankar P, Vibha, Punit, Akash
 
 **Launch Party at Toulouse**
 
-This one was held by JDD as we commonly know him :-). JDD has been a long time supporter of openSUSE and he held a launch party at a movie theater.Â  He had four demo presentations about openSUSE which were focused on beginners,Â  _install from a  standard dvd_, _What is YaST_, _Install from the demo dvd_ and _openSUSE: this is  choice_! He distributed over 50 DVDs and several live cds.
+This one was held by JDD as we commonly know him :-). JDD has been a long time supporter of openSUSE and he held a launch party at a movie theater.  He had four demo presentations about openSUSE which were focused on beginners,  _install from a  standard dvd_, _What is YaST_, _Install from the demo dvd_ and _openSUSE: this is  choice_! He distributed over 50 DVDs and several live cds.
 
 
 ## Conclusion

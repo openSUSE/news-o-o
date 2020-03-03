@@ -55,7 +55,7 @@ tags:
       * [3.1.1 Build Team Meeting](http://en.opensuse.org/OpenSUSE_Weekly_News/116#Build_Team_Meeting)
 
 	
-      * [3.1.2 Pavol Rusnak:  zypper â€“ dependency graph](http://en.opensuse.org/OpenSUSE_Weekly_News/116#Pavol_Rusnak:_zypper_.E2.80.93_dependency_graph)
+      * [3.1.2 Pavol Rusnak:  zypper – dependency graph](http://en.opensuse.org/OpenSUSE_Weekly_News/116#Pavol_Rusnak:_zypper_.E2.80.93_dependency_graph)
 
 
 
@@ -100,7 +100,7 @@ tags:
       * [4.2.1 Alex Barrios:  Solving typical problems of BCM4312 802.11b/g](http://en.opensuse.org/OpenSUSE_Weekly_News/116#Alex_Barrios:_Solving_typical_problems_of_BCM4312_802.11b.2Fg)
 
 	
-      * [4.2.2 Linux  Magazine/Jerry Peek: Thereâ€™s a Lot in the Dot: Filesystem Permissions  and Pathnames (Part 1)](http://en.opensuse.org/OpenSUSE_Weekly_News/116#Linux_Magazine.2FJerry_Peek:_There.E2.80.99s_a_Lot_in_the_Dot:_Filesystem_Permissions_and_Pathnames_.28Part_1.29)
+      * [4.2.2 Linux  Magazine/Jerry Peek: There’s a Lot in the Dot: Filesystem Permissions  and Pathnames (Part 1)](http://en.opensuse.org/OpenSUSE_Weekly_News/116#Linux_Magazine.2FJerry_Peek:_There.E2.80.99s_a_Lot_in_the_Dot:_Filesystem_Permissions_and_Pathnames_.28Part_1.29)
 
 	
       * [4.2.3 Dedoimedo: Linux  cool hacks - Part II](http://en.opensuse.org/OpenSUSE_Weekly_News/116#Dedoimedo:_Linux_cool_hacks_-_Part_II)

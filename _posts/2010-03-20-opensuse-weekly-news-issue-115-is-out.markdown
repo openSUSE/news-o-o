@@ -61,7 +61,7 @@ tags:
     * [3.2 Boosters Team](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Boosters_Team)
 
 	
-      * [3.2.1 Michal HruÅ¡eckÃ½:  openSUSE Search](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Michal_Hru.C5.A1eck.C3.BD:_openSUSE_Search)
+      * [3.2.1 Michal Hrušecký:  openSUSE Search](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Michal_Hru.C5.A1eck.C3.BD:_openSUSE_Search)
 
 	
       * [3.2.2 Boosters Standup  2010-03-16](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Boosters_Standup_2010-03-16)
@@ -85,7 +85,7 @@ tags:
     * [3.4 Wiki / Communication  / Events](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Wiki_.2F_Communication_.2F_Events)
 
 	
-      * [3.4.1 Jan Weber: 800  DVDs left in ChemnitzÂ :-)](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Jan_Weber:_800_DVDs_left_in_Chemnitz_:-.29)
+      * [3.4.1 Jan Weber: 800  DVDs left in Chemnitz :-)](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Jan_Weber:_800_DVDs_left_in_Chemnitz_:-.29)
 
 	
       * [3.4.2 Sirko Kemter: A  few things about last weekend](http://en.opensuse.org/OpenSUSE_Weekly_News/115#Sirko_Kemter:_A_few_things_about_last_weekend)

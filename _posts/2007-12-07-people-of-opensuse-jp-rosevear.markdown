@@ -318,7 +318,7 @@ Probably some more web technology understanding.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 I'd feel a lot less busy that's for sure, since I work remotely I'd basically be able to do nothing managerially, I'd probably take it as a break to do some hacking :-) .
@@ -390,7 +390,7 @@ With two small kids, right now its camping or doing things around the house.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Invest it, let the interest income pile up over a few years and retire to work on free software and other interests.
@@ -400,7 +400,7 @@ Invest it, let the interest income pile up over a few years and retire to work o
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Maybe late 19th century London, England.
@@ -410,7 +410,7 @@ Maybe late 19th century London, England.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Heck no, thats why you have a UPS.

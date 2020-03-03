@@ -5,7 +5,7 @@ date: 2009-06-13 03:35:11+00:00
 layout: post
 link: https://news.opensuse.org/2009/06/13/people-of-opensuse-lars-mueller/
 slug: people-of-opensuse-lars-mueller
-title: 'People of openSUSE: Lars MÃ¼ller'
+title: 'People of openSUSE: Lars Müller'
 wordpress_id: 1767
 categories:
 - People of openSUSE
@@ -360,7 +360,7 @@ Being able to quit emacs without the kill command.  Honestly my firmware version
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 Happy for at least one hour.  No new mails by bugzilla.
@@ -476,7 +476,7 @@ Yes.
 
 
 ![viecherteam](/wp-content/uploads/2009/06/viecherteam.jpeg)
-is a picture of the team which maintained the network in our old flat in GÃ¶ttingen.  You also see (one) of the laptops I later unintentionally killed by flooding it with milk.  Yes, there are reasons why newer systems have these drains.
+is a picture of the team which maintained the network in our old flat in Göttingen.  You also see (one) of the laptops I later unintentionally killed by flooding it with milk.  Yes, there are reasons why newer systems have these drains.
 
 
 

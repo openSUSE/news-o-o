@@ -5,7 +5,7 @@ date: 2011-07-13 10:26:20+00:00
 layout: post
 link: https://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/
 slug: opensuse-and-rw-sessions-the-workshop
-title: openSUSE and RW Sessions â€” The Workshop
+title: openSUSE and RW Sessions — The Workshop
 wordpress_id: 9369
 categories:
 - Conference
@@ -18,7 +18,7 @@ In our last article focusing on openSUSE Conference sessions, [we discussed the 
 ## Teach Them To Fish
 
 
-Remember how it is better to teach a man to fish than to bring him food?  This is exactly what a workshop is all about.  You can choose to be a one-man show doing all the work yourself, or you can teach others to join in with you and make your particular software project even stronger. And with our RWXÂ³ theme, the openSUSE Conference is the perfect host for your workshop.
+Remember how it is better to teach a man to fish than to bring him food?  This is exactly what a workshop is all about.  You can choose to be a one-man show doing all the work yourself, or you can teach others to join in with you and make your particular software project even stronger. And with our RWX³ theme, the openSUSE Conference is the perfect host for your workshop.
 
 <!-- more -->
 

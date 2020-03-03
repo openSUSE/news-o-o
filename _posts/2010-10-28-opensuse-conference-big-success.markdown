@@ -51,7 +51,7 @@ Overall, the LibreOffice track provided a wonderful kick-off for the project, an
 ## openSUSE Invis Project started
 
 
-Stefan SchÃ¤fer gave a talk about his project called [Invis Server](http://www.invis-server.org/). Invis Server is an openSUSE based small and medium business server solution offering printing, mail, web and fileserver, database and groupware all preconfigured at installation. For daily operation in the users network, there is a simple yet powerful web interface.
+Stefan Schäfer gave a talk about his project called [Invis Server](http://www.invis-server.org/). Invis Server is an openSUSE based small and medium business server solution offering printing, mail, web and fileserver, database and groupware all preconfigured at installation. For daily operation in the users network, there is a simple yet powerful web interface.
 
 [caption id="attachment_5348" align="alignright" width="150" caption="The keysigning party"][![](/wp-content/uploads/2010/10/keysigning-party.jpg)](http://news.opensuse.org/2010/10/28/opensuse-conference-big-success/keysigning-party/)[/caption]
 

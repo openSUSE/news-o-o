@@ -95,22 +95,22 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 Enjoy reading :-)
 
-## openSUSE Conference 2011â–¼
+## openSUSE Conference 2011▼
 
-â€œ
+“
 
 [Jos
         Poortvlieet: Sponsors present at openSUSE Conference 2011](http://news.opensuse.org/2011/09/05/sponsors-present-at-opensuse-conference-2011/)
 
 The [openSUSE Conference 2011](http://conference.opensuse.org) team is
-      happy to announce the partners for this yearâ€™s conference. Aside from sponsoring, there are
-      contributions in terms of sessions, media coverage and network bandwidth. Letâ€™s look at what
-      our sponsors contribute, what sessions theyâ€™ll present and thank them for their support!
+      happy to announce the partners for this year’s conference. Aside from sponsoring, there are
+      contributions in terms of sessions, media coverage and network bandwidth. Let’s look at what
+      our sponsors contribute, what sessions they’ll present and thank them for their support!
       (...)
 
-â€
+”
 
-â€œ
+“
 
 [Jos Poortvlieet:
         Bretzn at oSC ](http://blog.jospoortvliet.com/2011/09/bretzn-at-osc.html)
@@ -121,12 +121,12 @@ So there is the [cool Bretzn
         Collaboration Services](http://www.freedesktop.org/wiki/Specifications/open-collaboration-services) and then letting the user install, rate and comment on apps
       via a desktop client. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Kai-Uwe Behrmann:
-        Oyranos @ rwxÂ³](http://oyranos-cms.blogspot.com/2011/09/oyranos-rwx.html)
+        Oyranos @ rwx³](http://oyranos-cms.blogspot.com/2011/09/oyranos-rwx.html)
 
 We will meet there and can discuss ICC colour management for the openSUSE distribution,
       KDE and Qt. 
@@ -139,19 +139,19 @@ Sebastian Oliva will be there too. I hope we can hack together a Oyranos connect
       selected automatically - if all works. Sebastian and Joseph Simon have done fair bits to get
       there in a clean way, without hacking the whole system. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
-â€œ
+“
 
 
           [Aaron Seigo: Plasma Active entering beta](http://aseigo.blogspot.com/2011/09/plasma-active-entering-beta.html)
@@ -172,30 +172,30 @@ We also wanted to start working with the newest QtQuick technologies without
           disturbing the Desktop or Netbook interfaces with our experimentation. It all came
           together at the right time and Plasma Active was born. (...)
 
-â€
+”
 
-â€œ
+“
 
-[Sebastian KÃ¼gler: Plasma Active: Crunching towards One](http://vizzzion.org/blog/2011/09/plasma-active-crunching-towards-one/)
+[Sebastian Kügler: Plasma Active: Crunching towards One](http://vizzzion.org/blog/2011/09/plasma-active-crunching-towards-one/)
 
 Plasma Active aims at creating a desirable user experience for
             a spectrum of devices, based on a fully Free software stack, developed in the open. The
             first release is planned for October. In the following article, you can read about the
             latest status and recent improvements made.
 
-One our way to our first release (begin of October as it currently looks like), weâ€™re
+One our way to our first release (begin of October as it currently looks like), we’re
           in serious make-it-work mode, crunching bugs left and right and filling in gaps of the
-          workflows we want to suppport in our first release of Plasma Active. As weâ€™re a month away
-          from that, itâ€™s a good point in time to give an update of our progress towards Plasma
+          workflows we want to suppport in our first release of Plasma Active. As we’re a month away
+          from that, it’s a good point in time to give an update of our progress towards Plasma
           Active One. So where do we stand today? What has been the progress lately? (...)
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 365)](https://features.opensuse.org/120340)
@@ -204,9 +204,9 @@ One our way to our first release (begin of October as it currently looks like), 
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 192)](https://features.opensuse.org/305493)
@@ -221,9 +221,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [1-click uninstall (Score: 164)](https://features.opensuse.org/305305)
@@ -231,9 +231,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 144)](https://features.opensuse.org/308497)
@@ -251,9 +251,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 109)](https://features.opensuse.org/305877)
@@ -274,13 +274,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [Provide a working pandoc in OSS](https://features.opensuse.org/312777)
@@ -294,9 +294,9 @@ We need a feedback about packages that are preferred by users and actively used.
 
 pandoc seems important enough to fix it and get it out of its Haskgell ghetto into OSS.
 
-â€
+”
 
-â€œ
+“
 
 
             [Display installation date and uptime time in the sysinfo:/ page](https://features.opensuse.org/312783)
@@ -304,9 +304,9 @@ pandoc seems important enough to fix it and get it out of its Haskgell ghetto in
 
 Display the installation date of the operating system and uptime in the sysinfo:/ page.
 
-â€
+”
 
-â€œ
+“
 
 
             [Replace Amarok with Clementine](https://features.opensuse.org/312784)
@@ -314,9 +314,9 @@ Display the installation date of the operating system and uptime in the sysinfo:
 
 Clementine is a Qt-only music player based of the old Amarok 1.4. Clementine boasts a more traditional interface. It also includes a robust visualizer implementation for those of us who enjoy them.
 
-â€
+”
 
-â€œ
+“
 
 
             [Disk Formatting](https://features.opensuse.org/312791)
@@ -326,7 +326,7 @@ Should have a format disk option in the right click menu. Will be helpful in cas
 
 I would suggest that the sysinfo shown in My Computer currently be replaced with a filemanager that shows drives or filesystems like in windows(my computer).
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -334,7 +334,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-â€œ
+“
 
 
           [Larry
@@ -350,20 +350,20 @@ I have run MS5 exclusively since it was released on four different machines - 1 
           working except for the plasmoid network manager applet. Because of the trouble with the
           KDE version, I have been using nm-applet, the Gnome version. 
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Postings from the Community
 
-â€œ
+“
 
 
         [Jos Poortvlieet: openSUSE celebrates Beta 1 with BetaPizza Parties!](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/)
@@ -379,9 +379,9 @@ The openSUSE community is happy to announce that the 6th Milestone of the upcomi
 
 **Related Articles**: [h-online](http://www.linux.com/news/featured-blogs/135:distronews/492746:opensuse-celebrates-beta-1-with-betapizza-parties)
 
-â€
+”
 
-â€œ
+“
 
 [Greek openSUSE Ambassadors: openSUSE Greek community and 76th International Trade Fair,
           Thessaloniki](http://opensuseambassadors.blogspot.com/2011/09/opensuse-greek-community-and-76th.html)
@@ -390,7 +390,7 @@ The openSUSE Greek community will participate to the [76th
           International Trade Fair (TIF)](http://www.helexpo.gr/default.aspx?lang=en-US&loc=1&page=2065), 10-18th of September in Thessaloniki.
 
 The [76th TIF](http://www.helexpo.gr/default.aspx?lang=en-US&loc=1&page=2065) focuses on outlets in development and innovation, as well as new ideas.
-        This yearâ€™s event will highlight the opportunities and challenges generated by the crisis in
+        This year’s event will highlight the opportunities and challenges generated by the crisis in
         the Greek economy, which is the starting point for the development of healthy
         entrepreneurship and modernising the public sector.
 
@@ -398,7 +398,7 @@ The [76th TIF](http://www.helexpo.gr/default.aspx?lang=en-US&loc=1&page=2065) wi
         specific and measurable activities with a tangible content and with actions that are
         directed at both the commercial as well as the ordinary visitors. (...)
 
-â€
+”
 
 ### Events & Meetings
 
@@ -432,17 +432,17 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [openSUSE Connect](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-â€œ
+“
 
 [openSUSE-SU-2011:1018-1: important: VUL-0: CVE-2011-3205: squid: buffer overflow in Gopher
         reply parser](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00012.html)
 
-<table frame="void" id="id319120" >TableÂ 1.Â SUSE Security Announcement<tr >
+<table frame="void" id="id319120" >Table 1. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -483,15 +483,15 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >This update of squid3 fixes a buffer overflow vulnerability in the Gopher reply parser
             code (CVE-2011-3205).
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [openSUSE-SU-2011:1024-1: important: mozilla-nss: Update 3.12.11 update](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00014.html)
     
 
-<table frame="void" id="id319270" >TableÂ 2.Â SUSE Security Announcement<tr >
+<table frame="void" id="id319270" >Table 2. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -531,15 +531,15 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >It blacklists the lately compromised DigiNotar Certificate Authority.
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [openSUSE-SU-2011:1031-1: important: MozillaFirefox: 6.0.2](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00017.html)
     
 
-<table frame="void" id="id319419" >TableÂ 3.Â SUSE Security Announcement<tr >
+<table frame="void" id="id319419" >Table 3. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -580,15 +580,15 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >The purpose of this update is to blacklist the compromised DigiNotar Certificate
             Authority.
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [openSUSE-SU-2011:1031-2: important: MozillaThunderbird: 3.1.13](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00018.html)
     
 
-<table frame="void" id="id319569" >TableÂ 4.Â SUSE Security Announcement<tr >
+<table frame="void" id="id319569" >Table 4. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -629,11 +629,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 <td >The purpose of this update is to blacklist the compromised DigiNotar Certificate
             Authority.
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [Linus Torvalds: Linux 3.1-rc5](https://lkml.org/lkml/2011/9/4/92)
@@ -668,9 +668,9 @@ NOTE! One thing to look out for when you see a new random public
 hosting place usage like that is to verify that yes, it's really the
 person you think it is. So is it? (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.1 (Part 2) - Storage and filesystems](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-2-Storage-and-filesystems-1338160.html)
@@ -682,34 +682,34 @@ On Monday morning, Linus Torvalds [released](http://thread.gmane.org/gmane.linux
 
 In light of the ongoing development of Linux 3.1, the Kernel Log is continuing its 'Coming in 3.1' series by describing new features relating to storage code and filesystems. The first of this series of articles looked at changes to [network drivers and infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-1-Part-1-Networking-1323463.html); articles on architecture code, infrastructure and drivers for other hardware will follow over the next few weeks. (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Rares
-        Aioanei: kernel weekly news â€“ 10.09.2011](http://schaiba.wordpress.com/2011/09/10/kernel-weekly-news-10-09-2011/)
+        Aioanei: kernel weekly news – 10.09.2011](http://schaiba.wordpress.com/2011/09/10/kernel-weekly-news-10-09-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 
-        [Python4Kids/Brendan Scott: Side Track â€“ Global and Local Variables](http://python4kids.wordpress.com/2011/08/29/side-track-global-and-local-variables/)
+        [Python4Kids/Brendan Scott: Side Track – Global and Local Variables](http://python4kids.wordpress.com/2011/08/29/side-track-global-and-local-variables/)
       
 
-In the previous tutorial, I used a strange and cumbersome approach to storing the data that I needed to keep track of the image files in the directory, the total number of images and what image we were up to.  Instead of just saving the current image number in a variable called currentImage I instead created a dictionary called indexes and a key called currentImage, then assigned the value to that key.  I did the same thing for totalImages as well.  You might, justifiably, be thinking â€“ why didnâ€™t we just use two variables called currentImage and totalImages?  This tutorial is going to try to explain that. (...)
+In the previous tutorial, I used a strange and cumbersome approach to storing the data that I needed to keep track of the image files in the directory, the total number of images and what image we were up to.  Instead of just saving the current image number in a variable called currentImage I instead created a dictionary called indexes and a key called currentImage, then assigned the value to that key.  I did the same thing for totalImages as well.  You might, justifiably, be thinking – why didn’t we just use two variables called currentImage and totalImages?  This tutorial is going to try to explain that. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linuxaria: Guide to regular expressions with examples](http://linuxaria.com/howto/guide-regular-expressions-syntax?lang=en)
@@ -719,11 +719,11 @@ The regular expression, or regexp, are the most powerful, versatile and hated to
 
 They allow to express with a few characters search for strings, characters or words, and if done well can lead to good results, but if they are wrong they can not give you any useful result, and the worst thing is that often it is difficult to understand whether or not a regepx it is written with a correct syntax to cover all the possibility. (...)
 
-â€
+”
 
 ### For System Administrators
 
-â€œ
+“
 
 
         [Wazi/Anatoliy A. Dimitrov: How to Secure Your Apache Web Server](http://olex.openlogic.com/wazi/2011/how-to-secure-your-apache-web-server/)
@@ -731,9 +731,9 @@ They allow to express with a few characters search for strings, characters or wo
 
 Installing and maintaining a secure web server on Linux can be a challenge. It requires in-depth knowledge of Linux, [Apache](http://olex.openlogic.com/packages/apache), and [PHP](http://olex.openlogic.com/packages/php) server-side options. One of the main problems is to find the balance between security and productivity and usability. The best solution depends on the specific project requirements, but all installations share certain common characteristics. Here are some best practices for securing a LAMP server, from the server configuration to fine-tuning PHP settings. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Frederik Konietzny: how to test the plain and encrypted SMTP/POP3/IMAP and HTTP protocols](http://frederikkonietzny.de/wp/2011/09/02/how-to-test-the-plain-and-encrypted-smtppop3imap-and-http-protocols/)
@@ -741,9 +741,9 @@ Installing and maintaining a secure web server on Linux can be a challenge. It r
 
 In this article I will describe how to test the plain and the encrypted SMTP/POP3/IMAP and HTTP protocols with **telnet** and the **openssl s_client** command. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [BeginLinux: Installing Apache on OpenSUSE](http://beginlinux.com/desktop/opensuse/installing-apache-on-opensuse)
@@ -761,13 +761,13 @@ What we will look at
 
 We can install the Apache Server by using the YaST Plugin, yast2-http-server. This is simple and installs the Server then takes us straight into the configuration. We would, though, have to install the plugin in the first place and then the configuration allows me only a fraction of what can be done from the command line. There is also a YaST module that will set up and installation server for you but you would not learn too much using it. So, for the benefit of learning and deeper understanding, we will take the manual approach and install and configure the server from the command line. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Reports
 
-â€œ
+“
 
 
         [Dan Vratil: Akonadi Google Resource: Tasks support](http://progdan.cz/2011/09/akonadi-google-resource-tasks-support)
@@ -775,7 +775,7 @@ We can install the Apache Server by using the YaST Plugin, yast2-http-server. Th
 
 As the title says, I just added support for Google Tasks by creating the Akonadi Google
         Tasks Resource. The Tasks API provided by Google is really simple and does not support many
-        properties, only name, summary, due to date, completed date and status. You canâ€™t set
+        properties, only name, summary, due to date, completed date and status. You can’t set
         progress percentage, start date, attendees nor reminders (this sucks!). Despite the fact,
         that the API provides means for tree-like structure of tasks (tasks and subtasks), it does
         not seem to work. So you can only have a linear list of tasks. A positive thing is, that due
@@ -787,9 +787,9 @@ The reason for independent resource is that you can have multiple task lists in 
         Unfortunately, you will now have the tasks resources displayed in the list of calendar
         resources in KOrganizer. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Marco Martin: Share, Like and Connect](http://www.notmart.org/index.php/Software/Share,_Like_and_Connect)
@@ -804,9 +804,9 @@ I already [wrote here](http://www.notmart.org/index.php/Software/Contouring_reso
         Desktop activities (that will evolve in this direction as well as the integration with
         applications becomes deeper;) (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [All about Linux: Linux Kernel Gets Hosted At Github](http://linuxhelp.blogspot.com/2011/09/linux-kernel-gets-hosted-at-github.html#more)
@@ -822,9 +822,9 @@ Github provides free public repositories to host your source code. It gives you 
 **Related Articles:**
         [h-online](http://www.h-online.com/open/news/item/Linux-development-temporarily-moves-to-GitHub-1336692.html)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online/Jos Poortvlieet: Upgrading openSUSE to Linux 3.0](http://www.h-online.com/open/features/Upgrading-openSUSE-to-Linux-3-0-1337231.html)
@@ -840,9 +840,9 @@ This tutorial explains how to install this kernel on your stable [openSUSE 11.4]
         latest Linux kernel but also the newest Firefox, LibreOffice, Scribus, Evolution, digiKam
         and all those other applications which make openSUSE such a great OS. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online: openSUSE 12.1 to get a beta](http://www.h-online.com/open/news/item/openSUSE-12-1-to-get-a-beta-1338663.html)
@@ -853,9 +853,9 @@ The [openSUSE](http://www.opensuse.org/) project has [announced](http://news.ope
         Linux, says that the change "reflects the state of this milestone, being ready for more
         extensive testing". (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online: LibreOffice and OpenOffice.org drift apart](http://www.h-online.com/open/news/item/LibreOffice-and-OpenOffice-org-drift-apart-1338511.html)
@@ -871,11 +871,11 @@ Michael Meeks, a [LibreOffice](http://www.libreoffice.org) developer
         cherry-picking and porting only those things that justify the effort, as/when/if there is
         any such thing," added Meeks. (...)
 
-â€
+”
 
 ### Reviews and Essays
 
-â€œ
+“
 
 
         [Miguel de Icaza: Learning Unix](http://tirania.org/blog/archive/2011/Sep-06.html)
@@ -887,9 +887,9 @@ What follows are my recommendations on how to improve your Unix skills, with a l
 
 Here is the list of books that programmers using Unix should read. It will only take you a couple of days to read them, but you will easily increase your productivity by a whole order of magnitude. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
 
@@ -923,7 +923,7 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -933,12 +933,12 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -948,7 +948,7 @@ We thank for this Issue:
 
   * [iJoomla](http://www.ijoomla.com), Surveys
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -956,12 +956,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 192 is available in: 
 

@@ -36,7 +36,7 @@ The openSUSE board consists of four selected members (two Novell employees, two 
 
 For details of the Board election, see [http://en.opensuse.org/Board_Election/2008](http://en.opensuse.org/Board_Election/2008).
 
-The Election Committee will soon write their own announcements about the elections.Â  You can reach them via [election-officials@opensuse.org](mailto:election-officials@opensuse.org).
+The Election Committee will soon write their own announcements about the elections.  You can reach them via [election-officials@opensuse.org](mailto:election-officials@opensuse.org).
 
 If you like to vote for the new board, please apply as member, details are available in the [wiki.](http://en.opensuse.org/Members)
 

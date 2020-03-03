@@ -193,7 +193,7 @@ I believe that openSUSE is technically superior to the other community Linux dis
 
 
 
-#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that youâ€™re most proud of?
+#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you’re most proud of?
 
 
 
@@ -302,7 +302,7 @@ Most of the ones who work SUSE as their day jobs. I haven't had many opportuniti
 
 
 
-#### What is the application you canâ€™t live without? And why?
+#### What is the application you can’t live without? And why?
 
 
 
@@ -338,7 +338,7 @@ I wish I had a better knack for user interface design.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 
@@ -394,7 +394,7 @@ Being a hugely technical person, I like my vacations to be as far away from tech
 
 
 
-#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
+#### There’s a thunderstorm outside — do you turn off your computer?
 
 
 

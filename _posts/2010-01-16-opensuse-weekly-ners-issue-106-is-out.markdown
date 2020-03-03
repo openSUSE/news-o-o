@@ -22,7 +22,7 @@ categories:
   * **Unixmen/srlinuxx: Five useful  extensions for Openoffice**
 
 	
-  * **Jussi Kekkonen (Tm_T): KDE Software  Compilation 4.4 RC1 Codename â€œCorneliusâ€ released**
+  * **Jussi Kekkonen (Tm_T): KDE Software  Compilation 4.4 RC1 Codename “Cornelius” released**
 
 	
   * **Sirko Kemter: Building an openSUSE  Art-Team**

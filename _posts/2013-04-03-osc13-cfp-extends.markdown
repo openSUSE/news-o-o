@@ -12,7 +12,7 @@ categories:
 - Conference
 ---
 
-_Deadlines..._ we like the whooshing sound they make as they fly by! Originally the Call for Papers (CfP) for the openSUSE Conference 2013 (oSC13), the annual gathering of our community, ended at April 3. You have submitted a lot of great talks and workshops and weâ€™ve started to build a preliminary schedule that looks awesome possum,Â pardon our french.
+_Deadlines..._ we like the whooshing sound they make as they fly by! Originally the Call for Papers (CfP) for the openSUSE Conference 2013 (oSC13), the annual gathering of our community, ended at April 3. You have submitted a lot of great talks and workshops and we’ve started to build a preliminary schedule that looks awesome possum, pardon our french.
 
 However some of you seem to have missed the deadline and there are still a handful of slots left to be filled so we are extending the CfP until Monday, June 17, 12pm. **But**, there had to be a but, we expect that the schedule will fill quickly, so get your merde together, there is that french again, and submit your proposals as soon as possible!
 
@@ -45,7 +45,7 @@ For this area we invite other FOSS projects to share their work and collaborate 
 <!-- more -->
 
 
-## and while weâ€™re at it donâ€™t forget to register!
+## and while we’re at it don’t forget to register!
 
 
 [![](/wp-content/uploads/2011/08/register.png)](https://conference.opensuse.org/osem/conference/osc2013/register)
@@ -62,7 +62,7 @@ Registration is and will continue to be open until the event starts and we urge 
 
 The openSUSE conference is the annual gathering of many that support the openSUSE project and other FOSS contributors and enthusiasts. The event in Thessaloniki will be our 5th conference and we expect it to once again be a great success. The talks, workshops and BoF sessions provide the framework to exchange information and knowledge. In this framework we provide a great atmosphere for collaboration and the creation of lasting connections and memories.
 
-The **â€œPower to the Geekoâ€** motto of this year's conference connects us with the past of our host country while looking into the future as we continue on our way to changing the world.
+The **“Power to the Geeko”** motto of this year's conference connects us with the past of our host country while looking into the future as we continue on our way to changing the world.
 
 
 ### We'll have fun!

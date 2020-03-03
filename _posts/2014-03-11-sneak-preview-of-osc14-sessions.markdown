@@ -21,7 +21,7 @@ categories:
 ## Themes
 
 
-We shared with you last week that [Michael Meeks](https://news.opensuse.org/2014/03/05/osc14-keynote-confirmed-more-awesome-coming/) would be keynote speaker, today we go into the presentations and workshops. The sessions are organized around this year's theme, which is â€œ**The Strength to Change**â€œ. With all that's going on in Free Software, change is a constant for us.
+We shared with you last week that [Michael Meeks](https://news.opensuse.org/2014/03/05/osc14-keynote-confirmed-more-awesome-coming/) would be keynote speaker, today we go into the presentations and workshops. The sessions are organized around this year's theme, which is “**The Strength to Change**“. With all that's going on in Free Software, change is a constant for us.
 
 As explained in the [CfP announcement](https://news.opensuse.org/2014/01/29/osc14-cfp-and-registration-open/), we have four main tracks this year:
 
@@ -48,7 +48,7 @@ As explained in the [CfP announcement](https://news.opensuse.org/2014/01/29/osc1
 ## End user track
 
 
-For end users, the openSUSE Conference features a series of interesting talks. For starters, ownCloud fans will enjoy the talk by [Jos Poortvliet](http://blog.jospoortvliet.com) about _ownCloud at home_ and the cloud features in more talks with sessions on databases (MySQL) and groupware tools. Desktop users will appreciate an update on what is going on in and to be expected from the KDE community (also [Jos Poortvliet](http://blog.jospoortvliet.com)), the Jolla phone by [Michal HruÅ¡eckÃ½](http://michal.hrusecky.net/) and more is coming.
+For end users, the openSUSE Conference features a series of interesting talks. For starters, ownCloud fans will enjoy the talk by [Jos Poortvliet](http://blog.jospoortvliet.com) about _ownCloud at home_ and the cloud features in more talks with sessions on databases (MySQL) and groupware tools. Desktop users will appreciate an update on what is going on in and to be expected from the KDE community (also [Jos Poortvliet](http://blog.jospoortvliet.com)), the Jolla phone by [Michal Hrušecký](http://michal.hrusecky.net/) and more is coming.
 
 
 
@@ -72,7 +72,7 @@ In the community sessions you will find talks about the openSUSE community, like
 
 **openSUSE development** is a central subject for oSC14. Release manager [Stephan Kulow](https://plus.google.com/+StephanKulow/) will talk about the introduction of _staging projects_, _rings_ and _openQA_ following the [new workflow proposal](http://lists.opensuse.org/opensuse-factory/2013-11/msg00920.html) from last year. [Alberto Planas](https://twitter.com/a_planas) will be giving a long talk on the subject of writing plugins for _osc_, the Open Build Service command line client.
 
-**openQA**, the automated operating system testing tool of openSUSE, is poised to be given a greater role in development. At the openSUSE conference you will find a workshop for creating openQA tests as well as a short talk on becoming a contributor to openQA development, both done by [Alberto](https://twitter.com/a_planas). In other testing news and improvements news, the tools _rpmlint_ and _speccleaner_ will get their share of attention by respectively [Ludwig Nussel](http://users.suse.com/~lnussel/) and [Michal HruÅ¡eckÃ½](http://michal.hrusecky.net/).
+**openQA**, the automated operating system testing tool of openSUSE, is poised to be given a greater role in development. At the openSUSE conference you will find a workshop for creating openQA tests as well as a short talk on becoming a contributor to openQA development, both done by [Alberto](https://twitter.com/a_planas). In other testing news and improvements news, the tools _rpmlint_ and _speccleaner_ will get their share of attention by respectively [Ludwig Nussel](http://users.suse.com/~lnussel/) and [Michal Hrušecký](http://michal.hrusecky.net/).
 
 Not only openSUSE development tools are build - we do more than package. Several talks on **openSUSE infrastructure**, including our _Travel Support Program tool_ and login infrastructure ([Ancor Gonzales Sosa](https://github.com/ancorgs), are in the plan.
 

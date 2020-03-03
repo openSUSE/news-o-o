@@ -23,7 +23,7 @@ In this week's issue:
   * openSUSE Google Summer of Code projects announced
 
  
-  * People of openSUSE: Michael LÃ¶ffler
+  * People of openSUSE: Michael Löffler
 
  
   * openSUSE Build Service Version 0.9.1 Release

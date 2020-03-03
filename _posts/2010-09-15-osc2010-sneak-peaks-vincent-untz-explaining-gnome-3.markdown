@@ -5,7 +5,7 @@ date: 2010-09-15 11:36:16+00:00
 layout: post
 link: https://news.opensuse.org/2010/09/15/osc2010-sneak-peaks-vincent-untz-explaining-gnome-3/
 slug: osc2010-sneak-peaks-vincent-untz-explaining-gnome-3
-title: 'OSC2010 Sneak Peaks â€“ Vincent Untz: Explaining GNOME 3'
+title: 'OSC2010 Sneak Peaks – Vincent Untz: Explaining GNOME 3'
 wordpress_id: 4426
 categories:
 - Events
@@ -25,7 +25,7 @@ tags:
 > 
 
 > 
-> The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more thanÂ seventy talks and workshops explore the theme  of â€˜**Collaboration Across Borders**â€˜ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together ofÂ  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [BerufsfÃ¶rderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.
+> The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more than seventy talks and workshops explore the theme  of ‘**Collaboration Across Borders**‘ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together of  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [Berufsförderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.
 > 
 > 
 Today we feature the talk ["Explaining GNOME 3"](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=15&sessionId=2&confId=0) from Vincent Untz.
@@ -130,19 +130,19 @@ The idea of contributing like this cannot really be attributed to the distributi
 
 Yes and no. The people doing this integration are still people working on distributions, however, the upstream projects where this integration is needed have matured enough so that the integration can happen directly upstream. In the past, it had to be done, and then pushed upstream. This is what has changed from this regard.
 
-**So basically free software grew up ;)Â  How many distributions do you think we will have 2020? Less or more?**
+**So basically free software grew up ;)  How many distributions do you think we will have 2020? Less or more?**
 
 We'll always have many distributions because people like to be able to build their whole system. But I think we'll only keep 3 "main" distributions (or even less). So less main distributions, but else, as many distributions as we have today.
 
 
 
-**Okay one last, very important, question. Will you give LuboÅ¡ a chance to get even for his epic loss at the ice cream eating contest during the boosters kick-off?Â At the conference party maybe? I bring the ice cream!**
+**Okay one last, very important, question. Will you give Luboš a chance to get even for his epic loss at the ice cream eating contest during the boosters kick-off? At the conference party maybe? I bring the ice cream!**
 
 He'll surely have a chance to try. But no chance to win, I'm afraid :-) He's a good challenger, though. With more training...
 
 **Let's see if he can beat your famous _melting claw_ technique! And with that: thanks for your time Vincent, we're all looking forward to your talk's at the conference!**
 
-You're welcome. See you all in NÃ¼rnberg!
+You're welcome. See you all in Nürnberg!
 
 
 

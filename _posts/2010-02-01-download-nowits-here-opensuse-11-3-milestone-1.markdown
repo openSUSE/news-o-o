@@ -38,7 +38,7 @@ KDE was updated to the first release candidate of the new 4.4 Desktop. The Nepom
 ## Desktop Apps
 
 
-The worldâ€™s best browser [Firefox](http://getfirefox.com) got updated to the latest version 3.6.0. It supports a new type of theme called [Personas](http://www.getpersonas.com/), which allow users to change Firefox's appearance with a single click.[![Firefox Personas](/wp-content/uploads/2010/02/firefox_personas.png)](/wp-content/uploads/2010/02/firefox_personas.png) The protection from out-of-date plugins to keep users safer as they browse got improved and the mozilla developers brought JavaScript performance, the overall browser responsiveness, and startup time up to speed. [Thunderbird](http://getthunderbird.com) the award-winning email application from Mozilla was updated to version 3.0.1 which includes a lot of stability and security fixes.
+The world’s best browser [Firefox](http://getfirefox.com) got updated to the latest version 3.6.0. It supports a new type of theme called [Personas](http://www.getpersonas.com/), which allow users to change Firefox's appearance with a single click.[![Firefox Personas](/wp-content/uploads/2010/02/firefox_personas.png)](/wp-content/uploads/2010/02/firefox_personas.png) The protection from out-of-date plugins to keep users safer as they browse got improved and the mozilla developers brought JavaScript performance, the overall browser responsiveness, and startup time up to speed. [Thunderbird](http://getthunderbird.com) the award-winning email application from Mozilla was updated to version 3.0.1 which includes a lot of stability and security fixes.
 
 [OpenOffice](http://www.openoffice.org/), the free and open productivity suite, in the version 3.2-beta4 (3.1.99.4) is included. OpenOffice 3.2 will bring faster start up times, make further strides in compliance with ODF 1.2 and improve support for other common office document types.
 
@@ -106,13 +106,13 @@ As this is a milestone release, 11.3 Milestone 1 does contain bugs that we know 
   * No titlebar when using Compiz desktop effects [Bug #575559](https://bugzilla.novell.com/show_bug.cgi?id=575559)
 
 	
-  * The module YaST isnÂ´t a valid configuration module [Bug #574864](https://bugzilla.novell.com/show_bug.cgi?id=574864)
+  * The module YaST isn´t a valid configuration module [Bug #574864](https://bugzilla.novell.com/show_bug.cgi?id=574864)
 
 	
-  * Nepomuk isnÂ´t running [Bug #575149](https://bugzilla.novell.com/show_bug.cgi?id=575149)
+  * Nepomuk isn´t running [Bug #575149](https://bugzilla.novell.com/show_bug.cgi?id=575149)
 
 
-You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, weâ€™ll need your help finding, reporting, and fixing those hidden bugs.
+You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, we’ll need your help finding, reporting, and fixing those hidden bugs.
 
 To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensuse.org/Testing) on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) | [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](http://lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 

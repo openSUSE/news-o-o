@@ -36,7 +36,7 @@ OBS 1.5 also includes several experimental features added by the openSUSE Commun
 
 * Support for cross-architecture build support, added by Martin Mohring of 5e Datasoft as part of the work towards supporting the ARM architecture with openSUSE.
 
-* Package download on demand support thanks to Marcus HÃ¼we.
+* Package download on demand support thanks to Marcus Hüwe.
 
 * Filtering of build results via the Web monitor. This means that OBS users can view only relevant results - like failed builds or only builds targeted at specific distributions.
 

@@ -319,7 +319,7 @@ As computer interfaces seem to live more and more from effects and graphics havi
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Would I still have to work? I would be either incredible productive at programming something or would replay all old computer games (though one week would not be sufficient for that).
@@ -391,7 +391,7 @@ The other vacation I spend visiting relatives or small villages often lieing in 
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 At first exchange it to Euro before it loses more value. Then maybe as I usually perceive days and week-ends as too short buy some of that rare and valuable resource called time. Either by more vacation or working only four days a week.
@@ -401,7 +401,7 @@ At first exchange it to Euro before it loses more value. Then maybe as I usually
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 I guess changing history is not allowed so some time in future when holo decks had their breakthrough.
@@ -411,7 +411,7 @@ I guess changing history is not allowed so some time in future when holo decks h
 
 
 
-#### There's a thunderstorm outside Â¯ do you turn off your computer?
+#### There's a thunderstorm outside ¯ do you turn off your computer?
 
 
 No, my laptop is covered.

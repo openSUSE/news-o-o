@@ -5,7 +5,7 @@ date: 2010-10-08 13:02:58+00:00
 layout: post
 link: https://news.opensuse.org/2010/10/08/osc2010-sneak-peaks-conference-keynotes-you-shouldnt-miss/
 slug: osc2010-sneak-peaks-conference-keynotes-you-shouldnt-miss
-title: OSC2010 Sneak Peaks â€“ Conference keynotes you shouldnâ€™t miss!
+title: OSC2010 Sneak Peaks – Conference keynotes you shouldn’t miss!
 wordpress_id: 5029
 categories:
 - Conference
@@ -14,7 +14,7 @@ categories:
 12 days from now it will be the 20th of October - the day the openSUSE Conference will start in Nuremberg, Germany. The conference will be kicked of by keynotes on Wednesday and Friday. With the keynotes we aim to inspire and energize our visitors, sharing some insights or a look at things they haven't seen before. Henne talks in his opening keynote about how openSUSE has become more open - and how you should take advantage of that if you want to change things. On Friday, Gerald talks about the place of Novell in the openSUSE community and how and why it supports us.
 
 **Kick Ass**[![](/wp-content/uploads/2010/10/kick_ass.png)](http://news.opensuse.org/2010/10/08/osc2010-sneak-peaks-conference-keynotes-you-shouldnt-miss/kick_ass/)
-The opening key note on Wednesday will be given by [Henne Vogelsang](http://en.opensuse.org/User:Hennevogel), openSUSE Board Member and active in various open source projects. His key note is titled "Get your ass up!". The idea is that he'll then kick it - or rather, we should get of our collective asses. Henne wants to talk about the heart and soul of Free Software Communities: how we work, how things change. Influence in a community is based on doing. Everyone is equal and if you want to change things, speak up and influence the project. And how: you need to release early, release often. Everything! Not only code but your frustrations, ideas and plans also. That means that people will see your early errors. People will spot your inconsistencies. People will get on your nerves with their own ideas about your stuff. But it also means you donâ€™t have be 100% correct, donâ€™t have to be 100% ready and you donâ€™t have to do 100% yourself. Put everything out there, KICK ASS!
+The opening key note on Wednesday will be given by [Henne Vogelsang](http://en.opensuse.org/User:Hennevogel), openSUSE Board Member and active in various open source projects. His key note is titled "Get your ass up!". The idea is that he'll then kick it - or rather, we should get of our collective asses. Henne wants to talk about the heart and soul of Free Software Communities: how we work, how things change. Influence in a community is based on doing. Everyone is equal and if you want to change things, speak up and influence the project. And how: you need to release early, release often. Everything! Not only code but your frustrations, ideas and plans also. That means that people will see your early errors. People will spot your inconsistencies. People will get on your nerves with their own ideas about your stuff. But it also means you don’t have be 100% correct, don’t have to be 100% ready and you don’t have to do 100% yourself. Put everything out there, KICK ASS!
 More on his vision of the openSUSE project you find in Henne's [blog](http://blog.hennevogel.de/kick-ass/)
 
 **openSUSE & Novell - an odd couple?**

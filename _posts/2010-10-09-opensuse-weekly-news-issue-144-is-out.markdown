@@ -264,7 +264,7 @@ There will be one Keysigning Party session during the openSUSE Conference: Frida
 "The openSUSE Goblin Team are pleased to announce the first public release of Smeegol. 
 
 
-ï»¿ï»¿Smeegol is based on the netbook user interface that came from the MeeGo(TM)* project. Smeegol offers the latest Bansheeâ€™s powerful music player, a newer Evolution Express as mail and agenda client and several additional social networks.  
+﻿﻿Smeegol is based on the netbook user interface that came from the MeeGo(TM)* project. Smeegol offers the latest Banshee’s powerful music player, a newer Evolution Express as mail and agenda client and several additional social networks.  
 
   
 
@@ -279,19 +279,19 @@ There will be one Keysigning Party session during the openSUSE Conference: Frida
 "The last week we again received over 100 comments on the first and second part of our strategy. A few refinements came in on our description of our target users, but most of the input was on the second part about what we offer. We have again incorporated all the comments into the document and a new iteration can be found on co-ment. 
 
 
-And now, the third piece of text has been added: What does openSUSE not do? Besides this, we added some â€˜background informationâ€™ to the strategy, including ideas on our competition, what openSUSE might gain and loose from this strategy and how openSUSE should look like in 2 years from now.  
+And now, the third piece of text has been added: What does openSUSE not do? Besides this, we added some ‘background information’ to the strategy, including ideas on our competition, what openSUSE might gain and loose from this strategy and how openSUSE should look like in 2 years from now.  
 
   
 
- Like with â€œTarget Usersâ€ and â€œWhat does openSUSE offer itâ€™s usersâ€ we would really appreciate it if you could give your input on co-ment but we will accept any kind of input on any channel we can follow. So if co-ment isnâ€™t your thing, feel free to comment below this post, on the forums or anywhere else. For those new to co-ment â€“ it is a pretty awesome commenting tool under the GNU Affero GPL." 
+ Like with “Target Users” and “What does openSUSE offer it’s users” we would really appreciate it if you could give your input on co-ment but we will accept any kind of input on any channel we can follow. So if co-ment isn’t your thing, feel free to comment below this post, on the forums or anywhere else. For those new to co-ment – it is a pretty awesome commenting tool under the GNU Affero GPL." 
 
 
 
 
-####  [openSUSE News: OSC2010 Sneak Peaks â€“ Conference keynotes you shouldnâ€™t miss!](http://news.opensuse.org/2010/10/08/osc2010-sneak-peaks-conference-keynotes-you-shouldnt-miss/)
+####  [openSUSE News: OSC2010 Sneak Peaks – Conference keynotes you shouldn’t miss!](http://news.opensuse.org/2010/10/08/osc2010-sneak-peaks-conference-keynotes-you-shouldnt-miss/)
 
 
-"12 days from now it will be the 20th of October â€“ the day the openSUSE Conference will start in Nuremberg, Germany. The conference will be kicked of by keynotes on Wednesday and Friday. With the keynotes we aim to inspire and energize our visitors, sharing some insights or a look at things they havenâ€™t seen before. Henne talks in his opening keynote about how openSUSE has become more open â€“ and how you should take advantage of that if you want to change things. On Friday, Gerald talks about the place of Novell in the openSUSE community and how and why it supports us." 
+"12 days from now it will be the 20th of October – the day the openSUSE Conference will start in Nuremberg, Germany. The conference will be kicked of by keynotes on Wednesday and Friday. With the keynotes we aim to inspire and energize our visitors, sharing some insights or a look at things they haven’t seen before. Henne talks in his opening keynote about how openSUSE has become more open – and how you should take advantage of that if you want to change things. On Friday, Gerald talks about the place of Novell in the openSUSE community and how and why it supports us." 
 </td>
 </tr>
 </tbody>
@@ -341,7 +341,7 @@ And now, the third piece of text has been added: What does openSUSE not do? Besi
 "After the second iteration on the rules, a number of clarifications have been made and also the complete rule set got reordered and edited. 
 
 
-Iâ€™d like to thank David that did the major editing on this one. What do you think? Are we good now to run the next elections with these rules?" 
+I’d like to thank David that did the major editing on this one. What do you think? Are we good now to run the next elections with these rules?" 
 
 
 
@@ -832,7 +832,7 @@ From website [http://www.documentfoundation.org/](http://www.documentfoundation.
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -878,10 +878,10 @@ From website [http://www.documentfoundation.org/](http://www.documentfoundation.
 ####  [Bryen Yunashko: Still devastated](http://www.bryen.com/still-devastated/)
 
 
-"It is Monday morning and almost time to get ready for work at the GNOME-A11y hackfest in Sevilla, Spain. As much as Iâ€™m looking forward to the week, Iâ€™m still very depressed about what happened this weekend. 
+"It is Monday morning and almost time to get ready for work at the GNOME-A11y hackfest in Sevilla, Spain. As much as I’m looking forward to the week, I’m still very depressed about what happened this weekend. 
 
 
-On Saturday morning, just as I was leaving Barcelona to head down to Sevilla, I got robbed. I was at the bus depot waiting for the airport shuttle bus to take me to BCN when I put down my laptop bag and camera bag so I could pull out my white cane. Barely a moment passed by when all of a sudden I got jostled and in that split secondâ€¦ whoever it was was gone and so were my two shoulder bags. Why couldnâ€™t they have stolen my suitcases instead of this???" 
+On Saturday morning, just as I was leaving Barcelona to head down to Sevilla, I got robbed. I was at the bus depot waiting for the airport shuttle bus to take me to BCN when I put down my laptop bag and camera bag so I could pull out my white cane. Barely a moment passed by when all of a sudden I got jostled and in that split second… whoever it was was gone and so were my two shoulder bags. Why couldn’t they have stolen my suitcases instead of this???" 
 
 
 
@@ -895,7 +895,7 @@ On Saturday morning, just as I was leaving Barcelona to head down to Sevilla, I 
 ####  [Bryen Yunashko: Huge Thanks!](http://www.bryen.com/huge-thanks/)
 
 
-"As a follow-up to yesterdayâ€™s post on what happened to me over the weekend, I want to give thanks for the tremendous amount of support everyone has given to me from across the world. Thereâ€™s very little I can say to truly express the awe I feel about the support you all have given. (...)" 
+"As a follow-up to yesterday’s post on what happened to me over the weekend, I want to give thanks for the tremendous amount of support everyone has given to me from across the world. There’s very little I can say to truly express the awe I feel about the support you all have given. (...)" 
 
 
 ####  [Jos Poortvliet: Call to Arms](http://nowwhatthe.blogspot.com/2010/10/call-to-arms.html)
@@ -920,10 +920,10 @@ I know the KDE community is also looking at future directions - KDE 4 series is 
 
 
 
-####  [Klaas Freitag: Itâ€™s good to visit Conferences](http://lizards.opensuse.org/2010/10/08/its-good-to-visit-conferences/)
+####  [Klaas Freitag: It’s good to visit Conferences](http://lizards.opensuse.org/2010/10/08/its-good-to-visit-conferences/)
 
 
-"This post is about why one should visit a conference at all and hopefully is a good read for people who havenâ€™t been on a FOSS conference yet. For oldtimers this might be unbelieveable, but I remember perfectly how I thought â€œThis conference sounds interesting, but its probably only for checkers, long term contributors, not for meâ€. Thanks god I had somebody convincing me that thatâ€™s wrong and pulled me to my first Akademy which was a great experience as well as all the other conferences I have been later. 
+"This post is about why one should visit a conference at all and hopefully is a good read for people who haven’t been on a FOSS conference yet. For oldtimers this might be unbelieveable, but I remember perfectly how I thought “This conference sounds interesting, but its probably only for checkers, long term contributors, not for me”. Thanks god I had somebody convincing me that that’s wrong and pulled me to my first Akademy which was a great experience as well as all the other conferences I have been later. 
 
 
 The main thing that happens on conferences is learning. While sitting in workshops and presentations you can learn so much about technologies, and since you take the time to really listen to it, it sticks very good in your mind. If questions remain open, you can be sure to immediately find people who can help to clearify." 
@@ -959,7 +959,7 @@ Upcoming:
   * [** October 13, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** October 14, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** October 14, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * [** October 20, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
@@ -968,7 +968,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1032,7 +1032,7 @@ Event: Software Freedom Day - Chile.
 
   
 
- Its the second edition of this event, last year it was in Bottrop and this year it will be in Oberhausen at Rheinisches Industriemuseum. Marcel Richter, Thomas GroÃŸ and me go there but Thomas have a talk and me have an workshop and a talk there so help is always welcome.  
+ Its the second edition of this event, last year it was in Bottrop and this year it will be in Oberhausen at Rheinisches Industriemuseum. Marcel Richter, Thomas Groß and me go there but Thomas have a talk and me have an workshop and a talk there so help is always welcome.  
 
   
 
@@ -1051,12 +1051,12 @@ A few words about the event:
 
   
 
- The event had everything an Free open fest could have,music,theatrical teams ,places for kids to learn through games, free coffee, free clothes,free games and any other kind of items people stopped use and wanted to give away to others instead of throwing them away as garbage,also after the event what people didnâ€™t take the xarise to team gathered it and gave it to institutions. (...)" 
+ The event had everything an Free open fest could have,music,theatrical teams ,places for kids to learn through games, free coffee, free clothes,free games and any other kind of items people stopped use and wanted to give away to others instead of throwing them away as garbage,also after the event what people didn’t take the xarise to team gathered it and gave it to institutions. (...)" 
 
 
 
 
-####  [KÃ¡lmÃ¡n KÃ©mÃ©nczy: Software Freedom Day - Szeged, Hungary - Report](http://lists.opensuse.org/archive/opensuse-ambassadors/2010-10/msg00020.html)
+####  [Kálmán Kéménczy: Software Freedom Day - Szeged, Hungary - Report](http://lists.opensuse.org/archive/opensuse-ambassadors/2010-10/msg00020.html)
 
 
 "Please find my report here. 
@@ -1177,7 +1177,7 @@ Imagination at present features 26 transitions effects developed as plugins load
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1320,10 +1320,10 @@ To view the security announcements in full, or to receive them as soon as they'r
 "Drivers in 2.6.36 include considerably improved support for infra-red receivers and remotes, optimised USB drivers, and a solution for a much discussed problem that Android developers, in one way or another, had solved long ago." 
 
 
-####  [Rares Aioanei: Kernel weekly news â€“ 09.10.2010](http://schaiba.wordpress.com/2010/10/05/kernel-weekly-news-09-10-2010/)
+####  [Rares Aioanei: Kernel weekly news – 09.10.2010](http://schaiba.wordpress.com/2010/10/05/kernel-weekly-news-09-10-2010/)
 
 
-"Well, hello, folks, and be welcome! After a short break, caused by various real-life-related stuff, weâ€™re back in business! So, letâ€™s see whatâ€™s happened â€¦" 
+"Well, hello, folks, and be welcome! After a short break, caused by various real-life-related stuff, we’re back in business! So, let’s see what’s happened …" 
 </td>
 </tr>
 </tbody>
@@ -1372,10 +1372,10 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Ghacks/Jack Wallen: Add brushes to The GIMP](http://www.ghacks.net/2010/10/04/add-brushes-to-the-gimp/)
 
 
-"The GIMP has a ton of tools for the user to take advantage of. From editing tools to drawing tools to filters to script fu to a whole host of other possibilities. One tool that many donâ€™t take advantage of is bushes. 
+"The GIMP has a ton of tools for the user to take advantage of. From editing tools to drawing tools to filters to script fu to a whole host of other possibilities. One tool that many don’t take advantage of is bushes. 
 
 
-Brushes in The GIMP allow the user to extend The GIMPâ€™s flexibility by creating different ways to draw with effect or style. Brushes can be any number of styles from either standard drawing tool brushes to more artistic brushes. Regardless of the type of brush you want to add (you can even create your own), you have to know how to add them, before you can use them. In this Ghacks article I will show you how to add new brushes to The GIMP in Linux." 
+Brushes in The GIMP allow the user to extend The GIMP’s flexibility by creating different ways to draw with effect or style. Brushes can be any number of styles from either standard drawing tool brushes to more artistic brushes. Regardless of the type of brush you want to add (you can even create your own), you have to know how to add them, before you can use them. In this Ghacks article I will show you how to add new brushes to The GIMP in Linux." 
 
 
 
@@ -1386,7 +1386,7 @@ Brushes in The GIMP allow the user to extend The GIMPâ€™s flexibility by cr
 "[Dropbox](http://www.dropbox.com/) is a nifty little application that lets you sync and share files on the Internet and between several computers. Want to send a movie to a friend? Use Dropbox. Want to have a common folder for pictures that you and your girlfriend can update on different computers? Use Dropbox. 
 
 
-The problem with Dropbox is that you canâ€™t share entire folders. Only individual links. Thatâ€™s where [dropbox-index](http://code.google.com/p/kosciak-misc/downloads/list) comes in. Download the Python script and use it like this to share an entire folder of files: (...)" 
+The problem with Dropbox is that you can’t share entire folders. Only individual links. That’s where [dropbox-index](http://code.google.com/p/kosciak-misc/downloads/list) comes in. Download the Python script and use it like this to share an entire folder of files: (...)" 
 
 
 
@@ -1441,7 +1441,7 @@ The first is the cd -" command that takes you to back to whatever directory you 
 ####  [Nettuts+/Jeffrey Way: Quick Tip: JavaScript Hoisting Explained](http://net.tutsplus.com/tutorials/javascript-ajax/quick-tip-javascript-hoisting-explained/)
 
 
-"Todayâ€™s video quick tip comes in response to a question on Twitter, concerning JavaScript â€œhoisting.â€ What is it? How does it work? What do you need to know about it? All of that will be covered in this beginner-focused fundamentals lesson. (...)" 
+"Today’s video quick tip comes in response to a question on Twitter, concerning JavaScript “hoisting.” What is it? How does it work? What do you need to know about it? All of that will be covered in this beginner-focused fundamentals lesson. (...)" 
 </td>
 </tr>
 </tbody>
@@ -1500,10 +1500,10 @@ From time to time we hear the question, what actually is KDE e.V., what's its ro
 ####  [Nelson Marques: Fortune favors the bold!](http://nmarques.digitalwhores.net/2010/10/02/fortune-favors-the-bold/)
 
 
-"2010 will for sure be the â€˜year of strategyâ€™, as Iâ€™m seeing many people in several distributions (ex: Fedora, openSUSE) placing an awesome effort into it. 
+"2010 will for sure be the ‘year of strategy’, as I’m seeing many people in several distributions (ex: Fedora, openSUSE) placing an awesome effort into it. 
 
 
-During what Iâ€™ve seen from many strategical teams working on the field, there is one thing that came into my attention, and which has actually been giving me lots of thinking around itâ€¦ â€˜user baseâ€™ definitionsâ€¦ There is a huge concern about technical skilled individuals and integrating them into the community, and often the most less demanding users are often ignored or at some point marginalizedâ€¦ Why does this happen? Lets think about this â€˜less technical orientedâ€™ users and their needs and how they fullfil them!" 
+During what I’ve seen from many strategical teams working on the field, there is one thing that came into my attention, and which has actually been giving me lots of thinking around it… ‘user base’ definitions… There is a huge concern about technical skilled individuals and integrating them into the community, and often the most less demanding users are often ignored or at some point marginalized… Why does this happen? Lets think about this ‘less technical oriented’ users and their needs and how they fullfil them!" 
 
 
 
@@ -1511,10 +1511,10 @@ During what Iâ€™ve seen from many strategical teams working on the field, t
 ####  [Mike McCallister: Welcome LibreOffice!](http://metaverse.wordpress.com/2010/10/05/welcome-libreoffice/)
 
 
-"Itâ€™s been more than a week now since the Great OpenOffice Fork of 2010, and the dust is beginning to settle. 
+"It’s been more than a week now since the Great OpenOffice Fork of 2010, and the dust is beginning to settle. 
 
 
-If you havenâ€™t heard, last Monday a large chunk of the OpenOffice.org (OOo) development community announced the formation of The Document Foundation (TDF), and would create a new office suite based on OOo, called LibreOffice. The announcement carried endorsements from many heavy hitters in the open source and corporate worlds, including Google, Novell, Red Hat, and Canonical. Even the GNOME Foundation (while noting the existence of its own small suite) had nice things to say at the launch." 
+If you haven’t heard, last Monday a large chunk of the OpenOffice.org (OOo) development community announced the formation of The Document Foundation (TDF), and would create a new office suite based on OOo, called LibreOffice. The announcement carried endorsements from many heavy hitters in the open source and corporate worlds, including Google, Novell, Red Hat, and Canonical. Even the GNOME Foundation (while noting the existence of its own small suite) had nice things to say at the launch." 
 
 
 
@@ -1559,10 +1559,10 @@ So check it out, it's worth it :D"
 
 
 
-####  [Andreas Jaeger: systemd â€“ and #osc2010](http://lizards.opensuse.org/2010/10/08/systemd-and-osc2010/)
+####  [Andreas Jaeger: systemd – and #osc2010](http://lizards.opensuse.org/2010/10/08/systemd-and-osc2010/)
 
 
-"Systemd is a replacement for SystemV init and in heavy development since the first announcement on April 30th by Lennart Poettering. Thanks to Kay Sieversâ€™ work, we have packages for openSUSE curent Factory stream as well. I gave them a try a couple of weeks ago but somehow did not succeed with getting a working system. At LinuxKongress I met Lennart and decided to give systemd another try. I still could not log into the system due to it using NIS and automount for NFS home directories and started debugging this together with Kay over IRC in a virtual machine first. Once we had a workaround for me, I used systemd on my workstation and Kay and Lennart fixed the problem in systemd properly. I run into a couple of more problems and thus were fixed quickly so that the last release â€“ systemd 11 â€“ works fine on my workstation running openSUSE Factory (Factory is the development version for the next openSUSE release, in this case for 11.4)." 
+"Systemd is a replacement for SystemV init and in heavy development since the first announcement on April 30th by Lennart Poettering. Thanks to Kay Sievers’ work, we have packages for openSUSE curent Factory stream as well. I gave them a try a couple of weeks ago but somehow did not succeed with getting a working system. At LinuxKongress I met Lennart and decided to give systemd another try. I still could not log into the system due to it using NIS and automount for NFS home directories and started debugging this together with Kay over IRC in a virtual machine first. Once we had a workaround for me, I used systemd on my workstation and Kay and Lennart fixed the problem in systemd properly. I run into a couple of more problems and thus were fixed quickly so that the last release – systemd 11 – works fine on my workstation running openSUSE Factory (Factory is the development version for the next openSUSE release, in this case for 11.4)." 
 </td>
 </tr>
 </tbody>
@@ -1702,7 +1702,7 @@ Gottfried Hofmann writes:
 ####  [The Register/Cade Metz: Google open sources JPEG assassin](http://www.theregister.co.uk/2010/09/30/google_webp/)
 
 
-"Google has open sourced a new "lossy" image format known as WebP â€” pronounced "weppy" â€” claiming it can cut the size of current web images by almost 40 per cent. 
+"Google has open sourced a new "lossy" image format known as WebP — pronounced "weppy" — claiming it can cut the size of current web images by almost 40 per cent. 
 
 
 [CNet](http://news.cnet.com/8301-30685_3-20018146-264.html) revealed the format with a story late this morning, and Google soon followed with a [blog post](http://blog.chromium.org/2010/09/webp-new-image-format-for-web.html) describing the technology, which has been released as a [developer preview](http://code.google.com/speed/webp/index.html). WebP is derived from VP8, the video codec Google acquired with its purchase of On2 Technologies earlier this year and [promptly open sourced](http://www.theregister.co.uk/2010/05/20/google_confident_on_vp8_and_patents/) as part of the new WebM format." 
@@ -1713,7 +1713,7 @@ Gottfried Hofmann writes:
 ####  [Google Summer of Code report: WorldForge](http://google-opensource.blogspot.com/2010/10/google-summer-of-code-report-worldforge.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOpenSourceBlog+%28Google+Open+Source+Blog%29)
 
 
-"For the third time in a row, Worldforge participated in Google Summer of Code, with three students completing the program this year. Worldforge is the original open-source Massively Multiplayer Online Role-Playing Game (MMORPG) project, so itâ€™s great at getting students who are interested in games into open source. 
+"For the third time in a row, Worldforge participated in Google Summer of Code, with three students completing the program this year. Worldforge is the original open-source Massively Multiplayer Online Role-Playing Game (MMORPG) project, so it’s great at getting students who are interested in games into open source. 
 
 
 This post showcases some of the work done by one of our students, Tiberiu Paunescu, to implement a series of improvements to the Ember UI. These improvements were all end-user focused and meant to provide a better and more streamlined user experience.  
@@ -1725,10 +1725,10 @@ This post showcases some of the work done by one of our students, Tiberiu Paunes
 
 
 
-####  [Linux Magazine/Jeffrey B. Layton: One Billion Dollars! Waitâ€¦ I Mean One Billion Files!!!](http://www.linux-mag.com/id/7876/1/)
+####  [Linux Magazine/Jeffrey B. Layton: One Billion Dollars! Wait… I Mean One Billion Files!!!](http://www.linux-mag.com/id/7876/1/)
 
 
-"The world is awash in data. This fact is putting more and more pressure on file systems to efficiently scale to handle increasingly large amounts of data. Recently, Ric Wheeler from Redhat experimented with putting 1 Billion files in a single file system to understand what problems/issues the Linux community might face in the future. Letâ€™s see what happenedâ€¦" 
+"The world is awash in data. This fact is putting more and more pressure on file systems to efficiently scale to handle increasingly large amounts of data. Recently, Ric Wheeler from Redhat experimented with putting 1 Billion files in a single file system to understand what problems/issues the Linux community might face in the future. Let’s see what happened…" 
 
 
   
@@ -1749,7 +1749,7 @@ This post showcases some of the work done by one of our students, Tiberiu Paunes
 "There are many articles that explain the different characteristics of the distributions of Linux, today I also want to try it my way. 
 
 
-If every Linux distribution was a food, which would you choose to eat? Iâ€™ll try to resume for every distro the keywords that come to my mind thinking at it and see whatâ€™s the first Food result that google image give with these words and the word food." 
+If every Linux distribution was a food, which would you choose to eat? I’ll try to resume for every distro the keywords that come to my mind thinking at it and see what’s the first Food result that google image give with these words and the word food." 
 
 
 
@@ -1760,9 +1760,9 @@ If every Linux distribution was a food, which would you choose to eat? Iâ€™
 "It was recently announced that Internet Explorer has slipped to less than 50% of the market, at least according to StatCounter. Firefox claims nearly 40% of the market, but Google Chrome has already entered double digits in just two years. 
 
 
-For features and speed, Chrome is rapidly becoming â€˜the browser to beatâ€™, and the Mozilla Project seems to know it. The Firefox 4 feature list and development cycle have been fairly aggressive in terms of trying to catch up to â€“ or surpass â€“ Chrome.  
+For features and speed, Chrome is rapidly becoming ‘the browser to beat’, and the Mozilla Project seems to know it. The Firefox 4 feature list and development cycle have been fairly aggressive in terms of trying to catch up to – or surpass – Chrome.  
 
- Howâ€™s it going so far? The betas of Firefox 4 have been impressive, and have revealed a few new features that you wonâ€™t find in Chrome and improvements under the hood. (...)" 
+ How’s it going so far? The betas of Firefox 4 have been impressive, and have revealed a few new features that you won’t find in Chrome and improvements under the hood. (...)" 
 
 
 
@@ -1855,7 +1855,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1864,7 +1864,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1924,34 +1924,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/144)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/144)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/144)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/144)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/144)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/144)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/144)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/144)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/144)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/144/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/144/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/144/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/144)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/144)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/144)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/144)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/144)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/144)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/144)
@@ -1960,7 +1960,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/144/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/144)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/144)
 
 
 </td>

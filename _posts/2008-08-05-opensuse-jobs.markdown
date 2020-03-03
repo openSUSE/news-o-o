@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-We have some open student positions for the next few months to work on various aspects of the openSUSE infrastructure.Â  If you're interested, please apply at [jobs@suse.de](mailto:jobs@suse.de).Â  Additionally we have a full-time position open that I'd like to mention as well.
+We have some open student positions for the next few months to work on various aspects of the openSUSE infrastructure.  If you're interested, please apply at [jobs@suse.de](mailto:jobs@suse.de).  Additionally we have a full-time position open that I'd like to mention as well.
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ We have some open student positions for the next few months to work on various a
 ## Student, Practical - users.opensuse.org Enhancements
 
 
-The users.opensuse.org website has been started as central place of the openSUSE project for user provided information.Â  We'd like to enhance it in several ways:
+The users.opensuse.org website has been started as central place of the openSUSE project for user provided information.  We'd like to enhance it in several ways:
 
 users.opensuse.org has some initial support for membership management and we'd like to enlarge this:
 
@@ -81,7 +81,7 @@ lists.opensuse.org is the mailserver of the openSUSE project and we need some ov
 ## General information for the above two positions
 
 
-The openSUSE team is looking for students to implement these enhancements.Â  We'd like to offer a job for up to two months.Â  Most of the team you'll be working with is located in Nuernberg, Germany.Â  We would like to have candidates working from Nuernberg but are open to other setups as well.
+The openSUSE team is looking for students to implement these enhancements.  We'd like to offer a job for up to two months.  Most of the team you'll be working with is located in Nuernberg, Germany.  We would like to have candidates working from Nuernberg but are open to other setups as well.
 
 Candidate Profile:
 

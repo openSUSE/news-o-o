@@ -88,7 +88,7 @@ Alex Eftimie will be part of the AppStream initiative, porting Ubuntu's Software
 ### Heroku like solution for SUSE Studio
 
 
-BjÃ¸rn Arild MÃ¦land wants to work on the Dister command line tool. He aims to add support for Rack (Ruby) and WSGI (Python) compliant web frameworks. The goal is to improve the user experience so people and make for example the use of direct Amazon EC2 deployment easy.
+Bjørn Arild Mæland wants to work on the Dister command line tool. He aims to add support for Rack (Ruby) and WSGI (Python) compliant web frameworks. The goal is to improve the user experience so people and make for example the use of direct Amazon EC2 deployment easy.
 
 
 ### openSUSE Build Service (OBS) for Android
@@ -101,7 +101,7 @@ Justine Leng wants to improve and add to the interface, not only making the Andr
 ### new python obs library (osc code cleanup)
 
 
-Marcus HÃ¼we will cleanup the osc (command line tool for OBS) code and refactor it into a new python OBS library and make sure osc uses it.
+Marcus Hüwe will cleanup the osc (command line tool for OBS) code and refactor it into a new python OBS library and make sure osc uses it.
 
 
 ### SUSE bug reporter

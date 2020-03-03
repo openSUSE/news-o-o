@@ -328,7 +328,7 @@ Too many to list.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 If it not only crashes for me I would feel fine and would spend more time with my family.
@@ -398,7 +398,7 @@ I've enjoyed beach holidays in the past and still like them.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Buy a few things and redeem money for my house.
@@ -408,7 +408,7 @@ Buy a few things and redeem money for my house.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Depends on how the future look like and in worst case in the present.
@@ -418,7 +418,7 @@ Depends on how the future look like and in worst case in the present.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Usually not. Why would I?

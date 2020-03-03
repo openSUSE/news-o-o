@@ -97,7 +97,7 @@ openSUSE 11.1 will include KDE 3.5.10 on the DVD media, but moved to the "other 
   * Re-written YaST Security module: Checks the security of your system configuration.
 
 
-**Cluster stack** features significant usability changes and has adopted OpenAIS, an industry standard also supported by leading vendors, for its core infrastructure.Â  See http://openais.org/ for more info.
+**Cluster stack** features significant usability changes and has adopted OpenAIS, an industry standard also supported by leading vendors, for its core infrastructure.  See http://openais.org/ for more info.
 
 **Support for Amazon's Elastic Compute Cloud (EC2) **-- using KIWI, users can easily create an EC2 cloud based on openSUSE 11.1. (Documented here: http://svn.berlios.de/wsvn/kiwi/kiwi-head/doc/kiwi.pdf?op=file&rev=0&sc=0)
 

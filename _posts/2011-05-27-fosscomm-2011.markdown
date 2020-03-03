@@ -14,7 +14,7 @@ tags:
 - Greece
 ---
 
-[FOSSCOMM](http://patras.fosscomm.gr/) 2011 was held in Patras on the 7 to 8 May from Patras Linux User Group (PLUG) and the Department of Computer Engineering & Information Technology (Computer Laboratory / Computer Center), University of Patras. The conference was very interesting with severalÂ  additional speeches, several parallel events (booths from communities and projects, parallel talks, workshops) and live streaming.
+[FOSSCOMM](http://patras.fosscomm.gr/) 2011 was held in Patras on the 7 to 8 May from Patras Linux User Group (PLUG) and the Department of Computer Engineering & Information Technology (Computer Laboratory / Computer Center), University of Patras. The conference was very interesting with several  additional speeches, several parallel events (booths from communities and projects, parallel talks, workshops) and live streaming.
 
 The Greek openSUSE community has united to present this two-day conference in Patras. There, we met people from other communities, discussed and promoted openSUSE and FOSS.
 

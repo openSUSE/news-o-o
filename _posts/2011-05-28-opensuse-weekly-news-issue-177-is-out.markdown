@@ -102,9 +102,9 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 Enjoy reading :-)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
-â€œ
+“
 
 [openSUSE renames
         OBS](http://news.opensuse.org/2011/05/26/opensuse-renames-obs/)
@@ -122,7 +122,7 @@ The openSUSE Buildservice started out as an internal SUSE technology. In 2006 it
       distributions (Fedora, Ubuntu, MeeGo and others) and packaging systems (rpm, debian, kiwi),
       now expanded to 21 build targets on 6 architectures. We will support even more systems in
       future, non-Linux targets and also more specialized Linux targets like maintenance channels.
-      But while â€˜OBSâ€™ is meant for a much wider audience than openSUSE, being used by projects and
+      But while ‘OBS’ is meant for a much wider audience than openSUSE, being used by projects and
       companies like VLC, MeeGo, Dell and many others, its name misleadingly signaled a
       distribution-specific purpose.
 
@@ -137,8 +137,8 @@ In highlighting the benefits of OBS to the masses, the over-reaching assumption 
       service is openSUSE-specfic proved to be a deterrent. It clearly takes additional effort to
       convince a potential user that despite the name, openSUSE Build Service was not just for openSUSE. And the distribution-independent technological
       benefits became lost in the confusion. This effect is very apparent in face to face
-      communication as youâ€™ll almost immediately hear others saying â€œNo, Iâ€™m a Fedora
-        packager, this has nothing to do with me. Sorryâ€. when they hear about OBS. This same
+      communication as you’ll almost immediately hear others saying “No, I’m a Fedora
+        packager, this has nothing to do with me. Sorry”. when they hear about OBS. This same
       effect lead to less people reading articles or attending talks on the subject.
 
 And while this was an undesirable effect for us promoting one of the key features of the
@@ -167,8 +167,8 @@ So after ample deliberation and discussion with all the major stakeholders, the 
 
 The branding part of OBS will be adapted to make it easy for projects deploying their own
       OBS to name their OBS while staying connected with the OBS project. We suggest to name a
-      project-specific OBS instance â€œXXX Open Build Serviceâ€, like â€œVLC Open
-        Build Serviceâ€. The new domain name for the project will be [openbuildservice.org](http://open-build-service.org/).
+      project-specific OBS instance “XXX Open Build Service”, like “VLC Open
+        Build Service”. The new domain name for the project will be [openbuildservice.org](http://open-build-service.org/).
 
 **Reaction**
 
@@ -177,16 +177,16 @@ Of course, we at openSUSE are very happy with this change. And so are our friend
 
 Ralph Dehner, CEO at B1 systems notes:
 
-â€œIn the past B1 Systems has written build environments for the customers by itself. With
-      the open Build Service now exists a â€œstandardâ€ which makes it easy to build packages for
+“In the past B1 Systems has written build environments for the customers by itself. With
+      the open Build Service now exists a “standard” which makes it easy to build packages for
       different distributions and architectures.
 
-This will be also interesting for many other open source projects.â€
+This will be also interesting for many other open source projects.”
 
-â€œThe Linux Foundation views OBS as an important and useful tool for building software for
-      Linux,â€ said Amanda McPherson, vice president of marketing and developer program for the Linux
-      Foundation. â€œAs adoption of OBS has increased, itâ€™s a natural step to rename it to reflect its
-      open nature and cross-distribution support.â€
+“The Linux Foundation views OBS as an important and useful tool for building software for
+      Linux,” said Amanda McPherson, vice president of marketing and developer program for the Linux
+      Foundation. “As adoption of OBS has increased, it’s a natural step to rename it to reflect its
+      open nature and cross-distribution support.”
 
 **Enterprise Support**
 
@@ -203,38 +203,38 @@ The support offering will be handled via a new OBS Developer Services (DS) progr
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-â€œ
+“
 
 [Bryen Yunashko:
-        Readyâ€¦Setâ€¦Code!](http://news.opensuse.org/2011/05/25/ready-set-code/)
+        Ready…Set…Code!](http://news.opensuse.org/2011/05/25/ready-set-code/)
 
-Yesterday marked the official start of Google Summer of Codeâ€™s Coding Period. And openSUSE
+Yesterday marked the official start of Google Summer of Code’s Coding Period. And openSUSE
       mentors are right in the thick of it working with 16 students seeking to make a better world
       in FOSS.
 
 openSUSE can take particular pride in GSoC further supporting the openSUSE goal of
-      creating an environment thatÃ½ supports not only openSUSE but FOSS in general. Indeed we are
-      mentoring several projects that directly benefit openSUSE, but thereâ€™s also several projects
+      creating an environment thatý supports not only openSUSE but FOSS in general. Indeed we are
+      mentoring several projects that directly benefit openSUSE, but there’s also several projects
       that support other projects, like the Arch Linux backend for our Open Build Service, a test
       suite for btrfs, ext4 snapshots in snapper, PackageKit backend in Software Center, and ICC
       device profile repository.
 
-â€œ
+“
 
 I do believe that our main contribution is that we will be sharing our enthusiasm
           about Free Software with our students and students from other organizations. And this is
           what will, hopefully, keep the students involved in the Free Software world after GSoC.
-          â€“ Vincent Untz, openSUSE GSoC Organizer
+          – Vincent Untz, openSUSE GSoC Organizer
 
-â€
+”
 
 And it is true that students are already experiencing the spirit of the openSUSE
       Project. As student Alex Eftimie says:
@@ -242,42 +242,42 @@ And it is true that students are already experiencing the spirit of the openSUSE
 
       
 
-â€œ
+“
 
-What can I say? Iâ€™m excited about everything. openSUSE is the perfect umbrella for
+What can I say? I’m excited about everything. openSUSE is the perfect umbrella for
           such a project. What I like most about it is that the result will be usable in a
-          cross-distro fashion. Until GSoC, I wasnâ€™t familiar with openSUSE efforts on
-          collaboration. Package management is a domain where distros can do better, and Iâ€™m glad to
+          cross-distro fashion. Until GSoC, I wasn’t familiar with openSUSE efforts on
+          collaboration. Package management is a domain where distros can do better, and I’m glad to
           be a part of this effort.
 
-â€
+”
 
 
     
 
-You can see the complete list of student projects weâ€™re working with [here](http://lists.opensuse.org/opensuse-project/2011-04/msg00495.html).
+You can see the complete list of student projects we’re working with [here](http://lists.opensuse.org/opensuse-project/2011-04/msg00495.html).
 
 Pavol Rusnak, our other openSUSE GSoC organizer, reminds us that there are also some
       long-standing tasks directly beneitting the openSUSE Project which will now be tackled by some
       of our student projects.
 
-â€œ
+“
 
 With projects like Open Build Service for Android, a new python OBS library, and
-        solutions to enhance SUSE Studio and YaST, weâ€™ll be further strengthening some of the unique
+        solutions to enhance SUSE Studio and YaST, we’ll be further strengthening some of the unique
         selling points of openSUSE.
 
-â€
+”
 
 **The Timeline**
 
-  * May 23 â€“ Coding begins
+  * May 23 – Coding begins
 
-  * July 11 â€“ Midterm Evaluation
+  * July 11 – Midterm Evaluation
 
-  * August 15 â€“ Suggested Pencil Down
+  * August 15 – Suggested Pencil Down
 
-  * August 26 â€“ Final Evaluation Deadline
+  * August 26 – Final Evaluation Deadline
 
 **Stay informed**
 
@@ -288,51 +288,51 @@ Students are asked to post weekly reports. You can follow it on their blogs, whi
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-â€
+”
 
-â€œ
+“
 
-[Marcus HÃ¼we: GSoC â€“ new osc user interface proposal](http://lizards.opensuse.org/2011/05/23/gsoc-new-osc-user-interface-proposal/)
+[Marcus Hüwe: GSoC – new osc user interface proposal](http://lizards.opensuse.org/2011/05/23/gsoc-new-osc-user-interface-proposal/)
 
 as a part of our Google Summer of Code Project to cleanup osc our first task was to define
-      a new commandline user interface for osc. The current user interface is quite â€œinconsistentâ€
-      (with regard to the expected arguments for different commands) and has some other â€œflawsâ€.
+      a new commandline user interface for osc. The current user interface is quite “inconsistent”
+      (with regard to the expected arguments for different commands) and has some other “flaws”.
       Here are some examples to show some flaws of the current user interface: (...)
 
-â€
+”
 
-â€œ
+“
 
 [Ratan Sebastian: GSOC
         2011: ssc - Week 1](http://rxvl.in/post/5826361873/gsoc-2011-ssc-week-1)
 
-My proposal for a command-line client for Suse Studio has been accepted for this yearâ€™s
+My proposal for a command-line client for Suse Studio has been accepted for this year’s
       Google Summer of Code. You can see the full proposal [here](http://www.google-melange.com/gsoc/proposal/review/google/gsoc2011/ratan/1). In short, the project is pretty self-evident from the title. In case you
-      donâ€™t know what Suse Studio is, its a web service that allows you to design custom ISOs of
+      don’t know what Suse Studio is, its a web service that allows you to design custom ISOs of
       linux distributions. As you can imagine, designing a custom variant of a linux distro will
       involve a lot of configuration. This tool aims to ease the hassles involved with using the web
       interface to make these customisations. The most common use case for this tool as I see it
       will be modifying default configuration files. The tool will allow you to make all the
-      modifications you want locally in an appliance directory and push the changes when youâ€™re
+      modifications you want locally in an appliance directory and push the changes when you’re
       ready. If you want a more thorough view of how it will work please do read the [complete
         proposal](http://www.google-melange.com/gsoc/proposal/review/google/gsoc2011/ratan/1).
 
-â€
+”
 
-â€œ
+“
 
-[Christos Bountalis: A utility for merging configuration / sysconfig files â€“ Week 1
+[Christos Bountalis: A utility for merging configuration / sysconfig files – Week 1
         Report](http://cbounta.wordpress.com/2011/05/27/a-utility-for-merging-configuration-sysconfig-files-week-1-report/)
 
-Itâ€™s less than a week, that GSoC 2011 coding period have begun. This is my first report
+It’s less than a week, that GSoC 2011 coding period have begun. This is my first report
       for the project.Every Friday I will make a report in this blog to share with you the progress
       I am making on the project.So what did I do during these first days?
 
 First of all I created an online repo on GitHub and I forked the Augeas project. That will
-      permit me to use version control of my project â€œGITâ€ during the implementation and retain an
+      permit me to use version control of my project “GIT” during the implementation and retain an
       online repo where I can commit my changes to, while experimenting with the source code. This
       gave me the opportunity to practice more with git, create branches merge commit changes etc. I
-      have to admit that until now, I didnâ€™t used a version control system much, but i really donâ€™t
+      have to admit that until now, I didn’t used a version control system much, but i really don’t
       know why?!?! Really git is awesome and can save the developer valuable and useful time.
 
 Next, I continued with trying out OBS for the first time, the openSUSE Build Service, that
@@ -345,7 +345,7 @@ Next, I continued with trying out OBS for the first time, the openSUSE Build Ser
       interested and maybe help with future debugging.
 
 Finally among my initial experiments with Augeas source code, I have created a branch
-      â€œhelloworldâ€ on my git repo, whether i added a simple hw â€“ Hello world command in the augtool
+      “helloworld” on my git repo, whether i added a simple hw – Hello world command in the augtool
       that is contained within Augeas. That command prints as you may have guessed ![](http://s2.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1256405099g) , a hello world message on screen. Then i compiled the project by using
       the sources of the specific branch, and at the end i used obs to create some packages that can
       be found on my obs repo ![](http://s0.wp.com/wp-includes/images/smilies/icon_biggrin.gif?m=1256405099g) .
@@ -383,13 +383,13 @@ Notice: This is the first time I compile and package a project
         with obs, therefore the packages inside the repo are highly experimental and only for
         testing purposes.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
-â€œ
+“
 
 
         [Andreas Jaeger: Factory
@@ -397,13 +397,13 @@ Notice: This is the first time I compile and package a project
       
 
 A lot of things are happening in our Factory distribution that will be released in
-        November 2011 as openSUSE 12.1 and Iâ€™d like to point out a few things from the last few weeks
-        that users and developers of factory shouldnâ€™t miss.
+        November 2011 as openSUSE 12.1 and I’d like to point out a few things from the last few weeks
+        that users and developers of factory shouldn’t miss.
 
 **Roadmap openSUSE
         12.1**
 
-Stephan â€œCooloâ€ Kulow has updated the openSUSE 12.1 [Roadmap](http://en.opensuse.org/Roadmap), the next milestone is Milestone 1
+Stephan “Coolo” Kulow has updated the openSUSE 12.1 [Roadmap](http://en.opensuse.org/Roadmap), the next milestone is Milestone 1
         which is delayed and targeted now for release on Tuesday, 30th May. The next paragraphs
         highlight some of the updates for this versions.
 
@@ -412,12 +412,12 @@ Stephan â€œCooloâ€ Kulow has updated the openSUSE 12.1 [Roadmap](http:/
 The GNU Compiler Collection has been updated to version 4.6, the list of [changes](http://gcc.gnu.org/gcc-4.6/changes.html) includes the following new
         warning that will be visible while compiling packages for openSUSE Factory:
 
-  * â€œNew -Wunused-but-set-variable and -Wunused-but-set-parameter warnings were added for
+  * “New -Wunused-but-set-variable and -Wunused-but-set-parameter warnings were added for
             C, C++, Objective-C and Objective-C++. These warnings diagnose variables respective
             parameters which are only set in the code and never otherwise used. Usually such variables
             are useless and often even the value assigned to them is computed needlessly, sometimes
             expensively. The -Wunused-but-set-variable warning is enabled by default by -Wall flag and
-            -Wunused-but-set-parameter by -Wall -Wextra flags.â€
+            -Wunused-but-set-parameter by -Wall -Wextra flags.”
 
 Some packages have been failing by the new GCC due to new warnings and new optimizations
         and most have been fixed already but please double check that your packages are building and
@@ -425,10 +425,10 @@ Some packages have been failing by the new GCC due to new warnings and new optim
 
 **RPM 4.9**
 
-Michael SchrÃ¶der [announced](http://lists.opensuse.org/opensuse-packaging/2011-05/msg00112.html)[RPM 4.9](http://rpm.org/wiki/Releases/4.9.0) for
+Michael Schröder [announced](http://lists.opensuse.org/opensuse-packaging/2011-05/msg00112.html)[RPM 4.9](http://rpm.org/wiki/Releases/4.9.0) for
         Factory. He explains the main packager visible changes as:
 
-â€œ
+“
 
 Besides some bug fixes and an update to a newer BerkeleyDB library rpm-4.9.0 contains
             plugin architecture for dependency generation. In older rpms, the internal dependency
@@ -441,9 +441,9 @@ This means for you, that rpm will no longer use the %__find_provides and
             generated dependencies.
 
 This will no longer work in rpm-4.9.0. Instead, support for dependency filtering was
-            added to rpmâ€¦
+            added to rpm…
 
-â€
+”
 
 **GNOME3**
 
@@ -452,7 +452,7 @@ This will no longer work in rpm-4.9.0. Instead, support for dependency filtering
 
 **Linux Kernel 2.6.39**
 
-This update was a â€œboringâ€ update â€“ nothing broke AFAIK , so I hope itâ€™s a solid version.
+This update was a “boring” update – nothing broke AFAIK , so I hope it’s a solid version.
         Users will benefit from the[ new
           features](http://www.h-online.com/open/features/Linux-Kernel-2-6-39-Tracking-1219728.html) in it. 2.6.39 is the first kernel without the Big Kernel Lock at
         all!
@@ -465,7 +465,7 @@ Besides new software, also new ways of handling it get introduced. The following
 **Rpmlint update**
 
 Ludwig Nussel updated rpmlint to version 1.2 and [explained](http://lists.opensuse.org/opensuse-packaging/2011-05/msg00118.html)
-        the new warnings about packaging of rpm packages â€“ and what to do about them.
+        the new warnings about packaging of rpm packages – and what to do about them.
 
 **Changing the process of Factory submissions with the Open Build
         Service**
@@ -473,13 +473,13 @@ Ludwig Nussel updated rpmlint to version 1.2 and [explained](http://lists.opensu
 Now with every submission to Factory scripts are run automatically that do two different
         reviews before the package goes to human check-in review:
 
-  * The â€œlegal-autoâ€ review checks the updated package for changes in licenses.
+  * The “legal-auto” review checks the updated package for changes in licenses.
 
-  * The â€œfactory-autoâ€ review checks that the updated package builds actually in the devel
-            project â€“ and if not, rejects it.
+  * The “factory-auto” review checks that the updated package builds actually in the devel
+            project – and if not, rejects it.
 
-The â€œlegal-autoâ€ review has quite a long backlog at the moment and JÃ½rgen is working on
-        moving some of the checks to rpmlint or osc checks â€“ so that the packager notices and fixes
+The “legal-auto” review has quite a long backlog at the moment and Jýrgen is working on
+        moving some of the checks to rpmlint or osc checks – so that the packager notices and fixes
         them before submission to Factory.
 
 Also, you can now submit packages to Factory even if you are not the maintainer of the
@@ -492,10 +492,10 @@ Also, you can now submit packages to Factory even if you are not the maintainer 
 The [openSUSE Conference](http://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/) is this year co-located with the SUSE Labs conference. Join us
         to present and discuss also Factory related topics. The [Call for papers](http://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/) is open now!
 
-Iâ€™m interested on feedback on this article â€“ should I start a
+I’m interested on feedback on this article – should I start a
         series?
 
-â€
+”
 
 Important Links
 
@@ -507,7 +507,7 @@ Important Links
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
-â€œ
+“
 
 
         [[Matt
@@ -531,13 +531,13 @@ With the Gallery client, you can browse, search, view details, download, write t
         should compile on any platform that Qt and LibVNCViewer support (including Windows and Mac).
         And of course, contributions and bug reports are most welcome!
 
-â€
+”
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-â€œ
+“
 
 
           [Minutes: Build Service Team Meeting](http://lists.opensuse.org/opensuse-buildservice/2011-05/msg00144.html)
@@ -545,16 +545,16 @@ With the Gallery client, you can browse, search, view details, download, write t
 
 Published minutes from the Buildservice Team Meeting from 25. May 2011.
 
-â€
+”
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-â€œ
+“
 
 
-          [FrÃ©dÃ©ric Crozat: GNOME 3 Live image release 1.3.0 - VirtualBox, here we come](http://blog.crozat.net/2011/05/gnome-3-live-image-release-130.html)
+          [Frédéric Crozat: GNOME 3 Live image release 1.3.0 - VirtualBox, here we come](http://blog.crozat.net/2011/05/gnome-3-live-image-release-130.html)
         
 
 good news for Virtual Machine addicts : VirtualBox team has fixed issues which were
@@ -563,13 +563,13 @@ good news for Virtual Machine addicts : VirtualBox team has fixed issues which w
           additions, required for openGL). To download the image : [http://www.gnome.org/getting-gnome/](http://www.gnome.org/getting-gnome/)
           Enjoy.
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 349)](https://features.opensuse.org/120340)
@@ -578,9 +578,9 @@ good news for Virtual Machine addicts : VirtualBox team has fixed issues which w
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 183)](https://features.opensuse.org/305493)
@@ -595,9 +595,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 127)](https://features.opensuse.org/308497)
@@ -615,9 +615,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 101)](https://features.opensuse.org/305877)
@@ -638,13 +638,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [Support for ISC DHCP client for IPv6](https://features.opensuse.org/312406)
@@ -666,9 +666,9 @@ DHCLIENT6_BIN=""
 
 Since this client has been obsoleted by ISC dhcp, the DHCPv6 client of ISC should be used as default and as an alternative.
 
-â€
+”
 
-â€œ
+“
 
 
             [switch off boot.clock](https://features.opensuse.org/312407)
@@ -676,9 +676,9 @@ Since this client has been obsoleted by ISC dhcp, the DHCPv6 client of ISC shoul
 
 Nowadays the kernel sets the system time from rtc and a potential local/utc offset is applied in the initrd already. The only task left for boot.clock is to adjust the clock drift. That's a rather advanced feature not known nor appreciated by the standard auto logging in user. Network installs have ntp enabled anyways. Therefore boot.clock should be switched off by default to have one less script to execute. Anyone who needs the clock drift feature can insserv boot.clock manually.
 
-â€
+”
 
-â€œ
+“
 
 
             [get rid of $HWCLOCK setting](https://features.opensuse.org/312412)
@@ -698,9 +698,9 @@ Programs reading /etc/sysconfig/clock:
 
   * yast2-country
 
-â€
+”
 
-â€œ
+“
 
 
             [Add key-mon](https://features.opensuse.org/312427)
@@ -708,9 +708,9 @@ Programs reading /etc/sysconfig/clock:
 
 There's already a package in X11:Utilities, it just needs to be pushed to Factory (might need a cleanup, I didn't check).
 
-â€
+”
 
-â€œ
+“
 
 
             [Package libbluray](https://features.opensuse.org/312440)
@@ -723,9 +723,9 @@ gvfs can use libbluray to access Blu-Ray metadata.
 
 It should apparently be safe to integrate in openSUSE, according to the webpage.
 
-â€
+”
 
-â€œ
+“
 
 
             [Package frogr](https://features.opensuse.org/312449)
@@ -737,9 +737,9 @@ Frogr is a small application for the GNOME desktop that allows users to manage t
 
 [http://live.gnome.org/Frogr](http://live.gnome.org/Frogr)
 
-â€
+”
 
-â€œ
+“
 
 
             [Imrpovements on Yast package manager](https://features.opensuse.org/312451)
@@ -747,9 +747,9 @@ Frogr is a small application for the GNOME desktop that allows users to manage t
 
 It's very frustating when I'm downloading packages in yast and something fails and lose all I was downloading. It's also complicated that I have to calculate how long the download of packages will last 'cause I can't pause and resume it later. It would be very nice if the gui yast package manager worked like a download manager allowing pause, resume, restart of failed downloads, preview of size, progress and time and had gui customization for what to do when something fails.
 
-â€
+”
 
-â€œ
+“
 
 
             [Remastersys for Opensuse or something like that](https://features.opensuse.org/312452)
@@ -757,9 +757,9 @@ It's very frustating when I'm downloading packages in yast and something fails a
 
 Opensuse is very good, it has everything all other big distros have and much more but there's one thing I miss in it: "Remastersys". Kiwi and suse studio don't do the same. Remastersys works offline and turns your installed system into a live cd/dvd that can be ran or installed anywhere. It also has the possibility of building the live cd/dvd including personal data and configuration.I would like to carry my opensuse installation with all its configs to another places with me and to share it with others. Can anyone create something like remastersys or adapt it to opensuse?
 
-â€
+”
 
-â€œ
+“
 
 
             [Replace Liberation fonts with ChromeOS core fonts](https://features.opensuse.org/312455)
@@ -774,7 +774,7 @@ The ChromeOS core fonts are basically extended versions of the Liberation fonts 
 
 The fontconfig configuration files must be updated to include these fonts. Here's an initial patch: [http://pastebin.com/TkQb9bvM](http://pastebin.com/TkQb9bvM)
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -785,13 +785,13 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Postings from the Community
 
-â€œ
+“
 
 [Andreas Jaeger:
           FOSSCOMM 2011](http://news.opensuse.org/2011/05/27/fosscomm-2011/)
@@ -836,9 +836,9 @@ The community participated at the conference with the following presentations an
 
   * Introducing YaST (Efstathios Agrapidis),
 
-  * Add / Remove software in openSUSE (Athanasios â€“ Elias Rousinopoulos),
+  * Add / Remove software in openSUSE (Athanasios – Elias Rousinopoulos),
 
-  * Weekly News â€“ The Greek way (Efstathios Agrapidis),
+  * Weekly News – The Greek way (Efstathios Agrapidis),
 
   * Evergreen Project (George Tsiapaliokas),
 
@@ -883,15 +883,15 @@ Article by Kostas Koudaras
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-â€
+”
 
 ### People of openSUSE
 
-â€œ
+“
 
 [People of openSUSE: Jeff Mahoney](http://news.opensuse.org/2011/05/27/people-of-opensuse-jeff-mahoney/)
 
-Iâ€™m 32 and live in the Boston area. Iâ€™ve been working on Linux since 1999 and with SUSE
+I’m 32 and live in the Boston area. I’ve been working on Linux since 1999 and with SUSE
         since 2000. I started working with Linux by just hacking on small things and then moving on
         to specialize in file systems. These days I lead one of the SUSE Labs kernel teams, still
         focus on file systems, but also am involved in the technical leadership for the kernel in
@@ -903,7 +903,7 @@ Iâ€™m 32 and live in the Boston area. Iâ€™ve been working on Linux sin
         if you are one of our GSoC-students, please mail to [kimleyendecker@hotmail.de](mailto:kimleyendecker@hotmail.de) if you want to be
         interviewed by us and tell the readers of news.o.o about your project and yourself!
 
-â€
+”
 
 ### Events & Meetings
 
@@ -936,14 +936,14 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [openSUSE Connect](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [Linus Torvalds: (Short?) merge window reminder](http://article.gmane.org/gmane.linux.kernel.mm/63589)
@@ -966,9 +966,9 @@ this PS is going to result in more discussion than the rest, but when
 the voices tell me to do things, I listen.
 
 
-â€
+”
 
-â€œ
+“
 
 [Michal
         Marek: announcing kernel.opensuse.org](http://lists.opensuse.org/opensuse-kernel/2011-05/msg00090.html)
@@ -985,13 +985,13 @@ and analogously for the kernel.git repository. We will add more stuff to
       kernel.opensuse.org website in near future, next in the todo list is LXR and either gitweb or
       cgit. Have fun! Michal
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
-â€œ
+“
 
 
         [Linux Journal/Emre Sevinc: Grabbing Your Music from YouTube: Do It Your Way ](http://www.linuxjournal.com/content/grabbing-your-music-youtube-do-it-your-way)
@@ -1004,15 +1004,15 @@ A few months ago my father-in-law said that his company was renewing their compu
         reformat one of those computers so that he could use it at his home, I jumped at the
         opportunity to bring another user to the world of GNU/Linux. A few days passed and he was a
         happy user of his new computer running Ubuntu, and he was enjoying his Firefox while he
-        explored the web. I donâ€™t know what other people think or usability studies say, but he said
+        explored the web. I don’t know what other people think or usability studies say, but he said
         that he had no problem using the system and he was surprised that I did not have to install
         an anti-virus. (...)
 
-â€
+”
 
 ### For Commandline/Script Newbies
 
-â€œ
+“
 
 
         [pHacks/Pietra Armaga: How to Use GNU Screen](http://www.phacks.net/how-to-use-gnu-screen/)
@@ -1020,13 +1020,13 @@ A few months ago my father-in-law said that his company was renewing their compu
 
 On UNIX, GNU Screen is a utility that i cannot live without. I know many console users share the same point of view with me.
 
-What is GNU Screen? it is a terminal multiplexer and you can run multiple console-based applications simultaneously. The best part of it is that you can leave it running on remote machines and come back to pick up your console sessions. Itâ€™s like VNC or Remote Desktop but for UNIX console. As you know that on UNIX if you run something on a shell and you got disconnected from it then your sessions will also stop. All work will be gone. (...)
+What is GNU Screen? it is a terminal multiplexer and you can run multiple console-based applications simultaneously. The best part of it is that you can leave it running on remote machines and come back to pick up your console sessions. It’s like VNC or Remote Desktop but for UNIX console. As you know that on UNIX if you run something on a shell and you got disconnected from it then your sessions will also stop. All work will be gone. (...)
 
-â€
+”
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 
         [Petr Baudis: brmd: A Case for POE](http://log.or.cz/?p=156)
@@ -1041,11 +1041,11 @@ In [brmlab](http://brmlab.cz/), we want to [track](http://brmlab.cz/project/brmd
 What to use for a service (we call it brmd) that will bind all these interfaces
         together? It just needs a lot of boring frontends and simple state maintenance. 
 
-It turns out that Perlâ€™s [POE](http://poe.perl.org/) framework is
-        ideal for this â€“ most of the code for IRC, HTTP and device read/write is already there, so
+It turns out that Perl’s [POE](http://poe.perl.org/) framework is
+        ideal for this – most of the code for IRC, HTTP and device read/write is already there, so
         you just grab the modules, slam them together and you have exactly what you need with
-        minimal effort. Right?It turns out that there are caveats â€“ basically, the idea is correct,
-        aside of getting stuck on a single stupidity of mine, Iâ€™d have the whole thing put together
+        minimal effort. Right?It turns out that there are caveats – basically, the idea is correct,
+        aside of getting stuck on a single stupidity of mine, I’d have the whole thing put together
         in something like half an hour. Unfortunately, the moment you want robustness too, things
         are getting a lot more complex; to handle the device disappearing, IRC disconnections, not
         having HTTP socket fds leak away, etc., you suddenly need to either magically know what
@@ -1053,27 +1053,27 @@ It turns out that Perlâ€™s [POE](http://poe.perl.org/) framework is
         making it so easy to give a simple state machine many input/output interfaces and when you
         get used to the idiosyncracies, you can even make it somewhat reliable. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Petr Baudis: Repairing git cherry-pick authorship
           information](http://log.or.cz/?p=177)
 
 I spent just my last night going through few months worth of patches and cherry-picking
-        the bugfixy ones to [glibcâ€™s
-          release/2.11/master](http://sourceware.org/glibc/wiki/Release/2.11). But I was tired and didnâ€™t pay attention to gitâ€™s messages,
+        the bugfixy ones to [glibc’s
+          release/2.11/master](http://sourceware.org/glibc/wiki/Release/2.11). But I was tired and didn’t pay attention to git’s messages,
         so at the end of the evening, I noticed that for all conflicting patches, I have done git
         commit -a instead of git commit -a -c commitid. This had a definite advantage since the
-        â€œ(cherry picked from commit â€¦)â€ notices inserted by git cherry-pick -x got preserved, but
-        also a very definitive problem â€“ the author name and date info for each commit was
+        “(cherry picked from commit …)” notices inserted by git cherry-pick -x got preserved, but
+        also a very definitive problem – the author name and date info for each commit was
         wrong.
 
-(Note that AIUI, 1.7.5 cherry-pick might not have this problem anymore. Iâ€™m still using
-        1.7.4, content with Debianâ€™s packaged version nowadays.)
+(Note that AIUI, 1.7.5 cherry-pick might not have this problem anymore. I’m still using
+        1.7.4, content with Debian’s packaged version nowadays.)
 
 Due to the -x lines, we still have mapping to original history. Therefore, some
-        scripting should fix this quickly. And sure enoughâ€¦! Maybe this recipe will come useful to
+        scripting should fix this quickly. And sure enough…! Maybe this recipe will come useful to
         someone:
 
 git filter-branch --commit-filter'
@@ -1096,15 +1096,15 @@ fi' c55cc45ed76603b380489ee8c91ab5dce92e92f1..HEAD
 Note that this requires that /bin/sh is bash (which may NOT be the case on debian!).
         Otherwise, you need to rewrite the <<< bit.
 
-The c55cc45edâ€¦ commit is the first wrong cherry-pick. You may omit that altogether if
+The c55cc45ed… commit is the first wrong cherry-pick. You may omit that altogether if
         you wish but the complete branch history is going to be rewritten. Also note that you should
         never rewrite commits that are already pushed out to a public place.
 
-â€
+”
 
 ### For System Administrators
 
-â€œ
+“
 
 
         [BeginLinux: SAMBA and Share Configuration Through YaST](http://beginlinux.com/desktop/opensuse/samba-and-share-configuration-through-yast)
@@ -1112,30 +1112,30 @@ The c55cc45edâ€¦ commit is the first wrong cherry-pick. You may omit that al
 
 One of the features that makes SUSE relatively simple to manage is that all of the graphical configuration tools are gathered together in the YaST Control Center, (**Y**et **a**nother **S**etup **T**ool). You can start YaST from the Computer Menu on your task bar, if you are not authenticated as root you will be prompted for the root password. By selecting Network Services > Samba Server you will start SAMBA configuration tool. The default install will add SAMBA but if it had not been installed it will automatically install it for you with this selection. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
-â€œ
+“
 
 
-      [Bryen Yunashko: OBSâ€”The New Name
+      [Bryen Yunashko: OBS—The New Name
         Speaks Volumes](http://www.bryen.com/obs-renamespeaks_volumes/)
     
 
 In May of 2010, fellow openSUSEan Andreas Jaeger (AJ) and I sat down to review how we can
       help promote the openSUSE Build Service, also known as OBS. It became quickly apparent to me
-      that while theÃ½ service was called â€œopenSUSE Build Serviceâ€ the name didnâ€™t give enough due
-      credit. The build serviceâ€™s capabilities meant so much more than simply creating a tool for
+      that while theý service was called “openSUSE Build Service” the name didn’t give enough due
+      credit. The build service’s capabilities meant so much more than simply creating a tool for
       the openSUSE distribution. Sporting an impressive list of supported distros and architectures
       that OBS could package for, this was clearly a tool that needed to be marketed beyond just the
       immediate openSUSE Project community. This was truly a tool for the masses.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
 
-â€œ
+“
 
 
       [New Forums functionality](http://forums.opensuse.org/content/2-new-forum-functionality.html)
@@ -1145,9 +1145,9 @@ In May of 2010, fellow openSUSEan Andreas Jaeger (AJ) and I sat down to review h
       The openSUSE Forums are moving on. After the new theme, the new layout, now the forums software has new functions. This Article is one of the first in our new section "Articles", there's also a new blog section: "Blogs". The openSUSE Forums already were a place of activity and enthousiasm, these tools will give members even more room for contributing. It's all pretty new, so not much to tell about it yet, I will get back about the new functionality after taking a good look around and seeing what the tools can be used for.
     
 
-â€
+”
 
-â€œ
+“
 
 
       [Are you a distro hopper?](http://forums.opensuse.org/english/other-forums/community-fun/surveys-polls/460077-you-distro-hopper.html)
@@ -1157,9 +1157,9 @@ In May of 2010, fellow openSUSEan Andreas Jaeger (AJ) and I sat down to review h
       For those who wonder what a  "distro hopper" is: a linux user constantly moving from one linux distribution to another, for whatever reason. This thread is a survey/poll by a member interested in whether openSUSE Forums members are distro hoppers. There's not only their votes, the thread also contains comments by users, telling us why they're distro hopping, or not.
       
 
-â€
+”
 
-â€œ
+“
 
 
       [What is safest way to upgrade using new installation while keeping existing Home](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/460348-what-safest-way-upgrade-using-new-installation-while-keeping-existing-home.html)
@@ -1169,9 +1169,9 @@ In May of 2010, fellow openSUSEan Andreas Jaeger (AJ) and I sat down to review h
       A question where every answer -no doubt- is debatable. Yet there's quite some good advice to give. If you don't know: /home/USERNAME is the place where the user's foldere reside; not only "Documents", but also lots of -mostly hidden- folders that contain the user's preferences, settings, program configurations etc. When upgrading to a new version, or moving to another distribution, one would preferably keep these settings, most certainly the documents. Most linux distributions default to putting /home on a separate partition on harddisk, so that it can be left unformatted, untouched during install or upgrade. Read ahead to see some nice suggestions. Personal remark: this does not make backups redundant.
       
 
-â€
+”
 
-â€œ
+“
 
 
     [What packages/repos do you want to see pulled into Tumbleweed?](http://forums.opensuse.org/english/get-technical-help-here/tumbleweed/458051-what-packages-repos-do-you-want-see-pulled-into-tumbleweed.html)
@@ -1181,13 +1181,13 @@ In May of 2010, fellow openSUSEan Andreas Jaeger (AJ) and I sat down to review h
       Tumbleweed, the inbetween stable and factory openSUSE, is alive and kicking. I'd like to draw your attention to a not so recent thread where one of the intiators of Tumbleweed asks you as an openSUSE user, which packages you would like to see in a Tumbleweed version. Tumbleweed already serves GNOME3 -from a separate repo-, KDE and LXDE as desktop environments, but there might be applications you would like to see in Tumbleweed. This thread gives them an opportunity to let the Tumbleweed maintainers know.
       
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
-â€œ
+“
 
 
         [Nat Friedman: Xamarin](http://nat.org/blog/2011/05/xamarin/)
@@ -1196,70 +1196,70 @@ In May of 2010, fellow openSUSEan Andreas Jaeger (AJ) and I sat down to review h
 In the past year, [my wife](http://shetravels.org/) and I have visited
         20 different countries, we[ sat on the front
           lines of a conflict with members of the two opposing armies](http://shetravels.org/2010/08/military-standoff-at-preah-vihear/), survived dengue
-        fever, learned to sail, and I got a pilotâ€™s license. Weâ€™re lucky people, and itâ€™s been
+        fever, learned to sail, and I got a pilot’s license. We’re lucky people, and it’s been
         pretty great. What could ever pull me away from this grand adventure?
 
 A brand new adventure.
 
-Iâ€™m excited to report that Iâ€™m joining [Xamarin](http://xamarin.com/)
-        as co-founder and CEO this week. Iâ€™m honored to be joining Miguel, Joseph and an all-star
+I’m excited to report that I’m joining [Xamarin](http://xamarin.com/)
+        as co-founder and CEO this week. I’m honored to be joining Miguel, Joseph and an all-star
         engineering team. And I am very passionate about our mission: to make mobile software
         development incredibly fast and easy.
 
-In the last year, one thing that Iâ€™ve learned is that mobile phones are, for many
+In the last year, one thing that I’ve learned is that mobile phones are, for many
         people, their first direct contact with software. We met people in the most remote areas of
         the world, living in straw huts without electricity or running water, who have mobile
         phones. And so anything we do that improves mobile software improves the lives of billions
-        of people. Iâ€™m passionate about this, and Iâ€™m very excited about the chance we have at
+        of people. I’m passionate about this, and I’m very excited about the chance we have at
         Xamarin.
 
 We believe that mobile development is in its first stages and that we can deliver an
-        incredible mobile development experience â€” far better than what exists today. Our objective
+        incredible mobile development experience — far better than what exists today. Our objective
         is to build great products that people love. We want to pamper our customers.
 
-Iâ€™m about to board a plane to Boston this morning where weâ€™ll get things kicked off,
-        before moving to San Francisco later in the year. Thereâ€™s a lot to be done. Iâ€™ll try to keep
+I’m about to board a plane to Boston this morning where we’ll get things kicked off,
+        before moving to San Francisco later in the year. There’s a lot to be done. I’ll try to keep
         you posted!
 
 **Other Sources**: [h-online](http://www.h-online.com/open/news/item/Xamarin-Novell-s-former-open-source-strategist-to-become-CEO-1250766.html)
 
-â€
+”
 
 ### Reports
 
-â€œ
+“
 
 
         [ZDNET/Steven J. Vaughan-Nichols & Paula Rooney: Where Novell & SUSE Linux goes
           from here](http://www.zdnet.com/blog/open-source/where-novell-suse-linux-goes-from-here/8951)
       
 
-[Attachmateâ€™s
-          purchase of Novell is done](http://www.zdnet.com/blog/open-source/novell-deals-done/8755), and now weâ€™re beginning to see it plans develop for
-        the open-source power. First, and foremost, [Attachmate](http://www.attachmate.com) is dividing up [Novell](http://www.novell.com/home/)â€™s programs into three nominally independent divisions. These are [NetIQ](http://www.netiq.com), which gets Novell identity and security programs
-        and some of Novell data center solutions; Novell, which will manage the companyâ€™s older
+[Attachmate’s
+          purchase of Novell is done](http://www.zdnet.com/blog/open-source/novell-deals-done/8755), and now we’re beginning to see it plans develop for
+        the open-source power. First, and foremost, [Attachmate](http://www.attachmate.com) is dividing up [Novell](http://www.novell.com/home/)’s programs into three nominally independent divisions. These are [NetIQ](http://www.netiq.com), which gets Novell identity and security programs
+        and some of Novell data center solutions; Novell, which will manage the company’s older
         technologies such as [NetWare](http://www.novell.com/products/openenterpriseserver); and [SUSE](http://www.novell.com/linux/), which will
         produce SUSE Linux and oversee the [openSUSE](http://www.opensuse.org/en)
         community Linux distribution. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [anselmolsm: Meego
-          Conf 2011 â€“ San Francisco](http://www.anselmolsm.org/blog/meego-conf-2011-san-francisco/)
+          Conf 2011 – San Francisco](http://www.anselmolsm.org/blog/meego-conf-2011-san-francisco/)
       
 
 I am in San Francisco (again! =), now for the MeeGo Conference 2011. The event is about
-        to begin with the keynote â€œThe Future of MeeGo Starts Nowâ€ presented by the president of
-        Linux Foundation, Jim Zemlin. This time, Iâ€™m going to present a talk in the event too! The
-        talk is today and the topic is â€œWriting applications for multiple MeeGo devicesâ€. There are
+        to begin with the keynote “The Future of MeeGo Starts Now” presented by the president of
+        Linux Foundation, Jim Zemlin. This time, I’m going to present a talk in the event too! The
+        talk is today and the topic is “Writing applications for multiple MeeGo devices”. There are
         other talks by openBossa/INdT guys, check the schedule! (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Sinny Kumari (ksinny): What Next In Plasma Media
@@ -1292,9 +1292,9 @@ Next step will be to write associated services so that read and write operation 
 
 Any suggestion regarding Plasma Media center will be most welcome ![](http://sinny.in/sites/all/modules/ckeditor/ckeditor/plugins/smiley/images/regular_smile.gif)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online: First beta of KDE 4.7 arrives for testing](http://www.h-online.com/open/news/item/First-beta-of-KDE-4-7-arrives-for-testing-1250739.html)
@@ -1312,12 +1312,12 @@ KDE SC 4.7 Beta1 features improvements to KWin, the window manager for the KDE P
         improved file metadata searching. The [Marble](http://www.kde.org/applications/education/marble/) virtual globe
         application, which is similar to Google Earth, now supports [offline address search](http://nienhueser.de/blog/?p=321). KDE's login
         manager, KDM (KDE Display Manager), now [works with](http://ksmanis.wordpress.com/2011/04/21/hello-planet-and-grub2-support-for-kdm/) the Grub2 boot loader. The developers note that API, dependency and
-        feature freezes are in effect and that the team is now focused on â€œfixing bugs and
-          further polishing new and old functionalityâ€.
+        feature freezes are in effect and that the team is now focused on “fixing bugs and
+          further polishing new and old functionality”.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/kH55SM) and let us know! 
 
@@ -1355,7 +1355,7 @@ Wish to **donate**? [
       ![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/135641/openSUSE-Weekly-News)
   
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -1365,11 +1365,11 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -1383,7 +1383,7 @@ We thank for this Issue:
 
   * [iJoomla](http://www.ijoomla.com), Surveys
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -1391,12 +1391,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 177 is available in: 
 

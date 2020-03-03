@@ -18,7 +18,7 @@ tags:
 
 [![image of 'uncle sam' Green style!](/wp-content/uploads/2011/01/vote.jpeg)](http://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/vote/)
 
-The last few weeks in the openSUSE project have been very interesting. [Two seats on the openSUSE Project board](http://en.opensuse.org/openSUSE:Board_election_2010) were up for election.Â The [Election Committee](http://en.opensuse.org/openSUSE:Board_election_2010#Election_committee) closed theÂ polls on Wednesday, and we are pleased to announce the results:
+The last few weeks in the openSUSE project have been very interesting. [Two seats on the openSUSE Project board](http://en.opensuse.org/openSUSE:Board_election_2010) were up for election. The [Election Committee](http://en.opensuse.org/openSUSE:Board_election_2010#Election_committee) closed the polls on Wednesday, and we are pleased to announce the results:
 
 
 
@@ -32,7 +32,7 @@ The last few weeks in the openSUSE project have been very interesting. [Two seat
   3. Sankar P. (71 votes)
 
 	
-  4. Sebastian KÃ¼gler (64 votes)
+  4. Sebastian Kügler (64 votes)
 
 	
   5. Chuck Payne (39 votes)
@@ -44,6 +44,6 @@ The last few weeks in the openSUSE project have been very interesting. [Two seat
   7. Kostas Kodouras (20 votas)
 
 
-220 of the 469Â openSUSE members voted.
+220 of the 469 openSUSE members voted.
 
 We at the News Team wish the new board members all the best and Have A Lot Of Fun!

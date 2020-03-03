@@ -38,7 +38,7 @@ Digikam, the application that lets you manage your photographs like a profession
 
 With the latest release of empathy, which brings again bugfixes and translation updates, we'll most likely feel comfortable enough to push it into the GNOME default installation since the UI has been improved a lot and it's more solid now.
 
-Other desktop apps that got updated are evolution (2.29.90) whichÂ  has a account-wide search scope for mails now and improves  its sidebar and ECalModel interaction. And VirtualBox OSE (3.1.4), the latest maintenance release of  the 3.1 series,  which improves stability and fixes regressions, see their [ ChangeLog](http://www.virtualbox.org/wiki/Changelog) for  details.
+Other desktop apps that got updated are evolution (2.29.90) which  has a account-wide search scope for mails now and improves  its sidebar and ECalModel interaction. And VirtualBox OSE (3.1.4), the latest maintenance release of  the 3.1 series,  which improves stability and fixes regressions, see their [ ChangeLog](http://www.virtualbox.org/wiki/Changelog) for  details.
 
 
 ## Base System
@@ -106,7 +106,7 @@ As this is a milestone release, 11.3 milestone 2 does contain bugs that we know 
   * Impossible to save data in the GNOME keyring [Bug #580043](https://bugzilla.novell.com/show_bug.cgi?id=580043)
 
 
-You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, weâ€™ll need your help finding, reporting, and fixing those hidden bugs.
+You can track the [most annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want to make sure 11.3 final is free of annoying bugs, we’ll need your help finding, reporting, and fixing those hidden bugs.
 
 To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensuse.org/Testing) on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) | [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](http://lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 

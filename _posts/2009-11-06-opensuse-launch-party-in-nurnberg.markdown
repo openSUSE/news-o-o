@@ -6,7 +6,7 @@ layout: post
 link: https://news.opensuse.org/2009/11/06/opensuse-launch-party-in-nurnberg/
 published: false
 slug: opensuse-launch-party-in-nurnberg
-title: openSUSE launch party in NÃ¼rnberg
+title: openSUSE launch party in Nürnberg
 wordpress_id: 2452
 ---
 

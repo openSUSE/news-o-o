@@ -42,7 +42,7 @@ Launch Parties are probably the coolest way to introduce people to FOSS and to i
 
 [caption id="attachment_11582" align="alignright" width="240" caption="Launch Party area at Second Life"][![Launch Party area at Second Life](/wp-content/uploads/2011/11/party-22-300x296.jpg)](http://news.opensuse.org/2011/11/02/will-you-party/party-22-300x296/)[/caption]
 
-Yes, we plan to get some cool stuffâ„¢ to you if you organize a party. We are working hard to have the openSUSE 12.1 DVD's ready as soon as possible and will send them, together with some flyers, posters, stickers and other goodies to the registered release parties. We unfortunately don't have the DVD's ready _before_ the release date and shipping and handling also takes time so you'd have to organize a party 2-4 weeks _after_ the release to get the stuff in time. See the [Launch party wiki page](http://en.opensuse.org/openSUSE:Launch_parties) for more information.
+Yes, we plan to get some cool stuff™ to you if you organize a party. We are working hard to have the openSUSE 12.1 DVD's ready as soon as possible and will send them, together with some flyers, posters, stickers and other goodies to the registered release parties. We unfortunately don't have the DVD's ready _before_ the release date and shipping and handling also takes time so you'd have to organize a party 2-4 weeks _after_ the release to get the stuff in time. See the [Launch party wiki page](http://en.opensuse.org/openSUSE:Launch_parties) for more information.
 
 
 ### More help

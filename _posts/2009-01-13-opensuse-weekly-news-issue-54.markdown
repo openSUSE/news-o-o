@@ -12,7 +12,7 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #54 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/54)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * Bugzilla Update to 3.2 

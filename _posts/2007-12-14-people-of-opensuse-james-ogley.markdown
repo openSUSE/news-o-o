@@ -315,7 +315,7 @@ I'd love to be a better programmer, I can get by but I could never have made a l
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 I'd feel ticked off at first but then probably enjoy the fact that no-one could hassle me and head for the pub :)
@@ -385,7 +385,7 @@ Reading and visiting local restaurants and bars.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 I'd give quite a bit of it to charities working to lift communities out of poverty in Africa.  I'd pay off our mortgage and student loans.  I'd set up a trust fund for my son.  Buy a new car and play in a European Poker Tour event.
@@ -395,7 +395,7 @@ I'd give quite a bit of it to charities working to lift communities out of pover
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 First few centuriues CE - I'd be fascinated to see things like the early Christian councils and the fall of the Roman Empire.
@@ -405,7 +405,7 @@ First few centuriues CE - I'd be fascinated to see things like the early Christi
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 I don't normally. I  keep meaning to invest in a decent UPS so I'm protected.  My main work computer though is a laptop so it's less of an issue.

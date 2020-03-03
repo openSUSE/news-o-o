@@ -18,9 +18,9 @@ The openSUSE Project is pleased to announce its second confirmed keynote for the
 
 Rabellino's keynote, "Open Development in the trenches: a decade at the Apache Software Foundation" will provide a "look behind the scenes" at the Apache Software Foundation's 10 years of open source leadership.
 
-The opening keynote will be given by Leslie Hawthorn of Google. Leslie is a program manager for Googleâ€™s Open Source Programs Office, and community manager for the Google Summer of Code. The topic of the keynote is "Mentoring for Fun and Profit," and the full description can be found on the openSUSE Conference [Web site](http://conference.opensuse.org/).
+The opening keynote will be given by Leslie Hawthorn of Google. Leslie is a program manager for Google’s Open Source Programs Office, and community manager for the Google Summer of Code. The topic of the keynote is "Mentoring for Fun and Profit," and the full description can be found on the openSUSE Conference [Web site](http://conference.opensuse.org/).
 
-The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in NÃ¼rnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
+The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
 
 The conference will have two daily tracks of pre-planned talks, plus "BarCamp" style tracks for attendees to plan and provide their own content. Scheduled talks include:
 

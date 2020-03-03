@@ -14,7 +14,7 @@ categories:
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #65 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/65)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   *  Update on iFolder

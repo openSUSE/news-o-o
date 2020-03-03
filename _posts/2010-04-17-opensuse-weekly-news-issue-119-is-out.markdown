@@ -302,7 +302,7 @@ We are pleased to announce our openSUSE Weekly News Issue 119.
       * [9.2.1 Joe Shaw: avchd to mp4/h264/aac conversion](http://en.opensuse.org/OpenSUSE_Weekly_News/119#Joe_Shaw:_avchd_to_mp4.2Fh264.2Faac_conversion)
 
 	
-      * [9.2.2 The Geek Stuff/Sasikala: Unix Bash Alias Tutorial â€“ Handle Alias Command Like Jennifer Garner](http://en.opensuse.org/OpenSUSE_Weekly_News/119#The_Geek_Stuff.2FSasikala:_Unix_Bash_Alias_Tutorial_.E2.80.93_Handle_Alias_Command_Like_Jennifer_Garner)
+      * [9.2.2 The Geek Stuff/Sasikala: Unix Bash Alias Tutorial – Handle Alias Command Like Jennifer Garner](http://en.opensuse.org/OpenSUSE_Weekly_News/119#The_Geek_Stuff.2FSasikala:_Unix_Bash_Alias_Tutorial_.E2.80.93_Handle_Alias_Command_Like_Jennifer_Garner)
 
 
 
@@ -510,13 +510,13 @@ We are pleased to announce our openSUSE Weekly News Issue 119.
 ####  [**openSUSE 11.3 Milestone 5: The Community Strikes Back**](http://news.opensuse.org/2010/04/14/opensuse-11-3-milestone-5-the-community-strikes-back/)
 
 
-"Milestone 5 (of 7), a snapshot of the Factory â€œwork in progressâ€ build, leading up to openSUSE 11.3 release in July, is now available for [download](http://software.opensuse.org/developer).  M5 was marked by significant contributions from both the openSUSE Community, and the larger Linux community. Weâ€™ve added some interesting new packages, made some updates to core processes, and participated in a coordinated multi-distribution upgrade of a major multimedia component. Over 50 bugs were fixed and 8 new features were implemented."  
+"Milestone 5 (of 7), a snapshot of the Factory “work in progress” build, leading up to openSUSE 11.3 release in July, is now available for [download](http://software.opensuse.org/developer).  M5 was marked by significant contributions from both the openSUSE Community, and the larger Linux community. We’ve added some interesting new packages, made some updates to core processes, and participated in a coordinated multi-distribution upgrade of a major multimedia component. Over 50 bugs were fixed and 8 new features were implemented."  
 
 
 ####  [**Andrew Wafaa: oSC09 videos**](http://lizards.opensuse.org/2010/04/16/osc09-videos/)
 
 
-"Well itâ€™s been almost seven months since our inaugural conference, and there were a load of videos taken. The problem was that our usual VT gurus have been unavailable to do any of the editing etc. So the raw video has languished on the servers waiting for some kind soul to help edit them.  After multiple calls for help and nudges from the marketing team, I decided to see if I could slot it in anywhere (yay me, Iâ€™m such a hero :-P ) Thankfully I had some brilliant help from SankarP who refreshed my memory on how to edit video, thanks chief! (...)" 
+"Well it’s been almost seven months since our inaugural conference, and there were a load of videos taken. The problem was that our usual VT gurus have been unavailable to do any of the editing etc. So the raw video has languished on the servers waiting for some kind soul to help edit them.  After multiple calls for help and nudges from the marketing team, I decided to see if I could slot it in anywhere (yay me, I’m such a hero :-P ) Thankfully I had some brilliant help from SankarP who refreshed my memory on how to edit video, thanks chief! (...)" 
 </td>
 </tr>
 </tbody>
@@ -593,7 +593,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 581 (+11) 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) â€“ [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) – [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) – [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
 
 
 
@@ -900,7 +900,7 @@ The Build Service now hosts 12194 (+169) projects, 92458 (+475) packages, 21587 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -1006,7 +1006,7 @@ Upcoming:
   * [** April 24, 2010: Linuxwochen (Linuxtage Graz), Austria**](http://www.linuxtage.at/)
 
 	
-  * [** April 24, 2010: Festival Latinoamericano de InstalaciÃ³n de Software Libre (FLISoL) **](http://flisol.net/)
+  * [** April 24, 2010: Festival Latinoamericano de Instalación de Software Libre (FLISoL) **](http://flisol.net/)
 
 	
   * [** April 24-25, 2010: LinuxFest Northwest 2010**](http://linuxfestnorthwest.org/)
@@ -1023,7 +1023,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 	
-  * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/Ambassador/Events)
+  * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/Ambassador/Events)
 
 
 
@@ -1138,13 +1138,13 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 ####  [OBS: New Package for openSUSE: assuma (Association Subscribers Manager)](http://saigkill.wordpress.com/2010/04/11/new-package-for-opensuse-assuma-association-subscribers-manager/)
 
 
-"Iâ€™m pleased to announce the Version 3.2.0 of assuma. As known, you can install it through the openSUSE:Factory:Contrib and the KDE:KDE4:Community Repositories.  Association Subscribers Manager is a Software for Clubs and Associatons. You can administrate your Members and all you need. The Projectsite is: [http://www.associationsubscribersmanager.org/](http://www.associationsubscribersmanager.org/) . The OpenDesktop Site is: [http://opendesktop.org/content/show.php?content=109313](http://opendesktop.org/content/show.php?content=109313) Have a lot of fun :-)"  
+"I’m pleased to announce the Version 3.2.0 of assuma. As known, you can install it through the openSUSE:Factory:Contrib and the KDE:KDE4:Community Repositories.  Association Subscribers Manager is a Software for Clubs and Associatons. You can administrate your Members and all you need. The Projectsite is: [http://www.associationsubscribersmanager.org/](http://www.associationsubscribersmanager.org/) . The OpenDesktop Site is: [http://opendesktop.org/content/show.php?content=109313](http://opendesktop.org/content/show.php?content=109313) Have a lot of fun :-)"  
 
 
 ####  [OBS: new openSUSE Package: bleachbit 0.7.4](http://saigkill.wordpress.com/2010/04/16/new-opensuse-package-bleachbit-0-7-4/)
 
 
-"We are pleased to announce the new openSUSE Package bleachbit 0.7.4. Whatâ€™s new? The following changes have been made since 0.7.3: (...)"  
+"We are pleased to announce the new openSUSE Package bleachbit 0.7.4. What’s new? The following changes have been made since 0.7.3: (...)"  
 
 
 ####  [KDE-Apps: KDropbox 0.1.0](http://kde-apps.org/content/show.php/Kdropbox?content=123269)
@@ -1162,7 +1162,7 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
   * You can find other interesting Packages at: 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1384,13 +1384,13 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 ####  [Stefan Seyfried: Rearranging Accounts in Claws-Mail](http://seife.kernalert.de/blog/2010/04/11/rearranging-accounts-in-claws-mail/)
 
 
-"I recently added a new account to my Claws-Mail configuration. That account will soon become one of my main accounts, so I was not happy about it being shown on the bottom of the folder list, below all my less important accounts.  Using the GUI, I could not find a way to move it around. I already thought about manually changing the configuration, editing all the references for all accounts.  Fortunately, when looking around the ~/.claws-mail directory that contains everything, I found folderlist.xml which is an easy to understand (and edit) XML file that describes how the folders are displayed. I did no fancy stuff, just moved the <folder type=â€imapâ€â€¦> â€¦ </folder> block, that corresponds to the new account up to the first place and voilÃ¡ â€” it works.  BTW: Claws-Mail is still my favourite email client after using it for over a year - that clearly is a new record ;)"  
+"I recently added a new account to my Claws-Mail configuration. That account will soon become one of my main accounts, so I was not happy about it being shown on the bottom of the folder list, below all my less important accounts.  Using the GUI, I could not find a way to move it around. I already thought about manually changing the configuration, editing all the references for all accounts.  Fortunately, when looking around the ~/.claws-mail directory that contains everything, I found folderlist.xml which is an easy to understand (and edit) XML file that describes how the folders are displayed. I did no fancy stuff, just moved the <folder type=”imap”…> … </folder> block, that corresponds to the new account up to the first place and voilá — it works.  BTW: Claws-Mail is still my favourite email client after using it for over a year - that clearly is a new record ;)"  
 
 
 ####  [Free Software Magazine/Daniel Escasa: New-line search & replace in OpenOffice.org Writer -- the lazy way](http://www.freesoftwaremagazine.com/columns/new_line_search_replace_openoffice_org_writer_lazy_way)
 
 
-"Iâ€™ve been editing the Philippine Star Trek fansâ€™ section of the New Worlds Alliance site for a few months now, and the contributors have been submitting their articles embedded in the email message. I actually prefer that to an attached file, because I can read the article right away, without having to open another application. When Iâ€™m ready to edit, I ask GMail to create a Google document out of it. Trouble is, the resulting file has hard new-line characters after every line, and a double new-line between paragraphs. I could cursor to the end of each line, delete it, and type in a space, but my inner sloth told me there had to be a better way."  
+"I’ve been editing the Philippine Star Trek fans’ section of the New Worlds Alliance site for a few months now, and the contributors have been submitting their articles embedded in the email message. I actually prefer that to an attached file, because I can read the article right away, without having to open another application. When I’m ready to edit, I ask GMail to create a Google document out of it. Trouble is, the resulting file has hard new-line characters after every line, and a double new-line between paragraphs. I could cursor to the end of each line, delete it, and type in a space, but my inner sloth told me there had to be a better way."  
 
 
 ###  For Commandline/Script Newbies
@@ -1402,10 +1402,10 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 ####  [Joe Shaw: avchd to mp4/h264/aac conversion](http://joeshaw.org/2010/04/10/655)
 
 
-"I have a Canon HF200 HD video camera, which records to AVCHD format. AVCHD is H.264 encoded video and AC-3 encoded audio in a MPEG-2 Transport Stream (m2ts, mts) container. This format is not supported by Aperture 3, which I use to store my video.  With Blizzardâ€™s help, I figured out an ffmpeg command-line to convert to H.264 encoded video and AAC encoded audio in an MPEG-4 (mp4) container. This is supported by Aperture 3 and other Quicktime apps. (...)"  
+"I have a Canon HF200 HD video camera, which records to AVCHD format. AVCHD is H.264 encoded video and AC-3 encoded audio in a MPEG-2 Transport Stream (m2ts, mts) container. This format is not supported by Aperture 3, which I use to store my video.  With Blizzard’s help, I figured out an ffmpeg command-line to convert to H.264 encoded video and AAC encoded audio in an MPEG-4 (mp4) container. This is supported by Aperture 3 and other Quicktime apps. (...)"  
 
 
-####  [The Geek Stuff/Sasikala: Unix Bash Alias Tutorial â€“ Handle Alias Command Like Jennifer Garner](http://www.thegeekstuff.com/2010/04/unix-bash-alias-examples/)
+####  [The Geek Stuff/Sasikala: Unix Bash Alias Tutorial – Handle Alias Command Like Jennifer Garner](http://www.thegeekstuff.com/2010/04/unix-bash-alias-examples/)
 
 
 "While most of us cannot kick someone ass like Jennifer Garner in Alias, we can at least try to use the Linux alias command effectively.  An alias command is simple string substitution of one text for another, when it is used as the first word of a simple command.  In this article let us review how to set / unset bash aliases permanently and temporarily. Let us also review some useful bash alias examples that you can use in your bash startup files."  
@@ -1432,13 +1432,13 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 ####  [Ghacks.net/Jack Wallen: Luckybackup: Linux backup made easy](http://www.ghacks.net/2010/04/13/luckybackup-linux-backup-made-easy/)
 
 
-"There are a lot of backup tools out there. From the overly simple to the overly complex. Many of those backup tools go unnoticed and unused. Some of them get recognized as the outstanding projects they are. One of those tools is Luckybackup. This tool was awarded Sourceforgeâ€™s best new project of 2009. There is a reason for that. Luckybackup is a simple to use backup tool that can backup both to a local machine and to a remote machine â€“ with a user-friendly gui and all the features you would expect in a backup tool."  Lackybackup packages for openSUSE are available via [1-Click install](http://software.opensuse.org/search?p=1&baseproject=ALL&q=luckyBackup).  
+"There are a lot of backup tools out there. From the overly simple to the overly complex. Many of those backup tools go unnoticed and unused. Some of them get recognized as the outstanding projects they are. One of those tools is Luckybackup. This tool was awarded Sourceforge’s best new project of 2009. There is a reason for that. Luckybackup is a simple to use backup tool that can backup both to a local machine and to a remote machine – with a user-friendly gui and all the features you would expect in a backup tool."  Lackybackup packages for openSUSE are available via [1-Click install](http://software.opensuse.org/search?p=1&baseproject=ALL&q=luckyBackup).  
 
 
 ####  [MakeTechEasier/Joshua Price: Choosing The Best Linux Filesystem For Your PC](http://maketecheasier.com/choosing-the-best-linux-filesystem/2010/04/13)
 
 
-"If youâ€™re a Linux user, youâ€™ve likely been asked at some point if you want Ext3, Ext4, XFS, ReiserFS, Btrfs, or one of many other filesystem acronyms. This choice confuses new and old users alike, and like all software, the options change as technology improves. Many people probably donâ€™t care what filesystem they use as long as itâ€™s stable and reasonably fast, but how do you know which one that is? This guide will attempt to cover the basic differences between the most common options, and provide the pros and cons of each choice."  
+"If you’re a Linux user, you’ve likely been asked at some point if you want Ext3, Ext4, XFS, ReiserFS, Btrfs, or one of many other filesystem acronyms. This choice confuses new and old users alike, and like all software, the options change as technology improves. Many people probably don’t care what filesystem they use as long as it’s stable and reasonably fast, but how do you know which one that is? This guide will attempt to cover the basic differences between the most common options, and provide the pros and cons of each choice."  
 
 
 ####  [Linux.com/Joe Brockmeier: Ncat: The Network Swiss Army Knife](http://www.linux.com/learn/tutorials/299815-ncat-the-network-swiss-army-knife-)
@@ -1483,13 +1483,13 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 ####  [Mike McCallister: Reminder: Speaking to Milwaukee PHP User Group](http://metaverse.wordpress.com/2010/04/11/reminder-speaking-to-milwaukee-php-user-group/)
 
 
-"If you happen to be in or near Milwaukee Tuesday, come see me at the MKE PHP User Group meeting. Hereâ€™s a news release I whipped up:  WordPress is a powerful tool for self-expression, political intervention and business marketing. One of the more powerful things about it is the design that allows anyone to contribute add-in code to make WordPress more useful. In the WordPress community, â€œthereâ€™s a plugin for thatâ€ is as common a phrase as â€œthereâ€™s an app for thatâ€ in the iPhone world.  On Tuesday, April 13 Michael McCallister, the West Allis-based co-author of WordPress in Depth (2010: Que), will appear at the Milwaukee PHP Users Group (MKE PUG) to discuss WordPress plugins: What they are and what they look like under the hood. Admission is free.  The session will feature a brief review of the code behind a simple WordPress plugin, FollowMe. This popular plugin, written in PHP, places a small banner on a WordPress page that allows visitors to connect with the page author on Twitter."  
+"If you happen to be in or near Milwaukee Tuesday, come see me at the MKE PHP User Group meeting. Here’s a news release I whipped up:  WordPress is a powerful tool for self-expression, political intervention and business marketing. One of the more powerful things about it is the design that allows anyone to contribute add-in code to make WordPress more useful. In the WordPress community, “there’s a plugin for that” is as common a phrase as “there’s an app for that” in the iPhone world.  On Tuesday, April 13 Michael McCallister, the West Allis-based co-author of WordPress in Depth (2010: Que), will appear at the Milwaukee PHP Users Group (MKE PUG) to discuss WordPress plugins: What they are and what they look like under the hood. Admission is free.  The session will feature a brief review of the code behind a simple WordPress plugin, FollowMe. This popular plugin, written in PHP, places a small banner on a WordPress page that allows visitors to connect with the page author on Twitter."  
 
 
 ####  [Frank Karlitschek (karli): ownCloud status](http://blog.karlitschek.de/2010/04/owncloud-status.html)
 
 
-"I want to give you an overview about the stuff thats happening in ownCloud world. I released the beta 1 one month ago on gitorious and IÂ´m thrilled by the positive response in the mean time." 
+"I want to give you an overview about the stuff thats happening in ownCloud world. I released the beta 1 one month ago on gitorious and I´m thrilled by the positive response in the mean time." 
 </td>
 </tr>
 </tbody>
@@ -1605,7 +1605,7 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 ####  [GNOME 3.0 cleanup: Call to module developers](http://blogs.gnome.org/aklapper/2010/04/13/gnome-3-0-cleanup-call/)
 
 
-"I was recently asked (Czech link) â€œOn a scale from 0 to 10 for GNOME 3 as planned to be where would the development be now?â€ My answer was â€œFrom my limited point of view currently a 7: Lots of work done, lots of work still to do.â€ And I started wondering: How much work is left in the cleanup area?  Now that 2.30 is out module developers must spend some time now to get their module(s) ready for GNOME 3.0."  
+"I was recently asked (Czech link) “On a scale from 0 to 10 for GNOME 3 as planned to be where would the development be now?” My answer was “From my limited point of view currently a 7: Lots of work done, lots of work still to do.” And I started wondering: How much work is left in the cleanup area?  Now that 2.30 is out module developers must spend some time now to get their module(s) ready for GNOME 3.0."  
 
 
 ###  Reports
@@ -1617,7 +1617,7 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 ####  [Security Blanket Technical Blog: File Systems](http://tcs-security-blanket.blogspot.com/2010/04/linux-file-systems.html)
 
 
-"LINUX FILE SYSTEMS are an essential operating system resource. Modern file systems and disk drive technology are robust and reliable â€” so, most administrators put little effort into planning or worrying about them once the operating system is configured. This makes me both smile and cringe.  I smile because the advancements in technology facilitate out-of-the-box reliability and performance for common installations regardless of the system administratorâ€™s skills. The implementation allows applications which utilize them to be reliable and require little day-to-day maintenance."  
+"LINUX FILE SYSTEMS are an essential operating system resource. Modern file systems and disk drive technology are robust and reliable — so, most administrators put little effort into planning or worrying about them once the operating system is configured. This makes me both smile and cringe.  I smile because the advancements in technology facilitate out-of-the-box reliability and performance for common installations regardless of the system administrator’s skills. The implementation allows applications which utilize them to be reliable and require little day-to-day maintenance."  
 
 
 ####  [CNET News/Dave Rosenberg: Linux: Strong and getting stronger](http://news.cnet.com/8301-13846_3-20002478-62.html)
@@ -1743,10 +1743,10 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [saigkill](http://en.opensuse.org/User:saigkill) [Talk](http://en.opensuse.org/User_talk:saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 	
-  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter) 
+  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter) 
 
 	
-  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 	
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/User_talk:HeliosReds) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1755,7 +1755,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/User_talk:Caf4926) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 	
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 	
   * add translators 
@@ -1793,7 +1793,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 
 
 
-[English](http://en.opensuse.org/OpenSUSE_Weekly_News/119) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/119) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/119) [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/119) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/119) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/119) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/119) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/119/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/119) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/119) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/119/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/119) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/119) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/119/swedish) [ÄeÅ¡tina](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/119)
+[English](http://en.opensuse.org/OpenSUSE_Weekly_News/119) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/119) [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/119) [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/119) [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/119) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/119) [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/119) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/119/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/119) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/119) [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/119/chinese) [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/119) [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/119) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/119/swedish) [Íeština](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/119)
 </td>
 </tr>
 </tbody>

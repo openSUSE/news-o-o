@@ -5,7 +5,7 @@ date: 2011-09-06 08:03:52+00:00
 layout: post
 link: https://news.opensuse.org/2011/09/06/obs-downtime-scheduled-for-tuesday-2011-09-06-0800-1000-cet/
 slug: obs-downtime-scheduled-for-tuesday-2011-09-06-0800-1000-cet
-title: OBS downtime scheduled for Tuesday 2011-09-06 08:00 â€“ 11:00 CEST
+title: OBS downtime scheduled for Tuesday 2011-09-06 08:00 – 11:00 CEST
 wordpress_id: 10953
 categories:
 - Infrastructure

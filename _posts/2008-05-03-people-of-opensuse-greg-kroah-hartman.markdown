@@ -320,7 +320,7 @@ A better electrical engineering background would be nice to have at times. I can
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Great! I could finally catch up on my huge backlog of email and get some coding done.
@@ -360,7 +360,7 @@ With family, away from the computer.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Invest it in a tool to keep foolish questions that will never happen from showing up on interviews :)
@@ -370,7 +370,7 @@ Invest it in a tool to keep foolish questions that will never happen from showin
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Yesterday.
@@ -380,7 +380,7 @@ Yesterday.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No, why? Growing up in the lightening capital of the country, makes little things like thunderstorms a non-event.

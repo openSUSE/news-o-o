@@ -36,7 +36,7 @@ There are many visual changes throughout this release, and they are also well-pr
 This release, as always, will have a full, new collection of artwork, and for openSUSE 10.3 it has gone back to the classical and much-loved green theme. It is all finished off with a polished and professional look:
  
 
-[![103_cdboot.png](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot.png) [![103bootsplash_thumb.png](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash.png) [![suse103-1600Ã—1200.jpg](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200.jpg)
+[![103_cdboot.png](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot.png) [![103bootsplash_thumb.png](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash.png) [![suse103-1600×1200.jpg](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200.jpg)
 
 
 To see more openSUSE 10.3 artwork, see its respective [branding overview](http://en.opensuse.org/Branding_Overview:os10.3).

@@ -43,7 +43,7 @@ As we explained in the [earlier announcement](http://news.opensuse.org/?p=17293)
   * Ish Sookun [profile](https://connect.opensuse.org/pg/profile/ishwon) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00036.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_ishwon)
 
 	
-  * JÃ¶rg "johest" Stephan - [profile](https://connect.opensuse.org/pg/profile/johest) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00017.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_johest)
+  * Jörg "johest" Stephan - [profile](https://connect.opensuse.org/pg/profile/johest) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00017.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_johest)
 
 	
   * Andrew Wafaa - [profile](https://connect.opensuse.org/pg/profile/funkypenguin) [announcement](http://lists.opensuse.org/opensuse-project/2013-11/msg00010.html) [Platform](https://en.opensuse.org/openSUSE:Board_election_2013_platform_funkypenguin)

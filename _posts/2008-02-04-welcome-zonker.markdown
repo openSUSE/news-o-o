@@ -31,6 +31,6 @@ Zonker will be travelling the next weeks and you can meet him and other openSUSE
 
 For those that wonder what happened with the "openSUSE Chief evangelist" position that was opened in October: this is exactly the position, we just found it more suitable to change the title of Joe.
 
-I have talked a lot with Zonker through the last weeks and look forward to working with him - and look forward meeting him soon in person here in NÃ¼rnberg!
+I have talked a lot with Zonker through the last weeks and look forward to working with him - and look forward meeting him soon in person here in Nürnberg!
 
 Andreas

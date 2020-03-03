@@ -70,4 +70,4 @@ You can reach the board directly via email [board@opensuse.org](mailto:board@ope
 
 I'm glad to announce this board and thank the members for taking on this duty.  I wish the board and the community all the best for a constructive collaboration in making openSUSE even better.
 
-Michael LÃ¶ffler
+Michael Löffler

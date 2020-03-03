@@ -12,7 +12,7 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #42 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/42)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * Power Outage of most openSUSE servers

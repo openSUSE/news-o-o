@@ -6,13 +6,13 @@ layout: post
 link: https://news.opensuse.org/2010/03/31/opensuse-kde-team-meeting-thursday-1-march-1700-utc/
 published: false
 slug: opensuse-kde-team-meeting-thursday-1-march-1700-utc
-title: openSUSE KDE Team Meeting â€“ Thursday 1 March, 17:00 UTC
+title: openSUSE KDE Team Meeting – Thursday 1 March, 17:00 UTC
 wordpress_id: 3109
 ---
 
 ***** Europe is on summer time now!  That means the meeting is an hour later than normal for Europeans. The following meeting, 15 April, will be at 1600UTC/1800CEST *****
 
-The next openSUSE KDE Team Meeting will take place tomorrow,Â 2010-04-01 Time: 1700 UTC
+The next openSUSE KDE Team Meeting will take place tomorrow, 2010-04-01 Time: 1700 UTC
 
 The date and time in your timezone: http://www.timeanddate.com/worldclock/fixedtime.html?day=1&month=4&year=2010&hour=17&min=0&sec=0&p1=0|
 

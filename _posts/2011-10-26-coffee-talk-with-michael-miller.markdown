@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-Friday 16.09, while working on the [openSUSE 12.1](http://en.opensuse.org/Portal:12.1) marketing actions during the [Marketing Hackfest](http://en.opensuse.org/openSUSE:12.1_Marketing_Hackfest), two of us had the spontaneous idea to suggest an interview to Michael Miller([Vice President of Global Alliances & Marketing for SUSE](http://www.suse.com/company/executive-management/)), asking him a few questions we could have in the openSUSE community. We did not have the time to go around, to find the FAQ or to choose the â€œbest questionsâ€. It was kind of â€œshall we do that, around a cup of coffee ? Why not ?â€. And Michael Miller accepted our proposition, without any objection or any â€œjoker's needâ€.
+Friday 16.09, while working on the [openSUSE 12.1](http://en.opensuse.org/Portal:12.1) marketing actions during the [Marketing Hackfest](http://en.opensuse.org/openSUSE:12.1_Marketing_Hackfest), two of us had the spontaneous idea to suggest an interview to Michael Miller([Vice President of Global Alliances & Marketing for SUSE](http://www.suse.com/company/executive-management/)), asking him a few questions we could have in the openSUSE community. We did not have the time to go around, to find the FAQ or to choose the “best questions”. It was kind of “shall we do that, around a cup of coffee ? Why not ?”. And Michael Miller accepted our proposition, without any objection or any “joker's need”.
 
 
 **<!-- more -->We thank him for his open mind, flexibility and simplicity,
@@ -28,19 +28,19 @@ I started looking for the things I wanted to install, and I liked the repositori
 
 **2. **How did you "find" openSUSE conference?
 
-**MM:** That was a lot of fun! I had no idea what to expect at all. And what I liked the most when I got there was that thoughÂ  people didn't know me, everybody was really happy to see someone walkingÂ  in. It was very friendly : â€œOh another person coming !â€ Very welcoming, very open. Then I walked around and I looked in at some of the sessions and I noticed that people really seemed to pay attention, to focusÂ  and the quality of the content and of the presenters was very good.
+**MM:** That was a lot of fun! I had no idea what to expect at all. And what I liked the most when I got there was that though  people didn't know me, everybody was really happy to see someone walking  in. It was very friendly : “Oh another person coming !” Very welcoming, very open. Then I walked around and I looked in at some of the sessions and I noticed that people really seemed to pay attention, to focus  and the quality of the content and of the presenters was very good.
 
 I guess the quality of the ppl, of the contents, of the conversations was very high.
 
 And at the same time it was very casual and fun. So, an interesting combination of really high quality content, some technical content but also organizational, about ambassadors, how to bring more contributors in the project ...
 
-**PS F.W.:** could you please tell us a â€œnegativeâ€ point ;-))?
+**PS F.W.:** could you please tell us a “negative” point ;-))?
 
-**MM: **Oh â€¦ I have a story yes. When I wanted to go there, I wrote down the street address and showed it to the taxi driver and he didn't know where it was. Finding the conference place was very difficult. Then I saw some green through a window and I said: let's go there !
+**MM: **Oh … I have a story yes. When I wanted to go there, I wrote down the street address and showed it to the taxi driver and he didn't know where it was. Finding the conference place was very difficult. Then I saw some green through a window and I said: let's go there !
 
 **PS K.K:** would you advise corporate people to visit openSUSE conference, to go to such events?
 
-**MM: **Yeah, and I would advise different people in a corporate environment, to go to different types of events like openSUSE conference. Not just people looking for technical contents but I would also adviseÂ  enterprises who want to run her business better and want to contribute to open source. Becoming a new contributor is a bit scary. But when you go to such conference as openSUSE, there is no intimidation. It's so friendly that it's a really good way for peopleÂ  to join the community.
+**MM: **Yeah, and I would advise different people in a corporate environment, to go to different types of events like openSUSE conference. Not just people looking for technical contents but I would also advise  enterprises who want to run her business better and want to contribute to open source. Becoming a new contributor is a bit scary. But when you go to such conference as openSUSE, there is no intimidation. It's so friendly that it's a really good way for people  to join the community.
 
 **3. **[Attachmate](http://www.attachmate.com/) is hiring people from various projects, like Cornelius S. or Greg K.H.to help openSUSE community. Why are you doing that? What are the benefits for the [SUSE](http://www.suse.com/) business?
 
@@ -63,9 +63,9 @@ That's the magic of this whole model of open-source software. The responsiveness
 
 **4.**What are SUSE expectations from the openSUSE community?
 
-**MM:** I think my expectation is that there is always an openness, to accept contributors from inside the company :Â  welcomingÂ  SUSE as a part of the community. As long as this is a truly, respectable, collaborative, free exchange of innovation, that the community will supports us as well, it's great. It really has to be mutual.Â  I hope too, that SUSE employees are not only engaged as a â€œcorporate guy,â€ but also as a person with interests, talents and just someone that gets excited about things they can contribute.
+**MM:** I think my expectation is that there is always an openness, to accept contributors from inside the company :  welcoming  SUSE as a part of the community. As long as this is a truly, respectable, collaborative, free exchange of innovation, that the community will supports us as well, it's great. It really has to be mutual.  I hope too, that SUSE employees are not only engaged as a “corporate guy,” but also as a person with interests, talents and just someone that gets excited about things they can contribute.
 
-The SUSE business and the openSUSE community, we won't have always the same priorities, so another expectation would be to all agree that is OK : â€œwe don't need to all go to the same place at the same time. We can support each other, and that makes it mutual.â€
+The SUSE business and the openSUSE community, we won't have always the same priorities, so another expectation would be to all agree that is OK : “we don't need to all go to the same place at the same time. We can support each other, and that makes it mutual.”
 
 **5.**According to you, what are the main differences between SUSE and openSUSE? And how can we get over them to collaborate efficiently?
 
@@ -74,28 +74,28 @@ openSUSE is UNIQUE, the community and how it works is unique. In the SUSE busine
 
 That is very different from the openSUSE community, where you have the freedom to work from your passion, and take it as far as you want to take it.
 
-What's great is that people who work in a corporate environment can still follow their passion in the community: if you spend your day doing what the market and customers demandÂ  then it's even more exciting to be part of the community, because it's different. It's a contrast. All day, you did one thing but int the community you get to pursue something else if you like..
+What's great is that people who work in a corporate environment can still follow their passion in the community: if you spend your day doing what the market and customers demand  then it's even more exciting to be part of the community, because it's different. It's a contrast. All day, you did one thing but int the community you get to pursue something else if you like..
 
 It's kind like you wear some suit all day, and when you go home at the end of the day, you take that suit off, put on your short, sandal and t-shirt, and feel really good.
 
 **6.** What were your first impressions on openSUSE community? how do you see us and what do you think our priorities should be the next months?
 **
-MM:** So, myÂ  first impression was formed even before the acquisition of Novell, mostlyÂ  on IRC and in the forms. And as I said, I was a bit intimidatedÂ  at first: â€œoh I'm an Attachmate guy, and if I go out there, I'm gonna be unwelcome, you know.â€ And I was very surprised that didn't happen. So the first impression was like WAOUH ! Then people asked me a lot of questions like â€œcan you help us bring more people from attachmate into the community? Can we come to Attachmate and do some presentations to your engineers ? Would you be interested in having openSUSE CDs to give out to your friends at Attachmate ?â€ I expected people that push me away, and instead of that, they sent me a box with t-shirts, CD and geekos. So it was the opposite from what I expected. It was great!
+MM:** So, my  first impression was formed even before the acquisition of Novell, mostly  on IRC and in the forms. And as I said, I was a bit intimidated  at first: “oh I'm an Attachmate guy, and if I go out there, I'm gonna be unwelcome, you know.” And I was very surprised that didn't happen. So the first impression was like WAOUH ! Then people asked me a lot of questions like “can you help us bring more people from attachmate into the community? Can we come to Attachmate and do some presentations to your engineers ? Would you be interested in having openSUSE CDs to give out to your friends at Attachmate ?” I expected people that push me away, and instead of that, they sent me a box with t-shirts, CD and geekos. So it was the opposite from what I expected. It was great!
 
-Now, I see the openSUSE community as more fun, people who are passionate and having fun. I think my impression before was that it was more serious. Now it's just a lot of people having fun together.Â  I've also learned there is a need for more people to contribute. Everywhere you look, there's so many ideas and things we can do. I didn't realized, I thought everything was covered and OK. And then I realized :
+Now, I see the openSUSE community as more fun, people who are passionate and having fun. I think my impression before was that it was more serious. Now it's just a lot of people having fun together.  I've also learned there is a need for more people to contribute. Everywhere you look, there's so many ideas and things we can do. I didn't realized, I thought everything was covered and OK. And then I realized :
 
 **PS: You wanna help? We have a big to-do list ;-))**
 
-**[![](/wp-content/uploads/2011/10/interview-MM-8.jpg)](http://news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-8/)MM:** I think in the next months, really near term, we have to get out the 12.1 version, and yes promote it like it deserves because it's a really attractive and amazing one. My personal opinion is that we should make sure that we can build on top of that version, like using 12.1 as strong base and signal for new areas. So we talk about openSUSE as a distribution calledÂ  12.1, but it is also as a whole project with more than just a distribution. We can grow upon that - marketing our community and tools around the distribution, and by doing so get all that much bigger and more diverse by attracting more contributors.
+**[![](/wp-content/uploads/2011/10/interview-MM-8.jpg)](http://news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-8/)MM:** I think in the next months, really near term, we have to get out the 12.1 version, and yes promote it like it deserves because it's a really attractive and amazing one. My personal opinion is that we should make sure that we can build on top of that version, like using 12.1 as strong base and signal for new areas. So we talk about openSUSE as a distribution called  12.1, but it is also as a whole project with more than just a distribution. We can grow upon that - marketing our community and tools around the distribution, and by doing so get all that much bigger and more diverse by attracting more contributors.
 
 **7.** What would you like to say in this article and to the openSUSE community?
 
-**MM: **I guess the first or the main thing I want to say isÂ  thank you for being so welcoming. I feel like I'm part of the community. So thank you and if I could give to everybody a virtual hug, I would do that.
+**MM: **I guess the first or the main thing I want to say is  thank you for being so welcoming. I feel like I'm part of the community. So thank you and if I could give to everybody a virtual hug, I would do that.
 
 Michael Miller, we thank you a lot for this interview. And could we fix a rendez-vous for next year conference, to evaluate what we've done together?
 
 **M :** oh yeah, that would be really interesting, that would be great! Thank you ;))
 
 
-**Kostas Koudaras and FranÃ§oise Wybrecht
+**Kostas Koudaras and Françoise Wybrecht
 and thanks to Stella Rouzi and Bruno Friedmann for their help**

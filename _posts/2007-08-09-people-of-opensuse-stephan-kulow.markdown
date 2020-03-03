@@ -116,7 +116,7 @@ Read on to see which answers he provides.
 #### Please introduce yourself!
 
 
-I was born 1976 in Wismar, a very nice city at the baltic sea - roughly in the middle between Rostock and LÃ¼beck. I went to a boarding school in Rostock for 4 years and after my military service at the beach of the baltic sea I went to study Medical Computer Science in LÃ¼beck. There I met the cutest girl of the world, adopted two parrots, moved with her to Erlangen, then later to FÃ¼rth and she agreed to marry me in 2005. Right now we're waiting for our boy to arrive - which is planned to arrive at the same day 10.3 Beta1 is (not my plan).
+I was born 1976 in Wismar, a very nice city at the baltic sea - roughly in the middle between Rostock and Lübeck. I went to a boarding school in Rostock for 4 years and after my military service at the beach of the baltic sea I went to study Medical Computer Science in Lübeck. There I met the cutest girl of the world, adopted two parrots, moved with her to Erlangen, then later to Fürth and she agreed to marry me in 2005. Right now we're waiting for our boy to arrive - which is planned to arrive at the same day 10.3 Beta1 is (not my plan).
 
 
 
@@ -237,7 +237,7 @@ That very much depends on the person asking. For most people I know it's enough 
 #### Which members of the openSUSE community have you met in person?
 
 
-Beside Benjamin and Francis being in NÃ¼rnberg I don't think I have met community members not working at Novell.
+Beside Benjamin and Francis being in Nürnberg I don't think I have met community members not working at Novell.
 
 
 
@@ -304,7 +304,7 @@ The ability to beat my wife in klines scores? Is that computer related? I don't 
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 The week before release? I would feel horrible - about every other week: I would follow the TV news more closely.
@@ -374,7 +374,7 @@ My preferred way is 100% family. One week with my niece refresh me better than 2
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 You don't want my investment ideas. But a nice house for me and my family would be the first on my list with free monday.
@@ -384,7 +384,7 @@ You don't want my investment ideas. But a nice house for me and my family would 
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 Not too far away. I want to see the Zwinger of Dresden in its full beauty before the industry fog made it all black. If you've seen the Dresden Frauenkirche you know what beauty I'm talking about. I would target a nice september night in 1900.
@@ -394,7 +394,7 @@ Not too far away. I want to see the Zwinger of Dresden in its full beauty before
 
 
 
-#### There's a thunderstorm outside â€“ do you turn off your computer?
+#### There's a thunderstorm outside – do you turn off your computer?
 
 
 So it isn't afraid? My computer isn't easy to scare, so no.

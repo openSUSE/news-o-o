@@ -543,7 +543,7 @@ The numbers for all openSUSE project products are this week:
 ####  [Will Stephenson: openSUSE Boosters at FrOSCon, Day 1](http://lizards.opensuse.org/2010/08/21/opensuse-boosters-at-froscon-day-1/)
 
 
-"After long drives from Nuernberg, Prague and Darmstadt hitting every traffic jam on the A3 (the Czechs won the race), the openSUSE Boosters met up in the little rhenish town of Sankt Augustin near Bonn to attend FrOSCon. Last night we reacquainted ourselves with each other and the odd glass of KÃ¶lsch or two over steak and chips. Suitably fortified, we are now occupied our project room upstairs at FrOSCon (room C125) and are now hacking like crazy on our team project, a new site for openSUSE users and contributors. This is based on the Elgg free software social networking platform, so weâ€™re dusting off our PHP and looking at all the integration points with the rest of the openSUSE platform: the Build Service, Bugzilla, the wiki, Lizards, and so on. So if youâ€™re more of a web monkey than a distro gibbon and would like to help, drop by tomorrow or just get in touch with the ï»¿ï»¿ï»¿ï»¿ï»¿ï»¿[http://en.opensuse.org/openSUSE:Boosters_team](http://en.opensuse.org/openSUSE:Boosters_team)." 
+"After long drives from Nuernberg, Prague and Darmstadt hitting every traffic jam on the A3 (the Czechs won the race), the openSUSE Boosters met up in the little rhenish town of Sankt Augustin near Bonn to attend FrOSCon. Last night we reacquainted ourselves with each other and the odd glass of Kölsch or two over steak and chips. Suitably fortified, we are now occupied our project room upstairs at FrOSCon (room C125) and are now hacking like crazy on our team project, a new site for openSUSE users and contributors. This is based on the Elgg free software social networking platform, so we’re dusting off our PHP and looking at all the integration points with the rest of the openSUSE platform: the Build Service, Bugzilla, the wiki, Lizards, and so on. So if you’re more of a web monkey than a distro gibbon and would like to help, drop by tomorrow or just get in touch with the ﻿﻿﻿﻿﻿﻿[http://en.opensuse.org/openSUSE:Boosters_team](http://en.opensuse.org/openSUSE:Boosters_team)." 
 </td>
 </tr>
 </tbody>
@@ -635,10 +635,10 @@ The numbers for all openSUSE project products are this week:
 ####  [KDE at openSUSE: KDE: Week 26-32](http://kdeatopensuse.wordpress.com/2010/08/15/kde-week-26-32/)
 
 
-"Itâ€™s been a while without post, simply because I did not have any issues with my openSUSE or KDE that I could have written about. Meanwhile enough small things have accumulated.  The openSUSE and thus KDE update from 11.2 with KDE from the KDE:Factory repo to 11.3 and its stock KDE packages went smoothly via zypper dup.  The most annoying issues are that the not threadsafe dbus makes dolphin crash and thus look bad. Akonadi is crashing on logout sometimes, yet I could not get a backtrace yet because drkonqi is shut down while collecting it. And using desktop effects locks-up my Intel driven netbook from time to time because of buggy drivers/Xorg/Kernel (three more bugs: 1 â€“ 2 â€“ 3), i.e. not KDE. I wonder how often KDE gets blamed for bugs that are actually due to e.g. buggy graphics drivers or packages not part of KDE."  
+"It’s been a while without post, simply because I did not have any issues with my openSUSE or KDE that I could have written about. Meanwhile enough small things have accumulated.  The openSUSE and thus KDE update from 11.2 with KDE from the KDE:Factory repo to 11.3 and its stock KDE packages went smoothly via zypper dup.  The most annoying issues are that the not threadsafe dbus makes dolphin crash and thus look bad. Akonadi is crashing on logout sometimes, yet I could not get a backtrace yet because drkonqi is shut down while collecting it. And using desktop effects locks-up my Intel driven netbook from time to time because of buggy drivers/Xorg/Kernel (three more bugs: 1 – 2 – 3), i.e. not KDE. I wonder how often KDE gets blamed for bugs that are actually due to e.g. buggy graphics drivers or packages not part of KDE."  
 
 
-####  [Raymond Wooninck: Still alive and kicking !! New snapshots and reorganization for openSUSEâ€™s KDE4:Unstable repository](http://tittiatcoke.wordpress.com/2010/08/15/still-alive-and-kicking-new-snapshots-and-reorganization-for-opensuses-kde4unstable-repository/)
+####  [Raymond Wooninck: Still alive and kicking !! New snapshots and reorganization for openSUSE’s KDE4:Unstable repository](http://tittiatcoke.wordpress.com/2010/08/15/still-alive-and-kicking-new-snapshots-and-reorganization-for-opensuses-kde4unstable-repository/)
 
 
 "I guess that maybe some people were wondering how come that it was so silence around the Unstable repository for openSUSE. There are two reasons for it. First one is that I have been on holidays and I promised my family that I would stay away from a computer as much as possible. Secondly in August the KDE repositories were changes and optimized. This meant not only a new name and/or location, but also we had a good look at what was provided by each repo.  For the KDE4:Unstable repo it was agreed that the new repo name would be KDE:Unstable:SC and that it should only provide the standard KDE:SC packages with the build-required libraries. This means that application like Amarok, choqok, konversation, etc are no longer provided through this KDE:Unstable:SC repository. SVN snapshot versions of these applications can be found in the new playground (KDE:Unstable:Playground) repo or released version can be retrieved directly from either the openSUSE:Factory repository or in case of an older distribution from the KDE:UpdatedApps repository." 
@@ -819,7 +819,7 @@ The numbers for all openSUSE project products are this week:
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -875,7 +875,7 @@ Past:
   * [** August 18, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** August 19, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** August 19, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
@@ -906,7 +906,7 @@ Past:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -942,7 +942,7 @@ Vincent give us Impressions from the GUADEC
 ####  [Javier Llorente: KDE Release Party in Madrid](http://lizards.opensuse.org/2010/08/15/kde-release-party-in-madrid/)
 
 
-"The other day I met afiestas in the tram. He had a KDE sticker on his laptop and I thought perhaps this guy is interested in the KDE bug squashing party we have organizedâ€¦ I talked to him about it and he told me that he was a KDE developer. Quite a surprise! So weâ€™re going to celebrate the release of KDE SC 4.5.0 at Sigland (San Bernardo 118) next Saturday (21st) at 14:00. :D"  
+"The other day I met afiestas in the tram. He had a KDE sticker on his laptop and I thought perhaps this guy is interested in the KDE bug squashing party we have organized… I talked to him about it and he told me that he was a KDE developer. Quite a surprise! So we’re going to celebrate the release of KDE SC 4.5.0 at Sigland (San Bernardo 118) next Saturday (21st) at 14:00. :D"  
 
 
 ####  [openSUSE Launch Party - Peru 2010](http://lists.opensuse.org/archive/opensuse-marketing/2010-08/msg00083.html)
@@ -1210,7 +1210,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Rares Aioanei: openSUSE kernel news â€“ 21.08.2010](http://schaiba.wordpress.com/2010/08/21/opensuse-kernel-news-21-08-2010/)
+####  [Rares Aioanei: openSUSE kernel news – 21.08.2010](http://schaiba.wordpress.com/2010/08/21/opensuse-kernel-news-21-08-2010/)
 
 
 Rares Aioanai gives a new Issue about his Kernel Insights.  
@@ -1272,10 +1272,10 @@ Rares Aioanai gives a new Issue about his Kernel Insights.
 "Say you just bought an Amazon Kindle or a Barnes and Noble Nook. You want to convert your eBook collection to .EPUB or .MOBI format. For this, install Calibre. The application not only provides you with a graphical way to manage your eBook collection, but also comes with a set of useful command-line tools. One of these is ebook-convert. (...)"  
 
 
-####  [Tips4Linux.com: Remove DRM from Amazon Kindleâ€™s ebooks using Linux](http://tips4linux.com/remove-drm-from-amazon-kindles-ebooks-using-linux/)
+####  [Tips4Linux.com: Remove DRM from Amazon Kindle’s ebooks using Linux](http://tips4linux.com/remove-drm-from-amazon-kindles-ebooks-using-linux/)
 
 
-"When you buy an ebook using your Kindle, thereâ€™s a 99% chance itâ€™s a DRM file. That means you wonâ€™t be able to read it anywhere else but on your Kindle. And we wonâ€™t accept that. To be able to convert that file and remove its DRM protection, you need a set of Python scripts called [MobiDeDRM](http://nyquil.org/uploads/MobiDeDRM.zip). (...)" 
+"When you buy an ebook using your Kindle, there’s a 99% chance it’s a DRM file. That means you won’t be able to read it anywhere else but on your Kindle. And we won’t accept that. To be able to convert that file and remove its DRM protection, you need a set of Python scripts called [MobiDeDRM](http://nyquil.org/uploads/MobiDeDRM.zip). (...)" 
 
 
   
@@ -1357,7 +1357,7 @@ Rares Aioanai gives a new Issue about his Kernel Insights.
 ####  [Vincent Untz: Want to join Novell?](http://www.vuntz.net/journal/post/2010/08/16/Want-to-join-Novell)
 
 
-"I've been at Novell for two years and a half now, and it's been an interesting ride. I must say I've had two amazing bosses who understand the way I work and who have been really supportive, so that definitely helps! I don't know if Klaas will stand me much longer, though ;-) In addition to that, being part of the Boosters is a good way to be with people as crazy as I am, working on weird stuff like me.  Of course, it has been hard to see good people leave the company in the past few months â€” they are generally still involved upstream, though, so that's positive :-) But recently, we've been joined by two friends: FrÃ©dÃ©ric, who's working on SUSE Meego, and Jos, the new openSUSE community manager. And guess what? We expect more! Because we're still hiring: ..."  
+"I've been at Novell for two years and a half now, and it's been an interesting ride. I must say I've had two amazing bosses who understand the way I work and who have been really supportive, so that definitely helps! I don't know if Klaas will stand me much longer, though ;-) In addition to that, being part of the Boosters is a good way to be with people as crazy as I am, working on weird stuff like me.  Of course, it has been hard to see good people leave the company in the past few months — they are generally still involved upstream, though, so that's positive :-) But recently, we've been joined by two friends: Frédéric, who's working on SUSE Meego, and Jos, the new openSUSE community manager. And guess what? We expect more! Because we're still hiring: ..."  
 
 
 ####  [Jos Poortvliet: And what has that dude been doing lately...](http://nowwhatthe.blogspot.com/2010/08/and-what-has-that-dude-been-doing.html)
@@ -1384,10 +1384,10 @@ Rares Aioanai gives a new Issue about his Kernel Insights.
 "I have made a feature release of ruby-dbus, a Ruby language binding for the D-Bus IPC system.  * TCP transport which pangdudu coded a year ago. At that time I did not feel familiar enough with the library, and the test suite was much smaller too, so that's why it took me so long.  * Enabled test code coverage report (rcov)  * Classes should not share all interfaces (Ticket#36/Issue#5)  * Ruby 1.9 compatibility (Ticket#37, by Myra Nelson)  * RPMs can be found via openSUSE Build Service Search"  
 
 
-####  [Sebastian KÃ¼gler: Working Upstream.](http://vizzzion.org/blog/2010/08/working-upstream/)
+####  [Sebastian Kügler: Working Upstream.](http://vizzzion.org/blog/2010/08/working-upstream/)
 
 
-"On the website of an Austrian (no kangaroos!) newspaper, I read an interview with Canonicalâ€™s Jono Bacon. In this interview, Jono talks about the process of developing central components of the desktop inside Canonical. The process is basically that Canonicalâ€™s design department, Ayatana develops components. When they are finished, theyâ€™re offered for inclusion into GNOME, which was not a successful in all cases yet. According to Jono this is "working upstream", explaining that in this context Ayatana is the upstream. GNOME is seen as a provider of components, building blocks for Ubuntuâ€™s user experience.  The definition Jono handles of upstream development is quite different from how it works for me. I can speak of personal and professional experience in this context, as I have been working quite a lot on central components of the Plasma Desktop (and Netbook as well). I have done this work both, as a voluntary contributor in my Free time (pun intended), and continue to do so in my working hours for open-slx. open-slx happens to sell and supports Linux deskop operating systems." 
+"On the website of an Austrian (no kangaroos!) newspaper, I read an interview with Canonical’s Jono Bacon. In this interview, Jono talks about the process of developing central components of the desktop inside Canonical. The process is basically that Canonical’s design department, Ayatana develops components. When they are finished, they’re offered for inclusion into GNOME, which was not a successful in all cases yet. According to Jono this is "working upstream", explaining that in this context Ayatana is the upstream. GNOME is seen as a provider of components, building blocks for Ubuntu’s user experience.  The definition Jono handles of upstream development is quite different from how it works for me. I can speak of personal and professional experience in this context, as I have been working quite a lot on central components of the Plasma Desktop (and Netbook as well). I have done this work both, as a voluntary contributor in my Free time (pun intended), and continue to do so in my working hours for open-slx. open-slx happens to sell and supports Linux deskop operating systems." 
 </td>
 </tr>
 </tbody>
@@ -1497,7 +1497,7 @@ Rares Aioanai gives a new Issue about his Kernel Insights.
 ####  [Joe Brockmeier: Spread the word: Ohio LinuxFest registration is open!](http://dissociatedpress.net/2010/08/17/spread-the-word-ohio-linuxfest-registration-is-open/)
 
 
-"Things are spinning up for Ohio LinuxFest â€” weâ€™re less than a month out, so now is the time for everyone planning on attending the big â€˜fest to sign up and start making your plans to attend. Even if youâ€™re not going to be there (why not?) please help spread the word! Follow @ohiolinux on Twitter for updates. See you in Columbus!" 
+"Things are spinning up for Ohio LinuxFest — we’re less than a month out, so now is the time for everyone planning on attending the big ‘fest to sign up and start making your plans to attend. Even if you’re not going to be there (why not?) please help spread the word! Follow @ohiolinux on Twitter for updates. See you in Columbus!" 
 
 
   
@@ -1517,7 +1517,7 @@ Rares Aioanai gives a new Issue about his Kernel Insights.
 ####  [ghacks/Jack Wallen: The KDE 4.5 Semantic Desktop](http://www.ghacks.net/2010/08/18/the-kde-4-5-semantic-desktop/)
 
 
-"My last article I spoke about the new KDE Activities features Search and Launch Containment Activity (see my article â€œUsing the KDE 4.5 Search and Launch Containment Activityâ€œ). This is the first visible sign of KDEâ€™s use of the Nepomuk Semantic Desktop. Nepomuk is a system that uses metadata throughout the desktop to aid in file search and peer to peer collaboration. So far the project has yet to reach its full potential (as it is quite new to the desktop)."  
+"My last article I spoke about the new KDE Activities features Search and Launch Containment Activity (see my article “Using the KDE 4.5 Search and Launch Containment Activity“). This is the first visible sign of KDE’s use of the Nepomuk Semantic Desktop. Nepomuk is a system that uses metadata throughout the desktop to aid in file search and peer to peer collaboration. So far the project has yet to reach its full potential (as it is quite new to the desktop)."  
 
 
 ####  [Linux Journal/Chase Crum: Novell and Markus Rex: Reinventing An Empire](http://www.linuxjournal.com/content/novell-and-markus-rex-reinventing-empire)
@@ -1659,7 +1659,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1668,7 +1668,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1728,34 +1728,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/137)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/137)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/137)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/137)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/137)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/137)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/137)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/137)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/137)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/137/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/137/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/137/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/137)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/137)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/137)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/137)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/137)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/137)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/137)
@@ -1764,7 +1764,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/137/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/137)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/137)
 
 
 </td>

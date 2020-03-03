@@ -22,7 +22,7 @@ The Greek openSUSE community is organizing its first openSUSE Summer Camp, in ce
 ## Sounds awesome, I'll book my tickets.
 
 
-So, youâ€™ll be there. What can you expect?
+So, you’ll be there. What can you expect?
 
 Our goal is to bring FOSS communities closer and encourage people to contribute to their favorite projects.
 
@@ -34,7 +34,7 @@ A lot of people, with little to a lot of experience can benefit from the worksho
 
 There will be relaxing and swimming of course! But hey, we have a common passion, don't we?
 
-We love what we do, we are having fun contributing to FOSS and we hate doing it alone in our rooms during Summer time.  Besides coding, translating and all other â€˜working stuffâ€™ there will also be plenty of sun and beach, a large swimming pool and plenty of beers -  all paid by you since we only sponsor the sun, the fun and all the other free stuff...
+We love what we do, we are having fun contributing to FOSS and we hate doing it alone in our rooms during Summer time.  Besides coding, translating and all other ‘working stuff’ there will also be plenty of sun and beach, a large swimming pool and plenty of beers -  all paid by you since we only sponsor the sun, the fun and all the other free stuff...
 
 We are looking forward to seeing you at the openSUSE Summer Camp Greece!
 

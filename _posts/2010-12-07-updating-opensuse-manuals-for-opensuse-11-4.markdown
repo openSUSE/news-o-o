@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-With the openSUSE distribution, we have a set of openSUSE manuals and QuickStart guides. You can read them online via [http://doc.opensuse.org](http://doc.opensuse.org).Â  They are installed by default on your system so you can access them there as
+With the openSUSE distribution, we have a set of openSUSE manuals and QuickStart guides. You can read them online via [http://doc.opensuse.org](http://doc.opensuse.org).  They are installed by default on your system so you can access them there as
 well.
 
 For openSUSE 11.4, we face the usual challenge of updating the manuals: The documentation writers know what's in the manuals but do not know everything that's changed and the developers know what's changed but may not know all the manuals.

@@ -12,9 +12,9 @@ categories:
 - Distribution
 ---
 
-**Milestone 6** (of 7), a snapshot of the [Factory](http://en.opensuse.org/Factory) â€œwork  in progressâ€ build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available for [download](http://software.opensuse.org/developer).
+**Milestone 6** (of 7), a snapshot of the [Factory](http://en.opensuse.org/Factory) “work  in progress” build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available for [download](http://software.opensuse.org/developer).
 
-[M6](http://software.opensuse.org/developer) is the first release during the â€œ[Stablizing  Freezeâ€](http://www.suse.de/%7Ecoolo/opensuse_11.3/): focus has transitioned away from the inclusion of new  features and applications toward increasing stability and usability.  To  that end, [162 bugs](https://bugzilla.novell.com/buglist.cgi?order=Bug%20Number&chfieldto=2010-04-29&chfield=bug_status&query_format=advanced&chfieldfrom=2010-04-09&bug_status=RESOLVED&product=openSUSE%2011.3) were resolved during the M5 - M6 timeframe!
+[M6](http://software.opensuse.org/developer) is the first release during the “[Stablizing  Freeze”](http://www.suse.de/%7Ecoolo/opensuse_11.3/): focus has transitioned away from the inclusion of new  features and applications toward increasing stability and usability.  To  that end, [162 bugs](https://bugzilla.novell.com/buglist.cgi?order=Bug%20Number&chfieldto=2010-04-29&chfield=bug_status&query_format=advanced&chfieldfrom=2010-04-09&bug_status=RESOLVED&product=openSUSE%2011.3) were resolved during the M5 - M6 timeframe!
 
 <!-- more -->
 

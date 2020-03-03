@@ -22,7 +22,7 @@ categories:
 
 openSUSE has used vBullentin forum software for a very long time. While we haven't always been happy with it, the issues never prompted us to put in the (substantial!) time and effort required to move to another solution.
 
-On January 7, 2014, we received word from [The Hacker News](http://thehackernews.com) that our public forums were compromised and defaced by a cracker exploiting a zero day flaw in the underlying vBulletin forum software (vBulletin 4.2.1). A Pakistani cracker has claimed responsibility. According to The Hacker News, the cracker confirmed that he/she uploaded a PHP shell to the openSUSE Forum server using a private vBulletinâ€™s zero-day exploit, that allows him/her to browse, read or overwrite any file on the Forum server without root privileges.
+On January 7, 2014, we received word from [The Hacker News](http://thehackernews.com) that our public forums were compromised and defaced by a cracker exploiting a zero day flaw in the underlying vBulletin forum software (vBulletin 4.2.1). A Pakistani cracker has claimed responsibility. According to The Hacker News, the cracker confirmed that he/she uploaded a PHP shell to the openSUSE Forum server using a private vBulletin’s zero-day exploit, that allows him/her to browse, read or overwrite any file on the Forum server without root privileges.
 
 
 

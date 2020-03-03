@@ -308,7 +308,7 @@ I'm pretty much a jack of all trades as an IT person. I can do about anything gi
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 So much of my day involves the Internet in one way or another, it would really limit what I normally do. I'd spend more time with my dog, and read some of those books in the "to be read" stack.
@@ -378,7 +378,7 @@ For the most part, I like mountains better than beaches, so some time in a cabin
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 I'd make sure my son was set up for life, and I'd build a modest house halfway between somewhere and nowhere in East Tennessee and finish that novel.
@@ -388,7 +388,7 @@ I'd make sure my son was set up for life, and I'd build a modest house halfway b
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Somewhere in the future. I'd have to see what's down the road...I'd probably start about 2050, and explore from there.
@@ -398,7 +398,7 @@ Somewhere in the future. I'd have to see what's down the road...I'd probably sta
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Depends on how close the lightning is. Typically, no.

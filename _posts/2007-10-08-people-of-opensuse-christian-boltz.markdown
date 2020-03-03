@@ -277,7 +277,7 @@ However, if someone uses another linux distribution and is happy with it, I won'
 
 Too many to list here - I'm quite sure I'd forget some people. Instead I'll list the events where I have met them.
 
-I have met several long-seasoned beta testers and SUSE employees at a beta tester meeting in NÃ¼rnberg, shortly before the openSUSE project was announced. I have also met some community members and SUSE developers at the LinuxTag in Karlsruhe, Wiesbaden and Berlin which I visited a few years ago.
+I have met several long-seasoned beta testers and SUSE employees at a beta tester meeting in Nürnberg, shortly before the openSUSE project was announced. I have also met some community members and SUSE developers at the LinuxTag in Karlsruhe, Wiesbaden and Berlin which I visited a few years ago.
 
 
 
@@ -348,7 +348,7 @@ Knowledge of C and C++ would be really useful because many applications are writ
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 I'd go through my unread mails ;-)
@@ -385,7 +385,7 @@ Star Trek, especially The Next Generation, Deep Space Nine and Voyager.
 
 Food: Chili-Bratwurst (chili frying sausage). It's really hot and, additional bonus, nearly theft safe when grilling. If someone takes it accidently, you will hear him crying for water ;-)
 
-Besides that, you can make me happy with a normal local meal and also with Italian food (pizza, pasta etc.). My favorite drink is wine (surprised?). Currently my favorite is the Dornfelder JubilÃ¤umswein (Dornfelder is the (red) grape variety, JubilÃ¤umswein means jubilee wine) - the Deutsches Weintor celebrated its 50th jubilee this year.
+Besides that, you can make me happy with a normal local meal and also with Italian food (pizza, pasta etc.). My favorite drink is wine (surprised?). Currently my favorite is the Dornfelder Jubiläumswein (Dornfelder is the (red) grape variety, Jubiläumswein means jubilee wine) - the Deutsches Weintor celebrated its 50th jubilee this year.
 
 
 
@@ -422,7 +422,7 @@ Travelling to other countries, visiting wine-growers and learn about specials in
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Hmm, good question. I'd invest it with a bank and take some time to think about it for some time.From the interests, my first expenses would be some new hardware and some travelling. Then, hmmm, good question... --- interview deadline reached --- ;-)
@@ -432,7 +432,7 @@ Hmm, good question. I'd invest it with a bank and take some time to think about 
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 I like the time we're in right now, but living on the Enterprise (TNG) and visiting other planets would be interesting also.
@@ -443,7 +443,7 @@ But not on the Voyager please, it would take too long to come home.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 I just turn off my external monitor and the laptop power supply. There was never a thunderstorm that took longer than my laptop battery lasted.
@@ -501,7 +501,7 @@ As in every good quiz show: the million dollar question.
 
 What languages do you speak?
 
-PfÃ¤lzisch (the palatinate dialect), german, english.
+Pfälzisch (the palatinate dialect), german, english.
 And PHP, Perl, Bash, (My)SQL, HTML, POP3, SMTP and HTTP. No Basic anymore ;-)
 
 

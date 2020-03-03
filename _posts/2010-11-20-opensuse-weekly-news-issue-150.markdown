@@ -531,12 +531,12 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [#310831: BÃ©po keyboard layout - Â«first class citizenÂ»](https://features.opensuse.org/310831)
+####  [#310831: Bépo keyboard layout - «first class citizen»](https://features.opensuse.org/310831)
 
 
 
 
-"The usual qwerty keyboard layout (and similar layouts like qwertz, azerty...) are known for being suboptimal. Better layouts are available, like dvorak. These layouts are often tied to a language : dvorak is better for english, while french users will prefer bÃ©po. (...)" 
+"The usual qwerty keyboard layout (and similar layouts like qwertz, azerty...) are known for being suboptimal. Better layouts are available, like dvorak. These layouts are often tied to a language : dvorak is better for english, while french users will prefer bépo. (...)" 
 
 
 
@@ -725,11 +725,11 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-"As I wrote last time, Iâ€™ve migrated our documentation to a public SVN server on BerliOS. There you can get the English sources of the official openSUSE documentation and some business products too.  
+"As I wrote last time, I’ve migrated our documentation to a public SVN server on BerliOS. There you can get the English sources of the official openSUSE documentation and some business products too.  
 
   
 
- Apart from Russian, Iâ€™m very happy that the Hungarian translation of the openSUSE documentation is underway! Thanks to KÃ¡lmÃ¡n KÃ©mÃ©nczy, he will publish the Hungarian documentation soon. Currently, some translatation, proofreading, and polishing have to be done, so stay tuned (see [https://svn.berlios.de/svnroot/repos/opensuse-doc/trunk/documents/distribution/hu](https://svn.berlios.de/svnroot/repos/opensuse-doc/trunk/documents/distribution/hu).)  
+ Apart from Russian, I’m very happy that the Hungarian translation of the openSUSE documentation is underway! Thanks to Kálmán Kéménczy, he will publish the Hungarian documentation soon. Currently, some translatation, proofreading, and polishing have to be done, so stay tuned (see [https://svn.berlios.de/svnroot/repos/opensuse-doc/trunk/documents/distribution/hu](https://svn.berlios.de/svnroot/repos/opensuse-doc/trunk/documents/distribution/hu).)  
 
  By the way, the Hungarian books from the 11.1 and 11.2 release can be downloaded in the Hungarian portal. (...)" 
 
@@ -744,7 +744,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
 
 
 </td>
@@ -787,7 +787,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Nelson Marques: Yet another academical paperâ€¦](http://nmarques.digitalwhores.net/2010/11/12/yet-another-academical-paper/)
+####  [Nelson Marques: Yet another academical paper…](http://nmarques.digitalwhores.net/2010/11/12/yet-another-academical-paper/)
 
 
 
@@ -806,12 +806,12 @@ Nelson Marques are working on an interesting project. In the first Part of the P
 
   
 
- For the booth I had one of the big HP touchscreens, they are always good for events. People like to play â€œNumpty Physicsâ€ and when there stay some people others become curious and stop at the booth. But we played not only on the booth, thanks Jan we showed WebYasT on his machine at home, of course we had some conversations about and showings of SUSE Studio. Not many people asked for the openSUSE Buildservice, but thats ok there, it was an more user oriented event. For me I made an test there, we had some days ago a little discussion on the marketing mailinglist to market more such things like OBS and I began to make a new poster serie for that, so I tested with an beamer some of the new posters on a side wall. I think I prepare an slideshow with the motifes, when I have all posters have done, so that all ambassadors can do the same. Its an action thing and that does always make people curious. (...)" 
+ For the booth I had one of the big HP touchscreens, they are always good for events. People like to play “Numpty Physics” and when there stay some people others become curious and stop at the booth. But we played not only on the booth, thanks Jan we showed WebYasT on his machine at home, of course we had some conversations about and showings of SUSE Studio. Not many people asked for the openSUSE Buildservice, but thats ok there, it was an more user oriented event. For me I made an test there, we had some days ago a little discussion on the marketing mailinglist to market more such things like OBS and I began to make a new poster serie for that, so I tested with an beamer some of the new posters on a side wall. I think I prepare an slideshow with the motifes, when I have all posters have done, so that all ambassadors can do the same. Its an action thing and that does always make people curious. (...)" 
 
 
 
 
-####  [Michal HruÅ¡eckÃ½: openSUSE Conference 2010](http://michal.hrusecky.net/index.php/blog/show/openSUSE-Conference-2010-1.html)
+####  [Michal Hrušecký: openSUSE Conference 2010](http://michal.hrusecky.net/index.php/blog/show/openSUSE-Conference-2010-1.html)
 
 
 
@@ -873,7 +873,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1032,7 +1032,7 @@ Upcoming:
 
 "Sometimes a packager asked himself, who has already packaged this Software? Maybe the Packagingfiles can help me to fix a error? Or maybe an other packager has a written a patch that i can use for my situation?  
 
- Philipp L. Wesche knows this situation, and he wrote a program, that allows to view in other Distributions and Repositories, who has a specific Software packaged. The commandline tool â€œwhohasâ€ supports Arch, Debian, Fedora, Gentoo, Mandriva, openSUSE, Slackware, linuxpackages.net, Source Mage, Ubuntu, FreeBSD, NetBSD, OpenBSD, Fink, MacPorts and Cygwin. Philipp wrote this tool in Perl and was designed to help package maintainers find ebuilds, pkgbuilds and similar package definitions to learn from. (...)" 
+ Philipp L. Wesche knows this situation, and he wrote a program, that allows to view in other Distributions and Repositories, who has a specific Software packaged. The commandline tool “whohas” supports Arch, Debian, Fedora, Gentoo, Mandriva, openSUSE, Slackware, linuxpackages.net, Source Mage, Ubuntu, FreeBSD, NetBSD, OpenBSD, Fink, MacPorts and Cygwin. Philipp wrote this tool in Perl and was designed to help package maintainers find ebuilds, pkgbuilds and similar package definitions to learn from. (...)" 
 
 
 
@@ -1047,7 +1047,7 @@ Upcoming:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
 
 
 </td>
@@ -1259,11 +1259,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Since cameras went digital weâ€™ve had a few more perks to enjoy alongside our usual photography habits. No longer do we need to pause and think â€œshall I take that shot?â€ with expensive film and processing costs giving way to re-usable memory cards.  
+"Since cameras went digital we’ve had a few more perks to enjoy alongside our usual photography habits. No longer do we need to pause and think “shall I take that shot?” with expensive film and processing costs giving way to re-usable memory cards.  
 
   
 
- Pretty much every digital camera available today (give or take the dodgy cheap Chinese ones found on eBay) records EXIF data within each image you take. This data is then useful for improving your photography plus can be quite interesting especially if youâ€™re a bit of a geek. (...)" 
+ Pretty much every digital camera available today (give or take the dodgy cheap Chinese ones found on eBay) records EXIF data within each image you take. This data is then useful for improving your photography plus can be quite interesting especially if you’re a bit of a geek. (...)" 
 
 
 
@@ -1317,7 +1317,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Sometimes even experienced developers can be a bit overwhelmed by Linuxâ€™s extensive development capabilities. Sit back and soak up these tips to become a smarter and more productive Linux developer overnightâ€¦ (...)" 
+"Sometimes even experienced developers can be a bit overwhelmed by Linux’s extensive development capabilities. Sit back and soak up these tips to become a smarter and more productive Linux developer overnight… (...)" 
 
 
 
@@ -1387,7 +1387,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"So thereâ€™s a solution to make the kernel modules building under openSUSE factory (11.4) and the kernel 2.6.36 (...)" 
+"So there’s a solution to make the kernel modules building under openSUSE factory (11.4) and the kernel 2.6.36 (...)" 
 
 
 
@@ -1436,17 +1436,17 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"I have to sayâ€¦ Nuno Pinheiro keeps surprising people all the timeâ€¦ This time, with a cool .spec mime type: (...)" 
+"I have to say… Nuno Pinheiro keeps surprising people all the time… This time, with a cool .spec mime type: (...)" 
 
 
 
 
-####  [Sebastian KÃ¼gler: we are out of househacking](http://vizzzion.org/blog/2010/11/we-are-out-of-househacking-kde-e-v-board-meeting-in-nijmegen/)
+####  [Sebastian Kügler: we are out of househacking](http://vizzzion.org/blog/2010/11/we-are-out-of-househacking-kde-e-v-board-meeting-in-nijmegen/)
 
 
 
 
-"Iâ€™ve just returned from our local microbrewery, Brouwerij de Hemel in Nijmegen, the Netherlands, the place where I live after a nice dinner with my fellow KDE e.V. Board Member members. Friday and Saturday we had planned to hold a two+ day board meeting here in Nijmegen. Kim and me have moved into our new house in Nijmegen two weeks ago and weâ€™re now mostly settled, meaning all critical parts of infrastructure work and are in place, and we can pick up our lives again, after two months of updating, maintaining and facelifting it from the inside. Weâ€™re now fully settled. Weâ€™ve moved inside Nijmegen from a rather nice flat into a larger house. We got the keys to the new house two months ago, and have spent this yearâ€™s september and october on painting, wallpapering, insulating and other facelift and maintainance work. Luckily, many of our friends and families came by to help us here and there. (...)" 
+"I’ve just returned from our local microbrewery, Brouwerij de Hemel in Nijmegen, the Netherlands, the place where I live after a nice dinner with my fellow KDE e.V. Board Member members. Friday and Saturday we had planned to hold a two+ day board meeting here in Nijmegen. Kim and me have moved into our new house in Nijmegen two weeks ago and we’re now mostly settled, meaning all critical parts of infrastructure work and are in place, and we can pick up our lives again, after two months of updating, maintaining and facelifting it from the inside. We’re now fully settled. We’ve moved inside Nijmegen from a rather nice flat into a larger house. We got the keys to the new house two months ago, and have spent this year’s september and october on painting, wallpapering, insulating and other facelift and maintainance work. Luckily, many of our friends and families came by to help us here and there. (...)" 
 
 
 
@@ -1465,12 +1465,12 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Michal HruÅ¡eckÃ½: openSUSE Paste: Never expire](http://michal.hrusecky.net/index.php/blog/show/openSUSE-Paste:-Never-expire%3F-1.html)
+####  [Michal Hrušecký: openSUSE Paste: Never expire](http://michal.hrusecky.net/index.php/blog/show/openSUSE-Paste:-Never-expire%3F-1.html)
 
 
 
 
-"This is just a small update regarding openSUSE Paste. Some time ago Gertjan Lettink from openSUSE Forums team asked me, whether it would be possible to add possibility to keep pastes forever on openSUSE Paste. I wasn't really fan of that saying that 3 years is almost forever... But I asked JaromÃ­r ÄŒervenka who is providing hosting for this service and he said that he don't mind. So I promissed that I will look at it later (as I was quite overloaded with other things at that time)... And quite some time later I received another e-mail asking about the progress. And it's done now. So from now on, you can use openSUSE Paste to store pastes forever. I also set one week as a default expiration time on the web. I'm sorry that it took so long, I admit, that I almost forgot about that. But what you can learn from this story is not to be afraid to remind people about things that you are waiting for ;-)" 
+"This is just a small update regarding openSUSE Paste. Some time ago Gertjan Lettink from openSUSE Forums team asked me, whether it would be possible to add possibility to keep pastes forever on openSUSE Paste. I wasn't really fan of that saying that 3 years is almost forever... But I asked Jaromír Ìervenka who is providing hosting for this service and he said that he don't mind. So I promissed that I will look at it later (as I was quite overloaded with other things at that time)... And quite some time later I received another e-mail asking about the progress. And it's done now. So from now on, you can use openSUSE Paste to store pastes forever. I also set one week as a default expiration time on the web. I'm sorry that it took so long, I admit, that I almost forgot about that. But what you can learn from this story is not to be afraid to remind people about things that you are waiting for ;-)" 
 
 
 
@@ -1480,7 +1480,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Git package contains a script named git-new-workdir, which allows you to work in a branch in a separate directory on the file system. This differs from cloning a repository in that git-new-workdir doesnâ€™t duplicate the git history from the original repository and shares it instead, and that when you commit something to the branch that commit goes directly into the history of the original repository without explicitly pushing to the original repository. On top of that, creating a new branch work directory happens very much instantly. Itâ€™s fast, and itâ€™s efficient. Itâ€™s an absolute time saver for those of us who work on many branches at any given moment without bloating the disk space. (...)" 
+"Git package contains a script named git-new-workdir, which allows you to work in a branch in a separate directory on the file system. This differs from cloning a repository in that git-new-workdir doesn’t duplicate the git history from the original repository and shares it instead, and that when you commit something to the branch that commit goes directly into the history of the original repository without explicitly pushing to the original repository. On top of that, creating a new branch work directory happens very much instantly. It’s fast, and it’s efficient. It’s an absolute time saver for those of us who work on many branches at any given moment without bloating the disk space. (...)" 
 
 
 
@@ -1721,11 +1721,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Iâ€™m now back home after a very successful MeeGo Conference 2010. Thankfully for me, the flight was short and it arrived ahead of time, even with a 10-minute delay on departure. The winds have been favourable to us (though the Harmattan wind doesnâ€™t help airplanes â€” not yet anyway).  
+"I’m now back home after a very successful MeeGo Conference 2010. Thankfully for me, the flight was short and it arrived ahead of time, even with a 10-minute delay on departure. The winds have been favourable to us (though the Harmattan wind doesn’t help airplanes — not yet anyway).  
 
   
 
- Upon arriving, I was reminded immediately why the conference shouldnâ€™t be in Oslo in November, like someone suggested some time ago in the MeeGo Wiki: itâ€™s cold here and snowing. Compared to Oslo, Dublinâ€™s weather was comforting and warm. Add to that the welcoming social events that were organised for us and you see why it was a good reason to go â€” visiting the Guiness Storehouse and watching live Norway 2 x 1 Ireland was a nice touch! I even made a cameo appearence in Norwayâ€™s largest newspaper, in a weird fish-eye lens photo. (...)" 
+ Upon arriving, I was reminded immediately why the conference shouldn’t be in Oslo in November, like someone suggested some time ago in the MeeGo Wiki: it’s cold here and snowing. Compared to Oslo, Dublin’s weather was comforting and warm. Add to that the welcoming social events that were organised for us and you see why it was a good reason to go — visiting the Guiness Storehouse and watching live Norway 2 x 1 Ireland was a nice touch! I even made a cameo appearence in Norway’s largest newspaper, in a weird fish-eye lens photo. (...)" 
 
 
 
@@ -1749,7 +1749,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Want to run Linux on a laptop, but not sure which hardware is best? This guide will help you zero in on the machine thatâ€™s right for you and the distribution you select. (...)" 
+"Want to run Linux on a laptop, but not sure which hardware is best? This guide will help you zero in on the machine that’s right for you and the distribution you select. (...)" 
 
 
 
@@ -1842,7 +1842,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1854,7 +1854,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Knurpht](http://en.opensuse.org/User:Knurpht) [Talk](http://en.opensuse.org/index.php?title=User_talk:Knurpht&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Knurpht) Gertjan Lettink (Forums) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1914,34 +1914,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/150)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/150)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/150)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/150)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/150)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/150)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/150)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/150)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/150)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/150/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/150/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/150/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/150)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/150)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/150)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/150)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/150)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/150)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/150)
@@ -1950,7 +1950,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/150/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/150)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/150)
 
 
 </td>

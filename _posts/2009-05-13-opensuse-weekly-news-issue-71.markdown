@@ -14,12 +14,12 @@ categories:
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #71 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/71)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
  
 
   *   Get Ready for the openSUSE Community Week 
 
-  *   Jan-Simon MÃ¶ller: GSoC Introduction openSUSE @ ARM
+  *   Jan-Simon Möller: GSoC Introduction openSUSE @ ARM
 
   *   Katarina Machalkova: Secret AutoYaST feature :) 
 

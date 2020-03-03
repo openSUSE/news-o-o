@@ -5,13 +5,13 @@ date: 2008-01-04 13:00:57+00:00
 layout: post
 link: https://news.opensuse.org/2008/01/04/people-of-opensuse-lukas-ocilka/
 slug: people-of-opensuse-lukas-ocilka
-title: 'People of openSUSE: LukÃ¡Å¡ Ocilka'
+title: 'People of openSUSE: Lukáš Ocilka'
 wordpress_id: 588
 categories:
 - People of openSUSE
 ---
 
-Here you have an interview with LukÃ¡Å¡ Ocilka, a Czech [YaST developer](http://en.opensuse.org/YaST/Team) maintaining many [YaST](http://en.opensuse.org/YaST) components such as Installation, Firewall, and Backup.
+Here you have an interview with Lukáš Ocilka, a Czech [YaST developer](http://en.opensuse.org/YaST/Team) maintaining many [YaST](http://en.opensuse.org/YaST) components such as Installation, Firewall, and Backup.
 
 <!-- more -->
 <table border="0" >
@@ -316,7 +316,7 @@ Ah, you've got me :) I'd like to understand C/C++.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 It's almost impossible because I have one connection at work and another at home. If the whole internet crashed, well, that wouldn't be good for anybody but I hope it wouldn't be an Apocalypse :)
@@ -388,7 +388,7 @@ With my friends. On the mountains, near the sea. Anything new sounds good as wel
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 At first, I'd probably talk to several different people that have some experience with bigger amounts of money, then I'd probably invest them. Maybe I'd try to run some small business on my own, maybe I'd buy some shares, a flat... Of course, I would also buy some presents for my family :)
@@ -398,7 +398,7 @@ At first, I'd probably talk to several different people that have some experienc
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Just now.
@@ -408,7 +408,7 @@ Just now.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Depends on the strength of that thunderstorm :) But considering the past, I don't remember shutting down my computer because of a heavy rain or lightening-storm because I believed my UPS would protect it. I always turn off my computer when I don't need it running anymore.

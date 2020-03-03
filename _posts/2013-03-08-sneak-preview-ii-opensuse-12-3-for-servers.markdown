@@ -71,4 +71,4 @@ New Qemu introduces a tool called _qemu-nbd_ which can read any qemu-supported i
 
 If you are as excited as we are about the new release and can't wait that few extra days, you can [get RC2](http://software.opensuse.org/developer) right now and when the final release is published, there will be updates in the existing software repositories to seamlessly migrate to the final version. So, go get it now!
 
-_Article contributed by Michal HruÅ¡eckÃ½ and Will Stephenson_
+_Article contributed by Michal Hrušecký and Will Stephenson_

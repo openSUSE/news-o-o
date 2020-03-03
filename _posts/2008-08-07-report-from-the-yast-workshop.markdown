@@ -14,7 +14,7 @@ tags:
 - yast
 ---
 
-The YaST teams met in NÃ¼rnberg recently in the SUSE offices to work on [several projects](http://en.opensuse.org/YaST/Events/Workshop_Nuremberg_2008).
+The YaST teams met in Nürnberg recently in the SUSE offices to work on [several projects](http://en.opensuse.org/YaST/Events/Workshop_Nuremberg_2008).
 
 
 

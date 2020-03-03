@@ -13,7 +13,7 @@ categories:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #80 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/80)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -24,7 +24,7 @@ In this weekâ€™s issue:
   * Lydia Pintscher: The Way to Amarok 2.2
 
 	
-  * Sebastian SchÃ¶binger : Adding a music profile with the KDE Energy Manager Plasmoid
+  * Sebastian Schöbinger : Adding a music profile with the KDE Energy Manager Plasmoid
 
 	
   * Michael Andres: libzypp-6.10.4: Tune automatically created solver testcases (zypper dup)

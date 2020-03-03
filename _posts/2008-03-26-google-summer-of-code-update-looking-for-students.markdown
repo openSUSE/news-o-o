@@ -5,7 +5,7 @@ date: 2008-03-26 20:05:12+00:00
 layout: post
 link: https://news.opensuse.org/2008/03/26/google-summer-of-code-update-looking-for-students/
 slug: google-summer-of-code-update-looking-for-students
-title: Google Summer of Code Update â€“ Looking for Students
+title: Google Summer of Code Update – Looking for Students
 wordpress_id: 708
 categories:
 - Google Summer of Code

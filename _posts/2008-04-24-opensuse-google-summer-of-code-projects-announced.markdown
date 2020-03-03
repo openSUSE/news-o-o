@@ -48,13 +48,13 @@ By Andrei Oprisan, mentored by Stanislav Brabec
 
 	
   * [Libzypp Download Failover  ](http://code.google.com/soc/2008/suse/appinfo.html?csaid=6F1844AB23B67E06)
-by Gerard FarrÃ s i Ballabriga, mentored by Peter Poeml
+by Gerard Farràs i Ballabriga, mentored by Peter Poeml
 
 
 
 	
   * [GNOME Build service client for OpenSUSE  ](http://code.google.com/soc/2008/suse/appinfo.html?csaid=23D9AC2C564C4A2F)
-by [Mario ÄaniÄ‡](http://pygi.wordpress.com/), mentored by Rodrigo Moya
+by [Mario ÐaniÇ](http://pygi.wordpress.com/), mentored by Rodrigo Moya
 
 
 
@@ -66,7 +66,7 @@ by Hameedullah Khan, mentored by Cornelius Schumacher
 
 	
   * [Migration asistent reloaded  ](http://code.google.com/soc/2008/suse/appinfo.html?csaid=538E238CFCB2A77E)
-by Peter LibiÄ, mentored by Pavol Rusnak
+by Peter LibiÍ, mentored by Pavol Rusnak
 
 
 

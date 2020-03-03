@@ -53,7 +53,7 @@ These year, three of our main European [openSUSE administrators](http://en.opens
 
 
 	
-  * Markus RÃ¼ckert
+  * Markus Rückert
 
 	
   * Martin Caj

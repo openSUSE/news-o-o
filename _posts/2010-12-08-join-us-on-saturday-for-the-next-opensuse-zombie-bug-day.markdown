@@ -5,7 +5,7 @@ date: 2010-12-08 21:04:23+00:00
 layout: post
 link: https://news.opensuse.org/2010/12/08/join-us-on-saturday-for-the-next-opensuse-zombie-bug-day/
 slug: join-us-on-saturday-for-the-next-opensuse-zombie-bug-day
-title: "Join us on Saturday for the next openSUSE â€œZombieâ€\x9D Bug Day"
+title: "Join us on Saturday for the next openSUSE “Zombie” Bug Day"
 wordpress_id: 5786
 categories:
 - Events

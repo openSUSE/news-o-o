@@ -10,4 +10,4 @@ title: Project Meeting 2009-03-11
 wordpress_id: 1205
 ---
 
-openSUSE Project Meeting for Wednesday March 11, 2009.Â  Will be held in #opensuse-project on Freenode at 17:00 UTC, 18:00 CET.
+openSUSE Project Meeting for Wednesday March 11, 2009.  Will be held in #opensuse-project on Freenode at 17:00 UTC, 18:00 CET.

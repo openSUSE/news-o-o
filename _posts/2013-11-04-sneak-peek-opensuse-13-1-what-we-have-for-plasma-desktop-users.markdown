@@ -37,7 +37,7 @@ Note that much of the competition, both Free and Proprietary, still has not full
 
 Instead of building a single interface, it was decided to build a framework for building user interfaces: Plasma. On top of this framework, the team would develop a traditional desktop workspace: Plasma Desktop. As an experiment, a phone workspace was written as well (Plasma Mobile) and later, Plasma Netbook was put together.
 
-While each of these offered vastly different interfaces to the user, they shared over 90% of the underlying functionality and a totally new user experience could be developed in a matter of weeks! In a [recent comment](http://vizzzion.org/blog/2013/10/reconstructing-plasma/comment-page-1/#comment-22312) on his own blog, Sebastian KÃ¼gler calls it:
+While each of these offered vastly different interfaces to the user, they shared over 90% of the underlying functionality and a totally new user experience could be developed in a matter of weeks! In a [recent comment](http://vizzzion.org/blog/2013/10/reconstructing-plasma/comment-page-1/#comment-22312) on his own blog, Sebastian Kügler calls it:
 
 
 <blockquote>"_Specification, instead of dumbing down onto the lowest common denominator_"</blockquote>
@@ -56,7 +56,7 @@ Scripting is a part of this as well. Window manager KWin offers interesting scri
 Unlike its most prominent competitors on Linux, KDE has a focus on users who spend large amounts of time computing. As it was [said by Ton](http://code.blender.org/index.php/2013/10/redefining-blender/), chairman of the Blender Foundation:
 
 
-<blockquote>_"If you choose to develop 3D tools to be easy to learn, you will make decisions to sacrifice speed and ease of use for frequent users. You will have to narrow down to a UI thatâ€™s optimal for generic (beginner) use cases more than for users who want to handle complexity and who have time for quality."_</blockquote>
+<blockquote>_"If you choose to develop 3D tools to be easy to learn, you will make decisions to sacrifice speed and ease of use for frequent users. You will have to narrow down to a UI that’s optimal for generic (beginner) use cases more than for users who want to handle complexity and who have time for quality."_</blockquote>
 
 
 This is not only true for advanced 3D modeling applications but many more. Once you sit behind a desktop for 6 or 8 hours a day you care about having an efficient workflow so you can get your work done as quickly as possible. This requires a level of flexibility and configurability Plasma Desktop can uniquely offer. Adapting and providing more options to how the user works instead of forcing him/her in a fixed workflow is where KDE software excels at. Of course, ease of use and the flexibility required for efficient working are not always at odds and the KDE team is continuing to look for ways of making things **BOTH** easier and faster.

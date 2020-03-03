@@ -13,7 +13,7 @@ tags:
 - wiki
 ---
 
-As mentioned in earlier posts, the new English wiki is scheduled to go live on Monday.Â  Here are a few technical details about the change itself:
+As mentioned in earlier posts, the new English wiki is scheduled to go live on Monday.  Here are a few technical details about the change itself:
 
 
 
@@ -60,4 +60,4 @@ As mentioned in earlier posts, the new English wiki is scheduled to go live on M
 
 
 
-The wiki team has worked hard to get the new wiki tested and perfected for Monday.Â  However, if any issues are discovered after the switch, please send a message to webmaster@opensuse.org or file a bug at http://bugzilla.novell.com under the openSUSE.org product.
+The wiki team has worked hard to get the new wiki tested and perfected for Monday.  However, if any issues are discovered after the switch, please send a message to webmaster@opensuse.org or file a bug at http://bugzilla.novell.com under the openSUSE.org product.

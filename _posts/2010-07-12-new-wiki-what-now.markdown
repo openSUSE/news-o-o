@@ -19,7 +19,7 @@ We just switched to the new wiki. So here it is. And now? Let me explain what yo
 ### Create your user page
 
 
-Every user of the wiki has a personal page and we did not transfer any of them. We wanted to use this opportunity to brush them up and standardize them. Your userpage should be your first task in the new wiki. If your username is Geeko, just go to [http://en.opensuse.org/User:Geeko](http://en.opensuse.org/User:Geeko) and press **"create"**.Â  After that load the userpage teamplate by pressing on the** "Load" **button. Then fill out the form and you will get a nice standardized userpage!
+Every user of the wiki has a personal page and we did not transfer any of them. We wanted to use this opportunity to brush them up and standardize them. Your userpage should be your first task in the new wiki. If your username is Geeko, just go to [http://en.opensuse.org/User:Geeko](http://en.opensuse.org/User:Geeko) and press **"create"**.  After that load the userpage teamplate by pressing on the** "Load" **button. Then fill out the form and you will get a nice standardized userpage!
 [![](/wp-content/uploads/2010/07/userpage1.png)](http://en.opensuse.org/User:Geeko)
 
 You can also of course transfer your old userpage. Just go to http://old-en.opensuse.org/User:Geeko to find the content.

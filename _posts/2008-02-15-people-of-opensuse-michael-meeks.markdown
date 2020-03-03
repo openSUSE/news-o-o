@@ -304,7 +304,7 @@ Really, I'm just interested in software, so - I would like to know more about mo
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 I'd feel pretty good, I could get on with some fun hacking without getting any mail - and even better than that, no-one could be sending me any, so there would be no back-log; in fact it sounds wonderful - perhaps I should invest in a ship anchor sharpening scheme.
@@ -374,7 +374,7 @@ My parents were teachers, and so we used to really go for active vacations - cli
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 There is a joke in my family, from a rather shocking incident overheard at school where a father told his son (who had just been given some cash) he would "double it for him on the slots". So clearly with $1 million: first, double it on the slot machines. Beyond that, it'd be lovely to be able to help some poorer people with the money. Then, I guess I'd invest it and live off the income - hacking for fun, on openSUSE for example.
@@ -384,7 +384,7 @@ There is a joke in my family, from a rather shocking incident overheard at schoo
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Palestine, around AD 30, listening at the feet of a certain carpenter I admire.
@@ -394,7 +394,7 @@ Palestine, around AD 30, listening at the feet of a certain carpenter I admire.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No, should I ? when I was in an R&D team designing bits of hardware for real-time video editing & test at Quantel as a student, we had to send things off for EMC testing, complete with massive power spikes and so on, now I leave everything on all the time.

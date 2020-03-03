@@ -16,7 +16,7 @@ tags:
 - yastie
 ---
 
-The openSUSE Project and YaST team are happy to announce the winner of the [YaST Mascot Contest](//news.opensuse.org/2008/10/21/yast-mascot-contest/). After extensive deliberation, the judges have chosen the [Aardvark concept](http://en.opensuse.org/Image:Fixme.png), submitted by KlÃ¡ra CihlÃ¡Å™ovÃ¡.
+The openSUSE Project and YaST team are happy to announce the winner of the [YaST Mascot Contest](//news.opensuse.org/2008/10/21/yast-mascot-contest/). After extensive deliberation, the judges have chosen the [Aardvark concept](http://en.opensuse.org/Image:Fixme.png), submitted by Klára Cihlářová.
 
 The judges have also settled on a name for the mascot, which will be called Yastie.
 

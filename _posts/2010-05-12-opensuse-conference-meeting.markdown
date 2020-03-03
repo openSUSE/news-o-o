@@ -10,7 +10,7 @@ title: openSUSE Conference Meeting
 wordpress_id: 3281
 ---
 
-This meeting is to prepare for the openSUSE conference in October 2010 in NÃ¼rnberg, Germany. Currently we work on the finalization of the call for papers. Feel free to join and shape the openSUSE conference.
+This meeting is to prepare for the openSUSE conference in October 2010 in Nürnberg, Germany. Currently we work on the finalization of the call for papers. Feel free to join and shape the openSUSE conference.
 
 The meeting takes place in IRC on Freenode at #opensuse-project
 

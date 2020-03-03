@@ -14,7 +14,7 @@ categories:
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #62 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/62)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * openSUSE Project Meeting next Wednesday 
@@ -25,7 +25,7 @@ In this weekâ€™s issue:
 
   * 11.2 Roadmap and Fixed Release Cycle for openSUSE 
 
-  * Rupert HorstkÃ¶tter: OSF Status Report #3 
+  * Rupert Horstkötter: OSF Status Report #3 
 
 
 

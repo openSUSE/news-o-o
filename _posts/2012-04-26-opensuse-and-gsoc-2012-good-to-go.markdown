@@ -44,25 +44,25 @@ But we've managed to extract 12 proposals out of the brilliance thrown at us and
 
 
 	
-    * **Adding an Ambassador/Event plugin to openSUSE Connect** -Â  Athanasios-Ilias Rousinopoulos will be adding event calendering to openSUSE connect, to make it easier to plan openSUSE events.
+    * **Adding an Ambassador/Event plugin to openSUSE Connect** -  Athanasios-Ilias Rousinopoulos will be adding event calendering to openSUSE connect, to make it easier to plan openSUSE events.
 
 	
-    * **Writing a better looking 1-Click Install client** -Â  Saurabh Sood will be working on replacing the existing YAST-based 1-click installer with something much nicer looking.
+    * **Writing a better looking 1-Click Install client** -  Saurabh Sood will be working on replacing the existing YAST-based 1-click installer with something much nicer looking.
 
 	
-    * **Â Completing AppStream/Software-Center support for openSUSE -**Â  Matthias Klumpp will be working on [Appstream](http://en.wikipedia.org/wiki/AppStream)
+    * ** Completing AppStream/Software-Center support for openSUSE -**  Matthias Klumpp will be working on [Appstream](http://en.wikipedia.org/wiki/AppStream)
 
 	
-    * **Improving the MongoDB destination driver for syslog-ng** -Â  Eun Kyung will be enhancing syslog-ng's Mongo support.
+    * **Improving the MongoDB destination driver for syslog-ng** -  Eun Kyung will be enhancing syslog-ng's Mongo support.
 
 	
-    * **Fixing/implementing automated kernel/glibc tests -Â ** Marios Makris will be improving [Linux Test Project](http://ltp.sourceforge.net/) coverage.
+    * **Fixing/implementing automated kernel/glibc tests - ** Marios Makris will be improving [Linux Test Project](http://ltp.sourceforge.net/) coverage.
 
 	
     * **openSUSE Karma plugin for openSUSE Connect** -Priyanka Menghani will add a "karma" plugin to openSUSE Connect, similar to the "reputation" score on StackExchange.
 
 	
-    * **Further work on the osc2 client** -Â  Marcus HÃ¼we is going to continue his existing work on the next-generation osc client for the Open Build Service.
+    * **Further work on the osc2 client** -  Marcus Hüwe is going to continue his existing work on the next-generation osc client for the Open Build Service.
 
 	
     * **Popularity contest for RPM (popcorn) -** Akshit Khurana will be working on [popcorn](http://stick.gk2.sk/blog/2009/03/popcorn-popularity-contest-for-rpm/), which will be optionally installed on openSUSE systems and provide us with statistics about which packages are popular.
@@ -71,13 +71,13 @@ But we've managed to extract 12 proposals out of the brilliance thrown at us and
     * **Redesigning fdisk to be more extensible and implement GPT support -**Davidlohr Bueso will be cleaning up and refactoring everyone's favorite disk utility, fdisk.
 
 	
-    * **Scanny, a security scanner for Ruby code -** Piotr NieÅ‚acny will be be working on [scanny](https://github.com/openSUSE/scanny), a tool designed to alert developers to security errors in their Ruby code.
+    * **Scanny, a security scanner for Ruby code -** Piotr Niełacny will be be working on [scanny](https://github.com/openSUSE/scanny), a tool designed to alert developers to security errors in their Ruby code.
 
 	
-    * **An upstream/downstream tracker -**Â  N.B.Prashanth will write an "upstream/downstream" tracker tool that will track the differences between upstream versions and distro packages.
+    * **An upstream/downstream tracker -**  N.B.Prashanth will write an "upstream/downstream" tracker tool that will track the differences between upstream versions and distro packages.
 
 	
-    * **Writable snapshot support for ext4 snapshots -Â ** Yongqiang Yang will extend ext4 to support writeable snapshots.
+    * **Writable snapshot support for ext4 snapshots - ** Yongqiang Yang will extend ext4 to support writeable snapshots.
 
 
 

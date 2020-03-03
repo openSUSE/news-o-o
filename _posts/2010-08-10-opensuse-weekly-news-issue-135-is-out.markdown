@@ -46,7 +46,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 
 
 
-  * [ Weâ€™re a happy family â€“ The Boosters are hiring!](http://news.opensuse.org/?p=4032#We.E2.80.99re_a_happy_family_.E2.80.93_The_Boosters_are_hiring.21)
+  * [ We’re a happy family – The Boosters are hiring!](http://news.opensuse.org/?p=4032#We.E2.80.99re_a_happy_family_.E2.80.93_The_Boosters_are_hiring.21)
 
 
   * [ Miguel de Icaza: MonoTools 2 for VisualStudio has been released](http://news.opensuse.org/?p=4032#Miguel_de_Icaza:_MonoTools_2_for_VisualStudio_has_been_released)
@@ -299,7 +299,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Weâ€™re a happy family â€“ The Boosters are hiring!](http://news.opensuse.org/2010/08/05/were-a-happy-family-the-boosters-are-hiring/)
+####  [We’re a happy family – The Boosters are hiring!](http://news.opensuse.org/2010/08/05/were-a-happy-family-the-boosters-are-hiring/)
 
 
 "The openSUSE Boosters are a team of people helping developers of the openSUSE project to take off. It consists of people with skills ranging from low level C hackery over Ruby on Rails mastering to graphical design or project management. The team picks milestones and works on them in a agile fashion. They always follow their mantra: Grow community by enabling community"  
@@ -314,7 +314,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 ####  [Klaas Freitag: Status openFATE Milestone](http://lizards.opensuse.org/2010/08/06/status-openfate-milestone/)
 
 
-"Recently Henne Greenrock sent a status report about the Boosters Standup-Meeting here he said that nothing happened to the openFATE sprint. Well, thatâ€™s only partly true, so it seems to be time to take a closer look and revitalize the project openFATE a bit.  Whatâ€™s the matter with openFATE?  We did a good start with openFATE to involve everybody who is interested into product planning. However, after the screening team was formed it turned out that some parts of the process are not yet working well. The biggest problem is still that the screening team members can not move features from state UNCONFIRMED to NEW which turned out to be crucial for a fluent process. So the Boosters picked up the task since we think this is a huge blocker to work together as a community effectivly." 
+"Recently Henne Greenrock sent a status report about the Boosters Standup-Meeting here he said that nothing happened to the openFATE sprint. Well, that’s only partly true, so it seems to be time to take a closer look and revitalize the project openFATE a bit.  What’s the matter with openFATE?  We did a good start with openFATE to involve everybody who is interested into product planning. However, after the screening team was formed it turned out that some parts of the process are not yet working well. The biggest problem is still that the screening team members can not move features from state UNCONFIRMED to NEW which turned out to be crucial for a fluent process. So the Boosters picked up the task since we think this is a huge blocker to work together as a community effectivly." 
 </td>
 </tr>
 </tbody>
@@ -841,7 +841,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -906,10 +906,10 @@ Past:
   * [**August 04, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**August 05, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**August 05, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
-  * [**August 05, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**August 05, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * [**August 06, 2010: openSUSE GNOME IRC Meeting **](http://news.opensuse.org/2010/08/04/opensuse-gnome-irc-meeting/)
@@ -944,7 +944,7 @@ Past:
   * [**August 18, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**August 19, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**August 19, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * [**August 21-22, 2010: FrOSCon (St. Augustin/Germany; http://www.froscon.de/)**](http://news.opensuse.org/2010/04/19/froscon-st-augustin-germany/)
@@ -956,7 +956,7 @@ Past:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1063,7 +1063,7 @@ Past:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1363,7 +1363,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Masim Sugianto: Oracle VirtualBox 3.2.6 on openSUSE 11.3](http://vavai.net/2010/08/06/oracle-virtualbox-3-2-6-on-opensuse-11-3/)
 
 
-"Installing VirtualBox on openSUSE 11.3 has similar method as on openSUSE 11.2 with only a few changes : VirtualBox on openSUSE 11.3 need openSSL and PNG library as dependencies package.  Iâ€™m using VirtualBox 3.2.6 64 bit on openSUSE 11.3 64 bit on this article. You may also use this guide for installing VirtualBox 32 bit, there is no major difference between 2 version." 
+"Installing VirtualBox on openSUSE 11.3 has similar method as on openSUSE 11.2 with only a few changes : VirtualBox on openSUSE 11.3 need openSSL and PNG library as dependencies package.  I’m using VirtualBox 3.2.6 64 bit on openSUSE 11.3 64 bit on this article. You may also use this guide for installing VirtualBox 32 bit, there is no major difference between 2 version." 
 
 
   
@@ -1401,13 +1401,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Masim Sugianto: Script for Export-Import Zimbra Mail Server Account](http://vavai.net/2010/08/06/script-for-export-import-zimbra-mail-server-account-password/)
 
 
-"Zimbra save all account and profile information on the LDAP database. Zimbra has no function for only import and export itâ€™s account, although they have bundled Zimbra to Zimbra migration command. The Zimbra to Zimbra migration command export all mailbox and account while I only need a list of account with some primary fields like password, first name, full name, etc, especially for testing purpose only."  
+"Zimbra save all account and profile information on the LDAP database. Zimbra has no function for only import and export it’s account, although they have bundled Zimbra to Zimbra migration command. The Zimbra to Zimbra migration command export all mailbox and account while I only need a list of account with some primary fields like password, first name, full name, etc, especially for testing purpose only."  
 
 
 ####  [Masim Sugianto: KVM Virtualization on openSUSE 11.3](http://vavai.net/2010/08/05/kvm-virtualization-on-opensuse-11-3/)
 
 
-"Itâ€™s looks like that Iâ€™m off and hiatus from blog for a while so itâ€™s time to starting a new article and hope itâ€™s not for the last one :-D .  KVM (Kernel-based Virtual Machine) is currently popular terms among the virtualization technology. What makes it popular and become the strong competitor for Xen Hypervisor are the technology behind KVM and Red Hat decision to move focus on KVM instead of Xen for next release Red Hat Enterprise Linux 6.0. What makes KVM gains an advantage on the technology side are the inclusion KVM module into Linux kernel so we do not need a patch or different kernel as we need for Xen Hypervisor. Beside the two virtualization technology above, those are various virtualization technology running on Linux : VMWare, VirtualBox, OpenVZ etc but Xen and KVM are quite popular among others."  
+"It’s looks like that I’m off and hiatus from blog for a while so it’s time to starting a new article and hope it’s not for the last one :-D .  KVM (Kernel-based Virtual Machine) is currently popular terms among the virtualization technology. What makes it popular and become the strong competitor for Xen Hypervisor are the technology behind KVM and Red Hat decision to move focus on KVM instead of Xen for next release Red Hat Enterprise Linux 6.0. What makes KVM gains an advantage on the technology side are the inclusion KVM module into Linux kernel so we do not need a patch or different kernel as we need for Xen Hypervisor. Beside the two virtualization technology above, those are various virtualization technology running on Linux : VMWare, VirtualBox, OpenVZ etc but Xen and KVM are quite popular among others."  
 
 
 ####  [Linux Magazine/Dmitri Popov: Power Management with cpufrequtils](http://www.linux-magazine.com/Online/Blogs/Productivity-Sauce-Dmitri-s-open-source-blend-of-productive-computing/Power-Management-with-cpufrequtils)
@@ -1463,7 +1463,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Alex Barrios: Somethings to do after an openSUSE installation](http://lizards.opensuse.org/2010/08/01/somethings-to-do-after-an-opensuse-installation/)
 
 
-"Every time that I make a new openSUSE installation, I always add some additional stuff to get an even better user experience, thatâ€™s why I enumerate here the things that i suggest to you do after a successfully openSUSE installation.  Read well, read again, so you will not be lost. All the commands that I show here between double quotes (â€œ) for the time of the execution will go without the quotes and with the text in bold just like that."  
+"Every time that I make a new openSUSE installation, I always add some additional stuff to get an even better user experience, that’s why I enumerate here the things that i suggest to you do after a successfully openSUSE installation.  Read well, read again, so you will not be lost. All the commands that I show here between double quotes (“) for the time of the execution will go without the quotes and with the text in bold just like that."  
 
 
 ####  [OMG!SUSE! team: Kickin' it old school with KDE3](http://feedproxy.google.com/%7Er/omgsuse/%7E3/fbOd5lzxK2Y/kickin-it-old-school-kde3)
@@ -1487,25 +1487,25 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Jared Ottley: Alfresco: JMX from the command line](http://feeds.ottleys.net/%7Er/jaredottley/%7E3/Mbo7EUc3xWU/alfresco-jmx-from-the-command-line)
 
 
-"JMX is great. Alfresco and JMX is awesome. Iâ€™ve written before about configuring Alfresco to use tunneling to connect JMX & debuggers to servers that donâ€™t allow access to the higher numbered ports (or to only a few ports). Letâ€™s add another cool tool. (JMX is an Enterprise only feature of Alfresco.)  The Alfresco wiki covers a few of the clients that are available out there. Letâ€™s add another type to the list: JMX from the command line. There are a couple of options for us to choose from. I am partial to jmxterm from CyclopsGroups.org"  
+"JMX is great. Alfresco and JMX is awesome. I’ve written before about configuring Alfresco to use tunneling to connect JMX & debuggers to servers that don’t allow access to the higher numbered ports (or to only a few ports). Let’s add another cool tool. (JMX is an Enterprise only feature of Alfresco.)  The Alfresco wiki covers a few of the clients that are available out there. Let’s add another type to the list: JMX from the command line. There are a couple of options for us to choose from. I am partial to jmxterm from CyclopsGroups.org"  
 
 
-####  [Suresh Jayaraman: Local caching for CIFS network file system â€“ followup](http://lizards.opensuse.org/2010/08/05/local-caching-for-cifs-network-file-system-followup/)
+####  [Suresh Jayaraman: Local caching for CIFS network file system – followup](http://lizards.opensuse.org/2010/08/05/local-caching-for-cifs-network-file-system-followup/)
 
 
-"Hereâ€™s a follow-up to my previous post on [Hackweek V: Local caching for CIFS network file system](http://lizards.opensuse.org/2010/06/14/hackweek-v-local-caching-for-cifs-network-file-system/) Since the previous post, I worked on improving the patches that add local caching, fixed a few bugs, addressed review comments from the community and re-posted the patches. I also gave a talk about it at the SUSE Labs Conference 2010 took place at Prague. The slides can be found here: [FS-Cache aware CIFS](http://www.suse.com/%7Esjayaraman/talks/cifs-fsc-labsconf-2010.pdf)."  
+"Here’s a follow-up to my previous post on [Hackweek V: Local caching for CIFS network file system](http://lizards.opensuse.org/2010/06/14/hackweek-v-local-caching-for-cifs-network-file-system/) Since the previous post, I worked on improving the patches that add local caching, fixed a few bugs, addressed review comments from the community and re-posted the patches. I also gave a talk about it at the SUSE Labs Conference 2010 took place at Prague. The slides can be found here: [FS-Cache aware CIFS](http://www.suse.com/%7Esjayaraman/talks/cifs-fsc-labsconf-2010.pdf)."  
 
 
 ####  [Andreas Jaeger: Bugs will not get fixed by themselves](http://lizards.opensuse.org/2010/08/05/bugs-will-not-get-fixed-by-themselves/)
 
 
-"I received an email from a user who switched from openSUSE to Ubuntu since his Wireless netcard did not work. It worked with openSUSE 11.2 initially but after an online update it failed. He hoped that openSUSE 11.3 worked, tested it, it failed â€“ and he gave up and wrote a frustrated email.  I was frustrated reading this since we should have been able to help this user if he contacted us in time."  
+"I received an email from a user who switched from openSUSE to Ubuntu since his Wireless netcard did not work. It worked with openSUSE 11.2 initially but after an online update it failed. He hoped that openSUSE 11.3 worked, tested it, it failed – and he gave up and wrote a frustrated email.  I was frustrated reading this since we should have been able to help this user if he contacted us in time."  
 
 
 ####  [Sirko Kemter: openSUSE A-Z Contribution Guide](http://karl-tux-stadt.de/ktuxs/?p=2642)
 
 
-"A few hours ago asked Pavol me if I have a openSUSE graffiti with an geeko. Of course I have one, he said he needs it for some slides for his Launch Party on friday and I said I have slides with such an graffiti on it and send it to him. After a few minutes he said, thats exactly what he working on. We both had the same idea, we reusing Hennes and Vuntz talk from LinuxTag 2010. And here it is â€œThe ultimate A-Z openSUSE Contribution Guideâ€ in graffiti style." 
+"A few hours ago asked Pavol me if I have a openSUSE graffiti with an geeko. Of course I have one, he said he needs it for some slides for his Launch Party on friday and I said I have slides with such an graffiti on it and send it to him. After a few minutes he said, thats exactly what he working on. We both had the same idea, we reusing Hennes and Vuntz talk from LinuxTag 2010. And here it is “The ultimate A-Z openSUSE Contribution Guide” in graffiti style." 
 </td>
 </tr>
 </tbody>
@@ -1649,7 +1649,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [EasyLinuxCDs: MeeGo for IVI 1.0 Screenshots](http://easylinuxcds.com/blog/?p=3945)
 
 
-"f youâ€™re wondering exactly what MeeGo is, itâ€™s a combination of Intelâ€™s Moblin and Nokiaâ€™s Maemo project. This lightweight combination targets smartphones, netbooks, tablets, mediaphones, connected TVs and In-Vehicle Infotainment (IVI) systems. This specific release is for Atom-based IVI systems. These systems are designed to deliver things like navigation, entertainment, and networked computing services inside of cars, trucks, buses, planes and more. On their website MeeGo states â€œAs vehicles become connected to the internet, the demand for internet-based entertainment applications and services increases and MeeGo strives to accelerate the pace of innovation in IVI.â€" 
+"f you’re wondering exactly what MeeGo is, it’s a combination of Intel’s Moblin and Nokia’s Maemo project. This lightweight combination targets smartphones, netbooks, tablets, mediaphones, connected TVs and In-Vehicle Infotainment (IVI) systems. This specific release is for Atom-based IVI systems. These systems are designed to deliver things like navigation, entertainment, and networked computing services inside of cars, trucks, buses, planes and more. On their website MeeGo states “As vehicles become connected to the internet, the demand for internet-based entertainment applications and services increases and MeeGo strives to accelerate the pace of innovation in IVI.”" 
 
 
   
@@ -1666,7 +1666,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [The new look Techblog: In Search of the Perfect KDE4 Distro â€“ 2 Why Not openSUSE 11.3?](http://g33q.co.za/2010/08/01/in-search-of-the-perfect-kde4-distro-2-why-not-opensuse-11-3/)
+####  [The new look Techblog: In Search of the Perfect KDE4 Distro – 2 Why Not openSUSE 11.3?](http://g33q.co.za/2010/08/01/in-search-of-the-perfect-kde4-distro-2-why-not-opensuse-11-3/)
 
 
 "Okay, I have spent more than a week with openSUSE 11.3 KDE4. Right now I am downloading Linux Mint 9 KDE. I have not decided on my perfect KDE4 distro, but openSUSE 11.3 is a really strong contender. In this short writeup I will explore some reasons why I might NOT switch to it as my default OS."  
@@ -1771,7 +1771,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1780,7 +1780,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1831,7 +1831,7 @@ openSUSE Weekly News is translated into many languages.Issue #135 of the openSUS
   * [English](http://en.opensuse.org/Archive:Weekly_news_135)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/135)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/135)
 
 
 
@@ -1843,31 +1843,31 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/135)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/135)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/135)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/135)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/135)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/135)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/135)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/135/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/135/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/135/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/135)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/135)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/135)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/135)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/135)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/135)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/135)
@@ -1876,7 +1876,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/135/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/135)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/135)
 
 
 </td>

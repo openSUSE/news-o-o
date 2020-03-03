@@ -37,7 +37,7 @@ I will for sure forget something to list, but let me start.
     * Very interesting community talks from the Jordis, nice to meet you guys, and Benjamin.
 
 	
-    * We recorded all talks, you will find them with the slides on the openSUSE [wiki](http://en.opensuse.org/FOSDEM2008), keep in mind that JÃ¼rgen and Tom need some time for cutting/encoding.
+    * We recorded all talks, you will find them with the slides on the openSUSE [wiki](http://en.opensuse.org/FOSDEM2008), keep in mind that Jürgen and Tom need some time for cutting/encoding.
 
 
 

@@ -21,7 +21,7 @@ While on April 6th GNOME 3 was born, another kid became 20 years old! The Linux 
 
 The video should be 60 second long and celebrate the 20th Anniversary by showing the impact of Linux on culture and IT over the last 20 years. The more inspiring you can make it, the better!
 
-The winner of this yearâ€™s 20th Anniversary of Linux Video Contest will  win airfare, registration and hotel expenses to attend one of the  following events of their choice: [LinuxCon North America](http://events.linuxfoundation.org/events/linuxcon), [LinuxCon Europe](http://events.linuxfoundation.org/events/linuxcon-europe), SXSW 2012 or the LA Film Festival. The winning video will be unveiled at [LinuxCon](http://events.linuxfoundation.org/events/linuxcon) in Vancouver BC August 17-19, 2011.
+The winner of this year’s 20th Anniversary of Linux Video Contest will  win airfare, registration and hotel expenses to attend one of the  following events of their choice: [LinuxCon North America](http://events.linuxfoundation.org/events/linuxcon), [LinuxCon Europe](http://events.linuxfoundation.org/events/linuxcon-europe), SXSW 2012 or the LA Film Festival. The winning video will be unveiled at [LinuxCon](http://events.linuxfoundation.org/events/linuxcon) in Vancouver BC August 17-19, 2011.
 
 Ranking is based on community voting with the final decision being made by uber-penguin Linus Torvalds himself!
 

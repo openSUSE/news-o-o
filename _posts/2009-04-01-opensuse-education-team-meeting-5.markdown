@@ -16,7 +16,7 @@ tags:
 The next openSUSE-Education meeting will take place at the official #opensuse-edu IRC channel on freenode (irc://irc.freenode.net/opensuse-edu) on Tuesday
 
 
-**Tuesday 2009-04-07Â [17:00 (UTC/GMT)](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2009&mo=04&d=07&h=17&mn=0)**
+**Tuesday 2009-04-07 [17:00 (UTC/GMT)](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2009&mo=04&d=07&h=17&mn=0)**
 (click on the time to convert UTC/GMT to your time zone)
 
 
@@ -39,10 +39,10 @@ For general info about our IRC meetings read:
   * [http://en.opensuse.org/Education/Meetings](http://en.opensuse.org/Education/Meetings)
 
 
-For a general technical introduction to IRC (Internet Relay Chat) seeÂ [http://www.irchelp.org/](http://www.irchelp.org/) ;(not affiliated with openSUSE) or enter â€œIRC helpâ€ into your preferred search engine.
+For a general technical introduction to IRC (Internet Relay Chat) see [http://www.irchelp.org/](http://www.irchelp.org/) ;(not affiliated with openSUSE) or enter “IRC help” into your preferred search engine.
 
-The network we use is freenode - for more information on this, including how to find a server, visitÂ [http://freenode.net/](http://freenode.net/) ;(not affiliated with openSUSE either).
+The network we use is freenode - for more information on this, including how to find a server, visit [http://freenode.net/](http://freenode.net/) ;(not affiliated with openSUSE either).
 
-Have a lot of fun â€¦
+Have a lot of fun …
 
 Lars (on behalf of the openSUSE-Education Team)

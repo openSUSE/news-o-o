@@ -129,7 +129,7 @@ like spring best.
 #### Please introduce yourself!
 
 
-I've been born in HÃ¼ckeswagen, a small town east of Cologne in Germany, 38 years ago.  I have studied computer science at the University of Kaiserslautern where I also met my wife, Jana.  Together we moved to FÃ¼rth.  I'm employed by Novell's subsidiary SUSE Linux. As Director openSUSE/platform I am responsible for the openSUSE project and for the basis of the distribution ("platform") which is shared between our openSUSE and enterprise products.
+I've been born in Hückeswagen, a small town east of Cologne in Germany, 38 years ago.  I have studied computer science at the University of Kaiserslautern where I also met my wife, Jana.  Together we moved to Fürth.  I'm employed by Novell's subsidiary SUSE Linux. As Director openSUSE/platform I am responsible for the openSUSE project and for the basis of the distribution ("platform") which is shared between our openSUSE and enterprise products.
 
 
 
@@ -139,7 +139,7 @@ I've been born in HÃ¼ckeswagen, a small town east of Cologne in Germany, 38 ye
 #### Tell us about the background to your computer use.
 
 
-I've been using computers since the age of 15.  My first computer was a Schneider CPC 464, but I did my first minor programming on a C64.  I studied computer science and assembled a new computer together in 1994 - my first PC - and had only Linux running on it.  At that point it was a Linux distribution made by a company called S.u.S.E. from FÃ¼rth. "Never change a running system" was never applied to my system and I updated quite often - especially the kernel.  After working with Solaris at university and missing some functionality on my libc5 Linux system, I looked closer at the GNU C Library and helped to improve it.
+I've been using computers since the age of 15.  My first computer was a Schneider CPC 464, but I did my first minor programming on a C64.  I studied computer science and assembled a new computer together in 1994 - my first PC - and had only Linux running on it.  At that point it was a Linux distribution made by a company called S.u.S.E. from Fürth. "Never change a running system" was never applied to my system and I updated quite often - especially the kernel.  After working with Solaris at university and missing some functionality on my libc5 Linux system, I looked closer at the GNU C Library and helped to improve it.
 
 
 
@@ -316,7 +316,7 @@ I would rather have some more "soft" skills.  Computer-related I would like to h
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 Take a vacation walking in the Alps with my wife and our digital cameras and hope that we can still upload the photos afterwards.
@@ -376,7 +376,7 @@ Visiting the countryside, walking, taking photos - and some good food at the end
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 Buying a house in an area where I could live without any car - and then buying my first car.
@@ -386,7 +386,7 @@ Buying a house in an area where I could live without any car - and then buying m
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 I would like to sneak in the future and see what will happen with mankind.  I guess most likely you would find me 50 to 200 years ago - watching how many new ideas where formed and changed the world and visiting places before these new ideas changed them.
@@ -396,7 +396,7 @@ I would like to sneak in the future and see what will happen with mankind.  I gu
 
 
 
-#### There's a thunderstorm outside â€“ do you turn off your computer?
+#### There's a thunderstorm outside – do you turn off your computer?
 
 
 No.

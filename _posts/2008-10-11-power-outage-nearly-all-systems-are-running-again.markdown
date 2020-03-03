@@ -12,6 +12,6 @@ categories:
 - Infrastructure
 ---
 
-Our admins and developers - in Nuernberg, Provo and from home offices - worked hard today to get all openSUSE services up and running again.Â  Thanks a lot to all of them!
+Our admins and developers - in Nuernberg, Provo and from home offices - worked hard today to get all openSUSE services up and running again.  Thanks a lot to all of them!
 
-Nearly all services are be up and running again.Â  The only exceptions are the services features and ideas, these will be restarted latest by Monday.
+Nearly all services are be up and running again.  The only exceptions are the services features and ideas, these will be restarted latest by Monday.

@@ -5,7 +5,7 @@ date: 2010-10-26 08:54:31+00:00
 layout: post
 link: https://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/
 slug: from-the-developer-to-the-user-and-back-announcing-project-bretzn
-title: From the Developer to the User and back â€“ Announcing Project Bretzn
+title: From the Developer to the User and back – Announcing Project Bretzn
 wordpress_id: 5267
 categories:
 - Distribution

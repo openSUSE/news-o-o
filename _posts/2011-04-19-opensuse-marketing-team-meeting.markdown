@@ -10,7 +10,7 @@ title: openSUSE Marketing Team Meeting
 wordpress_id: 8492
 ---
 
-The monthly openSUSE Marketing Team [Meeting](http://en.opensuse.org/openSUSE:Marketing_meeting) is held on the third Tuesday of each month at 15:00 UTC on Freenode IRC network, channel #openSUSE-Marketing.Â  All are welcome to join and participate.
+The monthly openSUSE Marketing Team [Meeting](http://en.opensuse.org/openSUSE:Marketing_meeting) is held on the third Tuesday of each month at 15:00 UTC on Freenode IRC network, channel #openSUSE-Marketing.  All are welcome to join and participate.
 
 To view the most current proposed agenda and further details, check the [openSUSE wiki](http://en.opensuse.org/openSUSE:Marketing_meeting).[
 ](http://en.opensuse.org/openSUSE:Marketing_meeting)

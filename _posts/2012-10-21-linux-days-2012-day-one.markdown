@@ -25,11 +25,11 @@ Some noted that due to the increased size and scope it felt more like FOSDEM or 
 
 [![](/wp-content/uploads/2012/10/Day1-Saturday-16_DSC_7300.jpg)](http://news.opensuse.org/2012/10/21/linux-days-2012-day-one/day1-saturday-16_dsc_7300/)
 
-InÂ **Defensive Publications,Â **Armijn Hemel spoke about the dangers facing Free Software projects due to software patents, and the opportunity to protect ourselves by using projects like linuxdefenders.org.
+In **Defensive Publications, **Armijn Hemel spoke about the dangers facing Free Software projects due to software patents, and the opportunity to protect ourselves by using projects like linuxdefenders.org.
 
 Lydia Pintscher of WikiMedia Deutschland presented the challenge in opening up participation in WikiData projects to everyone in Wi**kidata - Wikimedia going structured data.[![](/wp-content/uploads/2012/10/Day1-Saturday-39_DSC_7388.jpg)](http://news.opensuse.org/2012/10/21/linux-days-2012-day-one/day1-saturday-39_dsc_7388/)**
 
-Georg Greve ended his talkÂ **What you don't understand will still control you**Â by pointing out that these days, little has more influence on the
+Georg Greve ended his talk **What you don't understand will still control you** by pointing out that these days, little has more influence on the
 world than software. Those writing software are the modern sorcerers; and we need more sorcerers on the side of Freedom.[![](/wp-content/uploads/2012/10/Day1-Saturday-46_DSC_7399.jpg)](http://news.opensuse.org/2012/10/21/linux-days-2012-day-one/day1-saturday-46_dsc_7399/)
 
-The evening finished with a party atÂ **Klub Lavka**. Despite a few communications failures over the catering, a good time was had by all.
+The evening finished with a party at **Klub Lavka**. Despite a few communications failures over the catering, a good time was had by all.

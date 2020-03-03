@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-As announced [previously](http://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/), the openSUSE Board and its Strategy Team have worked on three strategic proposals to define the direction of openSUSE's future, as a Project, Community and distribution.Â  Each strategy proposal includes the same community statement.Â  We will therefore discuss the community statement and the three strategies separately.
+As announced [previously](http://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/), the openSUSE Board and its Strategy Team have worked on three strategic proposals to define the direction of openSUSE's future, as a Project, Community and distribution.  Each strategy proposal includes the same community statement.  We will therefore discuss the community statement and the three strategies separately.
 
 
 ### Focused Discussion
@@ -49,7 +49,7 @@ What do we want to achieve with these discussions?
   * Figure out which strategy proposal is best, so pros and cons of each ones.
 
 
-Note that each statement contains three lists of activities describing current activities the openSUSE Project does and possible future activities (or tasks).Â  The first list ("We need to be excellent in the following") describes the items that we want to do really excellent and better than everybody else.Â  The second list ("We will try to do the following effectively") are needed to do but we don't need to strive for excellence, just for effectiveness.Â  The third list ("We will not focus on the following anymore") are activities we will not do at all as part of the project but rather rely on other FOSS projects.
+Note that each statement contains three lists of activities describing current activities the openSUSE Project does and possible future activities (or tasks).  The first list ("We need to be excellent in the following") describes the items that we want to do really excellent and better than everybody else.  The second list ("We will try to do the following effectively") are needed to do but we don't need to strive for excellence, just for effectiveness.  The third list ("We will not focus on the following anymore") are activities we will not do at all as part of the project but rather rely on other FOSS projects.
 
 In the end, we'd like to have a vote by the openSUSE members on which strategy to choose.
 

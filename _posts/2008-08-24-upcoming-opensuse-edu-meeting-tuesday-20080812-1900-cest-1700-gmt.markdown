@@ -13,10 +13,10 @@ wordpress_id: 976
 Hi all Education fans!
 
 
-The next openSUSE-Education meeting will take place at the official #opensuse-edu IRC channel on freenodeÂ  ([irc://irc.freenode.net/opensuse-edu](irc://irc.freenode.net/opensuse-edu)) on Tuesday
+The next openSUSE-Education meeting will take place at the official #opensuse-edu IRC channel on freenode  ([irc://irc.freenode.net/opensuse-edu](irc://irc.freenode.net/opensuse-edu)) on Tuesday
 
 
-**2008/09/02 Â [17:00 UTC/GMT](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2008&mo=09&d=02&h=17&mn=0)**
+**2008/09/02  [17:00 UTC/GMT](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2008&mo=09&d=02&h=17&mn=0)**
 
 
 This meeting is meant to discuss the latest developments in and around openSUSE-Education. Please add your topics to the meeting wiki page at:

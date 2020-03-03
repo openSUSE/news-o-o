@@ -18,7 +18,7 @@ categories:
 ## Passwords: Safe! Emails: Not so much :-/
 
 
-Credentials for your openSUSE login are not saved in our application databases as we use a single-sign-on systemÂ ([Access Manager from NetIQ](https://www.netiq.com/products/access-manager/)) for all our services. This is a completely separate system and it has not been compromised by this crack. What the cracker reported as compromised passwords where indeed random, automatically set strings that are in no way connected to your real password.
+Credentials for your openSUSE login are not saved in our application databases as we use a single-sign-on system ([Access Manager from NetIQ](https://www.netiq.com/products/access-manager/)) for all our services. This is a completely separate system and it has not been compromised by this crack. What the cracker reported as compromised passwords where indeed random, automatically set strings that are in no way connected to your real password.
 
 However, some user data is stored in the local database for convenience, in the case of the forum the user email addresses. Those the hackers had access too and we're very sorry for this data leak!
 

@@ -44,16 +44,16 @@ With OBS 2.0, review handling by a team is supported and roles can get assigned 
 The access control enforcement feature of OBS 1.8 allows access for projects, packages and repositories to be restricted to specified users and groups. This acknowledges privacy concerns of users.
 
 
-<blockquote>"The openSUSE Build Service has substantial momentum in the mobile and embedded space, specifically being used now by the MeeGo project. The Linux Foundation is proud to be a strong contributor to OBS, including making substantial contributions to these new releases and features. We look forward to working with our members on OBS-related projects.â€ </blockquote>
+<blockquote>"The openSUSE Build Service has substantial momentum in the mobile and embedded space, specifically being used now by the MeeGo project. The Linux Foundation is proud to be a strong contributor to OBS, including making substantial contributions to these new releases and features. We look forward to working with our members on OBS-related projects.” </blockquote>
 
 
 said Amanda McPherson, vice president marketing and developer services at the Linux Foundation.
 
 
-<blockquote>â€œThe openSUSE Build Service 2.0 release is a significant improvement for developers, it eases collaboration with the broader open source community due to supporting anonymous access. Developers can get their job better done with the new WebUI and the faster and more flexible OBS. â€</blockquote>
+<blockquote>“The openSUSE Build Service 2.0 release is a significant improvement for developers, it eases collaboration with the broader open source community due to supporting anonymous access. Developers can get their job better done with the new WebUI and the faster and more flexible OBS. ”</blockquote>
 
 
-said Michael LÃ¶ffler, chairperson of the openSUSE Board.
+said Michael Löffler, chairperson of the openSUSE Board.
 
 
 

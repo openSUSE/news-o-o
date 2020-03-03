@@ -351,7 +351,7 @@ Web development.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Finally, free time to work on the construction of my house!
@@ -388,7 +388,7 @@ Probably Star Wars.
 
 Whatever my wife and I cook :)
 
-Mexican (in its many sub-cuisines - Oaxaca, YucatÃ¡n, Veracruz, central Mexico...), Indian, Chinese, Mediterranean, Japanese...
+Mexican (in its many sub-cuisines - Oaxaca, Yucatán, Veracruz, central Mexico...), Indian, Chinese, Mediterranean, Japanese...
 
 Drink --- I'm not much of a drinker.  Good, strong beer.  White Russians.
 
@@ -441,7 +441,7 @@ With my wife, eating a lot, and taking lots of pictures in interesting places.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 That's US dollars?
@@ -457,7 +457,7 @@ Use the rest to buy an empty lot and build a nice house.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Somewhere in the 14th or 16th century.
@@ -467,7 +467,7 @@ Somewhere in the 14th or 16th century.
 
 
 
-#### There's a thunderstorm outside Â¯ do you turn off your computer?
+#### There's a thunderstorm outside ¯ do you turn off your computer?
 
 
 Nah.

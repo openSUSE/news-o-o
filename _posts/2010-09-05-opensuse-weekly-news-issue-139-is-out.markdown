@@ -47,7 +47,7 @@ Now we are ready. We're pleased to announce our new openSUSE Weekly News #139. E
   * [ Strategy sucks](http://news.opensuse.org/?p=4162#Strategy_sucks)
 
 
-  * [ Rares Aioanei: OpenSUSE kernel news â€“ 04.09.2010](http://news.opensuse.org/?p=4162#Rares_Aioanei:_OpenSUSE_kernel_news_.E2.80.93_04.09.2010)
+  * [ Rares Aioanei: OpenSUSE kernel news – 04.09.2010](http://news.opensuse.org/?p=4162#Rares_Aioanei:_OpenSUSE_kernel_news_.E2.80.93_04.09.2010)
 
 
   * [ IBM developerWorks/Roderick W. Smith: Resizing Linux partitions, Part 2: Advanced resizing](http://news.opensuse.org/?p=4162#IBM_developerWorks.2FRoderick_W._Smith:_Resizing_Linux_partitions.2C_Part_2:_Advanced_resizing)
@@ -56,7 +56,7 @@ Now we are ready. We're pleased to announce our new openSUSE Weekly News #139. E
   * [ Google Video/Chat Plugin](http://news.opensuse.org/?p=4162#Google_Video.2FChat_Plugin)
 
 
-  * [ KDE News/Sebastian KÃ¼gler: Help Test the Next Generation of KDE's Kontact](http://news.opensuse.org/?p=4162#KDE_News.2FSebastian_K.C3.BCgler:_Help_Test_the_Next_Generation_of_KDE.27s_Kontact)
+  * [ KDE News/Sebastian Kügler: Help Test the Next Generation of KDE's Kontact](http://news.opensuse.org/?p=4162#KDE_News.2FSebastian_K.C3.BCgler:_Help_Test_the_Next_Generation_of_KDE.27s_Kontact)
 
 
 
@@ -299,19 +299,19 @@ Now we are ready. We're pleased to announce our new openSUSE Weekly News #139. E
 ####  [openSUSE Announce First 11.4 Development Milestone With Improved Package Management Performance, New XOrg, KDE and GNOME](http://news.opensuse.org/2010/09/02/opensuse-announce-first-11-4-development-milestone-with-improved-package-management-performance-new-xorg-kde-and-gnome/)
 
 
-"openSUSE 11.4 Milestone 1 is available today, Thursday, September 2 for developers, testers and community members to test and participate in the development of openSUSE 11.4. M1 starts off openSUSE 11.4 development at a cracking pace with performance improvements in the package management network layer and version updates to major components.  This milestone contains libzypp version 8.1, which has a new backend for http and ftp package downloads. MultiCurl replaces the old MediaAria backend, and brings support for zsync transfers and better Metalink download support. These will improve both repository refresh and package install and update performance. Metalink allows the mï»¿ulti-channel download of packages by downloading the individual blocks of a package in parallel from multiple servers. ZSync reduces the amount of data to download by only fetching the changed parts of a file instead of the whole file. This speeds up repository refreshes, since due to the way the repository data is structured, it is easy to locate the parts of the metadata that changed since the last update. The new Curl-based zypp backend also gives libzypp and therefore zypper and YaST better support for network proxies, by using the same proxy configuration as the rest of YaST instead of its own, and adds support for HTTP BASIC password-protected repositories. And as an added bonus, MultiCurl should eliminate slow and hanging package installations that occurred due to bugs in the old MediaAria backend."  
+"openSUSE 11.4 Milestone 1 is available today, Thursday, September 2 for developers, testers and community members to test and participate in the development of openSUSE 11.4. M1 starts off openSUSE 11.4 development at a cracking pace with performance improvements in the package management network layer and version updates to major components.  This milestone contains libzypp version 8.1, which has a new backend for http and ftp package downloads. MultiCurl replaces the old MediaAria backend, and brings support for zsync transfers and better Metalink download support. These will improve both repository refresh and package install and update performance. Metalink allows the m﻿ulti-channel download of packages by downloading the individual blocks of a package in parallel from multiple servers. ZSync reduces the amount of data to download by only fetching the changed parts of a file instead of the whole file. This speeds up repository refreshes, since due to the way the repository data is structured, it is easy to locate the parts of the metadata that changed since the last update. The new Curl-based zypp backend also gives libzypp and therefore zypper and YaST better support for network proxies, by using the same proxy configuration as the rest of YaST instead of its own, and adds support for HTTP BASIC password-protected repositories. And as an added bonus, MultiCurl should eliminate slow and hanging package installations that occurred due to bugs in the old MediaAria backend."  
 
 
 ####  [openSUSE Connect Beta](http://news.opensuse.org/2010/09/03/opensuse-connect-beta/)
 
 
-"As a result of the openSUSE Boostersâ€™ â€˜HackMeckâ€˜ two weeks ago at FrOSCoN we are proud to present you with a new beta of openSUSE Connect.  Connect is supposed to become the central user database for the openSUSE project. Sounds bland, donâ€t it? But you know the Boosters, everything we do comes with a grain of spice and Connect is no different. The spice here are a lot of nifty social network features like user profiles, friending, groups, an event calendar and possibly more. Thats possible because on top of the user database we use a Free Software social network framework called Elgg. Elgg will help us to go a step further in one of the most important areas of the openSUSE project: Connecting our community. We do a very good job connecting code at the moment but there is no central place for openSUSE users to mingle, form relationships and meet collaborators."  
+"As a result of the openSUSE Boosters’ ‘HackMeck‘ two weeks ago at FrOSCoN we are proud to present you with a new beta of openSUSE Connect.  Connect is supposed to become the central user database for the openSUSE project. Sounds bland, don”t it? But you know the Boosters, everything we do comes with a grain of spice and Connect is no different. The spice here are a lot of nifty social network features like user profiles, friending, groups, an event calendar and possibly more. Thats possible because on top of the user database we use a Free Software social network framework called Elgg. Elgg will help us to go a step further in one of the most important areas of the openSUSE project: Connecting our community. We do a very good job connecting code at the moment but there is no central place for openSUSE users to mingle, form relationships and meet collaborators."  
 
 
 ####  [Strategy sucks](http://news.opensuse.org/2010/09/03/strategy-sucks/)
 
 
-"Over the last weeks there has been a lot of disussion, both internally and externally, about the strategies which have been proposed. However, we also missed a lot of voices from our community. We take responsibility for leaving many of you behind by focusing on a very corporate-management solution to the initial question which prompted this process. A question we think still is relevant: The identity of openSUSE both as a Community and as a Project.  Initially our goal was to answer: â€Who is openSUSE and what does it (want to) do?â€ prompted by the discussion about the default desktop at the openSUSE conference last year. In five years the openSUSE project has evolved from a fully company-driven project to a communty project where everybody can contribute. This has brought uncertainty and a lack of direction. The current lack of a clear â€˜story behind it allâ€™ is hampering our ability to establish a common identity and sense of security. From a marketing point of view, it becomes an uphill battleâ€¦" 
+"Over the last weeks there has been a lot of disussion, both internally and externally, about the strategies which have been proposed. However, we also missed a lot of voices from our community. We take responsibility for leaving many of you behind by focusing on a very corporate-management solution to the initial question which prompted this process. A question we think still is relevant: The identity of openSUSE both as a Community and as a Project.  Initially our goal was to answer: ”Who is openSUSE and what does it (want to) do?” prompted by the discussion about the default desktop at the openSUSE conference last year. In five years the openSUSE project has evolved from a fully company-driven project to a communty project where everybody can contribute. This has brought uncertainty and a lack of direction. The current lack of a clear ‘story behind it all’ is hampering our ability to establish a common identity and sense of security. From a marketing point of view, it becomes an uphill battle…" 
 </td>
 </tr>
 </tbody>
@@ -358,16 +358,16 @@ Now we are ready. We're pleased to announce our new openSUSE Weekly News #139. E
 
 
 
-####  [CFDGeeko is comingâ€¦](http://albertopassalacqua.com/?p=747)
+####  [CFDGeeko is coming…](http://albertopassalacqua.com/?p=747)
 
 
-"CFDGeeko is a live distribution based on openSUSE 11.3 â€“ 64 bit, whose purpose is to provide easy and immediate access to open-source scientific tools, in particular for computational fluid dynamics.  The live distribution was created with SUSE Studio, whose team was very helpful in the process of solving some small problems during the setup. Almost all the packages provided in the images were prepared by openSUSE developers and community volunteers, to whom most of the merit should go."  
+"CFDGeeko is a live distribution based on openSUSE 11.3 – 64 bit, whose purpose is to provide easy and immediate access to open-source scientific tools, in particular for computational fluid dynamics.  The live distribution was created with SUSE Studio, whose team was very helpful in the process of solving some small problems during the setup. Almost all the packages provided in the images were prepared by openSUSE developers and community volunteers, to whom most of the merit should go."  
 
 
 ####  [SUSE Studio: More secure SUSE Gallery](http://blog.susestudio.com/2010/09/more-secure-suse-gallery.html)
 
 
-"This week we introduced an important feature to SUSE Gallery â€” the appliance security summary. It is displayed for every published appliance and is designed to help you better understand what the appliance contains. This is useful for security reasons as you can easily see if the appliance contains any sources where undesirable code might slip in. It also provides a quick overview of the applianceâ€™s contents." 
+"This week we introduced an important feature to SUSE Gallery — the appliance security summary. It is displayed for every published appliance and is designed to help you better understand what the appliance contains. This is useful for security reasons as you can easily see if the appliance contains any sources where undesirable code might slip in. It also provides a quick overview of the appliance’s contents." 
 </td>
 </tr>
 </tbody>
@@ -453,7 +453,7 @@ Updates from the new osc client.
 ####  [Nelson Marques: openSUSE:Tools for Fedora 13](http://nmarques.digitalwhores.net/2010/09/01/238/)
 
 
-"Iâ€™ve been looking around openSUSE:Tools for Fedora 13 and found the naming could be more Fedora friendly. Iâ€™ve made some small patches to the .spec files in order to achieve that and made them available. In addition Iâ€™ve also recompiled the stuff using the new spec files and uploaded them for x86_64 only to my fedorapeople.org user space (and made out of it a YUM repository for Fedora 13 users).  So far for a Fedora user there is a problem with this packagesâ€¦ xdg-utils has to be brute force installed requiring dangerous wizardry from the user sideâ€¦ it conflicts heavily with the version from Fedora 13 which has a huge amount of dependencies that shouldnâ€™t be messed with. Iâ€™m wondering if anyone in the community could help me in overcoming this problem." 
+"I’ve been looking around openSUSE:Tools for Fedora 13 and found the naming could be more Fedora friendly. I’ve made some small patches to the .spec files in order to achieve that and made them available. In addition I’ve also recompiled the stuff using the new spec files and uploaded them for x86_64 only to my fedorapeople.org user space (and made out of it a YUM repository for Fedora 13 users).  So far for a Fedora user there is a problem with this packages… xdg-utils has to be brute force installed requiring dangerous wizardry from the user side… it conflicts heavily with the version from Fedora 13 which has a huge amount of dependencies that shouldn’t be messed with. I’m wondering if anyone in the community could help me in overcoming this problem." 
 </td>
 </tr>
 </tbody>
@@ -492,13 +492,13 @@ Updates from the new osc client.
 ####  [Federico Mena-Quintero: Mon 2010/Aug/30](http://www.gnome.org/%7Efederico/news-2010-08.html#30)
 
 
-"**Rooting the file chooser:** Christian Hammond has been working on a very cool branch of GtkFileChooser to let you define roots for the file dialog. Normally, this is what my file chooser looks like â€” it lets me browse anything on my file system:"  
+"**Rooting the file chooser:** Christian Hammond has been working on a very cool branch of GtkFileChooser to let you define roots for the file dialog. Normally, this is what my file chooser looks like — it lets me browse anything on my file system:"  
 
 
-####  [Atri Bhattacharya: Whatâ€™s cooking in openSUSEâ€™s GNOME for 11.4](http://lizards.opensuse.org/2010/08/30/whats-cooking-in-opensuses-gnome-for-11-4/)
+####  [Atri Bhattacharya: What’s cooking in openSUSE’s GNOME for 11.4](http://lizards.opensuse.org/2010/08/30/whats-cooking-in-opensuses-gnome-for-11-4/)
 
 
-"The openSUSE GNOME team has launched itself full throttle into preparations for openSUSE 11.4, which will be released with GNOME 2.32 as one of the desktops. Along the way, we decided on our focus points for the upcoming release:-  * **New packages**: More applications for a richer desktop experience  While there are a large number of excellent GNOME/Gtk-based apps in openSUSE already, this looked like a great time to start getting more apps catering to a variety of requirements into the GNOME:Apps and GNOME:Factory build service projects. Since deciding on this, several new packages have already been worked on and are now available in the corresponding repositories. The status of new applications is tracked here. Many of these applications will, subject to review, reach Factory and a few might even become part of the default openSUSE GNOME desktop.  You are welcome to request the packaging of applications you have found particularly useful or impressive, and if you are in earnest, why not join us at #opensuse-gnome and start packaging them for yourself? Requests for new applications may be made through comments here, on the mailing-list or at irc, but the best way to do this would be to open a feature request and tag it as â€œgnome-wishlist-packagesâ€." 
+"The openSUSE GNOME team has launched itself full throttle into preparations for openSUSE 11.4, which will be released with GNOME 2.32 as one of the desktops. Along the way, we decided on our focus points for the upcoming release:-  * **New packages**: More applications for a richer desktop experience  While there are a large number of excellent GNOME/Gtk-based apps in openSUSE already, this looked like a great time to start getting more apps catering to a variety of requirements into the GNOME:Apps and GNOME:Factory build service projects. Since deciding on this, several new packages have already been worked on and are now available in the corresponding repositories. The status of new applications is tracked here. Many of these applications will, subject to review, reach Factory and a few might even become part of the default openSUSE GNOME desktop.  You are welcome to request the packaging of applications you have found particularly useful or impressive, and if you are in earnest, why not join us at #opensuse-gnome and start packaging them for yourself? Requests for new applications may be made through comments here, on the mailing-list or at irc, but the best way to do this would be to open a feature request and tag it as “gnome-wishlist-packages”." 
 </td>
 </tr>
 </tbody>
@@ -662,7 +662,7 @@ Meetingminutes
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -708,7 +708,7 @@ Meetingminutes
 ####  [Bruno Friedmann: Come on ! Join the Bacula developer conference](http://lizards.opensuse.org/2010/08/30/come-on-join-the-bacula-developer-conference/)
 
 
-"I love to see all of you, devs, packagers or just curious on the Bacula developer conference held in Yverdon-Les-Bains Switzerland on September 26, 27 & 28.  Direct information : [bacula.org conf page](http://www.bacula.org/en/?page=conference) You donâ€™t know what bacula is ? Well I would summarize it as an one of the essential component in enterprise IT. It not only backup your data, it give you them back when needed ! Donâ€™t smile, many backup solution failed (even proprietary solutions) in this last crucial point." 
+"I love to see all of you, devs, packagers or just curious on the Bacula developer conference held in Yverdon-Les-Bains Switzerland on September 26, 27 & 28.  Direct information : [bacula.org conf page](http://www.bacula.org/en/?page=conference) You don’t know what bacula is ? Well I would summarize it as an one of the essential component in enterprise IT. It not only backup your data, it give you them back when needed ! Don’t smile, many backup solution failed (even proprietary solutions) in this last crucial point." 
 
 
   
@@ -729,13 +729,13 @@ Past:
 
 
 
-  * [**August 31-September 1, 2010: LinuxCon Brasil 2010 (SÃ£o Paulo/Brazil)**](http://events.linuxfoundation.org/events/linuxcon-brazil)
+  * [**August 31-September 1, 2010: LinuxCon Brasil 2010 (São Paulo/Brazil)**](http://events.linuxfoundation.org/events/linuxcon-brazil)
 
 
   * [**September 01, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** September 2, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** September 2, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
@@ -747,7 +747,7 @@ Upcoming:
   * [** September 7, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-6/)
 
 
-  * [**September 7, 2010: VOLDAY 2 (SÃ£o Paulo/Brazil)**](http://volcon.org/volday2/)
+  * [**September 7, 2010: VOLDAY 2 (São Paulo/Brazil)**](http://volcon.org/volday2/)
 
 
   * [** September 8, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
@@ -756,13 +756,13 @@ Upcoming:
   * [** September 15, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [** September 16, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [** September 16, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -858,7 +858,7 @@ Upcoming:
 ####  [OMG!SUSE! team: Inkscape updates abound!](http://feedproxy.google.com/%7Er/omgsuse/%7E3/tH-nYquQvaY/inkscape-updates-abound)
 
 
-"Scalable Vector Graphic fans of the world rejoice â€“ Open Sourceâ€™s premier vector drawing application Inkscape has been bumped up to 0.48, adding lots of fixes and features for artists to get excited about in the process."  
+"Scalable Vector Graphic fans of the world rejoice – Open Source’s premier vector drawing application Inkscape has been bumped up to 0.48, adding lots of fixes and features for artists to get excited about in the process."  
 
 
 ####  [OMG!SUSE! team: Google Video Chat for openSUSE](http://feedproxy.google.com/%7Er/omgsuse/%7E3/YePx8ueHVcg/google-video-chat-opensuse)
@@ -870,7 +870,7 @@ Upcoming:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1062,10 +1062,10 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Rares Aioanei: OpenSUSE kernel news â€“ 04.09.2010](http://schaiba.wordpress.com/2010/08/28/opensuse-kernel-news-04-09-2010/)
+####  [Rares Aioanei: OpenSUSE kernel news – 04.09.2010](http://schaiba.wordpress.com/2010/08/28/opensuse-kernel-news-04-09-2010/)
 
 
-"Hello world and welcome! Letâ€™s dig into this weekâ€™s latest news regarding kernel developmentâ€¦ -Eric Paris has some fixes for the notification tree, as he explains (â€œThe most serious bug (and only one affecting inotify and dnotify rather: than requiring fanotify to break something) was actually fixed accidentally in â€œfsnotify fix ignored mask handling between inode and vfsmount marksâ€. It was possible for inotify to get events it didnâ€™t request or even events with a 0 mask." 
+"Hello world and welcome! Let’s dig into this week’s latest news regarding kernel development… -Eric Paris has some fixes for the notification tree, as he explains (“The most serious bug (and only one affecting inotify and dnotify rather: than requiring fanotify to break something) was actually fixed accidentally in “fsnotify fix ignored mask handling between inode and vfsmount marks”. It was possible for inotify to get events it didn’t request or even events with a 0 mask." 
 </td>
 </tr>
 </tbody>
@@ -1203,7 +1203,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [SUSE Studio: Featured appliance - MiniSUSE](http://blog.susestudio.com/2010/08/featured-appliance-minisuse.html)
 
 
-"As promised, we have a new featured appliance this week and it belongs to HorvÃ¡th Gergely J.. He will be receiving his Amazon gift card real soon! "  
+"As promised, we have a new featured appliance this week and it belongs to Horváth Gergely J.. He will be receiving his Amazon gift card real soon! "  
 
 
 ####  [OMG!SUSE! team: Sprichst du open source? Check out the openSUSE Conference](http://feedproxy.google.com/%7Er/omgsuse/%7E3/eQqjWIKvIvM/sprichst-du-open-source-check-out-opensuse-conference)
@@ -1215,7 +1215,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Matthew Ehle: openSUSE 11.3 Impressions](http://www.matthewehle.info/blog/?p=90)
 
 
-"While openSUSE is my preferred distribution for server installations, my desktop use of it has been somewhat more sporadic. However, while reformatting my laptop from Mint to a Windows 7-Linux dual boot, I decided to give 11.3 a try. Here is a short post about my experience and impressions:  Network Installation  I have tried this in the past and have generally gotten poor results. However, I really like the concept of network installations, so I thought I would see if any improvements were made with 11.3. Alas, my experience was similar to how it was with previous releases. The first attempt failed entirely, so I tried it again. The second network installation finished, but I could only boot in failsafe mode after it was done. It seems that some packages get corrupted or donâ€™t install at all. With this kind of success rate, it still just isnâ€™t robust enough for real world use. Onto a different installation methodâ€¦"  
+"While openSUSE is my preferred distribution for server installations, my desktop use of it has been somewhat more sporadic. However, while reformatting my laptop from Mint to a Windows 7-Linux dual boot, I decided to give 11.3 a try. Here is a short post about my experience and impressions:  Network Installation  I have tried this in the past and have generally gotten poor results. However, I really like the concept of network installations, so I thought I would see if any improvements were made with 11.3. Alas, my experience was similar to how it was with previous releases. The first attempt failed entirely, so I tried it again. The second network installation finished, but I could only boot in failsafe mode after it was done. It seems that some packages get corrupted or don’t install at all. With this kind of success rate, it still just isn’t robust enough for real world use. Onto a different installation method…"  
 
 
 ####  [Jos Poortvliet: Banshee & GNOME](http://nowwhatthe.blogspot.com/2010/08/banshee-gnome.html)
@@ -1334,22 +1334,22 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [KDENews/Sebastian KÃ¼gler: KDE Releases 4.5.1](http://news.kde.org/2010/08/31/kde-releases-451)
+####  [KDENews/Sebastian Kügler: KDE Releases 4.5.1](http://news.kde.org/2010/08/31/kde-releases-451)
 
 
 "Today, KDE updated the Applications, Platform and Plasma Workspaces to 4.5.1, new releases bringing a number of important bugfixes on top of 4.5.0. 4.5.0 was released only three weeks ago and receives monthly service updates. 4.5.1 is the first in this series of bugfix and translation updates. These releases improve stability and the user experience further, while not bringing major new features or bigger changes to the user interface. 4.5.1 is a safe upgrade for anybody running 4.5.0. 4.5.1 has been dubbed "Cronjob" as it is one of the regular releases published by KDE, just like a cronjob does.  This release will make 4.5 users lives more pleasant by adding a number of important bug fixes, bringing more stability and better functionality to the Plasma Desktop and many applications & utilities. Check the changelog for details about many of these improvements."  
 
 
-####  [KDE News/Sebastian KÃ¼gler: Help Test the Next Generation of KDE's Kontact](http://news.kde.org/2010/09/03/help-test-next-generation-kdes-kontact)
+####  [KDE News/Sebastian Kügler: Help Test the Next Generation of KDE's Kontact](http://news.kde.org/2010/09/03/help-test-next-generation-kdes-kontact)
 
 
 "The KDE PIM team has made available a beta version of the next-generation groupware client suite Kontact. The new Kontact is built on the Akonadi framework, sharing infrastructure for syncing with online services across applications. While the first bits of Akonadi integration already made their entry in KAddressBook as delivered with 4.4, this beta includes Akonadi versions of most of the other Kontact components, including email using the new KMail2.  As the Akonadi-based Kontact marks a major step in the evolution of KDE's groupware apps, the KDE PIM developers decided to apply a feature-based release schedule to this port. It will be released when it's ready, which is realistically still this year. In order to achieve this, we rely heavily on community feedback, so please give this beta a run and get back to us with your feedback, preferably in the form of bug reports on bugs.kde.org."  
 
 
-####  [VMware and Novell Deliver SUSE Linux Enterprise Server for VMwareÂ®](http://www.novell.com/news/press/vmware-and-novell-deliver-suse-linux-enterprise-server-for-vmware)
+####  [VMware and Novell Deliver SUSE Linux Enterprise Server for VMware®](http://www.novell.com/news/press/vmware-and-novell-deliver-suse-linux-enterprise-server-for-vmware)
 
 
-"Today at VMworld 2010, VMware and Novell announced the general availability of SUSE Linux Enterprise Server for VMwareÂ®, the first step in the companies' expanded partnership announced in June of 2010. The solution is designed to reduce IT complexity and accelerate the customer evolution to a fully virtualized datacenter. With SUSE Linux Enterprise Server for VMwareÂ®, customers who purchase a VMware vSphereâ„¢ license and subscription also receive a subscription for patches and updates to SUSE Linux Enterprise Server for VMwareÂ® at no additional cost. Additionally, VMware will offer the option to purchase technical support services for SUSE Linux Enterprise Server for VMwareÂ® for a seamless support experience available directly and through its network of solution provider partners. This unique solution benefits customers by reducing the cost and complexity of deploying and maintaining an enterprise operating system running on VMware vSphere."  
+"Today at VMworld 2010, VMware and Novell announced the general availability of SUSE Linux Enterprise Server for VMware®, the first step in the companies' expanded partnership announced in June of 2010. The solution is designed to reduce IT complexity and accelerate the customer evolution to a fully virtualized datacenter. With SUSE Linux Enterprise Server for VMware®, customers who purchase a VMware vSphere™ license and subscription also receive a subscription for patches and updates to SUSE Linux Enterprise Server for VMware® at no additional cost. Additionally, VMware will offer the option to purchase technical support services for SUSE Linux Enterprise Server for VMware® for a seamless support experience available directly and through its network of solution provider partners. This unique solution benefits customers by reducing the cost and complexity of deploying and maintaining an enterprise operating system running on VMware vSphere."  
 
 
 ####  [Sign Up To Watch LinuxCon 2010 Conference Videos](https://events.linuxfoundation.org/lp/linuxcon-2010-video-preview)
@@ -1555,7 +1555,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1564,7 +1564,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1624,34 +1624,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/139)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/139)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/139)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/139)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/139)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/139)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/139)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/139)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/139)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/139/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/139/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/139/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/139)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/139)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/139)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/139)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/139)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/139)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/139)
@@ -1660,7 +1660,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/139/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/139)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/139)
 
 
 </td>

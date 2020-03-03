@@ -5,13 +5,13 @@ date: 2007-09-28 14:22:58+00:00
 layout: post
 link: https://news.opensuse.org/2007/09/28/people-of-opensuse-carlos-goncalves/
 slug: people-of-opensuse-carlos-goncalves
-title: 'People of openSUSE: Carlos GonÃ§alves'
+title: 'People of openSUSE: Carlos Gonçalves'
 wordpress_id: 395
 categories:
 - People of openSUSE
 ---
 
-Here is another 'People of openSUSE' interview, this time with Carlos GonÃ§alves, a very active member of our Portuguese community and founder of [ENOS](http://en.opensuse.org/Events/ENOS).
+Here is another 'People of openSUSE' interview, this time with Carlos Gonçalves, a very active member of our Portuguese community and founder of [ENOS](http://en.opensuse.org/Events/ENOS).
 
 	 	 	 	 	 	
 
@@ -129,7 +129,7 @@ By the way Carlos joined the 'People of openSUSE' initiative and will do some in
 #### Please introduce yourself!
 
 
-My name is Carlos GonÃ§alves and I was born on March 22, 1989 (18 years old, at the moment) in Caldas da Rainha, Portugal. I'm currently at the University of Aveiro as a Computers and Telematics Engineering student. I'm a lonely guy, no girlfriend ;-(
+My name is Carlos Gonçalves and I was born on March 22, 1989 (18 years old, at the moment) in Caldas da Rainha, Portugal. I'm currently at the University of Aveiro as a Computers and Telematics Engineering student. I'm a lonely guy, no girlfriend ;-(
 
 
 
@@ -157,7 +157,7 @@ I didn't have a DSL Internet connection so I couldn't download that 'new, free a
 #### When and why did you start using openSUSE/SUSE Linux?
 
 
-After testing Knoppix Live CD I really became interested in the Open Source world and I thought it would be good for me to expand my tech knowledge. I tested various Linux distributions (Fedora, Mandrake, Caixa MÃ¡gica (SUSE based), Slackware, (K)Ubuntu, Gentoo, SUSE, etc) to check which one suited me better. SUSE won the race and I have stayed with it since SUSE 9.2 (2004).
+After testing Knoppix Live CD I really became interested in the Open Source world and I thought it would be good for me to expand my tech knowledge. I tested various Linux distributions (Fedora, Mandrake, Caixa Mágica (SUSE based), Slackware, (K)Ubuntu, Gentoo, SUSE, etc) to check which one suited me better. SUSE won the race and I have stayed with it since SUSE 9.2 (2004).
 
 
 
@@ -265,7 +265,7 @@ As I said, openSUSE has all the conditions to every kind of user. It offers the 
 #### Which members of the openSUSE community have you met in person?
 
 
-Some Portuguese openSUSErs (eg: AntÃ³nio Martins and Hugo Costelha), and Jan Madsen from Danish translations team on ENOS.
+Some Portuguese openSUSErs (eg: António Martins and Hugo Costelha), and Jan Madsen from Danish translations team on ENOS.
 
 
 

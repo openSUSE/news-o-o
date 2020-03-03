@@ -14,7 +14,7 @@ categories:
 - Project
 ---
 
-Next weekend the openSUSE Conference 2012 begins. Please join us October 20-23 at the Czech Technical University in Prague. This year, the openSUSE conference co-locates with the Czech [LinuxDays event](http://linuxdays.cz/), the SUSE Labs and a [Gentoo minisummit](http://gentoo.org/). The openSUSE Conference takes place from October 20-23, Â while LinuxDays are on Saturday 20th and Sunday 21st.
+Next weekend the openSUSE Conference 2012 begins. Please join us October 20-23 at the Czech Technical University in Prague. This year, the openSUSE conference co-locates with the Czech [LinuxDays event](http://linuxdays.cz/), the SUSE Labs and a [Gentoo minisummit](http://gentoo.org/). The openSUSE Conference takes place from October 20-23,  while LinuxDays are on Saturday 20th and Sunday 21st.
 
 
 
@@ -36,7 +36,7 @@ openSUSE would like to thank the generous and comprehensive support of our spons
 
 
 
-SUSE, a pioneer in open source software, provides reliable, interoperable Linux and cloud infrastructure solutions that give enterprises greater control and flexibility. More than 20 years of engineering excellence, exceptional service and an unrivaled partner ecosystem power the products and support that help our customers manage complexity, reduce cost, and confidently deliver mission-critical services. The lasting relationships we build allow us to adapt and deliver the smarter innovation they need to succeedâ€”today and tomorrow.[ www.suse.com](http://www.suse.com)
+SUSE, a pioneer in open source software, provides reliable, interoperable Linux and cloud infrastructure solutions that give enterprises greater control and flexibility. More than 20 years of engineering excellence, exceptional service and an unrivaled partner ecosystem power the products and support that help our customers manage complexity, reduce cost, and confidently deliver mission-critical services. The lasting relationships we build allow us to adapt and deliver the smarter innovation they need to succeed—today and tomorrow.[ www.suse.com](http://www.suse.com)
 
 
 
@@ -79,7 +79,7 @@ Google's innovative search technologies connect millions of people around the wo
 
 
 B1 Systems offers professional consulting, specific development, individual and continuous support as well as qualified trainings.
-B1's comprehensive Linux / Open Source project experience is based on the successful completion of many projects for numerous major enterprises as well as on the professional accomplishment of long-term support. In close collaboration with the customer B1 Systems develops target-oriented and customized solutions.Â With established Linux solutions based on practical experience B1 has built an excellent reputation and is happy to pass this knowledge on through individual support, professional books and practical work in a wide variety of Linux / Open Source community & enterprise projects.
+B1's comprehensive Linux / Open Source project experience is based on the successful completion of many projects for numerous major enterprises as well as on the professional accomplishment of long-term support. In close collaboration with the customer B1 Systems develops target-oriented and customized solutions. With established Linux solutions based on practical experience B1 has built an excellent reputation and is happy to pass this knowledge on through individual support, professional books and practical work in a wide variety of Linux / Open Source community & enterprise projects.
 
 
 ## Supporting Sponsors
@@ -92,7 +92,7 @@ B1's comprehensive Linux / Open Source project experience is based on the succes
 
 
 
-ownCloud is a flexible, open source file sync and share solution. Whether using a mobile device, a workstation, or a web client, ownCloud provides the ability to put the right files at your employeesâ€™ fingertips on any device in one simple-to-use, secure, private and controlled solution.
+ownCloud is a flexible, open source file sync and share solution. Whether using a mobile device, a workstation, or a web client, ownCloud provides the ability to put the right files at your employees’ fingertips on any device in one simple-to-use, secure, private and controlled solution.
 
 **Univention GmbH**
 ![](http://conference.opensuse.org/images/sponsors/sponsor_univention.png)
@@ -129,7 +129,7 @@ Root.cz is a well-known IT and open source technology news site in the Czech Rep
 
 
 
-[![](http://conference.opensuse.org/images/sponsors/sponsor_cvut.jpg)](http://www.cvut.cz/)Czech Technical University in Prague (CTU, ÄŒeskÃ© vysokÃ© uÄenÃ­ technickÃ© v Praze â€“ ÄŒVUT in Czech) is one of the largest universities in the Czech Republic, and the oldest institute of technology in Central Europe.
+[![](http://conference.opensuse.org/images/sponsors/sponsor_cvut.jpg)](http://www.cvut.cz/)Czech Technical University in Prague (CTU, Ìeské vysoké uÍení technické v Praze – ÌVUT in Czech) is one of the largest universities in the Czech Republic, and the oldest institute of technology in Central Europe.
 
 It was established in 1707 by the Emperor Joseph I. According to the THES-QS World University Rankings for the year 2010, the CTU is the world's 121st best university in technology, was the 171st in 2009 and 228th in 2008 and is the 1st in the Czech Republic.
 

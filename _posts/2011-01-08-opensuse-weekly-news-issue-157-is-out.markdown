@@ -88,7 +88,7 @@ Enjoy the reading :-)
         2010 big](http://news.opensuse.org/2011/01/03/opensuse-finished-2010-big/)
     **
 
-**FigureÂ 1.Â By somenametoforget at Flickr**
+**Figure 1. By somenametoforget at Flickr**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![By somenametoforget at Flickr](/wp-content/uploads/2010/12/somenametoforget3-e1293654145463.jpg)
@@ -103,9 +103,9 @@ Since the [openSUSE
       the latter would be [Project
         Tumbleweed](http://lists.opensuse.org/opensuse-project/2010-11/msg00206.html), aiming to create a rolling-release repository for openSUSE. Going in the
       opposite direction is [Project
-        Evergreen](http://lists.opensuse.org/opensuse-project/2010-12/msg00004.html) â€“ the Evergreen developers want to provide longer-term support for older
+        Evergreen](http://lists.opensuse.org/opensuse-project/2010-12/msg00004.html) – the Evergreen developers want to provide longer-term support for older
       openSUSE releases for a core set of packages. And there is the new Virtualization:Cloud
-      project, where a team got together to create a cloud software repository. Finally, we canâ€™t
+      project, where a team got together to create a cloud software repository. Finally, we can’t
       forget to mention the new [GNOME:Atayana project](http://lizards.opensuse.org/2010/12/29/kick-off-for-gnomeayatana-project/), bringing Unity to openSUSE! And those are new just since our
       last conference! Read on to learn more about these four projects.
 
@@ -120,25 +120,25 @@ Tumbleweed, recently [announced by kernel
       other distributions, can provide newer packages for older openSUSE versions. And it makes it
       easy: using the [web interface](https://build.opensuse.org/) or the [command-line client](http://en.opensuse.org/openSUSE:OSC), our packagers select
       the older versions as build targets and OBS builds each package on a fresh Virtual Machine.
-      This ensures ABI compatibility and stability are preserved â€“ thus OBS is perfect for back
-      porting. Or forward-porting! This is what project Tumbleweed aims to take advantage of â€“ a new
-      project is created on OBS under the name Tumbleweed, and maintainers just say â€œhey, this
-        package is a stable release, it seems to work â€“ good for Tumbleweedâ€. *click*.
+      This ensures ABI compatibility and stability are preserved – thus OBS is perfect for back
+      porting. Or forward-porting! This is what project Tumbleweed aims to take advantage of – a new
+      project is created on OBS under the name Tumbleweed, and maintainers just say “hey, this
+        package is a stable release, it seems to work – good for Tumbleweed”. *click*.
       Done.
 
-The goal of the Tumbleweed project is to create a â€˜rolling releaseâ€™ version of openSUSE. A
+The goal of the Tumbleweed project is to create a ‘rolling release’ version of openSUSE. A
       rolling release distribution (like Arch Linux or Gentoo) always offers the latest stable
       versions of a package as updates so that when a new release of any upstream software surfaces,
-      users actually donâ€™t have to do a distribution upgrade. The packages will simply be part of
+      users actually don’t have to do a distribution upgrade. The packages will simply be part of
       the usual updates. You could see openSUSE Factory, our development tree, as a rolling release
-      distribution â€“ but there is a crucial difference. Tumbleweed only offers stable packages â€“
+      distribution – but there is a crucial difference. Tumbleweed only offers stable packages –
       where Factory often tracks upstream developments like beta and rc releases of the kernel,
       GNOME or other projects. Compared to Factory, Tumbleweed should be more stable and dependable.
       Compared to just sticking with the normal openSUSE updates, Tumbleweed has the advantage that
-      your OS is always up to date and new releases of your distro become less interesting â€“ you
+      your OS is always up to date and new releases of your distro become less interesting – you
       essentially have them when they are released. The potential downside is a slightly larger risk
-      of breakage â€“ as all Tumbleweed users update on different schedules, conflicts might arise,
-      and Tumbleweed canâ€™t go through the same testing as a normal openSUSE release.
+      of breakage – as all Tumbleweed users update on different schedules, conflicts might arise,
+      and Tumbleweed can’t go through the same testing as a normal openSUSE release.
 
 **Status**
 
@@ -156,12 +156,12 @@ Tumbleweed aims to use the 11.3 repo above as a testing ground, and provide a fu
       release for the openSUSE 11.4 release. It seems many packagers have joined the initiative and
       while some had some concerns, the plan is to simply try this and see how it goes.
 
-Greg notes: â€œTumbleweed is ready for testing by users who are currently running
-        openSUSE 11.3 and are comfortable handling updated packages that donâ€™t always upgrade
+Greg notes: “Tumbleweed is ready for testing by users who are currently running
+        openSUSE 11.3 and are comfortable handling updated packages that don’t always upgrade
         properly at times. If you are used to running FACTORY on a machine, running Tumbleweed would
         be very easy right now. Please note that there might be problems with some package upgrades
         at times as we work out the development workflow, but it is usable for a number of
-        users.â€
+        users.”
 
 Currently, besides Greg, a number of other developers who are maintaining packages in a
       format that is usable by Tumbleweed are involved. This includes Jiri Slaby for the kernel,
@@ -193,7 +193,7 @@ The openSUSE-factory mailing list is the best way to get involved, or just email
       what repository and package he should link directly into Tumbleweed, both work flows are
       currently being used quite successfully.
 
-**FigureÂ 2.Â By mr.Mac2009 on Flickr**
+**Figure 2. By mr.Mac2009 on Flickr**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![By mr.Mac2009 on Flickr](/wp-content/uploads/2010/12/4145944314_e12040f6cf_z.jpg)
@@ -204,30 +204,30 @@ The openSUSE-factory mailing list is the best way to get involved, or just email
 
 **Evergreen**
 
-So Tumbleweed is bleeding edge, which is great if youâ€™re a developer or enthusiast who
+So Tumbleweed is bleeding edge, which is great if you’re a developer or enthusiast who
       wants to keep your system up to date. On the other end of the scale, stability and long term
       support, another project has surfaced in openSUSE over the last weeks: [Project Evergreen](http://www.rosenauer.org/blog/2010/11/30/community-powered-long-term-support-for-opensuse/). Project Evergreen is about the opposite of Tumbleweed: take a
       stable release and maintain it with security updates for a longer time than openSUSE usually
       does. At this point, Evergreen is in its infancy and still needs quite a lot of details to be
       sorted out. The first goal would be to [support openSUSE
         11.1](http://www.rosenauer.org/blog/2011/01/03/opensuse-project-evergreen/) which went out of official support on Januari 1st. The team aims to keep 11.1
-      alive as long as possible â€“ something which depends on the number of contributors. A goal
-      would be reach a lifetime of 3 years but itâ€™s unclear if that is possible for 11.1 already.
+      alive as long as possible – something which depends on the number of contributors. A goal
+      would be reach a lifetime of 3 years but it’s unclear if that is possible for 11.1 already.
       The team initially wants to concentrate on providing support for the most important components
       like the kernel and other low-level software, mostly server packages as desktop users usually
       prefer more recent software. This will allow system admins who for example do not have
       physical access to their servers to delay the risky upgrade of their OS by another year or
       so.
 
-Currently the team is investigating whatâ€™s needed to take over the full maintenance and
-      how to prepare and distribute the updates to the users. The issue is that OBS doesnâ€™t
+Currently the team is investigating what’s needed to take over the full maintenance and
+      how to prepare and distribute the updates to the users. The issue is that OBS doesn’t
       currently support the patch creation work flow and so they cannot use the usual procedures and
       techniques to get patches to the users yet. Moreover, this is a difficult and very long-term
-      commitment â€“ it is important to have a serious team to be able to pull this off. There is a
+      commitment – it is important to have a serious team to be able to pull this off. There is a
       lot of work ahead, so help would be appreciated. Join the [Evergreen mailinglist](http://lists.rosenauer.org/mailman/listinfo/evergreen) if
       you want to get involved!
 
-**FigureÂ 3.Â by misterfreak on Flickr**
+**Figure 3. by misterfreak on Flickr**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![by misterfreak on Flickr](/wp-content/uploads/2010/12/3065448236_fcf08f7c69_z.jpg)
@@ -239,7 +239,7 @@ Currently the team is investigating whatâ€™s needed to take over the full m
 **Green clouds are forming**
 
 In openSUSE a team formed with the goal to set up repo for cloud computing related
-      software. One of the first pieces is the Eucalyptus cloud infrastructure and itâ€™s
+      software. One of the first pieces is the Eucalyptus cloud infrastructure and it’s
       dependencies. The vision is to enable openSUSE to be a cloud infrastructure platform that
       allows you to set up your cloud quickly and easily.
 
@@ -265,12 +265,12 @@ The creation of an Appliance build and SUSE Studio integration will take a bit l
 
 Robert is also looking at packaging openNebula. One of the openNebula developers recently
       posted to the openSUSE packaging mailing list and expressed interest in seeing it packaged.
-      There are plenty of other candidates out there which deserve packaging â€“ if youâ€™re interested
+      There are plenty of other candidates out there which deserve packaging – if you’re interested
       in helping out, send a message to the openSUSE packaging mailing list or contact one of the
       involved team members (see the [project
         page](https://build.opensuse.org/project/show?project=Virtualization%3ACloud) in OBS).
 
-**FigureÂ 4.Â Integration with Banshee**
+**Figure 4. Integration with Banshee**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![Integration with Banshee](/wp-content/uploads/2010/12/Ayatana-Screenshot-3.png)
@@ -285,16 +285,16 @@ Robert is also looking at packaging openNebula. One of the openNebula developers
 Last but not least, just 2 days before the year ended, Nelson Marques announced the new
         [GNOME:Ayatana](https://build.opensuse.org/project/show?project=GNOME:Ayatana) Build Service project. More information is already available on the
         [GNOME Ayatana wiki page](http://en.opensuse.org/openSUSE:GNOME_Ayatana).
-      Nelson has been working on patching and packaging the Indicators from Ubuntuâ€™s Unity project
+      Nelson has been working on patching and packaging the Indicators from Ubuntu’s Unity project
       for openSUSE for a while now and has decided it was time to announce it [more
         publicly](http://lizards.opensuse.org/2010/12/29/kick-off-for-gnomeayatana-project/) (worth a read!). 
 
-Nelson: â€œThe main goal is to provide openSUSE users a
+Nelson: “The main goal is to provide openSUSE users a
           broader choice in Desktop software. In this case, to provide the software developed by
-          Canonicalâ€™s Ayatana Project (et all). openSUSE users will benefit of this software
+          Canonical’s Ayatana Project (et all). openSUSE users will benefit of this software
           (partially or fully enabled) without the need of changing their platform. In my humble
           opinion this is the role of a distribution, to **distribute**
-          Free Software!â€
+          Free Software!”
 
 **Ubuntu patches going to GNOME **
 
@@ -302,11 +302,11 @@ For a full functional implementation of Ayatana software packages it is required
       other applications and libraries (from infrastructure like gtk+ and gdk-pixbuf to applications
       like empathy, evolution, etc). So far many of these patches have been submited upstream by
       Ubuntu contributors, some have not. Honoring the openSUSE tradition of working with upstream,
-      Vincent Untz and Dominique â€œDimstarâ€ Leuenberger, two of the main GNOME maintainers in
+      Vincent Untz and Dominique “Dimstar” Leuenberger, two of the main GNOME maintainers in
       openSUSE are pushing to get them all submitted, accepted and integrated in GNOME. Vincent
-      noted: â€œUpstream should be always more feature richâ€. 
+      noted: “Upstream should be always more feature rich”. 
 
-Meanwhile, Novellâ€™s Banshee multimedia player (which will be Ubuntuâ€™s default player in
+Meanwhile, Novell’s Banshee multimedia player (which will be Ubuntu’s default player in
       their next release) offers excellent integration with the new Indicators as you can see on the
       screenshot, after enabling a single extension available in the Banshee Community Extensions
       package.
@@ -314,21 +314,21 @@ Meanwhile, Novellâ€™s Banshee multimedia player (which will be Ubuntuâ€�
 **Availability **
 
 The GNOME:Ayatana packages will be available officially starting from the openSUSE 11.4
-      release in March. According to Marques: â€œ11.4 will be an awesome distribution and the
+      release in March. According to Marques: “11.4 will be an awesome distribution and the
         last and greatest GNOME2 release of all time. I would like to offer the latest versions of
         the Ayatana packages whenever possible. I want to encourage openSUSE users to move to 11.4
         and drive the best GNOME2 platform with a wider choice of desktop packages to meet their
-        needs. Itâ€™s a huge task, even backed up by the awesome experience and know-how of the
-        openSUSE GNOME team, thereâ€™s not enough time to provide a release for older openSUSE
+        needs. It’s a huge task, even backed up by the awesome experience and know-how of the
+        openSUSE GNOME team, there’s not enough time to provide a release for older openSUSE
         versions with the same quality. If any openSUSE contributor wants to take on the task of
-        backporting the repository to older releases, Iâ€™ll be available to help as much as my free
+        backporting the repository to older releases, I’ll be available to help as much as my free
         time allows. Nevertheless, with the release of GNOME3 much will change, and I believe most
         users will swap to GNOME3 when it becomes available due to the major improvements present.
         With the best GNOME2 implementation, the availability of GNOME3 in the near future (thanks
         to either Tumbleweed or GNOME OBS repositories!) and a wider choice of desktop software, I
-        have no doubts 11.4 will be the coolest openSUSE release ever!â€
+        have no doubts 11.4 will be the coolest openSUSE release ever!”
 
-**FigureÂ 5.Â The communication indicator**
+**Figure 5. The communication indicator**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![The communication indicator](/wp-content/uploads/2010/12/Ayatana-Screenshot-2.png)
@@ -338,27 +338,27 @@ The GNOME:Ayatana packages will be available officially starting from the openSU
 
 
 Marques, who confessed he never survived to more than 2 hours on a Ubuntu Desktop, also
-      stated: â€œI plan to run a open BETA phase during the last cycle/milestone of Factory for
-        all the â€˜bleeding edgeâ€™ daring users willing to try the Ayatana packages out. I donâ€™t know
+      stated: “I plan to run a open BETA phase during the last cycle/milestone of Factory for
+        all the ‘bleeding edge’ daring users willing to try the Ayatana packages out. I don’t know
         the full extents of the functionality on these indicators, I hope I get some feedback from
         our users to see if I can enable all the possible features without deviating too much from
         upstream. I have no plans or interest in making any of these packages default on GNOME,
         however and I would always oppose such action. openSUSE offers one of the strongest and most
         solid GNOME implementations (for which we have to thank the GNOME Team), I would like to
-        keep it that way. GNOME upstream is my choice for Desktop computing needs.â€
+        keep it that way. GNOME upstream is my choice for Desktop computing needs.”
 
 Malcom Lewis, another openSUSE GNOME Team contributor, showed interest in developing an
       openSUSE Unity spin in [SUSE Studio](http://www.susestudio.com). Like
       openSUSE did with shipping Smeegol well before MeeGo 1.0 got released, this way users can test
-      Ayatana before Ubuntuâ€™s release and provide feedback upstream. If you want to help out or
+      Ayatana before Ubuntu’s release and provide feedback upstream. If you want to help out or
       provide feedback, contact nmarques, vuntz or dimstar on the [opensuse-gnome irc channel](irc://irc.freenode.net/opensuse-gnome)!
 
 Conclusion
 
 There seems to be a breath of fresh air going through openSUSE. New projects are started,
       recently started projects seem to be humming along quite nicely ([project Bretzn](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/), for example, is heading for a developer meeting at the SUSE offices
-      in January). All of these are of course looking for help â€“ and you can easily find those
-      involved on either [IRC](irc://irc.freenode.net/opensuse-project) or [mailing lists](mailto:opensuse-project@opensuse.org) if youâ€™re interested in
+      in January). All of these are of course looking for help – and you can easily find those
+      involved on either [IRC](irc://irc.freenode.net/opensuse-project) or [mailing lists](mailto:opensuse-project@opensuse.org) if you’re interested in
       helping out. So, if you want to make a difference, openSUSE is the place to do it. Pick
       something interesting and start changing the world with us!
 
@@ -387,54 +387,54 @@ Thanks for writing and input (in random order):
 Accessibility has become an important selling point in getting computing solutions into
       many organizations. Organizations are faced with legislations and regulations that require
       their environments be accessible and they take it into account when looking for a solution
-      that fits their needs. For government organizations, software that doesnâ€™t live up to certain
+      that fits their needs. For government organizations, software that doesn’t live up to certain
       accessibility standards is simply not an option. 
 
-Letâ€™s just be frank here. While the openSUSE community cares about accessibility as much
-      as anyone else does in FOSS, we havenâ€™t done that well in delivering the best accessible
+Let’s just be frank here. While the openSUSE community cares about accessibility as much
+      as anyone else does in FOSS, we haven’t done that well in delivering the best accessible
       solution. There are various people who look at the situation in their own corners and try to
       make the best of it. Andrew Wafaa highlighted some of the challenges in two recent articles. 
 
-Meanwhile openSUSE presents a very unique advantage that hasnâ€™t been leveraged yet. With
-      DBUS, the GNOME and KDE communities have worked together to leverage GNOMEâ€™s long-standing
+Meanwhile openSUSE presents a very unique advantage that hasn’t been leveraged yet. With
+      DBUS, the GNOME and KDE communities have worked together to leverage GNOME’s long-standing
       applications to work well on KDE. As openSUSE is a major distribution that provides support
       equally to GNOME and KDE, we have a distinct opportunity to provide the best integration of
       KDE and GNOME with accessibility. Thus offering prospective users and organizations a real
       choice on a distro that is known for its stability and support.
 
-So whatâ€™s the problem? 
+So what’s the problem? 
 
 Well, its a variety of things. And most certainly not because no one cares.
 
-While other distributions have formal accessibility teams, we donâ€™t. And we donâ€™t advocate
-      for that. After all, one has to realize that a11y doesnâ€™t mean accessibility for people with
+While other distributions have formal accessibility teams, we don’t. And we don’t advocate
+      for that. After all, one has to realize that a11y doesn’t mean accessibility for people with
       special needs. It means accessibility for all regardless of what your needs are. And that
       means that accessibility issues should be raised in mainstream conversations, not segregated
-      off to some corner where no one else knows whatâ€™s going on. Therefore, if thereâ€™s a problem in
-      openSUSE-GNOME accessibility, it should be discussed on that teamâ€™s thread. If thereâ€™s a
+      off to some corner where no one else knows what’s going on. Therefore, if there’s a problem in
+      openSUSE-GNOME accessibility, it should be discussed on that team’s thread. If there’s a
       problem with the installer, it should be discussed on the Factory mailing list, and so on.
-      While, philosophically, we still believe in this, in practice, it hasnâ€™t been a perfect world.
+      While, philosophically, we still believe in this, in practice, it hasn’t been a perfect world.
       We ended up being like a bunch of loose chickens running around without any real concerted
-      effort. And this is a shame because over the years, weâ€™ve had many great accessibility experts
+      effort. And this is a shame because over the years, we’ve had many great accessibility experts
       both in the community and on staff at Novell.
 
-So whatâ€™s the solution? 
+So what’s the solution? 
 
 Put our heads together! 
 
-At this point in time, we still arenâ€™t going to put together a formal mailing list and
+At this point in time, we still aren’t going to put together a formal mailing list and
       such, but we do have an #opensuse-a11y channel that has recently begun to grow in population.
-      Its a place where we all can kind of chat and keep tabs with each other about whatâ€™s going on
+      Its a place where we all can kind of chat and keep tabs with each other about what’s going on
       while still focusing on our primary areas of work around the Project. 
 
-On Thursday, 13 January 2011, at 17:00 UTC, weâ€™re going to have a meeting. Weâ€™re not going
-      to use a formal agenda at this time but rather more like a kvetching where weâ€™ll talk about
+On Thursday, 13 January 2011, at 17:00 UTC, we’re going to have a meeting. We’re not going
+      to use a formal agenda at this time but rather more like a kvetching where we’ll talk about
       our views of what we see as the obstacles. From there, we hope to have a better and bigger
       picture and develop an idea of how we can go forth collectively and individually in our
       accessibility work. 
 
-If youâ€™ve had some interest in accessibility and have some thoughts or want to learn what
-      others are saying, we invite you to join us. Weâ€™ll be giving out free virtual coffee and hot
+If you’ve had some interest in accessibility and have some thoughts or want to learn what
+      others are saying, we invite you to join us. We’ll be giving out free virtual coffee and hot
       chocolate throughout the meeting. :-)
 
 ## Board Election 2010
@@ -648,7 +648,7 @@ For example: you installed an application with "1-click install" (which
               Linux) (Score: 57)](https://features.opensuse.org/305582)
           **
 
-"Idea from community member RaÃºl GarcÃ­a. Same concept as MSI packages for
+"Idea from community member Raúl García. Same concept as MSI packages for
             Windows but exploiting the One Click Install concept of openSUSE (and therefore
             inheriting the simplicity, code and security. (...)"
 
@@ -861,7 +861,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization
+            – [Localization
               Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
@@ -912,9 +912,9 @@ Very active in the Build Service, Bugzilla and in the Maintanance Team.
             12, 2011 : openSUSE Project Meeting (16:00)](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
   * [January 12,
-            2011 : ï»¿openSUSE Board Meeting (19:00)](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+            2011 : ﻿openSUSE Board Meeting (19:00)](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [January 13, 2011 : ï»¿openSUSE KDE Team meeting (18:00)](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 13, 2011 : ﻿openSUSE KDE Team meeting (18:00)](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
@@ -950,7 +950,7 @@ While I was working in a project involving sqlite, I wanted to check the content
       satisfying my needs. So, here we have Sqlite-Commander. The name is inspired from an awesome
       piece of software Midnight-Commander written by Miguel De Icaza.
 
-**FigureÂ 6.Â Screenshot**
+**Figure 6. Screenshot**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![Screenshot](http://4.bp.blogspot.com/_G_VBnbGWMzs/TSBaaaJW18I/AAAAAAAAEWQ/v9HLv-7nHMk/s1600/sqlite-commander.png)
@@ -970,7 +970,7 @@ While I was working in a project involving sqlite, I wanted to check the content
   * Non-printable columns are shown with a ???
 
   * Maximum of 30 characters are displayed per column. Column data exceeding this length
-          are shown with â€œ...â€
+          are shown with “...”
 
 **TODO**
 
@@ -1041,7 +1041,7 @@ On the feature side, we have two really cool things to say. First off, we are in
       smbtad is receiving, in real time. Having data in a rrdtool database allows you to create all
       the fancy graphics SMBTA was missing until today (bnc#655149).
 
-**FigureÂ 7.Â An example graph of network throughput, created with rrdtool by using rrddriver.**
+**Figure 7. An example graph of network throughput, created with rrdtool by using rrddriver.**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![An example graph of network throughput, created with rrdtool by using rrddriver.](http://holger123.files.wordpress.com/2010/11/rrddriver-graph.png)
@@ -1050,7 +1050,7 @@ On the feature side, we have two really cool things to say. First off, we are in
   
 
 
-And then we have all tools FigureÂ 7, â€œAn example graph of network throughput, created with rrdtool by using rrddriver.â€ being able to run over a unix domain socket, including
+And then we have all tools Figure 7, “An example graph of network throughput, created with rrdtool by using rrddriver.” being able to run over a unix domain socket, including
       rrddriver. This is a further step to make the setup and configuration of SMBTA easier, as well
       as more efficient (bnc#654073) and helps us in our effort to build appliances for SMBTA. 
 
@@ -1060,7 +1060,7 @@ Smbtad was leaking memory when either smbtamonitor or rrddriver was connected to
       likely interesting to those who are developing SMBTA, has been completely documented
       (bnc#653769). 
 
-A short â€œhowtoâ€ section has been added to the documentation, that aims to
+A short “howto” section has been added to the documentation, that aims to
       describe the simplest possible setup for SMBTA. The idea is that users get a clue what to do
       and are able to adapt it to their environment. The documentation on building SMBTA has been
       updated with important details on how to build SMBTA in more complex environments and
@@ -1075,7 +1075,7 @@ Finally, I come back as to [why this
 
 You can download SMB Traffic Analyzer from the [Download Page](http://holger123.wordpress.com/smb-traffic-analyzer/smb-traffic-analyzer-download/). 
 
-For more information about SMB Traffic Analyzer, check itâ€™s [homepage](http://holger123.wordpress.com/smb-traffic-analyzer).
+For more information about SMB Traffic Analyzer, check it’s [homepage](http://holger123.wordpress.com/smb-traffic-analyzer).
 
 **You can find other interesting Packages at:**
 
@@ -1092,7 +1092,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 **[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:001)](http://lists.opensuse.org/opensuse-security-announce/2011-01/msg00000.html)**
 
-<table frame="void" id="id327226" >TableÂ 1.Â Security Announce<tr >
+<table frame="void" id="id327226" >Table 1. Security Announce<tr >
           
           
         </tr><tbody ><tr >
@@ -1134,7 +1134,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 **[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:002)](http://lists.opensuse.org/opensuse-security-announce/2011-01/msg00001.html)**
 
-<table frame="void" id="id327388" >TableÂ 2.Â Security Announce<tr >
+<table frame="void" id="id327388" >Table 2. Security Announce<tr >
           
           
         </tr><tbody ><tr >
@@ -1176,7 +1176,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 **[SUSE Security Announcement: Mozilla (SUSE-SA:2011:003)](http://lists.opensuse.org/opensuse-security-announce/2011-01/msg00002.html)**
 
-<table frame="void" id="id327550" >TableÂ 3.Â Security Announce<tr >
+<table frame="void" id="id327550" >Table 3. Security Announce<tr >
           
           
         </tr><tbody ><tr >
@@ -1226,7 +1226,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 ## ![Header Picture](/wp-content/uploads/2010/12/Tux.svg_.png)Kernel Review
 
 **
-      [Linux User and Developer/Jon Masters: The kernel column #96 with Jon Masters â€“ 2010 in
+      [Linux User and Developer/Jon Masters: The kernel column #96 with Jon Masters – 2010 in
         review ](http://www.linuxuser.co.uk/opinion/the-kernel-column-96-with-jon-masters-2010-in-review/)
     **
 
@@ -1236,15 +1236,15 @@ To view the security announcements in full, or to receive them as soon as they'r
         corporations) contributed two new architectures, several new file systems, and drivers for
         key hardware in the form of the Nouveau Nvidia driver (produced independently of Nvidia) and
         an open source Broadcom driver for its recent Wi-Fi chips. Of course, many more features
-        were added, tooâ€¦ **
+        were added, too… **
 
 Along the way, we also had two huge flame wars, several major security holes (one of which
       had been around for many years) were fixed, and many regressions were tracked and squashed.
       But if the year had to be summarised in a word, that word would be scalability. 2010 saw work
-      on almost every aspect of the kernel â€“ from Nick Pigginâ€™s VFS (virtual file system)
-      scalability patches to Arnd Bergmannâ€™s BKL (Big Kernel Lock) removal work, and countless other
+      on almost every aspect of the kernel – from Nick Piggin’s VFS (virtual file system)
+      scalability patches to Arnd Bergmann’s BKL (Big Kernel Lock) removal work, and countless other
       efforts in between. You will see that recurring theme in the following month-by-month summary.
-      If youâ€™d like to see some more figures to accompany this timeline, visit the Linux Foundation
+      If you’d like to see some more figures to accompany this timeline, visit the Linux Foundation
       website (linuxfoundation.org). Their annual kernel report focuses on overall numbers, not on
       individual features as we do here. (...)
 
@@ -1400,7 +1400,7 @@ My emphasis is on at-a-glance information. Currently, as users enter OBS, they a
 As we (well, mostly other people than me) were dealing with a rather obscure
       micro-controller when hacking our laser projector in brmlab, the only datasheet we have found
       has been in Chinese. This is quite often the case with obscure China-made parts (including
-      event stuff like LEDs) and itâ€™s annoying to deal with.
+      event stuff like LEDs) and it’s annoying to deal with.
 
 As powerful as the net-color spec for CompIcc and Oyranos are, they are currently slow. It
       takes Compiz around 11 seconds to show a usable desktop. For a colour geek like me no problem.
@@ -1490,7 +1490,7 @@ Once the live media runs, the desktop should appear colour managed. The trayicon
       natural, or detect a wide gamut monitor and compensate for its possibly very strong
       saturation.
 
-**FigureÂ 8.Â kolor-manager device profile selection**
+**Figure 8. kolor-manager device profile selection**
 
 <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![kolor-manager device profile selection](http://2.bp.blogspot.com/_-YtM6xplLKA/TSYwyGSAiGI/AAAAAAAAABc/WVncYf7WVEY/s400/kolor-manager_devices_110106.png)
@@ -1499,7 +1499,7 @@ Once the live media runs, the desktop should appear colour managed. The trayicon
   
 
 
-To change the monitor profile one can use kolor-manager FigureÂ 8, â€œkolor-manager device profile selectionâ€ from
+To change the monitor profile one can use kolor-manager Figure 8, “kolor-manager device profile selection” from
       KDE's systemsettings panel. It contains as well policies and default profile selection. These
       settings are stored in a per user database. To see that CompIcc is working one might select
       the CIE*XYZ profile, with its headroom and gamma of 1.0 the monitor appearance should change
@@ -1531,28 +1531,28 @@ The advantages of complete desktop colour correct are:
 Hope you can start the media. For ATI cards one further version is planed and maybe for
       other cards, like intel graphics, a separate version can follow. 
 
-**[Wolfgang Rosenauer: openSUSE project â€œEvergreenâ€](http://www.rosenauer.org/blog/2011/01/03/opensuse-project-evergreen/)**
+**[Wolfgang Rosenauer: openSUSE project “Evergreen”](http://www.rosenauer.org/blog/2011/01/03/opensuse-project-evergreen/)**
 
 Following up on my [previous blogpost](http://www.rosenauer.org/blog/2010/11/30/community-powered-long-term-support-for-opensuse/) I would like to give a small update on what happened so far about
       a longer supported (open)SUSE release. 
 
-We had a longer discussion on the mailing list if an openSLES (aâ€™la CentOS) or â€œopenSUSE
-      LTSâ€ would be the better or easier solution. There are pros and cons for both while the
-      required infrastructure differs a lot. Iâ€™m not diving into details here though. While I would
-      find a SLES clone appealing Iâ€™m not in the position to drive such an effort. I also do not
+We had a longer discussion on the mailing list if an openSLES (a’la CentOS) or “openSUSE
+      LTS” would be the better or easier solution. There are pros and cons for both while the
+      required infrastructure differs a lot. I’m not diving into details here though. While I would
+      find a SLES clone appealing I’m not in the position to drive such an effort. I also do not
       think that having both makes sense and therefore I decided to go on with the other approach
       for now trying to extend the lifetime of an existing openSUSE release. 
 
 People in the community came up with the project name Evergreen and I think that matches
       what we try to build pretty well. I proposed to give the whole effort a trial with openSUSE
       11.1 which went unsupported with the new year. At the moment we still have organizational and
-      technical issues and most likely wonâ€™t be able to utilize all the update features (deltarpms,
+      technical issues and most likely won’t be able to utilize all the update features (deltarpms,
       zypp patches) but still we will try to deliver updates from a certain update repository.
-      Because of the holiday season we couldnâ€™t figure out the details yet but hopefully will get it
+      Because of the holiday season we couldn’t figure out the details yet but hopefully will get it
       sorted out in time. Stay tuned for further detailed information here and on the mailing lists. 
 
-Please note that this effort is in experimental state still and didnâ€™t attract that many
-      contributors yet unfortunately. So at the moment itâ€™s still unclear if we will be able to
+Please note that this effort is in experimental state still and didn’t attract that many
+      contributors yet unfortunately. So at the moment it’s still unclear if we will be able to
       deliver as we would like to. 
 
 If you are interested in this project feel free to join our (current) [project list](http://lists.rosenauer.org/mailman/listinfo/evergreen).
@@ -1560,19 +1560,19 @@ If you are interested in this project feel free to join our (current) [project l
 **[OMG!SUSE! team: Hey slacker! Get back to work with LibreOffice on openSUSE](http://omgsuse.com/content/hey-slacker-get-back-work-libreoffice-opensuse)**
 
 In [a previous post](http://omgsuse.com/content/sleeping-job) I
-      mentioned a â€œ[spat with
-          Oracle](http://hudson-labs.org/content/whos-driving-thing)â€ regarding the [Hudson
+      mentioned a “[spat with
+          Oracle](http://hudson-labs.org/content/whos-driving-thing)” regarding the [Hudson
         project](http://www.hudson-labs.org). Since the acquisition of Sun Microsystems Oracle hasn't made many friends
       in the open source community, the most notable conflict occurring within the [OpenOffice.org](http://www.openoffice.org). The disagreements between the Open
       Office community and Oracle led to [the creation of the LibreOffice project](http://arstechnica.com/open-source/news/2010/09/document-foundation-forks-openofficeorg-to-liberate-it-from-oracle.ars), the founding of [The Document Foundation](http://www.documentfoundation.org/) and the
-        â€œsubsequent [mass exodus away from OpenOffice.org to LibreOffice](http://arstechnica.com/open-source/news/2010/11/fork-off-mass-exodus-from-ooo-as-contributors-join-libreoffice.ars)â€.
+        “subsequent [mass exodus away from OpenOffice.org to LibreOffice](http://arstechnica.com/open-source/news/2010/11/fork-off-mass-exodus-from-ooo-as-contributors-join-libreoffice.ars)”.
 
 At first glance you might not think that this is a big deal, but LibreOffice is a big win
-      for users! With the project's inception, LibreOffice incorporated some of the â€œ[go-oo](http://go-oo.org/)â€ changes which add better interoperability
+      for users! With the project's inception, LibreOffice incorporated some of the “[go-oo](http://go-oo.org/)” changes which add better interoperability
       and polish to the Linux office mainstay. The LibreOffice project is poised to improve the
       suite with much better speed and efficiency than ever before.
 
-**FigureÂ 9.Â LibreOffice on 11.3**
+**Figure 9. LibreOffice on 11.3**
 
 <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![LibreOffice on 11.3](http://cdn.omgsuse.com/omg/images/libreoffice.jpg)
@@ -1581,7 +1581,7 @@ At first glance you might not think that this is a big deal, but LibreOffice is 
   
 
 
-Thanks to some great work by the LibreOffice hackers associated with the openSUSE FigureÂ 9, â€œLibreOffice on 11.3â€ project, LibreOffice is packaged and ready for you to enjoy on
+Thanks to some great work by the LibreOffice hackers associated with the openSUSE Figure 9, “LibreOffice on 11.3” project, LibreOffice is packaged and ready for you to enjoy on
       openSUSE 11.3.
 
 
@@ -1592,7 +1592,7 @@ Thanks to some great work by the LibreOffice hackers associated with the openSUS
 **[Michal Hrusecky: openSUSE Paste screenshooting script](http://michal.hrusecky.net/2011/01/opensuse-paste-screenshooting-script/)**
 
 This post will be really quick. As you may know, [openSUSE Paste](http://susepaste.org) already supports [pasting images](http://michal.hrusecky.net/2010/11/pasting-images/). But I found
-      out, that some people donâ€™t use it because theyâ€™ve got some other pastebin nicelly integrated.
+      out, that some people don’t use it because they’ve got some other pastebin nicelly integrated.
       So to help them out, I created simple script that can help them. It is currently available in
         [openSUSE:Contrib](http://en.opensuse.org/openSUSE:Contrib) repository.
       You can install it, package name is susepaste-screenshot. When you run it, it will let you
@@ -1602,18 +1602,18 @@ This post will be really quick. As you may know, [openSUSE Paste](http://susepas
       upstream of your favourite pasting tool ;-) 
 
 btw. If you prefer not to install it manually, you can get it from [gitorious](http://gitorious.org/opensuse/paste/trees/master/script), but that
-      way, youâ€™ll have to deal with dependencies by yourself ;-)
+      way, you’ll have to deal with dependencies by yourself ;-)
 
 **[OMG!SUSE! team: The incredible improvement of the Linux desktop, with 224
       lines](http://omgsuse.com/content/incredible-improvement-linux-desktop-224-lines)**
 
 Over the last months significant work has been done on the Linux Kernel to improve
-      performance under heavy load in various user cases â€“ including common desktop scenario's. This
+      performance under heavy load in various user cases – including common desktop scenario's. This
       started after the 2.6.35 release of the kernel (openSUSE 11.3 contains 2.6.34) with the
       VM-scalability patches by Nick Piggin. Nick's improvements help desktop interactivity during
       heavy disk usage, for example when you are copying large files or when [Ktorrent](http://en.wikipedia.org/wiki/KTorrent) is writing a lot of data. These
       patches have had a hard time getting into the kernel, even though Master Tux (Linus Torvalds)
-      himself was very happy about the improvements â€“ it was complicated code. But most if not all
+      himself was very happy about the improvements – it was complicated code. But most if not all
       of the improvements will make it into openSUSE 11.4. And it turned out there was some
       low-hanging fruit as well.
 
@@ -1651,7 +1651,7 @@ Many Linux users that don't use 'high class' technology will be very happy with 
       will probably bring even more people to Gnu/Linux. It will also affect software engineers and
       everyone else around it. And hopefully more improvements will be done in the future. We will
       propably see this 224 lines of the code on the forthcoming 2.6.37 kernel. Project Tumbleweed
-      or the Kernel:Stable buildservice repository are probably your best bets to get this quickly â€“
+      or the Kernel:Stable buildservice repository are probably your best bets to get this quickly –
       otherwise you can of course wait for the next release of openSUSE in March 2011! 
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-On-the-Web.png)On the Web
@@ -1660,12 +1660,12 @@ Many Linux users that don't use 'high class' technology will be very happy with 
 
 **
         [KDE
-          News/Sebastian KÃ¼gler: 4.6 RC2 Available, Last Chance to Test](http://dot.kde.org/2011/01/05/46-rc2-available-last-chance-test)
+          News/Sebastian Kügler: 4.6 RC2 Available, Last Chance to Test](http://dot.kde.org/2011/01/05/46-rc2-available-last-chance-test)
       **
 
-â€œKDE's release team has rolled another set of 4.6 tarballs for us all to test
+“KDE's release team has rolled another set of 4.6 tarballs for us all to test
           and report problems: 4.6 RC2 This is the last test release leading up to 4.6.0, which is
-          planned for 26th January.â€
+          planned for 26th January.”
 
 ### Reports
 
@@ -1700,7 +1700,7 @@ Have fun...
           in Europe](http://www.zdnet.com/blog/networking/browser-wars-internet-explorer-loses-and-firefox-wins-in-europe/499)
       **
 
-It wasnâ€™t that long ago that your choice of Web browsers were Internet Explorer (IE)
+It wasn’t that long ago that your choice of Web browsers were Internet Explorer (IE)
         and, ah, uh, a sadly out of date [Netscape Navigator](http://practical-tech.com/network/rip-netscape) or the then obscure [Opera](http://www.opera.com/). IE was the Web browser, but then along came Firefox in 2004, and
         everything changed. Today, IE may finally be on its way to losing its market-share
         leadership position to [Firefox](http://www.mozilla.com/en-US/firefox/). 
@@ -1710,12 +1710,12 @@ It wasnâ€™t that long ago that your choice of Web browsers were Internet Ex
 </td></tr></table>
 
 According to a pair of research firms, [StatCounter](http://gs.statcounter.com/) and [Net
-          Application](http://www.netmarketshare.com/?source=NASite), IE is sinking fast, while [Googleâ€™s Chrome](http://www.google.com/chrome) is gaining rapidly at IEâ€™s expense. 
+          Application](http://www.netmarketshare.com/?source=NASite), IE is sinking fast, while [Google’s Chrome](http://www.google.com/chrome) is gaining rapidly at IE’s expense. 
 
 By [Net
-          Applicationâ€™s Web browser reckoning](http://www.netmarketshare.com/browser-market-share.aspx?qprid=1), IEâ€™s market-share has dropped to 57.1%, an
-        all-time low. Chromeâ€™s market-share, in the meantime, has climbed above 10% for the first
-        time. Appleâ€™s Safari is also showing strong gains by reaching the 5.9% mark. (...)
+          Application’s Web browser reckoning](http://www.netmarketshare.com/browser-market-share.aspx?qprid=1), IE’s market-share has dropped to 57.1%, an
+        all-time low. Chrome’s market-share, in the meantime, has climbed above 10% for the first
+        time. Apple’s Safari is also showing strong gains by reaching the 5.9% mark. (...)
 
 **[InformationWeek/Elizabeth Montalbano: NASA Open
           Source Architecture Wins Apache Support](http://bit.ly/OWN1573)
@@ -1735,16 +1735,16 @@ Apache has deemed the [Object Oriented Data
 
 **
         [Everyday Linux
-          How2s: KDE SC 4.6 RC1 â€“ Another Look](http://everydaylht.com/2011/01/01/kde-sc-4-6-rc1-another-look/)
+          How2s: KDE SC 4.6 RC1 – Another Look](http://everydaylht.com/2011/01/01/kde-sc-4-6-rc1-another-look/)
       **
 
 A few weeks ago, I put up a [post](http://everydaylht.com/2010/11/26/kde-4-6-beta-1-a-first-look/) about
         the first beta release of [KDE
-          SC 4.6](http://kde.org/announcements/announce-4.6-rc1.php). Unfortunately, due to a number of bugs, Iâ€™ve had to revert back to 4.5 on
+          SC 4.6](http://kde.org/announcements/announce-4.6-rc1.php). Unfortunately, due to a number of bugs, I’ve had to revert back to 4.5 on
         a couple of machines. One because there seemed to be a regression in graphics performance on
         the Intel based chipset I had on one machine. The other, because I decided to move from
         openSuse back to Kubuntu, which I might say was a pleasant surprise in terms of polish and
-        stability. Anyway, back to the story at hand â€¦ Having now installed KDE SC 4.6 RC1 on my
+        stability. Anyway, back to the story at hand … Having now installed KDE SC 4.6 RC1 on my
         main desktop machine, running Kubuntu, it seems to be playing quite nicely. Here are my
         impressions of this latest pre-release of KDE SC 4.6.
 
@@ -1754,14 +1754,14 @@ As I have stated in my previous post, the only really earth shattering thing in 
         release is (was) the porting of the KDEPIM suite of applications to Akonadi. This was left
         out of the 4.5 release due to too many bugs. Well, it seems that it will be left out of the
         4.6 release as well, due to migration issues with large data sets. This is interesting, as I
-        had a number of issues with Kmail 2.0 when testing the beta release. Iâ€™d checked on
+        had a number of issues with Kmail 2.0 when testing the beta release. I’d checked on
         bugs.kde.org to see if others had experienced these issues and filed a bug in relation to
-        the main issue I was having. I donâ€™t know if my email store of a few thousand emails on my
-        IMAP server would fall into the category of a â€œlarge datasetâ€ and if the bugs I
-        was experiencing were the same bugs that have held back the release. However, Iâ€™m glad
-        theyâ€™ve delayed again until these bugs are finally sorted out. However, this does
-        potentially move this release from â€œunspectacularâ€ to â€œborderline
-          uninterestingâ€. I just canâ€™t see any new features that I can really get excited
+        the main issue I was having. I don’t know if my email store of a few thousand emails on my
+        IMAP server would fall into the category of a “large dataset” and if the bugs I
+        was experiencing were the same bugs that have held back the release. However, I’m glad
+        they’ve delayed again until these bugs are finally sorted out. However, this does
+        potentially move this release from “unspectacular” to “borderline
+          uninteresting”. I just can’t see any new features that I can really get excited
         about. (...)
 
 **
@@ -1784,9 +1784,9 @@ Games released prior to 2000 on Amiga or perhaps on other operating systems and 
 
 Welcome to The H's look back at 2010. We've broken down the events of the year
         by what The H thinks was [full of win](http://www.urbandictionary.com/define.php?term=Full+of+win), who
-        was getting on the [failboat](http://failblog.org/2008/04/17/failboat-down-to-business/) and what made us just say â€œ
+        was getting on the [failboat](http://failblog.org/2008/04/17/failboat-down-to-business/) and what made us just say “
           [Meh](http://en.wikipedia.org/wiki/Meh)
-        â€. From the corporate giants and how they handled open source and the community to
+        ”. From the corporate giants and how they handled open source and the community to
         the battle to be the best browser, and from the best new open source to the worst mis-steps
         in the community.
 
@@ -1809,9 +1809,9 @@ We celebrated not one, but two awards this year. In May, [FSFE received the Theo
         Stuttgart in May, Ludwig Heuss, Director of the Theodor Heuss Foundation, praised
         FSFE's work for freedom in the information society: 
 
-â€œFree Software Foundation Europe receives the Theodor Heuss Medal 2010 because it
+“Free Software Foundation Europe receives the Theodor Heuss Medal 2010 because it
           competently contributes to creating new rules for social, political and legal conditions
-          for digital freedom through Free Software.â€
+          for digital freedom through Free Software.”
 
 A week earlier, on the 28th of April, FSFE's founding President [Georg Greve was awarded the
           German Federal Cross of Merit](http://fsfe.org/news/2010/news-20100428-01.en.html) (Bundesverdienstkreuz) in recognition of his great
@@ -1925,18 +1925,18 @@ While most of the following games work flawlessly, other will require some speci
           Alternatives)](http://www.makeuseof.com/tag/linux-web-server-software-apache-alternatives/)
       **
 
-Since the protocol that runs the world wide web â€“ the [HTTP protocol](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) â€“ is
+Since the protocol that runs the world wide web – the [HTTP protocol](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) – is
         open and viewable to the entire world, anyone with the programming knowledge is able to
         write their own web server. In fact Wikipedia [lists over 60 web
           servers](http://en.wikipedia.org/wiki/Comparison_of_web_servers) and those are only the ones released to the public. So which is the best
         one that you should run on your Linux server? 
 
-To be able to determine the â€˜bestâ€™ one we need to look at several factors. Ultimately it
+To be able to determine the ‘best’ one we need to look at several factors. Ultimately it
         depends on what your end goal is since some [web servers](http://makeuseof.com/tags/web-server) are geared towards a kind
         of client, others for speed and others for security. The main factors we are going to look
         at are **reliability, speed, security** and **ease of use**. 
 
-A lot of web servers will make claims to being the â€œkingâ€ of one or more of these
+A lot of web servers will make claims to being the “king” of one or more of these
         factors. However I believe the proof is in the pudding and if you look at actual web server
         usage across the internet you get a better idea of the wisdom of the crowds. Netcraft has
         been keeping track of web server types, hostnames and other data since 1995 and is a great
@@ -1944,7 +1944,7 @@ A lot of web servers will make claims to being the â€œkingâ€ of one or 
 
 Here is their web server usage survey up until December 2010:
 
-**FigureÂ 10.Â Server Survey**
+**Figure 10. Server Survey**
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 <td >![Server Survey](http://main.makeuseoflimited.netdna-cdn.com/wp-content/uploads/2010/12/netcraft-survey.png)
@@ -1953,7 +1953,7 @@ Here is their web server usage survey up until December 2010:
   
 
 
-Of the top FigureÂ 10, â€œServer Surveyâ€web servers in current use, Microsoftâ€™s web
+Of the top Figure 10, “Server Survey”web servers in current use, Microsoft’s web
         server IIS is the only pure-Windows one. Apache by and large is the most widely used web
         server software based on the number of users. It is also good to note that it is
         cross-platform and will run on both Windows and Linux systems. (...)
@@ -1976,7 +1976,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 

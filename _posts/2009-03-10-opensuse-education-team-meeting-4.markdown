@@ -41,10 +41,10 @@ For general info about our IRC meetings read:
   * [http://en.opensuse.org/Education/Meetings](http://en.opensuse.org/Education/Meetings)
 
 
-For a general technical introduction to IRC (Internet Relay Chat) see [http://www.irchelp.org/](http://www.irchelp.org/) ;(not affiliated with openSUSE) or enter â€œIRC helpâ€ into your preferred search engine.
+For a general technical introduction to IRC (Internet Relay Chat) see [http://www.irchelp.org/](http://www.irchelp.org/) ;(not affiliated with openSUSE) or enter “IRC help” into your preferred search engine.
 
 The network we use is freenode - for more information on this, including how to find a server, visit [http://freenode.net/](http://freenode.net/) ;(not affiliated with openSUSE either).
 
-Have a lot of fun â€¦
+Have a lot of fun …
 
 Lars (on behalf of the openSUSE-Education Team)

@@ -333,7 +333,7 @@ I would like to learn C and C++ and Python.
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 I think I would be nervous. No emails, no Weekly News, no OBS. No good perspective.

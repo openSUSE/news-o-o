@@ -26,7 +26,7 @@ LibreOffice comes with many improvements over its predecessor, OpenOffice.Org-3.
 <blockquote>"I think that users will appreciate the new hierarchical axis labels for charts, RTF export, easier slide layout handling, and all the other features we were able to add thanks to our more open development model."</blockquote>
 
 
-LibreOffice provides some unique benefits over other Office solutions beyond simply being free, like Online Help, as well as a host of usability improvements. Different Formula Syntaxes are implemented, including Calc A1, Excel A1 and Excel R1C1. Inline form editing is a lot easier to use. Another useful feature is the ability to use a split view on a sheet, while in multi-lingual documentsÂ we now have the ability to change language for a particular sentence. Presentations with LibreOffice will sparkle with the new 3D slide transitions in Impress.
+LibreOffice provides some unique benefits over other Office solutions beyond simply being free, like Online Help, as well as a host of usability improvements. Different Formula Syntaxes are implemented, including Calc A1, Excel A1 and Excel R1C1. Inline form editing is a lot easier to use. Another useful feature is the ability to use a split view on a sheet, while in multi-lingual documents we now have the ability to change language for a particular sentence. Presentations with LibreOffice will sparkle with the new 3D slide transitions in Impress.
 
 
 ## LibreOffice in openSUSE
@@ -73,6 +73,6 @@ Meeks, who was closely involved with the decision to fork LibreOffice away from 
 
 Watch out for LibreOffice in the upcoming scheduled release of openSUSE 11.4 on 10th March, 2011 which besides being the first major distribution to ship LibreOffice in a stable release promises many other new and updated applications, features and extensions, as well as numerous improvements to and stability and performance.
 
-A recentÂ  [interview with openSUSE LibreOffice developer Petr Mladek ](http://sysbytes.wordpress.com/2011/03/07/an-interview-with-petr-mladek-libre-office-developer/)gives additional information.
+A recent  [interview with openSUSE LibreOffice developer Petr Mladek ](http://sysbytes.wordpress.com/2011/03/07/an-interview-with-petr-mladek-libre-office-developer/)gives additional information.
 
 _Article contributed by Manu Gupta_

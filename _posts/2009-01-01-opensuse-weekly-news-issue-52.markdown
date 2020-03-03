@@ -15,7 +15,7 @@ Happy New Year !
 
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #52 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/52)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * openSUSE Education available SLE10 and 11.1   

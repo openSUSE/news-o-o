@@ -18,7 +18,7 @@ categories:
 ## It is out!
 
 
-Initiated at the openSUSE Conference in 2011 in NÃ¼rnberg, the openSUSE ARM team has managed to bring one of the most important Linux distributions to the ARM architecture in a little over a year. At this point, the team is confident openSUSE 12.2 can be installed and used on the following devices:
+Initiated at the openSUSE Conference in 2011 in Nürnberg, the openSUSE ARM team has managed to bring one of the most important Linux distributions to the ARM architecture in a little over a year. At this point, the team is confident openSUSE 12.2 can be installed and used on the following devices:
 
 
 

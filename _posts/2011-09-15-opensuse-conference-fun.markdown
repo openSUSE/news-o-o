@@ -12,7 +12,7 @@ categories:
 ---
 
 [![All kinds of Geekos](/wp-content/uploads/2011/09/Geekos.jpg)](http://news.opensuse.org/2011/09/15/opensuse-conference-fun/geekos/)
-At the openSUSE conference in NÃ¼rnberg almost 400 visitors have shown up for the four tracks of sessions about technical and community matters and the many other events and parties. While a longer article is coming, we'd like to give a taste of the conference here!
+At the openSUSE conference in Nürnberg almost 400 visitors have shown up for the four tracks of sessions about technical and community matters and the many other events and parties. While a longer article is coming, we'd like to give a taste of the conference here!
 <!-- more -->
 
 
@@ -20,7 +20,7 @@ At the openSUSE conference in NÃ¼rnberg almost 400 visitors have shown up for 
 
 
 Lots of talks and discussions ranging from development and low-level kernel tools to social and marketing sessions have taken place over the last four days, all focused on world domination of course. There was a large number of sessions around packaging, both focusing on teaching as well as improving current packaging quality and more steam lined maintenance of our repositories. Robert Schwelkert's talk on "Where do we improve?" proposed a lot of changes like improved translations, documentation, separating the bugzilla and getting rid of Novell's iChain.
-TheÂ openSUSE Project Meeting discussed a number of interesting ideas and developments including the current status of the openSUSE Foundation and upcoming elections. The board said it was working on the foundation but it is a slow process. We want to have a long-term solution with buy-in from all parties. As Attachmate has just joined this process it has taken time to get them up to speed but there is progress now. 
+The openSUSE Project Meeting discussed a number of interesting ideas and developments including the current status of the openSUSE Foundation and upcoming elections. The board said it was working on the foundation but it is a slow process. We want to have a long-term solution with buy-in from all parties. As Attachmate has just joined this process it has taken time to get them up to speed but there is progress now. 
 
 [![RepRap not in action](/wp-content/uploads/2011/09/RepRap.jpg)](http://news.opensuse.org/2011/09/15/opensuse-conference-fun/reprap/)
 

@@ -5,7 +5,7 @@ date: 2010-06-24 10:16:36+00:00
 layout: post
 link: https://news.opensuse.org/2010/06/24/opensuse-11-3-launch-party-in-nurnberg-15-7/
 slug: opensuse-11-3-launch-party-in-nurnberg-15-7
-title: openSUSE 11.3 Launch Party in NÃ¼rnberg (15.7.)
+title: openSUSE 11.3 Launch Party in Nürnberg (15.7.)
 wordpress_id: 3604
 categories:
 - Events

@@ -15,7 +15,7 @@ categories:
 
 Issue **#33** of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/33)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 

@@ -69,7 +69,7 @@ Gyula Petrovics wrote a MySQL destination driver for syslog-ng. Victor Tusa, the
 ### Project Syslog-ng Redis Destination
 
 
-TihamÃ©r Petrovics created a Redis Destination for syslog-ng. The project can be found at [github](https://github.com/ptichy/syslog-ng-3.4).
+Tihamér Petrovics created a Redis Destination for syslog-ng. The project can be found at [github](https://github.com/ptichy/syslog-ng-3.4).
 
 
 The other projects that were successful were:

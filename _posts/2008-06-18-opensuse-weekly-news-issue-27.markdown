@@ -15,7 +15,7 @@ categories:
 
 Issue #27 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/27)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -23,7 +23,7 @@ In this weekâ€™s issue:
   * HOT! Upcoming o p e n S U S E 1 1 . 0
 
 	
-  * People of openSUSE: Rupert HorstkÃ¶tter
+  * People of openSUSE: Rupert Horstkötter
 
 	
   * Sneak Peeks at openSUSE 11.0: KDE with Stephan Binner

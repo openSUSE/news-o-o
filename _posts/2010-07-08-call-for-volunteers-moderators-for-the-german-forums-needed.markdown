@@ -23,10 +23,10 @@ If you would like to join the team, you should have:
   * good knowledge in Linux, specially in openSUSE, and you should have motivation to share it.
 
 	
-  * good knowledge in writing German.Â  So you should be able to explain complicated things in an easy way.
+  * good knowledge in writing German.  So you should be able to explain complicated things in an easy way.
 
 	
-  * be patient, sympathetic, andÂ  gently. RTFM is not a solution.
+  * be patient, sympathetic, and  gently. RTFM is not a solution.
 
 	
   * have enough time to search posts in the forums that need a review.
@@ -40,26 +40,26 @@ If you're interested in helping us, please send an email to u.buckesfeld (AT) we
 
 **German**
 
-Wir mÃ¶chten in naher Zukunft auf[ forums.opensuse.org](http://forums.opensuse.org) auch deutschsprachige Foren anbieten.Â  DafÃ¼r suchen wir Moderatoren.
+Wir möchten in naher Zukunft auf[ forums.opensuse.org](http://forums.opensuse.org) auch deutschsprachige Foren anbieten.  Dafür suchen wir Moderatoren.
 
 Du solltest:
 
 
 
 	
-  * gute fachliche Kenntnisse im Bereich Linux und natÃ¼rlich besonders openSUSE haben und Deine Kenntnisse gern weitergeben.
+  * gute fachliche Kenntnisse im Bereich Linux und natürlich besonders openSUSE haben und Deine Kenntnisse gern weitergeben.
 
 	
-  * ein gutes Deutsch schreiben und dabei auch komplizierte Sachverhalte verstÃ¤ndlich beschreiben kÃ¶nnen.
+  * ein gutes Deutsch schreiben und dabei auch komplizierte Sachverhalte verständlich beschreiben können.
 
 	
-  * im Umgang mit Forennutzern geduldig, verstÃ¤ndnisvoll und sanftmÃ¼tig sein. "RTFM" is not an option.
+  * im Umgang mit Forennutzern geduldig, verständnisvoll und sanftmütig sein. "RTFM" is not an option.
 
 	
-  * ausreichend Zeit haben, um Foren auf regelungsbedÃ¼rftige Nachrichten und Threads zu prÃ¼fen.
+  * ausreichend Zeit haben, um Foren auf regelungsbedürftige Nachrichten und Threads zu prüfen.
 
 
-SchÃ¶n wÃ¤re auch, wenn Du Dich auf Englisch halbwegs verstÃ¤ndlich machen
-kÃ¶nntest. Die Amtssprache im Team ist Englisch.
+Schön wäre auch, wenn Du Dich auf Englisch halbwegs verständlich machen
+könntest. Die Amtssprache im Team ist Englisch.
 
 Falls Du Interesse hast, setz Dich bitte mit mir in Verbindung: Uwe Buckesfeld (u.buckesfeld (AT) web.de)

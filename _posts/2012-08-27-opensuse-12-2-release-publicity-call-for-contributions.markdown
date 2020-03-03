@@ -30,13 +30,13 @@ This is probably the easiest way to contribute.[ Throw a release party](http://e
 # Social Media
 
 
-We need a plan for announcing the 12.2 release on social media. Â If you're a social animal, volunteer to lead this for 12.2 on the Project list.
+We need a plan for announcing the 12.2 release on social media.  If you're a social animal, volunteer to lead this for 12.2 on the Project list.
 
 
 # Sneak Peeks
 
 
-People with detailed knowledge of specific areas of openSUSE are encouraged to help us write in-depth Sneak Peek articles. Â The following topics are suggested:
+People with detailed knowledge of specific areas of openSUSE are encouraged to help us write in-depth Sneak Peek articles.  The following topics are suggested:
 
 
 
@@ -56,7 +56,7 @@ People with detailed knowledge of specific areas of openSUSE are encouraged to h
   * Developer applications
 
 	
-  * [Merging /usr/bin and /binÂ ](http://en.opensuse.org/openSUSE:UsrMerge)
+  * [Merging /usr/bin and /bin ](http://en.opensuse.org/openSUSE:UsrMerge)
 
 	
   * Your idea!
@@ -73,12 +73,12 @@ Translate any of the above articles, the feature list (if you're feeling tough),
 # Bug Days
 
 
-Organising a bug review and triage day for a specific area of openSUSE is one of the most effective ways to build a good team, increase their skills and familiarity with the technical side of our distribution. Â Everyone can spot a bug, right? Look at ten bugs and everyone can perceive a pattern close the duplicates, andÂ or spot the simi
+Organising a bug review and triage day for a specific area of openSUSE is one of the most effective ways to build a good team, increase their skills and familiarity with the technical side of our distribution.  Everyone can spot a bug, right? Look at ten bugs and everyone can perceive a pattern close the duplicates, and or spot the simi
 
 
 # Upgrade Instructions
 
 
-The[ Support Database article on upgrading between openSUSE versions](http://en.opensuse.org/SDB:System_upgrade) was last updated for openSUSE 11.4! Â This would be easy to update, but keep in mind that for 12.2 the online update repositories [have been split between Free and proprietary software](https://bugzilla.novell.com/show_bug.cgi?id=768639), so both need to be added.
+The[ Support Database article on upgrading between openSUSE versions](http://en.opensuse.org/SDB:System_upgrade) was last updated for openSUSE 11.4!  This would be easy to update, but keep in mind that for 12.2 the online update repositories [have been split between Free and proprietary software](https://bugzilla.novell.com/show_bug.cgi?id=768639), so both need to be added.
 
 

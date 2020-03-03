@@ -20,7 +20,7 @@ AutoBuild was the first full automated system on this planet which built Linux d
 
 However, 11 years is a long time in the IT industry. New requirements are appearing and the openSUSE project in particular needed an open system, not limited to SUSE/Novell employees.
 
-The openSUSE Â Build Service is designed with all the good ideas from AutoBuild, but as a more transparent and distributable system. For example we invented the [Product Definition](http://en.opensuse.org/Build_Service/Concepts/Product_Definition) lately, which describes all needed information describing all openSUSE media. The Build Service automatically creates needed packages and [KIWI](http://en.opensuse.org/KIWI) image build descriptions, and will create the openSUSE product flavours, like the ISO images, or installation source trees.
+The openSUSE  Build Service is designed with all the good ideas from AutoBuild, but as a more transparent and distributable system. For example we invented the [Product Definition](http://en.opensuse.org/Build_Service/Concepts/Product_Definition) lately, which describes all needed information describing all openSUSE media. The Build Service automatically creates needed packages and [KIWI](http://en.opensuse.org/KIWI) image build descriptions, and will create the openSUSE product flavours, like the ISO images, or installation source trees.
 
 This functionality makes it easy to rebuild the entire distribution. Together with the functionality of Build Service interconnect it makes it even possible that you can rebuild the openSUSE distribution at home. Either by recompiling it completely, replacing only a few packages, or just adding one.
 

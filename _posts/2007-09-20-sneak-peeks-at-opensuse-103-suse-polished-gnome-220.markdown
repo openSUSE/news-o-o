@@ -99,7 +99,7 @@ YaST now defaults to the GTK front-end if you are using GNOME, but don't worry -
 In the past, extensive usability studies in the SUSE usability lab lead the GNOME team at SUSE to re-design the GNOME menu and panel. The result was _SLAB_, a new menu for GNOME. After further testing in openSUSE 10.2 and SUSE Linux Enterprise 10, a few additional changes were made to the menu that improve usability, ease-of-use, and of course top it up with a polished and professional look that gives you a [better desktop](http://www.betterdesktop.org):
 
 
-[![SUSE â€œSLABâ€ Menu](//news.opensuse.org/wp-content/uploads/2007/09/gnome-slab_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/gnome-slab.png)
+[![SUSE “SLAB” Menu](//news.opensuse.org/wp-content/uploads/2007/09/gnome-slab_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/gnome-slab.png)
 
 
 
@@ -113,7 +113,7 @@ Two other light, usability-centric and accessible Mono applications available in
 The new F-Spot saw [several additions](http://f-spot.org/News), including view mode improvements, a better red-eye removal algorithm, possibility to export images to PicasaWeb (flickr, too, has always been supported), and much more:
 
 
-[![F-Spot Photo Browser](//news.opensuse.org/wp-content/uploads/2007/09/f-spot_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/f-spot.png) [![F-Spot â€œEdit Imageâ€ Mode](//news.opensuse.org/wp-content/uploads/2007/09/f-spot-editimage_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/f-spot-editimage.png)
+[![F-Spot Photo Browser](//news.opensuse.org/wp-content/uploads/2007/09/f-spot_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/f-spot.png) [![F-Spot “Edit Image” Mode](//news.opensuse.org/wp-content/uploads/2007/09/f-spot-editimage_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/f-spot-editimage.png)
 
 
 Banshee has also had its share of [improvements](http://banshee-project.org/Releases/0.13.0). You can now share local playlists over DAAP (the iTunes protocol), there's a new interactive rating menu item, and as always comes with full MP3 support if you install _helix-banshee_ from the Non-OSS repository. Here are a few up-to-date screenshots:

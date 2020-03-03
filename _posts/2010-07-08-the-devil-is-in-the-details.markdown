@@ -5,7 +5,7 @@ date: 2010-07-08 12:35:41+00:00
 layout: post
 link: https://news.opensuse.org/2010/07/08/the-devil-is-in-the-details/
 slug: the-devil-is-in-the-details
-title: The devil is in the details â€“ What changes on monday for the wiki oldtimers?
+title: The devil is in the details – What changes on monday for the wiki oldtimers?
 wordpress_id: 3693
 categories:
 - Wiki
@@ -73,7 +73,7 @@ A couple of days ago I gave you the big picture on what will happen to en.opensu
 ## Page Locations
 
 
-This is the first thing you have to learn. You can't just simply throw your page into en.opensuse.org/My_great_page anymore. You have to use a little bit of the Grey matter that was given to you and place your pageÂ  into the correct namespace.
+This is the first thing you have to learn. You can't just simply throw your page into en.opensuse.org/My_great_page anymore. You have to use a little bit of the Grey matter that was given to you and place your page  into the correct namespace.
 
 The rules are actually pretty simple:
 

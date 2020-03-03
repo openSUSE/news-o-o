@@ -5,7 +5,7 @@ date: 2011-04-08 14:20:32+00:00
 layout: post
 link: https://news.opensuse.org/2011/04/08/welcome-gnome-3-we-have-a-present-for-you/
 slug: welcome-gnome-3-we-have-a-present-for-you
-title: Welcome GNOME 3! We have a present for youâ€¦
+title: Welcome GNOME 3! We have a present for you…
 wordpress_id: 8230
 categories:
 - Distribution
@@ -15,7 +15,7 @@ categories:
 
 **Dear GNOME 3,**
 
-So, you're born, and we here at openSUSE Project are very excited to welcome you into the world.Â  We've been watching with anticipation and excitement as the many thousands of developers and contributors mobilized around the world to make your first steps into this world a reality.Â The videos and plethora of information shown on [gnome3.org](http://gnome3.org/) make clear that you're very welcome!<!-- more -->
+So, you're born, and we here at openSUSE Project are very excited to welcome you into the world.  We've been watching with anticipation and excitement as the many thousands of developers and contributors mobilized around the world to make your first steps into this world a reality. The videos and plethora of information shown on [gnome3.org](http://gnome3.org/) make clear that you're very welcome!<!-- more -->
 
 
 

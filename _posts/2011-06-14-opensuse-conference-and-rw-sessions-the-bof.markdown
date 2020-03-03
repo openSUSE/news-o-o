@@ -5,7 +5,7 @@ date: 2011-06-14 03:22:37+00:00
 layout: post
 link: https://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/
 slug: opensuse-conference-and-rw-sessions-the-bof
-title: openSUSE Conference and RW sessions â€“ the BoF
+title: openSUSE Conference and RW sessions – the BoF
 wordpress_id: 9329
 categories:
 - Conference
@@ -37,7 +37,7 @@ Free Software communities work online in a collaborative fashion. That's marketi
 
 For asking questions, basic decision making or just getting work done, this is excellent. For socializing, it is less optimal, but you'll still find plenty of social interactions especially in IRC channels. It gets much harder however, when complicated issues surface. If decisions have to be made about processes or fundamental technical directions, the online aspect gets in the way. You quickly run into misunderstandings and while our hacker culture compels us to fairly direct ('rude') communication, still emotions can run wild.
 
-At the conference, **CÃ©dric Bosdonnat** wants to discuss using statistics from the LibreOffice git repositories to show information about contributions and contributors. He will first present the way statistics are extracted from the repository and then pose the question how to turn these rough statistics into valuable, meaningful numbers. How do you relate the lines-of-code added to the complexity of a change? How can one decide, from the stats, if someone is a long-term contributor? A core developer?
+At the conference, **Cédric Bosdonnat** wants to discuss using statistics from the LibreOffice git repositories to show information about contributions and contributors. He will first present the way statistics are extracted from the repository and then pose the question how to turn these rough statistics into valuable, meaningful numbers. How do you relate the lines-of-code added to the complexity of a change? How can one decide, from the stats, if someone is a long-term contributor? A core developer?
 
 **This is where face to face meetings help**. Getting to know each other over dinner or during a party is a powerful enabler for future online communication. But it is also the perfect moment to make those **hard decisions**! And that is where the BoF comes in.
 

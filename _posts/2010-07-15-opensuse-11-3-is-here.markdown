@@ -34,6 +34,6 @@ Click the desktop screenshots for a full view or see the complete collection of 
 
 For servers and development platforms, administrators can take full advantage of the new MariaDB and MySQL Cluster services as well as Conntrack to filter network packets for iptables. Developers will appreciate the plethora of tools available at their fingertips with GCC, GDB and Mono and IDEs such as Netbeans, Qt-Creator and many others. This is all on top of the countless libraries available through the [openSUSE Build Service (OBS)](https://build.opensuse.org/).
 
-Visit our [Product Highlights](http://wiki.opensuse.org/Product_highlights) pageÂ for a detailed list of new features.
+Visit our [Product Highlights](http://wiki.opensuse.org/Product_highlights) page for a detailed list of new features.
 
 The next release will be openSUSE 11.4 in March, 2011.  Thank you, and have a lot of fun!

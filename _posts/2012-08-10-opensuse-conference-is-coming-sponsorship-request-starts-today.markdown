@@ -16,7 +16,7 @@ categories:
 
 The Travel Committee can reimburses up to 80% of travel costs and lodging costs such as plane ticket, train ticket, bus ticket, hotel and hostel. Expenses with Visa, documentation, food, extras are up to the requester, The Travel Team won't be able to cover since is looking for sponsor as many people as possible.
 
-**The instructions are detailed at http://en.opensuse.org/openSUSE:Travel_Support_ProgramÂ **
+**The instructions are detailed at http://en.opensuse.org/openSUSE:Travel_Support_Program **
 
 Please read carefully and send the request to travel-support(at)opensuse(dot)org
 
@@ -38,11 +38,11 @@ Some additional comments:
 
 * If you were part of Google Summer of Code as openSUSE student or mentor you should mention it in your application.
 
-* If you submitted an abstract to be presented at openSUSE Conference you shouldÂ  mention it in your application.
+* If you submitted an abstract to be presented at openSUSE Conference you should  mention it in your application.
 
 * It's important you tell us which airport you will be departing from.
 
-*Â  Try to get the best fares for tickets and lodging. Remember you still have to pay at least 20% yourself and the committee will verify the amount requested looking for the best offers on public website (E.g. KAYAK, Expedia, e-Dreams,...).
+*  Try to get the best fares for tickets and lodging. Remember you still have to pay at least 20% yourself and the committee will verify the amount requested looking for the best offers on public website (E.g. KAYAK, Expedia, e-Dreams,...).
 
 The Travel Team sends a reply upon receiving your application. We will then wait for all applicants to send in their requests for the event and only once we have a full overview, responses will be given. Please do not send personal emails, always CC the travel-support team in your replies.
 

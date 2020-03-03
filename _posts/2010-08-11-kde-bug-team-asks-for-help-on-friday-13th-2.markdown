@@ -26,9 +26,9 @@ The aim of this bug triage is to help make KDE a bit better. You don't need to h
 
 So, let's squash bugs together! Join us in the #opensuse-kde IRC channel on Freenode :-)
 
-For more info on bug squashing KDE, take a lookÂ [here](http://en.opensuse.org/openSUSE:Bug_Squashing_KDE)!
+For more info on bug squashing KDE, take a look [here](http://en.opensuse.org/openSUSE:Bug_Squashing_KDE)!
 
-To see a list of open bugs isÂ [here](http://en.opensuse.org/openSUSE:Bug_Squashing_KDE_bugreports) (automatically generated).
+To see a list of open bugs is [here](http://en.opensuse.org/openSUSE:Bug_Squashing_KDE_bugreports) (automatically generated).
 
 Happy KDE bug squashing!</blockquote>
 

@@ -85,7 +85,7 @@ Development on Compiz Fusion has been so fast that it is barely possible to docu
 Compiz Fusion has a completely new manager for handling its plugins and settings, as well as all settings belonging to Compiz itself: _ccsm_. It has a more accessible and intuitive design while still retaining all the same configurability.
 
 
-[![CompizConfig Settings Manager (ccsm)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings.png)  [![CCSM â€œAnimationâ€ Configuration](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings-animation_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings-animation.png)
+[![CompizConfig Settings Manager (ccsm)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings.png)  [![CCSM “Animation” Configuration](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings-animation_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/compizconfig-settings-animation.png)
 
 
 

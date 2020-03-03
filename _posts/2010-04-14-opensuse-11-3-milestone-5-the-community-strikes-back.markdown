@@ -14,9 +14,9 @@ categories:
 
 **Milestone 5** (of 7), a snapshot of the [Factory](http://en.opensuse.org/Factory) "work in progress" build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now available for [download](http://software.opensuse.org/developer).
 
-[M5](http://software.opensuse.org/developer) was marked by significant contributions from both the openSUSE Community, and the larger Linux community. Â We've added some interesting new packages, made some updates to core processes, andÂ participatedÂ in a coordinated multi-distribution upgrade of a major multimedia component. Â Over 50 bugs were [fixed](https://bugzilla.novell.com/buglist.cgi?resolution=FIXED&chfieldto=2010-04-08&query_format=advanced&chfieldfrom=2010-03-25&bug_status=RESOLVED&product=openSUSE%2011.3) and 8 new [features](https://features.opensuse.org/query/run?search_string=&search_products[]=openSUSE-11.3&search_status[]=done&type=find&commit=Search) were implemented.
+[M5](http://software.opensuse.org/developer) was marked by significant contributions from both the openSUSE Community, and the larger Linux community.  We've added some interesting new packages, made some updates to core processes, and participated in a coordinated multi-distribution upgrade of a major multimedia component.  Over 50 bugs were [fixed](https://bugzilla.novell.com/buglist.cgi?resolution=FIXED&chfieldto=2010-04-08&query_format=advanced&chfieldfrom=2010-03-25&bug_status=RESOLVED&product=openSUSE%2011.3) and 8 new [features](https://features.opensuse.org/query/run?search_string=&search_products[]=openSUSE-11.3&search_status[]=done&type=find&commit=Search) were implemented.
 
-**Warning: The media cannot be installed on 64-bit x86-64 systems due toÂ  [Bug #595545](https://bugzilla.novell.com/show_bug.cgi?id=595545).Â  Also if you update with zypper dup to current factory, wait until the next rebuild is finished, for details see [Bug  #595545](https://bugzilla.novell.com/show_bug.cgi?id=595545).**
+**Warning: The media cannot be installed on 64-bit x86-64 systems due to  [Bug #595545](https://bugzilla.novell.com/show_bug.cgi?id=595545).  Also if you update with zypper dup to current factory, wait until the next rebuild is finished, for details see [Bug  #595545](https://bugzilla.novell.com/show_bug.cgi?id=595545).**
 
 
 ## Release News:
@@ -56,7 +56,7 @@ categories:
   * The installation slideshow now talks about version 11.3 instead of 11.2. ([bugzilla 588396](https://bugzilla.novell.com/show_bug.cgi?id=588396))
 
 	
-  * LithuanianÂ keyboard layout added. ([bugzilla 569554](https://bugzilla.novell.com/show_bug.cgi?id=569554))
+  * Lithuanian keyboard layout added. ([bugzilla 569554](https://bugzilla.novell.com/show_bug.cgi?id=569554))
 
 	
   * Encrypted swap volumes no longer need to be formatted during install; [YaST](http://en.opensuse.org/Yast) will prompt for [LUKS](http://code.google.com/p/cryptsetup/) volume passwords. ([bugzilla 581341](https://bugzilla.novell.com/show_bug.cgi?id=581341))
@@ -101,7 +101,7 @@ categories:
   * Update to [rpm](http://www.rpm.org/) 4.8.0 ([release notes](http://www.rpm.org/wiki/Releases/4.8.0))
 
 	
-  * Update to [zypper](http://en.opensuse.org/Zypper) 1.4.1 resolves Â issues with 'zypper ref' and 'zypper up'. ([bugzilla 586979](https://bugzilla.novell.com/show_bug.cgi?id=586979), [bugzilla 591760](https://bugzilla.novell.com/show_bug.cgi?id=591760))
+  * Update to [zypper](http://en.opensuse.org/Zypper) 1.4.1 resolves  issues with 'zypper ref' and 'zypper up'. ([bugzilla 586979](https://bugzilla.novell.com/show_bug.cgi?id=586979), [bugzilla 591760](https://bugzilla.novell.com/show_bug.cgi?id=591760))
 
 	
   * Update to [NetBeans](http://en.opensuse.org/Netbeans) 6.8 in Java:packages. ([bugzilla 593600](https://bugzilla.novell.com/show_bug.cgi?id=593600))
@@ -134,7 +134,7 @@ categories:
 
 
 	
-  * Update to [X11](http://www.x.org/wiki/) 7.5 & Â xorg-server to 1.8.0. Â ([openFATE 306903](https://features.opensuse.org/306903), [bugzilla 586157](https://bugzilla.novell.com/show_bug.cgi?id=586157),Â [bugzilla 586350](https://bugzilla.novell.com/show_bug.cgi?id=586350),Â [bugzilla 587514](https://bugzilla.novell.com/show_bug.cgi?id=587514), [bugzilla 576481](https://bugzilla.novell.com/show_bug.cgi?id=576481), [bugzilla 593878](https://bugzilla.novell.com/show_bug.cgi?id=593878))
+  * Update to [X11](http://www.x.org/wiki/) 7.5 &  xorg-server to 1.8.0.  ([openFATE 306903](https://features.opensuse.org/306903), [bugzilla 586157](https://bugzilla.novell.com/show_bug.cgi?id=586157), [bugzilla 586350](https://bugzilla.novell.com/show_bug.cgi?id=586350), [bugzilla 587514](https://bugzilla.novell.com/show_bug.cgi?id=587514), [bugzilla 576481](https://bugzilla.novell.com/show_bug.cgi?id=576481), [bugzilla 593878](https://bugzilla.novell.com/show_bug.cgi?id=593878))
 
 	
   * Added [nouveau](http://nouveau.freedesktop.org/wiki/) driver for Nvidia graphics. ([openFATE 307588](https://features.opensuse.org/307588))
@@ -149,22 +149,22 @@ categories:
   * An [hplip](http://hplipopensource.com/) update resolves deprecation issues related to [udev](http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev.html). ([bugzilla 577035](https://bugzilla.novell.com/show_bug.cgi?id=577035))
 
 	
-  * Update to [PCManFM](http://pcmanfm.sourceforge.net/)'s (a lightweight file manager) Â libfm-0.1.9beta resolves some file access issues. ([bugzilla 591731](https://bugzilla.novell.com/show_bug.cgi?id=591731))
+  * Update to [PCManFM](http://pcmanfm.sourceforge.net/)'s (a lightweight file manager)  libfm-0.1.9beta resolves some file access issues. ([bugzilla 591731](https://bugzilla.novell.com/show_bug.cgi?id=591731))
 
 	
-  * xscreensaver-recommended only installs a recommended subset of screensavers, and is selected byÂ default instead of xscreensaver-extras. ([openFATE ï»¿ï»¿308474](https://features.opensuse.org/308474))
+  * xscreensaver-recommended only installs a recommended subset of screensavers, and is selected by default instead of xscreensaver-extras. ([openFATE ﻿﻿308474](https://features.opensuse.org/308474))
 
 	
   * [iwl3945](http://wireless.kernel.org/en/users/Drivers/iwl3945) (an Intel Wireless LAN driver) no longer needs to be reloaded after [NetworkManager](http://www.gnome.org/projects/NetworkManager/) startup. ([bugzilla 586711](https://bugzilla.novell.com/show_bug.cgi?id=586711))
 
 	
-  * [Gnome](http://en.opensuse.org/Gnome) 2.30 Â 'About Me' no longer looses information. ([bugzilla 588172](https://bugzilla.novell.com/show_bug.cgi?id=588172))
+  * [Gnome](http://en.opensuse.org/Gnome) 2.30  'About Me' no longer looses information. ([bugzilla 588172](https://bugzilla.novell.com/show_bug.cgi?id=588172))
 
 	
   * [gnome-keyring](http://live.gnome.org/GnomeKeyring) works properly under [LXDE](http://en.opensuse.org/Lxde). ([bugzilla 580043](https://bugzilla.novell.com/show_bug.cgi?id=580043))
 
 	
-  * Update toÂ [gnuplot](http://www.gnuplot.info/) 4.4. ([bugzilla 592563](https://bugzilla.novell.com/show_bug.cgi?id=592563))
+  * Update to [gnuplot](http://www.gnuplot.info/) 4.4. ([bugzilla 592563](https://bugzilla.novell.com/show_bug.cgi?id=592563))
 
 	
   * Update to [seamonkey](http://en.opensuse.org/Seamonkey) 2.0.4. ([bugzilla 592587](https://bugzilla.novell.com/show_bug.cgi?id=592587))
@@ -179,7 +179,7 @@ categories:
 
 
 	
-  * Update to [pm-utils](http://en.opensuse.org/Pm-utils) to 1.3.0; power management utilities now use udisks/upower and have no dependencies on HAL;Â video quirks are included. ([openSUSE-factory list](http://lists.opensuse.org/opensuse-factory/2010-04/msg00008.html))
+  * Update to [pm-utils](http://en.opensuse.org/Pm-utils) to 1.3.0; power management utilities now use udisks/upower and have no dependencies on HAL; video quirks are included. ([openSUSE-factory list](http://lists.opensuse.org/opensuse-factory/2010-04/msg00008.html))
 
 	
   * [NetworkManager](http://www.gnome.org/projects/NetworkManager/) has support for PEAP with Generic Token Card (PEAP-GTC). ([openFATE 309158](https://features.opensuse.org/309158))
@@ -215,4 +215,4 @@ As this is a milestone release, 11.3 [M5](http://software.opensuse.org/developer
 
 
 
-[](/wp-content/uploads/2010/02/milestone2_113.png)What are you waiting for? Grab the milestone release fromÂ [software.opensuse.org/developer](http://software.opensuse.org/developer) today!
+[](/wp-content/uploads/2010/02/milestone2_113.png)What are you waiting for? Grab the milestone release from [software.opensuse.org/developer](http://software.opensuse.org/developer) today!

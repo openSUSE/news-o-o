@@ -52,7 +52,7 @@ What does SELinux basic enablement mean?
   * The libraries required for SELinux (libselinux, libsepol, libsemanage, etc.) will be added to openSUSE and SUSE Linux Enterprise.
 
 	
-  * However, we are not offering enterprise class _support_ for SELinux at this time; thus we will run QA with SELinux disabled â€“ to make sure that SELinux patches don't break the default delivery and the majority of packages.
+  * However, we are not offering enterprise class _support_ for SELinux at this time; thus we will run QA with SELinux disabled – to make sure that SELinux patches don't break the default delivery and the majority of packages.
 Although we will not be running QA with SELinux enabled, we encourage our testers to run tests with SELinux enabled and report issues and enhancement requests back to us.
 
 	

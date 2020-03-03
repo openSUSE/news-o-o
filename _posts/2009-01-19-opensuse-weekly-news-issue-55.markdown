@@ -12,7 +12,7 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #55 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/55)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * openSUSE Project Opens Feature Tracking with openFATE

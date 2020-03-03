@@ -14,7 +14,7 @@ categories:
 
 We are pleased to announce an additional track of talks and workshops as part of the [openSUSE Conference 2012](http://conference.opensuse.org/)[.](http://conference.opensuse.org/) On Monday, October 22nd at Masaryk College, Thakurova 1, Prague.
 
-The focus of the track of talks and workshops will be on the use of Open Source and SUSE products in Â business, both for the primary company mission and for support functions. Join key SUSE engineers and maangers to hear about the latest developments in:
+The focus of the track of talks and workshops will be on the use of Open Source and SUSE products in  business, both for the primary company mission and for support functions. Join key SUSE engineers and maangers to hear about the latest developments in:
 
 
 
@@ -40,4 +40,4 @@ The track is aimed at CIOs, CTOs, IT executives and managers, as well as
 staff in IT interested in new technologies, challenges and opportunities
 offered by Open Source.
 
-Attendance is free, but please [register at the conference websit](http://conference.opensuse.org/Register/)e. Â We look forward to seeing you there!
+Attendance is free, but please [register at the conference websit](http://conference.opensuse.org/Register/)e.  We look forward to seeing you there!

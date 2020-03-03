@@ -18,7 +18,7 @@ categories:
 
 **For almost 2 years _Izabel Valverde_ and _Kostas Koudaras_ run the Travel Support Program Team with the openSUSE Board & SUSE support.**
 
-**After a great job done into TSP, Kostas is now member of the openSUSE Board so we have have 2 new members on TSP filling his spot and giving us an extra help. At the dawn of the new year we are pleased to announce the current openSUSE Travel Support Team: _Efstathios Iosifidis_ a.k.a Diamond_gr, _Izabel Valverde_ and _Marcel KÃ¼hlhorn_ a.k.a. Tux93.**
+**After a great job done into TSP, Kostas is now member of the openSUSE Board so we have have 2 new members on TSP filling his spot and giving us an extra help. At the dawn of the new year we are pleased to announce the current openSUSE Travel Support Team: _Efstathios Iosifidis_ a.k.a Diamond_gr, _Izabel Valverde_ and _Marcel Kühlhorn_ a.k.a. Tux93.**
 
 **The new TSP Team wishes to Kostas good luck on his new journey and is thankful for all the work done.**
 

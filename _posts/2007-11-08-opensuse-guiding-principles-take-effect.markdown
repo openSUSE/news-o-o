@@ -20,7 +20,7 @@ We want to especially thank all contributors to the Guiding Principles, and last
 
 Have a lot of fun! 
 
-Adrian SchrÃ¶ter 
+Adrian Schröter 
 Andreas Jaeger 
 Benjamin Weber 
 Cornelius Schumacher 
@@ -32,6 +32,6 @@ Justin Steinman
 Klaas Freitag 
 Martin Lasarsch 
 Martin Schlander 
-Michael LÃ¶ffler 
+Michael Löffler 
 Pascal Bleser 
 Roger Levy

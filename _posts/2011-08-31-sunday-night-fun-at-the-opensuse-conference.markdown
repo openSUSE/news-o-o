@@ -18,7 +18,7 @@ On Sunday the kick off day to our conference, we have two fun events planned:
 
 (Old HW Guy)
 
-[![Speedy Geeko 2011 Logo](/wp-content/uploads/2011/08/speedy-geeko.png)](http://news.opensuse.org/?attachment_id=10448)Immediately following Old HW Guy, we'll be kicking off our first ever SpeedyGeeko.Â  It's a lightning talk with a twist.Â  Here's how it works:
+[![Speedy Geeko 2011 Logo](/wp-content/uploads/2011/08/speedy-geeko.png)](http://news.opensuse.org/?attachment_id=10448)Immediately following Old HW Guy, we'll be kicking off our first ever SpeedyGeeko.  It's a lightning talk with a twist.  Here's how it works:
 
 
 
@@ -37,8 +37,8 @@ On Sunday the kick off day to our conference, we have two fun events planned:
 
 You can already begin to see how crazy things will get as presenters try to keep up with their own slides!
 
-And what kind of topics will be presented?Â  Literally anything you want (as long as it is not offensive).Â  Presenters can talk about their favorite open source project, do a song-and-dance routine, talk about a funny story that happened to them, or even just do a 5 minute review of their baby pictures.Â  And the topics do not have to be related to openSUSE.
+And what kind of topics will be presented?  Literally anything you want (as long as it is not offensive).  Presenters can talk about their favorite open source project, do a song-and-dance routine, talk about a funny story that happened to them, or even just do a 5 minute review of their baby pictures.  And the topics do not have to be related to openSUSE.
 
-This is your chance to express your creative side.Â  Or talk about your favorite subject that you didn't see in the regular openSUSE Conference program.
+This is your chance to express your creative side.  Or talk about your favorite subject that you didn't see in the regular openSUSE Conference program.
 
-We have a few slots still open.Â  If you're interested, contact <insert contact method> to reserve your 5 minute slot now!
+We have a few slots still open.  If you're interested, contact <insert contact method> to reserve your 5 minute slot now!

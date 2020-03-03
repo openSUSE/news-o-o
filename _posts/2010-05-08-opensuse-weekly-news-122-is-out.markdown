@@ -184,7 +184,7 @@ We pleased to announce our new openSUSE Weekly News Issue 122.
   * [5 In the Community](http://en.opensuse.org/OpenSUSE_Weekly_News/122#In_the_Community)
 
 	
-    * [5.1 Shayon Mukherjee: Part 1 : Marketing â€“ the other way or the highway](http://en.opensuse.org/OpenSUSE_Weekly_News/122#Shayon_Mukherjee:_Part_1_:_Marketing_.E2.80.93_the_other_way_or_the_highway)
+    * [5.1 Shayon Mukherjee: Part 1 : Marketing – the other way or the highway](http://en.opensuse.org/OpenSUSE_Weekly_News/122#Shayon_Mukherjee:_Part_1_:_Marketing_.E2.80.93_the_other_way_or_the_highway)
 
 	
     * [5.2 Events](http://en.opensuse.org/OpenSUSE_Weekly_News/122#Events)
@@ -455,7 +455,7 @@ We pleased to announce our new openSUSE Weekly News Issue 122.
 ####  [**openSUSE 11.3 Milestone 6: The Dust Begins to Settle**](http://news.opensuse.org/2010/05/03/opensuse-11-3-milestone-6-the-dust-begins-to-settle/)
 
 
-"Milestone 6 (of 7), a snapshot of the Factory â€œwork in progressâ€ build, leading up to openSUSE 11.3 release in July, is now available for download.  M6 is the first release during the â€œStablizing Freezeâ€: focus has transitioned away from the inclusion of new features and applications toward increasing stability and usability. To that end, 162 bugs were resolved during the M5 â€“ M6 timeframe!"  
+"Milestone 6 (of 7), a snapshot of the Factory “work in progress” build, leading up to openSUSE 11.3 release in July, is now available for download.  M6 is the first release during the “Stablizing Freeze”: focus has transitioned away from the inclusion of new features and applications toward increasing stability and usability. To that end, 162 bugs were resolved during the M5 – M6 timeframe!"  
 
 
 ####  [**openSUSE News: Updates Go Twitter**](http://news.opensuse.org/2010/05/05/updates-go-twitter/)
@@ -467,7 +467,7 @@ We pleased to announce our new openSUSE Weekly News Issue 122.
 ####  [**openSUSE News: openSUSE@LinuxTag 2010**](http://news.opensuse.org/2010/05/04/opensuselinuxtag-2010/)
 
 
-![Linux_anim_468x60_GB.gif](/wp-content/uploads/2010/05/Linux_anim_468x60_GB.gif) "LinuxTag 2010 is around the corner. There will be openSUSE Rock â€˜Nâ€™ Roll from June 9 to 12 at the Berlin Fairgrounds! We just received word that our project got accepted for a booth and that we have 13 talks in the program of the free conference." 
+![Linux_anim_468x60_GB.gif](/wp-content/uploads/2010/05/Linux_anim_468x60_GB.gif) "LinuxTag 2010 is around the corner. There will be openSUSE Rock ‘N’ Roll from June 9 to 12 at the Berlin Fairgrounds! We just received word that our project got accepted for a booth and that we have 13 talks in the program of the free conference." 
 </td>
 </tr>
 </tbody>
@@ -546,7 +546,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 568 (-2) 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) â€“ [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) – [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) – [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
 
 
 
@@ -591,7 +591,7 @@ The numbers for all openSUSE project products are this week:
 ####  [Changes in Staff](http://lists.opensuse.org/archive/opensuse-boosters/2010-05/msg00014.html)
 
 
-"We have two changes in the staffing of the Boosters Team: Petr Uzel is changing to the L3/Maintenance Packagers team, they are quite flooded with work and Petr wanted to dig deeper into code, packaging and bug fixing. Although we are sorry to let him go I wish him all the best! Petr, it was really fun to work with you, we hope you stay around at openSUSE and good luck - have a lot of fun!  The other change is an exchange of people: Marcus RÃ¼ckert better known as Darix changes his place with Christopher Hofmann in the Services Team and Christopher joins the Boosters. That reflects better what both do. I am confident that Darix will continue with openSUSE work like he always did. Anyway, thanks Darix for your work for the Thirsty Thirteen so far :)  And here is a warm welcome for Christopher, nice to have you with us - and note that you have to be thirsty for two! " 
+"We have two changes in the staffing of the Boosters Team: Petr Uzel is changing to the L3/Maintenance Packagers team, they are quite flooded with work and Petr wanted to dig deeper into code, packaging and bug fixing. Although we are sorry to let him go I wish him all the best! Petr, it was really fun to work with you, we hope you stay around at openSUSE and good luck - have a lot of fun!  The other change is an exchange of people: Marcus Rückert better known as Darix changes his place with Christopher Hofmann in the Services Team and Christopher joins the Boosters. That reflects better what both do. I am confident that Darix will continue with openSUSE work like he always did. Anyway, thanks Darix for your work for the Thirsty Thirteen so far :)  And here is a warm welcome for Christopher, nice to have you with us - and note that you have to be thirsty for two! " 
 </td>
 </tr>
 </tbody>
@@ -701,7 +701,7 @@ The Build Service now hosts 12590 (+116) projects, 93366 (+305) packages, 21982 
 ####  [Andreas Jaeger: Preparation for Mounting /var/run as tmpfs](http://lizards.opensuse.org/2010/05/03/preparation-for-mounting-varrun-as-tmpfs/)
 
 
-"Feature #303793 proposes to mount /var/run as tmpfs.  The description says:  â€œThis would avoid the cleaning of stale files or sockets on bootup and avoid atime updates of any mounted filesystems. This is required for eg powermanagement, which currently wakes up the system from any idle states for a socket operation.  Services must be modified not to depend on a preexisting content in /var/run upon startup. RPMs must be modified to not place anything there.â€"  
+"Feature #303793 proposes to mount /var/run as tmpfs.  The description says:  “This would avoid the cleaning of stale files or sockets on bootup and avoid atime updates of any mounted filesystems. This is required for eg powermanagement, which currently wakes up the system from any idle states for a socket operation.  Services must be modified not to depend on a preexisting content in /var/run upon startup. RPMs must be modified to not place anything there.”"  
 
 
 ####  [Clean temporary data in SUSE](http://lists.opensuse.org/opensuse-features/2010-05/msg00041.html)
@@ -809,7 +809,7 @@ The Build Service now hosts 12590 (+116) projects, 93366 (+305) packages, 21982 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -886,10 +886,10 @@ The Build Service now hosts 12590 (+116) projects, 93366 (+305) packages, 21982 
 
 
 
-####  [Shayon Mukherjee: Part 1 : Marketing â€“ the other way or the highway](http://shayonj.wordpress.com/2010/05/03/part-1-marketing-the-other-way-or-the-highway/)
+####  [Shayon Mukherjee: Part 1 : Marketing – the other way or the highway](http://shayonj.wordpress.com/2010/05/03/part-1-marketing-the-other-way-or-the-highway/)
 
 
-"I wonâ€™t discuss revolutionary strategies here ( hope I make one someday) but something related for sure nor comment on the wayâ€™s good MNCâ€™s do it . Just my viewpoint and few things I would like to share on promoting Open Source software - to be specific openSUSE . We all basically know what are the basic methods."  [Part2](http://shayonj.wordpress.com/2010/05/05/part-2-marketing-the-other-way-or-the-highway/)"  
+"I won’t discuss revolutionary strategies here ( hope I make one someday) but something related for sure nor comment on the way’s good MNC’s do it . Just my viewpoint and few things I would like to share on promoting Open Source software - to be specific openSUSE . We all basically know what are the basic methods."  [Part2](http://shayonj.wordpress.com/2010/05/05/part-2-marketing-the-other-way-or-the-highway/)"  
 
 
 ###  Events
@@ -940,7 +940,7 @@ Upcoming:
   * You can find more informations on other events at: 
 
 	
-  * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/Ambassador/Events)
+  * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/Ambassador/Events)
 
 
 
@@ -974,7 +974,7 @@ Upcoming:
 ####  [Alex Barrios: Second round of pictures from the FLISOL Venezuela](http://lizards.opensuse.org/2010/05/03/second-round-of-pictures-from-the-flisol-venezuela/)
 
 
-"Continuing with another round of pictures from the Venezuelan FLISOL, i bring here a small recopilation of pictures from galleries of the main site, Caracas, where openSUSE has presence like in the other 19 sites.  This time, i wanna take time to thank Maria â€œtaticaâ€ Leandro, the national coordinator of the event, for all the invaluable help and dedication that she put to get our FLISOL a really great live experience.  She is a famous Fedora Ambassador in the region, that got the sponsorship from Novell for all the sites, and even to get spread the openSUSE word in other post-flisol events. I would like help her in getting the material, but this happens in a time that i was bloated of work. So, I hope she gets her beatification from her invaluable help in the event."  
+"Continuing with another round of pictures from the Venezuelan FLISOL, i bring here a small recopilation of pictures from galleries of the main site, Caracas, where openSUSE has presence like in the other 19 sites.  This time, i wanna take time to thank Maria “tatica” Leandro, the national coordinator of the event, for all the invaluable help and dedication that she put to get our FLISOL a really great live experience.  She is a famous Fedora Ambassador in the region, that got the sponsorship from Novell for all the sites, and even to get spread the openSUSE word in other post-flisol events. I would like help her in getting the material, but this happens in a time that i was bloated of work. So, I hope she gets her beatification from her invaluable help in the event."  
 
 
 ####  [Roger Whittaker: Oggcamp event -- Liverpool](http://disruptive.org.uk/2010/05/03/oggcamp_event_--_liverpool.html)
@@ -1057,13 +1057,13 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
 ####  [Kohei Yoshida: mdds 0.3.0 released!](http://kohei.us/2010/05/05/mdds-0-3-0-released/)
 
 
-"Iâ€™m happy to announce the release of version 0.3.0 of Multi-Dimensional Data Structure, or mdds for short. This is a C++ library, and is a collection of various data structures designed to efficiently store and query multi-dimensional data for various filtering criteria. Different structures are optimized for different query needs.  This library is a source-code only library. Itâ€™s designed to be header-only meaning that the user program does not need to link to any additional shared library in order to use these data structures. The data structures are all available as C++ templates."  
+"I’m happy to announce the release of version 0.3.0 of Multi-Dimensional Data Structure, or mdds for short. This is a C++ library, and is a collection of various data structures designed to efficiently store and query multi-dimensional data for various filtering criteria. Different structures are optimized for different query needs.  This library is a source-code only library. It’s designed to be header-only meaning that the user program does not need to link to any additional shared library in order to use these data structures. The data structures are all available as C++ templates."  
 
 
 ####  [Gabriel Burt: Banshee 1.7.0](http://gburt.blogspot.com/2010/05/banshee-170.html)
 
 
-"We just released the first of the unstable/beta releases leading up to Banshee 1.8. We are aligning with the GNOME release schedule for 1.8, like we did for 1.6. The Banshee calendar has the full release schedule. Our download page describes how to get beta releases. See the 1.7.0 release notes for more information.  One small new feature is the ability to switch sources quickly via the keyboard. You can type 'g' to activate the switcher, then type a source's name, acroynm, or substring of the name to switch to it â€” eg g then np to switch to Now Playing." 
+"We just released the first of the unstable/beta releases leading up to Banshee 1.8. We are aligning with the GNOME release schedule for 1.8, like we did for 1.6. The Banshee calendar has the full release schedule. Our download page describes how to get beta releases. See the 1.7.0 release notes for more information.  One small new feature is the ability to switch sources quickly via the keyboard. You can type 'g' to activate the switcher, then type a source's name, acroynm, or substring of the name to switch to it — eg g then np to switch to Now Playing." 
 
 
 
@@ -1071,7 +1071,7 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
   * You can find other interesting Packages at: 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1190,7 +1190,7 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
 ####  [LinuxUSER&Developer/Jon Masters: The kernel column #86](http://www.linuxuser.co.uk/opinion/the-kernel-column-86/)
 
 
-"This article originally appeared in issue 86 of Linux User & Developer.  Linux User & Developer, one of the nationâ€™s favourite Linux and Open Source publications, is now part of the award winning Imagine Publishing family. Readers can subscribe and save more than 30% and receive our money back guarantee â€“ click here to find out more.  Last month saw the release of the final 2.6.33 Linux kernel, following several months of development (and some last-minute patches â€“ including the network namespace bug this author discovered and wrote about in the previous month). In his release announcement, Linus Torvalds specifically drew attention to newly added support for Nvidia graphics acceleration through the â€˜upstreamingâ€™ (a colloquial term for inclusion of code in the official kernel) of the Nouveau 3D graphics driver, as well as the final upstreaming of the DRBD â€˜Distributed Replicated Block Deviceâ€™ driver that has existed for years in a separate project (and has been shipped by at least one enterprise Linux)."  
+"This article originally appeared in issue 86 of Linux User & Developer.  Linux User & Developer, one of the nation’s favourite Linux and Open Source publications, is now part of the award winning Imagine Publishing family. Readers can subscribe and save more than 30% and receive our money back guarantee – click here to find out more.  Last month saw the release of the final 2.6.33 Linux kernel, following several months of development (and some last-minute patches – including the network namespace bug this author discovered and wrote about in the previous month). In his release announcement, Linus Torvalds specifically drew attention to newly added support for Nvidia graphics acceleration through the ‘upstreaming’ (a colloquial term for inclusion of code in the official kernel) of the Nouveau 3D graphics driver, as well as the final upstreaming of the DRBD ‘Distributed Replicated Block Device’ driver that has existed for years in a separate project (and has been shipped by at least one enterprise Linux)."  
 
 
 ####  [Rares Aioanai: Kernel Review with openSUSE Flavor (Week18)](http://lizards.opensuse.org/2010/05/08/guest-blog-rares-aioanai-gives-a-kernel-review-week-18/)
@@ -1243,7 +1243,7 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
 ####  [MakeUseOf/Ryan Dube: 3 Audacity Tips To Enhance Any Recorded Interview](http://feedproxy.google.com/%7Er/Makeuseof/%7E3/HJQS5zu7UEQ/)
 
 
-"As a blogger and a researcher, I have to conduct a lot of interviews. Some months Iâ€™ve conducted two or three interviews a week, and many of those are recorded interviews, because many people donâ€™t have time to answer questions via email. One of the nice things about recorded interviews is that they work well as an audio podcast either available for download from your own blog, or distributed as a podcast at any podcast directory.  Regardless what you intend to do with the interview, one thing thatâ€™s for certain is that you want to develop a reputation as a professional interviewer that produces high-quality, interesting conversations with fascinating people."  
+"As a blogger and a researcher, I have to conduct a lot of interviews. Some months I’ve conducted two or three interviews a week, and many of those are recorded interviews, because many people don’t have time to answer questions via email. One of the nice things about recorded interviews is that they work well as an audio podcast either available for download from your own blog, or distributed as a podcast at any podcast directory.  Regardless what you intend to do with the interview, one thing that’s for certain is that you want to develop a reputation as a professional interviewer that produces high-quality, interesting conversations with fascinating people."  
 
 
 ###  For Developers and Programmers
@@ -1302,7 +1302,7 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
 ####  [Holger Hetterich: SMB Traffic Analyzer v2 on SambaXP 2010](http://holger123.wordpress.com/2010/05/04/smb-traffic-analyzer-v2-on-sambaxp-2010/)
 
 
-"The SMB traffic analyzer software suite is a toolset aimed at visualizing the data flow on one or more Samba servers, providing statistics about the usage of Samba services. The long term goal of the SMB Traffic Analyzer project is to provide a universal remote debugging facility for Samba.  I donâ€™t have a presentation slot at SambaXP 2010, because I donâ€™t feel the SMB Traffic Analyzer project is in a state ready for a SambaXP talk."  
+"The SMB traffic analyzer software suite is a toolset aimed at visualizing the data flow on one or more Samba servers, providing statistics about the usage of Samba services. The long term goal of the SMB Traffic Analyzer project is to provide a universal remote debugging facility for Samba.  I don’t have a presentation slot at SambaXP 2010, because I don’t feel the SMB Traffic Analyzer project is in a state ready for a SambaXP talk."  
 
 
 ####  [Pascal Bleser: openSUSE repository URL shortening](http://dev-loki.blogspot.com/2010/05/opensuse-repository-url-shortening.html)
@@ -1326,7 +1326,7 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
 ####  [Klaas Freitag: A Blog on Sourceforge](http://lizards.opensuse.org/2010/05/06/a-blog-on-sourceforge/)
 
 
-"A little more than two weeks ago we released Kraft version 0.40, the first version of Kraft based on KDE 4 software platform. The release went fine as far as I can tell, no terrible bugs were reported yet. Some work went into the new website since then, but in general I need a few weeks break from Kraft and spend my evenings outside enjoying spring time.  Today, Sourceforge posted a blog about Kraft after they kind of mail-interviewed me. Itâ€™s nice, it really focuses on the things also important to me. This might be another step towards a broader user base for Kraft. I say that because one could have the impression that the number of people actually really using Kraft could be larger. A high number of users is one of the fundamental criteria for a successful free software project and thus I am constantly trying to understand whats the reason for the impression or the fact."  
+"A little more than two weeks ago we released Kraft version 0.40, the first version of Kraft based on KDE 4 software platform. The release went fine as far as I can tell, no terrible bugs were reported yet. Some work went into the new website since then, but in general I need a few weeks break from Kraft and spend my evenings outside enjoying spring time.  Today, Sourceforge posted a blog about Kraft after they kind of mail-interviewed me. It’s nice, it really focuses on the things also important to me. This might be another step towards a broader user base for Kraft. I say that because one could have the impression that the number of people actually really using Kraft could be larger. A high number of users is one of the fundamental criteria for a successful free software project and thus I am constantly trying to understand whats the reason for the impression or the fact."  
 
 
 ####  [Andrew Wafaa: openSUSE and the ways of a11y](http://www.wafaa.eu/entry/opensuse-and-the-ways-of-a11y-1-27.html)
@@ -1440,7 +1440,7 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
 ####  [Jason McDonald (Qt Development Frameworks): Qt 4.7.0 Beta1](http://labs.trolltech.com/blogs/2010/05/06/qt-470-beta1/)
 
 
-"Qt 4.7.0 Beta1 is now available for download from the Qt Download Page. The Beta includes both source packages (.zip and .tar.gz format) and binary packages (for Mac Cocoa, Mac Carbon, MinGW 4.4.0 and Visual Studio 2008).  Note that there is a slight change in the naming of Mac packages compared to Qt 4.6.x â€” The Carbon packages are now named â€œqt-mac-carbon-opensource-*â€, while the Cocoa packages are now named â€œqt-mac-opensource-*â€. This reflects the fact that Cocoa is now the primary Mac platform for Qt. Binary packages for Carbon will be discontinued from Qt 4.8 onwards, but will continue to be shipped for the remainder of the 4.7.x series."  
+"Qt 4.7.0 Beta1 is now available for download from the Qt Download Page. The Beta includes both source packages (.zip and .tar.gz format) and binary packages (for Mac Cocoa, Mac Carbon, MinGW 4.4.0 and Visual Studio 2008).  Note that there is a slight change in the naming of Mac packages compared to Qt 4.6.x — The Carbon packages are now named “qt-mac-carbon-opensource-*”, while the Cocoa packages are now named “qt-mac-opensource-*”. This reflects the fact that Cocoa is now the primary Mac platform for Qt. Binary packages for Carbon will be discontinued from Qt 4.8 onwards, but will continue to be shipped for the remainder of the 4.7.x series."  
 
 
 ###  Reports
@@ -1458,7 +1458,7 @@ The openSUSE Forums have 45442 (+203) registered users - Most users ever online 
 ####  [Linux Journal/Justin Ryan: Linux Foundation Announces LinuxCon Keynotes](http://feedproxy.google.com/%7Er/LinuxJournal-BreakingNews/%7E3/9Er90f0rjf0/linux-foundation-announces-linuxcon-keynotes)
 
 
-"Part of the excitement of attending a major conference is listening to industry leaders share the goings-on and goings-forward of the biggest names in the game. If you've been waiting to hear who will be on the dais for LinuxCon, listen up.  It may just be May, but LinuxCon is fast approaching, and information about the event â€” which will be held in Boston from August 10th - 12th â€” is slowly trickling out. This week's trickle concerns the conference schedule, which despite registration being in full swing, has been all but unknown."  
+"Part of the excitement of attending a major conference is listening to industry leaders share the goings-on and goings-forward of the biggest names in the game. If you've been waiting to hear who will be on the dais for LinuxCon, listen up.  It may just be May, but LinuxCon is fast approaching, and information about the event — which will be held in Boston from August 10th - 12th — is slowly trickling out. This week's trickle concerns the conference schedule, which despite registration being in full swing, has been all but unknown."  
 
 
 ###  Reviews and Essays
@@ -1552,10 +1552,10 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [saigkill](http://en.opensuse.org/User:saigkill) [Talk](http://en.opensuse.org/User_talk:saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 	
-  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter) 
+  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter) 
 
 	
-  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 	
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/User_talk:HeliosReds) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1564,7 +1564,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/User_talk:Caf4926) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 	
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 	
   * add translators 
@@ -1602,7 +1602,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 
 
 
-[English](http://en.opensuse.org/OpenSUSE_Weekly_News/122) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/122) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/122) [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/122) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/122) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/122) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/122) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/122/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/122) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/122) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/122/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/122) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/122) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/122/swedish) [ÄeÅ¡tina](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/122)
+[English](http://en.opensuse.org/OpenSUSE_Weekly_News/122) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/122) [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/122) [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/122) [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/122) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/122) [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/122) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/122/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/122) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/122) [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/122/chinese) [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/122) [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/122) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/122/swedish) [Íeština](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/122)
 </td>
 </tr>
 </tbody>

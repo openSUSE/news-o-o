@@ -64,7 +64,7 @@ Major changes in this release include:
   * GNOME 2.24
 
 
-Installing openSUSE 11.1 beta 3 on Mac OS X machines should work fine.Â  Previous openSUSE releases would not write the partition table correctly to the MBR, but it should now be possible to install openSUSE on Macs more easily.
+Installing openSUSE 11.1 beta 3 on Mac OS X machines should work fine.  Previous openSUSE releases would not write the partition table correctly to the MBR, but it should now be possible to install openSUSE on Macs more easily.
 
 KVM is broken in this release due to a kernel configuration change before beta 3. It should be working in the next release.
 
@@ -113,7 +113,7 @@ See http://en.opensuse.org/Mirror_Selection for a full list of mirrors. Note tha
 * Bug #[432732](https://bugzilla.novell.com/show_bug.cgi?id=432732): yast2-x11: Broken xorg.conf written during installation (GeForce 6200TC/7300LE/7300SE/Go 7300, Intel 965G/965GM, Radeon, vmware). Workaround: Use Ctrl+Alt+F1 to switch to console, login as root, init 3, sax2 -r, init 5.
 * Bug #[436949](https://bugzilla.novell.com/show_bug.cgi?id=436949): screensaver crashes gdm
 * Bug #[437411](https://bugzilla.novell.com/show_bug.cgi?id=437411): su and console login do not work. Workaround: sudo vi /etc/pam.d/common-auth and remove the pam_fp line. We will release a test update.
-* Bug #[428963](https://bugzilla.novell.com/show_bug.cgi?id=428963): dbus-1 session bus connection policy bug / was gnomesu.Â  We will release a test update.
+* Bug #[428963](https://bugzilla.novell.com/show_bug.cgi?id=428963): dbus-1 session bus connection policy bug / was gnomesu.  We will release a test update.
 * Bug #[436835](https://bugzilla.novell.com/show_bug.cgi?id=436835): sbl installed and running by default
 * Bug #[436524](https://bugzilla.novell.com/show_bug.cgi?id=436524): GDM autologin - somewhat broken ...
 * XEN does not work [a huge number of bug reports]

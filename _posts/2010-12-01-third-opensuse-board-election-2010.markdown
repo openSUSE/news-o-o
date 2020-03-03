@@ -102,7 +102,7 @@ All phases start and end on the given dates at 12:00 [UTC](http://www.wikipedia.
 ## Seats to get elected
 
 
-In this election we will have 2 seats to get elected, as the  election period of [Pascal Bleser](http://en.opensuse.org/User:Pbleser) and [Henne Vogelsang](http://en.opensuse.org/User:Hennevogel) ends.  We will probably also get a new chairman, as [Michael LÃ¶ffler](http://en.opensuse.org/User:Michl19) will leave as well.
+In this election we will have 2 seats to get elected, as the  election period of [Pascal Bleser](http://en.opensuse.org/User:Pbleser) and [Henne Vogelsang](http://en.opensuse.org/User:Hennevogel) ends.  We will probably also get a new chairman, as [Michael Löffler](http://en.opensuse.org/User:Michl19) will leave as well.
 
 So in this election the openSUSE community elects two new members.
 

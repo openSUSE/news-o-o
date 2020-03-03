@@ -125,7 +125,7 @@ So far the only article which really exists in these books is the how to to join
       permissions. It is not needed currently that you need to know OBS perfectly, it is enough to
       know something in some area. We will improve it afterwards. 
 
-Donâ€™t care about the current structure either a lot atm. We will rethink about it once we
+Don’t care about the current structure either a lot atm. We will rethink about it once we
       have more content. 
 
 Please read also the current [preface](http://doc.opensuse.org/products/draft/OBS/obs-best-practices/pr01.html) which defines the goals of these books. 
@@ -139,7 +139,7 @@ And of course, come to the [opensuse-buildservice mailing list](http://lists.ope
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/hacking.png)Hackweek VI
 
 **[Michal
-        ÄŒihaÅ™: Hackweek and Symbian support in Gammu](http://blog.cihar.com/archives/2011/01/21/hackweek-and-symbian-support-gammu/)**
+        Ìihař: Hackweek and Symbian support in Gammu](http://blog.cihar.com/archives/2011/01/21/hackweek-and-symbian-support-gammu/)**
 
 Last year I did not have much time to spend on non work related projects in Hackweek,
       because we took the opportunity and replaced some internal systems, when people were not using
@@ -154,9 +154,9 @@ You can comment this feature in openFATE or Gammu bug tracker.
 
 **[Hackweek VI](http://news.opensuse.org/2011/01/19/hackweek-vi/)**
 
-**Hackweek VI** will take place January 24th â€“ 28th, 2011. 
+**Hackweek VI** will take place January 24th – 28th, 2011. 
 
-Hackweek is one of Novellâ€™s biggest ways of giving back to the openSUSE community â€“ by
+Hackweek is one of Novell’s biggest ways of giving back to the openSUSE community – by
       providing developers the opportunity to spend their paid work week contributing to free and
       open source software instead of their assigned projects. Hackweek V produced an amazing
       variety of projects, including [froxlor](http://www.froxlor.org/) (server
@@ -164,7 +164,7 @@ Hackweek is one of Novellâ€™s biggest ways of giving back to the openSUSE c
         app](http://www.youtube.com/watch?v=vYER9WaPXg0) for [Shelterbox](http://www.shelterbox.org/), a [GUI client](http://blog.cornelius-schumacher.de/2010/06/hackweek-v-graphical-suse-studio-client.html) for [SUSE Studio](http://susestudio.com), and [hundreds more](http://en.opensuse.org/openSUSE:Hackweek_V). Prior Hackweeks have
       spawned projects that are now desktop Linux mainstays, like [Tasque](http://live.gnome.org/Tasque) and [Giver](http://code.google.com/p/giver/). 
 
-**Hackweek VI** features the theme â€œEngineering Cloudâ€ and
+**Hackweek VI** features the theme “Engineering Cloud” and
       allows developers to get their hands on related projects. In order to support that approach,
       we are providing access to a few select cloud providers and a setup where you can deploy cloud
       infrastructure software (e.g. Eucalyptus). Your favorite hack-project may or may not relate to
@@ -174,7 +174,7 @@ As in previous years, we will be using [openFATE](https://features.opensuse.org)
       project. Make sure to check out all ideas listed in the [Hack
         Week VI](http://bit.ly/gy5HC7) product category. 
 
-We also plan to nominate the 3 best projects that relate to the â€œEngineering Cloudâ€ theme
+We also plan to nominate the 3 best projects that relate to the “Engineering Cloud” theme
       and hand out Amazon gift vouchers. For your project to be considered we ask you to:
 
   * submit your idea until Friday Jan 21st at openFATE (opens Jan, 13)
@@ -184,7 +184,7 @@ We also plan to nominate the 3 best projects that relate to the â€œEngineeri
   * wrap up and do a final video submission no later than Friday, Feb 4th
 
 As usual, Novell extends the invitation to openSUSE Community contributors. Participating
-      Novell locations also try to provide a â€œhackspaceâ€, some comfy place to meet, work together
+      Novell locations also try to provide a “hackspace”, some comfy place to meet, work together
       and snack. 
 
 Finally, we are trying to spread the word via [#hackweek6 on twitter]()
@@ -196,12 +196,12 @@ Finally, we are trying to spread the word via [#hackweek6 on twitter]()
 
 ### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
 
-**Build Service Statistics.Â **Statistics can found at [Buildservice](http://build.opensuse.org)
+**Build Service Statistics. **Statistics can found at [Buildservice](http://build.opensuse.org)
 
 ### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/GNOME-foot.jpg)GNOME Team
 
 **
-        [Nelson Marques: Massive update on Ubuntu softwareâ€¦](http://lizards.opensuse.org/2011/01/20/massive-update-on-ubuntu-software/)
+        [Nelson Marques: Massive update on Ubuntu software…](http://lizards.opensuse.org/2011/01/20/massive-update-on-ubuntu-software/)
       **
 
 <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
@@ -218,63 +218,63 @@ Some brief updates about the ongoing work towards bringing Ayatana Project softw
 Canonical recently released a batch of updates which bring new functionality
               (Indicators seem to respond faster now) and very nice improvements, some of them
               contributed by down-streamers. From my humble experience I would risk to claim that
-              Canonical is doing an excellent job as an upstreamer. Iâ€™ve updated all packages to the
+              Canonical is doing an excellent job as an upstreamer. I’ve updated all packages to the
               latest versions. This allowed to remove some patches.
 
   2. **Unity**
 
-Unity is now one step closer. For Unity Iâ€™ve started to package Compiz git
+Unity is now one step closer. For Unity I’ve started to package Compiz git
               snapshots from the correct branches pointed by Unity documentation. This brought
-              something new to me, cmake. Iâ€™ve done this very slowly, reading some docs meanwhile
+              something new to me, cmake. I’ve done this very slowly, reading some docs meanwhile
               about cmake. My packaging around Compiz is mainly based on OBS X11:Compiz repository,
               so pretty much all the credits should be for the original project Packagers which done
-              an awesome job. Currently Iâ€™m missing only 3 packages to test Unity. Recently with
+              an awesome job. Currently I’m missing only 3 packages to test Unity. Recently with
               kernel and mesa updates some issues around ATI hardware seem to have fixed for
               openSUSE Factory users, which enabled in my case FireGL, therefore I can test properly
               Unity now and check for the integration into openSUSE. 
 
-Unity by default uses the Ayatanaâ€™s Indicators, and if they are not present, it
-              will fallback to GNOMEâ€™s applets. This is very nice and Iâ€™m thankful Canonical made it
+Unity by default uses the Ayatana’s Indicators, and if they are not present, it
+              will fallback to GNOME’s applets. This is very nice and I’m thankful Canonical made it
               this way. This brings non-Ubuntu users the Unity experience at almost no trouble,
-              since there isnâ€™t actually much patching required to implement Unity.
+              since there isn’t actually much patching required to implement Unity.
 
   3. **GNOME:Ayatana Repository**
 
 GNOME:Ayatana Repository will be populated during the next two weeks with the
-              latest changes and will provide for the time being the Ayatanaâ€™s Indicators and Unity.
-              I am currently working around libappindicator stack and itâ€™s Indicators. Currently Iâ€™m
+              latest changes and will provide for the time being the Ayatana’s Indicators and Unity.
+              I am currently working around libappindicator stack and it’s Indicators. Currently I’m
               testing the patches required on the GTK+ stack and this is pretty much the last
               barrier before going into #STAGE2, polishing and populating GNOME:Ayatana. 
 
-Itâ€™s not decided yet what packages are going to present on Factory. My wish is to
-              push only Unity into Factory and itâ€™s dependencies, this might not happen for 11.4 as
-              Iâ€™m not sure about the freeze schedules and it might be too late already, but since
-              weâ€™re depending on Compiz upstream, weâ€™ll see what happens. Even if Unity isnâ€™t going
-              to be available on Factory, Iâ€™m sure we can use KIWI or SUSE Studio to release a small
+It’s not decided yet what packages are going to present on Factory. My wish is to
+              push only Unity into Factory and it’s dependencies, this might not happen for 11.4 as
+              I’m not sure about the freeze schedules and it might be too late already, but since
+              we’re depending on Compiz upstream, we’ll see what happens. Even if Unity isn’t going
+              to be available on Factory, I’m sure we can use KIWI or SUSE Studio to release a small
               openSUSE Unity Spin. 
 
-Iâ€™ve also decided that I (typo: previously would) **wouldnâ€™t** like to see Unity available by openSUSE before the official
+I’ve also decided that I (typo: previously would) **wouldn’t** like to see Unity available by openSUSE before the official
               release from Ubuntu, for which I wish all the success. 
 
-Since the very early start that Iâ€™ve been using pkg-config as much as I can.
+Since the very early start that I’ve been using pkg-config as much as I can.
               According to some information that I collected previously, this would be great for
               cross-distribution build. Depending on the time and work done, I might make the
               necessary modifications and enable cross-distribution building on this project, thus,
               making it available for other RPM distributions supported by OBS. This will require a
               bit of testing before, so it will be work to be done after 11.4 is released and during
-              itâ€™s lifecycle. Maybe by the time of openSUSE 12 gets released, we will have this
+              it’s lifecycle. Maybe by the time of openSUSE 12 gets released, we will have this
               project also available for other RPM based distributions. I have no knowledge on
               Debian packaging, but Ubuntu ships this software and Debian probably has it also
-              available soâ€¦ that wonâ€™t be a problem.
+              available so… that won’t be a problem.
 
   4. **Artwork**
 
-I am providing on GNOME:Ayatana Ubuntuâ€™s Light Themes (Ambiance and Radiance) and
-              offering a patched version of Metacity that renders those themes perfectly. Iâ€™m not
+I am providing on GNOME:Ayatana Ubuntu’s Light Themes (Ambiance and Radiance) and
+              offering a patched version of Metacity that renders those themes perfectly. I’m not
               changing the original colors from the themes or modifying them in any way. So they
               might be a bit more of orange and not green. 
 
-Iâ€™ve contacted some people to ask if they would be willing to donate some artwork
+I’ve contacted some people to ask if they would be willing to donate some artwork
               to make a small package with Wallpapers, some have answered yes, so I will make a
               small package with a couple of wallpapers for the traditional resolutions and
               distribute it alongside with this software as optional as always.
@@ -284,7 +284,7 @@ Iâ€™ve contacted some people to ask if they would be willing to donate some
 Implementation of GTK3 will be done within the next days, as I am also considering
               enabling QT support for KDE users (Indicators only for now). 
 
-Thatâ€™s pretty much the result of the last days of workâ€¦ more news to come in the
+That’s pretty much the result of the last days of work… more news to come in the
               nearby future.
 
 ### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-fate.png)openFATE Team
@@ -348,7 +348,7 @@ For example: you installed an application with "1-click install" (which will
             Linux) (Score: 69)](https://features.opensuse.org/305582)
         **
 
-"Idea from community member RaÃºl GarcÃ­a. Same concept as MSI packages for Windows
+"Idea from community member Raúl García. Same concept as MSI packages for Windows
           but exploiting the One Click Install concept of openSUSE (and therefore inheriting the
           simplicity, code and security. (...)"
 
@@ -507,7 +507,7 @@ minor issues (for M6):
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) –
             [Localization
             Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
@@ -518,9 +518,9 @@ minor issues (for M6):
 **[Javier Llorente: KDE Release Party in Madrid, 2nd edition](http://lizards.opensuse.org/2011/01/19/kde-release-party-in-madrid-2nd-edition/)
       **
 
-Weâ€™re going to have lunch together to celebrate the release of KDE 4.6 :D
+We’re going to have lunch together to celebrate the release of KDE 4.6 :D
 
-Come and join us! Itâ€™s going to be fun for sure ;-)
+Come and join us! It’s going to be fun for sure ;-)
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![](http://lizards.opensuse.org/wp-content/uploads/2011/01/KDE-release-poster-Madrid.png)
@@ -528,13 +528,13 @@ Come and join us! Itâ€™s going to be fun for sure ;-)
 
 **Date/Time**: 29th of January at 2:00pm
 
-**Place**: [Fass](http://www.fassgrill.com/) C/RodrÃ­guez MarÃ­n 84. [Mapa](http://bit.ly/gyNpqF)
+**Place**: [Fass](http://www.fassgrill.com/) C/Rodríguez Marín 84. [Mapa](http://bit.ly/gyNpqF)
 
-(paralela al Paseo de la Castellana, a la altura del Santiago BernabÃ©u)
+(paralela al Paseo de la Castellana, a la altura del Santiago Bernabéu)
 
 <Metro> Concha Espina
 
-If youâ€™re coming, please add your name to [http://community.kde.org/Promo/ReleaseParties/4.6#Madrid](http://community.kde.org/Promo/ReleaseParties/4.6#Madrid)
+If you’re coming, please add your name to [http://community.kde.org/Promo/ReleaseParties/4.6#Madrid](http://community.kde.org/Promo/ReleaseParties/4.6#Madrid)
 
 PS: Thanks a lot for this poster, Eugene and Nuno :D
 
@@ -603,7 +603,7 @@ Other than that there are the elections part... I found out many things about pe
   * [January 24, 2011 :
             Hackweek VI](http://news.opensuse.org/2011/01/19/hackweek-vi-2/)
 
-  * [January 27, 2011 : ï»¿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 27, 2011 : ﻿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
   * [January 31, 2011 : 21st openSUSE Testing Core Team IRC Meeting](http://news.opensuse.org/2011/01/20/21st-opensuse-testing-core-team-irc-meeting/)
 
@@ -640,16 +640,16 @@ Things aren't 100%, as I need to do a tiny bit of cleaning up with the packages,
 **[Packman: cclive
         0.7.1-1.pm](http://packman.links2linux.org/package/cclive)**
 
-â€œcclive is a command line video extraction utility similar to clive but focuses on
+“cclive is a command line video extraction utility similar to clive but focuses on
         low requirements. Its features are few and essential. cclive is intended for users who
-        prefer lightweight and â€˜snappyâ€™ programs. It was written in C and depends on
+        prefer lightweight and ‘snappy’ programs. It was written in C and depends on
         libcurl. cclive sports much of the same features but some compromises were made along the
-        way to keep the prerequisites low.â€
+        way to keep the prerequisites low.”
 
 **[Holger
         Hetterich: SMB Traffic Analyzer 1.2.2 released](http://holger123.wordpress.com/2011/01/20/smb-traffic-analyzer-1-2-2-released/)**
 
-After some delay which wasnâ€™t on our plan, weâ€™re happy to announce [SMB Traffic Analyzer](http://holger123.wordpress.com/smb-traffic-analyzer/)
+After some delay which wasn’t on our plan, we’re happy to announce [SMB Traffic Analyzer](http://holger123.wordpress.com/smb-traffic-analyzer/)
       (called SMBTA in the following) version 1.2.2, bringing a whole bunch of new features and
       bugfixes to the table. First off, you might not believe it but SMBTA actually received some
       artwork, as we already reported here. :) **Version 1.2.2**
@@ -669,10 +669,10 @@ SMBTA was installed on completely different systems than Linux during the past m
       a single c file, most compilers can employ optimization much better compared to a usual sqlite
       build.
 
-We are in the process of addressing possibilities to make SMBTA more than just output itâ€™s
+We are in the process of addressing possibilities to make SMBTA more than just output it’s
       results to a text mode terminal.
 
-**FigureÂ 1.Â A run of 'global, top 10 files rw', and it's HTML output**
+**Figure 1. A run of 'global, top 10 files rw', and it's HTML output**
 
 <table cellpadding="0" cellspacing="0" border="0" width="30%" summary="manufactured viewport for HTML img" ><tr >
 <td >![A run of 'global, top 10 files rw', and it's HTML output](http://holger123.files.wordpress.com/2011/01/html-demo2.png)
@@ -681,17 +681,17 @@ We are in the process of addressing possibilities to make SMBTA more than just o
   
 
 
-The decision was taken to drive the output of smbtaquery â€“ the main program used to query
-      the database of SMBTA â€“ with XML, a move that allows us maximum flexibility. The smbtaquery
+The decision was taken to drive the output of smbtaquery – the main program used to query
+      the database of SMBTA – with XML, a move that allows us maximum flexibility. The smbtaquery
       program therefore produces XML by default and employs the XSLT processor [**xsltproc** of the libxslt
-        library](http://xmlsoft.org/XSLT/) to convert the output to HTML or ASCII text automatically.FigureÂ 1, â€œA run of 'global, top 10 files rw', and it's HTML outputâ€
+        library](http://xmlsoft.org/XSLT/) to convert the output to HTML or ASCII text automatically.Figure 1, “A run of 'global, top 10 files rw', and it's HTML output”
 
 Snipped of the "usage" function output in HTML All functions of smbtaquery are supported
       in both formats. SMBTA includes style sheets to produce the output and the user can choose the
       prefered output format on the command line. HTML support in smbtaquery forms the core of our
       plans to create a web based user interface for SMBTA (**bnc#659326**). 
 
-**FigureÂ 2.Â Snipped of the "usage" function output in HTML**
+**Figure 2. Snipped of the "usage" function output in HTML**
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
 <td >![Snipped of the "usage" function output in HTML](http://holger123.files.wordpress.com/2011/01/html-demo1.png)
@@ -704,19 +704,19 @@ SMBTA 1.2.2 extends 128Bit AES encryption for the whole software suite. All tool
       and the module are now able to talk encrypted to each other. With former versions this has
       only been possible from the VFS module to smbtad. To support the end user, smbtaquery has been
       extended to generate 128 bit keys for usage with smbtad. The smbtad daemon supports two
-      different keys, to allow a different group of users running the smbtatools (**bnc#599644**). A long standing issue finally resolved. FigureÂ 2, â€œSnipped of the "usage" function output in HTMLâ€
+      different keys, to allow a different group of users running the smbtatools (**bnc#599644**). A long standing issue finally resolved. Figure 2, “Snipped of the "usage" function output in HTML”
 
-A lot of effort moved into our test suite â€“ smbtatorture -, in order to enhance the [SMBTA
+A lot of effort moved into our test suite – smbtatorture -, in order to enhance the [SMBTA
         Stresstest appliance](http://holger123.wordpress.com/2010/12/23/smbta-stresstest-0-0-1-released/). First off, a smbtatorture process now creates directories, and
       filenames that make some more sense then the ones used before (which were just generated out
       of the user name and a number), to produce much more realistic looking results (**bnc#653618**). Furthermore, we worked on having support for multiple
       instances of smbtatorture on the same shares. A small control server has been created,
-        â€œsmbtatorturesrvâ€œ, distributing unique filenames to make
+        “smbtatorturesrv“, distributing unique filenames to make
       sure that no smbtatorture process chooses the same file name than one of the others running on
       the network. smbtatorturesrv is internet socket networked, therefore smbtatorture processes
       can connect from anywhere to it.
 
-**FigureÂ 3.Â Snipped of the SMBTA-Guide. We will work on getting more illustrations into where it
+**Figure 3. Snipped of the SMBTA-Guide. We will work on getting more illustrations into where it
         makes sense.**
 
 <table cellpadding="0" cellspacing="0" border="0" width="30%" summary="manufactured viewport for HTML img" ><tr >
@@ -729,8 +729,8 @@ A lot of effort moved into our test suite â€“ smbtatorture -, in order to e
 This program will be extended to make up a controlling instance for the connecting
       smbtatorture processes, showing statistics and healthiness information. We will implement the
       features introduced with 1.2.2 in the upcoming version of the [SMBTA
-        Stresstest](http://holger123.wordpress.com/2010/12/23/smbta-stresstest-0-0-1-released/). FigureÂ 3, â€œSnipped of the SMBTA-Guide. We will work on getting more illustrations into where it
-        makes sense.â€
+        Stresstest](http://holger123.wordpress.com/2010/12/23/smbta-stresstest-0-0-1-released/). Figure 3, “Snipped of the SMBTA-Guide. We will work on getting more illustrations into where it
+        makes sense.”
 
 On the documentation, **probably the most irrelevant part of
         SMBTA** :) , it has been completely reviewed and many design changes have been
@@ -741,30 +741,30 @@ On the documentation, **probably the most irrelevant part of
       course we updated [the online version
         of this document](http://morelias.org/smbta/smbta-guide.html). 
 
-Oh wait, the [openSUSEâ€™s BuildService](http://build.opensuse.org/)
+Oh wait, the [openSUSE’s BuildService](http://build.opensuse.org/)
       already consumed SMB Traffic Analyzer 1.2.2. We will submit packages to openSUSE Factory and
       Tumbleweed in the next days. 
 
-You can download SMB Traffic Analyzer on the [Download Page](http://holger123.wordpress.com/smb-traffic-analyzer/smb-traffic-analyzer-download/). To get more info about SMB Traffic Analyzer, [visit itâ€™s home
+You can download SMB Traffic Analyzer on the [Download Page](http://holger123.wordpress.com/smb-traffic-analyzer/smb-traffic-analyzer-download/). To get more info about SMB Traffic Analyzer, [visit it’s home
       page](http://holger123.wordpress.com/smb-traffic-analyzer/).
 
 **[Petr Mladek: LibreOffice 3.3 rc4 available for openSUSE](http://lizards.opensuse.org/2011/01/21/libreoffice-3-3-rc4-available-for-opensuse/)**
 
-Iâ€™m happy to announce that LibreOffice 3.3 rc4 packages are available for openSUSE in the Build Service [LibreOffice:Unstable project](http://download.opensuse.org/repositories/LibreOffice:/Unstable/). They are based on the [libreoffice-3.3.0.4](http://cgit.freedesktop.org/libreoffice/build/plain/NEWS?id=libreoffice-3.3.0.4) release. Please, look for more details about the openSUSE
+I’m happy to announce that LibreOffice 3.3 rc4 packages are available for openSUSE in the Build Service [LibreOffice:Unstable project](http://download.opensuse.org/repositories/LibreOffice:/Unstable/). They are based on the [libreoffice-3.3.0.4](http://cgit.freedesktop.org/libreoffice/build/plain/NEWS?id=libreoffice-3.3.0.4) release. Please, look for more details about the openSUSE
       LibreOffice build on the [wiki page](http://en.opensuse.org/OpenOffice.org). 
 
 The packages are based on LibreOffice release candidate sources. Though, they include some
       addons from the old Go-oo project. They have not passed
       full QA round yet and might include even serious bugs. Therefore they are not intended for
         data-critical usage. A good practice is to archive any
-      important data before an use, â€¦ 
+      important data before an use, … 
 
 As usual, we kindly ask any interested beta testers to try the package and [report bugs](http://en.opensuse.org/openSUSE:Bugreport_OOo) against the product
         LibreOffice .
 
 **Known Bugs**:
 
-  * some packages were not renamed, .e.g. OpenOffice_org-thesaurus, â€¦; they are not built from the main LibO
+  * some packages were not renamed, .e.g. OpenOffice_org-thesaurus, …; they are not built from the main LibO
             sources; I will do soon.
 
   * SLED10 build is not available; need more love
@@ -782,7 +782,7 @@ First, I am sorry that I did not announce two older builds. I published rc2 buil
       rc3. It was ready only one day before rc4, so it did not make sense to announce it. 
 
 There still might be some openSUSE-specific bugs that
-      would need to be fixed. I hope that they do not break the base function butâ€¦ I will continue
+      would need to be fixed. I hope that they do not break the base function but… I will continue
       with producing newer builds with more fixes from the stable libreoffice-3-3 branch. I will
       move the packages to a stable project once we finish testing of all the SUSE-specific addons.
       It should happen within the next few weeks. 
@@ -798,13 +798,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
 
 **
-      [Rares Aioanei: Kernel Weekly News â€“ 22.01.2011](http://schaiba.wordpress.com/2011/01/17/kernel-weekly-news-22-01-2011/)
+      [Rares Aioanei: Kernel Weekly News – 22.01.2011](http://schaiba.wordpress.com/2011/01/17/kernel-weekly-news-22-01-2011/)
     **
 
 Hello world, and welcome to the first edition of KWN for 2011! Long talk is no fun, so
-      letâ€™s jump into it! 
+      let’s jump into it! 
 
-We start this weekâ€™s news with Dan Williams, who has a pull requests for .38 regarding the
+We start this week’s news with Dan Williams, who has a pull requests for .38 regarding the
       async_tx tree
       :
     
@@ -855,23 +855,23 @@ We start this weekâ€™s news with Dan Williams, who has a pull requests for 
     it applies without doing a duplicate #include.
 
 , also we have a infiniband-related request from Roland Dreier and , last but not least,
-      itâ€™s Al Viro again with autofs cleanups and fixes.
+      it’s Al Viro again with autofs cleanups and fixes.
 
-- Still in the updates/pull requests zone, hereâ€™s a list :
+- Still in the updates/pull requests zone, here’s a list :
 
-  * Kukjin Kim â€“ linux-samsung tree
+  * Kukjin Kim – linux-samsung tree
 
-  * Arnaldo Carvalho de Melo â€“ perf/urgent
+  * Arnaldo Carvalho de Melo – perf/urgent
 
-  * Greg Ungerer â€“ m68knommu
+  * Greg Ungerer – m68knommu
 
-  * Michal Simek â€“ arch/microblaze fixes for 2.6.38
+  * Michal Simek – arch/microblaze fixes for 2.6.38
 
-  * James Bottomley â€“ PARISC fixes for 2.6.38-rc1
+  * James Bottomley – PARISC fixes for 2.6.38-rc1
 
-  * John W. Linville â€“ fixes for the wireless tree, aimed @ .38
+  * John W. Linville – fixes for the wireless tree, aimed @ .38
 
-  * Guenter Roeck â€“ hwmon changes for 2.6.38 and
+  * Guenter Roeck – hwmon changes for 2.6.38 and
 
   * ACPICA patches by Len Brown for 2.6.38-merge . (...)
 
@@ -892,15 +892,15 @@ I wrote about webilder earlier which will give you stunning random wallpapers fo
 
   * Step 1: Launch **gnome-keybinding-properties**
 
-  * Step 2: Click on the â€œAddâ€ button in the bottom and in the resulting
-              dialog, type â€œHide Desktop Iconsâ€ for the Name field and for the command
+  * Step 2: Click on the “Add” button in the bottom and in the resulting
+              dialog, type “Hide Desktop Icons” for the Name field and for the command
               field,
               type:
     
     gconftool-2 -s --type boolean /apps/nautilus/preferences/show_desktop false
 
-  * Step 3: Create another keybinding by clicking the â€œAddâ€ button and
-              this time create a â€œShow Desktop Iconsâ€ item. The command for this will
+  * Step 3: Create another keybinding by clicking the “Add” button and
+              this time create a “Show Desktop Icons” item. The command for this will
               be:
     
     gconftool-2 -s --type boolean /apps/nautilus/preferences/show_desktop true
@@ -977,7 +977,7 @@ You can grab the source code from github or the .apk for manual install. And as 
         [Unixmen/Zinovsky: Useful commands for daily use](http://www.unixmen.com/linux-commands/1459-useful-commands-for-daily-use)
       **
 
-â€œUnder Linux there are graphical user interfaces (GUIs), where you can point and click and drag, and hopefully get work done terminalwithout first reading lots of documentation. The traditional Unix environment is a CLI (command line interface), where you type commands to tell the computer what to do. That is faster and more powerful, but requires finding out what the commands are.â€ -man intro-
+“Under Linux there are graphical user interfaces (GUIs), where you can point and click and drag, and hopefully get work done terminalwithout first reading lots of documentation. The traditional Unix environment is a CLI (command line interface), where you type commands to tell the computer what to do. That is faster and more powerful, but requires finding out what the commands are.” -man intro-
 
 Find in this post a list of some useful commands for this week.
 
@@ -1042,7 +1042,7 @@ Wow, this article and especially one of its comments saved my day.
 My computer crashed and one of the VMware machine hosted on it could not start anymore
         :
     
-    â€œCannot open the disk â€˜path of vmdkâ€™ or one of the snapshot disks it depends on.
+    “Cannot open the disk ‘path of vmdk’ or one of the snapshot disks it depends on.
     Reason: the specific virtual disk needs repair.
 
 Checking on the VMware forums, I quickly found the command that was supposed to help
@@ -1071,8 +1071,8 @@ But how is it possible that the utility coming with vmware workstation 7.1 such 
         [Stefan Seyfried: Increasing the X resolution for KVM guests](http://seife.kernalert.de/blog/2011/01/17/increasing-the-x-resolution-for-kvm-guests/)
       **
 
-Today I wondered again, why my KVM guests get only 800Ã—600 display resolution, even
-        though the framebuffer console is configured for 1024Ã—768. While most of the time this does
+Today I wondered again, why my KVM guests get only 800×600 display resolution, even
+        though the framebuffer console is configured for 1024×768. While most of the time this does
         not matter for testing, it does once you want to evalutate desktop environments or such in a
         VM. 
 
@@ -1084,13 +1084,13 @@ I checked the xorg log file and found, that the Cirrus card emulation apparently
     Using default hsync range of 31.50-37.90 kHz
     Using default vrefresh range of 50.00-70.00 Hz
 
-Simply setting those ranges to something reasonable (I got my values from â€œ**hwinfo --monitor**â€œ) helps quite a lot. Put this into
+Simply setting those ranges to something reasonable (I got my values from “**hwinfo --monitor**“) helps quite a lot. Put this into
         /etc/X11/xorg.conf.d/50-monitor.conf:
     
       HorizSync   31 - 61
       VertRefresh 50 - 90
 
-and you get a much more usable 1024Ã—768 resolution.
+and you get a much more usable 1024×768 resolution.
 
 **
         [Matthias Hopf: Restricting Linux kernel configure options to currently used set](http://emmes.livejournal.com/8382.html)
@@ -1138,15 +1138,15 @@ AWK is a data driven programming language designed for processing text-based dat
 
 The German company rh-tec offers free IPv6 internet connections for people that already
         have T-DSL. Configuring such a connection on openSUSE 11.3 is not as straight forward as
-        with IPv4. Itâ€™s not hard either if you know where to put the settings though.
+        with IPv4. It’s not hard either if you know where to put the settings though.
 
   1. start the yast2 DSL module
 
   2. follow the instructions of the wizard to set up a new PPPoE device. Enter your
               user name and password at the provider screen.
 
-  3. At the â€œConnection Parametersâ€ screen uncheck â€œAutomatically Retrieve DNSâ€. Enter
-              an arbitrary IPv4 address as first DNS server (yast doesnâ€™t accept IPv6 there yet, bug
+  3. At the “Connection Parameters” screen uncheck “Automatically Retrieve DNS”. Enter
+              an arbitrary IPv4 address as first DNS server (yast doesn’t accept IPv6 there yet, bug
               665516).
 
   4. finish the wizard and leave yast
@@ -1154,7 +1154,7 @@ The German company rh-tec offers free IPv6 internet connections for people that 
   5. open /etc/sysconfig/network/providers/provider0 (or whatever name was chosen by
               yast) in an editor
 
-  6. change DNS1 and DNS2 to the actual IPv6 addresses of your providerâ€™s name
+  6. change DNS1 and DNS2 to the actual IPv6 addresses of your provider’s name
               servers
 
   7. add the following line to the
@@ -1171,30 +1171,30 @@ The German company rh-tec offers free IPv6 internet connections for people that 
 
 **
       [Sebastian
-        KÃ¼gler: open-slx end-user platform announced](http://vizzzion.org/blog/2011/01/open-slx-end-user-platform-announced/)
+        Kügler: open-slx end-user platform announced](http://vizzzion.org/blog/2011/01/open-slx-end-user-platform-announced/)
     **
 
 A couple of months ago at open-slx, when we (like so many times before and after) talked
-      about how we can make the lives of Linux users easier, an idea was sparked. While thereâ€™s huge
-      amounts of content out there, it struck us that thereâ€™s still a large number of people not
+      about how we can make the lives of Linux users easier, an idea was sparked. While there’s huge
+      amounts of content out there, it struck us that there’s still a large number of people not
       being too well served when searching Google to get answers to your questions. This poses some
       problems though: First of all, most of the information is not in English. This poses an extra
       barrier for some, who might not be as fluent in English as we developers usually are. Then,
       the content is hard to verify: How do I *know* that the information given there makes sense?
-      Maybe it will just delete all my erotic movies? ;) So the problem is that thereâ€™s little
+      Maybe it will just delete all my erotic movies? ;) So the problem is that there’s little
       content for the German end-user audience, which is hard to verify. So a team consisting of
-      openSUSE community members and open-slx employees led by my colleague Rupert HorstkÃ¶tter has
+      openSUSE community members and open-slx employees led by my colleague Rupert Horstkötter has
       set out to fix this problem. They looked into existing solutions to these problem, and found
       that what is currently running as ubuntuusers.de comes closest to the solution we have in
       mind. We got in contact with the team at ubuntuusers.de, and they were enthusiastic about the
       idea and willing to make it happen. A good start. 
 
-Then comes the real work of course. Weâ€™ve worked out a concept that allows us to provide a
+Then comes the real work of course. We’ve worked out a concept that allows us to provide a
       modern support tool for our users, which builds on two pillars: information and interaction.
       The concept we come up with puts this into three different tools: a wiki as knowledgebase, a
       forum to discuss articles, questions and to get in contact with other people, and a blog
       aggregation (Planet) which collects news about developments in openSUSE and howtos for
-      specific topics. In order to accomplish this gargantuan task, weâ€™ve asked for help in the
+      specific topics. In order to accomplish this gargantuan task, we’ve asked for help in the
       openSUSE community. People were immediately enthusiastic about the idea, and started chipping
       in, helping to review and improve lots of articles. 
 
@@ -1202,38 +1202,38 @@ Over the past few months, we have reviewed about 2000 articles from the existing
       ubuntuusers.de [knowledgebase](http://wiki.open-slx.de), prioritizing 500 of
       them, and adapted the articles to modern standards and that they apply to openSUSE. These 500
       articles form the foundation for the knowledgebase we created for the open-slx community
-      platform. Weâ€™ve also set up a [webforum](http://community.open-slx.de) users
-      can use to communicate and ask further questions, and weâ€™ve put up a [blog aggregator](http://planet.open-slx.de). 
+      platform. We’ve also set up a [webforum](http://community.open-slx.de) users
+      can use to communicate and ask further questions, and we’ve put up a [blog aggregator](http://planet.open-slx.de). 
 
-So, if youâ€™re a German-speaking user (or future user :)) of openSUSE, hop over to
+So, if you’re a German-speaking user (or future user :)) of openSUSE, hop over to
       community.open-slx.de and see for yourself whether this new platform fits your needs (and if
-      it doesnâ€™t, let us know what we can improve). You can find the official announcement [here](http://news.open-slx.de/2011/01/17/herzlich-willkommen-bei-community-open-slx-de/).
+      it doesn’t, let us know what we can improve). You can find the official announcement [here](http://news.open-slx.de/2011/01/17/herzlich-willkommen-bei-community-open-slx-de/).
 
 (...)
 
 **[Nelson Marques: A
-        brief updateâ€¦](http://lizards.opensuse.org/2011/01/17/a-brief-update/)**
+        brief update…](http://lizards.opensuse.org/2011/01/17/a-brief-update/)**
 
-In the last days Iâ€™ve been leaving my full attention to Compiz and the famous glib main
-      loop. Iâ€™ve made a small perl script to compare my local builds with the ones available on
-      launchpadâ€¦ nothing too fancy, but it seems to work. During the last days Canonical updated a
+In the last days I’ve been leaving my full attention to Compiz and the famous glib main
+      loop. I’ve made a small perl script to compare my local builds with the ones available on
+      launchpad… nothing too fancy, but it seems to work. During the last days Canonical updated a
       lot of software. 
 
-Iâ€™ve decided to start updating the on my test repository to the newer versions. A couple
+I’ve decided to start updating the on my test repository to the newer versions. A couple
       of new packages are required as dependencies (the most impressive one is utouch-evemu, which
-      is a part of Canonicalâ€™s Multitouch uTouch stack). 
+      is a part of Canonical’s Multitouch uTouch stack). 
 
 The number of updates is quite impressive, the number of patches (even on some new
-      updates) is equally impressiveâ€¦ Iâ€™ve just realized that GTK+-2.0 has been subjected of a
-      couple of fun patches and gobject-introspection is becoming mind crushingâ€¦ Either way, the
+      updates) is equally impressive… I’ve just realized that GTK+-2.0 has been subjected of a
+      couple of fun patches and gobject-introspection is becoming mind crushing… Either way, the
       work continues, and unfortunately for me I was planning to do a small open beta phase for
-      Factory users soonâ€¦ but all this changes will require much more work and a lot of packages
+      Factory users soon… but all this changes will require much more work and a lot of packages
       will have dependency lists updated. 
 
 The next days free time will be spent around this massive update, I am sure it will pay
       off. If anyone is using my test repository on my home project, expect some turbulence during
-      the next days. Since Iâ€™m on this, Iâ€™m already starting to enable GTK3 wherever I can do it in
-      a safe way, nevertheless, itâ€™s just to speed work for the time being, as much things are
+      the next days. Since I’m on this, I’m already starting to enable GTK3 wherever I can do it in
+      a safe way, nevertheless, it’s just to speed work for the time being, as much things are
       changing.
 
 **[Vincent Untz: Cross-distribution meeting on application installer](http://www.vuntz.net/journal/post/2011/01/18/Cross-distribution-meeting-on-application-installer)**
@@ -1344,20 +1344,20 @@ Good luck and Rock the Boat!
 <td align="center" >![](http://blog.hennevogel.de/files/2011/01/12694840_204ab9cba6_o.jpg)
 </td></tr></table>
 
-Iâ€™m chewing on something for a couple of weeks now and I think I need to tell you before
-      my jaw turns into dust. Itâ€™s about the [openSUSE
-        Project](http://www.opensuse.org) and whatâ€™s happening with it. Iâ€™m heavily involved in the project. Since
+I’m chewing on something for a couple of weeks now and I think I need to tell you before
+      my jaw turns into dust. It’s about the [openSUSE
+        Project](http://www.opensuse.org) and what’s happening with it. I’m heavily involved in the project. Since
       over 10 years I get paid by my employer to work in that project and I spend a lot of my spare
-      time on it. Itâ€™s a huge part of my life, both personal and professional and I love it! I love
+      time on it. It’s a huge part of my life, both personal and professional and I love it! I love
       the people, I love how the project is set up and I love all the cool results we produce
-      together. But since a couple of weeks, I couldnâ€™t really pin down if there was a single cause,
-      what it was or when, I was in misery about it. Itâ€™s only yesterday that while talking to a
+      together. But since a couple of weeks, I couldn’t really pin down if there was a single cause,
+      what it was or when, I was in misery about it. It’s only yesterday that while talking to a
       fellow [openSUSE Board](http://en.opensuse.org/openSUSE:Board) member that I
-      realized what really causes my grief. All of the sudden this project went from â€œ**Hey dude, letâ€™s do cool things together**â€ to â€œ**I
-        have this and that opinion and Iâ€™m going to stick it to you!**â€. The whole project
-      went from collaboration to politics in a blink. Now Iâ€™m sure all of you tin foil hat wearing
+      realized what really causes my grief. All of the sudden this project went from “**Hey dude, let’s do cool things together**” to “**I
+        have this and that opinion and I’m going to stick it to you!**”. The whole project
+      went from collaboration to politics in a blink. Now I’m sure all of you tin foil hat wearing
       people out there will start to spin this as result of some single event, whatever fits your
-      agenda best, but I assure you itâ€™s not. Sometime in the last couple of weeks this tipped over
+      agenda best, but I assure you it’s not. Sometime in the last couple of weeks this tipped over
       and we started to have discussions about all aspects of the theory of politics, we argue about
       human rights or quotes from Mahatma Gandhi, people put up motions for the powers that be, the
       structure and people are questioned to the last extent, alliances are forged, opportunities
@@ -1368,23 +1368,23 @@ And there are two answers so far I have heard. One is that people say that this 
       crazy liberal ideas and that now **we reap what we sow:
         politics**. So however you are involved in this, like me for instance that stood up
       and took responsibility for nasty things nobody else wants to do, you have asked for this and
-      now got what was coming to you. **Donâ€™t be a crybaby now, bitch!
+      now got what was coming to you. **Don’t be a crybaby now, bitch!
       **
 
-The other answer I see to this from the members of our project is to be passive. **YAWN politics**â€¦ I want to code, draw, write, fix, test. Politics are
-      not of my interest and I donâ€™t want to get involved. You idiots can fight this out, I just
-      work on my stuff while youâ€™re doing that. So however you are involved in this, like me for
+The other answer I see to this from the members of our project is to be passive. **YAWN politics**… I want to code, draw, write, fix, test. Politics are
+      not of my interest and I don’t want to get involved. You idiots can fight this out, I just
+      work on my stuff while you’re doing that. So however you are involved in this, like me for
       instance that stood up and took responsibility for nasty things nobody else wants to do, you
-      have asked for this and now got what was coming to you. **Donâ€™t look at
+      have asked for this and now got what was coming to you. **Don’t look at
         me, not interested!**
     
 
 Both are equally destructive and neglect the reason all of us are here. We are here for
       one thing: **FUN**! Yes, remember please why you have came to the
-      openSUSE Project. Because itâ€™s fun to use the software for any purpose you want. Because itâ€™s
-      great to study how the software works, and change it to make it do what you wish. Because itâ€™s
-      cool to redistribute copies so you can help your neighbor. Because itâ€™s a great feeling to
-      give the whole community a chance to benefit from your work. You know whatâ€™s wrong with us? We
+      openSUSE Project. Because it’s fun to use the software for any purpose you want. Because it’s
+      great to study how the software works, and change it to make it do what you wish. Because it’s
+      cool to redistribute copies so you can help your neighbor. Because it’s a great feeling to
+      give the whole community a chance to benefit from your work. You know what’s wrong with us? We
       have forgot to Have a lot of fun! 
 
 Can all of you who love openSUSE please go to a console, open an xterm, gnome-terminal or
@@ -1392,9 +1392,9 @@ Can all of you who love openSUSE please go to a console, open an xterm, gnome-te
       for a while? 
 
 Then pull yourself together and stop doing what is robbing ALL OF US of the reason we are
-      here! If you want to push through your agenda, donâ€™t! If you want to stick it to the man,
-      donâ€™t! If you want to insist on all of your given rights, donâ€™t! If you want to be pigheaded,
-      donâ€™t. If you want to be serious, donâ€™t! 
+      here! If you want to push through your agenda, don’t! If you want to stick it to the man,
+      don’t! If you want to insist on all of your given rights, don’t! If you want to be pigheaded,
+      don’t. If you want to be serious, don’t! 
 
 **Instead, remember to Have a lot of fun!**
 
@@ -1453,8 +1453,8 @@ Texas Linux Fest 2011 is the second annual Linux and open source software event 
       **
 
 Mozilla has the finish line for Firefox 4 in sight: Beta 9 was just released and the
-        first builds of Beta 10 have been posted to the companyâ€™s FTP server. There are just over
-        100 blocking bugs left and there isnâ€™t much that will change until the final release will be
+        first builds of Beta 10 have been posted to the company’s FTP server. There are just over
+        100 blocking bugs left and there isn’t much that will change until the final release will be
         available sometime in February or March. Time to check how fast this new browser is. The
         first article of this series focuses on JavaScript performance.
 
@@ -1462,8 +1462,8 @@ It has been almost 9 months since Firefox 4 was first announced and Mozilla has 
         a lot of ground and has overcome significant obstacles to come up with a competitive browser
         that returns to what has made Firefox great: A fast and nimble browser with features that
         are setting the standard for everyone else. One key requirement for Firefox 4 was to catch
-        up with its rivals as it was clear early last year that 3.6.x wasnâ€™t up to the task anymore.
-        Before we are looking at Firefox 4â€² features, we will have a look at its performance
+        up with its rivals as it was clear early last year that 3.6.x wasn’t up to the task anymore.
+        Before we are looking at Firefox 4′ features, we will have a look at its performance
         capability. Firefox 4 Beta 10-pre is pretty darn close to the final version and should give
         us a good idea how the browser stacks up. (...)
 
@@ -1473,31 +1473,31 @@ It has been almost 9 months since Firefox 4 was first announced and Mozilla has 
         [Linux User & Developer/Jos Poortvliet:The openSUSE column #96 with Jos Poortvliet](http://www.youtube.com/watch?v=6tw2JOuct7k)
       **
 
-**openSUSE community manager, Jos Poortvliet, talks about the latest in openSUSE projects and developments since the successful openSUSE Conference last Octoberâ€¦ **
+**openSUSE community manager, Jos Poortvliet, talks about the latest in openSUSE projects and developments since the successful openSUSE Conference last October… **
 
 Since the openSUSE Conference in Nuremberg in October, the openSUSE community has been
         extremely active. New projects announced there have progressed, and others have emerged. One
         example of the latter would be the announcement of Project Tumbleweed by kernel hacker and
         openSUSE contributor Greg Kroah-Hartman. The goal of this project is to create a
-        â€˜rolling-releaseâ€™ version of openSUSE. A rolling-release distribution (like Arch Linux or
+        ‘rolling-release’ version of openSUSE. A rolling-release distribution (like Arch Linux or
         Gentoo) always offers the latest stable versions of a package in updates so that when a new
-        release surfaces, users actually donâ€™t have to do an upgrade! 
+        release surfaces, users actually don’t have to do an upgrade! 
 
 Tumbleweed is something you could probably only pull off in openSUSE. While openSUSE is
         a fixed-schedule release project (with a release every 8th), we provide newer stable
         packages for a variety of things on the openSUSE Build Service (OBS). OBS warrants an
-        article on its own â€“ a rather unique project (a tutorial for which featured in last monthâ€™s
+        article on its own – a rather unique project (a tutorial for which featured in last month’s
         magazine). We use it to build our distribution, but also packages for other distributions,
-        including Fedora, CentOS, Mandriva, Debian, Ubuntu and â€“ seriously â€“ Windows support is
+        including Fedora, CentOS, Mandriva, Debian, Ubuntu and – seriously – Windows support is
         under development. Hence the OBS mainframes handle the building of over 100,000 packages
         from 25,000 users working on 15,000 different projects. OBS can provide newer packages for
         older openSUSE versions because it is easy: from the web interface our packagers just select
-        the older versions and OBS takes care of it â€“ itâ€™s really that easy. OBS accomplishes this
+        the older versions and OBS takes care of it – it’s really that easy. OBS accomplishes this
         by starting a fresh virtual machine (of the chosen distro and version) for each package that
         has to be built. It then installs all build dependencies and builds the package. Any errors
         are relayed back to the packager via the web (or command-line) interface. And OBS can take
         code directly out of CVS/SVN/Git and has built-in live CD generation (so yes, an automatic
-        daily live CD of Git GNOME can be accomplished with ease). Itâ€™s unique and free software, so
+        daily live CD of Git GNOME can be accomplished with ease). It’s unique and free software, so
         OBS is used by a variety of other projects, including VLC and MeeGo. (...)
 
 **
@@ -1517,16 +1517,16 @@ A little over a year ago, an article was published on the Dot titled 'Reposition
 There are lots of graphics software applications out there. Photoshop is the big dog on
         the block and many professional artists, cartoonists, and film makers use it for a variety
         of tasks. There are also graphics applications that rival Photoshop and do just about as
-        much as Photoshop but a t a lower cost. It all depends on the job youâ€™re tackling and how
+        much as Photoshop but a t a lower cost. It all depends on the job you’re tackling and how
         many digital tools you require. 
 
-Iâ€™ve found that [The Gimp](http://www.gimp.org/) does just about all I
+I’ve found that [The Gimp](http://www.gimp.org/) does just about all I
         need when producing my comic features. And the costs is much less than Photoshop. Gimp is
         free. And because I use [Linux](), The Gimp already comes pre-installed.
         When you install Linux, Gimp is right there ready to go to work for you. 
 
 Gimp has all the neat little filters, bells, and whistles that all the other graphics
-        software apps have. I use â€˜em all, but one filter, specifically, comes in quite handy when
+        software apps have. I use ‘em all, but one filter, specifically, comes in quite handy when
         drawing cartoons. (...)
 
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
@@ -1539,7 +1539,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 

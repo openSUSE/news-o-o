@@ -21,7 +21,7 @@ In preparation for the upcoming 12.3 release, the openSUSE Marketing and Artwork
 Every year SUSE rents a bus that gets loaded with SUSE and community guys and girls and drives it across Europe to the leading developer-focused Free Software event. Although the trip is long, a busload of geeks and beer is a great recipe for things to discuss and projects to hack on. So we had a lot of fun on the way already.
 [caption id="attachment_15258" align="alignright" width="212"][![FOSDEM beer poster](//news.opensuse.org/wp-content/uploads/2013/02/FOSDEM-beer-a4-300dpi.jpg)](//news.opensuse.org/wp-content/uploads/2013/02/FOSDEM-beer-a4-300dpi.jpg)_ how to get ppl to visit your booth_[/caption]
 
-At FOSDEM, we got a booth between Debian and the FOSDEM organization's stand, and demonstrating openSUSE 12.3 Beta 1, and sold openSUSE Old Toad beer and merchandise. We had two big touchscreens (although one had broken touchscreen) and we were showing Gnome and KDE there. Apart from that we also had Samsung Chromebooks with openSUSE demoing Enlightement 17 (including a nice openSUSE theme) and XFCE. Â We also promoted our next openSUSE Conference in Greece by playing promo videos, hanging posters everywhere and off course having plenty of Greeks at our booth talking to everybody about it. They even managed to "catch" few Greek FOSDEM visitors.
+At FOSDEM, we got a booth between Debian and the FOSDEM organization's stand, and demonstrating openSUSE 12.3 Beta 1, and sold openSUSE Old Toad beer and merchandise. We had two big touchscreens (although one had broken touchscreen) and we were showing Gnome and KDE there. Apart from that we also had Samsung Chromebooks with openSUSE demoing Enlightement 17 (including a nice openSUSE theme) and XFCE.  We also promoted our next openSUSE Conference in Greece by playing promo videos, hanging posters everywhere and off course having plenty of Greeks at our booth talking to everybody about it. They even managed to "catch" few Greek FOSDEM visitors.
 
 So what were the hottest topics? osc13 and ARM got a lot of attention. But OBS is still a hot topic as well. People are asking for some software they deeply care about and the answer to that is always OBS - you can find a lot there and you can even contribute easily! As usual, the Old Toad was very popular and we ran out of beer during the afternoon on both days, despite bringing twice the amount that we brought last year...
 
@@ -48,7 +48,7 @@ During the hackathon, ten to fifteen people were spread over the two rooms we ha
   * **Other artwork:** first draft of stickers, t-shirt design, updated brochure artwork
 
 	
-  * **Writing:** Cleaned and categorized, integrated change logs for the 12.3 Feature list, and Â collected info from community wiki and announcements, prepared social media messages
+  * **Writing:** Cleaned and categorized, integrated change logs for the 12.3 Feature list, and  collected info from community wiki and announcements, prepared social media messages
 
 
 [![KDE Party Group Photo](//news.opensuse.org/wp-content/uploads/2013/02/KDE-party-group-photo.jpg)](//news.opensuse.org/wp-content/uploads/2013/02/KDE-party-group-photo.jpg)

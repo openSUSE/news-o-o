@@ -15,10 +15,10 @@ This year, the international [Linux-Kongress](http://www.linux-kongress.org/2009
 
 
 	
-  * Tutorial: [Building a high available virtualization cluster based on iSCSI storage and XEN](http://www.linux-kongress.org/2009/abstracts.html#1_1_3) on OctÂ  27th and 28th by Thomas GroÃŸ
+  * Tutorial: [Building a high available virtualization cluster based on iSCSI storage and XEN](http://www.linux-kongress.org/2009/abstracts.html#1_1_3) on Oct  27th and 28th by Thomas Groß
 
 	
-  * Speech:Â  [LAX - a toolset for network administration](http://www.linux-kongress.org/2009/abstracts.html#4_2_2) on Oct 30th by Thomas GroÃŸ
+  * Speech:  [LAX - a toolset for network administration](http://www.linux-kongress.org/2009/abstracts.html#4_2_2) on Oct 30th by Thomas Groß
 
 
 

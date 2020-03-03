@@ -5,7 +5,7 @@ date: 2011-12-22 00:00:48+00:00
 layout: post
 link: https://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/
 slug: systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1
-title: systemd â€“ boot faster and cleaner with openSUSE 12.1
+title: systemd – boot faster and cleaner with openSUSE 12.1
 wordpress_id: 11751
 categories:
 - Distribution
@@ -108,8 +108,8 @@ Loaded: loaded (/etc/init.d/mysql)
 Active: active (running) since Wed, 02 Nov 2011 10:53:34 +0100; 24h ago
 Process: 3242 ExecStart=/etc/init.d/mysql start (code=exited, status=0/SUCCESS)
 CGroup: name=systemd:/system/mysql.service
-â”œ 3578 /bin/sh /usr/bin/mysqld_safe --mysqld=mysqld --user=mysql --pid-file=/var/run/mysql/mysqld.pid --socket=/var/ru...
-â”” 4191 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib64/mysql/plugin --user=mysql --lo...
+├ 3578 /bin/sh /usr/bin/mysqld_safe --mysqld=mysqld --user=mysql --pid-file=/var/run/mysql/mysqld.pid --socket=/var/ru...
+└ 4191 /usr/sbin/mysqld --basedir=/usr --datadir=/var/lib/mysql --plugin-dir=/usr/lib64/mysql/plugin --user=mysql --lo...
 `
 What is really cool with systemctl is its tab completion. on first level for command like systemctl will show you wich action you are able to run. On second level it will show which service name you can use like `systemctl start my` will complete to `mysql.service`
 
@@ -158,4 +158,4 @@ You can activate a debug mode on startup by adding on the boot line:
 ## Moving backwards
 
 
-While we do not recommend anyone using sys V init on 12.1, people who wish to choose it as the default can do so by installing sysvinit-init package (it will uninstall systemd-sysvinit package) or changing their grub options. Even if you don't use systemd, don't try to uninstall its package, it might break your system. You don't need to remove systemd-sysvinit in case of emergency, if you let installed the sysvinit package you can boot with traditonnal init by adding on your boot line init=/sbin/sysvinit et voilÃ  !
+While we do not recommend anyone using sys V init on 12.1, people who wish to choose it as the default can do so by installing sysvinit-init package (it will uninstall systemd-sysvinit package) or changing their grub options. Even if you don't use systemd, don't try to uninstall its package, it might break your system. You don't need to remove systemd-sysvinit in case of emergency, if you let installed the sysvinit package you can boot with traditonnal init by adding on your boot line init=/sbin/sysvinit et voilà !

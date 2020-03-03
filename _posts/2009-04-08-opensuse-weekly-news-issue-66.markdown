@@ -20,7 +20,7 @@ You can reach us in irc @freenode (channel #opensuse-newsletter)  or through ope
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #66 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/66)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   *  Google Summer of Code

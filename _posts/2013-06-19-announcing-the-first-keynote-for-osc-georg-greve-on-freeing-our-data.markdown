@@ -14,7 +14,7 @@ categories:
 - Project
 ---
 
-[![Georg Greve 2013](//news.opensuse.org/wp-content/uploads/2013/06/Georg_201305.jpg)](//news.opensuse.org/wp-content/uploads/2013/06/Georg_201305.jpg) The openSUSE conference will feature Georg Greve as first keynote speaker, opening the event on Friday morning. He will talk about _"Freedom in the world we live in and the value and importance of communities and Software Freedom"_. That's aÂ mouthfulÂ and we've asked him to tell us a bit about himself and what he'll talk about.
+[![Georg Greve 2013](//news.opensuse.org/wp-content/uploads/2013/06/Georg_201305.jpg)](//news.opensuse.org/wp-content/uploads/2013/06/Georg_201305.jpg) The openSUSE conference will feature Georg Greve as first keynote speaker, opening the event on Friday morning. He will talk about _"Freedom in the world we live in and the value and importance of communities and Software Freedom"_. That's a mouthful and we've asked him to tell us a bit about himself and what he'll talk about.
 
 
 ## Personal life
@@ -38,13 +38,13 @@ We asked him about what he will share with us at the [openSUSE Conference](http:
 
 And people give their data willingly. Even the public sector is affected, just last week the Swedish government banned Google Apps usage in Sweden. They noted that it could not be guaranteed that the data would remain private. News, really? Perhaps there will be some rethinking of our over-eagerness to try new things (which is good) but will that message reach far enough? Will people realize that the problem is not the behaviour of the USA?"
 
-**Jos:**_Â Shouldn't we, in the rest of the world,Â be angry at the USA?_
+**Jos:**_ Shouldn't we, in the rest of the world, be angry at the USA?_
 
 **Georg:** "The United States are a sovereign nation and they can do what they want to do, nobody can stop them. The real question is about the control over our data. And this control (or lack there-of) results from the software handling it."
 
 **Jos:** _So to control the data..._
 
-**Georg:** "... we need to control the software, yes. Of course, this is what we are about, as Free Software community: we create the tools to control our data ourselves, or make it possible that we can let someone we trust exercise that control. What we have to learn is that it's not just about building the best tools in the world and throwing them out. From that follows too little. Good technologies have lost in the past. We need to evolve a professional ecosystem around these technologies to make sure that what we build reaches people, becomes available, accessible, is FUN to use for people. We need to target and reach that part of society which canâ€™t do it themselves, who are not geeks. Geeks can always protect themselves â€“ sure. But if we are satisfied with that we withhold the ability to protect themselves from the 98% who do not have the skills and knowledge to do so."
+**Georg:** "... we need to control the software, yes. Of course, this is what we are about, as Free Software community: we create the tools to control our data ourselves, or make it possible that we can let someone we trust exercise that control. What we have to learn is that it's not just about building the best tools in the world and throwing them out. From that follows too little. Good technologies have lost in the past. We need to evolve a professional ecosystem around these technologies to make sure that what we build reaches people, becomes available, accessible, is FUN to use for people. We need to target and reach that part of society which can’t do it themselves, who are not geeks. Geeks can always protect themselves – sure. But if we are satisfied with that we withhold the ability to protect themselves from the 98% who do not have the skills and knowledge to do so."
 
 **Jos:** _Your message is then that we need to communicate more about our software?_
 

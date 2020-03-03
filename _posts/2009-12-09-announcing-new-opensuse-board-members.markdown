@@ -23,12 +23,12 @@ The election committee announces the three new members of the [openSUSE board](h
   * Pavol Rusnak (Novell seat)
 
 	
-  * Rupert HorstkÃ¶tter (non-Novell seat)
+  * Rupert Horstkötter (non-Novell seat)
 
 
 These three will serve two-year terms beginning on December 22nd.
 
-Stephen Shaw and Bryen Yunashko have completed their terms on the Board. In addition to those seats, a new seat has been added to the Board effective with the inauguration of the new Board.Â  The full Board will consist of:
+Stephen Shaw and Bryen Yunashko have completed their terms on the Board. In addition to those seats, a new seat has been added to the Board effective with the inauguration of the new Board.  The full Board will consist of:
 
 	
   * Bryen Yunashko
@@ -37,7 +37,7 @@ Stephen Shaw and Bryen Yunashko have completed their terms on the Board. In addi
   * Henne Vogelsang
 
 	
-  * Michael LÃ¶ffler (chair)
+  * Michael Löffler (chair)
 
 	
   * Pascal Bleser
@@ -46,7 +46,7 @@ Stephen Shaw and Bryen Yunashko have completed their terms on the Board. In addi
   * Pavol Rusnak
 
 	
-  * Rupert HorstkÃ¶tter
+  * Rupert Horstkötter
 
 
 The election committee wants to thank Stephen Shaw for his tenure on the board and the new board members Bryen, Rupert and Pavol for stepping up and volunteering to serve on the openSUSE board.

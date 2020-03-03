@@ -15,7 +15,7 @@ To make bug reporting easier, we will be updating [Novell's Bugzilla](https://bu
 
 One significant change is that we will have a new guided mode for reporting of bugs that is default for non-Novell accounts.
 
-The guided report mode is a feature of bugzilla itself that we just enable.Â  It gives smart hints for reporting bugs including bad and good examples, makes the report more structured, suggests "hot" duplicate bugs and asks for reproducibility, expected and actual result.Â  This should help to create better bug reports and thus help with better resolving of bugs.
+The guided report mode is a feature of bugzilla itself that we just enable.  It gives smart hints for reporting bugs including bad and good examples, makes the report more structured, suggests "hot" duplicate bugs and asks for reproducibility, expected and actual result.  This should help to create better bug reports and thus help with better resolving of bugs.
 
 For those that use the unguided mode and want to use the guided mode (or the other way round), you can bookmark a template of the "New Bugreport" (see below for details) . Once you've done this, manually edit the URL of the bookmark and append "&format=guided" (if you want guided mode) or remove it if you do not want it. You can then use this bookmark for easy access, I have created that way a bookmark for openSUSE 11.1 bug reports that has already some stuff filled in, e.g. set "Found By" to "Community User". **Note that the guided mode will only be available after the update of bugzilla!**
 
@@ -31,7 +31,7 @@ Btw. if you want to report a bug, please check also our [guidelines](http://bugs
 
 
 	
-  * Select â€œNewâ€ to create a new bug report. Enter values for the attributes you want to predefine.
+  * Select “New” to create a new bug report. Enter values for the attributes you want to predefine.
 
 	
   * Click[![Remember values as bookmarkable template](/wp-content/uploads/2009/01/remember.png)](/wp-content/uploads/2009/01/remember.png)
@@ -41,7 +41,7 @@ Btw. if you want to report a bug, please check also our [guidelines](http://bugs
 
 [![](/wp-content/uploads/2009/01/bookmark.png)](/wp-content/uploads/2009/01/bookmark.png)
 	
-  * Right click on the hyperlink and and choose â€œBookmark linkâ€ (Firefox) to add it to your bookmarks
+  * Right click on the hyperlink and and choose “Bookmark link” (Firefox) to add it to your bookmarks
 
 	
   * Select the bookmark to create a new defect with your predefined attributes

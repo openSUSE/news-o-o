@@ -91,7 +91,7 @@ We'd like to thank everyone working on openSUSE for being so cool. Special hugs 
   * Sascha Peilicke
 
 	
-  * Marcus SchÃ¤fer
+  * Marcus Schäfer
 
 	
   * Ciaran Farrell

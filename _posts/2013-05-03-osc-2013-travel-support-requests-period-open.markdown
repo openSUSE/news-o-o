@@ -44,7 +44,7 @@ You will need an [openSUSE Connect account](https://connect.opensuse.org) in ord
   * The Travel Committee can reimburse up to 80% of travel and lodging costs. That includes plane ticket, train and bus tickets (no taxi), even car gas on some occasions, and hotel or hostel costs. Food and all local expenses are on you!
 
 	
-  * The Travel Team wonâ€™t be able to book or pay anything in advance, reimbursement comes after the event is over, **based on receipts you keep of your expenses**.
+  * The Travel Team won’t be able to book or pay anything in advance, reimbursement comes after the event is over, **based on receipts you keep of your expenses**.
 
 	
   * Again: **no receipts = no money** - it's the rules![![Click to submit a paper!](//news.opensuse.org/wp-content/uploads/2013/04/submit_paper.png)](https://conference.opensuse.org/osem/conference/osc2013/proposal/new)

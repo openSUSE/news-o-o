@@ -13,7 +13,7 @@ categories:
 
 The openSUSE Build Service team has released verison 2.0.8 and 2.1.6. of OBS. Both versions are fixing a critical security leak which can be miss-used to modify projects or packages without having write permission there. We highly recommend to update your instance of OBS as soon as possible to these new versions. Version 1.7 is not affected by this issue.
 <!-- more -->
-_Thanks to Marcus HÃ¼we for reporting this issue._
+_Thanks to Marcus Hüwe for reporting this issue._
 
 
 

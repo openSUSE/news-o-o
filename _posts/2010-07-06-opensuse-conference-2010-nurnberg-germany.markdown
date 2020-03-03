@@ -6,8 +6,8 @@ layout: post
 link: https://news.opensuse.org/2010/07/06/opensuse-conference-2010-nurnberg-germany/
 published: false
 slug: opensuse-conference-2010-nurnberg-germany
-title: openSUSE Conference 2010 NÃ¼rnberg, Germany
+title: openSUSE Conference 2010 Nürnberg, Germany
 wordpress_id: 3677
 ---
 
-The openSUSE Conference 2010 takes place in NÃ¼rnberg, Germany from October 20 to 23, 2010.Â  Details at [http://en.opensuse.org/openSUSE:Conference](http://en.opensuse.org/openSUSE:Conference)
+The openSUSE Conference 2010 takes place in Nürnberg, Germany from October 20 to 23, 2010.  Details at [http://en.opensuse.org/openSUSE:Conference](http://en.opensuse.org/openSUSE:Conference)

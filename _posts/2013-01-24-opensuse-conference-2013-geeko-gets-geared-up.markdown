@@ -14,7 +14,7 @@ categories:
 - Project
 ---
 
-[![oSC 2013 Conf Logo Single](/wp-content/uploads/2013/01/conf_logo.png)](/wp-content/uploads/2013/01/conf_logo.png)Today, the openSUSE community is happy and proud to announce the openSUSE Conference 2013, oSC13.Â On July 18, the openSUSE Community will flock to the land where 2500 years ago, Philosophers started the Age of Reason. Humbly standing on the shoulders of these giants, we'll work, enjoy the great climate and each other, developing the technology for the future of humankind. The Greek Philosophers were part of a revolution which changed the world. So are we, and thus, under the motto of **"Power to the Geeko"**, we will gather and work on our very own Free Software revolution!<!-- more -->
+[![oSC 2013 Conf Logo Single](/wp-content/uploads/2013/01/conf_logo.png)](/wp-content/uploads/2013/01/conf_logo.png)Today, the openSUSE community is happy and proud to announce the openSUSE Conference 2013, oSC13. On July 18, the openSUSE Community will flock to the land where 2500 years ago, Philosophers started the Age of Reason. Humbly standing on the shoulders of these giants, we'll work, enjoy the great climate and each other, developing the technology for the future of humankind. The Greek Philosophers were part of a revolution which changed the world. So are we, and thus, under the motto of **"Power to the Geeko"**, we will gather and work on our very own Free Software revolution!<!-- more -->
 
 
 ## About the conference
@@ -34,7 +34,7 @@ Greece, or Hellas, is a southern European country, south of the Balkan Peninsula
 ### Thessaloniki
 
 
-Thessaloniki is the second largest city in Greece and the capital of the Central Macedonia region.Â Air traffic to and from the city is served by the Macedonia International Airport for international and domestic flights.Â The city is renowned for its festivals, events and vibrant cultural life in general, and is considered to be Greece's cultural capital. Events such as the Thessaloniki International Trade Fair and the Thessaloniki International Film Festival are held annually, while the city also hosts the largest bi-annual meeting of the Greek diaspora. In 2014 Thessaloniki will be the European Youth Capital.Â For 2013 National Geographic Magazine included Thessaloniki in its top tourist destinations worldwide. Thessaloniki is well known for the night life and the delicious food.
+Thessaloniki is the second largest city in Greece and the capital of the Central Macedonia region. Air traffic to and from the city is served by the Macedonia International Airport for international and domestic flights. The city is renowned for its festivals, events and vibrant cultural life in general, and is considered to be Greece's cultural capital. Events such as the Thessaloniki International Trade Fair and the Thessaloniki International Film Festival are held annually, while the city also hosts the largest bi-annual meeting of the Greek diaspora. In 2014 Thessaloniki will be the European Youth Capital. For 2013 National Geographic Magazine included Thessaloniki in its top tourist destinations worldwide. Thessaloniki is well known for the night life and the delicious food.
 
 
 ### Community
@@ -48,7 +48,7 @@ The local team of volunteers is working with great dedication to provide an awes
 ## Travel support
 
 
-The [openSUSE Travel Support Program](http://en.opensuse.org/openSUSE:Travel_Support_Program) will once again offer help to those those openSUSE contributors that would like to attend the openSUSE conference but have financial limitations. Following the procedure at theÂ [Travel Support wiki](http://en.opensuse.org/openSUSE:Travel_Support_Program)Â you can send yourÂ support requests to the TSP team from April 23rd to May 3rd. Earlier requests are possible but note that the travel team will allocate travel funding according to the guidelines and inform all applicants by May 13th. This should allow a sufficient amount of time to make your reservations.
+The [openSUSE Travel Support Program](http://en.opensuse.org/openSUSE:Travel_Support_Program) will once again offer help to those those openSUSE contributors that would like to attend the openSUSE conference but have financial limitations. Following the procedure at the [Travel Support wiki](http://en.opensuse.org/openSUSE:Travel_Support_Program) you can send your support requests to the TSP team from April 23rd to May 3rd. Earlier requests are possible but note that the travel team will allocate travel funding according to the guidelines and inform all applicants by May 13th. This should allow a sufficient amount of time to make your reservations.
 
 
 ## Sponsoring and supportive attendee registration

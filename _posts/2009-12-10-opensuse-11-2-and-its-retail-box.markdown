@@ -16,7 +16,7 @@ tags:
 
 Retail versions of openSUSE 11.2 are once again available. For the first time, the retail box is being handled by a partner, [open-slx](http://open-slx.com/).
 
-open-slx is founded and lead by Stefan Werden, a former SUSE employee who approached Novell this summer and proposed to take on the retail box distribution in the future. After some negotiation Stefan signed a contract with Novell and is now allowed to pursue theÂ  retail box on his own. With openSUSE 11.2 open-slx's main goal is to keep the retail box alive and improve sales of openSUSE in the retail market.
+open-slx is founded and lead by Stefan Werden, a former SUSE employee who approached Novell this summer and proposed to take on the retail box distribution in the future. After some negotiation Stefan signed a contract with Novell and is now allowed to pursue the  retail box on his own. With openSUSE 11.2 open-slx's main goal is to keep the retail box alive and improve sales of openSUSE in the retail market.
 
 With openSUSE 11.3 open-slx has declared an interest in adding value to the box product so that there is a real difference between free download version and box in retail to purchase.
 

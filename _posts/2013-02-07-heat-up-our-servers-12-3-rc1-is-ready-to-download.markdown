@@ -18,7 +18,7 @@ categories:
 ## What's in there?
 
 
-This preview includes the large number of fixes made to Factory since the beta, as well as the last major set of version updates.Â  RC1 needs a real workout to ensure we fix any remaining issues in time, so don't wait for RC2, put it on your spare disk and give it a try now. Major changes include:
+This preview includes the large number of fixes made to Factory since the beta, as well as the last major set of version updates.  RC1 needs a real workout to ensure we fix any remaining issues in time, so don't wait for RC2, put it on your spare disk and give it a try now. Major changes include:
 
 
 
@@ -35,7 +35,7 @@ This preview includes the large number of fixes made to Factory since the beta, 
   * Apper 0.8
 
 	
-    * Rewritten around new PackageKit, and the software update notifier has been rewritten as a plasmoid.Â  The language used in the UI has been changed to match usage in YaST and zypper better.
+    * Rewritten around new PackageKit, and the software update notifier has been rewritten as a plasmoid.  The language used in the UI has been changed to match usage in YaST and zypper better.
 
 
 
@@ -71,7 +71,7 @@ This preview includes the large number of fixes made to Factory since the beta, 
   * Samba 3.6.12 (Samba 4 missed the feature deadline)
 
 
-For the first time, openSUSE 12.3 features custom-developed theming for Plasma Workspace. This features a dark tone-on-tone colour scheme, controlled use of texture and fashionably monochrome tray icons that stand apart from application icons.Â  Coordinated colour palettes in dark and light variations should appeal all tastes. Feedback on the new theme is very welcome at the [opensuse-artwork mailing list](http://lists.opensuse.org/opensuse-artwork/).
+For the first time, openSUSE 12.3 features custom-developed theming for Plasma Workspace. This features a dark tone-on-tone colour scheme, controlled use of texture and fashionably monochrome tray icons that stand apart from application icons.  Coordinated colour palettes in dark and light variations should appeal all tastes. Feedback on the new theme is very welcome at the [opensuse-artwork mailing list](http://lists.opensuse.org/opensuse-artwork/).
 
 **Get openSUSE 12.3 RC1 from [the usual place](http://software.opensuse.org/developer/).**
 

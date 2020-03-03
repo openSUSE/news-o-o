@@ -5,7 +5,7 @@ date: 2011-08-04 14:01:31+00:00
 layout: post
 link: https://news.opensuse.org/2011/08/04/and-they-keep-rocking%e2%80%a6/
 slug: and-they-keep-rocking%e2%80%a6
-title: And they keep rockingâ€¦
+title: And they keep rocking…
 wordpress_id: 9740
 categories:
 - Events

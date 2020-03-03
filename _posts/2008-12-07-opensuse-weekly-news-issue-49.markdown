@@ -12,14 +12,14 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #49 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/49)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * Andreas Jaeger: openSUSE 11.1 Goes RC2
 
   * Joe Brockmeier: Mounting remote directories using FUSE and sshfs on openSUSE
 
-  * Henne Vogelsang: Whatâ€™s Working Well and What To Do With It
+  * Henne Vogelsang: What’s Working Well and What To Do With It
 
   * RedDwarf: Check your multimedia problem in ten steps
 

@@ -13,9 +13,9 @@ categories:
 
 The Car crew arrived today at 01:00 in Nuremberg, except some snowstorms at Cologne it was a very smooth ride. This year we had really luck with the weather. What i heard so far there where no major incidents, nothing is missing, everybody got back somehow. In the afternoon i will have fun to unbox and sort all the equipment ...
 
-So what are my impressions on FOSDEM this year? I think it was even more crowded than last year, but i'm waiting for official numbers, and overall it was a lot of fun. Because i'm organizing it for openSUSE i had not really time to attend some talks, most of the time i was at the booth or in the devroom. But even that was a lot of stress, thanks to all the speakers and JÃ¼rgen and Tom who took care of the devroom most of the time.
+So what are my impressions on FOSDEM this year? I think it was even more crowded than last year, but i'm waiting for official numbers, and overall it was a lot of fun. Because i'm organizing it for openSUSE i had not really time to attend some talks, most of the time i was at the booth or in the devroom. But even that was a lot of stress, thanks to all the speakers and Jürgen and Tom who took care of the devroom most of the time.
 
-Speaking of JÃ¼rgen and Tom, the recordings will rock this year. They had a lot of equipment to make proper recordings with good sound. The last years we had only the camera micro, hence more background noises and less speaker sound. You fill find them later this week on our FOSDEM [page.](http://en.opensuse.org/FOSDEM)
+Speaking of Jürgen and Tom, the recordings will rock this year. They had a lot of equipment to make proper recordings with good sound. The last years we had only the camera micro, hence more background noises and less speaker sound. You fill find them later this week on our FOSDEM [page.](http://en.opensuse.org/FOSDEM)
 
 We gave away around 1000 PromoDVDs, and i hope everybody got the contributor shirt.
 

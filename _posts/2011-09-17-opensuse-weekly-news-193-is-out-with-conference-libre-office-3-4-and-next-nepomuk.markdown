@@ -98,26 +98,26 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 Enjoy reading :-)
 
-## openSUSE Conference 2011â–¼
+## openSUSE Conference 2011▼
 
-â€œ
+“
 
 [Jos
         Poortvlieet: openSUSE Conference Fun!](http://news.opensuse.org/2011/09/15/opensuse-conference-fun/)
 
-At the openSUSE conference in NÃ½rnberg almost 400 visitors have shown up for the four
+At the openSUSE conference in Nýrnberg almost 400 visitors have shown up for the four
       tracks of sessions about technical and community matters and the many other events and
-      parties. While a longer article is coming, weâ€™d like to give a taste of the conference here!
+      parties. While a longer article is coming, we’d like to give a taste of the conference here!
       (...)
 
-â€
+”
 
-â€œ
+“
 
 [Greek openSUSE Ambassadors: openSUSE Conference: First Day](http://opensuseambassadors.blogspot.com/2011/09/opensuse-conference-first-day.html)
 
-In Friday morning, at 4:50 Kostas â€œWarlordfffâ€ Koudaras , George â€œEtern4Lâ€ Bratsos,
-      Eustathios â€œefagraâ€ Agrapidis and Stella â€œdifferentrealityâ€ Rouzi met in Thessalonikiâ€™s
+In Friday morning, at 4:50 Kostas “Warlordfff” Koudaras , George “Etern4L” Bratsos,
+      Eustathios “efagra” Agrapidis and Stella “differentreality” Rouzi met in Thessaloniki’s
       airport. We were about to travel to Nuremberg, Germany to go at the openSUSE Conference at
       Zentrifuge. 
 
@@ -127,9 +127,9 @@ After we met up at the airport we checked in and we entered the airplane. It is 
       Nuremberg. The flight between Zurich and Nuremberg lasted half an hour an finally after 4 hour
       traveling we arrived at Nuremberg. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Greek openSUSE Ambassadors: openSUSE Conference: Day 2, The Conference
       Begins](http://opensuseambassadors.blogspot.com/2011/09/opensuse-conference-day-2-conference.html)
@@ -143,9 +143,9 @@ Awesome! The sun goes up in Nuremberg... The Greek team woke up early in the mor
 The day's program was printed so we took a copy in order to see and decide which awesome
       presentations we will attend! (...)
 
-â€
+”
 
-â€œ
+“
 
 [Greek openSUSE Ambassadors: openSUSE Conference: Day 3, The conference continues, the
         Greeks attack!](http://opensuseambassadors.blogspot.com/2011/09/opensuse-conference-day-3-conference.html)
@@ -155,18 +155,18 @@ Greek team woke up in the cloudy morning in Nuremberg. We ate our breakfast at h
 
 We arrived a bit late but luckily they haven't started yet! There were again many
       interesting presentations among about community, distribution and about technology.
-      Presentations that stood out where â€œopenSUSE Tumbleweedâ€ Mr. KH, Greg, â€œAmbassador Program:
-      Current status,potential changes and improvementsâ€ by Mr. KOUDARAS, Kostas (openSUSE), Mr.
-      GUPTA, Manu (openSUSE), â€œOur experience in organizing a local community: The Greek exampleâ€ by
-      by Mr. KOUDARAS, Kostas (openSUSE) and â€œHow to get more Women into openSUSEâ€ by PINTSCHER,
+      Presentations that stood out where “openSUSE Tumbleweed” Mr. KH, Greg, “Ambassador Program:
+      Current status,potential changes and improvements” by Mr. KOUDARAS, Kostas (openSUSE), Mr.
+      GUPTA, Manu (openSUSE), “Our experience in organizing a local community: The Greek example” by
+      by Mr. KOUDARAS, Kostas (openSUSE) and “How to get more Women into openSUSE” by PINTSCHER,
       Lydia (KDE). Do not forget the LPI exams we had at the conference. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Kai-Uwe Behrmann: Taxi
-        @ rwxÂ³](http://oyranos-cms.blogspot.com/2011/09/taxi-rwx.html)
+        @ rwx³](http://oyranos-cms.blogspot.com/2011/09/taxi-rwx.html)
 
 Sebastian Oliva presented today at the openSUSE
         conference the results of his ICC Device Profile
@@ -175,12 +175,12 @@ Sebastian Oliva presented today at the openSUSE
       users. During the summer project, which is called now [taxi,
       ](http://openicc.git.sourceforge.net/git/gitweb.cgi?p=openicc/taxi;a=summary) he developed a [generic API](http://openicc.git.sourceforge.net/git/gitweb.cgi?p=openicc/taxi;a=blob;f=docs/api_doc.txt) to store and obtain ICC profiles through JSON requests.
 
-â€
+”
 
-â€œ
+“
 
 [Kai-Uwe
-        Behrmann: dispcalGUI 0.7 @ rwxÂ³](http://oyranos-cms.blogspot.com/2011/09/dispcalgui-07-rwx.html)
+        Behrmann: dispcalGUI 0.7 @ rwx³](http://oyranos-cms.blogspot.com/2011/09/dispcalgui-07-rwx.html)
 
 My yesterday held workshop for calibrating and profiling monitors using
       dispcalGUI+ArgyllCMS in Nuremberg was a nice experience. Around ten people from the openSUSE
@@ -206,9 +206,9 @@ We had available a i1display, a DTP94 and a i1pro as measurement devices, which 
       profile. Overriding the system profile by default is dangerous for a good user
       experience.
 
-â€
+”
 
-â€œ
+“
 
 [Greek
         openSUSE Ambassadors: openSUSE Conference: Day 4](http://opensuseambassadors.blogspot.com/2011/09/opensuse-conference-day-4.html)
@@ -218,19 +218,19 @@ The Greeks woke up early today. The cloudy weather of Nuremberg didn't stopped u
       for the way to Zentrifuge.
 
 Today there are many interesting presentations about community tools and about new
-      technologies in Linux. We started from Lydia's awesome presentation about â€œSocial skills for
-      geeksâ€. After that we attended the presentation of Mr. Vogelsang, Hendrik about â€œHow to
-      contribute to the openSUSE Wikiâ€ which was very interesting and we all were there get informed
+      technologies in Linux. We started from Lydia's awesome presentation about “Social skills for
+      geeks”. After that we attended the presentation of Mr. Vogelsang, Hendrik about “How to
+      contribute to the openSUSE Wiki” which was very interesting and we all were there get informed
       on our next community target ;). Also, we attended at the main hall the presentation of an
       important member of SUSE and openSUSE Mr. Milller Michael who told us about his experience
       with SUSE and openSUSE. After we ate, talked with people and rest ourselves we attended the
-      conversation about â€œPlaying with Geeko: Contribution can be funâ€ by Koudaras, Kostas and
+      conversation about “Playing with Geeko: Contribution can be fun” by Koudaras, Kostas and
       Gupta, Manu where they presented to the community why and how we can contribute at the
       project.
 
-â€
+”
 
-â€œ
+“
 
 [Andreas Jaeger: openSUSE Conference 2011 is over - Photos uploaded](http://jaegerandi.blogspot.com/2011/09/opensuse-conference-2011-is-over-photos.html)
 
@@ -245,13 +245,13 @@ The openSUSE conference is now over. It was a really great event and I loved to 
 
 I've taken many photos - like the group photo - and uploaded them to my [gallery](http://ajaeger.smugmug.com/Events/osc11/), and I hope you enjoy them.
       Also, an [article by
-        The H ](http://www.h-online.com/open/features/Fresh-wind-for-openSUSE-1343874.html)is online based on a conversation I had with Andrea MÃ½ller from The H. 
+        The H ](http://www.h-online.com/open/features/Fresh-wind-for-openSUSE-1343874.html)is online based on a conversation I had with Andrea Mýller from The H. 
 
-â€
+”
 
-â€œ
+“
 
-[Greek openSUSE Ambassadors: openSUSE Conference 2011, Day 5 â€œÎ¤he Last Dayâ€](http://opensuseambassadors.blogspot.com/2011/09/opensuse-conference-2011-day-5-he-last.html)
+[Greek openSUSE Ambassadors: openSUSE Conference 2011, Day 5 “Τhe Last Day”](http://opensuseambassadors.blogspot.com/2011/09/opensuse-conference-2011-day-5-he-last.html)
 
 Greeks woke up earlier in order to be in time at Zentrifuge. We ate breakfast and we
       prepared ourselves for taking the road to the conference. We were a bit tired but we wanted to
@@ -260,44 +260,44 @@ Greeks woke up earlier in order to be in time at Zentrifuge. We ate breakfast an
 
 There were many community based presentations and many technical presentations about
       Google summer of code projects and in general technologies that openSUSE uses and updates. Our
-      day started by attending the conversation about â€œDo we need an ambassador mentoring program?â€
+      day started by attending the conversation about “Do we need an ambassador mentoring program?”
       by Koudaras, Kostas where we talked about ambassadors and how we can improve the program in
       all ways. Many people from Novel attended the presentation and integrate with ideas in order
-      to help improve the program. After that, we attended â€œConnect - a social networking platform
-      for the openSUSE Communityâ€ by Mr. Vogelsang, Hendrik and Rusnak, Pavol who presented us this
+      to help improve the program. After that, we attended “Connect - a social networking platform
+      for the openSUSE Community” by Mr. Vogelsang, Hendrik and Rusnak, Pavol who presented us this
       new awesome community tool, how it works and how we can improve it.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-â€œ
+“
 
 
-          [Nelson Marques: GNOME:Ayatana â€“ Looking for contributorâ€¦](http://www.marques.so/2011/09/gnomeayatana-looking-for-contributor/)
+          [Nelson Marques: GNOME:Ayatana – Looking for contributor…](http://www.marques.so/2011/09/gnomeayatana-looking-for-contributor/)
         
 
-Iâ€™m looking for a volunteer contributor to maintain the compiz 0.9.x stack on
+I’m looking for a volunteer contributor to maintain the compiz 0.9.x stack on
           GNOME:Ayatana. Anyone interested please contact me, my contacts are public on my openSUSE Connect profile or on my [wiki page](http://en.opensuse.org/User:Ketheriel).
 
 The main reason behind this is quite simple, enable Unity. Feel free to contact me
           with any questions.
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 365)](https://features.opensuse.org/120340)
@@ -306,9 +306,9 @@ The main reason behind this is quite simple, enable Unity. Feel free to contact 
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 192)](https://features.opensuse.org/305493)
@@ -323,9 +323,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [1-click uninstall (Score: 164)](https://features.opensuse.org/305305)
@@ -333,9 +333,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 150)](https://features.opensuse.org/308497)
@@ -353,9 +353,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 111)](https://features.opensuse.org/305877)
@@ -376,13 +376,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [Volume Control](https://features.opensuse.org/312792)
@@ -394,9 +394,9 @@ if possible, please make volume go up my 1's
 instead of in a random order. Music, sound, and
 sound effects are either to loud or to soft. 
 
-â€
+”
 
-â€œ
+“
 
 
             [Update libjingle to 0.5.9](https://features.opensuse.org/312794)
@@ -408,9 +408,9 @@ latest version on the project page is 0.5.9
 
 [http://code.google.com/p/libjingle/ ](http://code.google.com/p/libjingle/)
 
-â€
+”
 
-â€œ
+“
 
 
             [opensuse 12.1 - integrate libKGoogle into opensuse to share google calendars etc](https://features.opensuse.org/312796)
@@ -420,9 +420,9 @@ A project that ought to be integrated into opensuse 21.1 so that kontact can use
 
 [http://progdan.cz/2011/08/akonadi-google-resource-complete-rewrite/](http://progdan.cz/2011/08/akonadi-google-resource-complete-rewrite/)
 
-â€
+”
 
-â€œ
+“
 
 
             [Safer distribution updates](https://features.opensuse.org/312799)
@@ -432,7 +432,7 @@ Currently the documentation says that to do a distribution upgrade you should fi
 
 zypper could allow an option that makes it first install a miniroot containing the update stack itself, then automatically switch over to the miniroot to do the "zypper dup".
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -440,7 +440,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-â€œ
+“
 
 
           [Larry
@@ -480,16 +480,16 @@ The next meeting of the Testing Core Team will be September 25, 2011 at 17:00 UT
           (irc://irc.freenode.net/opensuse-testing). Our preliminary agenda includes our experiences
           with 12.1 Beta, and a discussion of the Beta Pizza Party. 
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Events & Meetings
 
@@ -521,15 +521,15 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [openSUSE Connect](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
 
-â€œ
+“
 
 
             [Petr Mladek: LibreOffice 3.4 available for openSUSE](http://lizards.opensuse.org/2011/09/15/libreoffice-3-4-available-for-opensuse/)
         
 
-Iâ€™m happy to announce LibreOffice 3.4 packages for
+I’m happy to announce LibreOffice 3.4 packages for
                 openSUSE. They are available in the Build Service
                 [LibreOffice:Stable](http://download.opensuse.org/repositories/LibreOffice:/Stable/) project.
 
@@ -542,16 +542,16 @@ The openSUSE LO team hopes that you will be happy with this release. Though, any
             software contains bugs and we kindly ask you to [report bugs](http://en.opensuse.org/openSUSE:Bugreport_LO). It will help
             us to fix them in the future releases. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [Linus Torvalds: Linux 3.1-rc6](https://lkml.org/lkml/2011/9/14/33)
@@ -577,24 +577,24 @@ fuse, 9p and btrfs updates for filesystems.
 Nothing really stands out. Have at it, and let us know of any
 outstanding regressions. (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Rares
-        Aioanei: kernel weekly news â€“ 17.09.2011](http://schaiba.wordpress.com/2011/09/17/kernel-weekly-news-17-09-2011/)
+        Aioanei: kernel weekly news – 17.09.2011](http://schaiba.wordpress.com/2011/09/17/kernel-weekly-news-17-09-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
-â€œ
+“
 
 
         [Dedoimedo: How to install the Nvidia proprietary driver in openSUSE](http://www.dedoimedo.com/computers/opensuse-nvidia.html)
@@ -603,7 +603,7 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 This is not a new topic. We talked about it at least two or three times before, in my
         original openSUSE 11 review and tutorial, then again in the [openSUSE 11.X](http://www.dedoimedo.com/computers/opensuse-11sp4-kde.html)
         articles. Still, it was more sort of a reference rather than a proper step-by-step guide.
-        Indeed, the graphics driver installation,Ã½even though it's fairly simple, is not trivial. To
+        Indeed, the graphics driver installation,ýeven though it's fairly simple, is not trivial. To
         remove all and any doubt, I decided to write this tutorial. 
 
 We will dabble in Yast, learn how to handle repositories, add the Nvidia source,
@@ -613,31 +613,31 @@ We will dabble in Yast, learn how to handle repositories, add the Nvidia source,
 **Editors Note**: This Howto doesn't work with the
         Tumbleweed Kernel. In this case you must install the *.run File from the NVIDIA Page.
 
-â€
+”
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 
         [Wazi/Juliet Kemp: Create Your Own Syntax Highlighting in Vim](http://olex.openlogic.com/wazi/2011/create-your-own-syntax-highlighting-in-vim/)
       
 
-In text editors like [Vim](http://olex.openlogic.com/packages/vim), syntax highlighting is the feature that shows defined components in different colors depending on their functions in the file. Vim has code syntax highlighting already available for a huge array of programming languages, including [PHP](http://olex.openlogic.com/packages/php), [Python](http://olex.openlogic.com/packages/python), HTML, [Ruby](http://olex.openlogic.com/packages/ruby), JavaScript, and more, and most of them are installed by default in the $VIM/syntax/ directory, so in most cases you can just open up your source code files and see different parts appropriately color-coded. But what if youâ€™re using a little-known language that doesnâ€™t have a preinstalled syntax file? Or if youâ€™re working with a different type of file altogether and want to create syntax highlighting from scratch? This tutorial shows how easy and even fun it is to write your own syntax highlighting rules for Vim. (...)
+In text editors like [Vim](http://olex.openlogic.com/packages/vim), syntax highlighting is the feature that shows defined components in different colors depending on their functions in the file. Vim has code syntax highlighting already available for a huge array of programming languages, including [PHP](http://olex.openlogic.com/packages/php), [Python](http://olex.openlogic.com/packages/python), HTML, [Ruby](http://olex.openlogic.com/packages/ruby), JavaScript, and more, and most of them are installed by default in the $VIM/syntax/ directory, so in most cases you can just open up your source code files and see different parts appropriately color-coded. But what if you’re using a little-known language that doesn’t have a preinstalled syntax file? Or if you’re working with a different type of file altogether and want to create syntax highlighting from scratch? This tutorial shows how easy and even fun it is to write your own syntax highlighting rules for Vim. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [BashShell.net/Mike: String Matches in Regular Expressions](http://bashshell.net/regular-expressions/string-matches-in-regular-expressions/)
       
 
-The parentheses allows you to use regular expressions to perform string matches, or matches to actual words.   Thus you may write a search that is looking for â€œvirtualâ€ or â€œmainâ€ with (virtual|mail).  Note they are separated by a pipe.  These are string searches so you are looking for â€œvirtualâ€ not â€œvâ€ or â€œiâ€ or â€œrâ€ etc. (...)
+The parentheses allows you to use regular expressions to perform string matches, or matches to actual words.   Thus you may write a search that is looking for “virtual” or “main” with (virtual|mail).  Note they are separated by a pipe.  These are string searches so you are looking for “virtual” not “v” or “i” or “r” etc. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linux Journal/Joey Bernard: Parallel Programming Crash Course](http://www.linuxjournal.com/content/parallel-programming-crash-course)
@@ -645,11 +645,11 @@ The parentheses allows you to use regular expressions to perform string matches,
 
 I've been covering various scientific programs the past few months, but sometimes it's hard to find a package that does what you need. In those cases, you need to go ahead and write your own code. When you are involved with heavy-duty scientific computing, you usually need to go to parallel computing in order to get the runtimes down to something reasonable. This month, I give a crash course in parallel programming so you can get a feel for what is involved. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
-â€œ
+“
 
 [Matthias Hopf: XDC: How to bring in
         more contributors](http://emmes.livejournal.com/10733.html)
@@ -666,11 +666,11 @@ I didn't really expect any direct outcome from this discussion (as it's more lik
       discussion because we need to understand the real issues first), but I think it was fruitful
       especially in keeping everybody aware of the situation. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
 
-â€œ
+“
 
 
       [How to prevent system-(over)writes to customized /etc/sysconfig/* files?](http://forums.opensuse.org/english/get-technical-help-here/applications/464824-how-prevent-system-over-writes-customized-etc-sysconfig-files.html)
@@ -680,9 +680,9 @@ I didn't really expect any direct outcome from this discussion (as it's more lik
       The title is clear, this thread means to find a solution for overwriting of modified system config files during an update. Of course there are the dirty tricks, like making the files concerned read-only etc., but that's not the way it should be done; forget one, and you may find yourself in a mess. IMHO the best suggestion is not to change these files at all, but add new ones that already are called from the existing ones, Still a very interesting thread for those of us that use modified default configurations for system services like, for example, a webserver.
     
 
-â€
+”
 
-â€œ
+“
 
 
     [openSUSE as a corporate server](http://forums.opensuse.org/english/other-forums/looking-something-other-than-support/465296-re-opensuse-corporate-server.html)
@@ -692,9 +692,9 @@ I didn't really expect any direct outcome from this discussion (as it's more lik
       Question in this thread is whether this can be done: using openSUSE as a corporate server. Of course there's the suggestion to use SUSE Linux Enterprise Server, but personally I have no hesitations to reply with a full "yes' and add that openSUSE can be used for the desktops connecting to the server as well. Read on, if you're interested in moving to an openSUSE based network for your company or organization. 
       
 
-â€
+”
 
-â€œ
+“
 
 
     [openSUSE 11.4 and njytouch touch screen - Problems](http://forums.opensuse.org/english/get-technical-help-here/hardware/465251-opensuse-11-4-njytouch-touch-screen-problems.html)
@@ -704,9 +704,9 @@ I didn't really expect any direct outcome from this discussion (as it's more lik
       Today's world of computing is changing. Not only do we interact with social networks from our desktops, the way we control our actions changes as well. A good example is the touch screen for desktops/laptops as an input method. Not new -they've been out there for a couple of years already-, but these screens used to be quite expensive. With that changing, touch screens will become more common. Do they work on linux? They should, but here's a thread where original poster has difficulties in getting it to work properly. 
       
 
-â€
+”
 
-â€œ
+“
 
 
       openSUSE Language specific subforums:
@@ -714,24 +714,24 @@ I didn't really expect any direct outcome from this discussion (as it's more lik
 
 We now host the following language specific subforums under the umbrella of the openSUSE Forums:
 	[Main forums, english](http://forums.opensuse.org/english/)
-	[ä¸­æ–‡(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
+	[中文(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
 	[Nederlands (Dutch)](http://forums.opensuse.org/nederlands-dutch/)
-	[FranÃ§ais (French)](http://forums.opensuse.org/frana-ais-french/)
+	[Français (French)](http://forums.opensuse.org/frana-ais-french/)
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
-	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
+	[Ελληνικό (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[日本語 (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
-	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
+	[Pусский (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
-â€œ
+“
 
 
         [The Document Foundation Blog/Florian Effenberger: LibreOffice launches extension and templates repository for public beta test](http://blog.documentfoundation.org/2011/09/12/libreoffice-launches-extension-and-templates-repository-for-public-beta-test/)
@@ -741,7 +741,7 @@ Developers invited to contribute their add-ons
 
 Community-based review process ensures quality and reliability
 
-LibreOffice, the free office productivity suite, can be enhanced with hundreds of extensions and templates. Users can download these smart extras to improve the suiteâ€™s functionality to fit their job or hobby, and developers can easily write their own add-ons and share it with millions of users worldwide.
+LibreOffice, the free office productivity suite, can be enhanced with hundreds of extensions and templates. Users can download these smart extras to improve the suite’s functionality to fit their job or hobby, and developers can easily write their own add-ons and share it with millions of users worldwide.
 
 Since, at the moment, there is no reliable and stable source for downloading these handy add-ons, the LibreOffice community has put great efforts into launching a public repository. It does not only provide extensions and templates for LibreOffice, but also for OpenOffice.org and other compatible office suites. Users of these can benefit from the work and the commitment of our community, and are invited to have a look at recent versions of our product, which already has included has the most popular extensions, and comes with many new features.
 
@@ -755,15 +755,15 @@ and
 
 and has been created in cooperation with the Plone community, on whose technology it is based. To ensure the quality and reliability of the offered extensions, a community-based review process is currently set in place: Community volunteers test and review available extensions, and those meeting criteria of quality will be tagged accordingly. (...)
 
-â€
+”
 
 ### Reports
 
-â€œ
+“
 
 
         [Sebastian Trueg:
-          Nepomuk â€“ What Comes Next](http://trueg.wordpress.com/2011/09/16/nepomuk-what-comes-next/)
+          Nepomuk – What Comes Next](http://trueg.wordpress.com/2011/09/16/nepomuk-what-comes-next/)
       
 
 After a very generous start to my [fundraiser](http://trueg.wordpress.com/2011/09/13/nepomuk-fundraiser/) (thank
@@ -778,9 +778,9 @@ Well then, apart from cleaning out the bug database at bugs.kde.org (this will b
         Nepomuk-based applications there are some very specific tasks I want to work on in the near
         future (In this case the near-future roughly spans the next half year).(...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
 
@@ -814,7 +814,7 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -824,12 +824,12 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -839,7 +839,7 @@ We thank for this Issue:
 
   * [iJoomla](http://www.ijoomla.com), Surveys
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -847,12 +847,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 193 is available in: 
 

@@ -5,7 +5,7 @@ date: 2011-06-21 15:21:27+00:00
 layout: post
 link: https://news.opensuse.org/2011/06/21/build-service-down-time/
 slug: build-service-down-time
-title: Build Service Down Time â€“ Fixed
+title: Build Service Down Time – Fixed
 wordpress_id: 9466
 categories:
 - Infrastructure

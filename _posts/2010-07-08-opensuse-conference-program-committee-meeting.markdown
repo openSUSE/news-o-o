@@ -10,4 +10,4 @@ title: 'openSUSE Conference: Program Committee meeting'
 wordpress_id: 3695
 ---
 
-the program committee meetsÂ  at 1300 UTC (3pm CEST, 9am EST) in our IRC channel #openSUSE-project to discuss current status and next steps for the openSUSE conference.
+the program committee meets  at 1300 UTC (3pm CEST, 9am EST) in our IRC channel #openSUSE-project to discuss current status and next steps for the openSUSE conference.

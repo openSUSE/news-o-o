@@ -12,7 +12,7 @@ categories:
 ---
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #48 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/48)!  
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   *  Development Release: openSUSE 11.1 RC 1 Now Available

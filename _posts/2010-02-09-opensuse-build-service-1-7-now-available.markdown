@@ -21,7 +21,7 @@ Key features of the 1.7 release include:
   * [A new attribute system](http://en.opensuse.org/Build_Service/Concepts/AttributeStorage) - A flexible system that stores information related to projects or packages. This gives a good overview and enables teams or individuals to use the openSUSE Build Service as database for their information.
 
 	
-  * Faster build speeds â€“ The SAT Solver speeds up the dependency calculation by factor of 1,000, which means a package change submitted to the build service starts building in seconds instead of minutes.
+  * Faster build speeds – The SAT Solver speeds up the dependency calculation by factor of 1,000, which means a package change submitted to the build service starts building in seconds instead of minutes.
 
 	
   * Customized branding - For local instances of the openSUSE Build Service, this release offers the ability to add custom branding and the Web user interface (UI) now supports individual themes.

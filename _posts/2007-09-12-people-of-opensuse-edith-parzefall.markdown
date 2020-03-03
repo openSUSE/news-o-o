@@ -314,7 +314,7 @@ A green thumb: when ever I touch the thing, everything just works...
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 I'd venture into the world and explore reality. Just in case I won't like it, I'd bring a good book.
@@ -386,7 +386,7 @@ Traveling, writing, or reading.
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 I'd take a year off and travel the world.
@@ -396,7 +396,7 @@ I'd take a year off and travel the world.
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 Middle Ages.
@@ -406,7 +406,7 @@ Middle Ages.
 
 
 
-#### There's a thunderstorm outside â€“ do you turn off your computer?
+#### There's a thunderstorm outside – do you turn off your computer?
 
 
 Maybe, if it's a really bad one. Then I'd go watch the clowds and the lightning from my balcony.

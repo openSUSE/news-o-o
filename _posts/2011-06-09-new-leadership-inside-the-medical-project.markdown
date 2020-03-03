@@ -32,7 +32,7 @@ openSUSE Medical provides tools from the [**FreeMedForms Project**](http://www.f
 
 ![](http://en.opensuse.org/images/thumb/6/64/Freemedforms_screenshot.png/200px-Freemedforms_screenshot.png)
 
-TheÂ **[GNUmed](http://wiki.gnumed.de/bin/view/Gnumed)** project builds free,Â libre open sourceÂ **Electronic Medical Record** software inÂ multiple languages to assist and improve longitudinal care (specifically in ambulatory settings, i.e. multi-professional practices and clinics).Â It is made available at no charge and is capable of running on GNU/Linux, Windows and Mac OS X. It is developed by a handful of medical doctors and programmers from all over the world.Â It can beÂ useful to anyone documenting the health of patients including, but not limited to,Â doctors, physical therapists, occupational therapists, acupuncturists, nurses and psychologists.
+The **[GNUmed](http://wiki.gnumed.de/bin/view/Gnumed)** project builds free, libre open source **Electronic Medical Record** software in multiple languages to assist and improve longitudinal care (specifically in ambulatory settings, i.e. multi-professional practices and clinics). It is made available at no charge and is capable of running on GNU/Linux, Windows and Mac OS X. It is developed by a handful of medical doctors and programmers from all over the world. It can be useful to anyone documenting the health of patients including, but not limited to, doctors, physical therapists, occupational therapists, acupuncturists, nurses and psychologists.
 
 **[TEMPO](http://code.google.com/p/tempo/)** is open source software for **3D visualization of brain electrical activity**. TEMPO accepts EEG file in standard EDF format and creates animated sequence of topographic maps. Topographic maps are generated over a 3D head model and the user is able to navigate around the head and examine maps from different points of view. Most mapping parameters are adjustable through the graphical user interface. Also, individual topographic maps could be saved in PNG format for future examination or publishing.
 
@@ -52,7 +52,7 @@ The team is very much interested in more feedback, however. Especially when it c
 
 Today, the team announces a shift in leadership and a road map for the future.
 
-Two years after the start of this project, the former team leader Sascha Manns has stepped down and Athanasios Ilias RousinopoulosÂ will take over. Last November, the first official release was published with a range of desktop and server packages. openSUSE medical is now part of the [Linux Medical Taskforce](http://www.linux.com/community/groups/viewgroup/1264-Medical+Task+Force) and has exciting plans for the future. These include:
+Two years after the start of this project, the former team leader Sascha Manns has stepped down and Athanasios Ilias Rousinopoulos will take over. Last November, the first official release was published with a range of desktop and server packages. openSUSE medical is now part of the [Linux Medical Taskforce](http://www.linux.com/community/groups/viewgroup/1264-Medical+Task+Force) and has exciting plans for the future. These include:
 
 
 
@@ -69,7 +69,7 @@ Two years after the start of this project, the former team leader Sascha Manns h
   * Translating the included applications into more languages
 
 
-The new leader Athanasios-IliasÂ yesterday has released the new image under [susegallery](http://susegallery.com/a/UbPYJM/opensuse-medical-114). Also available at : OVF image, VMware Image, Live CD/DVD.
+The new leader Athanasios-Ilias yesterday has released the new image under [susegallery](http://susegallery.com/a/UbPYJM/opensuse-medical-114). Also available at : OVF image, VMware Image, Live CD/DVD.
 
 
 ## More information and helping out
@@ -83,4 +83,4 @@ If you want to get involved, subscribe to the mailing list with "[opensuse-medic
 
 Have a lot of fun :-)
 
-_Contributed by Sascha Manns, Athanasios Ilias RousinopoulosÂ and Jos Poortvliet._
+_Contributed by Sascha Manns, Athanasios Ilias Rousinopoulos and Jos Poortvliet._

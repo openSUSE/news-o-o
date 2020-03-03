@@ -11,9 +11,9 @@ categories:
 - Google Summer of Code
 ---
 
-Yesterday marked the official start of Google Summer of Code's Coding Period.Â  And openSUSE mentors are right in the thick of it working with 16 students seeking to make a better world in FOSS.
+Yesterday marked the official start of Google Summer of Code's Coding Period.  And openSUSE mentors are right in the thick of it working with 16 students seeking to make a better world in FOSS.
 
-openSUSE can take particular pride in GSoC further supporting the openSUSE goal of creating an environment thatÂ  supports not only openSUSE but FOSS in general.Â  Indeed we are mentoring several projects that directly benefit openSUSE, but there's also several projects that support other projects, like the Arch Linux backend for our Open Build Service, a test suite for btrfs, ext4 snapshots in snapper, PackageKit backend in Software Center, and ICC device profile repository.<!-- more -->
+openSUSE can take particular pride in GSoC further supporting the openSUSE goal of creating an environment that  supports not only openSUSE but FOSS in general.  Indeed we are mentoring several projects that directly benefit openSUSE, but there's also several projects that support other projects, like the Arch Linux backend for our Open Build Service, a test suite for btrfs, ext4 snapshots in snapper, PackageKit backend in Software Center, and ICC device profile repository.<!-- more -->
 
 
 <blockquote>I do believe that our main contribution is that we will be sharing our enthusiasm about Free Software with our students and students from other organizations. And this is what will, hopefully, keep the students involved in the Free Software world after GSoC.</blockquote>
@@ -21,10 +21,10 @@ openSUSE can take particular pride in GSoC further supporting the openSUSE goal 
 
 _-- Vincent Untz, openSUSE GSoC Organizer_
 
-And it is true that students are already experiencing the spirit of the openSUSE Project.Â  As student Alex Eftimie says:
+And it is true that students are already experiencing the spirit of the openSUSE Project.  As student Alex Eftimie says:
 
 
-<blockquote>What can I say? I'm excited about everything.Â  openSUSE is the perfect umbrella for such a project.Â  What I like most about it is that the result will be usable in a cross-distro fashion.Â  Until GSoC, I wasn't familiar with openSUSE efforts on collaboration.Â  Package management is a domain where distros can do better, and I'm glad to be a part of this effort.</blockquote>
+<blockquote>What can I say? I'm excited about everything.  openSUSE is the perfect umbrella for such a project.  What I like most about it is that the result will be usable in a cross-distro fashion.  Until GSoC, I wasn't familiar with openSUSE efforts on collaboration.  Package management is a domain where distros can do better, and I'm glad to be a part of this effort.</blockquote>
 
 
 

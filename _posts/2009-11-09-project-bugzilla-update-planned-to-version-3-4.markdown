@@ -64,7 +64,7 @@ The Severity attribute of existing defects will not be changed. If the severity 
 ### Report Another One (for This Product)
 
 
-This was reported by an openSUSE tester against openSUSE and is a feature available in the KDE bugzilla as well.Â  It allows you after filing a bug report to file another bug report for the same product with the settings of the just filed bugreport reused.
+This was reported by an openSUSE tester against openSUSE and is a feature available in the KDE bugzilla as well.  It allows you after filing a bug report to file another bug report for the same product with the settings of the just filed bugreport reused.
 
 
 ### Copy to New Records the Copy in the Old Bug

@@ -21,7 +21,7 @@ tags:
 [![](/wp-content/uploads/2010/05/Linux_anim_468x60_GB.gif)](http://www.linuxtag.org)
 
 
-LinuxTag 2010 is around the corner. There will be openSUSE Rock 'N' Roll from June 9Â to 12 at theÂ BerlinÂ Fairgrounds! We just received word that our project got accepted for a booth and that we have 13 talks in the program of the free conference.
+LinuxTag 2010 is around the corner. There will be openSUSE Rock 'N' Roll from June 9 to 12 at the Berlin Fairgrounds! We just received word that our project got accepted for a booth and that we have 13 talks in the program of the free conference.
 
 
 
@@ -46,7 +46,7 @@ This talk will introduce libyui internals and guide the user from developing a v
 
 
 
-#### [MonoDevelop - Eine freie IDE fÃ¼r GTK](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=263)- Mike KrÃ¼ger
+#### [MonoDevelop - Eine freie IDE für GTK](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=263)- Mike Krüger
 
 
 This talk will introduce to Monodevelop and GTK#. You will see some demonstrations of the concepts of an IDE. 
@@ -109,7 +109,7 @@ From A like Artwork (we guess you already heard of Vincents ninjaesque GIMP tech
 
 
 
-#### [The Free Software Hell And How To Escape It](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=467) - With Adrian SchrÃ¶ter and Henne Vogelsang
+#### [The Free Software Hell And How To Escape It](http://www.linuxtag.org/2010/en/program/free-conference/wednesday/details.html?talkid=467) - With Adrian Schröter and Henne Vogelsang
 
 
 After it is possible for users of software to easily escape the famous dependency hell with smart and user-friendly package managers this talk will show you how free and open source software developers can escape the next circle - The Free Software Distribution Hell.

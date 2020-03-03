@@ -15,7 +15,7 @@ categories:
 
 Issue #23 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/23)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -32,7 +32,7 @@ In this weekâ€™s issue:
   * Duncan Mac-Vicar P.: The greatest unknown openSUSE 11.0 package management feature 
 
 	
-  * LukÃ¡Å¡ Ocilka: Function Keys in YaST ncurses Frontend 
+  * Lukáš Ocilka: Function Keys in YaST ncurses Frontend 
 
 	
   * andi.opensuse-id.org: KDE 4.0.4 on openSUSE 10.3

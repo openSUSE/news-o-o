@@ -19,7 +19,7 @@ tags:
 
 Many  visitors of this site have no idea how active our ambassadors really  are. The amount of work they do is amazing and they deserve a bit more  of a spotlight on what they do! Their reports are usually  highlighted in our weekly news, be sure to check their work out each week.
 
-Read on for a short selection of reports which came in over the last week by the openSUSE ambassadors. And note that we get reports like this almost every day! Some come in the form of text, others like this one by Bruno about attending FrOSCamp 2010 in ZÃ¼rich are in the form of [a nice presentation](http://linux.ioda.net/openSUSE/frOSCamp-2010_Event_Report.pdf) (very much worth a look).
+Read on for a short selection of reports which came in over the last week by the openSUSE ambassadors. And note that we get reports like this almost every day! Some come in the form of text, others like this one by Bruno about attending FrOSCamp 2010 in Zürich are in the form of [a nice presentation](http://linux.ioda.net/openSUSE/frOSCamp-2010_Event_Report.pdf) (very much worth a look).
 
 <!-- more -->
 

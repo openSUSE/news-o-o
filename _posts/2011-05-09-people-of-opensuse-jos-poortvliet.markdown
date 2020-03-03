@@ -84,14 +84,14 @@ Well, if we get our communication in order, a bright future it will be. We have 
 
 
 
-Someone gives you $1.000.000 â€” what would you do with the money?
+Someone gives you $1.000.000 — what would you do with the money?
 
 Quit my job so I wouldn't have to do the administrative part of it and keep doing what I do. Or maybe even better - don't tell anyone but secretly hire someone to do the paperwork for me and keep the job
 
 
 
 
-If traveling through time was possible â€” when would we be most likely to meet you?
+If traveling through time was possible — when would we be most likely to meet you?
 
 Any big event in history, but the further back the better. I would really love to have a chat with people like Socrates, Augustinus, Voltaire, Kant & Ghandi; but also see the first civilizations in Mesopothamia or alongside the Indus river in Pakistan (did you know they still build houses there almost like they did 4000 years ago?); walk on an Inca temple which is being build, or see the top stone being put on top of a piramid. Or - imagine the rush of joining a bunch of prehistoric people hunting a mammoth!
 

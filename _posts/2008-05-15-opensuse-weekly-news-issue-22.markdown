@@ -15,7 +15,7 @@ categories:
 
 Issue #22 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/22)!
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
 
@@ -23,7 +23,7 @@ In this weekâ€™s issue:
   * Linuxtag 2008 - latest information
 
 	
-  * People of openSUSE: Marcus HÃ¼we
+  * People of openSUSE: Marcus Hüwe
 
 	
   * Upcoming... openSUSE 11.0beta3

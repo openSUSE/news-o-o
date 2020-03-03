@@ -51,7 +51,7 @@ Special Thanks (in no particular order) goes to:
   * Ferdinand Thiessen (susnux)
 
 	
-  * Jens KÃ¶ke (jkoeke)
+  * Jens Köke (jkoeke)
 
 	
   * Jonathan Rocker (Jonathan_R)
@@ -60,13 +60,13 @@ Special Thanks (in no particular order) goes to:
   * Karl-Thomas Schmidt (}ls{)
 
 	
-  * Rupert HorstkÃ¶tter (rhorstkoetter)
+  * Rupert Horstkötter (rhorstkoetter)
 
 	
   * Sascha Manns (saigkill)
 
 	
-  * Sebastian KÃ¼gler (sebas)
+  * Sebastian Kügler (sebas)
 
 	
   * Sebastian Siebert (freespacer)

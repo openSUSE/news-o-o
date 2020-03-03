@@ -19,7 +19,7 @@ tags:
 - openoffice.org
 ---
 
-The openSUSE Project is pleased to announce [the release of openSUSE 11.2](http://software.opensuse.org/).Â  openSUSE 11.2 includes new versions of GNOME, KDE, OpenOffice.org, Firefox, the Linux kernel, and many, many more updates and improvements. In 11.2 you'll find more than 1,000 open source desktop applications. openSUSE also includes a full suite of server software and a rich selection of open source development tools.
+The openSUSE Project is pleased to announce [the release of openSUSE 11.2](http://software.opensuse.org/).  openSUSE 11.2 includes new versions of GNOME, KDE, OpenOffice.org, Firefox, the Linux kernel, and many, many more updates and improvements. In 11.2 you'll find more than 1,000 open source desktop applications. openSUSE also includes a full suite of server software and a rich selection of open source development tools.
 
 You can find a bevy of [screenshots](http://en.opensuse.org/Screenshots/11.2) and more on the openSUSE wiki, and a lengthy list of packages and version numbers on [DistroWatch](http://distrowatch.com/suse).
 
@@ -112,7 +112,7 @@ The openSUSE Project [has many channels of communication](http://en.opensuse.org
   * The official openSUSE forums.
 
 	
-  * MailingÂ  Lists: be sure to sign up for the mailing lists that fit your interests!
+  * Mailing  Lists: be sure to sign up for the mailing lists that fit your interests!
 
 	
   * IRC: [#opensuse](irc://irc.freenode.net/opensuse/) on irc.freenode.net [and other channels](http://en.opensuse.org/Communicate/IRC).

@@ -5,7 +5,7 @@ date: 2013-08-19 12:30:11+00:00
 layout: post
 link: https://news.opensuse.org/2013/08/19/gsoc-2013-half-way-through/
 slug: gsoc-2013-half-way-through
-title: GSoC 2013 â€“ Half Way Through
+title: GSoC 2013 – Half Way Through
 wordpress_id: 16688
 categories:
 - Google Summer of Code

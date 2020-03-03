@@ -95,7 +95,7 @@ I think the result is quite good, both the sound experience in the room and on t
   * Bits from your GNOME team (with build service fun inside!)
 
 	
-  * Putting the 'open' in openSUSEÂ : Community-driven KDE development
+  * Putting the 'open' in openSUSE : Community-driven KDE development
 
 
 The slides ![](http://files.opensuse.org/opensuse/en/6/6b/Pdf.png) are linked from the [FOSDEM09 wiki page](http://en.opensuse.org/FOSDEM2009), and the recordings are available as [.ogg](http://tube.opensuse.org/fosdem09/) ![](http://files.opensuse.org/opensuse/en/e/e4/Video.png) and [flash video](http://opensuse.blip.tv/posts?view=archive&nsfw=dc) ![](http://files.opensuse.org/opensuse/en/0/03/Bliptv.gif).

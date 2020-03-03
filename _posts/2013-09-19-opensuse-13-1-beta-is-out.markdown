@@ -14,11 +14,11 @@ categories:
 
 [![WinterIsComingFinal](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)](//news.opensuse.org/wp-content/uploads/2013/09/WinterIsComingFinal.jpg)
 
-_â€œStill ... in this world only winter is certain.â€_
-**â€• George R.R. Martin**
+_“Still ... in this world only winter is certain.”_
+**― George R.R. Martin**
 
-_â€œAnd thus, Factory is now Frozen.â€_
-**â€• Stephan _"coolo"_ Kulow**
+_“And thus, Factory is now Frozen.”_
+**― Stephan _"coolo"_ Kulow**
 
 Starting today, you can scurry over to [software.opensuse.org](http://software.opensuse.org/developer), grab that beta by its tail and give it a spin. And report your findings, because we want to squash those smelly little bugs out of it during our hackaton. So, shove a pizza in that oven, settle with your laptop next to a roaring fire and a big glas of mead and start testing!
 

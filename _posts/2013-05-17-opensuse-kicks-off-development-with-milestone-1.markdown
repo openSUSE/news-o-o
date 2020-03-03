@@ -20,7 +20,7 @@ tags:
 ---
 
 [![13.1-Milestone1](//news.opensuse.org/wp-content/uploads/2013/05/13.1-Milestone1.png)](//news.opensuse.org/wp-content/uploads/2013/05/13.1-Milestone1.png)
-openSUSE is pleased to announce that the newest Milestone for the upcoming version of openSUSE 13.1. is available for testing. As early version, it is expected that this Milestone is not fully functional or very stable and we welcome bug reports and fixes for the issues. This is the first in a series of upcoming updates to the distribution that will end with the final release of 13.1 projected by November of 2013.Â As usual with an alpha release, the most prominent changes in openSUSE 13.1 Milestone 1 come from the upgrades that packages are going through.
+openSUSE is pleased to announce that the newest Milestone for the upcoming version of openSUSE 13.1. is available for testing. As early version, it is expected that this Milestone is not fully functional or very stable and we welcome bug reports and fixes for the issues. This is the first in a series of upcoming updates to the distribution that will end with the final release of 13.1 projected by November of 2013. As usual with an alpha release, the most prominent changes in openSUSE 13.1 Milestone 1 come from the upgrades that packages are going through.
 
 
 ## Major updates

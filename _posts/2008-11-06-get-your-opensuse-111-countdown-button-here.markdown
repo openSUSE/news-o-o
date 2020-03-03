@@ -31,7 +31,7 @@ The banners have been updated, and [as Pascal Bleser reports](http://dev-loki.bl
   * Bulgarian
 
 	
-  * Chinese (traditional and TaÃ¯wan)
+  * Chinese (traditional and Taïwan)
 
 	
   * Croatian

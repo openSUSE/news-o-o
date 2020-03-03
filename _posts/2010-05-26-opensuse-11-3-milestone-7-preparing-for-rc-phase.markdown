@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-**Milestone 7**, a snapshot of the [openSUSE Factory](http://en.opensuse.org/Factory) â€œwork  in  progressâ€ build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available  for [download](http://software.opensuse.org/developer).
+**Milestone 7**, a snapshot of the [openSUSE Factory](http://en.opensuse.org/Factory) “work  in  progress” build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available  for [download](http://software.opensuse.org/developer).
 
 [M7](http://software.opensuse.org/developer) is the last milestone release, the next release will be RC1 on [June 17th](http://www.suse.de/~coolo/opensuse_11.3/). Now it's time for testing and bugfixing!<!-- more -->
 
@@ -71,7 +71,7 @@ We plan to include in openSUSE 11.3 the following highlights:
 
 
 	
-  * Great desktop experience with GNOME 2.30.1, KDE 4.4.3,Â  LXDE 0.5.5, and XFCE 4.6.1. LXDE has been newly integrated and is part of the DVD media.
+  * Great desktop experience with GNOME 2.30.1, KDE 4.4.3,  LXDE 0.5.5, and XFCE 4.6.1. LXDE has been newly integrated and is part of the DVD media.
 
 	
   * On demand package installation in KDE, for e.g. debug info packages and missing modules.

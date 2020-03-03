@@ -14,7 +14,7 @@ categories:
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #73 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/73)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
  
 
   *   Moblin v2.0 Beta on openSUSE 

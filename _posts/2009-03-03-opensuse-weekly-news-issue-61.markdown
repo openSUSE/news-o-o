@@ -14,7 +14,7 @@ categories:
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #61 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/61)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * Joe Brockmeier: Addressing the layoffs

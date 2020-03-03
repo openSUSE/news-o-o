@@ -12,7 +12,7 @@ categories:
 - Infrastructure
 ---
 
-The outage planned for this Saturday (June 5th) has been rescheduled.Â  The outage is now scheduled to take  place between 20:00 and 00:00 GMT (4:00 PM to 8:00 PM EDT).Â  The scope of the outage will be the same as originally stated:
+The outage planned for this Saturday (June 5th) has been rescheduled.  The outage is now scheduled to take  place between 20:00 and 00:00 GMT (4:00 PM to 8:00 PM EDT).  The scope of the outage will be the same as originally stated:
 
 
 
@@ -41,6 +41,6 @@ The outage planned for this Saturday (June 5th) has been rescheduled.Â  The ou
 
 
 
-The staging version of these sites will be similarly affected.Â  In  addition, most novell.com sites will either be unavailable or have  reduced functionality.Â  This outage should not have any affect on the  software or forum sites.
+The staging version of these sites will be similarly affected.  In  addition, most novell.com sites will either be unavailable or have  reduced functionality.  This outage should not have any affect on the  software or forum sites.
 
 Please spread the news about this, so that we can keep user disruption to a minimum.

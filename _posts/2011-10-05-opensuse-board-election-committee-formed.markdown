@@ -11,7 +11,7 @@ categories:
 - Board
 ---
 
-[![-> Vote Here Vote AquÃ­ ->](http://farm1.static.flickr.com/22/92847877_b32468ca5e.jpg)](http://www.flickr.com/photos/winmac/92847877/)
+[![-> Vote Here Vote Aquí ->](http://farm1.static.flickr.com/22/92847877_b32468ca5e.jpg)](http://www.flickr.com/photos/winmac/92847877/)
 
 The 2011 openSUSE Board term is soon coming to an end. In the last few project meetings as well as at the conference, the board has called for people to step up for the Election Committee. Five openSUSE contributors have offered their help and we'd like to introduce them to you.
 <!-- more -->
@@ -46,7 +46,7 @@ The openSUSE Board is proud to welcome the following members of our openSUSE Com
 ## The job
 
 
-In the coming days and weeks, this committee will act independently to implement a formal plan for the oversight and election of a new Board for the 2012 term.Â  Currently, three board seats will be up for election.Â These seats are currently held by Rupert Horstkotter, Pavol Rusnak, and Bryen Yunashko (whose seat is vacated due to term limits.)
+In the coming days and weeks, this committee will act independently to implement a formal plan for the oversight and election of a new Board for the 2012 term.  Currently, three board seats will be up for election. These seats are currently held by Rupert Horstkotter, Pavol Rusnak, and Bryen Yunashko (whose seat is vacated due to term limits.)
 
 The Election Committee will announce the nomination process and election period as part of the election plan. Please stay tuned for further news from the Committee itself.
 

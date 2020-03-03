@@ -223,13 +223,13 @@ Counter for openSUSE 11.4
 [Open-Bugs-Day on Sunday the 20th of February](http://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/)
 
 
-As you all know, weâ€™re closing in on the Final Release of openSUSE 11.4â€¦
+As you all know, we’re closing in on the Final Release of openSUSE 11.4…
 
 and so in this last window for bug-fixing we need your help! The [testing team](http://en.opensuse.org/openSUSE:Testing_meeting) is looking for
 volunteers to help with bugs in [bugzilla](http://bugzilla.novell.com/) on
 the Open-Bugs-Day at Sunday the 20th of February. Participants are going through the bugs that
 currently exist for 11.4 in bugzilla, close what is fixed and confirm what still needs some
-work. Itâ€™s all part of a final push for a great 11.4 release, with us clearing out what is
+work. It’s all part of a final push for a great 11.4 release, with us clearing out what is
 fixed, the developers can focus their energies on fixing bugs instead of clicking around in
 bugzilla! We will meet, hang out and coordinate during the Open-Bugs-Day in the IRC channel
 [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on the [Freenode](http://freenode.net/) network and anyone using openSUSE is welcome to
@@ -246,7 +246,7 @@ You only need the following to participate:
 
 	
   * An installation of openSUSE 11.4 RC1 or openSUSE Factory so you can verify things.
-Itâ€™s of course okay to run it in a virtual machine
+It’s of course okay to run it in a virtual machine
 
 	
   * An IRC client to interact with the other participants
@@ -258,7 +258,7 @@ Itâ€™s of course okay to run it in a virtual machine
 
 
 
-If you donâ€™t know how to triage bugs the organizers will give you a list of bugs that you
+If you don’t know how to triage bugs the organizers will give you a list of bugs that you
 can work on and you can double-check with other participants that your changes are okay. If
 you do know how to triage bugs you can of course just go ahead and do it!
 
@@ -482,7 +482,7 @@ Issue #1- lots of clicks to get to download URL for a repo
 
 
 
-FigureÂ 1.Â Before
+Figure 1. Before
 
 
 
@@ -506,7 +506,7 @@ FigureÂ 1.Â Before
 
 
 
-FigureÂ 2.Â After
+Figure 2. After
 
 
 
@@ -533,7 +533,7 @@ pages are mostly blank anyways. Show me the buttons! :)
 
 
 
-FigureÂ 3.Â Before
+Figure 3. Before
 
 
 
@@ -557,7 +557,7 @@ FigureÂ 3.Â Before
 
 
 
-FigureÂ 4.Â After
+Figure 4. After
 
 
 
@@ -661,7 +661,7 @@ if you try yabsc.
 
 
 
-FigureÂ 5.Â Initial screen. "My Projects" are shown in the top-left listview.
+Figure 5. Initial screen. "My Projects" are shown in the top-left listview.
 
 
 
@@ -685,7 +685,7 @@ FigureÂ 5.Â Initial screen. "My Projects" are shown in the top-left listview
 
 
 
-FigureÂ 6.Â Double-clicking a project from the list, will list the packages in the project in
+Figure 6. Double-clicking a project from the list, will list the packages in the project in
 the adjacent listview. The buildresults of the project are shown in the bottom
 textarea.
 
@@ -711,7 +711,7 @@ textarea.
 
 
 
-FigureÂ 7.Â Double-clicking a package from the top-right listview, will popup a Repository
+Figure 7. Double-clicking a package from the top-right listview, will popup a Repository
 chooser dialog.
 
 
@@ -736,7 +736,7 @@ chooser dialog.
 
 
 
-FigureÂ 8.Â The entire buildlog of the selected package is shown in the textarea.
+Figure 8. The entire buildlog of the selected package is shown in the textarea.
 
 
 
@@ -817,27 +817,27 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 
 
 
-[Nelson Marques: Abandoning Unity for the time beingâ€¦](http://lizards.opensuse.org/2011/02/15/abandoning-unity-for-the-time-being/)
+[Nelson Marques: Abandoning Unity for the time being…](http://lizards.opensuse.org/2011/02/15/abandoning-unity-for-the-time-being/)
 
 
-"Packaging Unity wasnâ€™t much of a problem, but implementing is being translated into
-frustrationâ€¦ this cases and the lack of satisfactory results eventually lead to
-pre-burnout situations, and Iâ€™m not walking that road.
+"Packaging Unity wasn’t much of a problem, but implementing is being translated into
+frustration… this cases and the lack of satisfactory results eventually lead to
+pre-burnout situations, and I’m not walking that road.
 
 My apologies for those who had expectations on this, but I sense this task requires
 much more than what I can offer at the current time. The packages are still available from
 my home repo if someone wants to pick it up. All the components build so far, the
 dependencies are all in that repository as well, as I see only integration is required.
-Iâ€™ve runned across some problems, mainly Compiz behavior on several different git
-snapshots, Iâ€™ve run against problems with the default gconf settings required by Unity and
-the backup/restore operations from openSUSE defaults amongst other things. Itâ€™s maybe
+I’ve runned across some problems, mainly Compiz behavior on several different git
+snapshots, I’ve run against problems with the default gconf settings required by Unity and
+the backup/restore operations from openSUSE defaults amongst other things. It’s maybe
 wiser to wait for a bit more of development from upstream before looking into this.
-openSUSE is supposed to be stable and reliable, and I donâ€™t see this branch of Compiz
+openSUSE is supposed to be stable and reliable, and I don’t see this branch of Compiz
 match those two qualities yet.
 
 If anyone wants to scavenge those packages, feel free to do it. If no one takes this
-up, I will look into it later once thereâ€™s an official Compiz release from the branch that
-is required for Unity, meanwhile Iâ€™ll keep openSUSE time available for learning a bit more
+up, I will look into it later once there’s an official Compiz release from the branch that
+is required for Unity, meanwhile I’ll keep openSUSE time available for learning a bit more
 on cmake and maintain the stuff that really works, the indicators, which involve already
 over 30 packages between dependencies and indicators." (...)
 
@@ -855,7 +855,7 @@ over 30 packages between dependencies and indicators." (...)
 
 
 
-[FrÃ©dÃ©ric Crozat: GNOME 3 Live image - version 0.0.4](http://blog.crozat.net/2011/02/gnome-3-live-image-version-004.html)
+[Frédéric Crozat: GNOME 3 Live image - version 0.0.4](http://blog.crozat.net/2011/02/gnome-3-live-image-version-004.html)
 
 
 "Another week, another release of GNOME 3 live image.
@@ -1121,7 +1121,7 @@ used. Debian already has a tool named Popularity contest (popcon) (...)"
 Linux) (Score: 75)](https://features.opensuse.org/305582)
 
 
-"Idea from community member RaÃºl GarcÃ­a. Same concept as MSI packages for
+"Idea from community member Raúl García. Same concept as MSI packages for
 Windows but exploiting the One Click Install concept of openSUSE (and therefore
 inheriting the simplicity, code and security. (...)"
 
@@ -1526,20 +1526,20 @@ its new home)](http://kohei.us/2011/02/17/extracting-a-sub-project-into-a-new-re
 
 "**Background **
 
-Just a short while ago I worked on extracting our mso-dumper project from [LibreOfficeâ€™s build
+Just a short while ago I worked on extracting our mso-dumper project from [LibreOffice’s build
 repository](http://cgit.freedesktop.org/libreoffice/build/), into a brand new repository created just for this. The new
 repository was to be located in [libreoffice/contrib/mso-dumper](http://cgit.freedesktop.org/libreoffice/contrib/mso-dumper/).
 
 Originally, this project started out just as a simple sub directory of a much larger
 parent repository. But because it grew so much, and because its scope is not entirely in
 line with that of the parent repository, I decided it was best to move this project into a
-repository of its own. Now, itâ€™s easy to transfer a subset of files from one repository to
-another if you donâ€™t mind losing its history, but I wanted to preserve the history of
+repository of its own. Now, it’s easy to transfer a subset of files from one repository to
+another if you don’t mind losing its history, but I wanted to preserve the history of
 those files even after the transition.
 
 It turns out that there is a way to do this with git. Kendy suggested that I look into
 git filter-branch, so I did. After a few hours of researching and trials & errors (and
-some bash script writing which was later thrown away), Iâ€™ve come to realize that all of
+some bash script writing which was later thrown away), I’ve come to realize that all of
 this can be achieved in the following simple steps.
 
 **Steps **
@@ -1574,9 +1574,9 @@ by
 git tag | xargs git tag -d
 
 
-And thatâ€™s all. Now, you have only the files you want to keep, they are sitting
+And that’s all. Now, you have only the files you want to keep, they are sitting
 happily at the top level like they should, all of their commit records are preserved, and
-you donâ€™t have any old tags you donâ€™t need for the new repository.
+you don’t have any old tags you don’t need for the new repository.
 
 This is not over yet. At this point, this git repo still stores the objects of the
 removed files. In fact, the size of the .git directory of this new repo was more than
@@ -1589,17 +1589,17 @@ git clone file:///path/to/mso-dumper-temp mso-dumper
 
 
 to further clone this into another repo locally to strip all the unnecessary blob.
-Note that I used the file:///â€¦ style file path, as opposed to the usual /path/to/foo style
-file path. When using the file:///â€¦ style path to clone a local repo, git will not clone
+Note that I used the file:///… style file path, as opposed to the usual /path/to/foo style
+file path. When using the file:///… style path to clone a local repo, git will not clone
 the objects of the removed files, thereby reducing the size of the objects significantly
 (and clone is faster too). Using the regular /path/to/foo style path, git will hard-link
 all the object files, so the size will stay the same.
 
 After the second cloning, the size of my .git directory shrank from 280MB to 384k! So
-it does make a big difference. Now all thatâ€™s left to do is to push this repository to the
+it does make a big difference. Now all that’s left to do is to push this repository to the
 new remote location. Easy huh? :-)
 
-**But there was a gotchaâ€¦.**
+**But there was a gotcha….**
 
 There was one caveat, however. This method apparently does not preserve the whole
 history of the relocated files if the parent sub-directory had been renamed. The
@@ -1728,7 +1728,7 @@ Gnome, with one test per architecture per day.
 
 	
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-â€“ [Localization
+– [Localization
 Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
@@ -1878,7 +1878,7 @@ Spread the word on that too :D"
 
 Dear followers, after the [official announcement](http://lizards.opensuse.org/2011/02/03/join-us-for-the-first-virtual-launch-party-opensuse-11-4/), we test yesterday the place, and check how fun and cool it
 can be with several attendees. The danse party Pop/Rock music themed was animated by DJ Yazz
-(Brittany Haefeli). Starting at 8:30 CEST the party was crowded during itâ€™s 2 hours and a
+(Brittany Haefeli). Starting at 8:30 CEST the party was crowded during it’s 2 hours and a
 half. More than 50 people came and visit us during that time. Great that was twice what we
 expected !
 
@@ -2187,7 +2187,7 @@ Last week in Larissa LinuxTeam hosted a KDE Release Party for 4.6. The event was
 in the KDE promo's wiki page, hosted in the university and there was a presentation about
 the new technologies and renovations of KDE 4.6 in which a member of the Greek openSUSE
 community Giorgos Tsiapaliokas was one of the two main speakers, the other was Theo
-Chatzimichos from Gentoo Greek Community. Of course Î™ was there along with Kostas Koudaras
+Chatzimichos from Gentoo Greek Community. Of course Ι was there along with Kostas Koudaras
 and Stathis Agrapidis (another active Greek community member) who came from Thessaloniki in
 order to attend the speech and spread the word about openSUSE 11.4. We also had set up a
 booth with stickers, flyers, openSUSE 11.4 Milestone 6 KDE live cds, openSUSE 11.3 dvds, my
@@ -2204,7 +2204,7 @@ Some photos from the event. You can find more here.
 
 
 
-TableÂ 1.Â Photos
+Table 1. Photos
 
 
 
@@ -2426,7 +2426,7 @@ Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailin
 [SUSE Security Announcement: Flash Player (SUSE-SA:2011:009)](http://lists.opensuse.org/opensuse-security-announce/2011-02/msg00003.html)
 
 
-<table frame="void" id="id333169" >TableÂ 2.Â Security Announce 
+<table frame="void" id="id333169" >Table 2. Security Announce 
 
 <tr >
 
@@ -2521,7 +2521,7 @@ Enterprise Desktop 11 SP1
 
 
 [kernel
-weekly news â€“ 19.02.2011](http://schaiba.wordpress.com/2011/02/17/kernel-weekly-news-19-02-2011/)
+weekly news – 19.02.2011](http://schaiba.wordpress.com/2011/02/17/kernel-weekly-news-19-02-2011/)
 
 
 Like the last weeks we are pleased to announce the new Kernel Review from Rares Aioanei.
@@ -2541,7 +2541,7 @@ Have fun....
 
 
 
-[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 2) â€“ File
+[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 2) – File
 systems](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-2-File-systems-1192694.html)
 
 
@@ -2633,7 +2633,7 @@ architecture and infrastructure." (...)
 [LinuxJournal/Bruce Byfield: Working with Frames and Objects in Scribus](http://www.linuxjournal.com/content/working-frames-and-objects-scribus)
 
 
-â€œA Scribus document consists of a series of objects that are added to a page, and
+“A Scribus document consists of a series of objects that are added to a page, and
 contained within a frame. In addition to the usual cut, copy, and paste functions
 available in most applications, frames in Scribus share a general set of editing
 attributes and, so far as possible, the same set of properties. As you can see from the
@@ -2642,7 +2642,7 @@ and drawing primitives. Table frames are collections of individual text frames, 
 be edited either as a group or as individual cells, while drawing primitives are
 sub-divided into shape, polygon, line, Bezier curve, and freehand line. Frames for
 primitives are added with the content, while the content of other frames must be added
-separately.â€ (...)
+separately.” (...)
 
 
 
@@ -2662,17 +2662,17 @@ separately.â€ (...)
 Nautilus](http://www.ibm.com/developerworks/linux/library/l-script-linux-desktop-2/index.html?ca=drs-)
 
 
-"â€œThis series of articles explores how to use Python to
+"“This series of articles explores how to use Python to
 create scripts for the GNOME desktop, the screenlets framework, and Nautilus to deliver
 a highly productive environment. Scripts on the desktop enable drag-and-drop
 functionality and quick access to the information and services you commonly use. In this
 installment, learn how to use Python to add functionality to extend Nautilus on your
-desktop.â€
+desktop.”
 
 For users of the GNOME desktop, the Nautilus program is probably one of the more
 frequently used applications. It handles all the file copying, moving, renaming, and
 searching chores with a simple graphical interface. At first blush, it would appear there
-aren't many file-related things Nautilus can't doâ€”unless you start thinking about tasks you
+aren't many file-related things Nautilus can't do—unless you start thinking about tasks you
 would typically perform with a shell script.
 
 The Nautilus developers provided several ways to add new functionality without breaking
@@ -2730,21 +2730,21 @@ A basic understanding of the Python language and the Python Standard Library is 
 [FreeSoftwareMagazine/Ryan Cartwright: Getting more out of Vim - some tips](http://www.freesoftwaremagazine.com/columns/getting_more_out_vim_some_tips)
 
 
-"Iâ€™m donning my flame-proof suit for this post. Vim is arguably one of the two most
+"I’m donning my flame-proof suit for this post. Vim is arguably one of the two most
 popular text-editors used in the free software world: built on vi (its name stands for
 VIiMproved) it will be found as a default package in many GNU/Linux distributions. The other
 popular editor is EMACS (although I am sure there are those who will argue that EMACS is
 much more than a mere text-editor). I use Vim a lot in my work and have found it to be a
 little like chess: a moment to learn a lifetime to master. With that in mind here are some
-of the tips and handy commands I have picked up over the years. I thought Iâ€™d pass them on
+of the tips and handy commands I have picked up over the years. I thought I’d pass them on
 in case they help.
 
-Iâ€™m going to assume you are familiar with the basics of Vim: moving the cursor, entering
-modes and adding/editing content. Iâ€™m also going to presume you know what entering a command
-that starts with a : means. This is not a beginners class, but itâ€™s not an expert one
+I’m going to assume you are familiar with the basics of Vim: moving the cursor, entering
+modes and adding/editing content. I’m also going to presume you know what entering a command
+that starts with a : means. This is not a beginners class, but it’s not an expert one
 either. This is not the place to begin learning Vim - sorry. Some of these were seemingly
-obvious to me, but unknown to other Vim users Iâ€™ve encountered. The rest are the reverse of
-that scenario. Iâ€™ve limited myself to ten, because honestly something like this go on
+obvious to me, but unknown to other Vim users I’ve encountered. The rest are the reverse of
+that scenario. I’ve limited myself to ten, because honestly something like this go on
 forever without such a limit. These are not necessarily the best or most needed tips but
 they are the ones I found were best received by vim users when they first heard them
 (including me)." (...)
@@ -2769,7 +2769,7 @@ Bash Features](http://azouhr.wordpress.com/2011/02/18/bash-features/)
 
 "The bash system shell is the most widely used one on linux systems. For most sysadmins,
 it is the tool of choice to do small administrative tasks. There are of course other shells,
-and I donâ€™t want to tell if one or the other is better.
+and I don’t want to tell if one or the other is better.
 
 Even though it is so well known by many people, one can stumble over some interesting
 features from time to time. I used one of them to create the data in the recent post about
@@ -2901,14 +2901,14 @@ echo {001..300}
 Twisted](http://mindby.com/2011/02/celery-and-twisted/)
 
 
-"Iâ€™ve been working with [Celery](http://celeryproject.org/), [Twisted](http://twistedmatrix.com/trac/) and [Cyclone](https://github.com/fiorix/cyclone) recently on a side project I have
+"I’ve been working with [Celery](http://celeryproject.org/), [Twisted](http://twistedmatrix.com/trac/) and [Cyclone](https://github.com/fiorix/cyclone) recently on a side project I have
 going on, however the integration between Celery and Twisted is not ideal for asynchronous
-programming which prompted me to jot down some notes for what Iâ€™ve worked out. Hopefully
-this will be useful to someone, also if anyone wants to offer a better way Iâ€™m all ears :) .
+programming which prompted me to jot down some notes for what I’ve worked out. Hopefully
+this will be useful to someone, also if anyone wants to offer a better way I’m all ears :) .
 
 Celery has some built in methods to allow you to check the completeness of a remote job
 by calling the successful() method on a returned AsyncResult object. For example you can do
-something like thisâ€¦" (...)
+something like this…" (...)
 
 
 
@@ -3019,7 +3019,7 @@ encounters an error." (...)
 [Bruno Friedmann: ATI Amd flgrx 8.812 catalyst 11.1 available also for 11.4/factory](http://lizards.opensuse.org/2011/02/13/ati-amd-flgrx-8-812-catalyst-11-1-available-also-for-11-4factory/)
 
 
-"A quick note for the week-end, Iâ€™ve build and uploaded the new fglrx drivers.
+"A quick note for the week-end, I’ve build and uploaded the new fglrx drivers.
 
 The good news, they are also available for 11.4/factory,
 
@@ -3090,12 +3090,12 @@ See full details on my previous dedicated post [http://lizards.opensuse.org/?p=4
 FOSDEM 2011 slide & latest updates](http://kohei.us/2011/02/14/fosdem-2011-slide-latest-updates/)
 
 
-â€œIâ€™ve just uploaded the slide for my talk during FOSDEM 2011 here. It was very nice
+“I’ve just uploaded the slide for my talk during FOSDEM 2011 here. It was very nice
 to be able to talk about our somewhat ambitious plan to bring LibreOffice Calc to the next
-level. Also, I regret that I havenâ€™t been able to blog about whatâ€™s been going on lately;
+level. Also, I regret that I haven’t been able to blog about what’s been going on lately;
 lots of time spent on writing, reviewing code, fixing bugs and integrating patches, and
 sadly little time is left on writing blogs. Having said all that, let me talk about a few
-things that are new on the master branch (since Iâ€™m already in the writing mode).â€
+things that are new on the master branch (since I’m already in the writing mode).”
 (...)
 
 
@@ -3282,7 +3282,7 @@ information:
 fd6e76cd402226c76e65438a5e3df693-bash
 
 
-Now you can copy this URL into your browser, replace â€˜obs:â€™ with â€˜http:â€™ and you should
+Now you can copy this URL into your browser, replace ‘obs:’ with ‘http:’ and you should
 see something interesting :-) Well, this is gonna be part of the next OBS release, for now you
 have to modify the URL slightly further to use the OBS test instance (stage):
 
@@ -3528,10 +3528,10 @@ exchange floor in 1986. LSE chief executive Xavier Rolet has insisted that the e
 once a monopoly, will deliver record speed and stable trading in order to fight back against
 the fast erosion of its dominant marketshare by specialist electronic rivals.
 
-â€œThe London Stock Exchange Group is pleased to confirm that Millennium Exchange is
+“The London Stock Exchange Group is pleased to confirm that Millennium Exchange is
 now operational," the LSE said in a statement to clients ahead of the main market trading
 opening on Monday. "We would like to thank all clients for their support during this
-migration.â€" (...)
+migration.”" (...)
 
 
 
@@ -3604,7 +3604,7 @@ under essential patents then the patent owners will benefit and the rush to cour
 minimized. However, it is up to the Patent owners to decide if they want to impose the
 patents.
 
-**Googlesâ€™ call on the looming patent pool **
+**Googles’ call on the looming patent pool **
 
 Google apparently anticipated that the specter of licensing would be raised by MPEG LA
 is committed to allowing WebM Project a open source standard without any patent claims for
@@ -3626,7 +3626,7 @@ to WebM.
 Presently Google runs the [Adobe
 Flash](http://www.adobe.com/products/flashplayer/) on the [You Tube](http://www.youtube.com/) with the
 licensed H.264. However, it offers the HTML 5 and is presently offering as new video on the
-WebM. Therefore, Google needs both capabilities for its browsers â€“ the WebM as well as the
+WebM. Therefore, Google needs both capabilities for its browsers – the WebM as well as the
 HTML 5 especially for its YouTube.
 
 **Advantage Microsoft and Apple **
@@ -3663,12 +3663,12 @@ from both openSUSE and Fedora who were working on Unity announced on the same da
 giving it up. So, those wishing to test this new interface will have to fire up Ubuntu after
 all.
 
-Adam Williamson, who was porting Unity to Fedora, [said](http://www.happyassassin.net/2011/02/14/unity-poulsbo-important-things-update/) in a blog post today that he's has a â€œhit and miss west coast work
-ethicâ€. He explained that he has to work on extra things like this in his spare
-time and lately he's had â€œlittle time or inclination for doing much with Unity /
-Poulsboâ€. But the actual reason is very closely related to a bug in upstream code.
-Williamson concedes, â€œthereâ€™s a lot more stuff thatâ€™s more important that Red Hat is
-actually dumb enough to pay me to doâ€." (...)
+Adam Williamson, who was porting Unity to Fedora, [said](http://www.happyassassin.net/2011/02/14/unity-poulsbo-important-things-update/) in a blog post today that he's has a “hit and miss west coast work
+ethic”. He explained that he has to work on extra things like this in his spare
+time and lately he's had “little time or inclination for doing much with Unity /
+Poulsbo”. But the actual reason is very closely related to a bug in upstream code.
+Williamson concedes, “there’s a lot more stuff that’s more important that Red Hat is
+actually dumb enough to pay me to do”." (...)
 
 
 
@@ -3794,13 +3794,13 @@ Foundation.
 In September of 2010 many of the top developers of Open Office parted ways from Oracle
 and the Open Office project. They went on to form the [Document Foundation](http://documentfoundation.org/).
 
-â€œOur mission is to facilitate the evolution of the OpenOffice.org Community into a
+“Our mission is to facilitate the evolution of the OpenOffice.org Community into a
 new open, independent, and meritocratic organizational structure within the next few
 months. An independent Foundation is a better match to the values of our contributors,
 users, and supporters, and will enable a more effective, efficient, transparent, and
 inclusive Community. We will protect past investments by building on the solid
 achievements of our first decade, encourage wide participation in the Community, and
-co-ordinate activity across the Community.â€
+co-ordinate activity across the Community.”
 
 This split from Oracle was in a sense a revolution. OpenOffice.org used to be sponsored
 by Sun Micro systems. After Sun was bought out by Oracle there were rumors and fears that
@@ -3926,7 +3926,7 @@ drawings and graphics.
 [Vector Graphics](http://en.wikipedia.org/wiki/Vector_graphics) are
 basically resolution-independent graphics, in comparison to bitmap graphics which are always
 bound to their pixels, vector graphics are stored through a mathematical formula in lines,
-shapes, and colors allowing them to become virtually any size without losing their quality â€“
+shapes, and colors allowing them to become virtually any size without losing their quality –
 hence the term scalable (in SVG). Vector graphics can be very useful when developing logos
 and banners for your website" (...)
 
@@ -3947,9 +3947,9 @@ and banners for your website" (...)
 [Datamation/Cynthia Harvey: 53 Open Source Ways to Improve Your Desktop](http://itmanagement.earthweb.com/osrc/article.php/3924876/53-Open-Source-Replacements-to-Spice-Up-Your-Desktop.htm)
 
 
-"With so many new devices â€“ with so many new interfaces â€“ coming out all the time, is
-your desktop starting to seem a little, wellâ€¦boring? Are you frustrated by how slow and
-buggy Windows is? Are you tired of winter weather and wish that something â€“ anything â€“ would
+"With so many new devices – with so many new interfaces – coming out all the time, is
+your desktop starting to seem a little, well…boring? Are you frustrated by how slow and
+buggy Windows is? Are you tired of winter weather and wish that something – anything – would
 change?
 
 If so, this list is for you.
@@ -3981,8 +3981,8 @@ an upcoming list, feel free to add them in the comments section below." (...)
 
 
 "As a writer, I always am looking at new and better ways to get my words to the public.
-And since I write fiction as well as technology pieces, itâ€™s in my best interest to know how
-to get my books into the hands of readers. In todayâ€™s market, the publishing industry is in
+And since I write fiction as well as technology pieces, it’s in my best interest to know how
+to get my books into the hands of readers. In today’s market, the publishing industry is in
 a serious swing away from the traditional routes. With the major improvements in e-readers,
 more and more users are migrating away from the old standard hardcover/paperback books to
 digital formats. This has been a boon for new writers. With the ability to easily
@@ -3992,7 +3992,7 @@ your brilliance.
 But does that mean everyone should be submitting their books? Well, if everyone can
 properly format, design, and create -yes. If not, no. For those with the necessary skills,
 it is important to have the right tools and/or procedures for getting your books into the
-Amazon, Barnes & Nobleâ€™s, and Apple systems. Linux can help you do that. Letâ€™s take a
+Amazon, Barnes & Noble’s, and Apple systems. Linux can help you do that. Let’s take a
 look at 10 Linux tools that can help your get your book into the market." (...)
 
 
@@ -4050,7 +4050,7 @@ We thank for this Issue:
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
 	
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
 	
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
@@ -4177,26 +4177,26 @@ This are the Copyrights from our Sources:
 
 
 	
-  1. Copyright Â© 2011 Linux.com. All Rights Reserved. Linux.com.
+  1. Copyright © 2011 Linux.com. All Rights Reserved. Linux.com.
 
 	
-  2. Copyright Â© 2011 Net Media Europe
+  2. Copyright © 2011 Net Media Europe
 
 	
-  3. Copyright Â© 2011 Terror PUP's openSUSE Blog. The openSUSE Weekly News has
+  3. Copyright © 2011 Terror PUP's openSUSE Blog. The openSUSE Weekly News has
 permission to use the full sources.
 
 	
-  4. Copyright Â© 2011 Heise Media UK Ltd.
+  4. Copyright © 2011 Heise Media UK Ltd.
 
 	
-  5. Copyright Â© 2008 OStatic
+  5. Copyright © 2008 OStatic
 
 	
-  6. Copyright Â© 1994-2010 Infoworld, Inc.
+  6. Copyright © 1994-2010 Infoworld, Inc.
 
 	
-  7. Copyright Â© 2011 QuinStreet Inc
+  7. Copyright © 2011 QuinStreet Inc
 
 
 
@@ -4231,10 +4231,10 @@ permission to use the full sources.
 
 
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
 Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
 
 

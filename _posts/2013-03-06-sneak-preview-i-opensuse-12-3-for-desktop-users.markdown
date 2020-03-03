@@ -111,7 +111,7 @@ All in all, GNOME Shell in openSUSE 12.3 is worth trying. Through the extensions
 ## KDE Plasma Desktop 4.10
 
 
-Chosen as the default due to its popularity among openSUSE users, KDE's Plasma Â offers a far more traditional desktop setup out of the box. Having gone through a major re-engineering about 5 years ago, the team has been working with a maturing codebase for quite a while now. That doesn't mean there are no changes going on. Most notably, there's preparation going on for moving to the next major version of Qt, with porting the desktop over to Qt Quick and QML. The release in openSUSE 12.3, 4.10, is a relatively quiet release, re-affirming the 'workhorse' focus of the KDE Desktop and applications.
+Chosen as the default due to its popularity among openSUSE users, KDE's Plasma  offers a far more traditional desktop setup out of the box. Having gone through a major re-engineering about 5 years ago, the team has been working with a maturing codebase for quite a while now. That doesn't mean there are no changes going on. Most notably, there's preparation going on for moving to the next major version of Qt, with porting the desktop over to Qt Quick and QML. The release in openSUSE 12.3, 4.10, is a relatively quiet release, re-affirming the 'workhorse' focus of the KDE Desktop and applications.
 
 [caption id="attachment_15351" align="alignright" width="300"][![Plasma Desktop Widgets](//news.opensuse.org/wp-content/uploads/2013/03/12.3_Widgets.png)](//news.opensuse.org/wp-content/uploads/2013/03/12.3_Widgets.png) Plasma Desktop Widgets[/caption]
 
@@ -133,7 +133,7 @@ As with the GNOME Desktop, you might want to get on-line first. Here you'll noti
 #### Being up-to-date
 
 
-Even on a live CD, Apper, notifies you that there are over a hundred updates - bringing you directly to the notifications. Click on the number 1 or two on the bottom right of your screen, and a popup will show you the last notifications. If you've installed openSUSE, it is a good idea to click 'review' to check the updates and install them. Otherwise, clicking the 'x' will make them go away. Note that with these updates, you'll also get some good stuffâ„¢ like the adobe flash player and such.
+Even on a live CD, Apper, notifies you that there are over a hundred updates - bringing you directly to the notifications. Click on the number 1 or two on the bottom right of your screen, and a popup will show you the last notifications. If you've installed openSUSE, it is a good idea to click 'review' to check the updates and install them. Otherwise, clicking the 'x' will make them go away. Note that with these updates, you'll also get some good stuff™ like the adobe flash player and such.
 
 [caption id="attachment_15432" align="alignright" width="300"][![Notifications](//news.opensuse.org/wp-content/uploads/2013/03/KDE-Notifications.png)](//news.opensuse.org/wp-content/uploads/2013/03/KDE-Notifications.png) Notifications[/caption]
 

@@ -62,7 +62,7 @@ First call, from September 27 through October 3. Results will be available on Oc
 
 Second call, From October 11 through October 17. Results will be available on October 22.
 
-There will also be a waiting list in case your request did not make it to one of the 2 calls.Â 
+There will also be a waiting list in case your request did not make it to one of the 2 calls. 
 
 
 ## Participation Welcome!

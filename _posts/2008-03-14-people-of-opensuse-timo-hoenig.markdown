@@ -5,13 +5,13 @@ date: 2008-03-14 12:00:51+00:00
 layout: post
 link: https://news.opensuse.org/2008/03/14/people-of-opensuse-timo-hoenig/
 slug: people-of-opensuse-timo-hoenig
-title: 'People of openSUSE: Timo HÃ¶nig'
+title: 'People of openSUSE: Timo Hönig'
 wordpress_id: 686
 categories:
 - People of openSUSE
 ---
 
-This week we feature Timo HÃ¶nig, openSUSE Mobile Device team member, mainly working on D-Bus, IAL, and KNetworkManager.
+This week we feature Timo Hönig, openSUSE Mobile Device team member, mainly working on D-Bus, IAL, and KNetworkManager.
 
 <!-- more -->
 <table border="0" >
@@ -94,7 +94,7 @@ This week we feature Timo HÃ¶nig, openSUSE Mobile Device team member, mainly w
 <td >**Motto:**
 </td>
 
-<td >"Es gibt nichts Gutes, auÃŸer man tut es."  According to http://dict.cc it says: "Actions speak louder than words." Which is probably a little more direct than the German phrasing, but still pretty good translation.
+<td >"Es gibt nichts Gutes, außer man tut es."  According to http://dict.cc it says: "Actions speak louder than words." Which is probably a little more direct than the German phrasing, but still pretty good translation.
 </td>
 
 <td >
@@ -310,7 +310,7 @@ Complete knowledge of X, so I could rewrite it. Same applies for the Kernel. And
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 I'd enjoy it. The same was as I enjoy being offline when I'm on vacation. Seeing it crash would be more "interesting". Especially if it would not return after that week.
@@ -380,7 +380,7 @@ Nature, backpacking.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Traveling, building a house.
@@ -390,7 +390,7 @@ Traveling, building a house.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 John "Beatz" Holohan.
@@ -400,7 +400,7 @@ John "Beatz" Holohan.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Nope. I use laptops only. I'd probably pull out the AC.

@@ -18,7 +18,7 @@ In this week's issue:
 
 
 	
-  * openSUSE News: Introducing the â€˜openSUSE Boostersâ€™ Team
+  * openSUSE News: Introducing the ‘openSUSE Boosters’ Team
 
 	
   * The Geek Stuff/Ramesh Natarajan: Unix Sed Tutorial: How To Write to a File Using Sed

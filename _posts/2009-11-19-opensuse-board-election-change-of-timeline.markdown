@@ -5,7 +5,7 @@ date: 2009-11-19 17:04:30+00:00
 layout: post
 link: https://news.opensuse.org/2009/11/19/opensuse-board-election-change-of-timeline/
 slug: opensuse-board-election-change-of-timeline
-title: openSUSE Board Election â€“ change of timeline
+title: openSUSE Board Election – change of timeline
 wordpress_id: 2545
 categories:
 - Announcements

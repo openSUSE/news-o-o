@@ -94,7 +94,7 @@ The 'People of openSUSE' team had the pleasure to interview Klaas Freitag - a No
 <td >**Motto:**
 </td>
 
-<td >Ã¶hm...
+<td >öhm...
 </td>
 
 <td >
@@ -310,7 +310,7 @@ Being able to foresee the trends of tomorrow.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 No problem with that - I have lots of non internet related ideas and todos as well.
@@ -333,7 +333,7 @@ Buah. No real idea.
 #### Star Trek or Star Wars?
 
 
-VW KÃ¤fer.
+VW Käfer.
 
 
 
@@ -381,7 +381,7 @@ Active: Cycling, walking etc. Preferably far away from touristic centres.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Hmm, I prefer start thinking if that really happens...
@@ -391,7 +391,7 @@ Hmm, I prefer start thinking if that really happens...
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Medieval times (leo spelling ;) )
@@ -401,7 +401,7 @@ Medieval times (leo spelling ;) )
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No.

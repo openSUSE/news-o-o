@@ -32,7 +32,7 @@ We had great conversations with you on [google plus](https://plus.google.com/b/1
   * [Richard Brown: Intel Power Management on openSUSE 12.3](http://www.sysrich.co.uk/?p=190) on powermanagement
 
 	
-  * [Robert Schweikert: One that got away â€“ 12.3 Networking](http://lizards.opensuse.org/2013/03/13/one-that-got-away-12-3-networking/) explaining how to solve the networking issue which managed to get in our final release...
+  * [Robert Schweikert: One that got away – 12.3 Networking](http://lizards.opensuse.org/2013/03/13/one-that-got-away-12-3-networking/) explaining how to solve the networking issue which managed to get in our final release...
 
 
 Meanwhile, our [openSUSE group on Google+](https://plus.google.com/b/110312141834246266844/communities/115444043324891769569) has still plenty of space and we're of course also [still tweeting](https://twitter.com/openSUSE/)! And a tip: we appreciate it if you re-tweet our messages to your own followers! We've got hundreds of plusses and shares on Google but a mere 33 retweets of our release announcement... Did you all leave twitter already?

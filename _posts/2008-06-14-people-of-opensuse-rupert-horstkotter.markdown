@@ -5,13 +5,13 @@ date: 2008-06-14 12:34:12+00:00
 layout: post
 link: https://news.opensuse.org/2008/06/14/people-of-opensuse-rupert-horstkotter/
 slug: people-of-opensuse-rupert-horstkotter
-title: 'People of openSUSE: Rupert HorstkÃ¶tter'
+title: 'People of openSUSE: Rupert Horstkötter'
 wordpress_id: 873
 categories:
 - People of openSUSE
 ---
 
-This week the openSUSE Project [announced the launch of forums.opensuse.org](http://news.opensuse.org/2008/06/10/opensuse-launches-merged-forums/), a merger of the three largest openSUSE forums. Continuing the openSUSE Forums euphoria we present you the Project Manager - Rupert HorstkÃ¶tter.
+This week the openSUSE Project [announced the launch of forums.opensuse.org](http://news.opensuse.org/2008/06/10/opensuse-launches-merged-forums/), a merger of the three largest openSUSE forums. Continuing the openSUSE Forums euphoria we present you the Project Manager - Rupert Horstkötter.
 
 <!-- more -->
 

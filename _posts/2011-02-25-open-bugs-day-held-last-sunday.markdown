@@ -38,7 +38,7 @@ This list is generated with a perl script | sort | uniq -c | sort -n -r | head -
      13 Larry Finger
      11 Terje J. Hanssen
      10 Malvern Star
-     10 Karsten KÃ¶nig
+     10 Karsten König
       9 Michal Hucko
       8 Refilwe Seete
       8 John McInnes

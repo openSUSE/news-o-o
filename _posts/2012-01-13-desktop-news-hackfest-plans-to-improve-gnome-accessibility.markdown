@@ -20,7 +20,7 @@ As they mention in the announcement, this Hackfest will be focusing in ATK and A
 ### What are the needs and who should attend?
 
 
-Applications and tool kits do not all implement ATK consistently. This has a negative impact on the assistiveÂ technologies' ability to provide a consistent cross-application user experience. Even in applications and tool kits in which the ATK implementation is complete, the information obtained from a single event and/or object is not always sufficient for an AT client to proceed immediately; instead it is often necessary to perform further queries and make decisions based on heuristics rather than concrete data. The tasks of this Hackfest need people who have the following skills:
+Applications and tool kits do not all implement ATK consistently. This has a negative impact on the assistive technologies' ability to provide a consistent cross-application user experience. Even in applications and tool kits in which the ATK implementation is complete, the information obtained from a single event and/or object is not always sufficient for an AT client to proceed immediately; instead it is often necessary to perform further queries and make decisions based on heuristics rather than concrete data. The tasks of this Hackfest need people who have the following skills:
 
 
 

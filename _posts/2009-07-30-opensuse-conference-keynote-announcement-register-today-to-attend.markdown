@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-The openSUSE Project is proud to announce the first confirmed keynote for the first-ever openSUSE Conference. The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in NÃ¼rnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
+The openSUSE Project is proud to announce the first confirmed keynote for the first-ever openSUSE Conference. The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
 
 
 
@@ -24,13 +24,13 @@ The opening keynote will be given by Leslie Hawthorn of Google. Leslie is a prog
 
 
 
-The openSUSE Conference is for anyone and everyone making a contribution to openSUSE. Whether youâ€™re a developer, packager, translator, artist, or ambassador, you belong at the openSUSE Conference if you want to help promote, improve, and influence the openSUSE Project.
+The openSUSE Conference is for anyone and everyone making a contribution to openSUSE. Whether you’re a developer, packager, translator, artist, or ambassador, you belong at the openSUSE Conference if you want to help promote, improve, and influence the openSUSE Project.
 
 
 
 
 
-The conference will have [two daily tracks](http://conference.opensuse.org/schedule/) of pre-planned talks, plus â€œBarCampâ€ style tracks for attendees to plan and provide their own content. Scheduled talks include:
+The conference will have [two daily tracks](http://conference.opensuse.org/schedule/) of pre-planned talks, plus “BarCamp” style tracks for attendees to plan and provide their own content. Scheduled talks include:
 
 
 
@@ -59,7 +59,7 @@ The openSUSE KDE team will be holding a full program of contributor workshops an
 
 
 
-Weâ€™ll also be celebrating Software Freedom Day on Saturday, September 19th with Open Day â€” a full day of introductory sessions for users new to Linux, open source, and openSUSE.
+We’ll also be celebrating Software Freedom Day on Saturday, September 19th with Open Day — a full day of introductory sessions for users new to Linux, open source, and openSUSE.
 
 
 
@@ -88,7 +88,7 @@ If you haven't registered yet, do it today! Attendance is free, but we do have l
   * Dates: 17 September through 20 September.
 
     
-  * Location: Tagungszentrum BFW NÃ¼rnberg, NÃ¼rnberg, Germany.
+  * Location: Tagungszentrum BFW Nürnberg, Nürnberg, Germany.
 
     
   * Cost: Free to attend.

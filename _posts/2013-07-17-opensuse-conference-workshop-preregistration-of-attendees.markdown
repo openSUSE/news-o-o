@@ -26,7 +26,7 @@ For this purpose we created
 
 [ad-hoc-hacky google docs file](http://tinyurl.com/qgqrc8t).
 
-Where you are interested in the parts "Attendees list" which is obviously list of interested people (green is done byÂ  TomÃ¡Å¡ ChvÃ¡tal to the amount of expected people to be there, it is NOT a hard limit, on the registration later on there will be printed sheet with the workshops which have the hardlimit, so you can write in even if you are not sure right now). Other list isÂ  "Atendees suggestions" which is just field where you can express your ideas what you expect from the event or what you wish from the author to do.
+Where you are interested in the parts "Attendees list" which is obviously list of interested people (green is done by  Tomáš Chvátal to the amount of expected people to be there, it is NOT a hard limit, on the registration later on there will be printed sheet with the workshops which have the hardlimit, so you can write in even if you are not sure right now). Other list is  "Atendees suggestions" which is just field where you can express your ideas what you expect from the event or what you wish from the author to do.
 
 We would also like to apologise that we didn't do this up-front during your registration, which we simply forgot (mea culpa) but for the next conference it is on the list and will be implemented in the OSEM tool which handles our sweet conference management.
 

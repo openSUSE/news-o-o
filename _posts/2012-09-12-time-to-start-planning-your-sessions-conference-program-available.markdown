@@ -65,7 +65,7 @@ The first day in the openSUSE Track, Michael Meeks will tell you all about [what
 
 
 
-Saturday night there'll be a good party and the next day musician Sam Aaron will [talk about Zen and how to Live Program music like he did during the party](http://bootstrapping-awesome.org/schedule/#osc-53). Later, Libor PechÃ¡Äek will explain the process of getting [software from the community into commercial enterprises](http://bootstrapping-awesome.org/schedule/#osc-18) and at the end of the day Miguel Angel Barajas Watson will show us how [**a computer could win Jeopardy** using SUSE, Power and Hadoop](http://bootstrapping-awesome.org/schedule/#osc-49).
+Saturday night there'll be a good party and the next day musician Sam Aaron will [talk about Zen and how to Live Program music like he did during the party](http://bootstrapping-awesome.org/schedule/#osc-53). Later, Libor PecháÍek will explain the process of getting [software from the community into commercial enterprises](http://bootstrapping-awesome.org/schedule/#osc-18) and at the end of the day Miguel Angel Barajas Watson will show us how [**a computer could win Jeopardy** using SUSE, Power and Hadoop](http://bootstrapping-awesome.org/schedule/#osc-49).
 
 
 
@@ -82,7 +82,7 @@ The openSUSE event continues on Monday and Tuesday with many workshops and BoF s
 
 
 
-On Saturday the LinuxDays track features a number of Czech talks like [an introduction to Gentoo](http://bootstrapping-awesome.org/schedule/#ld-18) by TomÃ¡Å¡ ChvÃ¡tal with his talk titled "if it moves, compile it!" ('Pokud se to hÃ½be, zkompiluj to!'). [Fedora is represented](http://bootstrapping-awesome.org/schedule/#ld-10) by JiÅ™Ã­ Eischmann & Jaroslav Å˜eznÃ­k later in the day. There also few real ninja-style talks about low-level programming like Petr BaudiÅ¡ about [low level programming](http://bootstrapping-awesome.org/schedule/#ld-14) and Thomas Renninger on [modern CPU power usage monitoring](http://bootstrapping-awesome.org/schedule/#osc-54) (these both are in English).
+On Saturday the LinuxDays track features a number of Czech talks like [an introduction to Gentoo](http://bootstrapping-awesome.org/schedule/#ld-18) by Tomáš Chvátal with his talk titled "if it moves, compile it!" ('Pokud se to hýbe, zkompiluj to!'). [Fedora is represented](http://bootstrapping-awesome.org/schedule/#ld-10) by Jiří Eischmann & Jaroslav Řezník later in the day. There also few real ninja-style talks about low-level programming like Petr Baudiš about [low level programming](http://bootstrapping-awesome.org/schedule/#ld-14) and Thomas Renninger on [modern CPU power usage monitoring](http://bootstrapping-awesome.org/schedule/#osc-54) (these both are in English).
 
 
 
@@ -94,13 +94,13 @@ During the Saturday there will also be track of graphics workshops in Czech (Gim
 
 
 
-Sunday is kicked of by VojtÄ›ch TrefnÃ½ [explaining how to use Canonical's Launchpad](http://bootstrapping-awesome.org/schedule/#ld-11) as a place to host your project (cz). Those interested in networking will be taken care off by Pavel Å imerda ([news from Linux Networking](http://bootstrapping-awesome.org/schedule/#ld-15)) and Radek NeuÅ¾il who [explains how to use networks securely](http://bootstrapping-awesome.org/schedule/#ld-01) (both cz). You can also [learn all about how to set up a Linux desktop/server solution for educational purposes](http://bootstrapping-awesome.org/schedule/#osc-09) (en) and follow VladimÃ­r ÄŒunÃ¡t talking about NixOS and the unique package manager this OS is build on.
+Sunday is kicked of by VojtÛch Trefný [explaining how to use Canonical's Launchpad](http://bootstrapping-awesome.org/schedule/#ld-11) as a place to host your project (cz). Those interested in networking will be taken care off by Pavel �imerda ([news from Linux Networking](http://bootstrapping-awesome.org/schedule/#ld-15)) and Radek Neu�il who [explains how to use networks securely](http://bootstrapping-awesome.org/schedule/#ld-01) (both cz). You can also [learn all about how to set up a Linux desktop/server solution for educational purposes](http://bootstrapping-awesome.org/schedule/#osc-09) (en) and follow Vladimír Ìunát talking about NixOS and the unique package manager this OS is build on.
 
 
 
 
 
-The LinuxDays track will be closed by Petr KrÄmÃ¡Å™ (chief editor of root.cz) and TomÃ¡Å¡ MatÄ›jÃ­Äek (author of Slax) [talking about future of Slax](http://bootstrapping-awesome.org/schedule/#ld-04) (cz).
+The LinuxDays track will be closed by Petr KrÍmář (chief editor of root.cz) and Tomáš MatÛjíÍek (author of Slax) [talking about future of Slax](http://bootstrapping-awesome.org/schedule/#ld-04) (cz).
 
 
 [![gentoo logo](/wp-content/uploads/2012/09/gentoominisummit.png)](http://gentoo.org)

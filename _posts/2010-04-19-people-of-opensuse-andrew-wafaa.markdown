@@ -42,9 +42,9 @@ For openSUSE: Green the original distro colour, accept no imitations
 
 
 
-Aloha, I'm Andrew Wafaa.Â  Most people call me Andy or Wafaa.Â  I'm a married, father of three living in the UK.Â  I'm a Scotsman born and bred in Aberdeen (The Granite City), but have some Egyptian blood in me, this led to my old General Manager calling me a "Camel Herder With A Skirt", which stuck with me ever since.
+Aloha, I'm Andrew Wafaa.  Most people call me Andy or Wafaa.  I'm a married, father of three living in the UK.  I'm a Scotsman born and bred in Aberdeen (The Granite City), but have some Egyptian blood in me, this led to my old General Manager calling me a "Camel Herder With A Skirt", which stuck with me ever since.
 
-Professionally I'm a Solutions Architect mainly dealing with SLES for one of the big service providers. Â The title is all grand but I basically pen push now and do a load of documentation which is _really_ boring. Â Thankfully openSUSE is there to keep me alive and interested in life ;-)
+Professionally I'm a Solutions Architect mainly dealing with SLES for one of the big service providers.  The title is all grand but I basically pen push now and do a load of documentation which is _really_ boring.  Thankfully openSUSE is there to keep me alive and interested in life ;-)
 
 
 
@@ -57,7 +57,7 @@ Professionally I'm a Solutions Architect mainly dealing with SLES for one of the
 
 
 
-To be honest I forget why I chose it.Â  I think at the time it seemed sensible, in hindsight I'd probably choose something simpler. Depending on which machine I'm on depends which nick is in use.
+To be honest I forget why I chose it.  I think at the time it seemed sensible, in hindsight I'd probably choose something simpler. Depending on which machine I'm on depends which nick is in use.
 
 
 
@@ -70,7 +70,7 @@ To be honest I forget why I chose it.Â  I think at the time it seemed sensible
 
 
 
-The first computer I used was the family's BBC B machine.Â  The first machine that was truly my own was a Gateway 486DX2 66MHz, I then replaced it with a P3 550MHz machine which limped on until a few years ago.Â  Currently my main machine is my netbook (eeePC 1000HE), I also use a Dell (D820) and Vaio (AR11S). I also have a pile of old Dells under my desk (Latitude CS & C600) which I'm most likely going to get rid of.
+The first computer I used was the family's BBC B machine.  The first machine that was truly my own was a Gateway 486DX2 66MHz, I then replaced it with a P3 550MHz machine which limped on until a few years ago.  Currently my main machine is my netbook (eeePC 1000HE), I also use a Dell (D820) and Vaio (AR11S). I also have a pile of old Dells under my desk (Latitude CS & C600) which I'm most likely going to get rid of.
 
 
 
@@ -83,7 +83,7 @@ The first computer I used was the family's BBC B machine.Â  The first machine 
 
 
 
-I first started with 6.2 which for some reason came free with a magazine. Â I didn't really know what I was holding in my hand at the time, just that it said it was "New, exciting, and feature packed!".Â  Duh OK, lets roll with it. Â So I blew my Win98 install away without thinking (more to the point realising :-D) and had fun.Â  I've been on it ever since.
+I first started with 6.2 which for some reason came free with a magazine.  I didn't really know what I was holding in my hand at the time, just that it said it was "New, exciting, and feature packed!".  Duh OK, lets roll with it.  So I blew my Win98 install away without thinking (more to the point realising :-D) and had fun.  I've been on it ever since.
 
 
 
@@ -96,7 +96,7 @@ I first started with 6.2 which for some reason came free with a magazine. Â I 
 
 
 
-I originally started out as an ordinary user, I wasn't interested in programming or anything else. I was just after something different and cool, and you cant get much cooler then the Geeko ;-)Â  As part of my involvement with the Hula project at the time, I started packaging.Â  I then got more involved with openSUSE, mainly the GNOME Team but to a lesser extent KDE (I like to see what's going on around).Â  I slowly started to be more active generally throughout openSUSE.Â  I started creating easy install custom images for netbooks when I got my eeePC 701, which is how I got involved with Moblin/Goblin.Â  I've been a member of the Board Election Committee for the last two years too.
+I originally started out as an ordinary user, I wasn't interested in programming or anything else. I was just after something different and cool, and you cant get much cooler then the Geeko ;-)  As part of my involvement with the Hula project at the time, I started packaging.  I then got more involved with openSUSE, mainly the GNOME Team but to a lesser extent KDE (I like to see what's going on around).  I slowly started to be more active generally throughout openSUSE.  I started creating easy install custom images for netbooks when I got my eeePC 701, which is how I got involved with Moblin/Goblin.  I've been a member of the Board Election Committee for the last two years too.
 
 
 
@@ -109,7 +109,7 @@ I originally started out as an ordinary user, I wasn't interested in programming
 
 
 
-Well for those that don't know Goblin is just Moblin sitting on top of openSUSE.Â  It is very similar to what Novell offer for sale, and is close to upstream.Â  Basically openSUSE as the base OS and Moblin as the environment sitting on top, you have access to all the great stuff that your regular openSUSE machine can get.Â  As for contributions to upstream, we provide a lot of things.Â  One of the big things we contribute upstream is the OBS, yes they use an instance of OBS to build all the packages just like we do. We also provide code, a lot of the stuff that goes into the SLE version also goes into openSUSE - Kernel optimisations, application improvements (like banshee), etc.Â  Other parts of openSUSE's toolset are also under consideration by upstream.
+Well for those that don't know Goblin is just Moblin sitting on top of openSUSE.  It is very similar to what Novell offer for sale, and is close to upstream.  Basically openSUSE as the base OS and Moblin as the environment sitting on top, you have access to all the great stuff that your regular openSUSE machine can get.  As for contributions to upstream, we provide a lot of things.  One of the big things we contribute upstream is the OBS, yes they use an instance of OBS to build all the packages just like we do. We also provide code, a lot of the stuff that goes into the SLE version also goes into openSUSE - Kernel optimisations, application improvements (like banshee), etc.  Other parts of openSUSE's toolset are also under consideration by upstream.
 
 
 
@@ -122,7 +122,7 @@ Well for those that don't know Goblin is just Moblin sitting on top of openSUSE.
 
 
 
-That is my hope, although I may have missed the boat on this :-(Â  I'm hoping to see it show up in the installer but we'll just have to wait and see.Â  Unfortunately work hasn't been too kind with timing, and we were a bit late to the Factory party - there were too many blockers in the way before we could get things submitted.
+That is my hope, although I may have missed the boat on this :-(  I'm hoping to see it show up in the installer but we'll just have to wait and see.  Unfortunately work hasn't been too kind with timing, and we were a bit late to the Factory party - there were too many blockers in the way before we could get things submitted.
 
 
 
@@ -135,7 +135,7 @@ That is my hope, although I may have missed the boat on this :-(Â  I'm hoping 
 
 
 
-In general Goblin would benefit from the same contributions as any other openSUSE project - packaging, testing, translation, etc.Â  Currently I think the biggest ones are packaging and testing.
+In general Goblin would benefit from the same contributions as any other openSUSE project - packaging, testing, translation, etc.  Currently I think the biggest ones are packaging and testing.
 
 
 
@@ -148,7 +148,7 @@ In general Goblin would benefit from the same contributions as any other openSUS
 
 
 
-First I'd ask what they use currently, and how they use it.Â  Try and get a feel for the issues they run into.Â  Then I would highlight how openSUSE can help resolve their issues and also improve their usage experience.Â  If they couldn't answer any of those and just wanted and out right why it would be along the lines of - openSUSE provides a stable platform with some of the latest and greatest on offer from the wider open source community.Â  It is a Swiss Army Knife or Leathermans of operating systems; perfectly happy with whatever task you throw at it be it on netbook, laptop, desktop, server.Â  We are open by name and open by nature, all walks of life are welcome to use and contribute.
+First I'd ask what they use currently, and how they use it.  Try and get a feel for the issues they run into.  Then I would highlight how openSUSE can help resolve their issues and also improve their usage experience.  If they couldn't answer any of those and just wanted and out right why it would be along the lines of - openSUSE provides a stable platform with some of the latest and greatest on offer from the wider open source community.  It is a Swiss Army Knife or Leathermans of operating systems; perfectly happy with whatever task you throw at it be it on netbook, laptop, desktop, server.  We are open by name and open by nature, all walks of life are welcome to use and contribute.
 
 
 
@@ -161,7 +161,7 @@ First I'd ask what they use currently, and how they use it.Â  Try and get a fe
 
 
 
-To be honest I struggle to pick out particular moments, I've had and continue to have a blast.Â  I really enjoyed going to the SUSE offices in Nuremberg for HackWeek II, where I did a few video interviews with people.Â  Going to the likes of FOSDEM is great, meeting people from all over the globe and catching up.Â  I think the best bit from my involvement in openSUSE is either going to events or logging on online and getting a good honest warm greeting from people.Â  I think from a historical point of view, my involvement with the first elected Board stands out a bit - it's kind of nice to reminisce and say "I had a part to play in that".
+To be honest I struggle to pick out particular moments, I've had and continue to have a blast.  I really enjoyed going to the SUSE offices in Nuremberg for HackWeek II, where I did a few video interviews with people.  Going to the likes of FOSDEM is great, meeting people from all over the globe and catching up.  I think the best bit from my involvement in openSUSE is either going to events or logging on online and getting a good honest warm greeting from people.  I think from a historical point of view, my involvement with the first elected Board stands out a bit - it's kind of nice to reminisce and say "I had a part to play in that".
 
 
 
@@ -174,7 +174,7 @@ To be honest I struggle to pick out particular moments, I've had and continue to
 
 
 
-I'd love to see a Troll Muting function.Â  Not just for e-mail but for IRC and also real life :-)
+I'd love to see a Troll Muting function.  Not just for e-mail but for IRC and also real life :-)
 
 
 
@@ -187,7 +187,7 @@ I'd love to see a Troll Muting function.Â  Not just for e-mail but for IRC and
 
 
 
-Just basing on recently watch movies as I genuinely couldn't choose and all time favourite - I'd have to say the trailer scene in Sex Drive.Â  I loved watching my wife and mother inlaw cringe!Â  I generally love all of Monty Python's work and most animated films, especially Dreamworks & Pixar.
+Just basing on recently watch movies as I genuinely couldn't choose and all time favourite - I'd have to say the trailer scene in Sex Drive.  I loved watching my wife and mother inlaw cringe!  I generally love all of Monty Python's work and most animated films, especially Dreamworks & Pixar.
 
 
 
@@ -200,7 +200,7 @@ Just basing on recently watch movies as I genuinely couldn't choose and all time
 
 
 
-I'd say most Mediterranean food, especially from Egypt.Â  Although I love a good curry too.
+I'd say most Mediterranean food, especially from Egypt.  Although I love a good curry too.
 
 
 
@@ -226,7 +226,7 @@ I would love to go to South America, there's just so many places there I'd like 
 
 
 
-The community is vastly underrated by outsiders to openSUSE. Â Sure we may not be as viral and prolific as some of the other distributions but we are sincere and passionate about the Geeko, and I think some of the older hands are just sick fed up of the constant FUD bashing that they see and hear on IRC.Â  Relative to other distros our community is fairly young (in regards to influence/contribution) but that gives us more scope to grow and influence things.
+The community is vastly underrated by outsiders to openSUSE.  Sure we may not be as viral and prolific as some of the other distributions but we are sincere and passionate about the Geeko, and I think some of the older hands are just sick fed up of the constant FUD bashing that they see and hear on IRC.  Relative to other distros our community is fairly young (in regards to influence/contribution) but that gives us more scope to grow and influence things.
 
 
 
@@ -239,7 +239,7 @@ The community is vastly underrated by outsiders to openSUSE. Â Sure we may not
 
 
 
-First I'd be boring and settle all my debts etc and put a couple of million into savings for me and my family's future.Â  Then I'd buy every gadget I wanted (maybe twice in case I break one).Â  After that I'd probably travel, I'd try and meet all the people I've met online in person and buy them a drink :-)
+First I'd be boring and settle all my debts etc and put a couple of million into savings for me and my family's future.  Then I'd buy every gadget I wanted (maybe twice in case I break one).  After that I'd probably travel, I'd try and meet all the people I've met online in person and buy them a drink :-)
 
 
 
@@ -252,4 +252,4 @@ First I'd be boring and settle all my debts etc and put a couple of million into
 
 
 
-Do you prefer Star Wars or Star Trek?Â  Personally I prefer Babylon5 :-D
+Do you prefer Star Wars or Star Trek?  Personally I prefer Babylon5 :-D

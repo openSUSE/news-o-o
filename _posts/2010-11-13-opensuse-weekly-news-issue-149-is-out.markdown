@@ -56,7 +56,7 @@ We are pleased to announce our new Issue 149.
   * [ Sankar P: Detecting Memory Leaks in Kernel](http://news.opensuse.org/?p=5480#Sankar_P:_Detecting_Memory_Leaks_in_Kernel)
 
 
-  * [ Michael LÃ¶ffler: /me is leaving](http://news.opensuse.org/?p=5480#Michael_L.C3.B6ffler:_.2Fme_is_leaving)
+  * [ Michael Löffler: /me is leaving](http://news.opensuse.org/?p=5480#Michael_L.C3.B6ffler:_.2Fme_is_leaving)
 
 
 
@@ -362,15 +362,15 @@ We hope that you will enjoy reading.
 
 
 
-"At Latinoware, a team of openSUSE contributors will come together, not only to promote openSUSE but also to talk with each other about the future plans for the major linux distribution in Brazil. openSUSE has some awesome technology and great people â€“ both deserve more attention than they get and this is what the openSUSE ambassadors will talk about!  
+"At Latinoware, a team of openSUSE contributors will come together, not only to promote openSUSE but also to talk with each other about the future plans for the major linux distribution in Brazil. openSUSE has some awesome technology and great people – both deserve more attention than they get and this is what the openSUSE ambassadors will talk about!  
 
   
 
- At the conference, you can expect the following talks by openSUSE people: A11y: Its about you! by Bryen â€œsuseROCKsâ€ Yunashko, international GNOME and openSUSE marketing and Accessibility expert; and â€œWhy are you here?â€ by Jos Poortvliet, openSUSE community manager for Novell. He will be very friendly and the talk will feature kittens.  
+ At the conference, you can expect the following talks by openSUSE people: A11y: Its about you! by Bryen “suseROCKs” Yunashko, international GNOME and openSUSE marketing and Accessibility expert; and “Why are you here?” by Jos Poortvliet, openSUSE community manager for Novell. He will be very friendly and the talk will feature kittens.  
 
   
 
- For those interested in educational software on linux, openSUSE ambassador Carlos Alberto dos Santos Ribeiro, one of the central openSUSE people in Brazil will talk about openSUSE Edu Li-f-e. There are two talks by ambassador Rogerio Ferreira: Xen for Dummies (about visualization on linux) and â€Automatizando Tarefas ao Extremo com Shell e Expectâ€. Conference co-organizer and all-round cool girl Izabel Cerqueira Valverde will talk about â€œGNOME Women & openSUSE Women â€“ Mulheres e seus espaÃ§osâ€. Her brother, Ricardo Cerqueira Valverde will discuss â€œopenSUSE apresenta Realidade Aumentada em Linuxâ€. Silvio Palmieri talks about â€œLaboratÃ³rio de A a Zâ€. And the openSUSE buildservice is covered by Alexandre Duarte Rogoski in â€openSUSE BuildService â€“ Construindo Softwares para Diversas Plataformas e DistribuiÃ§Ãµesâ€  
+ For those interested in educational software on linux, openSUSE ambassador Carlos Alberto dos Santos Ribeiro, one of the central openSUSE people in Brazil will talk about openSUSE Edu Li-f-e. There are two talks by ambassador Rogerio Ferreira: Xen for Dummies (about visualization on linux) and ”Automatizando Tarefas ao Extremo com Shell e Expect”. Conference co-organizer and all-round cool girl Izabel Cerqueira Valverde will talk about “GNOME Women & openSUSE Women – Mulheres e seus espaços”. Her brother, Ricardo Cerqueira Valverde will discuss “openSUSE apresenta Realidade Aumentada em Linux”. Silvio Palmieri talks about “Laboratório de A a Z”. And the openSUSE buildservice is covered by Alexandre Duarte Rogoski in ”openSUSE BuildService – Construindo Softwares para Diversas Plataformas e Distribuições”  
 
   
 
@@ -592,7 +592,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-"Some month our team was busy, and so you hasnâ€™t heard about us. But we are alive. We are pleased to announce our new openSUSE Distribution who still medical needs.  
+"Some month our team was busy, and so you hasn’t heard about us. But we are alive. We are pleased to announce our new openSUSE Distribution who still medical needs.  
 
   
 
@@ -712,7 +712,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-"With the progress the boosters made on the openFATE preview instance, we can now edit features and handle them. A screening team has been formed some time ago and now itâ€™s possible to really start working on features. (...)" 
+"With the progress the boosters made on the openFATE preview instance, we can now edit features and handle them. A screening team has been formed some time ago and now it’s possible to really start working on features. (...)" 
 
 
 
@@ -937,7 +937,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide)
 
 
 </td>
@@ -1016,7 +1016,7 @@ Past:
   * [**November 10, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**November 11, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**November 11, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
@@ -1039,7 +1039,7 @@ Past:
   * [**November 24, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**November 25, 2010: ï»¿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**November 25, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
   * [**November 30, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
@@ -1056,7 +1056,7 @@ Past:
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1087,7 +1087,7 @@ Past:
 
   
 
- For me it was as I said my 7th visit and I had every year a talk or/and a workshop there. This year I had a talk â€œThe openSUSE A-Z guideâ€ there and of course an workshop about Inkscape. For my talk the worst case scenario did happen. I prepared my talk and put him on an usb stick, the stick crashed. I can be lucky that Pavol load up a older version of them to prezi, so I had some slides to show." 
+ For me it was as I said my 7th visit and I had every year a talk or/and a workshop there. This year I had a talk “The openSUSE A-Z guide” there and of course an workshop about Inkscape. For my talk the worst case scenario did happen. I prepared my talk and put him on an usb stick, the stick crashed. I can be lucky that Pavol load up a older version of them to prezi, so I had some slides to show." 
 
 
 
@@ -1102,7 +1102,7 @@ Great Article from our Greek's Ambassadors.
 
 
 
-####  [Mike McCallister: Truly â€œAdventures with Geekoâ€](http://metaverse.wordpress.com/2010/11/10/truly-adventures-with-geeko/)
+####  [Mike McCallister: Truly “Adventures with Geeko”](http://metaverse.wordpress.com/2010/11/10/truly-adventures-with-geeko/)
 
 
 
@@ -1111,7 +1111,7 @@ Great Article from our Greek's Ambassadors.
 
   
 
- As most folks there use Ubuntu, I focused on the things that make openSUSE stand out, which was mainly YaST (the installer and system administration tool). I also spent a great deal of time showing off KDE SC 4.5â€”actually more time than I wanted to, as I managed to hang up my system! (...)" 
+ As most folks there use Ubuntu, I focused on the things that make openSUSE stand out, which was mainly YaST (the installer and system administration tool). I also spent a great deal of time showing off KDE SC 4.5—actually more time than I wanted to, as I managed to hang up my system! (...)" 
 
 
 
@@ -1226,7 +1226,7 @@ Great Article from our Greek's Ambassadors.
 
 
 
-####  [Michal HruÅ¡eckÃ½: MariaDB 5.2.3 in openSUSE (Build Service)](http://michal.hrusecky.net/index.php/blog/show/MariaDB-5.2.3-in-openSUSE-%28Build-Service%29.html)
+####  [Michal Hrušecký: MariaDB 5.2.3 in openSUSE (Build Service)](http://michal.hrusecky.net/index.php/blog/show/MariaDB-5.2.3-in-openSUSE-%28Build-Service%29.html)
 
 
 
@@ -1239,7 +1239,7 @@ Great Article from our Greek's Ambassadors.
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
 
 
 </td>
@@ -1548,12 +1548,12 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Nettuts+/Ludovico Fischer: A Beginnerâ€™s Introduction to HTTP and REST](http://net.tutsplus.com/tutorials/other/a-beginners-introduction-to-http-and-rest/)
+####  [Nettuts+/Ludovico Fischer: A Beginner’s Introduction to HTTP and REST](http://net.tutsplus.com/tutorials/other/a-beginners-introduction-to-http-and-rest/)
 
 
 
 
-"The HyperText Transfer Protocol (HTTP) is the life of the Web. Itâ€™s used every time you transfer a document, or make an AJAX request. But HTTP is a relative unknown among web developers. This introduction will demonstrate how the set of design principles, known as REST, underpin HTTP, and allow you to embrace its fullest power by building interfaces which can be used from almost any device or operating system. (...)" 
+"The HyperText Transfer Protocol (HTTP) is the life of the Web. It’s used every time you transfer a document, or make an AJAX request. But HTTP is a relative unknown among web developers. This introduction will demonstrate how the set of design principles, known as REST, underpin HTTP, and allow you to embrace its fullest power by building interfaces which can be used from almost any device or operating system. (...)" 
 
 
 
@@ -1652,21 +1652,21 @@ To view the security announcements in full, or to receive them as soon as they'r
 
   
 
- The configuration file support in smbtad was incomplete, it did not support all available options. The 1.1 code fixes this (bnc#651800). The resolving of this bug was a requirement to enable LSB compatible start / stop scripts for smbtad (bnc#651112). Therefore, you can now control smbtad with the â€œrcsmbtadâ€ script, and currently it allows â€œrcsmbtad startâ€, â€œrcsmbtad stopâ€, and â€œrcsmbtad statusâ€. This also brings us a step closer to build appliances for SMB Traffic Analyzer. And then we had a compile issue with distributions that include older versions of talloc. The 1.1 code fixes this by providing a missing define should it not exist (bnc#649840) to the smbtad and the smbtatools packages. Therefore we can announce two more distributions to be supported by SMB Traffic Analyzer, that is openSUSE 11.1, and SLES11-SP1 (as well as SLES11). Just check the download page which has been updated with one-click install links for these distributions! Finally we have updated the documentation (bnc#651823) to reflect the configuration news for smbtad and its control through the rcsmbtad script. (...)" 
+ The configuration file support in smbtad was incomplete, it did not support all available options. The 1.1 code fixes this (bnc#651800). The resolving of this bug was a requirement to enable LSB compatible start / stop scripts for smbtad (bnc#651112). Therefore, you can now control smbtad with the “rcsmbtad” script, and currently it allows “rcsmbtad start”, “rcsmbtad stop”, and “rcsmbtad status”. This also brings us a step closer to build appliances for SMB Traffic Analyzer. And then we had a compile issue with distributions that include older versions of talloc. The 1.1 code fixes this by providing a missing define should it not exist (bnc#649840) to the smbtad and the smbtatools packages. Therefore we can announce two more distributions to be supported by SMB Traffic Analyzer, that is openSUSE 11.1, and SLES11-SP1 (as well as SLES11). Just check the download page which has been updated with one-click install links for these distributions! Finally we have updated the documentation (bnc#651823) to reflect the configuration news for smbtad and its control through the rcsmbtad script. (...)" 
 
 
 
 
-####  [Nelson Marques: Some thoughtsâ€¦](http://nmarques.digitalwhores.net/2010/11/08/some-thoughts/)
+####  [Nelson Marques: Some thoughts…](http://nmarques.digitalwhores.net/2010/11/08/some-thoughts/)
 
 
 
 
-"Iâ€™ve started doing some packaging of some popular themes on OBS (openSUSE Build Service), starting with those that have a friendly license and 5K+ downloads. Iâ€™ve picked for starters Lucidity, which is somehow related to Ubuntu (yeah yeah, I already know how polemical I am).  
+"I’ve started doing some packaging of some popular themes on OBS (openSUSE Build Service), starting with those that have a friendly license and 5K+ downloads. I’ve picked for starters Lucidity, which is somehow related to Ubuntu (yeah yeah, I already know how polemical I am).  
 
   
 
- At first, the License was CC BY-NC-SA, which is a problem for some distroâ€™s, the example Iâ€™m familiar with is Fedora, as â€˜NCâ€™ means you canâ€™t push it to Fedora. Iâ€™ve contacted the author who promptly helped and swapped the license, now it became CC BY-SA, which should be pretty much compatible with every Linux distro out there. (...)" 
+ At first, the License was CC BY-NC-SA, which is a problem for some distro’s, the example I’m familiar with is Fedora, as ‘NC’ means you can’t push it to Fedora. I’ve contacted the author who promptly helped and swapped the license, now it became CC BY-SA, which should be pretty much compatible with every Linux distro out there. (...)" 
 
 
 
@@ -1681,12 +1681,12 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Michael LÃ¶ffler: /me is leaving](http://lizards.opensuse.org/2010/11/09/me-is-leaving/)
+####  [Michael Löffler: /me is leaving](http://lizards.opensuse.org/2010/11/09/me-is-leaving/)
 
 
 
 
-"Moin, after 7 years with SUSE and Novell Iâ€™ve chosen to change something in my life â€“ and decided to accept a new job and will lay down my duties in the openSUSE project. Iâ€™ve been with the openSUSE project already prior to its launch in August 2005 and experienced a number of highs and lows. Overall the project has been shaping up nicely, we reached a lot of our goals and the just passed openSUSE conference reflects this pretty well in my opinion. (...)" 
+"Moin, after 7 years with SUSE and Novell I’ve chosen to change something in my life – and decided to accept a new job and will lay down my duties in the openSUSE project. I’ve been with the openSUSE project already prior to its launch in August 2005 and experienced a number of highs and lows. Overall the project has been shaping up nicely, we reached a lot of our goals and the just passed openSUSE conference reflects this pretty well in my opinion. (...)" 
 
 
 
@@ -1734,13 +1734,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Last month I went to the Ovi and KDE sprint, Qt Developer Days 2010 -both in MÃ¼nich- and the openSUSE Conference 2010 in NÃ¼remberg. It was a busy Oktober. (pictures below!)  
+"Last month I went to the Ovi and KDE sprint, Qt Developer Days 2010 -both in Münich- and the openSUSE Conference 2010 in Nüremberg. It was a busy Oktober. (pictures below!)  
 
   
 
- The Ovi and KDE sprint took place at Nokiaâ€™s MÃ¼nich office, where we discussed why integration between KDE and Ovi would be beneficial for both (better user experience, exposure to a large userbase). There I had the pleasure to meet lots of KDE people; Leinir, Frank Karlitschek, Chani, Myriam Schweingruber, Sascha Peilicke, Sivan Greenberg, Mark Kretschmann, Rune Jensen, Arjen Hiemstra, Jonathan, Dinesh, Krzysiek, Knut Yrvinâ€¦   
+ The Ovi and KDE sprint took place at Nokia’s Münich office, where we discussed why integration between KDE and Ovi would be beneficial for both (better user experience, exposure to a large userbase). There I had the pleasure to meet lots of KDE people; Leinir, Frank Karlitschek, Chani, Myriam Schweingruber, Sascha Peilicke, Sivan Greenberg, Mark Kretschmann, Rune Jensen, Arjen Hiemstra, Jonathan, Dinesh, Krzysiek, Knut Yrvin…   
 
- After the Ovi sprint, the Qt Developer Days 2010 began. The training sessions took place the first day. Even though some exercises were skipped, I liked it. Days 2 and 3 were focused on showing how cool Qt is. I never thought QML could be that easy, powerful and straightforward. Besides all of the presentations, we also had dinner with the Trolls, played the â€œfact or crapâ€ game and tried some Meego-powered devices. So yepp, I enjoyed it and Iâ€™m looking forward for the 2011 edition :-) (...)" 
+ After the Ovi sprint, the Qt Developer Days 2010 began. The training sessions took place the first day. Even though some exercises were skipped, I liked it. Days 2 and 3 were focused on showing how cool Qt is. I never thought QML could be that easy, powerful and straightforward. Besides all of the presentations, we also had dinner with the Trolls, played the “fact or crap” game and tried some Meego-powered devices. So yepp, I enjoyed it and I’m looking forward for the 2011 edition :-) (...)" 
 
 
 
@@ -1764,7 +1764,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
   
 
- Day Three at LatinoWare in Iguassu Falls, Brazil and Iâ€™m having loads of fun meeting some interesting folks here in the Southern Hemisphere. Iâ€™m wearing two hats this week, representing openSUSE and GNOME-A11y Outreach. Thereâ€™s a lot of stuff going on with the openSUSE Ambassadors here in Brazil and Iâ€™ll post that later on news.opensuse.org once I have gathered up all the photos and tagged them properly.  
+ Day Three at LatinoWare in Iguassu Falls, Brazil and I’m having loads of fun meeting some interesting folks here in the Southern Hemisphere. I’m wearing two hats this week, representing openSUSE and GNOME-A11y Outreach. There’s a lot of stuff going on with the openSUSE Ambassadors here in Brazil and I’ll post that later on news.opensuse.org once I have gathered up all the photos and tagged them properly.  
 
   
 
@@ -1919,7 +1919,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"Novell today announced The Hong Kong Jockey Club (HKJC), one of the largest racing organizations in the world, has chosen SUSEÂ® Linux Enterprise Server as the standard operating system for its recent deployments of core information dissemination, integration and access systems. (...)" 
+"Novell today announced The Hong Kong Jockey Club (HKJC), one of the largest racing organizations in the world, has chosen SUSE® Linux Enterprise Server as the standard operating system for its recent deployments of core information dissemination, integration and access systems. (...)" 
 
 
 
@@ -1963,16 +1963,16 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"The interwebs are full this morning of reports on Mark Shuttleworthâ€™s announcement that someday heâ€™d like to use Wayland instead of Xorg as Ubuntuâ€™s primary display driver.   
+"The interwebs are full this morning of reports on Mark Shuttleworth’s announcement that someday he’d like to use Wayland instead of Xorg as Ubuntu’s primary display driver.   
 
   
 
- My favorite so far is Ryan Paulâ€™s Ars Technica article for this dead-on estimate of the amount of effort it would take to completely replace X11: 
+ My favorite so far is Ryan Paul’s Ars Technica article for this dead-on estimate of the amount of effort it would take to completely replace X11: 
 
 
 
 
-<blockquote>Although the Linux ecosystem would benefit greatly from a lighter and more easily extensible alternative, a concerted effort to displace X11 on the Linux desktop hasnâ€™t really emerged yet because the task of bringing drivers, third-party software, and all of the other layers of the stack into alignment with such a move would be prohibitively cumbersome. Like, in the sense that using only your toes to build a full-scale replica of the Statue of Liberty out of toothpicks is prohibitively cumbersome. </blockquote>
+<blockquote>Although the Linux ecosystem would benefit greatly from a lighter and more easily extensible alternative, a concerted effort to displace X11 on the Linux desktop hasn’t really emerged yet because the task of bringing drivers, third-party software, and all of the other layers of the stack into alignment with such a move would be prohibitively cumbersome. Like, in the sense that using only your toes to build a full-scale replica of the Statue of Liberty out of toothpicks is prohibitively cumbersome. </blockquote>
 
 
 
@@ -2045,11 +2045,11 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-"If youâ€™ve ever experienced one of your kids saying â€œMom, how do I solve this math problem? What should I do? Iâ€™m boredâ€, then youâ€™ll appreciate KDE Edutainment to help you teach your kids basic mathematics and other sciences.  
+"If you’ve ever experienced one of your kids saying “Mom, how do I solve this math problem? What should I do? I’m bored”, then you’ll appreciate KDE Edutainment to help you teach your kids basic mathematics and other sciences.  
 
   
 
- KDE edutainment software is designed to fill the gap in Linuxâ€™s shortcoming: that there is little software of an educational nature. It has been gaining recognition and has become a great tool to teach basic science to students on both Linux and Windows platform. Read the KDE Windows installation page to understand how to install KDE on Windows. (...)" 
+ KDE edutainment software is designed to fill the gap in Linux’s shortcoming: that there is little software of an educational nature. It has been gaining recognition and has become a great tool to teach basic science to students on both Linux and Windows platform. Read the KDE Windows installation page to understand how to install KDE on Windows. (...)" 
 
 
 
@@ -2164,7 +2164,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -2173,7 +2173,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -2233,34 +2233,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/149)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/149)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/149)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/149)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/149)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/149)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/149)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/149)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/149)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/149/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/149/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/149/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/149)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/149)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/149)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/149)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/149)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/149)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/149)
@@ -2269,7 +2269,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/149/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/149)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/149)
 
 
 </td>

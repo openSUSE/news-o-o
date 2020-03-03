@@ -5,7 +5,7 @@ date: 2010-09-22 12:00:28+00:00
 layout: post
 link: https://news.opensuse.org/2010/09/22/osc2010-sneak-peaks-%e2%80%93-bernhard-wiedemann-automated-testing/
 slug: osc2010-sneak-peaks-%e2%80%93-bernhard-wiedemann-automated-testing
-title: 'OSC2010 Sneak Peaks â€“ Bernhard Wiedemann: Automated Testing'
+title: 'OSC2010 Sneak Peaks – Bernhard Wiedemann: Automated Testing'
 wordpress_id: 4511
 categories:
 - Events
@@ -19,7 +19,7 @@ categories:
 > </td>
 
 > <td >
-The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more than seventy talks and workshops explore the theme  of â€˜**Collaboration Across Borders**â€˜ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together of  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [BerufsfÃ¶rderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the [program](http://conference.opensuse.org/indico/event/osc2010) which starts each day at 9am,  the admission is free. 
+The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more than seventy talks and workshops explore the theme  of ‘**Collaboration Across Borders**‘ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together of  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [Berufsförderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the [program](http://conference.opensuse.org/indico/event/osc2010) which starts each day at 9am,  the admission is free. 
 
 > </td>
 
@@ -29,7 +29,7 @@ The openSUSE Conference brings together users, contributors and friends  of the 
 > </td></tr></table>
   
 
-The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you. This time we explore the automatismâ€™s inside our testing team together with Bernhard Wiedemann.</blockquote>
+The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you. This time we explore the automatism’s inside our testing team together with Bernhard Wiedemann.</blockquote>
 
 
 ![](/wp-content/uploads/2010/09/bernhard-hackergotchi-140.png)
@@ -68,7 +68,7 @@ I gathered experience as I went along. As so often, big motivation comes from bi
 
 
 
-It means, I am following the virtues of programmers. Laziness being first (I donâ€™t need to do anything to have the computer testing for me). Impatience being second (the results are already in my inbox when I get up). Now that the code has evolved I have a cron job that runs the downloading of new ISOs and does test-runs all by itself. So the download happens and then my perl script starts a virtual machine (using KVM) which has a _monitor_ interface that accepts commands like "_sendkey ctrl-alt-delete_" and "_screendump foobar.ppm_". The script captures two screendumps per second and in the end encodes all images into a nice ogg/theora video which can be conveniently viewed in firefox. The hard part, though is making it send the right keys at the right time. It involves checking the screenshots for known images or waiting until the VM process uses less CPU than 18% (which means that the tested OS is done processing). Some of it is still a hack that happens to work well.
+It means, I am following the virtues of programmers. Laziness being first (I don’t need to do anything to have the computer testing for me). Impatience being second (the results are already in my inbox when I get up). Now that the code has evolved I have a cron job that runs the downloading of new ISOs and does test-runs all by itself. So the download happens and then my perl script starts a virtual machine (using KVM) which has a _monitor_ interface that accepts commands like "_sendkey ctrl-alt-delete_" and "_screendump foobar.ppm_". The script captures two screendumps per second and in the end encodes all images into a nice ogg/theora video which can be conveniently viewed in firefox. The hard part, though is making it send the right keys at the right time. It involves checking the screenshots for known images or waiting until the VM process uses less CPU than 18% (which means that the tested OS is done processing). Some of it is still a hack that happens to work well.
 
 **Automatic screendumps, do i have to look at them to do the testing? Lets say to find the bug that the default wallpaper is a red hat instead of a nice Geeko?**
 

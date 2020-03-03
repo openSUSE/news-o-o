@@ -12,9 +12,9 @@ categories:
 - Infrastructure
 ---
 
-For our openSUSE distributions, we release regularly updates to fix security issues and general bugs.Â  As desktop user, you get notified in GNOME and KDE via the updater apps about new packages once they run (normal setup is once a day).
+For our openSUSE distributions, we release regularly updates to fix security issues and general bugs.  As desktop user, you get notified in GNOME and KDE via the updater apps about new packages once they run (normal setup is once a day).
 
-Security announcements are send out via the opensuse-security-announce mailing list (subscribe via [lists.opensuse.org](http://lists.opensuse.org)).Â  To get informed about all updates as soon as they are released, you can read the opensuse-updates mailing listÂ  (subscribe via [lists.opensuse.org](http://lists.opensuse.org/)) and now follow also the new Twitter user [ @openSUSE_Update](http://twitter.com/openSUSE_Update) [![Follow openSUSE_Update on Twitter](http://twitter-badges.s3.amazonaws.com/twitter-a.png)](http://www.twitter.com/openSUSE_Update).
+Security announcements are send out via the opensuse-security-announce mailing list (subscribe via [lists.opensuse.org](http://lists.opensuse.org)).  To get informed about all updates as soon as they are released, you can read the opensuse-updates mailing list  (subscribe via [lists.opensuse.org](http://lists.opensuse.org/)) and now follow also the new Twitter user [ @openSUSE_Update](http://twitter.com/openSUSE_Update) [![Follow openSUSE_Update on Twitter](http://twitter-badges.s3.amazonaws.com/twitter-a.png)](http://www.twitter.com/openSUSE_Update).
 
 We also have two RSS feeds: [openSUSE Maintenance  All Updates](https://hermes.opensuse.org/feeds/62041.rdf) and[ openSUSE Maintenance  Security Updates](https://hermes.opensuse.org/feeds/62042.rdf).
 

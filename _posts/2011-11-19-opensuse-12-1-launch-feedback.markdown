@@ -13,7 +13,7 @@ categories:
 
 openSUSE 12.1 was launched on Wednesday and it's time to look back at the successful launch of a great distribution.
 
-We've seen a lot of positive feedback regarding openSUSE 12.1 via [press](http://en.opensuse.org/In_the_press), social networks, blogs etc. The interest in social media is significant with good conversations and new members, our [facebook group](http://www.facebook.com/group.php?gid=2256834487) has grown the last weeks by several hundred new members, the followers of our [@openSUSE twitter](http://twitter.com/#!/openSUSE) increase and the recently launchedÂ [ Google+ page ](https://plus.google.com/110312141834246266844/)is in the circles of over 3200 people.
+We've seen a lot of positive feedback regarding openSUSE 12.1 via [press](http://en.opensuse.org/In_the_press), social networks, blogs etc. The interest in social media is significant with good conversations and new members, our [facebook group](http://www.facebook.com/group.php?gid=2256834487) has grown the last weeks by several hundred new members, the followers of our [@openSUSE twitter](http://twitter.com/#!/openSUSE) increase and the recently launched [ Google+ page ](https://plus.google.com/110312141834246266844/)is in the circles of over 3200 people.
 
 Looking over twitter messages directed to our[ @openSUSE](http://twitter.com/openSUSE) account, here're just a few comments about openSUSE 12.1:
 
@@ -43,15 +43,15 @@ Hats off to the #openSUSE folks - 12.1 is a solid release. The #nouveau team des
 As usual, our download server redirected all incoming traffic to our mirror network. The mirrors reported that we again saturated their connections for a couple of hours after the announcement, e.g.
 
 
-<blockquote>ftp.halifax.rwth-aachen.de did up to 4.5 GBit/sec for openSUSE just with HTTP.Â  BitTorrent did 300-800 MBit/sec during the whole time. Total traffic spanning all projects peaked at 5.02 GBit/sec with a daily average of 2.44 GBit/sec.</blockquote>
+<blockquote>ftp.halifax.rwth-aachen.de did up to 4.5 GBit/sec for openSUSE just with HTTP.  BitTorrent did 300-800 MBit/sec during the whole time. Total traffic spanning all projects peaked at 5.02 GBit/sec with a daily average of 2.44 GBit/sec.</blockquote>
 
 
-Our download redirector countedÂ  for the first 24 hoursÂ  the download of 93761 media, the distribution over the various types is:
+Our download redirector counted  for the first 24 hours  the download of 93761 media, the distribution over the various types is:
 
 
 
 	
-  * NonOss Addon CD BiArch:Â  1452
+  * NonOss Addon CD BiArch:  1452
 
 	
   * 32-bit x86: 48075 (total)
@@ -75,7 +75,7 @@ Our download redirector countedÂ  for the first 24 hoursÂ  the download of 9
 
 
 	
-  * 64-bit x86-64:Â  44234 (total)
+  * 64-bit x86-64:  44234 (total)
 
 	
     * Net: 2444
@@ -96,7 +96,7 @@ Our download redirector countedÂ  for the first 24 hoursÂ  the download of 9
 
 
 
-Also bittorrent was in high demand, at one point we had 1387 seeders and 2804 leechers but we missed to track the high point.Â  The tracker counted 12924 complete downloads via bittorrent during the first 24 hours.
+Also bittorrent was in high demand, at one point we had 1387 seeders and 2804 leechers but we missed to track the high point.  The tracker counted 12924 complete downloads via bittorrent during the first 24 hours.
 
 
 ## Physical Media
@@ -125,4 +125,4 @@ Please continue spreading the word about openSUSE 12.1 - and answer questions on
 ## Thank you
 
 
-The openSUSE launchÂ  was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. Weâ€™d like to thank all of them. Moreover, weâ€™d like to thank everybodyÂ  to make the changes to the websites so users could download their brand new openSUSE 12.1 and find information about it! Weâ€™d also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you havenâ€™t yet!) and of course all contributors of openSUSE who helped to make this release possible!
+The openSUSE launch  was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. We’d like to thank all of them. Moreover, we’d like to thank everybody  to make the changes to the websites so users could download their brand new openSUSE 12.1 and find information about it! We’d also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you haven’t yet!) and of course all contributors of openSUSE who helped to make this release possible!

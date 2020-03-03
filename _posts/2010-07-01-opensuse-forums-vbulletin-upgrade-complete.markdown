@@ -5,7 +5,7 @@ date: 2010-07-01 09:37:19+00:00
 layout: post
 link: https://news.opensuse.org/2010/07/01/opensuse-forums-vbulletin-upgrade-complete/
 slug: opensuse-forums-vbulletin-upgrade-complete
-title: openSUSE Forums â€“ vBulletin Upgrade Complete
+title: openSUSE Forums – vBulletin Upgrade Complete
 wordpress_id: 3643
 categories:
 - Infrastructure

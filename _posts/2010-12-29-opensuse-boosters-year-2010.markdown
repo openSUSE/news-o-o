@@ -63,7 +63,7 @@ In June, there was LinuxTag in Berlin where most of us participated with talks i
 ### openSUSE 11.3
 
 
-In July, openSUSE 11.3 was released. That was lots of work beforehand with quite some boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is contributing to the distribution, we all have our shares in it. 11.3 was a good one, it got good press and showed that we as a community are doing great. All over the world release parties were organized, some Boosters took over the one here in NÃ¼rnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm, because many community members showed up. Cool, I love that kind of stress to organize food and beer quickly to let the party go on :-)
+In July, openSUSE 11.3 was released. That was lots of work beforehand with quite some boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is contributing to the distribution, we all have our shares in it. 11.3 was a good one, it got good press and showed that we as a community are doing great. All over the world release parties were organized, some Boosters took over the one here in Nürnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm, because many community members showed up. Cool, I love that kind of stress to organize food and beer quickly to let the party go on :-)
 
 
 ### GNOME and KDE conferences

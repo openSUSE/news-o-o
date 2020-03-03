@@ -338,7 +338,7 @@ I wish I had some real skills in the area of video compositing and electronic mu
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 I'd probably go through withdrawl, but on the flip side, I'd probably spend more time at the gym.

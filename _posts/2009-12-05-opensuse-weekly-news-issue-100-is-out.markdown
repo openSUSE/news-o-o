@@ -22,7 +22,7 @@ In this week's issue:
 
     * openSUSE Board Election Update
     * Egbert Eich: The Future of SaX2
-    * Ben Kevan: KDE 4.3.4 Released â€“ openSUSE Build Service
+    * Ben Kevan: KDE 4.3.4 Released – openSUSE Build Service
     * Linux Weekly News: Firefox locks down the components directory
     * Linux.com/minaev: Linux Desktop Search Engines Compared 
 

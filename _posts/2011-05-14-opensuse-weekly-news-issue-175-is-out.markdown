@@ -105,9 +105,9 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 Enjoy reading :-)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
-â€œ
+“
 
 [openSUSE 11.2 has reached end of SUSE support - 11.2 Evergreen goes on!](http://lists.opensuse.org/archive/opensuse-security-announce/2011-05/msg00003.html)
 
@@ -144,9 +144,9 @@ Read more: [http://lists.opensuse.org/archive/opensuse-security-announce/2011-05
 
 **License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
@@ -162,33 +162,33 @@ Important Links
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
-â€œ
+“
 
 
-          [Sebastian KÃ¼gler: Whatâ€™s new in Plasma Active?](http://vizzzion.org/blog/2011/05/whats-new-in-plasma-active/)
+          [Sebastian Kügler: What’s new in Plasma Active?](http://vizzzion.org/blog/2011/05/whats-new-in-plasma-active/)
         
 
-Weâ€™ve been busy bees in the growing Plasma Active team, so itâ€™s time to post some
+We’ve been busy bees in the growing Plasma Active team, so it’s time to post some
           progress updates. In case you forgot, Plasma Active is a KDE project to create a desirable
           user experience for the device spectrum, with its first focus to create a system suitable
           for tablet computers. In my [first post](http://vizzzion.org/blog/2011/04/plasma-active-a-desirable-user-experience-encompassing-the-device-spectrum/) about Plasma Active, you can see the basic shell running on a 10
-          inch Viewsonic Viewtab. In this post, Iâ€™m using a Wetab to demo the current state of
-          Plasma Active. The Wetab is one of our test devices. Itâ€™s a nice target device since itâ€™s
+          inch Viewsonic Viewtab. In this post, I’m using a Wetab to demo the current state of
+          Plasma Active. The Wetab is one of our test devices. It’s a nice target device since it’s
           Intel Atom-based, which makes building Plasma Active a bit easier, and thus shortens our
           development-testing-deployment cycles considerable. The Wetab can currently be gotten from
-          German Ebay for 219âƒ½ + shipping, so itâ€™s also quite affordable. 
+          German Ebay for 219⃽ + shipping, so it’s also quite affordable. 
 
-Back to the software, though. Our focus in the past weeks has been two-fold, weâ€™ve
-          done a lot of â€œsmall fixesâ€ which greatly improve the user experience. The other class of
+Back to the software, though. Our focus in the past weeks has been two-fold, we’ve
+          done a lot of “small fixes” which greatly improve the user experience. The other class of
           changes is less visible at this point, but still fun and exciting. (...)
 
-â€
+”
 
-â€œ
+“
 
 
           [Aaron Seigo: Qt5 .. KDE5?](http://aseigo.blogspot.com/2011/05/qt5-kde5.html)
@@ -207,11 +207,11 @@ The short answer is that we don't know yet, but we're working on it. Not a very
           satisfying answer is it? Well, short answers are rarely much fun. So here's the slightly
           longer version.
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Opensuse_medical_logo11.png)Medical Team
 
-â€œ
+“
 
 [Thanasis Rous: Medical Report](http://lists.opensuse.org/opensuse-medical/2011-05/msg00008.html)
 
@@ -248,7 +248,7 @@ And finally we presented the new application for diabetics (which is available i
 
 The presentation is available at: [http://dl.dropbox.com/u/28782593/opensuse_medical_FOSSCOMM2011_001.odp](http://dl.dropbox.com/u/28782593/opensuse_medical_FOSSCOMM2011_001.odp)
 
-The presentation was really interesting, people (doctors)Ã½during the presentation
+The presentation was really interesting, people (doctors)ýduring the presentation
           asked us about the distro, the project and how to setup and use the applications in
           general.
 
@@ -279,13 +279,13 @@ You can take a look at the photos of the presentation and the booth as well :
 
 Have a lot of fun! Rousinopoulos Athanasios-Ilias
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 348)](https://features.opensuse.org/120340)
@@ -294,9 +294,9 @@ Have a lot of fun! Rousinopoulos Athanasios-Ilias
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 183)](https://features.opensuse.org/305493)
@@ -311,9 +311,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [Replacement for Sax2 (Score: 129)](https://features.opensuse.org/308357)
@@ -322,9 +322,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 We need a replacement for sax2 in 11.3, as a safety measure for when auto
             configuration fails to detect certain monitors/keyboards/mice. (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 120)](https://features.opensuse.org/308497)
@@ -342,9 +342,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 98)](https://features.opensuse.org/305877)
@@ -365,13 +365,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [make yast gtk gui more complete](https://features.opensuse.org/312308)
@@ -386,9 +386,9 @@ In qt, it's enough to clic right and select update all the selected.
 
 so I would be fine to have the same in gtk (I just had a corrupted kde4 install and could only run gnome)
 
-â€
+”
 
-â€œ
+“
 
 
             [Fix Printing in SuSe by Having gutenprint](https://features.opensuse.org/312309)
@@ -396,9 +396,9 @@ so I would be fine to have the same in gtk (I just had a corrupted kde4 install 
 
 On Ubuntu there are many many printer drivers on the distribution by default because of the package gutenprint . SuSe has this package in the Repos, but not default. When I tried to set up my printer, nothing but the generic driver was found, but I manually installed gutenprint after 3 hours of searching on Google, and the Driver was there. gutenprint should be there by default.
 
-â€
+”
 
-â€œ
+“
 
 
             [don't install postfix by default anymore](https://features.opensuse.org/312320)
@@ -410,9 +410,9 @@ postfix slows down system boot and runs on every installation even though it's n
 
 cron may need adjustments to report output of cron jobs via other means such as syslog.
 
-â€
+”
 
-â€œ
+“
 
 
             [cups-pdf Drucker wieder per default installieren](https://features.opensuse.org/312322)
@@ -420,9 +420,9 @@ cron may need adjustments to report output of cron jobs via other means such as 
 
 I think that openSUSE should install a pdf-printer as default again.
 
-â€
+”
 
-â€œ
+“
 
 
             [allow configuration of offline local printer](https://features.opensuse.org/312327)
@@ -430,9 +430,9 @@ I think that openSUSE should install a pdf-printer as default again.
 
 Now it's impossible to configure a local printer is it's not detectedn why?
 
-â€
+”
 
-â€œ
+“
 
 
             [Provide gccgo packages](https://features.opensuse.org/312333)
@@ -444,9 +444,9 @@ It would be awesome to ship gcc 4.6 with support for Google Go (gccgo) with open
 
 Debian already provides gccgo for sid: [http://packages.debian.org/sid/gccgo](http://packages.debian.org/sid/gccgo)
 
-â€
+”
 
-â€œ
+“
 
 
             [Installing video card drivers from the official](https://features.opensuse.org/312334)
@@ -457,7 +457,7 @@ While searching through many pages of information about Linux and OpenSUSE that 
 
 I think that when you install an option I should be asking whether to install the drivers or compile a formal closed. When chosen to be the official drivers are able to download the script itself from the pack, and compile the relevant modules into the kernel. Also, the appropriate settings in the xorg configuration. This is mainly on the users complain that they used Ubuntu.
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -468,13 +468,13 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Postings from the Community
 
-â€œ
+“
 
 [Jos Poortvliet: Events - LinuxTag and HCC linux themadag](http://blog.jospoortvliet.com/2011/05/events-linuxtag-and-hcc-linux-themadag.html)
 
@@ -498,17 +498,17 @@ And if you live close to either, be sure to be there & say hi to me!
 If you want to pick me out of the crowd, a helpful tip: my hair (both on head &
         chin) got a bit longer since the pic above was taken! 
 
-â€
+”
 
 ### People of openSUSE
 
-â€œ
+“
 
 [People of openSUSE: Jos Poortvliet](http://news.opensuse.org/2011/05/09/people-of-opensuse-jos-poortvliet/)
 
 On this issue of people of openSUSE, you can read about our friendly SUSE community manager, Jos Poortvliet. Read about his job at the SUSE, what he does in openSUSE, his personal opinion of Free Software, openSUSE and more!
 
-â€
+”
 
 ### Events & Meetings
 
@@ -547,11 +547,11 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [The User Directory](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
 
-â€œ
+“
 
-[Michal ÄŒihaÅ™: StarDict dictionaries for openSUSE](http://blog.cihar.com/archives/2011/05/09/stardict-dictionaries-opensuse/)
+[Michal Ìihař: StarDict dictionaries for openSUSE](http://blog.cihar.com/archives/2011/05/09/stardict-dictionaries-opensuse/)
 
 While [working](http://blog.cihar.com/archives/2011/05/09/no-new-dictionaries-tarballs-no-change/) on [dictionaries for
         StarDict](http://cihar.com/software/slovnik/) today, I've decided to finally bring them to openSUSE as well.
@@ -573,20 +573,20 @@ zypper ar http://download.opensuse.org/repositories/home:/Nijel:/stardict/openSU
 zypper ref
 zypper in  stardict-czech  stardict-english-czech  stardict-german-czech
 
-â€
+”
 
-â€œ
+“
 
 [Holger Hetterich: SMB Traffic Analyzer 1.2.4 supports multiple databases and delivers
         webSMBTA](http://holger123.wordpress.com/2011/05/08/smb-traffic-analyzer-1-2-4-supports-multiple-databases-and-delivers-websmbta/)
 
-If you donâ€™t have a clue what you are reading here, this article is about the** SMB Traffic Analyzer** project, check itâ€™s [homepage](http://holger123.wordpress.com/smb-traffic-analyzer/) for more
+If you don’t have a clue what you are reading here, this article is about the** SMB Traffic Analyzer** project, check it’s [homepage](http://holger123.wordpress.com/smb-traffic-analyzer/) for more
       information about it.
 
 The development team is proud to announce the release of **version
         1.2.4 of SMB Traffic Analyzer**. With a much longer development cycle than usual,
       we took the time to do real ground work on** SMBTA**, and
-      reworked the whole database handling. As a result, SMBTA will from now on access itâ€™s
+      reworked the whole database handling. As a result, SMBTA will from now on access it’s
       databases via [libDBI](http://libdbi.sourceforge.net/), a generic database
       layer. Via libDBI, **SMBTA** is potientially able to run with
         **sqlite, MySQL, and postgresql** as database backend. Since
@@ -601,7 +601,7 @@ The development team is proud to announce the release of **version
       Analyzer 1.2.4 provides an upgrade path if the user wants to use the sqlite database that has
       been created with SMBTA version <= 1.2.3.
 
-FigureÂ 1.Â The object selector of webSMBTA
+Figure 1. The object selector of webSMBTA
 
 <table cellpadding="0" cellspacing="0" border="0" width="30%" summary="manufactured viewport for HTML img" ><tr >
 <td >![The object selector of webSMBTA](http://holger123.files.wordpress.com/2011/05/bildschirmfoto.png)
@@ -610,24 +610,24 @@ FigureÂ 1.Â The object selector of webSMBTA
   
 
 
-Furthermore,** SMB Traffic Analyzer 1.2.4** debuts **Benjamin Brunnerâ€™s** work on
+Furthermore,** SMB Traffic Analyzer 1.2.4** debuts **Benjamin Brunner’s** work on
         **webSMBTA**, a web
       interface to all functions of the **smbtaquery** program. It is a
       modern, rails3 based, intuitive interface, that **reduces** object selection **to a few mouse clicks**, and makes running statistic
       functions on the objects a breeze. **webSMBTA** automatically
       retrieves all the objects known in your Samba network, and displays them in a way that gives
       an idea of the network structure. Out of these lists, you click the object you want to run a
-      function on, and get a descriptive dialog for the functionâ€™s options. The output of functions
+      function on, and get a descriptive dialog for the function’s options. The output of functions
       is HTML rendered, and attached to the webSMBTA main page. Our ground work on XML in smbtaquery
       finally pays off, as **webSMBTA** is consuming **HTML output** of smbtaquery
-      directly. Once a function has been chosen, it can easily be re-run by clicking itâ€™s reload
+      directly. Once a function has been chosen, it can easily be re-run by clicking it’s reload
         button,**** or removed from the
       page.
 
 We have added a new chapter for the documentation on **webSMBTA,** as well as to the **libDBI**
       change.
 
-All of smbtatools can now use a single configuration file, serving all of them (**bso#8097**). The â€œtopâ€ function of smbtaquery can now operate
+All of smbtatools can now use a single configuration file, serving all of them (**bso#8097**). The “top” function of smbtaquery can now operate
       descending as well as ascending. (**bso#8095**).
 
 You can download **SMB Traffic Analyzer** from the [download page](http://holger123.wordpress.com/smb-traffic-analyzer/smb-traffic-analyzer-download/). Please be aware that currently binary packages of smbtatools 1.2.4
@@ -636,34 +636,34 @@ You can download **SMB Traffic Analyzer** from the [download page](http://holger
       1.2.4 source tarball of smbtatools does contain the webSMBTA sources. Nevertheless, you can
       find a README file in the smbtatools tarball, describing how to run the webinterface by using
       the internal rails webserver. For more information on **SMB Traffic
-        Analyzer**, check itâ€™s[ homepage](http://holger123.wordpress.com/smb-traffic-analyzer/). 
+        Analyzer**, check it’s[ homepage](http://holger123.wordpress.com/smb-traffic-analyzer/). 
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Cornerâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Corner▲▼
 
 The Section provides the Game of the Week, and Updates in the Game Repository
 
-â€œ
+“
 
 [Nelson Marques: Unknown Horizons, a nice strategy game, now on openSUSE](http://lizards.opensuse.org/2011/05/09/unknown-horizons-a-nice-strategy-game-now-on-opensuse/)
 
 A few days ago I was wandering on the [openSUSE
         Forums](http://forums.opensuse.org), once more in the games section when I saw one more post from one of our
-      users asking for [Unknown Horizons](http://www.unknown-horizons.org)â€¦ Iâ€™ve
+      users asking for [Unknown Horizons](http://www.unknown-horizons.org)… I’ve
       search a bit and found 2 entries on OBS ([openSUSE Build
         Service](http://build.opensuse.org)), one for Fedora packages and another for openSUSE packages.
 
-Iâ€™ve joined #unknown-horizons on [FreeNode](irc://irc.opensuse.org) and
-      found out that Unknown Horizons is very active and people are very nice. Iâ€™ve made a few
+I’ve joined #unknown-horizons on [FreeNode](irc://irc.opensuse.org) and
+      found out that Unknown Horizons is very active and people are very nice. I’ve made a few
       questions around and offered myself to package this nice game for openSUSE
       (home:ketheriel:UnknownHorizons). Some of the dependencies are provided by the games
       repository, to which I want to submit the major releases, and if possible enable builds for
       Fedora (and friends).
 
 A few packages need some tweaks to enable builds for Fedora (allegro, libenet, guichan),
-      and Iâ€™m working already on that. Meanwhile for everyone who wants to check out the latest
-      development snapshot of Unknown Horizons, feel free to do soâ€¦ Currently packaged for:
+      and I’m working already on that. Meanwhile for everyone who wants to check out the latest
+      development snapshot of Unknown Horizons, feel free to do so… Currently packaged for:
 
   * openSUSE 11.3
 
@@ -673,7 +673,7 @@ A few packages need some tweaks to enable builds for Fedora (allegro, libenet, g
 
   * openSUSE Tumbleweed
 
-FigureÂ 2.Â Unknown Horizons - Settings Menu - openSUSE 11.4 GNOME3
+Figure 2. Unknown Horizons - Settings Menu - openSUSE 11.4 GNOME3
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
 <td >![Unknown Horizons - Settings Menu - openSUSE 11.4 GNOME3](http://lizards.opensuse.org/wp-content/uploads/2011/05/Screenshot-Unknown-Horizons-Alpha.png)
@@ -683,26 +683,26 @@ FigureÂ 2.Â Unknown Horizons - Settings Menu - openSUSE 11.4 GNOME3
 
 
 The 1-Click installer can be found on [Unknown Horizons download
-      page](http://www.unknown-horizons.org/download/linux/). Thereâ€™s also a nice article (bumping ego) about the new openSUSE packages on
-      Unknown Horizons FigureÂ 2, â€œUnknown Horizons - Settings Menu - openSUSE 11.4 GNOME3â€webpage!
+      page](http://www.unknown-horizons.org/download/linux/). There’s also a nice article (bumping ego) about the new openSUSE packages on
+      Unknown Horizons Figure 2, “Unknown Horizons - Settings Menu - openSUSE 11.4 GNOME3”webpage!
 
 This is a title that all openSUSE users who like RTS games should try (supports openGL and
       sdl) and is powered by the [FIFE Engine](http://www.fifengine.de).
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-â€œ
+“
 
 
       [SUSE Security Announcement: postfix (SUSE-SA:2011:023)](http://lists.opensuse.org/opensuse-security-announce/2011-05/msg00002.html)
     
 
-<table frame="void" id="id320137" >TableÂ 1.Â Security Announce<tr >
+<table frame="void" id="id320137" >Table 1. Security Announce<tr >
           
           
         </tr><tbody ><tr >
@@ -742,15 +742,15 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >remote code execution
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [SUSE Security Announcement: IBM Java 1.4.2 (SUSE-SA:2011:024)](http://lists.opensuse.org/opensuse-security-announce/2011-05/msg00004.html)
     
 
-<table frame="void" id="id320289" >TableÂ 2.Â Security Announce<tr >
+<table frame="void" id="id320289" >Table 2. Security Announce<tr >
           
           
         </tr><tbody ><tr >
@@ -790,11 +790,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >remote code execution
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.39 (Part 4) - Drivers](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-39-Part-4-Drivers-1240042.html)
@@ -806,33 +806,33 @@ To view the security announcements in full, or to receive them as soon as they'r
         various other vendors.**
 
 Linus Torvalds released the seventh pre-release of Linux 2.6.39 on Monday night. He wrote:
-        â€œSo things have been pretty quiet, and unless something major comes up I believe that
-        this will be the last -rcâ€. If Torvalds sticks to his usual work patterns, then
+        “So things have been pretty quiet, and unless something major comes up I believe that
+        this will be the last -rc”. If Torvalds sticks to his usual work patterns, then
       2.6.39 could well be released early next week.
 
 As Linux 2.6.39 is approaching completion, the Kernel Log will conclude its "Coming in
-      2.6.39" mini series with a discussion of the advancements in terms of drivers â€“ including
+      2.6.39" mini series with a discussion of the advancements in terms of drivers – including
       audio, graphics and multimedia hardware drivers. Part 1 of the mini series discussed the
       changes to the network drivers and infrastructure; part 2 was about the file system code as
       well as the storage drivers and infrastructure; and part 3 discussed the architecture code and
       general infrastructure. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Rares
-        Aioanei: kernel weekly news â€“ 14.05.2011](http://schaiba.wordpress.com/2011/05/14/kernel-weekly-news-14-05-2011/)
+        Aioanei: kernel weekly news – 14.05.2011](http://schaiba.wordpress.com/2011/05/14/kernel-weekly-news-14-05-2011/)
 
 This weeks Issue of Rares Aoianei's Kernel Weekly News.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
-â€œ
+“
 
 
         [jun auza: 7 Nifty Tricks to Get the Most out of LibreOffice Writer](http://www.junauza.com/2011/05/7-nifty-tricks-to-get-most-out-of.html)
@@ -843,34 +843,34 @@ Since the death of [OpenOffice](http://www.junauza.com/2009/05/8-essential-openo
         LibreOffice Writer and its Oracle-owned predecessor, there are some tricks that can help you
         get the most out of it. Here's a look at 7 such tricks. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linux Journal/Doug Roberts: Ebook Publishing Using Linux Tools](http://www.linuxjournal.com/content/ebook-publishing-using-linux-tools)
       
 
-Digital books, aka â€œebooksâ€ are going to change the publishing world just as iTunes and
-        digital music have changed the music industry. At the moment, Amazonâ€™s Kindle seems to be
-        the biggest fish in the pond. While the actual numbers are fuzzy, Amazonâ€™s Kindle appears to
+Digital books, aka “ebooks” are going to change the publishing world just as iTunes and
+        digital music have changed the music industry. At the moment, Amazon’s Kindle seems to be
+        the biggest fish in the pond. While the actual numbers are fuzzy, Amazon’s Kindle appears to
         be driving ebook growth, as suggested by [this](http://www.atrianyc.com/computers-and-technology/amazon-kindle-driving-growth-in-the-e-book-reader-market/) article.
 
 Recent news points to authors making a dramatic shift from traditional publishing houses
         to self-publishing, as pointed out in [this article](http://www.techdirt.com/blog/casestudies/articles/20110321/00183913568/best-selling-author-turns-down-half-million-dollar-publishing-contract-to-self-publish.shtml) that describes why Barry Eisler turned down a $500,000 deal from a
         mainstream publisher, choosing instead to self-publish. This particular article was in fact
         my own tipping point: I had written a science fiction novel 30 years ago that I was unable
-        to get any of the publishing houses interested in at the time. I thought to myself, â€œWhy
-        not?â€ So I dusted off the old digital manuscript, completely rewrote the story, and recently
-        published it on Amazonâ€™s Kindle publishing site. BTW, for more info on how the original
+        to get any of the publishing houses interested in at the time. I thought to myself, “Why
+        not?” So I dusted off the old digital manuscript, completely rewrote the story, and recently
+        published it on Amazon’s Kindle publishing site. BTW, for more info on how the original
         digital manuscript migrated from machine to machine over that thirty year period, see the
-        Authorâ€™s Note on the home page for my novel, [
+        Author’s Note on the home page for my novel, [
           Second Cousins
         ](http://parrot-farm.net/Second-Cousins/).
 
-â€
+”
 
-â€œ
+“
 
 
         [Hubfolio/Matthew Casperson: Installing Gnome Shell Extensions in OpenSuse 11.4](http://www.brighthub.com/hubfolio/matthew-casperson/blog/archive/2011/04/26/installing-gnome-shell-extensions-in-opensuse-11-4.aspx)
@@ -878,9 +878,9 @@ Recent news points to authors making a dramatic shift from traditional publishin
 
 [Gnome Shell Extensions](https://live.gnome.org/GnomeShell/Extensions) provide a number of official enhancements to the Gnome 3 desktop. There is an RPM called gnome-shell-extenions available in an [OpenSuse repo](http://download.opensuse.org/repositories/GNOME:/Factory/openSUSE_Factory/), but this did not work for me. Instead you can download and make the extensions for yourself using the following commands. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Andrew Wafaa: Pixel Limits With The Intel 945GME](http://www.wafaa.eu/entry/pixel-limits-with-the-intel-945gme-1-63.html)
@@ -891,17 +891,17 @@ Just a quick post to enlighten those that use an Intel 945GME powered machine of
 
 I'm a full time user of the spiffy new GNOME3 with the fancy gnome-shell mojo. As such
         it's on my primary machine, which at the moment is an eeePC 1000HE. Yup, that's a netbook
-        with a small 10" screen and relatively low resolution of 1024x600 pixels. Â As I'm sat at my
+        with a small 10" screen and relatively low resolution of 1024x600 pixels.  As I'm sat at my
         desk I thought I would use my 17" Dell LCD monitor. So I plugged it in and selected
           'System Settings>Displays' Without any issue it saw my external monitor and allowed me to
         enable it. I chose not to mirror displays as I'd like to take advantage of the larger
         screen. (...)
 
-â€
+”
 
 ### For Commandline/Script Newbies
 
-â€œ
+“
 
 
         [BashShell.net/mike: Linux stat Command](http://bashshell.net/commands/linux-stat-command/)
@@ -922,15 +922,15 @@ Change: 2010-08-16 09:44:57.000000000 -0600
 
 (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linuxaria: Signals in Linux](http://www.linuxaria.com/howto/signals-linux?lang=en)
       
 
-While i was surfing the net iâ€™ve found this article By Matteo Ferrone about Linux signals, that i want to repost:
+While i was surfing the net i’ve found this article By Matteo Ferrone about Linux signals, that i want to repost:
 
 
 
@@ -940,17 +940,17 @@ A signal is an event sent by the kernel to a running program.
 
 The signals can arrive at any time and software can choose what to do when it arrives: it can decide to ignore it or may decide to execute a signal handler and continue with what he did. (...)
 
-â€
+”
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 
         [Python4Kids/Brendan Scott: New Tutorial - Baby Steps With Our Text Editor](http://python4kids.wordpress.com/2011/05/02/baby-steps-with-our-text-editor/)
       
 
-In this tutorial weâ€™re going to start using the power of the text editor that Iâ€™ve been
+In this tutorial we’re going to start using the power of the text editor that I’ve been
         badgering you about over the last few tutorials. We are going to go back to the earlier
         tutorials and resurrect some of the code there.
 
@@ -959,14 +959,14 @@ In this tutorial weâ€™re going to start using the power of the text editor 
 Create a new document with your text editor
 
 Save the document to a file called trivia.py You need to be careful that your text
-        editor doesnâ€™t add â€˜.txtâ€™ to the end of the fileâ€™s name as some have the habit of
+        editor doesn’t add ‘.txt’ to the end of the file’s name as some have the habit of
         doing.
 
 copy the following function into the file ([originally found here](http://python4kids.wordpress.com/2010/09/22/trivia-game-part-2/), with some comments dropped): (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Database Journal/Robert Gravelle: Three Ways to Identify Non-matching Records in MySQL](http://www.databasejournal.com/features/mysql/three-ways-to-identify-non-matching-records-in-mysql.html)
@@ -974,9 +974,9 @@ copy the following function into the file ([originally found here](http://python
 
 There are many times as a database developer and administrator that you'll want to know what entities are being excluded from a straight table join. For instance, it would be instructive for management to identify sales people who haven't received any bonuses, as these might be deemed to be the underperformers. To provide the requestor with the statistics, you'll have to determine which sales people are absent from the bonuses table. This is commonly referred to as a Non-matching query, although it is sometimes called a Subtract or Set Difference query as well. MySQL provides not one but three standard means of producing non-matching results. I will be presenting each here, along with another that you might not have considered. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [DevX.com/Jason Gilmore: Mono Development 101: Build Linux Desktop Apps with .NET](http://www.devx.com/opensource/Article/46936)
@@ -992,11 +992,11 @@ I recently encountered this very problem when searching for streaming radio appl
 
 As it turns out, there are quite a few open source solutions, but one in particular happens to be .NET-specific. That solution is [Mono](http://www.mono-project.com/Main_Page), an open source, cross platform C# implementation. In this article I'll document how I've begun using Mono. (...)
 
-â€
+”
 
 ### For System Administrators
 
-â€œ
+“
 
 
         [Novell Cool Solutions/jrecord: supportconfig for Linux](http://www.novell.com/communities/node/2332/supportconfig-linux)
@@ -1004,11 +1004,11 @@ As it turns out, there are quite a few open source solutions, but one in particu
 
 The **updateSupportutils** command compares the current versions of supportutils and its plugins to those installed on your server. Those that are outdated or missing are automatically downloaded and installed. Only those plugins that apply to your server are installed. The command supports creating a weekly or monthly cron entry to automatically check and update the supportutils package and its plugins. Click [here](http://download.opensuse.org/repositories/Novell:/NTS/SLE_10/noarch/) to see a list of the current supportutils and plugin packages. The updateSupportutils command help screen follows: (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
-â€œ
+“
 
 [Jos
         Poortvliet: Code of Conduct or anti-harassment policy](http://blog.jospoortvliet.com/2011/05/code-of-conduct-or-anti-harassment.html)
@@ -1040,9 +1040,9 @@ As I've already been convinced that we **do** need to think
 You can find the [Code of
         Conduct draft on the wiki](http://en.opensuse.org/openSUSE:Code_of_Conduct) and would love input! 
 
-â€
+”
 
-â€œ
+“
 
 [Michael Meeks: LibreOffice is the future of Free Software Office suites](http://people.gnome.org/~michael/blog/2011-05-09-libreoffice-fud.html)
 
@@ -1076,11 +1076,11 @@ Of course, having vendor neutrality around open standards is also good, but this
       with a fun community to stand behind it, rather than the different good of enabling
       competition between implementations. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
 
-â€œ
+“
 
 
       [Please share experience with SD card 'drive' use in Linux](http://forums.opensuse.org/english/other-forums/community-fun/surveys-polls/459461-please-share-experience-sd-card-drive-use-linux.html)
@@ -1090,9 +1090,9 @@ Of course, having vendor neutrality around open standards is also good, but this
       In most linuces the developpers spent lots of time and energy to improve boottime and startup time of applications. Work has been done to the kernel, we have systemd and the desktop environment developpers have done their share too. The last couple of years we've also seen the introduction of Solid State Disks, "disks" based on memory cards, instead of turning platters. One of the main advantages of these SSDs is that their access for reading and writing is much faster than the traditional HDD's, so booting and starting applications should be faster, and indeed is faster. Disadvantage is the difference in price per GB of storage. Recently less expensive SSDs have appeared on the market, our admin oldcpu is asking people to share their experiences.
     
 
-â€
+”
 
-â€œ
+“
 
 
       [Microsoft buys Skype](http://forums.opensuse.org/english/other-forums/community-fun/general-chit-chat/459591-microsoft-buys-skype.html)
@@ -1102,9 +1102,9 @@ Of course, having vendor neutrality around open standards is also good, but this
       Since Skype, the free (as in free of charge) Voice Over IP Client for internet telephony, had linux versions available, it was clear that the news of Microsoft buying it would draw a lot of attention, This thread shows how users react, additions to the initial news are quoted. Always interesting to see how the community takes news like this.
       
 
-â€
+”
 
-â€œ
+“
 
 
       [Problems updating or dowloading certain softfware openSUSE 11.4](http://forums.opensuse.org/english/get-technical-help-here/applications/458014-problems-updating-dowloading-certain-softfware-opensuse-11-4-a.html)
@@ -1114,9 +1114,9 @@ Of course, having vendor neutrality around open standards is also good, but this
       People coming from "the other operating system" are used to download desired software, install it. Linux distributions are different, they all use some form of "package management". One could see this thread as a collection of detailed information on how to use such a package management system. Nice read for those starting with openSUSE to get some basic knowledge on how downloading and installing software works in openSUSE.
       
 
-â€
+”
 
-â€œ
+“
 
 
     [Do you use Anti-Virus on openSUSE? Which one?](http://forums.opensuse.org/english/get-technical-help-here/applications/459146-do-you-use-anti-virus-opensuse-one.html)
@@ -1126,30 +1126,30 @@ Of course, having vendor neutrality around open standards is also good, but this
       A returning issue in the forums. Of course, linux is not invulnerable, but we've never seen serious linux virusses out in the wild. Yet we have anti virus programs available. Our member Daax pops the question, the replies flying in show it's still some kind of a hot issue. If you want to know how openSUSE users respond to the title's questions, read ahead
       
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Reports
 
-â€œ
+“
 
 
         [ZDNet/Steven J. Vaughan-Nichols: Novell will continue to support LibreOffice](http://www.zdnet.com/blog/open-source/novell-will-continue-to-support-libreoffice/8866)
       
 
-While [Attachmate has talked a lot about its plans for Novell](http://www.zdnet.com/blog/open-source/attachmate-reveals-novell-suse-linux-plans/8771) after it [bought Novell](http://www.zdnet.com/blog/open-source/novell-deals-done/8755), no one saw [Attachmate closing down Novellâ€™s Mono programming effort](http://www.zdnet.com/blog/open-source/is-mono-dead-is-novell-dying/8821). Indeed, other than cutting Novellâ€™s work-force by 25%, Attachmate has said little concrete about the companyâ€™s open-source plans. I have learned from sources though that [LibreOffice](http://www.libreoffice.org/), the open-source office suite, will continue to receive [Novell](http://www.novell.com/)â€™s support. (...)
+While [Attachmate has talked a lot about its plans for Novell](http://www.zdnet.com/blog/open-source/attachmate-reveals-novell-suse-linux-plans/8771) after it [bought Novell](http://www.zdnet.com/blog/open-source/novell-deals-done/8755), no one saw [Attachmate closing down Novell’s Mono programming effort](http://www.zdnet.com/blog/open-source/is-mono-dead-is-novell-dying/8821). Indeed, other than cutting Novell’s work-force by 25%, Attachmate has said little concrete about the company’s open-source plans. I have learned from sources though that [LibreOffice](http://www.libreoffice.org/), the open-source office suite, will continue to receive [Novell](http://www.novell.com/)’s support. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Christoph Feck: Troubleshooting kded4 Bugs](http://kdepepo.wordpress.com/2011/05/11/troubleshooting-kded4-bugs/)
       
 
 Not just recently, but as long as KDE exists, we are getting bug reports for the KDE
-        process â€œkded4â€œ. These include:
+        process “kded4“. These include:
 
   * kded4 crashes
 
@@ -1162,25 +1162,25 @@ Not just recently, but as long as KDE exists, we are getting bug reports for the
 Before I dive into troubleshooting those problems, let me explain what kded4 does and
         how it works. (...)
 
-â€
+”
 
 ### Reviews and Essays
 
-â€œ
+“
 
 
         [ZDNet/Steven J. Vaughan-Nichols: Return of the Linux Quiz](http://www.zdnet.com/blog/open-source/return-of-the-linux-quiz/8843)
       
 
-Hi there, itâ€™s Steven J. Vaughan-Nichols again, ZDNetâ€™s resident Linux expert, with yet another Linux quiz. This test is purely for your amusement and should not be used to determine if youâ€™re ready for your RHCE exam.
+Hi there, it’s Steven J. Vaughan-Nichols again, ZDNet’s resident Linux expert, with yet another Linux quiz. This test is purely for your amusement and should not be used to determine if you’re ready for your RHCE exam.
 
 
 
 Instructions: Click on your answer and then see how many others agree with you. Then click to see the answer and the next question. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Datamation/Bruce Byfield: Are Usability Studies Hurting the Free Desktop?](http://itmanagement.earthweb.com/osrc/article.php/3933061/Are-Usability-Studies-Hurting-the-Free-Desktop.htm)
@@ -1192,9 +1192,9 @@ The recent history of new interfaces on the free desktop is not a happy one. Thr
 
 Looking at these reactions, I am starting to wonder: Are the developers of free desktops become obsessed with design principles at the expense of what users actually want? (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [QT Labs/Lars Knoll:
@@ -1213,19 +1213,19 @@ To also, in the future, be a leading edge development framework across multiple
         industries, Qt needs to continue to renew itself. Qt 4 has been an evolution, and I have
         been thinking about what future Qt versions might look like from a technical perspective.
         Over the last years we have been working on laying the foundations for the next major
-        release. I see Qt Quick, QML Scenegraph and Project Lighthouseâ€“ combined with an increased
-        focus on Qt Webkit â€“ as the foundation which we plan to use to move towards a new major
+        release. I see Qt Quick, QML Scenegraph and Project Lighthouse– combined with an increased
+        focus on Qt Webkit – as the foundation which we plan to use to move towards a new major
         release of Qt.
 
 Given that Qt is moving into open governance mode in the upcoming months, I wanted to
         share my thinking with the Qt community in order to kick off the discussions about what I
         see as the technical architecture for Qt 5. (...)
 
-â€
+”
 
 ### Warning!
 
-â€œ
+“
 
 [JP Rosevear:
         WebGL](http://blog.jprosevear.org/2011/05/13/webgl-security/)
@@ -1244,9 +1244,9 @@ The Denial of Service attack does not generally endanger user data or privacy, b
         even more. There are also user confirmation approaches available as well depending on what
         real world data we uncover over time. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/kH55SM) and let us know! 
 
@@ -1284,7 +1284,7 @@ Wish to **donate**? [
       ![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/135641/openSUSE-Weekly-News)
   
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -1294,11 +1294,11 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -1312,7 +1312,7 @@ We thank for this Issue:
 
   * [iJoomla](http://www.ijoomla.com), Surveys
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -1320,12 +1320,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 175 is available in: 
 

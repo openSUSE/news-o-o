@@ -15,13 +15,13 @@ categories:
 
 Yesterday was World IPv6 Day and openSUSE [participated](http://news.opensuse.org/2011/05/31/opensuse-and-world-ipv6-day/) in it. We hope the experiment was as successful for the other participants as it was for us!
 
-Here is a short status update from the openSUSE infrastructure. openSUSE has currently two major server locations and we tested IPv6 at both separately.Â  Note that there are more openSUSE infrastructure locations, including the server which runs the popular [planet.opensuse.org](../planet.opensuse.org) (which supports IPv6 as well now)!<!-- more -->
+Here is a short status update from the openSUSE infrastructure. openSUSE has currently two major server locations and we tested IPv6 at both separately.  Note that there are more openSUSE infrastructure locations, including the server which runs the popular [planet.opensuse.org](../planet.opensuse.org) (which supports IPv6 as well now)!<!-- more -->
 
 
-## NÃ¼rnberg
+## Nürnberg
 
 
-In NÃ¼rnberg, Germany, the following main services were enabled:
+In Nürnberg, Germany, the following main services were enabled:
 
 
 
@@ -83,4 +83,4 @@ The following problems were solved during World IPv6 day:
 In conclusion, the world IPv6 day participation showed openSUSE to be quite ready for IPv6 - and we will work on fixing the few problems we encountered.
 
 I'd like to mention two people especially and thank them for their hard work, great help and enthusiasm:
-_Christian Deckelmann_ (who provides us with the needed infrastructure, resources and knowledge) and _Marcus RÃ¼ckert_ (who handled all the configuration changes and patches that are needed on our servers).
+_Christian Deckelmann_ (who provides us with the needed infrastructure, resources and knowledge) and _Marcus Rückert_ (who handled all the configuration changes and patches that are needed on our servers).

@@ -20,7 +20,7 @@ tags:
 
 
 	
-  * Wiki Cleanup â€“ Geeko wants you!
+  * Wiki Cleanup – Geeko wants you!
 
 	
   * Masim Sugianto: Recover Deleted Files  on Linux with Extundelete
@@ -29,7 +29,7 @@ tags:
   * Updated GNOME for openSUSE 11.2, and  why it's good
 
 	
-  * Carlos GonÃ§alves: PySide packages for  openSUSE, Mandriva and Fedora
+  * Carlos Gonçalves: PySide packages for  openSUSE, Mandriva and Fedora
 
 	
   * Skype 2.1 beta 2 aka Talking Screens  for Linux

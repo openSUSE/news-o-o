@@ -72,7 +72,7 @@ B1 likes to have a lot of fun and will be sponsoring [**the Geek Saloon and Danc
 [![](http://conference.opensuse.org/wp-content/uploads/Qt_logostrap_CMYK_smaller.png)](http://www.b1-systems.de/)
 
 
-[The Qt Developer Frameworks team at Nokia](http://qt.nokia.com/) will support the openSUSE conference as Bronze sponsor. While there are no Qt only sessions, a number of talks will be about technologies based upon Qt. Sebastian KÃ¼gler (from [openSLX](http://XXXXXXXXXXXX)) will talk about Plasma Active and getting openSUSE, Qt and KDE on tablet and mobile devices while Martin GrÃ¤ÃŸlin will talk about the work being done on Wayland support in KDE. You can expect some on-the-spot organized sessions as well. Qt's contribution was instrumental in our [Conference travel support program](http://news.opensuse.org/2011/07/23/travel-sponsorship-program/)!
+[The Qt Developer Frameworks team at Nokia](http://qt.nokia.com/) will support the openSUSE conference as Bronze sponsor. While there are no Qt only sessions, a number of talks will be about technologies based upon Qt. Sebastian Kügler (from [openSLX](http://XXXXXXXXXXXX)) will talk about Plasma Active and getting openSUSE, Qt and KDE on tablet and mobile devices while Martin Gräßlin will talk about the work being done on Wayland support in KDE. You can expect some on-the-spot organized sessions as well. Qt's contribution was instrumental in our [Conference travel support program](http://news.opensuse.org/2011/07/23/travel-sponsorship-program/)!
 
 
 ### Bronze partner Aero Access giving us bandwidth

@@ -447,7 +447,7 @@ I already have an UPS, due to:
 * bad electric stability in certain apartment buildings
 * common thunderbolt hitpoint no more than 600m away.
 
-So no â€” nothing ain't interrupting my work no more.
+So no — nothing ain't interrupting my work no more.
 
 
 

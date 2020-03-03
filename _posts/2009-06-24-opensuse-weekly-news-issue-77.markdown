@@ -14,7 +14,7 @@ categories:
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #77 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/77)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
  
 
   * openSUSE Factory is now open 

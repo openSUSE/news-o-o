@@ -22,7 +22,7 @@ categories:
 
 
 
-Evergreen needs you! To make a version for 11.2 also released and to guarantee the quality of evergreen, weÂ´re searching developers, packagers and also marketing people who are interested in creating a LTS-version of your favourite Linux-distro, openSUSE.
+Evergreen needs you! To make a version for 11.2 also released and to guarantee the quality of evergreen, we´re searching developers, packagers and also marketing people who are interested in creating a LTS-version of your favourite Linux-distro, openSUSE.
 
 
 See what Wolfgang Rosenauer, lead developer of Evergreen is saying about this:

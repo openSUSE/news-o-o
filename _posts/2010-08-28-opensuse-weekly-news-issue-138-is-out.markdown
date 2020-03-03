@@ -47,7 +47,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 138!
   * [ Andreas Jaeger: Revising the Board Election Rules](http://news.opensuse.org/?p=4073#Andreas_Jaeger:_Revising_the_Board_Election_Rules)
 
 
-  * [ Sebastian KÃ¼gler: Demystifying Akonadi](http://news.opensuse.org/?p=4073#Sebastian_K.C3.BCgler:_Demystifying_Akonadi)
+  * [ Sebastian Kügler: Demystifying Akonadi](http://news.opensuse.org/?p=4073#Sebastian_K.C3.BCgler:_Demystifying_Akonadi)
 
 
   * [ Will Stephenson: openSUSE Boosters at FrOSCon, Day 2](http://news.opensuse.org/?p=4073#Will_Stephenson:_openSUSE_Boosters_at_FrOSCon.2C_Day_2)
@@ -515,10 +515,10 @@ Meeting minutes
 
 
 
-####  [Sebastian KÃ¼gler: Demystifying Akonadi](http://vizzzion.org/blog/2010/08/demystifying-akonadi/)
+####  [Sebastian Kügler: Demystifying Akonadi](http://vizzzion.org/blog/2010/08/demystifying-akonadi/)
 
 
-"The exotic-sounding â€˜Akonadiâ€™ refers to both a mythological figure and the KDE platformâ€™s central information framework. This article will dispel some of the mystery about how Akonadi will improve performance and integration, and how it is being rolled out into KDE applications. Iâ€™ll also provide some insight how the technology works, and what will become possible with this new PIM framework.  Many people have been asking what the status of the new, Akonadi-based Kontact Groupware suite is. As Iâ€™ve been working closely with the PIM hackers, I thought Iâ€™d give my readers a heads-up on whatâ€™s going on and what to expect. In this article, I will often take KMail as an example for the port, but similar things apply to the other PIM applications that form the Kontact suite as well." 
+"The exotic-sounding ‘Akonadi’ refers to both a mythological figure and the KDE platform’s central information framework. This article will dispel some of the mystery about how Akonadi will improve performance and integration, and how it is being rolled out into KDE applications. I’ll also provide some insight how the technology works, and what will become possible with this new PIM framework.  Many people have been asking what the status of the new, Akonadi-based Kontact Groupware suite is. As I’ve been working closely with the PIM hackers, I thought I’d give my readers a heads-up on what’s going on and what to expect. In this article, I will often take KMail as an example for the port, but similar things apply to the other PIM applications that form the Kontact suite as well." 
 </td>
 </tr>
 </tbody>
@@ -557,7 +557,7 @@ Meeting minutes
 ####  [Stephen Shaw: Mono Accessibility 2.1 Released](http://feedproxy.google.com/%7Er/decriptor/qXWe/%7E3/OiQgRCJwOIM/)
 
 
-"We just released our first 2.x series update this week. This release brings a 127 bug fixes.  Over the last several months a fair amount of attention has been paid to improving at-spi2 as well. For those that donâ€™t know what at-spi2 is its the next generation of Assistive Technology Service Provider Interface. The new at-spi2 using dbus in an effort to remove corba and bonobo from the gnome stack."  
+"We just released our first 2.x series update this week. This release brings a 127 bug fixes.  Over the last several months a fair amount of attention has been paid to improving at-spi2 as well. For those that don’t know what at-spi2 is its the next generation of Assistive Technology Service Provider Interface. The new at-spi2 using dbus in an effort to remove corba and bonobo from the gnome stack."  
 
 
 ####  [Mario Carrion: Mono Accessibility 2.1](http://blog.carrion.mx/2010/08/26/mono-accessibility-2-1/)
@@ -735,7 +735,7 @@ Meeting minutes
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -787,13 +787,13 @@ Meeting minutes
 ####  [Will Stephenson: openSUSE Boosters at FrOSCon, Day 2](http://lizards.opensuse.org/2010/08/22/opensuse-boosters-at-froscon-day-2/)
 
 
-"Back home in Nuernberg now â€“ Sunday has been a long day of hacking on Elgg and its plugins to shape it into a users site that knows about the social side of the openSUSE community.  Our â€˜Hack Meckâ€™ was a little bit harder after letting loose at the legendary FrOSCon Saturday night party in the balmy August air, but we still managed to put down the glow sticks, hammer the keys and reach our goals for the weekend. These were adapting the user data to include fields that are peculiar to openSUSE such as membership status and IRC cloak, enhancing the Poll plugin to meet our info gathering needs, adapting the Elgg theming to our ubiquitous Bento theme, and working on calendaring and events so that we all know what is coming next in openSUSE world and so you can display your packaging and bug-reporting achievements to the world."  
+"Back home in Nuernberg now – Sunday has been a long day of hacking on Elgg and its plugins to shape it into a users site that knows about the social side of the openSUSE community.  Our ‘Hack Meck’ was a little bit harder after letting loose at the legendary FrOSCon Saturday night party in the balmy August air, but we still managed to put down the glow sticks, hammer the keys and reach our goals for the weekend. These were adapting the user data to include fields that are peculiar to openSUSE such as membership status and IRC cloak, enhancing the Poll plugin to meet our info gathering needs, adapting the Elgg theming to our ubiquitous Bento theme, and working on calendaring and events so that we all know what is coming next in openSUSE world and so you can display your packaging and bug-reporting achievements to the world."  
 
 
 ####  [Nelson Marques: The Concept of Marketing and openSUSE Conference 2010](http://nmarques.digitalwhores.net/2010/08/25/the-concept-of-marketing-and-opensuse-conference-2010/)
 
 
-"Dear openSUSE contributor and enthusiast, Is Marketing important for Free Software development? I hope to reach an answer in openSUSE Conference 2010 with the community and help the openSUSE Community to develop their own concepts of Marketing. I believe this is a very sensible and important task that I could accomplish with your help and participation on my small presentation.  My presentation will target â€˜The Concept of Marketing and FOSS Developmentâ€™ and it goal is to establish a Concept of Marketing that can be developed by the openSUSE Community based on a set of small concepts defined by Marketing, such as: trade, value, consumer or processes."  
+"Dear openSUSE contributor and enthusiast, Is Marketing important for Free Software development? I hope to reach an answer in openSUSE Conference 2010 with the community and help the openSUSE Community to develop their own concepts of Marketing. I believe this is a very sensible and important task that I could accomplish with your help and participation on my small presentation.  My presentation will target ‘The Concept of Marketing and FOSS Development’ and it goal is to establish a Concept of Marketing that can be developed by the openSUSE Community based on a set of small concepts defined by Marketing, such as: trade, value, consumer or processes."  
 
 
 ###  Welcome new Members (Corner for new acknowledged Members)
@@ -808,7 +808,7 @@ Meeting minutes
   * [Kyrill Detinov (Lazy_Kent)](https://users.opensuse.org/show/Lazy_Kent) Very active in Bugzilla, Mailinglists and BuildService 
 
 
-  * [Sebastian KÃ¼gler (vizzzion)](https://users.opensuse.org/show/vizzzion) Active opensuse-kde developer. Also active in Mailinglists and Bugzilla. 
+  * [Sebastian Kügler (vizzzion)](https://users.opensuse.org/show/vizzzion) Active opensuse-kde developer. Also active in Mailinglists and Bugzilla. 
 
 
   * [Christian Wittmer (computersalat)](https://users.opensuse.org/show/computersalat) He is active in the Buildservice." 
@@ -843,7 +843,7 @@ Past:
 
 
 
-  * [**August 31-September 1, 2010: LinuxCon Brasil 2010 (SÃ£o Paulo/Brazil)**](http://events.linuxfoundation.org/events/linuxcon-brazil)
+  * [**August 31-September 1, 2010: LinuxCon Brasil 2010 (São Paulo/Brazil)**](http://events.linuxfoundation.org/events/linuxcon-brazil)
 
 
   * [** September 1, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
@@ -852,13 +852,13 @@ Past:
   * [** September 2, 2010: openSUSE KDE Team Meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
-  * [**September 7, 2010: VOLDAY 2 (SÃ£o Paulo/Brazil)**](http://volcon.org/volday2/)
+  * [**September 7, 2010: VOLDAY 2 (São Paulo/Brazil)**](http://volcon.org/volday2/)
 
 
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -963,7 +963,7 @@ Past:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1187,10 +1187,10 @@ Rares Aioanei gives a good Weekly Review about the Kernel.
 
 
 
-####  [makeuseof.com/Justin Pot: BleachBit â€“ A Utility To Clean Up Your Linux System](http://www.makeuseof.com/tag/bleachbit-utility-clean-linux-system/)
+####  [makeuseof.com/Justin Pot: BleachBit – A Utility To Clean Up Your Linux System](http://www.makeuseof.com/tag/bleachbit-utility-clean-linux-system/)
 
 
-"Itâ€™s no secret: many programs fill your hard drive with well-meaning, but useless, crap. From browser caches to install leftovers to logs, computers are full of unnecessary information.  Windows users can turn to CCleaner â€“ a program that can make your computer run faster - to systematically remove such fluff from their drive. But what about Linux users who need to wipe and clean their Linux machine?" You can find bleachbit in our Repositories: [http://bit.ly/a1oiiK](http://bit.ly/a1oiiK) 
+"It’s no secret: many programs fill your hard drive with well-meaning, but useless, crap. From browser caches to install leftovers to logs, computers are full of unnecessary information.  Windows users can turn to CCleaner – a program that can make your computer run faster - to systematically remove such fluff from their drive. But what about Linux users who need to wipe and clean their Linux machine?" You can find bleachbit in our Repositories: [http://bit.ly/a1oiiK](http://bit.ly/a1oiiK) 
 
 
 ###  For Commandline/Script Newbies
@@ -1228,7 +1228,7 @@ Rares Aioanei gives a good Weekly Review about the Kernel.
 ####  [IBM developerWorks/Wei Dong Xie: Avoiding memory leaks in POSIX thread programming](http://www.ibm.com/developerworks/linux/library/l-memory-leaks/)
 
 
-"POSIX thread programming defines a standard set of C programming language types, functions, and constantsâ€”and pthreads provide a powerful tool for thread management. To use pthreads to the fullest, you'll want to avoid the common mistakes. One common mistake is forgetting to join joinable threads, which can create memory leaks and cause extra work. In this tips-oriented article, learn the basics of POSIX threads, see how to identify and detect thread memory leaks, and get solid advice for avoiding them." 
+"POSIX thread programming defines a standard set of C programming language types, functions, and constants—and pthreads provide a powerful tool for thread management. To use pthreads to the fullest, you'll want to avoid the common mistakes. One common mistake is forgetting to join joinable threads, which can create memory leaks and cause extra work. In this tips-oriented article, learn the basics of POSIX threads, see how to identify and detect thread memory leaks, and get solid advice for avoiding them." 
 
 
   
@@ -1248,13 +1248,13 @@ Rares Aioanei gives a good Weekly Review about the Kernel.
 ####  [Jared Ottley: Alfresco: Permissions Web Scripts](http://feeds.ottleys.net/%7Er/jaredottley/%7E3/kQP5f3fZqJA/alfresco-permissions-web-scripts)
 
 
-"A couple of months back I was asked to write a couple of web scripts to help one of our customers to be able to check and modify permissions for content/spaces in the Alfresco repository. Iâ€™ve finally had the chance to spend sometime testing and now writing about them.  The core of the web scripts was quick to write. The fun (more time consuming) part was working with exception handling in javascipt. I know tons of fun right! There are few different ways to use exception handling based on which version of Alfresco you are using. The customer is on Enterprise 3.1 and I wanted to make sure that the web scripts also worked on the more current releases of Alfresco as well. A change (re: addition) was made in Enterprise 3.2.1 and Community 3.3 to help simplify exception handeling. Iâ€™ll talk about exception handling and these differences in a follow up post. For now letâ€™s talk about these new web scripts."  
+"A couple of months back I was asked to write a couple of web scripts to help one of our customers to be able to check and modify permissions for content/spaces in the Alfresco repository. I’ve finally had the chance to spend sometime testing and now writing about them.  The core of the web scripts was quick to write. The fun (more time consuming) part was working with exception handling in javascipt. I know tons of fun right! There are few different ways to use exception handling based on which version of Alfresco you are using. The customer is on Enterprise 3.1 and I wanted to make sure that the web scripts also worked on the more current releases of Alfresco as well. A change (re: addition) was made in Enterprise 3.2.1 and Community 3.3 to help simplify exception handeling. I’ll talk about exception handling and these differences in a follow up post. For now let’s talk about these new web scripts."  
 
 
 ####  [IBMDeveloperWorks/Ian Shields: Learn Linux, 101: Maintain the integrity of filesystems](http://www.ibm.com/developerworks/linux/library/l-lpic1-v3-104-2/index.html?ca=drs-)
 
 
-"Learn how to check the integrity of your LinuxÂ® filesystems, monitor free space, and fix simple problems. Use the material in this article to study for the Linux Professional Institute (LPI) 101 exam for Linux system administrator certificationâ€”or just to check your filesystems and keep them in good working order, especially after a system crash or power loss." 
+"Learn how to check the integrity of your Linux® filesystems, monitor free space, and fix simple problems. Use the material in this article to study for the Linux Professional Institute (LPI) 101 exam for Linux system administrator certification—or just to check your filesystems and keep them in good working order, especially after a system crash or power loss." 
 </td>
 </tr>
 </tbody>
@@ -1298,13 +1298,13 @@ Rares Aioanei gives a good Weekly Review about the Kernel.
 ####  [Wolfgang Rosenauer: Call for testing: Firefox 4.0b4 on KDE (and in general)](http://www.rosenauer.org/blog/2010/08/23/call-for-testing-firefox-4-0b4-on-kde-and-in-general/)
 
 
-"If you are brave enough feel free to update to Firefox 4.0b4 from the mozilla:beta repository. It will not install in parallel to previous versions but will replace your existing Firefox package. As always you want to backup your profile before so you can go back to your previous version without problems.  The latest package contains the KDE integration patches we had in FF3.x which are pretty much untested. So if you run KDE and want to give it a try please report issues you find in Novellâ€™s Bugzilla."  
+"If you are brave enough feel free to update to Firefox 4.0b4 from the mozilla:beta repository. It will not install in parallel to previous versions but will replace your existing Firefox package. As always you want to backup your profile before so you can go back to your previous version without problems.  The latest package contains the KDE integration patches we had in FF3.x which are pretty much untested. So if you run KDE and want to give it a try please report issues you find in Novell’s Bugzilla."  
 
 
 ####  [Holger Hetterich: SMBTA documentation improving](http://holger123.wordpress.com/2010/08/24/smbta-documentation-improving/)
 
 
-"While we are working on getting a first release of smbtad and smbtatools out of the door, weâ€™ve just released the â€œSMB Traffic Analyzer Guideâ€œ. This is the very first version. The goal of the guide is to have a complete documentation of all components of SMB Traffic Analyzer. We know this initial version has itâ€™s problems, but we will continue to improve the SMBTA guide by time. So before you complain, sit back, rest, and think about this is work in progress."  
+"While we are working on getting a first release of smbtad and smbtatools out of the door, we’ve just released the “SMB Traffic Analyzer Guide“. This is the very first version. The goal of the guide is to have a complete documentation of all components of SMB Traffic Analyzer. We know this initial version has it’s problems, but we will continue to improve the SMBTA guide by time. So before you complain, sit back, rest, and think about this is work in progress."  
 
 
 ####  [LenZ Grimmer: OpenSQL Camp Europe and FrOSCon: A summary](http://www.lenzg.net/archives/309-OpenSQL-Camp-Europe-and-FrOSCon-A-summary.html)
@@ -1322,19 +1322,19 @@ Rares Aioanei gives a good Weekly Review about the Kernel.
 ####  [Mike McCallister: Can I Get a 30-hour Day? Searching for Linux Project Management Tools](http://metaverse.wordpress.com/2010/08/25/can-i-get-a-30-hour-day-searching-for-linux-project-management-tools/)
 
 
-"My life is getting far too complex to handle simply. Fall is coming, and Iâ€™m beginning to think Iâ€™m overbooking myself. Consider this: 
+"My life is getting far too complex to handle simply. Fall is coming, and I’m beginning to think I’m overbooking myself. Consider this: 
 
 
-  * Iâ€™m working on another book project that I canâ€™t talk about yet. ;-) 
+  * I’m working on another book project that I can’t talk about yet. ;-) 
 
 
-  * Iâ€™m way behind in working through the SitePoint web development classes I wrote about a few weeks ago. 
+  * I’m way behind in working through the SitePoint web development classes I wrote about a few weeks ago. 
 
 
-  * Iâ€™m speaking to the Madison Linux Users Group (MadLUG) about openSUSE 11.3 on November 6 (Did I mention that before?), and have to create that presentation. 
+  * I’m speaking to the Madison Linux Users Group (MadLUG) about openSUSE 11.3 on November 6 (Did I mention that before?), and have to create that presentation. 
 
 
-  * Iâ€™m probably leading at least one session at BarCampMilwaukee 5 (which I did mention last week) October 2-3. The minimum is likely to be a dress rehearsal for the MadLUG event, but stillâ€¦ 
+  * I’m probably leading at least one session at BarCampMilwaukee 5 (which I did mention last week) October 2-3. The minimum is likely to be a dress rehearsal for the MadLUG event, but still… 
 
 
   * I want to write more magazine articles too. 
@@ -1346,12 +1346,12 @@ Rares Aioanei gives a good Weekly Review about the Kernel.
   * There may be still another book project after the one at the top of this list that requires a bunch of preparatory tasks. 
 
 
-  * Iâ€™ve got to mow the lawn weekly and tend to various other homeowner projects. 
+  * I’ve got to mow the lawn weekly and tend to various other homeowner projects. 
 
 
   * Oh, and BTW I still have a day job that fills in 40 hours every week. 
 
-Now between the Web-based app ToodleDo and a lovely Windows-based desktop app called MyLifeOrganized (MLO) that runs pretty well in Wine, Iâ€™ve got my day-to-day task/to-do-lists in good order. But right now, I need something that can help me figure out how to fit all of these big projects into the amount of time left in the day once I get home at night. And, since it is fall, ideally allow me to catch a few football and postseason baseball games in the bargain." 
+Now between the Web-based app ToodleDo and a lovely Windows-based desktop app called MyLifeOrganized (MLO) that runs pretty well in Wine, I’ve got my day-to-day task/to-do-lists in good order. But right now, I need something that can help me figure out how to fit all of these big projects into the amount of time left in the day once I get home at night. And, since it is fall, ideally allow me to catch a few football and postseason baseball games in the bargain." 
 </td>
 </tr>
 </tbody>
@@ -1481,13 +1481,13 @@ Now between the Web-based app ToodleDo and a lovely Windows-based desktop app ca
 ####  [linux.com/Jack Wallen: Talking KDE and openSUSE with Jos Poortvliet](http://www.linux.com/news/enterprise/biz-enterprise/350329-talking-kde-and-opensuse-with-jos-poortvliet)
 
 
-"Recently I had the pleasure of chatting with newly minted openSUSE community manager, and former KDE marketing lead, Jos Poortvliet about user-visible changes brought in the KDE 4.5 release. We asked him ten questions about changes in KDE 4.5, what problems needed to be overcome, and what the future of KDE looks like â€” and his thoughts on openSUSE.  Jos Poortvliet was hired by Novell as openSUSE community manager in early August. Before that he was active as volunteer in the international KDE community as marketing team lead. He coordinated and contributed to the work around releases, creation of marketing materials, visiting and organizing conferences, and maintaining contacts with the press. In his "real" life he worked as business consultant at companies like Royal Bank of Scotland, the dutch Governmental Department of Education and KPN, a major dutch Telecom provider."  
+"Recently I had the pleasure of chatting with newly minted openSUSE community manager, and former KDE marketing lead, Jos Poortvliet about user-visible changes brought in the KDE 4.5 release. We asked him ten questions about changes in KDE 4.5, what problems needed to be overcome, and what the future of KDE looks like — and his thoughts on openSUSE.  Jos Poortvliet was hired by Novell as openSUSE community manager in early August. Before that he was active as volunteer in the international KDE community as marketing team lead. He coordinated and contributed to the work around releases, creation of marketing materials, visiting and organizing conferences, and maintaining contacts with the press. In his "real" life he worked as business consultant at companies like Royal Bank of Scotland, the dutch Governmental Department of Education and KPN, a major dutch Telecom provider."  
 
 
 ####  [LinuxJournal/Doug Roberts: Linux market share](http://www.linuxjournal.com/content/linux-market-share)
 
 
-"In the course of a normal work day I take several little breaks to check the news. On my list of news sites are Slashdot, Linux Journal and Linux Today. Frequently I see something that gives me an idea for an article. Sometimes I even find an article on a topic that I was planning to write about myself. Such was the case today when I came across this well-written piece from the Royal Pingdom Blog referenced on Linux Today. Itâ€™s about the failure of desktop Linux to break the 1% market share barrier, and I confess that it left me a little depressed. But I decided to add my two cents on the subject anyhow."  
+"In the course of a normal work day I take several little breaks to check the news. On my list of news sites are Slashdot, Linux Journal and Linux Today. Frequently I see something that gives me an idea for an article. Sometimes I even find an article on a topic that I was planning to write about myself. Such was the case today when I came across this well-written piece from the Royal Pingdom Blog referenced on Linux Today. It’s about the failure of desktop Linux to break the 1% market share barrier, and I confess that it left me a little depressed. But I decided to add my two cents on the subject anyhow."  
 
 
 ####  [Linux Journal/Susan Linton: Two Distributions Celebrate Birthdays](http://www.linuxjournal.com/content/two-distributions-celebrate-birthdays)
@@ -1499,13 +1499,13 @@ Now between the Web-based app ToodleDo and a lovely Windows-based desktop app ca
 ####  [LinuxTrends.com: Linux distribution popularity trends plotted](http://linuxtrends.com/linux-distribution-popularity-trends/)
 
 
-"In order to get a sense of the popularity of various Linux distributions over the past several years, we entered their names into Googleâ€™s search insights tool and grabbed images of the resulting graphs. The graphs display some fascinating trends and bode well for the future of Linux. (...)"  
+"In order to get a sense of the popularity of various Linux distributions over the past several years, we entered their names into Google’s search insights tool and grabbed images of the resulting graphs. The graphs display some fascinating trends and bode well for the future of Linux. (...)"  
 
 
 ####  [TechCrunch/MG Siegler: Diaspora Three Weeks Away From Unveiling Open-Source Facebook Alternative](http://techcrunch.com/2010/08/26/diaspora-facebook/)
 
 
-"Remember Diaspora? Youâ€™ll be forgiven if you donâ€™t. Since they received a lot of hype as the open-source â€œFacebook Alternativeâ€ this past May, theyâ€™ve been quiet. In fact, they hadnâ€™t given any updates on their progress since early July. But today theyâ€™ve re-emerged with some updates. Notably, they say: â€œWe have Diaspora working, we like it, and it will be open-sourced on September 15th.â€ Thatâ€™s just three weeks away." 
+"Remember Diaspora? You’ll be forgiven if you don’t. Since they received a lot of hype as the open-source “Facebook Alternative” this past May, they’ve been quiet. In fact, they hadn’t given any updates on their progress since early July. But today they’ve re-emerged with some updates. Notably, they say: “We have Diaspora working, we like it, and it will be open-sourced on September 15th.” That’s just three weeks away." 
 
 
   
@@ -1615,7 +1615,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1624,7 +1624,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1684,34 +1684,34 @@ Delayed / to be translated:
   * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/138)
 
 
-  * [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/138)
+  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/138)
 
 
-  * [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/138)
+  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/138)
 
 
-  * [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/138)
+  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/138)
 
 
-  * [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/138)
+  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/138)
 
 
   * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/138/indonesian)
 
 
-  * [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/138/chinese)
+  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/138/chinese)
 
 
   * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/138)
 
 
-  * [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/138)
+  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/138)
 
 
   * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/138)
 
 
-  * [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/138)
+  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/138)
 
 
   * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/138)
@@ -1720,7 +1720,7 @@ Delayed / to be translated:
   * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/138/swedish)
 
 
-  * [ÄŒesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/138)
+  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/138)
 
 
 </td>

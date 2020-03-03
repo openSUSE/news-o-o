@@ -106,14 +106,14 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 **Enjoy reading :-)**
 
-## openSUSE 12.1: All Green!â–¼
+## openSUSE 12.1: All Green!▼
 
 This Special Corner is about Postings about openSUSE 12.1 into the Community and the
       Press.
 
 ### Community Articles
 
-â€œ
+“
 
 
         [openSUSE 12.1: All Green!](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/)
@@ -127,9 +127,9 @@ It is November 16, 2011 and our mirrors have synced. Time to present to you: ope
 
 ![](/wp-content/uploads/2011/11/12.1_Installer-boot1.png)
 
-â€
+”
 
-â€œ
+“
 
 
         [Tejas Guruswamy: openSUSE 12.1 released - spread the word!](http://masterpatricko.blogspot.com/2011/11/opensuse-121-released-spread-word.html)
@@ -144,9 +144,9 @@ Stories are
         appearing on [Slashdot](http://slashdot.org/submission/1851340/opensuse-121-released) and [HackerNews](http://news.ycombinator.com/item?id=3243673). Upvote, comment, discuss! Suggest to the websites and
         magazines you read to run a review. Zonker over at Linux.com has already written an [intro to 12.1 piece](https://www.linux.com/learn/tutorials/510731-opensuse-121-arrives-whats-new-and-what-happened-to-120). (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Martin Schlander: openSUSE 12.1 released](http://mschlander.wordpress.com/2011/11/16/opensuse-12-1-released/)
@@ -167,12 +167,12 @@ As always there are some pain points you should be aware of too:
   * The new default init system systemd might cause you some grief.
 
   * Sun/Oracle Java is no longer included in the distro because of a license change.
-              If OpenJDK is not working for you, youâ€™ll have to get Oracle Java from
+              If OpenJDK is not working for you, you’ll have to get Oracle Java from
               Oracle.com.
 
-â€
+”
 
-â€œ
+“
 
 
         [Andreas Jaeger: What has changed since RC2 in openSUSE 12.1?](http://jaegerandi.blogspot.com/2011/11/just-three-more-days-until-release-of.html)
@@ -188,26 +188,26 @@ Since the release of RC2 quite a number of bugs have been fixed. During the
         online update, thus bugs that break initial installation, installed defaults and the update
         applets. (...)
 
-â€
+”
 
 ### In the Press
 
-â€œ
+“
 
 
         [The Register/Iain Thomson: New openSUSE heads for cloud, virtual markets](http://www.theregister.co.uk/2011/11/17/opensuse_cloud_virtual/)
       
 
 The openSUSE Project has shipped its [12.1 build](http://software.opensuse.org/121/en), with enhanced cloud and virtualization integration tools. It's also
-        the first distro to ship with support for Googleâ€™s Go language.
+        the first distro to ship with support for Google’s Go language.
 
 From the look of the new build, Attachmate has kept [its promise](http://www.theregister.co.uk/2010/11/23/attachmate_opensuse_safe/) to carry on supporting openSUSE after its [$2.2bn deal to buy Novell](http://www.theregister.co.uk/2011/04/28/farewell_novell/). The new code, in line with [the beta El Reg examined last month](http://www.theregister.co.uk/2011/10/17/opensuse_12_point_1_review/), is built around
         kernel 3.1 and contains the latest software, including Firefox 7, Thunderbird 7, LibreOffice
         3.4.3, and GIMP. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [OSNews/Thom Holwerda: openSUSE 12.1 Released](http://www.osnews.com/story/25341/openSUSE_12_1_Released)
@@ -218,9 +218,9 @@ And another popular Linux distribution pushes a new release out the door. This t
         open source desktops and associated tools, there's a few other interesting tidbits in this
         release as well. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online/Chris von Eitzen: openSUSE 12.1 arrives with systemd and Btrfs](http://www.h-online.com/open/news/item/openSUSE-12-1-arrives-with-systemd-and-Btrfs-1380033.html)
@@ -234,9 +234,9 @@ Following two release candidates and [a slight delay](http://www.h-online.com/ne
         Xfce or LXDE desktops which, according to the developers, haven't seen any major feature
         updates since the last openSUSE release. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [DesktopLinux: OpenSUSE 12.1 ships with GNOME 3.2, SystemD, Snapper, Go tools](http://www.desktoplinux.com/news/NS4968533300.html?kc=rss)
@@ -256,9 +256,9 @@ The OpenSUSE project released OpenSUSE 12.1, featuring Linux 3.1, GNOME 3.2, KDE
         touted for being the "first major Linux distribution" to ship both GNOME and KDE with color
         management tools. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linux.com/Joe 'Zonker' Brockmeier: openSUSE 12.1 Arrives: What's New and What Happened to 12.0?](https://www.linux.com/learn/tutorials/510731-opensuse-121-arrives-whats-new-and-what-happened-to-120)
@@ -266,23 +266,23 @@ The OpenSUSE project released OpenSUSE 12.1, featuring Linux 3.1, GNOME 3.2, KDE
 
 The openSUSE Project has released openSUSE 12.1, eight months after 11.4 and the first release since SUSE officially became a subsidiary of Attachmate. With 12.1, openSUSE brings major improvements to openSUSE tools and users' favorite components like GNOME, KDE, LibreOffice, and DigiKam. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [ZDNet/Steven J. Vaughan-Nichols: OpenSUSE's new Linux distribution is for the clouds](http://www.zdnet.com/blog/open-source/opensuses-new-linux-distribution-is-for-the-clouds/9908)
       
 
-When [Novell was bought by Attachmate](http://www.zdnet.com/blog/open-source/novell-deals-done/8755), people [wondered if Novell/SUSEâ€™s community Linux distribution, openSUSE, would even survive](http://www.zdnet.com/blog/open-source/where-novell-suse-linux-goes-from-here/8951). Now, we know, [openSUSE](http://www.opensuse.org/en) lives.
+When [Novell was bought by Attachmate](http://www.zdnet.com/blog/open-source/novell-deals-done/8755), people [wondered if Novell/SUSE’s community Linux distribution, openSUSE, would even survive](http://www.zdnet.com/blog/open-source/where-novell-suse-linux-goes-from-here/8951). Now, we know, [openSUSE](http://www.opensuse.org/en) lives.
 
-The openSUSE Project has released the [latest version of its popular Linux distribution openSUSE 12.1](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green). In a statement, Jos Poortvliet, openSUSE community manager for [SUSE](http://www.suse.com/), said, â€œOpenSUSE 12.1 represents more than eight months of worldwide effort to create one of the industryâ€™s best Linux distributions. The openSUSE distribution and its thousands of open source applications are the result of contributions from individual testers, writers, translators, usability experts, artists, ambassadors, packagers and developers having a lot of fun working together to create a uniquely powerful set of tools and capabilities.â€
+The openSUSE Project has released the [latest version of its popular Linux distribution openSUSE 12.1](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green). In a statement, Jos Poortvliet, openSUSE community manager for [SUSE](http://www.suse.com/), said, “OpenSUSE 12.1 represents more than eight months of worldwide effort to create one of the industry’s best Linux distributions. The openSUSE distribution and its thousands of open source applications are the result of contributions from individual testers, writers, translators, usability experts, artists, ambassadors, packagers and developers having a lot of fun working together to create a uniquely powerful set of tools and capabilities.”
 
 So what does that mean? Well, among other things even more so than [Ubuntu](http://www.zdnet.com/blog/open-source/ubuntu-linux-heads-to-the-clouds/9722), openSUSE is embracing the cloud. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Network World/Julie Bort: OpenSUSE 12.1 bulks up on features for cloud, servers, desktops](http://www.networkworld.com/community/blog/new-opensuse-adds-features-for-cloud-servers-desktops)
@@ -292,19 +292,19 @@ The OpenSUSE project has released its next stable version, a.k.a [OpenSUSE 12.1]
 
 openSUSE includes a feature called "ownCloud," which is a filesharing alternative to services like DropBox. ownCloud has two downsides: it takes some skills to implement it and it doesn't keep the files persistently on your computer to access them offline. openSUSE solves that with its new mirall tool which eases deployment of ownCloud and creates a local folder in which it synchronized local and cloud files. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [TechCrunch/Scott Merrill: openSUSE 12.1 Released](http://techcrunch.com/2011/11/16/opensuse-12-1-released/)
       
 
-[openSUSE](http://www.opensuse.org/en/), the community developed Linux distribution sponsored by SUSE, has released version 12.1 today. At first glance, openSUSE 12.1 is pretty much in line with recent releases from Fedora and Ubuntu: GNOME 3.2, [systemd](http://en.wikipedia.org/wiki/Systemd), etc. But a closer look starts to reveal some real divergence between the various Linux offerings today. For example, while Fedora 16 allows you to choose [btrfs](http://en.wikipedia.org/wiki/Btrfs) for your filesystem, openSUSE 12.1 uses btrfs by default. Thereâ€™s a number of other interesting advancements packed in this release, too. (...)
+[openSUSE](http://www.opensuse.org/en/), the community developed Linux distribution sponsored by SUSE, has released version 12.1 today. At first glance, openSUSE 12.1 is pretty much in line with recent releases from Fedora and Ubuntu: GNOME 3.2, [systemd](http://en.wikipedia.org/wiki/Systemd), etc. But a closer look starts to reveal some real divergence between the various Linux offerings today. For example, while Fedora 16 allows you to choose [btrfs](http://en.wikipedia.org/wiki/Btrfs) for your filesystem, openSUSE 12.1 uses btrfs by default. There’s a number of other interesting advancements packed in this release, too. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [ServerWatch/Sean Michael Kerner: OpenSUSE 12.1 Gets Snappy Release](http://www.serverwatch.com/server-news/opensuse-12.1-gets-snappy-release.html)
@@ -316,9 +316,9 @@ One of the key new features in the openSUSE 12.1 release is the Snapper tool tha
 
 "Btrfs adds the ability to do rollbacks on file changes," openSUSE Board Chairman, Alan Clark told InternetNews.com. "So if someone accidentally deletes a file, I can use Snapper to rollback and recover that file." (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Muktware/Neil Richards: openSuse 12.1 Released, Comes With OwnCloud](http://www.muktware.com/bitsnbytes/2956)
@@ -328,9 +328,9 @@ The openSuse team has announced the release of version 12.1.  I have been playin
 
 openSUSE 12.1 comes with the new GNOME Shell 3.2. Notifications are much nicer, you can now configure your online accounts in one place and Shell handles multiple-screen setups better. Among the features is color management, something GNOME shares with KDE where openSUSE is the first to integrate the Oyranos color management system. Also new from KDE is Apper, an easier-to-use PackageKit front end. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [LinuxDevices.com/Eric Brown: OpenSUSE 12.1 ships with GNOME 3.2, SystemD, Snapper, Go tools](http://www.linuxfordevices.com/c/a/News/OpenSUSE-121/)
@@ -340,9 +340,9 @@ openSUSE 12.1 comes with the new GNOME Shell 3.2. Notifications are much nicer, 
 
 A bare-bones [beta of OpenSUSE 12.1](http://www.linuxfordevices.com/c/a/News/Fedora-16-beta-and-OpenSUSE-121-beta/) was released in early October, with the primary purpose of giving OpenSUSE developers a chance to get better acquainted with GNOME 3.2. According to the community project -- which is closely backed by [Attachmate and its new SUSE](http://www.linuxfordevices.com/c/a/News/SUSE-and-Xamarin-announce-broad-Mono-partnership/) (formerly Novell) business unit as an upstream contributor to SUSE Linux -- GNOME 3.2 is a major improvement over the controversial GNOME 3.0. (The latter shipped as a preview version in the previous [OpenSUSE 11.4](http://www.linuxfordevices.com/c/a/News/OpenSUSE-114/) release in March.) (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Muktware/Swapnil Bhartiya: openSuse 12.1 Review: An Elite OS](http://www.muktware.com/articles/2962)
@@ -352,9 +352,9 @@ This is the favorite time of the year, it's like Christmas for a GNU/Linux user.
 
 I never was an openSUSE user. I completely shifted to Linux at the same time when Novell signed that infamous deal with Microsoft which tried to 'validate' Windows maker's base-less and false claims that Linux infringes upon its patents. I distanced myself from openSUSE after that deal. Now, with Novell gone and Microsoft shifting focus to Android (Barnes & Nobel just exposed that Microsoft's Android claims were bogus) openSUSE appears to be back as the community driven project, and I am back too. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Unixmen/M. Zinoune: Opensuse 12.1 has been released! Screenshots tour](http://www.unixmen.com/linux-tutorials/linux-distributions/suse/1978-opensuse-121-has-been-released-screenshots-tour)
@@ -362,96 +362,96 @@ I never was an openSUSE user. I completely shifted to Linux at the same time whe
 
 [Opensuse 12.1](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/) has been released! This release bring awesome improvements include the latest GNOME 3.2 desktop as well as the newest from KDE, Xfce and LXDE; your own Cloud made easy with mirall; Snapper-shots of your file system. openSUSE 12.1 comes with the new GNOME Shell 3.2. We presented you with a taste of GNOME Shell on openSUSE 11.4; since then, many bugs have been squashed and numerous small improvements have made life on the Shell more comfortable. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▲▼
 
-â€œ
+“
 
 [Join or organize openSUSE 12.1 Launch parties!](http://news.opensuse.org/2011/11/15/join-or-organize-opensuse-12-1-launch-parties/)
 
-Weâ€™re almost there. In two days openSUSE once again releases a new, improved version of
+We’re almost there. In two days openSUSE once again releases a new, improved version of
       its distribution to the world. Reason to celebrate! And celebrate we will. Currently, about 11
       parties have been registered but we know many more are being organized and we call out to you
       to [add your party to the wiki
         page](http://en.opensuse.org/openSUSE:Launch_parties)! (...)
 
-â€
+”
 
-â€œ
+“
 
 [Almost openSUSE
         12.1](http://news.opensuse.org/2011/11/15/almost-opensuse-12-1/)
 
 Yes, it is almost time. Tomorrow openSUSE 12.1 will be released to the world, bringing a
-      large number of new features and cool stuff. Weâ€™ll look at a few things today and show you
+      large number of new features and cool stuff. We’ll look at a few things today and show you
       some screen shots! (...)
 
-â€
+”
 
-â€œ
+“
 
 [openSUSE participates in Google Code-in](http://news.opensuse.org/2011/11/18/opensuse-participates-in-google-code-in/)
 
 Introducing people to the world of free and open source software (FOSS) has always been a
-      priority for the openSUSE project. Weâ€™re not only doing so for new users with our distribution
+      priority for the openSUSE project. We’re not only doing so for new users with our distribution
       (did you get 12.1 yet?) or for new contributors with our project, we also frequently
       participate in programs like Googles Summer of Code or Code in. Those programs have introduced
       a lot of new contributors to both openSUSE and the FOSS community. So with pride we announce
       that, after a successful participation in Google Summer of Code this year, openSUSE will also
       participate in Google Code-in. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
-â€œ
+“
 
 
         [SUSE Studio/David Majda: openSUSE 12.1 in SUSE Studio](http://blog.susestudio.com/2011/11/opensuse-121-in-suse-studio.html)
       
 
 openSUSE 12.1 is [officially released today](http://news.opensuse.org/2011/11/16/opensuse-12-1-all-green/). This is a major milestone both for its users and developers, mainly because
-        of new GNOME 3.2, systemd integration, and many otherÃ½[exciting features](http://en.opensuse.org/12.1). (...)
+        of new GNOME 3.2, systemd integration, and many otherý[exciting features](http://en.opensuse.org/12.1). (...)
 
-â€
+”
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/evergreen.png)Evergreen
 
-â€œ
+“
 
 
           [Wolfgang Rosenauer: Evergreen project status update](http://www.rosenauer.org/blog/2011/04/17/evergreen-status-after-some-months/)
         
 
-I guess itâ€™s time for another [Evergreen](http://en.opensuse.org/openSUSE:Evergreen) status update.
+I guess it’s time for another [Evergreen](http://en.opensuse.org/openSUSE:Evergreen) status update.
 
 I cannot tell much about 11.2 (but as far as I can see Stefan does an awesome job in
           maintaining it) but will share my thoughts about the 11.1 flavour of Evergreen.
 
-When I started that project it was clearly an experiment as I havenâ€™t had an idea how
+When I started that project it was clearly an experiment as I haven’t had an idea how
           much work it would be and if people would use it or even help with it. Looking back at
-          what weâ€™ve created it finally is more than I expected. Compared to what I announced in the
+          what we’ve created it finally is more than I expected. Compared to what I announced in the
           beginning it was almost possible to maintain every part of the distribution and not only
           server packages. There are things which turned out be quite hard (e.g. kernel) but overall
-          most issues were covered for 11.1. I think what I was able to prove is that itâ€™s possible
-          to somehow maintain a distributionÃ½ with very few manpower. (...)
+          most issues were covered for 11.1. I think what I was able to prove is that it’s possible
+          to somehow maintain a distributioný with very few manpower. (...)
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 378)](https://features.opensuse.org/120340)
@@ -460,9 +460,9 @@ When I started that project it was clearly an experiment as I havenâ€™t had
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 211)](https://features.opensuse.org/305493)
@@ -477,9 +477,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [1-click uninstall (Score: 174)](https://features.opensuse.org/305305)
@@ -487,9 +487,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 172)](https://features.opensuse.org/308497)
@@ -507,9 +507,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 124)](https://features.opensuse.org/305877)
@@ -530,13 +530,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [Use YaST Theme](https://features.opensuse.org/312970)
@@ -544,9 +544,9 @@ We need a feedback about packages that are preferred by users and actively used.
 
 The theme used in YaST with the buttons and background is quite aesthetically pleasing for configuration and installation. However, the upstream Oxygen theme doesn't look really pleasing (in fact I personally believe it resembles KDE 2's theme more than anything). The YaST theme should be expanded to work in KDE and to replace Oxygen (though Oxygen can remain an option)
 
-â€
+”
 
-â€œ
+“
 
 
             [zypper update license handling](https://features.opensuse.org/312972)
@@ -554,9 +554,9 @@ The theme used in YaST with the buttons and background is quite aesthetically pl
 
 With every flashplayer or java update "zypper up" asks to confirm the license agreement over and over again. It would be nice if the license needs confirmation ONLY if it has changed since the last "Agreed" action. Making the "-l" option default is not a very good idea since sometimes the license may change in an unpredictable way, but if it's unchanged it gets really annoying.
 
-â€
+”
 
-â€œ
+“
 
 
             [Add Ext4 LVM snapshot support to Snapper](https://features.opensuse.org/312974)
@@ -564,9 +564,9 @@ With every flashplayer or java update "zypper up" asks to confirm the license ag
 
 Very simple. The way Snapper can work on Btrfs, enable it to work that way with the backup snapshots of Ext4 filesystems using Logical Volume Management.
 
-â€
+”
 
-â€œ
+“
 
 
             [Install kernel-desktop from Live CD (GNOME and KDE)](https://features.opensuse.org/312993)
@@ -574,7 +574,7 @@ Very simple. The way Snapper can work on Btrfs, enable it to work that way with 
 
 Hello, actually OpenSUSE 11.4, and 12.1 install kernel-desktop from the standard DVD installer, at least if user choose to install a graphical desktop environment such KDE or GNOME. But I have found that Live CDs (GNOME and KDE) install kernel-default, this haven't got much sense for me. I think Live GNOME and Live KDE mediums should also install kernel-desktop by default instead of kernel-default.
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -585,13 +585,13 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Welcome new openSUSE Members
 
-â€œ
+“
 
 We are happy to announce the new openSUSE Members!
 
@@ -606,7 +606,7 @@ We are happy to announce the new openSUSE Members!
   * [Andi Tosan
                 (anditosan)](https://connect.opensuse.org/pg/profile/anditosan)
 
-â€
+”
 
 ### Events & Meetings
 
@@ -638,9 +638,9 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [openSUSE Connect](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
 
-â€œ
+“
 
 
             [Stefan
@@ -653,18 +653,18 @@ During the [SUSE Hackweek](http://en.opensuse.org/Portal:Hackweek)
             console on the target machine. He sould be able to start any console based application
             there ( of course even YaST) (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-â€œ
+“
 
 [openSUSE-SU-2011:1238-1: critical: acroread ](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00012.html)
 
-<table frame="void" id="id332883" >TableÂ 1.Â openSUSE Security Announcement<tr >
+<table frame="void" id="id332883" >Table 1. openSUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -704,14 +704,14 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixes 13 vulnerabilities
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 [openSUSE-SU-2011:1240-1: critical: VUL-0: flash-player: sec. update to version
         11.1.102.55](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00014.html)
 
-<table frame="void" id="id333044" >TableÂ 2.Â openSUSE Security Announcement<tr >
+<table frame="void" id="id333044" >Table 2. openSUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -751,16 +751,16 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixes 12 vulnerabilities
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [
         openSUSE-SU-2011:1242-1: critical: MozillaFirefox](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00015.html)
     
 
-<table frame="void" id="id333208" >TableÂ 3.Â openSUSE Security Announcement<tr >
+<table frame="void" id="id333208" >Table 3. openSUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -800,15 +800,15 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixes three vulnerabilities
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [openSUSE-SU-2011:1243-1: critical: MozillaFirefox secuirty update](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00016.html)
     
 
-<table frame="void" id="id333371" >TableÂ 4.Â SUSE Security Announcement<tr >
+<table frame="void" id="id333371" >Table 4. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -848,16 +848,16 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixes 6 vulnerabilities
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [openSUSE-SU-2011:1240-2: critical: VUL-0: flash-player: sec. update to version
         11.1.102.55](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00018.html)
     
 
-<table frame="void" id="id333535" >TableÂ 5.Â SUSE Security Announcement<tr >
+<table frame="void" id="id333535" >Table 5. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -897,16 +897,16 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td > fixes 12 vulnerabilities is now available. It includes one version update.
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [openSUSE-SU-2011:1263-1: important: VUL-1: wireshark: new updates fix two DoS
         issues](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00022.html)
     
 
-<table frame="void" id="id333700" >TableÂ 6.Â SUSE Security Announcement<tr >
+<table frame="void" id="id333700" >Table 6. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -946,11 +946,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >fixes two vulnerabilities is now available. It includes one version update.
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [Linus Torvalds: Linux 3.2-rc2](http://article.gmane.org/gmane.linux.kernel/1215747)
@@ -978,9 +978,9 @@ updates".
 
 The shortlog is appended for people who enjoy that level of detail. (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.2 (Part 1) - Networking](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-2-Part-1-Networking-1379085.html)
@@ -989,7 +989,7 @@ The shortlog is appended for people who enjoy that level of detail. (...)
 **The TCP stack is now faster at adapting the data transmission rate to the available line capacity. The drivers for Wi-Fi components by Atheros and Broadcom have matured considerably; other drivers will support more LAN and Wi-Fi hardware in 3.2 than they did before.**
 
 No major changes have been integrated into the main development branch of Linux since the
-        [first release candidate](http://www.h-online.com/open/features/Kernel-Log-Linux-3-2-main-development-phase-complete-1375016.html) of LinuxÃ½3.2 became available, closing this version's merge
+        [first release candidate](http://www.h-online.com/open/features/Kernel-Log-Linux-3-2-main-development-phase-complete-1375016.html) of Linuxý3.2 became available, closing this version's merge
       window. Linus Torvalds will probably soon release the second RC of this kernel version, the
       final release of which is expected to become available in mid to late January; until then,
       Torvalds will mainly incorporate fixes and small, harmless improvements as he has done in the
@@ -998,29 +998,29 @@ No major changes have been integrated into the main development branch of Linux 
 The Kernel Log is now in a position to provide a comprehensive overview of the most
       important new features of Linux 3.2. As usual, this information will be presented within the
       "Coming in 3.2" series of articles that will gradually cover the kernel's various functional
-      areas. PartÃ½1 of the series is below and describes the most important changes to the network
+      areas. Partý1 of the series is below and describes the most important changes to the network
       stack, and the related LAN and Wi-Fi hardware drivers. Over the coming weeks, further articles
       will discuss the kernel's storage support, filesystems, architecture code, infrastructure, and
       other hardware drivers.
 
-â€
+”
 
-â€œ
+“
 
 
       [Rares
-        Aioanei: kernel weekly news â€“ 19.11.2011](http://schaiba.wordpress.com/2011/11/19/kernel-weekly-news-19-11-2011/)
+        Aioanei: kernel weekly news – 19.11.2011](http://schaiba.wordpress.com/2011/11/19/kernel-weekly-news-19-11-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
-â€œ
+“
 
 
         [Roger Luedecke: Gobi loader and mobile broadband providers](http://opensuseadventures.blogspot.com/2011/11/gobi-loader-and-mobile-broadband.html)
@@ -1043,11 +1043,11 @@ So now I have installed 12.1RC2. And at first it looked encouraging, though the 
 
 ![](http://4.bp.blogspot.com/-wcHIM8JzaeI/TsCNhUw6VyI/AAAAAAAAAKY/ZmmWUIKDcVs/s640/whereisverizon.png)
 
-â€
+”
 
 ### For Commandline/Script Newbies
 
-â€œ
+“
 
 
         [LinuxForum.com/steelmanronald06: Screen - The Path For Beginners](http://www.linuxforum.com/content.php/131-Screen-The-Path-For-Beginners)
@@ -1057,9 +1057,9 @@ So now I have installed 12.1RC2. And at first it looked encouraging, though the 
 
 Screen is a great tool, and highly recommended, tool for any Linux user. It provides a Terminal environment that can withstand network disconnects, random computer restarts, power outages at home and more. With screen you can be assured that if PuTTY, or whatever SSH Client you use, closes you will almost never lose your work. Sadly this is not true for a server restart, as far as I'm aware, but it still provides amazing possibilities. In this wiki you'll find instructions for installation and customization that will not only enhance screen for the best, but will also make it more enjoyable to use. If you're like me, once you start to use screen you'll never go back to mundane old terminal. Please note that all of these steps were done on my system, which I will provide screenshots for, but this is not the only way to set your screen environment up. To add to that, there are also numerous other alterations you may make to your screen environment. Feel free to play around with it and see what you come up with. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [LinuxCareer.com/Rares Aioanei: Learning Linux commands: dd](http://how-to.linuxcareer.com/learning-linux-commands-dd)
@@ -1069,11 +1069,11 @@ Screen is a great tool, and highly recommended, tool for any Linux user. It prov
 
 What you're reading is only the first of the many articles from the "Learning Linux commands" series. Why would we want to do such a thing? Because it's useful to you to have every option and possible use of a widely used command all in one place. You will find some options or even some commands that you didn't even knew existed, and your life as a Linux user / admin will become easier. If you're not afraid of opening a terminal and know the basics of using a Linux system, this article is for you. If you seek further help or information consult manual pages or visit our new [Linux forum](http://forum.linuxcareer.com/). (...)
 
-â€
+”
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 
         [LinuxCareer.com/Rares Aioanei: C development on Linux - Types, variables, operators - III.](http://how-to.linuxcareer.com/c-development-on-linux-types-variables-operators)
@@ -1085,11 +1085,11 @@ As [promised](http://how-to.linuxcareer.com/c-development-on-linux-comparison-be
           operate
         ** on those variables, you'll need...operators, of course. I intend to make this course as concise as possible, so I recommend attention and as usual, practice. Any questions can be addressed on our [forums](http://forum.linuxcareer.com/), and we will do our best to answer them. (...)
 
-â€
+”
 
 ### For System Administrators
 
-â€œ
+“
 
 
         [HowtoForge/Falko Timme: Serving CGI Scripts With Nginx On OpenSUSE 11.4](http://www.howtoforge.com/serving-cgi-scripts-with-nginx-on-opensuse-11.4)
@@ -1099,9 +1099,9 @@ This tutorial shows how you can serve CGI scripts (Perl scripts) with nginx on O
 
 (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [IBM developerWorks/Roderick W. Smith: Learn Linux, 302 (Mixed environments): Winbind](http://www.ibm.com/developerworks/linux/library/l-lpic3-313-3/index.html)
@@ -1109,11 +1109,11 @@ This tutorial shows how you can serve CGI scripts (Perl scripts) with nginx on O
 
 If your network includes a domain controller (either a Windows computer or a Samba server), you can use its user database instead of or in addition to maintaining local login users in a Linux computer's local account database. Doing so requires using a set of tools known as Winbind. This toolset can be handy even for Linux computers that don't run Samba to share files or printers; users with Windows domain accounts can log in at the console or use SSH to access Linux-only features, use POP or IMAP mail servers with Windows domain authentication, and so on. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
-â€œ
+“
 
 [Sascha Manns: Plasma Activities in Balsam Professional](http://saigkill.homelinux.net/entry/2011/11/12/plasma-activities-in-balsam-professional)
 
@@ -1142,12 +1142,12 @@ The Activities can help you know. Creating an new Activity presents a blank Scre
       make the App available in the present Activity. You can use it to many interesting things.
       (...)
 
-â€
+”
 
-â€œ
+“
 
 
-      [JÃ¶rg Stephan: The Packman Repo (cause of sox)](http://suseserver.de/?p=56)
+      [Jörg Stephan: The Packman Repo (cause of sox)](http://suseserver.de/?p=56)
     
 
 This post does not target any server specific issue. But aims on showing you another repo
@@ -1162,9 +1162,9 @@ In this repo you
 sox file.ogg
       file.mp3 (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Fridrich Strba: LibreOffice Visio Import filter: the goodness soon on your desktop](http://fridrich.blogspot.com/2011/11/it-has-been-long-time-since-i-last-time.html)
@@ -1181,9 +1181,9 @@ First of
       by far the best from my point of view. We managed to achieve a very good fidelity of import
       only in about 3 and half months. Impressive. (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Oyranos: Scarse Profile Library Warning](http://www.oyranos.org/2011/11/scarse-profile-library-warning/)
@@ -1197,11 +1197,11 @@ Scarse is a project for profiling scanners under GPL based on Argyll code. It st
       therefore crucial to meet these standards otherwise results will be incorrect right from the
       beginning and might render further colour work damaged. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums: A big hand for the release of openSUSE 12.1 !â–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums: A big hand for the release of openSUSE 12.1 !▲▼
 
-â€œ
+“
 
 
       [NEW Users - openSUSE-12.1 Pre-installation - PLEASE READ](http://forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/467087-new-users-opensuse-12-1-pre-installation-please-read.html)
@@ -1211,9 +1211,9 @@ Scarse is a project for profiling scanners under GPL based on Argyll code. It st
       We'd like to draw your attention to this article in the New User HOWTO/FAQ subforums. Like with every openSUSE release our admin oldcpu has prepared a document for new users to read before starting to install openSUSE 12.1. If you're new to openSUSE, this is a must-read, if you're already an openSUSE user, even very experienced, the article still deserves your attention. 
     
 
-â€
+”
 
-â€œ
+“
 
 
     [Forums: Install - Boot - Login](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/)
@@ -1230,9 +1230,9 @@ Scarse is a project for profiling scanners under GPL based on Argyll code. It st
       
       
 
-â€
+”
 
-â€œ
+“
 
 
       openSUSE Language specific subforums:
@@ -1240,24 +1240,24 @@ Scarse is a project for profiling scanners under GPL based on Argyll code. It st
 
 We now host the following language specific subforums under the umbrella of the openSUSE Forums:
 	[Main forums, english](http://forums.opensuse.org/english/)
-	[ä¸­æ–‡(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
+	[中文(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
 	[Nederlands (Dutch)](http://forums.opensuse.org/nederlands-dutch/)
-	[FranÃ§ais (French)](http://forums.opensuse.org/frana-ais-french/)
+	[Français (French)](http://forums.opensuse.org/frana-ais-french/)
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
-	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
+	[Ελληνικό (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[日本語 (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
-	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
+	[Pусский (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Reports
 
-â€œ
+“
 
 
         [WebUpd8/Andrew: New / Updated GNOME Application Designs (Mockups)](http://www.webupd8.org/2011/11/new-updated-gnome-application-designs.html)
@@ -1265,9 +1265,9 @@ We now host the following language specific subforums under the umbrella of the 
 
 The GNOME developers are working on new application designs for Music, Photos, Chat, Transfers, Weather, Web, Mail, Calendar, Videos, Maps, Boxes (application for accessing other computer systems or images) and Notes as well as a redesign for Documents and Contacts. Here are a few very interesting mockups: (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [h-online/Laura Czajkowski: Balsam Professional 12.1 available to purchase online](http://www.h-online.com/open/news/item/Balsam-Professional-12-1-available-to-purchase-online-1379482.html)
@@ -1286,11 +1286,11 @@ Version 12.1 of Balsam Professional is based on the second release candidate of 
         applications. The distribution includes KDE 4.7 and GNOME 3.2 with a [Linux 3.1](http://www.h-online.com/open/features/What-s-new-in-Linux-3-1-1347364.html) kernel and systemd. Also included is [KDE Plasma Active One](http://www.h-online.com/news/item/KDE-releases-Plasma-Active-One-1358079.html), an environment designed for tablets and other mobile devices
         which open-slx co-develops.
 
-â€
+”
 
 ### Reviews and Essays
 
-â€œ
+“
 
 
         [Datamation/Eric Spiegel: Three Ways Developers Can Deal With Tough Customers](http://www.datamation.com/applications/three-ways-developers-can-deal-with-tough-customers-1.html)
@@ -1298,13 +1298,13 @@ Version 12.1 of Balsam Professional is based on the second release candidate of 
 
 We all know that lighting matches near a combustible substance like gasoline is not a good idea. Yet people go up in smoke every year.
 
-Similarly, putting a developer and a customer in the same room can have a combustible effect. Many developers tend to be very direct, and talk in technical terms the customer canâ€™t comprehend. They sometimes have very little patience for customers who send mixed message about their requirements.
+Similarly, putting a developer and a customer in the same room can have a combustible effect. Many developers tend to be very direct, and talk in technical terms the customer can’t comprehend. They sometimes have very little patience for customers who send mixed message about their requirements.
 
 As a result, many developers (and their projects) go up in smoke every year as well. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [LinuxForum.com/gcawood: Test To Give When Hiring or Interviewing a Junior Linux System Administrator](http://www.linuxforum.com/content.php/128-Test-To-Give-When-Hiring-or-Interviewing-a-Junior-Linux-System-Administrator)
@@ -1314,9 +1314,9 @@ Hiring a junior Linux System Administrator can be a challenging task, especially
 
 In our experience, the best way to gauge an employees skill set is to put them in front of a command line interface and have them execute a number of straightforward tasks. Oftentimes, candidates will say that they have strong skills in Linux, but when confronted with an actual problem, they don't have the "tools" to fix it themselves. So, what we look for is a candidate's ability to use tools, rather than their ability to fix a particular problem. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Webappers/Ray Cheung: Open Source WYSIWYG Visual Editor for UI Mockups](http://www.webappers.com/2011/11/15/open-source-wysiwyg-visual-editor-for-ui-mockups/)
@@ -1326,25 +1326,25 @@ In our experience, the best way to gauge an employees skill set is to put them i
         Maqetta application itself is authored in HTML, and therefore runs in the browser without
         requiring additional plugins or downloads.
 
-Maqetta **allows User Experience Designers (UXD) to perform drag/drop assembly of live UI mockups**. One of Maqettaâ€™s key design goals is to
+Maqetta **allows User Experience Designers (UXD) to perform drag/drop assembly of live UI mockups**. One of Maqetta’s key design goals is to
         create developer-ready UI mockups that promote efficient hand-off from designers to
         developers. The user interfaces created by Maqetta are real-life web applications that can
         be handed off to developers, who can then transform the application incrementally from UI
         mockup into final shipping application. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Sysadmin.lt: How does Linux kernel detect and plug in your hardware? Kernel, sysfs, udev and dbus collaboration.](http://blogas.sysadmin.lt/?p=141)
       
 
-I have been administrating Linux systems for a while now and were always strugling to â€ždig deeperâ€œ. Today I found myself wondering how does Linux detect, plug in my hardware and show that pop-up window asking me to choose what I want to do with my flash drive. So I launched my web browser and began to search for an answers in forums, tutorials and how-tos which almost ended in complete failure. I say â€žalmostâ€œ because I did find some of the answers but they all were scattered and incomplete or too old. So I had to use â€žheavy artilleryâ€œ and read through all those manualsâ€¦ And I think I finally get it how it works :) This is what I will try to explain further. *I really hope I didnâ€™t misunderstand something* (...)
+I have been administrating Linux systems for a while now and were always strugling to „dig deeper“. Today I found myself wondering how does Linux detect, plug in my hardware and show that pop-up window asking me to choose what I want to do with my flash drive. So I launched my web browser and began to search for an answers in forums, tutorials and how-tos which almost ended in complete failure. I say „almost“ because I did find some of the answers but they all were scattered and incomplete or too old. So I had to use „heavy artillery“ and read through all those manuals… And I think I finally get it how it works :) This is what I will try to explain further. *I really hope I didn’t misunderstand something* (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://saigkill.homelinux.net/discussions) and let us know! 
 
@@ -1378,7 +1378,7 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -1388,12 +1388,12 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -1405,7 +1405,7 @@ We thank for this Issue:
 
   * [open-slx GmbH](http://www.open-slx.com/en), Sponsoring
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -1413,12 +1413,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 202 is available in: 
 

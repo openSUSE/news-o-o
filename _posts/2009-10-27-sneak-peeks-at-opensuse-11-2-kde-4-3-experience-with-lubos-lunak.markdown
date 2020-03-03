@@ -5,7 +5,7 @@ date: 2009-10-27 16:31:41+00:00
 layout: post
 link: https://news.opensuse.org/2009/10/27/sneak-peeks-at-opensuse-11-2-kde-4-3-experience-with-lubos-lunak/
 slug: sneak-peeks-at-opensuse-11-2-kde-4-3-experience-with-lubos-lunak
-title: 'Sneak Peeks at openSUSE 11.2: KDE 4.3 Experience, with LuboÅ¡ LuÅˆÃ¡k'
+title: 'Sneak Peeks at openSUSE 11.2: KDE 4.3 Experience, with Luboš Luňák'
 wordpress_id: 2273
 categories:
 - Distribution
@@ -18,7 +18,7 @@ The KDE 4 experience in openSUSE has been enhanced daily, and while the desktop 
 The highlights include: the openSUSE DVD preselected to KDE 4.3; new Firefox KDE integration; OpenOffice.org KDE 4 integration; consistent KDE artwork; all other standard applications fully ported to KDE 4, including KNetworkManager, Amarok, DigiKam, K3b, Konversation and more. 
 
 
-We will also be talking to openSUSE and KDE core developer LuboÅ¡ LuÅˆÃ¡k, to find out more about the developments in KDE 4.3, where the project is concentrating its efforts, and what the openSUSE boosters team is really all about. Read on for the full story... <!-- more -->
+We will also be talking to openSUSE and KDE core developer Luboš Luňák, to find out more about the developments in KDE 4.3, where the project is concentrating its efforts, and what the openSUSE boosters team is really all about. Read on for the full story... <!-- more -->
 
 
 
@@ -42,7 +42,7 @@ It was finally decided to default the radio button to KDE in the DVD installer. 
 
 
 
-Recognising the popularity of Firefox, the KDE team decided to have Firefox as the default browser for openSUSE 11.2. As a consequence, there has been a significant effort pioneered by LuboÅ¡ LuÅˆÃ¡k to make Firefox more friendly to KDE users. 
+Recognising the popularity of Firefox, the KDE team decided to have Firefox as the default browser for openSUSE 11.2. As a consequence, there has been a significant effort pioneered by Luboš Luňák to make Firefox more friendly to KDE users. 
 
 The Firefox integration by openSUSE means that wherever Firefox contacts the rest of the desktop, KDE components are used, including: file dialogs, application selection dialog, mimetype handling, notifications system, and [more](http://en.opensuse.org/KDE/FirefoxIntegration). A screencast of these changes has been recorded by Javier Llorente:
 
@@ -141,7 +141,7 @@ Many thanks to Martin Schlander and Will Stephenson for their contributions and 
 
 
 
-## Talk with LuboÅ¡ LuÅˆÃ¡k
+## Talk with Luboš Luňák
 
 
 
@@ -165,7 +165,7 @@ Many thanks to Martin Schlander and Will Stephenson for their contributions and 
 
 
 
-Actually I've been so busy with openSUSE for the last year that I've had only little time to do something directly upstream. For this reason I'm really happy that there are people like Lucas Murray, Martin GrÃ¤ÃŸlin and others who keep moving KWin forward. So, although I still try to at least keep on eye on KWin, I think it would be better to ask people who actually do the work.
+Actually I've been so busy with openSUSE for the last year that I've had only little time to do something directly upstream. For this reason I'm really happy that there are people like Lucas Murray, Martin Gräßlin and others who keep moving KWin forward. So, although I still try to at least keep on eye on KWin, I think it would be better to ask people who actually do the work.
 
  From the things worked on or mostly done for KDE 4.4 that I remember there are branches for adding window tabbing and window tiling to KWin and for decorations, besides merging of Oxygen forks Ozone and Nitrogen back into one decoration, there is also an SVG-based decoration called Aurorae that allows easy theming even for non-developers.
 

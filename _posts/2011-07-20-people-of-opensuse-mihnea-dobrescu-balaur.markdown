@@ -74,7 +74,7 @@ categories:
 <td width="105" >**Motto:**
 </td>
 
-<td width="520" >Not sure if it's my motto, but: â€žYou must be the change you 			want to see in the worldâ€œ. It's Gandhi's.
+<td width="520" >Not sure if it's my motto, but: „You must be the change you 			want to see in the world“. It's Gandhi's.
 </td>
 
 <td width="5" >
@@ -148,7 +148,7 @@ Its main functionalities are splitted in four categories at the moment:
 
 
 	
-  * aid 	- helps the user to determine which is the â€žsuspectedâ€ package 	that causes a problem
+  * aid 	- helps the user to determine which is the „suspected” package 	that causes a problem
 
 	
   * gather 	- scans the system for relevant data to provide in a bug
@@ -181,7 +181,7 @@ Underlying 	nice stuff:
 
 
 
-I've also implemented some other nice stuff but I don't want to â€žbore the audienceâ€œ. You can find everything in the repo here: [https://github.com/mihneadb/suse_bug_reporter](https://github.com/mihneadb/suse_bug_reporter)
+I've also implemented some other nice stuff but I don't want to „bore the audience“. You can find everything in the repo here: [https://github.com/mihneadb/suse_bug_reporter](https://github.com/mihneadb/suse_bug_reporter)
 
 
 #### When do you usually spend time on the openSUSE project?
@@ -226,7 +226,7 @@ None :(.
 About five. Nothing important, just stuff that I've downloaded and I wanted to see there in order not to forget about it.
 
 
-#### What is the application you canâ€™t live without? And why?
+#### What is the application you can’t live without? And why?
 
 
 I'd say my web browser (Google-chrome/chromium). Nowadays, you can have anything if you have a web browser! :)
@@ -256,16 +256,16 @@ Oh, I don't really know, the people I thought of probably don't use Linux.
 I'd like to learn AI programming. And I will!
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
-I wouldn't care that much, I'd do what I usually do in my free time â€“ spend time with my girlfriend, play basketball, go swimming, listem to music, read.
+I wouldn't care that much, I'd do what I usually do in my free time – spend time with my girlfriend, play basketball, go swimming, listem to music, read.
 
 
 #### Which is your favorite movie scene?
 
 
-There are many inspirational ones, but, let me choose a funnier one â€“ Bad Boys 2, Reggie comes to take Marcus' daughter out on a date. [http://www.youtube.com/watch?v=V_Y9SQhcIjw](http://www.youtube.com/watch?v=V_Y9SQhcIjw)
+There are many inspirational ones, but, let me choose a funnier one – Bad Boys 2, Reggie comes to take Marcus' daughter out on a date. [http://www.youtube.com/watch?v=V_Y9SQhcIjw](http://www.youtube.com/watch?v=V_Y9SQhcIjw)
 
 
 #### Star Trek or Star Wars?
@@ -277,7 +277,7 @@ Definitely Star Wars. I didn't even see too much of Star Trek.
 #### What is your favorite food and drink?
 
 
-â€žDorada en salâ€œ and fresh orange juice.
+„Dorada en sal“ and fresh orange juice.
 
 
 #### Favorite game or console (in your childhood and nowadays)?
@@ -304,13 +304,13 @@ Skiing.
 I'm not sure what the question means. If I win the whole amount of money? I'd go in a vacation and maybe buy a watch and the rest I'd save. Yes, as I said above, I'd like to keep working on my tool.
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 I'm not sure. I kind of like the present.
 
 
-#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
+#### There’s a thunderstorm outside — do you turn off your computer?
 
 
 No. It's safe where I live.
@@ -328,7 +328,7 @@ No.
 Awesome view! [http://upload.wikimedia.org/wikipedia/commons/1/13/The_Spit_Bruny_Island.jpg](http://upload.wikimedia.org/wikipedia/commons/1/13/The_Spit_Bruny_Island.jpg)
 
 
-#### You couldnâ€™t live withoutâ€¦
+#### You couldn’t live without…
 
 
 I guess the question means material stuff? My phone, I'd say.

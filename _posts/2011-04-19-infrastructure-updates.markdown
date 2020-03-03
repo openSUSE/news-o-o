@@ -31,10 +31,10 @@ We had way too many server downtimes during the last month in our infrastructure
   * features.opensuse.org
 
 
-We hope that this new proxy is working reliably now.Â  The new proxy is open source and source code can be found [on gitorious.org](https://www.gitorious.org/opensuse/apache-mod_auth_memcookie). A future version of the openSUSE Build Service (OBS)Â  (not 2.3) will come with this proxy as authentication mechanism as well.
+We hope that this new proxy is working reliably now.  The new proxy is open source and source code can be found [on gitorious.org](https://www.gitorious.org/opensuse/apache-mod_auth_memcookie). A future version of the openSUSE Build Service (OBS)  (not 2.3) will come with this proxy as authentication mechanism as well.
 
 For the openSUSE Build Service, another change is that we switched to apache and the passenger module on our productive system, following the new default of OBS 2.3. This should also fix some cases of invalid http answers.
 
 In short, we have changed some key parts of our infrastructure and introduced a new login proxy, so there might still be some pitfalls. But we have it under our control now and can debug and even fix any issue with it. In case of problems, please speak up on the opensuse-buildservice mailing list.
 
-Your make-OBS-stable-team, Michael SchrÃ¶der, Stephan Kulow and Adrian SchrÃ¶ter
+Your make-OBS-stable-team, Michael Schröder, Stephan Kulow and Adrian Schröter

@@ -24,7 +24,7 @@ We, Stella Rouzi, Kostas Koudaras and Henne Vogelsang, the main organizers of oS
 
 
 ![Andy](https://si0.twimg.com/profile_images/378800000013634363/3d20e6460b2e4b83cf7052456b702006.jpeg)
-Andy came up with the design of the oSC13 logo, which was the most influential piece of artwork for this conference. We have discussed a lot about how we can combine openSUSE's values, the meaning of this event for our community and Thessalonikiâ€™s and Greece's heritage into a theme and motto. He hit this nail on the head with his logo and we're extremely thankful for your iconic design Andy!
+Andy came up with the design of the oSC13 logo, which was the most influential piece of artwork for this conference. We have discussed a lot about how we can combine openSUSE's values, the meaning of this event for our community and Thessaloniki’s and Greece's heritage into a theme and motto. He hit this nail on the head with his logo and we're extremely thankful for your iconic design Andy!
   
 
 [gallery link="file" ids="14977,16501,16500"]
@@ -98,11 +98,11 @@ There is a tool at the heart of oSC13: OSEM, the Open Source Event Manager. And 
 
 
 
-## JÃ¼rgen Weigert for broadcasting
+## Jürgen Weigert for broadcasting
 
 
 ![Juergen](//news.opensuse.org/wp-content/uploads/2013/07/juergen.png)
-The openSUSE community is a world wide community of countless Geekos. It's not feasible for everyone to swing by Greece so it's extremely important that it's possible for the people who are no at the venue to participate of the event. Live video and recordings are a huge part of this effort and JÃ¼rgen is the Geeko who came up with the plan, the software and the setup to make this possible. Many people helped recording the event but you JÃ¼rgen organized it all and we thank you for that!
+The openSUSE community is a world wide community of countless Geekos. It's not feasible for everyone to swing by Greece so it's extremely important that it's possible for the people who are no at the venue to participate of the event. Live video and recordings are a huge part of this effort and Jürgen is the Geeko who came up with the plan, the software and the setup to make this possible. Many people helped recording the event but you Jürgen organized it all and we thank you for that!
   
 
 
@@ -132,7 +132,7 @@ They say a free and open source conference is only as good as it's wireless LAN.
 ## and so many more...
 
 
-Of course there where so many more people who made a difference: Thanasis "Zoumpis" Rousinopoulos and Efstathios Iosifidis who kept the social media going. Jos Poortvliet authored a lot of awesome content about oSC13. Nikos Chatzidakis and again Zoumpis prepared the OSEM android application.Â George Bratsos for managing the room volunteers.Â Stathis Agrapidis for handling all the printing and re-stocking of supplies. The nameless lady from the cafeteria, all the awesome visitors and and and and and....
+Of course there where so many more people who made a difference: Thanasis "Zoumpis" Rousinopoulos and Efstathios Iosifidis who kept the social media going. Jos Poortvliet authored a lot of awesome content about oSC13. Nikos Chatzidakis and again Zoumpis prepared the OSEM android application. George Bratsos for managing the room volunteers. Stathis Agrapidis for handling all the printing and re-stocking of supplies. The nameless lady from the cafeteria, all the awesome visitors and and and and and....
 
 
 # Thank you all for being the awesome people you are and for letting that rub off onto our conference!

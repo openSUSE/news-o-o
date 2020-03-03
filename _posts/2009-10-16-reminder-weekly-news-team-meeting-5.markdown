@@ -14,7 +14,7 @@ tags:
 - Weekly News
 ---
 
-The next openSUSE Weekly News meeting will take place tomorrowÂ  (Saturday October 16) at 14:30 UTC. As always, the meeting will be held in IRC on the #opensuse-newsletter channel on Freenode.
+The next openSUSE Weekly News meeting will take place tomorrow  (Saturday October 16) at 14:30 UTC. As always, the meeting will be held in IRC on the #opensuse-newsletter channel on Freenode.
 
 Please add your topics to the meeting wiki page at:
 

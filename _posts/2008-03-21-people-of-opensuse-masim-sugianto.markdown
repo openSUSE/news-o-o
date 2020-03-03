@@ -318,7 +318,7 @@ C++ (Qt) and Java, because I want to contribute to openSUSE development and deve
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Hmmh, it's time to relax. My beloved wife complained to me that I used the Internet 24 hours a day (and she is right, because I use my mobile phone to access the internet).
@@ -392,7 +392,7 @@ Traveling and trekking. I want to try scuba diving but I can't swim.
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Build a non profit organization to spread free openSUSE CDs around of Indonesia. I don't know if it sounds realistic or not but I want Indonesia to be well-known as the biggest openSUSE community outside Europe.
@@ -402,7 +402,7 @@ Build a non profit organization to spread free openSUSE CDs around of Indonesia.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Before marriage :-)
@@ -412,7 +412,7 @@ Before marriage :-)
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Yes. I choose to read books :-)
@@ -457,7 +457,7 @@ Water, air and most common requirements for human beings.
 #### Which question was the hardest to answer?
 
 
-If traveling through time was possible â€“ when would we be most likely to meet you? I don't understand it :-P
+If traveling through time was possible – when would we be most likely to meet you? I don't understand it :-P
 
 
 

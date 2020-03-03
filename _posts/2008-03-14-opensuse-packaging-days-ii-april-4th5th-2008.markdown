@@ -5,7 +5,7 @@ date: 2008-03-14 17:18:32+00:00
 layout: post
 link: https://news.opensuse.org/2008/03/14/opensuse-packaging-days-ii-april-4th5th-2008/
 slug: opensuse-packaging-days-ii-april-4th5th-2008
-title: openSUSE Packaging Days II â€“ April 4th/5th, 2008
+title: openSUSE Packaging Days II – April 4th/5th, 2008
 wordpress_id: 689
 categories:
 - Events

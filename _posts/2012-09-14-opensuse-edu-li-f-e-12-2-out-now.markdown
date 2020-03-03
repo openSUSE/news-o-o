@@ -23,9 +23,9 @@ tags:
 
 
 
-[![DVD boot screen](http://en.opensuse.org/images/thumb/4/48/Life1221-welcome.png/120px-Life1221-welcome.png)](http://en.opensuse.org/File:Life1221-welcome.png)Â Â  [![Bootmenu openSUSE-Education](http://en.opensuse.org/images/thumb/b/bc/Life1221-bootmenu.png/120px-Life1221-bootmenu.png)](http://en.opensuse.org/File:Life1221-bootmenu.png)Â Â  [![Splash screen openSUSE-Education](http://en.opensuse.org/images/thumb/f/f5/Life1221-splash.png/120px-Life1221-splash.png)](http://en.opensuse.org/File:Life1221-splash.png)
+[![DVD boot screen](http://en.opensuse.org/images/thumb/4/48/Life1221-welcome.png/120px-Life1221-welcome.png)](http://en.opensuse.org/File:Life1221-welcome.png)   [![Bootmenu openSUSE-Education](http://en.opensuse.org/images/thumb/b/bc/Life1221-bootmenu.png/120px-Life1221-bootmenu.png)](http://en.opensuse.org/File:Life1221-bootmenu.png)   [![Splash screen openSUSE-Education](http://en.opensuse.org/images/thumb/f/f5/Life1221-splash.png/120px-Life1221-splash.png)](http://en.opensuse.org/File:Life1221-splash.png)
 
-[![Sugar Windowmanager](http://en.opensuse.org/images/thumb/a/a4/Life1221-sugar.png/120px-Life1221-sugar.png)](http://en.opensuse.org/File:Life1221-sugar.png)Â Â  [![Li-f-e applications](http://en.opensuse.org/images/thumb/d/d1/Life1221-apps.png/120px-Life1221-apps.png)](http://en.opensuse.org/File:Life1221-apps.png)Â Â  [![Multimedia applications](http://en.opensuse.org/images/thumb/b/be/Life1221-multimedia.png/120px-Life1221-multimedia.png)](http://en.opensuse.org/File:Life1221-multimedia.png)
+[![Sugar Windowmanager](http://en.opensuse.org/images/thumb/a/a4/Life1221-sugar.png/120px-Life1221-sugar.png)](http://en.opensuse.org/File:Life1221-sugar.png)   [![Li-f-e applications](http://en.opensuse.org/images/thumb/d/d1/Life1221-apps.png/120px-Life1221-apps.png)](http://en.opensuse.org/File:Life1221-apps.png)   [![Multimedia applications](http://en.opensuse.org/images/thumb/b/be/Life1221-multimedia.png/120px-Life1221-multimedia.png)](http://en.opensuse.org/File:Life1221-multimedia.png)
 
 Get it from here:[ Direct Download](https://sourceforge.net/projects/opensuse-edu/files/latest/download?source=files) | [Torrents](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-12.2-latest-i686.iso.torrent) | [Metalinks](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-12.2-1-i686.iso.meta4) | [md5sum](http://www.opensuse-education.org/download/ISOs/openSUSE-Edu-li-f-e-12.2-latest-i686.iso.md5)
 
@@ -33,7 +33,7 @@ As this edition is based on openSUSE 12.2, all the official 12.2 updates, reposi
 
 Minimum hardware requirement is **1GB of RAM** and **15GB free disk space**. Installation from USB stick will take about 40 minutes to complete, from a DVD it takes much longer. Check [this howto](http://lizards.opensuse.org/2012/09/13/live-fat-stick/) for creating live USB stick on vfat partition or other [GUI and terminal ways](http://en.opensuse.org/Live_USB_stick).
 
-Here is the sampling of some of the [softwares available on the iso](http://en.opensuse.org/openSUSE:Education-Li-f-e). Â Complete list of packages with versions [here](http://www.opensuse-education.org/%7Ecyberorg/opensuse-edu-life-1221-packages.html).
+Here is the sampling of some of the [softwares available on the iso](http://en.opensuse.org/openSUSE:Education-Li-f-e).  Complete list of packages with versions [here](http://www.opensuse-education.org/%7Ecyberorg/opensuse-edu-life-1221-packages.html).
 
-Have a lot of funâ€¦
+Have a lot of fun…
 Your openSUSE Education Team

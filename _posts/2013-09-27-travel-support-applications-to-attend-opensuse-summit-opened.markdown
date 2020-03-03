@@ -34,7 +34,7 @@ About the TSP you can see at [https://en.opensuse.org/openSUSE:Travel_Support_Pr
 
 Important
 * A good application with good information will be processed faster.
-* Always choose the most economical option whenever possible.Â  People who need travel sponsorship, shouldÂ Â Â Â Â Â Â Â  look for the best price. If the Travel Committee finds a cheaper price, that will be the price in consideration.
+* Always choose the most economical option whenever possible.  People who need travel sponsorship, should         look for the best price. If the Travel Committee finds a cheaper price, that will be the price in consideration.
 
 
 

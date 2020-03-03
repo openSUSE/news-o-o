@@ -116,7 +116,7 @@ We are pleased to announce our openSUSE Weekly News Issue 120!
       * [4.1.4 openSUSE Build Service (OBS) 1.7.3 released](http://en.opensuse.org/OpenSUSE_Weekly_News/120#openSUSE_Build_Service_.28OBS.29_1.7.3_released)
 
 	
-      * [4.1.5 Marcus HÃ¼we: osc 0.126](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Marcus_H.C3.BCwe:_osc_0.126)
+      * [4.1.5 Marcus Hüwe: osc 0.126](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Marcus_H.C3.BCwe:_osc_0.126)
 
 	
       * [4.1.6 Build Service Statistics](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Build_Service_Statistics)
@@ -209,7 +209,7 @@ We are pleased to announce our openSUSE Weekly News Issue 120!
     * [5.5 openSUSE TV: openSUSE Conference 2009 - Building Moblin, the openSUSE way](http://en.opensuse.org/OpenSUSE_Weekly_News/120#openSUSE_TV:_openSUSE_Conference_2009_-_Building_Moblin.2C_the_openSUSE_way)
 
 	
-    * [5.6 Martin Schlander: openSUSE-Guide.org â€“ status report](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Martin_Schlander:_openSUSE-Guide.org_.E2.80.93_status_report)
+    * [5.6 Martin Schlander: openSUSE-Guide.org – status report](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Martin_Schlander:_openSUSE-Guide.org_.E2.80.93_status_report)
 
 	
     * [5.7 People of openSUSE](http://en.opensuse.org/OpenSUSE_Weekly_News/120#People_of_openSUSE)
@@ -287,7 +287,7 @@ We are pleased to announce our openSUSE Weekly News Issue 120!
       * [9.1.2 Peteris Krumins: Another Ten One-Liners from CommandLineFu Explained](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Peteris_Krumins:_Another_Ten_One-Liners_from_CommandLineFu_Explained)
 
 	
-      * [9.1.3 Alex Barrios: Encrypt your files quick nâ€™ dirty](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Alex_Barrios:_Encrypt_your_files_quick_n.E2.80.99_dirty)
+      * [9.1.3 Alex Barrios: Encrypt your files quick n’ dirty](http://en.opensuse.org/OpenSUSE_Weekly_News/120#Alex_Barrios:_Encrypt_your_files_quick_n.E2.80.99_dirty)
 
 
 
@@ -539,7 +539,7 @@ We are pleased to announce our openSUSE Weekly News Issue 120!
 ####  [SUSE Studio: Welcome to the SUSE Studio blog!](http://blog.susestudio.com/2010/04/welcome-to-suse-studio-blog.html)
 
 
-"Welcome! We're launching this blog to talk about SUSE Studio, upcoming features, appliances, robots, and nifty things that people are doing with SUSE Studio. We've been doing this sort of thing on Twitter (and will continue) and plan to write more in-depth on this blog.  Currently, we are working on a lot of exciting features, and can't wait to share some of this neat stuff with you â€” and we're looking forward to your feedback, also!"  
+"Welcome! We're launching this blog to talk about SUSE Studio, upcoming features, appliances, robots, and nifty things that people are doing with SUSE Studio. We've been doing this sort of thing on Twitter (and will continue) and plan to write more in-depth on this blog.  Currently, we are working on a lot of exciting features, and can't wait to share some of this neat stuff with you — and we're looking forward to your feedback, also!"  
 
 
 ####  [SUSE Studio: New features: base distribution upgrade and appliance notes](http://blog.susestudio.com/2010/04/new-features-base-distribution-upgrade.html)
@@ -577,7 +577,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 572 (+0) 
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) â€“ [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) â€“ [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) – [Submitting Bug Reports](http://en.opensuse.org/Submitting_Bug_Reports) – [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
 
 
 
@@ -616,19 +616,19 @@ The numbers for all openSUSE project products are this week:
 ####  [OBS MeeGo Developer Meeting](http://news.opensuse.org/2010/04/19/obs-meego-developer-meeting/)
 
 
-"OBS Developers from MeeGo project visited the SUSE OBS Developers in NÃ¼rnberg on friday and saturday. Not everybody managed to come due to the ash over europe, but at least  -Anas Nashif from Intel
+"OBS Developers from MeeGo project visited the SUSE OBS Developers in Nürnberg on friday and saturday. Not everybody managed to come due to the ash over europe, but at least  -Anas Nashif from Intel
 
 -Alexander(Sasha) Kanevskiy from Nokia
 
 -Martin Mohring from Linux Foundation
 
--Jan-Simon MÃ¶ller from Linux Foundation
+-Jan-Simon Möller from Linux Foundation
 
 -Andreas Jaeger from Novell/SUSE
 
--Michael SchrÃ¶der from Novell/SUSE
+-Michael Schröder from Novell/SUSE
 
--Adrian SchrÃ¶ter from Novell/SUSE
+-Adrian Schröter from Novell/SUSE
 
 spoke about a lot of features and wanted design changes in OBS. The MeeGo project uses OBS to create their packages and products in similar setup and with needs as openSUSE. In short this is having multiple code streams, which are used to create multiple products, which require maintenance updates and QA validations. This give us plenty areas of collaboration and makes us hoping to drive OBS in a good direction for all of us."  
 
@@ -651,7 +651,7 @@ spoke about a lot of features and wanted design changes in OBS. The MeeGo projec
 "The Build Service Team is proud to release the version 1.7.3 of OBS. It is recommended to update to this version for everybody who is running an own OBS instance. Instances which re-use resources from build.opensuse.org instance are required to update to support the new required "rpm-md-legacy" repository mode. Publishing repositories for older distributions will fail otherwise."  
 
 
-####  [Marcus HÃ¼we: osc 0.126](http://lizards.opensuse.org/2010/04/22/osc-0-126/)
+####  [Marcus Hüwe: osc 0.126](http://lizards.opensuse.org/2010/04/22/osc-0-126/)
 
 
 "I just submitted the new osc 0.126 release to the openSUSE:Tools project. The new packages should be available soon at [http://download.opensuse.org/repositories/openSUSE:/Tools](http://download.opensuse.org/repositories/openSUSE:/Tools)"  
@@ -694,13 +694,13 @@ The Build Service now hosts 12334 (+140) projects, 92653 (+195) packages, 21766 
 ####  [Klaas Freitag (dragotin): Kraft 0.40 for KDE 4 Released](http://lizards.opensuse.org/2010/04/18/kraft-0-40-for-kde-4-released/)
 
 
-"I am very happy to announce the new stable version 0.40 of the KDE office software Kraft. After eleven month of porting work, Kraft 0.40 is the first version which is based on the KDE 4 software platform. Huge changes on the codebase of Kraft happened to benefit from the new technology of KDE 4 and after long long hours of work, weâ€™re there :-)  Basically the new version equals the last KDE 3 version feature wise beside some changes which aim to make Kraft even more convenient to explore for unexperienced users. We got much feedback that the setup with MySQL was to complicated for people who just want to do a quick test. So we had to do something about that. The alternative was the clever run-mysql-as-the-user method just like Akonadi does it, but still the dependency on MySQL remains with that solution. So I went for SQLite, because its seemed so easy. Well, SQLite did not convince me completely yet, but it is working for Kraft."  
+"I am very happy to announce the new stable version 0.40 of the KDE office software Kraft. After eleven month of porting work, Kraft 0.40 is the first version which is based on the KDE 4 software platform. Huge changes on the codebase of Kraft happened to benefit from the new technology of KDE 4 and after long long hours of work, we’re there :-)  Basically the new version equals the last KDE 3 version feature wise beside some changes which aim to make Kraft even more convenient to explore for unexperienced users. We got much feedback that the setup with MySQL was to complicated for people who just want to do a quick test. So we had to do something about that. The alternative was the clever run-mysql-as-the-user method just like Akonadi does it, but still the dependency on MySQL remains with that solution. So I went for SQLite, because its seemed so easy. Well, SQLite did not convince me completely yet, but it is working for Kraft."  
 
 
 ####  [Mehrdad Momeny (mtux): A new plugin system for Choqok](http://momeny.wordpress.com/2010/04/18/a-new-plugin-system-for-choqok/)
 
 
-"During last week I was working on a new plugin system for Choqok, Itâ€™s idea was in my mind for about 2 months, But now, Itâ€™s ready to use, and develop plugins for it. Choqok supports image uploading to Twitpic since early versions, and supports Media attachment in Identica/Statusnet service since latest Beta release. But, There are so many image/video uploading services out there! what if we want to support them too!?"  
+"During last week I was working on a new plugin system for Choqok, It’s idea was in my mind for about 2 months, But now, It’s ready to use, and develop plugins for it. Choqok supports image uploading to Twitpic since early versions, and supports Media attachment in Identica/Statusnet service since latest Beta release. But, There are so many image/video uploading services out there! what if we want to support them too!?"  
 
 
 ####  [KDE Meeting Minutes](http://lists.opensuse.org/opensuse-kde/2010-04/msg00168.html)
@@ -900,7 +900,7 @@ The Build Service now hosts 12334 (+140) projects, 92653 (+195) packages, 21766 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -944,13 +944,13 @@ The Build Service now hosts 12334 (+140) projects, 92653 (+195) packages, 21766 
 ####  [Alex Barrios: Only a few days for the FLISOL in Venezuela](http://lizards.opensuse.org/2010/04/19/only-a-few-days-for-the-flisol-in-venezuela/)
 
 
-"Venezuelan Linux community is finishing all the preparations for the April 24, the day that all Latin America celebrate the FLISOL, Latin American Festival of Free Software Installation.  Through the sponsorship of Novell, the collaboration of ambassadors from other distributions, and GoSVe, the user group from Venezuela openSUSE, our distro will be present in all the sites of the great event of free software in the region, giving away DVDâ€™s, LiveCDâ€™s, stickers, t-shirts, and more."  
+"Venezuelan Linux community is finishing all the preparations for the April 24, the day that all Latin America celebrate the FLISOL, Latin American Festival of Free Software Installation.  Through the sponsorship of Novell, the collaboration of ambassadors from other distributions, and GoSVe, the user group from Venezuela openSUSE, our distro will be present in all the sites of the great event of free software in the region, giving away DVD’s, LiveCD’s, stickers, t-shirts, and more."  
 
 
 ####  [Dorian Pula: Migrating to openSUSE](http://dorianpula.ca/2010/04/migrating-to-opensuse/)
 
 
-"If youâ€™ve followed my dents on identi.ca, you may have noticed that I asked people for their recommendations for a good KDE4 Linux distribution. Well after a bit of thought I decided that I would move away from Kubuntu to openSUSE. Why the change?"  
+"If you’ve followed my dents on identi.ca, you may have noticed that I asked people for their recommendations for a good KDE4 Linux distribution. Well after a bit of thought I decided that I would move away from Kubuntu to openSUSE. Why the change?"  
 
 
 ####  [openSUSE TV: openSUSE Conference 2009 - Meet the openSUSE Board](http://blip.tv/file/3513424)
@@ -971,10 +971,10 @@ The Build Service now hosts 12334 (+140) projects, 92653 (+195) packages, 21766 
 "Anas Nashif from Intel, gives us more of an insight into Moblin and how Intel & the Linux Foundation use the OBS to create it."  
 
 
-####  [**Martin Schlander: openSUSE-Guide.org â€“ status report**](http://mschlander.wordpress.com/2010/04/19/opensuse-guide-org-status-report/)
+####  [**Martin Schlander: openSUSE-Guide.org – status report**](http://mschlander.wordpress.com/2010/04/19/opensuse-guide-org-status-report/)
 
 
-"Today it was five months ago that I announced the availability of opensuse-guide.org, and soon Iâ€™ll begin updating it for openSUSE 11.3, so itâ€™s a good time for a quick status report.  Since the initial announcement the guide has had a few improvements including short, embedded screencasts using html5+Ogg Theora, demonstrating how to install packages, adding repositories and basic terminal usage.  The guide has been averaging steadily at about 230 unique visitors per day in the entire 5 month period. By far the most of the visitors are American, Germans are second, while the Danes, the British and the Russians are nearly tied for third place. Around 70% of the visitors are using a GNU/Linux operating system."  
+"Today it was five months ago that I announced the availability of opensuse-guide.org, and soon I’ll begin updating it for openSUSE 11.3, so it’s a good time for a quick status report.  Since the initial announcement the guide has had a few improvements including short, embedded screencasts using html5+Ogg Theora, demonstrating how to install packages, adding repositories and basic terminal usage.  The guide has been averaging steadily at about 230 unique visitors per day in the entire 5 month period. By far the most of the visitors are American, Germans are second, while the Danes, the British and the Russians are nearly tied for third place. Around 70% of the visitors are using a GNU/Linux operating system."  
 
 
 ###  People of openSUSE
@@ -986,7 +986,7 @@ The Build Service now hosts 12334 (+140) projects, 92653 (+195) packages, 21766 
 ####  [People of openSUSE: Andrew Wafaa](http://news.opensuse.org/2010/04/19/people-of-opensuse-andrew-wafaa/)
 
 
-"Aloha, Iâ€™m Andrew Wafaa. Most people call me Andy or Wafaa. Iâ€™m a married, father of three living in the UK. Iâ€™m a Scotsman born and bred in Aberdeen (The Granite City), but have some Egyptian blood in me, this led to my old General Manager calling me a â€œCamel Herder With A Skirtâ€, which stuck with me ever since.  Professionally Iâ€™m a Solutions Architect mainly dealing with SLES for one of the big service providers. The title is all grand but I basically pen push now and do a load of documentation which is really boring. Thankfully openSUSE is there to keep me alive and interested in life ;-) "  
+"Aloha, I’m Andrew Wafaa. Most people call me Andy or Wafaa. I’m a married, father of three living in the UK. I’m a Scotsman born and bred in Aberdeen (The Granite City), but have some Egyptian blood in me, this led to my old General Manager calling me a “Camel Herder With A Skirt”, which stuck with me ever since.  Professionally I’m a Solutions Architect mainly dealing with SLES for one of the big service providers. The title is all grand but I basically pen push now and do a load of documentation which is really boring. Thankfully openSUSE is there to keep me alive and interested in life ;-) "  
 
 
 ###  Events
@@ -1020,7 +1020,7 @@ Upcoming:
   * [** April 24, 2010: Linuxwochen (Linuxtage Graz), Austria**](http://www.linuxtage.at/)
 
 	
-  * [** April 24, 2010: Festival Latinoamericano de InstalaciÃ³n de Software Libre (FLISoL) **](http://flisol.net/)
+  * [** April 24, 2010: Festival Latinoamericano de Instalación de Software Libre (FLISoL) **](http://flisol.net/)
 
 	
   * [** April 24-25, 2010: LinuxFest Northwest 2010**](http://linuxfestnorthwest.org/)
@@ -1055,7 +1055,7 @@ You can find more informations on other events at:
 
 
 	
-  * [openSUSE News/Events](http://news.opensuse.org/category/events/) â€“ [Local events](http://en.opensuse.org/Ambassador/Events)
+  * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/Ambassador/Events)
 
 
 
@@ -1138,7 +1138,7 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
   * You can find other interesting Packages at: 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) â€“ [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1272,7 +1272,7 @@ Dear opensuse-security-announce subscribers and openSUSE users,  SUSE Security a
 ####  [Guest Blog: Kernel Review with openSUSE Flavor (Week 16)](http://lizards.opensuse.org/2010/04/23/guest-blog-kernel-review-with-opensuse-flavor-week-16/)
 
 
-"Guest Blog from Rares Aioanai: Howdy yâ€™all! Welcome to this weekâ€™s edition of hot kernel news! Letâ€™s get to it : (...)" 
+"Guest Blog from Rares Aioanai: Howdy y’all! Welcome to this week’s edition of hot kernel news! Let’s get to it : (...)" 
 </td>
 </tr>
 </tbody>
@@ -1328,7 +1328,7 @@ Dear opensuse-security-announce subscribers and openSUSE users,  SUSE Security a
 "Another week and another top ten one-liners from [commandlinefu](http://www.commandlinefu.com/) explained.  This is the third post in the series already, covering one-liners 21-30. See the previous two posts for the introduction of the series and one-liners 1-20:  * [Part I: Top Ten One-Liners from CommandLineFu Explained](http://www.catonmat.net/blog/top-ten-one-liners-from-commandlinefu-explained) * [Part II: The Next Ten One-Liners from CommandLineFu Explained](http://www.catonmat.net/blog/the-next-ten-one-liners-from-commandlinefu-explained)"  
 
 
-####  [Alex Barrios: Encrypt your files quick nâ€™ dirty](http://lizards.opensuse.org/2010/04/23/encrypt-your-files-quick-n-dirty/)
+####  [Alex Barrios: Encrypt your files quick n’ dirty](http://lizards.opensuse.org/2010/04/23/encrypt-your-files-quick-n-dirty/)
 
 
 "Encrypt a file can be useful when we want to keep sensitive information but do not trust the site is being stored.  GnuPG allows to quickly and easily create encrypted files without the use of public keys or complicated procedures, just run the following at a Linux terminal: 
@@ -1382,7 +1382,7 @@ $ _
 ####  [Christopher Hobbs: Novell Client on openSUSE 11.2](http://lizards.opensuse.org/2010/04/20/novell-client-on-opensuse-11-2/)
 
 
-"This has been covered on a couple of forums out there, but Iâ€™ve yet to find a decent comprehensive post. This is for 32bit systems, itâ€™s easily modified for 64bit setups.  First off, search your favorite RPM repo for binutils-2.19-9.3. I like to use [http://rpm.pbone.net](http://rpm.pbone.net/), but at the time of writing, they happen to be down.  Get a copy of the Novell Client ISO from [http://download.novell.com](http://download.novell.com/) and mount it:" 
+"This has been covered on a couple of forums out there, but I’ve yet to find a decent comprehensive post. This is for 32bit systems, it’s easily modified for 64bit setups.  First off, search your favorite RPM repo for binutils-2.19-9.3. I like to use [http://rpm.pbone.net](http://rpm.pbone.net/), but at the time of writing, they happen to be down.  Get a copy of the Novell Client ISO from [http://download.novell.com](http://download.novell.com/) and mount it:" 
 </td>
 </tr>
 </tbody>
@@ -1549,7 +1549,7 @@ $ _
 ####  [Linuxfoundation: Announcing the 2010 were linux video winners](http://www.linux.com/news/featured-blogs/167-amanda-mcpherson/300849-announcing-the-2010-were-linux-video-winners)
 
 
-"I am pleased to announce the winners of the 2010 Weâ€™re Linux Video Contest. We had quite a few amazing videos to choose from, many of which captured the spirit of Linux."  
+"I am pleased to announce the winners of the 2010 We’re Linux Video Contest. We had quite a few amazing videos to choose from, many of which captured the spirit of Linux."  
 
 
 ###  Call for participation
@@ -1597,7 +1597,7 @@ $ _
 ####  [ConsortiumInfo.org/Andy Updegrove: Oracle's ODF Plug-in Pricing: What's up with That?](http://www.consortiuminfo.org/standardsblog/article.php?story=20100421065030157)
 
 
-"When news of Oracle's intended acquisition of Sun Microsystems broke long ago, many people wondered what that would mean for OpenOffice, the most widely adopted full desktop implementation of ODF. But Oracle immediately imposed a company-wide "no comment" policy on that topic, so everyone has been wondering what the answer might be ever since.  So like many others, I expect, Iâ€™m trying to get my brain around Oracleâ€™s reasoning in deciding to charge $90 for a formerly free ODF conversion plug-in developed by Sun Microsystems. That downloadable plug-in was intended for Microsoft Office users who wanted to import ODF-compliant documents created, most obviously, by users of the free, open source OpenOffice.org (OOo) version, or of Sunâ€™s StarOffice, the for-sale, supported productivity suite based on the free OOo code.  Moreover, itâ€™s not just $90 youâ€™ll need to fork over â€“ the plug-in is only available in packages of 100."  
+"When news of Oracle's intended acquisition of Sun Microsystems broke long ago, many people wondered what that would mean for OpenOffice, the most widely adopted full desktop implementation of ODF. But Oracle immediately imposed a company-wide "no comment" policy on that topic, so everyone has been wondering what the answer might be ever since.  So like many others, I expect, I’m trying to get my brain around Oracle’s reasoning in deciding to charge $90 for a formerly free ODF conversion plug-in developed by Sun Microsystems. That downloadable plug-in was intended for Microsoft Office users who wanted to import ODF-compliant documents created, most obviously, by users of the free, open source OpenOffice.org (OOo) version, or of Sun’s StarOffice, the for-sale, supported productivity suite based on the free OOo code.  Moreover, it’s not just $90 you’ll need to fork over – the plug-in is only available in packages of 100."  
 
 
 ###  Warning!
@@ -1685,10 +1685,10 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [saigkill](http://en.opensuse.org/User:saigkill) [Talk](http://en.opensuse.org/User_talk:saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 	
-  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon MÃ¶ller (Second Editor in Chief, Main-Newsletter) 
+  * [Dl9pf](http://en.opensuse.org/User:Dl9pf) [Talk](http://en.opensuse.org/User_talk:Dl9pf) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter) 
 
 	
-  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian SchÃ¶binger (Tips/Tricks) 
+  * [STS301](http://en.opensuse.org/User:STS301) [Talk](http://en.opensuse.org/User_talk:STS301) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 	
   * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/User_talk:HeliosReds) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
@@ -1697,7 +1697,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
   * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/User_talk:Caf4926) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 	
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas HofstÃ¤tter (Events & Meetings) 
+  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/User_talk:Okuro) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 	
   * add translators 
@@ -1735,7 +1735,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 
 
 
-[English](http://en.opensuse.org/OpenSUSE_Weekly_News/120) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/120) [EspaÃ±ol](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/120) [æ—¥æœ¬èªž](http://ja.opensuse.org/OpenSUSE_Weekly_News/120) [Ð ÑƒÑÑÐºÐ¸Ð¹](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/120) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/120) [PortuguÃªs](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/120) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/120/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/120) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/120) [ç®€ä½“ä¸­æ–‡](http://en.opensuse.org/OpenSUSE_Weekly_News/120/chinese) [ç¹é«”ä¸­æ–‡](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/120) [FranÃ§ais](http://fr.opensuse.org/Lettre_d%27information_openSUSE/120) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/120/swedish) [ÄeÅ¡tina](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/120)
+[English](http://en.opensuse.org/OpenSUSE_Weekly_News/120) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/120) [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/120) [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/120) [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/120) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/120) [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/120) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/120/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/120) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/120) [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/120/chinese) [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/120) [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/120) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/120/swedish) [Íeština](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/120)
 </td>
 </tr>
 </tbody>

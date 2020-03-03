@@ -14,7 +14,7 @@ categories:
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #68 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/68)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
  
 
   *  Call for Participations: openSUSE Summit 2009 

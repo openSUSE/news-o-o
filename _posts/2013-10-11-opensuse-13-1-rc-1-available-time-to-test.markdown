@@ -197,7 +197,7 @@ We'd like to thank all the hardworking Geekos for their contributions to this re
 <td align="RIGHT" height="17" >**8**
 </td>
 
-<td align="LEFT" >Matthias MailÃ¤nder
+<td align="LEFT" >Matthias Mailänder
 </td>
 </tr>
 <tr >

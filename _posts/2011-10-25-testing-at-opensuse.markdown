@@ -22,7 +22,7 @@ This article explains how **openQA** works and how you can help keep Factory wor
 ## Development Cycle
 
 
-Testing  is generally done on the latest development release, with additional testing sometimes done using updates from Factory to verify bug fixes. Everything in Factory is passed through our automated test framework openQA. You  can read more about openQA an the announcementÂ [openSUSE News](http://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/). openQA is a great test suite  and is capable of producing videos of the whole process and also  screenshots. This greatly reduces the overhead for the testers. An overview of the test results can be found [here](http://openqa.opensuse.org).
+Testing  is generally done on the latest development release, with additional testing sometimes done using updates from Factory to verify bug fixes. Everything in Factory is passed through our automated test framework openQA. You  can read more about openQA an the announcement [openSUSE News](http://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/). openQA is a great test suite  and is capable of producing videos of the whole process and also  screenshots. This greatly reduces the overhead for the testers. An overview of the test results can be found [here](http://openqa.opensuse.org).
 
 
 # Using openQA

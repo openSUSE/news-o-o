@@ -104,14 +104,14 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 Enjoy reading :-)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 ### Important
 
 The Articles inside this Section are in full. If you are already knowing the stuff in
       news.opensuse.org, then you can skip this section through using the TOC.
 
-â€œ
+“
 
 
       [oS strategy](http://blog.jospoortvliet.com/2011/07/os-strategy.html)
@@ -140,9 +140,9 @@ _In short, please vote, even if you want to neither answer yes or no - there is 
 
 Note that the document isn't meant to be final and should be revised in the future. That's also why we're still very much open to feedback! 
 
-â€
+”
 
-â€œ
+“
 
 
       [Have a computer? Then you can participate in the HCL Week!](http://news.opensuse.org/2011/07/08/have-a-computer-then-you-can-participate-in-the-hcl-week/)
@@ -158,9 +158,9 @@ Go to the [hardware portal](http://en.opensuse.org/Portal:Hardware) and add your
 
 If anyone is interested in helping out to improve this process, for example by creating a way to transform a smolt url to an entry in the wiki, that would be immensely helpful! Suggestions and offers for help are welcome [in this forum thread](http://forums.opensuse.org/english/other-forums/community-fun/opensuse-wiki-discussions/).
 
-â€
+”
 
-â€œ
+“
 
 
       [openSUSE Conference 2011: Registration](http://conference.opensuse.org/indico//confRegistrationFormDisplay.py?confId=2)
@@ -174,21 +174,21 @@ If anyone is interested in helping out to improve this process, for example by c
 
 The registration for the openSUSE Conference 2011 is now open. Please make sure to register to help us planning for a great event.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Codeâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
 <td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
-â€œ
+“
 
 
       [Alex Eftimie: PackageKit backend for Software Center: short week 5 report](http://alex.eftimie.ro/2011/07/02/packagekit-backend-for-software-center-short-week-5-report/)
     
 
-This week I continued work on the install backend, especially connecting the PackageKit transaction signals to the software-centerâ€™s TransactionWatcher (also abstracted by me some time ago).
+This week I continued work on the install backend, especially connecting the PackageKit transaction signals to the software-center’s TransactionWatcher (also abstracted by me some time ago).
 
 The challenge stands in differences from PackageKit and AptDaemon, such as in AD, after preparing a transaction and manually commiting it,  one has access to the transaction object, and can watch for progress changes; in PK, after a transaction is launched, there are two ways of getting access to it: first by listening to a TransactionListChanged signal in D-Bus and second by watching the objects returned by the progress_callback callback.
 
@@ -197,9 +197,9 @@ The current approach, helped closely by hue-see (hughsie) on #PackageKit is to g
 More to come next week, stay tuned!
 
 
-â€
+”
 
-â€œ
+“
 
 
       [Alex Eftimie: PackageKit backend for Software Center: week 6 report](http://alex.eftimie.ro/2011/07/08/packagekit-backend-for-software-center-week-6-report/)
@@ -207,15 +207,15 @@ More to come next week, stay tuned!
 
 Hi everyone, for this week report I would like to show you a screencast with the packagekit-backend branch of software-center: (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Ratan Sebastian: GSOC 2011: ssc Week 6](http://rxvl.in/post/7219106912/gsoc-2011-ssc-week-6)
     
 
-Most of the work this week has gone into the File Handler. Adding and removing files in appliances has been implemented although there is a lot of work left to be done to make this robust. Right now its pretty basic. However Iâ€™m going to ease up on adding functionality right now to make the app more robust and usable. The mid-term evaluations are coming up and the plan is to have a usable app that is community tested by then. Not to say that new features wonâ€™t be added over the next two weeks, but it will be a second priority. In making the app more stable, the following things will be addressed:
+Most of the work this week has gone into the File Handler. Adding and removing files in appliances has been implemented although there is a lot of work left to be done to make this robust. Right now its pretty basic. However I’m going to ease up on adding functionality right now to make the app more robust and usable. The mid-term evaluations are coming up and the plan is to have a usable app that is community tested by then. Not to say that new features won’t be added over the next two weeks, but it will be a second priority. In making the app more stable, the following things will be addressed:
 
   1. Ruby 1.8.7 (backward) compatibility
 
@@ -229,21 +229,21 @@ Most of the work this week has gone into the File Handler. Adding and removing f
 
 That will be the focus over the next two weeks building up to the mid-term evaluation. Thank you for reading. As always you can check out the core [here](http://gitorious.org/ssc/ssc).
 
-â€
+”
 
-â€œ
+“
 
 
       [N.B.Prashanth: YUI moves to SourceForge](http://nbprashanth.wordpress.com/2011/07/04/yui-moves-to-sourceforge/)
     
 
-Over the last month, libYUI has significantly expanded. It is an independent framework and is avalable outside the SUSE framework making it accessible to a wide audience. This has resulted in the project having distributed content on the web. For example, the source code is maintained at gitorious.org (currently svn.opensuse.org) and the documentation at docs.opensuse.org etc. YUI does not have itâ€™s own mailing list and the issues are still being dealt with on the yast ML. Considering all this, we thought that it would be good to have a central place where from all the resources can be accessed. Thus, we bring to you, [sourceforge.net/projects/libyui/](http://sourceforge.net/projects/libyui/).
+Over the last month, libYUI has significantly expanded. It is an independent framework and is avalable outside the SUSE framework making it accessible to a wide audience. This has resulted in the project having distributed content on the web. For example, the source code is maintained at gitorious.org (currently svn.opensuse.org) and the documentation at docs.opensuse.org etc. YUI does not have it’s own mailing list and the issues are still being dealt with on the yast ML. Considering all this, we thought that it would be good to have a central place where from all the resources can be accessed. Thus, we bring to you, [sourceforge.net/projects/libyui/](http://sourceforge.net/projects/libyui/).
 
 This means that :
 
-  1. YUI has itâ€™s own bug tracker. Any bugs/feature requests should be reported at the sourceforge page.
+  1. YUI has it’s own bug tracker. Any bugs/feature requests should be reported at the sourceforge page.
 
-  2. YUI will not maintain itâ€™s source code at SF as we are already porting the code to gitorious.org.
+  2. YUI will not maintain it’s source code at SF as we are already porting the code to gitorious.org.
 
   3. Current release tarballs can be found at the SF downloads page.
 
@@ -255,17 +255,17 @@ This means that :
 
 So, stay tuned to sourceforge to keep track of YUI!
 
-â€
+”
 
-â€œ
+“
 
 
-      [Marcus HÃ¼we: [gsoc] osc code cleanup â€“ summary of week 6](http://lizards.opensuse.org/2011/07/04/gsoc-osc-code-cleanup-%E2%80%93-summary-of-week-6/)
+      [Marcus Hüwe: [gsoc] osc code cleanup – summary of week 6](http://lizards.opensuse.org/2011/07/04/gsoc-osc-code-cleanup-%E2%80%93-summary-of-week-6/)
     
 
-hereâ€™s a small summary of the 6th (coding) week. Unfortunately I had
-to spent more time with university stuff than I expected â€“ thatâ€™s why
-I didnâ€™t finish the complete todo for this week.
+here’s a small summary of the 6th (coding) week. Unfortunately I had
+to spent more time with university stuff than I expected – that’s why
+I didn’t finish the complete todo for this week.
 I did some code restructuring and started to work on the class for the
 source route.
 
@@ -282,68 +282,68 @@ prj
 
 |
 
-â€”> .osc/ (stores prj _and_ pkg metadata)
+—> .osc/ (stores prj _and_ pkg metadata)
 
 |
 
-â€”> pkg1
+—> pkg1
 
 #       |
 
-#        â€”> <files>
+#        —> <files>
     
 
-â€
+”
 
-â€œ
+“
 
-â€¦
+…
 
 |
 
-â€”> pkgN
+—> pkgN
 
 #       |
 
-#        â€”> <files>
+#        —> <files>
 
 So all metadata is stored in the prj/.osc dir instead of prj/pkg/.osc
     The advantage is that we can support a complete package
-    â€œrestoreâ€ (without the need to download the package again):
+    “restore” (without the need to download the package again):
 
 cd prj; rm -r pkg; osc revert/restore pkg;
 
-(thatâ€™s possible because the metadata is stored in the prj/.osc
+(that’s possible because the metadata is stored in the prj/.osc
     dir).
 
   * to convert old project/package working copies to the new format
-    the â€œosc repairwcâ€ command can be used (at least thatâ€™s the plan)
+    the “osc repairwc” command can be used (at least that’s the plan)
 
 Feedback is always welcome.
 
-â€
+”
 
-â€œ
+“
 
 
-      [Manu Gupta: SaX3 â€“ Get your hands dirty](http://sysbytes.wordpress.com/2011/07/08/sax3-get-your-hands-dirt/)
+      [Manu Gupta: SaX3 – Get your hands dirty](http://sysbytes.wordpress.com/2011/07/08/sax3-get-your-hands-dirt/)
     
 
 Its been a long time I posted anything, but things look promising now, SaX3 is moving forward and 2 of its module have been completed, the keyboard module and the mouse module, so please test it and give me your feedbacks and if there are any bugs. BUGS will certainly be squashed, I dont know about UI changes. Suggestions are welcome. I plan to work on touchpads next. (...)
 
-â€
+”
 
-â€œ
+“
 
 
-      [Christos Bountalis: A utility for merging configuration / sysconfig files â€“ Week 7 Report](http://cbounta.wordpress.com/2011/07/08/a-utility-for-merging-configuration-sysconfig-files-%E2%80%93-week-7-report/)
+      [Christos Bountalis: A utility for merging configuration / sysconfig files – Week 7 Report](http://cbounta.wordpress.com/2011/07/08/a-utility-for-merging-configuration-sysconfig-files-%E2%80%93-week-7-report/)
     
 
 This is the 7th week report for my GSoC project. During the implementation of the matching procedures, i talked in my last blog post, there were some new developments concerning the project. That made the actual matching procedure halt for a while, because there are no effective way at the moment to test the matching progress in the actual implementation. Where is the problem? The problem that occurred is the handling of the special comments that are used in many of the sysconfig files. These comments may appear next to simple description comments but contain useful information that are then interpreted by the program, such information could be for example the type of a variable etc. So what now? This week I am trying to find an effective way to deal with this problem, the initial idea i have is to modify the sysconfig lens, used by Augeas, in order to represent the sysconfig files in a tree form (with more levels that the current) that will be suitable for the matching/sorting algorithms i have already implemented. (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Justine Leng: git commit](http://forums.opensuse.org/english/other-forums/community-fun/opensuse-wiki-discussions/)
@@ -351,21 +351,21 @@ This is the 7th week report for my GSoC project. During the implementation of th
 
 Finally committed and pushed a batch of changes I had made on request views and project/page views to the master branch. See diffs on Gitorious: [https://gitorious.org/~justineleng/opensuse/justineleng-build-service](https://gitorious.org/~justineleng/opensuse/justineleng-build-service) (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Eric Yang: Porting Wubi to OpenSUSE [weekly report #3]](http://verybin.tumblr.com/post/7194777955/weekly-report-3)
     
 
-the windowsâ€™ side of this app works fine now, that means the tool will do the preparation work like download and check iso image, create virtual disk file, create installation entry and so on. the left work is done after reboot â€” the real installation progress, thatâ€™s the main part I was/am focusing on.
+the windows’ side of this app works fine now, that means the tool will do the preparation work like download and check iso image, create virtual disk file, create installation entry and so on. the left work is done after reboot — the real installation progress, that’s the main part I was/am focusing on.
 
 during the past week, I was focusing on modification of boot settings, as there is no detailed log info for boot progress, the project did not evolve very smoothly:( problem is that installer can not create loop device successfully after reboot. I will try my best to solve this problem in this week.
 
-â€
+”
 
-â€œ
+“
 
 
       [David Williams: Entomologist UI Changes Weekly Report #7](http://redache.wordpress.com/2011/07/08/entomologist-ui-changes-weekly-report-7/)
@@ -386,9 +386,9 @@ My plan for next week is to:
 By this time next week I'll hopefully have much more to show off to coincide
 with the Midterm point :).
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
@@ -404,23 +404,23 @@ Important Links
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
-â€œ
+“
 
 
-          [Nelson Marques: GNOME3 â€“ The perfect dockâ€¦](http://www.marques.so/2011/07/gnome3-the-perfect-dock/)
+          [Nelson Marques: GNOME3 – The perfect dock…](http://www.marques.so/2011/07/gnome3-the-perfect-dock/)
         
 
-It came to my knowledge through a comment on my blog about one interesting thing that poped out in the sceneâ€¦ For everyone complaining or seeking for extra usability on GNOME3, it seems that Canonical without even noticed brought the answer for this with Unity 2Dâ€¦
+It came to my knowledge through a comment on my blog about one interesting thing that poped out in the scene… For everyone complaining or seeking for extra usability on GNOME3, it seems that Canonical without even noticed brought the answer for this with Unity 2D…
 
-Hereâ€™s a tiny screenshot of GNOME3 running on openSUSE 11.4 with the Unity 2D Launcher being used as a dockbar, and trust me it ownsâ€¦ Though my work with Unity 2D is still somehow delayed for upcoming 12.1 and I have my hands filled with Mono, Iâ€™m soon make this option available to all usersâ€¦ (...)
+Here’s a tiny screenshot of GNOME3 running on openSUSE 11.4 with the Unity 2D Launcher being used as a dockbar, and trust me it owns… Though my work with Unity 2D is still somehow delayed for upcoming 12.1 and I have my hands filled with Mono, I’m soon make this option available to all users… (...)
 
-â€
+”
 
-â€œ
+“
 
 
           [Vincent Untz: GNOME Status in Factory](http://lists.opensuse.org/archive/opensuse-gnome/2011-07/msg00007.html)
@@ -450,11 +450,11 @@ Alternatively, we still can find easy tasks to work with, if people want
 to get mentored to start contributing. Just join #opensuse-gnome and
 ping DimStar or me :-)
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
-â€œ
+“
 
 
           [Ismail Doenmez: Heads up for openSUSE 11.4 users: MySQL security update breaks akonadi](http://lists.opensuse.org/archive/opensuse-kde/2011-07/msg00087.html)
@@ -466,9 +466,9 @@ I'll let you know when this is fixed, you might want to postpone updating to 4.7
 
 [0] [https://bugzilla.novell.com/show_bug.cgi?id=676973#c9](https://bugzilla.novell.com/show_bug.cgi?id=676973#c9)
 
-â€
+”
 
-â€œ
+“
 
 
           [Ismail Doenmez: KDE 4.7 rc2 is building in KDE:Unstable:SC](http://lists.opensuse.org/archive/opensuse-kde/2011-07/msg00099.html)
@@ -476,13 +476,13 @@ I'll let you know when this is fixed, you might want to postpone updating to 4.7
 
 KDE team is releasing like a mad man so we can't be left behind can we? KUSC is now building 4.7 rc2, I'll keep an eye on build failures and let you know when it finishes. 
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 357)](https://features.opensuse.org/120340)
@@ -491,9 +491,9 @@ KDE team is releasing like a mad man so we can't be left behind can we? KUSC is 
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 188)](https://features.opensuse.org/305493)
@@ -508,9 +508,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [1-click uninstall (Score: 156)](https://features.opensuse.org/305305)
@@ -518,9 +518,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 136)](https://features.opensuse.org/308497)
@@ -538,9 +538,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 103)](https://features.opensuse.org/305877)
@@ -561,13 +561,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [Add NTP.br in openSUSE Linux 12.1](https://features.opensuse.org/312602)
@@ -577,9 +577,9 @@ Add NTP.br in
 [openSUSE Linux 12.1](http://en.opensuse.org/Main_Page) :
 [http://www.ceptro.br/CEPTRO/EnglishHome#NTP_br_Brazilian_Legal_Time_over](http://www.ceptro.br/CEPTRO/EnglishHome#NTP_br_Brazilian_Legal_Time_over)
 
-â€
+”
 
-â€œ
+“
 
 
             [Add Android SDK to the distribution](https://features.opensuse.org/312608)
@@ -587,9 +587,9 @@ Add NTP.br in
 
 For a more easy installation and benefits in a systemwide install.
 
-â€
+”
 
-â€œ
+“
 
 
             [Include slab in 12.1 fallback](https://features.opensuse.org/312610)
@@ -597,9 +597,9 @@ For a more easy installation and benefits in a systemwide install.
 
 If you hold down the alt key and right click anywhere on the panels, you'll find it's the same stuff when it comes to customizing the panels and applets. Since slab is an applet and menu, it is possible to include and integrate slab with GNOME 3.2 if it retains fall back mode. Or at least include slab in the repos so it can be installed and one can tweak GNOME fallback to have it. It would be complementary to how Ubuntu included the Ubuntu Classic Desktop for those either unable to run Unity or didn't like Unity.
 
-â€
+”
 
-â€œ
+“
 
 
             [drop libxcrypt](https://features.opensuse.org/312617)
@@ -622,9 +622,9 @@ Needed adjustments:
 Disadvantage:
 we currently lose support for bigcrypt.
 
-â€
+”
 
-â€œ
+“
 
 
             [Add and improve the integration of all programs of the GNOME Office in LXDE/12.1](https://features.opensuse.org/312618)
@@ -658,7 +658,7 @@ Add and improve the integration of all programs of the GNOME Office in LXDE/open
 
   * [GNOME-DB](http://www.gnome-db.org/)
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -666,7 +666,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Nuvola_apps_ooo_gulls.png)OpenOffice/LibreOffice Team
 
-â€œ
+“
 
 
           [Fridrich Strba: LibreOffice Visio import filter - round shapes are beautiful](http://fridrich.blogspot.com/2011/07/libreoffice-visio-import-filter-round.html)
@@ -676,20 +676,20 @@ Some might be wondering why the Visio import filter project is so quiet. But the
 
 You might remember [my blog about the bounding box of an elliptical arc](http://fridrich.blogspot.com/2011/06/bounding-box-of-svg-elliptical-arc.html). It is because [Eilidh](http://www.derivativezero.com/blog/) added the support of elliptical arcs into [libvisio](http://cgit.freedesktop.org/libreoffice/contrib/libvisio/). And then we discovered that [LibreOffice](http://www.libreoffice.org/) did not support elliptical arcs in the path at all, just ignored them. Fortunately, there was [this patch](http://cgit.freedesktop.org/libreoffice/libs-gui/commit/?id=246168e94709a5ea7f34914d8e246af0985a9c81) of a hacker extraordinaire, [Thorsten](http://blog.thebehrens.net/) that was used to teach [LibreOffice](http://www.libreoffice.org/) some sane behaviour. (...)
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Postings from the Community
 
-â€œ
+“
 
 
         [Vincent Untz: Only a few days left for the openSUSE Conference Call for Papers](http://www.vuntz.net/journal/post/2011/07/08/Only-a-few-days-left-for-the-openSUSE-Conference-Call-for-Papers)
@@ -697,7 +697,7 @@ You might remember [my blog about the bounding box of an elliptical arc](http://
 
 The third [openSUSE Conference](http://en.opensuse.org/Portal:Conference) will occur on September 11-14, and there are only a few days left to submit a talk: the [call for papers](http://news.opensuse.org/2011/05/16/opensuse-conference-2011-to-be-creative-and-open/) is open until next Monday! So don't think twice, and go [submit](http://conference.opensuse.org/indico/conferenceDisplay.py?confId=2) something now. If you really want to think twice, take a look at our [guidelines for speakers](http://en.opensuse.org/openSUSE:Conference_Planning_2011_guidelines_for_speakers), they should convince it's worth the effort!
 
-There's a change this year: after thinking about how we could improve the conference, we decided that we wanted a stronger focus on smaller and interactive sessions. We describe this as "read-write". But we also want to be ready to execute the results of those discussions, hence the "execute" bit. This is why we ended up with rwx, which might sound [familiar](http://en.wikipedia.org/wiki/File_system_permissions#Symbolic_notation). And since we want this for each of us, for our community and for the rest of the world, **rwxÂ³** is our motto for this year. Yes, it's geeky, but hey, this is also part of our identity ;-)
+There's a change this year: after thinking about how we could improve the conference, we decided that we wanted a stronger focus on smaller and interactive sessions. We describe this as "read-write". But we also want to be ready to execute the results of those discussions, hence the "execute" bit. This is why we ended up with rwx, which might sound [familiar](http://en.wikipedia.org/wiki/File_system_permissions#Symbolic_notation). And since we want this for each of us, for our community and for the rest of the world, **rwx³** is our motto for this year. Yes, it's geeky, but hey, this is also part of our identity ;-)
 
 
 
@@ -707,9 +707,9 @@ What about you?
 
 What will you [submit](http://conference.opensuse.org/indico/conferenceDisplay.py?confId=2)?
 
-â€
+”
 
-â€œ
+“
 
 
         [Stathis Iosifidis: OSHackers project](http://lists.opensuse.org/archive/opensuse-project/2011-07/msg00010.html)
@@ -728,11 +728,11 @@ left-clicking on the system's icon, (3) visualization of a specific system, etc.
 
 You are more than welcomed to register and tell us what you think!
 
-â€
+”
 
 ### People of openSUSE
 
-â€œ
+“
 
 
         [People of openSUSE: Manu Gupta](http://news.opensuse.org/2011/07/05/people-of-opensuse-manu-gupta/)
@@ -750,7 +750,7 @@ I started with computers in my 6th standard I believe starting with computer gam
 
 I started using openSUSE around 2 years back. I started to use it out of fascination and to learn about Linux as much as I can. Earlier I used Ubuntu and Fedora too but openSUSE caught my attention. I realized it to be a wonderful operating system that furnished my needs. (...)
 
-â€
+”
 
 ### Events & Meetings
 
@@ -775,9 +775,9 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [openSUSE Connect](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
 
-â€œ
+“
 
 
       [Michael Chang: New package cairo-compmgr](Michael Chang: New package cairo-compmgr)
@@ -806,13 +806,13 @@ it can run in 2D environment.
 4. Regardless of it's simplicity compared to other composite manager,
 it also provides expandable via plugin. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Cornerâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Corner▲▼
 
 The Section provides the Game of the Week, and Updates in the Game Repository
 
-â€œ
+“
 
 
       [dedoimedo: OpenTTD on openSUSE -
@@ -832,18 +832,18 @@ Five years had flown past, but the game remains as fun as ever. Simply timeless.
 
 ![](http://www.dedoimedo.com/images/games/openttd-new-teaser.jpg)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-â€œ
+“
 
 SUSE Security Announcement: MozillaFirefox,MozillaThunderbird (SUSE-SA:2011:028)[http://lists.opensuse.org/archive/opensuse-security-announce/2011-07/msg00001.html](http://lists.opensuse.org/archive/opensuse-security-announce/2011-07/msg00001.html)
 
-<table frame="void" id="id320275" >TableÂ 1.Â SUSE Security Announcement<tr >
+<table frame="void" id="id320275" >Table 1. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -883,15 +883,15 @@ SUSE Security Announcement: MozillaFirefox,MozillaThunderbird (SUSE-SA:2011:028)
           
 <td >remote code execution
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-â€œ
+“
 
 
       [SUSE Security Announcement: bind remote denial of service (SUSE-SA:2011:029)](http://lists.opensuse.org/archive/opensuse-security-announce/2011-07/msg00002.html)
     
 
-<table frame="void" id="id320429" >TableÂ 2.Â SUSE Security Announcement<tr >
+<table frame="void" id="id320429" >Table 2. SUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -931,11 +931,11 @@ SUSE Security Announcement: MozillaFirefox,MozillaThunderbird (SUSE-SA:2011:028)
           
 <td >remote denial of service
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [Linus Torvalds: Linux 3.0-rc6](https://lkml.org/lkml/2011/7/4/320)
@@ -963,9 +963,9 @@ pretty esoteric.
 
 And so, I'm off to make s'mores, (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 3.0 (Part 3) Architecture, infrastructure and virtualisation](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-0-Part-3-Infrastructure-1275463.html)
@@ -979,13 +979,13 @@ This has been another week in which Linus Torvalds [issued](http://thread.gmane.
 
 Apart from the driver, the developers have only made minor corrections in various places. Torvalds indicated that he is getting to the point where he is thinking about releasing Linux 3.0 "because it's been pretty quiet, and the fixes haven't been earth-shakingly exciting". The Kernel Log will, therefore, continue its report on the advancements of Linux 3.0 by discussing the changes to the kernel's architecture, infrastructure and virtualisation components. In the coming days, the fourth and last part of the "Coming in 3.0" mini series will discuss drivers; [part 1](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-0-Part-1-Networking-1257847.html) revolved around the kernel's network drivers and infrastructure, and [part 2](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-0-Part-2-Filesystems-1263681.html) discussed its filesystems. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
-â€œ
+“
 
 
         [mygnulinux.com/tetris4: Remotely manage your KDE system from your Android Phone](http://www.mygnulinux.com/?p=1117)
@@ -993,9 +993,9 @@ Apart from the driver, the developers have only made minor corrections in variou
 
 To achieve this, you are going to need a VNC server running on the host computer, and a VNC viewer running on your Android phone. This may sound complicated to some, but its really easy. Just follow this simple how-to! :) (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Hubfolio/Matthew Casperson: Installing Android x86 in VirtualBox](http://www.brighthub.com/hubfolio/matthew-casperson/blog/archive/2011/07/03/installing-android-x86-in-virtualbox.aspx)
@@ -1005,11 +1005,11 @@ In a [previous post](http://www.brighthub.com/hubfolio/matthew-casperson/blog/ar
 
 If you are just interested in running Android applications on your desktop PC, a project called [Android x86](http://www.android-x86.org/) provides a copy of the Android operating system compiled for x86 processors. The latest release is Android 2.2, which is a little bit behind Honeycomb (Android 3), but is still capable of running almost all Android applications. (...)
 
-â€
+”
 
 ### For Commandline/Script Newbies
 
-â€œ
+“
 
 
         [BashShell.net/mike: Understanding Functions](http://bashshell.net/shell-scripts/understanding-functions/)
@@ -1017,34 +1017,34 @@ If you are just interested in running Android applications on your desktop PC, a
 
 A function can help you modularize your script.  Because the function is executed in the context of the same shell, it does not create a new child process, this makes functions faster as they access the information in RAM.  This also will save on resources as you use functions.  Functions are a script within a script which can be defined by the user and stored in memory, allowing you to reuse the function repeatedly.  This also provides  a modular aspect that allows you to debug one function at a time be disabling functions. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linuxaria/linuxari: The dd command on Linux terminal.](http://linuxaria.com/howto/the-dd-command-on-linux-terminal?lang=en)
       
 
-dd seem an unfriendly command, but if you start to use it, youâ€™ll see that itâ€™s a powerful command able to do many different things, backup a partition, CD or USB stick for example or do some simple tests on the speed of your disks or your CPU. (...)
+dd seem an unfriendly command, but if you start to use it, you’ll see that it’s a powerful command able to do many different things, backup a partition, CD or USB stick for example or do some simple tests on the speed of your disks or your CPU. (...)
 
-â€
+”
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 
         [Wazi/Juliet Kemp: Migrate from SVN to Git easily with git-svn](http://olex.openlogic.com/wazi/2011/migrate-from-svn-to-git-easily-with-git-svn/)
       
 
-So, youâ€™re interested in trying out [Git](http://olex.openlogic.com/packages/git) â€“ or youâ€™ve even tried it for your own private projects and liked it â€“ but at work, the existing repositories all use [Subversion](http://olex.openlogic.com/packages/subversion). Maybe you plan to switch over to Git, but you want a commitment-free tryout before you take the plunge and switch wholesale. Fear not: git-svn is here to help you. (...)
+So, you’re interested in trying out [Git](http://olex.openlogic.com/packages/git) – or you’ve even tried it for your own private projects and liked it – but at work, the existing repositories all use [Subversion](http://olex.openlogic.com/packages/subversion). Maybe you plan to switch over to Git, but you want a commitment-free tryout before you take the plunge and switch wholesale. Fear not: git-svn is here to help you. (...)
 
-â€
+”
 
-â€œ
+“
 
 
-        [Dr. Dobb's/Stefan WÃ¶rthmÃ¼ller: Introducing Multithreading to Mature Desktop Applications](http://drdobbs.com/tools/231000894)
+        [Dr. Dobb's/Stefan Wörthmüller: Introducing Multithreading to Mature Desktop Applications](http://drdobbs.com/tools/231000894)
       
 
 **A crash course tutorial**
@@ -1055,34 +1055,34 @@ The good news is that you do not have to migrate your whole application. The mig
 
 This article shows how to introduce multithreading to mature desktop applications written in C and C++. These applications usually have some attributes that make it more difficult to introduce multithreading: They often consist of old code with many nooks and crannies whose functions are undocumented and unknown, or they are GUI applications with a single main thread. Let's explore how to migrate these applications. (...)
 
-â€
+”
 
 ### For System Administrators
 
-â€œ
+“
 
 
         [Uwe Gansert: Unattended Upgrade with AutoYaST](http://suse.gansert.net/?p=239)
       
 
 Today I want to introduce a new feature of SLES11 SP2. Usually you use AutoYaST to do fresh installations of a system including formatting the partitions and do all kind of new-system configuration in your AutoYaST XML.
-With SLES11 SP2 youâ€™ll have the option of doing unattended upgrades of a previously installed systems too.
+With SLES11 SP2 you’ll have the option of doing unattended upgrades of a previously installed systems too.
 
 Imagine you have a running SLES10 SP4 and want to upgrade it now to SLES11 SP2 with AutoYaST, what are the steps to do that? (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [TechRepublic/Marco Fioretti: How to remove duplicate files without wasting time](http://www.techrepublic.com/blog/opensource/how-to-remove-duplicate-files-without-wasting-time/2667)
       
 
-Duplicate files can enter in your computer in many ways. No matter how it happened, they should be removed as soon as possible. Waste is waste: why should you tolerate it? Itâ€™s not just a matter of principle: duplicates make your backups, not to mention indexing with Nepomuk or similar engines, take more time than itâ€™s really necessary. So letâ€™s get rid of them. (...)
+Duplicate files can enter in your computer in many ways. No matter how it happened, they should be removed as soon as possible. Waste is waste: why should you tolerate it? It’s not just a matter of principle: duplicates make your backups, not to mention indexing with Nepomuk or similar engines, take more time than it’s really necessary. So let’s get rid of them. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linux Journal/Johan Thelin: Safer Access without Passwords](http://www.linuxjournal.com/content/safer-access-without-passwords)
@@ -1092,25 +1092,25 @@ How do you make sure that your passwords are safe? You can make them longer, com
 
 The secure shell, ssh, is a key tool in any Linux user's toolbox. As soon as you have more than one machine to interact with, ssh is the obvious choice. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
-â€œ
+“
 
 
-      [Petr Baudis: I use 6to4 â€“ why are my applications still preferring IPv4?](http://log.or.cz/?p=188)
+      [Petr Baudis: I use 6to4 – why are my applications still preferring IPv4?](http://log.or.cz/?p=188)
     
 
-I found out about this curious behavior almost a month ago during [the World IPv6 Day](http://www.worldipv6day.org/). I was surprised about this, even though I really shouldnâ€™t be, given that I was fixing some bugs in the glibc implementation of this mechanism only few months earlier. ;-)
+I found out about this curious behavior almost a month ago during [the World IPv6 Day](http://www.worldipv6day.org/). I was surprised about this, even though I really shouldn’t be, given that I was fixing some bugs in the glibc implementation of this mechanism only few months earlier. ;-)
 
 If you are not bothering with tunnel brokers anymore and are using 6to4 for your IPv6 connectivity like me, you might have noticed that your applications still prefer IPv4, disappontingly. You can use getent ahosts [www.brmlab.cz](http://www.brmlab.cz/) (or a different host) to see the list of addresses in the order your applications will most likely try to connect by default.
 
 The key mechanism in play here is the [RFC3484](http://www.ietf.org/rfc/rfc3484.txt) [getaddrinfo(3)](http://www.kernel.org/doc/man-pages/online/pages/man3/getaddrinfo.3.html) address selection mechanism; on GNU/Linux system, it is described (and configurable) in /etc/gai.conf. The aim of the mechanism is to choose the most suitable pair of source and destination addresses; this is the place where we can choose whether to prefer IPv4 or IPv6, that if we can talk to localhost, we should do it that way, or to talk to link-local addresses using link-local addresses too. (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Jos Poortvliet: Getting the new MS fonts in LibreOffice - or rather, forget about it](http://blog.jospoortvliet.com/2011/07/getting-new-ms-fonts-in-libreoffice-or.html)
@@ -1126,31 +1126,31 @@ I already wrote most of the following blog (actually more, including making scre
 
 If you get a document with fonts you don't have, the result can be bad. Layout will surely not be proper and for some reason LO and Caligra pick a horrible replacement on my computer - Alien Leage, see screenshot. Guaranteed to make any normal document unreadable. And the idiotic 'reading mode' of LO makes it impossible to change the font until you've saved the file somewhere. The benefit of that mode always escaped me in MS Office, at least I knew how to turn it off... (...)
 
-â€
+”
 
-â€œ
+“
 
 
-      [Nelson Marques: The Â«BansheeÂ» incidentâ€¦](http://www.marques.so/2011/07/the-%C2%ABbanshee%C2%BB-incident-a-horror-tale-by-nmarques/)
+      [Nelson Marques: The «Banshee» incident…](http://www.marques.so/2011/07/the-%C2%ABbanshee%C2%BB-incident-a-horror-tale-by-nmarques/)
     
 
-The latest unstable version of Banshee (2.1.0) introduced quite a few changes and one of the most visible was the replacement of NDesk.DBus by DBus. This change came with a huge pedagogic charge on meâ€¦
+The latest unstable version of Banshee (2.1.0) introduced quite a few changes and one of the most visible was the replacement of NDesk.DBus by DBus. This change came with a huge pedagogic charge on me…
 
-Since the changes with this version of Banshee were so deep, Iâ€™ve decided to re-write the spec and cleanup as much as I could and ditch as much expressions as possible for old unsupported platforms. This went fine but on the first builds failed heavily by not finding a required assembly file from dbus-sharp-glib.
+Since the changes with this version of Banshee were so deep, I’ve decided to re-write the spec and cleanup as much as I could and ditch as much expressions as possible for old unsupported platforms. This went fine but on the first builds failed heavily by not finding a required assembly file from dbus-sharp-glib.
 
 My first investigations provided me some really accurate information:
 
-  * Local tests on the dbus-sharp-glib packages showed evidence that the dependencies required were working properly (rpm -qp â€“requires/provides).
+  * Local tests on the dbus-sharp-glib packages showed evidence that the dependencies required were working properly (rpm -qp –requires/provides).
 
   * OBS showed evidence that both devel and normal package were installed.
 
-  * A simple â€œrpm -qa â€“lastâ€ inside of the build root cage showed evidence that though the devel package was installed the normal package wasnâ€™tâ€¦
+  * A simple “rpm -qa –last” inside of the build root cage showed evidence that though the devel package was installed the normal package wasn’t…
 
-And so the nightmare begunâ€¦ Without having much clues on where to look for and with my helpers/mentors busy with far more important stuff it dragged for some time and started to grind my mindâ€¦ (...)
+And so the nightmare begun… Without having much clues on where to look for and with my helpers/mentors busy with far more important stuff it dragged for some time and started to grind my mind… (...)
 
-â€
+”
 
-â€œ
+“
 
 
       [Tor Lillqvist: First debugging session of LibreOffice code on iOS (simulator)](http://tml-blog.blogspot.com/2011/07/i-am-just-debugging-well-not-really-i.html)
@@ -1158,11 +1158,11 @@ And so the nightmare begunâ€¦ Without having much clues on where to look for
 
 I am just debugging (well, not really, I am not expecting anything to actually do much interesting) for the first time cross-compiled LibreOffice code on the iOS Simulator. (So yeah, technically instruction-set-wise this is not cross-compiled, as the Simulator runs i386 code, too, but under a simulated iOS environment.) Not really that exciting, but still, couldn't help blogging. No, there is still nothing to "beta test", there is still no actual LibreOffice UI showing up or even any code to draw a single pixel on iOS.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forumsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
 
-â€œ
+“
 
 
       [60.000 Forum members](http://forums.opensuse.org/english/other-forums/forums-feedback/forums-comments-suggestions/462503-60-000-forum-members.html)
@@ -1176,9 +1176,9 @@ I am just debugging (well, not really, I am not expecting anything to actually d
       And we have room for more, so join in.
     
 
-â€
+”
 
-â€œ
+“
 
 
     [The road to systemd for openSUSE 12.1](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/461293-road-systemd-opensuse-12-1-a.html)
@@ -1188,9 +1188,9 @@ I am just debugging (well, not really, I am not expecting anything to actually d
       What is "systemd". Roughly said, it's a replacement for "sysvinit", the software in linux that manages the booting process. Systemd is supposed to have a lot of advantages over sysvinit, amongst which improved performance and memory management. It's already available for install on openSUSE 11,4, at the moment a lot of work on systemd is being done to make it a default for openSUSE 12.1. The thread has some interesting info. 
       
 
-â€
+”
 
-â€œ
+“
 
 
     [FIBMAP: Invalid argument](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/460074-fibmap-invalid-argument.html)
@@ -1200,9 +1200,9 @@ I am just debugging (well, not really, I am not expecting anything to actually d
       I've seen this message before, and currently am seeing it on my laptop, which runs openSUSE Tumbleweed with GNOME 3 Tumbleweed as a desktop. The console is flooded with this message. This thread explains where the message originates and what one can do to stop the phenomenon. 
       
 
-â€
+”
 
-â€œ
+“
 
 
       openSUSE Language specific subforums:
@@ -1210,24 +1210,24 @@ I am just debugging (well, not really, I am not expecting anything to actually d
 
 We now host the following language specific subforums under the umbrella of the openSUSE Forums:
 	[Main forums, english](http://forums.opensuse.org/english/)
-	[ä¸­æ–‡(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
+	[中文(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
 	[Nederlands (Dutch)](http://forums.opensuse.org/nederlands-dutch/)
-	[FranÃ§ais (French)](http://forums.opensuse.org/frana-ais-french/)
+	[Français (French)](http://forums.opensuse.org/frana-ais-french/)
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
-	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
+	[Ελληνικό (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[日本語 (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
-	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
+	[Pусский (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
-â€œ
+“
 
 
         [Toyota Joins Linux Foundation](http://www.linuxfoundation.org/news-media/announcements/2011/07/toyota-joins-linux-foundation)
@@ -1235,15 +1235,15 @@ We now host the following language specific subforums under the umbrella of the 
 
 Toyota looks towards open innovation and collaboration to help transform auto industry
 
-SAN FRANCISCO, July 5, 2011 â€“ The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux, today announced that Toyota is its newest member.
+SAN FRANCISCO, July 5, 2011 – The Linux Foundation, the nonprofit organization dedicated to accelerating the growth of Linux, today announced that Toyota is its newest member.
 
-A major shift is underway in the automotive industry. Carmakers are using new technologies to deliver on consumer expectations for the same connectivity in their cars as theyâ€™ve come to expect in their homes and offices. From dashboard computing to In-Vehicle-Infotainment (IVI), automobiles are becoming the latest wireless devices â€“ on wheels. (...)
+A major shift is underway in the automotive industry. Carmakers are using new technologies to deliver on consumer expectations for the same connectivity in their cars as they’ve come to expect in their homes and offices. From dashboard computing to In-Vehicle-Infotainment (IVI), automobiles are becoming the latest wireless devices – on wheels. (...)
 
-â€
+”
 
 ### Reports
 
-â€œ
+“
 
 
         [V3.co.uk: Office 365 on Mac and Linux](http://www.v3.co.uk/v3-uk/v3-co-uk-labs-blog/2086291/office-365-mac-linux)
@@ -1257,11 +1257,11 @@ However, with most of the capabilities of Office 365 provided through a browser,
 
 To find out, I tried accessing my test account on an Apple iMac and a PC running Ubuntu with a version of Firefox. (...)
 
-â€
+”
 
 ### Reviews and Essays
 
-â€œ
+“
 
 
         [ITworld/Brian Proffitt: Are Android and Linux the same thing?](http://www.itworld.com/mobile-wireless/179875/are-android-and-linux-same-thing)
@@ -1275,9 +1275,9 @@ Is Android Linux?
 
 There are arguments for each side, naturally. The biggest for Android being Linux is, of course, the fact that the kernel for the Linux operating system and the Android operating system are very nearly one and the same. Not completely the same, mind you, but Android's kernel is directly derived from Linux. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
 
@@ -1315,7 +1315,7 @@ Wish to **donate**? [
       ![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/135641/openSUSE-Weekly-News)
   
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -1325,12 +1325,12 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -1344,7 +1344,7 @@ We thank for this Issue:
 
   * [iJoomla](http://www.ijoomla.com), Surveys
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -1352,12 +1352,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 183 is available in: 
 

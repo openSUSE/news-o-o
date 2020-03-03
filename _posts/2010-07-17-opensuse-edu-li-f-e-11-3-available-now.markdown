@@ -26,7 +26,7 @@ Softwares for graphic designers include GIMP, Inkscape, Blender  and more. Offic
 
 [![](/wp-content/uploads/2010/07/Life-91.png)](http://wiki.opensuse.org/images/d/d0/Life-9.png) [![](/wp-content/uploads/2010/07/Life-111.png)](http://wiki.opensuse.org/images/8/8c/Life-11.png)
 
-Thanks to[ KIWI-LTSP](http://wiki.opensuse.org/LTSP), we also have the most advanced and easiest [LTSP](http://ltsp.org) implementation on this DVD, with Easy-LTSP GUI andÂ  [iTALC](http://wiki.opensuse.org/SDB:KIWI-LTSP_iTALC) integration with LTSP, managing classroom has never been this easy. LTSP allows schools to run multiple diskless PCs as "thin clients", no special hardware required, any PC with 256MB RAM with onboard NIC capable of PXE booting is sufficient to run this latest operating system.
+Thanks to[ KIWI-LTSP](http://wiki.opensuse.org/LTSP), we also have the most advanced and easiest [LTSP](http://ltsp.org) implementation on this DVD, with Easy-LTSP GUI and  [iTALC](http://wiki.opensuse.org/SDB:KIWI-LTSP_iTALC) integration with LTSP, managing classroom has never been this easy. LTSP allows schools to run multiple diskless PCs as "thin clients", no special hardware required, any PC with 256MB RAM with onboard NIC capable of PXE booting is sufficient to run this latest operating system.
 
 [![](/wp-content/uploads/2010/07/Kiwi-ltsp1.png)](http://wiki.opensuse.org/LTSP) [![](/wp-content/uploads/2010/07/Easy-ltsp1.png)](http://wiki.opensuse.org/SDB:Easy-LTSP_quick_start)
 

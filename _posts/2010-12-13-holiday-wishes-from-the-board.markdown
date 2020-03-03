@@ -30,4 +30,4 @@ Incidentally, it is election season again for the openSUSE Board and we're excit
 
 So, as we close here, we'd like to wish each and every one of you a safe and joyous holiday season with friends and loved ones.  You can be sure that as we Board members toast in the New Year from various corners of the world, we'll be thinking of you all and rejoicing being part of a strong, dedicated and passionate community.  See you all at Wednesday's meeting, and in 2011!
 
-The openSUSE Board  Pascal Bleser, Rupert HorstkÃ¶tter, Pavol Rusnak, Henne Vogelsang, Bryen Yunashko, 
+The openSUSE Board  Pascal Bleser, Rupert Horstkötter, Pavol Rusnak, Henne Vogelsang, Bryen Yunashko, 

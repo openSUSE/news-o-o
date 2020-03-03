@@ -26,10 +26,10 @@ On the OBS reference server, [build.opensuse.org](http://build.opensuse.org), wh
 
 
 
-<blockquote>â€žIt is exciting to see the Open Build Service team move forward with such a great feature release. OBS forms the base of the collaborative model which makes openSUSE such a successful distribution and we are proud to work with them and their sweet technology.â€</blockquote>
+<blockquote>„It is exciting to see the Open Build Service team move forward with such a great feature release. OBS forms the base of the collaborative model which makes openSUSE such a successful distribution and we are proud to work with them and their sweet technology.”</blockquote>
 
 
-_â€“ said openSUSE Community Manager Jos Poortvliet_.
+_– said openSUSE Community Manager Jos Poortvliet_.
 
 
 
@@ -43,16 +43,16 @@ We already configured some of the build hosts to have less workers on them so th
 [gallery ids="15922,15924,15921"]
 
 
-_â€“ check out more pictures of OBS hardware in the [Google+ group](https://plus.google.com/communities/103680308276459599434)_
+_– check out more pictures of OBS hardware in the [Google+ group](https://plus.google.com/communities/103680308276459599434)_
 
 
 
 
 
-<blockquote>â€žThe [server monitor](https://build.opensuse.org/monitor) is telling the awful truth: now that we have the build power we have to work on the other hardware bottlenecks, like the server delivering binaries across the build hosts and to our mirrors pronto!â€</blockquote>
+<blockquote>„The [server monitor](https://build.opensuse.org/monitor) is telling the awful truth: now that we have the build power we have to work on the other hardware bottlenecks, like the server delivering binaries across the build hosts and to our mirrors pronto!”</blockquote>
 
 
-_â€“ said openSUSE Release Manager Stephan "coolo" Kulow_.
+_– said openSUSE Release Manager Stephan "coolo" Kulow_.
 
 So don't forget that you can make a difference with your support and sponsorship for the openSUSE and OBS communities. If you happen be able to, or know someone who can, donate serious I/O power to the Open Build Service reference server - it's time to [tell us](http://openbuildservice.org/team/)!
 

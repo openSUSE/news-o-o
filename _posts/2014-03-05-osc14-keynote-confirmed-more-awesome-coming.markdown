@@ -29,7 +29,7 @@ If you have not yet submitted your talk proposal we encourage you to do so. The 
 
 
 [![click to submit a talk!](/wp-content/uploads/2014/01/submit_paper.png)](https://conference.opensuse.org/osem/conference/osc14/proposal)
-You're wondering what kind of sessions we are looking for, and from whom? This year's theme is â€œ**The Strength to Change**â€œ, as with all that's going on in Free Software, change is a constant for us. Session proposals that connect in a meaningful way with change and strength would be appreciated!
+You're wondering what kind of sessions we are looking for, and from whom? This year's theme is “**The Strength to Change**“, as with all that's going on in Free Software, change is a constant for us. Session proposals that connect in a meaningful way with change and strength would be appreciated!
 
 As explained in the [CfP announcement](https://news.opensuse.org/2014/01/29/osc14-cfp-and-registration-open/), we have four main themes this year:
 

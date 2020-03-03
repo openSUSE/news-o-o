@@ -11,7 +11,7 @@ categories:
 - Edu Li-f-e
 ---
 
-ï»¿
+﻿
 
 The [openSUSE Education](http://en.opensuse.org/Portal:Education) team is proud to announce the release of updated [openSUSE Edu Li-f-e](http://en.opensuse.org/openSUSE:Education-Li-f-e) - Linux for Education. A Linux distribution that provides parents,  students, teachers as well as IT admins running labs at educational  institutes with education and development resources for their needs. Edu  Li-f-e is based on openSUSE 11.4.
 <!-- more -->
@@ -24,9 +24,9 @@ Check out the [complete list of packages here](http://www.opensuse-education.org
 
 The ISO image can be used to create a [live DVD ](http://en.opensuse.org/SDB:Download_help#Burn_the_ISO_image.28s.29)or a bootable [USB stick](http://en.opensuse.org/Live_USB_stick).  If you intend to install it for everyday use, you need round about 20GB  of disk space, the install will take about 10GB. More information about  this image including known issues and their workarounds can be found [here](http://en.opensuse.org/openSUSE:Education-Li-f-e).
 
-For enhancement requests, bugs or just saying hello to us, [see â€œCommunicateâ€ here](http://en.opensuse.org/Portal:Education).
+For enhancement requests, bugs or just saying hello to us, [see “Communicate” here](http://en.opensuse.org/Portal:Education).
 
-And donâ€™t forget to have a lot of fun...
+And don’t forget to have a lot of fun...
 ![](https://lh4.googleusercontent.com/7ImLpQ_ww1Cjv5f0xwU3crJ4z81CUFNSAY9LYfSImiHI1zFN96lyZSIsrrxF0FfPKpnAIKl62XPquvXlzf6Ti1KwEfRsVNRCE2DuzkRuEE4J1ab-nco)
 
 

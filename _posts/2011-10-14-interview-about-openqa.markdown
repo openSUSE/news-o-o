@@ -17,7 +17,7 @@ Last week, [openQA 1.0](http://news.opensuse.org"") was released. We did an inte
 <!-- more -->
 
 
-**First of all, whatÂ´s your job regarding the openQA project?**
+**First of all, what´s your job regarding the openQA project?**
 
 
 
@@ -51,7 +51,7 @@ The results sometimes show problems that are not bugs in the tested software, bu
 
 
 
-There are still things missing. e.g. accumulating results (Jenkins does this nicely) and notifying interested parties â€“ this way I would not have to write as many IRC messages or bug reports â€“ but I am hesitant to re-invent the wheel there. Also many things that could easily be tested are still not included.
+There are still things missing. e.g. accumulating results (Jenkins does this nicely) and notifying interested parties – this way I would not have to write as many IRC messages or bug reports – but I am hesitant to re-invent the wheel there. Also many things that could easily be tested are still not included.
 
 
 
@@ -73,12 +73,12 @@ There were never big breakages or such. Also, openQA is not like OBS (yet) where
 
 
 
-**What has changed in your life since youÂ´re working for SUSE?**
+**What has changed in your life since you´re working for SUSE?**
 
 
 
 
-I have moved from Berlin to Nuremberg which means that I can not be with my family as often as I would like. For some reason this also caused a tenfold increase in my Pizza&DÃ¶ner consumption which worries me a bit. I miss cooking potato soup, omelette and a lot of other tasty things.
+I have moved from Berlin to Nuremberg which means that I can not be with my family as often as I would like. For some reason this also caused a tenfold increase in my Pizza&Döner consumption which worries me a bit. I miss cooking potato soup, omelette and a lot of other tasty things.
 
 
 
@@ -128,7 +128,7 @@ Then there are people proposing useful additions and there are more people looki
 
 
 
-To finish it off, let's go a bit more philosophical and ask: â€œWhy?â€ More specific, what do you want to achieve in life?
+To finish it off, let's go a bit more philosophical and ask: “Why?” More specific, what do you want to achieve in life?
 
 
 

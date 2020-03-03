@@ -21,7 +21,7 @@ Its quite some work to get to create a reasonable schedule for a conference. For
 
 
 
-We have scheduled more than 100 contributions in the four days of the conference. More than 50% of those are interactive like _birds of a feather sessions_ (BoFs) and _workshops_, that is along with our motto RWXÂ³ which basically means that people should not only just listen, but also do things.
+We have scheduled more than 100 contributions in the four days of the conference. More than 50% of those are interactive like _birds of a feather sessions_ (BoFs) and _workshops_, that is along with our motto RWX³ which basically means that people should not only just listen, but also do things.
 
 So as the schedule is done, speakers are working on their presentations and evening events are being planned in full swing. And to top it all off, each day we have an awesome keynote speaker to get us psyched up for the rest of the conference. Let's introduce you to some of our speakers.
 
@@ -92,10 +92,10 @@ _Vojtech studied biophysics and informatics, developed autonomous robots, wrote 
 **Quote:** _You should go to the openSUSE Conference because it's the largest gathering of openSUSE users and developers in the world, why would you ever want to miss that?_
 
 
-Join us as Greg introduces us to what Tumbleweed is, it's goals and ambitions. It's one of our most exciting and popular initiatives within the openSUSE Project.Â With an overview of how well it is currently working, what types of packages are being added, and how to use it, you'll be sure to want to get in on the Tumbleweed Bandwagon.Â Greg will then wrap up withÂ future plans for Tumbleweed and how developers and users can get involved in moving Tumbleweed forward.
+Join us as Greg introduces us to what Tumbleweed is, it's goals and ambitions. It's one of our most exciting and popular initiatives within the openSUSE Project. With an overview of how well it is currently working, what types of packages are being added, and how to use it, you'll be sure to want to get in on the Tumbleweed Bandwagon. Greg will then wrap up with future plans for Tumbleweed and how developers and users can get involved in moving Tumbleweed forward.
 
 
-_Greg Kroah-Hartman is a fellow at SUSE and a Linux kernel developer. He is responsible for the Linux kernel stable releases, and is the maintainer of the USB, driver core, tty, and staging portions of the kernel. In openSUSE, Greg is driving the Tumbleweed rolling-release which aims to provide a rolling updates version of the distribution containing the latest stable versions instead of relying on rigid periodic release cycles. Gregâ€™s keynote will evolve around Linux 3.0 and other, more serious, adventures in his life._
+_Greg Kroah-Hartman is a fellow at SUSE and a Linux kernel developer. He is responsible for the Linux kernel stable releases, and is the maintainer of the USB, driver core, tty, and staging portions of the kernel. In openSUSE, Greg is driving the Tumbleweed rolling-release which aims to provide a rolling updates version of the distribution containing the latest stable versions instead of relying on rigid periodic release cycles. Greg’s keynote will evolve around Linux 3.0 and other, more serious, adventures in his life._
 
 
 
@@ -111,7 +111,7 @@ _Greg Kroah-Hartman is a fellow at SUSE and a Linux kernel developer. He is resp
 
 
 
-It's been nearly a year since the announcement of the acquisition of our main sponsor by Attachmate.Â Since that time, we've seen organizational changes to our sponsor's various business units. Join us as we hear Michael's vision for a stronger relationship between SUSE and the openSUSE Project and what this means for us.
+It's been nearly a year since the announcement of the acquisition of our main sponsor by Attachmate. Since that time, we've seen organizational changes to our sponsor's various business units. Join us as we hear Michael's vision for a stronger relationship between SUSE and the openSUSE Project and what this means for us.
 
 
 

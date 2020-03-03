@@ -27,7 +27,7 @@ The winners of the prizes we gave away were, in no particular order:
   * Yosef Peretz from Jerusalem Israel
 
 	
-  * Carlos GÃ¡rzon from Colombia
+  * Carlos Gárzon from Colombia
 
 	
   * Mityunin Alexander Vladimirovich from Russia

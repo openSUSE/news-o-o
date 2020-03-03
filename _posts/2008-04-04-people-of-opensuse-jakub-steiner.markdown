@@ -313,7 +313,7 @@ I wish I would remember things. That's actually something I blame computers for.
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 The whole Wiik?
@@ -385,7 +385,7 @@ With a kid, that's a highly theoretical question. Good food and nice people is w
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 Exchange it to a different currency as fast as possible.
@@ -395,7 +395,7 @@ Exchange it to a different currency as fast as possible.
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 I very much like it now.
@@ -405,7 +405,7 @@ I very much like it now.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 Which one?

@@ -100,11 +100,11 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 **Enjoy reading :-)**
 
-## ![Header Picture](http://saigkill.homelinux.net/images/vote.jpeg)Board Election 2011â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/vote.jpeg)Board Election 2011▼
 
-â€œ
+“
 
-[Will Stephenson: openSUSE Board Election â€“ My Manifesto](http://lizards.opensuse.org/2011/12/10/opensuse-board-election-my-manifesto/)
+[Will Stephenson: openSUSE Board Election – My Manifesto](http://lizards.opensuse.org/2011/12/10/opensuse-board-election-my-manifesto/)
 
 TL;DR: openSUSE as a project needs to raise its game, and the next openSUSE Board can
       guide the project to agree a tight set of goals for our releases and work to a higher standard
@@ -114,21 +114,21 @@ TL;DR: openSUSE as a project needs to raise its game, and the next openSUSE Boar
 Read more at [my
         platform page](http://en.opensuse.org/openSUSE:Board_election_2011_platform_template_wstephenson). Then [go and vote](https://connect.opensuse.org//pg/polls/read/digitaltomm/15228/opensuse-board-election-2011)!
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### Team Reports
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics.Â Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
-â€œ
+“
 
 
             [decouple download and installation (Score: 380)](https://features.opensuse.org/120340)
@@ -137,9 +137,9 @@ Build Service Statistics.Â Statistics can found at [Buildservice](http://build
 Network installation could be improved by running package download and package
             installation in parallel.
 
-â€
+”
 
-â€œ
+“
 
 
             [Look at plymouth for splash during boot (Score: 210)](https://features.opensuse.org/305493)
@@ -154,9 +154,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
             process takes away from the whole experience." is especially interesting. Is it
             okay to track the "don't show grub by default" here?
 
-â€
+”
 
-â€œ
+“
 
 
             [1-click uninstall (Score: 177)](https://features.opensuse.org/305305)
@@ -164,9 +164,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-â€
+”
 
-â€œ
+“
 
 
             [Update to GRUB v2 (Score: 174)](https://features.opensuse.org/308497)
@@ -184,9 +184,9 @@ Every single bug or feature that anyone has developed for GRUB 0.97 has been
             for the journal so it needs to scan it for every metadata read. (Yeah, really.)
             (...)
 
-â€
+”
 
-â€œ
+“
 
 
             [Popularity contest (Score: 128)](https://features.opensuse.org/305877)
@@ -207,13 +207,13 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 ##### Recently requested features
 
 **Features newly requested last week. Please vote and/or comment if you get interested.**
 
-â€œ
+“
 
 
             [Remove "tracker" from lxde](https://features.opensuse.org/313038)
@@ -223,9 +223,9 @@ As LXDE is intended to provide a LIGHTWEIGHT desktop environment, unnecessary bl
 
 Unfortunately the openSUSE pattern for LXDE contains Brasero, which automatically brings tracker as a dependency.
 
-â€
+”
 
-â€œ
+“
 
 
             [openSUSE Kids Edition/Mode](https://features.opensuse.org/313039)
@@ -239,9 +239,9 @@ OpenSUSE kids edition is an idea of creating a distribution or mode for kids. Th
 
   * games, programs related to education and fun(programs like tuxpaint, google chrome, and many games).
 
-â€
+”
 
-â€œ
+“
 
 
             [Prettier boot process](https://features.opensuse.org/313040)
@@ -249,9 +249,9 @@ OpenSUSE kids edition is an idea of creating a distribution or mode for kids. Th
 
 Right now, the boot process looks kinda ugly. systemd makes a jumble of codes and the splash screen is boring. For 12.2, the pretty green dones and the red faileds should be brought back to the boot process and the geeko logo should do more than roll it s eye a little. Have it do something, like shift color sort of like a progress bar or walk around as the machine boots up.
 
-â€
+”
 
-â€œ
+“
 
 
             [Show screenshots to help user choose which desktop to install](https://features.opensuse.org/313047)
@@ -261,9 +261,9 @@ Currently, when the user chooses the type of Desktop they want to install they a
 
 I would like to see screenshots, possibly even a slideshow, of at least GNOME and KDE if not XFCE & LXDE for users to see and help them make their choice about which desktop environment they wish to install.
 
-â€
+”
 
-â€œ
+“
 
 
             [Include openSUSE manuals in default install](https://features.opensuse.org/313049)
@@ -271,9 +271,9 @@ I would like to see screenshots, possibly even a slideshow, of at least GNOME an
 
 Include the official openSUSE manuals in the default install. Either add them into each user directory, or symlink from /usr/share.
 
-â€
+”
 
-â€œ
+“
 
 
             [Add link to opensuse-guide.org to the greeter, and link on desktop](https://features.opensuse.org/313050)
@@ -283,9 +283,9 @@ The Unofficial openSUSE Guide is one of the greatest resources to new users. By 
 
 Frankly, I wish I had known about the Guide when I first started using openSUSE... it would have saved me some headaches.
 
-â€
+”
 
-â€œ
+“
 
 
             [Integrate PulseAudio with Jack](https://features.opensuse.org/313053)
@@ -295,9 +295,9 @@ Frankly, I wish I had known about the Guide when I first started using openSUSE.
 
 Create a pre-configured Jack designed to route through PulseAudio for simpler working of Jack, and transparent treatment of audio.
 
-â€
+”
 
-â€œ
+“
 
 
             [Simplified install workflow](https://features.opensuse.org/313062)
@@ -312,7 +312,7 @@ Most users intend to use their computer as easy as possible. Therefore less ques
 
 This issue had been initially discussed as part of this thread [http://lists.opensuse.org/opensuse/2011-12/msg00382.html](http://lists.opensuse.org/opensuse/2011-12/msg00382.html)
 
-â€
+”
 
 ##### Feature Statistics
 
@@ -320,7 +320,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
-â€œ
+“
 
 
           [Larry Finger: Weekly News for December 10](http://lists.opensuse.org/archive/opensuse-testing/2011-12/msg00002.html)
@@ -334,37 +334,37 @@ At this meeting, we will be discussing the openSUSE 12.1 release cycle and analy
           what went well, what could have been improved, etc. If you have any thing to contribute to
           this discussion, please join us. Remember, this is a community distro. 
 
-â€
+”
 
 #### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Postings from the Community
 
-â€œ
+“
 
 
         [Michal
-          HruÅ¡eckÃ½: openSUSE 12.1 Launch Party in Prague](http://michal.hrusecky.net/2011/12/opensuse-12-1-launch-party-in-prague/)
+          Hrušecký: openSUSE 12.1 Launch Party in Prague](http://michal.hrusecky.net/2011/12/opensuse-12-1-launch-party-in-prague/)
       
 
 Last Friday we had a 12.1 launch party in Prague. This time it was in SUSE office. Why
         so long after the release? We wanted to make sure to have some new shiny factory made DVDs
         for our guests. And as we waited, it happened to be nearby St. Nicolas day. For those of you
-        that donâ€™t know Czech traditions, on St. Nicolas day, we have people dressed as St. Nicolas,
+        that don’t know Czech traditions, on St. Nicolas day, we have people dressed as St. Nicolas,
         devil and angel going through the city, visiting children. Good children will get some
         snacks from St. Nicolas as a reward, bad children will get potatoes or coal from the devil
         as a reward. We wanted to exploit this tradition a little bit and thus every guest got a
         little gift from St. Nicolas. As they were our community, sure they were all good. But just
         in case, I dressed a little bit devilish...
 
-â€
+”
 
 ### Events & Meetings
 
@@ -395,9 +395,9 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 
   * [openSUSE Connect](http://connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
 
-â€œ
+“
 
 
             [Duncan
@@ -411,19 +411,19 @@ The openSUSE Weekly News are available as podcast in German. You can hear it or 
 This [release](http://rubygems.org/gems/bicho) fixes some bugs and
             adds support for named queries. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-â€œ
+“
 
 [
         openSUSE-SU-2011:1299-1: important: xorg-x11-libs](http://lists.opensuse.org/opensuse-security-announce/2011-12/msg00004.html)
 
-<table frame="void" id="id318867" >TableÂ 1.Â openSUSE Security Announcement<tr >
+<table frame="void" id="id318867" >Table 1. openSUSE Security Announcement<tr >
           
           
         </tr><tbody ><tr >
@@ -463,11 +463,11 @@ To view the security announcements in full, or to receive them as soon as they'r
           
 <td >a buffer overflow
 </td>
-        </tr></tbody></table>â€
+        </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
-â€œ
+“
 
 
       [h-online/Thorsten Leemhuis:  Kernel Log: Coming in 3.2 (Part 3) - Architecture](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-2-Part-3-Architecture-1390730.html)
@@ -487,39 +487,39 @@ In keeping with the usual weekly release rhythm, Linus Torvalds [issued](http://
       and processor support; in the coming weeks, further articles will discuss the kernel's
       infrastructure and drivers.
 
-â€
+”
 
-â€œ
+“
 
 
       [Rares
-        Aioanei: kernel weekly news â€“ 10.12.2011](http://schaiba.wordpress.com/2011/12/10/kernel-weekly-news-10-12-2011/)
+        Aioanei: kernel weekly news – 10.12.2011](http://schaiba.wordpress.com/2011/12/10/kernel-weekly-news-10-12-2011/)
     
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
-â€œ
+“
 
 
         [Fred Blaise: Talend Studio on Linux:
           making it look nicer](http://ironman.darthgibus.net/?p=148)
       
 
-Doesnâ€™t look like on Mac on Win32, does it? You can find several howto around, the GTK+
+Doesn’t look like on Mac on Win32, does it? You can find several howto around, the GTK+
         reference here, a GTK+ theme how to. Create a .gtkrc-eclipse in your home directory, with
         the following inside: (...)
 
-â€
+”
 
 ### For Commandline/Script Newbies
 
-â€œ
+“
 
 
         [BashShell.net/Mike: Using diff to Compare Directories](http://bashshell.net/script-of-the-week/using-diff-to-compare-directories/)
@@ -527,11 +527,11 @@ Doesnâ€™t look like on Mac on Win32, does it? You can find several howto ar
 
 The diff command compares two files or directories and returns the differences.  This provides you a way to monitor changes in an important directory like /etc which houses most configuration files on a Linux system.  In order for this to work properly you will need to create a file that lists the content of the /etc directory so that you can make a comparison. (...)
 
-â€
+”
 
 ### For Developers and Programmers
 
-â€œ
+“
 
 
         [LinuxCareer.com/Rares Aioanei: C development on Linux - Functions - V.](http://how-to.linuxcareer.com/c-development-on-linux-functions-v)
@@ -541,11 +541,11 @@ The diff command compares two files or directories and returns the differences. 
 
 The C standard library offers a plethora of functions for many usual tasks. Also there are lots of libraries for extra functionality, like GUI design (GTK+) or database interfacing (libpq). However, as you advance in the C programming world, you will soon find yourself repeating the same instructions in the same order over and over again and that will become time-consuming and inefficient. So you can just wrap all those instructions in a function and just call said function when you need it. Here's what you're gonna learn by reading this article, plus some useful tips that will make your life easier. Any suggestions or problems go to the [forums](http://forum.linuxcareer.com/), as before. (...)
 
-â€
+”
 
 ### For System Administrators
 
-â€œ
+“
 
 
         [BeginLinux.com: Automate Install With AutoYaST Answer Files](http://beginlinux.com/desktop/opensuse/automate-install-with-autoyast-answer-files)
@@ -555,9 +555,9 @@ This is the final article on installing opensuse. To recap we've covered [Config
 
 The final part of our installation jigsaw puzzle is to create the answer file, in SUSE this is known as AutoYaST. If we were only ever to install one server or one desktop then maybe we could do without answer files; however where we need to install a few or many then AutoYaST provides us with an unattended installation:- a build script to create consistency and compliance we regulatory bodies governing security. In short we need answer files. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Aditya Patawari: Controlling Your Linux Server Using Twitter](http://blog.adityapatawari.com/2011/12/controlling-your-linux-server-using.html)
@@ -565,21 +565,21 @@ The final part of our installation jigsaw puzzle is to create the answer file, i
 
 Last weekend I wrote about "[Using Twitter To Monitor Your Linux Server](http://blog.adityapatawari.com/2011/11/using-twitter-to-monitor-your-linux.html)" using a command line client "[MYST](http://myst.adityapatawari.com/)". I have added a new feature to MYST using which you can tell your server to execute commands by using DMs. Let us start configuration for the same. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Wazi/Carla Schroder: Shh! OpenSSH Secrets Here](http://olex.openlogic.com/wazi/2011/shh-openssh-secrets-here/)
       
 
-If you routinely use multiple computers, it can be a challenge to keep your data files organized and to manage multiple login IDs. [OpenSSH](http://olex.openlogic.com/packages/openssh) can help you with those tasks. Itâ€™s a powerful, secure tool that lets you share files without having to set up a file server, run applications remotely, and perform remote administration chores quickly and securely. You probably already know how to [use OpenSSH for file transfers](http://olex.openlogic.com/wazi/2011/stop-using-ftp-how-to-transfer-files-securely/). Here weâ€™ll uncover some less well-known OpenSSH tricks that can make life easier for roaming computer users.
+If you routinely use multiple computers, it can be a challenge to keep your data files organized and to manage multiple login IDs. [OpenSSH](http://olex.openlogic.com/packages/openssh) can help you with those tasks. It’s a powerful, secure tool that lets you share files without having to set up a file server, run applications remotely, and perform remote administration chores quickly and securely. You probably already know how to [use OpenSSH for file transfers](http://olex.openlogic.com/wazi/2011/stop-using-ftp-how-to-transfer-files-securely/). Here we’ll uncover some less well-known OpenSSH tricks that can make life easier for roaming computer users.
 
-To use the software, you should have the OpenSSH server and client installed and working on all the computers you need to access. In this article I use local for the computer weâ€™re launching an OpenSSH session from, and remote to refer to the computer weâ€™re logging into. (...)
+To use the software, you should have the OpenSSH server and client installed and working on all the computers you need to access. In this article I use local for the computer we’re launching an OpenSSH session from, and remote to refer to the computer we’re logging into. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Linux.com/Carla Schroder: Embiggen Your KVM Virtual Machines](https://www.linux.com/learn/tutorials/519933-embiggen-your-kvm-virtual-machines)
@@ -589,25 +589,25 @@ When you provision virtual machines, you try to ensure that they have the storag
 
 In [Managing Live and Offline Migrations with Linux's KVM](https://www.linux.com/learn/tutorials/510124-managing-live-and-offline-migrations-with-linuxs-kvm) we learned how to migrate virtual machines, and how to manage disk storage. Today we'll learn how resize VMs and add storage space. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [IBM developerWorks/Paul Ferrill: Scripting KVM with Python, Part 1: libvirt](http://www.ibm.com/developerworks/linux/library/os-python-kvm-scripting1/index.html)
       
 
-Virtualization is standard equipment with most server operating systems on the market today. In the LinuxÂ® world, there are two primary choices for server virtualization: the Kernel-based Virtual Machine (KVM) and Xen. KVM is the primary technology that Red Hat and others use. Although Citrix owns Xen, much of the core functionality remains in the public domain.
+Virtualization is standard equipment with most server operating systems on the market today. In the Linux® world, there are two primary choices for server virtualization: the Kernel-based Virtual Machine (KVM) and Xen. KVM is the primary technology that Red Hat and others use. Although Citrix owns Xen, much of the core functionality remains in the public domain.
 
 The Virtual Machine Manager (VMM, or virt-manager) project provides a tool for managing the creation and running of both KVM and Xen virtual machine (VM) instances. VMM is written in Python using the GTK+ library for graphical user interface construction. The real work is done through the libvirt library, which is what you'll be using for this article series. Although libvirt is a Red Hat-sponsored effort, it remains an open source project available under the GNU Lesser General Public License.
 
 libvirt is made up of several different pieces, including the application programming interface (API) library, a daemon (libvirtd), and a default command-line utility (virsh). For the purposes of this article, all testing is done using Ubuntu Server version 11.04. The Installation and setup section covers everything I did to configure my server for developing the scripts presented here. Part 1 covers the basics of libvirt and Kernel-based Virtual Machine (KVM) virtualization along with a few command-line scripts to whet your appetite. Part 2 will dive deeper and show you how you can build your own virtualization management tools using libvirt, Python, and wxPython. (...)
 
-â€
+”
 
-â€œ
+“
 
-[JÃ¶rg Stephan: [UPDATE] Strange, someone has an
+[Jörg Stephan: [UPDATE] Strange, someone has an
           idea?](http://xadmin.info/?p=120)
 
 Thanks a lot to [forums.opensuse.org](http://forums.opensuse.org)
@@ -619,19 +619,19 @@ As we now found out the boot/shutdown problems where just caused by **systemd**s
 So now we must talk about making systemV default again, so just look what SUSEhelp post
         us via IRC
 
-â€œ
+“
           **<SUSEhelp> By default, openSUSE now
               boots using systemd. In case of trouble, you can switch back to the old way using
               sysvinit by pressing the F5 key on the boot. If you want to switch to sysvinit
               permanently, install the sysvinit-init package. To switch back to systemd, reinstall
               the systemd-sysvinit package.**
-        â€
+        ”
 
 So as easy as it is told: (...)
 
-â€
+”
 
-â€œ
+“
 
 [Masim Sugianto: Installing Zimbra Mail Server on SLES 11 SP1 64 bit in less than 30
           Minutes-Part 1](http://vavai.net/2011/12/installing-zimbra-mail-server-on-sles-11-sp1-64-bit-in-less-than-30-minutes-part-1/)
@@ -657,11 +657,11 @@ The following article will explain about the quick and easy tutorial : how to in
 
 [Part2](http://vavai.net/2011/12/installing-zimbra-mail-server-on-sles-11-sp1-64-bit-in-less-than-30-minutes-part-2/), [Part3](http://vavai.net/2011/12/installing-zimbra-mail-server-on-sles-11-sp1-64-bit-in-less-than-30-minutes-part-3/)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
-â€œ
+“
 
 [Dominique Leuenberger: Enhanced typelib based dep generation](http://dominique.leuenberger.net/blog/2011/12/enhanced-typelib-based-dep-generation/)
 
@@ -677,12 +677,12 @@ For the openSUSE 12.2 release cycle we have to push this a little further: As th
 An example why the typelib files need to be split out from the libraries:
 
 Clutter: the library was renamed from libclutter-glx-1.0.so.0 to libclutter-1.0.so.0, the
-      typelib remained Clutter-1.0.typelib. The upgrade process is slightly â€˜messyâ€™ in this case and
+      typelib remained Clutter-1.0.typelib. The upgrade process is slightly ‘messy’ in this case and
       a bunch of problems could be avoided by splitting the typelib files out. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Thomas
         Schraitle: Cooking with DocBook](http://lizards.opensuse.org/2011/12/07/cooking-with-docbook/)
@@ -690,46 +690,46 @@ Clutter: the library was renamed from libclutter-glx-1.0.so.0 to libclutter-1.0.
 Hi DocBook lovers, browsed through a book, used your favorite search engine, or posted on
       LinkedIn, Xing, or the DocBook mailinglist to hunt for answers to your problems?
 
-As an additional alternative, Iâ€™m happy to announce my latest project:
+As an additional alternative, I’m happy to announce my latest project:
 
-â€œ[The DoCookBook Project](http://doccookbook.sf.net) (released
-        under Creative Commons License)â€
+“[The DoCookBook Project](http://doccookbook.sf.net) (released
+        under Creative Commons License)”
 
 The tongue-twisting name is a word play and picks up the two central topic about DocBook
       and cookbook. (...)
 
-â€
+”
 
-â€œ
+“
 
 [Masim Sugianto: How to Check, Test and Validate DKIM Records in DNS is Correct and
         Valid](http://vavai.net/2011/12/how-to-check-test-validate-dkim-records-setting-for-mail-server/)
 
-As Iâ€™ve wrote in the article: â€œ[10 Tips for Auditing & Improving Mail Server Performance](http://vavai.net/2011/12/2011/11/10-tips-for-auditing-improving-mail-server-performance/)â€œ, Dkim or Domainkeys
+As I’ve wrote in the article: “[10 Tips for Auditing & Improving Mail Server Performance](http://vavai.net/2011/12/2011/11/10-tips-for-auditing-improving-mail-server-performance/)“, Dkim or Domainkeys
       is one feature that can be used to increase the acceptance rate (eligibility) of email on the
       destination mail server.
 
-DomainKeys or DKIM signature basically allowing good senders to â€œsignâ€ a message to prove
+DomainKeys or DKIM signature basically allowing good senders to “sign” a message to prove
       that it really did come from them. This process is obtained by signing the outgoing mail with
       a specific code corresponding domain name and identity of the mail server so it is considered
       valid and convincing as an authorized sender.
 
-â€
+”
 
-â€œ
+“
 
 [Thomas
         Schraitle: The Exo Typeface Family](http://lizards.opensuse.org/2011/12/08/the-exo-typeface-family/)
 
-Some week ago, Iâ€™ve stumbled upon a very promising font project. Itâ€™s called the [Exo Typeface Family](http://kck.st/tivQep) and I think this could be a valuable
+Some week ago, I’ve stumbled upon a very promising font project. It’s called the [Exo Typeface Family](http://kck.st/tivQep) and I think this could be a valuable
       addition to our distribution:
 
 The sans serif font is beautifully crafted and contains 9(!) different width as you can
       see in the following graphic: (...)
 
-â€
+”
 
-â€œ
+“
 
 [Jos Poortvliet:
         Calligra...](http://blog.jospoortvliet.com/2011/12/calligra.html)
@@ -749,11 +749,11 @@ As you might or might not know, Calligra is the result of a split of the KWord m
       Calligra, are far less mature than Krita and Kexi. The team has been limiting their scope,
       focusing on getting them stable and usable while skipping on features.
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums: A big hand for the release of openSUSE 12.1 !â–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums: A big hand for the release of openSUSE 12.1 !▲▼
 
-â€œ
+“
 
 
       [NEW Users - openSUSE-12.1 Pre-installation - PLEASE READ](http://forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/467087-new-users-opensuse-12-1-pre-installation-please-read.html)
@@ -763,9 +763,9 @@ As you might or might not know, Calligra is the result of a split of the KWord m
       Keeping this one up for another week. openSUSE 12.1 is new, we like to draw your attention to this article in the New User HOWTO/FAQ subforums. Like with every openSUSE release our admin oldcpu has prepared a document for new users to read before starting to install openSUSE 12.1. If you're new to openSUSE, this is a must-read, if you're already an openSUSE user, even very experienced, the article still deserves your attention. 
     
 
-â€
+”
 
-â€œ
+“
 
 
     [No acceleration with ATI proprietary driver - Opensuse 12.1](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/468836-no-acceleration-ati-proprietary-driver-opensuse-12-1-a.html)
@@ -775,9 +775,9 @@ As you might or might not know, Calligra is the result of a split of the KWord m
     These days openSUSE, or rather linux in general, has good open source support for ATI and NVIDIA based video cards. Yet, to get the full blast out of your video card, you still need to install the ATI or NVIDIA proprietary driver. This thread is started by a member who's having difficulties getting his ATI video card to use it's full capabilities. In the thread we find that our member please_try_again discovers a bug in the ATI updater, delivering a fix at the same time. If you're experiencing trouble installing the ATI driver, please read this thread, it may help you solve your trouble.
     
 
-â€
+”
 
-â€œ
+“
 
 
     [The Tumbleweed subforum](http://forums.opensuse.org/english/get-technical-help-here/tumbleweed/)
@@ -787,9 +787,9 @@ As you might or might not know, Calligra is the result of a split of the KWord m
       Some attention for the Tumbleweed -openSUSE's rolling release- subforum. My personal advice is to read our admin swerdna's instructions on how to move to Tumbleweed. The various threads in the subforum will probably provide answers to most questions related to Tumbleweed.
       
 
-â€
+”
 
-â€œ
+“
 
 
       openSUSE Language specific subforums:
@@ -797,24 +797,24 @@ As you might or might not know, Calligra is the result of a split of the KWord m
 
 We now host the following language specific subforums under the umbrella of the openSUSE Forums:
 	[Main forums, english](http://forums.opensuse.org/english/)
-	[ä¸­æ–‡(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
+	[中文(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
 	[Nederlands (Dutch)](http://forums.opensuse.org/nederlands-dutch/)
-	[FranÃ§ais (French)](http://forums.opensuse.org/frana-ais-french/)
+	[Français (French)](http://forums.opensuse.org/frana-ais-french/)
 	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
-	[Î•Î»Î»Î·Î½Î¹ÎºÏŒ (Greek)](http://forums.opensuse.org/greek/)
+	[Ελληνικό (Greek)](http://forums.opensuse.org/greek/)
 	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[æ—¥æœ¬èªž (Japanese)](http://forums.opensuse.org/japanese/)
+	[日本語 (Japanese)](http://forums.opensuse.org/japanese/)
 	[Portuguese](http://forums.opensuse.org/portuguese/)
-	[PÑƒÑÑÐºÐ¸Ð¹ (Russian)](http://forums.opensuse.org/p-russian/)
+	[Pусский (Russian)](http://forums.opensuse.org/p-russian/)
       
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Reports
 
-â€œ
+“
 
 
         [ITworld/Brian Proffitt: SUSE: Global Linux jobs on the rise](http://www.itworld.com/it-managementstrategy/231609/suse-global-linux-jobs-rise)
@@ -826,9 +826,9 @@ That's the take away from my conversation with Ralf Flaxa, SUSE's VP of Linux En
 
 As the person primarily responsible for hiring engineers for SUSE, Flaxa has a unique position on the outlook for Linux careers, especially in the European market. While Flaxa certainly recognizes the importance of the Linux Foundation's recent infographic for the U.S., "my point of view looks a bit different." (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [Datamation/Sean Michael Kerner: Xamarin Brings Mono to IceCream Sandwich](http://www.datamation.com/open-source/xamarin-brings-mono-to-icecream-sandwich.html)
@@ -838,9 +838,9 @@ As the person primarily responsible for hiring engineers for SUSE, Flaxa has a u
 
 Mono was originally started by Novell as an open source implementation of the Microsoft .NET framework. After Novell was acquired by Attachmate, the lead mono developers, including project founder Miguel de Icaza, left to startup a company called Xamarin, which is focused on mobile development. In July, SUSE Linux [partnered with Xamarin](http://www.datamation.com/open-source/suse-joins-xamarin-for-mono.html) to provide support to Novell/SUSE customers. (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [The Register/Gavin Clarke: Microsoft welcomes OSI open source to Win8 store](http://www.theregister.co.uk/2011/12/08/open_source_windows_8_windows_store/)
@@ -848,13 +848,13 @@ Mono was originally started by Novell as an open source implementation of the Mi
 
 Most, but not all, open-source apps are being welcomed by Microsoft into the Windows 8 [Windows Store](http://www.theregister.co.uk/2011/12/07/microsoft_developers_windows8_store/).
 
-The Storeâ€™s App Developer Agreement (here) allows developers to build their apps for download and installation on Windows 8 machines using any open-source licence as long as it has been [approved by the Open-Source Initiative](http://www.opensource.org/licenses/alphabetical) (OSI). (...)
+The Store’s App Developer Agreement (here) allows developers to build their apps for download and installation on Windows 8 machines using any open-source licence as long as it has been [approved by the Open-Source Initiative](http://www.opensource.org/licenses/alphabetical) (OSI). (...)
 
-â€
+”
 
 ### Reviews and Essays
 
-â€œ
+“
 
 
         [ZDNet/Steven J. Vaughan-Nichols: Finding a Linux Job](http://www.zdnet.com/blog/open-source/finding-a-linux-job/9966)
@@ -862,11 +862,11 @@ The Storeâ€™s App Developer Agreement (here) allows developers to build the
 
 So you want a Linux job do you? Well, according to [The Linux Foundation](http://www.linuxfoundation.org/), the jobs are out there. Specifically, Linux jobs are divided up almost evenly between developer, 53% and system administrator. 47%, jobs.
 
-Amanda McPherson, the Linux Foundationâ€™s vice president of marketing and developer programs, told me, â€œThe Linux jobs market is booming, and weâ€™re doing a variety of things to understand what skills are most in demand and how we can help address that opportunity for our corporate and individual members and with things like our [Linux Training courses](https://training.linuxfoundation.org/courses). The data weâ€™ve surfaced from our [Jobs Board](http://jobs.linux.com/) really reflects the importance of common programming languages, as well as areas of great success for Linuxâ€“such as Android. Mobile and embedded development skills are extremely valuable in todayâ€™s market. If you can work on security, power management and integration at the device level, youâ€™re well prepared for this burgeoning area of Linux development.â€ (...)
+Amanda McPherson, the Linux Foundation’s vice president of marketing and developer programs, told me, “The Linux jobs market is booming, and we’re doing a variety of things to understand what skills are most in demand and how we can help address that opportunity for our corporate and individual members and with things like our [Linux Training courses](https://training.linuxfoundation.org/courses). The data we’ve surfaced from our [Jobs Board](http://jobs.linux.com/) really reflects the importance of common programming languages, as well as areas of great success for Linux–such as Android. Mobile and embedded development skills are extremely valuable in today’s market. If you can work on security, power management and integration at the device level, you’re well prepared for this burgeoning area of Linux development.” (...)
 
-â€
+”
 
-â€œ
+“
 
 
         [IBM developerWorks/M. Tim Jones: Evolution of shells in Linux](http://www.ibm.com/developerworks/linux/library/l-linux-shells/index.html)
@@ -878,9 +878,9 @@ My first experience with a modern shell came in the 1980s, when I was developing
 
 Let's begin with a short history of modern shells, and then explore some of the useful and exotic shells available for Linux today. (...)
 
-â€
+”
 
-â€œ
+“
 
 [ITWire/Sam Varghese: A tale of two distros: openSUSE and Linux Mint](http://www.itwire.com/opinion-and-analysis/open-sauce/51659-a-tale-of-two-distros-opensuse-and-linux-mint)
 
@@ -894,9 +894,9 @@ Even when Ubuntu came along in 2004, though the menu was located at the top of t
         screen, it was child's play to move it to the bottom. Ubuntu was tracking the development of
         GNOME, keeping in sync with the six-monthly release schedule of the latter. (...)
 
-â€
+”
 
-â€œ
+“
 
 [ITWorld/Joab Jackson: Usenix: Dartmouth expanding diff, grep Unix tools](http://www.itworld.com/software/231515/usenix-dartmouth-expanding-diff-grep-unix-tools)
 
@@ -912,9 +912,9 @@ Such updates are needed because "we now tend to have more model-based configurat
         poster session at the Usenix Large Installation System Administration (LISA) conference,
         being held this week in Boston. (...)
 
-â€
+”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://saigkill.homelinux.net/discussions) and let us know! 
 
@@ -948,7 +948,7 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 **DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
@@ -958,12 +958,12 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
                 Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
@@ -975,7 +975,7 @@ We thank for this Issue:
 
   * [open-slx GmbH](http://www.open-slx.com/en), Sponsoring
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
@@ -983,12 +983,12 @@ We thank for this Issue:
 
 ### Trademarks
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
             Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 205 is available in: 
 

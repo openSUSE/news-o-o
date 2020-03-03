@@ -25,7 +25,7 @@ With just a [little more than a month](http://en.opensuse.org/Roadmap) before th
 ### Call for Testing
 
 
-We all want openSUSE 11.1 to be the best release yet, and we need your help to get there. This release is ready for widespread testing, and we're encouraging everyone to download and test the beta releases.Â  Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a beta release, and is not suitable for use on production systems. Though many openSUSE users can and do use the Factory distribution and/or beta release for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs.
+We all want openSUSE 11.1 to be the best release yet, and we need your help to get there. This release is ready for widespread testing, and we're encouraging everyone to download and test the beta releases.  Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a beta release, and is not suitable for use on production systems. Though many openSUSE users can and do use the Factory distribution and/or beta release for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs.
 
 See [openSUSE.org/Testing](http://openSUSE.org/Testing) for more information on testing.
 

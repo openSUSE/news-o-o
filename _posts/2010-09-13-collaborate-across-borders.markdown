@@ -5,7 +5,7 @@ date: 2010-09-13 12:35:11+00:00
 layout: post
 link: https://news.opensuse.org/2010/09/13/collaborate-across-borders/
 slug: collaborate-across-borders
-title: openSUSE Conference 2010 â€“ Collaborate Across Borders
+title: openSUSE Conference 2010 – Collaborate Across Borders
 wordpress_id: 4178
 categories:
 - Events
@@ -15,7 +15,7 @@ tags:
 - osc2010
 ---
 
-[![](/wp-content/uploads/2010/09/Conf2010_250px2+register.png)](http://conference.opensuse.org/indico/event/osc2010)The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more thanÂ seventy talks and workshops explore the theme of '**Collaboration Across Borders**' in Free and Open Source software communities, administration and development.  The conference is the yearly get-together ofÂ  the openSUSE project  to give its people a chance to meet face to face, talk to and inspire  each other. It takes place in the [BerufsfÃ¶rderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free.
+[![](/wp-content/uploads/2010/09/Conf2010_250px2+register.png)](http://conference.opensuse.org/indico/event/osc2010)The openSUSE Conference brings together users, contributors and friends of the openSUSE project from 20th to 23rd October in Nuremberg, Germany. Over four days, more than seventy talks and workshops explore the theme of '**Collaboration Across Borders**' in Free and Open Source software communities, administration and development.  The conference is the yearly get-together of  the openSUSE project  to give its people a chance to meet face to face, talk to and inspire  each other. It takes place in the [Berufsförderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free.
 
 Read on to learn more about details of the [program](http://conference.opensuse.org/indico//conferenceProgram.py?confId=0), involved people and the [event in general](http://en.opensuse.org/Portal:Conference).
 
@@ -82,4 +82,4 @@ Just register today in our conference tool at [http://conference.opensuse.org](h
 ## See you in October!
 
 
-_Credits for writing: __Bruno Friedmann,Â Chuck Payne,Â Fransisco Arias,Â Sirko Kemter, Helen South, Henne Vogelsang andÂ Javier Llorente._
+_Credits for writing: __Bruno Friedmann, Chuck Payne, Fransisco Arias, Sirko Kemter, Helen South, Henne Vogelsang and Javier Llorente._

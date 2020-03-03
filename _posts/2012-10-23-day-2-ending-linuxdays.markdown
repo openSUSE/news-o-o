@@ -15,17 +15,17 @@ categories:
 
 ![Hybrid Geeko](/wp-content/uploads/2012/10/Day1-Saturday-096_IMGP4370.jpg)
 
-The second day started an hour later to give people time to recover from the party the previous night. Â The golden autumn weather seemed to have run out by Sunday, making the run between the auditoriums and the cafeteria an exercise in dodging raindrops, but the many tracks and workshops gave visitors little reason to have to venture outside.<!-- more -->
+The second day started an hour later to give people time to recover from the party the previous night.  The golden autumn weather seemed to have run out by Sunday, making the run between the auditoriums and the cafeteria an exercise in dodging raindrops, but the many tracks and workshops gave visitors little reason to have to venture outside.<!-- more -->
 
 
 ## Conference Feedback
 
 
-During the weekend and afterwards we got some feedback from visitors. Most like the event a lot: there are many interesting sessions and the booths are worth walking by as well. People liked the Future Media track although it was not so busy. The idea of expanding the scope of the conference and shed some light on things _'around'_Â the central business of Linux was appreciated - yet, with 6 simultaneous tracks, the more technical sessions provided a lot of competition. Luckily, it is all videotaped and the first video's have appeared on [openSUSE TV](http://www.youtube.com/openSUSEtv).
+During the weekend and afterwards we got some feedback from visitors. Most like the event a lot: there are many interesting sessions and the booths are worth walking by as well. People liked the Future Media track although it was not so busy. The idea of expanding the scope of the conference and shed some light on things _'around'_ the central business of Linux was appreciated - yet, with 6 simultaneous tracks, the more technical sessions provided a lot of competition. Luckily, it is all videotaped and the first video's have appeared on [openSUSE TV](http://www.youtube.com/openSUSEtv).
 
 [caption id="attachment_14468" align="alignright" width="300"]![Strange flying machines](/wp-content/uploads/2012/10/Day1-Saturday-075_IMGP4340.jpg) Strange flying machines at the venue[/caption]
 
-The location is beautiful and big. There is plenty of power and fast WiFi, the only downsides are that workshops and BoFs could be hard to find in the cavernous venue and the Gentoo folks had no reason to leave their room, reducing their chances to mix. Â Perhaps next time they should rebuild their room from source elsewhere after every talk.
+The location is beautiful and big. There is plenty of power and fast WiFi, the only downsides are that workshops and BoFs could be hard to find in the cavernous venue and the Gentoo folks had no reason to leave their room, reducing their chances to mix.  Perhaps next time they should rebuild their room from source elsewhere after every talk.
 
 Some also noted that the event is quite international. The Greeks continue to multiply, they're over 20 folks now, to the delight of the organisation as they helped out quite a bit in various areas. South America is represented by a handful of community members as well and Asia brought a team of five from Taiwan and a similar number from India.
 
@@ -46,7 +46,7 @@ The next day, many talks were given on a wide variety of subjects and in worksho
 
 [caption id="attachment_14476" align="alignright" width="300"]![The university uses Gentoo Linux!](/wp-content/uploads/2012/10/Day1-Saturday-016_DSC_7300.jpg) The university uses Gentoo Linux![/caption]
 
-Showing the change in people's priorities, the key signing session drew perhaps only about 20 people, Â and a few who came to watch this more strange happening among the geeks' rituals but the group photo of course drew a big crowd. Most attendees took part in making the picture and we had 	Michal Hrusecky yelling at us from above, directing us to be properly lined up. After some pictures inside, more were taken outside, where we were amused by the the photographers' escapades to get high enough to get everyone in the picture. Luckily, nobody broke anything and we then went back inside for the last round of sessions.
+Showing the change in people's priorities, the key signing session drew perhaps only about 20 people,  and a few who came to watch this more strange happening among the geeks' rituals but the group photo of course drew a big crowd. Most attendees took part in making the picture and we had 	Michal Hrusecky yelling at us from above, directing us to be properly lined up. After some pictures inside, more were taken outside, where we were amused by the the photographers' escapades to get high enough to get everyone in the picture. Luckily, nobody broke anything and we then went back inside for the last round of sessions.
 
 
 

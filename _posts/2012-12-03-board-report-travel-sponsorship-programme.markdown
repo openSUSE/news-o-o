@@ -23,20 +23,20 @@ _**Current Committee includes**_
 
 
 	
-  * Â Kostas Koudaras (ambassador event planning)
+  *  Kostas Koudaras (ambassador event planning)
 
 	
-  * Â Izabel Valverde (finance & planning)
+  *  Izabel Valverde (finance & planning)
 
 	
-  * Â Agustin Benito Bethencourt (openSUSE Team Lead at SUSE)
+  *  Agustin Benito Bethencourt (openSUSE Team Lead at SUSE)
 
 
 _**Results**_
 
 The Travel Support Team has till now sponsored various conferences including FOSDEM, Cerea Fair, Solutions Linux, COSCUP, Indiana Linux Fest, Linux Tag, SELF, Libre Office Graphic Meeting and loads of others. Along with this, the Travel Committee also handles sponsorship handling for openSUSE Summit and openSUSE Conference which in itself are very tedious tasks.
 
-_**NumbersÂ **_
+_**Numbers **_
 
 
 
@@ -44,7 +44,7 @@ _**NumbersÂ **_
   * TSP : 15
 
 	
-  * Summit : Â 11
+  * Summit :  11
 
 	
   * openSUSE Conference : 21

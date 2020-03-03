@@ -51,7 +51,7 @@ But there is more. We received feedback from the openSUSE community. Looking at 
 The openSUSE release, the product we send out, is stable with a nice, 8 month cycle and 18 months of maintenance and offers a lot of choice. But for some, 18 months is not enough and all the choice can be confusing and create problems in itself.
 
 **Suggestions**
-Based on SUSE's own experiences and the feedback from the community there are a few suggestions Ralf shared. About Factory, Ralf suggested increasing the amount of automated testing and be "more picky" about what goes into the distribution. He also pledged further investment from SUSE and suggested that we should talk about improving our integration process itself as well. About our release we should work at the balance we have between the scope, quality and life cycle of our distribution. Perhaps by focusing on a more restricted set of packages we could increase our life cycle to improve quality. Last but not least, he stressed the importance of transparent governance and an open ecosystem. He made very clear that SUSE does _not_ commercialize openSUSE but he is perfectly happy if other partners, be it commercial or not, come in and try to generate a revenue stream, building on openSUSE and contributing to it.Â The presentation video is online [here](http://youtu.be/fdroo2JZano).
+Based on SUSE's own experiences and the feedback from the community there are a few suggestions Ralf shared. About Factory, Ralf suggested increasing the amount of automated testing and be "more picky" about what goes into the distribution. He also pledged further investment from SUSE and suggested that we should talk about improving our integration process itself as well. About our release we should work at the balance we have between the scope, quality and life cycle of our distribution. Perhaps by focusing on a more restricted set of packages we could increase our life cycle to improve quality. Last but not least, he stressed the importance of transparent governance and an open ecosystem. He made very clear that SUSE does _not_ commercialize openSUSE but he is perfectly happy if other partners, be it commercial or not, come in and try to generate a revenue stream, building on openSUSE and contributing to it. The presentation video is online [here](http://youtu.be/fdroo2JZano).
 
 [![Project Meeting at #osc13](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0331.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0331.jpg)
 
@@ -59,7 +59,7 @@ Based on SUSE's own experiences and the feedback from the community there are a 
 ### Many More Talks
 
 
-After the keynote many community based presentations took place with presenters showing how the openSUSE distribution is released, openSUSE in numbers and how to share the Linux Desktop, the new local coordinator program.Â There were also presentations about theÂ _MATE project, Enlightenment and LibreOffice, MySQL_ and _Linux I/O._ Moreover, there were interesting workshops giving attendees an opportunity to get their hands dirty on _OBS_Â coding with _Henne Vogelsang_ and on _Rasberrt Pi_ with _Bernhard Wiedemann._
+After the keynote many community based presentations took place with presenters showing how the openSUSE distribution is released, openSUSE in numbers and how to share the Linux Desktop, the new local coordinator program. There were also presentations about the _MATE project, Enlightenment and LibreOffice, MySQL_ and _Linux I/O._ Moreover, there were interesting workshops giving attendees an opportunity to get their hands dirty on _OBS_ coding with _Henne Vogelsang_ and on _Rasberrt Pi_ with _Bernhard Wiedemann._
 
 **Board meeting: oSC14 location!**
 At the end of the conference day the openSUSE Board chair Vincent Untz opened a session on project-wide issues. On Friday this session was used to have the various teams in openSUSE present on their work and progress.
@@ -88,7 +88,7 @@ After the conference everyone went for barbeque at a bar next to the venue! Stea
 
 You can find lots of pictures from #oSC13 on [openSUSE Greek Fans](https://www.facebook.com/groups/opensuse.gr/photos/) on facebook or on [G+](https://plus.google.com/u/0/b/113385548251515365143/photos/113385548251515365143/albums). Also on twitter you can follow [@openSUSEConf](https://twitter.com/openSUSEConf) or search for the hashtag [#oSC13](https://twitter.com/search?q=%23oSC13&src=typd).
 
-If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from theÂ [live streaming](http://bambuser.com/channel/opensusetv)Â that is set up in the venue. Also if you have any questions for the presentation you attend online there is anÂ [IRC Channel](http://webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference)Â set up in order to make your questions.
+If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](http://bambuser.com/channel/opensusetv) that is set up in the venue. Also if you have any questions for the presentation you attend online there is an [IRC Channel](http://webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference) set up in order to make your questions.
 
 Last but not least we have our local newspaper!
 

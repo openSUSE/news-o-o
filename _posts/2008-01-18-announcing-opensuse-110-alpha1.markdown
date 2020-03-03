@@ -38,7 +38,7 @@ We have seen 1026 package check-ins since Alpha0 and countless bugs fixed. The m
   * [Sat Solver](http://en.opensuse.org/Libzypp/Sat_Solver) integration
 
 	
-    * Michael SchrÃ¶der's "sat solver" library is now the default package solver for libzypp, so make sure you doublecheck the selected packages - there might be suprises ahead. Please note that we need test cases for things that look funny to you ([wiki link](http://en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F))
+    * Michael Schröder's "sat solver" library is now the default package solver for libzypp, so make sure you doublecheck the selected packages - there might be suprises ahead. Please note that we need test cases for things that look funny to you ([wiki link](http://en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F))
 
 
 

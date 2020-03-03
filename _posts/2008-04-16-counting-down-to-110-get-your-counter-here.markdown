@@ -5,7 +5,7 @@ date: 2008-04-16 22:21:47+00:00
 layout: post
 link: https://news.opensuse.org/2008/04/16/counting-down-to-110-get-your-counter-here/
 slug: counting-down-to-110-get-your-counter-here
-title: Counting Down to 11.0 â€“ Get Your Counter Here!
+title: Counting Down to 11.0 – Get Your Counter Here!
 wordpress_id: 727
 categories:
 - Distribution

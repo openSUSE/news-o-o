@@ -23,7 +23,7 @@ Weather wasn't very loving down here in Florida, USA but being in such a family-
 ## Location, location location...
 
 
-The location of this yearâ€™s conference, Disneyâ€™s Coronado Springs Resort, has been an interesting change of scenery. The hotel features Mexican style buildings and is built around a big lake. Surroundings include several swimming pools around the room-blocks where you can spend some relaxing time after the conference is over, since the pools here  are open 24/7! Unfortunately many geekos have been so busy they didn't swim as much as would have been good for their white skin...
+The location of this year’s conference, Disney’s Coronado Springs Resort, has been an interesting change of scenery. The hotel features Mexican style buildings and is built around a big lake. Surroundings include several swimming pools around the room-blocks where you can spend some relaxing time after the conference is over, since the pools here  are open 24/7! Unfortunately many geekos have been so busy they didn't swim as much as would have been good for their white skin...
 
 [![Geeko Lounge](//news.opensuse.org/wp-content/uploads/2013/11/DSC_0134.jpg)](//news.opensuse.org/wp-content/uploads/2013/11/DSC_0134.jpg)
 
@@ -31,7 +31,7 @@ The location of this yearâ€™s conference, Disneyâ€™s Coronado Springs 
 ### Geeko Hunt
 
 
-Part of our this yearâ€™s Summit was the Geeko Hunt game. Hereâ€™s how it goes:
+Part of our this year’s Summit was the Geeko Hunt game. Here’s how it goes:
 Geeko photos were hidden around the venue and you had to go around and look for them.
 Interesting and challenging idea to keep us on our feet during breaks and enhance socializing through collaboration in order to achieve the goal of finding the 20 hidden geeko heads that were around the venue.  Admittedly the geeko photos were hidden in some challenging places - people really had to make an extra efforts to find some of them.
 Winner of our game, who find all the hidden geekos, was Steve! Well done, Steve :)
@@ -57,9 +57,9 @@ A Mexican evening was the second awesome party of openSUSE Summit, on Saturday n
 
 Now, let's turn to the content. Plenty of good talks took place, here some notes!
 
-Lars presented our awesome geeko infrastructure and familiarizes us with Education Li-f-e, and if you donâ€™t know what that is, go look it up now! Jos tells us all about community building, promo and "booth'ing," the doâ€™s and donâ€™ts. More advanced hands-on workshops also take place in Genie Lab, taking us down the road of systemd and image building with KIWI.
+Lars presented our awesome geeko infrastructure and familiarizes us with Education Li-f-e, and if you don’t know what that is, go look it up now! Jos tells us all about community building, promo and "booth'ing," the do’s and don’ts. More advanced hands-on workshops also take place in Genie Lab, taking us down the road of systemd and image building with KIWI.
 
-The town hall meeting couldnâ€™t possibly be missing from this event of course! It is basically an "_everybody-in-one-room-talk-about-what-matters"_ hour. During our town hall meeting issues like the wiki maze and the extensive communication channels we feature for the project were brought up. A few ideas were presented, such as integrating more openQA testing in the openSUSE Factory development process, adding social and game-like features to OBS to motivate our contributors and get a little more game-addiction going. Stay tuned for more info in our mailing list and share your viewpoints!
+The town hall meeting couldn’t possibly be missing from this event of course! It is basically an "_everybody-in-one-room-talk-about-what-matters"_ hour. During our town hall meeting issues like the wiki maze and the extensive communication channels we feature for the project were brought up. A few ideas were presented, such as integrating more openQA testing in the openSUSE Factory development process, adding social and game-like features to OBS to motivate our contributors and get a little more game-addiction going. Stay tuned for more info in our mailing list and share your viewpoints!
 
 Do you know what to do to download your new favorite distro? Lars Vogdt explains all (well, almost all) about the mirrors of openSUSE in his lightning talk about MirrorBrain, a framework that makes mirroring easy. Try it out for your project!
 [![Forum team](//news.opensuse.org/wp-content/uploads/2013/11/Forum-team.jpg)](//news.opensuse.org/wp-content/uploads/2013/11/Forum-team.jpg)
@@ -67,12 +67,12 @@ Do you know what to do to download your new favorite distro? Lars Vogdt explains
 **Have you ever used KIWI? Would you like to?**
 Robert Schweikert went into all the details about image building with KIWI in his 4-hour workshop that took place on Saturday 16 November. Everybody had their own laptop with the latest openSUSE version (13.1) installed. With Roberts instructions participants had the opportunity to explore the possibilities of KIWI and learn how to create their own images. For some this took a bit longer than expected, others just kept chatting it up even after the workshop was over!
 
-If you missed the event, make sure you go through the extensive wiki about KIWI and donâ€™t hesitate to send your question to our [geeko project mailing list](mailto:opensuse-project@opensuse.org), where fellow geekos can guide you in the right direction for fast and easy image building with our cool community tool, KIWI.
+If you missed the event, make sure you go through the extensive wiki about KIWI and don’t hesitate to send your question to our [geeko project mailing list](mailto:opensuse-project@opensuse.org), where fellow geekos can guide you in the right direction for fast and easy image building with our cool community tool, KIWI.
 
-Andrian SchrÃ¶ter took us for a dive into the world of OBS or Open Build Service, a useful tool developed within the openSUSE project, that can be used by anyone to package for any Linux distro.
+Andrian Schröter took us for a dive into the world of OBS or Open Build Service, a useful tool developed within the openSUSE project, that can be used by anyone to package for any Linux distro.
 If you would like to find out more, make sure you stay tuned for OBS workshops and presentations in future openSUSE events - we hold them regularly if you need extra help in getting started with packaging yourself.
 
-And thatâ€™s only some of the interesting stuff going on here... There is nothing cooler than talking in person to the developers of your favorite tool!
+And that’s only some of the interesting stuff going on here... There is nothing cooler than talking in person to the developers of your favorite tool!
 
 
 ## More awesomeness?

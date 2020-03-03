@@ -35,7 +35,7 @@ If you want to decorate your blog or website with a nice 13.1 banner, grab one o
 </tr>
 <tr valign="TOP" >
 
-<td width="84%" >Â [![728x90](//news.opensuse.org/wp-content/uploads/2013/10/728x90-300x37.png)](https://en.opensuse.org/File:728x90.jpg)
+<td width="84%" > [![728x90](//news.opensuse.org/wp-content/uploads/2013/10/728x90-300x37.png)](https://en.opensuse.org/File:728x90.jpg)
 </td>
 
 <td width="16%" >[728x90](http://en.opensuse.org/File:728x90.jpg)

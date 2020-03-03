@@ -35,7 +35,7 @@ While openSUSE has been released less than 36 hours ago, a large [number of revi
 At Eye on Linux Jim Linch [says about openSUSE 11.4](http://eyeonlinux.com/2011/03/10/quick-look-opensuse-11-4/):
 
 
-<blockquote>Itâ€™s arguably one of the best desktop distros available, and I expect it to remain among the top choices for a long time.</blockquote>
+<blockquote>It’s arguably one of the best desktop distros available, and I expect it to remain among the top choices for a long time.</blockquote>
 
 
 Jay Lyman, senior analyst for enterprise software at The 451 Group, was quoted by [V3.co.uk](http://www.v3.co.uk/) on openSUSE 11.4 saying:

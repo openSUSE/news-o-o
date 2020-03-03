@@ -36,4 +36,4 @@ In this week's issue:
 
 
 
-Huge thanks to Jan-Simon MÃ¶ller and Stephan Binner for preparing the issue!
+Huge thanks to Jan-Simon Möller and Stephan Binner for preparing the issue!

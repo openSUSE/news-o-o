@@ -35,19 +35,19 @@ There has been a number of blogs about the conference, a few of which have been 
 
 
 	
-  * **Marcel KÃ¼lhorn:** [#oSC12: Bootstrapping Awesome!](http://tux93.org/openSUSE/oSC12.html)
+  * **Marcel Külhorn:** [#oSC12: Bootstrapping Awesome!](http://tux93.org/openSUSE/oSC12.html)
 
 	
   * **Richard Sysrich:** [Looking back on oSC 12, and onwards to oSC 13](http://www.sysrich.co.uk/?p=117)
 
 	
-  * **Peter Czanik:** [OSC â€“ openSUSE and syslog-ng](https://czanik.blogs.balabit.com/2012/10/osc-opensuse-and-syslog-ng/)
+  * **Peter Czanik:** [OSC – openSUSE and syslog-ng](https://czanik.blogs.balabit.com/2012/10/osc-opensuse-and-syslog-ng/)
 
 	
   * **Wolfgang Rosenauer:** [openSUSE Conference 2012](http://www.rosenauer.org/blog/2012/10/28/opensuse-conference-2012/)
 
 	
-  * **Petr BaudiÅ¡:** [Short minutes from â€œText Mail Clientsâ€ BOF @ LinuxDays Prague 2012](http://log.or.cz/?p=295)
+  * **Petr Baudiš:** [Short minutes from “Text Mail Clients” BOF @ LinuxDays Prague 2012](http://log.or.cz/?p=295)
 
 	
   * **Dominique Leuenberger:** [openSUSE Conference oSC12 day 1](http://dominique.leuenberger.net/blog/2012/10/opensuse-conference-osc12-day-1/)
@@ -65,7 +65,7 @@ There has been a number of blogs about the conference, a few of which have been 
   * **Saurabh Sood:** [wrote about the openSUSE travel support program](https://iamsaurabh.wordpress.com/2012/10/27/the-opensuse-travel-support-program/)
 
 	
-  * **Baltasar Ortega** writes in Spanish - but with a full **10** blogs, I can't fail to mention him. He [announced his attendance](www.kdeblog.com/opensuse-conference-el-programa-del-sabado.html), then reports: [The day before](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-0-la-llegada.html), [day 1a](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-1-la-manana-i.html), [day 1b](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-1-la-manana-i.html), [Day 2a](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-2-la-manana.html), [day 2b](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-2-la-tarde-2.html) and then conclusions: [I](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-mi-charla.html), [II](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-ii-las-nuevas-y-viejas-amistades.html), [IV](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-iv-arduino-y-las-impresoras-3d.html) and finally [V](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-v-raspberry-pi-ejecutando-kubuntu.html). I could not find III but my Spanish begins and ends at olÃ©. Yes, if you can read Spanish, his blog is a MUST FOLLOW for sure.
+  * **Baltasar Ortega** writes in Spanish - but with a full **10** blogs, I can't fail to mention him. He [announced his attendance](www.kdeblog.com/opensuse-conference-el-programa-del-sabado.html), then reports: [The day before](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-0-la-llegada.html), [day 1a](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-1-la-manana-i.html), [day 1b](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-1-la-manana-i.html), [Day 2a](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-2-la-manana.html), [day 2b](http://www.kdeblog.com/opensuse-conference-2012-praga-dia-2-la-tarde-2.html) and then conclusions: [I](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-mi-charla.html), [II](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-ii-las-nuevas-y-viejas-amistades.html), [IV](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-iv-arduino-y-las-impresoras-3d.html) and finally [V](http://www.kdeblog.com/conclusiones-opensuse-conference-2012-de-praga-v-raspberry-pi-ejecutando-kubuntu.html). I could not find III but my Spanish begins and ends at olé. Yes, if you can read Spanish, his blog is a MUST FOLLOW for sure.
 
 	
   * **Jos Poortvliet**: [pre and post conference blues](http://blog.jospoortvliet.com/2012/11/pre-and-post-conference-blues.html)
@@ -74,16 +74,16 @@ There has been a number of blogs about the conference, a few of which have been 
   * **Athanasios-Ilias Rousinpoulos:** [oSC2012](https://zoumpis.wordpress.com/2012/11/02/zoumpis-osc2012/)
 
 	
-  * [Stathis Iosifidis](http://eiosifidis.blogspot.com/2012/10/opensuse-conference-2012-report.html):Â [openSUSE conference 2012 report](http://eiosifidis.blogspot.com/2012/10/opensuse-conference-2012-report.html)
+  * [Stathis Iosifidis](http://eiosifidis.blogspot.com/2012/10/opensuse-conference-2012-report.html): [openSUSE conference 2012 report](http://eiosifidis.blogspot.com/2012/10/opensuse-conference-2012-report.html)
 
 	
-  * **Michal ÄŒihaÅ™:**Â [oSC12 wrap up](http://blog.cihar.com/archives/2012/10/24/osc12-wrap/)
+  * **Michal Ìihař:** [oSC12 wrap up](http://blog.cihar.com/archives/2012/10/24/osc12-wrap/)
 
 	
-  * **Friedrich Kossebau:**Â [Sculpting Marble in Prague](http://frinring.wordpress.com/2012/10/22/sculpting-marble-in-prague/)
+  * **Friedrich Kossebau:** [Sculpting Marble in Prague](http://frinring.wordpress.com/2012/10/22/sculpting-marble-in-prague/)
 
 	
-  * **Leon Anavi:**Â [Linux Days 2012 Travel Notes](http://www.anavi.org/article/151/)
+  * **Leon Anavi:** [Linux Days 2012 Travel Notes](http://www.anavi.org/article/151/)
 
 
 [caption id="attachment_14824" align="alignright" width="300"][![Part of the Booth area (Saturday)](//news.opensuse.org/wp-content/uploads/2013/01/Day1-Saturday-044_DSC_7395.jpg)](//news.opensuse.org/wp-content/uploads/2013/01/Day1-Saturday-044_DSC_7395.jpg) Part of the Booth area (Saturday)[/caption]
@@ -155,7 +155,7 @@ You can watch video's of the talks on the [openSUSE TV channel](http://youtube.c
   * Kilian Petsch
 
 	
-  * Harald MÃ¼ller-Ney
+  * Harald Müller-Ney
 
 	
   * Martin Caj
@@ -164,7 +164,7 @@ You can watch video's of the talks on the [openSUSE TV channel](http://youtube.c
   * Christopher Hoffmann
 
 	
-  * JÃ¼rgen Weigert
+  * Jürgen Weigert
 
 
 [caption id="attachment_14826" align="alignright" width="300"][![Hallway Hacking](//news.opensuse.org/wp-content/uploads/2013/01/Day2-Sunday-064_DSC_7631.jpg)](//news.opensuse.org/wp-content/uploads/2013/01/Day2-Sunday-064_DSC_7631.jpg) Hallway Hacking[/caption]

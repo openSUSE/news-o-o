@@ -5,7 +5,7 @@ date: 2009-01-29 17:01:25+00:00
 layout: post
 link: https://news.opensuse.org/2009/01/29/openfate-new-features/
 slug: openfate-new-features
-title: openfate â€“ New Features
+title: openfate – New Features
 wordpress_id: 1158
 categories:
 - Infrastructure

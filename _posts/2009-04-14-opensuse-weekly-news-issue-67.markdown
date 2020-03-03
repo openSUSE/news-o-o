@@ -20,7 +20,7 @@ You can reach through opensuse-marketing@opensuse.org mailinglist (subscription 
 ![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #67 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/67)!  
   
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   *  OBS will be added to LDN

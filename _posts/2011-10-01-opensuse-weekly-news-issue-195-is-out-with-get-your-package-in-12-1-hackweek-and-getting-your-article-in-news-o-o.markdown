@@ -207,7 +207,7 @@ Enjoy reading :-)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcementsâ–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 
 
@@ -224,7 +224,7 @@ Enjoy reading :-)
 
 
 
-â€œ
+“
 
 
 [Get
@@ -235,11 +235,11 @@ The [upcoming openSUSE 12.1 release](http://en.opensuse.org/Portal:12.1)
 is being developed in [Factory](http://en.opensuse.org/Portal:Factory).
 According to the [release
 schedule](http://www.suse.de/%7Ecoolo/opensuse_12.1/) the Toolchain and several other critical components are frozen, but there
-is still time to get most package updates in! Itâ€™s not hard to do that, especially if you
+is still time to get most package updates in! It’s not hard to do that, especially if you
 build packages on [the Open Build Service](http://openbuildservice.org)
 anyway and you get your software to be part of openSUSE! Read on to learn more. (...)
 
-â€
+”
 
 
 
@@ -264,7 +264,7 @@ anyway and you get your software to be part of openSUSE! Read on to learn more. 
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Hackweek-mug.png)Hackweek VIIâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Hackweek-mug.png)Hackweek VII▲▼
 
 
 
@@ -281,7 +281,7 @@ anyway and you get your software to be part of openSUSE! Read on to learn more. 
 
 
 
-â€œ
+“
 
 
 [Cornelius
@@ -293,11 +293,11 @@ hacking on new ideas without interruptions. [SUSE](http://www.suse.com/)
 does this twice a year to trigger those innovations, you can't realize when you are swamped by
 day-to-day work. Of course it's not the only way or opportunity to do new things, but it gives
 the freedom to actually get something done on a topic, which is not covered by conventional
-product planning. It's productive, it's fun, it creates great results.Ã½Next week it's the
+product planning. It's productive, it's fun, it creates great results.ýNext week it's the
 [seventh edition
 of hack week](http://news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/). We are collecting ideas and activities in [openFATE](http://bit.ly/n5laxM).
 
-â€
+”
 
 
 
@@ -310,11 +310,11 @@ of hack week](http://news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/). W
 
 
 
-â€œ
+“
 
 
 [Michal
-ÄŒihaÅ™: GePeS - another hacweek project](http://blog.cihar.com/archives/2011/09/26/gepes-another-hacweek-project/)
+Ìihař: GePeS - another hacweek project](http://blog.cihar.com/archives/2011/09/26/gepes-another-hacweek-project/)
 
 
 With no clear plans for [Hackweek](http://en.opensuse.org/Portal:Hackweek) this year, I decided to play even more with N950. As I quite lack some GPS
@@ -345,7 +345,7 @@ During first day I've managed to implement basic things, check screenshots:
 
 ![](http://blog.cihar.com/images/blog/2011-09/2011-09-26_16-45-56-small.png)![](http://blog.cihar.com/images/blog/2011-09/2011-09-26_16-45-42-small.png)![](http://blog.cihar.com/images/blog/2011-09/2011-09-26_16-46-13-small.png)
 
-â€
+”
 
 
 
@@ -358,20 +358,20 @@ During first day I've managed to implement basic things, check screenshots:
 
 
 
-â€œ
+“
 
 
 [Alexander
 Naumov: openHackWeek 7](http://thefreecountry.wordpress.com/2011/09/29/openhackweek-7/)
 
 
-This week is specialâ€¦ and not for SUSEâ€™s employees only, but also for the openSUSE
-community. A lot of ideas from the [openFATE](https://features.opensuse.org/hackweek) will be implemented on this week. Whatâ€™s about myself? Wellâ€¦ as you know I
-donâ€™t work for SUSE anymore. Now I work for company in GÃ¶ttingen, which use GNU/Linux and Free
+This week is special… and not for SUSE’s employees only, but also for the openSUSE
+community. A lot of ideas from the [openFATE](https://features.opensuse.org/hackweek) will be implemented on this week. What’s about myself? Well… as you know I
+don’t work for SUSE anymore. Now I work for company in Göttingen, which use GNU/Linux and Free
 Software in industry sector. [Xplace](http://xplace.de/) provide open
 solutions, for example, at POS terminals in almost all European countries. (...)
 
-â€
+”
 
 
 
@@ -396,7 +396,7 @@ solutions, for example, at POS terminals in almost all European countries. (...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 
 
@@ -526,7 +526,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 
 
 
-â€œ
+“
 
 
 [decouple download and installation (Score: 368)](https://features.opensuse.org/120340)
@@ -535,7 +535,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 Network installation could be improved by running package download and package
 installation in parallel.
 
-â€
+”
 
 
 
@@ -548,7 +548,7 @@ installation in parallel.
 
 
 
-â€œ
+“
 
 
 [Look at plymouth for splash during boot (Score: 191)](https://features.opensuse.org/305493)
@@ -563,7 +563,7 @@ Ray's comment starting with "Every flicker and mode change in the boot
 process takes away from the whole experience." is especially interesting. Is it
 okay to track the "don't show grub by default" here?
 
-â€
+”
 
 
 
@@ -576,7 +576,7 @@ okay to track the "don't show grub by default" here?
 
 
 
-â€œ
+“
 
 
 [1-click uninstall (Score: 165)](https://features.opensuse.org/305305)
@@ -584,7 +584,7 @@ okay to track the "don't show grub by default" here?
 
 An easy way to remove Software! For example: you installed an application with "1-click install" (which will install all the packages that you need), there should be an easy way (also with 1 click) to remove what you have installed with that 1-click operation... in another words: an "1-click Uninstall" to remove installed software (dependencies and packages included).
 
-â€
+”
 
 
 
@@ -597,7 +597,7 @@ An easy way to remove Software! For example: you installed an application with "
 
 
 
-â€œ
+“
 
 
 [Update to GRUB v2 (Score: 153)](https://features.opensuse.org/308497)
@@ -615,7 +615,7 @@ taking forever to load bug) because we don't have enough memory to do block mapp
 for the journal so it needs to scan it for every metadata read. (Yeah, really.)
 (...)
 
-â€
+”
 
 
 
@@ -628,7 +628,7 @@ for the journal so it needs to scan it for every metadata read. (Yeah, really.)
 
 
 
-â€œ
+“
 
 
 [Popularity contest (Score: 111)](https://features.opensuse.org/305877)
@@ -644,7 +644,7 @@ We need a feedback about packages that are preferred by users and actively used.
 
 * we need a server infrastructure on opensuse.org. (There are certain privacy issues, see Debian FAQ for details)
 
-â€
+”
 
 
 
@@ -687,7 +687,7 @@ We need a feedback about packages that are preferred by users and actively used.
 
 
 
-â€œ
+“
 
 
 [Opensuse 12.1 - integrate PulseAudio 1.0](https://features.opensuse.org/312850)
@@ -695,7 +695,7 @@ We need a feedback about packages that are preferred by users and actively used.
 
 Among the features of PulseAudio 1.0 is a D-Bus based control protocol, source output volumes, passthrough audio support, echo cancellation support, restored Windows support, and improved sample rate adaptation in the module-rtp-receive module.
 
-â€
+”
 
 
 
@@ -708,7 +708,7 @@ Among the features of PulseAudio 1.0 is a D-Bus based control protocol, source o
 
 
 
-â€œ
+“
 
 
 [make nfs-client setup in YaST to modify /etc/fstab](https://features.opensuse.org/312853)
@@ -720,7 +720,7 @@ So in the current state, the user has to modify the /etc/fstab manually. But whe
 
 So if we had such a function, even if it just was a checkbox "write to /etc/fstab" so that experienced users or the ones who want to do something advanced, have the choice not to modify /etc/fstab, this would be great.
 
-â€
+”
 
 
 
@@ -733,7 +733,7 @@ So if we had such a function, even if it just was a checkbox "write to /etc/fsta
 
 
 
-â€œ
+“
 
 
 [make nfs-server and nfs-client setup in YaST themselves deal with the Firewall](https://features.opensuse.org/312854)
@@ -746,7 +746,7 @@ Switching off the firewall completely is a workaround but it leaves a bitter tas
 
 So it would be cool, if YaST could take care of all services related to NFS in terms of firewall settings and also the settings coming from the NFS setup.
 
-â€
+”
 
 
 
@@ -759,7 +759,7 @@ So it would be cool, if YaST could take care of all services related to NFS in t
 
 
 
-â€œ
+“
 
 
 [Transion to MariaDB as the default SQL server](https://features.opensuse.org/312858)
@@ -771,7 +771,7 @@ Building on this feature from 11.3: Include MariaDB
 
 Given the Oracle ownership of MySQL and their move to an OpenCore development model it is time OpenSUSE transitions away from MySQL as the default database to the MariaDB.
 
-â€
+”
 
 
 
@@ -853,7 +853,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 	
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-â€“ [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+– [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -882,7 +882,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Communityâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 
 
@@ -925,7 +925,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 
 
-â€œ
+“
 
 
 [openSUSE Pizza Parties the Geeko Way](http://news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/)
@@ -940,13 +940,13 @@ begin!
 
 **HowTo**
 
-So, the first GPM: Geeko Party Maker. As you might have seen, youâ€™ve all been invited to
+So, the first GPM: Geeko Party Maker. As you might have seen, you’ve all been invited to
 [organize a pizzabeta party](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/). The [beta has been delayed a
-bit](http://news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/) but party can still be had â€“ the release will be this weekend. Of course,
-instead, you can organize a launch party for 12.1 once it is out â€“ which is currently planned
+bit](http://news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/) but party can still be had – the release will be this weekend. Of course,
+instead, you can organize a launch party for 12.1 once it is out – which is currently planned
 the third week of November. (...)
 
-â€
+”
 
 
 
@@ -1160,7 +1160,7 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updatesâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 
 
@@ -1179,7 +1179,7 @@ refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-sec
 
 
 
-â€œ
+“
 
 
 [
@@ -1187,7 +1187,7 @@ openSUSE-SU-2011:1076-1: important: mozilla-xulrunner192: Update to Mozilla XULR
 1.9.2.23](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00028.html)
 
 
-<table frame="void" id="id319468" >TableÂ 1.Â SUSE Security Announcement 
+<table frame="void" id="id319468" >Table 1. SUSE Security Announcement 
 
 <tr >
 
@@ -1237,7 +1237,7 @@ openSUSE-SU-2011:1076-1: important: mozilla-xulrunner192: Update to Mozilla XULR
 </tr>
 </tbody>
 </table>
-â€
+”
 
 
 
@@ -1250,14 +1250,14 @@ openSUSE-SU-2011:1076-1: important: mozilla-xulrunner192: Update to Mozilla XULR
 
 
 
-â€œ
+“
 
 
 [
 openSUSE-SU-2011:1077-1: important: seamonkey: Update to Mozilla Seamonkey 2.4](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00029.html)
 
 
-<table frame="void" id="id319616" >TableÂ 2.Â SUSE Security Announcement 
+<table frame="void" id="id319616" >Table 2. SUSE Security Announcement 
 
 <tr >
 
@@ -1308,7 +1308,7 @@ issues.
 </tr>
 </tbody>
 </table>
-â€
+”
 
 
 
@@ -1321,14 +1321,14 @@ issues.
 
 
 
-â€œ
+“
 
 
 [
 openSUSE-SU-2011:1079-1: important: MozillaFirefox: Update to Firefox 3.6.23](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00030.html)
 
 
-<table frame="void" id="id319766" >TableÂ 3.Â SUSE Security Announcement 
+<table frame="void" id="id319766" >Table 3. SUSE Security Announcement 
 
 <tr >
 
@@ -1379,7 +1379,7 @@ issues.
 </tr>
 </tbody>
 </table>
-â€
+”
 
 
 
@@ -1404,7 +1404,7 @@ issues.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Reviewâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 
 
@@ -1421,16 +1421,16 @@ issues.
 
 
 
-â€œ
+“
 
 
 [Rares
-Aioanei: kernel weekly news â€“ 01.10.2011](http://schaiba.wordpress.com/2011/10/01/kernel-weekly-news-01-10-2011/)
+Aioanei: kernel weekly news – 01.10.2011](http://schaiba.wordpress.com/2011/10/01/kernel-weekly-news-01-10-2011/)
 
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
-â€
+”
 
 
 
@@ -1455,7 +1455,7 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricksâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 
 
@@ -1498,17 +1498,17 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 
 
-â€œ
+“
 
 
 [Wazi/Carla Schroder: Become an ImageMagick Ninja: Doing Things in Batches](http://olex.openlogic.com/wazi/2011/become-an-imagemagick-ninja-doing-things-in-batches/)
 
 
-Last month we introduced [ImageMagick](http://olex.openlogic.com/packages/imagemagick), a software suite that lets you manipulate images in several interesting ways. In [that article](http://olex.openlogic.com/wazi/2011/become-an-imagemagick-ninja-resizing-and-converting-images/) we learned a lot of ways to resize images, make thumbnails, and convert image file formats. Today weâ€™re going to unleash more of the mighty ImageMagick power and learn to make drop shadows, raised buttons, and proof sheets, and generate different sizes of the same image.
+Last month we introduced [ImageMagick](http://olex.openlogic.com/packages/imagemagick), a software suite that lets you manipulate images in several interesting ways. In [that article](http://olex.openlogic.com/wazi/2011/become-an-imagemagick-ninja-resizing-and-converting-images/) we learned a lot of ways to resize images, make thumbnails, and convert image file formats. Today we’re going to unleash more of the mighty ImageMagick power and learn to make drop shadows, raised buttons, and proof sheets, and generate different sizes of the same image.
 
 As always, before you manipulate irreplaceable photos, back up your originals first! (...)
 
-â€
+”
 
 
 
@@ -1521,7 +1521,7 @@ As always, before you manipulate irreplaceable photos, back up your originals fi
 
 
 
-â€œ
+“
 
 
 [Dmitri Popov: Open Source Photography Tools Five Quick digiKam Tricks](http://scribblesandsnaps.wordpress.com/2011/09/26/five-quick-digikam-tricks/)
@@ -1533,9 +1533,9 @@ To quickly adjust thumbnail size in the Album view, press and hold the Ctrl key,
 
 Tip #2
 
-With the Non-Destructive editing and Versioning feature enabled, digiKam automatically hides originals and displays the latest modified versions of the photos. For example, if you process a NEF file and save it in the JPEG format, digiKam hides the original RAW file and shows only the JPEG photo. To disable this feature, choose **Settings** â†’ **Configure digiKam** â†’ **Editing Images** and make sure that the **Always show original images** option in the In main view section is enabled. To keep things tidy, you can then group the original and all its versions. To do this, select the photos you want to group, right-click on the selection, and choose **Group** â†’ **Group Selected Here**. (...)
+With the Non-Destructive editing and Versioning feature enabled, digiKam automatically hides originals and displays the latest modified versions of the photos. For example, if you process a NEF file and save it in the JPEG format, digiKam hides the original RAW file and shows only the JPEG photo. To disable this feature, choose **Settings** → **Configure digiKam** → **Editing Images** and make sure that the **Always show original images** option in the In main view section is enabled. To keep things tidy, you can then group the original and all its versions. To do this, select the photos you want to group, right-click on the selection, and choose **Group** → **Group Selected Here**. (...)
 
-â€
+”
 
 
 
@@ -1577,15 +1577,15 @@ With the Non-Destructive editing and Versioning feature enabled, digiKam automat
 
 
 
-â€œ
+“
 
 
-[Linuxaria: Pipes â€“ what are they and Example of Use](http://linuxaria.com/article/pipes-linux?lang=en)
+[Linuxaria: Pipes – what are they and Example of Use](http://linuxaria.com/article/pipes-linux?lang=en)
 
 
 Unix based operating systems like Linux offer a unique approach to join two commands on the terminal, with it you can take the output of the first command and use it as input of the second command, this is the concept of pipe or | . Pipes allow two separate process to communicate with each other also if they were not created to do it, so this open an infinite series of opportunity. (...)
 
-â€
+”
 
 
 
@@ -1598,7 +1598,7 @@ Unix based operating systems like Linux offer a unique approach to join two comm
 
 
 
-â€œ
+“
 
 
 [Home ERA Computers & Consulting: Custom Weekly Backup with tar](http://www.eracc.com/content/custom-weekly-backup-tar)
@@ -1606,7 +1606,7 @@ Unix based operating systems like Linux offer a unique approach to join two comm
 
 This page describes one method of backing up data from one's Linux or Unix based system to an external medium using a bash script and tar. Here is the script for the impatient ones who "Just want some code!": (...)
 
-â€
+”
 
 
 
@@ -1648,7 +1648,7 @@ This page describes one method of backing up data from one's Linux or Unix based
 
 
 
-â€œ
+“
 
 
 [Joe Stagner: Selecting and Installing JavaScript Developer Tools for Linux](http://www.misfitgeek.com/2011/09/avascript-developer-tools-for-linux-2/)
@@ -1656,9 +1656,9 @@ This page describes one method of backing up data from one's Linux or Unix based
 
 Choosing an editor or IDE for development is a personal thing, like choosing a car. What is a perfect ride for one person offers no interest at all to another. Personally, I was never happy with only one car and usually want different ones in the garage so that I can choose the one that most closely matches my mood or the kind of driving that I need to do.
 
-Some folks like the help and tooling of a fully integrated environment like Visual Studio. Others like the hardcore elitism of EMACS or Vi. Iâ€™m a pragmatist, I like tools that just help me get the job done. (...)
+Some folks like the help and tooling of a fully integrated environment like Visual Studio. Others like the hardcore elitism of EMACS or Vi. I’m a pragmatist, I like tools that just help me get the job done. (...)
 
-â€
+”
 
 
 
@@ -1700,7 +1700,7 @@ Some folks like the help and tooling of a fully integrated environment like Visu
 
 
 
-â€œ
+“
 
 
 [LinuxJournal/Leon
@@ -1714,7 +1714,7 @@ you see what this website has achieved.
 Playterm is a site which hosts videos of commands / tasks executed in the Linux
 terminal. (...)
 
-â€
+”
 
 
 
@@ -1727,7 +1727,7 @@ terminal. (...)
 
 
 
-â€œ
+“
 
 
 [IBM Developer Works/Roderick W. Smith: Learn Linux, 302 (Mixed environments): SWAT configuration](http://www.ibm.com/developerworks/linux/library/l-lpic3-312-5/index.html?ca=drs-)
@@ -1739,7 +1739,7 @@ right, and like all servers, it requires at least minimal configuration. In this
 learn how to install and configure SWAT itself and how to use SWAT to manage Samba.
 (...)
 
-â€
+”
 
 
 
@@ -1752,7 +1752,7 @@ learn how to install and configure SWAT itself and how to use SWAT to manage Sam
 
 
 
-â€œ
+“
 
 
 [BeginLinux: OpenSUSE PXE Boot](http://beginlinux.com/desktop/opensuse/opensuse-pxe-boot)
@@ -1788,7 +1788,7 @@ What we will look at
 
 
 
-â€
+”
 
 
 
@@ -1816,7 +1816,7 @@ What we will look at
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSEâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 
 
@@ -1833,7 +1833,7 @@ What we will look at
 
 
 
-â€œ
+“
 
 
 [Bryen Yunashko:
@@ -1841,13 +1841,13 @@ Getting Articles into News.openSUSE.org](http://www.bryen.com/getting-articles-i
 
 
 At the recent 12.1 Marketing hackfest, we devised an editorial schedule and folks have
-begun writing articles for promoting 12.1.  However, some of these articles havenâ€™t been
+begun writing articles for promoting 12.1.  However, some of these articles haven’t been
 submitted yet.  We suggest that in order to minimize confusion and reduce excessive pinging,
 you create an [ietherpad](http://ietherpad.com) with your article and link
 to it in the editorial schedule at [http://ietherpad.com/sked](http://ietherpad.com/sked) or send your article directly to news@opensuse.org.
 (...)
 
-â€
+”
 
 
 
@@ -1860,7 +1860,7 @@ to it in the editorial schedule at [http://ietherpad.com/sked](http://ietherpad.
 
 
 
-â€œ
+“
 
 
 [Raymond Wooninck: Chromium browser got accepted into openSUSE:Factory](http://tittiatcoke.wordpress.com/2011/09/24/chromium-browser-got-accepted-into-opensusefactory/)
@@ -1870,7 +1870,7 @@ After maintaining the Chromium browser in the openSUSE Contrib repositories, the
 weeks things got accelerated and as of this moment the Chromium browser has become officially
 part of openSUSE:Factory (the future 12.1).
 
-The first step wa taken about 3 â€“ 4 weeks ago when a separate development project was
+The first step wa taken about 3 – 4 weeks ago when a separate development project was
 created (network:chromium). From there onwards it was just a matter of getting the package in
 the right shape for Factory and making sure that all legal and security conditions were met.
 Those who are tracking the updates of Chromium in this devel repo, might have noticed that a
@@ -1883,7 +1883,7 @@ I am quite proud on this fact and I hope that the openSUSE Chromium users will b
 with this fact. At the moment I am preparing an update to the 16.0.891 version and hopefully
 sometime beginning of next week the new snapshot will become available.
 
-â€
+”
 
 
 
@@ -1896,7 +1896,7 @@ sometime beginning of next week the new snapshot will become available.
 
 
 
-â€œ
+“
 
 
 [Bryen Yunashko: Take Geeko to
@@ -1905,13 +1905,13 @@ the Races!](http://www.bryen.com/take-geeko-to-the-races)
 
 Anyone who is part of the openSUSE Project knows that wherever you go, Geeko is with you.
 Geeko is that awesome mascot that brings the spirit of the openSUSE Community alive.
-Actually, Geeko isnâ€™t just a mascot.  Geeko lives within us all.   Are you a Geeko?
+Actually, Geeko isn’t just a mascot.  Geeko lives within us all.   Are you a Geeko?
 
 Now you can take Geeko to the races.  SuperTuxKart has a new addon, that includes Geeko,
-thanks to  Luke R.  Itâ€™s pretty simple to install and then let your work pile up while you
+thanks to  Luke R.  It’s pretty simple to install and then let your work pile up while you
 tryto win the races with Geeko at the wheel.
 
-â€
+”
 
 
 
@@ -1924,7 +1924,7 @@ tryto win the races with Geeko at the wheel.
 
 
 
-â€œ
+“
 
 
 [Christian Boltz: 1001 bugs - or: the golden rules of bad programming](http://blog.cboltz.de/archives/63-1001-bugs-or-the-golden-rules-of-bad-programming.html)
@@ -1937,7 +1937,7 @@ notes) again - here we are:
 bugs - or: the golden rules of bad programming as PDF](http://blog.cboltz.de/uploads/1001-bugs-or-golden-rules-of-bad-programming.pdf) (If you need an editable
 LibreOffice file, just drop me a note.)
 
-â€
+”
 
 
 
@@ -1950,7 +1950,7 @@ LibreOffice file, just drop me a note.)
 
 
 
-â€œ
+“
 
 
 [Kai-Uwe Behrmann: Colour Correction Concepts for Monitors](http://oyranos-cms.blogspot.com/2011/09/colour-correction-concepts-for-monitors.html)
@@ -1974,7 +1974,7 @@ Many people with uncorrected systems see quite a difference between various colo
 try to figure out how to conveniently synchronise them. Colour management should help
 accomplish that task. (...)
 
-â€
+”
 
 
 
@@ -1987,7 +1987,7 @@ accomplish that task. (...)
 
 
 
-â€œ
+“
 
 
 [Jos
@@ -2004,7 +2004,7 @@ distro's) trying the latest kernel can solve that. But that's hard to get on you
 with stuff like [the openSUSE Kernel
 repositories](http://kernel.opensuse.org) because it usually requires you to first **install** something. (...)
 
-â€
+”
 
 
 
@@ -2017,7 +2017,7 @@ repositories](http://kernel.opensuse.org) because it usually requires you to fir
 
 
 
-â€œ
+“
 
 
 [Bryen Yunashko: The Video
@@ -2026,18 +2026,16 @@ BoF](http://www.bryen.com/the-video-bof)
 
 So, one of the Birds of a Feather (BoF) sessions at the Conference that I organized was a
 Video BoF.  Specifically, the BoF was meant to start coming up with storyboarding to create
-some cool openSUSE promotional videos (ala commercials.)  Thereâ€™s a number of us with some
-great creative ideas and varying levels of exertise in this area and we just havenâ€™t gotten
-off the ground yet on how to approach some of these ideas.  For me, (relying on â€œold schoolâ€
+some cool openSUSE promotional videos (ala commercials.)  There’s a number of us with some
+great creative ideas and varying levels of exertise in this area and we just haven’t gotten
+off the ground yet on how to approach some of these ideas.  For me, (relying on “old school”
 classes I took from when I was a film major) storyboarding would have helped to define exactly
 the steps we needed in order to complete and execute the ideas many of us have.
 
 However, the general discussion quickly went in another direction, and one that I think is
-equally as important and Iâ€™m glad that conversation took place as wellâ€¦ (...)
+equally as important and I’m glad that conversation took place as well… (...)
 
-â€
-
-
+”
 
 
 
@@ -2048,7 +2046,9 @@ equally as important and Iâ€™m glad that conversation took place as wellâ�
 
 
 
-â€œ
+
+
+“
 
 
 [Jos
@@ -2072,7 +2072,7 @@ might not do. Find out what YOU want and how to get there!" And indeed, communit
 making your choices together. Not depending on corporate players acting as ADHD kids in a
 candy store, tasting every candy then dropping it. (...)
 
-â€
+”
 
 
 
@@ -2085,7 +2085,7 @@ candy store, tasting every candy then dropping it. (...)
 
 
 
-â€œ
+“
 
 
 [Andrew Wafaa: Target
@@ -2101,7 +2101,7 @@ I've had a discussion with several people about target hardware, and I've also l
 what our peers are doing and saying. At the same time I've been trying to see what options we
 have for getting some sponsorship for hardware. (...)
 
-â€
+”
 
 
 
@@ -2114,7 +2114,7 @@ have for getting some sponsorship for hardware. (...)
 
 
 
-â€œ
+“
 
 
 [Klaas
@@ -2131,7 +2131,7 @@ Well, thats easy: ownCloud is a solution that is under the full control of the u
 a result very transparent. The server, were you push your data to is owned by you. You start,
 stop, erase or open it how ever you want. (...)
 
-â€
+”
 
 
 
@@ -2156,7 +2156,7 @@ stop, erase or open it how ever you want. (...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Webâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 
 
@@ -2199,7 +2199,7 @@ stop, erase or open it how ever you want. (...)
 
 
 
-â€œ
+“
 
 
 [Pascal Bleser: FOSDEM 2012: call for devrooms](http://dev-loki.blogspot.com/2011/09/fosdem-2012-call-for-devrooms.html)
@@ -2212,7 +2212,7 @@ I've just opened the [Call for Developer Rooms](http://fosdem.org/2012/call_for_
 
 Other call-for-stuffs will open very soon (lightning talks, stands, main tracks).
 
-â€
+”
 
 
 
@@ -2254,7 +2254,7 @@ Other call-for-stuffs will open very soon (lightning talks, stands, main tracks)
 
 
 
-â€œ
+“
 
 
 [h-online: Eclipse 3.7.1 supports Java 7](http://www.h-online.com/open/news/item/Eclipse-3-7-1-supports-Java-7-1349745.html)
@@ -2267,12 +2267,12 @@ in [Eclipse
 3.7.1](http://www.eclipse.org/eclipse/development/readme_eclipse_3.7.1.html) is the addition of support for [Java
 7](http://www.h-online.com/news/item/Oracle-releases-Java-7-platform-1288208.html). When the developers released version 3.7 of Eclipse [at
 the end of June](http://www.h-online.com/news/item/Eclipse-Indigo-expands-its-reach-1266106.html) as part of the official Indigo release train, the final version of
-Java 7 wasn't available. Shortly after Oracle released the new version of Java â€“ long
-awaited by the Java community â€“ on 28 July, the Eclipse developers announced their support
+Java 7 wasn't available. Shortly after Oracle released the new version of Java – long
+awaited by the Java community – on 28 July, the Eclipse developers announced their support
 of the new version. To implement this support, the organisation released a "Feature
 Pack". (...)
 
-â€
+”
 
 
 
@@ -2285,7 +2285,7 @@ Pack". (...)
 
 
 
-â€œ
+“
 
 
 [h-online: Tizen: the latest mobile Linux announced](http://www.h-online.com/open/news/item/Tizen-the-latest-mobile-Linux-announced-1350926.html)
@@ -2300,7 +2300,7 @@ of MeeGo and Limo with an emphasis on supporting [HTML5-based applications](http
 APIs. WAC is the [product of a number of mobile companies](http://www.wacapps.net/our-members) who have developed a uniform platform for mobile widgets and
 applications based on W3C standards. (...)
 
-â€
+”
 
 
 
@@ -2313,15 +2313,15 @@ applications based on W3C standards. (...)
 
 
 
-â€œ
+“
 
 
 [Datamation: Will Windows 8 'Secure Boot' Lessen Linux Adoption?](http://www.datamation.com/open-source/does-microsoft-hold-the-keys-to-desktop-linux-1.html)
 
 
 As most PC users know by now, Microsoft has given us a glimpse into what will one day be
-the Windows 8 operating system. Leaving aside the many changes in the new OS â€“ it's a major
-shift from what we've previously seen from Microsoft â€“ there's an extra feature included
+the Windows 8 operating system. Leaving aside the many changes in the new OS – it's a major
+shift from what we've previously seen from Microsoft – there's an extra feature included
 with Windows 8 that has [some of us concerned](http://www.theregister.co.uk/2011/09/26/uefi_linux_lock_out_row_latest/).
 
 The new feature in question is called Secure Boot. It's designed to act as a security
@@ -2331,7 +2331,7 @@ without a clear way of disabling it should someone wish to do so.
 In other words, with Secure Boot enabled, you wouldn't be able to install your favorite
 Linux distro on that machine.
 
-â€
+”
 
 
 
@@ -2344,7 +2344,7 @@ Linux distro on that machine.
 
 
 
-â€œ
+“
 
 
 [h-online: Firefox 8 Beta arrives with Twitter search](http://www.h-online.com/open/news/item/Firefox-8-Beta-arrives-with-Twitter-search-1352277.html)
@@ -2356,12 +2356,12 @@ engine. According to the [Releases
 wiki](https://wiki.mozilla.org/Releases), it is scheduled to arrive in a stable production-ready form on 8
 November.
 
-[Control of add-ons](http://blog.mozilla.com/addons/2011/08/11/strengthening-user-control-of-add-ons/) has been improved â€“ when Firefox launches and detects that a
+[Control of add-ons](http://blog.mozilla.com/addons/2011/08/11/strengthening-user-control-of-add-ons/) has been improved – when Firefox launches and detects that a
 new third-party add-on has been installed, the add-on will be disabled until approved by the
 user. Additionally, when users upgrade to Firefox 8 they will be presented with a one-time
 dialog for approving previously installed add-ons. (...)
 
-â€
+”
 
 
 
@@ -2374,7 +2374,7 @@ dialog for approving previously installed add-ons. (...)
 
 
 
-â€œ
+“
 
 
 [h-online: FSF relaunches its free software directory](http://www.h-online.com/open/news/item/FSF-relaunches-its-free-software-directory-1352170.html)
@@ -2384,7 +2384,7 @@ The [Free Software Foundation](http://www.fsf.org/) (FSF) has [announced](http:/
 Free Software Directory. Available at [directory.fsf.org](http://directory.fsf.org/wiki/Main_Page), the Directory was first launched almost ten years ago and has
 been one of the FSF's "most popular and important resources". (...)
 
-â€
+”
 
 
 
@@ -2426,7 +2426,7 @@ been one of the FSF's "most popular and important resources". (...)
 
 
 
-â€œ
+“
 
 
 [Linux-BG: Linus Torvalds speaks about kernel fun, gadgets](http://www.linux-bg.org/docs/linus_torvalds_interview.html)
@@ -2437,7 +2437,7 @@ project of yours that could jeopardize the Linux kernel success and make it obso
 for example trying to win the Pes pallo championship, trying to be the best sled dog racer
 or ... create a clone of Mine Sweeper. (...)
 
-â€
+”
 
 
 
@@ -2450,18 +2450,15 @@ or ... create a clone of Mine Sweeper. (...)
 
 
 
-â€œ
+“
 
 
-[Input Output/Steven J. Vaughan-Nichols: Linus Torvaldsâ€™s Lessons on Software Development Management](http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440)
+[Input Output/Steven J. Vaughan-Nichols: Linus Torvalds’s Lessons on Software Development Management](http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440)
 
 
-If anyone knows the joys and sorrows of managing software development projects, it would be Linus Torvalds, creator of the world's most popular open-source software program: the Linux operating system. For [more than 20 years](http://www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663), Torvalds has been directing thousands of developers [to improve the open source OS](http://www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663). He and I sat down to talk about effective techniques in running large-scale distributed programming teams â€“ and the things that donâ€™t work, too. (...)
+If anyone knows the joys and sorrows of managing software development projects, it would be Linus Torvalds, creator of the world's most popular open-source software program: the Linux operating system. For [more than 20 years](http://www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663), Torvalds has been directing thousands of developers [to improve the open source OS](http://www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663). He and I sat down to talk about effective techniques in running large-scale distributed programming teams – and the things that don’t work, too. (...)
 
-â€
-
-
-
+”
 
 
 
@@ -2471,7 +2468,10 @@ If anyone knows the joys and sorrows of managing software development projects, 
 
 
 
-â€œ
+
+
+
+“
 
 
 [seopher.com100+ awesome free and open source applications](http://www.seopher.com/articles/100_awesome_free_and_open_source_applications)
@@ -2488,7 +2488,7 @@ awareness of such projects is something I'm more than happy to do. If you feel t
 missed something good off the list, please leave a comment at the bottom - I read absolutely
 every one.(...)
 
-â€
+”
 
 
 
@@ -2516,7 +2516,7 @@ every one.(...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedbackâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 
 
@@ -2577,7 +2577,7 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Creditsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 
 
@@ -2606,7 +2606,7 @@ We thank for this Issue:
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
 	
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
 	
   * [Thomas
@@ -2633,7 +2633,7 @@ Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgementsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 
 
@@ -2682,7 +2682,7 @@ We thank for this Issue:
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrightsâ–²â–¼
+## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 
 
@@ -2762,10 +2762,10 @@ We thank for this Issue:
 
 
 
-SUSE Â®, openSUSE Â®, the openSUSE Â® Logo and Novell Â® are registered Trademarks of
+SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademarks of
 Novell, Inc.
 
-Linux Â® is a registered Trademark of Linus Torvalds
+Linux ® is a registered Trademark of Linus Torvalds
 
 
 
@@ -2787,7 +2787,7 @@ Linux Â® is a registered Trademark of Linus Torvalds
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translationsâ–²
+## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 
 

@@ -17,7 +17,7 @@ tags:
 
 The [openSUSE Goblin Team](http://en.opensuse.org/openSUSE:Goblin) are pleased to announce the first public release of Smeegol.
 [](http://news.opensuse.org/2010/10/06/announcing-smeegol-1-0/screenshot-moblin-panel-myzone/)[![Meego with a touch of Geeko](/wp-content/uploads/2010/10/Screenshot-moblin-panel-myzone.png)](http://news.opensuse.org/2010/10/06/announcing-smeegol-1-0/screenshot-moblin-panel-myzone/)
-ï»¿ï»¿Smeegol is based on the netbook user interface that came from the [MeeGo(TM)* project](http://www.meego.com). Smeegol offers the latest Banshee's powerful music player, a newer Evolution Express as mail and agenda client and several additional social networks.
+﻿﻿Smeegol is based on the netbook user interface that came from the [MeeGo(TM)* project](http://www.meego.com). Smeegol offers the latest Banshee's powerful music player, a newer Evolution Express as mail and agenda client and several additional social networks.
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ Smeegol 1.0 has some unique features to both stock openSUSE & MeeGo(TM)*:
 
 
 	
-  * Media playback is provided by the latest offering from the latest [Banshee Project](http://banshee.fm/), version 1.8.0.Â This provides users with the ability to purchase music directly from within the application using Amazon's MP3 store. The Miro Guide is also available out of the box so you can hunt for the perfect podcast.Â  Besides the latest version of Banshee, we also provide the [Community Extensions](http://banshee.fm/download/extensions/).Â These add additional functionality should you desire, like sharing music with friends over IM using Telepathy, stream music from Magnatune, discover internet radio stations with LiveRadio and a nice shuffle-by-similar and fill-by-similar modes, based on your songs' acoustic similarity using Mirage.
+  * Media playback is provided by the latest offering from the latest [Banshee Project](http://banshee.fm/), version 1.8.0. This provides users with the ability to purchase music directly from within the application using Amazon's MP3 store. The Miro Guide is also available out of the box so you can hunt for the perfect podcast.  Besides the latest version of Banshee, we also provide the [Community Extensions](http://banshee.fm/download/extensions/). These add additional functionality should you desire, like sharing music with friends over IM using Telepathy, stream music from Magnatune, discover internet radio stations with LiveRadio and a nice shuffle-by-similar and fill-by-similar modes, based on your songs' acoustic similarity using Mirage.
 
 	
   * A full range of social network support including Facebook, Twitter, MySpace, Flickr and Digg.
@@ -57,17 +57,17 @@ Find a SUSE Studio image, ready to be cloned and customized, on [SUSE Studio](ht
 
 **Joining In The Fun**
 
-The Goblin team comprises several openSUSE community members, and they're a friendly bunch always on the look out for help.Â  So why not jump on board and join us on IRC - #opensuse-moblin on Freenode; or join on the mailing list - opensuse-goblin@opensuse.org (pretty low traffic). Currently Smeegol is not part of the upcoming openSUSE release (Factory) and we can certainly use a hand in getting it in there.
+The Goblin team comprises several openSUSE community members, and they're a friendly bunch always on the look out for help.  So why not jump on board and join us on IRC - #opensuse-moblin on Freenode; or join on the mailing list - opensuse-goblin@opensuse.org (pretty low traffic). Currently Smeegol is not part of the upcoming openSUSE release (Factory) and we can certainly use a hand in getting it in there.
 
 **Bugs, Issues, Enhancements**
 
 [![Smeegol does unfortunately not yet work in SUSE Studio Testdrive.](/wp-content/uploads/2010/10/testdrive41.png)](http://news.opensuse.org/2010/10/06/announcing-smeegol-1-0/testdrive4-2/)
-As this is a first release there are potentially gremlins that try and ruin your fun.Â  Firstly sorry if you encounter any, but please file a [bug](https://bugzilla.novell.com/enter_bug.cgi?classification=7340&product=openSUSE.org&component=3rd%20party%20software&assigned_to=awafaa@opensuse.org&short_desc=Meego:Netbook:%20Bug).Â  If you have a feature you would like please file a request in [openFate](https://features.opensuse.org/).Â Consider helping out with the solution, we're very much open for help! For other issues, e-mail us and we'll point you in the right direction.
+As this is a first release there are potentially gremlins that try and ruin your fun.  Firstly sorry if you encounter any, but please file a [bug](https://bugzilla.novell.com/enter_bug.cgi?classification=7340&product=openSUSE.org&component=3rd%20party%20software&assigned_to=awafaa@opensuse.org&short_desc=Meego:Netbook:%20Bug).  If you have a feature you would like please file a request in [openFate](https://features.opensuse.org/). Consider helping out with the solution, we're very much open for help! For other issues, e-mail us and we'll point you in the right direction.
 
 Notice that unfortunately Smeegol does not play well in a virtualized environment (hence a broken SUSE Studio Testdrive).
 
 **Thanks**
 
-There are many people to thank for helping us realise this milestone.Â  This has been a true community effort, with help from upstream Banshee and MeeGo(TM)*, and also from the many teams within openSUSE including the GNOME, KDE and LXDE teams.Â A big thank you to all of you.
+There are many people to thank for helping us realise this milestone.  This has been a true community effort, with help from upstream Banshee and MeeGo(TM)*, and also from the many teams within openSUSE including the GNOME, KDE and LXDE teams. A big thank you to all of you.
 
 *MeeGo is a trademark of the [Linux Foundation](http://www.linuxfoundation.org/). Please note that the Smeegol effort is an independent community project and not part of the Novell and Linux Foundation efforts.

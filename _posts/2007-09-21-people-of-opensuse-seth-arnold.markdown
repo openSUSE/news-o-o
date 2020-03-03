@@ -326,7 +326,7 @@ I'd love nothing more than to find the time to try to write better text typesett
 
 
 
-#### The Internet crashes for a whole week â€“ how would you feel, what would you do?
+#### The Internet crashes for a whole week – how would you feel, what would you do?
 
 
 It'd be an annoyance to be disconnected from friends, but I would enjoy a week to wander around a foreign city, or hike in the woods.
@@ -398,7 +398,7 @@ Definitely travel -- I love to spend ten, twelve, hours per day walking around c
 
 
 
-#### Someone gives you $1.000.000 â€“ what would you do with the money?
+#### Someone gives you $1.000.000 – what would you do with the money?
 
 
 I'd buy a house and invest the remainder. I could do a fair bit of traveling on the income you could get for that kind of investment..
@@ -408,7 +408,7 @@ I'd buy a house and invest the remainder. I could do a fair bit of traveling on 
 
 
 
-#### If traveling through time was possible â€“ when would we be most likely to meet you?
+#### If traveling through time was possible – when would we be most likely to meet you?
 
 
 I'd love to be present to see the advances in particle physics of the early 1900s, but I'd also like to see if we ever get a grand unified theory -- so perhaps 2100?
@@ -418,7 +418,7 @@ I'd love to be present to see the advances in particle physics of the early 1900
 
 
 
-#### There's a thunderstorm outside Â¯ do you turn off your computer?
+#### There's a thunderstorm outside ¯ do you turn off your computer?
 
 
 Hooooray laptops!

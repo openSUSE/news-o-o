@@ -167,7 +167,7 @@ Fine print:
 
 Requires minimum 15GB partition, 30GB is recommended if you intend to use it as your main operating system and 1 GB of RAM. Running it from DVD will be very slow so [create live USB stick](http://en.opensuse.org/Live_USB_stick) for testing and installation.
 
-Test reports, blog posts, reviews are always welcome â€“ if you encounter any problems, feel free to contact us via any way [mentioned in our wiki](http://en.opensuse.org/Portal:Education) or [write a bug report](https://bugzilla.novell.com/enter_bug.cgi?classification=7340&product=openSUSE.org&component=3rd%20party%20software&assigned_to=lrupp%40suse.com&short_desc=Education).
+Test reports, blog posts, reviews are always welcome – if you encounter any problems, feel free to contact us via any way [mentioned in our wiki](http://en.opensuse.org/Portal:Education) or [write a bug report](https://bugzilla.novell.com/enter_bug.cgi?classification=7340&product=openSUSE.org&component=3rd%20party%20software&assigned_to=lrupp%40suse.com&short_desc=Education).
 
 Have a lot of fun...
 

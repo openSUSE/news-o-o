@@ -26,7 +26,7 @@ It's been a long ride, and we'd like to give a short overview of the strategy di
 ### The beginning
 
 
-The strategy process was started after the first openSUSE conference, now almost 2 years ago. In that time, quite a number of people have participated in the strategy team: Michael LÃ¶ffler, Joe Brockmeier, Kurt Garloff, Jan Weber, Pascal Bleser, Andreas Jaeger, Bryen Yunashko, Pavol Rusnak, Jos Poortvliet and Thomas Thym. Of course, many others contributed by commenting on the proposals via mailing plists, forums, blogs and other channels.
+The strategy process was started after the first openSUSE conference, now almost 2 years ago. In that time, quite a number of people have participated in the strategy team: Michael Löffler, Joe Brockmeier, Kurt Garloff, Jan Weber, Pascal Bleser, Andreas Jaeger, Bryen Yunashko, Pavol Rusnak, Jos Poortvliet and Thomas Thym. Of course, many others contributed by commenting on the proposals via mailing plists, forums, blogs and other channels.
 
 
 ### Meetings

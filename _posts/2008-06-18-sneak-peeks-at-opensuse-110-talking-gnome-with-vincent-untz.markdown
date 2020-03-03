@@ -51,7 +51,7 @@ Just a few hours before openSUSE 11.0 is officially released! Here we'll take a 
   * Artwork, obviously. This helps having a unified look & feel with the rest of the distro (splash screen, e.g.).
 
 	
-  * Default configuration â€” like panel layout, including gnome-main-menu, and some settings in some applications.
+  * Default configuration — like panel layout, including gnome-main-menu, and some settings in some applications.
 
 	
   * Bug fixes: We backport many bug fixes from SVN to get something more stable.

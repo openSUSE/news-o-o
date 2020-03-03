@@ -36,7 +36,7 @@ The openSUSE Conference is located in Europe. The event usually starts on a Frid
 ## Call for Locations
 
 
-The openSUSE board is looking for a team of volunteers able and willing to organize the openSUSE Conference 2014. Organizing oSC is fun, inspiring but not without challenges. The global openSUSE community has proven to be more than willing to help whenever possible. However, the organization of oSC requires many event local actions that cannot be completed from remote locations. Therefore, the local organization team is the major contributor to the success of the event prior to and during the conference. The openSUSE community is very open and welcoming. Thus, local LUGâ€™s are generally willing to help with the organization of the conference. We also welcome organizational help and conference contributions from other distributions and FOSS projects.
+The openSUSE board is looking for a team of volunteers able and willing to organize the openSUSE Conference 2014. Organizing oSC is fun, inspiring but not without challenges. The global openSUSE community has proven to be more than willing to help whenever possible. However, the organization of oSC requires many event local actions that cannot be completed from remote locations. Therefore, the local organization team is the major contributor to the success of the event prior to and during the conference. The openSUSE community is very open and welcoming. Thus, local LUG’s are generally willing to help with the organization of the conference. We also welcome organizational help and conference contributions from other distributions and FOSS projects.
 
 
 
@@ -68,4 +68,4 @@ Activities such as parties, cook outs etc. are much appreciated by the conferenc
 
 If you have the ambition to organize an international Free Software event in your town and think you can pull it off, get together with some like-minded friends and create a proposal. The proposal should contain information about the size of your local team, the proposed venue (cost estimate if possible), and your ideas about the organization of the conference. It is the goal of the openSUSE board to reach a decision about the oSC14 location by mid June, 2013 and announce the location publicly at oSC13.
 
-Weâ€™re looking forward to your proposal!
+We’re looking forward to your proposal!

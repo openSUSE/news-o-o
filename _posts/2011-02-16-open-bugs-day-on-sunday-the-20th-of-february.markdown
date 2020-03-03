@@ -38,13 +38,13 @@ You only need the following to participate:
 
 
 	
-  * An installation of openSUSE 11.4 RC1 or openSUSE Factory so you can verify things. Itâ€™s of course okay to run it in a virtual machine.
+  * An installation of openSUSE 11.4 RC1 or openSUSE Factory so you can verify things. It’s of course okay to run it in a virtual machine.
 
 	
   * An IRC client to interact with the other participants.
 
 	
-  * Good moodÂ :-)
+  * Good mood :-)
 
 
 If you don't know how to triage bugs the organizers will give you  a list of bugs that you can work on and you can double-check with other  participants that your changes are okay. If you do know how to triage bugs you can of course just go ahead and do it!

@@ -51,17 +51,17 @@ The program works through a reimbursement method after submitting a general fund
 
 For oSC 2013 26 people were approved for travel support. A big increase since last year when the program started. However, the team will require people to follow the new rules to make sure that all requests are taken care of properly.
 
-openSUSE Connect will feature a form for those interested in travel support. Meaning that you will have to create a profile atÂ [openSUSE Connect](https://connect.opensuse.org/)Â and then request for travel support.
+openSUSE Connect will feature a form for those interested in travel support. Meaning that you will have to create a profile at [openSUSE Connect](https://connect.opensuse.org/) and then request for travel support.
 
 **Kostas and Stella on Conference Community Organization**
 
 Kostas and Stella shared the many things they had to do in order to launch the first community-organized conference. There was a lot of help needed and eventually the conference team, although initially the conference team received a lot of help this help decayed over time.
 
-There were a lot of lessons learned and the Kostas and Stella are sure happy to share their experience with the conference in Croatia next year.Â They made a request to include the board to help organize the conference and also members of the team at the locations where the conference would be held.
+There were a lot of lessons learned and the Kostas and Stella are sure happy to share their experience with the conference in Croatia next year. They made a request to include the board to help organize the conference and also members of the team at the locations where the conference would be held.
 
 **openSUSE Conference 2014**
 
-As announced during this years' conference, a new openSUSE Conference will be held in Dubrovnik, Croatia next April. There are currently 6 volunteers looking to boost the organization of the conference next year. This team's experience is vast in organizing events for Open Source communities.Â A strong support for next year's conference, the very government of Croatia has created a group to focus on Open Source technologies and their spread in the country.[![#oSC14](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0238.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0238.jpg)
+As announced during this years' conference, a new openSUSE Conference will be held in Dubrovnik, Croatia next April. There are currently 6 volunteers looking to boost the organization of the conference next year. This team's experience is vast in organizing events for Open Source communities. A strong support for next year's conference, the very government of Croatia has created a group to focus on Open Source technologies and their spread in the country.[![#oSC14](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0238.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0238.jpg)
 
 The venue will be the University of Dubrovnik. Established in 2003 and having ties to the 17th century, the venue is expected to also help and support the organization of the conference. Although the university buildings are located in various areas of Dubrovnik they are relatively close to each other.
 
@@ -98,7 +98,7 @@ Last party of the conference was perfect. After a hardsday work everyone waited 
 
 You can find lots of pictures from #oSC13 on [openSUSE Greek Fans](https://www.facebook.com/groups/opensuse.gr/photos/) on facebook or on [G+](https://plus.google.com/u/0/b/113385548251515365143/photos/113385548251515365143/albums). Also on twitter you can follow [@openSUSEConf](https://twitter.com/openSUSEConf) or search for the hashtag [#oSC13](https://twitter.com/search?q=%23oSC13&src=typd).
 
-If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from theÂ [live streaming](http://bambuser.com/channel/opensusetv)Â that is set up in the venue. Also if you have any questions for the presentation you attend online there is anÂ [IRC Channel](http://webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference)Â set up in order to make your questions.
+If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](http://bambuser.com/channel/opensusetv) that is set up in the venue. Also if you have any questions for the presentation you attend online there is an [IRC Channel](http://webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference) set up in order to make your questions.
 
 Last but not least we have our local newspaper!
 

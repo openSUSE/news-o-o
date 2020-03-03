@@ -70,7 +70,7 @@ This is your challenge - you will love every bit of it (especially the eating pa
 ### Recipe
 
 
-Get your bread maker ready and letâ€™s get started!
+Get your bread maker ready and let’s get started!
 
 You will need the following ingredients for the dough:
 
@@ -80,7 +80,7 @@ You will need the following ingredients for the dough:
   * water 220 ml
 
 
-  * flour - Â½ kg
+  * flour - ½ kg
 
 
   * yeast - 8 gr
@@ -104,7 +104,7 @@ And now what...?
   2. You put butter on a tray and put the dough on top.
 
 
-(Alternatively: If you donâ€™t have a rolling pin you can just push the dough with a spoon so that it covers the whole tray)
+(Alternatively: If you don’t have a rolling pin you can just push the dough with a spoon so that it covers the whole tray)
 
 
 	
@@ -120,7 +120,7 @@ And now what...?
   6. Final touch: you slice green pepper into pieces and arrange them in the form of a geeko on the top of the pizza.
 
 
-Alternative  way for the geeko design: Use avocado sauce which you can easily make by beating up an avocado (after you have peeled it off) using a fork or your multi-mixer. You should add a little salt and oil to make it more tasty and if you want you can even add some smashed tomato or tomato juice - just a little bit, because we donâ€™t want to lose the nice green color now, do we?
+Alternative  way for the geeko design: Use avocado sauce which you can easily make by beating up an avocado (after you have peeled it off) using a fork or your multi-mixer. You should add a little salt and oil to make it more tasty and if you want you can even add some smashed tomato or tomato juice - just a little bit, because we don’t want to lose the nice green color now, do we?
 
 
 	
@@ -135,4 +135,4 @@ Alternative  way for the geeko design: Use avocado sauce which you can easily ma
 
 And now you can enjoy your 12.1 Release Pizza Party with your self-made Geeko pizza!
 
-Donâ€™t forget to send us photos and comments :)
+Don’t forget to send us photos and comments :)

@@ -21,7 +21,7 @@ openSUSE comes with the 4.8 series of the KDE workspaces, applications and platf
 ### Starting up
 
 
-![booting opensuse_small](/wp-content/uploads/2012/09/booting-opensuse_small.jpg)Â Booting up openSUSE, you notice the nice new splash screen as well as the short boot times, courtesy of Plymouth and an improved systemd. But you'll notice speed everywhere: this openSUSE release ships with Linux 3.4.6, a kernel release with a nice number of improvements to the storage layer. Moreover, openSUSE is build with GCC 4.7 and glibc 2.15, bringing speedups all over the system. You'll notice this especially in the performance of low-level tools like the command line and GUI versions of zypper, our package manager. Especially relevant for the _desktop_ is the inclusion of Qt 4.8.1 which makes your applications noticeably more responsive. The version of KWin part of KDE 4.8 comes with its [own share of optimizations](http://philipp.knechtges.com/?p=10), with much more efficient painting. In short, boot up in openSUSE 12.2 and **feel the speed!**<!-- more -->
+![booting opensuse_small](/wp-content/uploads/2012/09/booting-opensuse_small.jpg) Booting up openSUSE, you notice the nice new splash screen as well as the short boot times, courtesy of Plymouth and an improved systemd. But you'll notice speed everywhere: this openSUSE release ships with Linux 3.4.6, a kernel release with a nice number of improvements to the storage layer. Moreover, openSUSE is build with GCC 4.7 and glibc 2.15, bringing speedups all over the system. You'll notice this especially in the performance of low-level tools like the command line and GUI versions of zypper, our package manager. Especially relevant for the _desktop_ is the inclusion of Qt 4.8.1 which makes your applications noticeably more responsive. The version of KWin part of KDE 4.8 comes with its [own share of optimizations](http://philipp.knechtges.com/?p=10), with much more efficient painting. In short, boot up in openSUSE 12.2 and **feel the speed!**<!-- more -->
 
 ![apper in action](/wp-content/uploads/2012/09/apper_small.gif)
 
@@ -57,7 +57,7 @@ The KDE Kontact personal information management applications (a suite containing
 ![Okular](/wp-content/uploads/2012/09/okular-shadow.png)
 There has been a large number of optimizations, speeding up common operations and decreasing memory usage. While there is still considerable work to be done, the KDE PIM applications in openSUSE 12.2 should work for all but the most demanding use cases.
 
-KDE's document viewer Okular has seen extensive work on [text selection](http://nightcrawlerinshadow.wordpress.com/2011/08/20/advanced-text-selection-in-okular/)Â so you can copy text from PDFs. Instead of dumbly selecting all characters below the square painted by the mouse cursor, Okular employs advanced pattern recognition and statistical analysis to determine word, paragraph and column boundaries, leading to much more natural and word-processor like text selection.
+KDE's document viewer Okular has seen extensive work on [text selection](http://nightcrawlerinshadow.wordpress.com/2011/08/20/advanced-text-selection-in-okular/) so you can copy text from PDFs. Instead of dumbly selecting all characters below the square painted by the mouse cursor, Okular employs advanced pattern recognition and statistical analysis to determine word, paragraph and column boundaries, leading to much more natural and word-processor like text selection.
 
 
 ### Polish
@@ -71,7 +71,7 @@ This openSUSE release introduces quite a bit of polish. For example, the wireles
 ## Future Proofing
 
 
-If you want to get the latest and greatest release from the KDE Project, you can add the latest KDE Release to your repository list and upgrade. Â Expect KDE 4.9.1 to be available the week after openSUSE 12.2 is released from the [KDE:Release:49](http://download.opensuse.org/repositories/KDE:/Release:/49/openSUSE_12.2/) openSUSE Build Service project. For detailed instructions, head to the [KDE Portal](http://en.opensuse.org/Portal:KDE).
+If you want to get the latest and greatest release from the KDE Project, you can add the latest KDE Release to your repository list and upgrade.  Expect KDE 4.9.1 to be available the week after openSUSE 12.2 is released from the [KDE:Release:49](http://download.opensuse.org/repositories/KDE:/Release:/49/openSUSE_12.2/) openSUSE Build Service project. For detailed instructions, head to the [KDE Portal](http://en.opensuse.org/Portal:KDE).
 
 
 ## Green is Good for you

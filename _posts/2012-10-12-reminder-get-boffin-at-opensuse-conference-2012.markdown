@@ -16,7 +16,7 @@ categories:
 
 ![oSC 12 Logo](/wp-content/uploads/2012/10/oSC3-Logo2.png)
 
-Everyone knows what really matters at a conference happens outside theÂ scheduled talks, right? The life of the openSUSE project happens when we get together, talk and plan, and this happens much faster face to face than on the mailing lists or forums. These Birds of a Feather (BoF) sessions are how we do this.
+Everyone knows what really matters at a conference happens outside the scheduled talks, right? The life of the openSUSE project happens when we get together, talk and plan, and this happens much faster face to face than on the mailing lists or forums. These Birds of a Feather (BoF) sessions are how we do this.
 
 Team members within the openSUSE Project should take the opportunity the openSUSE Conference offers to sit down together and hash out their plans for future activity.
 
@@ -27,7 +27,7 @@ BoF HOW-TO:
 
 
 	
-  * Enter your BoF into the [openSUSE Wiki page here](http://en.opensuse.org/openSUSE:Conference_BoF_sessions).Â There are 29 hour-long slots available in both venues over the four days of the conference, so there is plenty of time to talk.
+  * Enter your BoF into the [openSUSE Wiki page here](http://en.opensuse.org/openSUSE:Conference_BoF_sessions). There are 29 hour-long slots available in both venues over the four days of the conference, so there is plenty of time to talk.
 
 	
   * Plan your BoF. Agree an agenda, consult team members who are not attending oSC12 for input, and make sure the important things you want to do for upcoming openSUSE distribution releases or changes you would like to have in the project are on the list.

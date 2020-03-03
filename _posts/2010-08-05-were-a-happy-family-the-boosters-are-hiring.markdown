@@ -5,7 +5,7 @@ date: 2010-08-05 13:37:44+00:00
 layout: post
 link: https://news.opensuse.org/2010/08/05/were-a-happy-family-the-boosters-are-hiring/
 slug: were-a-happy-family-the-boosters-are-hiring
-title: Weâ€™re a happy family â€“ The Boosters are hiring!
+title: We’re a happy family – The Boosters are hiring!
 wordpress_id: 3986
 categories:
 - Project
@@ -82,6 +82,6 @@ The openSUSE Boosters are a team of people helping developers of the  openSUSE p
   * Willing to travel and work on FOSS events
 
 
-Disclaimer: This job description is for  informational purposes, to describe the primary duties, skills and  abilities necessary to meet the requirements of this position.Â  This  description is not intended to be an exhaustive list of all requirements  or essential functions; it is subject to change at any time.Â  Novell is an equal opportunity employer and an advocate for  workforce diversity.
+Disclaimer: This job description is for  informational purposes, to describe the primary duties, skills and  abilities necessary to meet the requirements of this position.  This  description is not intended to be an exhaustive list of all requirements  or essential functions; it is subject to change at any time.  Novell is an equal opportunity employer and an advocate for  workforce diversity.
 
 Interested? Go to [novell.com/jobs](http://careers.novell.com/psp/css89prd/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL) to apply now!

@@ -36,7 +36,7 @@ This year, on oSC we bring one more time the openSUSE lightning talks and the Sp
 
 **Lightning Talks**
 
-After many people submitted talks a bit late to fit on the regular conference Schedule or werenâ€™t sure if they wanted to submit a whole talk in order to present something related to openSUSE, we recognised the need to organise something for all of you. After all there should be place for everyone in the openSUSE Conference.
+After many people submitted talks a bit late to fit on the regular conference Schedule or weren’t sure if they wanted to submit a whole talk in order to present something related to openSUSE, we recognised the need to organise something for all of you. After all there should be place for everyone in the openSUSE Conference.
 
 We invite all people that want to make a short talk or talk short about their work inside openSUSE to join us in Lightning talks. Send your requests, info below.
 
@@ -85,12 +85,12 @@ Time is crucial so after the time limit you will have your microphone taken no m
 
 **Speedy Geeko**
 
-After last yearâ€™s huge success and fun we dare to do it one more time. This year we promise to entertain you showing you the other stuff that openSUSE people do. Last year we had bacon, bees, countries, global personalities plus other cool stuff, this year we hope to be at least that interesting and exciting.
+After last year’s huge success and fun we dare to do it one more time. This year we promise to entertain you showing you the other stuff that openSUSE people do. Last year we had bacon, bees, countries, global personalities plus other cool stuff, this year we hope to be at least that interesting and exciting.
 
 
 
 
-Â How it works?
+ How it works?
 
 
 
@@ -118,7 +118,7 @@ After last yearâ€™s huge success and fun we dare to do it one more time. Th
 
 [![](/wp-content/uploads/2012/10/Sebastian.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/sebastian/)
 
-Time is crucial here too so after the 5 minutes we will find ways to remove the microphone from you. Please donâ€™t make us run for it and be aware that we will carry some sort of weapons.
+Time is crucial here too so after the 5 minutes we will find ways to remove the microphone from you. Please don’t make us run for it and be aware that we will carry some sort of weapons.
 
 Instructions
 
@@ -130,14 +130,14 @@ If you feel like participating all you have to do is to follow the instructions 
   * For submitting a lightning talk email izabelvalverde@opensuse.org with subject title: Lightning talks
 
 	
-  * For submitting a Speedy Geeko talk emailÂ warlordfff@opensuse.org with subject title: Speedy Geeko
+  * For submitting a Speedy Geeko talk email warlordfff@opensuse.org with subject title: Speedy Geeko
 
 
 The deadline for sending your talks is 10th of october and we will release both schedules at the 15th.
 
 [![](/wp-content/uploads/2012/10/Jan.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/jan/)
 
-After we release the schedules all you have to do is to be sure that you will have yourÂ  presentations given to us at some point before this yearâ€™s openSUSE conference. Of course in an open format, preferably ODF or PDF!
+After we release the schedules all you have to do is to be sure that you will have your  presentations given to us at some point before this year’s openSUSE conference. Of course in an open format, preferably ODF or PDF!
 
 
 

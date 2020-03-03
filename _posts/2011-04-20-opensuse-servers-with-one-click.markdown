@@ -17,9 +17,9 @@ tags:
 - services
 ---
 
-Everybody knows openSUSE offers a great desktop experience; but its also a perfect fit for servers! Â Go download the [Installation DVD](http://software.opensuse.org/114/en) (or use one of the [manufactured DVD](http://en.opensuse.org/Buy_openSUSE)s) and we'll see how easy YaST makes it to setup a variety of specialized servers.
+Everybody knows openSUSE offers a great desktop experience; but its also a perfect fit for servers!  Go download the [Installation DVD](http://software.opensuse.org/114/en) (or use one of the [manufactured DVD](http://en.opensuse.org/Buy_openSUSE)s) and we'll see how easy YaST makes it to setup a variety of specialized servers.
 
-During the course of a normal installation, the opportunity to add servers is slightly hidden. The last step before an actual installation is the Installation Overview. Â At this point, you can see a list of selected software patterns. Â Either click the "Software" header, or click "Software..." on the "Change..." menu. Â At this point, you will be presented with a list of available software patterns, including the Server Functions patterns: simply check off any servers you would like to install and click "OK" to return to your normal installation!
+During the course of a normal installation, the opportunity to add servers is slightly hidden. The last step before an actual installation is the Installation Overview.  At this point, you can see a list of selected software patterns.  Either click the "Software" header, or click "Software..." on the "Change..." menu.  At this point, you will be presented with a list of available software patterns, including the Server Functions patterns: simply check off any servers you would like to install and click "OK" to return to your normal installation!
 
 
 [![](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-change-software.jpg)](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-change-software.jpg) [![](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-pattern-selection1.jpg)](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-pattern-selection1.jpg)
@@ -31,7 +31,7 @@ Some explanation of the available Server Functions patterns is in order; continu
 ## <!-- more -->Available Server Patterns
 
 
-[![](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-software-details.jpg)](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-software-details.jpg)Each pattern defines a set of software packages for performing the described task. Â Many of them include YaST modules as well to simplify configuration. Â Additionally, many of these patterns have optional components that can be added by clicking the "Details..." button (which opens the full software manager), allowing you to see and customize which packages will be installed. Â For example, the File Server pattern includes the Samba packages for running a Windows-compatible file server, but doesn't install them by default. Â For another example, the Web and LAMP Server pattern installs MySQL and PHP by default, but you can optionally add PostgreSQL, and a variety of other web scripting languages.
+[![](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-software-details.jpg)](/wp-content/uploads/2011/02/openSUSE-installation-screenshot-software-details.jpg)Each pattern defines a set of software packages for performing the described task.  Many of them include YaST modules as well to simplify configuration.  Additionally, many of these patterns have optional components that can be added by clicking the "Details..." button (which opens the full software manager), allowing you to see and customize which packages will be installed.  For example, the File Server pattern includes the Samba packages for running a Windows-compatible file server, but doesn't install them by default.  For another example, the Web and LAMP Server pattern installs MySQL and PHP by default, but you can optionally add PostgreSQL, and a variety of other web scripting languages.
 
 
 ### File Server
@@ -39,7 +39,7 @@ Some explanation of the available Server Functions patterns is in order; continu
 
 
 
-ï»¿ï»¿ï»¿File services to host files so that they may be accessed or retrieved by other computers on the same network. This includes the FTP, SMB, and NFS protocols.
+﻿﻿﻿File services to host files so that they may be accessed or retrieved by other computers on the same network. This includes the FTP, SMB, and NFS protocols.
 
 
 

@@ -112,9 +112,9 @@ For 10.3 we sat down and discussed how to improve the situation, in a reasonable
 ### Who else has been working on it?
 
 
-A lot of people have been involved in the project. Testsuite and solver development is lead by Stefan Schubert and Stefan Haas and recently also by Arvin Schnell. Jan Kupec and Martin Vidner hack on zypper. Thomas GÃ¶ttlicher and JÃ¶rg Kress have fun with the notification applets. The YaST glue is maintaned by Ladislav Slezak. Katarina Machalkova, Stefan Hundhammer and Michael Meeks adapted the YaST user interfaces.
+A lot of people have been involved in the project. Testsuite and solver development is lead by Stefan Schubert and Stefan Haas and recently also by Arvin Schnell. Jan Kupec and Martin Vidner hack on zypper. Thomas Göttlicher and Jörg Kress have fun with the notification applets. The YaST glue is maintaned by Ladislav Slezak. Katarina Machalkova, Stefan Hundhammer and Michael Meeks adapted the YaST user interfaces.
 
-Michael Andres and I were in charge of ZYpp library development. Dirk MÃ¼ller gave us a hand with profiling and contributed some code. Benjamin Weber contributed the one-click-install feature. Jiri Srain, Edith Parzefall, Klaus KÃ¤mpf and Stanislav Visnovsky coordinated human and technical aspects so we could deliver. Those are the people who worked directly in the refactoring project, but still the success always depends on more actors, project managers, quality assurance, etc.
+Michael Andres and I were in charge of ZYpp library development. Dirk Müller gave us a hand with profiling and contributed some code. Benjamin Weber contributed the one-click-install feature. Jiri Srain, Edith Parzefall, Klaus Kämpf and Stanislav Visnovsky coordinated human and technical aspects so we could deliver. Those are the people who worked directly in the refactoring project, but still the success always depends on more actors, project managers, quality assurance, etc.
 
 
 ### What kind of advantages does this package management have over the old, pre SUSE Linux 10.1, package management?

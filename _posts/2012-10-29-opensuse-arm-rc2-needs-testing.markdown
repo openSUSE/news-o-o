@@ -15,7 +15,7 @@ tags:
 - ARM
 ---
 
-![ARMopenSUSE Logo](/wp-content/uploads/2012/09/ARMopenSUSE.png) Hot on the heels of the [news that the Google Chromebook runs openSUSE](http://andrew.wafaa.eu/blog/geeko-goes-chrome/) (even made [slashdot](http://hardware.slashdot.org/story/12/10/25/1941225/developer-gets-opensuse-running-on-249-google-chromebook)) and following the closing of the [openSUSE Conference in Prague](http://conference.opensuse.org), Dirk MÃ¼ller [let the ARM team know](http://lists.opensuse.org/opensuse-arm/2012-10/msg00184.html) that RC2 is about ready to go and this will be the final before the release of openSUSE for ARM! Read on to find out some details of this exciting release.
+![ARMopenSUSE Logo](/wp-content/uploads/2012/09/ARMopenSUSE.png) Hot on the heels of the [news that the Google Chromebook runs openSUSE](http://andrew.wafaa.eu/blog/geeko-goes-chrome/) (even made [slashdot](http://hardware.slashdot.org/story/12/10/25/1941225/developer-gets-opensuse-running-on-249-google-chromebook)) and following the closing of the [openSUSE Conference in Prague](http://conference.opensuse.org), Dirk Müller [let the ARM team know](http://lists.opensuse.org/opensuse-arm/2012-10/msg00184.html) that RC2 is about ready to go and this will be the final before the release of openSUSE for ARM! Read on to find out some details of this exciting release.
 
 <!-- more -->
 
@@ -70,7 +70,7 @@ New is support support for the following SoCs':
   * Samsung Origen
 
 
-There are now XFCE images for panda and beagle board, which, according to Dirk, _"still have some bugs that need to be fixed for the final release"_. TheÂ JeOS images are considered good and there has been some work on graphics support for a few of the boards but the results have not been consistently satisfying.
+There are now XFCE images for panda and beagle board, which, according to Dirk, _"still have some bugs that need to be fixed for the final release"_. The JeOS images are considered good and there has been some work on graphics support for a few of the boards but the results have not been consistently satisfying.
 
 Also note that the Raspberry Pi image is not part of this release, it will come at a later point in time.
 
@@ -89,7 +89,7 @@ Andrew Wafaa [made a nice list of people who deserve credit for their hard work 
 
 
 	
-  * Adrian SchrÃ¶ter
+  * Adrian Schröter
 
 	
   * Alex Graf
@@ -101,13 +101,13 @@ Andrew Wafaa [made a nice list of people who deserve credit for their hard work 
   * Guillaume Gardet
 
 	
-  * Marcus SchÃ¤fer
+  * Marcus Schäfer
 
 	
-  * Dirk MÃ¼ller
+  * Dirk Müller
 
 	
-  * Andreas FÃ¤rber
+  * Andreas Färber
 
 	
   * Bernhard Wiedemann

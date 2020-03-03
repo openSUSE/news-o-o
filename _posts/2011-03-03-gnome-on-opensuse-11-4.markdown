@@ -18,11 +18,11 @@ categories:
 ## Features and improvements in 2.32
 
 
-There have been several small updates to [Mousetweaks](http://live.gnome.org/Mousetweaks/Home), which makes it easier to use a mouse for those users who may have limited mobility. It now has updated documentation including an updated manual and man pages so users canÂ now see all the options they have and look up how things are supposed to work.
+There have been several small updates to [Mousetweaks](http://live.gnome.org/Mousetweaks/Home), which makes it easier to use a mouse for those users who may have limited mobility. It now has updated documentation including an updated manual and man pages so users can now see all the options they have and look up how things are supposed to work.
 
 ![](/wp-content/uploads/2011/02/evince.png)
 
-The [Evince](http://projects.gnome.org/evince/) document viewer has improved accessibility support. Through the use of the AtkText interface Â [Orca](http://live.gnome.org/Orca), the GNOME screen reader, is now able to read documents in Evince. The maximum zoom level has also been increased when viewing a document. Annotation support has been improved and you can now add annotations from the side panel, change the default properties including author, color, transparency and more. Evince now supports "SyncTeX" which enables synchronization between a TeX source file and the resulting PDF (or DVI) output.
+The [Evince](http://projects.gnome.org/evince/) document viewer has improved accessibility support. Through the use of the AtkText interface  [Orca](http://live.gnome.org/Orca), the GNOME screen reader, is now able to read documents in Evince. The maximum zoom level has also been increased when viewing a document. Annotation support has been improved and you can now add annotations from the side panel, change the default properties including author, color, transparency and more. Evince now supports "SyncTeX" which enables synchronization between a TeX source file and the resulting PDF (or DVI) output.
 
 [Empathy](http://live.gnome.org/Empathy), the universal instant messaging client, now allows you to group a contact's information together using "metacontacts." For example, if one of your contacts uses multiple instant messaging accounts you can now link the different services together under one name for your contact. Empathy has also added live contact search, which allows you to type into the contact list to quickly find somebody. The new and improved Empathy in GNOME 2.32 also adds chat logging support and the ability to import security certificates.
 
@@ -32,7 +32,7 @@ The [Evince](http://projects.gnome.org/evince/) document viewer has improved acc
 
 Outside of the official GNOME release, openSUSE 11.4 will bundle a number of great third-party GNOME applications including Banshee, GIMP, AbiWord and more! Some of the major highlights include:
 
-[F-Spot](http://f-spot.org/) [0.8.2](http://git.gnome.org/browse/f-spot/plain/NEWS?id=0.8.2) is the default photo management application for the openSUSE's 11.4 GNOME desktop, butÂ [Shotwell](http://www.yorba.org/shotwell/) 0.8.1 is included as well bringing a number of major new features with it such as video support for all major fileformats, video uploading to YouTube, Facebook and Flickr, monitoring the library directory and writing metadata behind the scenes to give users a more responsive interface.
+[F-Spot](http://f-spot.org/) [0.8.2](http://git.gnome.org/browse/f-spot/plain/NEWS?id=0.8.2) is the default photo management application for the openSUSE's 11.4 GNOME desktop, but [Shotwell](http://www.yorba.org/shotwell/) 0.8.1 is included as well bringing a number of major new features with it such as video support for all major fileformats, video uploading to YouTube, Facebook and Flickr, monitoring the library directory and writing metadata behind the scenes to give users a more responsive interface.
 
 Media player [Rhythmbox](http://projects.gnome.org/rhythmbox/) 0.13.3 "Country Rain" is available in openSUSE 11.4. This will most likely be the last stable release before the move to GNOME 3 and introduces several new features and bugfixes. Most prominent are the reimplementation of source lists, updated notifications, MPRIS and MediaServer2 support and a new context pane tab showing links to various websites.
 

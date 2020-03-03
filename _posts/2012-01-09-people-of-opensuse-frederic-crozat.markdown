@@ -102,17 +102,17 @@ So, enjoy! ;-)
 #### Please introduce yourself!
 
 
-My name is FrÃ©dÃ©ric Crozat, I'm 36 and I live in Paris (France). I'm working for SUSE for a little more than a year, with focus on various topics such as SUSE MeeGo, GNOME 3 live image, LXC (Linux Containers) and more recently, systemd.. Before that, I worked for 10 years at MandrakeSoft/Mandriva, taking care of GNOME. From 2002 to 2011, I was part of GNOME Release Team, making sure GNOME was released on time and with all those nice features.
+My name is Frédéric Crozat, I'm 36 and I live in Paris (France). I'm working for SUSE for a little more than a year, with focus on various topics such as SUSE MeeGo, GNOME 3 live image, LXC (Linux Containers) and more recently, systemd.. Before that, I worked for 10 years at MandrakeSoft/Mandriva, taking care of GNOME. From 2002 to 2011, I was part of GNOME Release Team, making sure GNOME was released on time and with all those nice features.
 
 
 #### Tell us about the background to your computer use.
 
 
-I've been interested in computer since I was a kid (first computer was a MSX Canon V20).. First â€žbig programâ€œ (on a PC 8086 with 10MB hard disk IIRC) I wrote was a billing program for my mom (she owns a bookstore), when I was in 7th grade (first in Quick Basic), then I rewrote it in Turbo Pascal when I learned Pascal in 2nd grade and later, I even rewrote it in Object Oriented Pascal (because I bought Borland Pascal 6 or 7, shipped with huge printed user manual, included OO stuff) when I was in collegue. And my mom used this program (on the same computer) until she closed her shop, 7 years ago ;)
+I've been interested in computer since I was a kid (first computer was a MSX Canon V20).. First „big program“ (on a PC 8086 with 10MB hard disk IIRC) I wrote was a billing program for my mom (she owns a bookstore), when I was in 7th grade (first in Quick Basic), then I rewrote it in Turbo Pascal when I learned Pascal in 2nd grade and later, I even rewrote it in Object Oriented Pascal (because I bought Borland Pascal 6 or 7, shipped with huge printed user manual, included OO stuff) when I was in collegue. And my mom used this program (on the same computer) until she closed her shop, 7 years ago ;)
 
 Then, I went to a Computer Science Engineering school where I learned a lot about computers science (even if I was already a geek ;), including C, C++, Java and many strange languages.
 
-I also learned Unix there and discovered Linux because our C teacher told us â€žyou'll get a free C compiler you'll be able to use at homeâ€œ and then, I became hooked (it was in 1996)
+I also learned Unix there and discovered Linux because our C teacher told us „you'll get a free C compiler you'll be able to use at home“ and then, I became hooked (it was in 1996)
 
 
 #### When and why did you start using openSUSE/SUSE Linux?
@@ -136,10 +136,10 @@ Initially, I helped on GNOME (and a bit on MeeGo, when it was still alive). I to
 #### What especially motivates you to participate in the openSUSE project?
 
 
-I want openSUSE to be the best Linux distribution in the ecosystem, best in the â€žeasy to useâ€œ sense, but also best in its interaction with upstream projects.
+I want openSUSE to be the best Linux distribution in the ecosystem, best in the „easy to use“ sense, but also best in its interaction with upstream projects.
 
 
-#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that youâ€™re most proud of?
+#### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you’re most proud of?
 
 
 Probably, GNOME 3 live image : I started as a way to learn SUSE Studio and then kiwi, and it morphed into a 3 months projects, which helped a lot on GNOME 3.0 launch and Novell/SUSE sponsored 10000 promo DVD based on this work which were handed over to GNOME Foundation.
@@ -187,7 +187,7 @@ I can't list all of them (attending conferences makes the list very long), but i
 None, since GNOME 3 doesn't have icons on the desktop anymore ;)
 
 
-#### What is the application you canâ€™t live without? And why?
+#### What is the application you can’t live without? And why?
 
 
 I'd say Firefox, empathy, evolution and git ;)
@@ -196,7 +196,7 @@ I'd say Firefox, empathy, evolution and git ;)
 #### Which application or feature should be invented as soon as possible?
 
 
-Easy (ie transparent) backup, and getting my data synchronized and available everywhere ( I know both those ideas are being addressed, but not yet fully and in a â€žeasy for my mom to useâ€œ form)
+Easy (ie transparent) backup, and getting my data synchronized and available everywhere ( I know both those ideas are being addressed, but not yet fully and in a „easy for my mom to use“ form)
 
 
 #### Which is your preferred text editor? And why?
@@ -214,13 +214,13 @@ None, all the best are there already (kidding ;)
 #### Which computer related skills would you like to have?
 
 
-Understand assembly language and this kind of low level stuff. I learned it at school, but it was never my â€žthingâ€œ
+Understand assembly language and this kind of low level stuff. I learned it at school, but it was never my „thing“
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
-This is exactly what I'm experiencing right now (moving between flats). So, I'm using a 3G Internet access at home... More seriously, in the past, when I was travelling for my holidays, I always make sure to â€žunplugâ€œ myself for one or two weeks and everything went fine.
+This is exactly what I'm experiencing right now (moving between flats). So, I'm using a 3G Internet access at home... More seriously, in the past, when I was travelling for my holidays, I always make sure to „unplug“ myself for one or two weeks and everything went fine.
 
 
 #### Which is your favorite movie scene?
@@ -244,7 +244,7 @@ No favorite drink, I like a lot of them ;)
 
 **Favorite game or console (in your childhood and nowadays)?**
 
-Heavy Rain / ICO. When I was younger, the various â€žCommander Keenâ€œ from Apogee Software
+Heavy Rain / ICO. When I was younger, the various „Commander Keen“ from Apogee Software
 
 
 #### Which city would you like to visit?
@@ -259,19 +259,19 @@ The list is pretty long, but right now, I'd list Amsterdam and New-York.
 Travelling with my wife and use my DSLR to take a glimpse of the landscapes encountered.
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
 No idea. Call me when the bank order is done on my account and we'll talk ;)
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 Nowadays is a nice time, not sure I would move permanently to another time (but maybe I use it to visit various times ;)
 
 
-#### Thereâ€™s a thunderstorm outside â€” do you turn off your computer?
+#### There’s a thunderstorm outside — do you turn off your computer?
 
 
 I used to (because I lived for a long time in rural environment). I don't anymore.
@@ -289,7 +289,7 @@ One or two times, mostly because I forgot to set the alarm in my calendar for th
 This is what some collegues did in our office in Paris : everybody should do the same : [http://www.flickr.com/photos/fcrozat/6055381155/in/photostream](http://www.flickr.com/photos/fcrozat/6055381155/in/photostream) (and I'm now the guardian of this geeko ;)
 
 
-#### You couldnâ€™t live withoutâ€¦
+#### You couldn’t live without…
 
 
 My wife

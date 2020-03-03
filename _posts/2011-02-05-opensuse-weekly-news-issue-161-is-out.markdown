@@ -94,14 +94,14 @@ Counter for openSUSE 11.4
 
 Apart from being a tasty Bavarian bread-snack, [Bretzn](http://socialdesktop.org/bretzn) is a code-name for a collection of
       technology aimed at solving a problem which has existed in software development for a very
-      long time: â€œHow do you get your applications to your users?â€
+      long time: “How do you get your applications to your users?”
 
 ![](/wp-content/uploads/2011/02/bretzn-shots3.png)
 
 Screenshots of the Bretzn plugin interface This is particularly a question for the many
       developers of applications that are not part of a project like GNOME or KDE. These developers
       must either provide binaries for a range of distributions themselves or hope that distribution
-      volunteers will do the packaging for them. Donâ€™t they all dream of a better solution? 
+      volunteers will do the packaging for them. Don’t they all dream of a better solution? 
 
 In the open source community, we already have many individual bits of this dream in place.
       We have of course our powerful [here
@@ -116,11 +116,11 @@ Until now these technologies and tools made up mostly isolated islands and it se
       obvious choice to try bridging them. A project aiming to do just this began in August 2010 and
       was first publicly [announced by Frank Karlitschek](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/) at the openSuse Conference in Nuremberg in late
       October: Project Bretzn would make it possible, with a few clicks, to publish software
-      projects directly from the IDE â€“ and it would all happen before the end of the year!
+      projects directly from the IDE – and it would all happen before the end of the year!
 
 **Connecting the Dots**
 
-**FigureÂ 1.Â The openSUSE application manager**
+**Figure 1. The openSUSE application manager**
 
 ![The openSUSE application manager](/wp-content/uploads/2011/02/appstore_details.png)
 
@@ -135,10 +135,10 @@ Project Bretzn, then, is not a single piece of software, but rather an attempt t
             in the IDE. The plugin lets you perform all the actions required to get data sent to the
             various build services and publishing sites, by contacting the server part, which then
             distributes the information to the appropriate places. The implementation of this also
-            prompted amending the [Attica](http://api.kde.org/kdesupport-api/kdesupport-apidocs/attica-git/html/) library with new features. As some will already know, Attica FigureÂ 1, â€œThe openSUSE application managerâ€is a full featured implementation of a OCS client library
+            prompted amending the [Attica](http://api.kde.org/kdesupport-api/kdesupport-apidocs/attica-git/html/) library with new features. As some will already know, Attica Figure 1, “The openSUSE application manager”is a full featured implementation of a OCS client library
             built by KDE which is now officially included in the MeeGo platform. The Qt Creator
             plugin is developed so that it is based on a thin library to make its functionality
-            easily portable to other IDEâ€™s like Anjuta or Eclipse â€“ consider this an invite!
+            easily portable to other IDE’s like Anjuta or Eclipse – consider this an invite!
 
   * A server library, designed to plug into the OCS reference server implementation as
             published by the [Social Desktop
@@ -149,7 +149,7 @@ Project Bretzn, then, is not a single piece of software, but rather an attempt t
             remote sites that they implement the content module part of OCS, which many places
             already do.
 
-**FigureÂ 2.Â Ubuntu Software Centre (from wikipedia)**
+**Figure 2. Ubuntu Software Centre (from wikipedia)**
 
 ![Ubuntu Software Centre (from wikipedia)](/wp-content/uploads/2011/02/Screenshot-Ubuntu_Software_Centre.png)
 
@@ -160,7 +160,7 @@ Moreover, work on a KDE client to download and install applications has started 
       recent [openSUSE Bretzn sprint in Nuremberg](http://news.opensuse.org/2011/01/27/first-bretzn-sprint-opensuse-app-store-on-the-horizon/). The screenshot in this article shows a first
       prototype. And at the [Cross-distribution meeting on an application installer](http://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/), just before the Bretzn
       sprint was held, it was decided the GNOME desktop will receive a client most likely based on
-      Ubuntuâ€™s Software center. FigureÂ 1, â€œThe openSUSE application managerâ€
+      Ubuntu’s Software center. Figure 1, “The openSUSE application manager”
 
 Most importantly, all this has the distinction of being open: not only is the source code
       for the software above freely available as you would expect, but the web API created as the
@@ -213,10 +213,10 @@ Though the majority of the code has been developed in the open, the various bits
   * The OCS library extension has been released and [is available](http://socialdesktop.org/bretzn)
 
 We invite you, the developers of the world, to use the results of this project and bring
-      your software to the world directly from Qt Creator and help us bring this to other IDEâ€™s like
+      your software to the world directly from Qt Creator and help us bring this to other IDE’s like
       Eclipse but also vim and Emacs. And finally: Since all of this software is released under free
       licenses, the team further invites you to join the development of the Bretzn components
-      themselves â€“ not only in their current incarnations, but also to add functionality like
+      themselves – not only in their current incarnations, but also to add functionality like
       Facebook, identi.ca, blogger and Twitter plugins to spread the word there. 
 
 Work on an Application Installer to access the application has also started in [the Bretzn sprint](http://news.opensuse.org/2011/01/27/first-bretzn-sprint-opensuse-app-store-on-the-horizon/) we recently had at the openSUSE offices in Nuremberg.
@@ -259,7 +259,7 @@ It is possible that a small portion of the community may experience some issues 
       switch. Specifically, any system previous to SUSE 10 may not have the Entrust CA in its system
       certificate store. For these systems, utilities such as wget may present an error when trying
       to pull a resource from opensuse.org over an SSL connection. The solution is to either run
-      wget with the â€œâ€“no-check-certificateâ€ option or to add the Entrust root to the system
+      wget with the “–no-check-certificate” option or to add the Entrust root to the system
       certificate store (found in /etc/ssl/certs). Browsers and cURL use their own certificate store
       and should not be affected by this switch, even on older systems. 
 
@@ -313,26 +313,26 @@ I was occupied by quite a lot of things in life and work in the recent past. So 
 
 **[Pavol Rusnak: Novell Hackweek #6](http://stick.gk2.sk/blog/2011/02/novell-hackweek-6-game-jam-prague-2011/)**
 
-**FigureÂ 3.Â LiveView Device**
+**Figure 3. LiveView Device**
 
 ![LiveView Device](http://stick.gk2.sk/blog/wp-content/uploads/2011/01/se-liveview.jpg)
 
   
 
 
-Last week we had a Hackweek at Novell. I decided to do something rather unusual for me â€“
-      to hack a device. I bought one of these nifty [LiveView](http://www.sonyericsson.com/cws/products/accessories/overview/liveview) FigureÂ 3, â€œLiveView Deviceâ€ devices made by Sony Ericsson, which are basically an intelligent watch
+Last week we had a Hackweek at Novell. I decided to do something rather unusual for me –
+      to hack a device. I bought one of these nifty [LiveView](http://www.sonyericsson.com/cws/products/accessories/overview/liveview) Figure 3, “LiveView Device” devices made by Sony Ericsson, which are basically an intelligent watch
       that can connect to your mobile phone using Bluetooth. Unfortunately, it turned out to be
       rather unusable with Android devices (lots of Bluetooth disconnects), but supposedly a
       firmware update is on its way. After I saw that, I was somehow disappointed but I thought
       there must be a way how to reverse engineer a protocol and try to connect the device to my
       computer. I started to look around on the Internet and found a great blog by [Andrew de Quincey](http://adq.livejournal.com/). What was even more cool was
       that Andrew already did most of the job and wrote some code in Python. All I had to do is to
-      wrap it into classes to make it more general and thus customizable. So whatâ€™s next? My dream
+      wrap it into classes to make it more general and thus customizable. So what’s next? My dream
       is to create a custom open-source firmware and flash the device. I hope I can achieve this
       with help of hardware wizards from our [Prague
         hackerspace](http://brmlab.cz/project/liveview). The source code is available from [gitorious](http://gitorious.org/brmlab/liveview) as usual. Do you think that
-        Hackweek lasted only until Friday for me? Well, not really, keep reading â€¦ :-)
+        Hackweek lasted only until Friday for me? Well, not really, keep reading … :-)
 
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
 
@@ -343,7 +343,7 @@ Last week we had a Hackweek at Novell. I decided to do something rather unusual 
           Leuenberger: Enlightenment 1.0.0 for openSUSE](http://dominique.leuenberger.net/blog/?p=142)
       **
 
-Itâ€™s been a long time since I was in touch with Enlightenment, back in the young days I
+It’s been a long time since I was in touch with Enlightenment, back in the young days I
         used it as my first alternative Desktop Environment on Windows, before actually daring to
         switch to Linux. 
 
@@ -353,7 +353,7 @@ Today I hear that version 1.0.0 of the core libraries have been released. Reason
         manager Enlightenment itself is not yet released as full release, but the latest snapshot
         can be found in my repo as well. 
 
-But thatâ€™s it so far: all core libraries are built. Nothing more. I did not even have
+But that’s it so far: all core libraries are built. Nothing more. I did not even have
         time to test them yet. 
 
 If you feel adventurous, go, add the repository obs://home:dimstar:Enlightenment to your
@@ -369,7 +369,7 @@ This will add my home repository to your catalog list and install enlightenment
         including dependencies. One logout later, you should see Enlightenment as a new session type
         in your *DM. 
 
-Have a lot of fun and share your experiencesâ€¦ I will test it after I get some
+Have a lot of fun and share your experiences… I will test it after I get some
         sleep.
 
 **Important Links**
@@ -387,7 +387,7 @@ Have a lot of fun and share your experiencesâ€¦ I will test it after I get s
 #### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
 
 **
-          [Marcus HÃ¼we: new osc feature to edit a request](http://lizards.opensuse.org/2011/01/30/new-osc-feature-to-edit-a-request/)
+          [Marcus Hüwe: new osc feature to edit a request](http://lizards.opensuse.org/2011/01/30/new-osc-feature-to-edit-a-request/)
         **
 
 I just pushed a new osc feature to git master which allows you to edit a submit
@@ -395,12 +395,12 @@ I just pushed a new osc feature to git master which allows you to edit a submit
           you find a small typo (for instance in the spec file) but except the typo everything is
           fine. So instead of declining the request you can fix the typo, create a new request
           (which contains the fix + the original changes), accept the newly created request and
-          supersede the original request (thatâ€™s basically what osc does behind the scenes).
+          supersede the original request (that’s basically what osc does behind the scenes).
 
 Example:
     
         # request with id 80 needs a small fix
-        marcus@linux:~> osc rq show 80 â€“edit
+        marcus@linux:~> osc rq show 80 –edit
         Request: #80
     
         submit:       home:Admin/foo  -> home:foobar/dest
@@ -414,7 +414,7 @@ Example:
         A    /tmp/osc_editsrr2iDcI/test.spec
         A    /tmp/osc_editsrr2iDcI/src.tar.bz2
         At revision 1.
-        Checked out package â€˜foo.home_Adminâ€™ to /tmp/osc_editsrr2iDcI. \\
+        Checked out package ‘foo.home_Admin’ to /tmp/osc_editsrr2iDcI. \\
         Started a new shell (/bin/bash).
         Please fix the package and close the shell afterwards.
         marcus@linux:/tmp/osc_editsrr2iDcI> # fix it and commit changes
@@ -428,8 +428,8 @@ Example:
     
         Message:
         <no message>
-        d(i)ff/(a)ccept/(b)uildstatus/(e)dit/(s)kip/(c)ancel > a -m â€œaccepted request and \\ 
-        applied small fixâ€
+        d(i)ff/(a)ccept/(b)uildstatus/(e)dit/(s)kip/(c)ancel > a -m “accepted request and \\ 
+        applied small fix”
         Supersede original request? (y|N) y
         marcus@linux:~>
 
@@ -437,12 +437,12 @@ By the way you can also do it manually (osc rq clone <id>; osc co <clone
           project>; fix package(s) and commit changes; create a new request, accept it and
           supersede original request).
 
-**Build Service Statistics.Â **Statistics can found at [Buildservice](http://build.opensuse.org)
+**Build Service Statistics. **Statistics can found at [Buildservice](http://build.opensuse.org)
 
 #### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/GNOME-foot.jpg)GNOME Team
 
 **
-          [Nelson Marques: Synapse â€“ Semantic Launcher for GNOME](http://lizards.opensuse.org/2011/01/31/synapse-semantic-launcher-for-gnome/)
+          [Nelson Marques: Synapse – Semantic Launcher for GNOME](http://lizards.opensuse.org/2011/01/31/synapse-semantic-launcher-for-gnome/)
         **
 
 Some time ago a openSUSE user mentioned to me if we had [synapse](http://launchpad.net/synapse-project) available for openSUSE or
@@ -452,7 +452,7 @@ Some time ago a openSUSE user mentioned to me if we had [synapse](http://launchp
 
 Some time ago Federico Quintero has posted a [message](http://lists.opensuse.org/opensuse-gnome/2011-01/msg00016.html) on
           the opensuse-gnome mailing list regarding his work on the Zeitgeist stack. The rest of the
-          dependencies for this package are provided by my work on the availability of Ubuntuâ€™s
+          dependencies for this package are provided by my work on the availability of Ubuntu’s
           software on openSUSE. From my work I took [dee](http://launchpad.net/dee) and [libappindicator](http://launchpad.net/libappindicator) and builded a test package of synapse on [home:ketheriel:ayatana](http://lists.opensuse.org/opensuse-gnome/2011-01/msg00020.html). This package is here until I see this dependencies hit
           factory on time (libzeitgeist, dee and libappindicator). If anyone wants to test it out,
           go ahead.
@@ -461,14 +461,14 @@ Some time ago Federico Quintero has posted a [message](http://lists.opensuse.org
 <td >![](http://lizards.opensuse.org/wp-content/uploads/2011/01/Screenshot-synapse-1.png)
 </td></tr></table>
 
-Iâ€™m not sure of the functionality that should be present on this vala application, but
-          for the time being Iâ€™ve disabled the Application Indicator on the build (needs hammering
-          on the linking). Iâ€™ll take a closer look once I have some more free time. So far this
+I’m not sure of the functionality that should be present on this vala application, but
+          for the time being I’ve disabled the Application Indicator on the build (needs hammering
+          on the linking). I’ll take a closer look once I have some more free time. So far this
           should be working only for openSUSE Factory and openSUSE 11.4 milestones. 
 
 Synapse is a semantic file launcher (pretty much the same as hitting ALT+F2 on a GNOME
           session) with some crazy looks and a battalion of plugins. Once the dependencies are ok,
-          Iâ€™ll maintain this package and push it to the GNOME:Apps repository.
+          I’ll maintain this package and push it to the GNOME:Apps repository.
 
 **
           [Andrew Wafaa:
@@ -497,7 +497,7 @@ Off-late we have been working quite aggressively on improving our exchange
             Services](http://msdn.microsoft.com/en-us/library/cc535017(v=EXCHG.80).aspx) . Some evolution hackers sat together during GUADEC 2010 and discussed
           on the focus areas which our community users as well as corporates would be interested in.
           Exchange Web Services was on top of the list and David Woodhouse kick-started the work at
-          the same time! The development went on in Davidâ€™s repo - [http://git.infradead.org/evolution-ews.git](http://git.infradead.org/evolution-ews.git) and you can watch out the progress
+          the same time! The development went on in David’s repo - [http://git.infradead.org/evolution-ews.git](http://git.infradead.org/evolution-ews.git) and you can watch out the progress
           there..
 
 <table cellpadding="0" cellspacing="0" border="0" width="30%" summary="manufactured viewport for HTML img" ><tr >
@@ -511,7 +511,7 @@ The festival season has started for evolution exchange and we have evolution sho
 
 Its always very nice to thanks all the contributors. Thanks to David Woodhouse who
           kick-started it, Michael meeks he is always there :) , Johnny, Bharath Acharya, Akhil
-          Laddha, Chen, Fridrich who has been constantly getting it to compile on Windowsâ€¦ 
+          Laddha, Chen, Fridrich who has been constantly getting it to compile on Windows… 
 
 There are more developers getting involved now and thanks to the organizations for
           supporting the development!! We are looking forward to deliver the package by the
@@ -526,34 +526,34 @@ There are more developers getting involved now and thanks to the organizations f
 <td >![](http://lizards.opensuse.org/wp-content/uploads/2011/02/Screenshot.png)
 </td></tr></table>
 
-Iâ€™ve neglected this indicator since the first day because it drove me into package
-          dependencies that arenâ€™t used in openSUSE (we use YaST and not system-tools-backends and
+I’ve neglected this indicator since the first day because it drove me into package
+          dependencies that aren’t used in openSUSE (we use YaST and not system-tools-backends and
           friends). 
 
 The documentation of Unity suggests that if no indicators are present, Unity will use
-          the notifications from GNOME. This is very interesting, but from the debugging Iâ€™ve done
-          from the Unity Panel, Iâ€™ve found it it scans the indicators directory and loads whatever
+          the notifications from GNOME. This is very interesting, but from the debugging I’ve done
+          from the Unity Panel, I’ve found it it scans the indicators directory and loads whatever
           it finds there. So it will eventually find something. One of the coolest features in Unity
-          Indicators and the one Iâ€™m currently working on, is â€˜appmenu-gtkâ€™ which removes the menu
+          Indicators and the one I’m currently working on, is ‘appmenu-gtk’ which removes the menu
           from GTK+ applications and displays it on the unity-panel. This is interesting and the
           behavior is actually a bit different from OSX. The window buttons are also placed very
           close to this indicator. 
 
 If we have such feature enabled, I suppose the panel will always pick up at least one
-          indicator which might endanger the fallback to GNOME notification area. Iâ€™ve tested this
-          yet (unity isnâ€™t launched properly yet), but if this happens, it will be wise to have the
+          indicator which might endanger the fallback to GNOME notification area. I’ve tested this
+          yet (unity isn’t launched properly yet), but if this happens, it will be wise to have the
           whole stack of indicators. This explains why I had to build also this clock indicator
-          despite itâ€™s wicked dependencies (liboost, not used on openSUSE). 
+          despite it’s wicked dependencies (liboost, not used on openSUSE). 
 
 This is how it looks and minimal functionality is already enabled, though
-          configurations arenâ€™t because I havenâ€™t implemented the whole backend, a nd if this
+          configurations aren’t because I haven’t implemented the whole backend, a nd if this
           indicators are to reach Factory (which depends mainly on the patching on GTK+ and GDK
           Pixbuf), there is the need to pass this packages through SUSE Security Team. If the
           indicators are only to live on GNOME:Ayatana, then we skip this process (running this
           package dependencies through SUSE Security Team). 
 
-Hereâ€™s how it looks the current stack of indicators (thereâ€™s a couple more packaged,
-          but Iâ€™m not using them at the moment, ex: nm-applet patched, indicator-network and
+Here’s how it looks the current stack of indicators (there’s a couple more packaged,
+          but I’m not using them at the moment, ex: nm-applet patched, indicator-network and
           friends). 
 
 Within the next days, I will I will make a 1 click installer and run a BETA phase for
@@ -566,15 +566,15 @@ Within the next days, I will I will make a 1 click installer and run a BETA phas
             at openSUSE: openSUSE 11.4 KDE-testing](http://kdeatopensuse.wordpress.com/2011/01/30/opensuse-11-4-kde-testing/)
         **
 
-Itâ€™s been a while and there was nothing special to report, KDE SC 4.5 just worked. In
+It’s been a while and there was nothing special to report, KDE SC 4.5 just worked. In
           the meantime KDE SC 4.6 was released and openSUSE offers it in [KDF as well as KR46 repos](http://en.opensuse.org/KDE_repositories). Big
-          thanks to everybody who is involved in establishing and maintaining those repos â€“ openSUSE
+          thanks to everybody who is involved in establishing and maintaining those repos – openSUSE
           really profits a lot from the (openSUSE-)KDE community that makes it possible to provide
           such a nice and updated KDE distro. 
 
-Those updating from KDE 4.4 which came with openSUSE 11.3 to 4.6 â€“ please save your
+Those updating from KDE 4.4 which came with openSUSE 11.3 to 4.6 – please save your
           plasma* files from ~/.kde4/share/config in case plasma crashes after the update.
-          Submitting them to Novellâ€™s bugzilla would be much appreciated in order to get those
+          Submitting them to Novell’s bugzilla would be much appreciated in order to get those
           crashes fixed for openSUSE 11.4. The same applies to all other issues that come up when
           updating KDE 4.4 to 4.6, e.g. kdepim-related. 
 
@@ -585,7 +585,7 @@ KDE 4.6 has some nice fixes, among them [bko
             bug 163707](http://bugs.kde.org/163707) which prevented KDE from restoring the resolution set in
           systemsettings on login. This is especially important to openSUSE users since sax2 is gone
           and display settings moved into the desktop environment. Plasma seems to become more
-          stable with every release â€“ in fact I did not have any major issues with it since ages and
+          stable with every release – in fact I did not have any major issues with it since ages and
           bug fixing is pretty fast as well. Dolphin does also not suffer from buggy dbus packages
           anymore and with the latest strigi packages I do not encounter any crashes on close or
           when hovering certain files which did crash dolphin before. Thanks to remur_030 who helped
@@ -596,13 +596,13 @@ KDE 4.6 has some nice fixes, among them [bko
 
 The desktop search does still not justify its name though since basics are still
           missing, e.g. context given for search results as all other desktop searches do and kerry
-          + beagle already did years ago. [The feature was shown some months ago](http://trueg.wordpress.com/2010/09/10/someone-requested-excerpts-for-query-results/) but is not as such available in KDE 4.6 â€“
+          + beagle already did years ago. [The feature was shown some months ago](http://trueg.wordpress.com/2010/09/10/someone-requested-excerpts-for-query-results/) but is not as such available in KDE 4.6 –
           thus even in KDE 4.6 all the user gets is a replacement of kfind + tagging which needs a
           huge database for that simple task. 
 
 On top of that there are still issues with [virtuoso-t hogging the CPU](https://bugs.kde.org/show_bug.cgi?id=246678),
           its database never decreasing in size but only increasing, even if you remove folders from
-          the â€œto be indexedâ€-list and the systray-tool used to suspend the indexing vanished as
+          the “to be indexed”-list and the systray-tool used to suspend the indexing vanished as
           well decreasing transparency to the user of an app which potentially keeps your hard disk
           and CPU busy. 
 
@@ -617,7 +617,7 @@ I think its a bit unfortunate that strigi is always blamed for anything related 
           is up to nepomuk and not strigi itself, i.e. when to start hammering the hard disk, how to
           handle the results within a database, what results to display when searching, giving the
           user control and information regarding its activities etc. From my experience strigi devs
-          are quite responsive regarding bugs and questions â€“ although their websites are all pretty
+          are quite responsive regarding bugs and questions – although their websites are all pretty
           much outdated. :) 
 
 For openSUSE 11.4 there is still one major mystery bug to solve for openSUSE 32-bit
@@ -631,7 +631,7 @@ Power-management got worse in KDE 4.6, regressions such as not disabling
           powermanagement on desktops and thus suspending the display every 10 minutes, the
           brigtness slider not representing 100% of the brightness supported by the notebook and it
           still messes with the brightness the user has set. All these were reported some weeks ago
-          already. Letâ€™s hope that KDE SC 4.6.1 fixes those since that seems to be the version that
+          already. Let’s hope that KDE SC 4.6.1 fixes those since that seems to be the version that
           openSUSE 11.4 will ship. 
 
 Further having a presentation-scheme (no suspend, no dimming etc.) is kind of useless
@@ -654,10 +654,10 @@ For openSUSE 11.4 we are currently [testing
             kpackagekit/apper](http://en.opensuse.org/openSUSE:KDE_11.4_packagekit) as a replacement for the unmaintained kupdateapplet.
           Kpackagekit works ok but it seems that its zypper backend could need some improvements.
           And the next version of kpackagekit which will be called apper features monochrome systray
-          icons which is fine, but the â€œsecurity patch availableâ€ signal is just a tiny red dot
+          icons which is fine, but the “security patch available” signal is just a tiny red dot
           which is hardly visible, especially if your eye-sight is not the best or you are suffering
-          red-green colour blindness. So most issues with kpackagekit are not actually kpackagekitâ€™s
-          fault but either backend-related or touching artistsâ€™ taste. 
+          red-green colour blindness. So most issues with kpackagekit are not actually kpackagekit’s
+          fault but either backend-related or touching artists’ taste. 
 
 **Phonon-backends**
         
@@ -669,9 +669,9 @@ Another application [to test is the
 
 Trying to play some file with amarok and the gstreamer-backend brings up some dialogue
           (/usr/lib/gst-install-plugins-helper) that asks whether it should search for some package,
-          I guess codecs. If one clicks on â€œsearchâ€ kpackagekit opens up and claims instantly that
-          â€œGetting what providesâ€ finished but does not do anything. This is on 11.3 plus KDE 4.6
-          from KDF, so letâ€™s hope it works better on 11.4. 
+          I guess codecs. If one clicks on “search” kpackagekit opens up and claims instantly that
+          “Getting what provides” finished but does not do anything. This is on 11.3 plus KDE 4.6
+          from KDF, so let’s hope it works better on 11.4. 
 
 The vlc-backend consumes the double amount of CPU for playing the same mp3 via amarok.
           8% instead of 4% might not be that much in absolute terms but a 100% waste nonetheless and
@@ -682,13 +682,13 @@ The vlc-backend consumes the double amount of CPU for playing the same mp3 via a
 
 And finally there is of course the always present issue of KDE-PIM. openSUSE 11.4 will
           ship kdepim 4.4.10 which needs testing. There is especially [one annoying bug which makes kontact
-            crash](https://bugs.kde.org/show_bug.cgi?id=185544) when logging in if the last view before logging out was kmail. So letâ€™s
+            crash](https://bugs.kde.org/show_bug.cgi?id=185544) when logging in if the last view before logging out was kmail. So let’s
           hope this can be fixed before 11.4 gets released.
 
 I was really looking forward to KDE-PIM 4.6 since IMAP-support seems a lot better with
           akonadi, at least for my use-cases which include suspending/resuming. The latter makes
-          KDE-PIM 4.4â€²s imap slave fail and not recover which works fine with KDE-PIM 4.6. You can
-          get regularly updated packages for the latter off openSUSEâ€™s UNSTABLE KDE repo. 
+          KDE-PIM 4.4′s imap slave fail and not recover which works fine with KDE-PIM 4.6. You can
+          get regularly updated packages for the latter off openSUSE’s UNSTABLE KDE repo. 
 
 **Help testing **
 
@@ -757,7 +757,7 @@ For example: you installed an application with "1-click install" (which
               Linux) (Score: 71)](https://features.opensuse.org/305582)
           **
 
-"Idea from community member RaÃºl GarcÃ­a. Same concept as MSI packages for
+"Idea from community member Raúl García. Same concept as MSI packages for
             Windows but exploiting the One Click Install concept of openSUSE (and therefore
             inheriting the simplicity, code and security. (...)"
 
@@ -888,7 +888,7 @@ It is extremely important to test M6 so that as many bugs as possible are found 
   * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
 
   * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            â€“ [Localization
+            – [Localization
               Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 #### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/SUSEnews.png)Weekly News Team
@@ -918,13 +918,13 @@ As shown in [http://en.opensuse.org/openSUSE:Weekly_news_contribute](http://en.o
 The poll is placed there: [https://connect.opensuse.org/pg/polls/read/saigkill/11690/what-is-your-prefered-input-format](https://connect.opensuse.org/pg/polls/read/saigkill/11690/what-is-your-prefered-input-format)
         
 
-Please vote and help clarifyingâ€¦
+Please vote and help clarifying…
 
 **[Sascha Manns: German Weekly News relaunched](http://saigkill.wordpress.com/2011/02/04/german-weekly-news-relaunched/)**
 
-Iâ€™m pleased to announce the relaunch of the german openSUSE Weekly News. 
+I’m pleased to announce the relaunch of the german openSUSE Weekly News. 
 
-If youâ€™re interested in knowing more, just click [there](http://wiki.open-slx.de/OWR). 
+If you’re interested in knowing more, just click [there](http://wiki.open-slx.de/OWR). 
 
 We are using an Etherpad Clone for preparing the News. We are happy if many people want to
           working with us.
@@ -941,7 +941,7 @@ We are using an Etherpad Clone for preparing the News. We are happy if many peop
 
 Annoncing the first virtual launch party 
 
-Dear folk, we are organizing a special event for the openSUSE 11.4 launch, and youâ€™re
+Dear folk, we are organizing a special event for the openSUSE 11.4 launch, and you’re
         invited. Virtually all of you can participate, and increase the success of it. And spend a
         good time. 
 
@@ -964,7 +964,7 @@ During 3 days March 9 10 & 11 2011 Party start at 16:00 UTC ( 8am SL time)
 
 **What?**
 
-Join our special place build for that event and letâ€™s get
+Join our special place build for that event and let’s get
 
   * Dance party
 
@@ -984,13 +984,13 @@ Join our special place build for that event and letâ€™s get
 
 ![](http://lizards.opensuse.org/wp-content/uploads/2011/02/liz_tigerfoot.png)
 
-Your guests would be myself (tigerfoot) & Morgane Marquis. A team of excellent djâ€™s as
+Your guests would be myself (tigerfoot) & Morgane Marquis. A team of excellent dj’s as
         Lillith from Australia, Esquievel from USA, Stefanos from France, or our great Greeks
         neighbors.
 
 **Why?**
 
-Hey not so long ago I was kicked by [H](http://blog.hennevogel.de/kick-ass/)! Because itâ€™s a place where people have also fun, and we want to talk with them
+Hey not so long ago I was kicked by [H](http://blog.hennevogel.de/kick-ass/)! Because it’s a place where people have also fun, and we want to talk with them
         about the freedom & openSUSE. Did you never attempt to realize something that has not been
         made yet? Just to have a lot of fun! The full explanation [Here](http://blog.hennevogel.de/why-we-are-here/).
 
@@ -1016,7 +1016,7 @@ Stay tuned !
 
 **Upcoming**
 
-  * [February 10, 2011 : ï»¿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [February 10, 2011 : ﻿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
 
@@ -1037,11 +1037,11 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 ## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
-**[Stefan Seyfried: OpenStack â€œbexarâ€ packages for openSUSE and SLES11SP1 are
+**[Stefan Seyfried: OpenStack “bexar” packages for openSUSE and SLES11SP1 are
       ready](http://seife.kernalert.de/blog/2011/02/03/openstack-bexar-packages-for-suse-and-sles11sp1-are-ready/)**
 
-Shortly after the [OpenStack â€œbexarâ€](https://launchpad.net/~openstack)
-      (spoken â€œbearâ€) release was ready, my packages finished building and are available at [the
+Shortly after the [OpenStack “bexar”](https://launchpad.net/~openstack)
+      (spoken “bear”) release was ready, my packages finished building and are available at [the
         isv:B1-Systems:OpenStack](http://download.opensuse.org/repositories/isv:/B1-Systems:/OpenStack/) Build Service repo. 
 
 Grab them, while they are still hot! 
@@ -1050,9 +1050,9 @@ The ride might still be a bit bumpy as the whole OpenStack development is very U
       centric, and thus some of the dependencies, especially to old versions of python stuff are
       tricky to find. However, first results look promising. 
 
-Iâ€™ll update here soon with some short hints on how to configure and use the whole lot. 
+I’ll update here soon with some short hints on how to configure and use the whole lot. 
 
-Thanks go to my colleagues Christian Berendt and Andre NÃ¤hring at B1 Systems GmbH who have
+Thanks go to my colleagues Christian Berendt and Andre Nähring at B1 Systems GmbH who have
       been tireless in testing packages and reporting packaging bugs and other problems. Thanks also
       to Gregory Haskins with whom I started the packaging effort early in december.
 
@@ -1076,18 +1076,18 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 [For
         years](http://domsch.com/linux/lpc2010/lpc2010-network-device-naming.pdf), Matt Domsch has advocated solutions which provide reliable and predictable
-      network port names â€“ in systems with multiple network sockets, the driver loading sequence and
+      network port names – in systems with multiple network sockets, the driver loading sequence and
       hardware response times influence whether a certain port will be called eth0 or eth1. Now, the
       Dell technology strategist and DKMS contributor seems to have taken a big step towards his
       goal. [On his blog](http://domsch.com/blog/?p=455), Domsch, who also
-      contributes to the Fedora project, explains that Fedora 15 â€“ expected in May â€“ will [use](https://fedoraproject.org/wiki/Features/ConsistentNetworkDeviceNaming) a
-      device naming scheme that he helped develop, in which udev accesses â€œ[biosdevname](http://linux.dell.com/files/biosdevname/)â€, a program
+      contributes to the Fedora project, explains that Fedora 15 – expected in May – will [use](https://fedoraproject.org/wiki/Features/ConsistentNetworkDeviceNaming) a
+      device naming scheme that he helped develop, in which udev accesses “[biosdevname](http://linux.dell.com/files/biosdevname/)”, a program
       mainly developed by Dell employees, to allocate network device names. The developer says that
       other distributions are also likely to adopt this solution. 
 
-This naming scheme will make udev allocate the device name â€œem1â€ to the
-      motherboard's first network port, â€œemâ€ being short for â€œembeddedâ€;
-      network cards will be named according to the pattern â€œpci<slot>#<port>â€
+This naming scheme will make udev allocate the device name “em1” to the
+      motherboard's first network port, “em” being short for “embedded”;
+      network cards will be named according to the pattern “pci<slot>#<port>”
       (such as pci2#1), which should always make the ports on a network card accessible under the
       same name as long as the card, or a substitute, is inserted in the same slot. The
       sub-functions of network cards that can be partitioned (NPAR) and the sub-functions of cards
@@ -1096,12 +1096,12 @@ This naming scheme will make udev allocate the device name â€œem1â€ to 
 
 When allocating names, biosdevname accesses the information available in PCI firmware
       specification 3.1; if this information is unavailable, it will try to retrieve values using
-      smbios. This is designed to match the numbers behind the â€œemâ€ with those printed
-      on the housing or board â€“ and considerably help network admins with their cabling, especially
+      smbios. This is designed to match the numbers behind the “em” with those printed
+      on the housing or board – and considerably help network admins with their cabling, especially
       on servers with a large number of network sockets. If biosdevname can't retrieve any
       information this way, the program uses the PCI IRQ routing table and will allocate the numbers
       according to the card's position in the device hierarchy. Biosdevname doesn't handle USB
-      network interfaces, which will continue to be given such names as â€œeth0â€.
+      network interfaces, which will continue to be given such names as “eth0”.
 
 **[Brandon
         Philips: reverse path filter (rp_filter) by example](http://ifup.org/2011/02/03/reverse-path-filter-rp_filter-by-example/)**
@@ -1154,7 +1154,7 @@ The script command is part of the [util-linux-ng](ftp://ftp.kernel.org/pub/linux
         and so should be available already installed in any distribution, or you should be able to
         easily add it.
 
-Whatâ€™s script ?
+What’s script ?
 
 From his man page:
 
@@ -1254,23 +1254,23 @@ Let's shoot our darts with the lights on. :D
 **[Pavol Rusnak: Game Jam Prague 2011](http://stick.gk2.sk/blog/2011/02/novell-hackweek-6-game-jam-prague-2011/)**
 
 When I was last time in Germany, Leinir told me about an event called Global Game Jam. I
-      liked its idea very much â€“ 48-hour game coding marathon. I was amused when a couple of days
+      liked its idea very much – 48-hour game coding marathon. I was amused when a couple of days
       later (just one day before the event took place) my friends Split, Lokiman and Frem told me
       about the Prague chapter called Game Jam Prague and invited me to join them. We decided to go
-      there under the name they already used for a couple of their projects â€“ Hyperbolic Magnetism
+      there under the name they already used for a couple of their projects – Hyperbolic Magnetism
       aka @hypmag. 
 
 The event started on Friday evening. When we arrived, the place was already full of other
       teams preparing their stuff. This was very different from other (mostly open-source related)
       events I attend where I usually know at least a few people. Here, I knew no one except my
-      team! :-) At around 6pm we were given a topic that should be somehow present in our game â€“
+      team! :-) At around 6pm we were given a topic that should be somehow present in our game –
       Extinction. I was very surprised that we were able to brainstorm over 15 ideas in less than
       half an hour. Later we discarded most of them (because they were too obvious or too complex)
       and we ended up with two. 
 
 We agreed that for idea one to be successful we would need to create nice graphics and
       because none of us was confident enough, we decided to pick the another one where simple
-      graphics would suffice. So we started to work on a game with the working title â€œNationsâ€. The
+      graphics would suffice. So we started to work on a game with the working title “Nations”. The
       idea was really simple: you have a couple of nations, represented by triangles (people) moving
       inside the circle (border). Each nation expands in time and when the circles start to overlap,
       triangles inside the intersection start to fight together. Moreover, if the nation is big
@@ -1281,29 +1281,29 @@ We agreed that for idea one to be successful we would need to create nice graphi
       triangles to disappear. We implemented basic behaviour of the game mechanics and went to sleep
       on Saturday morning. 
 
-We met again on Saturday evening and we coded and tweaked and coded and tweaked â€¦ It was a
+We met again on Saturday evening and we coded and tweaked and coded and tweaked … It was a
       long way, but at some point (I guess it must have been something around Sunday 4AM) we
       realised we want to change the whole game logic completely. How about we had only two types of
-      nations â€“ green controlled by the user and cyan ones by AI? What if player could decide to
+      nations – green controlled by the user and cyan ones by AI? What if player could decide to
       split the nation into two halves or join two nations into a bigger one? Bigger nation of
       course produces A-bombs faster, but is also easier to target. We replaced most of the code and
       I started to work on an AI, which suddenly became necessary. We worked until Sunday noon when
       we were finally satisfied with the result. In the meanwhile Split composed a great music track
-      and we quickly hacked game menu, intro screen and other cosmetic stuff. Thatâ€™s how it looked
+      and we quickly hacked game menu, intro screen and other cosmetic stuff. That’s how it looked
       in the end:
 
 ![](http://stick.gk2.sk/blog/wp-content/uploads/2011/01/ggj11-nuclear-crisis-logo.png)
 
-Iâ€™ll attach the gameplay video to give you even better idea how the game is played:
+I’ll attach the gameplay video to give you even better idea how the game is played:
 
 [Youtube](http://www.youtube.com/watch?v=JdRjlPJ0ay0)
 
 At the end of the event all contestants judged the produced games and the first three
-      places were announced â€“ check the list for all other games and the result. The first team also
+      places were announced – check the list for all other games and the result. The first team also
       got a very nice pacman-themed cake (which was also very tasty, thanks for sharing!). Although
-      we didnâ€™t make it into the Top 3, I think it was a great success for us. We tried something
+      we didn’t make it into the Top 3, I think it was a great success for us. We tried something
       completely new and we also met a lot of interesting people (one of them being Antonin, author
-      of the legendary TotalFinder). I also hope that weâ€™d be able to finish the game and publish it
+      of the legendary TotalFinder). I also hope that we’d be able to finish the game and publish it
       into Apple App Store (and probably later into Android Market).
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
@@ -1382,15 +1382,15 @@ Yesterday our vigilant operations guys detected a targeted attack against some o
         safeguard data and protect the majority of our services. 
 
 Our immediate priorities are to prevent further exposure and ensure data integrity.
-        Weâ€™ve had all hands on deck working on identifying the exploit vector or vectors,
+        We’ve had all hands on deck working on identifying the exploit vector or vectors,
         eliminating them, and are now focusing on verifying data integrity and restoring the
         impacted services. 
 
 The problem was initially discovered on the servers that host CVS but our analysis
-        indicates that several other machines were involved, and while we believe weâ€™ve determined
+        indicates that several other machines were involved, and while we believe we’ve determined
         the extent of the attack, we are verifying all of our other services and data. 
 
-As a short term response, weâ€™ve taken down the following services to prevent any
+As a short term response, we’ve taken down the following services to prevent any
         possible escalation:
 
   * CVS Hosting
@@ -1402,7 +1402,7 @@ As a short term response, weâ€™ve taken down the following services to prev
   * Interactive Shell services
 
 Once the immediate response to this attack is over, we will be providing a much more
-        detailed account of whatâ€™s happened, and what specific actions we are taking to prevent
+        detailed account of what’s happened, and what specific actions we are taking to prevent
         further exploits.
 
 ### Reports
@@ -1470,7 +1470,7 @@ Early this morning, the Asia Pacific Network Information Centre (APNIC) announce
         have moved closer as the number of available addresses that can be allocated will dwindle.
         (...)
 
-**[MakeTechEasier/Tavis J. Hampton: KDE 4.6 Review: Itâ€™s Full Of Awesomeness](http://maketecheasier.com/kde46-review-full-of-awesomeness/2011/02/02)**
+**[MakeTechEasier/Tavis J. Hampton: KDE 4.6 Review: It’s Full Of Awesomeness](http://maketecheasier.com/kde46-review-full-of-awesomeness/2011/02/02)**
 
 On January 26th of this year, [KDE
           released](http://www.kde.org/announcements/4.6/) version 4.6.0 of its Plasma Workspaces, Applications, and Development
@@ -1479,9 +1479,9 @@ On January 26th of this year, [KDE
         the icing on the cake for KDE 4, adding speed, visual enhancements, and increased hardware
         compatibility. 
 
-**Faceted Browsing for Dolphin** â€“ Pressing Ctrl+F in
+**Faceted Browsing for Dolphin** – Pressing Ctrl+F in
         Dolphin used to open Kfind, a search interface that used various Linux/Unix search tools
-        such as â€œfindâ€ and â€œlocateâ€ to get you the files you wanted. In KDE 4.6, you can open the
+        such as “find” and “locate” to get you the files you wanted. In KDE 4.6, you can open the
         search interface within Dolphin and find indexed files quickly and easily. The addition of a
         filter side bar also allows you to find exactly the types of files you want, giving you
         options for file type, creation date, and even rating. (...)
@@ -1489,36 +1489,36 @@ On January 26th of this year, [KDE
 **[mindplusplus: Finding the Fastest Filesystem, 2011 Edition](http://mindplusplus.wordpress.com/2011/02/02/finding-the-fastest-filesystem-2011-edition/)**
 
 In my [previous report](http://mindplusplus.wordpress.com/2008/07/14/finding-the-fas/) about journaling filesystem benchmarking using dbench, I observed
-        that a properly-tuned system using XFS, with the deadline I/O scheduler, beat both Linuxâ€™s
-        ext3 and IBMâ€™s JFS. A lot has changed in the three years since I posted that report, so itâ€™s
+        that a properly-tuned system using XFS, with the deadline I/O scheduler, beat both Linux’s
+        ext3 and IBM’s JFS. A lot has changed in the three years since I posted that report, so it’s
         time to do a new round of tests. Many bug fixes, improved kernel lock management, and two
         new filesystem (btrfs and ext4) bring some new configurations to test. 
 
-Once again, Iâ€™ll provide raw numbers, but the emphasis of this report lies in the
+Once again, I’ll provide raw numbers, but the emphasis of this report lies in the
         relative performance of the filesystems under various loads and configurations. To this end,
         I have normalized the charted data, and eliminated the raw numbers on the Y-axes. Those who
         wish to run similar tests on their own systems can download a tarball containing the testing
-        scripts; Iâ€™ll provide the link to the tarball at the end of this report. (...)
+        scripts; I’ll provide the link to the tarball at the end of this report. (...)
 
 ### Reviews and Essays
 
 **
         [Joe Brockmeier:
-          One year after Novellâ€¦](http://dissociatedpress.net/2011/02/02/one-year-after-novell/)
+          One year after Novell…](http://dissociatedpress.net/2011/02/02/one-year-after-novell/)
       **
 
-Iâ€™m usually big on milestones â€” anniversaries, birthdays, holidays, etc. But it wasnâ€™t
-        until I was going to bed last night that it hit me: Itâ€™s been a year since I left Novell and
-        started working for myself full-time. Hereâ€™s how itâ€™s going so farâ€¦ (read on if youâ€™re
+I’m usually big on milestones — anniversaries, birthdays, holidays, etc. But it wasn’t
+        until I was going to bed last night that it hit me: It’s been a year since I left Novell and
+        started working for myself full-time. Here’s how it’s going so far… (read on if you’re
         interested, but this is mostly full of personal stuff so feel free to skip down to some of
-        the more interesting stuff on technology if you likeâ€¦)
+        the more interesting stuff on technology if you like…)
 
 My last day with Novell was January 31st, 2010. Pretty much exactly two years after I
         started with the company (February 1st, 2008). I put in notice about two weeks before that,
-        but had been considering quitting long before. Iâ€™m not going to go into a lot of backstory
+        but had been considering quitting long before. I’m not going to go into a lot of backstory
         here, but the long and short of it was that after two years the job was not what I wanted to
         be doing. Some jobs you can do whether your heart is in them or not (I worked at a car seat
-        factory for three and a half years, and I donâ€™t think my heart was ever in thatâ€¦), but
+        factory for three and a half years, and I don’t think my heart was ever in that…), but
         community management is something that you need to be all-in for. (...)
 
 **
@@ -1571,7 +1571,7 @@ We thank for this Issue:
 
   * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas HofstÃ¤tter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 

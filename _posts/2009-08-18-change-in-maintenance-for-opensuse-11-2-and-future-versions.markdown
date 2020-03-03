@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-Michael LÃ¶ffler [has announced](http://lists.opensuse.org/opensuse-announce/2009-08/msg00009.html) to the [opensuse-announce](http://lists.opensuse.org/opensuse-announce/) mailing list:
+Michael Löffler [has announced](http://lists.opensuse.org/opensuse-announce/2009-08/msg00009.html) to the [opensuse-announce](http://lists.opensuse.org/opensuse-announce/) mailing list:
 
 
 

@@ -26,7 +26,7 @@ The only way to go to the openSUSE planet is now by typing [http://planet.opensu
 
 Some of you might know what that is but there are out there people that don't really know what the openSUSE Planet is and what is it's use.
 
-**The openSUSE Planet is not that hidden Planet that all Geekos really live having send to Earth just their Avatars to conquer it that many of you Sci-fi people might thinkÂ  ;-)**
+**The openSUSE Planet is not that hidden Planet that all Geekos really live having send to Earth just their Avatars to conquer it that many of you Sci-fi people might think  ;-)**
 
 Actually [Planet openSUSE](http://planet.opensuse.org/) is a web feed aggregator that collects blog posts from people who contribute to openSUSE. Even in English is not your preferred language you can blog too since there is the choice of writing in your native language.
 

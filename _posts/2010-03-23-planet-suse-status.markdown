@@ -11,7 +11,7 @@ categories:
 - Infrastructure
 ---
 
-Planet SUSE aggregates blog posts from the SUSE Linux universum, including openSUSE and SUSE Linux Enterprise.Â  It aggregates not only English blog posts but also as separate feeds German, Spanish, Polish,Â  and Portuguese posts.
+Planet SUSE aggregates blog posts from the SUSE Linux universum, including openSUSE and SUSE Linux Enterprise.  It aggregates not only English blog posts but also as separate feeds German, Spanish, Polish,  and Portuguese posts.
 
 Planet SUSE has been unavailable for the last days due to some problems while renewing the domain. We have therefore setup an alternative DNS entry for the server under the openSUSE domain, you can reach the planet now as [planet.openSUSE.org](http://planet.openSUSE.org/). The alternative name will stay, so feel free to change your bookmarks permantelty to it.
 

@@ -22,7 +22,7 @@ Meanwhile openSUSE presents a very unique advantage that hasn't been leveraged y
 
 Well, its a variety of things. And most certainly not because no one cares.
 
-While other distributions have formal accessibility teams, we don't. And we don't advocate for that. After all, one has to realize that a11y doesn't mean accessibility for people with special needs. It means accessibility for all regardless of what your needs are. And that means that accessibility issues should be raised in mainstream conversations, not segregated off to some corner where no one else knows what's going on. Therefore, if there's a problem in openSUSE-GNOME accessibility, it should be discussed on that team's thread.Â  If there's a problem with the installer, it should be discussed on the Factory mailing list, and so on.
+While other distributions have formal accessibility teams, we don't. And we don't advocate for that. After all, one has to realize that a11y doesn't mean accessibility for people with special needs. It means accessibility for all regardless of what your needs are. And that means that accessibility issues should be raised in mainstream conversations, not segregated off to some corner where no one else knows what's going on. Therefore, if there's a problem in openSUSE-GNOME accessibility, it should be discussed on that team's thread.  If there's a problem with the installer, it should be discussed on the Factory mailing list, and so on.
 
 While, philosophically, we still believe in this, in practice, it hasn't been a perfect world. We ended up being like a bunch of loose chickens running around without any real concerted effort. And this is a shame because over the years, we've had many great accessibility experts both in the community and on staff at Novell.
 
@@ -34,4 +34,4 @@ At this point in time, we still aren't going to put together a formal mailing li
 
 On Thursday, 13 January 2011, at 17:00 UTC, we're going to have a meeting. We're not going to use a formal agenda at this time but rather more like a kvetching where we'll talk about our views of what we see as the obstacles. From there, we hope to have a better and bigger picture and develop an idea of how we can go forth collectively and individually in our accessibility work.
 
-If you've had some interest in accessibility and have some thoughts or want to learn what others are saying, we invite you to join us.Â  We'll be giving out free virtual coffee and hot chocolate throughout the meeting.Â  :-)
+If you've had some interest in accessibility and have some thoughts or want to learn what others are saying, we invite you to join us.  We'll be giving out free virtual coffee and hot chocolate throughout the meeting.  :-)

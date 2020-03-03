@@ -92,7 +92,7 @@ Aaron, one of the ownCloud developers, gives [his thoughts](http://owncloudtest.
 The most important feature of ownCloud, however, is control. In Frank's words:
 
 
-<blockquote>You donÂ´t have to put your private data into the hosting center of a big company</blockquote>
+<blockquote>You don´t have to put your private data into the hosting center of a big company</blockquote>
 
 
 You can install ownCloud on your own server, your desktop at home, a company server but also at a hosting provider supporting PHP, or run it as appliance in some cloud service under your direct control. Because it is Free Software, you fully own your data and only _you_ can determine what happens with it.
@@ -133,7 +133,7 @@ ownCloud is a Free Software project, which means you can get involved. The team 
 Frank closes his blog with:
 
 
-<blockquote>I think ownCloud has the potential to become the cloud storage solution for people who donÂ´t like vendor lock-ins and care about freedom and privacy</blockquote>
+<blockquote>I think ownCloud has the potential to become the cloud storage solution for people who don´t like vendor lock-ins and care about freedom and privacy</blockquote>
 
 
 We would like to go a step further and claim that the wide variety of hosting options for ownCloud offers not only more security and privacy but also far more flexibility and, in time, lower prices than what Google, Apple, Microsoft and the other 'big boys' bring to the table. Combined with the excellent integration openSUSE desktops already offer with online services, openSUSE has a sunny future in the cloud.

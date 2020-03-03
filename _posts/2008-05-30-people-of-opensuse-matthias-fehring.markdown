@@ -312,7 +312,7 @@ Programming would be nice, but I fear that ends like my wish to can play bagpipe
 
 
 
-#### The Internet crashes for a whole week â€” how would you feel, what would you do?
+#### The Internet crashes for a whole week — how would you feel, what would you do?
 
 
 Shit happens, but good time for drinking more beer with many friends. Or to read anymore books.
@@ -384,17 +384,17 @@ Driving around with a car, camping and make a little bit sightseeing and taste t
 
 
 
-#### Someone gives you $1.000.000 â€” what would you do with the money?
+#### Someone gives you $1.000.000 — what would you do with the money?
 
 
-At first I would give a big party. Then I will invest the rest (I hope there will be a rest) to make it more. If it is enough I will try to buy one of the best breweries in the world: SchloÃŸbrauerei Rheder ;-)
-
-
-
+At first I would give a big party. Then I will invest the rest (I hope there will be a rest) to make it more. If it is enough I will try to buy one of the best breweries in the world: Schloßbrauerei Rheder ;-)
 
 
 
-#### If traveling through time was possible â€” when would we be most likely to meet you?
+
+
+
+#### If traveling through time was possible — when would we be most likely to meet you?
 
 
 March 18, 1848 on the barricades in Berlin.
@@ -404,7 +404,7 @@ March 18, 1848 on the barricades in Berlin.
 
 
 
-#### There's a thunderstorm outside â€” do you turn off your computer?
+#### There's a thunderstorm outside — do you turn off your computer?
 
 
 No, should I? My computers survived an electronical failure in the house connection of the power line, which killed many other devices. So, I have no more fear.

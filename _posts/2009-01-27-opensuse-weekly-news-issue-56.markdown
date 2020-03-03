@@ -17,14 +17,14 @@ categories:
 New layout !   
   
 
-In this weekâ€™s issue:
+In this week’s issue:
 
 
   * FOSDEM 2009 
 
   * Top 25 Most Dangerous Programming Errors 
 
-  * Novellâ€™s 2009 Technical Strategy and Process 
+  * Novell’s 2009 Technical Strategy and Process 
 
   * NTFS-3g - writing to windows partition 
 
