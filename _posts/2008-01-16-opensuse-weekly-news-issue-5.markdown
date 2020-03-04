@@ -37,8 +37,3 @@ In this week's issue:
 	
   * ...and much more!
 
-
-
-
-
- By [pay someone to write my research paper](https://midnightpapers.com/) maeve maddox it wasn't until I wanted to write about an incident in which a policeman applied a taser to a ten-year-old girl that I needed to know if I should write tazed, tased, tazered, or tasered

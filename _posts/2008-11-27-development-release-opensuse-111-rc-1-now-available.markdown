@@ -66,4 +66,4 @@ Bug [449513](https://bugzilla.novell.com/show_bug.cgi?id=449513): Novell vpn doe
 ### Future Release Announcements
 
 
-Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release. Zunchst einmal plagiate stellen einen versto gegen [https://bachelorschreibenlassen.com/akademische-arbeit/](https://bachelorschreibenlassen.com/akademische-arbeit/) das urheberrecht dar und werden daher sanktioniert
+Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release.

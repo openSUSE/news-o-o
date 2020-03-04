@@ -23,4 +23,4 @@ In addition to the openSUSE-related activities, the whole conference program fea
 
 On the second day of the conference, PHP inventor Rasmus Lerdorf will give his keynote titled "Simple is hard." Lerdorf will talk about the trouble of finding a simple solution and the increasing affinity to comlexity which causes problems in performance, scalability, and security.
 
-If you'd like to help with the openSUSE booth at FrOSCon, we're still looking for additional volunteers. Please contact [Marko Jung](//en.opensuse.org/User:Markojung). Studium wissenschaft [mehr Info hier](https://ghostwriter-hilfe.com/) lehre die deutsche bildungsministerin annette schavan ist heute zurckgetreten
+If you'd like to help with the openSUSE booth at FrOSCon, we're still looking for additional volunteers. Please contact [Marko Jung](//en.opensuse.org/User:Markojung).

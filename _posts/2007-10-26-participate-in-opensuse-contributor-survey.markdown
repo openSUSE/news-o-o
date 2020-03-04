@@ -15,4 +15,4 @@ categories:
 
 As part of this study, a [contributor survey](https://nettskjema.uio.no/answer.html?fid=38823&lang=en) has been launched. If you are an active contributor to the openSUSE project (involved in packaging, support, discussions, documentation, translation etc), please take 2 minutes to fill out this survey by clicking the link.
 
-The results from the survey will be published on opensuse.org within a month, and the full thesis will be ready by June 2008. Within these concentrations, [https://college-homework-help.org](https://college-homework-help.org/) there are numerous roles that you may fill
+The results from the survey will be published on opensuse.org within a month, and the full thesis will be ready by June 2008.

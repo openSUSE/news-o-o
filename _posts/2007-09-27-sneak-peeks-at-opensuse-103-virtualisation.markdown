@@ -166,4 +166,3 @@ SUSE R&D managed on one hand to patch our SUSE Linux Enterprise kernel to VMI en
 
 ### Thanks!
 
-Natrlich darf im kontakt mit experten der eine oder andere [www.hausarbeithilfe.com/eine-abschlussarbeit-schreiben-lassen/](https://hausarbeithilfe.com/eine-abschlussarbeit-schreiben-lassen/) fachbegriff fallen

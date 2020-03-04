@@ -25,4 +25,4 @@ The new board members will be elected for either one or two years, starting firs
 
 openSUSE membership is granted to those who have made continued and substantial contributions to the openSUSE Project. Members are approved by the openSUSE Board, and membership must be submitted by September 24th for members to be eligible to vote in this election.
 
-If you have any questions, feel free to contact the [election committee](mailto:election-officials@opensuse.org). You might still think of the much-loved dwarf planet as being at the end of the solar system, but today [https://justdomyhomework.com](https://justdomyhomework.com/) scientists don't even consider pluto a planet
+If you have any questions, feel free to contact the [election committee](mailto:election-officials@opensuse.org).

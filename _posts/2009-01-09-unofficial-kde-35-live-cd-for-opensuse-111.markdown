@@ -42,4 +42,4 @@ If you want to report any bug found use [Novell's Bugzilla](https://bugzilla.nov
 
 A huge thanks to [Stephan 'Beineri' Binner](//news.opensuse.org/2007/10/26/people-of-opensuse-stephan-binner/), [Stephan 'coolo' Kulow](//news.opensuse.org/2007/08/09/people-of-opensuse-stephan-kulow/), and [Joe 'Zonker' Brockmeier](//news.opensuse.org/2008/07/05/people-of-opensuse-joe-brockmeier/) for their assistance and effort!
 
-We hope that the openSUSE community will find it useful and have a lot of fun with KDE 3.5! Nach ein paar tagen bekommen sie [Kontakt](https://schreib-essay.com/) das geld berwiesen
+We hope that the openSUSE community will find it useful and have a lot of fun with KDE 3.5!

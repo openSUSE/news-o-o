@@ -20,4 +20,4 @@ openSUSE 11.1 beta 3 will be delayed by several days. We originally scheduled th
 
 We had a first build this morning and have checked in more than 20 packages to fix the most serious problems. We expect to release the third beta on Monday (October 20), or later, depending on the status of the builds on Friday.
 
-We'll give an update Friday as to the status of the next beta release. Thanks for your patience, and we look forward to your help in testing and working on openSUSE 11.1 when we release beta 3! bachelorarbeit schreiben lassen [schreib-essay.com/bachelorarbeit/](https://schreib-essay.com/bachelorarbeit/)
+We'll give an update Friday as to the status of the next beta release. Thanks for your patience, and we look forward to your help in testing and working on openSUSE 11.1 when we release beta 3!

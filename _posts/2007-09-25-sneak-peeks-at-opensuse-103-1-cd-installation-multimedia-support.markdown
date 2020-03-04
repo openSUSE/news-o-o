@@ -183,4 +183,3 @@ We are also in contact with Fluendo and asked them to offer RPMs for openSUSE an
 
 ### Thanks!
 
-Because of the nature of the [pro-academic-writers.com](https://pro-academic-writers.com/) counseling profession, many online programs do require you to complete clinical practice hours in addition to online coursework

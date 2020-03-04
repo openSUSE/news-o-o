@@ -306,4 +306,4 @@ We want to hear from you! To get help, provide any feedback, ask questions, or g
 
 
 
-A huge thanks to all those involved in the release, particularly all the community contributors, for making this an excellent openSUSE release! For example, the usc [justdomyhomework.com](https://justdomyhomework.com/) llm degree is a great option for international students who want to become familiar with us laws and regulations
+A huge thanks to all those involved in the release, particularly all the community contributors, for making this an excellent openSUSE release!

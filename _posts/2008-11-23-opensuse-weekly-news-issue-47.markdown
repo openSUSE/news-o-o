@@ -34,4 +34,4 @@ The openSUSE Weekly News is translated to:
 [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/47), 
 [Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/47), 
 [Portuguese](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/47) and 
-[Indonesian](//en.opensuse.org/OpenSUSE_Weekly_News/47/indonesian). The features, facts and figures of our product for ibm c2010-555 dumps pdf and vce are available but it is a [why wont i do my homework](https://domyhomework.guru/) paid content so, you should download free demo our product first
+[Indonesian](//en.opensuse.org/OpenSUSE_Weekly_News/47/indonesian).

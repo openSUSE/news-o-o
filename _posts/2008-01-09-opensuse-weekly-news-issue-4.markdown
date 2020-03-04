@@ -34,6 +34,3 @@ In this week's issue:
 	
   * Jeff Jaffe, Novell CTO, on the openSUSE Project 
 
-
-
- The effect of lightening somber content can also [https://proessaywriting.org](https://proessaywriting.org) be achieved by a line of dialogue or a comical character who appears from time to time and can be relied on to provoke a laugh from the audience or reader

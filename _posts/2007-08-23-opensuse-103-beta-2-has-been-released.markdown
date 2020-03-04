@@ -150,4 +150,4 @@ We have created Delta ISOs from openSUSE 10.3 Beta 1; please use them for downlo
 
 Please report all bugs you find on in our bugzilla as explained on [//bugs.opensuse.org](//bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](//lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](//opensuse.org/Communicate) wiki page.
 
-The next [planned release](//en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 3 on Thursday, Sep 6. It is when having ccnp collaboration, 300-075 certification exam dumps, or more can mean the distinction between maintaining your job and having [pay for essays at https://essaydragon.com](https://essaydragon.com/) an opportunity to search for a new one
+The next [planned release](//en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 3 on Thursday, Sep 6.

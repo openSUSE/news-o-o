@@ -66,4 +66,4 @@ So far there are some glitches in the installation process, that are mostly harm
 
 You can get it from [//en.opensuse.org/Development_Version#Downloads](//en.opensuse.org/Development_Version#Downloads)
 
-Greetings, Stephan The noun form is insidiousness, and the [https://writemyessay4me.org/](https://writemyessay4me.org/) adverbial form is insidiously
+Greetings, Stephan

@@ -504,5 +504,3 @@ What languages do you speak?
 Pfälzisch (the palatinate dialect), german, english.
 And PHP, Perl, Bash, (My)SQL, HTML, POP3, SMTP and HTTP. No Basic anymore ;-)
 
-
-Becoming educated in the law is another way to address the problems [can i buy a research paper](https://buyresearchpapers.net/) within your industry

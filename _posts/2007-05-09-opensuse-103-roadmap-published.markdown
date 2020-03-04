@@ -55,7 +55,3 @@ Below his original post:
     
      The detailed schedule - including internal test releases - is available
      at:  //en.opensuse.org/Roadmap/10.3
-     
-
-
- Spotify may collect even more data if you integrate your spotify account with third-party apps and [imei tracking](https://celltrackingapps.com/track-stolen-phone-with-imei/) services

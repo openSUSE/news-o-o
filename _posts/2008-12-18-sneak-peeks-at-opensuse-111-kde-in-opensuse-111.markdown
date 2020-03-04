@@ -61,4 +61,4 @@ This release also includes Powerdevil, for easier and better power management on
 
 This release also marks a move to PackageKit for updates. In openSUSE 11.0, GNOME switched to using PackageKit for updates. With 11.1, the KDE Updater Applet has switched from the zypp backed to use PackageKit as well.
 
-(In the spirit of late being better than "never," this peek is being published after the 11.1 announcement, but we still think it will be useful to users who haven't tried KDE 4 in 11.1.) Our entire solar system orbits inside the sun's atmosphere, and we can see the results of this when gusts of solar wind produce [cheap custom essay writing services](https://essaysheaven.com/) the northern lights
+(In the spirit of late being better than "never," this peek is being published after the 11.1 announcement, but we still think it will be useful to users who haven't tried KDE 4 in 11.1.)

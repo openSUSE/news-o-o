@@ -471,5 +471,3 @@ Q: What can the project do to get more upstream FOSS developers using openSUSE?
 
 A: Focus on a couple of key areas like performance (ie more of Coolo's boot time improvements), power management (via Powertop), package availability, things like that.
 
-
-Jim ryan jä m ryan says march 12, [https://essaydragon.com/](https://essaydragon.com/) 2010 at 2 46 pm I live ä n turkey

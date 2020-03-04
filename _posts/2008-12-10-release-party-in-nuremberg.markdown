@@ -17,7 +17,7 @@ tags:
 
 <table border="0" >
 <tbody >
-
+<tr>
 <td rowspan="8" >[![img_2048.jpg](//farm4.static.flickr.com/3216/3098241900_e149efed6d_m.jpg)](//www.flickr.com/photos/notlocalhorst/3098241900/)
 </td>
 </tr>
@@ -49,12 +49,9 @@ Please send an email to me if you want to come to the party, mlasars _at! suse !
 
 </td>
 </tr>
-<tr >
 </tbody>
 </table>
 
 If you are not from Nuremberg, look first at the party locations at the [wiki](//en.opensuse.org/OpenSUSE_11.1_Launch_Party_Locations), or make your own party!
 
 [![](//counter.opensuse.org/11.1/small)](//en.opensuse.org/OpenSUSE_11.1)
-</td>
- Get [https://essayclick.net](https://essayclick.net/) ready for the competition of ibm ibm maximo asset management v7

@@ -13,4 +13,4 @@ Today we had two posts that contributors received the Box and a very special gif
 
 Thanks again to all contributors!
 
-btw: we made the T-Shirt exclusively for contributors. It is not available somewhere else! [buy online british essay](https://essayclick.net/)
+btw: we made the T-Shirt exclusively for contributors. It is not available somewhere else!

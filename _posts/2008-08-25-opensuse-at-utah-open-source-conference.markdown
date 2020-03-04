@@ -40,4 +40,4 @@ As part of Hack Week, [we'll also have a room set aside for Hack Week III partic
 
 The schedule runs from 8:30 a.m. to 8:30 p.m. local time Thursday and Friday, and from 8:30 a.m. to 5:30 p.m. on Saturday. See the full schedule on the UTOSC Web site: [//2008.utosc.com/speaker/schedule/](//2008.utosc.com/speaker/schedule/), and the events and activities here: [//2008.utosc.com/pages/events/](//2008.utosc.com/pages/events/).
 
-We're also looking for more volunteers for the openSUSE booth at the show. Please contact [Zonker](mailto:zonker@opensuse.org) if you're interested. Also schreibt eine wissenschaftlerin oder wissenschaftler fr die scientific community oder fr [https://ghostwritinghilfe.com/hausarbeit-schreiben/](https://ghostwritinghilfe.com/hausarbeit-schreiben/) ein interessiertes laienpublikum
+We're also looking for more volunteers for the openSUSE booth at the show. Please contact [Zonker](mailto:zonker@opensuse.org) if you're interested.

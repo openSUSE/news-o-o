@@ -25,4 +25,4 @@ OLF is free to attend, and has been one of the most successful LinuxFests in the
 
 We still have an opening or two at the openSUSE Booth for any volunteers who want to help out at the booth and spread the word about openSUSE. If you're interested, just drop a note to [Zonker](mailto:zonker@opensuse.org).
 
-Look forward to seeing you there! Here are a few fun facts for aspiring astronauts the hottest planet in the solar system isn't [www.admission-writer.com/](https://admission-writer.com/) mercury
+Look forward to seeing you there!

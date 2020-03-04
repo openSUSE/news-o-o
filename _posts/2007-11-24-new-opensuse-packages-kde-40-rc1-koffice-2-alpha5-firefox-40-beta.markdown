@@ -81,4 +81,4 @@ The popular web browser have just released the first beta version of their next 
 
 
 For openSUSE 10.3 you can use _1-Click-Install_:
-[![one-click-install firefox 3.0 beta 1](//news.opensuse.org/wp-content/uploads/2007/11/one-click-firefox.png)](//opensuse-community.org/MozillaFirefox.ymp) In australia, [https://domyhomework.guru/](https://domyhomework.guru/) marsupials diversified and the few early eutherians became extinct
+[![one-click-install firefox 3.0 beta 1](//news.opensuse.org/wp-content/uploads/2007/11/one-click-firefox.png)](//opensuse-community.org/MozillaFirefox.ymp)

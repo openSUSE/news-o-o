@@ -465,5 +465,3 @@ Maybe that "Which application or feature should be invented as soon as possible?
 Will you contribute to openSUSE in the future :)?
 Definitely :) !
 
-
-Be realistic about [https://college-homework-help.org/](https://college-homework-help.org/) the amount of time you can dedicate to additional coursework, especially if you have a demanding full-time job

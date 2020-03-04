@@ -515,5 +515,3 @@ This one :)
 "What's the worst package you ever made ?"
 and the answer would be: "Miro/DemocracyPlayer" (what a pile of ....)
 
-
-There is no better way to [resume writing service by resumecvwriter.com](https://resumecvwriter.com/) display this than to generate a new implementing cisco ip telephony and video 300-075 exam dumps or improvement further up the certification sequence in a present specialty

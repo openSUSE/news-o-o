@@ -40,4 +40,4 @@ The results are now ready and can be found here:
 
 
 
-The commented version includes some analysis of the results and statistical measures of correlation between questions in the survey. The simple version only shows the distribution of frequencies in percent, but also includes the answers to the open text fields in the survey. Do you feel [https://essayclick.net/](https://essayclick.net/) extra excited about this particular submission
+The commented version includes some analysis of the results and statistical measures of correlation between questions in the survey. The simple version only shows the distribution of frequencies in percent, but also includes the answers to the open text fields in the survey.

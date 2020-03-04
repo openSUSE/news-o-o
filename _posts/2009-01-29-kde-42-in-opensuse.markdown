@@ -21,4 +21,4 @@ You can also run the 4.2 packages in a Live CD, or install a fresh openSUSE 11.1
 
 Thanks much to our KDE gurus for having this ready! If you want to run 4.2, no need to wait another minute -- grab the packages and have a lot of fun!
 
-**Update: Please note that these packages _are not supported_.** The KDE team has packaged these for openSUSE users who want to get their hands on KDE 4.2 quickly, but the packages are not supported. The features, facts and figures of our product for [order-essay-online.net](https://order-essay-online.net/) isqi ctal-tta uk dumps pdf and vce are available but it is a paid content so, you should download free demo our product first
+**Update: Please note that these packages _are not supported_.** The KDE team has packaged these for openSUSE users who want to get their hands on KDE 4.2 quickly, but the packages are not supported.

@@ -101,4 +101,3 @@ Need any help getting things running? Just [Communicate](//opensuse.org/Communic
 	
   * For other ways such as Jabber and Usenet, see the [Communicate](//opensuse.org/Communicate) page.
 
-Was sind konkret deinen aufgaben als [https://hausarbeit-agentur.com/wissenschaftliche-arbeit/](https://hausarbeit-agentur.com/wissenschaftliche-arbeit/) tutor

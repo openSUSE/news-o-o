@@ -56,4 +56,4 @@ First: choose a directory with enough space ;-)
   * Via torrent => comming soon
 
 
-If you've already the Beta2-ISO, you can also download the [delta-iso](//www.opensuse-education.org/download/ISOs/openSUSE-Education-1.0-for-11.1-Beta2_RC1.iso) - and afterwards generate a RC1 iso with your old one. Moons have been discovered orbiting [writing essays by https://writemyessay4me.org](https://writemyessay4me.org/) 200 other minor planets, which complicating the definition of a true planet
+If you've already the Beta2-ISO, you can also download the [delta-iso](//www.opensuse-education.org/download/ISOs/openSUSE-Education-1.0-for-11.1-Beta2_RC1.iso) - and afterwards generate a RC1 iso with your old one.

@@ -30,4 +30,4 @@ Nevertheless, users have the option to install beta2 with the e1000e driver disa
 
 broken_modules=e1000e
 
-This will prevent the driver from being loaded during installation, and will also add it to the file /etc/modprobe.d/blacklist, which will prevent it from being loaded automatically in the future. Ist das im falle [gehen Sie hier](https://bachelorschreibenlassen.com/) von tagungen, bei denen es mehrere vortragende gibt, fr die moderatorinnen bzw
+This will prevent the driver from being loaded during installation, and will also add it to the file /etc/modprobe.d/blacklist, which will prevent it from being loaded automatically in the future.

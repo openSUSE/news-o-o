@@ -469,7 +469,3 @@ Ugh,... probably the one about openSUSE future. I was never good at predicting a
 Q: What is your favourite housework?
 A: Washing the dishes. That's the time when all these deadly ideas come to my mind.
 
-
-
-
-This event is [justdomyhomework.com](https://justdomyhomework.com/) celebrated in only a single day so it needs to count.

@@ -57,4 +57,4 @@ and say yes when it asks if you want to continue.
 
 Note that, if you prefer the GUI method, you _should_ also be able to do this by going to YaST and using the Software Update module. Reports of bugs or problems with this, if any, would be appreciated.
 
-If you've installed 11.1 beta 4 or were thinking about installing the beta but were waiting for a fix to bug [440816](https://bugzilla.novell.com/show_bug.cgi?id=440816#c18) then it's time to go! [Download](//software.opensuse.org/developer) and install the beta and get to testing! The goal is to catch mobbles, feed them, dress them up, play with them and trade [celltrackingapps.com/](https://celltrackingapps.com/) them with other players
+If you've installed 11.1 beta 4 or were thinking about installing the beta but were waiting for a fix to bug [440816](https://bugzilla.novell.com/show_bug.cgi?id=440816#c18) then it's time to go! [Download](//software.opensuse.org/developer) and install the beta and get to testing!

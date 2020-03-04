@@ -80,4 +80,4 @@ Find/Enter more on [//devzilla.novell.com/education/](//devzilla.novell.com/educ
 
 A detailed [changelog](//www.opensuse-education.org/download/repo/1.0/11.1/ChangeLog) is also available. So left to say: Have a lot of fun testing openSUSE and Education!
 
-Thanks to all for packaging, testing and/or discussing (in IRC on #opensuse-edu or in our [mailinglist](//lists.opensuse.org/opensuse-edu/))! Wer sich fr ihr angebot interessiert, mchte [bachelorarbeit](https://bachelorschreibenlassen.com/) nmlich auch etwas ber sie wissen
+Thanks to all for packaging, testing and/or discussing (in IRC on #opensuse-edu or in our [mailinglist](//lists.opensuse.org/opensuse-edu/))!

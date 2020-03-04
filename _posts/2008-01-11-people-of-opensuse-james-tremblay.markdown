@@ -454,5 +454,3 @@ The one about the picture of things I wanted to share.
 What would you ask of the openSUSE community?
 Please help with the EDU-CD by creating build packages for, testing and reviewing the software in the EDU wish list and repositories.
 
-
-Sipa will accept any gre test scores that are no more than 5 years old by the [reveal](https://justbuyessay.com/) date of application

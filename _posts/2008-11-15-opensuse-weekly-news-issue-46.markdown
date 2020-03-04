@@ -34,4 +34,4 @@ The openSUSE Weekly News is translated to:
 [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/46), 
 [Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/46), 
 [Portuguese](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/46) (delayed) and 
-[Indonesian](//en.opensuse.org/OpenSUSE_Weekly_News/46/indonesian)  (delayed). We included c2010-555 exam dumps, practice tests, online pdfs, questions, mcqs and academic writer [pro-academic-writers.com](https://pro-academic-writers.com/) many more preparation material in our product from which it students can prepare for the exam easily
+[Indonesian](//en.opensuse.org/OpenSUSE_Weekly_News/46/indonesian)  (delayed).

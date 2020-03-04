@@ -15,4 +15,3 @@ categories:
 
 We have it! :-) 
 
-The [see facts here now](https://midnightpapers.com/) world certainly seems to be getting smaller all the time

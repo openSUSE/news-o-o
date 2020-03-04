@@ -89,4 +89,4 @@ We are looking forward to a second edition next year, ENOS 2008. Any volunteers 
   * Web: [//opensusept.org/](//opensusept.org/)
 
 
-Thanks to all attendees for participating!! Ob sie jeden account zurckfolgen, der ihnen folgt, bleibt ihnen [essay schreiben lassen using https://schreib-essay.com](https://schreib-essay.com/) berlassen
+Thanks to all attendees for participating!!

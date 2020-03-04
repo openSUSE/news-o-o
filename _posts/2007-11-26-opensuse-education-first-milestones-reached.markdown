@@ -51,4 +51,4 @@ More details can be found on the project's [Wiki pages](//en.opensuse.org/Educat
 
 
 
-Lars Vogdt And self-publishing relief explained how to determine if self-publishing is, in fact, the right path for [college essay writer for pay](https://pro-essay-writer.com/) you
+Lars Vogdt

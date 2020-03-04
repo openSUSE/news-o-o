@@ -451,5 +451,3 @@ This one - and the traveling through time.
 
 Let's safe that one for another time ;-)
 
-
-Du hast dich entschieden, mit einem schreibcoach, nmlich gitte hrter, [https://best-ghostwriter.com/](https://best-ghostwriter.com/) zusammenzuarbeiten

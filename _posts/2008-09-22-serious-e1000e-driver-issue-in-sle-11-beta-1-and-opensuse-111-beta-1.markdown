@@ -34,4 +34,4 @@ Any other hardware, including systems with Intel e1000 (without -e) network card
 
 We will keep you posted. Please watch news.opensuse.org and the opensuse-announce mailing list for more information.
 
-**Update**: Check [this page](//cateee.net/lkddb/web-lkddb/E1000E.html) for a list of devices that use the e1000e driver. It may not be an exhaustive list. If you have an Intel PCI Express PRO/1000 gigabit Ethernet card, it uses the e1000e driver and you should avoid booting or using beta 1. Intel [has instructions](//support.intel.com/support/network/sb/cs-008441.htm) on how to identify your card. essay service [proessaywriting.org](https://proessaywriting.org)
+**Update**: Check [this page](//cateee.net/lkddb/web-lkddb/E1000E.html) for a list of devices that use the e1000e driver. It may not be an exhaustive list. If you have an Intel PCI Express PRO/1000 gigabit Ethernet card, it uses the e1000e driver and you should avoid booting or using beta 1. Intel [has instructions](//support.intel.com/support/network/sb/cs-008441.htm) on how to identify your card.

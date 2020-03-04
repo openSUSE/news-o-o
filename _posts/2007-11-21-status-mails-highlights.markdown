@@ -41,6 +41,3 @@ More information is available in the specific mailing list posts; if you are not
 	
   * [Build Service](//lists.opensuse.org/opensuse-buildservice/2007-11/msg00219.html)
 
-
-
- In [do my homework free](https://justdomyhomework.com/) other words, do what you usually do, but a pay a bit more attention to it

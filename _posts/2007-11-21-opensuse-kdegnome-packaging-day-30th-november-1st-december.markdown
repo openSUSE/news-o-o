@@ -22,4 +22,4 @@ We will help interested newcomers and already experienced packagers in learning 
 
 So join our effort in creating more packages for your favourite Linux Distribution!
 
-Dirk Mueller and Michael Wolf In this way, we can save our [https://writemyessay4me.org/](https://writemyessay4me.org/) plethora of time and in fascinating work
+Dirk Mueller and Michael Wolf

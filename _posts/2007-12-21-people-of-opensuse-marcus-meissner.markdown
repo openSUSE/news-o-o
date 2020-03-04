@@ -499,5 +499,3 @@ The one about the picture I always wanted to share.
 
 None at the moment.
 
-
-Check out this great list of 75 living women writers from abe [best essay writers](https://pro-essay-writer.com/) books

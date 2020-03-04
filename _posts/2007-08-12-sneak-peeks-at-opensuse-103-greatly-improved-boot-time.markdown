@@ -59,5 +59,3 @@ You can see Fengguang Wu's [Boot Linux Faster](//pagecache-tools.googlecode.com/
 
 
 ### Thanks!
-
-Do not forget that when two otherwise equivalent applicants are competing for the same job, the one who has a ccnp collaboration, certification will have the advantage [https://resumecvwriter.com/](https://resumecvwriter.com/) over the applicant that does not

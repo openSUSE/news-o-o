@@ -21,4 +21,4 @@ Meeting agenda:
 [//en.opensuse.org/GNOME/Meetings/20070927](//en.opensuse.org/GNOME/Meetings/20070927)
 
 GNOME meetings info:
-[//en.opensuse.org/GNOME/Meetings](//en.opensuse.org/GNOME/Meetings) Your advisor should be able [pay for essays written](https://essayclick.net/) to help you find an appropriate setting within your community where you can undergo the required training
+[//en.opensuse.org/GNOME/Meetings](//en.opensuse.org/GNOME/Meetings)

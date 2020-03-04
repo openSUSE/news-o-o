@@ -37,6 +37,3 @@ The second issue of openSUSE Weekly News is out! You can read it in: [English](/
 	
   * In Tips and Tricks: Speed up Package Management
 
-
-
- Cue card talk about an interesting tradition or [proessaywriting.org](https://proessaywriting.org) custom in your country

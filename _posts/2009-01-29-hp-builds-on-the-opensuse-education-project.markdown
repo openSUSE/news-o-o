@@ -31,4 +31,4 @@ Going forward, HP and Novell will work to collaborate more closely with the open
 
 We'd also like to thank HP for offering open source to its educational customers. This is another small step towards world domination for Linux.
 
-Thanks again to the openSUSE Education Project for their hard work and patience! We included ctal-tta uk exam dumps, practice tests, online pdfs, questions, mcqs and many more preparation material in our product from [https://justdomyhomework.com/](https://justdomyhomework.com/) which it students can prepare for the exam easily
+Thanks again to the openSUSE Education Project for their hard work and patience!

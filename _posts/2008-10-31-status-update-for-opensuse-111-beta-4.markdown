@@ -18,4 +18,4 @@ After work on the remaining show-stopper bugs we found this week, we have solved
 
 We are confident that we will be able to release on Monday, however, so please check back Monday for the release announcement. Or subscribe to the openSUSE announce mailing list (opensuse-announce+subscribe@opensuse.org) to receive the announcement as soon as the release is ready.
 
-Thanks again for your patience. We look forward to this beta and moving closer to 11.1! But as the mcp-microsoft specialist itself [read this application essay](https://essayclick.net/) is evolving at a higher pace, so even after the mb2-701 microsoft dynamics crm 2013 exam certification, the it students has to update himself with the progression of new technology
+Thanks again for your patience. We look forward to this beta and moving closer to 11.1!

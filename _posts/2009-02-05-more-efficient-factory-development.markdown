@@ -53,4 +53,4 @@ The compare happens via a script, which is part of the distribution. You can fin
 
 Right now we want to stay on the conservative side and release a new build in doubt.  However we might change some tools to avoid writing timestamps into files for example. Or we will enhance the script to ignore some more changes.
 
-This script is active now for all builds within openSUSE:Factory or when you build packages in your projects for it. It is not yet active for builds against other distros, however we might enable it later for them after some more testing. Isqi ctal-tta uk braindumps pdf and vce learning methods offered by us, details [writing an outline for an essay](https://essaydragon.com/) can be obtained from this source
+This script is active now for all builds within openSUSE:Factory or when you build packages in your projects for it. It is not yet active for builds against other distros, however we might enable it later for them after some more testing.

@@ -214,4 +214,4 @@ The 11.1 beta is just one of the releases that will lead to the final 11.1 relea
 
 See [//en.opensuse.org/Mirror_Selection](//en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
 
-Thanks, and have a lot of fun! Pluto is not on the edge of the solar system, [https://pro-essay-writer.com](https://pro-essay-writer.com/) which is 1,000 times farther away
+Thanks, and have a lot of fun! 

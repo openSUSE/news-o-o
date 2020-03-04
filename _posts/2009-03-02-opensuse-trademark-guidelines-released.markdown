@@ -30,4 +30,4 @@ If you want to use the official openSUSE marks, but fall outside the permitted u
 
 For discussion of the guidelines and policies around the openSUSE marks, feel free to ask on the openSUSE-project mailing list. (opensuse-project@opensuse.org, subscribe using opensuse-[project+subscribe@opensuse.org](mailto:project+subscribe@opensuse.org).)
 
-Discussion about openSUSE branding in general can be directed to the openSUSE marketing mailing list (opensuse-marketing@opensuse.org, subscribe using [opensuse-marketing+subscribe@opensuse.org](mailto:opensuse-marketing+subscribe@opensuse.org).) Have the 100% success guarantee by downloading the c9020-560 exam pdf questions online to check the quality of ibm ibm certified specialist exam test questions admission essay writing [www.admission-writer.com/](https://admission-writer.com/) from produmps
+Discussion about openSUSE branding in general can be directed to the openSUSE marketing mailing list (opensuse-marketing@opensuse.org, subscribe using [opensuse-marketing+subscribe@opensuse.org](mailto:opensuse-marketing+subscribe@opensuse.org).)

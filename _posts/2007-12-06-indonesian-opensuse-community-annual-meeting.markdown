@@ -60,4 +60,4 @@ Back to the annual meeting, the event itself will offer some discussion about:
 
 This event is open for all openSUSE and Open Source enthusiasts. Details of announcement in Bahasa Indonesia were already published in "[Kopdar #2 OpenSUSE-ID](//opensuse.or.id/2007/11/29/kopdar-2-opensuse-id/)".
 
-See you there... Be an [proessaywriting.org](https://proessaywriting.org) active note-taker in college, it's not enough to just transcribe what your professor says and writes on the board
+See you there...

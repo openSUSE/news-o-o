@@ -60,4 +60,3 @@ Trended _page views_ per day at openSUSE.org:
 Trended _visits_ at openSUSE.org:
 10.3 peaked at release to 180,000 (average day: 80,000) +125% peak
 
- You will also learn how to manage [essay from experienced writers with](https://writemyessay4me.org/) the social and political issues that are central to making these changes successful over time

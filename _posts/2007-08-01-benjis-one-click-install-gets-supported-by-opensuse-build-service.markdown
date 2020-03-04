@@ -22,5 +22,3 @@ This YaST module is part of openSUSE 10.3 development releases already. Users of
 Example files for trying can be found [in the KDE 4 project](//download.opensuse.org/repositories/KDE:/KDE4/). Clicking on a .ymp file will invoke the YaST module, which shows you the content and asks for the root passwort, if you agree to install it.
 
 Build Service contributors can create .ymp files easily by submitting pattern files. These pattern files contain a list of packages and a description what this set of packages is intended to do. The OBS will create .ymp files based on these patterns and your project configuration for each generated repository. You can find [details here](//lists.opensuse.org/opensuse-buildservice/2007-07/msg00177.html).
-
- It experts may have a need [buy research paper in https://buyresearchpapers.net](https://buyresearchpapers.net/) for their specific cisco 300-075 certification systems to recertify every two to three decades

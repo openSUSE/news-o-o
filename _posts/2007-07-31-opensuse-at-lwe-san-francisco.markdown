@@ -18,4 +18,3 @@ There will be also one talk about the openSUSE Build Service:
 8/07/2007   6:00 PM - 7:00 PM
 
 See you in San Francisco!
- Stress, zeitmangel, fehlendes [https://hausarbeithilfe.com](https://hausarbeithilfe.com/) wissen um die diversen opacs, mangelnde sprachkenntnisse etc

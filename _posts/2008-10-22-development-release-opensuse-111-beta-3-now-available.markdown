@@ -121,4 +121,4 @@ See //en.opensuse.org/Mirror_Selection for a full list of mirrors. Note that you
 **Future Release Announcements**
 Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to Zonker ([zonker@opensuse.org](mailto:zonker@opensuse.org)) with any information that should be in that announcement. (Preferably at least two days before the scheduled release.
 
-Thanks, and have a lot of fun! Spezifisch wrde es heien ich mchte ab dem vierten [besuchen](https://ghostwritinghilfe.com/) ghostwriting monat 500 umsatz pro monat generieren
+Thanks, and have a lot of fun!

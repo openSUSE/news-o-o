@@ -44,4 +44,4 @@ The judges for Hack Week III were: Brady Anderson, Joe 'Zonker' Brockmeier, Olaf
 
 Thanks also to everyone who participated in Hack Week. We had a lot of great ideas and work come out of Hack Week and we learned a lot about getting the openSUSE community outside of Novell involved in Hack Week.
 
-At this time, we're planning another Hack Week in the spring 2009 time frame. More details will be announced then. Have suggestions for future Hack Weeks? Leave a comment here, we'd love to hear them. Mb2-701 microsoft dynamics crm 2013 exam students can easily contact the unit and discuss how to strategically get ready for the mcp-microsoft [midnightpapers](https://midnightpapers.com/) specialist exam
+At this time, we're planning another Hack Week in the spring 2009 time frame. More details will be announced then. Have suggestions for future Hack Weeks? Leave a comment here, we'd love to hear them.
