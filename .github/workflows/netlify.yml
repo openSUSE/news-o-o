@@ -1,0 +1,12 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Wait for Netlify Preview
+      uses: JosephDuffy/wait-for-netlify-action@v1.0
+      with:
+        site_name: news-o-o-preview
