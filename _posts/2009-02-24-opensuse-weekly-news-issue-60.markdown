@@ -43,4 +43,4 @@ The openSUSE Weekly News is available in:
 [Portuguese](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/60),
 [Russian](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/60),
 [Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/60)  and
-[Chinese](//en.opensuse.org/OpenSUSE_Weekly_News/60/chinese) . Com the ibm c9020-560 exam questions and answers dispenses an always responding [help with essay writing within https://eduessayhelper.org/](https://eduessayhelper.org/) unit
+[Chinese](//en.opensuse.org/OpenSUSE_Weekly_News/60/chinese) .

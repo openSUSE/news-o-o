@@ -79,4 +79,3 @@ BTW: For our German users: if you pre-order from the [German shop](//www.edv-buc
 **UPDATE:**I just heard that only the German Box have the flashlights. There are to many problems to send them to other countries because of taxes/customs, batteries are mostly a no-go and other annoying stuff. Sorry.
 
 
- Voraussetzung ist, dass das kind selbst bedrftig ist, also die lebenshaltungskosten [www.schreib-essay.com/seminararbeit/](https://schreib-essay.com/seminararbeit/) nicht anderweitig gedeckt sind

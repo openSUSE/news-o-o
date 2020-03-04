@@ -26,4 +26,3 @@ In this week’s issue:
   * openSUSE Homepage Redesigned
 
 
- Es geht nmlich nicht darum zu zeigen, dass man fleiig war und jede menge literatur [hausarbeithilfe.com](https://hausarbeithilfe.com/) recherchiert hat, sondern es geht darum, die leserinnen und leser bei der hand zu nehmen und wissend durch das dickicht der literatur zu lotsen

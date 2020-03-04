@@ -31,4 +31,3 @@ In this week’s issue:
         
   * linux.com: A video tour of openSUSE 11 (with KDE 4 desktop)
 
-Jupiter kept much more helium and hydrogen when it formed than [www.resume-chief.com/](https://resume-chief.com/) did our planet

@@ -37,4 +37,4 @@ It should be good fun all day (though of course showing up for any amount of tim
 
 The [Bug_Slashing](//opensuse.org/Bug_Slashing) page on the wiki will have more up-to-date news and information on bugs to address, bug handling techniques etc. nearer to the time.
 
-We hope to see you there and Have a Lot of fun! [https://best-ghostwriter.com/referat/](https://best-ghostwriter.com/referat/)
+We hope to see you there and Have a Lot of fun!

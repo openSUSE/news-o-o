@@ -16,4 +16,4 @@ The X Window System developer team at SUSE has released version 1.0.0 of the ATI
 
 The source code was [initially released](//news.opensuse.org/?p=265) to the public on September 18th. Since then numerous features have been added to the driver and numerous issues have been fixed in cooperation with the free software community.
 
-Packages can be found in the [openSUSE Build Service](//download.opensuse.org/repositories/X11:/Drivers:/Video:/radeonhd/), and more information is available on our [X.org wiki page](//wiki.x.org/wiki/radeonhd). The ring was a glow and it burned in his [https://domyhomework.guru/](https://domyhomework.guru/) hand
+Packages can be found in the [openSUSE Build Service](//download.opensuse.org/repositories/X11:/Drivers:/Video:/radeonhd/), and more information is available on our [X.org wiki page](//wiki.x.org/wiki/radeonhd).

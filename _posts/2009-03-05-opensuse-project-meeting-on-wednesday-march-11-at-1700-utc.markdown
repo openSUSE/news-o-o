@@ -29,4 +29,4 @@ For more on IRC meetings, see:
 
 As always, we meet in #opensuse-project on Freenode. Fire up your favorite IRC client and head over to #opensuse-project.
 
-Not familiar with IRC? A good overview can be found at [//www.irchelp.org/](//www.irchelp.org/). This site is not affiliated with openSUSE. For more information on Freenode, see [//freenode.net/](//freenode.net/). By giving some creative learning options to [college-homework-help.org](https://college-homework-help.org/) college homework answers the ibm midrange storage sales v3 exam students, the ibm c9020-560 exam dumps pdf and vce products with verified material
+Not familiar with IRC? A good overview can be found at [//www.irchelp.org/](//www.irchelp.org/). This site is not affiliated with openSUSE. For more information on Freenode, see [//freenode.net/](//freenode.net/).

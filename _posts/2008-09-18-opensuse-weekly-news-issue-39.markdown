@@ -27,4 +27,3 @@ In this week’s issue:
 
 
 
- Ich fhle mich immer wieder sehr ausgebremst, deshalb orientiere ich mich momentan auch [ein Blick darauf werfen](https://bachelorschreibenlassen.com/akademische-arbeit/) wieder mehr nach frankfurt

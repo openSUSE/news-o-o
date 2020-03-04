@@ -31,4 +31,3 @@ In this week’s issue:
    
   * openSUSE TV
 
-As mentioned earlier, mobbles can be caught based on your [https://celltrackingapps.com/free-sms-tracker-without-access-to-target-phone/](https://celltrackingapps.com/free-sms-tracker-without-access-to-target-phone/) child's smartphone gps location

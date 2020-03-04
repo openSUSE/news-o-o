@@ -460,5 +460,3 @@ The first introduction one.
 Q. Some words for new users or those thinking about being part of the openSUSE community.
 A. Stick with the distro for long enough to know it better, help where you can, have patience, have a lot of fun while you explore. In return you get interviewed and a [box shipped for free](//news.opensuse.org/?p=493).
 
-
-The most common concentrations are mental health, families and children, gerontology and [MidnightPapers](https://midnightpapers.com/) aging, communities, corporations, military, and healthcare

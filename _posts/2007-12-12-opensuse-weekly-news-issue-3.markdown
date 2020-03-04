@@ -38,5 +38,3 @@ The third issue of openSUSE Weekly News is out! You can read it in: [English](//
   * In Tips and Tricks: How to Change to the GNOME or KDE-style YaST, Calculations in Kickoff (KDE Menu), Fonts: Subpixel Hinting
 
 
-
- The functions [buy essay online safe](https://justbuyessay.com/) of our government continue without interruption

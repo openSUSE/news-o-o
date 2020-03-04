@@ -34,4 +34,3 @@ In this week’s issue:
         
   * Stephan Binner: New KDE Four Live-CDs 
 
-Because most of the stars and bodies in the universe [https://buyresearchpapers.net/](https://buyresearchpapers.net/) are made or helium or hydrogen, earth is unique, made mostly of iron, oxygen, silicon and other heavy elements

@@ -168,4 +168,3 @@ It would be great if people who want to get involved can join the [#opensuse-gno
 
 ### Thanks!
 
-Work that inspires you no matter what line of work [purchase persuasive essay](https://justbuyessay.com/) you are in, all jobs have their pros and cons

@@ -24,4 +24,4 @@ Thursday 22:
 
 15:00- 17:00 : "Tutorial openSUSE 10.3" already "sold out", registration closed.
 
-In case you are interested to participate on this or other interesting talks please visit [//www.infovalpo.os-solutions.cl/opensource](//www.infovalpo.os-solutions.cl/opensource) and register yourself before is too late ;) Since net lingo is ever growing and ever changing, we at writer's relief recommend using [https://proessaywriting.org/](https://proessaywriting.org) urban dictionary
+In case you are interested to participate on this or other interesting talks please visit [//www.infovalpo.os-solutions.cl/opensource](//www.infovalpo.os-solutions.cl/opensource) and register yourself before is too late ;)

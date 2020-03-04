@@ -27,4 +27,4 @@ As usual, you can do this easily also in the meta data direct via adding the fol
 
 The userid is the usual account name. You can do this easily via `# osc meta prj -e <your_project>` or direct via the api `# kwrite https://api.opensuse.org/source/<your_project>/_meta
 # kwrite https://api.opensuse.org/source/<your_project>/<your_package>/_meta
-` Thylakoids [write my term paper](https://midnightpapers.com/) may be stacked into columns called grana
+`

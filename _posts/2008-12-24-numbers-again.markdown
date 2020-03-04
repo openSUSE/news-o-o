@@ -38,4 +38,4 @@ Other numbers i have so far ...
 
 After all it was again a very successfull release. Thank you all for helping us with it, even it was rather short before Christmas this time.
 
-BTW: because of some "everything has to be done before Christmas" stuff, the contributor gifts are a little bit late this release. But on the other hand it's something really special this time :-) ...over and out, see you again in January :-) The galileo probe [https://eduessayhelper.org/](https://eduessayhelper.org/) writing helper swung by the 20-mile wide asteroid ida and its tiny moon, dactyl
+BTW: because of some "everything has to be done before Christmas" stuff, the contributor gifts are a little bit late this release. But on the other hand it's something really special this time :-) ...over and out, see you again in January :-)

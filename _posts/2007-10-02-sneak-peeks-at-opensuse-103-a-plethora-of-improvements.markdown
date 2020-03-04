@@ -252,4 +252,3 @@ We are also working on enhancing KIWI so that everybody can create custom images
 
 ### Thanks!
 
-[Probieren Sie diese Seite aus](https://hausarbeit-agentur.com/)

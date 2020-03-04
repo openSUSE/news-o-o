@@ -13,4 +13,3 @@ We launched the new shiny design for the [wiki](//en.opensuse.org) on Monday. It
 
 For all wiki maintainers: please look at Frank's [HOWTO](//lists.opensuse.org/opensuse-wiki/2007-09/msg00048.html) mail on the wiki mailinglist.
 
- You may choose a program [online essay writer with https://pro-essay-writer.com](https://pro-essay-writer.com/) that is concentrated on one of these areas, or you may prefer one that is more general in nature

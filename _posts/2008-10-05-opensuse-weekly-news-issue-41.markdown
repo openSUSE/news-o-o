@@ -27,4 +27,3 @@ In this week’s issue:
 
 
 
- As if the characters themselves weren't cute enough [cellspyapps.org/](https://cellspyapps.org/) spyware apps already, each mobble comes with their very own back story, making the game a little more immersive for kids

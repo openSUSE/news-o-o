@@ -524,5 +524,3 @@ The ones where I had to pick the pictures :)
 
 I can't think of anything else right now :)
 
-
-Since you don't have teaching the classics, feel free to skip those lessons [essay writers online](https://pro-essay-writer.com/) entirely and just start with the windows lessons

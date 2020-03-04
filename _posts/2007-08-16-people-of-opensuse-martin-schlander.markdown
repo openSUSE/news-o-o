@@ -488,5 +488,3 @@ Hehe, the "famous person" one, but when the answer occurred to me it was obvious
 Q: What do you think of the questions?
 A: Very good. Especially the "which one was hardest to answer?" one.
 
-
-Ermahnungen des admins nimmt er [Quelle anklicken](https://ghostwritinghilfe.com/) zur kenntnis, eine langfristige vernderung seines verhaltens bewirken die aber meist nicht

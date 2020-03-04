@@ -65,4 +65,3 @@ OK, I better stop here. This is already a pretty long mail - looking forward to 
 
 Greetings, Stephan</blockquote>
 
-The core strategy of the ibm certified specialist c9020-560 [where to find and buy college homework using college-homework-help.org](https://college-homework-help.org/) certification exam revolves around the concept of bringing the denouement to the it students

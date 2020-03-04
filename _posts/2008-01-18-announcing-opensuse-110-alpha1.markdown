@@ -121,4 +121,4 @@ Due to the huge amount of changes, there are also several noticeable bugs:
 
 Please refer to **[software.openSUSE.org/developer](//software.opensuse.org/developer)** for direct links to all the available media.
 
-Have a lot of fun! In everyday language, we tend [https://writemyessay4me.org/](https://writemyessay4me.org/) to use irony as being synonymous with coincidentally
+Have a lot of fun!

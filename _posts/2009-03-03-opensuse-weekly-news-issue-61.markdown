@@ -43,4 +43,3 @@ The openSUSE Weekly News is available in:
 [French](//fr.opensuse.org/Lettre_d'information_openSUSE/61),
 [Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/61) (delay) and
 [Chinese](//en.opensuse.org/OpenSUSE_Weekly_News/61/chinese) .
- Ibm ibm certified specialist exam dumps pdf questions study material provide you best quality ibm ibm midrange storage sales v3 exam to help you [proessaywriting.org/](https://proessaywriting.org) pass the and be a c9020-560 ibm certified specialist certified professional

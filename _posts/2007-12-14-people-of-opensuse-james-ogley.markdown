@@ -461,5 +461,3 @@ Trek or Wars - it's so damn close...
 "Can you direct me to the Post Office please?"
 - Down the footpath, turn right and when you get to the junction, it's opposite you.
 
-
-It was composed of only four of the original points made by [https://justbuyessay.com/](https://justbuyessay.com/) president woodrow wilson

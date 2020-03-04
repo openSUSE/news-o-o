@@ -22,4 +22,4 @@ We will have 2 days of talks, some openSUSE related but some topics are for sure
 
 For latest information what we will do, head over to our [fosdem wiki](//en.opensuse.org/FOSDEM) page where you can also find our devroom schedule. If you want to come, and you really should, enter your name in the wiki and i will print you a openSUSE badge (SUSE/Novell employees will get it automatically). For everybody else: we will record all talks again.
 
-See you at FOSDEM! You can purchase our product at discounted price from our [essayclick.net](https://essayclick.net/) website and can get access to our isqi ctal-tta uk exam braidumps preparation material
+See you at FOSDEM!

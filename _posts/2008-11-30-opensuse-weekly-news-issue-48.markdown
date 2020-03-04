@@ -36,4 +36,4 @@ The openSUSE Weekly News is available in:
 [Polish](//pl.opensuse.org/Tygodnik_openSUSE/48)   (NEW!), 
 [Portuguese](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/48) and 
 [Russian](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/48), 
-[Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/48) (delay). A smart way to handle [https://midnightpapers.com/](https://midnightpapers.com/) the challenges of the ibm c2010-555 dumps pdf questions our preparation product for the ibm c2010-555 exam braindumps enlightens the entrants about the ibm ibm maximo asset management v7
+[Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/48) (delay).

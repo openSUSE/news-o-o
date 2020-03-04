@@ -453,5 +453,3 @@ My family, friends, and dog.
 
 What's better, KDE or Gnome? Actually, like a lot of folks, my answer is "both, or whatever you like best", but I really wish we could just ban the question. :)
 
-
-The next challenge facing humanity is the success of cities with the opportunities and problems they present [https://proessaywriting.org](https://proessaywriting.org) as we enter the twenty-first century

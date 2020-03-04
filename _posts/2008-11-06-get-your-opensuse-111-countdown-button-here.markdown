@@ -100,4 +100,4 @@ The banners have been updated, and [as Pascal Bleser reports](//dev-loki.blogspo
   * Walloon
 
 
-Thanks to everyone who contributed translations, and to Jakub "jimmac" Steiner for doing the artwork. Pascal has full instructions on adding one of the banners to your site (we have small, medium, and large banners) and everything you'd want to know about the countdown banner. Com, you can check different buy essays [justbuyessay.com](https://justbuyessay.com/) exciting features of our ibm maximo asset management v7
+Thanks to everyone who contributed translations, and to Jakub "jimmac" Steiner for doing the artwork. Pascal has full instructions on adding one of the banners to your site (we have small, medium, and large banners) and everything you'd want to know about the countdown banner.

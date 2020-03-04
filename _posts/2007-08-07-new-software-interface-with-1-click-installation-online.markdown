@@ -34,5 +34,3 @@ A demo screenshot of it:
 
 
 [![Example Search for Filelight](//news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png)](//news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png)
-
-Credibility of ccnp collaboration, cisco earning implementing cisco ip telephony and video certification, especially a sequence of ccnp collaboration, certification from the same source, will [https://proessaywriting.org](https://proessaywriting.org) provide immediate professional reliability

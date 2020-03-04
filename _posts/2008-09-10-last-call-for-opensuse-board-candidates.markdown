@@ -26,4 +26,4 @@ The new board members will be elected for either one or two years, starting firs
 
 openSUSE membership is granted to those who have made continued and substantial contributions to the openSUSE Project. Members are approved by the openSUSE Board, and membership must be submitted by September 24th for members to be eligible to vote in this election.
 
-If you have any questions, feel free to contact the [election committee](mailto:election-officials@opensuse.org). Welche vorteile [https://hausarbeit-agentur.com/facharbeit/](https://hausarbeit-agentur.com/facharbeit/) hat ein tagesplan in form einer strukturierten to-do-liste
+If you have any questions, feel free to contact the [election committee](mailto:election-officials@opensuse.org).

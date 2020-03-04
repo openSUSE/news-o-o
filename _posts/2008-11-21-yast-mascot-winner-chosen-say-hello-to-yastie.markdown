@@ -24,4 +24,4 @@ We had a lot of great submissions, and it wasn't easy picking the best idea out 
 
 As we mentioned in the contest guidelines, we were looking for an idea for the mascot, and not necessarily the final artwork. We want to make sure that the YaST Mascot fits with other openSUSE artwork and branding. Our own Jakub Steiner (jimmac) is going to work on the final artwork, and we'll be showing that very soon.
 
-Thanks again to everyone who participated! With years [homework-writer.com](https://homework-writer.com/) of experience in providing ibm ibm maximo asset management v7
+Thanks again to everyone who participated!

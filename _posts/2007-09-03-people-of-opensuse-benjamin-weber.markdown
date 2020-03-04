@@ -505,5 +505,3 @@ The one about something to share, as I couldn't think of an answer.
 
 Sometimes people ask "What does your desktop look like?" Mine this morning is [benjiweber.co.uk/desktop20070829.png](//benjiweber.co.uk/desktop20070829.png)
 
-
-Wenn sie also keine literatur finden, liegt das nicht daran, dass das thema unerforscht hausarbeit schnell schreiben [https://hausarbeit-agentur.com](https://hausarbeit-agentur.com/) ist, sondern hat hchstwahrscheinlich damit zu tun, dass sie nicht wissen, wie sie suchen mssen

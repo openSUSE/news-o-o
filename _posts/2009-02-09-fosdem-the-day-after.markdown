@@ -23,4 +23,4 @@ FOSDEM is not possible with the help from a lot of people, actually that are to 
 
 [![img_2167](//farm4.static.flickr.com/3493/3263012414_21cb3ed3d5_m.jpg)](//www.flickr.com/photos/notlocalhorst/3263012414/) [![img_2172](//farm4.static.flickr.com/3492/3262234473_b2ceb741ab_m.jpg)](//www.flickr.com/photos/notlocalhorst/3262234473/) [![img_2175](//farm4.static.flickr.com/3351/3263023842_9c026e2d7a_m.jpg)](//www.flickr.com/photos/notlocalhorst/3263023842/)
 
-(some pics on my [flickr page](//www.flickr.com/photos/notlocalhorst/sets/72157613502371464/)) [essayclick.net](https://essayclick.net/)
+(some pics on my [flickr page](//www.flickr.com/photos/notlocalhorst/sets/72157613502371464/))

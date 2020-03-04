@@ -72,4 +72,4 @@ GNOME users will continue to use their PackageKit-based updating application.
 ### Ready for openSUSE 11.1?
 
 
-This is just the start of what's available in openSUSE 11.1! openSUSE 11.1 ships December 18th, 2008 for both download and boxed editions, so stay tuned for more Sneak Peeks and all other news about openSUSE 11.1! Ibm c2010-555 braindumps pdf and vce [https://eduessayhelper.org/](https://eduessayhelper.org/) learning methods offered by us, details can be obtained from this source
+This is just the start of what's available in openSUSE 11.1! openSUSE 11.1 ships December 18th, 2008 for both download and boxed editions, so stay tuned for more Sneak Peeks and all other news about openSUSE 11.1!

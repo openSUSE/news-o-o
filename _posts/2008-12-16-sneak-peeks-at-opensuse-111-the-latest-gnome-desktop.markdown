@@ -133,4 +133,4 @@ openSUSE 11.1 includes a revamped login screen for GNOME. Simply click on your n
 ## Counting Down the Days
 
 
-With only days to go until [openSUSE 11.1](//en.opensuse.org/openSUSE_11.1) is released and you can try these features for yourself, so get ready! Plus, there are more Sneak Peeks coming in the next few days, so stay tuned to openSUSE News for all things openSUSE! Sometimes, we wonder [https://pro-academic-writers.com](https://pro-academic-writers.com/) what it would be like to travel in space
+With only days to go until [openSUSE 11.1](//en.opensuse.org/openSUSE_11.1) is released and you can try these features for yourself, so get ready! Plus, there are more Sneak Peeks coming in the next few days, so stay tuned to openSUSE News for all things openSUSE! 

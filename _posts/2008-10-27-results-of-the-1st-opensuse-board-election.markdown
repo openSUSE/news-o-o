@@ -192,4 +192,4 @@ A total of 75.11% (178 of 237) voters participated in the poll. Voters had the o
 
 The final count does not convey how close the election was in some parts, but it does show that the openSUSE community is committed to ensuring that they take a stake in their own project and that the understand that to make the project prosper they need to be active.
 
-The election committee wants to thank the first openSUSE Board, Marcus 'darix' Rückert and Joe 'Zonker' Brockmeier for their ongoing support. In addition to this we want to thank again all openSUSE members for their participation. Sadly these expectations can get tarnished by a drop of pace in the mb2-701 microsoft dynamics crm 2013 exam pdf [online free homework help cis](https://homeworkhelper.net/) questions training
+The election committee wants to thank the first openSUSE Board, Marcus 'darix' Rückert and Joe 'Zonker' Brockmeier for their ongoing support. In addition to this we want to thank again all openSUSE members for their participation.

@@ -38,4 +38,3 @@ The openSUSE Weekly News is available in:
 [Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/53).
 
 New: Short version in [Hungarian](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/53) .
- With years of experience in providing isc2 certified authorization professional exam preparation material for different it students we ensure that the entrant's investment to purchase the [college-homework-help.org](https://college-homework-help.org/) content is always worth it

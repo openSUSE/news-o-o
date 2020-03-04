@@ -34,4 +34,4 @@ In order to safeguard JAD and its future development, a registered promotion ass
 The project would like to thank all the testers and early adopters for their assistance in creating JAD 1.0. Not to forget all the good discussions in blogs, forums and magazines. The overwhelmingly positive response from musicians was very encouraging. We received feedback from the whole world, where JAD 1.0 is now used in recording studios, schools, workshops and youth centers.
 
 On behalf of the JackLab Team,
-Michael Bohle. The decision to make a career shift to a service-oriented position can be a scary one, but if you do make the leap, you may ultimately be happier with your life's [dissertation writing services by dissertationauthors.com/](https://dissertationauthors.com/) work
+Michael Bohle.

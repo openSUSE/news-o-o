@@ -130,4 +130,4 @@ The list of annoying bugs is getting smaller! Still, a few things that we need t
 
 Note to openSUSE contributors: If you have any changes or features to call out for future release announcements, please send an email to [Zonker](mailto:zonker@opensuse.org) with any information that should be in that announcement. (Preferably at least two days before the scheduled release.
 
-Thanks, and have a lot of fun! You can easily pass the exam of ibm [go to my portal](https://paper-writer.org/) maximo asset management v7
+Thanks, and have a lot of fun!

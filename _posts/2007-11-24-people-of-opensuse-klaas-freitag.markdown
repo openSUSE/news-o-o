@@ -457,5 +457,3 @@ The Motto.
 What other open source communities are you part of?
 My answer: KDE
 
-
-Di kilang modern, pertamina [pay to do my homework](https://justdomyhomework.com/) solusi bahan bakar berkualitas dan ramah lingkungan sekitar alam ada tiga aplikasi utama dari proses thermal cracking visbreaking, unit minyak gas panas dan kokas

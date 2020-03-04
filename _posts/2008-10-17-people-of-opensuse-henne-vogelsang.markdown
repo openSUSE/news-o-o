@@ -439,4 +439,3 @@ Oxygen, Water, Food.
 
 The time travel one. Everything you answer sounds stupid. It's time travel. It makes your head spin...
 
-Have the 100% success guarantee by downloading the mb2-701 exam pdf questions online to check [https://college-homework-help.org](https://college-homework-help.org/) the quality of microsoft microsoft dynamics crm 2013 exam test questions from produmps

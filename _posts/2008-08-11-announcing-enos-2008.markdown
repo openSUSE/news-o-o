@@ -95,4 +95,3 @@ Big thanks to **[Porto Linux](//www.portolinux.org/)**, **[ISEP](//www.isep.ipp.
 	
   * Web: [//opensusept.org/](//opensusept.org/)
 
-Computer models jupiter's ocean is 40,000 [how to teach academic writing in high school](https://pro-academic-writers.com/) km deep, as deep as earth is around

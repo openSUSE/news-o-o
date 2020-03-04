@@ -31,4 +31,3 @@ In this week’s issue:
 
   * KDE in openSUSE 11.1 and beyond
 
-[online essay writing service review](https://justbuyessay.com/)

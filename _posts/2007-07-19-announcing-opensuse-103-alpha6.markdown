@@ -14,4 +14,4 @@ categories:
 
 openSUSE 10.3 Alpha6 has been released to the public today.
 
-[Read more about it ](//lists.opensuse.org/opensuse-announce/2007-07/msg00005.html). Instructor-led it coaching, especially coaching that brings to ccnp collaboration, certification, usually contains some hands-on work whether through an online atmosphere or with actual physical devices academic writers online [pro-academic-writers.com](https://pro-academic-writers.com/) and software
+[Read more about it ](//lists.opensuse.org/opensuse-announce/2007-07/msg00005.html).

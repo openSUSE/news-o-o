@@ -43,4 +43,4 @@ Let me point out some major new features i like and which are quite visible:
   * Features can be tagged now, and of course there is a nice tag cloud on the dashboard
 
 
-You can look at the full [changelog](https://forgesvn1.novell.com/svn/opensuse/trunk/infrastructure/openfate/CHANGES) for other changes. Thanks to the openfate team for including the new features quite short after the initial release! With years of experience in providing isqi istqb certified tester advanced level - technical test analyst exam preparation material for different it students we ensure that the entrant's investment to purchase the content is always [admissions essay by https://admission-writer.com](https://admission-writer.com/) worth it
+You can look at the full [changelog](https://forgesvn1.novell.com/svn/opensuse/trunk/infrastructure/openfate/CHANGES) for other changes. Thanks to the openfate team for including the new features quite short after the initial release!

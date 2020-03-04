@@ -38,7 +38,3 @@ We are very glad to be able to announce the [first ever issue](//en.opensuse.org
 	
   * In Tips and Tricks: How to install openSUSE on a Mac Mini, and how to get Screenlets on openSUSE.
 
-
-
-
- The [type my essay](https://writemyessay4me.org/) gazelle grazed peacefully, its back to the lion, while the great cat crept closer and closer, then pounced

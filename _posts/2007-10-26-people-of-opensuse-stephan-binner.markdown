@@ -468,4 +468,3 @@ You're kidding - it's already over?
 I would answer "kded" - serving mostly in the background but without it much would not work.
 
 
-Bloggen schreibwerkstatt-news ab [hier finden](https://bachelorschreibenlassen.com/akademische-arbeit/) herbst biete ich den bloggerkurs auch in linz an

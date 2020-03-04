@@ -57,4 +57,4 @@ Currently, I am researching on a somewhat complicated idea to achieve a more fin
 
 The outdated [wiki pages](//en.opensuse.org/Mirrors_Released_Version) that list mirrors need to be replaced by real-time lists generated from the mirror database. I don't know when I/we get around to do this. If anyone would like to hack on a web frontend for the mirror database (I am picturing a TurboGears app that integrates with the existing Python mirror toolbox), contribution would be most welcome; let me know if you are interested!
 
-_See [//mirrorbrain.org](//mirrorbrain.org/) for more info about the framework we use. Info for site operators interested in mirroring us is to be found [here](//en.opensuse.org/Mirror_Infrastructure)._ The biggest ocean in the solar system is on buy essays [pop over to the portal](https://essayclick.net/) jupiter
+_See [//mirrorbrain.org](//mirrorbrain.org/) for more info about the framework we use. Info for site operators interested in mirroring us is to be found [here](//en.opensuse.org/Mirror_Infrastructure)._

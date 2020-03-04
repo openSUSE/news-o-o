@@ -485,5 +485,3 @@ Q: What's the actual state of openSUSE and open source in general in your countr
 
 A: Open source is conquering more homes and enterprises than ever. openSUSE is also conquering quickly but slowly compared with Ubuntu (most users are using Ubuntu due to its aggressive marketing).
 
-
-[click here to scan](https://justdomyhomework.com/)

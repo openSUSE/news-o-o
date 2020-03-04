@@ -23,4 +23,4 @@ Also, if you're interested in helping out, please [add your name](//en.opensuse.
 
 In addition to mentors (and students...) we'll need help finding mentors, reviewing GSoC applications, facilitating communication during GSoC, and so forth. (Again, see the wiki!)
 
-If you have questions about openSUSE and GSoC, ask on the opensuse-project list. Sadly these expectations can get [https://justbuyessay.com/](https://justbuyessay.com/) tarnished by a drop of pace in the c9020-560 ibm certified specialist exam pdf questions training
+If you have questions about openSUSE and GSoC, ask on the opensuse-project list.

@@ -38,4 +38,3 @@ The openSUSE Weekly News is available in:
 [Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/54).
 
 New: Short version in [Hungarian](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/54) .
- Isc2 cap braindumps pdf and [https://topadmissionessay.com](https://topadmissionessay.com/) vce learning methods offered by us, details can be obtained from this source

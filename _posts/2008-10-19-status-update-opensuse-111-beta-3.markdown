@@ -20,4 +20,4 @@ A quick status update on openSUSE 11.1 beta 3. The DVD installation ISOs were no
 
 The team will try another test build Monday morning and see what the state of the build is. If those work well, we should be able to push out a release Tuesday. Otherwise beta 4 will be delayed further and we will provide further updates.
 
-We're sorry for the delays, but we are more interested in pushing out a usable beta 3 release than rushing something out the door that isn't suitable for widespread testing. The core strategy of the microsoft dynamics crm 2013 mb2-701 certification exam revolves around the concept of bringing buy essay [reply](https://justbuyessay.com/) the denouement to the it students
+We're sorry for the delays, but we are more interested in pushing out a usable beta 3 release than rushing something out the door that isn't suitable for widespread testing.

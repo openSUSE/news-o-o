@@ -50,4 +50,4 @@ Another important change is that we have moved the PowerPC packages to their [ow
 
 This new setup should make it easier to mirror subsets of the Factory distribution, without breaking any repository metadata. This means mirrors can just sync the most important stuff like the main repository and ignore the rest. We hope to get factory on more mirrors around the world with this setup.
 
-We plan to implement this until next week. [how to writer paper introductiob](https://paper-writer.org/)
+We plan to implement this until next week.

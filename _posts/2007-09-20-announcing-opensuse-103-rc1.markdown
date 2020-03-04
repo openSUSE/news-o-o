@@ -104,4 +104,4 @@ openSUSE 10.3 RC1 for i386, x86-64 and ppc is available as different media sets.
 
 [![communicate.png](//news.opensuse.org/wp-content/uploads/2007/09/communicate.png)](//opensuse.org/Communicate)Please report all bugs you find on in our bugzilla as explained on [//bugs.opensuse.org](//bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](//lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community -- including IRC, Mailing Lists, and Forums -- take a look at the [Communicate](//opensuse.org/Communicate) wiki page.
 
-The next [planned release](//en.opensuse.org/Roadmap/10.3) is the openSUSE 10.3 final release, on the Thursday, 4th October! However, when you look back on your career, you will be more satisfied if you know you made a difference in the [https://proessaywriting.org/](https://proessaywriting.org) world
+The next [planned release](//en.opensuse.org/Roadmap/10.3) is the openSUSE 10.3 final release, on the Thursday, 4th October!

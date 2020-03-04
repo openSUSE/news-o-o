@@ -506,5 +506,3 @@ None.
 How to put more hours in a day?
 I don't know.
 
-
-Read the source content, and [do my homework for money](https://domyhomework.guru/) divide it into sections according to headings and subheadings or other delineation
