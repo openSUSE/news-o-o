@@ -3,7 +3,7 @@ author: Douglas DeMaio
 date: 2020-03-04 13:10:14+00:00
 layout: post
 title: Plasma, VIM, Wireshark update in Tumbleweed
-image: /wp-content/uploads/2020/02/Screenshot-from-2020-02-25-10-35-17.png
+image: /wp-content/uploads/2016/09/Icon-1.png
 categories:
 - Announcements
 - Tumbleweed
