@@ -11,6 +11,6 @@ categories:
 - Project
 ---
 
-The [YaST survey](http://news.opensuse.org/?p=405) has now been closed.  More than 11,000 individuals participated in it.  Thanks to everybody!
+The [YaST survey](//news.opensuse.org/?p=405) has now been closed.  More than 11,000 individuals participated in it.  Thanks to everybody!
 
-A PDF of the results is [now available](http://files.opensuse.org/opensuse/en/9/91/YaST-SurveySummary_11172007.pdf).
+A PDF of the results is [now available](//files.opensuse.org/opensuse/en/9/91/YaST-SurveySummary_11172007.pdf).

@@ -13,7 +13,7 @@ tags:
 - Weekly News
 ---
 
-![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #86 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/86)!
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #86 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/86)!
 
 In this week’s issue:
 
@@ -36,4 +36,4 @@ In this week’s issue:
 
 
 For a list of available translations see this page:
-[http://en.opensuse.org/OpenSUSE_Weekly_News/86/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/86/Translations)
+[//en.opensuse.org/OpenSUSE_Weekly_News/86/Translations](//en.opensuse.org/OpenSUSE_Weekly_News/86/Translations)

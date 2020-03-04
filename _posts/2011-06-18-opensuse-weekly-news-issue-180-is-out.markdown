@@ -19,7 +19,7 @@ We are pleased to announce our openSUSE Weekly News Issue 180.
 <!-- more -->
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -31,12 +31,12 @@ We are pleased to announce our openSUSE Weekly News Issue 180.
 
 **Legal Notice**
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
        
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/). 
        The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -44,7 +44,7 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which 
         license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
 Published: 
 2011-06-18    
@@ -97,11 +97,11 @@ Translations
 
 We are pleased to announce our 180th issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy reading :-)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
+## ![Header Picture](//saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 ### Important
 
@@ -110,17 +110,17 @@ The Articles inside this Section are in full. If you are already knowing the stu
 
 “
 
-[openSUSE Conference and RW sessions – the BoF](http://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/)
+[openSUSE Conference and RW sessions – the BoF](//news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/)
 
-![](http://farm2.static.flickr.com/1233/928122581_043479bfd5_m.jpg)
+![](//farm2.static.flickr.com/1233/928122581_043479bfd5_m.jpg)
 
 The openSUSE conference team adopted the UNIX acronym **RWX** for this year’s conference. The goal with this theme is to emphasize the
       stronger focus on getting-things-done and hands-on sessions. So, what sessions are we talking
-      about? In this article we’ll dive into one type of interactive session: the [BoF](http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing)).
+      about? In this article we’ll dive into one type of interactive session: the [BoF](//en.wikipedia.org/wiki/Birds_of_a_Feather_(computing)).
 
 **Definition**
 
-Wikipedia [defines](http://en.wikipedia.org/wiki/Birds_of_a_Feather_(computing)) a BoF as ‘an informal discussion group’, ‘often formed in an ad-hoc
+Wikipedia [defines](//en.wikipedia.org/wiki/Birds_of_a_Feather_(computing)) a BoF as ‘an informal discussion group’, ‘often formed in an ad-hoc
       manner’. It also describes a BoF as ‘an informal meet-up at conferences, where the attendees
       group together based on a shared interest and carry out discussions without any pre-planned
       agenda’.
@@ -137,7 +137,7 @@ The central concepts are informal, shared interests and ad-hoc. What is not 
 
 **Why?**
 
-![](http://farm3.static.flickr.com/2363/2311306708_5a29c44a0b_m.jpg)
+![](//farm3.static.flickr.com/2363/2311306708_5a29c44a0b_m.jpg)
 
 Free Software communities work online in a collaborative fashion. That’s marketing speak
       for: we work together, alone. While each of us sits behind his computer, either alone or with
@@ -165,7 +165,7 @@ At the conference, **Cédric Bosdonnat** wants to discuss
 
 **How?**
 
-![](http://farm1.static.flickr.com/49/171249238_1421d15dca_m.jpg)
+![](//farm1.static.flickr.com/49/171249238_1421d15dca_m.jpg)
 
 Discussions about future directions or day to day business like improving a review process
       or working together more efficiently – all things done better in person. In a BoF, a team
@@ -216,7 +216,7 @@ What do you need to organize a BoF? Almost nothing. Pen and paper (for the todo!
 
 **Scheduling BoF’s**
 
-![](http://farm3.static.flickr.com/2797/4537737867_3ebfc19183_m.jpg)
+![](//farm3.static.flickr.com/2797/4537737867_3ebfc19183_m.jpg)
 
 Usually, BoF’s are scheduled ‘on the spot’ using a big whiteboard in the main hall of the
       conference or on an open wiki page. That can lead to two similar BoF’s or two BoF’s targeting
@@ -237,19 +237,19 @@ The biggest perceived problem with planning a BoF is the inherent contradictio
 
 So go to the conference page and add a BoF!
 
-**License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [GFDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
+<td align="center" >![](//michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
 “
 
-[Manu Gupta: SaX3 – GSoC 2011 – Weekly Report 2](http://sysbytes.wordpress.com/2011/06/12/sax3-gsoc-2011-weekly-report-2/)
+[Manu Gupta: SaX3 – GSoC 2011 – Weekly Report 2](//sysbytes.wordpress.com/2011/06/12/sax3-gsoc-2011-weekly-report-2/)
 
 This is my 2nd report, this week not to show much for the users, but we did a quite
       interesteing things. SaX is now module oriented.So, if anyone wants to write a module for SaX3
@@ -267,9 +267,9 @@ This is my 2nd report, this week not to show much for the users, but we did a qu
 
 The launcher is now complete 
 
-![](http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1304368896g)
+![](//s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1304368896g)
 
- Again, the source code is here[http://github.com./manugupt1/sax3](http://github.com/manugupt1/sax3) Regarding modules, If anyone wants to check out
+ Again, the source code is here[//github.com./manugupt1/sax3](//github.com/manugupt1/sax3) Regarding modules, If anyone wants to check out
       how modules work, they work using .desktop files  in /usr/share/sax3/modules.d. If you will
       remove it we can remove it from the launcher.
 
@@ -279,7 +279,7 @@ The launcher is now complete 
 
 
       [Ratan Sebastian: GSOC 2011:
-        ssc - Week 3](http://rxvl.in/post/6481353758/gsoc-2011-ssc-week-3)
+        ssc - Week 3](//rxvl.in/post/6481353758/gsoc-2011-ssc-week-3)
 
 This week I was working on the local storage feature of the client. As proposed we were
       going to add and remove packages, repositories and files with a git-like workflow.
@@ -313,14 +313,14 @@ That’s it for this week. I’m going to be working on pretty much the same thi
 
 “
 
-[Fridrich Strba: LibreOffice Visio import filter - shaping up the baby](http://fridrich.blogspot.com/2011/06/libreoffice-visio-import-filter-shaping.html)
+[Fridrich Strba: LibreOffice Visio import filter - shaping up the baby](//fridrich.blogspot.com/2011/06/libreoffice-visio-import-filter-shaping.html)
 
 Maybe you were asking yourself what happened in the Google Summer of Code Visio Import
       filter project since [last
-        week](http://fridrich.blogspot.com/2011/06/libreoffice-visio-import-filter-first.html). But even if you did not ask yourself this necessary question, here is some
+        week](//fridrich.blogspot.com/2011/06/libreoffice-visio-import-filter-first.html). But even if you did not ask yourself this necessary question, here is some
       update about the baby:
 
-The focus this week was mainly on shaping the baby up. [Eilidh](http://www.derivativezero.com/blog/) added to her blog a photo and an
+The focus this week was mainly on shaping the baby up. [Eilidh](//www.derivativezero.com/blog/) added to her blog a photo and an
       "About" line and then she got exhausted and decided to rest by coding. And it is like this
       that she implemented polylines, ellipses and circular arcs.
 
@@ -331,7 +331,7 @@ And since the images speak louder then any words, enjoy the look: (...)
 “
 
 [Christos Bountalis: A utility for merging configuration / sysconfig files – Week 4
-        Report](http://cbounta.wordpress.com/2011/06/17/a-utility-for-merging-configuration-sysconfig-files-week-4-report/)
+        Report](//cbounta.wordpress.com/2011/06/17/a-utility-for-merging-configuration-sysconfig-files-week-4-report/)
 
 This is the 4rth week report, a lot of coding this week, you can see some code on my
       project github under branch working. Yes the code there is still not stable, but I am
@@ -375,58 +375,58 @@ The basic steps for tree matching have already been implemented, the goal now is
 
 “
 
-[Justine Leng: 6.17.2011 Weekly Report](http://obsforandroid.wordpress.com/2011/06/17/6-17-2011-weekly-report/)
+[Justine Leng: 6.17.2011 Weekly Report](//obsforandroid.wordpress.com/2011/06/17/6-17-2011-weekly-report/)
 
-This week, I primarily focused on accumulating community feedback on my [request page makeover suggestions](http://obsforandroid.wordpress.com/2011/06/09/obs-mobile-request-page-makeover/), and refining the features accordingly.
+This week, I primarily focused on accumulating community feedback on my [request page makeover suggestions](//obsforandroid.wordpress.com/2011/06/09/obs-mobile-request-page-makeover/), and refining the features accordingly.
 
 So based on the limited but helpful user feedback I received, I’ve made the following
       changes: (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
-### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
+### ![Header Picture](//saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
 Important Links
 
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
-  * [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
-  * [Bug Reporting FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+  * [Bug Reporting FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 ### Team Reports
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
+#### ![Header Picture](//saigkill.homelinux.net/images/GNOME-foot.jpg)GNOME Team
 
 “
 
 
-          [Pavol Rusnak: GNOME-Shell Extension: YaST (item in) Status Menu](http://stick.gk2.sk/blog/2011/06/gnome-shell-extension-yast-status-menu/)
+          [Pavol Rusnak: GNOME-Shell Extension: YaST (item in) Status Menu](//stick.gk2.sk/blog/2011/06/gnome-shell-extension-yast-status-menu/)
         
 
-This is just a short follow-up to my older blogpost [Adding YaST menuitem to GNOME 3 status menu](http://stick.gk2.sk/blog/2011/05/adding-yast-menuitem-to-gnome-3-status-menu/). Few minutes ago [Andy](http://www.wafaa.eu/) asked me if I could create a proper gnome-shell
-          extension so I went ahead and did it. ![](http://stick.gk2.sk/blog/wp-includes/images/smilies/icon_smile.gif)
+This is just a short follow-up to my older blogpost [Adding YaST menuitem to GNOME 3 status menu](//stick.gk2.sk/blog/2011/05/adding-yast-menuitem-to-gnome-3-status-menu/). Few minutes ago [Andy](//www.wafaa.eu/) asked me if I could create a proper gnome-shell
+          extension so I went ahead and did it. ![](//stick.gk2.sk/blog/wp-includes/images/smilies/icon_smile.gif)
 
-I’ve set a [git repo on Gitorious](https://gitorious.org/opensuse/gnome-shell-extension-yast-status-menu) and also built the package in my [home:prusnak](http://bit.ly/lVV2VS) project. If there will be interest from our GNOME Team, I will
+I’ve set a [git repo on Gitorious](https://gitorious.org/opensuse/gnome-shell-extension-yast-status-menu) and also built the package in my [home:prusnak](//bit.ly/lVV2VS) project. If there will be interest from our GNOME Team, I will
           create a submit request to some GNOME devel project and Factory as well.
 
 If you don’t know this yet, you have to install
           theýgnome-shell-extension-yast-status-menu and then either logout and login or press
           Alt+F2 and type “r” (which will restart gnome-shell).
 
-Enjoy! ![](http://stick.gk2.sk/blog/wp-includes/images/smilies/icon_smile.gif)
+Enjoy! ![](//stick.gk2.sk/blog/wp-includes/images/smilies/icon_smile.gif)
 
-![](http://stick.gk2.sk/blog/wp-content/uploads/2011/05/gnome3-menu-yast.png)
+![](//stick.gk2.sk/blog/wp-content/uploads/2011/05/gnome3-menu-yast.png)
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
 “
 
@@ -439,11 +439,11 @@ Next week the current beta of KDE 4.7 will land in openSUSE Factory. The major c
           machines, we would like to emphasize that if you do use KDE PIM on Factory as your main
           mail client, be prepared to help us troubleshoot it.
 
-submitted via our etherpad: [http://os-news.ietherpad.com/2?](http://os-news.ietherpad.com/2)
+submitted via our etherpad: [//os-news.ietherpad.com/2?](//os-news.ietherpad.com/2)
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -466,7 +466,7 @@ Network installation could be improved by running package download and package
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -528,7 +528,7 @@ We need a feedback about packages that are preferred by users and actively used.
             [tuxguitar](https://features.opensuse.org/312503)
           
 
-Since openSUSE 11.4 the program "tuxguitar" ([http://tuxguitar.herac.com.ar](http://tuxguitar.herac.com.ar) ) isn't available any more - not even in a "home" repository.
+Since openSUSE 11.4 the program "tuxguitar" ([//tuxguitar.herac.com.ar](//tuxguitar.herac.com.ar) ) isn't available any more - not even in a "home" repository.
 
 I'd very much appreciate if it was to be found anywhere ready to install.
 
@@ -553,7 +553,7 @@ When setting a static IP address, YaST should check if the specified IP address 
 Please update to the current libraw1394 2.0.7:
 
 
-[http://www.kernel.org/pub/linux/libs/ieee1394/](http://www.kernel.org/pub/linux/libs/ieee1394/)
+[//www.kernel.org/pub/linux/libs/ieee1394/](//www.kernel.org/pub/linux/libs/ieee1394/)
 
 The latest version to be found in opensuse repositories is 2.0.5, which for example isn't sufficient for use with some Firewire Audio-Hardware in combination with latest kernels (aka juju-stack only).
 
@@ -573,65 +573,65 @@ I wish I could define more than 8 conditions in kmail filters
 
 Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org/statistic/product/opensuse_dist)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Events & Meetings
 
 Past
 
-  * [June 10-12, 2011 : southeast linuxfest (Spartanburg, USA)](http://www.southeastlinuxfest.org/)
+  * [June 10-12, 2011 : southeast linuxfest (Spartanburg, USA)](//www.southeastlinuxfest.org/)
 
-  * [June 15, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [June 15, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-  * [June 16, 2011 : GNOME Team Meeting](http://news.opensuse.org/2011/01/11/gnome-team-meeting-3/)
+  * [June 16, 2011 : GNOME Team Meeting](//news.opensuse.org/2011/01/11/gnome-team-meeting-3/)
 
 Upcoming
 
-  * [June 21, 2011 : openSUSE Marketing Team Meeting](http://news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
+  * [June 21, 2011 : openSUSE Marketing Team Meeting](//news.opensuse.org/2011/04/19/opensuse-marketing-team-meeting/)
 
-  * [June 25-29, 2011 : OSCON (Portland, Oregon, USA)](http://www.oscon.com/oscon2011)
+  * [June 25-29, 2011 : OSCON (Portland, Oregon, USA)](//www.oscon.com/oscon2011)
 
-  * [June 29, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [June 29, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-      it on [http://saigkill.homelinux.net/podcasts](http://saigkill.homelinux.net/podcasts). 
+      it on [//saigkill.homelinux.net/podcasts](//saigkill.homelinux.net/podcasts). 
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
 
 “
 
-[Sascha Manns: bleachbit 0.8.8 checked in into openSUSE Build Service](http://saigkill.homelinux.net/entry/2011/06/16/bleachbit-088-checked-in-into-opensuse-build-service)
+[Sascha Manns: bleachbit 0.8.8 checked in into openSUSE Build Service](//saigkill.homelinux.net/entry/2011/06/16/bleachbit-088-checked-in-into-opensuse-build-service)
 
 BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete
       cookies, clear Internet history, shred temporary files, delete logs, and discard junk you
       didn't know was there. Designed for Linux and Windows systems, it wipes clean 90 applications
-      including Firefox, Internet Explorer, Adobe Flash, Google Chrome, Opera, Safari,andý[more](http://bleachbit.sourceforge.net/features). Beyond simply deleting files,
+      including Firefox, Internet Explorer, Adobe Flash, Google Chrome, Opera, Safari,andý[more](//bleachbit.sourceforge.net/features). Beyond simply deleting files,
       BleachBit includes advanced features such as shredding files to prevent recovery, wiping free
       disk space to hide traces of files deleted by other applications, and vacuuming Firefox to
       make it faster. Better than free, BleachBit is open source.
 
-Now i've checked in [bleachbit](http://bleachbit.sourceforge.net/) in
+Now i've checked in [bleachbit](//bleachbit.sourceforge.net/) in
         **version 0.8.8**.
 
 What's happend since the last version? (...)
@@ -641,18 +641,18 @@ What's happend since the last version? (...)
 “
 
 [Bruno Friedmann: ATI/AMD fglrx 8.861 Catalyst 11.6 available for openSUSE 11.2, 11.3, 11.4,
-        Factory](http://lizards.opensuse.org/2011/06/17/atiamd-fglrx-8-861-catalyst-11-6-available-for-opensuse-11-2-11-3-11-4-factory/)
+        Factory](//lizards.opensuse.org/2011/06/17/atiamd-fglrx-8-861-catalyst-11-6-available-for-opensuse-11-2-11-3-11-4-factory/)
 
 Please refer to my [previous
-        article](http://lizards.opensuse.org/?p=6680) where all the installation procedure is explained.
+        article](//lizards.opensuse.org/?p=6680) where all the installation procedure is explained.
 
   * Quick resume :
 
   * There’s no full changelog about them, but [Catalyst 11.6
-            installer](http://www2.ati.com/relnotes/Catalyst_11.6_Linux_Installer.pdf) (pdf)
+            installer](//www2.ati.com/relnotes/Catalyst_11.6_Linux_Installer.pdf) (pdf)
 
   * Get the cheat-sheet [11.6
-            version](http://www.sebastian-siebert.de/downloads/ati-catalyst-11.6-cheat-sheet.pdf)
+            version](//www.sebastian-siebert.de/downloads/ati-catalyst-11.6-cheat-sheet.pdf)
 
   * Kernel supported up to 3.0x version
 
@@ -673,7 +673,7 @@ Some instabilities could happen. In case of crash like no keyboard, mouse, and
           the previous version available in the repos. 
 
 All credits to Sebastian Siebert (freespacer) : [11.6
-            article](http://bit.ly/ljP3a7) (German) 
+            article](//bit.ly/ljP3a7) (German) 
 
 
     
@@ -691,15 +691,15 @@ The new package are called SUSE121 & no more SUSEFACTORY. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
-    refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 “
 
 
-      [SUSE Security Announcement: openSUSE-SU-2011:0633-1: critical: Oracle Java 26](http://lists.opensuse.org/opensuse-security-announce/2011-06/msg00003.html)
+      [SUSE Security Announcement: openSUSE-SU-2011:0633-1: critical: Oracle Java 26](//lists.opensuse.org/opensuse-security-announce/2011-06/msg00003.html)
     
 
 <table frame="void" id="id320046" >Table 1. Security Announce<tr >
@@ -747,7 +747,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 “
 
 
-      [SUSE Security Announcement: openSUSE-SU-2011:0637-1: critical: flash-player: Update to 10.3.181.26](http://lists.opensuse.org/opensuse-security-announce/2011-06/msg00004.html)
+      [SUSE Security Announcement: openSUSE-SU-2011:0637-1: critical: flash-player: Update to 10.3.181.26](//lists.opensuse.org/opensuse-security-announce/2011-06/msg00004.html)
     
 
 <table frame="void" id="id320195" >Table 2. Security Announce<tr >
@@ -792,7 +792,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 </td>
         </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 “
 
@@ -831,20 +831,20 @@ Linus (...)
 
 “
 
-[Rares Aioanei: kernel weekly news – 18.06.2011](http://schaiba.wordpress.com/2011/06/18/kernel-weekly-news-18-06-2011/)
+[Rares Aioanei: kernel weekly news – 18.06.2011](//schaiba.wordpress.com/2011/06/18/kernel-weekly-news-18-06-2011/)
 
 Rares gives his weekly Kernel News from this week.
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
 “
 
 
-        [TechRepublic/Jack Wallen: Five tips for collaborating in LibreOffice](http://www.techrepublic.com/blog/five-tips/five-tips-for-collaborating-in-libreoffice/879)
+        [TechRepublic/Jack Wallen: Five tips for collaborating in LibreOffice](//www.techrepublic.com/blog/five-tips/five-tips-for-collaborating-in-libreoffice/879)
       
 
 Takeaway: Collaboration tools are essential for all sorts of business documents and
@@ -866,7 +866,7 @@ Naturally, as a writer covering open source software, I use the LibreOffice of
 “
 
 
-        [LinuxJournal/Bruce Byfield: Tweaking text in Scribus](http://www.linuxjournal.com/content/tweaking-text-scribus)
+        [LinuxJournal/Bruce Byfield: Tweaking text in Scribus](//www.linuxjournal.com/content/tweaking-text-scribus)
       
 
 In word processors, users generally settle for an appearance that is good enough. By
@@ -883,7 +883,7 @@ That is especially true for text. Scribus not only provides tools for general ma
 “
 
 [Jos
-          Poortvliet: openSUSE and online services](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/)
+          Poortvliet: openSUSE and online services](//news.opensuse.org/2011/06/16/opensuse-and-online-services/)
 
 The ‘cloud’ has been a buzzword for quite a while. While some are still rather cynical
       towards the concept, products like mobile phones with Android have shown the value of putting
@@ -891,7 +891,7 @@ The ‘cloud’ has been a buzzword for quite a while. While some are still rath
       their new cloud service and Microsoft has their cloud too. So with the other major players
       talking cloudy, what does Linux have?
 
-![](http://farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg)
+![](//farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg)
 
 **Variety**
 
@@ -907,9 +907,9 @@ Let’s define Cloud technology as ‘related to putting data online & sharing a
 
 **Integration with online services**
 
-openSUSE brings online services like [Facebook](http://facebook.com),
-        [Flickr](http://flickr.com) and [Youtube](http://youtube.com) to your desktop in a variety of applications. New applications like [UMPlayer](http://www.umplayer.com/) and [Tomahawk](http://tomahawk-player.org/) go out of their way to deeply integrate [twitter](http://twitter.com) or [last.fm](http://last.fm), with Tomahawk even able to
-      play music over a jabber (google-talk) chat connection. Of course, old-timers like [Banshee](http://banshee.fm/) and Amarok also feature music from music stores,
+openSUSE brings online services like [Facebook](//facebook.com),
+        [Flickr](//flickr.com) and [Youtube](//youtube.com) to your desktop in a variety of applications. New applications like [UMPlayer](//www.umplayer.com/) and [Tomahawk](//tomahawk-player.org/) go out of their way to deeply integrate [twitter](//twitter.com) or [last.fm](//last.fm), with Tomahawk even able to
+      play music over a jabber (google-talk) chat connection. Of course, old-timers like [Banshee](//banshee.fm/) and Amarok also feature music from music stores,
       pod casts and other on-line services.
 
 
@@ -920,8 +920,8 @@ Table 3. Install Tomahawk
 <table border="1" summary="Install Tomahawk" ><tbody ><tr >
 <td >
                 [
-                  ![](http://files.opensuse.org/opensuse/en/f/f1/Oneclick.png)
-                ](http://software.opensuse.org/ymp/home:pansenmann:tomahawk-player/openSUSE_11.4/tomahawk.ymp)
+                  ![](//files.opensuse.org/opensuse/en/f/f1/Oneclick.png)
+                ](//software.opensuse.org/ymp/home:pansenmann:tomahawk-player/openSUSE_11.4/tomahawk.ymp)
                 
 
 **openSUSE 11.4**
@@ -929,7 +929,7 @@ Table 3. Install Tomahawk
 </td>
 <td >
                 [
-                  ![](http://files.opensuse.org/opensuse/en/f/f1/Oneclick.png)](http://software.opensuse.org/ymp/home:pansenmann:tomahawk-player/openSUSE_11.3/tomahawk.ymp)
+                  ![](//files.opensuse.org/opensuse/en/f/f1/Oneclick.png)](//software.opensuse.org/ymp/home:pansenmann:tomahawk-player/openSUSE_11.3/tomahawk.ymp)
                 
 
 **openSUSE 11.3**
@@ -948,8 +948,8 @@ Table 4. Install UMPlayer
 <table border="1" summary="Install UMPlayer" ><tbody ><tr >
 <td >
                 [
-                  ![](http://files.opensuse.org/opensuse/en/f/f1/Oneclick.png)
-                ](http://software.opensuse.org/ymp/home:stecue/openSUSE_11.4/umplayer.ymp)
+                  ![](//files.opensuse.org/opensuse/en/f/f1/Oneclick.png)
+                ](//software.opensuse.org/ymp/home:stecue/openSUSE_11.4/umplayer.ymp)
                 
 
 **openSUSE 11.4**
@@ -957,8 +957,8 @@ Table 4. Install UMPlayer
 </td>
 <td >
                 [
-                  ![](http://files.opensuse.org/opensuse/en/f/f1/Oneclick.png)
-                ](http://software.opensuse.org/ymp/home:stecue/openSUSE_11.3/umplayer.ymp)
+                  ![](//files.opensuse.org/opensuse/en/f/f1/Oneclick.png)
+                ](//software.opensuse.org/ymp/home:stecue/openSUSE_11.3/umplayer.ymp)
                 
 
 **openSUSE 11.3**
@@ -969,21 +969,21 @@ Table 4. Install UMPlayer
 
     
 
-Image viewers have engaged online services for a while. [F-Spot](http://f-spot.org/Features) can export to [Flickr](http://www.flickr.com/), [23](http://www.23hq.com/),
-        [Picasa Web](http://picasaweb.google.com/) or [SmugMug](http://www.smugmug.com/). [Shotwell](http://yorba.org/shotwell/) can even export to Youtube. KDE applications [Digikam](http://www.digikam.org/drupal/about/features9x) and it’s companion
-      Showfoto add [Facebook](http://facebook.com), [piwigo](http://piwigo.org/), [shwup](http://www.shwup.com/),
-        [zooomr](http://www.zooomr.com/) and some other sites to the list. They
+Image viewers have engaged online services for a while. [F-Spot](//f-spot.org/Features) can export to [Flickr](//www.flickr.com/), [23](//www.23hq.com/),
+        [Picasa Web](//picasaweb.google.com/) or [SmugMug](//www.smugmug.com/). [Shotwell](//yorba.org/shotwell/) can even export to Youtube. KDE applications [Digikam](//www.digikam.org/drupal/about/features9x) and it’s companion
+      Showfoto add [Facebook](//facebook.com), [piwigo](//piwigo.org/), [shwup](//www.shwup.com/),
+        [zooomr](//www.zooomr.com/) and some other sites to the list. They
       can also export to a HTML gallery and put the images with the locations they were taken at on
-      Google Maps. This is shared KDE infrastructure so you can expect image viewer [Gwenview](http://gwenview.sourceforge.net/) and even screenshot application
-        [ksnapshot](http://www.elpauer.org/?p=509) to be able to directly share
+      Google Maps. This is shared KDE infrastructure so you can expect image viewer [Gwenview](//gwenview.sourceforge.net/) and even screenshot application
+        [ksnapshot](//www.elpauer.org/?p=509) to be able to directly share
       over these services.
 
-It’s not just media tools which integrate with online services. [LibreOffice](http://www.libreoffice.org/) can export and import documents from
-      online office suites like [Google Docs](http://docs.google.com) and [Zoho](http://zoho.com). And of course, mail/agenda/news clients like [Evolution](http://projects.gnome.org/evolution) and [KDE PIM](http://pim.kde.org) have offered integration with online services like
-      mail or calendaring forever. Feed readers like [Liferea](http://liferea.sourceforge.net/) offer syncing your news feed with [Google Reader](http://www.google.com/reader) and [TinyTinyRSS](http://tt-rss.org/).
+It’s not just media tools which integrate with online services. [LibreOffice](//www.libreoffice.org/) can export and import documents from
+      online office suites like [Google Docs](//docs.google.com) and [Zoho](//zoho.com). And of course, mail/agenda/news clients like [Evolution](//projects.gnome.org/evolution) and [KDE PIM](//pim.kde.org) have offered integration with online services like
+      mail or calendaring forever. Feed readers like [Liferea](//liferea.sourceforge.net/) offer syncing your news feed with [Google Reader](//www.google.com/reader) and [TinyTinyRSS](//tt-rss.org/).
 
 Besides integrating with existing services, Free Software projects are starting their own.
-      Prominent examples are GNOME’s [Tomboy](http://projects.gnome.org/tomboy/)
+      Prominent examples are GNOME’s [Tomboy](//projects.gnome.org/tomboy/)
       which synchronizes your notes between instances using an online service.
 
 **More**
@@ -991,23 +991,23 @@ Besides integrating with existing services, Free Software projects are starting 
 But there is more available for openSUSE. There are several file sharing and syncing
       services out there. Look for an article about those tomorrow!
 
-**License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [GFDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
 “
 
 [Jos
-          Poortvliet: openSUSE and online storage and syncing](http://news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/)
+          Poortvliet: openSUSE and online storage and syncing](//news.opensuse.org/2011/06/17/opensuse-and-your-own-cloud/)
 
 The ‘cloud’ has been a buzzword for quite a while. While some are still rather cynical
       towards the concept, products like [mobile phones with
-        Android](http://www.android.com/) have shown the value of putting your data in that [huge, amorphous network of servers somewhere](http://xkcd.com/908/). Apple
-      recently [introduced their new cloud service](http://www.apple.com/icloud/)
-      and Microsoft has their [cloud](http://www.microsoft.com/cloud) too. So with
+        Android](//www.android.com/) have shown the value of putting your data in that [huge, amorphous network of servers somewhere](//xkcd.com/908/). Apple
+      recently [introduced their new cloud service](//www.apple.com/icloud/)
+      and Microsoft has their [cloud](//www.microsoft.com/cloud) too. So with
       the other major players talking cloudy, what does Linux have?
 
-![](http://farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg)
+![](//farm2.static.flickr.com/1165/644335254_4b8a712be5_m.jpg)
 
 **Variety**
 
@@ -1019,7 +1019,7 @@ Let’s define Cloud technology as ‘related to putting data online & sharing a
       available services. This is a key distinction because we’re not owning or controlling the
       cloud that you place your data in. You, the user, get to decide the place where it best fits
       your needs and comfort level. Yesterday we [highlighted
-        integration in our every day applications](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/). Today we focus on file syncing services
+        integration in our every day applications](//news.opensuse.org/2011/06/16/opensuse-and-online-services/). Today we focus on file syncing services
       and especially the cool Free Software project ownCloud!
 
 **File sharing and syncing services**
@@ -1033,8 +1033,8 @@ A file sharing and syncing service helps you keep the files on several computers
       them between your computers, mobile devices and even with other people. SpiderOak is included
       in the openSUSE repositories since openSUSE 11.3.
 
-The popular [Dropbox](http://dropbox.com) service offers a similar
-      online space, and even comes with integration in the [Nautilus file manager](http://live.gnome.org/Nautilus)!
+The popular [Dropbox](//dropbox.com) service offers a similar
+      online space, and even comes with integration in the [Nautilus file manager](//live.gnome.org/Nautilus)!
 
 But both services depend on proprietary server components and need a proprietary daemon to
       run on your system. Dropbox also doesn’t encrypt the data on the server, something Spideroak
@@ -1046,7 +1046,7 @@ But both services depend on proprietary server components and need a proprietary
 
 ![](/wp-content/uploads/2011/06/iFolder2clean_filmgrain_picture.png)
 
-[iFolder](http://www.kablink.org/ifolder) is a Free Software file
+[iFolder](//www.kablink.org/ifolder) is a Free Software file
       storage, backup and sharing solution written in C# and Mono. iFolder comes with a desktop
       client which allows you to manage your iFolders. iFolders can be located on any number of
       servers, each having a number of folders which you can manage independently. Each folder can
@@ -1060,22 +1060,22 @@ iFolder does have some powerful capabilities, especially for corporate environme
       quotas, and limits to the number of iFolders each user has. It integrates in the Desktop with
       a Nautilus plugin which allows you to turn any folder into a shared iFolder and iFolder has
       fully encypted file transfer and storage. Finally, a big plus of iFolder is the excellent
-      documentation which you can find [here](http://ifolder.com/ifolder/documentation).
+      documentation which you can find [here](//ifolder.com/ifolder/documentation).
 
-So unlike Dropbox and SpiderOak, iFolder is fully Free Software and the source is [hosted on sourceforge](http://community.ifolder.com/ssf/a/c/p_name/ss_forum/p_action/1/action/view_permalink/entityType/folderEntry/entryId/4244) and can be found [here](http://sourceforge.net/projects/ifolder/). With 9 commits in the last 2
+So unlike Dropbox and SpiderOak, iFolder is fully Free Software and the source is [hosted on sourceforge](//community.ifolder.com/ssf/a/c/p_name/ss_forum/p_action/1/action/view_permalink/entityType/folderEntry/entryId/4244) and can be found [here](//sourceforge.net/projects/ifolder/). With 9 commits in the last 2
       months it is not a hugely active project and the last release is from November 2009. Still bug
       fixes are being added and lots of improvements were landed in 2010. You can find more
-      up-to-date versions by [searching on OBS](http://software.opensuse.org/search?q=ifolder&baseproject=ALL&lang=en). And it should be noted that this ‘old’ version of iFolder has been offering all the features of Dropbox and
+      up-to-date versions by [searching on OBS](//software.opensuse.org/search?q=ifolder&baseproject=ALL&lang=en). And it should be noted that this ‘old’ version of iFolder has been offering all the features of Dropbox and
       SpiderOak, fully open and free, for years!
 
 **introducing ownCloud**
 
 ![](/wp-content/uploads/2011/06/owncloud-logo.png)
 
-[ownCloud](http://owncloud.org/) is an exciting and much more active
+[ownCloud](//owncloud.org/) is an exciting and much more active
       project, developing file synchronization technology on a Free Software base. However, ownCloud
       is far more ambitious as you can read in [this
-        recent blogpost](http://blog.karlitschek.de/2011/06/yesterday-apple-announced-their-new.html) by lead developer Frank Karlitschek. Frank welcomed Apple to the
+        recent blogpost](//blog.karlitschek.de/2011/06/yesterday-apple-announced-their-new.html) by lead developer Frank Karlitschek. Frank welcomed Apple to the
       Cloud, giving a feature comparision between ownCloud and their cloud offering. He mentioned
       that:
 
@@ -1096,9 +1096,9 @@ It seems that we support everything iCloud is doing and a bit more if you look i
 ”
 
 ownCloud offers all the basics of accessing files via a variety of means including a web
-      interface and WebDAV. WebDAV support means integration in both [Nautilus](http://live.gnome.org/Nautilus) and [Dolphin](http://dolphin.kde.org/), as well as all KDE and most GNOME
+      interface and WebDAV. WebDAV support means integration in both [Nautilus](//live.gnome.org/Nautilus) and [Dolphin](//dolphin.kde.org/), as well as all KDE and most GNOME
       applications. ownCloud can synchronize application data like Bookmarks and settings and allows
-      you to listen to your online music collection in a few ways including from [Ampache](http://ampache.org/) and via the web interface. The same goes for
+      you to listen to your online music collection in a few ways including from [Ampache](//ampache.org/) and via the web interface. The same goes for
       movies and photo’s while PIM syncing is in the works.
 
 ![](/wp-content/uploads/2011/06/ownCloud_Login.jpg)
@@ -1112,28 +1112,28 @@ Above and beyond iCloud, work is going on in ownCloud to offer versioning of all
       expect from them), ownCloud is not so picky, working with Windows, Mac and Linux as well as
       Android, MeeGo and of course the iPhone. This is possible because ownCloud uses open standards
       and works with Free Software where possible, including the mentioned webDav, HTML5, [Open
-        Collaboration Services](http://www.freedesktop.org/wiki/Specifications/open-collaboration-services) and [Ampache](http://ampache.org/). An
+        Collaboration Services](//www.freedesktop.org/wiki/Specifications/open-collaboration-services) and [Ampache](//ampache.org/). An
       access library for applications, to offer better integration with ownCloud, is already
       available and part of the latest openSUSE.
 
 **Upcoming**
 
 And more is [coming in
-        ownCloud 2.0](http://owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html), scheduled for later this year. The UI has been completely redesigned
+        ownCloud 2.0](//owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html), scheduled for later this year. The UI has been completely redesigned
       and there is now media support to play audio and video via the web interface. The mentioned
-      Ampache support, developed by Robin Appelman, will have a nice effect: the awesome [Tomahawk music player](http://tomahawk-player.org/) we [mentioned
-        yesterday](http://news.opensuse.org/2011/06/16/opensuse-and-online-services/) has Ampache support and thus will be able to play music directly from your
+      Ampache support, developed by Robin Appelman, will have a nice effect: the awesome [Tomahawk music player](//tomahawk-player.org/) we [mentioned
+        yesterday](//news.opensuse.org/2011/06/16/opensuse-and-online-services/) has Ampache support and thus will be able to play music directly from your
       ownCloud 2.0 server!
 
 Moreover, user management has been improved as well, and you will be able to extend
       ownCloud with new functionality via apps and plugins! Finally, ownCloud aims to support not
       only Chromium and Firefox but also lesser used browsers like Konqueror. A really exciting
-      feature is being worked on by a [GSOC](http://code.google.com/soc/) student:
+      feature is being worked on by a [GSOC](//code.google.com/soc/) student:
       git versioning of files! There is some UI work to be done, which will then allow you to go
       back in time and see earlier versions of your files.
 
 Aaron, one of the ownCloud developers, gives [his
-        thoughts](http://owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html) on where ownCLoud should go:
+        thoughts](//owncloudtest.blogspot.com/2011/06/owncloud-20-just-merged-with.html) on where ownCLoud should go:
 
 “
 
@@ -1167,19 +1167,19 @@ All this doesn’t have to mean ownCloud is hard to set up. The upcoming 2.0 ver
 **Get ownCloud**
 
 You can install owncloud on your own server or even desktop using the [openSUSE
-        repositories on OBS](http://software.opensuse.org/search?q=owncloud&baseproject=ALL). Be sure to read [the documentation](http://owncloud.org/index.php/Installation#openSUSE) on
+        repositories on OBS](//software.opensuse.org/search?q=owncloud&baseproject=ALL). Be sure to read [the documentation](//owncloud.org/index.php/Installation#openSUSE) on
       starting and managing your ownCloud. You can also use the how-to on [Aaron’s
-        blog](http://owncloudtest.blogspot.com/2011/06/getting-your-owncloud.html) to get the latest and freshest version installed from source! After following
-      the basic installation steps, you just have to go to [127.0.0.1](http://127.0.0.1/owncloud/index.php) in your browser to complete the
+        blog](//owncloudtest.blogspot.com/2011/06/getting-your-owncloud.html) to get the latest and freshest version installed from source! After following
+      the basic installation steps, you just have to go to [127.0.0.1](//127.0.0.1/owncloud/index.php) in your browser to complete the
       setup from the web interface.
 
 However, your ownCloud can be had easier. You can use the excellent [ownCloud-in-a-box SUSE Studio
-        image](http://susegallery.com/a/TadMax/owncloud-in-a-box) to download a virtual image of ownCloud and start running it right away. It
+        image](//susegallery.com/a/TadMax/owncloud-in-a-box) to download a virtual image of ownCloud and start running it right away. It
       gets even more interesting with the [Amazon Elastic
-        Cloud Computing](http://aws.amazon.com/ec2/) support of SUSE Studio. Deploying your image on the Amazon cloud
+        Cloud Computing](//aws.amazon.com/ec2/) support of SUSE Studio. Deploying your image on the Amazon cloud
         [is
-        easy as pie](http://blog.susestudio.com/2011/05/its-never-been-so-ec2-access-cloud.html). You could use [microinstance](http://aws.amazon.com/ec2/instance-types/) for which even a [free 1-year
-        subscription](http://aws.amazon.com/free/) is available. Yes, that’s right, you can have your openSUSE ownCloud under your full
+        easy as pie](//blog.susestudio.com/2011/05/its-never-been-so-ec2-access-cloud.html). You could use [microinstance](//aws.amazon.com/ec2/instance-types/) for which even a [free 1-year
+        subscription](//aws.amazon.com/free/) is available. Yes, that’s right, you can have your openSUSE ownCloud under your full
       control on Amazon EC2 for **FREE** for one year!
 
 If running your own Appliance on EC2, another provider or your own hardware is still a tad
@@ -1194,14 +1194,14 @@ Table 5. Install ownCloud
 
 <table border="1" summary="Install ownCloud" ><tr >
                 [
-                  ![](http://files.opensuse.org/opensuse/en/f/f1/Oneclick.png)](http://software.opensuse.org/ymp/server:php:applications/openSUSE_11.4/owncloud.ymp)
+                  ![](//files.opensuse.org/opensuse/en/f/f1/Oneclick.png)](//software.opensuse.org/ymp/server:php:applications/openSUSE_11.4/owncloud.ymp)
                 
 
 openSUSE 11.4
 
 
                 [
-                  ![](http://files.opensuse.org/opensuse/en/f/f1/Oneclick.png)](http://software.opensuse.org/ymp/server:php:applications/openSUSE_11.3/owncloud.ymp)
+                  ![](//files.opensuse.org/opensuse/en/f/f1/Oneclick.png)](//software.opensuse.org/ymp/server:php:applications/openSUSE_11.3/owncloud.ymp)
 
 openSUSE 11.3
 
@@ -1242,7 +1242,7 @@ We would like to go a step further and claim that the wide variety of hosting op
       Combined with the excellent integration openSUSE desktops already offer with online services,
       openSUSE has a sunny future in the cloud.
 
-**License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [GFDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
@@ -1251,7 +1251,7 @@ We would like to go a step further and claim that the wide variety of hosting op
 “
 
 
-        [Linux.com/Carla Schroder: Things You Can't Do With a GUI: Finding Stuff on Linux](http://www.linux.com/learn/tutorials/458715:things-you-cant-do-with-a-gui-finding-stuff-on-linux)
+        [Linux.com/Carla Schroder: Things You Can't Do With a GUI: Finding Stuff on Linux](//www.linux.com/learn/tutorials/458715:things-you-cant-do-with-a-gui-finding-stuff-on-linux)
       
 
 What's better, a graphical interface or the Linux command line? Both of them. They blend seamlessly on Linux so you don't have to choose. A good graphical user interface (GUI) has a logical, orderly flow, helps guide you to making the right command choices, and is reasonably fast and efficient. Since this describes a minority of all GUIs, I still live on the command line a lot. The CLI has three advantages: it's faster for many operations, it's scriptable, and it is many times more flexible. Linux's Unix heritage means you can string together commands in endless ways so they do exactly what you want. (...)
@@ -1263,7 +1263,7 @@ What's better, a graphical interface or the Linux command line? Both of them. Th
 “
 
 
-        [Justine Leng: 11 Things I’ve Learned about Git](http://obsforandroid.wordpress.com/2011/06/13/11-things-ive-learned-about-git/)
+        [Justine Leng: 11 Things I’ve Learned about Git](//obsforandroid.wordpress.com/2011/06/13/11-things-ive-learned-about-git/)
       
 
 Now that I’ve spent a few weeks with Git, I decided to record some of the things I
@@ -1275,7 +1275,7 @@ Now that I’ve spent a few weeks with Git, I decided to record some of the thin
 “
 
 
-        [Python4Kids/Brendan Scott: Review, Formatting Silly Sentences](http://python4kids.wordpress.com/2011/06/14/review-formatting-silly-sentences/)
+        [Python4Kids/Brendan Scott: Review, Formatting Silly Sentences](//python4kids.wordpress.com/2011/06/14/review-formatting-silly-sentences/)
       
 
 We have been covering lots of new concepts very quickly. So now is the time to slow down a bit and go over some of the things we’ve already done, to have a look at them in a little more depth. In particular I want to try to give you some direction on how to make these code samples your own. (...)
@@ -1287,7 +1287,7 @@ We have been covering lots of new concepts very quickly. So now is the time to s
 “
 
 
-        [Nelson Marques: openSUSE 11.4 with GNOME2 for the ‘cool kids’… a brief howto!](http://www.marques.so/2011/06/opensuse-11-4-with-gnome2-for-the-cool-kids-a-brief-howto/)
+        [Nelson Marques: openSUSE 11.4 with GNOME2 for the ‘cool kids’… a brief howto!](//www.marques.so/2011/06/opensuse-11-4-with-gnome2-for-the-cool-kids-a-brief-howto/)
       
 
 In the past I’ve written a small howto in Portuguese to perform a openSUSE 11.4 GNOME2
@@ -1317,7 +1317,7 @@ At the end, the user should have a working openSUSE 11.4 GNOME2 Desktop with ver
 “
 
 
-        [OStatic/Jon Buys: So You Just Deleted Your Production Database - What Now](http://ostatic.com/blog/so-you-just-deleted-your-production-database-what-now)
+        [OStatic/Jon Buys: So You Just Deleted Your Production Database - What Now](//ostatic.com/blog/so-you-just-deleted-your-production-database-what-now)
       
 
 It doesn’t matter how it happened, it doesn’t matter why, blame can (and probably will) be placed later. What matters now is that your production MySQL database was just deleted from the filesystem while the MySQL daemon was running. The good news is that the server, somehow, is still running fine, and the system is still up. The bad news is that the directory where MySQL stores the database is now empty.
@@ -1326,12 +1326,12 @@ Take a deep breath, you are running Linux, here is what to do: (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 “
 
 
-      [Jakub Steiner: Killing Mode Switch](http://jimmac.musichall.cz/log/?p=1181)
+      [Jakub Steiner: Killing Mode Switch](//jimmac.musichall.cz/log/?p=1181)
     
 
 As Allan already mentioned in one of his useful summaries, I’ve been pondering how how to
@@ -1351,26 +1351,26 @@ The reason for the windows/applications toggle was easy extensibility. We thou
 
 “
 
-[Fridrich Strba: Experimental Evolution installer for Windows](http://fridrich.blogspot.com/2010/05/experimental-evolution-installer-for.html)
+[Fridrich Strba: Experimental Evolution installer for Windows](//fridrich.blogspot.com/2010/05/experimental-evolution-installer-for.html)
 
 It is a pleasure, fun and honour to introduce to the distinguished audience our
-      newest [Evolution](http://projects.gnome.org/evolution/) installer for
-      Windows. You can find it for instance in [this repository](http://download.opensuse.org/repositories/windows:/mingw:/win32/openSUSE_11.4/noarch/) of our wonderful [openSUSE
-          Build Service](http://build.opensuse.org/). The installer is hiding
+      newest [Evolution](//projects.gnome.org/evolution/) installer for
+      Windows. You can find it for instance in [this repository](//download.opensuse.org/repositories/windows:/mingw:/win32/openSUSE_11.4/noarch/) of our wonderful [openSUSE
+          Build Service](//build.opensuse.org/). The installer is hiding
       in /usr/i686-pc-mingw32/sys-root/mingw directory of the mingw32-evolution-installer RPM. For
-      people that don't know what to do with RPM packages on windows, [7-zip](http://7-zip.org/) does just a wonderful job at unpacking RPMs even if they use LZMA payload.
+      people that don't know what to do with RPM packages on windows, [7-zip](//7-zip.org/) does just a wonderful job at unpacking RPMs even if they use LZMA payload.
       (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
 “
 
 
-        [Adobe/Dave Mc Allister: Focusing on the next Linux Client](http://blogs.adobe.com/open/2011/06/focusing-on-the-next-linux-client.html)
+        [Adobe/Dave Mc Allister: Focusing on the next Linux Client](//blogs.adobe.com/open/2011/06/focusing-on-the-next-linux-client.html)
       
 
 Way back in 1999 I predicted a significant market for desktop Linux by 2005.  (I was
@@ -1384,7 +1384,7 @@ Way back in 1999 I predicted a significant market for desktop Linux by 2005.  (
 
 
         [The Document Foundation: First TDF Advisory Board members demonstrate wide corporate
-          support for LibreOffice](http://blog.documentfoundation.org/2011/06/15/first-tdf-advisory-board-members-demonstrate-wide-corporate-support-for-libreoffice/)
+          support for LibreOffice](//blog.documentfoundation.org/2011/06/15/first-tdf-advisory-board-members-demonstrate-wide-corporate-support-for-libreoffice/)
       
 
 The Document Foundation today announced the first members of its Advisory Board: Google,
@@ -1406,7 +1406,7 @@ The body represents The Document Foundation’s sponsors, with each sponsor havi
 “
 
 
-        [LinuxJournal/Vote: What is your favorite Linux distribution for use on the desktop?](http://www.linuxjournal.com/content/what-your-favorite-linux-distribution-use-desktop)
+        [LinuxJournal/Vote: What is your favorite Linux distribution for use on the desktop?](//www.linuxjournal.com/content/what-your-favorite-linux-distribution-use-desktop)
       
 
 This is a Vote from LinuxJournal about what is your favorite Linux Distribution. So
@@ -1419,7 +1419,7 @@ This is a Vote from LinuxJournal about what is your favorite Linux Distribution.
 “
 
 
-        [Linus Torvalds and Greg Kroah-Hartman on 20 years of Linux @ LinuxCon Japan 2011](http://www.youtube.com/watch?v=__fALdvvcM0)
+        [Linus Torvalds and Greg Kroah-Hartman on 20 years of Linux @ LinuxCon Japan 2011](//www.youtube.com/watch?v=__fALdvvcM0)
       
 
 Greg Kroah-Hartman in conversation with Linux creator Linus Torvalds will share their thoughts on the first 20 years of Linux and what the future holds.
@@ -1429,7 +1429,7 @@ Greg Kroah-Hartman in conversation with Linux creator Linus Torvalds will share 
 “
 
 
-        [Softpedia: New Nvidia Linux Driver Brings Support for GNOME 3 and KDE SC 4](http://news.softpedia.com/news/New-Nvidia-Linux-Driver-Brings-Support-for-GNOME-3-and-KDE-SC-4-206078.shtml)
+        [Softpedia: New Nvidia Linux Driver Brings Support for GNOME 3 and KDE SC 4](//news.softpedia.com/news/New-Nvidia-Linux-Driver-Brings-Support-for-GNOME-3-and-KDE-SC-4-206078.shtml)
       
 
 A few minutes ago, June 14th, Nvidia launched version 275.09.07 of its graphics driver for Linux, Solaris and FreeBSD operating systems, which brings improved support for the GNOME 3 desktop environment and KDE SC 4.6. (...)
@@ -1439,7 +1439,7 @@ A few minutes ago, June 14th, Nvidia launched version 275.09.07 of its graphics 
 “
 
 
-        [Internet.com/Sean Michael Kerner: Adobe AIR ditches Linux users](http://blog.internetnews.com/skerner/2011/06/adobe-air-ditches-linux-users.html)
+        [Internet.com/Sean Michael Kerner: Adobe AIR ditches Linux users](//blog.internetnews.com/skerner/2011/06/adobe-air-ditches-linux-users.html)
       
 
 From the 'Companies that Don't Get It' files:
@@ -1463,17 +1463,17 @@ The reason? Adobe doesn't see growth in the Linux desktop. (...)
 “
 
 
-        [Linux Magazine/Bruce Byfield: The Decline and Fall of OpenOffice.org](http://www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/The-Decline-and-Fall-of-OpenOffice.org)
+        [Linux Magazine/Bruce Byfield: The Decline and Fall of OpenOffice.org](//www.linux-magazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/The-Decline-and-Fall-of-OpenOffice.org)
       
 
-When LibreOffice first forked from OpenOffice.org, I was unsure how to [respond](http://www.linuxpromagazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/The-Cold-War-Between-OpenOffice.org-and-LibreOffice) to it. Many of its founders were members of [Go-OO](http://go-oo.org), the sometimes controversial not-quite-fork, so LibreOffice looked like simply a continuation of GO-OO under another name. However, since last week, when Oracle [donated](http://www.marketwire.com/press-release/statements-on-openofficeorg-contribution-to-apache-nasdaq-orcl-1521400.htm) OpenOffice.org to the Apache Software Foundation, LibreOffice.org is looking more and more like the natural heir of the original OpenOffice.org -- by which I mean the project that will do the free software community the most benefit.. (...)
+When LibreOffice first forked from OpenOffice.org, I was unsure how to [respond](//www.linuxpromagazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/The-Cold-War-Between-OpenOffice.org-and-LibreOffice) to it. Many of its founders were members of [Go-OO](//go-oo.org), the sometimes controversial not-quite-fork, so LibreOffice looked like simply a continuation of GO-OO under another name. However, since last week, when Oracle [donated](//www.marketwire.com/press-release/statements-on-openofficeorg-contribution-to-apache-nasdaq-orcl-1521400.htm) OpenOffice.org to the Apache Software Foundation, LibreOffice.org is looking more and more like the natural heir of the original OpenOffice.org -- by which I mean the project that will do the free software community the most benefit.. (...)
 
 ”
 
 “
 
 
-        [h-online/Glyn Moody: Do we still need the FSF, GNU and GPL?](http://www.h-online.com/open/features/Do-we-still-need-the-FSF-GNU-and-GPL-1258669.html)
+        [h-online/Glyn Moody: Do we still need the FSF, GNU and GPL?](//www.h-online.com/open/features/Do-we-still-need-the-FSF-GNU-and-GPL-1258669.html)
       
 
 It's easy to take things for granted – to assume that the world will always be as it is. And then sometimes you receive a mild jolt: some new information appears that makes you sit up and reconsider your preconceptions. (...)
@@ -1483,12 +1483,12 @@ It's easy to take things for granted – to assume that the world will always be
 “
 
 
-        [MakeUseOf/Angela Alcorn: OpenStudy – A Collection Of Online Study Groups On All Subjects](http://www.makeuseof.com/tag/openstudy-collection-online-study-groups-subjects/)
+        [MakeUseOf/Angela Alcorn: OpenStudy – A Collection Of Online Study Groups On All Subjects](//www.makeuseof.com/tag/openstudy-collection-online-study-groups-subjects/)
       
 
 Are you a current student? A homeschooler or homeschooling parent? Have you decided to
         keep learning and to always be a student? Have you ever dreamed about the ideal study group?
-          Well, [OpenStudy](http://openstudy.com/) has too, and they’re determined
+          Well, [OpenStudy](//openstudy.com/) has too, and they’re determined
         to make it happen.
 
 If you’ve ever experienced a successful online classroom environment, then you’ll know
@@ -1500,81 +1500,81 @@ If you’ve ever experienced a successful online classroom environment, then you
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//bit.ly/mpxLsD) and let us know! 
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
 If you don't know, how to **contribute**, just check out the
       [Contribution
-    Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+    Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-We have a [Etherpad](http://os-news.ietherpad.com/2), which you can also
+We have a [Etherpad](//os-news.ietherpad.com/2), which you can also
     use to sumbit news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-    community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our **connect.opensuse.org** Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
 Wish to **donate**? [
-      ![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/135641/openSUSE-Weekly-News)
+      ![](//api.flattr.com/button/flattr-badge-large.png)](//flattr.com/thing/135641/openSUSE-Weekly-News)
   
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
-                Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+                Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
   * [Will
                     Stephenson](https://connect.opensuse.org/pg/profile/wstephenson), Guest Author in the KDE Section
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [Docbook.org](http://www.docbook.org/), Semantic markup language for technical documentation
+  * [Docbook.org](//www.docbook.org/), Semantic markup language for technical documentation
 
-  * [xmlsoft.org](http://xmlsoft.org/XSLT/), XSLT Librarys
+  * [xmlsoft.org](//xmlsoft.org/XSLT/), XSLT Librarys
 
-  * [iJoomla](http://www.ijoomla.com), Surveys
+  * [iJoomla](//www.ijoomla.com), Surveys
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
-  * [Permission Informations for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Informations for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 ### Trademarks
 
@@ -1583,20 +1583,20 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 180 is available in: 
 
-  * [English](http://news.opensuse.org/?p=9289)
+  * [English](//news.opensuse.org/?p=9289)
 
 Coming soon: 
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/180)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/180)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)

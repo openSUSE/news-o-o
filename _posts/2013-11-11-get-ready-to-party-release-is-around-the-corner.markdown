@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-[![release is coming](//news.opensuse.org/wp-content/uploads/2013/03/release-is-coming-header.png)](http://www.opensuse.org/Portal:13.1)In just a little over a week, openSUSE 13.1 will be released! As we've all put in serious work to make this happen, it is certainly a good cause for celebration. Time to organize Launch Parties!
+[![release is coming](//news.opensuse.org/wp-content/uploads/2013/03/release-is-coming-header.png)](//www.opensuse.org/Portal:13.1)In just a little over a week, openSUSE 13.1 will be released! As we've all put in serious work to make this happen, it is certainly a good cause for celebration. Time to organize Launch Parties!
 
 
 ## Launch Parties
@@ -33,7 +33,7 @@ Organizing a release party requires the following three simple steps:
 
 1. Find a space. Simple is good: perhaps a room in your university, office or a cafe or restaurant.
 2. Register your launchparty [on this wiki page](https://en.opensuse.org/openSUSE:Launch_parties)
-3. Invite people: create a facebook and G+ event page, and send a mail to [relevant mailing lists](http://lists.opensuse.org/)
+3. Invite people: create a facebook and G+ event page, and send a mail to [relevant mailing lists](//lists.opensuse.org/)
 
 - like your local translation list or the project list... A blog can be helpful, too.
 

@@ -12,4 +12,4 @@ categories:
 - Infrastructure
 ---
 
-Stephan Binner reported on -announce that there's a problem with the DNS for Planet SUSE at the moment. If you're trying to reach Planet SUSE, you can still reach it at [planet.opensu.se](http://planet.opensu.se/).
+Stephan Binner reported on -announce that there's a problem with the DNS for Planet SUSE at the moment. If you're trying to reach Planet SUSE, you can still reach it at [planet.opensu.se](//planet.opensu.se/).

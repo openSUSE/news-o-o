@@ -18,16 +18,16 @@ tags:
 
 The openSUSE Project is proud to announce the availability of beta 3 of the 11.1 release. It's a few days late, but much better for the delay. Beta 3 is now available for immediate download and testing.
 
-As mentioned on [news.opensuse.org](//news.opensuse.org/2008/10/16/opensuse-111-beta3-delayed/), this release was [delayed significantly](http://lizards.opensuse.org/2008/10/22/why-do-we-release-opensuse-on-thursdays-or-why-do-we-slip/) by the power outage in Nuremberg over the weekend of October 11th.
+As mentioned on [news.opensuse.org](//news.opensuse.org/2008/10/16/opensuse-111-beta3-delayed/), this release was [delayed significantly](//lizards.opensuse.org/2008/10/22/why-do-we-release-opensuse-on-thursdays-or-why-do-we-slip/) by the power outage in Nuremberg over the weekend of October 11th.
 
 **Important: Call for Testing**
 We all want openSUSE 11.1 to be the best release yet, and we need your help to get there. This release is ready for widespread testing, and we're encouraging everyone to download and test the beta release. Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a beta release, and is not suitable for use on production systems, however.
 
-_**We have a page of new features specific to openSUSE 11.1 here**_: [http://en.opensuse.org/Testing:Features_11.1](http://en.opensuse.org/Testing:Features_11.1) This is a definitive list of new features added into 11.1 that need testing.
+_**We have a page of new features specific to openSUSE 11.1 here**_: [//en.opensuse.org/Testing:Features_11.1](//en.opensuse.org/Testing:Features_11.1) This is a definitive list of new features added into 11.1 that need testing.
 
 Please use this page to identify and test new features -- and then mark them complete when you've finished testing.
 
-See [openSUSE.org/Testing](http://openSUSE.org/Testing) for more information on Testing.
+See [openSUSE.org/Testing](//openSUSE.org/Testing) for more information on Testing.
 
 To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the openSUSE-Factory channel #on Freenode to discuss openSUSE development.
 
@@ -98,14 +98,14 @@ OpenOffice.org 3.0 integration continues and should be much better in this relea
   * missing OOo-sdk compat stuff (to build voiko..., bnc#428403)
 
 
-See [DistroWatch](http://distrowatch.com/table.php?distribution=suse) for an expanded list of packages being shipped in the Factory distribution.
+See [DistroWatch](//distrowatch.com/table.php?distribution=suse) for an expanded list of packages being shipped in the Factory distribution.
 
 **Media and Download**
-The 11.1 beta is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: [http://en.opensuse.org/Roadmap](http://en.opensuse.org/Roadmap). Downloads are available here:
+The 11.1 beta is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: [//en.opensuse.org/Roadmap](//en.opensuse.org/Roadmap). Downloads are available here:
 
-[http://software.opensuse.org/developer](http://software.opensuse.org/developer)
+[//software.opensuse.org/developer](//software.opensuse.org/developer)
 
-See http://en.opensuse.org/Mirror_Selection for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
+See //en.opensuse.org/Mirror_Selection for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
 
 **Most Annoying Bugs**
 * no x86_64 LiveCDs available

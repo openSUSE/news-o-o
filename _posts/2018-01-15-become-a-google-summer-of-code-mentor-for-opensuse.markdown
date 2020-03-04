@@ -25,9 +25,9 @@ tags:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/GSoC.png/220px-GSoC.png)The  application period for organizations wanting to participate in the [Google Summer of Code](https://summerofcode.withgoogle.com/) is now and the [openSUSE](https://www.opensuse.org/) project is once again looking for mentors who are willing to put forth projects to mentor GSoC students.
 
-People interested in submitting a project for GSoC as part of an openSUSE mentors team can submit it to [https://github.com/openSUSE/mentoring/issues](https://github.com/openSUSE/mentoring/issues). The submissions will be reflected on [openSUSE 101](http://101.opensuse.org/) and submitted as part of a mentorship package to the official [GSoC website](https://developers.google.com/open-source/gsoc/).
+People interested in submitting a project for GSoC as part of an openSUSE mentors team can submit it to [https://github.com/openSUSE/mentoring/issues](https://github.com/openSUSE/mentoring/issues). The submissions will be reflected on [openSUSE 101](//101.opensuse.org/) and submitted as part of a mentorship package to the official [GSoC website](https://developers.google.com/open-source/gsoc/).
 
-“If you have a new project for this year, please open a new issue for each project immediately and label it accordingly,” said Christian Bruckmayer, an [openSUSE mentor](http://101.opensuse.org/). “If you have a potential project, please email us ASAP."
+“If you have a new project for this year, please open a new issue for each project immediately and label it accordingly,” said Christian Bruckmayer, an [openSUSE mentor](//101.opensuse.org/). “If you have a potential project, please email us ASAP."
 
 The deadline is Jan. 23 to submit the full package for GSoC, Bruckmayer said.
 

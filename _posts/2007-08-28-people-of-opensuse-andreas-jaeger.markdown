@@ -67,7 +67,7 @@ Today we present the interview with Andreas Jaeger, Director Platform/openSUSE a
 <td >**Blog:**
 </td>
 
-<td >[http://andreasjaeger.blogspot.com](http://andreasjaeger.blogspot.com)
+<td >[//andreasjaeger.blogspot.com](//andreasjaeger.blogspot.com)
 </td>
 
 <td >
@@ -419,7 +419,7 @@ Yeah, happens far too often.  I'm glad about calendars that remind me of my next
 #### Show us a picture of something, you have always wanted to share!
 
 
-Check my [blog](http://andreasjaeger.blogspot.com) for those that I want to share.
+Check my [blog](//andreasjaeger.blogspot.com) for those that I want to share.
 
 
 

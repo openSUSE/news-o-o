@@ -16,4 +16,4 @@ We will discuss among other things about the future of our community, the organi
 We will also discuss about the targets that we want to succeed as a local community and put some dead-lines on them.
 The meeting will be in Greek language and its an open meeting to everybody.
 
-Check details [here](http://opensuseambassadors.blogspot.com/2010/11/next-meeting-for-greek-opensuse.html).
+Check details [here](//opensuseambassadors.blogspot.com/2010/11/next-meeting-for-greek-opensuse.html).

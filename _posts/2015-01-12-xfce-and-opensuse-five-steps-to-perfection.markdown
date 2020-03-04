@@ -27,7 +27,7 @@ You've probably read about openSUSE being touted as a "king of KDE distros", wit
 #### Why (not) Xfce on openSUSE?
 
 
-Xfce is a GTK desktop environment which aims to be "fast and low on system resources, while still being visually appealing and user friendly", according to their [website](http://www.xfce.org). They aim to adhere do the freedesktop.org standards, and sport their own core components such as a window manager, file manager, settings manager etc., so you could get the most **basic desktop functionalities out of the box**. It appears to follow the** traditional desktop paradigm**, with a one (or two) panel desktop, a tray for your volume, clock and a battery level, and a very intuitive dropdown app menu, where you have all of your apps sorted into categories, and can access them in a click or two.[![xfce-logo](/wp-content/uploads/2015/01/xfce-logo.png)](/wp-content/uploads/2015/01/xfce-logo.png)
+Xfce is a GTK desktop environment which aims to be "fast and low on system resources, while still being visually appealing and user friendly", according to their [website](//www.xfce.org). They aim to adhere do the freedesktop.org standards, and sport their own core components such as a window manager, file manager, settings manager etc., so you could get the most **basic desktop functionalities out of the box**. It appears to follow the** traditional desktop paradigm**, with a one (or two) panel desktop, a tray for your volume, clock and a battery level, and a very intuitive dropdown app menu, where you have all of your apps sorted into categories, and can access them in a click or two.[![xfce-logo](/wp-content/uploads/2015/01/xfce-logo.png)](/wp-content/uploads/2015/01/xfce-logo.png)
 
 
 The obvious pros of Xfce are its **blazing speed**. If you have a mediocre-spec machine, you'll learn to appreciate the "open on actual click" speed Xfce sports. Programmes load instantly (Bryan Lunduke once noticed in a LAS episode that some apps under Xfce load faster than on other desktops, even though they have to load the exact same libraries one the exact same specs). But, Xfce is not made for older machines only. I use it on a 2.1 GHz dual core processor and 4 GB of RAM.** And it works wonderful**. It's feature-full, customizable, and whatever the word may be about the GTK2 apps look, it can be made to look very modern. As for the project itself, it's more than **stable**, since it exists for some 18 years now, and it's also stable in a sense of development and "not-breaking". The components are released when ready, and what Xfce users really like is getting new goodies while** not having to relearn** the way they interact with their computer.
@@ -47,8 +47,8 @@ Guido has done a **wonderful job** regarding the openSUSE's Xfce implementation.
 ##### 1. Use compton as a default compositing manager
 
 
-The default compositing manager (aka, the thing that allows you to use animations, shadows and other graphical effects on your desktop) seemed to have a lot of [screen-tearing issues ](http://ubuntuforums.org/showthread.php?t=2144468)when watching movies and scrolling content on my screen, for example. To avoid it, i decided to use the compton compositing manager. I read articles around the "internets" about its stability and performance, so I decided to give it a go.
-First, you have to install compton. You can do it via one-click install [here](http://software.opensuse.org/package/compton). Then, you open the Thunar File Manager, and create a text file called .compton.conf. Inside the hidden file (you might have to use the ctrl+H key combination to show the hidden files), enter the following:
+The default compositing manager (aka, the thing that allows you to use animations, shadows and other graphical effects on your desktop) seemed to have a lot of [screen-tearing issues ](//ubuntuforums.org/showthread.php?t=2144468)when watching movies and scrolling content on my screen, for example. To avoid it, i decided to use the compton compositing manager. I read articles around the "internets" about its stability and performance, so I decided to give it a go.
+First, you have to install compton. You can do it via one-click install [here](//software.opensuse.org/package/compton). Then, you open the Thunar File Manager, and create a text file called .compton.conf. Inside the hidden file (you might have to use the ctrl+H key combination to show the hidden files), enter the following:
 
     
     backend = "glx";
@@ -121,7 +121,7 @@ Then go to your settings manager, and choose the _Sessions and Startup_ section.
 ##### 2. Green up you Geeko-Mouse!
 
 
-Install the Faenza-mint icon set from [here](http://software.opensuse.org/package/faenza-icon-theme-mint?search_term=faenza+mint). It's a set of very comprehensive icons, with a green folder set. Choose it in the _Settings Manager > Appearance > Icons_ section. Next, you can use this super-duper [Vertex GTK Theme](http://www.deviantart.com/art/Vertex-Theme-470663601), in my opinion, the best looking GTK Theme I've encountered thus far. It also contains the Xfwm and panel themes. If you'd like a green version of it, to fit your geeko mintiness, you can download my [Vertex Green Mod here](https://drive.google.com/file/d/0B1DwV9i8ecBkQUx2NV9WMTJCYUE/view?usp=sharing).
+Install the Faenza-mint icon set from [here](//software.opensuse.org/package/faenza-icon-theme-mint?search_term=faenza+mint). It's a set of very comprehensive icons, with a green folder set. Choose it in the _Settings Manager > Appearance > Icons_ section. Next, you can use this super-duper [Vertex GTK Theme](//www.deviantart.com/art/Vertex-Theme-470663601), in my opinion, the best looking GTK Theme I've encountered thus far. It also contains the Xfwm and panel themes. If you'd like a green version of it, to fit your geeko mintiness, you can download my [Vertex Green Mod here](https://drive.google.com/file/d/0B1DwV9i8ecBkQUx2NV9WMTJCYUE/view?usp=sharing).
 
 Here's how it looks:
 
@@ -145,7 +145,7 @@ If you're like me, you'd really like to have the ability to turn the volume to m
 ##### 5. Install docky
 
 
-[Install this beautiful](http://software.opensuse.org/package/docky?search_term=docky), versatile and responsive dock, which you can use as your tray for launching apps. It supports multiple themes, as well as auto and smart hiding. It seems to be working nice, without any hiccups. So, this might be a good looking option for you to reduce the click numbers for launching your favorite apps.
+[Install this beautiful](//software.opensuse.org/package/docky?search_term=docky), versatile and responsive dock, which you can use as your tray for launching apps. It supports multiple themes, as well as auto and smart hiding. It seems to be working nice, without any hiccups. So, this might be a good looking option for you to reduce the click numbers for launching your favorite apps.
 
 [![Xfce Screenshot](/wp-content/uploads/2015/01/skrin.png)](/wp-content/uploads/2015/01/skrin.png)
 

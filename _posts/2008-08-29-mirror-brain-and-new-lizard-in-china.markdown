@@ -16,7 +16,7 @@ tags:
 - mirror
 ---
 
-Do you know openSUSE's [MirrorBrain](http://mirrorbrain.org/)?  I have been working on it for over a year now. It is a mirror framework which is open source and can be used by anyone.
+Do you know openSUSE's [MirrorBrain](//mirrorbrain.org/)?  I have been working on it for over a year now. It is a mirror framework which is open source and can be used by anyone.
 
 The other day, I received the following sentiment:
 
@@ -30,10 +30,10 @@ It is nice to see (and important for us) if mirror admins are happy. Mirrors are
 
 A lot happens behind the scene to make sure that openSUSE is continuously and easily available. If you never actually notice anything about it, then it only means we are doing well!
 
-For instance, I am always searching new mirrors. One of the biggest recent achievements was that Coly Li, our Chinese friend, installed the **first “real openSUSE” mirror in China**: [http://www.lizardsource.cn/](http://www.lizardsource.cn/). In China mainland, there are already several sites that mirror opensuse, now lizardsource.cn is the first opensuse specific mirror and the largest openSUSE mirror so far.
+For instance, I am always searching new mirrors. One of the biggest recent achievements was that Coly Li, our Chinese friend, installed the **first “real openSUSE” mirror in China**: [//www.lizardsource.cn/](//www.lizardsource.cn/). In China mainland, there are already several sites that mirror opensuse, now lizardsource.cn is the first opensuse specific mirror and the largest openSUSE mirror so far.
 
 When talking to Coly about the situation in China, he provided the following insight:
-(explanatory comment: GFW refers to the [censorship system](http://en.wikipedia.org/wiki/Internet_censorship_in_China), nicknamed [Great Firewall of China](https://www.cloudwards.net/censorship-in-china/))
+(explanatory comment: GFW refers to the [censorship system](//en.wikipedia.org/wiki/Internet_censorship_in_China), nicknamed [Great Firewall of China](https://www.cloudwards.net/censorship-in-china/))
 
 
 <blockquote>Our motivation is:
@@ -51,10 +51,10 @@ Some other mirrors I could acquire last month (good ones) were in Nicaragua, Sou
 
 On the more invisible side, last week I have extended the mirror framework so that it can run in multiple instances on one machine; this may open up some interesting applications later, because we could run a separate redirector for separate file trees, with a different set of mirrors.
 
-Gerard Fàrras, one of our GSoC students, is working on incorporation of a [metalink](http://metalinker.org/) client into YaST/zypper. Once that is implemented, it will make our package installer much much more [robust against all sorts of network issues](http://en.opensuse.org/Libzypp/Failover). A working prototype exists!
+Gerard Fàrras, one of our GSoC students, is working on incorporation of a [metalink](//metalinker.org/) client into YaST/zypper. Once that is implemented, it will make our package installer much much more [robust against all sorts of network issues](//en.opensuse.org/Libzypp/Failover). A working prototype exists!
 
 Currently, I am researching on a somewhat complicated idea to achieve a more fine-grained mirror selection scheme. More on that later maybe.
 
-The outdated [wiki pages](http://en.opensuse.org/Mirrors_Released_Version) that list mirrors need to be replaced by real-time lists generated from the mirror database. I don't know when I/we get around to do this. If anyone would like to hack on a web frontend for the mirror database (I am picturing a TurboGears app that integrates with the existing Python mirror toolbox), contribution would be most welcome; let me know if you are interested!
+The outdated [wiki pages](//en.opensuse.org/Mirrors_Released_Version) that list mirrors need to be replaced by real-time lists generated from the mirror database. I don't know when I/we get around to do this. If anyone would like to hack on a web frontend for the mirror database (I am picturing a TurboGears app that integrates with the existing Python mirror toolbox), contribution would be most welcome; let me know if you are interested!
 
-_See [http://mirrorbrain.org](http://mirrorbrain.org/) for more info about the framework we use. Info for site operators interested in mirroring us is to be found [here](http://en.opensuse.org/Mirror_Infrastructure)._ The biggest ocean in the solar system is on buy essays [pop over to the portal](https://essayclick.net/) jupiter
+_See [//mirrorbrain.org](//mirrorbrain.org/) for more info about the framework we use. Info for site operators interested in mirroring us is to be found [here](//en.opensuse.org/Mirror_Infrastructure)._ The biggest ocean in the solar system is on buy essays [pop over to the portal](https://essayclick.net/) jupiter

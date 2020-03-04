@@ -14,4 +14,4 @@ categories:
 
 openSUSE 11.2 is scheduled to be officially released in about a week (give or take a few hours...) and, as usual, we're gearing up to press a bunch of media for shows and the ambassadors.
 
-Typically Novell has created the artwork for the openSUSE DVDs, but this time around we had some really interesting and creative input from openSUSE contributors. Want to help choose the cover? [Check out the entries](http://www.dissociatedpress.net/2009/11/05/opensuse-dvdcd-cover-art-opinions-wanted/) and vote on your favorite!
+Typically Novell has created the artwork for the openSUSE DVDs, but this time around we had some really interesting and creative input from openSUSE contributors. Want to help choose the cover? [Check out the entries](//www.dissociatedpress.net/2009/11/05/opensuse-dvdcd-cover-art-opinions-wanted/) and vote on your favorite!

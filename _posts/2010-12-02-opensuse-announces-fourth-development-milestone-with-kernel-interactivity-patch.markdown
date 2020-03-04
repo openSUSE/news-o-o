@@ -24,6 +24,6 @@ On the desktops, KDE makes the leap to version 4.6 beta 1.  This includes a com
 
 And finally, the prize for biggest version number leap goes to xmahjong, which went from 2006.8.10 to 2010.11.8.  xmahjong fans will be happy to hear that the version bump is only due to a packaging change removing build support for SUSE versions earlier than 9.1.  The graphics and gameplay remain as they were in 1990.
 
-A [list of most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_4_of_6) is being compiled; please check it before installing. We look forward to [your bug reports](http://bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.4&format=guided) and test experiences too. Automated testing and the openSUSE Factory team have been active to ensure that your download of  M4 will be at least minimally functional.
+A [list of most annoying bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_4_of_6) is being compiled; please check it before installing. We look forward to [your bug reports](//bugzilla.novell.com/enter_bug.cgi?product=openSUSE+11.4&format=guided) and test experiences too. Automated testing and the openSUSE Factory team have been active to ensure that your download of  M4 will be at least minimally functional.
 
 The next milestone is scheduled for December 16.  openSUSE 11.4 is planned to be released in March 2011.

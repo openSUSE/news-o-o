@@ -18,9 +18,9 @@ tags:
 
 Now that openSUSE 11.0 is out the door, the YaST team is looking to get together and improve YaST _even more_.
 
-[Next week](http://en.opensuse.org/YaST/Events/Workshop_Nuremberg_2008) the YaST team will be meeting in Nuremberg, Monday through Friday, to hack on YaST and work on some of the projects on the [YaST Research page](http://en.opensuse.org/YaST/Research).
+[Next week](//en.opensuse.org/YaST/Events/Workshop_Nuremberg_2008) the YaST team will be meeting in Nuremberg, Monday through Friday, to hack on YaST and work on some of the projects on the [YaST Research page](//en.opensuse.org/YaST/Research).
 
-The improvements in YaST for 11.0 have been amazing, but there's always room for improvement and innovation. Some of the ideas on the table [now include](http://en.opensuse.org/YaST/Research):
+The improvements in YaST for 11.0 have been amazing, but there's always room for improvement and innovation. Some of the ideas on the table [now include](//en.opensuse.org/YaST/Research):
 
 
 

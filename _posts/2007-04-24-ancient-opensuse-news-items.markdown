@@ -9,4 +9,4 @@ title: Ancient openSUSE News Items
 wordpress_id: 61
 ---
 
-News items which are older than this site are archived on [this wiki page](http://en.opensuse.org/OpenSUSE_News/Old).
+News items which are older than this site are archived on [this wiki page](//en.opensuse.org/OpenSUSE_News/Old).

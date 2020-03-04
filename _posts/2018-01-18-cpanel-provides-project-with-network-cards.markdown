@@ -24,7 +24,7 @@ tags:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/35/Obs-logo.png)The hosting platform [cPanel](https://cpanel.com/) has provided the [openSUSE](https://www.opensuse.org/) Project with two new network cards to assist the project with its infrastructure needs.
 
-The network cards will soon be integrated into the openSUSE infrastructure to improve the [Open Build Service](http://openbuildservice.org/).
+The network cards will soon be integrated into the openSUSE infrastructure to improve the [Open Build Service](//openbuildservice.org/).
 
 “On behalf of the openSUSE Project and the many developers and packagers who use OBS to develop open-source software, we thank cPanel for their generosity,” said Richard Brown, openSUSE Chairman. “This contribution not only helps the openSUSE project but will help other open-source projects as well.”
 

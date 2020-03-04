@@ -22,7 +22,7 @@ tags:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png)
 
-Issue **#30** of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/30)!
+Issue **#30** of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/30)!
 
 In this week’s issue:
 

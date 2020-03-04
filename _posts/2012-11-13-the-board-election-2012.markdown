@@ -17,7 +17,7 @@ categories:
 This years openSUSE Election Committee is in the pleasant position to announce the 2012 Board elections[0].
 
 The timeline we decided for this year election is the following:
-[![](/wp-content/uploads/2012/11/GeekoVote.png)](http://news.opensuse.org/?attachment_id=14576)
+[![](/wp-content/uploads/2012/11/GeekoVote.png)](//news.opensuse.org/?attachment_id=14576)
 November 13th (Phase 0)
 - Announcement of the openSUSE Board election for 2012.
 - Start of 2 week period to apply for an openSUSE membership (in order to vote).
@@ -50,6 +50,6 @@ Bryen M Yunashko
 Izabel Valverde
 Thomas Schmidt
 
-[0] http://en.opensuse.org/openSUSE:Board_election
-[1] http://en.opensuse.org/openSUSE:Members
-[2] http://en.opensuse.org/openSUSE:Membership_officials#Process
+[0] //en.opensuse.org/openSUSE:Board_election
+[1] //en.opensuse.org/openSUSE:Members
+[2] //en.opensuse.org/openSUSE:Membership_officials#Process

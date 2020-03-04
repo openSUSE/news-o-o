@@ -11,7 +11,7 @@ categories:
 - Weekly News
 ---
 
-![](http://images.pixelio.de/data/media/51/sterre_22_wr_Large.jpg)
+![](//images.pixelio.de/data/media/51/sterre_22_wr_Large.jpg)
 Hello Mates.
 
 Last year was a great year. We have seen a lot happen. The Relaunch of the openSUSE BuildService provides many new features for packagers. The kde-obs-generator makes life easier for those doing cross distro packaging. The openSUSE Conference was another interesting highlight, and last but not least the imminent sale of Novell.

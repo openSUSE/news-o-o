@@ -12,7 +12,7 @@ wordpress_id: 5892
 
 
 
-[![](/wp-content/uploads/2010/12/holiday-geeko.png)](http://news.opensuse.org/?attachment_id=5896)
+[![](/wp-content/uploads/2010/12/holiday-geeko.png)](//news.opensuse.org/?attachment_id=5896)
 
 Seasons Greetings to everyone in the openSUSE Community and beyond from the openSUSE Board!
 

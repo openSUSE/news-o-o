@@ -71,16 +71,16 @@ In most locations, times and rooms are being picked still and we'll update you o
 ## Beta Testing
 
 
-To give Beta a good work-out and prepare some bugs for the hackers to fix, we also hope you all will find time to organize some pizza-loaded testing events before the 27th! This means installing it and [submitting bug reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports) when you bump into trouble. You can [download the openSUSE 13.1 Beta](http://software.opensuse.org/developer) (available soon) from the openSUSE website. It might make sense to download it and put it on an USB stick or a DVD so people can get to work right away!
+To give Beta a good work-out and prepare some bugs for the hackers to fix, we also hope you all will find time to organize some pizza-loaded testing events before the 27th! This means installing it and [submitting bug reports](//en.opensuse.org/openSUSE:Submitting_bug_reports) when you bump into trouble. You can [download the openSUSE 13.1 Beta](//software.opensuse.org/developer) (available soon) from the openSUSE website. It might make sense to download it and put it on an USB stick or a DVD so people can get to work right away!
 
-Bugs should be reported and can be tracked via [Bugzilla](http://bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](http://en.opensuse.org/openSUSE:Submitting_bug_reports).
+Bugs should be reported and can be tracked via [Bugzilla](//bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](//en.opensuse.org/openSUSE:Submitting_bug_reports).
 
-Discussions about openSUSE development takes place on the [factory mailing list](http://lists.opensuse.org/opensuse-factory). [openSUSE Factory](http://en.opensuse.org/Portal:Factory) is the development release of openSUSE. If you want to help out, please see the wiki page on [contributing to Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory). Contributing is easy and very welcome! We happen to have this awesome tool called the [Open Build Service](http://en.opensuse.org/Portal:Build_Service). Think of it as a Github for packagers: Branch, Update and create a submit Request for a Package. In openSUSE terms you've just BURPed and we'll be proud of you ;-)
+Discussions about openSUSE development takes place on the [factory mailing list](//lists.opensuse.org/opensuse-factory). [openSUSE Factory](//en.opensuse.org/Portal:Factory) is the development release of openSUSE. If you want to help out, please see the wiki page on [contributing to Factory](//en.opensuse.org/openSUSE:How_to_contribute_to_Factory). Contributing is easy and very welcome! We happen to have this awesome tool called the [Open Build Service](//en.opensuse.org/Portal:Build_Service). Think of it as a Github for packagers: Branch, Update and create a submit Request for a Package. In openSUSE terms you've just BURPed and we'll be proud of you ;-)
 
 OBS has a command line but also a easy browser interface - you can even fix and build packages from a mobile phone or a Windows desktop!
-[![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](http://www.flickr.com/photos/standout/)
+[![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](//www.flickr.com/photos/standout/)
 
-There is plenty of help available on the [Development page](http://en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](http://lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](http://en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
+There is plenty of help available on the [Development page](//en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](//lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](//en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
 
 
 
@@ -89,14 +89,14 @@ There is plenty of help available on the [Development page](http://en.opensuse.o
 
 Of some special interest for this release is btrfs. A discussion has been going on about making this future-oriented file system the default on the next openSUSE. That is _(most likely)_ not going to happen but btrfs is still a prominent option during installation so any relevant testing and bugfixing _will_ benefit many openSUSE 13.1 users. And, more importantly, chances are big that it _will_ be the default in the release following 13.1!
 
-To enable this testing, the release team has [decided to include](http://lists.opensuse.org/opensuse-factory/2013-09/msg00349.html) a _"want to test btrfs?"_ pop-up during installation of Beta 1. Of course, this won't be in the final releases (nor the RC's) but it will hopefully help remind people that btrfs can use some testing.
+To enable this testing, the release team has [decided to include](//lists.opensuse.org/opensuse-factory/2013-09/msg00349.html) a _"want to test btrfs?"_ pop-up during installation of Beta 1. Of course, this won't be in the final releases (nor the RC's) but it will hopefully help remind people that btrfs can use some testing.
 
 
 
 #### btrfs in openSUSE
 
 
-By default, only the 'safe' features of btrfs are enabled in openSUSE, including the snapshot and metadata and data integrity feature. These both offer protection against data loss. The snapshots do this by making it easy to revert files to earlier states, even bringing back removed files where needed! The (meta)data integrity feature uses error checking codes on your data to ensure your [spinning rust](http://en.wikipedia.org/wiki/Hard_disk_drive) or [deep fried sand](http://en.wikipedia.org/wiki/Solid-state_drive) gives you back the data you stored on it the way you intended.
+By default, only the 'safe' features of btrfs are enabled in openSUSE, including the snapshot and metadata and data integrity feature. These both offer protection against data loss. The snapshots do this by making it easy to revert files to earlier states, even bringing back removed files where needed! The (meta)data integrity feature uses error checking codes on your data to ensure your [spinning rust](//en.wikipedia.org/wiki/Hard_disk_drive) or [deep fried sand](//en.wikipedia.org/wiki/Solid-state_drive) gives you back the data you stored on it the way you intended.
 
 However, who installs btrfs now will be able to instantly benefit from the many features under development as soon as they are marked stable. Some of these include transparent compression of data, de-duplication of files and data, multi-volume drives and hot add/remove of drives part of it and various performance improvements.
 
@@ -130,10 +130,10 @@ That way you can gather all your local community for this nice Pizza Party. Need
   * [how to do a betapizza party](//news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/)
 
 
-  * [read the launch party HOWTO](http://en.opensuse.org/openSUSE:Launch_party_HOWTO)
+  * [read the launch party HOWTO](//en.opensuse.org/openSUSE:Launch_party_HOWTO)
 
 
-  * [add yourself to the Beta Pizza party list](http://en.opensuse.org/openSUSE:Beta_pizza_parties)
+  * [add yourself to the Beta Pizza party list](//en.opensuse.org/openSUSE:Beta_pizza_parties)
 
 
 

@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-[Compiz](http://opensuse.org/Compiz) and [Xgl](http://opensuse.org/Xgl) are two classic examples of where SUSE engineers have revolutionised the Linux desktop. openSUSE 10.3 will contain the latest Compiz 0.5.4 installed by default, and [Compiz Fusion](http://opensuse.org/Compiz_Fusion) -- the result of a merge between the Compiz and [Beryl](http://opensuse.org/Beryl) communities -- will be available in the official online repository for all to get through YaST. Today we'll be taking a look at what's going to be new in these versions, and we'll talk to [Matthias Hopf](http://en.opensuse.org/User:Mhopf), a Compiz/Xgl/X.org developer, as well as [Jigish Gohil](http://dev.compiz-fusion.org/~cyberorg) (cyberorg), a contributor to the Compiz Fusion project and maintainer of the Compiz Fusion packages in openSUSE.
+[Compiz](//opensuse.org/Compiz) and [Xgl](//opensuse.org/Xgl) are two classic examples of where SUSE engineers have revolutionised the Linux desktop. openSUSE 10.3 will contain the latest Compiz 0.5.4 installed by default, and [Compiz Fusion](//opensuse.org/Compiz_Fusion) -- the result of a merge between the Compiz and [Beryl](//opensuse.org/Beryl) communities -- will be available in the official online repository for all to get through YaST. Today we'll be taking a look at what's going to be new in these versions, and we'll talk to [Matthias Hopf](//en.opensuse.org/User:Mhopf), a Compiz/Xgl/X.org developer, as well as [Jigish Gohil](//dev.compiz-fusion.org/~cyberorg) (cyberorg), a contributor to the Compiz Fusion project and maintainer of the Compiz Fusion packages in openSUSE.
 
 <!-- more -->
 
@@ -106,7 +106,7 @@ This really just shows you that, as David Reveman has said, _"We can do pretty m
 ### Accessibility
 
 
-Accessibility with computers is very important. Typically, desktop environments like [KDE](http://accessibility.kde.org/) and [GNOME](http://developer.gnome.org/projects/gap/) have specific accessibility projects which really help, but now Compiz as a window manager is also helping in this area. Compiz has had the _zoom_ plugin for some time, and now there is also a convenient _negative_ plugin which allows you to set a window or the screen negative. In addition to this, as the result of a Google Summer of Code [project](http://code.google.com/soc/2007/ubuntu/appinfo.html?csaid=8F42C619953A7B11) there is also a _Color Filter_ plugin allowing you to directly filter colors for accessibility purposes.
+Accessibility with computers is very important. Typically, desktop environments like [KDE](//accessibility.kde.org/) and [GNOME](//developer.gnome.org/projects/gap/) have specific accessibility projects which really help, but now Compiz as a window manager is also helping in this area. Compiz has had the _zoom_ plugin for some time, and now there is also a convenient _negative_ plugin which allows you to set a window or the screen negative. In addition to this, as the result of a Google Summer of Code [project](//code.google.com/soc/2007/ubuntu/appinfo.html?csaid=8F42C619953A7B11) there is also a _Color Filter_ plugin allowing you to directly filter colors for accessibility purposes.
 
 
 [![Negative Plugin](//news.opensuse.org/wp-content/uploads/2007/08/accessibility-negative_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/accessibility-negative.png) [![Negative - Full Screen](//news.opensuse.org/wp-content/uploads/2007/09/negative_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/negative.png) [![Color Filter](//news.opensuse.org/wp-content/uploads/2007/09/color-filter_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/color-filter.png)
@@ -155,10 +155,10 @@ All of the Compiz things above will be fully available in a default install, and
 
 
 So how can you get Compiz Fusion running right now, presuming you have an appropriate Graphics Card? Very easily; on [openSUSE 10.3 beta 2](//news.opensuse.org/?p=155), for example, you can use the new [One-Click Install](//news.opensuse.org/?p=133) technology:
-![kde-logo.png](//news.opensuse.org/wp-content/uploads/2007/09/kde-logo.png) If you installed the KDE desktop environment, then [click here](http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-kde.ymp).
-![gnome-logo.png](//news.opensuse.org/wp-content/uploads/2007/09/gnome-logo.png)If you installed the GNOME desktop environment, then [click here](http://download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-gnome.ymp).
+![kde-logo.png](//news.opensuse.org/wp-content/uploads/2007/09/kde-logo.png) If you installed the KDE desktop environment, then [click here](//download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-kde.ymp).
+![gnome-logo.png](//news.opensuse.org/wp-content/uploads/2007/09/gnome-logo.png)If you installed the GNOME desktop environment, then [click here](//download.opensuse.org/repositories/X11:/XGL/SUSE_Factory/compiz-fusion-gnome.ymp).
 
-..and you will be guided through the installation with a simple wizard. For the possibility of installing this on openSUSE 10.2, and for more information, please see the [Compiz Fusion wiki page](http://opensuse.org/Compiz_Fusion).
+..and you will be guided through the installation with a simple wizard. For the possibility of installing this on openSUSE 10.2, and for more information, please see the [Compiz Fusion wiki page](//opensuse.org/Compiz_Fusion).
 
 
 
@@ -219,7 +219,7 @@ People forget that Compiz is more than a software we use, it is a whole communit
 
 It has always been possible; unfortunately no developer has taken that task up. During the end of Beryl days _KBerylSettings_, a KDE tool, was developed and it is still in our git repository.
 
-Today, we have great new [kconfig plugin](http://lists.freedesktop.org/archives/compiz/2007-August/002617.html) developed by David Reveman that makes it quite trivial to write a KDE settings tool, and to demonstrate that David also posted some example code that is fully functional, although not as elaborate as CompizConfig Settings Manager (CCSM).
+Today, we have great new [kconfig plugin](//lists.freedesktop.org/archives/compiz/2007-August/002617.html) developed by David Reveman that makes it quite trivial to write a KDE settings tool, and to demonstrate that David also posted some example code that is fully functional, although not as elaborate as CompizConfig Settings Manager (CCSM).
 
 CCSM is a python-gtk settings tool that uses libcompizconfig which provides an easy API for developers who may want to write a settings tool in any programming language they like. We also have a python binding and a kconfig backend for ccsm, so if anyone wants to port ccsm to python-qt it should be a cake walk.
 
@@ -229,7 +229,7 @@ CCSM is a python-gtk settings tool that uses libcompizconfig which provides an e
 
 Our roadmap is tightly tied in with Compiz roadmap. We heavily rely on the development not just of the Compiz core, but also on X.Org and the capabilities of graphic card drivers.
 
-Watch out for amazing things that we will be able to do once we have input redirection in X server; in layman's terms we would be able to interact and manipulate objects/windows on our desktop like never seen before, though you can get the glimpse of this in [Metisse](http://www.mandriva.com/projects/metisse/) and [LG3D](https://lg3d.dev.java.net/) projects.
+Watch out for amazing things that we will be able to do once we have input redirection in X server; in layman's terms we would be able to interact and manipulate objects/windows on our desktop like never seen before, though you can get the glimpse of this in [Metisse](//www.mandriva.com/projects/metisse/) and [LG3D](https://lg3d.dev.java.net/) projects.
 
 Immediate plan is to get release of Compiz 0.6 out with all the Compiz Fusion components working well with it.
 
@@ -237,7 +237,7 @@ Immediate plan is to get release of Compiz 0.6 out with all the Compiz Fusion co
 ### Where can I find out more?
 
 
-Compiz Fusion project has a great web infrastructure that makes it very easy to get information from, whether you are a developer or a user. Official documentation, information about forums, IRC, how to join the development team, contribute translations is available from the Compiz Fusion wiki, at [http://wiki.compiz-fusion.org](http://wiki.compiz-fusion.org)
+Compiz Fusion project has a great web infrastructure that makes it very easy to get information from, whether you are a developer or a user. Official documentation, information about forums, IRC, how to join the development team, contribute translations is available from the Compiz Fusion wiki, at [//wiki.compiz-fusion.org](//wiki.compiz-fusion.org)
 
 
 ### Thanks!

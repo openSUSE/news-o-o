@@ -11,9 +11,9 @@ categories:
 - Distribution
 ---
 
-openSUSE 12.2 is the second openSUSE release to include GNOME 3. [GNOME 3.4](http://library.gnome.org/misc/release-notes/3.4/) continues the rapid pace of evolution and consolidation set by GNOME 3.2 on openSUSE 12.1. This article is a sneak peek of what will be released tomorrow, the 5th of September!
+openSUSE 12.2 is the second openSUSE release to include GNOME 3. [GNOME 3.4](//library.gnome.org/misc/release-notes/3.4/) continues the rapid pace of evolution and consolidation set by GNOME 3.2 on openSUSE 12.1. This article is a sneak peek of what will be released tomorrow, the 5th of September!
 
-[![](/wp-content/uploads/2012/09/gnome-shell-activities.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-activities/)<!-- more -->
+[![](/wp-content/uploads/2012/09/gnome-shell-activities.png)](//news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-activities/)<!-- more -->
 
 
 
@@ -33,7 +33,7 @@ GNOME 3.4 continues to implement the GNOME project's design-led vision for the F
 
 
 Documents, the simple browser for all your work and media, has a cleaner UI, saving screen space by using the App Menu instead of a separate sidebar. It uses Tracker, the metadata indexing system to show your local files, and can display your Google Documents using the integrated Gnome Online Accounts system. Documents can now be organized by assigning them to Collections.
-[![](/wp-content/uploads/2012/09/41053418.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/41053418/)
+[![](/wp-content/uploads/2012/09/41053418.png)](//news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/41053418/)
 
 
 #### App menus
@@ -42,7 +42,7 @@ Documents, the simple browser for all your work and media, has a cleaner UI, sav
 Combining features from user interface developments in Firefox and Chromium and in OS X, GNOME Apps appear maximised and locate their menu bar at the application name in the GNOME shell menu bar, instead of consuming screen space with window title and menu bars.
 
 
-[![](/wp-content/uploads/2012/09/gnome-shell-web.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-web/)
+[![](/wp-content/uploads/2012/09/gnome-shell-web.png)](//news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-web/)
 
 
 
@@ -59,7 +59,7 @@ Combining features from user interface developments in Firefox and Chromium and 
 
 As more and more of us work with systems in the cloud, GNOME 3.4 supports this with the first version of a 'GNOME Boxes' App, which provides an attractive interface to virtual machines and remote applications. Test out your SUSE Studio respins of openSUSE 12.2 directly in your GNOME desktop!
 
-[caption id="attachment_14034" align="aligncenter" width="150"][![](/wp-content/uploads/2012/09/gnome-boxes.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-boxes/) gnome-boxes initializing a virtual machine to run a LiveCD[/caption]
+[caption id="attachment_14034" align="aligncenter" width="150"][![](/wp-content/uploads/2012/09/gnome-boxes.png)](//news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-boxes/) gnome-boxes initializing a virtual machine to run a LiveCD[/caption]
 
 
 ### Improved shell search
@@ -79,7 +79,7 @@ The underlying GTK 3 toolkit has been updated in many areas. Perhaps the most no
 
 GNOME 3.4 makes GNOME Shell accessible to blind and partially sighted users using the Orca screen reader. The high-contrast icon set has been extended to support GNOME 3's new interface elements, and the magnifier aid has many more configuration options to set zoom and visual cues to suit you.
 
-[![](/wp-content/uploads/2012/09/gnome-shell-a11y.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-a11y/)
+[![](/wp-content/uploads/2012/09/gnome-shell-a11y.png)](//news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-a11y/)
 
 
 ### 
@@ -92,7 +92,7 @@ GNOME 3.4 makes GNOME Shell accessible to blind and partially sighted users usin
 
 The Empathy integrated instant messenger gains support for video calling, and adds the ability to chat with Facebook and Windows Live network users.
 
-[![](/wp-content/uploads/2012/09/7346117.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/7346117/)
+[![](/wp-content/uploads/2012/09/7346117.png)](//news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/attachment/7346117/)
 
 
 ### New and refreshed documentation
@@ -106,7 +106,7 @@ Many tools in GNOME 3.4 have new or updated online help and manuals.
 
 Aside from the main GNOME release, there are many new and updated application packages, including guake, a Quake-console like shell; Shotwell, the GNOME photo manager; drwright, a typing break enforcer; GTK frontend for recordmydesktop, scite, a new code editor; pithos, a client for Pandora internet radio; as well as caffeine, gnome-agenda, espeak-gui and weather-wallpaper.
 
-[![](/wp-content/uploads/2012/09/gnome-shell-shotwell.png)](http://news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-shotwell/)
+[![](/wp-content/uploads/2012/09/gnome-shell-shotwell.png)](//news.opensuse.org/2012/09/04/sneak-peek-gnome-in-opensuse-12-2/gnome-shell-shotwell/)
 
 
 ## openSUSE Customizations
@@ -118,9 +118,9 @@ The GNOME project has a strong vision for its desktop, so in openSUSE 12.1 GNOME
 ## Green is Good for you
 
 
-openSUSE 12.2 is a release to get. The delay of two months has given the community extra time to stabilize things and make sure this release is as solid as ever. While we gear up for the [openSUSE Summit](http://summit.opensuse.org) in Orlando, Florida and the [openSUSE Conference](http://conference.opensuse.org) in Prague, Czech republic, where we discuss the future of openSUSE (you're invited!), you can start using another stellar release. Don't forget to check out what [Tumbleweed](http://opensuse.org/Tumbleweed), [the Open Build Service](http://build.opensuse.org) and [Packman](http://packman.links2linux.org/) have in store for you!
+openSUSE 12.2 is a release to get. The delay of two months has given the community extra time to stabilize things and make sure this release is as solid as ever. While we gear up for the [openSUSE Summit](//summit.opensuse.org) in Orlando, Florida and the [openSUSE Conference](//conference.opensuse.org) in Prague, Czech republic, where we discuss the future of openSUSE (you're invited!), you can start using another stellar release. Don't forget to check out what [Tumbleweed](//opensuse.org/Tumbleweed), [the Open Build Service](//build.opensuse.org) and [Packman](//packman.links2linux.org/) have in store for you!
 
-The openSUSE project will release openSUSE 12.2 tomorrow - so keep your eyes open and check out [software.opensuse.org](http://software.opensuse.org) and of course [openSUSE News](http://news.opensuse.org) for the release!
+The openSUSE project will release openSUSE 12.2 tomorrow - so keep your eyes open and check out [software.opensuse.org](//software.opensuse.org) and of course [openSUSE News](//news.opensuse.org) for the release!
 
 
 

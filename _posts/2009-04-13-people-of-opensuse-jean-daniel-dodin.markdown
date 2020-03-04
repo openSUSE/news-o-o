@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Jean-Daniel Dodin is openSUSE member since the very beginning. He is the first sysop of [http://fr.opensuse.org](http://fr.opensuse.org) and in general very active openSUSE and Linux advocate, both on and off line. The most recent of his numerous projects is attempt to revive the [Linux Documentation Project](http://tldp.org/) which was sinking in a lethargy for quite some time before he appeared started reorganization, energizing people.
+Jean-Daniel Dodin is openSUSE member since the very beginning. He is the first sysop of [//fr.opensuse.org](//fr.opensuse.org) and in general very active openSUSE and Linux advocate, both on and off line. The most recent of his numerous projects is attempt to revive the [Linux Documentation Project](//tldp.org/) which was sinking in a lethargy for quite some time before he appeared started reorganization, energizing people.
 
 <!-- more -->
 
@@ -59,7 +59,7 @@ Jean-Daniel Dodin is openSUSE member since the very beginning. He is the first s
 **
 </td>
 
-<td >[http://dodin.org](http://dodin.org)
+<td >[//dodin.org](//dodin.org)
 </td>
 
 <td >
@@ -72,7 +72,7 @@ Jean-Daniel Dodin is openSUSE member since the very beginning. He is the first s
 </td>
 
 <td >I'm not really a blog man.
-However I have one for the LDP: [http://jdanield.wordpress.com](http://jdanield.wordpress.com)
+However I have one for the LDP: [//jdanield.wordpress.com](//jdanield.wordpress.com)
 </td>
 
 <td >
@@ -137,7 +137,7 @@ follow this as much as I can even now
 I was born in France January 1946. My mother was home wife, my father
 was well know in the photographic world as inventor, specially for the
 "verre dépoli télémètre" (telemetric frosted glass or stygmometer -
-[Lucien Dodin](http://fr.wikipedia.org/wiki/Lucien_Dodin)).
+[Lucien Dodin](//fr.wikipedia.org/wiki/Lucien_Dodin)).
 
 I've finished scientific college and teached mechanical engeneering for
 a long time in french high school. I met computers as CAD drafter.
@@ -152,7 +152,7 @@ a long time in french high school. I met computers as CAD drafter.
 I had first contact with data processing using handheld calculator HP-41.
 I was the chairman of the French Toulouse "PPC-T" Chapter, wrote a book about this calculator
 in French, and was extremely proud to have it translated in English and published in USA.
-Web version is here: [Inside the HP-41](http://new.dodin.org/ppct/index.html)
+Web version is here: [Inside the HP-41](//new.dodin.org/ppct/index.html)
 
 I had to programm machine langage utilities for this calculator,
 writing to EPROMs to be able to run them. Hex programming BCD
@@ -198,7 +198,7 @@ translating pages to drive the project. I still work for the french
 community, but as I write pretty fluently in english, I like to publish
 first in English to have a better visibility.
 
-In August, 2008, I was nominated as coordinator of [The Linux Documentation Project](http://tldp.org/) (LDP).
+In August, 2008, I was nominated as coordinator of [The Linux Documentation Project](//tldp.org/) (LDP).
 At this moment I have few more admins for the French wiki and I let them do the main work,
 and they do that very good.
 
@@ -347,7 +347,7 @@ the net and for this VIM is the best choice. I can use tinyvi, but it's a pain :
 So many :-).
 
 I met several times Richard Stalman.
-See video made in Toulouse by my LUG.:[Richard Stalman speaking..](http://www.youtube.com/watch?v=5TRM5cTMuV8)
+See video made in Toulouse by my LUG.:[Richard Stalman speaking..](//www.youtube.com/watch?v=5TRM5cTMuV8)
 
 I'm the man who walks behind table at the beginning of the video.
 At the left side of the screen is G. Aznar, former LDP leader.
@@ -420,7 +420,7 @@ Final Fantasy. I bougth a PS2 just to play the last version :-)
 
 Los Angeles. My daughter Claire just went there to work as an actress :-)
 
-I'm very proud of her. Her last movie is [2084](http://www.imdb.com/title/tt1398918/). More you can find on [Claire's](http://www.imdb.com/name/nm2749457/)) web site.
+I'm very proud of her. Her last movie is [2084](//www.imdb.com/title/tt1398918/). More you can find on [Claire's](//www.imdb.com/name/nm2749457/)) web site.
 
 
 

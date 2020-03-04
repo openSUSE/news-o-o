@@ -11,7 +11,7 @@ categories:
 - Build Service
 ---
 
-Klaas wrote an article about the openSUSE Build Service that got published in the german edition of Linux Magazin. Everyone able to read german go [here](http://www.linux-magazin.de/heft_abo/ausgaben/2008/01/software_fuer_millionen).
+Klaas wrote an article about the openSUSE Build Service that got published in the german edition of Linux Magazin. Everyone able to read german go [here](//www.linux-magazin.de/heft_abo/ausgaben/2008/01/software_fuer_millionen).
 
 
 

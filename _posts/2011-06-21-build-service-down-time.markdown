@@ -11,7 +11,7 @@ categories:
 - Infrastructure
 ---
 
-![](http://en.opensuse.org/images/4/43/Failgeeko.png)
+![](//en.opensuse.org/images/4/43/Failgeeko.png)
 We are currently facing a hardware problem with the openSUSE Build Service.
 
 Affected services are:
@@ -19,13 +19,13 @@ Affected services are:
 
 
 	
-  * [http://build.opensuse.org](http://build.opensuse.org/)
+  * [//build.opensuse.org](//build.opensuse.org/)
 
 	
-  * [http://api.opensuse.org](http://api.opensuse.org/)
+  * [//api.opensuse.org](//api.opensuse.org/)
 
 	
-  * [http://software.opensuse.org](http://software.opensuse.org)
+  * [//software.opensuse.org](//software.opensuse.org)
 
 
 We are trying to resolve this as fast as possible. Apologies for inconveniences this may cause.

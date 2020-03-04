@@ -10,5 +10,5 @@ title: oggcamp Liverpool
 wordpress_id: 3095
 ---
 
-[Oggcamp ](http://oggcamp.org/)- Roger Whittaker will present openSUSE
+[Oggcamp ](//oggcamp.org/)- Roger Whittaker will present openSUSE
 1st and 2nd May 2010 - Liverpool UK.

@@ -11,11 +11,11 @@ categories:
 - Weekly News
 ---
 
-![news](/wp-content/uploads/2007/11/knewsticker.png) The Community Week special edition of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009)!  
+![news](/wp-content/uploads/2007/11/knewsticker.png) The Community Week special edition of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009)!  
   
 
 
 For a list of available translations see this page:
-[http://en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009/Translations)
+[//en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009/Translations](//en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009/Translations)
 
 Have a lot of fun!

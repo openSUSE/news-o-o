@@ -13,7 +13,7 @@ categories:
 
 GNOME and full time OpenOffice.org developer Michael Meeks was invited by 'People of openSUSE' to an interview, and here are his answers!
 
-Just in case, if you will be in [FOSDEM 2008](http://fosdem.org/2008/) do not miss the opportunity to meet him there, and attend [his talk](http://fosdem.org/2008/schedule/events/opensuse_accessibility) in the [openSUSE DevRoom](http://fosdem.org/2008/schedule/devroom/opensuse).
+Just in case, if you will be in [FOSDEM 2008](//fosdem.org/2008/) do not miss the opportunity to meet him there, and attend [his talk](//fosdem.org/2008/schedule/events/opensuse_accessibility) in the [openSUSE DevRoom](//fosdem.org/2008/schedule/devroom/opensuse).
 
 <!-- more -->
 <table border="0" >
@@ -52,7 +52,7 @@ Just in case, if you will be in [FOSDEM 2008](http://fosdem.org/2008/) do not mi
 <td >**Blog:**
 </td>
 
-<td >[http://www.gnome.org/~michael/](http://www.gnome.org/~michael/)
+<td >[//www.gnome.org/~michael/](//www.gnome.org/~michael/)
 </td>
 
 <td >

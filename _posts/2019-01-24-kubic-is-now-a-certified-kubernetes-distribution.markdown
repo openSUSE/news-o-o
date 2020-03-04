@@ -66,9 +66,9 @@ The openSUSE Project has a long history of tackling the problem of distributing 
 
 Tumbleweed and Kubic are simultaneously both two of the fastest **and** most stable rolling release distributions available.
 
-With the [Open Build Service](https://openbuildservice.org) and [openQA](http://open.qa) we have an established pipeline that guarantees we only release software when it is built and tested both collectively and reproducibly.
+With the [Open Build Service](https://openbuildservice.org) and [openQA](//open.qa) we have an established pipeline that guarantees we only release software when it is built and tested both collectively and reproducibly.
 
-Our experience with btrfs and [snapper](http://snapper.io) means that even in the event of an unwanted (or heaven forbid, broken) change to a system, users can immediately rollback to a system state that works the way they want it to.
+Our experience with btrfs and [snapper](//snapper.io) means that even in the event of an unwanted (or heaven forbid, broken) change to a system, users can immediately rollback to a system state that works the way they want it to.
 
 With Transactional Updates, we ensure that no change ever happens to a running system. This futher guarantees that any rollback can return a system to a clean state in a single atomic operation.
 

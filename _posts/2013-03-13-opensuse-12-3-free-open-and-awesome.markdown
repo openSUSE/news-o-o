@@ -15,10 +15,10 @@ categories:
 Dear contributors, friends and fans: The latest release of the openSUSE distribution, version 12.3, is ready for you! After six months of hard work, we are happy to bring you the best mix that Free and Open Source Software has to offer with our unique green sauce - stable, friendly and fun.
 
 
-[![Download openSUSE 12.3](//news.opensuse.org/wp-content/uploads/2013/03/get_it1.png)](http://software.opensuse.org)
+[![Download openSUSE 12.3](//news.opensuse.org/wp-content/uploads/2013/03/get_it1.png)](//software.opensuse.org)
 
 
-(_In other languages_: [cs](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD) [de](http://de.opensuse.org/Ank%C3%BCndigung) [es](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_12.3) [fr](http://fr.opensuse.org/Annonce_de_version) [it](http://it.opensuse.org/Release_announcement) [ja](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [nl](http://nl.opensuse.org/Release_announcement) [pt](http://pt.opensuse.org/Release_announcement) [ru](http://ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [zh](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E) [zh-tw](http://zh-tw.opensuse.org/Release_announcement))
+(_In other languages_: [cs](//cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD) [de](//de.opensuse.org/Ank%C3%BCndigung) [es](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_12.3) [fr](//fr.opensuse.org/Annonce_de_version) [it](//it.opensuse.org/Release_announcement) [ja](//ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [nl](//nl.opensuse.org/Release_announcement) [pt](//pt.opensuse.org/Release_announcement) [ru](//ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [zh](//zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E) [zh-tw](//zh-tw.opensuse.org/Release_announcement))
 
 
 
@@ -138,7 +138,7 @@ _– said openSUSE Board member Richard Brown_.
 
 
 **KDE**
-KWin brings openGL in most virtual machines and per-monitor support for color management. Also introduced are better printer management with a new and smarter printer wizard and a reworked update manager Apper (0.8) which shows and describes untrusted packages and automatically downloads packages in preparation for review. See this [great introduction](http://youtu.be/UqHppnzlXN4) to Plasma Desktop on openSUSE 12.3.
+KWin brings openGL in most virtual machines and per-monitor support for color management. Also introduced are better printer management with a new and smarter printer wizard and a reworked update manager Apper (0.8) which shows and describes untrusted packages and automatically downloads packages in preparation for review. See this [great introduction](//youtu.be/UqHppnzlXN4) to Plasma Desktop on openSUSE 12.3.
 
 
 
@@ -156,7 +156,7 @@ KWin brings openGL in most virtual machines and per-monitor support for color ma
 
 
 **GNOME**
-GNOME 3.6 includes smarter notifications including a redesigned Message Tray, the activities overview and the Nautilus file manager received an improved layout and a new Lock Screen which provides an attractive view when the device is locked, plus handy functionality like media controls. See the great [GNOME3 in 30 seconds](http://www.youtube.com/playlist?list=PL6851D21BFEF53113&feature=plcp) videos on youtube.
+GNOME 3.6 includes smarter notifications including a redesigned Message Tray, the activities overview and the Nautilus file manager received an improved layout and a new Lock Screen which provides an attractive view when the device is locked, plus handy functionality like media controls. See the great [GNOME3 in 30 seconds](//www.youtube.com/playlist?list=PL6851D21BFEF53113&feature=plcp) videos on youtube.
 
 
 
@@ -385,7 +385,7 @@ Linux 3.7 offers a wide range of improvements, varying from bugfixes to performa
   * Rewritten zypp PackageKit backend for improved integration with the cross-distro PackageKit and the graphical apper software update and installation tool
 
 	
-  * This release also brings proper UEFI support for x86_64 hardware and experimental support for Secure Boot enabled hardware. [Read this blog](http://jaegerandi.blogspot.fr/2012/08/uefi-secure-boot-and-opensuse.html) for more information and find out how to use it [in the wiki](https://en.opensuse.org/openSUSE:UEFI).
+  * This release also brings proper UEFI support for x86_64 hardware and experimental support for Secure Boot enabled hardware. [Read this blog](//jaegerandi.blogspot.fr/2012/08/uefi-secure-boot-and-opensuse.html) for more information and find out how to use it [in the wiki](https://en.opensuse.org/openSUSE:UEFI).
 
 
 
@@ -494,7 +494,7 @@ The KDE and GNOME live images are now designed to be written to, booted and inst
 
 
 **SUSE Studio**
-[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 12.3 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 12.3 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse other’s shared appliances on [SUSE Gallery](http://susegallery.com).
+[SUSE Studio users](//susestudio.com) can expect availability of openSUSE 12.3 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 12.3 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse other’s shared appliances on [SUSE Gallery](//susegallery.com).
 
 
 
@@ -513,15 +513,15 @@ _– said Michael Miller, VP of SUSE_
 
 As usual, this release will continue to receive bugfixes and security updates for at least 2 release cycles + 2 months. Currently, openSUSE 13.1 is scheduled in about eight months.
 
-For an even more detailed feature guide visit [opensuse.org/12.3](http://opensuse.org/Portal:12.3).
+For an even more detailed feature guide visit [opensuse.org/12.3](//opensuse.org/Portal:12.3).
 
 
 ## Go, get it!
 
 
-Downloads of openSUSE 12.3 can be found at [software.opensuse.org/123](http://software.opensuse.org/123)
+Downloads of openSUSE 12.3 can be found at [software.opensuse.org/123](//software.opensuse.org/123)
 
-Users currently running openSUSE 12.2 can [upgrade to openSUSE 12.3 via the instructions at this link](http://en.opensuse.org/Upgrade). Users who have a properly set-up [Tumbleweed setup](http://opensuse.org/Tumbleweed) will automatically migrate to the new release without any additional effort!
+Users currently running openSUSE 12.2 can [upgrade to openSUSE 12.3 via the instructions at this link](//en.opensuse.org/Upgrade). Users who have a properly set-up [Tumbleweed setup](//opensuse.org/Tumbleweed) will automatically migrate to the new release without any additional effort!
 
 Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Experimental ARM64 images are already available, stable 12.3 based images are there and will receive full maintenance alongside 12.3.
 
@@ -535,4 +535,4 @@ Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Expe
 ## About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](//www.opensuse.org)

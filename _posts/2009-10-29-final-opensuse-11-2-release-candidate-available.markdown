@@ -59,13 +59,13 @@ Release Candidate 2 includes a few new packages, and several of the "most annoyi
 
 
 
-A more complete list can be found on [the wiki](http://en.opensuse.org/Factory/News) and an updated list of Factory packages can be found on [DistroWatch](http://distrowatch.com/table.php?distribution=suse).
+A more complete list can be found on [the wiki](//en.opensuse.org/Factory/News) and an updated list of Factory packages can be found on [DistroWatch](//distrowatch.com/table.php?distribution=suse).
 
 
 
 
 
-11.2 is looking fantastic. Want screenshots? We've got 'em! Check out the shots [here](http://en.opensuse.org/Screenshots/11.2_Milestones), and/or add your own.
+11.2 is looking fantastic. Want screenshots? We've got 'em! Check out the shots [here](//en.opensuse.org/Screenshots/11.2_Milestones), and/or add your own.
 
 
 
@@ -83,13 +83,13 @@ As this is a release candidate, we're still shaking the release out for major bu
 
 
 
-You can find more on adding repositories on the [openSUSE wiki](http://en.opensuse.org/Add_Package_Repositories_to_YaST).
+You can find more on adding repositories on the [openSUSE wiki](//en.opensuse.org/Add_Package_Repositories_to_YaST).
 
 
 
 
 
-If any major new bugs do crop up, they will be listed on the openSUSE [wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.2_dev).
+If any major new bugs do crop up, they will be listed on the openSUSE [wiki](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.2_dev).
 
 
 
@@ -107,7 +107,7 @@ As you can see, 11.2 RC2 does have a few bugs that we know about -- but there ma
 
 
 
-To learn more about testing openSUSE, visit the [Testing](http://en.opensuse.org/Testing/) pages on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
+To learn more about testing openSUSE, visit the [Testing](//en.opensuse.org/Testing/) pages on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
 
 
@@ -119,7 +119,7 @@ To learn more about testing openSUSE, visit the [Testing](http://en.opensuse.org
 
 
 
-What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](http://software.opensuse.org/developer/) now.
+What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](//software.opensuse.org/developer/) now.
 
 
 
@@ -143,7 +143,7 @@ Replace "image.iso" with the name of the ISO image that you have downloaded, and
 
 
 
-The final release for 11.2 is scheduled to be released on November 12, 2009. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).
+The final release for 11.2 is scheduled to be released on November 12, 2009. See the detailed roadmap on the [on the wiki](//en.opensuse.org/Roadmap/11.2).
 
 
 

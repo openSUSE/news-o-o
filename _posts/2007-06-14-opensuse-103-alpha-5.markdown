@@ -12,4 +12,4 @@ categories:
 - Distribution
 ---
 
-The fifth Alpha release of openSUSE 10.3 has been [released](http://lists.opensuse.org/opensuse-announce/2007-06/msg00004.html). First time two one installation media are offered: a GNOME CD and a KDE CD. [Some annoying bugs](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev) were already discovered.
+The fifth Alpha release of openSUSE 10.3 has been [released](//lists.opensuse.org/opensuse-announce/2007-06/msg00004.html). First time two one installation media are offered: a GNOME CD and a KDE CD. [Some annoying bugs](//en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev) were already discovered.

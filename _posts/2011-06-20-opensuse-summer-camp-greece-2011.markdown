@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-[![](/wp-content/uploads/2011/06/Geekocamp.jpg)](http://news.opensuse.org/2011/06/20/opensuse-summer-camp-greece-2011/geekocamp/)
+[![](/wp-content/uploads/2011/06/Geekocamp.jpg)](//news.opensuse.org/2011/06/20/opensuse-summer-camp-greece-2011/geekocamp/)
 
 Summer in Greece!  Is the weather too hot for you to code or contribute to your favorite FOSS project? Do you need some motivation and a refreshing swim? Come to our Summer Camp!
 

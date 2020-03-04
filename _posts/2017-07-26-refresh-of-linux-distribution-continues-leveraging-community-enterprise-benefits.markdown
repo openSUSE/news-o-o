@@ -51,7 +51,7 @@ tags:
 
 
 
-(Languages: [DE](http://de.opensuse.org/Release_Ank%C3%BCndigung_42.3), [ES](http://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_42.3), [FR](http://fr.opensuse.org/Annonce_de_version_42.3), [IT](http://it.opensuse.org/Annuncio_di_rilascio_versione_42.3), [ZH](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E5%85%AC%E5%91%8A_42.3), [zh_TW](http://zh-tw.opensuse.org/Release_announcement_42.3))
+(Languages: [DE](//de.opensuse.org/Release_Ank%C3%BCndigung_42.3), [ES](//es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_42.3), [FR](//fr.opensuse.org/Annonce_de_version_42.3), [IT](//it.opensuse.org/Annuncio_di_rilascio_versione_42.3), [ZH](//zh.opensuse.org/%E5%8F%91%E8%A1%8C%E5%85%AC%E5%91%8A_42.3), [zh_TW](//zh-tw.opensuse.org/Release_announcement_42.3))
 
 
 ### **openSUSE Leap 42.3 Gives Smooth Desktop and Server Upgrade[![Leap-green.png](https://en.opensuse.org/images/0/0e/Leap-green.png)](https://en.opensuse.org/File:Leap-green.png)**
@@ -178,7 +178,7 @@ openSUSE Leap 42.3 represents the combined effort of thousands of developers who
 #### About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](//www.opensuse.org)
 
 ![](/wp-content/uploads/2017/07/leap-release-image.png)
 

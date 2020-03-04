@@ -12,10 +12,10 @@ categories:
 - Events
 ---
 
-![The openSUSE Summit logo](/wp-content/uploads/2012/03/logo.jpg)Everyone's excited about the upcoming [openSUSE Summit](http://summit.opensuse.org) in Orlando, Florida next month and now there is a full itinerary tailored just for you.  The openSUSE Summit, a 100% free event, is the first-ever gathering of the openSUSE Community in North America and follows on the success of the annual openSUSE Conference in Europe.  It immediately follows SUSECon at the same hotel.
+![The openSUSE Summit logo](/wp-content/uploads/2012/03/logo.jpg)Everyone's excited about the upcoming [openSUSE Summit](//summit.opensuse.org) in Orlando, Florida next month and now there is a full itinerary tailored just for you.  The openSUSE Summit, a 100% free event, is the first-ever gathering of the openSUSE Community in North America and follows on the success of the annual openSUSE Conference in Europe.  It immediately follows SUSECon at the same hotel.
 
 
-<blockquote>[Where and When](http://summit.opensuse.org/Location):Caribe Royale HotelOrlando, FloridaBegins: Friday, September 21 - 2:00 p.m.Ends: Sunday, September 23 - 3:15 p.m.</blockquote>
+<blockquote>[Where and When](//summit.opensuse.org/Location):Caribe Royale HotelOrlando, FloridaBegins: Friday, September 21 - 2:00 p.m.Ends: Sunday, September 23 - 3:15 p.m.</blockquote>
 
 
  
@@ -38,7 +38,7 @@ Registration to the openSUSE Summit is free.  But if you register by September 
 ### Sessions
 
 
-Just check out our [program guide](http://summit.opensuse.org/Sessions) and you'll see why there's something or everyone.  We've got topics ranging from openSUSE YaST to running openSUSE on your ARM device, to cloud computing and much more.  Our evening Ad Hoc BoF sessions opens up every room in the house so you can create your very own session.
+Just check out our [program guide](//summit.opensuse.org/Sessions) and you'll see why there's something or everyone.  We've got topics ranging from openSUSE YaST to running openSUSE on your ARM device, to cloud computing and much more.  Our evening Ad Hoc BoF sessions opens up every room in the house so you can create your very own session.
 
 
 ### Workshops
@@ -116,6 +116,6 @@ The openSUSE Summit wraps up on Sunday with a general meeting moderated by openS
 ## So What Are You Waiting For?!?
 
 
-If you're waiting for an invitation, this is it!  Visit the [official openSUSE Summit website](http://summit.opensuse.org) to get the full details.  And follow us on Twitter with #ossum12 to get the latest news and updates as we continue to make this a truly memorable event for you and your fellow Geeko peers.  All you gotta do is click that big button below and you're set to go!
+If you're waiting for an invitation, this is it!  Visit the [official openSUSE Summit website](//summit.opensuse.org) to get the full details.  And follow us on Twitter with #ossum12 to get the latest news and updates as we continue to make this a truly memorable event for you and your fellow Geeko peers.  All you gotta do is click that big button below and you're set to go!
 
-[![Click to Register](/wp-content/uploads/2012/08/register_button.png)](http://summit.opensuse.org/Register)
+[![Click to Register](/wp-content/uploads/2012/08/register_button.png)](//summit.opensuse.org/Register)

@@ -25,10 +25,10 @@ Study Area has spends a lot of time to promote free and open source software in 
 
 SA related online information
 
-(1) Study-Area [http://study-area.org/menu2.htm](http://study-area.org/menu2.htm)
+(1) Study-Area [//study-area.org/menu2.htm](//study-area.org/menu2.htm)
 
-(2) SA Forum [http://phorum.study-area.org/](http://phorum.study-area.org/)
+(2) SA Forum [//phorum.study-area.org/](//phorum.study-area.org/)
 
-(3) SA IRC Channel + [irc.freenode.net](http://irc.freenode.net/) /#study-area
+(3) SA IRC Channel + [irc.freenode.net](//irc.freenode.net/) /#study-area
 
 

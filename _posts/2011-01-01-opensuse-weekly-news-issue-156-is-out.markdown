@@ -77,7 +77,7 @@ We are pleased to announce our 156 issue of the openSUSE Weekly News.
 
 The openSUSE Weekly News Team wishes all readers a good year 2011.
 
-You can also read this issue in other formats. Just click [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats. Just click [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy the reading :-)
 
@@ -85,33 +85,33 @@ Enjoy the reading :-)
 
 <blockquote>**
       [openSUSE at
-        and with FOSDEM 2011](http://news.opensuse.org/2010/12/28/opensuse-at-and-with-fosdem-2011/)
+        and with FOSDEM 2011](//news.opensuse.org/2010/12/28/opensuse-at-and-with-fosdem-2011/)
     **
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
 > <td align="center" >![](/wp-content/uploads/2010/12/openSUSEboothfosdemrhlim.jpg)
 > </td></tr></table>
 > 
-> Next years [FOSDEM](http://www.fosdem.org/2011/) takes place again in
+> Next years [FOSDEM](//www.fosdem.org/2011/) takes place again in
       Brussels on Feb 5th and 6th 2011 and openSUSE will be present as usual!
 > 
 > Apart of the well known high level open Source tech conference there will be for the 2nd
-      time the Distribution [Miniconf](http://www.fosdem.org/2011/distrominiconf).
+      time the Distribution [Miniconf](//www.fosdem.org/2011/distrominiconf).
       The Miniconf provides the perfect place for different projects to share ideas, talk about
       challenges each project has and to foster collaboration – and as openSUSE is all about
       collaboration we want to play a major role there.
 > 
 > The Miniconf is open for every project. For more information please subscribe on the
-      Miniconf [mailinglist](http://lists.fosdem.org/mailman/listinfo/dist2011).
+      Miniconf [mailinglist](//lists.fosdem.org/mailman/listinfo/dist2011).
       We are looking for talks about cross-distro collaboration and presentations on openSUSE
       technology – like OBS, openFATE but also where we are going – things like Tumbleweed!
 > 
 > Our contact with FOSDEM is [Henne
-        Vogelsang](http://en.opensuse.org/User:Hennevogel), if you think about giving a talk, contact him.
+        Vogelsang](//en.opensuse.org/User:Hennevogel), if you think about giving a talk, contact him.
 > 
 > </blockquote>
 
-<blockquote>**[Winner of openSUSE 2010 survey got his Chumby!](http://news.opensuse.org/2010/12/30/winner-of-opensuse-2010-survey-got-his-chumby/)**
+<blockquote>**[Winner of openSUSE 2010 survey got his Chumby!](//news.opensuse.org/2010/12/30/winner-of-opensuse-2010-survey-got-his-chumby/)**
 > 
 > **Figure 1. The elusive Thirsty Thirteen**
 > 
@@ -161,14 +161,14 @@ Enjoy the reading :-)
 > 
 > **Survey results**
 > 
-> The survey results are available as [pdf file](http://en.opensuse.org/images/3/3a/SurveySummary_03012010.pdf) and on the openSUSE Survey 
-      2010 [wiki page](http://en.opensuse.org/openSUSE:Survey_2010) an extensive analysis has been made. The results have helped make project 
+> The survey results are available as [pdf file](//en.opensuse.org/images/3/3a/SurveySummary_03012010.pdf) and on the openSUSE Survey 
+      2010 [wiki page](//en.opensuse.org/openSUSE:Survey_2010) an extensive analysis has been made. The results have helped make project 
       decisions, be it technical, marketing or otherwise – and we call upon all openSUSE community members to keep using these numbers to back up their choices! We want to be 
       close to ourselves and the opinions of 27,000 users and contributors is nothing to be sneezed at.
 > 
 > We’d like to thank everyone who answered the questionnaire again for their time and efforts and wish the winners a lot of fun with their prizes and their future 
       endeavors in the world of Free Software! And as usual, if you’re looking into getting involved, you can simply contact anyone on IRC or mail – that includes me, your 
-      humble writer. Find me on IRC [(freenode.net in the openSUSE channels like #opensuse-project)](http://webchat.freenode.net/) under the 
+      humble writer. Find me on IRC [(freenode.net in the openSUSE channels like #opensuse-project)](//webchat.freenode.net/) under the 
       nick jospoortvliet!
 > 
 > </blockquote>
@@ -179,11 +179,11 @@ Enjoy the reading :-)
 
 **Important Links**
 
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
-  * [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
-  * [Bug Reporting FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+  * [Bug Reporting FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 ### Team Report
 
@@ -191,7 +191,7 @@ Enjoy the reading :-)
 
 <blockquote>**
           [openSUSE
-            Boosters Year 2010](http://news.opensuse.org/2010/12/29/opensuse-boosters-year-2010/)
+            Boosters Year 2010](//news.opensuse.org/2010/12/29/opensuse-boosters-year-2010/)
         **
 > 
 > **Figure 2. The elusive Thirsty Thirteen**
@@ -210,7 +210,7 @@ Enjoy the reading :-)
 > 
 > **Who are the Boosters**
 > 
-> For those who do not know who [the Boosters](http://en.opensuse.org/openSUSE:Boosters_team) are: We’re not Tuxies favorite boy group, but a bunch of people
+> For those who do not know who [the Boosters](//en.opensuse.org/openSUSE:Boosters_team) are: We’re not Tuxies favorite boy group, but a bunch of people
           dedicated to help the openSUSE Project in any way we can. The team consists of 13 people (BTW:
           widely known as the thirsty thirteen) with skills ranging from low level C hackery over Ruby
           on Rails mastering to Graphical Design or Project Management. Our team picks milestones and
@@ -261,7 +261,7 @@ Enjoy the reading :-)
 > 
 >   * OBS
 > 
-> In parallel to that, Coolo and Tom were contributing to the new BuildService [web interface](http://build.opensuse.org). After long working hours we
+> In parallel to that, Coolo and Tom were contributing to the new BuildService [web interface](//build.opensuse.org). After long working hours we
               finally came out with a great web interface for OBS which was a big bum for the whole
               project, as it makes working in OBS much more fun. I remember that whole thing being
               started as a sprint called “Factory status”, aiming to provide a good [overview
@@ -282,7 +282,7 @@ Enjoy the reading :-)
               boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is
               contributing to the distribution, we all have our shares in it. 11.3 was a good one, it
               got good press and showed that we as a community are doing great. All over the world
-              release parties were organized, some Boosters took over the one here in Nürnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm,
+              release parties were organized, some Boosters took over the one here in Nürnberg. [Nice party](//lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm,
               because many community members showed up. Cool, I love that kind of stress to organize
               food and beer quickly to let the party go on :-)
 > 
@@ -295,7 +295,7 @@ Enjoy the reading :-)
 > 
 >   * openSUSE conference
 > 
-> In autumn, the for me most exciting event of the year took place, the second [openSUSE Conference](http://en.opensuse.org/Portal:Conference). We were
+> In autumn, the for me most exciting event of the year took place, the second [openSUSE Conference](//en.opensuse.org/Portal:Conference). We were
               heavily involved in organizing, program committee work, giving talks and presentations and
               all what is involved with that kind of large event. It was a huge success, as a very
               active and passionate community showed up. Discussions went from a “This is what we did”
@@ -306,7 +306,7 @@ Enjoy the reading :-)
 >   * openFATE, Connect and more
 > 
 > After the conference and the release of 11.3 we started to dig into milestones again
-              with [openFATE](http://features.opensuse.org) and [Connect](http://connect.opensuse.org). Since a couple of weeks we have a
+              with [openFATE](//features.opensuse.org) and [Connect](//connect.opensuse.org). Since a couple of weeks we have a
               nice looking openFATE that has the features that make it possible for the feature
               screening team to work on one of our most important tasks in our project: Looking into the
               future of the distribution with feature evaluation. We also implemented the future of the
@@ -331,7 +331,7 @@ Enjoy the reading :-)
 #### ![Header Picture](/wp-content/uploads/2010/12/GNOME-foot.jpg)GNOME Team
 
 <blockquote>**
-          [Nelson Marques: Kick off for GNOME:Ayatana Project…](http://lizards.opensuse.org/2010/12/29/kick-off-for-gnomeayatana-project/)
+          [Nelson Marques: Kick off for GNOME:Ayatana Project…](//lizards.opensuse.org/2010/12/29/kick-off-for-gnomeayatana-project/)
         **
 > 
 > “Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.” // Peter F. Drucker
@@ -351,7 +351,7 @@ Enjoy the reading :-)
         of Conscience, interesting point). This is also interesting as if YOU are willing to improve a package or submit a package you can now do it to this repository.
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="65%" summary="manufactured viewport for HTML img" ><tr >
-> <td align="center" >![](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-nmarques@magtheridon...ketherielayatana.png)
+> <td align="center" >![](//lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-nmarques@magtheridon...ketherielayatana.png)
 > </td></tr></table>
 > 
 > This goes with a very huge cookie for Dimstar and Vuntz for taking care of this repository and making sure that everything will comply with the openSUSE 
@@ -362,7 +362,7 @@ Enjoy the reading :-)
 #### ![Header Picture](/wp-content/uploads/2010/12/Start-here-branding.png)Marketing Team
 
 <blockquote>**
-          [The first Marketing Collaboration days are over but more will come!](http://news.opensuse.org/2010/12/28/the-first-marketing-collaboration-days-are-over-but-more-will-come/)
+          [The first Marketing Collaboration days are over but more will come!](//news.opensuse.org/2010/12/28/the-first-marketing-collaboration-days-are-over-but-more-will-come/)
         **
 > 
 > On the 6th of December, the openSUSE marketing team held the first of three Collaboration
@@ -441,7 +441,7 @@ Enjoy the reading :-)
           **
 > 
 > "I wanted to open a fate feature about this when I first heard of plymouth, but reading 
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/ really makes me think we should go this way.
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/ really makes me think we should go this way.
 > 
 > Ray's comment starting with "Every flicker and mode change in the boot process takes away from the whole experience." is especially interesting. 
             Is it okay to track the "don't show grub by default" here?"
@@ -533,7 +533,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 #### ![Header Picture](/wp-content/uploads/2010/12/Suse_Box.png)Testing Team
 
 <blockquote>**
-          [Larry Finger: Weekly News for January 1](http://lists.opensuse.org/opensuse-testing/2011-01/msg00000.html)
+          [Larry Finger: Weekly News for January 1](//lists.opensuse.org/opensuse-testing/2011-01/msg00000.html)
         **
 > 
 > The next Testing Core Team IRC meeting will be held 2011-01-31 at 18:00 UTC and
@@ -555,16 +555,16 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 #### ![Header Picture](/wp-content/uploads/2010/12/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
 
 ### Postings from the Community
 
-<blockquote>**[Manu Gupta: FOSS.in Day 2](http://suseware.com/blog/2010/12/29/foss-in-day-2-3-and-during-the-holidays/)
+<blockquote>**[Manu Gupta: FOSS.in Day 2](//suseware.com/blog/2010/12/29/foss-in-day-2-3-and-during-the-holidays/)
       **
 > 
 > FOSS.in day 2 continued.. yes I know after a long ten big days but I was too lazy to write a blog post, so  I will summarize things quite fast over here. The second 
@@ -576,10 +576,10 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 > 
 > As I reached my home, I was again anxiously waiting for the for the next openSUSE Collab Event – Social Media and PR which was quite successful and I enjoyed it 
         thoroughly.  In the last few days I also played with the flickr api, and came up with a bunch of php based libraries. The best flickr api wrapper which I found was 
-        [phpflickr](http://phpflickr.com/). The reasons being this guy has wonderfully wrapped all the functions of the flickr api. I played it around and used 
+        [phpflickr](//phpflickr.com/). The reasons being this guy has wonderfully wrapped all the functions of the flickr api. I played it around and used 
         Robert Lihm’s bento theme to make a photo gallery for openSUSE at my site.
 > 
-> You can find a view of my tinkerings at [http:// suseware.com/flick](http:// suseware.com/flick). Man I am such a copy cat. Please give put in your 
+> You can find a view of my tinkerings at [// suseware.com/flick](// suseware.com/flick). Man I am such a copy cat. Please give put in your 
         comments, improvements or anything, I will really appreciate it.
 > 
 > Also, if you may notice I have come up with a new blog design, this looks much cleaner imo and finally I inserted Google ads into my blog. Also removed a host of 
@@ -593,36 +593,36 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 **Past**
 
-  * [December 27, 2010 : openSUSE Testing Core Team IRC Meeting](http://news.opensuse.org/2010/12/13/opensuse-testing-core-team-irc-meeting-2/)
+  * [December 27, 2010 : openSUSE Testing Core Team IRC Meeting](//news.opensuse.org/2010/12/13/opensuse-testing-core-team-irc-meeting-2/)
 
   * [December
-            29, 2010 : German Wiki Team Meeting](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+            29, 2010 : German Wiki Team Meeting](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 **Upcoming**
 
-  * [January 12, 2011 : openSUSE Project Meeting (16:00)](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [January 12, 2011 : openSUSE Project Meeting (16:00)](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-  * [January 12, 2011 : ﻿openSUSE Board Meeting (19:00)](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [January 12, 2011 : ﻿openSUSE Board Meeting (19:00)](//news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [January 13, 2011 : ﻿openSUSE KDE Team meeting (18:00)](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 13, 2011 : ﻿openSUSE KDE Team meeting (18:00)](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-      or download it on [Radiotux](http://blog.radiotux.de/podcast). 
+      or download it on [Radiotux](//blog.radiotux.de/podcast). 
 
 ### From Ambassadors
 
 <blockquote>**
-        [Greek openSUSE Ambassadors: Report: 1st OpenFest Open Christmas at Florina, December 24th 2010](http://opensuseambassadors.blogspot.com/2010/12/report-1-openfest-open-christmas-at.html)
+        [Greek openSUSE Ambassadors: Report: 1st OpenFest Open Christmas at Florina, December 24th 2010](//opensuseambassadors.blogspot.com/2010/12/report-1-openfest-open-christmas-at.html)
       **
 > 
 > **Figure 3. Merry Christmas to everyone**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-> <td align="center" >![Merry Christmas to everyone](http://diamond.comlu.com/suse/events/florina_24_12_10/14.jpg)
+> <td align="center" >![Merry Christmas to everyone](//diamond.comlu.com/suse/events/florina_24_12_10/14.jpg)
 > </td></tr></table>
 > 
 >   
@@ -642,7 +642,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > 
 > </blockquote>
 
-<blockquote>**[José Oramas M.: Kokoa and Friends Meeting (KyA2010)](http://lizards.opensuse.org/2010/12/31/kokoa-and-friends-meeting-kya2010/)**
+<blockquote>**[José Oramas M.: Kokoa and Friends Meeting (KyA2010)](//lizards.opensuse.org/2010/12/31/kokoa-and-friends-meeting-kya2010/)**
 > 
 > The first Kokoa and Friends meeting took place the 20th of December at the Computing and Electrical Department of ESPOL.
 > 
@@ -656,16 +656,16 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > Special thanks to Cristina Guerrero, Nervo Verdezoto, Marisol Villacrés, and from Jarflex, Adonis Figueroa and Jessica Zuñiga the speakers of this meeting and 
       specially to Arturo Tumbaco, who helped me with the logistics to make this event possible.
 > 
-> [Here some pictures about the meeting.](http://lizards.opensuse.org/2010/12/31/kokoa-and-friends-meeting-kya2010/)
+> [Here some pictures about the meeting.](//lizards.opensuse.org/2010/12/31/kokoa-and-friends-meeting-kya2010/)
 > 
 > </blockquote>
 
-<blockquote>**[Greek openSUSE Ambassadors: Xariseto.gr Bazaar, December 28-29-30, 2010 - report](http://opensuseambassadors.blogspot.com/2010/12/xarisetogr-bazaar-december-28-29-30.html)**
+<blockquote>**[Greek openSUSE Ambassadors: Xariseto.gr Bazaar, December 28-29-30, 2010 - report](//opensuseambassadors.blogspot.com/2010/12/xarisetogr-bazaar-december-28-29-30.html)**
 > 
 > **Figure 4. Merry Christmas to everyone**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td align="center" >![Merry Christmas to everyone](http://diamond.comlu.com/suse/events/xariseto_28_12_10/3.jpg)
+> <td align="center" >![Merry Christmas to everyone](//diamond.comlu.com/suse/events/xariseto_28_12_10/3.jpg)
 > </td></tr></table>
 > 
 >   
@@ -682,17 +682,17 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
-<blockquote>**[Packman: yamdi 1.7-0.pm](http://packman.links2linux.org/package/yamdi)**
+<blockquote>**[Packman: yamdi 1.7-0.pm](//packman.links2linux.org/package/yamdi)**
 > 
 > “yamdi stands for Yet Another MetaData Injector and is a metadata injector
       for FLV files. It adds the onMetaData event to your FLV files. It uses little
@@ -700,7 +700,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > 
 > </blockquote>
 
-<blockquote>**[Packman: pogo 0.3.1-0.pm](http://packman.links2linux.org/package/pogo)**
+<blockquote>**[Packman: pogo 0.3.1-0.pm](//packman.links2linux.org/package/pogo)**
 > 
 > “Pogo is probably the simplest and fastest audio player for Linux. Its
       elementary-inspired design uses the screen-space very efficiently. Pogo is
@@ -710,9 +710,9 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > 
 > </blockquote>
 
-<blockquote>**[Packman: mupen64plus 1.99.4-2.pm](http://packman.links2linux.de/package/mupen64plus)**
+<blockquote>**[Packman: mupen64plus 1.99.4-2.pm](//packman.links2linux.de/package/mupen64plus)**
 > 
-> “[Mupen64Plus](http://code.google.com/p/mupen64plus/) is a plugin-based N64 emulator which is capable of accurately
+> “[Mupen64Plus](//code.google.com/p/mupen64plus/) is a plugin-based N64 emulator which is capable of accurately
       playing many games. It includes four MIPS R4300 CPU emulators, with dynamic
       recompilers for 32-bit x86 and 64-bit amd64 systems.  It supports plugins for
       audio, graphical rendering (RDP), the signal co-processor (RSP), and input.”
@@ -721,7 +721,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 **You can find other interesting Packages at:**
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf)
 
   * [openSUSE Build
         Service](https://hermes.opensuse.org/feeds/66367.rdf)
@@ -729,13 +729,13 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 ## ![Header Picture](/wp-content/uploads/2010/12/Logo-SecurityUpdates.png)Security Updates
 
 To view the security announcements in full, or to receive them
-    as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Tux.svg_.png)Kernel Review
 
 <blockquote>**
       [Linux
-        User and Developer/Jon Masters: The kernel column #95 by Jon Masters](http://www.linuxuser.co.uk/opinion/the-kernel-column-95-by-jon-masters/)
+        User and Developer/Jon Masters: The kernel column #95 by Jon Masters](//www.linuxuser.co.uk/opinion/the-kernel-column-95-by-jon-masters/)
     **
 > 
 > **Jon Masters talks about features in the 2.6.37 Linux kernel and
@@ -765,14 +765,14 @@ To view the security announcements in full, or to receive them
       experiences with having to maintain large patches for Xen). Only time can tell what will
       happen there. (...)
 > 
-> This article originally appeared in [issue 95](http://www.linuxuser.co.uk/magazine-issues/linux-user-developer-issue-95-is-out-now/) of [Linux User &
-          Developer](http://www.linuxuser.co.uk/) magazine.The kernel column #95 by Jon Masters Subscribe and save more
+> This article originally appeared in [issue 95](//www.linuxuser.co.uk/magazine-issues/linux-user-developer-issue-95-is-out-now/) of [Linux User &
+          Developer](//www.linuxuser.co.uk/) magazine.The kernel column #95 by Jon Masters Subscribe and save more
         than 30% and receive our exclusive money back guarantee – click [here](https://imagine.subscribeonline.co.uk/all-titles/linux-user-&-developer?offer=WEB100) to find out more.
 > 
 > </blockquote>
 
 <blockquote>**
-      [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.37 (Part 5) - Drivers](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-5-Drivers-1158991.html)
+      [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.37 (Part 5) - Drivers](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-5-Drivers-1158991.html)
     **
 > 
 > Support for fast USB 3.0 storage devices with USB Attached SCSI Protocol (UASP), an audio
@@ -787,24 +787,24 @@ To view the security announcements in full, or to receive them
 ### For Commandline/Script Newbies
 
 <blockquote>**
-        [PCWorld/Katherine Noyes: 12 Commands Every Linux Newbie Should Learn](http://www.pcworld.com/businesscenter/article/214370/12_commands_every_linux_newbie_should_learn.html)
+        [PCWorld/Katherine Noyes: 12 Commands Every Linux Newbie Should Learn](//www.pcworld.com/businesscenter/article/214370/12_commands_every_linux_newbie_should_learn.html)
       **
 > 
-> PC World - It's a testament to how far [Linux](http://www.pcworld.com/businesscenter/article/207479/linux_is_on_the_rise_for_business.html?tk=rel_news) has come that users today don't typically have to use the command line if they don't want to. Such is the quality of the graphical user 
-        interfaces in many modern [Linux distributions](http://www.pcworld.com/businesscenter/article/204767/a_guide_to_todays_top_10_linux_distributions.html?tk=rel_news) that there's simply no need, in general.
+> PC World - It's a testament to how far [Linux](//www.pcworld.com/businesscenter/article/207479/linux_is_on_the_rise_for_business.html?tk=rel_news) has come that users today don't typically have to use the command line if they don't want to. Such is the quality of the graphical user 
+        interfaces in many modern [Linux distributions](//www.pcworld.com/businesscenter/article/204767/a_guide_to_todays_top_10_linux_distributions.html?tk=rel_news) that there's simply no need, in general.
 > 
 > Yet the command line can be a highly efficient way of getting things done in the Linux
         world--it's often a much simpler, easier and more direct method than clicking through all
         the menu choices, in fact.
 > 
 > I believe fear of the command line is one of the 
-        [top mistakes](http://www.pcworld.com/businesscenter/article/207739/top_5_mistakes_made_by_linux_firsttimers.html?tk=rel_news) newcomers to Linux sometimes make. For that reason, let's look at
+        [top mistakes](//www.pcworld.com/businesscenter/article/207739/top_5_mistakes_made_by_linux_firsttimers.html?tk=rel_news) newcomers to Linux sometimes make. For that reason, let's look at
         some of the main commands any Linux user should know. (...)
 > 
 > </blockquote>
 
 <blockquote>**
-        [Linux.com: 2010 VIm Guide Roundup](http://www.linux.com/learn/tutorials/393476:2010-vim-guide-roundup)
+        [Linux.com: 2010 VIm Guide Roundup](//www.linux.com/learn/tutorials/393476:2010-vim-guide-roundup)
       **
 > 
 > Making your New Year's Resolutions for 2011? How about adding, "learn Vim" to the list?
@@ -817,14 +817,14 @@ To view the security announcements in full, or to receive them
 >   * **Vim 101: A Beginner's Guide to Vim**
 > 
 > This tutorial covers Vim's modes, the basics of moving using Vim's keybindings,
-            editing, searching and replacing, and much more. Read the rest in [A Beginner's Guide to Vim](http://www.linux.com/learn/tutorials/228600-vim-101-a-beginners-guide-to-vim).
+            editing, searching and replacing, and much more. Read the rest in [A Beginner's Guide to Vim](//www.linux.com/learn/tutorials/228600-vim-101-a-beginners-guide-to-vim).
 > 
 >   * **Vim 201: An Intermediate Guide to Vim**
 > 
 > Many use Vim, but don't make use of nearly all the features. In this guide, we'll
             take a look at some of the intermediate features offered by Vim, including
             abbreviations, word completion, and editing multiple documents in the same Vim session.
-            Get the full scoop in [An Intermediate Guide to Vim](http://www.linux.com/learn/tutorials/243002-vim-201-an-intermediate-guide-to-vim).
+            Get the full scoop in [An Intermediate Guide to Vim](//www.linux.com/learn/tutorials/243002-vim-201-an-intermediate-guide-to-vim).
 > 
 >   * **Vim 301: Getting Adept at Vim**
 > 
@@ -833,19 +833,19 @@ To view the security announcements in full, or to receive them
             surface of what Vim can do. This tutorial covers setting up a Vim configuration file,
             using the "folding" features, getting to the shell from Vim, and the dot. 
 > 
-> It's all in [Getting Adept at Vim](http://www.linux.com/learn/tutorials/262147-vim-301-getting-adept-at-vim).
+> It's all in [Getting Adept at Vim](//www.linux.com/learn/tutorials/262147-vim-301-getting-adept-at-vim).
 > 
 >   * **Vim 401: Extending Vim and More**
 > 
 > The next installment goes into more detail on plugins and scripts, using Vim's GUI
             (yes, it does have a GUI!), bookmarks, and where to find scripts and plugins. Check out
-              [Extending Vim and More](http://www.linux.com/learn/tutorials/264315-vim-401-extending-vim-and-more).
+              [Extending Vim and More](//www.linux.com/learn/tutorials/264315-vim-401-extending-vim-and-more).
 > 
 >   * **Using Spell Checking in Vim**
 > 
 > If you're new to Vim and/or using Vim in text mode, it's not obvious that Vim even
             supports spell checking. But it does, and it's easy to use once you turn it on. If
-            you're tackling prose in Vim, you'll definitely want to read [Using Spell Checking in Vim](http://www.linux.com/learn/tutorials/357267-using-spell-checking-in-vim).
+            you're tackling prose in Vim, you'll definitely want to read [Using Spell Checking in Vim](//www.linux.com/learn/tutorials/357267-using-spell-checking-in-vim).
 > 
 > Look for more guides and tutorials in 2011 on Linux utilities and tools. Have some
       suggestions? Drop us a note in the comments!
@@ -858,7 +858,7 @@ To view the security announcements in full, or to receive them
         [Packt/Daniel Arbuckle: Testing Tools and Techniques in Python](https://www.packtpub.com/article/testing-tools-techniques-python)
       **
 > 
-> This article by Daniel Arbuckle, author of [Python Testing](http://bit.ly/OWN1561), introduces code coverage and continuous integration, and teaches 
+> This article by Daniel Arbuckle, author of [Python Testing](//bit.ly/OWN1561), introduces code coverage and continuous integration, and teaches 
         how to tie automated testing into version control systems. In this article, we will
 > 
 >   * Discuss code coverage, and learn about coverage.py
@@ -870,7 +870,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [Balau: Coding styles comparison in the Open Source Software world](http://balau82.wordpress.com/2010/12/28/coding-styles-comparison-in-the-open-source-software-world/)
+        [Balau: Coding styles comparison in the Open Source Software world](//balau82.wordpress.com/2010/12/28/coding-styles-comparison-in-the-open-source-software-world/)
       **
 > 
 > While looking for existing C coding standards I discovered that the GNU and Linux projects officially suggest very different styles. Inside the Linux kernel 
@@ -906,13 +906,13 @@ To view the security announcements in full, or to receive them
 ### For System Administrators
 
 <blockquote>**
-        [Masim Sugianto: DomainKeys/DKIM Implementation on Zimbra+SLES 11 SP1 with OpenDKIM](http://vavai.net/2010/12/domainkeysdkim-implementation-on-zimbrasles-11-sp1-with-opendkim/)
+        [Masim Sugianto: DomainKeys/DKIM Implementation on Zimbra+SLES 11 SP1 with OpenDKIM](//vavai.net/2010/12/domainkeysdkim-implementation-on-zimbrasles-11-sp1-with-opendkim/)
       **
 > 
 > **Figure 5. Zimbra**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Zimbra](http://vavai.com/wp-content/uploads/2010/12/zimbra-logo32.jpg)
+> <td >![Zimbra](//vavai.com/wp-content/uploads/2010/12/zimbra-logo32.jpg)
 > </td></tr></table>
 > 
 >   
@@ -939,13 +939,13 @@ To view the security announcements in full, or to receive them
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Logo-PlanetSUSE.png)Planet SUSE
 
-<blockquote>**[Petr Baudis: quick update](http://log.or.cz/?p=108)**
+<blockquote>**[Petr Baudis: quick update](//log.or.cz/?p=108)**
 > 
 > Couple of things to blog about accumulated again, so I guess I will be posting bunch of articles soon. For such a long gap, a general update is in order, 
     I suppose.
 > 
 > Aside of my studies, continuous MCTS (Go) research, grinding away on random glibc bugs and such, I most notably got involved in **brmlab** 
-      this summer – the [Prague hackerspace](http://brmlab.cz/). We got a pretty thriving community there now, with various cool events, a lot of great 
+      this summer – the [Prague hackerspace](//brmlab.cz/). We got a pretty thriving community there now, with various cool events, a lot of great 
       projects (I’m involved in quite a few), and so on!
 > 
 > Well, I wanted to mention more, but I can’t remember it right now. I suppose it will just come together. Oh, and seeing my last post – I have a new bike, this time 
@@ -953,7 +953,7 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-<blockquote>**[Petr Baudis: Datasheet Translator](http://log.or.cz/?p=110)**
+<blockquote>**[Petr Baudis: Datasheet Translator](//log.or.cz/?p=110)**
 > 
 > As we (well, mostly other people than me) were dealing with a rather obscure micro-controller when hacking our laser projector in brmlab, the only datasheet we have 
       found has been in Chinese. This is quite often the case with obscure China-made parts (including event stuff like LEDs) and it’s annoying to deal with.
@@ -961,9 +961,9 @@ To view the security announcements in full, or to receive them
 > So I hacked together a simple datasheet translator – you feed it a PDF with your datasheet, specify the source language, let it munch away for a minute and then it 
       spews out a link to the English translation!
 > 
->   * [http://datasheet-en.or.cz](http://datasheet-en.or.cz/)
+>   * [//datasheet-en.or.cz](//datasheet-en.or.cz/)
 > 
->   * Example: [http://tinyurl.com/2bbq6o7](http://tinyurl.com/2bbq6o7)
+>   * Example: [//tinyurl.com/2bbq6o7](//tinyurl.com/2bbq6o7)
 > 
 > Its user interface is extremely rudimentary, if someone wants to add an AJAXy progressbar and what-not, just let me know. :-)
 > 
@@ -972,28 +972,28 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-<blockquote>**[Han Wen Kam: SUSE Linux Enterprise Wins Readers' Choice Award 2010](http://sellingfreesoftwareforaliving.blogspot.com/2010/12/suse-linux-enterprise-wins-readers.html)**
+<blockquote>**[Han Wen Kam: SUSE Linux Enterprise Wins Readers' Choice Award 2010](//sellingfreesoftwareforaliving.blogspot.com/2010/12/suse-linux-enterprise-wins-readers.html)**
 > 
-> On 15th October 2010, Novell was presented a [Readers' Choice Award](http://www.computerworld.com.sg/rca-2010/winners) from 
-      [ComputerWorld Singapore](http://mis-asia.com/magazines/computerworld_singapore) for winning in the Open Source Platforms/Operating Systems category. 
+> On 15th October 2010, Novell was presented a [Readers' Choice Award](//www.computerworld.com.sg/rca-2010/winners) from 
+      [ComputerWorld Singapore](//mis-asia.com/magazines/computerworld_singapore) for winning in the Open Source Platforms/Operating Systems category. 
       It was a very proud moment for us in Novell Singapore and I'm sure it will pleased all SUSE supporters everywhere.
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td align="center" >![](http://4.bp.blogspot.com/_B1ti23BeShI/TRqM3yUwEuI/AAAAAAAAAl8/yu8tJctXuow/s1600/SUSE-Trophy.jpg)
+> <td align="center" >![](//4.bp.blogspot.com/_B1ti23BeShI/TRqM3yUwEuI/AAAAAAAAAl8/yu8tJctXuow/s1600/SUSE-Trophy.jpg)
 > </td></tr></table>
 > 
 > Above is a photo of the trophy presented and its now sitting in a prominent place in the Novell Singapore office. :)
 > 
 > </blockquote>
 
-<blockquote>**[Pascal Bleser: Discussion: Packman repository layout](http://dev-loki.blogspot.com/2010/12/discussion-packman-repository-layout.html)**
+<blockquote>**[Pascal Bleser: Discussion: Packman repository layout](//dev-loki.blogspot.com/2010/12/discussion-packman-repository-layout.html)**
 > 
-> Just to inform everyone (who reads Planet openSUSE ;)) that we have started a [crucial discussion on the packman mailing-list](http://lists.links2linux.de/pipermail/packman/2010-December/009213.html) about (potentially) changing the layout of repositories.
+> Just to inform everyone (who reads Planet openSUSE ;)) that we have started a [crucial discussion on the packman mailing-list](//lists.links2linux.de/pipermail/packman/2010-December/009213.html) about (potentially) changing the layout of repositories.
 > 
 > As most if not all of you are using Packman on openSUSE, your opinion is more than welcome and if you would like to chime in, please give us your feedback (by 
       email, **NOT** as comments on this blog post).
 > 
-> Ultimately, the [Packman](http://packman.links2linux.org/) team will obviously take the decision, but we are very concerned about what would suit 
+> Ultimately, the [Packman](//packman.links2linux.org/) team will obviously take the decision, but we are very concerned about what would suit 
       our users best and, hence, we'd love to hear what you'd prefer us to do.
 > 
 > </blockquote>
@@ -1002,7 +1002,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[
 	Christmas login theme
-	](http://forums.opensuse.org/english/community/general-chit-chat/451854-christmas-theme-login.html)**
+	](//forums.opensuse.org/english/community/general-chit-chat/451854-christmas-theme-login.html)**
 > 
 > 
       This thread is about the annually returning phenomenon of the cute little penguins taking over the GRUB boot menu appearance. New users suspect virus infections, worms et cetera. In the thread you will learn, that it's not. Not a Christmas theme either, just a winter theme, given to us by the GRUB developpers.
@@ -1012,7 +1012,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[
       Partition isolation issue on openSUSE 11.2
-      ](http://forums.opensuse.org/english/get-help-here/applications/451886-11-2-partition-isolation-issue.html)**
+      ](//forums.opensuse.org/english/get-help-here/applications/451886-11-2-partition-isolation-issue.html)**
 > 
 > 
       Many times we meet issues on how to mount partitions. Here we have the opposite going on: how to keep end-users from mounting partitions the administrator does not want them to mount, for example partitions containing other operating systems. Filemanagers like Dolphin on KDE show these partitions as "Places" that can be accessed, where the administrator does not want these "places" to be exposed to end-user access. Various options to achieve this "isolation of partitions" are shown.
@@ -1022,7 +1022,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[
       Speed up boot time
-      ](http://forums.opensuse.org/english/get-help-here/install-boot-login/451891-speed-up-boot-time.html)**
+      ](//forums.opensuse.org/english/get-help-here/install-boot-login/451891-speed-up-boot-time.html)**
 > 
 > 
       A returning issue. With a lot of new technologies to speed up the boot time, some of them already in use on other distros, this question/issue arises. The thread starter found a difference in boot time speed between the latest Linux Mint and openSUSE. Read how members jump in to explain about the many improvements, that will definitely come to openSUSE as well.
@@ -1032,7 +1032,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**This week's subforum: [
       How to use the forums
-      ](http://forums.opensuse.org/english/forums-feedback/how-use-forums/)**
+      ](//forums.opensuse.org/english/forums-feedback/how-use-forums/)**
 > 
 > 
       One of the main issues for the Forums Team is to make the forums access fast and easy. Some users prefer NNTP (newsgroup) to read and post, others prefer the web interface. In this subforum you may find instructions on how to make things even better for you by using the forums software's features, there's threads to help you to use NNTP, explanations of the legenda etc. 
@@ -1046,11 +1046,11 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [Frank Karlitscheck: Beta of the Qt Creator Buildservice Plugin released (Project
-          Bretzn)](http://blog.karlitschek.de/2010/12/beta-of-qt-creator-buildservice-plugin.html)
+          Bretzn)](//blog.karlitschek.de/2010/12/beta-of-qt-creator-buildservice-plugin.html)
       **
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
-> <td align="center" >![](http://3.bp.blogspot.com/_2NI924aDGNc/TRsVY8C6yCI/AAAAAAAAALw/DiW8cGZZL_0/s1600/shot1.jpg)
+> <td align="center" >![](//3.bp.blogspot.com/_2NI924aDGNc/TRsVY8C6yCI/AAAAAAAAALw/DiW8cGZZL_0/s1600/shot1.jpg)
 > </td></tr></table>
 > 
 > **What is Project Bretzn?**
@@ -1079,7 +1079,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [conf.KDE.in:
-          First KDE Conference in India](http://dot.kde.org/2010/12/28/confkdein-first-kde-conference-india)
+          First KDE Conference in India](//dot.kde.org/2010/12/28/confkdein-first-kde-conference-india)
       **
 > 
 > The Indian KDE community will organize its first conference at Bengaluru in March 2011.
@@ -1096,7 +1096,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [KOffice 2.3.0
-          Released](http://www.calligra-suite.org/news/koffice-2-3-0-released/)
+          Released](//www.calligra-suite.org/news/koffice-2-3-0-released/)
       **
 > 
 > The KOffice team is happy to announce the 2.3 release of KOffice. This release brings
@@ -1106,7 +1106,7 @@ To view the security announcements in full, or to receive them
 > * Krita is now ready for professional artist use. This is thanks to the very focused
         effort by the Krita team after a meeting which resulted in a clear vision and well defined
         goals. More details are available in [Krita 2.3.0
-          announcement](http://www.calligra-suite.org/news/koffice-2-3-0-released/)
+          announcement](//www.calligra-suite.org/news/koffice-2-3-0-released/)
       
 > 
 >   * A new slide sorter view in KPresenter, which has been greatly missed by some users.
@@ -1125,14 +1125,14 @@ To view the security announcements in full, or to receive them
 ### Reports
 
 <blockquote>**
-        [Techradar/Graham Morrison: Linux in education: a genuine alternative](http://www.techradar.com/news/software/operating-systems/linux-in-education-a-genuine-alternative-915319)
+        [Techradar/Graham Morrison: Linux in education: a genuine alternative](//www.techradar.com/news/software/operating-systems/linux-in-education-a-genuine-alternative-915319)
       **
 > 
 > **Figure 6. The Barnix distribution was designed by students at Barnfield College to ease people
           into the world of Linux**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-> <td align="center" >![The Barnix distribution was designed by students at Barnfield College to ease people into the world of Linux](http://cdn.mos.techradar.com//Review%20images/Linux%20Format/LXF%20139/LXF139.schools.barnix_01-218-85.jpg)
+> <td align="center" >![The Barnix distribution was designed by students at Barnfield College to ease people into the world of Linux](//cdn.mos.techradar.com//Review%20images/Linux%20Format/LXF%20139/LXF139.schools.barnix_01-218-85.jpg)
 > </td></tr></table>
 > 
 >   
@@ -1174,7 +1174,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [ostatic/Susan
-          Linton: Results are in: openSUSE's Community Survey](http://ostatic.com/blog/results-are-in-opensuses-community-survey)
+          Linton: Results are in: openSUSE's Community Survey](//ostatic.com/blog/results-are-in-opensuses-community-survey)
       **
 > 
 > Back in February openSUSE held a survey to find more out about its community. Who are
@@ -1191,17 +1191,17 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**[NetworkWorld/Joe Brockmeier:Open Source Initiative chimes in on Novell
-        sale](http://www.networkworld.com/community/osi-chimes-in-on-novell-sale)**
+        sale](//www.networkworld.com/community/osi-chimes-in-on-novell-sale)**
 > 
 > The Open Source Initiative (OSI) is stepping into the Novell sale. The organization is
           [asking the German Federal Cartel
-          Office](http://www.opensource.org/statements/CPTN) to investigate the sale of Novell's patents to the Microsoft-led
+          Office](//www.opensource.org/statements/CPTN) to investigate the sale of Novell's patents to the Microsoft-led
         CPTN.
 > 
-> OSI is primarily known for being the keeper of the flame for the [Open Source Definition (OSD)](http://opensource.org/docs/osd) and approving
+> OSI is primarily known for being the keeper of the flame for the [Open Source Definition (OSD)](//opensource.org/docs/osd) and approving
         licenses that [meet the
-          definition](http://opensource.org/licenses/index.html). But members of the self-appointed OSI board, in particular Simon
-        Phipps, have said they [wish to nudge OSI into becoming a more active organization](http://www.itworld.com/open-source/100432/osi-board-addition-may-bring-needed-change) with an [actual representative membership structure](http://blogs.computerworlduk.com/simon-says/2010/06/your-chance-to-change-osi/index.htm). So far, little has happened, but this
+          definition](//opensource.org/licenses/index.html). But members of the self-appointed OSI board, in particular Simon
+        Phipps, have said they [wish to nudge OSI into becoming a more active organization](//www.itworld.com/open-source/100432/osi-board-addition-may-bring-needed-change) with an [actual representative membership structure](//blogs.computerworlduk.com/simon-says/2010/06/your-chance-to-change-osi/index.htm). So far, little has happened, but this
         is at least a minor step in that direction.
 > 
 > </blockquote>
@@ -1209,7 +1209,7 @@ To view the security announcements in full, or to receive them
 ### Reviews and Essays
 
 <blockquote>**
-        [LinuxLinks.com: 21 More Notable Free Linux Games (Part 3 of 3)](http://www.linuxlinks.com/article/2010121805530372/NotableGamesPart3.html)
+        [LinuxLinks.com: 21 More Notable Free Linux Games (Part 3 of 3)](//www.linuxlinks.com/article/2010121805530372/NotableGamesPart3.html)
       **
 > 
 > There are often reports regarding concerns about computer games having negative effects
@@ -1235,7 +1235,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [ZDNet/Steven J. Vaughan-Nichols: 2010's Top Five Linux and Open-Source
-          Stories](http://www.zdnet.com/blog/open-source/2010s-top-five-linux-and-open-source-stories/8008)
+          Stories](//www.zdnet.com/blog/open-source/2010s-top-five-linux-and-open-source-stories/8008)
       **
 > 
 > Sure, unlike me, you’re probably not reading this on a Linux desktop–Mint 10 for those
@@ -1252,10 +1252,10 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [Network World/Joe Brockmeier:
-          Understanding the Open Invention Network](http://www.networkworld.com/community/node/70116)
+          Understanding the Open Invention Network](//www.networkworld.com/community/node/70116)
       **
 > 
-> A couple of weeks ago I wrote about the [CPTN gang that's buying Novell's patents](http://www.networkworld.com/community/novell-patent-quartet-spells-google-trouble) and speculated that it might
+> A couple of weeks ago I wrote about the [CPTN gang that's buying Novell's patents](//www.networkworld.com/community/novell-patent-quartet-spells-google-trouble) and speculated that it might
         be a Google they're after. Whether Google or another company, a few folks have
         commented that the Open Invention Network (OIN) can protect members against patent threats
         from other OIN members. When it comes to Linux, that's true. When it comes to other
@@ -1264,11 +1264,11 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [Linuxinsider.com/Katherine Noyes: Linuxy Hopes, Dreams and Resolutions for 2011](http://www.linuxinsider.com/rsstory/71551.html?wlc=1293794091)
+        [Linuxinsider.com/Katherine Noyes: Linuxy Hopes, Dreams and Resolutions for 2011](//www.linuxinsider.com/rsstory/71551.html?wlc=1293794091)
       **
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
-> <td align="center" >![](http://www.linuxinsider.com/images/rw612529/linuxy.jpg)
+> <td align="center" >![](//www.linuxinsider.com/images/rw612529/linuxy.jpg)
 > </td></tr></table>
 > 
 > **Continuing to advocate "for all things Open Source or built
@@ -1281,8 +1281,8 @@ To view the security announcements in full, or to receive them
 > Now that New Year's Eve is almost upon us once again, there seems little to do with
         2010 but bid it a fond farewell and set our sights on what's to come. 
 > 
-> We've already taken the required [look back](http://www.linuxinsider.com/perl/story/71368.html) over the year;
-        we've even put the "[year of](http://www.linuxinsider.com/perl/story/71470.html)" debate through one more round. Now, all that's left to do is
+> We've already taken the required [look back](//www.linuxinsider.com/perl/story/71368.html) over the year;
+        we've even put the "[year of](//www.linuxinsider.com/perl/story/71470.html)" debate through one more round. Now, all that's left to do is
         formulate the hopes, dreams and resolutions that will carry us forward into 2011. 
 > 
 > That, at least, is what Linux bloggers have been doing in recent days down at the
@@ -1292,7 +1292,7 @@ To view the security announcements in full, or to receive them
 > The mood has been somber and contemplative, aided no doubt by the Peppermint Penguins,
         the Sudo Santas and the Command Lime Coolers that have been so freely flowing. 
 > 
-> What are [FOSS](http://en.wikipedia.org/wiki/FOSS) geeks hoping might
+> What are [FOSS](//en.wikipedia.org/wiki/FOSS) geeks hoping might
         happen in this coming year? What are their own resolutions and plans? Linux Girl settled
         into her favorite bar stool and took it upon herself to find out. (...)
 > 
@@ -1300,11 +1300,11 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [Groklaw: I Figured
-          Out What to Explain to You Next: Bylaws -- And a Word to the OpenSUSE Guys](http://www.groklaw.net/article.php?story=20101228003140376)
+          Out What to Explain to You Next: Bylaws -- And a Word to the OpenSUSE Guys](//www.groklaw.net/article.php?story=20101228003140376)
       **
 > 
 > I've been thinking and thinking about everything, and I've figured out what I
-        need to explain to you next. Reading [the log](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html) of the recent OpenSUSE board meeting discussing setting up a foundation
+        need to explain to you next. Reading [the log](//community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html) of the recent OpenSUSE board meeting discussing setting up a foundation
         for the project turned on the light in my head: you need to understand bylaws. Because
         corporations are setting up foundations to get you to donate code to them, and they set them
         up to suit themselves, not to benefit you. There's a difference between the community
@@ -1351,35 +1351,35 @@ We thank for this Issue:
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this
-    article? Then head right over to the [comment section](http://news.opensuse.org/?p=5240) and
+    article? Then head right over to the [comment section](//news.opensuse.org/?p=5240) and
     let us know! 
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
     and join! 
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-    mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-Since a few minutes you can use [Bugzilla](http://bit.ly/ownbugzilla) and
+Since a few minutes you can use [Bugzilla](//bit.ly/ownbugzilla) and
     openFATE for give your Feedback.
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-Icon-locale.png)Translations
 
 openSUSE Weekly News is translated into many languages. Issue
     156 is available in: 
 
-  * [English](http://news.opensuse.org/categories/weekly-news/)
+  * [English](//news.opensuse.org/categories/weekly-news/)
 
 Coming soon: 
 
-You can follow the status of the translation [there](http://en.opensuse.org/openSUSE:Weekly_news_translations).
+You can follow the status of the translation [there](//en.opensuse.org/openSUSE:Weekly_news_translations).
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/156)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/156)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://de.opensuse.org/OpenSUSE-Wochenschau/156)
+  * [German](//de.opensuse.org/OpenSUSE-Wochenschau/156)

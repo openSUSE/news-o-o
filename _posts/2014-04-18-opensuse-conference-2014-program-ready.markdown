@@ -21,7 +21,7 @@ categories:
 ## Kicking off
 
 
-In a week from today, on Thursday the 24th of April the conference kicks offwith a welcome get together at [the Sesame Tavern](http://www.sesame.hr/tovjerna.html) which is just 200 meters away from the venue. Standing with your back to the venue you will turn to your right walking slightly down hill toward the old town of Dubrovnik. Approximately 200 meters down the street you will see the Sesame sign on your right. The tavern is located at [Branitelja Dubrovnika 23, 20000 Dubrovnik](http://goo.gl/maps/XTdiL). We will start at 6:00 P.M. and hope to see you there!
+In a week from today, on Thursday the 24th of April the conference kicks offwith a welcome get together at [the Sesame Tavern](//www.sesame.hr/tovjerna.html) which is just 200 meters away from the venue. Standing with your back to the venue you will turn to your right walking slightly down hill toward the old town of Dubrovnik. Approximately 200 meters down the street you will see the Sesame sign on your right. The tavern is located at [Branitelja Dubrovnika 23, 20000 Dubrovnik](//goo.gl/maps/XTdiL). We will start at 6:00 P.M. and hope to see you there!
 ![Dubrovnik](/wp-content/uploads/2014/02/Untitled.png)
 
 
@@ -35,7 +35,7 @@ We are very excited about the excellent talks and workshops that have been submi
 ### Relaxation
 
 
-With all the material being presented we will not loose sight that a bit of relaxation is needed as well. The conference party on Sunday evening starts at 7:00 P.M. (19:00) at the [EastWest Pub](http://ew-dubrovnik.com/), which is located right at the beach at Frana Supila 4. The pub is just south of the old town and it takes about 15 to 20 minutes to walk there from the venue. [On the way](http://goo.gl/maps/yUoGN) you will pass Sesame where everything starts on Thursday evening.
+With all the material being presented we will not loose sight that a bit of relaxation is needed as well. The conference party on Sunday evening starts at 7:00 P.M. (19:00) at the [EastWest Pub](//ew-dubrovnik.com/), which is located right at the beach at Frana Supila 4. The pub is just south of the old town and it takes about 15 to 20 minutes to walk there from the venue. [On the way](//goo.gl/maps/yUoGN) you will pass Sesame where everything starts on Thursday evening.
 
 
 
@@ -44,6 +44,6 @@ With all the material being presented we will not loose sight that a bit of rela
 
 On Monday around noon we will start to pack up and say goodbye for another year at oSC15 in **......** for this you will need to wait until the keynote on Friday.
 
-Check out the schedule [here](https://conference.opensuse.org/osem/conference/osc14/schedule), find more details on [the conference website](http://conference.opensuse.org) and plan your participation. We will see you in Dubrovnic next week!
+Check out the schedule [here](https://conference.opensuse.org/osem/conference/osc14/schedule), find more details on [the conference website](//conference.opensuse.org) and plan your participation. We will see you in Dubrovnic next week!
 
 The Program Team

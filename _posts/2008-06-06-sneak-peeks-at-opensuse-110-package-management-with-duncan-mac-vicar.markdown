@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-In this article we will be covering all of the changes in and around the package management stack in the upcoming openSUSE 11.0. There have been a plethora of both visual and behind-the-scenes changes. We'll also be talking to [Duncan Mac-Vicar](http://en.opensuse.org/User:Dmacvicar), YaST team lead, [ZYpp](http://opensuse.org/Libzypp) and KDE developer, to find out a little more later.
+In this article we will be covering all of the changes in and around the package management stack in the upcoming openSUSE 11.0. There have been a plethora of both visual and behind-the-scenes changes. We'll also be talking to [Duncan Mac-Vicar](//en.opensuse.org/User:Dmacvicar), YaST team lead, [ZYpp](//opensuse.org/Libzypp) and KDE developer, to find out a little more later.
 
 <!-- more -->
 
@@ -35,19 +35,19 @@ The old solver had several problems. It was extremely slow in some cases, had a 
 #### Faster
 
 
-The new [SAT solver](http://en.opensuse.org/Libzypp/Sat_Solver) by Michael Schroeder is based on expressing package dependencies as a [boolean satisfiability problem](http://en.wikipedia.org/wiki/Boolean_satisfiability_problem). This in itself brings huge advantages as it is a well-researched problem (many example solvers available), it's incredibly fast, and there is no need for complex algorithms. Indeed, package solving complexity is extremely low in comparison to other areas where SAT solvers are used.
+The new [SAT solver](//en.opensuse.org/Libzypp/Sat_Solver) by Michael Schroeder is based on expressing package dependencies as a [boolean satisfiability problem](//en.wikipedia.org/wiki/Boolean_satisfiability_problem). This in itself brings huge advantages as it is a well-researched problem (many example solvers available), it's incredibly fast, and there is no need for complex algorithms. Indeed, package solving complexity is extremely low in comparison to other areas where SAT solvers are used.
 
-To see a demonstration of just how much faster it is, see Duncan's [video comparison of the old and new Zypper](http://uk.youtube.com/watch?v=XB3o4Skka5Q).
+To see a demonstration of just how much faster it is, see Duncan's [video comparison of the old and new Zypper](//uk.youtube.com/watch?v=XB3o4Skka5Q).
 
 
 #### Performs Better
 
 
-Furthermore, these changes with SOLV files and the new solver have resulted in [significantly better performance](http://duncan.mac-vicar.com/blog/archives/309), with particularly reduced memory usage when compared to both Smart and YUM:
+Furthermore, these changes with SOLV files and the new solver have resulted in [significantly better performance](//duncan.mac-vicar.com/blog/archives/309), with particularly reduced memory usage when compared to both Smart and YUM:
 
 
 
-[![](http://spreadsheets.google.com/pub?key=pbhIDzxcltzc9RhZfvnKBCg&oid=2&output=image)](http://spreadsheets.google.com/pub?key=pbhIDzxcltzc9RhZfvnKBCg&oid=2&output=image)
+[![](//spreadsheets.google.com/pub?key=pbhIDzxcltzc9RhZfvnKBCg&oid=2&output=image)](//spreadsheets.google.com/pub?key=pbhIDzxcltzc9RhZfvnKBCg&oid=2&output=image)
 
 
 
@@ -55,7 +55,7 @@ Furthermore, these changes with SOLV files and the new solver have resulted in [
 #### Smarter
 
 
-One of the prized features of the Smart Package Manager was its ability to make smarter decisions with package management where APT and YUM fail. In particular, a few cases were proposed in Smart's [README](http://svn.labix.org/smart/trunk/README) where Smart behaves very well. So how does the new ZYpp stack do with these cases? It passes [them](http://duncan.mac-vicar.com/blog/archives/310) [all](http://duncan.mac-vicar.com/blog/archives/311).
+One of the prized features of the Smart Package Manager was its ability to make smarter decisions with package management where APT and YUM fail. In particular, a few cases were proposed in Smart's [README](//svn.labix.org/smart/trunk/README) where Smart behaves very well. So how does the new ZYpp stack do with these cases? It passes [them](//duncan.mac-vicar.com/blog/archives/310) [all](//duncan.mac-vicar.com/blog/archives/311).
 
 One of the other surprising yet handy features of the new package management stack is that it can be involved in hardware recommendation of packages. Want to get your webcam working? Plug it in and run _zypper up_ for example (or with YaST) and it will try to grab all of the drivers from the online repository!
 
@@ -70,15 +70,15 @@ One of the other surprising yet handy features of the new package management sta
 
 One of the main advantages of openSUSE package management has been the availability of patches and patterns. Patches are small updates to fix a problem (used in the official update repository), and patterns are intelligent groups of packages which can recommend, require and suggest packages in order to make certain functionality available, without being too strict in the specific packages to install (so the more troublesome metapackage solution is not needed).
 
-Fedora's update metadata uses a yum plugin and a updateinfo.xml description; metadata for deltarpm availability is handled via the yum-presto plugin. In openSUSE 11.0, the package management stack reads patches from this file too! This means that you can use the yum stack out of the box, and you can generate patches using existing Fedora tools as well. Furthermore, there are continued efforts to [build ZYpp and YaST on Fedora](http://download.opensuse.org/repositories/zypp:/Backport/Fedora_8/).
+Fedora's update metadata uses a yum plugin and a updateinfo.xml description; metadata for deltarpm availability is handled via the yum-presto plugin. In openSUSE 11.0, the package management stack reads patches from this file too! This means that you can use the yum stack out of the box, and you can generate patches using existing Fedora tools as well. Furthermore, there are continued efforts to [build ZYpp and YaST on Fedora](//download.opensuse.org/repositories/zypp:/Backport/Fedora_8/).
 
 
 #### PackageKit
 
 
-[PackageKit](http://www.packagekit.org/pk-intro.html) is a D-Bus abstraction layer that allows the session user to manage packages in a secure way using a cross-distro, cross-architecture API. openSUSE 11.0 is _fully PackageKit-enabled_, meaning that [all upstream tools](http://www.packagekit.org/pk-screenshots.html) across distributions using PackageKit will work perfectly on openSUSE.
+[PackageKit](//www.packagekit.org/pk-intro.html) is a D-Bus abstraction layer that allows the session user to manage packages in a secure way using a cross-distro, cross-architecture API. openSUSE 11.0 is _fully PackageKit-enabled_, meaning that [all upstream tools](//www.packagekit.org/pk-screenshots.html) across distributions using PackageKit will work perfectly on openSUSE.
 
-See Duncan's [blog post](http://duncan.mac-vicar.com/blog/archives/314) on this for more information.
+See Duncan's [blog post](//duncan.mac-vicar.com/blog/archives/314) on this for more information.
 
 
 ## New Features
@@ -133,10 +133,10 @@ The KDE updater applet has now also been ported to KDE 4, and has an optional Pa
 ### Zypper
 
 
-While [Zypper](http://opensuse.org/Zypper) is significantly faster as the result of all the previous package management changes, there have been a lot of new features added to Zypper, including:
+While [Zypper](//opensuse.org/Zypper) is significantly faster as the result of all the previous package management changes, there have been a lot of new features added to Zypper, including:
 
 Install remote and local RPMs seamlessly:
-`**root:~ # zypper install http://download.opensuse.org/repositories/KDE:/Community/openSUSE_11.0/i586/filelight-1.0-7.3.i586.rpm**
+`**root:~ # zypper install //download.opensuse.org/repositories/KDE:/Community/openSUSE_11.0/i586/filelight-1.0-7.3.i586.rpm**
 Reading installed packages...
   
 The following NEW package is going to be installed:
@@ -168,7 +168,7 @@ kde4-ktouch
 
 Overall download size: 1.4 M. After the operation, additional 3.2 M will be used.
 Continue? [YES/no]:`
-Stay tuned to [opensuse.org/Zypper/Changes/11.0](http://en.opensuse.org/Zypper/Changes/11.0) for a more complete list.
+Stay tuned to [opensuse.org/Zypper/Changes/11.0](//en.opensuse.org/Zypper/Changes/11.0) for a more complete list.
 
 
 ## Talk with Duncan Mac-Vicar
@@ -176,7 +176,7 @@ Stay tuned to [opensuse.org/Zypper/Changes/11.0](http://en.opensuse.org/Zypper/C
 
 
 
-![](http://files.opensuse.org/opensuse/en/thumb/0/06/Duncan_opensuse.jpg/180px-Duncan_opensuse.jpg)
+![](//files.opensuse.org/opensuse/en/thumb/0/06/Duncan_opensuse.jpg/180px-Duncan_opensuse.jpg)
 
 
 

@@ -21,7 +21,7 @@ administration
 - Linux Foundation Certified Engineers (LFCE) covering advanced
 system administration and engineering skills
 
-Full details on the programs is at [http://bit.ly/1yKRjxp](http://bit.ly/1yKRjxp)
+Full details on the programs is at [//bit.ly/1yKRjxp](//bit.ly/1yKRjxp)
 
 Unlike other Linux Certification programs the exams for these are
 offered on several community distributions, Ubuntu, CentOS, and our
@@ -32,7 +32,7 @@ discount off the price of LFCS or LFCE examinations (33% off the usual
 $300 price)
 
 To get your discount, all you need to do is visit this URL
-[http://bit.ly/1yKRjxp](http://bit.ly/1yKRjxp) and register for an Exam using the Coupon code:
+[//bit.ly/1yKRjxp](//bit.ly/1yKRjxp) and register for an Exam using the Coupon code:
 LFopenSUSE100
 
 This Coupon code expires on 7th November and is limited to the first

@@ -12,7 +12,7 @@ categories:
 - Build Service
 ---
 
-[![](/wp-content/uploads/2010/10/opensuse-buildservice-logo.png)](http://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/opensuse-buildservice-logo/)
+[![](/wp-content/uploads/2010/10/opensuse-buildservice-logo.png)](//news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/opensuse-buildservice-logo/)
 
 
 The  openSUSE Build Service - OBS - is  now officially at release 2.1. We're  delighted with the improvements in  this release, including an enhanced  web interface, integration with online code management systems and  better access controls.
@@ -39,7 +39,7 @@ This iteration has enhanced the web user interface of openSUSE Build Service  w
 
 
 
-[caption id="attachment_5077" align="alignright" width="240" caption="Source Services"][![](/wp-content/uploads/2010/10/obs21-sourceservice.png)](http://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-sourceservice/)[/caption]
+[caption id="attachment_5077" align="alignright" width="240" caption="Source Services"][![](/wp-content/uploads/2010/10/obs21-sourceservice.png)](//news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-sourceservice/)[/caption]
 
 
 ### Integration with online source code management tools
@@ -73,15 +73,15 @@ The access controls have been enhanced so that read/write access to a project  
 
 
 
-To use the Open Source Build Service, you can access the public instance on [build.opensuse.org](http://build.opensuse.org/) or install it on your own hardware to have a private Build Service. For local installations you can install from source, or use the [ready-to-run appliance image](http://en.opensuse.org/openSUSE:Build_Service_Appliance), either directly or in a virtual machine. You can also obtain an installation image to install an openSUSE 11.3 system with the Build Service pre-installed. For details check [**openSUSE:Build_Service_installations**](http://en.opensuse.org/openSUSE:Build_Service_installations)
+To use the Open Source Build Service, you can access the public instance on [build.opensuse.org](//build.opensuse.org/) or install it on your own hardware to have a private Build Service. For local installations you can install from source, or use the [ready-to-run appliance image](//en.opensuse.org/openSUSE:Build_Service_Appliance), either directly or in a virtual machine. You can also obtain an installation image to install an openSUSE 11.3 system with the Build Service pre-installed. For details check [**openSUSE:Build_Service_installations**](//en.opensuse.org/openSUSE:Build_Service_installations)
 
 
 
-[caption id="attachment_5078" align="alignright" width="350" caption="Submission to other project"][![](/wp-content/uploads/2010/10/obs21-submit2.png)](http://news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-submit2/)[/caption]
+[caption id="attachment_5078" align="alignright" width="350" caption="Submission to other project"][![](/wp-content/uploads/2010/10/obs21-submit2.png)](//news.opensuse.org/2010/10/19/the-opensuse-build-service-2-1-released/obs21-submit2/)[/caption]
 
 
 
-For more information about the Build Service, check [Portal:Build_Service](http://en.opensuse.org/Portal:Build_Service).
+For more information about the Build Service, check [Portal:Build_Service](//en.opensuse.org/Portal:Build_Service).
 
 
 
@@ -113,7 +113,7 @@ This release of the OBS has received many contributions from other  companies, 
 
 
 
-The Build Service is an open package and distribution development platform providing a transparent infrastructure for developers to build packages for a variety of Linux distributions and hardware architectures. [build.opensuse.org](http://build.opensuse.org) is a freely available service and can build packages for the  most popular distributions besides openSUSE including SUSE Linux Enterprise, Debian, Fedora, Mandriva, Red Hat Enterprise Linux and  Ubuntu.
+The Build Service is an open package and distribution development platform providing a transparent infrastructure for developers to build packages for a variety of Linux distributions and hardware architectures. [build.opensuse.org](//build.opensuse.org) is a freely available service and can build packages for the  most popular distributions besides openSUSE including SUSE Linux Enterprise, Debian, Fedora, Mandriva, Red Hat Enterprise Linux and  Ubuntu.
 
 
 
@@ -123,9 +123,9 @@ The  Build Service aims to significantly reduce the costs and risks related to 
 
 
 
-The Build Service at [build.opensuse.org](http://build.opensuse.org) currently  builds about 100,000 packages from 25,000 users working on 15,000  different projects. Communities and companies using their own Build  Service installation include the [MeeGo Project](http://meego.com/), [VLC team](http://www.videolan.org/), [Dell](http://www.dell.com/), [Cray](http://cray.com) and many others.
+The Build Service at [build.opensuse.org](//build.opensuse.org) currently  builds about 100,000 packages from 25,000 users working on 15,000  different projects. Communities and companies using their own Build  Service installation include the [MeeGo Project](//meego.com/), [VLC team](//www.videolan.org/), [Dell](//www.dell.com/), [Cray](//cray.com) and many others.
 
 
 
 
-For more information about the Build Service, check [Portal:Build_Service](http://en.opensuse.org/Portal:Build_Service).
+For more information about the Build Service, check [Portal:Build_Service](//en.opensuse.org/Portal:Build_Service).

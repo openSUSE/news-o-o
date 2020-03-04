@@ -22,7 +22,7 @@ _Thanks to Marcus Hüwe for reporting this issue._
 
 OBS 2.1.6 is also fixing security issues in LDAP mode and a possible crossite scripting attack vector on the login screen (full XSS protection in all webui interfaces will be part of OBS 2.3). _Thanks to Dean Pierce from Intel for discussing these issues and possible solutions with us._
 
-Version 2.1.6 can be downloaded as usual from gitorious, openSUSE:Tools (or openSUSE:Tool:2.0 for version 2.0.8) project repositories or as [appliance for testing and production systems](http://en.opensuse.org/openSUSE:Build_Service_Appliance).
+Version 2.1.6 can be downloaded as usual from gitorious, openSUSE:Tools (or openSUSE:Tool:2.0 for version 2.0.8) project repositories or as [appliance for testing and production systems](//en.opensuse.org/openSUSE:Build_Service_Appliance).
 
 OBS 2.1.6 contains several further changes, please read the release notes below.
 

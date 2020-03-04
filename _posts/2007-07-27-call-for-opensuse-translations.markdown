@@ -23,7 +23,7 @@ Additionally I propose to have during the installation slide show a slide with t
 
 
 
-<blockquote> The openSUSE project is a community project and many individuals are involved in bug fixing, packaging, testing, documentation and also localization.  Localization for openSUSE specific software is done by different language teams and the localization portal is reachable  under http://i18n.opensuse.org/ .</blockquote>
+<blockquote> The openSUSE project is a community project and many individuals are involved in bug fixing, packaging, testing, documentation and also localization.  Localization for openSUSE specific software is done by different language teams and the localization portal is reachable  under //i18n.opensuse.org/ .</blockquote>
 
 
 Each translation teams should then add a new sentence to this parargraphwith e.g. in German "Die deutsche Übersetzung wurde durchgeführt von Karl Eichwalder und Andreas Jaeger " (translated back to English: "The German translation has been done by Karl Eichwalder and Andreas Jaeger" - assuming Karl and myself did the work).

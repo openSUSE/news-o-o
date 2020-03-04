@@ -26,7 +26,7 @@ The workshop, which as 60 spots available, will focus on teaching attendees on h
 
 Those who are interested  are encouraged to attend the workshop that will teach both beginner and advanced level designing. Kids accompanied by an adult are welcomed to attend.
 
-Attendees will learn about further tools needed for 3D printing and should come with a 3D model or STereoLithography file to modify. Attendees can find existing models at[ http://www.thingiverse.com](http://www.thingiverse.com).
+Attendees will learn about further tools needed for 3D printing and should come with a 3D model or STereoLithography file to modify. Attendees can find existing models at[ //www.thingiverse.com](//www.thingiverse.com).
 
 There will be two[ LulzBot](https://www.lulzbot.com/) 3D Printers that were supplied by[ AlephObjects](https://www.alephobjects.com/) that people will be able to use for printing their projects.
 

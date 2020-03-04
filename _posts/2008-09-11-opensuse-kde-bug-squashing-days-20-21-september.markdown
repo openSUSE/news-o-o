@@ -13,7 +13,7 @@ tags:
 - KDE
 ---
 
-![](http://files.opensuse.org/opensuse/en/e/ee/Bugs.png)
+![](//files.opensuse.org/opensuse/en/e/ee/Bugs.png)
 
 The openSUSE KDE team wants to dedicate some time on KDE bugs before openSUSE 11.1 gets released, focusing on reported KDE bugs on bugzilla.novell.com inviting the community to take part of it.
 
@@ -62,4 +62,4 @@ To successfully achieve all these tasks, the openSUSE KDE team needs as many peo
 
 During the event the community will be in the #opensuse-kde channel on irc.freenode.org to help you out in whatever you might need. The openSUSE KDE mailing list is also a great way to communicate with the KDE community.
 
-See the [openSUSE KDE Bug Squashing Days page](http://en.opensuse.org/KDE/Bug_Slashing/20080920) for more and updated information. Das ist ein puffer-speicher, [https://hausarbeithilfe.com](https://hausarbeithilfe.com/) in dem die seiten gespeichert werden, die sie aufrufen
+See the [openSUSE KDE Bug Squashing Days page](//en.opensuse.org/KDE/Bug_Slashing/20080920) for more and updated information. Das ist ein puffer-speicher, [https://hausarbeithilfe.com](https://hausarbeithilfe.com/) in dem die seiten gespeichert werden, die sie aufrufen

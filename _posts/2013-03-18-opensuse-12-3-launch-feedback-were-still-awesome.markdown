@@ -23,20 +23,20 @@ We had great conversations with you on [google plus](https://plus.google.com/b/1
 
 
 	
-  * [Jean-Nicoloas Artaud - as easy as 1-2-3](http://morice.ipsquad.net/blog/?p=29) shows how easy upgrading to 12.3 is
+  * [Jean-Nicoloas Artaud - as easy as 1-2-3](//morice.ipsquad.net/blog/?p=29) shows how easy upgrading to 12.3 is
 
 	
-  * [Bruno Friedman: openSUSE 12.3 and NVIDIA drivers](http://lizards.opensuse.org/2013/03/17/opensuse-12-3-12-2-and-nvidia-drivers/) on how to get video acceleration with the NVIDIA drivers
+  * [Bruno Friedman: openSUSE 12.3 and NVIDIA drivers](//lizards.opensuse.org/2013/03/17/opensuse-12-3-12-2-and-nvidia-drivers/) on how to get video acceleration with the NVIDIA drivers
 
 	
-  * [Richard Brown: Intel Power Management on openSUSE 12.3](http://www.sysrich.co.uk/?p=190) on powermanagement
+  * [Richard Brown: Intel Power Management on openSUSE 12.3](//www.sysrich.co.uk/?p=190) on powermanagement
 
 	
-  * [Robert Schweikert: One that got away – 12.3 Networking](http://lizards.opensuse.org/2013/03/13/one-that-got-away-12-3-networking/) explaining how to solve the networking issue which managed to get in our final release...
+  * [Robert Schweikert: One that got away – 12.3 Networking](//lizards.opensuse.org/2013/03/13/one-that-got-away-12-3-networking/) explaining how to solve the networking issue which managed to get in our final release...
 
 
 Meanwhile, our [openSUSE group on Google+](https://plus.google.com/b/110312141834246266844/communities/115444043324891769569) has still plenty of space and we're of course also [still tweeting](https://twitter.com/openSUSE/)! And a tip: we appreciate it if you re-tweet our messages to your own followers! We've got hundreds of plusses and shares on Google but a mere 33 retweets of our release announcement... Did you all leave twitter already?
-[caption id="attachment_15553" align="alignright" width="300"][![LAS wonders if 12.3 is an Ubuntu killer](//news.opensuse.org/wp-content/uploads/2013/03/LAS-wonders-if-12.3-is-an-Ubuntu-killer.jpg)](http://www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/) LAS wonders if 12.3 is an Ubuntu killer[/caption]
+[caption id="attachment_15553" align="alignright" width="300"][![LAS wonders if 12.3 is an Ubuntu killer](//news.opensuse.org/wp-content/uploads/2013/03/LAS-wonders-if-12.3-is-an-Ubuntu-killer.jpg)](//www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/) LAS wonders if 12.3 is an Ubuntu killer[/caption]
 
 
 
@@ -48,31 +48,31 @@ Most major news sites spread our announcement to their readers (almost twice as 
 
 
 	
-  * [Muktware - openSUSE getting better and better](http://www.muktware.com/5377/opensuse-123-getting-better-and-better)
+  * [Muktware - openSUSE getting better and better](//www.muktware.com/5377/opensuse-123-getting-better-and-better)
 
 	
-  * [H-online - feature: what's new in openSUSE 12.3](http://www.h-online.com/open/features/What-s-new-in-openSUSE-12-3-1822738.html)
+  * [H-online - feature: what's new in openSUSE 12.3](//www.h-online.com/open/features/What-s-new-in-openSUSE-12-3-1822738.html)
 
 	
-  * [The Register - Proof not all Linux PCs are Um Bongo-grade bonkers](http://www.theregister.co.uk/2013/03/15/suse_linux_12_3_review)
+  * [The Register - Proof not all Linux PCs are Um Bongo-grade bonkers](//www.theregister.co.uk/2013/03/15/suse_linux_12_3_review)
 
 	
-  * [itwire - How openSUSE 12.3 lives with secure boot](http://www.itwire.com/opinion-and-analysis/open-sauce/59084-how-opensuse-123-lives-with-secure-boot)
+  * [itwire - How openSUSE 12.3 lives with secure boot](//www.itwire.com/opinion-and-analysis/open-sauce/59084-how-opensuse-123-lives-with-secure-boot)
 
 	
-  * [lwn.net first look at openSUSE 12.3 (subscriber link!)](http://lwn.net/SubscriberLink/542119/481caf9e0660c751/)
+  * [lwn.net first look at openSUSE 12.3 (subscriber link!)](//lwn.net/SubscriberLink/542119/481caf9e0660c751/)
 
 	
-  * [unixmen.com - e17 on openSUSE 12.3](http://www.unixmen.com/what-about-e17-on-opensuse-12-3/)
+  * [unixmen.com - e17 on openSUSE 12.3](//www.unixmen.com/what-about-e17-on-opensuse-12-3/)
 
 	
-  * [Phoronix test of openSUSE 12.3 performance vs 12.2](http://www.phoronix.com/scan.php?page=news_item&px=MTMyODI)
+  * [Phoronix test of openSUSE 12.3 performance vs 12.2](//www.phoronix.com/scan.php?page=news_item&px=MTMyODI)
 
 	
-  * [ZDnet - openSUSE 12.3 in depth and hands on](http://www.zdnet.com/opensuse-12-3-in-depth-and-hands-on-7000012698/)
+  * [ZDnet - openSUSE 12.3 in depth and hands on](//www.zdnet.com/opensuse-12-3-in-depth-and-hands-on-7000012698/)
 
 	
-  * [Hecticgeek performance review](http://www.hecticgeek.com/2013/03/performance-opensuse-12-3-kde-review/)
+  * [Hecticgeek performance review](//www.hecticgeek.com/2013/03/performance-opensuse-12-3-kde-review/)
 
 
 ![geekos!](//news.opensuse.org/wp-content/uploads/2012/12/3654543066_2c8823cb03_o.jpg)
@@ -82,20 +82,20 @@ And those are just in writing. You can find 4 more reviews in video form:
 
 
 	
-  * [Linux Action Show: openSUSE: Ubuntu Killer?](http://www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/)
+  * [Linux Action Show: openSUSE: Ubuntu Killer?](//www.jupiterbroadcasting.com/33761/opensuse-ubuntu-killer-las-s26e02/)
 
 	
   * [Linux Lessons: openSUSE 12.3 introduction](https://www.youtube.com/watch?v=3zpdjySiS88)
 
 	
-  * [Linux Distro reviews: openSUSE 12.3 review](http://www.youtube.com/watch?v=F3NXq-8dS6w)
+  * [Linux Distro reviews: openSUSE 12.3 review](//www.youtube.com/watch?v=F3NXq-8dS6w)
 
 	
-  * [openSUSE 12.3 review: KDE done right](http://www.youtube.com/watch?v=3LxpbEsfcUE)
+  * [openSUSE 12.3 review: KDE done right](//www.youtube.com/watch?v=3LxpbEsfcUE)
 
 
 
-Watching them is worthwhile - especially the Linux Action Show review discusses the new release deeply. They liked the communication around the release and also noted that we _get our target audience_ by focusing on _pro_ technologies for Desktop and Server. Here, they noted that _"YaST2 is still relevant"_, demonstrating some of what it can do. But they also _"consider the Build Service now as one of the key features of openSUSE"_ and they love [our rolling release repository Tumbleweed](http://opensuse.org/Tumbleweed), noting that _"with Tumbleweed, openSUSE is going to be the best KDE experience going forward"_.
+Watching them is worthwhile - especially the Linux Action Show review discusses the new release deeply. They liked the communication around the release and also noted that we _get our target audience_ by focusing on _pro_ technologies for Desktop and Server. Here, they noted that _"YaST2 is still relevant"_, demonstrating some of what it can do. But they also _"consider the Build Service now as one of the key features of openSUSE"_ and they love [our rolling release repository Tumbleweed](//opensuse.org/Tumbleweed), noting that _"with Tumbleweed, openSUSE is going to be the best KDE experience going forward"_.
 
 We're happy to have gotten the attention of them and so many others all around the web, thank you! More reviews are rolling in still, both video and text. We'll keep our [Press page](https://en.opensuse.org/In_the_press) up to date.
 
@@ -301,6 +301,6 @@ Also, we've got about another 10K downloads via torrents on top of that. An inte
 ## Lessons learned
 
 
-We're not done evaluating all that happened for 12.3, but at least we're glad we managed to avoid most of the issues mentioned in our [evaluation of 12.2](https://news.opensuse.org/2013/01/23/opensuse-12-2-brought-to-you-by-an-extremely-talented-group-of-people/). Our announcement and communication were ready in time thanks to [the Marketing and Artwork hackathon](https://news.opensuse.org/2013/02/21/opensuse-marketing-and-artwork-teams-got-work-done/), more time was spend on testing (we also organized [a testing hackathon](https://news.opensuse.org/2013/01/23/opensuse-12-3-hackfest-in-nuremberg-progress-on-arm-packagekit-and-many-bugs-fixed/)!) and our [Open Build Service](http://build.opensuse.org) did not have any major issues during the release. Our servers did falter for a minute during the release, due to the heavy load - but we managed. Still, however, the _'undirected hacking'_ still means we don't set goals in advance and we didn't have a clear list of features until we went through all of the changes in our release - _too much work for too little excitement_.
+We're not done evaluating all that happened for 12.3, but at least we're glad we managed to avoid most of the issues mentioned in our [evaluation of 12.2](https://news.opensuse.org/2013/01/23/opensuse-12-2-brought-to-you-by-an-extremely-talented-group-of-people/). Our announcement and communication were ready in time thanks to [the Marketing and Artwork hackathon](https://news.opensuse.org/2013/02/21/opensuse-marketing-and-artwork-teams-got-work-done/), more time was spend on testing (we also organized [a testing hackathon](https://news.opensuse.org/2013/01/23/opensuse-12-3-hackfest-in-nuremberg-progress-on-arm-packagekit-and-many-bugs-fixed/)!) and our [Open Build Service](//build.opensuse.org) did not have any major issues during the release. Our servers did falter for a minute during the release, due to the heavy load - but we managed. Still, however, the _'undirected hacking'_ still means we don't set goals in advance and we didn't have a clear list of features until we went through all of the changes in our release - _too much work for too little excitement_.
 
 So, this release is a step forward - but there is still work to be done. We surely plan to talk about ideas on improving things at the upcoming [openSUSE Conference in Greece](//news.opensuse.org/2013/02/20/osc13-cfp/). Think about joining if you want to help out!

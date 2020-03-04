@@ -29,16 +29,16 @@ This one is nearly identical to the MATE desktop, but already includes a few min
 
 
 	
-  * [scite editor](http://www.scintilla.org/SciTE.html)
+  * [scite editor](//www.scintilla.org/SciTE.html)
 
 	
-  * [kompozer](http://kompozer.net/)
+  * [kompozer](//kompozer.net/)
 
 	
   * [rstudio](https://www.rstudio.com/)
 
 
-are added to the (already huge) [list of available applications](http://download.opensuse-education.org/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso-packages.html).
+are added to the (already huge) [list of available applications](//download.opensuse-education.org/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso-packages.html).
 
 Quoting Jigish Gohil:
 
@@ -48,6 +48,6 @@ Quoting Jigish Gohil:
 
 BTW: openSUSE Education releases always contain the latest official openSUSE updates and other cool stuff, so you should be able to get an up-to date live system up and running in a few seconds/minutes (depending on your hardware) - which can also be installed on your local hard disk with just a few mouse clicks. Just click on the "Live-Install" icon on the desktop.
 
-Get Li-f-e GNOME Classic edition from here: [direct Download](http://sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso/download) | [md5sum](http://sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso.md5/download) | [Alternate download and mirrors](http://download.opensuse-education.org/ISOs/)
+Get Li-f-e GNOME Classic edition from here: [direct Download](//sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso/download) | [md5sum](//sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e-gnome-classic.x86_64-13.1.1.iso.md5/download) | [Alternate download and mirrors](//download.opensuse-education.org/ISOs/)
 
 You want to join the team? Just ping us at [#opensuse-education](irc://irc.freenode.net/#opensuse-education). We are hiring community members to help out on web work and marketing (be warned: we currently pay in honor and fun).

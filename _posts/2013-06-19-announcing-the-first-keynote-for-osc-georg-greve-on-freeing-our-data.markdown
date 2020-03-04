@@ -20,13 +20,13 @@ categories:
 ## Personal life
 
 
-We managed to catch him just before he was going to Hamburg for the holidays with the family, actively cleaning up the house and preparing for an early leave the next morning. Georg, born in '73 on the tiny island of [Helgoland](http://de.wikipedia.org/wiki/Helgoland) outside the coast of northern Germany, spent the first 8 years of his life in this reclusive community before moving to the big city. There he studied biophysics and came across Free Software in 1993. Five years later he was the European speaker for the GNU Project, writing the well known 'Brave GNU World' column and in 2001 he initiated the Free Software Foundation Europe. Since 2009 he is the CEO of Kolab Systems AG and lives with his wife and "_two utterly gorgeous_" twin boys in the neighborhood of Zurich, Switzerland.
+We managed to catch him just before he was going to Hamburg for the holidays with the family, actively cleaning up the house and preparing for an early leave the next morning. Georg, born in '73 on the tiny island of [Helgoland](//de.wikipedia.org/wiki/Helgoland) outside the coast of northern Germany, spent the first 8 years of his life in this reclusive community before moving to the big city. There he studied biophysics and came across Free Software in 1993. Five years later he was the European speaker for the GNU Project, writing the well known 'Brave GNU World' column and in 2001 he initiated the Free Software Foundation Europe. Since 2009 he is the CEO of Kolab Systems AG and lives with his wife and "_two utterly gorgeous_" twin boys in the neighborhood of Zurich, Switzerland.
 
 
 ## Free Software
 
 
-We asked him about what he will share with us at the [openSUSE Conference](http://conference.opensuse.org).
+We asked him about what he will share with us at the [openSUSE Conference](//conference.opensuse.org).
 
 **Georg:** "I'm sure everybody is aware of current events around the leak of Prism. Watching it all unfold has been interesting from a variety of angles, both for our communities as well as the larger version of community: society at large. It is awesome that people look at what is going on, care and get upset. But at the same time, it is weird that they get upset now as much of this has been known for quite a while. If you cared for this topic at all you could have learned all of this from public sources in the past. Not with such detail and in such depth or with the drama, but the gist of it was actually not very much hidden. The fact that the USA treats its own interest above everything else and isn't shy to use its power, knowledge and military for its self interest and most importantly the interest of its corporations isn't exactly news. It has been like this for quite a while and they have been quite upfront about it."
 

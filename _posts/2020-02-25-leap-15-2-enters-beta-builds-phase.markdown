@@ -44,6 +44,6 @@ In the [email announcement](https://lists.opensuse.org/opensuse-factory/2020-02/
 
 “So any manual upgrade effort would be extremely valuable,” Luboš Kocman wrote.
 
-Kocman also highlighted [Windows Subsystem for Linux](https://en.opensuse.org/openSUSE:WSL) and said the hard work put in for WSL images has risen it to a first-class citizen in both the [Open Build Service](https://openbuildservice.org/) and [openQA](http://open.qa/).
+Kocman also highlighted [Windows Subsystem for Linux](https://en.opensuse.org/openSUSE:WSL) and said the hard work put in for WSL images has risen it to a first-class citizen in both the [Open Build Service](https://openbuildservice.org/) and [openQA](//open.qa/).
 
 Those interested in Beta testing of openSUSE Leap 15.2 WSL images can contact Kocman or the factory mailing list. For more information on WSL, visit [https://en.opensuse.org/openSUSE:WSL](https://en.opensuse.org/openSUSE:WSL).

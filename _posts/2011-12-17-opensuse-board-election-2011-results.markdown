@@ -18,7 +18,7 @@ The new board members are _**Pascal Bleser, Will Stephenson**_ and_** Andrew Waf
 
 We would like to congratulate all Board Members and wish them all the best. We would also like to thank all candidates for their time to run for openSUSE board. We're really proud to have so many good candidates.
 
-[![](/wp-content/uploads/2011/12/PositiveGreen.jpg)](http://news.opensuse.org/2011/12/17/opensuse-board-election-2011-results/positivegreen/)The votes are as follows:
+[![](/wp-content/uploads/2011/12/PositiveGreen.jpg)](//news.opensuse.org/2011/12/17/opensuse-board-election-2011-results/positivegreen/)The votes are as follows:
 
 Pascal Bleser (172 votes) - 79%
 
@@ -40,6 +40,6 @@ A total of 218 members participated in the poll. Voters had the option to vote f
 
 Thanks Bryen Yunashko, Rupert Horstkotter and Pavol Rusnak for the great time served in the Board.
 
-The official results can be found at [http://en.opensuse.org/openSUSE:Board_election](http://en.opensuse.org/openSUSE:Board_election)
+The official results can be found at [//en.opensuse.org/openSUSE:Board_election](//en.opensuse.org/openSUSE:Board_election)
 
 Thank all voters for taking the time to vote. Thanks to the openSUSE Election Officials.

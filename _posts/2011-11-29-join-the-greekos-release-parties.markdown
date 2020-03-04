@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-[![](http://etern4l.files.wordpress.com/2011/11/12-1releaseparty.png)](http://etern4l.files.wordpress.com/2011/11/12-1releaseparty.png)
+[![](//etern4l.files.wordpress.com/2011/11/12-1releaseparty.png)](//etern4l.files.wordpress.com/2011/11/12-1releaseparty.png)
 
 
 The **openSUSE 12.1** distribution is released. After _8 months_ of hard work by the openSUSE community, the result could be something less than awesome. It is true that openSUSE 12.1 has received the best reviews of all famous open source sites and also has begun to gain many new members at the community, users and contributors.

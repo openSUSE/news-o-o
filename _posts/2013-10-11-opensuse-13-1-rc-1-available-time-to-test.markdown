@@ -18,10 +18,10 @@ categories:
 
 ...
 
-Ok, **forget that**. RC1 is here, so [stop watching](http://www.hbo.com/game-of-thrones) and start **testing**!</blockquote>
+Ok, **forget that**. RC1 is here, so [stop watching](//www.hbo.com/game-of-thrones) and start **testing**!</blockquote>
 
 
-The [openSUSE 13.1](http://en.opensuse.org/Portal:13.1) release is [planned for November](https://en.opensuse.org/openSUSE:Roadmap). In preparation, we today announce the availability of the first Release Candidate on [software.opensuse.org](http://software.opensuse.org/developer). Grab one of the images and help us test!<!-- more -->
+The [openSUSE 13.1](//en.opensuse.org/Portal:13.1) release is [planned for November](https://en.opensuse.org/openSUSE:Roadmap). In preparation, we today announce the availability of the first Release Candidate on [software.opensuse.org](//software.opensuse.org/developer). Grab one of the images and help us test!<!-- more -->
 
 
 ## Hackathon
@@ -101,11 +101,11 @@ As we've been in Freeze since shortly after Beta, most of the changes are bugfix
 
 Being a Release Candidate, these images are supposed to work flawlessly. But we are realistic and know the world doesn't work that way. So, we ask you to help us find those pesky issues so we can fix them!
 
-Testers can find information on how to work effectively in [the openSUSE Testing wiki](http://en.opensuse.org/openSUSE:Testing). You can find the current list of [the most annoying 13.1 bugs here](http://en.opensuse.org/openSUSE:Most_annoying_bugs_13.1_dev). Please help us shorten that list by re-testing the problematic areas or by fixing bugs, and we love it when you help us find new important issues!
+Testers can find information on how to work effectively in [the openSUSE Testing wiki](//en.opensuse.org/openSUSE:Testing). You can find the current list of [the most annoying 13.1 bugs here](//en.opensuse.org/openSUSE:Most_annoying_bugs_13.1_dev). Please help us shorten that list by re-testing the problematic areas or by fixing bugs, and we love it when you help us find new important issues!
 
 The [openSUSE 13.1 Portal](https://en.opensuse.org/Portal:12.3) has been set up but still needs lots of work. There are screenshots to take, release notes to write, and documentation to update. We also welcome help with translating it all! If you want to help describe the features coming, add to and review [the Major Features page](https://en.opensuse.org/openSUSE:Major_features).
 
-Screenshots of 13.1 will have to go [here](http://en.opensuse.org/Screenshots_13.1). There is a bit of info on [taking proper screenshots](https://en.opensuse.org/openSUSE:Product_highlights_writing#The_Final_Polish).
+Screenshots of 13.1 will have to go [here](//en.opensuse.org/Screenshots_13.1). There is a bit of info on [taking proper screenshots](https://en.opensuse.org/openSUSE:Product_highlights_writing#The_Final_Polish).
 
 
 ## Help promote!
@@ -113,11 +113,11 @@ Screenshots of 13.1 will have to go [here](http://en.opensuse.org/Screenshots_13
 
 Promotion matters a lot, too. You can help promote our release by adding a release counter to your website. Pick a size, then link to the image with the usual tags:
 
-`http://counter.opensuse.org/small.png
-http://counter.opensuse.org/medium.png
-http://counter.opensuse.org/large.png
+`//counter.opensuse.org/small.png
+//counter.opensuse.org/medium.png
+//counter.opensuse.org/large.png
 `Example tags:
-`<img title="release counter" src="http://counter.opensuse.org/small.png" alt="release counter"/>`
+`<img title="release counter" src="//counter.opensuse.org/small.png" alt="release counter"/>`
 
 You can also find social media backgrounds for g+, twitter and facebook - see for more info the [article about promoting openSUSE 13.1](https://news.opensuse.org/2013/10/07/help-promote-opensuse-13-1/)!
 

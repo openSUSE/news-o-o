@@ -17,5 +17,5 @@ tags:
 We will have a service outage (expected are 30 minutes) this Thursday morning between 09:00 and 10:00 CET.
 
 This means the following services will not be reachable during that time:
-* [http://download.opensuse.org](http://download.opensuse.org)
-* [http://features.opensuse.org](http://features.opensuse.org)
+* [//download.opensuse.org](//download.opensuse.org)
+* [//features.opensuse.org](//features.opensuse.org)

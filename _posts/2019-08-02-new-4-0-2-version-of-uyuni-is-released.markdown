@@ -61,4 +61,4 @@ Then run the migration script:
 
 The intention of the fork was to provide new inspiration to a Spacewalk, which had been perceived as idling in recent years. Uyuni is using [Salt](https://saltstack.com/community/) for configuration management, thereby inheriting its name: Uyuni refers to the world’s largest Salt flat, [Salar de Uyuni](https://en.wikipedia.org/wiki/Salar_de_Uyuni) in Southwest Bolivia.
 
-Interested members can follow the project on [https://github.com/uyuni-project](https://github.com/uyuni-project), [www.uyuni-project.org](http://www.uyuni-project.org/), via Twitter at [@UyuniProject](https://twitter.com/UyuniProject?lang=en), or join #uyuni at irc.freenode.org.
+Interested members can follow the project on [https://github.com/uyuni-project](https://github.com/uyuni-project), [www.uyuni-project.org](//www.uyuni-project.org/), via Twitter at [@UyuniProject](https://twitter.com/UyuniProject?lang=en), or join #uyuni at irc.freenode.org.

@@ -23,7 +23,7 @@ With the release of openSUSE Leap 42.2, a release party is in order. Selecting a
   1. ** Find a date.**
 
 
-The date of a party is best during a weekend (because it’s easier for people to join, since most people work during the week), but we all function differently. Find two alternative dates for the party if you want and use [http://www.doodle.com/](http://www.doodle.com/) to find a common date that works for most people.
+The date of a party is best during a weekend (because it’s easier for people to join, since most people work during the week), but we all function differently. Find two alternative dates for the party if you want and use [//www.doodle.com/](//www.doodle.com/) to find a common date that works for most people.
 
 
 
@@ -31,7 +31,7 @@ The date of a party is best during a weekend (because it’s easier for people t
   2. ** Find a place**
 
 
-A cafe, bar or Linux group meetup location all work. A coffee and cake release party is just as fun as a beer and pizza release party with the benefit of not having a headache. If music is your group’s thing, try a release party with openSUSE karaoke. There are tons of [SUSE songs](http://bit.ly/2eJv2wx) to choose from on it’s YouTube play list.
+A cafe, bar or Linux group meetup location all work. A coffee and cake release party is just as fun as a beer and pizza release party with the benefit of not having a headache. If music is your group’s thing, try a release party with openSUSE karaoke. There are tons of [SUSE songs](//bit.ly/2eJv2wx) to choose from on it’s YouTube play list.
 
 ![cookie](/wp-content/uploads/2016/11/cookie.png)
 

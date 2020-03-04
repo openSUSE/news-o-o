@@ -15,7 +15,7 @@ tags:
 - opensuse build service
 ---
 
-The openSUSE Project is proud to announce the 1.0 release of the openSUSE Build Service. The 1.0 release provides all the features necessary to support building openSUSE in the public build systems and allowing direct contributions to openSUSE from all contributors. Developers can now submit contributions to openSUSE directly at [build.opensuse.org](http://build.opensuse.org/).
+The openSUSE Project is proud to announce the 1.0 release of the openSUSE Build Service. The 1.0 release provides all the features necessary to support building openSUSE in the public build systems and allowing direct contributions to openSUSE from all contributors. Developers can now submit contributions to openSUSE directly at [build.opensuse.org](//build.opensuse.org/).
 
 The openSUSE Build Service allows developers to create and maintain packages for openSUSE and many other Linux distributions, including CentOS, Debian, Fedora, Mandriva, Red Hat, and Ubuntu. With the 1.0 release, the openSUSE Build Service expands its scope to building the entire openSUSE release, and provides everyone with the same access and transparent interface to work on the openSUSE distribution.
 

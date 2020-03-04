@@ -57,7 +57,7 @@ Just a few hours before openSUSE 11.0 is officially released! Here we'll take a 
   * Bug fixes: We backport many bug fixes from SVN to get something more stable.
 
 
-We also have some brand new stuff when it comes to things where we have developers. For example, we use [NetworkManager](http://www.gnome.org/projects/NetworkManager/) 0.7 (which is still unreleased), but Ubuntu still ships the old 0.6 (Fedora uses 0.7, I believe).
+We also have some brand new stuff when it comes to things where we have developers. For example, we use [NetworkManager](//www.gnome.org/projects/NetworkManager/) 0.7 (which is still unreleased), but Ubuntu still ships the old 0.6 (Fedora uses 0.7, I believe).
 
 I think the main point here is that we're trying to do development upstream, and then polish things where they can be polished for the integration with the rest of the OS.
 
@@ -69,7 +69,7 @@ We're trying to do our development upstream, to also upstream bugs (bugs opened 
 
 **openSUSE News:** What kind of plans are on the table for openSUSE 11.1 and GNOME?
 
-**Vincent Untz:** We're starting to discuss this, and we have a list of ideas at [http://en.opensuse.org/GNOME/Ideas/11.1](http://en.opensuse.org/GNOME/Ideas/11.1).
+**Vincent Untz:** We're starting to discuss this, and we have a list of ideas at [//en.opensuse.org/GNOME/Ideas/11.1](//en.opensuse.org/GNOME/Ideas/11.1).
 
 There will be the new rewritten GDM, better integration of the PulseAudio features, better printing administration, integration of the Telepathy framework, etc. All of this is "maybe", of course ;-)
 

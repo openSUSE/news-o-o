@@ -17,13 +17,13 @@ Today we are taking a look at the new _One-Click Install_ technology which aims 
 ## One-Click Install: Hassle-Free Installation of Software
 
 
-openSUSE contains thousands of packages that are often spread across various repositories. Great places like the [Packman project](http://packman.links2linux.org), [Guru's RPM site](http://linux01.gwdg.de/~pbleser/) and of course the [openSUSE Build Service](http://opensuse.org/Build_Service) provide thousands of packages for openSUSE users. The problem, however, is frequently the hassle of locating the package, adding the repository that contains it, and then finally installing the package. This can be a tiresome process particularly if you are intending to use many packages from different repositories (say, in the Build Service).
+openSUSE contains thousands of packages that are often spread across various repositories. Great places like the [Packman project](//packman.links2linux.org), [Guru's RPM site](//linux01.gwdg.de/~pbleser/) and of course the [openSUSE Build Service](//opensuse.org/Build_Service) provide thousands of packages for openSUSE users. The problem, however, is frequently the hassle of locating the package, adding the repository that contains it, and then finally installing the package. This can be a tiresome process particularly if you are intending to use many packages from different repositories (say, in the Build Service).
 
-[One Click Install](http://en.opensuse.org/Standards/One_Click_Install) removes this hassle.
+[One Click Install](//en.opensuse.org/Standards/One_Click_Install) removes this hassle.
 
 <!-- more -->
 
-In openSUSE 10.3, if you are looking to install an application from the openSUSE Build Service you can now use the new [web front-end](http://software.opensuse.org/search) to search, browse and install applications with a single click. An example search for Filelight (an application for visualizing disk usage on your computer) in openSUSE Factory is shown below:
+In openSUSE 10.3, if you are looking to install an application from the openSUSE Build Service you can now use the new [web front-end](//software.opensuse.org/search) to search, browse and install applications with a single click. An example search for Filelight (an application for visualizing disk usage on your computer) in openSUSE Factory is shown below:
 
 
 [![Example Search for Filelight](//news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png)](//news.opensuse.org/wp-content/uploads/2007/08/search-filelight.png)
@@ -36,9 +36,9 @@ Once you click on _1-Click Install_ you are guided through a wizard that guides 
 [![Start-Up Screen](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-1_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-1.png) [![Summary](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-2_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-2.png) [![Downloading Repository Metadata](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-3_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-3.png)
 [![Downloading Package](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-4_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-4.png) [![Installing Package](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-5_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-5.png) [![Finished](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-6_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/one-click-install-6.png) [ ](//news.opensuse.org/wp-content/uploads/2007/08/one-click7.png)
 
-This can all be tested right _now_ presuming you are running [openSUSE 10.3 Beta 1](//news.opensuse.org/?p=106) or current [openSUSE Factory](http://opensuse.org/Factory) with Konqueror. To get it running in Firefox check [this walkthrough](http://dev.beryl-project.org/~cyberorg/suse/49/one-click-install-opensuse-build-service/).
+This can all be tested right _now_ presuming you are running [openSUSE 10.3 Beta 1](//news.opensuse.org/?p=106) or current [openSUSE Factory](//opensuse.org/Factory) with Konqueror. To get it running in Firefox check [this walkthrough](//dev.beryl-project.org/~cyberorg/suse/49/one-click-install-opensuse-build-service/).
 
-This new capability will also be used across [openSUSE-Community.org](http://opensuse-community.org) in the future. The [Software Search](http://packages.opensuse-community.org) there also has an [updated version](http://benjiweber.co.uk:8080/webpin/index-test.jsp) in the works using the same One-Click Install technology. Below is, once again, an example search for _filelight_:
+This new capability will also be used across [openSUSE-Community.org](//opensuse-community.org) in the future. The [Software Search](//packages.opensuse-community.org) there also has an [updated version](//benjiweber.co.uk:8080/webpin/index-test.jsp) in the works using the same One-Click Install technology. Below is, once again, an example search for _filelight_:
 
 
 [![Software Search](//news.opensuse.org/wp-content/uploads/2007/08/software-search-install.png)](//news.opensuse.org/wp-content/uploads/2007/08/software-search-install.png)
@@ -50,7 +50,7 @@ Clicking on one of those links will take you through the same simple wizard as a
 ## Talk with Benjamin Weber
 
 
-I caught up with [Benjamin Weber](http://benjiweber.co.uk/) to learn a little more about this new technology:
+I caught up with [Benjamin Weber](//benjiweber.co.uk/) to learn a little more about this new technology:
 
 
 ### So what inspired you to create this new piece of software?
@@ -93,12 +93,12 @@ Bundled with the operating system we have an application which understands these
 ### Any plans for the future?
 
 
-Lots, but as far as the One click install feature goes I am mainly concentrating on bugfixes and getting it into 10.3 at present. I am also working on the evolution of my [package search page](http://packages.opensuse-community.org) which is the [software portal project](http://en.opensuse.org/Software_Portal). I will blog about developments with these things. My blog is syndicated on [Planet SUSE](http://planetsuse.org).
+Lots, but as far as the One click install feature goes I am mainly concentrating on bugfixes and getting it into 10.3 at present. I am also working on the evolution of my [package search page](//packages.opensuse-community.org) which is the [software portal project](//en.opensuse.org/Software_Portal). I will blog about developments with these things. My blog is syndicated on [Planet SUSE](//planetsuse.org).
 
 
 ### Where can I find out more?
 
 
-The XML schema is documented at [http://en.opensuse.org/Standards/One_Click_Install](http://en.opensuse.org/Standards/One_Click_Install). There is a concept design here [http://en.opensuse.org/Image:MetaPackageDesign1.png](http://en.opensuse.org/Image:MetaPackageDesign1.png). Nearer the time of release we should have some tutorials explaining to application vendors how to utilise the technology. For now, see [http://en.opensuse.org/Meta_Packages/ISV](http://en.opensuse.org/Meta_Packages/ISV).
+The XML schema is documented at [//en.opensuse.org/Standards/One_Click_Install](//en.opensuse.org/Standards/One_Click_Install). There is a concept design here [//en.opensuse.org/Image:MetaPackageDesign1.png](//en.opensuse.org/Image:MetaPackageDesign1.png). Nearer the time of release we should have some tutorials explaining to application vendors how to utilise the technology. For now, see [//en.opensuse.org/Meta_Packages/ISV](//en.opensuse.org/Meta_Packages/ISV).
 
-If anyone has any questions or suggestions they are welcome to contact me on IRC in [#opensuse-project](irc://irc.freenode.net/opensuse-project) or [here](http://blogs.warwick.ac.uk/bweber/contact/). My IRC nick is _benJIman_. The data used by apps is now available for uninstalled apps as well, not just installed  apps
+If anyone has any questions or suggestions they are welcome to contact me on IRC in [#opensuse-project](irc://irc.freenode.net/opensuse-project) or [here](//blogs.warwick.ac.uk/bweber/contact/). My IRC nick is _benJIman_. The data used by apps is now available for uninstalled apps as well, not just installed  apps

@@ -113,7 +113,7 @@ See you next year!
 # About me
 
 
-My name is Ana and I am mentor and organization admin for openSUSE at GSoC, openSUSE Board member, Open Build Service Frontend Engineer at SUSE and open source contributor in projects inside and outside openSUSE. You can find more about me in: [http://anamaria.martinezgomez.name](http://anamaria.martinezgomez.name/)
+My name is Ana and I am mentor and organization admin for openSUSE at GSoC, openSUSE Board member, Open Build Service Frontend Engineer at SUSE and open source contributor in projects inside and outside openSUSE. You can find more about me in: [//anamaria.martinezgomez.name](//anamaria.martinezgomez.name/)
 
 
 
@@ -123,4 +123,4 @@ My name is Ana and I am mentor and organization admin for openSUSE at GSoC, open
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), except where otherwise noted. 
+This blog post original version can be found at [//anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](//anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](//creativecommons.org/licenses/by/4.0/), except where otherwise noted. 

@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-﻿﻿At [Latinoware](http://www.latinoware.org/), a team of openSUSE contributors will come together, not only to promote openSUSE but also to talk with each other about the future plans for the major linux distribution in Brazil. openSUSE has some awesome technology and great people - both deserve more attention than they get and this is what the openSUSE ambassadors will talk about!
+﻿﻿At [Latinoware](//www.latinoware.org/), a team of openSUSE contributors will come together, not only to promote openSUSE but also to talk with each other about the future plans for the major linux distribution in Brazil. openSUSE has some awesome technology and great people - both deserve more attention than they get and this is what the openSUSE ambassadors will talk about!
 
 At the conference, you can expect the following talks by openSUSE people: A11y: Its about you! by Bryen "suseROCKs" Yunashko, international GNOME and openSUSE marketing and Accessibility expert; and "Why are you here?" by Jos Poortvliet, openSUSE community manager for Novell. He will be very friendly and the talk will feature kittens.
 

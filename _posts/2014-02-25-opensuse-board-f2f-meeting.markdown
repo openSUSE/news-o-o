@@ -16,7 +16,7 @@ The openSUSE Board has pleasure to announce the minutes from Face to Face Board 
 
 Please read carefully and see how it was productive.
 
-_**[http://en.opensuse.org/openSUSE:Board_meeting#Face_to_Face_Meeting_2014-02-07.2C08.2C09](http://en.opensuse.org/openSUSE:Board_meeting#Face_to_Face_Meeting_2014-02-07.2C08.2C09)**_
+_**[//en.opensuse.org/openSUSE:Board_meeting#Face_to_Face_Meeting_2014-02-07.2C08.2C09](//en.opensuse.org/openSUSE:Board_meeting#Face_to_Face_Meeting_2014-02-07.2C08.2C09)**_
 
 _****_Thanks to SUSE for hosting the meeting and thanks to those meeting with the board over the weekend for taking the time.
 
@@ -30,7 +30,7 @@ We have also reach agreement to re-instate the reimbursement of locally produce
 
 We all feel we got a lot of stuff sorted out and ready to roll. As always if you have questions or concerns please feel free to send a message to _board at o.o_
 
-Another good reference can be find here  [_**http://andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html**_](http://andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html)
+Another good reference can be find here  [_**//andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html**_](//andrew.wafaa.eu/2014/02/19/opensuse-board-in-the-flesh.html)
 
 Have a great week!
 

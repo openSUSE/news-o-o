@@ -10,4 +10,4 @@ title: openSUSE Marketing Meeting
 wordpress_id: 2894
 ---
 
-IRC meeting of the openSUSE marketing on freenode, IRC channel #opensuse-project ([details](http://en.opensuse.org/Marketing_Team/Meetings/Marketing_Meeting_2010-02-23)).
+IRC meeting of the openSUSE marketing on freenode, IRC channel #opensuse-project ([details](//en.opensuse.org/Marketing_Team/Meetings/Marketing_Meeting_2010-02-23)).

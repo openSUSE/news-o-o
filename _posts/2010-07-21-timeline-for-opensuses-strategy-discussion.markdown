@@ -47,4 +47,4 @@ Here's our new timeline:
 
 
 
-As voting procedure is not yet defined we can't give a date on voting yet. To read what this Srategy discussion is all about you're invited to go [here](http://wiki.opensuse.org/Portal:Strategy) and especially see the difference between [strategy and activity](http://wiki.opensuse.org/openSUSE:What_is_Strategy#Strategy_versus_activities) . For a summary of the discussions already happened Pavol and Andreas put them [here](http://wiki.opensuse.org/openSUSE:Strategy_discussion_comments).
+As voting procedure is not yet defined we can't give a date on voting yet. To read what this Srategy discussion is all about you're invited to go [here](//wiki.opensuse.org/Portal:Strategy) and especially see the difference between [strategy and activity](//wiki.opensuse.org/openSUSE:What_is_Strategy#Strategy_versus_activities) . For a summary of the discussions already happened Pavol and Andreas put them [here](//wiki.opensuse.org/openSUSE:Strategy_discussion_comments).

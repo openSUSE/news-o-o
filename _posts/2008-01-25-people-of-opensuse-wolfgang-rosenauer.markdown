@@ -61,7 +61,7 @@ Mostly known for his work on openSUSE for packaging Mozilla applications and for
 <td >**Blog:**
 </td>
 
-<td >[http://www.rosenauer.org/blog/](http://www.rosenauer.org/blog/)
+<td >[//www.rosenauer.org/blog/](//www.rosenauer.org/blog/)
 </td>
 
 <td >

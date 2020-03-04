@@ -13,8 +13,8 @@ categories:
 
 The openSUSE News team has taken the comments from its recent survey and created a white paper for the openSUSE community. The paper also provides insight into the state of the openSUSE Weekly News team and its plans for the future.
 
-The paper can be found here: [http://freenet-homepage.de/smanns/whitepaper/WhitepaperWeeklyNewsSurvey.pdf](http://freenet-homepage.de/smanns/whitepaper/WhitepaperWeeklyNewsSurvey.pdf)
+The paper can be found here: [//freenet-homepage.de/smanns/whitepaper/WhitepaperWeeklyNewsSurvey.pdf](//freenet-homepage.de/smanns/whitepaper/WhitepaperWeeklyNewsSurvey.pdf)
 
 Additional feedback should be sent to saigkill@opensuse.org.
 
-A reminder: The openSUSE Weekly News team is always seeking additional contributors, contributions, and feedback. Please see the openSUSE Wiki [http://en.opensuse.org/OpenSUSE_Weekly_News/](http://en.opensuse.org/OpenSUSE_Weekly_News/) for a description of how the openSUSE Weekly News team works together and how you can join in.
+A reminder: The openSUSE Weekly News team is always seeking additional contributors, contributions, and feedback. Please see the openSUSE Wiki [//en.opensuse.org/OpenSUSE_Weekly_News/](//en.opensuse.org/OpenSUSE_Weekly_News/) for a description of how the openSUSE Weekly News team works together and how you can join in.

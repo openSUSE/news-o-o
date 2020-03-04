@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-We proudly announce [shop.openSUSE.org](http://shop.opensuse.org/). This is the place to find official openSUSE gear: T-shirts, mugs, caps, bags and more are available.
+We proudly announce [shop.openSUSE.org](//shop.opensuse.org/). This is the place to find official openSUSE gear: T-shirts, mugs, caps, bags and more are available.
 
 [![bag](/wp-content/uploads/2008/01/foo1.jpg)](/wp-content/uploads/2008/01/foo1.jpg)[![cup.jpg](/wp-content/uploads/2008/01/cup.jpg)](/wp-content/uploads/2008/01/cup.jpg)[![shirt](/wp-content/uploads/2008/01/shirt.jpg)](/wp-content/uploads/2008/01/shirt.jpg)
 

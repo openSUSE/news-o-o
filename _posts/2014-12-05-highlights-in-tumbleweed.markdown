@@ -39,6 +39,6 @@ LXSession added the ESCAPE key to close the lxsession-logout menu and has create
 
 Thai fonts have an updated version from 0.6.0 to 0.6.1 and provide a new Laksaman font.
 
-For more highlights, visit [http://bit.ly/1FSmSFC](http://bit.ly/1FSmSFC).
+For more highlights, visit [//bit.ly/1FSmSFC](//bit.ly/1FSmSFC).
 
 

@@ -52,4 +52,4 @@ Some user experience tips for you:
   * Hit the refresh button at least once a day to get any updated schedule changes
 
 
-Hope you'll find the application useful, get it from the market! It's courtesy of our very own [Pavol Rusnak](https://connect.opensuse.org/pg/profile/prusnak) and [Tom Schmidt](https://connect.opensuse.org/pg/profile/digitaltomm) and [open-sourced code](https://github.com/digitaltom/OSCFahrplan) originally written by Daniel Dorau. [See you in September!](http://conference.opensuse.org)
+Hope you'll find the application useful, get it from the market! It's courtesy of our very own [Pavol Rusnak](https://connect.opensuse.org/pg/profile/prusnak) and [Tom Schmidt](https://connect.opensuse.org/pg/profile/digitaltomm) and [open-sourced code](https://github.com/digitaltom/OSCFahrplan) originally written by Daniel Dorau. [See you in September!](//conference.opensuse.org)

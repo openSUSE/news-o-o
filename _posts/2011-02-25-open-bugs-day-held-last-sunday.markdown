@@ -12,17 +12,17 @@ categories:
 - Project
 ---
 
-![](http://counter.opensuse.org/)
+![](//counter.opensuse.org/)
 
 
-[As announced previously](http://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January 20. Many people participated, including a large number of contributors new to [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on [Freenode servers](http://freenode.net/)!
+[As announced previously](//news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January 20. Many people participated, including a large number of contributors new to [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on [Freenode servers](//freenode.net/)!
 
 
 
 ## Results
 
 
-Bernhard Wiedemann created a nice tool at [openbugs.zq1.de](http://openbugs.zq1.de/) to avoid the situation where two people work on the same issue. There were VM's prepared with VNC access so people could easily test and someone in the team ran his first KVM Virtual Machine at home, thanks to the help of the rest of the team. Another participant filed his first bug on bugzilla (that would be bug number [673629](https://bugzilla.novell.com/show_bug.cgi?id=673629)). In the end, the team went through and updated 60% of all old 11.4 bugs (=132 of 219)!
+Bernhard Wiedemann created a nice tool at [openbugs.zq1.de](//openbugs.zq1.de/) to avoid the situation where two people work on the same issue. There were VM's prepared with VNC access so people could easily test and someone in the team ran his first KVM Virtual Machine at home, thanks to the help of the rest of the team. Another participant filed his first bug on bugzilla (that would be bug number [673629](https://bugzilla.novell.com/show_bug.cgi?id=673629)). In the end, the team went through and updated 60% of all old 11.4 bugs (=132 of 219)!
 
 
 
@@ -30,7 +30,7 @@ And of course, they had a lot of fun...
 
 
 
-Finally, we have some crude statistics about yesterday's most active participants, who can get the geeko-gear reward (just send your details to [Bernhard Wiedermann](http://en.opensuse.org/User:Bmwiedemann))!
+Finally, we have some crude statistics about yesterday's most active participants, who can get the geeko-gear reward (just send your details to [Bernhard Wiedermann](//en.opensuse.org/User:Bmwiedemann))!
 This list is generated with a perl script | sort | uniq -c | sort -n -r | head -11
      49 Rainer Hurtado Navarro
      34 Bernhard Wiedemann

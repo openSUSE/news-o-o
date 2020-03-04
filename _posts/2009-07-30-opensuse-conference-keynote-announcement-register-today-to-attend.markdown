@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-The openSUSE Project is proud to announce the first confirmed keynote for the first-ever openSUSE Conference. The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
+The openSUSE Project is proud to announce the first confirmed keynote for the first-ever openSUSE Conference. The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](//conference.opensuse.org/registration/) to reserve your spot!
 
 
 
@@ -30,7 +30,7 @@ The openSUSE Conference is for anyone and everyone making a contribution to open
 
 
 
-The conference will have [two daily tracks](http://conference.opensuse.org/schedule/) of pre-planned talks, plus “BarCamp” style tracks for attendees to plan and provide their own content. Scheduled talks include:
+The conference will have [two daily tracks](//conference.opensuse.org/schedule/) of pre-planned talks, plus “BarCamp” style tracks for attendees to plan and provide their own content. Scheduled talks include:
 
 
 
@@ -71,7 +71,7 @@ We’ll also be celebrating Software Freedom Day on Saturday, September 19th wit
 
 
 
-If you haven't registered yet, do it today! Attendance is free, but we do have limited capacity at the venue, and other logistics require a good headcount prior to the event. Be sure to [register today](http://conference.opensuse.org/registration/)!
+If you haven't registered yet, do it today! Attendance is free, but we do have limited capacity at the venue, and other logistics require a good headcount prior to the event. Be sure to [register today](//conference.opensuse.org/registration/)!
 
 
 
@@ -97,4 +97,4 @@ If you haven't registered yet, do it today! Attendance is free, but we do have l
 
 
 
-More to come! More keynotes will be announced shortly, and keep watching [News.opensuse.org](http://news.opensuse.org/) and the opensuse-announce mailing list for further updates on the openSUSE Conference. We'll see you in September!
+More to come! More keynotes will be announced shortly, and keep watching [News.opensuse.org](//news.opensuse.org/) and the opensuse-announce mailing list for further updates on the openSUSE Conference. We'll see you in September!

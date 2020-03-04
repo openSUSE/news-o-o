@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-openSUSE 13.2 comes with the latest and greatest that the GNOME desktop has to offer -- [GNOME 3.14](http://www.gnome.org/news/2014/09/gnome-3-14-released/). At the time of the release 13.2 offers GNOME 3.14.1, which improves upon the user-experience of GNOME 3.10, that came with openSUSE 13.1, several notches, featuring notably a much improved gnome-shell with pretty-but-subtle animations and multi-touch gestures for the first time. The core applications have all seen remarkable activity during the development of 3.14 (and earlier, 3.12), focused on exciting features but also to make the desktop experience more unified and consistent.
+openSUSE 13.2 comes with the latest and greatest that the GNOME desktop has to offer -- [GNOME 3.14](//www.gnome.org/news/2014/09/gnome-3-14-released/). At the time of the release 13.2 offers GNOME 3.14.1, which improves upon the user-experience of GNOME 3.10, that came with openSUSE 13.1, several notches, featuring notably a much improved gnome-shell with pretty-but-subtle animations and multi-touch gestures for the first time. The core applications have all seen remarkable activity during the development of 3.14 (and earlier, 3.12), focused on exciting features but also to make the desktop experience more unified and consistent.
 
 
 

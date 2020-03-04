@@ -10,4 +10,4 @@ title: openFATE Screening Team Meeting
 wordpress_id: 5420
 ---
 
-Discussion about openFATE, for details see [here](http://en.opensuse.org/openSUSE:Openfate_screening#Bi-weekly_openFATE_screening_team_meeting).
+Discussion about openFATE, for details see [here](//en.opensuse.org/openSUSE:Openfate_screening#Bi-weekly_openFATE_screening_team_meeting).

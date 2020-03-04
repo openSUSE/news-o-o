@@ -22,14 +22,14 @@ tags:
 - Snapper
 ---
 
-[![](http://countdown.opensuse.org/medium.png)](http://en.opensuse.org/Portal:13.2)The development cycle for [openSUSE Leap 42.2 Release Candidates](http://bit.ly/1iOyl2T) (RC) is coming to an end.
+[![](//countdown.opensuse.org/medium.png)](//en.opensuse.org/Portal:13.2)The development cycle for [openSUSE Leap 42.2 Release Candidates](//bit.ly/1iOyl2T) (RC) is coming to an end.
 
 RC2, which will be followed by the stable release of [openSUSE Leap 42.2](https://en.opensuse.org/Portal:42.2) on Nov. 16, is now available for testers after its release today.
 
 "A big change is that the [Mesa Nouveau 3D driver](https://nouveau.freedesktop.org/wiki/) was split out to a
-separate package as [KDE](https://www.kde.org/) crashes with it on some newer [NVidia](http://www.nvidia.com) cards," [wrote release manager Ludwig Nussel](http://bit.ly/2eUin8K) to the [openSUSE Factory Mailing List](https://lists.opensuse.org/opensuse-factory/).
+separate package as [KDE](https://www.kde.org/) crashes with it on some newer [NVidia](//www.nvidia.com) cards," [wrote release manager Ludwig Nussel](//bit.ly/2eUin8K) to the [openSUSE Factory Mailing List](https://lists.opensuse.org/opensuse-factory/).
 
-Users of Leap's newest version will notice improved capabilities with [snapper](https://en.opensuse.org/Portal:Snapper) snapshots based on the btrfs file system, which is the default file system selection. A new btrfs quota concept makes snapper much less disk-hungry and can be [manually setup](http://snapper.io/2016/05/18/space-aware-cleanup.html). [Snapper](http://snapper.io/) is a [poka yoke](https://en.wikipedia.org/wiki/Poka-yoke) and can give system administrators confident about updating new packages and rolling back the system if an error is made. There is a selection of other file systems for Leap, but benefits of snapper are not available with the other file systems.
+Users of Leap's newest version will notice improved capabilities with [snapper](https://en.opensuse.org/Portal:Snapper) snapshots based on the btrfs file system, which is the default file system selection. A new btrfs quota concept makes snapper much less disk-hungry and can be [manually setup](//snapper.io/2016/05/18/space-aware-cleanup.html). [Snapper](//snapper.io/) is a [poka yoke](https://en.wikipedia.org/wiki/Poka-yoke) and can give system administrators confident about updating new packages and rolling back the system if an error is made. There is a selection of other file systems for Leap, but benefits of snapper are not available with the other file systems.
 
 
 <blockquote>

@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-Stephen Shaw from Novell sent us some information about the upcoming [Utah Open Source Conference](http://www.utosc.org/)!  Thanks Stephen
+Stephen Shaw from Novell sent us some information about the upcoming [Utah Open Source Conference](//www.utosc.org/)!  Thanks Stephen
 
 <!-- more -->
 

@@ -15,7 +15,7 @@ categories:
 Accessibility has become an important selling point in getting computing solutions into many organizations. Organizations are faced with legislations and regulations that require their environments be accessible and they take it into account when looking for a solution that fits their needs. For government organizations, software that doesn't live up to certain accessibility standards is simply not an option.
 
 Let's just be frank here. While the openSUSE community cares about accessibility as much as anyone else does in FOSS, we haven't done that well in delivering the best accessible solution. There are various people who look at the situation in their own corners and try to make the best of it. Andrew Wafaa highlighted some of the challenges in two recent articles.
-[![Orca-A powerful Linux screenreader](/wp-content/uploads/2010/12/orca2-sm.jpg)](http://news.opensuse.org/2011/01/06/putting-our-accessibility-heads-together-2/orca2-sm/)
+[![Orca-A powerful Linux screenreader](/wp-content/uploads/2010/12/orca2-sm.jpg)](//news.opensuse.org/2011/01/06/putting-our-accessibility-heads-together-2/orca2-sm/)
 Meanwhile openSUSE presents a very unique advantage that hasn't been leveraged yet. With DBUS, the GNOME and KDE communities have worked together to leverage GNOME's long-standing applications to work well on KDE. As openSUSE is a major distribution that provides support equally to GNOME and KDE, we have a distinct opportunity to provide the best integration of KDE and GNOME with accessibility. Thus offering prospective users and organizations a real choice on a distro that is known for its stability and support.
 <!-- more -->
 **So what's the problem?**

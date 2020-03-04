@@ -26,7 +26,7 @@ Individuals who apply for an [openSUSE Membership](https://en.opensuse.org/openS
 
 Candidates elected to the position will serve a 24-month term. The terms of Robert Schweikert and Kosta Koudaras' will expire and the seat of Peter Linnell, who was appointed as a replacement for chairman Richard Brown, will need to be filled.
 
-Members of the openSUSE board help to influence the future direction of the project. Members are encouraged to learn the [election process](http://en.opensuse.org/openSUSE:Membership_officials#Process), run for the board or propose a candidate.
+Members of the openSUSE board help to influence the future direction of the project. Members are encouraged to learn the [election process](//en.opensuse.org/openSUSE:Membership_officials#Process), run for the board or propose a candidate.
 
 
 #### Election Committee

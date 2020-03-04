@@ -13,11 +13,11 @@ categories:
 
 Fire up your virtual machines, get your test machines motoring, and start tweaking your fingers.  It's testing time!
 
-[![Image o Factory Assembly Line](/wp-content/uploads/2011/09/assemblyline.jpg)](http://news.opensuse.org/2011/09/01/and-the-milestones-keep-on-coming/assemblyline/)openSUSE 12.1's next milestone 5 is now ready for download.  Thanks to the men and women of openSUSE Factory who kept their eye on the ball with all the wonderful flurry of activities going on in our Project these days, they never lost sight and we'll be sure to have an awesome final release in November.
+[![Image o Factory Assembly Line](/wp-content/uploads/2011/09/assemblyline.jpg)](//news.opensuse.org/2011/09/01/and-the-milestones-keep-on-coming/assemblyline/)openSUSE 12.1's next milestone 5 is now ready for download.  Thanks to the men and women of openSUSE Factory who kept their eye on the ball with all the wonderful flurry of activities going on in our Project these days, they never lost sight and we'll be sure to have an awesome final release in November.
 
-There's a lot of interesting updates to the 12.1 release and some cool new technologies including GNOME 3 and SystemD.  You'll definitely want to take this milestone for a spin and see what you can expect in 12.1.  And if you've never tested before, its easy if you follow [these instructions](http://en.opensuse.org/VirtualBox).  Being a tester is one of the great ways of contributing to the free software movement, and there's plenty of room for testers in openSUSE Project.
+There's a lot of interesting updates to the 12.1 release and some cool new technologies including GNOME 3 and SystemD.  You'll definitely want to take this milestone for a spin and see what you can expect in 12.1.  And if you've never tested before, its easy if you follow [these instructions](//en.opensuse.org/VirtualBox).  Being a tester is one of the great ways of contributing to the free software movement, and there's plenty of room for testers in openSUSE Project.
 
-As always with any pre-release, there are some [known bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.1_dev) you should read before starting up your test environment.
+As always with any pre-release, there are some [known bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.1_dev) you should read before starting up your test environment.
 
 Here's some other interesting things you can expect to see when you try Milestone 5:
 
@@ -36,4 +36,4 @@ Here's some other interesting things you can expect to see when you try Mileston
   * glibc has been updated to version 2.14
 
 
-So, [click here](http://software.opensuse.org/developer/en) as we'd love to hear from you as you begin testing the latest Milestone.  If you already have a previous Milestone installed, simply run "zypper dup" at the command line to update to the latest Milestone.
+So, [click here](//software.opensuse.org/developer/en) as we'd love to hear from you as you begin testing the latest Milestone.  If you already have a previous Milestone installed, simply run "zypper dup" at the command line to update to the latest Milestone.

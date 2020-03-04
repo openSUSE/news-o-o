@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-It's hard to believe we're already on day four of [openSUSE Community Week](http://en.opensuse.org/Community_Week#Schedule) ! Let's take a look at all the fun that's in store for Thursday, May 14th:
+It's hard to believe we're already on day four of [openSUSE Community Week](//en.opensuse.org/Community_Week#Schedule) ! Let's take a look at all the fun that's in store for Thursday, May 14th:
 
 
 
@@ -26,7 +26,7 @@ It's hard to believe we're already on day four of [openSUSE Community Week](http
   * KDE: KDE IRC meeting from 16:00 UTC to 18:00 UTC in [#opensuse-kde on Freenode](irc://irc.freenode.net/opensuse-kde).
 
 	
-  * [openSUSE Weekly News](http://en.opensuse.org/OpenSUSE_Weekly_News/Community_Week#Translation_Day): How to translate a newsletter from English to your $LANG from 12:00 UTC to 15:00 UTC in several channels. ([See schedule](http://en.opensuse.org/OpenSUSE_Weekly_News/Community_Week#Translation_Day))
+  * [openSUSE Weekly News](//en.opensuse.org/OpenSUSE_Weekly_News/Community_Week#Translation_Day): How to translate a newsletter from English to your $LANG from 12:00 UTC to 15:00 UTC in several channels. ([See schedule](//en.opensuse.org/OpenSUSE_Weekly_News/Community_Week#Translation_Day))
 
 	
   * Testing/QA: How to get started with Testing/QA at 18:00 UTC in [#opensuse-testing in Freenode](irc://irc.freenode.net/opensuse-testing).

@@ -22,4 +22,4 @@ The motto for our conference is one of the basic ideas of openSUSE: _Collaborati
 
 They'll show how KDE and GNOME evolved on their mission to bring user-friendly Free Software to users, where they stand today, and why the Free Desktop is needed to protect our freedoms in a cloudy world.
 
-If you have not registered for the conference yet, please do so [here](http://conference.opensuse.org/indico/confRegistrationFormDisplay.py/display?confId=0) to assure we have enough chairs. Our yearly conference is free of charge, offers interesting talks and gives you the best chance to meet many cool people in person!
+If you have not registered for the conference yet, please do so [here](//conference.opensuse.org/indico/confRegistrationFormDisplay.py/display?confId=0) to assure we have enough chairs. Our yearly conference is free of charge, offers interesting talks and gives you the best chance to meet many cool people in person!

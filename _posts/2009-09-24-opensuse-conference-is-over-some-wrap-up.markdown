@@ -98,13 +98,13 @@ If you like to see some photos, check either of these two galleries:
 
 
 	
-  * [gallery.opensuse.org](http://gallery.opensuse.org/Conference%2009)
+  * [gallery.opensuse.org](//gallery.opensuse.org/Conference%2009)
 
 
 
 	
-  * [flickr osc09 group](http://www.flickr.com/groups/osc09/pool/)
+  * [flickr osc09 group](//www.flickr.com/groups/osc09/pool/)
 
 
 **Twitter
-**The flickr photos are also shown on the osc09 [twitterwall](http://karl-tux-stadt.de/osc09/) that was created by [gnokii](http://en.opensuse.org/User:Gnokii).  #osc09 was the hashmark used for twittering about the  conference.
+**The flickr photos are also shown on the osc09 [twitterwall](//karl-tux-stadt.de/osc09/) that was created by [gnokii](//en.opensuse.org/User:Gnokii).  #osc09 was the hashmark used for twittering about the  conference.

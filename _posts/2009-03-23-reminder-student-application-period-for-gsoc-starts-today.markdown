@@ -11,9 +11,9 @@ categories:
 - Google Summer of Code
 ---
 
-Quick reminder: The student application period [starts today](http://socghop.appspot.com/program/home/google/gsoc2009) for the Google Summer of Code 2009.
+Quick reminder: The student application period [starts today](//socghop.appspot.com/program/home/google/gsoc2009) for the Google Summer of Code 2009.
 
-(See the [previous post on GSoC and openSUSE](http://news.opensuse.org/2009/03/19/opensuse-project-accepted-to-google-summer-of-code-2009/).)
+(See the [previous post on GSoC and openSUSE](//news.opensuse.org/2009/03/19/opensuse-project-accepted-to-google-summer-of-code-2009/).)
 
 If you'd like to work with openSUSE, be sure to sign up as soon as possible. The deadline is April 3rd.
 
@@ -44,8 +44,8 @@ an individual enrolled in or accepted into an accredited institution including (
   * Time: You should plan on spending a lot of time on your project. As Google says, "**you should expect your project to be your primary focus this summer.** If you have a great internship starting soon or you're planning a month long backpacking trip, you likely won't be a good candidate for the program."
 
 
-The [rest is on the Google FAQ](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#eligibility): please do read it through!
+The [rest is on the Google FAQ](//socghop.appspot.com/document/show/program/google/gsoc2009/faqs#eligibility): please do read it through!
 
-The [deadline for student applications](http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#timeline) is April 3rd. There's also a [visual timeline](http://is.gd/oyaO) created by Christian Moore.
+The [deadline for student applications](//socghop.appspot.com/document/show/program/google/gsoc2009/faqs#timeline) is April 3rd. There's also a [visual timeline](//is.gd/oyaO) created by Christian Moore.
 
 Read all the FAQ and Google documentation, but still have questions? Ask on the opensuse-project list or [drop me a note](mailto:zonker@opensuse.org).

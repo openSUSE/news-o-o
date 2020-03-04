@@ -17,7 +17,7 @@ Now is your chance to submit your proposal for oSC15. The conference is just 93 
 
 We are looking for speakers on a wide range of topics, ranging from hacking to open-source idealism. If you have an interest in contributing, please don’t hesitate to register **before 14th February 2015** at [https://events.opensuse.org/conference/osc15/proposal](https://events.opensuse.org/conference/osc15/proposal)
 
-Today we will have a project meeting at 13 UTC on the openSUSE-project channel on [Freenode IRC](http://webchat.freenode.net/).
+Today we will have a project meeting at 13 UTC on the openSUSE-project channel on [Freenode IRC](//webchat.freenode.net/).
 
 Join us at FOSDEM for a meeting at [Café Belga](https://www.facebook.com/pages/Caf%C3%A9-Belga/99144066931) this Saturday at 7 p.m. if you want to talk more about oSC15.
 

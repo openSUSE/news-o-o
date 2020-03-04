@@ -12,4 +12,4 @@ wordpress_id: 2739
 
 Objective: Form an openSUSE Art team.
 
-The meeting is on Saturday the 30th on 16.00 UTC on [#opensuse-artwork](irc://irc.opensuse.org/opensuse-artwork). If  you like to contact us, use the opensuse-artwork@opensuse.org ([details).](http://karl-tux-stadt.de/ktuxs/?p=2005)
+The meeting is on Saturday the 30th on 16.00 UTC on [#opensuse-artwork](irc://irc.opensuse.org/opensuse-artwork). If  you like to contact us, use the opensuse-artwork@opensuse.org ([details).](//karl-tux-stadt.de/ktuxs/?p=2005)

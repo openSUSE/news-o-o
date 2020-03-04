@@ -21,7 +21,7 @@ tags:
 - SCALE
 ---
 
-![](http://2.bp.blogspot.com/-PkmPIe3APNg/VqkGeYT1FxI/AAAAAAAAVP4/GGhb2Uue3dQ/s1600/KDE%2BGNOME%2BopenSUSE.jpg)The 16th [Southern California Linux Expo](https://www.socallinuxexpo.org/) is about a month away, and [openSUSE](https://www.opensuse.org/) will once again have a booth with the [KDE](https://www.kde.org/) and [GNOME](https://www.gnome.org/) booths.
+![](//2.bp.blogspot.com/-PkmPIe3APNg/VqkGeYT1FxI/AAAAAAAAVP4/GGhb2Uue3dQ/s1600/KDE%2BGNOME%2BopenSUSE.jpg)The 16th [Southern California Linux Expo](https://www.socallinuxexpo.org/) is about a month away, and [openSUSE](https://www.opensuse.org/) will once again have a booth with the [KDE](https://www.kde.org/) and [GNOME](https://www.gnome.org/) booths.
 
 The event takes place at the [Pasadena Convention Center](https://pasadenacenter.visitpasadena.com/) March 8 - 11.
 

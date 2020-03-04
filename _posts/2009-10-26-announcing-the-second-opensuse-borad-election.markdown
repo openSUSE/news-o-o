@@ -82,4 +82,4 @@ The election is broken into three phases similar to last year:
   * Ballots close
 
 
-Should anyone have any questions, you can contact the Election Committee by emailing [election-officials@opensuse.org](mailto:election-officials@opensuse.org) or speaking to one of the members on IRC.  It is best to always email the committee even if you speak to someone on IRC.  Full details of the election can be found on the wiki [here](http://en.opensuse.org/Board_Election/2009).  Prospective candidates are highly encouraged to read [this](http://lwn.net/Articles/211548/) lwn.net article on some of the tasks required of Board members.
+Should anyone have any questions, you can contact the Election Committee by emailing [election-officials@opensuse.org](mailto:election-officials@opensuse.org) or speaking to one of the members on IRC.  It is best to always email the committee even if you speak to someone on IRC.  Full details of the election can be found on the wiki [here](//en.opensuse.org/Board_Election/2009).  Prospective candidates are highly encouraged to read [this](//lwn.net/Articles/211548/) lwn.net article on some of the tasks required of Board members.

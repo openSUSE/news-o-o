@@ -11,8 +11,8 @@ categories:
 - Distribution
 ---
 
-[![Failed geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)](http://en.opensuse.org/openSUSE:Downtime)
-Many people have noticed that the milestones and the Beta for this openSUSE release have been delayed or even canceled like Milestone 4. Now the RC is planned to go out Thursday - but that seems unlikely to happen as Factory, our development project, is still far too unstable. Coolo has send a [mail to the openSUSE Factory](http://lists.opensuse.org/opensuse-factory/2012-06/msg00468.html) mailing list noting that we need to re-think how we're working.
+[![Failed geeko](//en.opensuse.org/images/4/43/Failgeeko.png)](//en.opensuse.org/openSUSE:Downtime)
+Many people have noticed that the milestones and the Beta for this openSUSE release have been delayed or even canceled like Milestone 4. Now the RC is planned to go out Thursday - but that seems unlikely to happen as Factory, our development project, is still far too unstable. Coolo has send a [mail to the openSUSE Factory](//lists.opensuse.org/opensuse-factory/2012-06/msg00468.html) mailing list noting that we need to re-think how we're working.
 
 
 
@@ -28,13 +28,13 @@ All options have pro's and con's. We want to avoid loosing ourselves: introducin
 ## Limits: delays and cancellations
 
 
-Pretty much every milestone of openSUSE 12.2 has been delayed or even canceled. Compared to the preliminairy schedule, milestones 1 to 3 were only about one to two weeks late - but milestone 4 had to be canceled and even Beta 1 was 2 weeks late. Release candidate 1 [won't make it either](http://lists.opensuse.org/opensuse-project/2012-06/msg00141.html) - to get Factory close to a releasable state we'd need to think about a serious delay.
+Pretty much every milestone of openSUSE 12.2 has been delayed or even canceled. Compared to the preliminairy schedule, milestones 1 to 3 were only about one to two weeks late - but milestone 4 had to be canceled and even Beta 1 was 2 weeks late. Release candidate 1 [won't make it either](//lists.opensuse.org/opensuse-project/2012-06/msg00141.html) - to get Factory close to a releasable state we'd need to think about a serious delay.
 
 
 ### Wazzup?
 
 
-The milestones faced the usual issues. Sometimes, the Buildservice goes down - and with the huge amount of development going on there it takes a while for it to churn through its backlog and catch up again. Another issue were some problems with the integration of some of the bigger features - most notably GCC 4.7 but also Automake are still creating big pains. And in general, the stability of openSUSE Factory is not exactly up to our usual standards, as many threads in the [Factory Mailing list Archive](http://lists.opensuse.org/opensuse-factory/2012-06/) show.
+The milestones faced the usual issues. Sometimes, the Buildservice goes down - and with the huge amount of development going on there it takes a while for it to churn through its backlog and catch up again. Another issue were some problems with the integration of some of the bigger features - most notably GCC 4.7 but also Automake are still creating big pains. And in general, the stability of openSUSE Factory is not exactly up to our usual standards, as many threads in the [Factory Mailing list Archive](//lists.opensuse.org/opensuse-factory/2012-06/) show.
 
 
 ### Not incidents
@@ -46,7 +46,7 @@ But these integration issues are not just incidental but, according to release m
 ### Broken windows
 
 
-With more new contributors sending in bigger and small(er) improvements and quite a bit of plumbing going on in openSUSE, problems are arising. All these changes need to be combined, integrated, made a whole. Some people need to look at the big picture. This doesn't happen at the rate it should be so things in Factory are broken more often than not. This leads to a bit of a [broken-window problem](http://en.wikipedia.org/wiki/Fixing_Broken_Windows): the more is broken, the less people care and the harder it is to get anything done - discouraging contributors. Say hello to a downward spiral.
+With more new contributors sending in bigger and small(er) improvements and quite a bit of plumbing going on in openSUSE, problems are arising. All these changes need to be combined, integrated, made a whole. Some people need to look at the big picture. This doesn't happen at the rate it should be so things in Factory are broken more often than not. This leads to a bit of a [broken-window problem](//en.wikipedia.org/wiki/Fixing_Broken_Windows): the more is broken, the less people care and the harder it is to get anything done - discouraging contributors. Say hello to a downward spiral.
 
 All this has gotten us to the point where the release manager doesn't feel confident that we can release openSUSE on time. Actually, Coolo says something needs to change if we are to do even remotely timely releases at all. Looks like a challenge!
 
@@ -68,7 +68,7 @@ We could drop the fixed release schedule and release 'when ready'. But this coul
 
 Coolo says that giving up on releases altogether, making openSUSE a tumbleweed-on-SLE would work as well. But - to mention just _one_ issue with this scheme, Tumbleweed needs to rebase on new releases as it's not designed to roll forever. So it would depend on new SLE releases for major plumbing work which, in effect, simply moves the problem to SUSE.
 
-[caption id="attachment_12917" align="alignright" width="150" caption="Devel feeds Factory"][![openSUSE Factory workflow](/wp-content/uploads/2012/03/600px-Factory_workflow.png)](http://en.opensuse.org/openSUSE:Factory_development_model)[/caption]
+[caption id="attachment_12917" align="alignright" width="150" caption="Devel feeds Factory"][![openSUSE Factory workflow](/wp-content/uploads/2012/03/600px-Factory_workflow.png)](//en.opensuse.org/openSUSE:Factory_development_model)[/caption]
 
 Another step we might have to take is look closely at how we work. Working more in staging is what Coolo proposes. Working in the Devel projects is great but leads to integration issues. Working with more staging projects will need tooling support and won't solve everything, but it is a step in the right direction.
 

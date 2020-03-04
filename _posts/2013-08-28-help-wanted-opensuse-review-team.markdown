@@ -19,7 +19,7 @@ tags:
 - testing
 ---
 
-[![Package review image](http://upload.wikimedia.org/wikipedia/commons/0/00/Review.png)](http://commons.wikimedia.org)
+[![Package review image](//upload.wikimedia.org/wikipedia/commons/0/00/Review.png)](//commons.wikimedia.org)
 
 The openSUSE Review Team is interested in adding 1 to 2 new members to the team.  This person will review submissions to opnSUSE Factory that will improve the quality of the product and add great new functionality to the already awesome openSUSE distribution.  Details of the tasks performed by the members of the Review Team can be seen on the [openSUSE Review Team wiki page](https://en.opensuse.org/openSUSE:OpenSUSE_review_team) and the associated [openSUSE Factory Submissions portal](https://en.opensuse.org/openSUSE:Factory_submissions).
 

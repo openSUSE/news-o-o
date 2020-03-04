@@ -15,6 +15,6 @@ tags:
 - opensuse
 ---
 
-We are pleased to announce the Greek sub-forum is now live and ready for business. I have been working closely with: @warlordfff, who will be one of the Forum Moderators. The full list of openSUSE forum Moderators can be seen here: http://en.opensuse.org/openSUSE:Forums_team
+We are pleased to announce the Greek sub-forum is now live and ready for business. I have been working closely with: @warlordfff, who will be one of the Forum Moderators. The full list of openSUSE forum Moderators can be seen here: //en.opensuse.org/openSUSE:Forums_team
 
 openSUSE forums offers a warm welcome to all language groups and we are especially pleased to see the successful launch of the Greek Forum. Now if only I was fluent in Greek! I could make this announcement look really impressive. Enjoy.

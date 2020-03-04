@@ -56,7 +56,7 @@ Read on to see which answers he provides.
 <td >**Blog: **
 </td>
 
-<td >[http://www.kdedevelopers.org/blog/124](http://www.kdedevelopers.org/blog/124)
+<td >[//www.kdedevelopers.org/blog/124](//www.kdedevelopers.org/blog/124)
 </td>
 
 <td >

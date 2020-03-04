@@ -10,4 +10,4 @@ title: openSUSE 11.2 Milestone 4
 wordpress_id: 1810
 ---
 
-[Roadmap](http://en.opensuse.org/Roadmap)
+[Roadmap](//en.opensuse.org/Roadmap)

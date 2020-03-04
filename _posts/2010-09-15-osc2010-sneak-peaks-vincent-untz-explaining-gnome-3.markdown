@@ -25,16 +25,16 @@ tags:
 > 
 
 > 
-> The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more than seventy talks and workshops explore the theme  of ‘**Collaboration Across Borders**‘ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together of  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [Berufsförderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.
+> The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more than seventy talks and workshops explore the theme  of ‘**Collaboration Across Borders**‘ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together of  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [Berufsförderungswerk Nuremberg](//www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](//www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the program which starts each day at 9am,  the admission is free. The openSUSE Conference 2010 Sneak Peaks will introduce some speakers and talks to you.
 > 
 > 
-Today we feature the talk ["Explaining GNOME 3"](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=15&sessionId=2&confId=0) from Vincent Untz.
+Today we feature the talk ["Explaining GNOME 3"](//conference.opensuse.org/indico//contributionDisplay.py?contribId=15&sessionId=2&confId=0) from Vincent Untz.
   
 
 </blockquote>
 
 
-[![](/wp-content/uploads/2010/09/Vuntz-hackergotchi.png)](http://en.opensuse.org/User:Vuntz)
+[![](/wp-content/uploads/2010/09/Vuntz-hackergotchi.png)](//en.opensuse.org/User:Vuntz)
 **Hey Vincent, glad to have you on this series. Let's talk (about) the talk. First of all I would like you to introduce yourself to the, likely, small crowd of people who don't know you yet. Who are you and what do you do?**
 
 For the very few people who don't know me (I estimate there are only a few billions out there), I'm Vincent. The two important things to know about me are that I'm French and I love ice cream. And when I'm not eating ice cream, I also contribute to free software! I work on openSUSE and on GNOME, and apparently, I can also work on both at the same time, when I work on GNOME in openSUSE :-) Thanks to Novell, I can contribute on my work time since I'm a member of the openSUSE Boosters.

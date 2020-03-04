@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-The openSUSE project released the fifth of six milestones in the development of openSUSE 11.4 some days ago. **Milestone 5 (M5)** brings a wide range of updates, both major and minor. As usual, you can get it [here](http://software.opensuse.org/developer/en).
+The openSUSE project released the fifth of six milestones in the development of openSUSE 11.4 some days ago. **Milestone 5 (M5)** brings a wide range of updates, both major and minor. As usual, you can get it [here](//software.opensuse.org/developer/en).
 
 
 
@@ -55,6 +55,6 @@ The openSUSE project released the fifth of six milestones in the development of 
 ## Get it!
 
 
-A list of most annoying bugs is being compiled; please check it before installing. We look forward to your bug reports and test experiences! Automated testing and the openSUSE Factory team have been very active to ensure that your download of  M5 will be at least minimally functional, thanks for that! now go and [download it](http://software.opensuse.org/developer/en)!
+A list of most annoying bugs is being compiled; please check it before installing. We look forward to your bug reports and test experiences! Automated testing and the openSUSE Factory team have been very active to ensure that your download of  M5 will be at least minimally functional, thanks for that! now go and [download it](//software.opensuse.org/developer/en)!
 
 The next milestone is scheduled for Thursday, Jan 20 2011, and will be the openSUSE 11.4 Milestone 6 release. The final openSUSE 11.4 is planned to be released in March 2011.

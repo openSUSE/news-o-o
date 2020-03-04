@@ -15,7 +15,7 @@ tags:
 - opensuse-edu
 ---
 
-In December, HP announced that it would [release a new desktop offering along with Novell](http://www.hp.com/hpinfo/newsroom/press/2008/081210a.html) targeted at education customers. Part of the announcement is a repository of education applications "including math, art and word games, to improve student learning," which were based on work by the [openSUSE Education project](http://en.opensuse.org/Education).
+In December, HP announced that it would [release a new desktop offering along with Novell](//www.hp.com/hpinfo/newsroom/press/2008/081210a.html) targeted at education customers. Part of the announcement is a repository of education applications "including math, art and word games, to improve student learning," which were based on work by the [openSUSE Education project](//en.opensuse.org/Education).
 
 Novell and HP would like to formally acknowledge the community's contribution to HP's  education repository and thank the openSUSE Education community for the work  they have  done  to package and make available additional programs for open source education efforts.
 

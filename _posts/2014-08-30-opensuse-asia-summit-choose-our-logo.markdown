@@ -13,7 +13,7 @@ categories:
 
 Following the announcement of our logo contests, thanks to our awesome community as usual, we now have several logos. Choosing the best of them off course was a lot of work for us and so the openSUSE Asia committee has decided that the community will choose its own logo for the summit.
 
-We are happy to announce that following our[ Call for Logo Design](http://summit.opensuse.org/#artwork), we are opening our "Choose our Logo" Elections where "You" vote for the best. The voting period is until 8th September 2014 and the entries can be viewed [here](http://vote.suse.org.cn/).
+We are happy to announce that following our[ Call for Logo Design](//summit.opensuse.org/#artwork), we are opening our "Choose our Logo" Elections where "You" vote for the best. The voting period is until 8th September 2014 and the entries can be viewed [here](//vote.suse.org.cn/).
 The scoring rules are as follows :[![GeekoVote](/wp-content/uploads/2012/11/GeekoVote.png)](/wp-content/uploads/2012/11/GeekoVote.png)
 
 1. SNOEK allows upto 3 votes per person in order of preference.

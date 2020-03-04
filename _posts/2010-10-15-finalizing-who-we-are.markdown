@@ -16,7 +16,7 @@ tags:
 - Strategy
 ---
 
-We're almost there, ladies and gents.![Future Lizard!\](http://en.opensuse.org/images/a/af/Future.png)
+We're almost there, ladies and gents.![Future Lizard!\](//en.opensuse.org/images/a/af/Future.png)
 
 Again there was quite some feedback on the strategy doc. We have worked [to shorten the document](https://lite.co-ment.com/text/lNPCgzeGHdV/view/) - a difficult thing with something which is the result of many thoughts and ideas. We tried to bring the piece on our target users back to it's essentials and now have a short and a long version - input on what to do with either of those is very much welcome. In the other area's, shortening was even harder - we appreciate input there as well.  The plan is to do this one last round of feedback before we will try and finish it all off at the openSUSE conference next week.
 

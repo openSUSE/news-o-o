@@ -20,4 +20,4 @@ Using the openSUSE Build Service, you can provide packages for most popular Linu
 
 To learn how to leverage the build service, join the openSUSE community on April 4th and 5th on IRC to hone your package building skills. The Packaging Days II event will be held on Freenode at #opensuse-buildservice. Community members will be standing by to provide support and answer questions about using the build service and creating packages.
 
-Find out more about the Packaging Days II event at: [http://en.opensuse.org/Packaging/Packaging_Day](http://en.opensuse.org/Packaging/Packaging_Day)
+Find out more about the Packaging Days II event at: [//en.opensuse.org/Packaging/Packaging_Day](//en.opensuse.org/Packaging/Packaging_Day)

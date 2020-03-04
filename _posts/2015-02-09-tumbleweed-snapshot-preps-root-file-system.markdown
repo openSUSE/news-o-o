@@ -11,7 +11,7 @@ categories:
 - Tumbleweed
 ---
 
-![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)The [latest snapshot release](http://lists.opensuse.org/opensuse-factory/2015-02/msg00076.html) of Tumbleweed provides a temporary root file system initrd in preparation to mount a real root file system.
+![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)The [latest snapshot release](//lists.opensuse.org/opensuse-factory/2015-02/msg00076.html) of Tumbleweed provides a temporary root file system initrd in preparation to mount a real root file system.
 
 Version 14.158 of initrd-openSUSE updated to 14.161, which provided fixes for dangling service links and a fix install.i386 script.<!-- more -->
 

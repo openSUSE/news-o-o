@@ -12,28 +12,28 @@ categories:
 ---
 
 Well, for me and some other openSUSE guys it's T-1, we going tomorrow to set up the booth. 
-![packed car](http://farm4.static.flickr.com/3136/2524184033_3c740e13f5_m.jpg) 
+![packed car](//farm4.static.flickr.com/3136/2524184033_3c740e13f5_m.jpg) 
 (actually the picture is from last year .. :-)). So why should you come to Berlin?
 
 	
 * you can meet a lot of openSUSE members
 
 	
-* we have a pretty booth with 4 counters: 2x openSUSE 11.0 beta3, Enterprise Server and [Linux-Club.de](http://www.linux-club.de/) as supported community project
+* we have a pretty booth with 4 counters: 2x openSUSE 11.0 beta3, Enterprise Server and [Linux-Club.de](//www.linux-club.de/) as supported community project
 
 	
 * see the ultra fast new packagemanagent and other changes in openSUSE 11.0
 	
-* Saturday is [openSUSE day](http://en.opensuse.org/Linuxtag) with a lot of interesting talks
+* Saturday is [openSUSE day](//en.opensuse.org/Linuxtag) with a lot of interesting talks
 
 	
-* meet [Zonker](http://zonker.opensuse.org/), the openSUSE community manager
+* meet [Zonker](//zonker.opensuse.org/), the openSUSE community manager
 
 	
-* Lars will present the [Education](http://en.opensuse.org/Education) project
+* Lars will present the [Education](//en.opensuse.org/Education) project
 
 	
 * get one of the new openSUSE stickers! :-)
 
 
-If you have no chance to go to Berlin, don't worry. We will record all Talks, i will try to have streaming video from the booth, and you will find all Talks later on our wiki. But yes, you would miss the live feeling of [Linuxtag](http://www.linuxtag.org/2008/) ...
+If you have no chance to go to Berlin, don't worry. We will record all Talks, i will try to have streaming video from the booth, and you will find all Talks later on our wiki. But yes, you would miss the live feeling of [Linuxtag](//www.linuxtag.org/2008/) ...

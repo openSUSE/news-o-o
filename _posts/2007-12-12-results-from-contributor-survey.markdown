@@ -33,10 +33,10 @@ The results are now ready and can be found here:
 
 
 
-  * [Commented version](http://folk.uio.no/janfst/ny/contributer_survey_commented_results_2.pdf)
+  * [Commented version](//folk.uio.no/janfst/ny/contributer_survey_commented_results_2.pdf)
 
 
-  * [Simple presentation](http://folk.uio.no/janfst/ny/contributor_survey_raw_data.pdf)
+  * [Simple presentation](//folk.uio.no/janfst/ny/contributor_survey_raw_data.pdf)
 
 
 

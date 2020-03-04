@@ -11,7 +11,7 @@ categories:
 - Board
 ---
 
-[![drawing](/wp-content/uploads/2014/12/drawing1.png)](/wp-content/uploads/2014/12/drawing1.png)The voting polls are open. The openSUSE board election has started and all [openSUSE members](http://en.opensuse.org/Members) are eligible to cast their vote.
+[![drawing](/wp-content/uploads/2014/12/drawing1.png)](/wp-content/uploads/2014/12/drawing1.png)The voting polls are open. The openSUSE board election has started and all [openSUSE members](//en.opensuse.org/Members) are eligible to cast their vote.
 
 The board consist of one appointed chairperson and five elected members who may serve up to two consecutive terms on the board.
 
@@ -32,7 +32,7 @@ The candidates running for an openSUSE board seat are (by alphabetical order):
 
 Each openSUSE member has only three votes.
 
-Rules for the election process are available at [http://en.opensuse.org/openSUSE:Board_election_rules](http://en.opensuse.org/openSUSE:Board_election_rules)
+Rules for the election process are available at [//en.opensuse.org/openSUSE:Board_election_rules](//en.opensuse.org/openSUSE:Board_election_rules)
 
 The election period ends at January 26th 2015 (23:00 UTC). All candidates have put their agenda on the wiki[2], linked as "Platform" after the candidates' name.
 

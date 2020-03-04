@@ -80,14 +80,14 @@ We are pleased to announce our 155 issue of the openSUSE Weekly News.
 
 From this Issue on we don't publish the Weekly News just in HTML. Now we are pleased to announce a new PDF Version.
 
-You can also read this issue in other formats. Just click [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats. Just click [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy the reading :-)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Marketing.png)Announcements
 
 <blockquote>**
-      [Attachmate Acquisition: What does it mean for SUSE, openSUSE & open source?](http://news.opensuse.org/2010/12/20/attachmate-acquisition-what-does-it-mean-for-suse-opensuse-open-source/)
+      [Attachmate Acquisition: What does it mean for SUSE, openSUSE & open source?](//news.opensuse.org/2010/12/20/attachmate-acquisition-what-does-it-mean-for-suse-opensuse-open-source/)
     **
 > 
 > **A Q & A with Jeff Hawn, chairman and CEO of Attachmate by Jos
@@ -303,7 +303,7 @@ Enjoy the reading :-)
       approval. Additional risk factors that may affect future results are contained in Novell’s
       filings with the U.S. Securities and Exchange Commission (the “SEC”), including
       Novell’s Annual Report on Form 10-K for the fiscal year ended October 31, 2010, which are
-      available at the SEC’s website http://www.sec.gov. Because forward-looking statements involve
+      available at the SEC’s website //www.sec.gov. Because forward-looking statements involve
       risks and uncertainties, actual results and events may differ materially from results and
       events currently expected. Novell expressly disclaims any obligation or undertaking to update
       or revise any forward-looking statements contained herein to reflect any change of
@@ -320,10 +320,10 @@ Enjoy the reading :-)
       those documents, because they contain or will contain important information about Novell, the
       merger and the other parties to the merger. Investors and security holders may obtain these
       documents (and any other documents filed by Novell and Attachmate with the SEC) free of charge
-      at the SEC’s website at http://www.sec.gov. In addition, the documents filed with the SEC by
+      at the SEC’s website at //www.sec.gov. In addition, the documents filed with the SEC by
       Novell may be obtained free of charge by directing such request to: Novell Investor Relations
       at 1-800-317-3195 or from the investor relations portion of Novell’s website at
-      http://www.novell.com/company/ir/. **Investors and security holders are
+      //www.novell.com/company/ir/. **Investors and security holders are
         urged to read the definitive proxy statement and the other relevant materials when they
         become available before making any voting or investment decision with respect to the
         merger.** Novell and its directors and executive officers may be deemed to be
@@ -337,17 +337,17 @@ Enjoy the reading :-)
       than those of Novell’s stockholders generally, by reading the preliminary proxy statement and
       the definitive proxy statement and other relevant documents regarding the merger, when filed
       with the SEC. Each of these documents is, or will be, available as described above. Other
-      Sources: [phoronix](http://bit.ly/own1551)
-      [h-online](http://www.h-online.com/open/news/item/Attachmate-says-future-of-SUSE-Linux-is-secure-1157083.html)
+      Sources: [phoronix](//bit.ly/own1551)
+      [h-online](//www.h-online.com/open/news/item/Attachmate-says-future-of-SUSE-Linux-is-secure-1157083.html)
 > 
 > </blockquote>
 
 <blockquote>**
       [Board
-        Meeting Summary 15 December 2010](http://news.opensuse.org/2010/12/21/board-meeting-summary-15-december-2010/)
+        Meeting Summary 15 December 2010](//news.opensuse.org/2010/12/21/board-meeting-summary-15-december-2010/)
     **
 > 
-> For the full transcript of the last openSUSE Board meeting, see our [logs](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html). 
+> For the full transcript of the last openSUSE Board meeting, see our [logs](//community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html). 
 > 
 > **Introduction of new openSUSE Board Chairman – Alan Clark
       **
@@ -413,7 +413,7 @@ Enjoy the reading :-)
         category in openFATE](https://features.opensuse.org/statistic/product/opensuse.org) to ensure we stay on top of “Where do we fail?” concerns that
       are not brought up during board meetings.
 > 
-> Read here for the [full meeting transcript](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html).
+> Read here for the [full meeting transcript](//community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html).
 > 
 > **Next Meeting**
 > 
@@ -423,12 +423,12 @@ Enjoy the reading :-)
 > </blockquote>
 
 <blockquote>**
-      [openSUSE Announces Fifth Development Milestone with Kernel Interactivity Patch](http://news.opensuse.org/2010/12/23/opensuse-announces-fifth-development-milestone-with-kernel-interactivity-patch/)
+      [openSUSE Announces Fifth Development Milestone with Kernel Interactivity Patch](//news.opensuse.org/2010/12/23/opensuse-announces-fifth-development-milestone-with-kernel-interactivity-patch/)
     **
 > 
 > The openSUSE project released the fifth of six milestones in the development of openSUSE
       11.4 some days ago. **Milestone 5 (M5)** brings a wide range of
-      updates, both major and minor. As usual, you can get it [here](http://software.opensuse.org/developer/en).
+      updates, both major and minor. As usual, you can get it [here](//software.opensuse.org/developer/en).
 > 
 > **Major Features**:
 > 
@@ -472,13 +472,13 @@ Enjoy the reading :-)
 > A list of most annoying bugs is being compiled; please check it before installing. We look
       forward to your bug reports and test experiences! Automated testing and the openSUSE Factory
       team have been very active to ensure that your download of M5 will be at least minimally
-      functional, thanks for that! now go and [download it!](http://software.opensuse.org/developer/en)
+      functional, thanks for that! now go and [download it!](//software.opensuse.org/developer/en)
 > 
 > The next milestone is scheduled for Thursday, Jan 20 2011, and will be the openSUSE 11.4
       Milestone 6 release. The final openSUSE 11.4 is planned to be released in March 2011.
 > 
-> Other Souces: [ h-online](http://www.h-online.com/open/news/item/openSUSE-11-4-Milestone-5-released-1158848.html)
-      [Linux.com](http://www.linux.com/news/enterprise/biz-enterprise/392669:opensuse-114-milestone-5-released)
+> Other Souces: [ h-online](//www.h-online.com/open/news/item/openSUSE-11-4-Milestone-5-released-1158848.html)
+      [Linux.com](//www.linux.com/news/enterprise/biz-enterprise/392669:opensuse-114-milestone-5-released)
 > 
 > </blockquote>
 
@@ -491,7 +491,7 @@ Enjoy the reading :-)
 > **Figure 1. Merry Christmas (c) Péronne vd Ham / pixelio.de**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Merry Christmas (c) Péronne vd Ham / pixelio.de](http://images.pixelio.de/data/media/51/sterre_22_wr_Large.jpg)
+> <td >![Merry Christmas (c) Péronne vd Ham / pixelio.de](//images.pixelio.de/data/media/51/sterre_22_wr_Large.jpg)
 > </td></tr></table>
 > 
 >   
@@ -531,20 +531,20 @@ Enjoy the reading :-)
 
 **Important Links**
 
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
-  * [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
-  * [Bug Reporting FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+  * [Bug Reporting FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 ### ![Header Picture](/wp-content/uploads/2010/12/Built-with-web-big.png)SUSE Studio
 
 <blockquote>**
-        [Holger Hetterich: SMBTA Stresstest 0.0.1 released](http://holger123.wordpress.com/2010/12/23/smbta-stresstest-0-0-1-released/)
+        [Holger Hetterich: SMBTA Stresstest 0.0.1 released](//holger123.wordpress.com/2010/12/23/smbta-stresstest-0-0-1-released/)
       **
 > 
 > **SMBTA Stresstest** is an appliance based on openSUSE 11.3
-        for long-time- or stress testing the [SMB Traffic Analyzer](http://holger123.wordpress.com/smb-traffic-analyzer/)
+        for long-time- or stress testing the [SMB Traffic Analyzer](//holger123.wordpress.com/smb-traffic-analyzer/)
         software suite. It is used mainly by the SMBTA development team to check the behaviour of
         SMB Traffic Analyzer under certain traffic conditions. It also can easily be used to just
         try out SMB Traffic Analyzer.
@@ -552,7 +552,7 @@ Enjoy the reading :-)
 > **Figure 2. SMBTA Stresstest running in VirtualBox**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![SMBTA Stresstest running in VirtualBox](http://holger123.files.wordpress.com/2010/12/smbtastresstester.png)
+> <td >![SMBTA Stresstest running in VirtualBox](//holger123.files.wordpress.com/2010/12/smbtastresstester.png)
 > </td></tr></table>
 > 
 >   
@@ -568,7 +568,7 @@ Enjoy the reading :-)
 > The appliance is configured for port 3491 as the connection port for the smbtatools,
         which allows to inspect the generated traffic from an other machine.
 > 
-> SMBTA Stresstester has been created using the fabulous [SUSE Studio](http://www.susestudio.com) and comes in [OVF format](http://en.wikipedia.org/wiki/Open_Virtualization_Format), and
+> SMBTA Stresstester has been created using the fabulous [SUSE Studio](//www.susestudio.com) and comes in [OVF format](//en.wikipedia.org/wiki/Open_Virtualization_Format), and
         should be able to run on **KVM**, **VMware**, and **VirtualBox**. The appliance is
         completely self-contained, runs the smbtatorture processes directly after reaching runlevel
         3,and Built with SUSE Studio if your virtual machine is setup to be reachable from the
@@ -578,9 +578,9 @@ Enjoy the reading :-)
 >     
 >     smbtaquery -i 3491 -h 192.168.178.26 -q ‘global, usage rw;’
 > 
-> SMBTA Stresstest is available in the [SUSE Gallery](http://susegallery.com/a/HkqPEE/smbta-stresstest), and we also
-        uploaded it to [this place](http://morelias.org/smbta/SMBTA_Stresstest.i686-0.0.1.ovf.tar.gz). For more information on SMB Traffic Analyzer, please check out it’s
-          [homepage](http://holger123.wordpress.com/smb-traffic-analyzer/). Merry
+> SMBTA Stresstest is available in the [SUSE Gallery](//susegallery.com/a/HkqPEE/smbta-stresstest), and we also
+        uploaded it to [this place](//morelias.org/smbta/SMBTA_Stresstest.i686-0.0.1.ovf.tar.gz). For more information on SMB Traffic Analyzer, please check out it’s
+          [homepage](//holger123.wordpress.com/smb-traffic-analyzer/). Merry
         Christmas and a happy new year.
 > 
 > </blockquote>
@@ -590,7 +590,7 @@ Enjoy the reading :-)
 #### ![Header Picture](/wp-content/uploads/2010/12/Logo-art.png)Art Team
 
 <blockquote>**
-          [Sirko Kemter: openSUSE 11.4 – Color trouble](http://karl-tux-stadt.de/ktuxs/?p=2950)
+          [Sirko Kemter: openSUSE 11.4 – Color trouble](//karl-tux-stadt.de/ktuxs/?p=2950)
         **
 > 
 > If you have the last Milestone of openSUSE, thats already number 5, installed then you
@@ -598,7 +598,7 @@ Enjoy the reading :-)
           ago. You also see the KDM in the color I planned in August.
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://karl-tux-stadt.de/graph/kdm114.png)
+> <td >![](//karl-tux-stadt.de/graph/kdm114.png)
 > </td></tr></table>
 > 
 > 2 weeks ago Coolo asked for some artwork for integrate it into the next Milestone, a
@@ -608,7 +608,7 @@ Enjoy the reading :-)
           side.
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://karl-tux-stadt.de/graph/celadon.png)
+> <td >![](//karl-tux-stadt.de/graph/celadon.png)
 > </td></tr></table>
 > 
 > But now the GNOME team also want it changed. And that becomes now harder to do. There
@@ -625,7 +625,7 @@ Enjoy the reading :-)
 #### ![Header Picture](/wp-content/uploads/2010/12/Start-here-branding.png)Marketing Team
 
 <blockquote>**
-          [Jos Poortvliet: Writing!](http://lists.opensuse.org/opensuse-marketing/2010-12/msg00168.html)
+          [Jos Poortvliet: Writing!](//lists.opensuse.org/opensuse-marketing/2010-12/msg00168.html)
         **
 > 
 > Again thanks for participating in the collaboration day on Social Media. I have
@@ -633,20 +633,20 @@ Enjoy the reading :-)
           and maybe find a pretty picture to accompany our success story.
 > 
 > Meanwhile there are a few things which are close to being finished, but aren't there
-          just yet. My pet peeve: the short descriptions of openSUSE. They are here: [http://ietherpad.com/idAZ997QVS](http://ietherpad.com/idAZ997QVS)
+          just yet. My pet peeve: the short descriptions of openSUSE. They are here: [//ietherpad.com/idAZ997QVS](//ietherpad.com/idAZ997QVS)
 > 
 > I have used part of that text to make a start on the two folders that we'll
           need:
 > 
->   * [http://piratepad.net/xKoBE4vmSM](http://piratepad.net/xKoBE4vmSM) for potential contributors
+>   * [//piratepad.net/xKoBE4vmSM](//piratepad.net/xKoBE4vmSM) for potential contributors
 > 
->   * [http://piratepad.net/d8xWTUwHq3](http://piratepad.net/xKoBE4vmSM) for potential users
+>   * [//piratepad.net/d8xWTUwHq3](//piratepad.net/xKoBE4vmSM) for potential users
 > 
 > Both need a lot of work and any help here is appreciated too!
 > 
 > I really appreciated the work done on the feature guide, I worked on it some more and
           I hope we can get it a bit further and finish it during the marketing meeting in Februari.
-          Anyone who has some spare time, check it out here: http://manugupt1.ietherpad.com/4
+          Anyone who has some spare time, check it out here: //manugupt1.ietherpad.com/4
 > 
 > I can however hapilly tell you that the article we wanted to write about new openSUSE
           projects is pretty much there now - some finishing touches and it can go live on
@@ -681,7 +681,7 @@ Enjoy the reading :-)
           **
 > 
 > "I wanted to open a fate feature about this when I first heard of plymouth, but reading 
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/ really makes me think we should go this way.
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/ really makes me think we should go this way.
 > 
 > Ray's comment starting with "Every flicker and mode change in the boot process takes away from the whole experience." is especially interesting. 
             Is it okay to track the "don't show grub by default" here?"
@@ -789,7 +789,7 @@ Currently, the exact list of implicit BuildRequires might only be known in the o
               [xprint](https://features.opensuse.org/311008)
             **
 > 
-> "[Xprint](http://xprint.mozdev.org/) is an advanced printing system which enables X11 applications to use devices like printers, FAX or create documents in formats like PostScript, PDF, PCL, etc."
+> "[Xprint](//xprint.mozdev.org/) is an advanced printing system which enables X11 applications to use devices like printers, FAX or create documents in formats like PostScript, PDF, PCL, etc."
 > 
 > </blockquote>
 
@@ -849,7 +849,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 #### ![Header Picture](/wp-content/uploads/2010/12/Suse_Box.png)Testing Team
 
 <blockquote>**
-          [Larry Finger: Weekly News for December 25](http://lists.opensuse.org/opensuse-testing/2010-12/msg00011.html)
+          [Larry Finger: Weekly News for December 25](//lists.opensuse.org/opensuse-testing/2010-12/msg00011.html)
         **
 > 
 > The next Testing Core Team IRC meeting to discuss 11.4 Milestone 5 will be held
@@ -869,10 +869,10 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 #### ![Header Picture](/wp-content/uploads/2010/12/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
 
@@ -880,44 +880,44 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 **Past**
 
-  * [December 20, 2010 : openFATE screening day in #opensuse-project](http://news.opensuse.org/2010/12/16/openfate-screening-day-in-opensuse-project/)
+  * [December 20, 2010 : openFATE screening day in #opensuse-project](//news.opensuse.org/2010/12/16/openfate-screening-day-in-opensuse-project/)
 
   * [December 21,
-            2010 : Marketing Collaboration Day - PR and Social Media Review](http://news.opensuse.org/2010/12/02/pr-social-media-review/)
+            2010 : Marketing Collaboration Day - PR and Social Media Review](//news.opensuse.org/2010/12/02/pr-social-media-review/)
 
   * [December
-            22, 2010 : German Wiki Team Meeting](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+            22, 2010 : German Wiki Team Meeting](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
-  * [December 23, 2010 : ﻿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [December 23, 2010 : ﻿openSUSE KDE Team meeting](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 **Upcoming**
 
-  * [December 27, 2010 : openSUSE Testing Core Team IRC Meeting](http://news.opensuse.org/2010/12/13/opensuse-testing-core-team-irc-meeting-2/)
+  * [December 27, 2010 : openSUSE Testing Core Team IRC Meeting](//news.opensuse.org/2010/12/13/opensuse-testing-core-team-irc-meeting-2/)
 
   * [December
-            29, 2010 : German Wiki Team Meeting](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+            29, 2010 : German Wiki Team Meeting](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-      or download it on [Radiotux](http://blog.radiotux.de/podcast). 
+      or download it on [Radiotux](//blog.radiotux.de/podcast). 
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
 <blockquote>**[Packman: puddletag
-        0.9.10-0.pm](http://packman.links2linux.org/package/puddletag)**
+        0.9.10-0.pm](//packman.links2linux.org/package/puddletag)**
 > 
 > “puddletag is a tag editor for Linux loosely based on mp3tag. It uses a table layout
         so that all the tags you want to edit by hand are visible and easily editable. puddletag
@@ -931,7 +931,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > </blockquote>
 
 <blockquote>**[Packman: xmms2
-        0.7-13.pm](http://packman.links2linux.org/package/xmms2)**
+        0.7-13.pm](//packman.links2linux.org/package/xmms2)**
 > 
 > “XMMS2 is an audio framework, but it is not a general multimedia player - it will
         not play videos. It has a modular framework and plugin architecture for audio processing,
@@ -945,7 +945,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > </blockquote>
 
 <blockquote>**[Packman: gxine
-        0.5.905-2](http://packman.links2linux.org/package/gxine)**
+        0.5.905-2](//packman.links2linux.org/package/gxine)**
 > 
 > This is a GTK+ based GUI for the libxine video player library. It provides gxine, a media
       player that can play all the audio/video formats that libxine supports. Currently, this
@@ -955,7 +955,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > </blockquote>
 
 <blockquote>**[Packman: equalizer
-        0.9.1-0.pm](http://packman.links2linux.org/package/equalizer/)**
+        0.9.1-0.pm](//packman.links2linux.org/package/equalizer/)**
 > 
 > Equalizer is the standard middleware to create and deploy parallel OpenGL-based
       applications. It enables applications to benefit from multiple graphics cards, processors and
@@ -968,7 +968,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 **You can find other interesting Packages at:**
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf)
 
   * [openSUSE Build
         Service](https://hermes.opensuse.org/feeds/66367.rdf)
@@ -976,14 +976,14 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 ## ![Header Picture](/wp-content/uploads/2010/12/Logo-SecurityUpdates.png)Security Updates
 
 To view the security announcements in full, or to receive them
-    as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
 ### For Desktop Users
 
 <blockquote>**
-        [Stefan Schubert: Easy use of WebYaST for OpenSuSE 11.3](http://lizards.opensuse.org/2010/12/21/easy-use-of-webyast-for-opensuse-11-3/)
+        [Stefan Schubert: Easy use of WebYaST for OpenSuSE 11.3](//lizards.opensuse.org/2010/12/21/easy-use-of-webyast-for-opensuse-11-3/)
       **
 > 
 > **Have you ever tried WebYaST ? No ? Then it is time for.**
@@ -999,7 +999,7 @@ To view the security announcements in full, or to receive them
 > The simplest way is the one-click installation which is already installed on your
         OpenSuSE 11.3.
 > 
-> Just use a web browser (like firefox) with the url: [http://download.opensuse.org/repositories/YaST:/Web/openSUSE_11.3/webyast.ymp](http://download.opensuse.org/repositories/YaST:/Web/openSUSE_11.3/webyast.ymp)
+> Just use a web browser (like firefox) with the url: [//download.opensuse.org/repositories/YaST:/Web/openSUSE_11.3/webyast.ymp](//download.opensuse.org/repositories/YaST:/Web/openSUSE_11.3/webyast.ymp)
 > 
 > The browser will ask you to start the installation via the one-click installation. Start
         the installation and go through the installation workflow.
@@ -1011,7 +1011,7 @@ To view the security announcements in full, or to receive them
         started e.g. in KDE:
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast1.jpeg)
+> <td >![](//lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast1.jpeg)
 > </td></tr></table>
 > 
 > After starting the WebYaST applet the WebYaST icon appears on the right edge of the
@@ -1021,7 +1021,7 @@ To view the security announcements in full, or to receive them
 > <td >
                 
 > 
-> ![](http://lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast-disabled.png)
+> ![](//lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast-disabled.png)
 > 
 > 
               
@@ -1031,7 +1031,7 @@ To view the security announcements in full, or to receive them
 > <td >
                 
 > 
-> ![](http://lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast-enabled.png)
+> ![](//lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast-enabled.png)
 > 
 > 
               
@@ -1042,7 +1042,7 @@ To view the security announcements in full, or to receive them
 > With the right mouse click you can manage WebYaST:
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast21.jpeg)
+> <td >![](//lizards.opensuse.org/wp-content/uploads/2010/12/qwebyast21.jpeg)
 > </td></tr></table>
 > 
 > With this applet you can start WebYaST in your browser too. After accepting the GPG-key
@@ -1051,7 +1051,7 @@ To view the security announcements in full, or to receive them
 > And that’s WebYaST:
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://lizards.opensuse.org/wp-content/uploads/2010/12/webyast.png)
+> <td >![](//lizards.opensuse.org/wp-content/uploads/2010/12/webyast.png)
 > </td></tr></table>
 > 
 > That’s all.
@@ -1065,7 +1065,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [Make Tech Easier/Tavis J. Hampton: How to Change Linux Displays on the Fly with Disper](http://maketecheasier.com/change-linux-displays-on-the-fly-with-disper/2010/12/22)
+        [Make Tech Easier/Tavis J. Hampton: How to Change Linux Displays on the Fly with Disper](//maketecheasier.com/change-linux-displays-on-the-fly-with-disper/2010/12/22)
       **
 > 
 > Using Linux on a laptop has always been a hit and miss affair. With sometimes obscure proprietary hardware, many laptop manufacturers have showed no interest in supporting the free operating system. Nevertheless, through hard work by developers and support from some hardware manufacturers, Linux now supports a wide variety of laptops and netbooks. (...)
@@ -1075,11 +1075,11 @@ To view the security announcements in full, or to receive them
 ### For Commandline/Script Newbies
 
 <blockquote>**
-        [Tuxarena/Craciun Dan: 8 More Bash Tips for Working Faster With the Shell (Part 2 of 2)](http://www.tuxarena.com/?p=508)
+        [Tuxarena/Craciun Dan: 8 More Bash Tips for Working Faster With the Shell (Part 2 of 2)](//www.tuxarena.com/?p=508)
       **
 > 
 > This is the second article in this series, and brings eight additional tips for working
-        faster with the shell. [Here](http://www.tuxarena.com/?p=257) is the first
+        faster with the shell. [Here](//www.tuxarena.com/?p=257) is the first
         article of the series, containing 10 tips. (...)
 > 
 > </blockquote>
@@ -1088,12 +1088,12 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [Developer.com/Jason Gilmore: 10 Ways Git Version 
-          Control Can Streamline Your Writing Projects](http://www.developer.com/open/10-ways-git-version-control-can-streamline-your-writing-projects.html)
+          Control Can Streamline Your Writing Projects](//www.developer.com/open/10-ways-git-version-control-can-streamline-your-writing-projects.html)
       **
 > 
-> Establishing a rigorous version control process is a standard part of any software project, and [Git](http://git-scm.com/) is a powerful system 
+> Establishing a rigorous version control process is a standard part of any software project, and [Git](//git-scm.com/) is a powerful system 
         for enabling such version control. But Git's advantages extend beyond just software development. For instance, I use Git to manage all of my writing projects, 
-        including [books](http://www.wjgilmore.com/) and my articles published on Developer.com (including this one). Git offers writers a fantastic set 
+        including [books](//www.wjgilmore.com/) and my articles published on Developer.com (including this one). Git offers writers a fantastic set 
         of features for producing material in an impressively fast, efficient and organized manner. In this article I'll introduce you to 10 Git tips and tricks I 
         regularly apply within my own writing projects! Even if you're using Git solely for software development, you'll still be able to apply these tips to 
         your projects! (...)
@@ -1134,7 +1134,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [HowtoForge/thebrain.ca: SSL Certificates For PostgreSQL](http://www.howtoforge.com/postgresql-ssl-certificates)
+        [HowtoForge/thebrain.ca: SSL Certificates For PostgreSQL](//www.howtoforge.com/postgresql-ssl-certificates)
       **
 > 
 > This describes how to set up ssl certificates to enable encrypted connections from PgAdmin on some client machine to postgresql on a server machine. The assumption is that postgresql (compiled with ssl support) and openssl are already installed and functional on the server (Linux). PgAdmin is already installed on the client (either Windows or Linux). (...)
@@ -1143,7 +1143,7 @@ To view the security announcements in full, or to receive them
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Logo-PlanetSUSE.png)Planet SUSE
 
-<blockquote>**[Andres Silva: New Idea About Chat Program](http://anditosan.blogspot.com/2010/12/new-idea-about-chat-program.html)**
+<blockquote>**[Andres Silva: New Idea About Chat Program](//anditosan.blogspot.com/2010/12/new-idea-about-chat-program.html)**
 > 
 > “I am a good user of social networking sites, such as Facebook and Twitter. They
         have used very interesting features on their websites, such as instant messaging. By that I
@@ -1156,7 +1156,7 @@ To view the security announcements in full, or to receive them
 > **Figure 3. Facebook Minifeed**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Facebook Minifeed](http://startupmeme.com/wp-content/uploads/2008/06/facebook-minifeed.jpg)
+> <td >![Facebook Minifeed](//startupmeme.com/wp-content/uploads/2008/06/facebook-minifeed.jpg)
 > </td></tr></table>
 > 
 >   
@@ -1170,7 +1170,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[Martin
         Vidner: network-autoconfig: Find a connected eth interface and create an ifcfg for
-        it](http://mvidner.blogspot.com/2010/12/network-autoconfig-find-connected-eth.html)**
+        it](//mvidner.blogspot.com/2010/12/network-autoconfig-find-connected-eth.html)**
 > 
 > Use case: I want to create an appliance image for a build farm worker machine. I don't
       know its hardware configuration beforehand; in particular, it may have multiple network
@@ -1185,12 +1185,12 @@ To view the security announcements in full, or to receive them
 > I have submitted it to openSUSE:Factory now. Enjoy it in the upcoming openSUSE
       11.4!
 > 
-> It is referenced as [Feature#311012](https://features.opensuse.org/311012). You are welcome to improve it on [Gitorious](http://gitorious.org/opensuse/network-autoconfig). (...)
+> It is referenced as [Feature#311012](https://features.opensuse.org/311012). You are welcome to improve it on [Gitorious](//gitorious.org/opensuse/network-autoconfig). (...)
 > 
 > </blockquote>
 
 <blockquote>**[Nelson Marques: More
-        ‘Unity’ news…](http://lizards.opensuse.org/2010/12/23/more-unity-news/)**
+        ‘Unity’ news…](//lizards.opensuse.org/2010/12/23/more-unity-news/)**
 > 
 > I’ve finished with the base packages required for Unity, in fact Unity already builds,
       though I’ve not really tested it yet as some components still need to take care… so far what’s
@@ -1248,7 +1248,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**[Josef
         Reidinger: Easy scripting actions with susestudio alias new rubygem
-      studio_api](http://lizards.opensuse.org/2010/12/23/rubygem-studio_api/)**
+      studio_api](//lizards.opensuse.org/2010/12/23/rubygem-studio_api/)**
 > 
 > Now I work for SLMS ( Suse Lifecycle Management Server ) project. It cooperate with SuSE
       studio and use its API. I get idea that more people could benefit from easy access to studio
@@ -1276,27 +1276,27 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**X-mas holidays in the forums: [
 	Happy Holidays
-	](http://forums.opensuse.org/english/community/general-chit-chat/451335-happy-holiday.html) and [
+	](//forums.opensuse.org/english/community/general-chit-chat/451335-happy-holiday.html) and [
 	All I want for Christmas is.....
-	](http://forums.opensuse.org/english/community/general-chit-chat/451437-all-i-want-christmas-other.html)**
+	](//forums.opensuse.org/english/community/general-chit-chat/451437-all-i-want-christmas-other.html)**
 > 
 > 
-      On behalf of the [openSUSE Forums Team](http://en.opensuse.org/openSUSE:Forums_team) I wish you a Merry Christmas and a very Happy en Open New Year. The threads above are the ones I found in the forums, read to get yourself in a holiday state of mind.
+      On behalf of the [openSUSE Forums Team](//en.opensuse.org/openSUSE:Forums_team) I wish you a Merry Christmas and a very Happy en Open New Year. The threads above are the ones I found in the forums, read to get yourself in a holiday state of mind.
       
 > 
 > </blockquote>
 
 <blockquote>**[
       XP first? openSUSE first?
-      ](http://forums.opensuse.org/english/get-help-here/install-boot-login/451624-xp-first-opensuse-first.html)**
+      ](//forums.opensuse.org/english/get-help-here/install-boot-login/451624-xp-first-opensuse-first.html)**
 > 
 > 
-      A question, asked a lot in the [openSUSE Forums](http://forums.opensuse.org). This member needs to have both openSUSE and XP installed on a fresh new disk. The replies not only supply the answer to this question, they also help the thread's starter to a good partitioning scheme of the new disk. 
+      A question, asked a lot in the [openSUSE Forums](//forums.opensuse.org). This member needs to have both openSUSE and XP installed on a fresh new disk. The replies not only supply the answer to this question, they also help the thread's starter to a good partitioning scheme of the new disk. 
       
 > 
 > </blockquote>
 
-<blockquote>**[Network printer kills internet connection](http://forums.opensuse.org/english/get-help-here/hardware/451584-network-printer-kills-internet-connection.html)**
+<blockquote>**[Network printer kills internet connection](//forums.opensuse.org/english/get-help-here/hardware/451584-network-printer-kills-internet-connection.html)**
 > 
 > 
       A nice example of a good thread opener: a clear title, a good description of what happens. Quote: "After setting up to print using wireless access, printing works fine, there is however no longer any internet access available, wired or wireless ( from PCLOS, Mandriva, openSUSE, win7, or whatever!) To restore internet access requires rebooting the router and turning off the printer (or disabling its networking) similar issues with wired network printing." 
@@ -1305,10 +1305,10 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**This week's subforum: 
-      [Wireless](http://forums.opensuse.org/english/get-help-here/wireless/)**
+      [Wireless](//forums.opensuse.org/english/get-help-here/wireless/)**
 > 
 > 
-      This forum of the [openSUSE Forums](http://forums.opensuse.org)is a subforum of [Get Help Here](http://forums.opensuse.org/english/get-help-here/). Top thread on the list is a "sticky" : [Getting your wireless to work ](http://forums.opensuse.org/english/get-help-here/wireless/410319-getting-your-wireless-work.html), it's writen in 2009, but still a very good set of instructions and explanations. Does your card not work after following this, use the search function of the forums, search for the brand of the wifi device. Chances are high you find a post that leads to a working device.    
+      This forum of the [openSUSE Forums](//forums.opensuse.org)is a subforum of [Get Help Here](//forums.opensuse.org/english/get-help-here/). Top thread on the list is a "sticky" : [Getting your wireless to work ](//forums.opensuse.org/english/get-help-here/wireless/410319-getting-your-wireless-work.html), it's writen in 2009, but still a very good set of instructions and explanations. Does your card not work after following this, use the search function of the forums, search for the brand of the wifi device. Chances are high you find a post that leads to a working device.    
     
 > 
 > </blockquote>
@@ -1319,7 +1319,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [The Document Foundation joins Open Invention
-          Network](http://listarchives.documentfoundation.org/www/announce/msg00021.html)
+          Network](//listarchives.documentfoundation.org/www/announce/msg00021.html)
       **
 > 
 > The Document Foundation has joined the Open Invention Network (OIN), to further extend
@@ -1345,9 +1345,9 @@ To view the security announcements in full, or to receive them
 > 
 > OIN has amassed a broad portfolio of patents, including patents held by nominees on its
         behalf. These patents are available to all licensees as part of the patent portfolio that
-        OIN is creating in support of free software. The license agreement is at [http://www.openinventionnetwork.com/pat_license_agreement.php](http://www.openinventionnetwork.com/pat_license_agreement.php)
+        OIN is creating in support of free software. The license agreement is at [//www.openinventionnetwork.com/pat_license_agreement.php](//www.openinventionnetwork.com/pat_license_agreement.php)
 > 
-> The home of The Document Foundation is at [http://www.documentfoundation.org.](http://www.documentfoundation.org)
+> The home of The Document Foundation is at [//www.documentfoundation.org.](//www.documentfoundation.org)
 > 
 > The Document Foundation has the mission to facilitate the evolution of the OOo Community
         into a new open, independent, and meritocratic organization within the next few months. An
@@ -1361,10 +1361,10 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [dot.kde.org:
-          KDE e.V. Joins Open Invention Network](http://dot.kde.org/2010/12/21/kde-ev-joins-open-invention-network)
+          KDE e.V. Joins Open Invention Network](//dot.kde.org/2010/12/21/kde-ev-joins-open-invention-network)
       **
 > 
-> KDE e.V. is [pleased to announce](http://www.openinventionnetwork.com/press_release12_21_10.php) that we have joined the Open Invention Network community as a
+> KDE e.V. is [pleased to announce](//www.openinventionnetwork.com/press_release12_21_10.php) that we have joined the Open Invention Network community as a
         licensee. 
 > 
 > Open Invention Network was founded as a way to help defend the Linux ecosystem, and by
@@ -1394,7 +1394,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [KDE Software Compilation 4.6
-          RC1 Released: Codename Chanukkah](http://kde.org/announcements/announce-4.6-rc1.php)
+          RC1 Released: Codename Chanukkah](//kde.org/announcements/announce-4.6-rc1.php)
       **
 > 
 > December 23rd, 2010. Right before christmas, KDE has published the first candidate for
@@ -1411,26 +1411,26 @@ To view the security announcements in full, or to receive them
         already. As the other components of the frameworks, workspaces and applications are nearing
         release date, KDE encourages testers to give their favorite software some final thorough
         testing. The last chance for feedback will be the second release candidate, planned for
-        January, 5th 2011. The final release of 4.6.0 will be [available](http://www.kdedevelopers.org/node/4365) on January, 26th 2011. 
+        January, 5th 2011. The final release of 4.6.0 will be [available](//www.kdedevelopers.org/node/4365) on January, 26th 2011. 
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://kde.org/announcements/announce-4.6-beta2_thumb.png)
+> <td >![](//kde.org/announcements/announce-4.6-beta2_thumb.png)
 > </td></tr></table>
 > 
 > To find out more about the KDE Plasma desktop and applications, please also refer to the
-          [4.5.0](http://www.kde.org/announcements/4.5/), [4.4.0](http://www.kde.org/announcements/4.4/), [4.3.0](http://www.kde.org/announcements/4.3/), [4.2.0](http://www.kde.org/announcements/4.2/), [4.1.0](http://www.kde.org/announcements/4.1/) and [4.0.0](http://www.kde.org/announcements/4.0/) release notes. 
+          [4.5.0](//www.kde.org/announcements/4.5/), [4.4.0](//www.kde.org/announcements/4.4/), [4.3.0](//www.kde.org/announcements/4.3/), [4.2.0](//www.kde.org/announcements/4.2/), [4.1.0](//www.kde.org/announcements/4.1/) and [4.0.0](//www.kde.org/announcements/4.0/) release notes. 
 > 
 > KDE, including all its libraries and its applications, is available for free under Open
-        Source licenses. KDE can be obtained in source and various binary formats from [http://download.kde.org](http://download.kde.org/unstable/4.5.90/) and can
+        Source licenses. KDE can be obtained in source and various binary formats from [//download.kde.org](//download.kde.org/unstable/4.5.90/) and can
         also be obtained on CD-ROM or with any of the major GNU/Linux and UNIX systems shipping
         today. 
 > 
 > **Editors Note**: The openSUSE Packages of KDE SC 4.6 RC1
-        are placed in [KDE:Distro:Factory](http://download.opensuse.org/repositories/KDE:/Distro:/Factory/) Repository.
+        are placed in [KDE:Distro:Factory](//download.opensuse.org/repositories/KDE:/Distro:/Factory/) Repository.
 > 
 > </blockquote>
 
-<blockquote>**[winetricks 20101222 released](http://wine-reviews.net/wine-reviews/winetricks/winetricks-20101222-released.html)
+<blockquote>**[winetricks 20101222 released](//wine-reviews.net/wine-reviews/winetricks/winetricks-20101222-released.html)
       **
 > 
 > Another month, another Winetricks.
@@ -1453,7 +1453,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [QT Apps: Win 10.000,- EUR at the "Qtest
-          Mobile App Port"](http://qt-apps.org/news/?id=340)
+          Mobile App Port"](//qt-apps.org/news/?id=340)
       **
 > 
 > Welcome to the Qtest Mobile App Port! As developers of applications using Qt, you
@@ -1483,7 +1483,7 @@ To view the security announcements in full, or to receive them
         price will be another 5 N900 phones.
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://qt-apps.org/CONTENT/news-pics/340-pic4.jpg)
+> <td >![](//qt-apps.org/CONTENT/news-pics/340-pic4.jpg)
 > </td></tr></table>
 > 
 > And, finally: Everybody who takes part in the competition will be awarded a gift bag,
@@ -1508,7 +1508,7 @@ To view the security announcements in full, or to receive them
 ### Reports
 
 <blockquote>**
-        [h-online: X.org 7.6 supports udev and modularized configuration](http://www.h-online.com/open/news/item/X-org-7-6-supports-udev-and-modularized-configuration-1157824.html)
+        [h-online: X.org 7.6 supports udev and modularized configuration](//www.h-online.com/open/news/item/X-org-7-6-supports-udev-and-modularized-configuration-1157824.html)
       **
 > 
 > The X.org developers have released version X11R7.6 of their graphics system, which
@@ -1521,42 +1521,42 @@ To view the security announcements in full, or to receive them
         provided in HAL .fdi files are now provided as InputClass sections in .conf files in
         /etc/X11/xorg.conf.d.
 > 
-> The [sources](http://www.x.org/releases/X11R7.6/src/) for the current
-        release, the [release notes](http://www.x.org/releases/X11R7.6/doc/xorg-docs/ReleaseNotes.txt), the detailed [Change Log](http://www.x.org/releases/X11R7.6/changelog.txt) and the [project wiki](http://www.x.org/wiki/) are all available from the X.org project
-        web site. X11R7.8 is released under the [MIT licence.](http://en.wikipedia.org/wiki/X11_License)
+> The [sources](//www.x.org/releases/X11R7.6/src/) for the current
+        release, the [release notes](//www.x.org/releases/X11R7.6/doc/xorg-docs/ReleaseNotes.txt), the detailed [Change Log](//www.x.org/releases/X11R7.6/changelog.txt) and the [project wiki](//www.x.org/wiki/) are all available from the X.org project
+        web site. X11R7.8 is released under the [MIT licence.](//en.wikipedia.org/wiki/X11_License)
 > 
 > </blockquote>
 
 <blockquote>**
-        [h-online: Google launches open source YouTube channel](http://www.h-online.com/open/news/item/Google-launches-open-source-YouTube-channel-1157267.html)
+        [h-online: Google launches open source YouTube channel](//www.h-online.com/open/news/item/Google-launches-open-source-YouTube-channel-1157267.html)
       **
 > 
 > Google has launched an[ official
-          YouTube channel](http://www.youtube.com/user/googleOSPO) for its[ Open
-          Source Programs Office](http://code.google.com/opensource/) (OSPO). According to Google Open Source Team member Ellen
+          YouTube channel](//www.youtube.com/user/googleOSPO) for its[ Open
+          Source Programs Office](//code.google.com/opensource/) (OSPO). According to Google Open Source Team member Ellen
         Ko, the new channel is aimed at organizing videos related to Google and other open source
         projects in a single place.
 > 
-> A number of playlists with videos of, for example, [Google Tech Talks](http://www.youtube.com/googletechtalks) that feature open
-        source projects have already been added. Other videos from Jeremy Allison’s [Geek Time](http://www.youtube.com/view_play_list?p=7FC162E0B1E7C602) series,
+> A number of playlists with videos of, for example, [Google Tech Talks](//www.youtube.com/googletechtalks) that feature open
+        source projects have already been added. Other videos from Jeremy Allison’s [Geek Time](//www.youtube.com/view_play_list?p=7FC162E0B1E7C602) series,
         as well as of Googlers speaking at open source conferences are also available. The Google
         OSPO YouTube channel currently has 14 videos, with links to a variety of other videos from
         other channels and users.
 > 
-> Google's current open source projects include the [Chrome](http://www.h-online.com/news/item/Google-releases-Chrome-8-0-stable-1147222.html) web browser, which is based on [Chromium](http://www.chromium.org/) , the Android mobile operating system, [Chrome OS](http://www.h-online.com/news/item/Google-previews-Chrome-OS-Cloud-computing-but-without-touch-1149420.html) and many others.
+> Google's current open source projects include the [Chrome](//www.h-online.com/news/item/Google-releases-Chrome-8-0-stable-1147222.html) web browser, which is based on [Chromium](//www.chromium.org/) , the Android mobile operating system, [Chrome OS](//www.h-online.com/news/item/Google-previews-Chrome-OS-Cloud-computing-but-without-touch-1149420.html) and many others.
 > 
 > </blockquote>
 
 <blockquote>**
         [ConsortiumInfo.org/Andy Updegrove: EC Takes One Step Forward, Two Steps Back in
-          Openness](http://www.consortiuminfo.org/standardsblog/article.php?story=20101221084910541)
+          Openness](//www.consortiuminfo.org/standardsblog/article.php?story=20101221084910541)
       **
 > 
 > Last Thursday the European Commission took a major step forward on the “openness” scale.
         The occasion was the release of a new version of the European Interoperability Framework
         (EIF) which definitively endorsed the use of open source friendly standards when providing
         “public services” within the EU. This result was rightly hailed by open source advocates
-        like [Open Forum Europe](http://www.openforumeurope.org/press-room/press-releases/EIF%20PR3%2016.12.10.pdf). (...)
+        like [Open Forum Europe](//www.openforumeurope.org/press-room/press-releases/EIF%20PR3%2016.12.10.pdf). (...)
 > 
 > </blockquote>
 
@@ -1564,7 +1564,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [Linux
-          Journal/Susan Linton: Ubuntu Indicators in openSUSE?](http://www.linuxjournal.com/content/ubuntu-indicators-opensuse)
+          Journal/Susan Linton: Ubuntu Indicators in openSUSE?](//www.linuxjournal.com/content/ubuntu-indicators-opensuse)
       **
 > 
 > Ubuntu takes a lot of punches from time to time for its marketing and even its
@@ -1578,13 +1578,13 @@ To view the security announcements in full, or to receive them
         distribution in his corner of the world he thinks using some of its more familiar elements
         might help users migrate to openSUSE. He said, "We don’t want to make of openSUSE a
         ‘clone’ of Ubuntu, instead we want to make the openSUSE experience more close to what people
-        already use." (...) Other Sources: [ostatic](http://ostatic.com/blog/unity-coming-to-opensuse-too)
+        already use." (...) Other Sources: [ostatic](//ostatic.com/blog/unity-coming-to-opensuse-too)
 > 
 > </blockquote>
 
 <blockquote>**
         [LinuxLinks.com: 21
-          More Notable Free Linux Games (Part 2 of 3)](http://www.linuxlinks.com/article/2010121106112994/NotableGamesPart2.html)
+          More Notable Free Linux Games (Part 2 of 3)](//www.linuxlinks.com/article/2010121106112994/NotableGamesPart2.html)
       **
 > 
 > We have always been strong advocates of computer games. Rather than rotting the brain,
@@ -1608,7 +1608,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [Ostatic/Susan Linton: My Top Five Favorite Distributions for 2010](http://ostatic.com/blog/my-top-five-favorite-distributions-for-2010)
+        [Ostatic/Susan Linton: My Top Five Favorite Distributions for 2010](//ostatic.com/blog/my-top-five-favorite-distributions-for-2010)
       **
 > 
 > Ms. Carla Schroder shared a list of her “bestest distros” recently, so I
@@ -1619,7 +1619,7 @@ To view the security announcements in full, or to receive them
 > 
         
 > 
->   1. [MEPIS](http://www.mepis.org/)
+>   1. [MEPIS](//www.mepis.org/)
 > 
 > SimplyMEPIS has always been one of my favorite distributions for several reasons.
               SimplyMEPIS was one of the first to understand that looks do matter and so does out of
@@ -1630,7 +1630,7 @@ To view the security announcements in full, or to receive them
               three or four years ago - possibly when it went through its Ubuntu phase. It is truly
               one of the best.
 > 
->   2. [openSUSE](http://www.opensuse.org/)
+>   2. [openSUSE](//www.opensuse.org/)
 > 
 > openSUSE has been one of my favorites since it first opened up to community
               involvement in 2005. Novell's agreement with Microsoft did damper my enthusiasm a
@@ -1649,7 +1649,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [2indiya.com/Nilanka: Advantages of OpenSUSE’s YaST Software Management](http://www.2indya.com/2010/12/23/advantages-of-opensuse%E2%80%99s-yast-software-management/)
+        [2indiya.com/Nilanka: Advantages of OpenSUSE’s YaST Software Management](//www.2indya.com/2010/12/23/advantages-of-opensuse%E2%80%99s-yast-software-management/)
       **
 > 
 > Different Linux distributions use their own tools for software, or more precisely,
@@ -1672,12 +1672,12 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**[Linux.com/Nathan Willis: Weekend Project - Replace Delicious with an Open Source Bookmark
-        Service](http://www.linux.com/learn/tutorials/392855:weekend-project-replace-delicious-with-an-open-source-bookmark-service)
+        Service](//www.linux.com/learn/tutorials/392855:weekend-project-replace-delicious-with-an-open-source-bookmark-service)
       **
 > 
 > The past two weeks have been rough for users of the Yahoo-owned "social bookmarking"
-        service, [Delicious](http://www.delicious.com/). First, reports leaked out
-        that Yahoo was shutting the site down. Then the Delicious team [fired back](http://blog.delicious.com/) saying essentially don't worry, all is
+        service, [Delicious](//www.delicious.com/). First, reports leaked out
+        that Yahoo was shutting the site down. Then the Delicious team [fired back](//blog.delicious.com/) saying essentially don't worry, all is
         well — we're simply getting sold off. That's cold comfort if you use the service to manage
         and tag a large collection of links, though. If you're not comfortable with the uncertainty,
         what better solution is there than installing your own open source replacement?
@@ -1690,14 +1690,14 @@ To view the security announcements in full, or to receive them
         you're in control.
 > 
 > There are several Web-based bookmarking applications suitable for running on a LAMP
-        server setup, but the option that most closely matches the Delicious service is [Scuttle](http://sourceforge.net/projects/scuttle/). It implements the
+        server setup, but the option that most closely matches the Delicious service is [Scuttle](//sourceforge.net/projects/scuttle/). It implements the
         Delicious API, supports multiple user accounts, and even allows you to import your bookmark
         collection from Delicious. Scuttle requires MySQL and PHP, and the most recent release is
         version 0.8.0, from December 21st of 2010. That is recent enough that although some Linux
         distributions provide builds through their package management systems, most will not have
         caught up yet.
 > 
-> That means you'll have to grab a [source package](http://sourceforge.net/projects/scuttle/files/) from the
+> That means you'll have to grab a [source package](//sourceforge.net/projects/scuttle/files/) from the
         project's Web site if you want to run the latest and greatest, but don't let it frighten you
         away. As a pure LAMP app, you don't have to worry about compilation — the setup process is
         straightforward. We'll take a look at installing and configuring the basic Scuttle
@@ -1709,31 +1709,31 @@ To view the security announcements in full, or to receive them
 ### Warning!
 
 <blockquote>**
-        [h-online: Phrack hole closed in ProFTPD ](http://www.h-online.com/security/news/item/Phrack-hole-closed-in-ProFTPD-1156782.html)
+        [h-online: Phrack hole closed in ProFTPD ](//www.h-online.com/security/news/item/Phrack-hole-closed-in-ProFTPD-1156782.html)
       **
 > 
-> The development team behind [ProFTPD](http://www.proftpd.org/) has
-        released version [1.3.3d](http://www.proftpd.org/docs/RELEASE_NOTES-1.3.3d), which closes a critical security hole in the SQL module of all previous
-        versions. The flaw was [reported](http://www.phrack.org/issues.html)
+> The development team behind [ProFTPD](//www.proftpd.org/) has
+        released version [1.3.3d](//www.proftpd.org/docs/RELEASE_NOTES-1.3.3d), which closes a critical security hole in the SQL module of all previous
+        versions. The flaw was [reported](//www.phrack.org/issues.html)
         roughly a month ago in Phrack, the hacker magazine. A buffer overflow in the function
         sql_prepare_where() allows attackers to remotely execute arbitrary code on the server. The
         developers themselves suffered when this vulnerability was exploited by still unknown
-        parties, who entered the project server and [installed](http://www.h-online.com/news/item/Back-door-in-ProFTPD-FTP-server-1146592.html) a back door in the source code.
+        parties, who entered the project server and [installed](//www.h-online.com/news/item/Back-door-in-ProFTPD-FTP-server-1146592.html) a back door in the source code.
 > 
-> The new version also fixes a number of additional [bugs](http://www.proftpd.org/docs/NEWS-1.3.3d); as a result, the GPL-licensed
+> The new version also fixes a number of additional [bugs](//www.proftpd.org/docs/NEWS-1.3.3d); as a result, the GPL-licensed
         server is reportedly now more stable. At the same time, the developers have also published
-        the first release candidate for version [1.3.4](http://www.proftpd.org/docs/RELEASE_NOTES-1.3.4rc1). (...)
+        the first release candidate for version [1.3.4](//www.proftpd.org/docs/RELEASE_NOTES-1.3.4rc1). (...)
 > 
 > </blockquote>
 
 ### LOL
 
 <blockquote>**
-        [XKCD: Incident](http://xkcd.com/838/)
+        [XKCD: Incident](//xkcd.com/838/)
       **
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![](http://imgs.xkcd.com/comics/incident.png)
+> <td >![](//imgs.xkcd.com/comics/incident.png)
 > </td></tr></table>
 > 
 > This work is licensed under a Creative Commons Attribution-NonCommercial 2.5 License. 
@@ -1741,7 +1741,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**
-        [PCWorld/Jeff Bertolucci: 15 Crazy Japanese Tech Gizmos](http://www.pcworld.com/article/214710/15_crazy_japanese_tech_gizmos.html)
+        [PCWorld/Jeff Bertolucci: 15 Crazy Japanese Tech Gizmos](//www.pcworld.com/article/214710/15_crazy_japanese_tech_gizmos.html)
       **
 > 
 > The Japanese have proven their techie prowess over the decades. Where would we be
@@ -1768,35 +1768,35 @@ We thank for this Issue:
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this
-    article? Then head right over to the [comment section](http://news.opensuse.org/?p=5240) and
+    article? Then head right over to the [comment section](//news.opensuse.org/?p=5240) and
     let us know! 
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
     and join! 
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-    mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-Since a few minutes you can use [Bugzilla](http://bit.ly/ownbugzilla) and
+Since a few minutes you can use [Bugzilla](//bit.ly/ownbugzilla) and
     openFATE for give your Feedback.
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-Icon-locale.png)Translations
 
 openSUSE Weekly News is translated into many languages. Issue
     155 is available in: 
 
-  * [English](http://news.opensuse.org/categories/weekly-news/)
+  * [English](//news.opensuse.org/categories/weekly-news/)
 
 Coming soon: 
 
-You can follow the status of the translation [there](http://en.opensuse.org/openSUSE:Weekly_news_translations).
+You can follow the status of the translation [there](//en.opensuse.org/openSUSE:Weekly_news_translations).
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/155)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/155)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://de.opensuse.org/OpenSUSE-Wochenschau/155)
+  * [German](//de.opensuse.org/OpenSUSE-Wochenschau/155)

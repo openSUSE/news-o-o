@@ -35,7 +35,7 @@ Today the team is ready to launch the Portal and give it to the people it belong
 
 Major forum categories have been established, the planet has started to aggregate blogs of German Community contributors. 500 articles have been adapted to openSUSE but there is another 1500 wiki articles in the queue and they certainly still need a lot of help to get on par with ubuntuusers.de! Moreover, further work is needed on theming (making it more green!) and integration in the openSUSE infrastructure. We hope that both the new official German openSUSE Community Portal and ubuntuusers.de will profit from the collaboration by exchanging content and expertise.
 
-Without any further introduction, the new German openSUSE Community Portal is currently vailable at [community.open-slx.de](http://community.open-slx.de/). openSLX has expressed their wish to move this to an openSUSE domain if the community would like that. If you are interested in getting involved, you can go to the Portal and start working or get in contact with portal developers and contributors at #open-slx on irc.freenode.net!
+Without any further introduction, the new German openSUSE Community Portal is currently vailable at [community.open-slx.de](//community.open-slx.de/). openSLX has expressed their wish to move this to an openSUSE domain if the community would like that. If you are interested in getting involved, you can go to the Portal and start working or get in contact with portal developers and contributors at #open-slx on irc.freenode.net!
 
 Special Thanks (in no particular order) goes to:
 

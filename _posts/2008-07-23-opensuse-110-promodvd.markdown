@@ -20,10 +20,10 @@ Again we have some nice, new and shiny PromoDVDs, now with openSUSE 11.0. The ma
 
 To make the process easier Andreas Bauer created an order tool for it, just head over to
 
-[http://software.opensuse.org/promodvd](http://software.opensuse.org/promodvd)
+[//software.opensuse.org/promodvd](//software.opensuse.org/promodvd)
 
 and enter your request there. The old order process, sending mails to me or marketing@whatever is now obsolete.
 
 Everything you need to know is explained on that page. If you want information about the PromoDVD in general:
 
-[http://en.opensuse.org/PromoDVD](http://en.opensuse.org/PromoDVD)
+[//en.opensuse.org/PromoDVD](//en.opensuse.org/PromoDVD)

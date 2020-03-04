@@ -21,7 +21,7 @@ Zonker wrote the following:
 
 <blockquote>I'm happy to announce that the openSUSE Project has been accepted to Google’s Summer of Code 2008! Now the real fun begins!
 
-We’re now in the “interim period” for students to discuss application ideas with mentoring organizations. (That’d be us.) Students will then have from March 24th through March 31st to apply to Google. See our [ideas page](http://en.opensuse.org/Summer_of_Code_2008), and [Google’s SoC 2008 FAQ](http://code.google.com/opensource/gsoc/2008/faqs.html) for more info and timeline.
+We’re now in the “interim period” for students to discuss application ideas with mentoring organizations. (That’d be us.) Students will then have from March 24th through March 31st to apply to Google. See our [ideas page](//en.opensuse.org/Summer_of_Code_2008), and [Google’s SoC 2008 FAQ](//code.google.com/opensource/gsoc/2008/faqs.html) for more info and timeline.
 
 Kudos to Google for acting quickly on this — applications for organizations were due last Wednesday, and I was notified this afternoon that we had been accepted. That’s pretty speedy, given the number of applications I’m sure they had to read through.</blockquote>
 

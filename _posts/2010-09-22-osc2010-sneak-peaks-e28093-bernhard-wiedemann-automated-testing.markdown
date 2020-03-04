@@ -14,17 +14,17 @@ categories:
 <blockquote>
 <table ><tr >
 > <td >
-[![](/wp-content/uploads/2010/09/sneakpeek-logo2.png)](http://news.opensuse.org/category/sneak-peeks/)
+[![](/wp-content/uploads/2010/09/sneakpeek-logo2.png)](//news.opensuse.org/category/sneak-peeks/)
 
 > </td>
 
 > <td >
-The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more than seventy talks and workshops explore the theme  of ‘**Collaboration Across Borders**‘ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together of  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [Berufsförderungswerk Nuremberg](http://www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](http://www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the [program](http://conference.opensuse.org/indico/event/osc2010) which starts each day at 9am,  the admission is free. 
+The openSUSE Conference brings together users, contributors and friends  of the openSUSE project from 20th to 23rd October in Nuremberg, Germany.  Over four days, more than seventy talks and workshops explore the theme  of ‘**Collaboration Across Borders**‘ in Free and Open  Source software communities, administration and development.  The  conference is the yearly get-together of  the openSUSE project  to give  its people a chance to meet face to face, talk to and inspire  each  other. It takes place in the [Berufsförderungswerk Nuremberg](//www.bfw-nuernberg.de/) in the  beautiful surroundings of the [Franconian metropole](//www.nuernberg.de/internet/portal_e/index.html). Everybody interested  is welcome to join and enjoy the [program](//conference.opensuse.org/indico/event/osc2010) which starts each day at 9am,  the admission is free. 
 
 > </td>
 
 > <td >
-[![](http://counter.opensuse.org/conf/2010/small.png)](http://conference.opensuse.org/indico/event/osc2010)
+[![](//counter.opensuse.org/conf/2010/small.png)](//conference.opensuse.org/indico/event/osc2010)
 
 > </td></tr></table>
   
@@ -52,17 +52,17 @@ I am who I am. A geek, a programmer, a father, a husband... sometimes even a poe
 
 **Where are you from and how did you come to the openSUSE testing team?**
 
-"_Ick bin eeen Berliner"_ to use [a famous quote](http://en.wikipedia.org/wiki/Ich_bin_ein_Berliner). To the testing team I came by coincidence as so many great things in live. I saw the message from [Holgi](http://en.opensuse.org/User:Holgi) (the founder of the testing team) on the [forums](http://forums.opensuse.org) when he was looking for members.
+"_Ick bin eeen Berliner"_ to use [a famous quote](//en.wikipedia.org/wiki/Ich_bin_ein_Berliner). To the testing team I came by coincidence as so many great things in live. I saw the message from [Holgi](//en.opensuse.org/User:Holgi) (the founder of the testing team) on the [forums](//forums.opensuse.org) when he was looking for members.
 
 **Could you explain to us what testing exactly means?**
 
-When we started the [Testing Core Team](http://en.opensuse.org/openSUSE:Testing) (the "Core" is intended to let people know that others can and should do testing as well) I only had a vague idea of what testing could be. One part is systematic testing. e.g. Larry Finger has been trying all encryption modes of wireless lan in combination with static and dynamic address assignment... but then there is the other testing which is just "using" beta releases and reporting issues because some issues are only spotted when you really try to use software.
+When we started the [Testing Core Team](//en.opensuse.org/openSUSE:Testing) (the "Core" is intended to let people know that others can and should do testing as well) I only had a vague idea of what testing could be. One part is systematic testing. e.g. Larry Finger has been trying all encryption modes of wireless lan in combination with static and dynamic address assignment... but then there is the other testing which is just "using" beta releases and reporting issues because some issues are only spotted when you really try to use software.
 
 <!-- more -->
 
 **I think most people forget about the methodical part which is also your area of expertise right?**
 
-I gathered experience as I went along. As so often, big motivation comes from big emotions. Initially I only did manual install testing for milestone releases but found that there was quite a number of them not working, so that other testers would wait for the next milestone. That was annoying me big time. So when I had some day off, I experimented with ways to automate things with the [Kernel Virtual Machine (KVM)](http://www.linux-kvm.org).
+I gathered experience as I went along. As so often, big motivation comes from big emotions. Initially I only did manual install testing for milestone releases but found that there was quite a number of them not working, so that other testers would wait for the next milestone. That was annoying me big time. So when I had some day off, I experimented with ways to automate things with the [Kernel Virtual Machine (KVM)](//www.linux-kvm.org).
 
 **Automate things means what? **
 
@@ -92,7 +92,7 @@ Debian uses a different development model that usually has a freeze period of si
 
 **Nice I see you explore into many directions. Is this the first open source project you lead?**
 
-![](/wp-content/uploads/2010/09/astrowars.jpg)In 2002 I had started [http://translucency.sf.net](http://translucency.sf.net) to help me build a nice liveCD of SuSE 7.3 and 8.2. And since 2005 I coded a filtering web-proxy, releasing the source under GPL, to enhance a browser-based MMORPG whose only developer appears to have lost interest ([astrowars.com](http://www.astrowars.com)). This one has inspired several other people to do the same and brought me countless hours of fun coding.
+![](/wp-content/uploads/2010/09/astrowars.jpg)In 2002 I had started [//translucency.sf.net](//translucency.sf.net) to help me build a nice liveCD of SuSE 7.3 and 8.2. And since 2005 I coded a filtering web-proxy, releasing the source under GPL, to enhance a browser-based MMORPG whose only developer appears to have lost interest ([astrowars.com](//www.astrowars.com)). This one has inspired several other people to do the same and brought me countless hours of fun coding.
 
 **So your involvement goes way back, I didn't know that. What would you say makes it nice to contribute to our project? And what doesn't?**
 
@@ -115,10 +115,10 @@ It was a pleasure talking to you.
 
 Don't miss Bernhards talk  
 
-[How automated testing can help improve a distribution in the](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=7&sessionId=19&confId=0)  
+[How automated testing can help improve a distribution in the](//conference.opensuse.org/indico//contributionDisplay.py?contribId=7&sessionId=19&confId=0)  
 
-[Distribution Technology](http://conference.opensuse.org/indico//sessionDisplay.py?sessionId=19&confId=0#20101020) track at the  
+[Distribution Technology](//conference.opensuse.org/indico//sessionDisplay.py?sessionId=19&confId=0#20101020) track at the  
 
-[openSUSE Conference](http://conference.opensuse.org/indico//conferenceProgram.py?confId=0) on  
+[openSUSE Conference](//conference.opensuse.org/indico//conferenceProgram.py?confId=0) on  
 
 Saturday at 10:30 in room Sigena.

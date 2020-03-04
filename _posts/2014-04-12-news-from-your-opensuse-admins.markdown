@@ -17,10 +17,10 @@ tags:
 - opensuse
 ---
 
-## Heartbleed and openSUSE infrastructure[![Heartbleed Logo](/wp-content/uploads/2014/04/heartbleed.png)](http://heartbleed.com/)
+## Heartbleed and openSUSE infrastructure[![Heartbleed Logo](/wp-content/uploads/2014/04/heartbleed.png)](//heartbleed.com/)
 
 
-As people started to ask, we checked all openSUSE servers and can confirm that none of them is affected by the [heartbleed bug](http://heartbleed.com/).
+As people started to ask, we checked all openSUSE servers and can confirm that none of them is affected by the [heartbleed bug](//heartbleed.com/).
 
 For those users running openSUSE 12.2 and 13.1, we can just repeat what we always pray: please install the latest official updates provided by our glorious [maintenance team](https://en.opensuse.org/openSUSE:Maintenance_team).
 
@@ -28,11 +28,11 @@ For those users running openSUSE 12.2 and 13.1, we can just repeat what we alway
 ## RSYNC and rsync.opensuse.org
 
 
-The server behind [rsync.opensuse.org](http://rsync.opensuse.org) is re-installed now and already providing packages via HTTP again.
+The server behind [rsync.opensuse.org](//rsync.opensuse.org) is re-installed now and already providing packages via HTTP again.
 
-But we faced an issue with the automation that creates the content of the "hotstuff" rsync modules: normally a script analyzes the log files of [download.opensuse.org](http://download.opensuse.org/) and arranges the content of these special rsync modules to provide always the most requested files, so our users have a good chance to find a very close mirror for their packages. But currently the script is not producing what we expect: it empties all those hotstuff modules. As the core developer behind this script comes back from vacation on Monday, we hope he can quickly fix the problem. For now we disabled the "hotstuff" modules (means on rsync.opensuse.org: we disabled rsync completely for now) to avoid problems.
+But we faced an issue with the automation that creates the content of the "hotstuff" rsync modules: normally a script analyzes the log files of [download.opensuse.org](//download.opensuse.org/) and arranges the content of these special rsync modules to provide always the most requested files, so our users have a good chance to find a very close mirror for their packages. But currently the script is not producing what we expect: it empties all those hotstuff modules. As the core developer behind this script comes back from vacation on Monday, we hope he can quickly fix the problem. For now we disabled the "hotstuff" modules (means on rsync.opensuse.org: we disabled rsync completely for now) to avoid problems.
 
-If you want to sync packages to your local machine(s) via rsync: please pick a mirror from our page at [mirrors.opensuse.org](http://mirrors.opensuse.org) providing public rsync.
+If you want to sync packages to your local machine(s) via rsync: please pick a mirror from our page at [mirrors.opensuse.org](//mirrors.opensuse.org) providing public rsync.
 
 
 ## New hardware
@@ -48,7 +48,7 @@ But not only openQA, also the database cluster behind download.opensuse.org has 
 ## Admins on openSUSE Conference
 
 
-These year, three of our main European [openSUSE administrators](http://en.opensuse.org/openSUSE:Services_team) are able to attend to the openSUSE Conference in Dubrovnik:![Geekocamp](/wp-content/uploads/2011/06/Geekocamp.jpg)
+These year, three of our main European [openSUSE administrators](//en.opensuse.org/openSUSE:Services_team) are able to attend to the openSUSE Conference in Dubrovnik:![Geekocamp](/wp-content/uploads/2011/06/Geekocamp.jpg)
 
 
 

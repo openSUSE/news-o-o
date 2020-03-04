@@ -73,18 +73,18 @@ Translations
 
 We are pleased to announce our 158 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats. Just click [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats. Just click [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy the reading :-)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Marketing.png)Announcements
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Marketing.png)Announcements
 
 **
       [Reviewing
-        the Trademark Guidelines](http://news.opensuse.org/2011/01/11/reviewing-the-trademark-guidelines/)
+        the Trademark Guidelines](//news.opensuse.org/2011/01/11/reviewing-the-trademark-guidelines/)
     **
 
-In 2009, a set of [trademark guidelines](http://en.opensuse.org/openSUSE:Trademark_guidelines) were created to help define how the community and beyond could
+In 2009, a set of [trademark guidelines](//en.opensuse.org/openSUSE:Trademark_guidelines) were created to help define how the community and beyond could
       use the openSUSE logo and related trademarks in their own products and services. Along with
       this, Novell granted powers to the openSUSE Board to be the guardians of the openSUSE
       trademarks. This included ensuring that proper usage followed the guidelines as well as giving
@@ -120,7 +120,7 @@ While we would like comments submitted on openFATE, if you prefer, you can post 
       forward on their own projects.
 
 **[The
-        openSUSE Board election 2010](http://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/)**
+        openSUSE Board election 2010](//news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/)**
 
 The openSUSE Board Election process, started in December 2010, is heading full-speed for
       the planned announcement of the results on January 26, 2011. Today the voting begins and it’s
@@ -135,7 +135,7 @@ In this election we will have 2 seats to be voted upon as the board periods of P
       Prusnak- Novell, Bryen Yunashko – none, Rupert Horstkötter – openSLX) the restraint is that at
       most one of the to be elected members can be affiliated with Novell and at most one with
       openSLX. According to the [election
-        rules](http://en.opensuse.org/openSUSE:Board_election#Company_affiliation), no single organization or company can control more than 40 percent of the
+        rules](//en.opensuse.org/openSUSE:Board_election#Company_affiliation), no single organization or company can control more than 40 percent of the
       electable Board seats. That means, in this election, that if two candidates from either Novell
       or openSLX score a first and second place, only the one with most votes will have a seat. The
       other seat will to go to the third candidate in line (provided of course that person is not
@@ -145,28 +145,28 @@ In this election we will have 2 seats to be voted upon as the board periods of P
 You can check their user pages, blogs and the platform page explaining their vision and
       plans for openSUSE:
 
-  * [Chuck “PUP” Payne](http://en.opensuse.org/User:Terrorpup),
-            ambassador from the US ([blog](http://opensuse.terrorpup.net/)) [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_terrorpup)
+  * [Chuck “PUP” Payne](//en.opensuse.org/User:Terrorpup),
+            ambassador from the US ([blog](//opensuse.terrorpup.net/)) [Platform](//en.opensuse.org/openSUSE:Board_election_2010_platform_terrorpup)
 
-  * [sebas](http://en.opensuse.org/User:Vizzzion), open-slx user
-            experience expert ([blog](http://vizzzion.org/blog/2010/12/running-for-the-opensuse-board/))
-            [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_sebas)
+  * [sebas](//en.opensuse.org/User:Vizzzion), open-slx user
+            experience expert ([blog](//vizzzion.org/blog/2010/12/running-for-the-opensuse-board/))
+            [Platform](//en.opensuse.org/openSUSE:Board_election_2010_platform_sebas)
 
-  * [Kostas Koudaras](http://en.opensuse.org/User:Warlordfff),
-            ambassador from greece ([blog](http://warlordfff.tk/)) [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_warlordfff)
+  * [Kostas Koudaras](//en.opensuse.org/User:Warlordfff),
+            ambassador from greece ([blog](//warlordfff.tk/)) [Platform](//en.opensuse.org/openSUSE:Board_election_2010_platform_warlordfff)
 
-  * [Peter Linnell aka mrdocs](http://en.opensuse.org/User:Mrdocs),
-            OSS It consultant [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_mrdocs)
+  * [Peter Linnell aka mrdocs](//en.opensuse.org/User:Mrdocs),
+            OSS It consultant [Platform](//en.opensuse.org/openSUSE:Board_election_2010_platform_mrdocs)
 
-  * [Henne Vogelsang](http://en.opensuse.org/User:Hennevogel),
-            Booster, currently Board Member, Novell ([blog](http://blog.hennevogel.de/)) [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_hennevogel)
+  * [Henne Vogelsang](//en.opensuse.org/User:Hennevogel),
+            Booster, currently Board Member, Novell ([blog](//blog.hennevogel.de/)) [Platform](//en.opensuse.org/openSUSE:Board_election_2010_platform_hennevogel)
 
-  * [Sankar P](http://en.opensuse.org/User:Psankar), Programmer,
-            Hacker, FOSS Enthusiast, Novell [(blog](http://psankar.blogspot.com/))
-              [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_psankar)
+  * [Sankar P](//en.opensuse.org/User:Psankar), Programmer,
+            Hacker, FOSS Enthusiast, Novell [(blog](//psankar.blogspot.com/))
+              [Platform](//en.opensuse.org/openSUSE:Board_election_2010_platform_psankar)
 
-  * [Nelson Marques](http://en.opensuse.org/User:Ketheriel),
-            Contributor ([blog](http://nmarques.digitalwhores.net/)) [Platform](http://en.opensuse.org/openSUSE:Board_election_2010_platform_ketheriel)
+  * [Nelson Marques](//en.opensuse.org/User:Ketheriel),
+            Contributor ([blog](//nmarques.digitalwhores.net/)) [Platform](//en.opensuse.org/openSUSE:Board_election_2010_platform_ketheriel)
 
 The openSUSE board was set up to lead the overall project. The main tasks for members of
       the board are:
@@ -188,7 +188,7 @@ The board should provide guidance to and support for existing governance structu
       with conflicts, works with the Novell openSUSE community manager on funding decisions, works
       with the community on the organization of events and in general does a lot of ‘small things’
       often only visible when they are not handled. The board members are elected according to
-        [Board Election rules](http://en.opensuse.org/openSUSE:Board_election) by
+        [Board Election rules](//en.opensuse.org/openSUSE:Board_election) by
       the members of the community who’ve been accepted as official ‘openSUSE Members’ and the chair
       person is appointed by Novell. Current chair is Alan Clark. 
 
@@ -203,21 +203,21 @@ Ballots have just been opened and all openSUSE members whose membership is in go
       standing are eligible to vote. Please verify if your email address is valid and that you are
       able to read emails sent to your openSUSE address! The ballots are being done via the web on
         [connect.opensuse.org](https://connect.opensuse.org/pg/polls/read/digitaltomm/10769/opensuse-board-election-2011) and have been announced on [opensuse-project IRC
-        channel and Mailing Lists](http://lists.opensuse.org/opensuse-project/2011-01/msg00048.html). Once a vote has been submitted it may not be changed
+        channel and Mailing Lists](//lists.opensuse.org/opensuse-project/2011-01/msg00048.html). Once a vote has been submitted it may not be changed
       afterwards. Finally, voting will end on [January 26th,
-        2011](http://bit.ly/gkQypN) when the ballots close. Shortly thereafter, you can expect the announcement of
+        2011](//bit.ly/gkQypN) when the ballots close. Shortly thereafter, you can expect the announcement of
       our two new board members! 
 
-More detailed information can be found on the generic [Board Election](http://en.opensuse.org/openSUSE:Board_election) and [board election 2010](http://en.opensuse.org/openSUSE:Board_election_2010) wiki
+More detailed information can be found on the generic [Board Election](//en.opensuse.org/openSUSE:Board_election) and [board election 2010](//en.opensuse.org/openSUSE:Board_election_2010) wiki
       pages. Have a good vote!
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
 
-### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Suse_Box.png)Distribution
+### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Suse_Box.png)Distribution
 
 **
         [Schedules for the next week (Thu, 20
-          Jan 2011 14:00:00 GMT)](http://www.suse.de/~coolo/opensuse_11.4/)
+          Jan 2011 14:00:00 GMT)](//www.suse.de/~coolo/opensuse_11.4/)
       **
 
 openSUSE 11.4 Milestone 6 release
@@ -230,32 +230,32 @@ openSUSE 11.4 Milestone 6 release
 
 **Important Links**
 
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
   * [Submitting Bug
-            Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+            Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
   * [Bug Reporting
-            FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+            FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 ### Team Report
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-art.png)Art Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Logo-art.png)Art Team
 
 **
           [Nelson
-            Marques: Wallpaper Community Pack #1](http://lizards.opensuse.org/2011/01/13/wallpaper-community-pack-1/)
+            Marques: Wallpaper Community Pack #1](//lizards.opensuse.org/2011/01/13/wallpaper-community-pack-1/)
         **
 
 I’ve received some emails and some positive feedback about one wallpaper I used for a
           couple of screenshot’s I’ve used in the past, including also information requests about
           where that very same wallpaper could be found. I’m happy people liked my choice. 
 
-The wallpaper is question is the following, which can be found at [gnome-look [dot] org](http://gnome-look.org): Green Snake HD - by Kmurat @
+The wallpaper is question is the following, which can be found at [gnome-look [dot] org](//gnome-look.org): Green Snake HD - by Kmurat @
           gnome-art.org
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://gnome-look.org/CONTENT/content-pre1/70282-1.jpg)
+<td >![](//gnome-look.org/CONTENT/content-pre1/70282-1.jpg)
 </td></tr></table>
 
 It is clear to me at this stage that Artwork has good demand and it’s a ‘value +’
@@ -275,11 +275,11 @@ My intentions are to include a set of wallpapers (4/3, 16/9 and 16/10) of
           around 5/7 wallpapers from several artists and community contributors. The first person
           I’ve contacted regarding this was Javier Llorente, a openSUSE Artwork Team and KDE
           contributor, which donated and pointed some artwork. I’ve also sent a small email to
-            [María ‘Tatica’ Leandro](http://tatica.org), a contributor of Fedora
+            [María ‘Tatica’ Leandro](//tatica.org), a contributor of Fedora
           Design Team from South America asking if she had something that she could share with us
           for this community package (I did loved some of her submissions into Fedora Art).
           Additionally, I’m also going to nag [Sirko Kemter
-            (gnokii)](http://karl-tux-stadt.de) for a contribution… 
+            (gnokii)](//karl-tux-stadt.de) for a contribution… 
 
 Once this is assembled (already have 5 wallpapers) I’m going to package it, run a
           sanity check and prepare it for distribution… 
@@ -287,11 +287,11 @@ Once this is assembled (already have 5 wallpapers) I’m going to package it, ru
 **UPDATE**: María ‘Tatica’ Leandro has answered positive
           to my email requesting for a donation, Sirko Kemter also answered positive.
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
 
-**Build Service Statistics. **Statistics can found at [Buildservice](http://build.opensuse.org)
+**Build Service Statistics. **Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-fate.png)openFATE Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -313,7 +313,7 @@ Once this is assembled (already have 5 wallpapers) I’m going to package it, ru
 
 "I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -396,9 +396,9 @@ Can effort be made to ensure that opensuse 11.4 does not have menus for critical
 
 Include open document thumbnail plugin for default package list.
 
-http://kenai.com/projects/kde-odf.ail/sources/sources/show
+//kenai.com/projects/kde-odf.ail/sources/sources/show
 
-http://kde-apps.org/content/show.php?content=110864
+//kde-apps.org/content/show.php?content=110864
 
 **
             [Kernel: Update README.SUSE](https://features.opensuse.org/311057)
@@ -407,7 +407,7 @@ http://kde-apps.org/content/show.php?content=110864
 README.SUSE lacks documentation for stuff like patches.addon and mkspec as also
             hinted at
 
-http://lists.opensuse.org/opensuse-kernel/2010-07/msg00014.html
+//lists.opensuse.org/opensuse-kernel/2010-07/msg00014.html
 
 **
             [Better support for Garmin GPS](https://features.opensuse.org/311058)
@@ -448,7 +448,7 @@ Please, add the ability to configure the scanner buttons via Yast. Configure=ass
             an action, like one-button scan. Currently, this can be done with scanbuttond daemon,
             but its configuration is far from straightforward, let alone convenient.
 
-Ref: http://en.gentoo-wiki.com/wiki/Scanner_buttons_and_one-touch_scanning 
+Ref: //en.gentoo-wiki.com/wiki/Scanner_buttons_and_one-touch_scanning 
 
 **
             [A radio button "stay login
@@ -456,7 +456,7 @@ Ref: http://en.gentoo-wiki.com/wiki/Scanner_buttons_and_one-touch_scanning
           **
 
 A radio button "stay login in" in authorization form (like this
-            http://img.flashtux.org/img132db222350dx1203e659.png ) in openSUSE sites.
+            //img.flashtux.org/img132db222350dx1203e659.png ) in openSUSE sites.
 
 **
             [UPEK support in Yast
@@ -471,37 +471,37 @@ Some Lenovo laptops use the UPEK driver for fingerprint. Using the latest versio
 Maybe provide packages for fingerprint-gui, too, and Fedora's
             system-config-authentication:
 
-http://diegobz.net/2009/08/29/fingerprint-authentication-using-kde-on-fedora-11/
+//diegobz.net/2009/08/29/fingerprint-authentication-using-kde-on-fedora-11/
           
 
 ##### Feature Statistics
 
 Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statistic/product/22236)
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
             – [Localization
-              Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+              Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Icon-project.png)In the Community
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Icon-project.png)In the Community
 
 ### Postings from the Community
 
-**[Greek openSUSE Ambassadors: Greek openSUSE community report for 2010](http://opensuseambassadors.blogspot.com/2011/01/greek-opensuse-community-report-for.html)
+**[Greek openSUSE Ambassadors: Greek openSUSE community report for 2010](//opensuseambassadors.blogspot.com/2011/01/greek-opensuse-community-report-for.html)
       **
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![](http://2.bp.blogspot.com/_EX6cn8rqip4/TN-Wm8DijDI/AAAAAAAAAbw/vfdjWxS-_Qo/s320/opensuse_hellas.png)
+<td align="center" >![](//2.bp.blogspot.com/_EX6cn8rqip4/TN-Wm8DijDI/AAAAAAAAAbw/vfdjWxS-_Qo/s320/opensuse_hellas.png)
 </td></tr></table>
 
 This is the annual report of the Greek openSUSE community. As you all might know this is
         the first report since we were formed as a community this year.
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![](http://3.bp.blogspot.com/_gVkPBOXagGg/TQjgvRgbs5I/AAAAAAAACCI/vbVpPv5Sg0M/s320/69343_1658265182347_1408656662_1777955_1854916_n.jpg)
+<td align="center" >![](//3.bp.blogspot.com/_gVkPBOXagGg/TQjgvRgbs5I/AAAAAAAACCI/vbVpPv5Sg0M/s320/69343_1658265182347_1408656662_1777955_1854916_n.jpg)
 </td></tr></table>
 
 Our first event of the year was the appearance at 3rd FOSSCOMM at 24th and 25th of
@@ -541,36 +541,36 @@ Kai-Uwe serves as Speaker, Boothman and Developer for the openSUSE Project.
 
 **Past**
 
-  * [January 12, 2011 : openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [January 12, 2011 : openSUSE Board Meeting](//news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-  * [January 13, 2011 : ﻿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 13, 2011 : ﻿openSUSE KDE Team meeting](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 **Upcoming**
 
-  * [January 20, 2011 : openSUSE GNOME Team meeting](http://news.opensuse.org/2011/01/11/opensuse-gnome-team-meeting-22/)
+  * [January 20, 2011 : openSUSE GNOME Team meeting](//news.opensuse.org/2011/01/11/opensuse-gnome-team-meeting-22/)
 
-  * [January 27, 2011 : ﻿openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 27, 2011 : ﻿openSUSE KDE Team meeting](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-      or download it on [Radiotux](http://blog.radiotux.de/podcast). 
+      or download it on [Radiotux](//blog.radiotux.de/podcast). 
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
-**[Packman: vlc 1.1.5-5.pm](http://packman.links2linux.org/package/vlc)**
+**[Packman: vlc 1.1.5-5.pm](//packman.links2linux.org/package/vlc)**
 
 “VLC media player is a highly portable multimedia player for various
       audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...)
@@ -578,19 +578,19 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
       It can also be used as a server to stream in unicast or multicast
       in IPv4 or IPv6 on a high-bandwidth network.”
 
-**[Packman: flexdock 0.5.1-0.pm](http://packman.links2linux.org/package/flexdock)**
+**[Packman: flexdock 0.5.1-0.pm](//packman.links2linux.org/package/flexdock)**
 
 FlexDock is a Java docking framework for use in cross-platform Swing
       applications. It offers features you'd expect in any desktop docking
       framework such as: (...)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE
-      Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+      Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-**[openSUSE 11.1 has reached end of Novell support - 11.1 Evergreen goes on](http://lists.opensuse.org/opensuse-security-announce/2011-01/msg00005.html)**
+**[openSUSE 11.1 has reached end of Novell support - 11.1 Evergreen goes on](//lists.opensuse.org/opensuse-security-announce/2011-01/msg00005.html)**
 
 With the release of an opensc security fix on Thursday 13th
         January Novell has released the last update for openSUSE 11.1.
@@ -602,7 +602,7 @@ However, a community effort has been started to continue 11.1 maintenance under 
       codename of "Evergreen".
 
 The overview page of this project, how to activate and use it, and other details, is on:
-        [http://en.opensuse.org/openSUSE:Evergreen](http://en.opensuse.org/openSUSE:Evergreen)
+        [//en.opensuse.org/openSUSE:Evergreen](//en.opensuse.org/openSUSE:Evergreen)
 
 The Evergreen project is lead by openSUSE community member **Wolfgang
         Rosenauer**.
@@ -612,13 +612,13 @@ Here are some statistics:
 openSUSE 11.1 was released on December 18th 2008, making it 2 years and 1 month of
       security and bugfix support.
 
-Some statistics on the released patches (compared to 11.0) can shown [there](http://lists.opensuse.org/opensuse-security-announce/2011-01/msg00005.html).
+Some statistics on the released patches (compared to 11.0) can shown [there](//lists.opensuse.org/opensuse-security-announce/2011-01/msg00005.html).
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
 
 **
       [h-online/Thorsten Leemhuis: Kernel Log - Wonder patch merged, improved AMD and Intel
-        graphic support](http://www.h-online.com/open/features/Kernel-Log-Wonder-patch-merged-improved-AMD-and-Intel-graphic-support-1166430.html)
+        graphic support](//www.h-online.com/open/features/Kernel-Log-Wonder-patch-merged-improved-AMD-and-Intel-graphic-support-1166430.html)
     **
 
 **For Linux 2.6.38, the kernel developers have integrated the
@@ -628,27 +628,27 @@ Some statistics on the released patches (compared to 11.0) can shown [there](htt
         situation surrounding the graphics drivers for Intel's new processors. **
 
 After the [release
-        of Linux 2.6.37](http://www.h-online.com/open/features/What-s-new-in-Linux-2-6-37-1163376.html) on Wednesday morning, the first patches for kernel version 2.6.38
+        of Linux 2.6.37](//www.h-online.com/open/features/What-s-new-in-Linux-2-6-37-1163376.html) on Wednesday morning, the first patches for kernel version 2.6.38
       appeared in the Linux main development branch late on Thursday night. Among Torvalds' first
-      2,769 commits were the almost 600 patches for the network subsystem that had been [submitted](http://thread.gmane.org/gmane.linux.network/183011) by its
+      2,769 commits were the almost 600 patches for the network subsystem that had been [submitted](//thread.gmane.org/gmane.linux.network/183011) by its
       maintainer, David Miller. As expected, these patches have added the [rtl8192ce
-        driver](http://git.kernel.org/linus/0c8173385e549f95cd80c3fff5aab87b4f881d8d) for Realtek's RTL8192CE and RTL8188CE 802.11n Wi-Fi chips to the kernel. 
+        driver](//git.kernel.org/linus/0c8173385e549f95cd80c3fff5aab87b4f881d8d) for Realtek's RTL8192CE and RTL8188CE 802.11n Wi-Fi chips to the kernel. 
 
-The first changes made for Linux 2.6.38 also include [the patch](http://git.kernel.org/linus/5091faa449ee0b7d73bc296a93bca9540fc51d0a)
+The first changes made for Linux 2.6.38 also include [the patch](//git.kernel.org/linus/5091faa449ee0b7d73bc296a93bca9540fc51d0a)
       that considerably improves the interactivity of desktop applications in situations where the
       CPU is fully utilised. This patch became known through such articles as [“The ~200 Line Linux Kernel Patch That Does
-        Wonders”](http://bit.ly/fI6LyR) on the Phoronix web site; details of the patch's functionality as
-      well as a description of an alternative, more flexible, approach can be found in a [previous Kernel Log](http://www.h-online.com/open/features/Kernel-Log-Fast-response-times-via-process-groups-1141390.html). The maintainer of the process scheduler, Ingo Molnar, [explicitly pointed out](http://thread.gmane.org/gmane.linux.kernel/1084129) this
+        Wonders”](//bit.ly/fI6LyR) on the Phoronix web site; details of the patch's functionality as
+      well as a description of an alternative, more flexible, approach can be found in a [previous Kernel Log](//www.h-online.com/open/features/Kernel-Log-Fast-response-times-via-process-groups-1141390.html). The maintainer of the process scheduler, Ingo Molnar, [explicitly pointed out](//thread.gmane.org/gmane.linux.kernel/1084129) this
       function in his Git-Pull request, calling it “one of the biggest and most visible
         interactivity improvements achieved by the Linux scheduler”. (...) **License**: 4
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
 ### For Desktop Users
 
 **
         [FreeSoftwareMagazine/Terry Hancock: Creating a moving story-reel shot with Inkscape and
-          Blender](http://www.freesoftwaremagazine.com/columns/creating_moving_story_reel_shot_inkscape_and_blender)
+          Blender](//www.freesoftwaremagazine.com/columns/creating_moving_story_reel_shot_inkscape_and_blender)
       **
 
 There’s a reason they’re called “movies.” They’re supposed to move. Your eyes are keyed
@@ -661,7 +661,7 @@ There’s a reason they’re called “movies.” They’re supposed to move. Yo
         demonstrate such an animated storyboard using Inkscape and Blender. (...)
 
 **[Sankar
-          P: Download all youtube videos of a user](http://psankar.blogspot.com/2011/01/download-all-youtube-videos-of-user.html)**
+          P: Download all youtube videos of a user](//psankar.blogspot.com/2011/01/download-all-youtube-videos-of-user.html)**
 
 Recently I got addicted to watching Nigella Lawson Cooking videos on youtube. As much as
         I like youtube, I prefer to watch videos offline as well. One user has uploaded a lot of
@@ -676,7 +676,7 @@ I tried a few firefox plugins, youtube-dl python script, etc. for doing this but
 The commands
         are:
     
-    grep -E 'http://www.youtube.com/watch\?v=[[:alnum:]-]{11}' dump.html -o | uniq > vdos
+    grep -E '//www.youtube.com/watch\?v=[[:alnum:]-]{11}' dump.html -o | uniq > vdos
     for i in `cat vdos`; do youtube-dl -t $i; done; rm vdos;
 
 HTH someone. 
@@ -688,7 +688,7 @@ If you know of a better solution (some firefox/chrome addon, Greasmonkey, etc.) 
 
 **
         [BashShell.net:
-          Using Pipes in the Bash Shell](http://bashshell.net/bash-shell/using-pipes-in-the-bash-shell/)
+          Using Pipes in the Bash Shell](//bashshell.net/bash-shell/using-pipes-in-the-bash-shell/)
       **
 
 The usage of pipes with the shell is easy and powerful. This lab will help you
@@ -698,7 +698,7 @@ The usage of pipes with the shell is easy and powerful. This lab will help you
 
 **
         [nixCraft/Vivek Gite: Linux Commands For Shared Library Management & Debugging
-          Problem](http://www.cyberciti.biz/tips/linux-shared-library-management.html)
+          Problem](//www.cyberciti.biz/tips/linux-shared-library-management.html)
       **
 
 If you are a developer, you will re-use code provided by others. Usually /lib, /lib64,
@@ -710,7 +710,7 @@ If you are a developer, you will re-use code provided by others. Usually /lib, /
 ### For System Administrators
 
 **
-        [Linux.com/Joe Brockmeier: Linux Kernel Module Management 101 ](http://www.linux.com/learn/tutorials/396770-linux-kernel-module-management-101)
+        [Linux.com/Joe Brockmeier: Linux Kernel Module Management 101 ](//www.linux.com/learn/tutorials/396770-linux-kernel-module-management-101)
       **
 
 The Linux kernel allows drivers and features to be compiled as modules rather than as
@@ -724,7 +724,7 @@ In this tutorial, we'll walk through the steps of seeing what's already loaded
 
 **
         [Chuck Payne: System Administrator 101 — A
-          Basic Bash Loop — Part 1 “for”](http://opensuse.terrorpup.net/?p=196)
+          Basic Bash Loop — Part 1 “for”](//opensuse.terrorpup.net/?p=196)
       **
 
 Being a System Administrator you will find that you need to do a lot of repetitive
@@ -829,7 +829,7 @@ As great System Administrator, finding the simplest ways to do recurring tasks f
         time I will go over while. **License**: 3
 
 **
-        [Nelson Marques: openSUSE Factory: ATI FireGL 10.12](http://lizards.opensuse.org/2011/01/13/opensuse-factory-ati-firegl-10-12/)
+        [Nelson Marques: openSUSE Factory: ATI FireGL 10.12](//lizards.opensuse.org/2011/01/13/opensuse-factory-ati-firegl-10-12/)
       **
 
 I’ve had some problems in the past with openSUSE Factory and ATI support… even the
@@ -851,7 +851,7 @@ Here’s what you need (64 bit users):
     
     fontconfig-32bit expat-32bit freetype2-32bit zlib-32bit gcc make
 
-  * Download ATI FireGL driver (version 10.12) from ATI website (http://ati.amd.com).
+  * Download ATI FireGL driver (version 10.12) from ATI website (//ati.amd.com).
             
 
   * Extract the files using the
@@ -864,11 +864,11 @@ This will create a small folder which starts with fglrx. Change directory into
 
   * Download the following patches:
 
-    * [sema_init.patch](http://aur.archlinux.org/packages/catalyst/catalyst/sema_init.patch)
+    * [sema_init.patch](//aur.archlinux.org/packages/catalyst/catalyst/sema_init.patch)
 
-    * [fglrx-2.6.36.patch](http://aur.archlinux.org/packages/catalyst/catalyst/fglrx-2.6.36.patch)
+    * [fglrx-2.6.36.patch](//aur.archlinux.org/packages/catalyst/catalyst/fglrx-2.6.36.patch)
 
-    * [makefile_compat.patch](http://aur.archlinux.org/packages/catalyst/catalyst/makefile_compat.patch)
+    * [makefile_compat.patch](//aur.archlinux.org/packages/catalyst/catalyst/makefile_compat.patch)
 
   * Apply the patches (patch -p1 < file.patch).
 
@@ -886,7 +886,7 @@ Enjoy FireGL on openSUSE Factory!
 
 **
         [HowtoForge/Falko Timme: Installing Cherokee With PHP5 And MySQL Support On OpenSUSE
-          11.3](http://www.howtoforge.com/installing-cherokee-with-php5-and-mysql-support-on-opensuse-11.3)
+          11.3](//www.howtoforge.com/installing-cherokee-with-php5-and-mysql-support-on-opensuse-11.3)
       **
 
 Cherokee is a very fast, flexible and easy to configure Web Server. It supports the
@@ -895,21 +895,21 @@ Cherokee is a very fast, flexible and easy to configure Web Server. It supports 
         compatible log files, and much more. This tutorial shows how you can install Cherokee on an
         OpenSUSE 11.3 server with PHP5 support (through FastCGI) and MySQL support. (...)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
 
 **
       [OMG!
-        SUSE!-Team: Zombie Lizards! Evergreen brings 11.1 back from the dead](http://omgsuse.com/content/zombie-lizards-evergreen-brings-111-back-dead)
+        SUSE!-Team: Zombie Lizards! Evergreen brings 11.1 back from the dead](//omgsuse.com/content/zombie-lizards-evergreen-brings-111-back-dead)
     **
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![](http://cdn.omgsuse.com/omg/images/evergreen.jpg)
+<td align="center" >![](//cdn.omgsuse.com/omg/images/evergreen.jpg)
 </td></tr></table>
 
-In mid-October we wrote about [openSUSE 11.1 being put out to pasture](http://omgsuse.com/content/adios-opensuse-111) and the openSUSE team's decision to rapidly
+In mid-October we wrote about [openSUSE 11.1 being put out to pasture](//omgsuse.com/content/adios-opensuse-111) and the openSUSE team's decision to rapidly
       end-of-life the release. In the world of open source, what does "end of life" actually mean
       for users? As resident security expert [Marcus
-        Meissner](http://twitter.com/msmeissn) stated in the original announcement: 
+        Meissner](//twitter.com/msmeissn) stated in the original announcement: 
 
 “SUSE Security announces that the SUSE Security Team will
           stop releasing updates for openSUSE 11.1 soon. Having provided security-relevant fixes for
@@ -917,28 +917,28 @@ In mid-October we wrote about [openSUSE 11.1 being put out to pasture](http://om
         2010.”
     
 
-Before the deadline of December 31st came, there [was already talk](http://www.rosenauer.org/blog/2010/11/30/community-powered-long-term-support-for-opensuse/) about extending support for openSUSE 11.1 by the openSUSE
+Before the deadline of December 31st came, there [was already talk](//www.rosenauer.org/blog/2010/11/30/community-powered-long-term-support-for-opensuse/) about extending support for openSUSE 11.1 by the openSUSE
       community. Shortly after the new year, openSUSE [project Evergreen
-        was born](http://www.rosenauer.org/blog/2011/01/03/opensuse-project-evergreen/), a community-powered attempt at extending long-term support for 11.1. 
+        was born](//www.rosenauer.org/blog/2011/01/03/opensuse-project-evergreen/), a community-powered attempt at extending long-term support for 11.1. 
 
-Currently Evergreen is still very much an experiment but community member [Wolfgang Rosenauer](http://www.rosenauer.org/blog/), who originally proposed the
+Currently Evergreen is still very much an experiment but community member [Wolfgang Rosenauer](//www.rosenauer.org/blog/), who originally proposed the
       project, is actively working with a few other contributors to get all the infrastructural and
       technical issues worked out so the Evergreen project can start pushing out updates. If you're
-      interested in joining the project, Wolfgang has created a [mailing list](http://lists.rosenauer.org/mailman/listinfo/evergreen) you can
+      interested in joining the project, Wolfgang has created a [mailing list](//lists.rosenauer.org/mailman/listinfo/evergreen) you can
       subscribe to in order to get started.
 
 (...)
 
 **[Tejas
-        Guruswamy: Winter updates](http://masterpatricko.blogspot.com/2011/01/winter-updates.html)**
+        Guruswamy: Winter updates](//masterpatricko.blogspot.com/2011/01/winter-updates.html)**
 
 Phew. long time no news! It's been a busy start of winter ... on that topic a happy new
       year to everyone! Welcome if you're reading this for the first time on PlanetSUSE, have a look
-      at my [intro](http://masterpatricko.blogspot.com/2010/09/introduction.html)
+      at my [intro](//masterpatricko.blogspot.com/2010/09/introduction.html)
       if you're curious who I am. A few updates on what I've been working on this month at
       least.
 
-[libopensync-plugin-akonadi 0.22.1](http://kde-apps.org/content/show.php/opensync-plugin-akonadi?content=132900) released Released an update to try and make it
+[libopensync-plugin-akonadi 0.22.1](//kde-apps.org/content/show.php/opensync-plugin-akonadi?content=132900) released Released an update to try and make it
       work better with the Google Akonadi resource (thanks ares).
 
 Package updates on the OBS:
@@ -946,27 +946,27 @@ Package updates on the OBS:
   * Packaged **krazy2**, the KDE code quality checker,
             straight from git in KDE:Unstable:Playground
 
-  * Updated [get_iplayer](http://www.infradead.org/get_iplayer/html/get_iplayer.html), the BBC iPlayer download tool, in home:MasterPatricko. It now works!
+  * Updated [get_iplayer](//www.infradead.org/get_iplayer/html/get_iplayer.html), the BBC iPlayer download tool, in home:MasterPatricko. It now works!
 
-  * Packaged [powertop2 beta](http://blog.fenrus.org/), the power
+  * Packaged [powertop2 beta](//blog.fenrus.org/), the power
             consumption monitor, in home:MasterPatricko;
             interesting improvements compared to powertop. Needs kernel 2.6.37 (i.e. Factory or
             Kernel:HEAD) to show off its full power, but still works in 11.3.
 
-  * Update [liquidwar6](http://www.gnu.org/software/liquidwar6/), the
+  * Update [liquidwar6](//www.gnu.org/software/liquidwar6/), the
             particle simulation game, to 0.0.9beta in games
 
-  * Update [maxima](http://maxima.sourceforge.net/), the Computer
+  * Update [maxima](//maxima.sourceforge.net/), the Computer
             Algebra system, in science to 5.23.0
 
-  * Update [unshield](http://www.synce.org), the .CAB file extractor
+  * Update [unshield](//www.synce.org), the .CAB file extractor
             from the SynCE project, in Archiving (and eventually
             Factory) to 0.6
 
-  * Fix build of [denyhosts](http://denyhosts.sourceforge.net/), the
+  * Fix build of [denyhosts](//denyhosts.sourceforge.net/), the
             SSH brute-force protection tool, on x86_64
 
-  * Update [redshift](http://jonls.dk/redshift/), the auto
+  * Update [redshift](//jonls.dk/redshift/), the auto
             screen-brightness adjuster in Factory:Contrib to
             0.6
 
@@ -976,12 +976,12 @@ Package updates on the OBS:
             for a local network.
 
 Started using my hard-earned openSUSE member benefits; tejas.guruswamy AT and
-      masterpatricko AT opensuse.org are operational; got the blog syndicated on [planet.opensuse.org](http://planet.opensuse.org).
+      masterpatricko AT opensuse.org are operational; got the blog syndicated on [planet.opensuse.org](//planet.opensuse.org).
 
 Plus, as always, I have a couple of new project ideas I'd like to get started on ... more
       on that soon. Comments welcome as always.
 
-**[Sascha Manns: openSUSE Weekly News available for EBook Reader](http://www.linux.com/distrocentral/distroblogs/395853:opensuse-weekly-news-available-for-ebook-reader)**
+**[Sascha Manns: openSUSE Weekly News available for EBook Reader](//www.linux.com/distrocentral/distroblogs/395853:opensuse-weekly-news-available-for-ebook-reader)**
 
 Some years, the openSUSE Weekly News, only was edited and published in the Wiki. 
 
@@ -995,11 +995,11 @@ To extend our offer, we have already started in the middle of last year to conve
       This is now offered readers the opportunity to subscribe to the RSS feed, and thus any time if
       the reader wishes it to be available. (...)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
 
 **[
 	New Forum Home Page layout
-	](http://forums.opensuse.org/english/other-forums/news-announcements/announcements/452191-new-forum-home-page-layout.html)**
+	](//forums.opensuse.org/english/other-forums/news-announcements/announcements/452191-new-forum-home-page-layout.html)**
 
 
       This has kept the Forums Team busy for a bit. With the new forums template effective, we've looked for further improvement of the accessibility of the forums. We hope help, info and the community have come a couple of clicks closer for our members and guests. Another aspect is the improved visibility of the non-english forums. This thread gets a lot of reponse. Don't forget to check the new home page layout.
@@ -1007,7 +1007,7 @@ To extend our offer, we have already started in the middle of last year to conve
 
 **[
       Proper way to obtain source code packages
-      ](http://forums.opensuse.org/english/other-forums/development/programming-scripting/451959-proper-way-obtain-source-code-packages.html)**
+      ](//forums.opensuse.org/english/other-forums/development/programming-scripting/451959-proper-way-obtain-source-code-packages.html)**
 
 
       We use an open source OS, open source programs, now what if we actually want to take a look at the source of a program to see, like in this thread, where it takes it's icons from. The replies point to the ins and outs of this.
@@ -1015,7 +1015,7 @@ To extend our offer, we have already started in the middle of last year to conve
 
 **[
       Permissions: make files from CD writable when copying to hard disk
-      ](http://forums.opensuse.org/english/get-technical-help-here/applications/452176-permissions-make-files-cd-writable-when-copying-hard-disk.html)**
+      ](//forums.opensuse.org/english/get-technical-help-here/applications/452176-permissions-make-files-cd-writable-when-copying-hard-disk.html)**
 
 
       When files, like photos get copied from a CD they keep their read-only permissions. This member supports his parents in using linux, he knows how to change the permissions himself, but he does not want his parents to have to do that. Yet they would need write permissions to their photos to do some basic photo editing, like rotation and removing red eyes. Read how it can be done.
@@ -1023,39 +1023,39 @@ To extend our offer, we have already started in the middle of last year to conve
 
 **This week's subforum: [
       Forums Feedback
-      ](http://forums.opensuse.org/english/other-forums/forums-feedback/)**
+      ](//forums.opensuse.org/english/other-forums/forums-feedback/)**
 
 
       This is our place where members give feed back on the forums themselves, i.e. the layout, accessibility, translation issues, suggested features and improvements. There are no stats available on this, but a lot of the things we see today were born in these regions.
       
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-On-the-Web.png)On the Web
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-On-the-Web.png)On the Web
 
 ### Announcements
 
 **
         [HTML
-          Video Codec Support in Chrome](http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html)
+          Video Codec Support in Chrome](//blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html)
       **
 
 The web’s open and community-driven development model is a key factor in its rapid
         evolution and ubiquitous adoption. The [WebM
-          Project](http://www.webmproject.org/) was [launched](http://blog.webmproject.org/2010/05/introducing-webm-open-web-media-project.html) last year to bring an open, world-class video codec to the web. Since
+          Project](//www.webmproject.org/) was [launched](//blog.webmproject.org/2010/05/introducing-webm-open-web-media-project.html) last year to bring an open, world-class video codec to the web. Since
         the launch, we’ve seen first-hand the benefits of an open development model: (...)
 
 ### Reports
 
 **
-        [OSTatic/Lisa Hoover: Black Duck Software Buys Olliance Consulting Group](http://ostatic.com/blog/black-duck-software-buys-olliance-consulting-group)
+        [OSTatic/Lisa Hoover: Black Duck Software Buys Olliance Consulting Group](//ostatic.com/blog/black-duck-software-buys-olliance-consulting-group)
       **
 
-In its continued march across the open source industry landscape, [Black Duck Software](http://www.blackducksoftware.com), a Boston-based company
+In its continued march across the open source industry landscape, [Black Duck Software](//www.blackducksoftware.com), a Boston-based company
         which services managed and secure implementations of open source software, announced today
-        the purchase of [Olliance Group](http://www.olliancegroup.com/), an open
+        the purchase of [Olliance Group](//www.olliancegroup.com/), an open
         source enterprise consulting firm. After [acquiring open source search engine
-          Koders](http://ostatic.com/blog/black-duck-buys-koders) in 2008, Black Duck got quiet for a while then slurped up three more
-        companies in the last three months -- [Oholoh](http://www.ohloh.net/),
-          [SpikeSource](http://ostatic.com/blog/black-duck-extends-its-string-of-open-source-acquisitions), and now Olliance. We caught up wtih Peter Vescuso, Executive Vice
+          Koders](//ostatic.com/blog/black-duck-buys-koders) in 2008, Black Duck got quiet for a while then slurped up three more
+        companies in the last three months -- [Oholoh](//www.ohloh.net/),
+          [SpikeSource](//ostatic.com/blog/black-duck-extends-its-string-of-open-source-acquisitions), and now Olliance. We caught up wtih Peter Vescuso, Executive Vice
         President of Black Duck Software to find out more about this acquisition and what the future
         holds for the company.
 
@@ -1080,7 +1080,7 @@ Although Black Duck already offers some consulting services to clients, they are
           what we were offering, hence the motivation to acquire Olliance”. (...) **License**: 5
 
 **
-        [LinuxDevices.com/Jonathan Angel: All-in-one POS device runs SUSE Linux](http://www.linuxfordevices.com/c/a/News/NCR-RealPOS-25-and-RealPOS50/?kc=rss)
+        [LinuxDevices.com/Jonathan Angel: All-in-one POS device runs SUSE Linux](//www.linuxfordevices.com/c/a/News/NCR-RealPOS-25-and-RealPOS50/?kc=rss)
       **
 
 NCR announced two all-in-one POS (point of sale) systems that run Novell's SUSE
@@ -1091,55 +1091,55 @@ NCR announced two all-in-one POS (point of sale) systems that run Novell's SUSE
 
 **
         [Youtube-- "Be Free with KDE"
-          advertisement](http://www.youtube.com/watch?v=6tw2JOuct7k)
+          advertisement](//www.youtube.com/watch?v=6tw2JOuct7k)
       **
 
 Youtube: “Created as part of the Google Code In program”
 
 **
         [InfoWorld's Linux IQ
-          test: Round 2](http://infoworld.com/t/linux/linux-iq-test-round-2-657)
+          test: Round 2](//infoworld.com/t/linux/linux-iq-test-round-2-657)
       **
 
 So you live and breathe Linux, eh? You've aced [Linux IQ Test: Round
-          1](http://www.infoworld.com/t/linux/linux-admin-iq-test-066) and our [Open Source IQ
-          Test](http://www.infoworld.com/d/open-source/open-source-iq-test-766) to boot. The free OS runs on your phone, your netbook, your desktop, and even
+          1](//www.infoworld.com/t/linux/linux-admin-iq-test-066) and our [Open Source IQ
+          Test](//www.infoworld.com/d/open-source/open-source-iq-test-766) to boot. The free OS runs on your phone, your netbook, your desktop, and even
         your alarm clock. You named your dog Linus and you have Tux wallpaper. You take such great
         pride in your uptimes that you brag about them at the lunch table. Andrew Morton signed your
         underwear. You're in the game. But how much do you really know about the most pervasive open
         source project on the planet? Take Round 2 of our Linux IQ test and find out. **License**: 6
 
 **
-        [ EweekEurope/Tom Jowitt: Novell: Community Wants OpenSUSE Foundation ](http://www.eweekeurope.co.uk/interview/novell-community-wants-opensuse-foundation-17980)
+        [ EweekEurope/Tom Jowitt: Novell: Community Wants OpenSUSE Foundation ](//www.eweekeurope.co.uk/interview/novell-community-wants-opensuse-foundation-17980)
       **
 
-Open source commentators were suspicious when news emerged that [openSUSE will move to an independent foundation](http://www.eweekeurope.co.uk/news/concerns-raised-over-opensuse-spin-off-17723), during the acquisition of
+Open source commentators were suspicious when news emerged that [openSUSE will move to an independent foundation](//www.eweekeurope.co.uk/news/concerns-raised-over-opensuse-spin-off-17723), during the acquisition of
         Novell, which currently supports openSUSE development. 
 
 But the move is in line with the wishes of the openSUSE community, will be properly
         funded, and does not represent any fading of Novell’s interest in the Linux version – or any
-        lack of involvement by [Novell’s prospective owner, Attachmate](http://www.eweekeurope.co.uk/news/microsoft-gets-novell-ip-in-2-65-billion-carve-up-13995). 
+        lack of involvement by [Novell’s prospective owner, Attachmate](//www.eweekeurope.co.uk/news/microsoft-gets-novell-ip-in-2-65-billion-carve-up-13995). 
 
 That is the view of Jos Poortvliet, Jos Poortvliet, openSUSE Community Manager at
         Novell, who contacted us to give some background to the move, which he says dates back well
         before the Attachmate deal was announced. (...) **License**:
           2
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
-  * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+  * [Thomas Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/copyright.jpg)External Copyrights
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/copyright.jpg)External Copyrights
 
 This are the Licenses from our Sources:
 
@@ -1163,46 +1163,46 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-    the [comment section](http://news.opensuse.org/?p=6216) and let us know! 
+    the [comment section](//news.opensuse.org/?p=6216) and let us know! 
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
-If you don't know, how to contribute, just check out the [Contribution Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+If you don't know, how to contribute, just check out the [Contribution Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
 **Talk with us:**
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-    mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our connect.opensuse.org Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-Since a few minutes you can use [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+Since a few minutes you can use [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
 
 openSUSE Weekly News is translated into many languages. Issue
     158 is available in: 
 
-  * [English](http://news.opensuse.org/?p=6216)
+  * [English](//news.opensuse.org/?p=6216)
 
 Coming soon: 
 
-You can follow the status of the translation [there](http://en.opensuse.org/openSUSE:Weekly_news_translations).
+You can follow the status of the translation [there](//en.opensuse.org/openSUSE:Weekly_news_translations).
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/158)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/158)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)

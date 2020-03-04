@@ -66,7 +66,7 @@ We will have four types of sessions:
 
 You can send in proposals until February 28 but the sooner the better as we will start accepting submissions on February 14.
 
-Find our [speaker guidelines here](http://en.opensuse.org/openSUSE:Conference_speaker_guidelines). This page also has tips on how to create smashing presentations and we ave some articles about [organizing workshops](//news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/) and [BoF sessions](//news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/) at this site.
+Find our [speaker guidelines here](//en.opensuse.org/openSUSE:Conference_speaker_guidelines). This page also has tips on how to create smashing presentations and we ave some articles about [organizing workshops](//news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/) and [BoF sessions](//news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/) at this site.
 
 
 ## Registration for oSC14

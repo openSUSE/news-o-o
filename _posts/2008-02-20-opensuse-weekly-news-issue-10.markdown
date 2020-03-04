@@ -13,7 +13,7 @@ categories:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png)
 
-Issue ten of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/10)!
+Issue ten of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/10)!
 
 In this week's issue:
 

@@ -22,7 +22,7 @@ After the first awesome day at #oSC13 and a more exciting night, we're over 200 
 
 Day two kicked off with a keynote (see below) and continued as Friday: people went to the talks,various workshop sessions and hang out and discuss technology in the premises. Throughout the day our conference theme music 'geeko-greeko' played, often resulting in a sing-along. Lunch break at 1 PM was welcomed by everyone. There was a queue for first ordering, later retrieving food and then there was a bit of relative quiet as everyone had food. The conference organization also provided snacks for in between session cravings. A wide selection of very sweet but tasty cookies and cookie-like snacks were always around.
 
-A bit of great news is that video's are beginning to appear on YouTube - [check them out here!](http://www.youtube.com/openSUSEtv)
+A bit of great news is that video's are beginning to appear on YouTube - [check them out here!](//www.youtube.com/openSUSEtv)
 
 [caption id="attachment_16409" align="alignright" width="300"][![Cheers from #osc13](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0605.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0605.jpg) Cheers from #osc13[/caption]
 
@@ -51,7 +51,7 @@ But there is more. We received feedback from the openSUSE community. Looking at 
 The openSUSE release, the product we send out, is stable with a nice, 8 month cycle and 18 months of maintenance and offers a lot of choice. But for some, 18 months is not enough and all the choice can be confusing and create problems in itself.
 
 **Suggestions**
-Based on SUSE's own experiences and the feedback from the community there are a few suggestions Ralf shared. About Factory, Ralf suggested increasing the amount of automated testing and be "more picky" about what goes into the distribution. He also pledged further investment from SUSE and suggested that we should talk about improving our integration process itself as well. About our release we should work at the balance we have between the scope, quality and life cycle of our distribution. Perhaps by focusing on a more restricted set of packages we could increase our life cycle to improve quality. Last but not least, he stressed the importance of transparent governance and an open ecosystem. He made very clear that SUSE does _not_ commercialize openSUSE but he is perfectly happy if other partners, be it commercial or not, come in and try to generate a revenue stream, building on openSUSE and contributing to it. The presentation video is online [here](http://youtu.be/fdroo2JZano).
+Based on SUSE's own experiences and the feedback from the community there are a few suggestions Ralf shared. About Factory, Ralf suggested increasing the amount of automated testing and be "more picky" about what goes into the distribution. He also pledged further investment from SUSE and suggested that we should talk about improving our integration process itself as well. About our release we should work at the balance we have between the scope, quality and life cycle of our distribution. Perhaps by focusing on a more restricted set of packages we could increase our life cycle to improve quality. Last but not least, he stressed the importance of transparent governance and an open ecosystem. He made very clear that SUSE does _not_ commercialize openSUSE but he is perfectly happy if other partners, be it commercial or not, come in and try to generate a revenue stream, building on openSUSE and contributing to it. The presentation video is online [here](//youtu.be/fdroo2JZano).
 
 [![Project Meeting at #osc13](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0331.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0331.jpg)
 
@@ -71,7 +71,7 @@ The team pushing this local conference has now offered to take care of us "Geeko
 **Board meeting**
 There was a big thanks to conf team and sponsors for their contributions and hard work. The board then gave a report on the work done in the last year. They made progress in increased visibility; worked on setting up new/improved ambassador program; and discussed the foundation and money handling. A report on that last point will come. Of course there is always more room for improvement, and the board welcomes feedback. During the Q&A there were questions about the strategic direction of openSUSE as a project, technical developments and discussions that are happening since Ralf's keynote this morning; oSC organization work and involvement of the board.
 
-Find the talks online [here](http://www.youtube.com/openSUSEtv)!
+Find the talks online [here](//www.youtube.com/openSUSEtv)!
 [![Geekos having fun at #oSC13](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0479.jpg)](//news.opensuse.org/wp-content/uploads/2013/07/DSC_0479.jpg)
 
 
@@ -88,7 +88,7 @@ After the conference everyone went for barbeque at a bar next to the venue! Stea
 
 You can find lots of pictures from #oSC13 on [openSUSE Greek Fans](https://www.facebook.com/groups/opensuse.gr/photos/) on facebook or on [G+](https://plus.google.com/u/0/b/113385548251515365143/photos/113385548251515365143/albums). Also on twitter you can follow [@openSUSEConf](https://twitter.com/openSUSEConf) or search for the hashtag [#oSC13](https://twitter.com/search?q=%23oSC13&src=typd).
 
-If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](http://bambuser.com/channel/opensusetv) that is set up in the venue. Also if you have any questions for the presentation you attend online there is an [IRC Channel](http://webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference) set up in order to make your questions.
+If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](//bambuser.com/channel/opensusetv) that is set up in the venue. Also if you have any questions for the presentation you attend online there is an [IRC Channel](//webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference) set up in order to make your questions.
 
 Last but not least we have our local newspaper!
 

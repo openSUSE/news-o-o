@@ -73,7 +73,7 @@ More of GNOME’s core applications have received AppMenu (Application Menu) sup
 ### Reinvented Classic Mode
 
 
-Fallback mode has been dropped in favor of using LLVM on machines without graphics acceleration. But the fans of GNOME 2 have not been abandoned. A new classic mode consisting of several extensions has been added to GNOME. The difference between the new Classic and old Fallback modes is, the former uses GNOME 3 as a basis with all it’s graphics abilities by modifying the user interface via several extensions, giving GNOME 3 the look and feel of GNOME 2. Classic Mode, although not installed by default, is available to be [grabbed from the official repositories](http://software.opensuse.org/package/gnome-shell-classic).
+Fallback mode has been dropped in favor of using LLVM on machines without graphics acceleration. But the fans of GNOME 2 have not been abandoned. A new classic mode consisting of several extensions has been added to GNOME. The difference between the new Classic and old Fallback modes is, the former uses GNOME 3 as a basis with all it’s graphics abilities by modifying the user interface via several extensions, giving GNOME 3 the look and feel of GNOME 2. Classic Mode, although not installed by default, is available to be [grabbed from the official repositories](//software.opensuse.org/package/gnome-shell-classic).
 
 
 ### Improved Online Accounts

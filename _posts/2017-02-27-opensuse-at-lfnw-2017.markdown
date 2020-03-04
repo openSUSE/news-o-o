@@ -32,7 +32,7 @@ openSUSE has been a fixture at LFNW for years; I fondly recall my first LFNW, wh
   * [Richard Brown](https://rootco.de/aboutme/), chairman of the openSUSE board and SUSE QA Technical Lead, who opined "Linuxfest Northwest is such a civilized, enjoyable conference you would be forgiven for mistaking it as Canadian";
 
  	
-  * [Bryan Lunduke](http://lunduke.com/), openSUSE board member and SUSE cheerleader-at-large responded "LinuxFest NW embodies the best of what it means to be a red-blooded American in a tech conference: donuts, burgers, robots, and Free Software";
+  * [Bryan Lunduke](//lunduke.com/), openSUSE board member and SUSE cheerleader-at-large responded "LinuxFest NW embodies the best of what it means to be a red-blooded American in a tech conference: donuts, burgers, robots, and Free Software";
 
  	
   * [Ross Brunson](https://www.linkedin.com/in/rossbrunson), Certification Architect at SUSE , ran a SUSE certification course for free last year;

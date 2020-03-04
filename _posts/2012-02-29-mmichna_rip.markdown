@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-[![](/wp-content/uploads/2012/02/mmichna_geeko.jpg)](http://news.opensuse.org/2012/02/29/mmichna_rip/mmichna_geeko/)Our fellow and long time openSUSE contributor Marco "daemon" Michna has passed away last week.
+[![](/wp-content/uploads/2012/02/mmichna_geeko.jpg)](//news.opensuse.org/2012/02/29/mmichna_rip/mmichna_geeko/)Our fellow and long time openSUSE contributor Marco "daemon" Michna has passed away last week.
 
 He was a friend to many of us, and will be sorely missed.
 

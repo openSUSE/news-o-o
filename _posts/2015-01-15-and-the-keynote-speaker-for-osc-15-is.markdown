@@ -15,17 +15,17 @@ categories:
 
 Who is it?
 
-<!-- more -->[Aaron Seigo](http://en.wikipedia.org/wiki/Aaron_Seigo). The open-source guru confirmed Tuesday that he will provide the keynote speech at oSC15 in The Hague, Netherlands, which happens from May 1 – 4.
+<!-- more -->[Aaron Seigo](//en.wikipedia.org/wiki/Aaron_Seigo). The open-source guru confirmed Tuesday that he will provide the keynote speech at oSC15 in The Hague, Netherlands, which happens from May 1 – 4.
 
 “We are honored and excited to have such an open-source hero like Aaron kicking off our conference,” said Hans de Raad, co-organizer of oSC15. “openSUSE has always been about crossing borders between communities. Aaron's long-time involvement in KDE, Kolab and numerous other projects perfectly align with that vision.”
 
-Aaron has written several articles about dynamics of open-source communities and has been an active participant in many. He is well known in tech media as a conceptual thinker and seasoned developer. He is also a predominate advocate of Linux and,  according to [silicon.com](http://www.silicon.com), is one of the most influential people in IT.
+Aaron has written several articles about dynamics of open-source communities and has been an active participant in many. He is well known in tech media as a conceptual thinker and seasoned developer. He is also a predominate advocate of Linux and,  according to [silicon.com](//www.silicon.com), is one of the most influential people in IT.
 
 
 #### **Speakers**
 
 
-Attendance of the event is steadily growing and oSC15 is still looking for speakers on a wide range of topics. We already have [proposals submitted](http://bit.ly/OSCingit), but need more.
+Attendance of the event is steadily growing and oSC15 is still looking for speakers on a wide range of topics. We already have [proposals submitted](//bit.ly/OSCingit), but need more.
 
 Submit your proposals at [https://events.opensuse.org/conference/osc15](https://events.opensuse.org/conference/osc15)
 

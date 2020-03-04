@@ -26,7 +26,7 @@ We've got some great promotional images for the openSUSE conference. On the righ
 
 [![Folding Tux](https://conference.opensuse.org/assets/img/banners/thumb/tux.png)](https://conference.opensuse.org/assets/img/banners/FoldingTux_oSC14.pdf)
 
-Of course we have our [awesome logo](http://is.gd/dIEkWy), I'm sure you have seen it before. We also have a really nice poster, great for hanging up at events you are going to.
+Of course we have our [awesome logo](//is.gd/dIEkWy), I'm sure you have seen it before. We also have a really nice poster, great for hanging up at events you are going to.
 
 [caption id="attachment_17726" align="alignright" width="192"][![poster, click to see downloads](/wp-content/uploads/2014/03/Poster-oSC14-FinalVersion.png)](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Events/openSUSE%20Conference/2014-oS-Conference/Posters/Final) Click to download posters[/caption]
 

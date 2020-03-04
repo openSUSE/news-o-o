@@ -24,13 +24,13 @@ We are proud to announce that we have just switched our beloved development dist
 
 In the old development model, an army of packagers would shoot new packages and updates to Factory, with a relatively small team of _Factory Maintainers_ taking care of the integration process of all those packages. This often took a long time to stabilize for a release.
 
-In the new “_rolling release_” development model, package submissions cannot go to Factory directly. First they have to prove to be functional and trustworthy in a staging project. Staging projects are projects in our [Open Build Service](https://build.opensuse.org) where groups of submissions are collected, reviewed, compiled and tested with [openQA](http://openqa.opensuse.org). But even after the packages survived the staging project, they don't directly end up in Factory. First all Factory media (e.g. DVDs etc.) are being built and put again through more tests in openQA. The Factory maintainers then decide on the basis of the [Factory-To-Test overview](https://openqa.opensuse.org/tests/overview?distri=opensuse&version=FTT) if the new packages should be published to the users.
+In the new “_rolling release_” development model, package submissions cannot go to Factory directly. First they have to prove to be functional and trustworthy in a staging project. Staging projects are projects in our [Open Build Service](https://build.opensuse.org) where groups of submissions are collected, reviewed, compiled and tested with [openQA](//openqa.opensuse.org). But even after the packages survived the staging project, they don't directly end up in Factory. First all Factory media (e.g. DVDs etc.) are being built and put again through more tests in openQA. The Factory maintainers then decide on the basis of the [Factory-To-Test overview](https://openqa.opensuse.org/tests/overview?distri=opensuse&version=FTT) if the new packages should be published to the users.
 
 ![New Factory Workflow](/wp-content/uploads/2014/07/Factory_workflow_2014.png)
 
 <!-- more -->
 
-This [new Factory development model](http://en.opensuse.org/openSUSE:Factory_development_model) balances responsibility among packagers, testers and end users while putting more emphasis on automated quality assurance. As a result, openSUSE Factory becomes a reliable, always-ready working distribution.
+This [new Factory development model](//en.opensuse.org/openSUSE:Factory_development_model) balances responsibility among packagers, testers and end users while putting more emphasis on automated quality assurance. As a result, openSUSE Factory becomes a reliable, always-ready working distribution.
 
 
 
@@ -52,7 +52,7 @@ With a daily fresh Factory distribution making it easier for those who want to p
 ## Get it while is hot!
 
 
-So there is no excuse not to [give Factory a try](http://en.opensuse.org/openSUSE:Factory_installation) and provide feedback or, if you are not so interested in living on the edge, to help spreading the word: there is a new (old) kid on the Linux Distributions block: **openSUSE Factory**!
+So there is no excuse not to [give Factory a try](//en.opensuse.org/openSUSE:Factory_installation) and provide feedback or, if you are not so interested in living on the edge, to help spreading the word: there is a new (old) kid on the Linux Distributions block: **openSUSE Factory**!
 
 ![factory-tested](/wp-content/uploads/2012/10/factory-tested.png)
 

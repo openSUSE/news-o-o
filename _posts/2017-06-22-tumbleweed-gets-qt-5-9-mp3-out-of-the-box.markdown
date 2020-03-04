@@ -35,7 +35,7 @@ tags:
 - tools
 ---
 
-![](http://www.unixstickers.com/image/cache/data/buttons/png/opensuse%20wo%20type-600x600.png)A total of seven openSUSE Tumbleweed snapshots featuring new software were released this week along with an upgrade to GStreamer that allows for mp3 decoding to work out-of-the box.
+![](//www.unixstickers.com/image/cache/data/buttons/png/opensuse%20wo%20type-600x600.png)A total of seven openSUSE Tumbleweed snapshots featuring new software were released this week along with an upgrade to GStreamer that allows for mp3 decoding to work out-of-the box.
 
 The newest stable Linux Kernel 4.11.6 is also available in the latest Tumbleweed snapshot [20170620](https://lists.opensuse.org/opensuse-factory/2017-06/msg00620.html).
 

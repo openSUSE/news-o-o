@@ -25,4 +25,4 @@ Coding begins officially on May 23rd.
 
 The "midterm" begins on July 6th. We should make sure that students have plenty of feedback going into the midterm period and there are no surprises when we give evaluations.
 
-The midterm evaluation is due on July 13th at 19:00 UTC. For the full timeline, see the [Summer of Code site](http://bit.ly/Ogqh0). We'll try to always provide updates via openSUSE News and the openSUSE Announce mailing list, but it's also up to students and mentors to be familiar with the timeline and to read the appropriate Google mailing lists!
+The midterm evaluation is due on July 13th at 19:00 UTC. For the full timeline, see the [Summer of Code site](//bit.ly/Ogqh0). We'll try to always provide updates via openSUSE News and the openSUSE Announce mailing list, but it's also up to students and mentors to be familiar with the timeline and to read the appropriate Google mailing lists!

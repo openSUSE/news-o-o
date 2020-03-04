@@ -12,9 +12,9 @@ categories:
 - Distribution
 ---
 
-**Milestone 7**, a snapshot of the [openSUSE Factory](http://en.opensuse.org/Factory) “work  in  progress” build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available  for [download](http://software.opensuse.org/developer).
+**Milestone 7**, a snapshot of the [openSUSE Factory](//en.opensuse.org/Factory) “work  in  progress” build, leading up to openSUSE 11.3 release in [July](//en.opensuse.org/Roadmap), is now  available  for [download](//software.opensuse.org/developer).
 
-[M7](http://software.opensuse.org/developer) is the last milestone release, the next release will be RC1 on [June 17th](http://www.suse.de/~coolo/opensuse_11.3/). Now it's time for testing and bugfixing!<!-- more -->
+[M7](//software.opensuse.org/developer) is the last milestone release, the next release will be RC1 on [June 17th](//www.suse.de/~coolo/opensuse_11.3/). Now it's time for testing and bugfixing!<!-- more -->
 
 
 ## openSUSE 11.3 Progress
@@ -83,7 +83,7 @@ We plan to include in openSUSE 11.3 the following highlights:
   * Updated distribution with new upstream packages
 
 
-A detailed list is [available in the wiki](http://wiki.opensuse.org/Product_highlights_11.3).
+A detailed list is [available in the wiki](//wiki.opensuse.org/Product_highlights_11.3).
 
 
 ## Testing! Testing! Testing!
@@ -96,7 +96,7 @@ The following annoyances have already been reported:
 
 
 	
-  * Firefox crashes at start [Bug  #608087](https://bugzilla.novell.com/show_bug.cgi?id=608087) - workaround: update gtk2 to the new  version from the [GNOME  factory repo](http://download.opensuse.org/repositories/GNOME:/Factory/openSUSE_Factory/)
+  * Firefox crashes at start [Bug  #608087](https://bugzilla.novell.com/show_bug.cgi?id=608087) - workaround: update gtk2 to the new  version from the [GNOME  factory repo](//download.opensuse.org/repositories/GNOME:/Factory/openSUSE_Factory/)
 
 	
   * Accessing LVM partitions is not possible - [Bug #598193](https://bugzilla.novell.com/show_bug.cgi?id=598193) "udev deletes device nodes".
@@ -110,6 +110,6 @@ The following annoyances have already been reported:
   * LXDM always start default session [Bug #607868](https://bugzilla.novell.com/show_bug.cgi?id=607868)
 
 
-Please see [http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_7](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_7) for the current list.
+Please see [//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_7](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_7) for the current list.
 
-What are you waiting for? Grab the milestone release from [http://software.opensuse.org/developer](http://software.opensuse.org/developer) today!
+What are you waiting for? Grab the milestone release from [//software.opensuse.org/developer](//software.opensuse.org/developer) today!

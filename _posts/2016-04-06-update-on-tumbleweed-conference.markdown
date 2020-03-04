@@ -39,7 +39,7 @@ Thank you to all the people who submitted designs. There were nine designs submi
 
 The [Travel Support Program (TSP)](https://en.opensuse.org/openSUSE:Travel_Support_Program) provides travel sponsorships to openSUSE community who want to attend the openSUSE conference in Nuremberg June 22 - 26 and need financial assistance. We want everybody there. Even if you think you would not qualify for the travel support, just submit and see what happens. If you don’t try, you won’t know. The application period will be opened from April 18 - May 2. The approval results will be done by May 8. Acceptance must to be done by May 12. In case the requester doesn’t Approve the sponsorship, the amount will be given for the next on the waiting list.
 
-Remember: All requests will be managed through the TSP application at http://connect.opensuse.org/travel-support.
+Remember: All requests will be managed through the TSP application at //connect.opensuse.org/travel-support.
 
 You will need an openSUSE Connect account in order to log in the application and apply for sponsorship. Please be sure to fill in all your personal details on your openSUSE connect account to avoid delays or negative request. A good application with good information will be processed faster.
 

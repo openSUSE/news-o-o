@@ -28,7 +28,7 @@ their proposal ideas on their mailing lists, wikis, etc. However, a
 proposal on a wiki, mailing list, etc. does not constitute an actual
 application for the program; the proposal must be submitted to the
 GSoC 2009 site. While doing review and refinement outside of
-[http://socghop.appspot.com](http://socghop.appspot.com/) is a useful exercise, it doesn't allow us
+[//socghop.appspot.com](//socghop.appspot.com/) is a useful exercise, it doesn't allow us
 to accurately gauge the number of student proposals we're receiving
 for GSoC 2009.
 
@@ -37,7 +37,7 @@ submitted for GSoC 2009 by asking your students to submit their
 proposals to the GSoC 2009 site *now*. They are welcome to link to the
 wiki page, mailing list thread, forum topic, etc. where their
 proposals are under discussion and refinement as part of the proposal
-submission process.[[0](http://socghop.appspot.com/document/show/program/google/gsoc2009/userguide#depth_studentapply)]
+submission process.[[0](//socghop.appspot.com/document/show/program/google/gsoc2009/userguide#depth_studentapply)]
 
 In case folks are wondering, we want to get this data so we can decide
 if it's worthwhile to extend the student application deadline. We're

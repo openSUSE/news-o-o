@@ -18,7 +18,7 @@ tags:
 
 The openSUSE Project is proud to announce the release of openSUSE 11.0 -- everything you need to get started with Linux on the desktop and on the server. Promoting the use of Linux everywhere, the openSUSE Project provides free, easy access to the world's most usable Linux distribution, openSUSE.
 
-The 11.0 release of openSUSE includes more than [200 new features](http://en.opensuse.org/Testing:Features_11.0) specific to openSUSE, a [redesigned installer](http://news.opensuse.org/2008/06/05/sneak-peeks-at-opensuse-110-new-installer-with-stephan-kulow/) that makes openSUSE even easier to install, faster package management thanks to [major updates in the ZYpp stack](http://news.opensuse.org/2008/06/06/sneak-peeks-at-opensuse-110-package-management-with-duncan-mac-vicar/), and [KDE 4](http://news.opensuse.org/2008/06/17/sneak-peeks-at-opensuse-110-kde-with-stephan-binner/), [GNOME 2.22](http://news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/), [Compiz Fusion](http://news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/), and [much more](http://news.opensuse.org/2008/06/19/sneak-peeks-at-opensuse-110-a-plethora-of-improvements/).
+The 11.0 release of openSUSE includes more than [200 new features](//en.opensuse.org/Testing:Features_11.0) specific to openSUSE, a [redesigned installer](//news.opensuse.org/2008/06/05/sneak-peeks-at-opensuse-110-new-installer-with-stephan-kulow/) that makes openSUSE even easier to install, faster package management thanks to [major updates in the ZYpp stack](//news.opensuse.org/2008/06/06/sneak-peeks-at-opensuse-110-package-management-with-duncan-mac-vicar/), and [KDE 4](//news.opensuse.org/2008/06/17/sneak-peeks-at-opensuse-110-kde-with-stephan-binner/), [GNOME 2.22](//news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/), [Compiz Fusion](//news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/), and [much more](//news.opensuse.org/2008/06/19/sneak-peeks-at-opensuse-110-a-plethora-of-improvements/).
 
 
 
@@ -29,7 +29,7 @@ The 11.0 release of openSUSE includes more than [200 new features](http://en.ope
 
 * * *
 
-Whether you use GNOME or KDE, the openSUSE 11.0 desktop is a beautiful experience. Users have the choice of GNOME 2.22, KDE 4, KDE 3.5, Xfce, and more! See the [screenshot page](http://en.opensuse.org/Screenshots/openSUSE_11.0) for a in-depth look at the openSUSE desktop.
+Whether you use GNOME or KDE, the openSUSE 11.0 desktop is a beautiful experience. Users have the choice of GNOME 2.22, KDE 4, KDE 3.5, Xfce, and more! See the [screenshot page](//en.opensuse.org/Screenshots/openSUSE_11.0) for a in-depth look at the openSUSE desktop.
 
 
 
@@ -42,7 +42,7 @@ GNOME users will find a lot to like in openSUSE 11.0. openSUSE's GNOME is very c
 [![GNOME 2.22](/wp-content/uploads/2008/06/800px-os110beta1-gnome0.png)](/wp-content/uploads/2008/06/800px-os110beta1-gnome0.png)
 
 
-GNOME 2.22 in openSUSE 11.0 includes the GNOME Virtual File System (GVFS), with better support for networked file systems, PulseAudio for better sound management, improvements in Evolution and Tomboy, and [much more](http://news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/)!
+GNOME 2.22 in openSUSE 11.0 includes the GNOME Virtual File System (GVFS), with better support for networked file systems, PulseAudio for better sound management, improvements in Evolution and Tomboy, and [much more](//news.opensuse.org/2008/06/18/sneak-peeks-at-opensuse-110-talking-gnome-with-vincent-untz/)!
 
 
 ### KDE 4.0
@@ -66,7 +66,7 @@ Note that KDE 3.5 is still available on the openSUSE DVD for KDE users who aren'
 ### Compiz Fusion
 
 
-The openSUSE desktop is not only a green glorious sight to behold, it's also available in 3-D! Compiz Fusion is now the default in openSUSE 11.0. You'll find a slew of interesting Compiz plugins, as well as easier configuration with Simple CompizConfig Settings Manager (CCSM) and the more comprehensive CompizConfig Settings Manager that allows detailed configuration of your Compiz setup. See the [Sneak Peek](http://news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/) for a detailed look at Compiz Fusion on openSUSE 11.0.
+The openSUSE desktop is not only a green glorious sight to behold, it's also available in 3-D! Compiz Fusion is now the default in openSUSE 11.0. You'll find a slew of interesting Compiz plugins, as well as easier configuration with Simple CompizConfig Settings Manager (CCSM) and the more comprehensive CompizConfig Settings Manager that allows detailed configuration of your Compiz setup. See the [Sneak Peek](//news.opensuse.org/2008/06/07/sneak-peeks-at-opensuse-110-compiz-with-dennis-kasprzyk/) for a detailed look at Compiz Fusion on openSUSE 11.0.
 
 
 [](/wp-content/uploads/2008/06/simple-ccsm.jpeg)[](/wp-content/uploads/2008/06/cube-deform-sphere.jpeg)
@@ -115,7 +115,7 @@ openSUSE 11.0 includes Banshee 1.0. The Banshee media player has been re-written
 ### OpenOffice.org 2.4
 
 
-You can work hard and play hard with openSUSE. If you need a high-quality office suite that's Microsoft Office compatible, look no further than [Novell's OpenOffice.org](http://go-oo.org/discover/) 2.4. This release includes import support for OpenXML, 3-D transitions in Impress, SVG import support, improved performance over standard OpenOffice.org, and better Excel support and VBA macro support.
+You can work hard and play hard with openSUSE. If you need a high-quality office suite that's Microsoft Office compatible, look no further than [Novell's OpenOffice.org](//go-oo.org/discover/) 2.4. This release includes import support for OpenXML, 3-D transitions in Impress, SVG import support, improved performance over standard OpenOffice.org, and better Excel support and VBA macro support.
 
 
 ### NetworkManager 0.7
@@ -149,7 +149,7 @@ NetworkManager has been vastly improved since 10.3, and now includes support for
 
 * * *
 
-openSUSE is now available for [immediate download](http://software.opensuse.org/). The openSUSE 11.0 release brings several new options for installation media, as well as familiar choices:
+openSUSE is now available for [immediate download](//software.opensuse.org/). The openSUSE 11.0 release brings several new options for installation media, as well as familiar choices:
 
 
 
@@ -172,9 +172,9 @@ openSUSE is now available for [immediate download](http://software.opensuse.org/
   * openSUSE 11.0 GNOME 64-bit Live CD
 
 
-You can download openSUSE 11.0 via HTTP, FTP, BitTorrent, and Metalink from [software.openSUSE.org](http://software.openSUSE.org).
+You can download openSUSE 11.0 via HTTP, FTP, BitTorrent, and Metalink from [software.openSUSE.org](//software.openSUSE.org).
 
-You can also [purchase a retail box with openSUSE 11.0](http://en.opensuse.org/Buy_openSUSE) that includes 90-day installation support, physical media, and a printed Getting Started guide.
+You can also [purchase a retail box with openSUSE 11.0](//en.opensuse.org/Buy_openSUSE) that includes 90-day installation support, physical media, and a printed Getting Started guide.
 
 
 ## Communicate
@@ -184,25 +184,25 @@ You can also [purchase a retail box with openSUSE 11.0](http://en.opensuse.org/B
 
 * * *
 
-We want to hear from you! The openSUSE Project has [many channels of communication](http://en.opensuse.org/Communicate):
+We want to hear from you! The openSUSE Project has [many channels of communication](//en.opensuse.org/Communicate):
 
 
 
 	
-  * **Official openSUSE Forums:** [forums.opensuse.org](http://forums.opensuse.org/).
+  * **Official openSUSE Forums:** [forums.opensuse.org](//forums.opensuse.org/).
 
 	
-  * **Mailing Lists:** The openSUSE [mailing lists](http://en.opensuse.org/Communicate/Mailinglists).
+  * **Mailing Lists:** The openSUSE [mailing lists](//en.opensuse.org/Communicate/Mailinglists).
 
 	
-  * **IRC:** [#opensuse](irc://irc.freenode.net/opensuse) on irc.freenode.net and [and other channels](http://en.opensuse.org/Communicate/IRC).
+  * **IRC:** [#opensuse](irc://irc.freenode.net/opensuse) on irc.freenode.net and [and other channels](//en.opensuse.org/Communicate/IRC).
 
 	
-  * Jabber, Usenet, and [more](http://en.opensuse.org/Communicate).
+  * Jabber, Usenet, and [more](//en.opensuse.org/Communicate).
 
 
-To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](http://news.opensuse.org/) and watch [Planet SUSE](http://www.planetsuse.org/) for blog posts from the openSUSE community.
+To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](//news.opensuse.org/) and watch [Planet SUSE](//www.planetsuse.org/) for blog posts from the openSUSE community.
 
-Want to help the openSUSE Project? To get involved with openSUSE see the [How to Participate](http://en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can use [lots of different skills](http://en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the project, so feel free to jump in!
+Want to help the openSUSE Project? To get involved with openSUSE see the [How to Participate](//en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can use [lots of different skills](//en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the project, so feel free to jump in!
 
 All of the contributors who have worked on openSUSE deserve a huge thank you. Without your hard work, this release would not have been possible. openSUSE 11.0 is the best openSUSE release yet, and will help promote the use of Linux everywhere! Now, get openSUSE 11.0 and _have a lot of fun!_

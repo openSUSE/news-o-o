@@ -17,7 +17,7 @@ KDE Frameworks 5.14 release in the TW snapshot added needed functionality with 6
 
 In this last snapshot, HarfBuzz reached its first major version with 1.0.3. According to freedesktop.org, HarfBuzz, an OpenType text shaping engine, was used in the latest versions of Firefox, GNOME, ChromeOS, Chrome, LibreOffice, XeTeX, Android, and KDE, among others.
 
-Other package updates in the 20150924 snapshot can found on the openSUSE [Factory mailing list](http://bit.ly/1P7e84F).
+Other package updates in the 20150924 snapshot can found on the openSUSE [Factory mailing list](//bit.ly/1P7e84F).
 
 Tumbleweed had very few snapshots the past couple weeks, which was due to resources devoted to building the release of the Leap 42.1 Beta as well as some complications to build infrastructure, but new snapshots are forthcoming.
 

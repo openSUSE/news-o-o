@@ -33,11 +33,11 @@ tags:
 - zypper
 ---
 
-![](/wp-content/uploads/2016/08/42-copy.png)Sources from the beta version of [SUSE Linux Enterprise](https://www.suse.com/products/server/) (SLE) Service Pack 3 (SP3) arrived today in the [latest build](http://bit.ly/2pSWlKb) for [openSUSE](https://www.opensuse.org/)’s next minor release of the 42 series.
+![](/wp-content/uploads/2016/08/42-copy.png)Sources from the beta version of [SUSE Linux Enterprise](https://www.suse.com/products/server/) (SLE) Service Pack 3 (SP3) arrived today in the [latest build](//bit.ly/2pSWlKb) for [openSUSE](https://www.opensuse.org/)’s next minor release of the 42 series.
 
 The transition to a rolling development process for [openSUSE Leap 42.3](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.3/) has changed the traditional milestone process, but fixed milestones are alive and well with SLE development and Leap is benefiting from that hardened, enterprise core.
 
-The latest sources from SLE SP3 Beta included in Leap builds are security and bug fixes n SUSEConnect version 0.3.0. Additionally, cpupower updated to a turbostat version with 17.04.12. The shared zypper 1.13.27 version helps to tag packages installed by user request as 'i+'. The beta and Leap build also cleanup an algorithm for rollback snapshots with Snapper 0.5.0. [Ceph](http://ceph.com/)’s  12.0.2 sets higher disk and memory constraints so s390x builds don’t fail. SLE SP3 and Leap also share the same 4.4.68 [Linux Kernel](https://www.kernel.org/), which provides plenty of improvements for architectures and wireless drivers.
+The latest sources from SLE SP3 Beta included in Leap builds are security and bug fixes n SUSEConnect version 0.3.0. Additionally, cpupower updated to a turbostat version with 17.04.12. The shared zypper 1.13.27 version helps to tag packages installed by user request as 'i+'. The beta and Leap build also cleanup an algorithm for rollback snapshots with Snapper 0.5.0. [Ceph](//ceph.com/)’s  12.0.2 sets higher disk and memory constraints so s390x builds don’t fail. SLE SP3 and Leap also share the same 4.4.68 [Linux Kernel](https://www.kernel.org/), which provides plenty of improvements for architectures and wireless drivers.
 
 Yast2-installation moved Container as a Service Platform to yast2-caasp package and added a features request, which added Network Time Protocol Servers settings to the overview dialog.
 
@@ -47,7 +47,7 @@ Community packages differing from SLE SP 3 Beta that testers can find in Leap ar
 
 There are only a few more days left to get any major version updates in the next minor Leap 42 version. All major version updates have a submission deadline of May 21.
 
-Leap 42.3 builds have been coming out on a regular basis with new community packages being updated in the newest builds. Testers are encouraged to test the rolling development and can download the iso image from the development button on [software.opensuse.org](http://software.opensuse.org). After installing Leap, testers can enter the terminal and enter [zypper update](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf) for the newest Leap 42.3 packages.
+Leap 42.3 builds have been coming out on a regular basis with new community packages being updated in the newest builds. Testers are encouraged to test the rolling development and can download the iso image from the development button on [software.opensuse.org](//software.opensuse.org). After installing Leap, testers can enter the terminal and enter [zypper update](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf) for the newest Leap 42.3 packages.
 
 Don't forget to [report bugs](https://en.opensuse.org/openSUSE:Submitting_bug_reports) if you find one.
 

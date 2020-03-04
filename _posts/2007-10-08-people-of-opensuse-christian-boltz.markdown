@@ -50,7 +50,7 @@ This week we interviewed Christian Boltz, one of the most active openSUSE develo
 <td >**Homepage: **
 </td>
 
-<td >[www.cboltz.de](http://www.cboltz.de/) also available in English: [www.cboltz.de/en/](http://www.cboltz.de/en/) (yes, I should add a language selector one day)
+<td >[www.cboltz.de](//www.cboltz.de/) also available in English: [www.cboltz.de/en/](//www.cboltz.de/en/) (yes, I should add a language selector one day)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ This week we interviewed Christian Boltz, one of the most active openSUSE develo
 <td >**Blog:**
 </td>
 
-<td >[http://blog.cboltz.de](http://blog.cboltz.de/)
+<td >[//blog.cboltz.de](//blog.cboltz.de/)
 </td>
 
 <td >
@@ -124,16 +124,16 @@ However I don't have a strong preference, I also like the other seasons.
 
 My name is Christian Boltz. I live in Insheim, Germany. I'm a single and have no pets (except a stuffed geeko and tux). I won't tell you my birthday, but you might be interested in the fact that my home network uses the easy-to-remember IPs in the 10.12.80.* range ;-)
 
-I'm a wine-grower and master of about 60,000 grapevines - that means enough work all-year-round for me and my parents. Though I don't make my own wine, just sell the grapes to the [Deutsches Weintor](http://www.weintor.de), an agricultural cooperative society who presses the grapes and makes wine.
+I'm a wine-grower and master of about 60,000 grapevines - that means enough work all-year-round for me and my parents. Though I don't make my own wine, just sell the grapes to the [Deutsches Weintor](//www.weintor.de), an agricultural cooperative society who presses the grapes and makes wine.
 
 Besides that, I create websites (handwritten HTML/PHP and Typo3) and setup and maintain some webservers (running openSUSE of course) as a second job.
 
 My hobbies are mostly computer related:
 - openSUSE (see below)
-- [Fontlinge](http://fontlinge.sourceforge.net), a tool to manage large font collections
-- [Postfixadmin](http://sourceforge.net/projects/postfixadmin/)
+- [Fontlinge](//fontlinge.sourceforge.net), a tool to manage large font collections
+- [Postfixadmin](//sourceforge.net/projects/postfixadmin/)
 
-I'm active in the [Landjugend Insheim](http://www.landjugend-insheim.de) (land youth Insheim) - we organized a soap box race, a 24 hour public grilling, a wine festival and several internal events this year. I'm also the webmaster of the land youth homepage.
+I'm active in the [Landjugend Insheim](//www.landjugend-insheim.de) (land youth Insheim) - we organized a soap box race, a 24 hour public grilling, a wine festival and several internal events this year. I'm also the webmaster of the land youth homepage.
 
 Oh, and around christmas, I also play some songs on the keyboard.
 
@@ -209,7 +209,7 @@ I want to make openSUSE better for everybody (including me, because I use it dai
 
 I'd say my most important contribution are bug reports - I filed about 600 bugs (not counting Action Items) since SuSE Linux 9.2.
 
-About a year ago, I wrote a "best of" in my blog: "[404 mal anders](http://blog.cboltz.de/archives/13-404-mal-anders.html)". Even if you don't understand German, you can have a look at the nicely decorated handbook (handbug?) of 9.2 with a paperclip at each error in the shell chapter. I can tell you that bugreporting can really be fun sometimes...
+About a year ago, I wrote a "best of" in my blog: "[404 mal anders](//blog.cboltz.de/archives/13-404-mal-anders.html)". Even if you don't understand German, you can have a look at the nicely decorated handbook (handbug?) of 9.2 with a paperclip at each error in the shell chapter. I can tell you that bugreporting can really be fun sometimes...
 
 
 
@@ -466,7 +466,7 @@ Well, I even missed the last openSUSE project meeting while sitting in front of 
 #### Show us a picture of something, you have always wanted to share!
 
 
-Just take a look at the [Landjugend Insheim gallery](http://www.Landjugend-Insheim.de/galerie_os.html)...
+Just take a look at the [Landjugend Insheim gallery](//www.Landjugend-Insheim.de/galerie_os.html)...
 
 
 

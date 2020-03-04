@@ -59,4 +59,4 @@ The sessions at the conference are streamed live. You can find the feeds [on bam
 
 For those at the event: don't forget to return the food card and pay so you get something to eat today, tomorrow and on Sunday!
 
-And a reminder: the conference party on Sunday evening starts at 7:00 P.M. (19:00) at the [EastWest Pub](http://ew-dubrovnik.com/), which is located right at the beach at Frana Supila 4. The pub is just south of the old town and it takes about 15 to 20 minutes to walk there from the venue. [On the way](http://goo.gl/maps/yUoGN) you will pass Sesame where everything starts on Thursday evening.
+And a reminder: the conference party on Sunday evening starts at 7:00 P.M. (19:00) at the [EastWest Pub](//ew-dubrovnik.com/), which is located right at the beach at Frana Supila 4. The pub is just south of the old town and it takes about 15 to 20 minutes to walk there from the venue. [On the way](//goo.gl/maps/yUoGN) you will pass Sesame where everything starts on Thursday evening.

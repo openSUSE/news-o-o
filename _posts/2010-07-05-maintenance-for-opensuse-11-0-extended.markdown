@@ -16,4 +16,4 @@ openSUSE 11.0 was released on 19th of June 2008 and was planned to be under sec
 
 
 
-We will stop handling new requests at that day and plan to finish with the last update on July 21st 2010 to assure that openSUSE 11.0 users have a smooth upgrade path to openSUSE 11.3. Special thanks to [Dirk Mueller](http://en.opensuse.org/User:Dirkmueller) who innitiated this.
+We will stop handling new requests at that day and plan to finish with the last update on July 21st 2010 to assure that openSUSE 11.0 users have a smooth upgrade path to openSUSE 11.3. Special thanks to [Dirk Mueller](//en.opensuse.org/User:Dirkmueller) who innitiated this.

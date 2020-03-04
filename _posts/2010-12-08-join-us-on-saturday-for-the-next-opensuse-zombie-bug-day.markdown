@@ -11,13 +11,13 @@ categories:
 - Events
 ---
 
-On Saturday the 27th of November a Bug Day was organized to [solve the issue with Zombie bugs](http://news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/), bugs against old, non-maintained versions of openSUSE. A team got together in the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode network](http://freenode.net) to review the bugs for any important and still valid information, otherwise closing them to clean up [bugzilla](http://bugzilla.novell.com).
+On Saturday the 27th of November a Bug Day was organized to [solve the issue with Zombie bugs](//news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/), bugs against old, non-maintained versions of openSUSE. A team got together in the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode network](//freenode.net) to review the bugs for any important and still valid information, otherwise closing them to clean up [bugzilla](//bugzilla.novell.com).
 
 
 ## <!-- more -->Results
 
 
-The outcome has been [awesome](http://lists.opensuse.org/opensuse-project/2010-11/msg00205.html):
+The outcome has been [awesome](//lists.opensuse.org/opensuse-project/2010-11/msg00205.html):
 
 
 
@@ -78,15 +78,15 @@ Here is what you need to participate:
 
 
 	
-  * A recent version of [openSUSE like 11.3](http://software.opensuse.org/) or a [milestone of 11.4](http://software.opensuse.org/developer). It's of course okay to run openSUSE in a virtual machine.
+  * A recent version of [openSUSE like 11.3](//software.opensuse.org/) or a [milestone of 11.4](//software.opensuse.org/developer). It's of course okay to run openSUSE in a virtual machine.
 
 	
-  * An [IRC](http://www.irchelp.org/) client to interact with the other participants
+  * An [IRC](//www.irchelp.org/) client to interact with the other participants
 
 	
   * Good mood :-)
 
 
-But the most important thing that you should know is that everybody can help: just join us and we'll guide you, even if you only have 30 minutes of free time! A small team will organize the event by providing lists of bugs, and will be available to guide new contributors if needed. So it will be easy to help, you just have to come to the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode](http://freenode.net) network at Saturday!
+But the most important thing that you should know is that everybody can help: just join us and we'll guide you, even if you only have 30 minutes of free time! A small team will organize the event by providing lists of bugs, and will be available to guide new contributors if needed. So it will be easy to help, you just have to come to the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode](//freenode.net) network at Saturday!
 
 The team had a lot of fun last time, so be sure to join them and help out!

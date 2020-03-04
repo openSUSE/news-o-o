@@ -59,6 +59,6 @@ Basic word stemming is available for the more common languages (English, German,
 
 For now, the index will be rebuilt once a day, which means changes should show up in the search within 24 hours.  After some performance review, indexing will probably start happening more frequently.
 
-Many thanks to [Robert StojniÇ](http://www.mediawiki.org/wiki/User:Rainman) for creating such a fantastic search engine and for his personal assistance on a technical issue I had while implementing it.
+Many thanks to [Robert StojniÇ](//www.mediawiki.org/wiki/User:Rainman) for creating such a fantastic search engine and for his personal assistance on a technical issue I had while implementing it.
 
 As usual, problems should be directed to webmaster@opensuse.org or the wiki mailing list.  Thanks!

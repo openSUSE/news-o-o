@@ -54,7 +54,7 @@ Registration is and will continue to be open until the event starts and we urge 
 
 **And remember:** you can support oSC13 by purchasing supporter tickets ($50) or professional tickets ($250) during registration. Funds from these ticket sales are a very important part of the budget for the overall conference!
 
-[![ChameleonBustPosterDraft](//news.opensuse.org/wp-content/uploads/2013/01/ChameleonBust_white.png)](http://conference.opensuse.org)
+[![ChameleonBustPosterDraft](//news.opensuse.org/wp-content/uploads/2013/01/ChameleonBust_white.png)](//conference.opensuse.org)
 
 
 ## Power to the Geeko!

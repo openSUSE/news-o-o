@@ -11,7 +11,7 @@ categories:
 - Weekly News
 ---
 
-![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #61 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/61)!  
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #61 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/61)!  
   
 
 In this week’s issue:
@@ -32,15 +32,15 @@ In this week’s issue:
 
 The openSUSE Weekly News is available in: 
 
-[German](http://de.opensuse.org/OpenSUSE-Wochenschau/61),
-[Hungarian](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/61), 
-[Indonesian](http://en.opensuse.org/OpenSUSE_Weekly_News/61/indonesian),
-[Italian](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/61) (delay),
-[Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/61),
-[Polish](http://pl.opensuse.org/Tygodnik_openSUSE/61) (delay), 
-[Portuguese](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/61),
-[Russian](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/61),
-[French](http://fr.opensuse.org/Lettre_d'information_openSUSE/61),
-[Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/61) (delay) and
-[Chinese](http://en.opensuse.org/OpenSUSE_Weekly_News/61/chinese) .
+[German](//de.opensuse.org/OpenSUSE-Wochenschau/61),
+[Hungarian](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/61), 
+[Indonesian](//en.opensuse.org/OpenSUSE_Weekly_News/61/indonesian),
+[Italian](//it.opensuse.org/OpenSUSE_Newsletter_Settimanale/61) (delay),
+[Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/61),
+[Polish](//pl.opensuse.org/Tygodnik_openSUSE/61) (delay), 
+[Portuguese](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/61),
+[Russian](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/61),
+[French](//fr.opensuse.org/Lettre_d'information_openSUSE/61),
+[Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/61) (delay) and
+[Chinese](//en.opensuse.org/OpenSUSE_Weekly_News/61/chinese) .
  Ibm ibm certified specialist exam dumps pdf questions study material provide you best quality ibm ibm midrange storage sales v3 exam to help you [proessaywriting.org/](https://proessaywriting.org) pass the and be a c9020-560 ibm certified specialist certified professional

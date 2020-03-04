@@ -12,9 +12,9 @@ categories:
 - Project
 ---
 
-![](/wp-content/uploads/2011/02/promo_dvd.png)One of the easiest things to do to contribute to the free and open source movement and the openSUSE Project is to exercise your second free software freedom: [The freedom to redistribute copies so you can help your neighbor.](http://www.gnu.org/philosophy/free-sw.html)
+![](/wp-content/uploads/2011/02/promo_dvd.png)One of the easiest things to do to contribute to the free and open source movement and the openSUSE Project is to exercise your second free software freedom: [The freedom to redistribute copies so you can help your neighbor.](//www.gnu.org/philosophy/free-sw.html)
 
-To be able to do this comfortably the openSUSE Project, with the help of its [sponsors](http://en.opensuse.org/Sponsors), produces special promotional DVDs that contain live versions of both the KDE and GNOME desktops to try and which can also be used to install the a complete system. Those DVDs are perfect for introducing people to Linux and openSUSE. The openSUSE version included, [11.3](http://en.opensuse.org/Portal:11.3), has all the qualities a newcomer wants. It's a mature multi-purpose Linux operating system widespread among the free and open source software community for great user to user support. It comes with more with than 1,000 open source desktop applications, a full suite of server software and a rich selection of open source development tools.
+To be able to do this comfortably the openSUSE Project, with the help of its [sponsors](//en.opensuse.org/Sponsors), produces special promotional DVDs that contain live versions of both the KDE and GNOME desktops to try and which can also be used to install the a complete system. Those DVDs are perfect for introducing people to Linux and openSUSE. The openSUSE version included, [11.3](//en.opensuse.org/Portal:11.3), has all the qualities a newcomer wants. It's a mature multi-purpose Linux operating system widespread among the free and open source software community for great user to user support. It comes with more with than 1,000 open source desktop applications, a full suite of server software and a rich selection of open source development tools.
 
 ![](/wp-content/uploads/2010/09/explore1.png)
 

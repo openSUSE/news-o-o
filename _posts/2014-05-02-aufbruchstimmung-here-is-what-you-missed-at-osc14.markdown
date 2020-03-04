@@ -40,7 +40,7 @@ The sessions were divided in a number of tracks, including:
 
 
 
-The event was streamed on [bambuser](http://bambuser.com/) and we had over 13,000 views! All sessions were encoded and uploaded just a couple of hours after the last workshop came to a close on Monday to the [opensusetv channel on YouTube](http://tinyurl.com/osc14youtube). With 50 sessions all of those that missed out on oSC14 have plenty to watch and you can start right now if you want!
+The event was streamed on [bambuser](//bambuser.com/) and we had over 13,000 views! All sessions were encoded and uploaded just a couple of hours after the last workshop came to a close on Monday to the [opensusetv channel on YouTube](//tinyurl.com/osc14youtube). With 50 sessions all of those that missed out on oSC14 have plenty to watch and you can start right now if you want!
 
 
 
@@ -72,7 +72,7 @@ On Sunday morning, the Board chaired a townhall meeting where the conversation t
 #### Strategy and Focus
 
 
-With openSUSE having gone through a rough patch lately, related to a stranded 'strategy' discussion, the attendees debated what it really is that openSUSE, as a project, needs. A widely shared conclusion was that _everybody always needs everything_. A ruby hacker might want a good Ruby stack. But then, Apache has to work, too, and so does MySQL. Go on and it turns out you need it all. coolo [explain this just perfectly here](http://youtu.be/kP85sUpideM?t=36m20s).
+With openSUSE having gone through a rough patch lately, related to a stranded 'strategy' discussion, the attendees debated what it really is that openSUSE, as a project, needs. A widely shared conclusion was that _everybody always needs everything_. A ruby hacker might want a good Ruby stack. But then, Apache has to work, too, and so does MySQL. Go on and it turns out you need it all. coolo [explain this just perfectly here](//youtu.be/kP85sUpideM?t=36m20s).
 
 'Focus' on a distro-wide level is something that we do not want to dictate or pursue. Rather, we believe that the current model in which various teams focus on their interests provides the best approach for openSUSE. For example the various desktops are all well integrated and all desktop teams focus on providing a great "end user" experience. As such we want to continue to encourage the different teams in openSUSE to set clear directions and goals for themselves, something that allows potential new contributors to find out what speaks to them most and join that effort.
 

@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-The openSUSE Project is pleased to announce the release of the [openSUSE Trademark Guidelines](http://en.opensuse.org/Image:OpenSUSE_Trademark_Guidelines.pdf) (PDF). With the guidelines, the openSUSE Project is looking to clarify the use of the openSUSE marks and make it easier to redistribute openSUSE-based projects.
+The openSUSE Project is pleased to announce the release of the [openSUSE Trademark Guidelines](//en.opensuse.org/Image:OpenSUSE_Trademark_Guidelines.pdf) (PDF). With the guidelines, the openSUSE Project is looking to clarify the use of the openSUSE marks and make it easier to redistribute openSUSE-based projects.
 
 Since it's easier than ever to create customized versions of openSUSE, we've seen a lot of interest in the branding of derivative distros. When is it OK to call a distro "openSUSE," or "powered by openSUSE," and when does the branding need to be removed entirely? The guidelines are an attempt to answer as many of those questions as possible in one concise document.
 

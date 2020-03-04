@@ -113,7 +113,7 @@ The next openSUSE release, openSUSE 11.1, should be out in December of this year
 
 **openSUSE News**: KDE 4.0.4 is the default KDE desktop in openSUSE. What made you decide to make it the default, instead of the more stable KDE 3.5.9?
 
-**Stephan Binner**: There is no default desktop on openSUSE: during installation from DVD you are [asked to make a choice](http://en.opensuse.org/Image:OS11.0-inst-6.jpg) — without default. If you use one of the installable live CDs you make the choice before the download of course.
+**Stephan Binner**: There is no default desktop on openSUSE: during installation from DVD you are [asked to make a choice](//en.opensuse.org/Image:OS11.0-inst-6.jpg) — without default. If you use one of the installable live CDs you make the choice before the download of course.
 
 Admitted, there exists no official live CD with KDE 3.5 (maybe someone from the community will create it?) because of resource constraints, and because we want to push people to try our KDE 4.0 based desktop. Also we want and need user feedback for the actively developed KDE series.
 
@@ -129,7 +129,7 @@ We put quite some effort into adding or back-porting features and polishing Plas
 
 **openSUSE News**: Could you describe in how KDE will evolve in KDE 4.1?
 
-**Stephan Binner**: Regarding the desktop KWin gains new effects and Plasma matures with introducing amongst other things a graphical way to configure panel layouts, a [new approach to handle files on the desktop](http://blog.lydiapintscher.de/2008/06/14/folderview-is-the-awesome/) and a more powerful "Run Command" dialog. To learn about new features of each application best have a look at the [KDE 4.1 Feature Plan](http://techbase.kde.org/Schedules/KDE4/4.1_Feature_Plan) and try our [KDE 4.1 Beta packages in the Build Service](http://en.opensuse.org/KDE4#Installation) or my [KDE Four Live](http://home.kde.org/%7Ebinner/kde-four-live/) CDs.
+**Stephan Binner**: Regarding the desktop KWin gains new effects and Plasma matures with introducing amongst other things a graphical way to configure panel layouts, a [new approach to handle files on the desktop](//blog.lydiapintscher.de/2008/06/14/folderview-is-the-awesome/) and a more powerful "Run Command" dialog. To learn about new features of each application best have a look at the [KDE 4.1 Feature Plan](//techbase.kde.org/Schedules/KDE4/4.1_Feature_Plan) and try our [KDE 4.1 Beta packages in the Build Service](//en.opensuse.org/KDE4#Installation) or my [KDE Four Live](//home.kde.org/%7Ebinner/kde-four-live/) CDs.
 
 Several new applications will become part of the KDE 4.1 release: kdepim 4.1 (Kontact & Co), a multimedia player (dragonplayer), a hex editor (okteta), a system log viewer (ksystemlog) and several games. You may notice that several of those are already included in openSUSE 11.0.
 

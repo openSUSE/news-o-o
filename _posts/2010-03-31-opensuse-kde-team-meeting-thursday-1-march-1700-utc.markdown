@@ -14,9 +14,9 @@ wordpress_id: 3109
 
 The next openSUSE KDE Team Meeting will take place tomorrow, 2010-04-01 Time: 1700 UTC
 
-The date and time in your timezone: http://www.timeanddate.com/worldclock/fixedtime.html?day=1&month=4&year=2010&hour=17&min=0&sec=0&p1=0|
+The date and time in your timezone: //www.timeanddate.com/worldclock/fixedtime.html?day=1&month=4&year=2010&hour=17&min=0&sec=0&p1=0|
 
-Further items are welcome; please add them http://en.opensuse.org/KDE/Meetings
+Further items are welcome; please add them //en.opensuse.org/KDE/Meetings
 
 
 
@@ -43,9 +43,9 @@ For discussion this week:
   * Q&A, misc
 
 
-Further items are welcome; please add them http://en.opensuse.org/KDE/Meetings
+Further items are welcome; please add them //en.opensuse.org/KDE/Meetings
 
-Please use [the world clock](http://www.timeanddate.com/worldclock/fixedtime.html?day=1&month=4&year=2010&hour=17&min=0&sec=0&p1=0|) to get the time of the meeting in your time zone.
+Please use [the world clock](//www.timeanddate.com/worldclock/fixedtime.html?day=1&month=4&year=2010&hour=17&min=0&sec=0&p1=0|) to get the time of the meeting in your time zone.
 
 The meeting will take place in #opensuse-kde IRC channel on irc.freenode.net
 

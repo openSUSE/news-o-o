@@ -22,7 +22,7 @@ To prepare for oSC19, there are a few things to know before going.
 #### Money
 
 
-See what the Euro conversion rate is at [http://www.xe.com/currencyconverter/](http://www.xe.com/currencyconverter/). Keep your receipt when you convert money; you can get the same rate when you return to the same exchange where you converted the money into euros.
+See what the Euro conversion rate is at [//www.xe.com/currencyconverter/](//www.xe.com/currencyconverter/). Keep your receipt when you convert money; you can get the same rate when you return to the same exchange where you converted the money into euros.
 
 
 #### Arriving
@@ -48,7 +48,7 @@ There are several different public transportation passes you can get during the 
 #### Parking
 
 
-For those of you who drive, please note that you will need to park in a parking garage when downtown. A map at [http://www.parkhaus-nuernberg.de/parkhaeuser/kartenansicht.html](http://www.parkhaus-nuernberg.de/parkhaeuser/kartenansicht.html) shows all the parkhaus in Nuremberg. Parking at the Z-Bau is free. If you want to park the car there overnight and take public transportation, that is probably your best option.
+For those of you who drive, please note that you will need to park in a parking garage when downtown. A map at [//www.parkhaus-nuernberg.de/parkhaeuser/kartenansicht.html](//www.parkhaus-nuernberg.de/parkhaeuser/kartenansicht.html) shows all the parkhaus in Nuremberg. Parking at the Z-Bau is free. If you want to park the car there overnight and take public transportation, that is probably your best option.
 
 
 #### Plugs / Power
@@ -62,4 +62,4 @@ There will be power at oSC19, but to make sure you can power your electronics, y
 #### Pre-conference Party
 
 
-A pre-conference party is planned for May 23 at the[ Kater Murr](http://kater-murr.com/) at 7 p.m.
+A pre-conference party is planned for May 23 at the[ Kater Murr](//kater-murr.com/) at 7 p.m.

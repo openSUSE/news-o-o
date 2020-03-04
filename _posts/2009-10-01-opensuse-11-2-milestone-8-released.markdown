@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-The openSUSE Project is happy to announce that the last openSUSE 11.2 Milestone  8 (M8) is [available for download](http://software.opensuse.org/developer). _Test now and give feedback via our [bugzilla](https://bugzilla.novell.com/enter_bug.cgi?classification=All&product=openSUSE%2011.2&submit=submit&cv_foundby=Development&format=guided) since this is the last milestone before the first release candidate._
+The openSUSE Project is happy to announce that the last openSUSE 11.2 Milestone  8 (M8) is [available for download](//software.opensuse.org/developer). _Test now and give feedback via our [bugzilla](https://bugzilla.novell.com/enter_bug.cgi?classification=All&product=openSUSE%2011.2&submit=submit&cv_foundby=Development&format=guided) since this is the last milestone before the first release candidate._
 
 <!-- more -->
 **Changes Since openSUSE 11.2 Milestone 7
@@ -44,9 +44,9 @@ Milestone 8 includes the final version of the openSUSE 11.2 branding, fixes the 
   * postgresql 8.4.1
 
 
-A more complete list can be found on [the wiki](http://en.opensuse.org/Factory/News) and an updated list of Factory packages can be found on [DistroWatch](http://distrowatch.com/table.php?distribution=suse).
+A more complete list can be found on [the wiki](//en.opensuse.org/Factory/News) and an updated list of Factory packages can be found on [DistroWatch](//distrowatch.com/table.php?distribution=suse).
 
-11.2 is looking fantastic. Want screenshots? We've got 'em! Check out the shots [here](http://en.opensuse.org/Screenshots/11.2_Milestones), and/or add your own.
+11.2 is looking fantastic. Want screenshots? We've got 'em! Check out the shots [here](//en.opensuse.org/Screenshots/11.2_Milestones), and/or add your own.
 
 **Most Annoying Bugs**
 
@@ -82,17 +82,17 @@ As this is a milestone release, 11.2 M8 does contain a few bugs that we know abo
   * [Bug 537343](https://bugzilla.novell.com/show_bug.cgi?id=537343) - GNOME Live system asks for root password to mount file system after installation, work-around: just "Cancel"
 
 
-You can track the Most Annoying Bugs on the [wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.2_dev) along with 11.2 development.
+You can track the Most Annoying Bugs on the [wiki](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.2_dev) along with 11.2 development.
 
 **Testing! Testing! Testing!**
 
 As you can see, 11.2 M8 does have a few bugs that we know about and therefore may not be suitable for production systems -- but there may be more lurking somewhere in the release that haven't been found yet. If you want to make sure 11.2 final is free of Most Annoying Bugs, we'll need your help finding, reporting, and fixing those hidden bugs.
 
-To learn more about testing openSUSE, visit the [Testing](http://en.opensuse.org/Testing/) pages on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
+To learn more about testing openSUSE, visit the [Testing](//en.opensuse.org/Testing/) pages on the openSUSE wiki. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
 **Get Milestone 8 Today!**
 
-What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](http://software.opensuse.org/developer/) now.
+What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](//software.opensuse.org/developer/) now.
 
 Note, if you need to try the live CD on a machine with no CD-ROM drive, you can copy it to a USB key with the following command:
 
@@ -104,4 +104,4 @@ Replace "image.iso" with the name of the ISO image that you have downloaded, and
 
 **Outlook**
 
-The next release is scheduled for October 15, 2009. It will be the first of two release candidates (RC)  with the final release on November 12, 2009. See the detailed roadmap on the [on the wiki](http://en.opensuse.org/Roadmap/11.2).
+The next release is scheduled for October 15, 2009. It will be the first of two release candidates (RC)  with the final release on November 12, 2009. See the detailed roadmap on the [on the wiki](//en.opensuse.org/Roadmap/11.2).

@@ -12,8 +12,8 @@ categories:
 - Distribution
 ---
 
-![release counter](http://counter.opensuse.org/small.png)
-As was already [blogged by Vincent Untz](http://www.vuntz.net/journal/post/2011/10/24/openSUSE-12.1-RC1-is-out%2C-with-GNOME-3.2.1), a few weeks after our [last milestone was released as beta 1](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/), the first Release Candidate of [openSUSE 12.1](http://en.opensuse.org/Portal:12.1") is now floating over the web!
+![release counter](//counter.opensuse.org/small.png)
+As was already [blogged by Vincent Untz](//www.vuntz.net/journal/post/2011/10/24/openSUSE-12.1-RC1-is-out%2C-with-GNOME-3.2.1), a few weeks after our [last milestone was released as beta 1](//news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/), the first Release Candidate of [openSUSE 12.1](//en.opensuse.org/Portal:12.1") is now floating over the web!
 
 
 
@@ -31,13 +31,13 @@ But we also have some really unique treats. The coolest among those is Snapper, 
 
 The changes in underlying boot technology, the new tools like Snapper as well as the rest of the operating system  need a good workout for the release! So now we need YOUR help! Go to the download page and grab your copy of openSUSE 12.1 RC1 and test it on your desktop, in a VM or on a laptop!
 
-You can find information on testing on the [openSUSE Testing wiki page](http://en.opensuse.org/openSUSE:Testing) which also includes a link to the [most annoying 12.1 bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.1_dev). Help us shorten that list by re-testing the problematic areas or by fixing the bugs; or help us find new pressing issues!
+You can find information on testing on the [openSUSE Testing wiki page](//en.opensuse.org/openSUSE:Testing) which also includes a link to the [most annoying 12.1 bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.1_dev). Help us shorten that list by re-testing the problematic areas or by fixing the bugs; or help us find new pressing issues!
 
-Get openSUSE 12.1 RC1 from [this page](http://software.opensuse.org/developer/).
+Get openSUSE 12.1 RC1 from [this page](//software.opensuse.org/developer/).
 
 
 
 ## More information and other helping-out
 
 
-The [openSUSE 12.1 Portal page](http://en.opensuse.org/Portal:12.1) has been set up but still needs quite some work. There are [screenshots to be taken](http://en.opensuse.org/Screenshots_12.1), [release notes to be written](http://en.opensuse.org/openSUSE:Upcoming_features#release_notes) and [Documentation to be composed](http://en.opensuse.org/openSUSE:Documentation_Contribute). We also welcome help with [translation](http://en.opensuse.org/openSUSE:Localization_guide)!
+The [openSUSE 12.1 Portal page](//en.opensuse.org/Portal:12.1) has been set up but still needs quite some work. There are [screenshots to be taken](//en.opensuse.org/Screenshots_12.1), [release notes to be written](//en.opensuse.org/openSUSE:Upcoming_features#release_notes) and [Documentation to be composed](//en.opensuse.org/openSUSE:Documentation_Contribute). We also welcome help with [translation](//en.opensuse.org/openSUSE:Localization_guide)!

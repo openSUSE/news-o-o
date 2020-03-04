@@ -43,6 +43,6 @@ Namely:
 
 [caption id="attachment_20218" align="aligncenter" width="362"][![Tampakrap painting on our whiteboard](/wp-content/uploads/2016/12/DSC_2310.jpg)](/wp-content/uploads/2016/12/DSC_2310.jpg) Tampakrap painting on our whiteboard[/caption]
 
-We ended up in a short discussion about "how do we monitor all that stuff" - and if we might use Salt also for intrusion detection. Even if we finally end up on the [Nuremberg Christmas Market](http://www.christkindlesmarkt.de/en/) this evening: be sure that we will continue the discussions about "Crowbar", "SDN", "Thruk", "GitLab", .... (at least until we got enough hot spiced wine ;-)
+We ended up in a short discussion about "how do we monitor all that stuff" - and if we might use Salt also for intrusion detection. Even if we finally end up on the [Nuremberg Christmas Market](//www.christkindlesmarkt.de/en/) this evening: be sure that we will continue the discussions about "Crowbar", "SDN", "Thruk", "GitLab", .... (at least until we got enough hot spiced wine ;-)
 
 

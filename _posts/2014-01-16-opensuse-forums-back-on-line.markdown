@@ -22,7 +22,7 @@ categories:
 
 openSUSE has used vBullentin forum software for a very long time. While we haven't always been happy with it, the issues never prompted us to put in the (substantial!) time and effort required to move to another solution.
 
-On January 7, 2014, we received word from [The Hacker News](http://thehackernews.com) that our public forums were compromised and defaced by a cracker exploiting a zero day flaw in the underlying vBulletin forum software (vBulletin 4.2.1). A Pakistani cracker has claimed responsibility. According to The Hacker News, the cracker confirmed that he/she uploaded a PHP shell to the openSUSE Forum server using a private vBulletin’s zero-day exploit, that allows him/her to browse, read or overwrite any file on the Forum server without root privileges.
+On January 7, 2014, we received word from [The Hacker News](//thehackernews.com) that our public forums were compromised and defaced by a cracker exploiting a zero day flaw in the underlying vBulletin forum software (vBulletin 4.2.1). A Pakistani cracker has claimed responsibility. According to The Hacker News, the cracker confirmed that he/she uploaded a PHP shell to the openSUSE Forum server using a private vBulletin’s zero-day exploit, that allows him/her to browse, read or overwrite any file on the Forum server without root privileges.
 
 
 
@@ -36,10 +36,10 @@ The cracker claimed he had accessed almost 80.000 openSUSE Forum users' password
 ### Forums down
 
 
-As [Matthew Ehle told infoworld.com](http://www.infoworld.com/d/security/opensuse-forums-hack-raises-vbulletin-zero-day-exploit-possibility-233849), the openSUSE admin team believes the crackers' claim that a zero-day exploit was used. The openSUSE Forums were one patch behind the current release but the change/release log of the latest patch does not indicate it would have prevented this attack.
+As [Matthew Ehle told infoworld.com](//www.infoworld.com/d/security/opensuse-forums-hack-raises-vbulletin-zero-day-exploit-possibility-233849), the openSUSE admin team believes the crackers' claim that a zero-day exploit was used. The openSUSE Forums were one patch behind the current release but the change/release log of the latest patch does not indicate it would have prevented this attack.
 
 Because the vulnerability in vBullentin did not have a fix available, we took our forums offline and started looking for a solution.
-[caption id="attachment_17521" align="alignright" width="300"][![The forums are back!](//news.opensuse.org/wp-content/uploads/2014/01/forums_back-300x203.png)](http://forums.opensuse.org) The forums are back![/caption]
+[caption id="attachment_17521" align="alignright" width="300"][![The forums are back!](//news.opensuse.org/wp-content/uploads/2014/01/forums_back-300x203.png)](//forums.opensuse.org) The forums are back![/caption]
 
 
 ## What now

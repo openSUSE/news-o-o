@@ -33,4 +33,4 @@ Oracle’s Virtualbox updated to 5.1.10 in the [20161125](https://lists.opensuse
 
 Updates found in the repositories with the [20161128](https://lists.opensuse.org/opensuse-factory/2016-11/msg00654.html) snapshot added some upstream patches for [Bash](https://www.gnu.org/software/bash/) and [Wine](https://wiki.winehq.org/Main_Page) updated [winetricks](https://wiki.winehq.org/Winetricks) in version 1.9.24.
 
-Snapshot [20161122](https://lists.opensuse.org/opensuse-factory/2016-11/msg00469.html) updated Mozilla [Thunderbird to 45.5](https://www.mozilla.org/en-US/thunderbird/45.5.0/releasenotes/) and advanced text editor [Vim](http://www.vim.org/) to 8.0.92.
+Snapshot [20161122](https://lists.opensuse.org/opensuse-factory/2016-11/msg00469.html) updated Mozilla [Thunderbird to 45.5](https://www.mozilla.org/en-US/thunderbird/45.5.0/releasenotes/) and advanced text editor [Vim](//www.vim.org/) to 8.0.92.

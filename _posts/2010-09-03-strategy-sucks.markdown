@@ -31,7 +31,7 @@ Hi all,
 
 
 
-Over the last weeks there has been a lot of disussion, both internally and externally, about [the strategies](http://en.opensuse.org/Portal:Strategy) which have been proposed. However, we also missed a lot of voices from our community. We take responsibility for leaving many of you behind by focusing on a very corporate-management solution to the initial question which prompted this process. A question we think still is relevant: The identity of openSUSE both as a Community and as a Project.
+Over the last weeks there has been a lot of disussion, both internally and externally, about [the strategies](//en.opensuse.org/Portal:Strategy) which have been proposed. However, we also missed a lot of voices from our community. We take responsibility for leaving many of you behind by focusing on a very corporate-management solution to the initial question which prompted this process. A question we think still is relevant: The identity of openSUSE both as a Community and as a Project.
 
 
 

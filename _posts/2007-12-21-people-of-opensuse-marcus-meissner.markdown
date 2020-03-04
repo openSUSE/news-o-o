@@ -52,7 +52,7 @@ The 'People of openSUSE' team wishes you a Merry Christmas!
 <td >**Homepage: **
 </td>
 
-<td >[http://en.opensuse.org/User:Msmeissn](http://en.opensuse.org/User:Msmeissn)
+<td >[//en.opensuse.org/User:Msmeissn](//en.opensuse.org/User:Msmeissn)
 </td>
 
 <td >
@@ -63,7 +63,7 @@ The 'People of openSUSE' team wishes you a Merry Christmas!
 <td >**Blog:**
 </td>
 
-<td >[http://marcusmeissner.livejournal.com/](http://marcusmeissner.livejournal.com/)
+<td >[//marcusmeissner.livejournal.com/](//marcusmeissner.livejournal.com/)
 </td>
 
 <td >

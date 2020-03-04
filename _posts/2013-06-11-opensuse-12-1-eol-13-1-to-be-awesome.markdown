@@ -20,7 +20,7 @@ categories:
 
 openSUSE 12.1 has reached end of life. This release came into the world on the 16th of November 2011, giving it a life span of about 19 months. With openSUSE releasing new versions every 8 months, this means there are already a 12.2 and an 12.3 - with 13.1 to be released by the end of this year! For 12.1 users, the time has come to move on to a newer version and benefit from more, better and faster software!
 
-As the [announcement from the security- and maintenance team](http://lists.opensuse.org/opensuse-announce/2013-06/msg00000.html) explains:
+As the [announcement from the security- and maintenance team](//lists.opensuse.org/opensuse-announce/2013-06/msg00000.html) explains:
 
 
 <blockquote>openSUSE 12.1 was the first openSUSE distribution maintained using OpenBuildService methods (known as "OBS Maintenance"), allowing full community participation, from the beginning.
@@ -107,7 +107,7 @@ With M2 out, openSUSE 13.1 is still in an early period of development and lots o
   * qemu 1.4.0->1.5.0
 
 
-For Milestone 3 the major goals are to bring Perl 5.18 and GCC 4.8 on board. You can get Milestone one [from software.opensuse.org](http://software.opensuse.org/developer/en).
+For Milestone 3 the major goals are to bring Perl 5.18 and GCC 4.8 on board. You can get Milestone one [from software.opensuse.org](//software.opensuse.org/developer/en).
 
 
 ### Most Annoying Bugs
@@ -193,8 +193,8 @@ As you might have seen in the [openSUSE team blog about Factory development](htt
 
 As always, testers and contributors are welcome throughout the development process. We [published some plans for 13.1 in the M1 announcement](//news.opensuse.org/?p=16026) and if you want to make sure your application makes it into openSUSE 13.1, [see this article on getting your package in Factory](https://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/). You should also check out [the participation portal](https://en.opensuse.org/Portal:How_to_participate), join the Factory Mailing List and have a lot of fun!
 
-Remember, we will soon have [the openSUSE Conference in Greece](http://conference.opensuse.org) and this is a great place to get started on openSUSE development & meet the folk already hacking.
+Remember, we will soon have [the openSUSE Conference in Greece](//conference.opensuse.org) and this is a great place to get started on openSUSE development & meet the folk already hacking.
 
-According to [the road map](http://lists.opensuse.org/opensuse-factory/2013-05/msg00204.html),  The next milestone is expected for the 11th of July, followed by new ones each month. Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.
+According to [the road map](//lists.opensuse.org/opensuse-factory/2013-05/msg00204.html),  The next milestone is expected for the 11th of July, followed by new ones each month. Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.
 
 _Pool ball graphic courtesy of Victorhck – openSUSE Artwork Team member_

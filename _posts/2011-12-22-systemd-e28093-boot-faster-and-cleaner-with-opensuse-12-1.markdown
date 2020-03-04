@@ -13,7 +13,7 @@ categories:
 
 openSUSE 12.1 features systemd as a replacement for the System V init daemon. systemd provides a new and improved way of booting up your system and managing services. It comes with many new features like socket and dbus-activation, use of cgroups (control groups) and aggressive parallelization capabilities which leads to a faster boot-up of the system. Systemd also introduces a number of new features and tools for sysadmins. This article will explain what systemd does, how it does it and how to take advantage of the new possibilities it offers.
 <!-- more -->
-[![](/wp-content/uploads/2011/11/4308639792_ae11049568.jpg)](http://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4308639792_ae11049568/)
+[![](/wp-content/uploads/2011/11/4308639792_ae11049568.jpg)](//news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4308639792_ae11049568/)
 
 
 ## Booting your system and services
@@ -53,7 +53,7 @@ systemd replaces the old SysV init system, which is basically a loose collection
 
 Instead of shell scripts, systemd uses ".service" files that define various features provided by systemd, a bit like the old SysV init scripts but with an easier and more declarative syntax than bash.
 
-[![](/wp-content/uploads/2011/12/4404848273_3fcaeacf5d.jpg)](http://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4404848273_3fcaeacf5d/)
+[![](/wp-content/uploads/2011/12/4404848273_3fcaeacf5d.jpg)](//news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4404848273_3fcaeacf5d/)
 
 
 ### Dependencies and events
@@ -75,7 +75,7 @@ Services in systemd can be disabled, enabled, started, stopped, restarted and re
 ### Standardization
 
 
-systemd strives towards standardizing init scripts which used to be different for each distributions. This should reduce the maintenance burden for distributions as they will share more work but it of course requires them to adapt to a common standard first. This means using the standard "systemctl" for controlling services instead of the /etc/rc* files. Currently, openSUSE still supports the rc-style files (providing symbolic links in /etc/rc.d ) so you can still run services by hand. systemd is also backwards compatible with the old-style init scripts which means that "non" standard (not included in systemd) scripts will keep working. For more details and a list of limitations in that regard please refer to [here](http://www.freedesktop.org/wiki/Software/systemd/Incompatibilities).
+systemd strives towards standardizing init scripts which used to be different for each distributions. This should reduce the maintenance burden for distributions as they will share more work but it of course requires them to adapt to a common standard first. This means using the standard "systemctl" for controlling services instead of the /etc/rc* files. Currently, openSUSE still supports the rc-style files (providing symbolic links in /etc/rc.d ) so you can still run services by hand. systemd is also backwards compatible with the old-style init scripts which means that "non" standard (not included in systemd) scripts will keep working. For more details and a list of limitations in that regard please refer to [here](//www.freedesktop.org/wiki/Software/systemd/Incompatibilities).
 
 
 ## Using systemd
@@ -89,7 +89,7 @@ Let's go over some features of systemd which are relevant for 'normal' users as 
 
 Devices marked via udev rules are marked as units in systemd and their udev properties can be used as configuration sources to set dependencies for device units. systemd also maintains mount and automount points and (un)mounts devices where needed. For every automount point we have a matching mount point. To let systemd automount a device, add "comment=systemd.automount" to an fstab line option, and the mountpoint is automatically handled as a automount point. This can be used for networked filesystems nfs and cifs. /etc/fstab is used as an extra configuration for these mount points. systemd also supports target units which are logically grouped and in turn these groups can be controlled together.
 
-[![](/wp-content/uploads/2011/12/4320210414_e0b3550b1a1.jpg)](http://news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4320210414_e0b3550b1a/)
+[![](/wp-content/uploads/2011/12/4320210414_e0b3550b1a1.jpg)](//news.opensuse.org/2011/12/22/systemd-%e2%80%93-boot-faster-and-cleaner-with-opensuse-12-1/4320210414_e0b3550b1a/)
 
 
 ### Stability and emergency features

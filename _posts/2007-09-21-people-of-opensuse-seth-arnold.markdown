@@ -52,7 +52,7 @@ Today you can read which answers to the 'People of openSUSE' questions the AppAr
 <td >**Homepage: **
 </td>
 
-<td >[http://sarnold.org/](http://sarnold.org/)
+<td >[//sarnold.org/](//sarnold.org/)
 </td>
 
 <td >
@@ -441,7 +441,7 @@ Yup. I miss the bus ride home due to my computer a few times each month. (Some w
 #### Show us a picture of something, you have always wanted to share!
 
 
-[http://farm1.static.flickr.com/160/430143383_6b3723cded_o.jpg](http://farm1.static.flickr.com/160/430143383_6b3723cded_o.jpg)
+[//farm1.static.flickr.com/160/430143383_6b3723cded_o.jpg](//farm1.static.flickr.com/160/430143383_6b3723cded_o.jpg)
 
 Apologies to the original photographer for the uncredited photo.
 

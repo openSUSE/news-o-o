@@ -20,7 +20,7 @@ openSUSE 13.2 RC1 is baked and ready to serve!. This previous Beta release was a
 
 But don't fear the boredness, there are more things to test and enjoy than just bugfixes, the release candidate also brings an important updates to the desktop experience. This release includes GNOME 3.14, which brings new animations, better handling of WiFi hotspots, improvements in some applications like Weather and Photos and much more. Another highlight is the brand new Firefox 32, with new HTTP cache for improved performance and public key pinning support. The KDE applications have been updated from version 4.14.0 to 4.14.1 and Plymouth (from 0.8.8 to 0.9.0) should also help to boost stability and to smooth the end user experience.
 
-So if you missed the Beta but still want to help, don't hesitate to grab one of the [available ISOs](http://software.opensuse.org/developer). If you are already using openSUSE 13.2 Beta, it's time to update! In either case, make sure to give GNOME a try and report any found bug. It's the biggest change and we need as many geekos as possible trying to break it in creative ways.
+So if you missed the Beta but still want to help, don't hesitate to grab one of the [available ISOs](//software.opensuse.org/developer). If you are already using openSUSE 13.2 Beta, it's time to update! In either case, make sure to give GNOME a try and report any found bug. It's the biggest change and we need as many geekos as possible trying to break it in creative ways.
 
 With less than a month from the release of 13.2 the only thing that last to be said is:
 

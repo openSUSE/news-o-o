@@ -50,7 +50,7 @@ This week 'People of openSUSE' scope out openSUSE Product Manager Michael Löffl
 <td >**Homepage: **
 </td>
 
-<td >[www.opensuse.org](http://www.opensuse.org)
+<td >[www.opensuse.org](//www.opensuse.org)
 </td>
 
 <td >
@@ -170,12 +170,12 @@ As Product Manager of openSUSE employed by SUSE/Novell I'm involved in pretty ma
 
 Main tasks are:
 
-- interface between external community and Novell ([Guiding Principals](http://en.opensuse.org/Guiding_Principles) and [openSUSE Board](http://en.opensuse.org/Board))
+- interface between external community and Novell ([Guiding Principals](//en.opensuse.org/Guiding_Principles) and [openSUSE Board](//en.opensuse.org/Board))
 - working on future activities (events, spiffs, marketing plan)
-- together with [coolo](http://news.opensuse.org/2007/08/09/people-of-opensuse-stephan-kulow/) getting the distribution done
-- coordination of tasks ([shop.opensuse.org](shop.opensuse.org), [smolt.opensuse.org](http://smolt.opensuse.org), openFate)
+- together with [coolo](//news.opensuse.org/2007/08/09/people-of-opensuse-stephan-kulow/) getting the distribution done
+- coordination of tasks ([shop.opensuse.org](shop.opensuse.org), [smolt.opensuse.org](//smolt.opensuse.org), openFate)
 - retail box
-- getting the first [sponsors](http://en.opensuse.org/Sponsors) aboard of openSUSE
+- getting the first [sponsors](//en.opensuse.org/Sponsors) aboard of openSUSE
 
 
 
@@ -195,9 +195,9 @@ I'm thrilled to see how many talented people are involved in the project and how
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-- being involved in the creation of [openSUSE's Guiding Principles](http://en.opensuse.org/Guiding_Principles)
+- being involved in the creation of [openSUSE's Guiding Principles](//en.opensuse.org/Guiding_Principles)
 - raising Novell's attention for openSUSE.org (e.g. getting Zonker aboard)
-- open sourcing of the openSUSE Service, this required long breath and was only doable with [Adrian](http://en.opensuse.org/User:AdrianSuSE)
+- open sourcing of the openSUSE Service, this required long breath and was only doable with [Adrian](//en.opensuse.org/User:AdrianSuSE)
 
 
 
@@ -229,7 +229,7 @@ Have a lot of fun!
 
 First, the openSUSE project made over almost 3 years now great progress in becoming more open, allow more people to contribute, to grow its community, offering the openSUSE Build Service, making openSUSE more independent etc. Yes, there is still something missing but we achieved a lot and are heading in the right direction.
 
-- We're on the right track with promoting openSUSE better (e.g. [news.opensuse.org](http://news.opensuse.org), [weekly news](http://news.opensuse.org/category/weekly-news/), [zonker.opensuse.org](http://zonker.opensuse.org)) but we're still a quiet technical community in which I have the feeling it's not easy for an outsider to get in or get information you're interested in offered in a convenient way
+- We're on the right track with promoting openSUSE better (e.g. [news.opensuse.org](//news.opensuse.org), [weekly news](//news.opensuse.org/category/weekly-news/), [zonker.opensuse.org](//zonker.opensuse.org)) but we're still a quiet technical community in which I have the feeling it's not easy for an outsider to get in or get information you're interested in offered in a convenient way
 - We're not using yet the power of the existing community in regards of multiplier for getting openSUSE in the hands of everybody. Especially in countries with no or expensive broadband access this could drive the adoption of openSUSE.
 
 
@@ -242,7 +242,7 @@ First, the openSUSE project made over almost 3 years now great progress in becom
 
 I see a bright future for openSUSE. We are already one of the most popular distributions known for being on top of technical development. And all this offered in a very usable way for newbies to developers.
 
-The project itself is growing and growing - I'm always amazed what high quality pages are offered in our wiki. And with the [openSUSE Build Service](https://build.opensuse.org) we're offering a high quality service to everybody who might imagine spending his time with something else then packaging. And of course the openSUSE Build Service is a wonderful source for any kind of open source software somebody is [looking](http://software.opensuse.org/search) for. This all combined with the backing of Novell will remain offering a lot positive things in the future.
+The project itself is growing and growing - I'm always amazed what high quality pages are offered in our wiki. And with the [openSUSE Build Service](https://build.opensuse.org) we're offering a high quality service to everybody who might imagine spending his time with something else then packaging. And of course the openSUSE Build Service is a wonderful source for any kind of open source software somebody is [looking](//software.opensuse.org/search) for. This all combined with the backing of Novell will remain offering a lot positive things in the future.
 
 
 
@@ -262,7 +262,7 @@ Pretty easy, openSUSE is one of the best distributions available. I know many of
 #### Which members of the openSUSE community have you met in person?
 
 
-As I'm working out of Nürnberg I meet many internal community members on a daily base and a bunch of Novell's from time to time. From the external people I met already [Francis](http://news.opensuse.org/2007/08/10/people-of-opensuse-francis-giannaros/), [Benjamin](http://news.opensuse.org/2007/09/03/people-of-opensuse-benjamin-weber/), [Pascal](http://news.opensuse.org/2007/08/09/people-of-opensuse-names-please-do-not-publish/) and [Christian Boltz](http://news.opensuse.org/2007/10/08/people-of-opensuse-christian-boltz/).
+As I'm working out of Nürnberg I meet many internal community members on a daily base and a bunch of Novell's from time to time. From the external people I met already [Francis](//news.opensuse.org/2007/08/10/people-of-opensuse-francis-giannaros/), [Benjamin](//news.opensuse.org/2007/09/03/people-of-opensuse-benjamin-weber/), [Pascal](//news.opensuse.org/2007/08/09/people-of-opensuse-names-please-do-not-publish/) and [Christian Boltz](//news.opensuse.org/2007/10/08/people-of-opensuse-christian-boltz/).
 
 
 
@@ -345,7 +345,7 @@ For my private life no Internet would be very nice - I have a family, a garden, 
 #### Which is your favorite movie scene?
 
 
-"Being John Malkovich" when people finding the hidden door and sliding down into [John's head](http://www.youtube.com/watch?v=icysehz-OVc).
+"Being John Malkovich" when people finding the hidden door and sliding down into [John's head](//www.youtube.com/watch?v=icysehz-OVc).
 
 
 
@@ -376,7 +376,7 @@ Water.
 #### Favorite game or console (in your childhood and nowadays)?
 
 
-Childhood: [Atari 2600](http://en.wikipedia.org/wiki/Atari_2600)
+Childhood: [Atari 2600](//en.wikipedia.org/wiki/Atari_2600)
 Nowadays: Backgammon - the wooden model, to be played at winter evenings in front of a fireplace
 
 

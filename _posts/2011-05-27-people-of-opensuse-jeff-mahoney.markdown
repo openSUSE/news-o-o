@@ -35,7 +35,7 @@ Jeff
 <td width="105" >**Homepage: **
 </td>
 
-<td width="520" >h[ttp://www.jeffreymahoney.com/](http://www.jeffreymahoney.com/)
+<td width="520" >h[ttp://www.jeffreymahoney.com/](//www.jeffreymahoney.com/)
 </td>
 
 <td width="5" >

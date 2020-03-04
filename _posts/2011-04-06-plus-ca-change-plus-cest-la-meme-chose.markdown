@@ -53,4 +53,4 @@ From this discussion and results of the poll, we have come up with the following
 This solution brings a meaningful rationale to the scheme, without completely revising the look.  And thus, our next release in November will be 12.1.  In July 2012, we will ship 12.2 and in March 2013, we will ship 12.3.  Then in November 2013, we will ship 13.1.
 
 So as you can see... same great versioning look, now with explanation.
-﻿[![screenshot of terminal declaring openSUSE versioning scheme is now implemented!](/wp-content/uploads/2011/04/openSUSEVersion.png)](http://news.opensuse.org/2011/04/06/plus-ca-change-plus-cest-la-meme-chose/opensuseversion/)
+﻿[![screenshot of terminal declaring openSUSE versioning scheme is now implemented!](/wp-content/uploads/2011/04/openSUSEVersion.png)](//news.opensuse.org/2011/04/06/plus-ca-change-plus-cest-la-meme-chose/opensuseversion/)

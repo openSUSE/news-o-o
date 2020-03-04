@@ -19,10 +19,10 @@ Let's refresh our memories.[ Last week](https://news.opensuse.org/2014/06/10/com
 
 Today's menu offers something else: navigation through the file system.
 
-Now, the best picture I managed to find on the www is from a site called [devopsbootcamp](http://devopsbootcamp.readthedocs.org/). You can find their tutorials and the rest here. But anyway, here's a very nice diagram of what a linux root filesystem looks like.
-![Filesys](http://devopsbootcamp.readthedocs.org/en/latest/_images/hierarchy.jpg)
+Now, the best picture I managed to find on the www is from a site called [devopsbootcamp](//devopsbootcamp.readthedocs.org/). You can find their tutorials and the rest here. But anyway, here's a very nice diagram of what a linux root filesystem looks like.
+![Filesys](//devopsbootcamp.readthedocs.org/en/latest/_images/hierarchy.jpg)
 
-For example, as stated in the above picture, your user directory (where you usually store your movies, music, documents etc.) is located in the /home folder. /home folder is located under /. Then you have the /etc folder, where most of the files for configuration are located. Anyway, you can find the detailed description [here](http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/), as we'll not be getting into which folder is for what, until we start using and configuring them. Today is reserved for navigation only. And on that note, let's get down to the first command of the day...
+For example, as stated in the above picture, your user directory (where you usually store your movies, music, documents etc.) is located in the /home folder. /home folder is located under /. Then you have the /etc folder, where most of the files for configuration are located. Anyway, you can find the detailed description [here](//www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/), as we'll not be getting into which folder is for what, until we start using and configuring them. Today is reserved for navigation only. And on that note, let's get down to the first command of the day...
 
 
 
@@ -31,10 +31,10 @@ For example, as stated in the above picture, your user directory (where you usua
 
 
 pwd, or 'print working directory' is a very useful command if you think you are lost navigating through the folders. At any given moment, type pwd, and voila! What appears is a complete pathway you took to arrive to this folder. Those guys in The Cube could sure use it, losers.
-![Cube](http://bloody-disgusting.com/images/news/cube2review1.gif)
+![Cube](//bloody-disgusting.com/images/news/cube2review1.gif)
 
 Imagine yourselves walking from room to room inside a massive apartment, loosing your way. pwd is like the breadcrumb trail leading you to your starting point, so you don't loose your way inside the folder maze!
-![pwd](http://redhat.activeventure.com/73/gettingstartedguide/figs/basics/pwd.png)
+![pwd](//redhat.activeventure.com/73/gettingstartedguide/figs/basics/pwd.png)
 
 
 #### cd
@@ -43,7 +43,7 @@ Imagine yourselves walking from room to room inside a massive apartment, loosing
 Now you know in which directory you're situated thanks to your usage of the pwd command. Now you want to take the next step and move to another directory. Let's say you have a folder/directory inside your home folder you want to relocate your top secret terminal operation to. For this, you use the 'cd' command. cd, or 'change directory', will change the location of wanted directory. How do you use it? Simple, type cd and the path to your folder. Let's say, for example, you want to enter your Hello Kitty picture collection in your home folder. You type 'cd /home/username/Hello\ Kitty'.
 
 As you see, we didn't only use the space bar in the folder name. That's because the terminal won't recognize it. Whenever you want to navigate to a folder containing a space in it's name, you** replace it with the backslash character, followed by space**. You can also, without using the backslash+space option, just put the **whole folder name into quotes**, f.ex. cd /home/username/"Hello Kitty".
-![cd](http://blogote.com/wp-content/uploads/2010/06/terminal-cd-desktop.png)
+![cd](//blogote.com/wp-content/uploads/2010/06/terminal-cd-desktop.png)
 
 Try it out yourself. Navigate to a different directory using cd, and when there, type pwd to see if everything worked as it's supposed to.
 

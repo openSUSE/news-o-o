@@ -20,7 +20,7 @@ tags:
 
 ![](https://events.opensuse.org/system/conferences/logos/000/000/040/original/osc17final.png)The [openSUSE Conference](https://events.opensuse.org/) is about seven weeks away and this year will again have high-quality keynote speakers.
 
-Keynote speakers for this year’s conference at the [Z-Bau](http://z-bau.com/) in Nuremberg, Germany, from May 26 - 28 will be from [SaltStack](https://saltstack.com/), [KDE](https://www.kde.org/) and [Free Software Foundation Europe](https://fsfe.org/index.en.html). 
+Keynote speakers for this year’s conference at the [Z-Bau](//z-bau.com/) in Nuremberg, Germany, from May 26 - 28 will be from [SaltStack](https://saltstack.com/), [KDE](https://www.kde.org/) and [Free Software Foundation Europe](https://fsfe.org/index.en.html). 
 
 [Matthias Kirschner](https://fsfe.org/about/kirschner/kirschner.en.html), President of FSFE, will take the stage on May 26 at 10 a.m. and provide attendees an exorbitant amount of information about governance and open source.
 

@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Bryen Yunashko, a openSUSE member, is a recent acquisition to the openSUSE project who is involved in the openSUSE-GNOME and Marketing teams, coordinating the [Helping Hands Project](http://lists.opensuse.org/opensuse-announce/2008-06/msg00017.html) as also giving a hand at the [accessibility](http://en.opensuse.org/Accessibility) of openSUSE.
+Bryen Yunashko, a openSUSE member, is a recent acquisition to the openSUSE project who is involved in the openSUSE-GNOME and Marketing teams, coordinating the [Helping Hands Project](//lists.opensuse.org/opensuse-announce/2008-06/msg00017.html) as also giving a hand at the [accessibility](//en.opensuse.org/Accessibility) of openSUSE.
 
 <!-- more -->
 
@@ -53,7 +53,7 @@ Bryen Yunashko, a openSUSE member, is a recent acquisition to the openSUSE proje
 <td >**Blog:**
 </td>
 
-<td >[www.bryen.com](http://www.bryen.com)
+<td >[www.bryen.com](//www.bryen.com)
 </td>
 
 <td >
@@ -172,9 +172,9 @@ The openness and ease of communication within the project. The dedication of eve
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-﻿Well, initially I was asked to give input on Accessibility (a11y) for openSUSE. And I continue to do that with the GNOME team, as well as participating with the GNOME Foundation's GOPA project. Recently, I created the [http://en.opensuse.org/Accessibility](http://en.opensuse.org/Accessibility) wiki pages with the hope of bringing together all the various segments of a11y work in the openSUSE community. There's so many wonderful things that Novell/SUSE/openSUSE does to improve technology for a11y users and make it openSUSE a more inclusive distro for all users.  
+﻿Well, initially I was asked to give input on Accessibility (a11y) for openSUSE. And I continue to do that with the GNOME team, as well as participating with the GNOME Foundation's GOPA project. Recently, I created the [//en.opensuse.org/Accessibility](//en.opensuse.org/Accessibility) wiki pages with the hope of bringing together all the various segments of a11y work in the openSUSE community. There's so many wonderful things that Novell/SUSE/openSUSE does to improve technology for a11y users and make it openSUSE a more inclusive distro for all users.  
   
-Currently, I've also established the Helping Hands project. Still in its early stages, it already seems to get positive reviews. Basically, the goal is to introduce users to features and applications on their desktop. At the same time, I hope to see this blossom into more HowTos available for users. For now, it is GNOME-centric. But, I am hoping to take it up to a higher level and encompass all sections of openSUSE. I'm already in discussions on several fronts to make this all happen. You can find out more about this program at http://en.opensuse.org/GNOME/HowTos. If you're interested in participating, drop me a line.
+Currently, I've also established the Helping Hands project. Still in its early stages, it already seems to get positive reviews. Basically, the goal is to introduce users to features and applications on their desktop. At the same time, I hope to see this blossom into more HowTos available for users. For now, it is GNOME-centric. But, I am hoping to take it up to a higher level and encompass all sections of openSUSE. I'm already in discussions on several fronts to make this all happen. You can find out more about this program at //en.opensuse.org/GNOME/HowTos. If you're interested in participating, drop me a line.
 
 
 
@@ -400,7 +400,7 @@ Not that I recall...
 #### Show us a picture of something, you have always wanted to share!
 
 
-hmm... you could see a collection of photos to concerts I've been to at [http://bryen.myphotoalbum.com](http://bryen.myphotoalbum.com)
+hmm... you could see a collection of photos to concerts I've been to at [//bryen.myphotoalbum.com](//bryen.myphotoalbum.com)
 
 
 

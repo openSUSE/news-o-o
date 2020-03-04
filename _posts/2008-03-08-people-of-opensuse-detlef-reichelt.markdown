@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Do you know who is behind the [PackMan](http://packman.links2linux.org/) project? Then it's time to we present you Detlef Reichelt - PackMan project maintainer and [openSUSE Member](http://en.opensuse.org/Members)!
+Do you know who is behind the [PackMan](//packman.links2linux.org/) project? Then it's time to we present you Detlef Reichelt - PackMan project maintainer and [openSUSE Member](//en.opensuse.org/Members)!
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ Do you know who is behind the [PackMan](http://packman.links2linux.org/) project
 <td >**Homepage: **
 </td>
 
-<td >[www.die-mafia.de](http://www.die-mafia.de)
+<td >[www.die-mafia.de](//www.die-mafia.de)
 </td>
 
 <td >

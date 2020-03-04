@@ -12,7 +12,7 @@ categories:
 - Build Service
 ---
 
-![amd.jpg](//news.opensuse.org/wp-content/uploads/2007/08/amd.jpg)As [announced](http://money.cnn.com/news/newsfeeds/articles/prnewswire/AQTU18907082007-1.htm) at the [LinuxWorld Conference & Expo](http://www.linuxworldexpo.com/live/12/), [AMD](http://www.amd.com) has been unveiled as a Platinum Sponsor of openSUSE providing it with powerful infrastructure upon which the [openSUSE Build Service](http://opensuse.org/Build_Service) (OBS) can be run.
+![amd.jpg](//news.opensuse.org/wp-content/uploads/2007/08/amd.jpg)As [announced](//money.cnn.com/news/newsfeeds/articles/prnewswire/AQTU18907082007-1.htm) at the [LinuxWorld Conference & Expo](//www.linuxworldexpo.com/live/12/), [AMD](//www.amd.com) has been unveiled as a Platinum Sponsor of openSUSE providing it with powerful infrastructure upon which the [openSUSE Build Service](//opensuse.org/Build_Service) (OBS) can be run.
 
 <!-- more -->
 

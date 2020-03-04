@@ -16,7 +16,7 @@ Last Monday the second Marketing Collaboration Day happened - with a focus on Ma
 
 <!-- more -->
 
-Among other things, some how-to's were updated like [how to organize a Launch Party](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) (yes, openSUSE 11.4 is coming!) Moreover two short presentations on SUSE Studio and OBS were created which can be used in presentations from the Ambassadors. Already some Greek ambassadors are using them and they promised to contribute back translated versions. Besides the wiki and the presentations, volunteers took on the task of developing success case stories involving openSUSE, creating models for Letters of Sponsorship requests, and how to collaborate and work with educational institutions.  Obviously a broad range of topics and opportunities to promote openSUSE.
+Among other things, some how-to's were updated like [how to organize a Launch Party](//en.opensuse.org/openSUSE:Launch_party_HOWTO) (yes, openSUSE 11.4 is coming!) Moreover two short presentations on SUSE Studio and OBS were created which can be used in presentations from the Ambassadors. Already some Greek ambassadors are using them and they promised to contribute back translated versions. Besides the wiki and the presentations, volunteers took on the task of developing success case stories involving openSUSE, creating models for Letters of Sponsorship requests, and how to collaborate and work with educational institutions.  Obviously a broad range of topics and opportunities to promote openSUSE.
 
 But the team isn't done yet. Like in the previous Collaboration Day, which focused on our Ambassador Program, several items have been picked up to be finished later. Thanks for that!
 

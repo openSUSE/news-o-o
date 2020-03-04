@@ -27,10 +27,10 @@ The SaltStack Summit was standing room only and the talks will be available in t
 
 Alberto Planas provided an overview of the the amount of people using openSUSE as well as how people install and update to new openSUSE releases. Most people were installing X86_64 was the highest architecture through a DVD and Germany makes up the country with the most use of openSUSE.
 
-openSUSE’s new release manager Ludwig Nussel provided an overview of the next release Leap 42.2. The [Alpha 2 was released yesterday](http://distrowatch.com/?newsid=09452) and Nussel provided a schedule of the release of 42.2. There are currently 900 packages from the SUSE Linux Enterprise 12 Service Pack 2 that will be going into Leap 42.2.
+openSUSE’s new release manager Ludwig Nussel provided an overview of the next release Leap 42.2. The [Alpha 2 was released yesterday](//distrowatch.com/?newsid=09452) and Nussel provided a schedule of the release of 42.2. There are currently 900 packages from the SUSE Linux Enterprise 12 Service Pack 2 that will be going into Leap 42.2.
 
 Closing out the day, Max Lin is talking about staging in openSUSE Factory.
 
-Tomorrow, there will be two keynote speakers. [Frank Karlitschek](http://karlitschek.de/), the founder of [Nextcloud](https://nextcloud.com/) and former co-founder of [ownCloud](https://owncloud.org/), will provide a keynote at 10 a.m. tomorrow. [Georg Greve](https://en.wikipedia.org/wiki/Georg_C._F._Greve), CEO of [Kolab Systems AG](https://kolabsystems.com/), will have a keynote in the afternoon.
+Tomorrow, there will be two keynote speakers. [Frank Karlitschek](//karlitschek.de/), the founder of [Nextcloud](https://nextcloud.com/) and former co-founder of [ownCloud](https://owncloud.org/), will provide a keynote at 10 a.m. tomorrow. [Georg Greve](https://en.wikipedia.org/wiki/Georg_C._F._Greve), CEO of [Kolab Systems AG](https://kolabsystems.com/), will have a keynote in the afternoon.
 
 Those who are not able to make the openSUSE Conference can watch it live via stream at [https://streaming.media.ccc.de/osc16](https://streaming.media.ccc.de/osc16)

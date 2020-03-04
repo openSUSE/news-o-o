@@ -19,7 +19,7 @@ Today, the openSUSE project makes available openSUSE 12.2 Release Candidate 2 fo
 ## Get it
 
 
-Download it from [software.opensuse.org/developer](http://software.opensuse.org/developer/). As usual, a list of the [most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev) is being maintained and you can [see the list of bugs](https://bugzilla.novell.com/query.cgi?classification=openSUSE&field0-0-0=op_sys&product=openSUSE%2012.2&query_format=advanced&resolution=---&type0-0-0=substring&value0-0-0=openSUSE) [and/or file a new one in Bugzilla](https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE%2012.2&format=guided). Read on for detailed coverage of the changes and some tips and hints on testing and helping out.<!-- more -->
+Download it from [software.opensuse.org/developer](//software.opensuse.org/developer/). As usual, a list of the [most annoying bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev) is being maintained and you can [see the list of bugs](https://bugzilla.novell.com/query.cgi?classification=openSUSE&field0-0-0=op_sys&product=openSUSE%2012.2&query_format=advanced&resolution=---&type0-0-0=substring&value0-0-0=openSUSE) [and/or file a new one in Bugzilla](https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE%2012.2&format=guided). Read on for detailed coverage of the changes and some tips and hints on testing and helping out.<!-- more -->
 
 
 ## Main changes
@@ -55,18 +55,18 @@ LibreOffice got a version bump, and its artwork and branding was updated to the 
 
 Finally, the translation teams have been hard at work and those have been integrated in 12.2, and the multinationalisation developers made fixes to input methods.
 
-[caption id="attachment_12917" align="alignright" width="150"][![openSUSE Factory workflow](/wp-content/uploads/2012/03/600px-Factory_workflow.png)](http://en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow[/caption]
+[caption id="attachment_12917" align="alignright" width="150"][![openSUSE Factory workflow](/wp-content/uploads/2012/03/600px-Factory_workflow.png)](//en.opensuse.org/openSUSE:Factory_development_model) Factory Workflow[/caption]
 
 
 ## Help out!
 
 
-Of course you're wondering how you can help. This can start with testing. Go to [software.opensuse.org/developer](http://software.opensuse.org/developer/), download the latest RC and try it out on your system! You can then check the
-[most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev) to see if your problems are there, if not, you can [see the list of bugs and/or file a new one in Bugzilla](https://bugzilla.novell.com/query.cgi?classification=openSUSE&field0-0-0=op_sys&product=openSUSE%2012.2&query_format=advanced&resolution=---&type0-0-0=substring&value0-0-0=openSUSE). If the bug you find is very serious, add it to  the list of annoying bugs!
+Of course you're wondering how you can help. This can start with testing. Go to [software.opensuse.org/developer](//software.opensuse.org/developer/), download the latest RC and try it out on your system! You can then check the
+[most annoying bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev) to see if your problems are there, if not, you can [see the list of bugs and/or file a new one in Bugzilla](https://bugzilla.novell.com/query.cgi?classification=openSUSE&field0-0-0=op_sys&product=openSUSE%2012.2&query_format=advanced&resolution=---&type0-0-0=substring&value0-0-0=openSUSE). If the bug you find is very serious, add it to  the list of annoying bugs!
 
-If you are a packager (or want to be one!) there is of course also plenty to do. Fixing bugs in packages is a nice way of learning the ways of packaging (see [the Packaging portal for documentation](http://en.opensuse.org/Portal:Packaging)). You can read about [how to do this here](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory), via a simple set of steps which in openSUSE are commonly known as ['BURP-ing'](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/).
+If you are a packager (or want to be one!) there is of course also plenty to do. Fixing bugs in packages is a nice way of learning the ways of packaging (see [the Packaging portal for documentation](//en.opensuse.org/Portal:Packaging)). You can read about [how to do this here](//en.opensuse.org/openSUSE:How_to_contribute_to_Factory), via a simple set of steps which in openSUSE are commonly known as ['BURP-ing'](//lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/).
 
-If you're already a packager for openSUSE and you want to start preparing for the release after 12.2 don't forget to [get your packages in Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_add_a_new_package_to_Factory) or [start to maintain one](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_become_a_maintainer_of_a_package_in_Factory)! The Factory tree has already been opened for development, altough we'd prefer fixes for openSUSE 12.2 for now...
+If you're already a packager for openSUSE and you want to start preparing for the release after 12.2 don't forget to [get your packages in Factory](//en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_add_a_new_package_to_Factory) or [start to maintain one](//en.opensuse.org/openSUSE:How_to_contribute_to_Factory#How_to_become_a_maintainer_of_a_package_in_Factory)! The Factory tree has already been opened for development, altough we'd prefer fixes for openSUSE 12.2 for now...
 
 
 ## Thanks!

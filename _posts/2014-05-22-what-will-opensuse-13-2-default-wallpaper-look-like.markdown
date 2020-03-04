@@ -36,7 +36,7 @@ It all started with an e-mail on the artwork mailing list. As a true community s
 
 
 
-![Wall1](http://fc00.deviantart.net/fs70/i/2014/127/f/b/opensuse_13_1_by_maniat1k101-d7hh152.jpg)
+![Wall1](//fc00.deviantart.net/fs70/i/2014/127/f/b/opensuse_13_1_by_maniat1k101-d7hh152.jpg)
 
 
 
@@ -52,7 +52,7 @@ Soon the other mailing list members agreed it's a nice suggestion, and started c
 
 
 
-![Wall2](http://paste.opensuse.org/images/44649416.png)
+![Wall2](//paste.opensuse.org/images/44649416.png)
 
 
 

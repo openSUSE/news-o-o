@@ -14,4 +14,4 @@ Planning Meeting for openSUSE at SUSECon
 
 irc://freenode.net/#opensuse-project
 
-[Details](http://en.opensuse.org/SUSECon_Planning)
+[Details](//en.opensuse.org/SUSECon_Planning)

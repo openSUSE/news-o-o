@@ -11,6 +11,6 @@ categories:
 - Announcements
 ---
 
-[![Failed geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)](http://en.opensuse.org/openSUSE:Downtime) We've got some bad news: OBS has decided to stop building images. Our Geekos are hard at work to fix it but they don't expect to have it all back up and running until tomorrow morning.
+[![Failed geeko](//en.opensuse.org/images/4/43/Failgeeko.png)](//en.opensuse.org/openSUSE:Downtime) We've got some bad news: OBS has decided to stop building images. Our Geekos are hard at work to fix it but they don't expect to have it all back up and running until tomorrow morning.
 ![obs-in-action](//news.opensuse.org/wp-content/uploads/2013/09/obs-in-action.jpg)
 The lights are (mostly) out...

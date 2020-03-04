@@ -16,13 +16,13 @@ tags:
 - side event
 ---
 
-The Zentrifuge, our [conference location](http://conference.opensuse.org/location) this year, is build in an old factory that was used for the production of washing machines (centrifuge, get it?). The bridging between technology and art is an important concern for them and thus our conference, as a technology conference, tries to cross that bridge too. Of course we also follow our motto _**Have a lot of fun...** _in this endeavor and throw a little party into the mix as well. So here is our blend of social events at OSC11.
+The Zentrifuge, our [conference location](//conference.opensuse.org/location) this year, is build in an old factory that was used for the production of washing machines (centrifuge, get it?). The bridging between technology and art is an important concern for them and thus our conference, as a technology conference, tries to cross that bridge too. Of course we also follow our motto _**Have a lot of fun...** _in this endeavor and throw a little party into the mix as well. So here is our blend of social events at OSC11.
 
 
 ## <!-- more -->Future's Past with Winfried Appelt
 
 
-[caption id="attachment_10414" align="alignleft" width="300" caption="(C) by Wilfried Appelt, used by permission"][![](/wp-content/uploads/2011/08/Maschinen_Appelt_1b.jpg)](http://news.opensuse.org/2011/08/22/osc11-fun/maschinen_appelt_1b/)[/caption]
+[caption id="attachment_10414" align="alignleft" width="300" caption="(C) by Wilfried Appelt, used by permission"][![](/wp-content/uploads/2011/08/Maschinen_Appelt_1b.jpg)](//news.opensuse.org/2011/08/22/osc11-fun/maschinen_appelt_1b/)[/caption]
 
 To lay the foundation for the bridge Wilfrid Appelt, a collector of old calculating machines will present on Sunday at 17:00 in the main hall some of these apparatuses of the past century that scientists, engineers and merchants used - and which prepared the ground for the electronic achievements of our time. He will show us that aesthetics and technology are not mutually exclusive.
 
@@ -55,7 +55,7 @@ You can already begin to see how crazy things will get as presenters try to keep
 ## The Geek - Saloon & Dance Hall (special guest: Shimmy Yaw)
 
 
-![The Geek - Saloon and Dance Hall](/wp-content/uploads/2011/08/saloon.png)On Monday 18:00 the Zentrifuge will transform into _**The Geek** - Saloon and Dance Hall_. You will find plenty of poker tables to ace each other out, one of the meanest bulls this side of the Colorado River to ride, ice cold "[_Old Toad_](http://en.opensuse.org/openSUSE:Beer)" and loads of Whiskey! The dance part will be handled by another group of artists we cooperate with at OSC11 - [Fat Orange](http://fatorange.de/). Fat Orange is a network of people in Nürnberg and it's neighboring town Fürth that spans from concert technicians over musicians to graphical designers that involve themselves in every aspect of creating music, be it live or recorded. Fat Orange will send their own **Shimmy Yaw** to entertain the crowd with his indietronik, singer/songwirter sounds.
+![The Geek - Saloon and Dance Hall](/wp-content/uploads/2011/08/saloon.png)On Monday 18:00 the Zentrifuge will transform into _**The Geek** - Saloon and Dance Hall_. You will find plenty of poker tables to ace each other out, one of the meanest bulls this side of the Colorado River to ride, ice cold "[_Old Toad_](//en.opensuse.org/openSUSE:Beer)" and loads of Whiskey! The dance part will be handled by another group of artists we cooperate with at OSC11 - [Fat Orange](//fatorange.de/). Fat Orange is a network of people in Nürnberg and it's neighboring town Fürth that spans from concert technicians over musicians to graphical designers that involve themselves in every aspect of creating music, be it live or recorded. Fat Orange will send their own **Shimmy Yaw** to entertain the crowd with his indietronik, singer/songwirter sounds.
 
 
   
@@ -66,23 +66,23 @@ You can already begin to see how crazy things will get as presenters try to keep
 ## 8 bit music with IRQ7
 
 
-![IRQ7 - Girls 'n' Gameboys](/wp-content/uploads/2011/08/irq7_-_girls_n_gameboys.jpg)Another Fat Orange artist will make guest performances on Tuesday, this time with a DIY (Do It Yourself) twist. Starting from 17:15 in the main hall the 8bit musician Hannes Fertala alias **IRQ7** will teach you how to do make awesome music only with your gameboy! All you have to bring is the time to listen and the will to learn, Hannes will bring the hardware and even let you walk away with the needed ROM/software afterward. Following the workshop IRQ7 will perform songs out of his newly released EP "_**[Girls 'n' Gameboys](http://irq7.blogspot.com/2011/08/irq7-girls-n-gameboys-ep.html)**_" live on stage. And who knows, maybe you join him and kick off your 8bit musician career then and there!
+![IRQ7 - Girls 'n' Gameboys](/wp-content/uploads/2011/08/irq7_-_girls_n_gameboys.jpg)Another Fat Orange artist will make guest performances on Tuesday, this time with a DIY (Do It Yourself) twist. Starting from 17:15 in the main hall the 8bit musician Hannes Fertala alias **IRQ7** will teach you how to do make awesome music only with your gameboy! All you have to bring is the time to listen and the will to learn, Hannes will bring the hardware and even let you walk away with the needed ROM/software afterward. Following the workshop IRQ7 will perform songs out of his newly released EP "_**[Girls 'n' Gameboys](//irq7.blogspot.com/2011/08/irq7-girls-n-gameboys-ep.html)**_" live on stage. And who knows, maybe you join him and kick off your 8bit musician career then and there!
 
 
 ## Even more...
 
 
-On Monday the Linux Professional Institute (LPI) will hold [exams at the conference](http://conference.opensuse.org/lpi-exams/). The LPI offers all of its available examinations at special prices for attendees!
+On Monday the Linux Professional Institute (LPI) will hold [exams at the conference](//conference.opensuse.org/lpi-exams/). The LPI offers all of its available examinations at special prices for attendees!
 
-We will also organize a key signing party, an event at which people present their GPG/PGP keys to each other in person, and who, if they are confident the key actually belongs to the person who claims it, digitally sign the certificate building a web of trust. To participate in it [follow these instructions](http://www.luckylemon.de/?p=91).
+We will also organize a key signing party, an event at which people present their GPG/PGP keys to each other in person, and who, if they are confident the key actually belongs to the person who claims it, digitally sign the certificate building a web of trust. To participate in it [follow these instructions](//www.luckylemon.de/?p=91).
 
-For his talk about [open hardware and hackerspaces](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=24&confId=2), openSUSE Booster, Pavol Rusnak will bring a 3D printer ([The Ford Model T of 3D Printers!](http://reprap.org/wiki/Prusa)) to the conference and attendees can experiment with it.
+For his talk about [open hardware and hackerspaces](//conference.opensuse.org/indico//contributionDisplay.py?contribId=24&confId=2), openSUSE Booster, Pavol Rusnak will bring a 3D printer ([The Ford Model T of 3D Printers!](//reprap.org/wiki/Prusa)) to the conference and attendees can experiment with it.
 
 Henne, another Booster, will teach you in Slide-Kung-Fu every morning before the program in the main hall. Learn some basic skills in producing meaningful and well received talks and workshops.
 
-Continuing the long tradition of openSUSE conference talks that aren't always about technical things, Greg KH gives a talk on Wednesday about his recent efforts in [building a wooden kayak](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=11&confId=2) that hopefully should float.
+Continuing the long tradition of openSUSE conference talks that aren't always about technical things, Greg KH gives a talk on Wednesday about his recent efforts in [building a wooden kayak](//conference.opensuse.org/indico//contributionDisplay.py?contribId=11&confId=2) that hopefully should float.
 
-Of course there is tons of stuff happening in Nürnberg in general. On Saturday a spectacular [mountain bike freeride event](http://www.redbull.de/cs/Satellite/de_DE/Event/Red-Bull-District-Ride-021242958314861) and the heyday of the second largest [Volksfest](http://www.volksfest-nuernberg.de/) after the Oktoberfest in Bavaria.Sunday you can visit[ Germany’s largest collection of computer games](http://www.museen.nuernberg.de/industriekultur/) or how about you visit the [Old Toad brewery](http://www.klosterbrauerei-weissenohe.de/)?Or go see the [subterranean Nürnberg](http://www.felsengaenge-nuernberg.de en_index.htm), the new [Courtroom 600](http://www.memorium-nuremberg.de/) where the Nuremberg Trials happened, the [Zoo](http://tiergarten.nuernberg.de), the.......
+Of course there is tons of stuff happening in Nürnberg in general. On Saturday a spectacular [mountain bike freeride event](//www.redbull.de/cs/Satellite/de_DE/Event/Red-Bull-District-Ride-021242958314861) and the heyday of the second largest [Volksfest](//www.volksfest-nuernberg.de/) after the Oktoberfest in Bavaria.Sunday you can visit[ Germany’s largest collection of computer games](//www.museen.nuernberg.de/industriekultur/) or how about you visit the [Old Toad brewery](//www.klosterbrauerei-weissenohe.de/)?Or go see the [subterranean Nürnberg](//www.felsengaenge-nuernberg.de en_index.htm), the new [Courtroom 600](//www.memorium-nuremberg.de/) where the Nuremberg Trials happened, the [Zoo](//tiergarten.nuernberg.de), the.......
 
 
-# Fun, fun, fun at OSC11. See you there! [And don't forget to register](http://conference.opensuse.org/register)!
+# Fun, fun, fun at OSC11. See you there! [And don't forget to register](//conference.opensuse.org/register)!

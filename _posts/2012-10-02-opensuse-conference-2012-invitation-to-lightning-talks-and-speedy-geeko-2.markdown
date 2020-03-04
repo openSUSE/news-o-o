@@ -16,7 +16,7 @@ categories:
 
 The openSUSE Conference in Prague is about to happen and we know that all of you are really excited about it. One more year with great talks and workshops and the warmth of the openSUSE Community around. Being there is really awesome and being a part of it is really great. Since having fun has no limits for us we feel the need to ask you the following:
 
-[![Kostas Speedy Geeko](/wp-content/uploads/2012/10/Kostas2.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko-2/kostas-4/)
+[![Kostas Speedy Geeko](/wp-content/uploads/2012/10/Kostas2.jpg)](//news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko-2/kostas-4/)
 
 
 
@@ -75,7 +75,7 @@ Time is crucial so after the time limit you will have your microphone taken no m
 
 
 After last year’s huge success and fun we dare to do it one more time. This year we promise to entertain you showing you the other stuff that openSUSE people do. Last year we had bacon, bees, countries, global personalities plus other cool stuff, this year we hope to be at least that interesting and exciting.
-[![Klaas & bees](/wp-content/uploads/2012/10/Klaas1.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko-2/klaas-3/)
+[![Klaas & bees](/wp-content/uploads/2012/10/Klaas1.jpg)](//news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko-2/klaas-3/)
 How it works?
 
 
@@ -111,7 +111,7 @@ If you feel like participating all you have to do is to follow the instructions 
 
 
 The deadline for sending your talks is 10th of october and we will release both schedules at the 15th.
-[![Jan & Kittens](/wp-content/uploads/2012/10/Jan1.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko-2/jan-2/)
+[![Jan & Kittens](/wp-content/uploads/2012/10/Jan1.jpg)](//news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko-2/jan-2/)
 
 After we release the schedules all you have to do is to be sure that you will have your presentations given to us at some point before this year’s openSUSE conference.
 

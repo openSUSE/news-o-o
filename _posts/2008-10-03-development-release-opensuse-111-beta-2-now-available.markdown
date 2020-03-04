@@ -17,7 +17,7 @@ The first beta release for 11.1 was so popular, we've decided to do it again! Th
 Please note:
 * LiveCDs are being regenerated and released on Monday (Oct. 6th).
 * Also, the x86_64 Beta1-Beta2 delta.iso is currently broken -- to be released on Monday as well.
-* the new factory tree is available from [http://download.opensuse.org/factory/repo/oss/](http://download.opensuse.org/factory/repo/oss/).
+* the new factory tree is available from [//download.opensuse.org/factory/repo/oss/](//download.opensuse.org/factory/repo/oss/).
 
 
 ### What's changed since beta 1?
@@ -36,7 +36,7 @@ Major changes in this release include:
 
 Please also see the [11.1 beta 1 release announcement](//news.opensuse.org/2008/09/20/development-release-opensuse-111-beta-1-now-available/):
 
-<!-- more -->See [DistroWatch](http://distrowatch.com/table.php?distribution=suse) for an expanded list of packages being shipped in the Factory distribution.
+<!-- more -->See [DistroWatch](//distrowatch.com/table.php?distribution=suse) for an expanded list of packages being shipped in the Factory distribution.
 
 
 ### Status of the e1000e issue
@@ -103,7 +103,7 @@ We all want openSUSE 11.1 to be the best release yet, and we need your help to g
 
 If you want to help testing using the standard test cases, look at openSUSE.org/Testing, and in particular see the new features specific to openSUSE 11.1:
 
-[http://en.opensuse.org/Testing:Features_11.1](http://en.opensuse.org/Testing:Features_11.1)
+[//en.opensuse.org/Testing:Features_11.1](//en.opensuse.org/Testing:Features_11.1)
 
 This is a definitive list of new features added into 11.1 that need testing.
 
@@ -113,11 +113,11 @@ To follow the testing and development process, we suggest that you subscribe to 
 ### Media and Download
 
 
-The 11.1 beta is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: [http://en.opensuse.org/Roadmap](http://en.opensuse.org/Roadmap)
+The 11.1 beta is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: [//en.opensuse.org/Roadmap](//en.opensuse.org/Roadmap)
 
-Downloads are available here: [http://software.opensuse.org/developer](http://software.opensuse.org/developer)
+Downloads are available here: [//software.opensuse.org/developer](//software.opensuse.org/developer)
 
-See [http://en.opensuse.org/Mirror_Selection](http://en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
+See [//en.opensuse.org/Mirror_Selection](//en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
 
 
 ### Most Annoying Bugs

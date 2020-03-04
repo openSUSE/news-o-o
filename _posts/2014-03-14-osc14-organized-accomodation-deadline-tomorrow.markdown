@@ -13,7 +13,7 @@ categories:
 - Project
 ---
 
-As you can see on the website, affordable accommodation deals have been prepared for all the Geekos visiting the [openSUSE conference 2014](https://conference.opensuse.org/). To get those low prices, bookings should be done through the supporting company [Dalmatia Aeterna](http://dalmatiaaeterna.hr/). You can contact Dalmatia Aeterna through [email](mailto:info@dalmatiaaeterna.hr) or through their [website contact form](http://dalmatiaaeterna.hr/contact/). Be sure to specify type of accommodation you want to book, arrival and departure date, for how many guests you are making a reservation. And of course, don’t forget to mention the code: “openSUSE”!
+As you can see on the website, affordable accommodation deals have been prepared for all the Geekos visiting the [openSUSE conference 2014](https://conference.opensuse.org/). To get those low prices, bookings should be done through the supporting company [Dalmatia Aeterna](//dalmatiaaeterna.hr/). You can contact Dalmatia Aeterna through [email](mailto:info@dalmatiaaeterna.hr) or through their [website contact form](//dalmatiaaeterna.hr/contact/). Be sure to specify type of accommodation you want to book, arrival and departure date, for how many guests you are making a reservation. And of course, don’t forget to mention the code: “openSUSE”!
 
 The deadline to book rooms with discounted rate is **tomorrow March 15th, 2014**. After that date bookings are available “on request” basis only. That means that after the deadline we can’t guarantee the rates listed on the site!
 
@@ -37,4 +37,4 @@ Whether you want to give a talk at oSC14, or just visit, don’t forget to regis
 ## Support the conference
 
 
-Going to oSC14 is free, but if you choose to support our event and the[ Travel Support Program](http://en.opensuse.org/openSUSE:Travel_Support_Program), you can do so by purchasing supporter or professional tickets! See [here](https://conference.opensuse.org/#tickets).
+Going to oSC14 is free, but if you choose to support our event and the[ Travel Support Program](//en.opensuse.org/openSUSE:Travel_Support_Program), you can do so by purchasing supporter or professional tickets! See [here](https://conference.opensuse.org/#tickets).

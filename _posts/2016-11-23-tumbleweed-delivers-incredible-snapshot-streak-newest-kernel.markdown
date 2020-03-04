@@ -28,7 +28,7 @@ tags:
 - zigbee
 ---
 
-![](http://i.imgur.com/POgU9ks.png)News of Linux releases are getting most of the headlines during November while snapshots of openSUSE Tumbleweed have subtly been flying under the radar.
+![](//i.imgur.com/POgU9ks.png)News of Linux releases are getting most of the headlines during November while snapshots of openSUSE Tumbleweed have subtly been flying under the radar.
 
 Other than Nov. 3 and Nov. 6, openSUSE Tumbleweed had updated software snapshots released every day this month.
 
@@ -38,7 +38,7 @@ The streak will continue past the most recent snapshot that is list [20161121](h
 
 <!-- more -->The snapshot the day before, [20161120](https://lists.opensuse.org/opensuse-factory/2016-11/msg00450.html), updated perl-DBD-SQLite, perl-XML-XPath and perl-Log-Log4perl. Internet Relay Client [Polari ](https://wiki.gnome.org/Apps/Polari)was updated to version 3.22.2 and fixed a glitch when opening a user list. Snapshot [20161119](https://lists.opensuse.org/opensuse-factory/2016-11/msg00419.html) updated autoyast2 to version 3.2.3 and yast2 to version 3.2.4.
 
-WireShark was updated to version 2.2.2 in the [20161118](https://lists.opensuse.org/opensuse-factory/2016-11/msg00413.html) snapshot and provides updated protocol support for networks including [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) and [ZigBee](http://www.zigbee.org/). Libvirt also received several new subpackages in the snapshot.
+WireShark was updated to version 2.2.2 in the [20161118](https://lists.opensuse.org/opensuse-factory/2016-11/msg00413.html) snapshot and provides updated protocol support for networks including [OpenFlow](https://www.opennetworking.org/sdn-resources/openflow) and [ZigBee](//www.zigbee.org/). Libvirt also received several new subpackages in the snapshot.
 
 The largest snapshot in the Tumbleweed streak was [20161117](https://lists.opensuse.org/opensuse-factory/2016-11/msg00410.html). Snapshot [20161117](https://lists.opensuse.org/opensuse-factory/2016-11/msg00410.html) provided a major update to Mozilla Firefox 50.0, a minor update to Mesa with 13.0.1, and KDE [Frameworks  5.28.0](https://www.kde.org/announcements/kde-frameworks-5.28.0.php) brought numerous KWayland improvements.
 

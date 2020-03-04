@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Weekly News writer and openSUSE member Jan-Simon Möller accepted 'People of openSUSE' interview request and shared with us some information about himself. Jan is also the maintainer of the [hamradio repository](http://download.opensuse.org/repositories/hamradio/) on the Build Service!
+Weekly News writer and openSUSE member Jan-Simon Möller accepted 'People of openSUSE' interview request and shared with us some information about himself. Jan is also the maintainer of the [hamradio repository](//download.opensuse.org/repositories/hamradio/) on the Build Service!
 
 <!-- more -->
 
@@ -53,7 +53,7 @@ Weekly News writer and openSUSE member Jan-Simon Möller accepted 'People of ope
 <td >**Homepage: **
 </td>
 
-<td >[www.jsmo.de](http://www.jsmo.de)
+<td >[www.jsmo.de](//www.jsmo.de)
 </td>
 
 <td >
@@ -64,7 +64,7 @@ Weekly News writer and openSUSE member Jan-Simon Möller accepted 'People of ope
 <td >**Blog:**
 </td>
 
-<td >[http://lizards.opensuse.org/author/dl9pf/](http://lizards.opensuse.org/author/dl9pf/)
+<td >[//lizards.opensuse.org/author/dl9pf/](//lizards.opensuse.org/author/dl9pf/)
 </td>
 
 <td >

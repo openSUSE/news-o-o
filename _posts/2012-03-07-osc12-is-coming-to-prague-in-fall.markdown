@@ -21,8 +21,8 @@ The openSUSE Conference (**oSC**) is the yearly get-together of  our community 
 ## Going Prague
 
 
-[![Boat Traffic Under the Prague Castle at Dusk ~ Prague, Czech Republic](http://farm2.staticflickr.com/1285/4681832979_f3f83a5572_z.jpg)](http://www.flickr.com/photos/msojka/4681832979/)
-After three years of oSC in Nuremberg we are excited to host this years conference in [Prague](http://www.praguewelcome.cz/en/), _"the city of a hundred spires"_. Prague, which is regularly voted among the ten most beautiful cities in Europe, is the capital and with more than 1.2 million inhabitants the largest city in the Czech Republic. The exact location and date isn't set yet but the fourth installment of oSC will not take place in September as usual, but rather at the turn of October and November, because of the preceding [SUSECon](http://www.suse.com/events/susecon/) and [the openSUSE Summit](http://en.opensuse.org/Portal:Summit).
+[![Boat Traffic Under the Prague Castle at Dusk ~ Prague, Czech Republic](//farm2.staticflickr.com/1285/4681832979_f3f83a5572_z.jpg)](//www.flickr.com/photos/msojka/4681832979/)
+After three years of oSC in Nuremberg we are excited to host this years conference in [Prague](//www.praguewelcome.cz/en/), _"the city of a hundred spires"_. Prague, which is regularly voted among the ten most beautiful cities in Europe, is the capital and with more than 1.2 million inhabitants the largest city in the Czech Republic. The exact location and date isn't set yet but the fourth installment of oSC will not take place in September as usual, but rather at the turn of October and November, because of the preceding [SUSECon](//www.suse.com/events/susecon/) and [the openSUSE Summit](//en.opensuse.org/Portal:Summit).
 
   
 
@@ -33,4 +33,4 @@ After three years of oSC in Nuremberg we are excited to host this years conferen
 
 Just because the conference isn't until November, it does not mean we can't start planning right way! We have already established a team of folks local to Prague which will help with the on-site organization during the conference, but we still need to form additional teams which will deal with various topics prior the conference. We need for instance a program team which will drive the call for papers and the schedule or the promotion team to come up with a theme for oSC12 together with artwork, banners, badges, T-shirts, etc.
 
-If you would like to participate, please subscribe to the [opensuse-conference@opensuse.org](mailto:opensuse-conference+subscribe@opensuse.org) [mailing list](http://lists.opensuse.org/opensuse-conference/) and read through the [conference wiki portal](http://en.opensuse.org/Portal:Conference) where we coordinate the organization  We are looking forward to hearing from you!
+If you would like to participate, please subscribe to the [opensuse-conference@opensuse.org](mailto:opensuse-conference+subscribe@opensuse.org) [mailing list](//lists.opensuse.org/opensuse-conference/) and read through the [conference wiki portal](//en.opensuse.org/Portal:Conference) where we coordinate the organization  We are looking forward to hearing from you!

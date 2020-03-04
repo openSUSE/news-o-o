@@ -11,7 +11,7 @@ categories:
 - Board
 ---
 
-In 2009, a set of [trademark guidelines](http://en.opensuse.org/openSUSE:Trademark_guidelines) were created to help define how the community and beyond could use the openSUSE logo and related trademarks in their own products and services.  Along with this, Novell granted powers to the openSUSE Board to be the guardians of the openSUSE trademarks.  This included ensuring that proper usage followed the guidelines as well as giving the Board the ability to review special use cases
+In 2009, a set of [trademark guidelines](//en.opensuse.org/openSUSE:Trademark_guidelines) were created to help define how the community and beyond could use the openSUSE logo and related trademarks in their own products and services.  Along with this, Novell granted powers to the openSUSE Board to be the guardians of the openSUSE trademarks.  This included ensuring that proper usage followed the guidelines as well as giving the Board the ability to review special use cases
 
 It also helped those who wanted written permission from the Board authorizing the use of trademarks on their products and services.  Formal requests for such permissions were sent to [permission@novell.com](mailto://permission@novell.com), and Novell would forward the request to the Board for review.
 

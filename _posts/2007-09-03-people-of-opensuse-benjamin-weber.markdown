@@ -15,7 +15,7 @@ categories:
 
 Today you can read which answers to the 'People of openSUSE' questions Benji Weber provides.
 
-Moreover it is possible now to make suggestions for future interview partners on the ['People of openSUSE' wiki page](http://en.opensuse.org/People_of_openSUSE).
+Moreover it is possible now to make suggestions for future interview partners on the ['People of openSUSE' wiki page](//en.opensuse.org/People_of_openSUSE).
 
 <!-- more -->
 
@@ -58,7 +58,7 @@ Moreover it is possible now to make suggestions for future interview partners on
 <td >**Homepage: **
 </td>
 
-<td >[http://benjiweber.co.uk](http://benjiweber.co.uk)
+<td >[//benjiweber.co.uk](//benjiweber.co.uk)
 </td>
 
 <td >
@@ -69,7 +69,7 @@ Moreover it is possible now to make suggestions for future interview partners on
 <td >**Blog:**
 </td>
 
-<td >[http://blogs.warwick.ac.uk/bweber](http://blogs.warwick.ac.uk/bweber)
+<td >[//blogs.warwick.ac.uk/bweber](//blogs.warwick.ac.uk/bweber)
 </td>
 
 <td >
@@ -149,7 +149,7 @@ Usual story: I've been using computers for most of my life.
 #### When and why did you start using openSUSE/SUSE Linux?
 
 
-I've been using SUSE Linux since 7.0 ([benjiweber.co.uk/screenshots/suse/suse7/](http://benjiweber.co.uk/screenshots/suse/suse7/) for those interested in how it was back then). I got a boxed set and installed it after reading about Linux in magazines. I was impressed at how easy it was compared to windows and havn't really looked back.
+I've been using SUSE Linux since 7.0 ([benjiweber.co.uk/screenshots/suse/suse7/](//benjiweber.co.uk/screenshots/suse/suse7/) for those interested in how it was back then). I got a boxed set and installed it after reading about Linux in magazines. I was impressed at how easy it was compared to windows and havn't really looked back.
 
 
 
@@ -173,16 +173,16 @@ I discovered the #suse irc channel on irc.freenode.net about 3 years ago, met ot
 
 
 	
-  * [Webpin search tool](http://packages.opensuse-community.org)
+  * [Webpin search tool](//packages.opensuse-community.org)
 
 	
-  * [One click install YaST module](http://en.opensuse.org/MetaPackages)
+  * [One click install YaST module](//en.opensuse.org/MetaPackages)
 
 	
   * English translations
 
 	
-  * [Software Portal Project](http://en.opensuse.org/Software_Portal)
+  * [Software Portal Project](//en.opensuse.org/Software_Portal)
 
 	
   * IRC / Mailing list help
@@ -503,7 +503,7 @@ The one about something to share, as I couldn't think of an answer.
 #### What other question would you like to answer? And what would you answer?
 
 
-Sometimes people ask "What does your desktop look like?" Mine this morning is [benjiweber.co.uk/desktop20070829.png](http://benjiweber.co.uk/desktop20070829.png)
+Sometimes people ask "What does your desktop look like?" Mine this morning is [benjiweber.co.uk/desktop20070829.png](//benjiweber.co.uk/desktop20070829.png)
 
 
 Wenn sie also keine literatur finden, liegt das nicht daran, dass das thema unerforscht hausarbeit schnell schreiben [https://hausarbeit-agentur.com](https://hausarbeit-agentur.com/) ist, sondern hat hchstwahrscheinlich damit zu tun, dass sie nicht wissen, wie sie suchen mssen

@@ -9,7 +9,7 @@ title: Contributor Gifts
 wordpress_id: 1140
 ---
 
-Today we had two posts that contributors received the Box and a very special gift. Again [Salid](http://blog.salid.de/archives/1200-I-contribute.html) was one of the first who got it. If you are not from Germany, you have to wait a little bit longer, but the packages should arrive soon. 
+Today we had two posts that contributors received the Box and a very special gift. Again [Salid](//blog.salid.de/archives/1200-I-contribute.html) was one of the first who got it. If you are not from Germany, you have to wait a little bit longer, but the packages should arrive soon. 
 
 Thanks again to all contributors!
 

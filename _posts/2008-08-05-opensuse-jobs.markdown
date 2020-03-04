@@ -119,4 +119,4 @@ Please send your full set of application documents, indicating the position you 
 
 This position is located in our Prague office as part of our Packagers team, full details are available here:
 
-[http://www.suse.cz/en/jobs/Package-Maintainer.html](http://www.suse.cz/en/jobs/Package-Maintainer.html)[](http://www.suse.cz/en/jobs/Package-Maintainer.html)
+[//www.suse.cz/en/jobs/Package-Maintainer.html](//www.suse.cz/en/jobs/Package-Maintainer.html)[](//www.suse.cz/en/jobs/Package-Maintainer.html)

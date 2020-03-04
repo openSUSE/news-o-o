@@ -38,7 +38,7 @@ The talk by Stephan 'Coolo' Kulow later that day was also well attended. He disc
 
 Like Coolo's and Joe's talk, other sessions were well attended and often the audience interacts extensively with the presenter and each other. That liveliness is reflected in the traditional 'hallway track', where lots of small one-on-one or few-on-few technical chats and discussions take place. People are even sitting on stairs and other less comfortable places, just to join in on discussions they want to provide input on.
 
-And, like the last few days, we have people watching the live streams available on [Bambuser](http://bambuser.com/channel/opensusetv) and through IRC, some of these interact with the sessions on the spot.
+And, like the last few days, we have people watching the live streams available on [Bambuser](//bambuser.com/channel/opensusetv) and through IRC, some of these interact with the sessions on the spot.
 
 
 

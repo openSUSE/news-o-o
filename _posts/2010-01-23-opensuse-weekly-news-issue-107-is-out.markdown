@@ -15,7 +15,7 @@ tags:
 - Weekly News
 ---
 
-![news](http://static.opensuse.org/images/knewsticker.png) Issue #107 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/107)!
+![news](//static.opensuse.org/images/knewsticker.png) Issue #107 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/107)!
 
 
 
@@ -47,4 +47,4 @@ tags:
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/107/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/107/Translations).
+[//en.opensuse.org/OpenSUSE_Weekly_News/107/Translations](//en.opensuse.org/OpenSUSE_Weekly_News/107/Translations).

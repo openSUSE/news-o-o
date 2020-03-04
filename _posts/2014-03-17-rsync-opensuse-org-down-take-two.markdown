@@ -19,6 +19,6 @@ After the outage [1 month ago](https://news.opensuse.org/2014/02/18/hardware-pro
 ![Server](/wp-content/uploads/2014/03/DSC_2977.jpg)
 Again we did not see any output on the serial console any more and even a power cycle did not reanimate the system.
 
-As the hardware is located in the data center of our sponsor [IP Exchange](http://www.ip-exchange.de/), we apologize for the delay it will take to fix the problem: we just need a field worker at the location who has the appropriate permissions and skills.
+As the hardware is located in the data center of our sponsor [IP Exchange](//www.ip-exchange.de/), we apologize for the delay it will take to fix the problem: we just need a field worker at the location who has the appropriate permissions and skills.
 
-During the downtime (and maybe also a good tip afterward), please check on [http://mirrors.opensuse.org](http://mirrors.opensuse.org/)/ for the closest mirror nearby your location that also offers rsync for you.
+During the downtime (and maybe also a good tip afterward), please check on [//mirrors.opensuse.org](//mirrors.opensuse.org/)/ for the closest mirror nearby your location that also offers rsync for you.

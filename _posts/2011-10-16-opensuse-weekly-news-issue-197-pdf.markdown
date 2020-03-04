@@ -17,4 +17,4 @@ tags:
 
 Due to technical issue, the release of HTML version will be delayed by several days. Sorry for the inconvenience.
 
-[Download the PDF](http://saigkill.homelinux.net/downloads/category/2-weekly-news?download=37:opensuse-weekly-news-197-pdf)
+[Download the PDF](//saigkill.homelinux.net/downloads/category/2-weekly-news?download=37:opensuse-weekly-news-197-pdf)

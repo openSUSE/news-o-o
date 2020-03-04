@@ -14,4 +14,4 @@ categories:
 - Wiki
 ---
 
-[![Failed geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)](http://en.opensuse.org/openSUSE:Downtime)Believe it or not: a car crashed into the Nuremberg SUSE office building. Our geekos are fine but the power will have to be shut down so repairs can take place. You can expect some availability issues for our servers the coming days. Hopefully things will be back up next week!
+[![Failed geeko](//en.opensuse.org/images/4/43/Failgeeko.png)](//en.opensuse.org/openSUSE:Downtime)Believe it or not: a car crashed into the Nuremberg SUSE office building. Our geekos are fine but the power will have to be shut down so repairs can take place. You can expect some availability issues for our servers the coming days. Hopefully things will be back up next week!

@@ -16,7 +16,7 @@ categories:
 More than twenty years have passed since GNU/Linux was born, and more than twenty five since the GNU manifesto by Richard Stallman. Free Software has become widely used in the industry and has been successfully introduced in many Computer Science Department syllabi's all over the globe. But the Bachelor degree achieved by studying Computer Science not the one of Linux Administrator or Free Software Programmer. While Free Software specific MSc programmes exist, scientific research with its focus on publication, study and review is rather different than the required skills of application of technical knowledge in the business world.
 
 Meanwhile, Free Software communities, born from the ashes of late 80s hacker communities, had the character of social movement. They attracted people from various social, economic, science sectors. Many of them, realizing the potential of Linux and its momentum, created a new generation of university dropouts. But their skills, even if they had tremendous knowledge of computer systems and networks, were undocumented and hard to prove in a '_HR department-compattible_' way.
-[![LPI logo](//news.opensuse.org/wp-content/uploads/2010/09/Lpi-lpi-logo2.png)](http://www.lpi.org/)
+[![LPI logo](//news.opensuse.org/wp-content/uploads/2010/09/Lpi-lpi-logo2.png)](//www.lpi.org/)
 
 
 
@@ -45,6 +45,6 @@ Many people, after using SUSE and openSUSE, became dedicated users and later det
 ## LPI at oSC
 
 
-If you are a dedicated SUSE or openSUSE user - power user - admin - magician, you should consider getting LPIC 1 certified. It might be the first step to a more successful career in Free Software. The upcoming [openSUSE Conference](http://conference.opensuse.org) in Greece will feature a LPI Exam room, where you can take your test and get going with these professional certifications. See the [oSC LPI page](http://conference.opensuse.org/#LPI) for more details. There will also be a session by Konstantinos Boukouvalas on the subject of Linux certification. Be there, it's a great place to start your Linux career!
+If you are a dedicated SUSE or openSUSE user - power user - admin - magician, you should consider getting LPIC 1 certified. It might be the first step to a more successful career in Free Software. The upcoming [openSUSE Conference](//conference.opensuse.org) in Greece will feature a LPI Exam room, where you can take your test and get going with these professional certifications. See the [oSC LPI page](//conference.opensuse.org/#LPI) for more details. There will also be a session by Konstantinos Boukouvalas on the subject of Linux certification. Be there, it's a great place to start your Linux career!
 
 _Article contributed by Konstantinos Boukouvalas, Operations Manager LPI MA Greece_

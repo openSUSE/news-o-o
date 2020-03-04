@@ -114,7 +114,7 @@ This week on 'People of openSUSE' we have interviewed openSUSE Election Committe
 #### Please introduce yourself!
 
 
-I was born a warm summer day 33 years ago in a small town in between Stockholm, Gothenburg and Oslo, called Kristinehamn. Now days I live in Stockholm. Working at Swedens largest Computer Education company as a [Senior Linux Trainer and a VMware Trainer](http://www.cornerstone.se/linux).
+I was born a warm summer day 33 years ago in a small town in between Stockholm, Gothenburg and Oslo, called Kristinehamn. Now days I live in Stockholm. Working at Swedens largest Computer Education company as a [Senior Linux Trainer and a VMware Trainer](//www.cornerstone.se/linux).
 
 
 
@@ -155,7 +155,7 @@ When Novell announced that they would acquire SuSE in 2004. I worked as a GNU/Li
 
 I participate in some different ways. Regular beta testing of factory and beta releases. I maintain some 30-35 packages in the openSUSE BuildService games project. And probably the same number of packages in my home project in the BuildService. I was one of the election officials in the Board election.  
   
-I'm also moderator in the [Swedish SUSE forum](http://www.suseforum.se). We are some people that are working on extending the forum to a Local openSUSE Community in Sweden. And if there are anyone out there that would like to help with that please, please [contact me](mailto:claes.backstrom@fsfe.org). I also spend a lot of time on IRC and you most often see me in #opensuse-gnome #opensuse-factory #opensuse-buildservice #opensuse-xen #opensuse-nordic and #opensuse-project so come on by and say Hello.  
+I'm also moderator in the [Swedish SUSE forum](//www.suseforum.se). We are some people that are working on extending the forum to a Local openSUSE Community in Sweden. And if there are anyone out there that would like to help with that please, please [contact me](mailto:claes.backstrom@fsfe.org). I also spend a lot of time on IRC and you most often see me in #opensuse-gnome #opensuse-factory #opensuse-buildservice #opensuse-xen #opensuse-nordic and #opensuse-project so come on by and say Hello.  
   
 I have a bunch of ASUS eeePC so right now I'm working to get openSUSE running without any problem on them. If anyone would like to help with this please contact me.  
   

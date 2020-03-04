@@ -22,19 +22,19 @@ On Saturday, **December 1st 2012**, at approximately **05:00 UTC** our data cent
 
 
         
-  * [openSUSE Forums](http://forums.opensuse.org)
+  * [openSUSE Forums](//forums.opensuse.org)
 
         
-  * [openSUSE Lizards](http://lizards.opensuse.org/)
+  * [openSUSE Lizards](//lizards.opensuse.org/)
 
         
   * [openSUSE News](//news.opensuse.org/)
 
         
-  * openSUSE ([landing page](http://www.opensuse.org) and [wikis](wiki.opensuse.org))
+  * openSUSE ([landing page](//www.opensuse.org) and [wikis](wiki.opensuse.org))
 
         
-  * [Novell Open ID](http://www.novell.com/communities/node/8951/novell-accessmanager-authentication-class-openid-authentication) for [SUSE Studio](http://susestudio.com/)
+  * [Novell Open ID](//www.novell.com/communities/node/8951/novell-accessmanager-authentication-class-openid-authentication) for [SUSE Studio](//susestudio.com/)
 
 
 The plan is to keep read only versions of each affected site running. We will keep this announcement updated with the current state and also report changes to opensuse-announce@opensuse.org.
@@ -44,18 +44,18 @@ To avoid confusion - the services listed below are not scheduled for any downtim
 
 
         
-  * [openSUSE download page](http://download.opensuse.org)
+  * [openSUSE download page](//download.opensuse.org)
 
 
 
         
-  * [Documentation](http://doc.opensuse.org)
+  * [Documentation](//doc.opensuse.org)
 
         
-  * [Video recordings](http://tube.opensuse.org)
+  * [Video recordings](//tube.opensuse.org)
 
         
-  * [Mailing lists](http://lists.opensuse.org)
+  * [Mailing lists](//lists.opensuse.org)
 
         
   * [IRC channels](irc://irc.opensuse.org/opensuse-project)
@@ -63,23 +63,23 @@ To avoid confusion - the services listed below are not scheduled for any downtim
 
 
         
-  * [Planet openSUSE](http://planet.opensuse.org)
+  * [Planet openSUSE](//planet.opensuse.org)
 
         
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
         
-  * [openSUSE Shop](http://shop.opensuse.org)
+  * [openSUSE Shop](//shop.opensuse.org)
 
 
 
         
-  * [Features openSUSE](http://features.opensuse.org)
+  * [Features openSUSE](//features.opensuse.org)
 
         
-  * [Build Service](http://build.opensuse.org)
+  * [Build Service](//build.opensuse.org)
 
         
-  * [Bugzilla](http://bugzilla.novell.com)
+  * [Bugzilla](//bugzilla.novell.com)
 
 

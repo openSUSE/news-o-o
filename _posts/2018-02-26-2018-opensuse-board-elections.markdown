@@ -24,7 +24,7 @@ Individuals who apply for an [openSUSE Membership](https://en.opensuse.org/openS
 
 Candidates elected to the position will serve a 24-month term. The terms of Gertjan Lettink, Bryan Lunduke and Tomas Chvatal will expire and this is a great opportunity for any member who is interested in helping the project from a seat like this to run and be elected
 
-Members of the openSUSE board help to influence the future direction of the project. Members are encouraged to learn the [election process](http://en.opensuse.org/openSUSE:Membership_officials#Process), run for the board or propose a candidate.
+Members of the openSUSE board help to influence the future direction of the project. Members are encouraged to learn the [election process](//en.opensuse.org/openSUSE:Membership_officials#Process), run for the board or propose a candidate.
 
 
 #### Election Committee

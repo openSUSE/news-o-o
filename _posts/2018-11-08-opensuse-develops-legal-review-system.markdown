@@ -56,6 +56,6 @@ The project has been so efficient that two lawyers who do all the legal reviews 
 
 The legal Data Base used by SUSE to generate reports with new license patterns  is about 2TB and has about 68.433.436 pattern matches in 27.319.682 individual files.
 
-Like [openQA](http://open.qa/), [Cavil](https://github.com/openSUSE/cavil) is written in Perl, with [Mojolicious/Minion](https://mojolicious.org) and [PostgreSQL](https://www.postgresql.org/).
+Like [openQA](//open.qa/), [Cavil](https://github.com/openSUSE/cavil) is written in Perl, with [Mojolicious/Minion](https://mojolicious.org) and [PostgreSQL](https://www.postgresql.org/).
 
 A quick look at the statistics about the content of the legal database showed the most popular open source licenses were GPL-2.0, BSD-3-Clause, GPL-Unspecified and MIT respectively.

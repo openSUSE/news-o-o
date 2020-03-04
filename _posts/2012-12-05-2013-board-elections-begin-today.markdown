@@ -45,11 +45,11 @@ Read the candidates [platforms and blogs here](https://en.opensuse.org/openSUSE:
 ### Option 2:  Live Q&A Debate
 
 
-Tomorrow, Thursday at 15:00 UTC ([_what's my timezone?_](http://www.worldtimeserver.com/convert_time_in_UTC.aspx)), candidates will gather in the #opensuse-project channel on Freenode IRC network.  A two hour session, moderated by the Election Officials, this will be an opportunity for you to ask questions live .
+Tomorrow, Thursday at 15:00 UTC ([_what's my timezone?_](//www.worldtimeserver.com/convert_time_in_UTC.aspx)), candidates will gather in the #opensuse-project channel on Freenode IRC network.  A two hour session, moderated by the Election Officials, this will be an opportunity for you to ask questions live .
 
 Can't make it, no problem.  We will post transcript of the debate here and on the mailing lists.  Got a question you want to ask but can't make it?  Post your question in the comment section below and we'll make sure the question gets asked during the debate.
 
 _Thank you,
 openSUSE Election Officials_
 
-With special thanks to [Marcus Moeller](http://www.marcusmoeller.ch/) for creation of artwork banner.
+With special thanks to [Marcus Moeller](//www.marcusmoeller.ch/) for creation of artwork banner.

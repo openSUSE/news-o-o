@@ -53,9 +53,9 @@ Lots of changes since the M3 release! The live CDs can now be deployed using USB
   * VirtualBox 3.0 beta 2
 
 
-A more complete list can be found on [the wiki](http://en.opensuse.org/Factory/News) and an updated list of Factory packages can be found on [DistroWatch](http://distrowatch.com/table.php?distribution=suse).
+A more complete list can be found on [the wiki](//en.opensuse.org/Factory/News) and an updated list of Factory packages can be found on [DistroWatch](//distrowatch.com/table.php?distribution=suse).
 
-11.2 is looking fantastic. Want screenshots? We've got 'em! Check out the shots [here](http://en.opensuse.org/Screenshots/11.2_Milestones), and/or add your own.
+11.2 is looking fantastic. Want screenshots? We've got 'em! Check out the shots [here](//en.opensuse.org/Screenshots/11.2_Milestones), and/or add your own.
 
 **Most Annoying Bugs**
 
@@ -79,14 +79,14 @@ As this is a milestone release, 11.2 m4 does contain a few bugs that we know abo
   * [Bug #515529:](https://bugzilla.novell.com/show_bug.cgi?id=515529) During installation, an empty error box is shown during the bootloader config, but it does install properly.
 
 
-You can track the Most Annoying Bugs on the [wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.2_dev) along with 11.2 development.
+You can track the Most Annoying Bugs on the [wiki](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.2_dev) along with 11.2 development.
 
 **Testing! Testing! Testing!**
 
 As you can see, 11.2 M4 does have a few annoying bugs that we know about -- but there may be more lurking somewhere in the release that haven't been found yet. If you want to make sure 11.2 final is free of Most Annoying Bugs, we'll need your help finding, reporting, and fixing those hidden bugs.
 
-Holger Sickenberg has put out a call for testing team members. If you're interested in doing some heavy testing on openSUSE, check out [Holger's announcement](http://lizards.opensuse.org/2009/07/24/call-for-opensuse-core-test-team/).
+Holger Sickenberg has put out a call for testing team members. If you're interested in doing some heavy testing on openSUSE, check out [Holger's announcement](//lizards.opensuse.org/2009/07/24/call-for-opensuse-core-test-team/).
 
 **Get Milestone 4 Today!**
 
-What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](http://software.opensuse.org/developer/) right now.
+What are you waiting for? Grab the milestone release today! Downloads are available at [software.opensuse.org/developer/](//software.opensuse.org/developer/) right now.

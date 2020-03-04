@@ -16,7 +16,7 @@ A warm and green hello to all of the geekosphere!
 
 Last month's [screenshot contest](https://forums.opensuse.org/showthread.php/506426-April-2015-Screenshots!-Win-a-nice-reward!) was a complete success! Our geeko friends submitted twice the usual amount of screenshots, sporting variying setups, environments and workflows. No two were alike! It was very refreshing to see how GNU/Linux desktops can be modified to suit everyone's taste.<!-- more -->After a week of polling, the results were as following:
 
-![](http://paste.opensuse.org/images/765c9d85.JPG)
+![](//paste.opensuse.org/images/765c9d85.JPG)
 
 Congratulations to our brother-in-green from Brazil, espigaum!
 

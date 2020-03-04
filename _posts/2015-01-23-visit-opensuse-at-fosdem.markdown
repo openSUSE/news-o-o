@@ -25,7 +25,7 @@ tags:
 
 [![label_for-print](/wp-content/uploads/2015/01/label_for-print.png)](/wp-content/uploads/2015/01/label_for-print.png)[FOSDEM](https://fosdem.org/2015/) is here once again and [openSUSE](https://www.opensuse.org/en/) will be there for all the madness that will take place next Friday, Saturday and Sunday.
 
-Geekos will discuss everything you want to know about [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed), [Factory](https://en.opensuse.org/Portal:Factory), [YaST](http://yast.github.io/), [Open Build Service](http://openbuildservice.org/), [openQA](https://openqa.opensuse.org/) and more. The openSUSE community will be there in full force to present to and develop with the open-source community.
+Geekos will discuss everything you want to know about [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed), [Factory](https://en.opensuse.org/Portal:Factory), [YaST](//yast.github.io/), [Open Build Service](//openbuildservice.org/), [openQA](https://openqa.opensuse.org/) and more. The openSUSE community will be there in full force to present to and develop with the open-source community.
 
 On Sunday, Feb. 1 between 10:35 and 11:25 a.m., come see Stephan Kulow explain [the development process and tools used to turn openSUSE Factory into Tumbleweed](https://fosdem.org/2015/schedule/event/the_tumbleweed_factory/); if you are a distribution integrators, you won't want to miss it.
 

@@ -14,6 +14,6 @@ tags:
 - Infrastructure
 ---
 
-![Failing Geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)Our public rsync server 'rsync.opensuse.org' will be not available on Monday, 2012-09-17, starting 11:00 local time (CEST) which is 17th of September, 09:00 UTC. The downtime is expected to last for three hours.
+![Failing Geeko](//en.opensuse.org/images/4/43/Failgeeko.png)Our public rsync server 'rsync.opensuse.org' will be not available on Monday, 2012-09-17, starting 11:00 local time (CEST) which is 17th of September, 09:00 UTC. The downtime is expected to last for three hours.
 
-Please have a look at our [webpage with local mirrors](http://mirrors.opensuse.org/) of our distribution and choose one of the closest to your region/country.
+Please have a look at our [webpage with local mirrors](//mirrors.opensuse.org/) of our distribution and choose one of the closest to your region/country.

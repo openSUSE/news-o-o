@@ -12,4 +12,4 @@ tags:
 - Weekly News
 ---
 
-Weekly News Team Meeting: http://en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current
+Weekly News Team Meeting: //en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current

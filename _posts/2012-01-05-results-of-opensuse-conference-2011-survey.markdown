@@ -13,7 +13,7 @@ categories:
 
 After the openSUSE 2011 Conference, we run a survey to gather feedback so that we can improve for the next conference. The overall feedback was very positive. Thanks a lot to the 134 people that participated in the survey!
 
-<!-- more -->Here's a summary of the answers with some things pointed out. For the full results, download [this  spreadsheet](http://en.opensuse.org/File:Osc11-feedback-survey-results.ods).
+<!-- more -->Here's a summary of the answers with some things pointed out. For the full results, download [this  spreadsheet](//en.opensuse.org/File:Osc11-feedback-survey-results.ods).
 
 **1) Based on this years conference experience are you expecting to participate in the next openSUSE conference?**
 
@@ -108,6 +108,6 @@ Better advertise mentioned twice
 
 The rest: thanks/great conference/hope for 2012oSC
 
-Thanks to Izabel Valverde for analyzing the results. The full results with all answers are available as[ spreadsheet](http://en.opensuse.org/File:Osc11-feedback-survey-results.ods).
+Thanks to Izabel Valverde for analyzing the results. The full results with all answers are available as[ spreadsheet](//en.opensuse.org/File:Osc11-feedback-survey-results.ods).
 
 

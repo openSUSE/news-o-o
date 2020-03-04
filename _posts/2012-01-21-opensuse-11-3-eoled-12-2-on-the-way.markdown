@@ -16,7 +16,7 @@ categories:
 
 
 
-As Benjaman Brunner[ announced yesterday](http://lists.opensuse.org/opensuse-announce/2012-01/msg00001.html), openSUSE 11.3 has reached end of life.  As a quick refresher, openSUSE releases new versions every 8 months, and each version has a life cycle of 18 months.  As 11.3 was released in July of 2010, the time has come to embrace our newer versions, including the successful [release of 12.1](http://software.opensuse.org) in November of 2011.
+As Benjaman Brunner[ announced yesterday](//lists.opensuse.org/opensuse-announce/2012-01/msg00001.html), openSUSE 11.3 has reached end of life.  As a quick refresher, openSUSE releases new versions every 8 months, and each version has a life cycle of 18 months.  As 11.3 was released in July of 2010, the time has come to embrace our newer versions, including the successful [release of 12.1](//software.opensuse.org) in November of 2011.
 
 As Brunner's announcement indicates, we worked hard to maintain 11.3 while developing its subsequent two releases (11.4 and 12.1.) And of course, we're already gearing up for 12.2, slated for release in July.  And the first milestone release is already just around the corner.  You'll be able to try out Milestone 1 on February 9th.
 

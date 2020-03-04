@@ -19,9 +19,9 @@ The guided report mode is a feature of bugzilla itself that we just enable.  It
 
 For those that use the unguided mode and want to use the guided mode (or the other way round), you can bookmark a template of the "New Bugreport" (see below for details) . Once you've done this, manually edit the URL of the bookmark and append "&format=guided" (if you want guided mode) or remove it if you do not want it. You can then use this bookmark for easy access, I have created that way a bookmark for openSUSE 11.1 bug reports that has already some stuff filled in, e.g. set "Found By" to "Community User". **Note that the guided mode will only be available after the update of bugzilla!**
 
-The changes for 3.2 in the upstream bugzilla are documented at the [bugzilla site](http://www.bugzilla.org/releases/3.2/release-notes.html). In addition, a couple of bugs and enhancements in our bugzilla have been fixed.
+The changes for 3.2 in the upstream bugzilla are documented at the [bugzilla site](//www.bugzilla.org/releases/3.2/release-notes.html). In addition, a couple of bugs and enhancements in our bugzilla have been fixed.
 
-Btw. if you want to report a bug, please check also our [guidelines](http://bugs.opensuse.org).
+Btw. if you want to report a bug, please check also our [guidelines](//bugs.opensuse.org).
 
 
 #### Task: How to create a template for new bug reports

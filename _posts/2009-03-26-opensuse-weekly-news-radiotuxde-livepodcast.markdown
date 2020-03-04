@@ -14,6 +14,6 @@ categories:
 We're pleased to announce that as of today the great team of RadioTux will include a summary of openSUSE Weekly News in their German-speaking podcast "Radiotux@HoRads". It's planned to make this a fixed part of the shows. Air date will be today between 18:00 CET and 19:30 CET. 
 
 So here are the links: 
-* [http://blog.radiotux.de/](http://blog.radiotux.de/) - link to RadioTux
-* [http://blog.radiotux.de/play](http://blog.radiotux.de/play) LIVE
-* [http://blog.radiotux.de/podcasts](http://blog.radiotux.de/podcasts) - link to the podcasts/archive
+* [//blog.radiotux.de/](//blog.radiotux.de/) - link to RadioTux
+* [//blog.radiotux.de/play](//blog.radiotux.de/play) LIVE
+* [//blog.radiotux.de/podcasts](//blog.radiotux.de/podcasts) - link to the podcasts/archive

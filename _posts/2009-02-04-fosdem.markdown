@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-Preparing stuff for [FOSDEM](http://fosdem.org), call me Sir Printalot. So we have nametags (if you didn't added you to the [list](http://en.opensuse.org/FOSDEM2009) you have to live with a handwritten one), schedules and posters. I also preparing the demo systems, collecting merchandise and writing blogs about it :-) See you on Friday in Bruxelles ...
-[![img_2165](http://farm4.static.flickr.com/3316/3253696000_f950c563eb_m.jpg)](http://www.flickr.com/photos/notlocalhorst/3253696000/)
+Preparing stuff for [FOSDEM](//fosdem.org), call me Sir Printalot. So we have nametags (if you didn't added you to the [list](//en.opensuse.org/FOSDEM2009) you have to live with a handwritten one), schedules and posters. I also preparing the demo systems, collecting merchandise and writing blogs about it :-) See you on Friday in Bruxelles ...
+[![img_2165](//farm4.static.flickr.com/3316/3253696000_f950c563eb_m.jpg)](//www.flickr.com/photos/notlocalhorst/3253696000/)
 
 (psst, there is an obvious error in one of the printouts, if you find it (and it's the one i mean), post a comment, the first one will get a free T-Shirt at FOSDEM. Post only if you are going to Brussels and you are not working for Novell/SUSE :-) ) [https://schreib-essay.com](https://schreib-essay.com/)

@@ -21,23 +21,23 @@ This release includes a number of important bugfixes since the last beta, as wel
 
 **Screenshots**
 
-[![KDE4 Cover Switch Effect ](//news.opensuse.org/wp-content/uploads/2008/11/800px-kde4-coverswitch.png)](http://en.opensuse.org/Image:Kde4-coverswitch.png)
+[![KDE4 Cover Switch Effect ](//news.opensuse.org/wp-content/uploads/2008/11/800px-kde4-coverswitch.png)](//en.opensuse.org/Image:Kde4-coverswitch.png)
 
-[![KDE4 Cube Effect ](//news.opensuse.org/wp-content/uploads/2008/11/800px-kde4-cube.png)](http://en.opensuse.org/Image:Kde4-cube.png)
+[![KDE4 Cube Effect ](//news.opensuse.org/wp-content/uploads/2008/11/800px-kde4-cube.png)](//en.opensuse.org/Image:Kde4-cube.png)
 
-[![GNOME Desktop Search](//news.opensuse.org/wp-content/uploads/2008/11/750px-111beta4search.png)](http://en.opensuse.org/Image:111Beta4Search.png)[![F-Spot Photo Manager ](//news.opensuse.org/wp-content/uploads/2008/11/750px-fspot.png)](http://en.opensuse.org/Image:FSpot.png)
+[![GNOME Desktop Search](//news.opensuse.org/wp-content/uploads/2008/11/750px-111beta4search.png)](//en.opensuse.org/Image:111Beta4Search.png)[![F-Spot Photo Manager ](//news.opensuse.org/wp-content/uploads/2008/11/750px-fspot.png)](//en.opensuse.org/Image:FSpot.png)
 
-If you're curious about what openSUSE 11.1 will look like, have a look at the rest of the [screenshots on the openSUSE wiki](http://en.opensuse.org/Screenshots/openSUSE_11.1_Beta4). Thanks to Kevin Dupuy and Martin Schlander for taking the time to put up the screenshots!
+If you're curious about what openSUSE 11.1 will look like, have a look at the rest of the [screenshots on the openSUSE wiki](//en.opensuse.org/Screenshots/openSUSE_11.1_Beta4). Thanks to Kevin Dupuy and Martin Schlander for taking the time to put up the screenshots!
 
 **Important: Call for Testing**
 
 We all want openSUSE 11.1 to be the best release yet, and we need your help to get there. This release is ready for widespread testing, and we're encouraging everyone to download and test the beta release. Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a beta release, and is not suitable for use on production systems, however.
 
-We have a page of new features specific to openSUSE 11.1 here: [http://en.opensuse.org/Testing:Features_11.1](http://en.opensuse.org/Testing:Features_11.1) This is a definitive list of new features added into 11.1 that need testing.
+We have a page of new features specific to openSUSE 11.1 here: [//en.opensuse.org/Testing:Features_11.1](//en.opensuse.org/Testing:Features_11.1) This is a definitive list of new features added into 11.1 that need testing.
 
 Please use this page to identify and test new features -- and then mark them complete when you've finished testing.
 
-See [openSUSE.org/Testing](http://openSUSE.org/Testing) for more information on Testing.
+See [openSUSE.org/Testing](//openSUSE.org/Testing) for more information on Testing.
 
 To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
@@ -45,7 +45,7 @@ To follow the testing and development process, we suggest that you subscribe to 
 
 Major changes in this release include:
 
-Inclusion of Nomad, a set of components that provide an unmatchable remote desktop experience to openSUSE. See more at: [http://en.opensuse.org/Nomad](http://en.opensuse.org/Nomad)
+Inclusion of Nomad, a set of components that provide an unmatchable remote desktop experience to openSUSE. See more at: [//en.opensuse.org/Nomad](//en.opensuse.org/Nomad)
 
 Timo Hoenig reports that fingerprint reader support is now feature complete, and he's accepting bugs. The most common fingerprint readers on the market should "just work," and users can register their fingerprint using the YaST module. Once registered, users can log in using their fingerprint. Console, GDM, 'su - $USER', gnome-screensaver, and gnomsu should all work with fingerprint support. KDE status is unknown.
 
@@ -70,7 +70,7 @@ Timo Hoenig reports that fingerprint reader support is now feature complete, and
   * Banshee 1.3.3
 
 
-See [DistroWatch](http://distrowatch.com/table.php?distribution=suse) for an expanded list of packages being shipped in the Factory distribution.
+See [DistroWatch](//distrowatch.com/table.php?distribution=suse) for an expanded list of packages being shipped in the Factory distribution.
 
 **Webcam Support Re-enabled**
 
@@ -103,9 +103,9 @@ Thanks to Jean Delvare for the report.
 
 **Media and Download**
 
-11.1 beta 4 is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: [http://en.opensuse.org/Roadmap](http://en.opensuse.org/Roadmap). Downloads are available at [http://software.opensuse.org/developer](http://software.opensuse.org/developer).
+11.1 beta 4 is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: [//en.opensuse.org/Roadmap](//en.opensuse.org/Roadmap). Downloads are available at [//software.opensuse.org/developer](//software.opensuse.org/developer).
 
-See [http://en.opensuse.org/Mirror_Selection](http://en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
+See [//en.opensuse.org/Mirror_Selection](//en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
 
 **Most Annoying Bugs**
 

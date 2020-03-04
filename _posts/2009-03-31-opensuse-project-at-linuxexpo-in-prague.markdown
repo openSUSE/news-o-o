@@ -38,4 +38,4 @@ We'll have openSUSE 11.1 DVDs available at the booth, as well as openSUSE t-shir
 
 Want to help with the booth at LinuxExpo? Contact [Katerina Olsakova ](mailto:kolsakova@suse.cz)to make arrangements to get an openSUSE shirt and set up a schedule to meet and greet at the openSUSE booth.
 
-More info on the LinuxExpo can be found in [English](http://www.linuxexpo.cz/?lang=1) and in [Czech](http://www.linuxexpo.cz/?lang=0) on the LinuxExpo Web site.
+More info on the LinuxExpo can be found in [English](//www.linuxexpo.cz/?lang=1) and in [Czech](//www.linuxexpo.cz/?lang=0) on the LinuxExpo Web site.

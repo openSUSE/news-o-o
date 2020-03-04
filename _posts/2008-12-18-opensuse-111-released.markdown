@@ -12,11 +12,11 @@ categories:
 - Distribution
 ---
 
-The openSUSE Project is proud to announce the release of openSUSE 11.1. The openSUSE 11.1 release includes more than [230 new features](http://en.opensuse.org/Testing:Features_11.1), improvements to YaST, major updates to GNOME, KDE, OpenOffice.org, and more freedom with a [brand new license](http://en.opensuse.org/EULA), Liberation fonts, and openJDK. This is also the first release built entirely in the openSUSE Build Service.
+The openSUSE Project is proud to announce the release of openSUSE 11.1. The openSUSE 11.1 release includes more than [230 new features](//en.opensuse.org/Testing:Features_11.1), improvements to YaST, major updates to GNOME, KDE, OpenOffice.org, and more freedom with a [brand new license](//en.opensuse.org/EULA), Liberation fonts, and openJDK. This is also the first release built entirely in the openSUSE Build Service.
 
 [![openSUSE Installer](//news.opensuse.org/wp-content/uploads/2008/12/11_1-install_part2.png)](//news.opensuse.org/wp-content/uploads/2008/12/11_1-install_part2.png)
 
-All of the Sneak Peeks for this release are available at on [openSUSE News](//news.opensuse.org/category/sneak-peeks/). You can also find a bevy of [screenshots](http://en.opensuse.org/Screenshots/openSUSE_11.1), and a list of [features](http://en.opensuse.org/Featurelist_11.1) found in openSUSE 11.1. You can also find a lengthy list of packages and version numbers on [DistroWatch](http://distrowatch.com/table.php?distribution=suse).
+All of the Sneak Peeks for this release are available at on [openSUSE News](//news.opensuse.org/category/sneak-peeks/). You can also find a bevy of [screenshots](//en.opensuse.org/Screenshots/openSUSE_11.1), and a list of [features](//en.opensuse.org/Featurelist_11.1) found in openSUSE 11.1. You can also find a lengthy list of packages and version numbers on [DistroWatch](//distrowatch.com/table.php?distribution=suse).
 
 Let's take a look at some of the specific additions in openSUSE 11.1!
 
@@ -99,7 +99,7 @@ The YaST team has been busy with this release, working on a number of improvemen
 ## Media and Download
 
 
-openSUSE is now available for [immediate download](http://software.opensuse.org/). openSUSE 11.1 comes with many choices of installation media.
+openSUSE is now available for [immediate download](//software.opensuse.org/). openSUSE 11.1 comes with many choices of installation media.
 
 
 
@@ -125,32 +125,32 @@ openSUSE is now available for [immediate download](http://software.opensuse.org/
   * openSUSE 11.1 KDE 4 64-bit Live CD
 
 
-You can also [purchase a retail box](http://en.opensuse.org/Buy_openSUSE) with openSUSE 11.1 that includes 90-day installation support, physical media, and a printed Getting Started guide.
+You can also [purchase a retail box](//en.opensuse.org/Buy_openSUSE) with openSUSE 11.1 that includes 90-day installation support, physical media, and a printed Getting Started guide.
 
 
 ## Communicate
 
 
-We want to hear from you! The openSUSE Project has [many channels of communication](http://en.opensuse.org/Communicate):
+We want to hear from you! The openSUSE Project has [many channels of communication](//en.opensuse.org/Communicate):
 
 
 
 	
-  * **Official openSUSE Forums:** [forums.opensuse.org](http://forums.opensuse.org/).
+  * **Official openSUSE Forums:** [forums.opensuse.org](//forums.opensuse.org/).
 
 	
-  * **Mailing Lists:** The openSUSE [mailing lists](http://en.opensuse.org/Communicate/Mailinglists).
+  * **Mailing Lists:** The openSUSE [mailing lists](//en.opensuse.org/Communicate/Mailinglists).
 
 	
-  * **IRC:** [#opensuse](irc://irc.freenode.net/opensuse) on irc.freenode.net and [and other channels](http://en.opensuse.org/Communicate/IRC).
+  * **IRC:** [#opensuse](irc://irc.freenode.net/opensuse) on irc.freenode.net and [and other channels](//en.opensuse.org/Communicate/IRC).
 
 	
-  * Jabber, Usenet, and [more](http://en.opensuse.org/Communicate).
+  * Jabber, Usenet, and [more](//en.opensuse.org/Communicate).
 
 
-To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](//news.opensuse.org/) and watch [Planet SUSE](http://www.planetsuse.org/) for blog posts from the openSUSE community.
+To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](//news.opensuse.org/) and watch [Planet SUSE](//www.planetsuse.org/) for blog posts from the openSUSE community.
 
-Want to help the openSUSE Project? To get involved with openSUSE see the [How to Participate](http://en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can use [lots of different skills](http://en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the project, so feel free to jump in!
+Want to help the openSUSE Project? To get involved with openSUSE see the [How to Participate](//en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can use [lots of different skills](//en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the project, so feel free to jump in!
 
 
 ## Thanks!

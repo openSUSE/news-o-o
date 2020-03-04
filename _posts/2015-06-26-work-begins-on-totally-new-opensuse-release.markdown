@@ -18,9 +18,9 @@ Deep thought and some additional core SUSE Linux Enterprise source code have gi
 
 The change is so phenomenal that the project is building a whole new release.
 
-Some people might be perplexed over the next regular release, but rather than bikeshedding the name over the next few months, for the moment, we will call it openSUSE: 42 after its project name in the [Open Build Service](https://build.opensuse.org). And we are going to explain the [roadmap](http://en.wikipedia.org/wiki/Template:Timeline_openSUSE) for this regular release.
+Some people might be perplexed over the next regular release, but rather than bikeshedding the name over the next few months, for the moment, we will call it openSUSE: 42 after its project name in the [Open Build Service](https://build.opensuse.org). And we are going to explain the [roadmap](//en.wikipedia.org/wiki/Template:Timeline_openSUSE) for this regular release.
 
-openSUSE 42 is scheduled to be released around [SUSECon](http://www.susecon.com), which is in Amsterdam this year from Nov. 2 - 6.
+openSUSE 42 is scheduled to be released around [SUSECon](//www.susecon.com), which is in Amsterdam this year from Nov. 2 - 6.
 
 Unlike old releases, future releases of “42” are expected to align with the releases of SLE service packs and major releases.
 

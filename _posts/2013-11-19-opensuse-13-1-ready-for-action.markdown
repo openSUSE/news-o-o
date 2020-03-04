@@ -12,10 +12,10 @@ categories:
 - Distribution
 ---
 
-Dear contributors, friends and fans: The release is here! Eight months of planning, packaging, adding features, fixing issues, testing and fixing more issues has brought you the best that Free and Open Source has to offer, with our Green touch: Stable and Awesome.[![The geeko has landed](//news.opensuse.org/wp-content/uploads/2013/11/openSUSE_moonlight.png)](http://software.opensuse.org)
+Dear contributors, friends and fans: The release is here! Eight months of planning, packaging, adding features, fixing issues, testing and fixing more issues has brought you the best that Free and Open Source has to offer, with our Green touch: Stable and Awesome.[![The geeko has landed](//news.opensuse.org/wp-content/uploads/2013/11/openSUSE_moonlight.png)](//software.opensuse.org)
 
 
-(_In other languages_: [cs](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD) [de](http://de.opensuse.org/Release-Ank%C3%BCndigung) [es](http://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_13.1) [fr](http://fr.opensuse.org/Annonce_de_version) [it](http://it.opensuse.org/Release_announcement) [ja](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [nl](http://nl.opensuse.org/Release_announcement) [ru](http://ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [zh](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E) [zh-tw](https://zh-tw.opensuse.org/Release_announcement))
+(_In other languages_: [cs](//cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD) [de](//de.opensuse.org/Release-Ank%C3%BCndigung) [es](//es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_13.1) [fr](//fr.opensuse.org/Annonce_de_version) [it](//it.opensuse.org/Release_announcement) [ja](//ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9) [nl](//nl.opensuse.org/Release_announcement) [ru](//ru.opensuse.org/%D0%9E%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B5) [zh](//zh.opensuse.org/%E5%8F%91%E8%A1%8C%E8%AF%B4%E6%98%8E) [zh-tw](https://zh-tw.opensuse.org/Release_announcement))
 
 
 This release did benefit from the improvements to our testing infrastructure and much attention for bug fixing. While a combination of over 6000 packages supporting 5 architectures can never be perfect, we're proud to say this really does represent the best Free Software has to offer! The latest desktops (five of them!), server and cloud technologies, software development tools and everything in between are included as well as a number of exciting, new technologies for you to play with. Enjoy!
@@ -104,7 +104,7 @@ openSUSE 13.1 comes with much improved font hinting thanks to the new font engin
 
 
 **Faster**
-New is accelerated video with VDPAU support in MESA and an optimized version of glibc for 32bit systems. Linux 3.11 includes work on ['page reclaim'](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=75485363ce8552698bfb9970d901f755d5713cca), maintaining performance during disk operations.
+New is accelerated video with VDPAU support in MESA and an optimized version of glibc for 32bit systems. Linux 3.11 includes work on ['page reclaim'](//git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=75485363ce8552698bfb9970d901f755d5713cca), maintaining performance during disk operations.
 
 
 
@@ -425,7 +425,7 @@ openSUSE 13.1 ships with the latest patch in the 3.11 kernel series. The brisk d
 
 
 **Documentation**
-In this release, ActiveDoc replaces doc.opensuse.org and most of the packaged documents in openSUSE. ActiveDoc is a new web app which lowers the barrier to contribution to openSUSE documentation while maintaining the high quality standards and multiple formats in which documentation is available. Check it out [here](http://activedoc.opensuse.org/).
+In this release, ActiveDoc replaces doc.opensuse.org and most of the packaged documents in openSUSE. ActiveDoc is a new web app which lowers the barrier to contribution to openSUSE documentation while maintaining the high quality standards and multiple formats in which documentation is available. Check it out [here](//activedoc.opensuse.org/).
 
 
 
@@ -443,7 +443,7 @@ In this release, ActiveDoc replaces doc.opensuse.org and most of the packaged do
 
 
 **SUSE Studio**
-[SUSE Studio users](http://susestudio.com) can expect availability of openSUSE 13.1 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 13.1 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse other’s shared appliances on [SUSE Gallery](http://susegallery.com).
+[SUSE Studio users](//susestudio.com) can expect availability of openSUSE 13.1 right from the release date, and support for upgrading existing appliances shortly after. This means it will be possible to easily create your own operating system for the cloud, desktop or portable devices based on openSUSE 13.1 with a custom package selections, artwork, scripts and any other properties. You can share your appliance or also browse other’s shared appliances on [SUSE Gallery](//susegallery.com).
 
 
 
@@ -462,16 +462,16 @@ _– said Ralf Flaxa, VP of engineering at SUSE_
 
 As usual, this release will continue to receive bugfixes and security updates for at least 2 release cycles + 2 months. However, the [openSUSE Evergreen team has already announced extended security and bugfix work](https://news.opensuse.org/2013/08/26/upcoming-opensuse-13-1-will-be-kept-evergreen/) for an additional 18 months, extending the openSUSE 13.1 maintenance life cycle to three years.
 
-For an even more detailed feature guide visit [opensuse.org/13.1](http://opensuse.org/Portal:13.1).
+For an even more detailed feature guide visit [opensuse.org/13.1](//opensuse.org/Portal:13.1).
 
 
 ## Go, get it!
 
 
-Downloads of openSUSE 13.1 can be found at [software.opensuse.org/131](http://software.opensuse.org/131).
-We recommend checking out the [Release Notes](http://doc.opensuse.org/release-notes/x86_64/openSUSE/13.1/) before upgrade or installation.
+Downloads of openSUSE 13.1 can be found at [software.opensuse.org/131](//software.opensuse.org/131).
+We recommend checking out the [Release Notes](//doc.opensuse.org/release-notes/x86_64/openSUSE/13.1/) before upgrade or installation.
 
-Users currently running openSUSE 12.3 can [upgrade to openSUSE 13.1 via the instructions at this link](http://en.opensuse.org/Upgrade). Users who have a properly set-up [Tumbleweed setup](http://opensuse.org/Tumbleweed) will automatically migrate to the new release without any additional effort!
+Users currently running openSUSE 12.3 can [upgrade to openSUSE 13.1 via the instructions at this link](//en.opensuse.org/Upgrade). Users who have a properly set-up [Tumbleweed setup](//opensuse.org/Tumbleweed) will automatically migrate to the new release without any additional effort!
 
 Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Stable 13.1 based images for ARMv7 are there and will receive full maintenance alongside 13.1. ARMv6 and ARMv8 (AArch64) ports are experimental and offer no guarantee.
 
@@ -488,4 +488,4 @@ Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Stab
 ## About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](//www.opensuse.org)

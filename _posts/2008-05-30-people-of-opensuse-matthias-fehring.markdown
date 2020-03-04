@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-'People of openSUSE' caught up the man behind the great effort done on the German openSUSE wiki -  Matthias Fehring. He is one of the system operatores of the [de.opensuse.org](http://de.opensuse.org) wiki and long time openSUSE user.
+'People of openSUSE' caught up the man behind the great effort done on the German openSUSE wiki -  Matthias Fehring. He is one of the system operatores of the [de.opensuse.org](//de.opensuse.org) wiki and long time openSUSE user.
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ categories:
 <td >**Homepage: **
 </td>
 
-<td >Nothing own, only the site I made for my village [http://eissen.huessenbergnetz.de](http://eissen.huessenbergnetz.de)
+<td >Nothing own, only the site I made for my village [//eissen.huessenbergnetz.de](//eissen.huessenbergnetz.de)
 </td>
 
 <td >

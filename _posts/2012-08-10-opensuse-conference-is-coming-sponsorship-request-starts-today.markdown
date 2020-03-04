@@ -16,7 +16,7 @@ categories:
 
 The Travel Committee can reimburses up to 80% of travel costs and lodging costs such as plane ticket, train ticket, bus ticket, hotel and hostel. Expenses with Visa, documentation, food, extras are up to the requester, The Travel Team won't be able to cover since is looking for sponsor as many people as possible.
 
-**The instructions are detailed at http://en.opensuse.org/openSUSE:Travel_Support_Program **
+**The instructions are detailed at //en.opensuse.org/openSUSE:Travel_Support_Program **
 
 Please read carefully and send the request to travel-support(at)opensuse(dot)org
 
@@ -24,7 +24,7 @@ Please read carefully and send the request to travel-support(at)opensuse(dot)org
 
 Some additional comments:
 
-[![](/wp-content/uploads/2012/08/opensusebackpack1.png)](http://news.opensuse.org/2012/08/10/opensuse-conference-is-coming-sponsorship-request-starts-today/opensusebackpack-2/)
+[![](/wp-content/uploads/2012/08/opensusebackpack1.png)](//news.opensuse.org/2012/08/10/opensuse-conference-is-coming-sponsorship-request-starts-today/opensusebackpack-2/)
 
 * A clear and complete application is faster and easier to process.
 

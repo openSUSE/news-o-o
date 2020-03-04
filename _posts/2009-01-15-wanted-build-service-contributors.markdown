@@ -11,9 +11,9 @@ categories:
 - Build Service
 ---
 
-Have you ever wanted to join [Build Service](http://en.opensuse.org/Build_Service) development, but you had no idea what to implement? Would you like a real opportunity to learn Ruby on Rails? This is a great time to start!
+Have you ever wanted to join [Build Service](//en.opensuse.org/Build_Service) development, but you had no idea what to implement? Would you like a real opportunity to learn Ruby on Rails? This is a great time to start!
 
-The OBS developers have collected smaller projects on this [wiki page](http://en.opensuse.org/Build_Service/Junior_Projects). These projects are ideal for anyone new to OBS development. All you need is a local copy of the Web Client, which can [easily be deployed](http://lizards.opensuse.org/2008/05/07/easy-obs-web-client-development/) on your development system.
+The OBS developers have collected smaller projects on this [wiki page](//en.opensuse.org/Build_Service/Junior_Projects). These projects are ideal for anyone new to OBS development. All you need is a local copy of the Web Client, which can [easily be deployed](//lizards.opensuse.org/2008/05/07/easy-obs-web-client-development/) on your development system.
 
 Most of the jobs will enable functionality which is already implemented, but not available in the web client. The web client is great for browsing the content and the status of the projects. These improvements will help developers to get a better overview about their builds and sources.
 

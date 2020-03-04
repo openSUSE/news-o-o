@@ -19,7 +19,7 @@ tags:
 - raspberry pi
 ---
 
-![](/wp-content/uploads/2018/05/IMG_1560-1.jpg)The [openSUSE Project](https://www.opensuse.org/) once again donated 10 [Raspberry Pis](https://www.raspberrypi.org/) to [GNU Health Project](http://health.gnu.org/), which were handed over to the project’s founder Luis Falcon at the [openSUSE Conference](https://events.opensuse.org/) today.
+![](/wp-content/uploads/2018/05/IMG_1560-1.jpg)The [openSUSE Project](https://www.opensuse.org/) once again donated 10 [Raspberry Pis](https://www.raspberrypi.org/) to [GNU Health Project](//health.gnu.org/), which were handed over to the project’s founder Luis Falcon at the [openSUSE Conference](https://events.opensuse.org/) today.
 
 Last year, the openSUSE Project [donated 10 Raspberry Pis](https://news.opensuse.org/2017/03/13/gnu-health-opensuse-pioneer-shift-in-healthcare-management/) to the non-profit,[ non-government organizations](https://en.wikipedia.org/wiki/Non-governmental_organization) (NGO) that delivers free open-source software for health practitioners, health institutions and governments worldwide.
 
@@ -29,6 +29,6 @@ GNU Health’s free software provides functionality to facilitate a[ Hospital In
 
 Both Falcon and Axel Braun gave talks at the openSUSE Conference about GNU Health and how it is changing [digital ecosystem](https://en.wikipedia.org/wiki/Digital_ecosystem) and benefiting communities on a global scale.
 
-More talks about GNU Health and its Raspberry Pis are expected to be discussed at the [GNU Health Conference](http://www.gnuhealthcon.org/) in November, which openSUSE is sponsoring this year.
+More talks about GNU Health and its Raspberry Pis are expected to be discussed at the [GNU Health Conference](//www.gnuhealthcon.org/) in November, which openSUSE is sponsoring this year.
 
 Users of openSUSE can install GNU Health as part of the official release of openSUSE Leap 15 at [software.opensuse.org](https://software.opensuse.org/).

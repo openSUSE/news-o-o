@@ -13,4 +13,4 @@ tags:
 - Weekly News
 ---
 
-[Meeting page](http://en.opensuse.org/OpenSUSE_Weekly_News/Meetings)
+[Meeting page](//en.opensuse.org/OpenSUSE_Weekly_News/Meetings)

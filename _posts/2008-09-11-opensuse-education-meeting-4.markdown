@@ -18,8 +18,8 @@ It will be held in the [#openSUSE-edu](irc://irc.freenode.net/opensuse-edu) Free
 
 
 
-** Tuesday 2008/09/16 [17:00 (UTC/GMT)](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2008&mo=09&d=16&h=17&mn=0)**
+** Tuesday 2008/09/16 [17:00 (UTC/GMT)](//www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2008&mo=09&d=16&h=17&mn=0)**
 (click on the time to convert UTC/GMT to your time zone)
 
 
-More Information is available in the [openSUSE-Wiki](http://en.opensuse.org/Education/Meetings/Education_Meeting_2008-09-16).
+More Information is available in the [openSUSE-Wiki](//en.opensuse.org/Education/Meetings/Education_Meeting_2008-09-16).

@@ -23,8 +23,8 @@ To get started, the current Novell and openSUSE package maintainers will be work
 ## How to Get Started
 
 
-If you're new to working with Factory and the openSUSE Build Service, you can start with the [Factory Packaging page on the openSUSE Wiki](http://en.opensuse.org/Factory/Packaging). This explains the Factory workflow, how to check out packages and submit changes, how to create new devel projects, and so on.
+If you're new to working with Factory and the openSUSE Build Service, you can start with the [Factory Packaging page on the openSUSE Wiki](//en.opensuse.org/Factory/Packaging). This explains the Factory workflow, how to check out packages and submit changes, how to create new devel projects, and so on.
 
-Have questions or need help getting started? There are plenty of openSUSE Factory contributors who'd be happy to answer questions and help you get started. To learn more, join the opensuse-factory [mailing list](http://en.opensuse.org/Mailing_Lists), or get real-time help in the #opensuse-factory IRC channel on Freenode.
+Have questions or need help getting started? There are plenty of openSUSE Factory contributors who'd be happy to answer questions and help you get started. To learn more, join the opensuse-factory [mailing list](//en.opensuse.org/Mailing_Lists), or get real-time help in the #opensuse-factory IRC channel on Freenode.
 
 The policy changes that have been made with Factory are another step in making openSUSE a more independent project, and allowing all contributors to take equal responsibility. As Factory development and devel teams evolve, we hope to see more contributors taking a lead role in leading openSUSE development and shaping the openSUSE distro. Factory is open!

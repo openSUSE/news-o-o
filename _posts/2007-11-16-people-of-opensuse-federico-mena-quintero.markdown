@@ -51,7 +51,7 @@ Federico Mena-Quintero, the last member of the [first openSUSE Board](//news.ope
 <td >**Homepage: **
 </td>
 
-<td >[http://www.gnome.org/~federico](http://www.gnome.org/%7Efederico)
+<td >[//www.gnome.org/~federico](//www.gnome.org/%7Efederico)
 </td>
 
 <td >
@@ -62,7 +62,7 @@ Federico Mena-Quintero, the last member of the [first openSUSE Board](//news.ope
 <td >**Blog:**
 </td>
 
-<td >[http://www.gnome.org/~federico/news.html](http://www.gnome.org/%7Efederico/news.html)
+<td >[//www.gnome.org/~federico/news.html](//www.gnome.org/%7Efederico/news.html)
 </td>
 
 <td >
@@ -214,9 +214,9 @@ It's also nice to be in a place where you get to talk to the free software commu
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-I'm rather proud of the performance enhancements that I've done or helped coordinate for GNOME, which have often appeared first in openSUSE: [http://www.gnome.org/~federico/index.html#performance-articles](http://www.gnome.org/%7Efederico/index.html#performance-articles)
+I'm rather proud of the performance enhancements that I've done or helped coordinate for GNOME, which have often appeared first in openSUSE: [//www.gnome.org/~federico/index.html#performance-articles](//www.gnome.org/%7Efederico/index.html#performance-articles)
 
-Also, Rodrigo Moya and I came up with a pretty nice policy for bug triaging in openSUSE: [http://en.opensuse.org/GNOME/Bugs](http://en.opensuse.org/GNOME/Bugs)
+Also, Rodrigo Moya and I came up with a pretty nice policy for bug triaging in openSUSE: [//en.opensuse.org/GNOME/Bugs](//en.opensuse.org/GNOME/Bugs)
 
 
 
@@ -492,7 +492,7 @@ Of course, many of them.
 
 Sure, a picture of my wife and I:
 
-[http://www.gnome.org/~federico/misc/federico-oralia.jpg](http://www.gnome.org/%7Efederico/misc/federico-oralia.jpg)
+[//www.gnome.org/~federico/misc/federico-oralia.jpg](//www.gnome.org/%7Efederico/misc/federico-oralia.jpg)
 
 
 

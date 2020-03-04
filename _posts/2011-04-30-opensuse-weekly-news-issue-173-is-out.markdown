@@ -19,7 +19,7 @@ We are pleased to announce our new openSUSE Weekly News 173.
 <!-- more -->
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -31,12 +31,12 @@ We are pleased to announce our new openSUSE Weekly News 173.
 
 **Legal Notice**
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
        
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/). 
        The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -44,7 +44,7 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which 
         license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
 Published: 2011-04-30
 
@@ -98,22 +98,22 @@ Translations
 
 We are pleased to announce our 173rd issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy reading :-)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
+## ![Header Picture](//saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 “
 
-[openSUSE happy to welcome 16 GSOC students!](http://news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/)
+[openSUSE happy to welcome 16 GSOC students!](//news.opensuse.org/2011/04/28/opensuse-happy-to-welcome-16-gsoc-students/)
 
-We’ve got excellent news! We’ve received many excellent submissions for our [Google Summer of Code](http://en.opensuse.org/openSUSE:GSOC_2011) application
+We’ve got excellent news! We’ve received many excellent submissions for our [Google Summer of Code](//en.opensuse.org/openSUSE:GSOC_2011) application
       and Google has given us 16 slots. This means that 16 eager students have been selected and
       will start working with their mentors on an awesome openSUSE project!
 
 According to the [GSOC
-        timeline](http://www.google-melange.com/document/show/gsoc_program/google/gsoc2011/timeline) the students will now start with the [Community Bonding period](http://googlesummerofcode.blogspot.com/2007/04/so-what-is-this-community-bonding-all.html) in which they have time to set up their development stuff,
+        timeline](//www.google-melange.com/document/show/gsoc_program/google/gsoc2011/timeline) the students will now start with the [Community Bonding period](//googlesummerofcode.blogspot.com/2007/04/so-what-is-this-community-bonding-all.html) in which they have time to set up their development stuff,
       get acquainted with their mentors and get to know the openSUSE community. This means we’ll see
       those students on our communication channels, be it IRC, forums or mailing lists! Give them a
       warm welcome!
@@ -123,23 +123,23 @@ In a little over three weeks, the coding will start. I’m sure you’re all exc
       nice list of the accepted proposals and asked a few students a quick quote on IRC!
       (...)
 
-**License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [GFDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
 “
 
 [openSUSE
-        11.4 DVDs for Events](http://news.opensuse.org/2011/04/26/opensuse-11-4-dvds-for-events/)
+        11.4 DVDs for Events](//news.opensuse.org/2011/04/26/opensuse-11-4-dvds-for-events/)
 
-Following the huge success for filling requests of openSUSE 11.3 media in [February](http://news.opensuse.org/2011/02/18/help-the-project-spread-opensuse-dvds/), we have produced openSUSE 11.4 DVDs to distribute at events, Linux user
+Following the huge success for filling requests of openSUSE 11.3 media in [February](//news.opensuse.org/2011/02/18/help-the-project-spread-opensuse-dvds/), we have produced openSUSE 11.4 DVDs to distribute at events, Linux user
       groups, universities etc.
 
 **The PromoDVDs**
 
 These “PromoDVDs” are meant to promote openSUSE and help users get a quick
       taste of what we have to offer. A PromoDVD is different from the usual openSUSE DVD’s you can
-      download from our [download portal](http://software.opensuse.org/114/en).
+      download from our [download portal](//software.opensuse.org/114/en).
       They contain a reduced set of packages for installation to make room for a Live GNOME and Live
       KDE image. And the DVD’s are double-sided with both 32 and 64 bit on one disc!
 
@@ -148,13 +148,13 @@ In some countries, where network connections are an issue, users can bring these
       giving people a chance to test drive and see right away why openSUSE is a great distro for
       them!
 
-**License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [GFDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
 “
 
-[Upcomming power outage Saturday, 2011-04-30](http://news.opensuse.org/2011/04/29/upcomming-power-outage-saturday-2011-04-30/)
+[Upcomming power outage Saturday, 2011-04-30](//news.opensuse.org/2011/04/29/upcomming-power-outage-saturday-2011-04-30/)
 
 We will have a service outage this Saturday (30 April) due to work on power supply in one
       of our server rooms. As result, the infrastructure in front of the following services will not
@@ -183,14 +183,14 @@ We will have a service outage this Saturday (30 April) due to work on power supp
 The content on download.opensuse.org will come from a fall back system and will not get
       updated during Saturday evening.
 
-**License**: [GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [GFDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
 “
 
 [openSUSE Coming
-        to LFNW](http://news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/)
+        to LFNW](//news.opensuse.org/2011/04/25/opensuse-coming-to-lfnw/)
 
 Following in the growing list of appearances we’re making worldwide, openSUSE will land in
       Bellingham, Washington for the LinuxFest Northwest conference ( LFNW ) on Saturday, April 30
@@ -208,15 +208,15 @@ Following in the growing list of appearances we’re making worldwide, openSUSE 
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
+<td align="center" >![](//michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td></tr></table>
 
 “
 
-[Kai-Uwe Behrmann: Google Summer of Code 2011 Students](http://oyranos-cms.blogspot.com/2011/04/google-summer-of-code-2011-students.html)
+[Kai-Uwe Behrmann: Google Summer of Code 2011 Students](//oyranos-cms.blogspot.com/2011/04/google-summer-of-code-2011-students.html)
 
 Several students proposed this year to specific colour management themes. Unfortunately
       not all could be accepted for the stipends, even though the quality of the proposals where
@@ -224,7 +224,7 @@ Several students proposed this year to specific colour management themes. Unfort
       and picked the following three proposals and students. 
 
 Yiannis Belias will continue the last years project: "API stabilization for Oyranos Colour
-      Management System II" for [OpenICC](http://opensuse.sf.net/) We have seen
+      Management System II" for [OpenICC](//opensuse.sf.net/) We have seen
       good progress and quite usable code during the last year period. Still there is lots to do to
       integrate and finish the code transformation. (...)
 
@@ -233,7 +233,7 @@ Yiannis Belias will continue the last years project: "API stabilization for Oyra
 “
 
 [Jos
-        Poortvliet: GSoC - DOs and DON'Ts](http://blog.jospoortvliet.com/2011/04/gsoc-dos-and-donts.html)
+        Poortvliet: GSoC - DOs and DON'Ts](//blog.jospoortvliet.com/2011/04/gsoc-dos-and-donts.html)
 
 Soon we'll all hear the news on the students accepted to Google Summer of Code. I'm
       excited and I'm sure so are a lot of students! 
@@ -241,48 +241,48 @@ Soon we'll all hear the news on the students accepted to Google Summer of Code. 
 Once the news is in, it is time to start getting to know your mentor, getting your
       development environment up and starting to code. To help students, mentors and admins, let me
       echo a [post by Lydia
-        Pintscher](http://blog.lydiapintscher.de/2011/04/23/gsoc-dos-and-donts/) to Planet openSUSE pointing to three blogs about DOs and DON'Ts she wrote
+        Pintscher](//blog.lydiapintscher.de/2011/04/23/gsoc-dos-and-donts/) to Planet openSUSE pointing to three blogs about DOs and DON'Ts she wrote
       with two other experienced GSoC mentors: (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
-### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
+### ![Header Picture](//saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
 Important Links
 
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
-  * [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
-  * [Bug Reporting FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+  * [Bug Reporting FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 ### Team Reports
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Kde-logo.jpg)KDE Team
 
 “
 
 
-          [Aaron Seigo: First KDE Plasma Active app: Calligra office suite](http://vizzzion.org/blog/2011/04/plasma-active-a-desirable-user-experience-encompassing-the-device-spectrum/)
+          [Aaron Seigo: First KDE Plasma Active app: Calligra office suite](//vizzzion.org/blog/2011/04/plasma-active-a-desirable-user-experience-encompassing-the-device-spectrum/)
         
 
 (**Note**: This post is about Plasma Active, a community
           collaboration to bring KDE software to consumer devices. To learn more about Plasma
           Active, [read this blog
-            post](http://aseigo.blogspot.com/2011/04/active-routes.html).) 
+            post](//aseigo.blogspot.com/2011/04/active-routes.html).) 
 
 Today, Plasma Active is proud to announce our first [Active
-            App](http://aseigo.blogspot.com/2011/04/plasma-active-active-apps.html), or rather our first Active App suite.
+            App](//aseigo.blogspot.com/2011/04/plasma-active-active-apps.html), or rather our first Active App suite.
           While interacting with what are generally referred to as "office documents" isn't what we
           may think of as "sexy" it's a very important set of functionality.
 
-For Plasma Active, we've joined forces with [Calligra](http://www.calligra-suite.org/) which is a suite of office
+For Plasma Active, we've joined forces with [Calligra](//www.calligra-suite.org/) which is a suite of office
           applications which uses the KDE Platform and has an active mobile and consumer electronics
           effort.
 
@@ -291,11 +291,11 @@ Calligra Active is currently in alpha, but this refers primarily to the touch
           Open XML is some of the best to be found in a mobile form factor. The Calligra team is
           currently working on a transition of the interface to QtQuick, but Plasma Active is
           already including the current mobile-targeted interface in [the
-            operating system images](http://aseigo.blogspot.com/2011/04/plasma-active-operating-systems.html). (...)
+            operating system images](//aseigo.blogspot.com/2011/04/plasma-active-operating-systems.html). (...)
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -318,7 +318,7 @@ Network installation could be improved by running package download and package
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -439,21 +439,21 @@ Hamster can use trophies from [https://github.com/tbaugis/gnome-achievements](ht
 
 Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org/statistic/product/opensuse_dist)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Postings from the Community
 
 “
 
 [Bryen Yunashko: What’s in a name?
-          (Or… What should we call the openSUSE Conference?)](http://www.bryen.com/whats-in-a-name/)
+          (Or… What should we call the openSUSE Conference?)](//www.bryen.com/whats-in-a-name/)
 
 Over the past few weeks there’s been actually two threadson the openSUSE Project mailing
         list discussing what we should call the upcoming openSUSE Conference. One proposal was to
@@ -474,7 +474,7 @@ Both have their unique pros and cons. And ultimately whichever one we choose wil
 “
 
 [Kostas Koudaras: Why you should not be afraid to mingle with the openSUSE
-        Project](http://e-tote-kala.blogspot.com/2011/04/why-you-should-not-be-afraid-to-mingle.html)
+        Project](//e-tote-kala.blogspot.com/2011/04/why-you-should-not-be-afraid-to-mingle.html)
 
 I see many people coming to the openSUSE project but only a few of them (the new people)
         actually participate in the mailing list talks and on IRC channels talks. I kept asking
@@ -491,24 +491,24 @@ I see many people coming to the openSUSE project but only a few of them (the new
 
 Upcoming
 
-  * [May 5, 2011 : FOSS User (Sri Lanka)](http://fossuser.lk/en/02/foss-needs-you/)
+  * [May 5, 2011 : FOSS User (Sri Lanka)](//fossuser.lk/en/02/foss-needs-you/)
 
-  * [May 5-8, 2011 : Linuxwochen Vienna (Austria)](http://linuxwochen.at/)
+  * [May 5-8, 2011 : Linuxwochen Vienna (Austria)](//linuxwochen.at/)
 
-  * [May 7-8, 2011 : 	FOSSCOMM 2011 Patras (Greece)](http://patras.fosscomm.gr/?lang=en)
+  * [May 7-8, 2011 : 	FOSSCOMM 2011 Patras (Greece)](//patras.fosscomm.gr/?lang=en)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-      it on [http://saigkill.homelinux.net/podcasts](http://saigkill.homelinux.net/podcasts). 
+      it on [//saigkill.homelinux.net/podcasts](//saigkill.homelinux.net/podcasts). 
 
 ### From Ambassadors
 
 “
 
-[Bruno Friedmann: Fosscomm 2011 in Patras – Greece](http://lizards.opensuse.org/2011/04/25/fosscomm-2011-in-patras-greece/)
+[Bruno Friedmann: Fosscomm 2011 in Patras – Greece](//lizards.opensuse.org/2011/04/25/fosscomm-2011-in-patras-greece/)
       
 
 The event will take place in Patras this year. For those of you who don’t know, fosscomm
@@ -522,23 +522,23 @@ The event will take place in Patras this year. For those of you who don’t know
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE
-      Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+      Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 “
 
-[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:019)](http://lists.opensuse.org/opensuse-security-announce/2011-04/msg00006.html)
+[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:019)](//lists.opensuse.org/opensuse-security-announce/2011-04/msg00006.html)
 
 <table frame="void" id="id319578" >Table 1. Security Announce<tr >
           
@@ -583,7 +583,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 “
 
-[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:020)](http://lists.opensuse.org/opensuse-security-announce/2011-04/msg00007.html)
+[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:020)](//lists.opensuse.org/opensuse-security-announce/2011-04/msg00007.html)
 
 <table frame="void" id="id319724" >Table 2. Security Announce<tr >
           
@@ -627,7 +627,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 “
 
-[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:021)](http://lists.opensuse.org/opensuse-security-announce/2011-04/msg00008.html)
+[SUSE Security Announcement: Linux kernel (SUSE-SA:2011:021)](//lists.opensuse.org/opensuse-security-announce/2011-04/msg00008.html)
 
 <table frame="void" id="id319868" >Table 3. Security Announce<tr >
           
@@ -669,26 +669,26 @@ To view the security announcements in full, or to receive them as soon as they'r
 </td>
         </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 “
 
 
       [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.39 (Part 2) – Storage and file
-        systems](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-39-Part-2-Storage-and-file-systems-1232317.html)
+        systems](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-39-Part-2-Storage-and-file-systems-1232317.html)
     
 
 **Various internal changes to the block layer that were specifically mentioned by Linus Torvalds are designed to enhance performance and scalability. The Ext4 file system is also said to offer improvements in this respect. Still classified as experimental, Btrfs now offers Batched Discard functionality, and LIO (Linux-Iscsi.org) includes a loop-back function.**
 
-At the end of last week, Andi Kleen published a [series of patches](http://thread.gmane.org/gmane.linux.kernel/1129793) that
+At the end of last week, Andi Kleen published a [series of patches](//thread.gmane.org/gmane.linux.kernel/1129793) that
       fixes a performance problem between the Virtual File System (VFS) and the security
-      infrastructure; this was an unwanted side effect from the [optimisation to the VFS](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-2-File-systems-1192694.html) that was merged in Linux 2.6.38. Torvalds showed [great interest](http://thread.gmane.org/gmane.linux.kernel/1129793/focus%3D52980) in them and [merged one](http://git.kernel.org/linus/8c9e80ed276fc4b9c9fadf29d8bf6b3576112f1a) into the main development tree; a second fix that is based on the three patches
-      from Kleen [followed on Monday](http://git.kernel.org/linus/9ade0cf440a1e5800dc68eef2e77b8d9d83a6dff) and fixes the problem in the SELinux codebase. It's still
+      infrastructure; this was an unwanted side effect from the [optimisation to the VFS](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-2-File-systems-1192694.html) that was merged in Linux 2.6.38. Torvalds showed [great interest](//thread.gmane.org/gmane.linux.kernel/1129793/focus%3D52980) in them and [merged one](//git.kernel.org/linus/8c9e80ed276fc4b9c9fadf29d8bf6b3576112f1a) into the main development tree; a second fix that is based on the three patches
+      from Kleen [followed on Monday](//git.kernel.org/linus/9ade0cf440a1e5800dc68eef2e77b8d9d83a6dff) and fixes the problem in the SELinux codebase. It's still
       undecided if these or similar patches will make it into a stable kernel 2.6.38, as Torvalds
       mentioned at one point that he was considering.
 
 Torvalds did not yet produce a fifth release candidate for Linux 2.6.39 – but it should
-      emerge in the next few days, as the [RC4](http://thread.gmane.org/gmane.linux.kernel/1128248) is already more than
+      emerge in the next few days, as the [RC4](//thread.gmane.org/gmane.linux.kernel/1128248) is already more than
       one week old. (...)
 
 ”
@@ -750,20 +750,20 @@ Linus
 “
 
 [Rares
-        Aioanei: kernel weekly news – 30.04.2011](http://schaiba.wordpress.com/2011/04/30/kernel-weekly-news-30-04-2011/)
+        Aioanei: kernel weekly news – 30.04.2011](//schaiba.wordpress.com/2011/04/30/kernel-weekly-news-30-04-2011/)
 
 This weeks Issue of Rares Aoianei's Kernel Weekly News.
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
 “
 
 
-        [Scribbles and Snaps: Generate HTML Photo Galleries with digiKam](http://scribblesandsnaps.wordpress.com/2011/04/26/generate-html-photo-galleries-with-digikam/)
+        [Scribbles and Snaps: Generate HTML Photo Galleries with digiKam](//scribblesandsnaps.wordpress.com/2011/04/26/generate-html-photo-galleries-with-digikam/)
       
 
 There are so many clever ways to share photos on the Web that the idea of creating a
@@ -780,7 +780,7 @@ There are so many clever ways to share photos on the Web that the idea of creati
 “
 
 
-        [LinuxJournal/Bruce Byfield: Using Styles in Scribus](http://www.linuxjournal.com/content/using-styles-scribus)
+        [LinuxJournal/Bruce Byfield: Using Styles in Scribus](//www.linuxjournal.com/content/using-styles-scribus)
       
 
 If you don't include master pages (which are really styles under another name), then
@@ -804,10 +804,10 @@ One of the conceptual problems you may have is that styles are defined and appli
 “
 
 
-        [Unixmen/ayesha ahmed: 31 Great Tutorials for Inkscape! ](http://www.unixmen.com/linux-tutorials/1659-31-best-tutorials-of-inkscape)
+        [Unixmen/ayesha ahmed: 31 Great Tutorials for Inkscape! ](//www.unixmen.com/linux-tutorials/1659-31-best-tutorials-of-inkscape)
       
 
-[Inkscape](http://www.inkscape.org/) is an open source vector graphics editor. Inkscape is cross-platform and runs on Unix based OS, Windows and Mac (typically under X11). In this post we have inkscape_logoattempted to gather some best tutorials around the web, categorizing them into various groups, organized from novice users to advance level. If you have not installed inkscape then you can follow the following tutorial. (...)
+[Inkscape](//www.inkscape.org/) is an open source vector graphics editor. Inkscape is cross-platform and runs on Unix based OS, Windows and Mac (typically under X11). In this post we have inkscape_logoattempted to gather some best tutorials around the web, categorizing them into various groups, organized from novice users to advance level. If you have not installed inkscape then you can follow the following tutorial. (...)
 
 ”
 
@@ -816,7 +816,7 @@ One of the conceptual problems you may have is that styles are defined and appli
 “
 
 
-        [Linuxaria: Check your disk usage with df and du](http://www.linuxaria.com/howto/check-your-disk-usage-with-df-and-du?lang=en)
+        [Linuxaria: Check your disk usage with df and du](//www.linuxaria.com/howto/check-your-disk-usage-with-df-and-du?lang=en)
       
 
 As system administrator , but also as common user on my PC, one of the more common problem is the fill up at 100% of a filesystem.
@@ -837,7 +837,7 @@ du: estimate file space usage (...)
 “
 
 
-        [net tuts+/Joseph Pecoraro: An In Depth Guide to mod_rewrite for Apache](http://net.tutsplus.com/tutorials/other/a-deeper-look-at-mod_rewrite-for-apache/)
+        [net tuts+/Joseph Pecoraro: An In Depth Guide to mod_rewrite for Apache](//net.tutsplus.com/tutorials/other/a-deeper-look-at-mod_rewrite-for-apache/)
       
 
 When people think of .htaccess configuration, the first thing that might pop into their minds is URL manipulation with mod_rewrite. But they’re often frustrated by mod_rewrite’s complexity. This tutorial will walk you through everything you need to know for the most common mod_rewrite tasks. (...)
@@ -849,7 +849,7 @@ When people think of .htaccess configuration, the first thing that might pop int
 “
 
 
-        [Novell Cool Solutions/jmeldrum: ssh-keygen: password-less SSH login script](http://www.novell.com/communities/node/12811/ssh-keygen-password-less-ssh-login-script)
+        [Novell Cool Solutions/jmeldrum: ssh-keygen: password-less SSH login script](//www.novell.com/communities/node/12811/ssh-keygen-password-less-ssh-login-script)
       
 
 **license**: 
@@ -869,12 +869,12 @@ For more information see the man pages for ssh-keygen and ssh_copy_id. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 “
 
 [Will Stephenson: Tokamak 5: The
-        Pancake Sprint](http://www.kdedevelopers.org/node/4417)
+        Pancake Sprint](//www.kdedevelopers.org/node/4417)
 
 Flat things are good. I'm at Tokamak 5 in Nijmegen, the KDE sprint where we plough a deep
       furrow into the future of the Free Desktop and sow KDE seeds that will grow into exciting,
@@ -882,24 +882,24 @@ Flat things are good. I'm at Tokamak 5 in Nijmegen, the KDE sprint where we plou
 
 So what about the flat things I mentioned? We've just guzzled our way through a stack of
       pancakes of geological proportions, produced for us by pancake-flipper and KDE allrounder
-        par excellence[Adriaan de Groot](http://euroquis.nl/bobulate/). Other good flat things are tablets (I won't call them 'tablet
+        par excellence[Adriaan de Groot](//euroquis.nl/bobulate/). Other good flat things are tablets (I won't call them 'tablet
       computers' in case I sound old fashioned), which are in evidence here in a variety of makes
       and models. We're working on several things that will make KDE on tablets as easy and fun to
       consume as Adriaan's pancakes. 
 
 I'm here for a few days to make KConfigXT, KDE's proven automatic configuration
-      persistence layer, work with user interfaces programmed in Qt Quick, and to support the [Plasma Active](http://community.kde.org/Plasma/Active) work going on in the
+      persistence layer, work with user interfaces programmed in Qt Quick, and to support the [Plasma Active](//community.kde.org/Plasma/Active) work going on in the
         [openSUSE Build
         Service](https://build.opensuse.org/project/monitor?project=KDE%3AActive) with my [geeko
-        skills](http://en.opensuse.org/openSUSE:Boosters).
+        skills](//en.opensuse.org/openSUSE:Boosters).
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
 
 “
 
-[Windows and openSuse 11.4 dual boot problem](http://forums.opensuse.org/english/other-forums/news-announcements/tech-news/457543-gnome-3-0-here.htmlhttp://forums.opensuse.org/english/get-technical-help-here/install-boot-login/458607-windows-opensuse-11-4-dual-boot-problem.html)
+[Windows and openSuse 11.4 dual boot problem](//forums.opensuse.org/english/other-forums/news-announcements/tech-news/457543-gnome-3-0-here.html//forums.opensuse.org/english/get-technical-help-here/install-boot-login/458607-windows-opensuse-11-4-dual-boot-problem.html)
 
 
       Dual booting is still very popular. It allows you to use different operating systems for different tasks. Most of the times this works out of the box. However, there are situations, where users cannot access both operating systems, or can access only one of them. In the thread from the title a user cannot manage to get a working situation for his Win7 and openSUSE 11.4, read ahead to see what possible solutions are available.
@@ -909,7 +909,7 @@ I'm here for a few days to make KConfigXT, KDE's proven automatic configuration
 
 “
 
-[Opensuse 11.4 install from Hard Drive Like usb](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/456493-opensuse-11-4-install-hard-drive-like-usb.html)
+[Opensuse 11.4 install from Hard Drive Like usb](//forums.opensuse.org/english/get-technical-help-here/install-boot-login/456493-opensuse-11-4-install-hard-drive-like-usb.html)
 
 
       The last couple of years we've seen an increase of devices that do not have a CD/DVD drive, so installing from traditional media is not possible. This issue was met by using technology that allows copying the install media images to USB devices, which can be used to install on CD/DVD driveless machines. Here we have a user that wants to use an extra internal hard disk to install from. Is this possible? The answer is yes, read the thread to find out how it's done.
@@ -919,7 +919,7 @@ I'm here for a few days to make KConfigXT, KDE's proven automatic configuration
 
 “
 
-[Gnome 3 and 11.4 Known Issues and Workarounds](http://forums.opensuse.org/english/get-technical-help-here/applications/458529-gnome-3-11-4-known-issues-workarounds.html)
+[Gnome 3 and 11.4 Known Issues and Workarounds](//forums.opensuse.org/english/get-technical-help-here/applications/458529-gnome-3-11-4-known-issues-workarounds.html)
 
 
       Now that GNOME 3 is here, and packages for openSUSE 11.4 have been officially released and approved, we see that some users have issues / problems after upgrading. One of our members started a thread to gather these issues / problems and collect workarounds / solutions for those. Although it's far from complete, the thread is giving a good impression of what one can expect when upgrading to GNOME 3. The time does not seem to be ready yet for KDE users that have GNOME installed as well to perform an upgrade yet. We'll follow the developments and let you know.
@@ -929,7 +929,7 @@ I'm here for a few days to make KConfigXT, KDE's proven automatic configuration
 
 “
 
-[Upgrade SUSE Linux 9.2 to OpenSUSE 11.4?](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/458706-upgrade-suse-linux-9-2-opensuse-11-4-a.html)
+[Upgrade SUSE Linux 9.2 to OpenSUSE 11.4?](//forums.opensuse.org/english/get-technical-help-here/install-boot-login/458706-upgrade-suse-linux-9-2-opensuse-11-4-a.html)
 
 
       This title describes a returning question: Can I upgrade version X to version Y. In general, one could say, that this is possible, if versions are not too far apart. In this case: No. Development in linux has made giant leaps forward in such a way, that doing what's suggested in the title would and will only lead to massive trouble. Read the thread to see why.
@@ -937,17 +937,17 @@ I'm here for a few days to make KConfigXT, KDE's proven automatic configuration
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
 “
 
 
-        [The Attachmate Group Completes Acquisition of Novell](http://www.attachmate.com/Press/PressReleases/attachmate-group-completes-aquisition-of-novell.htm)
+        [The Attachmate Group Completes Acquisition of Novell](//www.attachmate.com/Press/PressReleases/attachmate-group-completes-aquisition-of-novell.htm)
       
 
-**HOUSTON – April 27, 2011** – [The Attachmate Group](http://www.attachmategroup.com/) today announced the completion of the acquisition of Novell, Inc., a leader in intelligent workload management, under the terms of the definitive agreement [disclosed](http://www.attachmategroup.com/news/attachmate-corporation-to-acquire-novell-inc.html) on November 22, 2010. Novell will now operate as two separate business units under the Novell® and SUSE® brand names and join Attachmate® and NetIQ® as holdings of The Attachmate Group.
+**HOUSTON – April 27, 2011** – [The Attachmate Group](//www.attachmategroup.com/) today announced the completion of the acquisition of Novell, Inc., a leader in intelligent workload management, under the terms of the definitive agreement [disclosed](//www.attachmategroup.com/news/attachmate-corporation-to-acquire-novell-inc.html) on November 22, 2010. Novell will now operate as two separate business units under the Novell® and SUSE® brand names and join Attachmate® and NetIQ® as holdings of The Attachmate Group.
 
 
 
@@ -960,7 +960,7 @@ The addition of Novell furthers the mission of The Attachmate Group and its abil
 “
 
 
-        [5th Annual North Bridge Future of Open Source Survey 2011](http://futureofopensource.drupalgardens.com/2011-future-open-source-survey)
+        [5th Annual North Bridge Future of Open Source Survey 2011](//futureofopensource.drupalgardens.com/2011-future-open-source-survey)
       
 
 Who are the top 3 up-and-coming commercial open source software companies?
@@ -980,10 +980,10 @@ Complete the survey & you can register for OSBC with a 20% discount! (...)
 “
 
 
-        [ZDNet/Steven J. Vaughan-Nichols: Attachmate reveals Novell, SUSE, & Linux Plans](http://www.zdnet.com/blog/open-source/attachmate-reveals-novell-suse-linux-plans/8771)
+        [ZDNet/Steven J. Vaughan-Nichols: Attachmate reveals Novell, SUSE, & Linux Plans](//www.zdnet.com/blog/open-source/attachmate-reveals-novell-suse-linux-plans/8771)
       
 
-Now that [Attachmate owns Novell](http://www.zdnet.com/blog/open-source/novell-deals-done/8755), what does the formerly obscure company plan to do with its $2.2-billion operating system and networking prize? I interviewed [Attachmate](http://www.attachmate.com/) via e-mail CEO Jeff Hawn and this is what he told me.
+Now that [Attachmate owns Novell](//www.zdnet.com/blog/open-source/novell-deals-done/8755), what does the formerly obscure company plan to do with its $2.2-billion operating system and networking prize? I interviewed [Attachmate](//www.attachmate.com/) via e-mail CEO Jeff Hawn and this is what he told me.
 
 
 
@@ -991,7 +991,7 @@ Before launching into the interview, I’ll note that most of Novell’s senior 
 
 (...)
 
-**SJVN**: What plans does Attachmate for Novell/SUSE’s open-source offerings? E.g. [openSUSE](http://www.opensuse.org/en/) and [Mono](http://www.mono-project.com/Main_Page).
+**SJVN**: What plans does Attachmate for Novell/SUSE’s open-source offerings? E.g. [openSUSE](//www.opensuse.org/en/) and [Mono](//www.mono-project.com/Main_Page).
 
 
 
@@ -1002,7 +1002,7 @@ Before launching into the interview, I’ll note that most of Novell’s senior 
 “
 
 
-        [h-online/Richard Hillesley: Open source gaming – or things I do when I should be working](http://www.h-online.com/open/features/Open-source-gaming-or-things-I-do-when-I-should-be-working-1230013.html)
+        [h-online/Richard Hillesley: Open source gaming – or things I do when I should be working](//www.h-online.com/open/features/Open-source-gaming-or-things-I-do-when-I-should-be-working-1230013.html)
       
 
 "What I was proud of was that I used very few parts to build a computer that could actually speak words on a screen and type words on a keyboard and run a programming language that could play games. And I did all this myself"–Steve
@@ -1028,7 +1028,7 @@ The best games are a learning experience, an exercise in strategic thinking, mem
 “
 
 
-        [Unixmen/Anuradha Shukla: When will Linux games become more mainstream?](http://www.dedoimedo.com/computers/trinity-kde.html)
+        [Unixmen/Anuradha Shukla: When will Linux games become more mainstream?](//www.dedoimedo.com/computers/trinity-kde.html)
       
 
 Developers are quite often gamers at heart. Until they get to core structure, there is
@@ -1043,7 +1043,7 @@ Developers are quite often gamers at heart. Until they get to core structure, th
 Technically the lack of GPU drivers for Linux-based graphic cards, like in
         high-performing as proprietary software and the never resolving patents do put a large
         hurdle-infested road map for Linux games. Experts believe the continued failure to include
-          [S3TC](http://en.wikipedia.org/wiki/S3_Texture_Compression) for open
+          [S3TC](//en.wikipedia.org/wiki/S3_Texture_Compression) for open
         source OpenGL drivers as most are patent pending is creating a pseudo-scenario where distros
         are being released on the assumption that the drivers are already available. Distros without
         supporting graphic card drivers are as improper to have as a web browser without
@@ -1073,27 +1073,27 @@ Analysts are now pinning down on new trends of platform confining proprietary ga
         compatibility are beginning to look towards Linux for better gaming solutions.
 
 The dichotomy in Linux games seems to have been bridged somewhat by the availability of
-          [Humble Indie Bundles](http://en.wikipedia.org/wiki/Humble_Indie_Bundle)
-        a non-dependent video gaming line by [Wolfire Games](http://www.wolfire.com/), which are multi-platform, non-DRM and compatible with Windows, OS X as well
+          [Humble Indie Bundles](//en.wikipedia.org/wiki/Humble_Indie_Bundle)
+        a non-dependent video gaming line by [Wolfire Games](//www.wolfire.com/), which are multi-platform, non-DRM and compatible with Windows, OS X as well
         as Linux. The first bundle released in the second quarter of May 2010, saw the likes of
         World of Goo, Lugaru, Penumbra, Gish and Samorost 2 as an afterthought. As the developers
         committed to offer these under open source if sales went beyond $1 million, the 1.25 million
         sales led to these games being available under the GPL license. Revenge of the Titans was
         released post better sales in Dec 2010.
 
-Despite [World of Goo’s](http://www.worldofgoo.com/) success, open
+Despite [World of Goo’s](//www.worldofgoo.com/) success, open
         source yet remains a high-risk option for games owners. Humble Indie Bundle has proved a
         successful model and will hopefully be the harbinger of greater, more enjoyable games on the
         open source platform.
 
-**License**: [CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/3.0/nl/)
+**License**: [CC-BY-NC-ND](//creativecommons.org/licenses/by-nc-nd/3.0/nl/)
 
 ”
 
 “
 
 
-        [Linuxaria: 10 Easter Eggs in Linux](http://www.linuxaria.com/article/10-easter-eggs-in-linux?lang=en)
+        [Linuxaria: 10 Easter Eggs in Linux](//www.linuxaria.com/article/10-easter-eggs-in-linux?lang=en)
       
 
 Happy easter to all, what’s better than celebrate this holiday taking a look at what have hidden the programmers in our software ?
@@ -1106,7 +1106,7 @@ A virtual Easter egg is an intentional hidden message, in-joke or feature in a w
 “
 
 
-        [Linux Library/thinkinhurtz: OpenSUSE 11.4 Gnome Review](http://linuxlibrary.org/index.php/distributions/opensuse-11-4-gnome-review/)
+        [Linux Library/thinkinhurtz: OpenSUSE 11.4 Gnome Review](//linuxlibrary.org/index.php/distributions/opensuse-11-4-gnome-review/)
       
 
 Here is another great all purpose Linux distribution with lots of the newest software only a few clicks away. Although things don’t appear to have changed much in recent years there are still some great improvements under the hood. OpenSUSE is known as a reliable distribution with a diverse selection of options making it another great choice for desktops and servers alike. Lighter desktop editions of OpenSUSE might be a better for choice for laptops however. I have already covered OpenSUSE 11.4 KDE for those who are interested, here I will focus on the OpenSUSE Gnome desktop. (...)
@@ -1116,7 +1116,7 @@ Here is another great all purpose Linux distribution with lots of the newest sof
 “
 
 [Linux.com/Glyn Moody: The naming of parts: Time for “Linux
-        Inside”?](http://www.h-online.com/open/features/The-naming-of-parts-Time-for-Linux-Inside-1235154.html)
+        Inside”?](//www.h-online.com/open/features/The-naming-of-parts-Time-for-Linux-Inside-1235154.html)
 
 **Names matter in free software. Just think of the number of
           electrons that have been spilt arguing over whether it's “Linux” or “GNU/Linux”.
@@ -1150,7 +1150,7 @@ But is “Linux” catchy? The fact that few people have heard of it outside the
 “
 
 
-        [Techrepublic/Vincent Danen: Introduction to SELinux: Don't let complexity scare you off](http://www.techrepublic.com/blog/opensource/introduction-to-selinux-dont-let-complexity-scare-you-off/2447)
+        [Techrepublic/Vincent Danen: Introduction to SELinux: Don't let complexity scare you off](//www.techrepublic.com/blog/opensource/introduction-to-selinux-dont-let-complexity-scare-you-off/2447)
       
 
 akeaway: Vincent Danen acknowledges that some of the complexity of SELinux is
@@ -1172,75 +1172,75 @@ Since 2003, SELinux has been integrated into the mainline Linux kernel, and is f
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://saigkill.homelinux.net/discussions/post/feedback-to-opensuse-weekly-news-english) and let us know! 
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//saigkill.homelinux.net/discussions/post/feedback-to-opensuse-weekly-news-english) and let us know! 
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
 If you don't know, how to **contribute**, just check out the
       [Contribution
-    Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+    Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-Brandnew: We have a [Etherpad](http://os-news.ietherpad.com/2?), which you can also use to sumbit
+Brandnew: We have a [Etherpad](//os-news.ietherpad.com/2?), which you can also use to sumbit
     news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-    community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our **connect.opensuse.org** Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
 Wish to **donate**? [
-      ![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/135641/openSUSE-Weekly-News)
+      ![](//api.flattr.com/button/flattr-badge-large.png)](//flattr.com/thing/135641/openSUSE-Weekly-News)
   
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
-  * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+  * [Thomas Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [Docbook.org](http://www.docbook.org/), Semantic markup language for technical documentation
+  * [Docbook.org](//www.docbook.org/), Semantic markup language for technical documentation
 
-  * [xmlsoft.org](http://xmlsoft.org/XSLT/), XSLT Librarys
+  * [xmlsoft.org](//xmlsoft.org/XSLT/), XSLT Librarys
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
-  * [Permission Informations for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Informations for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 ### Trademarks
 
@@ -1249,22 +1249,22 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 173 is available in: 
 
-  * [English](http://news.opensuse.org/?p=8612)
+  * [English](//news.opensuse.org/?p=8612)
 
 Coming soon: 
 
-You can follow the status of the translation [there](http://en.opensuse.org/openSUSE:Weekly_news_translations).
+You can follow the status of the translation [there](//en.opensuse.org/openSUSE:Weekly_news_translations).
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/173)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/173)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)

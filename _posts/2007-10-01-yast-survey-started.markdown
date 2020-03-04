@@ -17,9 +17,9 @@ We have just published a survey on YaST, our systems management and installation
 
 If you use any of the distributions openSUSE, SUSE Linux, SUSE Linux Enterprise Desktop or SUSE Linux Enterprise Server, I encourage you to participate in our survey to support us improving YaST. The survey will be online until mid November and the results will be published on openSUSE.org.
 
-[Click here to take the survey](http://www.surveymonkey.com/s.aspx?sm=EqU6HJdC3Lq9gJp_2f_2fBE7HA_3d_3d).
+[Click here to take the survey](//www.surveymonkey.com/s.aspx?sm=EqU6HJdC3Lq9gJp_2f_2fBE7HA_3d_3d).
 
-By the way, if you would like to know more about YaST, visit the [openSUSE YaST wiki page](http://en.opensuse.org/YaST).
+By the way, if you would like to know more about YaST, visit the [openSUSE YaST wiki page](//en.opensuse.org/YaST).
 
 Thanks for participating in the survey - and a big THANK YOU to Anica to design this together with quite a couple of different stakeholders in YaST,
 

@@ -11,7 +11,7 @@ categories:
 - Google Summer of Code
 ---
 
-On Monday, Google announced the accepted projects for all of the Google Summer of Code organizations. The openSUSE Project has [nine projects](http://socghop.appspot.com/org/home/google/gsoc2009/opensuse) that were accepted for the Summer of Code 2009.
+On Monday, Google announced the accepted projects for all of the Google Summer of Code organizations. The openSUSE Project has [nine projects](//socghop.appspot.com/org/home/google/gsoc2009/opensuse) that were accepted for the Summer of Code 2009.
 
 
 
@@ -67,7 +67,7 @@ Also, a big thanks to all of the mentors who have volunteered to mentor, worked 
 
 
 
-The next step is the [Community Bonding Period](http://googlesummerofcode.blogspot.com/2007/04/so-what-is-this-community-bonding-all.html) to help students get acclimated with the project and learn how to work within the openSUSE Project. Some of our students are already long-standing members of the community, but please give all of them a warm welcome and any assistance they need in getting started.
+The next step is the [Community Bonding Period](//googlesummerofcode.blogspot.com/2007/04/so-what-is-this-community-bonding-all.html) to help students get acclimated with the project and learn how to work within the openSUSE Project. Some of our students are already long-standing members of the community, but please give all of them a warm welcome and any assistance they need in getting started.
 
 
 

@@ -10,4 +10,4 @@ title: openSUSE 11.2 Milestone 5 Release
 wordpress_id: 1833
 ---
 
-[Roadmap](http://en.opensuse.org/Roadmap)
+[Roadmap](//en.opensuse.org/Roadmap)

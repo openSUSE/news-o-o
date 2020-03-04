@@ -47,7 +47,7 @@ Everyone is happy about organizing openSUSE Conference in Greek. No one anticipa
 ## #oSC13 Info
 
 
-You can find lots of pictures from #oSC13 on [openSUSE Greek Fans](https://www.facebook.com/groups/opensuse.gr/photos/) on facebook or on [G+](https://plus.google.com/u/0/b/113385548251515365143/photos/113385548251515365143/albums). Markus Feilner from Linux Magazine wrote a lot about oSC13, which can be read by our German readers directly or through Google Translate by others. Find it [here](http://www.linux-magazin.de/plus/2013/10/Open-Suse-Conference-2013)!
+You can find lots of pictures from #oSC13 on [openSUSE Greek Fans](https://www.facebook.com/groups/opensuse.gr/photos/) on facebook or on [G+](https://plus.google.com/u/0/b/113385548251515365143/photos/113385548251515365143/albums). Markus Feilner from Linux Magazine wrote a lot about oSC13, which can be read by our German readers directly or through Google Translate by others. Find it [here](//www.linux-magazin.de/plus/2013/10/Open-Suse-Conference-2013)!
 
 "I Love the Geeko, Greeko" is the song that Carlos and his brother dedicated to the Greek openSUSE Community. We hope that you all loved us, had fun and appreciated our work done.
 

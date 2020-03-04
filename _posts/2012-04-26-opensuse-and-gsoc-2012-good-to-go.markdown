@@ -14,7 +14,7 @@ tags:
 ---
 
 ![GSOC Geeko 2012](/wp-content/uploads/2012/04/googlesummerofcode2012.jpg)
-Google published the list of [12 students proposals that have been accepted](http://www.google-melange.com/gsoc/org/google/gsoc2012/opensuse) for Google Summer of Code 2012 for openSUSE. It means that 12 students will be able to work full-time on changing the world this summer!<!-- more -->
+Google published the list of [12 students proposals that have been accepted](//www.google-melange.com/gsoc/org/google/gsoc2012/opensuse) for Google Summer of Code 2012 for openSUSE. It means that 12 students will be able to work full-time on changing the world this summer!<!-- more -->
 
 
 
@@ -50,13 +50,13 @@ But we've managed to extract 12 proposals out of the brilliance thrown at us and
     * **Writing a better looking 1-Click Install client** -  Saurabh Sood will be working on replacing the existing YAST-based 1-click installer with something much nicer looking.
 
 	
-    * ** Completing AppStream/Software-Center support for openSUSE -**  Matthias Klumpp will be working on [Appstream](http://en.wikipedia.org/wiki/AppStream)
+    * ** Completing AppStream/Software-Center support for openSUSE -**  Matthias Klumpp will be working on [Appstream](//en.wikipedia.org/wiki/AppStream)
 
 	
     * **Improving the MongoDB destination driver for syslog-ng** -  Eun Kyung will be enhancing syslog-ng's Mongo support.
 
 	
-    * **Fixing/implementing automated kernel/glibc tests - ** Marios Makris will be improving [Linux Test Project](http://ltp.sourceforge.net/) coverage.
+    * **Fixing/implementing automated kernel/glibc tests - ** Marios Makris will be improving [Linux Test Project](//ltp.sourceforge.net/) coverage.
 
 	
     * **openSUSE Karma plugin for openSUSE Connect** -Priyanka Menghani will add a "karma" plugin to openSUSE Connect, similar to the "reputation" score on StackExchange.
@@ -65,7 +65,7 @@ But we've managed to extract 12 proposals out of the brilliance thrown at us and
     * **Further work on the osc2 client** -  Marcus Hüwe is going to continue his existing work on the next-generation osc client for the Open Build Service.
 
 	
-    * **Popularity contest for RPM (popcorn) -** Akshit Khurana will be working on [popcorn](http://stick.gk2.sk/blog/2009/03/popcorn-popularity-contest-for-rpm/), which will be optionally installed on openSUSE systems and provide us with statistics about which packages are popular.
+    * **Popularity contest for RPM (popcorn) -** Akshit Khurana will be working on [popcorn](//stick.gk2.sk/blog/2009/03/popcorn-popularity-contest-for-rpm/), which will be optionally installed on openSUSE systems and provide us with statistics about which packages are popular.
 
 	
     * **Redesigning fdisk to be more extensible and implement GPT support -**Davidlohr Bueso will be cleaning up and refactoring everyone's favorite disk utility, fdisk.

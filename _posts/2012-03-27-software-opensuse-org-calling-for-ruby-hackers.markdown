@@ -20,7 +20,7 @@ About 2 weeks ago Thomas "digitaltom" Schmidt of the openSUSE Boosters started w
 ## Fork us on GitHub!
 
 
-Above is a gallery of the current state, you can [play with it here](http://software.opensuse.org/packages). Surely, you'll agree that a lot has improved already. But there is still plenty to do! If you're a Ruby hacker and want to take a crack at making the software search and installation experience for millions of openSUSE users better, this is your chance! Tom has been discussing where the UI should go on the openSUSE Build Service mailing lists (see the discussions [Part I](http://lists.opensuse.org/opensuse-buildservice/2012-03/msg00001.html), [Part II](http://lists.opensuse.org/opensuse-buildservice/2012-03/msg00053.html) and [Part III](http://lists.opensuse.org/opensuse-buildservice/2012-03/msg00193.html)). 
+Above is a gallery of the current state, you can [play with it here](//software.opensuse.org/packages). Surely, you'll agree that a lot has improved already. But there is still plenty to do! If you're a Ruby hacker and want to take a crack at making the software search and installation experience for millions of openSUSE users better, this is your chance! Tom has been discussing where the UI should go on the openSUSE Build Service mailing lists (see the discussions [Part I](//lists.opensuse.org/opensuse-buildservice/2012-03/msg00001.html), [Part II](//lists.opensuse.org/opensuse-buildservice/2012-03/msg00053.html) and [Part III](//lists.opensuse.org/opensuse-buildservice/2012-03/msg00193.html)). 
 
 From the outcome of these discussions, there's a list of things which need to be added over the next few weeks. If you want to try, go and [Fork the github repo and start crackin'](https://github.com/openSUSE/software-o-o)!
 
@@ -51,7 +51,7 @@ software.opensuse.org is written in Ruby and based on the rails framework. Behin
   * Fix a bug: Libreoffice not found when searching for "libreoffice" but when searching for "office"
 
 	
-  * Check to replace the searchbar on http://software.opensuse.org/ with the new one, or if we don't need a package search on the dvd download page
+  * Check to replace the searchbar on //software.opensuse.org/ with the new one, or if we don't need a package search on the dvd download page
 
 	
   * Improve display of 'sub-packages' in the result list
@@ -68,6 +68,6 @@ software.opensuse.org is written in Ruby and based on the rails framework. Behin
 
 If you want to get to know your ruby/rails by working with an experienced hacker and give back to your favorite distro, this is your chance!
 
-You'll get all the help you need and questions answered from Thomas, who you can find on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net) as "digitaltom", by mail on tom at the opensuse.org server and also [on Google+](https://plus.google.com/113014566104011909859/posts).
+You'll get all the help you need and questions answered from Thomas, who you can find on [IRC](//en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](//freenode.net) as "digitaltom", by mail on tom at the opensuse.org server and also [on Google+](https://plus.google.com/113014566104011909859/posts).
 
 So, go to our [github repo](https://github.com/openSUSE/software-o-o), fork it and get going!

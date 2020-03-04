@@ -19,13 +19,13 @@ categories:
 
 Doing so, as well has having developers, system administrators and users use Milestone 2 will offer a chance to find missing packages and determine where the gaps are in the milestone.
 
-Milestone 2 replaced the complete base system and replaced the full [YaST](http://yast.github.io/) stack.
+Milestone 2 replaced the complete base system and replaced the full [YaST](//yast.github.io/) stack.
 
 <!-- more -->New versions in the milestone release include Firefox 40, ThunderBird 38.2, digiKam photo management program 4.11 and the YaST stack of [SUSE Linux Enterprise 12](https://www.suse.com/products/server/features/) Service Pack 1.
 
 The latest stable Linux Kernel 4.1.6 is in Milestone 2 and git is updated to version 2.5.0. The kernel-firmware update is 20150715. Apache updates to 2.4.16 and btrfs to 4.1.2.
 
-KDE Plasma has update 15.04.3, which include Long Term Support versions of Plasma Workspaces 4.11.21. GNOME 3.16 has a refresh and Libreoffice 4.3 based on SLE 12 is pending an upgrade to Libreoffice 5. Most versions in Milestone 2 are expected to be the versions in Leap 42.1 when it’s released Nov. 4 at at[ SUSECon](http://www.susecon.com/) in Amsterdam, which will no doubt be celebrated with [openSUSE Beer](https://en.opensuse.org/openSUSE:Beer) during the [release party](https://en.opensuse.org/openSUSE:Launch_parties).
+KDE Plasma has update 15.04.3, which include Long Term Support versions of Plasma Workspaces 4.11.21. GNOME 3.16 has a refresh and Libreoffice 4.3 based on SLE 12 is pending an upgrade to Libreoffice 5. Most versions in Milestone 2 are expected to be the versions in Leap 42.1 when it’s released Nov. 4 at at[ SUSECon](//www.susecon.com/) in Amsterdam, which will no doubt be celebrated with [openSUSE Beer](https://en.opensuse.org/openSUSE:Beer) during the [release party](https://en.opensuse.org/openSUSE:Launch_parties).
 
 Open source enthusiast can expect a toolchain refresh with GNU Compiler Collection 4.8.5 (GCC 5 is optional) and a collection of binary tools from binutils 2.25 and debugger GDB 7.9.1. Makers can build and test software packages with the CMake 3.3.1, which is included in the latest milestone.
 

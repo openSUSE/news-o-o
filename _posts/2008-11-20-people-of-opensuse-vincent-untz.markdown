@@ -53,7 +53,7 @@ Continuing the last 'People of openSUSE'' interviews with people involved in the
 <td >**Homepage: **
 </td>
 
-<td >[http://www.vuntz.net](http://www.vuntz.net)/
+<td >[//www.vuntz.net](//www.vuntz.net)/
 </td>
 
 <td >
@@ -64,7 +64,7 @@ Continuing the last 'People of openSUSE'' interviews with people involved in the
 <td >**Blog:**
 </td>
 
-<td >[http://www.vuntz.net/journal/](http://www.vuntz.net/journal/)
+<td >[//www.vuntz.net/journal/](//www.vuntz.net/journal/)
 </td>
 
 <td >
@@ -176,7 +176,7 @@ And after a few months, I applied for openSUSE membership, and I'm now a happy o
 #### In what way do you participate in the openSUSE project?
 
 
-I do random things in the GNOME team. Packaging, fixing bugs, triaging bugs, some infrastructure work, etc. The thing I'm most proud of is the ["osc gnome" plugin](http://en.opensuse.org/GNOME/OscGnome). I still need to push for the integration of some of the features in osc itself, but it's a plugin which is really wonderful and helped us a lot in the GNOME team.  
+I do random things in the GNOME team. Packaging, fixing bugs, triaging bugs, some infrastructure work, etc. The thing I'm most proud of is the ["osc gnome" plugin](//en.opensuse.org/GNOME/OscGnome). I still need to push for the integration of some of the features in osc itself, but it's a plugin which is really wonderful and helped us a lot in the GNOME team.  
   
 I happened to be part of the Election Committee, where I'm actually not doing anything (all the credit should go to Andrew, Claes and Marko). I'm just there to give my opinion since I've been involved for a long time in a similar committee for GNOME.  
   
@@ -199,7 +199,7 @@ There's also the pride of seeing your work being used by other people. And of co
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-Oh, I cheated and already replied. Oh, well, I guess I can do some shameless plug again: [http://en.opensuse.org/GNOME/OscGnome](http://en.opensuse.org/GNOME/OscGnome). Try it. I'm in love with it. Let me give a few more details about this plugin. There are a few cool features:  
+Oh, I cheated and already replied. Oh, well, I guess I can do some shameless plug again: [//en.opensuse.org/GNOME/OscGnome](//en.opensuse.org/GNOME/OscGnome). Try it. I'm in love with it. Let me give a few more details about this plugin. There are a few cool features:  
   
 
 
@@ -361,7 +361,7 @@ Lord of the Rings? Okay, without cheating, that'd be Star Wars.
 
 Drink: fruit juice. But a different one each time, if possible :-)  
   
-Food: hmm, don't know. Let's just say "[Salade lyonnaise](http://en.wikipedia.org/wiki/Bouchon)" or maybe poutine :-)
+Food: hmm, don't know. Let's just say "[Salade lyonnaise](//en.wikipedia.org/wiki/Bouchon)" or maybe poutine :-)
 
 
 

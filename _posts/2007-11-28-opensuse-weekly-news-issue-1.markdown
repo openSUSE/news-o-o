@@ -13,7 +13,7 @@ categories:
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png)
 
-We are very glad to be able to announce the [first ever issue](http://en.opensuse.org/OpenSUSE_Weekly_News/1) of the _openSUSE Weekly News_ newsletter. The aim of the newsletter is to summarise all the finer details occurring in and around the openSUSE Community. This issue covers:
+We are very glad to be able to announce the [first ever issue](//en.opensuse.org/OpenSUSE_Weekly_News/1) of the _openSUSE Weekly News_ newsletter. The aim of the newsletter is to summarise all the finer details occurring in and around the openSUSE Community. This issue covers:
 
 
 

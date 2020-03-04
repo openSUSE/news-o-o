@@ -16,8 +16,8 @@ The openSUSE team is proud to announce the second Beta release of openSUSE 11.0!
 
 
 
-[![Desktop Selection](/wp-content/uploads/2008/05/os110beta2-inst6_thumb.jpg)](http://files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg) [![Login](/wp-content/uploads/2008/05/os110beta2-kde1_thumb.png)](http://files.opensuse.org/opensuse/en/thumb/2/21/OS11.0beta2-kde1.png/800px-OS11.0beta2-kde1.png) [![Splash Screen](/wp-content/uploads/2008/05/os110beta2-kde2_thumb.png)](http://files.opensuse.org/opensuse/en/thumb/9/91/OS11.0beta2-kde2.png/800px-OS11.0beta2-kde2.png)[ ](http://files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg)
-See [Screenshots/openSUSE_11.0_Beta2](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta2) for more screenshots.
+[![Desktop Selection](/wp-content/uploads/2008/05/os110beta2-inst6_thumb.jpg)](//files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg) [![Login](/wp-content/uploads/2008/05/os110beta2-kde1_thumb.png)](//files.opensuse.org/opensuse/en/thumb/2/21/OS11.0beta2-kde1.png/800px-OS11.0beta2-kde1.png) [![Splash Screen](/wp-content/uploads/2008/05/os110beta2-kde2_thumb.png)](//files.opensuse.org/opensuse/en/thumb/9/91/OS11.0beta2-kde2.png/800px-OS11.0beta2-kde2.png)[ ](//files.opensuse.org/opensuse/en/thumb/6/68/OS11.0beta2-inst6.jpg/800px-OS11.0beta2-inst6.jpg)
+See [Screenshots/openSUSE_11.0_Beta2](//en.opensuse.org/Screenshots/openSUSE_11.0_Beta2) for more screenshots.
 
 
 ## Information and Download
@@ -52,19 +52,19 @@ General:
   * GNOME is extremly slow ([Bug #383336](https://bugzilla.novell.com/show_bug.cgi?id=383336)) (logging in takes >1 minute etc) Workaround: Add your hostname to /etc/hosts (See bug)
 
 
-See the [Bugs:Most_Annoying_Bugs_11.0_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev) page on the wiki for an up-to-date list.
+See the [Bugs:Most_Annoying_Bugs_11.0_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev) page on the wiki for an up-to-date list.
 
 
 ### Call for Testing
 
 
-If you want to help testing our standard test-cases, just take a look at [openSUSE.org/Testing](http://opensuse.org/Testing), and in particular the  [Testing:Features_11.0](http://en.opensuse.org/Testing:Features_11.0) sub-page which includes a definitive list of the features added into openSUSE 11.0. You can also coordinate with others and subscribe to the [opensuse-testing@opensuse.org](mailto:opensuse-testing@opensuse.org) ([subscribe](mailto:opensuse-testing+subscribe@opensuse.org)) mailing list to help with our organized testing.
+If you want to help testing our standard test-cases, just take a look at [openSUSE.org/Testing](//opensuse.org/Testing), and in particular the  [Testing:Features_11.0](//en.opensuse.org/Testing:Features_11.0) sub-page which includes a definitive list of the features added into openSUSE 11.0. You can also coordinate with others and subscribe to the [opensuse-testing@opensuse.org](mailto:opensuse-testing@opensuse.org) ([subscribe](mailto:opensuse-testing+subscribe@opensuse.org)) mailing list to help with our organized testing.
 
 
 ### Media and Download
 
 
-openSUSE 11.0 Beta 2 for i386, x86-64 and PPC comes as different media sets, all of which can be downloaded from **[http://software.opensuse.org/developer](http://software.opensuse.org/developer)**. Deltas from Beta 1 are [also provided](http://download.opensuse.org/distribution/11.0-Beta2/iso/delta/). Note that you will need the latest deltarpm from Factory, or for openSUSE 10.3 you can use the [home:coolo](http://download.opensuse.org/repositories/home:/coolo/openSUSE_10.3/) repository to grab it.
+openSUSE 11.0 Beta 2 for i386, x86-64 and PPC comes as different media sets, all of which can be downloaded from **[//software.opensuse.org/developer](//software.opensuse.org/developer)**. Deltas from Beta 1 are [also provided](//download.opensuse.org/distribution/11.0-Beta2/iso/delta/). Note that you will need the latest deltarpm from Factory, or for openSUSE 10.3 you can use the [home:coolo](//download.opensuse.org/repositories/home:/coolo/openSUSE_10.3/) repository to grab it.
 
 
 ## Comments, Feedback and Helping
@@ -78,12 +78,12 @@ openSUSE 11.0 Beta 2 is a great time to start testing-out openSUSE 11.0 before i
 
 
 	
-  * **Reporting bugs:** Please report all bugs you find on in our Bugzilla as explained on [bugs.openSUSE.org](http://bugs.opensuse.org/).
+  * **Reporting bugs:** Please report all bugs you find on in our Bugzilla as explained on [bugs.openSUSE.org](//bugs.opensuse.org/).
 
 	
   * **Discussion and feedback** is very welcome as well; the most appropriate place is the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. Or in the [#opensuse-factory](irc://irc.freenode.net/opensuse-factory) IRC channel.
 
 
-For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
+For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](//opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 3 on May 13.
+The next [planned release](//en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 3 on May 13.

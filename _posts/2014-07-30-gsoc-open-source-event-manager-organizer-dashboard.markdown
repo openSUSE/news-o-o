@@ -67,7 +67,7 @@ The first thing to do for me and my mentor was to identify which information is 
 ### Choosing a chart library
 
 
-As you can imagine, to present this information nicely we needed a chart library! So my first task was to evaluate various chart libraries and decide which would fit the best for our purpose. Finally we decided to use [Chart.js](http://www.chartjs.org) because of it's simplicity but also powerfulness.
+As you can imagine, to present this information nicely we needed a chart library! So my first task was to evaluate various chart libraries and decide which would fit the best for our purpose. Finally we decided to use [Chart.js](//www.chartjs.org) because of it's simplicity but also powerfulness.
 
 ![Chart.js Libraries](/wp-content/uploads/2014/07/37018733.png)
 

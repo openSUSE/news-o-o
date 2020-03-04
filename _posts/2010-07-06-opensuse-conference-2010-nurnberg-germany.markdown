@@ -10,4 +10,4 @@ title: openSUSE Conference 2010 Nürnberg, Germany
 wordpress_id: 3677
 ---
 
-The openSUSE Conference 2010 takes place in Nürnberg, Germany from October 20 to 23, 2010.  Details at [http://en.opensuse.org/openSUSE:Conference](http://en.opensuse.org/openSUSE:Conference)
+The openSUSE Conference 2010 takes place in Nürnberg, Germany from October 20 to 23, 2010.  Details at [//en.opensuse.org/openSUSE:Conference](//en.opensuse.org/openSUSE:Conference)

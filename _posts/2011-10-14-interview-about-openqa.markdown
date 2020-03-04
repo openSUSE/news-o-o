@@ -11,9 +11,9 @@ categories:
 - Infrastructure
 ---
 
-[![Bernhard on automated testing](http://farm2.static.flickr.com/1178/5105172195_1f03052d1a_m.jpg)](http://www.flickr.com/photos/andreasjaeger/5105172195/)
+[![Bernhard on automated testing](//farm2.static.flickr.com/1178/5105172195_1f03052d1a_m.jpg)](//www.flickr.com/photos/andreasjaeger/5105172195/)
 
-Last week, [openQA 1.0](http://news.opensuse.org"") was released. We did an interview with Bernhard Wiedeman, the main developer of openQA.
+Last week, [openQA 1.0](//news.opensuse.org"") was released. We did an interview with Bernhard Wiedeman, the main developer of openQA.
 <!-- more -->
 
 
@@ -37,7 +37,7 @@ I want it to significantly improve the overall quality of free software in gener
 
 
 
-[![](/wp-content/uploads/2011/10/factory-tested1.png)](http://news.opensuse.org/2011/10/14/interview-about-openqa/factory-tested-2/)
+[![](/wp-content/uploads/2011/10/factory-tested1.png)](//news.opensuse.org/2011/10/14/interview-about-openqa/factory-tested-2/)
 
 
 
@@ -56,7 +56,7 @@ There are still things missing. e.g. accumulating results (Jenkins does this nic
 
 
 
-Interested developers can have a look at the OS-autoinst todo list [http://www.os-autoinst.org/todo.txt](http://www.os-autoinst.org/todo.txt) . I hope to address some of those items during Hackweek VII.
+Interested developers can have a look at the OS-autoinst todo list [//www.os-autoinst.org/todo.txt](//www.os-autoinst.org/todo.txt) . I hope to address some of those items during Hackweek VII.
 
 
 
@@ -87,7 +87,7 @@ On the positive side I work with people who have written the tools (like screen 
 
 
 
-[caption id="attachment_11250" align="alignright" width="300" caption="openQA test details"][![openQA test details](/wp-content/uploads/2011/10/openQA-test-details.png)](http://news.opensuse.org/2011/10/14/interview-about-openqa/openqa-test-details/)[/caption]
+[caption id="attachment_11250" align="alignright" width="300" caption="openQA test details"][![openQA test details](/wp-content/uploads/2011/10/openQA-test-details.png)](//news.opensuse.org/2011/10/14/interview-about-openqa/openqa-test-details/)[/caption]
 
 
 

@@ -88,7 +88,7 @@ openSUSE 11.1 will include KDE 3.5.10 on the DVD media, but moved to the "other 
 
 
 	
-  * Re-written YaST Printer module: [http://en.opensuse.org/YaST/Development/Printer_Enhancement#Under_construction_for_openSUSE_11.1](http://en.opensuse.org/YaST/Development/Printer_Enhancement#Under_construction_for_openSUSE_11.1)
+  * Re-written YaST Printer module: [//en.opensuse.org/YaST/Development/Printer_Enhancement#Under_construction_for_openSUSE_11.1](//en.opensuse.org/YaST/Development/Printer_Enhancement#Under_construction_for_openSUSE_11.1)
 
 	
   * Re-written YaST Partitioner module: Testing wanted!
@@ -97,9 +97,9 @@ openSUSE 11.1 will include KDE 3.5.10 on the DVD media, but moved to the "other 
   * Re-written YaST Security module: Checks the security of your system configuration.
 
 
-**Cluster stack** features significant usability changes and has adopted OpenAIS, an industry standard also supported by leading vendors, for its core infrastructure.  See http://openais.org/ for more info.
+**Cluster stack** features significant usability changes and has adopted OpenAIS, an industry standard also supported by leading vendors, for its core infrastructure.  See //openais.org/ for more info.
 
-**Support for Amazon's Elastic Compute Cloud (EC2) **-- using KIWI, users can easily create an EC2 cloud based on openSUSE 11.1. (Documented here: http://svn.berlios.de/wsvn/kiwi/kiwi-head/doc/kiwi.pdf?op=file&rev=0&sc=0)
+**Support for Amazon's Elastic Compute Cloud (EC2) **-- using KIWI, users can easily create an EC2 cloud based on openSUSE 11.1. (Documented here: //svn.berlios.de/wsvn/kiwi/kiwi-head/doc/kiwi.pdf?op=file&rev=0&sc=0)
 
 **Improvements in OCFS2**: Full integration with userspace cluster stack, POSIX file locking, extended attributes, and file system sizes up to four Petabytes (4PiB).
 
@@ -136,7 +136,7 @@ openSUSE 11.1 will include KDE 3.5.10 on the DVD media, but moved to the "other 
   * OpenOffice.org 3.0 RC
 
 
-See [DistroWatch](http://distrowatch.com/table.php?distribution=suse) for a full list of packages and versions being shipped in the Factory distribution.
+See [DistroWatch](//distrowatch.com/table.php?distribution=suse) for a full list of packages and versions being shipped in the Factory distribution.
 
 
 ### Most Annoying Bugs
@@ -192,7 +192,7 @@ See [DistroWatch](http://distrowatch.com/table.php?distribution=suse) for a full
 
 The most annoying problems should be fixed before beta2 and beta3.
 
-See the [wiki for the latest on annoying bugs](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.1_dev).
+See the [wiki for the latest on annoying bugs](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.1_dev).
 
 
 ### Call for Testing
@@ -200,7 +200,7 @@ See the [wiki for the latest on annoying bugs](http://en.opensuse.org/Bugs:Most_
 
 Please remember that this is a beta release, and is not suitable for use on production systems. However, this release is ready for widespread testing, and we're encouraging everyone to download and test the beta release. Please run the release through your usual routine, and let us know about any bugs or other issues that you find.
 
-If you want to help testing using the standard test cases, look at openSUSE.org/Testing, and in particular see the new features specific to openSUSE 11.1: http://en.opensuse.org/Testing:Features_11.1 This is a definitive list of new features added into 11.1 that need testing.
+If you want to help testing using the standard test cases, look at openSUSE.org/Testing, and in particular see the new features specific to openSUSE 11.1: //en.opensuse.org/Testing:Features_11.1 This is a definitive list of new features added into 11.1 that need testing.
 
 To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
@@ -208,10 +208,10 @@ To follow the testing and development process, we suggest that you subscribe to 
 ### Media and Download
 
 
-The 11.1 beta is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: http://en.opensuse.org/Roadmap. Downloads are available here:
+The 11.1 beta is just one of the releases that will lead to the final 11.1 release. You can find the entire roadmap on the openSUSE wiki: //en.opensuse.org/Roadmap. Downloads are available here:
 
-[http://software.opensuse.org/developer](http://software.opensuse.org/developer)
+[//software.opensuse.org/developer](//software.opensuse.org/developer)
 
-See [http://en.opensuse.org/Mirror_Selection](http://en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
+See [//en.opensuse.org/Mirror_Selection](//en.opensuse.org/Mirror_Selection) for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
 
 Thanks, and have a lot of fun! Pluto is not on the edge of the solar system, [https://pro-essay-writer.com](https://pro-essay-writer.com/) which is 1,000 times farther away

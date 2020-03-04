@@ -17,9 +17,9 @@ tags:
 
 Greetings, openSUSE fans! We have another development release ready for your testing pleasure. openSUSE 11.1 beta 5 is now available for immediate download and testing.
 
-You may have noticed that we were scheduled to release RC 1 today. However, as Stephan Kulow mentioned on openSUSE-Factory list [on Tuesday](http://lists.opensuse.org/opensuse-factory/2008-11/msg00402.html), we have several blocker bugs and 11 P1 bugs still present. While we're ready to do another release today, we decided that it wasn't ready to be called a release candidate. This shouldn't push back the final release, but it will mean that we will only plan to have one release candidate.
+You may have noticed that we were scheduled to release RC 1 today. However, as Stephan Kulow mentioned on openSUSE-Factory list [on Tuesday](//lists.opensuse.org/opensuse-factory/2008-11/msg00402.html), we have several blocker bugs and 11 P1 bugs still present. While we're ready to do another release today, we decided that it wasn't ready to be called a release candidate. This shouldn't push back the final release, but it will mean that we will only plan to have one release candidate.
 
-With just a [little more than a month](http://en.opensuse.org/Roadmap) before the public release on December 18th, there's still plenty to do. So, roll up your sleeves and start downloading!
+With just a [little more than a month](//en.opensuse.org/Roadmap) before the public release on December 18th, there's still plenty to do. So, roll up your sleeves and start downloading!
 
 
 ### Call for Testing
@@ -27,7 +27,7 @@ With just a [little more than a month](http://en.opensuse.org/Roadmap) before th
 
 We all want openSUSE 11.1 to be the best release yet, and we need your help to get there. This release is ready for widespread testing, and we're encouraging everyone to download and test the beta releases.  Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a beta release, and is not suitable for use on production systems. Though many openSUSE users can and do use the Factory distribution and/or beta release for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs.
 
-See [openSUSE.org/Testing](http://openSUSE.org/Testing) for more information on testing.
+See [openSUSE.org/Testing](//openSUSE.org/Testing) for more information on testing.
 
 To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
@@ -49,7 +49,7 @@ Major changes in this release include:
   * Integration of Smolt finished
 
 	
-  * [More translations!](http://i18n.opensuse.org/stats/trunk/toplist.php)
+  * [More translations!](//i18n.opensuse.org/stats/trunk/toplist.php)
 
 	
   * Linux kernel updated to 2.6.27.5
@@ -64,7 +64,7 @@ Major changes in this release include:
   * Many updated packages, including: Amarok, Banshee, Blender, Digikam, Bazaar, Frozen Bubble, The GIMP, LyX, and Wine.
 
 
-See the [Factory News](http://en.opensuse.org/Factory/News) page for changes in the Factory distribution between release announcements. DistroWatch also carries an [expanded list of packages](http://distrowatch.com/table.php?distribution=suse) being shipped in the Factory distribution.
+See the [Factory News](//en.opensuse.org/Factory/News) page for changes in the Factory distribution between release announcements. DistroWatch also carries an [expanded list of packages](//distrowatch.com/table.php?distribution=suse) being shipped in the Factory distribution.
 
 OpenOffice.org 3.0 is shaping up nicely for 11.1. Petr Mladek has sent in the following new and remaining bugs for OpenOffice.org:
 
@@ -82,9 +82,9 @@ These bugs are being worked on for RC1.
 ### Media and Download
 
 
-11.1 beta 5 can be found at [http://software.opensuse.org/developer](http://software.opensuse.org/developer). You can find mirrors that have beta 5 images here:
+11.1 beta 5 can be found at [//software.opensuse.org/developer](//software.opensuse.org/developer). You can find mirrors that have beta 5 images here:
 
-[http://download.opensuse.org/distribution/11.1-Beta5/iso/](http://download.opensuse.org/distribution/11.1-Beta5/iso/)
+[//download.opensuse.org/distribution/11.1-Beta5/iso/](//download.opensuse.org/distribution/11.1-Beta5/iso/)
 
 This release does include PPC media, so users with PowerPC machines have the opportunity to test beta 5 on those as well.
 

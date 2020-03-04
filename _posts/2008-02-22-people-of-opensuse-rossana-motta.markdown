@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Continuing the 'People of openSUSE' series, this time we have the pleasure to meet openSUSE Member Rossana Motta, well-know among [SuSELinuxSupport](http://www.suselinuxsupport.de/) forum users.
+Continuing the 'People of openSUSE' series, this time we have the pleasure to meet openSUSE Member Rossana Motta, well-know among [SuSELinuxSupport](//www.suselinuxsupport.de/) forum users.
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ Continuing the 'People of openSUSE' series, this time we have the pleasure to me
 <td >**Homepage: **
 </td>
 
-<td >[http://ww2.cs.fsu.edu/~motta/](http://ww2.cs.fsu.edu/~motta/)
+<td >[//ww2.cs.fsu.edu/~motta/](//ww2.cs.fsu.edu/~motta/)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ Continuing the 'People of openSUSE' series, this time we have the pleasure to me
 <td >**Blog:**
 </td>
 
-<td >[http://fsu.facebook.com/profile.php?id=5258695](http://fsu.facebook.com/profile.php?id=5258695)
+<td >[//fsu.facebook.com/profile.php?id=5258695](//fsu.facebook.com/profile.php?id=5258695)
 </td>
 
 <td >
@@ -161,8 +161,8 @@ June 2005 again, I registered to boards in order to get help.. like most of newb
 #### In what way do you participate in the openSUSE project?
 
 
-I have had the chance and priviledge of working as a moderator in the staff of [SuSELinuxSupport.de](http://www.suselinuxsupport.de) for two and a half years, helping out with the Forums, the Wiki and the Downloads sections.
-I also wrote a few KDE servicemenus (not strictly Opensuse-related) and [published on kde-apps.org](http://www.kde-apps.org/usermanager/search.php?username=G0NZO&action=contents).
+I have had the chance and priviledge of working as a moderator in the staff of [SuSELinuxSupport.de](//www.suselinuxsupport.de) for two and a half years, helping out with the Forums, the Wiki and the Downloads sections.
+I also wrote a few KDE servicemenus (not strictly Opensuse-related) and [published on kde-apps.org](//www.kde-apps.org/usermanager/search.php?username=G0NZO&action=contents).
 
 
 
@@ -182,7 +182,7 @@ It has been, and always is, awesome to be part of Opensuse community, not only t
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-My contributions are really petty compared to those of developers... I hope anyway to have been helpful in [SuSELinuxSupport.de](http://www.suselinuxsupport.de), to keep up the site board and the IRC channel.
+My contributions are really petty compared to those of developers... I hope anyway to have been helpful in [SuSELinuxSupport.de](//www.suselinuxsupport.de), to keep up the site board and the IRC channel.
 
 
 
@@ -192,7 +192,7 @@ My contributions are really petty compared to those of developers... I hope anyw
 #### When do you usually spend time on the openSUSE project?
 
 
-In the early morning I always check the forums of [SuSELinuxSupport.de](http://www.suselinuxsupport.de)... then  whenever I have some time. In fact it has been my browser home page for over 2 years!
+In the early morning I always check the forums of [SuSELinuxSupport.de](//www.suselinuxsupport.de)... then  whenever I have some time. In fact it has been my browser home page for over 2 years!
 
 
 
@@ -422,7 +422,7 @@ No, at most I am slightly late, but I tend to be meticolously punctual in everyt
 #### Show us a picture of something, you have always wanted to share!
 
 
-[![](http://photos-695.ll.facebook.com/photos-ll-sctm/v184/118/6/5258695/n5258695_42374451_1222.jpg)](http://fsu.facebook.com/photo.php?pid=42374451&l=ad3ae&id=5258695)
+[![](//photos-695.ll.facebook.com/photos-ll-sctm/v184/118/6/5258695/n5258695_42374451_1222.jpg)](//fsu.facebook.com/photo.php?pid=42374451&l=ad3ae&id=5258695)
 (it's just one of the Windows typical hilarious error messages... "wanted to share", in order to persuade more and more people to switch to Linux instead!)
 
 

@@ -19,7 +19,7 @@ tags:
 - release
 ---
 
-[![openSUSE Milestone 3](/wp-content/uploads/2011/07/mobile_spherical_robot.jpg)](http://news.opensuse.org/2011/07/22/a-new-milestone-on-the-cloud-opensuse-releases-milestone-3/mobile_spherical_robot/)Just a few days ago the third of six milestones on the road to openSUSE 12.1 has been made [available](http://software.opensuse.org/developer/en) for testing before it goes to final release November 11th, 2011.  (Yes, 11-11-11!)
+[![openSUSE Milestone 3](/wp-content/uploads/2011/07/mobile_spherical_robot.jpg)](//news.opensuse.org/2011/07/22/a-new-milestone-on-the-cloud-opensuse-releases-milestone-3/mobile_spherical_robot/)Just a few days ago the third of six milestones on the road to openSUSE 12.1 has been made [available](//software.opensuse.org/developer/en) for testing before it goes to final release November 11th, 2011.  (Yes, 11-11-11!)
 
 
 
@@ -29,7 +29,7 @@ tags:
 ## Main changes to this milestone
 
 
-The third milestone has a huge number of changes and improvements on top of the latest openSUSE release. And many packages have been updated or upgraded. You can check the latest package versions on [this page](http://en.opensuse.org/index.php?title=openSUSE:Factory_versions&diff=cur&oldid=40501). What are the major changes?
+The third milestone has a huge number of changes and improvements on top of the latest openSUSE release. And many packages have been updated or upgraded. You can check the latest package versions on [this page](//en.opensuse.org/index.php?title=openSUSE:Factory_versions&diff=cur&oldid=40501). What are the major changes?
 
 
 
@@ -78,6 +78,6 @@ The team welcomes help and bugreports as we prepare for the first release of ope
 ## Hands on to help out easier than ever!
 
 
-Your input at this early development stage is a great opportunity to collaborate in making the final release into the polished work we always prosecute for. openSUSE 12.1 Milestone 3 has a [list of most annoying bugs here](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.1_dev), please add issues you find and help fix them. As Will Stephenson has [already blogged](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/), fixing an issue is a matter of **BURP**ing on [build.opensuse.org](http://build.opensuse.org/)! Find a how-to [here](http://en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
+Your input at this early development stage is a great opportunity to collaborate in making the final release into the polished work we always prosecute for. openSUSE 12.1 Milestone 3 has a [list of most annoying bugs here](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.1_dev), please add issues you find and help fix them. As Will Stephenson has [already blogged](//lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/), fixing an issue is a matter of **BURP**ing on [build.opensuse.org](//build.opensuse.org/)! Find a how-to [here](//en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
 
-So go and see for yourself what the next version of openSUSE has in store for you at our [download center](http://software.opensuse.org/developer).
+So go and see for yourself what the next version of openSUSE has in store for you at our [download center](//software.opensuse.org/developer).

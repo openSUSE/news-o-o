@@ -20,7 +20,7 @@ Some changes in openSUSE 10.3 have ensured that if you are interested in just ab
 
 
 
-[Virtualisation](http://en.wikipedia.org/wiki/Virtualisation) refers to any sort of abstraction of physical hardware, or computer resources. openSUSE 10.3 will contain several emulators, a few more convenient kernel modules, and of course Xen; so let us take a look at these. For some guides and HOWTOs on Virtualisation, take a look at [HOWTOs#Virtualisation](http://en.opensuse.org/HOWTOs#Virtualisation) on the openSUSE wiki.
+[Virtualisation](//en.wikipedia.org/wiki/Virtualisation) refers to any sort of abstraction of physical hardware, or computer resources. openSUSE 10.3 will contain several emulators, a few more convenient kernel modules, and of course Xen; so let us take a look at these. For some guides and HOWTOs on Virtualisation, take a look at [HOWTOs#Virtualisation](//en.opensuse.org/HOWTOs#Virtualisation) on the openSUSE wiki.
 
 
 
@@ -28,7 +28,7 @@ Some changes in openSUSE 10.3 have ensured that if you are interested in just ab
 
 
 
-[VirtualBox](http://en.wikipedia.org/wiki/Virtualisation) is a wonderful new open source virtualisation product, with a huge range of capabilities, and [excellent documentation](http://www.virtualbox.org/wiki/End-user_documentation). As well as having nice enterprise features, for the regular openSUSE user it can be a great tool for trying out new installations or live CDs of openSUSE, and even other operating systems and distributions altogether.
+[VirtualBox](//en.wikipedia.org/wiki/Virtualisation) is a wonderful new open source virtualisation product, with a huge range of capabilities, and [excellent documentation](//www.virtualbox.org/wiki/End-user_documentation). As well as having nice enterprise features, for the regular openSUSE user it can be a great tool for trying out new installations or live CDs of openSUSE, and even other operating systems and distributions altogether.
 
 Below you can take a look at VirtualBox running with openSUSE 10.3 RC1:
 
@@ -38,7 +38,7 @@ Below you can take a look at VirtualBox running with openSUSE 10.3 RC1:
 
 
 
-As you can see, the whole interface is very friendly and easy to work with. If you need help getting VirtualBox set up, take a look at [openSUSE.org/VirtualBox](http://opensuse.org/VirtualBox).
+As you can see, the whole interface is very friendly and easy to work with. If you need help getting VirtualBox set up, take a look at [openSUSE.org/VirtualBox](//opensuse.org/VirtualBox).
 
 
 
@@ -47,7 +47,7 @@ As you can see, the whole interface is very friendly and easy to work with. If y
 
 
 
-The openSUSE distribution is also the base for other Linux distributions; most famously of course is SUSE Linux Enterprise Server (SLES) and Desktop (SLED). That means that openSUSE gets all the [enterprise Xen virtualisation features](http://www.novell.com/products/server/virtualization.html), such as:
+The openSUSE distribution is also the base for other Linux distributions; most famously of course is SUSE Linux Enterprise Server (SLES) and Desktop (SLED). That means that openSUSE gets all the [enterprise Xen virtualisation features](//www.novell.com/products/server/virtualization.html), such as:
 
 
 
@@ -65,7 +65,7 @@ The openSUSE distribution is also the base for other Linux distributions; most f
 
 
 
-However, it not only has that, but _even more_. The new [Xen 3.1](http://www.virtualization.info/2007/05/release-xen-31.html) includes other additions, particularly tackling HVM guest issues: i.e. improving support for save/restore/migrate operations for non-paravirtualized virtual machines (i.e. Windows). Below you can take a look at openSUSE 10.3 running inside Xen:
+However, it not only has that, but _even more_. The new [Xen 3.1](//www.virtualization.info/2007/05/release-xen-31.html) includes other additions, particularly tackling HVM guest issues: i.e. improving support for save/restore/migrate operations for non-paravirtualized virtual machines (i.e. Windows). Below you can take a look at openSUSE 10.3 running inside Xen:
 
 
 
@@ -101,9 +101,9 @@ After the install has finished you'll have two extra YaST modules to create and 
 
 
 
-Also in this release is the latest Linux kernel virtualisation infrastructure, [KVM](http://kvm.qumranet.com/kvmwiki). KVM itself is to be considered experimental, but it is progressing very quickly. The latest versions come with reports of even [better performance](http://kerneltrap.org/node/8148) and Windows Vista support. 
+Also in this release is the latest Linux kernel virtualisation infrastructure, [KVM](//kvm.qumranet.com/kvmwiki). KVM itself is to be considered experimental, but it is progressing very quickly. The latest versions come with reports of even [better performance](//kerneltrap.org/node/8148) and Windows Vista support. 
 
-The kernel module currently works with a modified version of QEMU, also available in openSUSE. To get it running, see [openSUSE.org/KVM](http://en.opensuse.org/KVM).
+The kernel module currently works with a modified version of QEMU, also available in openSUSE. To get it running, see [openSUSE.org/KVM](//en.opensuse.org/KVM).
 
 
 
@@ -111,7 +111,7 @@ The kernel module currently works with a modified version of QEMU, also availabl
 
 
 
-The release also includes the important _paravirt-ops_ and _vmi_ kernel modules to assist you with and [increase performance](http://www.linux-watch.com/news/NS4068384009.html) in _vmware_.
+The release also includes the important _paravirt-ops_ and _vmi_ kernel modules to assist you with and [increase performance](//www.linux-watch.com/news/NS4068384009.html) in _vmware_.
 
 
 
@@ -150,10 +150,10 @@ Indeed SUSE recognises the growing momentum of KVM and its advantages in certain
 For broader market adoption and success KVM needs to grow its ecosystem though. KVM project's main sponsor confirms that direction by announcing a product for the desktop and laptop segment just yesterday.
 
 
-### [Lguest](http://lguest.ozlabs.org/) is another upcoming hypervisor that looks promising. Do you think it will be used in the openSUSE distribution in the future?
+### [Lguest](//lguest.ozlabs.org/) is another upcoming hypervisor that looks promising. Do you think it will be used in the openSUSE distribution in the future?
 
 
-Lguest is an impressive technology demonstration with just a few thousand lines of code. Of course Lguest's scope is limited today therefore it's hard to foresee it's future. Yet we all remember Linus' [posting](http://lwn.net/2001/0823/a/lt-announcement.php3) on August 25 in 1991 :-)
+Lguest is an impressive technology demonstration with just a few thousand lines of code. Of course Lguest's scope is limited today therefore it's hard to foresee it's future. Yet we all remember Linus' [posting](//lwn.net/2001/0823/a/lt-announcement.php3) on August 25 in 1991 :-)
 
 
 ### What kind of other plans does the virtualisation team at SUSE have for the future?

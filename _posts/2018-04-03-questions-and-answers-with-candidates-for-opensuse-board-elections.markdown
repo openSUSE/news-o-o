@@ -120,7 +120,7 @@ _****_what would be your first act toward there if you get elected?_**
 
 I think that collaboration is the most important part of open source, without collaboration most FOSS projects wouldn't exist in the way they do now. Due to timing it may not be the first thing I do due to timing, but I'd certainly look at running a cross distro collaboration session at the next linux.conf.au which often has a different group of attendees to a lot of the European conferences.
 
-[**Ana Martinez**](http://anamaria.martinezgomez.name/2018/03/19/opensuse-board.html)
+[**Ana Martinez**](//anamaria.martinezgomez.name/2018/03/19/opensuse-board.html)
 
 **_What do you think is the best thing about the Project at the moment?_**
 
@@ -195,7 +195,7 @@ Choose the candidates who most seem to offer what you want to see.
 
 And, make sure you vote for them.
 
-[**Aaron Luna**](http://www.opensusemexico.com/2018/03/running-for-opensuse-board-election-2018.html)
+[**Aaron Luna**](//www.opensusemexico.com/2018/03/running-for-opensuse-board-election-2018.html)
 
 **_What do you think is the best thing about the Project at the moment?_**
 

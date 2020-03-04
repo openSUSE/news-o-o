@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-While some are preparing their fly to Austria to attend EURO 2008, 'People of openSUSE' already flew but rather to meet Wolfgang Koller - founder of [SuSELinuxSupport](http://www.suselinuxsupport.de) community and author of some nice KDE applications such as [KTrafficAnalyzer](http://www.kde-apps.org/content/show.php/KTrafficAnalyzer?content=22134).
+While some are preparing their fly to Austria to attend EURO 2008, 'People of openSUSE' already flew but rather to meet Wolfgang Koller - founder of [SuSELinuxSupport](//www.suselinuxsupport.de) community and author of some nice KDE applications such as [KTrafficAnalyzer](//www.kde-apps.org/content/show.php/KTrafficAnalyzer?content=22134).
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ While some are preparing their fly to Austria to attend EURO 2008, 'People of op
 <td >**Homepage: **
 </td>
 
-<td >[www.suselinuxsupport.de](http://www.suselinuxsupport.de)
+<td >[www.suselinuxsupport.de](//www.suselinuxsupport.de)
 </td>
 
 <td >
@@ -165,7 +165,7 @@ I actually can't remember the exact date, however I actually started a "support"
 #### In what way do you participate in the openSUSE project?
 
 
-I'm an admin and founder of [suselinuxsupport.de](http://www.suselinuxsupport.de), which I'm still working on.
+I'm an admin and founder of [suselinuxsupport.de](//www.suselinuxsupport.de), which I'm still working on.
 
 In addition I'm writing some programs for KDE, including KTrafficAnalyzer and KCDemu (which are not limited to openSUSE, thought).
 
@@ -187,7 +187,7 @@ I was always a fan of the idea to give everybody the possibility to use software
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-The [suselinuxsupport.de](http://www.suselinuxsupport.de) community - although that's not really my work but rather I'm just providing the server for it (the rest is done by the community, obviously) :) !
+The [suselinuxsupport.de](//www.suselinuxsupport.de) community - although that's not really my work but rather I'm just providing the server for it (the rest is done by the community, obviously) :) !
 
 
 
@@ -428,7 +428,7 @@ Who hasn't?
 #### Show us a picture of something, you have always wanted to share!
 
 
-[![](http://www.ast.cam.ac.uk/~regan/quasar.jpg)](http://www.ast.cam.ac.uk/~regan/quasar.jpg)
+[![](//www.ast.cam.ac.uk/~regan/quasar.jpg)](//www.ast.cam.ac.uk/~regan/quasar.jpg)
 
 
 

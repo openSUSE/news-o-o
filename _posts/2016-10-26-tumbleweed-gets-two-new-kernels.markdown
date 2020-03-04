@@ -15,7 +15,7 @@ wordpress_id: 20135
 
 The snapshots in between the two kernel snapshots brought timezone updates in  [snapshot 20161023](https://lists.opensuse.org/opensuse-factory/2016-10/msg00571.html) and KDE updates with [snapshot 20161022](https://lists.opensuse.org/opensuse-factory/2016-10/msg00554.html).
 
-[Snapshot 20161022](https://lists.opensuse.org/opensuse-factory/2016-10/msg00554.html) fixed a three-year-old bung in [ghostscript](http://www.ghostscript.com/) fixing [CVE-2013-5653](http://bugs.ghostscript.com/show_bug.cgi?id=694724).
+[Snapshot 20161022](https://lists.opensuse.org/opensuse-factory/2016-10/msg00554.html) fixed a three-year-old bung in [ghostscript](//www.ghostscript.com/) fixing [CVE-2013-5653](//bugs.ghostscript.com/show_bug.cgi?id=694724).
 
 The snapshot also updated Plasma to [version 5.8.2](https://www.kde.org/announcements/plasma-5.8.2.php), the cross-distro collaboration package [AppStream](https://en.wikipedia.org/wiki/AppStream) to 0.10.0 and python3-setuptools to 28.6.1. Php 5 updated to version 5.6.27 adding several subpackages and fixing several security bugs in the release.
 

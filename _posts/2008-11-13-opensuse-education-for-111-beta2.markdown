@@ -14,4 +14,4 @@ tags:
 
 This is the release date for openSUSE-Education 1.0 Beta2 for openSUSE 11.1
 
-Find more details on our [Roadmap](http://en.opensuse.org/Education/Edu-CD/Roadmap).
+Find more details on our [Roadmap](//en.opensuse.org/Education/Edu-CD/Roadmap).

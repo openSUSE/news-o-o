@@ -14,14 +14,14 @@ categories:
 - Summit
 ---
 
-[![openSUSE Summit 2013 logo](//news.opensuse.org/wp-content/uploads/2013/09/LogoSunIdeaPeach.png)](http://summit.opensuse.org)
+[![openSUSE Summit 2013 logo](//news.opensuse.org/wp-content/uploads/2013/09/LogoSunIdeaPeach.png)](//summit.opensuse.org)
 It has already been a year since the first iteration of the openSUSE Summit held in Orlando Florida. Our guests and organizers agreed that tying this community event at the end of SUSEcon is a very good idea and it was set to be repeated in 2013 as well. If you live in the Northern part of the U.S.A. then you know that November can be very cold, therefore, our organizers decided to go back to Florida this year and have everyone warm up to the never-ending summer in the peach state. Our event website is up and running and registrations are open!<!-- more -->
 
 
 ## Website up, Registration Open, Sessions Requests Started
 
 
-The openSUSE Summit 2013 conference website is up on [summit.opensuse.org](http://summit.opensuse.org) and we're looking forward almost as much to your visit there as a real life appearance at the event. Registration is open and so is our call for papers: you can shoot in your sessions proposals! Once you are part of the summit roaster your talks and presentation will be added to our tracking system in order to generate a schedule.
+The openSUSE Summit 2013 conference website is up on [summit.opensuse.org](//summit.opensuse.org) and we're looking forward almost as much to your visit there as a real life appearance at the event. Registration is open and so is our call for papers: you can shoot in your sessions proposals! Once you are part of the summit roaster your talks and presentation will be added to our tracking system in order to generate a schedule.
 
 Please be aware that the schedule is set by our organizers and if your presentation is scheduled for a time when it is not convenient to you, email the organization and we will be sure to rearrange the time. Registration for sessions and sessions will end October 4th, 2013.
 
@@ -34,7 +34,7 @@ Getting access to the conference and sessions costs $50.00 for Professional and 
 Our sessions can be split into three main categories. First we have long talks or presentations lasting about 50 minutes, short talks running for about 30 minutes and then workshops lasting between 2-4 hours, depending on how lengthy the subject covered is.
 
 Finding an appropriate subject for a session at the summit can be difficult. However, there are a few things that can get you thinking in what is important to share. For example, you may have recently participated in the organization of a Linux conference and would like to share what you learned from that experience. You could also be more technical and share the latest changes in coding for Ruby's new version, etc. There are many subjects you can share on and it can very from very technical to something as simple as showing how to reach out and form a community around openSUSE. See our [conference speaker guidelines](https://en.opensuse.org/openSUSE:Conference_speaker_guidelines) for some more tips and information.
-[![ossum13](//news.opensuse.org/wp-content/uploads/2013/07/ossum13.png)](http://summit.opensuse.org/)
+[![ossum13](//news.opensuse.org/wp-content/uploads/2013/07/ossum13.png)](//summit.opensuse.org/)
 
 
 ## A great base to build upon
@@ -68,6 +68,6 @@ There will also be a waiting list in case your request did not make it to one of
 ## Participation Welcome!
 
 
-Remember that those who collaborate with sessions for our summit are considered awesomely cool. Your badge will thus say that you are a presenter and your entry into the summit will be waived. You will additionally be hugged by more than one member of our community and might become green! Moreover, joining the organization team for the summit is also very much appreciated. Please check out [our website](http://summit.opensuse.org) and find out the many ways to participate. You could even sponsor our conference since there are various opportunities available. All that does not mean we don't love and hug our visitors: every single one of you is risking having an incredibly good time!
+Remember that those who collaborate with sessions for our summit are considered awesomely cool. Your badge will thus say that you are a presenter and your entry into the summit will be waived. You will additionally be hugged by more than one member of our community and might become green! Moreover, joining the organization team for the summit is also very much appreciated. Please check out [our website](//summit.opensuse.org) and find out the many ways to participate. You could even sponsor our conference since there are various opportunities available. All that does not mean we don't love and hug our visitors: every single one of you is risking having an incredibly good time!
 
 _See you in Florida!_

@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-I noticed Jim by his thoughtful replies on openSUSE [mail lists](http://lists.opensuse.org) and [forums](http://forums.opensuse.org). He has ability to listen,  understand and answer in the way that correspondent can not only find correct, but also understand, which is seldom found talent. 
+I noticed Jim by his thoughtful replies on openSUSE [mail lists](//lists.opensuse.org) and [forums](//forums.opensuse.org). He has ability to listen,  understand and answer in the way that correspondent can not only find correct, but also understand, which is seldom found talent. 
 
 
 
@@ -58,7 +58,7 @@ I noticed Jim by his thoughtful replies on openSUSE [mail lists](http://lists.op
 </td>
 
 <td >Haven't really got a current one; an old one is sometimes available at
-[http://hendersj.dyndns.org](http://hendersj.dyndns.org) but I haven't updated it in a couple years.
+[//hendersj.dyndns.org](//hendersj.dyndns.org) but I haven't updated it in a couple years.
 </td>
 
 <td align="right" rowspan="9" valign="top" >![jim-henderson](/wp-content/uploads/2009/05/jim-henderson.png)
@@ -69,7 +69,7 @@ I noticed Jim by his thoughtful replies on openSUSE [mail lists](http://lists.op
 <td valign="top" >**Blog:**
 </td>
 
-<td >I have a couple.  [http://itcat.wordpress.com](http://itcat.wordpress.com) is one where I write about the topics of technical training, certification, and careers ("itcat" =3D "IT Certification and Training").  I post maybe an average of about 4 times a year there.
+<td >I have a couple.  [//itcat.wordpress.com](//itcat.wordpress.com) is one where I write about the topics of technical training, certification, and careers ("itcat" =3D "IT Certification and Training").  I post maybe an average of about 4 times a year there.
 
 
 </td>

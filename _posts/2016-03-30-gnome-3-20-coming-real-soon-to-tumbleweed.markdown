@@ -30,6 +30,6 @@ The network manager has a new feature to determine if you are online. The networ
 #### Other News
 
 
-openSUSE has been steadily transitioning its translations to [Weblate](http://l10n.opensuse.org/), which just deployed version 2.5. If anyone would like to contribute to the openSUSE Project by translating release notes and other information about openSUSE and the project’s efforts, Weblate is translations made easy with a simple dashboard and progress bar to let people easily know where they can help with the project. There are even some additional tools being developed for [Weblate](http://l10n.opensuse.org/) by the openSUSE community.
+openSUSE has been steadily transitioning its translations to [Weblate](//l10n.opensuse.org/), which just deployed version 2.5. If anyone would like to contribute to the openSUSE Project by translating release notes and other information about openSUSE and the project’s efforts, Weblate is translations made easy with a simple dashboard and progress bar to let people easily know where they can help with the project. There are even some additional tools being developed for [Weblate](//l10n.opensuse.org/) by the openSUSE community.
 
 The openSUSE is looking for a maintainer to help support 32-bit architecture for Tumbleweed. If anyone in the community is interested, email [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) or join #opensuse-factory on IRC.

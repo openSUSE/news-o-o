@@ -14,7 +14,7 @@ categories:
 - Summit
 ---
 
-[![](/wp-content/uploads/2012/03/logo.jpg)](http://news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/logo/)
+[![](/wp-content/uploads/2012/03/logo.jpg)](//news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/logo/)
 
 
 We're happy to announce that starting March 29 the openSUSE Summit team will accept session proposals for the openSUSE Summit. The openSUSE Summit will take place from September 21-23, 2012 in Orlando Florida at the Caribe Royale Hotel. The proposal submission period ends on June 15, 2012 at midnight EDT. Final announcement of the program will occur on or before July 23, 2012.
@@ -34,7 +34,7 @@ The Summit aims to continue the tradition of a fun and exciting gathering.  We w
 
 
 
-On [summit.opensuse.org](http://summit.opensuse.org) you can see the results of the hard work of our marketing and artwork teams. We're very proud that this website is live now, that we have a great logo as well as [lots of other artwork like postcards, posters and even t-shirts](http://summit.opensuse.org/Media-Press). Aside from the prettyness we also have a sponsorship brochure on our [Sponsors page](http://summit.opensuse.org/Sponsors) and we've got our [Call for Papers](http://summit.opensuse.org/Call-for-papers/) up.
+On [summit.opensuse.org](//summit.opensuse.org) you can see the results of the hard work of our marketing and artwork teams. We're very proud that this website is live now, that we have a great logo as well as [lots of other artwork like postcards, posters and even t-shirts](//summit.opensuse.org/Media-Press). Aside from the prettyness we also have a sponsorship brochure on our [Sponsors page](//summit.opensuse.org/Sponsors) and we've got our [Call for Papers](//summit.opensuse.org/Call-for-papers/) up.
 
 
 
@@ -70,7 +70,7 @@ The openSUSE Community track provides information and discussion around the open
 
 
 
-[![postcard](/wp-content/uploads/2012/03/postcard.jpg)](http://news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/postcard/)
+[![postcard](/wp-content/uploads/2012/03/postcard.jpg)](//news.opensuse.org/2012/03/29/opensuse-summit-geeko-ing-up-website-up-call-for-papers-out/postcard/)
 
 
 **openSUSE Tech**  
@@ -122,10 +122,10 @@ The openSUSE Summit, by virtue of being an openSUSE event, has fun high on the a
 
 
 
-Submit proposals for the openSUSE Summit using the [registration and submission website](http://conference.opensuse.org/indico//conferenceDisplay.py?ovw=True&confId=3). If you have not spoken at a previous openSUSE event, please create a new account to submit an abstract. The abstract submission should contain at least a 200 word description of the topic you plan to discuss, as well as a short (~ 50 word) description of yourself.
+Submit proposals for the openSUSE Summit using the [registration and submission website](//conference.opensuse.org/indico//conferenceDisplay.py?ovw=True&confId=3). If you have not spoken at a previous openSUSE event, please create a new account to submit an abstract. The abstract submission should contain at least a 200 word description of the topic you plan to discuss, as well as a short (~ 50 word) description of yourself.
 
 
 
 
 
-**Please note:** All openSUSE events are governed by the [openSUSE Code of Conduct](http://en.opensuse.org/openSUSE:Conference_code_of_conduct). The [speaker guidelines](http://en.opensuse.org/openSUSE:Conference_speaker_guidelines) outline requirements for the submission of proposals and provide other valuable information for speakers.
+**Please note:** All openSUSE events are governed by the [openSUSE Code of Conduct](//en.opensuse.org/openSUSE:Conference_code_of_conduct). The [speaker guidelines](//en.opensuse.org/openSUSE:Conference_speaker_guidelines) outline requirements for the submission of proposals and provide other valuable information for speakers.

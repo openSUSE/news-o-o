@@ -15,7 +15,7 @@ The openSUSE Conference in Prague is about to happen and we know that all of you
 
 
 	
-  * [![Kostas Speedy Geeko 2011](/wp-content/uploads/2012/10/Kostas1.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/kostas-3/)Did you wanted to submit a talk and you were late?
+  * [![Kostas Speedy Geeko 2011](/wp-content/uploads/2012/10/Kostas1.jpg)](//news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/kostas-3/)Did you wanted to submit a talk and you were late?
 
 	
   * Do you feel like talking about something that has to do with openSUSE?
@@ -116,7 +116,7 @@ After last year’s huge success and fun we dare to do it one more time. This ye
   * The topic can NOT be related to openSUSE
 
 
-[![](/wp-content/uploads/2012/10/Sebastian.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/sebastian/)
+[![](/wp-content/uploads/2012/10/Sebastian.jpg)](//news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/sebastian/)
 
 Time is crucial here too so after the 5 minutes we will find ways to remove the microphone from you. Please don’t make us run for it and be aware that we will carry some sort of weapons.
 
@@ -135,7 +135,7 @@ If you feel like participating all you have to do is to follow the instructions 
 
 The deadline for sending your talks is 10th of october and we will release both schedules at the 15th.
 
-[![](/wp-content/uploads/2012/10/Jan.jpg)](http://news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/jan/)
+[![](/wp-content/uploads/2012/10/Jan.jpg)](//news.opensuse.org/2012/10/02/opensuse-conference-2012-invitation-to-lightning-talks-and-speedy-geeko/jan/)
 
 After we release the schedules all you have to do is to be sure that you will have your  presentations given to us at some point before this year’s openSUSE conference. Of course in an open format, preferably ODF or PDF!
 

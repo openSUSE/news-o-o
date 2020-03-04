@@ -14,7 +14,7 @@ categories:
 
 ![](https://developers.google.com/open-source/gsoc/images/gsoc2016-sun-373x373.png)
 
-Google made an announcement April 22 that [1,206 students were selected for the Google Summer of Code](http://google-opensource.blogspot.de/2016/04/students-announced-for-google-summer-of.html) and six of those students will be mentored through the openSUSE Project, which is one of 178 mentoring organizations in this year’s GSoC.
+Google made an announcement April 22 that [1,206 students were selected for the Google Summer of Code](//google-opensource.blogspot.de/2016/04/students-announced-for-google-summer-of.html) and six of those students will be mentored through the openSUSE Project, which is one of 178 mentoring organizations in this year’s GSoC.
 
 The six university students will spend their summer break writing code and learning about open source developments through six projects with the openSUSE Project while earning money through Google’s international program.
 
@@ -22,7 +22,7 @@ The six university students will spend their summer break writing code and learn
 
 Those new relationships and fresh ideas will develop within six projects for openSUSE, which are titled [Alternatives YaST Module](https://github.com/openSUSE/mentoring/issues/13), [Enhancing visitor experience of OSEM](https://github.com/openSUSE/mentoring/issues/25), [Implementing Ticket payment feature for OSEM](https://github.com/openSUSE/mentoring/issues/24), [Improve One-Click Installer](https://github.com/openSUSE/mentoring/issues/63), [Improve the UI of Portus](https://github.com/openSUSE/mentoring/issues/44) and [Port Jangouts from AngularJS 1.4](https://github.com/openSUSE/mentoring/issues/16).
 
-Students wrote more than 20 project proposals to participate with openSUSE as a mentoring organization. A list of available project that were available to students can be viewed at [101.opensuse.org](http://101.opensuse.org).
+Students wrote more than 20 project proposals to participate with openSUSE as a mentoring organization. A list of available project that were available to students can be viewed at [101.opensuse.org](//101.opensuse.org).
 
 The [next phase](https://developers.google.com/open-source/gsoc/timeline) of GSoC will be the Community Bonding phase and the students will begin working on the projects May 23. The students will have a mid-term evaluation between June 20 - 27 and will submit their code for evaluation between August 15 -23.
 

@@ -12,15 +12,15 @@ categories:
 ---
 
 ![](/wp-content/uploads/2012/04/golang2.png)
-openSUSE 12.1 was one of the first major Linux distributions to include the new programming language Go. Recently, [go 1.0 was released](http://blog.golang.org/2012/03/go-version-1-is-released.html) and shortly before milestone 3 openSUSE Factory received packages for this new Go. [Graham Anderson](http://en.opensuse.org/User:Andtecheu) notified the factory mailing list of this and included some tips for Go hackers on getting started with Go. Read on for some of his tips and links to more.<!-- more -->
+openSUSE 12.1 was one of the first major Linux distributions to include the new programming language Go. Recently, [go 1.0 was released](//blog.golang.org/2012/03/go-version-1-is-released.html) and shortly before milestone 3 openSUSE Factory received packages for this new Go. [Graham Anderson](//en.opensuse.org/User:Andtecheu) notified the factory mailing list of this and included some tips for Go hackers on getting started with Go. Read on for some of his tips and links to more.<!-- more -->
 
 
 
 ## GoWhat
 
 
-According to the description from the [go-lang website](http://golang.org/):
-[![go 1.0 on OBS](/wp-content/uploads/2012/04/go_1.0.jpg)](http://software.opensuse.org/package/go)
+According to the description from the [go-lang website](//golang.org/):
+[![go 1.0 on OBS](/wp-content/uploads/2012/04/go_1.0.jpg)](//software.opensuse.org/package/go)
 
 
 <blockquote>Go is a programming language and environment that makes it easy to build simple, reliable, and efficient software.
@@ -46,7 +46,7 @@ In other words, go is optimized for concurrent programming - getting the most ou
 ## GoGetting
 
 
-To install go, one can use the new graphical interface at software.opensuse.org by [going to software.opensuse.org/package/go](http://software.opensuse.org/package/go). Get the [documentation here (go-doc)](http://software.opensuse.org/package/go-doc) and if you're a VIM user, also get [go-vim](http://software.opensuse.org/package/go-vim). From a commandline, Factory users can do a simple `zypper in go go-doc go-vim`. If you're on openSUSE 12.1 or other versions you'll need the [devel:languages:go](https://build.opensuse.org/package/show?project=devel:languages:go&package=go) project. Lots of additional stuff there of course. Note that adding go via the software.opensuse.org route will add the devel:languages:go repository to your list, allowing you to pull in any of the extras easily.
+To install go, one can use the new graphical interface at software.opensuse.org by [going to software.opensuse.org/package/go](//software.opensuse.org/package/go). Get the [documentation here (go-doc)](//software.opensuse.org/package/go-doc) and if you're a VIM user, also get [go-vim](//software.opensuse.org/package/go-vim). From a commandline, Factory users can do a simple `zypper in go go-doc go-vim`. If you're on openSUSE 12.1 or other versions you'll need the [devel:languages:go](https://build.opensuse.org/package/show?project=devel:languages:go&package=go) project. Lots of additional stuff there of course. Note that adding go via the software.opensuse.org route will add the devel:languages:go repository to your list, allowing you to pull in any of the extras easily.
 ![](/wp-content/uploads/2012/04/golang.png)
 
 
@@ -64,7 +64,7 @@ You'll have to know and set a few thingies now:
   * Go libraries and packages installed from the openSUSE repo are installed to _$GOROOT_ and the system bindir. Any extra packages or binaries you install using the "go" tool will be installed to _$GOPATH_ and _$GOBIN_ (if it's set).
 
 	
-  * Currently $GOBIN for non root users defaults to _$GOPATH/bin_, we currently don't add that location to your _$PATH_ so you will either have to add it in your profile or set another location for _$GOBIN_ (such as _$HOME/bin_). See the [golang documentation for more information](http://golang.org/doc/code.html#GOPATH).
+  * Currently $GOBIN for non root users defaults to _$GOPATH/bin_, we currently don't add that location to your _$PATH_ so you will either have to add it in your profile or set another location for _$GOBIN_ (such as _$HOME/bin_). See the [golang documentation for more information](//golang.org/doc/code.html#GOPATH).
 
 
 ![](/wp-content/uploads/2012/04/golang5.png)
@@ -81,13 +81,13 @@ When you have a working environment, the following documentation is a great reso
 
 
 	
-  * [Golang Documentation](http://golang.org/doc/install#next)
+  * [Golang Documentation](//golang.org/doc/install#next)
 
 	
-  * For experienced C, C++ and Java hackers I also recommend the [Go FAQ](http://golang.org/doc/go_faq.html).
+  * For experienced C, C++ and Java hackers I also recommend the [Go FAQ](//golang.org/doc/go_faq.html).
 
 	
-  * Go language community support: [Mailing List](http://groups.google.com/group/golang-nuts) and #go-nuts on freenode
+  * Go language community support: [Mailing List](//groups.google.com/group/golang-nuts) and #go-nuts on freenode
 
 
 ![](/wp-content/uploads/2012/04/golang1.png)
@@ -96,8 +96,8 @@ When you have a working environment, the following documentation is a great reso
 ## GoFun
 
 
-More information on the current Go setup in openSUSE can be found on [this wiki page](http://en.opensuse.org/SDB:Go). Thanks to Graham Anderson for the information there and this article.
+More information on the current Go setup in openSUSE can be found on [this wiki page](//en.opensuse.org/SDB:Go). Thanks to Graham Anderson for the information there and this article.
 
-If you would like to just play with Go before installing it, there's a pretty cool tour set up on the golang website: [click here to start](http://tour.golang.org/#1). You can edit the code and run it live on the site!
+If you would like to just play with Go before installing it, there's a pretty cool tour set up on the golang website: [click here to start](//tour.golang.org/#1). You can edit the code and run it live on the site!
 
-_Funny images of the go mascotte courtesy  of the [golang.org website](http://golang.org)._
+_Funny images of the go mascotte courtesy  of the [golang.org website](//golang.org)._

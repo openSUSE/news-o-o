@@ -39,7 +39,7 @@ mpounta
 <td width="548" >
 
 
-http://cbounta.wordpress.com/
+//cbounta.wordpress.com/
 
 
 
@@ -56,7 +56,7 @@ http://cbounta.wordpress.com/
 <td width="548" >
 
 
-http://cbounta.wordpress.com/
+//cbounta.wordpress.com/
 
 
 

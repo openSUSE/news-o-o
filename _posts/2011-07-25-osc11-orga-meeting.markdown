@@ -26,4 +26,4 @@ The agenda so far is:
   3. Status of the program
 
 
-[You can add to the agenda in the wiki](http://en.opensuse.org/openSUSE:Conference_meeting)
+[You can add to the agenda in the wiki](//en.opensuse.org/openSUSE:Conference_meeting)

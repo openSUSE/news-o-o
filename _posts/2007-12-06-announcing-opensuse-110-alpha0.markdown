@@ -60,10 +60,10 @@ We'd like to kick start the development of openSUSE 11.0 by releasing the curren
 
 The change between 10.3 and Alpha0 is quite big, but it still works pretty nicely. So please join the openSUSE 11.0 development in downloading, testing and using Alpha0 or daily updated Factory distribution.
 
-The most annoying bugs are as usual listed on [Bugs:Most_Annoying_Bugs_11.0_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev)
+The most annoying bugs are as usual listed on [Bugs:Most_Annoying_Bugs_11.0_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev)
 
-So far there are some glitches in the installation process, that are mostly harmless. But the new kernel in particular can cause some regressions we would love to hear about through bugzilla, as described on [bugs.openSUSE.org](http://bugs.opensuse.org).
+So far there are some glitches in the installation process, that are mostly harmless. But the new kernel in particular can cause some regressions we would love to hear about through bugzilla, as described on [bugs.openSUSE.org](//bugs.opensuse.org).
 
-You can get it from [http://en.opensuse.org/Development_Version#Downloads](http://en.opensuse.org/Development_Version#Downloads)
+You can get it from [//en.opensuse.org/Development_Version#Downloads](//en.opensuse.org/Development_Version#Downloads)
 
 Greetings, Stephan The noun form is insidiousness, and the [https://writemyessay4me.org/](https://writemyessay4me.org/) adverbial form is insidiously

@@ -19,7 +19,7 @@ We are pleased to announce the openSUSE Weekly News 201.
 <!-- more -->
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -31,12 +31,12 @@ We are pleased to announce the openSUSE Weekly News 201.
 
 **Legal Notice**
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
        
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/). 
        The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -44,9 +44,9 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which 
         license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
-We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](http://www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
+We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](//www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
 
 Published: 2011-11-12
 
@@ -95,7 +95,7 @@ Translations
 
 We are pleased to announce our 201 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 **Enjoy reading :-)**
 
@@ -114,22 +114,22 @@ Best regards,
 Alexander, for the editors of the Debian Project News
 
 
-    ![](http://counter.opensuse.org/small.png)
+    ![](//counter.opensuse.org/small.png)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
+## ![Header Picture](//saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 “
 
 [The Green
-        Planet](http://news.opensuse.org/2011/11/07/the-green-planet/)
+        Planet](//news.opensuse.org/2011/11/07/the-green-planet/)
 
-The last few days those of you linked to the planet by [http://planetsuse.org/](http://planetsuse.org/) are experiencing connection problems. This is not because
+The last few days those of you linked to the planet by [//planetsuse.org/](//planetsuse.org/) are experiencing connection problems. This is not because
       openSUSE Planet is down but as Pascal Bleser announced a few days ago into the openSUSE
       Project ML because this domain name is not under the Project’s control but by and individual
       who left the openSUSE Project some years ago. 
 
-The only way to go to the openSUSE planet is now by typing http://planet.opensuse.org/ and
-      the correct way to connect your RSS is by adding [that](http://planet.opensuse.org/global/rss20.xml) .xml . 
+The only way to go to the openSUSE planet is now by typing //planet.opensuse.org/ and
+      the correct way to connect your RSS is by adding [that](//planet.opensuse.org/global/rss20.xml) .xml . 
 
 In case you are experiencing troubles with your aggregator please contact
       admin@opensuse.org there is someone there to help you solve any problem you might have.
@@ -139,16 +139,16 @@ In case you are experiencing troubles with your aggregator please contact
 “
 
 [Geekos go on
-      G+](http://news.opensuse.org/2011/11/08/geekos-go-on-g/)
+      G+](//news.opensuse.org/2011/11/08/geekos-go-on-g/)
 
 The IT world moves fast and along with it does social networking. It’s been only a few
-      days since Google [announced](http://googleblog.blogspot.com/2011/11/google-pages-connect-with-all-things.html) the limited availability of Google+ pages and already thousands of
+      days since Google [announced](//googleblog.blogspot.com/2011/11/google-pages-connect-with-all-things.html) the limited availability of Google+ pages and already thousands of
       Google-plussers have created a Google+ page. Of course, we’re social too and thus the openSUSE
       project now has an official Google+ page!
 
 If you are created a page for an openSUSE community, like Kostas for the Greece
       community, then don’t forget to add your page to [openSUSE Social
-        media contacts](http://en.opensuse.org/openSUSE:Social_media_contacts#Social_networks) so that openSUSE enthusiasts can easily [find the official pages and add it](http://gpc.fm/l/opensuseusers) to their
+        media contacts](//en.opensuse.org/openSUSE:Social_media_contacts#Social_networks) so that openSUSE enthusiasts can easily [find the official pages and add it](//gpc.fm/l/opensuseusers) to their
       circles. That page is also a reference for other social media activities that openSUSE is
       involved in like Facebook, Twitter or LinkedIn.
 
@@ -163,7 +163,7 @@ I’d like to thank Roger Luedecke for taking care of the new openSUSE Google + 
 “
 
 
-      [Continuous Integration testing for openSUSE available!](http://news.opensuse.org/2011/11/10/continuous-integration-testing-for-opensuse-available/)
+      [Continuous Integration testing for openSUSE available!](//news.opensuse.org/2011/11/10/continuous-integration-testing-for-opensuse-available/)
     
 
 The development process of the Open Build Service (OBS) code base as well as it’s
@@ -180,26 +180,26 @@ The development process of the Open Build Service (OBS) code base as well as it�
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### Team Reports
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Opensuse_medical_logo11.png)Medical Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Opensuse_medical_logo11.png)Medical Team
 
 “
 
 
           [openSUSE
-            Medical Calling for Leadership](http://lists.opensuse.org/opensuse-medical/2011-11/msg00004.html)
+            Medical Calling for Leadership](//lists.opensuse.org/opensuse-medical/2011-11/msg00004.html)
         
 
 First of all i would like to apologise for all this period of time that i didnt
           respond to the mails . I have just return back from the "Libre Software World Conference"
-            ([http://www.libresoftwareworldconference.com/](http://www.libresoftwareworldconference.com/)) and i'm a bit tired. 
+            ([//www.libresoftwareworldconference.com/](//www.libresoftwareworldconference.com/)) and i'm a bit tired. 
 
 Secondly , Stathis thanks for your wish. It's a very interesting idea that you want to
           lead the project. 
@@ -218,7 +218,7 @@ I would like to say that i give up from the project but i will try to contribute
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -241,7 +241,7 @@ Network installation could be improved by running package download and package
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -326,7 +326,7 @@ Around the world users still like the Gnome 2 DE. Gnome2 has forked now in to Ma
 We should port and package Kablink for openSUSE.
 Kablink is the opensource version of Novell Vibe OnPrem.
 
-[http://kablink.org/](http://kablink.org/)
+[//kablink.org/](//kablink.org/)
 
 ”
 
@@ -383,7 +383,7 @@ Many people are interested or working on security projects and pen testing. It w
 
 acpi_osi=Linux identifies the OS to the BIOS helping fix power and other issues.
 
-pcie_aspm=force fixes power regression issue shown here; [http://www.phoronix.com/scan.php?page=article&item=linux_2638_aspm&num=1](http://www.phoronix.com/scan.php?page=article&amp;item=linux_2638_aspm&amp;num=1)
+pcie_aspm=force fixes power regression issue shown here; [//www.phoronix.com/scan.php?page=article&item=linux_2638_aspm&num=1](//www.phoronix.com/scan.php?page=article&amp;item=linux_2638_aspm&amp;num=1)
 
 ”
 
@@ -439,13 +439,13 @@ It would be nice if you could have an alias subelement for the listentry element
 
 Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org/statistic/product/opensuse_dist)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
 “
 
 
           [Larry
-            Finger: Weekly News for November 12](http://lists.opensuse.org/opensuse-testing/2011-11/msg00030.html)
+            Finger: Weekly News for November 12](//lists.opensuse.org/opensuse-testing/2011-11/msg00030.html)
         
 
 The next meeting of the Testing Core Team will be November 28, 2011 at 18:00 UTC on
@@ -455,7 +455,7 @@ The next meeting of the Testing Core Team will be November 28, 2011 at 18:00 UTC
           not?", and "How can we improve for 12.2?". 
 
 In our last meeting help on November 7, we discussed our experiences with 12.1 RC2,
-          and what bugs we had encountered. The full meeting log is available at [http://community.opensuse.org/meetings/opensuse-testing/2011/opensuse-testing.2011-11-07-18.00.log.html](http://community.opensuse.org/meetings/opensuse-testing/2011/opensuse-testing.2011-11-07-18.00.log.html). 
+          and what bugs we had encountered. The full meeting log is available at [//community.opensuse.org/meetings/opensuse-testing/2011/opensuse-testing.2011-11-07-18.00.log.html](//community.opensuse.org/meetings/opensuse-testing/2011/opensuse-testing.2011-11-07-18.00.log.html). 
 
 As oppenSUSE 12.1 will be released before my next communication, I wish everyone a
           good installation. Three of my machines have been updated to 12.1 GM, and all are working
@@ -463,63 +463,63 @@ As oppenSUSE 12.1 will be released before my next communication, I wish everyone
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Events & Meetings
 
 Past
 
   * [November 5-6, 2011 : OpenFest (Sofia,
-          Bulgaria)](http://openfest.org/english)
+          Bulgaria)](//openfest.org/english)
 
-  * [November 09, 2011 : openSUSE 12.1 Launch Check-in](http://news.opensuse.org/2011/10/27/opensuse-12-1-launch-check-in/)
+  * [November 09, 2011 : openSUSE 12.1 Launch Check-in](//news.opensuse.org/2011/10/27/opensuse-12-1-launch-check-in/)
 
 Upcoming
 
   * 
-          [November 16, 2011: official release of openSUSE 12.1](http://en.opensuse.org/Portal:12.1)
+          [November 16, 2011: official release of openSUSE 12.1](//en.opensuse.org/Portal:12.1)
         
 
-  * [November 16, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [November 16, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-      it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podcast). 
+      it on [//saigkill.homelinux.net/podcast](//saigkill.homelinux.net/podcast). 
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE▲▼
 
 “
 
 
             [Klaas Freitag: Kraft 0.44
-                released](http://kfreitag.tumblr.com/post/12463194435)
+                released](//kfreitag.tumblr.com/post/12463194435)
         
 
-around fife month after the last release I am happy to annouce [version 0.44](http://volle-kraft-voraus.de/Main/Releases) of [Kraft](http://volle-kraft-voraus.de/), the [KDE](http://www.kde.org) software to manage business documents like
+around fife month after the last release I am happy to annouce [version 0.44](//volle-kraft-voraus.de/Main/Releases) of [Kraft](//volle-kraft-voraus.de/), the [KDE](//www.kde.org) software to manage business documents like
             offers and invoices in the small enterprise.
 
 This development cycle was very much affected by work around the integration of the
-                [Akonadi](http://userbase.kde.org/Akonadi) based address book. I
+                [Akonadi](//userbase.kde.org/Akonadi) based address book. I
             have gone through a lot of cycles of tries and tests, with various combinations of KDE-
             and PIM libraries and Akonadi and Nepomuk setups. Not always the stack was transparent
             to me nor the integration of the various parts perfect. But we’re KDE with our welknown
@@ -543,7 +543,7 @@ Kraft now also comes with localized PDF templates for documents. It was possible
             Kraft.
 
 As usual I am happy to get feedback. Kraft is also very open to contributions, as in
-            code, documentation, marketing bug reporting and such. Please check the [Contribution Page](http://volle-kraft-voraus.de/Main/Contribution) on
+            code, documentation, marketing bug reporting and such. Please check the [Contribution Page](//volle-kraft-voraus.de/Main/Contribution) on
             the project website for details.
 
 ”
@@ -551,10 +551,10 @@ As usual I am happy to get feedback. Kraft is also very open to contributions, a
 “
 
 [Klaas Freitag:
-            Kraft 0.45 released](http://kfreitag.tumblr.com/post/12527150375/kraft045)
+            Kraft 0.45 released](//kfreitag.tumblr.com/post/12527150375/kraft045)
 
 A couple of days after the [release of Kraft
-            0.44](http://kfreitag.tumblr.com/post/12463194435/kraft044) with new features I had to prepare a bugfix release. It’s labeled 0.45
+            0.44](//kfreitag.tumblr.com/post/12463194435/kraft044) with new features I had to prepare a bugfix release. It’s labeled 0.45
             and was released today. It fixes a bug that prints wrong decimal places on the PDF
             documents which results in wrong calculations on the document.ý
 
@@ -569,14 +569,14 @@ Please skip Kraft 0.44 and use version 0.45 instead.
 “
 
 [Stefan
-                Schubert: WebYaST 0.3 is out](http://lizards.opensuse.org/2011/11/07/webyast-0-3-is-out/)
+                Schubert: WebYaST 0.3 is out](//lizards.opensuse.org/2011/11/07/webyast-0-3-is-out/)
 
 
             **“We have doubled the speed and have halved the memory
                 usage”**
         
 
-![](http://lizards.opensuse.org/wp-content/uploads/2011/11/WebYaST2_screenshot2.png)
+![](//lizards.opensuse.org/wp-content/uploads/2011/11/WebYaST2_screenshot2.png)
 
 The latest version of WebYaST has many improvements regarding speed, memory usage,
             usability and developing environment:
@@ -586,9 +586,9 @@ The latest version of WebYaST has many improvements regarding speed, memory usag
 Due a new caching mechanism the startup time of each module has been
                         decreased to a maximum of 1-2 seconds. So the user is able now to click
                         through WebYaST without any notable waiting time. We have made a video which
-                        shows the speed improvement:[ WebYaST Comparison Video](http://lizards.opensuse.org/wp-content/uploads/2011/11/webyast-comparison.swf)For more technical information have a
+                        shows the speed improvement:[ WebYaST Comparison Video](//lizards.opensuse.org/wp-content/uploads/2011/11/webyast-comparison.swf)For more technical information have a
                         look to: [
-                            WebYaST Caching Howto](http://en.opensuse.org/openSUSE:WebYaST_Caching)
+                            WebYaST Caching Howto](//en.opensuse.org/openSUSE:WebYaST_Caching)
 
   * **Memory Usage**
 
@@ -607,23 +607,23 @@ Due the use of one HTTP WebYaST server only the development environment
 
     1. Setup an environment system is much more easier now. Even a
                                     setup based on the GIT repository is quite easy. For more
-                                    information have a look to : [ WebYaST Installation](http://en.opensuse.org/openSUSE:WebYaST_Installation#WebYaST_installation_version_.3E.3D_0.3)
+                                    information have a look to : [ WebYaST Installation](//en.opensuse.org/openSUSE:WebYaST_Installation#WebYaST_installation_version_.3E.3D_0.3)
 
     2. Writing an own WebYaST plugin has been reduced to a minimum
                                     effort. Everyone who has read a Ruby on Rails tutorial is now
                                     able to write a plugin. You do not believe ? Then have a look to
-                                    the [Example plugin ](http://en.opensuse.org/openSUSE:WebYaST_ExamplePlugin#Example_plugin_for_WebYaST_.3E.3D_0.3). (...)
+                                    the [Example plugin ](//en.opensuse.org/openSUSE:WebYaST_ExamplePlugin#Example_plugin_for_WebYaST_.3E.3D_0.3). (...)
 
 ”
 
 “
 
-[Pascal Bleser: gpodder 2 vs 3 in Packman](http://dev-loki.blogspot.com/2011/11/gpodder-2-vs-3-in-packman.html)
+[Pascal Bleser: gpodder 2 vs 3 in Packman](//dev-loki.blogspot.com/2011/11/gpodder-2-vs-3-in-packman.html)
 
-The [gpodder](http://gpodder.berlios.de) project [introduced its
-                new major release 3.0.0 today](http://blog.gpodder.org/2011/11/gpodder-300-397d-released.html) and, unfortunately, it seems like I didn't pay
+The [gpodder](//gpodder.berlios.de) project [introduced its
+                new major release 3.0.0 today](//blog.gpodder.org/2011/11/gpodder-300-397d-released.html) and, unfortunately, it seems like I didn't pay
             attention to the complete change announcement, as I just bumped the [gpodder package in
-                Packman](http://packman.links2linux.org/package/gpodder) to 3.0.0 (from 2.18).
+                Packman](//packman.links2linux.org/package/gpodder) to 3.0.0 (from 2.18).
 
 Now, gpodder 3.0.0 does introduce a lot of changes, notably in the UI but also
             regarding its database format and requires migrating the database from 2 to 3. It
@@ -633,39 +633,39 @@ Now, gpodder 3.0.0 does introduce a lot of changes, notably in the UI but also
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/games.png)Games Corner▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/games.png)Games Corner▲▼
 
 The Section provides the Game of the Week, and Updates in the Game Repository
 
 “
 
 [Nelson Marques: Unknown Horizons – 2011.3 RC4 @
-      games:unknown-horizons](http://www.marques.so/2011/11/unknown-horizons-2011-3-rc4-gamesunknown-horizons/)
+      games:unknown-horizons](//www.marques.so/2011/11/unknown-horizons-2011-3-rc4-gamesunknown-horizons/)
 
 The development around [Unknown
-      Horizons](http://www.unknown-horizons.org) and [FIFE](http://www.fifengine.de) has been
+      Horizons](//www.unknown-horizons.org) and [FIFE](//www.fifengine.de) has been
       intensified in the last months, and a few days ago FIFE has released a maintenance
       version (FIFE 0.3.3r2) aimed to correct a few bugs and help the deployment of Unknown
       Horizons.
 
-The development repository of Unknown Horizons for [openSUSE](http://www.opensuse.org) is made on games:unknown-horizons
+The development repository of Unknown Horizons for [openSUSE](//www.opensuse.org) is made on games:unknown-horizons
       repository (courtesy of the games maintainers), and it currently provides the latest
       Release Candidate (RC4) of the upcoming version 2011.3 to be released during the next
       weekend. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
-    refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 “
 
 
-      [Linus Torvalds: Linux 3.2-rc1](http://thread.gmane.org/gmane.linux.kernel/1212384)
+      [Linus Torvalds: Linux 3.2-rc1](//thread.gmane.org/gmane.linux.kernel/1212384)
     
 
 So it's been two weeks since 3.1, and you know how it works by now.
@@ -686,37 +686,37 @@ shouldn't have let through, but the majority really had been in -next. (...)
 
 
       [Rares
-        Aioanei: kernel weekly news – 12.11.2011](http://schaiba.wordpress.com/2011/11/12/kernel-weekly-news-12-11-2011/)
+        Aioanei: kernel weekly news – 12.11.2011](//schaiba.wordpress.com/2011/11/12/kernel-weekly-news-12-11-2011/)
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
 “
 
 
-        [MakeUseOf/Justin Pot: Give Your Computer A Voice With eSpeak [Windows & Linux]](http://www.makeuseof.com/tag/give-computer-voice-espeak-windows-linux/)
+        [MakeUseOf/Justin Pot: Give Your Computer A Voice With eSpeak [Windows & Linux]](//www.makeuseof.com/tag/give-computer-voice-espeak-windows-linux/)
       
 
 Let your computer do the talking. Install eSpeak and you can make your computer say anything, in a wide variety of languages.
 
-Looking for a lightweight [text to speech](http://www.makeuseof.com/dir/tag/text-to-speech/) program? Whether you want to listen to your favorite blog while doing the dishes, or just make your computer say naughty words to your friends so you can giggle like schoolchildren, [eSpeak](http://espeak.sourceforge.net/) is a great tool for the job. It’s “a compact open source software speech synthesizer for English and other languages” according to its website. You can use official versions of eSpeak on [Linux](apt:espeak-gui) (Editors Note: the link is just for Debian/Ubuntu users) and [Windows](http://espeak.sourceforge.net/download.html). (...)
+Looking for a lightweight [text to speech](//www.makeuseof.com/dir/tag/text-to-speech/) program? Whether you want to listen to your favorite blog while doing the dishes, or just make your computer say naughty words to your friends so you can giggle like schoolchildren, [eSpeak](//espeak.sourceforge.net/) is a great tool for the job. It’s “a compact open source software speech synthesizer for English and other languages” according to its website. You can use official versions of eSpeak on [Linux](apt:espeak-gui) (Editors Note: the link is just for Debian/Ubuntu users) and [Windows](//espeak.sourceforge.net/download.html). (...)
 
-Editors Note: eSpeak packages for openSUSE are [available via OBS](http://software.opensuse.org/search?p=1&baseproject=ALL&q=espeak).
+Editors Note: eSpeak packages for openSUSE are [available via OBS](//software.opensuse.org/search?p=1&baseproject=ALL&q=espeak).
 
 ”
 
 “
 
 
-        [Linuxaria/Frank Harris-Smith: gEdit, an easy to use text editor with many advanced features](http://linuxaria.com/article/gedit-an-easy-to-use-text-editor-with-many-advanced-features?lang=en)
+        [Linuxaria/Frank Harris-Smith: gEdit, an easy to use text editor with many advanced features](//linuxaria.com/article/gedit-an-easy-to-use-text-editor-with-many-advanced-features?lang=en)
       
 
-[gEdit](http://www.gnome.org/projects/gedit/) is a serious text editor in the tradition of many editors that the programmer or code jockey will appreciate – syntax highlighting in many source codes, script formats, markup formats, and even some Scientific formats.
+[gEdit](//www.gnome.org/projects/gedit/) is a serious text editor in the tradition of many editors that the programmer or code jockey will appreciate – syntax highlighting in many source codes, script formats, markup formats, and even some Scientific formats.
 
 I write a lot of HTML code and I find the multiple undo/redo, find, search & replace, and the built-in code-aware spelling checker essential on a daily basis.
 
@@ -729,7 +729,7 @@ But that’s me. I’m writing about what I use on a daily basis and gEdit is al
 “
 
 
-        [TechNonStop/Abdullah Chougle: Fun with the Unix/Linux find command!](http://technonstop.com/fun-with-unix-linux-find-command)
+        [TechNonStop/Abdullah Chougle: Fun with the Unix/Linux find command!](//technonstop.com/fun-with-unix-linux-find-command)
       
 
 This article lists some of the more useful ways of utilizing the find command.
@@ -743,7 +743,7 @@ These commands will work on most Linux distributions, and have been tested on re
 “
 
 
-        [Linux Journal/Adrian Hannah: man make: a Primer on the Make Utility](http://www.linuxjournal.com/content/man-make-primer-make-utility)
+        [Linux Journal/Adrian Hannah: man make: a Primer on the Make Utility](//www.linuxjournal.com/content/man-make-primer-make-utility)
       
 
 In a compiled language, the makefile is arguably the most important part of any programming project. To compile your project, you first have to compile each source file into an object file, which in turn needs to be linked with system libraries into the final executable file. Each command can have a considerable number of arguments added in. That's a lot of typing and a lot of potential for mistakes. The more source files you have, the more complex the compilation process becomes, unless you use makefiles. Most Linux users have at least a cursory knowledge of make and makefiles (because that's how we build software packages for our systems), but not much more than that. Most developers probably don't have too much in-depth experience with makefiles, because most Integrated Development Environments (IDEs) have the capability of managing makefiles for them. Although this is convenient most of the time, knowing more about how make works and what goes into makefiles can help you troubleshoot compilation errors down the road. (...)
@@ -755,7 +755,7 @@ In a compiled language, the makefile is arguably the most important part of any 
 “
 
 
-        [Han Wen Kam: Install and configure TFTP server for PXE boot environment](http://sellingfreesoftwareforaliving.blogspot.com/2011/11/install-and-configure-tftp-server-for.html)
+        [Han Wen Kam: Install and configure TFTP server for PXE boot environment](//sellingfreesoftwareforaliving.blogspot.com/2011/11/install-and-configure-tftp-server-for.html)
       
 
 This blog entry describes how you would install and configure the TFTP (Trivial File
@@ -769,7 +769,7 @@ This blog entry describes how you would install and configure the TFTP (Trivial 
 “
 
 
-        [Pavol Rusnak: Getting SSH fingerprints for machines in your network](http://stick.gk2.sk/blog/2011/11/getting-ssh-fingerprints-for-machines-in-your-network/)
+        [Pavol Rusnak: Getting SSH fingerprints for machines in your network](//stick.gk2.sk/blog/2011/11/getting-ssh-fingerprints-for-machines-in-your-network/)
       
 
 Some time ago we were trying to get SSH fingerprints for all machines in our local
@@ -806,24 +806,24 @@ First, we retrieve the keys using ssh-keyscan, store them into temporary file an
         compute fingerprints afterwards using ssh-keygen. Or is there a less complex and more
         elegant solution?
 
-PS: Thanks [David](http://administratosphere.wordpress.com/2011/05/28/getting-and-verifying-ssh-fingerprints/) for kicking in the right direction.
+PS: Thanks [David](//administratosphere.wordpress.com/2011/05/28/getting-and-verifying-ssh-fingerprints/) for kicking in the right direction.
 
 ”
 
 “
 
 
-        [Wazi/Carla Schroder: OpenSSL Expert Tips and Tricks: Test and Benchmark Servers](http://olex.openlogic.com/wazi/2011/openssl-expert-tips-and-tricks-test-and-benchmark-servers/)
+        [Wazi/Carla Schroder: OpenSSL Expert Tips and Tricks: Test and Benchmark Servers](//olex.openlogic.com/wazi/2011/openssl-expert-tips-and-tricks-test-and-benchmark-servers/)
       
 
-[OpenSSL](http://olex.openlogic.com/packages/openssl), the open source toolkit for implementing the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, is an everyday essential for most Linux admins responsible for secure networking. But OpenSSL includes a wealth of features that even grizzled veterans may not be familiar with. You can use OpenSSL to test POP and IMAP servers, and test server connection speeds, among other interesting tricks. (...)
+[OpenSSL](//olex.openlogic.com/packages/openssl), the open source toolkit for implementing the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, is an everyday essential for most Linux admins responsible for secure networking. But OpenSSL includes a wealth of features that even grizzled veterans may not be familiar with. You can use OpenSSL to test POP and IMAP servers, and test server connection speeds, among other interesting tricks. (...)
 
 ”
 
 “
 
 
-        [Jeff Hoogland: NCDU - The Answer to a Question](http://jeffhoogland.blogspot.com/2011/11/ncdu-answer-to-question.html)
+        [Jeff Hoogland: NCDU - The Answer to a Question](//jeffhoogland.blogspot.com/2011/11/ncdu-answer-to-question.html)
       
 
 The question is:
@@ -832,33 +832,33 @@ Where did all my disc space go?
 
 The answer? An ncurses based application called NCDU. NCDU is a simple, light-weight disc-usage analyzer. I like NCDU because of it's few dependencies, in fact installing in on my system took less than 1mb worth of additional space. It is fast, because like all good applications it is written entirely in C. (...)
 
-Editors Note: ncdu packages for openSUSE can be found in [utilities repo](http://download.opensuse.org/repositories/utilities/).
+Editors Note: ncdu packages for openSUSE can be found in [utilities repo](//download.opensuse.org/repositories/utilities/).
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 “
 
 [Kai-Uwe
-        Behrmann: Colour Management in openSUSE-12.1](http://www.oyranos.org/2011/11/colour-management-in-opensuse-12-1/)
+        Behrmann: Colour Management in openSUSE-12.1](//www.oyranos.org/2011/11/colour-management-in-opensuse-12-1/)
 
-The [Oyranos Colour Management System](http://www.oyranos.org/) will be
-      in the upcoming [openSUSE](http://www.opensuse.org/)-12.1 release. With the
+The [Oyranos Colour Management System](//www.oyranos.org/) will be
+      in the upcoming [openSUSE](//www.opensuse.org/)-12.1 release. With the
       new library users can configure their ICC profiles and settings in one central place. It
       brings as well a set of command line tools like oyranos-policy for handling policy configuration files and oyranos-profiles for installation of ICC profiles. KDE users can
       install the KolorManager package. This Oyranos front end
       adds a system settings control panel for individual settings adaption. But most systems will
       run fine with Oyranos defaults. (...)
 
-![](http://www.oyranos.org/images/KolorManager-oS12.1_arrow.png)
+![](//www.oyranos.org/images/KolorManager-oS12.1_arrow.png)
 
 ”
 
 “
 
 [Andreas Jaeger: openSUSE 12.1 on the road to Goldmaster - and one bug more
-      fixed](http://jaegerandi.blogspot.com/2011/11/opensuse-121-on-road-to-goldmaster-and.html)
+      fixed](//jaegerandi.blogspot.com/2011/11/opensuse-121-on-road-to-goldmaster-and.html)
 
 Several people have reported in the past that during installation the system hangs
       "forever" (see bug bnc#722858) starting udev. The problem was that this did not appear
@@ -880,39 +880,39 @@ Several people have reported in the past that during installation the system han
 “
 
 [Jos Poortvliet:
-        12.1 closing in!](http://blog.jospoortvliet.com/2011/11/121-closing-in.html)
+        12.1 closing in!](//blog.jospoortvliet.com/2011/11/121-closing-in.html)
 
 We're about to put the finishing touches on openSUSE 12.1 and the amount of activity in
-      the [openSUSE IRC channels](http://blog.jospoortvliet.com/2011/11/en.opensuse.org/openSUSE:IRC_list) is impressive. I see people working 12-14-16 hours a day,
+      the [openSUSE IRC channels](//blog.jospoortvliet.com/2011/11/en.opensuse.org/openSUSE:IRC_list) is impressive. I see people working 12-14-16 hours a day,
       fixing the last issues, writing release notes, and in short getting this release ready for our
       users. Respect! I myself have upgraded my laptop to openSUSE 12.1 RC2 now and I got to see the
       new Plasma Desktop. Overall, the difference between Tumbleweed and 12.1 are minimal. As
-      expected, considering [Tumbleweed](http://opensuse.org/Tumbleweed)
+      expected, considering [Tumbleweed](//opensuse.org/Tumbleweed)
       (openSUSE's cool rolling release repository) was a hair away from 12.1, the biggest
       differences are probably artwork and of course Plasma 4.7 instead of 4.6...
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Reports
 
 “
 
 
-        [Phoronix/Michael Larabel: GNOME Shell Works Without GPU Driver Support](http://www.phoronix.com/scan.php?page=news_item&px=MTAxMjI)
+        [Phoronix/Michael Larabel: GNOME Shell Works Without GPU Driver Support](//www.phoronix.com/scan.php?page=news_item&px=MTAxMjI)
       
 
-As reported on Thursday, [GNOME Shell / Mutter no longer requires OpenGL-accelerated hardware drivers](http://www.phoronix.com/scan.php?page=news_item&px=MTAxMTI). It's possible to run this GNOME3 desktop with a software back-end via Gallium3D's [LLVMpipe](http://www.phoronix.com/scan.php?page=search&q=LLVMpipe).
+As reported on Thursday, [GNOME Shell / Mutter no longer requires OpenGL-accelerated hardware drivers](//www.phoronix.com/scan.php?page=news_item&px=MTAxMTI). It's possible to run this GNOME3 desktop with a software back-end via Gallium3D's [LLVMpipe](//www.phoronix.com/scan.php?page=search&q=LLVMpipe).
 
-Reaching this milestone can be attributed to Red Hat, Google's Chrome/Chromium OS developers, and others working on the Mesa / Gallium3D software stack. Just recently [LLVMpipe gained support for GLX_EXT_texture_from_pixmap](http://www.phoronix.com/scan.php?page=news_item&px=MTAwNTg), the GLX extension that's required by many Linux compositing window managers. These improvements allow the desktop effects to all be done on the CPU without any dependence on any GPU hardware driver. GNOME Shell on the VESA driver or within a KVM/QEMU guest is fair game. (...)
+Reaching this milestone can be attributed to Red Hat, Google's Chrome/Chromium OS developers, and others working on the Mesa / Gallium3D software stack. Just recently [LLVMpipe gained support for GLX_EXT_texture_from_pixmap](//www.phoronix.com/scan.php?page=news_item&px=MTAwNTg), the GLX extension that's required by many Linux compositing window managers. These improvements allow the desktop effects to all be done on the CPU without any dependence on any GPU hardware driver. GNOME Shell on the VESA driver or within a KVM/QEMU guest is fair game. (...)
 
 ”
 
 “
 
 
-        [Datamation/Sean Michael Kerner: Firefox 8 Locks Down Plug-ins](http://www.datamation.com/security/firefox-8-locks-down-plug-ins.html)
+        [Datamation/Sean Michael Kerner: Firefox 8 Locks Down Plug-ins](//www.datamation.com/security/firefox-8-locks-down-plug-ins.html)
       
 
 Mozilla's rapid release train has pulled into the station on time, with the fifth major Firefox browser release of 2011. Firefox 8 is being released today, providing developers with new capabilities and offering users more security via a new add-ons policy.
@@ -925,7 +925,7 @@ Sharp noted that Firefox 8 also introduces a simpler way for HTML5 applications 
 
 “
 
-[ZDNet/Jason Perlow: Exclusive: Adobe ceases development on mobile browser Flash, refocuses efforts on HTML5 (UPDATED](http://www.zdnet.com/blog/perlow/exclusive-adobe-ceases-development-on-mobile-browser-flash-refocuses-efforts-on-html5-updated/19226))
+[ZDNet/Jason Perlow: Exclusive: Adobe ceases development on mobile browser Flash, refocuses efforts on HTML5 (UPDATED](//www.zdnet.com/blog/perlow/exclusive-adobe-ceases-development-on-mobile-browser-flash-refocuses-efforts-on-html5-updated/19226))
 
 Sources close to Adobe that have been briefed on the company’s future development plans have revealed this forthcoming announcement to ZDNet:
 
@@ -944,7 +944,7 @@ Additionally, the e-mail briefing to Adobe’s partners has been summed up as fo
 “
 
 
-        [ITworld/Carla Schroder: 4 strange places to find open source](http://www.itworld.com/software/221653/4-strange-places-find-open-source)
+        [ITworld/Carla Schroder: 4 strange places to find open source](//www.itworld.com/software/221653/4-strange-places-find-open-source)
       
 
 Open source is about more than code: it's about unlocking all possibilities. Here are four unusual projects made possible by open source.
@@ -958,12 +958,12 @@ Years ago I hung out with a friend who had a prosthetic hand. It was a stiff pla
 “
 
 
-        [Techdirt/Glyn Moody: Free As In Freedom: But Whose Freedom?](http://www.techdirt.com/articles/20111104/08151716637/free-as-freedom-whose-freedom.shtml)
+        [Techdirt/Glyn Moody: Free As In Freedom: But Whose Freedom?](//www.techdirt.com/articles/20111104/08151716637/free-as-freedom-whose-freedom.shtml)
       
 
-It would be hard to overstate the contribution of [Richard Stallman](http://www.stallman.org/) to the digital world. The founding of the [GNU project](http://www.gnu.org/) and the creation of the [GNU General Public License](http://www.gnu.org/copyleft/gpl.html) laid the foundations for a wide range of free software that permeates computing from smartphones to supercomputers. Free software has also directly inspired like-minded movements based around sharing, such as open access and open content (Wikipedia, notably).
+It would be hard to overstate the contribution of [Richard Stallman](//www.stallman.org/) to the digital world. The founding of the [GNU project](//www.gnu.org/) and the creation of the [GNU General Public License](//www.gnu.org/copyleft/gpl.html) laid the foundations for a wide range of free software that permeates computing from smartphones to supercomputers. Free software has also directly inspired like-minded movements based around sharing, such as open access and open content (Wikipedia, notably).
 
-At the heart of everything Stallman does lies a desire to promote freedom, specifically the freedom of the software user, by constraining the freedom of the developer in the way the code is distributed. That's in contrast to [BSD-style licenses](http://www.linfo.org/bsdlicense.html), say, where the developer is free to place additional restrictions on the code, thus reducing the freedom of the user. (...)
+At the heart of everything Stallman does lies a desire to promote freedom, specifically the freedom of the software user, by constraining the freedom of the developer in the way the code is distributed. That's in contrast to [BSD-style licenses](//www.linfo.org/bsdlicense.html), say, where the developer is free to place additional restrictions on the code, thus reducing the freedom of the user. (...)
 
 ”
 
@@ -981,72 +981,72 @@ Obviously, no Linux admin can have all the skills every employer will want. But 
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://saigkill.homelinux.net/discussions) and let us know! 
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//saigkill.homelinux.net/discussions) and let us know! 
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
 If you don't know, how to **contribute**, just check out the
       [Contribution
-    Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+    Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-We have a [Etherpad](http://os-news.ietherpad.com/2), which you can also
+We have a [Etherpad](//os-news.ietherpad.com/2), which you can also
     use to sumbit news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-    community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our **connect.opensuse.org** Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
-                Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+                Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [iJoomla](http://www.ijoomla.com), Surveys
+  * [iJoomla](//www.ijoomla.com), Surveys
 
-  * [open-slx GmbH](http://www.open-slx.com/en), Sponsoring
+  * [open-slx GmbH](//www.open-slx.com/en), Sponsoring
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
-  * [Permission Information for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Information for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 ### Trademarks
 
@@ -1055,22 +1055,22 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 201 is available in: 
 
-  * [English](http://news.opensuse.org/?p=11713)
+  * [English](//news.opensuse.org/?p=11713)
 
 Coming soon: 
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/201)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/201)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
-  * [Russian](http://www.xboct.org)
+  * [Russian](//www.xboct.org)
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)

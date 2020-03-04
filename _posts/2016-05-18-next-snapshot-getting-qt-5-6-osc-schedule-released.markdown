@@ -36,4 +36,4 @@ Presenters who are not using a company or other project presentation template ar
 #### Release Engineer
 
 
-openSUSE is looking for a [Release Engineer](http://bit.ly/1TYYV6Z). A job announcement was recently posted. The position description is listed as a release engineer. The position requires a proficiency in several major scripting languages like python, bash and perl. The applicant should understand open source communities and be passionate about Linux. The job location is listed in Nuremberg, but people who are interested in working remotely should also apply.
+openSUSE is looking for a [Release Engineer](//bit.ly/1TYYV6Z). A job announcement was recently posted. The position description is listed as a release engineer. The position requires a proficiency in several major scripting languages like python, bash and perl. The applicant should understand open source communities and be passionate about Linux. The job location is listed in Nuremberg, but people who are interested in working remotely should also apply.

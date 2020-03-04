@@ -35,7 +35,7 @@ The usual topics are:
 
 
 
-Further items are welcome; please add them [http://en.opensuse.org/openSUSE:KDE_Meetings](http://en.opensuse.org/openSUSE:KDE_Meetings)
+Further items are welcome; please add them [//en.opensuse.org/openSUSE:KDE_Meetings](//en.opensuse.org/openSUSE:KDE_Meetings)
 
 
 

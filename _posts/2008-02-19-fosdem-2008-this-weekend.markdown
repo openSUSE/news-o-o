@@ -11,12 +11,12 @@ categories:
 - Events
 ---
 
-This weekend (23-24.02) the openSUSE folks will again go to Brussels to one of the most important developer events in Europe:  [FOSDEM](http://www.fosdem.org/2008/).
+This weekend (23-24.02) the openSUSE folks will again go to Brussels to one of the most important developer events in Europe:  [FOSDEM](//www.fosdem.org/2008/).
 For all openSUSE users we will again have an openSUSE devroom, which means 2 days full of interesting presentations about the openSUSE universe.
 
 
 
-[![FOSDEM](/wp-content/uploads/2008/02/static.jpeg)](http://fosdem.org)
+[![FOSDEM](/wp-content/uploads/2008/02/static.jpeg)](//fosdem.org)
 
 
 
@@ -40,7 +40,7 @@ Some highlights:
   * Community talks
 
 	
-  * Meet [Zonker](http://zonker.opensuse.org/) for the first time in Europe
+  * Meet [Zonker](//zonker.opensuse.org/) for the first time in Europe
 
 	
   * openSUSE booth
@@ -51,4 +51,4 @@ Some highlights:
 
 
 
-For a detailed schedule visit the FOSDEM openSUSE [wiki page](http://en.opensuse.org/FOSDEM), where you will also find the videos and slides after the event. Or visit the official FOSDEM schedule for the [openSUSE devroom](http://www.fosdem.org/2008/schedule/devroom/opensuse).
+For a detailed schedule visit the FOSDEM openSUSE [wiki page](//en.opensuse.org/FOSDEM), where you will also find the videos and slides after the event. Or visit the official FOSDEM schedule for the [openSUSE devroom](//www.fosdem.org/2008/schedule/devroom/opensuse).

@@ -29,7 +29,7 @@ We are pleased to announce our next openSUSE Weekly News 195.
 
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 
 
@@ -94,10 +94,10 @@ openSUSE Weekly News Team
 
 
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/).
 The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -105,9 +105,9 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which
 license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
-We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](http://www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
+We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](//www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
 
 
 
@@ -186,7 +186,7 @@ Translations
 
 We are pleased to announce our 195 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy reading :-)
 
@@ -207,7 +207,7 @@ Enjoy reading :-)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
+## ![Header Picture](//saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 
 
@@ -228,15 +228,15 @@ Enjoy reading :-)
 
 
 [Get
-your package in Factory for 12.1!](http://news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/)
+your package in Factory for 12.1!](//news.opensuse.org/2011/09/27/get-your-package-in-factory-for-12-1/)
 
 
-The [upcoming openSUSE 12.1 release](http://en.opensuse.org/Portal:12.1)
-is being developed in [Factory](http://en.opensuse.org/Portal:Factory).
+The [upcoming openSUSE 12.1 release](//en.opensuse.org/Portal:12.1)
+is being developed in [Factory](//en.opensuse.org/Portal:Factory).
 According to the [release
-schedule](http://www.suse.de/%7Ecoolo/opensuse_12.1/) the Toolchain and several other critical components are frozen, but there
+schedule](//www.suse.de/%7Ecoolo/opensuse_12.1/) the Toolchain and several other critical components are frozen, but there
 is still time to get most package updates in! It’s not hard to do that, especially if you
-build packages on [the Open Build Service](http://openbuildservice.org)
+build packages on [the Open Build Service](//openbuildservice.org)
 anyway and you get your software to be part of openSUSE! Read on to learn more. (...)
 
 ”
@@ -264,7 +264,7 @@ anyway and you get your software to be part of openSUSE! Read on to learn more. 
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Hackweek-mug.png)Hackweek VII▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Hackweek-mug.png)Hackweek VII▲▼
 
 
 
@@ -285,17 +285,17 @@ anyway and you get your software to be part of openSUSE! Read on to learn more. 
 
 
 [Cornelius
-Schumacher: SUSE hack week](http://blog.cornelius-schumacher.de/2011/09/suse-hack-week.html)
+Schumacher: SUSE hack week](//blog.cornelius-schumacher.de/2011/09/suse-hack-week.html)
 
 
-[Hack week](http://hackweek.opensuse.org/). One week of ferocious
-hacking on new ideas without interruptions. [SUSE](http://www.suse.com/)
+[Hack week](//hackweek.opensuse.org/). One week of ferocious
+hacking on new ideas without interruptions. [SUSE](//www.suse.com/)
 does this twice a year to trigger those innovations, you can't realize when you are swamped by
 day-to-day work. Of course it's not the only way or opportunity to do new things, but it gives
 the freedom to actually get something done on a topic, which is not covered by conventional
 product planning. It's productive, it's fun, it creates great results.ýNext week it's the
 [seventh edition
-of hack week](http://news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/). We are collecting ideas and activities in [openFATE](http://bit.ly/n5laxM).
+of hack week](//news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/). We are collecting ideas and activities in [openFATE](//bit.ly/n5laxM).
 
 ”
 
@@ -314,10 +314,10 @@ of hack week](http://news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/). W
 
 
 [Michal
-Ìihař: GePeS - another hacweek project](http://blog.cihar.com/archives/2011/09/26/gepes-another-hacweek-project/)
+Ìihař: GePeS - another hacweek project](//blog.cihar.com/archives/2011/09/26/gepes-another-hacweek-project/)
 
 
-With no clear plans for [Hackweek](http://en.opensuse.org/Portal:Hackweek) this year, I decided to play even more with N950. As I quite lack some GPS
+With no clear plans for [Hackweek](//en.opensuse.org/Portal:Hackweek) this year, I decided to play even more with N950. As I quite lack some GPS
 application I decided to write it :-). The feature set will be based on things I would use,
 though I still think it will be useful for others:
 
@@ -343,7 +343,7 @@ I've named the application as GePeS and you can find sources on Gitorious: [http
 
 During first day I've managed to implement basic things, check screenshots:
 
-![](http://blog.cihar.com/images/blog/2011-09/2011-09-26_16-45-56-small.png)![](http://blog.cihar.com/images/blog/2011-09/2011-09-26_16-45-42-small.png)![](http://blog.cihar.com/images/blog/2011-09/2011-09-26_16-46-13-small.png)
+![](//blog.cihar.com/images/blog/2011-09/2011-09-26_16-45-56-small.png)![](//blog.cihar.com/images/blog/2011-09/2011-09-26_16-45-42-small.png)![](//blog.cihar.com/images/blog/2011-09/2011-09-26_16-46-13-small.png)
 
 ”
 
@@ -362,13 +362,13 @@ During first day I've managed to implement basic things, check screenshots:
 
 
 [Alexander
-Naumov: openHackWeek 7](http://thefreecountry.wordpress.com/2011/09/29/openhackweek-7/)
+Naumov: openHackWeek 7](//thefreecountry.wordpress.com/2011/09/29/openhackweek-7/)
 
 
 This week is special… and not for SUSE’s employees only, but also for the openSUSE
 community. A lot of ideas from the [openFATE](https://features.opensuse.org/hackweek) will be implemented on this week. What’s about myself? Well… as you know I
 don’t work for SUSE anymore. Now I work for company in Göttingen, which use GNU/Linux and Free
-Software in industry sector. [Xplace](http://xplace.de/) provide open
+Software in industry sector. [Xplace](//xplace.de/) provide open
 solutions, for example, at POS terminals in almost all European countries. (...)
 
 ”
@@ -396,7 +396,7 @@ solutions, for example, at POS terminals in almost all European countries. (...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 
 
@@ -448,7 +448,7 @@ solutions, for example, at POS terminals in almost all European countries. (...)
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
 
 
@@ -462,7 +462,7 @@ solutions, for example, at POS terminals in almost all European countries. (...)
 
 
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
 
 
@@ -483,7 +483,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 
 
@@ -556,7 +556,7 @@ installation in parallel.
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
 reading
-http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+//fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
 really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -830,7 +830,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
 
 
@@ -849,11 +849,11 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 
 	
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-– [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+– [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -882,7 +882,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 
 
@@ -928,7 +928,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 “
 
 
-[openSUSE Pizza Parties the Geeko Way](http://news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/)
+[openSUSE Pizza Parties the Geeko Way](//news.opensuse.org/2011/09/30/opensuse-pizza-parties-the-geeko-way/)
 
 
 The new openSUSE 12.1 Release is approaching very soon and all you Geekos should not miss
@@ -941,8 +941,8 @@ begin!
 **HowTo**
 
 So, the first GPM: Geeko Party Maker. As you might have seen, you’ve all been invited to
-[organize a pizzabeta party](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/). The [beta has been delayed a
-bit](http://news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/) but party can still be had – the release will be this weekend. Of course,
+[organize a pizzabeta party](//news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/). The [beta has been delayed a
+bit](//news.opensuse.org/2011/09/21/opensuse-12-1-beta-delay/) but party can still be had – the release will be this weekend. Of course,
 instead, you can organize a launch party for 12.1 once it is out – which is currently planned
 the third week of November. (...)
 
@@ -995,7 +995,7 @@ Past
 
 
 	
-  * [September 21, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [September 21, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 
 
@@ -1019,7 +1019,7 @@ Upcoming
 
 
 
-You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1051,7 +1051,7 @@ You can find more information on other events at: [openSUSE News/Events](http://
 
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podcast).
+it on [//saigkill.homelinux.net/podcast](//saigkill.homelinux.net/podcast).
 
 
 
@@ -1089,10 +1089,10 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
 	
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
 	
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 
 
@@ -1134,7 +1134,7 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
 	
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
 
 
@@ -1160,7 +1160,7 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 
 
@@ -1173,7 +1173,7 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
 To view the security announcements in full, or to receive them as soon as they're released,
-refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 
 
@@ -1184,7 +1184,7 @@ refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-sec
 
 [
 openSUSE-SU-2011:1076-1: important: mozilla-xulrunner192: Update to Mozilla XULRunner
-1.9.2.23](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00028.html)
+1.9.2.23](//lists.opensuse.org/opensuse-security-announce/2011-09/msg00028.html)
 
 
 <table frame="void" id="id319468" >Table 1. SUSE Security Announcement 
@@ -1254,7 +1254,7 @@ openSUSE-SU-2011:1076-1: important: mozilla-xulrunner192: Update to Mozilla XULR
 
 
 [
-openSUSE-SU-2011:1077-1: important: seamonkey: Update to Mozilla Seamonkey 2.4](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00029.html)
+openSUSE-SU-2011:1077-1: important: seamonkey: Update to Mozilla Seamonkey 2.4](//lists.opensuse.org/opensuse-security-announce/2011-09/msg00029.html)
 
 
 <table frame="void" id="id319616" >Table 2. SUSE Security Announcement 
@@ -1325,7 +1325,7 @@ issues.
 
 
 [
-openSUSE-SU-2011:1079-1: important: MozillaFirefox: Update to Firefox 3.6.23](http://lists.opensuse.org/opensuse-security-announce/2011-09/msg00030.html)
+openSUSE-SU-2011:1079-1: important: MozillaFirefox: Update to Firefox 3.6.23](//lists.opensuse.org/opensuse-security-announce/2011-09/msg00030.html)
 
 
 <table frame="void" id="id319766" >Table 3. SUSE Security Announcement 
@@ -1404,7 +1404,7 @@ issues.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 
 
@@ -1425,7 +1425,7 @@ issues.
 
 
 [Rares
-Aioanei: kernel weekly news – 01.10.2011](http://schaiba.wordpress.com/2011/10/01/kernel-weekly-news-01-10-2011/)
+Aioanei: kernel weekly news – 01.10.2011](//schaiba.wordpress.com/2011/10/01/kernel-weekly-news-01-10-2011/)
 
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
@@ -1455,7 +1455,7 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 
 
@@ -1501,10 +1501,10 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 “
 
 
-[Wazi/Carla Schroder: Become an ImageMagick Ninja: Doing Things in Batches](http://olex.openlogic.com/wazi/2011/become-an-imagemagick-ninja-doing-things-in-batches/)
+[Wazi/Carla Schroder: Become an ImageMagick Ninja: Doing Things in Batches](//olex.openlogic.com/wazi/2011/become-an-imagemagick-ninja-doing-things-in-batches/)
 
 
-Last month we introduced [ImageMagick](http://olex.openlogic.com/packages/imagemagick), a software suite that lets you manipulate images in several interesting ways. In [that article](http://olex.openlogic.com/wazi/2011/become-an-imagemagick-ninja-resizing-and-converting-images/) we learned a lot of ways to resize images, make thumbnails, and convert image file formats. Today we’re going to unleash more of the mighty ImageMagick power and learn to make drop shadows, raised buttons, and proof sheets, and generate different sizes of the same image.
+Last month we introduced [ImageMagick](//olex.openlogic.com/packages/imagemagick), a software suite that lets you manipulate images in several interesting ways. In [that article](//olex.openlogic.com/wazi/2011/become-an-imagemagick-ninja-resizing-and-converting-images/) we learned a lot of ways to resize images, make thumbnails, and convert image file formats. Today we’re going to unleash more of the mighty ImageMagick power and learn to make drop shadows, raised buttons, and proof sheets, and generate different sizes of the same image.
 
 As always, before you manipulate irreplaceable photos, back up your originals first! (...)
 
@@ -1524,7 +1524,7 @@ As always, before you manipulate irreplaceable photos, back up your originals fi
 “
 
 
-[Dmitri Popov: Open Source Photography Tools Five Quick digiKam Tricks](http://scribblesandsnaps.wordpress.com/2011/09/26/five-quick-digikam-tricks/)
+[Dmitri Popov: Open Source Photography Tools Five Quick digiKam Tricks](//scribblesandsnaps.wordpress.com/2011/09/26/five-quick-digikam-tricks/)
 
 
 Tip #1
@@ -1580,7 +1580,7 @@ With the Non-Destructive editing and Versioning feature enabled, digiKam automat
 “
 
 
-[Linuxaria: Pipes – what are they and Example of Use](http://linuxaria.com/article/pipes-linux?lang=en)
+[Linuxaria: Pipes – what are they and Example of Use](//linuxaria.com/article/pipes-linux?lang=en)
 
 
 Unix based operating systems like Linux offer a unique approach to join two commands on the terminal, with it you can take the output of the first command and use it as input of the second command, this is the concept of pipe or | . Pipes allow two separate process to communicate with each other also if they were not created to do it, so this open an infinite series of opportunity. (...)
@@ -1601,7 +1601,7 @@ Unix based operating systems like Linux offer a unique approach to join two comm
 “
 
 
-[Home ERA Computers & Consulting: Custom Weekly Backup with tar](http://www.eracc.com/content/custom-weekly-backup-tar)
+[Home ERA Computers & Consulting: Custom Weekly Backup with tar](//www.eracc.com/content/custom-weekly-backup-tar)
 
 
 This page describes one method of backing up data from one's Linux or Unix based system to an external medium using a bash script and tar. Here is the script for the impatient ones who "Just want some code!": (...)
@@ -1651,7 +1651,7 @@ This page describes one method of backing up data from one's Linux or Unix based
 “
 
 
-[Joe Stagner: Selecting and Installing JavaScript Developer Tools for Linux](http://www.misfitgeek.com/2011/09/avascript-developer-tools-for-linux-2/)
+[Joe Stagner: Selecting and Installing JavaScript Developer Tools for Linux](//www.misfitgeek.com/2011/09/avascript-developer-tools-for-linux-2/)
 
 
 Choosing an editor or IDE for development is a personal thing, like choosing a car. What is a perfect ride for one person offers no interest at all to another. Personally, I was never happy with only one car and usually want different ones in the garage so that I can choose the one that most closely matches my mood or the kind of driving that I need to do.
@@ -1704,7 +1704,7 @@ Some folks like the help and tooling of a fully integrated environment like Visu
 
 
 [LinuxJournal/Leon
-van Kammen: Playterm, Platform of the Gurus](http://www.linuxjournal.com/content/playterm-platform-gurus)
+van Kammen: Playterm, Platform of the Gurus](//www.linuxjournal.com/content/playterm-platform-gurus)
 
 
 There are hundreds of command line tools in Linux. For a person who has just started
@@ -1730,7 +1730,7 @@ terminal. (...)
 “
 
 
-[IBM Developer Works/Roderick W. Smith: Learn Linux, 302 (Mixed environments): SWAT configuration](http://www.ibm.com/developerworks/linux/library/l-lpic3-312-5/index.html?ca=drs-)
+[IBM Developer Works/Roderick W. Smith: Learn Linux, 302 (Mixed environments): SWAT configuration](//www.ibm.com/developerworks/linux/library/l-lpic3-312-5/index.html?ca=drs-)
 
 
 The Samba Web Administration Tool (SWAT) is a web-based administration tool for Samba,
@@ -1755,7 +1755,7 @@ learn how to install and configure SWAT itself and how to use SWAT to manage Sam
 “
 
 
-[BeginLinux: OpenSUSE PXE Boot](http://beginlinux.com/desktop/opensuse/opensuse-pxe-boot)
+[BeginLinux: OpenSUSE PXE Boot](//beginlinux.com/desktop/opensuse/opensuse-pxe-boot)
 
 
 What we will look at
@@ -1816,7 +1816,7 @@ What we will look at
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 
 
@@ -1837,14 +1837,14 @@ What we will look at
 
 
 [Bryen Yunashko:
-Getting Articles into News.openSUSE.org](http://www.bryen.com/getting-articles-into-news-opensuse-org)
+Getting Articles into News.openSUSE.org](//www.bryen.com/getting-articles-into-news-opensuse-org)
 
 
 At the recent 12.1 Marketing hackfest, we devised an editorial schedule and folks have
 begun writing articles for promoting 12.1.  However, some of these articles haven’t been
 submitted yet.  We suggest that in order to minimize confusion and reduce excessive pinging,
-you create an [ietherpad](http://ietherpad.com) with your article and link
-to it in the editorial schedule at [http://ietherpad.com/sked](http://ietherpad.com/sked) or send your article directly to news@opensuse.org.
+you create an [ietherpad](//ietherpad.com) with your article and link
+to it in the editorial schedule at [//ietherpad.com/sked](//ietherpad.com/sked) or send your article directly to news@opensuse.org.
 (...)
 
 ”
@@ -1863,7 +1863,7 @@ to it in the editorial schedule at [http://ietherpad.com/sked](http://ietherpad.
 “
 
 
-[Raymond Wooninck: Chromium browser got accepted into openSUSE:Factory](http://tittiatcoke.wordpress.com/2011/09/24/chromium-browser-got-accepted-into-opensusefactory/)
+[Raymond Wooninck: Chromium browser got accepted into openSUSE:Factory](//tittiatcoke.wordpress.com/2011/09/24/chromium-browser-got-accepted-into-opensusefactory/)
 
 
 After maintaining the Chromium browser in the openSUSE Contrib repositories, the last few
@@ -1900,7 +1900,7 @@ sometime beginning of next week the new snapshot will become available.
 
 
 [Bryen Yunashko: Take Geeko to
-the Races!](http://www.bryen.com/take-geeko-to-the-races)
+the Races!](//www.bryen.com/take-geeko-to-the-races)
 
 
 Anyone who is part of the openSUSE Project knows that wherever you go, Geeko is with you.
@@ -1927,14 +1927,14 @@ tryto win the races with Geeko at the wheel.
 “
 
 
-[Christian Boltz: 1001 bugs - or: the golden rules of bad programming](http://blog.cboltz.de/archives/63-1001-bugs-or-the-golden-rules-of-bad-programming.html)
+[Christian Boltz: 1001 bugs - or: the golden rules of bad programming](//blog.cboltz.de/archives/63-1001-bugs-or-the-golden-rules-of-bad-programming.html)
 
 
 If you missed my talk at the openSUSE conference or want to see the slides (including
 notes) again - here we are:
 
 [1001
-bugs - or: the golden rules of bad programming as PDF](http://blog.cboltz.de/uploads/1001-bugs-or-golden-rules-of-bad-programming.pdf) (If you need an editable
+bugs - or: the golden rules of bad programming as PDF](//blog.cboltz.de/uploads/1001-bugs-or-golden-rules-of-bad-programming.pdf) (If you need an editable
 LibreOffice file, just drop me a note.)
 
 ”
@@ -1953,7 +1953,7 @@ LibreOffice file, just drop me a note.)
 “
 
 
-[Kai-Uwe Behrmann: Colour Correction Concepts for Monitors](http://oyranos-cms.blogspot.com/2011/09/colour-correction-concepts-for-monitors.html)
+[Kai-Uwe Behrmann: Colour Correction Concepts for Monitors](//oyranos-cms.blogspot.com/2011/09/colour-correction-concepts-for-monitors.html)
 
 
 Colour management for the desktop is a long standing issue not only for Linux. The
@@ -1991,18 +1991,18 @@ accomplish that task. (...)
 
 
 [Jos
-Poortvliet: Tumbleweed image dream](http://blog.jospoortvliet.com/2011/09/tumbleweed-image-dream.html)
+Poortvliet: Tumbleweed image dream](//blog.jospoortvliet.com/2011/09/tumbleweed-image-dream.html)
 
 
 At the (pretty cool) [openMind conference in Tampere,
-Finland](http://www.openmind.fi/), it came up that a big advantage of [Tumbleweed](http://opensuse.org/Tumbleweed) is that it always has the latest
+Finland](//www.openmind.fi/), it came up that a big advantage of [Tumbleweed](//opensuse.org/Tumbleweed) is that it always has the latest
 hardware support. Thanks to the rolling release, Tumbleweed comes with the latest Linux kernel
 which plays a big part of the hardware support of a Linux distro.
 
 If your hardware does not work properly with the 'stable' release of openSUSE (or other
 distro's) trying the latest kernel can solve that. But that's hard to get on your system, even
 with stuff like [the openSUSE Kernel
-repositories](http://kernel.opensuse.org) because it usually requires you to first **install** something. (...)
+repositories](//kernel.opensuse.org) because it usually requires you to first **install** something. (...)
 
 ”
 
@@ -2021,7 +2021,7 @@ repositories](http://kernel.opensuse.org) because it usually requires you to fir
 
 
 [Bryen Yunashko: The Video
-BoF](http://www.bryen.com/the-video-bof)
+BoF](//www.bryen.com/the-video-bof)
 
 
 So, one of the Birds of a Feather (BoF) sessions at the Conference that I organized was a
@@ -2052,10 +2052,10 @@ equally as important and I’m glad that conversation took place as well… (...
 
 
 [Jos
-Poortvliet: MeeGo and openSUSE - an invitation](http://blog.jospoortvliet.com/2011/09/meego-and-opensuse-invitation.html)
+Poortvliet: MeeGo and openSUSE - an invitation](//blog.jospoortvliet.com/2011/09/meego-and-opensuse-invitation.html)
 
 
-Yesterday a [big announcement was made](http://www.meegoexperts.com/2011/09/linux-foundation-limo-foundation-announce-project-tizen/) by Intel and Samsung. It entails another big change of
+Yesterday a [big announcement was made](//www.meegoexperts.com/2011/09/linux-foundation-limo-foundation-announce-project-tizen/) by Intel and Samsung. It entails another big change of
 directions for Moblin/Maemo/MeeGo.
 
 **Where to go Next**
@@ -2089,11 +2089,11 @@ candy store, tasting every candy then dropping it. (...)
 
 
 [Andrew Wafaa: Target
-ARM Hardware](http://www.wafaa.eu/entry/target-arm-hardware-1-70.html)
+ARM Hardware](//www.wafaa.eu/entry/target-arm-hardware-1-70.html)
 
 
 I just sent this into the [-arm mailing
-list](http://lists.opensuse.org/opensuse-arm).
+list](//lists.opensuse.org/opensuse-arm).
 
 This is a hot topic, and one that seems to generate the most noise.
 
@@ -2118,11 +2118,11 @@ have for getting some sponsorship for hardware. (...)
 
 
 [Klaas
-Freitag: Where do you put your data?](http://kfreitag.tumblr.com/post/10848737554/where-do-you-put-your-data)
+Freitag: Where do you put your data?](//kfreitag.tumblr.com/post/10848737554/where-do-you-put-your-data)
 
 
-This week is [openSUSE hackweek](http://news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/), as you might know, and we do fun stuff. A couple of people, I
-was one of them, were investigating in the very promising project called [ownCloud](http://owncloud.org). We were working on a better integration in the
+This week is [openSUSE hackweek](//news.opensuse.org/2011/09/22/suse-hackweek-7-next-week/), as you might know, and we do fun stuff. A couple of people, I
+was one of them, were investigating in the very promising project called [ownCloud](//owncloud.org). We were working on a better integration in the
 openSUSE desktop in upcoming releases.
 
 Why do we like ownCloud so much?
@@ -2156,7 +2156,7 @@ stop, erase or open it how ever you want. (...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 
 
@@ -2202,13 +2202,13 @@ stop, erase or open it how ever you want. (...)
 “
 
 
-[Pascal Bleser: FOSDEM 2012: call for devrooms](http://dev-loki.blogspot.com/2011/09/fosdem-2012-call-for-devrooms.html)
+[Pascal Bleser: FOSDEM 2012: call for devrooms](//dev-loki.blogspot.com/2011/09/fosdem-2012-call-for-devrooms.html)
 
 
-So here we go again, [FOSDEM](http://fosdem.org), the largest and
+So here we go again, [FOSDEM](//fosdem.org), the largest and
 coolest open source contributor event in Europe is prepping up for its 2012 edition.
 
-I've just opened the [Call for Developer Rooms](http://fosdem.org/2012/call_for_devrooms), the deadline for submissions is 2011-10-27.
+I've just opened the [Call for Developer Rooms](//fosdem.org/2012/call_for_devrooms), the deadline for submissions is 2011-10-27.
 
 Other call-for-stuffs will open very soon (lightning talks, stands, main tracks).
 
@@ -2257,16 +2257,16 @@ Other call-for-stuffs will open very soon (lightning talks, stands, main tracks)
 “
 
 
-[h-online: Eclipse 3.7.1 supports Java 7](http://www.h-online.com/open/news/item/Eclipse-3-7-1-supports-Java-7-1349745.html)
+[h-online: Eclipse 3.7.1 supports Java 7](//www.h-online.com/open/news/item/Eclipse-3-7-1-supports-Java-7-1349745.html)
 
 
-[The Eclipse Foundation](http://www.eclipse.org/) has issued the
+[The Eclipse Foundation](//www.eclipse.org/) has issued the
 [first service
-release](http://www.eclipse.org/downloads/packages/node/666) to version 3.7 of its development environment. The most noticeable change
+release](//www.eclipse.org/downloads/packages/node/666) to version 3.7 of its development environment. The most noticeable change
 in [Eclipse
-3.7.1](http://www.eclipse.org/eclipse/development/readme_eclipse_3.7.1.html) is the addition of support for [Java
-7](http://www.h-online.com/news/item/Oracle-releases-Java-7-platform-1288208.html). When the developers released version 3.7 of Eclipse [at
-the end of June](http://www.h-online.com/news/item/Eclipse-Indigo-expands-its-reach-1266106.html) as part of the official Indigo release train, the final version of
+3.7.1](//www.eclipse.org/eclipse/development/readme_eclipse_3.7.1.html) is the addition of support for [Java
+7](//www.h-online.com/news/item/Oracle-releases-Java-7-platform-1288208.html). When the developers released version 3.7 of Eclipse [at
+the end of June](//www.h-online.com/news/item/Eclipse-Indigo-expands-its-reach-1266106.html) as part of the official Indigo release train, the final version of
 Java 7 wasn't available. Shortly after Oracle released the new version of Java – long
 awaited by the Java community – on 28 July, the Eclipse developers announced their support
 of the new version. To implement this support, the organisation released a "Feature
@@ -2288,16 +2288,16 @@ Pack". (...)
 “
 
 
-[h-online: Tizen: the latest mobile Linux announced](http://www.h-online.com/open/news/item/Tizen-the-latest-mobile-Linux-announced-1350926.html)
+[h-online: Tizen: the latest mobile Linux announced](//www.h-online.com/open/news/item/Tizen-the-latest-mobile-Linux-announced-1350926.html)
 
 
-Intel and Samsung are now [confirmed](http://www.linuxfoundation.org/news-media/announcements/2011/09/limo-foundation-and-linux-foundation-announce-new-open-source-softw) to be working under the umbrella of the Linux Foundation, and with the
+Intel and Samsung are now [confirmed](//www.linuxfoundation.org/news-media/announcements/2011/09/limo-foundation-and-linux-foundation-announce-new-open-source-softw) to be working under the umbrella of the Linux Foundation, and with the
 cooperation of the Limo Foundation, on "Tizen", a new mobile operating system based on
 Linux. Various rumours about the parties' future plans for MeeGo and merging of plans have
 been in circulation, but the announcement of a new operating system was unexpected. The
 [Tizen](https://www.tizen.org/) operating system will combine components
-of MeeGo and Limo with an emphasis on supporting [HTML5-based applications](https://www.tizen.org/developers) and WAC ([Wholesale Applications Community](http://www.wacapps.net/)) distribution and
-APIs. WAC is the [product of a number of mobile companies](http://www.wacapps.net/our-members) who have developed a uniform platform for mobile widgets and
+of MeeGo and Limo with an emphasis on supporting [HTML5-based applications](https://www.tizen.org/developers) and WAC ([Wholesale Applications Community](//www.wacapps.net/)) distribution and
+APIs. WAC is the [product of a number of mobile companies](//www.wacapps.net/our-members) who have developed a uniform platform for mobile widgets and
 applications based on W3C standards. (...)
 
 ”
@@ -2316,13 +2316,13 @@ applications based on W3C standards. (...)
 “
 
 
-[Datamation: Will Windows 8 'Secure Boot' Lessen Linux Adoption?](http://www.datamation.com/open-source/does-microsoft-hold-the-keys-to-desktop-linux-1.html)
+[Datamation: Will Windows 8 'Secure Boot' Lessen Linux Adoption?](//www.datamation.com/open-source/does-microsoft-hold-the-keys-to-desktop-linux-1.html)
 
 
 As most PC users know by now, Microsoft has given us a glimpse into what will one day be
 the Windows 8 operating system. Leaving aside the many changes in the new OS – it's a major
 shift from what we've previously seen from Microsoft – there's an extra feature included
-with Windows 8 that has [some of us concerned](http://www.theregister.co.uk/2011/09/26/uefi_linux_lock_out_row_latest/).
+with Windows 8 that has [some of us concerned](//www.theregister.co.uk/2011/09/26/uefi_linux_lock_out_row_latest/).
 
 The new feature in question is called Secure Boot. It's designed to act as a security
 tool for PC users. However, there's some concern as to whether this function will be enabled
@@ -2347,16 +2347,16 @@ Linux distro on that machine.
 “
 
 
-[h-online: Firefox 8 Beta arrives with Twitter search](http://www.h-online.com/open/news/item/Firefox-8-Beta-arrives-with-Twitter-search-1352277.html)
+[h-online: Firefox 8 Beta arrives with Twitter search](//www.h-online.com/open/news/item/Firefox-8-Beta-arrives-with-Twitter-search-1352277.html)
 
 
-As expected following the arrival of the [stable version of Firefox 7](http://www.h-online.com/news/item/Firefox-7-released-uses-less-RAM-1350870.html), Mozilla has [announced](https://developer.mozilla.org/devnews/index.php/2011/09/29/firefox-beta-channel-new-updates-available-for-desktop-and-mobile-users/) the release of version 8.0 of Firefox into the web browser's Beta
+As expected following the arrival of the [stable version of Firefox 7](//www.h-online.com/news/item/Firefox-7-released-uses-less-RAM-1350870.html), Mozilla has [announced](https://developer.mozilla.org/devnews/index.php/2011/09/29/firefox-beta-channel-new-updates-available-for-desktop-and-mobile-users/) the release of version 8.0 of Firefox into the web browser's Beta
 Channel. Available for Windows, Mac OS X and Linux, Firefox 8 Beta is based on the Gecko 8
 engine. According to the [Releases
 wiki](https://wiki.mozilla.org/Releases), it is scheduled to arrive in a stable production-ready form on 8
 November.
 
-[Control of add-ons](http://blog.mozilla.com/addons/2011/08/11/strengthening-user-control-of-add-ons/) has been improved – when Firefox launches and detects that a
+[Control of add-ons](//blog.mozilla.com/addons/2011/08/11/strengthening-user-control-of-add-ons/) has been improved – when Firefox launches and detects that a
 new third-party add-on has been installed, the add-on will be disabled until approved by the
 user. Additionally, when users upgrade to Firefox 8 they will be presented with a one-time
 dialog for approving previously installed add-ons. (...)
@@ -2377,11 +2377,11 @@ dialog for approving previously installed add-ons. (...)
 “
 
 
-[h-online: FSF relaunches its free software directory](http://www.h-online.com/open/news/item/FSF-relaunches-its-free-software-directory-1352170.html)
+[h-online: FSF relaunches its free software directory](//www.h-online.com/open/news/item/FSF-relaunches-its-free-software-directory-1352170.html)
 
 
-The [Free Software Foundation](http://www.fsf.org/) (FSF) has [announced](http://www.fsf.org/news/directory-relaunch) the relaunch of its
-Free Software Directory. Available at [directory.fsf.org](http://directory.fsf.org/wiki/Main_Page), the Directory was first launched almost ten years ago and has
+The [Free Software Foundation](//www.fsf.org/) (FSF) has [announced](//www.fsf.org/news/directory-relaunch) the relaunch of its
+Free Software Directory. Available at [directory.fsf.org](//directory.fsf.org/wiki/Main_Page), the Directory was first launched almost ten years ago and has
 been one of the FSF's "most popular and important resources". (...)
 
 ”
@@ -2429,7 +2429,7 @@ been one of the FSF's "most popular and important resources". (...)
 “
 
 
-[Linux-BG: Linus Torvalds speaks about kernel fun, gadgets](http://www.linux-bg.org/docs/linus_torvalds_interview.html)
+[Linux-BG: Linus Torvalds speaks about kernel fun, gadgets](//www.linux-bg.org/docs/linus_torvalds_interview.html)
 
 
 LBG (Linux-BG): 20 ago when you started creating the Linux kernel was there another
@@ -2453,10 +2453,10 @@ or ... create a clone of Mine Sweeper. (...)
 “
 
 
-[Input Output/Steven J. Vaughan-Nichols: Linus Torvalds’s Lessons on Software Development Management](http://h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440)
+[Input Output/Steven J. Vaughan-Nichols: Linus Torvalds’s Lessons on Software Development Management](//h30565.www3.hp.com/t5/Feature-Articles/Linus-Torvalds-s-Lessons-on-Software-Development-Management/ba-p/440)
 
 
-If anyone knows the joys and sorrows of managing software development projects, it would be Linus Torvalds, creator of the world's most popular open-source software program: the Linux operating system. For [more than 20 years](http://www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663), Torvalds has been directing thousands of developers [to improve the open source OS](http://www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663). He and I sat down to talk about effective techniques in running large-scale distributed programming teams – and the things that don’t work, too. (...)
+If anyone knows the joys and sorrows of managing software development projects, it would be Linus Torvalds, creator of the world's most popular open-source software program: the Linux operating system. For [more than 20 years](//www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663), Torvalds has been directing thousands of developers [to improve the open source OS](//www.zdnet.com/blog/open-source/twenty-years-of-linux-according-to-linus-torvalds/8663). He and I sat down to talk about effective techniques in running large-scale distributed programming teams – and the things that don’t work, too. (...)
 
 ”
 
@@ -2474,7 +2474,7 @@ If anyone knows the joys and sorrows of managing software development projects, 
 “
 
 
-[seopher.com100+ awesome free and open source applications](http://www.seopher.com/articles/100_awesome_free_and_open_source_applications)
+[seopher.com100+ awesome free and open source applications](//www.seopher.com/articles/100_awesome_free_and_open_source_applications)
 
 
 **It has always amazed me quite how many incredible, varied and
@@ -2516,7 +2516,7 @@ every one.(...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 
 
@@ -2528,39 +2528,37 @@ every one.(...)
 
 
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know!
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//bit.ly/mpxLsD) and let us know!
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
 check out our team page and join!
 
 If you don't know, how to **contribute**, just check out the
 [Contribution
-Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-We have a [Etherpad](http://os-news.ietherpad.com/2), which you can also
+We have a [Etherpad](//os-news.ietherpad.com/2), which you can also
 use to sumbit news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels).
+community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels).
 
 Visit our **connect.opensuse.org** Page: [and give your
 Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
 your Feedback.
 
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-[news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+[news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
-
-
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
 
 
@@ -2577,7 +2575,9 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+
+
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 
 
@@ -2597,20 +2597,20 @@ We thank for this Issue:
 
 
 	
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
 	
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
 	
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
 	
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
 	
   * [Thomas
-Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
 
 
@@ -2633,7 +2633,7 @@ Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 
 
@@ -2653,13 +2653,13 @@ We thank for this Issue:
 
 
 	
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
 	
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
 	
-  * [iJoomla](http://www.ijoomla.com), Surveys
+  * [iJoomla](//www.ijoomla.com), Surveys
 
 
 
@@ -2682,7 +2682,7 @@ We thank for this Issue:
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 
 
@@ -2727,7 +2727,7 @@ We thank for this Issue:
 
 
 	
-  * [Permission Information for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Information for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 
 
@@ -2787,7 +2787,7 @@ Linux ® is a registered Trademark of Linus Torvalds
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 
 
@@ -2807,7 +2807,7 @@ openSUSE Weekly News is translated into many languages. Issue 195 is available i
 
 
 	
-  * [English](http://news.opensuse.org/?p=11141)
+  * [English](//news.opensuse.org/?p=11141)
 
 
 
@@ -2821,22 +2821,22 @@ Coming soon:
 
 
 	
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/195)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/195)
 
 	
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
 	
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
 	
-  * [Russian](http://www.xboct.org)
+  * [Russian](//www.xboct.org)
 
 
 
 
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
 
 
@@ -2844,6 +2844,6 @@ First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.ne
 
 
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)
 
 

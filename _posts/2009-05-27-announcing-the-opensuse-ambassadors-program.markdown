@@ -32,6 +32,6 @@ In general, openSUSE Ambassadors are friendly openSUSE enthusiasts who help intr
 ## Signing Up
 
 
-If you'd like to sign up for the openSUSE Ambassador Program, see the "How do I Join?" section on the [openSUSE wiki](http://en.opensuse.org/Ambassador#How_do_I_join.3F). If you have questions about the Ambassador's program not answered [on the wiki](http://en.opensuse.org/Ambassador#openSUSE_Ambassador_FAQ), feel free to bring them up on the openSUSE Marketing [mailing list](http://en.opensuse.org/Mailing_Lists).
+If you'd like to sign up for the openSUSE Ambassador Program, see the "How do I Join?" section on the [openSUSE wiki](//en.opensuse.org/Ambassador#How_do_I_join.3F). If you have questions about the Ambassador's program not answered [on the wiki](//en.opensuse.org/Ambassador#openSUSE_Ambassador_FAQ), feel free to bring them up on the openSUSE Marketing [mailing list](//en.opensuse.org/Mailing_Lists).
 
 You don't need approval to get started. Just follow the steps on the openSUSE wiki and have a lot of fun!

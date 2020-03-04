@@ -12,12 +12,12 @@ categories:
 - Project
 ---
 
-[![Collaboration_picture](/wp-content/uploads/2011/04/collabration.jpg)](http://news.opensuse.org/2011/04/17/evergreen-needs-you/collabration/)
+[![Collaboration_picture](/wp-content/uploads/2011/04/collabration.jpg)](//news.opensuse.org/2011/04/17/evergreen-needs-you/collabration/)
 
 
 
 
-[Copyright](http://www.flickr.com/photos/venessamiemis/4756760521/)
+[Copyright](//www.flickr.com/photos/venessamiemis/4756760521/)
 
 
 

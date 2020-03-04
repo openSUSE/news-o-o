@@ -13,7 +13,7 @@ tags:
 - yast
 ---
 
-The [YaST team](http://en.opensuse.org/YaST_Team) had last week a workshop and the participants are now updating the [openSUSE wiki](http://en.opensuse.org/YaST_Workshop_Prague_2007) with their slides and comments.
+The [YaST team](//en.opensuse.org/YaST_Team) had last week a workshop and the participants are now updating the [openSUSE wiki](//en.opensuse.org/YaST_Workshop_Prague_2007) with their slides and comments.
 
 Lukas announced that the YaST team is opening up their development further:
 
@@ -41,7 +41,7 @@ So how to talk with YaST developers online? Simply click on the link above, or:
 
 We still don't have any "YaST IRC Client" ;) Not yet!
 
-Besides the #yast channel, there are more that are used by the openSUSE project, for details check the[ openSUSE wiki](http://en.opensuse.org/Communicate/IRC).
+Besides the #yast channel, there are more that are used by the openSUSE project, for details check the[ openSUSE wiki](//en.opensuse.org/Communicate/IRC).
 Have a nice day && a lot of fun!
 
 Lukas and Andreas

@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-The [spicy power team](http://en.opensuse.org/POWER_Team) concentrated for openSUSE 10.3 on supporting the Sony Playstation PS3, the major changes are:
+The [spicy power team](//en.opensuse.org/POWER_Team) concentrated for openSUSE 10.3 on supporting the Sony Playstation PS3, the major changes are:
 
 
 
@@ -19,12 +19,12 @@ The [spicy power team](http://en.opensuse.org/POWER_Team) concentrated for openS
   * openSUSE 10.3 is fully installable with YaST on the Sony Playstation PS3
 
 	
-  * a kexec-based bootloader called [petitboot](http://ozlabs.org/~jk/projects/petitboot/) is used for PS3
+  * a kexec-based bootloader called [petitboot](//ozlabs.org/~jk/projects/petitboot/) is used for PS3
 
 	
   * There is a development pattern for Cell development on PS3 to easily install the needed packages
 
 
-More details on installing openSUSE 10.3 on PS3 can be found at [http://en.opensuse.org/PS3](http://en.opensuse.org/PS3).
+More details on installing openSUSE 10.3 on PS3 can be found at [//en.opensuse.org/PS3](//en.opensuse.org/PS3).
 
-Besides the PS3, 10.3 also runs on the previously supported  Apple Power Mac, IBM POWER, and Pegasos PPC hardware for details see [http://en.opensuse.org/POWER@SUSE](http://en.opensuse.org/POWER%40SUSE).
+Besides the PS3, 10.3 also runs on the previously supported  Apple Power Mac, IBM POWER, and Pegasos PPC hardware for details see [//en.opensuse.org/POWER@SUSE](//en.opensuse.org/POWER%40SUSE).

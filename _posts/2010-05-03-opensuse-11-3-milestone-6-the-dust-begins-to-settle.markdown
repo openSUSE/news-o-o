@@ -12,9 +12,9 @@ categories:
 - Distribution
 ---
 
-**Milestone 6** (of 7), a snapshot of the [Factory](http://en.opensuse.org/Factory) “work  in progress” build, leading up to openSUSE 11.3 release in [July](http://en.opensuse.org/Roadmap), is now  available for [download](http://software.opensuse.org/developer).
+**Milestone 6** (of 7), a snapshot of the [Factory](//en.opensuse.org/Factory) “work  in progress” build, leading up to openSUSE 11.3 release in [July](//en.opensuse.org/Roadmap), is now  available for [download](//software.opensuse.org/developer).
 
-[M6](http://software.opensuse.org/developer) is the first release during the “[Stablizing  Freeze”](http://www.suse.de/%7Ecoolo/opensuse_11.3/): focus has transitioned away from the inclusion of new  features and applications toward increasing stability and usability.  To  that end, [162 bugs](https://bugzilla.novell.com/buglist.cgi?order=Bug%20Number&chfieldto=2010-04-29&chfield=bug_status&query_format=advanced&chfieldfrom=2010-04-09&bug_status=RESOLVED&product=openSUSE%2011.3) were resolved during the M5 - M6 timeframe!
+[M6](//software.opensuse.org/developer) is the first release during the “[Stablizing  Freeze”](//www.suse.de/%7Ecoolo/opensuse_11.3/): focus has transitioned away from the inclusion of new  features and applications toward increasing stability and usability.  To  that end, [162 bugs](https://bugzilla.novell.com/buglist.cgi?order=Bug%20Number&chfieldto=2010-04-29&chfield=bug_status&query_format=advanced&chfieldfrom=2010-04-09&bug_status=RESOLVED&product=openSUSE%2011.3) were resolved during the M5 - M6 timeframe!
 
 <!-- more -->
 
@@ -151,7 +151,7 @@ categories:
 
 
 	
-  * A gcc segfault condition was identified and reported upstream. ([Bug #593923](https://bugzilla.novell.com/show_bug.cgi?id=593923), [gcc bug report](http://gcc.gnu.org/bugzilla/show_bug.cgi?id=43704))
+  * A gcc segfault condition was identified and reported upstream. ([Bug #593923](https://bugzilla.novell.com/show_bug.cgi?id=593923), [gcc bug report](//gcc.gnu.org/bugzilla/show_bug.cgi?id=43704))
 
 
 
@@ -167,7 +167,7 @@ categories:
   * reverted back to at-spi due to issues with at-spi2 preventing a  usable accesibility stack. ([Bug #595197](https://bugzilla.novell.com/show_bug.cgi?id=595197))
 
 	
-  * gnome-desktop-sharp2 has been updated to reference Gnome 2.30  on openSUSE 11.3; this resolves an issue with gnome-do not reading  .desktop files. ([[Bug #584612](https://bugzilla.novell.com/show_bug.cgi?id=584612), [commit message](http://lists.opensuse.org/opensuse-commit/2010-04/msg00932.html))
+  * gnome-desktop-sharp2 has been updated to reference Gnome 2.30  on openSUSE 11.3; this resolves an issue with gnome-do not reading  .desktop files. ([[Bug #584612](https://bugzilla.novell.com/show_bug.cgi?id=584612), [commit message](//lists.opensuse.org/opensuse-commit/2010-04/msg00932.html))
 
 	
   * a dbus issue with couchdb was resolved; this was causing  gwibber to crash. ([Bug #592720](https://bugzilla.novell.com/show_bug.cgi?id=592720))
@@ -248,7 +248,7 @@ categories:
 ## Party (Planning) Time
 
 
-Now is a great time to start organizing 11.3 release parties; there's  no better way to enjoy the new release than with your fellow openSUSE  users! If you, your LUG or openSUSE User Group are hosting one, go ahead  and add it to this list at [http://en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations](http://en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations)
+Now is a great time to start organizing 11.3 release parties; there's  no better way to enjoy the new release than with your fellow openSUSE  users! If you, your LUG or openSUSE User Group are hosting one, go ahead  and add it to this list at [//en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations](//en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations)
 
 
 
@@ -275,13 +275,13 @@ The following annoyances have already been reported:
   * **A number of issues have been encountered using KMS with  Intel/nouveau/radeon drivers and specific hardware configurations.  Workaround: use nomodeset boot flag to disable KMS.**
 
 
-Please see [http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_6](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_6) for the current list.
+Please see [//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_6](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.3_Milestone_6) for the current list.
 
 
 
 
 
-[![](http://en.opensuse.org/images/d/d0/Milestone6_113.png)](http://software.opensuse.org/developer)
+[![](//en.opensuse.org/images/d/d0/Milestone6_113.png)](//software.opensuse.org/developer)
 
 
 
@@ -289,4 +289,4 @@ Please see [http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev#openSUSE_11.
 
 
 
-What are you waiting for? Grab the milestone release from [http://software.opensuse.org/developer](http://software.opensuse.org/developer) today!
+What are you waiting for? Grab the milestone release from [//software.opensuse.org/developer](//software.opensuse.org/developer) today!

@@ -13,7 +13,7 @@ categories:
 
 ![Tumbleweed-black-green](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)Last week’s updates to [Tumbleweed](https://en.opensuse.org/openSUSE:Tumbleweed_installation) brought several new packages to [openSUSE](https://www.opensuse.org/)’s rolling release like Kmail 5, KDE Framework 5.18.0 and updates to Perl and YaST.
 
-This week’s [snapshot](http://lists.opensuse.org/opensuse-factory/2016-01/msg00475.html) has KDE Applications [15.12.1](https://www.kde.org/announcements/announce-applications-15.12.1.php), which contains only bugfixes and translation updates, and the virtual globe and world atlas [Marble](https://marble.kde.org/) updated to from 15.08.3 to the [15.12.1](https://www.kde.org/announcements/announce-applications-15.12.1.php) version.
+This week’s [snapshot](//lists.opensuse.org/opensuse-factory/2016-01/msg00475.html) has KDE Applications [15.12.1](https://www.kde.org/announcements/announce-applications-15.12.1.php), which contains only bugfixes and translation updates, and the virtual globe and world atlas [Marble](https://marble.kde.org/) updated to from 15.08.3 to the [15.12.1](https://www.kde.org/announcements/announce-applications-15.12.1.php) version.
 
 Libre Office updated to 5.1.0.2. Perl Image ExifTool’s update to 10.10 provided several visual equipment updates and the notes related to the update provided some criticism of programmers from a camera manufacturer.
 

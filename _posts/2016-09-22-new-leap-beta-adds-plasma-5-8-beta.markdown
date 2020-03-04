@@ -26,13 +26,13 @@ tags:
 - Xen
 ---
 
-![icon](/wp-content/uploads/2016/09/Icon-1.png)The release of [openSUSE Leap 42.2 Beta 2](http://software.opensuse.org/developer/en?release=developer) today added several new minor versions including [KDE’s first Long Term Support version for Plasma](https://www.kde.org/announcements/plasma-5.7.95.php). 
+![icon](/wp-content/uploads/2016/09/Icon-1.png)The release of [openSUSE Leap 42.2 Beta 2](//software.opensuse.org/developer/en?release=developer) today added several new minor versions including [KDE’s first Long Term Support version for Plasma](https://www.kde.org/announcements/plasma-5.7.95.php). 
 
 The highly anticipated release of Plasma 5.8 LTS will be the default desktop for openSUSE Leap 42.2 and its beta (5.7.95), which was just released last week, is in openSUSE’s newest beta release.
 
 “The quality of the distribution at this point looks quite good,” said Ludwig Nussel, Leap’s release manager. “Since Plasma 5.8 is still a beta version, it deserves more attention and thorough testing. We can help upstream to release a good 5.8.0 and get a decent quality default desktop in return.”
 
-KDE and openSUSE slightly adjusted release schedules to be able to [include Plasma 5.8 in the release of openSUSE Leap 42.2](http://bit.ly/2cHp7G8) because Plasma 5.8 is an LTS and complement one another as well as appeal to conservative adapters.<!-- more -->
+KDE and openSUSE slightly adjusted release schedules to be able to [include Plasma 5.8 in the release of openSUSE Leap 42.2](//bit.ly/2cHp7G8) because Plasma 5.8 is an LTS and complement one another as well as appeal to conservative adapters.<!-- more -->
 
 The new Plasma Beta is only in English because of its beta status. Translations for 5.8 and several openSUSE specific components and infrastructure are needed before the final releases.
 
@@ -45,7 +45,7 @@ Other packages that had version upgrade in openSUSE’s latest beta are KDE Appl
 
 Testers of the Beta are encourage to submit bugs they find on [openSUSE Bugzilla](https://bugzilla.opensuse.org/index.cgi).
 
-The release of the Beta 2 was delayed by one day, but the [road map](https://en.opensuse.org/openSUSE:Roadmap) for the release of Leap 42.2 is still scheduled for Nov. 16, which is one week after [SUSECon](http://www.susecon.com/). The next beta, Beta 3, is scheduled for Oct. 6 and the submission deadline for it is Sept. 29. The Release Candidate is scheduled for Oct. 18.
+The release of the Beta 2 was delayed by one day, but the [road map](https://en.opensuse.org/openSUSE:Roadmap) for the release of Leap 42.2 is still scheduled for Nov. 16, which is one week after [SUSECon](//www.susecon.com/). The next beta, Beta 3, is scheduled for Oct. 6 and the submission deadline for it is Sept. 29. The Release Candidate is scheduled for Oct. 18.
 
 Leap is a community-enterprise distribution that focuses on stability. Leap has hundreds of SUSE Linux Enterprise (SLE) Service Pack (SP) 2 packages and the thousands of community-built packages. The distribution gives developers and organizations an ability to bridge to the faster release cycles of openSUSE Tumbleweed or to a more Long Term Support enterprise solution with SLE.
 

@@ -16,7 +16,7 @@ tags:
 
 A big kudos to all our ambassadors who are working very hard to let the world know about openSUSE! They have been organizing events, speaking to people and writing about the awesomeness of openSUSE Project. Below are a few events that were openSUSE boosted in the last few days by our ambassadors. We probably still missed some as it can be hard to track everything that's going on!
 
-<!-- more -->**[![](/wp-content/uploads/2011/05/09042011011.jpg)](http://news.opensuse.org/2011/05/06/opensuse-ambassadors-are-rocking-all-over-the-world/attachment/09042011011/)FLISOL 2011**
+<!-- more -->**[![](/wp-content/uploads/2011/05/09042011011.jpg)](//news.opensuse.org/2011/05/06/opensuse-ambassadors-are-rocking-all-over-the-world/attachment/09042011011/)FLISOL 2011**
 
 
 Fernando Mejia gave lots of workshops over there.There was a small workshop of a guided openSUSE 11.4 installation in one of the labs of the event. The team also gave a brief lecture about how the openSUSE project works using the kitty presentation by Jos. Fernando has put it online.
@@ -30,7 +30,7 @@ Fernando Mejia:
 
 **openFEST 2011**
 Our party loving Greek Geekos had a bang at openFEST. An openSUSE booth with 13 energetic geekos combined with the awesomeness of 4 totally rocking presentations made the perfect recipe for a fun event. Over 300 Dvds of 11.4 and 200 DVDs of 11.3 were distributed along with cheat sheets and other reference materials for visitors.
-Greeko:[![](/wp-content/uploads/2011/05/1.jpg)](http://news.opensuse.org/2011/05/06/opensuse-ambassadors-are-rocking-all-over-the-world/attachment/1/)
+Greeko:[![](/wp-content/uploads/2011/05/1.jpg)](//news.opensuse.org/2011/05/06/opensuse-ambassadors-are-rocking-all-over-the-world/attachment/1/)
 
 
 <blockquote>"We kicked ass!"</blockquote>

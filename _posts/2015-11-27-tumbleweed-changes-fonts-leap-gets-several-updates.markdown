@@ -20,13 +20,13 @@ tags:
 
 [![Tumbleweed-black-green](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)](/wp-content/uploads/2015/10/Tumbleweed-black-green.png)Tumbleweed had one snapshot so far this week that brought more appeal to users of openSUSE.
 
-[Snapshot 20151123](http://lists.opensuse.org/opensuse-factory/2015-11/msg00654.html) changed fonts for openSUSE. The terminal font changed to Adobe Code Pro and Roboto was also added as the default font.
+[Snapshot 20151123](//lists.opensuse.org/opensuse-factory/2015-11/msg00654.html) changed fonts for openSUSE. The terminal font changed to Adobe Code Pro and Roboto was also added as the default font.
 
 The fonts are not only available in Tumbleweed; users of Leap can update the fonts as an option. The reason for the change was to provide a more appealing, complete font.
 
 [Wireshark upgraded to 2.0](https://www.wireshark.org/news/20151118.html) in Tumbleweed and the new features are a new user interface. The legacy interface is expected to be removed in Wireshark 2.2. Wireshark’s RPM-based package definition provides the new interface in the “wireshark-qt” package and the old interface in the “wireshark-gtk” package.
 
-Fixes were made for[ Boost version 1.59](http://www.boost.org/users/history/version_1_59_0.html) and [GStreamer 1.6](http://gstreamer.freedesktop.org/releases/1.6/) and these two are expected to make it into a Tumbleweed snapshot soon.<!-- more -->
+Fixes were made for[ Boost version 1.59](//www.boost.org/users/history/version_1_59_0.html) and [GStreamer 1.6](//gstreamer.freedesktop.org/releases/1.6/) and these two are expected to make it into a Tumbleweed snapshot soon.<!-- more -->
 
 More updated versions are available in the snapshot and there are three new packages that were added to the reliably rolling distribution.
 

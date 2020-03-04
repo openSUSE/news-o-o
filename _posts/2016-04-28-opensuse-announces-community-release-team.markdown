@@ -30,4 +30,4 @@ The documentation tasks include updating content on the wiki and ensuring releas
 
 People interested in joining the Community Release Team should contact the board and Nussel.
 
-A link to the action items from the last release can be found at [http://tinyurl.com/grg5szf](http://tinyurl.com/grg5szf) and volunteers are welcomed to expand the tasks.
+A link to the action items from the last release can be found at [//tinyurl.com/grg5szf](//tinyurl.com/grg5szf) and volunteers are welcomed to expand the tasks.

@@ -11,6 +11,6 @@ categories:
 - Build Service
 ---
 
-[![Novell Open Audio](//news.opensuse.org/wp-content/uploads/2007/11/noa_logo_text.gif)](http://www.novell.com/feeds/openaudio/)
+[![Novell Open Audio](//news.opensuse.org/wp-content/uploads/2007/11/noa_logo_text.gif)](//www.novell.com/feeds/openaudio/)
 
-As part of their openSUSE release series, Novell Open Audio [has talked to](http://www.novell.com/feeds/openaudio/?p=186) Michael Schröder and Andreas Bauer about the [openSUSE Build Service](http://en.opensuse.org/Build_Service), our powerful cross-distribution package build system. They discuss a bunch of updates which happened over the year since last coverage, what is being worked on currently and a little bit on how you can have your projects hosted on the service. She doesn't have to read the whole article [pay to write my paper](https://midnightpapers.com/) though
+As part of their openSUSE release series, Novell Open Audio [has talked to](//www.novell.com/feeds/openaudio/?p=186) Michael Schröder and Andreas Bauer about the [openSUSE Build Service](//en.opensuse.org/Build_Service), our powerful cross-distribution package build system. They discuss a bunch of updates which happened over the year since last coverage, what is being worked on currently and a little bit on how you can have your projects hosted on the service. She doesn't have to read the whole article [pay to write my paper](https://midnightpapers.com/) though

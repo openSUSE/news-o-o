@@ -173,7 +173,7 @@ We do not forget exciting lightning talks at this year’s summit. This year, th
 
 Please submit your proposal to the following website:
 
-[http://events.opensuse.org/](http://events.opensuse.org/)
+[//events.opensuse.org/](//events.opensuse.org/)
 
 
 
@@ -234,9 +234,9 @@ For example, if your talk is on security or desktop, it is better that it contai
   * The CFP guide for Open Source Summit Japan is worth reading
 
 
-Japanese: http://events.linuxfoundation.jp/events/open-source-summit-japan/program/cfp
+Japanese: //events.linuxfoundation.jp/events/open-source-summit-japan/program/cfp
 
-English: http://events.linuxfoundation.org/events/open-source-summit-japan/program/cfp
+English: //events.linuxfoundation.org/events/open-source-summit-japan/program/cfp
 
 **Only workshop: please write how to use your time and what you need.**
 

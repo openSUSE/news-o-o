@@ -29,7 +29,7 @@ Now, the whole idea was pretty much completely summed up in the [introductory](h
 A shell, Mr Shotts states, is actually what we're talking about when we're talking about command-line. The shell is basically a program that passes the strokes of your keyboard to your computer, a translator of some sort, so your computer knows what you're saying. There are many shells in existence, but the most widespread shell used in GNU/Linux distributions is called **_bash_**, or Bourne Again Shell. It's a clever wordplay, as Mr Bourne created the bash's predecessor, _**sh**_, and Brian Fox wrote it as a free alternative for sh. Ahhh, GNU people and their humor, very clever :)
 
 
-![bOURNE](http://paste.opensuse.org/images/54535272.jpg)
+![bOURNE](//paste.opensuse.org/images/54535272.jpg)
 
 
 Next thing we need so we can interact with the shell is a terminal emulator. Every Linux distribution comes with one, depending on the desktop environment you use, so it should be **_Konsole_** from KDE, **_Gnome terminal_** in Gnome etc. Mr. Shotts says you probably develop a preference for one, but I use what the desktop environment provides me, most of the time.
@@ -52,7 +52,7 @@ Now, press the up arrow, and you'll see the command reappear. What's this sorcer
 
 
 
-Now, for us not to get the 'command not found' slap to the face, let's try something simple. Type **_date_**. (Yes, I didn't know there's a command for this, so it's exciting for me also) :) ![date](http://paste.opensuse.org/images/7123365.png)
+Now, for us not to get the 'command not found' slap to the face, let's try something simple. Type **_date_**. (Yes, I didn't know there's a command for this, so it's exciting for me also) :) ![date](//paste.opensuse.org/images/7123365.png)
 
 
 
@@ -65,13 +65,13 @@ There you go. Why bother looking at your built in calendar in the clock, when yo
 You may also try **_df_**, and it will list free space on your drives.
 
 
-![df](http://paste.opensuse.org/images/44662534.png)
+![df](//paste.opensuse.org/images/44662534.png)
 
 
 Or _**free**_, to display the amount of free memory:
 
 
-![free](http://paste.opensuse.org/images/44548116.png)
+![free](//paste.opensuse.org/images/44548116.png)
 
 
 If you're already in the type-only mood, you can enter the command _**exit**_ to get out of the terminal emulator instead of pressing the x button.
@@ -131,4 +131,4 @@ We learn navigation through the file system (what are all those bin etc etc. fol
 
 
 
-### ...have a lot of fun!![dog](http://paste.opensuse.org/images/40949666.jpg)
+### ...have a lot of fun!![dog](//paste.opensuse.org/images/40949666.jpg)

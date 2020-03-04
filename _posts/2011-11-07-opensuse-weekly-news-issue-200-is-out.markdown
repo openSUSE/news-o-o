@@ -14,7 +14,7 @@ categories:
 We are pleased to announce our openSUSE Weekly News 200.<!-- more -->
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -26,12 +26,12 @@ We are pleased to announce our openSUSE Weekly News 200.<!-- more -->
 
 **Legal Notice**
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
        
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/). 
        The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -39,9 +39,9 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which 
         license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
-We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](http://www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
+We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](//www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
 
 Published: 2011-11-07
 
@@ -94,7 +94,7 @@ Translations
 
 We are pleased to announce our 200 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 **Enjoy reading :-)**
 
@@ -114,7 +114,7 @@ Brief history of openSUSE Weekly News
 
 It has been almost 4 years since openSUSE Weekly News Issue 1 was published. Here's a brief history of Weekly News.
 
-  * 22 November 2007: The first editor in chief Francis Giannaros aka Apokryphos started to edit the [first issue of Weekly News](http://old-en.opensuse.org/OpenSUSE_Weekly_News/1) and it was officially published on November 26th. Then, it was translated to German by Matthias Fehring aka Buschmann23.
+  * 22 November 2007: The first editor in chief Francis Giannaros aka Apokryphos started to edit the [first issue of Weekly News](//old-en.opensuse.org/OpenSUSE_Weekly_News/1) and it was officially published on November 26th. Then, it was translated to German by Matthias Fehring aka Buschmann23.
 
   * Issue 4: Stephan Binner aka Beineri joined the Weekly News team.
 
@@ -132,11 +132,11 @@ It has been almost 4 years since openSUSE Weekly News Issue 1 was published. Her
 
   * Issue 52: A special section "Best of Newsletter 2008" was featured.
 
-  * 13 February 2009: A [special Issue "FOSDEM2009"](http://old-en.opensuse.org/OpenSUSE_Weekly_News/FOSDEM2009) was published.
+  * 13 February 2009: A [special Issue "FOSDEM2009"](//old-en.opensuse.org/OpenSUSE_Weekly_News/FOSDEM2009) was published.
 
   * Issue 69: Sascha Manns started Livestream/Podcast in the German Language based on Weekly News on RadioTux.
 
-  * 15 May 2009: A [special Issue "CommunityWeek2009"](http://old-en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009) was published.
+  * 15 May 2009: A [special Issue "CommunityWeek2009"](//old-en.opensuse.org/OpenSUSE_Weekly_News/CommunityWeek2009) was published.
 
   * 11 June 2009: "How are the openSUSE news?" survey on openSUSE Forums.
 
@@ -144,9 +144,9 @@ It has been almost 4 years since openSUSE Weekly News Issue 1 was published. Her
 
   * 17 September 2009: Sascha Manns gave a talk session about Weekly News at openSUSE Conference 2009.
 
-  * Issue 100: [Congratulations from Francis Giannaros and Bryen Yunashko](http://old-en.opensuse.org/OpenSUSE_Weekly_News/Dashboard/mail_greetings) for the 100th anniversary issue.
+  * Issue 100: [Congratulations from Francis Giannaros and Bryen Yunashko](//old-en.opensuse.org/OpenSUSE_Weekly_News/Dashboard/mail_greetings) for the 100th anniversary issue.
 
-  * Issue 118: From this issue on, HTML versions have been published [on news.opensuse.org](http://news.opensuse.org/2010/04/10/opensuse-weekly-news-issue-118-is-out-2/).
+  * Issue 118: From this issue on, HTML versions have been published [on news.opensuse.org](//news.opensuse.org/2010/04/10/opensuse-weekly-news-issue-118-is-out-2/).
 
   * Issue 150: Translated to Greek by Greek team. Gertjan Lettink aka Knurpht joined the team and took over contributing articles for Forums from Carl Fletcher aka Caf4926.
 
@@ -215,12 +215,12 @@ Stefan Werden
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Marketing.png)Announcements▲▼
 
 “
 
 [Help us
-        spread the word on openSUSE 12.1!](http://news.opensuse.org/2011/11/01/help-us-spread-the-word-on-opensuse-12-1/)
+        spread the word on openSUSE 12.1!](//news.opensuse.org/2011/11/01/help-us-spread-the-word-on-opensuse-12-1/)
 
 In less than 3 weeks, our little baby, openSUSE 12.1, will be released into the wild. Now
       as you know, babies need **lots** of attention! This is where we
@@ -236,7 +236,7 @@ openSUSE 12.1 needs to be promoted **everywhere**! That is,
 “
 
 [Will you
-      Party?](http://news.opensuse.org/2011/11/02/will-you-party/)
+      Party?](//news.opensuse.org/2011/11/02/will-you-party/)
 
 A little over two weeks left for openSUSE 12.1 to be released on November, 16th 2011. And
       there is no better way to enjoy the new release than with your fellow openSUSE peers. So,
@@ -253,37 +253,37 @@ Read more on how to find out if there is a release party in your neighborhood or
 
 
       [ Are you ready for
-        RC2?](http://news.opensuse.org/2011/11/03/are-you-ready-for-rc2/)
+        RC2?](//news.opensuse.org/2011/11/03/are-you-ready-for-rc2/)
     
 
 Following the [openSUSE 12.1
-        roadmap](http://en.opensuse.org/openSUSE:Roadmap), RC2 has been released upon this innocent world. This is your final chance
+        roadmap](//en.opensuse.org/openSUSE:Roadmap), RC2 has been released upon this innocent world. This is your final chance
       to test openSUSE 12.1 before we move to the final version! We need to know about all **big problems**
       NOW! Read on to find out how to help. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 ### Team Reports
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Opensuse_medical_logo11.png)Medical Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Opensuse_medical_logo11.png)Medical Team
 
 “
 
 
-          [openSUSE Medical Project searches for new Leadership and other participation](http://lists.opensuse.org/archive/opensuse-project/2011-10/msg00151.html)
+          [openSUSE Medical Project searches for new Leadership and other participation](//lists.opensuse.org/archive/opensuse-project/2011-10/msg00151.html)
         
 
 Well i would to announce that “openSUSE Medical Calling and also needs you” 
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -306,7 +306,7 @@ Network installation could be improved by running package download and package
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -388,13 +388,13 @@ But it would also need a secure (GUI) "Permission Asker", like windows and of co
 
 Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org/statistic/product/opensuse_dist)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
 “
 
 
           [Larry
-            Finger: Weekly News for November 05](http://lists.opensuse.org/opensuse-testing/2011-11/msg00022.html)
+            Finger: Weekly News for November 05](//lists.opensuse.org/opensuse-testing/2011-11/msg00022.html)
         
 
 The next meeting of the Testing Core Team will be November 7, 2011 at 18:00 UTC on
@@ -406,56 +406,56 @@ The next meeting of the Testing Core Team will be November 7, 2011 at 18:00 UTC 
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Events & Meetings
 
 Past
 
-  * [November 02, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [November 02, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
 Upcoming
 
   * [November 5-6, 2011 : OpenFest (Sofia,
-            Bulgaria)](http://openfest.org/english)
+            Bulgaria)](//openfest.org/english)
 
-  * [November 09, 2011 : openSUSE 12.1 Launch Check-in](http://news.opensuse.org/2011/10/27/opensuse-12-1-launch-check-in/)
+  * [November 09, 2011 : openSUSE 12.1 Launch Check-in](//news.opensuse.org/2011/10/27/opensuse-12-1-launch-check-in/)
 
-  * [November 16, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [November 16, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-      it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podcast). 
+      it on [//saigkill.homelinux.net/podcast](//saigkill.homelinux.net/podcast). 
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
-    refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 “
 
 [
-        openSUSE-SU-2011:1203-1: important: rpm (CVE-2011-3378) ](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00000.html)
+        openSUSE-SU-2011:1203-1: important: rpm (CVE-2011-3378) ](//lists.opensuse.org/opensuse-security-announce/2011-11/msg00000.html)
 
 <table frame="void" id="id332169" >Table 1. openSUSE Security Announcement<tr >
           
@@ -502,7 +502,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 “
 
 [openSUSE-SU-2011:1204-1: important: pam: fixing stack overflow (CVE-2011-3148) and DoS
-        (CVE-2011-3149)](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00001.html)
+        (CVE-2011-3149)](//lists.opensuse.org/opensuse-security-announce/2011-11/msg00001.html)
 
 <table frame="void" id="id332302" >Table 2. openSUSE Security Announcement<tr >
           
@@ -550,7 +550,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
       [openSUSE-SU-2011:1208-1: important: pam: fixing stack overflow (CVE-2011-3148), a local DoS
-        (CVE-2011-3149) and CVE-2010-3316](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00005.html)
+        (CVE-2011-3149) and CVE-2010-3316](//lists.opensuse.org/opensuse-security-announce/2011-11/msg00005.html)
     
 
 <table frame="void" id="id332460" >Table 3. openSUSE Security Announcement<tr >
@@ -598,7 +598,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 “
 
 
-      [openSUSE-SU-2011:1217-1: important: apache2: Fixed several security issues](http://lists.opensuse.org/opensuse-security-announce/2011-11/msg00009.html)
+      [openSUSE-SU-2011:1217-1: important: apache2: Fixed several security issues](//lists.opensuse.org/opensuse-security-announce/2011-11/msg00009.html)
     
 
 <table frame="void" id="id332624" >Table 4. SUSE Security Announcement<tr >
@@ -643,18 +643,18 @@ To view the security announcements in full, or to receive them as soon as they'r
 </td>
         </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 “
 
 [Rares
-        Aioanei: kernel weekly news – 05.11.2011](http://schaiba.wordpress.com/2011/11/05/kernel-weekly-news-05-11-2011/)
+        Aioanei: kernel weekly news – 05.11.2011](//schaiba.wordpress.com/2011/11/05/kernel-weekly-news-05-11-2011/)
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
@@ -662,7 +662,7 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 
         [OMG!
-          Ubuntu!/Joey Sneddon: Five Pretty Awesome GNOME Shell Themes](http://www.omgubuntu.co.uk/2011/10/five-pretty-awesome-gnome-shell-themes/)
+          Ubuntu!/Joey Sneddon: Five Pretty Awesome GNOME Shell Themes](//www.omgubuntu.co.uk/2011/10/five-pretty-awesome-gnome-shell-themes/)
       
 
 **One of the great things about GNOME Shell is that it’s
@@ -670,14 +670,14 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
           on-screenkeyboard.**
 
 Below are five are five of my top GNOME Shell theme picks from those we’ve featured or
-        been ‘tipped’ about recently. Don’t know how to install GNOME Shell themes? [We’ve got that covered.](http://www.omgubuntu.co.uk/2011/10/how-to-install-gnome-shell-themes-in-ubuntu-11-10/)
+        been ‘tipped’ about recently. Don’t know how to install GNOME Shell themes? [We’ve got that covered.](//www.omgubuntu.co.uk/2011/10/how-to-install-gnome-shell-themes-in-ubuntu-11-10/)
 
 ”
 
 “
 
 
-        [Linux Journal/Bruce Byfield: Four Hidden Tools in Scribus](http://www.linuxjournal.com/content/four-hidden-tools-scribus)
+        [Linux Journal/Bruce Byfield: Four Hidden Tools in Scribus](//www.linuxjournal.com/content/four-hidden-tools-scribus)
       
 
 Scribus is a powerful tool, but its menus are poorly laid-out. While you can usually
@@ -696,7 +696,7 @@ The tools described here are ones that took some time for me to discover in Scri
 “
 
 
-        [BashShell.net/Mike: Understanding the cat Command](http://bashshell.net/commands/understanding-the-cat-command/)
+        [BashShell.net/Mike: Understanding the cat Command](//bashshell.net/commands/understanding-the-cat-command/)
       
 
 **cat**
@@ -710,7 +710,7 @@ By default, stdin for cat is the keyboard, and stdout is the computer screen.  I
 “
 
 
-        [BashShell.net/Mike: Testing the Exit Status of a Command](http://bashshell.net/shell-scripts/exit-status-with-test/)
+        [BashShell.net/Mike: Testing the Exit Status of a Command](//bashshell.net/shell-scripts/exit-status-with-test/)
       
 
 **test**
@@ -724,32 +724,32 @@ The test command is used to determine exit status on numerous tests that can be 
 “
 
 
-        [Wazi/W. Jason Gilmore: jQuery and Ajax Error Detection and Handling](http://olex.openlogic.com/wazi/2011/jquery-and-ajax-error-detection-and-handling/)
+        [Wazi/W. Jason Gilmore: jQuery and Ajax Error Detection and Handling](//olex.openlogic.com/wazi/2011/jquery-and-ajax-error-detection-and-handling/)
       
 
-Website development duties were once assigned to different individuals with two distinct roles: A designer focused on the all matters related to the front-end HTML and CSS, and a developer was responsible for the server-side code. JavaScript’s meteoric rise to first-class citizen status has blurred these traditional lines, forcing developers into what was once considered taboo territory. The results have been spectacular, with frameworks such as [jQuery](http://olex.openlogic.com/packages/jquery) significantly streamlining JavaScript’s often unwieldy native syntax, and programming techniques such as [Ajax](http://en.wikipedia.org/wiki/Ajax_%28programming%29) bringing highly responsive user interfaces to the browser. The marrying of jQuery and Ajax has been particularly impactful, providing developers with a powerful solution to the problem of asynchronously interacting with and updating parts of a web page. (...)
+Website development duties were once assigned to different individuals with two distinct roles: A designer focused on the all matters related to the front-end HTML and CSS, and a developer was responsible for the server-side code. JavaScript’s meteoric rise to first-class citizen status has blurred these traditional lines, forcing developers into what was once considered taboo territory. The results have been spectacular, with frameworks such as [jQuery](//olex.openlogic.com/packages/jquery) significantly streamlining JavaScript’s often unwieldy native syntax, and programming techniques such as [Ajax](//en.wikipedia.org/wiki/Ajax_%28programming%29) bringing highly responsive user interfaces to the browser. The marrying of jQuery and Ajax has been particularly impactful, providing developers with a powerful solution to the problem of asynchronously interacting with and updating parts of a web page. (...)
 
 ”
 
 “
 
 
-        [linuxcareer.com/Writing manual pages on Linux](http://how-to.linuxcareer.com/writing-manual-pages-on-linux)
+        [linuxcareer.com/Writing manual pages on Linux](//how-to.linuxcareer.com/writing-manual-pages-on-linux)
       
 
 **1. Introduction**
 
-It's a very common fact that nobody likes to write documentation. Heck, nobody likes to read it either. But there are times when we have to read it in order to, say, finish the project on time, or, especially when working in software development, even write it. If you only have to read it, we always encouraged you to do so, but if you'll have to write the manual pages and need a kickstart, here's the article for you. If you worked previously with HTML your life will be easier, but if not it's alright. Writing manual pages for Linux is not that hard, despite the look of the pages when read in plain-text. So basically you'll need some Linux knowledge and the ability to use a text editor. You will learn (with examples, of course) the main concepts in text formatting as applied to man pages and how to write a simple manual page. Since we used yest as an example for our [C development tutorial](http://how-to.linuxcareer.com/c-development-on-linux-introduction), we will use snippets from its manual page to illustrate our point during this article. (...)
+It's a very common fact that nobody likes to write documentation. Heck, nobody likes to read it either. But there are times when we have to read it in order to, say, finish the project on time, or, especially when working in software development, even write it. If you only have to read it, we always encouraged you to do so, but if you'll have to write the manual pages and need a kickstart, here's the article for you. If you worked previously with HTML your life will be easier, but if not it's alright. Writing manual pages for Linux is not that hard, despite the look of the pages when read in plain-text. So basically you'll need some Linux knowledge and the ability to use a text editor. You will learn (with examples, of course) the main concepts in text formatting as applied to man pages and how to write a simple manual page. Since we used yest as an example for our [C development tutorial](//how-to.linuxcareer.com/c-development-on-linux-introduction), we will use snippets from its manual page to illustrate our point during this article. (...)
 
 ”
 
 “
 
 
-        [net.tutsplus.com/Jeffrey Way: Quick Tip: How to Work with GitHub and Multiple Accounts](http://net.tutsplus.com/tutorials/tools-and-tips/how-to-work-with-github-and-multiple-accounts/)
+        [net.tutsplus.com/Jeffrey Way: Quick Tip: How to Work with GitHub and Multiple Accounts](//net.tutsplus.com/tutorials/tools-and-tips/how-to-work-with-github-and-multiple-accounts/)
       
 
-So you have a personal [GitHub](http://github.com/) account; everything is working perfectly. But then, you get a new job, and now need to have the ability to push and pull to multiple accounts. How do you do that? I’ll show you how! (...)
+So you have a personal [GitHub](//github.com/) account; everything is working perfectly. But then, you get a new job, and now need to have the ability to push and pull to multiple accounts. How do you do that? I’ll show you how! (...)
 
 ”
 
@@ -758,56 +758,56 @@ So you have a personal [GitHub](http://github.com/) account; everything is worki
 “
 
 
-        [Linuxaria: Protect your server with SSHGuard](http://linuxaria.com/recensioni/protect-your-server-with-sshguard?lang=en)
+        [Linuxaria: Protect your server with SSHGuard](//linuxaria.com/recensioni/protect-your-server-with-sshguard?lang=en)
       
 
-I’ve already talked about [fail2ban](http://linuxaria.com/howto/fail2ban-brute-force-attacks) and [logcheck](http://linuxaria.com/pills/logcheck-scan-your-logs-and-warns-you), 2 tools that can scan your logs and do actions, based on rules that you can give/modify, usually modify your [iptables](http://linuxaria.com/tag/iptables) rules to stop active attacks against your server or simply send you a warning if some thing is found in the logs.
+I’ve already talked about [fail2ban](//linuxaria.com/howto/fail2ban-brute-force-attacks) and [logcheck](//linuxaria.com/pills/logcheck-scan-your-logs-and-warns-you), 2 tools that can scan your logs and do actions, based on rules that you can give/modify, usually modify your [iptables](//linuxaria.com/tag/iptables) rules to stop active attacks against your server or simply send you a warning if some thing is found in the logs.
 
-Today we’ll see a similar tool, [sshguard](http://www.sshguard.net/), it is different from the other two in that it is written in C, so it’s uses less memory and CPU while running, but still achiving the same results. (...)
+Today we’ll see a similar tool, [sshguard](//www.sshguard.net/), it is different from the other two in that it is written in C, so it’s uses less memory and CPU while running, but still achiving the same results. (...)
 
 ”
 
 “
 
 
-        [IBM developerWorks/Roderick W. Smith: Learn Linux, 302 (Mixed environments): NetBIOS and WINS](http://www.ibm.com/developerworks/linux/library/l-lpic3-314-2/index.html)
+        [IBM developerWorks/Roderick W. Smith: Learn Linux, 302 (Mixed environments): NetBIOS and WINS](//www.ibm.com/developerworks/linux/library/l-lpic3-314-2/index.html)
       
 
 Naming is unusual in SMB/CIFS networks. Although modern clients can use Internet domain names to refer to each other, older clients relied on a Microsoft-specific system known as the Windows Internet Name Service (WINS) server, or the NetBIOS Name Server (NBNS); the two terms are synonymous. Configuring Samba properly for name resolution is therefore important. So is configuring browsing, which is the mechanism by which servers learn what shares are available on specific servers. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 “
 
 [Holger Hetterich: Teradata Partners Conference / Novell Brainshare / SMB Traffic Analyzer /
-        Development status](http://holger123.wordpress.com/2011/10/30/teradata-partners-conference-novell-brainshare-smb-traffic-analyzer-development-status/)
+        Development status](//holger123.wordpress.com/2011/10/30/teradata-partners-conference-novell-brainshare-smb-traffic-analyzer-development-status/)
 
-Well last weeks have been pretty busy. With a 10 hours flight, we arrived at [San Francisco](http://en.wikipedia.org/wiki/San_Francisco) to get to [San Diego](http://en.wikipedia.org/wiki/San_Diego) to visit the [Teradata Partners conference](http://www.teradata-partners.com/Conference), an
+Well last weeks have been pretty busy. With a 10 hours flight, we arrived at [San Francisco](//en.wikipedia.org/wiki/San_Francisco) to get to [San Diego](//en.wikipedia.org/wiki/San_Diego) to visit the [Teradata Partners conference](//www.teradata-partners.com/Conference), an
       excellent event that included good discussions and lots of acceptance and recognition for
-        [SUSE Linux](http://www.suse.com). I liked the way talks have been
+        [SUSE Linux](//www.suse.com). I liked the way talks have been
       organized, or to say it in other words it was a matter of downloading an Android app to always
       have the overview.
 
 We served the SUSE booth at the conference, got involved into lots of discussions about
-      the OS, and I was even happier in the moments when people asked questions on [openSUSE](http://www.opensuse.org) – **this is showing clearly that the project is well known!
+      the OS, and I was even happier in the moments when people asked questions on [openSUSE](//www.opensuse.org) – **this is showing clearly that the project is well known!
       **To leave some words on San Diego is very simple:[ Gaslamp
-        Quarter](http://en.wikipedia.org/wiki/Gaslamp_Quarter,_San_Diego,_California), I’ll be back**, **and have a few more beers
-        at[ Rock Bottom!](http://www.rockbottom.com/)
+        Quarter](//en.wikipedia.org/wiki/Gaslamp_Quarter,_San_Diego,_California), I’ll be back**, **and have a few more beers
+        at[ Rock Bottom!](//www.rockbottom.com/)
 
 ”
 
 “
 
 [Nelson
-        Marques: ATI/AMD Catalyst 11.10 still broken…](http://www.marques.so/2011/11/atiamd-catalyst-11-10-still-broken/)
+        Marques: ATI/AMD Catalyst 11.10 still broken…](//www.marques.so/2011/11/atiamd-catalyst-11-10-still-broken/)
 
-[AMD](http://ati.cchtml.com/show_bug.cgi?id=99) has released [Catalyst
-        11.10](http://support.amd.com/us/gpudownload/linux/Pages/radeon_linux.aspx) driver for Linux! For quite some time that a large group of users from the
-      community follow Catalyst releases hopping that some [problematic issues are fixed](http://ati.cchtml.com/show_bug.cgi?id=99),
-      unfortunatly [GNOME3](http://www.gnome3.org), the latest Desktop experience
-      from the [GNOME Project](http://www.gnome.org), continues to display serious
+[AMD](//ati.cchtml.com/show_bug.cgi?id=99) has released [Catalyst
+        11.10](//support.amd.com/us/gpudownload/linux/Pages/radeon_linux.aspx) driver for Linux! For quite some time that a large group of users from the
+      community follow Catalyst releases hopping that some [problematic issues are fixed](//ati.cchtml.com/show_bug.cgi?id=99),
+      unfortunatly [GNOME3](//www.gnome3.org), the latest Desktop experience
+      from the [GNOME Project](//www.gnome.org), continues to display serious
       glitches when using this proprietary driver blob.
 
 For GNOME3 users, this driver isn’t recommended at all, and people should stick with the
@@ -815,17 +815,17 @@ For GNOME3 users, this driver isn’t recommended at all, and people should stic
       and r600 chipsets (and improving every day).
 
 The previous release, 11.9 has fixed one of the issues with GNOME3 (the rainbow activity
-      bar), but showed regressions in many other fields, including on [KDE](http://www.kde.org) (including also on Windows). All ATI/AMD users live to
+      bar), but showed regressions in many other fields, including on [KDE](//www.kde.org) (including also on Windows). All ATI/AMD users live to
       see better days in the future!
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums. We congratulate the openSUSE Weekly News on it's 200th Edtition !!!!▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums. We congratulate the openSUSE Weekly News on it's 200th Edtition !!!!▲▼
 
 “
 
 
-      [Forums: Pre-release - Beta](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/)
+      [Forums: Pre-release - Beta](//forums.opensuse.org/english/get-technical-help-here/pre-release-beta/)
     
 
 
@@ -837,7 +837,7 @@ The previous release, 11.9 has fixed one of the issues with GNOME3 (the rainbow 
 “
 
 
-    [Do you think the App centre Ubuntu has is a thing that openSUSE should have too](http://forums.opensuse.org/english/other-forums/community-fun/surveys-polls/466896-what-you-think-about-software-app-center-ubuntu-has.html)
+    [Do you think the App centre Ubuntu has is a thing that openSUSE should have too](//forums.opensuse.org/english/other-forums/community-fun/surveys-polls/466896-what-you-think-about-software-app-center-ubuntu-has.html)
     
 
 
@@ -849,11 +849,11 @@ The previous release, 11.9 has fixed one of the issues with GNOME3 (the rainbow 
 “
 
 
-    [Chromium-16 package appears to be broken](http://forums.opensuse.org/english/get-technical-help-here/applications/467272-chromium-16-package-appears-broken.html?highlight=chromium)
+    [Chromium-16 package appears to be broken](//forums.opensuse.org/english/get-technical-help-here/applications/467272-chromium-16-package-appears-broken.html?highlight=chromium)
     
 
 
-      Another rerun of a subject. A user reports a broken Chromium install. I'm selecting this thread because the start of the thread is an excellent example of a well documented post. The user copied and pasted relevant output in his initial post, which makes giving support/helping out easy. For those experiencing instabilities in Chromium: the packages you should have are no longer provided through the Contrib repos, they're now in the "network:" repos: http://download.opensuse.org/repositories/network:/chromium/ . Open the URL in a browser, then click the link for your openSUSE version, then copy and paste the URL and add it as a repo.
+      Another rerun of a subject. A user reports a broken Chromium install. I'm selecting this thread because the start of the thread is an excellent example of a well documented post. The user copied and pasted relevant output in his initial post, which makes giving support/helping out easy. For those experiencing instabilities in Chromium: the packages you should have are no longer provided through the Contrib repos, they're now in the "network:" repos: //download.opensuse.org/repositories/network:/chromium/ . Open the URL in a browser, then click the link for your openSUSE version, then copy and paste the URL and add it as a repo.
       
 
 ”
@@ -865,57 +865,57 @@ The previous release, 11.9 has fixed one of the issues with GNOME3 (the rainbow 
     
 
 We now host the following language specific subforums under the umbrella of the openSUSE Forums:
-	[Main forums, english](http://forums.opensuse.org/english/)
-	[中文(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
-	[Nederlands (Dutch)](http://forums.opensuse.org/nederlands-dutch/)
-	[Français (French)](http://forums.opensuse.org/frana-ais-french/)
-	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
-	[Ελληνικό (Greek)](http://forums.opensuse.org/greek/)
-	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[日本語 (Japanese)](http://forums.opensuse.org/japanese/)
-	[Portuguese](http://forums.opensuse.org/portuguese/)
-	[Pусский (Russian)](http://forums.opensuse.org/p-russian/)
+	[Main forums, english](//forums.opensuse.org/english/)
+	[中文(Chinese)](//forums.opensuse.org/ae-ae-chinese/)
+	[Nederlands (Dutch)](//forums.opensuse.org/nederlands-dutch/)
+	[Français (French)](//forums.opensuse.org/frana-ais-french/)
+	[Deutsch (German)](//forums.opensuse.org/deutsch-german/)
+	[Ελληνικό (Greek)](//forums.opensuse.org/greek/)
+	[Magyar (Hungarian)](//forums.opensuse.org/magyar-hungarian/)
+	[日本語 (Japanese)](//forums.opensuse.org/japanese/)
+	[Portuguese](//forums.opensuse.org/portuguese/)
+	[Pусский (Russian)](//forums.opensuse.org/p-russian/)
       
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Reports
 
 “
 
 
-        [ZDNet/Steven J. Vaughan-Nichols: Linux Foundation proposes to use UEFI to make PCs secure and free](http://www.zdnet.com/blog/open-source/linux-foundation-proposes-to-use-uefi-to-make-pcs-secure-and-free/9827)
+        [ZDNet/Steven J. Vaughan-Nichols: Linux Foundation proposes to use UEFI to make PCs secure and free](//www.zdnet.com/blog/open-source/linux-foundation-proposes-to-use-uefi-to-make-pcs-secure-and-free/9827)
       
 
-Microsoft’s proposed use of [Unfied Extensible Firmware Interface (UEFI)](http://www.uefi.org/home/) in Windows 8 could be used to [block all other operating systems from Windows 8 systems](http://www.zdnet.com/blog/open-source/microsoft-to-stop-linux-older-windows-from-running-on-windows-8-pcs/9589). [The Linux Foundation](http://www.linuxfoundation.org/) and partners have a better idea: Secure computers with UEFI and give users freedom of operating system choice.
+Microsoft’s proposed use of [Unfied Extensible Firmware Interface (UEFI)](//www.uefi.org/home/) in Windows 8 could be used to [block all other operating systems from Windows 8 systems](//www.zdnet.com/blog/open-source/microsoft-to-stop-linux-older-windows-from-running-on-windows-8-pcs/9589). [The Linux Foundation](//www.linuxfoundation.org/) and partners have a better idea: Secure computers with UEFI and give users freedom of operating system choice.
 
-In the Linux Foundation document, [Making UEFI Secure Boot Work With Open Platforms](http://www.linuxfoundation.org/publications/making-uefi-secure-boot-work-with-open-platforms) (PDF Link), James Bottomley, CTO of Server Virtualization at [Parallels](http://www.parallels.com/) and Linux Foundation Technical Advisory Board Chair Jonathan Corbet, Editor at [LWN.net](http://lwn.net/) and fellow Linux Foundation Technical Advisory Board Member, after consulting with other Linux leaders, explain how “Linux and other open operating systems will be able to take advantage of secure boot if it is implemented properly in the hardware.” (...)
+In the Linux Foundation document, [Making UEFI Secure Boot Work With Open Platforms](//www.linuxfoundation.org/publications/making-uefi-secure-boot-work-with-open-platforms) (PDF Link), James Bottomley, CTO of Server Virtualization at [Parallels](//www.parallels.com/) and Linux Foundation Technical Advisory Board Chair Jonathan Corbet, Editor at [LWN.net](//lwn.net/) and fellow Linux Foundation Technical Advisory Board Member, after consulting with other Linux leaders, explain how “Linux and other open operating systems will be able to take advantage of secure boot if it is implemented properly in the hardware.” (...)
 
 ”
 
 “
 
 
-        [h-online/Chris von Eitzen: Ruby 1.9.3 arrives with licence change](http://www.h-online.com/open/news/item/Ruby-1-9-3-arrives-with-licence-change-1368959.html)
+        [h-online/Chris von Eitzen: Ruby 1.9.3 arrives with licence change](//www.h-online.com/open/news/item/Ruby-1-9-3-arrives-with-licence-change-1368959.html)
       
 
-The [Ruby](http://www.ruby-lang.org/en/) development team [announced](http://www.ruby-lang.org/en/news/2011/10/31/ruby-1-9-3-p0-is-released/) the release of version 1.9.3 of its open source programming language. [Described as](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40527) basically being "an implementation-improved version of Ruby 1.9.2", the first release of the new stable series of Ruby improves library loading performance and brings changes to the Ruby licence.
+The [Ruby](//www.ruby-lang.org/en/) development team [announced](//www.ruby-lang.org/en/news/2011/10/31/ruby-1-9-3-p0-is-released/) the release of version 1.9.3 of its open source programming language. [Described as](//blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40527) basically being "an implementation-improved version of Ruby 1.9.2", the first release of the new stable series of Ruby improves library loading performance and brings changes to the Ruby licence.
 
-Ruby 1.9.3 p0 source code is made available under a 2-clause BSD Licence and the[ Ruby Licence](http://www.ruby-lang.org/en/LICENSE.txt); previous versions of Ruby were released under the GPLv2 and Ruby Licence. Other changes include improved locking in multi-threaded programs, regular expression support for Unicode 6.0 and a new library io/console for simple portable access to the console. Also among the modifications are changes to Random.rand and extra String methods such as prepend and byteslice, though generally, the developers say you should be able to safely switch to Ruby 1.93 from 1.9.2. (...)
+Ruby 1.9.3 p0 source code is made available under a 2-clause BSD Licence and the[ Ruby Licence](//www.ruby-lang.org/en/LICENSE.txt); previous versions of Ruby were released under the GPLv2 and Ruby Licence. Other changes include improved locking in multi-threaded programs, regular expression support for Unicode 6.0 and a new library io/console for simple portable access to the console. Also among the modifications are changes to Random.rand and extra String methods such as prepend and byteslice, though generally, the developers say you should be able to safely switch to Ruby 1.93 from 1.9.2. (...)
 
 ”
 
 “
 
 
-        [ZDNet/Steven J. Vaughan-Nichols: Microsoft contributes open-source code to Samba](http://www.zdnet.com/blog/open-source/microsoft-contributes-open-source-code-to-samba/9860)
+        [ZDNet/Steven J. Vaughan-Nichols: Microsoft contributes open-source code to Samba](//www.zdnet.com/blog/open-source/microsoft-contributes-open-source-code-to-samba/9860)
       
 
-Freak snowstorm reported in hell. Tea party agrees Obama is the best candidate for 2012 presidential election. Microsoft submits open-source code under the GPLv3 to Samba. Those are all pretty unlikely, but [Microsoft really did submit code to the Samba](http://samba.org/samba/news/developers/ms-patch.html) file server open-source project.
+Freak snowstorm reported in hell. Tea party agrees Obama is the best candidate for 2012 presidential election. Microsoft submits open-source code under the GPLv3 to Samba. Those are all pretty unlikely, but [Microsoft really did submit code to the Samba](//samba.org/samba/news/developers/ms-patch.html) file server open-source project.
 
-This might not strike you as too amazing. After all, Microsoft has supported some open-source projects at [CodePlex](http://www.codeplex.com/) for some time now and they will work with some other projects such as the [Python](http://www.zdnet.com/blog/microsoft/microsoft-rolls-out-open-source-python-extension-for-visual-studio/10478) and [PHP](http://www.zdnet.com/blog/open-source/microsoft-makes-pledges-to-support-apache-php-ruby/2704) languages and the [Drupal content management system (CMS)](http://www.microsoft.com/en-us/openness/story/plays-well-with-others/microsoft-plus-drupal.aspx). But, Samba, Samba is different. They’re an old Microsoft enemy. (...)
+This might not strike you as too amazing. After all, Microsoft has supported some open-source projects at [CodePlex](//www.codeplex.com/) for some time now and they will work with some other projects such as the [Python](//www.zdnet.com/blog/microsoft/microsoft-rolls-out-open-source-python-extension-for-visual-studio/10478) and [PHP](//www.zdnet.com/blog/open-source/microsoft-makes-pledges-to-support-apache-php-ruby/2704) languages and the [Drupal content management system (CMS)](//www.microsoft.com/en-us/openness/story/plays-well-with-others/microsoft-plus-drupal.aspx). But, Samba, Samba is different. They’re an old Microsoft enemy. (...)
 
 ”
 
@@ -924,7 +924,7 @@ This might not strike you as too amazing. After all, Microsoft has supported som
 “
 
 
-        [Jun Auza: How to Convince Your Friends to Use Linux Without Being a Jerk](http://www.junauza.com/2011/10/how-to-convince-your-friends-into-using.html)
+        [Jun Auza: How to Convince Your Friends to Use Linux Without Being a Jerk](//www.junauza.com/2011/10/how-to-convince-your-friends-into-using.html)
       
 
 Linux is one of the most secure and stable operating systems around, and yet, its user base hasn’t really grown as everyone expected it to. There are many reasons for this, and we won’t go into those right now. However, if you, like any other Linux user, are disappointed by the current market share stats, we can tell you some simple tips that will help you convince your Windows or Mac-crazy friends into using Linux.
@@ -933,72 +933,72 @@ Now, many Linux users have already tried to coax their friends and family member
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//bit.ly/mpxLsD) and let us know! 
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
 If you don't know, how to **contribute**, just check out the
       [Contribution
-    Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+    Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-We have a [Etherpad](http://os-news.ietherpad.com/2), which you can also
+We have a [Etherpad](//os-news.ietherpad.com/2), which you can also
     use to sumbit news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-    community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our **connect.opensuse.org** Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
-                Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+                Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [iJoomla](http://www.ijoomla.com), Surveys
+  * [iJoomla](//www.ijoomla.com), Surveys
 
-  * [open-slx GmbH](http://www.open-slx.com/en), Sponsoring
+  * [open-slx GmbH](//www.open-slx.com/en), Sponsoring
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
-  * [Permission Information for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Information for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 ### Trademarks
 
@@ -1007,22 +1007,22 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 200 is available in: 
 
-  * [English](http://news.opensuse.org/?p=11487)
+  * [English](//news.opensuse.org/?p=11487)
 
 Coming soon: 
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/200)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/200)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
-  * [Russian](http://www.xboct.org)
+  * [Russian](//www.xboct.org)
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)

@@ -37,7 +37,7 @@ Note that much of the competition, both Free and Proprietary, still has not full
 
 Instead of building a single interface, it was decided to build a framework for building user interfaces: Plasma. On top of this framework, the team would develop a traditional desktop workspace: Plasma Desktop. As an experiment, a phone workspace was written as well (Plasma Mobile) and later, Plasma Netbook was put together.
 
-While each of these offered vastly different interfaces to the user, they shared over 90% of the underlying functionality and a totally new user experience could be developed in a matter of weeks! In a [recent comment](http://vizzzion.org/blog/2013/10/reconstructing-plasma/comment-page-1/#comment-22312) on his own blog, Sebastian Kügler calls it:
+While each of these offered vastly different interfaces to the user, they shared over 90% of the underlying functionality and a totally new user experience could be developed in a matter of weeks! In a [recent comment](//vizzzion.org/blog/2013/10/reconstructing-plasma/comment-page-1/#comment-22312) on his own blog, Sebastian Kügler calls it:
 
 
 <blockquote>"_Specification, instead of dumbing down onto the lowest common denominator_"</blockquote>
@@ -47,13 +47,13 @@ While each of these offered vastly different interfaces to the user, they shared
 
 In Plasma, everything can be replaced. The pieces can transform, adapting to new interface paradigms. What is a thumb-sized button on a taskbar can turn into a full-fledged interactive widget when given a desktop to occupy. In the screenshot to the right you can see three distinct widgets: a menu, both on the panel and on the desktop; a weather widget twice on a panel, once on a small panel and a second time on a large panel; and finally a temperature widget on a panel and twice on the desktop, once big and once small.
 
-Scripting is a part of this as well. Window manager KWin offers interesting scripts which, for example, the [Sticky Window Snapping](http://opendesktop.org/content/show.php?content=157382). This will move windows which have snapped together, see the animation on the right. [Another script](http://opendesktop.org/content/show.php?content=154037) will make sure that whenever you click any of the GIMP windows, they all will come up to the front of the desktop--no more looking for that tools dialog.
+Scripting is a part of this as well. Window manager KWin offers interesting scripts which, for example, the [Sticky Window Snapping](//opendesktop.org/content/show.php?content=157382). This will move windows which have snapped together, see the animation on the right. [Another script](//opendesktop.org/content/show.php?content=154037) will make sure that whenever you click any of the GIMP windows, they all will come up to the front of the desktop--no more looking for that tools dialog.
 
 
 ### Design
 
 
-Unlike its most prominent competitors on Linux, KDE has a focus on users who spend large amounts of time computing. As it was [said by Ton](http://code.blender.org/index.php/2013/10/redefining-blender/), chairman of the Blender Foundation:
+Unlike its most prominent competitors on Linux, KDE has a focus on users who spend large amounts of time computing. As it was [said by Ton](//code.blender.org/index.php/2013/10/redefining-blender/), chairman of the Blender Foundation:
 
 
 <blockquote>_"If you choose to develop 3D tools to be easy to learn, you will make decisions to sacrifice speed and ease of use for frequent users. You will have to narrow down to a UI that’s optimal for generic (beginner) use cases more than for users who want to handle complexity and who have time for quality."_</blockquote>
@@ -71,7 +71,7 @@ So, Plasma was designed to allow for a wide range of user interaction patterns (
 ### Today: long term support
 
 
-The Plasma Desktop and Netbook workspaces, as released a few months ago by the KDE team, is a **long term support** version. This because while the KDE community is slowly changing its focus on the [next generation toolkit](http://dot.kde.org/2013/09/25/frameworks-5) for open source development, Qt 5, they are also dedicated to keeping users of their current platform supplied with a steady stream of bug fixes.
+The Plasma Desktop and Netbook workspaces, as released a few months ago by the KDE team, is a **long term support** version. This because while the KDE community is slowly changing its focus on the [next generation toolkit](//dot.kde.org/2013/09/25/frameworks-5) for open source development, Qt 5, they are also dedicated to keeping users of their current platform supplied with a steady stream of bug fixes.
 
 [caption id="attachment_17288" align="alignright" width="300"][![Kscreen](//news.opensuse.org/wp-content/uploads/2013/10/Kscreen.png)](//news.opensuse.org/wp-content/uploads/2013/10/Kscreen.png) Kscreen[/caption]
 

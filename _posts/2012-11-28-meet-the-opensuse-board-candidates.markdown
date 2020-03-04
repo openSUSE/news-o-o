@@ -21,28 +21,28 @@ The period for standing up for election to the 2013 openSUSE Board is now closed
 
 
 	
-  * Matt Barringer [(announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00102.html)
+  * Matt Barringer [(announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00102.html)
 
 	
-  * Richard Brown [(announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00042.html)
+  * Richard Brown [(announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00042.html)
 
 	
-  * Carl Fletcher [(announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00093.html)
+  * Carl Fletcher [(announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00093.html)
 
 	
-  * Manu Gupta[ (announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00106.html)
+  * Manu Gupta[ (announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00106.html)
 
 	
-  * Chuck Payne [(announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00103.html)
+  * Chuck Payne [(announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00103.html)
 
 	
-  * Robert Schweikert [(announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00100.html)
+  * Robert Schweikert [(announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00100.html)
 
 	
-  * Stefan Seyfried [(announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00101.html)
+  * Stefan Seyfried [(announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00101.html)
 
 	
-  * Raymond Woonick[ (announcement)](http://lists.opensuse.org/opensuse-project/2012-11/msg00047.html)
+  * Raymond Woonick[ (announcement)](//lists.opensuse.org/opensuse-project/2012-11/msg00047.html)
 
 
 What an exciting list of candidates, all extremely qualified to represent our community in the upcoming board.  With just two open seats to be filled to begin a two-year term,  Agustin Bethencourt, openSUSE Team Lead at SUSE,  recently noted: "Interesting times are ahead and, In any possible scenario we are thinking of, the Board will play a key role."
@@ -61,6 +61,6 @@ You can read the full set of timeline and [procedures here](https://en.opensuse.
 
 The Election Officials committee would like to extend good luck wishes to each and every candidate and look forward to the conclusion of this exciting campaign.
 
-_ With special thanks to [victorhck](http://victorhckinthefreeworld.wordpress.com/) for the creation of the art graphic on this page._
+_ With special thanks to [victorhck](//victorhckinthefreeworld.wordpress.com/) for the creation of the art graphic on this page._
 
 

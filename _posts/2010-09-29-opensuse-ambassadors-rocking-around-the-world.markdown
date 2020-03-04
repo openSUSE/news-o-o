@@ -15,11 +15,11 @@ tags:
 - People
 ---
 
-[![](/wp-content/uploads/2010/09/froscamp3.png)](http://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/froscamp3/)Last week our Ambassadors did what they do every week: promote openSUSE. They went to meetings, conferences and tradeshows for a talk or staffing  a booth. And they organized meetings, gave students lessons in using  openSUSE, handed out DVD's and valuable knowledge.
+[![](/wp-content/uploads/2010/09/froscamp3.png)](//news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/froscamp3/)Last week our Ambassadors did what they do every week: promote openSUSE. They went to meetings, conferences and tradeshows for a talk or staffing  a booth. And they organized meetings, gave students lessons in using  openSUSE, handed out DVD's and valuable knowledge.
 
 Many  visitors of this site have no idea how active our ambassadors really  are. The amount of work they do is amazing and they deserve a bit more  of a spotlight on what they do! Their reports are usually  highlighted in our weekly news, be sure to check their work out each week.
 
-Read on for a short selection of reports which came in over the last week by the openSUSE ambassadors. And note that we get reports like this almost every day! Some come in the form of text, others like this one by Bruno about attending FrOSCamp 2010 in Zürich are in the form of [a nice presentation](http://linux.ioda.net/openSUSE/frOSCamp-2010_Event_Report.pdf) (very much worth a look).
+Read on for a short selection of reports which came in over the last week by the openSUSE ambassadors. And note that we get reports like this almost every day! Some come in the form of text, others like this one by Bruno about attending FrOSCamp 2010 in Zürich are in the form of [a nice presentation](//linux.ioda.net/openSUSE/frOSCamp-2010_Event_Report.pdf) (very much worth a look).
 
 <!-- more -->
 
@@ -32,10 +32,10 @@ We were at Technograil - a national level technical symposium happening on the 1
 
 **Software Freedom Day 2010 in France**
 _by Jimmy Pierre_
-[![](/wp-content/uploads/2010/09/demo.jpg)](http://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/demo/)
+[![](/wp-content/uploads/2010/09/demo.jpg)](//news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/demo/)
 In the Rouen City Associations House a France Software Freedom Day was held. The France ambassadors used contacts at newspapers like Rouen Magazine, national radio (RGL and France Blue and the LUGS in Fance, forums, mailinglists and other venues to spread the word about Software Freedom Day. Here is the report.
 
-We were overwhelmed  by the visitors. We distributed 211 openSUSE 11.3  DVDs to the casual visitors and a few SUSE 11 SP1 to people from the Ministry  of Education. We started sfd with demonstration of CMS, we showed fresh installation  and tweaking of software from [opensourcecms.com](http://opensourcecms.com) This took a couple of hours because the process was challenging and over a wireless link  sometimes failing at 2mb.
+We were overwhelmed  by the visitors. We distributed 211 openSUSE 11.3  DVDs to the casual visitors and a few SUSE 11 SP1 to people from the Ministry  of Education. We started sfd with demonstration of CMS, we showed fresh installation  and tweaking of software from [opensourcecms.com](//opensourcecms.com) This took a couple of hours because the process was challenging and over a wireless link  sometimes failing at 2mb.
 
 After the Coffee break we demonstrated FOSS games. The audience was quite interested to hear that you could use Linux to work but also to play games  and that some of those games are "clones" of Windows games. We gave some advice on using Wine, but demonstrated that installation of openSUSE 11.3 alongside with Windows would be their best bet. We showed how to install openSUSE 11.3 on a particular laptop. There were a few challenges. Some  people deeply anchored into Ubuntu and Debian were a bit cold on doing the big move! One guy even came with his laptop loaded with CentOS not to nag us  but to ask advice on wireless. I showed him how easy we were connected with 5 brands of laptops (Asus, HP, Packard bell, Compaq) with wireless. He will give openSUSE a try!
 
@@ -43,7 +43,7 @@ We had our usual visitors and fans and in particular someone from the local Ches
 
 Wikimedia France was there and gave a lecture on wikis, that was interesting, I did learn a few things as well. We showed the wiki of softwarefreedomday.org and we were the *only* LUG in France doing something. We finished the day with practical labs on openSSH, mRemote, Xen, blogs (mainly WP), CSS.  Each visitor was given a pen to write our email down and then they could keep it! What a pity, no pens left, not even for me!
 
-We ran out of battery for our camera so [here]( http://www.nui.fr/linpha/viewer.php?albid=14&stage=1) are the pics we secured. We are now getting ready for the next action on 16th October, 2010.
+We ran out of battery for our camera so [here]( //www.nui.fr/linpha/viewer.php?albid=14&stage=1) are the pics we secured. We are now getting ready for the next action on 16th October, 2010.
 
 **USA Linux Fests**
 _By Chuck Payne_
@@ -64,15 +64,15 @@ Chuck send in a report about the events attended over the last year by some of t
 
 **Atlanta Linux Fest**
 
-For ALF, I took 400 DVD (openSUSE 11.1) and about 100 Linux Format Magazines with DVD (openSUSE 11.0). I gave out all the magazines and 350 DVDs and gave the rest out later at the local linux group. We had T-Shirts, Tuxs, and Geekos. I manned the table for the most part by myself, James Taylor helped me out when I gave my talk about openSUSE Community. I made a CD Rom that I handed out. Find some slides here: [here](http://www.magidesign.com/download/alf.odp )
+For ALF, I took 400 DVD (openSUSE 11.1) and about 100 Linux Format Magazines with DVD (openSUSE 11.0). I gave out all the magazines and 350 DVDs and gave the rest out later at the local linux group. We had T-Shirts, Tuxs, and Geekos. I manned the table for the most part by myself, James Taylor helped me out when I gave my talk about openSUSE Community. I made a CD Rom that I handed out. Find some slides here: [here](//www.magidesign.com/download/alf.odp )
 
 I am happy to say that the Atlanta Linux Fest was a great hit. They were planning for only 500 people, but ended up with a turn out of 600+. I am happy to say that the stuff that Zonker sent was all passed out and we still had people wanting more. We answered all the questions they had.
 
 The talk that I gave on the openSUSE Community went well, a lot people were surprise at all the stuff we have to offer (Build Service, SUSE Studio, Factory, and openSUSE Li-f-e). The SUSE Studio seems to really impress a lot of people. Tons of questions, tons of comments from people says they use openSUSE, or that they will give it a try. The magazine from LinuxPro with the Live Disc was a hit. By the way, one thing that amazed me was meeting a guy from Turkey who had been using openSUSE and was surprises to see us at this Fest.
 
-The Fedora Ambassador were there and were impressed with us - and even wanted to help us out.  They introduced me to Dave Yates of [Lotta Linux Links Podcast](http://lottalinuxlinks.com/blog), who wanted to talked to me about the Ambassador program. Also a few people that were from other parts of the country asking me how to become Ambasssador because they too want to go out spread the word on openSUSE.
+The Fedora Ambassador were there and were impressed with us - and even wanted to help us out.  They introduced me to Dave Yates of [Lotta Linux Links Podcast](//lottalinuxlinks.com/blog), who wanted to talked to me about the Ambassador program. Also a few people that were from other parts of the country asking me how to become Ambasssador because they too want to go out spread the word on openSUSE.
 
-I met Katina Ferguson and husband from from [Foss threads](http://www.fossthreads.com/), everyone needs to check them out. Their business makes T-Shirts for the open source community. What really impressed me about them was they use openSUSE, inkscape, and GIMP to create their shirts. So it was a great fest!
+I met Katina Ferguson and husband from from [Foss threads](//www.fossthreads.com/), everyone needs to check them out. Their business makes T-Shirts for the open source community. What really impressed me about them was they use openSUSE, inkscape, and GIMP to create their shirts. So it was a great fest!
 
 **Texas Linux Fest**
 
@@ -117,7 +117,7 @@ I am surely planning to help out next with Southeast Linux!
 
 **openSUSE  team at the 75th International Trade Fair**
 _by Kostas Koudaras_
-[![](/wp-content/uploads/2010/09/kostas.jpg)](http://news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/kostas/)
+[![](/wp-content/uploads/2010/09/kostas.jpg)](//news.opensuse.org/2010/09/29/opensuse-ambassadors-rocking-around-the-world/kostas/)
 The openSUSE ambassadors team in association with GreekLUG and the Scouts Organization in Thessaloniki,  participated from 11th until 19th of September 2010, at the 75th International Trade Fair in Thessaloniki. We were at the thematic section called Kids  & Fun at the building no16.
 
 The main idea there was to  organize some games for the kids. Unfortunately we didn't have the  equipment to install couple of games (like Super Tux). So we had a small  corner and we were informing the kids and parents about FOSS and what  are the positives of using it. We used our laptops to show a small demo. Efstathios  Iosifidis provided PromoDVDs, stickers and also a brochure with Greek Help. We gave away around 500 DVDs, some 100 stickers and many brochures.
@@ -130,4 +130,4 @@ _Many thanks to Isaac Amaru Zelaya Orellana for the writing on this!_
 ## Help out!
 
 
-If you want to join these efforts, make a difference and have fun doing it, head to the [Ambassadors Portal](http://en.opensuse.org/Portal:Ambassadors). Be sure to read the FAQ to find some suggestions on what to do!
+If you want to join these efforts, make a difference and have fun doing it, head to the [Ambassadors Portal](//en.opensuse.org/Portal:Ambassadors). Be sure to read the FAQ to find some suggestions on what to do!

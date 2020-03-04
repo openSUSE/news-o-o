@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-![Logo_heinlein-professional-linux-support](/wp-content/uploads/2012/03/Logo_heinlein-professional-linux-support.png)The openSUSE community is proud to welcome [Heinlein Support](http://heinlein-support.de/) as new sponsor to the project! Heinlein is a Linux specialist offering training, consulting and hosting focused on the German market and will help us with our mail infrastructure.<!-- more -->
+![Logo_heinlein-professional-linux-support](/wp-content/uploads/2012/03/Logo_heinlein-professional-linux-support.png)The openSUSE community is proud to welcome [Heinlein Support](//heinlein-support.de/) as new sponsor to the project! Heinlein is a Linux specialist offering training, consulting and hosting focused on the German market and will help us with our mail infrastructure.<!-- more -->
 
 
 ## Introducing Heinlein
@@ -31,7 +31,7 @@ Peer Heinlein said:
 ## Supporting openSUSE
 
 
-We are happy to announce that [Heinlein Support](http://heinlein-support.de/) is sponsoring the openSUSE project by providing infrastructure to run the project.
+We are happy to announce that [Heinlein Support](//heinlein-support.de/) is sponsoring the openSUSE project by providing infrastructure to run the project.
 
 Henne Vogelsang told us:
 

@@ -50,7 +50,7 @@ Today's People of openSUSE features a female YaST developer and the maintainer o
 <td >**Homepage: **
 </td>
 
-<td >[http://www.bubli.org](http://www.bubli.org) (desperately outdated)
+<td >[//www.bubli.org](//www.bubli.org) (desperately outdated)
 </td>
 
 <td >
@@ -299,7 +299,7 @@ Vim. Mainly because back in 90's, when I got started with Linux (Unix), my evil 
 #### Which famous person would you want to join the openSUSE community?
 
 
-[Any of these great girls and women](http://crave.cnet.co.uk/0,39029477,49285435,00.htm) :-)
+[Any of these great girls and women](//crave.cnet.co.uk/0,39029477,49285435,00.htm) :-)
 
 In general, I would like to see more women involved in openSUSE community as I believe we could all benefit from their (different) point of view.
 

@@ -15,9 +15,9 @@ categories:
 - Project
 ---
 
-[![ChameleonBustPosterDraft](//news.opensuse.org/wp-content/uploads/2013/01/ChameleonBust_white.png)](http://conference.opensuse.org)
+[![ChameleonBustPosterDraft](//news.opensuse.org/wp-content/uploads/2013/01/ChameleonBust_white.png)](//conference.opensuse.org)
 
-Today the openSUSE Travel Support Team opened [the Travel Support Request Submission tool](https://connect.opensuse.org/travel-support/) for requests related to the [openSUSE Conference 2013 in Thessaloniki](http://conference.opensuse.org). The goal is to help **everybody in and around openSUSE** to be able to come to the openSUSE Conference! You don't have to be one of the top 10 packagers to apply - if you're translating, building a local community or helping out at the forums, we might still be able to offer you support, so apply!
+Today the openSUSE Travel Support Team opened [the Travel Support Request Submission tool](https://connect.opensuse.org/travel-support/) for requests related to the [openSUSE Conference 2013 in Thessaloniki](//conference.opensuse.org). The goal is to help **everybody in and around openSUSE** to be able to come to the openSUSE Conference! You don't have to be one of the top 10 packagers to apply - if you're translating, building a local community or helping out at the forums, we might still be able to offer you support, so apply!
 
 
 ## When and how
@@ -35,7 +35,7 @@ You will need an [openSUSE Connect account](https://connect.opensuse.org) in ord
 
 
 	
-  * Please, read [the Travel Support wiki page](http://opensuse.org/openSUSE:Travel_Support_Program) carefully before you apply.
+  * Please, read [the Travel Support wiki page](//opensuse.org/openSUSE:Travel_Support_Program) carefully before you apply.
 
 	
   * We want everybody to be there! Even if you think you would not qualify for travel support, **just submit a request!** If you don't ask we can't help you!

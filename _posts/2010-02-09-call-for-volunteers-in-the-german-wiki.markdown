@@ -16,7 +16,7 @@ tags:
 some of you have noticed, that we're making a Cleanupsession in the German Wiki. Old Articles are to be deleted, other just to updated.
 Now we have created a new QA-Set with declarations of Styles, Formatting and Templates.
 All of this means many things to do. So we're making an Call for Volunteers.
-This Guys who would like to read the new QAs, could read the there: [http://de.opensuse.org/Benutzer_Diskussion:Saigkill](http://de.opensuse.org/Benutzer_Diskussion:Saigkill).
+This Guys who would like to read the new QAs, could read the there: [//de.opensuse.org/Benutzer_Diskussion:Saigkill](//de.opensuse.org/Benutzer_Diskussion:Saigkill).
 Also a new thing is our new Sublist for Wiki Communication. You can subscribe this List with: [mailto:opensuse-wiki-de+subscribe@opensuse.org](mailto:opensuse-wiki-de+subscribe@opensuse.org).
 
 All who wants to participate our Project can post it in this List. On this place we held upcoming coordinations.

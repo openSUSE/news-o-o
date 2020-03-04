@@ -127,26 +127,26 @@ Now in which namespace do they belong? The main namespace because weekly news ar
 
 1. The latest issue is in the main namespace so the consumer that comes by can find and read it.
 
-[wiki.opensuse.org/Weekly_news](http://wiki.opensuse.org/Weekly_news)
+[wiki.opensuse.org/Weekly_news](//wiki.opensuse.org/Weekly_news)
 
 2. The old issues that are not really important anymore, but that we want to keep, are in the Archive: namespace
 
-[wiki.opensuse.org/Archive:Weekly_news_130](http://wiki.opensuse.org/Archive:Weekly_news_130)
+[wiki.opensuse.org/Archive:Weekly_news_130](//wiki.opensuse.org/Archive:Weekly_news_130)
 
 The next issue where the team works collaboratively on, the documentation how to do it and the page about who/what/where the team is are are in the project's namespace openSUSE:
 
-[wiki.opensuse.org/openSUSE:Weekly_news](http://wiki.opensuse.org/openSUSE:Weekly_news)
-[ wiki.opensuse.org/openSUSE:Weekly_news_guidelines](http://wiki.opensuse.org/openSUSE:Weekly_news_guidelines)
-[ wiki.opensuse.org/openSUSE:Weekly_news_translations](http://wiki.opensuse.org/openSUSE:Weekly_news_translations)
-[ wiki.opensuse.org/openSUSE:Weekly_news_team](http://wiki.opensuse.org/openSUSE:Weekly_news_team)
+[wiki.opensuse.org/openSUSE:Weekly_news](//wiki.opensuse.org/openSUSE:Weekly_news)
+[ wiki.opensuse.org/openSUSE:Weekly_news_guidelines](//wiki.opensuse.org/openSUSE:Weekly_news_guidelines)
+[ wiki.opensuse.org/openSUSE:Weekly_news_translations](//wiki.opensuse.org/openSUSE:Weekly_news_translations)
+[ wiki.opensuse.org/openSUSE:Weekly_news_team](//wiki.opensuse.org/openSUSE:Weekly_news_team)
 
 And the page template that is used for the issues is in the Template: namespace.
 
-[wiki.opensuse.org/Template:Weekly_news_full](http://wiki.opensuse.org/Template:Weekly_news)
+[wiki.opensuse.org/Template:Weekly_news_full](//wiki.opensuse.org/Template:Weekly_news)
 
 Now that makes 7 pages in 4 namespaces. Pretty confusing right? How can we connect them all together? We simply add another page that gives an overview about the whole_ Weekly News_ project. A Portal. The Portal introduces to the topic and has links to all pages belonging to the project.
 
-[wiki.opensuse.org/Portal:Weekly_news](http://wiki.opensuse.org/Portal:Weekly_news)
+[wiki.opensuse.org/Portal:Weekly_news](//wiki.opensuse.org/Portal:Weekly_news)
 
 Now as you can see the consumers will always find the latest issue in the main namespace. Nobody will be bothered with the old stuff or the stuff that is in flux. And if you want to learn more or participate in the _Weekly News_ I just have to point you to Portal:Weekly news.
 

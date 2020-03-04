@@ -57,7 +57,7 @@ Join our Kubic Project and together we will build the next generation of Contain
 Useful information:
 
  	
-  * You can download the latest openSUSE Kubic build from here: [http://download.opensuse.org/tumbleweed/iso/](http://download.opensuse.org/tumbleweed/iso/)
+  * You can download the latest openSUSE Kubic build from here: [//download.opensuse.org/tumbleweed/iso/](//download.opensuse.org/tumbleweed/iso/)
 
 
 (This blog is written by Simona Arsene and was originally published at [https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/))

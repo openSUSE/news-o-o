@@ -22,9 +22,9 @@ tags:
 - teachers
 ---
 
-![](https://en.opensuse.org/images/6/65/Edu-suse_life-cd.png)An estimated 45,000 students from a province in Indonesia have enhanced their education and computer-usage knowledge through a pilot  program using [Linux](http://www.linuxfoundation.org/) and [openSUSE](https://www.opensuse.org/en/) that is expected to become a nationwide educational program.
+![](https://en.opensuse.org/images/6/65/Edu-suse_life-cd.png)An estimated 45,000 students from a province in Indonesia have enhanced their education and computer-usage knowledge through a pilot  program using [Linux](//www.linuxfoundation.org/) and [openSUSE](https://www.opensuse.org/en/) that is expected to become a nationwide educational program.
 
-From 2009 to 2014, the project called "Information and Communication Technology (ICT) Utilization for Educational Quality Enhancement in Yogyakarta Province" used openSUSE and created material with Linux to enhance educational quality and equality in [Yogyakarta Province schools](http://ict-eqep.com/locations/map_350.html).
+From 2009 to 2014, the project called "Information and Communication Technology (ICT) Utilization for Educational Quality Enhancement in Yogyakarta Province" used openSUSE and created material with Linux to enhance educational quality and equality in [Yogyakarta Province schools](//ict-eqep.com/locations/map_350.html).
 
 “More and more education people and officials come to Yogyakarta to learn about how to implement information technology in basic education,” said Mr. Mohammad Edwin Zakaria, an IT and Linux consultant for the program.
 
@@ -38,13 +38,13 @@ The program is expected to become a model of ICT utilization in the educational 
 
 Many new materials made by teachers are now available to students, Raharjo said.
 
-“It is what we think open-source software still lacks behind the proprietary software,” he said. “At the beginning we try to introduce [eXe Learning](http://exelearning.org/), but in 2010 it still difficult for them. Because of this problem, the project-owner finally decided to give them proprietary software to make learning material.”
+“It is what we think open-source software still lacks behind the proprietary software,” he said. “At the beginning we try to introduce [eXe Learning](//exelearning.org/), but in 2010 it still difficult for them. Because of this problem, the project-owner finally decided to give them proprietary software to make learning material.”
 
 Many of the schools are remotely located. Yogyakarta Governor Sri Sultan Hamengku Buwono X proposed ICT as a program that would increase and equalize educational quality throughout the province.
 
-[![IMG_0375.CR2](/wp-content/uploads/2015/05/IMG_0375.CR2_.jpg)](/wp-content/uploads/2015/05/IMG_0375.CR2_.jpg)“Many students and even teachers never had an experience with computers before,” Zakaria said. “Now they can interact with computer and Linux. We created special Math and Science learning materials for them. They can learn interactively with that material. Along with software packages on [openSUSE Li-f-e](http://www.opensuse-education.org/) like [Gcompris](http://gcompris.net/index-en.html), [Tuxmath](http://tux4kids.alioth.debian.org/tuxmath/), [kalgebra](https://edu.kde.org/kalgebra/) (and other [KDE Edu](https://edu.kde.org/)), [Tuxpaint](http://www.tuxpaint.org/), and [Stellarium](http://www.stellarium.org/en/), they can learn many thing that they never imagined before.”
+[![IMG_0375.CR2](/wp-content/uploads/2015/05/IMG_0375.CR2_.jpg)](/wp-content/uploads/2015/05/IMG_0375.CR2_.jpg)“Many students and even teachers never had an experience with computers before,” Zakaria said. “Now they can interact with computer and Linux. We created special Math and Science learning materials for them. They can learn interactively with that material. Along with software packages on [openSUSE Li-f-e](//www.opensuse-education.org/) like [Gcompris](//gcompris.net/index-en.html), [Tuxmath](//tux4kids.alioth.debian.org/tuxmath/), [kalgebra](https://edu.kde.org/kalgebra/) (and other [KDE Edu](https://edu.kde.org/)), [Tuxpaint](//www.tuxpaint.org/), and [Stellarium](//www.stellarium.org/en/), they can learn many thing that they never imagined before.”
 
-Some of it can be accessed publicly at [http://lms.jogjabelajar.jogjaprov.go.id](http://lms.jogjabelajar.jogjaprov.go.id/) .
+Some of it can be accessed publicly at [//lms.jogjabelajar.jogjaprov.go.id](//lms.jogjabelajar.jogjaprov.go.id/) .
 
 The pilot program consisted of several phases, was implemented in elementary and junior high schools, and was supported by several experts and professionals. Each school had a headmaster, math teachers, science teachers, and a PC lab technician involved with the project.
 
@@ -91,44 +91,44 @@ More than 500 schools took part in the program.
 #### From the Office of Education Yogyakarta Province
 
 
-[Invite Dikpora School Supervisor and Consultant Supervision Program for ICT EQEP](http://www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&id_sub=2777)
+[Invite Dikpora School Supervisor and Consultant Supervision Program for ICT EQEP](//www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&id_sub=2777)
 
-[Dikpora DIY and Forms Community Schools ICT Consultant EQEP](http://www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&id_sub=2996)
+[Dikpora DIY and Forms Community Schools ICT Consultant EQEP](//www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&id_sub=2996)
 
-[Test results Media Learning: Students interested in ICT-Based Learning](http://www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&id_sub=2761)
+[Test results Media Learning: Students interested in ICT-Based Learning](//www.pendidikan-diy.go.id/dinas_v4/?view=v_berita&id_sub=2761)
 
 
 #### From the Office of Technology and Communication for Education Yogyakarta Province
 
 
-[School Model Development Workshop for ICT EQEP Community](http://btkp-diy.or.id/info/eqep/559/)
+[School Model Development Workshop for ICT EQEP Community](//btkp-diy.or.id/info/eqep/559/)
 
-[Implementation of ICT School Comunity](http://btkp-diy.or.id/info/eqep/561)
+[Implementation of ICT School Comunity](//btkp-diy.or.id/info/eqep/561)
 
-[Office of Technology and Communication for Education Yogyakarta Province doing Media and Material Assesstment for Jogjabelajar](http://btkp-diy.or.id/info/eqep/562)
+[Office of Technology and Communication for Education Yogyakarta Province doing Media and Material Assesstment for Jogjabelajar](//btkp-diy.or.id/info/eqep/562)
 
-[Utilization of Learning Material Training, 1st batch](http://btkp-diy.or.id/info/eqep/569)
+[Utilization of Learning Material Training, 1st batch](//btkp-diy.or.id/info/eqep/569)
 
-[Javanese Characters (Hanacaraka) Reading and Writing Application Launch](http://btkp-diy.or.id/info/eqep/592)
+[Javanese Characters (Hanacaraka) Reading and Writing Application Launch](//btkp-diy.or.id/info/eqep/592)
 
-[Yogyakarta become the best province in Indonesia for ICT implementation on Education](http://btkp-diy.or.id/info/eqep/593)
+[Yogyakarta become the best province in Indonesia for ICT implementation on Education](//btkp-diy.or.id/info/eqep/593)
 
-[JICA Visiting 3 schools](http://btkp-diy.or.id/info/eqep/596)
+[JICA Visiting 3 schools](//btkp-diy.or.id/info/eqep/596)
 
-[SMPN 4 Banguntapan (Junior High Schools) doing self-training for "ICT utilization for education"](http://btkp-diy.or.id/info/eqep/607)
+[SMPN 4 Banguntapan (Junior High Schools) doing self-training for "ICT utilization for education"](//btkp-diy.or.id/info/eqep/607)
 
-[Operational handover of ICT EQEP](http://btkp-diy.or.id/info/eqep/609)
+[Operational handover of ICT EQEP](//btkp-diy.or.id/info/eqep/609)
 
-[Utilization of Learning Material Workshop year 2015](http://btkp-diy.or.id/info/eqep/610)
+[Utilization of Learning Material Workshop year 2015](//btkp-diy.or.id/info/eqep/610)
 
-[Technical Assistance for Management of IDC (Internet Data Center) and BTS (Base Transceiver Station)](http://btkp-diy.or.id/info/eqep/611)
+[Technical Assistance for Management of IDC (Internet Data Center) and BTS (Base Transceiver Station)](//btkp-diy.or.id/info/eqep/611)
 
-[Follow-up from school reporting, official doing site visit to schools](http://btkp-diy.or.id/info/eqep/614)
+[Follow-up from school reporting, official doing site visit to schools](//btkp-diy.or.id/info/eqep/614)
 
-[Utilization of Learning Material Training 2015, 3rd batch](http://btkp-diy.or.id/info/eqep/617)
+[Utilization of Learning Material Training 2015, 3rd batch](//btkp-diy.or.id/info/eqep/617)
 
-[SDN Jepitu 1 (primary school) Girisubo, Gunungkidul, doing try out with the ICT based exam. They made the exam by themself](http://btkp-diy.or.id/info/eqep/621)
+[SDN Jepitu 1 (primary school) Girisubo, Gunungkidul, doing try out with the ICT based exam. They made the exam by themself](//btkp-diy.or.id/info/eqep/621)
 
-[National exam try out with Smartphone](http://btkp-diy.or.id/info/eqep/624)
+[National exam try out with Smartphone](//btkp-diy.or.id/info/eqep/624)
 
-[Training: Utilization of Jogjabelajar for Learning Process](http://btkp-diy.or.id/info/eqep/626)
+[Training: Utilization of Jogjabelajar for Learning Process](//btkp-diy.or.id/info/eqep/626)

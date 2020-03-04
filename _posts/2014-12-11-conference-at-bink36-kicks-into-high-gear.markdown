@@ -15,7 +15,7 @@ tags:
 - openSUSE Conference
 ---
 
-[caption id="attachment_18919" align="alignright" width="300"][![oSC15](/wp-content/uploads/2014/12/oSC15.png)](/wp-content/uploads/2014/12/oSC15.png) Register for OSC15 at [http://bit.ly/1wC7qdX](http://bit.ly/1wC7qdX)[/caption]
+[caption id="attachment_18919" align="alignright" width="300"][![oSC15](/wp-content/uploads/2014/12/oSC15.png)](/wp-content/uploads/2014/12/oSC15.png) Register for OSC15 at [//bit.ly/1wC7qdX](//bit.ly/1wC7qdX)[/caption]
 
 We are ready to get this year's Geeko-hack party started in The Hague, Netherlands, from May 1 to May 5.
 Before the learning, hacking and partying begins at the four-day openSUSE Conference, the community needs to know what's happening with oSC15 or better yet, help with the event planning.
@@ -38,7 +38,7 @@ The following tracks that have been proposed for OSC15:
   * Technology & Development
 
 
-A logo for oSC15 has already been selected and the website is taking shape leading up to the conference. Visitors will be able to submit papers, register for the conference and view the schedule at [http://conference.opensuse.org](http://conference.opensuse.org).
+A logo for oSC15 has already been selected and the website is taking shape leading up to the conference. Visitors will be able to submit papers, register for the conference and view the schedule at [//conference.opensuse.org](//conference.opensuse.org).
 More details will be annouced about the Call for Papers, which will close Feb. 14.
 
 
@@ -57,6 +57,6 @@ The openSUSE Conference is the annual gathering of the openSUSE Community and ot
 ### **Want to help with oSC15?**
 
 
-Please join [our team mailing list](http://lists.opensuse.org/opensuse-conference/) (subscribe)and our regular #opensuse-project [IRC meetings](irc://#opensuse-conference@freenode.net). We can use help with working on the program, promotions and local organization. Tasks range from keeping our news outlets up to date and designing artwork to laying cables at the venue. There is much to do and we need you!
+Please join [our team mailing list](//lists.opensuse.org/opensuse-conference/) (subscribe)and our regular #opensuse-project [IRC meetings](irc://#opensuse-conference@freenode.net). We can use help with working on the program, promotions and local organization. Tasks range from keeping our news outlets up to date and designing artwork to laying cables at the venue. There is much to do and we need you!
 
-Sign up today to join forces or volunteer at [http://conference.opensuse.org](http://conference.opensuse.org).
+Sign up today to join forces or volunteer at [//conference.opensuse.org](//conference.opensuse.org).

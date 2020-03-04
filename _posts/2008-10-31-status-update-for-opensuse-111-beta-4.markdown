@@ -14,7 +14,7 @@ tags:
 - beta
 ---
 
-After work on the remaining show-stopper bugs we found this week, we have solved the blocker bugs, but were unable to generate all the necessary media and have it propagated to the mirrors in time for a Friday release [per our release policy](http://lizards.opensuse.org/2008/10/22/why-do-we-release-opensuse-on-thursdays-or-why-do-we-slip/).
+After work on the remaining show-stopper bugs we found this week, we have solved the blocker bugs, but were unable to generate all the necessary media and have it propagated to the mirrors in time for a Friday release [per our release policy](//lizards.opensuse.org/2008/10/22/why-do-we-release-opensuse-on-thursdays-or-why-do-we-slip/).
 
 We are confident that we will be able to release on Monday, however, so please check back Monday for the release announcement. Or subscribe to the openSUSE announce mailing list (opensuse-announce+subscribe@opensuse.org) to receive the announcement as soon as the release is ready.
 

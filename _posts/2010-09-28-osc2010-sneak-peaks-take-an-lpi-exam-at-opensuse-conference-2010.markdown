@@ -11,7 +11,7 @@ categories:
 - Conference
 ---
 
-![](../wp-content/uploads/2010/09/Lpi-lpi-logo2.png)Thanks to the support of Linux Professional Institute ([LPI](http://lpi.org/)) we are able to provide a number of the well known and useful LPI exams to be taken at the [openSUSE Conference](http://conference.opensuse.org/indico//conferenceTimeTable.py?confId=0#all.detailed) 2010. Examination day will be Saturday, October 23 from 9 to 11am.
+![](../wp-content/uploads/2010/09/Lpi-lpi-logo2.png)Thanks to the support of Linux Professional Institute ([LPI](//lpi.org/)) we are able to provide a number of the well known and useful LPI exams to be taken at the [openSUSE Conference](//conference.opensuse.org/indico//conferenceTimeTable.py?confId=0#all.detailed) 2010. Examination day will be Saturday, October 23 from 9 to 11am.
 
 
 #### Exams offered :
@@ -34,7 +34,7 @@ categories:
 
 
 
-For further information and registration please visit our [LPI page](http://opensuse.org/openSUSE:Conference_LPI).
+For further information and registration please visit our [LPI page](//opensuse.org/openSUSE:Conference_LPI).
 
 
 
@@ -74,4 +74,4 @@ Dank der Unterstützung des Linux Professional Institute (LPI) können wir auf d
 
 
 
-Mehr Information und die Anmeldung gibt's auf unserer [LPI Seite](http://opensuse.org/openSUSE:Conference_LPI)
+Mehr Information und die Anmeldung gibt's auf unserer [LPI Seite](//opensuse.org/openSUSE:Conference_LPI)

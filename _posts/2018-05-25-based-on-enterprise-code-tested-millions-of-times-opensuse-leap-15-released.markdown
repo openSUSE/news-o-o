@@ -106,7 +106,7 @@ Users of openSUSE Leap can choose their favorite desktop environment, configurat
 #### Health and Science
 
 
-The Leap distribution supports the health, science, research and developer communities with packages like [GNU Health](http://health.gnu.org/), which can help facilitate running the operations of a hospital and collecting vital patient data, and [QGIS](https://www.qgis.org/), which allows researchers to create, edit, visualize, analyze and publish geospatial information.
+The Leap distribution supports the health, science, research and developer communities with packages like [GNU Health](//health.gnu.org/), which can help facilitate running the operations of a hospital and collecting vital patient data, and [QGIS](https://www.qgis.org/), which allows researchers to create, edit, visualize, analyze and publish geospatial information.
 
 
 #### Platforms

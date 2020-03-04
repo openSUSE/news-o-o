@@ -12,4 +12,4 @@ wordpress_id: 5562
 
 Meeting on IRC freenode, channel #opensuse-gnome.
 
-Please feel free to add/remove items to the [Agenda](http://en.opensuse.org/openSUSE:GNOME_meeting) page.
+Please feel free to add/remove items to the [Agenda](//en.opensuse.org/openSUSE:GNOME_meeting) page.

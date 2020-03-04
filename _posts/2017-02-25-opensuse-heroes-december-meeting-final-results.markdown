@@ -29,7 +29,7 @@ So what are our results - and how does the prioritized action item list look lik
 
 <!-- more -->
 
-First of all: the [complete meeting minutes](http://lists.opensuse.org/heroes/2016-12/msg00002.html) can be found on our [mailing list](http://lists.opensuse.org/heroes/). The list items below are just a condensed subset containing the most important parts of the three days.
+First of all: the [complete meeting minutes](//lists.opensuse.org/heroes/2016-12/msg00002.html) can be found on our [mailing list](//lists.opensuse.org/heroes/). The list items below are just a condensed subset containing the most important parts of the three days.
 
 We identified the following list of tasks and assigned priorities and people behind it:
 <table width="100%" style="height: 124px;" border="1" >

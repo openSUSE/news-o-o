@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-[![Happy 2012](/wp-content/uploads/2012/01/HappyNewYear.jpg)](http://news.opensuse.org/2012/01/01/happy-2012/happynewyear/)
+[![Happy 2012](/wp-content/uploads/2012/01/HappyNewYear.jpg)](//news.opensuse.org/2012/01/01/happy-2012/happynewyear/)
 
 
 

@@ -15,4 +15,4 @@ Thanks to the Switzerland Novell colleagues openSUSE is again on the biggest com
 
 If you are in Zürich, don't miss it!
 
-More information on the webpage: [German](http://www.orbit-iex.ch/htm/willkommen.htm), [English](http://www.orbit-iex.ch/htm/e_willkommen.htm)
+More information on the webpage: [German](//www.orbit-iex.ch/htm/willkommen.htm), [English](//www.orbit-iex.ch/htm/e_willkommen.htm)

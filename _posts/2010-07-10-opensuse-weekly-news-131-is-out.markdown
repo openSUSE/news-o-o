@@ -26,7 +26,7 @@ We are pleased to announce our openSUSE Weekly News #131.
 
 
 
-[![](http://wiki.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](http://wiki.opensuse.org/File:Opensuse_weekly_news_banner.png)
+[![](//wiki.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](//wiki.opensuse.org/File:Opensuse_weekly_news_banner.png)
 
 
 
@@ -44,19 +44,19 @@ We are pleased to announce our openSUSE Weekly News #131.
 
 
 	
-  * [ openSUSE Wiki - Episode II: A new hope](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#openSUSE_Wiki_.E2.80.93_Episode_II:_A_new_hope)
+  * [ openSUSE Wiki - Episode II: A new hope](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#openSUSE_Wiki_.E2.80.93_Episode_II:_A_new_hope)
 
 	
-  * [ KDE Desktop Tricks](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Chema_Mart.C3.ADn:_KDE_Desktop_Tricks)
+  * [ KDE Desktop Tricks](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Chema_Mart.C3.ADn:_KDE_Desktop_Tricks)
 
 	
-  * [ ownCloud in a box](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Cornelius_Schumacher:_ownCloud_in_a_box)
+  * [ ownCloud in a box](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Cornelius_Schumacher:_ownCloud_in_a_box)
 
 	
-  * [ My favorite Firefox extensions for Firefox](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#tuxmachines.org.2FVincent_Dahlen:_My_favorite_Firefox_extensions_for_Linux)
+  * [ My favorite Firefox extensions for Firefox](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#tuxmachines.org.2FVincent_Dahlen:_My_favorite_Firefox_extensions_for_Linux)
 
 	
-  * [ openSUSE 11.3 delivers spit, polish and niggles](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#The_Register.2FScott_Gilbertson:_OpenSUSE_11.3_delivers_spit.2C_polish_and_niggles)
+  * [ openSUSE 11.3 delivers spit, polish and niggles](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#The_Register.2FScott_Gilbertson:_OpenSUSE_11.3_delivers_spit.2C_polish_and_niggles)
 
 
 
@@ -66,7 +66,7 @@ We are pleased to announce our openSUSE Weekly News #131.
 
 
 
-![small.en.png](http://counter.opensuse.org/11.3/small.en.png)
+![small.en.png](//counter.opensuse.org/11.3/small.en.png)
 
 
 
@@ -89,46 +89,46 @@ We are pleased to announce our openSUSE Weekly News #131.
 
 
 	
-  * [ Announcements](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Announcements)
+  * [ Announcements](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Announcements)
 
 	
-  * [ Status Updates](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Status_Updates)
+  * [ Status Updates](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Status_Updates)
 
 	
-  * [ Team Reports](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Team_Reports)
+  * [ Team Reports](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Team_Reports)
 
 	
-  * [ In the Community](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#In_the_Community)
+  * [ In the Community](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#In_the_Community)
 
 	
-  * [ New Applications](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#New.2FUpdated_Applications_.40_openSUSE)
 
 	
-  * [ Security Updates](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Security_Updates)
+  * [ Security Updates](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Security_Updates)
 
 	
-  * [ Kernel Review](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Kernel_Review)
+  * [ Kernel Review](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Kernel_Review)
 
 	
-  * [ Tips and Tricks](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Tips_and_Tricks)
+  * [ Tips and Tricks](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Tips_and_Tricks)
 
 	
-  * [ Planet SUSE](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Planet_SUSE)
+  * [ Planet SUSE](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Planet_SUSE)
 
 	
-  * [ openSUSE Forums](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#openSUSE_Forums)
+  * [ openSUSE Forums](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#openSUSE_Forums)
 
 	
-  * [ On the Web](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#On_the_Web)
+  * [ On the Web](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#On_the_Web)
 
 	
-  * [ Contact us](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 	
-  * [ Credits](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Credits)
+  * [ Credits](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Credits)
 
 	
-  * [ Translations](http://news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Translations)
+  * [ Translations](//news.opensuse.org/2010/07/10/opensuse-weekly-news-131-is-out#Translations)
 
 
 
@@ -163,14 +163,14 @@ We are pleased to announce our openSUSE Weekly News #131.
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](http://wiki.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
+<td >[![](//wiki.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](//wiki.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
 </td>
 
 <td >
 
 
      We are pleased to announce our **131** issue of the **openSUSE Weekly News**. 
-In this Issue we have collected very interesting things. The Top4 you  can see on the header of this issue. Sadly i have bad news about our  Kernel Review and PostgreSQL Review with openSUSE Flavor. Our  Correspodent Rares Aoianei has crashed his PC. So we can't read anything  from him in this Issue. But we hope to see him soon. We send him on  this way our best wishes :-) What was interesting too in the Week? The 11.3 distribution has reached  the Goldmaster Status. That means, we have now the Build who goes to our  openSUSE Box. So we are happy to get the box soon. If you would like,  you can pre-order the Box on [this](http://www.edv-buchversand.de/suse/product.php?cnt=product&id=sus181) Page. So that's all from my Side,
+In this Issue we have collected very interesting things. The Top4 you  can see on the header of this issue. Sadly i have bad news about our  Kernel Review and PostgreSQL Review with openSUSE Flavor. Our  Correspodent Rares Aoianei has crashed his PC. So we can't read anything  from him in this Issue. But we hope to see him soon. We send him on  this way our best wishes :-) What was interesting too in the Week? The 11.3 distribution has reached  the Goldmaster Status. That means, we have now the Build who goes to our  openSUSE Box. So we are happy to get the box soon. If you would like,  you can pre-order the Box on [this](//www.edv-buchversand.de/suse/product.php?cnt=product&id=sus181) Page. So that's all from my Side,
 
 
 
@@ -200,7 +200,7 @@ In this Issue we have collected very interesting things. The Top4 you  can see o
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/9/98/Marketing.png)](http://wiki.opensuse.org/File:Marketing.png)
+<td >[![](//wiki.opensuse.org/images/9/98/Marketing.png)](//wiki.opensuse.org/File:Marketing.png)
 </td>
 
 <td >
@@ -291,7 +291,7 @@ In this Issue we have collected very interesting things. The Top4 you  can see o
 
 
 
-     The wiki team has worked hard to get the new wiki tested and  perfected for Monday.  However, if any issues are discovered after the  switch, please send a message to webmaster@opensuse.org or file a bug at  [http://bugzilla.novell.com](http://bugzilla.novell.com/) under the openSUSE.org product." 
+     The wiki team has worked hard to get the new wiki tested and  perfected for Monday.  However, if any issues are discovered after the  switch, please send a message to webmaster@opensuse.org or file a bug at  [//bugzilla.novell.com](//bugzilla.novell.com/) under the openSUSE.org product." 
 </td>
 </tr>
 </tbody>
@@ -323,14 +323,14 @@ In this Issue we have collected very interesting things. The Top4 you  can see o
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](http://wiki.opensuse.org/File:Suse_Box.png)
+<td >[![](//wiki.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//wiki.opensuse.org/File:Suse_Box.png)
 </td>
 
 <td >
 
 
 
-#### [Schedules  for the next Week](http://www.suse.de/%7Ecoolo/opensuse_11.3/)
+#### [Schedules  for the next Week](//www.suse.de/%7Ecoolo/opensuse_11.3/)
 
 
 
@@ -383,10 +383,10 @@ The numbers for all openSUSE project products are this week:
   * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=)
 
 	
-  * [Submitting Bug Reports](http://wiki.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//wiki.opensuse.org/openSUSE:Submitting_bug_reports)
 
 	
-  * [Bug  Reporting FAQ](http://wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
+  * [Bug  Reporting FAQ](//wiki.opensuse.org/index.php?title=Bug_Reporting_FAQ&action=edit&redlink=1)
 
 
 
@@ -416,13 +416,13 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](http://wiki.opensuse.org/File:OWN-oxygen-Build-Service.png)
+<td >[![](//wiki.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](//wiki.opensuse.org/File:OWN-oxygen-Build-Service.png)
 </td>
 
 <td >
 
 
-#### [Build Team Meeting](http://lists.opensuse.org/opensuse-buildservice/2010-07/msg00060.html)
+#### [Build Team Meeting](//lists.opensuse.org/opensuse-buildservice/2010-07/msg00060.html)
 
 
 
@@ -468,14 +468,14 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/f/f8/OpenSUSE-Edu.png/48px-OpenSUSE-Edu.png)](http://wiki.opensuse.org/File:OpenSUSE-Edu.png)
+<td >[![](//wiki.opensuse.org/images/thumb/f/f8/OpenSUSE-Edu.png/48px-OpenSUSE-Edu.png)](//wiki.opensuse.org/File:OpenSUSE-Edu.png)
 </td>
 
 <td >
 
 
 
-#### [Jigish Gohil: openSUSE Edu Li-f-e 11.3 RC1](http://lizards.opensuse.org/2010/07/07/opensuse-edu-li-f-e-11-3-rc1/)
+#### [Jigish Gohil: openSUSE Edu Li-f-e 11.3 RC1](//lizards.opensuse.org/2010/07/07/opensuse-edu-li-f-e-11-3-rc1/)
 
 
 
@@ -509,14 +509,14 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/7/73/Kde-logo.jpg/48px-Kde-logo.jpg)](http://wiki.opensuse.org/File:Kde-logo.jpg)
+<td >[![](//wiki.opensuse.org/images/thumb/7/73/Kde-logo.jpg/48px-Kde-logo.jpg)](//wiki.opensuse.org/File:Kde-logo.jpg)
 </td>
 
 <td >
 
 
 
-#### [Martin Schlander: Attention openSUSE KDE Factory Users](http://mschlander.wordpress.com/2010/07/09/attention-opensuse-kde-factory-users/)
+#### [Martin Schlander: Attention openSUSE KDE Factory Users](//mschlander.wordpress.com/2010/07/09/attention-opensuse-kde-factory-users/)
 
 
 
@@ -544,14 +544,14 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](http://wiki.opensuse.org/File:Mono_project_logo.png)
+<td >[![](//wiki.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](//wiki.opensuse.org/File:Mono_project_logo.png)
 </td>
 
 <td >
 
 
 
-#### [Noel Power: My mono Hackweek (restored)](http://noelpower.blogs.ie/2010/07/07/my-mono-hackweek-restored/)
+#### [Noel Power: My mono Hackweek (restored)](//noelpower.blogs.ie/2010/07/07/my-mono-hackweek-restored/)
 
 
 
@@ -561,7 +561,7 @@ The numbers for all openSUSE project products are this week:
 
 
 
-#### [Miguel de Icaza: First MonoTouch Book is out](http://tirania.org/blog/archive/2010/Jul-06-1.html)
+#### [Miguel de Icaza: First MonoTouch Book is out](//tirania.org/blog/archive/2010/Jul-06-1.html)
 
 
 
@@ -573,7 +573,7 @@ The numbers for all openSUSE project products are this week:
 
 
 
-#### [Miguel de Icaza: Microsoft MS-PL code in Mono](http://tirania.org/blog/archive/2010/Jul-07.html)
+#### [Miguel de Icaza: Microsoft MS-PL code in Mono](//tirania.org/blog/archive/2010/Jul-07.html)
 
 
 
@@ -601,7 +601,7 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](http://wiki.opensuse.org/File:Logo-fate.png)
+<td >[![](//wiki.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](//wiki.opensuse.org/File:Logo-fate.png)
 </td>
 
 <td >
@@ -708,7 +708,7 @@ The numbers for all openSUSE project products are this week:
   * Duplicate: 0
 
 
-[More information on openFATE](http://wiki.opensuse.org/openSUSE:Openfate)
+[More information on openFATE](//wiki.opensuse.org/openSUSE:Openfate)
 </td>
 </tr>
 </tbody>
@@ -729,13 +729,13 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/3/3b/Nuvola_apps_ooo_gulls.png/48px-Nuvola_apps_ooo_gulls.png)](http://wiki.opensuse.org/File:Nuvola_apps_ooo_gulls.png)
+<td >[![](//wiki.opensuse.org/images/thumb/3/3b/Nuvola_apps_ooo_gulls.png/48px-Nuvola_apps_ooo_gulls.png)](//wiki.opensuse.org/File:Nuvola_apps_ooo_gulls.png)
 </td>
 
 <td >
 
 
-#### [Michael Meeks: OpenOffice & GStreamer ...](http://www.gnome.org/%7Emichael/blog/2010-07-06-ooo-gstreamer.html)
+#### [Michael Meeks: OpenOffice & GStreamer ...](//www.gnome.org/%7Emichael/blog/2010-07-06-ooo-gstreamer.html)
 
 
 
@@ -745,7 +745,7 @@ The numbers for all openSUSE project products are this week:
 
 
 
-#### [Kohei Yoshida: OOo module dependencies](http://kohei.us/2010/07/07/ooo-module-dependencies/)
+#### [Kohei Yoshida: OOo module dependencies](//kohei.us/2010/07/07/ooo-module-dependencies/)
 
 
 
@@ -771,7 +771,7 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](http://wiki.opensuse.org/File:Suse_Box.png)
+<td >[![](//wiki.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//wiki.opensuse.org/File:Suse_Box.png)
 </td>
 
 <td >
@@ -782,7 +782,7 @@ The numbers for all openSUSE project products are this week:
 
 
 
-     "For general news about the openSUSE Testing Core Team, please  see the [minutes](http://lizards.opensuse.org/2010/04/23/guest-blog-testing-team-minutes-week-16/) and the links within it. 
+     "For general news about the openSUSE Testing Core Team, please  see the [minutes](//lizards.opensuse.org/2010/04/23/guest-blog-testing-team-minutes-week-16/) and the links within it. 
      The Team held its regular IRC meeting last Monday to report  our experiences with RC2. Of the bugs we have been tracking, many have  been fixed, and we did not find any new ones that could be considered  "show stoppers". From our experiences, it appears that 11.3 will be a  high-quality release. 
      Stephan Kulow has identified the build for the iso images that  are likely to be the official 11.3 release. The NET and DVD images for  i586 and x86_64 architectures have been made available to our Team, and  we will be testing over the weekend. So far, I have installed on an HP  netbook using the NET CD, without finding any important bugs." 
 </td>
@@ -805,7 +805,7 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](http://wiki.opensuse.org/File:Icon-localize.png)
+<td >[![](//wiki.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](//wiki.opensuse.org/File:Icon-localize.png)
 </td>
 
 <td >
@@ -819,10 +819,10 @@ The numbers for all openSUSE project products are this week:
 
 
 	
-  * Daily updated translation statistics are available on the [openSUSE Localization  Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization  Portal](//i18n.opensuse.org/).
 
 	
-  * [Trunk  Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization  Guide](http://wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
+  * [Trunk  Top-List](//i18n.opensuse.org/stats/trunk/toplist.php) – [Localization  Guide](//wiki.opensuse.org/index.php?title=OpenSUSE_Localization_Guide&action=edit&redlink=1)
 
 
 
@@ -851,7 +851,7 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/3/31/Icon-project.png)](http://wiki.opensuse.org/File:Icon-project.png)
+<td >[![](//wiki.opensuse.org/images/3/31/Icon-project.png)](//wiki.opensuse.org/File:Icon-project.png)
 </td>
 
 <td >
@@ -875,7 +875,7 @@ Past:
 Upcoming:
 
 	
-  * [** July 6-11, 2010:  Rencontres Mondiales du Logiciel Libre RMLL (Bordeaux)**](http://2010.rmll.info/)
+  * [** July 6-11, 2010:  Rencontres Mondiales du Logiciel Libre RMLL (Bordeaux)**](//2010.rmll.info/)
 
 	
   * [** July 14, 2010: German Wiki Team Meeting**](../2010/05/30/german-wiki-team-meeting-2/)
@@ -892,7 +892,7 @@ Upcoming:
   * You can find more informations on other events at:
 
 	
-    * [openSUSE News/Events](../category/events/) – [Local  events](http://wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
+    * [openSUSE News/Events](../category/events/) – [Local  events](//wiki.opensuse.org/index.php?title=Ambassador/Events&action=edit&redlink=1)
 
 
 
@@ -908,7 +908,7 @@ Upcoming:
 
 
 	
-  * [complete List](http://en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations)
+  * [complete List](//en.opensuse.org/OpenSUSE_11.3_Launch_Party_Locations)
 
 
 
@@ -921,7 +921,7 @@ Upcoming:
 
 
 	
-  * The openSUSE Weekly News are available as Livestream or Podcast  in the German Language. You can hear it or download it on [http://blog.radiotux.de/podcast](http://blog.radiotux.de/podcast).
+  * The openSUSE Weekly News are available as Livestream or Podcast  in the German Language. You can hear it or download it on [//blog.radiotux.de/podcast](//blog.radiotux.de/podcast).
 
 
 
@@ -943,10 +943,10 @@ Upcoming:
 
 
 	
-  * [The mail lists](http://lists.opensuse.org/) have: 37542 (+24) subscribers.
+  * [The mail lists](//lists.opensuse.org/) have: 37542 (+24) subscribers.
 
 	
-  * [The openSUSE Forums](http://forums.opensuse.org/)]  have:
+  * [The openSUSE Forums](//forums.opensuse.org/)]  have:
 
 	
     * 47407 (+188) registered users
@@ -968,7 +968,7 @@ Upcoming:
 
 
 	
-  * 4762 (+18) of 12187 (+23) registered contributors in the User  Directory have signed the Guiding Principles. The board has acknowledged  427 (+1) [members](http://wiki.opensuse.org/openSUSE:Members).
+  * 4762 (+18) of 12187 (+23) registered contributors in the User  Directory have signed the Guiding Principles. The board has acknowledged  427 (+1) [members](//wiki.opensuse.org/openSUSE:Members).
 
 
 
@@ -997,13 +997,13 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](http://wiki.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
+<td >[![](//wiki.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](//wiki.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
 </td>
 
 <td >
 
 
-#### [OBS  openSUSE:11.2:Update/MozillaThunderbird r4 commited](http://hermes.opensuse.org/messages/4487561)
+#### [OBS  openSUSE:11.2:Update/MozillaThunderbird r4 commited](//hermes.opensuse.org/messages/4487561)
 
 
 
@@ -1017,7 +1017,7 @@ Upcoming:
   * You can find other interesting Packages at:
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1046,15 +1046,15 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](http://wiki.opensuse.org/File:Logo-SecurityUpdates.png)
+<td >[![](//wiki.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](//wiki.opensuse.org/File:Logo-SecurityUpdates.png)
 </td>
 
-<td >To view the security announcements in full, or to receive them as  soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+<td >To view the security announcements in full, or to receive them as  soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 
 
 
-#### [SUSE Security Announcement: IBM Java 5  (SUSE-SA:2010:028)](http://lists.opensuse.org/opensuse-security-announce/2010-07/msg00003.html)
+#### [SUSE Security Announcement: IBM Java 5  (SUSE-SA:2010:028)](//lists.opensuse.org/opensuse-security-announce/2010-07/msg00003.html)
 
 
 
@@ -1088,7 +1088,7 @@ Upcoming:
 
 
 
-#### [SUSE Security Announcement: Acrobat Reader  (SUSE-SA:2010:029)](http://lists.opensuse.org/opensuse-security-announce/2010-07/msg00004.html)
+#### [SUSE Security Announcement: Acrobat Reader  (SUSE-SA:2010:029)](//lists.opensuse.org/opensuse-security-announce/2010-07/msg00004.html)
 
 
 
@@ -1125,7 +1125,7 @@ Upcoming:
 
 
 
-#### [SUSE Security Announcement: Mozilla Firefox  (SUSE-SA:2010:030)](http://lists.opensuse.org/opensuse-security-announce/2010-07/msg00005.html)
+#### [SUSE Security Announcement: Mozilla Firefox  (SUSE-SA:2010:030)](//lists.opensuse.org/opensuse-security-announce/2010-07/msg00005.html)
 
 
 
@@ -1203,14 +1203,14 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](http://wiki.opensuse.org/File:Tux.svg.png)
+<td >[![](//wiki.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](//wiki.opensuse.org/File:Tux.svg.png)
 </td>
 
 <td >
 
 
 
-#### [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.35  (Part 1) - Graphics](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-35-Part-1-Graphics-1034168.html)
+#### [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.35  (Part 1) - Graphics](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-35-Part-1-Graphics-1034168.html)
 
 
 
@@ -1219,7 +1219,7 @@ Upcoming:
 
 
 
-#### [h-online/Dj Walker-Morgan: A flood of new, stable, Linux  kernels](http://www.h-online.com/open/news/item/A-flood-of-new-stable-Linux-kernels-1033890.html)
+#### [h-online/Dj Walker-Morgan: A flood of new, stable, Linux  kernels](//www.h-online.com/open/news/item/A-flood-of-new-stable-Linux-kernels-1033890.html)
 
 
 
@@ -1250,7 +1250,7 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](http://wiki.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
+<td >[![](//wiki.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](//wiki.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
 </td>
 
 <td >
@@ -1263,7 +1263,7 @@ Upcoming:
 
 
 
-#### [openSUSE  TV: Hands on with OpenOffice.org Draw](http://blip.tv/file/1135530)
+#### [openSUSE  TV: Hands on with OpenOffice.org Draw](//blip.tv/file/1135530)
 
 
 
@@ -1272,7 +1272,7 @@ Upcoming:
 
 
 
-#### [Chema Martín: KDE Desktop Tricks](http://cristalinux.blogspot.com/2010/07/kde-desktop-tricks.html)
+#### [Chema Martín: KDE Desktop Tricks](//cristalinux.blogspot.com/2010/07/kde-desktop-tricks.html)
 
 
 
@@ -1287,7 +1287,7 @@ Upcoming:
 
 
 
-#### [Bright Hub/Matthew Casperson: The easy way to make a  useful KDE Plasmoid](http://www.brighthub.com/hubfolio/matthew-casperson/articles/76428.aspx)
+#### [Bright Hub/Matthew Casperson: The easy way to make a  useful KDE Plasmoid](//www.brighthub.com/hubfolio/matthew-casperson/articles/76428.aspx)
 
 
 
@@ -1302,7 +1302,7 @@ Upcoming:
 
 
 
-#### [Bright Hub/Matthew Casperson: Working around a lack of  NTLM / ISA Proxy server support in Linux](http://www.brighthub.com/hubfolio/matthew-casperson/articles/76539.aspx)
+#### [Bright Hub/Matthew Casperson: Working around a lack of  NTLM / ISA Proxy server support in Linux](//www.brighthub.com/hubfolio/matthew-casperson/articles/76539.aspx)
 
 
 
@@ -1333,14 +1333,14 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](http://wiki.opensuse.org/File:Logo-PlanetSUSE.png)
+<td >[![](//wiki.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](//wiki.opensuse.org/File:Logo-PlanetSUSE.png)
 </td>
 
 <td >
 
 
 
-#### [Sascha Manns: Siga (System Information GAthering)  Project forked](http://saigkill.wordpress.com/2010/07/09/siga-system-information-gathering-project-forked/)
+#### [Sascha Manns: Siga (System Information GAthering)  Project forked](//saigkill.wordpress.com/2010/07/09/siga-system-information-gathering-project-forked/)
 
 
 
@@ -1351,7 +1351,7 @@ Upcoming:
 
 
 
-#### [Dominique Leuenberger: Dominique Leuenberger: Compiz  0.9.0 released](http://dominique.leuenberger.net/blog/?p=112)
+#### [Dominique Leuenberger: Dominique Leuenberger: Compiz  0.9.0 released](//dominique.leuenberger.net/blog/?p=112)
 
 
 
@@ -1362,7 +1362,7 @@ Upcoming:
 
 
 
-#### [Duncan Mac-Vicar: Android build service client 0.2](http://duncan.mac-vicar.com/blog/archives/734#utm_source=feed&utm_medium=feed&utm_campaign=feed)
+#### [Duncan Mac-Vicar: Android build service client 0.2](//duncan.mac-vicar.com/blog/archives/734#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 
 
 
@@ -1373,7 +1373,7 @@ Upcoming:
 
 
 
-#### [Pascal Bleser: openSUSE 11.3RC1 LXDE screencast](http://dev-loki.blogspot.com/2010/07/opensuse-113rc1-lxde-screencast.html)
+#### [Pascal Bleser: openSUSE 11.3RC1 LXDE screencast](//dev-loki.blogspot.com/2010/07/opensuse-113rc1-lxde-screencast.html)
 
 
 
@@ -1383,18 +1383,18 @@ Upcoming:
 
 
 
-#### [Pascal Bleser: Even shorter openSUSE repository URLs:  guessing the distro](http://dev-loki.blogspot.com/2010/07/even-shorter-opensuse-repository-urls.html)
+#### [Pascal Bleser: Even shorter openSUSE repository URLs:  guessing the distro](//dev-loki.blogspot.com/2010/07/even-shorter-opensuse-repository-urls.html)
 
 
 
 
      "I updated the documentation about even shorter and more  portable URLs to openSUSE build service repositories. The thing is, the  zypp stack (zypper and YaST2) send the version of the openSUSE it is  running on as an HTTP header when performing an "add repo" operation. 
      That is now used on the server side when a version is not  specifically mentioned in the URL. 
-     e.g.: zypper ar -r [http://r.opensu.se/network:utilities.repo](http://r.opensu.se/network:utilities.repo)" 
+     e.g.: zypper ar -r [//r.opensu.se/network:utilities.repo](//r.opensu.se/network:utilities.repo)" 
 
 
 
-#### [Dominique Leuenberger: Juniper VPN on openSUSE x86_64](http://dominique.leuenberger.net/blog/?p=120)
+#### [Dominique Leuenberger: Juniper VPN on openSUSE x86_64](//dominique.leuenberger.net/blog/?p=120)
 
 
 
@@ -1406,7 +1406,7 @@ Upcoming:
 
 
 
-#### [Cornelius Schumacher: ownCloud in a box](http://blog.cornelius-schumacher.de/2010/07/owncloud-in-box.html)
+#### [Cornelius Schumacher: ownCloud in a box](//blog.cornelius-schumacher.de/2010/07/owncloud-in-box.html)
 
 
 
@@ -1415,7 +1415,7 @@ Upcoming:
 
 
 
-#### [Aaron Bockover: Banshee on Linode](http://abock.org/2010/07/08/banshee-on-linode)
+#### [Aaron Bockover: Banshee on Linode](//abock.org/2010/07/08/banshee-on-linode)
 
 
 
@@ -1425,7 +1425,7 @@ Upcoming:
 
 
 
-#### [Aaron Bockover: Amazon MP3 downloader support in Banshee](http://abock.org/2010/07/08/amazon-mp3-downloader-support-in-banshee)
+#### [Aaron Bockover: Amazon MP3 downloader support in Banshee](//abock.org/2010/07/08/amazon-mp3-downloader-support-in-banshee)
 
 
 
@@ -1435,7 +1435,7 @@ Upcoming:
 
 
 
-#### [Uwe Gansert: AutoYaST goes Twitter](http://ugansert.blogspot.com/2010/07/autoyast-goes-twitter.html)
+#### [Uwe Gansert: AutoYaST goes Twitter](//ugansert.blogspot.com/2010/07/autoyast-goes-twitter.html)
 
 
 
@@ -1446,7 +1446,7 @@ Upcoming:
 
 
 
-#### [Stephan Kulow: Shortcut for the package download](http://lizards.opensuse.org/2010/07/09/shortcut-for-the-package-download/)
+#### [Stephan Kulow: Shortcut for the package download](//lizards.opensuse.org/2010/07/09/shortcut-for-the-package-download/)
 
 
 
@@ -1456,7 +1456,7 @@ Upcoming:
 
 
 
-#### [Stephen Shaw: iFolder appliance updates](http://feedproxy.google.com/%7Er/decriptor/qXWe/%7E3/GpEbWit-zdA/)
+#### [Stephen Shaw: iFolder appliance updates](//feedproxy.google.com/%7Er/decriptor/qXWe/%7E3/GpEbWit-zdA/)
 
 
 
@@ -1488,13 +1488,13 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](http://wiki.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
+<td >[![](//wiki.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](//wiki.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
 </td>
 
 <td >
 
 
-#### [11.3 is here!](http://forums.opensuse.org/english/get-help-here/pre-release-beta/441244-11-3-here-now.html)
+#### [11.3 is here!](//forums.opensuse.org/english/get-help-here/pre-release-beta/441244-11-3-here-now.html)
 
 
 
@@ -1503,7 +1503,7 @@ Upcoming:
 
 
 
-#### [Updates Break Firefox](http://forums.opensuse.org/english/get-help-here/pre-release-beta/441186-updates-factory-june-29-firefox-didnt-start.html)
+#### [Updates Break Firefox](//forums.opensuse.org/english/get-help-here/pre-release-beta/441186-updates-factory-june-29-firefox-didnt-start.html)
 
 
 
@@ -1512,7 +1512,7 @@ Upcoming:
 
 
 
-#### [Virtual Box Error!](http://forums.opensuse.org/english/get-help-here/applications/441261-virtualbox-ose-error.html)
+#### [Virtual Box Error!](//forums.opensuse.org/english/get-help-here/applications/441261-virtualbox-ose-error.html)
 
 
 
@@ -1521,7 +1521,7 @@ Upcoming:
 
 
 
-#### [Issue Booting 11.3 RC2](http://forums.opensuse.org/english/get-help-here/pre-release-beta/441037-unable-boot-12-3-rc1.html)
+#### [Issue Booting 11.3 RC2](//forums.opensuse.org/english/get-help-here/pre-release-beta/441037-unable-boot-12-3-rc1.html)
 
 
 
@@ -1552,7 +1552,7 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](http://wiki.opensuse.org/File:OWN-oxygen-On-the-Web.png)
+<td >[![](//wiki.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](//wiki.opensuse.org/File:OWN-oxygen-On-the-Web.png)
 </td>
 
 <td >
@@ -1565,7 +1565,7 @@ Upcoming:
 
 
 
-#### [JunAuza: The Advantages of Using Linux](http://www.junauza.com/2010/07/advantages-of-using-linux.html)
+#### [JunAuza: The Advantages of Using Linux](//www.junauza.com/2010/07/advantages-of-using-linux.html)
 
 
 
@@ -1574,7 +1574,7 @@ Upcoming:
 
 
 
-#### [TechRepublic/Vincent Danen: My favorite Firefox  extensions for Linux](http://blogs.techrepublic.com.com/opensource/?p=1654)
+#### [TechRepublic/Vincent Danen: My favorite Firefox  extensions for Linux](//blogs.techrepublic.com.com/opensource/?p=1654)
 
 
 
@@ -1583,7 +1583,7 @@ Upcoming:
 
 
 
-#### [Miguel de Icaza: Pinta 0.4 Released](http://tirania.org/blog/archive/2010/Jul-06.html)
+#### [Miguel de Icaza: Pinta 0.4 Released](//tirania.org/blog/archive/2010/Jul-06.html)
 
 
 
@@ -1593,12 +1593,12 @@ Upcoming:
 
 
 
-#### [ZDNet/Paula Rooney: Samba 4 now due in 2011; SMB2 and  SMB/CIFS protocol docs done](http://www.zdnet.com/blog/open-source/samba-4-now-due-in-2011-smb2-and-smbcifs-protocol-docs-done/6810)
+#### [ZDNet/Paula Rooney: Samba 4 now due in 2011; SMB2 and  SMB/CIFS protocol docs done](//www.zdnet.com/blog/open-source/samba-4-now-due-in-2011-smb2-and-smbcifs-protocol-docs-done/6810)
 
 
 
 
-     "The Samba team isn’t expecting to release [Samba 4](http://www.zdnet.com/blog/open-source/samba4-release-pushed-back-to-late-2010-2011/5548?tag=content;search-results-rivers) until the first half of 2011  (optimistically) but work on support for Microsoft’s SMB2 — and older  SMB/CIFS — has moved ahead quite nicely. 
+     "The Samba team isn’t expecting to release [Samba 4](//www.zdnet.com/blog/open-source/samba4-release-pushed-back-to-late-2010-2011/5548?tag=content;search-results-rivers) until the first half of 2011  (optimistically) but work on support for Microsoft’s SMB2 — and older  SMB/CIFS — has moved ahead quite nicely. 
      Samba leader Jeremy Allison said support for SMB2 — which was  introduced in the Windows Vista client — is finished and will be made  available for testing in the next significant Samba release." 
 
 
@@ -1611,7 +1611,7 @@ Upcoming:
 
 
 
-#### [The Register/Scott Gilbertson: OpenSUSE 11.3 delivers  spit, polish and niggles](http://go.theregister.com/feed/www.theregister.co.uk/2010/07/06/opensuse_11_3_review/)
+#### [The Register/Scott Gilbertson: OpenSUSE 11.3 delivers  spit, polish and niggles](//go.theregister.com/feed/www.theregister.co.uk/2010/07/06/opensuse_11_3_review/)
 
 
 
@@ -1621,7 +1621,7 @@ Upcoming:
 
 
 
-#### [Linux Magazine/Joe Brockmeier: Firefox 4 Beta Brings  Speed Boost](http://www.linux-mag.com/id/7822/)
+#### [Linux Magazine/Joe Brockmeier: Firefox 4 Beta Brings  Speed Boost](//www.linux-mag.com/id/7822/)
 
 
 
@@ -1638,7 +1638,7 @@ Upcoming:
 
 
 
-#### [US-CERT Current Activity - Google Releases Chrome  5.0.375.99](http://www.us-cert.gov/current/index.html#google_releases_chrome_5_03)
+#### [US-CERT Current Activity - Google Releases Chrome  5.0.375.99](//www.us-cert.gov/current/index.html#google_releases_chrome_5_03)
 
 
 
@@ -1647,7 +1647,7 @@ Upcoming:
 
 
 
-#### [Computerworld/Gregg Keizer: Researcher cracks 'secret'  code in U.S. Cyber Command logo](http://www.computerworld.com/s/article/9179004/Researcher_cracks_secret_code_in_U.S._Cyber_Command_logo?taxonomyId=13)
+#### [Computerworld/Gregg Keizer: Researcher cracks 'secret'  code in U.S. Cyber Command logo](//www.computerworld.com/s/article/9179004/Researcher_cracks_secret_code_in_U.S._Cyber_Command_logo?taxonomyId=13)
 
 
 
@@ -1679,13 +1679,13 @@ Upcoming:
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://wiki.opensuse.org/openSUSE:Weekly_news_team)
+<td >[![](//wiki.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](//wiki.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
 <td >Do  you have comments on any of the things mentioned in this article? Then  head right over to the [comment section](../p=3725) and let us know!
-Or if you would  like to be part of the [openSUSE:Weekly news team](http://wiki.opensuse.org/openSUSE:Weekly_news_team) then  check out our team page and join!
-Or Communicate with or get help  from the wider openSUSE community -- via IRC, forums, or mailing lists  -- see [Communicate](http://wiki.opensuse.org/openSUSE:Support_channels).
-[![](http://wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://wiki.opensuse.org/File:Rss_32.png) You can subscribe to the  openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](../category/weekly-news/feed/)
+Or if you would  like to be part of the [openSUSE:Weekly news team](//wiki.opensuse.org/openSUSE:Weekly_news_team) then  check out our team page and join!
+Or Communicate with or get help  from the wider openSUSE community -- via IRC, forums, or mailing lists  -- see [Communicate](//wiki.opensuse.org/openSUSE:Support_channels).
+[![](//wiki.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](//wiki.opensuse.org/File:Rss_32.png) You can subscribe to the  openSUSE Weekly News RSS feed at [//news.opensuse.org/category/weekly-news/feed/](../category/weekly-news/feed/)
 </td>
 </tr>
 </tbody>
@@ -1711,7 +1711,7 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](http://wiki.opensuse.org/File:OWN-oxygen-Credits.png)
+<td >[![](//wiki.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](//wiki.opensuse.org/File:OWN-oxygen-Credits.png)
 </td>
 
 <td >
@@ -1719,19 +1719,19 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
 
 
 	
-  * [saigkill](http://wiki.opensuse.org/User:Saigkill) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Saigkill&action=edit&redlink=1) -  [Contributions](http://wiki.opensuse.org/Special:Contributions/saigkill) Sascha  Manns (Editor in Chief)
+  * [saigkill](//wiki.opensuse.org/User:Saigkill) [Talk](//wiki.opensuse.org/index.php?title=User_talk:Saigkill&action=edit&redlink=1) -  [Contributions](//wiki.opensuse.org/Special:Contributions/saigkill) Sascha  Manns (Editor in Chief)
 
 	
-  * [STS301](http://wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/STS301) Sebastian  Schöbinger (Tips/Tricks)
+  * [STS301](//wiki.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](//wiki.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](//wiki.opensuse.org/Special:Contributions/STS301) Sebastian  Schöbinger (Tips/Tricks)
 
 	
-  * [HeliosReds](http://wiki.opensuse.org/User:HeliosReds) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru  Matsumoto (Editorial Office)
+  * [HeliosReds](//wiki.opensuse.org/User:HeliosReds) [Talk](//wiki.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](//wiki.opensuse.org/Special:Contributions/HeliosReds) Satoru  Matsumoto (Editorial Office)
 
 	
-  * [Caf4926](http://wiki.opensuse.org/User:Caf4926) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Caf4926) Carl  Fletcher (Main-Newsletter, Forums Sec.)
+  * [Caf4926](//wiki.opensuse.org/User:Caf4926) [Talk](//wiki.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](//wiki.opensuse.org/Special:Contributions/Caf4926) Carl  Fletcher (Main-Newsletter, Forums Sec.)
 
 	
-  * [Okuro](http://wiki.opensuse.org/User:Okuro) [Talk](http://wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://wiki.opensuse.org/Special:Contributions/Okuro) Thomas  Hofstätter (Events & Meetings)
+  * [Okuro](//wiki.opensuse.org/User:Okuro) [Talk](//wiki.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](//wiki.opensuse.org/Special:Contributions/Okuro) Thomas  Hofstätter (Events & Meetings)
 
 	
   * add translators
@@ -1760,7 +1760,7 @@ Or Communicate with or get help  from the wider openSUSE community -- via IRC, f
 <tbody >
 <tr >
 
-<td >[![](http://wiki.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](http://wiki.opensuse.org/File:OWN-Icon-locale.png)
+<td >[![](//wiki.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](//wiki.opensuse.org/File:OWN-Icon-locale.png)
 </td>
 
 <td >
@@ -1769,52 +1769,52 @@ openSUSE Weekly News is translated into many languages.Issue #125 of  the openSU
 
 
 	
-  * [English](http://wiki.opensuse.org/Archive:Weekly_news_131)
+  * [English](//wiki.opensuse.org/Archive:Weekly_news_131)
 
 
 Delayed / to be translated:
 
 	
-  * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/131)
+  * [Magyar](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/131)
 
 	
-  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/131)
+  * [Español](//es.opensuse.org/OpenSUSE_Noticias_Semanales/131)
 
 	
-  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/131)
+  * [繁體中文](//zh_tw.opensuse.org/OpenSUSE_Weekly_News/131)
 
 	
-  * [日 本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/131)
+  * [日 本語](//ja.opensuse.org/OpenSUSE_Weekly_News/131)
 
 	
-  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/131)
+  * [Русский](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/131)
 
 	
-  * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/131/indonesian)
+  * [Indonesia](//en.opensuse.org/OpenSUSE_Weekly_News/131/indonesian)
 
 	
-  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/131/chinese)
+  * [简体中文](//en.opensuse.org/OpenSUSE_Weekly_News/131/chinese)
 
 	
-  * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/131)
+  * [Deutsch](//de.opensuse.org/OpenSUSE-Wochenschau/131)
 
 	
-  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/131)
+  * [Français](//fr.opensuse.org/Lettre_d%27information_openSUSE/131)
 
 	
-  * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/131)
+  * [Polski](//pl.opensuse.org/Tygodnik_openSUSE/131)
 
 	
-  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/131)
+  * [Português](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/131)
 
 	
-  * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/131)
+  * [Italiano](//it.opensuse.org/OpenSUSE_Newsletter_Settimanale/131)
 
 	
-  * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/131/swedish)
+  * [Svenska](//en.opensuse.org/OpenSUSE_Weekly_News/131/swedish)
 
 	
-  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/131)
+  * [Ìesky](//cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/131)
 
 
 

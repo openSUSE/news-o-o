@@ -15,7 +15,7 @@ Developers waiting for a new compiler in [Tumbleweed](https://en.opensuse.org/Po
 
 The newest [GNU Compiler Collection](https://gcc.gnu.org/) was checked in today to openSUSE [Factory](https://en.opensuse.org/Portal:Factory), which is the rolling development code base for Tumbleweed, as the default compiler, so all packages will be rebuilt against GCC 5 and the next Tumbleweed snapshot will include GCC 5.1.1
 
-The snapshot is expected later in the week, making it one of the first rolling releases to have the compiler as a default within Linux, according to [DistroWatch's](http://distrowatch.com/) package tracker.
+The snapshot is expected later in the week, making it one of the first rolling releases to have the compiler as a default within Linux, according to [DistroWatch's](//distrowatch.com/) package tracker.
 
 “GCC 5 made great progress the last week,” said Dominique Leuenberger, the Factory master. “We will rebuild more than 8,000 source packages with GCC 5."
 

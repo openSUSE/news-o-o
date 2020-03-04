@@ -15,7 +15,7 @@ tags:
 - ARM
 ---
 
-![ARMopenSUSE Logo](/wp-content/uploads/2012/09/ARMopenSUSE.png) Hot on the heels of the [news that the Google Chromebook runs openSUSE](http://andrew.wafaa.eu/blog/geeko-goes-chrome/) (even made [slashdot](http://hardware.slashdot.org/story/12/10/25/1941225/developer-gets-opensuse-running-on-249-google-chromebook)) and following the closing of the [openSUSE Conference in Prague](http://conference.opensuse.org), Dirk Müller [let the ARM team know](http://lists.opensuse.org/opensuse-arm/2012-10/msg00184.html) that RC2 is about ready to go and this will be the final before the release of openSUSE for ARM! Read on to find out some details of this exciting release.
+![ARMopenSUSE Logo](/wp-content/uploads/2012/09/ARMopenSUSE.png) Hot on the heels of the [news that the Google Chromebook runs openSUSE](//andrew.wafaa.eu/blog/geeko-goes-chrome/) (even made [slashdot](//hardware.slashdot.org/story/12/10/25/1941225/developer-gets-opensuse-running-on-249-google-chromebook)) and following the closing of the [openSUSE Conference in Prague](//conference.opensuse.org), Dirk Müller [let the ARM team know](//lists.opensuse.org/opensuse-arm/2012-10/msg00184.html) that RC2 is about ready to go and this will be the final before the release of openSUSE for ARM! Read on to find out some details of this exciting release.
 
 <!-- more -->
 
@@ -78,13 +78,13 @@ Also note that the Raspberry Pi image is not part of this release, it will come 
 ## Get it
 
 
-The images are available for download [here](http://download.opensuse.org/ports/armv7hl/distribution/12.2-RC2/).
+The images are available for download [here](//download.opensuse.org/ports/armv7hl/distribution/12.2-RC2/).
 
 
 ## Thanks!
 
 
-Andrew Wafaa [made a nice list of people who deserve credit for their hard work on openSUSE ARM](http://andrew.wafaa.eu/blog/clarification-credits-for-opensuse-on-arm-chromebooks/):
+Andrew Wafaa [made a nice list of people who deserve credit for their hard work on openSUSE ARM](//andrew.wafaa.eu/blog/clarification-credits-for-opensuse-on-arm-chromebooks/):
 
 
 

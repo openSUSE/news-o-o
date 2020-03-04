@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-We are standardizing now on the definitions given at [http://en.opensuse.org/Bugs/Definitions](http://en.opensuse.org/Bugs/Definitions). The severity definitions are now the same as in most other open source projects, so that we speak the same language and reduce confusion.
+We are standardizing now on the definitions given at [//en.opensuse.org/Bugs/Definitions](//en.opensuse.org/Bugs/Definitions). The severity definitions are now the same as in most other open source projects, so that we speak the same language and reduce confusion.
 
 
 The major changes we are doing are basically:

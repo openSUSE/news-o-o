@@ -36,4 +36,4 @@ Meeting Minutes - Metalgod
 
 Feel free to suggest new topics for the meeting, if you have any.
 
-To know the meeting time for your timezone, please see [here](http://www.timeanddate.com/worldclock/fixedtime.html?day=14&month=9&year=2010&hour=13&min=30&sec=0&p1=0  ).
+To know the meeting time for your timezone, please see [here](//www.timeanddate.com/worldclock/fixedtime.html?day=14&month=9&year=2010&hour=13&min=30&sec=0&p1=0  ).

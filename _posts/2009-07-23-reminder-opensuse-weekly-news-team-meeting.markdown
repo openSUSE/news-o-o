@@ -22,7 +22,7 @@ The Topics from our Meeting are placed in:
 
 
 
-http://en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current
+//en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current
 
 
 

@@ -26,13 +26,13 @@ We will also be talking to openSUSE and KDE core developer Luboš Luňák, to fi
 
 
 
-After a [feature request](https://features.opensuse.org/306967) shot to #1 on the openSUSE feature tracker, openFATE, a [lively discussion](http://lists.opensuse.org/opensuse-project/2009-07/msg00028.html) began on the openSUSE mailing lists about whether to preselect KDE on the DVD installation. openSUSE, and SUSE Linux before that, had always had a strong KDE following in the community, and the discussion picked up a lot of momentum and popularity. As an overview, the openSUSE-project mailing list received 751 mails in August, in comparison to July's 89.
+After a [feature request](https://features.opensuse.org/306967) shot to #1 on the openSUSE feature tracker, openFATE, a [lively discussion](//lists.opensuse.org/opensuse-project/2009-07/msg00028.html) began on the openSUSE mailing lists about whether to preselect KDE on the DVD installation. openSUSE, and SUSE Linux before that, had always had a strong KDE following in the community, and the discussion picked up a lot of momentum and popularity. As an overview, the openSUSE-project mailing list received 751 mails in August, in comparison to July's 89.
 
 It was finally decided to default the radio button to KDE in the DVD installer. Therefore, with the openSUSE 11.2 release, the KDE desktop will be installed if the user accepts the default setting. Users can also choose the GNOME desktop at this stage.
 
 
 
-[![](http://giannaros.org/suse/images/11.2/OS11.2M7-install4.jpeg)](http://giannaros.org/suse/images/11.2/OS11.2M7-install4.png)
+[![](//giannaros.org/suse/images/11.2/OS11.2M7-install4.jpeg)](//giannaros.org/suse/images/11.2/OS11.2M7-install4.png)
 
 
 
@@ -44,7 +44,7 @@ It was finally decided to default the radio button to KDE in the DVD installer. 
 
 Recognising the popularity of Firefox, the KDE team decided to have Firefox as the default browser for openSUSE 11.2. As a consequence, there has been a significant effort pioneered by Luboš Luňák to make Firefox more friendly to KDE users. 
 
-The Firefox integration by openSUSE means that wherever Firefox contacts the rest of the desktop, KDE components are used, including: file dialogs, application selection dialog, mimetype handling, notifications system, and [more](http://en.opensuse.org/KDE/FirefoxIntegration). A screencast of these changes has been recorded by Javier Llorente:
+The Firefox integration by openSUSE means that wherever Firefox contacts the rest of the desktop, KDE components are used, including: file dialogs, application selection dialog, mimetype handling, notifications system, and [more](//en.opensuse.org/KDE/FirefoxIntegration). A screencast of these changes has been recorded by Javier Llorente:
 
 
 
@@ -59,11 +59,11 @@ The Firefox integration by openSUSE means that wherever Firefox contacts the res
 
 
 
-As of openSUSE 11.2, our KDE participates in the KDE drive to create a shared, [consistent brand](http://aseigo.blogspot.com/2009/06/building-brand-together.html), using recognisably openSUSE artwork developed by Nuno Pinheiro of the KDE community:
+As of openSUSE 11.2, our KDE participates in the KDE drive to create a shared, [consistent brand](//aseigo.blogspot.com/2009/06/building-brand-together.html), using recognisably openSUSE artwork developed by Nuno Pinheiro of the KDE community:
 
 
 
-[![](http://giannaros.org/suse/images/11.2/splash.jpeg)](http://giannaros.org/suse/images/11.2/splash.jpeg)[![](http://giannaros.org/suse/images/11.2/background.jpeg)](http://giannaros.org/suse/images/11.2/background.jpeg)
+[![](//giannaros.org/suse/images/11.2/splash.jpeg)](//giannaros.org/suse/images/11.2/splash.jpeg)[![](//giannaros.org/suse/images/11.2/background.jpeg)](//giannaros.org/suse/images/11.2/background.jpeg)
 
 
 
@@ -73,9 +73,9 @@ As of openSUSE 11.2, our KDE participates in the KDE drive to create a shared, [
 
 
 
-openSUSE has been the only mainstream distribution to allow the parallel installation of KDE 3 and KDE 4, but as KDE 4.3 has become a [widely](http://arstechnica.com/open-source/reviews/2009/08/hands-on-kde-43-delivers-a-social-desktop.ars) [accepted](http://blogs.computerworld.com/a_first_look_at_kde_4_3) replacement for KDE 3, 11.2 no longer offers a KDE 3 desktop installation in the default installer. 
+openSUSE has been the only mainstream distribution to allow the parallel installation of KDE 3 and KDE 4, but as KDE 4.3 has become a [widely](//arstechnica.com/open-source/reviews/2009/08/hands-on-kde-43-delivers-a-social-desktop.ars) [accepted](//blogs.computerworld.com/a_first_look_at_kde_4_3) replacement for KDE 3, 11.2 no longer offers a KDE 3 desktop installation in the default installer. 
 
-KDE 3 applications however remain available where no KDE 4 port exists, and users can still [install a KDE 3 desktop using the openSUSE Build Service](http://en.opensuse.org/KDE3).
+KDE 3 applications however remain available where no KDE 4 port exists, and users can still [install a KDE 3 desktop using the openSUSE Build Service](//en.opensuse.org/KDE3).
 
 
 
@@ -87,7 +87,7 @@ As KDE 4.3 reaches a stage of complete maturity, the last remaining applications
 
 
 
-[![](http://giannaros.org/suse/images/11.2/knet1.jpeg)](http://giannaros.org/suse/images/11.2/knet1.jpeg) [![](http://giannaros.org/suse/images/11.2/knet2.jpeg)](http://giannaros.org/suse/images/11.2/knet2.jpeg)
+[![](//giannaros.org/suse/images/11.2/knet1.jpeg)](//giannaros.org/suse/images/11.2/knet1.jpeg) [![](//giannaros.org/suse/images/11.2/knet2.jpeg)](//giannaros.org/suse/images/11.2/knet2.jpeg)
 
 
 
@@ -95,7 +95,7 @@ Popular applications such as Amarok, K3b and Konversation are now also included 
 
 
 
-[![](http://giannaros.org/suse/images/11.2/amarok.jpeg)](http://giannaros.org/suse/images/11.2/amarok.jpeg) [![](http://giannaros.org/suse/images/11.2/k3b.jpeg)](http://giannaros.org/suse/images/11.2/k3b.jpeg) [![](http://giannaros.org/suse/images/11.2/konv.jpeg)](http://giannaros.org/suse/images/11.2/konv.jpeg)
+[![](//giannaros.org/suse/images/11.2/amarok.jpeg)](//giannaros.org/suse/images/11.2/amarok.jpeg) [![](//giannaros.org/suse/images/11.2/k3b.jpeg)](//giannaros.org/suse/images/11.2/k3b.jpeg) [![](//giannaros.org/suse/images/11.2/konv.jpeg)](//giannaros.org/suse/images/11.2/konv.jpeg)
 
 
 
@@ -110,7 +110,7 @@ The YaST control center has now been fully ported to Qt 4, and the graphical use
 
 
 
-[![](http://giannaros.org/suse/images/11.2/yast.jpeg)](http://giannaros.org/suse/images/11.2/yast.jpeg)
+[![](//giannaros.org/suse/images/11.2/yast.jpeg)](//giannaros.org/suse/images/11.2/yast.jpeg)
 
 
 
@@ -118,7 +118,7 @@ Other modules such as software management have also been redesigned:
 
 
 
-[![](http://giannaros.org/suse/images/11.2/pm.jpeg)](http://giannaros.org/suse/images/11.2/pm.jpeg)
+[![](//giannaros.org/suse/images/11.2/pm.jpeg)](//giannaros.org/suse/images/11.2/pm.jpeg)
 
 
 
@@ -129,11 +129,11 @@ Other modules such as software management have also been redesigned:
 
 
 
-Since openSUSE started switching to [LZMA compression](http://opensuse.org/LZMA) in its RPMs and Live CDs, we have been left with a significant amount of additional space on the live CDs. This now means that several new KDE applications can be included, such as: Choqok, a twitter and identi.ca client for KDE; Yakuake; and [Marble](http://edu.kde.org/marble/): 
+Since openSUSE started switching to [LZMA compression](//opensuse.org/LZMA) in its RPMs and Live CDs, we have been left with a significant amount of additional space on the live CDs. This now means that several new KDE applications can be included, such as: Choqok, a twitter and identi.ca client for KDE; Yakuake; and [Marble](//edu.kde.org/marble/): 
 
 
 
-[![](http://giannaros.org/suse/images/11.2/choqok.jpeg)](http://giannaros.org/suse/images/11.2/choqok.jpeg)[![](http://giannaros.org/suse/images/11.2/yakuake.jpeg)](http://giannaros.org/suse/images/11.2/yakuake.jpeg)  [![](http://giannaros.org/suse/images/11.2/marble.jpeg)](http://giannaros.org/suse/images/11.2/marble.jpeg)
+[![](//giannaros.org/suse/images/11.2/choqok.jpeg)](//giannaros.org/suse/images/11.2/choqok.jpeg)[![](//giannaros.org/suse/images/11.2/yakuake.jpeg)](//giannaros.org/suse/images/11.2/yakuake.jpeg)  [![](//giannaros.org/suse/images/11.2/marble.jpeg)](//giannaros.org/suse/images/11.2/marble.jpeg)
 
 
 
@@ -175,7 +175,7 @@ Actually I've been so busy with openSUSE for the last year that I've had only li
 
 
 
- There is a feature plan for 4.4 at in the [KDE techbase](http://techbase.kde.org/Schedules/KDE4/4.4_Feature_Plan) (with some of those things possibly not happening for 4.4 and other things happing even though not being on the list), but besides that the answer is something along the lines of the answer for the previous question. I think KDE in openSUSE and the openSUSE Boosters team will keep me busy for the time coming.
+ There is a feature plan for 4.4 at in the [KDE techbase](//techbase.kde.org/Schedules/KDE4/4.4_Feature_Plan) (with some of those things possibly not happening for 4.4 and other things happing even though not being on the list), but besides that the answer is something along the lines of the answer for the previous question. I think KDE in openSUSE and the openSUSE Boosters team will keep me busy for the time coming.
 
  Some of the interesting things in 4.4 or 4.5 could be improved netbook support, porting of KMail and other KDEPIM applications to Akonadi and basically small improvements everywhere :), now that most of the base things are pretty in their place. It could mean there will be also some time for having look at some optimizations, something I'd like to have a look at myself if possible, we will see about that.
 
@@ -185,7 +185,7 @@ Actually I've been so busy with openSUSE for the last year that I've had only li
 
 
 
-You can read about them in the new.openSUSE.org [announcement article](http://news.opensuse.org/2009/10/03/introducing-the-opensuse-boosters-team/).
+You can read about them in the new.openSUSE.org [announcement article](//news.opensuse.org/2009/10/03/introducing-the-opensuse-boosters-team/).
 In a nutshell, the plan is that the team will work on helping the community making openSUSE better full-time, whatever that will require.
 
 
@@ -196,4 +196,4 @@ In a nutshell, the plan is that the team will work on helping the community maki
 
  Are you kidding :) ? Of course whoever wants to contribute is welcome. And this is not just about developers or packages, pretty much anybody can help - the KDE team could use help also with bug triaging, writing documentation and HOWTOs, helping other users, and even just running the regular IRC meeting or taking minutes for it would help.
 
- I'm quite sure we can find ways to contribute for whoever joins [our IRC meeting](http://en.opensuse.org/KDE/Meetings), our mailing list opensuse-kde@opensuse.org or the [#opensuse-kde](irc://irc.opensuse.org/opensuse-kde) IRC channel on Freenode. I hope after openSUSE 11.2 is out we will find some time for writing simple HOWTOs like 'adding a patch to KDE packages' or 'upgrading a version of a KDE application', so that people will easily be able to do things in the openSUSE Build Service that they need and that help openSUSE and KDE as well.
+ I'm quite sure we can find ways to contribute for whoever joins [our IRC meeting](//en.opensuse.org/KDE/Meetings), our mailing list opensuse-kde@opensuse.org or the [#opensuse-kde](irc://irc.opensuse.org/opensuse-kde) IRC channel on Freenode. I hope after openSUSE 11.2 is out we will find some time for writing simple HOWTOs like 'adding a patch to KDE packages' or 'upgrading a version of a KDE application', so that people will easily be able to do things in the openSUSE Build Service that they need and that help openSUSE and KDE as well.

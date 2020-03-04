@@ -178,7 +178,7 @@ The following links can be useful to you:
   * 
 
 
-_[http://en.opensuse.org/openSUSE:Artwork_guidelines](http://en.opensuse.org/openSUSE:Artwork_guidelines)_
+_[//en.opensuse.org/openSUSE:Artwork_guidelines](//en.opensuse.org/openSUSE:Artwork_guidelines)_
 
 
 
@@ -187,7 +187,7 @@ _[http://en.opensuse.org/openSUSE:Artwork_guidelines](http://en.opensuse.org/ope
   * 
 
 
-_[http://en.opensuse.org/openSUSE:Artwork_brand](http://en.opensuse.org/openSUSE:Artwork_brand)_
+_[//en.opensuse.org/openSUSE:Artwork_brand](//en.opensuse.org/openSUSE:Artwork_brand)_
 
 
 

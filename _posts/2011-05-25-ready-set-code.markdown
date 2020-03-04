@@ -28,7 +28,7 @@ And it is true that students are already experiencing the spirit of the openSUSE
 
 
 
-You can see the complete list of student projects we're working with [here](http://lists.opensuse.org/opensuse-project/2011-04/msg00495.html).
+You can see the complete list of student projects we're working with [here](//lists.opensuse.org/opensuse-project/2011-04/msg00495.html).
 
 Pavol Rusnak, our other openSUSE GSoC organizer, reminds us that there are also some long-standing tasks directly beneitting the openSUSE Project which will now be tackled by some of our student projects.
 
@@ -50,4 +50,4 @@ August 26 - Final Evaluation Deadline
 ## Stay Informed:
 
 
-Students are asked to post weekly reports. You can follow it on their blogs, which are aggregated on [Planet openSUSE](http://planet.opensuse.org/global/) or through our openSUSE [Project mailing list](mailto://opensuse-project+subscribe@opensuse.org).
+Students are asked to post weekly reports. You can follow it on their blogs, which are aggregated on [Planet openSUSE](//planet.opensuse.org/global/) or through our openSUSE [Project mailing list](mailto://opensuse-project+subscribe@opensuse.org).

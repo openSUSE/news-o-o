@@ -10,4 +10,4 @@ title: German Wiki Team Meeting
 wordpress_id: 3002
 ---
 
-http://de.opensuse.org/Wiki-Team/Meetings
+//de.opensuse.org/Wiki-Team/Meetings

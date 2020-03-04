@@ -13,7 +13,7 @@ categories:
 
 Independently of how many new application features and fixes a distribution release, doesn't matter much if the distribution doesn't look great, and users know it for sure!
 
-So, today we are proud to introduce to the world one of the [openSUSE UX members team](http://en.opensuse.org/UX_Team) - Jakub Steiner.
+So, today we are proud to introduce to the world one of the [openSUSE UX members team](//en.opensuse.org/UX_Team) - Jakub Steiner.
 
 <!-- more -->
 <table border="0" >
@@ -52,7 +52,7 @@ So, today we are proud to introduce to the world one of the [openSUSE UX members
 <td >**Homepage: **
 </td>
 
-<td >[http://jimmac.musichall.cz](http://jimmac.musichall.cz)
+<td >[//jimmac.musichall.cz](//jimmac.musichall.cz)
 </td>
 
 <td >
@@ -63,7 +63,7 @@ So, today we are proud to introduce to the world one of the [openSUSE UX members
 <td >**Blog:**
 </td>
 
-<td >[http://jimmac.musichall.cz/log](http://jimmac.musichall.cz/log)
+<td >[//jimmac.musichall.cz/log](//jimmac.musichall.cz/log)
 </td>
 
 <td >

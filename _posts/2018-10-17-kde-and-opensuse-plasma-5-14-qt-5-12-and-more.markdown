@@ -58,7 +58,7 @@ tags:
 
 [Plasma 5.14](https://www.kde.org/announcements/plasma-5.14.0.php) was released with many improvements.
 
-It was planned to have it in a released in a [Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) snapshot on the same day, but [openQA](http://open.qa) issues prevented snapshot 20181008 from getting published. Instead, Tumbleweed users got it with snapshot [20181009](https://lists.opensuse.org/opensuse-factory/2018-10/msg00153.html) on Thursday morning. Currently, 5.14.1 is staged to be accepted in Tumbleweed.
+It was planned to have it in a released in a [Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) snapshot on the same day, but [openQA](//open.qa) issues prevented snapshot 20181008 from getting published. Instead, Tumbleweed users got it with snapshot [20181009](https://lists.opensuse.org/opensuse-factory/2018-10/msg00153.html) on Thursday morning. Currently, 5.14.1 is staged to be accepted in Tumbleweed.
 
 To get it on [Leap 15](https://en.opensuse.org/Portal:15.0) (and even 42.3 with restrictions), you can add [https://en.opensuse.org/SDB:KDE_repositories#KDE_Frameworks_5.2C_Plasma_5_and_Applications](https://en.opensuse.org/SDB:KDE_repositories#KDE_Frameworks_5.2C_Plasma_5_and_Applications). Note that those are not part of the official distribution and therefore not as well supported.
 
@@ -94,7 +94,7 @@ Having an unmaintaned and complex piece of software in the distribution has seve
 
 In Tumbleweed and Leap 15, WebKit for Qt 4 is already completely removed from the distribution. For Qt5 WebKit, it's not as easy: Many applications don't work without it.
 
-The KDE team has decided to remove Qt Webkit from the default openSUSE installation. There should be minimal impact to users; the only exception is with [Marble](https://marble.kde.org) and [Digikam](https://www.digikam.org). Those will not be installed by default anymore because they still depend on Qt Webkit, but they're still available from [YaST](http://yast.opensuse.org) and zypper.
+The KDE team has decided to remove Qt Webkit from the default openSUSE installation. There should be minimal impact to users; the only exception is with [Marble](https://marble.kde.org) and [Digikam](https://www.digikam.org). Those will not be installed by default anymore because they still depend on Qt Webkit, but they're still available from [YaST](//yast.opensuse.org) and zypper.
 
 As part of the effort by the openSUSE KDE team, we submitted patches to KDE Plasma libraries and also signon-ui to switch them to use WebEngine instead.
 

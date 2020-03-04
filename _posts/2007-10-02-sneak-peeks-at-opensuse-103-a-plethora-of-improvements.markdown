@@ -13,7 +13,7 @@ categories:
 
 With this last article the [Sneak Peeks series](//news.opensuse.org/?cat=17) comes to an end for this release. But don't worry: it's tightly packed with an extra share of information on the latest openSUSE 10.3 goodies! Today we're going through all those things that either didn't get the chance to have their own article, or are extra convenient small improvements that haven't been properly covered. As you will know, it is all those extra little things that really contribute to a great user experience on the Linux desktop.
 
-Today we'll be taking a look at: the new updater applet; redesigned network card module; OpenOffice 2.3; Xfce; the new Kontact; Giver, an easy file sharing tool; KIWI, a system image generator; and much more! We'll also be getting some closing thoughts from [Andreas Jaeger](http://en.opensuse.org/User:A_jaeger), director of openSUSE, to find out about plans for the future and community contributions.
+Today we'll be taking a look at: the new updater applet; redesigned network card module; OpenOffice 2.3; Xfce; the new Kontact; Giver, an easy file sharing tool; KIWI, a system image generator; and much more! We'll also be getting some closing thoughts from [Andreas Jaeger](//en.opensuse.org/User:A_jaeger), director of openSUSE, to find out about plans for the future and community contributions.
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Today we'll be taking a look at: the new updater applet; redesigned network card
 ### openSUSE Updater as an Upgrade Tool too
 
 
-RPM "updates" are specifically defined to refer to RPM patches; for example, as issued in the [openSUSE 10.3 Update Repository](http://download.opensuse.org/update/10.3/). RPM package "upgrades" refer to any newer, full RPM package, as you would see in [Packman](http://packman.links2linux.org/) or the [openSUSE Build Service](http://download.opensuse.org/repositories).
+RPM "updates" are specifically defined to refer to RPM patches; for example, as issued in the [openSUSE 10.3 Update Repository](//download.opensuse.org/update/10.3/). RPM package "upgrades" refer to any newer, full RPM package, as you would see in [Packman](//packman.links2linux.org/) or the [openSUSE Build Service](//download.opensuse.org/repositories).
 
 In openSUSE 10.2, the openSUSE updater acted as just that -- simply an updater, providing you with all the official RPM updates. In openSUSE 10.3 however, it provides you with he option of acting like both an updater _and_ an upgrader. All you need to do is enable a simple option. Just right-click on the tray applet and select _Configure Applet..._
 
@@ -46,9 +46,9 @@ Simple!
 ### Guru Repository Merging into Packman
 
 
-[Pascal Bleser](//news.opensuse.org/?p=76) (yaloki) has long since been one of the most prominent, helpful, and commited openSUSE community developers, providing the whole community with thousands of extra packages in his [Guru repository](http://linux01.gwdg.de/~pbleser/) -- undoubtedly the second-most-popular 3rd-party repository.
+[Pascal Bleser](//news.opensuse.org/?p=76) (yaloki) has long since been one of the most prominent, helpful, and commited openSUSE community developers, providing the whole community with thousands of extra packages in his [Guru repository](//linux01.gwdg.de/~pbleser/) -- undoubtedly the second-most-popular 3rd-party repository.
 
-[Packman](http://packman.links2linux.org) has typically been the most popular openSUSE community repository, providing many RPMs and multimedia software. Although Pascal has been a packman packager for some time, it is only with openSUSE 10.3 that [he has decided](http://dev-loki.blogspot.com/2007/09/moving-to-packman.html) to fully merge all of his packages into Packman or the openSUSE Build Service (OBS). His popular Amarok rebuilds have [already been moved](http://packman.links2linux.org/package/amarok) into Packman for openSUSE 10.3 users. Other OBS repositories such as [KDE:Community](http://download.opensuse.org/repositories/KDE:/Community/) will have more of his packages integrated into it soon, too.
+[Packman](//packman.links2linux.org) has typically been the most popular openSUSE community repository, providing many RPMs and multimedia software. Although Pascal has been a packman packager for some time, it is only with openSUSE 10.3 that [he has decided](//dev-loki.blogspot.com/2007/09/moving-to-packman.html) to fully merge all of his packages into Packman or the openSUSE Build Service (OBS). His popular Amarok rebuilds have [already been moved](//packman.links2linux.org/package/amarok) into Packman for openSUSE 10.3 users. Other OBS repositories such as [KDE:Community](//download.opensuse.org/repositories/KDE:/Community/) will have more of his packages integrated into it soon, too.
 
 For openSUSE users that means one repository less to add, and hence makes the openSUSE experience even smoother.
 
@@ -81,16 +81,16 @@ Obligatory Xfce in openSUSE 10.3 screenshot:
 ### openSUSE Community Translations
 
 
-Users have been able to directly contribute to the distribution with translations for some time, but it is only in openSUSE 10.3 that community users can lead and be in charge of all translations, including all tier1 languages (Spanish, German, French, etc). So far all the [localization teams](http://en.opensuse.org/OpenSUSE_Localization_Teams) have done a great job, as is reflected in the [openSUSE Localization Portal](http://i18n.opensuse.org/) in the [Statistics area](http://i18n.opensuse.org/stats/trunk/index.php). 
+Users have been able to directly contribute to the distribution with translations for some time, but it is only in openSUSE 10.3 that community users can lead and be in charge of all translations, including all tier1 languages (Spanish, German, French, etc). So far all the [localization teams](//en.opensuse.org/OpenSUSE_Localization_Teams) have done a great job, as is reflected in the [openSUSE Localization Portal](//i18n.opensuse.org/) in the [Statistics area](//i18n.opensuse.org/stats/trunk/index.php). 
 
-If you think that you could help with translating openSUSE into your language, please do take a look at the [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide).
+If you think that you could help with translating openSUSE into your language, please do take a look at the [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide).
 
 
 
 ### Redesigned Network Card Module
 
 
-Among other things, the openSUSE [User eXperience](http://en.opensuse.org/UX) team has been working on improving usability in the YaST [network card module](http://en.opensuse.org/YaST/Network_Card_Module). After conducting a large [network card survey](http://files.opensuse.org/opensuse/en/b/b5/Summary_NW_YaST2.pdf) the new module was launched into factory with a different organisation, making it easier to accomplish all tasks. The new one is simpler, clearer, and better reflects the more common situations  and usage of the network card module:
+Among other things, the openSUSE [User eXperience](//en.opensuse.org/UX) team has been working on improving usability in the YaST [network card module](//en.opensuse.org/YaST/Network_Card_Module). After conducting a large [network card survey](//files.opensuse.org/opensuse/en/b/b5/Summary_NW_YaST2.pdf) the new module was launched into factory with a different organisation, making it easier to accomplish all tasks. The new one is simpler, clearer, and better reflects the more common situations  and usage of the network card module:
 
 
 
@@ -104,7 +104,7 @@ Among other things, the openSUSE [User eXperience](http://en.opensuse.org/UX) te
 
 
 
-OpenOffice.org developers, which includes many SUSE developers, have been working hard over the past few months to get the new [2.3 release out](http://development.openoffice.org/releases/2.3.0.html). With every release it consistently proves to be the most comprehensive office suite available, with countless fixes and features.
+OpenOffice.org developers, which includes many SUSE developers, have been working hard over the past few months to get the new [2.3 release out](//development.openoffice.org/releases/2.3.0.html). With every release it consistently proves to be the most comprehensive office suite available, with countless fixes and features.
 
 
 
@@ -112,7 +112,7 @@ OpenOffice.org developers, which includes many SUSE developers, have been workin
 
 
 
-As always, openSUSE 10.2, 10.1 and 10.0 OpenOffice.org 2.3 packages are available in the [OpenOffice.org:/STABLE](http://download.opensuse.org/repositories/OpenOffice.org:/STABLE/) build service repository.
+As always, openSUSE 10.2, 10.1 and 10.0 OpenOffice.org 2.3 packages are available in the [OpenOffice.org:/STABLE](//download.opensuse.org/repositories/OpenOffice.org:/STABLE/) build service repository.
 
 
 
@@ -150,7 +150,7 @@ This new feature makes life a lot easier for those who have many folders around 
 ### Giver - Easy Local File Sharing
 
 
-Another tremendously helpful application that came as the result of [Hack Week](http://idea.opensuse.org) was a nice new application called [Giver](http://idea.opensuse.org/content/ideas/easy-file-sharing). This little application docks into your system tray, and when you open it up you can see a list of all the users on your network who have Giver open:
+Another tremendously helpful application that came as the result of [Hack Week](//idea.opensuse.org) was a nice new application called [Giver](//idea.opensuse.org/content/ideas/easy-file-sharing). This little application docks into your system tray, and when you open it up you can see a list of all the users on your network who have Giver open:
 
 
 
@@ -171,9 +171,9 @@ Giver requires absolutely no extra configuration to get it up-and-running. All y
 ### KIWI -- Roll Your own System Images
 
 
-One of the most significant ongoing projects in openSUSE is [KIWI](http://opensuse.org/KIWI) -- a tool for building all kinds of system images. The eventual plan is to integrate KIWI with the [openSUSE Build Service](http://opensuse.org/Build_Service), but it offers a huge range of capabilities even right now. 
+One of the most significant ongoing projects in openSUSE is [KIWI](//opensuse.org/KIWI) -- a tool for building all kinds of system images. The eventual plan is to integrate KIWI with the [openSUSE Build Service](//opensuse.org/Build_Service), but it offers a huge range of capabilities even right now. 
 
-Unlike other system image tools, KIWI is _completely configurable_ and has a very clean design. You can specify _exactly_ the packages that you want, and you can build a full range of images including Live CDs, Installer Images, virtualisation systems like QEMU/VMware and Xen images, network (pxe) images and more. It is even now used as the base for [LTSP in openSUSE](http://en.opensuse.org/LTSP).
+Unlike other system image tools, KIWI is _completely configurable_ and has a very clean design. You can specify _exactly_ the packages that you want, and you can build a full range of images including Live CDs, Installer Images, virtualisation systems like QEMU/VMware and Xen images, network (pxe) images and more. It is even now used as the base for [LTSP in openSUSE](//en.opensuse.org/LTSP).
 
 KIWI now even has a nice graphical front-end in the form of the _Image Creator_ YaST module, which means you can create images without using the shell at all.
 
@@ -190,7 +190,7 @@ This makes it much easier to select exactly the packages you want, add in extra 
 
 
 
-As usual, openSUSE 10.3 will of course come with all the usual latest free and open source software. Take a look at the [Product_Highlights/10.3](http://en.opensuse.org/Product_Highlights/10.3) page on the wiki to get a quick run-down.
+As usual, openSUSE 10.3 will of course come with all the usual latest free and open source software. Take a look at the [Product_Highlights/10.3](//en.opensuse.org/Product_Highlights/10.3) page on the wiki to get a quick run-down.
 
 
 ### openSUSE 10.3 is coming!
@@ -213,9 +213,9 @@ I caught up with former project manager and current director at openSUSE, Andrea
 
 On the one hand the usual management stuff like tutoring people, planning products and budgets.  Currently my highest priority is trying to help the team to get openSUSE 10.3 released. This includes testing of the distribution - I'm writing this from an openSUSE 10.3 RC2 system - including doing some extra tests like for the bootloader, advising on what next steps to do, discussing technical problems, getting extra help to test and fix the last pieces, advising on the schedule and reviewing marketing material for 10.3.
 
-In general I'll try to look at the project overall and work with internal and external stake holders on how to make the openSUSE project successful. One step is our opening of a position for an [openSUSE chief evangelist](http://www.novell.com/job_search/servlet/eJobSearch?Detail=007086).
+In general I'll try to look at the project overall and work with internal and external stake holders on how to make the openSUSE project successful. One step is our opening of a position for an [openSUSE chief evangelist](//www.novell.com/job_search/servlet/eJobSearch?Detail=007086).
 
-I've been also involved with forming the first openSUSE board and once 10.3 is out, we will move forward with it and enact the [Guiding Principles](http://opensuse.org/Guiding_Principles) as well.
+I've been also involved with forming the first openSUSE board and once 10.3 is out, we will move forward with it and enact the [Guiding Principles](//opensuse.org/Guiding_Principles) as well.
 
 
 
@@ -242,12 +242,12 @@ We also want to make it easier for others to setup their own build service - thi
 
 
 
-### Particularly for openSUSE 10.3, there have been some great new development contributions from the community like the [Package Search](http://packages.opensuse-community.org), [1-Click-Install](//news.opensuse.org/?p=133), [LTSP](http://en.opensuse.org/LTSP), [webpin](http://dev-loki.blogspot.com/2007/07/webpin-command-line-client.html), and [Compiz Fusion](//news.opensuse.org/?p=167) packages. What things in the future will make it even easier for the community to get involved?
+### Particularly for openSUSE 10.3, there have been some great new development contributions from the community like the [Package Search](//packages.opensuse-community.org), [1-Click-Install](//news.opensuse.org/?p=133), [LTSP](//en.opensuse.org/LTSP), [webpin](//dev-loki.blogspot.com/2007/07/webpin-command-line-client.html), and [Compiz Fusion](//news.opensuse.org/?p=167) packages. What things in the future will make it even easier for the community to get involved?
 
 
-For development, we concentrate on the openSUSE build service. Currently we have an internal build system and the external buildservice but this is a one way system since [Adrian](http://en.opensuse.org/User:AdrianSuSE) has to sync the packages out to the external build service (and automatically to the factory distribution). My highest priority is to make it easier that community members can maintain packages so that they will end without many manual steps in the factory distribution.  Adrian and [Klaas](http://en.opensuse.org/User:Kfreitag) have written about the source handling on the build service mailing list.
+For development, we concentrate on the openSUSE build service. Currently we have an internal build system and the external buildservice but this is a one way system since [Adrian](//en.opensuse.org/User:AdrianSuSE) has to sync the packages out to the external build service (and automatically to the factory distribution). My highest priority is to make it easier that community members can maintain packages so that they will end without many manual steps in the factory distribution.  Adrian and [Klaas](//en.opensuse.org/User:Kfreitag) have written about the source handling on the build service mailing list.
 
-We are also working on enhancing KIWI so that everybody can create custom images - both Live images as well as installation images.  This will allow users to do their own distributions or add-on products like the [Education AddOn CD](http://opensuse.org/Education) that is worked on for 10.3.
+We are also working on enhancing KIWI so that everybody can create custom images - both Live images as well as installation images.  This will allow users to do their own distributions or add-on products like the [Education AddOn CD](//opensuse.org/Education) that is worked on for 10.3.
 
 
 ### Thanks!

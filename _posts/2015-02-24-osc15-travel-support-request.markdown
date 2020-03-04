@@ -41,7 +41,7 @@ The goal of the TSP is to help everybody in and around openSUSE to be able to go
 
 The application period will be opened from February 24th to March 5th. The approval results will be done by TSP App on March 9th and the sponsoship acception must to be done until March 12th. In case the requester doesn’t Approve the sponsorship the amount will be given for the next on the waiting list.
 
-_Remember: All requests will be managed through the TSP application at http://connect.opensuse.org/travel-support._
+_Remember: All requests will be managed through the TSP application at //connect.opensuse.org/travel-support._
 
 You will need an openSUSE Connect account in order to log in the application and apply for sponsorship. Please be sure to fullfil all of your personal details at openSUSE connect account to avoid delays or negative request. A good application with good information will be processed faster.<!-- more -->
 
@@ -50,7 +50,7 @@ You will need an openSUSE Connect account in order to log in the application and
 
 
 	
-  * ****Please read the **[**TSP**](http://opensuse.org/openSUSE:Travel_Support_Program)** page carefully before you apply.****
+  * ****Please read the **[**TSP**](//opensuse.org/openSUSE:Travel_Support_Program)** page carefully before you apply.****
 
 	
   * Any information you send to the Travel Committee will be private.

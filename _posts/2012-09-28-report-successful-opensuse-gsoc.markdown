@@ -20,7 +20,7 @@ Nine of our students successfully completed their projects, and we’d like to s
 ### [Beautiful 1-Click Install](https://github.com/openSUSE/one-click-installer), by Saurabh Sood
 
 
-One of openSUSE’s features is the “one click installer”, which allows a user to go to[software.opensuse.org](http://software.opensuse.org/), select a package they want to install, click on a link, and then an installer is launched that handles all of the package dependency issues.  Up until this summer, the installer wasn’t very visually appealing.  Saurabh made a great deal of progress, as you can see in some of the [screenshots on his weblog](http://iamsaurabh.wordpress.com/2012/08/12/gsoc-status-12/), and we’re all looking forward to getting it into the main distribution.
+One of openSUSE’s features is the “one click installer”, which allows a user to go to[software.opensuse.org](//software.opensuse.org/), select a package they want to install, click on a link, and then an installer is launched that handles all of the package dependency issues.  Up until this summer, the installer wasn’t very visually appealing.  Saurabh made a great deal of progress, as you can see in some of the [screenshots on his weblog](//iamsaurabh.wordpress.com/2012/08/12/gsoc-status-12/), and we’re all looking forward to getting it into the main distribution.
 [caption id="attachment_14167" align="alignright" width="300"]![Software Center on Fedora](/wp-content/uploads/2012/09/software-center-pk-fedora.png) Software Center on Fedora[/caption]
 
 
@@ -29,21 +29,21 @@ One of openSUSE’s features is the “one click installer”, which allows a us
 
 Matthias tackled the challenge of making the [PackageKit-based software center](https://gitorious.org/appstream/software-center) work nicely on several distributions. He quickly found out that PackageKit needed some tuning. The project therefore became more focus on PackageKit than on the Software Center: Matthias improved performance of PackageKit, in big part thanks to the new support for parallel transactions he implemented and to backend API changes. He also made fixes and improvements to the software center itself, which is now super fast and work better on non-Ubuntu distributions. On top of that, a[new library to handle the appstream metadata](https://gitorious.org/appstream/appstream-core) (describe applications) was created during GSoC, and will be used by several other projects. More work will keep happening after GSoC.
 
-Read [Matthias’ final report](http://blog.tenstral.net/2012/08/gsoc-appstream-final-report.html).
+Read [Matthias’ final report](//blog.tenstral.net/2012/08/gsoc-appstream-final-report.html).
 
 
 
 ### openSUSE Karma plugin for openSUSE Connect, by Priyanka M
 
 
-openSUSE has a social network called “Connect”.  This summer, Priyanka wrote a [karma plugin](http://en.opensuse.org/Karma) that functions similar to StackOverflow’s reputation system.  openSUSE users get karma points for things like Bugzilla activity, or promoting openSUSE in social media.
+openSUSE has a social network called “Connect”.  This summer, Priyanka wrote a [karma plugin](//en.opensuse.org/Karma) that functions similar to StackOverflow’s reputation system.  openSUSE users get karma points for things like Bugzilla activity, or promoting openSUSE in social media.
 
 
 
 ### osc2 client, by Marcus Hüwe
 
 
-The [Open Build Service](http://build.opensuse.org/) is a service that openSUSE provides to allow people to easily build packages for a variety of distributions like openSUSE, SLES, Fedora, and Ubuntu.  The command line client for interacting with this service is osc.  This summer, Marcus continued his previous GSoC work on the second version of the client.
+The [Open Build Service](//build.opensuse.org/) is a service that openSUSE provides to allow people to easily build packages for a variety of distributions like openSUSE, SLES, Fedora, and Ubuntu.  The command line client for interacting with this service is osc.  This summer, Marcus continued his previous GSoC work on the second version of the client.
 
 
 
@@ -55,18 +55,18 @@ The [Open Build Service](http://build.opensuse.org/) is a service that openSUS
 
 
 
-### Redesign fdisk to be more extensible and implement GPT support, by [Davidlohr Bueso](http://blog.stgolabs.net/)
+### Redesign fdisk to be more extensible and implement GPT support, by [Davidlohr Bueso](//blog.stgolabs.net/)
 
 
-Davidlohr worked [upstream](http://git.kernel.org/?p=utils%2Futil-linux%2Futil-linux.git&a=search&h=HEAD&st=commit&s=Davidlohr) on refactoring and modernising fdisk. He managed to clean up and modularize a lot of complicated fdisk code, which will make it easier in the future to support more disklabels and add more functionality, as well as creating planned libfdisk library. Davidlohr also submitted a patch which implements basic support for the GPT disk label.
+Davidlohr worked [upstream](//git.kernel.org/?p=utils%2Futil-linux%2Futil-linux.git&a=search&h=HEAD&st=commit&s=Davidlohr) on refactoring and modernising fdisk. He managed to clean up and modularize a lot of complicated fdisk code, which will make it easier in the future to support more disklabels and add more functionality, as well as creating planned libfdisk library. Davidlohr also submitted a patch which implements basic support for the GPT disk label.
 
 [caption id="attachment_14168" align="alignright" width="300"]![One Click Install while still work in progress](/wp-content/uploads/2012/09/oc1.png) One Click Install while still work in progress[/caption]
 
 
-### Scanny, by [Piotr Niełacny](http://ruby-blog.pl/)
+### Scanny, by [Piotr Niełacny](//ruby-blog.pl/)
 
 
-[Scanny](https://github.com/openSUSE/scanny) is a Ruby on Rails security scanner, which parses Ruby files, looks for suspicious patterns, and produces a report.  Piotr added new security checks (mostly based on checks in the older [Perl-based scanner](http://gitorious.org/code-scanner/ror-sec-scanner/)). He also designed and implemented a proper command-line interface and tested the project on several real-world applications, which led to various performance gains and other improvements.
+[Scanny](https://github.com/openSUSE/scanny) is a Ruby on Rails security scanner, which parses Ruby files, looks for suspicious patterns, and produces a report.  Piotr added new security checks (mostly based on checks in the older [Perl-based scanner](//gitorious.org/code-scanner/ror-sec-scanner/)). He also designed and implemented a proper command-line interface and tested the project on several real-world applications, which led to various performance gains and other improvements.
 
 
 

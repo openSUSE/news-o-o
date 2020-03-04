@@ -21,7 +21,7 @@ The openSUSE team is proud to announce the first Beta release of openSUSE 10.3. 
 
 
 [![CD Boot Screen](//news.opensuse.org/wp-content/uploads/2007/08/103_cdboot_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/103_cdboot.png)  [![Default Background](//news.opensuse.org/wp-content/uploads/2007/08/background_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/background.png) [![SUSE greeter](//news.opensuse.org/wp-content/uploads/2007/08/susegreeter_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/08/susegreeter.png)
-For some more screenshots head over to [Screenshots/openSUSE_10.3](http://en.opensuse.org/Screenshots/openSUSE_10.3) on the wiki.
+For some more screenshots head over to [Screenshots/openSUSE_10.3](//en.opensuse.org/Screenshots/openSUSE_10.3) on the wiki.
 
 
 ### Desktop Advances
@@ -29,7 +29,7 @@ For some more screenshots head over to [Screenshots/openSUSE_10.3](http://en.ope
 
 **1-Click Install:** As we [recently announced](//news.opensuse.org/?p=102), the openSUSE Build Service front-end got a complete makeover and now also utilizes the new _One-Click Install_ technology. This new feature allows you to install applications at the single click of a button. More announcements on the way this is used are to come.
 
-**KDE 4:** In the early stages of development we noted that openSUSE was to be among the early adopters of KDE 4.0, and we can start to see this coming through in openSUSE 10.3. The latest stable KDE 3.5.7 is included as the default KDE session, but this release also includes some KDE 4 applications (such as KDE games) in by default. All other parts of KDE 4 are directly available in the official online repositories, and of course the [KDE 4 repository](http://opensuse.org/KDE4) in the openSUSE Build Service will continue to regularly release snapshots.
+**KDE 4:** In the early stages of development we noted that openSUSE was to be among the early adopters of KDE 4.0, and we can start to see this coming through in openSUSE 10.3. The latest stable KDE 3.5.7 is included as the default KDE session, but this release also includes some KDE 4 applications (such as KDE games) in by default. All other parts of KDE 4 are directly available in the official online repositories, and of course the [KDE 4 repository](//opensuse.org/KDE4) in the openSUSE Build Service will continue to regularly release snapshots.
 
 
 ### New Media Selection
@@ -43,9 +43,9 @@ This new release has a few changes in media, which also includes two new CDs: on
 ### Under the Hood
 
 
-**New Package Management:** The new package management system ([libzypp](http://opensuse.org/Libzypp)) is a significant improvement over the old one offering you many advanced features, increased reliability, and an incredible speed-up.
+**New Package Management:** The new package management system ([libzypp](//opensuse.org/Libzypp)) is a significant improvement over the old one offering you many advanced features, increased reliability, and an incredible speed-up.
 
-**Improved Boot Time:** Improvements in boot time were frequently-suggested enhancement requests from openSUSE users. As the result of continued tests ([1](http://opensuse.org/Boottime), [2](http://opensuse.org)), we can now release the first set of improvements to the init (boot) scripts, with even more to come in the future.
+**Improved Boot Time:** Improvements in boot time were frequently-suggested enhancement requests from openSUSE users. As the result of continued tests ([1](//opensuse.org/Boottime), [2](//opensuse.org)), we can now release the first set of improvements to the init (boot) scripts, with even more to come in the future.
 
 **Other:**
 
@@ -81,7 +81,7 @@ This new release has a few changes in media, which also includes two new CDs: on
 
 It has only been one week since Alpha 7, but we have seen 575 package submissions since then, so we have got plenty of features finished. As a consequence you will also find a few more bugs around, so do not be too surprised when you find these..
 
-A more detailed list of changes is available via the [Factory/News](http://opensuse.org/Factory/News) page.
+A more detailed list of changes is available via the [Factory/News](//opensuse.org/Factory/News) page.
 
 
 ## Information and Download
@@ -111,7 +111,7 @@ A more detailed list of changes is available via the [Factory/News](http://opens
   * Missing calculation of installing RPM size ([Bug 293039](https://bugzilla.novell.com/show_bug.cgi?id=293039))
 
 
-See the [Bugs:Most_Annoying_Bugs_10.3_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev) page on the wiki for an up-to-date list.
+See the [Bugs:Most_Annoying_Bugs_10.3_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev) page on the wiki for an up-to-date list.
 
 
 ### Call for Testing
@@ -124,7 +124,7 @@ If you want to help testing our standard test-cases, please coordinate with othe
 
 
 	
-  * The new HAL version unfortunately missed the deadline and we did not want to rush it in late. So we're asking everyone to test the HAL update from [home:/dkukawka:/hal-beta/openSUSE_Factory/](http://download.opensuse.org/repositories/home:/dkukawka:/hal-beta/openSUSE_Factory/) after installation and test if their devices are correctly recognized, if your  burn applications behave correctly, etc. Our internal QA will do the same and we will integrate this into Factory as soon as possible.
+  * The new HAL version unfortunately missed the deadline and we did not want to rush it in late. So we're asking everyone to test the HAL update from [home:/dkukawka:/hal-beta/openSUSE_Factory/](//download.opensuse.org/repositories/home:/dkukawka:/hal-beta/openSUSE_Factory/) after installation and test if their devices are correctly recognized, if your  burn applications behave correctly, etc. Our internal QA will do the same and we will integrate this into Factory as soon as possible.
 
 
 
@@ -132,30 +132,30 @@ If you want to help testing our standard test-cases, please coordinate with othe
 ### Media and Download
 
 
-openSUSE 10.3 Beta 1 for i386, x86-64 and ppc comes as different media sets, all of which can be downloaded from **[http://software.opensuse.org/developer](http://software.opensuse.org/developer)**:
+openSUSE 10.3 Beta 1 for i386, x86-64 and ppc comes as different media sets, all of which can be downloaded from **[//software.opensuse.org/developer](//software.opensuse.org/developer)**:
 
 
 
 	
-  * 1 DVD containing OSS and NonOSS software (torrents for: [i386](http://download.opensuse.org/distribution/10.3-Beta1/iso/torrent/openSUSE-10.3-Beta1-DVD-i386.torrent), [x86_64](http://download.opensuse.org/distribution/10.3-Beta1/iso/torrent/openSUSE-10.3-Beta1-DVD-x86_64.torrent), [ppc](http://download.opensuse.org/distribution/10.3-Beta1/iso/torrent/openSUSE-10.3-Beta1-DVD-ppc.torrent))
+  * 1 DVD containing OSS and NonOSS software (torrents for: [i386](//download.opensuse.org/distribution/10.3-Beta1/iso/torrent/openSUSE-10.3-Beta1-DVD-i386.torrent), [x86_64](//download.opensuse.org/distribution/10.3-Beta1/iso/torrent/openSUSE-10.3-Beta1-DVD-x86_64.torrent), [ppc](//download.opensuse.org/distribution/10.3-Beta1/iso/torrent/openSUSE-10.3-Beta1-DVD-ppc.torrent))
 
 	
-  * 1 CD with a default KDE installation ([i386](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-KDE-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-KDE-x86_64.iso), not for ppc)
+  * 1 CD with a default KDE installation ([i386](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-KDE-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-KDE-x86_64.iso), not for ppc)
 
 	
-  * 1 CD with a default GNOME installation ([i386](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-GNOME-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-GNOME-x86_64.iso), not for ppc)
+  * 1 CD with a default GNOME installation ([i386](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-GNOME-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-GNOME-x86_64.iso), not for ppc)
 
 	
-  * 1 AddOn CD with only NonOSS packages on it ([i386 or x86_64](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-NonOSS-BiArch.iso), [ppc](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-NonOSS-ppc.iso))
+  * 1 AddOn CD with only NonOSS packages on it ([i386 or x86_64](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-NonOSS-BiArch.iso), [ppc](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-NonOSS-ppc.iso))
 
 	
-  * 1 AddOn CD with language packages that are used for extra languages (the DVD contains support for english, french, italian, spanish, german, chinese, japanese, czech, danish, norwegian, khmer, hungarian, polish; the DVD has support for installation in all languages, just extra packages are only on this extra media) ([i386](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-Lang-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-Lang-x86_64.iso), [ppc](http://download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-Lang-ppc.iso))
+  * 1 AddOn CD with language packages that are used for extra languages (the DVD contains support for english, french, italian, spanish, german, chinese, japanese, czech, danish, norwegian, khmer, hungarian, polish; the DVD has support for installation in all languages, just extra packages are only on this extra media) ([i386](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-Lang-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-Lang-x86_64.iso), [ppc](//download.opensuse.org/distribution/10.3-Beta1/iso/cd/openSUSE-10.3-Beta1-Addon-Lang-ppc.iso))
 
 	
   * DVD/CDs containing the sources corresponding to the media
 
 
-We have created Delta ISOs from openSUSE 10.3 Alpha 7; please use them for download. The DVDs and the source media are only available via bittorrent. For more information, links to sources and the Delta ISOs, see the [development version](http://opensuse.org/Development_Version) wiki page.
+We have created Delta ISOs from openSUSE 10.3 Alpha 7; please use them for download. The DVDs and the source media are only available via bittorrent. For more information, links to sources and the Delta ISOs, see the [development version](//opensuse.org/Development_Version) wiki page.
 
 
 ### Comments, Feedback and Helping
@@ -163,8 +163,8 @@ We have created Delta ISOs from openSUSE 10.3 Alpha 7; please use them for downl
 
 openSUSE 10.3 Beta 1 is a great time to start testing-out openSUSE 10.3 before it is officially released. You can directly help and contribute to the openSUSE distribution by filing bug reports and giving feedback to the developers.
 
-Please report all bugs you find on in our Bugzilla as explained on [bugs.openSUSE.org](http://bugs.opensuse.org/). Discussion and feedback is very welcome as well; the most appropriate place is the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. If you have specific bug queries or are thinking of helping by filing bugs, please also stop by for our first-ever [Bug Slashing Weekend](http://en.opensuse.org/Bug_Slashing) starting this Saturday!
+Please report all bugs you find on in our Bugzilla as explained on [bugs.openSUSE.org](//bugs.opensuse.org/). Discussion and feedback is very welcome as well; the most appropriate place is the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. If you have specific bug queries or are thinking of helping by filing bugs, please also stop by for our first-ever [Bug Slashing Weekend](//en.opensuse.org/Bug_Slashing) starting this Saturday!
 
-For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
+For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](//opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 2 on Thursday, August 23.
+The next [planned release](//en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 2 on Thursday, August 23.

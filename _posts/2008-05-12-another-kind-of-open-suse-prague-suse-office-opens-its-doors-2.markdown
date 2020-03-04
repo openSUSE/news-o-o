@@ -15,4 +15,4 @@ The Novell/SUSE development offices in Prague, Czech Republic have on the 15th a
 
 This event is for local people who are interested to experience how it is going in our Prague office, how developers look when they are working, what funny stuff we have done so far etc. This event is especially for people who are joining or thinking of joining the community - and like to get to talk live with some real persons that are working on openSUSE.
 
-Detailed information are provided in Czech language only on [http://www.suse.cz/akce/otevrenesuse08.html](http://www.suse.cz/akce/otevrenesuse08.html). If you need details in English or have further questions, please contact [office@suse.cz](mailto:office@suse.cz).
+Detailed information are provided in Czech language only on [//www.suse.cz/akce/otevrenesuse08.html](//www.suse.cz/akce/otevrenesuse08.html). If you need details in English or have further questions, please contact [office@suse.cz](mailto:office@suse.cz).

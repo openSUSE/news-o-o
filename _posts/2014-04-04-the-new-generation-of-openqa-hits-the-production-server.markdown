@@ -12,7 +12,7 @@ categories:
 - Infrastructure
 ---
 
-Bad news for the bugs: the new version of openQA is ready for prime time. Everybody following the [blog of the openSUSE Team @ SUSE](http://lizards.opensuse.org/author/calumma/) or the Factory mailing list during the last months, should be aware of the ongoing work to improve openQA and to promote it into a key component of the openSUSE integration process. Finally the new openQA is ready for public production environments, so thanks to the collaboration between the openSUSE Team and the original developers of openQA -[Bernhard M. Wiedemann](http://lizards.opensuse.org/author/bmwiedemann/) and [Dominik Heidler](http://www.heidler.eu/)- it's finally deployed and accessible at [openqa.opensuse.org](https://openqa.opensuse.org/)
+Bad news for the bugs: the new version of openQA is ready for prime time. Everybody following the [blog of the openSUSE Team @ SUSE](//lizards.opensuse.org/author/calumma/) or the Factory mailing list during the last months, should be aware of the ongoing work to improve openQA and to promote it into a key component of the openSUSE integration process. Finally the new openQA is ready for public production environments, so thanks to the collaboration between the openSUSE Team and the original developers of openQA -[Bernhard M. Wiedemann](//lizards.opensuse.org/author/bmwiedemann/) and [Dominik Heidler](//www.heidler.eu/)- it's finally deployed and accessible at [openqa.opensuse.org](https://openqa.opensuse.org/)
 
 
 

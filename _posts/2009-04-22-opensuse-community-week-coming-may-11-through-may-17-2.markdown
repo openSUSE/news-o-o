@@ -66,7 +66,7 @@ The community week is being organized in several topic areas, so you can attend 
 
 
 
-See the [Community Week](http://en.opensuse.org/CommunityWeek) page for more information on each topic. The openSUSE Board will also be posting session times to meet with the board members online and suggest improvements for the project.
+See the [Community Week](//en.opensuse.org/CommunityWeek) page for more information on each topic. The openSUSE Board will also be posting session times to meet with the board members online and suggest improvements for the project.
 
 
 
@@ -80,4 +80,4 @@ Are we missing any topics? Feel free to take ownership of a topic and post it on
 
 
 
-Most importantly, help us spread the news -- we're looking to reach as many new contributors as possible. You can find the counter on the [openSUSE site](http://counter.opensuse.org/communityweek/) and [instructions on using different sized banners on Pascal Bleser's site](http://dev-loki.blogspot.com/2009/04/opensuse-community-week-countdown.html).
+Most importantly, help us spread the news -- we're looking to reach as many new contributors as possible. You can find the counter on the [openSUSE site](//counter.opensuse.org/communityweek/) and [instructions on using different sized banners on Pascal Bleser's site](//dev-loki.blogspot.com/2009/04/opensuse-community-week-countdown.html).

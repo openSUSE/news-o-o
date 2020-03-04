@@ -22,18 +22,18 @@ But still, there's a lot to do and we urgently need even more engaged community 
 - openSUSE 11.2 Box Product for 30 reviewed pages
 - Chumby for MVP (see below)
 
-After completing the whole Reviewing for both the English and the German wiki, the MVP, i.e. that particular community member with the very most reviewed pages will receive a special prize to honor his/her engagement, a [Chumby](http://www.chumby.com/). Certainly, if the MVP isn't easily identified, we'll find a work-around for that situation too. While I hope that this goes without saying, please do your reviewing with care (our goal is to come up with something awesome) .. "free-riding" certainly won't be honored, our efforts are very important to the success of the openSUSE Project.
+After completing the whole Reviewing for both the English and the German wiki, the MVP, i.e. that particular community member with the very most reviewed pages will receive a special prize to honor his/her engagement, a [Chumby](//www.chumby.com/). Certainly, if the MVP isn't easily identified, we'll find a work-around for that situation too. While I hope that this goes without saying, please do your reviewing with care (our goal is to come up with something awesome) .. "free-riding" certainly won't be honored, our efforts are very important to the success of the openSUSE Project.
 
 OK, in order to get started, please have a look at the Transition Guidelines[1a/b] and the Transition Tables[2a/b] for the English and the German Wiki respectively:
 
-[1a] [http://en.opensuse.org/Transition_Guidelines#Step_1_:_Articles_review](http://en.opensuse.org/Transition_Guidelines#Step_1_:_Articles_review)
-[1b] [http://en.opensuse.org/Transition_list_table](http://en.opensuse.org/Transition_list_table)
-[2a] [http://de.opensuse.org/Transition_Guidelines#Schritt_1_:_Artikel_sichten](http://de.opensuse.org/Transition_Guidelines#Schritt_1_:_Artikel_sichten)
-[2b] [http://de.opensuse.org/Übertragungsliste](http://de.opensuse.org/%C3%9Cbertragungsliste)
+[1a] [//en.opensuse.org/Transition_Guidelines#Step_1_:_Articles_review](//en.opensuse.org/Transition_Guidelines#Step_1_:_Articles_review)
+[1b] [//en.opensuse.org/Transition_list_table](//en.opensuse.org/Transition_list_table)
+[2a] [//de.opensuse.org/Transition_Guidelines#Schritt_1_:_Artikel_sichten](//de.opensuse.org/Transition_Guidelines#Schritt_1_:_Artikel_sichten)
+[2b] [//de.opensuse.org/Übertragungsliste](//de.opensuse.org/%C3%9Cbertragungsliste)
 
 Feel free to participate either in the English or the German Reviewing or both, that's up to you. Subscribing to the opensuse-wiki and/or opensuse-wiki-de mailing lists is recommended here in order to sync/keep in touch with the existing Wiki teams. Also joining the IRC channels #opensuse-wiki and/or #opensuse-wiki-de on irc.freenode.net would be appreciated for the very same purpose.
 
-Please send an email to [Rupert Horstkötter](http://en.opensuse.org/User:Rhorstkoetter) once you think you qualified for one of the prizes listed above (that certainly applies to all efforts since we started the whole Reviewing initiative .. past, present and future contributions). Special thanks goes to both [open-slx](http://open-slx.com/) and Novell for supporting this.
+Please send an email to [Rupert Horstkötter](//en.opensuse.org/User:Rhorstkoetter) once you think you qualified for one of the prizes listed above (that certainly applies to all efforts since we started the whole Reviewing initiative .. past, present and future contributions). Special thanks goes to both [open-slx](//open-slx.com/) and Novell for supporting this.
 
 Thanks a lot in advance,
 R

@@ -31,4 +31,4 @@ The current schedule, subject to changes, defines the following (all the times
  * +6:00 pm - Caldas da Rainha at night :-)
  
  
- More informations: [http://en.opensuse.org/Events/ENOS](http://en.opensuse.org/Events/ENOS) and [http://pt.opensuse.org/Eventos/ENOS](http://pt.opensuse.org/Eventos/ENOS) In ios 7 beta 4, the messages app  displayed the first name and last initial of a contact in a conversation by default
+ More informations: [//en.opensuse.org/Events/ENOS](//en.opensuse.org/Events/ENOS) and [//pt.opensuse.org/Eventos/ENOS](//pt.opensuse.org/Eventos/ENOS) In ios 7 beta 4, the messages app  displayed the first name and last initial of a contact in a conversation by default

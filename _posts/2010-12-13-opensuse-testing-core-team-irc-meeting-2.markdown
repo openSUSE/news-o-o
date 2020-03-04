@@ -16,4 +16,4 @@ We will meet in the Channel #opensuse-testing on the Freenode IRC
 Network. irc://irc.freenode.net/opensuse-testing
 
 Please send your topics to
-[http://en.opensuse.org/openSUSE:Testing_meeting](http://en.opensuse.org/openSUSE:Testing_meeting)
+[//en.opensuse.org/openSUSE:Testing_meeting](//en.opensuse.org/openSUSE:Testing_meeting)

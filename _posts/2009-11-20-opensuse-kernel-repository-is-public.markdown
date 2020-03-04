@@ -17,9 +17,9 @@ tags:
 
 Want to help test the openSUSE kernel? Want the very latest and greatest openSUSE Linux kernel sources? We have good news for you!
 
-After several months of preparation, the kernel team has set up a public [Git](http://git-scm.com/) repository for hosting the openSUSE kernel sources. If you'd like to work with the openSUSE Linux kernel as it's developed, please read [Kernel Git](http://en.opensuse.org/Kernel_Git) on the openSUSE wiki, which explains how to clone the repository and use it.
+After several months of preparation, the kernel team has set up a public [Git](//git-scm.com/) repository for hosting the openSUSE kernel sources. If you'd like to work with the openSUSE Linux kernel as it's developed, please read [Kernel Git](//en.opensuse.org/Kernel_Git) on the openSUSE wiki, which explains how to clone the repository and use it.
 
-The repository will be synced several times a day, providing much more up-to-date code than the [Kernel of the Day](http://ftp.suse.com/pub/projects/kernel/kotd/) (KOTD). The KOTD will continue, of course, as a useful resource for testers and developers who aren't working on the kernel.
+The repository will be synced several times a day, providing much more up-to-date code than the [Kernel of the Day](//ftp.suse.com/pub/projects/kernel/kotd/) (KOTD). The KOTD will continue, of course, as a useful resource for testers and developers who aren't working on the kernel.
 
 We hope the new Git repository will be helpful to anyone testing openSUSE kernels or building their own derivatives.
 

@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-![release counter](http://counter.opensuse.org/small.png)The openSUSE Release Team has released RC2 to the mirrors a few hours ago. A large number of bugs has been fixed and a number of packages has been updated. Major changes include PulseAudio, the kernel and Firefox. This is the last opportunity to find and fix the last few bugs before the final release, so help us by downloading RC2 from [software.opensuse.org](http://software.opensuse.org/developer), testing and reporting bugs!<!-- more -->
+![release counter](//counter.opensuse.org/small.png)The openSUSE Release Team has released RC2 to the mirrors a few hours ago. A large number of bugs has been fixed and a number of packages has been updated. Major changes include PulseAudio, the kernel and Firefox. This is the last opportunity to find and fix the last few bugs before the final release, so help us by downloading RC2 from [software.opensuse.org](//software.opensuse.org/developer), testing and reporting bugs!<!-- more -->
 
 The most important updated packages in RC2 are:
 
@@ -119,7 +119,7 @@ Additionally, rhythmbox has replaced banshee as the default audio player on the 
 
 openSUSE 12.3 final will ship with a XFCE based Rescue LiveCD. Also note that for installations, a netinstall image (which of course fits on a CD) is still available.
 
-**Get openSUSE 12.3 RC2 from [the usual place](http://software.opensuse.org/developer/).**
+**Get openSUSE 12.3 RC2 from [the usual place](//software.opensuse.org/developer/).**
 
 
 ## How you can contribute to 12.3
@@ -127,20 +127,20 @@ openSUSE 12.3 final will ship with a XFCE based Rescue LiveCD. Also note that fo
 
 Although the final release is only a week away, there are lots of ways you can make a difference.
 
-Testers can find information on how to work effectively in [the openSUSE Testing wiki](http://en.opensuse.org/openSUSE:Testing).
-You can find the current list of [the most annoying 12.3 bugs here](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.3_dev).
+Testers can find information on how to work effectively in [the openSUSE Testing wiki](//en.opensuse.org/openSUSE:Testing).
+You can find the current list of [the most annoying 12.3 bugs here](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.3_dev).
 Help us shorten that list by re-testing the problematic areas or by fixing bugs, and we love it when you help us find new important issues!
 
-Find the information portal for openSUSE 12.3 [here](http://en.opensuse.org/Portal:12.3).
+Find the information portal for openSUSE 12.3 [here](//en.opensuse.org/Portal:12.3).
 
-Screenshots of 12.3 are [here](http://en.opensuse.org/Screenshots_12.3) and here is the [Localization Guide](http://en.opensuse.org/openSUSE:Localization_guide).
+Screenshots of 12.3 are [here](//en.opensuse.org/Screenshots_12.3) and here is the [Localization Guide](//en.opensuse.org/openSUSE:Localization_guide).
 You can help promote our release by adding a release counter to your website. Pick a size, then link to the image with the usual tags:
-`http://counter.opensuse.org/small.png
-http://counter.opensuse.org/medium.png
-http://counter.opensuse.org/large.png
+`//counter.opensuse.org/small.png
+//counter.opensuse.org/medium.png
+//counter.opensuse.org/large.png
 `
 Example tags:
-`<img title="release counter" src="http://counter.opensuse.org/small.png" alt="release counter"/>`
+`<img title="release counter" src="//counter.opensuse.org/small.png" alt="release counter"/>`
 
 You can also find social media backgrounds for g+, twitter and facebook [here](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials), website banners [here](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Web%20Banners/12.3%20Web%20Banners), a cool release poster [here](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/Posters/12.3) and we've already got [slide templates](https://github.com/openSUSE/artwork/tree/master/Marketing%20Materials/openSUSE%20Introduction%20Slides) so you can present openSUSE at user groups, universities or workplaces.
 

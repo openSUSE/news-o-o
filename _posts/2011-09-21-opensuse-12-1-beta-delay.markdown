@@ -16,6 +16,6 @@ It became clear that Factory still needs some polishing to become a useful Beta 
 
 Particularly, one of the reasons is the challenges relating to the switch to use systemd by default, which means that it is also ![Man in construction hat working on pipes](/wp-content/uploads/2011/09/constructionworker.jpg)used during install and first boot (which has the special configuration stuff).  And between the timing of last week's openSUSE Conference and next week's planned Hackweek, the Factory team agreed it is better to take the time to ensure a release that meets the level of quality that our openSUSE Distro is known for.
 
-You can read more on this thread via our [mailing list archive here](http://lists.opensuse.org/opensuse-factory/2011-09/msg00965.html).
+You can read more on this thread via our [mailing list archive here](//lists.opensuse.org/opensuse-factory/2011-09/msg00965.html).
 
-This means, the Beta will be up to two weeks later than planned, and we'll be sure to let you know as soon as it is ready for download.  On the bright side, this also means you have more time to prepare for the [Beta Pizza Party](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/) in your home area.  And our final release date for openSUSE 12.1 is still targeted for November 11th.
+This means, the Beta will be up to two weeks later than planned, and we'll be sure to let you know as soon as it is ready for download.  On the bright side, this also means you have more time to prepare for the [Beta Pizza Party](//news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/) in your home area.  And our final release date for openSUSE 12.1 is still targeted for November 11th.

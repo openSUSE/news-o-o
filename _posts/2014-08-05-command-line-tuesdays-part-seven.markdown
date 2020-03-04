@@ -15,7 +15,7 @@ Heya geekos. I've checked the 'curriculum', and we're at part 7 of 8 as of today
 
 As we all know, we can have many users using one machine. To protect the users from each other, permissions have been devised. And we have already discussed file permissions, so let's refresh our memories with a single[ click](https://news.opensuse.org/2014/07/01/command-line-tuesdays-part-three/).
 
-![](http://linuxcommand.org/images/file_permissions.png)
+![](//linuxcommand.org/images/file_permissions.png)
 
 
 ##### <!-- more -->chmod

@@ -20,7 +20,7 @@ The openSUSE Project is proud to announce the openSUSE 11.0 Release Candidate 1 
 
 [![11.0](/wp-content/uploads/2008/05/110.jpeg)](/wp-content/uploads/2008/05/110.jpeg)[![YaST Software Management](/wp-content/uploads/2008/05/yast-sm.jpeg)](/wp-content/uploads/2008/05/yast-sm.jpeg)[![GNOME](/wp-content/uploads/2008/05/os110beta1-gnome0.png)](/wp-content/uploads/2008/05/os110beta1-gnome0.png)
 
-See [more](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta3) [screenshots](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta2)
+See [more](//en.opensuse.org/Screenshots/openSUSE_11.0_Beta3) [screenshots](//en.opensuse.org/Screenshots/openSUSE_11.0_Beta2)
 
 
 ## Information and Download
@@ -32,7 +32,7 @@ The first step is to download the release candidate. Please remember that RC1 is
 ### Media and Download
 
 
-You can download openSUSE 11.0 RC 1 for x86, x86_64, and PPC at **[http://software.opensuse.org/developer](http://software.opensuse.org/developer)[](http://download.opensuse.org/distribution/11.0-RC1/iso/)**. Deltas from Beta 3 are [also provided](http://download.opensuse.org/distribution/11.0-RC1/iso/delta/). Note that you will need the latest deltarpm from Factory, or for openSUSE 10.3 you can use the [home:coolo](http://download.opensuse.org/repositories/home:/coolo/openSUSE_10.3/) repository to grab it.
+You can download openSUSE 11.0 RC 1 for x86, x86_64, and PPC at **[//software.opensuse.org/developer](//software.opensuse.org/developer)[](//download.opensuse.org/distribution/11.0-RC1/iso/)**. Deltas from Beta 3 are [also provided](//download.opensuse.org/distribution/11.0-RC1/iso/delta/). Note that you will need the latest deltarpm from Factory, or for openSUSE 10.3 you can use the [home:coolo](//download.opensuse.org/repositories/home:/coolo/openSUSE_10.3/) repository to grab it.
 
 
 ### Most Annoying Bugs
@@ -51,7 +51,7 @@ This is a list of the most annoying bugs, that we're aware of, that still exist 
   * GRUB config broken for other partitions. [Bug #395085](https://bugzilla.novell.com/show_bug.cgi?id=395085)
 
 	
-  * NVIDIA driver doesn't compile. Workaround: check [ here](http://lists.opensuse.org/opensuse-kde/2008-03/msg00119.html) for a patch
+  * NVIDIA driver doesn't compile. Workaround: check [ here](//lists.opensuse.org/opensuse-kde/2008-03/msg00119.html) for a patch
 
 
 
@@ -69,13 +69,13 @@ This is a list of the most annoying bugs, that we're aware of, that still exist 
   * GNOME has wrong icon theme by default. [Bug 391865](https://bugzilla.novell.com/show_bug.cgi?id=391865)
 
 
-See the [Bugs:Most_Annoying_Bugs_11.0_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev) page on the wiki for an up-to-date list.
+See the [Bugs:Most_Annoying_Bugs_11.0_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev) page on the wiki for an up-to-date list.
 
 
 ### Call for Testing
 
 
-To help testing, take a look at [opensuse.org/Testing](http://opensuse.org/Testing), and the [Feature Test List](http://en.opensuse.org/Testing:Features_11.0) page. The Feature Test List page includes a definitive list of new features included in openSUSE 11.0.
+To help testing, take a look at [opensuse.org/Testing](//opensuse.org/Testing), and the [Feature Test List](//en.opensuse.org/Testing:Features_11.0) page. The Feature Test List page includes a definitive list of new features included in openSUSE 11.0.
 
 We need to test these features in particular, so please look through the features on the page, pick one that has not yet had its test completed, and make sure it passes. If not, be sure to file a bug in Bugzilla and mark the test "failed." See the full instructions on the Feature Test List page.
 
@@ -90,13 +90,13 @@ Here's a few ways to help:
 
 
 	
-  * **Report bugs**: If you do find a bug, be sure to report it in Bugzilla using the procedure given on [bugs.openSUSE.org](http://bugs.opensuse.org/).
+  * **Report bugs**: If you do find a bug, be sure to report it in Bugzilla using the procedure given on [bugs.openSUSE.org](//bugs.opensuse.org/).
 
 	
   * **Provide feedback**: We welcome feedback! Please join us on the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. Or in the [#opensuse-factory](irc://irc.freenode.net/opensuse-factory) IRC channel.
 
 	
-  * **Let the world know!** Be sure to spread the word about openSUSE 11.0! Blog about it, tell your Linux User Group, start planning a [Launch Party](http://en.opensuse.org/OpenSUSE_11.0_Launch_Party_Locations) -- whatever you can do to let the world know about openSUSE 11.0!
+  * **Let the world know!** Be sure to spread the word about openSUSE 11.0! Blog about it, tell your Linux User Group, start planning a [Launch Party](//en.opensuse.org/OpenSUSE_11.0_Launch_Party_Locations) -- whatever you can do to let the world know about openSUSE 11.0!
 
 
 Thanks to all the developers and contributors for all the hard work that's gone into openSUSE 11.0 so far, we've come a long way and only have a little more work to do before we have a final release. Fire up openSUSE 11.0 RC 1 and have a lot of fun!

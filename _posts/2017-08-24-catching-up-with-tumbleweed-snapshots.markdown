@@ -32,9 +32,9 @@ Release manager Dominique Leuenberger gave subscribers of the openSUSE Factory M
 
 In the email, Leuenberger lists [LibreOffice](https://www.libreoffice.org/) 5.4.0.3, [KDE Applications 17.04.3](https://www.kde.org/announcements/announce-applications-17.04.3.php), git 2.14.0 and [systemd 234](https://lists.freedesktop.org/archives/systemd-devel/2017-July/039308.html) as all being available in the Tumbleweed repositories. [PulseAudio 11](https://www.freedesktop.org/wiki/Software/PulseAudio/) RC1 and [Mozilla Firefox 52.3.0](https://www.mozilla.org/en-US/firefox/52.3.0/releasenotes/) also were updated in the snapshots between the same period.
 
-“[Flatpak](http://flatpak.org/) was reverted to the 0.8.x branch in order to provide better upgrade options in short term,” he wrote in the email.
+“[Flatpak](//flatpak.org/) was reverted to the 0.8.x branch in order to provide better upgrade options in short term,” he wrote in the email.
 
-There have been considerable challenges getting the 4.12 Linux Kernel in Tumbleweed, but Kernel 4.12.7 finally made it into Tumbleweed’s [20170817](https://lists.opensuse.org/opensuse-factory/2017-08/msg00483.html) snapshot and Kernel 4.12.8 passed [openQA](http://open.qa/) testing to finds its way into the  [20170819](https://lists.opensuse.org/opensuse-factory/2017-08/msg00514.html) snapshot a couple days later.
+There have been considerable challenges getting the 4.12 Linux Kernel in Tumbleweed, but Kernel 4.12.7 finally made it into Tumbleweed’s [20170817](https://lists.opensuse.org/opensuse-factory/2017-08/msg00483.html) snapshot and Kernel 4.12.8 passed [openQA](//open.qa/) testing to finds its way into the  [20170819](https://lists.opensuse.org/opensuse-factory/2017-08/msg00514.html) snapshot a couple days later.
 
 <!-- more -->Other packages Leuenberger wrote about that were being forged were KDE Applications 17.08.0, the YaST Team’s new libstorage-ng implementation, GNU Compiler Collection 7.2 and [Freetype](https://www.freetype.org/)2 2.8.
 

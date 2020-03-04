@@ -12,9 +12,9 @@ categories:
 - Build Service
 ---
 
-The openSUSE Project is proud to announce the 1.5 release of the [openSUSE Build Service](http://en.opensuse.org/Build_Service). This release takes developers beyond just building packages. You can now build your own distribution using the openSUSE Build Service!
+The openSUSE Project is proud to announce the 1.5 release of the [openSUSE Build Service](//en.opensuse.org/Build_Service). This release takes developers beyond just building packages. You can now build your own distribution using the openSUSE Build Service!
 
-The 1.5 release makes it possible to build entire releases within the build service. and export ISO images and FTP trees. All users can create images locally using "osc build," and permission can be granted to build images using the hosted build service as well. A presentation on[ KIWI imaging with the openSUSE Build Service](http://files.opensuse.org/opensuse/en/b/be/OBS-Imageing.pdf) can be found online (PDF).
+The 1.5 release makes it possible to build entire releases within the build service. and export ISO images and FTP trees. All users can create images locally using "osc build," and permission can be granted to build images using the hosted build service as well. A presentation on[ KIWI imaging with the openSUSE Build Service](//files.opensuse.org/opensuse/en/b/be/OBS-Imageing.pdf) can be found online (PDF).
 
 The openSUSE 11.1 release was built entirely in the openSUSE Build Service, and it's now possible for other projects to be created in the openSUSE Build Service as well. Whether you're creating a derivative distribution or product like the openSUSE Education CDs, the openSUSE Build Service now has you covered.
 
@@ -22,7 +22,7 @@ The openSUSE 11.1 release was built entirely in the openSUSE Build Service, and 
 ## Building Appliances and Live CD Images
 
 
-OBS 1.5 includes the ability to automatically calculate dependencies and create installable images, such as the [live CDs](https://build.opensuse.org/project/show?project=KDE:Medias) and [network deployment images](http://is.gd/o3Zu) for the openSUSE:Tools build hosts.
+OBS 1.5 includes the ability to automatically calculate dependencies and create installable images, such as the [live CDs](https://build.opensuse.org/project/show?project=KDE:Medias) and [network deployment images](//is.gd/o3Zu) for the openSUSE:Tools build hosts.
 
 In addition to ISO images, OBS 1.5 can create images for installable USB sticks, Xen images, and VMware images.
 

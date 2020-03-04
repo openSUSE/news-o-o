@@ -29,7 +29,7 @@ On this issue of people of openSUSE, you can read about our friendly SUSE commun
 <td width="33%" >Blog:
 </td>
 
-<td width="33%" >[blog.jospoortvliet.com](http://blog.jospoortvliet.com)
+<td width="33%" >[blog.jospoortvliet.com](//blog.jospoortvliet.com)
 </td>
 </tr>
 <tr valign="TOP" >
@@ -74,7 +74,7 @@ What do you think is missing or underrated in the distribution or the project?
 
 The communication. We have a lot of people who think talk is not important. Which is probably in part due to the fact that we also have a lot of people who think talk is all that is important. Talk is cheap. If you don't put your work in but just say "we should do X", well, that's not exactly useful I'm afraid. The limiting factor in any Free Software community is not ideas or knowing what to do. It is people who do the work. But at the same time, talk is important. To let others know what you do and prevent duplicate work. And to get the word out on what you do so you get users and new contributors. If you didn't blog about it, it didn't happen as far as the rest of the world is concerned...
 
-We have got that balance wrong. Developers stop reading our mailing lists because there are people on it who think they add valuable insight while stating the obvious, again and again. Check out http://bikeshed.com/ please ;-)
+We have got that balance wrong. Developers stop reading our mailing lists because there are people on it who think they add valuable insight while stating the obvious, again and again. Check out //bikeshed.com/ please ;-)
 
 At the same time we don't get the word out on really valuable technology like YaST, OBS and other things. Yes, we are doing better because our marketing team is becoming more and more active. But they need to know what is going on - and most of our engineers doing cool stuff barely send a mail to -project about it, let alone that they would blog about new features or mail news@opensuse.org about them! There's a task there too for people who 'just hangout on mailing lists'. If you see something cool happen, why not blog about it yourself, or let the marketing team know? And dear developers, if you do something fun - if it's worth talking about to the dude sitting next to you it is worth writing a blog about it. Nothing fancy, just post a screen shot and say what it is showing; or say it in a few words. A blog doesn't need to be a book or article!
 

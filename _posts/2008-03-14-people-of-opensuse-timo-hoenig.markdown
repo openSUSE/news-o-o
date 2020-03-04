@@ -50,7 +50,7 @@ This week we feature Timo Hönig, openSUSE Mobile Device team member, mainly wor
 <td >**Homepage: **
 </td>
 
-<td >[http://nouse.net](http://nouse.net) (not much to see there ;-)
+<td >[//nouse.net](//nouse.net) (not much to see there ;-)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ This week we feature Timo Hönig, openSUSE Mobile Device team member, mainly wor
 <td >**Blog:**
 </td>
 
-<td >[http://blog.nouse.net](http://blog.nouse.net) (it's been a while... ;-) ) Anyway, important bits of my open source stuff are being added to [http://en.opensuse/User:Thoenig](http://en.opensuse.org/User:Thoenig)
+<td >[//blog.nouse.net](//blog.nouse.net) (it's been a while... ;-) ) Anyway, important bits of my open source stuff are being added to [//en.opensuse/User:Thoenig](//en.opensuse.org/User:Thoenig)
 </td>
 
 <td >
@@ -94,7 +94,7 @@ This week we feature Timo Hönig, openSUSE Mobile Device team member, mainly wor
 <td >**Motto:**
 </td>
 
-<td >"Es gibt nichts Gutes, außer man tut es."  According to http://dict.cc it says: "Actions speak louder than words." Which is probably a little more direct than the German phrasing, but still pretty good translation.
+<td >"Es gibt nichts Gutes, außer man tut es."  According to //dict.cc it says: "Actions speak louder than words." Which is probably a little more direct than the German phrasing, but still pretty good translation.
 </td>
 
 <td >
@@ -293,7 +293,7 @@ vi.  Because it's better. Just kidding. No particular reason why I prefer it. It
 #### Which famous person would you want to join the openSUSE community?
 
 
-Bill. Ever since I saw [http://tinyurl.com/yqh42h](http://tinyurl.com/yqh42h).
+Bill. Ever since I saw [//tinyurl.com/yqh42h](//tinyurl.com/yqh42h).
 
 
 

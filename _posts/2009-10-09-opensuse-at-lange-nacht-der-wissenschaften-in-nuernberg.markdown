@@ -10,4 +10,4 @@ title: openSUSE at "Lange Nacht der Wissenschaften" in Nuernberg
 wordpress_id: 2333
 ---
 
-openSUSE participates at [Lange Nacht der Wissenschaften](http://www.nacht-der-wissenschaften.de/2009/index.php) in Nuernberg, Germany. In english this translates into "Long night of sciences" which is an evening event where in Nuernberg and surrounding many companies, project and educational institutions present their topics to the public.
+openSUSE participates at [Lange Nacht der Wissenschaften](//www.nacht-der-wissenschaften.de/2009/index.php) in Nuernberg, Germany. In english this translates into "Long night of sciences" which is an evening event where in Nuernberg and surrounding many companies, project and educational institutions present their topics to the public.

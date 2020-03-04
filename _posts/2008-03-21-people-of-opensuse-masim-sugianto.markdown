@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Today's 'People of openSUSE' interviews Masim 'Vavai' Sugianto - founder of the [Indonesian openSUSE community](http://www.opensuse.or.id/) helping users, and spreading out openSUSE to be widely used in his country!
+Today's 'People of openSUSE' interviews Masim 'Vavai' Sugianto - founder of the [Indonesian openSUSE community](//www.opensuse.or.id/) helping users, and spreading out openSUSE to be widely used in his country!
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ Today's 'People of openSUSE' interviews Masim 'Vavai' Sugianto - founder of the 
 <td >**Homepage: **
 </td>
 
-<td >[http://www.vavai.com](http://www.vavai.com), [http://www.vavai.net](http://www.vavai.net)
+<td >[//www.vavai.com](//www.vavai.com), [//www.vavai.net](//www.vavai.net)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ Today's 'People of openSUSE' interviews Masim 'Vavai' Sugianto - founder of the 
 <td >**Blog:**
 </td>
 
-<td >[http://www.vavai.com/blog/](http://www.vavai.com/blog/)
+<td >[//www.vavai.com/blog/](//www.vavai.com/blog/)
 </td>
 
 <td >
@@ -163,9 +163,9 @@ I joined the openSUSE community since its launch with the openSUSE brand name (i
 #### In what way do you participate in the openSUSE project?
 
 
-In fact, I just have a small contribution to the community. I initiated and built up a project, [Indonesian openSUSE community](http://www.opensuse.or.id) in the end of July 2007. I prepared the website / blog, create and maintain the forum, mailing list, distributing free CD, promoting openSUSE, hold a seminar or introduction event about openSUSE. I just need about 1 week to work alone, because a week after the project launched, there is a number of contributors helped me in various area.
+In fact, I just have a small contribution to the community. I initiated and built up a project, [Indonesian openSUSE community](//www.opensuse.or.id) in the end of July 2007. I prepared the website / blog, create and maintain the forum, mailing list, distributing free CD, promoting openSUSE, hold a seminar or introduction event about openSUSE. I just need about 1 week to work alone, because a week after the project launched, there is a number of contributors helped me in various area.
 
-The last 3 features provided by openSUSE-ID are : online support team, planet aggregator and free email account on [http://mail.opensuse-id.org](http://mail.opensuse-id.org)
+The last 3 features provided by openSUSE-ID are : online support team, planet aggregator and free email account on [//mail.opensuse-id.org](//mail.opensuse-id.org)
 
 The project goal of openSUSE-ID is quite simple. With more than 200 million people (assume that 50% are under age, the rest is 100 million people), openSUSE will have a great opportunity to be adopted in Indonesian.
 

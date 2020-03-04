@@ -17,7 +17,7 @@ The most recent snapshot, [20160831](https://lists.opensuse.org/opensuse-factory
 
 Users waiting for new KDE software were probably ecstatic to see KDE update all three of its projects at once in snapshot [20160830](https://lists.opensuse.org/opensuse-factory/2016-08/msg00585.html). [Plasma 5.7.4](https://www.kde.org/announcements/plasma-5.7.4.php), [Applications 16.08.0](https://www.kde.org/announcements/announce-applications-16.08.0.php) and [Frameworks 5.25.0](https://www.kde.org/announcements/kde-frameworks-5.25.0.php) all came in this enormous [20160830](https://lists.opensuse.org/opensuse-factory/2016-08/msg00585.html) snapshot that will have people scrolling down the list for a while to see what was updated. YaST was the other version updated in this snapshot.
 
-Snapshot [20160822](https://lists.opensuse.org/opensuse-factory/2016-08/msg00451.html) provided updates to [ceph](http://ceph.com/), [GNOME](https://www.gnome.org/) and YaST packages. [GTK3](http://www.gtk.org/) updated to version 3.20.9 and GNU Compiler Collection 6 update cleaned up some spec files.
+Snapshot [20160822](https://lists.opensuse.org/opensuse-factory/2016-08/msg00451.html) provided updates to [ceph](//ceph.com/), [GNOME](https://www.gnome.org/) and YaST packages. [GTK3](//www.gtk.org/) updated to version 3.20.9 and GNU Compiler Collection 6 update cleaned up some spec files.
 
 Release [20160825](https://lists.opensuse.org/opensuse-factory/2016-08/msg00498.html) updated the [Linux Kernel to 4.7.2](https://www.kernel.org/). Mozilla  had its first minor release for Firefox 48 and PHP updated to version 5.6.25. GNOME shell had an update to version 3.20.4 and YaST continues to fix bugs for openSUSE Leap and SUSE Linux Enterprise.
 

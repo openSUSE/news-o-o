@@ -20,7 +20,7 @@ The openSUSE Project is looking for students who are interested in contributing 
 
 
 
-If you're not sure whether you're qualified to join as a student, check the SoC [FAQ](http://code.google.com/opensource/gsoc/2008/faqs.html#0.1_eligibility) -- it spells out the eligibility very well. 
+If you're not sure whether you're qualified to join as a student, check the SoC [FAQ](//code.google.com/opensource/gsoc/2008/faqs.html#0.1_eligibility) -- it spells out the eligibility very well. 
 
 
 
@@ -36,13 +36,13 @@ Mentors must be signed up by April 11, and students must be matched with mentors
 
 
 
-The entire timeline is available on the [Google Summer of Code site](http://code.google.com/opensource/gsoc/2008/faqs.html#0.1_timeline).
+The entire timeline is available on the [Google Summer of Code site](//code.google.com/opensource/gsoc/2008/faqs.html#0.1_timeline).
 
 
 
 
 
-The openSUSE Project's ideas page is available [on the openSUSE wiki](http://en.opensuse.org/Summer_of_Code_2008). As you can see, we have a ton of good ideas. We're open to more, though, so feel free to add one if it's something you're particularly interested in working on.
+The openSUSE Project's ideas page is available [on the openSUSE wiki](//en.opensuse.org/Summer_of_Code_2008). As you can see, we have a ton of good ideas. We're open to more, though, so feel free to add one if it's something you're particularly interested in working on.
 
 
 

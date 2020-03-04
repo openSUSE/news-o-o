@@ -47,7 +47,7 @@ Notify the community of your release party by listing your party on the [launch 
 #### **Find a date**
 
 
-The date of a party is best during a weekend (because it’s easier for people to join, since most people work during the week), but we all function differently. Find two alternative dates for the party if you want and use[ http://www.doodle.com/](http://www.doodle.com/) to find a common date that works for most people.
+The date of a party is best during a weekend (because it’s easier for people to join, since most people work during the week), but we all function differently. Find two alternative dates for the party if you want and use[ //www.doodle.com/](//www.doodle.com/) to find a common date that works for most people.
 
 
 #### **Find a place**

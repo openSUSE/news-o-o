@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-openSUSE Leap 42.1 is now available on Amazon EC2, Google Compute Engine, and Microsoft Azure. Leap has been available on EC2 & GCE since shortly after it release; the Azure release was delayed due to a qemu bug resulting in incorrectly formatted images. These images are maintained by [SUSE's Public Cloud Engineering Team](http://suse.com/public-cloud). If you'd like to peek inside, they're developed on [Open Build Service](https://build.opensuse.org/) (OBS), in the [Cloud:Images](https://build.opensuse.org/project/show/Cloud:Images:Leap_42.1) project.
+openSUSE Leap 42.1 is now available on Amazon EC2, Google Compute Engine, and Microsoft Azure. Leap has been available on EC2 & GCE since shortly after it release; the Azure release was delayed due to a qemu bug resulting in incorrectly formatted images. These images are maintained by [SUSE's Public Cloud Engineering Team](//suse.com/public-cloud). If you'd like to peek inside, they're developed on [Open Build Service](https://build.opensuse.org/) (OBS), in the [Cloud:Images](https://build.opensuse.org/project/show/Cloud:Images:Leap_42.1) project.
 
 
 

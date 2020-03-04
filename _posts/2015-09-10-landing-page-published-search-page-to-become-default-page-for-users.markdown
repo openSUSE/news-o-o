@@ -26,6 +26,6 @@ A new search page for people already using one of the two releases will become t
 
 That page is located at [https://www.opensuse.org/searchPage/](https://www.opensuse.org/searchPage/). While the search page uses Google as a search engine, contributors are more than welcome to add additional search engines like DuckDuckGo or others. People can contribute to the page at [https://github.com/openSUSE/searchPage](https://github.com/openSUSE/searchPage)
 
-Anyone who wants to contribute to the translations of either page should subscribe to the [openSUSE translation mailing list](http://lists.opensuse.org).
+Anyone who wants to contribute to the translations of either page should subscribe to the [openSUSE translation mailing list](//lists.opensuse.org).
 
 

@@ -16,7 +16,7 @@ The openSUSE Project is happy to announce that openSUSE 11.1 RC 1 is now availab
 
 This release includes a number of bugfixes and changes since 11.1 beta 5, as well as a new license.
 
-Digg it! [http://digg.com/linux_unix/Development_Release_openSUSE_11_1_RC_1_Now_Available](http://digg.com/linux_unix/Development_Release_openSUSE_11_1_RC_1_Now_Available)
+Digg it! [//digg.com/linux_unix/Development_Release_openSUSE_11_1_RC_1_Now_Available](//digg.com/linux_unix/Development_Release_openSUSE_11_1_RC_1_Now_Available)
 
 
 ### Call for Testing
@@ -26,7 +26,7 @@ We all want openSUSE 11.1 to be the best release yet, and we need your help to g
 
 Remember that this is a release candidate, and is not suitable for use on production systems, however. Though many openSUSE users can and do use the Factory distribution and/or testing releases for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs.
 
-See [openSUSE.org/Testing](http://openSUSE.org/Testing) for more information on Testing.
+See [openSUSE.org/Testing](//openSUSE.org/Testing) for more information on Testing.
 
 To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
 
@@ -36,20 +36,20 @@ To follow the testing and development process, we suggest that you subscribe to 
 
 Major changes in this release include:
 
-* A [new](http://zonker.opensuse.org/2008/11/26/opensuse-sports-a-new-license-ding-dong-the-eulas-dead/), shorter [distro license](http://en.opensuse.org/OpenSUSE_EULA)
+* A [new](//zonker.opensuse.org/2008/11/26/opensuse-sports-a-new-license-ding-dong-the-eulas-dead/), shorter [distro license](//en.opensuse.org/OpenSUSE_EULA)
 * Linux kernel 2.6.27.7
 * glibc 2.9
-* [Additional translations](http://i18n.opensuse.org/stats/trunk/toplist.php)
+* [Additional translations](//i18n.opensuse.org/stats/trunk/toplist.php)
 * Amarok 2.0 RC 1
 * Zypper 1.0.1
 
-See the [Factory News](http://en.opensuse.org/Factory/News) page for changes in the Factory distribution between release announcements. [DistroWatch](http://distrowatch.com/table.php?distribution=suse) also carries an expanded list of packages being shipped in the Factory distribution.
+See the [Factory News](//en.opensuse.org/Factory/News) page for changes in the Factory distribution between release announcements. [DistroWatch](//distrowatch.com/table.php?distribution=suse) also carries an expanded list of packages being shipped in the Factory distribution.
 
 
 ### Media and Download
 
 
-11.1 RC 1 can be found at [http://software.opensuse.org/developer](http://software.opensuse.org/developer). See http://en.opensuse.org/Mirror_Selection for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
+11.1 RC 1 can be found at [//software.opensuse.org/developer](//software.opensuse.org/developer). See //en.opensuse.org/Mirror_Selection for a full list of mirrors. Note that you don't need to choose a mirror yourself, but you can use the mirror list if you want or need to select a mirror manually.
 
 
 ### Most Annoying Bugs

@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Before 2007 ends you can read Rajko Matovic interview. Rajko is an openSUSE community member contributing largely on the Wiki side being a member of the [Wiki team](http://en.opensuse.org/Wiki_Team), and having more than 1300 pages edited.
+Before 2007 ends you can read Rajko Matovic interview. Rajko is an openSUSE community member contributing largely on the Wiki side being a member of the [Wiki team](//en.opensuse.org/Wiki_Team), and having more than 1300 pages edited.
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ Before 2007 ends you can read Rajko Matovic interview. Rajko is an openSUSE comm
 <td >**Homepage: **
 </td>
 
-<td >Nothing independent to show. Currently [http://en.opensuse.org/User:Rajko_m](http://en.opensuse.org/User:Rajko_m)
+<td >Nothing independent to show. Currently [//en.opensuse.org/User:Rajko_m](//en.opensuse.org/User:Rajko_m)
 </td>
 
 <td >
@@ -124,7 +124,7 @@ Seems upside down, but it is classic example of continental climate without  soo
 
 
 My name is Rajko Matovic, born some half century ago in Zagreb, Croatia,
-Currently in St. Louis, Missouri. I'm making a living as assembler for [Hunter Engineering](http://www.hunter.com). Nothing close to electronics, computers and software.
+Currently in St. Louis, Missouri. I'm making a living as assembler for [Hunter Engineering](//www.hunter.com). Nothing close to electronics, computers and software.
 
 
 
@@ -159,7 +159,7 @@ The most important feature for me was gcc, but after installing 5.3 I was overwh
 #### When did you join the openSUSE community and what made you do that?
 
 
-In February 2006, I have seen link to wiki in some newsgroup, looked around and found the [SLICK](http://en.opensuse.org/SLICK) which is what I wanted to help, at least with testing.
+In February 2006, I have seen link to wiki in some newsgroup, looked around and found the [SLICK](//en.opensuse.org/SLICK) which is what I wanted to help, at least with testing.
 
 Then I thought that openSUSE should be installable on low spec machines, but the definition of low spec has changed after two years, and it is easy to get mainstream openSUSE working on nowadays obsolete hardware.
 
@@ -198,7 +198,7 @@ Friendly people and relaxed atmosphere. There is always something going on, alwa
 Nothing large yet.
 The most exposed Portal to openSUSE is standing on the same spot for a while. It is needed for visitors that want to browse for help, but don't know where to start. Portal should be that place. I'm thinking to change the goal from indexing all pages to selection of good articles presented in the same way as Wikipedia Portal pages.
 
-Now when more people contributing and editing articles I would be able give more time to [Portal](http://en.opensuse.org/Portal) that is now in the most rudimentary form.
+Now when more people contributing and editing articles I would be able give more time to [Portal](//en.opensuse.org/Portal) that is now in the most rudimentary form.
 
 
 
@@ -235,7 +235,7 @@ It is missing a lot of graphic.
 
 Veterans know where to look for, and can recognize obsolete, inaccurate or partial information. They know where is for instance /etc, how to use text editor, how to find appropriate commands and applications, but new users have no way around and we have to organize help.
 
-http://en.opensuse.org/Linux_Documentation was one of attempts to bring closer to user attention that Linux has a well of documentation. I know from my own experience that when you start you know nothing and that hits you hard, specially if there is advanced knowledge of another OS. How to list directory content? Command 'dir'? No, it is 'ls'. ls /?
+//en.opensuse.org/Linux_Documentation was one of attempts to bring closer to user attention that Linux has a well of documentation. I know from my own experience that when you start you know nothing and that hits you hard, specially if there is advanced knowledge of another OS. How to list directory content? Command 'dir'? No, it is 'ls'. ls /?
 
 Hmm. It doesn't help much, and so on.
 
@@ -247,7 +247,7 @@ Hmm. It doesn't help much, and so on.
 #### What do you think the future holds for the openSUSE project?
 
 
-Success, what else. Reference: [http://en.opensuse.org/SUSE_Time_Machine](http://en.opensuse.org/SUSE_Time_Machine) ;-)
+Success, what else. Reference: [//en.opensuse.org/SUSE_Time_Machine](//en.opensuse.org/SUSE_Time_Machine) ;-)
 We are growing, more people are coming and participating in all areas.
 
 
@@ -469,11 +469,11 @@ Not that important that I would remember.
 
 Always is too general.
 Here are few views of St. Louis.
-[http://www.panoramio.com/photo/620775](http://www.panoramio.com/photo/620775)
-[http://www.panoramio.com/photo/604808](http://www.panoramio.com/photo/604808)
-[http://www.panoramio.com/photo/474683](http://www.panoramio.com/photo/474683)
-[http://www.panoramio.com/photo/429925](http://www.panoramio.com/photo/429925)
-[http://www.panoramio.com/photo/353557](http://www.panoramio.com/photo/353557)
+[//www.panoramio.com/photo/620775](//www.panoramio.com/photo/620775)
+[//www.panoramio.com/photo/604808](//www.panoramio.com/photo/604808)
+[//www.panoramio.com/photo/474683](//www.panoramio.com/photo/474683)
+[//www.panoramio.com/photo/429925](//www.panoramio.com/photo/429925)
+[//www.panoramio.com/photo/353557](//www.panoramio.com/photo/353557)
 
 
 

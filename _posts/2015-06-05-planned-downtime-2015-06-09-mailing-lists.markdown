@@ -18,7 +18,7 @@ tags:
 
 
 On Tuesday 2015-06-09, from 09:00 to 11:00 UTC, the machine that hosts the
-[openSUSE Mailing Lists](http://lists.opensuse.org/) will be offline. During that
+[openSUSE Mailing Lists](//lists.opensuse.org/) will be offline. During that
 time, sending or receiving mails to the  openSUSE mailing lists, or viewing
 their archives will not be possible.  All the mails that will be sent during
 the downtime will be  delayed.

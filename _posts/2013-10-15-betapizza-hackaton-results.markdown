@@ -78,7 +78,7 @@ So in the end, we have three awards with following winners:
 ### Local experiences at the SUSE Offices
 
 
-Taipei kicked off the long day, opening the hangout and working from a single room. Beijing had the biggest showing with 40 participants and 18 pizza's eliminated though part of the Pizza eaters were kicking off [hackweek](http://hackweek.suse.com) and didn't participate in the hackaton. The Pizza Master David Liang reports that the team enjoyed the IRC bot which reported the results of their work and other teams echo-ed this.
+Taipei kicked off the long day, opening the hangout and working from a single room. Beijing had the biggest showing with 40 participants and 18 pizza's eliminated though part of the Pizza eaters were kicking off [hackweek](//hackweek.suse.com) and didn't participate in the hackaton. The Pizza Master David Liang reports that the team enjoyed the IRC bot which reported the results of their work and other teams echo-ed this.
 
 The Provo team noted that being in the last timezone meant being pretty lonely. Pizza Master Scott suggested we need to set up a teleportation unit and get everybody physically in one place next time. The openSUSE team is evaluating this option and suggestions for reasonably priced teleportation devices are welcome.
 

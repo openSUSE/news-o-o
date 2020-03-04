@@ -43,7 +43,7 @@ Of course, the competition has these too - look at Apple or Google.
 
 Linux does not have a store where you can get such a wide variety of things. For a game, you can use Appstream, get it from Apper or GNOME's software center. They all give a view on applications. Unfortunately, that is only useful for desktops and can handle things barely above the level of Angry Birds. If you want a python module as developers - these fancy tools won't help you. Nor are they useful on servers. For those you have to rely on command line tools or even do things completely by hand. And it is all different between distributions.
 
-Going further, where do you get documentation? For openSUSE, that's [activedoc](http://activedoc.opensuse.org) or the forums or [our support database on the wiki](http://en.opensuse.org/SDB). Not from zypper. Music - you can get that from [Magnatune](http://magnatune.com) and so on.
+Going further, where do you get documentation? For openSUSE, that's [activedoc](//activedoc.opensuse.org) or the forums or [our support database on the wiki](//en.opensuse.org/SDB). Not from zypper. Music - you can get that from [Magnatune](//magnatune.com) and so on.
 
 
 <blockquote>What if you can have one place where you can get a book, game, applications, isn't that nice? That is what Bodega is.</blockquote>
@@ -123,9 +123,9 @@ This is where you can come in: the team is looking for help in this area and if 
 **Famous books included!**
 
 
-You might be eager to find out what is there, today. Well, if you've seen the screenshots to the side, you know there is an app to access the store. It is build for touch screens but works just fine and you can get it in openSUSE [through software.opensuse.org](http://software.opensuse.org/package/bodega-client). Once installed, you can fire it up typing "active-addons" in a run command dialog.
+You might be eager to find out what is there, today. Well, if you've seen the screenshots to the side, you know there is an app to access the store. It is build for touch screens but works just fine and you can get it in openSUSE [through software.opensuse.org](//software.opensuse.org/package/bodega-client). Once installed, you can fire it up typing "active-addons" in a run command dialog.
 
-Shawn Dunn (of cloverleaf fame) is putting together a more traditional desktop UI, while maintaining these packages as well. You will be able to have a conversation with him as he's going to be at the [openSUSE Conference in Dubrovnik](http://conference.opensuse.org) this month where he will present a session about Bodega! He is known as SFaulken online and pretty much always hangs in the [#opensuse-kde channel on Freenode](irc://#opensuse-kde@freenode.net) where you can ask how to get things running or how to help him break stuff anytime. He's also yelling at the world on [google plus](https://plus.google.com/+ShawnWDunn/posts).
+Shawn Dunn (of cloverleaf fame) is putting together a more traditional desktop UI, while maintaining these packages as well. You will be able to have a conversation with him as he's going to be at the [openSUSE Conference in Dubrovnik](//conference.opensuse.org) this month where he will present a session about Bodega! He is known as SFaulken online and pretty much always hangs in the [#opensuse-kde channel on Freenode](irc://#opensuse-kde@freenode.net) where you can ask how to get things running or how to help him break stuff anytime. He's also yelling at the world on [google plus](https://plus.google.com/+ShawnWDunn/posts).
 
 Bodega now contains the entire book set of Project Gutenberg (thousands of awesome, free books) as well as a number of wallpapers and applications. Aaron:
 

@@ -16,7 +16,7 @@ tags:
 - open build service
 ---
 
-Building packages for multiple distros can be a major pain -- which is why we provide the [openSUSE Build Service](https://build.opensuse.org/). One of the Build Service's many features is the ability to create packages for many distros -- including openSUSE, SUSE Linux Enterprise, Debian, Fedora, CentOS, and Ubuntu. One of the projects making the most of the Build Service is KDevelop. We talked with [KDevelop](http://www.kdevelop.org/) developer Amilcar do Carmo Lucas about how the KDevelop project is using the build service.
+Building packages for multiple distros can be a major pain -- which is why we provide the [openSUSE Build Service](https://build.opensuse.org/). One of the Build Service's many features is the ability to create packages for many distros -- including openSUSE, SUSE Linux Enterprise, Debian, Fedora, CentOS, and Ubuntu. One of the projects making the most of the Build Service is KDevelop. We talked with [KDevelop](//www.kdevelop.org/) developer Amilcar do Carmo Lucas about how the KDevelop project is using the build service.
 
 <!-- more -->What is KDevelop? KDevelop is a plugin-based Integrated Development Environment (IDE), that's been in development since 1998. It supports 12 programming languages, five build tools, 11 documentation formats, four revision control systems, five development toolkits, and dozens of other neat tools.
 
@@ -42,9 +42,9 @@ Most of its features are aimed at C++ development: code completion, fast code na
 
 **Amilcar do Carmo Lucas:** Yes, I do have some tips. I used the Web front end provided by openSUSE for more than a year before I started using "osc" the local command-line tool. I would recommend to people that start with Build Service to do the same, the GUI interface is easy to use and provides all the essential tools, so there is no need to learn and use the command line at the beginning.
 
-Your first step should be to import an existing [Spec (.spec) file](http://www.rpm.org/max-rpm/ch-rpm-inside.html) adapted to the sources you want to compile, this can be any from CentOS, Fedora RedHat, SUSE etc. and then start adding `%ifs` until you get it to work for the other distros. Do not start from scratch, otherwise it's going to be hard to learn all the .spec file commands.
+Your first step should be to import an existing [Spec (.spec) file](//www.rpm.org/max-rpm/ch-rpm-inside.html) adapted to the sources you want to compile, this can be any from CentOS, Fedora RedHat, SUSE etc. and then start adding `%ifs` until you get it to work for the other distros. Do not start from scratch, otherwise it's going to be hard to learn all the .spec file commands.
 
-Take a look at: [the Build Service/cross distribution package how to](http://en.opensuse.org/Build_Service/cross_distribution_package_how_to) for inspiration.
+Take a look at: [the Build Service/cross distribution package how to](//en.opensuse.org/Build_Service/cross_distribution_package_how_to) for inspiration.
 
 **openSUSE Weekly News:** Any areas where you'd like to see the Build Service improve?
 

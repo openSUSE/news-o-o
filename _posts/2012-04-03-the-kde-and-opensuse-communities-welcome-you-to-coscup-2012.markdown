@@ -12,14 +12,14 @@ categories:
 - Project
 ---
 
-[![Geeko's at the booth](/wp-content/uploads/2012/04/6062126071_f849f28c66_b.jpg)](http://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/6062126071_f849f28c66_b/)
-[**COSCUP**](http://coscup.org/) is the largest FLOSS conference organized by local communities in Taiwan. The conference has sessions for new users, enthusiastic promoters, coders or anyone who is interested in cutting-edge FLOSS technologies. The goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
+[![Geeko's at the booth](/wp-content/uploads/2012/04/6062126071_f849f28c66_b.jpg)](//news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/6062126071_f849f28c66_b/)
+[**COSCUP**](//coscup.org/) is the largest FLOSS conference organized by local communities in Taiwan. The conference has sessions for new users, enthusiastic promoters, coders or anyone who is interested in cutting-edge FLOSS technologies. The goal is to create a friendly and informative environment for people from different communities to make friends, learn new technologies and inspire each other.
 
-At COSCUP 2011, several KDE and openSUSE contributors gave talks and presented ‘cool stuff’ at their booths. This year, we will have a fully dedicated track for KDE and openSUSE and starting today, you can send in session proposals.
+At COSCUP 2011, several KDE and openSUSE contributors gave talks and presented "cool stuff" at their booths. This year, we will have a fully dedicated track for KDE and openSUSE and starting today, you can send in session proposals.
 
 <!-- more -->
 
-[![OpenSUSE攤ä��](http://farm7.staticflickr.com/6194/6069121401_2254f25a6e.jpg)](http://www.flickr.com/photos/coscup/6069121401/)
+[![OpenSUSE](//farm7.staticflickr.com/6194/6069121401_2254f25a6e.jpg)](//www.flickr.com/photos/coscup/6069121401/)
 Geeko's at their booth at COSCUP 2011
 
 
@@ -58,7 +58,7 @@ embedded and mobile
   * or anything else you think the world should hear about!
 
 
-[![BoF - KDE 社群](http://farm7.staticflickr.com/6187/6062335955_aa7400e9f3.jpg)](http://www.flickr.com/photos/coscup/6062335955/)
+[![BoF - KDE 社群](//farm7.staticflickr.com/6187/6062335955_aa7400e9f3.jpg)](//www.flickr.com/photos/coscup/6062335955/)
 KDE BOF at COSCUP 2011
 
 Although KDE and openSUSE have always been close the talks do not necessarily have to be related to both KDE and openSUSE (like ownCloud or Apper). In the spirit of our openness and collaboration we welcome talk proposals about KDE on other distributions (Fedora, Ubuntu, etcetera), or other desktops and non-desktop technologies on openSUSE (GNOME, OpenStack, etcetera).

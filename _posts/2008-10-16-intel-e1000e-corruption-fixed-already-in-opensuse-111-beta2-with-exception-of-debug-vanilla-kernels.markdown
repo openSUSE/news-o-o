@@ -12,9 +12,9 @@ categories:
 - Distribution
 ---
 
-The patches we [did for the Intel e1000e network card for Beta2](http://news.opensuse.org/2008/10/03/status-of-the-e1000e-issue/) protect the chip so that the NVRAM could not get corrupted anymore and we indeed did not receive any new bug reports and could not reproduce the bug anymore on our systems.
+The patches we [did for the Intel e1000e network card for Beta2](//news.opensuse.org/2008/10/03/status-of-the-e1000e-issue/) protect the chip so that the NVRAM could not get corrupted anymore and we indeed did not receive any new bug reports and could not reproduce the bug anymore on our systems.
 
-Further investigation by Intel has found the root cause of the problem as Steven Rostedt wrote on the [linux kernel mailing list](http://lkml.org/lkml/2008/10/15/337) : The dynamic ftrace code contained some fragile code that could write to ioremap-ed memory and thus corrupt the NVRAM.  The issue could happen "when the init functions of a module are freed and the nvram is vmapped there as well".  The full story can be found on [LKML.](http://lkml.org/lkml/2008/10/15/337)
+Further investigation by Intel has found the root cause of the problem as Steven Rostedt wrote on the [linux kernel mailing list](//lkml.org/lkml/2008/10/15/337) : The dynamic ftrace code contained some fragile code that could write to ioremap-ed memory and thus corrupt the NVRAM.  The issue could happen "when the init functions of a module are freed and the nvram is vmapped there as well".  The full story can be found on [LKML.](//lkml.org/lkml/2008/10/15/337)
 
 Since 24th of September, we have disabled for our kernel of the day the dynamic ftrace code due for all flavors except the debug and vanilla kernels (on x86 and x86-64 - it was not enabled on other architectures).  We have also added the NVRAM protection patches to **all** kernel flavors.  Therefore Beta2 already contains - by pure luck ;) - not only the NVRAM protection but also not anymore the broken code.
 

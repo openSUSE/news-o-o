@@ -56,7 +56,7 @@ Here are Edith Parzefall's answers to the 'People of openSUSE' questions. Have a
 <td >**Homepage: **
 </td>
 
-<td >[www.edith-parzefall.de](http://www.edith-parzefall.de)
+<td >[www.edith-parzefall.de](//www.edith-parzefall.de)
 </td>
 
 <td >

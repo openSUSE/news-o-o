@@ -11,7 +11,7 @@ categories:
 - Weekly News
 ---
 
-![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #47 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/47)!  
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #47 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/47)!  
 In this week’s issue:
 
 
@@ -29,9 +29,9 @@ In this week’s issue:
 
 
 The openSUSE Weekly News is translated to: 
-[German](http://de.opensuse.org/OpenSUSE-Wochenschau/47), 
-[Russian](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/47), 
-[Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/47), 
-[Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/47), 
-[Portuguese](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/47) and 
-[Indonesian](http://en.opensuse.org/OpenSUSE_Weekly_News/47/indonesian). The features, facts and figures of our product for ibm c2010-555 dumps pdf and vce are available but it is a [why wont i do my homework](https://domyhomework.guru/) paid content so, you should download free demo our product first
+[German](//de.opensuse.org/OpenSUSE-Wochenschau/47), 
+[Russian](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/47), 
+[Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/47), 
+[Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/47), 
+[Portuguese](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/47) and 
+[Indonesian](//en.opensuse.org/OpenSUSE_Weekly_News/47/indonesian). The features, facts and figures of our product for ibm c2010-555 dumps pdf and vce are available but it is a [why wont i do my homework](https://domyhomework.guru/) paid content so, you should download free demo our product first

@@ -19,4 +19,4 @@ Digikam update to 4.6.0 provides fixes to the image editor canvas port and has i
 
 Python Qt5 updates to 5.4 and added QtWebChannel, QtWebEngineWidgets and QtXml modules.
 
-Read more details about the latest update at [http://bit.ly/1zThk8F](http://bit.ly/1zThk8F)
+Read more details about the latest update at [//bit.ly/1zThk8F](//bit.ly/1zThk8F)

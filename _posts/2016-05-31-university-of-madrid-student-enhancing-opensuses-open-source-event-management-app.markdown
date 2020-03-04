@@ -10,6 +10,6 @@ title: University of Madrid Student Enhancing openSUSE's Open Source Event Manag
 wordpress_id: 19921
 ---
 
-Embedded below is the blog of Google Summer of Code student [ Ana Martinez Gomez](https://gsocwithopensuse.wordpress.com/about/). Ana is assisting with [openSUSE's](https://www.opensuse.org/) [Open Source Event Management](http://osem.io/) app during and the [Google Summer of Code](https://summerofcode.withgoogle.com/).
+Embedded below is the blog of Google Summer of Code student [ Ana Martinez Gomez](https://gsocwithopensuse.wordpress.com/about/). Ana is assisting with [openSUSE's](https://www.opensuse.org/) [Open Source Event Management](//osem.io/) app during and the [Google Summer of Code](https://summerofcode.withgoogle.com/).
 
 

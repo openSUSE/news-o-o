@@ -15,13 +15,13 @@ tags:
 - Outage
 ---
 
-![](http://en.opensuse.org/images/4/43/Failgeeko.png)We are currently facing problems with the the following openSUSE services:
+![](//en.opensuse.org/images/4/43/Failgeeko.png)We are currently facing problems with the the following openSUSE services:
 
-[http://build.opensuse.org](http://build.opensuse.org/)
-[http://api.opensuse.org](http://api.opensuse.org/)
-[ http://features.opensuse.org](http://features.opensuse.org)
+[//build.opensuse.org](//build.opensuse.org/)
+[//api.opensuse.org](//api.opensuse.org/)
+[ //features.opensuse.org](//features.opensuse.org)
 
-[ ](http://features.opensuse.org)We are trying to resolve this as fast as possible. Apologies for inconveniences this may cause.
+[ ](//features.opensuse.org)We are trying to resolve this as fast as possible. Apologies for inconveniences this may cause.
 
 Please contact admin@opensuse.org with any queries.
 Your openSUSE Admins

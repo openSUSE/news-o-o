@@ -11,7 +11,7 @@ categories:
 - Wiki
 ---
 
-We have just completed the upgrade to the 1.16 release of MediaWiki.  This release comes with several improvements in functionality and performance.  Anyone who is interested in more information can view the release notes [here](http://www.mediawiki.org/wiki/Release_notes/1.16).
+We have just completed the upgrade to the 1.16 release of MediaWiki.  This release comes with several improvements in functionality and performance.  Anyone who is interested in more information can view the release notes [here](//www.mediawiki.org/wiki/Release_notes/1.16).
 
 As part of this deployment, 6 additional wikis (Dutch, French, Greek, Portugese, Russian, and Spanish) have been converted to the new wiki system.  These wikis now have the same themes and functionality as the English wiki, including Lucene search.
 

@@ -16,7 +16,7 @@ tags:
 
 As you know for sure ;), the openSUSE Build Service (OBS) shall connect the complete different worlds of End-Users and developers/packager. This does of course already worked to that degree that everybody can download software, which got packaged in the OBS. Also the packager do already got feedback via download numbers, tags or rating within the [packager web interface.
 
-[Andreas Bauer](http://en.opensuse.org/User:Bauersman) added lately the next functionality in this context. All search results in the [End User interface](http://software.opensuse.org/search) do offer now a link to the packager web interface from now on. Every user, with a standard openSUSE account can now do the ratings and taging there directly. This will help the to improve the search results for other users later on.
+[Andreas Bauer](//en.opensuse.org/User:Bauersman) added lately the next functionality in this context. All search results in the [End User interface](//software.opensuse.org/search) do offer now a link to the packager web interface from now on. Every user, with a standard openSUSE account can now do the ratings and taging there directly. This will help the to improve the search results for other users later on.
 
 Also new is the bugreport link, this means end users can create bugreports for projects or packages hosted in OBS. Such a bugreport will get assigned to the person, who is defined as bugowner. Atm only a few projects have this defined, so this is a call to all project or package owners to add yourself. This can be done easily in the web gui, simply add yourself again to the project, but switch to the "bugowner" role.
 

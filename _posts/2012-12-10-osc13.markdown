@@ -45,7 +45,7 @@ To make this the most awesome conference ever, we are looking for people who are
 
 
 
-**When**: [2012-12-13 at 15:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=oSC13+Kick+Off+Meeting&iso=20121213T15)  
+**When**: [2012-12-13 at 15:00 UTC](//www.timeanddate.com/worldclock/fixedtime.html?msg=oSC13+Kick+Off+Meeting&iso=20121213T15)  
 
 **Where**: [#opensuse-project](irc://irc.freenode.net/opensuse-project) on the freenode network  
 

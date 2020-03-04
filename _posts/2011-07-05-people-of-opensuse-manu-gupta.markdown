@@ -41,7 +41,7 @@ categories:
 <td width="105" >**Blog:**
 </td>
 
-<td width="520" >[Http://sysbytes.wordpress.com](http://sysbytes.wordpress.com/)
+<td width="520" >[Http://sysbytes.wordpress.com](//sysbytes.wordpress.com/)
 </td>
 
 <td width="5" >

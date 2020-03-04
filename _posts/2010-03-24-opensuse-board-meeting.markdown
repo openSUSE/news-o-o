@@ -10,6 +10,6 @@ title: Board Meeting
 wordpress_id: 3065
 ---
 
-This is the public meeting of the openSUSE [Board](http://en.opensuse.org/openSUSE:Board).
+This is the public meeting of the openSUSE [Board](//en.opensuse.org/openSUSE:Board).
 
-[http://en.opensuse.org/openSUSE:Board_meeting](http://en.opensuse.org/openSUSE:Board_meeting)
+[//en.opensuse.org/openSUSE:Board_meeting](//en.opensuse.org/openSUSE:Board_meeting)

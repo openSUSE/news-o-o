@@ -23,11 +23,11 @@ tags:
 
 
 
-The [openSUSE Leap 42.2 Beta 3](http://software.opensuse.org/developer/en?release=developer) was released today one day ahead of schedule and the last beta for 42.2 brought quite a few new versions for people to test.
+The [openSUSE Leap 42.2 Beta 3](//software.opensuse.org/developer/en?release=developer) was released today one day ahead of schedule and the last beta for 42.2 brought quite a few new versions for people to test.
 
 [VirtualBox](https://www.virtualbox.org/wiki/Changelog) was upgraded from version 5.0.24 in Beta 2 to [version 5.1.4](https://www.virtualbox.org/wiki/Changelog) and there were an enormous amount of fixes applied to this newer version, which was released in August.
 
-KDE’s Plasma moved from its 5.7.95 beta version in Leap’s Beta 2 to [version 5.8.0](https://www.kde.org/announcements/plasma-5.8.0.php) in the Beta 3. Plasma 5.8 is new but the purpose of openSUSE Leap is to have well established packages and since Plasma 5.8 is a Long Term Support release, it made sense to have 5.8 in the distribution event though it is very new. Plasma 5.8 will be supported for 18 months, according to [KDE's release team](http://jriddell.org/2016/07/08/plasma-5-8-lts-kickerd-off-for-stability-and-performance/). [KDE Applications](https://www.kde.org/applications/) also have an update in the Beta 3 to [version 16.08.1](https://www.kde.org/announcements/announce-applications-16.08.1.php), which unifies the look of KDE and enhance the effects for users.
+KDE’s Plasma moved from its 5.7.95 beta version in Leap’s Beta 2 to [version 5.8.0](https://www.kde.org/announcements/plasma-5.8.0.php) in the Beta 3. Plasma 5.8 is new but the purpose of openSUSE Leap is to have well established packages and since Plasma 5.8 is a Long Term Support release, it made sense to have 5.8 in the distribution event though it is very new. Plasma 5.8 will be supported for 18 months, according to [KDE's release team](//jriddell.org/2016/07/08/plasma-5-8-lts-kickerd-off-for-stability-and-performance/). [KDE Applications](https://www.kde.org/applications/) also have an update in the Beta 3 to [version 16.08.1](https://www.kde.org/announcements/announce-applications-16.08.1.php), which unifies the look of KDE and enhance the effects for users.
 
 [Firefox 49](https://developer.mozilla.org/en-US/Firefox/Releases/49) was added to the Beta 3. Thunderbird’s has some security and edit fixes with version [45.3.0](https://www.mozilla.org/en-US/thunderbird/45.3.0/releasenotes/). Also in the new beta, YaST had storage and ruby updates and there was an installation fix for module crash in the newest yast2-installation 3.1.216 version.
 

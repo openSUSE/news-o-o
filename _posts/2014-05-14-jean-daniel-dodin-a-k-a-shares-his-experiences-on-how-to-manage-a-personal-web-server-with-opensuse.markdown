@@ -260,7 +260,7 @@ Do you need a firewall is an other controversial question. Your server is alone 
 
 Default openSUSE firewall is SuSEFirewall2. Most options are setup with the YaST2 module.
 The main error to avoid is to launch the firewall before having setup the ssh opening - doing so you will lose the connection to the server...
-Test the firewall: http://www.auditmypc.com/firewall-test.asp (but from the tested computer).
+Test the firewall: //www.auditmypc.com/firewall-test.asp (but from the tested computer).
 Add as allowed:
 dovecot
 

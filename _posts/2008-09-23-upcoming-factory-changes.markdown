@@ -11,13 +11,13 @@ categories:
 - Distribution
 ---
 
-The [openSUSE Factory distribution](http://en.opensuse.org/Factory) is our permanent moving target, this is the place where all Alpha and Beta versions are mastered from. We are currently in the process of adjusting some things due to [the move from SUSE internal AutoBuild to openSUSE Build Service](//news.opensuse.org/2008/09/22/obs-did-it/):
+The [openSUSE Factory distribution](//en.opensuse.org/Factory) is our permanent moving target, this is the place where all Alpha and Beta versions are mastered from. We are currently in the process of adjusting some things due to [the move from SUSE internal AutoBuild to openSUSE Build Service](//news.opensuse.org/2008/09/22/obs-did-it/):
 
-We are getting rid of all the historical names. Factory from SUSE internal AutoBuild is currently in the directories "SL-OSS-factory", "SL-OSS-factory-debug" and "SL-Factory-non-oss" inside of the [distribution](http://download.opensuse.org/distribution/) directory. These names are inconsistent and have lost their meaning to some degree.
+We are getting rid of all the historical names. Factory from SUSE internal AutoBuild is currently in the directories "SL-OSS-factory", "SL-OSS-factory-debug" and "SL-Factory-non-oss" inside of the [distribution](//download.opensuse.org/distribution/) directory. These names are inconsistent and have lost their meaning to some degree.
 
-The Factory distribution from Build Service is currently in [repositories](http://download.opensuse.org/repositories/openSUSE:/Factory/) directory as rpm-md tree. This means you can install packages from it, but you can't make a new installation from it.
+The Factory distribution from Build Service is currently in [repositories](//download.opensuse.org/repositories/openSUSE:/Factory/) directory as rpm-md tree. This means you can install packages from it, but you can't make a new installation from it.
 
-So we will **remove all these directories** and publish Factory directly to [the new factory directory](http://download.opensuse.org/factory/). The organization below this directory will be the same as below the [official distribution directories](http://download.opensuse.org/distribution/11.0/). So we will have
+So we will **remove all these directories** and publish Factory directly to [the new factory directory](//download.opensuse.org/factory/). The organization below this directory will be the same as below the [official distribution directories](//download.opensuse.org/distribution/11.0/). So we will have
 
 
 
@@ -46,7 +46,7 @@ So we will **remove all these directories** and publish Factory directly to [the
 
 
 
-Another important change is that we have moved the PowerPC packages to their [own server](http://powerpc.opensuse.org).
+Another important change is that we have moved the PowerPC packages to their [own server](//powerpc.opensuse.org).
 
 This new setup should make it easier to mirror subsets of the Factory distribution, without breaking any repository metadata. This means mirrors can just sync the most important stuff like the main repository and ignore the rest. We hope to get factory on more mirrors around the world with this setup.
 

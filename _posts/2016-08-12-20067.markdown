@@ -32,7 +32,7 @@ Kukuh Syafaat =  3
 Danang Aji Bimantoro-1 =  0
 Danang Aji Bimantoro-2 =  0
 
-The complete result can be seen on the [contest web page](http://asiasummit16.opensuse.id/activity/4)
+The complete result can be seen on the [contest web page](//asiasummit16.opensuse.id/activity/4)
 
 Congratulation to Ramadoni, and many thanks and appreciation to Ana, Aris, Danang, Kukuh, Shawhong  for your participation in this contest.
 

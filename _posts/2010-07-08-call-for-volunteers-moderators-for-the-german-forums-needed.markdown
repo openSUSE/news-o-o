@@ -13,7 +13,7 @@ categories:
 
 Note: A German version is below - Deutsche Version unten.
 
-We plan to create a German Forum at [forums.opensuse.org](http://forums.opensuse.org) in the near future. So we're searching for Moderators.
+We plan to create a German Forum at [forums.opensuse.org](//forums.opensuse.org) in the near future. So we're searching for Moderators.
 
 If you would like to join the team, you should have:
 
@@ -40,7 +40,7 @@ If you're interested in helping us, please send an email to u.buckesfeld (AT) we
 
 **German**
 
-Wir möchten in naher Zukunft auf[ forums.opensuse.org](http://forums.opensuse.org) auch deutschsprachige Foren anbieten.  Dafür suchen wir Moderatoren.
+Wir möchten in naher Zukunft auf[ forums.opensuse.org](//forums.opensuse.org) auch deutschsprachige Foren anbieten.  Dafür suchen wir Moderatoren.
 
 Du solltest:
 

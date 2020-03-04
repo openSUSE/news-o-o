@@ -15,7 +15,7 @@ categories:
 
 A [new snapshot](https://lists.opensuse.org/opensuse-factory/2016-04/msg00555.html) of Tumbleweed arrived today and the reason for not having one the past week is that the entire rolling release distribution was rebuilt on the [Open Build Service](https://build.opensuse.org/) and thoroughly tested by [openQA](https://openqa.opensuse.org/).
 
-[Snapshot 20160422](https://lists.opensuse.org/opensuse-factory/2016-04/msg00555.html) updated [glibc to version 2.23](https://sourceware.org/glibc/wiki/Release/2.23) and [libvirt](http://libvirt to 1.3.3) to 1.3.3. The libraries provide new compatibility and remove some obsolete functions. Several patches were removed from glibc and libvirt. Libvirt’s update also improved support for ppc64.
+[Snapshot 20160422](https://lists.opensuse.org/opensuse-factory/2016-04/msg00555.html) updated [glibc to version 2.23](https://sourceware.org/glibc/wiki/Release/2.23) and [libvirt](//libvirt to 1.3.3) to 1.3.3. The libraries provide new compatibility and remove some obsolete functions. Several patches were removed from glibc and libvirt. Libvirt’s update also improved support for ppc64.
 
 GCC 5 upgraded to version 5.3.1+r234891 and kernel-firmware updated to 20160412.
 

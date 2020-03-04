@@ -11,7 +11,7 @@ categories:
 - Events
 ---
 
-The [iFolder project](http://www.kablink.org/ifolder) will be having its monthly meeting tomorrow, June 9th, at 14:00 UTC. The meeting will be held in the [#ifolder channel](irc://irc.freenode.net/ifolder) on Freenode.
+The [iFolder project](//www.kablink.org/ifolder) will be having its monthly meeting tomorrow, June 9th, at 14:00 UTC. The meeting will be held in the [#ifolder channel](irc://irc.freenode.net/ifolder) on Freenode.
 
 iFolder is a simple, secure storage solution that helps enhance collaboration and improve productivity. The iFolder client is cross-platform and runs on Linux, Mac OS X, and Windows. The iFolder server that is used to sync and store files runs on Linux. A release for openSUSE 11.1 is due this month, and will be part of the discussion for the iFolder meeting tomorrow.
 

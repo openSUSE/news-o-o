@@ -31,4 +31,4 @@ Students are matched with a mentoring organizations like openSUSE and given proj
 
 Be a mentor because we need people involved with openSUSE to make a difference in people's’ lives and in open source.
 
-To better understand what it takes to be a GSoC mentor, read [What Makes a good Mentor?](http://en.flossmanuals.net/GSoCMentoring/what-makes-a-good-mentor/)
+To better understand what it takes to be a GSoC mentor, read [What Makes a good Mentor?](//en.flossmanuals.net/GSoCMentoring/what-makes-a-good-mentor/)

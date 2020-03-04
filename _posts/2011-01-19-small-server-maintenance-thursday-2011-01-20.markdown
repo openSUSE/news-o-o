@@ -18,6 +18,6 @@ tags:
 We will have a service outage (expected are 30 minutes) this Thursday morning between 09:00 and 10:00 CET.
 
 This means the following services will not be reachable during that time:
-* [software.opensuse.org](http://software.opensuse.org)
-* [build.opensuse.org](http://build.opensuse.org)
-* [api.opensuse.org](http://api.opensuse.org)
+* [software.opensuse.org](//software.opensuse.org)
+* [build.opensuse.org](//build.opensuse.org)
+* [api.opensuse.org](//api.opensuse.org)

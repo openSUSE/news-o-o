@@ -21,7 +21,7 @@ The second day started an hour later to give people time to recover from the par
 ## Conference Feedback
 
 
-During the weekend and afterwards we got some feedback from visitors. Most like the event a lot: there are many interesting sessions and the booths are worth walking by as well. People liked the Future Media track although it was not so busy. The idea of expanding the scope of the conference and shed some light on things _'around'_ the central business of Linux was appreciated - yet, with 6 simultaneous tracks, the more technical sessions provided a lot of competition. Luckily, it is all videotaped and the first video's have appeared on [openSUSE TV](http://www.youtube.com/openSUSEtv).
+During the weekend and afterwards we got some feedback from visitors. Most like the event a lot: there are many interesting sessions and the booths are worth walking by as well. People liked the Future Media track although it was not so busy. The idea of expanding the scope of the conference and shed some light on things _'around'_ the central business of Linux was appreciated - yet, with 6 simultaneous tracks, the more technical sessions provided a lot of competition. Luckily, it is all videotaped and the first video's have appeared on [openSUSE TV](//www.youtube.com/openSUSEtv).
 
 [caption id="attachment_14468" align="alignright" width="300"]![Strange flying machines](/wp-content/uploads/2012/10/Day1-Saturday-075_IMGP4340.jpg) Strange flying machines at the venue[/caption]
 
@@ -40,9 +40,9 @@ The biggest thing missing is of course our signature openSUSE Beer. At a very la
 ## What happened
 
 
-Saturday night a party was organized in a venue next to the Famous Charles Bridge in the old city center of Prague. We had digital music done by [Sam Aaron](http://sam.aaron.name/) who writes code live on stage, controling the music that way. There was also food and drinks although due to some miscommunication not everyone got their share.
+Saturday night a party was organized in a venue next to the Famous Charles Bridge in the old city center of Prague. We had digital music done by [Sam Aaron](//sam.aaron.name/) who writes code live on stage, controling the music that way. There was also food and drinks although due to some miscommunication not everyone got their share.
 
-The next day, many talks were given on a wide variety of subjects and in workshops all kinds of things were taught. For those of you who can't make it, we tweeted the schedule during the day with links to the live stream and our video team has started to get the videos sorted, cleaned and cut so they can be released. The first of them have started to appear on our [openSUSE TV](http://www.youtube.com/openSUSEtv) channel already and more will follow. The sessions of Monday and Tuesday are of course still being streamed through [bambuser](http://bambuser.com/channel/opensusetv)!
+The next day, many talks were given on a wide variety of subjects and in workshops all kinds of things were taught. For those of you who can't make it, we tweeted the schedule during the day with links to the live stream and our video team has started to get the videos sorted, cleaned and cut so they can be released. The first of them have started to appear on our [openSUSE TV](//www.youtube.com/openSUSEtv) channel already and more will follow. The sessions of Monday and Tuesday are of course still being streamed through [bambuser](//bambuser.com/channel/opensusetv)!
 
 [caption id="attachment_14476" align="alignright" width="300"]![The university uses Gentoo Linux!](/wp-content/uploads/2012/10/Day1-Saturday-016_DSC_7300.jpg) The university uses Gentoo Linux![/caption]
 

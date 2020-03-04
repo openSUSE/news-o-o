@@ -13,13 +13,13 @@ categories:
 
 ![totemcomplete72ppi192x288](/wp-content/uploads/2009/04/totemcomplete72ppi192x288.png)
 
-Join the openSUSE Project as we celebrate the 10th anniversary of LinuxFest Northwest! The openSUSE Project will be exhibiting at [LinuxFest Northwest](http://linuxfestnorthwest.org/) on April 25th and 26th.
+Join the openSUSE Project as we celebrate the 10th anniversary of LinuxFest Northwest! The openSUSE Project will be exhibiting at [LinuxFest Northwest](//linuxfestnorthwest.org/) on April 25th and 26th.
 
 The LFNW organizers are going all out to celebrate a decade of gathering the Linux community. Featured speakers at LFNW this year include Jon 'maddog' Hall, Monty Widenius, Allison Randal, and many others from the FOSS community.
 
-In a rough economy, you don't get more value than LFNW. The show is free to attend, and no registration is required. [Directions are available on the LFNW site](http://www.btc.ctc.edu/Welcome/CampusDirectory.html).
+In a rough economy, you don't get more value than LFNW. The show is free to attend, and no registration is required. [Directions are available on the LFNW site](//www.btc.ctc.edu/Welcome/CampusDirectory.html).
 
-Need a ride to Bellingham from Seattle or nearby? The LFNW site has a [wiki page](http://wiki.gslug.org/index.php/LFNW_Ride_Share) for ride shares. If you're looking to give or get a ride, sign up on the wiki.
+Need a ride to Bellingham from Seattle or nearby? The LFNW site has a [wiki page](//wiki.gslug.org/index.php/LFNW_Ride_Share) for ride shares. If you're looking to give or get a ride, sign up on the wiki.
 
 
 ## Booth help for LFNW

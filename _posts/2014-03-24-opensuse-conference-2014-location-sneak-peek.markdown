@@ -21,7 +21,7 @@ Less than two months from the awesome openSUSE Conference will kick off. The loc
 ## About Dubrovnik
 
 
-Dubrovnik is one of the most popular tourist destinations in the Mediterranean. It is also known as „Pearl of the Adriatic“, and since a few years as „King's Landing“ from the [popular TV show](http://en.wikipedia.org/wiki/Game_of_Thrones) that is filmed in Dubrovnik. Since 1979 the city of Dubrovnik is on the UNESCO list of World Heritage Sites. The Old Town of Dubrovnik is surrounded by city walls, medieval fortresses, Rector's Palace and churches from different periods. It is beautiful and is Dubrovnik's main tourist attraction, one that you don't want to miss if you visit the city.
+Dubrovnik is one of the most popular tourist destinations in the Mediterranean. It is also known as „Pearl of the Adriatic“, and since a few years as „King's Landing“ from the [popular TV show](//en.wikipedia.org/wiki/Game_of_Thrones) that is filmed in Dubrovnik. Since 1979 the city of Dubrovnik is on the UNESCO list of World Heritage Sites. The Old Town of Dubrovnik is surrounded by city walls, medieval fortresses, Rector's Palace and churches from different periods. It is beautiful and is Dubrovnik's main tourist attraction, one that you don't want to miss if you visit the city.
 [![LectureHall](/wp-content/uploads/2014/03/LectureHall.jpg)](/wp-content/uploads/2014/03/LectureHall.jpg)
 
 

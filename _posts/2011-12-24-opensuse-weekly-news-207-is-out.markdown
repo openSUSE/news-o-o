@@ -15,4 +15,4 @@ tags:
 - Weekly News
 ---
 
-We are pleased to announce our openSUSE Weekly News Issue 207. Sadly we can just release a PDF Version. You can find it there: [http://bit.ly/vwq9yW](http://bit.ly/vwq9yW)
+We are pleased to announce our openSUSE Weekly News Issue 207. Sadly we can just release a PDF Version. You can find it there: [//bit.ly/vwq9yW](//bit.ly/vwq9yW)

@@ -34,7 +34,7 @@ We always enjoy that new people join openSUSE community and help them in their f
 # Matheus de Sousa Bernardo
 
 
-Matheus is a Software Engineering student in the University of Brasília. He will be working in [Trollolo](https://github.com/openSUSE/trollolo), together with his mentors [Ana Martínez](http://anamaria.martinezgomez.name) and [Cornelius Schumacher](http://blog.cornelius-schumacher.de). Trollolo is a cli-tool which helps teams using Trello to organize their work. Matheus’ project includes improving Trollolo’s API and workflow. If you want to know more about him and his project, check his beginning blog post: [https://matheussbernardo.me/gsoc/2018/04/24/hello-internet-gsoc](https://matheussbernardo.me/gsoc/2018/04/24/hello-internet-gsoc)
+Matheus is a Software Engineering student in the University of Brasília. He will be working in [Trollolo](https://github.com/openSUSE/trollolo), together with his mentors [Ana Martínez](//anamaria.martinezgomez.name) and [Cornelius Schumacher](//blog.cornelius-schumacher.de). Trollolo is a cli-tool which helps teams using Trello to organize their work. Matheus’ project includes improving Trollolo’s API and workflow. If you want to know more about him and his project, check his beginning blog post: [https://matheussbernardo.me/gsoc/2018/04/24/hello-internet-gsoc](https://matheussbernardo.me/gsoc/2018/04/24/hello-internet-gsoc)
 
 
 
@@ -50,7 +50,7 @@ Xu is a Software Engineering student in the Chongqing Normal University, China. 
 # Ankush Malik
 
 
-Ankush is pursuing a Bachelor of Technology in Computer Science in the Maharaja Agrasen Institute of Technology, India. He will be working on improving people collaboration in the [Hackweek tool](https://github.com/SUSE/Hackweek), together with his mentors [David Kang](http://github.com/davidkang) and [Stella Rouzi](http://github.com/differentreality). He just released his GSoC Journey blog post which you can find here: [https://medium.com/@ankushmalik631/my-gsoc-journey-4f02818fdb8d](https://medium.com/@ankushmalik631/my-gsoc-journey-4f02818fdb8d)
+Ankush is pursuing a Bachelor of Technology in Computer Science in the Maharaja Agrasen Institute of Technology, India. He will be working on improving people collaboration in the [Hackweek tool](https://github.com/SUSE/Hackweek), together with his mentors [David Kang](//github.com/davidkang) and [Stella Rouzi](//github.com/differentreality). He just released his GSoC Journey blog post which you can find here: [https://medium.com/@ankushmalik631/my-gsoc-journey-4f02818fdb8d](https://medium.com/@ankushmalik631/my-gsoc-journey-4f02818fdb8d)
 
 
 
@@ -72,4 +72,4 @@ As you see, there is a lot of great work coming in from our new talented contrib
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/05/23/gsoc-students-are-already-hacking.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+This blog post original version can be found at [//anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](//anamaria.martinezgomez.name/2018/05/23/gsoc-students-are-already-hacking.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](//creativecommons.org/licenses/by/4.0/). 

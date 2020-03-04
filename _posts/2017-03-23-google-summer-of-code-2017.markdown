@@ -26,4 +26,4 @@ Compared to YaST, [Jangouts](https://github.com/jangouts/jangouts) is still a ne
 
 The [application period](https://developers.google.com/open-source/gsoc/timeline) already started this Monday (March 20), and runs through April 4. Interested students should get in touch with the mentors and the community before starting to write an application proposal. Google will announce accepted students on May 4, and the official coding period will be from May 30 - August 29.
 
-If you're interested in participating in Google Summer of Code, please visit our [openSUSE 101 mentoring website](http://101.opensuse.org/gsoc/) for more information about projects and application.
+If you're interested in participating in Google Summer of Code, please visit our [openSUSE 101 mentoring website](//101.opensuse.org/gsoc/) for more information about projects and application.

@@ -14,7 +14,7 @@ categories:
 
 G[![t-shirt-motiv](/wp-content/uploads/2015/03/t-shirt-motiv.png)](/wp-content/uploads/2015/03/t-shirt-motiv.png)et ready for a good time in April and a flashback to old times. openSUSE will have Hackweek April 13 - 17 and everyone is welcome to participate.
 
-All participant will receive the “” openSUSE Hackweek T-Shirt. All participants can sign up on [http://hackweek.suse.com](http://hackweek.suse.com) to participate in openSUSE’s Hackweek.
+All participant will receive the “” openSUSE Hackweek T-Shirt. All participants can sign up on [//hackweek.suse.com](//hackweek.suse.com) to participate in openSUSE’s Hackweek.
 
 Hackerspace will be available for anyone who wants to hack at our locations in Nuremberg, Germany; Prague, Czech Republic; Provo, Utah (USA); Taipei, Taiwan; and Beijing, China, but hackers can always participate in this event remotely.
 

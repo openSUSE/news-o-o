@@ -11,7 +11,7 @@ categories:
 - Board
 ---
 
-![](http://www.esw.gtorg.gatech.edu/wp-content/uploads/vote-for-me-nt3jey.jpg)
+![](//www.esw.gtorg.gatech.edu/wp-content/uploads/vote-for-me-nt3jey.jpg)
 
 Contributors of openSUSE that are not currently members can now [apply for membership](https://en.opensuse.org/openSUSE:Membership_officials#Process) during a three-week window and can be a part of the changes to come in the project.
 
@@ -96,7 +96,7 @@ Only openSUSE members have the right to run for a board seat, except if they are
 
 
 To learn more about the election details and applying for membership, visit the following wiki pages:
-[http://en.opensuse.org/openSUSE:Board_election
-](http://en.opensuse.org/openSUSE:Board_election)[http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination
-](http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination)[http://en.opensuse.org/openSUSE:Members
-](http://en.opensuse.org/openSUSE:Members)[http://en.opensuse.org/openSUSE:Membership_officials#Process](http://en.opensuse.org/openSUSE:Membership_officials#Process)
+[//en.opensuse.org/openSUSE:Board_election
+](//en.opensuse.org/openSUSE:Board_election)[//en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination
+](//en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination)[//en.opensuse.org/openSUSE:Members
+](//en.opensuse.org/openSUSE:Members)[//en.opensuse.org/openSUSE:Membership_officials#Process](//en.opensuse.org/openSUSE:Membership_officials#Process)

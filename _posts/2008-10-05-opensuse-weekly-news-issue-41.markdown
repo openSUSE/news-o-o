@@ -11,7 +11,7 @@ categories:
 - Weekly News
 ---
 
-![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #41 ofopenSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/41)!  
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #41 ofopenSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/41)!  
 In this week’s issue:
 
 

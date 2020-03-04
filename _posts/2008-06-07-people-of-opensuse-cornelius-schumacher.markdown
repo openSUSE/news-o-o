@@ -50,7 +50,7 @@ Before openSUSE 11.0 GM get released next Thursday, we have the chance to meet C
 <td >**Homepage: **
 </td>
 
-<td >[http://www.cornelius-schumacher.de](http://www.cornelius-schumacher.de)
+<td >[//www.cornelius-schumacher.de](//www.cornelius-schumacher.de)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ Before openSUSE 11.0 GM get released next Thursday, we have the chance to meet C
 <td >**Blog:**
 </td>
 
-<td >[http://www.kdedevelopers.org/blog/54](http://www.kdedevelopers.org/blog/54)
+<td >[//www.kdedevelopers.org/blog/54](//www.kdedevelopers.org/blog/54)
 </td>
 
 <td >
@@ -121,7 +121,7 @@ Before openSUSE 11.0 GM get released next Thursday, we have the chance to meet C
 #### Please introduce yourself!
 
 
-I'm a physicist by education, a software developer by profession, and a free software enthusiast by passion. I'm working for SUSE at Nuernberg as a member of the incubation team. Our mission is to explore new technologies and grow innovative ideas in the SUSE universe. I'm a long term contributor to free software, especially to [KDE](http://www.kde.org), where I'm vice president of the [KDE e.V.](http://ev.kde.org) these days. My two wonderful daughters keep me busy when I'm not in front of a computer.
+I'm a physicist by education, a software developer by profession, and a free software enthusiast by passion. I'm working for SUSE at Nuernberg as a member of the incubation team. Our mission is to explore new technologies and grow innovative ideas in the SUSE universe. I'm a long term contributor to free software, especially to [KDE](//www.kde.org), where I'm vice president of the [KDE e.V.](//ev.kde.org) these days. My two wonderful daughters keep me busy when I'm not in front of a computer.
 
 
 
@@ -131,7 +131,7 @@ I'm a physicist by education, a software developer by profession, and a free sof
 #### Tell us about the background to your computer use.
 
 
-I started with a [ZX81](http://en.wikipedia.org/wiki/Sinclair_ZX81) in 1982 with programming BASIC and Z80 assembler, went on through a [C64](http://en.wikipedia.org/wiki/Commodore_64) and an [Amiga](http://en.wikipedia.org/wiki/Amiga), programming more BASIC, more assembler and starting with C. Then I drifted off into the PC world, got to know UNIX and the Internet at university, also did some hardware development and chip design there, before I finally arrived at Linux and free software in general. Nowadays I'm mostly programming C++ and Ruby.
+I started with a [ZX81](//en.wikipedia.org/wiki/Sinclair_ZX81) in 1982 with programming BASIC and Z80 assembler, went on through a [C64](//en.wikipedia.org/wiki/Commodore_64) and an [Amiga](//en.wikipedia.org/wiki/Amiga), programming more BASIC, more assembler and starting with C. Then I drifted off into the PC world, got to know UNIX and the Internet at university, also did some hardware development and chip design there, before I finally arrived at Linux and free software in general. Nowadays I'm mostly programming C++ and Ruby.
 
 
 
@@ -161,7 +161,7 @@ I'm working at SUSE for 6 years now. I think the first version I contributed to 
 #### In what way do you participate in the openSUSE project?
 
 
-As SUSE employee I of course get in touch with openSUSE as part of my daily work. When I think about it I realize that a focus of my work is infrastructure for the project. I was one of the architects which created the [openSUSE Build Service](http://build.opensuse.org) and I wrote the first version of its frontend and web client. I also was deeply involved with writing down the [openSUSE Guiding Principles](http://en.opensuse.org/Guiding_Principles), which is a non-technical but still very important infrastructure part of the project. There are also other things like being a mentor for the Google Summer of Code for openSUSE or contributing to upstream projects like KDE. One of the great things about openSUSE is that there are so many ways one can contribute.
+As SUSE employee I of course get in touch with openSUSE as part of my daily work. When I think about it I realize that a focus of my work is infrastructure for the project. I was one of the architects which created the [openSUSE Build Service](//build.opensuse.org) and I wrote the first version of its frontend and web client. I also was deeply involved with writing down the [openSUSE Guiding Principles](//en.opensuse.org/Guiding_Principles), which is a non-technical but still very important infrastructure part of the project. There are also other things like being a mentor for the Google Summer of Code for openSUSE or contributing to upstream projects like KDE. One of the great things about openSUSE is that there are so many ways one can contribute.
 
 
 
@@ -281,7 +281,7 @@ Perfect spam protection. Not sure, if that's more a technical or a political cha
 #### Which is your preferred text editor? And why?
 
 
-Something like ten years ago I switched from Emacs to [NEdit](http://www.nedit.org) and I have never looked back. NEdit is fast and efficient, has a great graphical user interface, and never gets in the way. I think when I switched the two killer features for me where the easy graphical manipulation of vertical selections, which are very handy when editing tables, and the syntax highlighting for Verilog. Today NEdit shows a bit of age, but I haven't found a replacement yet, so I continue to be a happy NEdit user.  But to mention one other brilliant text editor: For its time the CygnusEd on the Amiga was absolutely amazing, exhaustive functionality put into a beautiful user interface, which beat everything else which was available back then. I still remember my joy watching the smooth scrolling of CygnusEd when I saw it for the first time.
+Something like ten years ago I switched from Emacs to [NEdit](//www.nedit.org) and I have never looked back. NEdit is fast and efficient, has a great graphical user interface, and never gets in the way. I think when I switched the two killer features for me where the easy graphical manipulation of vertical selections, which are very handy when editing tables, and the syntax highlighting for Verilog. Today NEdit shows a bit of age, but I haven't found a replacement yet, so I continue to be a happy NEdit user.  But to mention one other brilliant text editor: For its time the CygnusEd on the Amiga was absolutely amazing, exhaustive functionality put into a beautiful user interface, which beat everything else which was available back then. I still remember my joy watching the smooth scrolling of CygnusEd when I saw it for the first time.
 
 
 

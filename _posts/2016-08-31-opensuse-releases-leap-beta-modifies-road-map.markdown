@@ -28,11 +28,11 @@ tags:
 ### **Official Release Scheduled for Nov. 16![42 copy](/wp-content/uploads/2016/08/42-copy.png)**
 
 
-Software testers and Linux enthusiasts can now get the [Beta release of openSUSE Leap 42.2](http://bit.ly/1iOyl2T), which was released today.
+Software testers and Linux enthusiasts can now get the [Beta release of openSUSE Leap 42.2](//bit.ly/1iOyl2T), which was released today.
 
 “[Leap](https://en.opensuse.org/Portal:Leap) is for pragmatic and conservative technology adopters,” said Ludwig Nussel, the release manager for openSUSE Leap. “Testing the beta helps make Leap even more mature, so we encourage as many people as possible to test it.”
 
-[openSUSE Leap](https://en.opensuse.org/Portal:Leap) focuses on well-established packages, like [systemd 228](https://www.freedesktop.org/wiki/Software/systemd/) and [Qt 5.6](https://wiki.qt.io/Qt_5.6_Release). The release day for the official version is scheduled for Nov. 16, which is one week after [SUSECon](http://www.susecon.com/).
+[openSUSE Leap](https://en.opensuse.org/Portal:Leap) focuses on well-established packages, like [systemd 228](https://www.freedesktop.org/wiki/Software/systemd/) and [Qt 5.6](https://wiki.qt.io/Qt_5.6_Release). The release day for the official version is scheduled for Nov. 16, which is one week after [SUSECon](//www.susecon.com/).
 
 The [road map](https://en.opensuse.org/openSUSE:Roadmap) was slightly modified to provide a more accurate release time line.
 

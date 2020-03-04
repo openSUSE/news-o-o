@@ -19,7 +19,7 @@ Last week’s release of Leap’s Milestone 2 was well received and contributors
 
 The next important dates for the [Leap roadmap](https://en.opensuse.org/openSUSE:Roadmap) are Sept. 20, which is the freeze date, and Sept. 24, which is scheduled to provide the Beta.
 
-Other items that are trending within the openSUSE community are an [education program](https://news.opensuse.org/2015/09/08/opensuse-asia-summit-expands-with-study-area/) related to the [openSUSE.Asia Summit](https://events.opensuse.org/conference/summitasia15) and the implementation of the [openSUSE landing page](http://cyntss.github.io/opensuse-landing-page/), which should be published soon, and an [openSUSE search page](http://opensuse.github.io/searchPage/), which contributors can add new search engines to if they would like.
+Other items that are trending within the openSUSE community are an [education program](https://news.opensuse.org/2015/09/08/opensuse-asia-summit-expands-with-study-area/) related to the [openSUSE.Asia Summit](https://events.opensuse.org/conference/summitasia15) and the implementation of the [openSUSE landing page](//cyntss.github.io/opensuse-landing-page/), which should be published soon, and an [openSUSE search page](//opensuse.github.io/searchPage/), which contributors can add new search engines to if they would like.
 
 A topic we want to share in this weekly review is a reading list the SUSE Documentation team lead Markus Feilner put together about 10 books every Linux and Open Source newbie should know.
 
@@ -61,6 +61,6 @@ A topic we want to share in this weekly review is a reading list the SUSE Docume
   10. O'Reilly, "Open Source - kurz & gut" (german only)
 
 
-Another website read that is good is Tim O'Reilly’s [Ten Myths about Open Source Software](http://www.oreilly.de/opensource/os_artikel/myths_1199.html).
+Another website read that is good is Tim O'Reilly’s [Ten Myths about Open Source Software](//www.oreilly.de/opensource/os_artikel/myths_1199.html).
 
 Please feel free to comment below and give us your thoughts. Have a lot of fun!

@@ -13,15 +13,15 @@ categories:
 ---
 
 openSUSE Factory development is going steady and our venerable release manager has made a first milestone available. No development schedule has yet been determined, although it has been decided that we will aim for a release in November of this year. Major changes include X, Y and Z.
-[![oSC14 banner](/wp-content/uploads/2014/03/720x300.jpg)](http://conference.opensuse.org)
+[![oSC14 banner](/wp-content/uploads/2014/03/720x300.jpg)](//conference.opensuse.org)
 
 
 ## Release Plans
 
 
-Our normal 8-month release cycle would warrant a release in July, but the openSUSE team has proposed to change the schedule due to the work they are doing on our tooling and infrastructure. In the [discussions on our mailing list](http://lists.opensuse.org/opensuse-factory/2014-01/msg00350.html) it became clear a November release has much support. This is now [the tentative plan](http://lizards.opensuse.org/2014/02/03/trying-to-add-some-light/) and we will decide the specific schedule as well as who's gonna do what and where at the upcoming [openSUSE Conference in Dubrovnik](http://conference.opensuse.org).
+Our normal 8-month release cycle would warrant a release in July, but the openSUSE team has proposed to change the schedule due to the work they are doing on our tooling and infrastructure. In the [discussions on our mailing list](//lists.opensuse.org/opensuse-factory/2014-01/msg00350.html) it became clear a November release has much support. This is now [the tentative plan](//lizards.opensuse.org/2014/02/03/trying-to-add-some-light/) and we will decide the specific schedule as well as who's gonna do what and where at the upcoming [openSUSE Conference in Dubrovnik](//conference.opensuse.org).
 
-Meanwhile, the openSUSE team is [asking for feedback, bug hunting and fixing](http://lizards.opensuse.org/2014/03/13/help-yourselves-to-our-low-hanging-fruit/) of the new-and-improved openQA and Staging tools for the Open Build Service.
+Meanwhile, the openSUSE team is [asking for feedback, bug hunting and fixing](//lizards.opensuse.org/2014/03/13/help-yourselves-to-our-low-hanging-fruit/) of the new-and-improved openQA and Staging tools for the Open Build Service.
 
 
 ## Changes in the first milestone
@@ -65,7 +65,7 @@ Although we're just at the start of our release cycle, this milestone already in
 ## Getting and playing
 
 
-You can get the milestone as usual on [software.opensuse.org/developer](http://software.opensuse.org/developer). You can get involved in development discussions on the [factory mailing list](http://lists.opensuse.org/opensuse-factory/) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)).
+You can get the milestone as usual on [software.opensuse.org/developer](//software.opensuse.org/developer). You can get involved in development discussions on the [factory mailing list](//lists.opensuse.org/opensuse-factory/) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)).
 
 
 

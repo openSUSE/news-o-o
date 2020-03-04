@@ -12,11 +12,11 @@ categories:
 - Events
 ---
 
-openSUSE [Community Week](http://en.opensuse.org/Community_Week) runs from May 11 through May 17. Our community week is a chance to get people from around the world together at the same time to focus on specific topics, and to transfer knowledge about openSUSE to help grow our teams.
+openSUSE [Community Week](//en.opensuse.org/Community_Week) runs from May 11 through May 17. Our community week is a chance to get people from around the world together at the same time to focus on specific topics, and to transfer knowledge about openSUSE to help grow our teams.
 
 The idea is to cover topics to empower ourselves as a community by broadening our knowledge, and to enable new contributors to openSUSE and open source. The week is starting off with sessions in GNOME, KDE, packaging, and much more.
 
-As a reminder -- all sessions are being held in IRC. If you need help getting started with IRC, see the [openSUSE wiki for more](http://en.opensuse.org/Communicate/IRC). The entire week's schedule [can be found on the wiki](http://en.opensuse.org/CommunityWeek#Schedule). Here's a quick overview of scheduled sessions for Monday, May 11th.
+As a reminder -- all sessions are being held in IRC. If you need help getting started with IRC, see the [openSUSE wiki for more](//en.opensuse.org/Communicate/IRC). The entire week's schedule [can be found on the wiki](//en.opensuse.org/CommunityWeek#Schedule). Here's a quick overview of scheduled sessions for Monday, May 11th.
 
 
 

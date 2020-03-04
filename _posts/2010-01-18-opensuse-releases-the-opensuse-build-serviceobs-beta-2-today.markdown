@@ -45,8 +45,8 @@ This release got deployed on build.opensuse.org server today as well. In total w
 
 Packages for OBS 1.7 Beta 2 are available via our openSUSE:Tools:Unstable project. You need to add this and the openSUSE:Tools project to get supporting packages.
 
- [http://download.opensuse.org/repositories/openSUSE:Tools/](http://download.opensuse.org/repositories/openSUSE:Tools/)
- [http://download.opensuse.org/repositories/openSUSE:Tools:Unstable/](http://download.opensuse.org/repositories/openSUSE:Tools:Unstable/)
+ [//download.opensuse.org/repositories/openSUSE:Tools/](//download.opensuse.org/repositories/openSUSE:Tools/)
+ [//download.opensuse.org/repositories/openSUSE:Tools:Unstable/](//download.opensuse.org/repositories/openSUSE:Tools:Unstable/)
 
 The version of the packages are 1.6.90.
 
@@ -60,7 +60,7 @@ run a production OBS server. Furthermore it can be used to deploy OBS workers in
 
 Please find details about this on this wiki page:
 
- [http://en.opensuse.org/Build_Service/OBS-Appliance](http://en.opensuse.org/Build_Service/OBS-Appliance)
+ [//en.opensuse.org/Build_Service/OBS-Appliance](//en.opensuse.org/Build_Service/OBS-Appliance)
 
 This appliance is of course built in openSUSE Build Service itself ;)
 

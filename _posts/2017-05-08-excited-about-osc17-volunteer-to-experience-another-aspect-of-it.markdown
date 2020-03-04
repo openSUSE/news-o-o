@@ -65,7 +65,7 @@ We need volunteers to help out with various things throughout the conference, su
 
 Volunteers will receive an instructions sheet, as well as a short briefing. Please be available at the registration desk 15-30 minutes prior to the time you are scheduled to volunteer.
 
-Make sure to fill out the [volunteers form](http://goo.gl/Nq3HgQ), so that we know we can count on your help!
+Make sure to fill out the [volunteers form](//goo.gl/Nq3HgQ), so that we know we can count on your help!
 
 
 

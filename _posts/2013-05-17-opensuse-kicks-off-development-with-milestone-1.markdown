@@ -88,7 +88,7 @@ You're more than welcome to organize some bug-finding-and-squashing sessions! Ta
 
 Some time ago, the team posted a suggested list of changes for openSUSE 13.1. The idea behind this is to accept the changes provided by the community and at the same time meet specific team goals. Please keep in mind that this list is subject to change but it helps when understanding where the next release of openSUSE would like to go.
 
-For the base system, planned changes include updating GCC to version 4.8 and working on the latest integrations for the Linux Kernel. On booting there was a discussion looking to completely move to SYSTEMD and dropping SYSVINIT. Replacing MKINITRD with [Dracut](http://www.techradar.com/us/news/software/operating-systems/what-on-earth-is-dracut-1078647).
+For the base system, planned changes include updating GCC to version 4.8 and working on the latest integrations for the Linux Kernel. On booting there was a discussion looking to completely move to SYSTEMD and dropping SYSVINIT. Replacing MKINITRD with [Dracut](//www.techradar.com/us/news/software/operating-systems/what-on-earth-is-dracut-1078647).
 
 On the KDE environment the planned list includes making PHONON support GSTREAMER 1.0 and replacing Kopete, largely unmaintained now, to KDE Telepathy. Gnome is also looking to change a few things in 13.1 starting by adding Gnome 3.10, cleaning out some outdated libraries and changing its default theme to a greener one.
 
@@ -106,4 +106,4 @@ However, the work on openSUSE is not only belonging or limited to packaging. The
 ## Schedule
 
 
-Master Coolo [published a simple road map](http://lists.opensuse.org/opensuse-factory/2013-05/msg00204.html). The next milestone is expected for 6 of June, 2013. the next milestones come with about a month in between, Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.
+Master Coolo [published a simple road map](//lists.opensuse.org/opensuse-factory/2013-05/msg00204.html). The next milestone is expected for 6 of June, 2013. the next milestones come with about a month in between, Beta 1 is planned for the 19th of September, RC one will be on October 10 and RC2 on October 31st.

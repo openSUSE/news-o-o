@@ -10,4 +10,4 @@ title: LinuxTag 2010
 wordpress_id: 2558
 ---
 
-[Homepage](http://www.linuxtag.org/2009/)
+[Homepage](//www.linuxtag.org/2009/)

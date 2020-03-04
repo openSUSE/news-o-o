@@ -15,7 +15,7 @@ tags:
 
 Hello Mates! openSUSE Medical here!
 
-[![](/wp-content/uploads/2010/12/Opensuse_medical_logo11.png)](http://news.opensuse.org/2011/06/09/new-leadership-inside-the-medical-project/opensuse_medical_logo11/)
+[![](/wp-content/uploads/2010/12/Opensuse_medical_logo11.png)](//news.opensuse.org/2011/06/09/new-leadership-inside-the-medical-project/opensuse_medical_logo11/)
 
 Well i would to announce that “openSUSE Medical Calling and also needs you”
 
@@ -25,8 +25,8 @@ So “Looking for openSUSE Medical Next Leader”
 
 b) I have created two pages (according to the last meeting’s goals) :
 
-i) “Section Page” : [http://en.opensuse.org/Portal:Medical/section.html](http://en.opensuse.org/Portal:Medical/section.html)
-ii) “Participate Page” : [http://en.opensuse.org/Portal:Medical/participate.html](http://en.opensuse.org/Portal:Medical/participate.html)
+i) “Section Page” : [//en.opensuse.org/Portal:Medical/section.html](//en.opensuse.org/Portal:Medical/section.html)
+ii) “Participate Page” : [//en.opensuse.org/Portal:Medical/participate.html](//en.opensuse.org/Portal:Medical/participate.html)
 
 The process is you have a look at the Sections and then you declare your participation in the “Participate Page” (according to the instructions given in the pages).
 

@@ -43,4 +43,4 @@ There will be an Own Cloud Summit, Kolab Summit, Kernel Summit (by SUSE Labs) an
 
 Volunteers who would like to participate on the Program Committee or the Organizing Team for the conference should email [ddemaio@suse.de](mailto:ddemaio@suse.de).
 
-Visit [events.opensuse.org](http://events.opensuse.org) for more information about oSC16.
+Visit [events.opensuse.org](//events.opensuse.org) for more information about oSC16.

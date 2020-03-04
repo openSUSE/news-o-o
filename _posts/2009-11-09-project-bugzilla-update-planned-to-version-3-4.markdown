@@ -21,33 +21,33 @@ The date for this upgrade is Saturday November 14 at 9am mountain time (that is 
 ## New Features
 
 
-There is a long [list of enhancements](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat) in Bugzilla 3.4 , the user visible ones include:
+There is a long [list of enhancements](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat) in Bugzilla 3.4 , the user visible ones include:
 
 
 
 	
-  * [Simple Bug Filing](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_enter)
+  * [Simple Bug Filing](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_enter)
 
 	
-  * [Email Addresses Hidden From Logged-Out      Users](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_spam)
+  * [Email Addresses Hidden From Logged-Out      Users](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_spam)
 
 	
-  * [Shorter Search URLs](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_urls)
+  * [Shorter Search URLs](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_urls)
 
 	
-  * [Dates and Times Displayed In User's Time     Zone](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_tz)
+  * [Dates and Times Displayed In User's Time     Zone](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_tz)
 
 	
-  * ["See Also" Field](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_see)
+  * ["See Also" Field](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_see)
 
 	
-  * [Re-order Columns in Search Results](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_cols)
+  * [Re-order Columns in Search Results](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_cols)
 
 	
-  * [Search Descriptions](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_desc)
+  * [Search Descriptions](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_desc)
 
 	
-  * [Other Enhancements and Changes](http://www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_other)
+  * [Other Enhancements and Changes](//www.bugzilla.org/releases/3.4/release-notes.html#v34_feat_other)
 
 
 Additionally the following visible changes have been implemented:

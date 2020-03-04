@@ -17,7 +17,7 @@ tags:
 - opensuse
 ---
 
-![](/wp-content/uploads/2019/04/release-is-coming-black.png)The release of [openSUSE Leap 15.1](http://en.opensuse.org/Portal:15.1) is about three weeks away. To help spread the word about the release, we have counters available at [counter.opensuse.org](https://counter.opensuse.org) and more artwork on [https://github.com/openSUSE/artwork](https://github.com/openSUSE/artwork)/. You can put these items on your social media or blog pages to make sure everybody knows that the Release is Coming!
+![](/wp-content/uploads/2019/04/release-is-coming-black.png)The release of [openSUSE Leap 15.1](//en.opensuse.org/Portal:15.1) is about three weeks away. To help spread the word about the release, we have counters available at [counter.opensuse.org](https://counter.opensuse.org) and more artwork on [https://github.com/openSUSE/artwork](https://github.com/openSUSE/artwork)/. You can put these items on your social media or blog pages to make sure everybody knows that the Release is Coming!
 
 
 ## For you blog and social media accounts
@@ -66,8 +66,8 @@ If you want to decorate your blog or website with a nice Leap 15.1 banner, grab 
 ### Release Counter
 
 
-[![](http://counter.opensuse.org/small.png)](http://en.opensuse.org/Portal:13.1)You can add the openSUSE 15.1 release counter to your website in various sizes by including the following html code in your blog:
-`<a href="http://en.opensuse.org/Portal:15.1"><img src="http://counter.opensuse.org/**medium**.png" border="0"/></a><br/>`
+[![](//counter.opensuse.org/small.png)](//en.opensuse.org/Portal:13.1)You can add the openSUSE 15.1 release counter to your website in various sizes by including the following html code in your blog:
+`<a href="//en.opensuse.org/Portal:15.1"><img src="//counter.opensuse.org/**medium**.png" border="0"/></a><br/>`
 "medium" is the size of the counter; it can also be "small" or "large" and we also have "wide" for a banner.
 
-See [the Countdown page on the openSUSE Wiki](http://en.opensuse.org/openSUSE:Countdown) for more countdown information, code and tips!
+See [the Countdown page on the openSUSE Wiki](//en.opensuse.org/openSUSE:Countdown) for more countdown information, code and tips!

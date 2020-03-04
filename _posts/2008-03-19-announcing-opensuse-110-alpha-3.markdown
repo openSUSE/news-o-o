@@ -16,9 +16,9 @@ After four regular weeks and one hack week after Alpha 2, we are very happy to a
 
 
 
-[![yast-2_thumb.png](/wp-content/uploads/2008/03/yast-2_thumb.png)](http://files.opensuse.org/opensuse/en/1/19/A3-yast-2.png) [![KDE4 Desktop](/wp-content/uploads/2008/03/a3-kde.png)](http://files.opensuse.org/opensuse/en/e/e0/A3-kde4.png) [![GNOME](/wp-content/uploads/2008/03/a3-gnome-2_thumb.jpg)](http://files.opensuse.org/opensuse/en/9/94/A3-gnome-2.jpg)
+[![yast-2_thumb.png](/wp-content/uploads/2008/03/yast-2_thumb.png)](//files.opensuse.org/opensuse/en/1/19/A3-yast-2.png) [![KDE4 Desktop](/wp-content/uploads/2008/03/a3-kde.png)](//files.opensuse.org/opensuse/en/e/e0/A3-kde4.png) [![GNOME](/wp-content/uploads/2008/03/a3-gnome-2_thumb.jpg)](//files.opensuse.org/opensuse/en/9/94/A3-gnome-2.jpg)
   
-See more screenshots on the [Screenshots/openSUSE_11.0_Alpha3](http://en.opensuse.org/Screenshots/openSUSE_11.0_Alpha3) wiki page
+See more screenshots on the [Screenshots/openSUSE_11.0_Alpha3](//en.opensuse.org/Screenshots/openSUSE_11.0_Alpha3) wiki page
 
 
 <!-- more -->
@@ -28,7 +28,7 @@ See more screenshots on the [Screenshots/openSUSE_11.0_Alpha3](http://en.opensus
 ### Changes since openSUSE 11.0 Alpha 2
 
 
-The highlight of course is the [reworked ZYpp framework](http://duncan.mac-vicar.com/blog/archives/296), which gives you a much faster package management experience. This release also contains a new and professional [installer theme](http://en.opensuse.org/Screenshots/openSUSE_11.0_Alpha3).
+The highlight of course is the [reworked ZYpp framework](//duncan.mac-vicar.com/blog/archives/296), which gives you a much faster package management experience. This release also contains a new and professional [installer theme](//en.opensuse.org/Screenshots/openSUSE_11.0_Alpha3).
 
 A lot of packages were also updated to newer versions:
 
@@ -48,7 +48,7 @@ A lot of packages were also updated to newer versions:
 
 
 	
-  * [Compiz](http://opensuse.org/Compiz) 0.7.2
+  * [Compiz](//opensuse.org/Compiz) 0.7.2
 
 
 	
@@ -56,13 +56,13 @@ A lot of packages were also updated to newer versions:
 
 
 	
-  * [Zypper](http://opensuse.org/Zypper) 0.10.2
+  * [Zypper](//opensuse.org/Zypper) 0.10.2
 
 
 
 
 
-This is just the tip of the iceberg. There were 1855 checkins since Alpha2 - you can get a more complete list at [Factory/News](http://en.opensuse.org/Factory/News)
+This is just the tip of the iceberg. There were 1855 checkins since Alpha2 - you can get a more complete list at [Factory/News](//en.opensuse.org/Factory/News)
 
 
 
@@ -102,7 +102,7 @@ Due to the huge amount of changes, there are also quite a few bugs that slipped 
 
 
 
-Find an up-to-date list under [Bugs:Most_Annoying_Bugs_11.0_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev)
+Find an up-to-date list under [Bugs:Most_Annoying_Bugs_11.0_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev)
 
 
 
@@ -112,7 +112,7 @@ Find an up-to-date list under [Bugs:Most_Annoying_Bugs_11.0_dev](http://en.opens
 
 
 
-We created the same media as with Alpha 2. They can all be downloaded at [**software.openSUSE.org/developer**](http://software.openSUSE.org/developer):
+We created the same media as with Alpha 2. They can all be downloaded at [**software.openSUSE.org/developer**](//software.openSUSE.org/developer):
 
 
 
@@ -137,4 +137,4 @@ We created the same media as with Alpha 2. They can all be downloaded at [**soft
 
 
 
-The next development release will be openSUSE 11.0 Beta 1 on April 17th ([Roadmap](http://en.opensuse.org/Roadmap)).
+The next development release will be openSUSE 11.0 Beta 1 on April 17th ([Roadmap](//en.opensuse.org/Roadmap)).

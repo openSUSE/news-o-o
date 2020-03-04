@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-[caption id="attachment_5220" align="alignright" width="300" caption="Meeks and Wafaa"][![Meeks and Wafaa](/wp-content/uploads/2010/10/20101020_001.jpg)](http://news.opensuse.org/2010/10/23/smeegol-at-osc/20101020_001/)[/caption]
+[caption id="attachment_5220" align="alignright" width="300" caption="Meeks and Wafaa"][![Meeks and Wafaa](/wp-content/uploads/2010/10/20101020_001.jpg)](//news.opensuse.org/2010/10/23/smeegol-at-osc/20101020_001/)[/caption]
 
 Wednesday at the conference, Smeegol master Andrew "Funkypenguin" Wafaa was given the stage by Michael Meeks who was supposed to talk about MeeGo. Meeks claimed that he'd rather have someone on the stage who actually knew what he was talking about, hence Andrew had to explain himself to the audience.
 

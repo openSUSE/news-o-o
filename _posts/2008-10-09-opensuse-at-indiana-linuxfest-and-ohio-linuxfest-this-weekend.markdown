@@ -13,9 +13,9 @@ categories:
 
 The openSUSE Project is going to have a presence at the Indiana Linuxfest and Ohio Linuxfests this weekend.
 
-Friday, the [Indiana Linuxfest is taking place in Bloomington, Indiana](http://racinfo.indiana.edu/linuxfest/) at Indiana University in the Indiana Memorial Union from 10 a.m. to 4 p.m. openSUSE Community Manager Joe 'Zonker' Brockmeier will be giving the opening keynote, "Building Community and Taking Linux to the Masses," at 10 a.m.
+Friday, the [Indiana Linuxfest is taking place in Bloomington, Indiana](//racinfo.indiana.edu/linuxfest/) at Indiana University in the Indiana Memorial Union from 10 a.m. to 4 p.m. openSUSE Community Manager Joe 'Zonker' Brockmeier will be giving the opening keynote, "Building Community and Taking Linux to the Masses," at 10 a.m.
 
-The Indiana Linuxfest has a [diverse schedule](http://racinfo.indiana.edu/linuxfest/schedule.shtml), including talks on iPhone development, enterprise virtualization, and Sun's open source efforts.
+The Indiana Linuxfest has a [diverse schedule](//racinfo.indiana.edu/linuxfest/schedule.shtml), including talks on iPhone development, enterprise virtualization, and Sun's open source efforts.
 
 The Ohio LinuxFest 2008 takes place Friday and Saturday. Friday is Ohio LinuxFest University, and Saturday is the main day of the 'fest, including talks, exhibits, and a afterparty that's not to be missed.
 

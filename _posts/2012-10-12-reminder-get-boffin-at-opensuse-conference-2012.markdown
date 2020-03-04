@@ -27,7 +27,7 @@ BoF HOW-TO:
 
 
 	
-  * Enter your BoF into the [openSUSE Wiki page here](http://en.opensuse.org/openSUSE:Conference_BoF_sessions). There are 29 hour-long slots available in both venues over the four days of the conference, so there is plenty of time to talk.
+  * Enter your BoF into the [openSUSE Wiki page here](//en.opensuse.org/openSUSE:Conference_BoF_sessions). There are 29 hour-long slots available in both venues over the four days of the conference, so there is plenty of time to talk.
 
 	
   * Plan your BoF. Agree an agenda, consult team members who are not attending oSC12 for input, and make sure the important things you want to do for upcoming openSUSE distribution releases or changes you would like to have in the project are on the list.
@@ -48,7 +48,7 @@ BoF HOW-TO:
   * Nominate someone to take minutes, and publish those minutes on the relevant meeting list and add them to the openSUSE wiki!
 
 	
-  * Read more info and tips [in this article](http://news.opensuse.org/2012/10/03/osc-2012-bof-sessions-can-be-scheduled/)
+  * Read more info and tips [in this article](//news.opensuse.org/2012/10/03/osc-2012-bof-sessions-can-be-scheduled/)
 
 
 BoF sessions will take place in dedicated labs at the venues.

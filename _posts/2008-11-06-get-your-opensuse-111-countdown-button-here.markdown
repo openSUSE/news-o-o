@@ -18,9 +18,9 @@ tags:
 
 Yes, you too can have a beautiful openSUSE countdown button just like the one you see in this post.
 
-[![](http://counter.opensuse.org/11.1/medium)](http://en.opensuse.org/OpenSUSE_11.1)
+[![](//counter.opensuse.org/11.1/medium)](//en.opensuse.org/OpenSUSE_11.1)
 
-The banners have been updated, and [as Pascal Bleser reports](http://dev-loki.blogspot.com/2008/11/opensuse-111-countdown.html), we have localization for the following languages:
+The banners have been updated, and [as Pascal Bleser reports](//dev-loki.blogspot.com/2008/11/opensuse-111-countdown.html), we have localization for the following languages:
 
 
 

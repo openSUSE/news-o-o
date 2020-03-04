@@ -19,9 +19,9 @@ tags:
 - openoffice.org
 ---
 
-The openSUSE Project is pleased to announce [the release of openSUSE 11.2](http://software.opensuse.org/).  openSUSE 11.2 includes new versions of GNOME, KDE, OpenOffice.org, Firefox, the Linux kernel, and many, many more updates and improvements. In 11.2 you'll find more than 1,000 open source desktop applications. openSUSE also includes a full suite of server software and a rich selection of open source development tools.
+The openSUSE Project is pleased to announce [the release of openSUSE 11.2](//software.opensuse.org/).  openSUSE 11.2 includes new versions of GNOME, KDE, OpenOffice.org, Firefox, the Linux kernel, and many, many more updates and improvements. In 11.2 you'll find more than 1,000 open source desktop applications. openSUSE also includes a full suite of server software and a rich selection of open source development tools.
 
-You can find a bevy of [screenshots](http://en.opensuse.org/Screenshots/11.2) and more on the openSUSE wiki, and a lengthy list of packages and version numbers on [DistroWatch](http://distrowatch.com/suse).
+You can find a bevy of [screenshots](//en.opensuse.org/Screenshots/11.2) and more on the openSUSE wiki, and a lengthy list of packages and version numbers on [DistroWatch](//distrowatch.com/suse).
 
 Let's take a look at some of the more interesting features of openSUSE 11.2!
 
@@ -41,7 +41,7 @@ You'll also find plenty of GNOME greatness in openSUSE 11.2 as well. GNOME 2.28,
 
 OpenOffice.org 3.1 is a complete office productivity suite compatible with Microsoft Office. This release includes improvements in change tracking and collaboration in Writer, and major improvements to the drawing application.
 
-Social networking gets a boost in 11.2 with the addition of GNOME and KDE microblogging clients that handle multiple social network sites, [Gwibbe](http://en.opensuse.org/Gwibber)r, and [Choqok](http://www.dissociatedpress.net/2009/11/12/microblogging-with-choqok-in-opensuse-11-2/).
+Social networking gets a boost in 11.2 with the addition of GNOME and KDE microblogging clients that handle multiple social network sites, [Gwibbe](//en.opensuse.org/Gwibber)r, and [Choqok](//www.dissociatedpress.net/2009/11/12/microblogging-with-choqok-in-opensuse-11-2/).
 
 With openSUSE 11.2, you have the ability to install GNOME or KDE live media from USB, and numerous improvements to make openSUSE 11.2 much better on netbooks.
 
@@ -51,11 +51,11 @@ With openSUSE 11.2, you have the ability to install GNOME or KDE live media from
 
 The desktop improvements are the most noticeable, but there's plenty going on under the hood as well in openSUSE 11.2.
 
-Storage improvements include the ability to encrypt the entire hard disk, for users concerned about data security. Users can also take advantage of the next generation of filesystems for Linux with Ext4 or btrfs. In case you'd like to learn more about the new kernel features you can go at [KernelNewbies.org](http://kernelnewbies.org/LinuxChanges) and have a look at the "cool stuff" part.
+Storage improvements include the ability to encrypt the entire hard disk, for users concerned about data security. Users can also take advantage of the next generation of filesystems for Linux with Ext4 or btrfs. In case you'd like to learn more about the new kernel features you can go at [KernelNewbies.org](//kernelnewbies.org/LinuxChanges) and have a look at the "cool stuff" part.
 
-Want to manage remote openSUSE servers with a Web interface? That day is coming soon! openSUSE 11.2 users can [install](http://en.opensuse.org/YaST/Web/Installation) the first technology preview of WebYaST: a Web-based remote administration tool for openSUSE systems.
+Want to manage remote openSUSE servers with a Web interface? That day is coming soon! openSUSE 11.2 users can [install](//en.opensuse.org/YaST/Web/Installation) the first technology preview of WebYaST: a Web-based remote administration tool for openSUSE systems.
 
-Finally, you can upgrade in-place using Zypper! Though it's been possible to do an upgrade in place for some time, with caution, it's finally a "recommended" method of upgrade with openSUSE 11.2. For users who want to move from 11.1 to 11.2 using "zypper dup," see [Andreas Jaeger's post on Lizards](http://lizards.opensuse.org/2009/10/01/updating-in-place-from-opensuse-11-1-to-11-2/) about the process. It's quick, it's easy, and almost competely painless.
+Finally, you can upgrade in-place using Zypper! Though it's been possible to do an upgrade in place for some time, with caution, it's finally a "recommended" method of upgrade with openSUSE 11.2. For users who want to move from 11.1 to 11.2 using "zypper dup," see [Andreas Jaeger's post on Lizards](//lizards.opensuse.org/2009/10/01/updating-in-place-from-opensuse-11-1-to-11-2/) about the process. It's quick, it's easy, and almost competely painless.
 
 
 ## Linux for Education
@@ -104,7 +104,7 @@ Replace "image.iso" with the name of the ISO image that you have  downloaded, an
 ## We want to hear from you!
 
 
-The openSUSE Project [has many channels of communication](http://en.opensuse.org/Communicate)! Whether you prefer forums, email, or IRC, there are plenty of ways to communicate about openSUSE.
+The openSUSE Project [has many channels of communication](//en.opensuse.org/Communicate)! Whether you prefer forums, email, or IRC, there are plenty of ways to communicate about openSUSE.
 
 
 
@@ -115,15 +115,15 @@ The openSUSE Project [has many channels of communication](http://en.opensuse.org
   * Mailing  Lists: be sure to sign up for the mailing lists that fit your interests!
 
 	
-  * IRC: [#opensuse](irc://irc.freenode.net/opensuse/) on irc.freenode.net [and other channels](http://en.opensuse.org/Communicate/IRC).
+  * IRC: [#opensuse](irc://irc.freenode.net/opensuse/) on irc.freenode.net [and other channels](//en.opensuse.org/Communicate/IRC).
 
 	
-  * [Jabber, usenet, and more](http://en.opensuse.org/Communicate).
+  * [Jabber, usenet, and more](//en.opensuse.org/Communicate).
 
 
-To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](../) and  watch [Planet SUSE](http://www.planetsuse.org/) for  blog posts from the openSUSE community. We also update the @opensuse account on [Twitter](http://twitter.com/opensuse) and [Identi.ca](http://identi.ca/opensuse) regularly with news about the project.
+To keep up to date with openSUSE, be sure to keep an eye on [openSUSE News](../) and  watch [Planet SUSE](//www.planetsuse.org/) for  blog posts from the openSUSE community. We also update the @opensuse account on [Twitter](//twitter.com/opensuse) and [Identi.ca](//identi.ca/opensuse) regularly with news about the project.
 
-**Want to help the openSUSE Project? To get involved with openSUSE see  the [How to Participate](http://en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can  use [lots of different skills](http://en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the  project, so feel free to jump in!**
+**Want to help the openSUSE Project? To get involved with openSUSE see  the [How to Participate](//en.opensuse.org/How_to_Participate) page on the openSUSE wiki. We can  use [lots of different skills](//en.opensuse.org/How_to_Participate#What_skills_are_necessary.3F) to help the  project, so feel free to jump in!**
 
 
 ## Thanks!

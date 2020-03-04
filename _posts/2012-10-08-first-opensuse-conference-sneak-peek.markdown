@@ -26,10 +26,10 @@ Read on to get a taste of the contents of the conference, with video and text in
 ## Video Interviews
 
 
-We've interviewed Agustin Benito, our keynote speaker, who will talk about the importance of Small and Medium businesses for Linux World Dominance. See below or [click here](http://blip.tv/opensuse/interview-with-keynote-speaker-agustin-benito-from-suse-linux-6389522) for a link to blip.tv
+We've interviewed Agustin Benito, our keynote speaker, who will talk about the importance of Small and Medium businesses for Linux World Dominance. See below or [click here](//blip.tv/opensuse/interview-with-keynote-speaker-agustin-benito-from-suse-linux-6389522) for a link to blip.tv
 
 
-The second speaker we interviewed is Linux Defender Armijn Hemel from the Open Invention Network. [Click here](http://blip.tv/opensuse/interview-with-linux-defender-armijn-hemel-from-oin-6389518) for a blip.tv link.
+The second speaker we interviewed is Linux Defender Armijn Hemel from the Open Invention Network. [Click here](//blip.tv/opensuse/interview-with-linux-defender-armijn-hemel-from-oin-6389518) for a blip.tv link.
 
 
 
@@ -71,11 +71,11 @@ Web developers aren't forgotten. As part of the Linux Days proram you can catch 
 
 How will your software fit in the world of open source? Learn more about the ecosystem with  Libor PecháÍek's 'How software gets from the community to commercial enterprise'. 
 
-There are many more advanced sessions at the conference, see more in [the schedule](http://bootstrapping-awesome.org/schedule/).
+There are many more advanced sessions at the conference, see more in [the schedule](//bootstrapping-awesome.org/schedule/).
 
 
 
 ## Be there!
 
 
-The conference will start in less than two weeks! That means it is time to [find accomodation](http://www.linuxdays.cz/accomodation/), start planning your trip and of course [make sure you are registered](http://conference.opensuse.org/Register/)!
+The conference will start in less than two weeks! That means it is time to [find accomodation](//www.linuxdays.cz/accomodation/), start planning your trip and of course [make sure you are registered](//conference.opensuse.org/Register/)!

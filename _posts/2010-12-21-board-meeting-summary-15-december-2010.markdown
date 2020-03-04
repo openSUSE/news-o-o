@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-For the full transcript of the last openSUSE Board meeting, see our [logs.](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html)
+For the full transcript of the last openSUSE Board meeting, see our [logs.](//community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html)
 
 **Introduction of new openSUSE Board Chairman - Alan Clark**
 
@@ -47,7 +47,7 @@ Our regular topic to identify areas where we fail and can quickly remedy brought
 
 We also took a general board action item to review [opensuse.org product category in openFATE](https://features.opensuse.org/statistic/product/opensuse.org) to ensure we stay on top of "Where do we fail?" concerns that are not brought up during board meetings.
 
-Read [here for the full meeting transcript](http://community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html).
+Read [here for the full meeting transcript](//community.opensuse.org/meetings/opensuse-project/2010/opensuse-project.2010-12-15-19.01.log.html).
 
 **Next Meeting**
 

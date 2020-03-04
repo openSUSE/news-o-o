@@ -13,14 +13,14 @@ categories:
 - Infrastructure
 ---
 
-[![obs-logo](//news.opensuse.org/wp-content/uploads/2013/04/obs-logo.png)](http://openbuildservice.org)
+[![obs-logo](//news.opensuse.org/wp-content/uploads/2013/04/obs-logo.png)](//openbuildservice.org)
 
 
-Over at [openbuildservice.org](http://openbuildservice.org) they have released the Open Build Service (OBS) version 2.4 which supports yet another package format (Arch's PKGBUILD), secure boot signing, appstream metadata, introduces a new constraint system and makes everything a lot snappier. Go check out their [release announcement](http://openbuildservice.org/2013/04/30/version-2.4/) to learn all the nitty gritty details of OBS 2.4.
+Over at [openbuildservice.org](//openbuildservice.org) they have released the Open Build Service (OBS) version 2.4 which supports yet another package format (Arch's PKGBUILD), secure boot signing, appstream metadata, introduces a new constraint system and makes everything a lot snappier. Go check out their [release announcement](//openbuildservice.org/2013/04/30/version-2.4/) to learn all the nitty gritty details of OBS 2.4.
 
 
 
-On the OBS reference server, [build.opensuse.org](http://build.opensuse.org), which we use to build our most awesome GNU/Linux distribution we have followed the road to this release since early January and of course the final 2.4 release is already deployed there. We are very happy that the openSUSE community was able to help make this a rock solid OBS release with a lot of great features and we congratulate the OBS team on this new version.
+On the OBS reference server, [build.opensuse.org](//build.opensuse.org), which we use to build our most awesome GNU/Linux distribution we have followed the road to this release since early January and of course the final 2.4 release is already deployed there. We are very happy that the openSUSE community was able to help make this a rock solid OBS release with a lot of great features and we congratulate the OBS team on this new version.
 
 [gallery ids="15915,15890,15891"]
 
@@ -54,11 +54,11 @@ _– check out more pictures of OBS hardware in the [Google+ group](https://plus
 
 _– said openSUSE Release Manager Stephan "coolo" Kulow_.
 
-So don't forget that you can make a difference with your support and sponsorship for the openSUSE and OBS communities. If you happen be able to, or know someone who can, donate serious I/O power to the Open Build Service reference server - it's time to [tell us](http://openbuildservice.org/team/)!
+So don't forget that you can make a difference with your support and sponsorship for the openSUSE and OBS communities. If you happen be able to, or know someone who can, donate serious I/O power to the Open Build Service reference server - it's time to [tell us](//openbuildservice.org/team/)!
 
 
 
 ## Go Check It Out!
 
 
-See all the awesomeness of this new release. Either download the [appliance](http://openbuildservice.org/download/) and run your own instance or head over to the [reference server](http://build.opensuse.org) to get your taste of OBS 2.4. And don't forget to let us know how it goes on [twitter](https://twitter.com/OBShq), [G+](https://plus.google.com/114569615797299390351/posts), [facebook](https://www.facebook.com/buildservice) or simply in the comment section below. We're looking forward to hear from you!
+See all the awesomeness of this new release. Either download the [appliance](//openbuildservice.org/download/) and run your own instance or head over to the [reference server](//build.opensuse.org) to get your taste of OBS 2.4. And don't forget to let us know how it goes on [twitter](https://twitter.com/OBShq), [G+](https://plus.google.com/114569615797299390351/posts), [facebook](https://www.facebook.com/buildservice) or simply in the comment section below. We're looking forward to hear from you!

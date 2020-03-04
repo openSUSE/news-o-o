@@ -15,7 +15,7 @@ Lars Mueller is one of Samba developers.
 
 
 
-I have limited need for [Samba](http://www.samba.org) which is the most often used way to connect Windows and Linux networked computers, so I couldn't miss [ openSUSE wiki article](http://en.opensuse.org/Samba). Wiki can edit anybody, so check who are the authors is part of routine, and I looked at [Lmuelle](http://en.opensuse.org/User:Lmuelle).
+I have limited need for [Samba](//www.samba.org) which is the most often used way to connect Windows and Linux networked computers, so I couldn't miss [ openSUSE wiki article](//en.opensuse.org/Samba). Wiki can edit anybody, so check who are the authors is part of routine, and I looked at [Lmuelle](//en.opensuse.org/User:Lmuelle).
 
 He has universal views on Linux and openSUSE, and as you going to see, you can agree with many of them.
 
@@ -61,7 +61,7 @@ He has universal views on Linux and openSUSE, and as you going to see, you can a
 <td valign="top" >**Homepage: **
 </td>
 
-<td >[http://samba.org/~lmuelle](http://samba.org/~lmuelle)
+<td >[//samba.org/~lmuelle](//samba.org/~lmuelle)
 </td>
 </tr>
 <tr >
@@ -135,9 +135,9 @@ In 2000 I started to work for SUSE at the support department and got involved in
 
 Later I got part of the server technologies team and I focused on the integration of Samba into different SUSE based products.
 
-After the acquisition of SUSE by Novell all people working on Samba got merged into the Novell Samba Team which is part of the SUSE Labs department. [Samba article on the openSUSE Wiki](http://en.openSUSE.org/Samba) provides an overview of what we're doing and how it's possible to contribute.
+After the acquisition of SUSE by Novell all people working on Samba got merged into the Novell Samba Team which is part of the SUSE Labs department. [Samba article on the openSUSE Wiki](//en.openSUSE.org/Samba) provides an overview of what we're doing and how it's possible to contribute.
 
-In 2005 the Samba Team invited me to join and I'm still happy and proud of being part of this highly motivated group of developers.  Even after many years it's still exciting to meet other Samba developers and our users, like recently at [SambaXP.org](http://sambaxp.org/).
+In 2005 the Samba Team invited me to join and I'm still happy and proud of being part of this highly motivated group of developers.  Even after many years it's still exciting to meet other Samba developers and our users, like recently at [SambaXP.org](//sambaxp.org/).
 
 
 
@@ -175,8 +175,8 @@ We as the Novell Samba Team now are a simple consumer of the OBS and are quite h
 
 But to answer your question it was spring 2008 when we started to use the OBS. We've tried several other approaches to provide Samba binaries before.  But at the end OBS looked most flexible and provides many features in direction of collaboration.  With my samba.org hat I would like to see getting more non SUSE developers involved.
 
-But even before we maintained [Samba on openSUSE](http://en.openSUSE.org/Samba) to provide a starting point for Samba users of SUSE products.  While doing this we always have the generic upstream Samba.org work in mind and put as much as possible
-into the generic [ wiki.samba.org ](http://wiki.samba.org/index.php/Main_Page).
+But even before we maintained [Samba on openSUSE](//en.openSUSE.org/Samba) to provide a starting point for Samba users of SUSE products.  While doing this we always have the generic upstream Samba.org work in mind and put as much as possible
+into the generic [ wiki.samba.org ](//wiki.samba.org/index.php/Main_Page).
 
 
 
@@ -295,7 +295,7 @@ Much to many to remember.  And I would forget an important one anyhow.  I even c
 
 
 Zero.  Else I would not be able to see these nice KDE 4 background pictures.
-I'm currently using KDE 4.2.3 as available from the [KDE:/KDE4:/Factory:/Desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop) repo.
+I'm currently using KDE 4.2.3 as available from the [KDE:/KDE4:/Factory:/Desktop](//download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop) repo.
 
 
 
@@ -319,7 +319,7 @@ _Cause else I would not be able to reply to your mail and to answer your questio
 
 See my comment on kernel updates before.
 
-As soon as this is done the Open Source community should consider to implement a highly integrated directory based authentication service as it is provided by Microsoft's Active Directory.  No password caching please!  I'm talking about Kerberos and friends.  See [Ralf Haferkamp's mail on this topic](http://lists.opensuse.org/opensuse-factory/2009-05/msg00019.html) with references to the [](https://fedorahosted.org/sssd)SSSD project.
+As soon as this is done the Open Source community should consider to implement a highly integrated directory based authentication service as it is provided by Microsoft's Active Directory.  No password caching please!  I'm talking about Kerberos and friends.  See [Ralf Haferkamp's mail on this topic](//lists.opensuse.org/opensuse-factory/2009-05/msg00019.html) with references to the [](https://fedorahosted.org/sssd)SSSD project.
 
 
 

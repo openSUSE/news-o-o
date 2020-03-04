@@ -18,4 +18,4 @@ Comments on the news articles is open for everybody, just for contributing new s
 
 We also have a calendar (with .ical) for events and other important openSUSE events.
 
-In general, for blogs of openSUSE folks, I'd like to point to the [Planet SUSE agregator ](http://www.planetsuse.org) and say a big thank you to James Ogley for running this service for several years now!
+In general, for blogs of openSUSE folks, I'd like to point to the [Planet SUSE agregator ](//www.planetsuse.org) and say a big thank you to James Ogley for running this service for several years now!

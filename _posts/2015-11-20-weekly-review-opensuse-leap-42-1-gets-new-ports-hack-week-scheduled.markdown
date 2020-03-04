@@ -13,7 +13,7 @@ categories:
 - Leap
 ---
 
-The openSUSE Project has been very busy this week. The project shared a booth with SUSE at the [Supercomputing Conference](http://sc15.supercomputing.org) in Austin, Texas, this week. 
+The openSUSE Project has been very busy this week. The project shared a booth with SUSE at the [Supercomputing Conference](//sc15.supercomputing.org) in Austin, Texas, this week. 
 
 [![](https://pbs.twimg.com/media/CUIBhOEUwAA0MNC.jpg:small)](https://pbs.twimg.com/media/CUIBhOEUwAA0MNC.jpg:large)
 
@@ -37,11 +37,11 @@ Tumbleweed is once again finding a rhythm for the release of its snapshots. This
 
 The three snapshots this week brought [GNOME 3.18.2](https://mail.gnome.org/archives/gnome-announce-list/2015-November/msg00008.html), [KDE Applications 15.08.03](https://techbase.kde.org/Schedules/Applications/15.08_Release_Schedule#Tuesday.2C_November_10.2C_2015:_KDE_Applications_15.08.3_release) and several other fixes.
 
-In the next snapshot, expect new default system fonts, [X.Org 1.18](http://www.phoronix.com/scan.php?page=news_item&px=Xorg-Server-1.18) and [Mesa 11.0.5](//news.softpedia.com/news/mesa-11-0-5-3d-graphics-library-patches-intel-and-nouveau-video-drivers-more-496049.shtml). [Ghostscript 9.18](http://www.ghostscript.com/doc/9.18/News.htm) is also expected, but it did cause a few build failures in stagings, so if you’re building anything against it, be forewarned.
+In the next snapshot, expect new default system fonts, [X.Org 1.18](//www.phoronix.com/scan.php?page=news_item&px=Xorg-Server-1.18) and [Mesa 11.0.5](//news.softpedia.com/news/mesa-11-0-5-3d-graphics-library-patches-intel-and-nouveau-video-drivers-more-496049.shtml). [Ghostscript 9.18](//www.ghostscript.com/doc/9.18/News.htm) is also expected, but it did cause a few build failures in stagings, so if you’re building anything against it, be forewarned.
 
 There are some projects in Factory staging we need your help with before they will be released in a Tumbleweed snapshot.
 
-Dominique Leuenberger wrote in the [Tumbleweed weekly review](http://lists.opensuse.org/opensuse-factory/2015-11/msg00550.html) email that some expect issues with the new [Boost version 1.59](http://www.boost.org/users/history/version_1_59_0.html) and that there are quick a few fixes needed. [GStreamer 1.6](http://gstreamer.freedesktop.org/releases/1.6/) has most of the packages ready, but some the critical component Phonon is missing. 
+Dominique Leuenberger wrote in the [Tumbleweed weekly review](//lists.opensuse.org/opensuse-factory/2015-11/msg00550.html) email that some expect issues with the new [Boost version 1.59](//www.boost.org/users/history/version_1_59_0.html) and that there are quick a few fixes needed. [GStreamer 1.6](//gstreamer.freedesktop.org/releases/1.6/) has most of the packages ready, but some the critical component Phonon is missing. 
 
 With all this, I wish you a great weekend – and always remember: Have a
 lot of fun.

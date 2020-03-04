@@ -49,10 +49,10 @@ Transportation:
 
 
 	
-  * [Park Plaza Beijing Science Park Hotel](http://www.parkplaza.com/beijing-hotel-cn-100083/chnbjch) (北京丽亭华苑酒店)
+  * [Park Plaza Beijing Science Park Hotel](//www.parkplaza.com/beijing-hotel-cn-100083/chnbjch) (北京丽亭华苑酒店)
 
 	
-  * [Vision Hotel](http://www.visionplaza.cn/index.php?Locale=en-us) (唯实国际文化交流中心)
+  * [Vision Hotel](//www.visionplaza.cn/index.php?Locale=en-us) (唯实国际文化交流中心)
 
 
 
@@ -62,7 +62,7 @@ Transportation:
 
 
 
-If you have difficult to access Google Maps, please visit the [link to OpenStreetMap](http://www.openstreetmap.org/?mlat=39.97926&mlon=116.34569#map=17/39.97926/116.34569).
+If you have difficult to access Google Maps, please visit the [link to OpenStreetMap](//www.openstreetmap.org/?mlat=39.97926&mlon=116.34569#map=17/39.97926/116.34569).
 
 
 

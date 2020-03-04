@@ -11,14 +11,14 @@ categories:
 - People of openSUSE
 ---
 
-Marcus Schaefer is busy with  [Build Service](http://en.opensuse.org/Build_Service), [KIWI](http://kiwi.berlios.de/) and [SUSE Studio](http://susestudio.com/).
+Marcus Schaefer is busy with  [Build Service](//en.opensuse.org/Build_Service), [KIWI](//kiwi.berlios.de/) and [SUSE Studio](//susestudio.com/).
 
 
 
 Every openSUSE user, that tuned graphic, used SaX2. The xorg.conf created with SaX2 has this line:
   # Contact: Marcus Schaefer , 2005
 
-Of course the sax2 is the best known, or better to say the most popular part of his work, but there is much more. The most recent project is [KIWI](http://kiwi.berlios.de/) that allows relative painless creation of distribution images (CD, DVD, USB memory stick, ... ), and the KIWI is what powers up the [SUSE Studio](http://susestudio.com/), powerfull and easy to use image creation service. 
+Of course the sax2 is the best known, or better to say the most popular part of his work, but there is much more. The most recent project is [KIWI](//kiwi.berlios.de/) that allows relative painless creation of distribution images (CD, DVD, USB memory stick, ... ), and the KIWI is what powers up the [SUSE Studio](//susestudio.com/), powerfull and easy to use image creation service. 
 
 <!-- more -->
 
@@ -62,7 +62,7 @@ Of course the sax2 is the best known, or better to say the most popular part of 
 <td valign="top" >**Homepage: **
 </td>
 
-<td > [http://www-ms.homelinux.com](http://www-ms.homelinux.com)
+<td > [//www-ms.homelinux.com](//www-ms.homelinux.com)
 </td>
 </tr>
 <tr >
@@ -70,7 +70,7 @@ Of course the sax2 is the best known, or better to say the most popular part of 
 <td valign="top" >**Blog:**
 </td>
 
-<td > [openSUSE blog](http://lizards.opensuse.org/author/sax2/)
+<td > [openSUSE blog](//lizards.opensuse.org/author/sax2/)
 </td>
 
 <td >

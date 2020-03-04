@@ -12,7 +12,7 @@ categories:
 - Infrastructure
 ---
 
-In order to provide a better service to the existing openSUSE Community and to our new users, we're pleased to announce that [suseforums.net](http://www.suseforums.net), [suselinuxsupport.de](http://www.suselinuxsupport.de) and the openSUSE support forums at [forums.novell.com](http://forums.novell.com/opensuse-support-forums/) (the three largest English speaking dedicated SUSE forums) are joining forces to merge into the new official openSUSE Forums at forums.opensuse.org.
+In order to provide a better service to the existing openSUSE Community and to our new users, we're pleased to announce that [suseforums.net](//www.suseforums.net), [suselinuxsupport.de](//www.suselinuxsupport.de) and the openSUSE support forums at [forums.novell.com](//forums.novell.com/opensuse-support-forums/) (the three largest English speaking dedicated SUSE forums) are joining forces to merge into the new official openSUSE Forums at forums.opensuse.org.
 
 [![openSUSE](/wp-content/uploads/2008/03/opensuse_cc.png)](/wp-content/uploads/2008/03/opensuse_cc.png)[![SUSEForums](/wp-content/uploads/2008/03/suseforums.gif)](/wp-content/uploads/2008/03/suseforums.gif)
 [![SUSELinuxSupport](/wp-content/uploads/2008/03/suselinuxsupport.png)](/wp-content/uploads/2008/03/suselinuxsupport.png)

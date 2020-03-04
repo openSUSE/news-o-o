@@ -11,4 +11,4 @@ categories:
 - Distribution
 ---
 
-Some interesting data on the dektop usage of Linux. What's striking is that popularity of openSUSE almost doubled form roughly 10% in 2006 to close to 20% in [2007 survey](http://www.desktoplinux.com/news/NS8454912761.html).
+Some interesting data on the dektop usage of Linux. What's striking is that popularity of openSUSE almost doubled form roughly 10% in 2006 to close to 20% in [2007 survey](//www.desktoplinux.com/news/NS8454912761.html).

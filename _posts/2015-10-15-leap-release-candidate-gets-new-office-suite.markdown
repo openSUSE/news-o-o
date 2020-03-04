@@ -22,7 +22,7 @@ Leap is less about the newest updates, which is the purpose of [Tumbleweed](http
 There are about 70 bugs in Leap, but some are older, known bugs. KDE has many of the bugs currently in Leap and there are four critical bugs related to the kernel.
 
 
-<blockquote>The release of RC1 provides the last opportunity to test Leap before it is official released as Leap 42.1 on Nov. 4 during [SUSECon](http://www.susecon.com) in Amsterdam.</blockquote>
+<blockquote>The release of RC1 provides the last opportunity to test Leap before it is official released as Leap 42.1 on Nov. 4 during [SUSECon](//www.susecon.com) in Amsterdam.</blockquote>
 
 
 The Goldmaster is scheduled for Oct. 30, so translations, release notes and localization of the release should be completed by Oct. 30.

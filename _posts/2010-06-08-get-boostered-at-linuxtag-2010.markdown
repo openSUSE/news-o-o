@@ -13,5 +13,5 @@ tags:
 - boosters
 ---
 
-[caption id="attachment_3454" align="aligncenter" width="522" caption="LinuxTag is starting tomorrow. Swing by Berlin and get a lift from the openSUSE Boosters."][![Get boostered at the LinuxTag](/wp-content/uploads/2010/06/programm.png)](http://en.opensuse.org/LinuxTag_2010#Hack-Sessions)[/caption]
+[caption id="attachment_3454" align="aligncenter" width="522" caption="LinuxTag is starting tomorrow. Swing by Berlin and get a lift from the openSUSE Boosters."][![Get boostered at the LinuxTag](/wp-content/uploads/2010/06/programm.png)](//en.opensuse.org/LinuxTag_2010#Hack-Sessions)[/caption]
 

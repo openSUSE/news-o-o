@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-[![get it logo](//news.opensuse.org/wp-content/uploads/2013/03/get_it1.png)](http://software.opensuse.org/)
+[![get it logo](//news.opensuse.org/wp-content/uploads/2013/03/get_it1.png)](//software.opensuse.org/)
 It is almost weekend and you want to _try another Linux distribution_? We've got you covered!
 
 The Linux ecosystem is a varied one with hundreds of distributions, each having their unique set of abilities and limitations. Some compile the source on your system, others let you choose between init systems, try to be as small as possible, experiment with security solutions and more. There is also variation in governance: some are strongly top-down organized, others decide in a meritocratic way or vote. Some have strong corporate sponsor pushing decisions - others don't. Some care to collaborate, others don't value the wider ecosystem much and go their own way.
@@ -47,13 +47,13 @@ Before we continue, let's point to some helpful sources of information. The main
 
 
 
-  * [the openSUSE Documentation](hhttp://doc.opensuse.org/) from the openSUSE documentation team
+  * [the openSUSE Documentation](h//doc.opensuse.org/) from the openSUSE documentation team
 
 
   * [the openSUSE Support database](https://en.opensuse.org/Portal:Support_database) written and verified by technical openSUSE users (search is on the right of the page)
 
 
-  * [the openSUSE Forums](http://forum.opensuse.org) where other users can help you with your issues and where you can help others in return
+  * [the openSUSE Forums](//forum.opensuse.org) where other users can help you with your issues and where you can help others in return
 
 
   * [the openSUSE mailing list](mailto:opensuse+subscribe@opensuse.org) where, like the forums, you can find and provide help. We also have [IRC channels](https://en.opensuse.org/openSUSE:IRC_list).
@@ -66,10 +66,10 @@ Then there are a number of unofficial sources of information we can't ignore:
 
 
 
-  * [openSUSE-guide.org](http://opensuse-guide.org/)
+  * [openSUSE-guide.org](//opensuse-guide.org/)
 
 
-  * [opensuse-community.org](http://opensuse-community.org/)
+  * [opensuse-community.org](//opensuse-community.org/)
 
 
 ... and you can find plenty more on the web.
@@ -101,15 +101,15 @@ Not all is rosy in YaST2 land, as the tool is beginning to show its age. The UI-
 openSUSE uses _rpm_ as low-level package handler and _zypper_ as easier frontend, plus a YaST2 module, yum, apt4rpm and PackageKit as options. Zypper is a very powerful and efficient package manager. It deals with dependency corner cases arguably better than any competing packaging tool, is incredibly fast doing it and offers a helpful and easy interface to the end user.
 
 **patterns**
-zypper & friends offer _patterns_ to deal with the installation of groups of packages. These can be recognized by the _pattern-_ prefix and for example WebYaST and its most important modules can be installed by issueing _zypper in patterns-openSUSE-webyast_ in a root terminal. A more pro-tip is that zypper has [_multi-package-support_](http://en.opensuse.org/SDB:Keep_multiple_kernel_versions), by default enabled for the kernel. This makes sure that zypper always keeps the current kernel on your system until you've booted in the new one successfully; and it can be made to keep for example the last 2 kernels around if you prefer some more certainty. Zypper's speed and versatility in handling package dependencies and corner cases is especially relevant in the light of another unique openSUSE technology: the Open Build Service.
+zypper & friends offer _patterns_ to deal with the installation of groups of packages. These can be recognized by the _pattern-_ prefix and for example WebYaST and its most important modules can be installed by issueing _zypper in patterns-openSUSE-webyast_ in a root terminal. A more pro-tip is that zypper has [_multi-package-support_](//en.opensuse.org/SDB:Keep_multiple_kernel_versions), by default enabled for the kernel. This makes sure that zypper always keeps the current kernel on your system until you've booted in the new one successfully; and it can be made to keep for example the last 2 kernels around if you prefer some more certainty. Zypper's speed and versatility in handling package dependencies and corner cases is especially relevant in the light of another unique openSUSE technology: the Open Build Service.
 
-[caption id="attachment_15519" align="alignright" width="300"][![game category on software.opensuse.org](//news.opensuse.org/wp-content/uploads/2013/03/game-category.png)](http://software.opensuse.org/packages) game category on software.opensuse.org[/caption]
+[caption id="attachment_15519" align="alignright" width="300"][![game category on software.opensuse.org](//news.opensuse.org/wp-content/uploads/2013/03/game-category.png)](//software.opensuse.org/packages) game category on software.opensuse.org[/caption]
 
 **Getting more software**
-_[software.opensuse.org](http://software.opensuse.org/packages)_ offers about 200.000 packages build by thousands of contributors on [build.opensuse.org](http://build.opensuse.org), a public instance of the [Open Build Service](http://openbuildservice.org). Package installation is made easy through the openSUSE _[1-click install technology](https://en.opensuse.org/openSUSE:One_Click_Install)_. You can read more about [OBS and the packages there in this article from last week](https://news.opensuse.org/2013/03/11/sneak-preview-iii-there-and-back-again-a-distros-tale/).
+_[software.opensuse.org](//software.opensuse.org/packages)_ offers about 200.000 packages build by thousands of contributors on [build.opensuse.org](//build.opensuse.org), a public instance of the [Open Build Service](//openbuildservice.org). Package installation is made easy through the openSUSE _[1-click install technology](https://en.opensuse.org/openSUSE:One_Click_Install)_. You can read more about [OBS and the packages there in this article from last week](https://news.opensuse.org/2013/03/11/sneak-preview-iii-there-and-back-again-a-distros-tale/).
 
 **Patented stuff and multimedia codecs**
-If you're looking for patented stuff, check out the [openSUSE Community site](http://opensuse-community.org/Restricted_formats/12.3) or simply install the [openSUSE-codecs-installer](http://software.opensuse.org/package/opensuse-codecs-installer?search_term=opensuse-codecs-installer). See [here for NVIDIA](https://en.opensuse.org/SDB:NVIDIA_drivers) and [here for AMD Radeon](https://en.opensuse.org/SDB:ATI_drivers) drivers.
+If you're looking for patented stuff, check out the [openSUSE Community site](//opensuse-community.org/Restricted_formats/12.3) or simply install the [openSUSE-codecs-installer](//software.opensuse.org/package/opensuse-codecs-installer?search_term=opensuse-codecs-installer). See [here for NVIDIA](https://en.opensuse.org/SDB:NVIDIA_drivers) and [here for AMD Radeon](https://en.opensuse.org/SDB:ATI_drivers) drivers.
 
 
 #### Installation and image building
@@ -121,7 +121,7 @@ LVM enables flexible distribution of hard disk space over several file systems. 
 
 RAID, or Redundant Array of Inexpensive Disks, is a system which allows two or more hard disks to be combined to increase storage space, use redundancy to protect against hardware failures, or both--while increasing overall disk performance. YaST can see and manage RAID setups as well as help you create them via 'Software RAID'. YaST supports RAID levels 0, 1, 5, 6 and 10.
 
-Find [documentation for LVM and RAID here](http://doc.opensuse.org/documentation/html/openSUSE/opensuse-reference/cha.advdisk.html).
+Find [documentation for LVM and RAID here](//doc.opensuse.org/documentation/html/openSUSE/opensuse-reference/cha.advdisk.html).
 
 _**Important:** Every time you use these or other potentially dangerous tools, YaST will give you a fair warning before executing any destructive actions but in the end, it is in your hand!_
 
@@ -131,13 +131,13 @@ _**Important:** Every time you use these or other potentially dangerous tools, Y
 ## Distribution building tools
 
 
-Apart from a Free operating system the openSUSE Project develops the tools around our distribution in an effort to lower the barrier to distribution building. Our goal is to allow others to build packages and operating systems themselves for private use, business or community purposes. The most prominent of these tools are the [Open Build Service](http://openbuildservice.org/) and [Kiwi](https://en.opensuse.org/Portal:KIWI).
+Apart from a Free operating system the openSUSE Project develops the tools around our distribution in an effort to lower the barrier to distribution building. Our goal is to allow others to build packages and operating systems themselves for private use, business or community purposes. The most prominent of these tools are the [Open Build Service](//openbuildservice.org/) and [Kiwi](https://en.opensuse.org/Portal:KIWI).
 
 
 #### KIWI
 
 
-The openSUSE KIWI Image System provides a complete operating system image solution for Linux supported hardware platforms as well as for virtualisation systems like [Xen](http://www.xen.org/), [Qemu](http://wiki.qemu.org/Main_Page) or [VMware](http://www.vmware.com/). With KIWI you can do things like:
+The openSUSE KIWI Image System provides a complete operating system image solution for Linux supported hardware platforms as well as for virtualisation systems like [Xen](//www.xen.org/), [Qemu](//wiki.qemu.org/Main_Page) or [VMware](//www.vmware.com/). With KIWI you can do things like:
 
 
 
@@ -163,7 +163,7 @@ The openSUSE KIWI Image System provides a complete operating system image soluti
   * and much more ...
 
 
-Of course many of you maybe already be familiar with the famous [SUSE Studio](http://susestudio.com/home) that does most of that in a simpler 'lego' way through its web frontend to KIWI.
+Of course many of you maybe already be familiar with the famous [SUSE Studio](//susestudio.com/home) that does most of that in a simpler 'lego' way through its web frontend to KIWI.
 
 [![OBS screenshots](//news.opensuse.org/wp-content/uploads/2012/10/OBS-all-300x140.png)](//news.opensuse.org/wp-content/uploads/2012/10/OBS-all.png)
 
@@ -529,7 +529,7 @@ openSUSE is in the process of replacing current logging tools with a more advanc
 </tr>
 </tbody>
 </table>
-Use _journalctl --help_ for some more abilities of journald. Note that while the conversion is taking place, the 'old' ways keep working: you can still use _dmesg_ and _tail -f /var/log/messages_. Until journald integration is considered complete, we will not compromise these functions. Learn more about using journalctl [here](http://0pointer.de/blog/projects/journalctl.html) and [here](http://0pointer.de/public/systemd-man/journalctl.html).
+Use _journalctl --help_ for some more abilities of journald. Note that while the conversion is taking place, the 'old' ways keep working: you can still use _dmesg_ and _tail -f /var/log/messages_. Until journald integration is considered complete, we will not compromise these functions. Learn more about using journalctl [here](//0pointer.de/blog/projects/journalctl.html) and [here](//0pointer.de/public/systemd-man/journalctl.html).
 
 Go back up to the list of distributions
 
@@ -538,7 +538,7 @@ Go back up to the list of distributions
 ### Coming from Gentoo
 
 
-Gentoo lets you customize your distribution to the level of binary compilation. As openSUSE is a binary distribution it does not go this far, but if you want to apply your own patches or disable/enable some extra features, you are encouraged to use the [Open Build Service](http://build.opensuse.org). You can link a package from openSUSE:12.3 to your home, do the desired modification and use the package from your home repository.
+Gentoo lets you customize your distribution to the level of binary compilation. As openSUSE is a binary distribution it does not go this far, but if you want to apply your own patches or disable/enable some extra features, you are encouraged to use the [Open Build Service](//build.opensuse.org). You can link a package from openSUSE:12.3 to your home, do the desired modification and use the package from your home repository.
 
 **package management**
 
@@ -893,7 +893,7 @@ Go back up to the list of distributions
 ## Conclusion
 
 
-If you're unfamiliar with openSUSE, we hope the above will help you get into the Geeko quickly. If you need anything else, there is plenty of documentation to find on our [support portal](https://en.opensuse.org/Portal:Support). Of course we're very much willing to help you - our [openSUSE Forums](http://forums.opensuse.org) have many volunteers willing to help out and the same is true for the other channels mentioned on the support portal. And if you want to meet us - we're organizing [the openSUSE conference](http://conference.opensuse.org) in Greece this year and you're more than welcome!
+If you're unfamiliar with openSUSE, we hope the above will help you get into the Geeko quickly. If you need anything else, there is plenty of documentation to find on our [support portal](https://en.opensuse.org/Portal:Support). Of course we're very much willing to help you - our [openSUSE Forums](//forums.opensuse.org) have many volunteers willing to help out and the same is true for the other channels mentioned on the support portal. And if you want to meet us - we're organizing [the openSUSE conference](//conference.opensuse.org) in Greece this year and you're more than welcome!
 
 Have fun with the Geekos!
 

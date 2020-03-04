@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-[caption id="attachment_14680" align="alignright" width="150"][![Download](/wp-content/uploads/2012/12/3654543066_2c8823cb03_o-e1363960517132.jpg)](http://software.opensuse.org/developer/en) Get openSUSE 13.2 Beta![/caption]
+[caption id="attachment_14680" align="alignright" width="150"][![Download](/wp-content/uploads/2012/12/3654543066_2c8823cb03_o-e1363960517132.jpg)](//software.opensuse.org/developer/en) Get openSUSE 13.2 Beta![/caption]
 
 Our brand new 'Rolling Factory' has already amassed [over 6000 installations](https://news.opensuse.org/2014/09/05/factory-over-6000-installations-and-growing/) and that's just kicking awesome. But we won't just roll: we will still create releases of openSUSE, and 13.2 is next! According to the [roadmap](https://en.opensuse.org/openSUSE:Roadmap), our latest Geeko is due in November and it will be awesome. We promise. But it doesn't come for free: you will have to help.<!-- more -->
 
@@ -20,7 +20,7 @@ Our brand new 'Rolling Factory' has already amassed [over 6000 installations](ht
 ## Open Source isn't magic
 
 
-Thing is, Open Source can only be as awesome as the people who work on it! And while openSUSE 13.2 has many, _many_ awesome people working on it, what matters in the end is if it will work for **you**. There is only _one_ way to make sure it does: **test it**. Test your use cases and make sure what you need openSUSE 13.2 for will work perfectly. That crazy old system you have set up for your uncle? **Test it**. That brand new ultrabook of your sister? **Test it**. That super server you're secretly building in the cellar? **Test it**. [**TEST IT ALL!**](http://software.opensuse.org/developer/en)
+Thing is, Open Source can only be as awesome as the people who work on it! And while openSUSE 13.2 has many, _many_ awesome people working on it, what matters in the end is if it will work for **you**. There is only _one_ way to make sure it does: **test it**. Test your use cases and make sure what you need openSUSE 13.2 for will work perfectly. That crazy old system you have set up for your uncle? **Test it**. That brand new ultrabook of your sister? **Test it**. That super server you're secretly building in the cellar? **Test it**. [**TEST IT ALL!**](//software.opensuse.org/developer/en)
 ![Testing-Group-Logo](/wp-content/uploads/2011/07/Testing-Group-Logo.png)
 
 
@@ -53,7 +53,7 @@ openSUSE 13.2 will have lots of new things and lots more is coming.
   * LibreOffice 4.3.1.2
 
 
-Get [openSUSE 13.2 Beta 1 here](http://software.opensuse.org/developer/en).
+Get [openSUSE 13.2 Beta 1 here](//software.opensuse.org/developer/en).
 
 
 ## One Distribution with many flavours to pick
@@ -65,7 +65,7 @@ There is a tradition in openSUSE to be released with more than one GUI, this sag
 ### GNOME, KDE and XFCE
 
 
-We already mentioned the latest coming from the **KDE community**, with the stable Applications version 4.14 coming with [many bugfixes and polish](http://kde.org/announcements/4.14/). **GNOME 3.14** will introduce the following features:
+We already mentioned the latest coming from the **KDE community**, with the stable Applications version 4.14 coming with [many bugfixes and polish](//kde.org/announcements/4.14/). **GNOME 3.14** will introduce the following features:
 
 
 
@@ -152,7 +152,7 @@ In look and feel news, Adwaita replaces Clearlooks as the default GTK theme. Thi
 # **YaST**
 
 
-YaST, still fresh after the [rewrite to Ruby](http://opensuseadventures.blogspot.de/2013/06/yast-is-being-rewritten-in-ruby-geeko.html), has seen a lot of work in the last months, so we'll dedicate a section to what is new. Be sure to give the new YaST a good whirl and check if it all works as advertised!
+YaST, still fresh after the [rewrite to Ruby](//opensuseadventures.blogspot.de/2013/06/yast-is-being-rewritten-in-ruby-geeko.html), has seen a lot of work in the last months, so we'll dedicate a section to what is new. Be sure to give the new YaST a good whirl and check if it all works as advertised!
 
 
 ### **Revamped installer**
@@ -196,10 +196,10 @@ All that news needs testing. Areas which can use extra love and attention includ
   * So much more...
 
 
-Testing means installing the beta, playing around with it and [submitting bug reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports) when you bump into trouble. To test multiple devices it might make sense to download the beta and put it on an USB stick or a DVD so you can get to work right away. But be sure to also test that weird RAID setup, go through the installer to see if it deals with multiple installations and an resize partitions properly! Bugs should be reported and can be tracked via [Bugzilla](http://bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](http://en.opensuse.org/openSUSE:Submitting_bug_reports). There's a quick overview of the [most annoying bugs in 13.2 Beta](http://en.opensuse.org/openSUSE:Most_annoying_bugs_13.2_dev#openSUSE_13.2_Beta), check it out before you submit duplicate bug reports. Discussions about openSUSE development takes place on the [factory mailing list](http://lists.opensuse.org/opensuse-factory). [openSUSE Factory](http://en.opensuse.org/Portal:Factory) is the development release of openSUSE, you know, the one that is now rolling ;-) There is plenty of help available on the [Development page](http://en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](http://lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](http://en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
+Testing means installing the beta, playing around with it and [submitting bug reports](//en.opensuse.org/openSUSE:Submitting_bug_reports) when you bump into trouble. To test multiple devices it might make sense to download the beta and put it on an USB stick or a DVD so you can get to work right away. But be sure to also test that weird RAID setup, go through the installer to see if it deals with multiple installations and an resize partitions properly! Bugs should be reported and can be tracked via [Bugzilla](//bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](//en.opensuse.org/openSUSE:Submitting_bug_reports). There's a quick overview of the [most annoying bugs in 13.2 Beta](//en.opensuse.org/openSUSE:Most_annoying_bugs_13.2_dev#openSUSE_13.2_Beta), check it out before you submit duplicate bug reports. Discussions about openSUSE development takes place on the [factory mailing list](//lists.opensuse.org/opensuse-factory). [openSUSE Factory](//en.opensuse.org/Portal:Factory) is the development release of openSUSE, you know, the one that is now rolling ;-) There is plenty of help available on the [Development page](//en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](//lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](//en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
 
 
-# [![pizza David Standout geekoified](/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](http://en.opensuse.org/openSUSE:BetaPizzaParty)
+# [![pizza David Standout geekoified](/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](//en.opensuse.org/openSUSE:BetaPizzaParty)
 
 
 
@@ -207,7 +207,7 @@ Testing means installing the beta, playing around with it and [submitting bug re
 # Organize your own Beta Pizza party!!!!
 
 
-Continue te [openSUSE tradition of Beta Pizza parties](https://news.opensuse.org/2012/06/18/beta-means-pizza-join-the-party-or-make-your-own/)! Gather some friends at your place or at any place you can have wifi and have some fun by having Pizza and testing the new Beta version. Food and a new openSUSE release, a perfect combination. Find more information about BetaPizzaParties and register your party on [this wiki page](http://en.opensuse.org/openSUSE:BetaPizzaParty) and don't forget to have a lot of fun!
+Continue te [openSUSE tradition of Beta Pizza parties](https://news.opensuse.org/2012/06/18/beta-means-pizza-join-the-party-or-make-your-own/)! Gather some friends at your place or at any place you can have wifi and have some fun by having Pizza and testing the new Beta version. Food and a new openSUSE release, a perfect combination. Find more information about BetaPizzaParties and register your party on [this wiki page](//en.opensuse.org/openSUSE:BetaPizzaParty) and don't forget to have a lot of fun!
 
 
 ## Go, test this release, be Geeko Awesome and make the release just like that!

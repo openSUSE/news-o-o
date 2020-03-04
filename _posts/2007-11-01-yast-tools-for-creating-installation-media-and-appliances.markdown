@@ -143,7 +143,7 @@ As you can see, the tool provides also way to invoke the add-on creator tool (â€
 
 As mentioned above, the tools are already available on the openSUSE 10.3. However, it might make sense to check out the newest version, which can be found in the buildservice at
 
-[http://download.opensuse.org/repositories/home:/jsuchome](http://download.opensuse.org/repositories/home:/jsuchome/openSUSE_Factory/)
+[//download.opensuse.org/repositories/home:/jsuchome](//download.opensuse.org/repositories/home:/jsuchome/openSUSE_Factory/)
 
 The packages you need are:
 	yast2-add-on-creator

@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-On the iFolder [mailing list](http://forge.novell.com/pipermail/ifolder-dev/2009-May/002880.html), Brent McConnell has announced the first iFolder Project meeting on May 12 at 14:00 GMT.
+On the iFolder [mailing list](//forge.novell.com/pipermail/ifolder-dev/2009-May/002880.html), Brent McConnell has announced the first iFolder Project meeting on May 12 at 14:00 GMT.
 
 Meeting Agenda includes:
 

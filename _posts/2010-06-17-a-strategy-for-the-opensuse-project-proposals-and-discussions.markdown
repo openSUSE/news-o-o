@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-As announced [previously](http://news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/), the openSUSE Board and its Strategy Team have worked on three strategic proposals to define the direction of openSUSE's future, as a Project, Community and distribution.  Each strategy proposal includes the same community statement.  We will therefore discuss the community statement and the three strategies separately.
+As announced [previously](//news.opensuse.org/2010/06/01/opensuse-strategy-meeting-wrap-up/), the openSUSE Board and its Strategy Team have worked on three strategic proposals to define the direction of openSUSE's future, as a Project, Community and distribution.  Each strategy proposal includes the same community statement.  We will therefore discuss the community statement and the three strategies separately.
 
 
 ### Focused Discussion
@@ -22,19 +22,19 @@ To have a focused discussion, we like to handle the discussion as follows on bot
 
 
 	
-  1. Present today all three strategy proposals and the community statement, they are available on the [wiki](http://en.opensuse.org/Documents/Strategy).
+  1. Present today all three strategy proposals and the community statement, they are available on the [wiki](//en.opensuse.org/Documents/Strategy).
 
 	
-  2. We will start discussing the [community statement](http://en.opensuse.org/index.php?title=Documents/Strategy/Community) now in its own thread. ([mailing list](http://lists.opensuse.org/opensuse-project/2010-06/msg00265.html) | [forums](http://forums.opensuse.org/community/surveys-polls/440491-opensuse-strategy-community-statement.html))
+  2. We will start discussing the [community statement](//en.opensuse.org/index.php?title=Documents/Strategy/Community) now in its own thread. ([mailing list](//lists.opensuse.org/opensuse-project/2010-06/msg00265.html) | [forums](//forums.opensuse.org/community/surveys-polls/440491-opensuse-strategy-community-statement.html))
 
 	
-  3. Monday, June, 21st: We start a new thread to discuss the strategy proposal "[openSUSE - Home for developers](http://en.opensuse.org/Documents/Strategy/Development)". ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00429.html) | [forums](http://forums.opensuse.org/community/surveys-polls/440730-opensuse-strategy-home-developers.html))
+  3. Monday, June, 21st: We start a new thread to discuss the strategy proposal "[openSUSE - Home for developers](//en.opensuse.org/Documents/Strategy/Development)". ([mailing  list](//lists.opensuse.org/opensuse-project/2010-06/msg00429.html) | [forums](//forums.opensuse.org/community/surveys-polls/440730-opensuse-strategy-home-developers.html))
 
 	
-  4. Thursday, June, 24th: We start a new thread to discuss the strategy proposal "[openSUSE - Base for derivatives](http://en.opensuse.org/index.php?title=Documents/Strategy/Derivatives)". ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00694.html) | [forums](http://forums.opensuse.org/community/surveys-polls/440898-opensuse-strategy-base-derivatives.html))
+  4. Thursday, June, 24th: We start a new thread to discuss the strategy proposal "[openSUSE - Base for derivatives](//en.opensuse.org/index.php?title=Documents/Strategy/Derivatives)". ([mailing  list](//lists.opensuse.org/opensuse-project/2010-06/msg00694.html) | [forums](//forums.opensuse.org/community/surveys-polls/440898-opensuse-strategy-base-derivatives.html))
 
 	
-  5. Tuesday, June, 29th: We start a new thread to discuss the strategy proposal "[openSUSE - Mobile and cloud ready distribution](http://en.opensuse.org/index.php?title=Documents/Strategy/Mobile)". ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00868.html) | [forums](http://forums.opensuse.org/community/surveys-polls/441135-opensuse-strategy-mobile-cloud-ready-distribution.html))
+  5. Tuesday, June, 29th: We start a new thread to discuss the strategy proposal "[openSUSE - Mobile and cloud ready distribution](//en.opensuse.org/index.php?title=Documents/Strategy/Mobile)". ([mailing  list](//lists.opensuse.org/opensuse-project/2010-06/msg00868.html) | [forums](//forums.opensuse.org/community/surveys-polls/441135-opensuse-strategy-mobile-cloud-ready-distribution.html))
 
 
 What do we want to achieve with these discussions?
@@ -63,15 +63,15 @@ Pavol Rusnak and Andreas Jaeger will consolidate comments and proposal changes f
 
 
 	
-  * 2010-06-17: Discussions started about community statement ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00265.html) | [forums](http://forums.opensuse.org/community/surveys-polls/440491-opensuse-strategy-community-statement.html))
+  * 2010-06-17: Discussions started about community statement ([mailing  list](//lists.opensuse.org/opensuse-project/2010-06/msg00265.html) | [forums](//forums.opensuse.org/community/surveys-polls/440491-opensuse-strategy-community-statement.html))
 
 	
-  * 2010-06-21: Discussions started about the first strategy ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00429.html) | [forums](http://forums.opensuse.org/community/surveys-polls/440730-opensuse-strategy-home-developers.html))
+  * 2010-06-21: Discussions started about the first strategy ([mailing  list](//lists.opensuse.org/opensuse-project/2010-06/msg00429.html) | [forums](//forums.opensuse.org/community/surveys-polls/440730-opensuse-strategy-home-developers.html))
 
 	
-  * 2010-06-24: Discussions started about the second strategy ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00694.html) | [forums](http://forums.opensuse.org/community/surveys-polls/440898-opensuse-strategy-base-derivatives.html))
+  * 2010-06-24: Discussions started about the second strategy ([mailing  list](//lists.opensuse.org/opensuse-project/2010-06/msg00694.html) | [forums](//forums.opensuse.org/community/surveys-polls/440898-opensuse-strategy-base-derivatives.html))
 
 	
-  * 2010-06-29: Discussions started about the third strategy ([mailing  list](http://lists.opensuse.org/opensuse-project/2010-06/msg00868.html) | [forums](http://forums.opensuse.org/community/surveys-polls/441135-opensuse-strategy-mobile-cloud-ready-distribution.html))
+  * 2010-06-29: Discussions started about the third strategy ([mailing  list](//lists.opensuse.org/opensuse-project/2010-06/msg00868.html) | [forums](//forums.opensuse.org/community/surveys-polls/441135-opensuse-strategy-mobile-cloud-ready-distribution.html))
 
 

@@ -38,6 +38,6 @@ Firefox was updated earlier in the week to 62.0.2 in snapshot [20181002](https:/
 
 The snapshot that started the month, [20181001](https://lists.opensuse.org/opensuse-factory/2018-10/msg00041.html), started the update of KDE [Frameworks 5.50.0](https://www.kde.org/announcements/kde-frameworks-5.50.0.php) packages and the snapshot brought a minor version update of [apache2](https://httpd.apache.org/) 2.4.35, which improved the balancer member data shown in mod_status when "ProxyStatus" is on. [ImageMagick](https://www.imagemagick.org/) 7.0.8.12  added support for arithmetic coding to the jpeg encoder. Firewalld 0.6.2 added some patches and fixed services with multiple destination IP versions. Some GNOME 3.30 packages were updated, but Tumbleweed users should not expect to see the whole 3.30 version until the packages are updated [after the release of 3.30.1](https://lists.opensuse.org/opensuse-factory/2018-10/msg00095.html). Some of the other packages released in this snapshot were libssh 0.8.3, libvirt 4.7.0, php7 7.2.10, wicked 0.6.49 and zypper 1.14.11, which allow repo commands on transactional-server.
 
-All snapshots are rated as stable with a rating of 97 or above according to the [Tumbleweed snapshot reviewer](http://review.tumbleweed.boombatower.com/).
+All snapshots are rated as stable with a rating of 97 or above according to the [Tumbleweed snapshot reviewer](//review.tumbleweed.boombatower.com/).
 
 

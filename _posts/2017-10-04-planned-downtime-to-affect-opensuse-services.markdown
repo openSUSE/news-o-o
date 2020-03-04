@@ -21,9 +21,9 @@ tags:
 
 The scheduled maintenance on the building's electricity will affect most services. The only services that will be normally operating are:
 - [status.opensuse.org](https://status.opensuse.org/)
-- [download.opensuse.org](http://download.opensuse.org/)
+- [download.opensuse.org](//download.opensuse.org/)
 - [static.opensuse.org](https://static.opensuse.org/)
-- [conncheck.opensuse.org](http://conncheck.opensuse.org/)
+- [conncheck.opensuse.org](//conncheck.opensuse.org/)
 
 The rest of the services will be fully online on Oct. 15. The Heroes team will try to keep you updated on the situation, and will also send a few reminders (on the [opensuse-announce mailing list](https://lists.opensuse.org/opensuse-announce/)) before the incident.
 

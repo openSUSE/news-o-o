@@ -11,11 +11,11 @@ categories:
 - Distribution
 ---
 
-Let me share some numbers for the [openSUSE 11.0 release](http://news.opensuse.org/2008/06/19/announcing-opensuse-110-gm/). Do you remember the 10.3 release? Again we used [akamai](http://www.akamai.com/) for distribution of the images. Again for 30 hours, and yes, we made more than 100TB this time!
+Let me share some numbers for the [openSUSE 11.0 release](//news.opensuse.org/2008/06/19/announcing-opensuse-110-gm/). Do you remember the 10.3 release? Again we used [akamai](//www.akamai.com/) for distribution of the images. Again for 30 hours, and yes, we made more than 100TB this time!
 
 Total data transfered: **163 TB!!!**
 
-That's without considering any other mirrors, just images downloaded directly from [software.opensuse.org](http://software.opensuse.org).
+That's without considering any other mirrors, just images downloaded directly from [software.opensuse.org](//software.opensuse.org).
 
 Some more details:
 
@@ -31,7 +31,7 @@ openSUSE-11.0-GNOME-LiveCD-x86_64.iso
 openSUSE-11.0-Addon-Lang-x86_64.iso
 openSUSE-11.0-Addon-Lang-ppc.iso
 
-So what are the changes compared to the [last release](http://news.opensuse.org/2007/10/11/more-numbers/)?
+So what are the changes compared to the [last release](//news.opensuse.org/2007/10/11/more-numbers/)?
 
 
 

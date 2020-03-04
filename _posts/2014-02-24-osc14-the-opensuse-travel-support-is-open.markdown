@@ -20,13 +20,13 @@ The openSUSE Conference 2014 will happen in Dubrovnic, Croatia. The TSP goal is
 
 **
 ********When and how**
-The application period started February 20th and closes on February 28th.  All requests will be managed through our application at_** [http://connect.opensuse.org/travel-support](http://connect.opensuse.org/travel-support)**_.
+The application period started February 20th and closes on February 28th.  All requests will be managed through our application at_** [//connect.opensuse.org/travel-support](//connect.opensuse.org/travel-support)**_.
 
 _**You will need an openSUSE Connect account in order to log in and apply for sponsorship.**_
 
 **A few reminders**
 
-- Please, read the Travel Support wiki page**_ [http://en.opensuse.org/openSUSE:Travel_Support_Program](http://en.opensuse.org/openSUSE:Travel_Support_Program)_** carefully
+- Please, read the Travel Support wiki page**_ [//en.opensuse.org/openSUSE:Travel_Support_Program](//en.opensuse.org/openSUSE:Travel_Support_Program)_** carefully
 before you apply. We want everybody to be there! Even if you think you would not qualify for travel support, just submit a request! If you don't ask we can't help you!
 
 - The Travel Committee can reimburse up to 80% of travel and/or lodging costs. That includes plane ticket, train or bus tickets, even car gas on some occasions, and/or hotel/hostel costs.

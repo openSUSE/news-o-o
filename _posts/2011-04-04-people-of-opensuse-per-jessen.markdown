@@ -26,7 +26,7 @@ categories:
 <td width="105" >**Homepage: **
 </td>
 
-<td width="520" >[http://www.jessen.ch/](http://www.jessen.ch/)
+<td width="520" >[//www.jessen.ch/](//www.jessen.ch/)
 </td>
 </tr>
 <tr >

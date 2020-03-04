@@ -16,11 +16,11 @@ categories:
 
 ![openSUSE Conference Crowd](/wp-content/uploads/2014/12/CSC_0177.jpg)The [openSUSE Conference](https://events.opensuse.org/conference/oSC16) in Nuremberg, Germany, June 22 - 26 is just nine weeks away and attendee might want to start planning their trip to this year’s conference.
 
-With a pre-conference party planned for June 21 at the [Kater Murr](http://kater-murr.com/) at 7 p.m., attendees might want to consider arriving on June 21; arriving a day before the conference is a good idea.
+With a pre-conference party planned for June 21 at the [Kater Murr](//kater-murr.com/) at 7 p.m., attendees might want to consider arriving on June 21; arriving a day before the conference is a good idea.
 
 The conference will begin at 10 a.m. on June 22, which should give people time to recovery either jet lag or the pre-conference party.
 
-People who take the train will arrive in downtown Nuremberg. People coming in on a flight can go downtown using the subway ([U-Bahn](http://www.vgn.de/en/airport)) from the airport. U2 is the train that goes too and from downtown (Hauptbahnhof).
+People who take the train will arrive in downtown Nuremberg. People coming in on a flight can go downtown using the subway ([U-Bahn](//www.vgn.de/en/airport)) from the airport. U2 is the train that goes too and from downtown (Hauptbahnhof).
 
 People who plan on driving to Nuremberg will find plenty of parking garages around the city. Parking at the Z Bau is free.
 
@@ -48,6 +48,6 @@ The SUSE Band will play live music on stage at the Z Bau June 24 from 6:45 p.m. 
 #### Going Home
 
 
-The conference is scheduled to end at 2 p.m. on June 26 so attendees can have enough time to get to the airport for a flight leaving at 5 p.m. or later. There are several flights leaving Nuremberg after 5 p.m. Three hours is more than enough time to get to the airport from the [Z Bau](http://z-bau.com/). Using public transportation takes a little under 30 minutes from the Z Bau to [Nuremberg Airport](http://www.airport-nuernberg.de/english).
+The conference is scheduled to end at 2 p.m. on June 26 so attendees can have enough time to get to the airport for a flight leaving at 5 p.m. or later. There are several flights leaving Nuremberg after 5 p.m. Three hours is more than enough time to get to the airport from the [Z Bau](//z-bau.com/). Using public transportation takes a little under 30 minutes from the Z Bau to [Nuremberg Airport](//www.airport-nuernberg.de/english).
 
 There will be a [Hack Week](https://hackweek.suse.com/) for those who would like to stay and hack in Nuremberg. Give it some thought before making travel plans and maybe stay a few days to hack with people at the SUSE headquarters in Nuremberg.

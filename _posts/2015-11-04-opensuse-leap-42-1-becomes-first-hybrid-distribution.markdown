@@ -81,9 +81,9 @@ Leap has a further developed Btrfs filesystem as the default option and an XFS d
 
 **Get Leap!**
 
-Downloads of openSUSE Leap 42.1 can be found at [software.opensuse.org](http://software.opensuse.org). We recommend checking out the [Release Notes](http://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/RELEASE-NOTES.en_GB.html) before upgrade or installation.
+Downloads of openSUSE Leap 42.1 can be found at [software.opensuse.org](//software.opensuse.org). We recommend checking out the [Release Notes](//doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/RELEASE-NOTES.en_GB.html) before upgrade or installation.
 
-Users currently running openSUSE 13.2 can [upgrade to openSUSE Leap 42.1 via the instructions at this link](http://en.opensuse.org/Upgrade).
+Users currently running openSUSE 13.2 can [upgrade to openSUSE Leap 42.1 via the instructions at this link](//en.opensuse.org/Upgrade).
 
 Check out ARM images at [the ARM wiki](https://en.opensuse.org/Portal:ARM). Stable Leap based images for ARMv7 and ARMv8 (AArch64) are there and will receive full maintenance alongside Leap. ARMv6 port is experimental and offers no guarantee.
 
@@ -208,7 +208,7 @@ Being a completely open source project, the YaST versions and features shipped w
 
 **Machinery**
 
-Available for use with openSUSE Leap 42.1 is [Machinery](http://machinery-project.org/). Machinery is a command line application sysadmins can use for creating descriptions of Linux systems and working with them. You can use it to get insight into existing systems, to store and track their state, or to create new systems based on existing ones. Machinery provides powerful views of individual and comparisons between systems. It can also export descriptions to other tools for installation, migration, image building, containerization, or cloud deployment, and provides defined interfaces to work with system descriptions from your custom tools.
+Available for use with openSUSE Leap 42.1 is [Machinery](//machinery-project.org/). Machinery is a command line application sysadmins can use for creating descriptions of Linux systems and working with them. You can use it to get insight into existing systems, to store and track their state, or to create new systems based on existing ones. Machinery provides powerful views of individual and comparisons between systems. It can also export descriptions to other tools for installation, migration, image building, containerization, or cloud deployment, and provides defined interfaces to work with system descriptions from your custom tools.
 
 
 
@@ -296,7 +296,7 @@ openSUSE Leap 42.1 includes MATE (1.10), which provides support for both GTK2 an
 ### About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world’s best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](//www.opensuse.org)
 
 
 

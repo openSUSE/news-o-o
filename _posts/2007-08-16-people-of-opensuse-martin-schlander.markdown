@@ -175,7 +175,7 @@ I guess my main contribution is being coordinator for Danish translations. My te
 
 I also do some things that are not formally connected to the project, but I think are very helpful nevertheless. I "develop" a couple of simple Kommander-scripts - konvenientSUSE and opensuse-xgl-settings - which help users configure certain things graphically and easily. I have done a little translation for KDE, and I plan to get much more active as KDE4 progresses - openSUSE will of course benefit from this.
 
-In all modesty I also consider myself unofficial openSUSE ambassador to Denmark. I try to keep the Danish community updated with news and for Software Freedom Day at the SSLUG event in Copenhagen, I will happily hand out 250 openSUSE 10.2 promo DVDs that Martin Lasarsch sent me, and I maintain a rather popular guide to openSUSE, it can be seen at: [suse.linuxin.dk](http://suse.linuxin.dk)
+In all modesty I also consider myself unofficial openSUSE ambassador to Denmark. I try to keep the Danish community updated with news and for Software Freedom Day at the SSLUG event in Copenhagen, I will happily hand out 250 openSUSE 10.2 promo DVDs that Martin Lasarsch sent me, and I maintain a rather popular guide to openSUSE, it can be seen at: [suse.linuxin.dk](//suse.linuxin.dk)
 
 
 
@@ -455,7 +455,7 @@ I probably would have if not for KOrganizer.
 #### Show us a picture of something, you have always wanted to share!
 
 
-Hm, tough one, how about this: [Our director AJ, wearing sandals and sitting on the floor working at a GNU/Linux event](http://flickr.com/photos/kushaldas/521403007/). Mark Shuttleworth and Steve Jobs should step up their game.
+Hm, tough one, how about this: [Our director AJ, wearing sandals and sitting on the floor working at a GNU/Linux event](//flickr.com/photos/kushaldas/521403007/). Mark Shuttleworth and Steve Jobs should step up their game.
 
 
 

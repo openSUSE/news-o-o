@@ -50,7 +50,7 @@ Looking at the feature requests for SUSE Studio on image building and looking at
   * Support for additional architectures: SUSE Studio only handled x86-64. With the SUSE Studio Express, you will build images for all SUSE architectures – not only for Intel/AMD x86-64 but later also for ARM, Power and z Systems.
 
  	
-  * Open Development: The complete source code is available and the development team is [blogging](http://openbuildservice.org/blog/) about their sprint reports. If you would like to contribute code to the new UI or add image templates, go ahead!
+  * Open Development: The complete source code is available and the development team is [blogging](//openbuildservice.org/blog/) about their sprint reports. If you would like to contribute code to the new UI or add image templates, go ahead!
 
  	
   * We expect OBS will be more flexible, being able to support further imaging tool chains.
@@ -61,11 +61,11 @@ Looking at the feature requests for SUSE Studio on image building and looking at
 
 You can export your existing kiwi files from SUSE Studio and import them into SUSE Studio Express. Keep in mind that the import includes an update to a newer version and thus you might need to update your configuration.
 
-This also means that we will freeze the SUSE Studio service at [www.susestudio.com](http://www.susestudio.com), new distributions and features will only be available at [SUSE Studio Express](http://studioexpress.opensuse.org).
+This also means that we will freeze the SUSE Studio service at [www.susestudio.com](//www.susestudio.com), new distributions and features will only be available at [SUSE Studio Express](//studioexpress.opensuse.org).
 
 Building of openSUSE Leap 42.3 and SUSE Linux Enterprise 12 Service Pack 3 is now available in SUSE Studio Express.
 
-Visit [http://studioexpress.opensuse.org](http://studioexpress.opensuse.org) to start building new images and import your existing Studio configuration.
+Visit [//studioexpress.opensuse.org](//studioexpress.opensuse.org) to start building new images and import your existing Studio configuration.
 
 The development of SUSE Studio Express is on-going and the team will continue to add more features. Some features of SUSE Studio Onsite are not available today, but are planned to be delivered in the future, like the ability to upload to public clouds, while other features are not on the roadmap like test drive and gallery.
 

@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-With the release of [Milestone 1,](http://software.opensuse.org/developer) the development of openSUSE 12.2 has started! We're pleased to announce that Milestone 1 contains many minor updates, like a new Firefox version but also major things like new artwork and KDE 4.8.
+With the release of [Milestone 1,](//software.opensuse.org/developer) the development of openSUSE 12.2 has started! We're pleased to announce that Milestone 1 contains many minor updates, like a new Firefox version but also major things like new artwork and KDE 4.8.
 
 <!-- more -->
 

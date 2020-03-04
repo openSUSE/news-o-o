@@ -13,9 +13,9 @@ categories:
 
 openSUSE 12.1 was launched on Wednesday and it's time to look back at the successful launch of a great distribution.
 
-We've seen a lot of positive feedback regarding openSUSE 12.1 via [press](http://en.opensuse.org/In_the_press), social networks, blogs etc. The interest in social media is significant with good conversations and new members, our [facebook group](http://www.facebook.com/group.php?gid=2256834487) has grown the last weeks by several hundred new members, the followers of our [@openSUSE twitter](http://twitter.com/#!/openSUSE) increase and the recently launched [ Google+ page ](https://plus.google.com/110312141834246266844/)is in the circles of over 3200 people.
+We've seen a lot of positive feedback regarding openSUSE 12.1 via [press](//en.opensuse.org/In_the_press), social networks, blogs etc. The interest in social media is significant with good conversations and new members, our [facebook group](//www.facebook.com/group.php?gid=2256834487) has grown the last weeks by several hundred new members, the followers of our [@openSUSE twitter](//twitter.com/#!/openSUSE) increase and the recently launched [ Google+ page ](https://plus.google.com/110312141834246266844/)is in the circles of over 3200 people.
 
-Looking over twitter messages directed to our[ @openSUSE](http://twitter.com/openSUSE) account, here're just a few comments about openSUSE 12.1:
+Looking over twitter messages directed to our[ @openSUSE](//twitter.com/openSUSE) account, here're just a few comments about openSUSE 12.1:
 
 
 <blockquote>Really impressed (I'm not impressed easily) with all of the added configuration and customization @openSUSE 12.1 brings very polished - by [OhHeyItsLou<!-- more -->
@@ -29,7 +29,7 @@ Hats off to the #openSUSE folks - 12.1 is a solid release. The #nouveau team des
 @openSUSE I've just upgraded my main workstation, everything looks so polished and well done! Thank you so much for this release! - by [jfduque](https://twitter.com/#!/jfduque/statuses/137081293283405824)</blockquote>
 
 
-[Reviews](http://en.opensuse.org/In_the_press) by journalists included praise like:
+[Reviews](//en.opensuse.org/In_the_press) by journalists included praise like:
 
 
 <blockquote>All in all, this looks like one of the most exciting openSUSE releases in some time. - [Joe Brockmeier on Linux.com](https://www.linux.com/learn/tutorials/510731-opensuse-121-arrives-whats-new-and-what-happened-to-120)</blockquote>
@@ -105,24 +105,24 @@ Also bittorrent was in high demand, at one point we had 1387 seeders and 2804 le
 We're producing now PromoDVDs to distribute at events and via the openSUSE ambassadors, a separate announcement on how to get this will
 come once we have the media. A couple of magazines are doing covermounts as well, e.g. Linux Pro Magazine and Linux Magazine will insert it into their worldwide newsstand subscription distribution.
 
-Also, Open Source Press is producing a German openSUSE 12.1 box which is available soon ([details](http://en.opensuse.org/Buy_openSUSE )), this retail edition is a version of openSUSE with a complete printed  end-user manual, installation media, lot's of vouchers and more.
+Also, Open Source Press is producing a German openSUSE 12.1 box which is available soon ([details](//en.opensuse.org/Buy_openSUSE )), this retail edition is a version of openSUSE with a complete printed  end-user manual, installation media, lot's of vouchers and more.
 
 
 ## Webpages and Infrastructure
 
 
-Thanks to our translators, we updated the [frontpage](http://www.opensuse.org/) with localized announcements and even added some new languages for our front page like [Polish](http://www.opensuse.org/pl), [Lithuian](http://www.opensuse.org/lt) and [Thai](http://www.opensuse.org/th).
+Thanks to our translators, we updated the [frontpage](//www.opensuse.org/) with localized announcements and even added some new languages for our front page like [Polish](//www.opensuse.org/pl), [Lithuian](//www.opensuse.org/lt) and [Thai](//www.opensuse.org/th).
 
-The infrastructure itself has seen increased traffic due to the launch where many where interested in the new [openSUSE 12.1 portal page](http://en.opensuse.org/Portal:12.1 ).
+The infrastructure itself has seen increased traffic due to the launch where many where interested in the new [openSUSE 12.1 portal page](//en.opensuse.org/Portal:12.1 ).
 
 
 ## Continue spreading the word!
 
 
-Please continue spreading the word about openSUSE 12.1 - and answer questions on our [forums](http://forums.opensuse.org/), social media, [mailing lists](http://lists.opensuse.org) and in person. If you find articles and blog posts about openSUSE 12.1, add them to our [wiki](http://en.opensuse.org/In_the_press) and speak about them.
+Please continue spreading the word about openSUSE 12.1 - and answer questions on our [forums](//forums.opensuse.org/), social media, [mailing lists](//lists.opensuse.org) and in person. If you find articles and blog posts about openSUSE 12.1, add them to our [wiki](//en.opensuse.org/In_the_press) and speak about them.
 
 
 ## Thank you
 
 
-The openSUSE launch  was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. We’d like to thank all of them. Moreover, we’d like to thank everybody  to make the changes to the websites so users could download their brand new openSUSE 12.1 and find information about it! We’d also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](http://en.opensuse.org/Product_highlights) if you haven’t yet!) and of course all contributors of openSUSE who helped to make this release possible!
+The openSUSE launch  was possible thanks to a world wide infrastructure of ftp mirrors that coordinated the release with us. We’d like to thank all of them. Moreover, we’d like to thank everybody  to make the changes to the websites so users could download their brand new openSUSE 12.1 and find information about it! We’d also like to thank the marketing team and anyone who helped for their awesome work (check out the [Product Highlights](//en.opensuse.org/Product_highlights) if you haven’t yet!) and of course all contributors of openSUSE who helped to make this release possible!

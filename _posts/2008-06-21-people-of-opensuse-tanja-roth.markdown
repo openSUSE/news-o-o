@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-How important is documentation to you and people around you? Certainly it is a lot! Then good news because openSUSE has a team focused on manuals for the SUSE Linux/openSUSE distribution. Today's we have the opportunity to salute [openSUSE Documentation Team](http://en.opensuse.org/Documentation_Team) member Tanja Roth!
+How important is documentation to you and people around you? Certainly it is a lot! Then good news because openSUSE has a team focused on manuals for the SUSE Linux/openSUSE distribution. Today's we have the opportunity to salute [openSUSE Documentation Team](//en.opensuse.org/Documentation_Team) member Tanja Roth!
 
 <!-- more -->
 
@@ -126,7 +126,7 @@ How important is documentation to you and people around you? Certainly it is a l
 #### Please introduce yourself!
 
 
-I was born near Trier (said to be Germany's oldest town) and moved to Nuremberg some years ago for job reasons. I'm a member of the [SUSE documentation team](http://en.opensuse.org/Documentation_Team) since I joined SUSE in 2005. Apart from being a tech writer (which I do for a living for quite some years now), I love music and outdoor sports (like swimming, hiking, etc.). When being to the Czech Republic for the first time, I felt ashamed that I didn't even know how to say "Good Morning" or "Thank you" in the local language. So I joined a Czech language course afterwards, and I am still learning the language, but I doubt that I will ever be able to speak (or write!) it properly ;)
+I was born near Trier (said to be Germany's oldest town) and moved to Nuremberg some years ago for job reasons. I'm a member of the [SUSE documentation team](//en.opensuse.org/Documentation_Team) since I joined SUSE in 2005. Apart from being a tech writer (which I do for a living for quite some years now), I love music and outdoor sports (like swimming, hiking, etc.). When being to the Czech Republic for the first time, I felt ashamed that I didn't even know how to say "Good Morning" or "Thank you" in the local language. So I joined a Czech language course afterwards, and I am still learning the language, but I doubt that I will ever be able to speak (or write!) it properly ;)
 
 
 

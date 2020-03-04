@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-The [Planet SUSE](http://www.planetsuse.org) sysadmin, James Ogley, was interviewed by us. Apart from managing the biggest openSUSE blog aggregator, he is also part of the [openSUSE GNOME team](http://en.opensuse.org/GNOME/Team) packaging lots of GNOME/GTK applications.
+The [Planet SUSE](//www.planetsuse.org) sysadmin, James Ogley, was interviewed by us. Apart from managing the biggest openSUSE blog aggregator, he is also part of the [openSUSE GNOME team](//en.opensuse.org/GNOME/Team) packaging lots of GNOME/GTK applications.
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ The [Planet SUSE](http://www.planetsuse.org) sysadmin, James Ogley, was intervie
 <td >**Homepage: **
 </td>
 
-<td >[http://jamesthevicar.com](http://jamesthevicar.com)
+<td >[//jamesthevicar.com](//jamesthevicar.com)
 </td>
 
 <td >
@@ -165,7 +165,7 @@ In August 2005, I was emailed a link to a story in Linux Magazine about the poss
 #### In what way do you participate in the openSUSE project?
 
 
-I run [Planet SUSE](http://www.planetsuse.org) - our aggregation of blogs by hackers, packagers and other contributors. I'm a member of the [GNOME Team](http://en.opensuse.org/GNOME/Team) where I look after the [GNOME:Community repository](http://download.opensuse.org/repositories/GNOME:/Community/) along with Michael Wolf as well as contributing to the other GNOME repos.  All the usual bug reporting one would expect goes on as well across the areas of the distro that I use (which includes a lot of server-side stuff as well because of my Sys Admin background).  I also hang around in various project related IRC channels when I have the time (and even when I don't). I used to run the usr-local-bin project, providing GNOME on SUSE before we had the GNOME Team in its current form.
+I run [Planet SUSE](//www.planetsuse.org) - our aggregation of blogs by hackers, packagers and other contributors. I'm a member of the [GNOME Team](//en.opensuse.org/GNOME/Team) where I look after the [GNOME:Community repository](//download.opensuse.org/repositories/GNOME:/Community/) along with Michael Wolf as well as contributing to the other GNOME repos.  All the usual bug reporting one would expect goes on as well across the areas of the distro that I use (which includes a lot of server-side stuff as well because of my Sys Admin background).  I also hang around in various project related IRC channels when I have the time (and even when I don't). I used to run the usr-local-bin project, providing GNOME on SUSE before we had the GNOME Team in its current form.
 
 
 
@@ -428,7 +428,7 @@ I'm sure I've missed loads ;)
 #### Show us a picture of something, you have always wanted to share!
 
 
-[http://www.tesco.com/pi/xpi/4/5010277010164_200.jpg](http://www.tesco.com/pi/xpi/4/5010277010164_200.jpg) - I always want to share a glass of sherry with people ;)
+[//www.tesco.com/pi/xpi/4/5010277010164_200.jpg](//www.tesco.com/pi/xpi/4/5010277010164_200.jpg) - I always want to share a glass of sherry with people ;)
 
 
 
@@ -438,7 +438,7 @@ I'm sure I've missed loads ;)
 #### You couldn't live without...
 
 
-[My beautiful wife Amanda.](http://gallery.jamesthevicar.com/?galerie=PhotoShoot&photo=16)
+[My beautiful wife Amanda.](//gallery.jamesthevicar.com/?galerie=PhotoShoot&photo=16)
 
 
 

@@ -12,13 +12,13 @@ categories:
 - Distribution
 ---
 
-Michael Löffler [has announced](http://lists.opensuse.org/opensuse-announce/2009-08/msg00009.html) to the [opensuse-announce](http://lists.opensuse.org/opensuse-announce/) mailing list:
+Michael Löffler [has announced](//lists.opensuse.org/opensuse-announce/2009-08/msg00009.html) to the [opensuse-announce](//lists.opensuse.org/opensuse-announce/) mailing list:
 
 
 
 <blockquote></blockquote>
 
-With regards to [the discontinuation mail for openSUSE 10.3](http://lists.opensuse.org/opensuse-announce/2009-08/msg00008.html) sent out by Marcus the other day I'd like to clarify the changes in the maintenance period of openSUSE.
+With regards to [the discontinuation mail for openSUSE 10.3](//lists.opensuse.org/opensuse-announce/2009-08/msg00008.html) sent out by Marcus the other day I'd like to clarify the changes in the maintenance period of openSUSE.
 
 openSUSE will shorten the maintenance period to 2 versions plus 2 months which translates with the current release cycle of 8 months to 18 months instead of 24 months we had with openSUSE 11.1 and previous releases.
 
@@ -29,4 +29,4 @@ Michael </blockquote>
  
  
 
-Reactions including [discussion about forming a group to provide longer life time](http://lists.opensuse.org/opensuse-project/2009-08/msg00511.html) can be found on the [opensuse-project](http://lists.opensuse.org/opensuse-project/) mailing list.
+Reactions including [discussion about forming a group to provide longer life time](//lists.opensuse.org/opensuse-project/2009-08/msg00511.html) can be found on the [opensuse-project](//lists.opensuse.org/opensuse-project/) mailing list.

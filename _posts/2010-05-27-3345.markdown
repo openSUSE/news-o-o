@@ -16,6 +16,6 @@ tags:
 
 The RMLL (Rencontres Mondiales du Logiciel Libre) is one of the biggest community event in France. Some contributors will be there for a booth (shared with Mandriva) and Vincent Untz will talk about contributing to openSUSE.
 
-[Homepage](http://2010.rmll.info/)
+[Homepage](//2010.rmll.info/)
 
 

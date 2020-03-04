@@ -32,9 +32,9 @@ This server and the wiki are located in another data center and are therefore av
 
 18:05 CEST: The admins will start early tomorrow morning - there's no sense waiting for the power company this night.  The estimate stays at 13:00 CEST (11:00 UTC).  We've never experienced such a long outage before, this is exceptionally bad.
 
-19:02 CEST: Beineri has uploaded some [photos](http://developer.kde.org/~binner/power-blackout/) from the construction site (thanks!).
+19:02 CEST: Beineri has uploaded some [photos](//developer.kde.org/~binner/power-blackout/) from the construction site (thanks!).
 
-20:04 CEST: Marko has uploaded some [photos](http://www.flickr.com/photos/mjung/sets/72157607907568938) as well (thanks!).  Some notes: I've heard (no official confirmation) that our office building has two power lines and currently both are getting repaired, they started with the first one and now dig out the second one as well.  Our building seems to be the last one in the area to get power back since it's the only one with a 20kV line.
+20:04 CEST: Marko has uploaded some [photos](//www.flickr.com/photos/mjung/sets/72157607907568938) as well (thanks!).  Some notes: I've heard (no official confirmation) that our office building has two power lines and currently both are getting repaired, they started with the first one and now dig out the second one as well.  Our building seems to be the last one in the area to get power back since it's the only one with a 20kV line.
 
 1:30 CEST: Power is back in the office - later than estimated.
 

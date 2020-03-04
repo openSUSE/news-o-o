@@ -13,7 +13,7 @@ categories:
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png)
 
-The fifth issue of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/5)! 
+The fifth issue of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/5)! 
 
 In this week's issue:
 

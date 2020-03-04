@@ -16,7 +16,7 @@ We are pleased to invite you (Editors/Translators) to the Weekly-News Team Meeti
 
 
 
-The Topics from our Meeting are placed in: [http://en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current](http://en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current) New Topics can included until Sat, 10h UTC
+The Topics from our Meeting are placed in: [//en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current](//en.opensuse.org/OpenSUSE_Weekly_News/Meetings/Topics_current) New Topics can included until Sat, 10h UTC
 
 
 

@@ -14,4 +14,4 @@ categories:
 
 Marketing Collaboration Days - Ambassador Support Review
 
-See [here](http://news.opensuse.org/2010/12/02/marketing-collaboration-days/) for details of all the upcoming Collaboration Days.
+See [here](//news.opensuse.org/2010/12/02/marketing-collaboration-days/) for details of all the upcoming Collaboration Days.

@@ -12,7 +12,7 @@ categories:
 - Infrastructure
 ---
 
-[![Testing-Group-Logo](//news.opensuse.org/wp-content/uploads/2011/07/Testing-Group-Logo.png)](//news.opensuse.org/wp-content/uploads/2011/07/Testing-Group-Logo.png) As [hackernews.com](http://thehackernews.com/2014/01/openSUSE-Forum-Hacked-by-Pakistani-hacker.html#) noted, the [public openSUSE forums](http://forums.opensuse.org) have been compromised and defaced. A cracker managed to exploit a vulnerability in the forum software which made it possible to upload files and gave access to the forum database.
+[![Testing-Group-Logo](//news.opensuse.org/wp-content/uploads/2011/07/Testing-Group-Logo.png)](//news.opensuse.org/wp-content/uploads/2011/07/Testing-Group-Logo.png) As [hackernews.com](//thehackernews.com/2014/01/openSUSE-Forum-Hacked-by-Pakistani-hacker.html#) noted, the [public openSUSE forums](//forums.opensuse.org) have been compromised and defaced. A cracker managed to exploit a vulnerability in the forum software which made it possible to upload files and gave access to the forum database.
 
 
 ## Passwords: Safe! Emails: Not so much :-/
@@ -26,4 +26,4 @@ However, some user data is stored in the local database for convenience, in the 
 ## And now?
 
 
-As the exploit is in the forum software we use and there are no known fixes or workarounds we have decided to take the forums offline for now, until we have found a solution. Stay tuned for updates [here](//news.opensuse.org), on [twitter](http://twitter.com/openSUSE), [facebook](http://www.facebook.com/group.php?gid=2256834487) or [g+](https://plus.google.com/110312141834246266844?prsrc=3).
+As the exploit is in the forum software we use and there are no known fixes or workarounds we have decided to take the forums offline for now, until we have found a solution. Stay tuned for updates [here](//news.opensuse.org), on [twitter](//twitter.com/openSUSE), [facebook](//www.facebook.com/group.php?gid=2256834487) or [g+](https://plus.google.com/110312141834246266844?prsrc=3).

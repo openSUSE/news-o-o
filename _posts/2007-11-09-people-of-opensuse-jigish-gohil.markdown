@@ -50,7 +50,7 @@ We caught up with Jigish Gohil - a Compiz Fusion developer, openSUSE packager, a
 <td >**Homepage: **
 </td>
 
-<td >[http://www.cyberorg.info](http://www.cyberorg.info/)
+<td >[//www.cyberorg.info](//www.cyberorg.info/)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ We caught up with Jigish Gohil - a Compiz Fusion developer, openSUSE packager, a
 <td >**Blog:**
 </td>
 
-<td >[http://newnirvana.blogspot.com/](http://newnirvana.blogspot.com/) and [http://dev.compiz-fusion.org/~cyberorg/](http://dev.compiz-fusion.org/%7Ecyberorg/)
+<td >[//newnirvana.blogspot.com/](//newnirvana.blogspot.com/) and [//dev.compiz-fusion.org/~cyberorg/](//dev.compiz-fusion.org/%7Ecyberorg/)
 </td>
 
 <td >
@@ -121,7 +121,7 @@ We caught up with Jigish Gohil - a Compiz Fusion developer, openSUSE packager, a
 #### Please introduce yourself!
 
 
-I am 34 year old living in a small town called [Baroda](http://www.baroda.com/city.html) India, I studied Clothing and Textiles at the [Maharaja Sayajirao University](http://www.baroda.com/SightSeeing/Msu.html) here, which incidentally has got nothing to do with the things I am doing today. I worked at the British Council arts department, and a [National Center for Performing Arts](http://www.ncpamumbai.com/aboutus/aboutus.asp) in Bombay for few years managing arts events. I am running my own SUSE centric business now.
+I am 34 year old living in a small town called [Baroda](//www.baroda.com/city.html) India, I studied Clothing and Textiles at the [Maharaja Sayajirao University](//www.baroda.com/SightSeeing/Msu.html) here, which incidentally has got nothing to do with the things I am doing today. I worked at the British Council arts department, and a [National Center for Performing Arts](//www.ncpamumbai.com/aboutus/aboutus.asp) in Bombay for few years managing arts events. I am running my own SUSE centric business now.
 
 
 
@@ -165,7 +165,7 @@ Since it's announcement. See above.
 #### In what way do you participate in the openSUSE project?
 
 
-Packaging [Compiz Fusion](http://compiz-fusion.org), working on [KIWI-LTSP](http://developer.novell.com/wiki/index.php/KIWI-LTSP), JPR is kind enough to forward some compiz bugs to me from Novell bugzilla. Maintaining a couple of wiki pages, [openSUSE package thread](http://forum.compiz-fusion.org/showthread.php?t=1415) on Compiz Fusion forum. Also running a [Vibrant GNU/Linux User Group](http://groups.google.com/group/VGLUG), promoting openSUSE through various activities such as workshops, demos, participating in trade shows, distributing copies of openSUSE and providing free installation facilities at my office.
+Packaging [Compiz Fusion](//compiz-fusion.org), working on [KIWI-LTSP](//developer.novell.com/wiki/index.php/KIWI-LTSP), JPR is kind enough to forward some compiz bugs to me from Novell bugzilla. Maintaining a couple of wiki pages, [openSUSE package thread](//forum.compiz-fusion.org/showthread.php?t=1415) on Compiz Fusion forum. Also running a [Vibrant GNU/Linux User Group](//groups.google.com/group/VGLUG), promoting openSUSE through various activities such as workshops, demos, participating in trade shows, distributing copies of openSUSE and providing free installation facilities at my office.
 
 
 
@@ -215,7 +215,7 @@ A touch of German engineering.
 #### What do you think is missing or underrated in the distribution or the project?
 
 
-Whatever that was missing, [openSUSE Build Service](http://build.opensuse.org) and [packman](http://packman.links2linux.de/) has filled in those gaps. Importance of OBS for the entire GNU/Linux community including all the other major distros and possibilities KIWI offers to users is very underrated.
+Whatever that was missing, [openSUSE Build Service](//build.opensuse.org) and [packman](//packman.links2linux.de/) has filled in those gaps. Importance of OBS for the entire GNU/Linux community including all the other major distros and possibilities KIWI offers to users is very underrated.
 
 
 
@@ -427,7 +427,7 @@ Nope.
 
 I'll take this opportunity to make my son famous, say hello to Amyatam :)
 
-[http://farm3.static.flickr.com/2031/1917308460_c78d52ac54_o.jpg](http://farm3.static.flickr.com/2031/1917308460_c78d52ac54_o.jpg)
+[//farm3.static.flickr.com/2031/1917308460_c78d52ac54_o.jpg](//farm3.static.flickr.com/2031/1917308460_c78d52ac54_o.jpg)
 
 
 

@@ -14,7 +14,7 @@ categories:
 
 The openSUSE Project is proud to announce the 1.8 and 2.0 releases of the openSUSE Build Service (OBS). It is an open package and distribution development platform that provides a transparent infrastructure that allows developers to build for various major Linux distributions and hardware architectures.
 
-The public server [http://build.opensuse.org](http://build.opensuse.org/) is available for all open source developers to build packages for the most popular distributions including Debian, Fedora, Mandriva, openSUSE, Red Hat Enterprise Linux, SUSE Linux Enterprise and Ubuntu.  It is also used to build the openSUSE and MeeGo distributions.
+The public server [//build.opensuse.org](//build.opensuse.org/) is available for all open source developers to build packages for the most popular distributions including Debian, Fedora, Mandriva, openSUSE, Red Hat Enterprise Linux, SUSE Linux Enterprise and Ubuntu.  It is also used to build the openSUSE and MeeGo distributions.
 
 ![](/wp-content/uploads/2010/06/obs_01.png)
 
@@ -57,6 +57,6 @@ said Michael Löffler, chairperson of the openSUSE Board.
 
 
 
-Users can use OBS 2.0  on the project's public server [http://build.opensuse.org](http://build.opensuse.org/) or run it in their own on-premise infrastructure.  Deployment is possible directly from source code or from our [appliance image](http://en.opensuse.org/Build_Service/OBS-Appliance).
+Users can use OBS 2.0  on the project's public server [//build.opensuse.org](//build.opensuse.org/) or run it in their own on-premise infrastructure.  Deployment is possible directly from source code or from our [appliance image](//en.opensuse.org/Build_Service/OBS-Appliance).
 
-For additional information, please read the release notes for [OBS 1.8](http://www.gitorious.org/opensuse/build-service/blobs/1.8/ReleaseNotes-1.8) and [2.0](http://www.gitorious.org/opensuse/build-service/blobs/2.0/ReleaseNotes-2.0).
+For additional information, please read the release notes for [OBS 1.8](//www.gitorious.org/opensuse/build-service/blobs/1.8/ReleaseNotes-1.8) and [2.0](//www.gitorious.org/opensuse/build-service/blobs/2.0/ReleaseNotes-2.0).

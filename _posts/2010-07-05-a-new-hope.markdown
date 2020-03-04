@@ -22,7 +22,7 @@ As with all shiny new things the new wiki is different than the old one. But dif
 
 The current wiki, online since the start of the openSUSE project in 2005,  grew wild into something that is not maintainable anymore. This is because content in it is in _no way_ structured and we use it as a simple information dump. We don't have any rules on how to present information or how to connect it to related bits and everybody is just adding pages. It makes adding content very easy but it neglects completely the biggest group of users of this wiki: the readers. On a normal day we have 10 people adding and **78.000** reading content. Yet we do very little to ensure that those 78.000 people find what they are looking for.
 
-This is about to change. We, the [openSUSE Wiki Team](http://wiki.opensuse.org/openSUSE:Wiki_team),  sat down and thought about the wiki. What is it and for whom is it for? Why can't we maintain it? What are the most common complaints? And how can we solve this with the resources we have? We had a very lively discussion about this in the winter and afterward started to explore the options we have. We tried and discussed a lot methods, rules and mediawiki extensions. We came to the conclusion that we need to structure the content for the user-groups we have, provide better means of navigation than simple links, work on standardized templates and make sure that the most prominent content is of a acceptable quality.
+This is about to change. We, the [openSUSE Wiki Team](//wiki.opensuse.org/openSUSE:Wiki_team),  sat down and thought about the wiki. What is it and for whom is it for? Why can't we maintain it? What are the most common complaints? And how can we solve this with the resources we have? We had a very lively discussion about this in the winter and afterward started to explore the options we have. We tried and discussed a lot methods, rules and mediawiki extensions. We came to the conclusion that we need to structure the content for the user-groups we have, provide better means of navigation than simple links, work on standardized templates and make sure that the most prominent content is of a acceptable quality.
 
 
 ## Structure
@@ -52,4 +52,4 @@ Styling of content happens through **templates**. There are 2 kinds, templates f
 ## Preview
 
 
-You can see the current state of our preparations at our temporary location [http://wiki.opensuse.org](http://wiki.opensuse.org). Have fun exploring it and please don't hesitate to contact us with ideas or problems on our mailinglist [opensuse-wiki@opensuse.org](mailto:opensuse-wiki@opensuse.org ).
+You can see the current state of our preparations at our temporary location [//wiki.opensuse.org](//wiki.opensuse.org). Have fun exploring it and please don't hesitate to contact us with ideas or problems on our mailinglist [opensuse-wiki@opensuse.org](mailto:opensuse-wiki@opensuse.org ).

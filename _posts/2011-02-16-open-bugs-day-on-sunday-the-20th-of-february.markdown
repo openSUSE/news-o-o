@@ -22,10 +22,10 @@ tags:
 As you all know, we're closing in on the Final Release of openSUSE 11.4...
 
 
-![](http://counter.opensuse.org/)
+![](//counter.opensuse.org/)
 
 
-and so in this last window for bug-fixing we need **your help**! The [testing team](http://en.opensuse.org/openSUSE:Testing_meeting) is looking for volunteers to help with bugs in [bugzilla](http://bugzilla.novell.com) on the **Open-Bugs-Day** at **Sunday the 20th of February**. Participants are going through the bugs that currently exist for 11.4 in bugzilla, close what is fixed and confirm what still needs some work. It's all part of a final push for a great 11.4 release, with us clearing out what is fixed, the developers can focus their energies on fixing bugs instead of clicking around in bugzilla! We will meet, hang out and coordinate during the **Open-Bugs-Day** in the IRC channel [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on the [Freenode](http://freenode.net/) network and anyone using openSUSE is welcome to help. Read on to learn more about how you can make a difference.
+and so in this last window for bug-fixing we need **your help**! The [testing team](//en.opensuse.org/openSUSE:Testing_meeting) is looking for volunteers to help with bugs in [bugzilla](//bugzilla.novell.com) on the **Open-Bugs-Day** at **Sunday the 20th of February**. Participants are going through the bugs that currently exist for 11.4 in bugzilla, close what is fixed and confirm what still needs some work. It's all part of a final push for a great 11.4 release, with us clearing out what is fixed, the developers can focus their energies on fixing bugs instead of clicking around in bugzilla! We will meet, hang out and coordinate during the **Open-Bugs-Day** in the IRC channel [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on the [Freenode](//freenode.net/) network and anyone using openSUSE is welcome to help. Read on to learn more about how you can make a difference.
 
 <!-- more -->
 

@@ -11,7 +11,7 @@ categories:
 - Google Summer of Code
 ---
 
-Greetings everyone, this is Peter from Hungary. In the last few months I have spent a lot of time and effort to give something to the open source community in the framework of GSoC. The aim of my project was to implement a Load Balancer as a Service (LBaaS) Zorp (http://www.balabit.com/network-security/zorp) driver for OpenStack (http://www.openstack.org/) in openSUSE environment.
+Greetings everyone, this is Peter from Hungary. In the last few months I have spent a lot of time and effort to give something to the open source community in the framework of GSoC. The aim of my project was to implement a Load Balancer as a Service (LBaaS) Zorp (//www.balabit.com/network-security/zorp) driver for OpenStack (//www.openstack.org/) in openSUSE environment.
 <!-- more -->
 
 
@@ -30,7 +30,7 @@ The first obstacle was compiling and packaging. To be honest, it was all new to 
 ###    Load balancing strategies to Zorp
 
 
-The second part was the missing load balancing strategies of Zorp. Zorp could be used as a load balancer, but in order to integrate it into OpenStack, some missing strategies had to be implemented, for example Least Connections or Source IP. At this point I was really impressed, Zorp is truly the software equivalent of a Swiss Army knife or a Death Star. It was such a wonderful experience that with a good configuration, it could do almost everything. I have tried Test Driven Development (TDD http://en.wikipedia.org/wiki/Test-driven_development) for this part of the work. I cannot say that it was completely new to me, but I have never used it before in real-life development circumstances (not in Code Retreat for example). It seems to be a working method.
+The second part was the missing load balancing strategies of Zorp. Zorp could be used as a load balancer, but in order to integrate it into OpenStack, some missing strategies had to be implemented, for example Least Connections or Source IP. At this point I was really impressed, Zorp is truly the software equivalent of a Swiss Army knife or a Death Star. It was such a wonderful experience that with a good configuration, it could do almost everything. I have tried Test Driven Development (TDD //en.wikipedia.org/wiki/Test-driven_development) for this part of the work. I cannot say that it was completely new to me, but I have never used it before in real-life development circumstances (not in Code Retreat for example). It seems to be a working method.
 
 I have got the tip from my mentors to try Travis, as it might be a useful tool to compile and run tests, and then if everything went fine, send the required files to OBS. The idea was great, so I followed their lead. The result is that it is now integrated with GitHub, and with every change it now automatically performs the abovementioned tasks.
 

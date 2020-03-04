@@ -53,7 +53,7 @@ For those who have been waiting for a 'People of openSUSE' interview with our op
 <td >**Homepage: **
 </td>
 
-<td >[http://www.dissociatedpress.net/](http://www.dissociatedpress.net/)
+<td >[//www.dissociatedpress.net/](//www.dissociatedpress.net/)
 </td>
 
 <td >
@@ -64,7 +64,7 @@ For those who have been waiting for a 'People of openSUSE' interview with our op
 <td >**Blog:**
 </td>
 
-<td >[http://zonker.opensuse.org/](http://zonker.opensuse.org/)
+<td >[//zonker.opensuse.org/](//zonker.opensuse.org/)
 </td>
 
 <td >

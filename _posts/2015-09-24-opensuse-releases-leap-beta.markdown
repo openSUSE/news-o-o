@@ -19,7 +19,7 @@ tags:
 - SUSECon
 ---
 
-[![canvas](/wp-content/uploads/2015/09/canvas.png)](/wp-content/uploads/2015/09/canvas.png)Today openSUSE released the [Beta of Leap 42.1](http://bit.ly/1iOyl2T), providing an all new look that deviates from previous versions.
+[![canvas](/wp-content/uploads/2015/09/canvas.png)](/wp-content/uploads/2015/09/canvas.png)Today openSUSE released the [Beta of Leap 42.1](//bit.ly/1iOyl2T), providing an all new look that deviates from previous versions.
 
 The newest regular release from openSUSE has changes to Grub and Plymouth, which provides an impressive introduction to users setting up and using Leap on their hardware or virtual machines.
 
@@ -27,7 +27,7 @@ The newest regular release from openSUSE has changes to Grub and Plymouth, which
 
 Users wanting a long-term, stable Linux system can expect Leap to use the most advanced long-term supported branch of the [Linux kernel](https://www.kernel.org/category/releases.html), 4.1 series, which provides significant improvements to [ARM](https://www.arm.com/) hardware architecture.
 
-Anyone who wants to be a tester should download the Beta and test it on their hardware or [virtualbox](https://www.virtualbox.org/). Testers who do download and try the Beta are encouraged to try their favorite application or simply use it until the [scheduled release](https://en.opensuse.org/openSUSE:Roadmap) of Leap’s RC1 on Oct. 15. Testing and reporting bugs will help improve the RC1 release as well as the official release of openSUSE Leap, which is scheduled for release Nov. 4 during [SUSECon](http://www.susecon.com/) in Amsterdam.
+Anyone who wants to be a tester should download the Beta and test it on their hardware or [virtualbox](https://www.virtualbox.org/). Testers who do download and try the Beta are encouraged to try their favorite application or simply use it until the [scheduled release](https://en.opensuse.org/openSUSE:Roadmap) of Leap’s RC1 on Oct. 15. Testing and reporting bugs will help improve the RC1 release as well as the official release of openSUSE Leap, which is scheduled for release Nov. 4 during [SUSECon](//www.susecon.com/) in Amsterdam.
 
 The Leap Beta reverts back to XDM 1.1.10 rather than 1.1.11, which is available for Tumbleweed and 13.2.
 

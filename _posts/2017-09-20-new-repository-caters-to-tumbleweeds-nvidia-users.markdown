@@ -26,7 +26,7 @@ tags:
 - Xserver glx library
 ---
 
-![](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)Using [Nvidia](http://www.nvidia.com/Download/index.aspx) drivers on [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) in the past was cumbersome and fragile when it came to regular snapshot updates.
+![](/wp-content/uploads/2016/05/Tumbleweed-black-green.png)Using [Nvidia](//www.nvidia.com/Download/index.aspx) drivers on [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) in the past was cumbersome and fragile when it came to regular snapshot updates.
 
 Often users needed to uninstall the NVIDIA's userspace driver (like [libGL](https://dri.freedesktop.org/wiki/libGL/), Xserver glx library, etc.) before updating to the latest Tumbleweed snapshot and reinstall the NVIDIA’s userspace driver afterward. Otherwise users may have ended up in a mess with [Mesa](https://www.mesa3d.org/) overwriting NVIDIA's userspace drivers.
 
@@ -38,7 +38,7 @@ Now, [openSUSE](https://www.opensuse.org/) Tumbleweed users have a better soluti
 
 So moving forward with the new repository is expected to prevent the graphics card from breaking in future Tumbleweed snapshots.
 
-If an Nvidia user updates a Tumbleweed machine and the graphics card still doesn’t work, Tumbleweed Release Manager Dominique Leuenberger, recommends rolling the system back to the last working snapshot using [snapper](http://snapper.io/) and waiting for the official repository for Nvidia to update. To do this, users will need to be using the Btrfs file system.
+If an Nvidia user updates a Tumbleweed machine and the graphics card still doesn’t work, Tumbleweed Release Manager Dominique Leuenberger, recommends rolling the system back to the last working snapshot using [snapper](//snapper.io/) and waiting for the official repository for Nvidia to update. To do this, users will need to be using the Btrfs file system.
 
 Nvidia users can also choose the [Nouveau](https://nouveau.freedesktop.org/) as an alternative to the new Nvidia repository, but the recent [20170913](https://lists.opensuse.org/opensuse-factory/2017-09/msg00257.html) Tumbleweed snapshot that updates the kernel branch from 4.12 to 4.13 appears to have worked as expected.
 

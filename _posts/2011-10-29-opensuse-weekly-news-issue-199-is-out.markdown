@@ -19,7 +19,7 @@ We are pleased to announce our openSUSE Weekly News Issue 199.
 <!-- more -->
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -31,12 +31,12 @@ We are pleased to announce our openSUSE Weekly News Issue 199.
 
 **Legal Notice**
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
        
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/). 
        The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -44,9 +44,9 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which 
         license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
-We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](http://www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
+We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](//www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
 
 Published: 2011-10-29
 
@@ -98,15 +98,15 @@ Translations
 
 We are pleased to announce our 199 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 **Enjoy reading :-)**
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
+## ![Header Picture](//saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 “
 
-[Addendum from the Weekly News Team: Upcoming Issue 200](http://saigkill.homelinux.net/entry/2011/10/25/collecting-ideas-for-opensuse-weekly-news-200)
+[Addendum from the Weekly News Team: Upcoming Issue 200](//saigkill.homelinux.net/entry/2011/10/25/collecting-ideas-for-opensuse-weekly-news-200)
 
 
       Just one week and we're reading the openSUSE Weekly News Issue 200. If you have any idea for this Issue you can join our Connect-Site: [https://connect.opensuse.org/pg/forum/topic/14907/ideas-for-opensuse-weekly-news-issue-200/](https://connect.opensuse.org/pg/forum/topic/14907/ideas-for-opensuse-weekly-news-issue-200/). The Ideapad there closes on Wednesday 2011/11/2 at 18:00 CEST. C'm on and share your ideas. :-)
@@ -116,9 +116,9 @@ You can also read this issue in other formats [here](http://en.opensuse.org/Arch
 
 “
 
-[openSUSE 12.1 RC1 spotted in the wild](http://news.opensuse.org/2011/10/24/opensuse-12-1-rc1-spotted-in-the-wild/)
+[openSUSE 12.1 RC1 spotted in the wild](//news.opensuse.org/2011/10/24/opensuse-12-1-rc1-spotted-in-the-wild/)
 
-As was already [blogged by Vincent Untz](http://www.vuntz.net/journal/post/2011/10/24/openSUSE-12.1-RC1-is-out%2C-with-GNOME-3.2.1), a few weeks after our [last milestone was released as beta 1](http://news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/), the first Release Candidate of [openSUSE 12.1](http://en.opensuse.org/Portal:12.1%22) is now floating over the
+As was already [blogged by Vincent Untz](//www.vuntz.net/journal/post/2011/10/24/openSUSE-12.1-RC1-is-out%2C-with-GNOME-3.2.1), a few weeks after our [last milestone was released as beta 1](//news.opensuse.org/2011/09/06/opensuse-celebrates-beta-1-with-pizzabeta-parties/), the first Release Candidate of [openSUSE 12.1](//en.opensuse.org/Portal:12.1%22) is now floating over the
       web!
 
 ”
@@ -127,16 +127,16 @@ As was already [blogged by Vincent Untz](http://www.vuntz.net/journal/post/2011/
 
 
       [Help out with testing at
-        openSUSE](http://news.opensuse.org/2011/10/25/testing-at-opensuse/)
+        openSUSE](//news.opensuse.org/2011/10/25/testing-at-opensuse/)
     
 
 One of the most important activities during software development is testing. In FOSS
       community, software often gets tested by the developers themselves, other developers and
-      volunteers. During the [openSUSE 12.1](http://en.opensuse.org/Portal:12.1)
-      development process it has been important to keep [Factory](http://en.opensuse.org/Portal:Factory) working properly. Testing this
+      volunteers. During the [openSUSE 12.1](//en.opensuse.org/Portal:12.1)
+      development process it has been important to keep [Factory](//en.opensuse.org/Portal:Factory) working properly. Testing this
       is however a rather boring, repetitive task: the tester has to boot up a Factory ISO as often
       as possible and check if the basic applications start up and work. We don’t like boring tasks
-      so the openSUSE Project has been using the automated testing framework [openQA](http://openqa.opensuse.org) to test this release daily!
+      so the openSUSE Project has been using the automated testing framework [openQA](//openqa.opensuse.org) to test this release daily!
 
 This article explains how **openQA** works and how you can
       help keep Factory working! We’ll also give some links to more information about testing to
@@ -145,35 +145,35 @@ This article explains how **openQA** works and how you can
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/vote.jpeg)Board Election 2011▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/vote.jpeg)Board Election 2011▲▼
 
 “
 
-[Fourth openSUSE Board Election 2011](http://news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/)
+[Fourth openSUSE Board Election 2011](//news.opensuse.org/2011/10/28/fourth-opensuse-board-election-2011/)
 
 This years openSUSE Election Committee is in the pleasant position to announce the 2011
-        [Board Elections](http://en.opensuse.org/openSUSE:Board_election).
+        [Board Elections](//en.opensuse.org/openSUSE:Board_election).
 
 So, if you want to participate in the openSUSE board and influence the future direction of
       the project please stand up and announce your candidacy. If you want to vote for the
-      candidates, please make sure your openSUSE [membership](http://en.opensuse.org/Members) is approved. If you are a contributor of openSUSE but you are not a
-      member yet, apply for [membership](http://en.opensuse.org/openSUSE:Membership_officials#Process) now
+      candidates, please make sure your openSUSE [membership](//en.opensuse.org/Members) is approved. If you are a contributor of openSUSE but you are not a
+      member yet, apply for [membership](//en.opensuse.org/openSUSE:Membership_officials#Process) now
       and be a part of the changes to come. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
-### ![Header Picture](http://saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
+### ![Header Picture](//saigkill.homelinux.net/images/Built-with-web-big.png)SUSE Studio
 
 “
 
 
-        [SUSE Studio: ACE editor for scripts editing in SUSE Studio ](http://blog.susestudio.com/2011/10/ace-editor-for-scripts-editing-in-suse.html)
+        [SUSE Studio: ACE editor for scripts editing in SUSE Studio ](//blog.susestudio.com/2011/10/ace-editor-for-scripts-editing-in-suse.html)
       
 
 Ajax.org Cloud9 Editor (ACE) is a standalone code editor written in JavaScript. It is
-        written for [Cloud9 IDE](http://c9.io/) and is used in a number of other
+        written for [Cloud9 IDE](//c9.io/) and is used in a number of other
         projects, including [GitHub](https://github.com/blog/905-edit-like-an-ace). Over here, at SUSE Studio, we integrated ACE editor into our scripts
         editing section, which allow you to edit boot, build scripts and AutoYaST configuration XML.
         (...)
@@ -182,11 +182,11 @@ Ajax.org Cloud9 Editor (ACE) is a standalone code editor written in JavaScript. 
 
 ### Team Reports
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -209,7 +209,7 @@ Network installation could be improved by running package download and package
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -305,27 +305,27 @@ It would be very comfortable to have a list of package that will be available af
 
 Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org/statistic/product/opensuse_dist)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Postings from the Community
 
 “
 
 [
-          openSUSE at Lange Nacht der Wissenschaften ](http://jaegerandi.blogspot.com/2011/10/opensuse-at-lange-nacht-der.html)
+          openSUSE at Lange Nacht der Wissenschaften ](//jaegerandi.blogspot.com/2011/10/opensuse-at-lange-nacht-der.html)
 
 Last Saturday Nürnberg and other cities in the region had the so called "[Lange Nacht der
-          Wissenschaften](http://www.nacht-der-wissenschaften.de/2011/index.php)" (literal translation: Long night of sciences). During this night -
+          Wissenschaften](//www.nacht-der-wissenschaften.de/2011/index.php)" (literal translation: Long night of sciences). During this night -
         from 18:00 until 1:00 in the morning - over 1000 events took place to show what's happening
         in companies and research institutions. The event was visited by over 28000 visitors. The
-          [Georg-Simon-Ohm University](http://www.ohm-hochschule.de/) was so kind
+          [Georg-Simon-Ohm University](//www.ohm-hochschule.de/) was so kind
         to invite openSUSE as a guest on their side for this event. A group of SUSE employees
         volunteered to present openSUSE. (...)
 
@@ -335,46 +335,46 @@ Last Saturday Nürnberg and other cities in the region had the so called "[Lange
 
 Past
 
-  * [October 22, 2011 : openSUSE @ Lange Nacht der Wissenschaften\, Nürnberg](http://news.opensuse.org/2011/10/22/opensuse-lange-nacht-der-wissenschaften-nurnberg/)
+  * [October 22, 2011 : openSUSE @ Lange Nacht der Wissenschaften\, Nürnberg](//news.opensuse.org/2011/10/22/opensuse-lange-nacht-der-wissenschaften-nurnberg/)
 
-  * [October 25, 2011 : Testing Core Team Meeting](http://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
+  * [October 25, 2011 : Testing Core Team Meeting](//news.opensuse.org/2011/01/20/testing-core-team-meeting/)
 
-  * [October 26, 2011 : DEWIKI team meeting](http://news.opensuse.org/2011/07/25/dewiki-team-meeting/)
+  * [October 26, 2011 : DEWIKI team meeting](//news.opensuse.org/2011/07/25/dewiki-team-meeting/)
 
-  * [October 24-26, 2011 : Linux Kernel Summit (Praque, Czchech Republic)](http://events.linuxfoundation.org/events/linux-kernel-summit)
+  * [October 24-26, 2011 : Linux Kernel Summit (Praque, Czchech Republic)](//events.linuxfoundation.org/events/linux-kernel-summit)
 
-  * [October 27, 2011 : Marketing of openSUSE 12.1](http://news.opensuse.org/2011/10/26/marketing-of-opensuse-12-1/)
+  * [October 27, 2011 : Marketing of openSUSE 12.1](//news.opensuse.org/2011/10/26/marketing-of-opensuse-12-1/)
 
 Upcoming
 
   * [November 5-7, 2011 : OpenFest (Sofia,
-            Bulgaria)](http://openfest.org/english)
+            Bulgaria)](//openfest.org/english)
 
-You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-      it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podcast). 
+      it on [//saigkill.homelinux.net/podcast](//saigkill.homelinux.net/podcast). 
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
-    refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 “
 
-[openSUSE-SU-2011:1169-1: important: krb5: fixed kdc remote denial of service ( CVE-2011-1528, CVE-2011-1529) and unauthorized file access (CVE-2011-1526)](http://lists.opensuse.org/opensuse-security-announce/2011-10/msg00009.html)
+[openSUSE-SU-2011:1169-1: important: krb5: fixed kdc remote denial of service ( CVE-2011-1528, CVE-2011-1529) and unauthorized file access (CVE-2011-1526)](//lists.opensuse.org/opensuse-security-announce/2011-10/msg00009.html)
 
 <table frame="void" id="id319195" >Table 1. SUSE Security Announcement<tr >
           
@@ -421,7 +421,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 “
 
 [openSUSE-SU-2011:1172-1: important: opera: Release 11.52 to fix memory corruption via SVG
-        content](http://lists.opensuse.org/opensuse-security-announce/2011-10/msg00011.html)
+        content](//lists.opensuse.org/opensuse-security-announce/2011-10/msg00011.html)
 
 <table frame="void" id="id319417" >Table 2. SUSE Security Announcement<tr >
           
@@ -465,27 +465,27 @@ To view the security announcements in full, or to receive them as soon as they'r
 </td>
         </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 “
 
-[Rares Aioanei: kernel weekly news – 29.10.2011](http://schaiba.wordpress.com/2011/10/29/kernel-weekly-news-29-10-2011/)
+[Rares Aioanei: kernel weekly news – 29.10.2011](//schaiba.wordpress.com/2011/10/29/kernel-weekly-news-29-10-2011/)
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Commandline/Script Newbies
 
 “
 
 
-        [Ankur Aggarwal: Search Wikipedia Through CLI (Shell) In Linux](http://flossstuff.wordpress.com/2011/10/25/search-wikipedia-through-cli-shell-in-linux/)
+        [Ankur Aggarwal: Search Wikipedia Through CLI (Shell) In Linux](//flossstuff.wordpress.com/2011/10/25/search-wikipedia-through-cli-shell-in-linux/)
       
 
-Wikipedia : One of the most important web portal in  geek’s life. Whenever I need to search anything I use two things. First open up the [Google](http://www.google.com/) and then search for the related  [wikipedia](http://www.wikipedia.org/) page. Exploring wikipedia page using shell is possible. Interested fact is that we can do it without even opening the cli browser. We can make wikipedia text query over dns for an ip address. I learned this trick from Ajay Sharma (ajayctk@gmail.com). Thanks to him for teaching me this wonderful trick. Let’s explore how to do it :) (...)
+Wikipedia : One of the most important web portal in  geek’s life. Whenever I need to search anything I use two things. First open up the [Google](//www.google.com/) and then search for the related  [wikipedia](//www.wikipedia.org/) page. Exploring wikipedia page using shell is possible. Interested fact is that we can do it without even opening the cli browser. We can make wikipedia text query over dns for an ip address. I learned this trick from Ajay Sharma (ajayctk@gmail.com). Thanks to him for teaching me this wonderful trick. Let’s explore how to do it :) (...)
 
 ”
 
@@ -494,10 +494,10 @@ Wikipedia : One of the most important web portal in  geek’s life. Whenever I n
 “
 
 
-        [Wazi/Juliet Kemp: Git Tutorial: Branching and Merging](http://olex.openlogic.com/wazi/2011/git-tutorial-branching-and-merging/)
+        [Wazi/Juliet Kemp: Git Tutorial: Branching and Merging](//olex.openlogic.com/wazi/2011/git-tutorial-branching-and-merging/)
       
 
-One of the most compelling features of the [Git](http://olex.openlogic.com/packages/git) version control system (VCS) is its ability to create highly usable and lightweight branches, and the ease of merging those branches later. Branching creates multiple “copies” of the same repository and allows you to separate out a set of changes while you experiment with them, or to create different versions of a project, without affecting the main tree. It’s a feature that developers sometimes don’t make the most of, simply because branching is so much more costly in other VCSes that they’re not used to it, or they’re not aware of the many branch commands and tricks available in Git. Here’s a host of useful tips to get your Git branching and merging skills up to expert level in no time. (...)
+One of the most compelling features of the [Git](//olex.openlogic.com/packages/git) version control system (VCS) is its ability to create highly usable and lightweight branches, and the ease of merging those branches later. Branching creates multiple “copies” of the same repository and allows you to separate out a set of changes while you experiment with them, or to create different versions of a project, without affecting the main tree. It’s a feature that developers sometimes don’t make the most of, simply because branching is so much more costly in other VCSes that they’re not used to it, or they’re not aware of the many branch commands and tricks available in Git. Here’s a host of useful tips to get your Git branching and merging skills up to expert level in no time. (...)
 
 ”
 
@@ -506,7 +506,7 @@ One of the most compelling features of the [Git](http://olex.openlogic.com/packa
 “
 
 
-        [Pascal Bleser: Loop mount iso files without being root](http://dev-loki.blogspot.com/2011/10/loop-mount-iso-files-without-being-root.html)
+        [Pascal Bleser: Loop mount iso files without being root](//dev-loki.blogspot.com/2011/10/loop-mount-iso-files-without-being-root.html)
       
 
 There is a rather convenient way to mount ISO files (CD/DVD images) onto a directory on Linux, which goes as follows:
@@ -515,14 +515,14 @@ mount -o loop,ro /path/to/image.iso /path/to/mountpoint
 
 This method works very well, but has one essential drawback: you must be root in order to do that. So how do I get to do so as a regular user ?
 
-A barely known alternative lies in [fuseiso](http://freshmeat.net/projects/fuseiso), which uses the [FUSE](http://fuse.sourceforge.net/) filesystem in user-space layer to accomplish that. (...)
+A barely known alternative lies in [fuseiso](//freshmeat.net/projects/fuseiso), which uses the [FUSE](//fuse.sourceforge.net/) filesystem in user-space layer to accomplish that. (...)
 
 ”
 
 “
 
 
-        [LinuxCareer/Jonathan Cox: How to Make a Basic Intrusion Detection System with Bash](http://how-to.linuxcareer.com/how-to-make-a-basic-intrusion-detection-system-with-bash)
+        [LinuxCareer/Jonathan Cox: How to Make a Basic Intrusion Detection System with Bash](//how-to.linuxcareer.com/how-to-make-a-basic-intrusion-detection-system-with-bash)
       
 
 **1. Introduction**
@@ -536,14 +536,14 @@ There are already some very good IDS's (Intrusion Detection Systems) available. 
 “
 
 
-        [IBM developerWorks/Roderick W. Smith: Learn Linux, 302 (Mixed environments): CIFS integration](http://www.ibm.com/developerworks/linux/library/l-lpic3-314-1/index.html)
+        [IBM developerWorks/Roderick W. Smith: Learn Linux, 302 (Mixed environments): CIFS integration](//www.ibm.com/developerworks/linux/library/l-lpic3-314-1/index.html)
       
 
 In addition to or instead of functioning as a server on a Windows network, a Linux® computer can function as a client. You can use an ftp-like program to transfer files and modify a server, or you can mount a share from a Samba or Windows® Server machine on your Linux computer, giving normal programs the ability to access files directly on the server. When doing so, though, keep in mind the characteristics of the original SMB protocol and its newer CIFS variant, particularly when accessing a Windows Server machine: You may not have access to all the file system features that a Linux computer supports. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 “
 
@@ -584,27 +584,27 @@ Also new to this libvirt update is opt-in for Apparmor confinement of qemu insta
 
 “
 
-[Cornelius Schumacher: Introducing Inqlude, the Qt library archive](http://blog.cornelius-schumacher.de/2011/10/introducing-inqlude-qt-library-archive.html)
+[Cornelius Schumacher: Introducing Inqlude, the Qt library archive](//blog.cornelius-schumacher.de/2011/10/introducing-inqlude-qt-library-archive.html)
 
-Today I would like to introduce you to [Inqlude](http://inqlude.org/),
+Today I would like to introduce you to [Inqlude](//inqlude.org/),
       the Qt library archive. The goal of this project is to provide a comprehensive listing of all
       existing libraries for developers of Qt applications. So if you are creating applications
-      using the [Qt toolkit](http://qt-project.org/), and are looking for
+      using the [Qt toolkit](//qt-project.org/), and are looking for
       libraries, components or modules to use, Inqlude is meant to be the place where you find all
       information and pointers to get started.
 
-![](http://3.bp.blogspot.com/-OlDauS1xh-o/TqlYqnvZHRI/AAAAAAAAAT0/W9OY3LLS3o0/s1600/inqlude-home.png)
+![](//3.bp.blogspot.com/-OlDauS1xh-o/TqlYqnvZHRI/AAAAAAAAAT0/W9OY3LLS3o0/s1600/inqlude-home.png)
 
 ”
 
 “
 
 [Coffee
-      talk with Michael Miller](http://news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/)
+      talk with Michael Miller](//news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/)
 
-Friday 16.09, while working on the [openSUSE 12.1](http://en.opensuse.org/Portal:12.1) marketing actions during the [Marketing Hackfest](http://en.opensuse.org/openSUSE:12.1_Marketing_Hackfest),
+Friday 16.09, while working on the [openSUSE 12.1](//en.opensuse.org/Portal:12.1) marketing actions during the [Marketing Hackfest](//en.opensuse.org/openSUSE:12.1_Marketing_Hackfest),
       two of us had the spontaneous idea to suggest an interview to Michael Miller([Vice President of Global Alliances
-        & Marketing for SUSE](http://www.suse.com/company/executive-management/)), asking him a few questions we could have in the openSUSE
+        & Marketing for SUSE](//www.suse.com/company/executive-management/)), asking him a few questions we could have in the openSUSE
       community. We did not have the time to go around, to find the FAQ or to choose the “best
       questions”. It was kind of “shall we do that, around a cup of coffee ? Why not ?”. And Michael
       Miller accepted our proposition, without any objection or any “joker’s need”. (...)
@@ -613,7 +613,7 @@ Friday 16.09, while working on the [openSUSE 12.1](http://en.opensuse.org/Portal
 
 “
 
-[Internet at openSUSE Conference 2011](http://news.opensuse.org/2011/10/25/internet-at-opensuse-conference-2011/)
+[Internet at openSUSE Conference 2011](//news.opensuse.org/2011/10/25/internet-at-opensuse-conference-2011/)
 
 At the openSUSE conference 2011, there was especially one area that caused us the previous
       years some trouble and this year nobody spoke about since it just worked fine: Wireless
@@ -628,12 +628,12 @@ We were lucky that SUSE’s internet provider M-Net had a fibre channel cable in
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
 
 “
 
 
-      [Forums: Pre-release - Beta](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/)
+      [Forums: Pre-release - Beta](//forums.opensuse.org/english/get-technical-help-here/pre-release-beta/)
     
 
 
@@ -645,7 +645,7 @@ We were lucky that SUSE’s internet provider M-Net had a fibre channel cable in
 “
 
 
-    [openSUSE 11.4 download errors](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/466881-opensuse-11-4-download-errors.html)
+    [openSUSE 11.4 download errors](//forums.opensuse.org/english/get-technical-help-here/install-boot-login/466881-opensuse-11-4-download-errors.html)
     
 
 
@@ -657,7 +657,7 @@ We were lucky that SUSE’s internet provider M-Net had a fibre channel cable in
 “
 
 
-    [Graphics card recommendations](http://forums.opensuse.org/english/get-technical-help-here/hardware/460930-graphics-card-recommendations.html)
+    [Graphics card recommendations](//forums.opensuse.org/english/get-technical-help-here/hardware/460930-graphics-card-recommendations.html)
     
 
 
@@ -673,33 +673,33 @@ We were lucky that SUSE’s internet provider M-Net had a fibre channel cable in
     
 
 We now host the following language specific subforums under the umbrella of the openSUSE Forums:
-	[Main forums, english](http://forums.opensuse.org/english/)
-	[中文(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
-	[Nederlands (Dutch)](http://forums.opensuse.org/nederlands-dutch/)
-	[Français (French)](http://forums.opensuse.org/frana-ais-french/)
-	[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
-	[Ελληνικό (Greek)](http://forums.opensuse.org/greek/)
-	[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-	[日本語 (Japanese)](http://forums.opensuse.org/japanese/)
-	[Portuguese](http://forums.opensuse.org/portuguese/)
-	[Pусский (Russian)](http://forums.opensuse.org/p-russian/)
+	[Main forums, english](//forums.opensuse.org/english/)
+	[中文(Chinese)](//forums.opensuse.org/ae-ae-chinese/)
+	[Nederlands (Dutch)](//forums.opensuse.org/nederlands-dutch/)
+	[Français (French)](//forums.opensuse.org/frana-ais-french/)
+	[Deutsch (German)](//forums.opensuse.org/deutsch-german/)
+	[Ελληνικό (Greek)](//forums.opensuse.org/greek/)
+	[Magyar (Hungarian)](//forums.opensuse.org/magyar-hungarian/)
+	[日本語 (Japanese)](//forums.opensuse.org/japanese/)
+	[Portuguese](//forums.opensuse.org/portuguese/)
+	[Pусский (Russian)](//forums.opensuse.org/p-russian/)
       
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
 “
 
 
-        [The Qt Project is live!](http://labs.qt.nokia.com/2011/10/21/the-qt-project-is-live/)
+        [The Qt Project is live!](//labs.qt.nokia.com/2011/10/21/the-qt-project-is-live/)
       
 
 I’m happy to announce that the Qt Project officially went live today. Starting today, development of Qt will be governed as a true open source project.
 
-We now have [qt-project.org](http://qt-project.org/) – a website where all development of Qt will be centered, providing the same infrastructure and processes for everybody that wants to contribute to Qt. (...)
+We now have [qt-project.org](//qt-project.org/) – a website where all development of Qt will be centered, providing the same infrastructure and processes for everybody that wants to contribute to Qt. (...)
 
 ”
 
@@ -708,7 +708,7 @@ We now have [qt-project.org](http://qt-project.org/) – a website where all dev
 “
 
 
-        [InternetNews.com/Sean Michael Kerner: SUSE Builds OpenStack Diablo Appliances](http://www.internetnews.com/blog/skerner/suse-builds-openstack-diablo-appliances.html)
+        [InternetNews.com/Sean Michael Kerner: SUSE Builds OpenStack Diablo Appliances](//www.internetnews.com/blog/skerner/suse-builds-openstack-diablo-appliances.html)
       
 
 From the 'Cloud Rules' files:
@@ -724,36 +724,36 @@ So instead of just 'pledging' to work with OpenStack and have some kind of OpenS
 “
 
 
-        [ZDNet/Steven J. Vaughan-Nichols: Consumer Electronics Linux Initiative Starts](http://www.zdnet.com/blog/open-source/consumer-electronics-linux-initiative-starts/9820)
+        [ZDNet/Steven J. Vaughan-Nichols: Consumer Electronics Linux Initiative Starts](//www.zdnet.com/blog/open-source/consumer-electronics-linux-initiative-starts/9820)
       
 
 Many people use Linux every day and never know it. Indeed, they’re often using Linux without even knowing they’re using a computing device. For years now, Linux has been the operating system of choice for Digital Video Recorders (DVR)s, DVD players, Smart TVs, Wi-Fi access points, GPS devices, and on and on. But, there’s never been a Linux kernel just for consumer electronics… until now.
 
-At [LinuxCon Europe](https://events.linuxfoundation.org/events/linuxcon-europe) in Prague, Czech Republic, The [Linux Foundation](http://www.linuxfoundation.org/), the non-profit organization dedicated to promoting Linux, announced that it was hosting a new project created by its Consumer Electronics (CE) workgroup: the [Long Term Support Initiative (LTSI)](http://www.linuxfoundation.org/collaborate/workgroups/celf). (...)
+At [LinuxCon Europe](https://events.linuxfoundation.org/events/linuxcon-europe) in Prague, Czech Republic, The [Linux Foundation](//www.linuxfoundation.org/), the non-profit organization dedicated to promoting Linux, announced that it was hosting a new project created by its Consumer Electronics (CE) workgroup: the [Long Term Support Initiative (LTSI)](//www.linuxfoundation.org/collaborate/workgroups/celf). (...)
 
 ”
 
 “
 
 
-        [ReadWriteCloud/Joe Brockmeier: Red Vs. Green: SUSE Backs OpenStack, Red Hat Stands Alone](http://www.readwriteweb.com/cloud/2011/10/red-vs-green-suse-backs-openst.php)
+        [ReadWriteCloud/Joe Brockmeier: Red Vs. Green: SUSE Backs OpenStack, Red Hat Stands Alone](//www.readwriteweb.com/cloud/2011/10/red-vs-green-suse-backs-openst.php)
       
 
-This week, SUSE [announced that it had joined OpenStack](http://www.suse.com/blogs/suse-joins-openstack/) and today the company announced [a development preview of SUSE Cloud](http://susegallery.com/a/vszMWq/suse-cloud-powered-by-openstacktm) which is powered by OpenStack. With the green team at SUSE behind OpenStack, along with Canonical, does that make OpenStack the de facto open source cloud? Not so fast – I wouldn't count Red Hat out just yet.
+This week, SUSE [announced that it had joined OpenStack](//www.suse.com/blogs/suse-joins-openstack/) and today the company announced [a development preview of SUSE Cloud](//susegallery.com/a/vszMWq/suse-cloud-powered-by-openstacktm) which is powered by OpenStack. With the green team at SUSE behind OpenStack, along with Canonical, does that make OpenStack the de facto open source cloud? Not so fast – I wouldn't count Red Hat out just yet.
 
-[OpenStack](http://www.openstack.org/), the open source cloud infrastructure being developed by more than 125 organizations, should need no introduction. Red Hat is going its own way in the clouds, with [CloudForms](http://www.redhat.com/solutions/cloud/cloudforms/) for its Infrastructure-as-a-Service (Iaas) offering, and [OpenShift](http://www.redhat.com/solutions/cloud/openshift/) for its Platform-as-a-Service (PaaS) offering. (...)
+[OpenStack](//www.openstack.org/), the open source cloud infrastructure being developed by more than 125 organizations, should need no introduction. Red Hat is going its own way in the clouds, with [CloudForms](//www.redhat.com/solutions/cloud/cloudforms/) for its Infrastructure-as-a-Service (Iaas) offering, and [OpenShift](//www.redhat.com/solutions/cloud/openshift/) for its Platform-as-a-Service (PaaS) offering. (...)
 
-**Related Articles**: [http://www.h-online.com/open/news/item/SUSE-announces-OpenStack-based-cloud-solution-1367235.html](http://www.h-online.com/open/news/item/SUSE-announces-OpenStack-based-cloud-solution-1367235.html)
+**Related Articles**: [//www.h-online.com/open/news/item/SUSE-announces-OpenStack-based-cloud-solution-1367235.html](//www.h-online.com/open/news/item/SUSE-announces-OpenStack-based-cloud-solution-1367235.html)
 
 ”
 
 “
 
 
-        [Phoronix/Michael Larabel: Skype Publishes New Linux APIs w/ Video Support](http://www.phoronix.com/scan.php?page=news_item&px=MTAwNjY)
+        [Phoronix/Michael Larabel: Skype Publishes New Linux APIs w/ Video Support](//www.phoronix.com/scan.php?page=news_item&px=MTAwNjY)
       
 
-Skype, now [under the control of Microsoft](http://www.phoronix.com/scan.php?page=news_item&px=OTQyNw), has announced a new developer preview of SkypeKit. It surprisingly brings good news for Linux users.
+Skype, now [under the control of Microsoft](//www.phoronix.com/scan.php?page=news_item&px=OTQyNw), has announced a new developer preview of SkypeKit. It surprisingly brings good news for Linux users.
 
 SkypeKit allows desktop applications to integrate Skype functionality into partner applications while the Skype desktop API allows developers to extend the functionality of the Skype client.
 
@@ -768,7 +768,7 @@ SkypeKit is available for Linux, Mac OS X, and Windows operating systems. (...)
 “
 
 
-        [Network World/Rikki Endsley: Open Source: You Know, For Kids!](http://www.networkworld.com/community/open-source-for-kids)
+        [Network World/Rikki Endsley: Open Source: You Know, For Kids!](//www.networkworld.com/community/open-source-for-kids)
       
 
 A few years ago, when I was working as a print magazine editor, a young girl approached my booth at LinuxFest Northwest in Bellingham, Washington. She was probably 12- or 13-years old, and she gave me some of the best feedback I'd ever had on our products.
@@ -782,7 +782,7 @@ My new young friend told me what she liked about our articles, the art, and even
 “
 
 
-        [LinuxCareer/Reres Aioanei: How can you help the Linux community](http://how-to.linuxcareer.com/how-can-you-help-the-linux-community)
+        [LinuxCareer/Reres Aioanei: How can you help the Linux community](//how-to.linuxcareer.com/how-can-you-help-the-linux-community)
       
 
 **1. Introduction**
@@ -796,7 +796,7 @@ The whole Linux community is based on the concept of community and collaboration
 “
 
 
-        [Digital Trends/Mike Flacy: Spammers create and launch URL shortening services to hide links](http://www.digitaltrends.com/web/spammers-create-and-launch-url-shortening-services-to-hide-links/)
+        [Digital Trends/Mike Flacy: Spammers create and launch URL shortening services to hide links](//www.digitaltrends.com/web/spammers-create-and-launch-url-shortening-services-to-hide-links/)
       
 
 **While spam continues to be a major problem for email providers and consumers, spammers have come up with a new way to hide links and slip through the spam filters.**
@@ -805,72 +805,72 @@ According to new information from researchers at Symantec, a group of spammers h
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//bit.ly/mpxLsD) and let us know! 
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
 If you don't know, how to **contribute**, just check out the
       [Contribution
-    Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+    Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-We have a [Etherpad](http://os-news.ietherpad.com/2), which you can also
+We have a [Etherpad](//os-news.ietherpad.com/2), which you can also
     use to sumbit news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-    community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our **connect.opensuse.org** Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
-                Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+                Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [iJoomla](http://www.ijoomla.com), Surveys
+  * [iJoomla](//www.ijoomla.com), Surveys
 
-  * [open-slx GmbH](http://www.open-slx.com/en), Sponsoring
+  * [open-slx GmbH](//www.open-slx.com/en), Sponsoring
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
-  * [Permission Information for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Information for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 ### Trademarks
 
@@ -879,22 +879,22 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 199 is available in: 
 
-  * [English](http://news.opensuse.org/?p=11332)
+  * [English](//news.opensuse.org/?p=11332)
 
 Coming soon: 
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/199)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/199)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
-  * [Russian](http://www.xboct.org)
+  * [Russian](//www.xboct.org)
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)

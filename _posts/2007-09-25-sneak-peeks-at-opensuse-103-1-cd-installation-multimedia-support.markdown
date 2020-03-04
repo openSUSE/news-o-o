@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-openSUSE 10.3 has seen a lot of changes with the media selection; the most prominent one being the new 1-CD installation for KDE, and 1-CD installation for GNOME. Multimedia support in the distribution has also been improved, with MP3 support out-of-the-box for Banshee and [Amarok](http://opensuse.org/Amarok). Today we bring you a special double-bill covering these two stories, and we'll be talking to [Michael Löffler](http://en.opensuse.org/User:Sprudel24), the Product Manager of openSUSE, to give us a little more insight. 
+openSUSE 10.3 has seen a lot of changes with the media selection; the most prominent one being the new 1-CD installation for KDE, and 1-CD installation for GNOME. Multimedia support in the distribution has also been improved, with MP3 support out-of-the-box for Banshee and [Amarok](//opensuse.org/Amarok). Today we bring you a special double-bill covering these two stories, and we'll be talking to [Michael Löffler](//en.opensuse.org/User:Sprudel24), the Product Manager of openSUSE, to give us a little more insight. 
 
 <!-- more -->
 
@@ -82,7 +82,7 @@ Furthermore, the DVD is still available for those who want to have the choice of
 
 
 
-openSUSE is constantly trying to improve the out-of-the-box [user experience](http://opensuse.org/UX) for all users. To find out even more about how users feel, an openSUSE survey was started, and it was taken by over 27,000 people. The results were of course [available to everyone](http://lists.opensuse.org/opensuse-project/2007-05/msg00043.html), and they revealed that over 69% of users find multimedia support important, or very important. These complaints did not go unheard. 
+openSUSE is constantly trying to improve the out-of-the-box [user experience](//opensuse.org/UX) for all users. To find out even more about how users feel, an openSUSE survey was started, and it was taken by over 27,000 people. The results were of course [available to everyone](//lists.opensuse.org/opensuse-project/2007-05/msg00043.html), and they revealed that over 69% of users find multimedia support important, or very important. These complaints did not go unheard. 
 
 
 
@@ -90,7 +90,7 @@ openSUSE is constantly trying to improve the out-of-the-box [user experience](ht
 
 
 
-[![openSUSE 10.3 will contain Amarok 1.4.7](//news.opensuse.org/wp-content/uploads/2007/09/amarok.png)](http://opensuse.org/Amarok)In openSUSE 10.3, Amarok -- the popular KDE audio player -- will have MP3 support available to you directly from the non-OSS online repository, or will work out-of-the-box on the DVD. This is all thanks to the _yauap_ GStreamer plugin available from [Fluendo](http://fluendo.com). It is a significant step forward for all KDE users or Amarok aficionados in openSUSE.
+[![openSUSE 10.3 will contain Amarok 1.4.7](//news.opensuse.org/wp-content/uploads/2007/09/amarok.png)](//opensuse.org/Amarok)In openSUSE 10.3, Amarok -- the popular KDE audio player -- will have MP3 support available to you directly from the non-OSS online repository, or will work out-of-the-box on the DVD. This is all thanks to the _yauap_ GStreamer plugin available from [Fluendo](//fluendo.com). It is a significant step forward for all KDE users or Amarok aficionados in openSUSE.
 
 
 
@@ -112,7 +112,7 @@ As you can see, it also gives you the option to install the additional codecs pr
 
 
 
-[![openSUSE-Community.org](//news.opensuse.org/wp-content/uploads/2007/09/community-repos1.png)](http://software.opensuse.org/codecs?client_version=10.3.1&lang=en_GB.UTF-8&os_release=openSUSE%2010.3%20(i586)&kernel=2.6.22.5-23-default&gstreamer=gstreamer010-0.10.13-30&xine=libxine1-1.1.8-0.pm.0)
+[![openSUSE-Community.org](//news.opensuse.org/wp-content/uploads/2007/09/community-repos1.png)](//software.opensuse.org/codecs?client_version=10.3.1&lang=en_GB.UTF-8&os_release=openSUSE%2010.3%20(i586)&kernel=2.6.22.5-23-default&gstreamer=gstreamer010-0.10.13-30&xine=libxine1-1.1.8-0.pm.0)
 
 
 
@@ -176,7 +176,7 @@ Fluendo was very supportive to this request and the rest was done by the legal t
 ### Are there any further plans for multimedia support in openSUSE?
 
 
-As said before major issue for multimedia support is cost for licence. Due to that we don't have concrete plans for additional codecs. As Fluendo offers a variety of multimedia codecs to purchase we [guide](http://software.opensuse.org/codecs) openSUSE 10.3 users to Fluendo to get hold of these codecs. 
+As said before major issue for multimedia support is cost for licence. Due to that we don't have concrete plans for additional codecs. As Fluendo offers a variety of multimedia codecs to purchase we [guide](//software.opensuse.org/codecs) openSUSE 10.3 users to Fluendo to get hold of these codecs. 
 
 We are also in contact with Fluendo and asked them to offer RPMs for openSUSE and the 1-click install option in their shop. We hope that this works out and makes is really simple to add multimedia codecs to our distiribution.
 

@@ -13,7 +13,7 @@ categories:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png)
 
-Issue #18 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/18)!
+Issue #18 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/18)!
 
 In this week's issue:
 

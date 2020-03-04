@@ -20,9 +20,9 @@ The Conference is getting closer while the team makes progress. Let's talk numbe
 ## The openSUSE Conference - Greece!
 
 
-The moment is drawing close for you to attend the openSUSE Conference 2013. This time we will meet at the fantastic city of Thessaloniki, Greece. Our Greek ambassadors have worked long and hard to provide all the necessary commodities for the attendees. We will be housed as a conference in the [Olympic Museum](http://www.olympicmuseum-thessaloniki.org/), and there could not have been a better place to be. It evokes much of the spirit of what our community is, a team of people striving for a common goal.
+The moment is drawing close for you to attend the openSUSE Conference 2013. This time we will meet at the fantastic city of Thessaloniki, Greece. Our Greek ambassadors have worked long and hard to provide all the necessary commodities for the attendees. We will be housed as a conference in the [Olympic Museum](//www.olympicmuseum-thessaloniki.org/), and there could not have been a better place to be. It evokes much of the spirit of what our community is, a team of people striving for a common goal.
 
-Remember that accommodations are set by yourself, although the project does provide places where you can stay for a possible reduced price. Please read further to find the recommended lodging locations in Thessaloniki. The travel support program made news last week announcing the availability of financial support, up to 80%, for those attending the conference from far away. As always, there is a criteria to be met in order to receive the funding, but it is available and our Travel Team is ready for you! [![](http://i1108.photobucket.com/albums/h414/anditosan/openSUSE-Travel-Logo.png)](https://connect.opensuse.org/travel-support/)
+Remember that accommodations are set by yourself, although the project does provide places where you can stay for a possible reduced price. Please read further to find the recommended lodging locations in Thessaloniki. The travel support program made news last week announcing the availability of financial support, up to 80%, for those attending the conference from far away. As always, there is a criteria to be met in order to receive the funding, but it is available and our Travel Team is ready for you! [![](//i1108.photobucket.com/albums/h414/anditosan/openSUSE-Travel-Logo.png)](https://connect.opensuse.org/travel-support/)
 
 
 ## Promotion
@@ -30,7 +30,7 @@ Remember that accommodations are set by yourself, although the project does prov
 
 Please help us spread the word about the conference. The more others know what is happening around them, the more likely they are to attend. This event is also a great promotion for the team as a whole. Given our recent release, openSUSE 12.3, the media have covered our progress on the distribution widely. Adding to that media presence, our conference is also another focus of promotion for the project. If you own a blog, Facebook, Twitter or Google Plus account, or any social media, you can download these promotional conference banners, flyers, posters at [https://conference.opensuse.org/#promote](https://conference.opensuse.org/#promote)
 
-A new video is up on YouTube available [here!](http://youtu.be/XrA0_6kXHQo)
+A new video is up on YouTube available [here!](//youtu.be/XrA0_6kXHQo)
 
 
 
@@ -51,10 +51,10 @@ Some important links:
   * [Paper Submissions](https://news.opensuse.org/2013/04/03/osc13-cfp-extends/)
 
 	
-  * [Venue](http://www.olympicmuseum-thessaloniki.org/)
+  * [Venue](//www.olympicmuseum-thessaloniki.org/)
 
 
-Two sites where you can book cheap flight to Greece are [Petas.gr](http://www.petas.gr/en/Home.html) and [airtickets.com](http://www.airtickets.com/)
+Two sites where you can book cheap flight to Greece are [Petas.gr](//www.petas.gr/en/Home.html) and [airtickets.com](//www.airtickets.com/)
 
 [caption id="attachment_15898" align="alignright" width="300"][![openSUSE Release Party Athens](//news.opensuse.org/wp-content/uploads/2013/04/P1020221.jpg)](//news.opensuse.org/wp-content/uploads/2013/04/P1020221.jpg) Our Amazing Greeks[/caption]
 

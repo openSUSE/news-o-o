@@ -22,7 +22,7 @@ The openSUSE Boosters team is a hand-picked group of fifteen Novell employees wi
 
 
 
-So who are the [openSUSE Boosters Team](http://en.opensuse.org/Boosters_Team)?  Starting at the top we have Klaas Freitag, the team leader and one of the architects of the distinctive tools that make openSUSE, such as our feature tracker, FATE, and Hermes, the notification system of the Build Service.  Stephan Kulow needs no introduction due to his role as openSUSE release manager.  Rumour has it that his photo has been circulated to all the bus drivers in Nuremberg and Fürth so they take extra care not to run him over, such is his importance to the distribution.  Henne Vogelsang, known for his no-nonsense attitude to organizing the community, keeps the plates spinning on the larger openSUSE project as project manager.  
+So who are the [openSUSE Boosters Team](//en.opensuse.org/Boosters_Team)?  Starting at the top we have Klaas Freitag, the team leader and one of the architects of the distinctive tools that make openSUSE, such as our feature tracker, FATE, and Hermes, the notification system of the Build Service.  Stephan Kulow needs no introduction due to his role as openSUSE release manager.  Rumour has it that his photo has been circulated to all the bus drivers in Nuremberg and Fürth so they take extra care not to run him over, such is his importance to the distribution.  Henne Vogelsang, known for his no-nonsense attitude to organizing the community, keeps the plates spinning on the larger openSUSE project as project manager.  
 
 A trio of expert packagers from the Prague office, Michal Hrušecký, Pavol Rusnak, and Petr Uzel bring their skills to the team.  With responsibility for hundreds of packages each and the knowhow to tackle upgrades and maintenance on some of the most complex packages smoothly, their experience will help the team solve problems facing the broad base of openSUSE contributors and make joining in on openSUSE at any level a rewarding experience.
 
@@ -48,8 +48,8 @@ The first batch of three projects are firstly, to reorganise and improve contrib
 
 
 
-All of these efforts are being developed out in the open, and anyone who wants to is welcome to contribute.  We have a [opensuse-boosters](http://lists.opensuse.org/opensuse-boosters/) mailing list as well as the wiki pages [listing us](http://en.opensuse.org/Boosters_Team) and [our projects](http://en.opensuse.org/Boosters_Team/Projects).  As well as the first three projects, we have a long list of other technological, social and organizational improvements that we want to make to the project, which happen a lot quicker with the community's involvement.  
+All of these efforts are being developed out in the open, and anyone who wants to is welcome to contribute.  We have a [opensuse-boosters](//lists.opensuse.org/opensuse-boosters/) mailing list as well as the wiki pages [listing us](//en.opensuse.org/Boosters_Team) and [our projects](//en.opensuse.org/Boosters_Team/Projects).  As well as the first three projects, we have a long list of other technological, social and organizational improvements that we want to make to the project, which happen a lot quicker with the community's involvement.  
 
 ~ By Will Stephenson
 
-![openSUSE Boosters](http://www.gnome.org/~federico/news-photos/thumb/2009-09-0404-opensuse-boosters.jpg)
+![openSUSE Boosters](//www.gnome.org/~federico/news-photos/thumb/2009-09-0404-opensuse-boosters.jpg)

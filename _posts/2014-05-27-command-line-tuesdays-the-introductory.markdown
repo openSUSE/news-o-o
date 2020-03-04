@@ -32,7 +32,7 @@ Today we're introducing a new series, called '_Command Line Tuesdays_'. Why comm
 
 
 Of course, if you visited any of the GNU/Linux related community forums, you've probably read, and this is an assumption, a very fiery debate over which is actually easier. Using GUI for everything, or simply learning and enjoying the Command-line Interface (CLI).
-![Terminal](http://sholva.org/assets/images/blog/2009/review-opensuse-11.2/opensuse-terminal.png)There are many arguments for or against the use of GUI tools. One of the most commonly referred pros is that we've been brought up in the point-and-click computing paradigm, so it's basically a form of a language, or _culture_ if you may, in which we interact with our machine. The patterns are mostly recurring, with big button clicking doing everything we need it to do.
+![Terminal](//sholva.org/assets/images/blog/2009/review-opensuse-11.2/opensuse-terminal.png)There are many arguments for or against the use of GUI tools. One of the most commonly referred pros is that we've been brought up in the point-and-click computing paradigm, so it's basically a form of a language, or _culture_ if you may, in which we interact with our machine. The patterns are mostly recurring, with big button clicking doing everything we need it to do.
 
 
 
@@ -76,7 +76,7 @@ A short while ago, my girlfriend commented how she can't believe I'm using my co
 
 
 
-...and here we are. As a new openSUSE news contributor, I'll try to contribute in a way I see productive for what I suppose is a large portion of the community. It's time to plant the banner and start learning the command-line together. If philosophy is what attracted you to Linux and openSUSE, like me, it got you this far. Now it's time to take a step further. ![Pinky And The Brain](http://beerepiphany.files.wordpress.com/2010/04/pinky_brain.jpg)Look, I know there's a bunch of you like me out there. I know you maybe don't see the point in all that 90's geeky black-screen-green-letters-quick-typing-make-everything-go-boom thing. But it's useful in many aspects. We'll learn in a fun and communal way which directories are for what, what files are located where, most commonly used terminal commands. It will make our lives easier when we learn to perform tasks through the console, make it even more rewarding when we run into issues. It will also make the lives of bug-squashers easier when they receive proper information from our end, and it will make our hobby infinitely more fun.
+...and here we are. As a new openSUSE news contributor, I'll try to contribute in a way I see productive for what I suppose is a large portion of the community. It's time to plant the banner and start learning the command-line together. If philosophy is what attracted you to Linux and openSUSE, like me, it got you this far. Now it's time to take a step further. ![Pinky And The Brain](//beerepiphany.files.wordpress.com/2010/04/pinky_brain.jpg)Look, I know there's a bunch of you like me out there. I know you maybe don't see the point in all that 90's geeky black-screen-green-letters-quick-typing-make-everything-go-boom thing. But it's useful in many aspects. We'll learn in a fun and communal way which directories are for what, what files are located where, most commonly used terminal commands. It will make our lives easier when we learn to perform tasks through the console, make it even more rewarding when we run into issues. It will also make the lives of bug-squashers easier when they receive proper information from our end, and it will make our hobby infinitely more fun.
 I mean, for crying out loud, you've already made a transition to a phase where Dilbert and xkcd are actually funny. It's time for the terminal!
 
 
@@ -90,7 +90,7 @@ P.S.:
 Reference material that will be used: William Shotts – The Linux Command Line and a short tutorial on most commonly used commands by a Croatian hacker Velimir Baksa aka Lutherus. Requirements on your part:
 **- **An hour or two of spare time weekly
 ** - **A pint of cold beer or any other beverage
-** - **Someone already pointed out that using [Gedit](http://software.opensuse.org/package/gedit)**,** or a manual notepad (you know, pen and paper hehe) would be good for easier learning.
+** - **Someone already pointed out that using [Gedit](//software.opensuse.org/package/gedit)**,** or a manual notepad (you know, pen and paper hehe) would be good for easier learning.
 
 
 

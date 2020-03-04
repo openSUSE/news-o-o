@@ -25,7 +25,7 @@ We are pleased to announce the new Issue 147.
 
 
 
-[![Opensuse weekly news banner.png](http://en.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](http://en.opensuse.org/File:Opensuse_weekly_news_banner.png)
+[![Opensuse weekly news banner.png](//en.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](//en.opensuse.org/File:Opensuse_weekly_news_banner.png)
 
 
 
@@ -44,19 +44,19 @@ We are pleased to announce the new Issue 147.
 
 
 
-  * [ From the Developer to the User and back – Announcing Project Bretzn](http://news.opensuse.org/?p=5375#From_the_Developer_to_the_User_and_back_.E2.80.93_Announcing_Project_Bretzn)
+  * [ From the Developer to the User and back – Announcing Project Bretzn](//news.opensuse.org/?p=5375#From_the_Developer_to_the_User_and_back_.E2.80.93_Announcing_Project_Bretzn)
 
 
-  * [ SUSE Studio: Gold rush](http://news.opensuse.org/?p=5375#SUSE_Studio:_Gold_rush)
+  * [ SUSE Studio: Gold rush](//news.opensuse.org/?p=5375#SUSE_Studio:_Gold_rush)
 
 
-  * [ Jos Poortvliet: oSC successful? Absolutely!](http://news.opensuse.org/?p=5375#Jos_Poortvliet:_oSC_successful.3F_Absolutely.21)
+  * [ Jos Poortvliet: oSC successful? Absolutely!](//news.opensuse.org/?p=5375#Jos_Poortvliet:_oSC_successful.3F_Absolutely.21)
 
 
-  * [ ServerWatch/Joe Brockmeier: Using Strace to Trace Problems](http://news.opensuse.org/?p=5375#ServerWatch.2FJoe_Brockmeier:_Using_Strace_to_Trace_Problems)
+  * [ ServerWatch/Joe Brockmeier: Using Strace to Trace Problems](//news.opensuse.org/?p=5375#ServerWatch.2FJoe_Brockmeier:_Using_Strace_to_Trace_Problems)
 
 
-  * [ h-online: KDevelop 4.1 adds Git support](http://news.opensuse.org/?p=5375#h-online:_KDevelop_4.1_adds_Git_support)
+  * [ h-online: KDevelop 4.1 adds Git support](//news.opensuse.org/?p=5375#h-online:_KDevelop_4.1_adds_Git_support)
 
 
 
@@ -77,46 +77,46 @@ We are pleased to announce the new Issue 147.
 
 
 
-  * [ Announcements](http://news.opensuse.org/?p=5375#Announcements)
+  * [ Announcements](//news.opensuse.org/?p=5375#Announcements)
 
 
-  * [ Status Updates](http://news.opensuse.org/?p=5375#Status_Updates)
+  * [ Status Updates](//news.opensuse.org/?p=5375#Status_Updates)
 
 
-  * [ Team Reports](http://news.opensuse.org/?p=5375#Team_Reports)
+  * [ Team Reports](//news.opensuse.org/?p=5375#Team_Reports)
 
 
-  * [ In the Community](http://news.opensuse.org/?p=5375#In_the_Community)
+  * [ In the Community](//news.opensuse.org/?p=5375#In_the_Community)
 
 
-  * [ New Applications](http://news.opensuse.org/?p=5375#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](//news.opensuse.org/?p=5375#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](http://news.opensuse.org/?p=5375#Security_Updates)
+  * [ Security Updates](//news.opensuse.org/?p=5375#Security_Updates)
 
 
-  * [ Kernel Review](http://news.opensuse.org/?p=5375#Kernel_Review)
+  * [ Kernel Review](//news.opensuse.org/?p=5375#Kernel_Review)
 
 
-  * [ Tips and Tricks](http://news.opensuse.org/?p=5375#Tips_and_Tricks)
+  * [ Tips and Tricks](//news.opensuse.org/?p=5375#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](http://news.opensuse.org/?p=5375#Planet_SUSE)
+  * [ Planet SUSE](//news.opensuse.org/?p=5375#Planet_SUSE)
 
 
-  * [ openSUSE Forums](http://news.opensuse.org/?p=5375#openSUSE_Forums)
+  * [ openSUSE Forums](//news.opensuse.org/?p=5375#openSUSE_Forums)
 
 
-  * [ On the Web](http://news.opensuse.org/?p=5375#On_the_Web)
+  * [ On the Web](//news.opensuse.org/?p=5375#On_the_Web)
 
 
-  * [ Contact us](http://news.opensuse.org/?p=5375#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](//news.opensuse.org/?p=5375#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](http://news.opensuse.org/?p=5375#Credits)
+  * [ Credits](//news.opensuse.org/?p=5375#Credits)
 
 
-  * [ Translations](http://news.opensuse.org/?p=5375#Translations)
+  * [ Translations](//news.opensuse.org/?p=5375#Translations)
 
 
 
@@ -291,10 +291,10 @@ We are pleased to announce the new Issue 147.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-EditorsNote draft02.png](http://en.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](http://en.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-EditorsNote draft02.png](//en.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](//en.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" > We are pleased to announce our **147** issue of the [openSUSE Weekly News](http://en.opensuse.org/Portal:Weekly_news).  We hope that you will enjoy reading. 
+<td style="margin: 0pt 1em 0pt 0pt;" > We are pleased to announce our **147** issue of the [openSUSE Weekly News](//en.opensuse.org/Portal:Weekly_news).  We hope that you will enjoy reading. 
 </td>
 </tr>
 </tbody>
@@ -327,13 +327,13 @@ We are pleased to announce the new Issue 147.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Marketing.png](http://en.opensuse.org/images/9/98/Marketing.png)](http://en.opensuse.org/File:Marketing.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Marketing.png](//en.opensuse.org/images/9/98/Marketing.png)](//en.opensuse.org/File:Marketing.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Thanks for your participation at the openSUSE Conference](http://news.opensuse.org/2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/)
+####  [Thanks for your participation at the openSUSE Conference](//news.opensuse.org/2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/)
 
 
 
@@ -342,12 +342,12 @@ We are pleased to announce the new Issue 147.
 
   
 
-[![5110178611 585b4641eb.jpg](http://en.opensuse.org/images/thumb/8/89/5110178611_585b4641eb.jpg/400px-5110178611_585b4641eb.jpg)](http://en.opensuse.org/File:5110178611_585b4641eb.jpg)
+[![5110178611 585b4641eb.jpg](//en.opensuse.org/images/thumb/8/89/5110178611_585b4641eb.jpg/400px-5110178611_585b4641eb.jpg)](//en.opensuse.org/File:5110178611_585b4641eb.jpg)
 
 
 
 
-####  [From the Developer to the User and back – Announcing Project Bretzn](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/)
+####  [From the Developer to the User and back – Announcing Project Bretzn](//news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/)
 
 
 
@@ -357,7 +357,7 @@ We are pleased to announce the new Issue 147.
 
 
 
-####  [openSUSE Conference big success](http://news.opensuse.org/2010/10/28/opensuse-conference-big-success/)
+####  [openSUSE Conference big success](//news.opensuse.org/2010/10/28/opensuse-conference-big-success/)
 
 
 
@@ -403,7 +403,7 @@ We are pleased to announce the new Issue 147.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Suse Box.png](http://en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](http://en.opensuse.org/File:Suse_Box.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Suse Box.png](//en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//en.opensuse.org/File:Suse_Box.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -434,10 +434,10 @@ We are pleased to announce the new Issue 147.
   * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=)
 
 
-  * [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
 
-  * [Bug Reporting FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+  * [Bug Reporting FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 </td>
@@ -466,7 +466,7 @@ We are pleased to announce the new Issue 147.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Built-with-web-big.png](http://en.opensuse.org/images/thumb/4/47/Built-with-web-big.png/48px-Built-with-web-big.png)](http://en.opensuse.org/File:Built-with-web-big.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Built-with-web-big.png](//en.opensuse.org/images/thumb/4/47/Built-with-web-big.png/48px-Built-with-web-big.png)](//en.opensuse.org/File:Built-with-web-big.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -474,7 +474,7 @@ We are pleased to announce the new Issue 147.
 
 
 
-####  [Featured - Illumination Software Creation Station](http://blog.susestudio.com/2010/10/featured-illumination-software-creation.html)
+####  [Featured - Illumination Software Creation Station](//blog.susestudio.com/2010/10/featured-illumination-software-creation.html)
 
 
 
@@ -484,7 +484,7 @@ We are pleased to announce the new Issue 147.
 
 
 
-####  [Building XFCE4 desktop with SUSE Studio](http://blog.susestudio.com/2010/10/building-xfce4-desktop-with-suse-studio.html)
+####  [Building XFCE4 desktop with SUSE Studio](//blog.susestudio.com/2010/10/building-xfce4-desktop-with-suse-studio.html)
 
 
 
@@ -494,7 +494,7 @@ We are pleased to announce the new Issue 147.
 
 
 
-####  [New Amazon EC2 build format](http://blog.susestudio.com/2010/10/new-amazon-ec2-build-format.html)
+####  [New Amazon EC2 build format](//blog.susestudio.com/2010/10/new-amazon-ec2-build-format.html)
 
 
 
@@ -504,7 +504,7 @@ We are pleased to announce the new Issue 147.
 
 
 
-####  [Gold rush](http://blog.susestudio.com/2010/10/gold-rush.html)
+####  [Gold rush](//blog.susestudio.com/2010/10/gold-rush.html)
 
 
 
@@ -544,13 +544,13 @@ We are pleased to announce the new Issue 147.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-Build-Service.png](http://en.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](http://en.opensuse.org/File:OWN-oxygen-Build-Service.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-Build-Service.png](//en.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](//en.opensuse.org/File:OWN-oxygen-Build-Service.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Build Team Meeting](http://lists.opensuse.org/opensuse-buildservice/2010-10/msg00224.html)
+####  [Build Team Meeting](//lists.opensuse.org/opensuse-buildservice/2010-10/msg00224.html)
 
 
 
@@ -560,7 +560,7 @@ Build Team Meeting Minutes.
 
 
 
-####  [Klaas Freitag: A new Flavor: openSUSE Invis Server](http://lizards.opensuse.org/2010/10/28/a-new-flavor-opensuse-invis-server/)
+####  [Klaas Freitag: A new Flavor: openSUSE Invis Server](//lizards.opensuse.org/2010/10/28/a-new-flavor-opensuse-invis-server/)
 
 
 
@@ -583,7 +583,7 @@ Build Team Meeting Minutes.
 
 
 
-Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org/)
+Statistics can be found at [//build.opensuse.org](//build.opensuse.org/)
 
 
 
@@ -613,7 +613,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Mono project logo.png](http://en.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](http://en.opensuse.org/File:Mono_project_logo.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Mono project logo.png](//en.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](//en.opensuse.org/File:Mono_project_logo.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -621,7 +621,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Lluis Sanchez: NGit](http://foodformonkeys.blogspot.com/2010/10/ngit.html)
+####  [Lluis Sanchez: NGit](//foodformonkeys.blogspot.com/2010/10/ngit.html)
 
 
 
@@ -660,7 +660,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Logo-fate.png](http://en.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](http://en.opensuse.org/File:Logo-fate.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Logo-fate.png](//en.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](//en.opensuse.org/File:Logo-fate.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -687,7 +687,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
  Radio Tray is Free Software, licensed under the GPL.  
 
- Website: [http://radiotray.sourceforge.net/](http://radiotray.sourceforge.net/) " 
+ Website: [//radiotray.sourceforge.net/](//radiotray.sourceforge.net/) " 
 
 
 
@@ -749,7 +749,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-"nclude PiTiVi - video editor. Website [http://www.pitivi.org/](http://www.pitivi.org/)? PiTiVi is a free, intuitive and featureful movie editor for the Linux desktop." 
+"nclude PiTiVi - video editor. Website [//www.pitivi.org/](//www.pitivi.org/)? PiTiVi is a free, intuitive and featureful movie editor for the Linux desktop." 
 
 
 
@@ -771,7 +771,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-[More information on openFATE](http://en.opensuse.org/openSUSE:Openfate)
+[More information on openFATE](//en.opensuse.org/openSUSE:Openfate)
 
 
 
@@ -801,7 +801,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Icon-localize.png](http://en.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](http://en.opensuse.org/File:Icon-localize.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Icon-localize.png](//en.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](//en.opensuse.org/File:Icon-localize.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -814,10 +814,10 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -852,7 +852,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Icon-project.png](http://en.opensuse.org/images/3/31/Icon-project.png)](http://en.opensuse.org/File:Icon-project.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Icon-project.png](//en.opensuse.org/images/3/31/Icon-project.png)](//en.opensuse.org/File:Icon-project.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -860,7 +860,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [openSUSE TV: openSUSE conference impression](http://blip.tv/file/4291421)
+####  [openSUSE TV: openSUSE conference impression](//blip.tv/file/4291421)
 
 
 
@@ -870,7 +870,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [openSUSE TV: Chat with Colin and Will](http://blip.tv/file/4291454)
+####  [openSUSE TV: Chat with Colin and Will](//blip.tv/file/4291454)
 
 
 
@@ -880,7 +880,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [openSUSE TV: Introducing openSUSE Ambassadors](http://blip.tv/file/4296514)
+####  [openSUSE TV: Introducing openSUSE Ambassadors](//blip.tv/file/4296514)
 
 
 
@@ -890,7 +890,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [openSUSE TV: Harald at the openSUSE conference party](http://blip.tv/file/4296675)
+####  [openSUSE TV: Harald at the openSUSE conference party](//blip.tv/file/4296675)
 
 
 
@@ -900,7 +900,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Jos Poortvliet: openSUSE Conference 2010 Impression](http://news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/)
+####  [Jos Poortvliet: openSUSE Conference 2010 Impression](//news.opensuse.org/2010/10/27/opensuse-conference-2010-impression/)
 
 
 
@@ -914,7 +914,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Jos Poortvliet: Little conf video...](http://nowwhatthe.blogspot.com/2010/10/little-conf-video.html)
+####  [Jos Poortvliet: Little conf video...](//nowwhatthe.blogspot.com/2010/10/little-conf-video.html)
 
 
 
@@ -934,7 +934,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Thomas Biege: Secure Development Workshop at Nuremberg](http://thetoms-random-thoughts.blogspot.com/2010/10/secure-development-workshop-at.html)
+####  [Thomas Biege: Secure Development Workshop at Nuremberg](//thetoms-random-thoughts.blogspot.com/2010/10/secure-development-workshop-at.html)
 
 
 
@@ -956,7 +956,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Nelson Marques: openSUSE Conference – Aftermath](http://nmarques.digitalwhores.net/2010/10/27/opensuse-conference-aftermath/)
+####  [Nelson Marques: openSUSE Conference – Aftermath](//nmarques.digitalwhores.net/2010/10/27/opensuse-conference-aftermath/)
 
 
 
@@ -974,7 +974,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Jos Poortvliet: Catching up](http://nowwhatthe.blogspot.com/2010/10/catching-up.html)
+####  [Jos Poortvliet: Catching up](//nowwhatthe.blogspot.com/2010/10/catching-up.html)
 
 
 
@@ -988,7 +988,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Sirko Kemter: Slides](http://karl-tux-stadt.de/ktuxs/?p=2836)
+####  [Sirko Kemter: Slides](//karl-tux-stadt.de/ktuxs/?p=2836)
 
 
 
@@ -998,7 +998,7 @@ Statistics can be found at [http://build.opensuse.org](http://build.opensuse.org
 
 
 
-####  [Jos Poortvliet: oSC successful? Absolutely!](http://nowwhatthe.blogspot.com/2010/10/osc-successful-absolutely.html)
+####  [Jos Poortvliet: oSC successful? Absolutely!](//nowwhatthe.blogspot.com/2010/10/osc-successful-absolutely.html)
 
 
 
@@ -1026,7 +1026,7 @@ Past:
 
 
 
-  * [**October 27, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**October 27, 2010: German Wiki Team Meeting**](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
 
@@ -1035,19 +1035,19 @@ Upcoming:
 
 
 
-  * [**November 6, 2010: Brandenburger Linuxinfotag (Germany)**](http://blit.org/)
+  * [**November 6, 2010: Brandenburger Linuxinfotag (Germany)**](//blit.org/)
 
 
-  * [**November 10-12, 2010: Latinoware 2010 (Brazil)**](http://www.latinoware.org/)
+  * [**November 10-12, 2010: Latinoware 2010 (Brazil)**](//www.latinoware.org/)
 
 
-  * [**November 13-14, 2010: OpenRheinRuhr (Germany)**](http://openrheinruhr.de/)
+  * [**November 13-14, 2010: OpenRheinRuhr (Germany)**](//openrheinruhr.de/)
 
 
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](//news.opensuse.org/category/events/) – [Local events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1056,7 +1056,7 @@ Upcoming:
 
 
 
-  * The openSUSE Weekly News are available as Livestream or Podcast in the German Language. You can hear it or download it on [http://blog.radiotux.de/podcast](http://blog.radiotux.de/podcast). 
+  * The openSUSE Weekly News are available as Livestream or Podcast in the German Language. You can hear it or download it on [//blog.radiotux.de/podcast](//blog.radiotux.de/podcast). 
 
 
 
@@ -1065,7 +1065,7 @@ Upcoming:
 
 
 
-####  [Michael Schloh von Bennewitz: House party report](http://lists.opensuse.org/archive/opensuse-ambassadors/2010-10/msg00081.html)
+####  [Michael Schloh von Bennewitz: House party report](//lists.opensuse.org/archive/opensuse-ambassadors/2010-10/msg00081.html)
 
 
 
@@ -1098,7 +1098,7 @@ There was no formal presentation, because this was a nontechnical party. However
 
 
 
-####  [Chuck Payne: We are Geeko ( Second Calling)](http://lists.opensuse.org/archive/opensuse-ambassadors/2010-10/msg00090.html)
+####  [Chuck Payne: We are Geeko ( Second Calling)](//lists.opensuse.org/archive/opensuse-ambassadors/2010-10/msg00090.html)
 
 
 
@@ -1113,7 +1113,7 @@ There was no formal presentation, because this was a nontechnical party. However
 
  We did one already that was shown at OSC10, but we didn't get a lot of people as you can see.  
 
-[http://www.youtube.com/watch?v=VKH_MxTI-mU](http://www.youtube.com/watch?v=VKH_MxTI-mU)  
+[//www.youtube.com/watch?v=VKH_MxTI-mU](//www.youtube.com/watch?v=VKH_MxTI-mU)  
 
  (Thanks Koushik Nundy for uploading this to You Tube)  
 
@@ -1124,22 +1124,22 @@ There was no formal presentation, because this was a nontechnical party. However
 
 
 
-####  [Stathis Iosifidis: openSUSE Greek community on Internet tv channel](http://lists.opensuse.org/archive/opensuse-marketing/2010-10/msg00175.html)
+####  [Stathis Iosifidis: openSUSE Greek community on Internet tv channel](//lists.opensuse.org/archive/opensuse-marketing/2010-10/msg00175.html)
 
 
 
 
-"The Internet tv channel named Trupokarudos ([http://trupokarudos.blogspot.com/](http://trupokarudos.blogspot.com/)) made a report about FOSS and the communities.  
+"The Internet tv channel named Trupokarudos ([//trupokarudos.blogspot.com/](//trupokarudos.blogspot.com/)) made a report about FOSS and the communities.  
 
   
 
  Kostas Koudaras had an interview with the reporter and he presented our work and the advantages of openSUSE community. You can watch the video  
 
-[http://trupokarudos.blogspot.com/2010/10/on-road-windows.html](http://trupokarudos.blogspot.com/2010/10/on-road-windows.html)  
+[//trupokarudos.blogspot.com/2010/10/on-road-windows.html](//trupokarudos.blogspot.com/2010/10/on-road-windows.html)  
 
  The whole video is here:  
 
-[http://www.megavideo.com/?v=GWMUB6JB](http://www.megavideo.com/?v=GWMUB6JB)  
+[//www.megavideo.com/?v=GWMUB6JB](//www.megavideo.com/?v=GWMUB6JB)  
 
   
 
@@ -1152,7 +1152,7 @@ There was no formal presentation, because this was a nontechnical party. However
 
 
 
-####  [Nelson Marques: «event» - local school brainstorm...](http://lists.opensuse.org/archive/opensuse-marketing/2010-10/msg00210.html)
+####  [Nelson Marques: «event» - local school brainstorm...](//lists.opensuse.org/archive/opensuse-marketing/2010-10/msg00210.html)
 
 
 
@@ -1166,7 +1166,7 @@ There was no formal presentation, because this was a nontechnical party. However
 
 
 
-####  [Stathis Iosifidis: openSUSE 11.3 Thessaloniki,GR rock party](http://lists.opensuse.org/archive/opensuse-marketing/2010-10/msg00239.html)
+####  [Stathis Iosifidis: openSUSE 11.3 Thessaloniki,GR rock party](//lists.opensuse.org/archive/opensuse-marketing/2010-10/msg00239.html)
 
 
 
@@ -1192,12 +1192,12 @@ There was no formal presentation, because this was a nontechnical party. However
  For all of you, get up from chairs, beds, armchairs, divans, Ubunteros, Fedoratos. Mint, arch, debian, gentoo, mandriva, slackware and rest windows user, we wait you to celebrate and rock together. 
 
 
-DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP: [http://bit.ly/bpECcx](http://bit.ly/bpECcx) POSTER:  
+DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP: [//bit.ly/bpECcx](//bit.ly/bpECcx) POSTER:  
 
 
 
 
-[![Poster rock final.png](http://en.opensuse.org/images/thumb/0/0f/Poster_rock_final.png/400px-Poster_rock_final.png)](http://en.opensuse.org/File:Poster_rock_final.png)" 
+[![Poster rock final.png](//en.opensuse.org/images/thumb/0/0f/Poster_rock_final.png/400px-Poster_rock_final.png)](//en.opensuse.org/File:Poster_rock_final.png)" 
 
 
 
@@ -1213,10 +1213,10 @@ DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP:
 
 
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
 
-  * [The openSUSE Forums](http://forums.opensuse.org/)] 
+  * [The openSUSE Forums](//forums.opensuse.org/)] 
 
 
 
@@ -1225,7 +1225,7 @@ DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP:
 
 
 
-  * [The User Directory](http://users.opensuse.org/)
+  * [The User Directory](//users.opensuse.org/)
 
 
 </td>
@@ -1260,7 +1260,7 @@ DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP:
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-New-Updated-Applications.png](http://en.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](http://en.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-New-Updated-Applications.png](//en.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](//en.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
@@ -1269,7 +1269,7 @@ DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/66367.rdf)
 
 
 </td>
@@ -1304,13 +1304,13 @@ DATE: November 3rd (11.3)  TIME:22.00  PLACE: ARGY'S ROCK (5th IRONOS str)  MAP:
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Logo-SecurityUpdates.png](http://en.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](http://en.opensuse.org/File:Logo-SecurityUpdates.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Logo-SecurityUpdates.png](//en.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](//en.opensuse.org/File:Logo-SecurityUpdates.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-To view the security announcements in full, or to receive them as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.  
+To view the security announcements in full, or to receive them as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.  
 
   
 
@@ -1319,7 +1319,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [SUSE Security Summary Report: SUSE-SR:2010:019](http://lists.opensuse.org/opensuse-security-announce/2010-10/msg00006.html)
+####  [SUSE Security Summary Report: SUSE-SR:2010:019](//lists.opensuse.org/opensuse-security-announce/2010-10/msg00006.html)
 
 
 
@@ -1406,7 +1406,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [SUSE Security Announcement: Linux kernel (SUSE-SA:2010:053)](http://lists.opensuse.org/opensuse-security-announce/2010-10/msg00008.html)
+####  [SUSE Security Announcement: Linux kernel (SUSE-SA:2010:053)](//lists.opensuse.org/opensuse-security-announce/2010-10/msg00008.html)
 
 
 
@@ -1436,7 +1436,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [SUSE Security Announcement: glibc (SUSE-SA:2010:052)](http://lists.opensuse.org/opensuse-security-announce/2010-10/msg00007.html)
+####  [SUSE Security Announcement: glibc (SUSE-SA:2010:052)](//lists.opensuse.org/opensuse-security-announce/2010-10/msg00007.html)
 
 
 
@@ -1511,7 +1511,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Tux.svg.png](http://en.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](http://en.opensuse.org/File:Tux.svg.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Tux.svg.png](//en.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](//en.opensuse.org/File:Tux.svg.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1519,7 +1519,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Rares Aioanei: Kernel Weekly News](http://schaiba.wordpress.com/2010/10/27/kernel-weekly-news-30-10-2010/)
+####  [Rares Aioanei: Kernel Weekly News](//schaiba.wordpress.com/2010/10/27/kernel-weekly-news-30-10-2010/)
 
 
 
@@ -1560,7 +1560,7 @@ As near every week Rares has prepared some interesting stuff for us.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-Tips-and-Tricks.png](http://en.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](http://en.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-Tips-and-Tricks.png](//en.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](//en.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1573,7 +1573,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-####  [Packt/Aaron W. Powell: Lighting an Outdoor Scene in Blender](http://www.packtpub.com/article/lighting-outdoor-scene-blender)
+####  [Packt/Aaron W. Powell: Lighting an Outdoor Scene in Blender](//www.packtpub.com/article/lighting-outdoor-scene-blender)
 
 
 
@@ -1583,7 +1583,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-####  [Worldlabel.com/Nathan Willis: Generating barcodes with KBarcode](http://blog.worldlabel.com/2010/generating-barcodes-with-kbarcode.html)
+####  [Worldlabel.com/Nathan Willis: Generating barcodes with KBarcode](//blog.worldlabel.com/2010/generating-barcodes-with-kbarcode.html)
 
 
 
@@ -1593,7 +1593,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-####  [LinuxInsider/Jack M. Germain: Caught on Video: 2 Tools for Linux Screen-Session Recording](http://www.linuxinsider.com/rsstory/71112.html)
+####  [LinuxInsider/Jack M. Germain: Caught on Video: 2 Tools for Linux Screen-Session Recording](//www.linuxinsider.com/rsstory/71112.html)
 
 
 
@@ -1615,7 +1615,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-####  [Linuxaria: Globbing with zsh](http://www.linuxaria.com/howto/globbing-con-zsh?lang=en)
+####  [Linuxaria: Globbing with zsh](//www.linuxaria.com/howto/globbing-con-zsh?lang=en)
 
 
 
@@ -1636,7 +1636,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-####  [Nettuts+/Andrew Burgess: Ruby for Newbies: Variables, Datatypes, and Files](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-variables-datatypes-and-files/)
+####  [Nettuts+/Andrew Burgess: Ruby for Newbies: Variables, Datatypes, and Files](//net.tutsplus.com/tutorials/ruby/ruby-for-newbies-variables-datatypes-and-files/)
 
 
 
@@ -1653,7 +1653,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-####  [ServerWatch/Joe Brockmeier: Using Strace to Trace Problems](http://www.serverwatch.com/tutorials/article.php/3909856/Using-Strace-to-Trace-Problems.htm)
+####  [ServerWatch/Joe Brockmeier: Using Strace to Trace Problems](//www.serverwatch.com/tutorials/article.php/3909856/Using-Strace-to-Trace-Problems.htm)
 
 
 
@@ -1698,7 +1698,7 @@ As near every week Rares has prepared some interesting stuff for us.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Logo-PlanetSUSE.png](http://en.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](http://en.opensuse.org/File:Logo-PlanetSUSE.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![Logo-PlanetSUSE.png](//en.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](//en.opensuse.org/File:Logo-PlanetSUSE.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1706,7 +1706,7 @@ As near every week Rares has prepared some interesting stuff for us.
 
 
 
-####  [OMG!SUSE! team: Adios openSUSE 11.1!](http://feedproxy.google.com/%7Er/omgsuse/%7E3/PRrXOIpzX-g/adios-opensuse-111)
+####  [OMG!SUSE! team: Adios openSUSE 11.1!](//feedproxy.google.com/%7Er/omgsuse/%7E3/PRrXOIpzX-g/adios-opensuse-111)
 
 
 
@@ -1726,7 +1726,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [Han Wen Kam: My Mac-SUSE Journey - Part 1](http://sellingfreesoftwareforaliving.blogspot.com/2010/10/my-mac-suse-journey-part-1.html)
+####  [Han Wen Kam: My Mac-SUSE Journey - Part 1](//sellingfreesoftwareforaliving.blogspot.com/2010/10/my-mac-suse-journey-part-1.html)
 
 
 
@@ -1736,7 +1736,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [Han Wen Kam: My Mac-SUSE Journey - Part 2](http://sellingfreesoftwareforaliving.blogspot.com/2010/10/my-mac-suse-journey-part-2.html)
+####  [Han Wen Kam: My Mac-SUSE Journey - Part 2](//sellingfreesoftwareforaliving.blogspot.com/2010/10/my-mac-suse-journey-part-2.html)
 
 
 
@@ -1746,7 +1746,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [Holger Hetterich: SMB Traffic Analyzer 1.0 released](http://holger123.wordpress.com/2010/10/26/the-smbta-team-releases-smb-traffic-analyzer-1-0/)
+####  [Holger Hetterich: SMB Traffic Analyzer 1.0 released](//holger123.wordpress.com/2010/10/26/the-smbta-team-releases-smb-traffic-analyzer-1-0/)
 
 
 
@@ -1756,7 +1756,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [Michael Meeks: More API copyright nonsense](http://www.gnome.org/%7Emichael/blog/2010-10-29-api-copyright.html)
+####  [Michael Meeks: More API copyright nonsense](//www.gnome.org/%7Emichael/blog/2010-10-29-api-copyright.html)
 
 
 
@@ -1799,31 +1799,31 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-openSUSE-Forums.png](http://en.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](http://en.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-openSUSE-Forums.png](//en.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](//en.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Can't find Dell Mini Card wireless drivers](http://forums.opensuse.org/english/get-help-here/network-internet/448730-wireless-half-mini-card-dw1520-cant-find-drivers.html)
+####  [Can't find Dell Mini Card wireless drivers](//forums.opensuse.org/english/get-help-here/network-internet/448730-wireless-half-mini-card-dw1520-cant-find-drivers.html)
 
 
 "I can't recall exactly how many Dell wireless questions we had this week, it's like Dell had some big sell off. This is typical of some seen." 
 
 
-####  [Packman _64 package Issues.](http://forums.opensuse.org/english/get-help-here/multimedia/448605-no-packman-64-bit-stuff.html)
+####  [Packman _64 package Issues.](//forums.opensuse.org/english/get-help-here/multimedia/448605-no-packman-64-bit-stuff.html)
 
 
 "Worthy of note this. It's quite a regular occurrence where package updates in Packman are not complete, often 64 bit versions are missing for a day or two. It causes havoc for _64 users, especially if you are just completing a new install, you'll have to wait a day or two to get your multi-media going." 
 
 
-####  [Amarok Crashing](http://forums.opensuse.org/english/get-help-here/multimedia/448737-opensuse-11-3-amarok-crashes-startup.html)
+####  [Amarok Crashing](//forums.opensuse.org/english/get-help-here/multimedia/448737-opensuse-11-3-amarok-crashes-startup.html)
 
 
 "Fairly certain at this point, that we identified another bug/issue related to the latest nVidia driver update. Watch this space..." 
 
 
-####  [nVidia 260.19 driver issues](http://forums.opensuse.org/english/get-help-here/applications/448653-nvidia-260-19-issues.html)
+####  [nVidia 260.19 driver issues](//forums.opensuse.org/english/get-help-here/applications/448653-nvidia-260-19-issues.html)
 
 
 "This was a big issue of the week, at least it was for KDE users. Darn, it would be nice if the old drivers were available in the repo, well at least some of them!" 
@@ -1859,7 +1859,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-On-the-Web.png](http://en.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](http://en.opensuse.org/File:OWN-oxygen-On-the-Web.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-On-the-Web.png](//en.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](//en.opensuse.org/File:OWN-oxygen-On-the-Web.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1872,7 +1872,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [MeeGo 1.1 Release](http://meego.com/community/blogs/valhalla/2010/meego-1.1-release)
+####  [MeeGo 1.1 Release](//meego.com/community/blogs/valhalla/2010/meego-1.1-release)
 
 
 
@@ -1889,7 +1889,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [Last Week in Amarok](http://amarok.kde.org/blog/archives/1195-Last-Week-in-Amarok.html)
+####  [Last Week in Amarok](//amarok.kde.org/blog/archives/1195-Last-Week-in-Amarok.html)
 
 
 
@@ -1903,7 +1903,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [LinuxPlanet/David North: What's The Fastest Linux Filesystem On Cheap Flash Media?](http://www.linuxplanet.com/linuxplanet/tutorials/7208/1/)
+####  [LinuxPlanet/David North: What's The Fastest Linux Filesystem On Cheap Flash Media?](//www.linuxplanet.com/linuxplanet/tutorials/7208/1/)
 
 
 
@@ -1917,7 +1917,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [geek.com/Matthew Humphries: New technology allows copper wire to handle 825Mbps data speeds ](http://www.geek.com/articles/chips/new-technology-allows-copper-wire-to-handle-825mbps-data-speeds-20101026)
+####  [geek.com/Matthew Humphries: New technology allows copper wire to handle 825Mbps data speeds ](//www.geek.com/articles/chips/new-technology-allows-copper-wire-to-handle-825mbps-data-speeds-20101026)
 
 
 
@@ -1931,7 +1931,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [h-online: KDevelop 4.1 adds Git support](http://www.h-online.com/open/news/item/KDevelop-4-1-adds-Git-support-1126447.html)
+####  [h-online: KDevelop 4.1 adds Git support](//www.h-online.com/open/news/item/KDevelop-4-1-adds-Git-support-1126447.html)
 
 
 
@@ -1957,7 +1957,7 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 
 
 
-####  [Advisory for Adobe Flash Player, Adobe Reader and Acrobat](http://www.adobe.com/support/security/advisories/apsa10-05.html%E3%80%80Security)
+####  [Advisory for Adobe Flash Player, Adobe Reader and Acrobat](//www.adobe.com/support/security/advisories/apsa10-05.html%E3%80%80Security)
 
 
 
@@ -1998,19 +1998,19 @@ The discontinuation of 11.1 means that ISOs for the release will be removed from
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-FCG.png](//en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](//en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/?p=3449) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](//news.opensuse.org/?p=3449) and let us know!  
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
-Or Communicate with or get help from the wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+Or Communicate with or get help from the wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 
   
 
-[![Rss 32.png](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
+[![Rss 32.png](//en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](//en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [//news.opensuse.org/category/weekly-news/feed/](//news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -2046,25 +2046,25 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-Credits.png](http://en.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](http://en.opensuse.org/File:OWN-oxygen-Credits.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-oxygen-Credits.png](//en.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](//en.opensuse.org/File:OWN-oxygen-Credits.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-  * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
+  * [saigkill](//en.opensuse.org/User:Saigkill) [Talk](//en.opensuse.org/User_talk:Saigkill) - [Contributions](//en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](//en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](//en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
-  * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
+  * [HeliosReds](//en.opensuse.org/User:HeliosReds) [Talk](//en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
 
 
-  * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
+  * [Caf4926](//en.opensuse.org/User:Caf4926) [Talk](//en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](//en.opensuse.org/User:Okuro) [Talk](//en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -2099,7 +2099,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-Icon-locale.png](http://en.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](http://en.opensuse.org/File:OWN-Icon-locale.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![OWN-Icon-locale.png](//en.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](//en.opensuse.org/File:OWN-Icon-locale.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -2112,7 +2112,7 @@ openSUSE Weekly News is translated into many languages.Issue #147 of the openSUS
 
 
 
-  * [English](http://en.opensuse.org/Archive:Weekly_news_147)
+  * [English](//en.opensuse.org/Archive:Weekly_news_147)
 
 
 
@@ -2121,46 +2121,46 @@ Delayed / to be translated:
 
 
 
-  * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/147)
+  * [Magyar](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/147)
 
 
-  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/147)
+  * [Español](//es.opensuse.org/OpenSUSE_Noticias_Semanales/147)
 
 
-  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/147)
+  * [繁體中文](//zh_tw.opensuse.org/OpenSUSE_Weekly_News/147)
 
 
-  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/147)
+  * [日本語](//ja.opensuse.org/OpenSUSE_Weekly_News/147)
 
 
-  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/147)
+  * [Русский](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/147)
 
 
-  * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/147/indonesian)
+  * [Indonesia](//en.opensuse.org/OpenSUSE_Weekly_News/147/indonesian)
 
 
-  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/147/chinese)
+  * [简体中文](//en.opensuse.org/OpenSUSE_Weekly_News/147/chinese)
 
 
-  * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/147)
+  * [Deutsch](//de.opensuse.org/OpenSUSE-Wochenschau/147)
 
 
-  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/147)
+  * [Français](//fr.opensuse.org/Lettre_d%27information_openSUSE/147)
 
 
-  * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/147)
+  * [Polski](//pl.opensuse.org/Tygodnik_openSUSE/147)
 
 
-  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/147)
+  * [Português](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/147)
 
 
-  * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/147)
+  * [Italiano](//it.opensuse.org/OpenSUSE_Newsletter_Settimanale/147)
 
 
-  * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/147/swedish)
+  * [Svenska](//en.opensuse.org/OpenSUSE_Weekly_News/147/swedish)
 
 
-  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/147)
+  * [Ìesky](//cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/147)
 
 
 </td>

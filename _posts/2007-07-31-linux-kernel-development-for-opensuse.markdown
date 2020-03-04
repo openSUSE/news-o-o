@@ -11,6 +11,6 @@ categories:
 - Project
 ---
 
-We have a new mailing list: opensuse-kernel (subscribe via [lists.opensuse.org](http://lists.opensuse.org/)).
+We have a new mailing list: opensuse-kernel (subscribe via [lists.opensuse.org](//lists.opensuse.org/)).
 
 This list is dedicated to the discussion of the openSUSE kernel development (Factory et al) and the kernels in the openSUSE Build Service. Packaging or openSUSE-specific patches (though hopefully rare and growing more so) are on-topic; general Linux kernel development is best served by the existing public lists (LKML et al).

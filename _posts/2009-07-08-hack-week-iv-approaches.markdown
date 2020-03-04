@@ -18,7 +18,7 @@ Hack Week projects can be new features, new applications, or improvements to exi
 
 You don't have to be a Novell employee to participate! If you'd like to hack on something cool and useful, you're welcome to join in!
 
-We'll be collecting ideas in openFATE for Hack Week, so if you'd like to contribute an idea, just go to [openFATE](http://features.opensuse.org/) and log in with your openSUSE account. Then select "Create" and add your feature, as well as any test or use cases.
+We'll be collecting ideas in openFATE for Hack Week, so if you'd like to contribute an idea, just go to [openFATE](//features.opensuse.org/) and log in with your openSUSE account. Then select "Create" and add your feature, as well as any test or use cases.
 
 If you'd like to help implement one of the ideas, check out the features that are already in openFATE for Hack Week IV. Go to "Browse" and select Hack Week IV as the Product, and you'll see all of the proposed features for Hack Week.
 

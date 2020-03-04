@@ -17,9 +17,9 @@ This week we will release the first beta of openSUSE 11.1 and begin the beta pha
 
 As always, we will be doing extensive testing of openSUSE 11.1 in public, but SLED and SLES will be tested in a private program.
 
-If you're interested in openSUSE testing, please subscribe to the openSUSE-testing@opensuse.org mailing list [here](http://en.opensuse.org/Communicate/Mailinglists).
+If you're interested in openSUSE testing, please subscribe to the openSUSE-testing@opensuse.org mailing list [here](//en.opensuse.org/Communicate/Mailinglists).
 
-You can find additional information on testing openSUSE on the [wiki](http://en.opensuse.org/Testing).
+You can find additional information on testing openSUSE on the [wiki](//en.opensuse.org/Testing).
 
 If you'd like to be part of the SLED and SLES testing team, contact Holger Sickenberg <holgi at suse.de> with the following information:
 

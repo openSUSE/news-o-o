@@ -20,7 +20,7 @@ We need some maintenance downtime to work on the following issues:
 
 
 	
-  * [![Failed geeko](http://en.opensuse.org/images/4/43/Failgeeko.png)](http://en.opensuse.org/openSUSE:Downtime)fix storage problems on Build Service machines
+  * [![Failed geeko](//en.opensuse.org/images/4/43/Failgeeko.png)](//en.opensuse.org/openSUSE:Downtime)fix storage problems on Build Service machines
 
 	
   * increase network subnet mask for external available servers (means: we are growing ;-)

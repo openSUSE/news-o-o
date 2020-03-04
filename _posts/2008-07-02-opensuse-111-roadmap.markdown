@@ -65,9 +65,9 @@ Major areas of interest in this release include:
   * Linux kernel 2.6.27+
 
 
-Want to get involved? The start of a release cycle is a great time to get involved in openSUSE development. See the [How to Participate page on the openSUSE wiki](http://en.opensuse.org/How_to_Participate)[](http://en.opensuse.org/How_to_Participate) for details.
+Want to get involved? The start of a release cycle is a great time to get involved in openSUSE development. See the [How to Participate page on the openSUSE wiki](//en.opensuse.org/How_to_Participate)[](//en.opensuse.org/How_to_Participate) for details.
 
-See the [full 11.1 roadmap on the openSUSE wiki](http://en.opensuse.org/Roadmap/11.1) for more details and updates.
+See the [full 11.1 roadmap on the openSUSE wiki](//en.opensuse.org/Roadmap/11.1) for more details and updates.
 
 Note that Coolo and Michl are on vacation until the end of next week, so let's start the discussion on features once they are back on the opensuse-factory mailing list,
 

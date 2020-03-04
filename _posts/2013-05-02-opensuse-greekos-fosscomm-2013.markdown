@@ -21,7 +21,7 @@ tags:
 ---
 
 [![openSUSE Release Party Athens](//news.opensuse.org/wp-content/uploads/2013/04/P1020221.jpg)](//news.opensuse.org/wp-content/uploads/2013/04/P1020221.jpg)
-[Fosscomm](http://fosscomm.gr/) (Free and Open Source Software Communities Meeting) is an annual conference for Free and Open Software. It's organized from the Greek open source community for the Greek open source community in a different city of Greece each year. It's an annual meeting for people who love open source technology, beers and party!
+[Fosscomm](//fosscomm.gr/) (Free and Open Source Software Communities Meeting) is an annual conference for Free and Open Software. It's organized from the Greek open source community for the Greek open source community in a different city of Greece each year. It's an annual meeting for people who love open source technology, beers and party!
 
 Of course the Greek openSUSE Community couldn't miss this chance for having fun, drink beers, meet new people and talk about the technologies that openSUSE 12.3 has and the magnificent openSUSE Conference at Thessaloniki.<!-- more -->
 
@@ -32,7 +32,7 @@ We gathered all our _promo dvds_, _posters_, _logos_,_ badges_, _stickers_ and o
 ## One day before the conference... Are they crazy?
 
 
-No we aren't. We arrived at Athens on Friday because we held a wonderful **Release party** at [hackerspace.gr](http://hackerspace.gr/wiki/OpenSUSE_12.3_-_Release_Party) for our new release! Everyone was there! New people came to meet us and share their enthusiasm about the new release! Of course beers and our delicious must have cake where there too!
+No we aren't. We arrived at Athens on Friday because we held a wonderful **Release party** at [hackerspace.gr](//hackerspace.gr/wiki/OpenSUSE_12.3_-_Release_Party) for our new release! Everyone was there! New people came to meet us and share their enthusiasm about the new release! Of course beers and our delicious must have cake where there too!
 
 We had a lot of fun, met new openSUSE folk and people we invited to join us at our booth at the Conference! More photos [here](https://plus.google.com/photos/103678917701749097222/albums/5868999996871504817)!
 
@@ -67,6 +67,6 @@ You can find more photos [here](https://plus.google.com/photos/11596183620426689
 ## Leaving this year's Fosscomm behind
 
 
-We left this years Fosscomm with many things to remember. We also have to thank the organizers for the perfect organization of the conference; we loved every minute at this years conference! We are lookng forward to see you at our [openSUSE Conference @Thessaloniki](http://conference.opensuse.org/) to have a lot of fun!
+We left this years Fosscomm with many things to remember. We also have to thank the organizers for the perfect organization of the conference; we loved every minute at this years conference! We are lookng forward to see you at our [openSUSE Conference @Thessaloniki](//conference.opensuse.org/) to have a lot of fun!
 
 [![openSUSE Conference](//news.opensuse.org/wp-content/uploads/2013/04/IMAG0753.jpg)](//news.opensuse.org/wp-content/uploads/2013/04/IMAG0753.jpg)

@@ -34,10 +34,10 @@ Hosted at features.opensuse.org, openFATE will help the openSUSE community monit
 
 Anyone can use openFATE to view and discuss features, so long as they have an account. This will allow the openSUSE community to see how the releases evolve and participate directly in feature discussions.
 
-If you're an [openSUSE Member](http://opensuse.org/Member), you can even add features in openFATE. While we can't accept every new feature, this enables members to propose features directly for consideration. (If you're an openSUSE contributor and haven't applied for membership, please do so soon!)
+If you're an [openSUSE Member](//opensuse.org/Member), you can even add features in openFATE. While we can't accept every new feature, this enables members to propose features directly for consideration. (If you're an openSUSE contributor and haven't applied for membership, please do so soon!)
 
-Want to learn more about openFATE? Please see [openFATE](http://en.opensuse.org/OpenFate) on the openSUSE wiki.
+Want to learn more about openFATE? Please see [openFATE](//en.opensuse.org/OpenFate) on the openSUSE wiki.
 
 We'll also need help in screening features for future openSUSE releases. We'll be creating a volunteer team to help evaluate feature requests and help direct the future of openSUSE! If you'd like to participate, please add your name to the openSUSE Fate wiki under Screening Team.
 
-Thanks much to the following for their work on implementing openFATE and making it accessible to the entire openSUSE community: Thomas Schmidt, Klaas Freitag, Andre Duffeck, Michael Loeffler, Christopher Hofmann, Jürgen Weigert, and the [entire tools team](http://en.opensuse.org/Tools_and_Services_Team). A lot of hard work has gone into opening this system, and it will be vital for improving openSUSE and enhancing community participation. [resumecvwriter.com/](https://resumecvwriter.com/)
+Thanks much to the following for their work on implementing openFATE and making it accessible to the entire openSUSE community: Thomas Schmidt, Klaas Freitag, Andre Duffeck, Michael Loeffler, Christopher Hofmann, Jürgen Weigert, and the [entire tools team](//en.opensuse.org/Tools_and_Services_Team). A lot of hard work has gone into opening this system, and it will be vital for improving openSUSE and enhancing community participation. [resumecvwriter.com/](https://resumecvwriter.com/)

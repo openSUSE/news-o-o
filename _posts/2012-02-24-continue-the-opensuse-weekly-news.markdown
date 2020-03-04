@@ -15,7 +15,7 @@ tags:
 - Weekly News
 ---
 
-After three years of hard work the chairman of the [openSUSE Weekly News](http://en.opensuse.org/Portal:Weekly_news) team, [Sascha Manns](https://connect.opensuse.org/pg/profile/saigkill) has given up his chair. [![](/wp-content/uploads/2012/02/OWN-oxygen-Planet-SUSE.png)](http://news.opensuse.org/2012/02/24/continue-the-opensuse-weekly-news/own-oxygen-planet-suse/) We have recieved many questions about the future of the Weekly News so we thought to write a little bit about this topic.
+After three years of hard work the chairman of the [openSUSE Weekly News](//en.opensuse.org/Portal:Weekly_news) team, [Sascha Manns](https://connect.opensuse.org/pg/profile/saigkill) has given up his chair. [![](/wp-content/uploads/2012/02/OWN-oxygen-Planet-SUSE.png)](//news.opensuse.org/2012/02/24/continue-the-opensuse-weekly-news/own-oxygen-planet-suse/) We have recieved many questions about the future of the Weekly News so we thought to write a little bit about this topic.
 <!-- more -->
 
 **Why we need the openSUSE Weekly News?**

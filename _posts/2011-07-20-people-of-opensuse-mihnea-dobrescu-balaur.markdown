@@ -265,7 +265,7 @@ I wouldn't care that much, I'd do what I usually do in my free time – spend ti
 #### Which is your favorite movie scene?
 
 
-There are many inspirational ones, but, let me choose a funnier one – Bad Boys 2, Reggie comes to take Marcus' daughter out on a date. [http://www.youtube.com/watch?v=V_Y9SQhcIjw](http://www.youtube.com/watch?v=V_Y9SQhcIjw)
+There are many inspirational ones, but, let me choose a funnier one – Bad Boys 2, Reggie comes to take Marcus' daughter out on a date. [//www.youtube.com/watch?v=V_Y9SQhcIjw](//www.youtube.com/watch?v=V_Y9SQhcIjw)
 
 
 #### Star Trek or Star Wars?
@@ -325,7 +325,7 @@ No.
 #### Show us a picture of something, you have always wanted to share!
 
 
-Awesome view! [http://upload.wikimedia.org/wikipedia/commons/1/13/The_Spit_Bruny_Island.jpg](http://upload.wikimedia.org/wikipedia/commons/1/13/The_Spit_Bruny_Island.jpg)
+Awesome view! [//upload.wikimedia.org/wikipedia/commons/1/13/The_Spit_Bruny_Island.jpg](//upload.wikimedia.org/wikipedia/commons/1/13/The_Spit_Bruny_Island.jpg)
 
 
 #### You couldn’t live without…
@@ -345,4 +345,4 @@ Which city I'd like to visit.
 
 I don't know, the questions above were fine. :) I'd like to thank the openSUSE community for according me the opportunity to work on this project, and also my mentor, Michal Vyskocil for his guidance.
 
-[![](/wp-content/uploads/2011/07/58394_162278283785923_100000112563118_540302_2343226_n.jpg)](http://news.opensuse.org/2011/07/20/people-of-opensuse-mihnea-dobrescu-balaur/58394_162278283785923_100000112563118_540302_2343226_n/)
+[![](/wp-content/uploads/2011/07/58394_162278283785923_100000112563118_540302_2343226_n.jpg)](//news.opensuse.org/2011/07/20/people-of-opensuse-mihnea-dobrescu-balaur/58394_162278283785923_100000112563118_540302_2343226_n/)

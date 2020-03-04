@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Here you have an interview with Lukáš Ocilka, a Czech [YaST developer](http://en.opensuse.org/YaST/Team) maintaining many [YaST](http://en.opensuse.org/YaST) components such as Installation, Firewall, and Backup.
+Here you have an interview with Lukáš Ocilka, a Czech [YaST developer](//en.opensuse.org/YaST/Team) maintaining many [YaST](//en.opensuse.org/YaST) components such as Installation, Firewall, and Backup.
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ Here you have an interview with Lukáš Ocilka, a Czech [YaST developer](http://
 <td >**Homepage: **
 </td>
 
-<td >[http://en.opensuse.org/User:Locilka](http://en.opensuse.org/User:Locilka)
+<td >[//en.opensuse.org/User:Locilka](//en.opensuse.org/User:Locilka)
 </td>
 
 <td >

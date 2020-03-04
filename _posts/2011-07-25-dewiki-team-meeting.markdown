@@ -12,6 +12,6 @@ wordpress_id: 9903
 
 The German Wiki team meeting is on freenode IRC, channel #opensuse-wiki-de.
 
-Details at the [meeting page](http://dewiki.opensuse.org/openSUSE:Wiki_Meeting).
+Details at the [meeting page](//dewiki.opensuse.org/openSUSE:Wiki_Meeting).
 
-Das deutsche Wiki Team trifft sich auf IRC (freenode Server, channel #opensuse-wiki-de), details gibt's im [Wiki](http://dewiki.opensuse.org/openSUSE:Wiki_Meeting).
+Das deutsche Wiki Team trifft sich auf IRC (freenode Server, channel #opensuse-wiki-de), details gibt's im [Wiki](//dewiki.opensuse.org/openSUSE:Wiki_Meeting).

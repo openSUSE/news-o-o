@@ -13,7 +13,7 @@ categories:
 
 Another show is over, it was a good one with some annoying stuff ... But first the good stuff: We gave away a lot of openSUSE PromoDVDs, so much that we ran out quite soon. But we ordered new ones, and in total i guess we spread 1800 DVDs. This includes the nice magazines we had, a full openSUSE 11.0 (yes, with 64bit), and GNOME/KDE Live system. Thats probably the most complete DVD you can get.
 
-![openSUSE LWE](http://farm4.static.flickr.com/3288/2749544023_3900170b32_m.jpg) hmmm ... something wrong here?
+![openSUSE LWE](//farm4.static.flickr.com/3288/2749544023_3900170b32_m.jpg) hmmm ... something wrong here?
 
 The openSUSE day was not that well visited, but the presentations i attended had some good discussion/feedback at the end. I visited also some Ubuntu's talks to see if they were doing better, but same lack of people. So not a problem of openSUSE, more of the show.
 

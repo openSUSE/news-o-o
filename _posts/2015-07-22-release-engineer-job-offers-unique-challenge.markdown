@@ -13,7 +13,7 @@ categories:
 - Project
 ---
 
-[![t-shirt-motiv1](/wp-content/uploads/2015/07/t-shirt-motiv1.png)](/wp-content/uploads/2015/07/t-shirt-motiv1.png)A job announcement for a [Release Engineer for openSUSE](http://bit.ly/1GBFIyp) was published today and it offers a unique challenge, which sounds pretty cool. The optional bonus challenges to be included in the candidates' application are:
+[![t-shirt-motiv1](/wp-content/uploads/2015/07/t-shirt-motiv1.png)](/wp-content/uploads/2015/07/t-shirt-motiv1.png)A job announcement for a [Release Engineer for openSUSE](//bit.ly/1GBFIyp) was published today and it offers a unique challenge, which sounds pretty cool. The optional bonus challenges to be included in the candidates' application are:
 
 1. Being a regular contributor to a community distribution? Point us to your work!
 

@@ -11,12 +11,12 @@ categories:
 - Conference
 ---
 
-![By Frederic Crozat](http://farm7.staticflickr.com/6085/6055381155_344f265207.jpg)Your opportunity to impact the openSUSE conference in Prague, held October 20 - 23, 2012, through a presentation, leading a BoF session, or running a workshop is quickly fading away. The [Call For Papers](http://conference.opensuse.org/Call-for-papers/) closes on July 30. Submit your proposal [here](http://conference.opensuse.org/indico//confLogin.py?returnURL=http%3A%2F%2Fconference.opensuse.org%2Findico%2F%2FabstractSubmission.py%3FconfId%3D4&confId=4#interest).
+![By Frederic Crozat](//farm7.staticflickr.com/6085/6055381155_344f265207.jpg)Your opportunity to impact the openSUSE conference in Prague, held October 20 - 23, 2012, through a presentation, leading a BoF session, or running a workshop is quickly fading away. The [Call For Papers](//conference.opensuse.org/Call-for-papers/) closes on July 30. Submit your proposal [here](//conference.opensuse.org/indico//confLogin.py?returnURL=http%3A%2F%2Fconference.opensuse.org%2Findico%2F%2FabstractSubmission.py%3FconfId%3D4&confId=4#interest).
 
 
 
 
-With the [conference](http://conference.opensuse.org/) still a few months away we already have over 100 registered participants and the event promises to be another great community gathering. This is your chance to provide feedback, help steer the project, and introduce your ideas in a face to face setting to a large active group of the community. As with last year's conference we anticipate sessions covering non technical and technical topics alike. Therefore, it is time to get those fingers moving to express you great ideas and submit your proposal for the conference. Don't miss out!
+With the [conference](//conference.opensuse.org/) still a few months away we already have over 100 registered participants and the event promises to be another great community gathering. This is your chance to provide feedback, help steer the project, and introduce your ideas in a face to face setting to a large active group of the community. As with last year's conference we anticipate sessions covering non technical and technical topics alike. Therefore, it is time to get those fingers moving to express you great ideas and submit your proposal for the conference. Don't miss out!
 
 
 
@@ -26,7 +26,7 @@ The review committee is very much looking forward to a busy time of planning the
 
 
 
-The conference site if being updated frequently, thus check [back](http://conference.opensuse.org/) often and [submit](http://conference.opensuse.org/indico//confLogin.py?returnURL=http%3A%2F%2Fconference.opensuse.org%2Findico%2F%2FabstractSubmission.py%3FconfId%3D4&confId=4#interest) your proposal prior to July 30.
+The conference site if being updated frequently, thus check [back](//conference.opensuse.org/) often and [submit](//conference.opensuse.org/indico//confLogin.py?returnURL=http%3A%2F%2Fconference.opensuse.org%2Findico%2F%2FabstractSubmission.py%3FconfId%3D4&confId=4#interest) your proposal prior to July 30.
 
 
 

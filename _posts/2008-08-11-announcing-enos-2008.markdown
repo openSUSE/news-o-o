@@ -12,13 +12,13 @@ categories:
 - Events
 ---
 
-![ENOS](http://www.cgoncalves.info/images/opensuse/enos/enos_200.png)
+![ENOS](//www.cgoncalves.info/images/opensuse/enos/enos_200.png)
 
 
 
 The acronym ENOS stands for '_Encontro Nacional de openSUSE_', a Portuguese expression which can be translated to '_National openSUSE Meeting_', an event meant to unite the Portuguese openSUSE users, as well as provide the participants an inside view into the latest developments in the openSUSE project and stimulate them to take an active part in the community itself.
 
-[ENOS 2008](http://pt.opensuse.org/Eventos/ENOS) is the second yearly edition ([read about ENOS 2007 here](http://en.opensuse.org/Events/ENOS/2007)) of the event and will be held in Instituto Superior de Engenharia do Porto, Porto, Portugal on **Saturday, 6 September.**
+[ENOS 2008](//pt.opensuse.org/Eventos/ENOS) is the second yearly edition ([read about ENOS 2007 here](//en.opensuse.org/Events/ENOS/2007)) of the event and will be held in Instituto Superior de Engenharia do Porto, Porto, Portugal on **Saturday, 6 September.**
 
 
 
@@ -54,29 +54,29 @@ This year we will have special guests giving some talks:
 ## LPI
 
 
-As in last year, attendees will have the opportunity to do the [LPI Certification Exams](http://www.lpi.org/) at the event with a 50% discount off by **LPI Master Affiliate [DRI](http://www.dri.pt/)**. Email [eventos@opensusept.org](mailto:eventos@opensusept.org) to sign in.
+As in last year, attendees will have the opportunity to do the [LPI Certification Exams](//www.lpi.org/) at the event with a 50% discount off by **LPI Master Affiliate [DRI](//www.dri.pt/)**. Email [eventos@opensusept.org](mailto:eventos@opensusept.org) to sign in.
 
 
 
 ## Participation
 
 
-Anyone interested in attend should [sign in](http://pt.opensuse.org/Eventos/ENOS#Participantes) or email [eventos@opensusept.org](mailto:eventos@opensusept.org) so we can have a better idea of how many people we should expect (_tip: you will **not** leave the event without some openSUSE goodies! ;-)_).
+Anyone interested in attend should [sign in](//pt.opensuse.org/Eventos/ENOS#Participantes) or email [eventos@opensusept.org](mailto:eventos@opensusept.org) so we can have a better idea of how many people we should expect (_tip: you will **not** leave the event without some openSUSE goodies! ;-)_).
 
 
 
-[![](http://www.cgoncalves.info/images/opensuse/enos/ENOS2008_poster_600px.png)
+[![](//www.cgoncalves.info/images/opensuse/enos/ENOS2008_poster_600px.png)
 
 
 
 
-(click to enlarge)](http://www.cgoncalves.info/images/opensuse/enos/ENOS2008_poster.png)
+(click to enlarge)](//www.cgoncalves.info/images/opensuse/enos/ENOS2008_poster.png)
 
 
 
-For more detailed information about the event please see [ENOS 2008](http://pt.opensuse.org/Eventos/ENOS) (Portuguese only).
+For more detailed information about the event please see [ENOS 2008](//pt.opensuse.org/Eventos/ENOS) (Portuguese only).
 
-Big thanks to **[Porto Linux](http://www.portolinux.org/)**, **[ISEP](http://www.isep.ipp.pt/)**, and **[Novell](http://www.novell.com/)** for the support!
+Big thanks to **[Porto Linux](//www.portolinux.org/)**, **[ISEP](//www.isep.ipp.pt/)**, and **[Novell](//www.novell.com/)** for the support!
 
 
 
@@ -87,12 +87,12 @@ Big thanks to **[Porto Linux](http://www.portolinux.org/)**, **[ISEP](http://www
 
 
 	
-  * Mailing list: [opensuse-pt@opensuse.org](http://lists.opensuse.org/opensuse-pt/) ([subscribe](mailto:opensuse-pt+subscribe@opensuse.org))
+  * Mailing list: [opensuse-pt@opensuse.org](//lists.opensuse.org/opensuse-pt/) ([subscribe](mailto:opensuse-pt+subscribe@opensuse.org))
 
 	
   * IRC: [#opensuse-pt](irc://irc.freenode.net/opensuse-pt) on _irc.freenode.net_
 
 	
-  * Web: [http://opensusept.org/](http://opensusept.org/)
+  * Web: [//opensusept.org/](//opensusept.org/)
 
 Computer models jupiter's ocean is 40,000 [how to teach academic writing in high school](https://pro-academic-writers.com/) km deep, as deep as earth is around

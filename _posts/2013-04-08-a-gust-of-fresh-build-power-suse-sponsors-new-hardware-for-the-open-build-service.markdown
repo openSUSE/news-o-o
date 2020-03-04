@@ -18,7 +18,7 @@ categories:
 ## Strong Demand For Build Time
 
 
-Over the last year, the Open Build Service reference server, at [build.opensuse.org](http://build.opensuse.org), grew in three dimensions: number of supported distributions/architectures, packages and users. We're at a stunning number of over 205,000 packages built by an army of almost 36,000 developers, and we have recently brought the supported architectures up to 6 by adding ARM support, with AArch64 coming soon as well.
+Over the last year, the Open Build Service reference server, at [build.opensuse.org](//build.opensuse.org), grew in three dimensions: number of supported distributions/architectures, packages and users. We're at a stunning number of over 205,000 packages built by an army of almost 36,000 developers, and we have recently brought the supported architectures up to 6 by adding ARM support, with AArch64 coming soon as well.
 
 Unfortunately, our server farm has not expanded along with demand - on the contrary. As hardware ages and gets hammered by OBS every day it gets unreliable quickly, costing us build power. The last 3 months have seen a large number of hosts fall over permanently, leading to a growing backlog of build jobs on OBS and waiting time for our developers.
 
@@ -50,7 +50,7 @@ _"This rack with nearly 40 nodes will blow your socks off! We're more than thank
 ## Free but not for nothing
 
 
-While we're at it, we'd like to remind everyone that building the tens of thousands of packages worked on by Free Software developers around the world isn't without its costs - the power bill alone is staggering. We are very lucky to have the following sponsors to [support the Open Build Server reference instance](http://http://en.opensuse.org/en/Sponsors):
+While we're at it, we'd like to remind everyone that building the tens of thousands of packages worked on by Free Software developers around the world isn't without its costs - the power bill alone is staggering. We are very lucky to have the following sponsors to [support the Open Build Server reference instance](////en.opensuse.org/en/Sponsors):
 
 
 
@@ -61,27 +61,27 @@ While we're at it, we'd like to remind everyone that building the tens of thousa
 
 
 
-[![suse_logo_w-tag_color](//news.opensuse.org/wp-content/uploads/2013/04/suse_logo_w-tag_color-300x166.png)](http://suse.com)
+[![suse_logo_w-tag_color](//news.opensuse.org/wp-content/uploads/2013/04/suse_logo_w-tag_color-300x166.png)](//suse.com)
 
 
 
 
-[![Amd.jpg](https://en.opensuse.org/images/c/cc/Amd.jpg)](http://amd.com)
+[![Amd.jpg](https://en.opensuse.org/images/c/cc/Amd.jpg)](//amd.com)
 
 
 
 
-[![Ip-exchange.png](https://en.opensuse.org/images/d/d8/Ip-exchange.png)](http://ip-exchange.com/)
+[![Ip-exchange.png](https://en.opensuse.org/images/d/d8/Ip-exchange.png)](//ip-exchange.com/)
 
 
 
 
-[![B1-systems-1.jpg](https://en.opensuse.org/images/a/a2/B1-systems-1.jpg)](http://www.b1-systems.de/)
+[![B1-systems-1.jpg](https://en.opensuse.org/images/a/a2/B1-systems-1.jpg)](//www.b1-systems.de/)
 
 
 
 
-[![Heinlein-support.png](https://en.opensuse.org/images/1/1d/Heinlein-support.png)](http://www.heinlein-support.de)
+[![Heinlein-support.png](https://en.opensuse.org/images/1/1d/Heinlein-support.png)](//www.heinlein-support.de)
 
 
 

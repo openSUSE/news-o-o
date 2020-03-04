@@ -34,7 +34,7 @@ So, enjoy! ;-)
 <td width="105" >**Homepage: **
 </td>
 
-<td width="520" >http://blog.crozat.net/
+<td width="520" >//blog.crozat.net/
 </td>
 
 <td width="5" >
@@ -45,7 +45,7 @@ So, enjoy! ;-)
 <td width="105" >**Blog:**
 </td>
 
-<td width="520" >http://blog.crozat.net/
+<td width="520" >//blog.crozat.net/
 </td>
 
 <td width="5" >
@@ -238,7 +238,7 @@ Star Trek (but I like both)
 #### What is your favorite food and drink?
 
 
-Food : truffade (regional dish from countryside, cheese and potatoes : [http://en.wikipedia.org/wiki/Truffade](http://en.wikipedia.org/wiki/Truffade)
+Food : truffade (regional dish from countryside, cheese and potatoes : [//en.wikipedia.org/wiki/Truffade](//en.wikipedia.org/wiki/Truffade)
 
 No favorite drink, I like a lot of them ;)
 
@@ -286,7 +286,7 @@ One or two times, mostly because I forgot to set the alarm in my calendar for th
 #### Show us a picture of something, you have always wanted to share!
 
 
-This is what some collegues did in our office in Paris : everybody should do the same : [http://www.flickr.com/photos/fcrozat/6055381155/in/photostream](http://www.flickr.com/photos/fcrozat/6055381155/in/photostream) (and I'm now the guardian of this geeko ;)
+This is what some collegues did in our office in Paris : everybody should do the same : [//www.flickr.com/photos/fcrozat/6055381155/in/photostream](//www.flickr.com/photos/fcrozat/6055381155/in/photostream) (and I'm now the guardian of this geeko ;)
 
 
 #### You couldn’t live without…

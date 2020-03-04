@@ -149,7 +149,7 @@ We do not forget exciting lightning talks at this year’s summit. This year, th
 
 Please submit your proposal to the following website:
 
-[http://events.opensuse.org/](http://events.opensuse.org/)
+[//events.opensuse.org/](//events.opensuse.org/)
 
 
 

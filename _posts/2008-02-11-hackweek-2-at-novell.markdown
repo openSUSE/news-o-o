@@ -12,7 +12,7 @@ categories:
 - Hack Week
 ---
 
-We had last June our first [Hackweek](http://www.novell.com/coolblogs/?p=919) and have this week (from 11th to 15th) our second hackweek.  Some of us do use the [ideas.opensuse.org](http://ideas.opensuse.org) website for collecting ideas but not everybody.
+We had last June our first [Hackweek](//www.novell.com/coolblogs/?p=919) and have this week (from 11th to 15th) our second hackweek.  Some of us do use the [ideas.opensuse.org](//ideas.opensuse.org) website for collecting ideas but not everybody.
 
 The goal of the hackweek is for everybody in the engineering group of the Open Platform Business Unit  of Novell to work on some innovate and cool ideas - and not look at the usual work.
 

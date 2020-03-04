@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Sascha is active in many areas of openSUSE (Marketing, Feature Screening and using Build service for his projects), but he is particularly active in openSUSE Weekly News. More than 1300 articles translated and edited since October 2008th is quite some effort. That alone is deserving attention, but he didn't stopped there and recently he started a new initiative in cooperation with [Radiotux](http://www.radiotux.org/). The plan is to prepare digest of openSUSE Weekly News in German. More about that you can read in his [Radiotux blog](http://blog.radiotux.de/2009/03/24/opensuse-weekly-news-radiotux/) (it is German) and even more in his [Lizards blog](http://lizards.opensuse.org/2009/04/01/happy-birthday-radiotux-the-birthday-broadcast-now-online/)
+Sascha is active in many areas of openSUSE (Marketing, Feature Screening and using Build service for his projects), but he is particularly active in openSUSE Weekly News. More than 1300 articles translated and edited since October 2008th is quite some effort. That alone is deserving attention, but he didn't stopped there and recently he started a new initiative in cooperation with [Radiotux](//www.radiotux.org/). The plan is to prepare digest of openSUSE Weekly News in German. More about that you can read in his [Radiotux blog](//blog.radiotux.de/2009/03/24/opensuse-weekly-news-radiotux/) (it is German) and even more in his [Lizards blog](//lizards.opensuse.org/2009/04/01/happy-birthday-radiotux-the-birthday-broadcast-now-online/)
 
 <!-- more -->
 
@@ -56,7 +56,7 @@ Sascha is active in many areas of openSUSE (Marketing, Feature Screening and usi
 <td >**Homepage: **
 </td>
 
-<td >[http://saschamanns.gulli.to](http://saschamanns.gulli.to) (in German)
+<td >[//saschamanns.gulli.to](//saschamanns.gulli.to) (in German)
 </td>
 
 <td >
@@ -68,7 +68,7 @@ Sascha is active in many areas of openSUSE (Marketing, Feature Screening and usi
 <td >**Blog:**
 </td>
 
-<td >[ http://lizards.opensuse.org/author/saigkill](http://lizards.opensuse.org/author/saigkill) (in English)
+<td >[ //lizards.opensuse.org/author/saigkill](//lizards.opensuse.org/author/saigkill) (in English)
 </td>
 
 <td >
@@ -80,7 +80,7 @@ Sascha is active in many areas of openSUSE (Marketing, Feature Screening and usi
 <td >
 </td>
 
-<td >[http://saschasbacktrace.blogspot.com](http://saschasbacktrace.blogspot.com) (in German)
+<td >[//saschasbacktrace.blogspot.com](//saschasbacktrace.blogspot.com) (in German)
 </td>
 
 <td >
@@ -188,7 +188,7 @@ That was last year (2008). I have tested the UNSTABLE tree from KDE and posted b
 #### In what way do you participate in the openSUSE project?
 
 
-I'm working in the [Marketing Team](http://en.opensuse.org/Marketing_Team), [ openFATE  Screening Team](http://en.opensuse.org/OpenFATE/Screening_team) and creating my[ own packages in the openSUSE Build Service](http://download.opensuse.org/repositories/home:/saigkill/).
+I'm working in the [Marketing Team](//en.opensuse.org/Marketing_Team), [ openFATE  Screening Team](//en.opensuse.org/OpenFATE/Screening_team) and creating my[ own packages in the openSUSE Build Service](//download.opensuse.org/repositories/home:/saigkill/).
 
 Last week, I  started a new project. I've created a German spoken version of the openSUSE Weekly News.
 It is a part of the live broadcast. This week will come the issue #65.
@@ -238,7 +238,7 @@ Save your data, kill Conficker, use openSUSE.
 #### What do you think is missing or underrated in the distribution or the project?
 
 
-My hope is, that the openSUSE  Members can send submitrequests ([OBS](http://en.opensuse.org/Build_Service)) in the openSUSE:Factory tree.
+My hope is, that the openSUSE  Members can send submitrequests ([OBS](//en.opensuse.org/Build_Service)) in the openSUSE:Factory tree.
 
 
 
@@ -299,7 +299,7 @@ I have modified Firefox, so it can remove ads, disable scripts, and through Scri
 #### Which application or feature should be invented as soon as possible?
 
 
-kqlives (an Zelda-like game). I'm working actually on it in [my OBS project](http://download.opensuse.org/repositories/home:/saigkill/).
+kqlives (an Zelda-like game). I'm working actually on it in [my OBS project](//download.opensuse.org/repositories/home:/saigkill/).
 
 
 

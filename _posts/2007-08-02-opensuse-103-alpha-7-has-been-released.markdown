@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-The openSUSE Team is proud to announce the release of openSUSE 10.3 Alpha 7. Though this release should not be used on any production machines, everyone can help shape this release by testing out installations and much more. For more information on the release schedule, take a look at the [Roadmap](http://en.opensuse.org/Roadmap).
+The openSUSE Team is proud to announce the release of openSUSE 10.3 Alpha 7. Though this release should not be used on any production machines, everyone can help shape this release by testing out installations and much more. For more information on the release schedule, take a look at the [Roadmap](//en.opensuse.org/Roadmap).
 
 <!-- more -->
 
@@ -30,12 +30,12 @@ The openSUSE Team is proud to announce the release of openSUSE 10.3 Alpha 7. Tho
   * gcc 4.2.1
 
 	
-  * [libzypp](http://opensuse.org/Libzypp) 3.12.1
+  * [libzypp](//opensuse.org/Libzypp) 3.12.1
 
 
-The package set of the CDs have also been heavily reshuffled, and with it the [patterns](http://opensuse.org/Patterns) also affecting the DVD.
+The package set of the CDs have also been heavily reshuffled, and with it the [patterns](//opensuse.org/Patterns) also affecting the DVD.
 
-A more detailed list of the changes is available on the [Factory/News](http://opensuse.org/Factory/News) wiki page.
+A more detailed list of the changes is available on the [Factory/News](//opensuse.org/Factory/News) wiki page.
 
 
 ### Most Annoying Bugs
@@ -54,7 +54,7 @@ A more detailed list of the changes is available on the [Factory/News](http://op
   * Flash/nspluginviewer blocks Konqueror and takes 100% CPU ([Bug 294385](https://bugzilla.novell.com/show_bug.cgi?id=294385))
 
 
-For an up-to-date list see [Bugs:Most_Annoying_Bugs_10.3_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev)
+For an up-to-date list see [Bugs:Most_Annoying_Bugs_10.3_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev)
 
 
 ### Call for Testing
@@ -65,7 +65,7 @@ For an up-to-date list see [Bugs:Most_Annoying_Bugs_10.3_dev](http://en.opensuse
 
 	
   * **libzypp**
-libzypp received significant throughout alpha 6, and it has already significantly advanced since then, but please also give this a good testing. We would also like to have some feedback on the refresh policy of YaST/zypper; the problem is summarised well by Duncan on [the Factory Mailing List](http://lists.opensuse.org/opensuse-factory/2007-07/msg00169.html).
+libzypp received significant throughout alpha 6, and it has already significantly advanced since then, but please also give this a good testing. We would also like to have some feedback on the refresh policy of YaST/zypper; the problem is summarised well by Duncan on [the Factory Mailing List](//lists.opensuse.org/opensuse-factory/2007-07/msg00169.html).
 
 	
   * **GNOME CD**
@@ -82,26 +82,26 @@ openSUSE 10.3 Alpha 7 for i386, x86-64 and ppc comes as different media sets:
 
 
 	
-  * 1 DVD containing OSS and NonOSS software (torrents for: [i386](http://download.opensuse.org/distribution/10.3-Alpha7/iso/torrent/openSUSE-10.3-Alpha6_Alpha7-DVD-i386.torrent), [x86_64](http://download.opensuse.org/distribution/10.3-Alpha7/iso/torrent/openSUSE-10.3-Alpha7-DVD-x86_64.torrent), [ppc](http://download.opensuse.org/distribution/10.3-Alpha7/iso/torrent/openSUSE-10.3-Alpha7-DVD-ppc.torrent))
+  * 1 DVD containing OSS and NonOSS software (torrents for: [i386](//download.opensuse.org/distribution/10.3-Alpha7/iso/torrent/openSUSE-10.3-Alpha6_Alpha7-DVD-i386.torrent), [x86_64](//download.opensuse.org/distribution/10.3-Alpha7/iso/torrent/openSUSE-10.3-Alpha7-DVD-x86_64.torrent), [ppc](//download.opensuse.org/distribution/10.3-Alpha7/iso/torrent/openSUSE-10.3-Alpha7-DVD-ppc.torrent))
 
 	
-  * 1 CD with a default KDE installation ([i386](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-KDE-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-KDE-x86_64.iso), not for ppc)
+  * 1 CD with a default KDE installation ([i386](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-KDE-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-KDE-x86_64.iso), not for ppc)
 
 	
-  * 1 CD with a default GNOME installation ([i386](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-GNOME-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-GNOME-x86_64.iso), not for ppc)
+  * 1 CD with a default GNOME installation ([i386](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-GNOME-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-GNOME-x86_64.iso), not for ppc)
 
 	
-  * 1 AddOn CD with only NonOSS packages on it ([i386 or x86_64](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-NonOSS-BiArch.iso), [ppc](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-NonOSS-ppc.iso))
+  * 1 AddOn CD with only NonOSS packages on it ([i386 or x86_64](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-NonOSS-BiArch.iso), [ppc](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-NonOSS-ppc.iso))
 
 	
-  * 1 AddOn CD with language packages that are used for extra languages (the DVD contains support for english, french, italian, spanish, german, chinese, japanese, czech, danish, norwegian, khmer, hungarian, polish; the DVD has support for installation in all languages, just extra packages are only on this extra media) ([i386](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-Lang-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-Lang-x86_64.iso), [ppc](http://download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-Lang-ppc.iso))
+  * 1 AddOn CD with language packages that are used for extra languages (the DVD contains support for english, french, italian, spanish, german, chinese, japanese, czech, danish, norwegian, khmer, hungarian, polish; the DVD has support for installation in all languages, just extra packages are only on this extra media) ([i386](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-Lang-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-Lang-x86_64.iso), [ppc](//download.opensuse.org/distribution/10.3-Alpha7/iso/cd/openSUSE-10.3-Alpha7-Addon-Lang-ppc.iso))
 
 	
   * DVD/CDs containing the sources corresponding to the media
 
 
-We have created Delta ISOs from openSUSE 10.3 Alpha 6; please use them for download. The DVDs and the source media are only available via bittorrent which will be synced out later today since they were not created in time. For all the download ISOs, sources, and instructions, head over to the **[development version download page](http://opensuse.org/Development_Version)**.
+We have created Delta ISOs from openSUSE 10.3 Alpha 6; please use them for download. The DVDs and the source media are only available via bittorrent which will be synced out later today since they were not created in time. For all the download ISOs, sources, and instructions, head over to the **[development version download page](//opensuse.org/Development_Version)**.
 
-Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list.
+Please report all bugs you find on in our bugzilla as explained on [//bugs.opensuse.org](//bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list.
 
-The next [planned release](http://en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 1 on Thursday, August 9. Earning cisco 300-075 implementing cisco ip telephony and video exam dumps certification on a lately launched os, system or program will illustrate that you have obtained what few have done up  to that point become qualified on something new
+The next [planned release](//en.opensuse.org/Roadmap/10.3) is openSUSE 10.3 Beta 1 on Thursday, August 9. Earning cisco 300-075 implementing cisco ip telephony and video exam dumps certification on a lately launched os, system or program will illustrate that you have obtained what few have done up  to that point become qualified on something new

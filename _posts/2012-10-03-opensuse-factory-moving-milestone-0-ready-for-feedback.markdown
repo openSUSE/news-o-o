@@ -14,7 +14,7 @@ categories:
 ---
 
 ![](/wp-content/uploads/2012/10/factory-tested.png)
-Good news! openSUSE Milestone 0 of openSUSE 12.3 is out! While we're still discussing the schedule and won't be deciding anything before the [openSUSE Conference in Prague later this month](http://conference.opensuse.org), development is picking up steam.<!-- more -->
+Good news! openSUSE Milestone 0 of openSUSE 12.3 is out! While we're still discussing the schedule and won't be deciding anything before the [openSUSE Conference in Prague later this month](//conference.opensuse.org), development is picking up steam.<!-- more -->
 
 
 
@@ -74,6 +74,6 @@ Ismael Doenmez was kind enough to provide us with a quick overview of the latest
 ## Helping out easier than ever!
 
 
-As expected from a development release, there is still a lot of work to do, so your input at this early stage will be a huge help in making the final release into the beautifully polished work that we aim for. openSUSE 12.3 Milestone 0 has a [list of most annoying bugs here](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.3_dev), please add issues you find and help fix them. As Will Stephenson [recently blogged](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/), fixing an issue is a matter of **BURP**ing on [build.opensuse.org](http://build.opensuse.org)! Find a how-to [here](http://en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
+As expected from a development release, there is still a lot of work to do, so your input at this early stage will be a huge help in making the final release into the beautifully polished work that we aim for. openSUSE 12.3 Milestone 0 has a [list of most annoying bugs here](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.3_dev), please add issues you find and help fix them. As Will Stephenson [recently blogged](//lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/), fixing an issue is a matter of **BURP**ing on [build.opensuse.org](//build.opensuse.org)! Find a how-to [here](//en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
 
-So run, don't crawl, to your nearest downloader and see for yourself what the next version of openSUSE has in store for you at our [download center](http://software.opensuse.org/developer/en).
+So run, don't crawl, to your nearest downloader and see for yourself what the next version of openSUSE has in store for you at our [download center](//software.opensuse.org/developer/en).

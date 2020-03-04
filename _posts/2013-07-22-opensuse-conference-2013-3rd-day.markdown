@@ -98,7 +98,7 @@ Last party of the conference was perfect. After a hardsday work everyone waited 
 
 You can find lots of pictures from #oSC13 on [openSUSE Greek Fans](https://www.facebook.com/groups/opensuse.gr/photos/) on facebook or on [G+](https://plus.google.com/u/0/b/113385548251515365143/photos/113385548251515365143/albums). Also on twitter you can follow [@openSUSEConf](https://twitter.com/openSUSEConf) or search for the hashtag [#oSC13](https://twitter.com/search?q=%23oSC13&src=typd).
 
-If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](http://bambuser.com/channel/opensusetv) that is set up in the venue. Also if you have any questions for the presentation you attend online there is an [IRC Channel](http://webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference) set up in order to make your questions.
+If you missed the chance to be here with us and have fun you can attend the conference and all the fun online from the [live streaming](//bambuser.com/channel/opensusetv) that is set up in the venue. Also if you have any questions for the presentation you attend online there is an [IRC Channel](//webchat.freenode.net?nick=lizard-attendee&channels=opensuse-conference) set up in order to make your questions.
 
 Last but not least we have our local newspaper!
 

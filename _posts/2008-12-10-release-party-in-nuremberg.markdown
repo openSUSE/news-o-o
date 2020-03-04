@@ -18,7 +18,7 @@ tags:
 <table border="0" >
 <tbody >
 
-<td rowspan="8" >[![img_2048.jpg](http://farm4.static.flickr.com/3216/3098241900_e149efed6d_m.jpg)](http://www.flickr.com/photos/notlocalhorst/3098241900/)
+<td rowspan="8" >[![img_2048.jpg](//farm4.static.flickr.com/3216/3098241900_e149efed6d_m.jpg)](//www.flickr.com/photos/notlocalhorst/3098241900/)
 </td>
 </tr>
 <tr >
@@ -38,7 +38,7 @@ The address is Maxfeldstr. 5, 90409 Nuremberg, Germany :-)
 <tr >
 
 <td >
-[Google Maps](http://tinyurl.com/6cmu9o), Stairs up, turn left and you will see the entrance like in the picture.
+[Google Maps](//tinyurl.com/6cmu9o), Stairs up, turn left and you will see the entrance like in the picture.
 
 </td>
 </tr>
@@ -53,8 +53,8 @@ Please send an email to me if you want to come to the party, mlasars _at! suse !
 </tbody>
 </table>
 
-If you are not from Nuremberg, look first at the party locations at the [wiki](http://en.opensuse.org/OpenSUSE_11.1_Launch_Party_Locations), or make your own party!
+If you are not from Nuremberg, look first at the party locations at the [wiki](//en.opensuse.org/OpenSUSE_11.1_Launch_Party_Locations), or make your own party!
 
-[![](http://counter.opensuse.org/11.1/small)](http://en.opensuse.org/OpenSUSE_11.1)
+[![](//counter.opensuse.org/11.1/small)](//en.opensuse.org/OpenSUSE_11.1)
 </td>
  Get [https://essayclick.net](https://essayclick.net/) ready for the competition of ibm ibm maximo asset management v7

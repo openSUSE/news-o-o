@@ -16,9 +16,9 @@ tags:
 - Election
 ---
 
-[![image of 'uncle sam' Green style!](/wp-content/uploads/2011/01/vote.jpeg)](http://news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/vote/)
+[![image of 'uncle sam' Green style!](/wp-content/uploads/2011/01/vote.jpeg)](//news.opensuse.org/2011/01/12/the-opensuse-board-election-2010/vote/)
 
-The last few weeks in the openSUSE project have been very interesting. [Two seats on the openSUSE Project board](http://en.opensuse.org/openSUSE:Board_election_2010) were up for election. The [Election Committee](http://en.opensuse.org/openSUSE:Board_election_2010#Election_committee) closed the polls on Wednesday, and we are pleased to announce the results:
+The last few weeks in the openSUSE project have been very interesting. [Two seats on the openSUSE Project board](//en.opensuse.org/openSUSE:Board_election_2010) were up for election. The [Election Committee](//en.opensuse.org/openSUSE:Board_election_2010#Election_committee) closed the polls on Wednesday, and we are pleased to announce the results:
 
 
 

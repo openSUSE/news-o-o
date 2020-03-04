@@ -55,7 +55,7 @@ On freenode you will find me as [daemon].
 </td>
 
 <td >I still stick to my comment: If you don't know me then you don't want to be there:
-[http://hausb.org](http://hausb.org)
+[//hausb.org](//hausb.org)
 </td>
 
 <td >
@@ -66,7 +66,7 @@ On freenode you will find me as [daemon].
 <td >**Blog:**
 </td>
 
-<td >[http://hausb.org/dungeon](http://hausb.org/dungeon)
+<td >[//hausb.org/dungeon](//hausb.org/dungeon)
 A lot of crap there and almost used to spread anger and joy :)
 </td>
 
@@ -435,7 +435,7 @@ Maximum stealth. Vanish for a while.
 #### Someone gives you $1.000.000 — what would you do with the money?
 
 
-Donate it to e.g.: [http://www.aerzte-ohne-grenzen.de](http://www.aerzte-ohne-grenzen.de)
+Donate it to e.g.: [//www.aerzte-ohne-grenzen.de](//www.aerzte-ohne-grenzen.de)
 
 
 

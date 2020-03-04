@@ -15,7 +15,7 @@ tags:
 - Weekly News
 ---
 
-Issue #101 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/101)!
+Issue #101 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/101)!
 
 
 
@@ -41,4 +41,4 @@ Issue #101 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/101/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/101/Translations).
+[//en.opensuse.org/OpenSUSE_Weekly_News/101/Translations](//en.opensuse.org/OpenSUSE_Weekly_News/101/Translations).

@@ -21,11 +21,11 @@ Behind the scenes, the Wiki and Booster Teams are currently working hard to impr
 
 
 
-To get an idea about the current state of the Project we're working on, I'd like to raise your attention on the [Meeting Minutes](http://lists.opensuse.org/opensuse-wiki/2009-11/msg00005.html) of our first Team-Meeting. To subscribe to the opensuse-wiki mailinglist, please click [here](mailto:opensuse-wiki+subscribe@opensuse.org).
+To get an idea about the current state of the Project we're working on, I'd like to raise your attention on the [Meeting Minutes](//lists.opensuse.org/opensuse-wiki/2009-11/msg00005.html) of our first Team-Meeting. To subscribe to the opensuse-wiki mailinglist, please click [here](mailto:opensuse-wiki+subscribe@opensuse.org).
 
 
 
 
 
 
-Not familiar with IRC? A good overview can be found at [irchelp.org](http://www.irchelp.org/). This site is not affiliated with openSUSE. For more information on Freenode, see [http://freenode.net](http://freenode.net/).
+Not familiar with IRC? A good overview can be found at [irchelp.org](//www.irchelp.org/). This site is not affiliated with openSUSE. For more information on Freenode, see [//freenode.net](//freenode.net/).

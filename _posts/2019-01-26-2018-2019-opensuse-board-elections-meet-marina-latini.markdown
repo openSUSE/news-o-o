@@ -59,7 +59,7 @@ Everything started around 2006 when a group of colleagues introduced me to Slack
 
 In the same group of friends, I also found a special one who shared with me twelve years of his life. After Slackware, the group was involved with Fedora, and we started to contribute actively as Fedora Ambassadors, organizing events in schools, university, and fairs.
 
-In the same period, around 2007, I started to contribute to [OpenOffice.org](http://www.openoffice.org/), mainly on localization and quality assurance.
+In the same period, around 2007, I started to contribute to [OpenOffice.org](//www.openoffice.org/), mainly on localization and quality assurance.
 
 My first encounter with openSUSE was in 2009, where I had the honour to organize the Software Freedom Day 2009 in Perugia together with our group, thanks to the introduction by Andrea Florio and Mariano Iumiento.
 

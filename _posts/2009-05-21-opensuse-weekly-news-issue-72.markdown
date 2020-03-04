@@ -11,7 +11,7 @@ categories:
 - Weekly News
 ---
 
-![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #72 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/72)!  
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #72 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/72)!  
   
 
 In this week’s issue:
@@ -31,4 +31,4 @@ In this week’s issue:
 
 
 For a list of available translations see this page:
-[http://en.opensuse.org/OpenSUSE_Weekly_News/72/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/72/Translations)
+[//en.opensuse.org/OpenSUSE_Weekly_News/72/Translations](//en.opensuse.org/OpenSUSE_Weekly_News/72/Translations)

@@ -11,8 +11,8 @@ categories:
 - Events
 ---
 
-The videos and slides of the openSUSE presentations at [FOSDEM](http://fosdem.org) are now online, and available at the [FOSDEM2008](http://opensuse.org/FOSDEM2008) wiki page. 
+The videos and slides of the openSUSE presentations at [FOSDEM](//fosdem.org) are now online, and available at the [FOSDEM2008](//opensuse.org/FOSDEM2008) wiki page. 
 
-They are also available on [Google video](http://video.google.co.uk/videosearch?q=FOSDEM2008&sitesearch=video.google.com) (lower quality).
+They are also available on [Google video](//video.google.co.uk/videosearch?q=FOSDEM2008&sitesearch=video.google.com) (lower quality).
 
-Huge thanks goes to [Thomas Schmidt](http://en.opensuse.org/User:Digitaltomm) and Juergen Weigert for making it all possible.
+Huge thanks goes to [Thomas Schmidt](//en.opensuse.org/User:Digitaltomm) and Juergen Weigert for making it all possible.

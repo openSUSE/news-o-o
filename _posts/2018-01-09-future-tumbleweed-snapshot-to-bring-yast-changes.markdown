@@ -41,7 +41,7 @@ tags:
 ### **![](/wp-content/uploads/2018/01/yast-logo.png)What you need to know about the new storage stack (storage-ng)**
 
 
-Changes to [YaST](http://yast.opensuse.org) are coming and people using [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) will be the first to experience these planned changes in a snapshot that is expected to be released soon.
+Changes to [YaST](//yast.opensuse.org) are coming and people using [openSUSE Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) will be the first to experience these planned changes in a snapshot that is expected to be released soon.
 
 Those following the [YaST Team blog](https://lizards.opensuse.org/author/yast-team/]) may have been read about the implementation changes expected for libstorage-ng, which have been discussed for nearly two years. Libstorage is the component used by YaST; specially used in the installer, the partitioner and AutoYaST to access disks, partitions, LVM volumes and more.
 

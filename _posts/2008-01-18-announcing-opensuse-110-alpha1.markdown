@@ -11,17 +11,17 @@ categories:
 - Distribution
 ---
 
-With the new year beginning we kick start major development into the next version of openSUSE: openSUSE 11.0 ([roadmap](http://en.opensuse.org/Roadmap)). A very early alpha version, Alpha 1, is now available for download and testing.
+With the new year beginning we kick start major development into the next version of openSUSE: openSUSE 11.0 ([roadmap](//en.opensuse.org/Roadmap)). A very early alpha version, Alpha 1, is now available for download and testing.
 
 
 
 [![openSUSE 11.0 Alpha 1 Installer](//news.opensuse.org/wp-content/uploads/2008/01/installer.jpg)](//news.opensuse.org/wp-content/uploads/2008/01/installer.jpg)
-More screenshots are available at [The Coding Studio](http://www.thecodingstudio.com/opensource/linux/screenshots/index.php?linux_distribution_sm=openSUSE%2011.0%20Alpha%201)
+More screenshots are available at [The Coding Studio](//www.thecodingstudio.com/opensource/linux/screenshots/index.php?linux_distribution_sm=openSUSE%2011.0%20Alpha%201)
 
   
 
 
-Despite many other products being developed in parallel to [Factory](http://opensuse.org/Factory), we have seen a heavy stream of development on it, so it is really worth a try if you have time for testing. Note, however, that it is not suitable for production systems.
+Despite many other products being developed in parallel to [Factory](//opensuse.org/Factory), we have seen a heavy stream of development on it, so it is really worth a try if you have time for testing. Note, however, that it is not suitable for production systems.
 
 
 
@@ -35,15 +35,15 @@ We have seen 1026 package check-ins since Alpha0 and countless bugs fixed. The m
 
 
 	
-  * [Sat Solver](http://en.opensuse.org/Libzypp/Sat_Solver) integration
+  * [Sat Solver](//en.opensuse.org/Libzypp/Sat_Solver) integration
 
 	
-    * Michael Schröder's "sat solver" library is now the default package solver for libzypp, so make sure you doublecheck the selected packages - there might be suprises ahead. Please note that we need test cases for things that look funny to you ([wiki link](http://en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F))
+    * Michael Schröder's "sat solver" library is now the default package solver for libzypp, so make sure you doublecheck the selected packages - there might be suprises ahead. Please note that we need test cases for things that look funny to you ([wiki link](//en.opensuse.org/Bugs/YaST#I_want_to_report_a_bug_related_to_package_dependencies_and_libzypp_solver._Which_logs_to_attach.3F))
 
 
 
 	
-  * Heavy [changes to the appearance of the Qt installation](http://www.kdedevelopers.org/node/3119) (ported to qt4)
+  * Heavy [changes to the appearance of the Qt installation](//www.kdedevelopers.org/node/3119) (ported to qt4)
 	
     * 
 Note that it's still in draft state and your feedback is welcome
@@ -119,6 +119,6 @@ Due to the huge amount of changes, there are also several noticeable bugs:
 
 
 
-Please refer to **[software.openSUSE.org/developer](http://software.opensuse.org/developer)** for direct links to all the available media.
+Please refer to **[software.openSUSE.org/developer](//software.opensuse.org/developer)** for direct links to all the available media.
 
 Have a lot of fun! In everyday language, we tend [https://writemyessay4me.org/](https://writemyessay4me.org/) to use irony as being synonymous with coincidentally

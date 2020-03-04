@@ -31,7 +31,7 @@ We'd also like to remind you that it is possible to support our event by purchas
   * North America, Latin America and Asian Pacific: [Supporter ticket](https://buy.suse.com/store/suse/en_US/buy/productID.264835100), [Professional ticket](https://buy.suse.com/store/suse/en_US/buy/productID.264935300).
 
 	
-  * Europe, Middle East and Africa: [Supporter ticket](http://shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352500) and [Professional ticket](http://shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352400).
+  * Europe, Middle East and Africa: [Supporter ticket](//shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352500) and [Professional ticket](//shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352400).
 
 
 As supporter or professional ticket holders you will receive a special thank you surprise upon check-in.
@@ -46,10 +46,10 @@ We've got a few things for you to keep an eye on when joining us.
 
 
 	
-    * As you might have seen in the [announcement of the schedule](//news.opensuse.org/?p=16204) yesterday, we're recording the main tracks of the event and there will also be plenty of people with camera's. This is a open and public event and while we try to respect your privacy as much as reasonable, we can not in any way guarantee that you won't get digitized and end up on the web. This does indeed mean that [Obama can see you](http://obamaischeckingyouremail.tumblr.com/). Sorry.
+    * As you might have seen in the [announcement of the schedule](//news.opensuse.org/?p=16204) yesterday, we're recording the main tracks of the event and there will also be plenty of people with camera's. This is a open and public event and while we try to respect your privacy as much as reasonable, we can not in any way guarantee that you won't get digitized and end up on the web. This does indeed mean that [Obama can see you](//obamaischeckingyouremail.tumblr.com/). Sorry.
 
 	
-    * Being in a public place does also mean you'll have to behave at your best. We'd like to remind you of our [Code of Conduct](https://en.opensuse.org/openSUSE:Conference_code_of_conduct). In short: "We, as a community, value and respect people of all stripes - genders, orientations, races, abilities, shapes and sizes - and _will not tolerate vilification, abuse or harassment in any form_." Note that this often requires you to be a tad more polite than you might be among friends at home: we're an international community and with that come additional opportunities for misunderstandings. Bonus is that being [smiling](http://www.scientificamerican.com/article.cfm?id=smile-it-could-make-you-happier) and [being nice](http://greatergood.berkeley.edu/article/item/kindness_makes_you_happy_and_happiness_makes_you_kind) makes you happy, so it is no wasted effort!
+    * Being in a public place does also mean you'll have to behave at your best. We'd like to remind you of our [Code of Conduct](https://en.opensuse.org/openSUSE:Conference_code_of_conduct). In short: "We, as a community, value and respect people of all stripes - genders, orientations, races, abilities, shapes and sizes - and _will not tolerate vilification, abuse or harassment in any form_." Note that this often requires you to be a tad more polite than you might be among friends at home: we're an international community and with that come additional opportunities for misunderstandings. Bonus is that being [smiling](//www.scientificamerican.com/article.cfm?id=smile-it-could-make-you-happier) and [being nice](//greatergood.berkeley.edu/article/item/kindness_makes_you_happy_and_happiness_makes_you_kind) makes you happy, so it is no wasted effort!
 
 
 

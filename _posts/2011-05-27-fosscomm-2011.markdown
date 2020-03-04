@@ -14,7 +14,7 @@ tags:
 - Greece
 ---
 
-[FOSSCOMM](http://patras.fosscomm.gr/) 2011 was held in Patras on the 7 to 8 May from Patras Linux User Group (PLUG) and the Department of Computer Engineering & Information Technology (Computer Laboratory / Computer Center), University of Patras. The conference was very interesting with several  additional speeches, several parallel events (booths from communities and projects, parallel talks, workshops) and live streaming.
+[FOSSCOMM](//patras.fosscomm.gr/) 2011 was held in Patras on the 7 to 8 May from Patras Linux User Group (PLUG) and the Department of Computer Engineering & Information Technology (Computer Laboratory / Computer Center), University of Patras. The conference was very interesting with several  additional speeches, several parallel events (booths from communities and projects, parallel talks, workshops) and live streaming.
 
 The Greek openSUSE community has united to present this two-day conference in Patras. There, we met people from other communities, discussed and promoted openSUSE and FOSS.
 
@@ -101,10 +101,10 @@ The community participated at the conference with the following presentations an
 
 [![](https://lh5.googleusercontent.com/-HOknuttVfIQ/TcaSzLg-NkI/AAAAAAAABQQ/PELdBfMoE2Y/s640/SAM_1146.JPG)](https://picasaweb.google.com/warlordfff/Fosscomm2011#5604328194271229506)The openSUSE community booth was one of the largest in the organization and except the dvds, posters,, flyers, cheat-sheets etc. we co-hosted the booth of the Greek community of Gnome, the Enlightenment Project and the amazing people of other communities who were there to assist and promote their favorite project and FOSS in general.
 
-[caption id="attachment_8962" align="alignleft" width="225" caption="Buttons"][![](/wp-content/uploads/2011/05/SAM_1101.png)](http://news.opensuse.org/2011/05/27/fosscomm-2011/sam_1101/)[/caption]On Saturday evening the openSUSE community had a Release party for the distribution of openSUSE 11.4 at the hotel where we resided. The party achieved its purpose because, apart from the cake we ate and the beer we drunk, we came closer to people from other communities such as the Ubuntu, Slackware, Gentoo, FreeBSD and OS-arena. At the end of the night Red Hat people visited our party, with whom we shared the same roof (hotel). :P
+[caption id="attachment_8962" align="alignleft" width="225" caption="Buttons"][![](/wp-content/uploads/2011/05/SAM_1101.png)](//news.opensuse.org/2011/05/27/fosscomm-2011/sam_1101/)[/caption]On Saturday evening the openSUSE community had a Release party for the distribution of openSUSE 11.4 at the hotel where we resided. The party achieved its purpose because, apart from the cake we ate and the beer we drunk, we came closer to people from other communities such as the Ubuntu, Slackware, Gentoo, FreeBSD and OS-arena. At the end of the night Red Hat people visited our party, with whom we shared the same roof (hotel). :P
 
 The workshop ended with a farewell message from the organizers of Fosscomm whom we thank for the wonderful organization even though the misfortunes of the second day which left us without power and wifi internet access for the most part.
 
-More photos can be found in our group on[ facebook](http://www.facebook.com/group.php?gid=153638841330360&ref=ts).
+More photos can be found in our group on[ facebook](//www.facebook.com/group.php?gid=153638841330360&ref=ts).
 
 _Article by Kostas Koudaras_

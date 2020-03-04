@@ -106,7 +106,7 @@ You must apply for a Schengen visa through the Dutch embassy or consulate in you
 
 If you are continuing to read this, you’re either liked the video, are interest in what else I have to write or plan on attending oSC15 and come from one of the above countries.
 
-If its the latter, you will need to apply for a visa. The application form for a Schengen visa can be downloaded [here](http://www.government.nl/files/documents-and-publications/forms/2013/02/22/schengen-visa-application-form/schengen-visa-application-form.pdf).
+If its the latter, you will need to apply for a visa. The application form for a Schengen visa can be downloaded [here](//www.government.nl/files/documents-and-publications/forms/2013/02/22/schengen-visa-application-form/schengen-visa-application-form.pdf).
 
 You should book a flight to Europe that arrive in the Netherlands because some countries might have different requirements for a transit visa.
 

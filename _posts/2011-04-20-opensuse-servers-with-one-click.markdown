@@ -17,7 +17,7 @@ tags:
 - services
 ---
 
-Everybody knows openSUSE offers a great desktop experience; but its also a perfect fit for servers!  Go download the [Installation DVD](http://software.opensuse.org/114/en) (or use one of the [manufactured DVD](http://en.opensuse.org/Buy_openSUSE)s) and we'll see how easy YaST makes it to setup a variety of specialized servers.
+Everybody knows openSUSE offers a great desktop experience; but its also a perfect fit for servers!  Go download the [Installation DVD](//software.opensuse.org/114/en) (or use one of the [manufactured DVD](//en.opensuse.org/Buy_openSUSE)s) and we'll see how easy YaST makes it to setup a variety of specialized servers.
 
 During the course of a normal installation, the opportunity to add servers is slightly hidden. The last step before an actual installation is the Installation Overview.  At this point, you can see a list of selected software patterns.  Either click the "Software" header, or click "Software..." on the "Change..." menu.  At this point, you will be presented with a list of available software patterns, including the Server Functions patterns: simply check off any servers you would like to install and click "OK" to return to your normal installation!
 

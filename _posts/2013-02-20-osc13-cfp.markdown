@@ -30,7 +30,7 @@ As in previous years registration and attendance of oSC13 is free of charge. But
   * North America, Latin America and Asian Pacific: [Supporter ticket](https://buy.suse.com/store/suse/en_US/buy/productID.264835100), [Professional ticket](https://buy.suse.com/store/suse/en_US/buy/productID.264935300).
 
 	
-  * Europe, Middle East and Africa: [Supporter ticket](http://shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352500) and [Professional ticket](http://shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352400).
+  * Europe, Middle East and Africa: [Supporter ticket](//shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352500) and [Professional ticket](//shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352400).
 
 
 As supporter or professional ticket holders you will receive a special thank you surprise upon check-in.
@@ -39,7 +39,7 @@ As supporter or professional ticket holders you will receive a special thank you
 ### Sponsoring oSC
 
 
-Are you looking to do more that buying a ticket? Sponsorship opportunities of oSC13 are available. If you think about sponsoring or (might) know a potential sponsor please see our [sponsorship brochure](http://conference.opensuse.org/files/oSC13_Sponsorship_Brochure.pdf).
+Are you looking to do more that buying a ticket? Sponsorship opportunities of oSC13 are available. If you think about sponsoring or (might) know a potential sponsor please see our [sponsorship brochure](//conference.opensuse.org/files/oSC13_Sponsorship_Brochure.pdf).
 
 
 ## Call for Papers
@@ -82,4 +82,4 @@ The **“Power to the Geeko”** motto of this year's conference connects us wit
 The Greek Philosophers were part of a revolution which changed the world. So are we, and thus, under the motto of **"Power to the Geeko"**, we will gather and work on our revolution. Lets get those gears spinning, submit your session proposals, register your attendance, help us find sponsors and make the next openSUSE conference an awesome event.
 
 
-# [http://conference.opensuse.org](http://conference.opensuse.org)
+# [//conference.opensuse.org](//conference.opensuse.org)

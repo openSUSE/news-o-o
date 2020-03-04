@@ -15,9 +15,9 @@ tags:
 - Election
 ---
 
-So the polls are closed now and all votes have been accounted for and confirmed valid, and we are now proud to announce the election results! The openSUSE project would like to welcome the [first community elected](http://en.opensuse.org/Board/Election/2008) board, and would like to thank all voters for taking the time to use their vote.
+So the polls are closed now and all votes have been accounted for and confirmed valid, and we are now proud to announce the election results! The openSUSE project would like to welcome the [first community elected](//en.opensuse.org/Board/Election/2008) board, and would like to thank all voters for taking the time to use their vote.
 
-The new [board members](http://en.opensuse.org/Board) are, from the Non-Novell side of the community Pascal Bleser and Bryen Yunashko and from the Novell side we have Henne Vogelsang and Federico Mena-Quintero. We are proud to announce that Michael Löffler has been appointed by Novell as chairman of the new board. Being the candidates with the most votes in their category, Pascal and Henne already agreed to serve the board for the next two years. Bryen and Federico have been elected for one next year, hence the next [election](http://en.opensuse.org/Board_Election) will take place about the same time next year.
+The new [board members](//en.opensuse.org/Board) are, from the Non-Novell side of the community Pascal Bleser and Bryen Yunashko and from the Novell side we have Henne Vogelsang and Federico Mena-Quintero. We are proud to announce that Michael Löffler has been appointed by Novell as chairman of the new board. Being the candidates with the most votes in their category, Pascal and Henne already agreed to serve the board for the next two years. Bryen and Federico have been elected for one next year, hence the next [election](//en.opensuse.org/Board_Election) will take place about the same time next year.
 
 The election committee would like to congratulate them on their election and wish them all the best in steering our fine community and project. We would also like to thank all of the candidates for their interest in serving on the board, and we're proud to have so many excellent candidates to choose from for the board.
 

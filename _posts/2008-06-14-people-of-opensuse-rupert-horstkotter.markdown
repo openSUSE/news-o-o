@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-This week the openSUSE Project [announced the launch of forums.opensuse.org](http://news.opensuse.org/2008/06/10/opensuse-launches-merged-forums/), a merger of the three largest openSUSE forums. Continuing the openSUSE Forums euphoria we present you the Project Manager - Rupert Horstkötter.
+This week the openSUSE Project [announced the launch of forums.opensuse.org](//news.opensuse.org/2008/06/10/opensuse-launches-merged-forums/), a merger of the three largest openSUSE forums. Continuing the openSUSE Forums euphoria we present you the Project Manager - Rupert Horstkötter.
 
 <!-- more -->
 
@@ -53,7 +53,7 @@ This week the openSUSE Project [announced the launch of forums.opensuse.org](htt
 <td >**Homepage: **
 </td>
 
-<td >[http://en.opensuse.org/User:Rhorstkoetter](http://en.opensuse.org/User:Rhorstkoetter)
+<td >[//en.opensuse.org/User:Rhorstkoetter](//en.opensuse.org/User:Rhorstkoetter)
 </td>
 
 <td >
@@ -126,7 +126,7 @@ This week the openSUSE Project [announced the launch of forums.opensuse.org](htt
 #### Please introduce yourself!
 
 
-I was born on the 10th of April 1981 in Stuttgart, Germany. Therefore I'm 27 years old right now. I'm currently living in Darmstadt, Germany and I'm studying business administration and electrical engineering at [Darmstadt University of Technology](http://www.tu-darmstadt.de). I've one younger sister, Elsa Laura, 22, who is also my best friend.
+I was born on the 10th of April 1981 in Stuttgart, Germany. Therefore I'm 27 years old right now. I'm currently living in Darmstadt, Germany and I'm studying business administration and electrical engineering at [Darmstadt University of Technology](//www.tu-darmstadt.de). I've one younger sister, Elsa Laura, 22, who is also my best friend.
 
 
 
@@ -162,7 +162,7 @@ I joined the openSUSE community during my internship (from November 2007 to Febr
 #### In what way do you participate in the openSUSE project?
 
 
-I'm the former project manager of the [openSUSE Forums](http://forums.opensuse.org) Project. I got started with that project in January 2008 as a Novell employee and continued working on this in community effort. I'm currently planning to implement a user-rating for the openSUSE community and I try to be useful for the openSUSE project wherever I can. Besides of that I'm hoping to be a moderator at forums.opensuse.org in the near future.
+I'm the former project manager of the [openSUSE Forums](//forums.opensuse.org) Project. I got started with that project in January 2008 as a Novell employee and continued working on this in community effort. I'm currently planning to implement a user-rating for the openSUSE community and I try to be useful for the openSUSE project wherever I can. Besides of that I'm hoping to be a moderator at forums.opensuse.org in the near future.
 
 
 
@@ -181,7 +181,7 @@ First of all, I think, the openSUSE distribution is definitely worth the effort.
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-Definitely the final launch of the [openSUSE Forums](http://forums.opensuse.org) - I hope you like it!
+Definitely the final launch of the [openSUSE Forums](//forums.opensuse.org) - I hope you like it!
 
 
 
@@ -190,7 +190,7 @@ Definitely the final launch of the [openSUSE Forums](http://forums.opensuse.org)
 #### When do you usually spend time on the openSUSE project?
 
 
-Mostly in the evenings, although my contribution as the former project manager of the [openSUSE Forums](http://forums.opensuse.org) Project was nearly a full-time job lately.
+Mostly in the evenings, although my contribution as the former project manager of the [openSUSE Forums](//forums.opensuse.org) Project was nearly a full-time job lately.
 
 
 
@@ -208,7 +208,7 @@ Green, great and a lot of fun!
 #### What do you think is missing or underrated in the distribution or the project?
 
 
-I always thought, the project is missing official forums - that's fixed now fortunately. Besides of that, I think, the marketing aspect was extremely underrated within the openSUSE project. openSUSE is by far the most innovative distribution out there, but nobody knows about it. The openSUSE developers invented great technologies (kickoff, gnome-main-menu, compiz, xgl, mono applications, yast is most likely the best system management tool available for Linux, the new zypper - the list is long), but the user statistics of Linux distributions do not reflect that. Ubuntu is far more popular and that's mainly due to their marketing effort IMHO, not because of their developments. Fortunately this got better and better lately - [openSUSE Spotlight](http://zonker.opensuse.org), [openSUSE News](http://news.opensuse.org) and [openSUSE Lizards](http://lizards.opensuse.org) are IMHO good developments in that context - Communication is, what it's all about.
+I always thought, the project is missing official forums - that's fixed now fortunately. Besides of that, I think, the marketing aspect was extremely underrated within the openSUSE project. openSUSE is by far the most innovative distribution out there, but nobody knows about it. The openSUSE developers invented great technologies (kickoff, gnome-main-menu, compiz, xgl, mono applications, yast is most likely the best system management tool available for Linux, the new zypper - the list is long), but the user statistics of Linux distributions do not reflect that. Ubuntu is far more popular and that's mainly due to their marketing effort IMHO, not because of their developments. Fortunately this got better and better lately - [openSUSE Spotlight](//zonker.opensuse.org), [openSUSE News](//news.opensuse.org) and [openSUSE Lizards](//lizards.opensuse.org) are IMHO good developments in that context - Communication is, what it's all about.
 
 
 
@@ -226,7 +226,7 @@ World domination, of course!
 #### A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?
 
 
-As I said before, openSUSE is the most innovative distribution out there, at least IMHO. It's well-designed, KDE as well as GNOME are smoothly integrated (the user has a real choice), openSUSE has a lot to offer for the basic as well as the advanced Linux user, it has a friendly community, it provides you the tools you need to contribute - just have a look how innovative the [openSUSE Build Service](http://build.opensuse.org) is, it offers a whole bunch of precompiled packages. Enough arguments for openSUSE?
+As I said before, openSUSE is the most innovative distribution out there, at least IMHO. It's well-designed, KDE as well as GNOME are smoothly integrated (the user has a real choice), openSUSE has a lot to offer for the basic as well as the advanced Linux user, it has a friendly community, it provides you the tools you need to contribute - just have a look how innovative the [openSUSE Build Service](//build.opensuse.org) is, it offers a whole bunch of precompiled packages. Enough arguments for openSUSE?
 
 
 
@@ -236,7 +236,7 @@ As I said before, openSUSE is the most innovative distribution out there, at lea
 
 
 
-During my internship at Novell's Nuremberg offices, I met most of the Novell employees, I guess. [Michael Loeffler](http://en.opensuse.org/User:Sprudel24) was, so to speak, my mentor at Novell - btw, thanks for all your patience! I met [Zonker](http://en.opensuse.org/User:Jbrockmeier) at FOSDEM and LinuxTag. From the external folks, [Pascal Bleser](http://en.opensuse.org/User:Pbleser), [Francis Giannaros](http://en.opensuse.org/User:Apokryphos) and [Christian Boltz](http://en.opensuse.org/User:Cboltz) so far.
+During my internship at Novell's Nuremberg offices, I met most of the Novell employees, I guess. [Michael Loeffler](//en.opensuse.org/User:Sprudel24) was, so to speak, my mentor at Novell - btw, thanks for all your patience! I met [Zonker](//en.opensuse.org/User:Jbrockmeier) at FOSDEM and LinuxTag. From the external folks, [Pascal Bleser](//en.opensuse.org/User:Pbleser), [Francis Giannaros](//en.opensuse.org/User:Apokryphos) and [Christian Boltz](//en.opensuse.org/User:Cboltz) so far.
 
 
 

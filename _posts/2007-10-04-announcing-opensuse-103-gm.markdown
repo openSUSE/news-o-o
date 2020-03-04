@@ -27,7 +27,7 @@ This version contains new beautiful green artwork, KDE 3.5.7 and parts of KDE 4,
 
 
 
-There are many visual changes throughout this release, and they are also well-presented in the [openSUSE 10.3 Screenshots](http://openSUSE.org/Screenshots/openSUSE_10.3) on the wiki.
+There are many visual changes throughout this release, and they are also well-presented in the [openSUSE 10.3 Screenshots](//openSUSE.org/Screenshots/openSUSE_10.3) on the wiki.
 
 
 ## Beautiful Green Artwork
@@ -39,14 +39,14 @@ This release, as always, will have a full, new collection of artwork, and for op
 [![103_cdboot.png](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103_cdboot.png) [![103bootsplash_thumb.png](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/103bootsplash.png) [![suse103-1600×1200.jpg](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/suse103-1600x1200.jpg)
 
 
-To see more openSUSE 10.3 artwork, see its respective [branding overview](http://en.opensuse.org/Branding_Overview:os10.3).
+To see more openSUSE 10.3 artwork, see its respective [branding overview](//en.opensuse.org/Branding_Overview:os10.3).
 
 
 
 ## KDE 3.5.7
 
 
-The default KDE desktop is the latest stable and SUSE-polished KDE 3.5.7, which comes complete with the usability-centric [Kickoff](http://opensuse.org/Kickoff) menu, [KNetworkManager](http://opensuse.org/KNetworkManager) and other such openSUSE creations. Kontact, the KDE Personal Information Manager, has also been upgraded to the _enterprise_ release, providing you with some new features and many fixes.
+The default KDE desktop is the latest stable and SUSE-polished KDE 3.5.7, which comes complete with the usability-centric [Kickoff](//opensuse.org/Kickoff) menu, [KNetworkManager](//opensuse.org/KNetworkManager) and other such openSUSE creations. Kontact, the KDE Personal Information Manager, has also been upgraded to the _enterprise_ release, providing you with some new features and many fixes.
 
 
 [![openSUSE 10.3 KDE Desktop](//news.opensuse.org/wp-content/uploads/2007/09/kde-desktop_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kde-desktop.png) [![Kontact Enterprise Version - Personal Information Manager](//news.opensuse.org/wp-content/uploads/2007/09/kontact1_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/kontact1.png)
@@ -87,7 +87,7 @@ The very latest GNOME 2.20 is also featured in this release, and it comes with i
 ## GTK YaST
 
 
-The [GTK version of YaST](http://en.opensuse.org/YaST2-GTK) is now default for all GNOME installations. This means that YaST will still have a well-integrated and consistent feel when using the GNOME desktop environment, and all the modules are structured in the same way as openSUSE's GNOME control panel. 
+The [GTK version of YaST](//en.opensuse.org/YaST2-GTK) is now default for all GNOME installations. This means that YaST will still have a well-integrated and consistent feel when using the GNOME desktop environment, and all the modules are structured in the same way as openSUSE's GNOME control panel. 
 
 
 [![GTK YaST](//news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/10/800px-gtk-yast.jpg)[![Bluetooth Module](//news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/10/gtk-yast-bluetooth.jpg)
@@ -106,7 +106,7 @@ This is a completely new and revolutionary piece of technology available to you 
 [![1-Click Install](//news.opensuse.org/wp-content/uploads/2007/10/1-click-install_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/10/1-click-install.png)
 
 
-It is already fully implemented in the [openSUSE Build Service](http://software.opensuse.org/search), and it is used for aiding you in acquiring multimedia codecs as is mentioned below.
+It is already fully implemented in the [openSUSE Build Service](//software.opensuse.org/search), and it is used for aiding you in acquiring multimedia codecs as is mentioned below.
 
 
 
@@ -120,7 +120,7 @@ The frequently-requested feature of MP3 support is now [fully available out-of-t
 
 
 
-The codecs will then be installed using 1-Click-Install. This same technology is also used on the Community website where it recommends workarounds and methods to get other multimedia formats working. See [openSUSE-Community.org/Multimedia](http://opensuse-community.org/Multimedia).
+The codecs will then be installed using 1-Click-Install. This same technology is also used on the Community website where it recommends workarounds and methods to get other multimedia formats working. See [openSUSE-Community.org/Multimedia](//opensuse-community.org/Multimedia).
 
 
 
@@ -129,9 +129,9 @@ The codecs will then be installed using 1-Click-Install. This same technology is
 
 The Network card module has also been completely re-designed from a usability perspective. The new version is more relevant to today's typical configuration of a network card, and makes simple tasks a lot easier to accomplish.
 
-One popular new module is the _Community Repositories_ module, which provides you with a convenient list of the official repositories, popular repositories in the [openSUSE Build Service](http://opensuse.org/Build_Service), and external community repositories. This makes it trivial to enable the extra repositories that you require.
+One popular new module is the _Community Repositories_ module, which provides you with a convenient list of the official repositories, popular repositories in the [openSUSE Build Service](//opensuse.org/Build_Service), and external community repositories. This makes it trivial to enable the extra repositories that you require.
 
-Another module available from the _yast2-product-creator_ package is a YaST front-end to [KIWI](http://opensuse.org/Build_Service/KIWI), a configurable and easy-to-use application to help you roll your very own system images. Though there are many additional plans for KIWI, it currently supports a huge selection of options, such as creating Live CDs, USB, QEMU/VMware, Xen and Net boot images. Unlike other typical system image creators, KIWI is _fully_ configurable (down to the wallpaper you want to have), and has a clean and simple design.
+Another module available from the _yast2-product-creator_ package is a YaST front-end to [KIWI](//opensuse.org/Build_Service/KIWI), a configurable and easy-to-use application to help you roll your very own system images. Though there are many additional plans for KIWI, it currently supports a huge selection of options, such as creating Live CDs, USB, QEMU/VMware, Xen and Net boot images. Unlike other typical system image creators, KIWI is _fully_ configurable (down to the wallpaper you want to have), and has a clean and simple design.
 
 
 [![network-card.png](//news.opensuse.org/wp-content/uploads/2007/10/network-card_thumb1.png)](//news.opensuse.org/wp-content/uploads/2007/09/network-card.png)[![Community Repositories](//news.opensuse.org/wp-content/uploads/2007/10/community-repos2_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/community-repos2.png)[![YaST2 KIWI](//news.opensuse.org/wp-content/uploads/2007/10/yast2-kiwi_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/yast2-kiwi.png)
@@ -142,20 +142,20 @@ Another module available from the _yast2-product-creator_ package is a YaST fron
 ## Compiz and Compiz Fusion
 
 
-Compiz, as always, is available directly on all the installation CDs/DVDs, and [Compiz Fusion](http://opensuse.org/Compiz_Fusion) is also available in the official online repository. The new version comes with many new amazing plugins providing you with the latest composite effects.
+Compiz, as always, is available directly on all the installation CDs/DVDs, and [Compiz Fusion](//opensuse.org/Compiz_Fusion) is also available in the official online repository. The new version comes with many new amazing plugins providing you with the latest composite effects.
 
 
 [![Expo Plugin](//news.opensuse.org/wp-content/uploads/2007/10/expo_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/08/expo.png)[![Explode Animation](//news.opensuse.org/wp-content/uploads/2007/10/animation-explode_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/08/animation-explode.png)[![Shift Switcher](//news.opensuse.org/wp-content/uploads/2007/10/shift-switcher_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/08/shift-switcher.png)
 
 
-To learn more see [this sneak peaks article](//news.opensuse.org/?p=167). The [X11:/XGL](http://download.opensuse.org/repositories/X11:/XGL) openSUSE Build Service repository also always provides the latest Compiz and Compiz Fusion versions.
+To learn more see [this sneak peaks article](//news.opensuse.org/?p=167). The [X11:/XGL](//download.opensuse.org/repositories/X11:/XGL) openSUSE Build Service repository also always provides the latest Compiz and Compiz Fusion versions.
 
 
 
 ## Virtualisation 
 
 
-There have been several [Virtualisation improvements and additions](//news.opensuse.org/?p=371), including of course an excellent delivery of the latest [Xen](http://en.opensuse.org/Xen) 3.1 and QEMU. Furthermore, VirtualBox, a general-purpose full virtualizer, and KVM, the latest Linux virtualisation infrastructure, are now included. Other VMware-related kernel options such as _paravirt-ops_ and _vmi_ have also been enabled in the kernel now.
+There have been several [Virtualisation improvements and additions](//news.opensuse.org/?p=371), including of course an excellent delivery of the latest [Xen](//en.opensuse.org/Xen) 3.1 and QEMU. Furthermore, VirtualBox, a general-purpose full virtualizer, and KVM, the latest Linux virtualisation infrastructure, are now included. Other VMware-related kernel options such as _paravirt-ops_ and _vmi_ have also been enabled in the kernel now.
 
 
 [![VirtualBox running openSUSE 10.3 KDE](//news.opensuse.org/wp-content/uploads/2007/10/virtualbox_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/virtualbox.png)[![openSUSE 10.3 in Xen](//news.opensuse.org/wp-content/uploads/2007/09/xen-103_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/xen-103.png)
@@ -178,7 +178,7 @@ OpenOffice.org, the comprehensive office suite in openSUSE, has also been update
 ## A Whole Lot More!
 
 
-openSUSE 10.3 contains a [plethora of extra improvements](//news.opensuse.org/?p=341) that haven't been mentioned here, including small applications like _Giver_, an easy file-sharing tool, Xfce 4.4.1, and other community developments. See [Product Highlights/10.3](http://en.opensuse.org/Product_Highlights/10.3) for more details.
+openSUSE 10.3 contains a [plethora of extra improvements](//news.opensuse.org/?p=341) that haven't been mentioned here, including small applications like _Giver_, an easy file-sharing tool, Xfce 4.4.1, and other community developments. See [Product Highlights/10.3](//en.opensuse.org/Product_Highlights/10.3) for more details.
 
 
 [![Xfce in openSUSE 10.3](//news.opensuse.org/wp-content/uploads/2007/10/xfce_thumb.png)](//news.opensuse.org/wp-content/uploads/2007/09/xfce.png)
@@ -241,29 +241,29 @@ A big round of [improvements to the boot time](//news.opensuse.org/?p=104) are n
 
 
 
-[![CDs and DVDs](//news.opensuse.org/wp-content/uploads/2007/10/cd.png)](http://download.opensuse.org)
-All of the installation media can be downloaded from [**software.openSUSE.org**](http://software.opensuse.org) via torrents or HTTP/FTP. Here's a few quick links:
+[![CDs and DVDs](//news.opensuse.org/wp-content/uploads/2007/10/cd.png)](//download.opensuse.org)
+All of the installation media can be downloaded from [**software.openSUSE.org**](//software.opensuse.org) via torrents or HTTP/FTP. Here's a few quick links:
 
 
 
 	
-  * **1 DVD **containing OSS and NonOSS software (torrents for: [i386](http://download.opensuse.org/distribution/10.3/iso/torrent/openSUSE-10.3-GM-DVD-i386.torrent), [x86_64](http://download.opensuse.org/distribution/10.3/iso/torrent/openSUSE-10.3-GM-DVD-x86_64.torrent), [ppc](http://download.opensuse.org/distribution/10.3/iso/torrent/openSUSE-10.3-GM-DVD-ppc.torrent)). Languages supported: English, Portuguese, French, Italian, Spanish, German, Chinese (Simpl. & Trad.), Japanese, Russian, Czech, Hungarian, Polish, Finnish, Danish, Swedish, Dutch
+  * **1 DVD **containing OSS and NonOSS software (torrents for: [i386](//download.opensuse.org/distribution/10.3/iso/torrent/openSUSE-10.3-GM-DVD-i386.torrent), [x86_64](//download.opensuse.org/distribution/10.3/iso/torrent/openSUSE-10.3-GM-DVD-x86_64.torrent), [ppc](//download.opensuse.org/distribution/10.3/iso/torrent/openSUSE-10.3-GM-DVD-ppc.torrent)). Languages supported: English, Portuguese, French, Italian, Spanish, German, Chinese (Simpl. & Trad.), Japanese, Russian, Czech, Hungarian, Polish, Finnish, Danish, Swedish, Dutch
 
 	
-  * **1 CD with a default KDE installation** ([i386](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-KDE-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-KDE-x86_64.iso), not for ppc, English only)
+  * **1 CD with a default KDE installation** ([i386](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-KDE-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-KDE-x86_64.iso), not for ppc, English only)
 
 	
-  * **1 CD with a default GNOME installation** ([i386](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-GNOME-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-GNOME-x86_64.iso), not for ppc, English only)
+  * **1 CD with a default GNOME installation** ([i386](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-GNOME-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-GNOME-x86_64.iso), not for ppc, English only)
 
 	
-  * 1 AddOn CD with only NonOSS packages ([i386 or x86_64](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-NonOss-BiArch.iso), [ppc](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-NonOss-ppc.iso))
+  * 1 AddOn CD with only NonOSS packages ([i386 or x86_64](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-NonOss-BiArch.iso), [ppc](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-NonOss-ppc.iso))
 
 	
-  * 1 AddOn CD with language packages that are used for extra languages ([i386](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-Lang-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-Lang-x86_64.iso), [ppc](http://download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-Lang-ppc.iso), only to be used with DVDs!)
+  * 1 AddOn CD with language packages that are used for extra languages ([i386](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-Lang-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-Lang-x86_64.iso), [ppc](//download.opensuse.org/distribution/10.3/iso/cd/openSUSE-10.3-GM-Addon-Lang-ppc.iso), only to be used with DVDs!)
 
 
 
-Live CDs will be released in the next couple of weeks. [Metalinks](http://opensuse.org/Metalinks) with checksum support are also available from [download.packages.ro](http://download.packages.ro/metalink/opensuse/). 
+Live CDs will be released in the next couple of weeks. [Metalinks](//opensuse.org/Metalinks) with checksum support are also available from [download.packages.ro](//download.packages.ro/metalink/opensuse/). 
 
 
 ## Upgrade Options
@@ -272,9 +272,9 @@ Live CDs will be released in the next couple of weeks. [Metalinks](http://opensu
 ![Upgrade](//news.opensuse.org/wp-content/uploads/2007/10/upgrade.png)
 As always, you can fully upgrade your previous openSUSE 10.2 to the final version of openSUSE 10.3 by simply downloading one of the media options and burning it to disk, boot to it, and then select the _Upgrade_ option in the installer. For the smoothest possible upgrade, leave the _"Add Online Repositories Before Installation"_ option checked. 
 
-To upgrade from openSUSE 10.3 RC1, please ensure that you have strictly only the **10.3 repositories ([oss](http://download.opensuse.org/repositories/openSUSE:10.3/standard/), [non-oss](http://download.opensuse.org/distribution/10.3/repo/non-oss/); not the _factory_ ones)**, in YaST -> Software Repositories; if you do not, remove the factory ones and then add the 10.3 ones again from the _Community Repositories_ YaST module. Once that is done, go to _Software Management_, and in the menu select _Package -> All Packages -> Update if Newer Version Available_.
+To upgrade from openSUSE 10.3 RC1, please ensure that you have strictly only the **10.3 repositories ([oss](//download.opensuse.org/repositories/openSUSE:10.3/standard/), [non-oss](//download.opensuse.org/distribution/10.3/repo/non-oss/); not the _factory_ ones)**, in YaST -> Software Repositories; if you do not, remove the factory ones and then add the 10.3 ones again from the _Community Repositories_ YaST module. Once that is done, go to _Software Management_, and in the menu select _Package -> All Packages -> Update if Newer Version Available_.
 
-Alternatively, with [Zypper](http://opensuse.org/Zypper) you can execute the following command to upgrade all packages (again, first check that you have the 10.3 repositories and not the factory ones):
+Alternatively, with [Zypper](//opensuse.org/Zypper) you can execute the following command to upgrade all packages (again, first check that you have the 10.3 repositories and not the factory ones):
 
 `zypper update -t package`
 
@@ -286,8 +286,8 @@ Alternatively, with [Zypper](http://opensuse.org/Zypper) you can execute the fol
 
 
 
-[![Communicate](//news.opensuse.org/wp-content/uploads/2007/10/communicate.png)](http://opensuse.org/Communicate)
-We want to hear from you! To get help, provide any feedback, ask questions, or get involved and help contribute to the openSUSE distribution, please [communicate](http://opensuse.org/Communicate). There are several ways to get in touch with the openSUSE community, including:
+[![Communicate](//news.opensuse.org/wp-content/uploads/2007/10/communicate.png)](//opensuse.org/Communicate)
+We want to hear from you! To get help, provide any feedback, ask questions, or get involved and help contribute to the openSUSE distribution, please [communicate](//opensuse.org/Communicate). There are several ways to get in touch with the openSUSE community, including:
 
 
 
@@ -295,14 +295,14 @@ We want to hear from you! To get help, provide any feedback, ask questions, or g
   * **IRC:** [#opensuse](irc://irc.freenode.net/opensuse) on _irc.freenode.net_
 
 	
-  * **Discussion Forums:** take a look at [openSUSE.org/Communicate/Forums](http://opensuse.org/Communicate/Forums)
+  * **Discussion Forums:** take a look at [openSUSE.org/Communicate/Forums](//opensuse.org/Communicate/Forums)
 
 
 	
-  * **Mailing Lists**: in particular, the [opensuse@opensuse.org](http://lists.opensuse.org/opensuse) ([subscribe](mailto:opensuse+subscribe@opensuse.org)) is available for all support questions. For additional help with subscribing, [check here](http://en.opensuse.org/Mailinglists)
+  * **Mailing Lists**: in particular, the [opensuse@opensuse.org](//lists.opensuse.org/opensuse) ([subscribe](mailto:opensuse+subscribe@opensuse.org)) is available for all support questions. For additional help with subscribing, [check here](//en.opensuse.org/Mailinglists)
 
 	
-  * For other ways such as Jabber and Usenet, see the [Communicate](http://opensuse.org/Communicate) page.
+  * For other ways such as Jabber and Usenet, see the [Communicate](//opensuse.org/Communicate) page.
 
 
 

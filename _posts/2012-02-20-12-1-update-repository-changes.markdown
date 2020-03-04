@@ -16,7 +16,7 @@ tags:
 - Updates
 ---
 
-Teams from the [openSUSE Buildservice](http://en.opensuse.org/openSUSE:Build_Service_team) and [openSUSE Maintenance](http://en.opensuse.org/openSUSE:Maintenance_team) worked together since weeks now to integrate openSUSE distribution maintenance support into the Buildservice on [build.opensuse.org](http://build.opensuse.org/).
+Teams from the [openSUSE Buildservice](//en.opensuse.org/openSUSE:Build_Service_team) and [openSUSE Maintenance](//en.opensuse.org/openSUSE:Maintenance_team) worked together since weeks now to integrate openSUSE distribution maintenance support into the Buildservice on [build.opensuse.org](//build.opensuse.org/).
 
 There were a lot of changes and a lot of places had to be adapted, but finally they got it working: maintenance updates for openSUSE 12.1 are now handled inside the openSUSE Buildservice without further need of SUSE internal scripts (well: we still will have some of them running as backup for a while now).
 

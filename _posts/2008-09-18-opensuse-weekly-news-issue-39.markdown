@@ -11,7 +11,7 @@ categories:
 - Weekly News
 ---
 
-![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #39 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/39)!  
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #39 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/39)!  
 In this week’s issue:
 
 

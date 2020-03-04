@@ -13,7 +13,7 @@ categories:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png)
 
-Issue #22 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/22)!
+Issue #22 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/22)!
 
 In this week’s issue:
 

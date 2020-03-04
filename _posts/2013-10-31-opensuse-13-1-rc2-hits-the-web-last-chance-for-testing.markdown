@@ -13,7 +13,7 @@ categories:
 ---
 
 [![RC2 is coming](//news.opensuse.org/wp-content/uploads/2013/10/RC2-is-coming.jpg)](//news.opensuse.org/wp-content/uploads/2013/10/RC2-is-coming.jpg)
-The [openSUSE 13.1](http://en.opensuse.org/Portal:13.1) release is getting very close - just a little over two weeks, according to the [Roadmap](https://en.opensuse.org/openSUSE:Roadmap). Today, Release Candidate 2 is available on [software.opensuse.org](http://software.opensuse.org/developer). Grab one of the images and help us test!
+The [openSUSE 13.1](//en.opensuse.org/Portal:13.1) release is getting very close - just a little over two weeks, according to the [Roadmap](https://en.opensuse.org/openSUSE:Roadmap). Today, Release Candidate 2 is available on [software.opensuse.org](//software.opensuse.org/developer). Grab one of the images and help us test!
 
 
 ## What's new

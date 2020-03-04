@@ -27,7 +27,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 
 
 
-[![](http://en.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](http://en.opensuse.org/File:Opensuse_weekly_news_banner.png)
+[![](//en.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](//en.opensuse.org/File:Opensuse_weekly_news_banner.png)
 
 
 
@@ -46,19 +46,19 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 
 
 
-  * [ We’re a happy family – The Boosters are hiring!](http://news.opensuse.org/?p=4032#We.E2.80.99re_a_happy_family_.E2.80.93_The_Boosters_are_hiring.21)
+  * [ We’re a happy family – The Boosters are hiring!](//news.opensuse.org/?p=4032#We.E2.80.99re_a_happy_family_.E2.80.93_The_Boosters_are_hiring.21)
 
 
-  * [ Miguel de Icaza: MonoTools 2 for VisualStudio has been released](http://news.opensuse.org/?p=4032#Miguel_de_Icaza:_MonoTools_2_for_VisualStudio_has_been_released)
+  * [ Miguel de Icaza: MonoTools 2 for VisualStudio has been released](//news.opensuse.org/?p=4032#Miguel_de_Icaza:_MonoTools_2_for_VisualStudio_has_been_released)
 
 
-  * [ Jos Poortvliet: Just started...](http://news.opensuse.org/?p=4032#Jos_Poortvliet:_Just_started...)
+  * [ Jos Poortvliet: Just started...](//news.opensuse.org/?p=4032#Jos_Poortvliet:_Just_started...)
 
 
-  * [ h-online/Thorsten Leemhuis: What's new in Linux 2.6.35](http://news.opensuse.org/?p=4032#h-online.2FThorsten_Leemhuis:_What.27s_new_in_Linux_2.6.35)
+  * [ h-online/Thorsten Leemhuis: What's new in Linux 2.6.35](//news.opensuse.org/?p=4032#h-online.2FThorsten_Leemhuis:_What.27s_new_in_Linux_2.6.35)
 
 
-  * [ KDE strategy for openSUSE](http://news.opensuse.org/?p=4032#Jos_Poortvliet:_KDE_strategy_for_openSUSE)
+  * [ KDE strategy for openSUSE](//news.opensuse.org/?p=4032#Jos_Poortvliet:_KDE_strategy_for_openSUSE)
 
 
 
@@ -79,46 +79,46 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 
 
 
-  * [ Announcements](http://news.opensuse.org/?p=4032#Announcements)
+  * [ Announcements](//news.opensuse.org/?p=4032#Announcements)
 
 
-  * [ Status Updates](http://news.opensuse.org/?p=4032#Status_Updates)
+  * [ Status Updates](//news.opensuse.org/?p=4032#Status_Updates)
 
 
-  * [ Team Reports](http://news.opensuse.org/?p=4032#Team_Reports)
+  * [ Team Reports](//news.opensuse.org/?p=4032#Team_Reports)
 
 
-  * [ In the Community](http://news.opensuse.org/?p=4032#In_the_Community)
+  * [ In the Community](//news.opensuse.org/?p=4032#In_the_Community)
 
 
-  * [ New Applications](http://news.opensuse.org/?p=4032#New.2FUpdated_Applications_.40_openSUSE)
+  * [ New Applications](//news.opensuse.org/?p=4032#New.2FUpdated_Applications_.40_openSUSE)
 
 
-  * [ Security Updates](http://news.opensuse.org/?p=4032#Security_Updates)
+  * [ Security Updates](//news.opensuse.org/?p=4032#Security_Updates)
 
 
-  * [ Kernel Review](http://news.opensuse.org/?p=4032#Kernel_Review)
+  * [ Kernel Review](//news.opensuse.org/?p=4032#Kernel_Review)
 
 
-  * [ Tips and Tricks](http://news.opensuse.org/?p=4032#Tips_and_Tricks)
+  * [ Tips and Tricks](//news.opensuse.org/?p=4032#Tips_and_Tricks)
 
 
-  * [ Planet SUSE](http://news.opensuse.org/?p=4032#Planet_SUSE)
+  * [ Planet SUSE](//news.opensuse.org/?p=4032#Planet_SUSE)
 
 
-  * [ openSUSE Forums](http://news.opensuse.org/?p=4032#openSUSE_Forums)
+  * [ openSUSE Forums](//news.opensuse.org/?p=4032#openSUSE_Forums)
 
 
-  * [ On the Web](http://news.opensuse.org/?p=4032#On_the_Web)
+  * [ On the Web](//news.opensuse.org/?p=4032#On_the_Web)
 
 
-  * [ Contact us](http://news.opensuse.org/?p=4032#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [ Contact us](//news.opensuse.org/?p=4032#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 
-  * [ Credits](http://news.opensuse.org/?p=4032#Credits)
+  * [ Credits](//news.opensuse.org/?p=4032#Credits)
 
 
-  * [ Translations](http://news.opensuse.org/?p=4032#Translations)
+  * [ Translations](//news.opensuse.org/?p=4032#Translations)
 
 
 
@@ -293,25 +293,25 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/9/98/Marketing.png)](http://en.opensuse.org/File:Marketing.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/9/98/Marketing.png)](//en.opensuse.org/File:Marketing.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [We’re a happy family – The Boosters are hiring!](http://news.opensuse.org/2010/08/05/were-a-happy-family-the-boosters-are-hiring/)
+####  [We’re a happy family – The Boosters are hiring!](//news.opensuse.org/2010/08/05/were-a-happy-family-the-boosters-are-hiring/)
 
 
 "The openSUSE Boosters are a team of people helping developers of the openSUSE project to take off. It consists of people with skills ranging from low level C hackery over Ruby on Rails mastering to graphical design or project management. The team picks milestones and works on them in a agile fashion. They always follow their mantra: Grow community by enabling community"  
 
 
-####  [SUSE Studio: Build openSUSE 11.3 appliances now](http://blog.susestudio.com/2010/08/build-opensuse-113-appliances-now.html)
+####  [SUSE Studio: Build openSUSE 11.3 appliances now](//blog.susestudio.com/2010/08/build-opensuse-113-appliances-now.html)
 
 
 "It took us a bit longer than expected, but now we are happy to announce, that SUSE Studio now also supports building appliances based on openSUSE 11.3. So you can take advantage of the latest and greatest features, which come with this release of openSUSE. We will continue to support building existing appliances on older openSUSE versions, but new openSUSE based appliances will all be 11.3."  
 
 
-####  [Klaas Freitag: Status openFATE Milestone](http://lizards.opensuse.org/2010/08/06/status-openfate-milestone/)
+####  [Klaas Freitag: Status openFATE Milestone](//lizards.opensuse.org/2010/08/06/status-openfate-milestone/)
 
 
 "Recently Henne Greenrock sent a status report about the Boosters Standup-Meeting here he said that nothing happened to the openFATE sprint. Well, that’s only partly true, so it seems to be time to take a closer look and revitalize the project openFATE a bit.  What’s the matter with openFATE?  We did a good start with openFATE to involve everybody who is interested into product planning. However, after the screening team was formed it turned out that some parts of the process are not yet working well. The biggest problem is still that the screening team members can not move features from state UNCONFIRMED to NEW which turned out to be crucial for a fluent process. So the Boosters picked up the task since we think this is a huge blocker to work together as a community effectivly." 
@@ -353,7 +353,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](http://en.opensuse.org/File:Suse_Box.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//en.opensuse.org/File:Suse_Box.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -361,7 +361,7 @@ We are pleased to announce our new openSUSE Weekly News, Issue 135.
 
 
 
-####  [Schedules for the next Week](http://www.suse.de/%7Ecoolo/opensuse_11.4/)
+####  [Schedules for the next Week](//www.suse.de/%7Ecoolo/opensuse_11.4/)
 
 
 Thu, 12 Aug 2010: openSUSE 11.4 Milestone 1 release  * Milestone: snapshot release without agenda. We release it once we have several new key components in.  
@@ -373,67 +373,67 @@ Thu, 12 Aug 2010: openSUSE 11.4 Milestone 1 release  * Milestone: snapshot relea
 
 
 
-#####  [NetworkManager: Several bugs are fixed by this update](http://lists.opensuse.org/opensuse-updates/2010-08/msg00002.html)
+#####  [NetworkManager: Several bugs are fixed by this update](//lists.opensuse.org/opensuse-updates/2010-08/msg00002.html)
 
 
 
 
 
-#####  [mkinitrd: Collective update for mkinitrd](http://lists.opensuse.org/opensuse-updates/2010-08/msg00003.html)
+#####  [mkinitrd: Collective update for mkinitrd](//lists.opensuse.org/opensuse-updates/2010-08/msg00003.html)
 
 
 
 
 
-#####  [usb_modeswitch: version upgrade to support more devices](http://lists.opensuse.org/opensuse-updates/2010-08/msg00007.html)
+#####  [usb_modeswitch: version upgrade to support more devices](//lists.opensuse.org/opensuse-updates/2010-08/msg00007.html)
 
 
 
 
 
-#####  [bind: Fixed a bug in named chrooting](http://lists.opensuse.org/opensuse-updates/2010-08/msg00008.html)
+#####  [bind: Fixed a bug in named chrooting](//lists.opensuse.org/opensuse-updates/2010-08/msg00008.html)
 
 
 
 
 
-#####  [perl: This update fixes a crash caused by the use of constants.](http://lists.opensuse.org/opensuse-updates/2010-08/msg00009.html)
+#####  [perl: This update fixes a crash caused by the use of constants.](//lists.opensuse.org/opensuse-updates/2010-08/msg00009.html)
 
 
 
 
 
-#####  [xemacs-packages: Xemacs fails to load customization files. Fixed by this update.](http://lists.opensuse.org/opensuse-updates/2010-08/msg00010.html)
+#####  [xemacs-packages: Xemacs fails to load customization files. Fixed by this update.](//lists.opensuse.org/opensuse-updates/2010-08/msg00010.html)
 
 
 
 
 
-#####  [mrtg: The execution of mrtg ends in a parse error when perl 5.12 is used. Fixed by this update.](http://lists.opensuse.org/opensuse-updates/2010-08/msg00011.html)
+#####  [mrtg: The execution of mrtg ends in a parse error when perl 5.12 is used. Fixed by this update.](//lists.opensuse.org/opensuse-updates/2010-08/msg00011.html)
 
 
 
 
 
-#####  [pam_mount: Fix segfault when executed from sshd](http://lists.opensuse.org/opensuse-updates/2010-08/msg00012.html)
+#####  [pam_mount: Fix segfault when executed from sshd](//lists.opensuse.org/opensuse-updates/2010-08/msg00012.html)
 
 
 
 
 
-#####  [ethtool: Add option to modify GRO setting](http://lists.opensuse.org/opensuse-updates/2010-08/msg00013.html)
+#####  [ethtool: Add option to modify GRO setting](//lists.opensuse.org/opensuse-updates/2010-08/msg00013.html)
 
 
 
 
 
-#####  [libjpeg8: Recommend to old libjpeg version to fix 3rd party applications](http://lists.opensuse.org/opensuse-updates/2010-08/msg00014.html)
+#####  [libjpeg8: Recommend to old libjpeg version to fix 3rd party applications](//lists.opensuse.org/opensuse-updates/2010-08/msg00014.html)
 
 
 
 
 
-#####  [iputils: Fix arping](http://lists.opensuse.org/opensuse-updates/2010-08/msg00015.html)
+#####  [iputils: Fix arping](//lists.opensuse.org/opensuse-updates/2010-08/msg00015.html)
 
 
 
@@ -479,10 +479,10 @@ The numbers for all openSUSE project products are this week:
   * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=)
 
 
-  * [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
 
-  * [Bug Reporting FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+  * [Bug Reporting FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 </td>
@@ -518,22 +518,22 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](http://en.opensuse.org/File:OWN-oxygen-Build-Service.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](//en.opensuse.org/File:OWN-oxygen-Build-Service.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Build Team Meeting](http://lists.opensuse.org/opensuse-buildservice/2010-08/msg00012.html)
+####  [Build Team Meeting](//lists.opensuse.org/opensuse-buildservice/2010-08/msg00012.html)
 
 
 "Meeting Minutes"  
 
 
-####  [OBS 2.0.5 released](http://lists.opensuse.org/opensuse-buildservice/2010-08/msg00023.html)
+####  [OBS 2.0.5 released](//lists.opensuse.org/opensuse-buildservice/2010-08/msg00023.html)
 
 
-"OBS 2.0.5 is on the way to [http://download.opensuse.org/repositories/openSUSE:Tools/](http://download.opensuse.org/repositories/openSUSE:Tools/)"  
+"OBS 2.0.5 is on the way to [//download.opensuse.org/repositories/openSUSE:Tools/](//download.opensuse.org/repositories/openSUSE:Tools/)"  
 
 
 ####  Build Service Statistics
@@ -577,7 +577,7 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/8/82/GNOME-foot.jpg/48px-GNOME-foot.jpg)](http://en.opensuse.org/File:GNOME-foot.jpg)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/8/82/GNOME-foot.jpg/48px-GNOME-foot.jpg)](//en.opensuse.org/File:GNOME-foot.jpg)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -585,7 +585,7 @@ The numbers for all openSUSE project products are this week:
 
 
 
-####  [Aaron Bockover: Banshee, GNOME,](http://abock.org/2010/08/02/banshee-gnome-amazon-mp3)
+####  [Aaron Bockover: Banshee, GNOME,](//abock.org/2010/08/02/banshee-gnome-amazon-mp3)
 
 
 "During Gabriel's talk at GUADEC, after working with members of the GNOME Foundation board, we were very excited to announce that the Amazon MP3 Store in Banshee would begin using an Amazon Affiliate ID, and that 100% of all revenue generated through this affiliate ID will go to the GNOME Foundation! 
@@ -622,7 +622,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](http://en.opensuse.org/File:Mono_project_logo.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](//en.opensuse.org/File:Mono_project_logo.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -630,13 +630,13 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 
 
 
-####  [Miguel de Icaza: MonoTools 2 for VisualStudio has been released](http://tirania.org/blog/archive/2010/Aug-03.html)
+####  [Miguel de Icaza: MonoTools 2 for VisualStudio has been released](//tirania.org/blog/archive/2010/Aug-03.html)
 
 
 "We just released Mono Tools for Visual Studio. There are four main features in MonoTools 2:  * Soft debugger support.  * Faster transfer of your program to the deployment system.  * Support for Visual Studio 2010 in addition to 2008.  * Polish, polish and more polish."  
 
 
-####  [Lluis Sanchez: Comunity add-in repository for MonoDevelop](http://foodformonkeys.blogspot.com/2010/08/comunity-add-in-repository-for.html)
+####  [Lluis Sanchez: Comunity add-in repository for MonoDevelop](//foodformonkeys.blogspot.com/2010/08/comunity-add-in-repository-for.html)
 
 
 "Yesterday I published a beta version of what is going to be a Community add-in repository for MonoDevelop. This web site is based on the Cydin project, developed during the last hack-week at Novell." 
@@ -667,7 +667,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](http://en.opensuse.org/File:Logo-fate.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](//en.opensuse.org/File:Logo-fate.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -696,13 +696,13 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 ####  [#310271: FreeRDP](https://features.opensuse.org/310271)
 
 
-"FreeRDP is a fork of the rdesktop project that intends to rapidly start moving forward and implement features that rdesktop lacks the most. [www.freerdp.com](http://www.freerdp.com/)"  
+"FreeRDP is a fork of the rdesktop project that intends to rapidly start moving forward and implement features that rdesktop lacks the most. [www.freerdp.com](//www.freerdp.com/)"  
 
 
 ####  [#310278: yast: translate runlevel script descriptions](https://features.opensuse.org/310278)
 
 
-"The following picture taken from [openSUSE reference](http://www.novell.com/de-de/documentation/opensuse112/book_opensuse_reference/?page=/de-de/documentation/opensuse112/book_opensuse_reference/data/book_opensuse_reference.html) shows the problem: [The interface is in German but the descriptions are in English](http://www.novell.com/de-de/documentation/opensuse112/book_opensuse_reference/graphics/yast2_runlevel.png). The descriptions should be translated to the language of the GUI."  
+"The following picture taken from [openSUSE reference](//www.novell.com/de-de/documentation/opensuse112/book_opensuse_reference/?page=/de-de/documentation/opensuse112/book_opensuse_reference/data/book_opensuse_reference.html) shows the problem: [The interface is in German but the descriptions are in English](//www.novell.com/de-de/documentation/opensuse112/book_opensuse_reference/graphics/yast2_runlevel.png). The descriptions should be translated to the language of the GUI."  
 
 
 ####  [#310279: Encryption - Installer needs more information and options](https://features.opensuse.org/310279)
@@ -756,7 +756,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 ####  [#310300: Create sensible start pages for browsers](https://features.opensuse.org/310300)
 
 
-"The current start page for browsers is [http://www.opensuse.org/](http://www.opensuse.org/).  In my opinion the current content is not useful as a startpage which is kept by people. (...)"  
+"The current start page for browsers is [//www.opensuse.org/](//www.opensuse.org/).  In my opinion the current content is not useful as a startpage which is kept by people. (...)"  
 
 
 ####  Statistics
@@ -794,7 +794,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 
 
 
-[More information on openFATE](http://en.opensuse.org/openSUSE:Openfate)
+[More information on openFATE](//en.opensuse.org/openSUSE:Openfate)
 
 
 
@@ -825,7 +825,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](http://en.opensuse.org/File:Icon-localize.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](//en.opensuse.org/File:Icon-localize.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -838,10 +838,10 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 
 
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/). 
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/). 
 
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 </td>
@@ -876,7 +876,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/3/31/Icon-project.png)](http://en.opensuse.org/File:Icon-project.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/3/31/Icon-project.png)](//en.opensuse.org/File:Icon-project.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -884,7 +884,7 @@ This means that any time you purchase MP3s through Banshee's integrated Amazon M
 
 
 
-####  [Jos Poortvliet: Just started...](http://nowwhatthe.blogspot.com/2010/08/just-started.html)
+####  [Jos Poortvliet: Just started...](//nowwhatthe.blogspot.com/2010/08/just-started.html)
 
 
 "As of now I'm an employee of Novell. That means a couple of things.  First of all: awesomeness, working with all of you!  Second the boring stuff: I'll have to update linked-in and some other sites. And put a disclaimer on this site - my previous employer (the Dutch government) wasn't exactly involved in what I did for KDE... And I'll have to go through the administrative stuff in the company. Boy, do I look forward to that ;-)"  
@@ -900,25 +900,25 @@ Past:
 
 
 
-  * [**August 03, 2010: openSUSE Ambassadors Team Meeting**](http://news.opensuse.org/2010/07/28/opensuse-ambassadors-team-meeting/)
+  * [**August 03, 2010: openSUSE Ambassadors Team Meeting**](//news.opensuse.org/2010/07/28/opensuse-ambassadors-team-meeting/)
 
 
-  * [**August 04, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**August 04, 2010: German Wiki Team Meeting**](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**August 05, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**August 05, 2010: ﻿openSUSE KDE Team meeting**](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
-  * [**August 05, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**August 05, 2010: ﻿openSUSE KDE Team meeting**](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
-  * [**August 06, 2010: openSUSE GNOME IRC Meeting **](http://news.opensuse.org/2010/08/04/opensuse-gnome-irc-meeting/)
+  * [**August 06, 2010: openSUSE GNOME IRC Meeting **](//news.opensuse.org/2010/08/04/opensuse-gnome-irc-meeting/)
 
 
-  * [**August 06, 2010: 11.3 Launch party (Budapest/Hungary) **](http://wiki.opensuse.org/openSUSE:Launch_parties#Budapest)
+  * [**August 06, 2010: 11.3 Launch party (Budapest/Hungary) **](//wiki.opensuse.org/openSUSE:Launch_parties#Budapest)
 
 
-  * [**August 07, 2010: Nagios with openSUSE Seminar in Taipei (Taiwan)**](http://news.opensuse.org/2010/07/13/nagios-with-opensuse-seminar-in-taipei/)
+  * [**August 07, 2010: Nagios with openSUSE Seminar in Taipei (Taiwan)**](//news.opensuse.org/2010/07/13/nagios-with-opensuse-seminar-in-taipei/)
 
 
 
@@ -929,34 +929,34 @@ Past:
 
 
 
-  * [**August 09, 2010: Birthday of openSUSE Project**](http://news.opensuse.org/2007/08/09/birthday-of-opensuse-project/)
+  * [**August 09, 2010: Birthday of openSUSE Project**](//news.opensuse.org/2007/08/09/birthday-of-opensuse-project/)
 
 
-  * [**August 10, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-4/)
+  * [**August 10, 2010: openSUSE Marketing Team Meeting**](//news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-4/)
 
 
-  * [**August 11, 2010: openSUSE Board Meeting**](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [**August 11, 2010: openSUSE Board Meeting**](//news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
-  * [**August 14, 2010: GNOME.Asia (Taiwan)**](http://news.opensuse.org/2010/07/13/gnome-asia/)
+  * [**August 14, 2010: GNOME.Asia (Taiwan)**](//news.opensuse.org/2010/07/13/gnome-asia/)
 
 
-  * [**August 18, 2010: German Wiki Team Meeting**](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [**August 18, 2010: German Wiki Team Meeting**](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 
-  * [**August 19, 2010: ﻿openSUSE KDE Team meeting**](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [**August 19, 2010: ﻿openSUSE KDE Team meeting**](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
-  * [**August 21-22, 2010: FrOSCon (St. Augustin/Germany; http://www.froscon.de/)**](http://news.opensuse.org/2010/04/19/froscon-st-augustin-germany/)
+  * [**August 21-22, 2010: FrOSCon (St. Augustin/Germany; //www.froscon.de/)**](//news.opensuse.org/2010/04/19/froscon-st-augustin-germany/)
 
 
-  * [**August 24, 2010: openSUSE Marketing Team Meeting**](http://news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-5/)
+  * [**August 24, 2010: openSUSE Marketing Team Meeting**](//news.opensuse.org/2010/07/26/opensuse-marketing-team-meeting-5/)
 
 
   * You can find more informations on other events at: 
 
 
-    * [openSUSE News/Events](http://news.opensuse.org/category/events/) – [Local events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+    * [openSUSE News/Events](//news.opensuse.org/category/events/) – [Local events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -966,7 +966,7 @@ Past:
 
 
 
-  * The openSUSE Weekly News are available as Livestream or Podcast in the German Language. You can hear it or download it on [http://blog.radiotux.de/podcast](http://blog.radiotux.de/podcast). 
+  * The openSUSE Weekly News are available as Livestream or Podcast in the German Language. You can hear it or download it on [//blog.radiotux.de/podcast](//blog.radiotux.de/podcast). 
 
 
 
@@ -982,10 +982,10 @@ Past:
 
 
 
-  * [The mail lists](http://lists.opensuse.org/) have: 37696 (+17) subscribers. 
+  * [The mail lists](//lists.opensuse.org/) have: 37696 (+17) subscribers. 
 
 
-  * [The openSUSE Forums](http://forums.opensuse.org/)] have: 
+  * [The openSUSE Forums](//forums.opensuse.org/)] have: 
 
 
     * 48701 (+237) registered users 
@@ -1001,7 +1001,7 @@ Past:
 
 
 
-  * 4883 (+22) of 12418 (+45) registered contributors in the User Directory have signed the Guiding Principles. The board has acknowledged 431 [members](http://en.opensuse.org/openSUSE:Members). 
+  * 4883 (+22) of 12418 (+45) registered contributors in the User Directory have signed the Guiding Principles. The board has acknowledged 431 [members](//en.opensuse.org/openSUSE:Members). 
 
 
 </td>
@@ -1036,25 +1036,25 @@ Past:
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](http://en.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](//en.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [Pascal Bleser: pastebinit with susepaste support](http://dev-loki.blogspot.com/2010/08/pastebinit-with-susepaste-support.html)
+####  [Pascal Bleser: pastebinit with susepaste support](//dev-loki.blogspot.com/2010/08/pastebinit-with-susepaste-support.html)
 
 
-"Michal Hrusecky recently [blogged about his openSUSE paste site](https://michal.hrusecky.net/index.php/blog/show/SUSE-Paste.html). I just added support for [it](http://susepaste.org/) in [pastebinit](http://www.stgraber.org/category/pastebinit), a nice command-line tool to paste files (or stdin) to various paste sites.  You can grab it (with susepaste.org support :)) from the network:utilities repository"  
+"Michal Hrusecky recently [blogged about his openSUSE paste site](https://michal.hrusecky.net/index.php/blog/show/SUSE-Paste.html). I just added support for [it](//susepaste.org/) in [pastebinit](//www.stgraber.org/category/pastebinit), a nice command-line tool to paste files (or stdin) to various paste sites.  You can grab it (with susepaste.org support :)) from the network:utilities repository"  
 
 
-####  [Pascal Bleser: Please test NX 3.4.0](http://dev-loki.blogspot.com/2010/08/please-test-nx-340.html)
+####  [Pascal Bleser: Please test NX 3.4.0](//dev-loki.blogspot.com/2010/08/please-test-nx-340.html)
 
 
-"On a request, I updated the openSUSE [NX](http://www.nomachine.com/) packages to the latest release, 3.4.0.  If you're an NX user, please test [the packages](http://r.opensu.se/home:pbleser:branches:X11:RemoteDesktop.repo) and report whether they work for you or not. As I don't use NX myself, I'd prefer to have a bit of feedback before pushing the changes to the [X11:RemoteDesktop](http://r.opensu.se/X11:RemoteDesktop) repository."  
+"On a request, I updated the openSUSE [NX](//www.nomachine.com/) packages to the latest release, 3.4.0.  If you're an NX user, please test [the packages](//r.opensu.se/home:pbleser:branches:X11:RemoteDesktop.repo) and report whether they work for you or not. As I don't use NX myself, I'd prefer to have a bit of feedback before pushing the changes to the [X11:RemoteDesktop](//r.opensu.se/X11:RemoteDesktop) repository."  
 
 
-####  [Pascal Bleser: openSUSE package index and search](http://dev-loki.blogspot.com/2010/08/opensuse-package-index-and-search.html)
+####  [Pascal Bleser: openSUSE package index and search](//dev-loki.blogspot.com/2010/08/opensuse-package-index-and-search.html)
 
 
 "I've been busy working on a new implementation of our beloved "webpin", which is actually a service for searching for packages in the insane amount of repositories and packages we have, in the distribution, in all openSUSE Build Service repositories, as well as on Packman.  The thing is, it's a bit dated now, and its features are limited by the fact that it's using a relational database to perform search operations. I've been digging into Apache Solr quite a bit over the last few months (did I already mention that it totally rocks? :)) and I thought.. hmm.. why not use that for indexing packages/repositories ?" 
@@ -1063,7 +1063,7 @@ Past:
   * You can find other interesting Packages at: 
 
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 </td>
@@ -1098,13 +1098,13 @@ Past:
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](http://en.opensuse.org/File:Logo-SecurityUpdates.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](//en.opensuse.org/File:Logo-SecurityUpdates.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-To view the security announcements in full, or to receive them as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.  
+To view the security announcements in full, or to receive them as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.  
 
   
 
@@ -1114,7 +1114,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [SUSE Security Announcement: Linux kernel (SUSE-SA:2010:033)](http://lists.opensuse.org/opensuse-security-announce/2010-08/msg00000.html)
+####  [SUSE Security Announcement: Linux kernel (SUSE-SA:2010:033)](//lists.opensuse.org/opensuse-security-announce/2010-08/msg00000.html)
 
 
 
@@ -1145,7 +1145,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [SUSE Security Summary Report: SUSE-SR:2010:014](http://lists.opensuse.org/opensuse-security-announce/2010-08/msg00001.html)
+####  [SUSE Security Summary Report: SUSE-SR:2010:014](//lists.opensuse.org/opensuse-security-announce/2010-08/msg00001.html)
 
 
 
@@ -1212,37 +1212,37 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [ghostscript security update](http://lists.opensuse.org/opensuse-updates/2010-08/msg00000.html)
+####  [ghostscript security update](//lists.opensuse.org/opensuse-updates/2010-08/msg00000.html)
 
 
 
 
 
-####  [ghostscript security update](http://lists.opensuse.org/opensuse-updates/2010-08/msg00001.html)
+####  [ghostscript security update](//lists.opensuse.org/opensuse-updates/2010-08/msg00001.html)
 
 
 
 
 
-####  [libwebkit security update](http://lists.opensuse.org/opensuse-updates/2010-08/msg00004.html)
+####  [libwebkit security update](//lists.opensuse.org/opensuse-updates/2010-08/msg00004.html)
 
 
 
 
 
-####  [kvirc: remote CTCP commands execution via specially-crafted CTCP parameter](http://lists.opensuse.org/opensuse-updates/2010-08/msg00005.html)
+####  [kvirc: remote CTCP commands execution via specially-crafted CTCP parameter](//lists.opensuse.org/opensuse-updates/2010-08/msg00005.html)
 
 
 
 
 
-####  [squidGuard: Fixed buffer overflows](http://lists.opensuse.org/opensuse-updates/2010-08/msg00006.html)
+####  [squidGuard: Fixed buffer overflows](//lists.opensuse.org/opensuse-updates/2010-08/msg00006.html)
 
 
 
 
 
-####  [gpg2: reuses a freed pointer when verifying a signature](http://lists.opensuse.org/opensuse-updates/2010-08/msg00016.html)
+####  [gpg2: reuses a freed pointer when verifying a signature](//lists.opensuse.org/opensuse-updates/2010-08/msg00016.html)
 
 
 
@@ -1278,7 +1278,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](http://en.opensuse.org/File:Tux.svg.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](//en.opensuse.org/File:Tux.svg.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1286,19 +1286,19 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [h-online/Thorsten Leemhuis: The H Week - Linux 2.6.35 approaches, GNOME 3 delayed](http://www.h-online.com/security/news/item/The-H-Week-Linux-2-6-35-approaches-GNOME-3-delayed-1048464.html)
+####  [h-online/Thorsten Leemhuis: The H Week - Linux 2.6.35 approaches, GNOME 3 delayed](//www.h-online.com/security/news/item/The-H-Week-Linux-2-6-35-approaches-GNOME-3-delayed-1048464.html)
 
 
 "Leading up to the arrival of version 2.6.35 of the Linux kernel, The H published the final two parts of the Coming in 2.6.35 series, GNOME 3 was been delayed until March of 2011 and Oracle shut down PostgreSQL test servers. Anti-virus makers offered protection against LNK malware, 170 million Facebook data sets were collected and a hole in WPA2 was discovered."  
 
 
-####  [h-online/Thorsten Leemhuis: What's new in Linux 2.6.35](http://www.h-online.com/open/features/What-s-new-in-Linux-2-6-35-1047707.html)
+####  [h-online/Thorsten Leemhuis: What's new in Linux 2.6.35](//www.h-online.com/open/features/What-s-new-in-Linux-2-6-35-1047707.html)
 
 
 "Measures to support the power saving mechanisms of AMD graphics chips, network code optimisations for multi-core processors, features for de-fragmenting the working memory and an improved support of the power management and turbo features offered by modern processors are KL 2635 Logo among the highlights of the new kernel version."  
 
 
-####  [h-online/Chris von Eitzen: AppArmor set for inclusion in Linux kernel](http://www.h-online.com/security/news/item/AppArmor-set-for-inclusion-in-Linux-kernel-1049106.html)
+####  [h-online/Chris von Eitzen: AppArmor set for inclusion in Linux kernel](//www.h-online.com/security/news/item/AppArmor-set-for-inclusion-in-Linux-kernel-1049106.html)
 
 
 "James Morris, the maintainer of the Linux kernel's security subsystem, has integrated the kernel code for the AppArmor security extension into his development branch, which forms part of Linux-Next. Shortly afterwards, he announced that he also intends to send the code to Linus Torvalds for integration into the Linux 2.6.36 kernel. AppArmor can restrict applications to specific actions to prevent attackers who have, for instance, exploited a security hole in a server program, from gaining access to a system and causing major damage." 
@@ -1334,7 +1334,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](http://en.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](//en.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1348,19 +1348,19 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Scott Photographics: How to make a Globe/Planet photo manipulation in GIMP](http://www.scottphotographics.com/how-to-make-a-globe-planet-photo-manipulation-in-gimp/)
+####  [Scott Photographics: How to make a Globe/Planet photo manipulation in GIMP](//www.scottphotographics.com/how-to-make-a-globe-planet-photo-manipulation-in-gimp/)
 
 
 "This photo manipulation is called a stereographic projection, which takes a standard photograph and stretches it around in a circle creating a Globe or Planet like image!"  
 
 
-####  [Masim Sugianto: Vodafone/Huawei HSDPA USB Modem on openSUSE 11.3](http://vavai.net/2010/08/06/vodafonehuawei-hsdpa-usb-modem-on-opensuse-11-3/)
+####  [Masim Sugianto: Vodafone/Huawei HSDPA USB Modem on openSUSE 11.3](//vavai.net/2010/08/06/vodafonehuawei-hsdpa-usb-modem-on-opensuse-11-3/)
 
 
 "Actually, I do not need mobile modem for mobile browsing because I mainly use internet access at home or by using public hotspot, but sometimes I need it when traveling and there is no hotspot available. I bought Vodafone-Huawei USB/HSDPA mobile modem E270, detected as K-3565 on Windows machine.  The modem bundled with 3 GSM, local internet provider here in Indonesia. Price are about IDR 600.000,- , equivalent with approximately US$ 60, with free access bonus for 3 month. The modem also provide modem driver for Windows but sadly without modem driver for Linux. But, surprise, modem has successfully detected and works out of the box on broadband mobile connection-KDE desktop environment on openSUSE 11.3. Even better, I do not need modemswitch application to change from USB disk to USB modem."  
 
 
-####  [Masim Sugianto: Oracle VirtualBox 3.2.6 on openSUSE 11.3](http://vavai.net/2010/08/06/oracle-virtualbox-3-2-6-on-opensuse-11-3/)
+####  [Masim Sugianto: Oracle VirtualBox 3.2.6 on openSUSE 11.3](//vavai.net/2010/08/06/oracle-virtualbox-3-2-6-on-opensuse-11-3/)
 
 
 "Installing VirtualBox on openSUSE 11.3 has similar method as on openSUSE 11.2 with only a few changes : VirtualBox on openSUSE 11.3 need openSSL and PNG library as dependencies package.  I’m using VirtualBox 3.2.6 64 bit on openSUSE 11.3 64 bit on this article. You may also use this guide for installing VirtualBox 32 bit, there is no major difference between 2 version." 
@@ -1380,7 +1380,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Pascal Bleser: Shell trick: CRLF to LF](http://dev-loki.blogspot.com/2010/08/shell-trick-crlf-to-lf.html)
+####  [Pascal Bleser: Shell trick: CRLF to LF](//dev-loki.blogspot.com/2010/08/shell-trick-crlf-to-lf.html)
 
 
 "I do this again and again in RPM .spec files, so just in case: a little trick to remove the CR from CRLF ;) (Windows uses two bytes for end-of-line markers, namely CR and LF, while Linux and Unix only use one: LF)  You might of course use dos2unix or recode, but this one works in-place, which means that you don't need to make a copy, work on the copy and then copy (heh) that file back onto the original -- here is how to do it with dos2unix: ..."  
@@ -1392,31 +1392,31 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [HowtoForge/Falko Timme: Installing Apache2 With PHP5 And MySQL Support On OpenSUSE 11.3 (LAMP)](http://www.howtoforge.com/installing-apache2-with-php5-and-mysql-support-on-opensuse-11.3-lamp)
+####  [HowtoForge/Falko Timme: Installing Apache2 With PHP5 And MySQL Support On OpenSUSE 11.3 (LAMP)](//www.howtoforge.com/installing-apache2-with-php5-and-mysql-support-on-opensuse-11.3-lamp)
 
 
 "LAMP is short for **L**inux, **A**pache, **M**ySQL, **P**HP. This tutorial shows how you can install an Apache2 webserver on an OpenSUSE 11.3 server with PHP5 support (mod_php) and MySQL support."  
 
 
-####  [Masim Sugianto: Script for Export-Import Zimbra Mail Server Account](http://vavai.net/2010/08/06/script-for-export-import-zimbra-mail-server-account-password/)
+####  [Masim Sugianto: Script for Export-Import Zimbra Mail Server Account](//vavai.net/2010/08/06/script-for-export-import-zimbra-mail-server-account-password/)
 
 
 "Zimbra save all account and profile information on the LDAP database. Zimbra has no function for only import and export it’s account, although they have bundled Zimbra to Zimbra migration command. The Zimbra to Zimbra migration command export all mailbox and account while I only need a list of account with some primary fields like password, first name, full name, etc, especially for testing purpose only."  
 
 
-####  [Masim Sugianto: KVM Virtualization on openSUSE 11.3](http://vavai.net/2010/08/05/kvm-virtualization-on-opensuse-11-3/)
+####  [Masim Sugianto: KVM Virtualization on openSUSE 11.3](//vavai.net/2010/08/05/kvm-virtualization-on-opensuse-11-3/)
 
 
 "It’s looks like that I’m off and hiatus from blog for a while so it’s time to starting a new article and hope it’s not for the last one :-D .  KVM (Kernel-based Virtual Machine) is currently popular terms among the virtualization technology. What makes it popular and become the strong competitor for Xen Hypervisor are the technology behind KVM and Red Hat decision to move focus on KVM instead of Xen for next release Red Hat Enterprise Linux 6.0. What makes KVM gains an advantage on the technology side are the inclusion KVM module into Linux kernel so we do not need a patch or different kernel as we need for Xen Hypervisor. Beside the two virtualization technology above, those are various virtualization technology running on Linux : VMWare, VirtualBox, OpenVZ etc but Xen and KVM are quite popular among others."  
 
 
-####  [Linux Magazine/Dmitri Popov: Power Management with cpufrequtils](http://www.linux-magazine.com/Online/Blogs/Productivity-Sauce-Dmitri-s-open-source-blend-of-productive-computing/Power-Management-with-cpufrequtils)
+####  [Linux Magazine/Dmitri Popov: Power Management with cpufrequtils](//www.linux-magazine.com/Online/Blogs/Productivity-Sauce-Dmitri-s-open-source-blend-of-productive-computing/Power-Management-with-cpufrequtils)
 
 
 "Switching to a lightweight graphical desktop environment is a great way to improve the overall performance of your system, especially if this system happens to be a notebook or netbook. But if you opt, for example, for LXDE, you'll discover that it lacks a graphical tool for managing power profiles and controlling the processor frequency. This might not be a big problem on a desktop machine, but the ability to adjust power settings is crucial for improving the battery life of your mobile companion. The cpufrequtils utility provides a neat solution to this problem. This utility can help you to tweak power management options from the command line. cpufrequtils is available in the software repositories of most mainstream Linux distributions, so you can install it using your distro's package manager. (...)"  
 
 
-####  [Martin Vidner: Upgraded to openSUSE 11.3](http://mvidner.blogspot.com/2010/08/upgraded-to-opensuse-113.html)
+####  [Martin Vidner: Upgraded to openSUSE 11.3](//mvidner.blogspot.com/2010/08/upgraded-to-opensuse-113.html)
 
 
 "I have upgraded my office workstation to openSUSE 11.3 today. Here I document the migration so that you don't have to repeat my mistakes.  I went via the command line and ventured to keep all additional repos enabled. So switching the repos was done simply by sed -i "s/11\.2/11.3/g" /etc/zypp/repos.d/*" 
@@ -1452,7 +1452,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](http://en.opensuse.org/File:Logo-PlanetSUSE.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](//en.opensuse.org/File:Logo-PlanetSUSE.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1460,19 +1460,19 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [Alex Barrios: Somethings to do after an openSUSE installation](http://lizards.opensuse.org/2010/08/01/somethings-to-do-after-an-opensuse-installation/)
+####  [Alex Barrios: Somethings to do after an openSUSE installation](//lizards.opensuse.org/2010/08/01/somethings-to-do-after-an-opensuse-installation/)
 
 
 "Every time that I make a new openSUSE installation, I always add some additional stuff to get an even better user experience, that’s why I enumerate here the things that i suggest to you do after a successfully openSUSE installation.  Read well, read again, so you will not be lost. All the commands that I show here between double quotes (“) for the time of the execution will go without the quotes and with the text in bold just like that."  
 
 
-####  [OMG!SUSE! team: Kickin' it old school with KDE3](http://feedproxy.google.com/%7Er/omgsuse/%7E3/fbOd5lzxK2Y/kickin-it-old-school-kde3)
+####  [OMG!SUSE! team: Kickin' it old school with KDE3](//feedproxy.google.com/%7Er/omgsuse/%7E3/fbOd5lzxK2Y/kickin-it-old-school-kde3)
 
 
 "KDE 3.5 was originally released almost five years ago, the last maintenance release clocking in mid-summer of 2008. Regardless of its age, a half-decade after its debut some KDE users still prefer KDE3 over KDE4.  For openSUSE lovers who also love KDE3, the discontinuation of support for openSUSE 11.0 represents the last major release of openSUSE that shipped with KDE3 as an installation option (it actually bundled KDE3 and KDE4 with it).  Wouldn't it be great if you could get all the delicious goodies introduced in openSUSE 11.3 without needing to give up Amarok 1.4 and adjusting to all the sweeping changes made in KDE4?"  
 
 
-####  [Jos Poortvliet: KDE strategy for openSUSE](http://nowwhatthe.blogspot.com/2010/08/kde-strategy-for-opensuse.html)
+####  [Jos Poortvliet: KDE strategy for openSUSE](//nowwhatthe.blogspot.com/2010/08/kde-strategy-for-opensuse.html)
 
 
 "As I mentioned in two earlier blogs now, within openSUSE a strategic discussion is going on - what direction should we, as a distribution community, take?  I would like to address a few things in this post. First of all, why a strategy, and what will it and won't it do? Second, there is one strategy I'd like to mention specifically, as I think it's disrupting but as a community proposal it deserves to be discussed as any other strategy. That's about the KDE strategy for openSUSE."  
@@ -1481,28 +1481,28 @@ To view the security announcements in full, or to receive them as soon as they'r
 ####  [Michal Hrusecky: openSUSE Paste update](https://michal.hrusecky.net/index.php/blog/show/openSUSE-Paste-update.html)
 
 
-"So some other things happened with openSUSE Paste so I want to inform you about the current situation. We have [http://susepaste.org](http://susepaste.org/) address, right? So from yesterday, we also have [http://paste.opensuse.org](http://paste.opensuse.org/). Same computer, same IP, just different name if you prefer the other one. As it is the same thing as susepaste.org, links are interchangeable. So you can post something to susepaste.org and send link to paste.opensuse.org or vise versa. Just replace the first part of the url.  Other interesting thing to report is that Pascal Bleser added support for susepaste to pastebinit, so if you don't like mine simple script, you can use more advanced tool face-wink.png But this is nothing new, he already blogged about that. Next steps on openSUSE Paste includes localization, documentation for the script and getting it to the common menu on all openSUSE sites. But I need to get back to other things for a moment so it has to wait a little bit"  
+"So some other things happened with openSUSE Paste so I want to inform you about the current situation. We have [//susepaste.org](//susepaste.org/) address, right? So from yesterday, we also have [//paste.opensuse.org](//paste.opensuse.org/). Same computer, same IP, just different name if you prefer the other one. As it is the same thing as susepaste.org, links are interchangeable. So you can post something to susepaste.org and send link to paste.opensuse.org or vise versa. Just replace the first part of the url.  Other interesting thing to report is that Pascal Bleser added support for susepaste to pastebinit, so if you don't like mine simple script, you can use more advanced tool face-wink.png But this is nothing new, he already blogged about that. Next steps on openSUSE Paste includes localization, documentation for the script and getting it to the common menu on all openSUSE sites. But I need to get back to other things for a moment so it has to wait a little bit"  
 
 
-####  [Jared Ottley: Alfresco: JMX from the command line](http://feeds.ottleys.net/%7Er/jaredottley/%7E3/Mbo7EUc3xWU/alfresco-jmx-from-the-command-line)
+####  [Jared Ottley: Alfresco: JMX from the command line](//feeds.ottleys.net/%7Er/jaredottley/%7E3/Mbo7EUc3xWU/alfresco-jmx-from-the-command-line)
 
 
 "JMX is great. Alfresco and JMX is awesome. I’ve written before about configuring Alfresco to use tunneling to connect JMX & debuggers to servers that don’t allow access to the higher numbered ports (or to only a few ports). Let’s add another cool tool. (JMX is an Enterprise only feature of Alfresco.)  The Alfresco wiki covers a few of the clients that are available out there. Let’s add another type to the list: JMX from the command line. There are a couple of options for us to choose from. I am partial to jmxterm from CyclopsGroups.org"  
 
 
-####  [Suresh Jayaraman: Local caching for CIFS network file system – followup](http://lizards.opensuse.org/2010/08/05/local-caching-for-cifs-network-file-system-followup/)
+####  [Suresh Jayaraman: Local caching for CIFS network file system – followup](//lizards.opensuse.org/2010/08/05/local-caching-for-cifs-network-file-system-followup/)
 
 
-"Here’s a follow-up to my previous post on [Hackweek V: Local caching for CIFS network file system](http://lizards.opensuse.org/2010/06/14/hackweek-v-local-caching-for-cifs-network-file-system/) Since the previous post, I worked on improving the patches that add local caching, fixed a few bugs, addressed review comments from the community and re-posted the patches. I also gave a talk about it at the SUSE Labs Conference 2010 took place at Prague. The slides can be found here: [FS-Cache aware CIFS](http://www.suse.com/%7Esjayaraman/talks/cifs-fsc-labsconf-2010.pdf)."  
+"Here’s a follow-up to my previous post on [Hackweek V: Local caching for CIFS network file system](//lizards.opensuse.org/2010/06/14/hackweek-v-local-caching-for-cifs-network-file-system/) Since the previous post, I worked on improving the patches that add local caching, fixed a few bugs, addressed review comments from the community and re-posted the patches. I also gave a talk about it at the SUSE Labs Conference 2010 took place at Prague. The slides can be found here: [FS-Cache aware CIFS](//www.suse.com/%7Esjayaraman/talks/cifs-fsc-labsconf-2010.pdf)."  
 
 
-####  [Andreas Jaeger: Bugs will not get fixed by themselves](http://lizards.opensuse.org/2010/08/05/bugs-will-not-get-fixed-by-themselves/)
+####  [Andreas Jaeger: Bugs will not get fixed by themselves](//lizards.opensuse.org/2010/08/05/bugs-will-not-get-fixed-by-themselves/)
 
 
 "I received an email from a user who switched from openSUSE to Ubuntu since his Wireless netcard did not work. It worked with openSUSE 11.2 initially but after an online update it failed. He hoped that openSUSE 11.3 worked, tested it, it failed – and he gave up and wrote a frustrated email.  I was frustrated reading this since we should have been able to help this user if he contacted us in time."  
 
 
-####  [Sirko Kemter: openSUSE A-Z Contribution Guide](http://karl-tux-stadt.de/ktuxs/?p=2642)
+####  [Sirko Kemter: openSUSE A-Z Contribution Guide](//karl-tux-stadt.de/ktuxs/?p=2642)
 
 
 "A few hours ago asked Pavol me if I have a openSUSE graffiti with an geeko. Of course I have one, he said he needs it for some slides for his Launch Party on friday and I said I have slides with such an graffiti on it and send it to him. After a few minutes he said, thats exactly what he working on. We both had the same idea, we reusing Hennes and Vuntz talk from LinuxTag 2010. And here it is “The ultimate A-Z openSUSE Contribution Guide” in graffiti style." 
@@ -1538,31 +1538,31 @@ To view the security announcements in full, or to receive them as soon as they'r
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](http://en.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](//en.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-####  [11.3 video playback freeze issue](http://forums.opensuse.org/english/get-help-here/multimedia/443367-new-11-3-install-video-playback-brief-freeze-desktop-effects-issue.html)
+####  [11.3 video playback freeze issue](//forums.opensuse.org/english/get-help-here/multimedia/443367-new-11-3-install-video-playback-brief-freeze-desktop-effects-issue.html)
 
 
 "I raised a topic on this issue where it seems the stock kwin is having issues with video playback when desktop effects is ON. Already some similar experiences recorded."  
 
 
-####  [Live CD will not boot?](http://forums.opensuse.org/english/get-help-here/install-boot-login/443365-kde-live-cd-wont-boot.html)
+####  [Live CD will not boot?](//forums.opensuse.org/english/get-help-here/install-boot-login/443365-kde-live-cd-wont-boot.html)
 
 
 "Looks like it turned out to be a 'nomodeset' issue and @oldcpu seems to have solved this one for the OP. Nice work Lee."  
 
 
-####  [So where are all the Updates?](http://forums.opensuse.org/english/community/general-chit-chat/443356-so-where-all-updates.html)
+####  [So where are all the Updates?](//forums.opensuse.org/english/community/general-chit-chat/443356-so-where-all-updates.html)
 
 
 "User questions why there are so few updates?? :-) Was making a comparison with other distros that have a shed load of updates post install. It's very early days though for 11.3, I expect such questions would not arise in 6 months time, when there is sure to be plenty of updates."  
 
 
-####  [Now running 11.4](http://forums.opensuse.org/english/community/general-chit-chat/443397-now-running-11-4-a.html)
+####  [Now running 11.4](//forums.opensuse.org/english/community/general-chit-chat/443397-now-running-11-4-a.html)
 
 
 "Already switched to Factory on my sandbox and have 11.4 there now and looking forward to the milestone releases soon." 
@@ -1606,7 +1606,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](http://en.opensuse.org/File:OWN-oxygen-On-the-Web.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](//en.opensuse.org/File:OWN-oxygen-On-the-Web.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1620,7 +1620,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [KDENews/Kevin Duffus: KDE e.V. and GNOME Foundation to Co-Host 2011 Desktop Summit in Berlin](http://news.kde.org/2010/07/30/desktop-summit-2011-announced)
+####  [KDENews/Kevin Duffus: KDE e.V. and GNOME Foundation to Co-Host 2011 Desktop Summit in Berlin](//news.kde.org/2010/07/30/desktop-summit-2011-announced)
 
 
 "GNOME and KDE are teaming up again to host the 2011 Desktop Summit in Berlin, Germany. Due to the success of the 2009 Desktop Summit the projects will co-locate GUADEC and Akademy once again in August, 2011 for the largest free software desktop event ever.  The 2009 Desktop Summit was a fantastic opportunity for the leaders of the free software desktop community to share talks, address common issues, and build relationships between the communities with combined social events." 
@@ -1640,13 +1640,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [MakeTechEasier/Tavis J. Hampton: Preview of KDE 4.5](http://maketecheasier.com/kde-4-5-preview/2010/08/04)
+####  [MakeTechEasier/Tavis J. Hampton: Preview of KDE 4.5](//maketecheasier.com/kde-4-5-preview/2010/08/04)
 
 
 "When KDE 4.0 was released, it was clear that it was not finished and not ready for production. By version 4.2, the completely redesigned and recoded desktop environment was starting to regain the stability and depth that many loved about KDE 3, while also adding new features that make KDE a unique and rewarding desktop software compilation.  Just as KDE 3.5 was intended to be a stabilizing, long-term release, the primary goal of KDE 4.5 is to fix outstanding bugs and increase stability. Users will not be blown away by the new features, but there are a few worth noting. Last week I installed the release candidate for KDE 4.5 from the Kubuntu repositories and took it for a spin."  
 
 
-####  [EasyLinuxCDs: MeeGo for IVI 1.0 Screenshots](http://easylinuxcds.com/blog/?p=3945)
+####  [EasyLinuxCDs: MeeGo for IVI 1.0 Screenshots](//easylinuxcds.com/blog/?p=3945)
 
 
 "f you’re wondering exactly what MeeGo is, it’s a combination of Intel’s Moblin and Nokia’s Maemo project. This lightweight combination targets smartphones, netbooks, tablets, mediaphones, connected TVs and In-Vehicle Infotainment (IVI) systems. This specific release is for Atom-based IVI systems. These systems are designed to deliver things like navigation, entertainment, and networked computing services inside of cars, trucks, buses, planes and more. On their website MeeGo states “As vehicles become connected to the internet, the demand for internet-based entertainment applications and services increases and MeeGo strives to accelerate the pace of innovation in IVI.”" 
@@ -1666,13 +1666,13 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 
 
-####  [The new look Techblog: In Search of the Perfect KDE4 Distro – 2 Why Not openSUSE 11.3?](http://g33q.co.za/2010/08/01/in-search-of-the-perfect-kde4-distro-2-why-not-opensuse-11-3/)
+####  [The new look Techblog: In Search of the Perfect KDE4 Distro – 2 Why Not openSUSE 11.3?](//g33q.co.za/2010/08/01/in-search-of-the-perfect-kde4-distro-2-why-not-opensuse-11-3/)
 
 
 "Okay, I have spent more than a week with openSUSE 11.3 KDE4. Right now I am downloading Linux Mint 9 KDE. I have not decided on my perfect KDE4 distro, but openSUSE 11.3 is a really strong contender. In this short writeup I will explore some reasons why I might NOT switch to it as my default OS."  
 
 
-####  [Techgage/Rob Williams: Quick Impressions of openSUSE 11.3](http://techgage.com/news/quick_impressions_of_opensuse_113)
+####  [Techgage/Rob Williams: Quick Impressions of openSUSE 11.3](//techgage.com/news/quick_impressions_of_opensuse_113)
 
 
 "About two weeks ago, the openSUSE Project released version 11.3 of its popular Linux distribution, and after putting it off for quite a while, I decided to give the latest version a download and see what SUSE has been up to. After all, the last time I took a serious look at SUSE (over four years ago!), it still went by "SuSE"... yes, it's been quite a while. So far, my initial impressions of the latest version are quite good.  The latest version of openSUSE, as expected, includes updated versions of all the software found in the distro, along with a couple of new bundled applications, such as SpiderOak for net syncing and Rosegarden for audio editing. It also includes KDE 4.4.4 and the 2.6.34 Linux kernel, and believe it or not, it even includes a preview of GNOME 3.0 for those who are interested in testing it out."  
@@ -1714,19 +1714,19 @@ To view the security announcements in full, or to receive them as soon as they'r
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/openSUSE:Weekly_news_team)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](//en.opensuse.org/openSUSE:Weekly_news_team)
 </td>
 
-<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](http://news.opensuse.org/p=3449) and let us know!  
+<td style="margin: 0pt 1em 0pt 0pt;" >Do you have comments on any of the things mentioned in this article? Then head right over to the [comment section](//news.opensuse.org/p=3449) and let us know!  
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page and join!  
 
-Or Communicate with or get help from the wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+Or Communicate with or get help from the wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 
   
 
-[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/feed/](http://news.opensuse.org/category/weekly-news/feed/)
+[![](//en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](//en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [//news.opensuse.org/category/weekly-news/feed/](//news.opensuse.org/category/weekly-news/feed/)
 
 
 
@@ -1762,25 +1762,25 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](http://en.opensuse.org/File:OWN-oxygen-Credits.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](//en.opensuse.org/File:OWN-oxygen-Credits.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >
 
 
-  * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
+  * [saigkill](//en.opensuse.org/User:Saigkill) [Talk](//en.opensuse.org/User_talk:Saigkill) - [Contributions](//en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief) 
 
 
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
+  * [STS301](//en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](//en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks) 
 
 
-  * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
+  * [HeliosReds](//en.opensuse.org/User:HeliosReds) [Talk](//en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office) 
 
 
-  * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
+  * [Caf4926](//en.opensuse.org/User:Caf4926) [Talk](//en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.) 
 
 
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
+  * [Okuro](//en.opensuse.org/User:Okuro) [Talk](//en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings) 
 
 
   * add translators 
@@ -1815,7 +1815,7 @@ Or Communicate with or get help from the wider openSUSE community -- via IRC, fo
 <tbody >
 <tr >
 
-<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](http://en.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](http://en.opensuse.org/File:OWN-Icon-locale.png)
+<td style="color: rgb(255, 255, 255); text-align: center; vertical-align: top; width: 36px;" >[![](//en.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](//en.opensuse.org/File:OWN-Icon-locale.png)
 </td>
 
 <td style="margin: 0pt 1em 0pt 0pt;" >  
@@ -1828,10 +1828,10 @@ openSUSE Weekly News is translated into many languages.Issue #135 of the openSUS
 
 
 
-  * [English](http://en.opensuse.org/Archive:Weekly_news_135)
+  * [English](//en.opensuse.org/Archive:Weekly_news_135)
 
 
-  * [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/135)
+  * [Русский](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/135)
 
 
 
@@ -1840,43 +1840,43 @@ Delayed / to be translated:
 
 
 
-  * [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/135)
+  * [Magyar](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/135)
 
 
-  * [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/135)
+  * [Español](//es.opensuse.org/OpenSUSE_Noticias_Semanales/135)
 
 
-  * [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/135)
+  * [繁體中文](//zh_tw.opensuse.org/OpenSUSE_Weekly_News/135)
 
 
-  * [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/135)
+  * [日本語](//ja.opensuse.org/OpenSUSE_Weekly_News/135)
 
 
-  * [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/135/indonesian)
+  * [Indonesia](//en.opensuse.org/OpenSUSE_Weekly_News/135/indonesian)
 
 
-  * [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/135/chinese)
+  * [简体中文](//en.opensuse.org/OpenSUSE_Weekly_News/135/chinese)
 
 
-  * [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/135)
+  * [Deutsch](//de.opensuse.org/OpenSUSE-Wochenschau/135)
 
 
-  * [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/135)
+  * [Français](//fr.opensuse.org/Lettre_d%27information_openSUSE/135)
 
 
-  * [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/135)
+  * [Polski](//pl.opensuse.org/Tygodnik_openSUSE/135)
 
 
-  * [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/135)
+  * [Português](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/135)
 
 
-  * [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/135)
+  * [Italiano](//it.opensuse.org/OpenSUSE_Newsletter_Settimanale/135)
 
 
-  * [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/135/swedish)
+  * [Svenska](//en.opensuse.org/OpenSUSE_Weekly_News/135/swedish)
 
 
-  * [Ìesky](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/135)
+  * [Ìesky](//cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/135)
 
 
 </td>

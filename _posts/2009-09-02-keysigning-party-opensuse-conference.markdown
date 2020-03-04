@@ -24,8 +24,8 @@ There will be two Keysigning Party sessions during the openSUSE Conference, so e
   2. Saturday 16:45 - 17:30
 
 
-Both sessions will be in the [Unconference](http://en.opensuse.org/OpenSUSE_Conf_2009_Unconference) Track.
+Both sessions will be in the [Unconference](//en.opensuse.org/OpenSUSE_Conf_2009_Unconference) Track.
 
-If you want to participate, follow the instructions in the [openSUSE wiki](http://en.opensuse.org/OpenSUSE_Conf_2009_KSP) now!  Deadline for key submissions is Sunday September, 13 at 12:00 UTC.
+If you want to participate, follow the instructions in the [openSUSE wiki](//en.opensuse.org/OpenSUSE_Conf_2009_KSP) now!  Deadline for key submissions is Sunday September, 13 at 12:00 UTC.
 
 Thanks to Jan Weber for organizing this!  He needs a volunteer to lead the second session, please contact him if you are interested.

@@ -11,7 +11,7 @@ categories:
 - Board
 ---
 
-[![](/wp-content/uploads/2010/12/holiday-geeko.png)](http://news.opensuse.org/2010/12/13/holiday-wishes-from-the-board/holiday-geeko/)
+[![](/wp-content/uploads/2010/12/holiday-geeko.png)](//news.opensuse.org/2010/12/13/holiday-wishes-from-the-board/holiday-geeko/)
 
 Seasons Greetings to everyone in the openSUSE Community and beyond from the openSUSE Board!
 

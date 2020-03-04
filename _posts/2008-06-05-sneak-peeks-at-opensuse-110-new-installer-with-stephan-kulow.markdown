@@ -11,11 +11,11 @@ categories:
 - Distribution
 ---
 
-I'm glad to announce the beginning of the [_Sneak Peaks at openSUSE 11.0_](http://news.opensuse.org/category/sneak-peeks/) series! Over the next few weeks we will be taking a look at all of the exciting changes and improvements in openSUSE 11.0, with each article being followed by an interview with a developer in the field.
+I'm glad to announce the beginning of the [_Sneak Peaks at openSUSE 11.0_](//news.opensuse.org/category/sneak-peeks/) series! Over the next few weeks we will be taking a look at all of the exciting changes and improvements in openSUSE 11.0, with each article being followed by an interview with a developer in the field.
 
-Today we will be taking a look at the new installer that has been developed for openSUSE 11.0, offering significant improvements over our previous version, with an incredibly appealing look, easier to complete, and a lot faster. We will also be talking to [Stephan Kulow](http://www.kdedevelopers.org/blog/124), KDE core developer and openSUSE project manager.
+Today we will be taking a look at the new installer that has been developed for openSUSE 11.0, offering significant improvements over our previous version, with an incredibly appealing look, easier to complete, and a lot faster. We will also be talking to [Stephan Kulow](//www.kdedevelopers.org/blog/124), KDE core developer and openSUSE project manager.
 
-Digg this story! [http://digg.com/linux_unix/Sneak_Peeks_at_openSUSE_11_0_New_Installer_with_Kulow](http://digg.com/linux_unix/Sneak_Peeks_at_openSUSE_11_0_New_Installer_with_Kulow)
+Digg this story! [//digg.com/linux_unix/Sneak_Peeks_at_openSUSE_11_0_New_Installer_with_Kulow](//digg.com/linux_unix/Sneak_Peeks_at_openSUSE_11_0_New_Installer_with_Kulow)
 
 <!-- more -->
 
@@ -30,21 +30,21 @@ Digg this story! [http://digg.com/linux_unix/Sneak_Peeks_at_openSUSE_11_0_New_In
 ### New Look
 
 
-With KDE 4 being adopted in the upcoming openSUSE 11.0, [YaST](http://opensuse.org/YaST) was ported over to Qt4 as well. This brought many enhancements, including the possibility of using Qt "css-like" stylesheets for customising the look of YaST. Since YaST is used for the installer as well, this meant that it could easily acquire a great new look. Our resident artist [Jakub 'Jimmac' Steiner](http://jimmac.musichall.cz/) came up with a great design, and together with Stephan Kulow it was implemented.
+With KDE 4 being adopted in the upcoming openSUSE 11.0, [YaST](//opensuse.org/YaST) was ported over to Qt4 as well. This brought many enhancements, including the possibility of using Qt "css-like" stylesheets for customising the look of YaST. Since YaST is used for the installer as well, this meant that it could easily acquire a great new look. Our resident artist [Jakub 'Jimmac' Steiner](//jimmac.musichall.cz/) came up with a great design, and together with Stephan Kulow it was implemented.
 
-[![Desktop Selection](/wp-content/uploads/2008/05/os110beta2-inst6_thumb.jpg)](http://files.opensuse.org/opensuse/en/6/68/OS11.0beta2-inst6.jpg)[![os110beta2-inst4.jpg](/wp-content/uploads/2008/06/os110beta2-inst4.jpg)](http://files.opensuse.org/opensuse/en/e/e4/Opensusedvd-install7.png)[![os110beta2-inst9.jpg](/wp-content/uploads/2008/06/os110beta2-inst9.jpg)](http://files.opensuse.org/opensuse/en/3/35/Opensusedvd-install15.png)
+[![Desktop Selection](/wp-content/uploads/2008/05/os110beta2-inst6_thumb.jpg)](//files.opensuse.org/opensuse/en/6/68/OS11.0beta2-inst6.jpg)[![os110beta2-inst4.jpg](/wp-content/uploads/2008/06/os110beta2-inst4.jpg)](//files.opensuse.org/opensuse/en/e/e4/Opensusedvd-install7.png)[![os110beta2-inst9.jpg](/wp-content/uploads/2008/06/os110beta2-inst9.jpg)](//files.opensuse.org/opensuse/en/3/35/Opensusedvd-install15.png)
 
-The dark green-grey theme is also used throughout openSUSE 11.0 for splash and boot screens. I think the reader will agree that it provides a very distinguished and polished look to the distribution. Thanks to [Kevin Dupuy](http://en.opensuse.org/User:Kdupuy9), you can also see a [full installation walkthrough](http://en.opensuse.org/Installation/11.0_DVD_Install) on the openSUSE wiki.
+The dark green-grey theme is also used throughout openSUSE 11.0 for splash and boot screens. I think the reader will agree that it provides a very distinguished and polished look to the distribution. Thanks to [Kevin Dupuy](//en.opensuse.org/User:Kdupuy9), you can also see a [full installation walkthrough](//en.opensuse.org/Installation/11.0_DVD_Install) on the openSUSE wiki.
 
 
 ### Quicker, Faster, Smarter
 
 
-As well as a visual change, the installer underwent many structural and 'under-the-hood' changes to make the installation both easier and quicker. Many steps are now consolidated or removed where unnecessary, meaning that you can perform an entire openSUSE installation with just seven clicks! To see the full transition, check out Kulow's talk at FOSDEM ([video](http://tube.opensuse.org/fosdem08/fosdem08_day1_02_coolo.ogg), [slides](http://files.opensuse.org/opensuse/en/4/4b/Outlook110.pdf)).
+As well as a visual change, the installer underwent many structural and 'under-the-hood' changes to make the installation both easier and quicker. Many steps are now consolidated or removed where unnecessary, meaning that you can perform an entire openSUSE installation with just seven clicks! To see the full transition, check out Kulow's talk at FOSDEM ([video](//tube.opensuse.org/fosdem08/fosdem08_day1_02_coolo.ogg), [slides](//files.opensuse.org/opensuse/en/4/4b/Outlook110.pdf)).
 
-We also switched to a pattern image-based installation, making the base installation an awful lot quicker. Package management has been [significantly improved](http://duncan.mac-vicar.com/blog/archives/314) (watch out for the forthcoming Sneak Peeks article). The package management is now the [fastest](http://duncan.mac-vicar.com/blog/archives/296), [smartest](http://duncan.mac-vicar.com/blog/archives/311), and [best performing](http://duncan.mac-vicar.com/blog/archives/309) of its kind, which also directly impacts on the installation time.
+We also switched to a pattern image-based installation, making the base installation an awful lot quicker. Package management has been [significantly improved](//duncan.mac-vicar.com/blog/archives/314) (watch out for the forthcoming Sneak Peeks article). The package management is now the [fastest](//duncan.mac-vicar.com/blog/archives/296), [smartest](//duncan.mac-vicar.com/blog/archives/311), and [best performing](//duncan.mac-vicar.com/blog/archives/309) of its kind, which also directly impacts on the installation time.
 
-For openSUSE 11.0 we also made the switch from bzip2 to [LZMA payload](http://en.opensuse.org/LZMA), resulting in both smaller RPMs (meaning the media can contain more packages and downloads are smaller), and faster decompression (meaning quicker installation of these packages). This switch alone means that RPM installation in some cases is up to **2.6 times faster**!
+For openSUSE 11.0 we also made the switch from bzip2 to [LZMA payload](//en.opensuse.org/LZMA), resulting in both smaller RPMs (meaning the media can contain more packages and downloads are smaller), and faster decompression (meaning quicker installation of these packages). This switch alone means that RPM installation in some cases is up to **2.6 times faster**!
 
 All of these changes now mean that you can perform a **complete openSUSE installation in** **under 20 minutes**!
 
@@ -55,9 +55,9 @@ All of these changes now mean that you can perform a **complete openSUSE install
 
 
 
-One of the primary media changes in openSUSE 11.0 is the removal of the previous 1-CD installation CDs. Now you have the chance of either the DVD installation (with KDE, GNOME, Xfce and much more), or a single GNOME live CD, or a KDE live CD -- both of which are installable. For a complete overview of the new layout scheme, see [Media Layout/11.0](http://en.opensuse.org/Media_Layout/11.0) on the wiki.
+One of the primary media changes in openSUSE 11.0 is the removal of the previous 1-CD installation CDs. Now you have the chance of either the DVD installation (with KDE, GNOME, Xfce and much more), or a single GNOME live CD, or a KDE live CD -- both of which are installable. For a complete overview of the new layout scheme, see [Media Layout/11.0](//en.opensuse.org/Media_Layout/11.0) on the wiki.
 
-[![os110beta3-live-inst2.png](/wp-content/uploads/2008/06/os110beta3-live-inst2.png) ](http://files.opensuse.org/opensuse/en/0/0a/OS11.0beta3-live-inst2.png)[![os110beta3-live-inst6.png](/wp-content/uploads/2008/06/os110beta3-live-inst6.png)](http://files.opensuse.org/opensuse/en/2/23/OS11.0beta3-live-inst6.png)[![GNOME Live CD Installer](/wp-content/uploads/2008/06/screenshot-tst-running-virtualbox-ose-8.png)](/wp-content/uploads/2008/06/screenshot-tst-running-virtualbox-ose-8.png)
+[![os110beta3-live-inst2.png](/wp-content/uploads/2008/06/os110beta3-live-inst2.png) ](//files.opensuse.org/opensuse/en/0/0a/OS11.0beta3-live-inst2.png)[![os110beta3-live-inst6.png](/wp-content/uploads/2008/06/os110beta3-live-inst6.png)](//files.opensuse.org/opensuse/en/2/23/OS11.0beta3-live-inst6.png)[![GNOME Live CD Installer](/wp-content/uploads/2008/06/screenshot-tst-running-virtualbox-ose-8.png)](/wp-content/uploads/2008/06/screenshot-tst-running-virtualbox-ose-8.png)
 
 The live installer has the convenience of allowing you to sample the complete distribution before choosing to install it, and to still have the opportunity to surf online, play a game or edit a document during the installation.
 
@@ -70,7 +70,7 @@ The live installer has the convenience of allowing you to sample the complete di
 
 
 
-![](http://files.opensuse.org/opensuse/en/d/d9/Stephan.jpg)
+![](//files.opensuse.org/opensuse/en/d/d9/Stephan.jpg)
 
 
 

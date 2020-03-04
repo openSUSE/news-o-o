@@ -21,19 +21,19 @@ The current list of scheduled topics is:
 
 
 	
-  * [old action items ](http://en.opensuse.org/KDE/Meetings/20100204)
+  * [old action items ](//en.opensuse.org/KDE/Meetings/20100204)
 
 	
   * status report
 
 	
-  * [Plans for 11.3](http://rekonq.sourceforge.net)
+  * [Plans for 11.3](//rekonq.sourceforge.net)
 
 	
-  * [Oxygen-molecule KDE/Gtk theme](http://www.kde-look.org/content/show.php?content=103741)
+  * [Oxygen-molecule KDE/Gtk theme](//www.kde-look.org/content/show.php?content=103741)
 
 	
-  * [Rekonq 0.4](http://rekonq.sourceforge.net/): WebKit browser. Beta released. Possible default browser candidate
+  * [Rekonq 0.4](//rekonq.sourceforge.net/): WebKit browser. Beta released. Possible default browser candidate
 
 	
   * calls for testing
@@ -44,10 +44,10 @@ The current list of scheduled topics is:
 
 
 	
-  * Further items are welcome; please add them to [http://en.opensuse.org/KDE/Meetings ](http://en.opensuse.org/KDE/Meetings)
+  * Further items are welcome; please add them to [//en.opensuse.org/KDE/Meetings ](//en.opensuse.org/KDE/Meetings)
 
 
-Please use the [World Clock](http://www.timeanddate.com/worldclock/fixedtime.html?day=18&amp;month=2&amp;year=2010&amp;hour=17&amp;min=0&amp;sec=0&amp;p1=0) to get the time of the meeting in your time zone.
+Please use the [World Clock](//www.timeanddate.com/worldclock/fixedtime.html?day=18&amp;month=2&amp;year=2010&amp;hour=17&amp;min=0&amp;sec=0&amp;p1=0) to get the time of the meeting in your time zone.
 
 The meeting will happen in #opensuse-kde IRC channel on irc.freenode.net
 

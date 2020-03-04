@@ -102,7 +102,7 @@ Depending of the unit I query the current amount of it and divide it by the goal
 ### Campaigns
 
 
-Another idea we came up are marketing campaigns. This is an incredible useful feature for organizers, because now they not only know how many, but also where the registrations and proposal submissions are coming from. For this feature we make heavily use of [Ahoy](http://ankane.github.io/ahoy/), a Ruby on Rails extension which provides a solid foundation to track visits and events. With Ahoy we can now simply track a registration like this:
+Another idea we came up are marketing campaigns. This is an incredible useful feature for organizers, because now they not only know how many, but also where the registrations and proposal submissions are coming from. For this feature we make heavily use of [Ahoy](//ankane.github.io/ahoy/), a Ruby on Rails extension which provides a solid foundation to track visits and events. With Ahoy we can now simply track a registration like this:
 
 
     

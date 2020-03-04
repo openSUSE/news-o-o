@@ -66,11 +66,11 @@ Starting is always difficult, but you don’t have to do it alone! In openSUSE, 
 ### Projects
 
 
-At openSUSE, you can find projects written in [Ruby on Rails](http://rubyonrails.org/), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en), [HTML/JavaScript](https://www.w3schools.com/html/html_scripts.asp), [C/C++](https://en.wikipedia.org/wiki/C%2B%2B) and much more. This year you can work during GSoC in some of the most central and biggest projects in openSUSE: [Open Build Service](https://github.com/openSUSE/open-build-service), [openQA](https://github.com/os-autoinst/openQA) and [YaST](https://github.com/yast). They will for sure be challenging projects to work in, but don’t get scared, as that means that you will learn a lot from it too. And remember that your mentors and other openSUSE contributors will be there to help you!
+At openSUSE, you can find projects written in [Ruby on Rails](//rubyonrails.org/), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en), [HTML/JavaScript](https://www.w3schools.com/html/html_scripts.asp), [C/C++](https://en.wikipedia.org/wiki/C%2B%2B) and much more. This year you can work during GSoC in some of the most central and biggest projects in openSUSE: [Open Build Service](https://github.com/openSUSE/open-build-service), [openQA](https://github.com/os-autoinst/openQA) and [YaST](https://github.com/yast). They will for sure be challenging projects to work in, but don’t get scared, as that means that you will learn a lot from it too. And remember that your mentors and other openSUSE contributors will be there to help you!
 
 But we also have simpler projects such as [Trollolo](https://github.com/openSUSE/trollolo), where any computer science university student could get started with Ruby. The desire to learn is much more important than the previous experience and knowledge.
 
-<!-- more -->You can find all the projects and more information in our mentoring page: **[http://101.opensuse.org](http://101.opensuse.org/)**. And if the projects at openSUSE don’t match your expectations, you can check other organizations: [https://summerofcode.withgoogle.com/organizations](https://summerofcode.withgoogle.com/organizations). You should look for a project that you consider interesting and that will allow you to learn as much as possible.
+<!-- more -->You can find all the projects and more information in our mentoring page: **[//101.opensuse.org](//101.opensuse.org/)**. And if the projects at openSUSE don’t match your expectations, you can check other organizations: [https://summerofcode.withgoogle.com/organizations](https://summerofcode.withgoogle.com/organizations). You should look for a project that you consider interesting and that will allow you to learn as much as possible.
 
 
 ### Let’s do it!
@@ -91,7 +91,7 @@ And if you have doubts do not hesitate to contact us. You can tweet us at [@ope
 ### About me
 
 
-My name is [Ana María Martínez](http://anamaria.martinezgomez.name) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](http://openbuildservice.org/) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)), IRC (@Ana06) and by writting a comment in this blog post. ![:wink:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png)
+My name is [Ana María Martínez](//anamaria.martinezgomez.name) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](//openbuildservice.org/) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)), IRC (@Ana06) and by writting a comment in this blog post. ![:wink:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png)
 
 
 
@@ -99,4 +99,4 @@ My name is [Ana María Martínez](http://anamaria.martinezgomez.name) and I st
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/02/15/gsoc-in-indonesia.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+This blog post original version can be found at [//anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](//anamaria.martinezgomez.name/2018/02/15/gsoc-in-indonesia.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](//creativecommons.org/licenses/by/4.0/). 

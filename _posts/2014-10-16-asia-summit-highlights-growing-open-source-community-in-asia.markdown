@@ -11,12 +11,12 @@ categories:
 - Summit
 ---
 
-[![opensuseasiasummit](/wp-content/uploads/2014/10/opensuseasiasummit.png)](/wp-content/uploads/2014/10/opensuseasiasummit.png)This weekend is the start of [openSUSE's first Asia Summit in Beijing](http://summit.opensuse.org/).
+[![opensuseasiasummit](/wp-content/uploads/2014/10/opensuseasiasummit.png)](/wp-content/uploads/2014/10/opensuseasiasummit.png)This weekend is the start of [openSUSE's first Asia Summit in Beijing](//summit.opensuse.org/).
 
 
 
 
-The summit, which is a follow on to an [open source summit](http://2014.gnome.asia/) SUSE sponsored in May, is expected to increase awareness in Asia about openSUSE and other Free and Open Source Software (FOSS).
+The summit, which is a follow on to an [open source summit](//2014.gnome.asia/) SUSE sponsored in May, is expected to increase awareness in Asia about openSUSE and other Free and Open Source Software (FOSS).
 
 
 

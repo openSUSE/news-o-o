@@ -28,13 +28,13 @@ tags:
 - yast
 ---
 
-[![](/wp-content/uploads/2014/11/Icon-yast.png)](/wp-content/uploads/2014/11/Icon-yast.png)As the first major Linux distribution to have Btrfs as the [default file system](http://doc.opensuse.org/products/draft/SLES/SLES-storage_sd_draft/filesystems.html), what can users and developers expect from openSUSE 13.2?
+[![](/wp-content/uploads/2014/11/Icon-yast.png)](/wp-content/uploads/2014/11/Icon-yast.png)As the first major Linux distribution to have Btrfs as the [default file system](//doc.opensuse.org/products/draft/SLES/SLES-storage_sd_draft/filesystems.html), what can users and developers expect from openSUSE 13.2?
 
 How is the systems capabilities enhanced?
 
 Btrfs has different performance characteristics; it's a logging-style file system that provides fault tolerance, repair, and easy management features.
 
-The most well known advantage of Btrfs is the [rollback](http://snapper.io/2014/04/29/rollback.html) capability with the open-source tool [Snapper](http://snapper.io/).
+The most well known advantage of Btrfs is the [rollback](//snapper.io/2014/04/29/rollback.html) capability with the open-source tool [Snapper](//snapper.io/).
 
 
 <blockquote>“Btrfs is mature,” said George Shi, who helped rollbacks become a reality for openSUSE users. “It works with Snapper to implement snapshot and rollback, the killer function of Btrfs. You can pick any date you saved to rollback your full system.”</blockquote>

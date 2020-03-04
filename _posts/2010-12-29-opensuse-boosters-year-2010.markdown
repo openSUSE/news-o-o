@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-[caption id="attachment_6077" align="alignright" width="300" caption="The elusive Thirsty Thirteen"][![](/wp-content/uploads/2010/12/Opensuse-boosters.jpg)](http://en.opensuse.org/openSUSE:Boosters_team)[/caption]
+[caption id="attachment_6077" align="alignright" width="300" caption="The elusive Thirsty Thirteen"][![](/wp-content/uploads/2010/12/Opensuse-boosters.jpg)](//en.opensuse.org/openSUSE:Boosters_team)[/caption]
 
 At the end of the year it is the time for reviews and the openSUSE Booster team did not want to let that opportunity slip. So what was important in 2010 from an openSUSE Boosters perspective? What happened, what progress was made, how did the boosters help openSUSE? A report from Klaas Freitag.<!-- more -->
 
@@ -19,7 +19,7 @@ At the end of the year it is the time for reviews and the openSUSE Booster team 
 ## Who are the Boosters
 
 
-For those who do not know who [the Boosters](http://en.opensuse.org/openSUSE:Boosters_team) are: We're not Tuxies favorite boy group, but a bunch of people dedicated to help the openSUSE Project in any way we can. The team consists of 13 people (BTW: widely known as the thirsty thirteen) with skills ranging from low level C hackery over Ruby on Rails mastering to Graphical Design or Project Management. Our team picks milestones and works on them in a agile fashion while always following our mantra: Grow community by enabling community. You can meet us at the usual places like IRC, the mailinglists or events were we show up and spread the word about openSUSE. We're there to make contributors life easier and more fun, so if you have anything do not hesitate to talk to us. We're here for you.
+For those who do not know who [the Boosters](//en.opensuse.org/openSUSE:Boosters_team) are: We're not Tuxies favorite boy group, but a bunch of people dedicated to help the openSUSE Project in any way we can. The team consists of 13 people (BTW: widely known as the thirsty thirteen) with skills ranging from low level C hackery over Ruby on Rails mastering to Graphical Design or Project Management. Our team picks milestones and works on them in a agile fashion while always following our mantra: Grow community by enabling community. You can meet us at the usual places like IRC, the mailinglists or events were we show up and spread the word about openSUSE. We're there to make contributors life easier and more fun, so if you have anything do not hesitate to talk to us. We're here for you.
 
 
 ## Events in 2010
@@ -51,7 +51,7 @@ At home, at the beginning of the year we worked on projects called "Integrate al
 ### OBS
 
 
-In parallel to that, Coolo and Tom were contributing to the new BuildService [web interface](http://build.opensuse.org). After long working hours we finally came out with a great web interface for OBS which was a big bump for the whole project, as it makes working in OBS much more fun. I remember that whole thing being started as a sprint called "Factory status", aiming to provide a good [overview page](https://build.opensuse.org/projectstatus?project=openSUSE%3AFactory) for the Factory project in OBS. It grew a bit more ambitions, but, well, that's how it goes if things are in movement ;-)
+In parallel to that, Coolo and Tom were contributing to the new BuildService [web interface](//build.opensuse.org). After long working hours we finally came out with a great web interface for OBS which was a big bump for the whole project, as it makes working in OBS much more fun. I remember that whole thing being started as a sprint called "Factory status", aiming to provide a good [overview page](https://build.opensuse.org/projectstatus?project=openSUSE%3AFactory) for the Factory project in OBS. It grew a bit more ambitions, but, well, that's how it goes if things are in movement ;-)
 
 
 ### LinuxTag
@@ -63,7 +63,7 @@ In June, there was LinuxTag in Berlin where most of us participated with talks i
 ### openSUSE 11.3
 
 
-In July, openSUSE 11.3 was released. That was lots of work beforehand with quite some boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is contributing to the distribution, we all have our shares in it. 11.3 was a good one, it got good press and showed that we as a community are doing great. All over the world release parties were organized, some Boosters took over the one here in Nürnberg. [Nice party](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm, because many community members showed up. Cool, I love that kind of stress to organize food and beer quickly to let the party go on :-)
+In July, openSUSE 11.3 was released. That was lots of work beforehand with quite some boosters involvement, as Mr. Distro Coolo is part of the team. However not only he is contributing to the distribution, we all have our shares in it. 11.3 was a good one, it got good press and showed that we as a community are doing great. All over the world release parties were organized, some Boosters took over the one here in Nürnberg. [Nice party](//lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/) with some talks, along with BBQ and beer. The latter ran out at 7pm, because many community members showed up. Cool, I love that kind of stress to organize food and beer quickly to let the party go on :-)
 
 
 ### GNOME and KDE conferences
@@ -75,14 +75,14 @@ Also in Summer, GUADEC as well as Akademy took place for our desktop Boosters. V
 ### openSUSE conference
 
 
-In autumn, the for me most exciting event of the year took place, the second [openSUSE Conference](http://en.opensuse.org/Portal:Conference). We were heavily involved in organizing, program committee work, giving talks and presentations and all what is involved with that kind of large event. It was a huge success, as a very active and passionate community showed up. Discussions went from a "This is what we did" in the last year to a "this is what we could do" which
+In autumn, the for me most exciting event of the year took place, the second [openSUSE Conference](//en.opensuse.org/Portal:Conference). We were heavily involved in organizing, program committee work, giving talks and presentations and all what is involved with that kind of large event. It was a huge success, as a very active and passionate community showed up. Discussions went from a "This is what we did" in the last year to a "this is what we could do" which
 is so great to see as that is resulting in innovation for the whole project. As a result some very concrete sub projects were created such as "Project Brezn" and openSUSE Invis which slowly evolves.
 
 
 ### openFATE, Connect and more
 
 
-After the conference and the release of 11.3 we started to dig into milestones again with [openFATE](http://features.opensuse.org) and [Connect](http://connect.opensuse.org). Since a couple of weeks we have a nice looking openFATE that has the features that make it
+After the conference and the release of 11.3 we started to dig into milestones again with [openFATE](//features.opensuse.org) and [Connect](//connect.opensuse.org). Since a couple of weeks we have a nice looking openFATE that has the features that make it
 possible for the feature screening team to work on one of our most important tasks in our project: Looking into the future of the distribution with feature evaluation. We also implemented the future of the user/group handling for all the openSUSE services with a social twist: Connect. Our own instance of a social network that makes it possible to connect the people that make this project what it is and at the same time makes it possible to centralize the user data.
 
 

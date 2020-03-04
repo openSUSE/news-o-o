@@ -11,9 +11,9 @@ categories:
 - Events
 ---
 
-[caption id="" align="alignright" width="200" caption="Party time!"][![Party time poster](http://en.opensuse.org/images/9/93/Opensuse_launch_party_smoke_by_anditosan.jpeg)](http://en.opensuse.org/openSUSE:Artwork_posters#openSUSE_Launch_Party_Poster)[/caption]
+[caption id="" align="alignright" width="200" caption="Party time!"][![Party time poster](//en.opensuse.org/images/9/93/Opensuse_launch_party_smoke_by_anditosan.jpeg)](//en.opensuse.org/openSUSE:Artwork_posters#openSUSE_Launch_Party_Poster)[/caption]
 
-We're almost there. In two days openSUSE once again releases a new, improved version of its distribution to the world. Reason to celebrate! And celebrate we will. Currently, about 11 parties have been registered but we know many more are being organized and we call out to you to [add your party to the wiki page](http://en.opensuse.org/openSUSE:Launch_parties)!
+We're almost there. In two days openSUSE once again releases a new, improved version of its distribution to the world. Reason to celebrate! And celebrate we will. Currently, about 11 parties have been registered but we know many more are being organized and we call out to you to [add your party to the wiki page](//en.opensuse.org/openSUSE:Launch_parties)!
 
 
 
@@ -59,9 +59,9 @@ Currently there are parties scheduled and registered in:
 
 
 <!-- more -->
-[caption id="attachment_11801" align="alignright" width="300" caption="Give a presentation!"][![Give a presentation!](/wp-content/uploads/2011/11/presentation.png)](http://en.opensuse.org/openSUSE:Presentations#openSUSE_12.1)[/caption]
+[caption id="attachment_11801" align="alignright" width="300" caption="Give a presentation!"][![Give a presentation!](/wp-content/uploads/2011/11/presentation.png)](//en.opensuse.org/openSUSE:Presentations#openSUSE_12.1)[/caption]
 
-Find the date, time and locations on [this page](http://en.opensuse.org/openSUSE:Launch_parties) and again, if you have not added your party yet - you know who you are - do so quickly!
+Find the date, time and locations on [this page](//en.opensuse.org/openSUSE:Launch_parties) and again, if you have not added your party yet - you know who you are - do so quickly!
 
 
 
@@ -75,18 +75,18 @@ It is definitely not too late to organize your own release party - just find a n
 ### Giving a presentation
 
 
-Note that we have **presentations ready to go** for you! You can find more information and downloads on [this page](http://en.opensuse.org/openSUSE:Presentations#openSUSE_12.1).
+Note that we have **presentations ready to go** for you! You can find more information and downloads on [this page](//en.opensuse.org/openSUSE:Presentations#openSUSE_12.1).
 
 
 
 ### Getting cool stuff™
 
 
-It's always nice to have some things to give away at a release  party. The openSUSE marketing team has plenty of cool stuff like stickers,  flyers, DVD's and t-shirts we can send to you! You could do a little  lottery or give away some things to long-time local openSUSE  contributors and the DVD's and flyers you can give to people to hand out  to their friends and family. If you're looking for some more tips on how to organize a party, [check the party how-to](http://en.opensuse.org/openSUSE:Launch_party_HOWTO)!
+It's always nice to have some things to give away at a release  party. The openSUSE marketing team has plenty of cool stuff like stickers,  flyers, DVD's and t-shirts we can send to you! You could do a little  lottery or give away some things to long-time local openSUSE  contributors and the DVD's and flyers you can give to people to hand out  to their friends and family. If you're looking for some more tips on how to organize a party, [check the party how-to](//en.opensuse.org/openSUSE:Launch_party_HOWTO)!
 
-[caption id="attachment_11802" align="alignright" width="300" caption="Get Geeko Goodies!"][![Geeko goodies](/wp-content/uploads/2011/11/DSC04361.jpg)](http://news.opensuse.org/2011/11/15/join-or-organize-opensuse-12-1-launch-parties/dsc04361/)[/caption]
+[caption id="attachment_11802" align="alignright" width="300" caption="Get Geeko Goodies!"][![Geeko goodies](/wp-content/uploads/2011/11/DSC04361.jpg)](//news.opensuse.org/2011/11/15/join-or-organize-opensuse-12-1-launch-parties/dsc04361/)[/caption]
 
-If you want to organize a release party and get stuff, [add your party to the wiki page](http://en.opensuse.org/openSUSE:Launch_parties) and _order the materials_ via [this website](http://software.opensuse.org/promodvd). Note clearly in the description that you want stuff for a release party so we prioritize your request!!!
+If you want to organize a release party and get stuff, [add your party to the wiki page](//en.opensuse.org/openSUSE:Launch_parties) and _order the materials_ via [this website](//software.opensuse.org/promodvd). Note clearly in the description that you want stuff for a release party so we prioritize your request!!!
 
 Count on _at least 2 weeks_ shipping and handling time in Europe and the USA, _3-4 weeks_ in the rest of the world.
 

@@ -12,11 +12,11 @@ categories:
 - Infrastructure
 ---
 
-We had a successful [openSUSE 11.3](http://news.opensuse.org/2010/07/15/opensuse-11-3-is-here/) launch yesterday. The announcement itself saw many friendly comments. Many people retweeted the announcement from @openSUSE.
+We had a successful [openSUSE 11.3](//news.opensuse.org/2010/07/15/opensuse-11-3-is-here/) launch yesterday. The announcement itself saw many friendly comments. Many people retweeted the announcement from @openSUSE.
 
-Besides the announcement on [news.opensuse.org](http://news.opensuse.org/2010/07/15/opensuse-11-3-is-here/), Novell released a [press release](http://www.novell.com/news/press/opensuse-project-releases-opensuse-11.3/) and distributed it through the press channel. We're collecting all press mentions of the launch in the [openSUSE wiki](http://en.opensuse.org/In_the_press).
+Besides the announcement on [news.opensuse.org](//news.opensuse.org/2010/07/15/opensuse-11-3-is-here/), Novell released a [press release](//www.novell.com/news/press/opensuse-project-releases-opensuse-11.3/) and distributed it through the press channel. We're collecting all press mentions of the launch in the [openSUSE wiki](//en.opensuse.org/In_the_press).
 
-A couple of launch parties were held and more parties are upcoming, reports from them will show up on [Planet openSUSE](http://planet.opensuse.org) soon.  So far I've seen a report about the launch in [Bucharest](http://nicubunu.blogspot.com/2010/07/opensuse-113.html) and in [Nürnberg](http://lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/).
+A couple of launch parties were held and more parties are upcoming, reports from them will show up on [Planet openSUSE](//planet.opensuse.org) soon.  So far I've seen a report about the launch in [Bucharest](//nicubunu.blogspot.com/2010/07/opensuse-113.html) and in [Nürnberg](//lizards.opensuse.org/2010/07/16/opensuse-11-3-launch-party-in-nurnberg/).
 
 After 24 hours, it's time to write up a few numbers as well. A total of 49599 requests for ISOs were reached via our download redirector.
 

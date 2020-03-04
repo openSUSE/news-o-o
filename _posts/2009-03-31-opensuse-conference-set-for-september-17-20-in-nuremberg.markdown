@@ -32,7 +32,7 @@ There's still a lot of planning to be done, but we want to get the word out that
   * Dress code: None - but you have to wear clothes
 
 
-Additional details can be found (or are forthcoming) [on the openSUSE wiki](http://en.opensuse.org/OpenSUSE_Conf_2009).
+Additional details can be found (or are forthcoming) [on the openSUSE wiki](//en.opensuse.org/OpenSUSE_Conf_2009).
 
 If you're interested in being part of the conference team, speak up on the opensuse-marketing mailing list. We're looking for contributors to help with speaker selection, event staff, video recording talks and sessions, and much more. See the wiki for more help, and add your name if you're interested in being part of the conference team.
 

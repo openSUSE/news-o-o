@@ -34,7 +34,7 @@ Like [Terminator](https://code.google.com/archive/p/jessies/wikis/Terminator.wik
 
 [![Tilix](https://git.volted.net/sogal/opensuse-articles/raw/master/tilix/tilix_1_00_intro.png)](https://git.volted.net/sogal/opensuse-articles/raw/master/tilix/tilix_1_00_intro.png)
 
-It can also be a replacement for [Guake](http://guake-project.org/), as it also functions as a _dropdown terminal_ (this feature is not available inside of a [Wayland](https://wayland.freedesktop.org/) session).
+It can also be a replacement for [Guake](//guake-project.org/), as it also functions as a _dropdown terminal_ (this feature is not available inside of a [Wayland](https://wayland.freedesktop.org/) session).
 
 [![Tilix](https://git.volted.net/sogal/opensuse-articles/raw/master/tilix/tilix_1_06_quake.png)](https://git.volted.net/sogal/opensuse-articles/raw/master/tilix/tilix_1_06_quake.png)
 

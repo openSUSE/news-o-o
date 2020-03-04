@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Despite being a openSUSE member and a platinum member of the [PackMan](http://packman.links2linux.org/) team packaging several widely-used applications he also helps the [Build Service team](http://en.opensuse.org/Build_Service_Team) with osc code contributions.
+Despite being a openSUSE member and a platinum member of the [PackMan](//packman.links2linux.org/) team packaging several widely-used applications he also helps the [Build Service team](//en.opensuse.org/Build_Service_Team) with osc code contributions.
 
 With no more talk, today we nominate Marcus Hüwe as part of 'People of openSUSE'!
 
@@ -168,7 +168,7 @@ As I'm a member of the PackMan team I'm of course building packages :)
 I have several packages at PackMan but also moved some of them already to the BuildService. Moreover Richard Bos and I ported the Kolab Groupware Server to SUSE and did a lot of autoconfiscation work in order to get it also running on other distributions.
 Additionally I'm hacking on osc and try to help new users with questions about the BuildService (IRC + mailinglist).
 
-Last but not least I'm a moderator in web forum ([Linux-Club.de](http://www.linux-club.de)).
+Last but not least I'm a moderator in web forum ([Linux-Club.de](//www.linux-club.de)).
 
 
 

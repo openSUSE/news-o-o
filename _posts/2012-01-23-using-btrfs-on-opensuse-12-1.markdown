@@ -18,7 +18,7 @@ tags:
 
 
 
-# Introduction[![](/wp-content/uploads/2012/01/opensuse.jpg)](http://news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/opensuse-3/)
+# Introduction[![](/wp-content/uploads/2012/01/opensuse.jpg)](//news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/opensuse-3/)
 
 
 
@@ -44,7 +44,7 @@ In this how-to I will focus on one particularly neat feature: snapshots. Btrfs a
 
 
 
-[![](/wp-content/uploads/2012/01/1404627795_3f802006f2.jpg)](http://news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/1404627795_3f802006f2/)So how does btrfs do all that snapshot awesomeness? The answer is, it uses subvolumes. Subvolumes are something like separate filesystems within one partition: you can have several filesystem roots in the same container. With copy-on-write (COW) this means that “almost-separate filesystems” can share duplicate data and therefore save space. (Note: Subvolumes do not have a fixed size, they grow and shrink with the data they contain.)
+[![](/wp-content/uploads/2012/01/1404627795_3f802006f2.jpg)](//news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/1404627795_3f802006f2/)So how does btrfs do all that snapshot awesomeness? The answer is, it uses subvolumes. Subvolumes are something like separate filesystems within one partition: you can have several filesystem roots in the same container. With copy-on-write (COW) this means that “almost-separate filesystems” can share duplicate data and therefore save space. (Note: Subvolumes do not have a fixed size, they grow and shrink with the data they contain.)
 
 
 
@@ -82,7 +82,7 @@ or view plain btrfs submodules/snapshots with
 Note that in the snapper listing snapshot #0 is always the current system. Also note that for btrfs snapshots and submodules are the same thing.
 
 
-## Snapper Configs[![](/wp-content/uploads/2012/01/702156156_4d006e9ea8.jpg)](http://news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/702156156_4d006e9ea8/)
+## Snapper Configs[![](/wp-content/uploads/2012/01/702156156_4d006e9ea8.jpg)](//news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/702156156_4d006e9ea8/)
 
 
 Snapper keeps configs for your partitions; you can view them with
@@ -126,7 +126,7 @@ To restore a snapshot made with snapper use
 `snapper undochange []...`
 You can also specify ranges, as in snapper undochange 42..47.
 
-[![](/wp-content/uploads/2012/01/702135486_a5e71542b5.jpg)](http://news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/702135486_a5e71542b5/)To do the same with vanilla btrfs use
+[![](/wp-content/uploads/2012/01/702135486_a5e71542b5.jpg)](//news.opensuse.org/2012/01/23/using-btrfs-on-opensuse-12-1/702135486_a5e71542b5/)To do the same with vanilla btrfs use
 `btrfs subvolume set-default `
 where can be found out with btrfs subvolume list and then unmount and remount.
 
@@ -149,4 +149,4 @@ Fixes from kernel 3.2 have not been backported into 3.1 yet, so you may want to 
 
 [Linux.com Tuturial](https://www.linux.com/learn/tutorials/533112-weekend-project-get-to-know-btrfs)
 
-[openSUSE Snapper Portal](http://en.opensuse.org/Portal:Snapper)
+[openSUSE Snapper Portal](//en.opensuse.org/Portal:Snapper)

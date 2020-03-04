@@ -11,14 +11,14 @@ categories:
 - Project
 ---
 
-Friday 16.09, while working on the [openSUSE 12.1](http://en.opensuse.org/Portal:12.1) marketing actions during the [Marketing Hackfest](http://en.opensuse.org/openSUSE:12.1_Marketing_Hackfest), two of us had the spontaneous idea to suggest an interview to Michael Miller([Vice President of Global Alliances & Marketing for SUSE](http://www.suse.com/company/executive-management/)), asking him a few questions we could have in the openSUSE community. We did not have the time to go around, to find the FAQ or to choose the “best questions”. It was kind of “shall we do that, around a cup of coffee ? Why not ?”. And Michael Miller accepted our proposition, without any objection or any “joker's need”.
+Friday 16.09, while working on the [openSUSE 12.1](//en.opensuse.org/Portal:12.1) marketing actions during the [Marketing Hackfest](//en.opensuse.org/openSUSE:12.1_Marketing_Hackfest), two of us had the spontaneous idea to suggest an interview to Michael Miller([Vice President of Global Alliances & Marketing for SUSE](//www.suse.com/company/executive-management/)), asking him a few questions we could have in the openSUSE community. We did not have the time to go around, to find the FAQ or to choose the “best questions”. It was kind of “shall we do that, around a cup of coffee ? Why not ?”. And Michael Miller accepted our proposition, without any objection or any “joker's need”.
 
 
 **<!-- more -->We thank him for his open mind, flexibility and simplicity,
 and hope you'll appreciate this interview as much as we did.**
 
 
-[![](/wp-content/uploads/2011/10/interview-MM-1b.jpg)](http://news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-1b/)**1.** Can you remember what were your impressions, when you first installed openSUSE ? What did you find easy and what was difficult?
+[![](/wp-content/uploads/2011/10/interview-MM-1b.jpg)](//news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-1b/)**1.** Can you remember what were your impressions, when you first installed openSUSE ? What did you find easy and what was difficult?
 
 **Michael Miller**: let me think about that. I wasn't used to YaST, so I didn't know that everything was right there.
 
@@ -42,9 +42,9 @@ And at the same time it was very casual and fun. So, an interesting combination 
 
 **MM: **Yeah, and I would advise different people in a corporate environment, to go to different types of events like openSUSE conference. Not just people looking for technical contents but I would also advise  enterprises who want to run her business better and want to contribute to open source. Becoming a new contributor is a bit scary. But when you go to such conference as openSUSE, there is no intimidation. It's so friendly that it's a really good way for people  to join the community.
 
-**3. **[Attachmate](http://www.attachmate.com/) is hiring people from various projects, like Cornelius S. or Greg K.H.to help openSUSE community. Why are you doing that? What are the benefits for the [SUSE](http://www.suse.com/) business?
+**3. **[Attachmate](//www.attachmate.com/) is hiring people from various projects, like Cornelius S. or Greg K.H.to help openSUSE community. Why are you doing that? What are the benefits for the [SUSE](//www.suse.com/) business?
 
-**MM:** For us, or I would say for SUSE as a business, it's two things :[![](/wp-content/uploads/2011/10/interview-MM-2a.jpg)](http://news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-2a-2/)
+**MM:** For us, or I would say for SUSE as a business, it's two things :[![](/wp-content/uploads/2011/10/interview-MM-2a.jpg)](//news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-2a-2/)
 
 
 
@@ -70,7 +70,7 @@ The SUSE business and the openSUSE community, we won't have always the same prio
 **5.**According to you, what are the main differences between SUSE and openSUSE? And how can we get over them to collaborate efficiently?
 
 **MM:** I think one difference between SUSE and openSUSE is that openSUSE is driven by a consensus based organization, from bottom to top. The board are elected people, based on merit.
-openSUSE is UNIQUE, the community and how it works is unique. In the SUSE business, we do what is needed to service a market demand, which is not always the line of our personal passion. And the customers and market demands can change, so you may working on something and be very excited about it, then you have to stop and start working on the other thing.[![](/wp-content/uploads/2011/10/interview-MM-3.jpg)](http://news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-3/)
+openSUSE is UNIQUE, the community and how it works is unique. In the SUSE business, we do what is needed to service a market demand, which is not always the line of our personal passion. And the customers and market demands can change, so you may working on something and be very excited about it, then you have to stop and start working on the other thing.[![](/wp-content/uploads/2011/10/interview-MM-3.jpg)](//news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-3/)
 
 That is very different from the openSUSE community, where you have the freedom to work from your passion, and take it as far as you want to take it.
 
@@ -86,7 +86,7 @@ Now, I see the openSUSE community as more fun, people who are passionate and hav
 
 **PS: You wanna help? We have a big to-do list ;-))**
 
-**[![](/wp-content/uploads/2011/10/interview-MM-8.jpg)](http://news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-8/)MM:** I think in the next months, really near term, we have to get out the 12.1 version, and yes promote it like it deserves because it's a really attractive and amazing one. My personal opinion is that we should make sure that we can build on top of that version, like using 12.1 as strong base and signal for new areas. So we talk about openSUSE as a distribution called  12.1, but it is also as a whole project with more than just a distribution. We can grow upon that - marketing our community and tools around the distribution, and by doing so get all that much bigger and more diverse by attracting more contributors.
+**[![](/wp-content/uploads/2011/10/interview-MM-8.jpg)](//news.opensuse.org/2011/10/26/coffee-talk-with-michael-miller/interview-mm-8/)MM:** I think in the next months, really near term, we have to get out the 12.1 version, and yes promote it like it deserves because it's a really attractive and amazing one. My personal opinion is that we should make sure that we can build on top of that version, like using 12.1 as strong base and signal for new areas. So we talk about openSUSE as a distribution called  12.1, but it is also as a whole project with more than just a distribution. We can grow upon that - marketing our community and tools around the distribution, and by doing so get all that much bigger and more diverse by attracting more contributors.
 
 **7.** What would you like to say in this article and to the openSUSE community?
 

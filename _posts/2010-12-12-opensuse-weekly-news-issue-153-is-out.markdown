@@ -85,18 +85,18 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
   
 
 
-<blockquote>**[openSUSE poster and Free Software Calendar 2011 with Linux Magazin](http://news.opensuse.org/2010/12/06/opensuse-poster-and-free-software-calendar-2011-with-linux-magazin/)**
+<blockquote>**[openSUSE poster and Free Software Calendar 2011 with Linux Magazin](//news.opensuse.org/2010/12/06/opensuse-poster-and-free-software-calendar-2011-with-linux-magazin/)**
 > 
-> The Januari edition of the German [Linux-Magazin](http://www.linux-magazin.de) this year will feature something this Magazine has not featured for almost 10 years: a Free Software Event calendar. Sponsored by SUSE, this calendar features many of the upcoming Free Software events in 2011 mingled with interesting tidbits about Linux and Unix history! While this geeky piece of paper (offering the date and time of events in unix time) is cool, the back offers an even more exciting layer of ink: Beer! Our very own Robert Lihm, openSUSE artist Extra-Ordinaire has taken a picture of the [famous “Old Toad” beer](http://en.opensuse.org/openSUSE:Beer), featured at the openSUSE conference. Uttering the infamous words “A good beer is a good beer”, he decided this would form a good foundation for a poster. Hence, everyone who gets his or her hands on this first 2011 edition of Linux-Magazin can use the back of this Calendar to show how much beer and openSUSE go together (read more about the beer).
-      The Linux-Magazin folks have also thought about those for whom German is not a first language – they have made an English translation of the Calendar and the graphics for both Calendar and Poster are available on the openSUSE wiki for re-print under liberal licensing terms – the magazine is for sale now, get it or just [download and print the calendars and of course the awesome poster](http://en.opensuse.org/openSUSE:Marketing_materials#Folders_and_leaflets)! For the poster we hope to have sources online soon, if you want them now, ask Robert Lihm!Figure 1, “Old Toad Poster”
+> The Januari edition of the German [Linux-Magazin](//www.linux-magazin.de) this year will feature something this Magazine has not featured for almost 10 years: a Free Software Event calendar. Sponsored by SUSE, this calendar features many of the upcoming Free Software events in 2011 mingled with interesting tidbits about Linux and Unix history! While this geeky piece of paper (offering the date and time of events in unix time) is cool, the back offers an even more exciting layer of ink: Beer! Our very own Robert Lihm, openSUSE artist Extra-Ordinaire has taken a picture of the [famous “Old Toad” beer](//en.opensuse.org/openSUSE:Beer), featured at the openSUSE conference. Uttering the infamous words “A good beer is a good beer”, he decided this would form a good foundation for a poster. Hence, everyone who gets his or her hands on this first 2011 edition of Linux-Magazin can use the back of this Calendar to show how much beer and openSUSE go together (read more about the beer).
+      The Linux-Magazin folks have also thought about those for whom German is not a first language – they have made an English translation of the Calendar and the graphics for both Calendar and Poster are available on the openSUSE wiki for re-print under liberal licensing terms – the magazine is for sale now, get it or just [download and print the calendars and of course the awesome poster](//en.opensuse.org/openSUSE:Marketing_materials#Folders_and_leaflets)! For the poster we hope to have sources online soon, if you want them now, ask Robert Lihm!Figure 1, “Old Toad Poster”
     
 > 
 > </blockquote>
 
-<blockquote>**[Updating openSUSE Manuals for openSUSE 11.4](http://news.opensuse.org/2010/12/07/updating-opensuse-manuals-for-opensuse-11-4/)**
+<blockquote>**[Updating openSUSE Manuals for openSUSE 11.4](//news.opensuse.org/2010/12/07/updating-opensuse-manuals-for-opensuse-11-4/)**
 > 
 > With the openSUSE distribution, we have a set of openSUSE manuals and QuickStart guides.
-      You can read them online via [http://doc.opensuse.org](http://doc.opensuse.org). They are installed by default on your system so you can
+      You can read them online via [//doc.opensuse.org](//doc.opensuse.org). They are installed by default on your system so you can
         access them there as well. 
 > 
 > **Figure 2. docs.opensuse.org**
@@ -117,7 +117,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
       added a few things that came to mind. Figure 2, “docs.opensuse.org”
 > 
 > The Novell[ documentation
-        team](http://en.opensuse.org/openSUSE:Documentation_team) will concentrate on updating the Startup Guide, the GNOME and KDE Quick Guides
+        team](//en.opensuse.org/openSUSE:Documentation_team) will concentrate on updating the Startup Guide, the GNOME and KDE Quick Guides
       and the Reference guide. They plan to also add a short chapter on the top use cases so that
       for example new users know to use LibreOffice as their Office Suite and where to find more
       information about it. 
@@ -132,11 +132,11 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > </blockquote>
 
 <blockquote>**[Greek
-        sub-forum @ openSUSE Forums](http://news.opensuse.org/2010/12/07/greek-sub-forum-opensuse-forums/)**
+        sub-forum @ openSUSE Forums](//news.opensuse.org/2010/12/07/greek-sub-forum-opensuse-forums/)**
 > 
 > We are pleased to announce the Greek sub-forum is now live and ready for business. I have
       been working closely with: @warlordfff, who will be one of the Forum Moderators. The full list
-      of openSUSE forum Moderators can be seen here: [http://en.opensuse.org/openSUSE:Forums_team ](http://en.opensuse.org/openSUSE:Forums_team)
+      of openSUSE forum Moderators can be seen here: [//en.opensuse.org/openSUSE:Forums_team ](//en.opensuse.org/openSUSE:Forums_team)
 > 
 > openSUSE forums offers a warm welcome to all language groups and we are especially pleased
       to see the successful launch of the Greek Forum. Now if only I was fluent in Greek! I could
@@ -144,15 +144,15 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > 
 > </blockquote>
 
-<blockquote>**[Join us on Saturday for the next openSUSE “Zombie” Bug Day](http://news.opensuse.org/2010/12/08/join-us-on-saturday-for-the-next-opensuse-zombie-bug-day/)**
+<blockquote>**[Join us on Saturday for the next openSUSE “Zombie” Bug Day](//news.opensuse.org/2010/12/08/join-us-on-saturday-for-the-next-opensuse-zombie-bug-day/)**
 > 
 > On Saturday the 27th of November a Bug Day was organized to [solve
-        the issue with Zombie bugs](http://news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/), bugs against old, non-maintained versions of openSUSE. A
-      team got together in the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode](http://freenode.net)
+        the issue with Zombie bugs](//news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/), bugs against old, non-maintained versions of openSUSE. A
+      team got together in the [#opensuse-bug](irc://irc.freenode.net/opensuse-bug) channel on the [freenode](//freenode.net)
       network to review the bugs for any important and still valid information, otherwise closing
-      them to clean up [bugzilla](http://bugzilla.novell.com).
+      them to clean up [bugzilla](//bugzilla.novell.com).
 > 
-> **Results** The outcome has been [awesome:](http://lists.opensuse.org/opensuse-project/2010-11/msg00205.html)
+> **Results** The outcome has been [awesome:](//lists.opensuse.org/opensuse-project/2010-11/msg00205.html)
 > 
 > **Table 1. Results**
 > 
@@ -188,8 +188,8 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
       
 > 
 >   * A recent version of[ openSUSE like
-              11.3](http://software.opensuse.org/) or a [milestone of
-              11.4](http://software.opensuse.org/developer). It’s of course okay to run openSUSE in a virtual machine.
+              11.3](//software.opensuse.org/) or a [milestone of
+              11.4](//software.opensuse.org/developer). It’s of course okay to run openSUSE in a virtual machine.
 > 
 >   * An IRC client to interact with the other participants
 > 
@@ -209,7 +209,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > </blockquote>
 
 <blockquote>**[openSUSE
-        Collaboration thrives!](http://news.opensuse.org/2010/12/10/opensuse-collaboration-thrives/)**
+        Collaboration thrives!](//news.opensuse.org/2010/12/10/opensuse-collaboration-thrives/)**
 > 
 > Earlier this week, the openSUSE Marketing Team held the first of a series of Collaboration
       Days in December. This was, without a doubt, a success with many of our team members showing
@@ -236,12 +236,12 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
     near future, we’ll have just about everything on the list of last Monday will be finished.
     Koudras and Ribeiro are busy sorting out the “dones” and remaining to-dos and the results will
     be posted on the [marketing
-      wiki](http://en.opensuse.org/Portal:Marketing).Figure 3, “Apparently not build in a day”
+      wiki](//en.opensuse.org/Portal:Marketing).Figure 3, “Apparently not build in a day”
 > 
 > **More Collaboration Days coming! **
 > 
 > Meanwhile, Linux Journal is noticing [the spirit of
-      openSUSE](http://www.linuxjournal.com/content/has-novell-deal-hampered-opensuse) – mentioning the Collaboration days in the linked article! The team feels
+      openSUSE](//www.linuxjournal.com/content/has-novell-deal-hampered-opensuse) – mentioning the Collaboration days in the linked article! The team feels
     full of energy and is looking forward to the next two Collaboration Days scheduled for this
     month. On Monday, 13 December, we’ll have the Marketing Materials Review Day and on Tuesday, 21
     December, we’ll have the PR and Social Media Review Day. 
@@ -279,7 +279,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 ### ![Header Picture](/wp-content/uploads/2010/12/Suse_Box.png)Distribution
 
-<blockquote>**[Schedules for the next week](http://www.suse.de/~coolo/opensuse_11.4/)**
+<blockquote>**[Schedules for the next week](//www.suse.de/~coolo/opensuse_11.4/)**
 > 
 > openSUSE 11.4 Milestone 5 release
 > 
@@ -300,20 +300,20 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 **Important Links**
 
   * [Detailed Bugzilla
-        Report](http://tinyurl.com/392jnb)
+        Report](//tinyurl.com/392jnb)
 
   * [Submitting
-        Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+        Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
   * [Bug Reporting
-        FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+        FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 ### Team Report
 
 #### ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Build-Service.png)Build Service Team
 
 <blockquote>**[Marcus Hüwe: osc
-            0.130](http://lizards.opensuse.org/2010/12/06/osc-0-130/)**
+            0.130](//lizards.opensuse.org/2010/12/06/osc-0-130/)**
 > 
 > We just released a new osc version: 0.130. The main changes/features are:
 > 
@@ -373,18 +373,18 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
           section “WORKING COPY INCONSISTENT” in the README.
 > 
 > The new packages should be available soon in the [openSUSE:Tools
-            repo](http://download.opensuse.org/repositories/openSUSE:/Tools/).
+            repo](//download.opensuse.org/repositories/openSUSE:/Tools/).
 > 
 > Thanks to everyone who contributed to osc!
 > 
 > </blockquote>
 
-**Build Service Statistics. **Statistics can found at [Buildservice](http://build.opensuse.org)
+**Build Service Statistics. **Statistics can found at [Buildservice](//build.opensuse.org)
 
 #### ![Header Picture](/wp-content/uploads/2010/12/GNOME-foot.jpg)GNOME Team
 
 <blockquote>**[Nelson
-          Marques: Indicator ME has landed!](http://lizards.opensuse.org/2010/12/07/indicator-me-has-landed/)**
+          Marques: Indicator ME has landed!](//lizards.opensuse.org/2010/12/07/indicator-me-has-landed/)**
 > 
 > The first package I pushed to openSUSE was Notify OSD (Canonicals Notification
           Agent/Bubble) with a small patch for extended features (skinning/theming) maintained by Roman
@@ -399,7 +399,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > **Figure 4. Indicator ME Screenshot 1**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="75%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Indicator ME Screenshot 1](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-1.png)
+> <td >![Indicator ME Screenshot 1](//lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-1.png)
 > </td></tr></table>
 > 
 >   
@@ -428,7 +428,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > **Figure 5. Indicator ME Screenshot 2**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="75%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Indicator ME Screenshot 2](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-2.png)
+> <td >![Indicator ME Screenshot 2](//lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-2.png)
 > </td></tr></table>
 > 
 >   
@@ -451,7 +451,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > </blockquote>
 
 <blockquote>**[Nelson
-            Marques: indicator-{session,network}](http://lizards.opensuse.org/2010/12/09/indicator-sessionnetwork/)**
+            Marques: indicator-{session,network}](//lizards.opensuse.org/2010/12/09/indicator-sessionnetwork/)**
 > 
 > I’ve manage to hammer in 2 more indicators. Indicator-session provides a quick and
           easy method to manage your GNOME session. The options are pretty intuitive and it works ok
@@ -460,7 +460,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > **Figure 6. Screenshot**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Screenshot](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot.png)
+> <td >![Screenshot](//lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot.png)
 > </td></tr></table>
 > 
 >   
@@ -483,7 +483,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > **Figure 7. Screenshot 2**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Screenshot 2](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-41.png)
+> <td >![Screenshot 2](//lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-41.png)
 > </td></tr></table>
 > 
 >   
@@ -495,7 +495,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > </blockquote>
 
 <blockquote>**[Nelson
-            Marques: New Indicators… the saga continues…](http://lizards.opensuse.org/2010/12/10/new-indicators-the-saga-continues/)**
+            Marques: New Indicators… the saga continues…](//lizards.opensuse.org/2010/12/10/new-indicators-the-saga-continues/)**
 > 
 > As the indicator saga continues… some new indicators were built… Indicator-messages is
           a small indicator that pics up messages and stuff from applications to display them on a
@@ -511,7 +511,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > **Figure 8. Screenshot**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Screenshot](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-21.png)
+> <td >![Screenshot](//lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-21.png)
 > </td></tr></table>
 > 
 >   
@@ -552,7 +552,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 > **Figure 9. Screenshot 2**
 > 
 > <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-> <td >![Screenshot 2](http://lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-11.png)
+> <td >![Screenshot 2](//lizards.opensuse.org/wp-content/uploads/2010/12/Screenshot-11.png)
 > </td></tr></table>
 > 
 >   
@@ -576,7 +576,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 <blockquote>**[Look at plymouth for splash during boot (Score: 148)](https://features.opensuse.org/305493)**
 > 
-> "I wanted to open a fate feature about this when I first heard of plymouth, but reading http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/ really makes me think we should go this way. (...)"
+> "I wanted to open a fate feature about this when I first heard of plymouth, but reading //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/ really makes me think we should go this way. (...)"
 > 
 > </blockquote>
 
@@ -611,8 +611,8 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 
 <blockquote>**[Mobile Broadband Assistant Wizard](https://features.opensuse.org/310937)**
 > 
-> "http://forums.opensuse.org/english/get-help-here/network-internet/450790-mobile-broadband-assistant-would-further-enhance-opensuse.html#post2261514
-            http://blogs.gnome.org/dcbw/2009/06/22/mobile-broadband-assistant-makes-it-easy/
+> "//forums.opensuse.org/english/get-help-here/network-internet/450790-mobile-broadband-assistant-would-further-enhance-opensuse.html#post2261514
+            //blogs.gnome.org/dcbw/2009/06/22/mobile-broadband-assistant-makes-it-easy/
             can I suggest this could be valuable addition to OpenSuse for mobile broadband?"
 > 
 > </blockquote>
@@ -659,7 +659,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 <blockquote>**[Include PAC Manager in openSuSE](https://features.opensuse.org/310955)**
 > 
 > "The description from the application's website [
-            http://gtk-apps.org/content/show.php/PAC+Manager?content=125533 ]
+            //gtk-apps.org/content/show.php/PAC+Manager?content=125533 ]
             "PAC is a Perl/GTK Gnome replacement for  SecureCRT/Putty/...
             It provides a GUI to configure SSH/Telnet  connections: users, passwords, EXPECT regular expressions, macros, etc...""
 > 
@@ -668,7 +668,7 @@ We are pleased to announce our 153 issue of the openSUSE Weekly News. Enjoy the 
 <blockquote>**[Amarok 2.4 for opensuse 11.4](https://features.opensuse.org/310958)**
 > 
 > "as per the first beta announcement:
-            http://amarok.kde.org/en/releases/2.4/beta/1
+            //amarok.kde.org/en/releases/2.4/beta/1
             "This new release brings a lot of new features. The following  features are critical and need a lot of testing to make sure they are  top-notch for final release at the beginning of 2011. We need your help  with this, so try them out and report any problems you find! (...)""
 > 
 > </blockquote>
@@ -704,11 +704,11 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
   * Daily updated translation statistics are available on the
           [openSUSE Localization
-          Portal](http://i18n.opensuse.org/).
+          Portal](//i18n.opensuse.org/).
 
   * [Trunk
-          Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization
-          Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+          Top-List](//i18n.opensuse.org/stats/trunk/toplist.php) – [Localization
+          Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Icon-project.png)In the Community
 
@@ -716,34 +716,34 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 **Past**
 
-  * [December 01, 2010: openSUSE Board Meeting"](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [December 01, 2010: openSUSE Board Meeting"](//news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-[December 04, 2010: openSUSE Greek Community Meeting"](http://news.opensuse.org/2010/12/01/opensuse-greek-community-meeting/)
+[December 04, 2010: openSUSE Greek Community Meeting"](//news.opensuse.org/2010/12/01/opensuse-greek-community-meeting/)
 
-[December 06, 2010: Marketing Collaboration Day - Ambassador Support Review"](http://news.opensuse.org/2010/12/02/ambassador-support-review/)
+[December 06, 2010: Marketing Collaboration Day - Ambassador Support Review"](//news.opensuse.org/2010/12/02/ambassador-support-review/)
 
-[December 08, 2010: German Wiki Team Meeting"](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+[December 08, 2010: German Wiki Team Meeting"](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
-[December 09, 2010: ﻿openSUSE KDE Team meeting"](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+[December 09, 2010: ﻿openSUSE KDE Team meeting"](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 **Upcoming**
 
-  * [December 13, 2010: Marketing Collaboration Day - Marketing Materials Review](http://news.opensuse.org/2010/12/02/marketing-materials-review/)
+  * [December 13, 2010: Marketing Collaboration Day - Marketing Materials Review](//news.opensuse.org/2010/12/02/marketing-materials-review/)
 
-[December 14, 2010: openSUSE Marketing Team Meeting](http://news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
+[December 14, 2010: openSUSE Marketing Team Meeting](//news.opensuse.org/2010/10/05/opensuse-marketing-team-meeting-8/)
 
-[December 15, 2010: openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+[December 15, 2010: openSUSE Board Meeting](//news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
-[December 21, 2010: Marketing Collaboration Day - PR and Social Media Review](http://news.opensuse.org/2010/12/02/pr-social-media-review/)
+[December 21, 2010: Marketing Collaboration Day - PR and Social Media Review](//news.opensuse.org/2010/12/02/pr-social-media-review/)
 
-[December 22, 2010: German Wiki Team Meeting](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+[December 22, 2010: German Wiki Team Meeting](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-      or download it on [Radiotux](http://blog.radiotux.de/podcast). 
+      or download it on [Radiotux](//blog.radiotux.de/podcast). 
 
 ### From Ambassadors
 
@@ -757,7 +757,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 
 <blockquote>**
-        [openSUSE makes a splash at Latinoware](http://news.opensuse.org/2010/12/07/opensuse-makes-a-splash-at-latinoware/)
+        [openSUSE makes a splash at Latinoware](//news.opensuse.org/2010/12/07/opensuse-makes-a-splash-at-latinoware/)
       **
 > 
 > The openSUSE Brasileiros!
@@ -873,19 +873,19 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
 <blockquote>**
       [Packman: XBMC
-      9.11-2.pm.13.3](http://packman.links2linux.org/package/XBMC)**
+      9.11-2.pm.13.3](//packman.links2linux.org/package/XBMC)**
 > 
 > XBMC is an award-winning free and open source (GPL) software media player and
       entertainment hub for digital media. XBMC is available for Linux, Mac OS X (Leopard, Tiger and
@@ -898,7 +898,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > </blockquote>
 
 <blockquote>**[Packman:
-        handbrake-unstable 0.9.4+3697-0.pm.1.4](http://packman.links2linux.org/package/handbrake-unstable)**
+        handbrake-unstable 0.9.4+3697-0.pm.1.4](//packman.links2linux.org/package/handbrake-unstable)**
 > 
 > HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video
       transcoder.
@@ -906,7 +906,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > </blockquote>
 
 <blockquote>**[Packman:
-        clementine-unstable 2233-0.pm.1.13](http://packman.links2linux.org/package/clementine-unstable)**
+        clementine-unstable 2233-0.pm.1.13](//packman.links2linux.org/package/clementine-unstable)**
 > 
 > Clementine is a modern music player and library organiser. Clementine is a port of Amarok
       1.4, with some features rewritten to take advantage of Qt4. Features: * Search and play your
@@ -927,7 +927,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > </blockquote>
 
 <blockquote>**[Packman: mythtv-0_24
-        0.24-0.pm.6.2](http://packman.links2linux.org/package/mythtv-0_24)**
+        0.24-0.pm.6.2](//packman.links2linux.org/package/mythtv-0_24)**
 > 
 > MythTV provides a unified graphical interface for recording and viewing television
       programs. Refer to the mythtv package for more information. There are also several add-ons and
@@ -937,7 +937,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 > </blockquote>
 
 <blockquote>**[Packman: vlc
-        1.1.5-1.pm.3.19](http://packman.links2linux.org/package/vlc)**
+        1.1.5-1.pm.3.19](//packman.links2linux.org/package/vlc)**
 > 
 > VLC media player is a highly portable multimedia player for various audio and video
       formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) as well as DVDs, VCDs, and various
@@ -948,7 +948,7 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 
 **You can find other interesting Packages at:**
 
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf)
 
   * [openSUSE Build
         Service](https://hermes.opensuse.org/feeds/66367.rdf)
@@ -956,29 +956,29 @@ The openSUSE Weekly News are available as livestream or podcast in German. You c
 ## ![Header Picture](/wp-content/uploads/2010/12/Logo-SecurityUpdates.png)Security Updates
 
 To view the security announcements in full, or to receive them
-    as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-<blockquote>**[Heads up on new kernel local root exploit](http://lists.opensuse.org/opensuse-security-announce/2010-12/msg00002.html)**
+<blockquote>**[Heads up on new kernel local root exploit](//lists.opensuse.org/opensuse-security-announce/2010-12/msg00002.html)**
 > 
 > Dan Rosenberg published a new local root exploit for the kernel,
-      linked e.g. in this LWN article [http://lwn.net/Articles/419141/](http://lwn.net/Articles/419141/)
+      linked e.g. in this LWN article [//lwn.net/Articles/419141/](//lwn.net/Articles/419141/)
       and for our german readers on
-      [http://www.heise.de/newsticker/meldung/OOPS-Root-Rechte-auf-Linux-1149512.html](http://www.heise.de/newsticker/meldung/OOPS-Root-Rechte-auf-Linux-1149512.html)
+      [//www.heise.de/newsticker/meldung/OOPS-Root-Rechte-auf-Linux-1149512.html](//www.heise.de/newsticker/meldung/OOPS-Root-Rechte-auf-Linux-1149512.html)
     
 > 
 >  
       The exploit itself uses 3 seperate security issues in chain, all
       found by Nelson Elhage.
 > 
-> **[CVE-2010-4258](http://support.novell.com/security/cve/CVE-2010-4258.html)**: This is the core vulnerability, which can basically turn
+> **[CVE-2010-4258](//support.novell.com/security/cve/CVE-2010-4258.html)**: This is the core vulnerability, which can basically turn
       any user program triggered Oops into a local privilege escalation. This problem affects all
       SUSE Linux Enterprise and openSUSE products (but needs another problem to trigger it.)
 > 
-> In the published exploit this Oops is caused by: **[CVE-2010-3850](http://support.novell.com/security/cve/CVE-2010-3850.html)**: Associating a ECONET address with any network interface.
+> In the published exploit this Oops is caused by: **[CVE-2010-3850](//support.novell.com/security/cve/CVE-2010-3850.html)**: Associating a ECONET address with any network interface.
       This is possible in older SUSE products before SUSE Linux Enterprise 11 SP1 and openSUSE
       11.2.
 > 
-> **[CVE-2010-3849](http://support.novell.com/security/cve/CVE-2010-3849.html)**[3]: A kernel Oops caused by a NULL pointer dereference in
+> **[CVE-2010-3849](//support.novell.com/security/cve/CVE-2010-3849.html)**[3]: A kernel Oops caused by a NULL pointer dereference in
       ECONET. This vulnerability does not affect any SUSE Linux or openSUSE product, as we do not
       have the the sub-configuration of ECONET enabled that are necessary to exploit this.
 > 
@@ -998,7 +998,7 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-<blockquote>**[SUSE Security Announcement: acoread (SUSE-SA:2010:058)](http://lists.opensuse.org/opensuse-security-announce/2010-12/msg00001.html)**
+<blockquote>**[SUSE Security Announcement: acoread (SUSE-SA:2010:058)](//lists.opensuse.org/opensuse-security-announce/2010-12/msg00001.html)**
 > 
 > <table frame="void" id="id325461" >Table 2. Security Announce<tr >
           
@@ -1068,7 +1068,7 @@ To view the security announcements in full, or to receive them
 > </td>
         </tr></tbody></table></blockquote>
 
-<blockquote>**[SUSE Security Summary Report: SUSE-SR:2010:023](http://lists.opensuse.org/opensuse-security-announce/2010-12/msg00000.html)**
+<blockquote>**[SUSE Security Summary Report: SUSE-SR:2010:023](//lists.opensuse.org/opensuse-security-announce/2010-12/msg00000.html)**
 > 
 > <table frame="void" id="id325691" >Table 3. <tr >
           
@@ -1133,14 +1133,14 @@ To view the security announcements in full, or to receive them
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Tux.svg_.png)Kernel Review
 
-<blockquote>**[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.37 (Part 2) - File systems ](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-2-File-systems-1148305.html)
+<blockquote>**[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.37 (Part 2) - File systems ](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-2-File-systems-1148305.html)
     **
 > 
 > **With the next kernel version, Ext4 will reach new levels of performance and use a trick to increase its storage media formatting speed. Other new features include a discard function that is interesting for slow-trimming SSDs, the "Rados Block Device" for cluster devices, bug fixes and optimisations to Btrfs.  **
 > 
 > The Kernel Log takes the recent release of RC4 of kernel version 2.6.37, whose final
       release is expected around the end of the year, as an opportunity to continue its "Coming in
-      2.6.37" mini series and describe the file systems improvements. [Part 1 of the series](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-1-Graphics-1144218.html) described the changes in the graphics hardware area and in the
+      2.6.37" mini series and describe the file systems improvements. [Part 1 of the series](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-1-Graphics-1144218.html) described the changes in the graphics hardware area and in the
       coming weeks, further articles will discuss the changes to the kernel's architecture code,
       drivers and surrounding infrastructure. (...) 
 > 
@@ -1152,7 +1152,7 @@ To view the security announcements in full, or to receive them
 
 <blockquote>**
         [Free Software Magazine/Terry Hancock: Making realistic characters for Blender with
-          MakeHuman](http://www.freesoftwaremagazine.com/columns/making_realistic_characters_blender_makehuman)
+          MakeHuman](//www.freesoftwaremagazine.com/columns/making_realistic_characters_blender_makehuman)
       **
 > 
 > There are lots of options for creating 3D characters for animation, and they are often
@@ -1168,7 +1168,7 @@ To view the security announcements in full, or to receive them
 
 ### For Commandline/Script Newbies
 
-<blockquote>**[Chuck Payne: Tips and Trick: fdisk helps find and show your drives.](http://opensuse.terrorpup.net/?p=204)**
+<blockquote>**[Chuck Payne: Tips and Trick: fdisk helps find and show your drives.](//opensuse.terrorpup.net/?p=204)**
 > 
 > Have you every wanted to know how many hard drives a system has? Or how to find that USB
         drive that you just plugged in, that isn’t showing up? It very simple with fdisk. Fdisk —
@@ -1180,7 +1180,7 @@ To view the security announcements in full, or to receive them
 ### For System Administrators
 
 <blockquote>**[*
-          OSNews/Dedoimedo: Wake Your Linux Up From Sleep for a Cron Job ](http://www.osnews.com/story/24111/Wake_Your_Linux_Up_From_Sleep_for_a_Cron_Job)**
+          OSNews/Dedoimedo: Wake Your Linux Up From Sleep for a Cron Job ](//www.osnews.com/story/24111/Wake_Your_Linux_Up_From_Sleep_for_a_Cron_Job)**
 > 
 > Here's the latest in our new series on OS tips from power users: a seemingly trivial
         task. You have a computer, most likely a laptop, that you wish to keep suspended while
@@ -1200,7 +1200,7 @@ To view the security announcements in full, or to receive them
 
 ## ![Header Picture](/wp-content/uploads/2010/12/Logo-PlanetSUSE.png)Planet SUSE
 
-<blockquote>**[Nelson Marques: A new aeon, a new team of ambassadors!](http://lizards.opensuse.org/2010/12/06/a-new-aeon-a-new-team-of-ambassadors/)**
+<blockquote>**[Nelson Marques: A new aeon, a new team of ambassadors!](//lizards.opensuse.org/2010/12/06/a-new-aeon-a-new-team-of-ambassadors/)**
 > 
 > For a long time that I actively search the Portuguese Ambassadors… unfortunately I was unable to find them. I’ve learned once with someone which is very dear to me a single line that ended up by translating one great universal truth: “Stopping is dying”.
 > 
@@ -1227,7 +1227,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**[Andrew Wafaa:
-        Blogged about: Smeegol Status - 08Dec10](http://www.wafaa.eu/entry/smeegol-status---08dec10-1-45.html)**
+        Blogged about: Smeegol Status - 08Dec10](//www.wafaa.eu/entry/smeegol-status---08dec10-1-45.html)**
 > 
 > Looks like it's been a while since I mentioned anything about our dear friend Smeegol –
       sorry. 
@@ -1269,7 +1269,7 @@ To view the security announcements in full, or to receive them
 > </blockquote>
 
 <blockquote>**[Sirko Kemter: Let us bring home the
-        Award](http://karl-tux-stadt.de/ktuxs/?p=2929)**
+        Award](//karl-tux-stadt.de/ktuxs/?p=2929)**
 > 
 > Yearly the LinuxNewMedia give away an Award for some Free and Open software projects. A
       jury give away some prizes for organizations, companies, and individuals who performed
@@ -1281,13 +1281,13 @@ To view the security announcements in full, or to receive them
 > Its definitly so that openSUSE made in the last year big steps forward not only the
       distribution himself even the tools that come from the project, like the Buildservice or such
       tools like SUSE Studio makes the distribution of one of them the move the Open Source world
-      forward. So when you think also, then get out and vote. [to the vote](http://www.linuxnewmedia.com/Products/Events/Linux-New-Media-Award-Favourite-Linux-Distribution-2010)
+      forward. So when you think also, then get out and vote. [to the vote](//www.linuxnewmedia.com/Products/Events/Linux-New-Media-Award-Favourite-Linux-Distribution-2010)
 > 
 > </blockquote>
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
 
-<blockquote>**[M 4 (Milestone 4)](http://forums.opensuse.org/english/get-help-here/pre-release-beta/450297-m-4-a.html)**
+<blockquote>**[M 4 (Milestone 4)](//forums.opensuse.org/english/get-help-here/pre-release-beta/450297-m-4-a.html)**
 > 
 > 
       On the road to openSUSE 11.4 the news to wait for was the release of Milestone 4. This thread is a good example of how things like that go on the forums: users keep eachother informed on latest developments, exchange their first experiences. 
@@ -1295,14 +1295,14 @@ To view the security announcements in full, or to receive them
 > 
 > </blockquote>
 
-<blockquote>**[Download all packages with rsync to make a local repo](http://forums.opensuse.org/english/get-help-here/applications/450459-download-rsync-all-packages-make-local-repo.html)**
+<blockquote>**[Download all packages with rsync to make a local repo](//forums.opensuse.org/english/get-help-here/applications/450459-download-rsync-all-packages-make-local-repo.html)**
 > 
 > Here's a user with sort of a download problem. He wants to download entire repos at a friend's place, and use rsync to do so. Like often, the problem is not whether this is possible or not, the problem is which choices to make to get optimal result. Contains some good advice and suggestions.
       
 > 
 > </blockquote>
 
-<blockquote>**[Setting up NIS](http://forums.opensuse.org/english/get-help-here/network-internet/450601-setting-up-nis.html)**
+<blockquote>**[Setting up NIS](//forums.opensuse.org/english/get-help-here/network-internet/450601-setting-up-nis.html)**
 > 
 > 
       More and more people look for solutions to make their networks manageable. Linux provides some very nice solutions. This thread is started by a user that wants to use NIS to centralize his user administration and homedirectories. What starts as a bit of advice, becomes a small wiki on how to implement NIS and NFS on openSUSE with the use of Yast. Interested in having all your linux users and their data and settings in one place? Read ahead.
@@ -1313,10 +1313,10 @@ To view the security announcements in full, or to receive them
 <blockquote>**This week's subforum: 
       [
       Information for New Users
-      ](http://forums.opensuse.org/english/information-new-users/)**
+      ](//forums.opensuse.org/english/information-new-users/)**
 > 
 > 
-      This subforum of the [openSUSE Forums](http://forums.opensuse.org) has three subforums: [New User Howto and FAQ](http://forums.opensuse.org/english/information-new-users/new-user-how-faq-read-only/), [Advanced Howto and FAQ](http://forums.opensuse.org/english/information-new-users/advanced-how-faq-read-only/)and [Unreviewed HOWTO and FAQ](http://forums.opensuse.org/english/information-new-users/unreviewed-how-faq/). The first two are maintained by the forums staff, the last one is open for contributions from the forums members. The content is not only valuable for new users of openSUSE, these subforums also provide a knowledge base for more experienced users. Thanks to user contributions a wide area of subjects is covered, varying from hardware driver install to software migration. New users: a bit of reading in these subforums may save you a lot of time in getting aquainted with openSUSE and linux in general.
+      This subforum of the [openSUSE Forums](//forums.opensuse.org) has three subforums: [New User Howto and FAQ](//forums.opensuse.org/english/information-new-users/new-user-how-faq-read-only/), [Advanced Howto and FAQ](//forums.opensuse.org/english/information-new-users/advanced-how-faq-read-only/)and [Unreviewed HOWTO and FAQ](//forums.opensuse.org/english/information-new-users/unreviewed-how-faq/). The first two are maintained by the forums staff, the last one is open for contributions from the forums members. The content is not only valuable for new users of openSUSE, these subforums also provide a knowledge base for more experienced users. Thanks to user contributions a wide area of subjects is covered, varying from hardware driver install to software migration. New users: a bit of reading in these subforums may save you a lot of time in getting aquainted with openSUSE and linux in general.
     
     
 > 
@@ -1326,9 +1326,9 @@ To view the security announcements in full, or to receive them
 
 ### Announcements
 
-<blockquote>**[KDE News: KDE Announces the Calligra Suite](http://dot.kde.org/2010/12/06/kde-announces-calligra-suite)**
+<blockquote>**[KDE News: KDE Announces the Calligra Suite](//dot.kde.org/2010/12/06/kde-announces-calligra-suite)**
 > 
-> The KDE community today announces the start of the [Calligra Suite](http://www.calligra-suite.org/) project, a continuation of the
+> The KDE community today announces the start of the [Calligra Suite](//www.calligra-suite.org/) project, a continuation of the
         KOffice project. The new name reflects the wider value of the KOffice technology platform
         beyond just desktop office applications. With a new name for the Suite and new names for the
         productivity applications, the Calligra community welcomes a new stage in the development of
@@ -1338,21 +1338,21 @@ To view the security announcements in full, or to receive them
 
 ### Reports
 
-<blockquote>**[Amarok 2.4 Beta 1 adds new features](http://www.h-online.com/open/news/item/Amarok-2-4-Beta-1-adds-new-features-1149453.html)**
+<blockquote>**[Amarok 2.4 Beta 1 adds new features](//www.h-online.com/open/news/item/Amarok-2-4-Beta-1-adds-new-features-1149453.html)**
 > 
-> The [Amarok](http://amarok.kde.org/) development team has released a first beta for version 2.4 of the open source music player for the KDE desktop, code named "Closer". According to the developers, the first beta is aimed at developers and early adopters and includes a number of new features that require "a lot of testing to make sure they are top-notch for final release at the beginning of 2011".
+> The [Amarok](//amarok.kde.org/) development team has released a first beta for version 2.4 of the open source music player for the KDE desktop, code named "Closer". According to the developers, the first beta is aimed at developers and early adopters and includes a number of new features that require "a lot of testing to make sure they are top-notch for final release at the beginning of 2011".
       
 > 
-> The 2.4 Beta 1 release features a completely re-written collection scanner that better detects compilations, the option to have Amarok write statistics and album covers back to the files directly and the inclusion of [transcoding](http://en.wikipedia.org/wiki/Transcoding) support – the developers note that transcoding will be expanded to media devices in a future release. A new applet for guitar and bass tab information, map and calendar views for the upcoming events applet, and the new Playdar collection that allows users to listen to music provided by a local Playdar service have also been added. Other changes include an option to show and hide the menu bar, a mass-tagging user interface using the [Musicbrainz](http://musicbrainz.org/) open content music database and support for the third generation iPod Touch.
+> The 2.4 Beta 1 release features a completely re-written collection scanner that better detects compilations, the option to have Amarok write statistics and album covers back to the files directly and the inclusion of [transcoding](//en.wikipedia.org/wiki/Transcoding) support – the developers note that transcoding will be expanded to media devices in a future release. A new applet for guitar and bass tab information, map and calendar views for the upcoming events applet, and the new Playdar collection that allows users to listen to music provided by a local Playdar service have also been added. Other changes include an option to show and hide the menu bar, a mass-tagging user interface using the [Musicbrainz](//musicbrainz.org/) open content music database and support for the third generation iPod Touch.
       
 > 
-> As with all development releases, use in production environments and on mission critical systems is not advised. Users testing the release are encouraged to provide feedback and [report](http://bugs.kde.org/) any bugs that they encounter.
+> As with all development releases, use in production environments and on mission critical systems is not advised. Users testing the release are encouraged to provide feedback and [report](//bugs.kde.org/) any bugs that they encounter.
       
 > 
 > Further information about the development preview, including a full list of changes and
-        new features, can be found in the [official release announcement](http://amarok.kde.org/en/releases/2.4/beta/1). Amarok 2.4 Beta 1 is available to [download](http://amarok.kde.org/wiki/Download) from the project's web site and
+        new features, can be found in the [official release announcement](//amarok.kde.org/en/releases/2.4/beta/1). Amarok 2.4 Beta 1 is available to [download](//amarok.kde.org/wiki/Download) from the project's web site and
         is licensed under version 2 of the GNU General Public License (GPLv2). The latest stable
-        release of Amarok is [version 2.3.2](http://www.h-online.com/news/item/Amarok-2-3-2-with-enhanced-search-podcast-management-1082697.html) from the 20th of September.
+        release of Amarok is [version 2.3.2](//www.h-online.com/news/item/Amarok-2-3-2-with-enhanced-search-podcast-management-1082697.html) from the 20th of September.
 > 
 > </blockquote>
 
@@ -1373,30 +1373,30 @@ We thank for this Issue:
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this
-    article? Then head right over to the [comment section](http://news.opensuse.org/?p=5240) and
+    article? Then head right over to the [comment section](//news.opensuse.org/?p=5240) and
     let us know! 
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
     and join! 
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-    mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
 ## ![Header Picture](/wp-content/uploads/2010/12/OWN-Icon-locale.png)Translations
 
 openSUSE Weekly News is translated into many languages. Issue
     153 is available in: 
 
-  * [English](http://news.opensuse.org/categories/weekly-news/)
+  * [English](//news.opensuse.org/categories/weekly-news/)
 
 Coming soon: 
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/153)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/153)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://de.opensuse.org/OpenSUSE-Wochenschau/153)
+  * [German](//de.opensuse.org/OpenSUSE-Wochenschau/153)

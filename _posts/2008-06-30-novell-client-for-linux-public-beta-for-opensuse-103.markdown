@@ -14,7 +14,7 @@ tags:
 - novell client
 ---
 
-We're pleased to announce the public beta of the Novell Client for openSUSE 10.3. Novell released the [packages](http://www.novell.com/beta/auth/beta.jsp?id=2585&type=1) for the Novell Client for Linux 2.0 SP1 public beta today.
+We're pleased to announce the public beta of the Novell Client for openSUSE 10.3. Novell released the [packages](//www.novell.com/beta/auth/beta.jsp?id=2585&type=1) for the Novell Client for Linux 2.0 SP1 public beta today.
 
 
 

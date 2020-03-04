@@ -42,7 +42,7 @@ I also learned some tricks of RoR to get my job done efficiently. I got exposed 
 
 So prior to GSoC, the splash page feature was absent.Even after creating a new conference on OSEM with all the details in place for the events, registrations, dates, venues etc.One had to make a separate site for publicity of the conference so that all the details are in a consolidated manner and it is easier for the visitors to view the details and go to the registration page.Now, as Admins and Organizers after entering all the data in the OSEM about the conference you only need to go and press the “View Conference” button on the home-page of the OSEM application and the splash page will be ready.I did the splash in part-by-part taking one components at a time.I gave option for hiding specific components that are not ready to be displayed on the splash.This can be found as checkboxes in the admin panel.I also created various components such as sponsors so that the logos are easily displayed on the splash.Moreover, now one can add a gallery a photos of previous year’s conference so that the visitors can see the photos and get a idea what is it all about.Lastly, I implemented email notifications which is not yet complete I plan to do it post GSOC.
 
-And after all of this hard work it is really great to see that my code being used by people.Here’s link to the [ownCloud Conference Splash](http://conference.owncloud.org/conference/OCC14) to get a sneak peek of what I have done.
+And after all of this hard work it is really great to see that my code being used by people.Here’s link to the [ownCloud Conference Splash](//conference.owncloud.org/conference/OCC14) to get a sneak peek of what I have done.
 
 **
 Acknowledgements**

@@ -20,9 +20,9 @@ categories:
 ## About the conference
 
 
-From July 18 until July 22, 2013, [Thessaloniki](http://en.wikipedia.org/wiki/Thessaloniki), the second largest city in Greece and home to no less than [15 UNESCO World Heritage Sites](http://en.wikipedia.org/wiki/UNESCO_World_Heritage_Site), will be host to the fifth openSUSE Conference. Once again, we'll discuss topics related to our distribution, Free and Open Source technology and 'open world stuff' in general, inviting participation from people within as well as outside of our openSUSE Community.
+From July 18 until July 22, 2013, [Thessaloniki](//en.wikipedia.org/wiki/Thessaloniki), the second largest city in Greece and home to no less than [15 UNESCO World Heritage Sites](//en.wikipedia.org/wiki/UNESCO_World_Heritage_Site), will be host to the fifth openSUSE Conference. Once again, we'll discuss topics related to our distribution, Free and Open Source technology and 'open world stuff' in general, inviting participation from people within as well as outside of our openSUSE Community.
 
-[![Thessaloniki White Tower and promanade](/wp-content/uploads/2013/01/Thessaloniki_White_Tower_and_promanade.png)](http://en.wikipedia.org/wiki/Thessaloniki)The slogan of the conference this year is **'Power to the Geeko'**, as we would like to emphasize the bottom-up nature of our Free Software movement (an excellent fit with the country where early democracies developed). Thessaloniki provides many opportunities to Have a lot of Fun! The city features beautiful beaches and a lively night life as well as good food and drinks. We expect plenty of socializing between the technical sessions and code.
+[![Thessaloniki White Tower and promanade](/wp-content/uploads/2013/01/Thessaloniki_White_Tower_and_promanade.png)](//en.wikipedia.org/wiki/Thessaloniki)The slogan of the conference this year is **'Power to the Geeko'**, as we would like to emphasize the bottom-up nature of our Free Software movement (an excellent fit with the country where early democracies developed). Thessaloniki provides many opportunities to Have a lot of Fun! The city features beautiful beaches and a lively night life as well as good food and drinks. We expect plenty of socializing between the technical sessions and code.
 
 
 ## About Thessaloniki and the Greek community
@@ -40,7 +40,7 @@ Thessaloniki is the second largest city in Greece and the capital of the Central
 ### Community
 
 
-The Greek community, affectionately known as Greekos within the openSUSE community, coalesced in a semi formal way approximately 3 years ago. This group of dedicated local supporters meets on a regular basis and promotes the use of openSUSE and FOSS within and outside of Greece. With the repeated experience of organizing the [openSUSE Collaboration Summer camps](http://www.os-el.gr/summercamp/en/) and the Greekos involvement in the orchestration of previous openSUSE conferences it was an easy decision for the openSUSE board to support Thessaloniki as the first openSUSE conference that will be organized solely by the community.
+The Greek community, affectionately known as Greekos within the openSUSE community, coalesced in a semi formal way approximately 3 years ago. This group of dedicated local supporters meets on a regular basis and promotes the use of openSUSE and FOSS within and outside of Greece. With the repeated experience of organizing the [openSUSE Collaboration Summer camps](//www.os-el.gr/summercamp/en/) and the Greekos involvement in the orchestration of previous openSUSE conferences it was an easy decision for the openSUSE board to support Thessaloniki as the first openSUSE conference that will be organized solely by the community.
 
 The local team of volunteers is working with great dedication to provide an awesome experience for everybody at oSC13.
 
@@ -48,7 +48,7 @@ The local team of volunteers is working with great dedication to provide an awes
 ## Travel support
 
 
-The [openSUSE Travel Support Program](http://en.opensuse.org/openSUSE:Travel_Support_Program) will once again offer help to those those openSUSE contributors that would like to attend the openSUSE conference but have financial limitations. Following the procedure at the [Travel Support wiki](http://en.opensuse.org/openSUSE:Travel_Support_Program) you can send your support requests to the TSP team from April 23rd to May 3rd. Earlier requests are possible but note that the travel team will allocate travel funding according to the guidelines and inform all applicants by May 13th. This should allow a sufficient amount of time to make your reservations.
+The [openSUSE Travel Support Program](//en.opensuse.org/openSUSE:Travel_Support_Program) will once again offer help to those those openSUSE contributors that would like to attend the openSUSE conference but have financial limitations. Following the procedure at the [Travel Support wiki](//en.opensuse.org/openSUSE:Travel_Support_Program) you can send your support requests to the TSP team from April 23rd to May 3rd. Earlier requests are possible but note that the travel team will allocate travel funding according to the guidelines and inform all applicants by May 13th. This should allow a sufficient amount of time to make your reservations.
 
 
 ## Sponsoring and supportive attendee registration
@@ -77,17 +77,17 @@ As in previous years registration and attendance of the openSUSE conference is f
   * North America, Latin America and Asian Pacific: [Supporter ticket](https://buy.suse.com/store/suse/en_US/buy/productID.264835100), [Professional ticket](https://buy.suse.com/store/suse/en_US/buy/productID.264935300).
 
 	
-  * Europe, Middle East and Africa:[Supporter ticket](http://shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352500) and [Professional ticket](http://shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352400).
+  * Europe, Middle East and Africa:[Supporter ticket](//shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352500) and [Professional ticket](//shop.novell.com/DRHM/store?Action=AddItemToRequisition&siteId=novelleu&Env=BASE&productId=265352400).
 
 
-The money from the sales of these tickets is used to fund the event and help with the [openSUSE Travel Support Program](http://en.opensuse.org/openSUSE:Travel_Support_Program) to allow as many openSUSE contributors as possible to attend the event. Supporters and professional ticket holders will receive a special thank you surprise upon check in. The support of the event through ticket sales is vital part of the funding of the event.
-[![ChameleonBustPosterDraft](/wp-content/uploads/2013/01/ChameleonBust_white.png)](http://conference.opensuse.org)
+The money from the sales of these tickets is used to fund the event and help with the [openSUSE Travel Support Program](//en.opensuse.org/openSUSE:Travel_Support_Program) to allow as many openSUSE contributors as possible to attend the event. Supporters and professional ticket holders will receive a special thank you surprise upon check in. The support of the event through ticket sales is vital part of the funding of the event.
+[![ChameleonBustPosterDraft](/wp-content/uploads/2013/01/ChameleonBust_white.png)](//conference.opensuse.org)
 
 
 ## Website and call for help
 
 
-The conference web site can be found at [conference.opensuse.org](http://conference.opensuse.org) and it will be updated regularly with new information. The organization of oSC13 requires the close collaboration of many people who are distributed across the globe. This is an exciting environment and if you would like to participate in the organization of the event you are more than welcome. Please subscribe to to our [mailing list](http://lists.opensuse.org/opensuse-conference/) and introduce yourself during one of our IRC meetings (announced on the mailing list).
+The conference web site can be found at [conference.opensuse.org](//conference.opensuse.org) and it will be updated regularly with new information. The organization of oSC13 requires the close collaboration of many people who are distributed across the globe. This is an exciting environment and if you would like to participate in the organization of the event you are more than welcome. Please subscribe to to our [mailing list](//lists.opensuse.org/opensuse-conference/) and introduce yourself during one of our IRC meetings (announced on the mailing list).
 
 The Greek Philosophers were part of a revolution which changed the world. So are we, and thus, under the motto of **"Power to the Geeko"**, we will gather and work on our revolution. Look for the Cfp and registration announcement in the near future!
 

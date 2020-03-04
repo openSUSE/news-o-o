@@ -29,7 +29,7 @@ categories:
 <td width="105" >**Homepage: **
 </td>
 
-<td width="520" >http://en.opensuse.org/User:Alexander_Naumov
+<td width="520" >//en.opensuse.org/User:Alexander_Naumov
 </td>
 
 <td width="5" >
@@ -40,9 +40,9 @@ categories:
 <td width="105" >**Blog:**
 </td>
 
-<td width="520" >http://thefreecountry.wordpress.com/
+<td width="520" >//thefreecountry.wordpress.com/
 
-http://lizards.opensuse.org/author/alexander_naumov/
+//lizards.opensuse.org/author/alexander_naumov/
 </td>
 
 <td width="5" >
@@ -100,7 +100,7 @@ http://lizards.opensuse.org/author/alexander_naumov/
 #### Please introduce yourself!
 
 
-![Alex Naumov](http://en.opensuse.org/images/8/8c/Alex_SLE.jpg)
+![Alex Naumov](//en.opensuse.org/images/8/8c/Alex_SLE.jpg)
 
 I grew up in a small military town of Mirnij in the northwestern part of Russia.
 
@@ -176,11 +176,11 @@ Hm.. good question.
 
 I was initiator the creation of:
 
-* Russian openSUSE planet: http://planet.opensuse.org/ru
+* Russian openSUSE planet: //planet.opensuse.org/ru
 
-* Russian openSUSE forum: http://forums.opensuse.org/p-russian/
+* Russian openSUSE forum: //forums.opensuse.org/p-russian/
 
-* Russian Linux kernel portal: http://ru.kernelnewbies.org
+* Russian Linux kernel portal: //ru.kernelnewbies.org
 
 A lot of people meet there every day. They help each other and discuss how to make openSUSE (GNU/Linux) even better.
 
@@ -400,7 +400,7 @@ Ou yeah :)
 #### Show us a picture of something, you have always wanted to share!
 
 
-See my blog or picasaweb gallary: http://picasaweb.google.com/posix.ru/
+See my blog or picasaweb gallary: //picasaweb.google.com/posix.ru/
 
 
 #### You couldn’t live without…

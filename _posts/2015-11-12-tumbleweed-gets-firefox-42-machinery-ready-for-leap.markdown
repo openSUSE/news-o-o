@@ -15,7 +15,7 @@ categories:
 
 Two releases snapshots in Tumbleweed brought a new Linux kernel and a web browser update for Mozilla.
 
-Firefox updated to version 42 in the [20151110](http://lists.opensuse.org/opensuse-factory/2015-11/msg00436.html) snapshot and the [20151106](http://lists.opensuse.org/opensuse-factory/2015-11/msg00292.html) snapshot updated the Linux kernel to 4.3.
+Firefox updated to version 42 in the [20151110](//lists.opensuse.org/opensuse-factory/2015-11/msg00436.html) snapshot and the [20151106](//lists.opensuse.org/opensuse-factory/2015-11/msg00292.html) snapshot updated the Linux kernel to 4.3.
 
 Firefox 42 removed some obsolete patches and had some Login Manager improvements.
 
@@ -25,7 +25,7 @@ Tumbleweed has [branding](https://github.com/kwwii/raw-theme-dro) that has yet t
 
 **Leap**
 
-For those using [openSUSE Leap 42.1](https://en.opensuse.org/Portal:42.1) and sysadmins managing several computers, [Machinery](http://machinery-project.org/) can now be used with openSUSE's latest release Leap 42.1. For those who are unfamiliar with the [Machinery Project](http://machinery-project.org/), check it out. It's a great [command line](https://www.youtube.com/watch?v=oXvZhRcw7CQ) tool that focuses on system analysis, automation and tool integration.
+For those using [openSUSE Leap 42.1](https://en.opensuse.org/Portal:42.1) and sysadmins managing several computers, [Machinery](//machinery-project.org/) can now be used with openSUSE's latest release Leap 42.1. For those who are unfamiliar with the [Machinery Project](//machinery-project.org/), check it out. It's a great [command line](https://www.youtube.com/watch?v=oXvZhRcw7CQ) tool that focuses on system analysis, automation and tool integration.
 
 Being able to use Machinery with openSUSE is just one of several reasons for developers, sysadmins and desktop users to use openSUSE's two distributions Tumbleweed and openSUSE Leap 42.1.
 

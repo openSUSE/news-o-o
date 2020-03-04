@@ -15,7 +15,7 @@ categories:
 openSUSE 12.1 will feature systemd as a replacement for the System V init daemon. It provides a better framework for booting up your system and managing services. It comes with a lot of features like socket and dbus-activation, use of cgroups (control groups) and aggressive parallelization capabilities which leads to a faster boot-up of the system. Systemd comes also with a number of new features and tools for sysadmins. This article will explain what systemd does, how it does it and how to take advantage of the new posibilities it offers.
 Booting your system and services
 please to help can we use Fedora excellent Features ?
-http://fedoraproject.org/wiki/Features/systemd
+//fedoraproject.org/wiki/Features/systemd
 In openSUSE 12.1, systemd starts up and supervises openSUSE operating system and its services. This means a number of steps such as the following:
 
     mounting your disks (checking for errors if needed),

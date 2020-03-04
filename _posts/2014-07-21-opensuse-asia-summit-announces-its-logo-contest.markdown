@@ -66,10 +66,10 @@ The **Rules** of the Contest are pretty simple :[![12_1vs13_1](/wp-content/uploa
 A few simple guidelines can be found at:
 
 	
-  * [http://en.opensuse.org/openSUSE:Artwork_guidelines](http://en.opensuse.org/openSUSE:Artwork_guidelines)
+  * [//en.opensuse.org/openSUSE:Artwork_guidelines](//en.opensuse.org/openSUSE:Artwork_guidelines)
 
 	
-  * [http://en.opensuse.org/openSUSE:Artwork_brand](http://en.opensuse.org/openSUSE:Artwork_brand)
+  * [//en.opensuse.org/openSUSE:Artwork_brand](//en.opensuse.org/openSUSE:Artwork_brand)
 
 
 Please send your design to [opensuse.asia@gmail.com](mailto:opensuse.asia@gmail.com) directly. It should contain the following:

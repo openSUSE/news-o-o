@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-There have been several changes with the Compiz setup in openSUSE 11.0, including both exciting and new features in Compiz Fusion, and extra developments behind-the-scenes which make running and managing Compiz easier. Today we will be taking a look at these, and we'll be catching up with [Dennis 'onestone' Kasprzyk](http://dev.compiz-fusion.org/~onestone/blog/), a Compiz Fusion core developer and openSUSE user, to find out more.
+There have been several changes with the Compiz setup in openSUSE 11.0, including both exciting and new features in Compiz Fusion, and extra developments behind-the-scenes which make running and managing Compiz easier. Today we will be taking a look at these, and we'll be catching up with [Dennis 'onestone' Kasprzyk](//dev.compiz-fusion.org/~onestone/blog/), a Compiz Fusion core developer and openSUSE user, to find out more.
 
 <!-- more -->
 
@@ -26,7 +26,7 @@ There have been several changes with the Compiz setup in openSUSE 11.0, includin
 ### AIGLX
 
 
-For openSUSE 11.0, Stefan Dirsch and the rest of the openSUSE Xorg team has worked hard to ensure that [AIGLX](http://opensuse.org/AIGLX) is enabled by default for all supported hardware. This means that you can run Compiz or other desktop effects such as those in KDE 4 without having to directly enable Xgl or edit _xorg.conf_ manually.
+For openSUSE 11.0, Stefan Dirsch and the rest of the openSUSE Xorg team has worked hard to ensure that [AIGLX](//opensuse.org/AIGLX) is enabled by default for all supported hardware. This means that you can run Compiz or other desktop effects such as those in KDE 4 without having to directly enable Xgl or edit _xorg.conf_ manually.
 
 
 
@@ -34,7 +34,7 @@ For openSUSE 11.0, Stefan Dirsch and the rest of the openSUSE Xorg team has work
 
 
 
-In openSUSE 10.3, Compiz Fusion was available in the official online repository, and the latest version with all the extra Fusion plugins has been available in the [openSUSE Build Service](http://opensuse.org/Compiz_Fusion). However, the Compiz Fusion project has matured significantly, complementing Compiz with extra plugins, a new settings configuration tool, and it is now installed by default on all openSUSE 11.0 installations.
+In openSUSE 10.3, Compiz Fusion was available in the official online repository, and the latest version with all the extra Fusion plugins has been available in the [openSUSE Build Service](//opensuse.org/Compiz_Fusion). However, the Compiz Fusion project has matured significantly, complementing Compiz with extra plugins, a new settings configuration tool, and it is now installed by default on all openSUSE 11.0 installations.
 
 
 
@@ -77,7 +77,7 @@ Compiz Fusion now also comes with an in-depth and highly configurable settings m
 ### New Plugins
 
 
-As well as all of the [previously available features](http://news.opensuse.org/2007/09/04/sneak-peeks-at-opensuse-103-compiz-and-compiz-fusion/) in openSUSE 10.3, openSUSE 11.0 has several additions, many of which dramatically improve the accessibility of the Linux desktop. We will cover just a few of these below:
+As well as all of the [previously available features](//news.opensuse.org/2007/09/04/sneak-peeks-at-opensuse-103-compiz-and-compiz-fusion/) in openSUSE 10.3, openSUSE 11.0 has several additions, many of which dramatically improve the accessibility of the Linux desktop. We will cover just a few of these below:
 
 
 
@@ -136,7 +136,7 @@ With this plugin you can adjust the brightness and saturation of any window or t
 
 
 
-To find out how to use this and all other plugins, simply head over the Compiz Fusion Wiki at [wiki.compiz-fusion.org](http://wiki.compiz-fusion.org/). For trouble-shooting and general information about Compiz Fusion on openSUSE, see the [Compiz Fusion wiki page](http://opensuse.org/Compiz_Fusion).
+To find out how to use this and all other plugins, simply head over the Compiz Fusion Wiki at [wiki.compiz-fusion.org](//wiki.compiz-fusion.org/). For trouble-shooting and general information about Compiz Fusion on openSUSE, see the [Compiz Fusion wiki page](//opensuse.org/Compiz_Fusion).
 
 
 ## Latest Version in the openSUSE Build Service
@@ -145,9 +145,9 @@ To find out how to use this and all other plugins, simply head over the Compiz F
 
 
 
-Thanks to Jigish Gohil, you can always get the latest version of Compiz and Compiz Fusion in the [X11:XGL](http://download.opensuse.org/repositories/X11:/XGL/) openSUSE Build Service repository. In his [home:cyberorg](http://download.opensuse.org/repositories/home:/cyberorg/) repository you can also find recent snapshots of the development tree, where you can also have direct access to a plethora of extra plugins developed by the Compiz Fusion developers. Here's a quick preview of some of the things available in the latest version.
+Thanks to Jigish Gohil, you can always get the latest version of Compiz and Compiz Fusion in the [X11:XGL](//download.opensuse.org/repositories/X11:/XGL/) openSUSE Build Service repository. In his [home:cyberorg](//download.opensuse.org/repositories/home:/cyberorg/) repository you can also find recent snapshots of the development tree, where you can also have direct access to a plethora of extra plugins developed by the Compiz Fusion developers. Here's a quick preview of some of the things available in the latest version.
 
-You can use 1-Click-Install to get the latest [Compiz Fusion](http://opensuse.org/Compiz_Fusion) from the openSUSE Build Service.
+You can use 1-Click-Install to get the latest [Compiz Fusion](//opensuse.org/Compiz_Fusion) from the openSUSE Build Service.
 
 
 
@@ -227,4 +227,4 @@ It could be better, but it's better than the relationship to the GNOME developer
 
 
 
-This is hard to say. We mostly implement and release new ideas directly. Users can read [our blog planet](http://planet.compiz-fusion.org) to see what is going on and will be included in the next release. I would like to see Compiz also running as pure window manager without compositing. This would also allow to run Compiz on hardware that doesn't support compositing, or allow users to turn off compositing without the need to switch to a different window manager. We will also have a lot of work after the "object framework" merge, which will change a lot of the Compiz internal structures and the configuration system.
+This is hard to say. We mostly implement and release new ideas directly. Users can read [our blog planet](//planet.compiz-fusion.org) to see what is going on and will be included in the next release. I would like to see Compiz also running as pure window manager without compositing. This would also allow to run Compiz on hardware that doesn't support compositing, or allow users to turn off compositing without the need to switch to a different window manager. We will also have a lot of work after the "object framework" merge, which will change a lot of the Compiz internal structures and the configuration system.

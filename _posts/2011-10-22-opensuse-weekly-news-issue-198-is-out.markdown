@@ -19,7 +19,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 198.
 <!-- more -->
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -31,12 +31,12 @@ We are pleased to announce our new openSUSE Weekly News Issue 198.
 
 **Legal Notice**
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
        
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/). 
        The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -44,9 +44,9 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which 
         license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
-We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](http://www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
+We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](//www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
 
 Published: 2011-10-22
 
@@ -92,19 +92,19 @@ Translations
 
 We are pleased to announce our 198 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 **Enjoy reading :-)**
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▼
 
 ### Team Reports
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -123,7 +123,7 @@ Network installation could be improved by running package download and package
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -192,7 +192,7 @@ We need a feedback about packages that are preferred by users and actively used.
 Blender 2.6 finally here on Sunday the 16th of October.
 A huge milestone for Blender, and the best opensource 3D modelling/rendering/animation/editing package available, on linux or otherwise.
 
-[http://www.blendernation.com/2011/10/14/blender-2-60-rc2-available/](http://www.blendernation.com/2011/10/14/blender-2-60-rc2-available/)
+[//www.blendernation.com/2011/10/14/blender-2-60-rc2-available/](//www.blendernation.com/2011/10/14/blender-2-60-rc2-available/)
 
 This really should be included on the 12.1 dvd .iso
 
@@ -206,7 +206,7 @@ Please!
 
 Boost 1.47.0 is out and it contains (apart from updates and fixes) new libraries (especially I'm interested in Geometry).
 
-[http://www.boost.org/users/history/version_1_47_0.html](http://www.boost.org/users/history/version_1_47_0.html)
+[//www.boost.org/users/history/version_1_47_0.html](//www.boost.org/users/history/version_1_47_0.html)
 
 ”
 
@@ -226,7 +226,7 @@ Pardus is a great KDE distro and has one of the best "Desktop Greeter" of any KD
 
 "Kaptan is a wizard that helps user to customize desktop enviroment after installing Pardus. While Kaptan is giving some information about Pardus, it also sets basic configures such as internet connection, wall paper and so on."
 
-[http://developer.pardus.org.tr/projects/kaptan/](http://developer.pardus.org.tr/projects/kaptan/)
+[//developer.pardus.org.tr/projects/kaptan/](//developer.pardus.org.tr/projects/kaptan/)
 
 ”
 
@@ -286,7 +286,7 @@ Support of this device already in repositories of ALSA, but not released in some
 
 BTW, patch that enabling 0204 support was back-ported in Ubuntu so it support sound card very well.
 
-[E-MU 0204 on Linux: working!](http://www.head-fi.org/t/553693/e-mu-0204-on-linux-working)
+[E-MU 0204 on Linux: working!](//www.head-fi.org/t/553693/e-mu-0204-on-linux-working)
 
 ”
 
@@ -294,52 +294,52 @@ BTW, patch that enabling 0204 support was back-ported in Ubuntu so it support so
 
 Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org/statistic/product/opensuse_dist)
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-            – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+            – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 ### Events & Meetings
 
 Past
 
-  * [October 19, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [October 19, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-  * [October 19-21, 2011 : Latinoware (Iguassu Falls, Brazil)](http://latinoware.org/)
+  * [October 19-21, 2011 : Latinoware (Iguassu Falls, Brazil)](//latinoware.org/)
 
 Upcoming
 
-  * [October 24-26, 2011 : Linux Kernel Summit (Praque, Czchech Republic)](http://events.linuxfoundation.org/events/linux-kernel-summit)
+  * [October 24-26, 2011 : Linux Kernel Summit (Praque, Czchech Republic)](//events.linuxfoundation.org/events/linux-kernel-summit)
 
-You can find more information on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-      it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podcast). 
+      it on [//saigkill.homelinux.net/podcast](//saigkill.homelinux.net/podcast). 
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 To view the security announcements in full, or to receive them as soon as they're released,
-    refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+    refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 “
 
-[openSUSE-SU-2011:1155-1: important: quagga: fixing multiple vulnerabilities](http://lists.opensuse.org/opensuse-security-announce/2011-10/msg00007.html)
+[openSUSE-SU-2011:1155-1: important: quagga: fixing multiple vulnerabilities](//lists.opensuse.org/opensuse-security-announce/2011-10/msg00007.html)
 
 <table frame="void" id="id319140" >Table 1. SUSE Security Announcement<tr >
           
@@ -385,7 +385,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 
 “
 
-[openSUSE-SU-2011:1161-1: important: ldns (CVE-2011-3581)](http://lists.opensuse.org/opensuse-security-announce/2011-10/msg00008.html)
+[openSUSE-SU-2011:1161-1: important: ldns (CVE-2011-3581)](//lists.opensuse.org/opensuse-security-announce/2011-10/msg00008.html)
 
 <table frame="void" id="id319288" >Table 2. SUSE Security Announcement<tr >
           
@@ -429,7 +429,7 @@ To view the security announcements in full, or to receive them as soon as they'r
 </td>
         </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 “
 
@@ -453,19 +453,19 @@ window. (...)
 
 “
 
-[Rares Aioanei: kernel weekly news – 22.10.2011](http://schaiba.wordpress.com/2011/10/22/kernel-weekly-news-22-10-2011/)
+[Rares Aioanei: kernel weekly news – 22.10.2011](//schaiba.wordpress.com/2011/10/22/kernel-weekly-news-22-10-2011/)
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks▲▼
 
 ### For Desktop Users
 
 “
 
-[Dmitri Popov: Create Slick Slideshows with digiKam](http://scribblesandsnaps.wordpress.com/2011/10/17/create-slick-slideshows-with-digikam/)
+[Dmitri Popov: Create Slick Slideshows with digiKam](//scribblesandsnaps.wordpress.com/2011/10/17/create-slick-slideshows-with-digikam/)
 
 It’s easy to dismiss digiKam’s slideshow functionality as a feature of no particular use. After all, most photographers prefer to publish their photos using the photo sharing service of their choice. But the slideshow feature can come in handy when showcasing photos on your machine is the only option. Running a simple slideshow in digiKam is as easy as selecting the desired album or pictures and choosing **View** → **Slideshow** → **All** (or **Selection**). However, digiKam has something even better: using the **View** → **Slideshow** → **Advanced Slideshow** command, you can create rather impressive slideshows with smooth transitions and soundtracks. (...)
 
@@ -475,9 +475,9 @@ It’s easy to dismiss digiKam’s slideshow functionality as a feature of no pa
 
 “
 
-[Python4Kids/Brendan Scott: Classy Methods, a Sense of Self (Classes Part 2)](http://python4kids.wordpress.com/2011/10/17/classy-methods-a-sense-of-self-classes-part-2/)
+[Python4Kids/Brendan Scott: Classy Methods, a Sense of Self (Classes Part 2)](//python4kids.wordpress.com/2011/10/17/classy-methods-a-sense-of-self-classes-part-2/)
 
-In our last tutorial we had our first look at classes and their attributes.  The attributes of a class are the data which are stored in the class.   The great thing about classes though is that we can use them to relate data to functions.  Just as the data of a class are called attributes, the functions of a class have a special name as well.  They are called “methods”. We have had a brief meeting with methods [earlier](http://python4kids.wordpress.com/2011/03/07/time-for-some-introspection/). (...)
+In our last tutorial we had our first look at classes and their attributes.  The attributes of a class are the data which are stored in the class.   The great thing about classes though is that we can use them to relate data to functions.  Just as the data of a class are called attributes, the functions of a class have a special name as well.  They are called “methods”. We have had a brief meeting with methods [earlier](//python4kids.wordpress.com/2011/03/07/time-for-some-introspection/). (...)
 
 ”
 
@@ -485,18 +485,18 @@ In our last tutorial we had our first look at classes and their attributes.  The
 
 “
 
-[IBM developerWorks/Tracy Bost: Learn Linux, 302 (Mixed environments): Managing user accounts and groups](http://www.ibm.com/developerworks/linux/library/l-lpic3-313-1/index.html)
+[IBM developerWorks/Tracy Bost: Learn Linux, 302 (Mixed environments): Managing user accounts and groups](//www.ibm.com/developerworks/linux/library/l-lpic3-313-1/index.html)
 
 If you manage user and group accounts, you may find that these accounts don't always work seamlessly for users in mixed environments—a common source of frustration for both users and systems administrators. Fortunately, the Samba suite provides tools to help you manage the process. In this article, learn how to manage user and group accounts in your mixed environment. (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 “
 
 [Michal
-        Hrušecký: How do I handle all those MySQLs](http://michal.hrusecky.net/2011/10/how-do-i-handle-all-those-mysqls/)
+        Hrušecký: How do I handle all those MySQLs](//michal.hrusecky.net/2011/10/how-do-i-handle-all-those-mysqls/)
 
 In openSUSE we’ve got currently MySQL Community Server, MariaDB and MySQL Cluster. From
       all of these we have even multiple versions. Although these packages are different, they are
@@ -513,20 +513,20 @@ In openSUSE we’ve got currently MySQL Community Server, MariaDB and MySQL Clus
 
 “
 
-[Jos Poortvliet: Almost too much going on...](http://blog.jospoortvliet.com/2011/10/almost-too-much-going-on.html)
+[Jos Poortvliet: Almost too much going on...](//blog.jospoortvliet.com/2011/10/almost-too-much-going-on.html)
 
-Been a busy week, last week. There was [Plasma Active One](http://www.kde.org/announcements/plasma-active-one/), [OwnCloud 2.0](http://owncloud.org/announcement/), [openQA 1.0](http://news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/) and [KDE's 15th birthday](http://dot.kde.org/2011/10/05/freedom-15-years-party). Each of them deserves a lot of attention, which they got. I'll
+Been a busy week, last week. There was [Plasma Active One](//www.kde.org/announcements/plasma-active-one/), [OwnCloud 2.0](//owncloud.org/announcement/), [openQA 1.0](//news.opensuse.org/2011/10/11/opensuse-announces-first-public-release-of-openqa/) and [KDE's 15th birthday](//dot.kde.org/2011/10/05/freedom-15-years-party). Each of them deserves a lot of attention, which they got. I'll
       just add my thoughts! (...)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 ### Announcements
 
 “
 
-[Contributing to Samba: Samba now accepts corporate copyright](http://article.gmane.org/gmane.network.samba.internals/57144)
+[Contributing to Samba: Samba now accepts corporate copyright](//article.gmane.org/gmane.network.samba.internals/57144)
 
 Here is a change we're instituting immediately to make it easier
 for corporations to contribute code changes to Samba whilst still
@@ -557,9 +557,9 @@ people. (...)
 
 “
 
-[opensource.com/Marek Mahut: Creative Commons 4.0 on the horizon](http://opensource.com/government/11/10/creative-commons-40-horizon)
+[opensource.com/Marek Mahut: Creative Commons 4.0 on the horizon](//opensource.com/government/11/10/creative-commons-40-horizon)
 
-Creative Commons held its [Global Summit](http://creativecommons.org/tag/warsaw) a few weeks ago in Warsaw, with amazing international participation. Without question, the most-discussed topic was the upcoming 4.0 release of the licenses, including related issues and a lively debate regarding whether the licenses should be ported to specific countries – or whether we should instead try to create a new international license. (...)
+Creative Commons held its [Global Summit](//creativecommons.org/tag/warsaw) a few weeks ago in Warsaw, with amazing international participation. Without question, the most-discussed topic was the upcoming 4.0 release of the licenses, including related issues and a lively debate regarding whether the licenses should be ported to specific countries – or whether we should instead try to create a new international license. (...)
 
 ”
 
@@ -567,7 +567,7 @@ Creative Commons held its [Global Summit](http://creativecommons.org/tag/warsaw)
 
 “
 
-[the register/Scott Gilbertson: OpenSUSE 12.1 delivers Fedora punch with GNOME 3](http://www.theregister.co.uk/2011/10/17/opensuse_12_point_1_review/)
+[the register/Scott Gilbertson: OpenSUSE 12.1 delivers Fedora punch with GNOME 3](//www.theregister.co.uk/2011/10/17/opensuse_12_point_1_review/)
 
 **Review** The big news in openSUSE 12.1, whose first beta
         has recently dropped, is the arrival of GNOME 3 – in this case GNOME 3.2.
@@ -580,7 +580,7 @@ Unlike Fedora, which is already into its second GNOME 3-based release, openSUSE 
 
 “
 
-[Linux Pro Magazine/Bruce Byfield: How I Learned to Love the KDE 4 Series](http://www.linuxpromagazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/How-I-Learned-to-Love-the-KDE-4-Series)
+[Linux Pro Magazine/Bruce Byfield: How I Learned to Love the KDE 4 Series](//www.linuxpromagazine.com/Online/Blogs/Off-the-Beat-Bruce-Byfield-s-Blog/How-I-Learned-to-Love-the-KDE-4-Series)
 
 For nine years, my default desktop was GNOME. About the third of the time, I'd use another desktop or a shell, either for the purposes of review or just for a change, but I'd always return to GNOME. It was a no-fuss interface in which I could do my common tasks without any problem. But a glitch on my system that left GNOME unstartable coincided with the release of KDE 4.2, and -- not having the time to reinstall -- I switched to KDE. I haven't looked back since.
 
@@ -590,72 +590,72 @@ So why did I switch permanently? Two main reasons come to mind: KDE's design phi
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know! 
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//bit.ly/mpxLsD) and let us know! 
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
 If you don't know, how to **contribute**, just check out the
       [Contribution
-    Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+    Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-We have a [Etherpad](http://os-news.ietherpad.com/2), which you can also
+We have a [Etherpad](//os-news.ietherpad.com/2), which you can also
     use to sumbit news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-    community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our **connect.opensuse.org** Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
 You can subscribe to the openSUSE Weekly News **RSS** feed at
-      [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+      [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
   * [Thomas
-                Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+                Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [iJoomla](http://www.ijoomla.com), Surveys
+  * [iJoomla](//www.ijoomla.com), Surveys
 
-  * [open-slx GmbH](http://www.open-slx.com/en), Sponsoring
+  * [open-slx GmbH](//www.open-slx.com/en), Sponsoring
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 ### List of our Licenses
 
-  * [Permission Information for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Information for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 ### Trademarks
 
@@ -664,22 +664,22 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 openSUSE Weekly News is translated into many languages. Issue 198 is available in: 
 
-  * [English](http://news.opensuse.org/?p=11289)
+  * [English](//news.opensuse.org/?p=11289)
 
 Coming soon: 
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/198)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/198)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
-  * [Russian](http://www.xboct.org)
+  * [Russian](//www.xboct.org)
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)

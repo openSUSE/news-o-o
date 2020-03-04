@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-This weekend 'People of openSUSE' brings to light long time Kernel hacker and Novell employee Greg Kroah-Hartman interview. Greg KH today's working full time on [Linux Driver Project](http://www.linuxdriverproject.org) is the current maintainer of the Kernel package for openSUSE 11.0.
+This weekend 'People of openSUSE' brings to light long time Kernel hacker and Novell employee Greg Kroah-Hartman interview. Greg KH today's working full time on [Linux Driver Project](//www.linuxdriverproject.org) is the current maintainer of the Kernel package for openSUSE 11.0.
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ This weekend 'People of openSUSE' brings to light long time Kernel hacker and No
 <td >**Homepage: **
 </td>
 
-<td >[www.kroah.com](http://www.kroah.com)
+<td >[www.kroah.com](//www.kroah.com)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ This weekend 'People of openSUSE' brings to light long time Kernel hacker and No
 <td >**Blog:**
 </td>
 
-<td >[www.kroah.com/log](http://www.kroah.com/log)
+<td >[www.kroah.com/log](//www.kroah.com/log)
 </td>
 
 <td >

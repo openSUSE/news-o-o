@@ -12,7 +12,7 @@ wordpress_id: 2059
 
 From Sep 12 to Sep 13 we will have a power outage in the Nuernberg office.
 
-Downtime is planned from [2009-09-11 20:00 CEST](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2009&mo=9&d=11&h=13&mn=00) (18:00 UTC) until [2009-09-14 10:00 CEST](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2009&mo=09&d=14&h=7&mn=00) (08:00 UTC). So it might become a long weekend especially for developers - but we plan to avoid restrictions for endusers during this downtime.
+Downtime is planned from [2009-09-11 20:00 CEST](//www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2009&mo=9&d=11&h=13&mn=00) (18:00 UTC) until [2009-09-14 10:00 CEST](//www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2009&mo=09&d=14&h=7&mn=00) (08:00 UTC). So it might become a long weekend especially for developers - but we plan to avoid restrictions for endusers during this downtime.
 
 So far, the following services are affected by this downtime:
 
@@ -28,7 +28,7 @@ So far, the following services are affected by this downtime:
   * ...and more
 
 
-Please have a look at the ["downtime" wiki page](http://en.opensuse.org/Downtime/2009-09-11) to see the full list of affected hosts.
+Please have a look at the ["downtime" wiki page](//en.opensuse.org/Downtime/2009-09-11) to see the full list of affected hosts.
 
 **Not** affected:
 
@@ -49,7 +49,7 @@ Please have a look at the ["downtime" wiki page](http://en.opensuse.org/Downtime
 
 The discussion to host at least download.opensuse.org and static.opensuse.org somewhere else is work in progress. We plan no replacement for the other services as the downtime is not too large.
 
-We will try to reduce/disable building on build.opensuse.org on Thursday, so all [mirrors](http://en.opensuse.org/Mirrors) should have "up-to date" packages over the weekend.
+We will try to reduce/disable building on build.opensuse.org on Thursday, so all [mirrors](//en.opensuse.org/Mirrors) should have "up-to date" packages over the weekend.
 
 With kind regards,
 Lars (on behalf of the openSUSE-Admins)

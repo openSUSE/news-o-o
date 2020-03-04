@@ -30,7 +30,7 @@ tags:
 - Tumbleweed
 ---
 
-The [GNU Health Project](http://health.gnu.org/) is one of many noble open-source projects and the [openSUSE Project](https://www.opensuse.org/) is pleased to announce it has donated 10 [Raspberry Pis](https://www.raspberrypi.org/) to help expand the use and development of the project on affordable [ARM](https://www.arm.com/) hardware.
+The [GNU Health Project](//health.gnu.org/) is one of many noble open-source projects and the [openSUSE Project](https://www.opensuse.org/) is pleased to announce it has donated 10 [Raspberry Pis](https://www.raspberrypi.org/) to help expand the use and development of the project on affordable [ARM](https://www.arm.com/) hardware.
 
 GNU Health, which is a non-profit, [non-government organizations](https://en.wikipedia.org/wiki/Non-governmental_organization) (NGO), delivers free open-source software for health practitioners, health institutions and governments worldwide.
 
@@ -68,7 +68,7 @@ A large amount of credit for GNU Health being in openSUSE is because of Axel Bra
 
 Health-care management for well-funded facilities as well as those with funding challenges can benefit from the minimal cost and power consumption of GNU Health on a Raspberry Pi.
 
-The [Ministry of Health for Jamaica](http://moh.gov.jm/) has implemented GNU Health as part of its 2014 - 2018 Health Strategic Plan, according to [Jamaican government report](http://moh.gov.jm/wp-content/uploads/2015/07/MOH_NHIS-eHealth_StrategicPlanFINAL.pdf).
+The [Ministry of Health for Jamaica](//moh.gov.jm/) has implemented GNU Health as part of its 2014 - 2018 Health Strategic Plan, according to [Jamaican government report](//moh.gov.jm/wp-content/uploads/2015/07/MOH_NHIS-eHealth_StrategicPlanFINAL.pdf).
 
 GNU Health enabled computers play a critical importance in low-resource settings, with limited connectivity, which allows the recording of information during a period of days or weeks and then is synchronized and aggregated to the Health Information Systems at the Ministry of Health.
 

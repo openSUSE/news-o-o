@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-The [openSUSE Factory](http://en.opensuse.org/Factory) distribution is our permanent development distribution. Currently used to develop openSUSE 11.2. We want to make the factory distribution better usable for everybody to get a better testing for next release.
+The [openSUSE Factory](//en.opensuse.org/Factory) distribution is our permanent development distribution. Currently used to develop openSUSE 11.2. We want to make the factory distribution better usable for everybody to get a better testing for next release.
 One of the complaints we received in the last years is that the huge amount of newly built packages makes it hard for people to keep their system up to date, simply due to the time needed for downloading and installing the packages.
 
 We have switched now to a new mechanism, which will reduce the number of packages which get published significantly.
@@ -47,7 +47,7 @@ Disadvantages of this approach:
 
 So it is obvious that both concepts have their pros and cons. Since we still want to deliver a maintainable distribution we think we can not go away from concept 2). BUT we think we can reduce its disadvantages:
 
-From now on, a resulting build can get compared to the former build result. The [openSUSE Build Service](http://en.opensuse.org/Build_Service) will just drop the build result if the new build are essentially the same and calculate the build dependencies based on the old build result. This will reduce the number of packages to be build to some degree, but will even more reduce the number of packages which get released at all. So we think to have a solution which takes most advantages of both build strategies.
+From now on, a resulting build can get compared to the former build result. The [openSUSE Build Service](//en.opensuse.org/Build_Service) will just drop the build result if the new build are essentially the same and calculate the build dependencies based on the old build result. This will reduce the number of packages to be build to some degree, but will even more reduce the number of packages which get released at all. So we think to have a solution which takes most advantages of both build strategies.
 
 The compare happens via a script, which is part of the distribution. You can find the scripts inside of the build-compare package in openSUSE:Factory. This script was developed by Michael Matz and Coolo and can still get improved of course.
 

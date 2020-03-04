@@ -14,16 +14,16 @@ categories:
 - Summit
 ---
 
-We are happy to announce the Travel Team is ready to receive applications for sponsorships to attend to [openSUSE Summit ](http://summit.opensuse.org/)2013.
+We are happy to announce the Travel Team is ready to receive applications for sponsorships to attend to [openSUSE Summit ](//summit.opensuse.org/)2013.
 
 [![openSUSE Summit 2013 logo](/wp-content/uploads/2013/09/LogoSunIdeaPeach.png)](/wp-content/uploads/2013/09/LogoSunIdeaPeach.png)
 
-This year openSUSE Summit will be held in the beautiful Florida, November 15 to 17 and the [Disney's Coronado Springs Resort](http://summit.opensuse.org/#location) will welcome all Geekos to this year's event.
+This year openSUSE Summit will be held in the beautiful Florida, November 15 to 17 and the [Disney's Coronado Springs Resort](//summit.opensuse.org/#location) will welcome all Geekos to this year's event.
 
 The [openSUSE Travel Support Program](https://en.opensuse.org/openSUSE:Travel_Support_Program) provides travel sponsorships to individuals that want to attend openSUSE Summit and need financial assistance.
 
 For Summit this year the TSP will work a bit differently. The TSP will make 2 calls, for the first call the **deadline is October 3, 2013** and you can start sending your applications now! The results will be given before October 8, 2013.
-The second call will start on October 11, 2013 ending on October 17, 2013. The results before October 22, 2013. Important to say that the second call is for those who had applied on [CfP](http://summit.opensuse.org/#cfp) and didn't have answer before the first call ends. Of course, even applied and no answer yet you can send your application on the first call.
+The second call will start on October 11, 2013 ending on October 17, 2013. The results before October 22, 2013. Important to say that the second call is for those who had applied on [CfP](//summit.opensuse.org/#cfp) and didn't have answer before the first call ends. Of course, even applied and no answer yet you can send your application on the first call.
 
 About the TSP you can see at [https://en.opensuse.org/openSUSE:Travel_Support_Program](https://en.opensuse.org/openSUSE:Travel_Support_Program) The instructions are detailed at [https://connect.opensuse.org/travel-support/](https://connect.opensuse.org/travel-support/)
 **__**
@@ -42,7 +42,7 @@ Important
 
 In case of doubts just drop us an email travel-support@opensuse.org
 
-Do not forget... The [Call for Participation](http://summit.opensuse.org/#cfp) still opened so hurry up!
+Do not forget... The [Call for Participation](//summit.opensuse.org/#cfp) still opened so hurry up!
 
 
 _Your TSP Team_

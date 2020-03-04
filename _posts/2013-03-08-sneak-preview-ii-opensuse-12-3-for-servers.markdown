@@ -22,7 +22,7 @@ The new openSUSE is just around the corner so let's take a closer look at some o
 
 openSUSE 12.3 includes the newest stable releases of most popular databases.  We will have PostgreSQL, Oracle MySQL, MariaDB and a few more. 
 
-For PostgreSQL, we will have version 9.2 which comes with some nice features and especially with something to make modern web development even easier - basic JSON support. It has a JSON data type that will validate whether entered data is in fact valid JSON and store it in one cell. So you don't have to validate it before storing, although you might want to parse it and store it in different columns/tables according to the semantics. The more interesting part it the database itself can now reply to your queries using JSON. It is currently not possible to use JSON to write structured data (apart from storing everything in one cell), but [workarounds exist](http://people.planetpostgresql.org/andrew/index.php?/archives/249-Using-PLV8-to-index-JSON.html) and we have something to look forward to in upcoming versions.
+For PostgreSQL, we will have version 9.2 which comes with some nice features and especially with something to make modern web development even easier - basic JSON support. It has a JSON data type that will validate whether entered data is in fact valid JSON and store it in one cell. So you don't have to validate it before storing, although you might want to parse it and store it in different columns/tables according to the semantics. The more interesting part it the database itself can now reply to your queries using JSON. It is currently not possible to use JSON to write structured data (apart from storing everything in one cell), but [workarounds exist](//people.planetpostgresql.org/andrew/index.php?/archives/249-Using-PLV8-to-index-JSON.html) and we have something to look forward to in upcoming versions.
 
 For Oracle MySQL and MariaDB see very few changes in this release, as they just receive minor bugfix updates to their 5.5 versions. A bigger bit of news is that MariaDB has assumed the place of the default MySQL implementation in openSUSE 12.3. Everything is compiled against it and the M in LAMP now means MariaDB. You can still use Oracle's MySQL, but MariaDB folks have many [cookies](https://kb.askmonty.org/en/mariadb-versus-mysql-features/)!
 
@@ -69,6 +69,6 @@ New Qemu introduces a tool called _qemu-nbd_ which can read any qemu-supported i
 ## Check it out!
 
 
-If you are as excited as we are about the new release and can't wait that few extra days, you can [get RC2](http://software.opensuse.org/developer) right now and when the final release is published, there will be updates in the existing software repositories to seamlessly migrate to the final version. So, go get it now!
+If you are as excited as we are about the new release and can't wait that few extra days, you can [get RC2](//software.opensuse.org/developer) right now and when the final release is published, there will be updates in the existing software repositories to seamlessly migrate to the final version. So, go get it now!
 
 _Article contributed by Michal Hrušecký and Will Stephenson_

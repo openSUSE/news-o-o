@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-The roadmap for 11.2 is [now set](http://lists.opensuse.org/opensuse-project/2009-03/msg00029.html), and openSUSE is getting a fixed release cycle!  [Codenamed  "Fichte,"](http://lists.opensuse.org/opensuse-project/2009-03/msg00029.html) openSUSE 11.2 is planned for release in November, and releases thereafter will happen every eight months.
+The roadmap for 11.2 is [now set](//lists.opensuse.org/opensuse-project/2009-03/msg00029.html), and openSUSE is getting a fixed release cycle!  [Codenamed  "Fichte,"](//lists.opensuse.org/opensuse-project/2009-03/msg00029.html) openSUSE 11.2 is planned for release in November, and releases thereafter will happen every eight months.
 
 While all features for 11.2 are not yet settled, the release should include KDE 4.3, GNOME 2.28, Linux kernel 2.6.30 (or higher),  a Web-based YaST interface, netbook support (with free drivers), Ext4, and more.
 

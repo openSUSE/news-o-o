@@ -27,6 +27,6 @@ This team is working on several tasks:
   * We're also creating writing guidelines for contributors, templates for the new wiki, portal pages, and scanning the existing content and deciding what to transfer to the new wiki.
 
 
-As mentioned, all tasks are being done by the wiki team. We'd ask members who are not part of this team to participate in our [mentoring session](http://news.opensuse.org/2009/12/22/reminder-wiki-transition-mentoring-session-sunday-december-27-2009-at-17-00-utc/) and to coordinate with us on our mailinglist before jumping in. We appreciate anyone who would like to assist, of course, but we want to do this in a coordinated fashion to ensure success.
+As mentioned, all tasks are being done by the wiki team. We'd ask members who are not part of this team to participate in our [mentoring session](//news.opensuse.org/2009/12/22/reminder-wiki-transition-mentoring-session-sunday-december-27-2009-at-17-00-utc/) and to coordinate with us on our mailinglist before jumping in. We appreciate anyone who would like to assist, of course, but we want to do this in a coordinated fashion to ensure success.
 
 If you have any questions about the new wiki effort, please ask on the opensuse-wiki mailing list or in #opensuse-wiki on IRC. Thanks, and have a great holiday!

@@ -29,11 +29,11 @@ The openSUSE team is proud to announce the first Beta release of openSUSE 11.0! 
 
 The openSUSE 11.0 beta 1 includes quite a few changes and new features that users will find interesting, including:
 
-**KDE 4 and KDE 3.5:** The openSUSE 11.0 beta 1 includes KDE 4.0.3, which includes a number of [new features, fixes, and optimizations](http://www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php). See the [KDE4 page](http://en.opensuse.org/KDE/KDE4) for more info on the KDE4 branch. To help test, see the [wiki](http://en.opensuse.org/Bugs:KDE) for info on reporting bugs in KDE.  Not quite ready to move to KDE4? No worries, the beta includes an installation option for KDE 3.5 in addition to KDE4.
+**KDE 4 and KDE 3.5:** The openSUSE 11.0 beta 1 includes KDE 4.0.3, which includes a number of [new features, fixes, and optimizations](//www.kde.org/announcements/changelogs/changelog4_0_2to4_0_3.php). See the [KDE4 page](//en.opensuse.org/KDE/KDE4) for more info on the KDE4 branch. To help test, see the [wiki](//en.opensuse.org/Bugs:KDE) for info on reporting bugs in KDE.  Not quite ready to move to KDE4? No worries, the beta includes an installation option for KDE 3.5 in addition to KDE4.
 
-**GNOME 2.22:** Beta 1 includes GNOME 2.22.1 [with plenty of new features and packages](http://library.gnome.org/misc/release-notes/2.22/). Interested in helping with testing for GNOME in openSUSE 11.0? See the [wiki](http://en.opensuse.org/GNOME/11.0/Testing) for all the info you need.
+**GNOME 2.22:** Beta 1 includes GNOME 2.22.1 [with plenty of new features and packages](//library.gnome.org/misc/release-notes/2.22/). Interested in helping with testing for GNOME in openSUSE 11.0? See the [wiki](//en.opensuse.org/GNOME/11.0/Testing) for all the info you need.
 
-**YaST ported to Qt4**: openSUSE's administration and installation tool, [YaST](http://opensuse.org/YaST), has been ported to Qt4, providing [beautiful styling](http://jimmac.musichall.cz/log/?p=413) for the installer, and an [improved look](http://duncan.mac-vicar.com/blog/archives/304) for areas such as package management.
+**YaST ported to Qt4**: openSUSE's administration and installation tool, [YaST](//opensuse.org/YaST), has been ported to Qt4, providing [beautiful styling](//jimmac.musichall.cz/log/?p=413) for the installer, and an [improved look](//duncan.mac-vicar.com/blog/archives/304) for areas such as package management.
 
 
 ### Screenshots!
@@ -45,17 +45,17 @@ The openSUSE 11.0 beta 1 includes quite a few changes and new features that user
 Here's a quick look at openSUSE 11.0 beta 1:
 
 
-[![os110beta1-inst7_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-inst7_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-inst7.png) [![os110beta1-kde4-2_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-kde4-2_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-kde4-2.png)
+[![os110beta1-inst7_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-inst7_thumb.jpg)](//en.opensuse.org/Image:OS11.0beta1-inst7.png) [![os110beta1-kde4-2_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-kde4-2_thumb.jpg)](//en.opensuse.org/Image:OS11.0beta1-kde4-2.png)
 
 
 
 
-[![os110beta1-kde3_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-kde3_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-kde3.png) [![os110beta1-gnome_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-gnome_thumb.jpg)](http://en.opensuse.org/Image:OS11.0beta1-gnome.png)
+[![os110beta1-kde3_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-kde3_thumb.jpg)](//en.opensuse.org/Image:OS11.0beta1-kde3.png) [![os110beta1-gnome_thumb.jpg](/wp-content/uploads/2008/04/os110beta1-gnome_thumb.jpg)](//en.opensuse.org/Image:OS11.0beta1-gnome.png)
 
 
 
 
-For some more screenshots head over to [Screenshots/openSUSE_11.0_Beta1](http://en.opensuse.org/Screenshots/openSUSE_11.0_Beta1) on the wiki.
+For some more screenshots head over to [Screenshots/openSUSE_11.0_Beta1](//en.opensuse.org/Screenshots/openSUSE_11.0_Beta1) on the wiki.
 
 
 <!-- more -->
@@ -68,7 +68,7 @@ For some more screenshots head over to [Screenshots/openSUSE_11.0_Beta1](http://
 ### Under the Hood
 
 
-**New Package Management Solver and Meta-data:** the package management stack of openSUSE, libzypp, has seen constant improvements since the last release. We introduced a new [SAT solver](http://www.fosdem.org/2008/schedule/events/opensuse_solver) ([slides](http://files.opensuse.org/opensuse/en/b/b9/Fosdem2008-solver.pdf), [video](http://tube.opensuse.org/fosdem08/fosdem08_day2_08_satsolver.ogg)) and repository metadata that means that openSUSE's package management works at a [lightning-fast speed](http://duncan.mac-vicar.com/blog/archives/296).
+**New Package Management Solver and Meta-data:** the package management stack of openSUSE, libzypp, has seen constant improvements since the last release. We introduced a new [SAT solver](//www.fosdem.org/2008/schedule/events/opensuse_solver) ([slides](//files.opensuse.org/opensuse/en/b/b9/Fosdem2008-solver.pdf), [video](//tube.opensuse.org/fosdem08/fosdem08_day2_08_satsolver.ogg)) and repository metadata that means that openSUSE's package management works at a [lightning-fast speed](//duncan.mac-vicar.com/blog/archives/296).
 
 **Installation in 24 minutes:** Due to changes within the installation media itself and the advances in openSUSE's package management, an openSUSE installation is now well over 60% faster, completing in roughly just 24 minutes! (Your mileage may vary, offer not valid for 486s...)
 
@@ -101,7 +101,7 @@ For some more screenshots head over to [Screenshots/openSUSE_11.0_Beta1](http://
   * PulseAudio 0.9.10
 
 
-Obsessive package watchers can find a [list of packages in Factory that's updated daily](http://distrowatch.com/table.php?distribution=suse). (Just see the column labeled "Factory.")
+Obsessive package watchers can find a [list of packages in Factory that's updated daily](//distrowatch.com/table.php?distribution=suse). (Just see the column labeled "Factory.")
 
 
 ### Important Changes Since Alpha 3
@@ -115,13 +115,13 @@ Several important changes have happened since Alpha 3 was released, most notably
   * Updated NetworkManager 0.7 SVN
 
 	
-  * RPM payload [switch to LZMA](http://opensuse.org/LZMA) (results in smaller RPM packages and faster installation of them)
+  * RPM payload [switch to LZMA](//opensuse.org/LZMA) (results in smaller RPM packages and faster installation of them)
 
 	
-  * DVD uses [images for installation](http://www.kdedevelopers.org/node/3385) (speed-up)
+  * DVD uses [images for installation](//www.kdedevelopers.org/node/3385) (speed-up)
 
 
-A more detailed list of changes is available via the [Factory/News](http://opensuse.org/Factory/News) page.
+A more detailed list of changes is available via the [Factory/News](//opensuse.org/Factory/News) page.
 
 
 
@@ -161,7 +161,7 @@ Remember that this is a _beta_. It may not be safe to run for production systems
 
 
 
-[[edit](http://en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=3)]
+[[edit](//en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=3)]
 
 
 
@@ -185,7 +185,7 @@ Remember that this is a _beta_. It may not be safe to run for production systems
 
 
 
-[[edit](http://en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=4)]
+[[edit](//en.opensuse.org/index.php?title=Bugs:Most_Annoying_Bugs_11.0_dev&action=edit&section=4)]
 
 
 
@@ -207,7 +207,7 @@ Remember that this is a _beta_. It may not be safe to run for production systems
   * GDM does not start, missing gdm user (<strike>[Bug #381227](https://bugzilla.novell.com/show_bug.cgi?id=381227)</strike>), Fix: Reinstall gdm as below to work around
 
 	
-  * NVIDIA driver doesn't compile. Workaround: check [here](http://lists.opensuse.org/opensuse-kde/2008-03/msg00119.html) for a patch.
+  * NVIDIA driver doesn't compile. Workaround: check [here](//lists.opensuse.org/opensuse-kde/2008-03/msg00119.html) for a patch.
 
 
 
@@ -215,14 +215,14 @@ Remember that this is a _beta_. It may not be safe to run for production systems
 ####  Missing System Users in 11.0 Beta1
 
 
-There is a Bug which affects the adding of system users in [several packages](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev#Missing_System_Users_in_11.0_Beta1) on both LiveCD and DVD installation.** You have to reinstall them to get the correct users created on your system.** You can do so either in YaST or use zypper like:
+There is a Bug which affects the adding of system users in [several packages](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev#Missing_System_Users_in_11.0_Beta1) on both LiveCD and DVD installation.** You have to reinstall them to get the correct users created on your system.** You can do so either in YaST or use zypper like:
 
 `for i in aaa_base avahi beagle cups dbus-1 festival fuse \
 gdm hal ntp openssh PolicyKit postfix pulseaudio pwdutils \
 samba scrollkeeper uuid-runtime yast2-registration; \
 do rpm -q $i && echo zypper in -f -n $i; done`
 
-See the [Bugs:Most_Annoying_Bugs_11.0_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev) page on the wiki for an up-to-date list.
+See the [Bugs:Most_Annoying_Bugs_11.0_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.0_dev) page on the wiki for an up-to-date list.
 
 
 ### Call for Testing
@@ -234,7 +234,7 @@ If you want to help testing our standard test-cases, please coordinate with othe
 ### Media and Download
 
 
-openSUSE 11.0 Beta 1 for i386, x86-64 and PPC comes as different media sets, all of which can be downloaded from **[http://software.opensuse.org/developer](http://software.opensuse.org/developer)**.
+openSUSE 11.0 Beta 1 for i386, x86-64 and PPC comes as different media sets, all of which can be downloaded from **[//software.opensuse.org/developer](//software.opensuse.org/developer)**.
 
 
 ## Comments, Feedback and Helping
@@ -248,12 +248,12 @@ openSUSE 11.0 Beta 1 is a great time to start testing-out openSUSE 11.0 before i
 
 
 	
-  * **Reporting bugs:** Please report all bugs you find on in our Bugzilla as explained on [bugs.openSUSE.org](http://bugs.opensuse.org/).
+  * **Reporting bugs:** Please report all bugs you find on in our Bugzilla as explained on [bugs.openSUSE.org](//bugs.opensuse.org/).
 
 	
   * **Discussion and feedback** is very welcome as well; the most appropriate place is the [opensuse-factory@opensuse.org](mailto:opensuse-factory@opensuse.org) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. Or in the [#opensuse-factory](irc://irc.freenode.net/opensuse-factory) IRC channel.
 
 
-For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
+For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](//opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 2 on May 2.
+The next [planned release](//en.opensuse.org/Roadmap/11.0) is openSUSE 11.0 Beta 2 on May 2.

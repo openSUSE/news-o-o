@@ -33,7 +33,7 @@ The rest is below 1%. So what changed compared to the last release?
 
 Other numbers i have so far ...
 
-* 23518 [smolt](http://smolts.org/) profiles uploaded. Please read [this](http://zonker.opensuse.org/2008/12/22/reminder-to-smolt-we-want-your-hardware-profiles/) how to use it.
+* 23518 [smolt](//smolts.org/) profiles uploaded. Please read [this](//zonker.opensuse.org/2008/12/22/reminder-to-smolt-we-want-your-hardware-profiles/) how to use it.
 * 104742 updates (counted unique ip's)
 
 After all it was again a very successfull release. Thank you all for helping us with it, even it was rather short before Christmas this time.

@@ -28,7 +28,7 @@ We are pleased to announce the openSUSE Weekly News 191.
 
 
 
-![Cover](http://saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/images/Opensuse_weekly_news_banner.png)
 
 
 
@@ -95,10 +95,10 @@ openSUSE Weekly News Team
 
 
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/).
 The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be included in the openSUSE Weekly News, just send a Mail to: `<[news@opensuse.org](mailto:news@opensuse.org)>`.
@@ -106,9 +106,9 @@ Opt-Out: If you are an Author and don't want to be included in the openSUSE Week
 Copyrights of the referenced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which
 license should be applied. We don't reprint any Article without a free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an author and want to set your blog under a free License just visit: [http://goo.gl/Tw3td](http://goo.gl/tssEW)
+If you are an author and want to set your blog under a free License just visit: [//goo.gl/Tw3td](//goo.gl/tssEW)
 
-We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](http://www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
+We are thanking the whole openSUSE Weekly News Team and the [open-slx gmbh](//www.open-slx.com/en) for spending time and power into the openSUSE Weekly News.
 
 
 
@@ -235,7 +235,7 @@ Table of Contents
 
 We are pleased to announce our 191 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy reading :-)
 
@@ -256,7 +256,7 @@ Enjoy reading :-)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Marketing.png)Announcements▼
+## ![Header Picture](//saigkill.homelinux.net/images/Marketing.png)Announcements▼
 
 
 
@@ -293,7 +293,7 @@ final release in November.
 There’s a lot of interesting updates to the 12.1 release and some cool new technologies
 including GNOME 3 and SystemD. You’ll definitely want to take this milestone for a spin and
 see what you can expect in 12.1. And if you’ve never tested before, its easy if you follow
-[these instructions](http://en.opensuse.org/VirtualBox). Being a tester is
+[these instructions](//en.opensuse.org/VirtualBox). Being a tester is
 one of the great ways of contributing to the free software movement, and there’s plenty of
 room for testers in openSUSE Project. (...)
 
@@ -345,11 +345,11 @@ room for testers in openSUSE Project. (...)
 
 
 [Pascal
-Bleser: My talks at the openSUSE Conference 2011](http://dev-loki.blogspot.com/2011/08/my-talks-at-opensuse-conference-2011.html)
+Bleser: My talks at the openSUSE Conference 2011](//dev-loki.blogspot.com/2011/08/my-talks-at-opensuse-conference-2011.html)
 
 
 Big mistake, big mistake. At the call for papers deadline, we ended up with not having any
-sessions about packaging at all except [one by Jan Engelhardt](http://conference.opensuse.org/indico//contributionDisplay.py?contribId=46&sessionId=7&confId=2).
+sessions about packaging at all except [one by Jan Engelhardt](//conference.opensuse.org/indico//contributionDisplay.py?contribId=46&sessionId=7&confId=2).
 
 Now, that would have been quite a ludicrous situation, as our core activity is precisely
 to build packages, without which it wouldn't be a distribution in the first place.
@@ -380,7 +380,7 @@ nevertheless took it up on myself to do a few packaging related sessions at the 
 
 
 [Pascal
-Bleser: On communication, cultural differences, and the openSUSE Conference](http://dev-loki.blogspot.com/2011/08/on-communication-cultural-differences.html)
+Bleser: On communication, cultural differences, and the openSUSE Conference](//dev-loki.blogspot.com/2011/08/on-communication-cultural-differences.html)
 
 
 Disclaimer: the next paragraphs may sound presumptuous, but they're not. I swear.
@@ -412,7 +412,7 @@ rare and rewarding, taking it to that level is a very-bad-thing (tm) (...)
 “
 
 
-[Jos Poortvliet: CLS, DS, COSCUP... Plasma Active, ARM, ...](http://blog.jospoortvliet.com/2011/08/cls-ds-coscup-plasma-active-arm.html)
+[Jos Poortvliet: CLS, DS, COSCUP... Plasma Active, ARM, ...](//blog.jospoortvliet.com/2011/08/cls-ds-coscup-plasma-active-arm.html)
 
 
 It's been quite a while since I wrote a decent blog and it might be a while longer until I
@@ -474,7 +474,7 @@ running on openSUSE for the fun of it! (...)
 “
 
 
-[Andrew Wafaa: What the openSUSE Conference means to me](http://www.wafaa.eu/entry/what-the-opensuse-conference-means-to-me-1-67.html)
+[Andrew Wafaa: What the openSUSE Conference means to me](//www.wafaa.eu/entry/what-the-opensuse-conference-means-to-me-1-67.html)
 
 
 I was asked the other day "What do you expect from the openSUSE Conference?" The simple
@@ -507,11 +507,11 @@ better once in a while :-D
 
 
 [Jan Weber: Keysigning Party, Web Of Trust,
-PGP? What’s that all about?](http://www.luckylemon.de/?p=98)
+PGP? What’s that all about?](//www.luckylemon.de/?p=98)
 
 
-As announced in my previous [post](http://www.luckylemon.de/?p=91) there
-will again be a keysigning party at the [openSUSE](http://www.opensuse.org)[conference](http://conference.opensuse.org) 2011. As
+As announced in my previous [post](//www.luckylemon.de/?p=91) there
+will again be a keysigning party at the [openSUSE](//www.opensuse.org)[conference](//conference.opensuse.org) 2011. As
 time flies by and I have yet only received very few keys, I thought it might be a good idea to
 talk a little bit about what this whole thing is about and why you should participate.
 (...)
@@ -541,7 +541,7 @@ talk a little bit about what this whole thing is about and why you should partic
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/GSoC2011.png)Google Summer of Code▲▼
 
 
 
@@ -560,7 +560,7 @@ talk a little bit about what this whole thing is about and why you should partic
 <tbody >
 <tr >
 
-<td align="center" >![](http://michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
+<td align="center" >![](//michal.hrusecky.net/wp-content/uploads/GSoC2011_300x200.png)
 </td>
 </tr>
 </tbody>
@@ -579,7 +579,7 @@ talk a little bit about what this whole thing is about and why you should partic
 
 
 [Manu Gupta: SaX3 –
-Status](http://sysbytes.wordpress.com/2011/08/28/sax3-status/)
+Status](//sysbytes.wordpress.com/2011/08/28/sax3-status/)
 
 
 The changes I have made in SaX3 in the following week
@@ -626,7 +626,7 @@ repository for sax until 12.1
 
 
 [Christos Bountalis: A utility for merging configuration / sysconfig files – Final GSoC
-Report](http://cbounta.wordpress.com/2011/08/29/a-utility-for-merging-configuration-sysconfig-files-%E2%80%93-final-gsoc-report/)
+Report](//cbounta.wordpress.com/2011/08/29/a-utility-for-merging-configuration-sysconfig-files-%E2%80%93-final-gsoc-report/)
 
 
 Last week was very busy for me and also very exciting. The end of Google Summer of Code
@@ -667,7 +667,7 @@ for this project. (...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Board1.png)Status Updates▲▼
 
 
 
@@ -693,7 +693,7 @@ for this project. (...)
 
 
 
-### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Distribution
+### ![Header Picture](//saigkill.homelinux.net/images/Suse_Box.png)Distribution
 
 
 
@@ -715,12 +715,12 @@ for this project. (...)
 “
 
 
-[Andreas Jaeger: openSUSE Factory Progress 2011-09-02](http://jaegerandi.blogspot.com/2011/09/opensuse-factory-progress-2011-09-02.html)
+[Andreas Jaeger: openSUSE Factory Progress 2011-09-02](//jaegerandi.blogspot.com/2011/09/opensuse-factory-progress-2011-09-02.html)
 
 
 This week saw the release of [Milestone 5
 of openSUSE 12.1](//news.opensuse.org/2011/09/01/and-the-milestones-keep-on-coming/). This is the last milestone, next comes on 22nd of September
-Beta1 with a check-in deadline for packages on the 16th of September (see the [roadmap for details](http://www.suse.de/%7Ecoolo/opensuse_12.1/)).
+Beta1 with a check-in deadline for packages on the 16th of September (see the [roadmap for details](//www.suse.de/%7Ecoolo/opensuse_12.1/)).
 
 **Major package checkins**
 
@@ -752,13 +752,13 @@ Important Links
 
 
  	
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
  	
-  * [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+  * [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
  	
-  * [Bug Reporting FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+  * [Bug Reporting FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 
@@ -807,7 +807,7 @@ Important Links
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Build-Service.png)Build Service Team
 
 
 
@@ -821,7 +821,7 @@ Important Links
 
 
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
 
 
@@ -842,7 +842,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.o
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Logo-fate.png)openFATE Team
 
 
 
@@ -919,7 +919,7 @@ installation in parallel.
 
 I wanted to open a fate feature about this when I first heard of plymouth, but
 reading
-http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+//fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
 really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -1152,7 +1152,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/Suse_Box.png)Testing Team
+#### ![Header Picture](//saigkill.homelinux.net/images/Suse_Box.png)Testing Team
 
 
 
@@ -1174,7 +1174,7 @@ Statistics for openSUSE distribution [in openFATE](https://features.opensuse.org
 “
 
 
-[Larry Finger: Weekly News for September 03](http://lists.opensuse.org/archive/opensuse-testing/2011-09/msg00001.html)
+[Larry Finger: Weekly News for September 03](//lists.opensuse.org/archive/opensuse-testing/2011-09/msg00001.html)
 
 
 I was quite disappointed in the community participation in our Open Bugs Day. I cannot
@@ -1222,7 +1222,7 @@ experiences with MS5.
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translation Team
 
 
 
@@ -1241,11 +1241,11 @@ experiences with MS5.
 
 
  	
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
  	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
-– [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
+– [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -1274,7 +1274,7 @@ experiences with MS5.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Icon-project.png)In the Community▲▼
 
 
 
@@ -1323,15 +1323,15 @@ experiences with MS5.
 
 
 [Jos Poortvliet:
-strategy!](http://blog.jospoortvliet.com/2011/08/strategy.html)
+strategy!](//blog.jospoortvliet.com/2011/08/strategy.html)
 
 
 A few weeks ago the [results of the voting for the openSUSE Strategy came in](//news.opensuse.org/2011/08/09/strategy-done/). 90% agreement,
 nice!
 
 And another number - I've talked about the openSUSE strategy in no less than 8 posts
-already. Sjeeminee. Re-reading, I noticed [this one](http://blog.jospoortvliet.com/2010/10/strategy-helping-suse.html)
-where I mentioned that Fedora was also 'doing strategy'. I see that the [Fedora Board](http://fedoraproject.org/en/about-fedora) has created a [Vision statement](https://fedoraproject.org/wiki/Vision_statement).
+already. Sjeeminee. Re-reading, I noticed [this one](//blog.jospoortvliet.com/2010/10/strategy-helping-suse.html)
+where I mentioned that Fedora was also 'doing strategy'. I see that the [Fedora Board](//fedoraproject.org/en/about-fedora) has created a [Vision statement](https://fedoraproject.org/wiki/Vision_statement).
 
 ”
 
@@ -1382,7 +1382,7 @@ Past
 
 
  	
-  * [August 30 - September 3, 2011 : FASOL (Santarém, Brazil)](http://www.fasol.org.br/)
+  * [August 30 - September 3, 2011 : FASOL (Santarém, Brazil)](//www.fasol.org.br/)
 
 
 
@@ -1406,13 +1406,13 @@ Upcoming
   * [September 07, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
  	
-  * [September 12-15, 2011 : VIII SECOMP Londrina (Londrina, Brazil)](http://www.secomplondrina.com.br/)
+  * [September 12-15, 2011 : VIII SECOMP Londrina (Londrina, Brazil)](//www.secomplondrina.com.br/)
 
 
 
 
 
-You can find more information on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more information on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1444,7 +1444,7 @@ You can find more information on other events at: [openSUSE News/Events](//news.
 
 
 The openSUSE Weekly News are available as podcast in German. You can hear it or download
-it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podcast).
+it on [//saigkill.homelinux.net/podcast](//saigkill.homelinux.net/podcast).
 
 
 
@@ -1482,10 +1482,10 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
  	
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
  	
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 
 
@@ -1527,7 +1527,7 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
  	
-  * [openSUSE Connect](http://connect.opensuse.org)
+  * [openSUSE Connect](//connect.opensuse.org)
 
 
 
@@ -1553,7 +1553,7 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-SecurityUpdates.png)Security Updates▲▼
 
 
 
@@ -1566,7 +1566,7 @@ it on [http://saigkill.homelinux.net/podcast](http://saigkill.homelinux.net/podc
 
 
 To view the security announcements in full, or to receive them as soon as they're released,
-refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 
 
@@ -1577,7 +1577,7 @@ refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-sec
 “
 
 
-[openSUSE-SU-2011:0935-2: important: MozillaThunderbird: Update to 3.1.12](http://lists.opensuse.org/opensuse-security-announce/2011-08/msg00024.html)
+[openSUSE-SU-2011:0935-2: important: MozillaThunderbird: Update to 3.1.12](//lists.opensuse.org/opensuse-security-announce/2011-08/msg00024.html)
 
 
 <table frame="void" id="id319392" >Table 1. SUSE Security Announcement
@@ -1649,7 +1649,7 @@ package versions.
 “
 
 
-[openSUSE-SU-2011:0957-2: important: MozillaFirefox: Update to Firefox 6](http://lists.opensuse.org/opensuse-security-announce/2011-08/msg00026.html)
+[openSUSE-SU-2011:0957-2: important: MozillaFirefox: Update to Firefox 6](//lists.opensuse.org/opensuse-security-announce/2011-08/msg00026.html)
 
 
 <table frame="void" id="id319542" >Table 2. SUSE Security Announcement
@@ -1728,7 +1728,7 @@ update.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Tux.svg_.png)Kernel Review▲▼
 
 
 
@@ -1751,7 +1751,7 @@ update.
 
 
 [Rares
-Aioanei: kernel weekly news – 03.09.2011](http://schaiba.wordpress.com/2011/09/03/kernel-weekly-news-03-09-2011/)
+Aioanei: kernel weekly news – 03.09.2011](//schaiba.wordpress.com/2011/09/03/kernel-weekly-news-03-09-2011/)
 
 
 Rares gives his weekly Kernel Review with openSUSE Flavor.
@@ -1781,7 +1781,7 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/Logo-PlanetSUSE.png)Planet SUSE▲▼
 
 
 
@@ -1804,24 +1804,24 @@ Rares gives his weekly Kernel Review with openSUSE Flavor.
 
 
 [Matthias Hopf: Network Image
-Installer](http://emmes.livejournal.com/10062.html)
+Installer](//emmes.livejournal.com/10062.html)
 
 
 During our work in our preload department at SuSE we have to install our current image on
 several machines for each image version for smoke testing, which meant burning several DVDs
 per iteration (and there is typically one iteration per week!).In order to ease this work flow
-I created a [kiwi](http://kiwi.berlios.de/) image for a CD or an USB stick
-for installing the latest image via network - the [Network Image Installer](http://www.mshopf.de/proj/netimginst.html). It's also
+I created a [kiwi](//kiwi.berlios.de/) image for a CD or an USB stick
+for installing the latest image via network - the [Network Image Installer](//www.mshopf.de/proj/netimginst.html). It's also
 capable of installing arbitrary openSUSE / Fedora / Ubuntu versions, so you never have to burn
 another DVD if you have a reasonably fast internet connection. Network detection is automatic,
 wireless requires the SSID etc. changed in a config file beforehand.
 
-Find the sources on [gitorious](http://gitorious.org/netimginst), I will
+Find the sources on [gitorious](//gitorious.org/netimginst), I will
 eventually try to understand the functionality in the openSUSE build service to create images
 automatically, but for now you'll have to build the image yourself. I'll post when there is a
 downloadable image available.
 
-Now I'm off to [Fantasy Film Fest](http://www.fantasyfilmfest.com/)
+Now I'm off to [Fantasy Film Fest](//www.fantasyfilmfest.com/)
 again.
 
 ”
@@ -1842,20 +1842,20 @@ again.
 “
 
 
-[Ralf Lang: Horde Project pushes libraries to the frontpage](http://www.ralf-lang.de/2011/08/30/horde-project-pushes-libraries-to-the-frontpage/)
+[Ralf Lang: Horde Project pushes libraries to the frontpage](//www.ralf-lang.de/2011/08/30/horde-project-pushes-libraries-to-the-frontpage/)
 
 
 As you might know, the horde project does not only release a set of production quality
 software (and an interesting bunch more which are not yet release quality) but also provides
 over 80 well-designed loosely coupled libraries which help you build websites, business
-applications or even commandline tools. To stress that point, the Horde Project now put [a link to the list of components](http://www.horde.org/components) right on
+applications or even commandline tools. To stress that point, the Horde Project now put [a link to the list of components](//www.horde.org/components) right on
 their frontpage. Use Horde_Rdo, a lightweight ORM layer or use the RFC-compliant Imap_Client
 library which performs equally or even better compared to PHP’s interpreter extension written
 in c. Horde_Auth, a versatile and pluggable authentication layer, has recently been [featured in a series of blog posts by lead developer
-Jan Schneider](http://janschneider.de/news/5/342). Like in Symfony or Zend Framework, Components are released along with
+Jan Schneider](//janschneider.de/news/5/342). Like in Symfony or Zend Framework, Components are released along with
 a [PHPUnit based
-test suit](http://update.linux-magazin.de/Heft-Abo/Ausgaben/2011/08/PHP-Unit)e adapted in the Horde_Test class and can be obtained individually through
-the [Horde Pear Channel](http://pear.horde.org).
+test suit](//update.linux-magazin.de/Heft-Abo/Ausgaben/2011/08/PHP-Unit)e adapted in the Horde_Test class and can be obtained individually through
+the [Horde Pear Channel](//pear.horde.org).
 
 ”
 
@@ -1876,10 +1876,10 @@ the [Horde Pear Channel](http://pear.horde.org).
 
 
 [Ralf
-Lang: OpenSUSE 12.1 drops Sun/Oracle Java](http://www.ralf-lang.de/2011/09/01/opensuse-12-1-drops-sunoracle-java/)
+Lang: OpenSUSE 12.1 drops Sun/Oracle Java](//www.ralf-lang.de/2011/09/01/opensuse-12-1-drops-sunoracle-java/)
 
 
-Today, [openSUSE](http://www.opensuse.org) Program Manager Andreas
+Today, [openSUSE](//www.opensuse.org) Program Manager Andreas
 Jaeger announced that openSUSE will stop shipping Sun Java in the upcoming 12.1
 release.
 
@@ -1914,25 +1914,25 @@ directly from Oracle.
 
 
 [Matthias Hopf: Bye bye,
-SUSE...](http://emmes.livejournal.com/10448.html)
+SUSE...](//emmes.livejournal.com/10448.html)
 
 
 Yesterday was my last working day at [SuSE Linux
-Products](http://www.suse.com/). After exactly 7 years of working for this [awesome Linux distribution](http://www.opensuse.org) there was an opportunity I
+Products](//www.suse.com/). After exactly 7 years of working for this [awesome Linux distribution](//www.opensuse.org) there was an opportunity I
 couldn't refuse. I made innumerable friends in this company (and it's the people that define a
 company!), and there were many great moments that will stick in my memory forever
 
 
-![](http://l-stat.livejournal.com/img/mood/ibrad/biggrin.gif)
+![](//l-stat.livejournal.com/img/mood/ibrad/biggrin.gif)
 
 
 .Now I'm moving (back) to academia, and will start teaching and researching at
 the [Georg-Simon-Ohm University of Applied
-Science](http://www.ohm-hochschule.de), as "Professor for Applied Computer Science" (which is the official job
+Science](//www.ohm-hochschule.de), as "Professor for Applied Computer Science" (which is the official job
 title).Currently, it's the free period of the summer semester, and the University is almost
 deserted. I'm currently only starting to get used to the new environment, prepare courses,
 meet with other professors, etc.I'm pretty excited about the new opportunities in this
-position, and will keep you posted how everything turns out!Now back to [Fantasy Film Fest](http://www.fantasyfilmfest.com/) again ;-)
+position, and will keep you posted how everything turns out!Now back to [Fantasy Film Fest](//www.fantasyfilmfest.com/) again ;-)
 
 ”
 
@@ -1952,7 +1952,7 @@ position, and will keep you posted how everything turns out!Now back to [Fantasy
 “
 
 
-[Ladislav Slezak: Improved Disk Usage Estimation in YaST Installer](http://lslezak.blogspot.com/2011/09/improved-disk-usage-estimation-in-yast.html)
+[Ladislav Slezak: Improved Disk Usage Estimation in YaST Installer](//lslezak.blogspot.com/2011/09/improved-disk-usage-estimation-in-yast.html)
 
 
 **Disk Usage**
@@ -1984,7 +1984,7 @@ Imagine you have separate /usr or /boot partition...) (...)
 “
 
 
-[Lukas Ocilka: Adding Several Repositories with a Single Installation URL](http://kobliha-suse.blogspot.com/2011/09/adding-several-repositories-with-single.html)
+[Lukas Ocilka: Adding Several Repositories with a Single Installation URL](//kobliha-suse.blogspot.com/2011/09/adding-several-repositories-with-single.html)
 
 
 This is a simple but quite powerful feature of installation. By using a modified
@@ -1994,7 +1994,7 @@ and add it either to root of the installation repository or root of the installa
 system.
 
 Installation repository can be easily modified just by adding the file there, installation
-system (inst-sys) can be easily extended by Linuxrc [DriverUpdate](http://en.opensuse.org/SDB:Linuxrc#p_driverupdate). (...)
+system (inst-sys) can be easily extended by Linuxrc [DriverUpdate](//en.opensuse.org/SDB:Linuxrc#p_driverupdate). (...)
 
 ”
 
@@ -2021,7 +2021,7 @@ system (inst-sys) can be easily extended by Linuxrc [DriverUpdate](http://en.ope
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums▲▼
 
 
 
@@ -2043,7 +2043,7 @@ system (inst-sys) can be easily extended by Linuxrc [DriverUpdate](http://en.ope
 “
 
 
-[Gave myself the shaft](http://forums.opensuse.org/english/get-technical-help-here/applications/464731-gave-myself-shaft.html)
+[Gave myself the shaft](//forums.opensuse.org/english/get-technical-help-here/applications/464731-gave-myself-shaft.html)
 
 
 Here's what happened: user accepts a kernel update, afterwards needs to reinstall the driver for his NVIDIA graphics card, and to recompile the kernel module for VMware, a virtualization program. No way the system lets him do that. The compiler "gcc" segfaults in all attempts. Nasty, since the user depends on the machine for his work. Read how, in the end, the user himself finds the solution.
@@ -2066,7 +2066,7 @@ Here's what happened: user accepts a kernel update, afterwards needs to reinstal
 “
 
 
-[openSUSE 12.1 Milestone 5: Post your experiences](http://forums.opensuse.org/english/get-technical-help-here/pre-release-beta/464785-opensuse-12-1-milestone-5-post-your-experiences.html)
+[openSUSE 12.1 Milestone 5: Post your experiences](//forums.opensuse.org/english/get-technical-help-here/pre-release-beta/464785-opensuse-12-1-milestone-5-post-your-experiences.html)
 
 
 Today the official release of Milestone 5 on the road to openSUSE 12.1 was announced. Installation images are available for downloading. Like always we have a thread, still quite empty now, to share user experiences. Interested? Check the thread.
@@ -2089,7 +2089,7 @@ Today the official release of Milestone 5 on the road to openSUSE 12.1 was annou
 “
 
 
-[Suse Demands 11.4 CD While installing apps](http://forums.opensuse.org/english/get-technical-help-here/applications/464530-suse-demands-11-4-cd-while-installing-apps.html)
+[Suse Demands 11.4 CD While installing apps](//forums.opensuse.org/english/get-technical-help-here/applications/464530-suse-demands-11-4-cd-while-installing-apps.html)
 
 
 This subject is one of the issues we see in the forums on a regular basis: when trying to install/update software, Yast's Software Management prompts the user to insert the install CD/DVD, or gives an error on not being able to read the contents of a repo. Cause: during install the CD/DVD entry in the repolist was not removed (as far as I know it should). Solution: start Yast - Software - Software repositories and remove the CD/DVD entry from the list. After doing so, Software Management will not try to refresh or check the contents of this "repo", and thus the errors will be gone.
@@ -2116,16 +2116,16 @@ openSUSE Language specific subforums:
 
 
 We now host the following language specific subforums under the umbrella of the openSUSE Forums:
-[Main forums, english](http://forums.opensuse.org/english/)
-[中文(Chinese)](http://forums.opensuse.org/ae-ae-chinese/)
-[Nederlands (Dutch)](http://forums.opensuse.org/nederlands-dutch/)
-[Français (French)](http://forums.opensuse.org/frana-ais-french/)
-[Deutsch (German)](http://forums.opensuse.org/deutsch-german/)
-[Ελληνικό (Greek)](http://forums.opensuse.org/greek/)
-[Magyar (Hungarian)](http://forums.opensuse.org/magyar-hungarian/)
-[日本語 (Japanese)](http://forums.opensuse.org/japanese/)
-[Portuguese](http://forums.opensuse.org/portuguese/)
-[Pусский (Russian)](http://forums.opensuse.org/p-russian/)
+[Main forums, english](//forums.opensuse.org/english/)
+[中文(Chinese)](//forums.opensuse.org/ae-ae-chinese/)
+[Nederlands (Dutch)](//forums.opensuse.org/nederlands-dutch/)
+[Français (French)](//forums.opensuse.org/frana-ais-french/)
+[Deutsch (German)](//forums.opensuse.org/deutsch-german/)
+[Ελληνικό (Greek)](//forums.opensuse.org/greek/)
+[Magyar (Hungarian)](//forums.opensuse.org/magyar-hungarian/)
+[日本語 (Japanese)](//forums.opensuse.org/japanese/)
+[Portuguese](//forums.opensuse.org/portuguese/)
+[Pусский (Russian)](//forums.opensuse.org/p-russian/)
 
 ”
 
@@ -2152,7 +2152,7 @@ We now host the following language specific subforums under the umbrella of the 
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-On-the-Web.png)On the Web▲▼
 
 
 
@@ -2200,10 +2200,10 @@ We now host the following language specific subforums under the umbrella of the 
 “
 
 
-[Sebastian Trüg: Nepomuk Frameworks – kdelibs 5.0: What To Do](http://trueg.wordpress.com/2011/08/31/nepomuk-frameworks-kdelibs-5-0-what-to-do/)
+[Sebastian Trüg: Nepomuk Frameworks – kdelibs 5.0: What To Do](//trueg.wordpress.com/2011/08/31/nepomuk-frameworks-kdelibs-5-0-what-to-do/)
 
 
-Development of kdelibs 5.0 has begun in the [framework](http://quickgit.kde.org/?p=kdelibs.git&a=shortlog&h=refs/heads/frameworks) branch of its git repository. The main goal for kdelibs 5.0 is that
+Development of kdelibs 5.0 has begun in the [framework](//quickgit.kde.org/?p=kdelibs.git&a=shortlog&h=refs/heads/frameworks) branch of its git repository. The main goal for kdelibs 5.0 is that
 there will be no more kdelibs as it is now. kdelibs (and kde-runtime) will be split up into
 smaller pieces to lower the barrier for non-KDE developers to use part of the power we as a
 KDE development community provide. The rough idea is that there will be three groups of
@@ -2252,7 +2252,7 @@ get rid of deprecated junk we needed to keep around for binary compatibility.
 
 
 [odysseus
-blog/John Layt: Tablet Fun and Games](http://www.layt.net/john/blog/odysseus/tablet_fun_and_games)
+blog/John Layt: Tablet Fun and Games](//www.layt.net/john/blog/odysseus/tablet_fun_and_games)
 
 
 I've had a little time to play with my ExoPC tablet kindly provided by Intel, and after
@@ -2266,7 +2266,7 @@ time and that's a tribute to both the Plasma architecture that Aaron put in plac
 flexibility of our Platform/Frameworks. If only Intel had approaced KDE first...
 (...)
 
-**Related Posts**: [Plasma Active Experience](http://pusling.com/blog/?p=206)
+**Related Posts**: [Plasma Active Experience](//pusling.com/blog/?p=206)
 
 ”
 
@@ -2296,7 +2296,7 @@ flexibility of our Platform/Frameworks. If only Intel had approaced KDE first...
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-oxygen-Credits.png)Feedback▲▼
 
 
 
@@ -2308,29 +2308,29 @@ flexibility of our Platform/Frameworks. If only Intel had approaced KDE first...
 
 
 
-Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](http://bit.ly/mpxLsD) and let us know!
+Do you have **comments** on any of the things **mentioned** in this article? Then head right over to the [comment section](//bit.ly/mpxLsD) and let us know!
 
-Or if you would like to be **part** of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be **part** of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
 check out our team page and join!
 
 If you don't know, how to **contribute**, just check out the
 [Contribution
-Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
-We have a [Etherpad](http://os-news.ietherpad.com/2), which you can also
+We have a [Etherpad](//os-news.ietherpad.com/2), which you can also
 use to sumbit news.
 
 **Talk with us:**
 
 Or **Communicate** with or get help from the wider openSUSE
-community via IRC, forums, or mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels).
+community via IRC, forums, or mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels).
 
 Visit our **connect.opensuse.org** Page: [and give your
 Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our **Facebook** Fanpage: [Fanpage](http://www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
+Visit our **Facebook** Fanpage: [Fanpage](//www.facebook.com/pages/OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
 your Feedback.
 
 **Keep updated:**
@@ -2338,7 +2338,7 @@ your Feedback.
 You can subscribe to the openSUSE Weekly News **RSS** feed at
 [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
 
 
@@ -2357,7 +2357,7 @@ You can subscribe to the openSUSE Weekly News **RSS** feed at
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/euro-cent-stueck.jpg)Credits▲▼
 
 
 
@@ -2377,20 +2377,20 @@ We thank for this Issue:
 
 
  	
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
  	
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
  	
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
  	
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
  	
   * [Thomas
-Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
 
 
@@ -2413,7 +2413,7 @@ Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/handshake.jpg)Acknowledgements▲▼
 
 
 
@@ -2433,13 +2433,13 @@ We thank for this Issue:
 
 
  	
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
  	
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
  	
-  * [iJoomla](http://www.ijoomla.com), Surveys
+  * [iJoomla](//www.ijoomla.com), Surveys
 
 
 
@@ -2462,7 +2462,7 @@ We thank for this Issue:
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
+## ![Header Picture](//saigkill.homelinux.net/images/copyright.jpg)Copyrights▲▼
 
 
 
@@ -2507,7 +2507,7 @@ We thank for this Issue:
 
 
  	
-  * [Permission Information for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Information for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 
 
@@ -2567,7 +2567,7 @@ Linux ® is a registered Trademark of Linus Torvalds
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
+## ![Header Picture](//saigkill.homelinux.net/images/OWN-Icon-locale.png)Translations▲
 
 
 
@@ -2601,19 +2601,19 @@ Coming soon:
 
 
  	
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/191)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/191)
 
  	
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
  	
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
 
 
 
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
 
 
@@ -2623,6 +2623,6 @@ First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.ne
 
 
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)
 
 

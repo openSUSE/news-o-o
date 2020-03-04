@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-The 'People of openSUSE' publishes this week one more interesting interview, one of the most active openSUSE community members - Keith Kastorff - the man who has his own Beagle and spends his time helping people at [SUSE Forums](http://www.suseforums.net).
+The 'People of openSUSE' publishes this week one more interesting interview, one of the most active openSUSE community members - Keith Kastorff - the man who has his own Beagle and spends his time helping people at [SUSE Forums](//www.suseforums.net).
 
 <!-- more -->
 <table border="0" >

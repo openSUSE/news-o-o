@@ -13,7 +13,7 @@ categories:
 
 Jan is one of silent community members that is active in kernel packaging and development area. Thanks to him openSUSE users have had chance to try stable real time kernel (RT kernel). He doesn't take time to chat very often, but if you have problem and it is kernel related there is a great chance that you will have his attention, specially if you post your question to opensuse-kernel mail list. 
 
-His development home is [suser-jengelh/](ftp://ftp5.gwdg.de/pub/linux/misc/suser-jengelh/), or recently added [ http://jftp.medozas.de/](http://jftp.medozas.de/). The Build Service repo [j-engel](http://download.opensuse.org/repositories/home:/j-engel:/) belongs to another person - Johannes Engel. 
+His development home is [suser-jengelh/](ftp://ftp5.gwdg.de/pub/linux/misc/suser-jengelh/), or recently added [ //jftp.medozas.de/](//jftp.medozas.de/). The Build Service repo [j-engel](//download.opensuse.org/repositories/home:/j-engel:/) belongs to another person - Johannes Engel. 
 
 Jan mentioned that openSUSE 11.1 users don't have RT kernel due to difficulties with 2.6.27 that prevented it to be ready by release date, but he provided alternatives 2.6.25-RT and 2.6.29-RT that can be found in either of his repositories. 
 
@@ -53,7 +53,7 @@ Jan mentioned that openSUSE 11.1 users don't have RT kernel due to difficulties 
 <td >**Homepage: **
 </td>
 
-<td >[http://jengelh.medozas.de/](http://jengelh.medozas.de/)
+<td >[//jengelh.medozas.de/](//jengelh.medozas.de/)
 </td>
 
 <td >
@@ -64,7 +64,7 @@ Jan mentioned that openSUSE 11.1 users don't have RT kernel due to difficulties 
 <td >**Blog:**
 </td>
 
-<td >The right half of the [home page](http://jengelh.medozas.de/)
+<td >The right half of the [home page](//jengelh.medozas.de/)
 </td>
 
 <td >
@@ -108,7 +108,7 @@ Jan mentioned that openSUSE 11.1 users don't have RT kernel due to difficulties 
 <td >
 </td>
 
-<td >(StarTrek fans [see here](http://en.wikipedia.org/wiki/Rules_of_Acquisition))
+<td >(StarTrek fans [see here](//en.wikipedia.org/wiki/Rules_of_Acquisition))
 </td>
 
 <td >

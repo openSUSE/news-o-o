@@ -13,7 +13,7 @@ tags:
 - Weekly News
 ---
 
-![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #96 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/96)!
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #96 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/96)!
 
 In this week's issue:
 
@@ -24,21 +24,21 @@ In this week's issue:
 
 
 	
-  * [Call for Candidates: Board Election 2009](http://en.opensuse.org/OpenSUSE_Weekly_News/96#Announcements)
+  * [Call for Candidates: Board Election 2009](//en.opensuse.org/OpenSUSE_Weekly_News/96#Announcements)
 
 	
-  * [Novell User Communities: Using the OpenSUSE Build Service to Create and Distribute Kernel Module Packages](http://en.opensuse.org/OpenSUSE_Weekly_News/96#Tips_and_Tricks)
+  * [Novell User Communities: Using the OpenSUSE Build Service to Create and Distribute Kernel Module Packages](//en.opensuse.org/OpenSUSE_Weekly_News/96#Tips_and_Tricks)
 
 	
-  * [Jigish Gohil: openSUSE Edu Li-f-e at iFest](http://en.opensuse.org/OpenSUSE_Weekly_News/96#Projects_Corner)
+  * [Jigish Gohil: openSUSE Edu Li-f-e at iFest](//en.opensuse.org/OpenSUSE_Weekly_News/96#Projects_Corner)
 
 	
-  * [Lubos Lunak (llunak): Firefox KDE Integration](http://en.opensuse.org/OpenSUSE_Weekly_News/96#Planet_SUSE)
+  * [Lubos Lunak (llunak): Firefox KDE Integration](//en.opensuse.org/OpenSUSE_Weekly_News/96#Planet_SUSE)
 
 	
-  * [Linux Weekly News/Jonathan Corbes: The 2009 Linux Kernel Summit](http://en.opensuse.org/OpenSUSE_Weekly_News/96#On_the_Web)
+  * [Linux Weekly News/Jonathan Corbes: The 2009 Linux Kernel Summit](//en.opensuse.org/OpenSUSE_Weekly_News/96#On_the_Web)
 
 
 For a list of available translations see this page:
 
-[http://en.opensuse.org/OpenSUSE_Weekly_News/96/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/96/Translations).
+[//en.opensuse.org/OpenSUSE_Weekly_News/96/Translations](//en.opensuse.org/OpenSUSE_Weekly_News/96/Translations).

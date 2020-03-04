@@ -50,8 +50,8 @@ Martin Lasarsch, the well-known openSUSE evangelist, gave us the great opportuni
 <td >**Homepage: **
 </td>
 
-<td >[http://hitme.resetbutton.de](http://hitme.resetbutton.de)
-[http://en.opensuse.org/User:Mlasars](http://en.opensuse.org/User:Mlasars)
+<td >[//hitme.resetbutton.de](//hitme.resetbutton.de)
+[//en.opensuse.org/User:Mlasars](//en.opensuse.org/User:Mlasars)
 </td>
 
 <td >

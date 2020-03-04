@@ -12,7 +12,7 @@ categories:
 ---
 
 It's community week, and as so 'People of openSUSE' interviewed the most popular openSUSE IRC helper around there, Jake Rogers!
-He is also the author of [help.opensuse.org](http://help.opensuse.org), and one of the newest [openSUSE Members](http://en.opensuse.org/Members).
+He is also the author of [help.opensuse.org](//help.opensuse.org), and one of the newest [openSUSE Members](//en.opensuse.org/Members).
 
 <!-- more -->
 <table border="0" >
@@ -51,7 +51,7 @@ He is also the author of [help.opensuse.org](http://help.opensuse.org), and one 
 <td >**Homepage: **
 </td>
 
-<td >[http://SpinInk.net](http://SpinInk.net)
+<td >[//SpinInk.net](//SpinInk.net)
 </td>
 
 <td >
@@ -62,7 +62,7 @@ He is also the author of [help.opensuse.org](http://help.opensuse.org), and one 
 <td >**Blog:**
 </td>
 
-<td >[http://SpinInk.net](http://SpinInk.net)
+<td >[//SpinInk.net](//SpinInk.net)
 </td>
 
 <td >
@@ -280,7 +280,7 @@ None unfortunately, I had so wanted to goto FOSDEM this year but it did not work
 #### What is the application you can't live without? And why?
 
 
-[Quanta](%E2%80%9Dhttp://quanta.kdewebdev.org/), because I can't make a living with out it.
+[Quanta](%E2%80%9D//quanta.kdewebdev.org/), because I can't make a living with out it.
 
 
 
@@ -295,10 +295,10 @@ Marking menus(ala Alias Wavefront Maya) for Krita! Hard to explain, but roughly:
 
 
 	
-  * whitepaper: [http://www.billbuxton.com/MMUserLearn.html](http://www.billbuxton.com/MMUserLearn.html)
+  * whitepaper: [//www.billbuxton.com/MMUserLearn.html](//www.billbuxton.com/MMUserLearn.html)
 
 	
-  * screenshot: [http://img208.imageshack.us/img208/7375/keyframejq8.jpg](http://img208.imageshack.us/img208/7375/keyframejq8.jpg)
+  * screenshot: [//img208.imageshack.us/img208/7375/keyframejq8.jpg](//img208.imageshack.us/img208/7375/keyframejq8.jpg)
 
 
 
@@ -450,9 +450,9 @@ Who says I forgot.
 #### Show us a picture of something, you have always wanted to share!
 
 
-[![Yonalasee Wallpaper](http://spinink.net/images/screens/yonalasee-3.jpg)](http://spinink.net/gallery/view/wallpapers/dualwidescreen/yonalasee-3.jpg.html)
+[![Yonalasee Wallpaper](//spinink.net/images/screens/yonalasee-3.jpg)](//spinink.net/gallery/view/wallpapers/dualwidescreen/yonalasee-3.jpg.html)
 
-I shoot panoramic photography and make [dual screen wallpapers](http://spinink.net/gallery/view/wallpapers/dualwidescreen) from them.
+I shoot panoramic photography and make [dual screen wallpapers](//spinink.net/gallery/view/wallpapers/dualwidescreen) from them.
 
 
 
@@ -483,5 +483,5 @@ The motto question.
 
 
 What does your desktop look like?
-[http://spinink.net/images/screens/sPiNdesktop.png](http://spinink.net/images/screens/sPiNdesktop.png)
+[//spinink.net/images/screens/sPiNdesktop.png](//spinink.net/images/screens/sPiNdesktop.png)
 

@@ -18,7 +18,7 @@ Key features of the 1.7 release include:
 
 
 	
-  * [A new attribute system](http://en.opensuse.org/Build_Service/Concepts/AttributeStorage) - A flexible system that stores information related to projects or packages. This gives a good overview and enables teams or individuals to use the openSUSE Build Service as database for their information.
+  * [A new attribute system](//en.opensuse.org/Build_Service/Concepts/AttributeStorage) - A flexible system that stores information related to projects or packages. This gives a good overview and enables teams or individuals to use the openSUSE Build Service as database for their information.
 
 	
   * Faster build speeds – The SAT Solver speeds up the dependency calculation by factor of 1,000, which means a package change submitted to the build service starts building in seconds instead of minutes.
@@ -27,10 +27,10 @@ Key features of the 1.7 release include:
   * Customized branding - For local instances of the openSUSE Build Service, this release offers the ability to add custom branding and the Web user interface (UI) now supports individual themes.
 
 	
-  * An [openSUSE Build Service server appliance](http://en.opensuse.org/Build_Service/OBS-Appliance) - Built as hard disk image and live CD, this appliance allows users to run the system from a USB stick and just replace it with a new version on update without losing the data they have submitted to the server.
+  * An [openSUSE Build Service server appliance](//en.opensuse.org/Build_Service/OBS-Appliance) - Built as hard disk image and live CD, this appliance allows users to run the system from a USB stick and just replace it with a new version on update without losing the data they have submitted to the server.
 
 	
-  * In addition to bug fixes, other improvements include a request system that now offers [a review mechanism](http://en.opensuse.org/Build_Service/Concepts/Review), improved status information (package build dependencies, repository status, etc.), and improved merge handling of sources for automated conflict resolution.
+  * In addition to bug fixes, other improvements include a request system that now offers [a review mechanism](//en.opensuse.org/Build_Service/Concepts/Review), improved status information (package build dependencies, repository status, etc.), and improved merge handling of sources for automated conflict resolution.
 
 
-For more information and to download openSUSE Build Service 1.7, [go here](http://en.opensuse.org/Build_Service).
+For more information and to download openSUSE Build Service 1.7, [go here](//en.opensuse.org/Build_Service).

@@ -63,7 +63,7 @@ Please enjoy this 'People of openSUSE' interview! ;-)
 <td >**Blog:**
 </td>
 
-<td >[kkaempf.blogspot.com](http://kkaempf.blogspot.com)
+<td >[kkaempf.blogspot.com](//kkaempf.blogspot.com)
 </td>
 
 <td >

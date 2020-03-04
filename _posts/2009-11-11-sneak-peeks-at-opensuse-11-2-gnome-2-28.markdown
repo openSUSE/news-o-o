@@ -15,13 +15,13 @@ tags:
 
 With openSUSE 11.2 right around the corner, let's take a look at what's new and interesting in the GNOME desktop for this release. Highlights include a preview of GNOME 3.0, new applets and application updates, and the incredibly attractive Sonar theme new for 11.2.
 
-[![Sonar Theme and Xinerama on openSUSE 11.2](http://farm3.static.flickr.com/2791/4090185161_9a7976304d.jpg)](http://www.flickr.com/photos/jzb/4090185161/)
+[![Sonar Theme and Xinerama on openSUSE 11.2](//farm3.static.flickr.com/2791/4090185161_9a7976304d.jpg)](//www.flickr.com/photos/jzb/4090185161/)
 
-For users coming from 11.1, openSUSE 11.2 actually features two GNOME releases worth of updates. Because of the lengthy release cycle, openSUSE skipped the 2.26 release and jumped to GNOME 2.28, which was made available in [September](http://www.gnome.org/press/releases/2009-09-gnome228.html).
+For users coming from 11.1, openSUSE 11.2 actually features two GNOME releases worth of updates. Because of the lengthy release cycle, openSUSE skipped the 2.26 release and jumped to GNOME 2.28, which was made available in [September](//www.gnome.org/press/releases/2009-09-gnome228.html).
 
 Nautilus now has a plugin to allow quick and easy file sharing. Just right-click on the folder you'd like to share and select "Sharing Options." This makes use of Samba, so you need to enable directory sharing under the Samba Server module in YaST.
 
-[caption id="" align="alignleft" width="362" caption="New and Improved Cheese"][![New and Improved Cheese](http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)](http://files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)[/caption]
+[caption id="" align="alignleft" width="362" caption="New and Improved Cheese"][![New and Improved Cheese](//files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)](//files.opensuse.org/opensuse/en/b/bd/112M8Cheese.png)[/caption]
 
 The Webcam application for GNOME, Cheese, includes some enhancements for 2.28, including a redesigned interface that's better suited for netbooks.
 

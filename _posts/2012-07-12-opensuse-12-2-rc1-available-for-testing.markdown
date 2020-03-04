@@ -12,13 +12,13 @@ categories:
 - Distribution
 ---
 
-[![](/wp-content/uploads/2012/07/gdm.png)](http://news.opensuse.org/2012/07/12/opensuse-12-2-rc1-available-for-testing/gdm/)openSUSE 12.2 Release Candidate 1 is now available to download.
+[![](/wp-content/uploads/2012/07/gdm.png)](//news.opensuse.org/2012/07/12/opensuse-12-2-rc1-available-for-testing/gdm/)openSUSE 12.2 Release Candidate 1 is now available to download.
 
 
 ## Get it
 
 
-Download it from [software.opensuse.org/developer](http://software.opensuse.org/developer/). As usual, a list of the [most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev#openSUSE_12.2_RC_1) is being maintained and you can [see the list of bugs](https://bugzilla.novell.com/query.cgi?classification=openSUSE&field0-0-0=op_sys&product=openSUSE%2012.2&query_format=advanced&resolution=---&type0-0-0=substring&value0-0-0=openSUSE) [and/or file a new one in Bugzilla](https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE%2012.2&format=guided).
+Download it from [software.opensuse.org/developer](//software.opensuse.org/developer/). As usual, a list of the [most annoying bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.2_dev#openSUSE_12.2_RC_1) is being maintained and you can [see the list of bugs](https://bugzilla.novell.com/query.cgi?classification=openSUSE&field0-0-0=op_sys&product=openSUSE%2012.2&query_format=advanced&resolution=---&type0-0-0=substring&value0-0-0=openSUSE) [and/or file a new one in Bugzilla](https://bugzilla.novell.com/enter_bug.cgi?product=openSUSE%2012.2&format=guided).
 
 
 ## Updates

@@ -11,7 +11,7 @@ categories:
 - Board
 ---
 
-[![-> Vote Here Vote Aquí ->](http://farm1.static.flickr.com/22/92847877_b32468ca5e.jpg)](http://www.flickr.com/photos/winmac/92847877/)
+[![-> Vote Here Vote Aquí ->](//farm1.static.flickr.com/22/92847877_b32468ca5e.jpg)](//www.flickr.com/photos/winmac/92847877/)
 
 The 2011 openSUSE Board term is soon coming to an end. In the last few project meetings as well as at the conference, the board has called for people to step up for the Election Committee. Five openSUSE contributors have offered their help and we'd like to introduce them to you.
 <!-- more -->

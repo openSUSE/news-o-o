@@ -11,8 +11,8 @@ categories:
 - Conference
 ---
 
-[![rwx3 logo](/wp-content/uploads/2011/07/rwx3b.png)](http://news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/rwx3b/)
-In our last article focusing on openSUSE Conference sessions, [we discussed the BoF](http://news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/).  In today's article, we'll explore the why, what and how of a workshop.
+[![rwx3 logo](/wp-content/uploads/2011/07/rwx3b.png)](//news.opensuse.org/2011/07/13/opensuse-and-rw-sessions-the-workshop/rwx3b/)
+In our last article focusing on openSUSE Conference sessions, [we discussed the BoF](//news.opensuse.org/2011/06/14/opensuse-conference-and-rw-sessions-the-bof/).  In today's article, we'll explore the why, what and how of a workshop.
 
 
 ## Teach Them To Fish
@@ -27,7 +27,7 @@ Remember how it is better to teach a man to fish than to bring him food?  This i
 
 
 Unlike the BoF, which is a free-form event focusing on a specific topic or set of topics, a workshop is more rigid and provides a specific roadmap and expected goals upon the completion of the session.
-[![Fisherman in Vang Vieng](http://farm4.static.flickr.com/3629/3380846039_2f6eb6ca5e.jpg)](http://www.flickr.com/photos/christianhaugen/3380846039/)
+[![Fisherman in Vang Vieng](//farm4.static.flickr.com/3629/3380846039_2f6eb6ca5e.jpg)](//www.flickr.com/photos/christianhaugen/3380846039/)
 
 For example, at the openSUSE conference a series of workshops on packaging on OBS will be done by Lars Mueller, Pascal Bleser and several other packaging masters. At the end, participants know how to build a package properly on OBS and how to submit it to a devel project.
 
@@ -55,7 +55,7 @@ Things to consider in relation to time are: Amount of actual time, presentation 
 
 
 Make sure you are clear about what audience you wish to have in your workshop.  Do you want to teach users how to use your software?  Do you want to teach developers how to code and submit patches for your software?  Do you want to teach packagers tips and tricks for good packaging methods?
-[![Workshop](http://farm3.static.flickr.com/2612/3692413196_3f0c97c1bf_m.jpg)](http://www.flickr.com/photos/catzrule/3692413196/)
+[![Workshop](//farm3.static.flickr.com/2612/3692413196_3f0c97c1bf_m.jpg)](//www.flickr.com/photos/catzrule/3692413196/)
 
 
 ### Be Clear
@@ -68,7 +68,7 @@ Depending on your time frame, consider the top most important things your audien
 For the packaging workshop the focus is on three things: how to get a basic package building for openSUSE, how to create a merge request for a devel project, and how to manage and guide that request so the merge is successful.
 
 If you want to provide more information than you have time for, consider giving handouts that explain information in depth, point to articles or resources on the web, or create take-home exercises that your audience can do in their own time.
-[![3rd shelf, left bookcase, writing resources](http://farm5.static.flickr.com/4002/4589560952_c3fcc4b575_m.jpg)](http://www.flickr.com/photos/36169896@N00/4589560952/)
+[![3rd shelf, left bookcase, writing resources](//farm5.static.flickr.com/4002/4589560952_c3fcc4b575_m.jpg)](//www.flickr.com/photos/36169896@N00/4589560952/)
 
 
 ### Identify Resources
@@ -98,7 +98,7 @@ _In this workshop, you will learn techniques for creating awesome videos using p
 _Students must bring their own laptop and be able to connect to the internet through a browser.  Also, the following software should be installed on your machine prior to the workshop:  Cinelerra, foo-x, foo-y, foo-z._
 
 _Prerequisite:  A basic knowledge of video editing._
-[![Infinite Clarity](http://farm5.static.flickr.com/4141/5409916350_3d88a8acab_m.jpg)](http://www.flickr.com/photos/ericleslie/5409916350/)
+[![Infinite Clarity](//farm5.static.flickr.com/4141/5409916350_3d88a8acab_m.jpg)](//www.flickr.com/photos/ericleslie/5409916350/)
 
 
 ### Practice Makes Perfect

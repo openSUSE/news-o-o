@@ -39,7 +39,7 @@ With Milestone One of openSUSE 12.3, things start getting interesting. For star
   * Suspend, hibernate and the laptop lid switch are now handled by systemd
 
 
-Watch a video presentation from OSC12 about developments in systemd [on the openSUSETV channel on blip](http://blip.tv/openSUSEtv/osc12-systemd-dracut-and-opensuse-where-are-we-what-is-missing-what-do-we-plan-for-the-future-6414327).
+Watch a video presentation from OSC12 about developments in systemd [on the openSUSETV channel on blip](//blip.tv/openSUSEtv/osc12-systemd-dracut-and-opensuse-where-are-we-what-is-missing-what-do-we-plan-for-the-future-6414327).
 
 
 ### Dracut and PackageKit
@@ -96,6 +96,6 @@ In the toolchain and platform section we have the following major changes:
 ## Helping out easier than ever!
 
 
-As expected from a development release, there is still a lot of work to do, so your input at this early stage will be a huge help in making the final release into the beautifully polished work that we aim for. openSUSE 12.3 Milestone 1 has a [list of most annoying bugs here](http://en.opensuse.org/openSUSE:Most_annoying_bugs_12.3_dev), please add issues you find and help fix them. My [old blog](http://lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/) about **BURP**ing on [build.opensuse.org](http://build.opensuse.org) is still relevant: find a how-to for fixing issues [here](http://en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
+As expected from a development release, there is still a lot of work to do, so your input at this early stage will be a huge help in making the final release into the beautifully polished work that we aim for. openSUSE 12.3 Milestone 1 has a [list of most annoying bugs here](//en.opensuse.org/openSUSE:Most_annoying_bugs_12.3_dev), please add issues you find and help fix them. My [old blog](//lizards.opensuse.org/2011/05/16/have-you-burped-yet-today/) about **BURP**ing on [build.opensuse.org](//build.opensuse.org) is still relevant: find a how-to for fixing issues [here](//en.opensuse.org/openSUSE:Build_Service_Collaboration#Example_with_web_interface).
 
-See for yourself what the next version of openSUSE has in store for you at our [download center](http://software.opensuse.org/developer/en).
+See for yourself what the next version of openSUSE has in store for you at our [download center](//software.opensuse.org/developer/en).

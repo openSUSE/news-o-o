@@ -10,6 +10,6 @@ title: FrOSCon, St. Augustin, Germany
 wordpress_id: 3178
 ---
 
-[FrOSCon](http://www.froscon.de) 21th-22th of August in St. Augustin, Germany.
+[FrOSCon](//www.froscon.de) 21th-22th of August in St. Augustin, Germany.
 
-[openSUSE is at Froson](http://de.opensuse.org/Veranstaltungen/FrOSCon/2010)
+[openSUSE is at Froson](//de.opensuse.org/Veranstaltungen/FrOSCon/2010)

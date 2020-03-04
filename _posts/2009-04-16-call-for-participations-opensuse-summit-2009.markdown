@@ -11,7 +11,7 @@ categories:
 - Conference
 ---
 
-The openSUSE Project is opening the call for participation in the [openSUSE Summit 2009](http://bit.ly/NLIcy), to be held September 17 through 20 in Nuremberg, Germany. We're looking for contributors to openSUSE, upstream projects, and members of the openSUSE community to [participate](http://bit.ly/13y5n).
+The openSUSE Project is opening the call for participation in the [openSUSE Summit 2009](//bit.ly/NLIcy), to be held September 17 through 20 in Nuremberg, Germany. We're looking for contributors to openSUSE, upstream projects, and members of the openSUSE community to [participate](//bit.ly/13y5n).
 
 The summit will be an opportunity to bring the openSUSE contributor community together to share ideas, experience, hack, and help guide the direction of the project. So we're looking to members of the community to give presentations, tutorials, and lead birds of a feather and panel sessions in several tracks:
 
@@ -33,7 +33,7 @@ The summit will be an opportunity to bring the openSUSE contributor community to
   * Open Day: Saturday will include a track for openSUSE users and people new to Linux.
 
 
-If you're interested in presenting at the openSUSE Summit, fill out the [Call for Participation Form](http://bit.ly/44B4Dv) with all of the details for your participation. We're accepting talks, tutorials, birds of a feather, and panel discussion submissions. (Birds of feather sessions will be scheduled after hours.)
+If you're interested in presenting at the openSUSE Summit, fill out the [Call for Participation Form](//bit.ly/44B4Dv) with all of the details for your participation. We're accepting talks, tutorials, birds of a feather, and panel discussion submissions. (Birds of feather sessions will be scheduled after hours.)
 
 The summit will not be entirely composed of prepared presentations, so we will be accepting a limited number of proposals.
 
@@ -41,4 +41,4 @@ The summit will not be entirely composed of prepared presentations, so we will b
 ## Deadline
 
 
-All proposals must be submitted by May 20th. To submit a proposal, fill out the [form](http://bit.ly/44B4Dv) before 12:00 UTC on May 20.
+All proposals must be submitted by May 20th. To submit a proposal, fill out the [form](//bit.ly/44B4Dv) before 12:00 UTC on May 20.

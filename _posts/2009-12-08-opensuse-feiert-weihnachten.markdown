@@ -13,9 +13,9 @@ wordpress_id: 2599
 
 
 
-Bei Lebkuchen und Glühwein läst openSUSE das Jahr ausklingen. Für alle Mitfeiernden gibt es die Möglichkeit, sich mit anderen Anwendern, Entwicklern und Profis über Linux und openSUSE auszutauschen. Zudem sind verschiedene, kleine Vorträge geplant. Mehr zur Veranstaltung [hier](http://de.opensuse.org/Weihnachten).
+Bei Lebkuchen und Glühwein läst openSUSE das Jahr ausklingen. Für alle Mitfeiernden gibt es die Möglichkeit, sich mit anderen Anwendern, Entwicklern und Profis über Linux und openSUSE auszutauschen. Zudem sind verschiedene, kleine Vorträge geplant. Mehr zur Veranstaltung [hier](//de.opensuse.org/Weihnachten).
 
 
 
 
-openSUSE does a [X-Mas](http://de.opensuse.org/Weihnachten) party in Nürnberg and invites everybody interested to join. We'll have some presentations and everybody has the possibility to have shop talk with ohter guests.
+openSUSE does a [X-Mas](//de.opensuse.org/Weihnachten) party in Nürnberg and invites everybody interested to join. We'll have some presentations and everybody has the possibility to have shop talk with ohter guests.

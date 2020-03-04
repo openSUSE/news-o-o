@@ -20,7 +20,7 @@ categories:
 ## Testing
 
 
-Every openSUSE release is tested using openQA, which saves developers from trivial and repetitive work. But in order to reach the quality level we all love from openSUSE stable releases much more testing is needed. We would like to test every single combination of hardware -from netbooks to supercomputers- and options -from default values to the most geeky weird configurations-. So please take a look to [the online spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgNkaGiuxpjxdFdIaGx5Y0xxOVY0NHZ1TXV3eXhQUEE&usp=sharing) that has been created to organize the manual testing, read [the instructions](http://lists.opensuse.org/opensuse-testing/2014-10/msg00001.html) about coordinating the effort and hunt all those nasty bugs!
+Every openSUSE release is tested using openQA, which saves developers from trivial and repetitive work. But in order to reach the quality level we all love from openSUSE stable releases much more testing is needed. We would like to test every single combination of hardware -from netbooks to supercomputers- and options -from default values to the most geeky weird configurations-. So please take a look to [the online spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgNkaGiuxpjxdFdIaGx5Y0xxOVY0NHZ1TXV3eXhQUEE&usp=sharing) that has been created to organize the manual testing, read [the instructions](//lists.opensuse.org/opensuse-testing/2014-10/msg00001.html) about coordinating the effort and hunt all those nasty bugs!
 
 
 
@@ -48,7 +48,7 @@ The already mentioned announcement and features guide are both great to have a c
 ## Documenting
 
 
-Is always nice to have somebody to ask when you find a problem, but is even nicer if you have all the pitfalls and important changes documented in advance. That's what our [release notes](https://github.com/openSUSE/release-notes-openSUSE) are for. As explained by [Karl in the Factory mailing list](http://lists.opensuse.org/opensuse-factory/2014-10/msg00185.html), the release notes are ready for getting your contributions.
+Is always nice to have somebody to ask when you find a problem, but is even nicer if you have all the pitfalls and important changes documented in advance. That's what our [release notes](https://github.com/openSUSE/release-notes-openSUSE) are for. As explained by [Karl in the Factory mailing list](//lists.opensuse.org/opensuse-factory/2014-10/msg00185.html), the release notes are ready for getting your contributions.
 
 
 

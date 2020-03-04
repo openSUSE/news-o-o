@@ -16,6 +16,6 @@ The meeting takes place in IRC on Freenode at #opensuse-project
 
 Useful links:
 
-General conference [info ](http://en.opensuse.org/Conference_2010)
+General conference [info ](//en.opensuse.org/Conference_2010)
 
-[Call for paper draft](http://en.opensuse.org/Conference_2010/Call_For_Papers#Call_for_Papers_for_the_openSUSE_Conference_2010)
+[Call for paper draft](//en.opensuse.org/Conference_2010/Call_For_Papers#Call_for_Papers_for_the_openSUSE_Conference_2010)

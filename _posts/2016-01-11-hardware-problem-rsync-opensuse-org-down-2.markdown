@@ -20,4 +20,4 @@ tags:
 
 As the hardware is located in the data center of our sponsor IP Exchange, we apologize for the delay it will take to fix the problem: we need not only the correct replacement hard drives, but also a field worker at the location who has the appropriate permissions and skills.
 
-During the downtime (and maybe also a good tip afterward), please check on [http://mirrors.opensuse.org/](http://mirrors.opensuse.org/) for the closest mirror nearby your location that also offers rsync for you.
+During the downtime (and maybe also a good tip afterward), please check on [//mirrors.opensuse.org/](//mirrors.opensuse.org/) for the closest mirror nearby your location that also offers rsync for you.

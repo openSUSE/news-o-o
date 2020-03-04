@@ -14,7 +14,7 @@ categories:
 ---
 
 
-[![Taking over Drumheller](http://farm6.staticflickr.com/5004/5328368184_53a6a355a0_n.jpg)](http://www.flickr.com/photos/venturevancouver/5328368184/)
+[![Taking over Drumheller](//farm6.staticflickr.com/5004/5328368184_53a6a355a0_n.jpg)](//www.flickr.com/photos/venturevancouver/5328368184/)
     
 
 
@@ -54,7 +54,7 @@ To top it off, the team is currently working on setting up a 5th event as a feat
 ## But for now...
 
 
-Today, we don't have a final schedule for you - the [Call for Papers](http://conference.opensuse.org/Call-for-papers/) is still open for your input! But it's time to check flights, see if the hotels offer what you're looking for and cross the dates in your agenda. And register!
+Today, we don't have a final schedule for you - the [Call for Papers](//conference.opensuse.org/Call-for-papers/) is still open for your input! But it's time to check flights, see if the hotels offer what you're looking for and cross the dates in your agenda. And register!
 
 
 
@@ -63,7 +63,7 @@ Today, we don't have a final schedule for you - the [Call for Papers](http://con
 
 It is important to register on time. No, we won't shut you out if you didn't register - but you do miss out on the conference badge, a bag with some goodies, a chance to support us (there's a 'supporter' registration option of 50 dollar or 30 euro) and last but not least, **food!**! We'll organize food for the attendees - but we can't guarantee there'll be anything left but scraps for those who didn't register...
 
-Here's the [registration link in English](http://goo.gl/prq4C)!
-And here you go [if you prefer it in Czech](http://goo.gl/7gWXy).
+Here's the [registration link in English](//goo.gl/prq4C)!
+And here you go [if you prefer it in Czech](//goo.gl/7gWXy).
 
 **See you in Prague!**

@@ -11,7 +11,7 @@ categories:
 - Project
 ---
 
-[![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](http://www.flickr.com/photos/standout/)
+[![pizza David Standout geekoified](//news.opensuse.org/wp-content/uploads/2013/09/pizza-David-Standout-geekoified.png)](//www.flickr.com/photos/standout/)
 **Friday is the day**: the _Beta Pizza Hackaton_ is here.
 
 Have you already been testing the Beta? Reported bugs? Great! This Friday we'll begin to triage and fix them! There will be a concerted bugfixing frenzy, coordinated over IRC and Google hangouts, with (open)SUSE developers all over the world going through the bugs and fixing them. There are points awarded both for fixing and for triaging bugs and the top contributors can count on a prize!

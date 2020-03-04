@@ -19,7 +19,7 @@ We are pleased to announce the new openSUSE Weekly News Issue 164.
 
 <!-- more -->
 openSUSE Weekly News
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)
 
 
 
@@ -33,7 +33,7 @@ openSUSE Weekly News
 
 
 
-![Cover](http://saigkill.homelinux.net/pub/OWN/common/logos/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/pub/OWN/common/logos/Opensuse_weekly_news_banner.png)
 
 
 
@@ -97,7 +97,7 @@ openSUSE Weekly News Team
 
 Copyrights of the introduced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which
 license should be applied. If you are an Autor and want to set your Blog under a free License? Just visit:
-[http://bit.ly/gKqGDT](http://bit.ly/gKqGDT)
+[//bit.ly/gKqGDT](//bit.ly/gKqGDT)
 
 
 
@@ -169,14 +169,14 @@ Translations
 
 We are pleased to announce our 164 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats. Just click [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats. Just click [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy the reading :-)
 
 Counter for openSUSE 11.4
 
 
-![](http://countdown.opensuse.org/11.4/small.en.png)
+![](//countdown.opensuse.org/11.4/small.en.png)
 
 
 
@@ -196,7 +196,7 @@ Counter for openSUSE 11.4
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Marketing.png)Announcements
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Marketing.png)Announcements
 
 
 
@@ -216,7 +216,7 @@ Counter for openSUSE 11.4
 “
 
 
-[openSUSE participates in the Google Summer of Code 2011](http://news.opensuse.org/2011/02/22/opensuse-participates-in-the-google-summer-of-code-2011/)
+[openSUSE participates in the Google Summer of Code 2011](//news.opensuse.org/2011/02/22/opensuse-participates-in-the-google-summer-of-code-2011/)
 
 
 
@@ -228,7 +228,7 @@ Counter for openSUSE 11.4
 
 
 **This Article is Licensed under the [GNU Free Documentation
-License.](http://www.gnu.org/licenses/fdl.txt)**
+License.](//www.gnu.org/licenses/fdl.txt)**
 
 
 
@@ -270,7 +270,7 @@ us!
 **Information **
 
 You can find openSUSE’s [wiki
-page](http://en.opensuse.org/openSUSE:GSOC_2011) on GSOC 2011 here and our [list of ideas here](http://en.opensuse.org/openSUSE:GSOC_2011_Ideas). Many
+page](//en.opensuse.org/openSUSE:GSOC_2011) on GSOC 2011 here and our [list of ideas here](//en.opensuse.org/openSUSE:GSOC_2011_Ideas). Many
 people have already submitted ideas but more are very welcome.
 
 ”
@@ -298,7 +298,7 @@ people have already submitted ideas but more are very welcome.
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
 
 
 
@@ -324,7 +324,7 @@ people have already submitted ideas but more are very welcome.
 
 
 
-### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Distribution
+### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Distribution
 
 
 
@@ -348,15 +348,15 @@ Important Links
 
 
 	
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
 	
   * [Submitting Bug
-Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
 	
   * [Bug Reporting
-FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 
@@ -379,7 +379,7 @@ FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 
-### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Built-with-web-big.png)SUSE Studio
+### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Built-with-web-big.png)SUSE Studio
 
 
 
@@ -400,7 +400,7 @@ FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 [SUSE
-Studio/James Tan: Public openSUSE 11.3 AMIs](http://blog.susestudio.com/2011/02/public-opensuse-113-amis.html)
+Studio/James Tan: Public openSUSE 11.3 AMIs](//blog.susestudio.com/2011/02/public-opensuse-113-amis.html)
 
 
 
@@ -411,19 +411,19 @@ Studio/James Tan: Public openSUSE 11.3 AMIs](http://blog.susestudio.com/2011/02/
 ### Note
 
 
-**This Article is owned by Novell Inc. [http://www.novell.com/company/legal/](http://www.novell.com/company/legal/)**
+**This Article is owned by Novell Inc. [//www.novell.com/company/legal/](//www.novell.com/company/legal/)**
 
 
 
 
 "We've been receiving a lot of very positive feedback since we [added Amazon EC2
-support](http://blog.susestudio.com/2010/10/new-amazon-ec2-build-format.html) in SUSE Studio, so I'd just like to take a moment to thank everyone
+support](//blog.susestudio.com/2010/10/new-amazon-ec2-build-format.html) in SUSE Studio, so I'd just like to take a moment to thank everyone
 for their support!
 
 Feature requests keep coming in, but one in particular stands out due to its popularity
--- the ability to create openSUSE [EBS](http://aws.amazon.com/ebs/)
-[AMIs](http://aws.amazon.com/amis). This is especially useful as
-Amazon's [free usage tier](http://aws.amazon.com/free/) does not
+-- the ability to create openSUSE [EBS](//aws.amazon.com/ebs/)
+[AMIs](//aws.amazon.com/amis). This is especially useful as
+Amazon's [free usage tier](//aws.amazon.com/free/) does not
 support instance-store backed AMIs (which we already support in Studio for openSUSE).
 
 So after some nudging from one of our users, Thomps, I did some hacking over the weekend
@@ -432,7 +432,7 @@ open-source and [available on
 Github](https://github.com/jamestyj/susestudio-ec2)). This will be merged into Studio soon.
 
 While working on this, I noticed that there aren't any official public openSUSE
-AMIs out there, so I created some with SUSE Studio ([32 bit](http://susegallery.com/a/n0rKOx/opensuse-113-ami--2), [64 bit](http://susegallery.com/a/n0rKOx/opensuse-113-ami)). The full list of
+AMIs out there, so I created some with SUSE Studio ([32 bit](//susegallery.com/a/n0rKOx/opensuse-113-ami--2), [64 bit](//susegallery.com/a/n0rKOx/opensuse-113-ami)). The full list of
 public openSUSE 11.3 AMIs are listed in the table below." (...)
 
 ”
@@ -486,7 +486,7 @@ public openSUSE 11.3 AMIs are listed in the table below." (...)
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
 
 
 
@@ -507,11 +507,11 @@ public openSUSE 11.3 AMIs are listed in the table below." (...)
 
 
 [Brandon Philips:
-Build Service Action Menu UI](http://ifup.org/2011/02/24/build-service-action-menu-ui/)
+Build Service Action Menu UI](//ifup.org/2011/02/24/build-service-action-menu-ui/)
 
 
 [Last
-week](http://ifup.org/2011/02/17/fixing-open-build-service-ui-gripes/) I wrote a few patches to improve the UI of the build service. The first of
+week](//ifup.org/2011/02/17/fixing-open-build-service-ui-gripes/) I wrote a few patches to improve the UI of the build service. The first of
 these patches were accepted but the removal of the Actions menu wasn't as well liked.
 This was the proposal:
 
@@ -521,7 +521,7 @@ The current javascript pop out menu is hard to discover and not really necessary
 how much space is available in the UI.
 
 
-![](http://ifup.org/images/obs-project-before.png)
+![](//ifup.org/images/obs-project-before.png)
 
 
 **My Suggested Patch**
@@ -530,11 +530,11 @@ OBS has other horizontal controls and the vertical space to handle an inline lis
 submitted this layout in my patches.
 
 
-![](http://ifup.org/images/obs/control-horizontal.png)
+![](//ifup.org/images/obs/control-horizontal.png)
 
 
 However, in the merge request [Sascha
-suggested](http://gitorious.org/opensuse/build-service/merge_requests/9) an alternative which I have tried out and taken screenshots of below
+suggested](//gitorious.org/opensuse/build-service/merge_requests/9) an alternative which I have tried out and taken screenshots of below
 (ignore the margin issues, I need to fix the css for the bento showleft class which breaks
 the 960 grid layout).
 
@@ -545,7 +545,7 @@ long description the really useful information about failures and the controls a
 the fold and a scroll wheel away.
 
 
-![](http://ifup.org/images/obs/control-bottom.png)
+![](//ifup.org/images/obs/control-bottom.png)
 
 
 **Controls on Top **
@@ -554,7 +554,7 @@ I could move the controls to the top above the description but this feels like i
 takes up a lot of space.
 
 
-![](http://ifup.org/images/obs/control-top.png)
+![](//ifup.org/images/obs/control-top.png)
 
 
 What do people think? I still feel like the horizontal layout is the best option but
@@ -576,7 +576,7 @@ some more feedback would be helpful.
 “
 
 
-[Sankar P: Introducing GOSC - A Graphical client for openSUSE Build Service](http://psankar.blogspot.com/2011/02/introducing-gosc-graphical-client-for.html)
+[Sankar P: Introducing GOSC - A Graphical client for openSUSE Build Service](//psankar.blogspot.com/2011/02/introducing-gosc-graphical-client-for.html)
 
 
 "openSUSE buildservice is an awesome framework for building rpms for multiple
@@ -649,7 +649,7 @@ Figure 1. Initial screen. "My Projects" are shown in the top-left listview.
 
 
 
-![Initial screen. "My Projects" are shown in the top-left listview.](http://3.bp.blogspot.com/-Vkr7vCDvK38/TV2I3-bO6OI/AAAAAAAAEXE/iPflQfJFE6U/s320/gosc-main-screen.png)
+![Initial screen. "My Projects" are shown in the top-left listview.](//3.bp.blogspot.com/-Vkr7vCDvK38/TV2I3-bO6OI/AAAAAAAAEXE/iPflQfJFE6U/s320/gosc-main-screen.png)
 
 
 
@@ -675,7 +675,7 @@ textarea.
 
 
 
-![Double-clicking a project from the list, will list the packages in the project in the adjacent listview. The buildresults of the project are shown in the bottom textarea.](http://4.bp.blogspot.com/-b-yKAWNcGOo/TV2I6CnuSDI/AAAAAAAAEXI/eVh69ZItcO8/s320/gosc-project-results.png)
+![Double-clicking a project from the list, will list the packages in the project in the adjacent listview. The buildresults of the project are shown in the bottom textarea.](//4.bp.blogspot.com/-b-yKAWNcGOo/TV2I6CnuSDI/AAAAAAAAEXI/eVh69ZItcO8/s320/gosc-project-results.png)
 
 
 
@@ -700,7 +700,7 @@ chooser dialog.
 
 
 
-![Double-clicking a package from the top-right listview, will popup a Repository chooser dialog.](http://3.bp.blogspot.com/-ojPZycYhdRI/TV2JFEqjyuI/AAAAAAAAEXM/X63U1lvLxcI/s320/gosc-repo-chooser.png)
+![Double-clicking a package from the top-right listview, will popup a Repository chooser dialog.](//3.bp.blogspot.com/-ojPZycYhdRI/TV2JFEqjyuI/AAAAAAAAEXM/X63U1lvLxcI/s320/gosc-repo-chooser.png)
 
 
 
@@ -724,7 +724,7 @@ Figure 4. The entire buildlog of the selected package is shown in the textarea
 
 
 
-![The entire buildlog of the selected=](http://2.bp.blogspot.com/-rJkncdKa6t8/TV2JIQRmvwI/AAAAAAAAEXQ/w81_yTlNj04/s320/gosc-build-log.png)
+![The entire buildlog of the selected=](//2.bp.blogspot.com/-rJkncdKa6t8/TV2JIQRmvwI/AAAAAAAAEXQ/w81_yTlNj04/s320/gosc-build-log.png)
 
 
 
@@ -758,7 +758,7 @@ Your feedback, comments and patches are very much welcome. "
 
 
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
 
 
@@ -779,7 +779,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/GNOME-foot.jpg)GNOME Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/GNOME-foot.jpg)GNOME Team
 
 
 
@@ -800,7 +800,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.op
 
 
 [Nelson
-Marques: Indicators for GNOME2 – Update](http://lizards.opensuse.org/2011/02/19/indicators-for-gnome2-update/)
+Marques: Indicators for GNOME2 – Update](//lizards.opensuse.org/2011/02/19/indicators-for-gnome2-update/)
 
 
 
@@ -962,7 +962,7 @@ ghost is about to faint?”."
 “
 
 
-[Nelson Marques: GNOME:Ayatana project page in English and Portuguese…](http://lizards.opensuse.org/2011/02/20/gnomeayatana-project-page-in-english-and-portuguese/)
+[Nelson Marques: GNOME:Ayatana project page in English and Portuguese…](//lizards.opensuse.org/2011/02/20/gnomeayatana-project-page-in-english-and-portuguese/)
 
 
 
@@ -992,10 +992,10 @@ you don’t actually need my permission to improve contents, I encourage such be
 Thanks Raul.
 
 [GNOME:Ayatana on openSUSE
-[English]](http://en.opensuse.org/openSUSE:GNOME_Ayatana)
+[English]](//en.opensuse.org/openSUSE:GNOME_Ayatana)
 
 [GNOME:Ayatana on openSUSE
-[Portuguese]](http://pt.opensuse.org/openSUSE:GNOME_Ayatana)"
+[Portuguese]](//pt.opensuse.org/openSUSE:GNOME_Ayatana)"
 
 ”
 
@@ -1013,7 +1013,7 @@ Thanks Raul.
 “
 
 
-[Nelson Marques: Default Wallpaper for GNOME:Ayatana](http://lizards.opensuse.org/2011/02/21/default-wallpaper-for-gnomeayatana/)
+[Nelson Marques: Default Wallpaper for GNOME:Ayatana](//lizards.opensuse.org/2011/02/21/default-wallpaper-for-gnomeayatana/)
 
 
 
@@ -1053,7 +1053,7 @@ it, which is really, really nice! I hope everyone else likes it also!
 <tbody >
 <tr >
 
-<td >![](http://lizards.opensuse.org/wp-content/uploads/2011/02/spaceman_goldrush_1680.jpg)
+<td >![](//lizards.opensuse.org/wp-content/uploads/2011/02/spaceman_goldrush_1680.jpg)
 </td>
 </tr>
 </tbody>
@@ -1062,7 +1062,7 @@ it, which is really, really nice! I hope everyone else likes it also!
 
 
 [Spaceman Goldrush
-Edition @ Deviant ART](http://mydarktime.deviantart.com/art/spaceman-169794648)
+Edition @ Deviant ART](//mydarktime.deviantart.com/art/spaceman-169794648)
 
 ”
 
@@ -1089,7 +1089,7 @@ Edition @ Deviant ART](http://mydarktime.deviantart.com/art/spaceman-169794648)
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Logo-fate.png)openFATE Team
 
 
 
@@ -1166,7 +1166,7 @@ boot (Score: 182)](https://features.opensuse.org/305493)
 
 "I wanted to open a fate feature about this when I first heard of plymouth, but
 reading
-http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+//fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
 really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -1594,7 +1594,7 @@ As it appears there is presently no GUI based tool for job scheduling in OS 11.4
 Gnome.
 
 I therefore suggest considering the addition of gnome-schedule
-(http://gnome-schedule.sourceforge.net/ ) which is not an official gnome project AFAIK,
+(//gnome-schedule.sourceforge.net/ ) which is not an official gnome project AFAIK,
 but associated close enough to be supported via bugzilla.gnome.org."
 
 ”
@@ -1671,7 +1671,7 @@ PDF files. It deserves to be better known.
 I would like to see it in the main openSuSE oss repo.
 
 It is currently available via
-http://download.opensuse.org/repositories/home:/dnh/Factory_snapshot | /openSUSE_11.3 |
+//download.opensuse.org/repositories/home:/dnh/Factory_snapshot | /openSUSE_11.3 |
 etc."
 
 ”
@@ -1733,7 +1733,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Testing Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Testing Team
 
 
 
@@ -1753,7 +1753,7 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 “
 
 
-[Open-Bugs-Day Held Last Sunday](http://news.opensuse.org/2011/02/25/open-bugs-day-held-last-sunday/)
+[Open-Bugs-Day Held Last Sunday](//news.opensuse.org/2011/02/25/open-bugs-day-held-last-sunday/)
 
 
 
@@ -1765,17 +1765,17 @@ Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statist
 
 
 **This Article is licensed under the [GNU Free Documentation
-License.](http://www.gnu.org/licenses/fdl.txt)**
+License.](//www.gnu.org/licenses/fdl.txt)**
 
 
 
 
-[As announced previously](http://news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January
-20. Many people participated, including a large number of contributors new to [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on [Freenode servers](http://freenode.net/)!
+[As announced previously](//news.opensuse.org/2011/02/16/open-bugs-day-on-sunday-the-20th-of-february/), openSUSE organized an Open-Bugs-Day held on January
+20. Many people participated, including a large number of contributors new to [#opensuse-testing](irc://irc.freenode.net/opensuse-testing) on [Freenode servers](//freenode.net/)!
 
 **Results **
 
-Bernhard Wiedemann created a nice tool at [openbugs.zq1.de](http://openbugs.zq1.de/) to avoid the situation where two people work on the same issue.
+Bernhard Wiedemann created a nice tool at [openbugs.zq1.de](//openbugs.zq1.de/) to avoid the situation where two people work on the same issue.
 There were VM’s prepared with VNC access so people could easily test and someone in the
 team ran his first KVM Virtual Machine at home, thanks to the help of the rest of the
 team. Another participant filed his first bug on bugzilla (that would be bug number [673629](https://bugzilla.novell.com/show_bug.cgi?id=673629)). In the end,
@@ -1784,7 +1784,7 @@ the team went through and updated 60% of all old 11.4 bugs (=132 of 219)!
 And of course, they had a lot of fun…
 
 Finally, we have some crude statistics about yesterday’s most active participants, who
-can get the geeko-gear reward (just send your details to [Bernhard Wiedermann](http://en.opensuse.org/User:Bmwiedemann))!
+can get the geeko-gear reward (just send your details to [Bernhard Wiedermann](//en.opensuse.org/User:Bmwiedemann))!
 
 This list is generated with a perl script | sort | uniq -c | sort -n -r | head -11
 
@@ -1862,7 +1862,7 @@ The team decided it would be nice to have such events on a regular basis, so
 
 
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
 
 
 
@@ -1881,12 +1881,12 @@ The team decided it would be nice to have such events on a regular basis, so
 
 
 	
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
 – [Localization
-Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -1915,7 +1915,7 @@ Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Icon-project.png)In the Community
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Icon-project.png)In the Community
 
 
 
@@ -1962,7 +1962,7 @@ Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 [Miguel Angel Barajas
-Hernandez: Flisol 2011](http://lizards.opensuse.org/2011/02/24/flisol-2011/)
+Hernandez: Flisol 2011](//lizards.opensuse.org/2011/02/24/flisol-2011/)
 
 
 
@@ -1974,13 +1974,13 @@ Hernandez: Flisol 2011](http://lizards.opensuse.org/2011/02/24/flisol-2011/)
 
 
 **This Article is licensed under the [GNU Free Documentation
-License.](http://www.gnu.org/licenses/fdl.txt)**
+License.](//www.gnu.org/licenses/fdl.txt)**
 
 
 
 
 The Flisol ([Festival Latinoamericano de Instalación de Software Libre or Free Software Installation
-Latin American Festival ](http://es.wikipedia.org/wiki/Festival_Latinoamericano_de_Instalación_de_Software_Libre)) is the biggest Free Software diffusion event that is
+Latin American Festival ](//es.wikipedia.org/wiki/Festival_Latinoamericano_de_Instalación_de_Software_Libre)) is the biggest Free Software diffusion event that is
 celebrated on 18 countries all over Latin America, from Mexico to Argentina simultaneously
 in more than 200 Cities.
 
@@ -1988,14 +1988,14 @@ The Idea of this Festival is spread the knowledge about Open Source in general a
 in particular by installing it on the participants machines. I has been participating for
 the las 4 years by helping with talks, openSUSE DVDs, etc.
 
-The [FLISOL 2011](http://www.installfest.net/) will be celebrated the
+The [FLISOL 2011](//www.installfest.net/) will be celebrated the
 next April 9. If you live in Latin America of will be in some of the countries that
 celebrates FLISOL, [you can check
-where and at what time will be celebrated in the city that you will be](http://www.installfest.net/FLISOL2011/Ciudades). Always is
+where and at what time will be celebrated in the city that you will be](//www.installfest.net/FLISOL2011/Ciudades). Always is
 good to hangout with other people that wants to get to know about openSUSE and the Open
 Source in General.
 
-This Time I will be participating in [Mexico City](http://www.installfest.net/FLISOL2011/Mexico/DistritoFederal?highlight=(%5CbCategoryCity%5Cb)) in about 3 different places with talks and giving away openSUSE DVDs
+This Time I will be participating in [Mexico City](//www.installfest.net/FLISOL2011/Mexico/DistritoFederal?highlight=(%5CbCategoryCity%5Cb)) in about 3 different places with talks and giving away openSUSE DVDs
 and T-shirts. Sorry but all the links are in Spanish, Google translate is your friend
 ;)
 
@@ -2049,7 +2049,7 @@ Past
 
 	
   * [February
-14, 2011 : Testing Core Team Meeting](http://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
+14, 2011 : Testing Core Team Meeting](//news.opensuse.org/2011/01/20/testing-core-team-meeting/)
 
 
 
@@ -2067,21 +2067,21 @@ Upcoming
 
 
 	
-  * [February 20, 2011 : openSUSE Testing Team: Bug killing session](http://news.opensuse.org/2011/02/15/opensuse-testing-team-bug-killing-session/)
+  * [February 20, 2011 : openSUSE Testing Team: Bug killing session](//news.opensuse.org/2011/02/15/opensuse-testing-team-bug-killing-session/)
 
 	
   * [February 23,
-2011 : Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+2011 : Board Meeting](//news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 	
   * [February
-28, 2011 : Testing Core Team Meeting](http://news.opensuse.org/2011/01/20/testing-core-team-meeting/)
+28, 2011 : Testing Core Team Meeting](//news.opensuse.org/2011/01/20/testing-core-team-meeting/)
 
 
 
 
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -2113,7 +2113,7 @@ You can find more informations on other events at: [openSUSE News/Events](http:/
 
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-or download it on [Radiotux](http://blog.radiotux.de/podcast).
+or download it on [Radiotux](//blog.radiotux.de/podcast).
 
 
 
@@ -2135,7 +2135,7 @@ or download it on [Radiotux](http://blog.radiotux.de/podcast).
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
 
 
@@ -2156,7 +2156,7 @@ or download it on [Radiotux](http://blog.radiotux.de/podcast).
 
 
 [Antivirus engine ClamAV 0.97
-released](http://www.net-security.org/malware_news.php?id=1639)
+released](//www.net-security.org/malware_news.php?id=1639)
 
 
 
@@ -2179,7 +2179,7 @@ for automatic signature updates. The core ClamAV library provides numerous file 
 detection mechanisms, file unpacking support, archive support, and multiple signature
 languages for detecting threats. The core ClamAV library is utilized in Immunet 3.0, powered
 by ClamAV, which is a fast, fully featured Desktop AV solution for Windows.
-Available in the [Security](http://download.opensuse.org/repositories/security/) Repository.
+Available in the [Security](//download.opensuse.org/repositories/security/) Repository.
 
 ”
 
@@ -2206,7 +2206,7 @@ Available in the [Security](http://download.opensuse.org/repositories/security/)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
 
 
 
@@ -2220,7 +2220,7 @@ Available in the [Security](http://download.opensuse.org/repositories/security/)
 
 To view the security announcements in full, or to receive them as soon as they're released,
 refer to the [openSUSE
-Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 
 
@@ -2229,7 +2229,7 @@ Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailin
 “
 
 
-[SUSE Security Announcement: Sun Java (SUSE-SA:2011:010)](http://lists.opensuse.org/opensuse-security-announce/2011-02/msg00005.html)
+[SUSE Security Announcement: Sun Java (SUSE-SA:2011:010)](//lists.opensuse.org/opensuse-security-announce/2011-02/msg00005.html)
 
 
 <table frame="void" id="id319668" >Table 1. Security Announce 
@@ -2308,7 +2308,7 @@ Desktop 11 SP1
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
 
 
 
@@ -2329,7 +2329,7 @@ Desktop 11 SP1
 
 
 [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.38 (Part 3) – Network drivers and
-infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-3-Network-drivers-and-infrastructure-1197480.html)
+infrastructure](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-3-Network-drivers-and-infrastructure-1197480.html)
 
 
 
@@ -2352,20 +2352,20 @@ new and improved LAN and Wi-Fi drivers, plus various minor changes that promise 
 the network subsystem's performance.**
 
 All the parts in this Kernel Log mini-series can be found by referring to [the
-2.6.38 tracking page](http://www.h-online.com/open/features/Linux-Kernel-2-6-38-Tracking-1193254.html).
+2.6.38 tracking page](//www.h-online.com/open/features/Linux-Kernel-2-6-38-Tracking-1193254.html).
 
-Early on the morning of 22 February, Linus Torvalds [issued](http://thread.gmane.org/gmane.linux.kernel/1103561) the sixth release
+Early on the morning of 22 February, Linus Torvalds [issued](//thread.gmane.org/gmane.linux.kernel/1103561) the sixth release
 candidate of Linux 2.6.38. In his release email, Torvalds mentioned a fix for a memory
 corruption problem – but he said that it is rare and only two people ever saw it. There was no
 indication of a final release date for 2.6.38. Usually released on a weekly basis, the
-"regression reports" have recently listed [17 unsolved problems](http://thread.gmane.org/gmane.linux.acpi.devel/49465)
-which don't exist in 2.6.37; a further [26 flaws](http://thread.gmane.org/gmane.linux.network/186887) introduced between
+"regression reports" have recently listed [17 unsolved problems](//thread.gmane.org/gmane.linux.acpi.devel/49465)
+which don't exist in 2.6.37; a further [26 flaws](//thread.gmane.org/gmane.linux.network/186887) introduced between
 2.6.36 and 2.6.37 also remain unsolved.
 
 The Kernel Log takes the release of RC6 as an opportunity to continue its "Coming in
 2.6.38" mini series and describe the advancements in terms of network hardware drivers and
-infrastructure. [The first part of our mini series](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html) described the changes in the graphics hardware
-area, while the [second part](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-2-File-systems-1192694.html) covered file systems. Over the coming weeks, further articles will
+infrastructure. [The first part of our mini series](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html) described the changes in the graphics hardware
+area, while the [second part](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-2-File-systems-1192694.html) covered file systems. Over the coming weeks, further articles will
 discuss the kernel's storage, architecture and infrastructure code as well as its audio, USB,
 and video hardware drivers. (...)
 
@@ -2394,7 +2394,7 @@ and video hardware drivers. (...)
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
 
 
@@ -2441,7 +2441,7 @@ and video hardware drivers. (...)
 
 
 [Softpedia/Marius Nestor: How to Sync Firefox Add-ons, Bookmarks, Preferences,
-History](http://news.softpedia.com/news/How-to-Sync-Firefox-Add-ons-Bookmarks-Preferences-History-185187.shtml)
+History](//news.softpedia.com/news/How-to-Sync-Firefox-Add-ons-Bookmarks-Preferences-History-185187.shtml)
 
 
 
@@ -2513,7 +2513,7 @@ preferences, history and tabs in sync across multiple computers. (...)"
 
 
 [Linuxaria: Using cut on
-linux terminal](http://www.linuxaria.com/pills/cut-shell-linux?lang=en)
+linux terminal](//www.linuxaria.com/pills/cut-shell-linux?lang=en)
 
 
 
@@ -2525,7 +2525,7 @@ linux terminal](http://www.linuxaria.com/pills/cut-shell-linux?lang=en)
 
 
 **This Article is licensed under the [Creatice Commons
-Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)**.
+Attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/)**.
 
 
 
@@ -2589,7 +2589,7 @@ fields. The columns are selected using the standard IFS or one specified. (...)"
 
 
 [Bruno Friedmann: ATI/AMD fglrx 8.821 Catalyst 11.2 available for openSUSE 11.2, 11.3,
-11.4](http://lizards.opensuse.org/2011/02/19/atiamd-fglrx-catalyst-for-opensuse/)
+11.4](//lizards.opensuse.org/2011/02/19/atiamd-fglrx-catalyst-for-opensuse/)
 
 
 
@@ -2601,7 +2601,7 @@ fields. The columns are selected using the standard IFS or one specified. (...)"
 
 
 **This Article is licensed under the [GNU Free Documentation
-License.](http://www.gnu.org/licenses/fdl.txt)**
+License.](//www.gnu.org/licenses/fdl.txt)**
 
 
 
@@ -2619,8 +2619,8 @@ resolve what can be happen. That must be said !
 **The free future **
 
 The real future is already in place : it’s called radeon (or free-radeon), it’s fully
-integrated in kernel & xorg. Actually ( for openSUSE 11.4, or openSUSE 11.3 with [kernel-stable](http://download.opensuse.org/repositories/Kernel:/stable/openSUSE_11.3/) + [X11 obs
-repo](http://download.opensuse.org/repositories/X11:/XOrg/openSUSE_11.3/) ). Support for many chipset is in real progress even for the 6xxx series.
+integrated in kernel & xorg. Actually ( for openSUSE 11.4, or openSUSE 11.3 with [kernel-stable](//download.opensuse.org/repositories/Kernel:/stable/openSUSE_11.3/) + [X11 obs
+repo](//download.opensuse.org/repositories/X11:/XOrg/openSUSE_11.3/) ). Support for many chipset is in real progress even for the 6xxx series.
 Give it a try before using the proprietary software, report any bugs you find with it. Only
 your contributions can help and will make a real differences. Thanks for doing that !
 
@@ -2642,21 +2642,21 @@ repository**
 11.4**
 
 
-zypper ar -c -f -n "ATI/AMD fglrx non-official" http://linux.ioda.net/mirror/ati/openSUSE_11.4/ "ATI/AMD FGLRX"
+zypper ar -c -f -n "ATI/AMD fglrx non-official" //linux.ioda.net/mirror/ati/openSUSE_11.4/ "ATI/AMD FGLRX"
 
 
 **For openSUSE
 11.3**
 
 
-zypper ar -c -f -n "ATI/AMD fglrx non-official" http://linux.ioda.net/mirror/ati/openSUSE_11.3/ "ATI/AMD FGLRX"
+zypper ar -c -f -n "ATI/AMD fglrx non-official" //linux.ioda.net/mirror/ati/openSUSE_11.3/ "ATI/AMD FGLRX"
 
 
 **For openSUSE
 11.2**
 
 
-zypper ar -c -f -n "ATI/AMD fglrx non-official" http://linux.ioda.net/mirror/ati/openSUSE_11.2/ "ATI/AMD FGLRX"
+zypper ar -c -f -n "ATI/AMD fglrx non-official" //linux.ioda.net/mirror/ati/openSUSE_11.2/ "ATI/AMD FGLRX"
 
 
 **Installing the
@@ -2782,12 +2782,12 @@ ati/amd catalyst are release on a month basis, but this vary from 3 weeks to 8 w
 
 
 	
-  * [Sebastian Siebert blog ( German )](http://www.sebastian-siebert.de/2011/02/15/opensuse-11-3-proprietaeren-grafik-treiber-ati-catalyst-11-2-als-rpm-installieren/) with nice howto and problem
+  * [Sebastian Siebert blog ( German )](//www.sebastian-siebert.de/2011/02/15/opensuse-11-3-proprietaeren-grafik-treiber-ati-catalyst-11-2-als-rpm-installieren/) with nice howto and problem
 resolution.
 
 	
   * [My previous post on the
-subject](http://lizards.opensuse.org/?p=4673) "
+subject](//lizards.opensuse.org/?p=4673) "
 
 
 
@@ -2810,7 +2810,7 @@ subject](http://lizards.opensuse.org/?p=4673) "
 
 
 [Fred Blaise: Alfresco 3.4d ldap
-sync](http://ironman.darthgibus.net/?p=113)
+sync](//ironman.darthgibus.net/?p=113)
 
 
 While upgrading from 3.3g to 3.4d, my ldap sync wouldn’t work anymore.
@@ -2846,7 +2846,7 @@ ldap.authentication.java.naming.security.authentication=simple
 
 
 [HowtoForge/wintel2006: How To Install Railo 3.2 Under OpenSUSE 11.3 Running Apache2
-Tomcat 6 Virtual Host](http://www.howtoforge.com/how-to-install-railo-3.2-under-opensuse-11.3-running-apache2-tomcat6-virtual-host)
+Tomcat 6 Virtual Host](//www.howtoforge.com/how-to-install-railo-3.2-under-opensuse-11.3-running-apache2-tomcat6-virtual-host)
 
 
 "Railo Server 3.2 Final. (3.2.1.000) has been released. As you know Railo is an
@@ -2891,7 +2891,7 @@ Java installed before you run tomcat/railo service. (...)"
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
 
 
 
@@ -2912,7 +2912,7 @@ Java installed before you run tomcat/railo service. (...)"
 
 
 [Dominique Leuenberger: VLC /
-openSUSE 11.0 repository to be removed](http://dominique.leuenberger.net/blog/?p=149)
+openSUSE 11.0 repository to be removed](//dominique.leuenberger.net/blog/?p=149)
 
 
 
@@ -2924,7 +2924,7 @@ openSUSE 11.0 repository to be removed](http://dominique.leuenberger.net/blog/?p
 
 
 **This Article is licensed under the [Creatice Commons
-Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)**.
+Attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/)**.
 
 
 
@@ -2961,7 +2961,7 @@ package keep on existing. But they did for a long time already.
 
 
 [Petr Baudis: Arduino Software Tone
-Generator](http://log.or.cz/?p=119)
+Generator](//log.or.cz/?p=119)
 
 
 
@@ -2973,7 +2973,7 @@ Generator](http://log.or.cz/?p=119)
 
 
 **This Article is licensed under the [Creatice Commons
-Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)**.
+Attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/)**.
 
 
 
@@ -3056,7 +3056,7 @@ This took me quite a while to debug…
 
 
 [Thomas
-Thym: GSoC: Mentors wanted! - Elegant display settings for presentations](http://ungethym.blogspot.com/2011/02/gsoc-mentors-wanted-elegant-display.html)
+Thym: GSoC: Mentors wanted! - Elegant display settings for presentations](//ungethym.blogspot.com/2011/02/gsoc-mentors-wanted-elegant-display.html)
 
 
 
@@ -3079,7 +3079,7 @@ ATM no License set
 <tbody >
 <tr >
 
-<td >![](http://4.bp.blogspot.com/-gyZKgILFwj4/TWDqR2A4SuI/AAAAAAAAAC0/cvVPRXHTlP8/s1600/computer-laptop_and_video-projector.png)
+<td >![](//4.bp.blogspot.com/-gyZKgILFwj4/TWDqR2A4SuI/AAAAAAAAAC0/cvVPRXHTlP8/s1600/computer-laptop_and_video-projector.png)
 </td>
 </tr>
 </tbody>
@@ -3087,8 +3087,8 @@ ATM no License set
 
 
 
-I recently mentored some students during the Google Code In project. Now the [preparations for Google Summer of Code have begun](http://linuxgrandma.blogspot.com/2011/02/gsoc-2011-start-your-engines.html). Unfortunately I am not a hacker,
-I am a promo guy and I can't mentor here. Nevertheless I have some [ideas for GSoC](http://community.kde.org/GSoC/2011/Ideas) and I hope to scratch
+I recently mentored some students during the Google Code In project. Now the [preparations for Google Summer of Code have begun](//linuxgrandma.blogspot.com/2011/02/gsoc-2011-start-your-engines.html). Unfortunately I am not a hacker,
+I am a promo guy and I can't mentor here. Nevertheless I have some [ideas for GSoC](//community.kde.org/GSoC/2011/Ideas) and I hope to scratch
 somebodies itch so she or he will mentor that idea.
 
 **Idea 1: (More elegant) Display settings for presentations
@@ -3160,7 +3160,7 @@ to have? At least for me as a presenter that would really rock.
 “
 
 
-[Pascal Bleser: Packman service interruption and migration](http://dev-loki.blogspot.com/2011/02/packman-service-interruption-and.html)
+[Pascal Bleser: Packman service interruption and migration](//dev-loki.blogspot.com/2011/02/packman-service-interruption-and.html)
 
 
 
@@ -3176,7 +3176,7 @@ ATM no License set.
 
 
 
-The [Packman](http://packman.links2linux.org/) website and [repositories](http://packman.inode.at/suse/) are going to be broken and in the
+The [Packman](//packman.links2linux.org/) website and [repositories](//packman.inode.at/suse/) are going to be broken and in the
 works for several days (possibly up to a week) starting tonight at 20:00 CET, during which the
 following services will not be available, or only sporadically:
 
@@ -3186,7 +3186,7 @@ following services will not be available, or only sporadically:
 
 
 	
-  * the Packman website itself: [http://packman.links2linux.org](http://packman.links2linux.org/)
+  * the Packman website itself: [//packman.links2linux.org](//packman.links2linux.org/)
 
 	
   * the Packman repositories, except "Essentials" (see "new repository layout"
@@ -3226,16 +3226,16 @@ new repositories are as follows:
 
 
 	
-  * [http://packman.inode.at/suse/openSUSE_11.3/](http://packman.inode.at/suse/openSUSE_11.3/)
+  * [//packman.inode.at/suse/openSUSE_11.3/](//packman.inode.at/suse/openSUSE_11.3/)
 
 	
-  * [http://packman.inode.at/suse/openSUSE_11.2/](http://packman.inode.at/suse/openSUSE_11.2/)
+  * [//packman.inode.at/suse/openSUSE_11.2/](//packman.inode.at/suse/openSUSE_11.2/)
 
 	
-  * [http://packman.inode.at/suse/Factory/](http://packman.inode.at/suse/Factory/)
+  * [//packman.inode.at/suse/Factory/](//packman.inode.at/suse/Factory/)
 
 	
-  * [http://packman.inode.at/suse/SLE_11/](http://packman.inode.at/suse/SLE_11/)
+  * [//packman.inode.at/suse/SLE_11/](//packman.inode.at/suse/SLE_11/)
 
 
 
@@ -3245,7 +3245,7 @@ There are no .repo files there yet, so adding one of these is done as
 follows:
 
 
-zypper ar -n packman http://packman.inode.at/suse/openSUSE_11.3/ packman
+zypper ar -n packman //packman.inode.at/suse/openSUSE_11.3/ packman
 
 
 (obviously adapt the URL to your openSUSE version). You may also use one of our mirror
@@ -3336,7 +3336,7 @@ As an example of what needs to be added to zypper, once the migration is complet
 repository:
 
 
-zypper ar -r http://packman.inode.at/suse/openSUSE_11.3/Essentials/Essentials.repo
+zypper ar -r //packman.inode.at/suse/openSUSE_11.3/Essentials/Essentials.repo
 
 
 	
@@ -3344,15 +3344,15 @@ zypper ar -r http://packman.inode.at/suse/openSUSE_11.3/Essentials/Essentials.re
 repository:
 
 
-zypper ar -r http://packman.inode.at/suse/openSUSE_11.3/packman.repo
+zypper ar -r //packman.inode.at/suse/openSUSE_11.3/packman.repo
 
 
 
 
 
 
-I will announce our progress [on my blog](http://dev-loki.blogspot.com/)
-(which is also aggregated on [Planet openSUSE](http://planet.opensuse.org/))
+I will announce our progress [on my blog](//dev-loki.blogspot.com/)
+(which is also aggregated on [Planet openSUSE](//planet.opensuse.org/))
 and will obviously post another announcement here once our migration is complete.
 
 In advance, sorry for the inconvenience, and thank you for your understanding. We are
@@ -3393,15 +3393,15 @@ ATM no License set.
 
 
 As in the past years, [Google’s Summer of
-Code](http://code.google.com/soc/) is going to happen again and we’re currently collecting ideas for [openSUSE](http://www.opensuse.org/en/). So if you want to support your favorite
-distribution or seek a way to getting involved more deeply, be sure to check out our [GSoC info page](http://en.opensuse.org/openSUSE:GSOC_2011).
+Code](//code.google.com/soc/) is going to happen again and we’re currently collecting ideas for [openSUSE](//www.opensuse.org/en/). So if you want to support your favorite
+distribution or seek a way to getting involved more deeply, be sure to check out our [GSoC info page](//en.opensuse.org/openSUSE:GSOC_2011).
 
-Or, if you want it cross-distro, the awesome [Build Service](http://en.wikipedia.org/wiki/OpenSUSE_Build_Service) always needs
+Or, if you want it cross-distro, the awesome [Build Service](//en.wikipedia.org/wiki/OpenSUSE_Build_Service) always needs
 some helping hands that are curious on how to expand it’s massive feature set :-) . This
-includes adding support for currently unsupported distros like [Arch Linux](http://www.archlinux.org/) or [Pardus](http://www.pardus.org.tr/eng/) as well as making it’s web user interface
+includes adding support for currently unsupported distros like [Arch Linux](//www.archlinux.org/) or [Pardus](//www.pardus.org.tr/eng/) as well as making it’s web user interface
 more social.
 
-Feel free to add you ideas to [our list](http://en.opensuse.org/openSUSE:GSOC_2011_Ideas) and discuss them on our IRC channel (#opensuse-project on FreeNode).
+Feel free to add you ideas to [our list](//en.opensuse.org/openSUSE:GSOC_2011_Ideas) and discuss them on our IRC channel (#opensuse-project on FreeNode).
 
 ”
 
@@ -3420,7 +3420,7 @@ Feel free to add you ideas to [our list](http://en.opensuse.org/openSUSE:GSOC_20
 
 
 [Thomas Thym: GSoC idea 2: Improved (more elegant) keygeneration in
-KMail/Kleopatra](http://ungethym.blogspot.com/2011/02/gsoc-idea-2-improved-more-elegant.html)
+KMail/Kleopatra](//ungethym.blogspot.com/2011/02/gsoc-idea-2-improved-more-elegant.html)
 
 
 
@@ -3437,7 +3437,7 @@ ATM no License set.
 
 
 As I mentioned in my [previous
-post](http://ungethym.blogspot.com/2011/02/gsoc-mentors-wanted-elegant-display.html) I can't mentor GSoC students myself and therefore are looking for a developer
+post](//ungethym.blogspot.com/2011/02/gsoc-mentors-wanted-elegant-display.html) I can't mentor GSoC students myself and therefore are looking for a developer
 to jump in for me.
 
 **GSoC idea 2: Improved (more elegant) keygeneration in
@@ -3452,7 +3452,7 @@ Kleopatra
 <tbody >
 <tr >
 
-<td >![](http://3.bp.blogspot.com/-cf3L8CKxspY/TWFKcHk9iYI/AAAAAAAAAC4/1leB6C1GIEY/s1600/kmail2-kleopatra.png)
+<td >![](//3.bp.blogspot.com/-cf3L8CKxspY/TWFKcHk9iYI/AAAAAAAAAC4/1leB6C1GIEY/s1600/kmail2-kleopatra.png)
 </td>
 </tr>
 </tbody>
@@ -3520,7 +3520,7 @@ necessary.
 “
 
 
-[Nelson Marques: 10 good reasons for upgrading to openSUSE 11.4](http://lizards.opensuse.org/2011/02/22/10-good-reasons-for-upgrading-to-opensuse-11-4/)
+[Nelson Marques: 10 good reasons for upgrading to openSUSE 11.4](//lizards.opensuse.org/2011/02/22/10-good-reasons-for-upgrading-to-opensuse-11-4/)
 
 
 
@@ -3627,7 +3627,7 @@ speak your language!
 
 
 [Thomas
-Thym: GSoC idea 3: Store annotations within PDF](http://ungethym.blogspot.com/2011/02/gsoc-idea-3-store-annotations-within.html)
+Thym: GSoC idea 3: Store annotations within PDF](//ungethym.blogspot.com/2011/02/gsoc-idea-3-store-annotations-within.html)
 
 
 
@@ -3644,7 +3644,7 @@ ATM no License set.
 
 
 As I mentioned in my [previous
-post](http://ungethym.blogspot.com/2011/02/gsoc-mentors-wanted-elegant-display.html) I can't mentor GSoC students myself and therefore are looking for a developer
+post](//ungethym.blogspot.com/2011/02/gsoc-mentors-wanted-elegant-display.html) I can't mentor GSoC students myself and therefore are looking for a developer
 to jump in for me.
 
 **GSoC idea 3: Store annotations in PDF file **
@@ -3693,7 +3693,7 @@ Until this happens I am really hoping someone else steps up.
 
 
 [online communities
-and free desktops /Frank Karlitscheck: ownCloud update](http://blog.karlitschek.de/2011/02/owncloud-update.html)
+and free desktops /Frank Karlitscheck: ownCloud update](//blog.karlitschek.de/2011/02/owncloud-update.html)
 
 
 
@@ -3705,7 +3705,7 @@ and free desktops /Frank Karlitscheck: ownCloud update](http://blog.karlitschek.
 
 
 **This Article is licensed under the [Creatice Commons
-Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)**.
+Attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/)**.
 
 
 
@@ -3719,16 +3719,16 @@ a super cool new webinterface. It looks really nice.
 
 
 	
-  * Login: [http://www.kubler.org/owncloud-mockups/login.html](Login: http://www.kubler.org/owncloud-mockups/login.html)
+  * Login: [//www.kubler.org/owncloud-mockups/login.html](Login: //www.kubler.org/owncloud-mockups/login.html)
 
 	
-  * Files : [http://www.kubler.org/owncloud-mockups/](http://www.kubler.org/owncloud-mockups/)
+  * Files : [//www.kubler.org/owncloud-mockups/](//www.kubler.org/owncloud-mockups/)
 
 	
-  * Logs : [http://www.kubler.org/owncloud-mockups/logs.html](http://www.kubler.org/owncloud-mockups/logs.html)
+  * Logs : [//www.kubler.org/owncloud-mockups/logs.html](//www.kubler.org/owncloud-mockups/logs.html)
 
 	
-  * User settings : [http://www.kubler.org/owncloud-mockups/user_settings.html](http://www.kubler.org/owncloud-mockups/user_settings.html)
+  * User settings : [//www.kubler.org/owncloud-mockups/user_settings.html](//www.kubler.org/owncloud-mockups/user_settings.html)
 
 
 
@@ -3747,10 +3747,10 @@ solutions. Try it here if you don´t have your own server. [https://www.packagec
 ](https://www.packagecloud.com/?au=owncloud)
 
 We will participate in this years Google Summer of code again. So if you have ideas add
-them to the brainstorming page here: [http://community.kde.org/GSoC/2011/Ideas#ownCloud](http://community.kde.org/GSoC/2011/Ideas#ownCloud)
+them to the brainstorming page here: [//community.kde.org/GSoC/2011/Ideas#ownCloud](//community.kde.org/GSoC/2011/Ideas#ownCloud)
 
 We are also planing the first ownCloud developer meeting. It will take place between 15.
-and 18. of April in Stuttgart, Germany. [http://community.kde.org/Sprints/ownCloud2011](http://community.kde.org/Sprints/ownCloud2011) We will hack on ownCloud and plan the
+and 18. of April in Stuttgart, Germany. [//community.kde.org/Sprints/ownCloud2011](//community.kde.org/Sprints/ownCloud2011) We will hack on ownCloud and plan the
 next releases.
 
 Please send me an email if you want to join the meeting and help working on ownCloud.
@@ -3773,7 +3773,7 @@ Cheers Frank
 
 
 [Michal Hrusecky:
-GSoC 2011 ideas – SaX 3](http://michal.hrusecky.net/2011/02/gsoc-2011-ideas-sax-3/)
+GSoC 2011 ideas – SaX 3](//michal.hrusecky.net/2011/02/gsoc-2011-ideas-sax-3/)
 
 
 
@@ -3784,7 +3784,7 @@ GSoC 2011 ideas – SaX 3](http://michal.hrusecky.net/2011/02/gsoc-2011-ideas-sa
 ### Note
 
 
-This Article is licensed under the [Attribution-NonCommercial-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+This Article is licensed under the [Attribution-NonCommercial-ShareAlike 3.0 Unported](//creativecommons.org/licenses/by-nc-sa/3.0/)
 
 
 
@@ -3852,7 +3852,7 @@ that we will have it!
 
 
 [Pascal
-Bleser: Packman: removing 11.1](http://dev-loki.blogspot.com/2011/02/packman-removing-111.html)
+Bleser: Packman: removing 11.1](//dev-loki.blogspot.com/2011/02/packman-removing-111.html)
 
 
 
@@ -3868,16 +3868,16 @@ ATM no License set.
 
 
 
-[We](http://packman.links2linux.org)'re going to remove the [openSUSE](http://www.opensuse.org) 11.1 [Packman](http://packman.links2linux.org) repositories from our primary server
-and, hence, also our [mirrors](http://packman.links2linux.de/MIRRORS.html).
+[We](//packman.links2linux.org)'re going to remove the [openSUSE](//www.opensuse.org) 11.1 [Packman](//packman.links2linux.org) repositories from our primary server
+and, hence, also our [mirrors](//packman.links2linux.de/MIRRORS.html).
 
 If you would like to keep a copy (for whatever reason, as they're unmaintained), make sure
 to pull the tree **before
 Monday** (2011-02-28).
 
 The reason, obviously, is that [openSUSE
-11.1 has gone End-Of-Life since mid-January](http://lists.opensuse.org/opensuse-security-announce/2011-01/msg00005.html), and as we're [restructuring our repositories](http://dev-loki.blogspot.com/2011/02/packman-service-interruption-and.html), we do need quite some extra space right now and
-don't want to put too much of a burden on our [mirrors](http://packman.links2linux.de/MIRRORS.html) (there are a few [rsync](http://en.wikipedia.org/wiki/Rsync) mirrors in there too).
+11.1 has gone End-Of-Life since mid-January](//lists.opensuse.org/opensuse-security-announce/2011-01/msg00005.html), and as we're [restructuring our repositories](//dev-loki.blogspot.com/2011/02/packman-service-interruption-and.html), we do need quite some extra space right now and
+don't want to put too much of a burden on our [mirrors](//packman.links2linux.de/MIRRORS.html) (there are a few [rsync](//en.wikipedia.org/wiki/Rsync) mirrors in there too).
 
 ”
 
@@ -3895,7 +3895,7 @@ don't want to put too much of a burden on our [mirrors](http://packman.links2lin
 “
 
 
-[Petr Baudis: KMS vs Radeon 7000](http://log.or.cz/?p=122)
+[Petr Baudis: KMS vs Radeon 7000](//log.or.cz/?p=122)
 
 
 
@@ -3946,7 +3946,7 @@ like this!
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
 
 
 
@@ -3968,7 +3968,7 @@ like this!
 
 [
 openSUSE 11.4 Release Party? Post yours here !!
-](http://forums.opensuse.org/forums/english/other-forums/news-announcements/announcements/454608-opensuse-11-4-release-party-post-yours-here.html)
+](//forums.opensuse.org/forums/english/other-forums/news-announcements/announcements/454608-opensuse-11-4-release-party-post-yours-here.html)
 
 
 Thirteen days and counting down to the 10th of March: the release of openSUSE 11.4. Here in the Netherlands we're trying to have a release party, date and place will be announced here in this thread. If you're attending a release party, organizing one yourself, having a private one at home, here's a chance to let others know, to see if there's one in your neighbourhood (or at least close enough to get there in time.
@@ -3991,7 +3991,7 @@ Thirteen days and counting down to the 10th of March: the release of openSUSE 11
 
 [
 Searching to understand some system modifications
-](http://forums.opensuse.org/english/get-technical-help-here/applications/454603-searching-understand-some-system-modifications.html)
+](//forums.opensuse.org/english/get-technical-help-here/applications/454603-searching-understand-some-system-modifications.html)
 
 
 Where do you start when you suspect an intruder? Here's a thread from a user that wants to make sure no one has made his way in on his computer. Read ahead to see what you can do.
@@ -4014,7 +4014,7 @@ Where do you start when you suspect an intruder? Here's a thread from a user tha
 
 [
 Can I use a Debian package?
-](http://forums.opensuse.org/english/get-technical-help-here/applications/454337-can-i-use-debian-package.html)
+](//forums.opensuse.org/english/get-technical-help-here/applications/454337-can-i-use-debian-package.html)
 
 
 On linux systems, there are mainly two types of packages: Debian and RPM (Redhat Package Management). Sometimes it happens that an application is available in just one format, where the user runs a distro using the other one. Read to see what can be done, when you want to use a Debian package to install software on openSUSE, which is rpm-based.
@@ -4037,7 +4037,7 @@ On linux systems, there are mainly two types of packages: Debian and RPM (Redhat
 
 This week's subforum: [
 Laptop
-](http://forums.opensuse.org/english/get-technical-help-here/laptop/)
+](//forums.opensuse.org/english/get-technical-help-here/laptop/)
 
 
 Even though a laptop is no more than a computer in a compact format, it's still a different kind of machine, with all it's built in hardware. Manufacturers do no always provide the right info on the hardware used, let alone give good linux support. Hence, a subforum for laptop users was created long ago.
@@ -4067,7 +4067,7 @@ Even though a laptop is no more than a computer in a compact format, it's still 
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
 
 
 
@@ -4087,19 +4087,19 @@ We thank for this Issue:
 
 
 	
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
 	
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
 	
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
 	
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
 	
-  * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+  * [Thomas Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
 
 
@@ -4122,7 +4122,7 @@ We thank for this Issue:
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/handshake.jpg)Acknowledgements
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/handshake.jpg)Acknowledgements
 
 
 
@@ -4142,16 +4142,16 @@ We thank for this Issue:
 
 
 	
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
 	
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
 	
-  * [Docbook.org](http://www.docbook.org/), Semantic markup language for technical documentation
+  * [Docbook.org](//www.docbook.org/), Semantic markup language for technical documentation
 
 	
-  * [xmlsoft.org](http://xmlsoft.org/XSLT/), XSLT Librarys
+  * [xmlsoft.org](//xmlsoft.org/XSLT/), XSLT Librarys
 
 
 
@@ -4174,7 +4174,7 @@ We thank for this Issue:
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/copyright.jpg)Copyrights
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/copyright.jpg)Copyrights
 
 
 
@@ -4219,7 +4219,7 @@ We thank for this Issue:
 
 
 	
-  * [Permission Informations for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Informations for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 
 
@@ -4279,7 +4279,7 @@ Linux ® is a registered Trademark of Linus Torvalds
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
 
 
 
@@ -4292,33 +4292,31 @@ Linux ® is a registered Trademark of Linus Torvalds
 
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-the [comment section](http://news.opensuse.org/?p=7096) and let us know!
+the [comment section](//news.opensuse.org/?p=7096) and let us know!
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
 check out our team page and join!
 
-If you don't know, how to contribute, just check out the [Contribution Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+If you don't know, how to contribute, just check out the [Contribution Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
 **Talk with us:**
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels).
+mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels).
 
 Visit our connect.opensuse.org Page: [and give your
 Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-Since a few minutes you can use [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+Since a few minutes you can use [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
 your Feedback.
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
-
-
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
 
 
@@ -4335,7 +4333,9 @@ You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](ht
 
 
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
+
+
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
 
 
 
@@ -4356,7 +4356,7 @@ openSUSE Weekly News is translated into many languages. Issue
 
 
 	
-  * [English](http://news.opensuse.org/?p=7096)
+  * [English](//news.opensuse.org/?p=7096)
 
 
 
@@ -4364,7 +4364,7 @@ openSUSE Weekly News is translated into many languages. Issue
 
 Coming soon:
 
-You can follow the status of the translation [there](http://en.opensuse.org/openSUSE:Weekly_news_translations).
+You can follow the status of the translation [there](//en.opensuse.org/openSUSE:Weekly_news_translations).
 
 
 
@@ -4372,13 +4372,13 @@ You can follow the status of the translation [there](http://en.opensuse.org/open
 
 
 	
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/164)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/164)
 
 	
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
 	
-  * [German](http://wiki.open-slx.de/OWR/2011-08)
+  * [German](//wiki.open-slx.de/OWR/2011-08)
 
 
 
@@ -4390,4 +4390,4 @@ You can follow the status of the translation [there](http://en.opensuse.org/open
 
 
 
-First published in: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published in: [//saigkill.homelinux.net](//saigkill.homelinux.net)

@@ -17,7 +17,7 @@ tags:
 - opensuse build service
 ---
 
-Today Frank Karlitschek, maintainer of the openDesktop.org network, [announced that the first step of integration with openDesktop.org is complete](http://blog.karlitschek.de/2009/12/opensuse-buildservice-integration.html). Effective immediately, developers can add their Build Service ID to projects on openDesktop.org, and all packages available from the openSUSE Build Service will automatically show up on the openDesktop.org pages.
+Today Frank Karlitschek, maintainer of the openDesktop.org network, [announced that the first step of integration with openDesktop.org is complete](//blog.karlitschek.de/2009/12/opensuse-buildservice-integration.html). Effective immediately, developers can add their Build Service ID to projects on openDesktop.org, and all packages available from the openSUSE Build Service will automatically show up on the openDesktop.org pages.
 
 The openDesktop.org sites include openDesktop.org, KDE-Apps.org, GNOME-Apps.org, KDE-Look.org, and GNOME-Look.org. The openDesktop.org network reaches more than 150,000 registered contributors, and has more than 90 million page views per month from 2 million unique visitors. This is an excellent opportunity for the openSUSE Build Service to reach a much wider audience and deliver on the goal of providing packages for all major Linux distributions.
 

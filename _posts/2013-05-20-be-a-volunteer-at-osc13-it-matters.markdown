@@ -14,7 +14,7 @@ categories:
 ---
 
 [![Volunteer and make a difference!](//news.opensuse.org/wp-content/uploads/2013/05/ajs-20110912-osc11-0004_D300_2914-XL.jpg)](//news.opensuse.org/wp-content/uploads/2013/05/ajs-20110912-osc11-0004_D300_2914-XL.jpg)
-Master oSC13 Kostas just published his ["only 58 days to go"](http://e-tote-kala.blogspot.com/2013/05/organizing-osc13-58-days-before.html) blog in his series of daily _how are we doing_ posts and it should be clear that with less than two months to go, we're getting close! openSUSE conference 2013 is already just around the corner... And starting today, you can sign up to volunteer and help out at the venue!
+Master oSC13 Kostas just published his ["only 58 days to go"](//e-tote-kala.blogspot.com/2013/05/organizing-osc13-58-days-before.html) blog in his series of daily _how are we doing_ posts and it should be clear that with less than two months to go, we're getting close! openSUSE conference 2013 is already just around the corner... And starting today, you can sign up to volunteer and help out at the venue!
 
 
 ## Join the Team
@@ -22,7 +22,7 @@ Master oSC13 Kostas just published his ["only 58 days to go"](http://e-tote-kala
 
 Many people are already helping with the organization in [trello.com/osc13](https://trello.com/osc13) - if you have not seen where we are yet, just follow the link and check it out! We want to organize our event as openly as possible, and Trello is a great way of doing that.
 [![Join the Greeko Team!](//news.opensuse.org/wp-content/uploads/2013/05/i_want_you_green-265x300.png)](//news.opensuse.org/wp-content/uploads/2013/05/i_want_you_green.png)
-But there is more than preparation. We also need an 'army on the ground': the people who make it happen on the conference days! If you want to get more involved and help out during the conference days, you can apply to be a volunteer for oSC13 by filling out the form at [http://bit.ly/10s5HDJ](http://bit.ly/10s5HDJ). We need you!
+But there is more than preparation. We also need an 'army on the ground': the people who make it happen on the conference days! If you want to get more involved and help out during the conference days, you can apply to be a volunteer for oSC13 by filling out the form at [//bit.ly/10s5HDJ](//bit.ly/10s5HDJ). We need you!
 
 
 ## Training
@@ -36,6 +36,6 @@ One important thing to have in mind is that ALL Volunteers must attend the Volun
 ## About oSC13
 
 
-As a quick refresher of your memory, this year [the openSUSE Conference](http://conference.opensuse.org) takes place in the beautiful city of Thessaloniki, Greece. The _to-be-awesome_ event is organized by our _Greekos_, an elite team of Greek contributors to openSUSE.
+As a quick refresher of your memory, this year [the openSUSE Conference](//conference.opensuse.org) takes place in the beautiful city of Thessaloniki, Greece. The _to-be-awesome_ event is organized by our _Greekos_, an elite team of Greek contributors to openSUSE.
 
-The event is shaping up to be a _one-of-a-kind_, bringing together [the beautiful beaches](https://www.google.com/search?q=thessaloniki+beach&tbm=isch) with the [incredible history of Greece](http://en.wikipedia.org/wiki/Ancient_Greek_philosophy) in one inspiring place. And **you can be a part of it!**
+The event is shaping up to be a _one-of-a-kind_, bringing together [the beautiful beaches](https://www.google.com/search?q=thessaloniki+beach&tbm=isch) with the [incredible history of Greece](//en.wikipedia.org/wiki/Ancient_Greek_philosophy) in one inspiring place. And **you can be a part of it!**

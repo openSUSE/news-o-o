@@ -53,7 +53,7 @@ Like always, we will cover a wide range of subjects at the event. This year, the
 
 
 More details are coming in the Call for Papers on the 20th of January, with proposals starting to get accepted February 14. The submission period will end on February 28.
-[![CC by trishhartmann on flickr](//news.opensuse.org/wp-content/uploads/2014/01/trishhartmann-dubrovnik.jpg)](http://www.flickr.com/photos/21078769@N00/10999363193/)
+[![CC by trishhartmann on flickr](//news.opensuse.org/wp-content/uploads/2014/01/trishhartmann-dubrovnik.jpg)](//www.flickr.com/photos/21078769@N00/10999363193/)
 
 
 ## Croatia and Dubrovnik
@@ -63,7 +63,7 @@ Republic of Croatia is a unitary democratic parliamentary republic at the crossr
 
 Dubrovnik is the southernmost city in Croatia, a gorgeous former city state which joined the UNESCO list of World Heritage Sites in 1979. The prosperity of the city of Dubrovnik was historically based on maritime trade. As the capital of the Republic of Ragusa, a maritime republic, the city achieved a high level of development, particularly during the 15th and 16th centuries. Dubrovnik became notable for its wealth and skilled diplomacy. The Republic was an early adopter of what are now regarded as modern laws and institutions and Dubrovnik became a cradle of Croatian literature. The city successfully balanced its sovereignty between the interests of Venice and the Ottoman Empire for centuries.
 
-_(Gorgeous picture on the right Creative Commons photo from [Trishhartmann](http://www.flickr.com/photos/21078769@N00/10999363193/))_
+_(Gorgeous picture on the right Creative Commons photo from [Trishhartmann](//www.flickr.com/photos/21078769@N00/10999363193/))_
 
 
 
@@ -99,9 +99,9 @@ The conference venue is provided by the University of Dubrovnik, (UNIDU). The Un
 
 The venue, called the New Campus, is situated just 5 minutes walk from the Dubrovnik old town, and is in walking distance of many hotels and private apartments that offer affordable accommodation deals. It was originally built as a hospital, then renewed and repurposed for the University in 2012. From the outside it displays the soul of Dubrovnik, but from the inside it is a very sleek and modern design.
 
-Find it on [Google Maps here](http://goo.gl/maps/KCZ2O) and see some more pictures [here](https://plus.google.com/photos/115164814659638687195/albums/5964422003862662929?authkey=CNut44G7jt-wKQ). 
+Find it on [Google Maps here](//goo.gl/maps/KCZ2O) and see some more pictures [here](https://plus.google.com/photos/115164814659638687195/albums/5964422003862662929?authkey=CNut44G7jt-wKQ). 
 
-If you want to get to know the university in advance of joining us, check out this great walk-around video [on youtube](http://www.youtube.com/watch?v=fSudUtDpDow)!
+If you want to get to know the university in advance of joining us, check out this great walk-around video [on youtube](//www.youtube.com/watch?v=fSudUtDpDow)!
 
 (_Pictures provided by the university_)
 
@@ -110,13 +110,13 @@ If you want to get to know the university in advance of joining us, check out th
 ## What's next
 
 
-Next up is setting up the conference website and opening the Call for Papers and registration. This is all planned to take place later this month - keep an eye on this site! We will let you know when [conference.opensuse.org](http://conference.opensuse.org) is updated. You can already join our [visitors’ mailing list](http://lists.opensuse.org/opensuse-conference-visitors) ([subscribe](mailto:opensuse-conference-visitors+subscribe@opensuse.org)).
+Next up is setting up the conference website and opening the Call for Papers and registration. This is all planned to take place later this month - keep an eye on this site! We will let you know when [conference.opensuse.org](//conference.opensuse.org) is updated. You can already join our [visitors’ mailing list](//lists.opensuse.org/opensuse-conference-visitors) ([subscribe](mailto:opensuse-conference-visitors+subscribe@opensuse.org)).
 
 
 
 ## Want to help with oSC14?
 
 
-Awesome! Please join [our team mailing list](http://lists.opensuse.org/opensuse-conference) ([subscribe](mailto:opensuse-conference+subscribe@opensuse.org))and our regular [IRC meetings](irc://#opensuse-conference@freenode.net). We can use every helping hand to work the program, the promotion and the local organization. Tasks range from keeping our news outlets up to date over designing artwork to lay cables at the venue. There is so much to do, we need you!
+Awesome! Please join [our team mailing list](//lists.opensuse.org/opensuse-conference) ([subscribe](mailto:opensuse-conference+subscribe@opensuse.org))and our regular [IRC meetings](irc://#opensuse-conference@freenode.net). We can use every helping hand to work the program, the promotion and the local organization. Tasks range from keeping our news outlets up to date over designing artwork to lay cables at the venue. There is so much to do, we need you!
 
 _Article written by Svebor and the openSUSE conference team_

@@ -13,7 +13,7 @@ wordpress_id: 19901
 
 Last week, members of [The GNOME Project](https://www.gnome.org/) announced a new conference in the United States northwest to enhance the GNU/Linux application ecosystem.
 
-The [Libre Application Summit](http://las.gnome.org/), which will take place in Portland, Oregon, from Sept. 19 - 23, aims to empower application developers both big and small as well as enhance app developers collaboratation with major Linux distributions.
+The [Libre Application Summit](//las.gnome.org/), which will take place in Portland, Oregon, from Sept. 19 - 23, aims to empower application developers both big and small as well as enhance app developers collaboratation with major Linux distributions.
 
 The summit, which is designed to improve the developer and user experience for the GNU/Linux desktop, has a lot of potential to expand and openSUSE is excited to be the summit’s first sponsor.
 
@@ -37,8 +37,8 @@ Since last year, openSUSE has been working together with GNOME members to offer 
 #### West Coast Geekos
 
 
-openSUSE community members living on the West Coast are encouraged to [submit a talk](http://las.gnome.org/submit-your-talk/).
+openSUSE community members living on the West Coast are encouraged to [submit a talk](//las.gnome.org/submit-your-talk/).
 
-Learn more about this conference by visiting [las.gnome.org](http://las.gnome.org/) or [watch this video](https://youtu.be/oDkvBcNJaIg?t=32m23s).
+Learn more about this conference by visiting [las.gnome.org](//las.gnome.org/) or [watch this video](https://youtu.be/oDkvBcNJaIg?t=32m23s).
 
-Any companies interested in sponsoring the event along with openSUSE, should visit [the sponsorship page](http://las.gnome.org/sponsors/sponsorship-opportunities/).
+Any companies interested in sponsoring the event along with openSUSE, should visit [the sponsorship page](//las.gnome.org/sponsors/sponsorship-opportunities/).

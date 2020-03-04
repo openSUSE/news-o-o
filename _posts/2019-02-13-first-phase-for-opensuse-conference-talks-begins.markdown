@@ -61,4 +61,4 @@ There are five tracks listed for the conference this year. The tracks are:
 
 The openSUSE Conference will take place at the Z-Bau in Nuremberg, Germany, from May 24 - 26.
 
-Visit[ events.opensuse.org](http://events.opensuse.org/) for more information about oSC19 or email ddemaio (@) opensuse.org.
+Visit[ events.opensuse.org](//events.opensuse.org/) for more information about oSC19 or email ddemaio (@) opensuse.org.

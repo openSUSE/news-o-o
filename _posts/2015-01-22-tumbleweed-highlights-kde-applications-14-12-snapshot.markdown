@@ -11,7 +11,7 @@ categories:
 - Tumbleweed
 ---
 
-[![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)](https://en.opensuse.org/Portal:Tumbleweed)The latest snapshot release of Tumbleweed has several updates. We dub this as the '[KDE Applications 14.12 snapshot](http://bit.ly/1wpLlLo)' for Tumbleweed since many are related to 14.12.
+[![](https://en.opensuse.org/images/c/c1/Tumbleweed.png)](https://en.opensuse.org/Portal:Tumbleweed)The latest snapshot release of Tumbleweed has several updates. We dub this as the '[KDE Applications 14.12 snapshot](//bit.ly/1wpLlLo)' for Tumbleweed since many are related to 14.12.
 
 Here are a few other updates:
 
@@ -23,4 +23,4 @@ AppStream-Glib, which makes it easy to read and write AppStream metadata, update
 
 Britty updated to 5.2 and removes obsolete patches and adds a dependency to python3 for building.
 
-Read more details about the latest update at [bit.ly/1wpLlLo](http://bit.ly/1wpLlLo)
+Read more details about the latest update at [bit.ly/1wpLlLo](//bit.ly/1wpLlLo)

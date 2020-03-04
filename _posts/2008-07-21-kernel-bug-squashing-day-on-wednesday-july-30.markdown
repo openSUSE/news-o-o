@@ -15,7 +15,7 @@ tags:
 - squashing
 ---
 
-The kernel team is going to be hosting a kernel bug squashing day on [Wednesday, July 30th](http://lists.opensuse.org/opensuse-announce/2008-07/msg00017.html). The goals of the bug squashing day are to:
+The kernel team is going to be hosting a kernel bug squashing day on [Wednesday, July 30th](//lists.opensuse.org/opensuse-announce/2008-07/msg00017.html). The goals of the bug squashing day are to:
 
 
 

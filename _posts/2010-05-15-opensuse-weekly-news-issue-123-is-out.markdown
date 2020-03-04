@@ -18,7 +18,7 @@ tags:
 
 
 
-[![](http://en.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](http://en.opensuse.org/File:Opensuse_weekly_news_banner.png)
+[![](//en.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](//en.opensuse.org/File:Opensuse_weekly_news_banner.png)
 
 
 
@@ -29,7 +29,7 @@ tags:
 
 
 
-openSUSE Weekly News is translated into many languages. Take a look at [this page](http://en.opensuse.org/index.php?title=openSUSE:Weekly_News/123/Translations&action=edit&redlink=1) for currently available translations.
+openSUSE Weekly News is translated into many languages. Take a look at [this page](//en.opensuse.org/index.php?title=openSUSE:Weekly_News/123/Translations&action=edit&redlink=1) for currently available translations.
 
 
 
@@ -55,19 +55,19 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 
 
 	
-  * [1 Editors Note](http://en.opensuse.org/Archive:Weekly_news_123#Editors_Note)
+  * [1 Editors Note](//en.opensuse.org/Archive:Weekly_news_123#Editors_Note)
 
 	
-  * [2 Status Updates](http://en.opensuse.org/Archive:Weekly_news_123#Status_Updates)
+  * [2 Status Updates](//en.opensuse.org/Archive:Weekly_news_123#Status_Updates)
 
 	
-    * [2.1 Distribution](http://en.opensuse.org/Archive:Weekly_news_123#Distribution)
+    * [2.1 Distribution](//en.opensuse.org/Archive:Weekly_news_123#Distribution)
 
 	
-      * [2.1.1 Schedules for the next Week](http://en.opensuse.org/Archive:Weekly_news_123#Schedules_for_the_next_Week)
+      * [2.1.1 Schedules for the next Week](//en.opensuse.org/Archive:Weekly_news_123#Schedules_for_the_next_Week)
 
 	
-      * [2.1.2 Bugzilla](http://en.opensuse.org/Archive:Weekly_news_123#Bugzilla)
+      * [2.1.2 Bugzilla](//en.opensuse.org/Archive:Weekly_news_123#Bugzilla)
 
 
 
@@ -76,91 +76,91 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 
 
 	
-  * [3 Team Reports](http://en.opensuse.org/Archive:Weekly_news_123#Team_Reports)
+  * [3 Team Reports](//en.opensuse.org/Archive:Weekly_news_123#Team_Reports)
 
 	
-    * [3.1 Boosters Team](http://en.opensuse.org/Archive:Weekly_news_123#Boosters_Team)
+    * [3.1 Boosters Team](//en.opensuse.org/Archive:Weekly_news_123#Boosters_Team)
 
 	
-      * [3.1.1 Standup Meeting 2010/05/10](http://en.opensuse.org/Archive:Weekly_news_123#Standup_Meeting_2010.2F05.2F10)
+      * [3.1.1 Standup Meeting 2010/05/10](//en.opensuse.org/Archive:Weekly_news_123#Standup_Meeting_2010.2F05.2F10)
 
 
 
 
 	
-    * [3.2 Build Service Team](http://en.opensuse.org/Archive:Weekly_news_123#Build_Service_Team)
+    * [3.2 Build Service Team](//en.opensuse.org/Archive:Weekly_news_123#Build_Service_Team)
 
 	
-      * [3.2.1 Build Service Statistics](http://en.opensuse.org/Archive:Weekly_news_123#Build_Service_Statistics)
+      * [3.2.1 Build Service Statistics](//en.opensuse.org/Archive:Weekly_news_123#Build_Service_Statistics)
 
 
 
 
 	
-    * [3.3 KDE Team](http://en.opensuse.org/Archive:Weekly_news_123#KDE_Team)
+    * [3.3 KDE Team](//en.opensuse.org/Archive:Weekly_news_123#KDE_Team)
 
 	
-      * [3.3.1 openSUSE KDE meeting 20100513](http://en.opensuse.org/Archive:Weekly_news_123#openSUSE_KDE_meeting_20100513)
+      * [3.3.1 openSUSE KDE meeting 20100513](//en.opensuse.org/Archive:Weekly_news_123#openSUSE_KDE_meeting_20100513)
 
 
 
 
 	
-    * [3.4 Mono Team](http://en.opensuse.org/Archive:Weekly_news_123#Mono_Team)
+    * [3.4 Mono Team](//en.opensuse.org/Archive:Weekly_news_123#Mono_Team)
 
 	
-      * [3.4.1 Miguel de Icaza: Group Completion in MonoDevelop 2.4](http://en.opensuse.org/Archive:Weekly_news_123#Miguel_de_Icaza:_Group_Completion_in_MonoDevelop_2.4)
+      * [3.4.1 Miguel de Icaza: Group Completion in MonoDevelop 2.4](//en.opensuse.org/Archive:Weekly_news_123#Miguel_de_Icaza:_Group_Completion_in_MonoDevelop_2.4)
 
 
 
 
 	
-    * [3.5 openFATE Team](http://en.opensuse.org/Archive:Weekly_news_123#openFATE_Team)
+    * [3.5 openFATE Team](//en.opensuse.org/Archive:Weekly_news_123#openFATE_Team)
 
 	
-      * [3.5.1 Provide an easy way to find Factory devel package with unsubmitted changes](http://en.opensuse.org/Archive:Weekly_news_123#Provide_an_easy_way_to_find_Factory_devel_package_with_unsubmitted_changes)
+      * [3.5.1 Provide an easy way to find Factory devel package with unsubmitted changes](//en.opensuse.org/Archive:Weekly_news_123#Provide_an_easy_way_to_find_Factory_devel_package_with_unsubmitted_changes)
 
 	
-      * [3.5.2 Create Spacewalk compliance](http://en.opensuse.org/Archive:Weekly_news_123#Create_Spacewalk_compliance)
+      * [3.5.2 Create Spacewalk compliance](//en.opensuse.org/Archive:Weekly_news_123#Create_Spacewalk_compliance)
 
 	
-      * [3.5.3 Update to GRUB v2](http://en.opensuse.org/Archive:Weekly_news_123#Update_to_GRUB_v2)
+      * [3.5.3 Update to GRUB v2](//en.opensuse.org/Archive:Weekly_news_123#Update_to_GRUB_v2)
 
 	
-      * [3.5.4 update digikam](http://en.opensuse.org/Archive:Weekly_news_123#update_digikam)
+      * [3.5.4 update digikam](//en.opensuse.org/Archive:Weekly_news_123#update_digikam)
 
 	
-      * [3.5.5 Statistics](http://en.opensuse.org/Archive:Weekly_news_123#Statistics)
+      * [3.5.5 Statistics](//en.opensuse.org/Archive:Weekly_news_123#Statistics)
 
 
 
 
 	
-    * [3.6 Testing Team](http://en.opensuse.org/Archive:Weekly_news_123#Testing_Team)
+    * [3.6 Testing Team](//en.opensuse.org/Archive:Weekly_news_123#Testing_Team)
 
 	
-      * [3.6.1 Larry Finger: Testing Team Informations](http://en.opensuse.org/Archive:Weekly_news_123#Larry_Finger:_Testing_Team_Informations)
+      * [3.6.1 Larry Finger: Testing Team Informations](//en.opensuse.org/Archive:Weekly_news_123#Larry_Finger:_Testing_Team_Informations)
 
 
 
 
 	
-    * [3.7 Translation Team](http://en.opensuse.org/Archive:Weekly_news_123#Translation_Team)
+    * [3.7 Translation Team](//en.opensuse.org/Archive:Weekly_news_123#Translation_Team)
 
 	
-      * [3.7.1 Guiseppe Gran: Italian Wiki home updated](http://en.opensuse.org/Archive:Weekly_news_123#Guiseppe_Gran:_Italian_Wiki_home_updated)
+      * [3.7.1 Guiseppe Gran: Italian Wiki home updated](//en.opensuse.org/Archive:Weekly_news_123#Guiseppe_Gran:_Italian_Wiki_home_updated)
 
 	
-      * [3.7.2 Localization](http://en.opensuse.org/Archive:Weekly_news_123#Localization)
+      * [3.7.2 Localization](//en.opensuse.org/Archive:Weekly_news_123#Localization)
 
 
 
 
 	
-    * [3.8 Wiki-Team](http://en.opensuse.org/Archive:Weekly_news_123#Wiki-Team)
+    * [3.8 Wiki-Team](//en.opensuse.org/Archive:Weekly_news_123#Wiki-Team)
 
 	
-      * [3.8.1 Sascha Manns: Move Weekly News to new Instance](http://en.opensuse.org/Archive:Weekly_news_123#Sascha_Manns:_Move_Weekly_News_to_new_Instance)
+      * [3.8.1 Sascha Manns: Move Weekly News to new Instance](//en.opensuse.org/Archive:Weekly_news_123#Sascha_Manns:_Move_Weekly_News_to_new_Instance)
 
 
 
@@ -169,124 +169,124 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 
 
 	
-  * [4 In the Community](http://en.opensuse.org/Archive:Weekly_news_123#In_the_Community)
+  * [4 In the Community](//en.opensuse.org/Archive:Weekly_news_123#In_the_Community)
 
 	
-    * [4.1 Andrew Wafaa: Community Discussion - Part 7](http://en.opensuse.org/Archive:Weekly_news_123#Andrew_Wafaa:_Community_Discussion_-_Part_7)
+    * [4.1 Andrew Wafaa: Community Discussion - Part 7](//en.opensuse.org/Archive:Weekly_news_123#Andrew_Wafaa:_Community_Discussion_-_Part_7)
 
 	
-    * [4.2 Events](http://en.opensuse.org/Archive:Weekly_news_123#Events)
+    * [4.2 Events](//en.opensuse.org/Archive:Weekly_news_123#Events)
 
 	
-    * [4.3 openSUSE for your ears](http://en.opensuse.org/Archive:Weekly_news_123#openSUSE_for_your_ears)
+    * [4.3 openSUSE for your ears](//en.opensuse.org/Archive:Weekly_news_123#openSUSE_for_your_ears)
 
 	
-    * [4.4 From Ambassadors](http://en.opensuse.org/Archive:Weekly_news_123#From_Ambassadors)
+    * [4.4 From Ambassadors](//en.opensuse.org/Archive:Weekly_news_123#From_Ambassadors)
 
 	
-      * [4.4.1 Sirko Kemter: Linuxwochen Vienna](http://en.opensuse.org/Archive:Weekly_news_123#Sirko_Kemter:_Linuxwochen_Vienna)
+      * [4.4.1 Sirko Kemter: Linuxwochen Vienna](//en.opensuse.org/Archive:Weekly_news_123#Sirko_Kemter:_Linuxwochen_Vienna)
 
 	
-      * [4.4.2 Pavol Rusnak: LinuxWochen Vienna 2010](http://en.opensuse.org/Archive:Weekly_news_123#Pavol_Rusnak:_LinuxWochen_Vienna_2010)
+      * [4.4.2 Pavol Rusnak: LinuxWochen Vienna 2010](//en.opensuse.org/Archive:Weekly_news_123#Pavol_Rusnak:_LinuxWochen_Vienna_2010)
 
 
 
 
 	
-    * [4.5 openSUSE in $COUNTRY](http://en.opensuse.org/Archive:Weekly_news_123#openSUSE_in_.24COUNTRY)
+    * [4.5 openSUSE in $COUNTRY](//en.opensuse.org/Archive:Weekly_news_123#openSUSE_in_.24COUNTRY)
 
 	
-    * [4.6 Communication](http://en.opensuse.org/Archive:Weekly_news_123#Communication)
+    * [4.6 Communication](//en.opensuse.org/Archive:Weekly_news_123#Communication)
 
 	
-    * [4.7 Contributors](http://en.opensuse.org/Archive:Weekly_news_123#Contributors)
+    * [4.7 Contributors](//en.opensuse.org/Archive:Weekly_news_123#Contributors)
 
 
 
 
 	
-  * [5 New/Updated Applications @ openSUSE](http://en.opensuse.org/Archive:Weekly_news_123#New.2FUpdated_Applications_.40_openSUSE)
+  * [5 New/Updated Applications @ openSUSE](//en.opensuse.org/Archive:Weekly_news_123#New.2FUpdated_Applications_.40_openSUSE)
 
 	
-    * [5.1 Dominique Leuenberger: Network Manager 0.8.1 Beta 1](http://en.opensuse.org/Archive:Weekly_news_123#Dominique_Leuenberger:_Network_Manager_0.8.1_Beta_1)
+    * [5.1 Dominique Leuenberger: Network Manager 0.8.1 Beta 1](//en.opensuse.org/Archive:Weekly_news_123#Dominique_Leuenberger:_Network_Manager_0.8.1_Beta_1)
 
 	
-    * [5.2 Packman: Miro 3.0.1-1.pm.1.5 (openSUSE 11.2/x86_64)](http://en.opensuse.org/Archive:Weekly_news_123#Packman:_Miro_3.0.1-1.pm.1.5_.28openSUSE_11.2.2Fx86_64.29)
+    * [5.2 Packman: Miro 3.0.1-1.pm.1.5 (openSUSE 11.2/x86_64)](//en.opensuse.org/Archive:Weekly_news_123#Packman:_Miro_3.0.1-1.pm.1.5_.28openSUSE_11.2.2Fx86_64.29)
 
 	
-    * [5.3 Packman: decibel-audio-player 1.04-2.pm.2.1 (openSUSE 11.2/x86_64)](http://en.opensuse.org/Archive:Weekly_news_123#Packman:_decibel-audio-player_1.04-2.pm.2.1_.28openSUSE_11.2.2Fx86_64.29)
+    * [5.3 Packman: decibel-audio-player 1.04-2.pm.2.1 (openSUSE 11.2/x86_64)](//en.opensuse.org/Archive:Weekly_news_123#Packman:_decibel-audio-player_1.04-2.pm.2.1_.28openSUSE_11.2.2Fx86_64.29)
 
 
 
 
 	
-  * [6 Security Updates](http://en.opensuse.org/Archive:Weekly_news_123#Security_Updates)
+  * [6 Security Updates](//en.opensuse.org/Archive:Weekly_news_123#Security_Updates)
 
 	
-    * [6.1 SUSE Security Summary Report: SUSE-SR:2010:011](http://en.opensuse.org/Archive:Weekly_news_123#SUSE_Security_Summary_Report:_SUSE-SR:2010:011)
+    * [6.1 SUSE Security Summary Report: SUSE-SR:2010:011](//en.opensuse.org/Archive:Weekly_news_123#SUSE_Security_Summary_Report:_SUSE-SR:2010:011)
 
 	
-    * [6.2 SUSE Security Announcement: Linux kernel (SUSE-SA:2010:023)](http://en.opensuse.org/Archive:Weekly_news_123#SUSE_Security_Announcement:_Linux_kernel_.28SUSE-SA:2010:023.29)
+    * [6.2 SUSE Security Announcement: Linux kernel (SUSE-SA:2010:023)](//en.opensuse.org/Archive:Weekly_news_123#SUSE_Security_Announcement:_Linux_kernel_.28SUSE-SA:2010:023.29)
 
 
 
 
 	
-  * [7 Kernel Review](http://en.opensuse.org/Archive:Weekly_news_123#Kernel_Review)
+  * [7 Kernel Review](//en.opensuse.org/Archive:Weekly_news_123#Kernel_Review)
 
 	
-    * [7.1 h-online/Thorsten Leemhuis: Kernel Log: New stable kernels and drivers](http://en.opensuse.org/Archive:Weekly_news_123#h-online.2FThorsten_Leemhuis:_Kernel_Log:_New_stable_kernels_and_drivers)
+    * [7.1 h-online/Thorsten Leemhuis: Kernel Log: New stable kernels and drivers](//en.opensuse.org/Archive:Weekly_news_123#h-online.2FThorsten_Leemhuis:_Kernel_Log:_New_stable_kernels_and_drivers)
 
 	
-    * [7.2 h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.34 (Part 4) - Architecture and virtualisation](http://en.opensuse.org/Archive:Weekly_news_123#h-online.2FThorsten_Leemhuis:_Kernel_Log:_Coming_in_2.6.34_.28Part_4.29_-_Architecture_and_virtualisation)
+    * [7.2 h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.34 (Part 4) - Architecture and virtualisation](//en.opensuse.org/Archive:Weekly_news_123#h-online.2FThorsten_Leemhuis:_Kernel_Log:_Coming_in_2.6.34_.28Part_4.29_-_Architecture_and_virtualisation)
 
 	
-    * [7.3 h-online/Thorsten Leemhuis:Kernel Log: Coming in 2.6.34 (Part 5) - Drivers](http://en.opensuse.org/Archive:Weekly_news_123#h-online.2FThorsten_Leemhuis:Kernel_Log:_Coming_in_2.6.34_.28Part_5.29_-_Drivers)
+    * [7.3 h-online/Thorsten Leemhuis:Kernel Log: Coming in 2.6.34 (Part 5) - Drivers](//en.opensuse.org/Archive:Weekly_news_123#h-online.2FThorsten_Leemhuis:Kernel_Log:_Coming_in_2.6.34_.28Part_5.29_-_Drivers)
 
 	
-    * [7.4 Rares Aioanei – Kernel News with openSUSE Flavor](http://en.opensuse.org/Archive:Weekly_news_123#Rares_Aioanei_.E2.80.93_Kernel_News_with_openSUSE_Flavor)
+    * [7.4 Rares Aioanei – Kernel News with openSUSE Flavor](//en.opensuse.org/Archive:Weekly_news_123#Rares_Aioanei_.E2.80.93_Kernel_News_with_openSUSE_Flavor)
 
 
 
 
 	
-  * [8 Tips and Tricks](http://en.opensuse.org/Archive:Weekly_news_123#Tips_and_Tricks)
+  * [8 Tips and Tricks](//en.opensuse.org/Archive:Weekly_news_123#Tips_and_Tricks)
 
 	
-    * [8.1 For Desktop Users](http://en.opensuse.org/Archive:Weekly_news_123#For_Desktop_Users)
+    * [8.1 For Desktop Users](//en.opensuse.org/Archive:Weekly_news_123#For_Desktop_Users)
 
 	
-      * [8.1.1 Petr Baudis: pulseaudio – quick’n'dirty playback over the network](http://en.opensuse.org/Archive:Weekly_news_123#Petr_Baudis:_pulseaudio_.E2.80.93_quick.E2.80.99n.27dirty_playback_over_the_network)
+      * [8.1.1 Petr Baudis: pulseaudio – quick’n'dirty playback over the network](//en.opensuse.org/Archive:Weekly_news_123#Petr_Baudis:_pulseaudio_.E2.80.93_quick.E2.80.99n.27dirty_playback_over_the_network)
 
 
 
 
 	
-    * [8.2 For Commandline/Script Newbies](http://en.opensuse.org/Archive:Weekly_news_123#For_Commandline.2FScript_Newbies)
+    * [8.2 For Commandline/Script Newbies](//en.opensuse.org/Archive:Weekly_news_123#For_Commandline.2FScript_Newbies)
 
 	
-      * [8.2.1 The Geek Stuff/Sasikala: Bash Positional Parameters Explained with 2 Example Shell Scripts](http://en.opensuse.org/Archive:Weekly_news_123#The_Geek_Stuff.2FSasikala:_Bash_Positional_Parameters_Explained_with_2_Example_Shell_Scripts)
+      * [8.2.1 The Geek Stuff/Sasikala: Bash Positional Parameters Explained with 2 Example Shell Scripts](//en.opensuse.org/Archive:Weekly_news_123#The_Geek_Stuff.2FSasikala:_Bash_Positional_Parameters_Explained_with_2_Example_Shell_Scripts)
 
 	
-      * [8.2.2 Gabriel Stein: Problems with Grub?](http://en.opensuse.org/Archive:Weekly_news_123#Gabriel_Stein:_Problems_with_Grub.3F)
+      * [8.2.2 Gabriel Stein: Problems with Grub?](//en.opensuse.org/Archive:Weekly_news_123#Gabriel_Stein:_Problems_with_Grub.3F)
 
 
 
 
 	
-    * [8.3 For Developers and Programmers](http://en.opensuse.org/Archive:Weekly_news_123#For_Developers_and_Programmers)
+    * [8.3 For Developers and Programmers](//en.opensuse.org/Archive:Weekly_news_123#For_Developers_and_Programmers)
 
 	
-      * [8.3.1 Tuxradar: Python + PyGTK + WebKit in 20 minutes](http://en.opensuse.org/Archive:Weekly_news_123#Tuxradar:_Python_.2B_PyGTK_.2B_WebKit_in_20_minutes)
+      * [8.3.1 Tuxradar: Python + PyGTK + WebKit in 20 minutes](//en.opensuse.org/Archive:Weekly_news_123#Tuxradar:_Python_.2B_PyGTK_.2B_WebKit_in_20_minutes)
 
 
 
 
 	
-    * [8.4 For System Administrators](http://en.opensuse.org/Archive:Weekly_news_123#For_System_Administrators)
+    * [8.4 For System Administrators](//en.opensuse.org/Archive:Weekly_news_123#For_System_Administrators)
 
 	
-      * [8.4.1 Jiří Suchomel: Your own OEM configuration: YaST Firstboot](http://en.opensuse.org/Archive:Weekly_news_123#Ji.C5.99.C3.AD_Suchomel:_Your_own_OEM_configuration:_YaST_Firstboot)
+      * [8.4.1 Jiří Suchomel: Your own OEM configuration: YaST Firstboot](//en.opensuse.org/Archive:Weekly_news_123#Ji.C5.99.C3.AD_Suchomel:_Your_own_OEM_configuration:_YaST_Firstboot)
 
 
 
@@ -295,73 +295,73 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 
 
 	
-  * [9 Planet SUSE](http://en.opensuse.org/Archive:Weekly_news_123#Planet_SUSE)
+  * [9 Planet SUSE](//en.opensuse.org/Archive:Weekly_news_123#Planet_SUSE)
 
 	
-    * [9.1 Duncan Mac-Vicar: openSUSE as a ruby development platform](http://en.opensuse.org/Archive:Weekly_news_123#Duncan_Mac-Vicar:_openSUSE_as_a_ruby_development_platform)
+    * [9.1 Duncan Mac-Vicar: openSUSE as a ruby development platform](//en.opensuse.org/Archive:Weekly_news_123#Duncan_Mac-Vicar:_openSUSE_as_a_ruby_development_platform)
 
 	
-    * [9.2 Andrea Florio: Lugaru is opensource – Lugaru is on packman](http://en.opensuse.org/Archive:Weekly_news_123#Andrea_Florio:_Lugaru_is_opensource_.E2.80.93_Lugaru_is_on_packman)
+    * [9.2 Andrea Florio: Lugaru is opensource – Lugaru is on packman](//en.opensuse.org/Archive:Weekly_news_123#Andrea_Florio:_Lugaru_is_opensource_.E2.80.93_Lugaru_is_on_packman)
 
 
 
 
 	
-  * [10 openSUSE Forums](http://en.opensuse.org/Archive:Weekly_news_123#openSUSE_Forums)
+  * [10 openSUSE Forums](//en.opensuse.org/Archive:Weekly_news_123#openSUSE_Forums)
 
 	
-    * [10.1 openSUSE Super Laggy all of a sudden!](http://en.opensuse.org/Archive:Weekly_news_123#openSUSE_Super_Laggy_all_of_a_sudden.21)
+    * [10.1 openSUSE Super Laggy all of a sudden!](//en.opensuse.org/Archive:Weekly_news_123#openSUSE_Super_Laggy_all_of_a_sudden.21)
 
 	
-    * [10.2 openSUSE and Parted don't recognize my HD](http://en.opensuse.org/Archive:Weekly_news_123#openSUSE_and_Parted_don.27t_recognize_my_HD)
+    * [10.2 openSUSE and Parted don't recognize my HD](//en.opensuse.org/Archive:Weekly_news_123#openSUSE_and_Parted_don.27t_recognize_my_HD)
 
 	
-    * [10.3 Bouncing Icon - Program does not start!](http://en.opensuse.org/Archive:Weekly_news_123#Bouncing_Icon_-_Program_does_not_start.21)
+    * [10.3 Bouncing Icon - Program does not start!](//en.opensuse.org/Archive:Weekly_news_123#Bouncing_Icon_-_Program_does_not_start.21)
 
 	
-    * [10.4 Amarok Crashing](http://en.opensuse.org/Archive:Weekly_news_123#Amarok_Crashing)
+    * [10.4 Amarok Crashing](//en.opensuse.org/Archive:Weekly_news_123#Amarok_Crashing)
 
 
 
 
 	
-  * [11 On the Web](http://en.opensuse.org/Archive:Weekly_news_123#On_the_Web)
+  * [11 On the Web](//en.opensuse.org/Archive:Weekly_news_123#On_the_Web)
 
 	
-    * [11.1 Announcements](http://en.opensuse.org/Archive:Weekly_news_123#Announcements)
+    * [11.1 Announcements](//en.opensuse.org/Archive:Weekly_news_123#Announcements)
 
 	
-      * [11.1.1 Wine Reviews:  Bordeaux 2.0.4 for Linux Released](http://en.opensuse.org/Archive:Weekly_news_123#Wine_Reviews:__Bordeaux_2.0.4_for_Linux_Released)
+      * [11.1.1 Wine Reviews:  Bordeaux 2.0.4 for Linux Released](//en.opensuse.org/Archive:Weekly_news_123#Wine_Reviews:__Bordeaux_2.0.4_for_Linux_Released)
 
 
 
 
 	
-    * [11.2 Reports](http://en.opensuse.org/Archive:Weekly_news_123#Reports)
+    * [11.2 Reports](//en.opensuse.org/Archive:Weekly_news_123#Reports)
 
 	
-      * [11.2.1 Techsource/Jun Auza: 8 Best Massively Multiplayer Online Role-playing Games (MMORPG) for Linux](http://en.opensuse.org/Archive:Weekly_news_123#Techsource.2FJun_Auza:_8_Best_Massively_Multiplayer_Online_Role-playing_Games_.28MMORPG.29_for_Linux)
+      * [11.2.1 Techsource/Jun Auza: 8 Best Massively Multiplayer Online Role-playing Games (MMORPG) for Linux](//en.opensuse.org/Archive:Weekly_news_123#Techsource.2FJun_Auza:_8_Best_Massively_Multiplayer_Online_Role-playing_Games_.28MMORPG.29_for_Linux)
 
 	
-      * [11.2.2 Linux Magazine/Dmitri Popov: Keep Your System Clean with BleachBit](http://en.opensuse.org/Archive:Weekly_news_123#Linux_Magazine.2FDmitri_Popov:_Keep_Your_System_Clean_with_BleachBit)
+      * [11.2.2 Linux Magazine/Dmitri Popov: Keep Your System Clean with BleachBit](//en.opensuse.org/Archive:Weekly_news_123#Linux_Magazine.2FDmitri_Popov:_Keep_Your_System_Clean_with_BleachBit)
 
 	
-      * [11.2.3 Datamation/Thor Olavsrud: Cloud Computing](http://en.opensuse.org/Archive:Weekly_news_123#Datamation.2FThor_Olavsrud:_Cloud_Computing)
+      * [11.2.3 Datamation/Thor Olavsrud: Cloud Computing](//en.opensuse.org/Archive:Weekly_news_123#Datamation.2FThor_Olavsrud:_Cloud_Computing)
 
 	
-      * [11.2.4 Thomas McGuire: Akonadi Meeting and the KDE SC 4.5 release](http://en.opensuse.org/Archive:Weekly_news_123#Thomas_McGuire:_Akonadi_Meeting_and_the_KDE_SC_4.5_release)
+      * [11.2.4 Thomas McGuire: Akonadi Meeting and the KDE SC 4.5 release](//en.opensuse.org/Archive:Weekly_news_123#Thomas_McGuire:_Akonadi_Meeting_and_the_KDE_SC_4.5_release)
 
 	
-      * [11.2.5 Linux Gaming News/Maxim Bardin: Heroes Of Newerth Gone Retail !](http://en.opensuse.org/Archive:Weekly_news_123#Linux_Gaming_News.2FMaxim_Bardin:_Heroes_Of_Newerth_Gone_Retail_.21)
+      * [11.2.5 Linux Gaming News/Maxim Bardin: Heroes Of Newerth Gone Retail !](//en.opensuse.org/Archive:Weekly_news_123#Linux_Gaming_News.2FMaxim_Bardin:_Heroes_Of_Newerth_Gone_Retail_.21)
 
 
 
 
 	
-    * [11.3 Reviews and Essays](http://en.opensuse.org/Archive:Weekly_news_123#Reviews_and_Essays)
+    * [11.3 Reviews and Essays](//en.opensuse.org/Archive:Weekly_news_123#Reviews_and_Essays)
 
 	
-      * [11.3.1 Computerworld/Steven J. Vaughan-Nichols: Running Windows games on Linux gets easier](http://en.opensuse.org/Archive:Weekly_news_123#Computerworld.2FSteven_J._Vaughan-Nichols:_Running_Windows_games_on_Linux_gets_easier)
+      * [11.3.1 Computerworld/Steven J. Vaughan-Nichols: Running Windows games on Linux gets easier](//en.opensuse.org/Archive:Weekly_news_123#Computerworld.2FSteven_J._Vaughan-Nichols:_Running_Windows_games_on_Linux_gets_easier)
 
 
 
@@ -370,13 +370,13 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 
 
 	
-  * [12 Feedback / Communicate / Get Involved](http://en.opensuse.org/Archive:Weekly_news_123#Feedback_.2F_Communicate_.2F_Get_Involved)
+  * [12 Feedback / Communicate / Get Involved](//en.opensuse.org/Archive:Weekly_news_123#Feedback_.2F_Communicate_.2F_Get_Involved)
 
 	
-  * [13 Credits](http://en.opensuse.org/Archive:Weekly_news_123#Credits)
+  * [13 Credits](//en.opensuse.org/Archive:Weekly_news_123#Credits)
 
 	
-  * [14 Translations](http://en.opensuse.org/Archive:Weekly_news_123#Translations)
+  * [14 Translations](//en.opensuse.org/Archive:Weekly_news_123#Translations)
 
 
 
@@ -411,12 +411,12 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](http://en.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
+<td >[![](//en.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](//en.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
 </td>
 
 <td >
 
-     Welcome to issue # 123 of [openSUSE Weekly News](http://en.opensuse.org/OpenSUSE_Weekly_News). Now the nineteenth Week goes to the End, and we are pleased to announce our new issue. 
+     Welcome to issue # 123 of [openSUSE Weekly News](//en.opensuse.org/OpenSUSE_Weekly_News). Now the nineteenth Week goes to the End, and we are pleased to announce our new issue. 
      This Week was very busy. In the next Week we have the Release  of the Milestone 7. This will be the last Milestone. After that we have  just the Release Canidates. I'm very happy of that. 
      The other Place i´m working is the new Wiki. The Reviewing  Process goes on. If anyone speak the english Language, you are welcome  to help out in the Reviewing Process. If you are interested, just send a  Mail to [opensuse-wiki@opensuse.org](mailto:opensuse-wiki@opensuse.org). But this is a closed list, you have to [subscribe](mailto:opensuse-wiki+subscribe@opensuse.org) first. 
      So we're hoping, that you like the new Weekly News. We wish you many joy by reading it... 
@@ -453,7 +453,7 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](http://en.opensuse.org/File:Suse_Box.png)
+<td >[![](//en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//en.opensuse.org/File:Suse_Box.png)
 </td>
 
 <td >
@@ -464,7 +464,7 @@ openSUSE Weekly News is translated into many languages. Take a look at [this pag
 
 
 
-    "[21st May](http://www.suse.de/%7Ecoolo/opensuse_11.3/): 
+    "[21st May](//www.suse.de/%7Ecoolo/opensuse_11.3/): 
 
 
     
@@ -507,7 +507,7 @@ The numbers for all openSUSE project products are this week:
   * Enhancements: 565 (-3)
 
 	
-  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) – [Submitting Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports) – [Bug Reporting FAQ](http://en.opensuse.org/Bug_Reporting_FAQ)
+  * [Detailed Bugzilla Report](https://bugzilla.novell.com/report.cgi?x_axis_field=bug_severity&y_axis_field=product&z_axis_field=&query_format=report-table&short_desc_type=allwordssubstr&short_desc=&long_desc_type=fulltext&long_desc=&classification=openSUSE&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=anywords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=NEEDINFO&bug_status=REOPENED&emailassigned_to1=1&emailtype1=substring&email1=&emailassigned_to2=1&emailreporter2=1&emailqa_contact2=1&emailcc2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&format=table&action=wrap&field0-0-0=noop&type0-0-0=noop&value0-0-0=) – [Submitting Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports) – [Bug Reporting FAQ](//en.opensuse.org/Bug_Reporting_FAQ)
 
 
 
@@ -537,13 +537,13 @@ The numbers for all openSUSE project products are this week:
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](http://en.opensuse.org/File:Suse_Box.png)
+<td >[![](//en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//en.opensuse.org/File:Suse_Box.png)
 </td>
 
 <td >
 
 
-#### [Standup Meeting 2010/05/10](http://lists.opensuse.org/opensuse-boosters/2010-05/msg00034.html)
+#### [Standup Meeting 2010/05/10](//lists.opensuse.org/opensuse-boosters/2010-05/msg00034.html)
 
 
 
@@ -574,7 +574,7 @@ The wiki squad continues to make good progress.
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](http://en.opensuse.org/File:OWN-oxygen-Build-Service.png)
+<td >[![](//en.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](//en.opensuse.org/File:OWN-oxygen-Build-Service.png)
 </td>
 
 <td >
@@ -604,13 +604,13 @@ The Build Service now hosts 12689 (+99) projects, 93529 (+163)  packages, 22101 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/7/73/Kde-logo.jpg/48px-Kde-logo.jpg)](http://en.opensuse.org/File:Kde-logo.jpg)
+<td >[![](//en.opensuse.org/images/thumb/7/73/Kde-logo.jpg/48px-Kde-logo.jpg)](//en.opensuse.org/File:Kde-logo.jpg)
 </td>
 
 <td >
 
 
-#### [openSUSE KDE meeting 20100513](http://lists.opensuse.org/opensuse-kde/2010-05/msg00048.html)
+#### [openSUSE KDE meeting 20100513](//lists.opensuse.org/opensuse-kde/2010-05/msg00048.html)
 
 
 
@@ -636,13 +636,13 @@ The Build Service now hosts 12689 (+99) projects, 93529 (+163)  packages, 22101 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](http://en.opensuse.org/File:Mono_project_logo.png)
+<td >[![](//en.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](//en.opensuse.org/File:Mono_project_logo.png)
 </td>
 
 <td >
 
 
-#### [Miguel de Icaza: Group Completion in MonoDevelop 2.4](http://tirania.org/blog/archive/2010/May-09.html)
+#### [Miguel de Icaza: Group Completion in MonoDevelop 2.4](//tirania.org/blog/archive/2010/May-09.html)
 
 
 
@@ -669,31 +669,31 @@ The Build Service now hosts 12689 (+99) projects, 93529 (+163)  packages, 22101 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](http://en.opensuse.org/File:Logo-fate.png)
+<td >[![](//en.opensuse.org/images/thumb/c/c2/Logo-fate.png/48px-Logo-fate.png)](//en.opensuse.org/File:Logo-fate.png)
 </td>
 
 <td >
 
 
-#### [Provide an easy way to find Factory devel package with unsubmitted changes](http://lists.opensuse.org/opensuse-features/2010-05/msg00080.html)
+#### [Provide an easy way to find Factory devel package with unsubmitted changes](//lists.opensuse.org/opensuse-features/2010-05/msg00080.html)
 
 
 
 
 
-#### [Create Spacewalk compliance](http://lists.opensuse.org/opensuse-features/2010-05/msg00081.html)
+#### [Create Spacewalk compliance](//lists.opensuse.org/opensuse-features/2010-05/msg00081.html)
 
 
 
 
 
-#### [Update to GRUB v2](http://lists.opensuse.org/opensuse-features/2010-05/msg00083.html)
+#### [Update to GRUB v2](//lists.opensuse.org/opensuse-features/2010-05/msg00083.html)
 
 
 
 
 
-#### [update digikam](http://lists.opensuse.org/opensuse-features/2010-05/msg00085.html)
+#### [update digikam](//lists.opensuse.org/opensuse-features/2010-05/msg00085.html)
 
 
 
@@ -731,7 +731,7 @@ The Build Service now hosts 12689 (+99) projects, 93529 (+163)  packages, 22101 
   * duplicate: 19 (+0)
 
 
-[More information on openFATE](http://en.opensuse.org/openSUSE:Openfate)
+[More information on openFATE](//en.opensuse.org/openSUSE:Openfate)
 </td>
 </tr>
 </tbody>
@@ -752,7 +752,7 @@ The Build Service now hosts 12689 (+99) projects, 93529 (+163)  packages, 22101 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](http://en.opensuse.org/File:Suse_Box.png)
+<td >[![](//en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//en.opensuse.org/File:Suse_Box.png)
 </td>
 
 <td >
@@ -790,19 +790,19 @@ the openSUSE Bugzilla."
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](http://en.opensuse.org/File:Icon-localize.png)
+<td >[![](//en.opensuse.org/images/thumb/9/95/Icon-localize.png/48px-Icon-localize.png)](//en.opensuse.org/File:Icon-localize.png)
 </td>
 
 <td >
 
 
-#### [Guiseppe Gran: Italian Wiki home updated](http://lists.opensuse.org/opensuse-translation/2010-05/msg00023.html)
+#### [Guiseppe Gran: Italian Wiki home updated](//lists.opensuse.org/opensuse-translation/2010-05/msg00023.html)
 
 
 
 
      "i want you to advice that i have updated the Italian Wiki's home page with the template of the English one. 
-     [http://it.opensuse.org/Benvenuto_su_openSUSE.org](http://it.opensuse.org/Benvenuto_su_openSUSE.org)" 
+     [//it.opensuse.org/Benvenuto_su_openSUSE.org](//it.opensuse.org/Benvenuto_su_openSUSE.org)" 
 
 
 
@@ -813,10 +813,10 @@ the openSUSE Bugzilla."
 
 
 	
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
 	
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php) – [Localization Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -840,18 +840,18 @@ the openSUSE Bugzilla."
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/d/d0/OWN-oxygen-WCE.png)](http://en.opensuse.org/File:OWN-oxygen-WCE.png)
+<td >[![](//en.opensuse.org/images/d/d0/OWN-oxygen-WCE.png)](//en.opensuse.org/File:OWN-oxygen-WCE.png)
 </td>
 
 <td >
 
 
-#### [Sascha Manns: Move Weekly News to new Instance](http://lists.opensuse.org/opensuse-wiki/2010-05/msg00025.html)
+#### [Sascha Manns: Move Weekly News to new Instance](//lists.opensuse.org/opensuse-wiki/2010-05/msg00025.html)
 
 
 
 
-     "atm i´m busy with moving Weekly News to the new Instance. Now we located in [http://wiki.opensuse.org/openSUSE:Weekly_News](http://wiki.opensuse.org/openSUSE:Weekly_News)." 
+     "atm i´m busy with moving Weekly News to the new Instance. Now we located in [//wiki.opensuse.org/openSUSE:Weekly_News](//wiki.opensuse.org/openSUSE:Weekly_News)." 
 </td>
 </tr>
 </tbody>
@@ -879,13 +879,13 @@ the openSUSE Bugzilla."
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/3/31/Icon-project.png)](http://en.opensuse.org/File:Icon-project.png)
+<td >[![](//en.opensuse.org/images/3/31/Icon-project.png)](//en.opensuse.org/File:Icon-project.png)
 </td>
 
 <td >
 
 
-#### [Andrew Wafaa: Community Discussion - Part 7](http://www.wafaa.eu/entry/community-discussion---part-7-1-28.html)
+#### [Andrew Wafaa: Community Discussion - Part 7](//www.wafaa.eu/entry/community-discussion---part-7-1-28.html)
 
 
 
@@ -936,7 +936,7 @@ Upcoming:
   * You can find more informations on other events at:
 
 	
-  * [openSUSE News/Events](../category/events/) – [Local events](http://en.opensuse.org/Ambassador/Events)
+  * [openSUSE News/Events](../category/events/) – [Local events](//en.opensuse.org/Ambassador/Events)
 
 
 
@@ -949,7 +949,7 @@ Upcoming:
 
 
 	
-  * The openSUSE Weekly News are available as Livestream or Podcast in the German Language. You can hear it or download it on [http://blog.radiotux.de/podcast](http://blog.radiotux.de/podcast).
+  * The openSUSE Weekly News are available as Livestream or Podcast in the German Language. You can hear it or download it on [//blog.radiotux.de/podcast](//blog.radiotux.de/podcast).
 
 
 
@@ -961,7 +961,7 @@ Upcoming:
 
 
 
-#### [Sirko Kemter: Linuxwochen Vienna](http://karl-tux-stadt.de/ktuxs/?p=2312)
+#### [Sirko Kemter: Linuxwochen Vienna](//karl-tux-stadt.de/ktuxs/?p=2312)
 
 
 
@@ -970,7 +970,7 @@ Upcoming:
 
 
 
-#### [Pavol Rusnak: LinuxWochen Vienna 2010](http://stick.gk2.sk/blog/2010/05/linuxwochen-vienna-2010/)
+#### [Pavol Rusnak: LinuxWochen Vienna 2010](//stick.gk2.sk/blog/2010/05/linuxwochen-vienna-2010/)
 
 
 
@@ -992,7 +992,7 @@ Upcoming:
 ### Communication
 
 
-[lists.opensuse.org](http://lists.opensuse.org/) has 37224 (-39) non-unique subscribers to all mailing lists.
+[lists.opensuse.org](//lists.opensuse.org/) has 37224 (-39) non-unique subscribers to all mailing lists.
 The openSUSE Forums have 45683 (+241) registered users - Most users ever online was 30559, 08-Jan-2010 at 13:06.
 
 
@@ -1001,7 +1001,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 ### Contributors
 
 
-4634 (+19) of 11948 (+44) registered contributors in the User  Directory have signed the Guiding Principles. The board has acknowledged  395 [members](http://en.opensuse.org/openSUSE:Members).
+4634 (+19) of 11948 (+44) registered contributors in the User  Directory have signed the Guiding Principles. The board has acknowledged  395 [members](//en.opensuse.org/openSUSE:Members).
 </td>
 </tr>
 </tbody>
@@ -1029,13 +1029,13 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](http://en.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
+<td >[![](//en.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](//en.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
 </td>
 
 <td >
 
 
-#### [Dominique Leuenberger: Network Manager 0.8.1 Beta 1](http://dominique.leuenberger.net/blog/?p=71)
+#### [Dominique Leuenberger: Network Manager 0.8.1 Beta 1](//dominique.leuenberger.net/blog/?p=71)
 
 
 
@@ -1046,7 +1046,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [Packman: Miro 3.0.1-1.pm.1.5 (openSUSE 11.2/x86_64)](http://packman.links2linux.org/package/Miro/166514)
+#### [Packman: Miro 3.0.1-1.pm.1.5 (openSUSE 11.2/x86_64)](//packman.links2linux.org/package/Miro/166514)
 
 
 
@@ -1056,7 +1056,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [Packman: decibel-audio-player 1.04-2.pm.2.1 (openSUSE 11.2/x86_64)](http://packman.links2linux.org/package/decibel-audio-player)
+#### [Packman: decibel-audio-player 1.04-2.pm.2.1 (openSUSE 11.2/x86_64)](//packman.links2linux.org/package/decibel-audio-player)
 
 
 
@@ -1070,7 +1070,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
   * You can find other interesting Packages at:
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf) – [OBS](https://hermes.opensuse.org/feeds/53368.rdf)
 
 
 
@@ -1101,15 +1101,15 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](http://en.opensuse.org/File:Logo-SecurityUpdates.png)
+<td >[![](//en.opensuse.org/images/6/68/Logo-SecurityUpdates.png)](//en.opensuse.org/File:Logo-SecurityUpdates.png)
 </td>
 
-<td >To view the security announcements in full, or to receive them as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+<td >To view the security announcements in full, or to receive them as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 
 
 
-#### [SUSE Security Summary Report: SUSE-SR:2010:011](http://lists.opensuse.org/opensuse-security-announce/2010-05/msg00001.html)
+#### [SUSE Security Summary Report: SUSE-SR:2010:011](//lists.opensuse.org/opensuse-security-announce/2010-05/msg00001.html)
 
 
 
@@ -1170,7 +1170,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [SUSE Security Announcement: Linux kernel (SUSE-SA:2010:023)](http://lists.opensuse.org/opensuse-security-announce/2010-05/msg00000.html)
+#### [SUSE Security Announcement: Linux kernel (SUSE-SA:2010:023)](//lists.opensuse.org/opensuse-security-announce/2010-05/msg00000.html)
 
 
 
@@ -1229,13 +1229,13 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](http://en.opensuse.org/File:Tux.svg.png)
+<td >[![](//en.opensuse.org/images/thumb/b/bc/Tux.svg.png/48px-Tux.svg.png)](//en.opensuse.org/File:Tux.svg.png)
 </td>
 
 <td >
 
 
-#### [h-online/Thorsten Leemhuis: Kernel Log: New stable kernels and drivers](http://www.h-online.com/open/features/Kernel-Log-New-stable-kernels-and-drivers-995820.html)
+#### [h-online/Thorsten Leemhuis: Kernel Log: New stable kernels and drivers](//www.h-online.com/open/features/Kernel-Log-New-stable-kernels-and-drivers-995820.html)
 
 
 
@@ -1244,7 +1244,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.34 (Part 4) - Architecture and virtualisation](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-34-Part-4-Architecture-and-virtualisation-998583.html)
+#### [h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.34 (Part 4) - Architecture and virtualisation](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-34-Part-4-Architecture-and-virtualisation-998583.html)
 
 
 
@@ -1253,7 +1253,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [h-online/Thorsten Leemhuis:Kernel Log: Coming in 2.6.34 (Part 5) - Drivers](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-34-Part-5-Drivers-999566.html)
+#### [h-online/Thorsten Leemhuis:Kernel Log: Coming in 2.6.34 (Part 5) - Drivers](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-34-Part-5-Drivers-999566.html)
 
 
 
@@ -1262,14 +1262,14 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [Rares Aioanei – Kernel News with openSUSE Flavor](http://lizards.opensuse.org/2010/05/14/guest-blog-rares-aioanei-kernel-news-with-opensuse-flavor/)
+#### [Rares Aioanei – Kernel News with openSUSE Flavor](//lizards.opensuse.org/2010/05/14/guest-blog-rares-aioanei-kernel-news-with-opensuse-flavor/)
 
 
 
 
     "Greetings, and welcome! 
 
-     -Starting this week’s news, The H Online have , since the 24th  of March,  a series of articles titled “What’s new in 2.6.34″. You can  find it here: [http://www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html](http://www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html)
+     -Starting this week’s news, The H Online have , since the 24th  of March,  a series of articles titled “What’s new in 2.6.34″. You can  find it here: [//www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html](//www.h-online.com/open/features/Linux-Kernel-2-6-34-tracking-962586.html)
 
      -Frederic Weisbecker posted perf fixes for 2.6.34, James  Bottomley came up with SCSI fixes for -rc6, Paul E. McKenney had some  RCU fixes for 2.6.35; perf fixes came also from Arnaldo Carvalho de  Melo. (...)" 
 </td>
@@ -1299,7 +1299,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](http://en.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
+<td >[![](//en.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](//en.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
 </td>
 
 <td >
@@ -1311,7 +1311,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [Petr Baudis: pulseaudio – quick’n'dirty playback over the network](http://log.or.cz/?p=86)
+#### [Petr Baudis: pulseaudio – quick’n'dirty playback over the network](//log.or.cz/?p=86)
 
 
 
@@ -1326,7 +1326,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [The Geek Stuff/Sasikala: Bash Positional Parameters Explained with 2 Example Shell Scripts](http://www.thegeekstuff.com/2010/05/bash-shell-positional-parameters/)
+#### [The Geek Stuff/Sasikala: Bash Positional Parameters Explained with 2 Example Shell Scripts](//www.thegeekstuff.com/2010/05/bash-shell-positional-parameters/)
 
 
 
@@ -1336,7 +1336,7 @@ The openSUSE Forums have 45683 (+241) registered users - Most users ever online 
 
 
 
-#### [Gabriel Stein: Problems with Grub?](http://gabrielstein.org/blog/?p=536)
+#### [Gabriel Stein: Problems with Grub?](//gabrielstein.org/blog/?p=536)
 
 
 
@@ -1356,7 +1356,7 @@ There are many websites talking about specific errors, but I will give some hint
 
 
 
-#### [Tuxradar: Python + PyGTK + WebKit in 20 minutes](http://www.tuxradar.com/content/python-pygtk-webkit-20-minutes)
+#### [Tuxradar: Python + PyGTK + WebKit in 20 minutes](//www.tuxradar.com/content/python-pygtk-webkit-20-minutes)
 
 
 
@@ -1371,7 +1371,7 @@ There are many websites talking about specific errors, but I will give some hint
 
 
 
-#### [Jiří Suchomel: Your own OEM configuration: YaST Firstboot](http://lizards.opensuse.org/2010/05/13/your-own-oem-configuration-yast-firstboot/)
+#### [Jiří Suchomel: Your own OEM configuration: YaST Firstboot](//lizards.opensuse.org/2010/05/13/your-own-oem-configuration-yast-firstboot/)
 
 
 
@@ -1405,13 +1405,13 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](http://en.opensuse.org/File:Logo-PlanetSUSE.png)
+<td >[![](//en.opensuse.org/images/thumb/f/fe/Logo-PlanetSUSE.png/48px-Logo-PlanetSUSE.png)](//en.opensuse.org/File:Logo-PlanetSUSE.png)
 </td>
 
 <td >
 
 
-#### [Duncan Mac-Vicar: openSUSE as a ruby development platform](http://duncan.mac-vicar.com/blog/archives/708#utm_source=feed&utm_medium=feed&utm_campaign=feed)
+#### [Duncan Mac-Vicar: openSUSE as a ruby development platform](//duncan.mac-vicar.com/blog/archives/708#utm_source=feed&utm_medium=feed&utm_campaign=feed)
 
 
 
@@ -1422,7 +1422,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Andrea Florio: Lugaru is opensource – Lugaru is on packman](http://lizards.opensuse.org/2010/05/15/lugaru-is-opensource-lugaru-is-on-packman/)
+#### [Andrea Florio: Lugaru is opensource – Lugaru is on packman](//lizards.opensuse.org/2010/05/15/lugaru-is-opensource-lugaru-is-on-packman/)
 
 
 
@@ -1457,13 +1457,13 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](http://en.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
+<td >[![](//en.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](//en.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
 </td>
 
 <td >
 
 
-#### [openSUSE Super Laggy all of a sudden!](http://forums.opensuse.org/get-help-here/install-boot-login/438387-opensuse-super-laggy-all-sudden.html)
+#### [openSUSE Super Laggy all of a sudden!](//forums.opensuse.org/get-help-here/install-boot-login/438387-opensuse-super-laggy-all-sudden.html)
 
 
 
@@ -1472,7 +1472,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [openSUSE and Parted don't recognize my HD ](http://forums.opensuse.org/get-help-here/install-boot-login/438483-opensuse-11-2-gparted-dont-recognize-my-hdd.html)
+#### [openSUSE and Parted don't recognize my HD ](//forums.opensuse.org/get-help-here/install-boot-login/438483-opensuse-11-2-gparted-dont-recognize-my-hdd.html)
 
 
 
@@ -1481,7 +1481,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Bouncing Icon - Program does not start!](http://forums.opensuse.org/get-help-here/applications/438487-bouncing-icons-but-software-not-loading.html)
+#### [Bouncing Icon - Program does not start!](//forums.opensuse.org/get-help-here/applications/438487-bouncing-icons-but-software-not-loading.html)
 
 
 
@@ -1490,7 +1490,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Amarok Crashing](http://forums.opensuse.org/get-help-here/multimedia/438484-amarok-crashing.html)
+#### [Amarok Crashing](//forums.opensuse.org/get-help-here/multimedia/438484-amarok-crashing.html)
 
 
 
@@ -1523,7 +1523,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](http://en.opensuse.org/File:OWN-oxygen-On-the-Web.png)
+<td >[![](//en.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](//en.opensuse.org/File:OWN-oxygen-On-the-Web.png)
 </td>
 
 <td >
@@ -1535,7 +1535,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Wine Reviews:  Bordeaux 2.0.4 for Linux Released](http://www.wine-reviews.net/wine-reviews/bordeaux/bordeaux-204-for-linux-released.html)
+#### [Wine Reviews:  Bordeaux 2.0.4 for Linux Released](//www.wine-reviews.net/wine-reviews/bordeaux/bordeaux-204-for-linux-released.html)
 
 
 
@@ -1550,7 +1550,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Techsource/Jun Auza: 8 Best Massively Multiplayer Online Role-playing Games (MMORPG) for Linux](http://www.junauza.com/2010/05/8-best-mmorpg-games-for-linux.html)
+#### [Techsource/Jun Auza: 8 Best Massively Multiplayer Online Role-playing Games (MMORPG) for Linux](//www.junauza.com/2010/05/8-best-mmorpg-games-for-linux.html)
 
 
 
@@ -1559,7 +1559,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Linux Magazine/Dmitri Popov: Keep Your System Clean with BleachBit](http://www.linux-magazine.com/Online/Blogs/Productivity-Sauce-Dmitri-s-open-source-blend-of-productive-computing/Keep-Your-System-Clean-with-BleachBit)
+#### [Linux Magazine/Dmitri Popov: Keep Your System Clean with BleachBit](//www.linux-magazine.com/Online/Blogs/Productivity-Sauce-Dmitri-s-open-source-blend-of-productive-computing/Keep-Your-System-Clean-with-BleachBit)
 
 
 
@@ -1568,7 +1568,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Datamation/Thor Olavsrud: Cloud Computing](http://itmanagement.earthweb.com/netsys/article.php/3881451/Cloud-Computing.htm)
+#### [Datamation/Thor Olavsrud: Cloud Computing](//itmanagement.earthweb.com/netsys/article.php/3881451/Cloud-Computing.htm)
 
 
 
@@ -1577,7 +1577,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Thomas McGuire: Akonadi Meeting and the KDE SC 4.5 release](http://thomasmcguire.wordpress.com/2010/05/14/akonadi-meeting-and-the-kde-sc-4-5-release/)
+#### [Thomas McGuire: Akonadi Meeting and the KDE SC 4.5 release](//thomasmcguire.wordpress.com/2010/05/14/akonadi-meeting-and-the-kde-sc-4-5-release/)
 
 
 
@@ -1586,7 +1586,7 @@ The YaST firstboot utility is a special kind of configuration  workflow that can
 
 
 
-#### [Linux Gaming News/Maxim Bardin: Heroes Of Newerth Gone Retail !](http://lgn.linux-hardcore.com/heroes-of-newerth-gone-retail/)
+#### [Linux Gaming News/Maxim Bardin: Heroes Of Newerth Gone Retail !](//lgn.linux-hardcore.com/heroes-of-newerth-gone-retail/)
 
 
 
@@ -1608,7 +1608,7 @@ For an online game one payment for life is not much at all, some online games de
 
 
 
-#### [Computerworld/Steven J. Vaughan-Nichols: Running Windows games on Linux gets easier](http://blogs.computerworld.com/16108/running_windows_games_on_linux_gets_easier)
+#### [Computerworld/Steven J. Vaughan-Nichols: Running Windows games on Linux gets easier](//blogs.computerworld.com/16108/running_windows_games_on_linux_gets_easier)
 
 
 
@@ -1641,13 +1641,13 @@ For an online game one payment for life is not much at all, some online games de
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](http://en.opensuse.org/File:OWN-oxygen-FCG.png)
+<td >[![](//en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](//en.opensuse.org/File:OWN-oxygen-FCG.png)
 </td>
 
-<td >Do you have comments on any of the things mentioned in this article? Then head right over to the [news.opensuse.org story](../?p=3290) comment section and let us know! Communicate with or get help from the  wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](http://en.opensuse.org/index.php?title=openSUSE:Support_channels&action=edit&redlink=1).
+<td >Do you have comments on any of the things mentioned in this article? Then head right over to the [news.opensuse.org story](../?p=3290) comment section and let us know! Communicate with or get help from the  wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](//en.opensuse.org/index.php?title=openSUSE:Support_channels&action=edit&redlink=1).
 
-If you would like to be a part of the openSUSE Weekly news, then please send an email over to [opensuse-marketing@opensuse.org](http://lists.opensuse.org/opensuse-marketing) (you need to [subscribe](http://en.opensuse.org/index.php?title=openSUSE:Support_channels&action=edit&redlink=1) first). Or you can go to the channel #opensuse-newsletter on irc.freenode.net.
-[![](http://en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](http://en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [http://news.opensuse.org/category/weekly-news/?feed=rss2](../category/weekly-news/?feed=rss2)
+If you would like to be a part of the openSUSE Weekly news, then please send an email over to [opensuse-marketing@opensuse.org](//lists.opensuse.org/opensuse-marketing) (you need to [subscribe](//en.opensuse.org/index.php?title=openSUSE:Support_channels&action=edit&redlink=1) first). Or you can go to the channel #opensuse-newsletter on irc.freenode.net.
+[![](//en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](//en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [//news.opensuse.org/category/weekly-news/?feed=rss2](../category/weekly-news/?feed=rss2)
 </td>
 </tr>
 </tbody>
@@ -1675,7 +1675,7 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](http://en.opensuse.org/File:OWN-oxygen-Credits.png)
+<td >[![](//en.opensuse.org/images/1/17/OWN-oxygen-Credits.png)](//en.opensuse.org/File:OWN-oxygen-Credits.png)
 </td>
 
 <td >
@@ -1683,22 +1683,22 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 
 
 	
-  * [saigkill](http://en.opensuse.org/User:Saigkill) [Talk](http://en.opensuse.org/User_talk:Saigkill) - [Contributions](http://en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief)
+  * [saigkill](//en.opensuse.org/User:Saigkill) [Talk](//en.opensuse.org/User_talk:Saigkill) - [Contributions](//en.opensuse.org/Special:Contributions/saigkill) Sascha Manns (Editor in Chief)
 
 	
-  * [Dl9pf](http://en.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter)
+  * [Dl9pf](//en.opensuse.org/index.php?title=User:Dl9pf&action=edit&redlink=1) [Talk](//en.opensuse.org/index.php?title=User_talk:Dl9pf&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/Dl9pf) Jan-Simon Möller (Second Editor in Chief, Main-Newsletter)
 
 	
-  * [STS301](http://en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](http://en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks)
+  * [STS301](//en.opensuse.org/index.php?title=User:STS301&action=edit&redlink=1) [Talk](//en.opensuse.org/index.php?title=User_talk:STS301&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/STS301) Sebastian Schöbinger (Tips/Tricks)
 
 	
-  * [HeliosReds](http://en.opensuse.org/User:HeliosReds) [Talk](http://en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office)
+  * [HeliosReds](//en.opensuse.org/User:HeliosReds) [Talk](//en.opensuse.org/index.php?title=User_talk:HeliosReds&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/HeliosReds) Satoru Matsumoto (Editorial Office)
 
 	
-  * [Caf4926](http://en.opensuse.org/User:Caf4926) [Talk](http://en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.)
+  * [Caf4926](//en.opensuse.org/User:Caf4926) [Talk](//en.opensuse.org/index.php?title=User_talk:Caf4926&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/Caf4926) Carl Fletcher (Main-Newsletter, Forums Sec.)
 
 	
-  * [Okuro](http://en.opensuse.org/User:Okuro) [Talk](http://en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](http://en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings)
+  * [Okuro](//en.opensuse.org/User:Okuro) [Talk](//en.opensuse.org/index.php?title=User_talk:Okuro&action=edit&redlink=1) - [Contributions](//en.opensuse.org/Special:Contributions/Okuro) Thomas Hofstätter (Events & Meetings)
 
 	
   * add translators
@@ -1732,10 +1732,10 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 <tbody >
 <tr >
 
-<td >[![](http://en.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](http://en.opensuse.org/File:OWN-Icon-locale.png)
+<td >[![](//en.opensuse.org/images/thumb/b/b5/OWN-Icon-locale.png/48px-OWN-Icon-locale.png)](//en.opensuse.org/File:OWN-Icon-locale.png)
 </td>
 
-<td >[English](http://wiki.opensuse.org/OpenSUSE:Weekly_News/123) [Deutsch](http://de.opensuse.org/OpenSUSE-Wochenschau/123) [Español](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/123) [日本語](http://ja.opensuse.org/OpenSUSE_Weekly_News/123) [Русский](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/123) [Polski](http://pl.opensuse.org/Tygodnik_openSUSE/123) [Português](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/123) [Indonesia](http://en.opensuse.org/OpenSUSE_Weekly_News/123/indonesian) [Magyar](http://hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/123) [Italiano](http://it.opensuse.org/OpenSUSE_Newsletter_Settimanale/123) [简体中文](http://en.opensuse.org/OpenSUSE_Weekly_News/123/chinese) [繁體中文](http://zh_tw.opensuse.org/OpenSUSE_Weekly_News/123) [Français](http://fr.opensuse.org/Lettre_d%27information_openSUSE/123) [Svenska](http://en.opensuse.org/OpenSUSE_Weekly_News/123/swedish) [Íeština](http://cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/123)
+<td >[English](//wiki.opensuse.org/OpenSUSE:Weekly_News/123) [Deutsch](//de.opensuse.org/OpenSUSE-Wochenschau/123) [Español](//es.opensuse.org/OpenSUSE_Noticias_Semanales/123) [日本語](//ja.opensuse.org/OpenSUSE_Weekly_News/123) [Русский](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/123) [Polski](//pl.opensuse.org/Tygodnik_openSUSE/123) [Português](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/123) [Indonesia](//en.opensuse.org/OpenSUSE_Weekly_News/123/indonesian) [Magyar](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/123) [Italiano](//it.opensuse.org/OpenSUSE_Newsletter_Settimanale/123) [简体中文](//en.opensuse.org/OpenSUSE_Weekly_News/123/chinese) [繁體中文](//zh_tw.opensuse.org/OpenSUSE_Weekly_News/123) [Français](//fr.opensuse.org/Lettre_d%27information_openSUSE/123) [Svenska](//en.opensuse.org/OpenSUSE_Weekly_News/123/swedish) [Íeština](//cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/123)
 </td>
 </tr>
 </tbody>

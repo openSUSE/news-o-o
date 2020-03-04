@@ -30,7 +30,7 @@ The goal of the TSP is to help everybody in and around openSUSE to be able to at
 
 Requests for the TSP for this year’s openSUSE Conference have until **April 12** to submit their request.
 
-_Remember: All requests will be managed through the TSP application at [http://connect.opensuse.org/travel-support.](https://connect.opensuse.org/travel-support/)_
+_Remember: All requests will be managed through the TSP application at [//connect.opensuse.org/travel-support.](https://connect.opensuse.org/travel-support/)_
 
 You will need an openSUSE Connect account in order to login to the application and apply for sponsorship. Please be sure to fulfill all of your personal details at openSUSE connect account to avoid delays or negative request. A good application with good information will be processed faster.
 
@@ -39,7 +39,7 @@ You will need an openSUSE Connect account in order to login to the application a
 
 
  	
-  * ****Please read the **[**TSP**](http://opensuse.org/openSUSE:Travel_Support_Program)** page carefully before you apply.****
+  * ****Please read the **[**TSP**](//opensuse.org/openSUSE:Travel_Support_Program)** page carefully before you apply.****
 
  	
   * Any information you send to the Travel Committee will be private.

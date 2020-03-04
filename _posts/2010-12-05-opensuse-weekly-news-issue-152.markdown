@@ -235,7 +235,7 @@ enjoy reading.
 
 **
 [Announcing
-openSUSE Tumbleweed project](http://lists.opensuse.org/opensuse-project/2010-11/msg00206.html)
+openSUSE Tumbleweed project](//lists.opensuse.org/opensuse-project/2010-11/msg00206.html)
 **
 
 
@@ -247,9 +247,9 @@ now is to stop talking about it, and actually trying to do it :) So, I'd like to
 "openSUSE Tumbleweed" a repo that is a rolling updated version of openSUSE containing the
 latest "stable" versions of packages for people to use. (...)
 
-Other Sources: [LWN](http://lwn.net/Articles/417946/rss)
-[LinuxJournal](http://www.linuxjournal.com/content/opensuse-and-ubuntu-rollercoasters)
-[h-online](http://www.h-online.com/open/news/item/openSUSE-Rolling-release-project-Tumbleweed-proposed-1146308.html)</blockquote>
+Other Sources: [LWN](//lwn.net/Articles/417946/rss)
+[LinuxJournal](//www.linuxjournal.com/content/opensuse-and-ubuntu-rollercoasters)
+[h-online](//www.h-online.com/open/news/item/openSUSE-Rolling-release-project-Tumbleweed-proposed-1146308.html)</blockquote>
 
 
 
@@ -274,7 +274,7 @@ Other Sources: [LWN](http://lwn.net/Articles/417946/rss)
 <tbody >
 <tr >
 
-<td >![Geeko wants you](http://zonker.opensuse.org/wp-content/uploads/2008/09/uncle_geeko.jpg)
+<td >![Geeko wants you](//zonker.opensuse.org/wp-content/uploads/2008/09/uncle_geeko.jpg)
 </td>
 </tr>
 </tbody>
@@ -300,13 +300,13 @@ Other Sources: [LWN](http://lwn.net/Articles/417946/rss)
 > 
 > 
 
-**[Third openSUSE Board Election 2010](http://news.opensuse.org/2010/12/01/third-opensuse-board-election-2010/)**
+**[Third openSUSE Board Election 2010](//news.opensuse.org/2010/12/01/third-opensuse-board-election-2010/)**
 
 
 > 
 > 
 We are pleased to announce the [openSUSE Board Election
-2010](http://en.opensuse.org/openSUSE:Board_election_2010)! The Election Committee this year is staffed by: geeko wants you [Stathis Iosifidis](http://en.opensuse.org/User:Diamond_gr) , [Sascha Manns](http://en.opensuse.org/User:saigkill), [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), [Thomas Schmidt](http://en.opensuse.org/User:Digitaltomm) The Committee has
+2010](//en.opensuse.org/openSUSE:Board_election_2010)! The Election Committee this year is staffed by: geeko wants you [Stathis Iosifidis](//en.opensuse.org/User:Diamond_gr) , [Sascha Manns](//en.opensuse.org/User:saigkill), [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), [Thomas Schmidt](//en.opensuse.org/User:Digitaltomm) The Committee has
 prepared the timeline for this year’s election. As last year the election process consists of
 3 phases: (...)Figure 1, “Geeko wants you”</blockquote>
 
@@ -349,7 +349,7 @@ prepared the timeline for this year’s election. As last year the election proc
 > 
 > 
 
-**[Feature handling for openSUSE reworked](http://news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/)**
+**[Feature handling for openSUSE reworked](//news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/)**
 
 
 > 
@@ -380,7 +380,7 @@ Figure 2, “openFATE Picture”</blockquote>
 > 
 
 **
-[openSUSE Announces Fourth Development Milestone with Kernel Interactivity Patch](http://news.opensuse.org/2010/12/02/opensuse-announces-fourth-development-milestone-with-kernel-interactivity-patch/)
+[openSUSE Announces Fourth Development Milestone with Kernel Interactivity Patch](//news.opensuse.org/2010/12/02/opensuse-announces-fourth-development-milestone-with-kernel-interactivity-patch/)
 **
 
 
@@ -415,8 +415,8 @@ And finally, the prize for biggest version number leap goes to xmahjong, which w
 to a packaging change removing build support for SUSE versions earlier than 9.1. The graphics
 and gameplay remain as they were in 1990.
 
-A [list of most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_4_of_6) is being compiled; please check it before installing. We
-look forward to [your bug reports](http://bit.ly/el1dv8) and test
+A [list of most annoying bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_4_of_6) is being compiled; please check it before installing. We
+look forward to [your bug reports](//bit.ly/el1dv8) and test
 experiences too. Automated testing and the openSUSE Factory team have been active to ensure
 that your download of M4 will be at least minimally functional.
 
@@ -438,7 +438,7 @@ in March 2011.</blockquote>
 > 
 
 **[Marketing
-Collaboration Days](http://news.opensuse.org/2010/12/02/marketing-collaboration-days/)**
+Collaboration Days](//news.opensuse.org/2010/12/02/marketing-collaboration-days/)**
 
 
 > 
@@ -496,7 +496,7 @@ all.</blockquote>
 > 
 
 **[Sebastian 'sebas'
-Kügler: Running for the openSUSE Board.](http://nmarques.digitalwhores.net/2010/10/16/to-nuremberg/)**
+Kügler: Running for the openSUSE Board.](//nmarques.digitalwhores.net/2010/10/16/to-nuremberg/)**
 
 
 > 
@@ -559,7 +559,7 @@ ideas and plans for the openSUSE board. Thanks for your attention, and your supp
 > 
 
 **[Chuck 'terrorpup' Payne: Throwing my
-name as a candidate for board of openSUSE](http://opensuse.terrorpup.net/?p=176)**
+name as a candidate for board of openSUSE](//opensuse.terrorpup.net/?p=176)**
 
 
 > 
@@ -621,7 +621,7 @@ administrator. Which covers both every day-to-day users and business.</blockquot
 > 
 
 **[Kostas
-'warlordfff' Koudaras: Board Member Application](http://lists.opensuse.org/opensuse-project/2010-12/msg00034.html)**
+'warlordfff' Koudaras: Board Member Application](//lists.opensuse.org/opensuse-project/2010-12/msg00034.html)**
 
 
 > 
@@ -640,7 +640,7 @@ things, and got deeply effected and motivated by his words.
 I started working with openSUSE almost a year ago and I became ambassador on that summer.
 Since I became ambassador I made quite a few things about it, as I said a man of action. Me
 along with Stathis 'Diamond_gr' Iosifidis organized the Greek openSUSE community from scratch.
-We re-activated the Greek IRC channel which was almost dead. We started the [http://amb.opensuse.gr](http://amb.opensuse.gr) so that the world can see our
+We re-activated the Greek IRC channel which was almost dead. We started the [//amb.opensuse.gr](//amb.opensuse.gr) so that the world can see our
 actions as ambassadors. We were the openSUSE team at the 75th International Trade Fair of
 Thessaloniki. We made a call for all Greek Geekos to gather and for a community, although at
 that time (a few months ago) almost every 'expert' told us that it would end up a great
@@ -686,7 +686,7 @@ your support</blockquote>
 > 
 
 **[Jos
-Poortvliet: openSUSE Board elections](http://nowwhatthe.blogspot.com/2010/12/opensuse-board-elections.html)**
+Poortvliet: openSUSE Board elections](//nowwhatthe.blogspot.com/2010/12/opensuse-board-elections.html)**
 
 
 > 
@@ -773,7 +773,7 @@ you fit that bill - apply!</blockquote>
 > 
 > 
 
-**[Rajko Matovic: Bug days in openSUSE](http://rajkov-blog.blogspot.com/2010/11/bug-days-in-opensuse.html)**
+**[Rajko Matovic: Bug days in openSUSE](//rajkov-blog.blogspot.com/2010/11/bug-days-in-opensuse.html)**
 
 
 > 
@@ -822,15 +822,15 @@ Naumov will repeat call for the next Bug Day right next weekend.</blockquote>
 
 	
   * [Detailed Bugzilla
-Report](http://tinyurl.com/392jnb)
+Report](//tinyurl.com/392jnb)
 
 	
   * [Submitting
-Bug Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+Bug Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
 	
   * [Bug Reporting
-FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 
 
@@ -910,7 +910,7 @@ FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 <tbody >
 <tr >
 
-<td >![openSUSE Coverart for the future](http://karl-tux-stadt.de/graph/newface.png)
+<td >![openSUSE Coverart for the future](//karl-tux-stadt.de/graph/newface.png)
 </td>
 </tr>
 </tbody>
@@ -937,7 +937,7 @@ FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 > 
 
 **[Sirko Kemter: Give
-openSUSE](http://karl-tux-stadt.de/ktuxs/?p=2922)**
+openSUSE](//karl-tux-stadt.de/ktuxs/?p=2922)**
 
 
 > 
@@ -994,7 +994,7 @@ what u think?Figure 3, “openSUSE Coverart for the future”</blockquote>
 > 
 
 **[Jos
-Poortvliet: Notes on OBS](http://nowwhatthe.blogspot.com/2010/10/notes-on-obs.html)**
+Poortvliet: Notes on OBS](//nowwhatthe.blogspot.com/2010/10/notes-on-obs.html)**
 
 
 > 
@@ -1029,7 +1029,7 @@ all linux distributions on distrowatch.org is planned for OBS 3.0!
 
 **[Martin
 Mohring: OBS 2.1: Status of SuperH (sh4) support with
-QEMU](http://lizards.opensuse.org/2010/10/24/obs-2-1-status-of-superh-sh4-support-with-qemu/)**
+QEMU](//lizards.opensuse.org/2010/10/24/obs-2-1-status-of-superh-sh4-support-with-qemu/)**
 
 
 > 
@@ -1049,7 +1049,7 @@ this. (…)</blockquote>
 
 
 
-**Build Service Statistics. **Statistics can found at [Buildservice](http://build.opensuse.org)
+**Build Service Statistics. **Statistics can found at [Buildservice](//build.opensuse.org)
 
 
 
@@ -1093,7 +1093,7 @@ this. (…)</blockquote>
 > 
 
 **[Vincent
-Untz: JDLL 2010](http://www.vuntz.net/journal/post/2010/10/21/JDLL-2010)**
+Untz: JDLL 2010](//www.vuntz.net/journal/post/2010/10/21/JDLL-2010)**
 
 
 > 
@@ -1162,7 +1162,7 @@ change over a configurable time span when the dashboard appears. The
 smooth fade of the background adds some eye candy without being to
 obstrusive (hopefully).
 
-I posted the [according patch](http://reviewboard.kde.org/r/5658/) to
+I posted the [according patch](//reviewboard.kde.org/r/5658/) to
 the KDE review board. If everything works out fine, the patch will be
 in trunk for KDE SC 4.6 before code freeze.</blockquote>
 
@@ -1319,12 +1319,12 @@ openFATE](https://features.opensuse.org/statistic/product/22236)
 	
   * Daily updated translation statistics are available on the
 [openSUSE Localization
-Portal](http://i18n.opensuse.org/).
+Portal](//i18n.opensuse.org/).
 
 	
   * [Trunk
-Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php) – [Localization
-Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+Top-List](//i18n.opensuse.org/stats/trunk/toplist.php) – [Localization
+Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
 
 
@@ -1401,7 +1401,7 @@ Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
 > 
 > 
 
-**[Nelson Marques: Christmas Dinner: 11th December @ Aveiro, Portugal](http://lizards.opensuse.org/2010/12/02/christmas-dinner-11th-december-aveiro-portugal/)**
+**[Nelson Marques: Christmas Dinner: 11th December @ Aveiro, Portugal](//lizards.opensuse.org/2010/12/02/christmas-dinner-11th-december-aveiro-portugal/)**
 
 
 > 
@@ -1559,7 +1559,7 @@ is active in Wiki and IRC.</blockquote>
 
 
 	
-  * [December 01, 2010: openSUSE Board Meeting](http://news.opensuse.org/2010/03/24/opensuse-board-meeting/)
+  * [December 01, 2010: openSUSE Board Meeting](//news.opensuse.org/2010/03/24/opensuse-board-meeting/)
 
 
 
@@ -1578,22 +1578,22 @@ is active in Wiki and IRC.</blockquote>
 
 
 	
-  * [December 04, 2010: openSUSE Greek Community Meeting](http://news.opensuse.org/2010/12/01/opensuse-greek-community-meeting/)
+  * [December 04, 2010: openSUSE Greek Community Meeting](//news.opensuse.org/2010/12/01/opensuse-greek-community-meeting/)
 
 	
-  * [December 06, 2010: Marketing Collaboration Day - Ambassador Support Review](http://news.opensuse.org/2010/12/02/ambassador-support-review/)
+  * [December 06, 2010: Marketing Collaboration Day - Ambassador Support Review](//news.opensuse.org/2010/12/02/ambassador-support-review/)
 
 	
-  * [December 08, 2010: German Wiki Team Meeting](http://news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
+  * [December 08, 2010: German Wiki Team Meeting](//news.opensuse.org/2010/05/30/german-wiki-team-meeting-2/)
 
 	
-  * [December 09, 2010: ﻿openSUSE KDE Team meeting ](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [December 09, 2010: ﻿openSUSE KDE Team meeting ](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 
 
 
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 
 
@@ -1625,7 +1625,7 @@ You can find more informations on other events at: [openSUSE News/Events](http:/
 
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-or download it on [Radiotux](http://blog.radiotux.de/podcast).
+or download it on [Radiotux](//blog.radiotux.de/podcast).
 
 
 
@@ -1670,7 +1670,7 @@ or download it on [Radiotux](http://blog.radiotux.de/podcast).
 
 
 
-![Linux Day](http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs588.ash2/151092_1672387380452_1560424856_31579552_7671427_n.jpg)
+![Linux Day](//sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs588.ash2/151092_1672387380452_1560424856_31579552_7671427_n.jpg)
 
 
 
@@ -1692,7 +1692,7 @@ or download it on [Radiotux](http://blog.radiotux.de/podcast).
 > 
 
 **
-[Thomas Thym: LinuxDay in Dornbirn, AT ... or an extraordinary day of success stories](http://ungethym.blogspot.com/2010/11/linuxday-in-dornbirn-at-or.html)
+[Thomas Thym: LinuxDay in Dornbirn, AT ... or an extraordinary day of success stories](//ungethym.blogspot.com/2010/11/linuxday-in-dornbirn-at-or.html)
 **
 
 
@@ -1746,10 +1746,10 @@ cooperation with other projects. Figure 4, “Linux Day”</blockquote>
 
 
 	
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
 	
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 
 
@@ -1791,7 +1791,7 @@ cooperation with other projects. Figure 4, “Linux Day”</blockquote>
 
 
 	
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
 
 
@@ -1841,7 +1841,7 @@ cooperation with other projects. Figure 4, “Linux Day”</blockquote>
 
 **
 [OBS openSUSE:11.3:Update/clamav r2
-commited ](http://hermes.opensuse.org/messages/6195364)**
+commited ](//hermes.opensuse.org/messages/6195364)**
 
 
 > 
@@ -1863,7 +1863,7 @@ Updated to clamav-0.96.4.</blockquote>
 > 
 
 **[Holger
-Hetterich: SMB Traffic Analyzer 1.2.1 released](http://holger123.wordpress.com/2010/11/30/smb-traffic-analyzer-1-2-1-released/)**
+Hetterich: SMB Traffic Analyzer 1.2.1 released](//holger123.wordpress.com/2010/11/30/smb-traffic-analyzer-1-2-1-released/)**
 
 
 > 
@@ -1892,7 +1892,7 @@ to create all the fancy graphics SMBTA was missing until today (bnc#655149). (..
 > 
 
 **[Packman:
-handbrake-unstable 0.9.4+3697-0](http://packman.links2linux.org/package/handbrake-unstable)**
+handbrake-unstable 0.9.4+3697-0](//packman.links2linux.org/package/handbrake-unstable)**
 
 
 > 
@@ -1915,7 +1915,7 @@ transcoder.</blockquote>
 > 
 
 **[Packman: lightspark
-0.4.4-0.pm.1.6](http://packman.links2linux.org/package/lightspark)**
+0.4.4-0.pm.1.6](//packman.links2linux.org/package/lightspark)**
 
 
 > 
@@ -1961,7 +1961,7 @@ Designed from scratch after the official Flash documentation was released.
 > 
 
 **[Packman: FrostWire
-4.20.6_svn1467-0.pm.1.9](http://packman.links2linux.org/package/FrostWire)**
+4.20.6_svn1467-0.pm.1.9](//packman.links2linux.org/package/FrostWire)**
 
 
 > 
@@ -1986,7 +1986,7 @@ of FrostWire is to keep and maintain the freedoms that LimeWire LLC may be force
 > 
 
 **[Packman: vlc
-1.1.5-1.pm.3.13](http://packman.links2linux.org/package/vlc)**
+1.1.5-1.pm.3.13](//packman.links2linux.org/package/vlc)**
 
 
 > 
@@ -2011,7 +2011,7 @@ or IPv6 on a high-bandwidth network.</blockquote>
 > 
 
 **[Packman: Scrabble
-3.1.0rc8-0.pm.1.3](http://packman.links2linux.org/package/Scrabble)**
+3.1.0rc8-0.pm.1.3](//packman.links2linux.org/package/Scrabble)**
 
 
 > 
@@ -2035,7 +2035,7 @@ Basically designed to develop a 3D version of the well known board game.</blockq
 > 
 
 **[Packman: frinika
-0.6.0-0.pm.2.14](http://packman.links2linux.org/package/frinika/195819)**
+0.6.0-0.pm.2.14](//packman.links2linux.org/package/frinika/195819)**
 
 
 > 
@@ -2060,7 +2060,7 @@ enough to boost your musical creativity.</blockquote>
 > 
 
 **[OBS
-openSUSE:11.3:Update/java-1_6_0-openjdk r3 commited](http://hermes.opensuse.org/messages/6369500)**
+openSUSE:11.3:Update/java-1_6_0-openjdk r3 commited](//hermes.opensuse.org/messages/6369500)**
 
 
 > 
@@ -2082,21 +2082,21 @@ Updated to icedtea6-1.9.2 (EDITMARK)</blockquote>
 > 
 
 **[Petr Mladek:
-LibreOffice 3.3 rc1 available for openSUSE](http://lizards.opensuse.org/2010/12/03/libreoffice-3_3_0_/)**
+LibreOffice 3.3 rc1 available for openSUSE](//lizards.opensuse.org/2010/12/03/libreoffice-3_3_0_/)**
 
 
 > 
 > 
 I’m happy to announce LibreOffice 3.3 rc1 packages for openSUSE. They are available in the
 Build Service[
-LibreOffice:Unstable](http://download.opensuse.org/repositories/LibreOffice:/Unstable/) project. They are based on the [libreoffice-3.3.0.1 release](http://cgit.freedesktop.org/libreoffice/build/plain/NEWS?id=LIBREOFFICE_3_3_0_1). Please, look for more details about the openSUSE
-LibreOffice build on the [wiki page](http://en.opensuse.org/OpenOffice.org).
+LibreOffice:Unstable](//download.opensuse.org/repositories/LibreOffice:/Unstable/) project. They are based on the [libreoffice-3.3.0.1 release](//cgit.freedesktop.org/libreoffice/build/plain/NEWS?id=LIBREOFFICE_3_3_0_1). Please, look for more details about the openSUSE
+LibreOffice build on the [wiki page](//en.opensuse.org/OpenOffice.org).
 
 The packages are based on release candidate sources but they have not passed full QA round
 yet and might include even serious bugs. Therefore they are not intended for data-critical
 usage. A good practice is to archive any important data before an use, …
 
-As usual, we kindly ask any interested beta testers to try the package and[ report bugs](http://en.opensuse.org/openSUSE:Bugreport_OOo) against the product
+As usual, we kindly ask any interested beta testers to try the package and[ report bugs](//en.opensuse.org/openSUSE:Bugreport_OOo) against the product
 LibreOffice .
 
 **Known Bugs:**
@@ -2142,13 +2142,13 @@ Tools/Options/OpenOffice.org/Memory/Enable systray Quickstarter
 > 
 > 
 	
->   * [Free Desktop bugzilla](http://alturl.com/dmqve)
+>   * [Free Desktop bugzilla](//alturl.com/dmqve)
 > 
 	
->   * [Novell bugzilla](http://alturl.com/qaq5)
+>   * [Novell bugzilla](//alturl.com/qaq5)
 > 
 	
->   * [OOo issuezilla](http://qa.openoffice.org/issues/query.cgi)
+>   * [OOo issuezilla](//qa.openoffice.org/issues/query.cgi)
 > 
 
 
@@ -2180,7 +2180,7 @@ openSUSE-specific bugs in the meantime…</blockquote>
 
 
 	
-  * [Packman](http://packman.links2linux.de/rdf/packman_en.rdf)
+  * [Packman](//packman.links2linux.de/rdf/packman_en.rdf)
 
 	
   * [openSUSE Build
@@ -2220,7 +2220,7 @@ Service](https://hermes.opensuse.org/feeds/66367.rdf)
 
 
 To view the security announcements in full, or to receive them
-as soon as they're released, refer to the [openSUSE Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 
 
@@ -2262,7 +2262,7 @@ as soon as they're released, refer to the [openSUSE Security Announce](http://li
 > 
 
 **[h-online/Thorsten Leemhuis: Kernel Log: Coming in 2.6.37 (Part 1) -
-Graphics](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-1-Graphics-1144218.html)**
+Graphics](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-37-Part-1-Graphics-1144218.html)**
 
 
 > 
@@ -2272,9 +2272,9 @@ GeForce 320M, and the code for Intel graphics cores now supports the video units
 Bridge processors, which are due to be released shortly. A number of changes to the Radeon
 KMS driver should improve its performance. **
 
-Linus Torvalds [released](http://thread.gmane.org/gmane.linux.kernel/1066261) the third pre-release version of Linux 2.6.37 ten days ago and then
+Linus Torvalds [released](//thread.gmane.org/gmane.linux.kernel/1066261) the third pre-release version of Linux 2.6.37 ten days ago and then
 despite Thanksgiving and a [trip to
-Tokyo](http://thread.gmane.org/gmane.linux.kernel.pci/9946/focus%3D9947), he kept to his usual tempo and the fourth pre-release version was released two
+Tokyo](//thread.gmane.org/gmane.linux.kernel.pci/9946/focus%3D9947), he kept to his usual tempo and the fourth pre-release version was released two
 days ago.
 
 The final release of 2.6.37 will probably be in late December or early January next year.
@@ -2299,13 +2299,13 @@ primarily for bug-fixes rather than major changes, to avoid introducing further 
 > 
 
 **[Linux.com/Amanda McPherson: Our Annual Kernel Development Report: New (and Old) Faces
-](http://www.linux.com/news/featured-blogs/amanda-mcpherson/386194:our-annual-kernel-development-report-new-and-old-faces)**
+](//www.linux.com/news/featured-blogs/amanda-mcpherson/386194:our-annual-kernel-development-report-new-and-old-faces)**
 
 
 > 
 > 
 Today we are pleased to publish [annual report
-on Linux kernel development](http://www.linuxfoundation.org/docs/lf_linux_kernel_development_2010.pdf), detailing who does the work, who sponsors it and how
+on Linux kernel development](//www.linuxfoundation.org/docs/lf_linux_kernel_development_2010.pdf), detailing who does the work, who sponsors it and how
 fast the Linux kernel is growing.
 
 The paper documents how hard at work the Linux community has been. There have been 1.5
@@ -2332,9 +2332,9 @@ really do all the work on this paper. This publication is an important one as it
 glimpse into the world of kernel development. Without their knowledge of the participants and
 their technical tools to analyze the code, this analysis would not be possible. If you’re
 interested in kernel development and want to support the work of Jon, please consider buying a
-subscription at [lwn.net](http://www.lwn.net/).
+subscription at [lwn.net](//www.lwn.net/).
 
-Read more at [News and Thoughts from Inside the Linux Foundation](http://www.linux-foundation.org/weblogs/amanda/2010/12/01/our-annual-kernel-development-report-new-and-old-faces/).</blockquote>
+Read more at [News and Thoughts from Inside the Linux Foundation](//www.linux-foundation.org/weblogs/amanda/2010/12/01/our-annual-kernel-development-report-new-and-old-faces/).</blockquote>
 
 
 
@@ -2351,7 +2351,7 @@ Read more at [News and Thoughts from Inside the Linux Foundation](http://www.lin
 > 
 
 **[Arstechnika/Ryan Paul: Linux kernel: 13 million lines, over 5 patches per
-hour](http://arstechnica.com/open-source/news/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour.ars)**
+hour](//arstechnica.com/open-source/news/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour.ars)**
 
 
 > 
@@ -2437,14 +2437,14 @@ last year, which saw an average of 6.40 patches per hour. The rate declined to a
 > 
 
 **
-[Jared Ottley: Alfresco: Alfresco PDF Tool Kit – Insert PDF Action](http://jared.ottleys.net/alfresco/alfresco-alfresco-pdf-tool-kit-insert-pdf-action)
+[Jared Ottley: Alfresco: Alfresco PDF Tool Kit – Insert PDF Action](//jared.ottleys.net/alfresco/alfresco-alfresco-pdf-tool-kit-insert-pdf-action)
 **
 
 
 > 
 > 
-I’ve taken a bit of Holiday time to update the Alfresco PDF Toolkit. [Nate](http://www.unorganizedmachines.com/) has been doing an outstanding job
-adding [Watermarking](http://www.unorganizedmachines.com/site/software-and-technology/34-software-development/99-watermarking-pdf-documents-with-alfresco), [Digital Signatures](http://www.unorganizedmachines.com/site/software-and-technology/34-software-development/106-alfresco-pdf-toolkit-digital-signatures), [Encryption](http://www.unorganizedmachines.com/site/software-and-technology/34-software-development/101-encrypting-pdf-documents-with-alfresco) and cleaning up my messy code. But it was time to add a little bit
+I’ve taken a bit of Holiday time to update the Alfresco PDF Toolkit. [Nate](//www.unorganizedmachines.com/) has been doing an outstanding job
+adding [Watermarking](//www.unorganizedmachines.com/site/software-and-technology/34-software-development/99-watermarking-pdf-documents-with-alfresco), [Digital Signatures](//www.unorganizedmachines.com/site/software-and-technology/34-software-development/106-alfresco-pdf-toolkit-digital-signatures), [Encryption](//www.unorganizedmachines.com/site/software-and-technology/34-software-development/101-encrypting-pdf-documents-with-alfresco) and cleaning up my messy code. But it was time to add a little bit
 myself. So I took sometime this evening to add in one of my planned actions: Insert PDF.
 This action allows you to insert a PDF into another PDF at a specific page. This is a pretty
 straight forward action to test: From the Document Details page of the PDF you want to
@@ -2465,13 +2465,13 @@ or scripted). (...)</blockquote>
 > 
 > 
 
-**[Bruno Friedmann: GoogleEarth 6.0 running in opensuse 11.4 factory 64Bits](http://lizards.opensuse.org/2010/12/01/googleearth-6-0-running-in-opensuse-11-4-factory-64bits/)**
+**[Bruno Friedmann: GoogleEarth 6.0 running in opensuse 11.4 factory 64Bits](//lizards.opensuse.org/2010/12/01/googleearth-6-0-running-in-opensuse-11-4-factory-64bits/)**
 
 
 > 
 > 
 Sometimes we need some of those applications running under our favorite OS. If you can
-stick with [marble](http://kde.org/applications/education/marble/). So the
+stick with [marble](//kde.org/applications/education/marble/). So the
 new googleearth 6.0 version hit the street. And if like me you want to give it a try,
 there’s some tricks to make it installing under your 64bits opensuse factory. My first
 attempt just result in a nice crash … (...)</blockquote>
@@ -2491,7 +2491,7 @@ attempt just result in a nice crash … (...)</blockquote>
 > 
 
 **[Unixmen/zinovsky: Install and configure wine to Play latest windows games in
-Linux](http://www.unixmen.com/linux-tutorials/1300-install-and-configure-wine-to-play-latest-windows-games-in-linux-ubuntu-linuxmint-fedora)**
+Linux](//www.unixmen.com/linux-tutorials/1300-install-and-configure-wine-to-play-latest-windows-games-in-linux-ubuntu-linuxmint-fedora)**
 
 
 > 
@@ -2500,7 +2500,7 @@ In this post i will show you how to install latest windows applications and game
 wine in Linux. When you install wine the first time, wine will work but not all windows
 application and games will work properly because most of them need a special configuration,
 some installed dlls and libraries. There are severals opensource software based on wine like
-for example [PlayOnLinux](http://www.unixmen.com/tag/playonlinux), a great
+for example [PlayOnLinux](//www.unixmen.com/tag/playonlinux), a great
 software that can install and use windows games and applications. (...)</blockquote>
 
 
@@ -2546,7 +2546,7 @@ software that can install and use windows games and applications. (...)</blockqu
 > 
 > 
 
-**[Manu Gupta: Installing Broadcom Wireless – BCM43225 on openSUSE 11.3](http://suseware.com/blog/2010/11/28/installing-broadcom-wireless-bcm43225-opensuse-113/)**
+**[Manu Gupta: Installing Broadcom Wireless – BCM43225 on openSUSE 11.3](//suseware.com/blog/2010/11/28/installing-broadcom-wireless-bcm43225-opensuse-113/)**
 
 
 > 
@@ -2568,7 +2568,7 @@ Again I am with a blog post, this time I am troubleshooting the Broadcom driver,
 > 
 > 
 
-**[Jared Ottley: Alfresco: Simple File Diff](http://feeds.ottleys.net/~r/jaredottley/~3/FvOzTp4RrCY/alfresco-simple-file-diff)**
+**[Jared Ottley: Alfresco: Simple File Diff](//feeds.ottleys.net/~r/jaredottley/~3/FvOzTp4RrCY/alfresco-simple-file-diff)**
 
 
 > 
@@ -2636,7 +2636,7 @@ take that as a separate sick day project (or accept any code contributions to ad
 > 
 
 **[Jos Poortvliet:
-catching up](http://nowwhatthe.blogspot.com/2010/11/catching-up.html)**
+catching up](//nowwhatthe.blogspot.com/2010/11/catching-up.html)**
 
 
 > 
@@ -2673,7 +2673,7 @@ end, it's all working reasonably well now, albeit a bit slower than KMail1.x. Ya
 > 
 > 
 
-**[Wolfgang Rosenauer: community powered long term support for openSUSE?](http://www.rosenauer.org/blog/2010/11/30/community-powered-long-term-support-for-opensuse/)**
+**[Wolfgang Rosenauer: community powered long term support for openSUSE?](//www.rosenauer.org/blog/2010/11/30/community-powered-long-term-support-for-opensuse/)**
 
 
 > 
@@ -2710,16 +2710,16 @@ critical part and therefore my proposal is to try to start off with a “lightwe
 > 
 > 
 
-**[Mike McCallister: The Future of openSUSE: Looks pretty bright to me](http://metaverse.wordpress.com/2010/11/30/the-future-of-opensuse-looks-pretty-bright-to-me/)**
+**[Mike McCallister: The Future of openSUSE: Looks pretty bright to me](//metaverse.wordpress.com/2010/11/30/the-future-of-opensuse-looks-pretty-bright-to-me/)**
 
 
 > 
 > 
 I’ll be the first to tell you I am close to clueless about business trends. Anyone who’s
-ever read [my reaction to the Novell-Microsoft agreement](http://metaverse.wordpress.com/2006/11/02/suse-windows-dual-booting-to-get-easier/) can figure that out pretty quickly.
+ever read [my reaction to the Novell-Microsoft agreement](//metaverse.wordpress.com/2006/11/02/suse-windows-dual-booting-to-get-easier/) can figure that out pretty quickly.
 That said, it’s been a week since Attachmate “agreed to acquire” (amazing phrase, that)
 Novell, the parent company of the SUSE Linux products, and unquestionably a major sponsor of
-the [openSUSE community](http://www.opensuse.org).
+the [openSUSE community](//www.opensuse.org).
 
 Since then, there’s been a fair amount of activity among the openSUSE faithful:
 
@@ -2729,23 +2729,23 @@ Since then, there’s been a fair amount of activity among the openSUSE faithful
 > 
 > 
 	
->   * The community board [released this statement](http://news.opensuse.org/2010/11/22/novell-agrees-to-be-acquired-by-attachmate-corporation/) declaring (among other things) that “it’s business as
+>   * The community board [released this statement](//news.opensuse.org/2010/11/22/novell-agrees-to-be-acquired-by-attachmate-corporation/) declaring (among other things) that “it’s business as
 usual and we are continuing to work on, rather than predicting, the future of this
 project and have a lot of fun!“
 > 
 	
->   * Last Saturday was [Zombie Bug Squashing Day](http://news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/), where 10-15 volunteers combed through bugs for
+>   * Last Saturday was [Zombie Bug Squashing Day](//news.opensuse.org/2010/11/22/opensuse-bug-day-on-saturday-november-27th/), where 10-15 volunteers combed through bugs for
 v10.2, 10.3 and 11.0 still marked Open in the Bugzilla database, and[ disposed of
-something close to half of them](http://lists.opensuse.org/opensuse-project/2010-11/msg00205.html), as reported to the [opensuse-project](http://en.wikipedia.org/wiki/OpenSUSE_Project) mailing
+something close to half of them](//lists.opensuse.org/opensuse-project/2010-11/msg00205.html), as reported to the [opensuse-project](//en.wikipedia.org/wiki/OpenSUSE_Project) mailing
 list. This project may continue soon.
 > 
 	
 >   * Both the[
-openFATE feature request](http://news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/) process and the [openSUSE News](http://news.opensuse.org/) page are becoming a bit more
+openFATE feature request](//news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/) process and the [openSUSE News](//news.opensuse.org/) page are becoming a bit more
 professional, with the help of still more volunteers.
 > 
 	
->   * And maybe I’m a little too excited about this, but [Greg Kroah-Hartman](http://en.wikipedia.org/wiki/Greg_Kroah-Hartman)
+>   * And maybe I’m a little too excited about this, but [Greg Kroah-Hartman](//en.wikipedia.org/wiki/Greg_Kroah-Hartman)
 announced on Tuesday the beginning of a new “Tumbleweeds” project. Greg describes it
 like this:
 
@@ -2782,13 +2782,13 @@ corporate sponsor? Add a comment here.</blockquote>
 > 
 
 **[Klaas Freitag: Hermes
-Work](http://lizards.opensuse.org/2010/12/01/hermes-work/)**
+Work](//lizards.opensuse.org/2010/12/01/hermes-work/)**
 
 
 > 
 > 
 Not every day is a sunshine day, also not in software development. This is my credo about
-the last few days which I spent debugging [Hermes](http://en.opensuse.org/openSUSE:Hermes) a bit, motivated by a [kind bug](https://bugzilla.novell.com/show_bug.cgi?id=630725) report saying
+the last few days which I spent debugging [Hermes](//en.opensuse.org/openSUSE:Hermes) a bit, motivated by a [kind bug](https://bugzilla.novell.com/show_bug.cgi?id=630725) report saying
 basically that the digest mails suck. Well, I had to kind of agree on that, so I revisited
 that topic.
 
@@ -2820,7 +2820,7 @@ the problem, share your misfortune. A few question can guide you to the right pa
 did not see before. Not new? Well, yes, of course we knew that already from other topics in
 live, talking helps ;-)
 
-The other suggestion I wanted to make: Check Hermes digests! Go to the [Hermes Subscription Page](http://hermes.opensuse.org) and change one of your
+The other suggestion I wanted to make: Check Hermes digests! Go to the [Hermes Subscription Page](//hermes.opensuse.org) and change one of your
 subscriptions to digest mode, will be fun. Let me know what you think.</blockquote>
 
 
@@ -2838,7 +2838,7 @@ subscriptions to digest mode, will be fun. Let me know what you think.</blockquo
 > 
 
 **[Sirko Kemter: openSUSE pic
-paste](http://karl-tux-stadt.de/ktuxs/?p=2925)**
+paste](//karl-tux-stadt.de/ktuxs/?p=2925)**
 
 
 > 
@@ -2847,9 +2847,9 @@ As some of you know, we have our own paste service – susepaste.org. Miska is r
 for that service and some time ago we had a little conversation, that for me and the other
 artists is more useful to pasting pictures. But not only for us, some times is a screenshot
 helpful for others too. So Miska take care of my feature wish and implemented pasting of
-pictures. He wrote already a [blogpost](http://michal.hrusecky.net/index.php/blog/show/Pasting-images.html)
+pictures. He wrote already a [blogpost](//michal.hrusecky.net/index.php/blog/show/Pasting-images.html)
 for it. You can use the picture pasting if you select “Image File” at susepast or go directly
-to http://img.susepaste.org. So nothing new until yet, why then a blogpost again. Its simple
+to //img.susepaste.org. So nothing new until yet, why then a blogpost again. Its simple
 today, I tried to use the service and failed. I simple did a screenshot and tried to paste it,
 and the service told me, its only allowed to past images not bigger then 300k. A simple
 screenshot, depending from the resolution is bigger as that. So I spoke with Miska again, the
@@ -2902,12 +2902,12 @@ something like that. So now it works really fine for me, thx to Miska.</blockquo
 > 
 > 
 
-**[KDE4 4.6 beta 1 Released](http://forums.opensuse.org/english/news/tech-news/450348-re-kde4-6-beta-1-released-new-post.html)**
+**[KDE4 4.6 beta 1 Released](//forums.opensuse.org/english/news/tech-news/450348-re-kde4-6-beta-1-released-new-post.html)**
 
 
 > 
 > 
-On the 25th of december [the KDE Team](http://kde.org) released beta 1 for KDE4 4.6. Read how users discuss the news, their first experiences with this beta release.</blockquote>
+On the 25th of december [the KDE Team](//kde.org) released beta 1 for KDE4 4.6. Read how users discuss the news, their first experiences with this beta release.</blockquote>
 
 
 
@@ -2923,7 +2923,7 @@ On the 25th of december [the KDE Team](http://kde.org) released beta 1 for KDE4 
 > 
 > 
 
-**[Can't login, file-system is full ](http://forums.opensuse.org/english/get-help-here/install-boot-login/450335-cant-log-file-system-full.html)**
+**[Can't login, file-system is full ](//forums.opensuse.org/english/get-help-here/install-boot-login/450335-cant-log-file-system-full.html)**
 
 
 > 
@@ -2944,7 +2944,7 @@ Here's a user having trouble to logon to his system, because his root file syste
 > 
 > 
 
-**[Best driver for Intel Core i3 integrated graphics](http://forums.opensuse.org/english/get-help-here/hardware/450339-best-driver-intel-core-i3-integrated-graphics.html)**
+**[Best driver for Intel Core i3 integrated graphics](//forums.opensuse.org/english/get-help-here/hardware/450339-best-driver-intel-core-i3-integrated-graphics.html)**
 
 
 > 
@@ -2966,12 +2966,12 @@ integrated graphics chip.</blockquote>
 > 
 > 
 
-**This week's subforum: [Programming and Scripting](http://forums.opensuse.org/english/development/programming-scripting/)**
+**This week's subforum: [Programming and Scripting](//forums.opensuse.org/english/development/programming-scripting/)**
 
 
 > 
 > 
-Many users of the [openSUSE Forums](http://forums.opensuse.org) are also involved in programming and scripting, in various kinds of projects. This subforum provides a place where they can discuss,
+Many users of the [openSUSE Forums](//forums.opensuse.org) are also involved in programming and scripting, in various kinds of projects. This subforum provides a place where they can discuss,
 help eachother. If one reads or searches the threads, tons of shared knowledge become available. Help is provided, approaches and techniques discussed. A very useful subforum for starters in the world of programming and scripting too.</blockquote>
 
 
@@ -3044,14 +3044,14 @@ help eachother. If one reads or searches the threads, tons of shared knowledge b
 > 
 
 **[KDE News: Search this site: December Updates Further Stabilize KDE's 4.5
-Series](http://dot.kde.org/2010/12/02/december-updates-stabilize-kde-45-further)**
+Series](//dot.kde.org/2010/12/02/december-updates-stabilize-kde-45-further)**
 
 
 > 
 > 
-As of today, the latest release in KDE's 4.5 series is [4.5.4](http://kde.org/announcements/announce-4.5.4.php), which adds a bunch of
+As of today, the latest release in KDE's 4.5 series is [4.5.4](//kde.org/announcements/announce-4.5.4.php), which adds a bunch of
 stabilization and translation updates on top of 4.5. Users in general are encouraged to
-upgrade to 4.5.4. The [changelog](http://www.kde.org/announcements/changelogs/changelog4_5_3to4_5_4.php) has more details about some of the changes that went into this release.
+upgrade to 4.5.4. The [changelog](//www.kde.org/announcements/changelogs/changelog4_5_3to4_5_4.php) has more details about some of the changes that went into this release.
 Enjoy upgrading!</blockquote>
 
 
@@ -3098,7 +3098,7 @@ Enjoy upgrading!</blockquote>
 > 
 
 **
-[ Linux Planet/Sean Michael Kerner: Yes, Novell Owns Unix-Unix Ownership Settled](http://www.linuxplanet.com/linuxplanet/reports/7233/1/)**
+[ Linux Planet/Sean Michael Kerner: Yes, Novell Owns Unix-Unix Ownership Settled](//www.linuxplanet.com/linuxplanet/reports/7233/1/)**
 
 
 > 
@@ -3125,7 +3125,7 @@ not be selling Unix as part of the patent sale.</blockquote>
 > 
 > 
 
-**[Datamation/Bruce Byfield Seven Improvements Needed in KDE](http://itmanagement.earthweb.com/osrc/article.php/3914701/Seven-Improvements-Needed-in-KDE.htm)**
+**[Datamation/Bruce Byfield Seven Improvements Needed in KDE](//itmanagement.earthweb.com/osrc/article.php/3914701/Seven-Improvements-Needed-in-KDE.htm)**
 
 
 > 
@@ -3151,7 +3151,7 @@ I complained about its shortcomings, in 2008.</blockquote>
 > 
 > 
 
-**[Neowin/Brandon Boyce: A history of viruses on Linux](http://www.neowin.net/news/a-history-of-viruses-on-linux)**
+**[Neowin/Brandon Boyce: A history of viruses on Linux](//www.neowin.net/news/a-history-of-viruses-on-linux)**
 
 
 > 
@@ -3178,18 +3178,18 @@ F-Prot.</blockquote>
 > 
 > 
 
-**[ostatic/Susan Linton: openSUSE to Offer a Rolling Release Repo](http://ostatic.com/blog/opensuse-to-offer-a-rolling-release-repo)**
+**[ostatic/Susan Linton: openSUSE to Offer a Rolling Release Repo](//ostatic.com/blog/opensuse-to-offer-a-rolling-release-repo)**
 
 
 > 
 > 
-Although news of [Ubuntu's switch](http://ostatic.com/blog/ubuntu-to-become-a-rolling-release) to rolling release was denied, it seems another distribution
+Although news of [Ubuntu's switch](//ostatic.com/blog/ubuntu-to-become-a-rolling-release) to rolling release was denied, it seems another distribution
 thinks it just may be a good idea. Greg Kroah-Hartman, openSUSE kernel developer, today
 announced "openSUSE Tumbleweed."
 
 Greg K-H, as he is commonly known, described openSUSE Tumbleweed as, "a repo that is a
 rolling updated version of openSUSE containing the latest "stable" versions of packages for
-people to use." In a [post](http://lists.opensuse.org/opensuse-project/2010-11/msg00206.html) to the
+people to use." In a [post](//lists.opensuse.org/opensuse-project/2010-11/msg00206.html) to the
 opensuse-project mailing list Kroah-Hartman offered further information in the form of a Q
 & A (EDITMARK).</blockquote>
 
@@ -3207,23 +3207,23 @@ opensuse-project mailing list Kroah-Hartman offered further information in the f
 > 
 > 
 
-**[h-online/Free Linux client released for Ryzom MMORPG game](http://rss.feedsportal.com/c/32569/f/491734/s/102d97fd/l/0L0Sh0Eonline0N0Copen0Cnews0Citem0CFree0ELinux0Eclient0Ereleased0Efor0ERyzom0EMMORPG0Egame0E11453560Bhtml0Cfrom0Crss/story01.htm)**
+**[h-online/Free Linux client released for Ryzom MMORPG game](//rss.feedsportal.com/c/32569/f/491734/s/102d97fd/l/0L0Sh0Eonline0N0Copen0Cnews0Citem0CFree0ELinux0Eclient0Ereleased0Efor0ERyzom0EMMORPG0Egame0E11453560Bhtml0Cfrom0Crss/story01.htm)**
 
 
 > 
 > 
-A free Linux client for the[ Ryzom](http://www.ryzom.com/)
-[massively multi-player online role-laying game](http://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) (MMORPG) is now available for
-[downloading](http://dev.ryzom.com/wiki/ryzom/OfficialRyzomClientLinux).
+A free Linux client for the[ Ryzom](//www.ryzom.com/)
+[massively multi-player online role-laying game](//en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) (MMORPG) is now available for
+[downloading](//dev.ryzom.com/wiki/ryzom/OfficialRyzomClientLinux).
 The program's development was supported by the [Free
-Software Foundation](http://www.fsf.org/) after games vendor Winch Gate released the source code of the
-server and Windows client under the [Affero General Public Licence](http://www.gnu.org/licenses/agpl-3.0.html) back in May.
+Software Foundation](//www.fsf.org/) after games vendor Winch Gate released the source code of the
+server and Windows client under the [Affero General Public Licence](//www.gnu.org/licenses/agpl-3.0.html) back in May.
 
 Winch Gate says it hopes that as many gamers as possible will try out the Linux client,
 which is available to download in binary and in source code form, and has launched an
 in-game contest as an incentive. The contest will close on the 10th of January. Participants
 who manage to find all seven Linux Steles that are scattered around the start island of
-Silan will be entered in a draw for a [ZaReason Linux Terra-HD Netbook](http://zareason.com/shop/Terra-HD.html) worth $450 (£289) or its equivalent in
+Silan will be entered in a draw for a [ZaReason Linux Terra-HD Netbook](//zareason.com/shop/Terra-HD.html) worth $450 (£289) or its equivalent in
 cash.</blockquote>
 
 
@@ -3240,13 +3240,13 @@ cash.</blockquote>
 > 
 > 
 
-**[h-online/Mozilla: Firefox 4 Beta 8 coming next Tuesday](http://www.h-online.com/open/news/item/Mozilla-Firefox-4-Beta-8-coming-next-Tuesday-1145550.html)**
+**[h-online/Mozilla: Firefox 4 Beta 8 coming next Tuesday](//www.h-online.com/open/news/item/Mozilla-Firefox-4-Beta-8-coming-next-Tuesday-1145550.html)**
 
 
 > 
 > 
 Originally [scheduled](https://wiki.mozilla.org/Releases) to arrive on
-the 30th of November, the [Mozilla](http://www.mozilla.org/) Project has
+the 30th of November, the [Mozilla](//www.mozilla.org/) Project has
 confirmed that it plans to ship the eighth beta for version 4 of its open source Firefox web
 browser on Tuesday, the 7th of December. According to Mozilla's [Platform Meeting Minutes](https://wiki.mozilla.org/Platform/2010-11-23), the
 developers criteria for release for [Firefox 4 Beta 8](https://wiki.mozilla.org/Releases/Firefox_4.0b8) is "no
@@ -3272,19 +3272,19 @@ this writing, that number is [now
 > 
 > 
 
-**[h-online/Flock 3.5 social web browser arrives](http://www.h-online.com/open/news/item/Flock-3-5-social-web-browser-arrives-1145337.html)**
+**[h-online/Flock 3.5 social web browser arrives](//www.h-online.com/open/news/item/Flock-3-5-social-web-browser-arrives-1145337.html)**
 
 
 > 
 > 
-The [Flock](http://www.flock.com/) developers have [announced](http://twitter.com/Flock/status/9650158010638336) the release of
+The [Flock](//www.flock.com/) developers have [announced](//twitter.com/Flock/status/9650158010638336) the release of
 version 3.5 of their social web browser based on Google's open source Chromium platform –
 versions previous to the 3.x branch were based on Firefox. Flock is a popular cross-platform
 browser that automatically manages updates and media from several popular social services,
 including MySpace, Facebook, Bebo, Digg, YouTube and Twitter.
 
 Flock 3.5 is based on the 7.x branch of Chromium and features updates to new account
-creation, as well as support for the business-oriented [LinkedIn](http://www.linkedin.com/) social networking site. Also new in this version is support for Mac OS X
+creation, as well as support for the business-oriented [LinkedIn](//www.linkedin.com/) social networking site. Also new in this version is support for Mac OS X
 – the previous version (3.0) was only available for Windows systems. Version 2.6.1 still
 seems to be available for Linux users, but Flock does not promote or support it.
 (...)</blockquote>
@@ -3326,18 +3326,18 @@ seems to be available for Linux users, but Flock does not promote or support it.
 
 
 Do you have comments on any of the things mentioned in this
-article? Then head right over to the [comment section](http://news.opensuse.org/?p=5763) and
+article? Then head right over to the [comment section](//news.opensuse.org/?p=5763) and
 let us know!
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then check out our team page
 and join!
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels).
+mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels).
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
 
 
@@ -3377,7 +3377,7 @@ openSUSE Weekly News is translated into many languages. Issue
 
 
 	
-  * [English](http://news.opensuse.org/categories/weekly-news/)
+  * [English](//news.opensuse.org/categories/weekly-news/)
 
 
 
@@ -3391,13 +3391,13 @@ Coming soon:
 
 
 	
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/152)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/152)
 
 	
-  * [Greek](http://el.opensuse.org/Weekly_news_152)
+  * [Greek](//el.opensuse.org/Weekly_news_152)
 
 	
-  * [German](http://de.opensuse.org/OpenSUSE-Wochenschau/152)
+  * [German](//de.opensuse.org/OpenSUSE-Wochenschau/152)
 
 
 

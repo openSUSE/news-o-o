@@ -12,4 +12,4 @@ categories:
 - Project
 ---
 
-The openSUSE survey results are now online. The survey was live for almost 3 months and more than 27,000 user participated and gave us feeback how they use openSUSE what's important for them etc. The results are now available [here ](http://en.opensuse.org/UX#Explore_user_experiences). And in order to get hired in the information technology department, an ibm midrange storage sales v3 exam students has to earn a spot by proving his worth [essay online of https://essayclick.net](https://essayclick.net/) at the c9020-560 ibm certified specialist exam
+The openSUSE survey results are now online. The survey was live for almost 3 months and more than 27,000 user participated and gave us feeback how they use openSUSE what's important for them etc. The results are now available [here ](//en.opensuse.org/UX#Explore_user_experiences). And in order to get hired in the information technology department, an ibm midrange storage sales v3 exam students has to earn a spot by proving his worth [essay online of https://essayclick.net](https://essayclick.net/) at the c9020-560 ibm certified specialist exam

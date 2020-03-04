@@ -9,6 +9,6 @@ title: Google Summer of Code Student Implementing Payment Feature
 wordpress_id: 19930
 ---
 
-Embedded below is the blog of Google Summer of Code student [ Rishabh Saxena](https://gsocwithopensuse.wordpress.com/about/). Rishabh is assisting with [openSUSE's](https://www.opensuse.org/) [Open Source Event Management](http://osem.io/) during the [Google Summer of Code](https://summerofcode.withgoogle.com/).
+Embedded below is the blog of Google Summer of Code student [ Rishabh Saxena](https://gsocwithopensuse.wordpress.com/about/). Rishabh is assisting with [openSUSE's](https://www.opensuse.org/) [Open Source Event Management](//osem.io/) during the [Google Summer of Code](https://summerofcode.withgoogle.com/).
 
 

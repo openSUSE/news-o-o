@@ -50,7 +50,7 @@ This week we travel back to the main center of the openSUSE development, Nürnbe
 <td >**Homepage: **
 </td>
 
-<td >[http://nordisch.org/](http://nordisch.org/)
+<td >[//nordisch.org/](//nordisch.org/)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ This week we travel back to the main center of the openSUSE development, Nürnbe
 <td >**Blog:**
 </td>
 
-<td >[http://nordisch.org/](http://nordisch.org/) - but I am lazy when it comes to posting.
+<td >[//nordisch.org/](//nordisch.org/) - but I am lazy when it comes to posting.
 </td>
 
 <td >
@@ -131,7 +131,7 @@ I was born in Wismar. After studying in Rostock for a while I got the offer to w
 #### Tell us about the background to your computer use.
 
 
-I started with a [KC85/4](http://en.wikipedia.org/wiki/KC85). I got my own one at home. Used it for playing with my brothers and sisters and a bit basic programming. At some point it broke and as the GDR gone as well it was hard to repair it. So I had a few years without an own computer, but I helped my friends with their PC problems anyway. In 1994 I got my own PC (dx4/100). It got OS/2 on it. But I quickly killed that one for Win95. I tried to install some Slackware version on it but it failed horribly. So I sticked to Windows NT for a while.
+I started with a [KC85/4](//en.wikipedia.org/wiki/KC85). I got my own one at home. Used it for playing with my brothers and sisters and a bit basic programming. At some point it broke and as the GDR gone as well it was hard to repair it. So I had a few years without an own computer, but I helped my friends with their PC problems anyway. In 1994 I got my own PC (dx4/100). It got OS/2 on it. But I quickly killed that one for Win95. I tried to install some Slackware version on it but it failed horribly. So I sticked to Windows NT for a while.
 
 
 
@@ -183,7 +183,7 @@ Fun. And seeing the project evolving and growing.
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-[http://users.opensuse.org/](http://users.opensuse.org/)
+[//users.opensuse.org/](//users.opensuse.org/)
 
 
 

@@ -19,15 +19,15 @@ openSUSE 12.3 introduced the 32bit ARMv7 architecture as new, fully supported ar
 
 [caption id="attachment_15783" align="alignright" width="300"]![openSUSE booting on aarch64](//news.opensuse.org/wp-content/uploads/2013/04/openSUSE-on-aarch64.png) openSUSE booting on aarch64[/caption]
 
-Right now, the most ubiquitous family of 32bit processors is the RISC-based [ARM architecture](http://en.wikipedia.org/wiki/ARM_architecture). In 2010 alone, 6.1 billion ARM based CPU’s, representing 95% of smart phones, 35% of televisions and set-top boxes and 10% of mobile computers, were shipped to customers. ARM is slowly going 'up' the computer scale, reaching into the laptop market with for example the [Samsung Chromebook](https://news.opensuse.org/2013/01/08/opening-the-can-initial-support-for-opensuse-on-the-arm-chromebook/). But the 32 bit architecture is reaching its limits. The latest generation of Cortex A15 cores can address up to 1 Terabyte of RAM, but individual applications are limited to a 32-bit address space. This means they can not use more than 4 GB of RAM (actually only 3 GB in userspace) at the same time. Although the Cortex A15 has an impressive performance for a mobile chip, this address space limits it and isn't impressing anyone in the x86 world.
+Right now, the most ubiquitous family of 32bit processors is the RISC-based [ARM architecture](//en.wikipedia.org/wiki/ARM_architecture). In 2010 alone, 6.1 billion ARM based CPU’s, representing 95% of smart phones, 35% of televisions and set-top boxes and 10% of mobile computers, were shipped to customers. ARM is slowly going 'up' the computer scale, reaching into the laptop market with for example the [Samsung Chromebook](https://news.opensuse.org/2013/01/08/opening-the-can-initial-support-for-opensuse-on-the-arm-chromebook/). But the 32 bit architecture is reaching its limits. The latest generation of Cortex A15 cores can address up to 1 Terabyte of RAM, but individual applications are limited to a 32-bit address space. This means they can not use more than 4 GB of RAM (actually only 3 GB in userspace) at the same time. Although the Cortex A15 has an impressive performance for a mobile chip, this address space limits it and isn't impressing anyone in the x86 world.
 
 
 ### AArch64 and ARMv8
 
 
-The 64 bit ARM architecture, AArch64, [aims to change that](http://www.realworldtech.com/arm64/). This will be the ARM architecture for the future. [Coming in 2014](http://mashable.com/2012/10/30/arm-64-bit-processors/), a variety of manufacturers will begin to deliver the brand new CPUs based on 64-bit A57 (performance) and A53 (efficiency) cores. While the A53 is meant to deliver Cortex A15 level performance at a lower power level, the A57 promises a big performance leap over the previous generation and scalability beyond 16 cores on a single die. It should be clear that this core is ready for a market which today is dominated by x86 CPU's from Intel: the server space!
+The 64 bit ARM architecture, AArch64, [aims to change that](//www.realworldtech.com/arm64/). This will be the ARM architecture for the future. [Coming in 2014](//mashable.com/2012/10/30/arm-64-bit-processors/), a variety of manufacturers will begin to deliver the brand new CPUs based on 64-bit A57 (performance) and A53 (efficiency) cores. While the A53 is meant to deliver Cortex A15 level performance at a lower power level, the A57 promises a big performance leap over the previous generation and scalability beyond 16 cores on a single die. It should be clear that this core is ready for a market which today is dominated by x86 CPU's from Intel: the server space!
 
-AArch64 comes in the new ARMv8 SoCs. These can usually (but not as a rule) also execute AArch32, a compatibility mode for the current ARMv7 32-bit architecture, see [the ARMv8 architecture information page from ARM](http://www.arm.com/products/processors/armv8-architecture.php) for more information. The new ARMv8-A delivers:
+AArch64 comes in the new ARMv8 SoCs. These can usually (but not as a rule) also execute AArch32, a compatibility mode for the current ARMv7 32-bit architecture, see [the ARMv8 architecture information page from ARM](//www.arm.com/products/processors/armv8-architecture.php) for more information. The new ARMv8-A delivers:
 
 
 
@@ -59,11 +59,11 @@ With openSUSE 12.3 out of the door, it is time to stabilize the ARM side of thin
 ### Speeding up building of ARMv7
 
 
-Technical collaboration with Samsung has resulted in additional build power for the [Open Build Service](http://openbuildservice.org), speeding up the building of ARM packages and leading to a faster development cycle. We've deployed a large number of [Arndale boards](http://www.arndaleboard.org/wiki/index.php/Main_Page) replacing QEMU guests on x86 hardware, with KVM on Samsung Exynos5 Cortex-A15 chips.
+Technical collaboration with Samsung has resulted in additional build power for the [Open Build Service](//openbuildservice.org), speeding up the building of ARM packages and leading to a faster development cycle. We've deployed a large number of [Arndale boards](//www.arndaleboard.org/wiki/index.php/Main_Page) replacing QEMU guests on x86 hardware, with KVM on Samsung Exynos5 Cortex-A15 chips.
 
 ARM development is limited by available build resources required for compiling each iteration of new software and while the OBS helps by bringing a lot of build power in one place, the use of QEMU meant that build resources were shared with native x86_64 builds, which turned out to be a performance limitation. With fast and dedicated ARM hardware we can reserve build power for ARM builds and make use of the more efficient KVM virtualization.
 
-That actually also makes us extremely cool: **we have on [build.opensuse.org](http://build.opensuse.org) the first and largest real world deployment of KVM on ARM**!
+That actually also makes us extremely cool: **we have on [build.opensuse.org](//build.opensuse.org) the first and largest real world deployment of KVM on ARM**!
 
 [caption id="attachment_15797" align="aligncenter" width="690"]![One of the new Arndale clusters getting ready to be deployed into the OBS](//news.opensuse.org/wp-content/uploads/2013/04/arndalecluster.jpg) One of the new Arndale clusters getting ready to be deployed into the OBS[/caption]
 
@@ -84,33 +84,33 @@ The ecosystem on ARM is a large and vibrant one, as such openSUSE had to decide 
 _(Image by Calxeda)_[/caption]
 
 **Calxeda Highbank**
-Probably the most exciting images are those for _highbank_, the codename for one of [Calxeda's ECX-1000 series](http://www.calxeda.com/technology/products/processors/ecx-1000-series/) SoC systems. This SoC, a _Server on Chip_ as Calxeda calls it, is one of the most promising 32bit ARM boards for the server space and the openSUSE team is looking forward to feedback from users of this hardware.
+Probably the most exciting images are those for _highbank_, the codename for one of [Calxeda's ECX-1000 series](//www.calxeda.com/technology/products/processors/ecx-1000-series/) SoC systems. This SoC, a _Server on Chip_ as Calxeda calls it, is one of the most promising 32bit ARM boards for the server space and the openSUSE team is looking forward to feedback from users of this hardware.
 
 **TI OMAP3**
-Both the [original Beagleboard and the newer Beagleboard xM](”http://elinux.org/BeagleBoard/”) are enabled, with both an XFCE based graphical image and a JeOS based minimal command line image.
+Both the [original Beagleboard and the newer Beagleboard xM](”//elinux.org/BeagleBoard/”) are enabled, with both an XFCE based graphical image and a JeOS based minimal command line image.
 
 **TI OMAP4**
-Both the [original Pandaboard and the newer Pandaboard ES](”http://pandaboard.org/content/platform”) are enabled, with both an XFCE based graphical image and a JeOS based minimal command line image.
+Both the [original Pandaboard and the newer Pandaboard ES](”//pandaboard.org/content/platform”) are enabled, with both an XFCE based graphical image and a JeOS based minimal command line image.
 
 **Samsung Exynos4**
-The [Origen Exynos4Dual board ](”http://www.origenboard.org/wiki/index.php/WiKi#Samsung_Exynos_4210_Origen_Dual_Board”) is enabled, with both an XFCE based graphical image and a JeOS based minimal command line image.
+The [Origen Exynos4Dual board ](”//www.origenboard.org/wiki/index.php/WiKi#Samsung_Exynos_4210_Origen_Dual_Board”) is enabled, with both an XFCE based graphical image and a JeOS based minimal command line image.
 
 **Samsung Exynos5**
-The [Arndale board](”http://www.arndaleboard.org/wiki/index.php/Main_Page”) is enabled with a JeOS based minimal command line image which has support for KVM built in.
+The [Arndale board](”//www.arndaleboard.org/wiki/index.php/Main_Page”) is enabled with a JeOS based minimal command line image which has support for KVM built in.
 [gallery ids="15786,15841,15790"]
 
 **Series3 Chromebook**
-The [Samsung Series3 Chromebook](”http://www.samsung.com/uk/consumer/pc-peripherals/chrome-devices/chrome-devices/XE303C12-A01UK”) is enabled with an XFCE based graphical image.
+The [Samsung Series3 Chromebook](”//www.samsung.com/uk/consumer/pc-peripherals/chrome-devices/chrome-devices/XE303C12-A01UK”) is enabled with an XFCE based graphical image.
 
 **Marvel Armada 510**
-The Solid-Run [Cubox](”http://solid-run.com/cubox”) is supported with a JeOS based minimal command line image.
+The Solid-Run [Cubox](”//solid-run.com/cubox”) is supported with a JeOS based minimal command line image.
 
 **Freescale iMX51**
-The Genesi [EfikaMX Smarttop](”http://www.genesi-tech.com/products/efika”) is enabled with a JeOS based minimal command line image. An additional serial connector will be required as currently USB and graphics support is missing upstream.
+The Genesi [EfikaMX Smarttop](”//www.genesi-tech.com/products/efika”) is enabled with a JeOS based minimal command line image. An additional serial connector will be required as currently USB and graphics support is missing upstream.
 [gallery ids="15793,15794,15795"]
 
 **Freescale iMX53**
-The [Freescale IMX53QSB](”http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=IMX53QSB&tid=vanIMXQUICKSTART”) is enabled with a JeOS based minimal command line image.
+The [Freescale IMX53QSB](”//www.freescale.com/webapp/sps/site/prod_summary.jsp?code=IMX53QSB&tid=vanIMXQUICKSTART”) is enabled with a JeOS based minimal command line image.
 
 **Broadcom BCM2835**
 **update:**As the Raspberry Pi is a ARMv6 chip, it is not supported, sorry...**
@@ -124,13 +124,13 @@ For those that have hardware that isn’t currently enabled by openSUSE, a root 
 ### Getting openSUSE for ARMv7
 
 
-For more information on how to get involved with openSUSE on ARM please see the [ARM Portal](”http://en.opensuse.org/Portal:ARM”).
+For more information on how to get involved with openSUSE on ARM please see the [ARM Portal](”//en.opensuse.org/Portal:ARM”).
 
 
 ## Status of openSUSE 12.3 for ARM 64bit
 
 
-As also announced with openSUSE 12.3, there are images for openSUSE 12.3 available for AArch64. These are of an experimental nature - we don't continuously update them and are very interested in feedback about them. We provide over 5700 packages readily built for AArch64, which means openSUSE currently provides the biggest software pool for AArch64, including Java, Python, Perl, PHP and related packages. All builds are done on [ARM’s Foundation Model](http://www.arm.com/products/tools/models/fast-models/foundation-model.php), which provides a system emulation on x86_64 Linux systems, however not in the most performing way.
+As also announced with openSUSE 12.3, there are images for openSUSE 12.3 available for AArch64. These are of an experimental nature - we don't continuously update them and are very interested in feedback about them. We provide over 5700 packages readily built for AArch64, which means openSUSE currently provides the biggest software pool for AArch64, including Java, Python, Perl, PHP and related packages. All builds are done on [ARM’s Foundation Model](//www.arm.com/products/tools/models/fast-models/foundation-model.php), which provides a system emulation on x86_64 Linux systems, however not in the most performing way.
 
 SUSE has temporarily assigned some significant internal computing resources to the ARM compile jobs, allowing the team to massively parallelize and automate the builds within the Open Build Service for all the packages and finish an initial build within a few weeks. Since then, a team of contributors is working on continuously fixing portability issues and enabling new packages to be built.
 
@@ -138,4 +138,4 @@ SUSE has temporarily assigned some significant internal computing resources to t
 ## Conclusion
 
 
-All in all, as you can see, the Geeko ARMies march forward. There is massive progress on 32Bit hardware support while openSUSE packages for 64 bit are readied for wider consumption and there is no sign of slowing down thanks to additional hardware for ARM specific and soon for [the Open Build Server in general](https://news.opensuse.org/2013/04/08/a-gust-of-fresh-build-power-suse-sponsors-new-hardware-for-the-open-build-service/). If you want to be part of this ARMed revolution, check out the [ARM Portal](http://en.opensuse.org/Portal:ARM) and join us on IRC in the [#openSUSE-ARM channel on Freenode](irc://freenode.net/#opensuse-arm)!
+All in all, as you can see, the Geeko ARMies march forward. There is massive progress on 32Bit hardware support while openSUSE packages for 64 bit are readied for wider consumption and there is no sign of slowing down thanks to additional hardware for ARM specific and soon for [the Open Build Server in general](https://news.opensuse.org/2013/04/08/a-gust-of-fresh-build-power-suse-sponsors-new-hardware-for-the-open-build-service/). If you want to be part of this ARMed revolution, check out the [ARM Portal](//en.opensuse.org/Portal:ARM) and join us on IRC in the [#openSUSE-ARM channel on Freenode](irc://freenode.net/#opensuse-arm)!

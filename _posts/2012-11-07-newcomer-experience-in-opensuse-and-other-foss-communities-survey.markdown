@@ -58,6 +58,6 @@ The survey is available at [this site](https://limesurvey.sim.vuw.ac.nz/index.ph
 It will be available until Tuesday, 20 November, 2012.
 
 If you know members of the openSUSE community who you think would be interested in completing it, please do not hesitate to let them know about this research.
-I will post news about my progress with this research, and [the results on my blog](http://kevincarillo.org). Don't hesitate to contact me [by mail](mailto:kevin.carillo-at-vuw.ac.nz).
+I will post news about my progress with this research, and [the results on my blog](//kevincarillo.org). Don't hesitate to contact me [by mail](mailto:kevin.carillo-at-vuw.ac.nz).
 
 Thanks for participating!

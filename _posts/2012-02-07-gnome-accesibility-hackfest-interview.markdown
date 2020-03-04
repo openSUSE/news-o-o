@@ -11,10 +11,10 @@ categories:
 - Events
 ---
 
-A few weeks ago in A Coruña, Spain a [Hackfest](https://live.gnome.org/Hackfests/ATK2011) around [GNOME Accessibility](http://www.gnome.org/news/2012/01/hackfest-plans-to-improve-gnome-accessibility/) took place hosted by [Igalia](http://www.igalia.com/) . openSUSE found the opportunity to make some questions to the people involved and then learn a bit more about this interesting Project. Our interviewers were Alejandro Piñeiro Iglesias, Joanmarie Diggs and Juanjo Marín.
+A few weeks ago in A Coruña, Spain a [Hackfest](https://live.gnome.org/Hackfests/ATK2011) around [GNOME Accessibility](//www.gnome.org/news/2012/01/hackfest-plans-to-improve-gnome-accessibility/) took place hosted by [Igalia](//www.igalia.com/) . openSUSE found the opportunity to make some questions to the people involved and then learn a bit more about this interesting Project. Our interviewers were Alejandro Piñeiro Iglesias, Joanmarie Diggs and Juanjo Marín.
 
 
- [![](/wp-content/uploads/2012/02/6730171039_47ceeff56d_b.jpg)](http://news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/6730171039_47ceeff56d_b/)
+ [![](/wp-content/uploads/2012/02/6730171039_47ceeff56d_b.jpg)](//news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/6730171039_47ceeff56d_b/)
 
 
 **1 - What is ATK and AT-SPI in simple words?**
@@ -42,7 +42,7 @@ Yes, in our opinion financial costs do make things more difficult for the end us
 
 
 
-**4 - How did you get involved with GNOME Accessibility? [![](/wp-content/uploads/2012/01/Gnome-Acces-logo.png)](http://news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/gnome-acces-logo/)
+**4 - How did you get involved with GNOME Accessibility? [![](/wp-content/uploads/2012/01/Gnome-Acces-logo.png)](//news.opensuse.org/2012/02/07/gnome-accesibility-hackfest-interview/gnome-acces-logo/)
 **
 
 Piñeiro: In my case it started when a former contractor asked Igalia to provide support for automatic testing. Accessibility technologies are also used to implement automatic testing (like the Mago project). As one of the outcomes of that work, I implemented a basic ATK implementation for Clutter. Then we decided that it would be useful to use that work for accessibility purposes. I contacted the Clutter maintainers to see if they would be interested. They were, so we started to include that functionality in Clutter itself. As part of that work, I began interacting with the GNOME Accessibility developer community and also attended the Boston Summit where I met Joanmarie Diggs who is one of the Orca developers.
@@ -61,7 +61,7 @@ We also get feedback from other sources. For example, when local governments wan
 
 **6 - How can someone who wants to help join forces? Do they need to have any special hardware equipment?**
 
-Anyone interested in contributing should take a look at https://live.gnome.org/Accessibility/ or http://projects.gnome.org/accessibility/. There they will find information about accessibility in GNOME, the different areas (development and non-development) in which they help, and how to get in touch with us. Having access to assistive hardware devices is not required, unless of course someone wants to provide a feature or fix based on a specific type of hardware or a particular device.
+Anyone interested in contributing should take a look at https://live.gnome.org/Accessibility/ or //projects.gnome.org/accessibility/. There they will find information about accessibility in GNOME, the different areas (development and non-development) in which they help, and how to get in touch with us. Having access to assistive hardware devices is not required, unless of course someone wants to provide a feature or fix based on a specific type of hardware or a particular device.
 
 
 
@@ -71,6 +71,6 @@ Being able to bring the free desktop accessibility developers -- a group of indi
 
 The most immediate next step is to implement solutions based on the conclusions reached during the hackfest. Beyond that, we need to keep working together to find answers and reach consensus on the questions and issues which remain unresolved.
 
-**Anyone interested in contribute can take a look at [http://projects.gnome.org/accessibility/](http://projects.gnome.org/accessibility/)**
+**Anyone interested in contribute can take a look at [//projects.gnome.org/accessibility/](//projects.gnome.org/accessibility/)**
 
 Thanks to GNOME accessibility team!

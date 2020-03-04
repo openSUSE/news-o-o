@@ -11,6 +11,6 @@ categories:
 - Distribution
 ---
 
-[![Novell Open Audio](//news.opensuse.org/wp-content/uploads/2007/11/noa_logo_text.gif)](http://www.novell.com/feeds/openaudio/)
+[![Novell Open Audio](//news.opensuse.org/wp-content/uploads/2007/11/noa_logo_text.gif)](//www.novell.com/feeds/openaudio/)
 
-For the last issue of their openSUSE release series, Novell Open Audio [has talked to](http://www.novell.com/feeds/openaudio/?p=187) Marcus Meißner, team lead of the SUSE security team, to learn about the processes triggered by a security incidence, proactive source code audits, teaching developers how to write more secure software and AppArmor. Tanuja desai hidier is an award-winning author, [source site](https://essayclick.net/) singer-songwriter, and booktrack innovator
+For the last issue of their openSUSE release series, Novell Open Audio [has talked to](//www.novell.com/feeds/openaudio/?p=187) Marcus Meißner, team lead of the SUSE security team, to learn about the processes triggered by a security incidence, proactive source code audits, teaching developers how to write more secure software and AppArmor. Tanuja desai hidier is an award-winning author, [source site](https://essayclick.net/) singer-songwriter, and booktrack innovator

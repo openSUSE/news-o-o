@@ -13,7 +13,7 @@ categories:
 - Hack Week
 ---
 
-One of the ways SUSE and its developers contribute to openSUSE is through [Hackweek](http://hackweek.opensuse.org): - a week long sprint permitting developers to work on something entirely of their own design or wishes as long as it is FOSS-related. Started in 2007, it has become a regular part of SUSE's development. This is in keeping in line with the openSUSE Project's goal of being more than just an organization that benefits itself. We believe in a project that benefits the greater good of free and open software.![SUSE Hackweek Logo](/wp-content/uploads/2011/09/Hackweek-7-logo.png)
+One of the ways SUSE and its developers contribute to openSUSE is through [Hackweek](//hackweek.opensuse.org): - a week long sprint permitting developers to work on something entirely of their own design or wishes as long as it is FOSS-related. Started in 2007, it has become a regular part of SUSE's development. This is in keeping in line with the openSUSE Project's goal of being more than just an organization that benefits itself. We believe in a project that benefits the greater good of free and open software.![SUSE Hackweek Logo](/wp-content/uploads/2011/09/Hackweek-7-logo.png)
 
 Some 150+ developers will have free reign to work on new applications or make improvements to other software projects. Hackweek also permits developers to push away from the grind of deadlines and "must fix" bug fixing (unless it's a critical customer situation) which can be at times stressful and tedious.
 

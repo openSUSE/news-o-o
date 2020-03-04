@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-Lizard lovers, get ready to start your engines! The first milestone release for openSUSE 11.2 [is now ready for your testing pleasure](http://software.opensuse.org/developer).
+Lizard lovers, get ready to start your engines! The first milestone release for openSUSE 11.2 [is now ready for your testing pleasure](//software.opensuse.org/developer).
 
 Please note: This is a milestone release. It's for openSUSE contributors who want to use the release for testing and development (or want a sneak preview of the 11.2 release), but it is not for production use.
 
@@ -48,7 +48,7 @@ The 11.2 milestone 1 includes a number of new packages and improvements to the b
 	
   * Samba 3.2.8
 
-In addition, the live CDs now use [LZMA compression](http://en.wikipedia.org/wiki/LZMA) and have German, French, Italian, Polish, and Russian translations. YaST's Qt package manager now has a configurable view layout, and Zypp's mirror handling should be more robust in this release. Ext4 is supported in this release, but not yet enabled for installation.
+In addition, the live CDs now use [LZMA compression](//en.wikipedia.org/wiki/LZMA) and have German, French, Italian, Polish, and Russian translations. YaST's Qt package manager now has a configurable view layout, and Zypp's mirror handling should be more robust in this release. Ext4 is supported in this release, but not yet enabled for installation.
 
 **Additional Features Completed for 11.2 milestone 1**
 	
@@ -73,15 +73,15 @@ In addition, the live CDs now use [LZMA compression](http://en.wikipedia.org/wik
   * [306230: Auto-Reset the screen settings in gnome-display-properties](https://features.opensuse.org/306230)
 
 
-You can track all features for 11.2 in [openFate](http://bit.ly/f5J5Y).
+You can track all features for 11.2 in [openFate](//bit.ly/f5J5Y).
 
-See more on Factory progress [on the Factory Page on the openSUSE wiki](http://en.opensuse.org/Factory/News). Screenshots are available (and can be uploaded to) [Screenshots/11.2_Alpha_0](http://en.opensuse.org/Screenshots/11.2_Alpha_0).
+See more on Factory progress [on the Factory Page on the openSUSE wiki](//en.opensuse.org/Factory/News). Screenshots are available (and can be uploaded to) [Screenshots/11.2_Alpha_0](//en.opensuse.org/Screenshots/11.2_Alpha_0).
 
 
 ## Getting Milestone 1
 
 
-The latest development versions are available from [http://software.opensuse.org/developer/](http://software.opensuse.org/developer). You can choose x86 or x86-64 DVDs or KDE and GNOME Live CDs.
+The latest development versions are available from [//software.opensuse.org/developer/](//software.opensuse.org/developer). You can choose x86 or x86-64 DVDs or KDE and GNOME Live CDs.
 
 
 ## Testing
@@ -89,4 +89,4 @@ The latest development versions are available from [http://software.opensuse.org
 
 We all want openSUSE 11.2 to be the best release yet, and we need your help to get there. Please run the release through your usual routine, and let us know about any bugs or other issues that you find. Remember that this is a milestone release, and is not suitable for use on production systems.
 
-Though many openSUSE users can and do use the Factory distribution and/or testing releases for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs. See [openSUSE.org/Testing](http://opensuse.org/Testing) for more information on Testing. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.
+Though many openSUSE users can and do use the Factory distribution and/or testing releases for day-to-day work we want to stress that it's entirely possible that you will encounter serious bugs. See [openSUSE.org/Testing](//opensuse.org/Testing) for more information on Testing. To follow the testing and development process, we suggest that you subscribe to the openSUSE-Factory mailing list, and join the #openSUSE-Factory channel on Freenode to discuss openSUSE development.

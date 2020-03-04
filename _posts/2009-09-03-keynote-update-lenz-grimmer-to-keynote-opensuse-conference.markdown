@@ -15,7 +15,7 @@ tags:
 - osc09
 ---
 
-The openSUSE Project is happy to announce that Lenz Grimmer will be delivering the opening keynote for the first-ever [openSUSE Conference](http://conference.opensuse.org/). The openSUSE Conference will be held September 17 through September 20 in Nürnberg, Germany. [Register today!](http://conference.opensuse.org/registration/)
+The openSUSE Project is happy to announce that Lenz Grimmer will be delivering the opening keynote for the first-ever [openSUSE Conference](//conference.opensuse.org/). The openSUSE Conference will be held September 17 through September 20 in Nürnberg, Germany. [Register today!](//conference.opensuse.org/registration/)
 
 
 
@@ -33,17 +33,17 @@ Leslie Hawthorn, Google's Program Manager for open source, was originally schedu
 
 
 
-Our closing keynote will be delivered by Gianugo Rabellino, Chief Executive Officer of [Sourcesense](http://www.sourcesense.com/en/home) and member of the Apache Software Foundation (ASF).
+Our closing keynote will be delivered by Gianugo Rabellino, Chief Executive Officer of [Sourcesense](//www.sourcesense.com/en/home) and member of the Apache Software Foundation (ASF).
 
 
 
 
 
-The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](http://conference.opensuse.org/registration/) to reserve your spot!
+The openSUSE Conference is an opportunity for openSUSE contributors to attend talks, workshops, Birds of a Feather sessions, and collaborate together face to face. The conference will be held from September 17 through September 20 in Nürnberg, Germany. [Register today](//conference.opensuse.org/registration/) to reserve your spot!
 
 
 
-The conference will have two daily tracks of pre-planned talks, plus "[BarCamp](http://en.wikipedia.org/wiki/BarCamp)" style tracks for attendees to plan and provide their own content. Scheduled talks include:
+The conference will have two daily tracks of pre-planned talks, plus "[BarCamp](//en.wikipedia.org/wiki/BarCamp)" style tracks for attendees to plan and provide their own content. Scheduled talks include:
 
 
 
@@ -75,7 +75,7 @@ The openSUSE Conference will also have a major "unconference" component, where t
 
 
 
-Unconference planning is being done on the [openSUSE wiki](http://en.opensuse.org/OpenSUSE_Conf_2009_Unconference). Want to lead a session? Jump in and edit the wiki!
+Unconference planning is being done on the [openSUSE wiki](//en.opensuse.org/OpenSUSE_Conf_2009_Unconference). Want to lead a session? Jump in and edit the wiki!
 
 
 
@@ -87,7 +87,7 @@ Unconference planning is being done on the [openSUSE wiki](http://en.opensuse.or
 
 
 
-The conference is less than two weeks away. If you haven't registered yet, you need to do so today! Registration is at [conference.opensuse.org/registration](http://conference.opensuse.org/registration/). We'll accept registrations up to the conference, but space is limited. We also have a limited number of t-shirts on hand. Registered attendees will get preference over unregistered attendees.
+The conference is less than two weeks away. If you haven't registered yet, you need to do so today! Registration is at [conference.opensuse.org/registration](//conference.opensuse.org/registration/). We'll accept registrations up to the conference, but space is limited. We also have a limited number of t-shirts on hand. Registered attendees will get preference over unregistered attendees.
 
 
 
@@ -99,4 +99,4 @@ The conference is less than two weeks away. If you haven't registered yet, you n
 
 
 
-Time is running out to book your hotel for the openSUSE Conference. Limited space is still available in the venue. All registrants should have received information on booking hotel. Registrations are being made through Alexia Henrie (ahenrie at novell.com). More information on [hotels](http://conference.opensuse.org/where-to-stay/) and [directions](http://conference.opensuse.org/getting-there/) can be found on the Web site.
+Time is running out to book your hotel for the openSUSE Conference. Limited space is still available in the venue. All registrants should have received information on booking hotel. Registrations are being made through Alexia Henrie (ahenrie at novell.com). More information on [hotels](//conference.opensuse.org/where-to-stay/) and [directions](//conference.opensuse.org/getting-there/) can be found on the Web site.

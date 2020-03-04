@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-After GNOME 2.x passed the torch to GNOME 3, a lot of people started to wonder what is the perfect graphical user interface for them. Many users moved to **Xfce**, since it offers kind of a similar user experience to the late GNOME 2.x. But for those  still fond of the GNOME 2.x environment, there is a fork of GNOME 2 available, and it’s called** [MATE Desktop Environment](http://mate-desktop.org/).**
+After GNOME 2.x passed the torch to GNOME 3, a lot of people started to wonder what is the perfect graphical user interface for them. Many users moved to **Xfce**, since it offers kind of a similar user experience to the late GNOME 2.x. But for those  still fond of the GNOME 2.x environment, there is a fork of GNOME 2 available, and it’s called** [MATE Desktop Environment](//mate-desktop.org/).**
 
 
 
@@ -131,10 +131,10 @@ You can find pretty much all the needed information regarding MATE on openSUSE a
   * [Google +](https://plus.google.com/u/0/110057139932804157139/posts)
 
 	
-  * [MATE Forums](http://forums.mate-desktop.org/viewforum.php?f=14&sid=71a9f34766fe4ce851b2618a4a4c0295)
+  * [MATE Forums](//forums.mate-desktop.org/viewforum.php?f=14&sid=71a9f34766fe4ce851b2618a4a4c0295)
 
 	
-  * [Mailing List](http://ml.mate-desktop.org/listinfo/opensuse-mate)
+  * [Mailing List](//ml.mate-desktop.org/listinfo/opensuse-mate)
 
 	
   * IRC Channel: #opensuse-mate @ Freenode

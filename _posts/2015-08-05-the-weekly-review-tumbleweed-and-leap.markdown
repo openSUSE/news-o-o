@@ -23,7 +23,7 @@ Tumbleweed updated the Kernel package to 4.1.3-2.1 and 61 packages were upgraded
 
 Digikam’s upgrade to 4.11.0 explicitly enabled MySQL support that had been disabled by default since 4.6.0. Several other Digikam bugs were addressed in the snapshot like KDE bug [#266264](https://bugs.kde.org/show_bug.cgi?id=266264) for the sidebar that does not automatically resize to avoid a horizontal scrollbar.
 
-The most eye catching update was [Gcal](http://www.gnu.org/software/gcal/manual/gcal.html#Gcal-Introduction) moving from version 3.6.3 to version 4 not because of the major version upgrade, but because the upgrade pushed a fix to spell Guy Fawkes’ name correctly from Fawke. Wondering what the originator had on their mind when making that mistake. Gcal is an interesting package to follow in TW, so we’ll keep an eye on those updates in the future.
+The most eye catching update was [Gcal](//www.gnu.org/software/gcal/manual/gcal.html#Gcal-Introduction) moving from version 3.6.3 to version 4 not because of the major version upgrade, but because the upgrade pushed a fix to spell Guy Fawkes’ name correctly from Fawke. Wondering what the originator had on their mind when making that mistake. Gcal is an interesting package to follow in TW, so we’ll keep an eye on those updates in the future.
 
 Of the 61 upgraded packages, about a handful were fixes made for Leap.
 
@@ -31,7 +31,7 @@ Of the 61 upgraded packages, about a handful were fixes made for Leap.
 #### Leap
 
 
-Speaking of Leap, there were some advancements made on the roadmap for Leap and it looks like the release of Leap will be on Nov. 4 at 14:00 UTC. This might sound pretty concrete, but some other things need to happen before Nov. 4 can officially be declared the date. The ideal date for the release in this article would have been Nov. 5 since Guy Fawkes was mentioned above, but [more's the pity](http://www.oxforddictionaries.com/de/definition/englisch/more%27s-the-pity).
+Speaking of Leap, there were some advancements made on the roadmap for Leap and it looks like the release of Leap will be on Nov. 4 at 14:00 UTC. This might sound pretty concrete, but some other things need to happen before Nov. 4 can officially be declared the date. The ideal date for the release in this article would have been Nov. 5 since Guy Fawkes was mentioned above, but [more's the pity](//www.oxforddictionaries.com/de/definition/englisch/more%27s-the-pity).
 
 Expect an article to be release next week detailing the official date and full roadmap for Leap.
 
@@ -43,4 +43,4 @@ Artwork for Leap like Grub, Plymouth or other items can be submitted through git
 #### GUADEC
 
 
-This weekend we will be at GUADEC in Gothenburg, Sweden. (See Picture on the Right) The conference takes place August 7 – 9 at[ Folkets Hus](http://folketshusgoteborg.se/om-oss/english/) and there will be a three-day hackfest from August 10 – 12 at[ IT University](http://www.openstreetmap.org/#map=18/57.70678/11.93686&layers=Q). Come see us there, learn about open source and see what swag we have. - Ses Snart
+This weekend we will be at GUADEC in Gothenburg, Sweden. (See Picture on the Right) The conference takes place August 7 – 9 at[ Folkets Hus](//folketshusgoteborg.se/om-oss/english/) and there will be a three-day hackfest from August 10 – 12 at[ IT University](//www.openstreetmap.org/#map=18/57.70678/11.93686&layers=Q). Come see us there, learn about open source and see what swag we have. - Ses Snart

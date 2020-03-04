@@ -15,7 +15,7 @@ categories:
 
 We announced the openSUSE Asia Summit yesterday and here we are already opening up our registrations for the summit. We welcome you with open hands to visit our conference and also enjoy the rich Chinese history in and around Beijing.
 
-The openSUSE Asia Summit 2014 website is up on [summit.opensuse.org](http://summit.opensuse.org) and we're looking forward almost as much to your visit there. as a real life appearance at the event. You may register in our [conference submission tool](https://events.opensuse.org/accounts/sign_in) before Sep 30th. We are looking forward to having you with us on this Oct  in Beijing.
+The openSUSE Asia Summit 2014 website is up on [summit.opensuse.org](//summit.opensuse.org) and we're looking forward almost as much to your visit there. as a real life appearance at the event. You may register in our [conference submission tool](https://events.opensuse.org/accounts/sign_in) before Sep 30th. We are looking forward to having you with us on this Oct  in Beijing.
 
 <!-- more -->
 

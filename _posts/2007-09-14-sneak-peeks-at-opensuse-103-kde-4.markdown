@@ -13,9 +13,9 @@ tags:
 - KDE
 ---
 
-openSUSE 10.3 will see the first small parts of [KDE 4](http://opensuse.org/KDE4) creeping into the distribution. KDE 3 will still be the default KDE session for openSUSE 10.3, but KDE 4 will be making its way in steadily. The online repository will contain a current KDE 4 development snapshot, the DVD will have a fully functional and working KDE 4 session, and even on the KDE Installation CD you will have some KDE 4 games, KRDC and KRFB.
+openSUSE 10.3 will see the first small parts of [KDE 4](//opensuse.org/KDE4) creeping into the distribution. KDE 3 will still be the default KDE session for openSUSE 10.3, but KDE 4 will be making its way in steadily. The online repository will contain a current KDE 4 development snapshot, the DVD will have a fully functional and working KDE 4 session, and even on the KDE Installation CD you will have some KDE 4 games, KRDC and KRFB.
 
-Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and we'll also be talking to [Dirk Müller](http://wire.dattitu.de/), a long-time openSUSE and KDE core developer.
+Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and we'll also be talking to [Dirk Müller](//wire.dattitu.de/), a long-time openSUSE and KDE core developer.
 
 <!-- more -->
 
@@ -23,19 +23,19 @@ Today we will see what exactly is new in openSUSE 10.3's KDE 4 applications and 
 ## KDE 4: Discover a New Desktop
 
 
-KDE 4 will contain a plethora of new innovative technologies to revolutionise the Linux desktop. One of the greatest parts of the new KDE version is the porting of KDE to [Qt 4](http://troll.no/products/qt/whatsnew), the C++ toolkit that KDE is based on. Other large improvements include projects within KDE 4 such as: [Solid](http://solid.kde.org), a new device framework; [Plasma](http://plasma.kde.org), the new panel and user interface; [Phonon](http://phonon.kde.org), a multimedia framework; [Oxygen](http://oxygen-icons.org), a new style and icon theme set for KDE 4; and [Dolphin](http://enzosworld.gmxhome.de/), the new default file manager.
+KDE 4 will contain a plethora of new innovative technologies to revolutionise the Linux desktop. One of the greatest parts of the new KDE version is the porting of KDE to [Qt 4](//troll.no/products/qt/whatsnew), the C++ toolkit that KDE is based on. Other large improvements include projects within KDE 4 such as: [Solid](//solid.kde.org), a new device framework; [Plasma](//plasma.kde.org), the new panel and user interface; [Phonon](//phonon.kde.org), a multimedia framework; [Oxygen](//oxygen-icons.org), a new style and icon theme set for KDE 4; and [Dolphin](//enzosworld.gmxhome.de/), the new default file manager.
 
 
 [![kde4_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/kde4_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4.png)
 
 
-This article however will be focusing on the new KDE 4 applications that are directly available to an openSUSE 10.3 user, and will not provide a complete overview of the changes underway for the new KDE 4 desktop, though they are [well documented elsewhere](http://wiki.kde.org/tiki-index.php?page=KDE4).
+This article however will be focusing on the new KDE 4 applications that are directly available to an openSUSE 10.3 user, and will not provide a complete overview of the changes underway for the new KDE 4 desktop, though they are [well documented elsewhere](//wiki.kde.org/tiki-index.php?page=KDE4).
 
 
 ## openSUSE and KDE 4
 
 
-It has always been suggested that openSUSE would be among the earliest adopters of KDE 4, and the [KDE Team](http://opensuse.org/KDE_Team) began working on this very early with a regularly updated [KDE:KDE4](http://software.opensuse.org/repositories/KDE:/KDE4) repository in the [Build Service](http://opensuse.org/Build_Service), allowing users to have an up-to-date development snapshot of KDE. With this repository [Stephan Binner](http://en.opensuse.org/User:Beineri), another KDE developer at openSUSE, created the popular live CD '[KDE Four Live](http://home.kde.org/~binner/kde-four-live/)' using [KIWI](http://opensuse.org/KIWI).
+It has always been suggested that openSUSE would be among the earliest adopters of KDE 4, and the [KDE Team](//opensuse.org/KDE_Team) began working on this very early with a regularly updated [KDE:KDE4](//software.opensuse.org/repositories/KDE:/KDE4) repository in the [Build Service](//opensuse.org/Build_Service), allowing users to have an up-to-date development snapshot of KDE. With this repository [Stephan Binner](//en.opensuse.org/User:Beineri), another KDE developer at openSUSE, created the popular live CD '[KDE Four Live](//home.kde.org/~binner/kde-four-live/)' using [KIWI](//opensuse.org/KIWI).
 
 The packages have been created so that you can seamlessly have both KDE 3 and KDE 4 applications installed and used by each user. The user's configuration files for KDE 4 applications are stored in _~/.kde4_ to avoid any conflicts. The Oxygen style, though available, is not enabled by default. However, you can either change this configuration from KDE's new System Settings, or for individual applications on launch by using this syntax:
 
@@ -43,21 +43,21 @@ The packages have been created so that you can seamlessly have both KDE 3 and KD
 
 The old component-style of packaging for KDE has also gone, and applications are now in separate individual packages. For example, the _kdeedu_ package has been split up into _kmplot, kanagram, kgeography_ etc. This allows you to save more space on your hard disk, should you want to, and has created a lot of extra space where it will be much-needed with the new single CD installation images that will be appearing in openSUSE 10.3.
 
-You can stay up-to-date with KDE 4 snapshots if you are brave enough by simply using _One-Click-Install_ with the [kde4-default.ymp](http://download.opensuse.org/repositories/KDE:/KDE4/openSUSE_Factory/KDE4-DEFAULT.ymp) in the openSUSE Build Service.
+You can stay up-to-date with KDE 4 snapshots if you are brave enough by simply using _One-Click-Install_ with the [kde4-default.ymp](//download.opensuse.org/repositories/KDE:/KDE4/openSUSE_Factory/KDE4-DEFAULT.ymp) in the openSUSE Build Service.
 
 
 ## KDE 4 Games
 
 
-The first real KDE 4 component that will be ready to go straight into openSUSE 10.3 will be [KDE Games](http://games.kde.org/). This includes _KMahjongg, KMines, KPatience, KReversi_ and _KSudoku_. Let's take a look at two of these.
+The first real KDE 4 component that will be ready to go straight into openSUSE 10.3 will be [KDE Games](//games.kde.org/). This includes _KMahjongg, KMines, KPatience, KReversi_ and _KSudoku_. Let's take a look at two of these.
 
 
 ### KPatience
 
 
-_KPatience_, the KDE Patience game, has, like all the other KDE Games, greatly benefited by the wide adoption in KDE of [SVG rendering in applications](http://dot.kde.org/1167723426/). SVG images can be scaled indefinitely without loss of quality, unlike bitmaps (such as jpeg, gif, png), so the user gets a much smoother and cleaner experience with applications.
+_KPatience_, the KDE Patience game, has, like all the other KDE Games, greatly benefited by the wide adoption in KDE of [SVG rendering in applications](//dot.kde.org/1167723426/). SVG images can be scaled indefinitely without loss of quality, unlike bitmaps (such as jpeg, gif, png), so the user gets a much smoother and cleaner experience with applications.
 
-In contrast to the older version ([screenshot](//news.opensuse.org/wp-content/uploads/2007/09/kpat-kde3.png)), KPatience contains the brand new [SVG Oxygen card deck](http://websvn.kde.org/trunk/KDE/kdegames/libkdegames/carddecks/svg-oxygen/?pathrev=682764), giving it a polished finish:
+In contrast to the older version ([screenshot](//news.opensuse.org/wp-content/uploads/2007/09/kpat-kde3.png)), KPatience contains the brand new [SVG Oxygen card deck](//websvn.kde.org/trunk/KDE/kdegames/libkdegames/carddecks/svg-oxygen/?pathrev=682764), giving it a polished finish:
 
 
 [![KPatience - Klondike](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat0_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat0.png) [![KPat - In the Game](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat.png)  [![KPatience - Cards Fly at the End Game](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat-end_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/kde4-kpat-end.png)
@@ -95,7 +95,7 @@ Below you can also see quick screenshots of KMahjongg, KMines and KSudoku, all a
 
 Two other applications that were shown to be mature and stable enough to make it into openSUSE 10.3 by default are KRDC, _KDE Remote Desktop Client_ and KRFB, _KDE Desktop Sharing_. KRDC had been somewhat neglected in the later stages of KDE 3 development, with no real maintainer for some years.
 
-Nevertheless, as the result of a Google Summer of Code [project](http://code.google.com/soc/2007/kde/appinfo.html?csaid=9064143E62AF5BA6), KRDC's user interface has been completely redesigned, and countless bugs and enhancement requests have been resolved. The new user interface is cleaner and more clearly orientated to the common task: connecting to another computer.
+Nevertheless, as the result of a Google Summer of Code [project](//code.google.com/soc/2007/kde/appinfo.html?csaid=9064143E62AF5BA6), KRDC's user interface has been completely redesigned, and countless bugs and enhancement requests have been resolved. The new user interface is cleaner and more clearly orientated to the common task: connecting to another computer.
 
 
 [![KRDC in KDE4](//news.opensuse.org/wp-content/uploads/2007/09/krdc_thumb.jpg)](//news.opensuse.org/wp-content/uploads/2007/09/krdc.png)
@@ -123,7 +123,7 @@ I caught up with Dirk to find out a little more about KDE 4, and KDE in openSUSE
 
 My main jobs for KDE4 have so far been release management jobs and some smaller things helping here and there.
 
-As part of keeping KDE4 on track, I've set up (with the build power from SUSE) a [build monitor](http://developer.kde.org/~dirk/dashboard/) that will continuously track KDE 4 development and check for new build failures and compile warnings. This turned out to be pretty helpful especially when porting to a new API / removing old API, as it more or less immediately notifies the developer working on the porting that he overlooked something somewhere and hence helps getting KDE4 on track.
+As part of keeping KDE4 on track, I've set up (with the build power from SUSE) a [build monitor](//developer.kde.org/~dirk/dashboard/) that will continuously track KDE 4 development and check for new build failures and compile warnings. This turned out to be pretty helpful especially when porting to a new API / removing old API, as it more or less immediately notifies the developer working on the porting that he overlooked something somewhere and hence helps getting KDE4 on track.
 
 The main reason for KDE4 progressing so slowly is that there were a lot of new ideas for the desktop popping up, and these started to be implemented. Some of them were thrown away again, and new ones were coming up. It was definitely a healthy process, which it doesn't look like from the outside because very little was visible to the average user. I think things are shaping up very well now though.
 
@@ -142,18 +142,18 @@ Right now with 10.3 KDE4 is just an experimental addon, and we only ship a few a
 For openSUSE 11.0 the idea is still open and the decision will be made in a few months from now. All I can say is that we're working hard to meet that goal for 11.0 and beyond.
 
 
-### In the past openSUSE has made some great additional KDE applications like [KNetworkManager](http://en.opensuse.org/Projects/KNetworkManager), [KPowersave](http://sourceforge.net/projects/powersave), [Kerry Beagle](http://opensuse.org/Kerry), [Kickoff](http://opensuse.org/Kickoff), and the [sysinfo:/ KIO slave](http://en.opensuse.org/KIO_Sysinfo). Are we likely to see these applications in upstream KDE?
+### In the past openSUSE has made some great additional KDE applications like [KNetworkManager](//en.opensuse.org/Projects/KNetworkManager), [KPowersave](//sourceforge.net/projects/powersave), [Kerry Beagle](//opensuse.org/Kerry), [Kickoff](//opensuse.org/Kickoff), and the [sysinfo:/ KIO slave](//en.opensuse.org/KIO_Sysinfo). Are we likely to see these applications in upstream KDE?
 
 
 KNetworkManager is already developed upstream and will be ported to KDE4 after the 10.3 release.
 
-KPowersave is handled by the [Mobiles Devices Team](http://en.opensuse.org/Mobile_Devices_Team), and KDE 4 will  have some new functionality with Solid, so we'll see.
+KPowersave is handled by the [Mobiles Devices Team](//en.opensuse.org/Mobile_Devices_Team), and KDE 4 will  have some new functionality with Solid, so we'll see.
 
-Kerry will be developed as a general frontend to the [Xesam](http://freedesktop.org/wiki/XesamSearchLive) interface, which means that it will not be restricted to the Beagle backend, but that it will be able to use any other search engine that we might want to support. [Strigi](http://www.vandenoever.info/software/strigi/) is currently our favourite candidate because of its superior indexing and lower resource requirements.
+Kerry will be developed as a general frontend to the [Xesam](//freedesktop.org/wiki/XesamSearchLive) interface, which means that it will not be restricted to the Beagle backend, but that it will be able to use any other search engine that we might want to support. [Strigi](//www.vandenoever.info/software/strigi/) is currently our favourite candidate because of its superior indexing and lower resource requirements.
 
 Kickoff has been ported to KDE4 already, but the decision on what is to happen with it is still open. When we find time we're going to finish the port and suggest it  for upstream inclusion in KDE 4.0.
 
-The sysinfo:/ I/O slave has been put into a public svn repository on [svn.opensuse.org](http://svn.opensuse.org/svn/kio_sysinfo/) and has acquired some smaller beautifications for 10.3. I'm encouraging anyone to join the effort and ask me for an account if he or she wants to submit patches. I've talked to a couple of people about it already and I've merged (or reworked and then integrated) a couple of patches that I found around the network.
+The sysinfo:/ I/O slave has been put into a public svn repository on [svn.opensuse.org](//svn.opensuse.org/svn/kio_sysinfo/) and has acquired some smaller beautifications for 10.3. I'm encouraging anyone to join the effort and ask me for an account if he or she wants to submit patches. I've talked to a couple of people about it already and I've merged (or reworked and then integrated) a couple of patches that I found around the network.
 
 The sysinfo:/ IOslave will probably not go into upstream KDE 4.0 because it is very Linux-specific and not portable to any other primary platform of KDE. However, I'm focusing on getting the goodies that were added by other distributions integrated into it and getting them on board by combining all contributors' resources, as has already happend with other parts of openSUSE.
 

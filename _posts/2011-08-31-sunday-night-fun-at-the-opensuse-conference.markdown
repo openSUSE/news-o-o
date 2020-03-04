@@ -18,7 +18,7 @@ On Sunday the kick off day to our conference, we have two fun events planned:
 
 (Old HW Guy)
 
-[![Speedy Geeko 2011 Logo](/wp-content/uploads/2011/08/speedy-geeko.png)](http://news.opensuse.org/?attachment_id=10448)Immediately following Old HW Guy, we'll be kicking off our first ever SpeedyGeeko.  It's a lightning talk with a twist.  Here's how it works:
+[![Speedy Geeko 2011 Logo](/wp-content/uploads/2011/08/speedy-geeko.png)](//news.opensuse.org/?attachment_id=10448)Immediately following Old HW Guy, we'll be kicking off our first ever SpeedyGeeko.  It's a lightning talk with a twist.  Here's how it works:
 
 
 

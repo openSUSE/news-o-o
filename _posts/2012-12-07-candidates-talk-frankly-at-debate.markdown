@@ -12,11 +12,11 @@ categories:
 - Project
 ---
 
-On 6 December, 2012, the 8 candidates standing for election of the 2013 openSUSE Board joined members of the community in an open Q&A Debate session on IRC.   The complete log of that event can be found [here](http://community.opensuse.org/meetings/opensuse-project/2012/opensuse-project.2012-12-06-15.01.log.html).
+On 6 December, 2012, the 8 candidates standing for election of the 2013 openSUSE Board joined members of the community in an open Q&A Debate session on IRC.   The complete log of that event can be found [here](//community.opensuse.org/meetings/opensuse-project/2012/opensuse-project.2012-12-06-15.01.log.html).
 
 Candidates participating included:  Matt Barringer, Richard Brown, Carl Fletcher, Manu Gupta, chuck Payne, Robert Schweikert, Stefan Seyfried, and Raymond Wooninck.   The event was moderated by the openSUSE Election
 
-Below is a summarization of the questions asked and answers given by various candidates.  Each answer represents an aggregate of the candidate's total answers during a specific quesstion session.  To read in full flow context, we urge you to [read the full log here](http://community.opensuse.org/meetings/opensuse-project/2012/opensuse-project.2012-12-06-15.01.log.html).
+Below is a summarization of the questions asked and answers given by various candidates.  Each answer represents an aggregate of the candidate's total answers during a specific quesstion session.  To read in full flow context, we urge you to [read the full log here](//community.opensuse.org/meetings/opensuse-project/2012/opensuse-project.2012-12-06-15.01.log.html).
 
 <!-- more -->
 

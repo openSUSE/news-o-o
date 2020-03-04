@@ -14,4 +14,4 @@ categories:
 
 The presentations held at LinuxTag, Berlin during the openSUSE day are now available as video and partly as slides as well. Beside of Zonker's part in the project presentation all are in German. For all with German language skills you'll find here latest information on topics such as openSUSE Build Service, Multimedia, Laptop 2.0, KDE4 and others presented by people which are deeply involved in these topics and know what's going on.
 
-Go and get it [here](http://de.opensuse.org/LinuxTag).
+Go and get it [here](//de.opensuse.org/LinuxTag).

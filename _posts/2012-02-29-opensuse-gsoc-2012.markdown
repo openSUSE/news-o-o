@@ -11,7 +11,7 @@ categories:
 - Google Summer of Code
 ---
 
-[![GSOC 12 logo with openSUSE Geeko](/wp-content/uploads/2012/02/GSOC-12-logo-openSUSE.png)](http://news.opensuse.org/2012/02/29/opensuse-gsoc-2012/gsoc-12-logo-opensuse/)
+[![GSOC 12 logo with openSUSE Geeko](/wp-content/uploads/2012/02/GSOC-12-logo-openSUSE.png)](//news.opensuse.org/2012/02/29/opensuse-gsoc-2012/gsoc-12-logo-opensuse/)
 openSUSE as a project always looking to improve and grow and this is one of those opportunities: Google Summer of Code!
 
 Google Summer of Code (GSoC) is a program that offers students an paid opportunity to write code for several open source projects. The purpose is to benefit open source projects and encourage young developers to hack and learn. Both have a lot to gain in the end, experience and code. Google funds these students as well as the project.
@@ -19,7 +19,7 @@ Google Summer of Code (GSoC) is a program that offers students an paid opportuni
 Google works with the open source projects to select ideas and students to work on them. Once accepted the student gets a mentor, a professional involved with openSUSE project able to coordinate with the student, help him or her to get familiar with the code, answer questions and guide him/her to a good end result.
 openSUSE wants to join GSOC again. Now we're looking for mentors, students and their ideas!
 
-Last year openSUSE had 16 students enrolled, 15 of which finished their projects successfully. This year we'd love to mentor even more but for that we need mentors willing to help out as well as students capable of working on projects. Right now, we're gathering ideas for GSOC which are being added to our [list of ideas](http://en.opensuse.org/openSUSE:GSOC_2012_Ideas).
+Last year openSUSE had 16 students enrolled, 15 of which finished their projects successfully. This year we'd love to mentor even more but for that we need mentors willing to help out as well as students capable of working on projects. Right now, we're gathering ideas for GSOC which are being added to our [list of ideas](//en.opensuse.org/openSUSE:GSOC_2012_Ideas).
 
 
 ## Ideas turn into projects
@@ -37,7 +37,7 @@ On **May 21st** coding will start and it will continue (with a mid term evaluati
 
 But now, first order of the day is for mentors to think about what they need from students and for students to think about what they can do for openSUSE!
 
-You can find all information about our GSOC program on [our wiki](http://en.opensuse.org/openSUSE:GSOC_2012) and you can always ask the openSUSE GSOC team if you have any questions:
+You can find all information about our GSOC program on [our wiki](//en.opensuse.org/openSUSE:GSOC_2012) and you can always ask the openSUSE GSOC team if you have any questions:
 
 
 
@@ -48,4 +48,4 @@ You can find all information about our GSOC program on [our wiki](http://en.open
   * Matt Barringer
 
 
-They hang out on [IRC](http://en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](http://freenode.net)!
+They hang out on [IRC](//en.wikipedia.org/wiki/IRC) in our [#opensuse-project channel](irc://irc.freenode.net/opensuse-project) on [Freenode](//freenode.net)!

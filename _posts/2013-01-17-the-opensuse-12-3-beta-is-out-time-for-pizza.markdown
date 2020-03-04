@@ -13,7 +13,7 @@ categories:
 ---
 
 [![Beta_pizza_party_istanbul poster](//news.opensuse.org/wp-content/uploads/2013/01/Beta_pizza_party_istanbul-300x156.png)](https://en.opensuse.org/File:Beta_pizza_party_istanbul.jpg)
-According to [plan](http://en.opensuse.org/openSUSE:Roadmap), today openSUSE 12.3 Beta [sees the light](http://software.opensuse.org/developer). The beta comes with mostly smallish changes as we're in serious testing waters now - we hope you're out there to help us clear the way to the final release! The first RC is already coming on February 7 so this Beta needs a good workout. As is tradition in openSUSE, the Beta will be celebrated with a [BetaPizzaParty](https://en.opensuse.org/openSUSE:BetaPizzaParty) at the Nuremberg headquarters on Wed 30th of Jan starting 16:00 CET! Read on to find out a bit more about the Parties and Pizzas and what's new and about the awesome [12.3 Polish Hackaton](https://en.opensuse.org/openSUSE:12.3_polish_hackathon) which is being organized this weekend at the SUSE headquarters!<!-- more -->
+According to [plan](//en.opensuse.org/openSUSE:Roadmap), today openSUSE 12.3 Beta [sees the light](//software.opensuse.org/developer). The beta comes with mostly smallish changes as we're in serious testing waters now - we hope you're out there to help us clear the way to the final release! The first RC is already coming on February 7 so this Beta needs a good workout. As is tradition in openSUSE, the Beta will be celebrated with a [BetaPizzaParty](https://en.opensuse.org/openSUSE:BetaPizzaParty) at the Nuremberg headquarters on Wed 30th of Jan starting 16:00 CET! Read on to find out a bit more about the Parties and Pizzas and what's new and about the awesome [12.3 Polish Hackaton](https://en.opensuse.org/openSUSE:12.3_polish_hackathon) which is being organized this weekend at the SUSE headquarters!<!-- more -->
 
 
 
@@ -26,15 +26,15 @@ We will have **a G+ Hangout**, starting at _10:00 CET_ until about _12:00 CET_, 
 
 If you'd like to be in the hangout, [find the event here!](https://plus.google.com/117513339231148517979/posts/8nQ6sd1wLyN)
 
-[![Prosciutto, anchovy and onion pizza.](http://farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](http://www.flickr.com/photos/giovannijl-s_photohut/459381964/)
+[![Prosciutto, anchovy and onion pizza.](//farm1.static.flickr.com/248/459381964_4d7141d15f_m.jpg)](//www.flickr.com/photos/giovannijl-s_photohut/459381964/)
 
 
 ## BetaPizzaPartyTime!
 
 
-Secondly, it's time to organize a BetaPizzaParty in the coming weeks! In Nürnberg we have the usual event (this time planned for Wednesday the 30th at 16:00) flooded with Pizza at the SUSE offices and we're hoping other SUSE offices will join our fun. Be sure to check [the wiki page!](http://en.opensuse.org/openSUSE:BetaPizzaParty) for locations. History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?  But if there's no party around, you can organize your own. Get the Pizza (and a place to eat it with room for testing laptops)! It's not a big deal - do it in a local pizza place, at your home or in a room in your office... Just invite friends & colleagues and who knows, if you [put your party on the wiki](http://en.opensuse.org/openSUSE:BetaPizzaParty), a new friend will show up!
+Secondly, it's time to organize a BetaPizzaParty in the coming weeks! In Nürnberg we have the usual event (this time planned for Wednesday the 30th at 16:00) flooded with Pizza at the SUSE offices and we're hoping other SUSE offices will join our fun. Be sure to check [the wiki page!](//en.opensuse.org/openSUSE:BetaPizzaParty) for locations. History tells us it would be extremely surprising if there would be nothing organized in Greece - anyone up for organizing one in Brazil? Taiwan? India?  But if there's no party around, you can organize your own. Get the Pizza (and a place to eat it with room for testing laptops)! It's not a big deal - do it in a local pizza place, at your home or in a room in your office... Just invite friends & colleagues and who knows, if you [put your party on the wiki](//en.opensuse.org/openSUSE:BetaPizzaParty), a new friend will show up!
 
-If you are unsure on how to do it, read [this](http://en.opensuse.org/openSUSE:Launch_party_HOWTO) and [this](http://blog.jospoortvliet.com/2011/08/10-steps-to-building-local-community.html) for some tips. In short, you don't have to be too ambitious. It's just about the fun.
+If you are unsure on how to do it, read [this](//en.opensuse.org/openSUSE:Launch_party_HOWTO) and [this](//blog.jospoortvliet.com/2011/08/10-steps-to-building-local-community.html) for some tips. In short, you don't have to be too ambitious. It's just about the fun.
 
 Don't forget the party part of a BetaPizzaParty! Make sure you'll have some fun at some point. One way of doing that is of course to not just order pizzas but [make your own following this awesome Geeko Pizza Party Recipe](//news.opensuse.org/?p=11150).
 
@@ -43,16 +43,16 @@ Don't forget the party part of a BetaPizzaParty! Make sure you'll have some fun 
 ### Testing and even helping out!
 
 
-Of course the focus of the BetaPizza Party is on openSUSE 12.3 Beta. This means installing it and [submitting bug reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports) when you bump into trouble. You can [download the openSUSE 12.3 Beta](http://software.opensuse.org/developer) from the openSUSE download site. It might make sense to download it and put it on an USB stick or a DVD so people can get to work right away!
+Of course the focus of the BetaPizza Party is on openSUSE 12.3 Beta. This means installing it and [submitting bug reports](//en.opensuse.org/openSUSE:Submitting_bug_reports) when you bump into trouble. You can [download the openSUSE 12.3 Beta](//software.opensuse.org/developer) from the openSUSE download site. It might make sense to download it and put it on an USB stick or a DVD so people can get to work right away!
 
-[![Pizza that makes you wanna cry!](http://farm2.static.flickr.com/1227/597174047_3eb1429c8b_m.jpg)](http://www.flickr.com/photos/57231735@N00/597174047/)
+[![Pizza that makes you wanna cry!](//farm2.static.flickr.com/1227/597174047_3eb1429c8b_m.jpg)](//www.flickr.com/photos/57231735@N00/597174047/)
 
-Bugs should be reported and can be tracked via [Bugzilla](http://bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](http://en.opensuse.org/openSUSE:Submitting_bug_reports).
-Discussions about openSUSE development takes place on the [factory mailing list](http://lists.opensuse.org/opensuse-factory). [openSUSE Factory](http://en.opensuse.org/Portal:Factory) is the development release of openSUSE. If you want to help out, please see the wiki page on [contributing to Factory](http://en.opensuse.org/openSUSE:How_to_contribute_to_Factory). Contributing is easy and very welcome! We happen to have this awesome tool called the [Open Build Service](http://en.opensuse.org/Portal:Build_Service). Think of it as a Github for packagers: Branch, Update and create a submit Request for a Package. In openSUSE terms you've just BURPed and we'll be proud of you ;-)
+Bugs should be reported and can be tracked via [Bugzilla](//bugzilla.novell.com/). Find a [how-to on reporting bugs on the wiki](//en.opensuse.org/openSUSE:Submitting_bug_reports).
+Discussions about openSUSE development takes place on the [factory mailing list](//lists.opensuse.org/opensuse-factory). [openSUSE Factory](//en.opensuse.org/Portal:Factory) is the development release of openSUSE. If you want to help out, please see the wiki page on [contributing to Factory](//en.opensuse.org/openSUSE:How_to_contribute_to_Factory). Contributing is easy and very welcome! We happen to have this awesome tool called the [Open Build Service](//en.opensuse.org/Portal:Build_Service). Think of it as a Github for packagers: Branch, Update and create a submit Request for a Package. In openSUSE terms you've just BURPed and we'll be proud of you ;-)
 
 OBS has a commandline but also a easy browser interface - you can even fix and build packages from a mobile phone or a Windows desktop!
 
-There is plenty of help available on the [Development page](http://en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](http://lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](http://en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
+There is plenty of help available on the [Development page](//en.opensuse.org/Portal:Development) on the openSUSE wiki and you are more than welcome to ask for help on [the openSUSE factory mailing list](//lists.opensuse.org/opensuse-factory) or on [the openSUSE IRC channels](//en.opensuse.org/openSUSE:Communication_channels#Instant_chat_.28IRC.29)!
 
 
 
@@ -67,8 +67,8 @@ And now for an overview of what this new Beta brings.
 
 
 ![KDE and openSUSE](//news.opensuse.org/wp-content/uploads/2012/06/presentation.jpg)
-The Beta comes with 4.10 RC2 of **KDE's workspaces and applications**. KDE has announced a third RC due to some late changes and this version is part of a [testing sprint](http://www.sharpley.org.uk/blog/kde-testing) organized by the KDE Quality team. openSUSE KDE packagers have build a [special live Image](
-http://www.dennogumi.org/2013/01/test-the-upcoming-opensuse-12-3-and-kde-workspace-applications-and-platform-4-10-rc2) to [test this release](http://community.kde.org/Getinvolved/Quality/Beta/4.10/AreasToTest) but we urge you to get the Beta packages from [software.opensuse.org](http://software.opensuse.org/developer/en) as they are of course newer.
+The Beta comes with 4.10 RC2 of **KDE's workspaces and applications**. KDE has announced a third RC due to some late changes and this version is part of a [testing sprint](//www.sharpley.org.uk/blog/kde-testing) organized by the KDE Quality team. openSUSE KDE packagers have build a [special live Image](
+//www.dennogumi.org/2013/01/test-the-upcoming-opensuse-12-3-and-kde-workspace-applications-and-platform-4-10-rc2) to [test this release](//community.kde.org/Getinvolved/Quality/Beta/4.10/AreasToTest) but we urge you to get the Beta packages from [software.opensuse.org](//software.opensuse.org/developer/en) as they are of course newer.
 
 File manager **Thunar** (well known to XFCE users as it is the default file manager there) introduces tab support, improved bookmark handling (including easily adding remote bookmarks), improved UI and a check for free space before copying starts. There have also been extensive performance improvements.
 
@@ -124,6 +124,6 @@ Note: as part of the SuSEconfig removal work, permissions now applies changes fo
 ## Have a lot of fun
 
 
-You can get the goodies [at this page](http://software.opensuse.org/developer). Have fun - we think it's already a pretty decent release and we're working as hard as we can to make it even better. Whatever bugs you find, remember: even a Beta testing (with or without Pizza Party) is about having fun! It doesn't matter what technical knowledge you have - as long as you are having fun. And don't eat too much pizza, overeating tends to be unhealty.
+You can get the goodies [at this page](//software.opensuse.org/developer). Have fun - we think it's already a pretty decent release and we're working as hard as we can to make it even better. Whatever bugs you find, remember: even a Beta testing (with or without Pizza Party) is about having fun! It doesn't matter what technical knowledge you have - as long as you are having fun. And don't eat too much pizza, overeating tends to be unhealty.
 
 **Enjoy!**

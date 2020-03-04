@@ -23,7 +23,7 @@ So what do you get for your money?
 <tbody >
 <tr >
 
-<td rowspan="8" >[![11.1 Box](http://files.opensuse.org/opensuse/de/4/4a/11_1_Karton.jpeg)](http://files.opensuse.org/opensuse/de/4/4a/11_1_Karton.jpeg)
+<td rowspan="8" >[![11.1 Box](//files.opensuse.org/opensuse/de/4/4a/11_1_Karton.jpeg)](//files.opensuse.org/opensuse/de/4/4a/11_1_Karton.jpeg)
 </td>
 </tr>
 <tr >
@@ -66,12 +66,12 @@ So what do you get for your money?
 </table>
 
 
-All this in a nice and shiny grey Box. Still not impressed? Ok, this time we have a special gift for you. If you buy the box you will get an openSUSE branded LED flashlight for free! (limited to the first run of boxes) Now hurry, head over to our [shops!](http://en.opensuse.org/Buy_openSUSE)
+All this in a nice and shiny grey Box. Still not impressed? Ok, this time we have a special gift for you. If you buy the box you will get an openSUSE branded LED flashlight for free! (limited to the first run of boxes) Now hurry, head over to our [shops!](//en.opensuse.org/Buy_openSUSE)
 
 
 
 
-BTW: For our German users: if you pre-order from the [German shop](http://www.edv-buchversand.de/suse/), shipping is free ...
+BTW: For our German users: if you pre-order from the [German shop](//www.edv-buchversand.de/suse/), shipping is free ...
 
 
 

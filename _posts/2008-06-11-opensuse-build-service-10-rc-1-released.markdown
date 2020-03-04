@@ -16,7 +16,7 @@ tags:
 - opensuse build service
 ---
 
-The openSUSE Project [has released](http://build.opensuse.org/) the first release candidate of the openSUSE Build Service 1.0. With the release candidate, all the features are now in place to support external collaboration with the community to build openSUSE in the open. Developers can now submit contributions to openSUSE directly at build.opensuse.org.
+The openSUSE Project [has released](//build.opensuse.org/) the first release candidate of the openSUSE Build Service 1.0. With the release candidate, all the features are now in place to support external collaboration with the community to build openSUSE in the open. Developers can now submit contributions to openSUSE directly at build.opensuse.org.
 
 The openSUSE Build Service has offered a simple collaboration system since its inception for groups to work closely together on packages or solutions stacks. The 1.0 RC 1 release improves on existing functionality to allow the Build Service to scale to larger projects like openSUSE's Factory distribution.
 

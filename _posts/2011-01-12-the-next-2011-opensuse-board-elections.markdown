@@ -17,7 +17,7 @@ categories:
 
 
 
-[caption id="attachment_6284" align="alignleft" width="306" caption="openSUSE needs your Footprints too"][![Put your footprints on the openSUSEproject](/wp-content/uploads/2011/01/feetvote.jpeg)](http://news.opensuse.org/?attachment_id=6284)[/caption]
+[caption id="attachment_6284" align="alignleft" width="306" caption="openSUSE needs your Footprints too"][![Put your footprints on the openSUSEproject](/wp-content/uploads/2011/01/feetvote.jpeg)](//news.opensuse.org/?attachment_id=6284)[/caption]
 
 The next openSUSE Board Elections have been started on December 2010 its phase 0 from three main  phases and will end with the announcement of the results on January 26, 2011.
 

@@ -28,11 +28,11 @@ The voting began April 15 and [openSUSE Members](https://en.opensuse.org/openSUS
 
 [Simon Lees](https://en.opensuse.org/openSUSE:Board_election_2018_platform_simotek)
 
-[Ana Martinez](http://anamaria.martinezgomez.name/2018/03/19/opensuse-board.html)
+[Ana Martinez](//anamaria.martinezgomez.name/2018/03/19/opensuse-board.html)
 
 [Gerry Makaro ( Fraser_Bell )](https://en.opensuse.org/openSUSE:Board_election_2018_platform_Fraser_Bell)
 
-[Aaron Luna](http://www.opensusemexico.com/2018/03/running-for-opensuse-board-election-2018.html)
+[Aaron Luna](//www.opensusemexico.com/2018/03/running-for-opensuse-board-election-2018.html)
 
 [openSUSE Members](https://en.opensuse.org/openSUSE:Members) should have received an email from the openSUSE Election Officials with a link and Election Fingerprint to cast their ballot on April 15.
 

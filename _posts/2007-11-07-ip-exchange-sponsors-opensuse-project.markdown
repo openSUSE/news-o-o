@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-[![](http://files.opensuse.org/opensuse/en/d/d8/Ip-exchange.png)](http://en.opensuse.org/Sponsors/IP_Exchange)
+[![](//files.opensuse.org/opensuse/en/d/d8/Ip-exchange.png)](//en.opensuse.org/Sponsors/IP_Exchange)
 
 
 IP Exchange, a major german Internet Service Provider, is sponsoring the openSUSE project with internet connectivity.  They provide a mirror server in their location with a up to 1 GBit/s, a fast connection from the openSUSE Build Service and the central openSUSE ftp server to the mirror servers.

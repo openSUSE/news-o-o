@@ -21,7 +21,7 @@ tags:
 - teacher
 ---
 
-[![Edu Li-f-e DVD](http://en.opensuse.org/images/6/65/Edu-suse_life-cd.png)](http://en.opensuse.org/openSUSE:Education-Li-f-e)The [Education project](http://en.opensuse.org/Portal:Education) provides parents, students and teachers as well as IT admins running labs at educational institutes with education and development resources for their needs. [Jigish Gohil](//news.opensuse.org/2007/11/09/people-of-opensuse-jigish-gohil/), lead developer of the [Li-f-e](http://en.opensuse.org/openSUSE:Education-Li-f-e) (Linux for Education) distribution and [Lars Vogdt,](https://connect.opensuse.org/pg/profile/lrupp) founding father of the project, tell us in this interview how they started their project to share their knowledge and experience with people that want to start something own as part of openSUSE.
+[![Edu Li-f-e DVD](//en.opensuse.org/images/6/65/Edu-suse_life-cd.png)](//en.opensuse.org/openSUSE:Education-Li-f-e)The [Education project](//en.opensuse.org/Portal:Education) provides parents, students and teachers as well as IT admins running labs at educational institutes with education and development resources for their needs. [Jigish Gohil](//news.opensuse.org/2007/11/09/people-of-opensuse-jigish-gohil/), lead developer of the [Li-f-e](//en.opensuse.org/openSUSE:Education-Li-f-e) (Linux for Education) distribution and [Lars Vogdt,](https://connect.opensuse.org/pg/profile/lrupp) founding father of the project, tell us in this interview how they started their project to share their knowledge and experience with people that want to start something own as part of openSUSE.
 
 **Question: Tell us a few things about openSUSE Edu Li-f-e?**
 
@@ -38,9 +38,9 @@ The Li-f-e Media helps us and our „customers“ to get fast results: our custo
 
 **Question: How did the idea for creating openSUSE Edu Li-f-e came up?**
 
-**Jigish:** It had nothing to do with the bath. Lot of things falling into place lead to the creation of Li-f-e. [Lars Vogdt](http://en.opensuse.org/User:Lrupp) the lead developer of openSUSE Education and everyone else on the openSUSE Edu team were working on creating a exhaustive repository for Education, online on openSUSE [Open Build Service](http://openbuildservice.org) instance as well as an addon media containing those software. Then [KIWI](http://en.opensuse.org/Portal:KIWI) came along that enabled us to create live medias, so once we have so many useful applications and tools available to create live distribution it is only the natural next step in evolution.
+**Jigish:** It had nothing to do with the bath. Lot of things falling into place lead to the creation of Li-f-e. [Lars Vogdt](//en.opensuse.org/User:Lrupp) the lead developer of openSUSE Education and everyone else on the openSUSE Edu team were working on creating a exhaustive repository for Education, online on openSUSE [Open Build Service](//openbuildservice.org) instance as well as an addon media containing those software. Then [KIWI](//en.opensuse.org/Portal:KIWI) came along that enabled us to create live medias, so once we have so many useful applications and tools available to create live distribution it is only the natural next step in evolution.
 
-**Lars: **We started with the openSUSE Education Add-on Medias for openSUSE 10.2 years ago (wow! Is it really such a long time? Yes!). We got a lot of positive feedback from a lot of people (see http://old-en.opensuse.org/Education/Press for some Press announcements) – but also got the feedback that users just want to test our applications to see if they fit in their curriculum.
+**Lars: **We started with the openSUSE Education Add-on Medias for openSUSE 10.2 years ago (wow! Is it really such a long time? Yes!). We got a lot of positive feedback from a lot of people (see //old-en.opensuse.org/Education/Press for some Press announcements) – but also got the feedback that users just want to test our applications to see if they fit in their curriculum.
 
 As the folks from the openSUSE Build Service started to integrate KIWI for easier Product Building, we were the first project that used the new technology directly in the Build Service. Special thanks to Jigish Gohil who was driving this.
 
@@ -50,14 +50,14 @@ As the folks from the openSUSE Build Service started to integrate KIWI for easie
 
 What make Li-f-e stand out are the unique features that other distributions do not have, like:<
 * Single hybrid ISO to make a live DVD or USB stick
-* [LTSP server](http://en.opensuse.org/SDB:LTSP_quick_start_11.4_Edu) to network boot your entire lab from a single server is integrated and easily enabled by anyone who can follow the instructions on the wiki page
-* [YaST](http://en.opensuse.org/Portal:YaST), easy to use GUI system administration tool
-* Stable versions of the major desktop environments like [KDE](http://www.kde.org) and [GNOME](http://www.gnome.org) are included
+* [LTSP server](//en.opensuse.org/SDB:LTSP_quick_start_11.4_Edu) to network boot your entire lab from a single server is integrated and easily enabled by anyone who can follow the instructions on the wiki page
+* [YaST](//en.opensuse.org/Portal:YaST), easy to use GUI system administration tool
+* Stable versions of the major desktop environments like [KDE](//www.kde.org) and [GNOME](//www.gnome.org) are included
 * Multimedia works out of the box
-* [many more...](http://en.opensuse.org/openSUSE:Education-Li-f-e)
+* [many more...](//en.opensuse.org/openSUSE:Education-Li-f-e)
 
 **Lars:**We are not in a competition with other Education centric distributions. Far from it: we already work together and try to increase this collaboration wherever possible. Some examples:
-we started http://www.linux-for-education.org together with people from Edubuntu;
+we started //www.linux-for-education.org together with people from Edubuntu;
 we attended a student working on a GUI for LTSP which is now available also for other distributions;
 Heinz-M. Graesing from X2Go gave an introduction during the last openSUSE Conference – and even if he is more Debian centric, he assigned us to have more up to date X2Go packages.;
 same happened for Sugar (and David Van Assche now also helps us with the li-f-e.org webpages);
@@ -76,7 +76,7 @@ we are in good contact with upstream developers from GCompris, Tuxpaint, Tuxmath
 
 **Question: Are you taking feedback from users about openSUSE Edu Li-f-e? And what is the quality of the feedback, I mean does that feedback actually help you (the developers) to evolve the distribution?**
 
-**Jigish:** Yup, we value all feedback (See Communicate on [Portal:Education](http://en.opensuse.org/Portal:Education)). People who care to give feedback are mostly well informed, that benefits the project a lot.
+**Jigish:** Yup, we value all feedback (See Communicate on [Portal:Education](//en.opensuse.org/Portal:Education)). People who care to give feedback are mostly well informed, that benefits the project a lot.
 
 ** **
 
@@ -87,7 +87,7 @@ The quality of the feedback is very good and helps us to improve the packages, a
 
 **Question: Do you see a world that schools will use a Linux distribution as an educational tool?**
 
-**Jigish:** In many parts of the world it is already happening, I live in one of those, Gujarat, India over 5000 schools are all running Linux, other states in India like Kerala, [Tamil Nadu](http://www.youtube.com/watch?v=3_g72GcaIdc) etc are also into Linux big time. [Indonesia](http://lizards.opensuse.org/2010/10/17/3dmedwinz-picasaweb-hrefhttppicasaweb-google-commedwinzicteqep-target_blankpicasaweb/), Russia, China etc seems to be going Linux as well.
+**Jigish:** In many parts of the world it is already happening, I live in one of those, Gujarat, India over 5000 schools are all running Linux, other states in India like Kerala, [Tamil Nadu](//www.youtube.com/watch?v=3_g72GcaIdc) etc are also into Linux big time. [Indonesia](//lizards.opensuse.org/2010/10/17/3dmedwinz-picasaweb-hrefhttppicasaweb-google-commedwinzicteqep-target_blankpicasaweb/), Russia, China etc seems to be going Linux as well.
 
 **Lars:** I already know some schools that use Linux for education daily. I personally also know at least 2 schools that migrated their LABs and also some of their teachers workstations to Linux.
 But most of the schools I know are using their computers as an additional resource to fulfill their curriculum. So the computers are not standing on their own: their applications need to fit into the environment.
@@ -105,7 +105,7 @@ I know that it's not fair to say there are no real Windows Gurus with the techni
 
 **Question: How did you recognise the needs of such a distribution?  What were the criteria for the included software?**
 
-**Jigish:** There is no OS including software specially created for Education that can boot from DVD or USB stick and can quickly turn into LTSP system to boot up a classroom. Software is carefully selected based on various age groups and grades, for example we have [gcompris](http://gcompris.net/) for very young students, math applications for primary to secondary level students, LAMP stack and other development tools for University students studying IT. There are applications like [Moodle](http://moodle.org/) for teachers and Student Management Systems for administrators of educational institutions. So the popular applications that users demand are usually picked, of course maintainers for the packages on openSUSE Build Service are required first.
+**Jigish:** There is no OS including software specially created for Education that can boot from DVD or USB stick and can quickly turn into LTSP system to boot up a classroom. Software is carefully selected based on various age groups and grades, for example we have [gcompris](//gcompris.net/) for very young students, math applications for primary to secondary level students, LAMP stack and other development tools for University students studying IT. There are applications like [Moodle](//moodle.org/) for teachers and Student Management Systems for administrators of educational institutions. So the popular applications that users demand are usually picked, of course maintainers for the packages on openSUSE Build Service are required first.
 
 **Lars: **This answer is simple: discussions at schools, feedback from our customers.
 
@@ -117,7 +117,7 @@ I know that it's not fair to say there are no real Windows Gurus with the techni
 
 **Question: Do you interact with other projects generally or is openSUSE Edu Li-f-e the only one? Who are those projects and what are they related to?**
 
-**Jigish:** Some of them, yes. [KIWI-LTSP](http://en.opensuse.org/Portal:KIWI-LTSP) project is [LTSP](http://ltsp.org) built with [KIWI](http://kiwi.berlios.de/) imaging system. I also worked with [Compiz](http://www.compiz.org/) for some time, openSUSE Education as a team interacts and actively works with many other projects such as Gnome, KDE, Build Service etc.
+**Jigish:** Some of them, yes. [KIWI-LTSP](//en.opensuse.org/Portal:KIWI-LTSP) project is [LTSP](//ltsp.org) built with [KIWI](//kiwi.berlios.de/) imaging system. I also worked with [Compiz](//www.compiz.org/) for some time, openSUSE Education as a team interacts and actively works with many other projects such as Gnome, KDE, Build Service etc.
 
 **Lars:** Most of the projects I interact with are influencing my daily work here at SUSE. As my team is responsible for providing some of the infrastructure behind openSUSE, I like to say that I'm in contact with many other projects – and I really like to have more time in my life to get more insights in those projects.
 

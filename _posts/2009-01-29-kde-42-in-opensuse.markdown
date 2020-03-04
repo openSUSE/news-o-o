@@ -13,11 +13,11 @@ tags:
 - KDE
 ---
 
-The KDE Project [released KDE 4.2 on Tuesday](http://kde.org/announcements/4.2/index.php), and of course openSUSE packages were available in time for the release. If you missed the pointer from the KDE announcement [info page](http://kde.org/info/4.2.0.php), you can get your KDE 4.2 fix in a number of ways.
+The KDE Project [released KDE 4.2 on Tuesday](//kde.org/announcements/4.2/index.php), and of course openSUSE packages were available in time for the release. If you missed the pointer from the KDE announcement [info page](//kde.org/info/4.2.0.php), you can get your KDE 4.2 fix in a number of ways.
 
-Want to install KDE 4.2 on an existing system? Grab the packages via one-click install for [openSUSE 11.1](http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.1/KDE4-BASIS.ymp), [openSUSE 11.0](http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/KDE4-BASIS.ymp), or [openSUSE 10.3](http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_10.3/KDE4-BASIS.ymp).
+Want to install KDE 4.2 on an existing system? Grab the packages via one-click install for [openSUSE 11.1](//download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.1/KDE4-BASIS.ymp), [openSUSE 11.0](//download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.0/KDE4-BASIS.ymp), or [openSUSE 10.3](//download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_10.3/KDE4-BASIS.ymp).
 
-You can also run the 4.2 packages in a Live CD, or install a fresh openSUSE 11.1-based system with KDE 4.2 packages from the Live CD found under [http://home.kde.org/~binner/kde-four-live/](http://home.kde.org/~binner/kde-four-live/). You'll find x86 and x86_64 ISOs there.
+You can also run the 4.2 packages in a Live CD, or install a fresh openSUSE 11.1-based system with KDE 4.2 packages from the Live CD found under [//home.kde.org/~binner/kde-four-live/](//home.kde.org/~binner/kde-four-live/). You'll find x86 and x86_64 ISOs there.
 
 Thanks much to our KDE gurus for having this ready! If you want to run 4.2, no need to wait another minute -- grab the packages and have a lot of fun!
 

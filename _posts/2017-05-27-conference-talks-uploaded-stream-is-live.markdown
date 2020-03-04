@@ -24,7 +24,7 @@ tags:
 
 This year’s openSUSE Conference has so far been a blast and the talks  from [Day 1 ](https://events.opensuse.org/conference/oSC17/schedule)of the conference have already been uploaded to the [openSUSETV YouTube channel](https://www.youtube.com/user/opensusetv).
 
-For the people who couldn’t make it to this year’s conference, they can watch the live stream of the conference at [http://streaming.media.ccc.de/osc17/](http://streaming.media.ccc.de/osc17/). There are two rooms (Galerie and Saal) being live streamed and recorded.
+For the people who couldn’t make it to this year’s conference, they can watch the live stream of the conference at [//streaming.media.ccc.de/osc17/](//streaming.media.ccc.de/osc17/). There are two rooms (Galerie and Saal) being live streamed and recorded.
 
 
 <blockquote>

@@ -14,9 +14,9 @@ categories:
 
 ![Geeko at work](/wp-content/uploads/2010/03/m3geeko1.jpg)
 
-The fourth of seven scheduled milestone releases for 11.3 was  completed and released on [schedule](http://en.opensuse.org/Roadmap). Milestone 4  focuses on switching to upstart as init daemon.
+The fourth of seven scheduled milestone releases for 11.3 was  completed and released on [schedule](//en.opensuse.org/Roadmap). Milestone 4  focuses on switching to upstart as init daemon.
 
-![](http://news.opensuse.org/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
+![](//news.opensuse.org/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
 
 
 ## Here's what you may find interesting in the new release:
@@ -26,7 +26,7 @@ The fourth of seven scheduled milestone releases for 11.3 was  completed and rel
 
 
 	
-  * OpenOffice.Org has been updated to [3.2.1 Beta1](http://lizards.opensuse.org/2010/03/15/openoffice_org-3_2_0_99_1/) with new features
+  * OpenOffice.Org has been updated to [3.2.1 Beta1](//lizards.opensuse.org/2010/03/15/openoffice_org-3_2_0_99_1/) with new features
 
 	
   * NetworkManager has been updated to version 0.8 with fixes to better support bluetooth and GSM.
@@ -35,7 +35,7 @@ The fourth of seven scheduled milestone releases for 11.3 was  completed and rel
   * cups has been updated to version 1.4.2, it "adds over 67 changes and new features to CUPS 1.3.11, including improved  Bonjour/DNS-SD support, supply level and status reporting for network  printers via SNMP, an improved web interface, and the CUPS DDK tools."
 
 	
-  * The conntrack  - network filtering system has been added. These  are userspace tools that allow  system administrators interact with the [Connection  Tracking System](http://people.netfilter.org/pablo/docs/login.pdf), which is the module that provides stateful packet  inspection for [iptables](http://www.netfilter.org/projects/iptables/index.html).
+  * The conntrack  - network filtering system has been added. These  are userspace tools that allow  system administrators interact with the [Connection  Tracking System](//people.netfilter.org/pablo/docs/login.pdf), which is the module that provides stateful packet  inspection for [iptables](//www.netfilter.org/projects/iptables/index.html).
 
 	
   * The Mono stack has been updated to the bug fix release 2.6.3 together with MonoDevelop 2.2.2.
@@ -50,7 +50,7 @@ The fourth of seven scheduled milestone releases for 11.3 was  completed and rel
   * The Moblin team has started with the integration of the Moblin UI into  the distribution and plan to have everything ready for the next  milestone.
 
 	
-  * The LiveCDs  have virtualbox guest tools.  Now features like  screen resizing, seamless mode, and shared clipboards  work fine and automatically after boot-up! Check [this ](http://desire.sk/simple/store/video/guest_tools.ogv) (~8,5MB) ogv video to see the guest addition features in action.
+  * The LiveCDs  have virtualbox guest tools.  Now features like  screen resizing, seamless mode, and shared clipboards  work fine and automatically after boot-up! Check [this ](//desire.sk/simple/store/video/guest_tools.ogv) (~8,5MB) ogv video to see the guest addition features in action.
 
 
 Gnome/GTK desktop users:
@@ -114,9 +114,9 @@ The known bugs include:
   * gwibber has been updated but depends on desktopcouch and that stack is not yet integrated into openSUSE.
 
 
-You can track the [most  annoying bugs on the wiki](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want  to make sure 11.3 final is free of annoying bugs, we’ll need your help  finding, reporting, and fixing those hidden bugs.
+You can track the [most  annoying bugs on the wiki](//en.opensuse.org/Bugs:Most_Annoying_Bugs_11.3_dev) along with 11.3 development. If you want  to make sure 11.3 final is free of annoying bugs, we’ll need your help  finding, reporting, and fixing those hidden bugs.
 
-To learn more about testing openSUSE, visit the[ Testing pages](http://en.opensuse.org/Testing) on the  openSUSE wiki. To follow the testing and development process, we suggest  that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) |  [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](http://lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE  development.
+To learn more about testing openSUSE, visit the[ Testing pages](//en.opensuse.org/Testing) on the  openSUSE wiki. To follow the testing and development process, we suggest  that you subscribe to the openSUSE-Factory mailing list ([Subscribe](mailto:opensuse-factory+subscribe@opensuse.org) |  [Help](mailto:opensuse-factory+help@opensuse.org) | [Archives](//lists.opensuse.org/opensuse-factory/)) and join the #openSUSE-Factory channel on Freenode to discuss openSUSE  development.
 
 The next openSUSE Milestone is scheduled to be released on Friday, April  the 9th, with additional new features and bug fixes.
 
@@ -124,7 +124,7 @@ The next openSUSE Milestone is scheduled to be released on Friday, April  the 9
 # Get Milestone 4 Today!
 
 
-[![](/wp-content/uploads/2010/03/milestone4_113.png)](http://software.opensuse.org/developer)
+[![](/wp-content/uploads/2010/03/milestone4_113.png)](//software.opensuse.org/developer)
 
 
-What  are you waiting for? Grab the milestone release from [software.opensuse.org/developer](http://software.opensuse.org/developer) today!
+What  are you waiting for? Grab the milestone release from [software.opensuse.org/developer](//software.opensuse.org/developer) today!

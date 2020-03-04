@@ -16,7 +16,7 @@ tags:
 
 This year Juergen and me (tom) went to FOSDEM to do the video recordings of the talks in the openSUSE developer room. Last year we had some problems with the sound quality, so this year we brought some more equipment, amongst others 2 head mics for the speakers, one mic for the audience, an 8 channel mixer and speakers for the audience.
 
-![](http://files.opensuse.org/opensuse/en/e/ef/FOSDEM2009_devroom.png)
+![](//files.opensuse.org/opensuse/en/e/ef/FOSDEM2009_devroom.png)
 
 I think the result is quite good, both the sound experience in the room and on the recordings. I am sorry for the delay of the recordings, but amongst other distractions my system harddisk decided to die during the video renderings. The recently discovered tool of choice for doing the post-processing is kdenlive which in version 0.7.2 is the best video tool I've used on linux.
 
@@ -98,4 +98,4 @@ I think the result is quite good, both the sound experience in the room and on t
   * Putting the 'open' in openSUSE : Community-driven KDE development
 
 
-The slides ![](http://files.opensuse.org/opensuse/en/6/6b/Pdf.png) are linked from the [FOSDEM09 wiki page](http://en.opensuse.org/FOSDEM2009), and the recordings are available as [.ogg](http://tube.opensuse.org/fosdem09/) ![](http://files.opensuse.org/opensuse/en/e/e4/Video.png) and [flash video](http://opensuse.blip.tv/posts?view=archive&nsfw=dc) ![](http://files.opensuse.org/opensuse/en/0/03/Bliptv.gif).
+The slides ![](//files.opensuse.org/opensuse/en/6/6b/Pdf.png) are linked from the [FOSDEM09 wiki page](//en.opensuse.org/FOSDEM2009), and the recordings are available as [.ogg](//tube.opensuse.org/fosdem09/) ![](//files.opensuse.org/opensuse/en/e/e4/Video.png) and [flash video](//opensuse.blip.tv/posts?view=archive&nsfw=dc) ![](//files.opensuse.org/opensuse/en/0/03/Bliptv.gif).

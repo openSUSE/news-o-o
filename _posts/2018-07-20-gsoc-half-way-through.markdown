@@ -65,4 +65,4 @@ I hope you enjoyed reading about the work and experiences of the openSUSE studen
 
 
 
-This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](http://anamaria.martinezgomez.name/2018/07/21/gsoc-half-way-through.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
+This blog post original version can be found at [//anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](//anamaria.martinezgomez.name/2018/07/21/gsoc-half-way-through.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](//creativecommons.org/licenses/by/4.0/). 

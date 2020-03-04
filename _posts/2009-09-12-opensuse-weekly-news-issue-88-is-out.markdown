@@ -15,7 +15,7 @@ tags:
 - Weekly News
 ---
 
-![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #88 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/88)!
+![news](/wp-content/uploads/2007/11/knewsticker.png) Issue #88 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/88)!
 
 In this week’s issue:
 
@@ -38,6 +38,6 @@ In this week’s issue:
 
 
 For a list of available translations see this page:
-[http://en.opensuse.org/OpenSUSE_Weekly_News/88/Translations](http://en.opensuse.org/OpenSUSE_Weekly_News/88/Translations)
+[//en.opensuse.org/OpenSUSE_Weekly_News/88/Translations](//en.opensuse.org/OpenSUSE_Weekly_News/88/Translations)
 
 @ Translators: Because the Downtime from the Mailinglist i can't send an special Email. But you can start with your Translations.

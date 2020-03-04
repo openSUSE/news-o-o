@@ -50,7 +50,7 @@ On this 'People of openSUSE' week we interviewed the greatest openSUSE and KDE a
 <td >**Homepage: **
 </td>
 
-<td >Not really a homepage: [http://en.opensuse.org/User:Beineri](http://en.opensuse.org/User:Beineri)
+<td >Not really a homepage: [//en.opensuse.org/User:Beineri](//en.opensuse.org/User:Beineri)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ On this 'People of openSUSE' week we interviewed the greatest openSUSE and KDE a
 <td >**Blog:**
 </td>
 
-<td >[http://www.kdedevelopers.org/blog/457](http://www.kdedevelopers.org/blog/457)
+<td >[//www.kdedevelopers.org/blog/457](//www.kdedevelopers.org/blog/457)
 </td>
 
 <td >
@@ -219,7 +219,7 @@ One I entered for the slogan competition was: Linux for Newbies to Professionals
 #### What do you think is missing or underrated in the distribution or the project?
 
 
-I often think that [the documentation for the distribution](http://www.novell.com/documentation/opensuse103/) is underrated or stays unnoticed. We have a team which writes for every release Quick Start and User Guides for both desktops and the comprehensive Reference Guide. But people seem to assume that latter doesn't exist anymore since it doesn't get printed for the box anymore despite it being installed by default and being available online.
+I often think that [the documentation for the distribution](//www.novell.com/documentation/opensuse103/) is underrated or stays unnoticed. We have a team which writes for every release Quick Start and User Guides for both desktops and the comprehensive Reference Guide. But people seem to assume that latter doesn't exist anymore since it doesn't get printed for the box anymore despite it being installed by default and being available online.
 
 The project is missing several things: better marketing was already mentioned several time at this place. We need a feature planning which is visible to everyone and allows community submissions. A project government with community involvement is still under way. And we miss procedures/policies and technical realisation how community members can (co)maintain packages - unfortunately it will take quite a while according to the roadmap before the build service will support that.
 
@@ -434,7 +434,7 @@ Don't think so - or I never heard again from those with whom I was appointed.
 #### Show us a picture of something, you have always wanted to share!
 
 
-My family sitting on the sofa: [http://developer.kde.org/~binner/family.jpg](http://developer.kde.org/~binner/family.jpg)
+My family sitting on the sofa: [//developer.kde.org/~binner/family.jpg](//developer.kde.org/~binner/family.jpg)
 
 
 

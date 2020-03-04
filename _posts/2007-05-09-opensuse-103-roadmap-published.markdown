@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-Andreas Jaeger announced the final [roadmap for openSUSE 10.3](http://en.opensuse.org/Roadmap/10.3). openSUSE 10.3 is the next release that incorporates new features from both the community and Novell internal development. The final public release is scheduled for 4th October.
+Andreas Jaeger announced the final [roadmap for openSUSE 10.3](//en.opensuse.org/Roadmap/10.3). openSUSE 10.3 is the next release that incorporates new features from both the community and Novell internal development. The final public release is scheduled for 4th October.
 
 <!-- more -->  
 
@@ -54,7 +54,7 @@ Below his original post:
      Thu, Oct  4     openSUSE 10.3 public release
     
      The detailed schedule - including internal test releases - is available
-     at:  http://en.opensuse.org/Roadmap/10.3
+     at:  //en.opensuse.org/Roadmap/10.3
      
 
 

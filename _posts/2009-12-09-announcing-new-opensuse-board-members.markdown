@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-The election committee announces the three new members of the [openSUSE board](http://en.opensuse.org/Board):
+The election committee announces the three new members of the [openSUSE board](//en.opensuse.org/Board):
 
 
 

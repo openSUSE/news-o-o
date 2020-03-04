@@ -171,7 +171,7 @@ Check docker service status
 
 
 
-  Docs: http://docs.docker.com
+  Docs: //docs.docker.com
 
 
 Start  docker service
@@ -196,7 +196,7 @@ Start  docker service
 
 
 
- Docs: http://docs.docker.com
+ Docs: //docs.docker.com
 
 
 

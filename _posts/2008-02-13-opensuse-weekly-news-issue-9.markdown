@@ -13,7 +13,7 @@ categories:
 
 ![news](/wp-content/uploads/2007/11/knewsticker.png)
 
-Issue nine of openSUSE Weekly News is now out! You can read it in [English](http://en.opensuse.org/OpenSUSE_Weekly_News/9) or [German](http://de.opensuse.org/OpenSUSE-Wochenschau/9).
+Issue nine of openSUSE Weekly News is now out! You can read it in [English](//en.opensuse.org/OpenSUSE_Weekly_News/9) or [German](//de.opensuse.org/OpenSUSE-Wochenschau/9).
 
 In this week's issue:
 

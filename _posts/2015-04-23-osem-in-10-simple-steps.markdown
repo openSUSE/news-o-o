@@ -19,7 +19,7 @@ categories:
 ### **What is OSEM?**
 
 
-OSEM is an event management web application, tailored to the needs of FOSS conferences. You can visit[ http://osem.io/](http://osem.io/) to find out more about it.
+OSEM is an event management web application, tailored to the needs of FOSS conferences. You can visit[ //osem.io/](//osem.io/) to find out more about it.
 
 You can contribute too!
 
@@ -73,7 +73,7 @@ bundle exec rake db:setup
 
 bundle exec rails server
 
-**Step 10.** And you are all set! Visit OSEM at [http://localhost:3000](http://localhost:3000)
+**Step 10.** And you are all set! Visit OSEM at [//localhost:3000](//localhost:3000)
 
 ...and let the coding begin! The fun starts here!
 
@@ -87,7 +87,7 @@ Have questions? Contact us!
 
 By email: [info@osem.io](mailto:info@osem.io)
 
-By IRC: irc://[freenode.net/osem](http://freenode.net/osem)
+By IRC: irc://[freenode.net/osem](//freenode.net/osem)
 
 Found a bug? Please open a new issue directly in github.
 

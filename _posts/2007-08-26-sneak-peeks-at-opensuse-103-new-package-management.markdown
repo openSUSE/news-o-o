@@ -13,7 +13,7 @@ tags:
 - yast
 ---
 
-openSUSE 10.3 is set to contain a new, significantly improved and more mature package management stack by default. ZMD, the package management component causing problems in SUSE Linux 10.1 and to a lesser extent in openSUSE 10.2, has been completely removed and is now replaced by the new [libzypp](http://opensuse.org/Libzypp) and its tools. Today we'll be taking a look at the new package management and talking to [Duncan Mac-Vicar Prett](http://en.opensuse.org/User:Dmacvicar), one of the central libzypp developers.
+openSUSE 10.3 is set to contain a new, significantly improved and more mature package management stack by default. ZMD, the package management component causing problems in SUSE Linux 10.1 and to a lesser extent in openSUSE 10.2, has been completely removed and is now replaced by the new [libzypp](//opensuse.org/Libzypp) and its tools. Today we'll be taking a look at the new package management and talking to [Duncan Mac-Vicar Prett](//en.opensuse.org/User:Dmacvicar), one of the central libzypp developers.
 
 <!-- more -->
 
@@ -21,17 +21,17 @@ openSUSE 10.3 is set to contain a new, significantly improved and more mature pa
 ## ZMD and Package Management Woes
 
 
-ZENworks Management Daemon ([ZMD](http://opensuse.org/Zmd)) was part of the enterprise package management selection that was imported into SUSE Linux 10.1, and it used extra helpers in order to interact and synchronise with libzypp. ZMD offered many advanced features and provided _rug_, a powerful command-line tool for package management. Nevertheless, the integration of ZMD into openSUSE became problematic and it was eventually decided that the given features were not so necessary for openSUSE, but that it would remain on the SUSE Linux Enterprise products.
+ZENworks Management Daemon ([ZMD](//opensuse.org/Zmd)) was part of the enterprise package management selection that was imported into SUSE Linux 10.1, and it used extra helpers in order to interact and synchronise with libzypp. ZMD offered many advanced features and provided _rug_, a powerful command-line tool for package management. Nevertheless, the integration of ZMD into openSUSE became problematic and it was eventually decided that the given features were not so necessary for openSUSE, but that it would remain on the SUSE Linux Enterprise products.
 
 
 ##  Looking Forward
 
 
-So the ZYpp team have been working hard on improving libzypp, and there is a lot to show for it by this stage. It is reliable, more mature, and an [awful lot faster](http://lists.opensuse.org/zypp-devel/2007-06/msg00054.html). There is no more refreshing and parsing during startup, greater compatibility with tools like yum and smart, and increased speed for the most common use-case: installing a package.
+So the ZYpp team have been working hard on improving libzypp, and there is a lot to show for it by this stage. It is reliable, more mature, and an [awful lot faster](//lists.opensuse.org/zypp-devel/2007-06/msg00054.html). There is no more refreshing and parsing during startup, greater compatibility with tools like yum and smart, and increased speed for the most common use-case: installing a package.
 
-Among [other changes](http://lists.opensuse.org/opensuse-factory/2007-07/msg00167.html), one of the most important improvements is the new binary cache, which significantly improves start-up time and package installation. Originally caching the metadata is slow, but this is only done once and the data is then stored preparsed in the cache, meaning that you can read all repositories in a matter of a few seconds.
+Among [other changes](//lists.opensuse.org/opensuse-factory/2007-07/msg00167.html), one of the most important improvements is the new binary cache, which significantly improves start-up time and package installation. Originally caching the metadata is slow, but this is only done once and the data is then stored preparsed in the cache, meaning that you can read all repositories in a matter of a few seconds.
 
-Repository handling has also changed. All repositories have a unique alias in the system, and adding a repository is simply a matter of copying [a repo file](http://en.opensuse.org/Standards/RepoInfo), just like the ones used in the openSUSE Build Service, into the _/etc/zypp/repos.d_ directory.
+Repository handling has also changed. All repositories have a unique alias in the system, and adding a repository is simply a matter of copying [a repo file](//en.opensuse.org/Standards/RepoInfo), just like the ones used in the openSUSE Build Service, into the _/etc/zypp/repos.d_ directory.
 
 
 ## New Tools
@@ -42,7 +42,7 @@ In addition to this, two new tools were also created in order to work with the n
 
 
 	
-  * **zypper**, an [advanced](http://opensuse.org/Zypper), [featureful](http://opensuse.org/Zypper/Usage) command-line tool. Below are a couple of usage examples to see zypper in action:
+  * **zypper**, an [advanced](//opensuse.org/Zypper), [featureful](//opensuse.org/Zypper/Usage) command-line tool. Below are a couple of usage examples to see zypper in action:
 
 
 Displaying your repository list:
@@ -50,9 +50,9 @@ Displaying your repository list:
 `opensuse:~ # **zypper repos**
 # | Enabled | Refresh | Type   | Name          | URI
 --+---------+---------+--------+---------------+--------------------------------------------------------------------------------
-1 | Yes     | Yes     | yast2  | 10.3 - Main Repository (NON-OSS) | http://download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/
-2 | Yes     | Yes     | rpm-md | KDE:Community | http://download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory
-3 | Yes     | Yes     | yast2  | 10.3 - Main Repository (OSS)       | http://download.opensuse.org/distribution/SL-OSS-factory/inst-source/`
+1 | Yes     | Yes     | yast2  | 10.3 - Main Repository (NON-OSS) | //download.opensuse.org/distribution/SL-Factory-non-oss/inst-source-extra/
+2 | Yes     | Yes     | rpm-md | KDE:Community | //download.opensuse.org/repositories/KDE:/Community/openSUSE_Factory
+3 | Yes     | Yes     | yast2  | 10.3 - Main Repository (OSS)       | //download.opensuse.org/distribution/SL-OSS-factory/inst-source/`
 
 Installing a package:
 
@@ -205,13 +205,13 @@ Yes.
 
 The project communication channels are:
 
-* [http://en.opensuse.org/Libzypp](http://en.opensuse.org/Libzypp)
+* [//en.opensuse.org/Libzypp](//en.opensuse.org/Libzypp)
 * [#yast](irc://irc.freenode.net/yast) on Freenode
 
 Mailing lists:
-* [zypp-devel@opensuse.org](http://lists.opensuse.org/zypp-devel) ([subscribe](mailto:zypp-devel+subscribe@opensuse.org)) for the core package management stack development
-* [software-mgmt@opensuse.org](http://lists.opensuse.org/opensuse-softwaremgmt/) ([subscribe](mailto:opensuse-softwaremgmt/+subscribe@opensuse.org)) for openSUSE software management discussions, standards and ideas
-* [yast-devel@opensuse.org](http://lists.opensuse.org/yast-devel) ([subscribe](mailto:yast-devel+subscribe@opensuse.org)) for general YaST development, which has a lot to do with ZYpp.
+* [zypp-devel@opensuse.org](//lists.opensuse.org/zypp-devel) ([subscribe](mailto:zypp-devel+subscribe@opensuse.org)) for the core package management stack development
+* [software-mgmt@opensuse.org](//lists.opensuse.org/opensuse-softwaremgmt/) ([subscribe](mailto:opensuse-softwaremgmt/+subscribe@opensuse.org)) for openSUSE software management discussions, standards and ideas
+* [yast-devel@opensuse.org](//lists.opensuse.org/yast-devel) ([subscribe](mailto:yast-devel+subscribe@opensuse.org)) for general YaST development, which has a lot to do with ZYpp.
 
 
 ### Thanks!

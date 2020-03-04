@@ -35,7 +35,7 @@ Moreover two short presentations on SUSE Studio and OBS were created which can b
 
 We would like to thank the whole marketing team and everyone else who joined for a great job. We made a few significant steps forward and surely there will be more collaboration days in the future!
 
-[caption id="attachment_6103" align="aligncenter" width="300" caption="openSUSE Certificate "][![openSUSE Certificate](/wp-content/uploads/2010/12/openSUSECollaborationDayCertificate.jpg)](http://news.opensuse.org/2010/12/28/the-first-marketing-collaboration-days-are-over-but-more-will-come/opensusecollaborationdaycertificate/)[/caption]
+[caption id="attachment_6103" align="aligncenter" width="300" caption="openSUSE Certificate "][![openSUSE Certificate](/wp-content/uploads/2010/12/openSUSECollaborationDayCertificate.jpg)](//news.opensuse.org/2010/12/28/the-first-marketing-collaboration-days-are-over-but-more-will-come/opensusecollaborationdaycertificate/)[/caption]
 
 Thanks especially to the volunteers who prepared the Collaboration days:
 Review of Ambassador materials: Kostas Koudaras and Carlos Ribeiro

@@ -100,26 +100,26 @@ A number of the hackweek participants blogged about their endeavors over the las
 
 
 
-  * Ladislav worked to [improve documentation for WebYaST](http://lslezak.blogspot.com/2012/07/opensuse-hackweek-viii-new-webyast-demo.html) to make it easier to work on it. There is now a new WebYaST demo appliance and of course better documentation as well as a good start on a new homepage for WebYaST.
+  * Ladislav worked to [improve documentation for WebYaST](//lslezak.blogspot.com/2012/07/opensuse-hackweek-viii-new-webyast-demo.html) to make it easier to work on it. There is now a new WebYaST demo appliance and of course better documentation as well as a good start on a new homepage for WebYaST.
 
 
-  * Uwe Gansert [worked on making it easier to manage and provision new systems with SUSE Manager](http://suse.gansert.net/?p=542). Among other things, this works by creating a basic PXE image which just registers the machine & its hardware profile with SUSE Manager.
+  * Uwe Gansert [worked on making it easier to manage and provision new systems with SUSE Manager](//suse.gansert.net/?p=542). Among other things, this works by creating a basic PXE image which just registers the machine & its hardware profile with SUSE Manager.
 
 
-  * [Frédéric Crozat worked on dracut](http://blog.crozat.net/2012/07/my-hackweek8-project-dracut.html), a future replacement for the three mkinitrd implementations we have in openSUSE. He got the package cleaned up, some features put upstream and fixed integration bugs in openSUSE.
+  * [Frédéric Crozat worked on dracut](//blog.crozat.net/2012/07/my-hackweek8-project-dracut.html), a future replacement for the three mkinitrd implementations we have in openSUSE. He got the package cleaned up, some features put upstream and fixed integration bugs in openSUSE.
 
 
-  * Michal Ìihař used hackweek to get [weblate](http://weblate.org/) to a 1.2 release with new features and much improved stability and performance.
+  * Michal Ìihař used hackweek to get [weblate](//weblate.org/) to a 1.2 release with new features and much improved stability and performance.
 
 
-  * Michal Vyskocil worked on [optimizing boot time of openSUSE](http://lizards.opensuse.org/2012/07/31/optimizing-a-boot-time-aka-2-second-boot-part-2/) and got a few changes to speed things up in openSUSE Factory.
+  * Michal Vyskocil worked on [optimizing boot time of openSUSE](//lizards.opensuse.org/2012/07/31/optimizing-a-boot-time-aka-2-second-boot-part-2/) and got a few changes to speed things up in openSUSE Factory.
 
 
-  * Miklos Vajna developed [native support for importing and exporting math expressions in LibreOffice](http://vmiklos.hu/blog/lo-rtf-math-native).
+  * Miklos Vajna developed [native support for importing and exporting math expressions in LibreOffice](//vmiklos.hu/blog/lo-rtf-math-native).
 
 
-  * Kohei Yoshida also worked on LibreOffice, [integrating the Orcus library, improving the loading of spreadsheet libraries](http://kohei.us/2012/08/08/orcus-integration-into-libreoffice).
+  * Kohei Yoshida also worked on LibreOffice, [integrating the Orcus library, improving the loading of spreadsheet libraries](//kohei.us/2012/08/08/orcus-integration-into-libreoffice).
 
 
 
-You can find video's with plans and results from Hackweek 8 on [the openSUSE TV channel on Youtube](http://www.youtube.com/user/opensusetv?feature=results_main) or on [Blip.tv](http://blip.tv/opensuse).
+You can find video's with plans and results from Hackweek 8 on [the openSUSE TV channel on Youtube](//www.youtube.com/user/opensusetv?feature=results_main) or on [Blip.tv](//blip.tv/opensuse).

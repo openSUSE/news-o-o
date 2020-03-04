@@ -11,7 +11,7 @@ categories:
 - Weekly News
 ---
 
-![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #46 of openSUSE Weekly News is [now out](http://en.opensuse.org/OpenSUSE_Weekly_News/46)!  
+![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png) Issue #46 of openSUSE Weekly News is [now out](//en.opensuse.org/OpenSUSE_Weekly_News/46)!  
 In this week’s issue:
 
 
@@ -29,9 +29,9 @@ In this week’s issue:
 
 
 The openSUSE Weekly News is translated to: 
-[German](http://de.opensuse.org/OpenSUSE-Wochenschau/46)  (delayed), 
-[Russian](http://ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/46), 
-[Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/46), 
-[Spanish](http://es.opensuse.org/OpenSUSE_Noticias_Semanales/46), 
-[Portuguese](http://pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/46) (delayed) and 
-[Indonesian](http://en.opensuse.org/OpenSUSE_Weekly_News/46/indonesian)  (delayed). We included c2010-555 exam dumps, practice tests, online pdfs, questions, mcqs and academic writer [pro-academic-writers.com](https://pro-academic-writers.com/) many more preparation material in our product from which it students can prepare for the exam easily
+[German](//de.opensuse.org/OpenSUSE-Wochenschau/46)  (delayed), 
+[Russian](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/46), 
+[Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/46), 
+[Spanish](//es.opensuse.org/OpenSUSE_Noticias_Semanales/46), 
+[Portuguese](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/46) (delayed) and 
+[Indonesian](//en.opensuse.org/OpenSUSE_Weekly_News/46/indonesian)  (delayed). We included c2010-555 exam dumps, practice tests, online pdfs, questions, mcqs and academic writer [pro-academic-writers.com](https://pro-academic-writers.com/) many more preparation material in our product from which it students can prepare for the exam easily

@@ -13,15 +13,15 @@ categories:
 - Project
 ---
 
-[![](/wp-content/uploads/2010/11/Screenshot.png)](http://news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/screenshot/)openFATE, the feature tracking tool used in openSUSE has been completely reworked and the new version is live now on [features.opensuse.org](http://features.opensuse.org/).
+[![](/wp-content/uploads/2010/11/Screenshot.png)](//news.opensuse.org/2010/11/30/feature-handling-for-opensuse-reworked/screenshot/)openFATE, the feature tracking tool used in openSUSE has been completely reworked and the new version is live now on [features.opensuse.org](//features.opensuse.org/).
 
-A [team](http://en.opensuse.org/openSUSE:Openfate_screening) has started driving the handling of features and we'd like to update you with the current state and invite you to participate.
+A [team](//en.opensuse.org/openSUSE:Openfate_screening) has started driving the handling of features and we'd like to update you with the current state and invite you to participate.
 
 The new version is now live and contains a long list of new features so that features can be handled completely with the new web user interface. The interface uses the new openSUSE Bento theme to fit in better in the openSUSE site family, has several search options to allow the screening team to find features easily, it's possible to edit all fields and also the product states.
 
 Thanks to the openSUSE boosters, especially to Thomas Schmidt, for the new version.
 
-The new team has defined a [workflow](http://en.opensuse.org/openSUSE:Openfate_screening_process) to handle features and described it in the [openSUSE wiki](http://en.opensuse.org/openSUSE:Openfate_screening_process).
+The new team has defined a [workflow](//en.opensuse.org/openSUSE:Openfate_screening_process) to handle features and described it in the [openSUSE wiki](//en.opensuse.org/openSUSE:Openfate_screening_process).
 
 
 ## Features for openSUSE 11.4
@@ -51,13 +51,13 @@ The two main categories for features are "openSUSE distribution" for features in
 
 We need people to help us evaluating features ("domain experts"). We have a list of tags ("areas") that we like to get handled. Evaluating features means going through features in state "new" and putting them into "marketplace" after checking that the feature is indeed wanted and possible to do.
 
-To participate, add your name to the [list](http://en.opensuse.org/openSUSE:Openfate_screening#Domain_Experts) and start evaluating features.
+To participate, add your name to the [list](//en.opensuse.org/openSUSE:Openfate_screening#Domain_Experts) and start evaluating features.
 
 
 ## Contact
 
 
-Discussion about openFATE happens on the opensuse-project mailing list. The openFATE screening team meets regularly on IRC, the next meeting is on December 9th at 14:00 UTC. For details, check the [openSUSE wiki](http://en.opensuse.org/openSUSE:Openfate_screening#Bi-weekly_openFATE_screening_team_meeting).
+Discussion about openFATE happens on the opensuse-project mailing list. The openFATE screening team meets regularly on IRC, the next meeting is on December 9th at 14:00 UTC. For details, check the [openSUSE wiki](//en.opensuse.org/openSUSE:Openfate_screening#Bi-weekly_openFATE_screening_team_meeting).
 
 
 ## Detailed list of new changes

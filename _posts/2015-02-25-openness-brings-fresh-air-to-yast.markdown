@@ -21,9 +21,9 @@ So we have the code [publicly available](https://github.com/yast/) and written i
 ## Tons of documentation!
 
 
-The YaST team has put some effort in the last months gathering all the development documentation that was disperse and creating new one. The result is the new [YaST development landing page](http://yast.github.io/). The page is packed with information useful to anyone willing to introduce himself in the world of YaST development and also acts as a central documentation hub, containing links to information hosted in Rubydoc.info, doc.opensuse.org or the openSUSE wiki. Among other things, the page includes a guide with the first steps for newcomers, a section with documentation targeted at developers and another one with descriptions of the processes and guidelines observed while developing YaST.
+The YaST team has put some effort in the last months gathering all the development documentation that was disperse and creating new one. The result is the new [YaST development landing page](//yast.github.io/). The page is packed with information useful to anyone willing to introduce himself in the world of YaST development and also acts as a central documentation hub, containing links to information hosted in Rubydoc.info, doc.opensuse.org or the openSUSE wiki. Among other things, the page includes a guide with the first steps for newcomers, a section with documentation targeted at developers and another one with descriptions of the processes and guidelines observed while developing YaST.
 
-<!-- more -->One of the sources of information linked from the YaST landing page is the brand new tutorial titled "[Creating the YaST journalctl module](http://yast.github.io/yast-journalctl-tutorial/)". As the title suggests, the tutorial presents a very simple example of a YaST module developed from scratch in pure Ruby. The document is focused on the tools and the overall architecture trying to balance nicely theory and practice. All the example code and files used in the tutorial are available in a git repository that follows the learning time-line, with every tag corresponding to a step in the tutorial.
+<!-- more -->One of the sources of information linked from the YaST landing page is the brand new tutorial titled "[Creating the YaST journalctl module](//yast.github.io/yast-journalctl-tutorial/)". As the title suggests, the tutorial presents a very simple example of a YaST module developed from scratch in pure Ruby. The document is focused on the tools and the overall architecture trying to balance nicely theory and practice. All the example code and files used in the tutorial are available in a git repository that follows the learning time-line, with every tag corresponding to a step in the tutorial.
 
 But this tutorial is not the only evidence of a flourishing Ruby future for YaST.
 
@@ -31,7 +31,7 @@ But this tutorial is not the only evidence of a flourishing Ruby future for YaST
 ## New modules
 
 
-The last months have seen the born of several new YaST modules written in Ruby from scratch. The source code of all of them is available at Github and the modules themselves are all included and directly installable on openSUSE Tumbleweed, with the exception of the I/O Channels module, available only for SLE since it's targeted at [System z mainframes](http://en.wikipedia.org/wiki/IBM_System_z).
+The last months have seen the born of several new YaST modules written in Ruby from scratch. The source code of all of them is available at Github and the modules themselves are all included and directly installable on openSUSE Tumbleweed, with the exception of the I/O Channels module, available only for SLE since it's targeted at [System z mainframes](//en.wikipedia.org/wiki/IBM_System_z).
 
 
 ### YaST2 - Fonts
@@ -53,7 +53,7 @@ If you haven't heard about [Docker](https://www.docker.com/), you have probably 
 ### YaST2 - Journal
 
 
-The submission of this new module into Factory/Tumbleweed was recently [announced in the Factory mailing list](http://lists.opensuse.org/opensuse-factory/2015-02/msg00128.html). As you can see in the screenshots, it displays the systemd journal entries in a table with a search box providing grep-like live searching. In addition, it allows to filter the entries in the list by date/time, unit, file or priority. As a bonus, the module was used as inspiration for the already mentioned new YaST development tutorial.
+The submission of this new module into Factory/Tumbleweed was recently [announced in the Factory mailing list](//lists.opensuse.org/opensuse-factory/2015-02/msg00128.html). As you can see in the screenshots, it displays the systemd journal entries in a table with a search box providing grep-like live searching. In addition, it allows to filter the entries in the list by date/time, unit, file or priority. As a bonus, the module was used as inspiration for the already mentioned new YaST development tutorial.
 
 [![YaST2 - Journal](/wp-content/uploads/2015/02/yast2-journal-qt6.png)](/wp-content/uploads/2015/02/yast2-journal-qt6.png)
 
@@ -67,4 +67,4 @@ The first YaST module to be ever written in Ruby from scratch is a nice source o
 ## Get in touch
 
 
-At the end, all the efforts done by the YaST Team to open up YaST development have just one goal: reaching YOU. So don't hesitate to provide feedback using any of the open communication channels. Where to find those channels? Obviously, in the [YaST landing page](http://yast.github.io/). :-)
+At the end, all the efforts done by the YaST Team to open up YaST development have just one goal: reaching YOU. So don't hesitate to provide feedback using any of the open communication channels. Where to find those channels? Obviously, in the [YaST landing page](//yast.github.io/). :-)

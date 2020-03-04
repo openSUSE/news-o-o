@@ -11,9 +11,9 @@ categories:
 - Infrastructure
 ---
 
-[![IPv6 Badge](/wp-content/uploads/2011/05/IPv6-badge-blk-256-trans.png)](http://news.opensuse.org/2011/05/31/opensuse-and-world-ipv6-day/ipv6-badge-blk-256-trans/)
+[![IPv6 Badge](/wp-content/uploads/2011/05/IPv6-badge-blk-256-trans.png)](//news.opensuse.org/2011/05/31/opensuse-and-world-ipv6-day/ipv6-badge-blk-256-trans/)
 
-Yesterday was World IPv6 Day and openSUSE [participated](http://news.opensuse.org/2011/05/31/opensuse-and-world-ipv6-day/) in it. We hope the experiment was as successful for the other participants as it was for us!
+Yesterday was World IPv6 Day and openSUSE [participated](//news.opensuse.org/2011/05/31/opensuse-and-world-ipv6-day/) in it. We hope the experiment was as successful for the other participants as it was for us!
 
 Here is a short status update from the openSUSE infrastructure. openSUSE has currently two major server locations and we tested IPv6 at both separately.  Note that there are more openSUSE infrastructure locations, including the server which runs the popular [planet.opensuse.org](../planet.opensuse.org) (which supports IPv6 as well now)!<!-- more -->
 

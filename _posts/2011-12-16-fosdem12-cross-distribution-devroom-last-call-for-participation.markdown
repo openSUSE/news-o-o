@@ -15,7 +15,7 @@ FOSDEM is the biggest event organized by and for the Free and Open Source (FOSS)
 
 If you're interested let your intention be known on the [distributions@lists.fosdem.org](mailto:distributions@lists.fosdem.org) mailinglist, with the following information and we will factor in your contribution.
 
-[![](/wp-content/uploads/2011/12/going-to-fosdem.png)](http://www.fosdem.org)
+[![](/wp-content/uploads/2011/12/going-to-fosdem.png)](//www.fosdem.org)
 
 
 

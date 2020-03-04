@@ -20,7 +20,7 @@ tags:
 - Perl 5.24
 ---
 
-[![Tumbleweed-black](/wp-content/uploads/2016/03/Tumbleweed-black.png)openSUSE Leap 42.2 Alpha 1](http://download.opensuse.org/distribution/leap/42.2/), which is now available for testing, made some news last week, but this week’s news focuses more on [openSUSE’s rolling distribution](https://en.opensuse.org/Portal:Tumbleweed).
+[![Tumbleweed-black](/wp-content/uploads/2016/03/Tumbleweed-black.png)openSUSE Leap 42.2 Alpha 1](//download.opensuse.org/distribution/leap/42.2/), which is now available for testing, made some news last week, but this week’s news focuses more on [openSUSE’s rolling distribution](https://en.opensuse.org/Portal:Tumbleweed).
 
 Developers have been focusing on  moving [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) to [GNU Compiler Collection 6](https://gcc.gnu.org/), which is always challenging for a distribution.
 

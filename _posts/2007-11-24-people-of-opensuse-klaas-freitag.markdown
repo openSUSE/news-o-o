@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-The 'People of openSUSE' team had the pleasure to interview Klaas Freitag - a Novell employee working as an architect in the department responsible for the Build Service, and an active KDE contributor being a [KDE e.V.](http://ev.kde.org/) board member.
+The 'People of openSUSE' team had the pleasure to interview Klaas Freitag - a Novell employee working as an architect in the department responsible for the Build Service, and an active KDE contributor being a [KDE e.V.](//ev.kde.org/) board member.
 
 <!-- more -->
 <table border="0" >
@@ -133,7 +133,7 @@ After some schools and an apprenticeship next to a bench vice and some years wor
 #### Tell us about the background to your computer use.
 
 
-I got addicted in the age of about 14 with [this machine](http://www.old-computers.com/museum/computer.asp?st=1&c=979) out of hell. I started programming on that machine because software was very rare. Later on I had a C64 without floppy and later several Atari ST where I started to do GUI programs with the nice GEM.
+I got addicted in the age of about 14 with [this machine](//www.old-computers.com/museum/computer.asp?st=1&c=979) out of hell. I started programming on that machine because software was very rare. Later on I had a C64 without floppy and later several Atari ST where I started to do GUI programs with the nice GEM.
 
 
 
@@ -424,7 +424,7 @@ Yes.
 #### Show us a picture of something, you have always wanted to share!
 
 
-I think no one should miss [Adrian in his fantastic Leisure Suit](http://www.freisturz.de/leisuresuit.jpg) together with his boy group.
+I think no one should miss [Adrian in his fantastic Leisure Suit](//www.freisturz.de/leisuresuit.jpg) together with his boy group.
 
 
 

@@ -15,6 +15,6 @@ tags:
 - GNOME
 ---
 
-Aaron Bockover has announced that the 1.4 release of Banshee is [now available](http://abock.org/2008/11/13/banshee-14-hits-the-streets-packed-with-awesome/). The [new release](http://banshee-project.org/download/archives/1.4.1/) includes support for Android G1, better device support, a new track editor, the ability to rescan libraries for new or deleted tracks -- plus 196 bugs fixed since Banshee 1.2.1.
+Aaron Bockover has announced that the 1.4 release of Banshee is [now available](//abock.org/2008/11/13/banshee-14-hits-the-streets-packed-with-awesome/). The [new release](//banshee-project.org/download/archives/1.4.1/) includes support for Android G1, better device support, a new track editor, the ability to rescan libraries for new or deleted tracks -- plus 196 bugs fixed since Banshee 1.2.1.
 
-See the Banshee [download page for the one-click installer](http://banshee-project.org/download/#opensuse) for openSUSE 11.1 and 10.3, as well as packages for other platforms. But  the creators of mobbles have added a neat little dynamic that involves smartphone gps location technology
+See the Banshee [download page for the one-click installer](//banshee-project.org/download/#opensuse) for openSUSE 11.1 and 10.3, as well as packages for other platforms. But  the creators of mobbles have added a neat little dynamic that involves smartphone gps location technology

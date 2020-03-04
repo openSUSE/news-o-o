@@ -13,4 +13,4 @@ wordpress_id: 2846
 The next openSUSE Art Team meeting will be held on Tuesday 9th of  February at 13:00 UTC in #opensuse-artwork IRC channel on
 irc.freenode.net.
 
-For details check the[ announcement](http://lists.opensuse.org/opensuse-artwork/2010-02/msg00008.html).
+For details check the[ announcement](//lists.opensuse.org/opensuse-artwork/2010-02/msg00008.html).

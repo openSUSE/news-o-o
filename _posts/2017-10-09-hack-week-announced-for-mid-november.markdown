@@ -26,7 +26,7 @@ Hack Week is a week-long event where members of the [openSUSE](https://www.opens
 
 The event focuses not only on building and expanding technology, but brings people with similar interests together to hack for fun. There are several successful stories that have come from previous Hack Weeks like  [Jangouts](https://github.com/jangouts/jangouts), which is open-source video conferencing software.
 
-The planning of the projects for Hack Week 0x10 can be created on[ http://hackweek.suse.com](http://hackweek.suse.com). Hackers who want to participate can also join existing projects. One example of a project that has already be created [putting openSUSE on Chromebooks](https://hackweek.suse.com/16/projects/opensuse-on-chromebooks).
+The planning of the projects for Hack Week 0x10 can be created on[ //hackweek.suse.com](//hackweek.suse.com). Hackers who want to participate can also join existing projects. One example of a project that has already be created [putting openSUSE on Chromebooks](https://hackweek.suse.com/16/projects/opensuse-on-chromebooks).
 
 Visitors must be logged in to the website to create and join projects. To join the event at one of the locations, email [hackweek@suse.de](mailto:hackweek@suse.de) to be connected to a site manager at an SUSE R&D facility.
 

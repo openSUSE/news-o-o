@@ -69,25 +69,25 @@ Then from the directory containing the Dockerfile run:
 
 At the end of the build process the new image will be added to your list of local images.
 
-For more complex images (like ones exposing services running inside of them), please refer to [Docker's documentation](http://docs.docker.com/reference/builder/).
+For more complex images (like ones exposing services running inside of them), please refer to [Docker's documentation](//docs.docker.com/reference/builder/).
 
 
 ### Let's Collaborate!
 
 
-If you find something about our containers that can be improved, please collaborate with us. We have created the docker containers with [KIWI](http://opensuse.github.io/kiwi/), openSUSEs Operating System Image and Appliance builder which is the basis of [SUSE Studio](https://susestudio.com/) and the imaging functionality of the [Open Build Service](http://openbuildservice.org). The files used to create these images are available in our [Github repository](https://github.com/openSUSE/docker-containers). They are free software, released under the MIT license. You can run, copy, distribute, study, change and improve them.
+If you find something about our containers that can be improved, please collaborate with us. We have created the docker containers with [KIWI](//opensuse.github.io/kiwi/), openSUSEs Operating System Image and Appliance builder which is the basis of [SUSE Studio](https://susestudio.com/) and the imaging functionality of the [Open Build Service](//openbuildservice.org). The files used to create these images are available in our [Github repository](https://github.com/openSUSE/docker-containers). They are free software, released under the MIT license. You can run, copy, distribute, study, change and improve them.
 
 
 ## Thank you
 
 
-![Flavio Castelli](/wp-content/uploads/2014/07/flavio.jpg)We have to thank [Flavio Castelli](http://flavio.castelli.name), maintainer of the Docker package, for the creation of these containers, the KIWI developers for adding the docker build format and finally the Docker team for marking these containers as official on the Docker Hub.
+![Flavio Castelli](/wp-content/uploads/2014/07/flavio.jpg)We have to thank [Flavio Castelli](//flavio.castelli.name), maintainer of the Docker package, for the creation of these containers, the KIWI developers for adding the docker build format and finally the Docker team for marking these containers as official on the Docker Hub.
 
 
 ## About openSUSE
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world's best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates one of the world's best Linux distributions, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](//www.opensuse.org)
 
 
 ## About Docker

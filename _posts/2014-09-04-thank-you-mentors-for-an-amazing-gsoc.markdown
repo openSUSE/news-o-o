@@ -25,7 +25,7 @@ So, openSUSE (and its sister organizations – ownCloud, Zorp, MATE) thank all t
 # _Without you, it was not possible_
 
 
-[![Photo by Japanexperterna (CC BY-SA)](/wp-content/uploads/2014/09/14376185120_65d0477322_z.jpg)](http://www.japanexperterna.se)
+[![Photo by Japanexperterna (CC BY-SA)](/wp-content/uploads/2014/09/14376185120_65d0477322_z.jpg)](//www.japanexperterna.se)
 
 Following is a list of the mentors who helped to move this GSoC sailing smoothly :
 

@@ -18,7 +18,7 @@ tags:
 - vote
 ---
 
-![](http://i.imgur.com/I23Ufqd.gif)
+![](//i.imgur.com/I23Ufqd.gif)
 
 The openSUSE Project has two seats  for this year's [openSUSE board elections](https://en.opensuse.org/openSUSE:Board_election).
 
@@ -111,7 +111,7 @@ Only openSUSE members have the right to run for a board seat, except if they are
 
 
 To learn more about the election details and applying for membership, visit the following wiki pages:
-[http://en.opensuse.org/openSUSE:Board_election
-](http://en.opensuse.org/openSUSE:Board_election)[http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination
-](http://en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination)[http://en.opensuse.org/openSUSE:Members
-](http://en.opensuse.org/openSUSE:Members)[http://en.opensuse.org/openSUSE:Membership_officials#Process](http://en.opensuse.org/openSUSE:Membership_officials#Process)
+[//en.opensuse.org/openSUSE:Board_election
+](//en.opensuse.org/openSUSE:Board_election)[//en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination
+](//en.opensuse.org/openSUSE:Board_election#Phase_0:_Notification_of_Intent_to_Run_or_nomination)[//en.opensuse.org/openSUSE:Members
+](//en.opensuse.org/openSUSE:Members)[//en.opensuse.org/openSUSE:Membership_officials#Process](//en.opensuse.org/openSUSE:Membership_officials#Process)

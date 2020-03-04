@@ -24,4 +24,4 @@ A heartfelt thanks from the openSUSE Asia community to all the logo designers fo
 
 
 
-Results of the voting contest can be seen [here](http://vote.suse.org.cn/activity/4).
+Results of the voting contest can be seen [here](//vote.suse.org.cn/activity/4).

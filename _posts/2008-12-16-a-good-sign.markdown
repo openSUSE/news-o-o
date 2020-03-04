@@ -11,7 +11,7 @@ categories:
 - Distribution
 ---
 
-[![img_2058.jpg](http://farm4.static.flickr.com/3025/3112622971_ea8919e05a.jpg)](http://www.flickr.com/photos/notlocalhorst/3112622971/)
+[![img_2058.jpg](//farm4.static.flickr.com/3025/3112622971_ea8919e05a.jpg)](//www.flickr.com/photos/notlocalhorst/3112622971/)
 
 We have it! :-) 
 

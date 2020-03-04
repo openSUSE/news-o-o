@@ -21,7 +21,7 @@ We are pleased to announce our new openSUSE Weekly News Issue 167
 
 
 
-![Cover](http://saigkill.homelinux.net/pub/OWN/common/logos/Opensuse_weekly_news_banner.png)
+![Cover](//saigkill.homelinux.net/pub/OWN/common/logos/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -33,12 +33,12 @@ We are pleased to announce our new openSUSE Weekly News Issue 167
 
 **Legal Notice**
 
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+![](//i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
 
        
 
-This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/). 
+This work (compilation) is licenced under [Creative Commons attribution-ShareAlike 3.0 Unported License](//creativecommons.org/licenses/by-sa/3.0/). 
        The rights for the compilation itself are copyright by Sascha Manns.
 
 Opt-Out: If you are an Author and don't want to be introduced in the openSUSE Weekly News, just send a Mail to: `<[saigkill@opensuse.org](mailto:saigkill@opensuse.org)>`.
@@ -46,7 +46,7 @@ Opt-Out: If you are an Author and don't want to be introduced in the openSUSE We
 Copyrights of the introduced articles are owned by original authors or copyright owners. If you want to reuse those articles, ask each original copyright owner which 
         license should be applied. We don't reprint any Article without an free license, we just introduce it then under the Agreement of the German Copyright Law.
 
-If you are an autor and want to set your blog under a free License? Just visit: [http://bit.ly/gKqGDT](http://bit.ly/gKqGDT)
+If you are an autor and want to set your blog under a free License? Just visit: [//bit.ly/gKqGDT](//bit.ly/gKqGDT)
 
 Published: 2011-03-19
 
@@ -103,15 +103,15 @@ We are pleased to announce our 167 issue of the openSUSE Weekly News.
 After some requests we have changed our handling of Licenses. In the last issue we had an Infobox over each Article, and bigger than the Title. So we have removed the
     Boxes and we have now just a little Link on the End of the Article. We hoping you're enjoy it. If you have any ideas or comments, just write a Mail to `<[news@opensuse.org](mailto:news@opensuse.org)>`
 
-You can also read this issue in other formats. Just click [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats. Just click [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy the reading :-)
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Marketing.png)Announcements
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Marketing.png)Announcements
 
 “
 
-[Mingle Today!](http://news.opensuse.org/2011/03/15/mingle-today/)
+[Mingle Today!](//news.opensuse.org/2011/03/15/mingle-today/)
 
 ![](/wp-content/uploads/2011/02/about_connect.png)
 
@@ -125,9 +125,9 @@ What are we really doing when we develop a new tool to handle
 The answer was simple: Connecting people to projects, groups and with each other.
       Connecting faces to names, nicknames and to email addresses. In the end connecting all our
       other tools to this one so we can share the data. These are the fundamental ideas behind our
-      newest openSUSE tool: [connect](http://connect.opensuse.org/). In the
+      newest openSUSE tool: [connect](//connect.opensuse.org/). In the
       following months the [openSUSE
-        Boosters](http://en.opensuse.org/openSUSE:Boosters_team) and friends started to work on this tool based on [Elgg](http://elgg.org/). An open source social networking engine, that delivers
+        Boosters](//en.opensuse.org/openSUSE:Boosters_team) and friends started to work on this tool based on [Elgg](//elgg.org/). An open source social networking engine, that delivers
       the building blocks that enable us to create our own fully-featured social network. And today
       we release it to you, the openSUSE Community.
 
@@ -154,8 +154,8 @@ Secondly connect introduces the nowadays mandatory social features. Instead of r
 Make friends and tell them about yourself. See what they are up to in the Build Service,
       openFATE or Bugzilla. Find out who your friends, friends are or get your openSUSE business
       cards. Or how about you gang up in groups and collaborate in discussions, run your own polls
-      and create your groups events? You can also apply to be an [openSUSE Member](http://en.opensuse.org/openSUSE:Members) and vote in project
-      wide polls like the [openSUSE Board](http://en.opensuse.org/openSUSE:Board)
+      and create your groups events? You can also apply to be an [openSUSE Member](//en.opensuse.org/openSUSE:Members) and vote in project
+      wide polls like the [openSUSE Board](//en.opensuse.org/openSUSE:Board)
       election. And more!
 
 
@@ -206,45 +206,45 @@ connect is far from done and is constantly under development, so please help out
       master any HTML/CSS? Then improve the whole user experience. Or is PHP coding your thing? Get
       your editor out then and extend this tool to your needs. As mentioned in the beginning of this
       article, connect is based on an open source social networking platform called Elgg. They have
-        [fantastic documentation](http://docs.elgg.org/) on how to [theme it](http://docs.elgg.org/wiki/Themes), [getting started with Elgg
-        development](http://docs.elgg.org/wiki/Getting_Started_With_Development) or how to extend it with [plugins](http://docs.elgg.org/wiki/Plugin_development). They also run their own
-        [community](http://community.elgg.org/) where you can talk to other Elgg
+        [fantastic documentation](//docs.elgg.org/) on how to [theme it](//docs.elgg.org/wiki/Themes), [getting started with Elgg
+        development](//docs.elgg.org/wiki/Getting_Started_With_Development) or how to extend it with [plugins](//docs.elgg.org/wiki/Plugin_development). They also run their own
+        [community](//community.elgg.org/) where you can talk to other Elgg
       developers and users.
 
 You can read, check out and alter the code that is running on connect.opensuse.org in our
-      gitorious repository [http://gitorious.org/opensuse/connect ](http://gitorious.org/opensuse/connect)and communicate with us about your changes on
+      gitorious repository [//gitorious.org/opensuse/connect ](//gitorious.org/opensuse/connect)and communicate with us about your changes on
       our mailing list [opensuse-web](mailto:opensuse-web@opensuse.org), so get
       going. Happy Hacking!
 
 **Enjoy this new addition to the family of openSUSE tools …and don’t
         forget to mingle today!**
 
-**License**: [FDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [FDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
 
-### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Distribution
+### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Distribution
 
 Important Links
 
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
   * [Submitting Bug
-            Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+            Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
   * [Bug Reporting
-            FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+            FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
-### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Built-with-web-big.png)SUSE Studio
+### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Built-with-web-big.png)SUSE Studio
 
 “
 
-[SUSE Studio: Upgrade your older appliances to openSUSE 11.4](http://blog.susestudio.com/2011/03/upgrade-your-older-appliances-to.html)
+[SUSE Studio: Upgrade your older appliances to openSUSE 11.4](//blog.susestudio.com/2011/03/upgrade-your-older-appliances-to.html)
 
 Since [rolling
-          out openSUSE 11.4 support](http://blog.susestudio.com/2011/03/opensuse-114-support.html) last week we have been flooded by questions how to
+          out openSUSE 11.4 support](//blog.susestudio.com/2011/03/opensuse-114-support.html) last week we have been flooded by questions how to
         upgrade older openSUSE appliances to 11.4. Today we have an answer — we enabled the 11.4
         upgrade. 
 
@@ -264,7 +264,7 @@ What exactly “magic” means here? We try to change repositories to their 11.4
 
 Sometimes the upgraded appliance will need some more tweaks to make it work. Just
         inspect the log, see what was changed, and apply any additional adjustments. Let us know
-        what you had to do on our [forum](http://susestudio.com/forum/) or [mailing list](mailto:studio-users@suse.de) so we can improve the upgrade in
+        what you had to do on our [forum](//susestudio.com/forum/) or [mailing list](mailto:studio-users@suse.de) so we can improve the upgrade in
         the future. 
 
 If you are not satisifed with the upgrade, you can always revert to original version by
@@ -274,11 +274,11 @@ If you are not satisifed with the upgrade, you can always revert to original ver
 
 ### Team Report
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
 
-Build Service Statistics. Statistics can found at [Buildservice](http://build.opensuse.org)
+Build Service Statistics. Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-fate.png)openFATE Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -303,7 +303,7 @@ Build Service Statistics. Statistics can found at [Buildservice](http://build.o
 
 "I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -357,9 +357,9 @@ Ray's comment starting with "Every flicker and mode change in the boot
 
 "please add an lldp package 
 
-http://en.wikipedia.org/wiki/Link_Layer_Discovery_Protocol 
+//en.wikipedia.org/wiki/Link_Layer_Discovery_Protocol 
 
-see also: https://trac.luffy.cx/lldpd/ or http://openlldp.sourceforge.net/
+see also: https://trac.luffy.cx/lldpd/ or //openlldp.sourceforge.net/
             "
 
 ”
@@ -483,7 +483,7 @@ This software could then upload the test results to a public online database in
 
 Please reference the features from the following wiki page: 
 
-http://www.freedesktop.org/wiki/Software/urfkill 
+//www.freedesktop.org/wiki/Software/urfkill 
 
 In the future, Our plan is use urfkill daemon to replace the rfkill-input kernel
             module for provide more flexibility wifi hotkey control."
@@ -539,12 +539,12 @@ Development / Beta versions of openSuSE should come with that application enable
 Statistics for openSUSE distribution [in
           openFATE](https://features.opensuse.org/statistic/product/opensuse_dist)
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Testing Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Suse_Box.png)Testing Team
 
 “
 
 [Weekly
-            News for March 19](http://lists.opensuse.org/opensuse-testing/2011-03/msg00008.html)
+            News for March 19](//lists.opensuse.org/opensuse-testing/2011-03/msg00008.html)
 
 The Testing Core Team met March 14, 2011 at 18:00 UTC.
 
@@ -566,28 +566,28 @@ Please plan to join the bug identification effort.
 
 ”
 
-#### ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
             – [Localization
-              Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+              Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Icon-project.png)In the Community
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Icon-project.png)In the Community
 
 ### Postings from the Community
 
 “
 
-[Michal Hrušecký: Virtual openSUSE 11.4 Release party](http://michal.hrusecky.net/2011/03/virtual-opensuse-11-4-release-party/)
+[Michal Hrušecký: Virtual openSUSE 11.4 Release party](//michal.hrusecky.net/2011/03/virtual-opensuse-11-4-release-party/)
 
-Last week I managed to attend [virtual ﻿openSUSE 11.4 Release party](http://lizards.opensuse.org/2011/03/10/virtual-party-its-now-eat-my-geekos-cake/) in [Second Life](http://secondlife.com/). I got registered there especially to able to attend this event so it
+Last week I managed to attend [virtual ﻿openSUSE 11.4 Release party](//lizards.opensuse.org/2011/03/10/virtual-party-its-now-eat-my-geekos-cake/) in [Second Life](//secondlife.com/). I got registered there especially to able to attend this event so it
         took me some time to figure out how it all works. Although I’m still learning how Second
         Life works, I’m now able to perform basic tasks and move around freely. Big thanks to
         ﻿﻿﻿Morgane Marquis for helping me. I’m still learning new stuff and it’s fun.
 
-![](http://michal.hrusecky.net/wp-content/uploads/sl.jpg)
+![](//michal.hrusecky.net/wp-content/uploads/sl.jpg)
 
 Now back to the release party. We meet at Geekos Place in Second Life. It is awesome
         place to visit and you still can. Lot of geekos everywhere. We talked, had a few beers and
@@ -596,20 +596,20 @@ Now back to the release party. We meet at Geekos Place in Second Life. It is awe
         Overall, we had a lot of fun. It’s our motto, isn’t it ;-) We even did some huging (if you
         know Jos, you know what I’m talking about). You can see pictures from the party in following galeries:
 
-  * [Event gallery by Bruno Friedmann (March 10)](http://picasaweb.google.com/friedmann.bruno/VirtualLaunchPartyMarch10th?feat=directlink)
+  * [Event gallery by Bruno Friedmann (March 10)](//picasaweb.google.com/friedmann.bruno/VirtualLaunchPartyMarch10th?feat=directlink)
 
-  * [Event gallery by Bruno Friedmann (March 11)](http://picasaweb.google.com/friedmann.bruno/VirtualPartyOpenSUSE114March11th?feat=directlink)
+  * [Event gallery by Bruno Friedmann (March 11)](//picasaweb.google.com/friedmann.bruno/VirtualPartyOpenSUSE114March11th?feat=directlink)
 
-  * [Gallery by Carlos Ribiero](http://picasaweb.google.com/carlosalberto.net/OpenSUSE114VirtualLaunchPartyAtSecondLife)
+  * [Gallery by Carlos Ribiero](//picasaweb.google.com/carlosalberto.net/OpenSUSE114VirtualLaunchPartyAtSecondLife)
 
   * [Gallery
-                by Kknundy](http://www.flickr.com/photos/kknundy/sets/72157626239575116/)
+                by Kknundy](//www.flickr.com/photos/kknundy/sets/72157626239575116/)
 
 So it was great and I liked it. Now obvious question is, what was your opinion? Did you
         liked it as much as I have? Do you like virtual events? Would you like to see some more
         virtual events? Let me know and I’ll let Bruno and ﻿Morgane know ;-)
 
-**License**: [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+**License**: [CC-BY-NC-SA](//creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ”
 
@@ -617,31 +617,31 @@ So it was great and I liked it. Now obvious question is, what was your opinion? 
 
 Past
 
-  * [March 16, 2011 : openSUSE KDE Team Meeting](http://news.opensuse.org/2011/03/15/opensuse-kde-team-meeting/)
+  * [March 16, 2011 : openSUSE KDE Team Meeting](//news.opensuse.org/2011/03/15/opensuse-kde-team-meeting/)
 
-  * [March 17, 2011 : openSUSE 11.5 KDE Team planning meeting](http://news.opensuse.org/2011/03/16/opensuse-11-5-kde-team-planning-meeting/)
+  * [March 17, 2011 : openSUSE 11.5 KDE Team planning meeting](//news.opensuse.org/2011/03/16/opensuse-11-5-kde-team-planning-meeting/)
 
 Upcoming
 
-  * [March 23, 2011 : Project Meeting](http://news.opensuse.org/2010/02/09/opensuse-project-meetings/)
+  * [March 23, 2011 : Project Meeting](//news.opensuse.org/2010/02/09/opensuse-project-meetings/)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-      or download it on [Radiotux](http://blog.radiotux.de/podcast). 
+      or download it on [Radiotux](//blog.radiotux.de/podcast). 
 
 ### From Ambassadors
 
 “
 
-[openSUSE 11.4 Arrives in San Diego](http://www.bryen.com/opensuse-11-4-arrives-in-san-diego/)
+[openSUSE 11.4 Arrives in San Diego](//www.bryen.com/opensuse-11-4-arrives-in-san-diego/)
       
 
 The latest release of openSUSE 11.4 on Thursday proved to be a very good release day for
         us around the world. And in celebrating the release day, several of us came to visit San
-        Diego’s Kernel Panic Linux User Group ([KPLUG](http://www.kernel-panic.org/)). It was a good crowd at the event with the members of KPLUG and friends
+        Diego’s Kernel Panic Linux User Group ([KPLUG](//www.kernel-panic.org/)). It was a good crowd at the event with the members of KPLUG and friends
         some of us invited to join the festivities and learn about openSUSE.
 
 Representing openSUSE were local openSUSE guru Tony Su, Brazilian Ambassadors Carlos
@@ -650,7 +650,7 @@ Representing openSUSE were local openSUSE guru Tony Su, Brazilian Ambassadors Ca
 
 Figure 1. Opening presentation statements
 
-![Opening presentation statements](http://www.bryen.com/wp-content/uploads/2011/03/DSC00641-KPLUG-Tony-Bryen.png)
+![Opening presentation statements](//www.bryen.com/wp-content/uploads/2011/03/DSC00641-KPLUG-Tony-Bryen.png)
 
   
 
@@ -665,7 +665,7 @@ As most people present weren’t users of openSUSE, we decided to focus our mess
 
 Figure 2. Tony extolls the virtues of YaST
 
-![Tony extolls the virtues of YaST](http://www.bryen.com/wp-content/uploads/2011/03/DSC00648-Tony-KPLUG.png)
+![Tony extolls the virtues of YaST](//www.bryen.com/wp-content/uploads/2011/03/DSC00648-Tony-KPLUG.png)
 
   
 
@@ -683,7 +683,7 @@ Afterwards, in the grand tradition of openSUSE Launch Parties, we gave out cake 
 
 Figure 3. Every green morsel was delicious!
 
-![Every green morsel was delicious!](http://www.bryen.com/wp-content/uploads/2011/03/DSC00628-KPLUG-Cake.png)
+![Every green morsel was delicious!](//www.bryen.com/wp-content/uploads/2011/03/DSC00628-KPLUG-Cake.png)
 
   
 
@@ -708,7 +708,7 @@ Next stop, representnin’ GNOME Foundation Accessibility at the CSUN Assistive 
 
 “
 
-[Greek openSUSE Ambassadors: openSUSE 11.4 Release Party-The Next day](http://opensuseambassadors.blogspot.com/2011/03/opensuse-114-release-party-next-day.html)
+[Greek openSUSE Ambassadors: openSUSE 11.4 Release Party-The Next day](//opensuseambassadors.blogspot.com/2011/03/opensuse-114-release-party-next-day.html)
 
 ![](https://lh6.googleusercontent.com/_EX6cn8rqip4/TX1ywq6uNSI/AAAAAAAAAyU/AV-VhjC4u1k/s320/SAM_0746.JPG)
 
@@ -745,43 +745,43 @@ We proved once again that openSUSE people most of all have fun because openSUSE 
 Unfortunately it is impossible to fit all photos from the party here so if you like to
         see some more go to: [https://picasaweb.google.com/warlordfff/OpenSUSE114ReleaseParty#](https://picasaweb.google.com/warlordfff/OpenSUSE114ReleaseParty#)
 
-**License**: [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
+**License**: [CC-BY-SA](//creativecommons.org/licenses/by-sa/3.0/)
 
 ”
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
 “
 
 [Christian Boltz:
-        Releases!](http://blog.cboltz.de/archives/58-Releases!.html)
+        Releases!](//blog.cboltz.de/archives/58-Releases!.html)
 
 One blog post, two releases:
 
   * I just released [PostfixAdmin
-              2.3.3](http://sf.net/projects/postfixadmin) - a pure bugfix release, see the [Changelog](http://postfixadmin.svn.sourceforge.net/viewvc/postfixadmin/tags/postfixadmin-2.3.3/CHANGELOG.TXT) for details;-)
+              2.3.3](//sf.net/projects/postfixadmin) - a pure bugfix release, see the [Changelog](//postfixadmin.svn.sourceforge.net/viewvc/postfixadmin/tags/postfixadmin-2.3.3/CHANGELOG.TXT) for details;-)
 
-  * [openSUSE 11.4](http://software.opensuse.org/) was released last
+  * [openSUSE 11.4](//software.opensuse.org/) was released last
             thursday - with lots of new versions, features, and, most pleasant for me, with AppArmor
             2.5.1 and working AppArmor utilities :-) See the [official openSUSE Release
-              Announcement](http://news.opensuse.org/2011/03/10/opensuse-11-4/) for details.
+              Announcement](//news.opensuse.org/2011/03/10/opensuse-11-4/) for details.
 
 ”
 
 “
 
 [Packman: gmusicbrowser
-        1.1.6](http://packman.links2linux.org/package/gmusicbrowser/)
+        1.1.6](//packman.links2linux.org/package/gmusicbrowser/)
 
 An open-source jukebox for large collections of mp3/ogg/flac/mpc files
 
@@ -790,7 +790,7 @@ An open-source jukebox for large collections of mp3/ogg/flac/mpc files
 “
 
 [Packman: bombono
-        1.0.1](http://packman.links2linux.org/package/bombono)
+        1.0.1](//packman.links2linux.org/package/bombono)
 
 DVD authoring program
 
@@ -799,7 +799,7 @@ DVD authoring program
 “
 
 [Packman: clementine
-        0.6](http://packman.links2linux.org/package/clementine)
+        0.6](//packman.links2linux.org/package/clementine)
 
 A cross-platform Music Player based on Amarok 1.4
 
@@ -808,7 +808,7 @@ A cross-platform Music Player based on Amarok 1.4
 “
 
 [Packman:
-        imageshack-uploader 2.2.0](http://packman.links2linux.org/package/imageshack-uploader)
+        imageshack-uploader 2.2.0](//packman.links2linux.org/package/imageshack-uploader)
 
 Imageshack Uploader
 
@@ -817,21 +817,21 @@ Imageshack Uploader
 “
 
 [Packman: gnash
-        0.8.8.99.git20110317.1841](http://packman.links2linux.org/package/gnash)
+        0.8.8.99.git20110317.1841](//packman.links2linux.org/package/gnash)
 
 Free Flash movie player
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE
-      Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+      Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
 “
 
-[SUSE Security Announcement: Mozilla Firefox (SUSE-SA:2011:013)](http://lists.opensuse.org/opensuse-security-announce/2011-03/msg00002.html)
+[SUSE Security Announcement: Mozilla Firefox (SUSE-SA:2011:013)](//lists.opensuse.org/opensuse-security-announce/2011-03/msg00002.html)
 
 <table frame="void" id="id319597" >Table 1. Security Announce<tr >
           
@@ -875,30 +875,30 @@ To view the security announcements in full, or to receive them as soon as they'r
 </td>
         </tr></tbody></table>”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
 
 “
 
-[Rares Aioanei: kernel weekly news – 19.03.2011](http://schaiba.wordpress.com/2011/03/18/kernel-weekly-news-19-03-2011/)
+[Rares Aioanei: kernel weekly news – 19.03.2011](//schaiba.wordpress.com/2011/03/18/kernel-weekly-news-19-03-2011/)
 
 Rares published the Kernel Review for this Week. Thanks for working on it :-)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
 ### For Desktop Users
 
 “
 
-[Nelson Marques: openSUSE 11.4 :: Wine… A practical case…](http://lizards.opensuse.org/2011/03/15/opensuse-11-4-wine-a-practical-case/)
+[Nelson Marques: openSUSE 11.4 :: Wine… A practical case…](//lizards.opensuse.org/2011/03/15/opensuse-11-4-wine-a-practical-case/)
 
 For some time I follow the [openSUSE
-          Forums](http://forums.opensuse.org) which provide me a very interesting view about what our users do with
+          Forums](//forums.opensuse.org) which provide me a very interesting view about what our users do with
         openSUSE. I’ve noticed there are some relevant questions about Wine once in a while in the
         Games forums. 
 
-A few time ago one of my friends nagged me a lot to do a couple of levels in [Lord of the Rings Online](http://bit.ly/ei1sL7) which has a ‘Free Play’ plan
+A few time ago one of my friends nagged me a lot to do a couple of levels in [Lord of the Rings Online](//bit.ly/ei1sL7) which has a ‘Free Play’ plan
         in Europe. People can create an account and play for free the game with some restrictions
         (contents, equipment, items, etc). Players also have the option of using the online game
         store to unlock several aspects of the game. I’ve used a free play account for this, as I
@@ -906,7 +906,7 @@ A few time ago one of my friends nagged me a lot to do a couple of levels in [Lo
 
 I’ve downloaded and installed the game in a Windows 7 computer (abour 10.5GB’s), updated
         it and it works as expected. My laptop has somehow better hardware and I’ve decided to see
-        how it would run under openSUSE through wine! On [WineHQ](http://www.winehq.org/) there’s some extensive know-how shared by the community about this game…
+        how it would run under openSUSE through wine! On [WineHQ](//www.winehq.org/) there’s some extensive know-how shared by the community about this game…
         for my little experiment I’ve used the following:
 
   * Lord of the Rings Online installation files pulled from the installer (since I had
@@ -940,7 +940,7 @@ Installing wine on openSUSE is pretty easy (like any other software package). Ma
 As I’ve stated previously, I’ve had available the installation cache files from a
         previous Windows installation which made my life easier (around 10.5GB). If this is not your
         case, you can look into WineHQ and check how it goes with the installer. An interesting
-        thread can be found [here](http://bit.ly/fNf5iA). 
+        thread can be found [here](//bit.ly/fNf5iA). 
 
 When one installs LOTRO on a Windows Machine it will create a folder on the Desktop
         called LOTRO_* which will contain a local cache of the files necessary to install the game.
@@ -955,9 +955,9 @@ When one installs LOTRO on a Windows Machine it will create a folder on the Desk
 
 There’s ways to run the game and the Turbine launcher (.NET) isn’t really friendly of
         wine. I’ve decided to go for PyLotRO which is a small launcher written in Python. I’ve made
-        a small test package which is available on my test repository in OBS ([openSUSE Build Service](http://build.opensuse.org/)) and called it
-        python-lotro. You can find it [here](http://bit.ly/e2GLTb). For openSUSE
-        11.4 it can download this RPM, [python-lotro-0.1.14-4.1.noarch.rpm](http://bit.ly/eM96wk) and install it with: **sudo zypper install python-lotro-0.1.14-4.1.noarch.rpm**. This will also create
+        a small test package which is available on my test repository in OBS ([openSUSE Build Service](//build.opensuse.org/)) and called it
+        python-lotro. You can find it [here](//bit.ly/e2GLTb). For openSUSE
+        11.4 it can download this RPM, [python-lotro-0.1.14-4.1.noarch.rpm](//bit.ly/eM96wk) and install it with: **sudo zypper install python-lotro-0.1.14-4.1.noarch.rpm**. This will also create
         a link on your Games menu entry (works in GNOME, never tested on KDE). 
 
 You have the Linux launcher installer and are a tiny step away from being able to play
@@ -970,7 +970,7 @@ PyLotRO provides a small interface with the very basic functionality available f
         features. Here’s a small screenshot how it’s looks:
 
 <table cellpadding="0" cellspacing="0" border="0" width="40%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://lizards.opensuse.org/wp-content/uploads/2011/03/Screenshot-Lord-of-the-Rings-Online-Launcher-for-Linux.png)
+<td >![](//lizards.opensuse.org/wp-content/uploads/2011/03/Screenshot-Lord-of-the-Rings-Online-Launcher-for-Linux.png)
 </td></tr></table>
 
 To update the game, it’s only required to hit the ‘**Tools**‘ menu and select ‘**Patch**‘. This will
@@ -1006,18 +1006,18 @@ This was a very pleasant experience, and it really surprised me on the positive.
         OpenSUSE has a very nice version of wine capable of running at least LotRO and World of
         Warcraft without any issues! It’s something that is worth trying with openSUSE!
 
-**Licenses**: [FDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**Licenses**: [FDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
 
 ”
 
 “
 
-[Martin Schlander: GNOME NetworkManager Applet in KDE in openSUSE 11.4](http://mschlander.wordpress.com/2011/03/17/gnome-networkmanager-applet-in-kde-in-opensuse-11-4/)
+[Martin Schlander: GNOME NetworkManager Applet in KDE in openSUSE 11.4](//mschlander.wordpress.com/2011/03/17/gnome-networkmanager-applet-in-kde-in-opensuse-11-4/)
 
 The KDE NetworkManager plasmoid used in openSUSE 11.4 has some issues and rough edges.
         Some of those will be fixed in an online update expected to be out soon. If you want to help
         make the NetworkManager plasmoid better you can read about filing good bug reports against
-        it [here](http://userbase.kde.org/NetworkManagement).
+        it [here](//userbase.kde.org/NetworkManagement).
 
 If the plasmoid is not working for your needs you can easily and safely use the GNOME
         NetwokManager applet (nm-applet) in KDE instead. Just follow the steps below (# means run as
@@ -1026,7 +1026,7 @@ If the plasmoid is not working for your needs you can easily and safely use the 
   * Upgrade oxygen-gtk – otherwise nm-applet will fail to
               start:
 
-# zypper addrepo -f http://download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_11.4 kua
+# zypper addrepo -f //download.opensuse.org/repositories/KDE:/UpdatedApps/openSUSE_11.4 kua
 # zypper install 'oxygen-gtk>=1.0.3'
 
   * Install nm-applet:
@@ -1046,7 +1046,7 @@ $ ln -s /usr/bin/nm-applet ~/.kde4/Autostart/nm-applet-link
   * Reboot
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://mschlander.files.wordpress.com/2011/03/nm-applet1.png)
+<td >![](//mschlander.files.wordpress.com/2011/03/nm-applet1.png)
 </td></tr></table>
 
 Thanks to oxygen-gtk nm-applet will even integrate quite well in the look and feel of
@@ -1056,7 +1056,7 @@ Thanks to oxygen-gtk nm-applet will even integrate quite well in the look and fe
 
 “
 
-[TechRepublic/Jack Wallen: Five tips for faster Web browsing](http://www.techrepublic.com/blog/five-tips/five-tips-for-faster-web-browsing/722)
+[TechRepublic/Jack Wallen: Five tips for faster Web browsing](//www.techrepublic.com/blog/five-tips/five-tips-for-faster-web-browsing/722)
 
 **Takeaway**: If you’re wasting too much time waiting (and
         waiting and waiting) for Web pages to load, give these tips a try. You should see an
@@ -1081,7 +1081,7 @@ Not every solution will work for every user, and not every solution should even 
 
 “
 
-[Stefan Seyfried: (e)glibc cross compiling issue…](http://seife.kernalert.de/blog/2011/03/17/eglibc-cross-compiling-issue/)
+[Stefan Seyfried: (e)glibc cross compiling issue…](//seife.kernalert.de/blog/2011/03/17/eglibc-cross-compiling-issue/)
 
 While building a brand new powerpc cross-compiler with crosstool-ng (which is great), I
         came about a simple issue which was unexpectedly hard to
@@ -1098,7 +1098,7 @@ Using different combinations of build helper tools, eglibc, gcc, whatever did no
         nothing you’d want to rely on for a toolchain to be used by others. 
 
 But finally I came across [this mail from Mike
-          Frysinger](http://sourceware.org/ml/libc-help/2009-02/msg00023.html) which finally showed that it can be as easy
+          Frysinger](//sourceware.org/ml/libc-help/2009-02/msg00023.html) which finally showed that it can be as easy
         as
 
 CT_LIBC_GLIBC_EXTRA_CFLAGS="-U_FORTIFY_SOURCE"
@@ -1154,23 +1154,23 @@ as you can see after modification class is exact same as before ( except if ther
         which can have flag. I hope it help someone with his fix of not so well written piece of
         software.
 
-**License**: [FDL 1.2](http://lizards.opensuse.org/2011/03/18/temporary-overwrite-method-for-specific-task/)
+**License**: [FDL 1.2](//lizards.opensuse.org/2011/03/18/temporary-overwrite-method-for-specific-task/)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
 
 “
 
-[Martin Schlander: openSUSE 11.4 has been released](http://mschlander.wordpress.com/2011/03/12/opensuse-11-4-has-been-released/)
+[Martin Schlander: openSUSE 11.4 has been released](//mschlander.wordpress.com/2011/03/12/opensuse-11-4-has-been-released/)
 
-In case you hadn’t heard, openSUSE 11.4 was released this Thursday, and as usual [opensuse-guide.org](http://opensuse-guide.org/) was updated at the same time. 
+In case you hadn’t heard, openSUSE 11.4 was released this Thursday, and as usual [opensuse-guide.org](//opensuse-guide.org/) was updated at the same time. 
 
 I think overall it’s a very good release, besides being the first major distribution to
       ship KDE SC 4.6, LibreOffice Linux 2.6.37 with free Broadcom wlan drivers (for some recent
       chips) and other goodies. 
 
-You can read the announcement [here](http://news.opensuse.org/2011/03/10/opensuse-11-4/) or read the [Product highlights](http://en.opensuse.org/Product_highlights) for a more
+You can read the announcement [here](//news.opensuse.org/2011/03/10/opensuse-11-4/) or read the [Product highlights](//en.opensuse.org/Product_highlights) for a more
       extensive presentation of the new stuff.
 
 As customary I like to also prepare people for the most likely causes of problems:
@@ -1199,7 +1199,7 @@ That’s it for me. Have a lot of fun with 11.4.
 
 “
 
-[Nelson Marques: openSUSE 11.4 :: How it goes in Portugal ?!](http://lizards.opensuse.org/2011/03/13/opensuse-11-4-how-it-goes-in-portugal/)
+[Nelson Marques: openSUSE 11.4 :: How it goes in Portugal ?!](//lizards.opensuse.org/2011/03/13/opensuse-11-4-how-it-goes-in-portugal/)
 
 I’ve been following the biggest general technology forum in Portugal with a close eye for
       openSUSE 11.4 comments and reviews… 10 years ago SuSE Linux was one of the predominant Linux
@@ -1264,16 +1264,16 @@ License: GFDL V1.2
 
 “
 
-[Cornelius Schumacher: It's not an address book](http://blog.cornelius-schumacher.de/2011/03/its-not-address-book.html)
+[Cornelius Schumacher: It's not an address book](//blog.cornelius-schumacher.de/2011/03/its-not-address-book.html)
 
 It began about [ten years
-        ago](http://markmail.org/message/7ef64iba64mjoy4a), when I [rewrote the
-        KDE address book library](http://markmail.org/message/cyt6drrtjjem2xti). I implemented a nice API, vCard parsing, and a
+        ago](//markmail.org/message/7ef64iba64mjoy4a), when I [rewrote the
+        KDE address book library](//markmail.org/message/cyt6drrtjjem2xti). I implemented a nice API, vCard parsing, and a
       representation of something I called an Addressee back then, a contact, the data belonging to
       a person or any other entity, closely modelled after the fields of vCard, which is a fine
       standard for storing and exchanging address book data.
 
-We wrote [KAddressBook](http://userbase.kde.org/KAddressBook_4.3) as an
+We wrote [KAddressBook](//userbase.kde.org/KAddressBook_4.3) as an
       application to manage contact data on top of the address book library, and while it's a nice
       and useful application, in some ways it still follows to some degree the technical thinking
       coming from the structure of the underlying implementation. This shows in the user interface,
@@ -1283,12 +1283,12 @@ So I thought it would be a good idea to experiment a bit and approach the task o
       people data from the other direction. Ignoring technical aspects of the implementation, or
       constraints of underlying technology, but thinking from a user's point of view, thinking about
       what's a natural way how to deal with this kind of data. I started to think and code a bit,
-      and during [Hackweek 6](http://en.opensuse.org/Portal:Hackweek) I went on
+      and during [Hackweek 6](//en.opensuse.org/Portal:Hackweek) I went on
       and got the application I started to a level where I think it's time now to share it and
       gather some more feedback.
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://en.opensuse.org/images/8/8e/Hackweek6Logo.png)
+<td >![](//en.opensuse.org/images/8/8e/Hackweek6Logo.png)
 </td></tr></table>
 
 But before I come to the application itself, here is some of the motives and concepts
@@ -1418,9 +1418,9 @@ The central part of Polka is the group view. It shows a group of people and poss
 
 By default all people are shown in a compact regular arrangement, but you can simply move
       all entries around to create a different arrangement. The next screenshot shows an example.
-      It's the group of people, who attended the [Osnabrück 8 meeting](http://community.kde.org/KDE_PIM/Meetings/Osnabrueck_8).
+      It's the group of people, who attended the [Osnabrück 8 meeting](//community.kde.org/KDE_PIM/Meetings/Osnabrueck_8).
       The arrangement reflects where people were on the [group
-        photo](http://community.kde.org/File:KDEPIM_Meetings_Osnabrueck8_group.jpg). 
+        photo](//community.kde.org/File:KDEPIM_Meetings_Osnabrueck8_group.jpg). 
 
 ![](https://lh3.googleusercontent.com/-jPlKm7h6dew/TX15iHRxVLI/AAAAAAAAAKI/Xfh7gyKzxJM/s320/polka_group_menu.png)
 
@@ -1530,7 +1530,7 @@ Other than that it's a pretty much standard KDE application. It doesn't make too
 
 **Code**
 
-The code for Polka is available at [git://anongit.kde.org/scratch/cschumac/polka.git](http://quickgit.kde.org/?p=scratch/cschumac/polka.git). It's still experimental, so use
+The code for Polka is available at [git://anongit.kde.org/scratch/cschumac/polka.git](//quickgit.kde.org/?p=scratch/cschumac/polka.git). It's still experimental, so use
       with care, although by the use of git as a storage backend your data is pretty safe. 
 
 I don't have specific plans for making a release or making it a more official part of KDE
@@ -1548,24 +1548,24 @@ So I'm at the end with this blog post, and while it is a very long post, there i
 
 “
 
-[OMG! SUSE!/rtyler: Sharing openSUSE with the world, via MirrorBrain](http://omgsuse.com/content/sharing-opensuse-world-mirrorbrain)
+[OMG! SUSE!/rtyler: Sharing openSUSE with the world, via MirrorBrain](//omgsuse.com/content/sharing-opensuse-world-mirrorbrain)
 
 Some of our readers might not know this, but the release of openSUSE 11.4 is actually the
         **second** release that OMG! SUSE! has had the opportunity to
       cover, the first one being [openSUSE
-        11.3](http://omgsuse.com/content/meet-opensuse-113). 
+        11.3](//omgsuse.com/content/meet-opensuse-113). 
 
 Shortly after the 11.3 release, I reached out to some of the folks responsible for
       coordinating the distribution of **terabytes** of openSUSE on
-      release day. I managed to interview [Peter Pöml](http://poeml.de/) one of
+      release day. I managed to interview [Peter Pöml](//poeml.de/) one of
       the creators of MirrorBrain, the brain (weak-pun intended) behind distributing some of the
-      biggest projects on the internet, including [openSUSE](http://opensuse.org/).
+      biggest projects on the internet, including [openSUSE](//opensuse.org/).
 
 <table cellpadding="0" cellspacing="0" border="0" width="10%" summary="manufactured viewport for HTML img" ><tr >
-<td align="right" >![](http://pixelpressicons.com/MinersHelmet.jpg)
+<td align="right" >![](//pixelpressicons.com/MinersHelmet.jpg)
 </td></tr></table>
 
-At a high level, MirrorBrain allows a central server such as [download.opensuse.org](http://download.opensuse.org/) utilize a vast network of
+At a high level, MirrorBrain allows a central server such as [download.opensuse.org](//download.opensuse.org/) utilize a vast network of
       "mirrors" for distributing enormous amounts of data in such a way that users are downloading
       from a mirror that's "close" to them. For example, if you're in the UK, MirrorBrain will try
       to bounce you to a UK mirror, failing that a european mirror, and so on.
@@ -1640,7 +1640,7 @@ But the DVD and CD images' distribution is a bagatelle, from the perspective of
       by the mirrors! Their bandwidth, hardware and manpower which they contribute is what makes
       openSUSE whir. 
 
-You'd have to look very, very hard at [openSUSE's apache stats](http://download.opensuse.org/apachestats/) to see any
+You'd have to look very, very hard at [openSUSE's apache stats](//download.opensuse.org/apachestats/) to see any
       effect of the recent release on openSUSE's infrastructure.
 
 For the mirrors however, the release causes a very noticeable peak, since the files are
@@ -1660,7 +1660,7 @@ Another design goal of MirrorBrain was reusability and modularity, because an in
       solution didn't seem to have the chance to grow enough. So MirrorBrain is open source and
       freely available to other projects, and attempts to suit them as well. OpenOffice.org and the
       Free Software Foundation use MirrorBrain, and Sourceforge uses components of it. The users
-      that I know of are [collected here](http://mirrorbrain.org/users/).
+      that I know of are [collected here](//mirrorbrain.org/users/).
 
 **OMG! SUSE!**: Does MirrorBrain
         incorporate any "health" or speed metrics to try to determine if a mirror is slowing down?
@@ -1710,20 +1710,20 @@ Regarding other files (not ISOs), we have pursued a different approach. We have 
       way. 
 
 This method could also used for ISO images (see: [Best way to
-        download openSUSE](http://lizards.opensuse.org/2008/12/16/best-way-to-download-opensuse/)) and it would be ideal if web browsers would natively support this
+        download openSUSE](//lizards.opensuse.org/2008/12/16/best-way-to-download-opensuse/)) and it would be ideal if web browsers would natively support this
       technology. For now, this isn't the case though. I have been working hard on a standard for
       the Metalink Download Description format for more than a year, because protocol
       standardization would probably lower the barrier of such implementations, and the standard has
-      been [published](http://tools.ietf.org/html/rfc5854) in March this year. 
+      been [published](//tools.ietf.org/html/rfc5854) in March this year. 
 
 Regarding mirror selection, the client is geolocated by GeoIP and the network prefix and
       its autonomous system is looked at. The process is [illustrated
-      here](http://www.poeml.de/~poeml/talks/free_software_CDN_vision.pdf). Mirrors from the same country (or same continent) are preferred, or in the case
+      here](//www.poeml.de/~poeml/talks/free_software_CDN_vision.pdf). Mirrors from the same country (or same continent) are preferred, or in the case
       of some countries there's a special configuration that makes sure that a useful choice is
       made. For instance, it could be a nearby country that works best (New Zealand -> Australia),
       or it could be a country far away that works much better than a neighbouring country
       (Mozambique -> Germany instead of South Africa). This [presentation from
-        FOSDEM](http://mirrorbrain.org/static/talks/mirrorbrain_fosdem_2010.pdf) contains such an example, which shows that a simple proximity- or
+        FOSDEM](//mirrorbrain.org/static/talks/mirrorbrain_fosdem_2010.pdf) contains such an example, which shows that a simple proximity- or
       geolocation-based choice is not enough.
 
 From all mirrors that are eligible for a request, a weighted randomized choice is made, so
@@ -1773,7 +1773,7 @@ The reason behind this is that it takes time to spread the files to the mirrors 
         "go live" around mid-day in Europe and early morning in the United States. Do you have an
         idea when traffic "peaks" after a release?
 
-**Peter**: Usually, after 6-10 hours. All traffic that [download.opensuse.org](http://download.opensuse.org/) receives follows a clearly
+**Peter**: Usually, after 6-10 hours. All traffic that [download.opensuse.org](//download.opensuse.org/) receives follows a clearly
       visible circadian rhythm. The release peak also follows this and overlays it.
 
 **OMG! SUSE!**: This has all been
@@ -1787,19 +1787,19 @@ The reason behind this is that it takes time to spread the files to the mirrors 
       sponsoring of the development of a new feature and fixing of bugs, testing, packaging,
       documentation, testing the documentation, or lastly (but not least) a donation. Donations can
       ensure all of the above. We have a [donations
-        link](http://mirrorbrain.org/donations/) on the site and feel free to spread the word.
+        link](//mirrorbrain.org/donations/) on the site and feel free to spread the word.
 
 I'd like to take this opportunity to publicly thank Peter for taking time out of his busy
       schedule to share so much information with us about distibuting a major operating system like
-      openSUSE. You can learn more about MirrorBrain at [mirrorbrain.org](http://mirrorbrain.org/).
+      openSUSE. You can learn more about MirrorBrain at [mirrorbrain.org](//mirrorbrain.org/).
 
-**License**: [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
+**License**: [CC-BY-SA](//creativecommons.org/licenses/by-sa/3.0/)
 
 ”
 
 “
 
-[Chuck Payne: Time to start writing again](http://opensuse.terrorpup.net/?p=246)
+[Chuck Payne: Time to start writing again](//opensuse.terrorpup.net/?p=246)
 
 I know since the elections it’s been very quite here. I been on the openSUSE Wave that’s
       calming down a bit, which is sad, because it been a wonderful ride. It fact lately I feel I am
@@ -1819,48 +1819,48 @@ Coming back from that week, I got sick but couldn’t slow down because of the r
 
 “
 
-[Kostas Koudaras: Attachmate - A supportive friend of the openSUSE Project](http://e-tote-kala.blogspot.com/2011/03/attachmate-supportive-friend-of.html)
+[Kostas Koudaras: Attachmate - A supportive friend of the openSUSE Project](//e-tote-kala.blogspot.com/2011/03/attachmate-supportive-friend-of.html)
 
 ![](https://lh4.googleusercontent.com/-RHd1mQJWS0s/TX5b1sDf6pI/AAAAAAAAA8Q/D4kH-fD9cWo/s1600/cip_attachmate-sold.gif)
 
-Today, Jeff Hawn the Chairman and CEO of [Attachmate](http://www.attachmate.com/) made an announcement [congratulating the openSUSE community on the release of openSUSE 11.4](http://www.attachmate.com/Press/PressReleases/congratulations-openSUSE-project.htm). It is the
-      second press release of [Attachmate](http://www.attachmate.com/) after the
+Today, Jeff Hawn the Chairman and CEO of [Attachmate](//www.attachmate.com/) made an announcement [congratulating the openSUSE community on the release of openSUSE 11.4](//www.attachmate.com/Press/PressReleases/congratulations-openSUSE-project.htm). It is the
+      second press release of [Attachmate](//www.attachmate.com/) after the
         '[Attachmate
-        Corporation Statement on openSUSE project](http://www.attachmate.com/Press/PressReleases/nov-22-2010-SUSE.htm)' and it shows the intentions of
+        Corporation Statement on openSUSE project](//www.attachmate.com/Press/PressReleases/nov-22-2010-SUSE.htm)' and it shows the intentions of
       Attachmate's people to support the openSUSE project and community and all together to achieve
       great things in the Future. -- Kostas Koudaras
 
-**License**: [CC-BY-SA ](http://creativecommons.org/licenses/by-sa/3.0/)
+**License**: [CC-BY-SA ](//creativecommons.org/licenses/by-sa/3.0/)
 
 ”
 
 “
 
-[Jos Poortvliet: Be proud of yourself, Geekos!](http://nowwhatthe.blogspot.com/2011/03/be-proud-of-yourself-geekos.html)
+[Jos Poortvliet: Be proud of yourself, Geekos!](//nowwhatthe.blogspot.com/2011/03/be-proud-of-yourself-geekos.html)
 
 Right now I'm enjoying the post-release stress. Going back and catching up with what was
       delayed due to the release being priority and all... And enjoying huge discussions on
       Identi.ca like [this
-        one](http://identi.ca/conversation/65860477#notice-66972122) ;-)
+        one](//identi.ca/conversation/65860477#notice-66972122) ;-)
 
-![](http://3.bp.blogspot.com/-5cGzCcRPd18/TX7ZH6urREI/AAAAAAAABbc/5dbpQYZiR0A/s200/11.4_NET_installer-boot.png)
+![](//3.bp.blogspot.com/-5cGzCcRPd18/TX7ZH6urREI/AAAAAAAABbc/5dbpQYZiR0A/s200/11.4_NET_installer-boot.png)
 
 **Me proud of the Geeko!**
 
 The article which went out on Friday made me very proud - [openSUSE 11.4 made a
-        splash](http://news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/). The title is really correct - we're gathering info on reviews etc on [this page](http://en.opensuse.org/In_the_press) but it is extremely incomplete -
-      there are so many reviews, articles, [tweets](http://twitter.com/#!/search/opensuse), [dents](http://bit.ly/e3IAHc), [facebook](http://www.facebook.com/#!/pages/openSUSE/45393742283) comments,
-        [video's on youtube](http://bit.ly/fPsJaZ) - it is really great! And well
+        splash](//news.opensuse.org/2011/03/12/opensuse-11-4-made-a-splash/). The title is really correct - we're gathering info on reviews etc on [this page](//en.opensuse.org/In_the_press) but it is extremely incomplete -
+      there are so many reviews, articles, [tweets](//twitter.com/#!/search/opensuse), [dents](//bit.ly/e3IAHc), [facebook](//www.facebook.com/#!/pages/openSUSE/45393742283) comments,
+        [video's on youtube](//bit.ly/fPsJaZ) - it is really great! And well
       over **100.000 downloads in 24 hours**, almost twice what we did
       for 11.3 - awesome. openSUSE has its momentum back, that's clear. We already wrote that [in this "end of 2010"
-        article](http://news.opensuse.org/2011/01/03/opensuse-finished-2010-big/), and the subsequent Bretzn and Appstore sprints, the marketing sprint and
+        article](//news.opensuse.org/2011/01/03/opensuse-finished-2010-big/), and the subsequent Bretzn and Appstore sprints, the marketing sprint and
       all the cool stuff that is going on makes me quite certain about this: the openSUSE conference
       2010 was a real turning point for openSUSE. The Geeko's back in the game!
 
 **Did we leave?**
     
 
-The question that might come up is - did the Geeko ever leave? I had a look at [some statistics](http://opensuse.org/statistics) on our user base.** openSUSE has 7-8 million users**, that's significant! And,
+The question that might come up is - did the Geeko ever leave? I had a look at [some statistics](//opensuse.org/statistics) on our user base.** openSUSE has 7-8 million users**, that's significant! And,
       interestingly enough, between 30-50% more than Fedora. Ubuntu has no statistics online but
       once made some noise about numbers - talking somewhere between 6 and 8.
 
@@ -1871,70 +1871,70 @@ Now all these numbers have some uncertainty associated with them, nothing is sur
       least compare them roughly. And I bet Ubuntu has similar statisics on which they based their
       number - with the usual exaggeration. So even though the numbers aren't entirely clear, it is
       interesting to see openSUSE ain't exactly insignificant as many seem to believe... Not only do
-      we have amazing technology like [OBS](http://build.opensuse.org/) and [Studio](http://susestudio.com/) but we also have a HUGE user base whom we serve
+      we have amazing technology like [OBS](//build.opensuse.org/) and [Studio](//susestudio.com/) but we also have a HUGE user base whom we serve
       with [a pretty awesome
-        distro](http://news.opensuse.org/2011/03/10/opensuse-11-4/)! So, Geeko's, in the communication and marketing department - maybe openSUSE
+        distro](//news.opensuse.org/2011/03/10/opensuse-11-4/)! So, Geeko's, in the communication and marketing department - maybe openSUSE
       is not well known for that. But we're a leading distro when it comes to what matters - users
       and technology. Be proud!
 
-**License**: [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
+**License**: [CC-BY-SA](//creativecommons.org/licenses/by-sa/3.0/)
     
 
 ”
 
 “
 
-[Andreas Jaeger: First Survey on openSUSE Version naming is open now](http://lizards.opensuse.org/2011/03/16/first-survey-on-opensuse-version-naming-is-open-now/)
+[Andreas Jaeger: First Survey on openSUSE Version naming is open now](//lizards.opensuse.org/2011/03/16/first-survey-on-opensuse-version-naming-is-open-now/)
 
 Following my last blog post on “[how to
-        name the distribution release](http://lizards.opensuse.org/2011/03/11/how-to-name-the-distribution-releases/)“, I’ve opened up a public [survey](http://www.surveymonkey.com/s/ZYC5PYZ) and look forward to your votes.
+        name the distribution release](//lizards.opensuse.org/2011/03/11/how-to-name-the-distribution-releases/)“, I’ve opened up a public [survey](//www.surveymonkey.com/s/ZYC5PYZ) and look forward to your votes.
       There is also a good discussion going on on the [opensuse-project
-        mailing list](http://lists.opensuse.org/opensuse-project/2011-03/msg00262.html). 
+        mailing list](//lists.opensuse.org/opensuse-project/2011-03/msg00262.html). 
 
 This is the first iteration. Coolo and myself discussed to use a second survey with the
-      group of winners on [connect.opensuse.org](http://connect.opensuse.org).
+      group of winners on [connect.opensuse.org](//connect.opensuse.org).
 
 ”
 
 “
 
-[Klaas Freitag: openSUSE and Kraft on CLT](http://lizards.opensuse.org/2011/03/17/opensuse-and-kraft-on-clt/)
+[Klaas Freitag: openSUSE and Kraft on CLT](//lizards.opensuse.org/2011/03/17/opensuse-and-kraft-on-clt/)
 
-First some news about my KDE project [Kraft](http://volle-kraft-voraus.de/): 
+First some news about my KDE project [Kraft](//volle-kraft-voraus.de/): 
 
-A review was posted on [Technewsworld.com](http://lizards.opensuse.org/2011/03/17/opensuse-and-kraft-on-clt/Technewsworld.com) with title [Kraft: A No-Nonsense
-        Office Assistant That Gets Straight to Work](http://bit.ly/f40Pux). Nice title, and also the bottomline of
+A review was posted on [Technewsworld.com](//lizards.opensuse.org/2011/03/17/opensuse-and-kraft-on-clt/Technewsworld.com) with title [Kraft: A No-Nonsense
+        Office Assistant That Gets Straight to Work](//bit.ly/f40Pux). Nice title, and also the bottomline of
       the whole article. Good to read, however I am wondering why the author tested Kraft version
       0.32 instead the current one 0.40 which is out already for ten month. Are there *still* 0.32
-      packages around in the Ubuntu-World? On the [download page](http://volle-kraft-voraus.de/Main/Download) on Kraft’s website,
+      packages around in the Ubuntu-World? On the [download page](//volle-kraft-voraus.de/Main/Download) on Kraft’s website,
       there are good Ubuntu packages linked thanks to Rohan Garg. 
 
 The only remark in the review was that the list of document types should be editable. It
       is since 0.40 :-) Anyway, thanks for considering Kraft for a review. 
 
-On next weekend I will be in Chemnitz on the [Chemnitzer Linux Tage](http://chemnitzer.linux-tage.de/2011/). I will give a
+On next weekend I will be in Chemnitz on the [Chemnitzer Linux Tage](//chemnitzer.linux-tage.de/2011/). I will give a
       talk titled [Linux im Büro von
-        Kleinunternehmen](http://chemnitzer.linux-tage.de/2011/vortraege/800) (Linux in the small enterprise). Beside other interesting things I
+        Kleinunternehmen](//chemnitzer.linux-tage.de/2011/vortraege/800) (Linux in the small enterprise). Beside other interesting things I
       will present Kraft of course. It will be a talk for people who are new to Linux but try to get
       their work done with Linux. I am looking forward as I enjoy these solution focused topics. If
       you are interested, show up and we talk about Kraft. And, yes, a new release of Kraft is also
       on the way, it can’t take too long any more. 
 
-The [openSUSE Project](http://www.opensuse.org/) will have a booth as
+The [openSUSE Project](//www.opensuse.org/) will have a booth as
       well and I probably will be around there for the rest of the time together with friends from
       the project. We will tell you about our cool project, explain how you can participate and show
       the brand new [openSUSE 11.4
-        release](http://news.opensuse.org/2011/03/10/opensuse-11-4/). It is a nice one. and we think you will like it. I hope to see you there
+        release](//news.opensuse.org/2011/03/10/opensuse-11-4/). It is a nice one. and we think you will like it. I hope to see you there
       :-) 
 
-**License**: [FDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+**License**: [FDL 1.2](//www.gnu.org/licenses/old-licenses/fdl-1.2.html)
     
 
 ”
 
 “
 
-[Linux User & Developer/Koen Vervloesem: openSUSE 11.4 review – KDE 4.6 and Tumbleweed shine](http://www.linuxuser.co.uk/reviews/opensuse-11-4-review-kde-4-6-and-tumbleweed-shine/)
+[Linux User & Developer/Koen Vervloesem: openSUSE 11.4 review – KDE 4.6 and Tumbleweed shine](//www.linuxuser.co.uk/reviews/opensuse-11-4-review-kde-4-6-and-tumbleweed-shine/)
 
 Do you want to run the newest software like KDE 4.6 and LibreOffice 3.3? OpenSUSE 11.4 has
       it all on offer, and if you’re really impatient there’s even a rolling updates repository in
@@ -1944,28 +1944,28 @@ Do you want to run the newest software like KDE 4.6 and LibreOffice 3.3? OpenSUS
 
 “
 
-[Thomas Schmidt: openSUSE 11.4](http://www.digitalflow.de/blog/2011/03/opensuse-11-4/)
+[Thomas Schmidt: openSUSE 11.4](//www.digitalflow.de/blog/2011/03/opensuse-11-4/)
 
-After 8 months of work openSUSE 11.4 has been [released](http://news.opensuse.org/2011/03/10/opensuse-11-4/) last week! This
-      has been celebrated with [release parties](http://news.opensuse.org/2011/03/10/opensuse-11-4/) all around the world. As usual, the new release comes with the
-      latest [kernel](http://news.opensuse.org/2011/03/10/opensuse-11-4/), [LibreOffice](http://news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/), [Gnome](http://news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/) and [KDE](http://news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/)
+After 8 months of work openSUSE 11.4 has been [released](//news.opensuse.org/2011/03/10/opensuse-11-4/) last week! This
+      has been celebrated with [release parties](//news.opensuse.org/2011/03/10/opensuse-11-4/) all around the world. As usual, the new release comes with the
+      latest [kernel](//news.opensuse.org/2011/03/10/opensuse-11-4/), [LibreOffice](//news.opensuse.org/2011/03/07/opensuse-11-4-will-be-first-to-roll-out-with-libreoffice/), [Gnome](//news.opensuse.org/2011/03/03/gnome-on-opensuse-11-4/) and [KDE](//news.opensuse.org/2011/03/02/opensuse-11-4-and-kde-2/)
       packages.
 
 In Nuremberg, we celebrated the release with a party at the Artefakt bar, and had the
-      fabulous [Ukulele Insanity](http://on.fb.me/g2Ux2X) playing live.
+      fabulous [Ukulele Insanity](//on.fb.me/g2Ux2X) playing live.
 
 <table cellpadding="0" cellspacing="0" border="0" width="20%" summary="manufactured viewport for HTML img" ><tr >
-<td align="right" >![](http://farm6.static.flickr.com/5259/5532944943_f725cf95d3_m.jpg)
+<td align="right" >![](//farm6.static.flickr.com/5259/5532944943_f725cf95d3_m.jpg)
 </td></tr></table>
 
-Althogh the release is considered a very good one by many [press and user reviews](http://en.opensuse.org/In_the_press), I had some small
+Althogh the release is considered a very good one by many [press and user reviews](//en.opensuse.org/In_the_press), I had some small
       problems after upgrading to it and want to share with you how I solved those: (...)
 
 ”
 
 “
 
-[Andres Silva: openSUSE Release Party - Provo, UT](http://anditosan.blogspot.com/2011/03/opensuse-release-party-provo-ut.html)
+[Andres Silva: openSUSE Release Party - Provo, UT](//anditosan.blogspot.com/2011/03/opensuse-release-party-provo-ut.html)
 
 The openSUSE release party was a lot of fun and I was very happy to be there one more
       time. The Novell facility in Provo, UT is pretty big and had plenty of room to accommodate the
@@ -1984,15 +1984,15 @@ I am happy for their achievement and their contribution as well. openSUSE would 
 Anyway, I promised some pics and here they are. They are not the greatest quality, I used
       my Palm Pre to take the shots and the lighting was not that great for this tiny phone.
 
-**License**: [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
+**License**: [CC-BY-SA](//creativecommons.org/licenses/by-sa/3.0/)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-openSUSE-Forums.png)openSUSE Forums
 
 “
 
-[Packman Layout explained](http://forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/454966-packman-layout-explained.html)
+[Packman Layout explained](//forums.opensuse.org/english/get-technical-help-here/how-faq-forums/new-user-how-faq-read-only/454966-packman-layout-explained.html)
 
 One week after release of openSUSE 11.4 we'd like to draw the attention of new users to this one post thread mentioned above. The Packman packagers provide openSUSE users with multimedia codecs, application enhancements and lots and lots more. Lately the packagers have created a new layout of their repositories, please read this one, it will help you.
     
@@ -2001,7 +2001,7 @@ One week after release of openSUSE 11.4 we'd like to draw the attention of new u
 
 “
 
-[How to upgrade openSUSE 11.3 to 11.4](http://forums.opensuse.org/english/get-technical-help-here/install-boot-login/455020-how-upgrade-suse-11-3-11-4-a.html)
+[How to upgrade openSUSE 11.3 to 11.4](//forums.opensuse.org/english/get-technical-help-here/install-boot-login/455020-how-upgrade-suse-11-3-11-4-a.html)
 
 Here's a user asking advice/suggestions on how to upgrade. A lot of us prefer a clean install, for numerous reasons, on the other hand, packagemanagement, the installer offer a distribution upgrade. A nice thread with pros and cons, check it out and see what suits you best.
       
@@ -2010,7 +2010,7 @@ Here's a user asking advice/suggestions on how to upgrade. A lot of us prefer a 
 
 “
 
-[Cannot download 4.7GB openSUSE 11.4](http://forums.opensuse.org/english/get-technical-help-here/455439-re-cannot-donwload-4-7-gb-open-suse-11-4-a.html)
+[Cannot download 4.7GB openSUSE 11.4](//forums.opensuse.org/english/get-technical-help-here/455439-re-cannot-donwload-4-7-gb-open-suse-11-4-a.html)
 
 Now that it's released, there's an huge demand for openSUSE 11.4. Over 100.000 downloads in the 1st 24 hours! Here's a thread from the forums where a user cannot get a correct download. It contains some useful advice, when you meet download trouble.
       
@@ -2019,7 +2019,7 @@ Now that it's released, there's an huge demand for openSUSE 11.4. Over 100.000 d
 
 “
 
-[What is the recommended desktop search in openSUSE 11.4 after beagle is gone](http://forums.opensuse.org/english/get-technical-help-here/applications/455227-what-recommended-desktop-search-opensuse-11-4-after-beagle-gone.html)
+[What is the recommended desktop search in openSUSE 11.4 after beagle is gone](//forums.opensuse.org/english/get-technical-help-here/applications/455227-what-recommended-desktop-search-opensuse-11-4-after-beagle-gone.html)
 
 One of the major improvements of KDE's desktop search is discussed here. Please read about this, contains lots of information
       
@@ -2032,35 +2032,35 @@ openSUSE 11.4 is there: some collected threads
 
 With the release of openSUSE 11.4 today week, there's a lot of activity from users testing it, here's some links to threads referring to this. The next couple of weeeks a weekly of 11.4-specific threads will be displayed here.
       [11.4 Works for me, thanks
-      ](http://forums.opensuse.org/english/other-forums/community-fun/general-chit-chat/455348-11-4-works-me-thanks.html)
+      ](//forums.opensuse.org/english/other-forums/community-fun/general-chit-chat/455348-11-4-works-me-thanks.html)
       [Pulse Audio and KDE on 11.4, what are the consequenses
-      ](http://forums.opensuse.org/english/get-technical-help-here/multimedia/455823-pulseaudio-kde-11-4-what-consequences.html)
+      ](//forums.opensuse.org/english/get-technical-help-here/multimedia/455823-pulseaudio-kde-11-4-what-consequences.html)
       [11.4 KDE autohide taskbar not working
-      ](http://forums.opensuse.org/english/get-technical-help-here/applications/455440-11-4-kde-autohide-taskbar-not-working.html)
+      ](//forums.opensuse.org/english/get-technical-help-here/applications/455440-11-4-kde-autohide-taskbar-not-working.html)
     
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-On-the-Web.png)On the Web
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-On-the-Web.png)On the Web
 
 ### Call for participation
 
 “
 
-[GNU Free Call: An Open Source Skype Alternative](http://www.pcworld.com/businesscenter/article/222556/gnu_free_call_an_open_source_skype_alternative.html)
+[GNU Free Call: An Open Source Skype Alternative](//www.pcworld.com/businesscenter/article/222556/gnu_free_call_an_open_source_skype_alternative.html)
       
 
-There's no denying that [Skype](http://www.pcworld.com/businesscenter/article/216382/skype_growth_eats_into_international_calls.html) is by far the most ubiquitous VoIP service today, but a new project
+There's no denying that [Skype](//www.pcworld.com/businesscenter/article/216382/skype_growth_eats_into_international_calls.html) is by far the most ubiquitous VoIP service today, but a new project
         launched this week aims to create an open source alternative.
 
-GNU Free Call, which was [announced](http://planet.gnu.org/gnutelephony/) on Monday by the GNU Project, will offer a service that's both secure
+GNU Free Call, which was [announced](//planet.gnu.org/gnutelephony/) on Monday by the GNU Project, will offer a service that's both secure
         and usable on all platforms, much the way closed-source Skype is, its developers say. The
         key difference, however, will be that it's available "without requiring a central service
         provider to register with, without using insecure source secret binary protocols that may
         have back-doors, and without having network control points of any kind that can be exploited
         or abused by external parties," its creators say.
 
-![](http://zapp5.staticworld.net/news/graphics/205761-headset_mic_180_original.jpg)
+![](//zapp5.staticworld.net/news/graphics/205761-headset_mic_180_original.jpg)
 
 Rather, GNU Free Call will offer what they call "a self organizing meshed calling
         network," thereby eliminating potentially vulnerable service control points and ensuring the
@@ -2073,14 +2073,14 @@ Rather, GNU Free Call will offer what they call "a self organizing meshed callin
 
 “
 
-[Ostatic/Susan Linton: openSUSE Thinking About Naming Change](http://ostatic.com/blog/opensuse-thinking-about-naming-change)
+[Ostatic/Susan Linton: openSUSE Thinking About Naming Change](//ostatic.com/blog/opensuse-thinking-about-naming-change)
 
 Andreas Jaeger, Program Manager at Novell for openSUSE, has posted about an on-going
         discussion concerning the naming convention of openSUSE. Apparently the traditional "old
         school" 11.4, 12.0, 12.1, etc. might need some modernization. Developers and active users
         have suggested several alternatives.
 
-Jaeger [explains](http://lizards.opensuse.org/2011/03/11/how-to-name-the-distribution-releases/) that despite common belief openSUSE doesn't actually employ major and
+Jaeger [explains](//lizards.opensuse.org/2011/03/11/how-to-name-the-distribution-releases/) that despite common belief openSUSE doesn't actually employ major and
         minor number versioning. So to assume that 11.4 is an update to 11.3 is incorrect. That
         explains all the times reviewers said things like 'despite being only a minor version
         upgrade, there are enough new and updated features to warrant a major number up-tick.' They
@@ -2091,7 +2091,7 @@ Jaeger [explains](http://lizards.opensuse.org/2011/03/11/how-to-name-the-distrib
 “
 
 [MakeTechEasier/Tavis J. Hampton: Sprinkle Some Eye Candy on your KDE
-        Desktop](http://maketecheasier.com/sprinkle-eye-candy-on-kde-desktop/2011/03/09)
+        Desktop](//maketecheasier.com/sprinkle-eye-candy-on-kde-desktop/2011/03/09)
 
 KDE is beautiful, even if you never change a thing on your desktop. What makes it even
         more appealing is all of the customizable visual features. Three areas you should consider
@@ -2104,12 +2104,12 @@ KDE is beautiful, even if you never change a thing on your desktop. What makes i
 “
 
 [Moved by Freedom – Powered by Standards : What does Community really mean? (Part
-          2)](http://standardsandfreedom.net/index.php/2011/03/17/what-does-community-mean-part-2/)
+          2)](//standardsandfreedom.net/index.php/2011/03/17/what-does-community-mean-part-2/)
 
-[In the first part of this essay](http://standardsandfreedom.net/index.php/2011/03/15/what-does-community-really-mean/) I attempted to describe how communities around
+[In the first part of this essay](//standardsandfreedom.net/index.php/2011/03/15/what-does-community-really-mean/) I attempted to describe how communities around
         Free & Open Source Software (FOSS) projects are born and what is their underlying model.
         After having described the conditions necessary to have communities emerge around Free and
-        Open Source Software I used [Simon Phipp](http://www.webmink.com/)s’ s
+        Open Source Software I used [Simon Phipp](//www.webmink.com/)s’ s
         typology of communities in order to highlight the various roles that are found in these
         groups, and how several sub-groups may be distinguished inside a FOSS community. I ended up
         the first part by hinting at the limits of that typology. Here’s why. 
@@ -2134,7 +2134,7 @@ The very first comment that somewhat counters’ Phipps’ s model is that it ig
 “
 
 [ghacks.net/Jack
-          Wallen: Review: openSUSE 11.4](http://www.ghacks.net/2011/03/13/review-opensuse-11-4/)
+          Wallen: Review: openSUSE 11.4](//www.ghacks.net/2011/03/13/review-opensuse-11-4/)
 
 Recently it was brought to my attention that all the desktop Linux hoopla in the world
         doesn't mean squat without compelling applications to get the end user interested. To
@@ -2150,11 +2150,11 @@ This is not meant to diminish any excluded apps. Instead my goal is to showcase
 “
 
 [LinuxDistroReview: OpenSUSE
-          11.4](http://www.linuxdistroreview.com/opensuse-11-4)
+          11.4](//www.linuxdistroreview.com/opensuse-11-4)
 
 **Booting**
 
-The first thing you’ll notice when the [OpenSUSE](http://www.opensuse.org/) CD/DVD boots, is the looks. They’ve taken the usual, monochromatic
+The first thing you’ll notice when the [OpenSUSE](//www.opensuse.org/) CD/DVD boots, is the looks. They’ve taken the usual, monochromatic
         “Choose language, okay, now choose your boot options” screen, and made it look welcoming by
         getting it as close to your normal GUI without having to include a mouse. You also get a
         decent amount of boot and language options (e.g. safe boot) but you start off with english
@@ -2166,14 +2166,14 @@ The first thing you’ll notice when the [OpenSUSE](http://www.opensuse.org/) CD
 
 “
 
-[PCWorld/Katherine Noyes: 5 Reasons to Try OpenSUSE 11.4](http://www.pcworld.com/businesscenter/article/222065/5_reasons_to_try_opensuse_114.html)
+[PCWorld/Katherine Noyes: 5 Reasons to Try OpenSUSE 11.4](//www.pcworld.com/businesscenter/article/222065/5_reasons_to_try_opensuse_114.html)
 
-With hundreds of [Linux distributions](http://www.pcworld.com/businesscenter/article/204767/a_guide_to_todays_top_10_linux_distributions.html) to choose from, users of the open source operating system
+With hundreds of [Linux distributions](//www.pcworld.com/businesscenter/article/204767/a_guide_to_todays_top_10_linux_distributions.html) to choose from, users of the open source operating system
         face what may almost be called an embarrassment of riches, so numerous are their
         options.
 
-Of course there's [Ubuntu](http://www.pcworld.com/businesscenter/article/221517/work_begins_on_ubuntu_1110_oneiric_ocelot.html)--by far the most frequently downloaded and popular version of Linux,
-        according to Distrowatch. Then there's [Linux Mint](http://www.pcworld.com/businesscenter/article/208620/4_reasons_to_give_linux_mint_10_a_try.html)--my second favorite--along with [Debian](http://www.pcworld.com/businesscenter/article/218901/debian_60_breaks_free_of_restrictive_licenses.html), [Puppy Linux](http://www.pcworld.com/businesscenter/article/216488/for_an_old_or_slow_pc_try_puppy_linux_52.html), [Zorin OS](http://www.pcworld.com/businesscenter/article/214928/5_reasons_to_try_zorin_os_linux.html) and [Splashtop Linux](http://www.pcworld.com/businesscenter/article/220602/splashtop_linux_a_free_chrome_os_alternative.html), to name just a few.
+Of course there's [Ubuntu](//www.pcworld.com/businesscenter/article/221517/work_begins_on_ubuntu_1110_oneiric_ocelot.html)--by far the most frequently downloaded and popular version of Linux,
+        according to Distrowatch. Then there's [Linux Mint](//www.pcworld.com/businesscenter/article/208620/4_reasons_to_give_linux_mint_10_a_try.html)--my second favorite--along with [Debian](//www.pcworld.com/businesscenter/article/218901/debian_60_breaks_free_of_restrictive_licenses.html), [Puppy Linux](//www.pcworld.com/businesscenter/article/216488/for_an_old_or_slow_pc_try_puppy_linux_52.html), [Zorin OS](//www.pcworld.com/businesscenter/article/214928/5_reasons_to_try_zorin_os_linux.html) and [Splashtop Linux](//www.pcworld.com/businesscenter/article/220602/splashtop_linux_a_free_chrome_os_alternative.html), to name just a few.
 
 Another very popular distro is openSUSE, which currently holds Distrowatch's No. 5 spot.
         Version 11.4 of the Novell-backed software was just released last week, and it features a
@@ -2184,7 +2184,7 @@ Another very popular distro is openSUSE, which currently holds Distrowatch's No.
 
 “
 
-[TheRegister/Scott Gilbertson: openSUSE 11.4 rocks despite missing GNOME](http://www.theregister.co.uk/2011/03/14/opensuse_11_point_4_review/)
+[TheRegister/Scott Gilbertson: openSUSE 11.4 rocks despite missing GNOME](//www.theregister.co.uk/2011/03/14/opensuse_11_point_4_review/)
 
 **Review** openSUSE 11.4 brings a host of KDE and GNOME
         updates, the first release of OpenOffice fork LibreOffice, and numerous speed improvements. 
@@ -2199,7 +2199,7 @@ Unfortunately for openSUSE fans, the distro's release schedule just didn't quite
 
 “
 
-[Kraft: A No-Nonsense Office Assistant](http://www.linuxinsider.com/story/Kraft-A-No-Nonsense-Office-Assistant-That-Gets-Straight-to-Work-72069.html)
+[Kraft: A No-Nonsense Office Assistant](//www.linuxinsider.com/story/Kraft-A-No-Nonsense-Office-Assistant-That-Gets-Straight-to-Work-72069.html)
 
 **Small-business users with a fondness for open source apps could
           get a lot of mileage out of Kraft, an application for creating, customizing and managing
@@ -2210,10 +2210,10 @@ Unfortunately for openSUSE fans, the distro's release schedule just didn't quite
 Operating a small business or home office is always fraught with tasks based on creating
         and maintaining office documents. Often, entrepreneurs are stuck using different apps to
         handle each phase of record-keeping and pricing business proposals for each customer. Why
-        stretch those tasks over multiple business apps when [Kraft](http://www.volle-kraft-voraus.de/) can do it all in one package? 
+        stretch those tasks over multiple business apps when [Kraft](//www.volle-kraft-voraus.de/) can do it all in one package? 
 
-[Kraft](http://www.kraftfoodscompany.com/default.htm) (NYSE: KFT) lets
-        you create, customize and manage your business correspondence and planning. It uses a [MySQL](http://en.wikipedia.org/wiki/MySQL) back end and helps you calculate
+[Kraft](//www.kraftfoodscompany.com/default.htm) (NYSE: KFT) lets
+        you create, customize and manage your business correspondence and planning. It uses a [MySQL](//en.wikipedia.org/wiki/MySQL) back end and helps you calculate
         the cost of doing business with clients. (...)
 
 ”
@@ -2221,12 +2221,12 @@ Operating a small business or home office is always fraught with tasks based on 
 “
 
 [Safe as Milk:
-          Lessons learned](http://blogs.gnome.org/bolsh/2011/03/11/lessons-learned/)
+          Lessons learned](//blogs.gnome.org/bolsh/2011/03/11/lessons-learned/)
 
 After my [rather
-          controversial question](http://blogs.gnome.org/bolsh/2011/03/07/has-gnome-rejected-canonical-help/) a few days ago and multiple reactions from around the
-          [KDE](http://aseigo.blogspot.com/2011/03/collaborations-demise.html)
-        & [Canonical](http://www.markshuttleworth.com/archives/654) world, a
+          controversial question](//blogs.gnome.org/bolsh/2011/03/07/has-gnome-rejected-canonical-help/) a few days ago and multiple reactions from around the
+          [KDE](//aseigo.blogspot.com/2011/03/collaborations-demise.html)
+        & [Canonical](//www.markshuttleworth.com/archives/654) world, a
         lot of reading and digging into archives, and a lot of conversations with people across the
         spectrum, I have some preliminary findings and lessons which I hope can serve us going
         forward to help improve things. Nothing in here is controversial, I think, but each of these
@@ -2239,7 +2239,7 @@ After my [rather
 “
 
 [Petur.eu: Linux can be hacked with an USB
-          device](http://www.petur.eu/blog/?p=349)
+          device](//www.petur.eu/blog/?p=349)
       
 
 I have to admit, over the years I haven’t given openSUSE enough love or credit for being
@@ -2256,47 +2256,47 @@ I have to admit, over the years I haven’t given openSUSE enough love or credit
 
 “
 
-[XKCD: Time Management](http://xkcd.com/874/)
+[XKCD: Time Management](//xkcd.com/874/)
 
 <table cellpadding="0" cellspacing="0" border="0" width="50%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://imgs.xkcd.com/comics/time_management.png)
+<td >![](//imgs.xkcd.com/comics/time_management.png)
 </td></tr></table>
 
-**License**: [CC-BY-NC](http://creativecommons.org/licenses/by-nc/2.5/)
+**License**: [CC-BY-NC](//creativecommons.org/licenses/by-nc/2.5/)
 
 ”
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
-  * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+  * [Thomas Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/handshake.jpg)Acknowledgements
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/handshake.jpg)Acknowledgements
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [Docbook.org](http://www.docbook.org/), Semantic markup language for technical documentation
+  * [Docbook.org](//www.docbook.org/), Semantic markup language for technical documentation
 
-  * [xmlsoft.org](http://xmlsoft.org/XSLT/), XSLT Librarys
+  * [xmlsoft.org](//xmlsoft.org/XSLT/), XSLT Librarys
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/copyright.jpg)Copyrights
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/copyright.jpg)Copyrights
 
 ### List of our Licenses
 
-  * [Permission Informations for own](http://www.editgrid.com/user/heliosreds/permission_information_for_own)
+  * [Permission Informations for own](//www.editgrid.com/user/heliosreds/permission_information_for_own)
 
 ### Trademarks
 
@@ -2305,51 +2305,51 @@ SUSE ®, openSUSE ®, the openSUSE ® Logo and Novell ® are registered Trademar
 
 Linux ® is a registered Trademark of Linus Torvalds
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-    the [comment section](http://news.opensuse.org/?p=7706) and let us know! 
+    the [comment section](//news.opensuse.org/?p=7706) and let us know! 
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
-If you don't know, how to contribute, just check out the [Contribution Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+If you don't know, how to contribute, just check out the [Contribution Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
 **Talk with us:**
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-    mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our connect.opensuse.org Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-You also can submit via [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+You also can submit via [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
-## ![Header Picture](http://saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
+## ![Header Picture](//saigkill.homelinux.net/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
 
 openSUSE Weekly News is translated into many languages. Issue 167 is available in: 
 
-  * [English](http://news.opensuse.org/?p=7706)
+  * [English](//news.opensuse.org/?p=7706)
 
 Coming soon: 
 
-You can follow the status of the translation [there](http://en.opensuse.org/openSUSE:Weekly_news_translations).
+You can follow the status of the translation [there](//en.opensuse.org/openSUSE:Weekly_news_translations).
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/167)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/167)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)
 
-  * [German](http://wiki.open-slx.de/OWR/)
+  * [German](//wiki.open-slx.de/OWR/)
 
-First published on: [http://saigkill.homelinux.net](http://saigkill.homelinux.net)
+First published on: [//saigkill.homelinux.net](//saigkill.homelinux.net)
 
-![](http://saigkill.homelinux.net/piwik/piwik.php?idsite=1)
+![](//saigkill.homelinux.net/piwik/piwik.php?idsite=1)

@@ -43,7 +43,7 @@ tags:
 **A Professional Distribution for Developers, System Administrators and Users
 **
 
-(Languages: [ CZ](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_42.2), [ DE](http://de.opensuse.org/Release_Ank%C3%BCndigung_42.2), [ EN](https://news.opensuse.org/2016/11/16/optimal-release-for-linux-professionals-arrives-with-opensuse-leap-42-2/), [ES](http://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_42.2), [ FR](http://fr.opensuse.org/Annonce_de_version_42.2), [ IT](http://it.opensuse.org/Annuncio_di_rilascio), [ JA](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_42.2), [ LT](http://en.opensuse.org/Archive:LT-Release_announcement_42.2), [TW](http://zh-tw.opensuse.org/Release_announcement_42.2))
+(Languages: [ CZ](//cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_42.2), [ DE](//de.opensuse.org/Release_Ank%C3%BCndigung_42.2), [ EN](https://news.opensuse.org/2016/11/16/optimal-release-for-linux-professionals-arrives-with-opensuse-leap-42-2/), [ES](//es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_42.2), [ FR](//fr.opensuse.org/Annonce_de_version_42.2), [ IT](//it.opensuse.org/Annuncio_di_rilascio), [ JA](//ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_42.2), [ LT](//en.opensuse.org/Archive:LT-Release_announcement_42.2), [TW](//zh-tw.opensuse.org/Release_announcement_42.2))
 
 Members of the openSUSE Project are pleased to announce the release of the next minor version of Leap; openSUSE Leap 42.2! Leap is made to give stability-minded users and conservative technology adopters peace of mind. openSUSE Leap 42.2 is powered by the Linux 4.4 Long-Term-Support (LTS) kernel and is a secure, stable and reliable server operating system for deploying IT services in physical, virtual or cloud environments.
 
@@ -73,15 +73,15 @@ Continuing the tradition of using source code from [SUSE Linux Enterprise](https
 
 
 
-Contributions to openSUSE Leap from SUSE include several new features like Network Functions Virtualization capabilities that combines [Open vSwitch](http://www.openvswitch.org) with the Data Plane Development Kit to process packets faster. YaST also has a significant amount of improvements and new features.
+Contributions to openSUSE Leap from SUSE include several new features like Network Functions Virtualization capabilities that combines [Open vSwitch](//www.openvswitch.org) with the Data Plane Development Kit to process packets faster. YaST also has a significant amount of improvements and new features.
 
 Community contributions were equally enormous as more than 1,400 new packages made it into this newest Leap version, with 42.2 providing 17% more packages than 42.1.
 
-<!-- more -->One of those community packages includes [GNU Health](http://health.gnu.org) Version 3.0.4. This Free Health and Hospital Information System is used by hospitals, governments and institutions under a free license. GNU Health allows management and analysis of a huge amount of data and aspects.
+<!-- more -->One of those community packages includes [GNU Health](//health.gnu.org) Version 3.0.4. This Free Health and Hospital Information System is used by hospitals, governments and institutions under a free license. GNU Health allows management and analysis of a huge amount of data and aspects.
 
 Another new package in Leap 42.2 is [Prelude Security Information & Event Management (SIEM)](https://www.prelude-siem.org) system, which collects, normalizes, sorts, aggregates, correlates and reports all security-related events (IDMEF).
 
-A large community effort and cooperation between openSUSE and KDE has brought a Long-Term Support version for [Plasma 5.8](http:////www.kde.org/announcements/plasma-5.8.2.php), which improves multiple monitor support out-of-the-box.
+A large community effort and cooperation between openSUSE and KDE has brought a Long-Term Support version for [Plasma 5.8](////www.kde.org/announcements/plasma-5.8.2.php), which improves multiple monitor support out-of-the-box.
 
 
 <blockquote>
@@ -97,7 +97,7 @@ A large community effort and cooperation between openSUSE and KDE has brought a 
 
 Leap provides an ideal [dev-to-production](https://www.youtube.com/watch?v=eVXDGnaYbKQ) model with SLE for developers and system administrators who want to align their development and production environments. openSUSE Leap is highly stable and is a safe choice for sysadmins, developers and desktop users.
 
-The newest Leap version improves user capabilities with [snapper](https://en.opensuse.org/Portal:Snapper) snapshots that are based on the Btrfs filesystem. A new Btrfs concept for quota makes snapper much less disk-hungry. It is configured by default on fresh installations and can be [manually setup](http://snapper.io/2016/05/18/space-aware-cleanup.html) after upgrading to Leap 42.2. [Snapper](http://snapper.io/) is a [poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke) and can give system administrators confidence about updating new packages and rolling back the system if any errors occur.
+The newest Leap version improves user capabilities with [snapper](https://en.opensuse.org/Portal:Snapper) snapshots that are based on the Btrfs filesystem. A new Btrfs concept for quota makes snapper much less disk-hungry. It is configured by default on fresh installations and can be [manually setup](//snapper.io/2016/05/18/space-aware-cleanup.html) after upgrading to Leap 42.2. [Snapper](//snapper.io/) is a [poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke) and can give system administrators confidence about updating new packages and rolling back the system if any errors occur.
 
 Leap also offers users, developers and system administrators an easy path to move to other operating systems like openSUSE's faster, more updated distribution [Tumbleweed](https://en.opensuse.org/Tumbleweed), with the newest upstream packages and software versions provided on a rolling release basis, or to an enterprise-level support system with [SLE](https://www.suse.com/products/server/).
 
@@ -196,9 +196,9 @@ The 4.4 LTS Linux Kernel for openSUSE Leap 42.2 improves file system performance
 #### Get Leap!
 
 
-Downloads of openSUSE Leap 42.2 can be found at [software.opensuse.org](http://software.opensuse.org). We recommend checking out the Release Notes before upgrade or installation.
+Downloads of openSUSE Leap 42.2 can be found at [software.opensuse.org](//software.opensuse.org). We recommend checking out the Release Notes before upgrade or installation.
 
-Users currently running [openSUSE Leap 42.1](https://en.opensuse.org/Portal:42.1) can [upgrade to openSUSE Leap 42.2 via the instructions at this link](http://en.opensuse.org/Upgrade).
+Users currently running [openSUSE Leap 42.1](https://en.opensuse.org/Portal:42.1) can [upgrade to openSUSE Leap 42.2 via the instructions at this link](//en.opensuse.org/Upgrade).
 
 The AArch64 architecture port has continued to mature and is now considered stable. ARMv7 has successfully entered the Leap sphere and is available now as well, giving users an upgrade path for their 13.2 installations. To find instructions on how to install openSUSE Leap on a given ARM system, please visit [the ARM wiki](https://en.opensuse.org/Portal:ARM) for more information.
 
@@ -482,4 +482,4 @@ This openSUSE release is the first to use [Weblate](https://l10n.opensuse.org/) 
 #### About the openSUSE Project
 
 
-The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](http://www.opensuse.org)
+The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on [opensuse.org](//www.opensuse.org)

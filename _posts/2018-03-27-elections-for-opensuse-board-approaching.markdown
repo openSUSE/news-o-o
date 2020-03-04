@@ -31,10 +31,10 @@ The candidates are:
 
 [Simon Lees](https://en.opensuse.org/openSUSE:Board_election_2018_platform_simotek)
 
-[Ana Martinez](http://anamaria.martinezgomez.name/2018/03/19/opensuse-board.html)
+[Ana Martinez](//anamaria.martinezgomez.name/2018/03/19/opensuse-board.html)
 
 [Gerry Makaro ( Fraser_Bell )](https://en.opensuse.org/openSUSE:Board_election_2018_platform_Fraser_Bell)
 
-[Aaron Luna](http://www.opensusemexico.com/2018/03/running-for-opensuse-board-election-2018.html)
+[Aaron Luna](//www.opensusemexico.com/2018/03/running-for-opensuse-board-election-2018.html)
 
 The ballots are expected to open from April 2 to April 13. Members of the openSUSE Community can cast their vote for the candidates during that time frame. The [voting process](https://en.opensuse.org/openSUSE:Membership_officials#Process) is explained on the openSUSE wiki.

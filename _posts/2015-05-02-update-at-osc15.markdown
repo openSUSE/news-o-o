@@ -15,7 +15,7 @@ categories:
 
 Keynote speaker Markus Feilner gave a brief overview of trending topics for this year’s conference.
 
-One of topics was Richard Brown’s “[The Future is Unwritten](http://bit.ly/1EBSoYC)” presentation about building the perfect regular release using new source code from SUSE Linux Enterprise submitted into the Open Build Service. Using this [source code](http://lists.opensuse.org/opensuse-project/2015-05/), Richard was advocating for a new, more stable and well maintained release with a life cycle of three years or more, which would provide engineering efforts to focus on common elements between SLE and openSUSE.
+One of topics was Richard Brown’s “[The Future is Unwritten](//bit.ly/1EBSoYC)” presentation about building the perfect regular release using new source code from SUSE Linux Enterprise submitted into the Open Build Service. Using this [source code](//lists.opensuse.org/opensuse-project/2015-05/), Richard was advocating for a new, more stable and well maintained release with a life cycle of three years or more, which would provide engineering efforts to focus on common elements between SLE and openSUSE.
 
 <!-- more -->His presentation also focused on the fast-moving, rolling release Tumbleweed and its acceptance by the Linux community. Besides highlighting the 14,000 installations of Tumbleweed and the 130,000 plus users of 13.2, which was basically a snapshot of Tumbleweed more than six-months ago, Richard gave examples how a slow week for Tumbleweed could include 146 package updates, one new Kernel and three snapshots. In addition to 15 new packages on the DVD, Tumbleweed had removed 38 packages from the DVD during a slow week for Tumbleweed, so Tumbleweed is preserving the integrity of the release.
 
@@ -23,4 +23,4 @@ The other keynote speaker, Aaron Seigo, did not disappoint; he’s a natural pub
 
 Developing FOSS empowers users, he said.
 
-[View the live-stream of the conferences](http://bambuser.com/channel/opensusetv).
+[View the live-stream of the conferences](//bambuser.com/channel/opensusetv).

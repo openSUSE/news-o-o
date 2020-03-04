@@ -24,12 +24,12 @@ tags:
 - summer break
 ---
 
-[David Kang](https://github.com/DavidKang) and [I](http://anamaria.martinezgomez.name/) attended two weeks ago (12-14 Oct) the [Google Summer of Code (GSoC) Mentor Summit](https://sites.google.com/view/gsoc-mentorsummit-2018) in California representing openSUSE. ![:sunny:](https://assets-cdn.github.com/images/icons/emoji/unicode/2600.png) Here is our report of the conference.
+[David Kang](https://github.com/DavidKang) and [I](//anamaria.martinezgomez.name/) attended two weeks ago (12-14 Oct) the [Google Summer of Code (GSoC) Mentor Summit](https://sites.google.com/view/gsoc-mentorsummit-2018) in California representing openSUSE. ![:sunny:](https://assets-cdn.github.com/images/icons/emoji/unicode/2600.png) Here is our report of the conference.
 
 It was an incredibly well organized event with a busy schedule. It was our first summit (we try that different openSUSE mentors/org admins go every year) and we enjoyed it a lot and found it really useful. Apart from attending many sessions about open source, mentoring and GSoC, we had the opportunity to meet and have interesting conversations with other org admins and mentors, as well as with the Google open source team and other Googlers. In total 314 mentors and org admins from 42 countries attended the events. This was a great chance to collect chocolate from all around the world for the chocolate bar table, which has already become a tradition at the summit. ![:chocolate_bar:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f36b.png)
 
 
-![chocolate table](http://anamaria.martinezgomez.name/img/posts/gsoc-meetup-chocolate.jpg) ![David and Ana in San Francisco](http://anamaria.martinezgomez.name/img/posts/gsoc-meetup-we.jpg)
+![chocolate table](//anamaria.martinezgomez.name/img/posts/gsoc-meetup-chocolate.jpg) ![David and Ana in San Francisco](//anamaria.martinezgomez.name/img/posts/gsoc-meetup-we.jpg)
 
 
 The summit follows the [unconference](https://en.wikipedia.org/wiki/Unconference) format, which means that the sessions are decided and organized by the attendees. Those are the most outstanding sessions from the ones David and I attended.
@@ -220,4 +220,4 @@ My name is Ana and I am mentor and organization admin for openSUSE at GSoC, open
 
 
 
-This blog post is authored by [Ana María Martínez Gómez](http://anamaria.martinezgomez.name) and [David Kang](https://github.com/DavidKang) and is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This blog post original version can be found at [http://anamaria.martinezgomez.name/2018/10/27/gsoc-mentor-summit.html](http://anamaria.martinezgomez.name/2018/10/27/gsoc-mentor-summit.html).
+This blog post is authored by [Ana María Martínez Gómez](//anamaria.martinezgomez.name) and [David Kang](https://github.com/DavidKang) and is licensed under a [Creative Commons Attribution 4.0 International License](//creativecommons.org/licenses/by/4.0/). This blog post original version can be found at [//anamaria.martinezgomez.name/2018/10/27/gsoc-mentor-summit.html](//anamaria.martinezgomez.name/2018/10/27/gsoc-mentor-summit.html).

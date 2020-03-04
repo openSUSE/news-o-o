@@ -12,7 +12,7 @@ categories:
 - Distribution
 ---
 
-The openSUSE Team is proud to announce the release of openSUSE 10.3 Beta 3. Though this release should not be used on any production machines, everyone can help shape this release by testing out installations and much more. For more information on the release schedule, take a look at the [Roadmap](http://en.opensuse.org/Roadmap/10.3).
+The openSUSE Team is proud to announce the release of openSUSE 10.3 Beta 3. Though this release should not be used on any production machines, everyone can help shape this release by testing out installations and much more. For more information on the release schedule, take a look at the [Roadmap](//en.opensuse.org/Roadmap/10.3).
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ The openSUSE Team is proud to announce the release of openSUSE 10.3 Beta 3. Thou
   * Reworked concept of language bundles (bundle-lang-* and -lang packages)
 
 
-A more detailed list of the changes is available on the [Factory/News](http://opensuse.org/Factory/News) wiki page.
+A more detailed list of the changes is available on the [Factory/News](//opensuse.org/Factory/News) wiki page.
 
 
 ### Most Annoying Bugs
@@ -64,13 +64,13 @@ A more detailed list of the changes is available on the [Factory/News](http://op
   * Install software and control center icons are missing from GNOME main-menu ([Bug #302324](https://bugzilla.novell.com/show_bug.cgi?id=302324))
 
 
-For an up-to-date list see [Bugs:Most_Annoying_Bugs_10.3_dev](http://en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev)
+For an up-to-date list see [Bugs:Most_Annoying_Bugs_10.3_dev](//en.opensuse.org/Bugs:Most_Annoying_Bugs_10.3_dev)
 
 
 ### Call for Testing
 
 
-If you want to help testing our standard test cases, please coordinate with others and subscribe to [opensuse-testing@opensuse.org](http://lists.opensuse.org/opensuse-testing/) ([subscribe](mailto:opensuse-testing+subscribe@opensuse.org))!
+If you want to help testing our standard test cases, please coordinate with others and subscribe to [opensuse-testing@opensuse.org](//lists.opensuse.org/opensuse-testing/) ([subscribe](mailto:opensuse-testing+subscribe@opensuse.org))!
 
 
 
@@ -79,7 +79,7 @@ If you want to help testing our standard test cases, please coordinate with othe
 - Online Updates with KDE & GNOME openSUSE updater
 - Update from old distros
 - using different external repositories
-- also notice: [http://en.opensuse.org/Libzypp/Testsuite](http://en.opensuse.org/Libzypp/Testsuite)
+- also notice: [//en.opensuse.org/Libzypp/Testsuite](//en.opensuse.org/Libzypp/Testsuite)
 
 
 
@@ -87,7 +87,7 @@ If you want to help testing our standard test cases, please coordinate with othe
   * Language support: try to install and use your language
 
 	
-  * 1-Click-Installation from [software.openSUSE.org/search](http://software.opensuse.org/search?baseproject=openSUSE%3AFactory)
+  * 1-Click-Installation from [software.openSUSE.org/search](//software.opensuse.org/search?baseproject=openSUSE%3AFactory)
 
 	
   * Your favourite application!
@@ -98,35 +98,35 @@ If you want to help testing our standard test cases, please coordinate with othe
 ### Media and Download
 
 
-openSUSE 10.3 Beta 3 for i386, x86-64 and ppc comes as different media sets, all of which can be downloaded from **[http://software.opensuse.org/developer](http://software.opensuse.org/developer)**:
+openSUSE 10.3 Beta 3 for i386, x86-64 and ppc comes as different media sets, all of which can be downloaded from **[//software.opensuse.org/developer](//software.opensuse.org/developer)**:
 
 
 
 	
-  * 1 DVD containing OSS and NonOSS software (torrents for: [i386](http://download.opensuse.org/distribution/10.3-Beta3/iso/torrent/openSUSE-10.3-Beta3-DVD-i386.torrent), [x86_64](http://download.opensuse.org/distribution/10.3-Beta3/iso/torrent/openSUSE-10.3-Beta3-DVD-x86_64.torrent), [ppc](http://download.opensuse.org/distribution/10.3-Beta3/iso/torrent/openSUSE-10.3-Beta3-DVD-ppc.torrent))
+  * 1 DVD containing OSS and NonOSS software (torrents for: [i386](//download.opensuse.org/distribution/10.3-Beta3/iso/torrent/openSUSE-10.3-Beta3-DVD-i386.torrent), [x86_64](//download.opensuse.org/distribution/10.3-Beta3/iso/torrent/openSUSE-10.3-Beta3-DVD-x86_64.torrent), [ppc](//download.opensuse.org/distribution/10.3-Beta3/iso/torrent/openSUSE-10.3-Beta3-DVD-ppc.torrent))
 
 	
-  * 1 CD with a default KDE installation ([i386](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-KDE-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-KDE-x86_64.iso), not for ppc)
+  * 1 CD with a default KDE installation ([i386](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-KDE-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-KDE-x86_64.iso), not for ppc)
 
 	
-  * 1 CD with a default GNOME installation ([i386](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-GNOME-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-GNOME-x86_64.iso), not for ppc)
+  * 1 CD with a default GNOME installation ([i386](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-GNOME-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-GNOME-x86_64.iso), not for ppc)
 
 	
-  * 1 AddOn CD with only NonOSS packages on it ([i386 or x86_64](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-NonOss-BiArch.iso), [ppc](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-NonOss-ppc.iso))
+  * 1 AddOn CD with only NonOSS packages on it ([i386 or x86_64](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-NonOss-BiArch.iso), [ppc](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-NonOss-ppc.iso))
 
 	
-  * 1 AddOn CD with language packages that are used for extra languages (the DVD contains support for Chinese (Simpl. & Trad.), Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Japanese, Polish, Portuguese, Russian, Spanish and Swedish; the DVD has support for installation in all languages, just extra packages are only on this extra media) ([i386](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-Lang-i386.iso), [x86_64](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-Lang-x86_64.iso), [ppc](http://download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-Lang-ppc.iso))
+  * 1 AddOn CD with language packages that are used for extra languages (the DVD contains support for Chinese (Simpl. & Trad.), Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Japanese, Polish, Portuguese, Russian, Spanish and Swedish; the DVD has support for installation in all languages, just extra packages are only on this extra media) ([i386](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-Lang-i386.iso), [x86_64](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-Lang-x86_64.iso), [ppc](//download.opensuse.org/distribution/10.3-Beta3/iso/cd/openSUSE-10.3-Beta3-Addon-Lang-ppc.iso))
 
 	
   * DVD/CDs containing the sources corresponding to the media
 
 
-We have created Delta ISOs from openSUSE 10.3 Beta 2; please use them for download. The DVDs and the source media are only available via bittorrent. For more information, links to sources and the Delta ISOs, see the [development version](http://opensuse.org/Development_Version) wiki page.
+We have created Delta ISOs from openSUSE 10.3 Beta 2; please use them for download. The DVDs and the source media are only available via bittorrent. For more information, links to sources and the Delta ISOs, see the [development version](//opensuse.org/Development_Version) wiki page.
 
 
 ### Comments, Feedback and Helping
 
 
-Please report all bugs you find on in our bugzilla as explained on [http://bugs.opensuse.org](http://bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](http://lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](http://opensuse.org/Communicate) wiki page.
+Please report all bugs you find on in our bugzilla as explained on [//bugs.opensuse.org](//bugs.opensuse.org/); discussion is most appropriate on the [opensuse-factory@opensuse.org](//lists.opensuse.org/opensuse-factory) ([subscribe](mailto:opensuse-factory+subscribe@opensuse.org)) mailing list. For other queries and ways to communicate with the openSUSE community take a look at the [Communicate](//opensuse.org/Communicate) wiki page.
 
-The next [planned release](http://en.opensuse.org/Roadmap/10.3) is the openSUSE 10.3 Release Candidate on Thursday, Sep 20. Some of our readers are saying it is working for  them on their iphone 5 as well
+The next [planned release](//en.opensuse.org/Roadmap/10.3) is the openSUSE 10.3 Release Candidate on Thursday, Sep 20. Some of our readers are saying it is working for  them on their iphone 5 as well

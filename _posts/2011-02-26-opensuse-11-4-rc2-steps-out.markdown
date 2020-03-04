@@ -18,4 +18,4 @@ The transition from OpenOffice.org to LibreOffice still has a few minor document
 
 KDE SC 4.6 is also running beautifully though 32 BIT nVidia users may have a bug.
 
-If you'd like to help add the final touches of celebrity glam prior to the 'big event' of 11.4 release, [download it here](http://download.opensuse.org/distribution/11.4-RC2/iso/) and check out the [most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_RC2).
+If you'd like to help add the final touches of celebrity glam prior to the 'big event' of 11.4 release, [download it here](//download.opensuse.org/distribution/11.4-RC2/iso/) and check out the [most annoying bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_RC2).

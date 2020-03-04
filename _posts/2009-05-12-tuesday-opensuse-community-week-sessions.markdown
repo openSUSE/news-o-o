@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-The [openSUSE Community Week](http://en.opensuse.org/Community_Week) is going strong! Monday kicked off with a number of really informative and well-attended sessions on [GNOME, KDE, testing, packaging, and more](http://news.opensuse.org/2009/05/11/monday-community-week-sessions/). Tuesday is even more chock full of fun, with more sessions and plenty of openSUSE contributors on hand. If you want to get involved in openSUSE there's no time like the present!
+The [openSUSE Community Week](//en.opensuse.org/Community_Week) is going strong! Monday kicked off with a number of really informative and well-attended sessions on [GNOME, KDE, testing, packaging, and more](//news.opensuse.org/2009/05/11/monday-community-week-sessions/). Tuesday is even more chock full of fun, with more sessions and plenty of openSUSE contributors on hand. If you want to get involved in openSUSE there's no time like the present!
 
 Our community week is a chance to get people from around the world together at the same time to focus on specific topics, and to transfer knowledge about openSUSE to help grow our teams. The idea is to cover topics to improve our community by broadening our knowledge, and to enable new contributors to openSUSE and open source.
 
@@ -20,7 +20,7 @@ openSUSE Community Week runs from through May 17. openSUSE Community Week is a c
 
 The idea is to cover topics to empower ourselves as a community by broadening our knowledge, and to enable new contributors to openSUSE and open source.
 
-As a reminder -- all sessions are being [held in IRC](http://en.opensuse.org/Communicate/IRC). If you need help getting started with IRC, see the [openSUSE wiki for more](http://en.opensuse.org/Communicate/IRC). The [entire week's schedule can be found on the wiki](http://en.opensuse.org/Community_Week#Schedule). Here's an overview of Tuesday's events:
+As a reminder -- all sessions are being [held in IRC](//en.opensuse.org/Communicate/IRC). If you need help getting started with IRC, see the [openSUSE wiki for more](//en.opensuse.org/Communicate/IRC). The [entire week's schedule can be found on the wiki](//en.opensuse.org/Community_Week#Schedule). Here's an overview of Tuesday's events:
 
 
 
@@ -31,7 +31,7 @@ As a reminder -- all sessions are being [held in IRC](http://en.opensuse.org/Com
   * KDE Administration and Internals from 16:00 to 17:00 UTC in [#opensuse-kde on Freenode](irc://irc.freenode.net/opensuse-kde), and general discussion in #opensuse-kde the rest of the day.
 
 	
-  * Marketing Team: Working on openSUSE 11.2 [launch plan](http://en.opensuse.org/Marketing/Team/11_2_Launch) in [#opensuse-marketing on Freenode](irc://irc.freenode.net/opensuse-marketing) from 13:00 UTC to 22:00 UTC.
+  * Marketing Team: Working on openSUSE 11.2 [launch plan](//en.opensuse.org/Marketing/Team/11_2_Launch) in [#opensuse-marketing on Freenode](irc://irc.freenode.net/opensuse-marketing) from 13:00 UTC to 22:00 UTC.
 
 	
   * Features: Getting started with openFate from 12:00 to 14:00 UTC in [#opensuse-project on Freenode](irc://irc.freenode.net/opensuse-project).

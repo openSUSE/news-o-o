@@ -13,7 +13,7 @@ categories:
 
 ![news](//news.opensuse.org/wp-content/uploads/2007/11/knewsticker.png)
 
-The second issue of openSUSE Weekly News is out! You can read it in: [English](http://en.opensuse.org/OpenSUSE_Weekly_News/2), [German](http://de.opensuse.org/OpenSUSE-Wochenschau/2). In this issue:
+The second issue of openSUSE Weekly News is out! You can read it in: [English](//en.opensuse.org/OpenSUSE_Weekly_News/2), [German](//de.opensuse.org/OpenSUSE-Wochenschau/2). In this issue:
 
 
 

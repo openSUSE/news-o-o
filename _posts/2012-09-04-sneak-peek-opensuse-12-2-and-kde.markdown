@@ -15,13 +15,13 @@ tags:
 - opensuse
 ---
 
-openSUSE comes with the 4.8 series of the KDE workspaces, applications and platform. This release, as you can read in the [announcements](http://kde.org/announcements/4.8/) is mostly focused on improving the user experience.
+openSUSE comes with the 4.8 series of the KDE workspaces, applications and platform. This release, as you can read in the [announcements](//kde.org/announcements/4.8/) is mostly focused on improving the user experience.
 
 
 ### Starting up
 
 
-![booting opensuse_small](/wp-content/uploads/2012/09/booting-opensuse_small.jpg) Booting up openSUSE, you notice the nice new splash screen as well as the short boot times, courtesy of Plymouth and an improved systemd. But you'll notice speed everywhere: this openSUSE release ships with Linux 3.4.6, a kernel release with a nice number of improvements to the storage layer. Moreover, openSUSE is build with GCC 4.7 and glibc 2.15, bringing speedups all over the system. You'll notice this especially in the performance of low-level tools like the command line and GUI versions of zypper, our package manager. Especially relevant for the _desktop_ is the inclusion of Qt 4.8.1 which makes your applications noticeably more responsive. The version of KWin part of KDE 4.8 comes with its [own share of optimizations](http://philipp.knechtges.com/?p=10), with much more efficient painting. In short, boot up in openSUSE 12.2 and **feel the speed!**<!-- more -->
+![booting opensuse_small](/wp-content/uploads/2012/09/booting-opensuse_small.jpg) Booting up openSUSE, you notice the nice new splash screen as well as the short boot times, courtesy of Plymouth and an improved systemd. But you'll notice speed everywhere: this openSUSE release ships with Linux 3.4.6, a kernel release with a nice number of improvements to the storage layer. Moreover, openSUSE is build with GCC 4.7 and glibc 2.15, bringing speedups all over the system. You'll notice this especially in the performance of low-level tools like the command line and GUI versions of zypper, our package manager. Especially relevant for the _desktop_ is the inclusion of Qt 4.8.1 which makes your applications noticeably more responsive. The version of KWin part of KDE 4.8 comes with its [own share of optimizations](//philipp.knechtges.com/?p=10), with much more efficient painting. In short, boot up in openSUSE 12.2 and **feel the speed!**<!-- more -->
 
 ![apper in action](/wp-content/uploads/2012/09/apper_small.gif)
 
@@ -51,13 +51,13 @@ When viewing an image in Gwenview you'll notice navigation got easier with the t
 #### Office work
 
 
-Libre Office 3.5 packs some serious new improvements. You're sure to notice the better looking fonts, Grammar checking and the multi-line imput in Calc. But there are also many bugfixes and small improvements, read [here](http://www.libreoffice.org/download/3-5-new-features-and-fixes/) if you want to know more.
+Libre Office 3.5 packs some serious new improvements. You're sure to notice the better looking fonts, Grammar checking and the multi-line imput in Calc. But there are also many bugfixes and small improvements, read [here](//www.libreoffice.org/download/3-5-new-features-and-fixes/) if you want to know more.
 
 The KDE Kontact personal information management applications (a suite containing an email and news application, an addressbook and more) has also seen a number of improvements. Under the hood, the applications share a common data handling and caching layer which was introduced in openSUSE 12.1.
 ![Okular](/wp-content/uploads/2012/09/okular-shadow.png)
 There has been a large number of optimizations, speeding up common operations and decreasing memory usage. While there is still considerable work to be done, the KDE PIM applications in openSUSE 12.2 should work for all but the most demanding use cases.
 
-KDE's document viewer Okular has seen extensive work on [text selection](http://nightcrawlerinshadow.wordpress.com/2011/08/20/advanced-text-selection-in-okular/) so you can copy text from PDFs. Instead of dumbly selecting all characters below the square painted by the mouse cursor, Okular employs advanced pattern recognition and statistical analysis to determine word, paragraph and column boundaries, leading to much more natural and word-processor like text selection.
+KDE's document viewer Okular has seen extensive work on [text selection](//nightcrawlerinshadow.wordpress.com/2011/08/20/advanced-text-selection-in-okular/) so you can copy text from PDFs. Instead of dumbly selecting all characters below the square painted by the mouse cursor, Okular employs advanced pattern recognition and statistical analysis to determine word, paragraph and column boundaries, leading to much more natural and word-processor like text selection.
 
 
 ### Polish
@@ -71,17 +71,17 @@ This openSUSE release introduces quite a bit of polish. For example, the wireles
 ## Future Proofing
 
 
-If you want to get the latest and greatest release from the KDE Project, you can add the latest KDE Release to your repository list and upgrade.  Expect KDE 4.9.1 to be available the week after openSUSE 12.2 is released from the [KDE:Release:49](http://download.opensuse.org/repositories/KDE:/Release:/49/openSUSE_12.2/) openSUSE Build Service project. For detailed instructions, head to the [KDE Portal](http://en.opensuse.org/Portal:KDE).
+If you want to get the latest and greatest release from the KDE Project, you can add the latest KDE Release to your repository list and upgrade.  Expect KDE 4.9.1 to be available the week after openSUSE 12.2 is released from the [KDE:Release:49](//download.opensuse.org/repositories/KDE:/Release:/49/openSUSE_12.2/) openSUSE Build Service project. For detailed instructions, head to the [KDE Portal](//en.opensuse.org/Portal:KDE).
 
 
 ## Green is Good for you
 
 
-openSUSE 12.2 is a release to get. The delay of two months has given the community extra time to stabilize things and make sure this release is as solid as ever. While we gear up for the [openSUSE Summit](http://summit.opensuse.org) in Orlando, Florida and the [openSUSE Conference](http://conference.opensuse.org) in Prague, Czech republic, where we discuss the future of openSUSE (you're invited!), you can start using another stellar release. Don't forget to check out what [Tumbleweed](http://opensuse.org/Tumbleweed), [the Open Build Service](http://build.opensuse.org) and [Packman](http://packman.links2linux.org/) have in store for you!
+openSUSE 12.2 is a release to get. The delay of two months has given the community extra time to stabilize things and make sure this release is as solid as ever. While we gear up for the [openSUSE Summit](//summit.opensuse.org) in Orlando, Florida and the [openSUSE Conference](//conference.opensuse.org) in Prague, Czech republic, where we discuss the future of openSUSE (you're invited!), you can start using another stellar release. Don't forget to check out what [Tumbleweed](//opensuse.org/Tumbleweed), [the Open Build Service](//build.opensuse.org) and [Packman](//packman.links2linux.org/) have in store for you!
 
-The openSUSE project will release openSUSE 12.2 tomorrow - so keep your eyes open and check out [software.opensuse.org](http://software.opensuse.org) and of course [openSUSE News](http://news.opensuse.org) for the release!
+The openSUSE project will release openSUSE 12.2 tomorrow - so keep your eyes open and check out [software.opensuse.org](//software.opensuse.org) and of course [openSUSE News](//news.opensuse.org) for the release!
 
-If you like, you can watch a video of openSUSE 12.2 booting from a LiveCD in a Virtual Machine, going through installation and the running of some applications. This video is taken from [openQA](http://openqa.opensuse.org) and edited to 1:30 with [Kdenlive](http://kdenlive.org), the Linux video editor.
+If you like, you can watch a video of openSUSE 12.2 booting from a LiveCD in a Virtual Machine, going through installation and the running of some applications. This video is taken from [openQA](//openqa.opensuse.org) and edited to 1:30 with [Kdenlive](//kdenlive.org), the Linux video editor.
 
 
 

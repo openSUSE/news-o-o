@@ -12,7 +12,7 @@ categories:
 - Project
 ---
 
-[![](/wp-content/uploads/2012/08/geekosplace.jpg)](http://news.opensuse.org/2012/08/09/13770/geekosplace/)
+[![](/wp-content/uploads/2012/08/geekosplace.jpg)](//news.opensuse.org/2012/08/09/13770/geekosplace/)
 
 
 
@@ -52,4 +52,4 @@ categories:
 
 
 
-And a little bit of [openSUSE History](http://en.wikipedia.org/wiki/openSUSE)!
+And a little bit of [openSUSE History](//en.wikipedia.org/wiki/openSUSE)!

@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-[openSUSE Education](http://en.opensuse.org/Education) founder James Tremblay was caught up by 'People of openSUSE' to an interesting interview.
+[openSUSE Education](//en.opensuse.org/Education) founder James Tremblay was caught up by 'People of openSUSE' to an interesting interview.
 
 <!-- more -->
 <table border="0" >
@@ -50,7 +50,7 @@ categories:
 <td >**Homepage: **
 </td>
 
-<td >[http://en.opensuse.org/Education](http://en.opensuse.org/Education)
+<td >[//en.opensuse.org/Education](//en.opensuse.org/Education)
 </td>
 
 <td >
@@ -161,7 +161,7 @@ After several months of study I found that there were projects all over the worl
 #### In what way do you participate in the openSUSE project?
 
 
-Since then I have convinced a few key players to help with producing a repository and now an ADD-ON CD of educational solutions to run on openSUSE\SLE products. I have also been working with the KIWI thin client team to help reproduce the [LTSP project](http://en.opensuse.org/LTSP) on the SUSE line of products. I am also the founder of the openSUSE in schools project located at [http://en.opensuse.org/Education](http://en.opensuse.org/Education). My hat is off and I give a deep bow to [Lars Vodgt](http://en.opensuse.org/User:Lrupp). He is the lead developer openSUSE EDU-CD project and a personal hero. I also wish to give many thanks to [CyberOrg](//news.opensuse.org/2007/11/09/people-of-opensuse-jigish-gohil/) the lead developer of the LTSP on openSUSE project.
+Since then I have convinced a few key players to help with producing a repository and now an ADD-ON CD of educational solutions to run on openSUSE\SLE products. I have also been working with the KIWI thin client team to help reproduce the [LTSP project](//en.opensuse.org/LTSP) on the SUSE line of products. I am also the founder of the openSUSE in schools project located at [//en.opensuse.org/Education](//en.opensuse.org/Education). My hat is off and I give a deep bow to [Lars Vodgt](//en.opensuse.org/User:Lrupp). He is the lead developer openSUSE EDU-CD project and a personal hero. I also wish to give many thanks to [CyberOrg](//news.opensuse.org/2007/11/09/people-of-opensuse-jigish-gohil/) the lead developer of the LTSP on openSUSE project.
 
 
 

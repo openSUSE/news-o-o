@@ -63,7 +63,7 @@ There were several great moments this summer but when I look back, especially on
 ## Thank You
 
 
-Last but not least I would like to take the opportunity to say thank you to all the openSUSE GSoC mentors and especially to my mentor [Henne Vogelsang](http://www.hennevogel.de/). Henne, without great people like you, who spent a huge chunk of their valuable time to help and advice young developers, a program like GSoC wouldn't be possible! Thank you, this was really a great summer for me!
+Last but not least I would like to take the opportunity to say thank you to all the openSUSE GSoC mentors and especially to my mentor [Henne Vogelsang](//www.hennevogel.de/). Henne, without great people like you, who spent a huge chunk of their valuable time to help and advice young developers, a program like GSoC wouldn't be possible! Thank you, this was really a great summer for me!
 
 That was my last post in this three post series about my Summer of Code 2014, I hope you liked it. If you have any question or remark I'm looking forward to your comments below! And don’t forget to check out my other posts in this series
 

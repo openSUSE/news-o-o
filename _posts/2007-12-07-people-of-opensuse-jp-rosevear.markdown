@@ -50,7 +50,7 @@ Here goes another 'People of openSUSE' interview, this time with a Canadian Nove
 <td >**Homepage: **
 </td>
 
-<td >[http://jprosevear.org](http://jprosevear.org)
+<td >[//jprosevear.org](//jprosevear.org)
 </td>
 
 <td >
@@ -61,7 +61,7 @@ Here goes another 'People of openSUSE' interview, this time with a Canadian Nove
 <td >**Blog:**
 </td>
 
-<td >[http://jprosevear.org/blog/](http://jprosevear.org/blog/)
+<td >[//jprosevear.org/blog/](//jprosevear.org/blog/)
 </td>
 
 <td >
@@ -123,7 +123,7 @@ Here goes another 'People of openSUSE' interview, this time with a Canadian Nove
 
 Born and raised in Canada, I live just outside of Toronto currently. I'm married to my lovely wife Tara and we have two daughters, Emily and Abigail.
 
-I work for Novell and before that I worked for Ximian.  I've been involved in the GNOME project since about 1998 and [contributing code since 1999](http://svn.gnome.org/viewvc/gnome-utils/trunk/gsearchtool/ChangeLog?revision=1203&view=markup).
+I work for Novell and before that I worked for Ximian.  I've been involved in the GNOME project since about 1998 and [contributing code since 1999](//svn.gnome.org/viewvc/gnome-utils/trunk/gsearchtool/ChangeLog?revision=1203&view=markup).
 
 Currently I'm a development manager at Novell for the desktop and OpenOffice, before that for Evolution and before that I was an Evolution developer.
 
@@ -165,7 +165,7 @@ I would say I'd been on the periphery of the openSUSE community since the projec
 #### In what way do you participate in the openSUSE project?
 
 
-I run our openSUSE GNOME meetings in irc, test, help triage bugs, do a little packaging and other things like that.  I of course also have a number of people on my team at Novell who contribute to directly to openSUSE (Boyd, Scott, Rodrigo, Michael Wolf, Hans Petter Jansson).  As well as the OpenOffice team are always pushing the latest and greatest into openSUSE via ooo-build, [http://go-oo.org](http://go-oo.org)/ and [#go-oo](irc://irc.freenode.org/go-oo) on Freenode.
+I run our openSUSE GNOME meetings in irc, test, help triage bugs, do a little packaging and other things like that.  I of course also have a number of people on my team at Novell who contribute to directly to openSUSE (Boyd, Scott, Rodrigo, Michael Wolf, Hans Petter Jansson).  As well as the OpenOffice team are always pushing the latest and greatest into openSUSE via ooo-build, [//go-oo.org](//go-oo.org)/ and [#go-oo](irc://irc.freenode.org/go-oo) on Freenode.
 
 
 
@@ -185,7 +185,7 @@ I want to create a better and innovative desktop for users and openSUSE is the p
 #### What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?
 
 
-Helping to generate an active community around GNOME, see [http://en.opensuse.org/GNOME](http://en.opensuse.org/GNOME) and [#opensuse-gnome](irc://irc.freenode.org/opensuse-gnome).
+Helping to generate an active community around GNOME, see [//en.opensuse.org/GNOME](//en.opensuse.org/GNOME) and [#opensuse-gnome](irc://irc.freenode.org/opensuse-gnome).
 
 
 
@@ -423,7 +423,7 @@ Heck no, thats why you have a UPS.
 #### Have your ever missed an appointment because you forgot about it while sitting at your computer?
 
 
-Yes.  [Flow state](http://en.wikipedia.org/wiki/Flow_state) is where its at.
+Yes.  [Flow state](//en.wikipedia.org/wiki/Flow_state) is where its at.
 
 
 
@@ -435,7 +435,7 @@ Yes.  [Flow state](http://en.wikipedia.org/wiki/Flow_state) is where its at.
 
 My winning shot in the Novell vs RedHat Desktop Managers pool competition at the GNOME Summit this year. JRB did put up good fight though.
 
-[http://farm3.static.flickr.com/2064/1521792728_635133d3dd.jpg](http://farm3.static.flickr.com/2064/1521792728_635133d3dd.jpg)
+[//farm3.static.flickr.com/2064/1521792728_635133d3dd.jpg](//farm3.static.flickr.com/2064/1521792728_635133d3dd.jpg)
 
 He's going to be regretting the record of this for a long time.
 

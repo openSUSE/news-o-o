@@ -51,7 +51,7 @@ Graf does make it clear that these is still a lot to be done even after the 64-b
 
 “There are things that don’t work because we are upstream based,” he said. “These things take time. The easy, low hanging fruit is cracked. Some is still missing like the power management upstream, but overall we are in a good state.”
 
-Among things that make the openSUSE Raspberry Pi 3 images different, Graf said, is that it is the first distro that has working [Kernel-based Virtual Machine](http://www.linux-kvm.org/page/Main_Page) (KVM) support.
+Among things that make the openSUSE Raspberry Pi 3 images different, Graf said, is that it is the first distro that has working [Kernel-based Virtual Machine](//www.linux-kvm.org/page/Main_Page) (KVM) support.
 
 The other thing is that it can work with newer or older Linux Kernels. Just like on other systems, all that is needed is to use libvirt for configuration.
 
@@ -73,4 +73,4 @@ Previous versions of openSUSE had ARMv7, but openSUSE Leap 42.1 did not; that ch
 
 “ARMv7 in openSUSE Leap 42.2 is about creating more community engagement,” Graf said.
 
-Hackers interested in ARMv7 boards should check out [BeagleBoard](http://beagleboard.org/bone), [BeagleBone (Black)](https://beagleboard.org/black), and [96Boards](http://www.96boards.org/).
+Hackers interested in ARMv7 boards should check out [BeagleBoard](//beagleboard.org/bone), [BeagleBone (Black)](https://beagleboard.org/black), and [96Boards](//www.96boards.org/).

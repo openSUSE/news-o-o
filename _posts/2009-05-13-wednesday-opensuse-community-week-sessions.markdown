@@ -12,7 +12,7 @@ categories:
 - Events
 ---
 
-The [openSUSE Community Week](http://en.opensuse.org/Community_Week) is going strong! The fun kicks up a notch Wednesday with sessions with the openSUSE Board and a workshop with the openSUSE Weekly News team, in addition to sessions with the GNOME and KDE teams, testing and QA, and much more.
+The [openSUSE Community Week](//en.opensuse.org/Community_Week) is going strong! The fun kicks up a notch Wednesday with sessions with the openSUSE Board and a workshop with the openSUSE Weekly News team, in addition to sessions with the GNOME and KDE teams, testing and QA, and much more.
 
 Our community week is a chance to get people from around the world together at the same time to focus on specific topics, and to transfer knowledge about openSUSE to help grow our teams. The idea is to cover topics to improve our community by broadening our knowledge, and to enable new contributors to openSUSE and open source.
 
@@ -20,7 +20,7 @@ openSUSE Community Week runs from through May 17. openSUSE Community Week is a c
 
 The idea is to cover topics to empower ourselves as a community by broadening our knowledge, and to enable new contributors to openSUSE and open source.
 
-As a reminder -- all sessions are being [held in IRC](http://en.opensuse.org/Communicate/IRC). If you need help getting started with IRC, see the [openSUSE wiki for more](http://en.opensuse.org/Communicate/IRC). The [entire week's schedule can be found on the wiki](http://en.opensuse.org/Community_Week#Schedule). Here's an overview of Wednesday's events:
+As a reminder -- all sessions are being [held in IRC](//en.opensuse.org/Communicate/IRC). If you need help getting started with IRC, see the [openSUSE wiki for more](//en.opensuse.org/Communicate/IRC). The [entire week's schedule can be found on the wiki](//en.opensuse.org/Community_Week#Schedule). Here's an overview of Wednesday's events:
 
 
 

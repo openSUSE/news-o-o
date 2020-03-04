@@ -13,7 +13,7 @@ categories:
 
 ﻿﻿﻿The Ohio Linux Fest will be on September 10-12, 2010 in Columbus, Ohio.  There is now a one-week extension for Call for Partiicipation.
 
-If any of you are in the Ohio area and would like to give a talk about openSUSE, we encourage you to register your talk proposal [here.](http://http://www.ohiolinux.org/node/674)
+If any of you are in the Ohio area and would like to give a talk about openSUSE, we encourage you to register your talk proposal [here.](////www.ohiolinux.org/node/674)
 
 From the website:
 

@@ -22,4 +22,4 @@ Community members from these communities are welcome to attend the openSUSE conf
 
 Attendees are expected to behave in accordance to the [openSUSE Guiding Principles](https://en.opensuse.org/openSUSE:Guiding_principles).
 
-The conference will take place in Nuremberg at the [Z Bau](http://z-bau.com/) June 22 - 26.
+The conference will take place in Nuremberg at the [Z Bau](//z-bau.com/) June 22 - 26.

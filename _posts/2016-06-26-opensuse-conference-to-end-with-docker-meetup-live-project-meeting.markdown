@@ -19,7 +19,7 @@ Thomas Hatch and company provided [an overview of automation with Salt](https://
 
 Frank Karlitschek from NextCloud provided a keynote about[ the future of the internet](https://www.youtube.com/watch?v=0laZYRuqGsQ) and Georg Greve provided a keynote on[ hardware topics and innovation](https://www.youtube.com/watch?v=N0B4_Kk44fw).
 
-Klaas Freitag provided an [ownCloud workshop](https://www.youtube.com/watch?v=sF1KECdQyt4) and Mauro Morales provided [a guided tour](https://www.youtube.com/watch?v=LYQZb3n7XiE) of the [Machinery Project](http://machinery-project.org/).
+Klaas Freitag provided an [ownCloud workshop](https://www.youtube.com/watch?v=sF1KECdQyt4) and Mauro Morales provided [a guided tour](https://www.youtube.com/watch?v=LYQZb3n7XiE) of the [Machinery Project](//machinery-project.org/).
 
 More openSUSE centric talks took place on the first day of the conference. Alberto Planas provided [demographics on openSUSE users](https://www.youtube.com/watch?v=40emCNzs6so) and Ludwig Nussel, the release manager for openSUSE Leap talked about the [release of 42.2](https://www.youtube.com/watch?v=2HMulkWs-rw).
 

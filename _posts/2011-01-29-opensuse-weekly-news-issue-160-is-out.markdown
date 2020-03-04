@@ -19,7 +19,7 @@ We are pleased to announce the new openSUSE Weekly News.
 <!-- more -->
 
 
-![Cover](http://www.saschamanns.de/pub/OWN/common/logos/Opensuse_weekly_news_banner.png)
+![Cover](//www.saschamanns.de/pub/OWN/common/logos/Opensuse_weekly_news_banner.png)
 
 ## openSUSE Weekly News
 
@@ -78,31 +78,31 @@ Translations
 
 We are pleased to announce our 160 issue of the openSUSE Weekly News.
 
-You can also read this issue in other formats. Just click [here](http://en.opensuse.org/Archive:Weekly_news_other_sources).
+You can also read this issue in other formats. Just click [here](//en.opensuse.org/Archive:Weekly_news_other_sources).
 
 Enjoy the reading :-)
 
 Counter for openSUSE 11.4
     
 
-![](http://countdown.opensuse.org/11.4/small.en.png)
+![](//countdown.opensuse.org/11.4/small.en.png)
 
 
     
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Marketing.png)Announcements
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Marketing.png)Announcements
 
 **[Sascha
-        Manns: openSUSE Weekly News Poll](http://saigkill.wordpress.com/2011/01/24/opensuse-weekly-news-poll/)**
+        Manns: openSUSE Weekly News Poll](//saigkill.wordpress.com/2011/01/24/opensuse-weekly-news-poll/)**
 
 Hey you’re reading the openSUSE Weekly News? Then you’re the right person who fill up this
       poll: [https://connect.opensuse.org/pg/polls/read/saigkill/11553/which-outputformat-of-the-weekly-news-you-prefer](https://connect.opensuse.org/pg/polls/read/saigkill/11553/which-outputformat-of-the-weekly-news-you-prefer)
 
 The more who are polling the better is it :-)
 
-**[App Installer Meeting or More Collaboration Accross Borders](http://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/)**
+**[App Installer Meeting or More Collaboration Accross Borders](//news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/)**
 
-Back in October, at the [openSUSE Conference](http://news.opensuse.org/2011/01/26/2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/), several meetings and hallway discussions occurred on the topic
+Back in October, at the [openSUSE Conference](//news.opensuse.org/2011/01/26/2010/10/25/thanks-for-your-participation-at-the-opensuse-conference/), several meetings and hallway discussions occurred on the topic
       of “Installation ofApplications” on openSUSE. As of today, we still have a very
       package-centric approach, while users usually do not think in terms of packages but in terms
       of applications: people want to use Firefox, LibreOffice or Frozen Bubble.
@@ -117,7 +117,7 @@ We investigated the best way to approach this issue and come to a fast resolutio
       This lead Vincent Untz to contact several people from different distributions, to see if he
       could spark an interest in a cross-distribution meeting on this topic. It turned out that
       everyone replied enthusiastically! That’s how the [App Installer
-        Meeting](http://distributions.freedesktop.org/wiki/Meetings/AppInstaller2011) saw the light. 
+        Meeting](//distributions.freedesktop.org/wiki/Meetings/AppInstaller2011) saw the light. 
 
 This meeting occurred over three days last week at the Novell/SUSE offices in Nuremberg,
       with 15ish participants, from five distributions: Debian (Enrico Zini, David Kalnischkies),
@@ -128,8 +128,8 @@ This meeting occurred over three days last week at the Novell/SUSE offices in Nu
       some of those having a background on user experience, others on low-level bits of packaging
       systems. 
 
-During these three days, we looked at various bits of technologies, including [Debtags](http://debtags.alioth.debian.org/), the [Ubuntu Software Center](https://wiki.ubuntu.com/SoftwareCenter), the [Open
-        Collaboration Services specification](http://www.freedesktop.org/wiki/Specifications/open-collaboration-services) and more. This helped us know what is available
+During these three days, we looked at various bits of technologies, including [Debtags](//debtags.alioth.debian.org/), the [Ubuntu Software Center](https://wiki.ubuntu.com/SoftwareCenter), the [Open
+        Collaboration Services specification](//www.freedesktop.org/wiki/Specifications/open-collaboration-services) and more. This helped us know what is available
       today and where we stand. We quickly agreed that we wanted to share the architecture to
       provide an Application Center for each distribution, even though some distributions might
       choose to have a different set of policies. 
@@ -140,7 +140,7 @@ The group worked intensively to define the architecture, from the bottom to the 
       metadata, the protocol used to communicate between the distribution server and the Application
       Center client, as well as the user interface. The group is working on properly documenting the
       technical results of this meeting to let the wider community understand the overall
-      architecture. Watch the [video](http://www.youtube.com/watch?v=BHeP2ZBwS_U)
+      architecture. Watch the [video](//www.youtube.com/watch?v=BHeP2ZBwS_U)
       of a presentation delivered on the last day to Novell people to get an overview of what got
       produced. 
 
@@ -148,7 +148,7 @@ The meeting turned out to be even more productive than originally planned, and a
       participants agreed on a concrete plan with an aggressive time line to push this effort
       forward! Stay tuned! 
 
-[Youtube](http://www.youtube.com/watch?v=BHeP2ZBwS_U) and [m4v](http://blip.tv/file/get/Geeko-AppStreamMeetingSummary895.m4v) video file 
+[Youtube](//www.youtube.com/watch?v=BHeP2ZBwS_U) and [m4v](//blip.tv/file/get/Geeko-AppStreamMeetingSummary895.m4v) video file 
 
 Many thanks to all the sponsors of this event: Novell for kindly hosting and sponsoring
       several attendees, Canonical and Red Hat for sending people, and Debian for sponsoring one
@@ -156,18 +156,18 @@ Many thanks to all the sponsors of this event: Novell for kindly hosting and spo
 
 Article contributed by Vincent Untz
 
-**[First Bretzn Sprint: openSUSE App Store on the Horizon](http://news.opensuse.org/2011/01/27/first-bretzn-sprint-opensuse-app-store-on-the-horizon/)**
+**[First Bretzn Sprint: openSUSE App Store on the Horizon](//news.opensuse.org/2011/01/27/first-bretzn-sprint-opensuse-app-store-on-the-horizon/)**
 
-Novell hosted the first [Bretzn](http://news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/) Sprint in the SUSE office in Nürnberg between 21th and the 23st of January.
+Novell hosted the first [Bretzn](//news.opensuse.org/2010/10/26/from-the-developer-to-the-user-and-back-announcing-project-bretzn/) Sprint in the SUSE office in Nürnberg between 21th and the 23st of January.
       The objective of the sprint was to create an proof of concept application store for openSUSE. 
 
-This meeting is a direct follow up of the [Cross-distribution meeting on application installer](http://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/) which took place in the 3 days
-      leading up to the Bretzn sprint. During this meeting developers from [Debian](http://www.debian.org/), [Fedora](http://fedoraproject.org/), [Mageia](http://mageia.org/), [openSUSE](http://www.opensuse.org/), and [Ubuntu Linux](http://www.ubuntu.com/) distributions decided to work together on common APIs and code for
+This meeting is a direct follow up of the [Cross-distribution meeting on application installer](//news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/) which took place in the 3 days
+      leading up to the Bretzn sprint. During this meeting developers from [Debian](//www.debian.org/), [Fedora](//fedoraproject.org/), [Mageia](//mageia.org/), [openSUSE](//www.opensuse.org/), and [Ubuntu Linux](//www.ubuntu.com/) distributions decided to work together on common APIs and code for
       application stores on Linux. 
 
 The Bretzn Sprint was dedicated to the development of a proof of concept of this idea,
       using existing components like the [MeeGo
-        Garage](http://gitorious.org/meego-garage/) client and [libattica](http://api.kde.org/kdesupport-api/kdesupport-apidocs/attica-git/html/) as starting points. 
+        Garage](//gitorious.org/meego-garage/) client and [libattica](//api.kde.org/kdesupport-api/kdesupport-apidocs/attica-git/html/) as starting points. 
 
 Attendees of this meeting where Will Stephenson, Dan Leinir Turthra Jensen, Frederik
       Gladhorn, Mateu Batle Sastre, Eugene Trounev, Vincent Untz, Pavol Rusnak and Frank
@@ -179,7 +179,7 @@ Attendees of this meeting where Will Stephenson, Dan Leinir Turthra Jensen, Fred
 </td></tr></table>
 
 In just two and a half days, they managed to create a working application store client for
-      openSUSE and KDE. The server part was based on [OCS](http://www.freedesktop.org/wiki/Specifications/open-collaboration-services)
+      openSUSE and KDE. The server part was based on [OCS](//www.freedesktop.org/wiki/Specifications/open-collaboration-services)
       (Open Collaboration Services), which already did everything needed for the server side and
       just needed some data inserted to be shown in the client. The client in turn was created by
       using the MeeGo Garage client, and adapting it to be a more KDE-like application, by using the
@@ -187,21 +187,21 @@ In just two and a half days, they managed to create a working application store 
       covered by the KDE libraries. 
 
 Finally, a new application view was created, to replace the existing which was never as
-      pleasing as the original authors wanted it to be. This was done by using [Qt Quick](http://qt.nokia.com/products/qt-quick/), which has allowed for the
+      pleasing as the original authors wanted it to be. This was done by using [Qt Quick](//qt.nokia.com/products/qt-quick/), which has allowed for the
       rapid construction of a much more pleasant look. The new interface is the result of a
       brainstorming session involving all members of the sprint, based on the results from the
-        [cross-distribution meeting](http://news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/). While this work is still in progress, it already
+        [cross-distribution meeting](//news.opensuse.org/2011/01/26/app-installer-meeting-or-more-collaboration-accross-borders/). While this work is still in progress, it already
       represents an improvement over the old interface. 
 
 Article contributed by Frank Karlitschek
 
-**[openSUSE Announces Development Milestone Six of Six](http://news.opensuse.org/2011/01/28/opensuse-announces-development-milestone-six-of-six/)**
+**[openSUSE Announces Development Milestone Six of Six](//news.opensuse.org/2011/01/28/opensuse-announces-development-milestone-six-of-six/)**
 
 openSUSE project manager Stephan Kulow has announced that openSUSE
         11.4 Milestone 6 (M6) is ready for testing. With M6, the pace of development is starting to
         slow down as the focus switches towards QA and bug fixing.
 
-The project has been [evaluating systemd vs SysV init](http://news.opensuse.org/2010/11/11/opensuse-11-4m3/) to manage system and service startup, and has
+The project has been [evaluating systemd vs SysV init](//news.opensuse.org/2010/11/11/opensuse-11-4m3/) to manage system and service startup, and has
       decided to stay with SysV init for 11.4 due to issues in getting the last 10% of the
       integration perfect. 
 
@@ -214,39 +214,39 @@ Branding and artwork has had a lot of attention, with the addition of the final
       wallpapers, splash screens and branding for 11.4. The default wallpaper is called Celadon
       Stripes, taking its inspiration from the color codename for this release. 
 
-New software added in Milestone 4 includes the [WebYaST stack](http://en.opensuse.org/Portal:WebYaST). WebYaST is the web-based
-      admin tool developed for SLES, now [available for openSUSE](http://lizards.opensuse.org/2010/12/21/easy-use-of-webyast-for-opensuse-11-3/). Professional sysadmins and those who just like to
+New software added in Milestone 4 includes the [WebYaST stack](//en.opensuse.org/Portal:WebYaST). WebYaST is the web-based
+      admin tool developed for SLES, now [available for openSUSE](//lizards.opensuse.org/2010/12/21/easy-use-of-webyast-for-opensuse-11-3/). Professional sysadmins and those who just like to
       comfortably administer their openSUSE servers will appreciate WebYaST. Also on the server
       side, the latest versions of the Horde groupware suite are now in openSUSE. 
 
-Software updates this milestone include the update of XOrg to [7.6](http://www.x.org/wiki/Other/Press/X11R76Released), [VirtualBox 4.0.2](http://www.virtualbox.org/), [GnuCash 2.4](http://www.gnucash.org/#101221-2.4.0.news), and [Scribus 1.3.9](http://wiki.scribus.net/canvas/News_2010-11-29). A [lively
-        discussion](http://lists.opensuse.org/opensuse-factory/2011-01/msg00271.html) on the opensuse-factory list about whether to include the stable Firefox
+Software updates this milestone include the update of XOrg to [7.6](//www.x.org/wiki/Other/Press/X11R76Released), [VirtualBox 4.0.2](//www.virtualbox.org/), [GnuCash 2.4](//www.gnucash.org/#101221-2.4.0.news), and [Scribus 1.3.9](//wiki.scribus.net/canvas/News_2010-11-29). A [lively
+        discussion](//lists.opensuse.org/opensuse-factory/2011-01/msg00271.html) on the opensuse-factory list about whether to include the stable Firefox
       3.6.13 or a Firefox 4 beta centered around the limited availability of popular extensions for
       version 4 versus the short upstream maintenance period of Firefox 3 releases. As this article
       was published, the discussion was leaning towards taking a Firefox 4 beta and online-updating
       it to the final release when it becomes available. 
 
-Updates are flowing thick and fast to the KDE workspace and applications. [KDE 4.6RC2](http://www.kde.org/announcements/announce-4.6-rc2.php) is on M6, and
-      will be updated to [4.6.0 final](http://amarok.kde.org/en/releases/2.4.0)
+Updates are flowing thick and fast to the KDE workspace and applications. [KDE 4.6RC2](//www.kde.org/announcements/announce-4.6-rc2.php) is on M6, and
+      will be updated to [4.6.0 final](//amarok.kde.org/en/releases/2.4.0)
       for the first Release Candidate. The accompanying flurry of application releases include
-        [Amarok 2.4.0](http://amarok.kde.org/en/releases/2.4.0), [Digikam 1.8.0](http://www.digikam.org/drupal/node/567), [KOffice 2.3.1](http://www.koffice.org/news/koffice-2-3-1-released/), k3b 2.0.2,
-        [KDevelop 4.2](http://milianw.de/blog/kdevelop-42-available), [KMyMoney 4.5](http://kmymoney2.sourceforge.net/index-home.html), Rekonq 0.6 and
+        [Amarok 2.4.0](//amarok.kde.org/en/releases/2.4.0), [Digikam 1.8.0](//www.digikam.org/drupal/node/567), [KOffice 2.3.1](//www.koffice.org/news/koffice-2-3-1-released/), k3b 2.0.2,
+        [KDevelop 4.2](//milianw.de/blog/kdevelop-42-available), [KMyMoney 4.5](//kmymoney2.sourceforge.net/index-home.html), Rekonq 0.6 and
       BlueDevil 1.0.1. Fans of the Oxygen style will also see it in GTK applications, thanks to the
       native port of Oxygen to a GTK style in the form of the oxygen-gtk package . 
 
-As the GNOME project prepares for [GNOME 3](http://www.gnome3.org), the
+As the GNOME project prepares for [GNOME 3](//www.gnome3.org), the
       focus at openSUSE is on stabilisation and polish to GNOME 2.32. Bugfixes to PulseAudio, GDM
       and gnome-main-menu will ensure that 11.4 brings incremental refinement to GNOME users.
-      Clutter 1.5 is included to support the latest available preview of gnome-shell, and the [gramps genealogy tool](http://gramps-project.org/) is added in version 3.2.5.
+      Clutter 1.5 is included to support the latest available preview of gnome-shell, and the [gramps genealogy tool](//gramps-project.org/) is added in version 3.2.5.
       The GNOME team is preparing an 11.4-based Live CD that will include GNOME 3 when it is
       released in March. 
 
-The XFCE desktop is updated thanks to the hard work of the community to [version 4.8](http://www.xfce.org/about/news/?post=1295136000), bringing with it
+The XFCE desktop is updated thanks to the hard work of the community to [version 4.8](//www.xfce.org/about/news/?post=1295136000), bringing with it
       far too many improvements to mention. 
 
-A [list of most annoying bugs](http://en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_6_of_6) is being compiled; please check it before installing. We
-      look forward to [your bug reports](http://bit.ly/hmbwUF) and test
-      experiences too. [Automated testing](http://openqa.opensuse.org/) and the
+A [list of most annoying bugs](//en.opensuse.org/openSUSE:Most_annoying_bugs_11.4_dev#openSUSE_11.4_Milestone_6_of_6) is being compiled; please check it before installing. We
+      look forward to [your bug reports](//bit.ly/hmbwUF) and test
+      experiences too. [Automated testing](//openqa.opensuse.org/) and the
       openSUSE Factory team have been active to ensure that your download of M6 will be at least
       minimally functional. 
 
@@ -255,11 +255,11 @@ Release Candidate 1 is scheduled for February 10 and brings with it a hard freez
 
 ## Board Election 2010
 
-**[openSUSE Board Election 2010: Vogelsang and Linnell elected](http://news.opensuse.org/2011/01/28/opensuse-board-election-2010-vogelsang-and-linnell-elected/)**
+**[openSUSE Board Election 2010: Vogelsang and Linnell elected](//news.opensuse.org/2011/01/28/opensuse-board-election-2010-vogelsang-and-linnell-elected/)**
 
 The last few weeks in the openSUSE project have been very interesting. [Two seats on the openSUSE Project
-      board](http://en.opensuse.org/openSUSE:Board_election_2010) were up for election. The [Election
-        Committee](http://en.opensuse.org/openSUSE:Board_election_2010#Election_committee) closed the polls on Wednesday, and we are pleased to announce the
+      board](//en.opensuse.org/openSUSE:Board_election_2010) were up for election. The [Election
+        Committee](//en.opensuse.org/openSUSE:Board_election_2010#Election_committee) closed the polls on Wednesday, and we are pleased to announce the
       results:
 
   1. Henne Vogelsang (125 Votes)
@@ -280,12 +280,12 @@ The last few weeks in the openSUSE project have been very interesting. [Two seat
 
 We at the News Team wish the new board members all the best and Have A Lot Of Fun!
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/hacking.png)Hackweek VI
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/hacking.png)Hackweek VI
 
-**[[Cornelius Schumacher: Choosing a project for Hackweek 6](http://blog.cornelius-schumacher.de/2011/01/choosing-project-for-hackweek-6.html)](http://blog.cihar.com/archives/2011/01/21/hackweek-and-symbian-support-gammu/)**
+**[[Cornelius Schumacher: Choosing a project for Hackweek 6](//blog.cornelius-schumacher.de/2011/01/choosing-project-for-hackweek-6.html)](//blog.cihar.com/archives/2011/01/21/hackweek-and-symbian-support-gammu/)**
 
-It's [Hackweek](http://en.opensuse.org/Portal:Hackweek) again in SUSE
-      land for the next five days. It's the sixth edition and there already is a [nice list of projects](http://bit.ly/iifPDG) in [openFATE](http://features.opensuse.org/).
+It's [Hackweek](//en.opensuse.org/Portal:Hackweek) again in SUSE
+      land for the next five days. It's the sixth edition and there already is a [nice list of projects](//bit.ly/iifPDG) in [openFATE](//features.opensuse.org/).
 
 I haven't decided, what I'll work on, yet. There are four projects I'm thinking about. I
       entered all of them in openFATE for now, will sleep for a night, and then take a decision
@@ -346,10 +346,10 @@ This project goes back to some of my roots. Something like ten years ago I rewro
 [Read more in openFATE
       311143](https://features.opensuse.org/311143).
 
-**[Michal Ìihař: Gammu can read and write contacts from Symbian](http://blog.cihar.com/archives/2011/01/24/gammu-can-read-and-write-contacts-symbian/)**
+**[Michal Ìihař: Gammu can read and write contacts from Symbian](//blog.cihar.com/archives/2011/01/24/gammu-can-read-and-write-contacts-symbian/)**
 
-First day of [Hackweek 6](http://en.opensuse.org/Portal:Hackweek) is
-      almost over and my progress is quite good so far. The first step wat to make [Gammu](http://wammu.eu/) connect to the [Series60](http://series60-remote.sourceforge.net/) applet and retrieve basic
+First day of [Hackweek 6](//en.opensuse.org/Portal:Hackweek) is
+      almost over and my progress is quite good so far. The first step wat to make [Gammu](//wammu.eu/) connect to the [Series60](//series60-remote.sourceforge.net/) applet and retrieve basic
       information:
     
     $ ./gammu/gammu identify
@@ -359,7 +359,7 @@ First day of [Hackweek 6](http://en.opensuse.org/Portal:Hackweek) is
     Firmware             : 3.0
     IMEI                 : 359000000000000
 
-That was pretty easy. If you want to try it, you need to install [Series60](http://series60-remote.sourceforge.net/) applet into phone (manually
+That was pretty easy. If you want to try it, you need to install [Series60](//series60-remote.sourceforge.net/) applet into phone (manually
       for now, but autoinstallation is planned for future) and configure gammu to talk to
       it:
     
@@ -370,7 +370,7 @@ That was pretty easy. If you want to try it, you need to install [Series60](http
 Second thing I choose to implement was manipulation with contacts. There are some oddities
       in the applet (like it simply crashes when giving it wrong contact ID to retrieve), which I
       will try to fix in future, but for now I stick with existing applet and code functionality
-      only in [Gammu](http://wammu.eu/). And it
+      only in [Gammu](//wammu.eu/). And it
       works:
     
     $ ./gammu/gammu getmemory ME 215
@@ -386,7 +386,7 @@ Second thing I choose to implement was manipulation with contacts. There are som
 Tomorrow I should be able to implement calendar, let's see how will it go. 
 
 PS: All code is is available in our [Git
-        repository](http://wammu.eu/contribute/code/)
+        repository](//wammu.eu/contribute/code/)
 
 **Hackweek VI: Blip.tv videos**
 
@@ -401,7 +401,7 @@ Now are following the Links to the videos:
 <td >
                 
 
-[Adrian Schröter](http://blip.tv/file/4677417)
+[Adrian Schröter](//blip.tv/file/4677417)
 
 
               
@@ -409,7 +409,7 @@ Now are following the Links to the videos:
 <td >
                 
 
-[Arvin Schnell](http://blip.tv/file/4677600)
+[Arvin Schnell](//blip.tv/file/4677600)
 
 
               
@@ -417,91 +417,91 @@ Now are following the Links to the videos:
 <td >
                 
 
-[Bernhard Wiedemann](http://blip.tv/file/4678143)
+[Bernhard Wiedemann](//blip.tv/file/4678143)
 
 
               
 </td></tr><tr >
 <td >[Christian Hueller]()
 </td>
-<td >[Christopher Hofmann](http://blip.tv/file/4678156)
+<td >[Christopher Hofmann](//blip.tv/file/4678156)
 </td>
 <td >[Ciaran Farrell and Vladislav
-                  Gorobets](http://blip.tv/file/4678163)
+                  Gorobets](//blip.tv/file/4678163)
 </td></tr><tr >
-<td >[Daniel Schmidt](http://blip.tv/file/4678169)
+<td >[Daniel Schmidt](//blip.tv/file/4678169)
 </td>
-<td >[David Disseldorp](http://blip.tv/file/4678172)
+<td >[David Disseldorp](//blip.tv/file/4678172)
 </td>
-<td >[Dirk Mueller](http://blip.tv/file/4678178)
+<td >[Dirk Mueller](//blip.tv/file/4678178)
 </td></tr><tr >
-<td >[Dominik Mayer](http://blip.tv/file/4678185)
+<td >[Dominik Mayer](//blip.tv/file/4678185)
 </td>
-<td >[Dominik Mayer](http://blip.tv/file/4678185)
+<td >[Dominik Mayer](//blip.tv/file/4678185)
 </td>
-<td >[Hannes Reineke](http://blip.tv/file/4678190)
+<td >[Hannes Reineke](//blip.tv/file/4678190)
 </td></tr><tr >
-<td >[Juergen Weigert](http://blip.tv/file/4678198)
+<td >[Juergen Weigert](//blip.tv/file/4678198)
 </td>
-<td >[Klaus Wagner](http://blip.tv/file/4678211)
+<td >[Klaus Wagner](//blip.tv/file/4678211)
 </td>
-<td >[Mark Baeumler](http://blip.tv/file/4678217)
+<td >[Mark Baeumler](//blip.tv/file/4678217)
 </td></tr><tr >
-<td >[Michael Schroeder](http://blip.tv/file/4678221)
+<td >[Michael Schroeder](//blip.tv/file/4678221)
 </td>
-<td >[Peter Schinagl](http://blip.tv/file/4678225)
+<td >[Peter Schinagl](//blip.tv/file/4678225)
 </td>
-<td >[Richard Guenther](http://blip.tv/file/4678230)
+<td >[Richard Guenther](//blip.tv/file/4678230)
 </td></tr><tr >
-<td >[Sascha Peilike](http://blip.tv/file/4678244)
+<td >[Sascha Peilike](//blip.tv/file/4678244)
 </td>
-<td >[Steffen Winterfeld](http://blip.tv/file/4678247)
+<td >[Steffen Winterfeld](//blip.tv/file/4678247)
 </td>
-<td >[Susanne Oberhauser](http://blip.tv/file/4678258)
+<td >[Susanne Oberhauser](//blip.tv/file/4678258)
 </td></tr><tr >
-<td >[Thomas Renninger](http://blip.tv/file/4678267)
+<td >[Thomas Renninger](//blip.tv/file/4678267)
 </td>
-<td >[Thomas Schmidt](http://blip.tv/file/4678274)
+<td >[Thomas Schmidt](//blip.tv/file/4678274)
 </td>
-<td >[Andrew Fitzsimon](http://blip.tv/file/4681530)
+<td >[Andrew Fitzsimon](//blip.tv/file/4681530)
 </td></tr><tr >
-<td >[Dinar Valeev](http://blip.tv/file/4681577)
+<td >[Dinar Valeev](//blip.tv/file/4681577)
 </td>
-<td >[Lukas Lipawsky](http://blip.tv/file/4681629)
+<td >[Lukas Lipawsky](//blip.tv/file/4681629)
 </td>
-<td >[Martin Caj](http://blip.tv/file/4681720)
+<td >[Martin Caj](//blip.tv/file/4681720)
 </td></tr><tr >
-<td >[Michal Cihar](http://blip.tv/file/4681781)
+<td >[Michal Cihar](//blip.tv/file/4681781)
 </td>
-<td >[Michal Hrusecky](http://blip.tv/file/4681880)
+<td >[Michal Hrusecky](//blip.tv/file/4681880)
 </td>
-<td >[Yury Tsarew](http://blip.tv/file/4682438)
+<td >[Yury Tsarew](//blip.tv/file/4682438)
 </td></tr><tr >
-<td >[Bin Li](http://blip.tv/file/4683313)
+<td >[Bin Li](//blip.tv/file/4683313)
 </td>
-<td >[Leon Wang](http://blip.tv/file/4683331)
+<td >[Leon Wang](//blip.tv/file/4683331)
 </td>
-<td >[Li Dongyang](http://blip.tv/file/4683389)
+<td >[Li Dongyang](//blip.tv/file/4683389)
 </td></tr><tr >
-<td >[Jean Delvare](http://blip.tv/file/4688100)
+<td >[Jean Delvare](//blip.tv/file/4688100)
 </td>
-<td >[Lars Mueller](http://blip.tv/file/4688109)
+<td >[Lars Mueller](//blip.tv/file/4688109)
 </td>
-<td >[Zangdonmao](http://blip.tv/file/4688134)
+<td >[Zangdonmao](//blip.tv/file/4688134)
 </td></tr><tr >
-<td >[Tony Xi](http://blip.tv/file/4688160)
+<td >[Tony Xi](//blip.tv/file/4688160)
 </td>
-<td >[Yan Sun](http://blip.tv/file/4688181)
+<td >[Yan Sun](//blip.tv/file/4688181)
 </td>
-<td >[Lin Ma](http://blip.tv/file/4688193)
+<td >[Lin Ma](//blip.tv/file/4688193)
 </td></tr><tr >
-<td >[Chunyan Liu](http://blip.tv/file/4688203)
+<td >[Chunyan Liu](//blip.tv/file/4688203)
 </td>
-<td >[Jiaju Sang](http://blip.tv/file/4688219)
+<td >[Jiaju Sang](//blip.tv/file/4688219)
 </td>
-<td >[Jerry Tang](http://blip.tv/file/4688241)
+<td >[Jerry Tang](//blip.tv/file/4688241)
 </td></tr><tr >
-<td >[Jim Fehling](http://blip.tv/file/4688255)
+<td >[Jim Fehling](//blip.tv/file/4688255)
 </td>
 <td > 
 </td>
@@ -513,10 +513,10 @@ Now are following the Links to the videos:
     
 
 **[Klaas Freitag:
-        Share your Kraft](http://lizards.opensuse.org/2011/01/25/share-your-kraft/)**
+        Share your Kraft](//lizards.opensuse.org/2011/01/25/share-your-kraft/)**
 
 Its Hackweek number six at SUSE as you might have heard. Hackweek is great as employees
-      are encouraged to work on a free software project they want. I work on my project [Kraft ](http://volle-kraft-voraus.de)and really appreciate the time that I can
+      are encouraged to work on a free software project they want. I work on my project [Kraft ](//volle-kraft-voraus.de)and really appreciate the time that I can
       spend on it. 
 
 What I intend to do can be summarized with **Share your
@@ -531,7 +531,7 @@ My development target for Kraft is simplicity. For the user of course, but also 
       offer, and it must work with a weak internet line. So a database connect via internet is not
       possible. 
 
-I decided to investigate in [ownCloud](http://owncloud.org) and enhance
+I decided to investigate in [ownCloud](//owncloud.org) and enhance
       it with a plug-in called **KitoC**. ownCloud is a project started
       by Frank Karlitschek and implements a handy but scalable WebDAV Server beside more. Seems to
       fit my needs perfectly. Yesterday I implemented the number server function in KitoC after good
@@ -539,14 +539,14 @@ I decided to investigate in [ownCloud](http://owncloud.org) and enhance
       learn a bit of ownCloud first. I keep you posted.
 
 **[Michal
-        Hrusecky: Hackweek 6: openSUSE Paste news](http://michal.hrusecky.net/2011/01/hackweek-6-opensuse-paste-news/)**
+        Hrusecky: Hackweek 6: openSUSE Paste news](//michal.hrusecky.net/2011/01/hackweek-6-opensuse-paste-news/)**
 
 As all of you know already, Hackweek number 6 started yesterday. What I’ll be doing? Last
-      Hackweek I started with project to run [pastebin for openSUSE](http://michal.hrusecky.net/2010/06/opensuse-paste/).
+      Hackweek I started with project to run [pastebin for openSUSE](//michal.hrusecky.net/2010/06/opensuse-paste/).
       Thanks to you I received quite some feedback. Mostly positive. The rest that wasn’t entirely
       positive contained some feature requests :-D I guess it can count also as positive feedback in
       the end. One big feature was already implemented. Our pastebin support image pastes as well as
-      code one. This was done mainly to help [Sirko](http://karl-tux-stadt.de/ktuxs/) and our artwork team. Although user interface wasn’t really intuitive, it
+      code one. This was done mainly to help [Sirko](//karl-tux-stadt.de/ktuxs/) and our artwork team. Although user interface wasn’t really intuitive, it
       worked (UI is much better now in git repo, will be deployed in the end of the week). Other
       feature people asked for was ability to log in. So they’ll have their own history, control
       over their pastes and they’ll be able to skip spam checker (some people really need to paste
@@ -566,26 +566,26 @@ That was for “what’s going on” part. I’ve got also something else to sha
       fan, you should follow it on [Ohloh](https://www.ohloh.net/p/opensuse-paste)
       ;-)
 
-**[Michal Ìihař: Sending SMS on Symbian phone using Gammu](http://blog.cihar.com/archives/2011/01/26/sending-sms-symbian-phone-using-gammu/)**
+**[Michal Ìihař: Sending SMS on Symbian phone using Gammu](//blog.cihar.com/archives/2011/01/26/sending-sms-symbian-phone-using-gammu/)**
 
-Third [Hackweek 6](http://en.opensuse.org/Portal:Hackweek) day went a
+Third [Hackweek 6](//en.opensuse.org/Portal:Hackweek) day went a
       bit differently than I planned, but there is still lot of progress. 
 
-I've added some more calls to the [Series60 remote](http://series60-remote.sourceforge.net/) protocol, so that some things now work much faster (eg. getting
+I've added some more calls to the [Series60 remote](//series60-remote.sourceforge.net/) protocol, so that some things now work much faster (eg. getting
       number of contacts, calendar entries). The applet now also has a function to toggle Bluetooth
       so it does not have to be done elsewhere in phone menus. 
 
-On [Gammu](http://wammu.eu/) side I focused on messaging support, so now
-        [Gammu](http://wammu.eu/) can list messages in the phone or send new
+On [Gammu](//wammu.eu/) side I focused on messaging support, so now
+        [Gammu](//wammu.eu/) can list messages in the phone or send new
       message. 
 
 Modification of calendar entries is left for tomorrow, hopefully I will get to it and the
       support will be more or less complete and I will have Friday for final cleanup. 
 
-And as usual - all code is is available in [our Git repository](http://wammu.eu/contribute/code/) and check [documentation](http://wammu.eu/docs/manual/protocol/s60.html) for information
+And as usual - all code is is available in [our Git repository](//wammu.eu/contribute/code/) and check [documentation](//wammu.eu/docs/manual/protocol/s60.html) for information
       how to set it up.
 
-**[Thomas Schmidt: openFATE mobile](http://bit.ly/ftOUoH)**
+**[Thomas Schmidt: openFATE mobile](//bit.ly/ftOUoH)**
 
 My project for Hackweek IV was to bring openFATE to mobile devices, and have a shared
       framework, so we can easily create mobile versions of other opensuse sites, for example the
@@ -595,12 +595,12 @@ I decided to use the jquery mobile framework and together with Andre we created 
       plugin that automatically switches iPhones and android devices to the mobile version. (Use
       this link to test the mobile version with your desktop browser) (...)
 
-**[Michal Ìihař: Gammu supports Symbian (and going for Android)](http://blog.cihar.com/archives/2011/01/28/gammu-supports-symbian-and-going-android/)**
+**[Michal Ìihař: Gammu supports Symbian (and going for Android)](//blog.cihar.com/archives/2011/01/28/gammu-supports-symbian-and-going-android/)**
 
-[Hackweek 6](http://en.opensuse.org/Portal:Hackweek) is over and my
-      project is done - [Gammu](http://wammu.eu/) can now talk to Symbian phones.
+[Hackweek 6](//en.opensuse.org/Portal:Hackweek) is over and my
+      project is done - [Gammu](//wammu.eu/) can now talk to Symbian phones.
       All the work is based on [Series60 -
-        remote applet](http://series60-remote.sourceforge.net/). The changes on Gammu side were not just to implement new protocol,
+        remote applet](//series60-remote.sourceforge.net/). The changes on Gammu side were not just to implement new protocol,
       but also some more general improvements it enforced. I think the diffstat summary tells how
       much was changed:
       
@@ -608,8 +608,8 @@ I decided to use the jquery mobile framework and together with Andre we created 
     166 files changed, 23126 insertions(+), 15738 deletions(-)
 
 All code is is
-      available in [our Git repository](http://wammu.eu/contribute/code/) and
-      check [documentation](http://wammu.eu/docs/manual/protocol/s60.html) for
+      available in [our Git repository](//wammu.eu/contribute/code/) and
+      check [documentation](//wammu.eu/docs/manual/protocol/s60.html) for
       information how to set it up. There will be testing release incorporating these changes next
       week to give broader audience chance to test it. 
 
@@ -630,17 +630,17 @@ So now Gammu has long requested support for Symbian and we need other challenge.
 
 Yes, getting basic information already works for the developer working on it :-).
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Board1.png)Status Updates
 
-### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Suse_Box.png)Distribution
+### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Suse_Box.png)Distribution
 
 **
         [Holger Hetterich: SMB Traffic Analyzer submitted to openSUSE Tumbleweed rolling update
-          distro](http://holger123.wordpress.com/2011/01/25/smb-traffic-analyzer-submitted-to-opensuse-tumbleweed-rolling-update-distro/)
+          distro](//holger123.wordpress.com/2011/01/25/smb-traffic-analyzer-submitted-to-opensuse-tumbleweed-rolling-update-distro/)
       **
 
 The complete [SMB
-          Traffic Analyzer](http://holger123.wordpress.com/smb-traffic-analyzer/) (SMBTA in the following) software package (up to date Samba
+          Traffic Analyzer](//holger123.wordpress.com/smb-traffic-analyzer/) (SMBTA in the following) software package (up to date Samba
         including SMBTA VFS module, smbtad and smbtatools) are now available in **openSUSE’s Tumbleweed distribution**, making it ready to run SMBTA
         out of the box. Since my blog is read by quite some people outside of the openSUSE
         community, I am using this space to shortly introduce the Tumbleweed project, as it might
@@ -651,11 +651,11 @@ The complete [SMB
         glance, this means in the ideal world: Install Tumbleweed once, and never run out of updates
         or maintenance, as Tumbleweed will update itself to always match the current package
         versions that openSUSE’s maintainers or the according open source projects consider as the
-        current stable release of a package. In difference to the [openSUSE Factory distribution](http://en.opensuse.org/Portal:Factory), which
+        current stable release of a package. In difference to the [openSUSE Factory distribution](//en.opensuse.org/Portal:Factory), which
         simply provides the current development state of openSUSE, Tumbleweed will **not provide unstable or experimental packages**. The projects idea
         was being discussed for longer time in the community, and finally brought to life and
         implementation by Greg Kroah-Hartman, who [announced a
-          Tumbleweed repository in the openSUSE Buildservice](http://lists.opensuse.org/opensuse-project/2010-11/msg00206.html). In it’s current form,
+          Tumbleweed repository in the openSUSE Buildservice](//lists.opensuse.org/opensuse-project/2010-11/msg00206.html). In it’s current form,
         Tumbleweed is driven by a number of package maintainers and developers who want to make
         Tumbleweed to happen, and relies on package maintainers to support Tumbleweed by submitting
         their packages to the repository. 
@@ -666,29 +666,29 @@ It’s **very easy** to jump from openSUSE 11.3 to Tumbleweed
         brings advantages that I don’t want to miss. Being able to release a new **SMB Traffic Analyzer version and having it available for users and packaged in
           a distribution** in a matter of hours is one of them. Read more about that on
           [the Tumbleweed page in the openSUSE
-          wiki](http://en.opensuse.org/Tumbleweed).
+          wiki](//en.opensuse.org/Tumbleweed).
 
 **Important Links**
 
-  * [Detailed Bugzilla Report](http://tinyurl.com/392jnb)
+  * [Detailed Bugzilla Report](//tinyurl.com/392jnb)
 
   * [Submitting Bug
-            Reports](http://en.opensuse.org/openSUSE:Submitting_bug_reports)
+            Reports](//en.opensuse.org/openSUSE:Submitting_bug_reports)
 
   * [Bug Reporting
-            FAQ](http://en.opensuse.org/openSUSE:Bug_reporting_FAQ)
+            FAQ](//en.opensuse.org/openSUSE:Bug_reporting_FAQ)
 
 ### Team Report
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Build-Service.png)Build Service Team
 
-**Build Service Statistics. **Statistics can found at [Buildservice](http://build.opensuse.org)
+**Build Service Statistics. **Statistics can found at [Buildservice](//build.opensuse.org)
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/GNOME-foot.jpg)GNOME Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/GNOME-foot.jpg)GNOME Team
 
 **
           [Nelson Marques:
-            Unity, Compiz and ATI…](http://lizards.opensuse.org/2011/01/22/unity-compiz-and-ati/)
+            Unity, Compiz and ATI…](//lizards.opensuse.org/2011/01/22/unity-compiz-and-ati/)
         **
 
 I’ve finally added the Compiz packages to my development repository and unity itself
@@ -714,16 +714,16 @@ For the time being, the only screenshot I have to show is the one of CCSM
           (compizconfig-settings-manager) with the Unity plugin.
 
 <table cellpadding="0" cellspacing="0" border="0" width="45%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![](http://lizards.opensuse.org/wp-content/uploads/2011/01/Screenshot-CompizConfig-Settings-Manager.png)
+<td align="center" >![](//lizards.opensuse.org/wp-content/uploads/2011/01/Screenshot-CompizConfig-Settings-Manager.png)
 </td></tr></table>
 
 (...)
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Kde-logo.jpg)KDE Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Kde-logo.jpg)KDE Team
 
 **
           [Sebastian Kügler: 4.6.0
-            Available](http://vizzzion.org/blog/2011/01/4-6-0-available/)
+            Available](//vizzzion.org/blog/2011/01/4-6-0-available/)
         **
 
 I’ve just pushed the relevant buttons to make the release of 4.6.0 a public fact.
@@ -732,7 +732,7 @@ I’ve just pushed the relevant buttons to make the release of 4.6.0 a public fa
           Released.
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://vizzzion.org/blog/wp-content/uploads/2011/01/4.6-elegantly-yours.png)
+<td >![](//vizzzion.org/blog/wp-content/uploads/2011/01/4.6-elegantly-yours.png)
 </td></tr></table>
 
 The release is actually a pretty big thing, it adds a lot of new features, some of
@@ -741,13 +741,13 @@ The release is actually a pretty big thing, it adds a lot of new features, some 
           the re-vamped activity manager, that adds a way to group applications in their context and
           makes it possible to manage these activities like sessions. So head over and read what’s
           new in the [Plasma
-            Workspaces](http://www.kde.org/announcements/4.6/plasma.php), the [applications](http://www.kde.org/announcements/4.6/applications.php) and the
+            Workspaces](//www.kde.org/announcements/4.6/plasma.php), the [applications](//www.kde.org/announcements/4.6/applications.php) and the
             [KDE development
-            platform](http://www.kde.org/announcements/4.6/platform.php).
+            platform](//www.kde.org/announcements/4.6/platform.php).
 
 **
           [Will Stephenson: openSUSE KDE
-            Team activity, Jan 2011](http://lizards.opensuse.org/2011/01/27/6481/)
+            Team activity, Jan 2011](//lizards.opensuse.org/2011/01/27/6481/)
         **
 
 What’s been going on in the openSUSE KDE team this week? The news on everybody’s lips
@@ -764,7 +764,7 @@ What’s been going on in the openSUSE KDE team this week? The news on everybody
             dialog**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![Plasma Desktop with Dolphin browsing this week’s modified files, and Speaker Setup dialog](http://lizards.opensuse.org/wp-content/uploads/2011/01/plasma_workspace.png)
+<td >![Plasma Desktop with Dolphin browsing this week’s modified files, and Speaker Setup dialog](//lizards.opensuse.org/wp-content/uploads/2011/01/plasma_workspace.png)
 </td></tr></table>
 
   
@@ -773,7 +773,7 @@ What’s been going on in the openSUSE KDE team this week? The news on everybody
 **Figure 2. Krita, KPlato, KSpread, KWord, about to transform into Calligra Office**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![Krita, KPlato, KSpread, KWord, about to transform into Calligra Office](http://lizards.opensuse.org/wp-content/uploads/2011/01/koffice.png)
+<td >![Krita, KPlato, KSpread, KWord, about to transform into Calligra Office](//lizards.opensuse.org/wp-content/uploads/2011/01/koffice.png)
 </td></tr></table>
 
   
@@ -782,7 +782,7 @@ What’s been going on in the openSUSE KDE team this week? The news on everybody
 **Figure 3. Amarok 2.4.0 playing last.fm using Phonon 4.4.4 and GStreamer**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![Amarok 2.4.0 playing last.fm using Phonon 4.4.4 and GStreamer](http://lizards.opensuse.org/wp-content/uploads/2011/01/amarok.png)
+<td >![Amarok 2.4.0 playing last.fm using Phonon 4.4.4 and GStreamer](//lizards.opensuse.org/wp-content/uploads/2011/01/amarok.png)
 </td></tr></table>
 
   
@@ -791,7 +791,7 @@ What’s been going on in the openSUSE KDE team this week? The news on everybody
 **Figure 4. Some code I wrote with my feet in a bucket of water in 2004**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![Some code I wrote with my feet in a bucket of water in 2004](http://lizards.opensuse.org/wp-content/uploads/2011/01/kdevelop.png)
+<td >![Some code I wrote with my feet in a bucket of water in 2004](//lizards.opensuse.org/wp-content/uploads/2011/01/kdevelop.png)
 </td></tr></table>
 
   
@@ -825,12 +825,12 @@ Artwork and branding for 11.4 is nearly complete, featuring the Celadon Stripes
 
 If you want to join the fun or just need a helping hand, the expert and fanatical
           openSUSE KDE team can be found in #opensuse-kde on IRC, at
-            `<[opensuse-kde@opensuse.org](mailto:opensuse-kde@opensuse.org)>` or at [http://en.opensuse.org/Portal:KDE](http://en.opensuse.org/Portal:KDE). You
+            `<[opensuse-kde@opensuse.org](mailto:opensuse-kde@opensuse.org)>` or at [//en.opensuse.org/Portal:KDE](//en.opensuse.org/Portal:KDE). You
           can skip to the end and leave a response. Pinging is currently not allowed. 
 
 **
           [Sebastian Kügler:
-            Slicing up the Web](http://vizzzion.org/blog/2011/01/slicing-up-the-web/)
+            Slicing up the Web](//vizzzion.org/blog/2011/01/slicing-up-the-web/)
         **
 
 The Webslice applet has been in Plasma (kdeplasma-addons, to be precise) since 4.4
@@ -856,7 +856,7 @@ Earlier tonight, I’ve committed a set of changes which address these problems,
 **Figure 5. performance**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![performance](http://vizzzion.org/blog/wp-content/uploads/2011/01/webslice-3-slices-268x300.png)
+<td >![performance](//vizzzion.org/blog/wp-content/uploads/2011/01/webslice-3-slices-268x300.png)
 </td></tr></table>
 
   
@@ -882,7 +882,7 @@ First, the resize issue. The Webslice applet Figure 5, “performance” uses a
 **Figure 6. improving interaction**
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![improving interaction](http://vizzzion.org/blog/wp-content/uploads/2011/01/webslice-config-preview.png)
+<td >![improving interaction](//vizzzion.org/blog/wp-content/uploads/2011/01/webslice-config-preview.png)
 </td></tr></table>
 
   
@@ -929,7 +929,7 @@ There’s one neat thing left to tell about the webslice: You can easily create 
           comment, icon, if you wish, then add a line
           like
     
-    X-Plasma-Args=http://mysite.org,#myid 
+    X-Plasma-Args=//mysite.org,#myid 
 
 Copy the file to ~/.kde(4)/share/kde4/services/, run kbuildsycoca4 and add your newly created webslice to your Plasma using the
           widget explorer. 
@@ -937,7 +937,7 @@ Copy the file to ~/.kde(4)/share/kde4/services/, run kbuildsycoca4 and add your 
 A possible direction we can take this is to add a webslice category to
           opendesktop.org, and start sharing our webslices with each other…
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-fate.png)openFATE Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Logo-fate.png)openFATE Team
 
 ##### Top voted Features
 
@@ -959,7 +959,7 @@ A possible direction we can take this is to add a webslice category to
 
 "I wanted to open a fate feature about this when I first heard of plymouth, but
             reading
-            http://fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
+            //fedoramagazine.wordpress.com/2008/10/21/interview-fedora-10s-better-startup/
             really makes me think we should go this way.
 
 Ray's comment starting with "Every flicker and mode change in the boot
@@ -1049,7 +1049,7 @@ In YaST's software management it's the same, you add/remove/refresh from
           **
 
 It seems that OpenSUSE 11.4 still ships cyrus imapd 2.3.16. The 2.3.16 is listed as
-            "legacy" at the [Cyrus-Homepage](http://www.cyrusimap.org/mediawiki/index.php/Downloads#IMAP_Server) .
+            "legacy" at the [Cyrus-Homepage](//www.cyrusimap.org/mediawiki/index.php/Downloads#IMAP_Server) .
 
 Would it be possible/better to change to 2.4.6 (or whatever version will be recent
             then)?
@@ -1126,17 +1126,17 @@ We can have MintMenu by default in openSUSE
 3. Better UX
 
 It already exists at OBS
-            http://download.opensuse.org/repositories/home:/unamanic/openSUSE_11.3/ 
+            //download.opensuse.org/repositories/home:/unamanic/openSUSE_11.3/ 
 
 ##### Feature Statistics
 
 Statistics for openSUSE 11.4 [in openFATE](https://features.opensuse.org/statistic/product/22236)
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Suse_Box.png)Testing Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Suse_Box.png)Testing Team
 
 **
           [Larry
-            Finger: Weekly News for January 29](http://lists.opensuse.org/opensuse-testing/2011-01/msg00028.html)
+            Finger: Weekly News for January 29](//lists.opensuse.org/opensuse-testing/2011-01/msg00028.html)
         **
 
 The next Testing Core Team IRC meeting will be Jan. 31, 2011 at 18:00 UTC. 
@@ -1155,19 +1155,19 @@ It is extremely important to test M6 so that as many bugs as possible are found 
           seen by other testers. Unless you find such bugs and file a report on them, they may not
           be fixed by March. 
 
-#### ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
+#### ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translation Team
 
-  * Daily updated translation statistics are available on the [openSUSE Localization Portal](http://i18n.opensuse.org/).
+  * Daily updated translation statistics are available on the [openSUSE Localization Portal](//i18n.opensuse.org/).
 
-  * [Trunk Top-List](http://i18n.opensuse.org/stats/trunk/toplist.php)
+  * [Trunk Top-List](//i18n.opensuse.org/stats/trunk/toplist.php)
             – [Localization
-              Guide](http://en.opensuse.org/OpenSUSE_Localization_Guide)
+              Guide](//en.opensuse.org/OpenSUSE_Localization_Guide)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Icon-project.png)In the Community
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Icon-project.png)In the Community
 
 ### Postings from the Community
 
-**[Frank Karlitschek: 2 amazing meetings to change the world](http://blog.karlitschek.de/2011/01/2-amazing-meetings-to-change-world.html)
+**[Frank Karlitschek: 2 amazing meetings to change the world](//blog.karlitschek.de/2011/01/2-amazing-meetings-to-change-world.html)
       **
 
 Last week I attended two very interesting developer sprints at the SUSE office in
@@ -1205,7 +1205,7 @@ There is a news story coming up with some more information and screenshots. So s
         tuned if you are looking for more information. :-)
 
 **[Jos
-          Poortvliet: openSUSE in the Netherlands](http://nowwhatthe.blogspot.com/2011/01/opensuse-in-netherlands.html)**
+          Poortvliet: openSUSE in the Netherlands](//nowwhatthe.blogspot.com/2011/01/opensuse-in-netherlands.html)**
 
 In May, the dutch "HCC" computerclub will organize a Linux day. They have asked me if
         I'd be willing to give a talk there - cool, I can do that. And if I could also set up and
@@ -1215,11 +1215,11 @@ In May, the dutch "HCC" computerclub will organize a Linux day. They have asked 
 Maybe we can do more than only that booth, there are plenty of events in the Netherlands
         and of course we should organize a openSUSE 11.4 release event to get to know each other! 
 
-Talking about local openSUSE, [look at this site](http://gihyo.jp/magazine/SD/archive/2011/201102) and find
+Talking about local openSUSE, [look at this site](//gihyo.jp/magazine/SD/archive/2011/201102) and find
         the openSUSE article by HeliosRed :D
 
 **[Jos Poortvliet:
-          LCA on Friday](http://nowwhatthe.blogspot.com/2011/01/lca-on-friday.html)**
+          LCA on Friday](//nowwhatthe.blogspot.com/2011/01/lca-on-friday.html)**
 
 Still at Linux Conf Australia. Have new pictures, see below. A few notes:
 
@@ -1229,7 +1229,7 @@ Still at Linux Conf Australia. Have new pictures, see below. A few notes:
               And I bet we can learn a thing or two too... 
 
   * Yesterday I attended talks about **Koji (Red Hat build system)
-                and Fedora**. Koji - let's just say we need to communicate [OBS](http://build.opensuse.org) a lot better. Will make the lives of
+                and Fedora**. Koji - let's just say we need to communicate [OBS](//build.opensuse.org) a lot better. Will make the lives of
               many sysadmins quite a bit easier. Seriously, Koji is nice but: command line only (web
               interface just monitors and can restart tasks); runs on local hardware and thus only
               builds for your own architecture; doesn't really support building for other distro's -
@@ -1244,8 +1244,8 @@ Still at Linux Conf Australia. Have new pictures, see below. A few notes:
               discussion panel at FOSDEM together with the Debian project lead. We seem to be very
               much on the same page and I look greatly forward to that!
 
-  * The Friday keynote by [Mark Pesce](http://markpesce.com/) was
-              awesome, be sure to to check the video's on [blip](http://blip.tv/search?q=lca2011)! There is an upload/network
+  * The Friday keynote by [Mark Pesce](//markpesce.com/) was
+              awesome, be sure to to check the video's on [blip](//blip.tv/search?q=lca2011)! There is an upload/network
               issue, so they won't be there anytime soon, unfortunately. He spoke about **freedom, mesh networking, facebook and more**. Oh and it's 18+
               rated - including juicy quotes on **Steve Jobs** you
               don't want to miss! 
@@ -1256,87 +1256,87 @@ All in all - great day which isn't over yet. I'll be giving a **90
         But it will give a taste to people, show them (open)SUSE is more than relevant: you really
         need to some SUSE knowledge on your CV if you want to be a good sysadmin ;-) 
 
-Of course the result will end up on the openSUSE marketing resources page [here](http://en.opensuse.org/openSUSE:Presentations#SUSE_Studio) - I just need
+Of course the result will end up on the openSUSE marketing resources page [here](//en.opensuse.org/openSUSE:Presentations#SUSE_Studio) - I just need
         darix to upload it as the PDF is more than the 2 MB limit.
 
 ### Events & Meetings
 
 **Past**
 
-  * [January 20, 2011 : openSUSE GNOME Team meeting](http://news.opensuse.org/2011/01/11/opensuse-gnome-team-meeting-22/)
+  * [January 20, 2011 : openSUSE GNOME Team meeting](//news.opensuse.org/2011/01/11/opensuse-gnome-team-meeting-22/)
 
   * [January 24, 2011 :
-            Hackweek VI](http://news.opensuse.org/2011/01/19/hackweek-vi-2/)
+            Hackweek VI](//news.opensuse.org/2011/01/19/hackweek-vi-2/)
 
-  * [January 27, 2011 : openSUSE KDE Team meeting](http://news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
+  * [January 27, 2011 : openSUSE KDE Team meeting](//news.opensuse.org/2010/05/13/%ef%bb%bfopensuse-kde-team-meeting/)
 
 **Upcoming**
 
-  * [January 31, 2011 : 21st openSUSE Testing Core Team IRC Meeting](http://news.opensuse.org/2011/01/20/21st-opensuse-testing-core-team-irc-meeting/)
+  * [January 31, 2011 : 21st openSUSE Testing Core Team IRC Meeting](//news.opensuse.org/2011/01/20/21st-opensuse-testing-core-team-irc-meeting/)
 
-You can find more informations on other events at: [openSUSE News/Events](http://news.opensuse.org/category/events/). - [Local Events](http://en.opensuse.org/openSUSE:Ambassadors_events)
+You can find more informations on other events at: [openSUSE News/Events](//news.opensuse.org/category/events/). - [Local Events](//en.opensuse.org/openSUSE:Ambassadors_events)
 
 ### openSUSE for your Ears
 
 The openSUSE Weekly News are available as livestream or podcast in German. You can hear it
-      or download it on [Radiotux](http://blog.radiotux.de/podcast). 
+      or download it on [Radiotux](//blog.radiotux.de/podcast). 
 
 ### From Ambassadors
 
 **
-        [Pavol Rusnak: GNOME Python Hackfest, AppInstaller Meeting and Bretzn Hackfest](http://stick.gk2.sk/blog/2011/01/gnome-python-hackfest-appinstaller-meeting-and-bretzn-hackfest/)
+        [Pavol Rusnak: GNOME Python Hackfest, AppInstaller Meeting and Bretzn Hackfest](//stick.gk2.sk/blog/2011/01/gnome-python-hackfest-appinstaller-meeting-and-bretzn-hackfest/)
       **
 
 What a cool and productive week! But let me start from the beginning … 
 
-A couple of months ago we decided to start a [hackerspace](http://en.wikipedia.org/wiki/Hackerspace) in Prague called [brmlab](http://brmlab.cz/). Most of the members deal with hardware, but there
-        are also couple of software guys like me. At the end of November we were contacted by [Tomeu](http://blog.tomeuvizoso.net/) and he asked if they can organize [GNOME Python Hackfest](http://live.gnome.org/Hackfests/Python2011) in our
+A couple of months ago we decided to start a [hackerspace](//en.wikipedia.org/wiki/Hackerspace) in Prague called [brmlab](//brmlab.cz/). Most of the members deal with hardware, but there
+        are also couple of software guys like me. At the end of November we were contacted by [Tomeu](//blog.tomeuvizoso.net/) and he asked if they can organize [GNOME Python Hackfest](//live.gnome.org/Hackfests/Python2011) in our
         hackerspace. I was more than delighted about the idea, so we agreed and started to plan
         things. In the end we had 9 FOSS hackers working on GNOME and Python and I think they
         enjoyed their time in Prague. Hackerspace is a great concept, because these folks didn’t
         have to spend extra money on renting some place and our members had opportunity to meet
-        foreign FOSS developers and try exotic hardware like [OLPC XO-1](http://en.wikipedia.org/wiki/OLPC_XO-1).
+        foreign FOSS developers and try exotic hardware like [OLPC XO-1](//en.wikipedia.org/wiki/OLPC_XO-1).
 
-**Figure 7. Blogposts from [Tomeu](http://blog.tomeuvizoso.net/2010/12/python-gnome-hackfest-2011.html)
-          and [J5](http://www.j5live.com/2011/01/19/pygi-in-prague/) about the
+**Figure 7. Blogposts from [Tomeu](//blog.tomeuvizoso.net/2010/12/python-gnome-hackfest-2011.html)
+          and [J5](//www.j5live.com/2011/01/19/pygi-in-prague/) about the
           event**
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![Blogposts from Tomeu and J5 about the event](http://stick.gk2.sk/blog/wp-content/uploads/2011/01/gnome-python-1.jpg)
+<td align="center" >![Blogposts from Tomeu and J5 about the event](//stick.gk2.sk/blog/wp-content/uploads/2011/01/gnome-python-1.jpg)
 </td></tr></table>
 
   
 
 
 I had to leave the guys on Tuesday evening, because I spent the rest of the week in SUSE
-        office in Nuernberg. The first three days were dedicated to [Cross-distribution meeting](http://distributions.freedesktop.org/wiki/Meetings/AppInstaller2011) about application installer organized by [Vincent](http://www.vuntz.net/journal/). It went more than well, we discussed
-        and agreed on many things, which is great and in the end we were able to give a [presentation](http://www.youtube.com/watch?v=BHeP2ZBwS_U) + we also created a
+        office in Nuernberg. The first three days were dedicated to [Cross-distribution meeting](//distributions.freedesktop.org/wiki/Meetings/AppInstaller2011) about application installer organized by [Vincent](//www.vuntz.net/journal/). It went more than well, we discussed
+        and agreed on many things, which is great and in the end we were able to give a [presentation](//www.youtube.com/watch?v=BHeP2ZBwS_U) + we also created a
           [nice AppStream
-          wikipage](http://distributions.freedesktop.org/wiki/AppStream) as a starting point for any future work.
+          wikipage](//distributions.freedesktop.org/wiki/AppStream) as a starting point for any future work.
 
 **Figure 8. Vincent wrote a nice summary for [openSUSE
-            News](http://news.opensuse.org/). (It is not yet there, but should appear soon.)**
+            News](//news.opensuse.org/). (It is not yet there, but should appear soon.)**
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![Vincent wrote a nice summary for openSUSE News. (It is not yet there, but should appear soon.)](http://stick.gk2.sk/blog/wp-content/uploads/2011/01/appstream_meeting.jpg)
+<td align="center" >![Vincent wrote a nice summary for openSUSE News. (It is not yet there, but should appear soon.)](//stick.gk2.sk/blog/wp-content/uploads/2011/01/appstream_meeting.jpg)
 </td></tr></table>
 
   
 
 
-This meeting was immediately followed by [Bretzn hackfest](http://en.opensuse.org/openSUSE:2011_Bretzn_Meeting)
-        organized by [Frank](http://blog.karlitschek.de/). The main focus of it
+This meeting was immediately followed by [Bretzn hackfest](//en.opensuse.org/openSUSE:2011_Bretzn_Meeting)
+        organized by [Frank](//blog.karlitschek.de/). The main focus of it
         was implementing some of the things we agreed on previous meeting from the KDE/Qt
         perspective and porting MeeGo Garage to openSUSE. During it I was mainly dealing with
         appdata.xml format we described in the AppStream meeting – I created an XML schema so we can
         validate it and also developed a proof-of-concept generator of this piece of metadata in
-        Python. ([git repo](http://gitorious.org/appstream)) Hope we can get it in
+        Python. ([git repo](//gitorious.org/appstream)) Hope we can get it in
         createrepo and dpkg-scan* utilities soon.
 
-**Figure 9. Frank’s summary about the hackfest will appear on [Planet openSUSE](http://planet.opensuse.org/) soon**
+**Figure 9. Frank’s summary about the hackfest will appear on [Planet openSUSE](//planet.opensuse.org/) soon**
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td align="center" >![Frank’s summary about the hackfest will appear on Planet openSUSE soon](http://stick.gk2.sk/blog/wp-content/uploads/2011/01/DSC_1674.jpeg)
+<td align="center" >![Frank’s summary about the hackfest will appear on Planet openSUSE soon](//stick.gk2.sk/blog/wp-content/uploads/2011/01/DSC_1674.jpeg)
 </td></tr></table>
 
   
@@ -1350,12 +1350,12 @@ I would like to thank GNOME Foundation and Collabora for sponsoring the GNOME Py
 And yeah,
 
 <table cellpadding="0" cellspacing="0" border="0" width="10%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://stick.gk2.sk/blog/wp-content/uploads/2011/01/going-to.png)
+<td >![](//stick.gk2.sk/blog/wp-content/uploads/2011/01/going-to.png)
 </td></tr></table>
 
 so see you there!
 
-**[Greek openSUSE Ambassadors: Greek Customs (New Year's Pie)](http://opensuseambassadors.blogspot.com/2011/01/greek-customs-new-years-pie.html)**
+**[Greek openSUSE Ambassadors: Greek Customs (New Year's Pie)](//opensuseambassadors.blogspot.com/2011/01/greek-customs-new-years-pie.html)**
 
 Here in Greece we celebrate the new year except from gifts but also by cutting a New
         Year's Pie where inside there is a coin hidden. Whoever finds it wins a special gift and is
@@ -1374,43 +1374,43 @@ Photo of the New Year's Pie
 **Figure 10. Happy New Year All!!!!**
 
 <table cellpadding="0" cellspacing="0" border="0" width="25%" summary="manufactured viewport for HTML img" ><tr >
-<td >![Happy New Year All!!!!](http://3.bp.blogspot.com/_jdKLYe7Jeds/TT2yTD-TOII/AAAAAAAAADc/mjbWhEdAlxo/s1600/5360749563_455c17fa19.jpg)
+<td >![Happy New Year All!!!!](//3.bp.blogspot.com/_jdKLYe7Jeds/TT2yTD-TOII/AAAAAAAAADc/mjbWhEdAlxo/s1600/5360749563_455c17fa19.jpg)
 </td></tr></table>
 
   
 
 
 [George Bratsos aka
-        Etern4L](http://en.opensuse.org/User:Etern4L)
+        Etern4L](//en.opensuse.org/User:Etern4L)
 
 ### Communication
 
-  * [The Mailinglists](http://lists.opensuse.org/)
+  * [The Mailinglists](//lists.opensuse.org/)
 
-  * [The openSUSE Forums](http://forums.opensuse.org)
+  * [The openSUSE Forums](//forums.opensuse.org)
 
 ### Contributors
 
-  * [The User Directory](http://users.opensuse.org)
+  * [The User Directory](//users.opensuse.org)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-New-Updated-Applications.png)New/Updated Applications @ openSUSE
 
-**[Javier Llorente: Oxygenise your Apache](http://www.wafaa.eu/entry/the-board---packaged-for-your-pleasure-1-50.html)**
+**[Javier Llorente: Oxygenise your Apache](//www.wafaa.eu/entry/the-board---packaged-for-your-pleasure-1-50.html)**
 
-I have updated [apache2-icons-oxygen](http://bit.ly/f2eLPJ) with icons
+I have updated [apache2-icons-oxygen](//bit.ly/f2eLPJ) with icons
       from KDE 4.6 RC2. Thanks Nuno & Co! Now Apache’s directory listings look a bit better
       ;-)
 
 <table cellpadding="0" cellspacing="0" border="0" width="15%" summary="manufactured viewport for HTML img" ><tr >
-<td >![](http://lizards.opensuse.org/wp-content/uploads/2011/01/screenshot.png)
+<td >![](//lizards.opensuse.org/wp-content/uploads/2011/01/screenshot.png)
 </td></tr></table>
 
-See it in action [here](http://www.javierllorente.com/tmp/). If you want
+See it in action [here](//www.javierllorente.com/tmp/). If you want
       to download the tarball/rpm, go to the [Build
-      Service](http://bit.ly/f2eLPJ).
+      Service](//bit.ly/f2eLPJ).
 
 **[Packman: vlc
-        1.1.6-1.pm](http://packman.links2linux.org/package/vlc/203011)**
+        1.1.6-1.pm](//packman.links2linux.org/package/vlc/203011)**
 
 “VLC media player is a highly portable multimedia player for various audio and video
         formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) as well as DVDs, VCDs, and various
@@ -1418,31 +1418,31 @@ See it in action [here](http://www.javierllorente.com/tmp/). If you want
         IPv4 or IPv6 on a high-bandwidth network.”
 
 **[Sascha
-        Manns: New/Updated Applications](http://saigkill.wordpress.com/2011/01/25/newupdated-applications/)**
+        Manns: New/Updated Applications](//saigkill.wordpress.com/2011/01/25/newupdated-applications/)**
 
 The last days i’ve updated or added new Packages:
 
-  * [shutter](http://shutter-project.org/): new added. Available in:
-              [openSUSE:Factory:Contrib](http://download.opensuse.org/repositories/openSUSE:/Factory:/Contrib/openSUSE_11.3/)
+  * [shutter](//shutter-project.org/): new added. Available in:
+              [openSUSE:Factory:Contrib](//download.opensuse.org/repositories/openSUSE:/Factory:/Contrib/openSUSE_11.3/)
 
-  * [calibre](http://www.calibre-ebook.com/): updated. Available in:
-              [home:thomas-schraitle:calibre](http://download.opensuse.org/repositories/home:/thomas-schraitle:/calibre/)
+  * [calibre](//www.calibre-ebook.com/): updated. Available in:
+              [home:thomas-schraitle:calibre](//download.opensuse.org/repositories/home:/thomas-schraitle:/calibre/)
 
-  * [bleachbit](http://bleachbit.sourceforge.net/): updated. Available
-            in: [openSUSE:Factory:Contrib](http://download.opensuse.org/repositories/openSUSE:/Factory:/Contrib/openSUSE_11.3/)
+  * [bleachbit](//bleachbit.sourceforge.net/): updated. Available
+            in: [openSUSE:Factory:Contrib](//download.opensuse.org/repositories/openSUSE:/Factory:/Contrib/openSUSE_11.3/)
 
 Have a lot of fun with it :-)
 
-**[Michael Meeks: LibreOffice - our first release](http://www.gnome.org/~michael/blog/2011-01-25-libreoffice-release.html)**
+**[Michael Meeks: LibreOffice - our first release](//www.gnome.org/~michael/blog/2011-01-25-libreoffice-release.html)**
 
-Today we [released](http://blog.documentfoundation.org/2011/01/25/the-document-foundation-launches-libreoffice-3-3/) our first stable release of LibreOffice. That is really rather exciting !
+Today we [released](//blog.documentfoundation.org/2011/01/25/the-document-foundation-launches-libreoffice-3-3/) our first stable release of LibreOffice. That is really rather exciting !
       and a major milestone. Of course, if you have a GNU/Linux or Unix distribution, most likely
       your packagers already knew our release timetable, and have distribution packages ready for
       you to use. If you can use those, do - they are likely to be better integrated with the
       system, and somewhat faster. 
 
 If you are a Windows or Mac user though, it is a great time to try out LibreOffice,
-      directly from our [download](http://www.libreoffice.org/download/) site. 
+      directly from our [download](//www.libreoffice.org/download/) site. 
 
 **Why LibreOffice ?**
     
@@ -1450,7 +1450,7 @@ If you are a Windows or Mac user though, it is a great time to try out LibreOffi
 Apart from all the obvious reasons - of loving Freedom, Free Software, and fun, open,
       community development. LibreOffice is just better, much better, check out our (still
       expanding) [New
-        Features](http://www.libreoffice.org/download/new-features-and-fixes/) page - showing off what people can expect to enjoy in LibreOffice. As I get
+        Features](//www.libreoffice.org/download/new-features-and-fixes/) page - showing off what people can expect to enjoy in LibreOffice. As I get
       time, I'll add some highlights of my own appended here. 
 
 **What next ?**
@@ -1459,7 +1459,7 @@ Apart from all the obvious reasons - of loving Freedom, Free Software, and fun, 
 As we work in a much more conventional Free Software project mold, we are releasing a
         point-zero release. This will not be perfect, but is any
       software ? what we will be doing is rapidly iterating it, via many minor point releases,
-      towards perfection. We've published our [timeline](http://wiki.documentfoundation.org/ReleasePlan) for that. Something
+      towards perfection. We've published our [timeline](//wiki.documentfoundation.org/ReleasePlan) for that. Something
       you don't like ? some hideous translation or crasher bug ? we can include that fix soon, so do
       get stuck in and help out. 
 
@@ -1473,24 +1473,24 @@ Perhaps the more interesting piece is the commitment to move to a six month rele
 LibreOffice is a project, almost uniquely suited to scaling to hundreds of people working
       on it - there are problems, missing features and bugs everywhere. There are millions of
       malnourished lines-of-code, awaiting your loving ownership, and remedial care - can you help
-      them ? If so, please head to our [developer instructions](http://www.libreoffice.org/get-involved/developers/)
+      them ? If so, please head to our [developer instructions](//www.libreoffice.org/get-involved/developers/)
       grab the code from freedesktop's git repository, and get stuck in, we'd love to work with you.
       We have many [Easy
-        Hacks](http://wiki.documentfoundation.org/Development/Easy_Hacks) designed for beginners to get involved - ranging from zero programming skill
+        Hacks](//wiki.documentfoundation.org/Development/Easy_Hacks) designed for beginners to get involved - ranging from zero programming skill
       required, to some heavier lifting for the elite. As you do that, please do say hello on IRC:
         #libreoffice on irc.freenode.net, where much of the team
       hangs out. 
 
 Of course, if you want to mirror our binaries - and we are only 11Gb small (compared to
       70Gb+ for OO.o), then drop a mail to `<[mirrors@documentfoundation.org](mailto:mirrors@documentfoundation.org)>`, we use
-      Peter's excellent [mirrorbrain](http://mirrorbrain.org/) - we have good
+      Peter's excellent [mirrorbrain](//mirrorbrain.org/) - we have good
       coverage, but it can always improve. If you just like web banners that point to us there is
-      just such a [image](http://wiki.documentfoundation.org/File:LibreOffice_banner_728x90_L.png). 
+      just such a [image](//wiki.documentfoundation.org/File:LibreOffice_banner_728x90_L.png). 
 
 **Who did this thing ? **
 
 Well, in fact many people, far more than I can write down in one place - there are
-      extensive credits [here](http://www.libreoffice.org/credits.html) for all of
+      extensive credits [here](//www.libreoffice.org/credits.html) for all of
       the many individuals that have struck their blow for freedom with us; I am incredibly grateful
       for their support and friendship. 
 
@@ -1511,14 +1511,14 @@ However, of course, some people have put more than the usual effort into this re
       before final code freeze.
 
 **[Holger Hetterich: SMBTA Stresstest 0.0.2 released, built with SMB Traffic Analyzer
-        1.2.2](http://holger123.wordpress.com/2011/01/28/smbta-stresstest-0-0-2-released-built-with-smb-traffic-analyzer-1-2-2/)**
+        1.2.2](//holger123.wordpress.com/2011/01/28/smbta-stresstest-0-0-2-released-built-with-smb-traffic-analyzer-1-2-2/)**
 
 [SMBTA Stresstest 0.0.2 is
-        available in SUSE Studio](http://susegallery.com/a/HkqPEE/smbta-stresstest), an appliance made for testing the [SMB Traffic Analyzer](http://holger123.wordpress.com/smb-traffic-analyzer/)
+        available in SUSE Studio](//susegallery.com/a/HkqPEE/smbta-stresstest), an appliance made for testing the [SMB Traffic Analyzer](//holger123.wordpress.com/smb-traffic-analyzer/)
       software suite. A side effect of being a test is that SMBTA Stresstest can **easily be used by people interested in trying SMB Traffic Analyzer**. 
 
 Since version 0.0.1 of SMBTA Stresstest, [a new
-        release of SMB Traffic Analyzer](http://holger123.wordpress.com/2011/01/20/smb-traffic-analyzer-1-2-2-released/) brought changes that are affecting the testing
+        release of SMB Traffic Analyzer](//holger123.wordpress.com/2011/01/20/smb-traffic-analyzer-1-2-2-released/) brought changes that are affecting the testing
       appliance. Actually, SMBTA Stresstest includes a **patched version of
         smbtatools** with changes that did not made it into the 1.2.2 release. SMBTA
       Stresstest now creates directories and human readable filenames which should make it much
@@ -1538,20 +1538,20 @@ Since version 0.0.1 of SMBTA Stresstest, [a new
 SMBTA Stresstest is maintaining an open port 3491 to allow queries from the smbtatools
       programs. 
 
-You can download SMBTA Stresstest from the [SUSE Studio Gallery](http://susegallery.com/a/HkqPEE/smbta-stresstest). For more
+You can download SMBTA Stresstest from the [SUSE Studio Gallery](//susegallery.com/a/HkqPEE/smbta-stresstest). For more
       information on [SMB Traffic
-        Analyzer, visit it’s homepage](http://holger123.wordpress.com/smb-traffic-analyzer/).
+        Analyzer, visit it’s homepage](//holger123.wordpress.com/smb-traffic-analyzer/).
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Logo-SecurityUpdates.png)Security Updates
 
 To view the security announcements in full, or to receive them as soon as they're released,
     refer to the [openSUSE
-      Security Announce](http://lists.opensuse.org/opensuse-security-announce/) mailing list.
+      Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Tux.svg_.png)Kernel Review
 
 **
-      [h-online/Thorsten Lemmhuis: Kernel Log: Coming in 2.6.38 (Part 1) – Graphics](http://www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html)
+      [h-online/Thorsten Lemmhuis: Kernel Log: Coming in 2.6.38 (Part 1) – Graphics](//www.h-online.com/open/features/Kernel-Log-Coming-in-2-6-38-Part-1-Graphics-1176900.html)
     **
 
 **Kernel version 2.6.38 supports AMD's new Fusion CPUs and offers 2D
@@ -1560,9 +1560,9 @@ To view the security announcements in full, or to receive them as soon as they'r
         features aim to eradicate image flickering, tearing and incomplete rendering issues.
       **
 
-Less than five days after [closing the 2.6.38 merge window](http://www.h-online.com/news/item/Main-development-phase-of-Linux-kernel-2-6-38-completed-1171565.html), Linus Torvalds has already [issued](http://thread.gmane.org/gmane.linux.kernel/1090573) the second release
+Less than five days after [closing the 2.6.38 merge window](//www.h-online.com/news/item/Main-development-phase-of-Linux-kernel-2-6-38-completed-1171565.html), Linus Torvalds has already [issued](//thread.gmane.org/gmane.linux.kernel/1090573) the second release
       candidate of Linux 2.6.38. Last Saturday's fast follow-up wasn't due to a major flaw in
-      2.6.38-rc1; it had more mundane reasons. On Sunday, Torvalds travelled to this year's [Linux.conf.au](http://lca2011.linux.org.au/) (LCA), which, despite the flooding,
+      2.6.38-rc1; it had more mundane reasons. On Sunday, Torvalds travelled to this year's [Linux.conf.au](//lca2011.linux.org.au/) (LCA), which, despite the flooding,
       is being held in Brisbane this week. Before travelling, Torvalds wanted to test whether he had
       installed all the kernel development and release components he needed on the computer he
       intended to take. 
@@ -1580,31 +1580,31 @@ The Kernel Log is therefore already in a position to provide a comprehensive ove
       terms of network support, storage hardware, file systems, drivers, architecture code, and
       kernel infrastructure. (...)
 
-**[kernel weekly news – 29.01.2011](http://schaiba.wordpress.com/2011/01/28/kernel-weekly-news-29-01-2011/)**
+**[kernel weekly news – 29.01.2011](//schaiba.wordpress.com/2011/01/28/kernel-weekly-news-29-01-2011/)**
 
 Hello, people! Welcome to the last edition of KWN of January! We have cool updates from
     the kernel world, so keep reading… (...)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Tips-and-Tricks.png)Tips and Tricks
 
 ### For Desktop Users
 
 **
-        [MakeUseOf/Jessica Cam Wong: How To Create Speech Bubbles For Screenshots In GIMP](http://www.makeuseof.com/tag/create-speech-bubbles-screenshots-gimp/)
+        [MakeUseOf/Jessica Cam Wong: How To Create Speech Bubbles For Screenshots In GIMP](//www.makeuseof.com/tag/create-speech-bubbles-screenshots-gimp/)
       **
 
-Previously we have looked at some tutorials for anyone, new or advanced, to try his/her hand at creating artwork in GIMP because it CAN accomplish phenomenal works, especially in conjunction with other open-source software. Here’s a fun tutorial to [cartoonify photos in GIMP](http://www.makeuseof.com/tag/cartoonify-photos-gimp/) (like you see in ads all over the web), here’s another one on [creating image maps](http://www.makeuseof.com/tag/create-image-map-gimp/), and there’s also one on [creating a zoom effect on screenshots](http://www.makeuseof.com/tag/create-simple-zoomed-effect-screenshots-gimp/). I’m certainly really excited about GIMP if you can’t tell already. (...)
+Previously we have looked at some tutorials for anyone, new or advanced, to try his/her hand at creating artwork in GIMP because it CAN accomplish phenomenal works, especially in conjunction with other open-source software. Here’s a fun tutorial to [cartoonify photos in GIMP](//www.makeuseof.com/tag/cartoonify-photos-gimp/) (like you see in ads all over the web), here’s another one on [creating image maps](//www.makeuseof.com/tag/create-image-map-gimp/), and there’s also one on [creating a zoom effect on screenshots](//www.makeuseof.com/tag/create-simple-zoomed-effect-screenshots-gimp/). I’m certainly really excited about GIMP if you can’t tell already. (...)
 
 ### For Commandline/Script Newbies
 
 **
-        [Linux.com/Jack Wallen: Reclaim Deleted Files and Repair Filesystems on Linux ](http://www.unixmen.com/linux-commands/1459-useful-commands-for-daily-use)
+        [Linux.com/Jack Wallen: Reclaim Deleted Files and Repair Filesystems on Linux ](//www.unixmen.com/linux-commands/1459-useful-commands-for-daily-use)
       **
 
 “Linux is as solid an operating system as you'll ever use — but that doesn't mean that the hardware you're running it on is equally solid. Hard drives are as prone to errors as are file systems. And no matter how stable an OS is, it can't prevent you from accidentally deleting files and/or folders. But don't despair: Linux is equipped with a number of tools that can help you repair filesystem errors and reclaim deleted files. Which tools? To start, **e2fsck**, **scalpel**, and **lsof** will get you the farthest. Let's take a look at how each of these can be used to help your file systems be free of errors and your files be freed from accidental deletion.” (...)
 
 **
-        [BashShell.net/mike: Positional Parameters](http://bashshell.net/shell-scripts/positional-parameters/)
+        [BashShell.net/mike: Positional Parameters](//bashshell.net/shell-scripts/positional-parameters/)
       **
 
 Special built-in environmental  variables are positional parameters which hold command-line arguments to positions with the names 1,2,3,4, etc. which are indicated by $1,$2,$3,$4, etc.  Argument $0 is the name of the script.   These parameters are named positional because within the script the reference is to the position they occur on the command line. (...)
@@ -1612,12 +1612,12 @@ Special built-in environmental  variables are positional parameters which hold c
 ### For Developers and Programmers
 
 **
-        [Packt/Ninad Sathaye: Python Multimedia: Enhancing Images](http://www.packtpub.com/article/python-multimedia-enhancing-images)
+        [Packt/Ninad Sathaye: Python Multimedia: Enhancing Images](//www.packtpub.com/article/python-multimedia-enhancing-images)
       **
 
 Python is a high-level, object-oriented language with a comprehensive standard library. Typically, one can develop complex applications in Python very quickly compared to some other languages. Multimedia applications are used in a broad spectrum of fields. Writing applications that work with images, videos, and other sensory effects is great. Not every application gets to make full use of audio/visual effects, but a certain amount of multimedia makes any application very appealing.
 
-In this article by Ninad Sathaye, author of [Python Multimedia](http://www.packtpub.com/python-multimedia-application-beginner%27s-guide/book/ns/pythonmulti-abr6/0111?utm_source=ns_pythonmulti_abr6_0111&utm_medium=content&utm_campaign=naheed), we shall cover the following recipes:
+In this article by Ninad Sathaye, author of [Python Multimedia](//www.packtpub.com/python-multimedia-application-beginner%27s-guide/book/ns/pythonmulti-abr6/0111?utm_source=ns_pythonmulti_abr6_0111&utm_medium=content&utm_campaign=naheed), we shall cover the following recipes:
 
 * Adjusting brightness and contrast
 
@@ -1627,7 +1627,7 @@ In this article by Ninad Sathaye, author of [Python Multimedia](http://www.packt
 
 
 **
-        [Nettuts+/Burak Guzel: Advanced Regular Expression Tips and Techniques](http://net.tutsplus.com/tutorials/php/advanced-regular-expression-tips-and-techniques/)
+        [Nettuts+/Burak Guzel: Advanced Regular Expression Tips and Techniques](//net.tutsplus.com/tutorials/php/advanced-regular-expression-tips-and-techniques/)
       **
 
 Regular Expressions are the Swiss Army knife for searching through information for certain patterns. They have a wide arsenal of tools, some of which often go undiscovered or underutilized. Today I will show you some advanced tips for working with regular expressions. (...)
@@ -1635,13 +1635,13 @@ Regular Expressions are the Swiss Army knife for searching through information f
 ### For System Administrators
 
 **
-        [HowtoForge/Falko Timme: VBoxHeadless - Running Virtual Machines With VirtualBox 4.0 On A Headless OpenSUSE 11.3 Server](http://www.howtoforge.com/vboxheadless-running-virtual-machines-with-virtualbox-4.0-on-a-headless-opensuse-11.3-server)
+        [HowtoForge/Falko Timme: VBoxHeadless - Running Virtual Machines With VirtualBox 4.0 On A Headless OpenSUSE 11.3 Server](//www.howtoforge.com/vboxheadless-running-virtual-machines-with-virtualbox-4.0-on-a-headless-opensuse-11.3-server)
       **
 
-This guide explains how you can run virtual machines with [VirtualBox 4.0](http://www.virtualbox.org/) on a headless OpenSUSE 11.3 server. Normally you use the VirtualBox GUI to manage your virtual machines, but a server does not have a desktop environment. Fortunately, VirtualBox comes with a tool called VBoxHeadless that allows you to connect to the virtual machines over a remote desktop connection, so there's no need for the VirtualBox GUI. (...)
+This guide explains how you can run virtual machines with [VirtualBox 4.0](//www.virtualbox.org/) on a headless OpenSUSE 11.3 server. Normally you use the VirtualBox GUI to manage your virtual machines, but a server does not have a desktop environment. Fortunately, VirtualBox comes with a tool called VBoxHeadless that allows you to connect to the virtual machines over a remote desktop connection, so there's no need for the VirtualBox GUI. (...)
 
 **
-        [Linuxaria: 3 Command line tool to test bandwidth between 2 servers](http://www.linuxaria.com/article/tool-command-line-bandwidth-linux?lang=en)
+        [Linuxaria: 3 Command line tool to test bandwidth between 2 servers](//www.linuxaria.com/article/tool-command-line-bandwidth-linux?lang=en)
       **
 
 One element that is often not know, or that should be measured after a problem statement or after a change in the infrastructure is the network .
@@ -1652,11 +1652,11 @@ Someone use ftp, scp or other file transfer protocols, these can give some indic
 
 In this article I will show you 3 way to measure the bandwidth from the command line, without using the disks. (...)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/Logo-PlanetSUSE.png)Planet SUSE
 
 **
       [Kostas
-        Koudaras: What is the Evergreen Project? An interview with Wolfgang Rosenauer](http://e-tote-kala.blogspot.com/2011/01/what-is-evergreen-project.html)
+        Koudaras: What is the Evergreen Project? An interview with Wolfgang Rosenauer](//e-tote-kala.blogspot.com/2011/01/what-is-evergreen-project.html)
     **
 
 Having a distribution that gives you a two year support for ALL editions is another
@@ -1671,13 +1671,13 @@ Hi Wolfgang, I have some questions about the Evergreen Project that I got from a
 
     
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-On-the-Web.png)On the Web
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-On-the-Web.png)On the Web
 
 ### Announcements
 
 **
         [The Wine development release 1.3.12 is
-          now available](http://www.winehq.org/announce/1.3.12)
+          now available](//www.winehq.org/announce/1.3.12)
       **
 
 What's new in this release (see below for details):
@@ -1694,17 +1694,17 @@ What's new in this release (see below for details):
 
   * Various bug fixes.
 
-(...) Other Sources: [h-online](http://www.h-online.com/open/news/item/Wine-1-3-12-integrates-DOSBox-1175811.html)
+(...) Other Sources: [h-online](//www.h-online.com/open/news/item/Wine-1-3-12-integrates-DOSBox-1175811.html)
 
 ### Call for participation
 
 **
-        [SambaXP 2011](http://www.samba.xp.de/index.php?id=14)
+        [SambaXP 2011](//www.samba.xp.de/index.php?id=14)
       **
 
-The Samba eXPerience 2011 in Göttingen, Germany is the 10th(!) international [Samba](http://samba.org/) conference for users and developers. Meet the Samba
+The Samba eXPerience 2011 in Göttingen, Germany is the 10th(!) international [Samba](//samba.org/) conference for users and developers. Meet the Samba
         Team and discuss requirements, new features and get an update on current developments! The
-        conference is organized by [SerNet](http://www.sernet.de/).
+        conference is organized by [SerNet](//www.sernet.de/).
 
 **May 9th - 11th, 2011 - Hotel Freizeit In Göttingen -
           Germany** (...)
@@ -1712,17 +1712,17 @@ The Samba eXPerience 2011 in Göttingen, Germany is the 10th(!) international [S
 ### Reports
 
 **
-        [h-online/Edwald Henning: Dell joins the SUSE Appliance Program](http://www.h-online.com/open/news/item/Dell-joins-the-SUSE-Appliance-Program-1176360.html)
+        [h-online/Edwald Henning: Dell joins the SUSE Appliance Program](//www.h-online.com/open/news/item/Dell-joins-the-SUSE-Appliance-Program-1176360.html)
       **
 
-“Novell has announced that Dell has become the latest participant in the [SUSE Appliance Program](http://www.novell.com/partners/isv/appliance/). This
-          program allows the use of [SUSE Studio](http://susestudio.com/) to
+“Novell has announced that Dell has become the latest participant in the [SUSE Appliance Program](//www.novell.com/partners/isv/appliance/). This
+          program allows the use of [SUSE Studio](//susestudio.com/) to
           develop software applications and for their subsequent distribution. According to Novell,
           just a few weeks after its introduction in mid-2009, 2,000 ISVs had signed up.
           (...)”
 
 **
-        [ZDNet/J.A. Watson: What's Up with openSuSE?](http://www.zdnet.co.uk/blogs/jamies-mostly-linux-stuff-10006480/whats-up-with-opensuse-10021549/)
+        [ZDNet/J.A. Watson: What's Up with openSuSE?](//www.zdnet.co.uk/blogs/jamies-mostly-linux-stuff-10006480/whats-up-with-opensuse-10021549/)
       **
 
 This post is not intended as criticism of the openSuSE project in any way. Most of what
@@ -1758,7 +1758,7 @@ First, the openSuSE ISO images are supposed to be what they call "hybrid
 
 **
         [OStatic/Susan Linton:
-          What's Next for LibreOffice?](http://ostatic.com/blog/whats-next-for-libreoffice)
+          What's Next for LibreOffice?](//ostatic.com/blog/whats-next-for-libreoffice)
       **
 
 LibreOffice 3.3 wasn't even released yet when plans for upcoming versions were
@@ -1776,13 +1776,13 @@ According to the foundation, time-based release plans are more productive than t
 
 **
         [OStatic/Susan Linton:
-          One Package Manager for them All](http://ostatic.com/blog/one-package-manager-for-them-all)
+          One Package Manager for them All](//ostatic.com/blog/one-package-manager-for-them-all)
       **
 
 The idea of one universal package format for all distributions has been batted around a
-        few times over the years. One of the most notable was Ryan C. Gordon's idea of [FatELF files](http://icculus.org/fatelf/). Reactions varied from supportive to
+        few times over the years. One of the most notable was Ryan C. Gordon's idea of [FatELF files](//icculus.org/fatelf/). Reactions varied from supportive to
         skeptical to down right opposed. Well, it seems a new team from major distributions is
-        coming together to [implement](http://blog.karlitschek.de/2011/01/2-amazing-meetings-to-change-world.html) a "common application installer API and
+        coming together to [implement](//blog.karlitschek.de/2011/01/2-amazing-meetings-to-change-world.html) a "common application installer API and
         infrastructure."
 
 Developers from RedHat, Fedora, Debian, Ubuntu, openSUSE, Mandriva and Mageia got
@@ -1793,74 +1793,74 @@ Developers from RedHat, Fedora, Debian, Ubuntu, openSUSE, Mandriva and Mageia go
         basic descriptions, ratings, user reviews, and such. The idea is to define and write a tool
         to find and install applications. (...)
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/euro-cent-stueck.jpg)Credits
 
 We thank for this Issue:
 
-  * [Sascha Manns](http://en.opensuse.org/User:Saigkill), Editor in Chief
+  * [Sascha Manns](//en.opensuse.org/User:Saigkill), Editor in Chief
 
-  * [Satoru Matsumoto](http://en.opensuse.org/User:HeliosReds), Editorial Office
+  * [Satoru Matsumoto](//en.opensuse.org/User:HeliosReds), Editorial Office
 
-  * [Gertjan Lettink](http://en.opensuse.org/User:Knurpht), Forums Section
+  * [Gertjan Lettink](//en.opensuse.org/User:Knurpht), Forums Section
 
-  * [Thomas Hofstätter](http://en.opensuse.org/User:Okuro), Eventeditor
+  * [Thomas Hofstätter](//en.opensuse.org/User:Okuro), Eventeditor
 
-  * [Thomas Schraitle](http://en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
+  * [Thomas Schraitle](//en.opensuse.org/User:Thomas-schraitle), DocBook-Consultant
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/handshake.jpg)Acknowledgements
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/handshake.jpg)Acknowledgements
 
 We thank for this Issue:
 
-  * [RenderX XEP](http://www.renderx.com), PDF Creation and Rendering
+  * [RenderX XEP](//www.renderx.com), PDF Creation and Rendering
 
-  * [SyncRO Soft Ltd.](http://www.oxygenxml.com), Oxygen XML Editing
+  * [SyncRO Soft Ltd.](//www.oxygenxml.com), Oxygen XML Editing
 
-  * [Docbook.org](http://www.docbook.org/), Semantic markup language for technical documentation
+  * [Docbook.org](//www.docbook.org/), Semantic markup language for technical documentation
 
-  * [xmlsoft.org](http://xmlsoft.org/XSLT/), XSLT Librarys
+  * [xmlsoft.org](//xmlsoft.org/XSLT/), XSLT Librarys
 
-  * [Novell Inc.](http://www.opensuse.org), Hosting and Publishing
+  * [Novell Inc.](//www.opensuse.org), Hosting and Publishing
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-oxygen-Credits.png)Feedback
 
 Do you have comments on any of the things mentioned in this article? Then head right over to
-    the [comment section](http://news.opensuse.org/?p=6387) and let us know! 
+    the [comment section](//news.opensuse.org/?p=6387) and let us know! 
 
-Or if you would like to be part of the [openSUSE:Weekly news team](http://en.opensuse.org/openSUSE:Weekly_news_team) then
+Or if you would like to be part of the [openSUSE:Weekly news team](//en.opensuse.org/openSUSE:Weekly_news_team) then
     check out our team page and join! 
 
-If you don't know, how to contribute, just check out the [Contribution Page](http://en.opensuse.org/openSUSE:Weekly_news_contribute).
+If you don't know, how to contribute, just check out the [Contribution Page](//en.opensuse.org/openSUSE:Weekly_news_contribute).
 
 **Talk with us:**
 
 Or Communicate with or get help from the wider openSUSE community via IRC, forums, or
-    mailing lists see [Communicate](http://en.opensuse.org/openSUSE:Communication_channels). 
+    mailing lists see [Communicate](//en.opensuse.org/openSUSE:Communication_channels). 
 
 Visit our connect.opensuse.org Page: [and give your
       Feedback.](https://connect.opensuse.org/pg/groups/10679/weekly-news-team/)
 
-Visit our Facebook Fanpage: [Fanpage](http://www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
+Visit our Facebook Fanpage: [Fanpage](//www.facebook.com/pages/Sascha-Manns-OpenSUSE-Weekly-News/164052946964277)
 
-Since a few minutes you can use [Bugtracking](http://developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](http://developer.berlios.de/feature/?group_id=12095) for give
+Since a few minutes you can use [Bugtracking](//developer.berlios.de/bugs/?group_id=12095) and [Featurerequests](//developer.berlios.de/feature/?group_id=12095) for give
     your Feedback.
 
 **Keep updated:**
 
-You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](http://news.opensuse.org/category/weekly-news/feed/).
+You can subscribe to the openSUSE Weekly News RSS feed at [news.opensuse.org](//news.opensuse.org/category/weekly-news/feed/).
 
-**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](http://doc.opensuse.org).
+**DOCS**: Visit the official openSUSE docs page: [docs.opensuse.org](//doc.opensuse.org).
 
-## ![Header Picture](http://www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
+## ![Header Picture](//www.saschamanns.de/pub/OWN/common/logos/OWN-Icon-locale.png)Translations
 
 openSUSE Weekly News is translated into many languages. Issue
     160 is available in: 
 
-  * [English](http://news.opensuse.org/?p=6387)
+  * [English](//news.opensuse.org/?p=6387)
 
 Coming soon: 
 
-You can follow the status of the translation [there](http://en.opensuse.org/openSUSE:Weekly_news_translations).
+You can follow the status of the translation [there](//en.opensuse.org/openSUSE:Weekly_news_translations).
 
-  * [Japanese](http://ja.opensuse.org/OpenSUSE_Weekly_News/160)
+  * [Japanese](//ja.opensuse.org/OpenSUSE_Weekly_News/160)
 
-  * [Greek](http://el.opensuse.org/Weekly_news)
+  * [Greek](//el.opensuse.org/Weekly_news)

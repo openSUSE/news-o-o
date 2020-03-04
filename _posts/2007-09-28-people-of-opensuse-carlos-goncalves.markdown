@@ -11,7 +11,7 @@ categories:
 - People of openSUSE
 ---
 
-Here is another 'People of openSUSE' interview, this time with Carlos Gonçalves, a very active member of our Portuguese community and founder of [ENOS](http://en.opensuse.org/Events/ENOS).
+Here is another 'People of openSUSE' interview, this time with Carlos Gonçalves, a very active member of our Portuguese community and founder of [ENOS](//en.opensuse.org/Events/ENOS).
 
 	 	 	 	 	 	
 
@@ -58,7 +58,7 @@ By the way Carlos joined the 'People of openSUSE' initiative and will do some in
 <td >**Homepage: **
 </td>
 
-<td >[http://www.cgoncalves.info](http://www.cgoncalves.info)
+<td >[//www.cgoncalves.info](//www.cgoncalves.info)
 </td>
 
 <td >
@@ -69,7 +69,7 @@ By the way Carlos joined the 'People of openSUSE' initiative and will do some in
 <td >**Blog:**
 </td>
 
-<td >[http://cgoncalves.blogspot.com](http://cgoncalves.blogspot.com)
+<td >[//cgoncalves.blogspot.com](//cgoncalves.blogspot.com)
 </td>
 
 <td >
@@ -449,7 +449,7 @@ Always... who hasn't?!
 #### Show us a picture of something, you have always wanted to share!
 
 
-I would like to share some pictures of my [praxe](http://en.wikipedia.org/wiki/Praxe) that started yesterday but I don't have them yet...
+I would like to share some pictures of my [praxe](//en.wikipedia.org/wiki/Praxe) that started yesterday but I don't have them yet...
 
 Imagine something like this: a lot of body exercice, eggs, soup and pasta in the head, face painted with baton, march, etc... This is the kind of praxe that the older students do with new students like me in 3 weeks!!
 

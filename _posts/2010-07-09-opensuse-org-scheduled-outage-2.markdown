@@ -12,37 +12,37 @@ categories:
 - Infrastructure
 ---
 
-On **Saturday, July 10th from [09:00 AM CET](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2010&mo=07&d=10&h=7&mn=00) to 03:00 PM CET**, our infrastructure vendor will be shutting down services in the Nuremberg (Germany) data center to allow for a scheduled maintenance of the main power supply. As result, general network connectivity from and to the location will not be available.
+On **Saturday, July 10th from [09:00 AM CET](//www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2010&mo=07&d=10&h=7&mn=00) to 03:00 PM CET**, our infrastructure vendor will be shutting down services in the Nuremberg (Germany) data center to allow for a scheduled maintenance of the main power supply. As result, general network connectivity from and to the location will not be available.
 
-Due to a separate maintenance activity the openSUSE [Build Service](http://en.opensuse.org/Build_Service) will only be available again by [07:00 PM CET](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2010&mo=07&d=10&h=17&mn=00).
+Due to a separate maintenance activity the openSUSE [Build Service](//en.opensuse.org/Build_Service) will only be available again by [07:00 PM CET](//www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2010&mo=07&d=10&h=17&mn=00).
 
 As result, the following services will not be available:
 
-* http://build.opensuse.org
-* http://software.opensuse.org
+* //build.opensuse.org
+* //software.opensuse.org
 
-* http://svn.opensuse.org
-* http://community.opensuse.org
-* http://education.opensuse.org
-* http://powerpc.opensuse.org
-* http://boosters.opensuse.org
-* http://board.opensuse.org
-* http://users.opensuse.org
-* http://hermes.opensuse.org
-* http://notify.opensuse.org
-* http://retro.opensuse.org
-* http://connect.opensuse.org
-* http://crashdb.opensuse.org
-* http://gallery.opensuse.org
-* http://shop.opensuse.org
-* http://help.opensuse.org
-* http://i18n.opensuse.org
-* http://apparmor.opensuse.org
-* http://count(er|down).opensuse.org
-* http://gcc.opensuse.org
-* http://license.opensuse.org
-* http://xgl.opensuse.org
-* http://pluginfinder.opensuse.org
+* //svn.opensuse.org
+* //community.opensuse.org
+* //education.opensuse.org
+* //powerpc.opensuse.org
+* //boosters.opensuse.org
+* //board.opensuse.org
+* //users.opensuse.org
+* //hermes.opensuse.org
+* //notify.opensuse.org
+* //retro.opensuse.org
+* //connect.opensuse.org
+* //crashdb.opensuse.org
+* //gallery.opensuse.org
+* //shop.opensuse.org
+* //help.opensuse.org
+* //i18n.opensuse.org
+* //apparmor.opensuse.org
+* //count(er|down).opensuse.org
+* //gcc.opensuse.org
+* //license.opensuse.org
+* //xgl.opensuse.org
+* //pluginfinder.opensuse.org
 
 The staging version of these sites will be similarly affected.
 

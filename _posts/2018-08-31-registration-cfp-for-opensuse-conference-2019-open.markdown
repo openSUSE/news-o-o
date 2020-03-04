@@ -90,4 +90,4 @@ A Program Committee will evaluate the proposals based on the submitted abstracts
 
 Volunteers who would like to participate on the Program Committee or the Organizing Team for the conference should email ddemaio (@) suse.de.
 
-Visit[ events.opensuse.org](http://events.opensuse.org) for more information about oSC19.
+Visit[ events.opensuse.org](//events.opensuse.org) for more information about oSC19.

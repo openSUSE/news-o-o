@@ -13,7 +13,7 @@ categories:
 
 After a long summer holiday season 'People of openSUSE' is back!
 
-This week we caught up one of the many people responsible for the success of the openSUSE project maintaining mailing lists, IRC channels, and openSUSE project meetings, as also doing some packaging in the well-known Packman repository. Today you have the opportunity to meet the current [openSUSE Board Candidate](http://en.opensuse.org/Board_Election) Henne Vogelsang!
+This week we caught up one of the many people responsible for the success of the openSUSE project maintaining mailing lists, IRC channels, and openSUSE project meetings, as also doing some packaging in the well-known Packman repository. Today you have the opportunity to meet the current [openSUSE Board Candidate](//en.opensuse.org/Board_Election) Henne Vogelsang!
 
 <!-- more -->
 
@@ -55,7 +55,7 @@ This week we caught up one of the many people responsible for the success of the
 <td >**Homepage: **
 </td>
 
-<td >[http://hennevogel.de](http://hennevogel.de)
+<td >[//hennevogel.de](//hennevogel.de)
 </td>
 
 <td >
@@ -307,7 +307,7 @@ In general I sometimes wish to have a more formal IT education then I have so I 
 #### The Internet crashes for a whole week -- how would you feel, what would you do?
 
 
-The "the Internet" is an international scale-free network. Scale-free networks are very tolerant of random failures and very vulnerable to intentional attacks on the central hubs. The central hubs of the Internet are in nearly every country on this planet. So if "the Internet" crashes doomsday is probably here and I would feel not much but rather take actions to survive. Like trying to reach the nearest [EZDS](http://www.craftster.org/forum/index.php?topic=202668.msg2158872) or something.
+The "the Internet" is an international scale-free network. Scale-free networks are very tolerant of random failures and very vulnerable to intentional attacks on the central hubs. The central hubs of the Internet are in nearly every country on this planet. So if "the Internet" crashes doomsday is probably here and I would feel not much but rather take actions to survive. Like trying to reach the nearest [EZDS](//www.craftster.org/forum/index.php?topic=202668.msg2158872) or something.
 
 
 
@@ -415,7 +415,7 @@ Constantly. The last one was last week's project meeting. I'm not so good with m
 
 
 
-![](http://upload.wikimedia.org/wikipedia/commons/0/0b/Labskaus.jpg)
+![](//upload.wikimedia.org/wikipedia/commons/0/0b/Labskaus.jpg)
 
 You need 6 big potatoes. An onion. A can of corned beef. Two bay leaves. 2 eggs, a glass of pickled gherkins and a glass of beetroot. Butter, salt and pepper.  
   

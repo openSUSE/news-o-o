@@ -12,7 +12,7 @@ categories:
 ---
 
 ![enos-poster.jpg](//news.opensuse.org/wp-content/uploads/2007/09/enos-poster.thumbnail.jpg)
-The acronym [ENOS](http://en.opensuse.org/Events/ENOS) stands for _'Encontro Nacional de openSUSE'_, a Portuguese expression which can be translated as 'National openSUSE Meeting', an event meant to unite the Portuguese openSUSE users, as well as provide the participants an inside view into the latest developments in the openSUSE project and stimulate them to take an active part in the community itself. The event was a huge success with several intriguing talks and many participants.
+The acronym [ENOS](//en.opensuse.org/Events/ENOS) stands for _'Encontro Nacional de openSUSE'_, a Portuguese expression which can be translated as 'National openSUSE Meeting', an event meant to unite the Portuguese openSUSE users, as well as provide the participants an inside view into the latest developments in the openSUSE project and stimulate them to take an active part in the community itself. The event was a huge success with several intriguing talks and many participants.
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ The acronym [ENOS](http://en.opensuse.org/Events/ENOS) stands for _'Encontro Nac
 
 
 The ENOS day started at Parque D. Carlos I, a beautiful and peaceful place to meet each other. The attendees arrived one-by-one sitting in an ever-increasing circle. Many things were discussed, such as openSUSE, GNU/Linux, Open Source, security, and various other things.
-After everybody had arrived we walked to the restaurant for lunch, passing through some nice and historical places in [Caldas da Rainha](http://en.wikipedia.org/wiki/Caldas_da_Rainha). In the restaurant the discussions continued and people had a great meal.
+After everybody had arrived we walked to the restaurant for lunch, passing through some nice and historical places in [Caldas da Rainha](//en.wikipedia.org/wiki/Caldas_da_Rainha). In the restaurant the discussions continued and people had a great meal.
 
 
 ## The Talks
@@ -30,32 +30,32 @@ After everybody had arrived we walked to the restaurant for lunch, passing throu
 After lunch we gathered for the 'Community Space' at the Caldas da Rainha Municipal Library where the participants had the opportunity to listen to three informal talks plus one final keynote.
 
 
-#### ["The openSUSE 10.3 News"](http://www.cgoncalves.info/suse/ENOS/2007/Novidades%20do%20openSUSE%2010.3.pdf), [_Carlos Gonçalves_](http://cgoncalves.info)
+#### ["The openSUSE 10.3 News"](//www.cgoncalves.info/suse/ENOS/2007/Novidades%20do%20openSUSE%2010.3.pdf), [_Carlos Gonçalves_](//cgoncalves.info)
 
 
 Carlos gave an overview of the latest developments on the openSUSE project explaining the most important improvements, such as boot time, package management, translations, 1-Click Install, the new 1-CD media, new and revised YaST modules, how the openSUSE Build Service contributed to the openSUSE development versions, etc.
 
 
-#### "BoF: The Linux Audio/MIDI Desktop", [_Rui Nuno Capela_](http://rncbc.org)
+#### "BoF: The Linux Audio/MIDI Desktop", [_Rui Nuno Capela_](//rncbc.org)
 
 
-An awesome talk about Rui's audio/MIDI applications ([Qjackctl](http://www.kde-apps.org/content/show.php/QjackCtl?content=14130), [Qtractor](http://www.kde-apps.org/content/show.php/Qtractor?content=56325), [Qsynth](http://www.kde-apps.org/content/show.php/Qsynth?content=14131) and [QSampler](http://qsampler.sourceforge.net/)) and the Kernel Real-Time issues, and suggestions on how to 'bypass' them. Some audio demonstrations were also done, and there were clear moments where the audience wondered "Wow, can we really do this on Linux?!"
+An awesome talk about Rui's audio/MIDI applications ([Qjackctl](//www.kde-apps.org/content/show.php/QjackCtl?content=14130), [Qtractor](//www.kde-apps.org/content/show.php/Qtractor?content=56325), [Qsynth](//www.kde-apps.org/content/show.php/Qsynth?content=14131) and [QSampler](//qsampler.sourceforge.net/)) and the Kernel Real-Time issues, and suggestions on how to 'bypass' them. Some audio demonstrations were also done, and there were clear moments where the audience wondered "Wow, can we really do this on Linux?!"
 
 The purpose of this talk was to show that there are experts in Portugal as well, and making them believe we can do this stuff in our little country too.
 
 
-#### ["The Software Ecology Of Rui Nuno Capela"](http://www.linuxjournal.com/node/1000171) (interview)
+#### ["The Software Ecology Of Rui Nuno Capela"](//www.linuxjournal.com/node/1000171) (interview)
 
 
 
 
-#### ["LTSP Terminals with openSUSE, a practical case"](http://www.cgoncalves.info/suse/ENOS/2007/Terminais_LTSP.odp), [_Bruno Santos_](http://feiticeir0.no-ip.org)
+#### ["LTSP Terminals with openSUSE, a practical case"](//www.cgoncalves.info/suse/ENOS/2007/Terminais_LTSP.odp), [_Bruno Santos_](//feiticeir0.no-ip.org)
 
 
 A talk about a successful case of implementing the GNU/Linux operating system (openSUSE distribution, of course) in 60 computers at the Amato Lusitano Hospital, Castelo Branco. Bruno certainly did a fabulous talk, proving that an Open Source solution is much cheaper, stable and efficient than a closed source solution. They also implemented a funny policy inside the hospital: "Do you want to play audio files and play games? OK, move to a Linux terminal and we will allow you to do these things!".
 
 
-#### ["Keynote: The openSUSE-pt community needs"](http://www.cgoncalves.info/suse/ENOS/2007/As%20necessidades%20da%20comunidade%20openSUSE-pt.pdf), _Carlos Gonçalves_
+#### ["Keynote: The openSUSE-pt community needs"](//www.cgoncalves.info/suse/ENOS/2007/As%20necessidades%20da%20comunidade%20openSUSE-pt.pdf), _Carlos Gonçalves_
 
 
 To finish off the talk session, Carlos did a brief final keynote about what are the openSUSE-pt community's needs. Summing up the most important ones: opensuse-i18n-pt is 100% done, need more people helping on the forum and on the wiki, promote and spread the openSUSE distribution in Portugal, more feedback, ideas, and incentives for people to become part of the openSUSE project.
@@ -68,8 +68,8 @@ At the end of the day, none of the attendees could leave ENOS without an openSUS
 
 
 
-[![dsc_5000_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5000_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5000_jpg.png.html)  [![dsc_5012_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5012_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5012_jpg.png.html) [![dsc_5130_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5130_thumb.jpg)](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5130_jpg.png.html)
-See the rest of the [Photo Gallery](http://www.cgoncalves.info/images/opensuse/enos/2007/gallery/)
+[![dsc_5000_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5000_thumb.jpg)](//www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5000_jpg.png.html)  [![dsc_5012_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5012_thumb.jpg)](//www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5012_jpg.png.html) [![dsc_5130_thumb.jpg](//news.opensuse.org/wp-content/uploads/2007/09/dsc_5130_thumb.jpg)](//www.cgoncalves.info/images/opensuse/enos/2007/gallery/enos/dsc_5130_jpg.png.html)
+See the rest of the [Photo Gallery](//www.cgoncalves.info/images/opensuse/enos/2007/gallery/)
 
 
 ## See you next year!
@@ -80,13 +80,13 @@ We are looking forward to a second edition next year, ENOS 2008. Any volunteers 
 
 
 	
-  * Mailing list: [opensuse-pt@opensuse.org](http://lists.opensuse.org/opensuse-pt/) ([subscribe](mailto:opensuse-pt+subscribe@opensuse.org))
+  * Mailing list: [opensuse-pt@opensuse.org](//lists.opensuse.org/opensuse-pt/) ([subscribe](mailto:opensuse-pt+subscribe@opensuse.org))
 
 	
   * IRC: [#opensuse-pt](irc://irc.freenode.net/opensuse-pt) on _irc.freenode.net_
 
 	
-  * Web: [http://opensusept.org/](http://opensusept.org/)
+  * Web: [//opensusept.org/](//opensusept.org/)
 
 
 Thanks to all attendees for participating!! Ob sie jeden account zurckfolgen, der ihnen folgt, bleibt ihnen [essay schreiben lassen using https://schreib-essay.com](https://schreib-essay.com/) berlassen

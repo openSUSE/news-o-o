@@ -14,7 +14,7 @@ categories:
 ---
 
 ![By Kevin Labianco on Flickr](/wp-content/uploads/2012/06/Kevin-Labianco.jpg)
-The openSUSE Travel Support Team is happy to announce that they are ready to process applications to sponsor community members to attend the [openSUSE Summit](http://summit.opensuse.org) and the [openSUSE Conference](http://conference.opensuse.org) as well as [COSCUP](http://news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/). Thanks to the sponsors of both conferences, travel budgets are available and we call out for all participants to whom costs are a significant issue to consider applying for travel support. Read on to learn more!<!-- more -->
+The openSUSE Travel Support Team is happy to announce that they are ready to process applications to sponsor community members to attend the [openSUSE Summit](//summit.opensuse.org) and the [openSUSE Conference](//conference.opensuse.org) as well as [COSCUP](//news.opensuse.org/2012/04/03/the-kde-and-opensuse-communities-welcome-you-to-coscup-2012/). Thanks to the sponsors of both conferences, travel budgets are available and we call out for all participants to whom costs are a significant issue to consider applying for travel support. Read on to learn more!<!-- more -->
 
 
 
@@ -23,7 +23,7 @@ The openSUSE Travel Support Team is happy to announce that they are ready to pro
 
 The openSUSE Travel Support Program provides travel sponsorships to individuals who want to attend conferences representing or participating for openSUSE and need financial assistance. This year the team behind the TSP will, working with the conference- and summit teams, facilitate the travel support for our two major events.
 
-Instructions on how to apply and further information about the Travel Support Program and eligibility can be found [here](http://en.opensuse.org/openSUSE:Travel_Support_Program)
+Instructions on how to apply and further information about the Travel Support Program and eligibility can be found [here](//en.opensuse.org/openSUSE:Travel_Support_Program)
 
 ![openSUSE Conference 2012 logo](/wp-content/uploads/2012/06/logo2.png)
 
