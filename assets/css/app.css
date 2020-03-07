@@ -51,39 +51,24 @@
   margin-bottom: 0;
 }
 
-.twitter-link {
-  background-color: white;
+.twitter-link:hover {
   color: #429CD6;
 }
-.twitter-link:hover {
-  background-color: #429CD6;
-  color: white;
-}
-.facebook-link {
-  background-color: white;
+
+.facebook-link:hover {
   color: #3A589E;
 }
-.facebook-link:hover {
-  background-color: #3A589E;
-  color: white;
-}
 
-.telegram-link {
-  background-color: white;
+.telegram-link:hover {
   color: #179cde;
 }
-.telegram-link:hover {
-  background-color: #179cde;
-  color: white;
+
+.reddit-link:hover {
+  color: #ff4500;
 }
 
-.mail-link {
-  background-color: white;
-  color: black;
-}
 .mail-link:hover {
-  background-color: black;
-  color: white;
+  color: #35b9ab;
 }
 
 .top-article:after {

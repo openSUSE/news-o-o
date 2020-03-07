@@ -2,18 +2,25 @@
 layout: default
 ---
 <ol class="breadcrumb">
-	<li class="breadcrumb-item"><a href="/"><span class="fa fa-newspaper-o"></span> News</a></li>
+	<li class="breadcrumb-item">
+		<a href="{{ site.baseurl }}/">
+			{% include news.svg %}
+			News
+		</a>
+	</li>
 	<li class="breadcrumb-item active">Tag</li>
 </ol>
 <div class="container">
 	<div class="col-12 col-lg-9 mx-auto">
 		<div class="row">
 			<ul class="list-group w-100 text-center">
-			{% for category in site.tags %}
+				{% for category in site.tags %}
 				<a href="/category/{{ category[0] }}">
-					<li class="list-group-item"><h5>{{ category[0] }}</h5></li>
+					<li class="list-group-item">
+						<h5>{{ category[0] }}</h5>
+					</li>
 				</a>
-			{% endfor %}
+				{% endfor %}
 			</ul>
 		</div>
 	</div>
