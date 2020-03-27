@@ -3,7 +3,7 @@ author: Sébastien 'sogal' Poher
 date: 2020-03-27 12:00:00+01:00
 layout: post
 title: Manage your dotfiles with Git
-image: /assets/images/git_logo.png
+image: /assets/images/2020-03-27/git_logo.png
 categories:
 - Leap
 - Tumbleweed
