@@ -19,7 +19,7 @@ tags:
 
 ## Dot what ???
 
-What is commonly referred to as *dotfiles* are all those small plain text files that contains your softwares' configuration. Most of the time they reside in your `$HOME` directory but are hidden as they are prefixed with a dot, hence their name. For some apps, you can find them as well in the `$HOME/.config` directory.
+What is commonly referred to as *dotfiles* are all those small plain text files that contain your softwares' configuration. Most of the time they reside in your `$HOME` directory but are hidden as they are prefixed with a dot, hence their name. For some apps, you can find them as well in the `$HOME/.config` directory.
 
 When it comes to managing them (i.e keep track of the changes, moving them around between different workstations, backing them up,...), there are different solutions:
 
