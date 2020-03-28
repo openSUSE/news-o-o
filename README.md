@@ -7,6 +7,9 @@ openSUSE News Website, providing news to the community.
 1. Create a new markdown file in `_posts` directory. File name should follow
     `yyyy-mm-dd-title.md` format. For example, `2020-02-27-my-first-post.md`.
     You can start by clicking [this link](https://github.com/openSUSE/news-o-o/new/master/?filename=_posts/2020-02-27-my-first-post.md).
+
+If you use an illustration image, it should be place as well in its own directory named with the date format `yyyy-mm-dd` in `/assets/images`. For example: `/assets/images/2020-02-27/my-first-post-image.png`.
+
 2. Write content. You can start with the following template:
     ```
     ---
