@@ -16,6 +16,7 @@ tags:
 - cli
 - shell
 - configuration
+
 ---
 
 In this article, we will discover a softwares trio that will allow you to manage and listen to your music from your terminal:
