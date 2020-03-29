@@ -122,7 +122,7 @@ Now that **mpd** is up and running, we will configure the *ncurses* client we in
 Here is an example of a nice colorized configuration with a split view:
 
     grep -v "^#|^$" ~/.ncmpcpp/config
-
+{% raw %}
     ncmpcpp_directory = ~/.ncmpcpp
     lyrics_directory = ~/.ncmpcpp/lyrics
     mpd_host = localhost
@@ -196,6 +196,7 @@ Here is an example of a nice colorized configuration with a split view:
     external_editor = vim
     use_console_editor = yes
     colors_enabled = yes
+{% endraw %}
 
 With these settings you will have a split view with the current playlist of the left and the visualizer on the right. All options are well documented in **ncmpcpp**'s man page.
 
