@@ -1,6 +1,6 @@
 ---
 author: Douglas DeMaio
-date: 2020-03-26 16:00:16+00:00
+date: 2020-04-04 10:00:10+00:00
 layout: post
 title: Mesa, Nano, Redis, Git Update in openSUSE Tumbleweed
 image: /wp-content/uploads/2016/05/Tumbleweed-black-green.png
@@ -33,7 +33,7 @@ tags:
 
 Another four [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) snapshots were released this week.
 
-A notable package updated this week is a new major version of (gucharmap)[https://wiki.gnome.org/Apps/Gucharmap]. Plus several python package updates, nano, mesa, git and Xfce packages also had new minor updates.
+A notable package updated this week is a new major version of [gucharmap](https://wiki.gnome.org/Apps/Gucharmap). Plus several python package updates, nano, mesa, git and Xfce packages also had new minor updates.
 
 The most recent snapshot, [202000331](https://lists.opensuse.org/opensuse-factory/2020-04/msg00020.html) is trending well with a stable rating of 99 on the [Tumbleweed snapshot reviewer](https://review.tumbleweed.boombatower.com/). The GNOME Character Map, [gucharmap](https://wiki.gnome.org/Apps/Gucharmap), updated to version 13.0.0, but no changelog was provided. An update for glib2 2.62.6 is expected to be the final release of the stable 2.62.x series; maintenance efforts will be shifted to the newer 2.64.x series. The updated glib2 package fixed SOCKS5 username/password authentication. The 2.34 binutils package added and removed a few patches. [GTK3](https://www.gtk.org/) 3.24.16 fixed problems with clipboard handling and fixed a crash in the [Wayland](https://wayland.freedesktop.org/) input method. The package for creating business diagrams, kdiagram 2.6.2 fixed printing issue. The [Linux Kernel](https://www.kernel.org/) updated to 5.5.13. A handful of Advanced Linux Sound Architecture changes were made in the kernel update. The 5.6.x kernel is expected to be released in a Tumbleweed snapshot soon. The libstorage-ng 4.2.71 package simplified combining disks with different block sizes into RAID. The programming language vala 0.46.7 made verious improvements and bug fixes and properly set CodeNode.error when reporting an error. Several xfce4 packages were updated and xfce4-pulseaudio-plugin 0.4.3 fixed various memory leaks and warnings and xterm 353 was updated. The yast2-firewall 4.2.4 packaged was updated and forces a reset of the firewalld API instance after modifying the service state and yast2-storage-ng 4.2.104 extended and improved the Application Programming Interface to get udev names for a block device
 
