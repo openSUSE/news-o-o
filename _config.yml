@@ -1,13 +1,59 @@
+lang: en
 title: openSUSE News
+title_short: News
 email: admin@opensuse.org
-description: >-
-  openSUSE News site providing newest news from the openSUSE Project
+description: Latest news from the openSUSE Project
+copyright: '© 2011–2020 openSUSE contributors'
 baseurl: ""
 url: "https://news.opensuse.org"
-sourcecode: "https://github.com/openSUSE/news-o-o"
+github_url: "https://github.com/openSUSE/news-o-o"
+
+piwik_site_id: 13
 
 excerpt_separator: <!--more-->
 
+navbar_links:
+  - categories
+  -
+    icon: M6.94 14.036c-.233.624-.43 1.2-.606 1.783.96-.697 2.101-1.139 3.418-1.304 2.513-.314 4.746-1.973 5.876-4.058l-1.456-1.455 1.413-1.415 1-1.001c.43-.43.915-1.224 1.428-2.368-5.593.867-9.018 4.292-11.074 9.818zM17 9.001L18 10c-1 3-4 6-8 6.5-2.669.334-4.336 2.167-5.002 5.5H3C4 16 6 2 21 2c-1 2.997-1.998 4.996-2.997 5.997L17 9.001z
+    link: https://github.com/openSUSE/news-o-o#how-to-submit-a-new-post
+    text: New Post
+  -
+    icon: M3 17a4 4 0 0 1 4 4H3v-4zm0-7c6.075 0 11 4.925 11 11h-2a9 9 0 0 0-9-9v-2zm0-7c9.941 0 18 8.059 18 18h-2c0-8.837-7.163-16-16-16V3z
+    link: /feed/
+    text: RSS Feed
+
+breadcrumb_icon: M20 22H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1zm-1-2V4H5v16h14zM7 6h4v4H7V6zm0 6h10v2H7v-2zm0 4h10v2H7v-2zm6-9h4v2h-4V7z
+
+date_format: '%-d. %b %Y'
+
+footer_links:
+  -
+    text: Source Code
+    link: https://github.com/openSUSE/news-o-o
+  -
+    text: License
+    link: https://github.com/openSUSE/news-o-o/blob/master/LICENSE
+
+messages:
+  categories: 'Categories'
+  tags: 'Tags'
+  months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  share_this_post: Share this post
+
+theme: jekyll-theme-opensuse
 markdown: kramdown
 plugins:
   - jekyll-paginate

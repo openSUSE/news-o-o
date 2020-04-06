@@ -1,6 +1,3 @@
 source 'https://rubygems.org'
 gem 'jekyll'
-group :jekyll_plugins do
-  gem 'jekyll-paginate'
-  gem 'jekyll-archives'
-end
+gem 'jekyll-theme-opensuse', :git => 'https://github.com/opensuse/jekyll-theme.git'
