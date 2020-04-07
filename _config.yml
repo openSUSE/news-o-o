@@ -32,8 +32,11 @@ footer_links:
     text: Source Code
     link: https://github.com/openSUSE/news-o-o
   -
-    text: License
+    text: Code License
     link: https://github.com/openSUSE/news-o-o/blob/master/LICENSE
+  -
+    text: Content License
+    link: https://creativecommons.org/licenses/by-sa/4.0/
 
 messages:
   categories: 'Categories'
