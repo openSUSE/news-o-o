@@ -14,6 +14,7 @@ openSUSE News Website, providing news to the community.
     author: Stasiek Michalski
     date: 2020-02-27 19:27:17+00:00
     layout: post
+    license: CC-BY-SA-3.0
     title: My First Post
     image: /assets/images/omw.png
     categories:
