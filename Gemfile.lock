@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/opensuse/jekyll-theme.git
-  revision: 90e2993b3cee004ffdf04b3cc3211d3a2669d6c0
+  revision: 9f3c6e069a3f5d253cc7be900563ca70f05f399c
   specs:
-    jekyll-theme-opensuse (0.1.0)
+    jekyll-theme-opensuse (0.2.0)
       jekyll
       jekyll-archives
       jekyll-paginate
@@ -73,3 +73,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-theme-opensuse!
+
+BUNDLED WITH
+   1.17.2
