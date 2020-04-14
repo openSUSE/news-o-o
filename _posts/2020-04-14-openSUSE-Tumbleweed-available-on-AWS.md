@@ -5,6 +5,7 @@ date: 2020-04-14 11:00:08-03:00
 layout: post
 title: openSUSE Tumbleweed available on AWS
 image: /wp-content/uploads/2020/02/opensuse_aws.jpg
+license: CC-BY-SA-3.0
 categories:
 - Announcements
 - Tumbleweed
