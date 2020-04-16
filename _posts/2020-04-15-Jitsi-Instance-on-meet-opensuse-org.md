@@ -27,7 +27,7 @@ But now we are able to introduce:
 
 It is based on openSUSE Leap 15.1 and uses docker containers to deploy Jitsi. The current security warnings were also considered, furthermore the setup uses secure LDAP and HTTPS.
 
-You need a bugzilla account to login. At the moment only openSUSE members are allowed to create and join rooms.
+You need an openSUSE(community) account to login.
 
 A few remarks about meet.opensuse.org:
 
