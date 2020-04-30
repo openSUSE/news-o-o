@@ -4,7 +4,7 @@ date: 2020-04-29 17:05:17+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: Discuss, Define and be Transparent with the openSUSE-Community
-image: 
+image: /wp-content/uploads/2020/04/discuss-transparency.png
 categories:
 - Announcements
 tags:
