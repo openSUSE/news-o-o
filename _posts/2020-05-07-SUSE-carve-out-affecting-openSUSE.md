@@ -4,7 +4,7 @@ date: 2020-05-07 21:05:17+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: SUSE carve out affecting openSUSE
-image: /assets/images/2020-05-07/SUSE_Logo-vert_L_Green-White-neg_sRGB.svg
+image: /assets/images/2020-05-07/suse-maintenance.png
 categories:
 - Announcements
 tags:
@@ -32,7 +32,7 @@ But there is currently more on the agenda: the identity management system, also 
 openSUSE, needs to change as well. This IDM change will include at least also a password change 
 request for everyone with an "openSUSE" account. 
 
-Note: there is even more comming up with this IDM change that will be covered in separate messages.
+Note: there is even more coming up with this IDM change that will be covered in separate messages.
 
 So please watch for further information provided via the usual channels: 
 * [Discord](https://discordapp.com/invite/opensuse), 
