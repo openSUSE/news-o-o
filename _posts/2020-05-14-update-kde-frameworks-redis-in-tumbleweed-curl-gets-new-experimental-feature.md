@@ -35,6 +35,7 @@ tags:
 - Linux Kernel
 
 ---
+
 Ninetynine seems to be a new norm for [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) as the rolling release trends and posts stable ratings of 99 for every snapshot this month, according to the [Tumbleweed snapshot reviewer](https://review.tumbleweed.boombatower.com/).
 
 Among the packages to arrive in this week’s updates were Curl, OpenConnect, KDE’s Plasma and Frameworks as well as a major version update of Redis.
