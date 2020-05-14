@@ -4,7 +4,7 @@ date: 2020-05-14 17:05:17+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: Updated KDE Frameworks, Redis Arrive in Tumbleweed, Curl Gets New Experimental Feature
-image: /wp-content/uploads/2020/04/opensuse-laptop.gif
+image: /wp-content/uploads/2019/02/1yast.png
 categories:
 - Tumbleweed
 - 99 Rating
