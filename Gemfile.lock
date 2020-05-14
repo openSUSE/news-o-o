@@ -73,6 +73,3 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-theme-opensuse!
-
-BUNDLED WITH
-   1.17.2
