@@ -33,20 +33,20 @@ tags:
 # Cloud based workers for openQA
 
 For those who do not know [openQA](https://open.qa/), this is an automated test tool for operating systems and the engine at the heart of openSUSE's automated testing initiative.
-It's implemented in Perl and uses QEMU, by default, for starting and controlling the virtual machines and OpenCV for fuzzy image matching.
+It's implemented mainly in Perl and uses QEMU, by default, for starting and controlling the virtual machines and OpenCV for fuzzy image matching.
 The general architecture is split in 2:
 
-* One openQA server, aka openQA webui
+* One openQA server, aka openQA web UI
 * Multiple openQA workers, which run the tests
 
 If you want to know more about openQA, please check the [documentation](https://open.qa/docs).
 
 
-openQA workers, which run the tests, are generally on the same network as openQA webui server which is fine most of the time, but if some additionnal hardware must be added, they must be sent physically and only few people can take care of it, which can be problematic.
+openQA workers, which run the tests, are generally on the same network as the openQA web UI server which is fine most of the time, but if some additionnal hardware must be added, they must be sent physically and only few people can take care of it, which can be problematic.
 One solution to this problem is to use cloud based machines, which are by definition on a separate network and accessible through Internet.
 
-The good news is openQA now supports such setups, by using a local cache service on the worker. This service downloads on demand the assets (ISO, HDD images, etc.) through the openQA API via HTTPS, instead of using the legacy NFS mount method.
-Tests and needles are already in git repositories, so they can be fetched from the remote git repositories directly, instead of using them from the NFS share.
+The good news is openQA supports such setups by using a local cache service on the worker. This service downloads the assets (ISO, HDD images, etc.) on demand through the openQA API via HTTPS, instead of using the legacy NFS mount method.
+Tests and needles are already in git repositories so they can be fetched from the remote git repositories directly instead of using them from the NFS share.
 
 First tests have been done on local workers connected to [openqa.opensuse.org](https://openqa.opensuse.org) ([o3](https://openqa.opensuse.org) for short), where NFS share has been replaced by the cache service. But this was still on the same network.
 
@@ -61,9 +61,9 @@ Then, more tests have been performed with additionnal aarch64 workers on:
 
 ![RPi3 and SabreLite](/assets/images/2020-05-20/RPi3_and_SabreLite.jpg "Raspberry Pi3 B/B+ and SabreLite boards")
 
-The only caveat is the developper mode which requires that the worker to be reachable from the openQA webui server at specific ports, so here, reachable on the Internet. Unfortunatly, this is not the case with current aarch64 remote workers.
+The only caveat is the developer mode which requires the worker to be reachable from the openQA web UI server at specific ports, so here, reachable on the Internet. Unfortunately, this is not the case with current aarch64 remote workers.
 
-For qemu based tests, KVM enabled systems are highly recommended, otherwise you will get very poor performances, about 10x ratio. So, you need to use bare metal instances or nested virtualization when available.
+For qemu based tests KVM enabled systems are highly recommended otherwise you will get very poor performances with runtimes about 10x slower compared to KVM enabled systems. So, you need to use bare metal instances or nested virtualization when available.
 
 Now, we will detail specific configurations to setup a remote cloud worker which has access only to the openQA API.
 
@@ -95,14 +95,14 @@ sudo zypper install openQA-worker os-autoinst-distri-opensuse-deps
 ```
 
 
-### Get API keys from openQA webui host
+### Get API keys from openQA web UI host
 
-Create a new set of API keys from [openQA webui](https://openqa.opensuse.org/api_keys) or ask someone with admin permissions to create a set for you.
+Create a new set of API keys from [openQA web UI](https://openqa.opensuse.org/api_keys) or ask someone with admin permissions to create a set for you.
 
 
 ### Setup worker to use API keys and cache
 
-With a remote worker, you cannot NFS mount `/var/lib/openqa/cache` from the openQA server as only the openQA API is reachable. Instead, you must use the [cache service](http://open.qa/docs/#_asset_caching) described below.
+With a remote worker, you cannot NFS mount `/var/lib/openqa/cache` from the openQA server as only the openQA API is reachable. Instead, you must use the [cache service](http://open.qa/docs/#_asset_caching) as described below.
 
 Update `/etc/openqa/workers.ini` with:
 
@@ -114,7 +114,7 @@ CACHELIMIT = 50 # GB, default is 50.
 CACHEWORKERS = 5 # Number of parallel cache minion workers, defaults to 5
 ```
 
-Update `/etc/openqa/client.conf` with the key generated from webui:
+Update `/etc/openqa/client.conf` with the key generated from web UI:
 
 ```
 [openqa.opensuse.org]
@@ -137,7 +137,7 @@ sudo systemctl enable --now openqa-worker-cacheservice-minion
 
 ### Synchronize tests and needles
 
-Tests and needles are not part of the cache services, but are hold in GIT repositories, so you need to setup an auto-update of those repos. Currently, the easiest way is to use the `fetchneedles` script from openQA package to fecth GIT repos and create a cron job to update it often enough (say, every minute).
+Tests and needles are not part of the cache services, but are hold in GIT repositories, so you need to setup an auto-update of those repos. Currently, the easiest way is to use the `fetchneedles` script from openQA package to fetch Git repos and create a cron job to update it often enough (say, every minute).
 
 Install required package and run the fetch script a first time.
 
@@ -155,7 +155,7 @@ cd /var/lib/openqa/share/tests/opensuse/products/microos
 sudo ln -s ../opensuse/needles/ 
 ```
 
-Now, add a cron job to fecth tests/needles every minute `/etc/cron.d/fetchneedles`:
+Now, add a cron job to fetch tests and needles every minute `/etc/cron.d/fetchneedles`:
 
 ```
  -*/1    * * * *  geekotest     env updateall=1 /usr/share/openqa/script/fetchneedles
@@ -176,6 +176,6 @@ Now you can (re)start your worker(s):
 sudo systemctl enable --now openqa-worker@1
 ```
 
-And, your remote worker should be registred on the openQA server. Check the `/admin/workers` page from the openQA webUI. Enjoy!
+And, your remote worker should be registered on the openQA server. Check the `/admin/workers` page from the openQA web UI. Enjoy!
 
 _Have a lot of fun!_
