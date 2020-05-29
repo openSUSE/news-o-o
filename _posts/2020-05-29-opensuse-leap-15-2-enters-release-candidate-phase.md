@@ -26,7 +26,7 @@ tags:
 
 ---
 
-The openSUSE community, contributors and release engineers for the project have entered into the release candidate phase today after the [Build 665.2 snapshot](https://openqa.opensuse.org/tests/overview?distri=opensuse&version=15.2&build=665.2&groupid=50) was for the upcoming openSUSE Leap 15.2 version.  
+The openSUSE community, contributors and release engineers for the project have entered into the release candidate phase today after the [Build 665.2 snapshot](https://openqa.opensuse.org/tests/overview?distri=opensuse&version=15.2&build=665.2&groupid=50) was released for the upcoming openSUSE Leap 15.2 version.  
 
 In an [email to the openSUSE Factory mailing list](https://lists.opensuse.org/opensuse-factory/2020-05/msg00254.html), Leap release manager Lubos Kocman recommended Beta and RC users using the "zypper dup" command in the terminal prior switching to the General Availability (GA).
 
