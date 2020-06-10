@@ -56,7 +56,7 @@ f) Advocating, Promoting, Marketing LibreOffice
 
 Talks can range from easy to difficult and there are 15 minute, 30 minute and 45 minute slots available. 
 
-The openSUSE + LibreOffice Conference organizers would like to hear immediately from community members who would be interested in organizing mini-online summits to go along with the conference in their local language. The idea would be that the mini-online summits could reach greater audiences for communities that are willing to help with organizing it. While the openSUSE + LibreOffice Conference will be done in English, the mini-online summits can be done in a local language. For those who are interested, email ddemaio@opensuse.org with the subject “openSUSE + LibreOffice Conference Mini-Summit”.
+The openSUSE + LibreOffice Conference organizers would like to hear immediately from community members who would be interested in organizing mini-online summits to go along with the conference in their local language. The idea would be that the mini-online summits could reach greater audiences for communities that are willing to help with organizing it, as it happens for the monthly events organized by the LibreOffice Spanish speaking community. While the openSUSE + LibreOffice Conference will be done in English, the mini-online summits can be done in a local language. For languages spoken in several countries with active communities (for instance, French, German and Spanish), the efforts will have to be coordinated in order to involve all volunteers. For those who are interested, email ddemaio@opensuse.org with the subject “openSUSE + LibreOffice Conference Mini-Summit”.
 
 How to submit a proposal
 
