@@ -1,6 +1,6 @@
 ---
 author: Douglas DeMaio
-date: 2020-06-17 09:30:00+00:30
+date: 2020-06-17 10:00:00+10:00
 layout: post
 license: CC-BY-SA-3.0
 title: openSUSE + LibreOffice Conference Update
