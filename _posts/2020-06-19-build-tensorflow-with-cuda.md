@@ -18,7 +18,7 @@ tags:
 ---
 
 # Build Tensorflow 2.1.1 with CUDA support
-Tensorflow 2.1.1 is available in Tumbleweed and Leap 15.2 but has no CUDA support enabled, due to legal issues with NVIDIA. As CUDA support speeds up training and interference of neuronal networks a lot, it is desirable to have it enabled.
+Tensorflow 2.1.1 is available in Tumbleweed and Leap 15.2 but has no CUDA support enabled, due to legal issues with NVIDIA. As CUDA support speeds up training and inference of neuronal networks a lot, it is desirable to have it enabled.
 
 This post explains how to build a tensorflow package with CUDA support.
 
