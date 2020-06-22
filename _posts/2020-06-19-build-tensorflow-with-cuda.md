@@ -2,7 +2,7 @@
 author: Christian Goll
 date: 2020-06-19 12:00:00+01:00
 layout: post
-image: assets/images/2020-06-19/tf_logo_horizontal.png
+image: /assets/images/2020-06-19/tf_logo_horizontal.png
 license: CC-BY-SA-3.0
 title: Build tensorflow2 with CUDA support
 categories:
