@@ -33,6 +33,7 @@ openSUSE News Website, providing news to the community.
 
 ## How to build?
 
+In order to run ``bundle`` the two following addional packages are needed: ``ruby2.5-rubygem-bundler ruby2.5-devel``.
 ```bash
 bundle install --path vendor/bundle
 bundle exec jekyll build
