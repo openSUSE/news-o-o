@@ -12,6 +12,9 @@ piwik_site_id: 13
 
 excerpt_separator: <!--more-->
 
+navbar_class: sticky-top
+enable_feed: true
+
 navbar_links:
   - categories
   -
