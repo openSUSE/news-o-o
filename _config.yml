@@ -12,7 +12,7 @@ piwik_site_id: 13
 
 excerpt_separator: <!--more-->
 
-navbar_class: sticky-top
+navbar_class: navbar-expand-md sticky-top
 enable_feed: true
 
 navbar_links:
