@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/opensuse/jekyll-theme.git
-  revision: 340ccbd483b6ca14d95197a84c62378decd622a4
+  revision: 418a6b4f822b90cdabcdf6a26a9d26f9861f0323
   specs:
-    jekyll-theme-opensuse (0.7.0)
+    jekyll-theme-opensuse (0.7.1)
       jekyll
       jekyll-archives
       jekyll-paginate
@@ -21,7 +21,7 @@ GEM
     ffi (1.13.1)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
-    i18n (1.8.3)
+    i18n (1.8.5)
       concurrent-ruby (~> 1.0)
     jekyll (4.1.1)
       addressable (~> 2.4)
@@ -61,7 +61,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
-    rouge (3.20.0)
+    rouge (3.21.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
