@@ -4,7 +4,7 @@ date: 2020-07-02 14:00:00+14:00
 layout: post
 image: /wp-content/uploads/2020/06/Leap-container.png
 license: CC-BY-SA-3.0
-title: openSUSE Leap "15.2" Release Brings Exciting New Artificial Intelligence (AI), Machine Learning, and Container Packages
+title: openSUSE Leap 15.2 Release Brings Exciting New Artificial Intelligence (AI), Machine Learning, and Container Packages
 categories:
 - openSUSE
 - Announcements
@@ -13,11 +13,11 @@ categories:
 - Project
 - Weekly News
 tags:
-- openSUSE Leap 15.2
+- openSUSE Leap "15.2"
 - KDE
-- Plasma 5.18
-- Xfce 4.14
-- GNOME 3.34
+- Plasma "5.18"
+- Xfce "4.14"
+- GNOME "3.34"
 - arm64
 - Power
 - X86

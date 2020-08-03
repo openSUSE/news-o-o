@@ -4,7 +4,7 @@ date: 2020-07-17 11:00:00+11:00
 layout: post
 image: /wp-content/uploads/2020/06/152closeup.png
 license: CC-BY-SA-3.0
-title: Release Team Asks for Feedback on openSUSE Leap "15.2"
+title: Release Team Asks for Feedback on openSUSE Leap 15.2
 categories:
 - openSUSE
 - Announcements
@@ -12,11 +12,11 @@ categories:
 - Project
 - Weekly News
 tags:
-- openSUSE Leap 15.2
+- openSUSE Leap "15.2"
 - KDE
-- Plasma 5.18
-- Xfce 4.14
-- GNOME 3.34
+- Plasma "5.18"
+- Xfce "4.14"
+- GNOME "3.34"
 - arm64
 - Power
 - X86
