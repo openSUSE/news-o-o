@@ -3,7 +3,7 @@ author: Dario Faggioli
 date: 2020-08-03 23:06:17+00:00
 layout: post
 license: CC-BY-SA-3.0
-title: Leap 15.2 Install party @ GOLEM - A quick report
+title: Leap "15.2" Install party @ GOLEM - A quick report
 image: /assets/images/2020-08-03/release-party.png
 categories:
 - openSUSE
