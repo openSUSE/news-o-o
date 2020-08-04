@@ -3,7 +3,7 @@ author: Douglas DeMaio
 date: 2020-05-29 14:15:14+15:00
 layout: post
 license: CC-BY-SA-3.0
-title: openSUSE Leap "15.2" Enters Release Candidate Phase 
+title: openSUSE Leap 15.2 Enters Release Candidate Phase 
 image: /assets/images/JustLeap.png
 categories:
 - openSUSE

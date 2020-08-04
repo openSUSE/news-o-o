@@ -3,7 +3,7 @@ author: Douglas DeMaio
 date: 2020-06-22 17:15:17+17:00
 layout: post
 license: CC-BY-SA-3.0
-title: Help promote openSUSE  Leap "15.2"! 
+title: Help promote openSUSE Leap 15.2! 
 image: /wp-content/uploads/2020/06/large.png
 categories:
 - openSUSE

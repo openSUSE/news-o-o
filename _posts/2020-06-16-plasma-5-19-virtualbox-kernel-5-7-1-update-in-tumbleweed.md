@@ -3,7 +3,7 @@ author: Douglas DeMaio
 date: 2020-06-16 17:15:17+17:00
 layout: post
 license: CC-BY-SA-3.0
-title: Plasma "5.19", Virtualbox, Kernel "5.7.1" update in Tumbleweed 
+title: Plasma 5.19, Virtualbox, Kernel 5.7.1 update in Tumbleweed 
 image: /wp-content/uploads/2020/06/plasma-5.19-2.png
 categories:
 - openSUSE
