@@ -4,7 +4,7 @@ date: 2020-06-26 13:00:00+13:00
 layout: post
 image: /wp-content/uploads/2020/06/libreofficeos.png
 license: CC-BY-SA-3.0
-title: Tumbleweed Gets LibreOffice "7", New Breezy Features
+title: Tumbleweed Gets LibreOffice 7, New Breezy Features
 categories:
 - openSUSE
 - Announcements
