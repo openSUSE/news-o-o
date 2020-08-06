@@ -55,7 +55,7 @@ tags:
 
 ---
 
-Members of the openSUSE community will have two retrospective meeting on the release of openSUSE Leap 15.2 after receiving feedback from the [recent survey](https://news.opensuse.org/2020/07/17/release-team-asks-for-feedback-on-leap-15-2/).
+Members of the openSUSE community will have two retrospective meetings about the release of openSUSE Leap 15.2 after receiving feedback from the [recent survey](https://news.opensuse.org/2020/07/17/release-team-asks-for-feedback-on-leap-15-2/).
 
 The meetings are scheduled for tomorrow, Thursday, at 06:00 - 08:00 UTC and 15:00 - 17:00 UTC.
 
@@ -67,6 +67,6 @@ Release Manager Luboš Kocman provided a short summary about the feedback receiv
 
 The retrospective is open for anyone who would like to attend. The two rounds of reviews will go over results and turn them into actionable items. There is also the possibility to have an additional meeting if more time is needed.
 
-The anonymous findings can be found on [the openSUSE therpad](https://etherpad.opensuse.org/p/ReleaseEngineering-Leap-15.2-retro-20200804).
+The anonymous findings can be found on [the openSUSE etherpad](https://etherpad.opensuse.org/p/ReleaseEngineering-Leap-15.2-retro-20200804).
 
 The virtual review meetings will take place at [https://meet.opensuse.org/ReleaseEngineeringMeeting](https://meet.opensuse.org/ReleaseEngineeringMeeting).
