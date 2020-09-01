@@ -17,7 +17,7 @@ tags:
 
 ---
 
-Ritchie is an open source tool developed from [ZUP Company](https://opensource.zup.com.br/) that allows you to create, store and share automations securely. It also optimizes repetitive commands so you have more programming autonomy. As a member of the openSUSE community, I make the [packages](https://software.opensuse.org/package/ritchie-cli) available to all openSUSE users.
+Ritchie is an open source tool developed from [ZUP Company](https://opensource.zup.com.br/) that allows you to create, store and share automations securely. It also optimizes repetitive commands so you have more programming autonomy. As a member of the openSUSE community, I am working to add a new package to Factory and all help from the openSUSE community is welcome. The [packages](https://software.opensuse.org/package/ritchie-cli) are currently in my OBS home project available to all openSUSE users interested in testing.
 
 How does Ritchie work?
 
