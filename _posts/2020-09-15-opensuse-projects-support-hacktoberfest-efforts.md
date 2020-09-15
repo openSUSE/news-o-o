@@ -55,9 +55,9 @@ Anyone who would like to contribute to RMT can view how to do so in the [contrib
 Documentation can be found [https://open.qa/docs/](https://open.qa/docs/) and [https://open.qa/api/testapi/](https://open.qa/api/testapi/). There are [tutorial videos on Youtube](https://youtu.be/2zwU9_bV_zI) that go in depth on how to use the software. Quickstarts to setup your local instance are available at [https://open.qa/docs/#bootstrapping](https://open.qa/docs/#bootstrapping) and [https://youtu.be/lo929gSEtms](https://youtu.be/lo929gSEtms) (livestream recording)
 
 Repositories can be found at:
-- webUI + scheduler: https://github.com/os-autoinst/openQA
-- backend: https://github.com/os-autoinst/os-autoinst
-- testcases and needles for openSUSE: https://github.com/os-autoinst/os-autoinst-distri-opensuse and https://github.com/os-autoinst/os-autoinst-needles-opensuse
+- webUI + scheduler: [https://github.com/os-autoinst/openQA](https://github.com/os-autoinst/openQA)
+- backend: [https://github.com/os-autoinst/os-autoinst](https://github.com/os-autoinst/os-autoinst)
+- testcases and needles for openSUSE: [https://github.com/os-autoinst/os-autoinst-distri-opensuse](https://github.com/os-autoinst/os-autoinst-distri-opensuse) and [https://github.com/os-autoinst/os-autoinst-needles-opensuse](https://github.com/os-autoinst/os-autoinst-needles-opensuse)
 
 To Reach the community, go to the #opensuse-factory channel on freenode.net IRC
 
