@@ -66,8 +66,8 @@ To Reach the community, go to the #opensuse-factory channel on freenode.net IRC
 Named after the largest salt flat in the world, [Uyuni](https://www.uyuni-project.org/) is a configuration and infrastructure management tool that saves people time and headaches when managing updates of tens, hundreds or even thousands of machines. 
 
 There have been many talks about Uyuni and many can be found on [the project’s Youtube Page](https://www.youtube.com/channel/UCB0SkZFAw9vPCFeUIYqZQ5A).
-Presentation slides a can be found on [slideshare](https://www.slideshare.net/UyuniProject/uyuni-introduction-how-to-do-systems-management-238384947]. There is also information about getting started for developers and translators at [https://github.com/uyuni-project/uyuni/wiki](https://github.com/uyuni-project/uyuni/wiki) and [https://github.com/uyuni-project/uyuni/wiki/Translating-Uyuni-to-your-language](https://github.com/uyuni-project/uyuni/wiki).
+Presentation slides a can be found on [slideshare](https://www.slideshare.net/UyuniProject/uyuni-introduction-how-to-do-systems-management-238384947). There is also information about getting started for developers and translators at [https://github.com/uyuni-project/uyuni/wiki](https://github.com/uyuni-project/uyuni/wiki) and [https://github.com/uyuni-project/uyuni/wiki/Translating-Uyuni-to-your-language](https://github.com/uyuni-project/uyuni/wiki).
 
 A quick setup guide is available at [https://github.com/uyuni-project/sumaform](https://github.com/uyuni-project/sumaform) and people can start [Hacktoberfest issues](https://github.com/uyuni-project/uyuni/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Ahacktoberfest).
 
-Hacktoberfest participants can communication with members of the Uyuni Project through [Gitter chat](https://gitter.im/uyuni-project) or the [mailing lists](https://www.uyuni-project.org/pages/contact.html].
+Hacktoberfest participants can communication with members of the Uyuni Project through [Gitter chat](https://gitter.im/uyuni-project) or the [mailing lists](https://www.uyuni-project.org/pages/contact.html).
