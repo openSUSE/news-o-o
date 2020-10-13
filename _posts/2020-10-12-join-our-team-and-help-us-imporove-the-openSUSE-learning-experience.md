@@ -27,14 +27,14 @@ It is with this goal in sight that we are calling the community for more volunte
 
 So now you can't say you didn't know. Do reach out and come with us shape the future of the openSUSE learning experience! You can find us on the following platforms: 
 
-- Telegram group: https://t.me/opensuse_docs 
+- Telegram group: [https://t.me/opensuse_docs](https://t.me/opensuse_docs)
 
-- IRC bridge: https://matrix.to/#/#docs:opensuse.org 
+- IRC bridge: [https://matrix.to/#/#docs:opensuse.org](https://matrix.to/#/#docs:opensuse.org)
 
-- Discord bridge: https://disboard.org/fr/server/366985425371398146 then Contributing > docs 
+- Discord bridge: [https://disboard.org/fr/server/366985425371398146](https://disboard.org/fr/server/366985425371398146) then Contributing > docs 
 
-- mailing list: https://lists.opensuse.org/opensuse-doc/ 
+- mailing list: [https://lists.opensuse.org/opensuse-doc/](https://lists.opensuse.org/opensuse-doc/)
 
-Last but not least: this is part of a collective effort so we are happy to relay to you that get.opensuse.org -- the future entry-point to the openSUSE web platforms -- is also looking for volunteers. Their goal is to deploy by November and they are still looking for committers to the repo at https://github.com/opensuse/get-o-o as well as translators. Translation tasks can be picked up at http://l10n.opensuse.org. Everyone interested is welcome to get in touch with Stasiek Michalski for details. 
+Last but not least: this is part of a collective effort so we are happy to relay to you that [get.opensuse.org](https://get.opensuse.org/) -- the future entry-point to the openSUSE web platforms -- is also looking for volunteers. Their goal is to deploy by November and they are still looking for committers to the repo at [GitHub](https://github.com/opensuse/get-o-o) as well as translators. Translation tasks can be picked up at [http://l10n.opensuse.org](http://l10n.opensuse.org). Everyone interested is welcome to get in touch with Stasiek Michalski for details. 
 
 Looking forward to meeting you!
