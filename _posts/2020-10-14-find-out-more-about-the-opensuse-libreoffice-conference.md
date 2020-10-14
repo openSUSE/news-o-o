@@ -2,7 +2,7 @@
 author: Douglas DeMaio
 date: 2020-10-14 17:00:00+17:00
 layout: post
-image: /wp-content/uploads/2020/10/osloscreenshot.png)
+image: /wp-content/uploads/2020/10/osloscreenshot.png
 license: CC-BY-SA-3.0
 title: Find out more about the openSUSE + LibreOffice Conference
 categories:
