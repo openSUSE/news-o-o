@@ -1,5 +1,5 @@
 ---
-author: The OBS Team
+author: Douglas DeMaio
 date: 2020-10-23 15:45:00+15:45
 layout: post
 image: /wp-content/uploads/2020/10/Vimlogo.png
