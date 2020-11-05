@@ -7,7 +7,6 @@ title: Cloud based workers for openQA
 image: /assets/images/2020-05-20/RPi3_and_SabreLite.jpg
 categories:
 - infrastructure
-- 
 tags:
 - infrastructure
 - openQA
