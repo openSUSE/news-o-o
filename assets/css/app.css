@@ -3,12 +3,20 @@
   padding-bottom: 1rem;
 }
 
+/* TODO: Do not use display block for all images inside an article. This breaks
+ * plugins (such us jemoji) and doesn't allow the authors to decide how they
+ * want to render the images in their blog posts (for example if they want to
+ * render three images in a row). */
 .article img {
   margin-left: auto;
   margin-right: auto;
   display: block;
   max-width: 100%;
   height: auto;
+}
+/* This is only needed because display block is used for all images inside an article */
+img.emoji{
+  display: inline !IMPORTANT
 }
 
 .h-carousel {
