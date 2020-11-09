@@ -34,7 +34,7 @@ tags:
 
 
 ---
-The openSUSE release team [openSUSE Project](https://www.opensuse.org) has established a [survey](https://survey.opensuse.org/) to gain greater insights into the use cases of people using or developing for ARMv6, ARMv7 and ARMv8. 
+The [openSUSE release team](https://www.opensuse.org) has established a [survey](https://survey.opensuse.org/) to gain greater insights into the use cases of people using or developing for ARMv6, ARMv7 and ARMv8. 
 
 The introduction to the [survey](https://survey.opensuse.org/) explains that ARMv7 architecture is currently being challenged by the new [Jump](https://en.opensuse.org/Portal:15.3) development model of [openSUSE Leap](https://en.opensuse.org/Portal:Leap). 
 
