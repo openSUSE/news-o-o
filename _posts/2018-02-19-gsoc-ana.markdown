@@ -5,6 +5,8 @@ date: 2018-02-19 07:10:18+00:00
 layout: post
 link: https://news.opensuse.org/2018/02/19/gsoc-ana/
 slug: gsoc-ana
+license: CC-BY-4.0
+image: /wp-content/uploads/2018/02/gsoc-in-indonesia-meetup.jpg
 title: University students, openSUSE participates in GSoC!
 wordpress_id: 20685
 categories:
@@ -25,7 +27,7 @@ tags:
 - yast
 ---
 
-[openSUSE](https://www.opensuse.org/) participates again in [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. ![:sunny:](https://assets-cdn.github.com/images/icons/emoji/unicode/2600.png) With this article, I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage students to get involved in openSUSE development through GSoC.
+[openSUSE](https://www.opensuse.org/) participates again in [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. :sunny: With this article, I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage students to get involved in openSUSE development through GSoC.
 
 
 ### Why open source and openSUSE?
@@ -52,11 +54,6 @@ First of all, you may wonder why you should want to get involved in open source 
 
 
 
-### 
-
-
-
-
 ### Why GSoC?
 
 
@@ -66,11 +63,11 @@ Starting is always difficult, but you don’t have to do it alone! In openSUSE, 
 ### Projects
 
 
-At openSUSE, you can find projects written in [Ruby on Rails](//rubyonrails.org/), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en), [HTML/JavaScript](https://www.w3schools.com/html/html_scripts.asp), [C/C++](https://en.wikipedia.org/wiki/C%2B%2B) and much more. This year you can work during GSoC in some of the most central and biggest projects in openSUSE: [Open Build Service](https://github.com/openSUSE/open-build-service), [openQA](https://github.com/os-autoinst/openQA) and [YaST](https://github.com/yast). They will for sure be challenging projects to work in, but don’t get scared, as that means that you will learn a lot from it too. And remember that your mentors and other openSUSE contributors will be there to help you!
+At openSUSE, you can find projects written in [Ruby on Rails](https://rubyonrails.org/), [Perl](https://www.perl.org/), [Ruby](https://www.ruby-lang.org/en), [HTML/JavaScript](https://www.w3schools.com/html/html_scripts.asp), [C/C++](https://en.wikipedia.org/wiki/C%2B%2B) and much more. This year you can work during GSoC in some of the most central and biggest projects in openSUSE: [Open Build Service](https://github.com/openSUSE/open-build-service), [openQA](https://github.com/os-autoinst/openQA) and [YaST](https://github.com/yast). They will for sure be challenging projects to work in, but don’t get scared, as that means that you will learn a lot from it too. And remember that your mentors and other openSUSE contributors will be there to help you!
 
 But we also have simpler projects such as [Trollolo](https://github.com/openSUSE/trollolo), where any computer science university student could get started with Ruby. The desire to learn is much more important than the previous experience and knowledge.
 
-<!-- more -->You can find all the projects and more information in our mentoring page: **[//101.opensuse.org](//101.opensuse.org/)**. And if the projects at openSUSE don’t match your expectations, you can check other organizations: [https://summerofcode.withgoogle.com/organizations](https://summerofcode.withgoogle.com/organizations). You should look for a project that you consider interesting and that will allow you to learn as much as possible.
+<!-- more -->You can find all the projects and more information in our mentoring page: **[https://101.opensuse.org](https://101.opensuse.org/)**. And if the projects at openSUSE don’t match your expectations, you can check other organizations: [https://summerofcode.withgoogle.com/organizations](https://summerofcode.withgoogle.com/organizations). You should look for a project that you consider interesting and that will allow you to learn as much as possible.
 
 
 ### Let’s do it!
@@ -78,20 +75,14 @@ But we also have simpler projects such as [Trollolo](https://github.com/openSUS
 
 The GSoC application period starts on March 12th, but you can already take a look at the organizations and projects and find the best one for you. Approaching the people in the project is also important, as you will be working with them for three months. We recommend to make at least one contribution to the project you want to apply for as that will help you to find out if this is the right project for you and to write a good proposal; you do not need to send a lot of pull requests. Remember that quality is more important than quantity!
 
-And if you have doubts do not hesitate to contact us. You can tweet us at [@opensusementors](https://twitter.com/@opensusementors), write in our mailing list ([opensuse-project@opensuse.org](mailto:opensuse-project@opensuse.org)) or directly contact the mentors. We are looking forward to hear from you, so don’t be shy! ![:green_heart:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f49a.png)
-
-![](/wp-content/uploads/2018/02/gsoc-in-indonesia-meetup.jpg)
-
-
-### 
-
+And if you have doubts do not hesitate to contact us. You can tweet us at [@opensusementors](https://twitter.com/@opensusementors), write in our mailing list ([opensuse-project@opensuse.org](mailto:opensuse-project@opensuse.org)) or directly contact the mentors. We are looking forward to hear from you, so don’t be shy! :green_heart:
 
 
 
 ### About me
 
 
-My name is [Ana María Martínez](//anamaria.martinezgomez.name) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](//openbuildservice.org/) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)), IRC (@Ana06) and by writting a comment in this blog post. ![:wink:](https://assets-cdn.github.com/images/icons/emoji/unicode/1f609.png)
+My name is [Ana María Martínez](https://anamaria.martinezgomez.name) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](https://openbuildservice.org/) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)), IRC (@Ana06) and by writting a comment in this blog post. :wink:
 
 
 
@@ -99,4 +90,4 @@ My name is [Ana María Martínez](//anamaria.martinezgomez.name) and I started
 
 
 
-This blog post original version can be found at [//anamaria.martinezgomez.name/2018/09/05/opensuse-asia-summit.html](//anamaria.martinezgomez.name/2018/02/15/gsoc-in-indonesia.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](//creativecommons.org/licenses/by/4.0/). 
+This blog post original version can be found at [https://anamaria.martinezgomez.name/2018/02/15/gsoc-in-indonesia.html](https://anamaria.martinezgomez.name/2018/02/15/gsoc-in-indonesia.html) This blog post's content is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

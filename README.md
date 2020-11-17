@@ -50,6 +50,13 @@ bundle exec jekyll serve
 
 Visit <http://127.0.0.1:4000/> in your browser.
 
+## How to use emojis in your blog post?
+
+We are using the [Jemoji plugin](https://github.com/jekyll/jemoji), which allows you to use GitHub like syntax for emojis in your blog posts.
+For example, `it's raining :cat:s and :dog:s!`, will be rendered as:
+
+> it's raining :cat:s and :dog:s!
+
 ## How to update the theme?
 
 If there's a newer revison of the [openSUSE jekyll-theme](https://github.com/openSUSE/jekyll-theme) you need to put the commit id into [Gemfile.lock](https://github.com/openSUSE/news-o-o/blob/master/Gemfile.lock#L3) and count up the [version number](https://github.com/openSUSE/news-o-o/blob/master/Gemfile.lock#L5).
