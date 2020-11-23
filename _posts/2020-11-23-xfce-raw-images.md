@@ -47,7 +47,7 @@ You can find more detailed information on how to use these images in the dedicat
 
 ## Contributing
 
-Like any other team in openSUSE the Xfce team is always happy to welcome people interested in development, packaging, testing and reporting bugs. Find out more about our work [here](https://en.opensuse.org/Portal:Xfce) and say hello in the chat if you like! [7]
+Like any other team in openSUSE the Xfce team is always happy to welcome people interested in development, packaging, testing and reporting bugs. Find out more about our work [here](https://en.opensuse.org/Portal:Xfce) and say hello in the chat if you like!
 
 
-[1] RAT stands for Released Ahead of Time. Courtesy of this word play is LCP.
+<sup>[1] RAT stands for Released Ahead of Time. Courtesy of this word play is LCP.</sup>
