@@ -34,11 +34,9 @@ To help upstream Xfce development there is another disk image accompanying the o
 
 ## Downloads
 
- * openSUSE version:
-   
+ * openSUSE version: \
    [https://download.opensuse.org/repositories/X11:/xfce:/rat:/images/images/](https://download.opensuse.org/repositories/X11:/xfce:/rat:/images/images/)
- * Upstream version: 
-   
+ * Upstream version: \
    [https://download.opensuse.org/repositories/X11:/xfce:/rat:/images:/upstream/images/](https://download.opensuse.org/repositories/X11:/xfce:/rat:/images:/upstream/images/)
 
 ## Usage
