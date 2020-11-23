@@ -22,7 +22,7 @@ The openSUSE distributions offer a variety of graphical desktop environments, on
 ## Xfce Development in openSUSE
 
 Thanks to the hard work of openSUSE's Xfce team there is a third option: Xfce Development Repository aka RAT
-In a playful way, a rat is meant to represent the unpolished nature of this release: a rat is scruffy looking compared to a mouse (the cute and beloved mascot of Xfce) [1]. And the [RAT repository](https://build.opensuse.org/project/show/X11:xfce:rat) provides packages automatically built right from the Git Master Branch of Xfce upstream development. The goal of this project is to test and preview the new software so that bugs can be spotted and fixed ahead of time by contributing upstream. The packages pull in source code state on a daily basis and offer a quite convenient way to test and eventually help development. So this is where the team builds and tests the latest and unstable releases of Xfce Desktop Environment for openSUSE.
+In a playful way, a rat is meant to represent the unpolished nature of this release: a rat is scruffy looking compared to a mouse (the cute and beloved mascot of Xfce) [^1]. And the [RAT repository](https://build.opensuse.org/project/show/X11:xfce:rat) provides packages automatically built right from the Git Master Branch of Xfce upstream development. The goal of this project is to test and preview the new software so that bugs can be spotted and fixed ahead of time by contributing upstream. The packages pull in source code state on a daily basis and offer a quite convenient way to test and eventually help development. So this is where the team builds and tests the latest and unstable releases of Xfce Desktop Environment for openSUSE.
 
 ## One step beyond
 
@@ -50,4 +50,4 @@ You can find more detailed information on how to use these images in the dedicat
 Like any other team in openSUSE the Xfce team is always happy to welcome people interested in development, packaging, testing and reporting bugs. Find out more about our work [here](https://en.opensuse.org/Portal:Xfce) and say hello in the chat if you like!
 
 
-<sup>[1] RAT stands for Released Ahead of Time. Courtesy of this word play is LCP.</sup>
+<sup>[^1] RAT stands for Released Ahead of Time. Courtesy of this word play is LCP.</sup>
