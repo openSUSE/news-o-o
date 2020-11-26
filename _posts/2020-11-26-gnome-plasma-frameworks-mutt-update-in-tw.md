@@ -1,8 +1,8 @@
 ---
 author: Douglas DeMaio
-date: 2020-11-26 15:00:00+15:00
+date: 2020-11-26 17:30:00+17:30
 layout: post
-image: /wp-content/uploads/2020/11/gnome3.38.png
+image: /wp-content/uploads/2020/11/orbis.png
 license: CC-BY-SA-3.0
 title: GNOME, KDE Frameworks, Mutt update in Tumbleweed 
 categories:
