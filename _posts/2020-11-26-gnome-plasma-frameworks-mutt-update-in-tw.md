@@ -13,8 +13,8 @@ tags:
 - openSUSE
 - Tumbleweed
 - YaST
-- GNOME "3.38"
-- Frameworks "5.76.0"
+- GNOME
+- Frameworks
 - Developers
 - Open Source
 - Breeze
