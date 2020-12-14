@@ -4,7 +4,7 @@ date: 2020-12-14 23:00:00+23:00
 layout: post
 image: /wp-content/uploads/2020/12/meet-candidates.png
 license: CC-BY-SA-3.0
-title: Board Elections: Meet the Candidates
+title: Board Elections - Meet the Candidates
 categories:
 - Announcements
 - openSUSE
