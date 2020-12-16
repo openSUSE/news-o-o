@@ -20,7 +20,6 @@ tags:
 - CentOS
 - RedHat
 - Community Enterprise
-- s390
 - arm
 - ppc64le
 - aarch64
