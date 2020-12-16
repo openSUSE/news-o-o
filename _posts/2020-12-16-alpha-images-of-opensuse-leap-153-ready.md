@@ -45,4 +45,4 @@ The point release of [Leap 15.3](https://en.opensuse.org/Portal:15.3) enters its
 
 Distro hoppers, hobbyists, users and tech enthusiasts can download the current builds and help test the releases at [software.opensuse.org/distributions/testing](https://software.opensuse.org/distributions/testing). 
 
-Users of openSUSE Leap 15.1 have until January of 2021 before it reaches its End of Live and users need to update to Leap 15.2. The Public Availability of Leap 15.3 is scheduled to be released in July, 2021. Users of Leap 15.2 will need to update to the newer version within six months of the release of Leap 15.3.
+Users of openSUSE Leap 15.1 have until January of 2021 before it reaches its End of Live and users need to update to Leap 15.2. The Public Availability of Leap 15.3 is scheduled to be released in July, 2021, according to the releases [roadmap](https://en.opensuse.org/openSUSE:Roadmap) Users of Leap 15.2 will need to update to the newer version within six months of the release of Leap 15.3.
