@@ -4,7 +4,7 @@ date: 2021-01-07 13:00:00+13:00
 layout: post
 image: /wp-content/uploads/2021/01/DEdesktop.png
 license: CC-BY-SA-3.0
-title: openSUSE Community Publishes End of Year Survey Results  
+title: openSUSE Community Publishes End of Year Survey Results
 categories:
 - Announcements
 - openSUSE
@@ -40,7 +40,7 @@ The results provided some significant information about the project’s tools, i
 
 The highest percentage of users were between the ages of 35 and 49, according to the results. More than half the respondents were from Europe; the Americas made up roughly a quarter of the respondents and Asia 10 percent. Both Oceania and Africa respondents had similar percentages below 2 percent.
  
-The respondents were predominantly college educated males working in the IT industry with more than 10 years experience with a [NIX system](https://en.wikipedia.org/wiki/Unix-like). A little less than 20 percent were pursuing an education and under the age of 25. Many identified themselves as tech hobbyists and used both openSUSE [Leap](https://en.opensuse.org/Portal:Leap) and [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) equally. A majority of contributors to the project provided user support or did packaging and maintenance. 
+The respondents were predominantly males working in the IT industry with more than 10 years experience with a [NIX system](https://en.wikipedia.org/wiki/Unix-like); almost half were college educated. A little less than 20 percent were pursuing an education and under the age of 25. Many identified themselves as tech hobbyists and used both openSUSE [Leap](https://en.opensuse.org/Portal:Leap) and [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed) equally. A majority of contributors to the project provided user support or did packaging and maintenance. 
 
 The majority of respondents used [KDE's](https://kde.org/) [Plasma](https://kde.org/plasma-desktop/) for their desktop environment followed closely by [GNOME](https://www.gnome.org/) and [Xfce](https://www.xfce.org/) respectively; more than 92 percent were satisfied or very satisfied with the desktop environment. Use of Graphics Processing Units were pretty evenly split between [Intel](https://www.intel.com), [Nvidia](https://www.nvidia.com) and [AMD](https://www.amd.com) respectively.
 
