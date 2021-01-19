@@ -99,6 +99,3 @@ DEPENDENCIES
   jekyll
   jekyll-theme-opensuse!
   jemoji (~> 0.12)
-
-BUNDLED WITH
-   1.16.1
