@@ -9,8 +9,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+    - uses: hakierspejs/jekyll-screenshot-github-action@1.0
+    - uses: actions/upload-artifact@v1
+      with:
+       name: screenshot
+       path: /home/runner/work/_temp/_github_home/screenshot.png
