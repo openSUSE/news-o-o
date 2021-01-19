@@ -1,6 +1,18 @@
 # openSUSE News
 
-openSUSE News Website, providing news to the community.
+## Should you post on news.o.o?
+
+openSUSE News Website, providing news to the community. 
+
+news.opensuse.org is meant for the publishing of official news about the openSUSE Project and it distributions. Only articles about official packages in the distribution should be published. Articles written to increase awareness of a package and the advertising of home repositories is discouraged and may be subject to the removal of the article.
+
+We advise that information that fits the following circumstances be published on the author's blogs, on an email list or other appropriate communication channel and not published on news.opensuse.org:
+
+* Information about a call to action for the community
+
+* Information about an open-source project, its community and users
+
+* "How to use" or "tutorials" about packages (official or unofficial) 
 
 ## How to submit a new post?
 
