@@ -1,6 +1,6 @@
 ---
 author: Alessandro de Oliveira Faria
-date: 2021-01-15 13:38:14-03:00
+date: 2021-01-19 11:00:00+11:00
 layout: post
 license: CC-BY-SA-3.0
 title: OAK compatibility with all openSUSE
