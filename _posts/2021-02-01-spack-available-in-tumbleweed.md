@@ -2,7 +2,7 @@
 author: Ana Guerrero Lopez
 date:   2021-02-01 15:30:00+15:30
 layout: post
-title:  Spack, now available in Tumbleweed
+title:  Spack is now available in openSUSE Tumbleweed
 image:  /assets/images/2021-02-01/spack-logo.png
 license: CC-BY-SA-3.0
 categories:
