@@ -1,6 +1,6 @@
 ---
 author: Ana Guerrero Lopez
-date:   2021-02-01 12:00:00+12:00
+date:   2021-02-01 15:30:00+15:30
 layout: post
 title:  Spack, now available in Tumbleweed
 image:  /assets/images/2021-02-01/spack-logo.png
@@ -8,27 +8,35 @@ license: CC-BY-SA-3.0
 categories:
 - openSUSE
 - Community
+- Tumbleweed
 tags:
 - openSUSE
 - SUSE
+- Tumbleweed
+- Spack
+- HPC
+- Scientific 
+- Software
 - Community
 - Build
 
 ---
-# Spack, now available in Tumbleweed
 
-If you work with scientific software, you probably know about [spack](https://spack.io/).
+The configurable Python-based HPC package manager [Spack](https://spack.io/) is now an Official package in [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed), which currently has the 0.16.0 version of Spack.
+
+If you work with scientific software, you probably know about [spack](https://software.opensuse.org/package/spack).
+
 Spack is a package manager for HPC that allows to install scientific software using provided recipes. You can easily use multiple compilers and compiler versions. And different versions of the same software can coexist peacefully.
+
 Spack is used with [environment-modules](http://modules.sourceforge.net/) or [lmod](https://lmod.readthedocs.io/en/latest/) to make easier for users to choose the software stack for their projects.
 
-However, how does this work with zypper? Spack is totally independent of zypper, when you install something with the spack provided by the openSUSE package, everything is built and installed locally  for the user under the directory `~/spack`.
+However, how does this work with zypper? Spack is totally independent of zypper. When you install something with the spack provided by the openSUSE package, everything is built and installed locally for the user under the directory `~/spack`.
 
-You have the option of building all the libraries required by the spack recipe or to use some of the libraries already installed  in your openSUSE system.
+You have the option of building all the libraries required by the spack recipe or to use some of the libraries already installed on your openSUSE system.
 
-While spack can be used directly after a git clone, we chose to package it to give users the possibility of having it better integrated with openSUSE. After installation, spack will look for all the libraries used in your system and will create
-a file `/etc/spack/packages.yaml`
+While spack can be used directly after a git clone, it was package to give users the possibility of having it better integrated with openSUSE. After installation, spack will look for all the libraries used in your system and will create a file `/etc/spack/packages.yaml`
+
 This step takes a bit of time, and you have the option of avoiding it if you create a file `/etc/spack/no_rpm_trigger` in your system *before* installing spack.
-
 
 ## How to use spack
 
