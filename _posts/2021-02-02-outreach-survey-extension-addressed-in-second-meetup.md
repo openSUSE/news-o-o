@@ -28,7 +28,9 @@ tags:
 
 ---
 
-The [second session](https://youtu.be/53avVnrNrWo) of the [openSUSE](https://www.opensuse.org/) Project’s meetup regarding the [End of the Year Survey Results](https://en.opensuse.org/End-of-year-surveys/2020/Data) on Jan. 30 led to some changes with regard to future surveys and contributors are looking to enhance outreach. 
+The [second session](https://youtu.be/53avVnrNrWo) of the [openSUSE](https://www.opensuse.org/) Project’s meetup regarding the [End of the Year Survey Results](https://en.opensuse.org/End-of-year-surveys/2020/Data) on Jan. 30 led to some changes with regard to future surveys and contributors are looking to enhance outreach.
+
+[View Meeting Minutes](https://en.opensuse.org/End-of-year-surveys/2020/Discussion) 
 
 The two-hour meetup took place on [openSUSE’s Jitsi instance](https://meet.opensuse.org/) and several community members around the globe provided input on the results and how to improve the project’s diversity as well as global use. 
 

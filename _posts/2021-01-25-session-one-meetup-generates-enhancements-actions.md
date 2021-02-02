@@ -30,6 +30,9 @@ tags:
 
 The first session of the [openSUSE](https://www.opensuse.org/) [Project’s meetup](https://news.opensuse.org/2021/01/18/meetup-will-discuss-survey-results-project-improvements/) regarding the [End of the Year Survey Results](https://en.opensuse.org/End-of-year-surveys/2020/Data) on Jan. 23 is already starting produce some actionable items from contributors. 
 
+[View Meeting Minutes](https://en.opensuse.org/End-of-year-surveys/2020/Discussion)
+
+
 The session on openSUSE’s Jitsi instance had engagement from about 20 people from around the globe.
 
 Topics discussed in the two-hour session focused on addressing pain points, transferring knowledge and promoting openSUSE projects.
