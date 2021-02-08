@@ -1,6 +1,6 @@
 ---
 author: Lubos Kocman
-date: 2021-02-09 11:57:00+00:00
+date: 2021-02-08 11:57:00+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: Reducing the scope of software.opensuse.org
