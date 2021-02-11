@@ -9,7 +9,8 @@ title: New openSUSE Step Project Looks to Build SUSE Linux Enterprise on More Ar
 categories:
 - Announcements
 - openSUSE
-- Tumbleweed
+- Leap
+- Step
 tags:
 - openSUSE
 - SUSE
