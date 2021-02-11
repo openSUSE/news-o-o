@@ -5,7 +5,7 @@ date: 2021-02-11 13:00:00+13:00
 layout: post
 image: /wp-content/uploads/2021/02/steplogo.png
 license: CC-BY-SA-3.0
-title: openSUSE's New Step Project Looks to Build SUSE Linux Enterprise on More Architectures 
+title: New openSUSE Step Project Looks to Build SUSE Linux Enterprise on More Architectures 
 categories:
 - Announcements
 - openSUSE
