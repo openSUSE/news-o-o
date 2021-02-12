@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/opensuse/jekyll-theme.git
-  revision: 46422dbef6aaf9e663a4d9d418b16127663d96e0
+  revision: 8e4dc88cccc4649a32969a6a94f024fd0bc234f9
   specs:
     jekyll-theme-opensuse (0.7.1)
       jekyll
@@ -10,7 +10,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.1.1)
+    activesupport (6.1.2.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -19,7 +19,7 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.7)
+    concurrent-ruby (1.1.8)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -31,7 +31,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.6.0)
-    i18n (1.8.7)
+    i18n (1.8.8)
       concurrent-ruby (~> 1.0)
     jekyll (4.2.0)
       addressable (~> 2.4)
@@ -99,3 +99,4 @@ DEPENDENCIES
   jekyll
   jekyll-theme-opensuse!
   jemoji (~> 0.12)
+
