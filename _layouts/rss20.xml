@@ -13,6 +13,7 @@
       <title>{{ post.title | xml_escape }}</title>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <link>{{ site.url }}{{ post.url }}</link>
+      <author>{{ site.email }} ({{ post.author }})</author>
       {% enclosure {{ post.image }} %}
       <description>{{ post.excerpt | strip_html | xml_escape | truncatewords: 50 }}</description>
       <content:encoded>{{ post.content | xml_escape }}</content:encoded>
