@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2021-03-01 16:00:00+16:00
 layout: post
-image: /wp-content/uploads/2021/03/osc21.png
+image: /wp-content/uploads/2020/02/cfpimage.png
 license: CC-BY-SA-3.0
 title: Call for Papers Open for openSUSE Conference
 categories:
@@ -42,6 +42,8 @@ The call for papers is open until May 4. This leaves a little more than 60 days 
 * New Technologies
 * Open Source
 * openSUSE
+
+<p align="center">   <img src="/wp-content/uploads/2021/03/osc21.png"> </p>
 
 The conference already has two sponsors with [Fedora](https://getfedora.org/) and [SUSE](https://www.suse.com/). Companies interested in sponsoring the event can view the [sponsorship prospectus](https://en.opensuse.org/images/4/42/OpenSUSE_Conference_2021_Sponsorship.pdf) on the [project’s wiki page](https://en.opensuse.org/Portal:Conference/Sponsor).
 
