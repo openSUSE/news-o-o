@@ -48,6 +48,6 @@ So if you are interested in helping us, or in being featured, or in getting invo
 
 Your news & community friends
 
-* https://t.me/openSUSE_newscom
-* https://matrix.to/#/#newscom:opensuse.org
-* https://discord.gg/opensuse#newscom
+* [https://t.me/openSUSE_newscom](https://t.me/openSUSE_newscom)
+* [https://matrix.to/#/#newscom:opensuse.org](https://matrix.to/#/#newscom:opensuse.org)
+* [https://discord.gg/opensuse#newscom](https://discord.gg/opensuse#newscom)
