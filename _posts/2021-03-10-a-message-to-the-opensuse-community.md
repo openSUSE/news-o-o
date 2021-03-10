@@ -3,7 +3,7 @@
 author: Community News Team
 date: 2021-03-10 14:00:00+14:00
 layout: post
-image: /wp-content/uploads/2021/03/hackweek.png
+image: /wp-content/uploads/2021/03/newsteam.png
 license: CC-BY-SA-3.0
 title: A Message to the openSUSE Community
 categories:
