@@ -54,8 +54,6 @@ The list of [101.opensuse.org](http://101.opensuse.org/) projects are:
 * [Dynamic detection of error conditions from openQA test results](https://github.com/openSUSE/mentoring/issues/121)
 * [Container-based backend for openQA](https://github.com/openSUSE/mentoring/issues/120)
 * [Logging Pipeline Plumber](https://github.com/openSUSE/mentoring/issues/164)
-* [Refactor old rpmlint checks](https://github.com/openSUSE/mentoring/issues/130)
-* [Implement a proper testing framework](https://github.com/openSUSE/mentoring/issues/129)
 * [ibus customized pre-edit themes](https://github.com/openSUSE/mentoring/issues/158)
 * [Refactor client OS support in kits](https://github.com/openSUSE/mentoring/issues/147)
 * [Add new client OS](https://github.com/openSUSE/mentoring/issues/146)
