@@ -138,7 +138,7 @@ So what did we change?
 Now if someome tries to do a ssh connect to our machine, we will see:
 
 ```
-[22:18:49] <darix> [Thu Mar 11 20:09:11 2021] [nftables] input reject IN=enp1s0 OUT= MAC=52:54:00:4c:51:6c:52:54:00:73:a1:57:08:00 SRC=172.16.16.2 DST=172.16.16.30 LEN=60 TOS=0x00 PREC=0x00 TTL=64 ID=22652 DF PROTO=TCP SPT=55574 DPT=22 WINDOW=64240 RES=0x00 SYN URGP=0
+[nftables] input reject IN=enp1s0 OUT= MAC=52:54:00:4c:51:6c:52:54:00:73:a1:57:08:00 SRC=172.16.16.2 DST=172.16.16.30 LEN=60 TOS=0x00 PREC=0x00 TTL=64 ID=22652 DF PROTO=TCP SPT=55574 DPT=22 WINDOW=64240 RES=0x00 SYN URGP=0
 ```
 
 and `nft list ruleset` will show us
