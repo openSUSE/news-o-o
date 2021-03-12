@@ -1,6 +1,6 @@
 --- 
 
-author: Lars Vogdt
+author: Lars Vogdt and Darix
 date: 2021-03-11 15:00:00+13:00
 layout: post
 image: /assets/images/2021-03-11/openSUSE_Heroes_Gateway.png
@@ -138,7 +138,7 @@ So what did we change?
 Now if someome tries to do a ssh connect to our machine, we will see:
 
 ```
-[Thu Mar 11 20:05:08 2021] [nftables] input reject IN=enp1s0 OUT= MAC=52:54:00:4c:51:6c:52:54:00:c7:a4:3a:08:00 SRC=172.16.16.11 DST=172.16.16.30 LEN=74 TOS=0x00 PREC=0x00 TTL=64 ID=54957 DF PROTO=UDP SPT=58099 DPT=53 LEN=54
+[22:18:49] <darix> [Thu Mar 11 20:09:11 2021] [nftables] input reject IN=enp1s0 OUT= MAC=52:54:00:4c:51:6c:52:54:00:73:a1:57:08:00 SRC=172.16.16.2 DST=172.16.16.30 LEN=60 TOS=0x00 PREC=0x00 TTL=64 ID=22652 DF PROTO=TCP SPT=55574 DPT=22 WINDOW=64240 RES=0x00 SYN URGP=0
 ```
 
 and `nft list ruleset` will show us
@@ -288,7 +288,4 @@ table inet filter {
 ```
 
 For more see the [nftables wiki](https://wiki.nftables.org/wiki-nftables/index.php/Main_Page)
-
-
-djaksjdk
 
