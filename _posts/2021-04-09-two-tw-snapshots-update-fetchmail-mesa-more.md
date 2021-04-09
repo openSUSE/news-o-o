@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2021-04-09 10:00:00+10:00
 layout: post
-image: /wp-content/uploads/2021/03/gettw.png
+image: /wp-content/uploads/2021/04/gtw.png
 license: CC-BY-SA-3.0
 title: Two Tumbleweed Snapshots Update Fetchmail, Mesa, More
 categories:
