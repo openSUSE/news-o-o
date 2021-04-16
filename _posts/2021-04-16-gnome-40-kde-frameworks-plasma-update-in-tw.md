@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2021-04-16 15:00:00+15:00
 layout: post
-image: /wp-content/uploads/2021/04/gnome40.webm
+image: /wp-content/uploads/2021/04/gnome40.png
 license: CC-BY-SA-3.0
 title: GNOME 40, KDE Frameworks, Plasma Update in Tumbleweed
 categories:
