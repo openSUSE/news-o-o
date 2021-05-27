@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2021-05-27 16:00:00+16:00
 layout: post
-image: /wp-content/uploads/2021/05/dav1d.png
+image: /wp-content/uploads/2021/05/david.png
 license: CC-BY-SA-3.0
 title: Mesa, Node.js, Zstd Update in Tumbleweed
 categories:
@@ -21,7 +21,6 @@ tags:
 - OpenPGP
 - CVE
 - Thunderbird
-- dav1d
 - Mesa
 - kernel
 - Linux
