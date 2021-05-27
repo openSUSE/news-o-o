@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2021-05-27 16:00:00+16:00
 layout: post
-image: /wp-content/uploads/2021/05/vid.png
+image: /wp-content/uploads/2021/04/gtw.png
 license: CC-BY-SA-3.0
 title: Mesa, Nodejs, Zstd Update in Tumbleweed
 categories:
