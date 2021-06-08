@@ -43,4 +43,4 @@ Participants must register for the event.
 
 The project also has the [openSUSE Conference](https://events.opensuse.org/) coming up from June 18 - 19. There are several talks for the conference with topics about the community, open source, new technologies, cloud computing, containers, embedded software and much more. 
 
-Kockman will also give a talk at the conference about the [survey](https://survey.opensuse.org/) results, which is open until June 16. 
+Kocman will also give a talk at the conference about the [survey](https://survey.opensuse.org/) results, which is open until June 16. 
