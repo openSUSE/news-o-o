@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2021-06-08 16:00:00+16:00
 layout: post
-image: /wp-content/uploads/2021/06/frontrunner.png 
+image: /wp-content/uploads/2021/06/obs.png 
 license: CC-BY-SA-3.0
 title: New Rebuilds Look to Advance New Hardware
 categories:
