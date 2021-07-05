@@ -3,7 +3,7 @@ author: Songlin Jiang
 date: 2021-07-05 14:00:00+14:00
 layout: post
 license: CC-BY-SA-3.0
-title: Google Summer of Code 2021: IBus Customize
+title: Google Summer of Code 2021, IBus Customize
 image: /assets/images/2021-07-05/gsoc.jpeg
 categories:
 - Google Summer of Code
