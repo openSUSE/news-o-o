@@ -41,17 +41,15 @@ Since using IME is an inseparable and most important part of many non-Latin spea
 
 ### Customize IBus
 
-Customize IBus is an [extension for GNOME](https://extensions.gnome.org/extension/4112/customize-ibus/) providing full customization for IBus. A list of features supported by this extension can be found here:
-
-https://github.com/openSUSE/Customize-IBus#features
+Customize IBus is an [extension for GNOME](https://extensions.gnome.org/extension/4112/customize-ibus/) providing full customization for IBus. A list of features supported by this extension can be found [here](https://github.com/openSUSE/Customize-IBus#features).
 
 The project is initially imported from [ibus-tweaker](https://github.com/tuberry/ibus-tweaker) since I have to start from scratch for the whole project, and I have no previous experience of creating a GNOME Shell extension before I applied for the GSoC. 
 
 [Ibus-tweaker](https://github.com/tuberry/ibus-tweaker) was a great project to start with. By learning and reusing a part of its code, I understood the mechanism behind [the IBus GJS front-end](https://gitlab.gnome.org/GNOME/gnome-shell/-/blob/master/js/ui/ibusCandidatePopup.js), further referring to [GJS documents](https://gjs-docs.gnome.org/), I finally managed to create a whole new extension providing lot more features.
 
-You can see the evolution of the project from here: https://github.com/openSUSE/Customize-IBus#changelog
+You can see the evolution of the project from [here](https://github.com/openSUSE/Customize-IBus#changelog).
 
-You can find the project repository here: https://github.com/openSUSE/Customize-IBus
+[You can find Customize IBus repository here!](https://github.com/openSUSE/Customize-IBus)
 
 ### IBus Theme Tools
 
@@ -59,7 +57,7 @@ IBus Theme Tools are specialized for extracting IBus related styles (style class
 
 The tool is coded in Python, using [tinycss2](https://github.com/Kozea/tinycss2) as a parser for the GNOME Shell theme stylesheet. 
 
-You can find the project repository here: https://github.com/openSUSE/IBus-Theme-Tools
+[You can find IBus Theme Tools repository here!](https://github.com/openSUSE/IBus-Theme-Tools)
 
 ### IBus Theme Hub
 
@@ -69,7 +67,7 @@ Currently, it has the [Microsoft IME Themes](https://github.com/openSUSE/IBus-Th
 
 If you have designed a theme for IBus, welcome to [contribute your IBus theme](https://github.com/openSUSE/IBus-Theme-Hub/issues/1) here!
 
-You can find the project repository here: https://github.com/openSUSE/IBus-Theme-Tools
+[You can find IBus Theme Hub repository here!](https://github.com/openSUSE/IBus-Theme-Hub)
 
 ## Finally...
 
