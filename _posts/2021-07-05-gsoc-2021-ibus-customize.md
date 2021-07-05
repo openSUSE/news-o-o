@@ -1,9 +1,9 @@
 ---
 author: Songlin Jiang
-date: 2021-07-05 17:45:32+08:00
+date: 2021-07-05 14:00:00+14:00
 layout: post
 license: CC-BY-SA-3.0
-title: 'GSoC 2021: IBus Customize'
+title: Google Summer of Code 2021: IBus Customize
 image: /assets/images/2021-07-05/gsoc.jpeg
 categories:
 - Google Summer of Code
@@ -17,7 +17,7 @@ tags:
 - theme
 ---
 
-Hi! My name is [Songlin Jiang](https://github.com/HollowMan6), a junior undergraduate from Lanzhou University, China, majoring in Computer Science and Technology. It's my first time participating in the Google Summer of Code. In this blog, I'm going to introduce you to my work and experience so far.
+Hi! My name is [Songlin Jiang](https://github.com/HollowMan6), a junior undergraduate from Lanzhou University, China, majoring in Computer Science and Technology. It's my first time participating in the [Google Summer of Code](https://summerofcode.withgoogle.com/) with [openSUSE Project](https://www.opensuse.org/) mentors. In this blog, I'm going to introduce you to my work and experience so far.
 
 ## About IME and IBus
 
@@ -27,7 +27,7 @@ For people unfamiliar with non-Latin languages, [IME](https://en.wikipedia.org/w
 
 ## My Project: IBus Customize
 
-Since IBus has its front-end based on GTK, and GNOME replace that front-end with its GJS version to make it more unified with GNOME, currently, the IBus theme follows the global GNOME-Shell theme in GNOME and the global GTK theme in other desktop environments, and IBus lacks customization in GNOME since `ibus-setup` (IBus Preferences command) won't work on GNOME for the previous reason.
+Since IBus has its front-end based on [GTK](https://www.gtk.org/), and [GNOME](https://www.gnome.org/) replace that front-end with its GJS version to make it more unified with GNOME, currently, the IBus theme follows the global GNOME-Shell theme in GNOME and the global GTK theme in other desktop environments, and IBus lacks customization in GNOME since `ibus-setup` (IBus Preferences command) won't work on GNOME for the previous reason.
 
 As a result, my project aims to make IBus themes separate from the current GNOME-Shell theme and GTK theme so that users can customize it with other [GNOME-Shell themes](https://www.gnome-look.org/browse/cat/134/) and [GTK themes](https://www.gnome-look.org/browse/cat/135/). And also, making an extension on GNOME providing full customization of appearance, behavior, system tray and input source indicator for IBus.
 
@@ -65,10 +65,10 @@ IBus Theme Hub is the collection of themes that can be used by the Customize IBu
 
 Currently, it has the [Microsoft IME Themes](https://github.com/openSUSE/IBus-Theme-Hub/tree/main/%E4%BB%BF%E5%BE%AE%E8%BD%AFMicrosoft).
 
-If you have designed a theme for IBus, welcome to [contribute your IBus theme](https://github.com/openSUSE/IBus-Theme-Hub/issues/1) here!
+If you have designed a theme for IBus, I welcome you to [contribute your IBus theme](https://github.com/openSUSE/IBus-Theme-Hub/issues/1) here!
 
 [You can find IBus Theme Hub repository here!](https://github.com/openSUSE/IBus-Theme-Hub)
 
 ## Finally...
 
-Hope you enjoyed this article. If you think my project helps you a lot, don't forget to share this post with your friends so that everyone can get the best use of my GSoC 2021 project.
+I hope you enjoyed this article. If you think my project helps you a lot, don't forget to share this post with your friends so that everyone can get the best use of my GSoC 2021 project.
