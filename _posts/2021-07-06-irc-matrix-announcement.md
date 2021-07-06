@@ -1,7 +1,7 @@
 ---
 
 author: Neal Gompa
-date: 2021-07-06 17:30:00-17:00
+date: 2021-07-06 17:30:00-12:00
 layout: post
 image: /wp-content/uploads/2021/07/typing.jpg
 license: CC-BY-SA-3.0
