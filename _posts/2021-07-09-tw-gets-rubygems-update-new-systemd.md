@@ -1,9 +1,9 @@
 ---
 
 author: Douglas DeMaio
-date: 2021-07-09 12:00:00+12:00
+date: 2021-07-09 12:30:00+10:00
 layout: post
-image: /wp-content/uploads/20/09/systemd.png
+image: /wp-content/uploads/2020/09/systemd.png
 license: CC-BY-SA-3.0
 title: Tumbleweed Gets RubyGems Updates, New systemd 
 categories:
