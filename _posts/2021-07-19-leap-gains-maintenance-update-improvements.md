@@ -48,7 +48,7 @@ tags:
 
 The recent release of [openSUSE Leap 15.3](https://get.opensuse.org/leap/) has gained some maintenance improvements from a new repository setup.
 
-Maintenance efforts for Leap related to [Closing the Leap Gap](https://www.suse.com/c/closing-the-leap-gap-src/) expands to having three seperate repository groups instead of one.
+Maintenance efforts for Leap related to [Closing the Leap Gap](https://www.suse.com/c/closing-the-leap-gap-src/) expands to having three separate repository groups instead of one.
 
 The openSUSE specific package repositories called oss and non-oss repositories changed. While these two repositories contained all the content of Leap 15.2 and older, they now contain only the branding and related setup packages.
 
