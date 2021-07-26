@@ -37,6 +37,8 @@ An era comes to an end. A nice one, indeed. But it also means that there might b
 
 Look at our [Forums](https://forums.opensuse.org/), our [Wikis](https://en.opensuse.org/), [Mailing Lists](https://lists.opensuse.org/) or the new [Matrix](https://chat.opensuse.org/) service. We will not stop to support you, we will do our best to keep you and your data secure. 
 
+The plan for membership management and applications to take place using [Pagure](https://code.opensuse.org).
+
 Remember to have a lot of fun!
 
 Lars - in the name of the openSUSE heroes -
