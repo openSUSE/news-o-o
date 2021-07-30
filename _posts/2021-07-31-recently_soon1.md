@@ -15,8 +15,6 @@ tags:
 
 ---
 
-## Recently and soon in openSUSE...
-
 ### Community meeting: Tell us everything!
 Today (Saturday 31st of August, 17:00 UTC) is the third installment of the recently rejuvenated Community meetings! Taking place on https://meet.opensuse.org/meeting, it will be an excellent opportunity to discuss and coordinate on solutions for improving things in the Project.
 
