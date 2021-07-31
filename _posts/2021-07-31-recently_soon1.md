@@ -21,7 +21,7 @@ Today (Saturday 31st of August, 17:00 UTC) is the third installment of the recen
 One important topic will be openSUSE Membership, soon to be affected by the shutdown of contact-o-o.
 
 ### Python developer wanted for the "defrag" community API
-In the last weaks, we've been working on "defrag" [1], a user-friendly REST API allowing users across all the platforms (e.g. Matrix, Telegram, Discord, forums, web) to perform searches for all kinds of things, e.g.: 
+In the last weaks, we've been working on "defrag" [^1], a user-friendly REST API allowing users across all the platforms (e.g. Matrix, Telegram, Discord, forums, web) to perform searches for all kinds of things, e.g.: 
 
 * zypper search 
 * documentation search 
@@ -41,7 +41,7 @@ _contact_:
 - Telegram: https://t.me/openSUSE_defrag
 - Mail: [opensuse-defrag@karatek.net](mailto:opensuse-defrag@karatek.net)
 
-[1]: Because we try and fight fragmentation in openSUSE.
+[^1]: Because we try and fight fragmentation in openSUSE.
 
 ### Documentation: Share your top "must-do" after installing an openSUSE distribution
 The new documentation platform -- slightly more focused on Tumbleweed -- is closing in on the beta release date and the team would be interested to know if the Community would like to add (or remove!) items to our [Post-installation Best Of](https://opensuse.github.io/openSUSE-docs-revamped-temp/best_of_post.html).
