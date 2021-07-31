@@ -39,7 +39,7 @@ However, working on a project like this is pretty hard with only two people. So,
 
 _contact_:
 - [Telegram](https://t.me/openSUSE_defrag)
-- Mai: [opensuse-defrag@karatek.net](mailto:opensuse-defrag@karatek.net)
+- email: [opensuse-defrag@karatek.net](mailto:opensuse-defrag@karatek.net)
 
 [^1]: Because we try and fight fragmentation in openSUSE.
 
