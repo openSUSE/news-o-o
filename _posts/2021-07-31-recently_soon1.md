@@ -3,7 +3,7 @@ author: Adrien(nycticorax@opensuse.org) & Jens (karatekhd@opensuse.org)
 date: 2021-07-31 07:30:00+00:00
 layout: post
 license: CC-BY-SA-3.0
-title: Recently and soon in openSUSE 1# 
+title: "Recently and soon in openSUSE #1" 
 image: /assets/images/2021-07-31/love_oS.jpg
 categories:
 - Announcements
