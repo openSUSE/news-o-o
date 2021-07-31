@@ -16,7 +16,7 @@ tags:
 ---
 
 ### Community meeting: Tell us everything!
-Today (Saturday 31st of August, 17:00 UTC) is the third installment of the recently rejuvenated Community meetings! Taking place on [Jist Meet](https://meet.opensuse.org/meeting), it will be an excellent opportunity to discuss and coordinate on solutions for improving things in the Project.
+Today (Saturday 31st of July, 17:00 UTC) is the third installment of the recently rejuvenated Community meetings! Taking place on [Jitsi Meet](https://meet.opensuse.org/meeting), it will be an excellent opportunity to discuss and coordinate on solutions for improving things in the Project.
 
 One important topic will be openSUSE Membership, soon to be affected by the shutdown of connect-o-o.
 
