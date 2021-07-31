@@ -16,7 +16,7 @@ tags:
 ---
 
 ### Community meeting: Tell us everything!
-Today (Saturday 31st of August, 17:00 UTC) is the third installment of the recently rejuvenated Community meetings! Taking place on https://meet.opensuse.org/meeting, it will be an excellent opportunity to discuss and coordinate on solutions for improving things in the Project.
+Today (Saturday 31st of August, 17:00 UTC) is the third installment of the recently rejuvenated Community meetings! Taking place on [Jist Meet](https://meet.opensuse.org/meeting), it will be an excellent opportunity to discuss and coordinate on solutions for improving things in the Project.
 
 One important topic will be openSUSE Membership, soon to be affected by the shutdown of contact-o-o.
 
@@ -38,8 +38,8 @@ Right now, two people are working on defrag, [KaratekHD](https://en.opensuse.org
 However, working on a project like this is pretty hard with only two people. So, we are looking for at least a third person to help us building our API. If you're a Python developer and would like to help out in defrag, please get in touch with us. We'd love to hear from you!
 
 _contact_:
-- Telegram: https://t.me/openSUSE_defrag
-- Mail: [opensuse-defrag@karatek.net](mailto:opensuse-defrag@karatek.net)
+- [Telegram](https://t.me/openSUSE_defrag)
+- Mai: [opensuse-defrag@karatek.net](mailto:opensuse-defrag@karatek.net)
 
 [^1]: Because we try and fight fragmentation in openSUSE.
 
@@ -50,12 +50,12 @@ If you have any tip that's not covered already, your suggestions will be wholehe
 
 _contact_:
 - Matrix: #docs:opensuse.org
-- Telegram: https://t.me/opensuse_docs
+- [Telegram](https://t.me/opensuse_docs)
 
 ### Bonus: Interview of Dominique Leuenberger
 Dominique Leuenberger, release manager of Tumbleweed, has kindly agreed to an interview to be held in the upcoming weeks. Even though the interview will not be held live for reasons of simplicity, questions from the Community are very welcome! Join us on one of the two channels below and let us know if you want to hear Dominique on something we didn't think of!
 
 _contact_:
 - Matrix: #newscom:opensuse.org
-- Telegram: https://t.me/openSUSE_newscom
+- [Telegram](https://t.me/openSUSE_newscom)
 
