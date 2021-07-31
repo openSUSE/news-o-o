@@ -18,7 +18,7 @@ tags:
 ### Community meeting: Tell us everything!
 Today (Saturday 31st of August, 17:00 UTC) is the third installment of the recently rejuvenated Community meetings! Taking place on [Jist Meet](https://meet.opensuse.org/meeting), it will be an excellent opportunity to discuss and coordinate on solutions for improving things in the Project.
 
-One important topic will be openSUSE Membership, soon to be affected by the shutdown of contact-o-o.
+One important topic will be openSUSE Membership, soon to be affected by the shutdown of connect-o-o.
 
 ### Python developer wanted for the "defrag" community API
 In the last weaks, we've been working on "defrag" [^1], a user-friendly REST API allowing users across all the platforms (e.g. Matrix, Telegram, Discord, forums, web) to perform searches for all kinds of things, e.g.: 
