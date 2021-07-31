@@ -1,5 +1,5 @@
 ---
-author: nycticorax@opensuse.org & karatekhd@opensuse.org
+author: Adrien(nycticorax@opensuse.org) & Jens (karatekhd@opensuse.org)
 date: 2021-07-31 07:30:00+00:00
 layout: post
 license: CC-BY-SA-3.0
