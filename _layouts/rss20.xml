@@ -9,7 +9,7 @@
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
 {% for post in site.posts limit:10 %}
     <item>
-      <guid>{{ post.url }}</guid>
+      <guid>{{ site.url }}{{ post.url }}</guid>
       <title>{{ post.title | xml_escape }}</title>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <link>{{ site.url }}{{ post.url }}</link>
