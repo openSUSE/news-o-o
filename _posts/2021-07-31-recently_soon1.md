@@ -21,7 +21,7 @@ Today (Saturday 31st of July, 17:00 UTC) is the third installment of the recentl
 One important topic will be openSUSE Membership, soon to be affected by the shutdown of connect-o-o.
 
 ### Python developer wanted for the "defrag" community API
-In the last weaks, we've been working on "defrag" [^1], a user-friendly REST API allowing users across all the platforms (e.g. Matrix, Telegram, Discord, forums, web) to perform searches for all kinds of things, e.g.: 
+In the last weeks, we've been working on "defrag" [^1], a user-friendly REST API allowing users across all the platforms (e.g. Matrix, Telegram, Discord, forums, web) to perform searches for all kinds of things, e.g.: 
 
 * zypper search 
 * documentation search 
