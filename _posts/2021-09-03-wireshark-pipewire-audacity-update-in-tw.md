@@ -49,7 +49,7 @@ tags:
 
 ---
 
-Snapshot releases of [openSUSE’s](https://get.opensuse.org/) rolling release [Tumbleweed](https://get.opensuse.org/tumbleweed/) have been constantly trickling our to users since last week’s review.
+Snapshot releases of [openSUSE’s](https://get.opensuse.org/) rolling release [Tumbleweed](https://get.opensuse.org/tumbleweed/) have been constantly trickling out to users since last week’s review.
 
 This review will cover the five snapshots made available since August 26. Each of the snapshots delivered about a handful of updated software packages. 
 
