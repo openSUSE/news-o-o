@@ -5,7 +5,7 @@ date: 2021-10-07 09:00:00+09:00
 layout: post
 image: /wp-content/uploads/2021/10/survey.png
 license: CC-BY-SA-3.0
-title: New Survey Aims to Gain Packager, Maintainer Insights  
+title: New Survey Aims to Gain Packager, Maintainer Insights
 categories:
 - Announcements
 - openSUSE
