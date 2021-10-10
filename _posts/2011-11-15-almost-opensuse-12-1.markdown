@@ -54,7 +54,7 @@ Of course we ship KDE's Plasma workspaces, both the Desktop and Netbook version.
 
 Sadly, XFCE and LXDE have not seen a huge amount of changes as there have been no major releases. But of course we ship the latest bugfix release of XFCE 4.8 and have done the usual round of artwork and other minor improvements.
 
-[caption id="attachment_11838" align="alignright" width="300" caption="ownCloud"][![](/wp-content/uploads/2011/11/OwnCloud2.png)](//news.opensuse.org/2011/11/15/almost-opensuse-12-1/owncloud2/)[/caption]
+[caption id="attachment_11838" align="alignright" width="300" caption="ownCloud"][![](/wp-content/uploads/2011/11/OwnCloud2-1.png)](//news.opensuse.org/2011/11/15/almost-opensuse-12-1/owncloud2/)[/caption]
 
 
 ## Cloudy things
