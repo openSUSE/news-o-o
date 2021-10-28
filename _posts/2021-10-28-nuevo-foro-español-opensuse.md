@@ -1,19 +1,21 @@
 ---
+
 author: Victorhck
-date: 2020-02-28 17:30:00+02:00
+date: 2020-02-28 17:30:00+17:30
 layout: post
+image: /assets/images/opensuse-party.jpg 
 license: CC-BY-SA-3.0
 title: Nuevo foro en español de openSUSE
-image: /assets/images/opensuse-party.jpg 
 categories:
 - Announcements
 tags:
 - infrastructure
 - websites
 - forums
+
 ---
 
-_You can read it in English [below](#english)_
+[You can read it in English](#English)
 
 Hola Geekos.
 
@@ -42,7 +44,7 @@ Esperamos que el sitio poco a poco vaya creciendo y mejorando con vuestra ayuda.
 
 ---
 
-<a name="english"></a>
+### English
 
 Hello Geekos.
 
