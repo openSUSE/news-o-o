@@ -5,7 +5,7 @@ date: 2021-10-14 14:00:00+14:00
 layout: post
 image: /wp-content/uploads/2021/06/cover.png 
 license: CC-BY-SA-3.0
-title: Respin of openSUSE Leap Images are Coming
+title: Quarterly Respin of openSUSE Leap Images are Coming
 categories:
 - Announcements
 - openSUSE
