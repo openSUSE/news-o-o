@@ -5,7 +5,7 @@ date: 2021-11-10 18:00:00+18:00
 layout: post
 image: /wp-content/uploads/2021/10/survey.png
 license: CC-BY-SA-3.0
-title: Survey Results of Package, Maintainers Posted
+title: Survey Results of Packagers, Maintainers Posted
 categories:
 - Announcements
 - openSUSE
