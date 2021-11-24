@@ -1,11 +1,11 @@
 ---
 
 author: Alberto Planas
-date: 2021-11-25 15:00:00+15:00
+date: 2021-11-24 11:00:00+11:00
 layout: post
 image: /wp-content/uploads/2016/09/Icon-1.png
 license: CC-BY-SA-3.0
-title: Keylime in MicroOS
+title: MicroOS Expands Security With Keylime
 categories:
 - Announcements
 - openSUSE
