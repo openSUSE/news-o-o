@@ -29,18 +29,27 @@ tags:
 - distrowatch
 - hacker
 - Linux
-- gss
+- vim
 - CVE
 - zstd
 - License
-- shell
+- mariadb
 - ssl
 - PyPi
 - images
-- libzypp
-- YaST
+- dracut
+- git
 - GTK
-- Firefox
+- kernel
+- curl
+- KVM
+- Python
+- LUKS
+- nodejs
+- snapper
+- GNOME
+- Cheese
+- blot
 
 ---
 
