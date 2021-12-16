@@ -17,6 +17,11 @@ tags:
 - anniversary
 - community
 - celebration
+- project
+- community
+- social
+- together
+
 ---
 
 Almost a year ago, on the 19th of December 2020, openSUSE Members knurpht and m4u had the following conversation:
@@ -49,11 +54,12 @@ Now in meet.opensuse.org/BAR
 ```
 
 This was the birth of our beloved openSUSE BAR! Since then, the BAR has been a place for contributions, for fixing things together and just hanging out.
-The BAR evolved into an important part of our community, that helps people get to know each other in the project. It has on-boarded new contributors, strengthened old friendships, brought fixes for various issues on the way and was the place for historical events, such as probably the oldest openSUSE User (89 y.o.) meeting the youngest openSUSE Member (16 y.o.).
 
-During the online openSUSE Leap 15.3 release party, which was aimed to last for 24 hours, the bar passed the marks of a 50+ guests and a 100 h BAR session on June 6th, 2021 and, following that, the mark of a 200h BAR session on June 10th.
+The BAR evolved into an important part of our community that helps people get to know each other in the project. It has on-boarded new contributors, strengthened old friendships, brought fixes for various issues on the way and was the place for historical events, such as probably the oldest openSUSE User (89 y.o.) meeting the youngest openSUSE Member (16 y.o.).
 
-To celebrate the 1 year anniversary of the BAR, the second large BAR event is going to begin on December 18th, 16:00 UTC at [https://meet.opensuse.org/bar](https://meet.opensuse.org/bar) !! Let's see how long we can keep the party going this time!
+During the online openSUSE Leap 15.3 release party, which was aimed to last for 24 hours, the bar passed the marks of a 50+ guests and a 100-hour-BAR session on June 6, 2021, which was followed by reaching a mark of a 200-hour-BAR session on June 10, 2021.
+
+To celebrate the first-year anniversary of the BAR, the second largest BAR event is going to begin on Dec. 18 starting 16:00 UTC at [meet.opensuse.org/bar](https://meet.opensuse.org/bar)!! Let's see how long we can keep the party going this time!
 
 We definitely look forward to seeing you all there!! New faces, old friends, those that visit the BAR regularly, and those who have never logged on before. Cheers!
 
