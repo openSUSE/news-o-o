@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2022-01-18 12:00:00+12:00
 layout: post
-image: /wp-content/uploads/2021/03/osc21.png
+image: /wp-content/uploads/2020/02/cfpimage.png
 license: CC-BY-SA-3.0
 title: Call for Papers Opens for openSUSE Conference 2022
 categories:
