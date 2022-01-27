@@ -5,7 +5,7 @@ date: 2022-01-27 19:00:00+19:00
 layout: post
 image: /wp-content/uploads/2022/01/plasma.png
 license: CC-BY-SA-3.0
-title: Release Manager Gives Community Update On Desktop Environement 
+title: Release Manager Gives Community Update On Desktop Environment 
 categories:
 - Announcements
 - openSUSE
