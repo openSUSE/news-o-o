@@ -5,7 +5,7 @@ date: 2022-02-28 17:00:00+17:00
 layout: post
 image: /wp-content/uploads/2022/02/pizza.png
 license: CC-BY-SA-3.0
-title: Beta Test Leap 15.4 with Pizza, Friends 
+title: Beta Test Leap with Pizza, Friends 
 categories:
 - Announcements
 - openSUSE
@@ -33,8 +33,6 @@ tags:
 - wiki
 
 ---
-
-### Hunt for bugs & have a lot of fun!
 
 The release manager for [openSUSE Leap](https://get.opensuse.org) Luboš Kocman is expected to announce the Beta release phase of Leap 15.4 this week, according to the [roadmap](https://en.opensuse.org/openSUSE:Roadmap). That means the openSUSE Community can download, install and test the release.
 
@@ -64,4 +62,4 @@ Leap beta testers have an option to receive a gift of gratitude, so make sure to
 
 Have a lot of fun!
 
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, uperuser, distrowatch, hacker, Linux, Kernel, kde, gnome, qt, openGL, tiktok, hulu" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, uperuser, distrowatch, hacker, Linux, Kernel, beta" content="HTML,CSS,XML,JavaScript">
