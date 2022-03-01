@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio
-date: 2022-02-28 17:00:00+17:00
+date: 2022-03-01 08:00:00+08:00
 layout: post
 image: /wp-content/uploads/2022/02/pizza.png
 license: CC-BY-SA-3.0
@@ -16,7 +16,6 @@ tags:
 - Distribution
 - Leap
 - Weekly News
-tags:
 - beta phase
 - Beta Pizza
 - bugzilla
