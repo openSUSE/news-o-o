@@ -26,7 +26,7 @@ tags:
 
 Submitting bug reports related to [openSUSE](https://get.opensuse.org/)’s traditional release over the years had some abnormalities as reporting bugs for [Leap](https://get.opensuse.org/leap)’s distribution had SUSE Linux Enterprise considerations. 
 
-A the distribution evolved from the [Leap 42.1 hybrid](https://news.opensuse.org/2015/11/04/opensuse-leap-42-1-becomes-first-hybrid-distribution/) to the binary compatible [Leap 15.3](https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/) release and exorbitant reporting was necessary. The abnormalities of the process before caused contributors to be unable to see bugs referenced as fixes for SLE, which made it into Leap, but were not able to view them in [bugzilla.opensuse.org](https://bugzilla.opensuse.org).
+As the distribution evolved from the [Leap 42.1 hybrid](https://news.opensuse.org/2015/11/04/opensuse-leap-42-1-becomes-first-hybrid-distribution/) to the binary compatible [Leap 15.3](https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/) release and exorbitant reporting was necessary. The abnormalities of the process before caused contributors to be unable to see bugs referenced as fixes for SLE, which made it into Leap, but were not able to view them in [bugzilla.opensuse.org](https://bugzilla.opensuse.org).
 
 That has now been streamlined, according to an email from Leap release manager Lubos Kocman.
 
