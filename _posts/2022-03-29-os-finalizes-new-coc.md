@@ -29,6 +29,7 @@ During the February 28, 2022, public Board Meeting, it was recognized that openS
 
 We hope that by having a clear and concise Code of Conduct for the project that the openSUSE Community can continue to grow and prosper in the years to come.
 
-The openSUSE Code of Conduct can be found at https://en.opensuse.org/Code_of_Conduct.
+The openSUSE Code of Conduct can be found at [https://en.opensuse.org/Code_of_Conduct](https://en.opensuse.org/Code_of_Conduct).
+
 
 <meta name="openSUSE, community, project, code of conduct, Open Source, board" content="HTML,CSS,XML,JavaScript">
