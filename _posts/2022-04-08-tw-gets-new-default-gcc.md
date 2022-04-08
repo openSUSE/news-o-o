@@ -55,7 +55,7 @@ tags:
 
 ---
 
-A new default [GNU Compiler Collection](https://gcc.gnu.org/) for [openSUSE](https://get.opensuse.org/) [Tumbleweed](https://get.opensuse.org/tumbleweed/) arrived this week in one of the daily snapshots that has rolled out in the month of April. 
+A new default [GNU Compiler Collection](https://gcc.gnu.org/) for [openSUSE](https://get.opensuse.org/) [Tumbleweed](https://get.opensuse.org/tumbleweed/) arrived this week in one of the snapshots that has rolled out in the month of April. 
 
 Snapshot [20220405](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/EXZXDQHCQEIVLC2RSBDGLTKBW5THRN2Y/) made the default compiler switch to [GCC 12](https://gcc.gnu.org/).
 
