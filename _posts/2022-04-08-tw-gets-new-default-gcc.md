@@ -57,7 +57,7 @@ tags:
 
 A new default [GNU Compiler Collection](https://gcc.gnu.org/) for [openSUSE](https://get.opensuse.org/) [Tumbleweed](https://get.opensuse.org/tumbleweed/) is set to follow one of the snapshots that rolled out in the month of April. 
 
-Snapshot [20220405](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/EXZXDQHCQEIVLC2RSBDGLTKBW5THRN2Y/) prepares the default compiler switch to [GCC 12](https://gcc.gnu.org/).
+Snapshot [20220405](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/EXZXDQHCQEIVLC2RSBDGLTKBW5THRN2Y/) prepares the default compiler switch to [GCC 12](https://gcc.gnu.org/). GCC 12 is now providing the libgcc standard libraries and is not yet the default compiler. That will follow at a later date.
 
 The most recent snapshot that came out after the switch was [20220406](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/JO5OD74UXQCEXCW6IBSOHXEDASYEQQHZ/). This snapshot updated five packages. One of those updated packages was [autoconf](https://www.gnu.org/software/autoconf/) 2.71. Configuration scripts from the latest [autoconf](https://www.gnu.org/software/autoconf/) improved compatibility with C-variant front end compiler [clang](https://clang.llvm.org/) and compatibility was restored with [automake](https://www.gnu.org/software/automake/)'s rules for regenerating a configuration. The Linux SCSI target framework [tgt](https://github.com/fujita/tgt) package updated to version 1.0.82 and added support for listening on a random port.  Other packages to update in the snapshot were [xf86-video-dummy](https://gitlab.freedesktop.org/xorg/driver/xf86-video-dummy) 0.4.0 and [yast2-slp-server](https://github.com/yast/yast-slp-server) 4.5.0.
 
