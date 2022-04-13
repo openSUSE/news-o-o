@@ -46,4 +46,4 @@ A majority of people prefered openSUSE's [forums](https://forums.opensuse.org/),
 
 For more details about the annual survey, please visit the results on the openSUSE [Wiki](https://en.opensuse.org/End-of-year-surveys/2021).
 
-<meta name="openSUSE, Leap, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, gnome, kde, xfce, dbus, facebook, pipewire, gcc, autoconf, gedit, dracut, harfbuzz, ceph, Libre Office, Visual Studio" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Leap, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, gnome, kde, xfce" content="HTML,CSS,XML,JavaScript">
