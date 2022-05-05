@@ -5,7 +5,7 @@ date: 2022-05-05 12:00:00+12:00
 layout: post
 image: /wp-content/uploads/2022/05/os.png
 license: CC-BY-SA-3.0
-title: Call for Volunteers: This Year's openSUSE.Asia Summit
+title: Call for Volunteers to 2022 openSUSE Asia Summit
 categories:
 - Announcements
 - openSUSE
@@ -16,8 +16,7 @@ tags:
 
 ---
 
-## openSUSE.Asia Virtual Summit 2022
-### Call For Volunteers
+## Call For Volunteers
 
 The openSUSE.Asia Summit is an annual openSUSE Asian conference, attended by contributors and enthusiasts from all over Asia. The event focuses primarily on the openSUSE distribution and community, its applications for personal and enterprise use, and open source culture. Since 2014, openSUSE.Asia Summit events had been held offline and thus, a great opportunity for the community to meet.  
 
