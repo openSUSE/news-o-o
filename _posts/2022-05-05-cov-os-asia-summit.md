@@ -5,7 +5,7 @@ date: 2022-05-05 12:00:00+12:00
 layout: post
 image: /wp-content/uploads/2022/05/os.png
 license: CC-BY-SA-3.0
-title: Call for Volunteers: This Year's openSUSE.Asia Summit
+title: Call for Volunteers: 2022 openSUSE Asia Summit
 categories:
 - Announcements
 - openSUSE
