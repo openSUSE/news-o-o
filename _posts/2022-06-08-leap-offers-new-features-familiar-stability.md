@@ -59,7 +59,7 @@ Those using Leap for server deployments will find a few notable changes. These c
 
 [PHP 8.1.0](https://www.php.net/releases/8.1/) has been added which has many improvements. These include Enumerations, readonly properties, fsync, and many others. There's also a 3.5 percent speedup with [PHP 8.1.0](https://www.php.net/releases/8.1/) for WordPress and the new PHP version provides a Just-In-Time backend for ARM64 along with other JIT improvements and fixes. A couple other notable changes for Leap is that Wayland now works with the latest NVIDIA proprietary driver and LUKS2 is supported in the YaST Partitioner, but it has to be explicitly enabled.
 
-Leap has a vast selection for desktop users and has a tradition of offering Long-Term Support versions of several packages; this community release does not disappoint either. Leap’s new minor version will offer [KDE Plasma 5.24 LTS](https://community.kde.org/Schedules/Plasma_5), on top of [Qt 5.15 LTS](https://www.qt.io/blog/qt-5.15-released) with the "KDE Qt 5 Patch collection" (https://dot.kde.org/2021/04/06/announcing-kdes-qt-5-patch-collection) on top.
+Leap has a vast selection for desktop users and has a tradition of offering Long-Term Support versions of several packages; this community release does not disappoint either. Leap’s new minor version will offer [KDE Plasma 5.24 LTS](https://community.kde.org/Schedules/Plasma_5), on top of [Qt 5.15 LTS](https://www.qt.io/blog/qt-5.15-released) with the ["KDE Qt 5 Patch collection"](https://dot.kde.org/2021/04/06/announcing-kdes-qt-5-patch-collection) on top.
 
 "To transition to great future technologies like Qt 6, we need to have the peace of mind that our current users are catered for," said KDE e.V. President Aleix Pol in an [annoucement about Qt 5 patch collection](https://dot.kde.org/2021/04/06/announcing-kdes-qt-5-patch-collection). "With this patch collection we gain the flexibility we need to stabilize the status quo. This way we can continue collaborating with Qt and deliver great solutions for our users."
 
@@ -69,7 +69,7 @@ There are some newer desktop environments like [Plasma 5.24](https://kde.org/ann
 
 Leap 15.4 comes with [KDE Frameworks 5.90.0](https://kde.org/announcements/frameworks/5/5.90.0/), which made changes to several packages including Baloo, Breeze Icons, KConfig, KIO, Kirigami, KWayland, Oxygen Icons and more. This Leap version also includes [KDE Gear 21.12.2](https://kde.org/announcements/gear/21.12.2/); the Gear applications includes improvements to the music player Elisa, search tags for the file manager Dolphin and provides faster editing with KDE’s advanced video-editing application Kdenlive.
 
-Versatile application framework [Qt 5.15.2](https://www.qt.io/blog/qt-5.15.2-released) will be upgraded; it's 5.12.7 version has been in the distribution unchanged since Leap 15.2. This release brings in features of three minor releases and comes with a fully supported [Qt Quick 3D] (https://doc-snapshots.qt.io/qt5-5.15/qtquick3d-index.html).
+Versatile application framework [Qt 5.15.2](https://www.qt.io/blog/qt-5.15.2-released) will be upgraded; it's 5.12.7 version has been in the distribution unchanged since Leap 15.2. This release brings in features of three minor releases and comes with a fully supported [Qt Quick 3D](https://doc-snapshots.qt.io/qt5-5.15/qtquick3d-index.html).
 
 The core of the system has received numerous updates. This Leap release updates [systemd](https://github.com/systemd/systemd) to version 249, which has plenty of changes to enhance user experience. The new system components can now correctly identify Amazon EC2 environments, and various improvements were made for the DHCP server network management protocol. A new udev hardware database has been added for FireWire devices and another notable change in the version is whole-file-system A/B updates where new operating system versions are dropped into partitions whose label is then updated with a matching version identifier. Leap provides the most up to date compiler set. The [LLVM Compiler 13.0](https://releases.llvm.org/13.0.0/tools/clang/docs/ReleaseNotes.html) version has some major new features and Improvements to Clang’s diagnostics. There are about a handful of new compiler flags.
 
@@ -87,21 +87,21 @@ openSUSE Leap 15.3 will have its End of Life (EOL) six months from today's relea
 
 ### Download Leap 15.4 ### 
 
-To download the ISO image, visit https://get.opensuse.org/leap/
+To download the ISO image, visit <https://get.opensuse.org/leap/>
 
 ### Questions ### 
 
 If you have a question about the release or think found a bug, we'd love to hear from you at:
 
-  https://t.me/openSUSE
+  <https://t.me/openSUSE>
   
-  https://chat.opensuse.org
+  <https://chat.opensuse.org>
 
-  https://lists.opensuse.org/opensuse-support/
+  <https://lists.opensuse.org/opensuse-support/>
 
-  https://discordapp.com/invite/openSUSE
+  <https://discordapp.com/invite/openSUSE>
 
-  https://www.facebook.com/groups/opensuseproject
+  <https://www.facebook.com/groups/opensuseproject>
 
 ### Get involved ### 
 
