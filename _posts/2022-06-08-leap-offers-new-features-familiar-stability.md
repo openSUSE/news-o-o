@@ -35,7 +35,7 @@ tags:
 
 ---
 
-[CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_15.4) / [CS](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_15.4) / [ES](http://es.opensuse.org/Anuncio_publicaci%C3%B3n_15.4) / [FR](http://fr.opensuse.org/Annonce_de_version_15.4) / [JA](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_15.4) / [NL](http://nl.opensuse.org/Aankondiging_van_uitgave_15.4) / [SV](http://sv.opensuse.org/Utgivnings_meddelande_15.4) / [ZH-CN](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E5%85%AC%E5%91%8A_15.4) / [ZH-TW](http://zh-tw.opensuse.org/Release_announcement_15.4)
+[CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_15.4) / [CS](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_15.4) / [ES](http://es.opensuse.org/Anuncio_publicaci%C3%B3n_15.4) / [FR](http://fr.opensuse.org/Annonce_de_version_15.4) / [JA](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_15.4) / [NL](http://nl.opensuse.org/Aankondiging_van_uitgave_15.4) / [PT-BR](https://linuxkamarada.com/pt/2022/06/08/leap-15-4-oferece-novos-recursos-com-a-estabilidade-de-sempre/) / [SV](http://sv.opensuse.org/Utgivnings_meddelande_15.4) / [ZH-CN](http://zh.opensuse.org/%E5%8F%91%E8%A1%8C%E5%85%AC%E5%91%8A_15.4) / [ZH-TW](http://zh-tw.opensuse.org/Release_announcement_15.4)
 
 NUREMBERG, Germany – The next minor release of openSUSE Leap 15 is now available on [get.opensuse.org](https://get.opensuse.org/leap) for users, professionals, hobbyists and developers who want to update to the latest version.
 
