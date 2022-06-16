@@ -32,7 +32,7 @@ Let's start with what we already have and run it against ALP in openqa.opensuse.
 
 Once we have a proof of concept, other QE experts will jump to cover specific testing areas (virtualization, containers, public cloud, yast) and contribute to ALP as well back to upstream, which is in this case MicroOS.
 
-Contributing back in the openQA area did not work that well when SLES 15. Images were tested in-house as these were two separate sets of test repositories. Having all it all public and open makes it all easier. We also hope that this new model will raise community interest in contributions to the Quality Engineering area, as this has been always a challenge.
+We hope that this new model will raise community interest in contributions to the Quality Engineering area, as this has been always a challenge.
 
 
 Jose already submitted the initial [ALP job group]( https://github.com/os-autoinst/opensuse-jobgroups/pull/160) to [o3](https://openqa.opensuse.org) and started adding some code to the [upstream test repository](https://github.com/os-autoinst/os-autoinst-distri-opensuse/pull/15098).
