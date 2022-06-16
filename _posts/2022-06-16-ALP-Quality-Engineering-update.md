@@ -1,0 +1,35 @@
+--
+author: Lubos Kocman
+date: 2020-06-16 10:00:00+00:00
+layout: post
+license: CC-BY-SA-3.0
+title: An update from ALP Quality Engineering
+image: /assets/images/omw.png
+categories:
+- Announcements
+- openSUSE
+- Community
+tags:
+- openSUSE
+- Open Source
+- Community
+- Work Group
+- Open
+- Linux
+- AdaptableLinuxPlatform
+- openQA
+
+---
+
+Building our products in an open and transparent way allows us to rethink the way how we test.
+
+Jose Lausuch from our ALP Quality Engineering Workgroup would like to start reusing our existing MircoOS test with ALP [images](https://download.opensuse.org/repositories/devel:/LEO/images/) that we have today. The task is coordinated in https://progress.opensuse.org/issues/112409
+
+Let's start with what we already have and run it against ALP in openqa.opensuse.org (o3). We'd initially cover KVM and self-install images for x86_64 and aarch64. VMware and possibly others would come later.
+
+Once we have a proof of concept, other QE experts will jump to cover specific testing areas (virtualization, containers, public cloud, yast) and contribute to ALP as well back to upstream (in this case MicroOS).
+
+Contributing back in the openQA area did not work that well when SLES 15. Images were tested in-house as these were two separate sets of test repositories. Having all it all public and open makes it all easier. We also hope that this new model will raise community interest in contributions to the Quality Engineering area, as this has been always a challenge.
+
+
+Jose already submitted the initial [ALP job group]( https://github.com/os-autoinst/opensuse-jobgroups/pull/160)  to po3](https://openqa.opensuse.org) and started adding some code to the [upstream test repository](https://github.com/os-autoinst/os-autoinst-distri-opensuse/pull/15098)
