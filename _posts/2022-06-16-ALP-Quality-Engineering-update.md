@@ -23,11 +23,13 @@ tags:
 
 Building our products in an open and transparent way allows us to rethink the way how we test.
 
-Jose Lausuch from our ALP Quality Engineering Workgroup would like to start reusing our existing MircoOS test with ALP [images](https://download.opensuse.org/repositories/devel:/LEO/images/) that we have today. The task is coordinated in https://progress.opensuse.org/issues/112409
+Jose Lausuch from our ALP Quality Engineering was invited to the Community Workgroup [weekly meeting](https://etherpad.opensuse.org/p/weeklymeeting20220614) to speak about current plans of Quality Engineering for ALP.
+
+Jose mentioned that the QE Workgroup would like to start testing existing ALP [images](https://download.opensuse.org/repositories/devel:/LEO/images/) with the existing MicroOS test suite. The effort is coordinated in [poo#112409](https://progress.opensuse.org/issues/112409).
 
 Let's start with what we already have and run it against ALP in openqa.opensuse.org (o3). We'd initially cover KVM and self-install images for x86_64 and aarch64. VMware and possibly others would come later.
 
-Once we have a proof of concept, other QE experts will jump to cover specific testing areas (virtualization, containers, public cloud, yast) and contribute to ALP as well back to upstream (in this case MicroOS).
+Once we have a proof of concept, other QE experts will jump to cover specific testing areas (virtualization, containers, public cloud, yast) and contribute to ALP as well back to upstream, which is in this case MicroOS.
 
 Contributing back in the openQA area did not work that well when SLES 15. Images were tested in-house as these were two separate sets of test repositories. Having all it all public and open makes it all easier. We also hope that this new model will raise community interest in contributions to the Quality Engineering area, as this has been always a challenge.
 
