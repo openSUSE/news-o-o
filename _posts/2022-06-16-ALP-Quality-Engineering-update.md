@@ -1,10 +1,11 @@
---
+---
+
 author: Lubos Kocman
-date: 2020-06-16 10:00:00+00:00
+date: 2022-06-16 08:00:00+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: An update from ALP Quality Engineering
-image: /assets/images/omw.png
+image: /wp-content/uploads/2022/06/logo-openqa.png
 categories:
 - Announcements
 - openSUSE
@@ -34,4 +35,4 @@ Once we have a proof of concept, other QE experts will jump to cover specific te
 Contributing back in the openQA area did not work that well when SLES 15. Images were tested in-house as these were two separate sets of test repositories. Having all it all public and open makes it all easier. We also hope that this new model will raise community interest in contributions to the Quality Engineering area, as this has been always a challenge.
 
 
-Jose already submitted the initial [ALP job group]( https://github.com/os-autoinst/opensuse-jobgroups/pull/160)  to po3](https://openqa.opensuse.org) and started adding some code to the [upstream test repository](https://github.com/os-autoinst/os-autoinst-distri-opensuse/pull/15098)
+Jose already submitted the initial [ALP job group]( https://github.com/os-autoinst/opensuse-jobgroups/pull/160) to [o3](https://openqa.opensuse.org) and started adding some code to the [upstream test repository](https://github.com/os-autoinst/os-autoinst-distri-opensuse/pull/15098).
