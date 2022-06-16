@@ -21,6 +21,7 @@ tags:
 - Open
 - distrowatch
 - Linux
+- AdaptableLinuxPlatform
 
 ---
 
