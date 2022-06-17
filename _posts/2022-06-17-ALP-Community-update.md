@@ -1,10 +1,10 @@
 ---
 
 author: Lubos Kocman
-date: 2022-06-17 12:00:00+00:00
+date: 2022-06-17 12:00:00+12:00
 layout: post
 license: CC-BY-SA-3.0
-title: Community work group update post oSCON22
+title: Community work group update post oSC22
 image: /wp-content/uploads/2022/06/opensuse-alp-concept-unofficial.png
 categories:
 - Announcements
