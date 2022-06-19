@@ -21,7 +21,7 @@ tags:
 
 ---
 
-The [community workgroup](https://en.opensuse.org/openSUSE:ALP/Workgroups/Community) (CWG) for the Adaptable Linux Platform (ALP) would like to update you on what has happened since the [openSUSE Conference 2022]((https://events.opensuse.org/conferences/oSC22). Make sure to check the panel discussion with the ALP steering committee and other [talks](https://www.youtube.com/playlist?list=PL_AMhvchzBae22JG6CeBsSpjdrgMaeyN7) from [oSC22](https://events.opensuse.org/conferences/oSC22) as they become public.
+The [community workgroup](https://en.opensuse.org/openSUSE:ALP/Workgroups/Community) (CWG) for the Adaptable Linux Platform (ALP) would like to update you on what has happened since the [openSUSE Conference 2022](https://events.opensuse.org/conferences/oSC22). Make sure to check the panel discussion with the ALP steering committee and other [talks](https://www.youtube.com/playlist?list=PL_AMhvchzBae22JG6CeBsSpjdrgMaeyN7) from [oSC22](https://events.opensuse.org/conferences/oSC22) as they become public.
 
 First, there is a new official communication channel! We're using the "openSUSE ALP" matrix channel, bridged with <https://discord.gg/opensuse> and ircs://libera.chat/#opensuse-alp. We've got you covered! This is the best way how to consume updates.
 
