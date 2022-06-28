@@ -1,7 +1,7 @@
 ---
 
 author: Victorhck
-date: 2022-06-28 14:00:00+14:00
+date: 2022-06-28 19:00:00+19:00
 layout: post
 image: /assets/images/JustLeap.png
 license: CC-BY-SA-3.0
@@ -19,7 +19,7 @@ tags:
 
 ---
 
-We are seeking feedback regarding the release of [openSUSE Leap 15.4](https://get.opensuse.org/leap/15.4/), which was released to the general public on June 8th, 2022.
+We are seeking feedback regarding the release of [openSUSE Leap 15.4](https://get.opensuse.org/leap/15.4/), which was released to the general public on June 8.
 
 With this survey, what we're looking from you is both positive and negative feedback related to the availability and individual experience with openSUSE Leap 15.4. Your participation is very valuable for us.
 
@@ -27,7 +27,7 @@ Participating is very simple, this survey consists of only two questions, in thi
 
 * [https://survey.opensuse.org/](https://survey.opensuse.org/)
 
-The deadline for collecting responses is **7th of July**. Your responses will be then grouped and reviewed and passed to the respective openSUSE teams.
+The deadline for collecting responses is **July 7**. Your responses will be then grouped and reviewed and passed to the respective openSUSE teams.
 
 [Here](https://en.opensuse.org/Portal:15.3/Retrospective) you can find the results from previous retrospective.
 
