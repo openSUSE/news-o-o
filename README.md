@@ -28,7 +28,7 @@ Blogs are shared on <https://planet.opensuse.org/>, which is a web feed aggregat
     layout: post
     license: CC-BY-SA-3.0
     title: My First Post
-    image: /assets/images/omw.png   # where you reference an image (see 3 below)
+    image: /wp-content/uploads/(year)/(month)/omw.png   # Place in the correct folder (see 3 below)
     categories:
     - Announcements
     tags:
