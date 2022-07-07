@@ -41,7 +41,7 @@ Blogs are shared on <https://planet.opensuse.org/>, which is a web feed aggregat
     ```
     The date and time you set here, in the header, will be the date and time your article, once merged, will be published and available on [news.opensuse.org](https://news.opensuse.org). If you set the current day's date, be aware that there might be up to 2 hours delay between the time the PR got accepted and the time it actually gets picked up by the server.
 
-3. Please use an illustration image with at least 1153x505px size. It should be referenced under `image` in the header above, and the image should be placed in its own directory named with the date format `yyyy-mm-dd` in `/assets/images`. For example: `/assets/images/2020-02-27/my-first-post-image.png`. If you need help with creating some approriate image feel free to ask in #artwork on IRC, Matrix or Discord.
+3. Please use an illustration image with at least 1153x505px size. It should be referenced under `image` in the header above, and the image should be placed in its own directory in `/wp-content/uploads/(year)/(month)` and named. For example: `//wp-content/uploads/2022/04/my-first-post-image.png`. If you need help with creating some approriate image feel free to ask in #artwork on IRC, Matrix or Discord.
 
 4. Save the file and create a pull request. You can find the button at page bottom. 
 
