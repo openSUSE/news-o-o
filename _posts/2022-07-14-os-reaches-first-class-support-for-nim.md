@@ -25,7 +25,7 @@ tags:
 
 The compiled programming language gives programmers runtime efficiency and combines successful concepts from mature languages like [Python](https://www.python.org/), [Ada](https://www.adaic.org/) and [Modula](http://www.modula3.org/).
 
-"Real software runs without an OS, but if yours needs one, choose one which offers first class Nim support. Like SUSE does." , said Nim programming language creator Andreas Rumpf, when asked about openSUSE supporting up-to-date Nim from now on,
+"Real software runs without an OS, but if yours needs one, choose one which offers first class Nim support. Like SUSE does." , said Nim programming language creator Andreas Rumpf, when asked about openSUSE supporting up-to-date Nim from now on.
 
 Rumpf created Nim back in 2005 and has recently published his book [Mastering Nim](https://nim-lang.org/blog/2022/06/29/mastering-nim.html) covering each corner of this emerging programming language.
 
@@ -33,9 +33,9 @@ There are Nim packages built for [x86-64](https://en.wikipedia.org/wiki/X86-64),
 
 "Very excited to have the first Linux distribution announcing first-class support for Nim,” said [Dominik Picheta](https://picheta.me/), a Nim core developer and writer of the [Nim in Action](https://book.picheta.me/) book. "Hope this opens the door for other distros to do the same."
 
-One of Nim strengths, besides the macro system and runtime efficiency, is its [standard library](https://nim-lang.org/docs/lib.html), which is similar to other languages and covers most standard functionality; these include string handling and formatting, async code development, networking and even high-level language functionality (like the compiler itself) or NimScript, which is a subset of Nim specially built for scripting that can be embedded and execute at run-time.
+One of Nim strengths, besides the macro system and runtime efficiency, is its [standard library](https://nim-lang.org/docs/lib.html), which is similar to other languages and covers most standard functionality; these include string handling and formatting, async code development, networking and even high-level language functionality (like the compiler itself) or NimScript, which is a subset of Nim specially built for scripting that can be embedded and executed at run-time.
 
-Moreover, Nim comes with a wide range of tools included by default. The compiler allows the targeting of C, C++ and Javascript as it's backend. There are a few tools included for easy development:
+Moreover, Nim comes with a wide range of tools included by default. The compiler allows the targeting of C, C++ and Javascript as its backend. There are a few tools included for easy development:
 
 * nim compiler
 * [nimsuggest](https://github.com/nim-lang/nimsuggest) (support for language suggestions,  autocompletion, error/issues detection, etc.)
