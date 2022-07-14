@@ -29,7 +29,7 @@ The compiled programming language gives programmers runtime efficiency and combi
 
 Rumpf created Nim back in 2005 and has recently published his book [Mastering Nim](https://nim-lang.org/blog/2022/06/29/mastering-nim.html) covering each corner of this emerging programming language.
 
-There are Nim packages built for [x86_64](https://en.wikipedia.org/wiki/X86-64), [i586](https://en.wikipedia.org/wiki/Pentium_(original)), [ppc64le](https://en.wikipedia.org/wiki/Ppc64) and [ARM64](https://en.wikipedia.org/wiki/AArch64) with openSUSE.
+There are Nim packages built for [x86-64](https://en.wikipedia.org/wiki/X86-64), [i586](https://en.wikipedia.org/wiki/Pentium_(original)), [ppc64le](https://en.wikipedia.org/wiki/Ppc64) and [ARM64](https://en.wikipedia.org/wiki/AArch64) with openSUSE.
 
 "Very excited to have the first Linux distribution announcing first-class support for Nim,” said [Dominik Picheta](https://picheta.me/), a Nim core developer and writer of the [Nim in Action](https://book.picheta.me/) book. "Hope this opens the door for other distros to do the same."
 
