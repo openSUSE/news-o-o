@@ -15,6 +15,7 @@ tags:
 - Open Source
 - distrowatch
 - Linux
+- Adaptable Linux Platform 
 - ALP
 - MicroOS
 - Feedback
