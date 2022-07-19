@@ -1,7 +1,7 @@
 ---
 
 author: Emily Gonyer and Douglas DeMaio
-date: 2022-07-18 15:00:00+15:00
+date: 2022-07-19 10:00:00+10:00
 layout: post
 image: /wp-content/uploads/2022/06/opensuse-alp-concept-unofficial.png
 license: CC-BY-SA-3.0
@@ -9,13 +9,15 @@ title: MicroOS Desktop Use to Help with ALP Feedback
 categories:
 - Announcements
 - openSUSE
-- ALP
 tags:
 - openSUSE
 - Developers
 - Open Source
 - distrowatch
 - Linux
+- ALP
+- MicroOS
+- Feedback
 
 ---
 
