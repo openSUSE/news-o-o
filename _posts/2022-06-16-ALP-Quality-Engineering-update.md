@@ -17,7 +17,7 @@ tags:
 - Work Group
 - Open
 - Linux
-- AdaptableLinuxPlatform
+- Adaptable Linux Platform
 - openQA
 
 ---
