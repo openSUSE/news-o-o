@@ -28,13 +28,13 @@ Members of openSUSE had a visitor for a [recent Work Group (WG) session](https:/
 
 [SUSE](https://www.suse.com/)'s Frederic Crozat, who is one of ALP Architects and part of the ALP steering committee, joined in the exchange of ideas and opinions as well as provided some insight to the group about moving technical decisions forward.
 
-The vision is to take step beyond of what SUSE does with modules like in SUSE LInux Enterprise (SLE) 15. This is not really seen on the openSUSE side. On the SLE side it's bit different, but the point is to be more flexible and agile with development. The way to get there is not yet fully decided, but one thing that is certain is containerization is one of the easiest ways to ensure adaptability. 
+The vision is to take step beyond of what SUSE does with modules like in SUSE LInux Enterprise (SLE) 15. This is not really seen on the openSUSE side. On the SLE side, it's a bit different, but the point is to be more flexible and agile with development. The way to get there is not yet fully decided, but one thing that is certain is containerization is one of the easiest ways to ensure adaptability. 
 
-"If people have their own workloads in containers or VMs, the chance of breaking their system is way lower," openSUSE Leap release manager Lubos Kocman pointed out in the session. "We'll need to make sure that users can easily search and install "workloads" from trusted parties."
+"If people have their own workloads in containers or VMs, the chance of breaking their system is way lower," openSUSE Leap release manager Lubos Kocman pointed out in the session. "We'll need to make sure that users can easily search and install 'workloads' from trusted parties."
 
 In some cases, people break their systems by consuming software outside of the distribution repository. Some characterizations of ALP have been referred to as strict use of containers such as flatpaks, but it's better to reference the items as workload. There were some efforts planned for [Hack Week](https://hackweek.opensuse.org/) to provide documentation regarding the workload builds.
 
-There was confirmation that there will be no migration path from SLES to ALP, which most think would means the same for Leap to ALP, but this does not necessarily apply for openSUSE as people are not being stopped from writing upgradeable scripts. 
+There was confirmation that there will be no migration path from SLES to ALP, which most think would mean the same for Leap to ALP, but this does not necessarily apply for openSUSE as people are not being stopped from writing upgradeable scripts. 
 
 Working on the community edition is planned after the proof of concept, but the community is actively involved with developing the proof of concept. Some points brought up were that the intial build will aim at a build on Intel and then expand later with other architectures.
 
