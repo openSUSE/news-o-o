@@ -30,7 +30,7 @@ In an effort so gain more user insight and perspective for the development of th
 
 There will be feedback sessions the following weeks during the [community workgroup and community meeting](https://etherpad.opensuse.org/p/weeklymeeting).
 
-Users are encouraged to install MicroOS Desktop during the week of August 1. There will be a short Installation Presentation during the ALP Workgroup Meeting at 14:30 UTC on August 2 for those who need a little assistance. 
+Users are encouraged to install the MicroOS Desktop (ISO image 3.8 GiB) during the week of August 1. There will be a short Installation Presentation during the ALP Workgroup Meeting at 14:30 UTC on August 2 for those who need a little assistance. 
 
 During the next two weeks' meetings, follow ups will be given with a final Lucid Presentation on August 16 during the regularly scheduled workgroup. 
 
