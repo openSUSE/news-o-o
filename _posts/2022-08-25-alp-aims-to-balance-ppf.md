@@ -20,9 +20,6 @@ tags:
 - Workflow
 - ALP
 - Adaptable Linux Platform
-- GNOME
-- KDE Plasma
-- MicroOS
 
 ---
 
