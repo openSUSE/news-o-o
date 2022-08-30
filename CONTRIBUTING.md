@@ -10,8 +10,7 @@ Welcome to the contributing guide for the get.opensuse.org website. We are very 
   * [Fixing Bugs](#fixing-bugs)
 * [Setting up the development environment](#setting-up-the-development-environment)
 * [How to update the data on the site](#how-to-update-the-data-on-the-site)
-  * [Releases](#releases)
-  * [Distribution info](#distribution-info)
+  * [Blog](#blog)
 
 # About
 
