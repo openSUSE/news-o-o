@@ -1,5 +1,5 @@
 Hi,
-Welcome to the contributing guide for the get.opensuse.org website. We are very eager to take any and all contributions from you, and to aid you in successfully contributing to this codebase.
+Welcome to the contributing guide for the news.opensuse.org website. We are very eager to take any and all contributions from you, and to aid you in successfully contributing to this codebase.
 
 * [About](#about)
   * [Where is the code hosted?](#where-is-the-code-hosted)
