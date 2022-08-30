@@ -23,7 +23,7 @@ Blogs are shared on <https://planet.opensuse.org/>, which is a web feed aggregat
 2. Write content. You can start with the following template:
     ```
     ---
-    author: Stasiek Michalski   # please use your real name (at least your first name) and/or your openSUSE user name
+    author: Jacob Michalskie   # please use your real name (at least your first name) and/or your openSUSE user name
     date: 2020-02-27 19:27:17+00:00
     layout: post
     license: CC-BY-SA-3.0
