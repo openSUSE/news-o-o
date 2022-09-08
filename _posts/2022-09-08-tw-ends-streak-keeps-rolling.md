@@ -21,25 +21,32 @@ tags:
 - rolling release
 - superuser
 - gamers
-- apple
-- vmware
-- firefox
-- mozilla
-- sudo
+- kdump
+- curl
+- flapak
+- dhcp
+- network
+- xfce
+- gnome
+- gcc
+- appstream
+- llvm
+- nmap
+- upower
 
 ---
 
-The [Tumbleweed](https://get.opensuse.org/tumbleweed/) continuous daily-release streak ended last week with a new record of 26 snapshots, but [openSUSE](https://get.opensuse.org/)’s rolling release doesn’t appear to have slowed down with the frequency of snapshots in any way.
+The [Tumbleweed](https://get.opensuse.org/tumbleweed/) continuous daily-release streak ended last week with a new record of 26 snapshots, but [openSUSE](https://get.opensuse.org/)’s rolling release doesn’t appear to have slowed down in any way with the frequency of snapshots that continue to roll.
 
 Snapshot [20220829](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/7EMUFLAU26GUSRBO5375FR63YX5R3H5B/) broke the streak, but this week continued to fast forward with several snapshots and package updates.
 
-Before highlighting those snapshots,[GNOME](https://www.gnome.org/) 43 might need some help before making it into a Tumbleweed snapshot. Please read the tweet below and chat with the team on <https://matrix.to/#/#gnome:opensuse.org> if you are interested.
+Before highlighting those snapshots,[GNOME](https://www.gnome.org/) 43 might need some love before making it into a Tumbleweed snapshot. Please read the tweet below and chat with the team on <https://matrix.to/#/#gnome:opensuse.org> if you are interested.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/gnome?ref_src=twsrc%5Etfw">@gnome</a> 43 release candidate is packaged up in <a href="https://twitter.com/openSUSE?ref_src=twsrc%5Etfw">@openSUSE</a>&#39;s GNOME:Next, which is our unstable branch. The extensions haven&#39;t been tested. Looking for people to test. Chat at <a href="https://t.co/iEBQH4ZRt9">https://t.co/iEBQH4ZRt9</a> for more info. <a href="https://t.co/nTJuOkZ6ae">pic.twitter.com/nTJuOkZ6ae</a></p>&mdash; openSUSE Linux (@openSUSE) <a href="https://twitter.com/openSUSE/status/1567513985271865344?ref_src=twsrc%5Etfw">September 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-The latest snapshot to be released was [20220907](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/EJKDOJQ2HQCKHXRYBXNY24TDVLKWNE5G/). The update of [gnome-bluetooth](https://wiki.gnome.org/Projects/GnomeBluetooth) 42.4 has its  [Application Programming Interface](https://en.wikipedia.org/wiki/API) now export the battery information for all Bluetooth devices listed in [UPower](https://upower.freedesktop.org/). Files and scripts for [MicroOS](https://get.opensuse.org/microos/) were updated with [microos-tools](https://packagehub.suse.com/packages/microos-tools/) 2.16. An update of [libsoup](https://gitlab.gnome.org/GNOME/libsoup.git) 3.0.8 had mumerous improvements to HTTP/2 reliability and fixed an `http` proxy authentication with a default proxy resolver. SVG rendering library [librsvg](https://gitlab.gnome.org/GNOME/librsvg) updated to version 2.55.1 and is experimenting with giving librsvg an even-odd versioning; odd minor version will be considered unstable and even minor version will be considered stable. This should be fun! A few other packages updated in the snapshot including [kernel-firmwarel](https://www.kernel.org/) 20220902 and [yast2-vpn](https://github.com/yast/yast-vpn) 4.5.1 and more.
+The latest snapshot to be released was [20220907](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/EJKDOJQ2HQCKHXRYBXNY24TDVLKWNE5G/). The update of [gnome-bluetooth](https://wiki.gnome.org/Projects/GnomeBluetooth) 42.4 has its [Application Programming Interface](https://en.wikipedia.org/wiki/API) now export the battery information for all Bluetooth devices listed in [UPower](https://upower.freedesktop.org/). Files and scripts for [MicroOS](https://get.opensuse.org/microos/) were updated with [microos-tools](https://packagehub.suse.com/packages/microos-tools/) 2.16. An update of [libsoup](https://gitlab.gnome.org/GNOME/libsoup.git) 3.0.8 had mumerous improvements to HTTP/2 reliability and fixed an `http` proxy authentication with a default proxy resolver. SVG rendering library [librsvg](https://gitlab.gnome.org/GNOME/librsvg) updated to version 2.55.1 and is experimenting with giving librsvg an even-odd versioning; odd minor versions will be considered unstable and even minor versions will be considered stable. This should be fun! A few other packages updated in the snapshot, which including [kernel-firmwarel](https://www.kernel.org/) 20220902 and [yast2-vpn](https://github.com/yast/yast-vpn) 4.5.1 and more.
 
-The [Linux Kernel](https://www.kernel.org/) updated from version 5.19.2 to 5.19.7 in snapshot [20220906](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/FSWRQZORTARWQWB5L6DGA4RJCZBPHYWF/). There were a few [btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) fixes and changes and [amdgpu](https://github.com/radeonopencompute/rock-kernel-driver/) driver updates in [Kernel](https://www.kernel.org/). An update of userspace-toolset package [lvm2](https://sourceware.org/lvm2/) 2.03.16 had [segfault](https://en.wikipedia.org/wiki/Segmentation_fault) fixes, added several patches and  fixed the loss of deleted message on thin-pool extension. A change for virtual reality was made with a [Plymouth](https://www.freedesktop.org/wiki/Software/Plymouth/) 22.02.122 update because displaying a boot screen on VR headsets isn't necessary. Text editor [vim](https://www.vim.org/) 9.0.0381 fixed some crashing, flickering and a [Clang](https://en.wikipedia.org/wiki/Clang) static analyzer that gives warnings. Updates were also made to [sqlite](https://www.sqlite.org/index.html) 3.39.3 and other packages in the snapshot.
+The [Linux Kernel](https://www.kernel.org/) updated from version 5.19.2 to 5.19.7 in snapshot [20220906](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/FSWRQZORTARWQWB5L6DGA4RJCZBPHYWF/). There were a few [btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) fixes and changes along with [amdgpu](https://github.com/radeonopencompute/rock-kernel-driver/) driver updates in [Kernel](https://www.kernel.org/). An update of userspace-toolset package [lvm2](https://sourceware.org/lvm2/) 2.03.16 had some [segfault](https://en.wikipedia.org/wiki/Segmentation_fault) fixes, added several patches and  fixed the loss of deleted message on thin-pool extension. A change for virtual reality was made with a [Plymouth](https://www.freedesktop.org/wiki/Software/Plymouth/) 22.02.122 update because displaying a boot screen on VR headsets isn't necessary. Text editor [vim](https://www.vim.org/) 9.0.0381 fixed some crashing, flickering and a [Clang](https://en.wikipedia.org/wiki/Clang) static analyzer that gives warnings. Updates were also made to [sqlite](https://www.sqlite.org/index.html) 3.39.3 and other packages in the snapshot.
 
 Just two packages updated in snapshot [20220905](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/LCR7HLZW5WQW565NHFVQVAURAJSUQJ32/). Network Mapping tool [nmap](https://nmap.org/) 7.93 was released to commemorate [Nmap's 25th anniversary](https://nmap.org/p51-11.html). The tool upgraded several libraries and ensures [Nmap](https://nmap.org/) builds with [OpenSSL](https://www.openssl.org/) 3.0 while using no deprecated [API](https://en.wikipedia.org/wiki/API) functions. The package also fixed a bug that prevented it from discovering interfaces on Linux when no IPv4 addresses were configured. The other package to update was Thunderbolt 3 device manager [bolt](https://gitlab.freedesktop.org/bolt/bolt) 0.9.3. The update created a work around [glib](https://wiki.gnome.org/Projects/GLib) fix
 
