@@ -15,6 +15,7 @@ tags:
 - Linux
 - rolling release
 - ALP
+- Adaptable Linux Platform
 
 ---
 
