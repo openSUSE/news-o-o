@@ -1,7 +1,7 @@
 ---
 
 author: Lubos Kocman
-date: 2022-09-21 13:00:00+02:00
+date: 2022-09-26 13:00:00+02:00
 layout: post
 image: /wp-content/uploads/2022/08/alplogo.png
 license: CC-BY-SA-3.0
