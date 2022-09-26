@@ -5,7 +5,7 @@ date: 2022-09-26 13:00:00+02:00
 layout: post
 image: /wp-content/uploads/2022/08/alplogo.png
 license: CC-BY-SA-3.0
-title: ALP minumal arch baselevel will be x86_64-2
+title: ALP minimal arch baselevel will be x86_64-2
 categories:
 - Announcements
 - openSUSE
