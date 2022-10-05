@@ -31,7 +31,7 @@ Recently,  security engineer Paolo Perego did this at an event in Rome called [R
 
 Perego wrote that people at the conference were surprised to see an operating system vendor having a booth and was able to let them know that openSUSE is also a project full of tools for open-source development. 
 
-“The people who previously heard about us thought that we produce a ‘derived’ distribution,” Perego  wrote in the report to the community. “I explained that we use rpm, that we started back then like Slackware fork in the very early stages..
+“The people who previously heard about us thought that we produce a ‘derived’ distribution,” Perego  wrote in [a report to the community](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/52GOSTYK4OO5FVDUYBJFKZGKBF2JVS3G/). “I explained that we use rpm, that we started back then like Slackware fork in the very early stages..
 
 “Now (we) have our own identity, brand and added value services.”
 
