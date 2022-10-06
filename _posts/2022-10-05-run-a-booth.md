@@ -27,7 +27,7 @@ The [openSUSE](https://www.opensuse.org/) community is filled with tons of volun
 
 One of the ways of doing this is to [organize an openSUSE booth](https://en.opensuse.org/openSUSE:Organising_a_booth) for an event. 
 
-Recently,  security engineer Paolo Perego did this at an event in Rome called [RomHack Camp](https://romhack.camp/). Perego learned quite a lot at the event that took place Sept 23 - 25 and shared his experience about the hacker camp on the [openSUSE Project mailing list](https://lists.opensuse.org/).
+Recently, security engineer [Paolo Perego](https://twitter.com/thesp0nge) did this at an event in Rome called [RomHack Camp](https://romhack.camp/). Perego learned quite a lot at the event that took place Sept 23 - 25 and shared his experience about the hacker camp on the [openSUSE Project mailing list](https://lists.opensuse.org/).
 
 Perego wrote that people at the conference were surprised to see an operating system vendor having a booth and was able to let them know that openSUSE is also a project full of tools for open-source development. 
 
