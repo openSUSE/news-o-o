@@ -9,7 +9,6 @@ title: Run a Booth, Increase Awareness of openSUSE
 categories:
 - Announcements
 - openSUSE
-- Tumbleweed
 tags:
 - openSUSE
 - Developers
