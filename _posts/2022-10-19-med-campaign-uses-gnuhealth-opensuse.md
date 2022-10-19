@@ -54,6 +54,6 @@ This is the second health program in Africa that has been highlighted using [GNU
 
 Some of the team and members from GNU Health and openSUSE are expected to attend the [GNU Health Conference](https://www.gnuhealthcon.org/2022/) next month.
 
-<center><img src="https://github.com/openSUSE/news-o-o/blob/master/wp-content/uploads/2022/10/ogm.jpg"></center>
+<center><img src="/wp-content/uploads/2022/10/ogm.jpg"></center>
 
 <meta name="openSUSE, gnu health, medical, open source, software, linux, esg, social medicine, hospital, admin, developers, treatment" content="HTML,CSS,XML,JavaScript">
