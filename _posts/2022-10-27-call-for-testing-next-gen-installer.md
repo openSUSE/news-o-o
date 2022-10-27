@@ -41,6 +41,8 @@ The team is also looking to rename the D-Installer to another name and an [openS
 
 An installer workshop is scheduled during a community meeting on Nov. 8. People can use this [feedback guide](https://docs.google.com/spreadsheets/d/1AGKijKpKiJCB616-bHVoNQuhWHpQLHPWCb3m1p6gXPc/edit?usp=sharing) to test items for the next installer and provide feedback in the [document](https://docs.google.com/spreadsheets/d/1AGKijKpKiJCB616-bHVoNQuhWHpQLHPWCb3m1p6gXPc/edit?usp=sharing) or during the workshop.
 
+The [github page](https://github.com/yast/d-installer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) for the installer has a few listed issues and people can also contribute and provide feedback there.
+
 The current ALP prototype only has [x86-64](https://en.wikipedia.org/wiki/X86-64).
 
 <meta name="openSUSE, Tumbleweed, , ALP, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, yast, install" content="HTML,CSS,XML,JavaScript">
