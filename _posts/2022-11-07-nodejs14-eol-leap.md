@@ -5,7 +5,7 @@ date: 2022-11-07 12:00:00+02:00
 layout: post
 image: /wp-content/uploads/2022/11/Node.js_logo.png
 license: CC-BY-SA-3.0
-title: No more updates in Leap 15.4 for nodejs14 and below
+title: No more updates for nodejs14 and below in Leap 15.4
 categories:
 - Announcements
 - openSUSE
