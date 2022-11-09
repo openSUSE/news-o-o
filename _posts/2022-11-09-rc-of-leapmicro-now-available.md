@@ -1,6 +1,6 @@
 ---
 
-author: Douglas DeMaio
+author: Lubos Kocman and Douglas DeMaio
 date: 2022-11-09 13:00:00+01:00
 layout: post
 image: /wp-content/uploads/2022/11/leapmicro.png
