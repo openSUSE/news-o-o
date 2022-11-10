@@ -15,58 +15,6 @@ tags:
 - Weekly News
 ---
 
-
-
-
-We are pleased to announce our new issue #118. From now on you can read the news directly inside the RSS Reader. Just click the "more" Tag.
-
-
-
-
-
-
-<!-- more -->
-
-[![](//en.opensuse.org/images/6/6d/Opensuse_weekly_news_banner.png)](//en.opensuse.org/File:Opensuse_weekly_news_banner.png)
-
-
-
-
-
-<table style="border: 1px solid #669900; margin: 0pt; background: #d9e5bf none repeat scroll 0% 0%; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="width: 36px;" >![Geeko](//en.opensuse.org/images/thumb/2/22/Geeko_head_simple.png/32px-Geeko_head_simple.png)
-</td>
-
-<td >openSUSE Weekly News is translated into many languages. Take a look at [this page](//en.opensuse.org/OpenSUSE_Weekly_News/118/Translations) for currently available translations.
-</td>
-</tr>
-</tbody>
-</table>
-<table summary="Contents" id="toc" class="toc zeroBorder" >
-<tbody >
-<tr >
-
-<td >
-
-
-
-
-
-## Contents
-
-
-[hide]
-
-
-
-
-
-
-
-	
   * [1 Editors Note](//en.opensuse.org/OpenSUSE_Weekly_News/118#Editors_Note)
 
 	
@@ -131,7 +79,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 
 
-
 	
     * [4.2 KDE Team](//en.opensuse.org/OpenSUSE_Weekly_News/118#KDE_Team)
 
@@ -176,7 +123,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 
 
-
 	
     * [4.5 Translation Team](//en.opensuse.org/OpenSUSE_Weekly_News/118#Translation_Team)
 
@@ -188,10 +134,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 	
       * [4.5.3 Localization](//en.opensuse.org/OpenSUSE_Weekly_News/118#Localization)
-
-
-
-
 
 
 
@@ -217,8 +159,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
       * [5.5.1 Joe Brockmeier: Rock and Roll Reprise at Texas Linux Fest](//en.opensuse.org/OpenSUSE_Weekly_News/118#Joe_Brockmeier:_Rock_and_Roll_Reprise_at_Texas_Linux_Fest)
 
 
-
-
 	
     * [5.6 openSUSE in $COUNTRY](//en.opensuse.org/OpenSUSE_Weekly_News/118#openSUSE_in_.24COUNTRY)
 
@@ -227,8 +167,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 	
     * [5.8 Contributors](//en.opensuse.org/OpenSUSE_Weekly_News/118#Contributors)
-
-
 
 
 	
@@ -256,8 +194,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
     * [6.7 OBS: New Package: kmymoney4 (openSUSE)](//en.opensuse.org/OpenSUSE_Weekly_News/118#OBS:_New_Package:_kmymoney4_.28openSUSE.29)
 
 
-
-
 	
   * [7 Security Updates](//en.opensuse.org/OpenSUSE_Weekly_News/118#Security_Updates)
 
@@ -268,8 +204,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
     * [7.2 SUSE Security Announcement: openSSL security update (SUSE-SA:2010:020)](//en.opensuse.org/OpenSUSE_Weekly_News/118#SUSE_Security_Announcement:_openSSL_security_update_.28SUSE-SA:2010:020.29)
 
 
-
-
 	
   * [8 Tips and Tricks](//en.opensuse.org/OpenSUSE_Weekly_News/118#Tips_and_Tricks)
 
@@ -278,8 +212,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 	
       * [8.1.1 Ghacks.net/Jack Wallen: GNOME Shell tips](//en.opensuse.org/OpenSUSE_Weekly_News/118#Ghacks.net.2FJack_Wallen:_GNOME_Shell_tips)
-
-
 
 
 	
@@ -301,18 +233,11 @@ We are pleased to announce our new issue #118. From now on you can read the news
       * [8.3.1 IBM developerWorks/M. Tim Jones: Kernel APIs, Part 1: Invoking user-space applications from the kernel](//en.opensuse.org/OpenSUSE_Weekly_News/118#IBM_developerWorks.2FM._Tim_Jones:_Kernel_APIs.2C_Part_1:_Invoking_user-space_applications_from_the_kernel)
 
 
-
-
 	
     * [8.4 For System Administrators](//en.opensuse.org/OpenSUSE_Weekly_News/118#For_System_Administrators)
 
 	
       * [8.4.1 ITworld/Sandra Henry-Stocker: Unix How-To: the Linux /etc/inittab file](//en.opensuse.org/OpenSUSE_Weekly_News/118#ITworld.2FSandra_Henry-Stocker:_Unix_How-To:_the_Linux_.2Fetc.2Finittab_file)
-
-
-
-
-
 
 
 	
@@ -328,8 +253,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
     * [9.3 Henne Vogelsang: Kick Ass!](//en.opensuse.org/OpenSUSE_Weekly_News/118#Henne_Vogelsang:_Kick_Ass.21)
 
 
-
-
 	
   * [10 openSUSE Forums](//en.opensuse.org/OpenSUSE_Weekly_News/118#openSUSE_Forums)
 
@@ -341,8 +264,6 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 	
     * [10.3 openSUSE Updater not working?](//en.opensuse.org/OpenSUSE_Weekly_News/118#openSUSE_Updater_not_working.3F)
-
-
 
 
 	
@@ -422,70 +343,13 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 
 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-* * *
-
-
-
-
-
-
-
-
-
-## Editors Note
-
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
 
 <td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/7/7f/OWN-oxygen-EditorsNote_draft02.png/48px-OWN-oxygen-EditorsNote_draft02.png)](//en.opensuse.org/File:OWN-oxygen-EditorsNote_draft02.png)
 </td>
 
 <td > Welcome to issue # 118 of [openSUSE Weekly News](//en.opensuse.org/OpenSUSE_Weekly_News). Now the fourteenth Week goes to the End, and we are pleased to announce our new issue. From this issue on, we have a new Layout. We have more Teamreports, an Kernel Review (WIP) and the Sections "From the Ambassadors" and "openSUSE in $Country". In that Place every Translation Team can post local Events and other stuff.  Also we have changed anything in the publishing Process. In the past we have just posted the table of Content into news.opensuse.org. This means, that the Reader must click an next one. From now on we publishing the full Content direct to news.opensuse.org.  So we're hoping, that you like the new Weekly News. We wish you many joy by reading it... 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
 ## Announcements
 
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/1/1b/OWN-oxygen-Announcements.png)](//en.opensuse.org/File:OWN-oxygen-Announcements.png)
-</td>
-
-<td >
 
 
 ####  [Pascal Bleser: Planet openSUSE fixes and improvements](//dev-loki.blogspot.com/2010/04/planet-opensuse-fixes-and-improvements.html)
@@ -498,44 +362,9 @@ We are pleased to announce our new issue #118. From now on you can read the news
 
 
 "Implemented further improvements on Planet openSUSE:  * better performance, as the CSS and Javascript are now minified (thanks to the opensource YUI Compressor)  * optimized all PNG files using pngcrush  * the static text is now localizable, currently with translations in French and German (more on that below)  * upgraded the Feedparser module that is bundled with Rawdog to its latest SVN trunk version as it fixes an annoying bug that affected at the very least all feeds served by Wordpress, and ships a few improvements on markup sanitization  * a small "member" tag is now also shown in the posts when applicable  If you would like to help, I'm looking for translators for Polish, Japanese, Spanish and Portuguese in order to localize the Planet openSUSE interface in those languages too." 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
-
 
 
 ## Status Updates
-
-
-
-
-
-
-
-
-### [[edit](//en.opensuse.org/index.php?title=OpenSUSE_Weekly_News/118&action=edit&section=6)] Distribution
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/9/94/Suse_Box.png/48px-Suse_Box.png)](//en.opensuse.org/File:Suse_Box.png)
-</td>
-
-<td >
-
 
 
 
@@ -602,31 +431,10 @@ The numbers for all openSUSE project products are this week:
 
 
 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
 ### Kernel Review
 
 
 This Topic contains reports inside and outside openSUSE
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/e/e5/335px-Tux.svg.png/48px-335px-Tux.svg.png)](//en.opensuse.org/File:335px-Tux.svg.png)
-</td>
-
-<td >
 
 
 
@@ -641,12 +449,6 @@ This Topic contains reports inside and outside openSUSE
 
 
 "Linux news"If you're wondering why I'm taking a long time to respond to your patches,", began Theodore Ts'o on the linux-ext4 mailing list, in a thread that offered much insight into how and why to properly submit and test patches. "Patches that are accepted into mainline should do one and only one thing," Ted continued, "so if someone suggests that you make changes to your submitted patch, ideally what you should do is to resubmit the patch with the fixes --- and not submit a patch which is a delta to the previous one." He also noted that patch submitters often greatly outnumber maintainers dictating a higher standard of quality, "consider that for some maintainers, there may be 10 or 20 or 30 or more patch submitters in their subsystem. With that kind of submitter-to-maintainer ratio, the patch submitter simply has to do much more of the work, since otherwise the subsystem maintainer simply can't keep up."" 
-</td>
-</tr>
-</tbody>
-</table>
-
-
 
 
 
@@ -655,22 +457,9 @@ This Topic contains reports inside and outside openSUSE
 
 
 
-
-
 ### Build Service Team
 
 
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/9/98/OWN-oxygen-Build-Service.png)](//en.opensuse.org/File:OWN-oxygen-Build-Service.png)
-</td>
-
-<td >
 
 
 ####  [Jean-Christophe Baptiste: Updates on OpenSSL CVE-2009-3555 (client renegociation)](//www.phocean.net/2010/04/05/updates-about-openssl-cve-2009-3555-client-renegociation.html)
@@ -683,31 +472,10 @@ This Topic contains reports inside and outside openSUSE
 
 
 The Build Service now hosts 12025 (+138) projects, 91983 (-994) packages, 21360 (+190) repositories by 22440 (+132) confirmed users. 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
 
 
 
 ### KDE Team
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/a/af/170px-Kde-logo.jpg/48px-170px-Kde-logo.jpg)](//en.opensuse.org/File:170px-Kde-logo.jpg)
-</td>
-
-<td >
-
 
 
 
@@ -721,13 +489,6 @@ The Build Service now hosts 12025 (+138) projects, 91983 (-994) packages, 21360 
 
 
 "We’ve released RC1 of KDevelop4 today. We’ve fixed a couple of bugs and got some good performance improvements, but even more will be in RC2. RC2 will also ship with translations, for RC1 we’ve discovered a severe problem that we couldn’t fix anymore in time related to translations.  On behalf of Milian and Niko we’re also releasing the first release candidate of the PHP plugins, bringing great web development to kdevelop." 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
 
 
 
@@ -735,48 +496,14 @@ The Build Service now hosts 12025 (+138) projects, 91983 (-994) packages, 21360 
 
 
 
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/8/87/Mono_project_logo.png/48px-Mono_project_logo.png)](//en.opensuse.org/File:Mono_project_logo.png)
-</td>
-
-<td >
-
-
-
-
 ####  [Miguel de Icaza: C#, Mono and the Google Summer of Code](//tirania.org/blog/archive/2010/Apr-05.html)
 
 
 "This year, Michael Hutchinson is the administrator for Mono's involvement in the Google Summer of Code. We are looking for motivated students that would like to either work on one of the ideas that we listed in our Student Projects page like work on MonoDevelop's IDE, Mono's runtime, Mono's class libraries and in Mono-based applications. Additionally, if you are a student and you have been thinking "The Mono guys really should do...", do not hesitate and propose your idea. Perhaps you get to implement your idea, get paid to do so, and be mentored by our group of awesome C and C# hackers." 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
 
 
 
 ### openFATE Team
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/1/1f/OWN-oxygen-fatelogo.png/48px-OWN-oxygen-fatelogo.png)](//en.opensuse.org/File:OWN-oxygen-fatelogo.png)
-</td>
-
-<td >
 
 
 
@@ -844,32 +571,12 @@ The Build Service now hosts 12025 (+138) projects, 91983 (-994) packages, 21360 
 
 
 [More information on openFATE](//en.opensuse.org/OpenFATE)
-</td>
-</tr>
-</tbody>
-</table>
-
 
 
 
 
 
 ### Translation Team
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/b/b6/OWN-oxygen-Statistics-Localization.png)](//en.opensuse.org/File:OWN-oxygen-Statistics-Localization.png)
-</td>
-
-<td >
-
-
 
 
 ####  [webtool for transaltors](//lists.opensuse.org/opensuse-translation/2010-04/msg00000.html)
@@ -898,39 +605,7 @@ The Build Service now hosts 12025 (+138) projects, 91983 (-994) packages, 21360 
 
 
 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
 ## In the Community 
-
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/c/c4/OWN-oxygen-In-the-Community.png)](//en.opensuse.org/File:OWN-oxygen-In-the-Community.png)
-</td>
-
-<td >
-
-
 
 
 ###  [Bryen Yunashko: Speaking at Schools](//feedproxy.google.com/%7Er/Bryen/%7E3/N4M-7SBUmXA/)
@@ -1052,37 +727,8 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
 ## New/Updated Applications @ openSUSE
 
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/1/10/OWN-oxygen-New-Updated-Applications.png)](//en.opensuse.org/File:OWN-oxygen-New-Updated-Applications.png)
-</td>
-
-<td >
 
 
 ####  [Packman: vlc 1.0.5-3.pm.6.1 ](//packman.links2linux.org/package/vlc)
@@ -1128,11 +774,6 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 
-
-
-
-
-	
   * You can find other interesting Packages at: 
 
 	
@@ -1140,39 +781,8 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
-
-
 
 ## Security Updates
-
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/1/17/OWN-oxygen-Security-Updates.png)](//en.opensuse.org/File:OWN-oxygen-Security-Updates.png)
-</td>
-
-<td >To view the security announcements in full, or to receive them as soon as they're released, refer to the [openSUSE Security Announce](//lists.opensuse.org/opensuse-security-announce/) mailing list.
-
-
 
 
 
@@ -1317,23 +927,6 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/9/98/OWN-oxygen-Tips-and-Tricks.png)](//en.opensuse.org/File:OWN-oxygen-Tips-and-Tricks.png)
-</td>
-
-<td >
-
-
-
-
 ###  For Desktop Users
 
 
@@ -1386,14 +979,6 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 "One of the files that the average Unix sysadmin rarely looks at, almost never changes and yet depends on every time he or she reboots a system is the /etc/inittab file. This modest little file controls what happens whenever a system is rebooted or forced to change run levels. Let's take a look at the configuration lines that tell your system what it's supposed to do when you hit that power button." 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
 
 
 
@@ -1402,21 +987,6 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 ## Planet SUSE
 
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/7/71/OWN-oxygen-Planet-SUSE.png/48px-OWN-oxygen-Planet-SUSE.png)](//en.opensuse.org/File:OWN-oxygen-Planet-SUSE.png)
-</td>
-
-<td >
 
 
 
@@ -1437,37 +1007,9 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 "You think that you are not entitled to decide something? YOU ARE -> KICK ASS!  _Don’t be humble. You’re the man!_ Despite the fact that our distribution is around for some time we are a very young open source project. We don’t have much organization. No hierarchy, very little processes, no roles or functions, no directions and only general rules. You participate in a time where it’s really you that makes a difference. If you’re humble now and try not to stick your neck out, this project will fail. Don’t be humble, KICK ASS!  _Don’t wait for anything “official”. There is no one official._ There is only you and the people next to you. There is no one steering the openSUSE project, there is only you pushing your topic. There is no mastermind behind all this, there is only you thinking about your thing. There is no management (no also not from Novell), there is only you running your things. If you do something it’s what openSUSE does. If you decide something it’s what openSUSE decides. Don’t wait, KICK ASS!" 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
-
-
 
 ## openSUSE Forums
 
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/e/ed/OWN-oxygen-openSUSE-Forums.png)](//en.opensuse.org/File:OWN-oxygen-openSUSE-Forums.png)
-</td>
-
-<td >
 
 
 ####  [Milestone 5](//forums.opensuse.org/get-help-here/pre-release-beta/436682-11-3-milestone-5-available-factory.html)
@@ -1486,37 +1028,9 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 "I wonder how this user ended up with no repositories? A few zypper basics should put it right." 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
-
-
 
 
 ## On the Web
-
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/d/d6/OWN-oxygen-On-the-Web.png)](//en.opensuse.org/File:OWN-oxygen-On-the-Web.png)
-</td>
-
-<td >
 
 
 
@@ -1615,52 +1129,12 @@ The openSUSE Forums have 44499 (+271) registered users - Most users ever online 
 
 
 "While it’s hard to make the claim that there aren’t enough Linux distros out there, it’s also hard to escape the fact that no distribution is all things to all people. There are all kinds of reasons to consider rolling your own, but many people never make the attempt because it seems like such a huge undertaking. Fortunately, with modern software we can create new distros, remixes, and custom configurations in a matter of minutes instead of months. Here, we’ll showcase some of the current software tools that make this so easy." 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
 
 
 
 
 
 ## Feedback / Communicate / Get Involved
-
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/a/ae/OWN-oxygen-FCG.png)](//en.opensuse.org/File:OWN-oxygen-FCG.png)
-</td>
-
-<td > Do you have comments on any of the things mentioned in this article? Then head right over to the [news.opensuse.org story](//news.opensuse.org/?p=3146) comment section and let us know! Communicate with or get help from the wider openSUSE community -- via IRC, forums, or mailing lists -- see [Communicate](//en.opensuse.org/Communicate).
-
-
-
-
-
-If you would like to be a part of the openSUSE Weekly news, then please send an email over to [opensuse-marketing@opensuse.org](//lists.opensuse.org/opensuse-marketing) (you need to [subscribe](//en.opensuse.org/Communicate) first). Or you can go to the channel #opensuse-newsletter on irc.freenode.net.
-
-[![](//en.opensuse.org/images/thumb/6/6d/Rss_32.png/24px-Rss_32.png)](//en.opensuse.org/File:Rss_32.png) You can subscribe to the openSUSE Weekly News RSS feed at [//news.opensuse.org/category/weekly-news/?feed=rss2](//news.opensuse.org/category/weekly-news/?feed=rss2)
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
 
 
 
@@ -1711,43 +1185,10 @@ If you would like to be a part of the openSUSE Weekly news, then please send an 
 
 
 
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
 
 
 
 
 ## Translations
 
-
-
-
-
-
-
-
-<table style="margin: 0px; width: 100%;" class="zeroBorder" >
-<tbody >
-<tr >
-
-<td style="color: #ffffff; text-align: center; vertical-align: top; width: 32px;" >[![](//en.opensuse.org/images/thumb/7/79/Icon-locale.png/48px-Icon-locale.png)](//en.opensuse.org/File:Icon-locale.png)
-</td>
-
-<td >
-
-
-
-[English](//en.opensuse.org/OpenSUSE_Weekly_News/118) [Deutsch](//de.opensuse.org/OpenSUSE-Wochenschau/118) [Español](//es.opensuse.org/OpenSUSE_Noticias_Semanales/118) [日本語](//ja.opensuse.org/OpenSUSE_Weekly_News/118) [Русский](//ru.opensuse.org/%D0%95%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8_openSUSE/118) [Polski](//pl.opensuse.org/Tygodnik_openSUSE/118) [Português](//pt.opensuse.org/Not%C3%ADcias_da_semana_no_openSUSE/118) [Indonesia](//en.opensuse.org/OpenSUSE_Weekly_News/118/indonesian) [Magyar](//hu.opensuse.org/OpenSUSE_Heti_H%C3%ADrmond%C3%B3/118) [Italiano](//it.opensuse.org/OpenSUSE_Newsletter_Settimanale/118) [简体中文](//en.opensuse.org/OpenSUSE_Weekly_News/118/chinese) [繁體中文](//zh_tw.opensuse.org/OpenSUSE_Weekly_News/118) [Français](//fr.opensuse.org/Lettre_d%27information_openSUSE/118) [Svenska](//en.opensuse.org/OpenSUSE_Weekly_News/118/swedish) [Íeština](//cs.opensuse.org/OpenSUSE_t%C3%BDden%C3%ADk/118)
-</td>
-</tr>
-</tbody>
-</table>
 
