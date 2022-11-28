@@ -20,6 +20,13 @@ tags:
 - sysadmin
 - yast
 - rolling release
+- Microarchitecture
+- Plan
+- hardware
+- version
+- intrastructure
+- developers
+- optimization
 
 ---
 
@@ -56,4 +63,4 @@ Results should likely result in the following:
 A recent poll on [openSUSE's Twitter](https://twitter.com/openSUSE) found that 51 percent of poll respondents had an understanding of  [microarchitecture levels](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels) and the benefits it brings to developers and infrastructure optimization.
 
 For more information, follow the discussion on the [openSUSE Factory mailing list](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/4OIMNHRDMSRLUNZRA5OPHMVSPXRRQVSB/).
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, GNOME, KDE, git, wayland, mux, codec, Lenovo, Acer, cmake, pulsaudio, samba, nodejs, llvm, kdump" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, GNOME, KDE, git, microarchitecture, mail, transition" content="HTML,CSS,XML,JavaScript">
