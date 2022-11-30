@@ -60,6 +60,8 @@ Results should likely result in the following:
 
 `x86-64-v2 (supported, searched)`
 
+"Once the new intel port repository is ready, I'll let you know the exact location of it," Leuenberger emphasized in the email "We can expect for these changes to take place in the first quarter of the new year of 2023."
+
 A recent poll on [openSUSE's Twitter](https://twitter.com/openSUSE) found that 51 percent of poll respondents had an understanding of  [microarchitecture levels](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels) and the benefits it brings to developers and infrastructure optimization.
 
 For more information, follow the discussion on the [openSUSE Factory mailing list](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/4OIMNHRDMSRLUNZRA5OPHMVSPXRRQVSB/).
