@@ -22,7 +22,7 @@ Maybe you have read this announcement in [openSUSE forums](https://forums.opensu
 
 You will understand that the website [forums.opensuse.org](https://forums.opensuse.org/) runs software that handles not only the interface with you, but also stores and manages the threads with the posts, and the user administration of the forum members. The software package used is named vBulletin. It is a commercial package and as such brings considerable costs.
 
-Because all software that stays alive will move to new versions, this is also the case with vBulletin. That will mean that all of the adaptions that were made in the openSUSE instance had to be converted to the new version. At such a moment, it is time to look if a different solution might be better. We will not burden you with all the details, but the result is that vBulletin will be replaced by a different and open-source (which fits into the [openSUSE](https://www.opensuse.org/) product approach: Discourse.
+Because all software that stays alive will move to new versions, this is also the case with vBulletin. That will mean that all of the adaptions that were made in the openSUSE instance had to be converted to the new version. At such a moment, it is time to look if a different solution might be better. We will not burden you with all the details, but the result is that vBulletin will be replaced by a different and open-source (which fits into the [openSUSE](https://www.opensuse.org/) philosophy) product: Discourse.
 
 This will not be an easy move for many, including the forums' staff. Many things will have to be addressed after we switched over, but we can mention a few things that will come up first in most members thoughts (we think).
 
