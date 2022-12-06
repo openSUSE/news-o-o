@@ -28,7 +28,7 @@ This will not be an easy move for many, including the forums' staff. Many things
 
 __Accounts:__ As the login facility is not bound to vBulletin but to the general SUSE login feature, there will be no change there, and all members will be able to login as earlier.
 
-__Old threads:__ Threads will be moved to the new environment and be available. There layout maybe disfigured here and there, but we expect that solutions to problems will still be understandable. As said, it will look very different, please try to cope with that. 
+__Old threads:__ Threads will be moved to the new environment and be available. Their layout maybe disfigured here and there, but we expect that solutions to problems will still be understandable. As said, it will look very different, please try to cope with that. 
 
 We expect a lot of questions and problems to arise. There is of course an "About the forums' section where you can start threads. Be prepared that the staff has to deal with all of them in their spare time and will, like you, not feel at home in the beginning.
 
