@@ -33,7 +33,7 @@ The first Adaptable Linux Platform (ALP) prototype [Les Droites](https://www.sus
 
 Implementations with the new prototype include more flexibility, security and stability.
 
-The mountainous prototype has the big addition of Full Disk Encryption. ALP extended this Full Disk Encryption to bare metal servers and the use of a Trusted Platform Module will open the doors to leverage unattended booting while keeping systems encrypted and secured. ALP is intended to run on both private and public clouds that require encryption features. The systems need no user interaction on boot nor while ensuring security for workloads. Grub2 will be the bootloader instead of another and it will have a single encrypted volume considering [`initramfs`](https://en.wikipedia.org/wiki/Initial_ramdisk) is already encrypted.
+The mountainous prototype has the big addition of Full Disk Encryption. ALP extended this Full Disk Encryption to bare metal servers and the use of a Trusted Platform Module will open the doors to leverage unattended booting while keeping systems encrypted and secured. ALP is intended to run on both private and public clouds that require encryption features. The systems need no user interaction on boot nor while ensuring security for workloads. Grub2 will be the bootloader instead of another and it will have a single encrypted volume considering `initramfs` is already encrypted.
 
 There were some compatibility issues addressed with the new prototype; SELinux is now set to fully enforce access control and [firewalld](https://firewalld.org/) defaults to netfilter deny; these two packages were previously more open for compatibility and testing purposes.
 
