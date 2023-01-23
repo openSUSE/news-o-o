@@ -3,6 +3,7 @@
 author: Marcus Meissner
 date: 2023-01-23 10:00:00+01:00
 layout: post
+image: /wp-content/uploads/2021/04/gtw.png
 license: CC-BY-SA-3.0
 title: New 4096 bit RSA signing key for Tumbleweed
 categories:
