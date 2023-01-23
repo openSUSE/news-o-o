@@ -20,7 +20,7 @@ tags:
 
 ---
 
-This week's [openSUSE](https://get.opensuse.org/) [Tumbleweed](https://get.opensuse.org/tumbleweed/) snapshots will switch the RPM and repository signing key of Tumbleweed from 2048 bit RSA to an 4096 bit RSA key.
+This week's [openSUSE](https://get.opensuse.org/) [Tumbleweed](https://get.opensuse.org/tumbleweed/) snapshots will switch the RPM and repository signing key of Tumbleweed from 2048 bit RSA to a 4096 bit RSA key.
 
 This switchover was necessary to meet current security recommendations.
 If you are regulary updating your Tumbleweed installation, the key will already be imported
