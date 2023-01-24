@@ -3,7 +3,6 @@
 author: Douglas DeMaio
 date: 2023-01-24 19:00:00+01:00
 layout: post
-image: /wp-content/uploads/2023/01/cisco.png
 license: CC-BY-SA-3.0
 title: openSUSE Simplifies Codec Installation
 categories:
