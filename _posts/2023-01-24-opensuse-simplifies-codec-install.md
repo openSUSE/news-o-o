@@ -22,7 +22,7 @@ tags:
 
 The [openSUSE Project](https://www.opensuse.org/) was inspired by [Fedora](https://getfedora.org/)’s efforts to make [Cisco's OpenH264 codecs](https://github.com/cisco/openh264) and [FDK AAC](https://en.opensuse.org/openSUSE:License/FDK-ACC) available to its users that members reached out to  [Cisco’s open-source team](https://eti.cisco.com/open-source) to do the same for its user base.
 
-An obstacle to overcome is the current limitation for free redistribution of the codecs is 100,000 users, so board member Neal Gompa openSUSE’s [Leap](https://get.opensuse.org/leap/15.4/) release manager Lubos Kocman proposed [a way to simplify the codec installation in openSUSE](https://code.opensuse.org/leap/features/issue/22).
+An obstacle to overcome is the current limitation for free redistribution of the codecs is 100,000 users, so board member Neal Gompa and openSUSE’s [Leap](https://get.opensuse.org/leap/15.4/) release manager Lubos Kocman proposed [a way to simplify the codec installation in openSUSE](https://code.opensuse.org/leap/features/issue/22).
 
 The codec library, which supports [H.264](https://en.wikipedia.org/wiki/Advanced_Video_Coding) encoding and decoding, is suitable for real-time-application use like [WebRTC](https://webrtc.org/). The simplification of the installation will make out-of-the-box use much easier for openSUSE users.
 
