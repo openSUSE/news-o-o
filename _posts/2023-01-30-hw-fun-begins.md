@@ -43,6 +43,6 @@ There are more than 100 projects listed on the [Hack Week site](https://hackweek
 
 Companies, hobbyists and technologists are encouraged to participate. There is no affiliation one needs to participate in [Hack Week](https://hackweek.opensuse.org/). Just join and have a lot of fun!
 
-[Hack Week](https://hackweek.opensuse.org/) has been running since 2007 and the people involved with it have produced several useful open-source projects like [Weblate](https://weblate.org/en/), [openQA](http://open.qa/) and [openSUSE MicroOS](https://microos.opensuse.org/).
+[Hack Week](https://hackweek.opensuse.org/) has been running since 2007 and the people involved with it have produced several useful open-source projects like [Weblate](https://weblate.org/en/), [openQA](https://open.qa/) and [openSUSE MicroOS](https://microos.opensuse.org/).
 
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, hackweek" content="HTML,CSS,XML,JavaScript">
