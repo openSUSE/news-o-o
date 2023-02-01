@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2023-02-01 13:00:00+01:00
 layout: post
-image: /wp-content/uploads/2023/01/remmina.png
+image: /wp-content/uploads/2023/02/remmina.png
 license: CC-BY-SA-3.0
 title: Tumbleweed Snapshots Update Mesa, Remmina, More
 categories:
