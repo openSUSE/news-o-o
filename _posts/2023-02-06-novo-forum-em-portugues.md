@@ -5,7 +5,7 @@ date: 2023-02-06 17:30:00+17:30
 layout: post
 image: /wp-content/uploads/2021/10/party.png
 license: CC-BY-SA-3.0
-title: Novo forum em portugues de openSUSE
+title: Novo fórum de openSUSE em portugues
 categories:
 - Announcements
 tags:
