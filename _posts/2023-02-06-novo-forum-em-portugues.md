@@ -25,7 +25,7 @@ O fórum em português está disponível em: [https://forums.opensuse.org/c/port
  
 Com este novo canal, queremos unir a comunidade portuguesa de usuários do openSUSE e melhorar o apoio aos nossos usuários. Crie uma conta e comece fazer perguntas ou ajudar a responder dúvidas de outras pessoas.
  
-Esse novo meio de comunicação é um complemento aos canais do Telegram e Matrix, e ainda continuaremos com o suporte nos diversos meios. O fórum oferece algumas vantagens em relação às mensagens instantâneas, como, por exemplo, uma melhor ferramenta de busca e armazenamento a longo termo.
+Esse novo meio de comunicação é um complemento aos canais do Telegram e Matrix, e ainda continuaremos com o suporte nos diversos meios. O fórum oferece algumas vantagens em relação às mensagens instantâneas, como, por exemplo, uma melhor ferramenta de busca e armazenamento a longo prazo.
  
 Esperamos que o fórum cresça e melhore gradativamente com a sua ajuda.
  
