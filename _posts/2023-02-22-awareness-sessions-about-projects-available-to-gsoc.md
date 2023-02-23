@@ -34,7 +34,7 @@ tags:
 
 Mentors and administrators of [openSUSE](https://www.opensuse.org/) are excited to be accepted as a [mentorship organization](https://101.opensuse.org/#mentee) for this year’s [Google Summer of Code](https://summerofcode.withgoogle.com/) and will be available for potential mentee to discuss the projects that are listed on [101.opensuse.org](https://101.opensuse.org/).
 
-There will be 15 minute sessions prior to all openSUSE community meetings where mentees can join our Jitsi meeting room to get in touch with members of the openSUSE community who can help them [navigate the projects](https://101.opensuse.org/#mentee) available during this year’s GSoC. 
+There will be 15 minute sessions prior to all openSUSE community meetings where mentees can join our [Jitsi meeting room](https://meet.opensuse.org/meeting) to get in touch with members of the openSUSE community who can help them [navigate the projects](https://101.opensuse.org/#mentee) available during this year’s GSoC. 
 
 [Community meetings](https://etherpad.opensuse.org/p/weeklymeeting) are every Tuesday and Thursday and the times vary. The Tuesday session for mentee applicants starts at 15:15 UTC and the Thursday session begins at 19:45 UTC. Meeting times begin at 15:30 UTC and 20:00 UTC respectively. 
 
