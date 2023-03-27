@@ -1,11 +1,11 @@
 ---
 
 author: Lubos Kocman
-date: 2023-03-23 19:00:00+01:00
+date: 2023-03-28 10:00:00+01:00
 layout: post
-image: /wp-content/uploads/2022/04/gcc.png
+image: /wp-content/uploads/2023/03/leapmicro54-beta-pi-hole-deploy.png
 license: CC-BY-SA-3.0
-title: Hands on on Ad-free browsing at your home with Leap Micro 5.4 Beta
+title: Hands-on Ad-free browsing at your home with Leap Micro 5.4 Beta
 categories:
 - Announcements
 - openSUSE
@@ -42,7 +42,9 @@ I am personally happily using the described setup on my 8GB Raspberry Pi 4 with 
 If you want to just test it out, virtual machines will work as well; just make sure that the VM's virtual network interface is in bridge mode or uses Forwarding of incoming connections.
 This can be easily set up with NetworkManager in just two clicks. Otherwise, you won't be able to access web management of the VM services and the article becomes pointless.
 
-The benefit I see in using Leap Micro is that the machine does not require any of my attention. I have automatic updates and self-healing on. The machine automatically reboots into an updated snapshot in the defined maintenance window (set by default) and if there is an issue that requires my attention, then I simply resolve the issue with the [Cockpit](https://cockpit-project.org/) interface in the web browser. https://documentation.suse.com/sle-micro/5.3/pdf/article-cockpit-slemicro_en.pdf .
+The benefit I see in using Leap Micro is that the machine does not require any of my attention. I have automatic updates and self-healing on. The machine automatically reboots into an updated snapshot in the defined maintenance window (set by default) and if there is an issue that requires my attention, then I simply resolve the issue with the [Cockpit](https://cockpit-project.org/) interface in the web browser. <https://documentation.suse.com/sle-micro/5.3/pdf/article-cockpit-slemicro_en.pdf>
+
+![Cockpit Update](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-cockpit-updates.png)
 
 Leap Micro is an ImmutableOS with read-only root. openSUSE solves this via btrfs snapshots and tools that enable automatic rollback and boot into a previous snapshot in case a system identifies that the boot into a new snapshot has failed. 
 
@@ -52,6 +54,8 @@ What is a self-install image?
 The self-install image is essentially a bootable image that writes the pre-configured image of Leap Micro to the disk and enlarges system partitions to the disk size. In this way, installation takes less than two minutes in my VM (VM storage is a file, and I have PCI-e 4 gen M.2 SSD).
 
 Download the self-install image from https://get.opensuse.org/leapmicro/5.4/ make sure to choose correctly the architecture x86_64, or aarch64 for Arm devices. We'll use a self-install x86_64 image as this article uses a VM for the demonstration. 
+
+![get.opensuse.org](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-selfinstall-download.png)
 
 If you are using a physical device then please use zypper to install image writer. Users on other distributions can install e.g. Fedora Media Writer from flathub. Use the tool of your choice to write the downloaded image to the USB flash drive.
 
@@ -80,16 +84,25 @@ This can be skipped in case you're using virtual machine. Make sure to have a  t
 
 ## Booting the image
 
-For demonstration purposes, I will be using  Leap Micro 5.4 Beta x86_64 self-install image running in GNOME Boxes. 
+For demonstration purposes, I will be using  Leap Micro 5.4 Beta x86_64 self-install image running in GNOME Boxes.
+
+![Beta Installer Boot](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-installer-boot.png)
 
 The self-install image is pretty straightforward. As mentioned before It's essentially a bootable image that writes a pre-configured image of Leap Micro to the disk and enlarges system partitions to the disk size. 
 
+![Beta Installer Disks](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-installer-disks.png)
+
 About a minute after we are already booting into the deployed Leap Micro 5.4 Beta.
+
+![Beta Boot](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-boot.png)
 
 The boot itself takes a few seconds and we are entering a simple first boot wizard known from our Minimal images (used to be called JeOS).
 
+![Beta Firstboot](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-firstboot.png)
+
 First boot wizard lets you choose Timezone, Language and a root password and your Leap Micro 5.4 is ready to be used (can be automated with Ignition/Combustion). We are ready to serve after 2 minutes including the initial configuration.
 
+![Beta Root Console](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-root-console.png)
 
 ## Getting into the cockpit
 MOTD (message of the day) suggests you enable the cockpit web. It will be accessible through the ip.address.of.this.server:9090. Login to the cockpit as the root.
@@ -98,6 +111,8 @@ Note:  For home purposes I highly recommend not exposing this port to the public
 You can completely skip ssh since the cockpit allows you to access the terminal via a web browser. 
 
 `$ systemctl enable --now cockpit.socket`
+
+![Beta Cockpit](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-cockpit.png)
 
 ## Podman vs Docker
 
@@ -121,6 +136,8 @@ Do not forget to exit the transactional-update shell (type exit) and reboot afte
 
 Note:  A recommended way to install additional tools without a reboot is to use [Distrobox](https://en.opensuse.org/Distrobox)
 
+![Install Docker](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-tu-install-docker.png)
+
 ## Deploying Pi-hole
 
 We will follow instructions from https://github.com/pi-hole/docker-pi-hole#readme This part took me literally 2 minutes.
@@ -131,26 +148,40 @@ The -p 8888:80 says that we are mapping port 8888 of the Host to port 80 (web ma
 
 You can store this in a wrapper e.g. /root/pihole_deploy.sh
 
-Docker volume
+## Docker volume
 In this example we're passing local /root/etc-pihole and /root/etc-dnsmaq.d directories to the container as docker volumes where they’ll be present as /etc/pihole respectively /etc/dnsmasq.d
 
 `# mkdir -p /root/etc-pihole /root/etc-dnsmasq.d`
-`# docker run -d \`
-`    --name pihole \`
-`    -p 53:53/tcp -p 53:53/udp \`
-`    -p 8888:80 \`
-`    -e TZ="Europe/Prague" \`
-`    -e WEBPASSWORD="CHANGEME" \`
-`    -v "/root/etc-pihole:/etc/pihole" \`
-`    -v "/root/etc-dnsmasq.d:/etc/dnsmasq.d" \`
-`    --dns=127.0.0.1 --dns=1.1.1.1 \`
-`    --restart=unless-stopped \`
-`    --hostname pi.hole \`
-`    -e VIRTUAL_HOST="pi.hole" \`
-`    -e PROXY_LOCATION="pi.hole" \`
-`    -e FTLCONF_LOCAL_IPV4="127.0.0.1" \`
-`    pihole/pihole:latest`
 
+`# docker run -d \`
+
+`    --name pihole \`
+
+`    -p 53:53/tcp -p 53:53/udp \`
+
+`    -p 8888:80 \`
+
+`    -e TZ="Europe/Prague" \`
+
+`    -e WEBPASSWORD="CHANGEME" \`
+
+`    -v "/root/etc-pihole:/etc/pihole" \`
+
+`    -v "/root/etc-dnsmasq.d:/etc/dnsmasq.d" \`
+
+`    --dns=127.0.0.1 --dns=1.1.1.1 \`
+
+`    --restart=unless-stopped \`
+
+`    --hostname pi.hole \`
+
+`    -e VIRTUAL_HOST="pi.hole" \`
+
+`    -e PROXY_LOCATION="pi.hole" \`
+
+`    -e FTLCONF_LOCAL_IPV4="127.0.0.1" \`
+
+`    pihole/pihole:latest`
 
 Please wait until the state is healthy. You can proactively check the state with the following command.
 
@@ -164,11 +195,16 @@ Cleanup in case you messed up
 ## Accessing Pi-hole web management
 
 At this point, the containerized Pi-hole is already daemonized and you can access the interface through ip.address.of.this.server:8888/admin
+
 There is a default list, however, I did not find it sufficient for my ad-free youtube experience. You can use a builtin tool to look up further adlists.
+
+![Adlist Lookup](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-pihole-adlist-lookup.png)
 
 ## Accessing services with external domain with a local IP
 
 This is especially useful in our NextCloud example later. Here I create local DNS records with local IP for my public domain. So I can access my NextCloud instance with an external domain name but interact with local IPs.
+
+![DNS Entry](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-pihole-local-dns-entry.png)
 
 ## Using your new home DNS server with adlists
 
