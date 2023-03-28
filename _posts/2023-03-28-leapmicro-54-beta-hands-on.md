@@ -153,33 +153,33 @@ In this example, we're passing local `/root/etc-pihole` and `/root/etc-dnsmaq.d`
 
 `# docker run -d \`
 
-`    --name pihole \`
+`--name pihole \`
 
-`    -p 53:53/tcp -p 53:53/udp \`
+`-p 53:53/tcp -p 53:53/udp \`
 
-`    -p 8888:80 \`
+`-p 8888:80 \`
 
-`    -e TZ="Europe/Prague" \`
+`-e TZ="Europe/Prague" \`
 
-`    -e WEBPASSWORD="CHANGEME" \`
+`-e WEBPASSWORD="CHANGEME" \`
 
-`    -v "/root/etc-pihole:/etc/pihole" \`
+`-v "/root/etc-pihole:/etc/pihole" \`
 
-`    -v "/root/etc-dnsmasq.d:/etc/dnsmasq.d" \`
+`-v "/root/etc-dnsmasq.d:/etc/dnsmasq.d" \`
 
-`    --dns=127.0.0.1 --dns=1.1.1.1 \`
+`--dns=127.0.0.1 --dns=1.1.1.1 \`
 
-`    --restart=unless-stopped \`
+`--restart=unless-stopped \`
 
-`    --hostname pi.hole \`
+`--hostname pi.hole \`
 
-`    -e VIRTUAL_HOST="pi.hole" \`
+`-e VIRTUAL_HOST="pi.hole" \`
 
-`    -e PROXY_LOCATION="pi.hole" \`
+`-e PROXY_LOCATION="pi.hole" \`
 
-`    -e FTLCONF_LOCAL_IPV4="127.0.0.1" \`
+`-e FTLCONF_LOCAL_IPV4="127.0.0.1" \`
 
-`    pihole/pihole:latest`
+`pihole/pihole:latest`
 
 Please wait until the state is healthy. You can proactively check the state with the following command.
 
