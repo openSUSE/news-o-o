@@ -1,7 +1,7 @@
 ---
 
 author: Lubos Kocman
-date: 2023-03-28 13:00:00+01:00
+date: 2023-03-28 13:00:00+02:00
 layout: post
 image: /wp-content/uploads/2023/03/leapmicro54-beta-pi-hole-deploy.png
 license: CC-BY-SA-3.0
@@ -30,7 +30,7 @@ Leap Micro is an openSUSE equivalent of SUSE's [SLE Micro](https://www.suse.com/
 In this article, I would like to show you how it can be practically used to enhance your daily ad-free experience at home. 
 I was able to replicate the entire setup in the VM, including downloading the image, in under 15 minutes.
 
-My personal use case for Leap Micro is to have as much ad-free browsing as possible, [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) entries for local services, and a [Nextcloud](https://nextcloud.com/) instance as a bridge to share pictures and videos in between my wife's iPhone, kids tablet and my Android phone.
+My personal use case for Leap Micro is to have as much ad-free browsing as possible, DNS entries for local services, and a [Nextcloud](https://nextcloud.com/) instance as a bridge to share pictures and videos in between my wife's iPhone, kids tablet and my Android phone.
 
 My private home setup is a [Raspberry Pi](https://www.raspberrypi.org/) 4 8GB with 1TB SDD connected via USB 3.0 to SATA III.
 I have a mesh via [TP Link Deco X20](https://www.tp-link.com/de/home-networking/deco/deco-x20/). I do use port mapping from the Deco to expose services to the public via a static public IP.
@@ -42,7 +42,7 @@ I am personally happily using the described setup on my 8GB Raspberry Pi 4 with 
 If you want to just test it out, virtual machines will work as well; just make sure that the VM's virtual network interface is in bridge mode or uses forwarding of incoming connections.
 This can be easily set up with [NetworkManager](https://networkmanager.dev/) in just two clicks. Otherwise, you won't be able to access web management of the VM services and the article becomes pointless.
 
-The benefit I see in using Leap Micro is that the machine does not require any of my attention. I have automatic updates and self-healing on. The machine automatically reboots into an updated snapshot in the defined maintenance window (set by default) and if there is an issue that requires my attention, then I simply resolve the issue with the [Cockpit](https://cockpit-project.org/) interface in the web browser. <https://documentation.suse.com/sle-micro/5.3/pdf/article-cockpit-slemicro_en.pdf>
+The benefit I see in using Leap Micro is that the machine does not require any of my attention. I have automatic updates and self-healing on. The machine automatically reboots into an updated snapshot in the defined maintenance window (set by default) and if there is an issue that requires my attention, then I simply resolve the issue with the [Cockpit](https://cockpit-project.org/) interface in the web browser.
 
 ![Cockpit Update](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-cockpit-updates.png)
 
@@ -54,7 +54,7 @@ What is a self-install image?
 
 The self-install image is essentially a bootable image that writes the pre-configured image of Leap Micro to the disk and enlarges system partitions to the disk size. In this way, installation takes less than two minutes in my VM (VM storage is a file, and I have PCI-e 4 gen M.2 SSD).
 
-Download the self-install image from <https://get.opensuse.org/leapmicro/5.4/> make sure to choose correctly the architecture [x86_64](https://en.wikipedia.org/wiki/X86-64), or [AArch64](https://en.wikipedia.org/wiki/AArch64) for [arm](https://www.arm.com/) devices. We'll use a self-install x86_64 image as this article uses a VM for the demonstration. 
+Download the self-install image from <https://get.opensuse.org/leapmicro/5.4/> make sure to choose correctly the architecture [x86-64](https://en.wikipedia.org/wiki/X86-64), or [AArch64](https://en.wikipedia.org/wiki/AArch64) for [arm](https://www.arm.com/) devices. We'll use a self-install x86-64 image as this article uses a VM for the demonstration. 
 
 ![get.opensuse.org](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-selfinstall-download.png)
 
@@ -69,8 +69,7 @@ or
 Follow these instructions if you are reading this article on Windows: <https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Windows> 
 
 
-Note - Users using Raspberry Pi without the [USB boot enabled](
-https://en.opensuse.org/HCL:Raspberry_Pi4#Boot_from_USB_is_not_enabled_by_default): Please download directly the pre-configured image and write it to the SD Card via the following command. The rest of the steps are the same.
+Note - Users using Raspberry Pi without the USB boot enabled: Please download directly the pre-configured image and write it to the SD Card via the following command. The rest of the steps are the same.
 
 `xzcat [image].raw.xz | dd bs=4M of=/dev/sdX iflag=fullblock oflag=direct status=progress; sync`
 
@@ -85,7 +84,7 @@ This can be skipped in case you're using a virtual machine. Make sure to have a 
 
 ## Booting the image
 
-For demonstration purposes, I will be using  Leap Micro 5.4 Beta x86_64 self-install image running in [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes).
+For demonstration purposes, I will be using  Leap Micro 5.4 Beta x86-64 self-install image running in [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes).
 
 ![Beta Installer Boot](https://raw.githubusercontent.com/openSUSE/news-o-o/master/wp-content/uploads/2023/03/leapmicro54-beta-installer-boot.png)
 
@@ -109,7 +108,7 @@ First boot wizard lets you choose Timezone, Language and a root password, and yo
 Message of the day (MOTD) suggests you enable the cockpit web. It will be accessible through the ip.address.of.this.server:9090. Login to the cockpit as root.
 
 Note: For home purposes, I highly recommend not exposing this port to the public and keeping it for management only from your local network or at least that is how my setup looks like.
-You can completely skip [SSH](https://en.wikipedia.org/wiki/Secure_Shell) since the cockpit allows you to access the terminal via a web browser. 
+You can completely skip SSH since the cockpit allows you to access the terminal via a web browser. 
 
 `$ systemctl enable --now cockpit.socket`
 
