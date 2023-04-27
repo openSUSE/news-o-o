@@ -5,7 +5,7 @@ date: 2023-04-27 23:55:00+02:00
 layout: post
 image: /wp-content/uploads/2023/03/leapmicro54-rpi.jpg
 license: CC-BY-SA-3.0
-title: Home instance of Nextcloud with Leap Micro 5.4, Leap Micro 5.2 is EOL, Leap 15.5 enters RC
+title: Home instance of NextCloud with Leap Micro 5.4, Leap Micro 5.2 is EOL, Leap 15.5 enters RC
 categories:
 - Announcements
 - openSUSE
