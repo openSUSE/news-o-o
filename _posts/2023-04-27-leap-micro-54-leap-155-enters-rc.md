@@ -1,11 +1,11 @@
 ---
 
 author: Lubos Kocman
-date: 2023-04-25 13:00:00+02:00
+date: 2023-04-27 17:00:00+02:00
 layout: post
 image: /wp-content/uploads/2023/04/lmrc.png
 license: CC-BY-SA-3.0
-title: Home instance of Next Cloud with Leap Micro 5.4, Leap Micro 5.2 is EOL, Leap 15.5 enters RC
+title: Home instance of Nextcloud with Leap Micro 5.4, Leap Micro 5.2 is EOL, Leap 15.5 enters RC
 categories:
 - Announcements
 - openSUSE
@@ -32,14 +32,15 @@ tags:
 
 This week was a busy week!
 
-Leap 15.5 enters the Release Candidate phase! According to [the roadmap](https://en.opensuse.org/openSUSE:Roadmap#Schedule_for_openSUSE_Leap_15.5) users can expect the final release shortly after the [oOSC23](https://events.opensuse.org/conferences/oSC23) on June 7th.
+Leap 15.5 enters the Release Candidate phase! According to [the roadmap](https://en.opensuse.org/openSUSE:Roadmap#Schedule_for_openSUSE_Leap_15.5) users can expect the final release shortly after the [openSUSE Conference 2023](https://events.opensuse.org/conferences/oSC23) on June 7th.
 
-The final release of our Immutable HostOS [Leap Micro 5.4](https://get.opensuse.org/leapmicro/5.4/) is now available.
-The availability of Leap Micro 5.4 automatically marks **Leap Micro 5.2 as End of Life**, as we only release security updates for a given release until the next-next release is out. Users who want to remain on 5.2 for the next 2 years should consider switching to commercially supported [SLE Micro](https://www.suse.com/products/micro).
+The final release of our immutable HostOS [Leap Micro 5.4](https://get.opensuse.org/leapmicro/5.4/) is now available.
 
-The SLE Micro update brings [SELinux](https://github.com/SELinuxProject) in enforcing mode by default as well as tuned. Leap Micro is not a traditional distribution, but rather a lightweight HostOS for running virtual machines and containerized workloads.
+The availability of Leap Micro 5.4 automatically marks **Leap Micro 5.2 as End of Life**, as we only release security updates for a given release until the next-next release is out. Users who want to remain on 5.2 for the next two years should consider switching to commercially supported [SLE Micro](https://www.suse.com/products/micro).
 
-To remain secure Leap Micro 5.2 users can either do a fresh deployment, should be under 5 minutes, or consider running following and essentially not to touch the host until the next-next release is out. Leap Micro 5.3 users can still remain on the existing release and enjoy updates until the next Leap Micro release is out. I'm specifically mentioning this to underline the zero-touch nature of the distribution.
+The SLE Micro update brings [SELinux](https://github.com/SELinuxProject) in enforcing mode by default as well as tuning. Leap Micro is not a traditional distribution, but rather a lightweight HostOS for running virtual machines and containerized workloads.
+
+To remain secure, Leap Micro 5.2 users can either do a fresh deployment, which should be under 5-minutes, or consider running the following, which essentially does not touch the host until the next-next release is out. Leap Micro 5.3 users can still remain on the existing release and enjoy updates until the next Leap Micro release is out. I'm specifically mentioning this to underline the zero-touch nature of the distribution.
 
 `sudo transactional-update shell`
 
@@ -50,9 +51,9 @@ To remain secure Leap Micro 5.2 users can either do a fresh deployment, should b
 `reboot # Enjoy`
 
 
-This article is a continuation of our previous practical hands-on [article](https://news.opensuse.org/2023/03/28/leapmicro-54-beta-hands-on/) focusing on ad-free browsing at home with [pi-hole](https://github.com/pi-hole/pi-hole).
+This article is a continuation of our previous practical hands-on [article](https://news.opensuse.org/2023/03/28/leapmicro-54-beta-hands-on/), which focuses on ad-free browsing at home with [pi-hole](https://github.com/pi-hole/pi-hole).
 
-In this article, we'll leverage our existing Pi-hole from the previous article and setup up a home instance of a [Next Cloud AIO](https://github.com/nextcloud/all-in-one).
+In this article, we'll leverage our existing Pi-hole from the previous article and setup up a home instance of a [Nextcloud AIO](https://github.com/nextcloud/all-in-one).
 Such a solution is appealing especially to users valuing their privacy or just like me looking to bridge Apple and Android devices.
 
 This tutorial should take less than 15 minutes, on top of instructions the from previous hands-on.
@@ -62,9 +63,9 @@ My personal use case for Leap Micro is to have as much ad-free browsing as possi
 My private home setup is a [Raspberry Pi](https://www.raspberrypi.org/) 4 8GB with 1TB SDD connected via USB 3.0 to SATA III.
 I have a mesh via [TP Link Deco X20](https://www.tp-link.com/de/home-networking/deco/deco-x20/). I do use port mapping from the Deco to expose services to the public via a static public IP.
 
-The RPI has a reserved address based on its MAC address to keep stuff simple. If you have a dynamic public address, you can consider some dynamic DNS (DDNS) solutions.
+The Raspberry Pi has a reserved address based on its MAC address to keep stuff simple. If you have a dynamic public address, you can consider some dynamic DNS (DDNS) solutions.
 
-I am personally happily using the described setup on my 8GB Raspberry Pi 4 with Leap Micro 5.3 along with [Pi-hole](https://pi-hole.net/) for ad-free browsing and mapping of my NextCloud instance to a local address. 
+I am personally happily using the described setup on my 8GB Raspberry Pi 4 with Leap Micro 5.3 along with [Pi-hole](https://pi-hole.net/) for ad-free browsing and mapping of my Nextcloud instance to a local address. 
 
 If you want to just test it out, virtual machines will work as well; just make sure that the VM's virtual network interface is in bridge mode or uses forwarding of incoming connections.
 This can be easily set up with [NetworkManager](https://networkmanager.dev/) in just two clicks. Otherwise, you won't be able to access web management of the VM services and the article becomes pointless.
@@ -79,7 +80,7 @@ Leap Micro is an immutable operating system with a read-only root. openSUSE solv
 
 The user is expected to already have an existing Pi-hole setup running on top of [Leap Micro 5.4](https://get.opensuse.org/leapmicro/5.4/) and **their own public domain** as described in [the previous article](https://news.opensuse.org/2023/03/28/leapmicro-54-beta-hands-on/).
 
-**Warning: Running Next Cloud AIO requires a public domain**. 
+**Warning: Running Nextcloud AIO requires a public domain**. 
 Otherwise, you’ll hit SSL errors unless you use [self-signed certificates](https://www.reddit.com/r/NextCloud/comments/q1m2s3/https_on_local_network/), such setup would be outside the scope of this article, plus such solution is not practical.
 
 
@@ -104,7 +105,7 @@ If you’re using port mapping from your home router to expose services to the p
 
 `# mkdir -p /srv/nextcloud`
 
-My fstab entry for the btrfs formatted 1TB WD Blue SSD drive connected to my Rpi via AXAGON ADSA-1S6 USB to SATA connector.
+My fstab entry for the btrfs formatted 1TB WD Blue SSD drive connected to my Raspberry Pi via AXAGON ADSA-1S6 USB to SATA connector.
 
 You can get your UUIID with `blkid`
 
@@ -112,7 +113,7 @@ You can get your UUIID with `blkid`
 
 `UUID="881ab56d-d577-4d12-8014-f5a76f3febe6" /srv/nextcloud btrfs noatime 0 0`
 
-And now let's deploy the NextCloud All in One image.
+And now let's deploy the Nextcloud All in One image.
 
 Just note that our deployment will survive reboot(s).
 I highly recommend skipping the domain validation (part of the example command), especially with described setup.
