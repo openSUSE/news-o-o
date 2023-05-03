@@ -29,6 +29,7 @@ tags:
 - NVMe
 - qt patch collection
 - ffmpeg
+- script
 
 ---
 
