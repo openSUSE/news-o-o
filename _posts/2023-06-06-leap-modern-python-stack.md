@@ -21,7 +21,7 @@ tags:
 
 ### Adding Python 3.11 to Leap 15.4 and newer
 
-Leap as a default Python interpreter that's "too old". In Leap,
+Leap has a default Python interpreter that's "too old". In Leap,
 `python3` is Python 3.6 that reached upstream end of life at the end
 of 2021. The current version in Leap is based on SUSE SLES 15, so it's
 supported by SUSE, but it's not something easy to use with modern
@@ -51,11 +51,11 @@ Python modules are not updated. The current Python 3.6 interpreter and
 packages stay intact. The /usr/bin/python3 binary will remain Python
 3.6 for software compatibility reasons, however an additional
 /usr/bin/python3.11 is provided as well. The new Python Stack is an
-addition, that doesn’t collide with existing packages, so it can be
+addition, that doesn't collide with existing packages, so it can be
 co-installed in a system without affecting any running application.
 
 This modern Python will be available in Leap 15.4, and following
-releases will inherit it, so it’ll be available also in Leap 15.5. The
+releases will inherit it, so it'll be available also in Leap 15.5. The
 interpreter can be found now, but the list of modules is still under
 development and will arrive soon.
 
@@ -81,7 +81,7 @@ new stack provides a recent Python environment with a recent
 interpreter and Python modules from 2023.
 
 The list of packages will be a reduced subset of modules in Leap,
-around 500 packages. But it's an intial set that will allow to build a
+around 500 packages. But it's an initial set that will allow to build a
 lot more modern packages and will make the life easier for people
 using the [Python Backports](https://build.opensuse.org/project/show/devel:languages:python:backports).
 
