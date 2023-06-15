@@ -9,13 +9,36 @@ title: Mesa, systemd, Gear, Frameworks update in Tumbleweed
 categories:
 - Announcements
 - openSUSE
-- Leap
+- Tumbleweed
 tags:
 - openSUSE
 - KDE
 - Xfce
 - Mozilla
 - Python
+- openSUSE
+- Tumbleweed
+- Developers
+- sysadmin
+- Open Source
+- rolling release
+- gamers
+- superuser
+- distrowatch
+- hacker
+- Linux
+- Kernel
+- vte
+- yast
+- postfix
+- ALP
+- kdump
+- wayland
+- Gear
+- Frameworks
+- apparmor
+- gtk
+- mesa
 
 ---
 
@@ -31,4 +54,4 @@ Snapshot [20230612](https://lists.opensuse.org/archives/list/factory@lists.opens
 
 An update of [gtk4](https://www.gtk.org/) in snapshot [20230608](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/7422KZCY6CLFEJNKCZVMMIBBNO4OA24S/) to version 4.10.4 addressed some [memory leaks](https://en.wikipedia.org/wiki/Memory_leak) and made a fix to avoid some black flickering with [xwayland](https://wayland.freedesktop.org/). There was a release of [kdump](https://www.kernel.org/doc/html/latest/admin-guide/kdump/kdump.html) that helps to fix the prefix for [ALP](https://www.suse.com/c/suse-salp-raises-the-bar-on-confidential-computing/) as well as adds calibrated values for this future distribution. An update of [python-setuptools](https://pypi.org/project/setuptools/) 67.8.0 had a modification to ensure that the [.pth file](https://medium.com/@lyl1617670866/what-exactly-is-the-pth-file-9a487044a36b) properly updates and the package also had tests to ensure [virtualenv](https://virtualenv.pypa.io/en/latest/) works in [Python](https://www.python.org/) 3.12. A few other package like [postfix](https://www.postfix.org/) 3.8.1, [yast2-storage-ng](https://github.com/yast/yast-storage-ng) 4.6.11, and [vte](https://wiki.gnome.org/Apps/Terminal/VTE) 0.72.2 also updated in the snapshot.
 
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, vte, yast, postfix, ALP, kdump, wayland, KDE, Gear, Frameworks, apparmor, python" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, vte, yast, postfix, ALP, kdump, wayland, KDE, Gear, Frameworks, apparmor, python, gtk, mesa" content="HTML,CSS,XML,JavaScript">
