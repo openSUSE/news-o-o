@@ -34,7 +34,7 @@ tags:
 
 [EN](https://news.opensuse.org/2023/06/07/leap-release-matures-sets-up-tech-transition/) / [CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_15.5) / [CS](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_15.5) / [DE](https://de.opensuse.org/Release_announcement_15.5) / [ES](http://es.opensuse.org/Anuncio_publicaci%C3%B3n_15.5) /  [FR](http://fr.opensuse.org/Annonce_de_version_15.5) / [JA](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_15.5) / [NL](http://nl.opensuse.org/Aankondiging_van_uitgave_van_15.5) / [ZH-TW](http://zh-tw.opensuse.org/Release_announcement_15.5)
 
-NUREMBERG, Germany – The release of [openSUSE](https://get.opensuse.org)’s latest 15-series version marks years of maintenance and security that began more than five years ago..
+NUREMBERG, Germany – The release of [openSUSE](https://get.opensuse.org)’s latest 15-series version marks years of maintenance and security that began more than five years ago.
 
 The maturity of [Leap 15.5](https://get.opensuse.org/leap/15.5/) comes into play as new technological changes of the last five years have been introduced, such as container technologies, immutable systems, virtualization, embedded development, and other high-tech advances.
 
