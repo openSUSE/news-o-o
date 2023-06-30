@@ -18,7 +18,7 @@ tags:
 ---
 
 
-The openSUSE.Asia Committee is seeking sponsors for the nineth openSUSE.Asia Summit. The summit will take place in Chongqing, China, from Oct. 21– 23, 2023. Our participants are FLOSS users, developers, students and people who are interested in FLOSS from a wide range of different industries. Sponsorship for accommodation, food, publicity, etc.
+The openSUSE.Asia Committee is seeking sponsors for the nineth openSUSE.Asia Summit. The summit will take place in Chongqing, China, from Oct. 21–23, 2023. Our participants are FLOSS users, developers, students and people who are interested in FLOSS from a wide range of different industries. Sponsorship for accommodation, food, publicity, etc.
 
 We are aiming to provide a low-barrier offline platform for users, contributors and developers to meet. Relationships between open source enthusiasts can be greatly facilitated through offline summits.It is also an opportunity for technologists to share and promote the latest trends in technology and to exchange experiences. Sponsorship is an expression of your appreciation and recognition of our community and our work goals.
 
