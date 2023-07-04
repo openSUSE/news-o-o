@@ -37,7 +37,7 @@ Times and technology have changed, but the purpose of manpage hasn't.
 
 Users no longer need to install a package on their system to access a program’s documentation thanks to the openSUSE Project’s repository of manual pages at [manpages.opensuse.org](https://manpages.opensuse.org). 
 
-There are a couple of different ways to use the manpages repository. People can [browse the repository index](https://manpages.opensuse.org/openSUSE%20Tumbleweed/index.html), which features thousands of packages (curently 111,387), enter the package in the search or enter the /name of the package in the URL.  
+There are a couple of different ways to use the manpages repository. People can [browse the repository index](https://manpages.opensuse.org/Tumbleweed/index.html), which features thousands of packages (curently 111,387), enter the package in the search or enter the /name of the package in the URL.  
 
 The manpages repository follow upstream manual pages in [openSUSE Factory](https://en.opensuse.org/Portal:Factory) and translations are based on these upstream translation efforts for each software package.
 
