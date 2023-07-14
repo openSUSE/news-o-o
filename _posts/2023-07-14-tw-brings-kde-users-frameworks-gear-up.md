@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio 
-date: 2023-07-13 14:00:00+02:00
+date: 2023-07-14 14:00:00+02:00
 layout: post
 image: /wp-content/uploads/2023/07/kden.png
 license: CC-BY-SA-3.0
