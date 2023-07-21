@@ -5,7 +5,7 @@ date: 2023-07-21 09:00:00+02:00
 layout: post
 image: /wp-content/uploads/2023/07/hb.png
 license: CC-BY-SA-3.0
-title: Tumbleweed Update Highlights Redis and HarfBuzz Changes
+title: Tumbleweed Update Highlights Redis, HarfBuzz Changes
 categories:
 - Announcements
 - openSUSE
