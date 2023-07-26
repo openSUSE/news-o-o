@@ -1,7 +1,7 @@
 ---
 
 author: Lubos Kocman
-date: 2023-07-28 12:00:00+01:00
+date: 2023-07-25 12:00:00+01:00
 layout: post
 image: /wp-content/uploads/2023/07/zypp-team.png
 license: CC-BY-SA-3.0
