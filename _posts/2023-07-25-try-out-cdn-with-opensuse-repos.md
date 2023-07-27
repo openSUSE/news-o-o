@@ -19,6 +19,7 @@ tags:
 - MicroOS
 - Leap
 - zypper
+- RIS
 
 ---
 
@@ -75,5 +76,5 @@ See [doc-o-o](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html)
 
 Users can restore old repository files by following instructions in the project [README](https://github.com/openSUSE/openSUSE-repos#restoring-original-distribution-repositories) file.
  
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Leap, MicroOS, zypper, zypp-services" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Leap, MicroOS, zypper, RIS" content="HTML,CSS,XML,JavaScript">
 
