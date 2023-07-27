@@ -23,7 +23,8 @@ tags:
 ---
 
 [openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies repository management by utilizing [zypp-services](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html#services-usecase-4) for core distribution repositories.
-The latest version switches users, who already use openSUSE-repos, to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128).
+
+The latest version that just landed in Tumbleweed switches users, who already use openSUSE-repos, to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128). openSUSE Leap 15.5 users will receive it in a next few days via a maintenance update. The change will be available also as part of Leap Micro 5.5.
 
 Users interested in the effort are welcome to contribute to the [openSUSE-repos](https://github.com/openSUSE/openSUSE-repos).
 
