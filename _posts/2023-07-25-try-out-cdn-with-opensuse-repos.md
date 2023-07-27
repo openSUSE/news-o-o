@@ -22,11 +22,9 @@ tags:
 
 ---
 
-[openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies repository management by utilizing [zypp-services](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html#services-usecase-4) for core distribution repositories.
+[openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies openSUSE repository management by utilizing [Repository Index Service (RIS)](https://en.opensuse.org/openSUSE:Standards_Repository_Index_Service) for core distribution repositories.
 
 The latest version that just landed in Tumbleweed switches users, who already use openSUSE-repos, to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128). openSUSE Leap 15.5 users will receive it in a next few days via a maintenance update. The change will be available also as part of Leap Micro 5.5.
-
-Users interested in the effort are welcome to contribute to the [openSUSE-repos](https://github.com/openSUSE/openSUSE-repos).
 
 ### Installation of openSUSE-repos for your distribution
 
@@ -45,10 +43,10 @@ Install the correct package for your distribution and you should be all set.
   
 You may optionally use `zypper ref -s` to explicitly refresh services.
 
-### About zypp-services 
+### About Repository Index Service
 
-zypp-services automatically manages repository definitions in /etc/zypp/repos.d from an xml template. 
-These definitions are identified by the ```openSUSE:``` prefix.
+zypp supports RIS services which translate a (remote) repoindex.xml into (local) repository definitions.
+These definitions are identified by a prefix, in this particular case ```openSUSE:``` .
 
 Example:
 ```/etc/zypp/repos.d/openSUSE:repo-oss.repo```
@@ -71,8 +69,7 @@ Service template can reference zypp variables such as a new /etc/zypp/vars.d/DIS
 ```    autorefresh="true"/>```<br>
 
 If you'd experiment with your own services, /var/log/zypper.log will help you troubleshoot most of the service-related issues.
-
-More information about zypp-services can be found in [doc-o-o](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html).
+See [doc-o-o](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html) for more information about zypper and RIS.
 
 ### Rollback
 
