@@ -24,7 +24,7 @@ tags:
 
 [openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies openSUSE repository management by utilizing [Repository Index Service (RIS)](https://en.opensuse.org/openSUSE:Standards_Repository_Index_Service) for core distribution repositories.
 
-The latest version that just landed in Tumbleweed switches users, who already use openSUSE-repos, to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128). openSUSE Leap 15.5 users will receive it in a next few days via a maintenance update. The change will be available also as part of Leap Micro 5.5.
+The latest update switches users, who already use openSUSE-repos, to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128). Change just landed in Tumblweed, openSUSE Leap 15.5 users will receive it in the next few days via a maintenance update. The change will be available also as part of Leap Micro 5.5.
 
 ### Installation of openSUSE-repos for your distribution
 
