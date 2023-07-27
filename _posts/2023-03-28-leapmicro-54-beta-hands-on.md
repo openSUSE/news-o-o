@@ -183,7 +183,7 @@ In this example, we're passing local `/root/etc-pihole` and `/root/etc-dnsmaq.d`
 
 Please wait until the state is healthy. You can proactively check the state with the following command.
 
-`# docker inspect -f "\{\{.State.Health.Status}}" pihole`
+`# docker inspect -f {% raw %}"{{.State.Health.Status}}"{% endraw %} pihole`
 
 Cleanup in case you messed up 
 
