@@ -22,7 +22,7 @@ tags:
 
 ---
 
-[openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies openSUSE repository management by utilizing [zypp-services](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html#services-usecase-4) for core distribution repositories.
+[openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies repository management by utilizing [zypp-services](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html#services-usecase-4) for core distribution repositories.
 The latest version switches users, who already use openSUSE-repos, to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128).
 
 Users interested in the effort are welcome to contribute to the [openSUSE-repos](https://github.com/openSUSE/openSUSE-repos).
