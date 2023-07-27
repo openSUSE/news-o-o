@@ -41,8 +41,6 @@ Install the correct package for your distribution and you should be all set.
 `sudo zypper in openSUSE-repos-MicroOS`
 
 `sudo zypper in openSUSE-repos-LeapMicro`
-  
-You may optionally use `zypper ref -s` to explicitly refresh services.
 
 ### About Repository Index Service
 
@@ -68,6 +66,19 @@ Service template can reference zypp variables such as a new /etc/zypp/vars.d/DIS
 ```    name="%{alias} (%{distver})"```<br>
 ```    enabled="true"```<br>
 ```    autorefresh="true"/>```<br>
+
+Let's have a look at our services
+
+```# zypper ls # list-services```<br>
+```# | Alias                                  | Name                 | Enabled | GPG Check | Refresh | Type```<br>
+```--+----------------------------------------+----------------------+---------+-----------+---------+-------```<br>
+```1 | openSUSE                               | openSUSE             | Yes     | ----      | Yes     | ris```<br>
+```2 | NVIDIA                                 | NVIDIA               | Yes     | (r ) Yes  | Yes     | rpm-md```<br>
+```3 | google-chrome                          | google-chrome        | Yes     | (r ) Yes  | Yes     | rpm-md```<br>
+
+
+You may optionally use `zypper ref -s` to explicitly refresh services.
+You can manually trigger refresh the service including its repos with ```zypper refs -r```.
 
 If you'd experiment with your own services, /var/log/zypper.log will help you troubleshoot most of the service-related issues.
 See [doc-o-o](https://doc.opensuse.org/projects/libzypp/HEAD/zypp-services.html) for more information about zypper and RIS.
