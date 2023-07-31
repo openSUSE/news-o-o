@@ -1,7 +1,7 @@
 ---
 
 author: Lubos Kocman
-date: 2023-07-25 12:00:00+01:00
+date: 2023-07-31 08:00:00+01:00
 layout: post
 image: /wp-content/uploads/2023/07/zypp-team.png
 license: CC-BY-SA-3.0
@@ -23,9 +23,15 @@ tags:
 
 ---
 
-[openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies openSUSE repository management by utilizing [Repository Index Service (RIS)](https://en.opensuse.org/openSUSE:Standards_Repository_Index_Service) for core distribution repositories.
+For a while [Dirk Mueller](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/4YOJ2MMSET5JN42T2H2GAHQG5MG5YGBT/) was working in the background to get a sponsored CDN
+subscription. Thanks to his effort [Fastly.com](https://www.fastly.com/) has agreed to sponsor the openSUSE project with bandwidth. We primarily intend to use it to improve the reachability (latency) of
+download.opensuse.org in various areas of the world, but of course can
+expand it to other usecases as well.
 
-The latest update switches users, who already use openSUSE-repos, to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128). Change just landed in Tumbleweed, openSUSE Leap 15.5 users will receive it in the next few days via a maintenance update. The change will be available also as part of Leap Micro 5.5. Users who don't want to wait can get it from [Base:System/openSUSE-repos](https://build.opensuse.org/package/show/Base:System/openSUSE-repos).
+[openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) simplifies openSUSE repository management by utilizing [Repository Index Service (RIS)](https://en.opensuse.org/openSUSE:Standards_Repository_Index_Service) for core distribution repositories and its latest update switches users to the new [cdn.opensuse.org](https://code.opensuse.org/leap/features/issue/128).
+
+Change just landed in Tumbleweed, openSUSE Leap 15.5 users will receive it in the next few days via a maintenance update. The change will be available also as part of Leap Micro 5.5. 
+Users who don't want to wait can get it from [Base:System/openSUSE-repos](https://build.opensuse.org/package/show/Base:System/openSUSE-repos).
 
 ### Installation of openSUSE-repos for your distribution
 
