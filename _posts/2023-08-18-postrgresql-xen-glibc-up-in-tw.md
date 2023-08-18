@@ -5,7 +5,7 @@ date: 2023-08-18 11:00:00+02:00
 layout: post
 image: /wp-content/uploads/2021/02/postgresql.png
 license: CC-BY-SA-3.0
-title: PPostgreSQL, Xen, glibc Update in Tumbleweed
+title: PostgreSQL, Xen, glibc Update in Tumbleweed
 categories:
 - Announcements
 - openSUSE
