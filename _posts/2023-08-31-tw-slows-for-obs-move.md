@@ -3,7 +3,7 @@
 author: Douglas DeMaio 
 date: 2023-08-31 13:00:00+02:00
 layout: post
-image: /wp-content/uploads/2023/08/pgpme.png
+image: /wp-content/uploads/2021/08/twff.png
 license: CC-BY-SA-3.0
 title: Tumbleweed Slows for Open Build Service Move
 categories:
