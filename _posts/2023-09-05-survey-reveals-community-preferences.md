@@ -97,6 +97,7 @@ What of the following options do you prefer to contribute your efforts toward?
 ### Community's Vision for openSUSE
 
 What of the following overall options would you prefer most for the direction of openSUSE ?
+	
 	Linarite: 23.85%
 	Slowroll: 27.83%
 	I'd prefer no Leap replacement and just focus on Tumbleweed: 17.43%
