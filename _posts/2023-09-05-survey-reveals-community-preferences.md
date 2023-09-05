@@ -19,7 +19,7 @@ tags:
 
 ---
 
-The openSUSE contributor community recently completed a comprehensive survey last week aimed at determining the project's future direction. The results were obtained from 327 respondents, and it sheds some light on various aspects of openSUSE's development, deployment and upgrade plans.
+The openSUSE contributor community recently completed a comprehensive [survey](https://survey.opensuse.org/) last week aimed at determining the project's future direction. The results were obtained from 327 respondents, and it sheds some light on various aspects of openSUSE's development, deployment and upgrade plans.
 
 A pdf of the survey can be found on the [openSUSE Wiki](https://en.opensuse.org/images/6/60/Contributorsurvey2023.pdf). 
 
