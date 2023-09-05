@@ -39,6 +39,7 @@ Question: Which group would you identify yourself with the most?
 ### Experience in openSUSE
 
 How long have you been involved in openSUSE?
+	
 	< 6 months: 7.03%
 	< 2 years: 12.84%
 	< 5 years: 10.40%
@@ -51,6 +52,7 @@ This data demonstrates a significant portion of long-term users and contributors
 ### Deployment of openSUSE Leap
 
 Where are you currently deploying openSUSE Leap?
+	
 	My private server: 32.42%
 	My private laptop / desktop: 50.15%
 	My work machine (desktop/laptop): 33.33%
@@ -63,6 +65,7 @@ These findings show that openSUSE Leap has a diverse range of use cases, from pe
 ### Upgrade Preferences for Laptops/Desktops
 
 How often would you like to upgrade to a new version of the openSUSE Leap successor distribution on a laptop or desktop machine?
+	
 	Weekly: 10.40%
 	Every 3-6 months: 14.07%
 	Every 6-12 months: 20.49%
@@ -73,6 +76,7 @@ How often would you like to upgrade to a new version of the openSUSE Leap succes
 ### Upgrade Preferences for Servers/Cloud Servers
 
 How often would you like to upgrade to a new version of the openSUSE Leap successor on a Server/Cloud Server?
+	
 	Weekly: 2.75%
 	Every 3-6 months: 6.73%
 	Every 6-12 months: 11.01%
@@ -83,6 +87,7 @@ How often would you like to upgrade to a new version of the openSUSE Leap succes
 ### Contributor Preferences
 
 What of the following options do you prefer to contribute your efforts toward?
+	
 	Linarite: 19.88%
 	Slowroll: 19.88%
 	I'd prefer not to contribute to any Leap replacement and just focus on Tumbleweed: 20.80%
@@ -103,6 +108,7 @@ What of the following overall options would you prefer most for the direction of
 #### For laptop/desktop machines:
 
 Which of the following would you prefer for use on a laptop or desktop machine?
+	
 	Linarite: 18.65%
 	Slowroll: 23.24%
 	I'd prefer no Leap replacement and just use Tumbleweed: 33.94%
@@ -112,6 +118,7 @@ Which of the following would you prefer for use on a laptop or desktop machine?
 #### For server/cloud server machines:
 
 Which of the following would you prefer for use on server or cloud server machine?
+	
 	Linarite: 28.75%
 	Slowroll: 31.80%
 	I'd prefer no Leap replacement and just use Tumbleweed: 15.29%
@@ -119,7 +126,6 @@ Which of the following would you prefer for use on server or cloud server machin
 	Not completed or Not displayed: 21.71%
 
 The results of this comprehensive survey offer a clear snapshot of the openSUSE community's preferences and priorities, which will undoubtedly influence the project's future direction.
-
 
 <meta name="openSUSE, Tumbleweed, survey, Leap, slowroll, linarite, Open Source" content="HTML,CSS,XML,JavaScript">
 
