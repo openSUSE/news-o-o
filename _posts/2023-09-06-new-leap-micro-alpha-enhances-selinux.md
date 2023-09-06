@@ -5,7 +5,7 @@ date: 2023-09-06 14:00:00+02:00
 layout: post
 image: /wp-content/uploads/2023/09/lm.png
 license: CC-BY-SA-3.0
-title: Survey Reveals Community Preferences for openSUSE's Future Direction
+title: New Leap Micro Alpha Enhances SELInux
 categories:
 - Announcements
 - openSUSE
