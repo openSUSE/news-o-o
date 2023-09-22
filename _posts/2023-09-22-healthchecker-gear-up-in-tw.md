@@ -3,7 +3,7 @@
 author: Douglas DeMaio 
 date: 2023-09-22 11:00:00+02:00
 layout: post
-image: /wp-content/uploads/2023/09/health.png
+image: /wp-content/uploads/2023/09/laptop.gif
 license: CC-BY-SA-3.0
 title: Health-Checker, Gear, More update in Tumbleweed 
 categories:
