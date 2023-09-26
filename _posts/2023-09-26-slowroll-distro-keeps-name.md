@@ -21,11 +21,13 @@ tags:
 
 ---
 
-Choosing a name for anything is not an easy task; the detail can wield significant influence, which is why [a survey ](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/TTFFTDQPJDZ7LQFN2T2BNKQA5TVYIOKQ/) to make a decision about renaming Slowroll was presented.
+Choosing a name for anything is not an easy task; the detail can wield significant influence, which is why [a survey](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/TTFFTDQPJDZ7LQFN2T2BNKQA5TVYIOKQ/) to make a decision about renaming Slowroll was presented.
 
 [Slowroll](https://en.opensuse.org/openSUSE:Slowroll) is a new distribution based on [Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed), but rolls out updates slower; it is designed to implement updates at a pace of one to two months, integrating bug fixes and addressing [Common Vulnerability and Exposure](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) issues as they emerge. 
 
-The voting process concluded today with more than 1000 votes cast by interested members of the open-source community. This enthusiastic involvement underscores the interest of the openSUSE user base and trajectory of the project.
+As will all things in open source, the name was presented along with the idea for the distribution and discussion took place about the details surrounding Slowroll. The origin of the name was self-describing the distribution, but [other names for Slowroll were proposed](https://etherpad.opensuse.org/p/slowroll-idea), so the renaming of it was put to a vote. All names there were proposed were included in the survey.
+
+That voting process concluded today with more than 1,000 votes cast by interested members of the open-source community. This enthusiastic involvement underscores the interest of the openSUSE user base and trajectory of the project.
 The top results are the following:
 
   1. Slowroll - 46.33%
