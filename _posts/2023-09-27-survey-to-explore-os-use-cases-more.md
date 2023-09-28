@@ -34,7 +34,7 @@ tags:
 
 A recently published [openSUSE survey](https://survey.opensuse.org/) is asking IT professionals and users about their views on open-source technologies and the ever-evolving Linux ecosystem.
 
-The [Use Case Survey[(https://survey.opensuse.org/) aims to gather insights on what will shape the future of Linux and its role in various industries. The survey has four groups with the potential of answering up to 30 questions based on the response of the first and only mandatory question. The survey can take less than 10 minutes depending on how in depth of details a surveyee would like to provide. The overarching themes and ideas of the survey are the following:
+The [Use Case Survey](https://survey.opensuse.org/) aims to gather insights on what will shape the future of Linux and its role in various industries. The survey has four groups with the potential of answering up to 30 questions based on the response of the first and only mandatory question. The survey can take less than 10 minutes depending on how in depth of details a surveyee would like to provide. The overarching themes and ideas of the survey are the following:
 
 ### Understanding User Needs and Satisfaction
 
