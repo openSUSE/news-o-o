@@ -5,7 +5,7 @@ date: 2023-10-05 16:00:00+02:00
 layout: post
 image: /wp-content/uploads/2023/10/gtk.png
 license: CC-BY-SA-3.0
-title: Tumbleweed Gets systemd-boot Support 
+title: Tumbleweed's Graphic Updates Shine 
 categories:
 - Announcements
 - openSUSE
