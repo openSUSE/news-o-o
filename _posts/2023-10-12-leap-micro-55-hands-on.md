@@ -23,7 +23,7 @@ tags:
 ---
 
 A new version of the modern lightweight host operating system [Leap Micro 5.5](https://get.opensuse.org/leapmicro/5.5/) is now [available](https://en.opensuse.org/openSUSE:Roadmap#Schedule_for_openSUSE_Leap_Micro_5.5).
-All documents including Release notes from [SLE Micro 5.5 documentation space](https://documentation.suse.com/sle-micro/5.5/) are also applicable for Leap Micro, as Leap Micro is essentially a rebranded SLE Micro.
+All documents including [Release notes](https://www.suse.com/releasenotes/x86_64/SLE-Micro/5.5/index.html) from [SLE Micro 5.5 documentation space](https://documentation.suse.com/sle-micro/5.5/) are also applicable for Leap Micro, as Leap Micro is essentially a rebranded SLE Micro.
 
 <strong>It's important to mention that this also means that Leap Micro 5.3 is now End of Life (EOL).</strong>
 Users of Leap Micro 5.3 are strongly advised to consider upgrading to either the Leap Micro 5.4 or 5.5 release. This ensures access to the latest features, security enhancements, and ongoing support.
