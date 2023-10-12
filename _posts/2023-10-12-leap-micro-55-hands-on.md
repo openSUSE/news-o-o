@@ -42,4 +42,6 @@ Users can also use [Toolbox](https://kubic.opensuse.org/blog/2019-10-22-toolbox/
 
 We've made a short YouTube [playlist](https://www.youtube.com/watch?v=j8kWT7HSjbw&list=PL_AMhvchzBacAxIOv3_lRHBRrIUNo6Abp) with a few tutorials on how to put Leap Micro to practical use at home.
 
+[![Watch the video](https://img.youtube.com/vi/j8kWT7HSjbw/hqdefault.jpg)](https://youtu.be/j8kWT7HSjbw?si=XfwlSUsDM6zoYHzV)
+
 <meta name="openSUSE, Open Source, leap micro, hostos, docker, podman, selinux, cloud, containers" content="HTML,CSS,XML,JavaScript">
