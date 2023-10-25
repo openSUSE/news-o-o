@@ -101,4 +101,6 @@ The designs that are submitted will be added to a survey where the community can
 
 We recommend the artist to use Inkscape, a powerful, free and open source vector graphics tool for all kinds of design. 
 
+Join others on [openSUSE's Marketing Telegram Channel](https://t.me/openSUSE_Marketing) if you want to chat with people about the designs.
+
 <meta name="openSUSE, Community, competition, logo, vote, survey, Tumbleweed, Leap, Slowroll, Kalpa, Aeon, MicroOS, Leap Micro" content="HTML,CSS,XML,JavaScript">
