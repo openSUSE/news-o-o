@@ -5,7 +5,7 @@ date: 2023-10-25 12:00:00+02:00
 layout: post
 image: /wp-content/uploads/2023/10/logos.png
 license: CC-BY-SA-3.0
-title: openSUSE to have Logo Competitions 
+title: openSUSE to have Logos Competition 
 categories:
 - Announcements
 - openSUSE
