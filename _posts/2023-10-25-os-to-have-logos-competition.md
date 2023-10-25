@@ -86,7 +86,7 @@ The deadline is Nov. 22.
 	
 * The branding guidelines will be helpful to design your logo (optional) https://opensuse.github.io/branding-guidelines/
 
-### Please submit your design by doing the following:
+#### Please submit your design by doing the following:
 
 * Email: ddemaio@opensuse.org
 * Subject: openSUSE/Tumbleweed/Leap/Kalpa/Slowroll – [your name]
