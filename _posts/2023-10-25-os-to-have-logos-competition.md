@@ -44,7 +44,7 @@ openSUSE is a community-driven Linux project that develops, builds and maintains
 
 [Leap](https://get.opensuse.org/leap/) is a reliable open-source Linux distribution with a focus on stability for desktops and servers.
 
-Slowroll is an experimental distribution based on Tumbleweed, but has a slower release pace. Big updates come every one or two months. The Slowroll logo should not directly mimic the Tumbleweed logo to maintain differentiation among the distributions from the same source.
+[Slowroll](https://en.opensuse.org/openSUSE:Slowroll) is an experimental distribution based on Tumbleweed, but has a slower release pace. Big updates come every one or two months, and continous bug fixes and security fixes gradually come in moving toward the big updates. The Slowroll logo should not directly mimic the Tumbleweed logo to maintain differentiation among the distributions from the same source.
 
 [Kalpa](https://get.opensuse.org/microos/) is the KDE Plasma [MicroOS](https://get.opensuse.org/microos/) Desktop distribution that is gradually advancing from its Alpha state, and receives updates as a subset of Tumbleweed. While Kalpa has a close relationship with Aeon, their logos should be distinct. Gears and the letter K motifs are acceptable for Kalpa, but it cannot directly use [KDE](https://kde.org/) trademarks.
 
