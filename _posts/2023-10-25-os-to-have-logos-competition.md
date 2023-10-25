@@ -60,4 +60,35 @@ The winners will receive a “Geeko Mystery Box” as a reward for their creativ
 
 The deadline is Nov. 22. 
 
+### The Rules of the Contest are as follows:
+
+* The logo should be licensed under CC-BY-SA 4.0 and allow everyone to use the logo without attribution (BY) if your work is used as a logo for the openSUSE Project. Note that the attribution is going to be shown on the conference website.
+* Design must be original and should not include any third party materials.
+* Both monochromes and color formats are essential for submission.
+* Submissions must be in SVG format.
+* Design should reflect the openSUSE communities.
+* The logo should avoid the following things:
+	Brand names or trademarks of any kind.
+	Illustrations that may consider inappropriate, offensive, hateful, tortuous, defamatory, slanderous or libelous.
+	Sexually explicit or provocative images.
+	Violence or weapons.
+	Alcohol, tobacco, or drug use imagery.
+	Discrimination based on race, gender, religion, nationality, disability, sexual orientation or age.
+	Bigotry, racism, hatred or harm against groups or individuals
+	Religious, political, or nationalist imagery.
+* The branding guidelines will be helpful to design your logo (optional) https://opensuse.github.io/branding-guidelines/
+
+### Please submit your design to ddemaio@opensuse.org with the following entries:
+
+* Subject: openSUSE/Tumbleweed/Kalpa/Slowroll – [your name]
+* Your name and mail address to contact
+* Vector file of the design with SVG format ONLY.
+* Post a PNG of the design under the openSUSE, Tumbleweed, Leap Slowroll, or Kalpa headings on <https://en.opensuse.org/Logocontest>
+* File size less than 512 KB.
+* Text about philosophy of the design
+
+The designs that are submitted will be added to a survey where the community can vote on the submitted logo designs. The final decision will be made at an openSUSE Community meeting and it may not be the highest scored design.
+
+We recommend the artist to use Inkscape, a powerful, free and open source vector graphics tool for all kinds of design. 
+
 <meta name="openSUSE, Community, competition, logo, vote, survey, Tumbleweed, Leap, Slowroll, Kalpa, Aeon, MicroOS, Leap Micro" content="HTML,CSS,XML,JavaScript">
