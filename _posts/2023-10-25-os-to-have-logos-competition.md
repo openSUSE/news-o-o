@@ -72,6 +72,7 @@ The deadline is Nov. 22.
 	- Brand names or trademarks of any kind.
 	
 	- Illustrations that may consider inappropriate, offensive, hateful, tortuous, defamatory, slanderous or libelous.
+
 	- Sexually explicit or provocative images.
 	
 	- Violence or weapons.
@@ -84,7 +85,7 @@ The deadline is Nov. 22.
 	
 	- Religious, political, or nationalist imagery.
 	
-* The branding guidelines will be helpful to design your logo (optional) https://opensuse.github.io/branding-guidelines/
+* The branding guidelines will be helpful to design your logo (optional) [https://opensuse.github.io/branding-guidelines/](https://opensuse.github.io/branding-guidelines/)
 
 #### Please submit your design by doing the following:
 
