@@ -88,7 +88,7 @@ The deadline is Nov. 22.
 
 ### Please submit your design to ddemaio@opensuse.org with the following entries:
 
-* Subject: openSUSE/Tumbleweed/Kalpa/Slowroll – [your name]
+* Subject: openSUSE/Tumbleweed/Leap/Kalpa/Slowroll – [your name]
 * Your name and mail address to contact
 * Vector file of the design with SVG format ONLY.
 * Post a PNG of the design under the openSUSE, Tumbleweed, Leap Slowroll, or Kalpa headings on <https://en.opensuse.org/Logocontest>
