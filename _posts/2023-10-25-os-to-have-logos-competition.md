@@ -71,11 +71,17 @@ The deadline is Nov. 22.
 	Brand names or trademarks of any kind.
 	Illustrations that may consider inappropriate, offensive, hateful, tortuous, defamatory, slanderous or libelous.
 	Sexually explicit or provocative images.
+	
 	Violence or weapons.
+	
 	Alcohol, tobacco, or drug use imagery.
+	
 	Discrimination based on race, gender, religion, nationality, disability, sexual orientation or age.
-	Bigotry, racism, hatred or harm against groups or individuals
+	
+	Bigotry, racism, hatred or harm against groups or individuals.
+	
 	Religious, political, or nationalist imagery.
+	
 * The branding guidelines will be helpful to design your logo (optional) https://opensuse.github.io/branding-guidelines/
 
 ### Please submit your design to ddemaio@opensuse.org with the following entries:
