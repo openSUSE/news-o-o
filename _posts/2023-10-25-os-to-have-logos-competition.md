@@ -69,7 +69,7 @@ The deadline is Nov. 22.
 * Design should reflect the openSUSE communities.
 * The logo should avoid the following things:
 	
-	Brand names or trademarks of any kind.
+	- Brand names or trademarks of any kind.
 	
 	Illustrations that may consider inappropriate, offensive, hateful, tortuous, defamatory, slanderous or libelous.
 	Sexually explicit or provocative images.
