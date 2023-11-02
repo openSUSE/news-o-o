@@ -62,7 +62,7 @@ The deadline is Nov. 22.
 
 ### The Rules of the Contest are as follows:
 
-* The logo should be licensed under CC-BY-SA 4.0 and allow everyone to use the logo without attribution (BY) if your work is used as a logo for the openSUSE Project. Note that the attribution is going to be shown on the conference website.
+* The logo should be licensed under CC-BY-SA 4.0 and allow everyone to use the logo without attribution (BY) if your work is used as a logo for the openSUSE Project. Note that the attribution is going to be shown on the project's websites.
 * Design must be original and should not include any third party materials.
 * Both monochromes and color formats are essential for submission.
 * Submissions must be in SVG format.
