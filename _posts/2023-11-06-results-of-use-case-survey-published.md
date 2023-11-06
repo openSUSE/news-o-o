@@ -32,7 +32,7 @@ tags:
 
 ---
 
-The [openSUSE Project](https://www.opensuse.org/) ran a [use-case survey](https://en.opensuse.org/Usecase2023) during the month of October and results are now available via [a 254 full report](https://en.opensuse.org/images/8/82/Usecase2023.pdf) and a [summary](https://en.opensuse.org/Usecase2023) of the survey’s findings is  on the community’s [wiki](https://en.opensuse.org/).
+The [openSUSE Project](https://www.opensuse.org/) ran a [use-case survey](https://en.opensuse.org/Usecase2023) during the month of October and results are now available via [a 254-page report](https://en.opensuse.org/images/8/82/Usecase2023.pdf) and a [summary](https://en.opensuse.org/Usecase2023) of the survey’s findings is  on the community’s [wiki](https://en.opensuse.org/).
 
 The survey provides a breakdown of the use cases of Linux among respondents based on their primary use of IT. 
 
