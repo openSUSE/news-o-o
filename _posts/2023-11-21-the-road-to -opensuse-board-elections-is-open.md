@@ -35,7 +35,7 @@ Following the closure of the announcement process, Phase 1 starts on Dec. 1. Thi
 
 Transitioning into Phase 2 on Dec. 15, the community takes center stage in influencing the project's direction. Ballots open, allowing eligible members to cast their votes via a secure electronic system. Each vote is crucial and shapes the leadership that will guide openSUSE in the upcoming years. There are two seats available for this year’s board.
 
-For any inquiries or clarifications, individuals can reach out to the committee at election-officials@opensuse.org.
+For any inquiries or clarifications, individuals can reach out to the committee at [election-officials@opensuse.org](mailto:election-officials@opensuse.org).
 
 By actively participating in the openSUSE Board Elections 2023, every member contributes to the shared vision of a stronger, more resilient open-source community.
 
