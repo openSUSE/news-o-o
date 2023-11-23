@@ -1,6 +1,6 @@
 ---
 author: Douglas DeMaio
-date: 2023-11-23 23:00:00+01:00
+date: 2023-11-23 22:00:00+01:00
 layout: post
 image: /wp-content/uploads/2023/11/logovote.png
 license: CC-BY-SA-3.0
