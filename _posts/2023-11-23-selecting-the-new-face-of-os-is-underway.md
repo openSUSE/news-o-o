@@ -28,7 +28,7 @@ tags:
 
 ---
 
-The openSUSE community's [logo contest](https://en.opensuse.org/Logocontest) submission phase is now complete and voting for the logos has begun. 
+The openSUSE community's [logo contest](https://en.opensuse.org/Logocontest) submission phase is now complete and [voting for the logos has begun](https://survey.opensuse.org/). 
 
 This competition marks a pivotal moment for openSUSE and the voting goes until Dec. 10.
 
@@ -47,5 +47,7 @@ The person doing the branding changes and maintenance has a say in any changes. 
 Winners of the contest will be announced following the vote tally and will be sent a "Geeko Mystery Box" as a token of appreciation for their contributions.
 
 Last month the community announced a logo competition for a new openSUSE logo as well as four openSUSE distributions; Tumbleweed, Leap, Slowroll and Kalpa.
+
+Vote now at [survey.opensuse.org](https://survey.opensuse.org/).
 
 <meta name="openSUSE, board, community, logo, contest" content="HTML,CSS,XML,JavaScript">
