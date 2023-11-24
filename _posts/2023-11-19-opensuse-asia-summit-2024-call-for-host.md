@@ -34,7 +34,7 @@ Please refer to it before writing your proposal.
 
 ### **How to Submit ?**
 
-Please send your proposal by email to both opensuse-summit@opensuse.org and opensuseasia-summit@googlegroups.com. Proposal should contain:
+Please send your proposal by email to both [opensuse-summit@opensuse.org and opensuseasia-summit@googlegroups.com](mailto:opensuse-summit@opensuse.org,opensuseasia-summit@googlegroups.com). Proposal should contain:
   * Venue and capacity (we prefer using campus building, but any alternative can be discuss later)
   * How to reach your city and venue
   * Budget Estimation
