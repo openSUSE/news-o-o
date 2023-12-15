@@ -48,29 +48,21 @@ A two-step approach to spearhead the discussions and decision-making processes w
 
 Outlined below are the proposed steps that will guide the project through this journey:
 
-Step 1:
+**Step 1:** 
 
-    Evaluation of Contest Results (completed)
-
-    Assessing the Path Forward (completed)
-
-    Engaging with SUSE for Brand Consideration & Assessing Contributions
-
-    Presentation of Branding Strategy
-
-    Community Voting Engagement
-
-    Organizing a voting process for openSUSE Project members to choose between the Old and New Logo
+* Evaluation of Contest Results (completed)
+* Assessing the Path Forward (completed)
+* Engaging with SUSE for Brand Consideration & Assessing Contributions
+* Presentation of Branding Strategy
+* Community Voting Engagement
+* Organizing a voting process for openSUSE Project members to choose between the Old and New Logo
 
 
-Step 2:
+**Step 2:** 
 
-    Collaboration with Stakeholders
-
-    Aligning Logo Ownership with SUSE
-
-    Trademarking and Implementation
-
+* Collaboration with Stakeholders
+* Aligning Logo Ownership with SUSE
+* Trademarking and Implementation
 
 The aim is to ensure transparency, inclusivity, and alignment with the collective goals of the openSUSE Project throughout this process.
 
