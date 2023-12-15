@@ -84,34 +84,22 @@ The winners of the openSUSE logo contest across various categories are as follow
 
 ### openSUSE:
 
-Winner:
-<center><img src="https://en.opensuse.org/File:OpenSUSE-hellcp.svg"></center>
-[AO01](https://en.opensuse.org/File:OpenSUSE-hellcp.svg)
+Winner: [AO01](https://en.opensuse.org/File:OpenSUSE-hellcp.svg)
 
 ### Tumbleweed:
 
-Three-way tie: 
-<center><img src="https://en.opensuse.org/images/e/e0/Thumbleweed_logo_concept.png"></center>
-<center><img src="https://en.opensuse.org/images/8/84/Tumbleweed_ALT2.svg"></center>
-<center><img src="https://en.opensuse.org/images/d/d0/OpenSUSE-Tumbleweed_Logo_scrub1701.png"></center>
-[AO31](https://en.opensuse.org/images/e/e0/Thumbleweed_logo_concept.png), [AO05](https://en.opensuse.org/images/8/84/Tumbleweed_ALT2.svg), and [AO11](https://en.opensuse.org/images/d/d0/OpenSUSE-Tumbleweed_Logo_scrub1701.png)
+Three-way tie: [AO31](https://en.opensuse.org/images/e/e0/Thumbleweed_logo_concept.png), [AO05](https://en.opensuse.org/images/8/84/Tumbleweed_ALT2.svg), and [AO11](https://en.opensuse.org/images/d/d0/OpenSUSE-Tumbleweed_Logo_scrub1701.png)
 
 ### Leap:
 
-Winner: 
-<center><img src="https://en.opensuse.org/images/5/52/Leap-hellcp1.svg"></center>
-[AO01](https://en.opensuse.org/images/5/52/Leap-hellcp1.svg)
+Winner: [AO01](https://en.opensuse.org/images/5/52/Leap-hellcp1.svg)
 
 ### Slowroll:
 
-Winner:
-<center><img src="https://en.opensuse.org/images/9/91/Slowroll_logo_by_pprmint.svg"></center>
-[AO03](https://en.opensuse.org/images/9/91/Slowroll_logo_by_pprmint.svg)
+Winner: [AO03](https://en.opensuse.org/images/9/91/Slowroll_logo_by_pprmint.svg)
 
 ### Kalpa:
 
-Winner: 
-<center><img src="https://en.opensuse.org/images/6/6f/Kalpa_-_Nikolayan%27s_Logo.svg"></center>
-[AO03](https://en.opensuse.org/images/6/6f/Kalpa_-_Nikolayan%27s_Logo.svg)
+Winner: [AO03](https://en.opensuse.org/images/6/6f/Kalpa_-_Nikolayan%27s_Logo.svg)
 
 <meta name="openSUSE, Community, competition, logo, vote, survey, Tumbleweed, Leap, Slowroll, Kalpa, Aeon, MicroOS, Leap Micro" content="HTML,CSS,XML,JavaScript">
