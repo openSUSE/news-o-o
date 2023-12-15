@@ -82,24 +82,14 @@ Thank you for your continued support and enthusiasm. A big thank you to all the 
 
 The winners of the openSUSE logo contest across various categories are as follows:
 
-### openSUSE:
+* openSUSE: [AO01](https://en.opensuse.org/File:OpenSUSE-hellcp.svg)
 
-Winner: [AO01](https://en.opensuse.org/File:OpenSUSE-hellcp.svg)
+* Tumbleweed: Three-way tie [AO31](https://en.opensuse.org/images/e/e0/Thumbleweed_logo_concept.png), [AO05](https://en.opensuse.org/images/8/84/Tumbleweed_ALT2.svg), and [AO11](https://en.opensuse.org/images/d/d0/OpenSUSE-Tumbleweed_Logo_scrub1701.png)
 
-### Tumbleweed:
+* Leap: [AO01](https://en.opensuse.org/images/5/52/Leap-hellcp1.svg)
 
-Three-way tie: [AO31](https://en.opensuse.org/images/e/e0/Thumbleweed_logo_concept.png), [AO05](https://en.opensuse.org/images/8/84/Tumbleweed_ALT2.svg), and [AO11](https://en.opensuse.org/images/d/d0/OpenSUSE-Tumbleweed_Logo_scrub1701.png)
+* Slowroll: [AO03](https://en.opensuse.org/images/9/91/Slowroll_logo_by_pprmint.svg)
 
-### Leap:
-
-Winner: [AO01](https://en.opensuse.org/images/5/52/Leap-hellcp1.svg)
-
-### Slowroll:
-
-Winner: [AO03](https://en.opensuse.org/images/9/91/Slowroll_logo_by_pprmint.svg)
-
-### Kalpa:
-
-Winner: [AO03](https://en.opensuse.org/images/6/6f/Kalpa_-_Nikolayan%27s_Logo.svg)
+* Kalpa: [AO03](https://en.opensuse.org/images/6/6f/Kalpa_-_Nikolayan%27s_Logo.svg)
 
 <meta name="openSUSE, Community, competition, logo, vote, survey, Tumbleweed, Leap, Slowroll, Kalpa, Aeon, MicroOS, Leap Micro" content="HTML,CSS,XML,JavaScript">
