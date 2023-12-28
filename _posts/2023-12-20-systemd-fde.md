@@ -69,17 +69,17 @@ directly, making the boot loader something optional in most of the
 cases.
 
 Over time new and more straightforward boot loaders focused on `UEFI`
-appeared, like `gummiboot`[1]. Later this code was integrated into
+appeared, like [`gummiboot`][1]. Later this code was integrated into
 `systemd` and renamed as `systemd-boot`.
 
 The code is very simple.  Many orders of magnitude simpler than
 `GRUB2`. It is basically a very small `EFI` binary that presents a
 menu with the different boot loader entries (text files described in
-the Boot Loader Specification[2] or `BLS` for short), and a call to
+the [Boot Loader Specification][2] or `BLS` for short), and a call to
 the `UEFI` `LoadImage` function to delegate the execution to the
 selected kernel.
 
-This boot loader can also work with the new unified kernel images[3]
+This boot loader can also work with the new [unified kernel images][3]
 (`UKI`), that are files that aggregate in a single unit the kernel,
 the command line, and the `initrd`.  Those `UKI`s can be very handy
 for image based distributions, and openSUSE plans to support them as
@@ -87,12 +87,12 @@ well.
 
 Providing `systemd-boot` as an alternative for `GRUB2` is something
 that openSUSE wanted to do for a long time.  In August 2023 there was
-an announcement[4] on the Factory mailing list about Tumbleweed
+an [announcement][4] on the Factory mailing list about Tumbleweed
 supporting `systemd-boot`.
 
-The announcement references a wiki entry[5] that explains how to
+The announcement references a [wiki entry][5] that explains how to
 migrate an installation using `GRUB2` to `systemd-boot` manually.
-Soon after the announcement, `yast-bootloader` gained[6] support for
+Soon after the announcement, [`yast-bootloader` gained][6] support for
 it for new installations.
 
 Supporting another boot loader comes with a cost.  As argued, the code
@@ -126,7 +126,7 @@ associate the correct combination that will produce a successful boot
 into any of those snapshots, creating the boot entries under those
 restrictions.
 
-This tool is `sdbootutil`[6].  Every time `snapper` creates or
+This tool is [`sdbootutil`][6].  Every time `snapper` creates or
 destroys a snapshot (for example, when the system gets updated), it
 will call this tool that will analyze the content of the snapshots,
 making sure that the corresponding kernel is installed in the `ESP`, a
@@ -198,7 +198,7 @@ register using exactly the same sequence of values.  If we change even
 one bit of one of the values, we will produce a wildly different final
 result for the same `PCR`.
 
-This feature is used in a process known as "measured boot"[8], where
+This feature is used in a process known as ["measured boot"][8], where
 each stage in the boot chain is measured before it is executed.  This
 means that before the initial stages of the firmware are running,
 there is a process that will calculate the hash of the code in memory,
@@ -215,7 +215,7 @@ generate `PCR` values different from the ones that we expect.
 
 `TPM2` chips are very interesting devices, and the set of features go
 far beyond measured boot.  If you want to learn more I recommend
-resources like [9] or [10].
+resources like [this][9] or [this][10].
 
 
 ## `TPM2` for `FDE`
@@ -255,13 +255,13 @@ key.  Now the `TPM2` can validate the signature using the public part,
 and unseal the secret using the `PCR`s values stored in the new
 policy.
 
-Since early 2023 openSUSE provides the `pcr-oracle`[11] tool to help
+Since early 2023 openSUSE provides the [`pcr-oracle`][11] tool to help
 with the prediction of the `PCR` registers, and encrypt a key under
 those values using both `PCR` policies or authorized policies.  Using
 this tool we can now seal a secret under a set of `PCR`s values that
 can change!
 
-In the openSUSE wiki[12] we can find more documentation about those
+In the [openSUSE wiki][12] we can find more documentation about those
 topics, including instructions about how to use it in our
 installation.
 
@@ -293,7 +293,7 @@ from inside the `initrd` using the different options that
 `systemd-cryptsetup` offers.  Currently it can unlock the device using
 a normal password, a `TPM2` with authorized policies (with optionally
 a PIN that must be entered by the user) or a `FIDO2` key device.  In
-the `/etc/crypttab` file we need to describe[13] the unlocking
+the `/etc/crypttab` file we need to [describe][13] the unlocking
 mechanism.
 
 `pcr-oracle` has been extended to support the creation of authorized
@@ -312,12 +312,13 @@ that the `TPM2` could provide.  Luckily the solution is cheap in this
 case: generate a new key, re-register the key in the `LUKS2` key slot
 with `systemd-cryptenroll` and use `sdbootutil` to regenerate the
 predictions for each boot entry.  Yeah ... we will document all the
-process in the "systemd-fde" wiki page[14] and provide better tools,
+process in the ["systemd-fde" wiki page][14] and provide better tools,
 but trust me, it is indeed a cheap operation.
 
-openSUSE is providing a MicroOS image[15] named kvm-and-xen-sdboot[16]
-that shows how all of this is working.  This image contains some of
-the already mentioned tools integrated and some other new ones:
+openSUSE is providing a [MicroOS image][15] named
+[kvm-and-xen-sdboot][16] that shows how all of this is working.  This
+image contains some of the already mentioned tools integrated and some
+other new ones:
 
   * `systemd-boot`: Boot loader used instead of the default `GRUB2`
   * `sdbootutil`: Helper scripts to synchronize the boot entries of
@@ -387,11 +388,11 @@ and stored (the public and private parts) in `/etc/systemd` and
 `systemd-cryptenroll` will be used to enroll the public key and to
 annotate the `PCR`s that are used in the sealing of the `LUKS2` key.
 By default we will be using 0, 2, 4, 7, and 9.  You can check the
-meaning in [17].  `PCR`s 0 and 2 will measure all the `UEFI` firmware
-code.  `PCR` 4 will measure the boot loader (`systemd-boot`) and the
-kernel (also UEFI binaries).  `PCR` 7 will register all the secure
-boot certificates, and `PCR` 9 will be used by the kernel to measure
-the command line and the `initrd`.
+meaning in [this reference][17].  `PCR`s 0 and 2 will measure all the
+`UEFI` firmware code.  `PCR` 4 will measure the boot loader
+(`systemd-boot`) and the kernel (also UEFI binaries).  `PCR` 7 will
+register all the secure boot certificates, and `PCR` 9 will be used by
+the kernel to measure the command line and the `initrd`.
 
 This covers pretty much all that can make sense, but it is the user
 who has the final word on what to measure.  The reason is that the
@@ -509,36 +510,36 @@ In any case, there is a bunch of work ahead of us.
 
 # References
 
-[1] https://cgit.freedesktop.org/gummiboot/
+[1]: <https://cgit.freedesktop.org/gummiboot/>
 
-[2] https://uapi-group.org/specifications/specs/boot_loader_specification/
+[2]: <https://uapi-group.org/specifications/specs/boot_loader_specification/>
 
-[3] https://uapi-group.org/specifications/specs/unified_kernel_image/
+[3]: <https://uapi-group.org/specifications/specs/unified_kernel_image/>
 
-[4] https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/4FNZ7HEPH6KQQ2JVFNPN7PXWHZZRU5H5/
+[4]: <https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/4FNZ7HEPH6KQQ2JVFNPN7PXWHZZRU5H5/>
 
-[5] https://en.opensuse.org/Systemd-boot
+[5]: <https://en.opensuse.org/Systemd-boot>
 
-[6] https://github.com/yast/yast-bootloader/pull/686
+[6]: <https://github.com/yast/yast-bootloader/pull/686>
 
-[7] https://github.com/openSUSE/sdbootutil
+[7]: <https://github.com/openSUSE/sdbootutil>
 
-[8] https://en.opensuse.org/Portal:MicroOS/RemoteAttestation#Measured_boot
+[8]: <https://en.opensuse.org/Portal:MicroOS/RemoteAttestation#Measured_boot>
 
-[9] https://developers.tpm.dev/
+[9]: <https://developers.tpm.dev/>
 
-[10] https://trustedcomputinggroup.org/resource/a-practical-guide-to-tpm-2-0/
+[10]: <https://trustedcomputinggroup.org/resource/a-practical-guide-to-tpm-2-0/>
 
-[11] https://github.com/okirch/pcr-oracle
+[11]: <https://github.com/okirch/pcr-oracle>
 
-[12] https://en.opensuse.org/SDB:Encrypted_root_file_system
+[12]: <https://en.opensuse.org/SDB:Encrypted_root_file_system>
 
-[13] https://www.freedesktop.org/software/systemd/man/latest/crypttab.html
+[13]: <https://www.freedesktop.org/software/systemd/man/latest/crypttab.html>
 
-[14] https://en.opensuse.org/Systemd-fde
+[14]: <https://en.opensuse.org/Systemd-fde>
 
-[15] https://build.opensuse.org/package/show/devel:microos:images/openSUSE-MicroOS
+[15]: <https://build.opensuse.org/package/show/devel:microos:images/openSUSE-MicroOS>
 
-[16] http://download.opensuse.org/tumbleweed/appliances/openSUSE-MicroOS.x86_64-kvm-and-xen-sdboot.qcow2
+[16]: <http://download.opensuse.org/tumbleweed/appliances/openSUSE-MicroOS.x86_64-kvm-and-xen-sdboot.qcow2>
 
-[17] https://uapi-group.org/specifications/specs/linux_tpm_pcr_registry/
+[17]: <https://uapi-group.org/specifications/specs/linux_tpm_pcr_registry/>
