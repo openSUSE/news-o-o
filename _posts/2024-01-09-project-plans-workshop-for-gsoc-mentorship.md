@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2024-01-09 11:00:00+01:00
 layout: post
-image: /wp-content/uploads/2024/09/workshop.png
+image: /wp-content/uploads/2024/01/workshop.png
 license: CC-BY-SA-3.0
 title: Project to have Workshop for Mentorship Application
 categories:
