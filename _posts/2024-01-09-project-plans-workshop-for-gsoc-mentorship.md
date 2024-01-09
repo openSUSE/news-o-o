@@ -36,7 +36,7 @@ tags:
 
 ---
 
-The [openSUSE Project](https://www.opensuse.org/) will have a workshop on Jan. 16 at 15:30 UTC on [meet.opensuse.org/meeting](https://meet.opensuse.org/meeting) that will focus on this year’s [Google Summer of Code](https://summerofcode.withgoogle.com/) mentorship efforts.
+The [openSUSE Project](https://www.opensuse.org/) will have a workshop on Jan. 16 at 15:30 UTC on [meet.opensuse.org/meeting](https://meet.opensuse.org/meeting) that will focus on this year’s [Google Summer of Code](https://summerofcode.withgoogle.com/) application and mentorship efforts.
 
 The openSUSE Project has a long tradition of participating in GSoC and community members that want to participate as a mentor should attend or update their project they want listed on [101.opensuse.org](https://101.opensuse.org/) by opening up an issue on openSUSE’s [GitHub Mentoring](https://github.com/openSUSE/mentoring) project. 
 
@@ -47,8 +47,5 @@ The workshop will give mentors and people who would like to get involved with me
 Participants are encouraged to create an outline of some project ideas before the workshop on [the event’s etherpad](https://etherpad.opensuse.org/p/GSoC2024WS).
 
 Mentors and administrators who participated in previous Google Summer of Code programs will attend the workshop.
-
-<meta name="openSUSE, Rancher, Developers, sysadmin, user, Open Source, mentors, mentee, Google Summer of Code, workshop" content="HTML,CSS,XML,JavaScript">
-
 
 <meta name="openSUSE, Rancher, Developers, sysadmin, user, Open Source, mentors, mentee, Google Summer of Code, workshop" content="HTML,CSS,XML,JavaScript">
