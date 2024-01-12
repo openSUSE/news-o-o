@@ -27,9 +27,9 @@ tags:
 
 ---
 
-The openSUSE Project is excited to announce the Open 4 Business networking event, a collaborative initiative launched by the [DORS/CLUC](https://www.dorscluc.org/open-4-business/) organization, scheduled for June 26 from 2 to 6 p.m. at the Franken Campus in Nuremberg, Germany. 
+The [openSUSE Project](https://www.opensuse.org/) is excited to announce the Open 4 Business networking event, a collaborative initiative launched by the [DORS/CLUC](https://www.dorscluc.org/open-4-business/) organization, scheduled for June 26 from 2 to 6 p.m. at the Franken Campus in Nuremberg, Germany. 
 
-This event, held in conjunction with the [openSUSE Conference](https://events.opensuse.org/) 2024 (oSC24), is dedicated to fostering connections in the open-source business community.
+This event, which will be held in conjunction with [openSUSE Conference 2024](https://events.opensuse.org/) (oSC24), is dedicated to fostering connections in the open-source business community.
 
 The event seeks to help establish a business landscape to help align small and medium-sized enterprises (SMEs) who hold similar values in open-source ethics and technology. The Open 4 Business event aims to serve as a bridge to connect open-source enthusiasts. This event will help people from the business world engage and collaborate effectively.
 
