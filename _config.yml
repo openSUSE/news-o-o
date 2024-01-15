@@ -3,7 +3,7 @@ title: openSUSE News
 title_short: News
 email: admin@opensuse.org
 description: Latest news from the openSUSE Project
-copyright: '© 2011–2023 openSUSE contributors'
+copyright: '© 2011–2024 openSUSE contributors'
 baseurl: ""
 url: "https://news.opensuse.org"
 github_url: "https://github.com/openSUSE/news-o-o"
