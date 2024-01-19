@@ -126,7 +126,7 @@ associate the correct combination that will produce a successful boot
 into any of those snapshots, creating the boot entries under those
 restrictions.
 
-This tool is [`sdbootutil`][6].  Every time `snapper` creates or
+This tool is [`sdbootutil`][7].  Every time `snapper` creates or
 destroys a snapshot (for example, when the system gets updated), it
 will call this tool that will analyze the content of the snapshots,
 making sure that the corresponding kernel is installed in the `ESP`, a
@@ -507,8 +507,6 @@ values.
 
 In any case, there is a bunch of work ahead of us.
 
-
-# References
 
 [1]: <https://cgit.freedesktop.org/gummiboot/>
 
