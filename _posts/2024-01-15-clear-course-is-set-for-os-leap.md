@@ -38,7 +38,9 @@ Leap 16 is aiming to strike a balance between a cutting-edge and a traditional L
 
 The transition to Leap 16 is not just a numerical step-up but symbolizes a significant path forward in technology and user experiences. The future of openSUSE Leap is based on the innovative concept of SUSE's Adaptable Linux Platform.
 
-The Adaptable Linux Platform powers the next-generation openSUSE Leap, Leap Micro, and SUSE solutions. It makes distributions more adaptable and suitable for cloud-native workloads while also being capable of handling a rapid pace of innovation.
+The Adaptable Linux Platform powers the next-generation openSUSE Leap, Leap Micro, and SUSE solutions. It makes distributions more adaptable and suitable for cloud-native workloads while also being capable of handling a rapid pace of innovation. 
+
+There are no plans to drop the classical (non-immutable) option for Leap; both non-immutable or immutable images are available for Leap 15 and are planned for Leap 16. This is set to remain the preferred way for people to deploy Leap.
 
 Everyone is encouraged to engage in the development of these new platforms by providing feedback, packaging, testing, documenting and any other way. 
 
