@@ -83,15 +83,10 @@ This month's updates include critical security patches across various packages. 
 
 ### Bug Fixes
 * [xorg-x11-server](https://xorg.freedesktop.org/wiki/) 21.1.11 and [xwayland](https://wayland.freedesktop.org/xserver.html) 23.2.4: These updates addressed multiple CVEs, improving security and stability in the display server protocols. A list of this CVEs can be found in the [security advisory](https://lists.x.org/archives/xorg/2024-January/061525.html). 
-
 * [gnutls](https://www.gnutls.org/) 3.8.3: [CVE-2024-0553](https://www.suse.com/security/cve/CVE-2024-0553.html) was a vulnerability that allows timing attacks in RSA-PSK, risking data leak and a fix for [CVE-2024-0567](https://www.suse.com/security/cve/CVE-2024-0567.html) was made, which is a flaw in cockpit's certificate validation that enables remote denial of service attacks.
-
 * [java-11-openjdk](https://openjdk.org/projects/jdk/11/) 11.0.22.0: Multiple CVEs. [CVE-2024-20919](https://www.suse.com/security/cve/CVE-2024-20919.html), [CVE-2024-20926](https://www.suse.com/security/cve/CVE-2024-20926.html) , [CVE-2024-20921](https://www.suse.com/security/cve/CVE-2024-20921.html),  [CVE-2024-20918](https://www.suse.com/security/cve/CVE-2024-20918.html), [CVE-2024-20945](https://www.suse.com/security/cve/CVE-2024-20945.html), [CVE-2024-20952](https://www.suse.com/security/cve/CVE-2024-20952.html)
-
 * [samba](https://www.samba.org/) 4.19.4: [CVE-2018-14628](https://www.samba.org/samba/security/CVE-2018-14628.html) an authenticated but unprivileged attacker could have discovered the names and preserved attributes of deleted objects in the LDAP store.
-
 * [python-Jinja2](https://pypi.org/project/Jinja2/) 3.1.3: [CVE-2024-22195](https://www.suse.com/security/cve/CVE-2024-22195.html) was a flaw where the xmlattr filter improperly allows space-containing keys, enabling attackers to inject harmful attributes through user inputs.
-
 * [rdma-core](https://github.com/linux-rdma/rdma-core) 49.1: Although specific CVEs addressed in the update were not mentioned, the update is part of regular maintenance to ensure stability and security​.
 
 ### Contributing to openSUSE Tumbleweed
