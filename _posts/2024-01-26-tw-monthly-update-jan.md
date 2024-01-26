@@ -42,8 +42,11 @@ Welcome to the monthly update for openSUSE Tumbleweed for January 2024. This wil
 ### New Features and Enhancements
 
 * [Linux Kernel](https://www.kernel.org/): Updates to versions 6.6.7, 6.6.9, 6.6.10, 6.6.11 and 6.7.1.
+
  * Fixes have been applied for memory management and security vulnerabilities, enhancing overall system safety.
+ 
  * Support for new hardware models
+ 
   * PCI: Adds ACS quirks for more Zhaoxin Root Ports, enhancing compatibility and performance for Zhaoxin's CPUs and motherboards.
   * ALSA (Advanced Linux Sound Architecture): Added driver properties for cs35l41 for Lenovo Legion Slim 7 Gen 8 series, and introduced support for additional Dell models without _DSD, along with fixes for HP Envy X360 13-ay0xxx's mute and mic-mute LEDs, indicating broader compatibility for sound hardware in laptops.
   * LEDs: The ledtrig-tty module receives updates to the free allocated ttyname buffer on deactivation, impacting how LED triggers are handled for terminal activities.
