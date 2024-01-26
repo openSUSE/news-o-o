@@ -41,78 +41,42 @@ Welcome to the monthly update for openSUSE Tumbleweed for January 2024. This wil
 
 ### New Features and Enhancements
 * [Linux Kernel](https://www.kernel.org/): Updates to versions 6.6.7, 6.6.9, 6.6.10, 6.6.11 and 6.7.1.
-
- * Fixes have been applied for memory management and security vulnerabilities, enhancing overall system safety.
- 
- * Support for new hardware models
- 
-  * PCI: Adds ACS quirks for more Zhaoxin Root Ports, enhancing compatibility and performance for Zhaoxin's CPUs and motherboards.
-  
-  * ALSA (Advanced Linux Sound Architecture): Added driver properties for cs35l41 for Lenovo Legion Slim 7 Gen 8 series, and introduced support for additional Dell models without _DSD, along with fixes for HP Envy X360 13-ay0xxx's mute and mic-mute LEDs, indicating broader compatibility for sound hardware in laptops.
-  
-  * LEDs: The ledtrig-tty module receives updates to the free allocated ttyname buffer on deactivation, impacting how LED triggers are handled for terminal activities.
-
+  * Fixes have been applied for memory management and security vulnerabilities, enhancing overall system safety.
+  * Support for new hardware models
+    - PCI: Adds ACS quirks for more Zhaoxin Root Ports, enhancing compatibility and performance for Zhaoxin's CPUs and motherboards.
+    - ALSA (Advanced Linux Sound Architecture): Added driver properties for cs35l41 for Lenovo Legion Slim 7 Gen 8 series, and introduced support for additional Dell models without _DSD, along with fixes for HP Envy X360 13-ay0xxx's mute and mic-mute LEDs, indicating broader compatibility for sound hardware in laptops.
+    - LEDs: The ledtrig-tty module receives updates to the free allocated ttyname buffer on deactivation, impacting how LED triggers are handled for terminal activities.
 * [Mozilla Firefox](https://www.mozilla.org): Updates to version 121.0 and 121.0.1
- 
- * The update resolves a bug that caused Firefox to hang when loading sites with column-based layouts, enhancing stability and performance.
- 
- * Fixes applied to ensure rounded corners for videos and proper closure of Firefox that prevents USB security key conflicts with other applications.
-
+  * The update resolves a bug that caused Firefox to hang when loading sites with column-based layouts, enhancing stability and performance.
+  * Fixes applied to ensure rounded corners for videos and proper closure of Firefox that prevents USB security key conflicts with other applications.
 * [KDE Frameworks](https://kde.org/announcements/frameworks/5/5.114.0/): Update for version [5.114.0](https://kde.org/announcements/frameworks/5/5.114.0/).
- 
- * Significant updates include fixes in Extra CMake Modules, introduction of holidays in Kenya observed by KHolidays, and quality settings adjustments for AVIF in KImageFormats.
- 
- * Key improvements in [KIO](https://api.kde.org/frameworks/kio/html/index.html) for handling malformed Exec entries, accessibility enhancements in [Kirigami](https://github.com/KDE/kirigami), and stability fixes in KJobWidgets to prevent potential use-after-free errors.
-
+  * Significant updates include fixes in Extra CMake Modules, introduction of holidays in Kenya observed by KHolidays, and quality settings adjustments for AVIF in KImageFormats.
+  * Key improvements in [KIO](https://api.kde.org/frameworks/kio/html/index.html) for handling malformed Exec entries, accessibility enhancements in [Kirigami](https://github.com/KDE/kirigami), and stability fixes in KJobWidgets to prevent potential use-after-free errors.
 * [Mesa](https://www.mesa3d.org/): Updates to 23.3.3
- 
- * Focus on [Python](https://www.python.org/) 3.6 build fixes and enhancements in driver support.
- 
- * The release introduces NVK, a new Vulkan driver for [NVIDIA](https://www.nvidia.com) hardware, which marks a step forward in support for [NVIDIA](https://www.nvidia.com) GPUs, yet it remains in the experimental phase.
- 
- * Improved graphics performance and compatibility Asahi and RADV and enhancements of OpenGL ES and Vulkan capabilities
- 
- * Introduces critical updates like the requirement of libvulkan1 for Mesa-dri to support zink/swrast driver fallbacks, which further improves the overall user experience with graphics applications and games.
-
+  * Focus on [Python](https://www.python.org/) 3.6 build fixes and enhancements in driver support.
+  * The release introduces NVK, a new Vulkan driver for [NVIDIA](https://www.nvidia.com) hardware, which marks a step forward in support for [NVIDIA](https://www.nvidia.com) GPUs, yet it remains in the experimental phase.
+  * Improved graphics performance and compatibility Asahi and RADV and enhancements of OpenGL ES and Vulkan capabilities
+  * Introduces critical updates like the requirement of libvulkan1 for Mesa-dri to support zink/swrast driver fallbacks, which further improves the overall user experience with graphics applications and games.
 * [systemd](https://freedesktop.org/wiki/Software/systemd/): Updates to version 254.8
- 
- * Reverts patches related to udev device node updates and workarounds for issues. Took a cautious approach to fixing reported bugs and ensuring stability in device management systems.
- 
- * Adjustments to udev ensure the proper existence and ownership of `%_modulesloaddir`, facilitating smoother module installation by other packages, thereby improving system configuration and module management.
-
+  * Reverts patches related to udev device node updates and workarounds for issues. Took a cautious approach to fixing reported bugs and ensuring stability in device management systems.
+  * Adjustments to udev ensure the proper existence and ownership of `%_modulesloaddir`, facilitating smoother module installation by other packages, thereby improving system configuration and module management.
 * [PHP](https://www.php.net/): Updated from version 8.2.14 to 8.2.15,
- 
- * Fix for a false positive SSA integrity verification failure and a resolution for Autoconf warnings during cross-compilation.
- 
- * The CLI built-in web server now correctly handles timeouts when using router scripts in conjunction with `max_input_time`.
- 
- * Fixes a crash when using `stream_wrapper_register` with `FFI\CData` and interaction issues between `FFI::new` and observers.
- 
- * IntlDateFormatter now correctly accepts 'C' as a valid locale.
- 
- * A hanging issue in the Hash extension for large strings with sha512 is resolved.
-
+  * Fix for a false positive SSA integrity verification failure and a resolution for Autoconf warnings during cross-compilation.
+  * The CLI built-in web server now correctly handles timeouts when using router scripts in conjunction with `max_input_time`.
+  * Fixes a crash when using `stream_wrapper_register` with `FFI\CData` and interaction issues between `FFI::new` and observers.
+  * IntlDateFormatter now correctly accepts 'C' as a valid locale.
+  * A hanging issue in the Hash extension for large strings with sha512 is resolved.
 * [GStreamer](https://gstreamer.freedesktop.org/): Updates to version 1.22.8
- 
- * Addressing vulnerabilities within the AV1 video codec parser.
- 
- * Fixes include resolving a potential deadlock in the avdec video decoder with [FFmpeg](https://www.ffmpeg.org/) 6.1
- 
- * Improvements in reverse playback and seeking in qtdemux for files with raw audio streams
- 
- * Enhancements to the GstPlay and GstPlayer libraries
- 
- * Updates to the Cerbero build tool to address python 3.12 string escape warnings 
-
+  * Addressing vulnerabilities within the AV1 video codec parser.
+  * Fixes include resolving a potential deadlock in the avdec video decoder with [FFmpeg](https://www.ffmpeg.org/) 6.1
+  * Improvements in reverse playback and seeking in qtdemux for files with raw audio streams
+  * Enhancements to the GstPlay and GstPlayer libraries
+  * Updates to the Cerbero build tool to address python 3.12 string escape warnings
 * [Samba](https://www.samba.org/) : Updates to version 4.19.4
- 
- * Addresses issues like the inability of `net changesecretpw` to set the machine account password with an empty `secrets.tdb`, 
- 
- * Improves documentation generation with respect to `XML_CATALOG_FILES` environment variable.
- 
- * Resolved issues where `smbd` did not detect ctdb public IPv6 addresses for multichannel exclusion, and the `force user = localunixuser` setting was ineffective when `allow trusted domains = no`.
- 
- * Addressed critical vulnerabilities and bugs, such as visible Deleted Object tombstones in AD LDAP to normal users [CVE-2018-14628](https://www.samba.org/samba/security/CVE-2018-14628.html), and various smbget authentication and functionality fixes, enhancing security and user experience.
+  * Addresses issues like the inability of `net changesecretpw` to set the machine account password with an empty `secrets.tdb`,
+  * Improves documentation generation with respect to `XML_CATALOG_FILES` environment variable.
+  * Resolved issues where `smbd` did not detect ctdb public IPv6 addresses for multichannel exclusion, and the `force user = localunixuser` setting was ineffective when `allow trusted domains = no`.
+  * Addressed critical vulnerabilities and bugs, such as visible Deleted Object tombstones in AD LDAP to normal users [CVE-2018-14628](https://www.samba.org/samba/security/CVE-2018-14628.html), and various smbget authentication and functionality fixes, enhancing security and user experience.
 
 ### Security Updates
 This month's updates include critical security patches across various packages. Notable security improvements were integrated into the Firefox, systemd, Samba and PHP updates and more.
