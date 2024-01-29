@@ -27,7 +27,8 @@ We can leverage the portability of Wasm to run Wasm workloads alongside Linux co
 
 [WasmEdge](https://wasmedge.org/) is a lightweight, high-performance, and extensible WebAssembly runtime for cloud-native and edge applications. WasmEdge was recently added to [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) and this can give us support for Wasm workloads on containers if we enable an experimental feature in `crun`.
 
-Now that we have WasmEdge in openSUSE Tumbleweed and `crun` experimental support for Wasm workloads we can run WebAssembly workloads on Podman.
+Now that we have WasmEdge in openSUSE Tumbleweed and `crun` experimental support for Wasm workloads we can run WebAssembly workloads on Podman. This new feature was introduced into Podman in Tumbleweed and also a new package.
+The blog post shows how to use it.
 
 ## Preparing our environment
 
