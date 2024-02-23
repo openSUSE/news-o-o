@@ -45,7 +45,7 @@ Here are a few reminders regarding the TSP:
 * We want to sponsor as many people as possible so please check the best deal.
 * No receipts = no money. It is the rule! (Original receipts are required from German residences.)
 
-The [call for papers](https://news.opensuse.org/2023/01/10/osc-cfp-opens/) is open until April 15. Submit a talk today. 
+The [call for papers](https://events.opensuse.org/) is open until April 15. Submit a talk today. 
 
 ### Presentations can be submitted for the following length of time:
 * Lightning Talk (15 mins)
