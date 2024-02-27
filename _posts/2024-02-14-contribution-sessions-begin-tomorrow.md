@@ -30,7 +30,7 @@ A group of volunteers will present short 15-minute sessions that are streamed an
 
 The [first session](https://calendar.opensuse.org/teams/marketing/events/contribution-workshop-obs) about “Basic use of OBS/osc using a version bump as an example” is set to begin tomorrow, on Feb. 15 at 21:00 UTC. 
 
-### (This session has been postponed and will no longer take place on Feb. 27.) Another talk, “Packaging Guidelines (Patch Policies) and Submission of New Packages”, is scheduled for Feb. 27 at 16:00 UTC. 
+Update: The “Packaging Guidelines (Patch Policies) and Submission of New Packages” session scheduled for Feb. 27 at 16:00 UTC has been postponed. 
 
 More sessions are expected to be scheduled for future dates. 
 
