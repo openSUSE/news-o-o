@@ -47,45 +47,45 @@ Welcome to the monthly update for openSUSE Tumbleweed for February 2024. This mo
   * New hardware support or models:
    - Colorful X15 AT 23 Laptop
 * [KDE Frameworks](https://kde.org/announcements/frameworks/5/5.115.0/): Update for version [5.115.0](https://kde.org/announcements/frameworks/5/5.115.0/).
- * xtra CMake Modules: The ECMUninstallTarget now ports generated code away from deprecated exec_program, enhancing compatibility and maintainability.
- * KHolidays: Adds [St Brigid's Day](https://en.wikipedia.org/wiki/Imbolc).
- * [KIO](https://api.kde.org/frameworks/kio/html/index.html): Once again KDirModel, allows expanding network directories in file picker.
- * [prison](https://github.com/KDE/prison) : Enables exceptions for videoscannerworker.cpp.
+  * xtra CMake Modules: The ECMUninstallTarget now ports generated code away from deprecated exec_program, enhancing compatibility and maintainability.
+  * KHolidays: Adds [St Brigid's Day](https://en.wikipedia.org/wiki/Imbolc).
+  * [KIO](https://api.kde.org/frameworks/kio/html/index.html): Once again KDirModel, allows expanding network directories in file picker.
+  * [prison](https://github.com/KDE/prison) : Enables exceptions for videoscannerworker.cpp.
 * [Mesa](https://www.mesa3d.org/): Updates to 23.3.6
- * zink: Addresses flickering artifacts in Selaco, broken colors/dual-source blending on [PinePhone Pro](https://pine64.org/devices/pinephone_pro/), and fixes sparse bo placement.
- * panfrost: Resolves graphical artifacts on T604 (T600), fixes intermittent compiler failures when building valhall tests, and pads compute jobs with zeros on v4.
- * radeonsi: Fixes unsynchronized flips/tearing with KMS DRM rendering on 780M and addresses heavy corruption in Amnesia: The Dark Descent.
- * VK: Various fixes for flaky tests, fullscreen "banding" artifacts in Age of Empires IV, and failures in dEQP-VK pipeline tests.
+  * zink: Addresses flickering artifacts in Selaco, broken colors/dual-source blending on [PinePhone Pro](https://pine64.org/devices/pinephone_pro/), and fixes sparse bo placement.
+  * panfrost: Resolves graphical artifacts on T604 (T600), fixes intermittent compiler failures when building valhall tests, and pads compute jobs with zeros on v4.
+  * radeonsi: Fixes unsynchronized flips/tearing with KMS DRM rendering on 780M and addresses heavy corruption in Amnesia: The Dark Descent.
+  * VK: Various fixes for flaky tests, fullscreen "banding" artifacts in Age of Empires IV, and failures in dEQP-VK pipeline tests.
 * [systemd](https://freedesktop.org/wiki/Software/systemd/): Updates to version 254.9.
- * vconsole-setup: Resolved issue where vconsole-setup would fail if the only found vc is already used by plymouth.
- * systemd-testsuite: Dependency updated to "qemu" instead of "qemu-kvm", the latter being obsolete.
- * test/test-shutdown.py: Option added to display test I/Os in a dedicated log file.
- * [man pages](https://manpages.opensuse.org/): Documentation update to include ranges for distributions config files and local config files.
- * libbpf: Version of libbpf dlopened by systemd updated (weak dependency). 
+  * vconsole-setup: Resolved issue where vconsole-setup would fail if the only found vc is already used by plymouth.
+  * systemd-testsuite: Dependency updated to "qemu" instead of "qemu-kvm", the latter being obsolete.
+  * test/test-shutdown.py: Option added to display test I/Os in a dedicated log file.
+  * [man pages](https://manpages.opensuse.org/): Documentation update to include ranges for distributions config files and local config files.
+  * libbpf: Version of libbpf dlopened by systemd updated (weak dependency). 
 * [glibc](https://www.gnu.org/software/libc/): Updated from version 2.38 to 2.39,
- * PLT Rewrite: Introduction of a new tunable, `glibc.cpu.plt_rewrite`, allows for enabling PLT rewrite on x86-64 architectures.
- * Sync with Linux Kernel 6.6: Synchronization with Linux kernel 6.6 shadow stack interface.
- * New Functions: Addition of new functions on Linux, including `posix_spawnattr_getcgroup_np`, `posix_spawnattr_setcgroup_np`, `pidfd_spawn`, `pidfd_spawp`, and `pidfd_getpid`.
- * scanf-family functions: Support for the wN format length modifiers for arguments pointing to specific types.
- * Memory Allocation Tunable: Introduction of a new tunable, `glibc.mem.decorate_maps`, for adding additional information on underlying memory allocated by glibc.
- * ISO C2X: Inclusion of the `<stdbit.h>` header from ISO C2X.
- * AArch64: Addition of new symbols to libmvec on AArch64.
- * ldconfig Enhancements: ldconfig now skips file names containing specific characters and patterns.
- * Dynamic Linker Improvements: The dynamic linker calls the `malloc` and `free` functions in more cases during TLS access if a shared object with dynamic TLS is loaded and unloaded.
+  * PLT Rewrite: Introduction of a new tunable, `glibc.cpu.plt_rewrite`, allows for enabling PLT rewrite on x86-64 architectures.
+  * Sync with Linux Kernel 6.6: Synchronization with Linux kernel 6.6 shadow stack interface.
+  * New Functions: Addition of new functions on Linux, including `posix_spawnattr_getcgroup_np`, `posix_spawnattr_setcgroup_np`, `pidfd_spawn`, `pidfd_spawp`, and `pidfd_getpid`.
+  * scanf-family functions: Support for the wN format length modifiers for arguments pointing to specific types.
+  * Memory Allocation Tunable: Introduction of a new tunable, `glibc.mem.decorate_maps`, for adding additional information on underlying memory allocated by glibc.
+  * ISO C2X: Inclusion of the `<stdbit.h>` header from ISO C2X.
+  * AArch64: Addition of new symbols to libmvec on AArch64.
+  * ldconfig Enhancements: ldconfig now skips file names containing specific characters and patterns.
+  * Dynamic Linker Improvements: The dynamic linker calls the `malloc` and `free` functions in more cases during TLS access if a shared object with dynamic TLS is loaded and unloaded.
 * [Cups](https://www.cups.org/)-Filters: Updates to version 1.28.17
- * Improved Printer Capability Discovery: Enhancements to more reliably discover all printer capabilities from driverless printers, particularly borderless printing. This includes preferring Apple Raster over PWG Raster or PCLM formats.
- * PPD Generator Optimization: The PPD generator now creates only one *cupsFilter2 line for raster, utilizing the most desirable/reliable format, usually Apple Raster.
- * Media Database Handling: Enhancements in handling media-col-database and media-col-ready IPP attributes separately if needed, revealing important functionality like borderless printing.
- * Margin Alternatives Consideration: Consideration of all margin alternatives when generating PPD files for driverless printers, ensuring the discovery of borderless functionality for many printers.
- * Image Printing Enhancements: Images are now printed in their original size with "print-scaling=none", and deprecated data types for reading TIFF images have been replaced with modern equivalents.
+  * Improved Printer Capability Discovery: Enhancements to more reliably discover all printer capabilities from driverless printers, particularly borderless printing. This includes preferring Apple Raster over PWG Raster or PCLM formats.
+  * PPD Generator Optimization: The PPD generator now creates only one *cupsFilter2 line for raster, utilizing the most desirable/reliable format, usually Apple Raster.
+  * Media Database Handling: Enhancements in handling media-col-database and media-col-ready IPP attributes separately if needed, revealing important functionality like borderless printing.
+  * Margin Alternatives Consideration: Consideration of all margin alternatives when generating PPD files for driverless printers, ensuring the discovery of borderless functionality for many printers.
+  * Image Printing Enhancements: Images are now printed in their original size with "print-scaling=none", and deprecated data types for reading TIFF images have been replaced with modern equivalents.
 * [openvpn](https://openvpn.net/): Updates to version 2.6.9
- * Enhanced Logging: SSL alerts are now logged more prominently, improving visibility into SSL-related issues.
- * Documentation Improvements: Clarifications and additions to documentation, including the documentation of the `tls-exit` option as a primarily test option.
- * Code Cleanup: Removal of unused function prototypes and redundant code, ensuring cleaner codebase and improved maintainability.
- * Error Handling: Addition of missing error checks and enhancements to error messages for better debugging and troubleshooting.
- * Security Enhancements: Implementation of the `--tls-export-cert` feature and addition of checks for TLS 1.0 PRF availability, improving security measures.
- * Configuration Clarifications: Clarifications regarding the `tls-crypt-v2-verify` option and removal of redundant options like `--tls-export-cert`.
- * Library Compatibility: Support added for newer versions of dependencies like mbedtls 3.x.y, with TLS 1.3 support disabled.
+  * Enhanced Logging: SSL alerts are now logged more prominently, improving visibility into SSL-related issues.
+  * Documentation Improvements: Clarifications and additions to documentation, including the documentation of the `tls-exit` option as a primarily test option.
+  * Code Cleanup: Removal of unused function prototypes and redundant code, ensuring cleaner codebase and improved maintainability.
+  * Error Handling: Addition of missing error checks and enhancements to error messages for better debugging and troubleshooting.
+  * Security Enhancements: Implementation of the `--tls-export-cert` feature and addition of checks for TLS 1.0 PRF availability, improving security measures.
+  * Configuration Clarifications: Clarifications regarding the `tls-crypt-v2-verify` option and removal of redundant options like `--tls-export-cert`.
+  * Library Compatibility: Support added for newer versions of dependencies like mbedtls 3.x.y, with TLS 1.3 support disabled.
 
 ### Security Updates
 This month's updates include critical security patches and bug fixes for [glibc](https://www.gnu.org/software/libc/), [GStreamer](https://gstreamer.freedesktop.org/), [Salt](https://saltproject.io/), [Xen](https://xenproject.org/) and many other packages.
