@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio
-date: 2024-03-07 19:00:00+01:00
+date: 2024-03-07 12:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/03/leap.png
 license: CC-BY-SA-3.0
@@ -33,9 +33,9 @@ tags:
 
 The [openSUSE Project](https://www.opensuse.org/) is thrilled to announce the Beta release phase of [Leap 15.6](https://get.opensuse.org/leap/15.6/). 
 
-This first Beta release is expected to sync on mirrors globally on March 6 for people to download it and test it out, so `zypper --releasever=15.6 dup`.
+Feel free to download Leap 15.6 Beta images from [get.opensuse.org](https://get.opensuse.org/leap/15.6/) and test it out, or [upgrade](https://en.opensuse.org/SDB:System_upgrade) from your existing Leap 15.5 system by running `zypper --releasever=15.6 dup`. You might want to get familiar with [known issues] (https://en.opensuse.org/openSUSE:Known_bugs_15.6) in Leap 15.6.
 
-Release engineers invite people to participate in openSUSE Leap 15.6 Beta testing. Testers are encouraged to report a bug against openSUSE Leap 15.6. A how to guide on reporting bugs can be found on the [Bug Day wiki page.](https://en.opensuse.org/openSUSE:Bug_Day#How_to_report_issues). 
+Show your support by dropping in at our [Thursday Weekly Meeting at 22:00 UTC](https://calendar.opensuse.org/teams/marketing/events/thursday_weekly_meeting) and participate in the live Leap 15.6 Beta testing event aka ["Bug Day"](https://en.opensuse.org/openSUSE:Bug_Day#March_7th%3A_Leap_15.6_Beta).
 
 "Let's make sure that Leap 15.6 runs well on your hardware, and that we can keep it that way for the next 18 months," said Lubos Kocman, openSUSE Leap release manager. "We cannot address hardware issues, feature requests and other issues without knowledge of these problems. Our openQA is limited. Testing different hardware and reporting these issues are a big help."
 
@@ -63,11 +63,9 @@ The project's release engineering team encourages users to download, test, and p
 
  This release marks another milestone in offering a stable, feature-rich platform for workstations, servers and more. Users and developers are encouraged to join the efforts in refining this release by reporting bugs, contributing to the software and sharing experiences. Community efforts with every test, bug report or feedback provides valuable step toward a successful launch of openSUSE Leap 15.6.
 
-Show your support for the Leap Beta by dropping in the [openSUSE Bar](https://meet.opensuse.org/bar) to discuss what you like about the release and consider joining the [Weekly Meeting](https://calendar.opensuse.org/teams/marketing/events/thursday_weekly_meeting) where participants plan to record a video on how to report bugs for the beta.
-
 ## Download the Beta
 
-The Leap 15.6 Beta is available on [get.opensuse.org](https://get.opensuse.org/testing). Pick an image fitting your purpose. Install it on a VM like [virtualbox](https://www.virtualbox.org), [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) or install it on your own hardware, which we prefer. 
+The Leap 15.6 Beta is available on [get.opensuse.org](https://get.opensuse.org/testing). Pick an image fitting your purpose. Install it on a VM like [virtualbox](https://www.virtualbox.org), [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) or install it on your own hardware, which we prefer.
 
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, tpm, full-disk, encryption, MicroOS, grub, qemu, btrfs" content="HTML,CSS,XML,JavaScript">
 
