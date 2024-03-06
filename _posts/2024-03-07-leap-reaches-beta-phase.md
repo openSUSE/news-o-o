@@ -33,7 +33,7 @@ tags:
 
 The [openSUSE Project](https://www.opensuse.org/) is thrilled to announce the Beta release phase of [Leap 15.6](https://get.opensuse.org/leap/15.6/). 
 
-This first Beta release is expected to sync on mirrors globally on March 6 for people to download it and test it out.
+This first Beta release is expected to sync on mirrors globally on March 6 for people to download it and test it out, so `zypper --releasever=15.6 dup`.
 
 Release engineers invite people to participate in openSUSE Leap 15.6 Beta testing. Testers are encouraged to report a bug against openSUSE Leap 15.6. A how to guide on reporting bugs can be found on the [Bug Day wiki page.](https://en.opensuse.org/openSUSE:Bug_Day#How_to_report_issues). 
 
