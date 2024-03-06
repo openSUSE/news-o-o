@@ -33,7 +33,7 @@ tags:
 
 The [openSUSE Project](https://www.opensuse.org/) is thrilled to announce the Beta release phase of [Leap 15.6](https://get.opensuse.org/leap/15.6/). 
 
-Feel free to download Leap 15.6 Beta images from [get.opensuse.org](https://get.opensuse.org/leap/15.6/) and test it out, or [upgrade](https://en.opensuse.org/SDB:System_upgrade) from your existing Leap 15.5 system by running `zypper --releasever=15.6 dup`. You might want to get familiar with [known issues] (https://en.opensuse.org/openSUSE:Known_bugs_15.6) in Leap 15.6.
+Feel free to download Leap 15.6 Beta images from [get.opensuse.org](https://get.opensuse.org/leap/15.6/) and test it out, or [upgrade](https://en.opensuse.org/SDB:System_upgrade) from your existing Leap 15.5 system by running `zypper --releasever=15.6 dup`. You might want to get familiar with [known issues](https://en.opensuse.org/openSUSE:Known_bugs_15.6) in Leap 15.6.
 
 Show your support by dropping in at our [Thursday Weekly Meeting at 22:00 UTC](https://calendar.opensuse.org/teams/marketing/events/thursday_weekly_meeting) and participate in the live Leap 15.6 Beta testing event aka ["Bug Day"](https://en.opensuse.org/openSUSE:Bug_Day#March_7th%3A_Leap_15.6_Beta).
 
