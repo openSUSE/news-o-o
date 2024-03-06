@@ -35,7 +35,7 @@ The [openSUSE Project](https://www.opensuse.org/) is thrilled to announce the Be
 
 Feel free to download Leap 15.6 Beta images from [get.opensuse.org](https://get.opensuse.org/leap/15.6/) and test it out, or [upgrade](https://en.opensuse.org/SDB:System_upgrade) from your existing Leap 15.5 system by running `zypper --releasever=15.6 dup`. You might want to get familiar with [known issues](https://en.opensuse.org/openSUSE:Known_bugs_15.6) in Leap 15.6.
 
-Show your support by dropping in at our [Thursday Weekly Meeting at 22:00 UTC](https://calendar.opensuse.org/teams/marketing/events/thursday_weekly_meeting) and participate in the live Leap 15.6 Beta testing event aka ["Bug Day"](https://en.opensuse.org/openSUSE:Bug_Day#March_7th%3A_Leap_15.6_Beta).
+Show your support by dropping in today at our [Thursday Weekly Meeting at 20:00 UTC](https://calendar.opensuse.org/teams/marketing/events/thursday_weekly_meeting) and participate in the live Leap 15.6 Beta testing event aka ["Bug Day"](https://en.opensuse.org/openSUSE:Bug_Day#March_7th%3A_Leap_15.6_Beta). The event will be live streamed to the [openSUSE channel on youtube](https://www.youtube.com/user/opensusetv).
 
 "Let's make sure that Leap 15.6 runs well on your hardware, and that we can keep it that way for the next 18 months," said Lubos Kocman, openSUSE Leap release manager. "We cannot address hardware issues, feature requests and other issues without knowledge of these problems. Our openQA is limited. Testing different hardware and reporting these issues are a big help."
 
