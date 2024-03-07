@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2024-03-07 12:00:00+01:00
 layout: post
-image: /wp-content/uploads/2024/03/leap156-beta-testing.jpg
+image: /wp-content/uploads/2024/03/leap156-beta-testing.png
 license: CC-BY-SA-3.0
 title: Leap 15.6 Reaches Beta Phase
 categories:
