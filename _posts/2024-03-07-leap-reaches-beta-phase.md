@@ -49,7 +49,7 @@ The container stack was refresh as [podman](https://podman.io/) 4.8 version prov
 
 The virtualization stack also gains newer versions with [Xen](https://xenproject.org/) 4.18, [KVM](https://www.linux-kvm.org/page/Main_Page) 8.1.3, [libvirt](https://libvirt.org)  1.0 and [virt-manager](https://virt-manager.org/download/) 4.1.
 
-Updates software packages related to telecommunications received updates and Leap 15.6 is expected to have [DPDK](https://git.dpdk.org/) 23.07 and versions 3 and 4 of [Open vSwitch](https://www.openvswitch.org/) will be available.
+Updates software packages related to telecommunications received updates and Leap 15.6 is expected to have [DPDK](https://git.dpdk.org/) 22.1 and versions 3 and 4 of [Open vSwitch](https://www.openvswitch.org/) will be available.
 
 The Beta introduces substantial updates across the board, starting with the [KDE](https://kde.org) environment. [Qt 5](https://www.qt.io/product/qt5) receives an uplift to 5.15.12+kde147 and has security enhancements from KDE developers beyond the standard release. This update brings a move to [KDE Frameworks 5.114.0](https://kde.org/announcements/frameworks/5/5.114.0/) and marks a leap from the previous 5.90.0 version. Alongside this, Qt6 moves up to version 6.6.1 and ensures that the latest applications can run smoothly with the new libraries. Python bindings for both PyQt5 and PyQt6 are updated and aligns well with the [Python](https://www.python.org/) 3.11 stack.
 
