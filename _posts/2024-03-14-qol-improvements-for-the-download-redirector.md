@@ -5,7 +5,7 @@ date: 2024-03-14 12:00:00+01:00
 layout: post
 image: /wp-content/uploads/2021/12/mirrorcache.png
 license: CC-BY-SA-3.0
-title: QoL improvements for the Download Redirector
+title: Improvements arrive for Download Redirector
 categories:
 - Announcements
 - openSUSE
