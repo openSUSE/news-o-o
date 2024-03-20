@@ -34,9 +34,9 @@ The  [Contribution Workshops](https://news.opensuse.org/2024/02/14/contribution-
 
 The following episodes were already released:
 
-[Episode 1: openSUSE Contribution Workshop: Basic use of OBS osc using a version bump as an example](https://youtu.be/EQ5NWsW_tjo?si=lsMShfNPb5MSgdLt)
-[Episode 2: openSUSE Contribution Workshop: From 0 to an rpm package packaging GNU Hello](https://youtu.be/EQ5NWsW_tjo?si=lsMShfNPb5MSgdLt
-[Episode 3: openSUSE Contribution Workshop: openSUSE Leap 15.6 Beta Bug Day](https://youtu.be/rfP-IXwKRAE?si=TwVTgvaPRaoYjWtz)
+* [Episode 1: openSUSE Contribution Workshop: Basic use of OBS osc using a version bump as an example](https://youtu.be/EQ5NWsW_tjo?si=lsMShfNPb5MSgdLt)
+* [Episode 2: openSUSE Contribution Workshop: From 0 to an rpm package packaging GNU Hello](https://youtu.be/EQ5NWsW_tjo?si=lsMShfNPb5MSgdLt)
+* [Episode 3: openSUSE Contribution Workshop: openSUSE Leap 15.6 Beta Bug Day](https://youtu.be/rfP-IXwKRAE?si=TwVTgvaPRaoYjWtz)
 
 
 <meta name="openSUSE, community, project, conference, Open Source, teaching, mentoring, OBS, Rust, Open Build Service, streaming, youtube" content="HTML,CSS,XML,JavaScript">
