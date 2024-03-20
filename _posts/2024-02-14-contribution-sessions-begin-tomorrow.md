@@ -14,7 +14,7 @@ tags:
 - openSUSE
 - Contribution
 - Community
-- OBD
+- OBS
 - openQA
 - Open Source
 - Open Build Serice
