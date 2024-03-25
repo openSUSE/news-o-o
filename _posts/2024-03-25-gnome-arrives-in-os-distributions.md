@@ -17,7 +17,6 @@ tags:
 - Contribution
 - Community
 - Open Source
-- Open Build Serice
 - Developers
 - GNOME
 - Plasma
