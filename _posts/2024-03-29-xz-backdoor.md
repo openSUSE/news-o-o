@@ -67,7 +67,7 @@ Otherwise, simply update to openSUSE Tumbleweed 20240328 or later and
 reboot the system.
 
 
-* https://www.suse.com/security/cve/CVE-2024-3094
-* https://www.openwall.com/lists/oss-security/2024/03/29/4
+* [SUSE Security CVE-2024-3094 information page](https://www.suse.com/security/cve/CVE-2024-3094)
+* [OSS Security disclosure of the vulnerability](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, hacker, Linux, Security, backdoor, xz" content="HTML,CSS,XML,JavaScript">
