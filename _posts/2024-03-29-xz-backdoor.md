@@ -3,7 +3,7 @@
 author: Marcus Meissner
 date: 2024-03-29 01:00:00+01:00
 layout: post
-image: /wp-content/uploads/2024/03/bug.png
+image: /wp-content/uploads/2021/04/gtw.png
 license: CC-BY-SA-3.0
 title: openSUSE addresses supply chain attack against xz compression library
 categories:
