@@ -23,7 +23,7 @@ openSUSE maintainers received notification of a supply chain attack against the 
 
 <strong>Background</strong>
 
-Security Researcher Andres Freund reported to Debian that the xz / liblzma library had been backdoored.
+Andres Freund reported to Debian that the xz / liblzma library had been backdoored.
 
 This backdoor was introduced in the upstream github xz project with
 release 5.6.0 in February 2024.
