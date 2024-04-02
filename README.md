@@ -24,7 +24,7 @@ Blogs are shared on <https://planet.opensuse.org/>, which is a web feed aggregat
     ```
     ---
     author: Jacob Michalskie   # please use your real name (at least your first name) and/or your openSUSE user name
-    date: 2020-02-27 19:27:17+00:00
+    date: 2020-02-27 12:00:00+01:00
     layout: post
     license: CC-BY-SA-3.0
     title: My First Post
@@ -39,11 +39,14 @@ Blogs are shared on <https://planet.opensuse.org/>, which is a web feed aggregat
     Write you post in Markdown and HTML...
 
     ```
-    The date and time you set here, in the header, will be the date and time your article, once merged, will be published and available on [news.opensuse.org](https://news.opensuse.org). If you set the current day's date, be aware that there might be up to 2 hours delay between the time the PR got accepted and the time it actually gets picked up by the server.
+    The date and time you set here, in the header, will be the date and time your article, once merged, will be published and available on [news.opensuse.org](https://news.opensuse.org). Please be aware that +01:00 above represents 1 hour ahead of UTC time. Should you be more ahead of UTC time, include + or, if behind, include - UTC time) If you set the current day's date, be aware that there might be up to 2 hours delay between the time the PR got accepted and the time it actually gets picked up by the server.
 
 3. Please use an illustration image with at least 1153x505px size. It should be referenced under `image` in the header above, and the image should be placed in its own directory in `/wp-content/uploads/(year)/(month)` and named. For example: `//wp-content/uploads/2022/04/my-first-post-image.png`. If you need help with creating some approriate image feel free to ask in #artwork on IRC, Matrix or Discord.
 
 4. Save the file and create a pull request. You can find the button at page bottom. 
+
+## Previews of posts
+Before publishing, you can preview the post at <https://news-o-o-preview.netlify.app/>. Posts are published at the top of the hour and should be finish building in [Actions](https://github.com/openSUSE/news-o-o/actions) before the top of the hour, which are usually recongnized by the server and publish within 3-8 minutes after the top of the hour. 
 
 ## How to build?
 
