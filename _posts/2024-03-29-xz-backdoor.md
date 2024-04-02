@@ -23,7 +23,7 @@ openSUSE maintainers received notification of a supply chain attack against the 
 
 <strong>Background</strong>
 
-Security Researcher Andres Freund reported to Debian that the xz / liblzma library had been backdoored.
+Andres Freund reported to Debian that the xz / liblzma library had been backdoored.
 
 This backdoor was introduced in the upstream github xz project with
 release 5.6.0 in February 2024.
@@ -31,11 +31,11 @@ release 5.6.0 in February 2024.
 Our rolling release distribution openSUSE Tumbleweed and openSUSE MicroOS
 included this version between March 7th and March 28th.
 
-SUSE Linux Enterprise and Leap are built in isolation from openSUSE.
+SUSE Linux Enterprise and openSUSE Leap are built in isolation from openSUSE.
 Code, functionality and characteristics of Tumbleweed are not automatically
-introduced in SUSE Linux Enterprise and/or Leap. It has been established
+introduced in SUSE Linux Enterprise and/or openSUSE Leap. It has been established
 that the malicious file introduced into Tumbleweed is not present in
-SUSE Linux Enterprise and/or Leap.
+SUSE Linux Enterprise and/or openSUSE Leap.
 
 <strong>Impact</strong>
 
