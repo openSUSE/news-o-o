@@ -30,7 +30,7 @@ This backdoor was introduced in the upstream github xz project with release 5.6.
 
 Our rolling release distribution [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) and [openSUSE MicroOS](https://get.opensuse.org/microos/) included this version between March 7 and March 28.
 
-[SUSE Linux Enterprise](https://www.suse.com/products/server/) and [openSUSE Leap](https://get.opensuse.org/leap/15.5/) are built in isolation from openSUSE. Code, functionality and characteristics of Tumbleweed are not automatically introduced in SUSE Linux Enterprise and/or openSUSE Leap. It has been established that the malicious file introduced into Tumbleweed is not present in SUSE Linux Enterprise and/or openSUSE Leap.
+[SUSE Linux Enterprise](https://www.suse.com/products/server/) and [openSUSE Leap](https://get.opensuse.org/leap/15.5/) are built in isolation from [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/). Code, functionality and characteristics of Tumbleweed are not automatically introduced in SUSE Linux Enterprise and/or openSUSE Leap. It has been established that the malicious file introduced into Tumbleweed is not present in SUSE Linux Enterprise and/or openSUSE Leap.
 
 <strong>Impact</strong>
 
