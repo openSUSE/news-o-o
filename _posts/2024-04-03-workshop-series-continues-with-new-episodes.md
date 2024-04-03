@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio
-date: 2024-04-03 18:00:00+01:00
+date: 2024-04-03 18:00:00+02:00
 layout: post
 image: /wp-content/uploads/2024/02/session.png
 license: CC-BY-SA-3.0
