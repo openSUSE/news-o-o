@@ -36,8 +36,8 @@ Upcoming Episodes
 Episode 5 will dive deep into the world of [openSUSE Leap](https://get.opensuse.org/leap/) by providing insights into the project, its structure, tools, how the team tracks feature and what the process is for building and updating SLES (SUSE Linux Enterprise Server) packages. This episode is a must-watch and will be live for anyone interested in the development processes behind openSUSE Leap so they understand how to contribute to the ecosystem.
 
 **Episode 6: Host Your Own openSUSE Mirror**
- - Date: Expected April 5
- - Time: Planned for 15:00 UTC
+ - Date: Postponed
+ - Time: ASAP
  - Where: openSUSE official channels
 
 Episode 6 is expected to guide viewers through the process of hosting their own openSUSE mirror. This session is particularly geared toward those interested in infrastructure support and ensuring the accessibility and distribution of openSUSE's resources worldwide.
