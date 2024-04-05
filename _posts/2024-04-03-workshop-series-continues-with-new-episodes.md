@@ -48,7 +48,7 @@ Whether you're looking to dive into package maintenance, infrastructure, or unde
 
 The following episodes were already released:
 
-* [Episode 1: openSUSE Contribution Workshop: Basic use of OBS osc using a version bump as an example](https://youtu.be/EQ5NWsW_tjo?si=lsMShfNPb5MSgdLt)
+* [Episode 1: openSUSE Contribution Workshop: Basic use of OBS osc using a version bump as an example](https://www.youtube.com/watch?v=8DVEZR_YodA)
 * [Episode 2: openSUSE Contribution Workshop: From 0 to an rpm package packaging GNU Hello](https://youtu.be/EQ5NWsW_tjo?si=lsMShfNPb5MSgdLt)
 * [Episode 3: openSUSE Contribution Workshop: openSUSE Leap 15.6 Beta Bug Day](https://youtu.be/rfP-IXwKRAE?si=TwVTgvaPRaoYjWtz)
 * [Episode 4: openSUSE Contribution Workshop: Packaging Rust in Open Build Service](https://youtu.be/J__6pqGbR3o?si=WJpWsMlpWJ6mzZTk)
