@@ -29,17 +29,11 @@ Using a common default wallpaper path allows applications utilizing wallpaper or
 
 The small price for using the lossless format is a slight increase in size, however, we do use [optipng](https://github.com/openSUSE/branding/pull/148/files#diff-76ed074a9305c04054cdebb9e9aad2d818052b07091de1f20cad0bbac34ffb52R80) so it's within units of megabytes for all wallpapers resolutions combined.
 
+`ls -la /usr/share/wallpapers/openSUSEdefault/contents/images/1600x1200.png -rw-r--r-- 1 root root 417791 Apr  5 13:14 /usr/share/wallpapers/openSUSEdefault/contents/images/1600x1200.png`
 
-```
-lkocman@tw:~> ls -la /usr/share/wallpapers/openSUSEdefault/contents/images/1600x1200.png
--rw-r--r-- 1 root root 417791 Apr  5 13:14 /usr/share/wallpapers/openSUSEdefault/contents/images/1600x1200.png
+`ls -la /usr/share/wallpapers/SLEdefault/contents/images/1600x1200.png -rw-r--r-- 1 root root 417791 Apr  5 13:14 /usr/share/wallpapers/SLEdefault/contents/images/1600x1200.png`
 
-lkocman@tw:~> ls -la /usr/share/wallpapers/SLEdefault/contents/images/1600x1200.png
--rw-r--r-- 1 root root 417791 Apr  5 13:14 /usr/share/wallpapers/SLEdefault/contents/images/1600x1200.png
-
-lkocman@tw:~> ls -la /usr/share/wallpapers/SLEdefault
-lrwxrwxrwx 1 root root 15 Apr  5 13:15 /usr/share/wallpapers/SLEdefault -> openSUSEdefault
-``` 
+`ls -la /usr/share/wallpapers/SLEdefault lrwxrwxrwx 1 root root 15 Apr  5 13:15 /usr/share/wallpapers/SLEdefault -> openSUSEdefault`
 
 We've also supplied new [apple-touch-icon](https://github.com/openSUSE/distribution-logos/pull/7/files), which was part of SUSE Linux Enterprise distribution logos and this was missing on the openSUSE side.
 
