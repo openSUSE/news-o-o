@@ -25,7 +25,9 @@ A lot has been written about the
 
 A few days before the public disclosure of the XZ backdoor, the SUSE product security team was getting a hint that there is something odd with the XZ 5.6.x releases. I am the SUSE employee and openSUSE packager that was updating and including this version into openSUSE Tumbleweed, so I got involved in this quite early. By that time, no context and information that was shared publically in the initial public disclosure was available to us. However, that hint was all the information that was needed. It changed the way we looked at an established, central open-source project. Without that, the odd small diff in the "configure" stage of the build system would have been easily disregarded.
 
-The SUSE security team and I started analyzing. With initial information that there is something suspicious, it was relatively easy to find more suspicious things in no particular order:
+One day before disclosure, on Thursday evening, SUSE product security received a longer and detailed report from Andres Freund via the shared distros security disclosure list. The distros list is an encrypted mailing list where distributors collaborate and coordinate on coordinated disclosures of security issues. This report brought the new knowledge that the xz backdoor specifically targeting openssh, which is one of the network facing parts of nearly every Linux system. This even further increased our threat level to be of a remote access backdoor and caused also to widen our planned communication efforts.
+
+The SUSE security team and I started analyzing. SUSE product security is a member of various private security forums, like the distros list and CERT VINCE and others, which allow us the coordinate fixes between software vendors and have updates ready on the disclosure dates. With initial information that there is something suspicious, it was relatively easy to find more suspicious things in no particular order:
 
 * openSUSE and SUSE is tracking release artifact signatures with a keyring of trusted signatures. We noticed that the key that the artifacts were signed with changed some time ago, so we had to update our trusted keyring for the XZ project. We validated that there was a maintainer handover and that the new maintainer has direct commit access as well as the ability to sign releases and publish them. The web of trust of this new signing key was not well connected, which could have raised an alert, but it was signed by the previous maintainer and that was sufficient for us.
 
@@ -41,20 +43,17 @@ So even without any information further about the backdoor, we understood that t
 
 openSUSE Tumbleweed ships an emergency update channel that we can use to recover from fatal regressions in the regular Tumbleweed snapshots. These are extremely rare thanks to our automated testing pipeline, but they do happen. We injected a downgrade of xz into that emergency update channel and started building an interim openSUSE snapshot release that had the malicious xz update removed. However, due to the unknown nature of the obfuscated backdoor, we were planning with the worst assumption. We started collecting how many packages have been built and released with the build of the suspect GCC compiler within the build environment. It was a very large list. Also, making sense of the reversing of the malicious backdoor object code in [Ghidra](https://ghidra-sre.org/) would take us another couple of hours. After a short sync, we decided to go for the safe route and throw away every package that was built with the potentially malicious xz/GCC and started rebuilding all of them with only packages that were coming from a safe backup, to restore integrity of our distribution as quickly as possible. openSUSE is regularly testing this "bootstrap mode" as part of our distribution development and relies on the rebuild automation provided by the [Open Build Service](https://https://openbuildservice.org/), so this wasn't a lot of human work. It was just a lot of load for our build cluster. We had a couple of hours of waiting in front of us, which allowed further analyzing the backdoor.
 
-
 ## Analysis of the backdoor
 
 Analysis of the object code turned out to be time intensive. While the second stage that checked for the right build conditions (is it a distribution build, does it have the expected compiler environment etc) was easy to decode and helped us understand the potential impact, initially it wasn't really clear to us what the obfuscated object code that was injected during the build was doing.
 
 By using Ghidra, we were able to get somewhat readable C code back from the injected machine code, so we started trying to decipher the puzzle of code. Spotting the entry point in the `_get_cpuid` function that was part of the IFUNC handling was one of the first findings. Just googling these combination of words led to an upstream discussion, to the disablement of ifunc in the oss fuzz project and an interesting bug report in the Fedora community where valgrind issues were reported with XZ 5.6.0 and apparently the upstream was fixing those by updating unrelated things including "the test files" in the repository. There was not only commits in the repository but also misleading communication around the issue directly related to those commits, which made it obvious that we were not finding an unfortunate accident by an innocent maintainer who might have been hacked, but a planned action by the current upstream maintainer. Just in case the alarm bells weren't loud enough already, this doubled their noise level.
 
-
 ## Preparing for the Public Disclosure
 
 Combining all of what we learned so far, the picture became clearer. Somebody has spent years of preparation to lay down the ground work, build up a good maintainer reputation, take over the project and then chose a point in time that was a critical time window for several distribution projects and in the middle of Lunar New Year as well as other holidays to release a new release with new features and an obfuscated backdoor that was well crafted to target only specific distributions, namely those using GCC, Binutils, Glibc with RPM or Debian build processes on x86_64.
 
 With all of that in mind, we realized that there is going to be a lot of public coverage on this. It will be in the news for days to weeks. So we started a new workstream to prepare for that with the comms teams.
-
 
 ## Public Disclosure
 
@@ -67,20 +66,17 @@ That nothing worse happened is only thanks to Andres Freund, a developer in the 
 
 However, relying on heroes is not a sustainable and reliable strategy. So for the future, we all need to learn from what happened and need to become a large team of small heroes.
 
-
 ## Time to look forward and learn from the mistakes
 
 Many words have been written on what happened. Timelines have been written, actors named. The backdoor has been reversed and the understanding of the purpose of the code has been published in a lot of detail.
 
 It's time to look forward. Linux distributions were abused to deliver a backdoor to their users. What the exact purpose of the backdoor was is still speculation. It could be all from an individual who wanted to sell access to abundant compute power via public cloud hosted virtual machines that have a vulnerable ssh port open to the public. Which is the rather unlikely, but still possible, one end of the spectrum. The other end of the spectrum is a company that sells backdoors to state actors that make use of those to remotely and covertly access any Linux machine. Although mistakes were made, it almost achieved that goal. Where is the truth? Further evidence needs to be identified and analyzed for that.
 
-
 ### Linus Law and the distributions
 
 "*Given enough eyeballs, all bugs are shallow*". In Open Source communities, this is cited a lot as a reason for why open source can be trusted. For open-source projects that are attracting enough attention from sufficiently skilled contributors, this "law" probably has at least some weight. However, we learned for example from Heartbleed that these preconditions are not universally fulfilled. There are are many projects that are absolutely essential and yet are considered boring and fail to attract a lot of maintainers or contributors, and those who are on the project are buried under a pile of work already and can't really spend significant effort on ramping up new joiners.
 
 However, as explained earlier, this backdoor was only targetting distributions. First, by the prechecks that the backdoor executed before unfolding, but also because the conditions necessary for implanting were only existing *downstream* in these distributions. Debian, as well as the other affected distributions like openSUSE are carrying a significant amount of downstream only patches to essential open-source projects, like in this case openssh. With hindsight, that should be another heartbleed level learning for the work of the distributions. These patches were building the essential steps to embed the backdoor, and have not the scrutiny that they likely would have received by the respective upstream maintainers. Whether you trust Linus Law or not, it was not even given a chance to chime in here. Upstream did not fail on the users, distributions failed on upstream and their users here.
-
 
 ### Open source and their communities
 
@@ -89,7 +85,6 @@ Being able to inspecting source code of open-source software gives the community
 Furthermore, others have already emphasized that the initial attack vector wasn't technical. It wasn't an archaic tarball. The actual initial attack was social engineering and used toxic behavior in communities. This is real and not only in this case affects the existing maintainers of open-source projects. Many stories have been told where maintainer stress or burn out was connected to toxic participants in the project communities. Although I believe the distributions are not part of those activities, we are not set up to prevent these things from happening. The distribution developers are focused on their issues and their users and are, due to the limited time, then risking to neglect the (upstream) open-source communities. This is another thing that we need to keep in mind. 
 
 Initiatives like [CHAOSS](https://chaoss.community/) and the [Open Source Security Foundation](https://openssf.org/) have been founded because otherwise these situations would be too easy to miss. They provide essential service toward analyzing the "bus factor", or the "collusion factor" of how many actors are needed to subvert a project and thereby allow others to focus on directing help where it matters the most. 
-
 
 ### The cost of Freedom
 
