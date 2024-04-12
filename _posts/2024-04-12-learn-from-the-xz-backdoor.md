@@ -101,7 +101,6 @@ For most other thinkable attack scenarios, signed release artifacts provide impo
 
 We recognize that the XZ backdoor is cleverly built. Yet, it had surprising flaws in execution. Whoever is interested in embedding further backdoors has learned from the extensive public coverage of everything that went wrong. These mistakes have been pointed out, published and learned from. We have given the actors behind this backdoor free training for future attacks. It is time that distributions learn from this as well and also take training lessons. We need to actively collaborate and build a strong, reliable web of trust with open-source projects and each other to be prepared to handle the inevitable future challenges that will come. Let's build a Secure Web of Trust together!
 
-
 <sub><sup>Picture on this post was taken by [Matthias Pastwa](https://www.flickr.com/photos/mpastwa/2521707893/) and used under [CC-BY-ND 2.0 DEED](https://creativecommons.org/licenses/by-nd/2.0/)</sup></sub>
 
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, hacker, Linux, Security, backdoor, xz, CVE" content="HTML,CSS,XML,JavaScript">
