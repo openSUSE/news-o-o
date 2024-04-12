@@ -3,9 +3,9 @@
 author: Dirk Mueller
 date: 2024-04-12 01:00:00+01:00
 layout: post
-image: /wp-content/uploads/2021/04/gtw.png
+image: /wp-content/uploads/2024/04/xz-backdoor-supply-chain.png
 license: CC-BY-SA-3.0
-title: What we should learn from the XZ Backdoor
+title: What we need to take away from the XZ Backdoor
 categories:
 - openSUSE
 - Tumbleweed
@@ -102,5 +102,8 @@ In this particular incident, signed tarballs were used to publish the launcher o
 For most other thinkable attack scenarios, signed release artifacts provide important qualities. They fulfil the expectation to only ship what has been deemed ship-ready. They provide an independently verifiable chain to the origin (the "Supplier"). However, each distribution starts with this verifiable first part of the chain and then adds on top. Often (or meanwhile almost always) with a transparent way to verify those changes as well (in the form of SLSA conformant procedures), all in isolation. How reliable are those disjoint chains? Currently, distributions occasionally reuse the same or similar patches on top of upstream project releases, but otherwise for the most part work in isolation and only rarely actively collaborate. The essential piece of downstream patch that activated the backdoor existed for close to 10 years in the distributions, yet has not been seen in upstream.
 
 We recognize that the XZ backdoor is cleverly built. Yet, it had surprising flaws in execution. Whoever is interested in embedding further backdoors has learned from the elaborate public coverage of everything that went wrong. These mistakes have been pointed out, published and learned from. We have given the actors behind this backdoor a free training for the future next attacks. It is time that distributions learn from this as well and also take training lessons. We need to actively collaborate and build a strong, reliable web of trust with the open source projects and each other to be prepared to handle the inevitable future challenges that will come. Let's build a Secure Web of Trust together!
+
+
+<sub><sup>Picture on this post was taken by [Matthias Pastwa](https://www.flickr.com/photos/mpastwa/2521707893/) and used under [CC-BY-ND 2.0 DEED](https://creativecommons.org/licenses/by-nd/2.0/)</sup></sub>
 
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, hacker, Linux, Security, backdoor, xz, CVE" content="HTML,CSS,XML,JavaScript">
