@@ -67,7 +67,7 @@ That nothing worse happened is only thanks to Andres Freund, a developer in the 
 
 However, relying on heroes is not a sustainable and reliable strategy. So for the future, we all need to learn from what happened and need to become a large team of small heroes.
 
-## Time to look forward and learn from the mistakes
+## TLDR of What Happened
 
 Linux distributions were abused to deliver a backdoor to their users. What the exact purpose of the backdoor was is still speculation. It could be all from an individual who wanted to sell access to abundant compute power via public cloud hosted virtual machines that have a vulnerable ssh port open to the public. Which is the rather unlikely, but still possible, one end of the spectrum. The other end of the spectrum is a company that sells backdoors to state actors that make use of those to remotely and covertly access any Linux machine. Although mistakes were made, it almost achieved that goal. Where is the truth? Further evidence needs to be identified and analyzed for that.
 
