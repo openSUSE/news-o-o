@@ -9,8 +9,7 @@ title: Leap 15.6 Reaches Beta Phase
 categories:
 - Announcements
 - openSUSE
-- Tumbleweed
-- MicroOS
+- Leap
 tags:
 - openSUSE
 - Tumbleweed
@@ -67,6 +66,6 @@ The project's release engineering team encourages users to download, test, and p
 
 The Leap 15.6 Beta is available on [get.opensuse.org](https://get.opensuse.org/testing). Pick an image fitting your purpose. Install it on a VM like [virtualbox](https://www.virtualbox.org), [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) or install it on your own hardware, which we prefer.
 
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, tpm, full-disk, encryption, MicroOS, grub, qemu, btrfs" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Leap, Developers, sysadmin, user, Open Source, rolling release, tpm, full-disk, encryption, MicroOS, grub, qemu, btrfs" content="HTML,CSS,XML,JavaScript">
 
 
