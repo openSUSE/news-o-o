@@ -16,6 +16,7 @@ tags:
 - Open Source
 - Community
 - Security
+- Reproducible Builds
 
 ---
 
@@ -31,8 +32,10 @@ The effort on reproducible builds is a [collaboration across many distributions.
 
 ## Uses
 
-Reproducible builds have a [multitude of uses for security and quality.](https://reproducible-builds.org/docs/buy-in/) For further uses, it needs to be combined with other techniques such as [distributed post-merge code review and capability based designs.](https://gitlab.com/affording-open/distribution)
+Reproducible builds have a [multitude of uses for security and quality.](https://reproducible-builds.org/docs/buy-in/) To further enhance their utility, reproducible builds need to be combined with other techniques such as [distributed post-merge code review and capability based designs.](https://gitlab.com/affording-open/distribution)
 
-A recent example is that it permits to create proof, just by rebuilding and comparing the result, that a GCC build whose source was extracted with a compromised xz was not compromised; this was done without needing to reverse engineer in what way it was compromised. Similarly it was reported as being [usefully during investigations of the xz compromise.](https://lwn.net/ml/oss-security/CAN_LGv3B4_K16osLRiinny7SbOsxvvtJHbU3Fgbu4ytnEPgoww@mail.gmail.com/)
+A recent example is that reproducible builds allow for the creation of proof, simply by rebuilding and comparing the result, that a GCC build whose source was extracted with a compromised xz was not compromised; this process was achieved without needing to reverse engineer how the compromise occurred. Similarly, reproducible builds were reported as being [usefully during investigations of the xz compromise.](https://lwn.net/ml/oss-security/CAN_LGv3B4_K16osLRiinny7SbOsxvvtJHbU3Fgbu4ytnEPgoww@mail.gmail.com/)
 
-An important consequence is that it enables collaboration that otherwise would not be possible through allowing of more science based arguments for security, which can be independently verified.
+reproducible builds enable collaboration that otherwise would not be possible by supporting more scientifically-based arguments for security, which can be independently verified.
+
+<meta name="openSUSE, Factory, Open Source, security, devops, reproducible builds, community" content="HTML,CSS,XML,JavaScript">
