@@ -5,7 +5,7 @@ date: 2024-04-29 17:00:00+02:00
 layout: post
 image: /wp-content/uploads/2024/04/cockpit.jpg
 license: CC-BY-SA-3.0
-title: Try Cockpit in Leap's Release Candidate
+title: Try Cockpit in Leap Release Candidate
 categories:
 - Announcements
 - openSUSE
