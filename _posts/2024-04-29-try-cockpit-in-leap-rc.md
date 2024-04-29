@@ -29,7 +29,7 @@ This means the release is considered featurefull and contributors should focus o
 
 Users who are eager to install Leap 15.6 on their machines should check the release's [known issues](https://en.opensuse.org/openSUSE:Known_bugs_15.6) to see if there is any issue that prevents the use of the RC. 
 
-The release team was able to deliver a long time awaited [Cockpit](https://cockpit-project.org/) for both Leap and [SUSE Package Hub](https://packagehub.suse.com/) users. Users might be familiar with Cockpit's web-based admin interface from [Leap Micro toturials](https://www.youtube.com/playlist?list=PL_AMhvchzBacAxIOv3_lRHBRrIUNo6Abp).
+The release team was able to deliver a long time awaited [Cockpit](https://cockpit-project.org/) for both Leap and [SUSE Package Hub](https://packagehub.suse.com/) users. Users might be familiar with Cockpit's web-based admin interface from [Leap Micro tutorials](https://www.youtube.com/playlist?list=PL_AMhvchzBacAxIOv3_lRHBRrIUNo6Abp).
 
 Users are advised not to publicly expose Port 9090 used with the admin interface; just like people shouldn't expose their router's web interface to the public.
 
