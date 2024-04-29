@@ -23,7 +23,7 @@ tags:
 
 ---
 
-[openSUSE](https://opensuse.org/) Leap 15.6 exited Beta and entered its Release Candidate [phase](https://en.opensuse.org/openSUSE:Roadmap) with build [669.1](https://openqa.opensuse.org/tests/overview?distri=opensuse&version=15.6&build=669.1&groupid=50) last week.
+[openSUSE](https://opensuse.org/) Leap 15.6 exited Beta and entered its Release Candidate [phase](https://en.opensuse.org/openSUSE:Roadmap) with build [669.1](https://openqa.opensuse.org/tests/overview?distri=opensuse&version=15.6&build=669.1&groupid=50) last week. You can get Leap 15.6 RC install images from [get.opensuse.org](https://get.opensuse.org/leap/15.6/).
 
 This means the release is considered featurefull and contributors should focus on bug fixes and eliminating any remaining build failures. 
 
