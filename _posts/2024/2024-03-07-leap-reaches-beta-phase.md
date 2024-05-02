@@ -9,8 +9,7 @@ title: Leap 15.6 Reaches Beta Phase
 categories:
 - Announcements
 - openSUSE
-- Tumbleweed
-- MicroOS
+- Leap
 tags:
 - openSUSE
 - Tumbleweed
@@ -47,7 +46,7 @@ Along with the updated Kernel version, [glibc](https://www.gnu.org/software/libc
 
 The container stack was refresh as [podman](https://podman.io/) 4.8 version provides more support. [Nextcloud](https://nextcloud.com/) out of box can be easily run in an optimal way with [quadlets](https://github.com/containers/quadlet). The newest versions of [distrobox](https://github.com/89luca89/distrobox), [docker](https://www.docker.com/), python-podman and [skopeo](https://github.com/containers/skopeo) are available for container use. 
 
-The virtualization stack also gains newer versions with [Xen](https://xenproject.org/) 4.18, [KVM](https://www.linux-kvm.org/page/Main_Page) 8.1.3, [libvirt](https://libvirt.org)  1.0 and [virt-manager](https://virt-manager.org/download/) 4.1.
+The virtualization stack also gains newer versions with [Xen](https://xenproject.org/) 4.18, [KVM](https://www.linux-kvm.org/page/Main_Page) 8.1.3, [libvirt](https://libvirt.org)  10.0 and [virt-manager](https://virt-manager.org/download/) 4.1.
 
 Updates software packages related to telecommunications received updates and Leap 15.6 is expected to have [DPDK](https://git.dpdk.org/) 22.1 and versions 3 and 4 of [Open vSwitch](https://www.openvswitch.org/) will be available.
 
@@ -67,6 +66,6 @@ The project's release engineering team encourages users to download, test, and p
 
 The Leap 15.6 Beta is available on [get.opensuse.org](https://get.opensuse.org/testing). Pick an image fitting your purpose. Install it on a VM like [virtualbox](https://www.virtualbox.org), [GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) or install it on your own hardware, which we prefer.
 
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, tpm, full-disk, encryption, MicroOS, grub, qemu, btrfs" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Leap, Developers, sysadmin, user, Open Source, rolling release, tpm, full-disk, encryption, MicroOS, grub, qemu, btrfs" content="HTML,CSS,XML,JavaScript">
 
 
