@@ -1,7 +1,7 @@
 ---
 
 author: openSUSE Asia Summit Japanese Team
-date: 2023-05-06 10:00:00+02:00
+date: 2024-05-06 10:00:00+02:00
 layout: post
 image: /wp-content/uploads/2024/05/osas.png
 title: openSUSE Asia Summit Set for Tokyo
