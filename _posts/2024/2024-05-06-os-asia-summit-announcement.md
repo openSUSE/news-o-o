@@ -11,7 +11,6 @@ categories:
 - Conference
 - Community
 tags:
-- 2024
 - openSUSE
 - Asia
 - Summit
@@ -35,5 +34,3 @@ Please see also:
 * [Japan Guide](https://www.japan-guide.com)
 
 The expected summit date is Nov. 2 and 3 soon after Open Source Summit Japan. Our call for speakers is going to end around the end of July. For more details including the venue, please stay tuned until the next announcement in a couple of weeks.
-
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, community, summit, Asia, games, Japan" content="HTML,CSS,XML,JavaScript">
