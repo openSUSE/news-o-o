@@ -1,9 +1,9 @@
 ---
 author: openSUSE.Asia Summit Japanese Team
-date: 2023-05-04 09:00:00+00:00
+date: 2023-05-04 09:00:00+09:00
 layout: post
 title: openSUSE.Asia Summit 2024 Announcement
-image: /wp-content/uploads/2024/05/osas_host_announcement.jpg
+image: /wp-content/uploads/2024/05/osas.png
 license: CC-BY-SA-3.0
 categories:
 - Announcements
