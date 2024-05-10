@@ -33,7 +33,7 @@ This is a planned short-term inconvenience for a long-term benefit and will allo
 People wanting to contribute to the openSUSE Project by helping to translate using [Weblate](https://weblate.org/en/) can register on <https://l10n.opensuse.org> and connect with other translators through [translation@lists.opensuse.org](https://lists.opensuse.org/archives/list/translation@lists.opensuse.org/) and [project@lists.opensuse.org](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/) mailing lists.
 
 
-Any attempt to connect to Weblate during the migration will trigger a notification informing the user of the ongoing maintenance. Others will be informed of the outage through [https://status.opensuse.org](https://status.opensuse.org).
+Any attempt to connect to Weblate during the migration will trigger a notification informing the user of the ongoing maintenance. Others will be informed of the outage through <https://status.opensuse.org>.
 
 <meta name="openSUSE, Tumbleweed, Weblate, Translation" content="HTML,CSS,XML,JavaScript">
 
