@@ -1,0 +1,56 @@
+---
+
+author: Douglas DeMaio 
+date: 2023-09-29 08:00:00+02:00
+layout: post
+image: /wp-content/uploads/2023/09/dboot.png
+license: CC-BY-SA-3.0
+title: Tumbleweed Gets systemd-boot Support 
+categories:
+- Announcements
+- openSUSE
+- Tumbleweed
+tags:
+- openSUSE
+- Tumbleweed
+- Developers
+- Open Source
+- sysadmin
+- rolling release
+- contribution
+- gamers
+- superuser
+- distrowatch
+- hacker
+- Linux
+- Kernel
+- systemd
+- boot
+- GNOME
+- Flatpak
+- cve
+- nmve
+- gedit
+- cairo
+- Wayland
+- ImageMagick
+- LibreOffice
+- postgresql
+
+---
+
+This week [openSUSE](https://get.opensuse.org/) [Tumbleweed](https://get.opensuse.org/tumbleweed/) snapshots continue to deliver software updates for users wanting to enhance their systems. 
+
+Updates in this week’s snapshots brought numerous changes, bug fixes and improved functionality. 
+
+With snapshot [20230926](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/ZKE6L5QGB7EXO2KYBVU7RYMIWM6I3EWL/), the 2D graphics library [cairo](https://www.cairographics.org/) had its first stable release in five years with the 1.18.0 version update. The package includes support for Type 3 color fonts in PDF and has several optimizations including enhancing support for the Quartz surface and the removal of the XML surface. The snapshot also updates image editor [ImageMagick](https://imagemagick.org/index.php); the 7.1.1.17 version modifies patches and introduces alternative configuration packages, eliminating a redundant dependency on [p7zip](https://7-zip.org/). An update of [libreoffice](https://www.libreoffice.org/) 7.6.1.2 resolves a crash issue when editing a date field, fixes animation effects for rectangles and fixes an accuracy problem with `SUM()` calculations. The new 4.4.0 version of [transactional-update](https://github.com/openSUSE/transactional-update) has a new `setup-fips` command and improved cleanup processes for snapshots created through various methods. Previously, only snapshots created by the transactional-update shell script were cleaned up. The update of [yast2-bootloader](https://github.com/yast/yast-bootloader) 5.0.2 fixes issues in the testsuite for architectures other than [x86_64](https://en.wikipedia.org/wiki/X86-64) and introduces support for [systemd-boot](https://media.ccc.de/v/all-systems-go-2023-189-systemd-boot-integration-in-opensuse) on [x86_64](https://en.wikipedia.org/wiki/X86-64), which can be enabled/disabled by the `enable_systemd_boot` flag in the product description file for each product. The update of [yast2-installation](https://github.com/yast/yast-installation) 5.0.1 accommodates those changes in [yast2-bootloader](https://github.com/yast/yast-bootloader) for [systemd-boot experimental support](https://media.ccc.de/v/all-systems-go-2023-189-systemd-boot-integration-in-opensuse). Several other packages were updated in the snapshot.
+
+An update in snapshot [20230925](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/RBZPG3MPQI6NGJ7VDGRRATEEVQ46URBZ/) includes a package to make computer programs run faster; the [highway](https://github.com/google/highway) 1.0.7 package introduces new features like [LoadNOr, GatherIndexN, and ScatterIndexN](https://github.com/google/highway/releases). The new version also had fixes for [WASM](https://webassembly.org/), [GNU Compiler Collection](https://gcc.gnu.org/) 13, [GCC](https://gcc.gnu.org/) 8.2, [QEMU](https://www.qemu.org/) 7.2 and more. The [GObject](https://docs.gtk.org/gobject/) library interfacing with system block devices, [udisks2](https://lazka.github.io/pgi-docs/UDisks-2.0/index.html), updates to version 2.10.0 and has improvements with changes to partitioning using [libfdisk](https://cdn.kernel.org/pub/linux/utils/util-linux/v2.28/libfdisk-docs/) and has support for native [NVMe](https://en.wikipedia.org/wiki/NVM_Express) devices. The package also enhances the handling of filesystems and adds new features like setting filesystem and partition [UUIDs](https://en.wikipedia.org/wiki/Universally_unique_identifier). The [libHX](https://inai.de/projects/libhx/) 4.15 update introduces new functions for computing the Least Positive Residue and enhances the `HX_strrtrim` function to work with strings longer to improve its string manipulation capabilities. An update of the Library for manipulating block devices [libblockdev](https://github.com/storaged-project/libblockdev) had a major verison update to 3.0.2. The package improvements include using [ntfsinfo](https://linux.die.net/man/8/ntfsinfo) for faster operations, brings extensive [Application Programming Interface](https://en.wikipedia.org/wiki/API) changes, removes certain plugins, and has new features like  [NVMe](https://en.wikipedia.org/wiki/NVM_Express) support. A few other packages updated in the snapshot. 
+
+An update of [bind](https://bind9.readthedocs.io) 9.18.19 arrived in snapshot [20230922](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/L6UJPQ7JMYF5INAMB5M62WLGPBOMYZSE/). The update of this  [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) protocol package fixes a few [Common Vulnerabilities and Exposures](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures). Both [CVE-2023-3341](https://www.suse.com/security/cve/CVE-2023-3341.html) and [CVE-2023-4236](https://www.suse.com/security/cve/CVE-2023-4236.html) were fixed and the latter could occurs when handling DNS-over-TLS queries are under heavy load. This could have caused internal data structures to be incorrectly reused and potentially has an impact on the stability and reliability of the DNS server. The update of [gtk4](https://www.gtk.org/) 4.12.2 prevents tooltips from crossing native boundaries in [GtkTooltip](https://docs.gtk.org/gtk3/class.Tooltip.html) and improves gradient matching and rendering in [GSK](https://docs.gtk.org/gsk4/class.Renderer.html). An update of the HP Linux Imaging and Printing package, [hplip](https://developers.hp.com/hp-linux-imaging-and-printing) moved to version 3.23.5 and now supports several new printers and models like the HP Smart Tank series. An update of [xwayland](https://wayland.freedesktop.org/xserver.html) 23.2.1 provides a more stable and functional experience while adding a check to verify the existence of a function call. An update of [Xen](https://xenproject.org/) 4.17.2 implements two security fixes. [CVE-2023-34322](https://www.suse.com/security/cve/CVE-2023-34322.html) addresses a security concern where the top-level shadow reference for 64-bit [PV](https://en.wikipedia.org/wiki/Paravirtualization) guests was dropped prematurely when dealing with memory shortages and may have lead to privilege escalation, Denial of Service (DoS), and information leaks. [CVE-2023-20588](https://www.suse.com/security/cve/CVE-2023-20588.html) was the other vulnerability. Several other packages updated in the snapshot including [ncurses](https://en.wikipedia.org/wiki/Ncurses) 6.4.20230909, [nodejs20](https://nodejs.org/en/) 20.7.0, [python-Pillow](https://pypi.org/project/Pillow/) 10.0.1 and more.
+
+With snapshot [20230921](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/JPGP4ED7AMECXM2ENXJ7NAPCGN6BOR5C/), [ethtool](https://mirrors.edge.kernel.org/pub/software/network/ethtool/) 6.5 adds a feature to check the register dump for a specific driver and fixes a few issues like some problems with certain settings and an empty slot search issue. The [iproute2](https://git.kernel.org/pub/scm/network/iproute2/iproute2.git) 6.5 package, when using the `rdma` command will report the device protocol, which can be handy. When using `iplink`, it doesn't use all the options provided and can give an error message. The [Linux Kernel](https://www.kernel.org/) updates in the snapshot as [kernel-source](https://www.kernel.org/) 6.5.4 improves the handling [Server Message Block 3](https://en.wikipedia.org/wiki/Server_Message_Block) requests after reconnects, has driver fixes and enhancements related to clocks and drivers for various hardware components. The update of [lvm2](https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux)) 2.03.22 fixes report field types for better data accuracy and enhancing Virtual Data Optimizer and ensures more efficient data management in Linux storage systems. The audio package [pipewire](https://pipewire.org/) updates to 0.3.80 and improves better synchronization of mixer I/O areas to prevent potential crashes. The update also has [Advanced Linux Sound Architecture](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture) making smarter period-size selections for batch devices and provides enhancements in audio adapter tag and latency handling. PDF render [poppler](https://poppler.freedesktop.org/) 23.09.0 improves digital signatures and now provides the key location for certificates to be signed.
+
+Shortly after releasing last week’s review, snapshot [20230920](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/WV5ZYTYK762Z4UHPNZQJVFZYQJRTNMTX/) was released and it brought [GNOME](https://www.gnome.org/) users a gift for the weekend. [GNOME 45](https://release.gnome.org/45/) brings several changes. A new activities button in the top bar has a dynamic workspace indicator, making it more user-friendly and replacing the old app menu. There is faster search performance across various apps and a new camera indicator in the top bar shows when the camera is in use. GNOME 45 introduces a new default image viewer that's fast, clean and adaptive and the files app is now faster and more seamless with search. The GNOME Display Manager [gdm](https://wiki.gnome.org/Projects/GDM) 45.0.1 fixes a critical crash issue. Has numerous code cleanups and adds support for multi-seat configurations in [Wayland](https://wayland.freedesktop.org/). An update of [Flatpak](https://flatpak.org/) 1.15.4 was also in the snapshot. The package took care of two CVEs. [CVE-2023-28101](https://www.suse.com/security/cve/CVE-2023-28101.html) has a fix for special characters that are now escaped when displaying permissions and metadata. This prevents malicious apps from manipulating the appearance of the permissions list using crafted metadata. With [CVE-2023-28100](https://www.suse.com/security/cve/CVE-2023-28100.html), Flatpak app is run on a Linux virtual console and ioctl is no longer allowed. This security enhancement protects against potential vulnerabilities when using virtual consoles. There were several other packages updating in the snapshot, but the major version of [postgresql](https://www.postgresql.org/) 16 optimizes aggregate functions, and enhances sorting that leads to faster queries. The bulk loading performance saw up to a 300 percent improvement, according to its [release announcement](https://www.postgresql.org/about/news/postgresql-16-released-2715/). The other major version in the snapshot was [gedit](https://wiki.gnome.org/Apps/Gedit) 46.1, which resolved a build issue, updated its Flatpak and did some code refactorings to improve organization. 
+
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, kernel, gnome, cve, nmve, postgresql, gedit, libreoffice, imagemagick, flatpak, cairo" content="HTML,CSS,XML,JavaScript">

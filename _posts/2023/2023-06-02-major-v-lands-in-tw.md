@@ -1,0 +1,33 @@
+---
+
+author: Douglas DeMaio 
+date: 2023-06-02 10:00:00+02:00
+layout: post
+image: /wp-content/uploads/2022/08/qemu.png
+license: CC-BY-SA-3.0
+title: Major QEMU Version Lands in Tumbleweed
+categories:
+- Announcements
+- openSUSE
+- Community
+tags:
+- openSUSE
+- SUSE
+- Open House
+- Prague
+
+---
+
+The [openSUSE Conference](https://events.opensuse.org/conferences/oSC23) did not slow down [openSUSE](https://get.opensuse.org/) [Tumbleweed](https://get.opensuse.org/tumbleweed/) snapshots from frequently being released this week.
+
+Three snapshots have been released since last Friday when the conference began and a new major version of [QEMU](https://wiki.qemu.org/ChangeLog/8.0) arrived just days after the conference.
+
+This emulator and virtualizer arrived in snapshot [20230530](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/TZRO6PHQQ6CAQO4GTT7PFUUQPBKFY6K6/). The update of [qemu 8.0](https://wiki.qemu.org/ChangeLog/8.0) fixed dependencies and improved the [spec file](https://en.opensuse.org/openSUSE:Specfile_guidelines); the package added support for [Xen](https://xenproject.org/) guests under [KVM](https://www.linux-kvm.org/page/Main_Page) with [Linux Kernel](https://www.kernel.org/) version above 5.12. Two newly emulated CPU types were [arm](https://www.arm.com/)’s [Cortex-A55](https://developer.arm.com/Processors/Cortex-A55) and [Cortex-R52](https://developer.arm.com/Processors/Cortex-R52). [RISC-V](https://riscv.org/) also had some support extensions added with the emulator, and [s390x](https://en.wikipedia.org/wiki/IBM_System/390) improved device handling and fixed some emulation instructions with the major version package update. [Python Package Index](https://pypi.org/)  had an update. The 23.1.2 version of [python-pip](https://pypi.org/) upgraded [setuptools](https://pypi.org/project/setuptools/) to 67.7.2 and added a `--keyring-provider` flag. An old [Common Vulnerability and Exposure](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures) was fixed with the [python310](https://www.python.org/) 3.10.11 update. [CVE-2007-4559](https://nvd.nist.gov/vuln/detail/CVE-2007-4559) that could allow for user-assisted remote attackers to overwrite arbitrary files was fixed and the language package  also fixed a bug that caused a crash when deallocating deeply nested filter objects. Another package to update in the snapshot was [Btrfs](https://btrfs.wiki.kernel.org) 6.3. The file system added a patch, removed some old files and provided some integration with [GitHub](https://github.com/) actions. A few [GNOME](https://www.gnome.org/) packages were updated in the snapshot. Several fixes were made with [gnome-software](https://gitlab.gnome.org/GNOME/gnome-software) 44.2 like fixing a bug with listing [Flatpak](https://flatpak.org/) addons when multiple [Flathub](https://flathub.org/) remotes are enabled. Extensible screen reader [Orca](https://wiki.gnome.org/Projects/Orca) updated to version 44.1 and improves performance by checking for duplicate object events. The 44.2 version of the [gnome-control-center](https://gitlab.gnome.org/GNOME/gnome-control-center) had fixes in [GTK](https://www.gtk.org/) template usage that caused crashes on some systems.
+
+The snapshot that arrived the day before was [20230529](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/XA7IOHYH5RWCQ3V77XR3U3NAVRCEWFKE/). This updated the [Linux Kernel](https://www.kernel.org/); with the [kernel-source](https://www.kernel.org/) 6.3.4, fixes were made in different areas like networking, scsi, netfilter, bonding, and more. An update of [grep](https://www.gnu.org/software/grep/) 3.11 fixed a pattern matching issue with the `-P` option. Patterns like `[\d]` now work again, which was broken in the previous version. Multiple CVEs associated with Chromium were fixed in [ libqt5-qtwebengine 5.15.14](https://software.opensuse.org/package/libqt5-qtwebengine); these included a stack buffer overflow, heap buffer overflow, an out-of-bounds memory access, and other vulnerabilities that could potentially be exploited by attackers to compromise the system.
+
+An update of [gstreamer](https://gstreamer.freedesktop.org/) 1.22.3 fixed a video decoder deadlock with [ffmpeg](https://www.ffmpeg.org/) 6 as well as some regression handling of input streams. The pixel encoder [babl](https://gegl.org/babl/) 0.1.106 has a faster startup by caching balanced RGB to XYZ matrices. Several other packages updated in the snapshot including window manager [icewm](https://ice-wm.org/) 3.3.5, [diffutils](https://www.gnu.org/software/diffutils/) 3.10, [xfce4-panel](https://docs.xfce.org/xfce/xfce4-panel/start) 4.18.4 and [crypto-policies](https://github.com/linux-system-roles/crypto_policies).
+
+The [20230526](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/LQTCXUPS4BMCIHXBAUKEWVN47DUNV3BQ/) snapshot had eight packages update. [ImageMagick](https://imagemagick.org/index.php) 7.1.1.10 was among the packages to update and it fixed security vulnerability [CVE-2023-2157](https://www.suse.com/security/cve/CVE-2023-2157.html). [Mozilla Firefox](https://www.mozilla.org) 113.0.2 fixed a bug causing it to freeze on certain pages with the Developer Tools Web Console open. There was also a bug fixed related to the vertical resizing of the bookmark and history sidebars. Programming language [guile](https://www.gnu.org/software/guile/) updated to version 3.0.9 and introduced a new interface, functionality and refreshed some patches. An update of [libreoffice](https://www.libreoffice.org/) 7.5.3.2 also refreshed some patches and fixed a Microsoft PPTX format issue. Translations for Georgian using [Weblate](https://weblate.org/) were made in the [libstorage-ng](https://github.com/openSUSE/libstorage-ng) 4.5.110 update. Two CVEs were fixed in the snapshot as well; [mariadb](https://mariadb.org/) 10.11.3 took care of [CVE-2022-47015](https://www.suse.com/security/cve/CVE-2022-47015.html), which had a Denial of Service vulnerability for MariaDB Servers in versions 10.3.34 thru 10.9.3, and an updated 4.17.1 version of [xen](https://xenproject.org/) took care of [CVE-2022-42336](https://www.suse.com/security/cve/CVE-2022-42336.html), which had a security vulnerability on [AMD](https://www.amd.com) hardware specific to the AMD Family 17h and Hygon Family 18h processors.
+
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, gnome, arm, kvm, amd, python, pip, xen, qemu, flatpak, gtk, icewm, xfce, weblate, mariadb, dos, denial of service, guile, imagemagick, firefox, libstorage, ffmpeg, cve, github, riscv" content="HTML,CSS,XML,JavaScript">

@@ -1,0 +1,59 @@
+---
+
+author: Douglas DeMaio 
+date: 2023-08-11 09:00:00+02:00
+layout: post
+image: /wp-content/uploads/2023/08/gtw.png
+license: CC-BY-SA-3.0
+title: Perl, Pipewire, LibreOffice Update in Tumbleweed
+categories:
+- Announcements
+- openSUSE
+- Tumbleweed
+tags:
+- openSUSE
+- Python
+- openSUSE
+- Tumbleweed
+- Developers
+- sysadmin
+- Open Source
+- rolling release
+- gamers
+- superuser
+- distrowatch
+- hacker
+- Linux
+- Kernel
+- Redis
+- Harfbuzz
+- freetype
+- wasm
+- xterm
+- rsyslog
+- poppler
+- python
+- audacity
+- GTK
+- riscv
+
+---
+
+[Tumbleweed](https://get.opensuse.org/tumbleweed/) snapshots didn’t lack excitement this week as multiple packages received updates and a couple major versions arrived for [openSUSE](https://get.opensuse.org/) rolling release users this week.
+
+The [20230809](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/JONO3B3IE6PM7XGJCDPLVCC7V7FYEY3A/) snapshot provided an update of [GNU Compiler Collection](https://gcc.gnu.org/). [GNU Compiler Collection](https://gcc.gnu.org/). The new 13.2.1+git7683 version for developers that rely on the compiler includes the 13.2 release and various fixes. Notably, the update addresses a patch for a broken testcase in [libbacktrace](https://github.com/ianlancetaylor/libbacktrace/tree/master), which resolves build issues on [SUSE Linux Enterprise Server](https://www.suse.com/products/server/) 12. GNOME users received an update of [gtk4](https://www.gtk.org/) 4.10.5. The release addresses various issues, including fixing ordering problems with filter model signals, avoiding lingering resize cursors, and resolving alignment issues on the [Scalable Processor Architecture](https://en.wikipedia.org/wiki/SPARC). The [fuse3](https://github.com/libfuse/libfuse) 3.16.1 package, which is an interface for userspace programs to export a filesystem to the Linux kernel, had some enhancements with an ability to enable `readdir` kernel cache from the high-level [Application Programming Interface](https://en.wikipedia.org/wiki/API). Office suite [libreoffice](https://www.libreoffice.org/) received a minor version update to 7.6.0.2 a day after updating from the 7.5.4.2 version. This release incorporates bug fixes and updates to bundled dependencies, which ensures a more stable and feature-rich office experience. A third update this week of [libstorage-ng](https://github.com/openSUSE/libstorage-ng) 4.5.136 had translation updates for Indonesian. The [upower](https://upower.freedesktop.org/) package for power management and device information updated to version 1.90.2. Notably, the release marks the end of lid handling in UPower since the functionality will now be provided by [logind](https://www.freedesktop.org/software/systemd/man/systemd-logind.service.html). A few other packages updated in the snapshot like [python-importlib-resources](https://pypi.org/project/importlib-resources/), which updated to major version 6.0.1 and removed legacy functions deprecated in 5.3; it require [Python](https://www.python.org/) 3.8 or later.
+
+[LibreOffice](https://www.libreoffice.org/) was updated in snapshot [20230808](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/LA4RF3TGDYRMTLM5OJPLF7HHHQ4IISE7/). The change from 7.5.4.2 to 7.6.0.1 incorporates a wide array of features, bug fixes and improvements like the handling fonts. It fixed an issue with an infinite loop when changing the document language. The package added missing dependencies on Java Runtime Environment (64 Bit) for [RISC-V 64](https://riscv.org/). The [pipewire](https://pipewire.org/) multimedia framework updated to 0.3.77. This update included a fix for [Advanced Linux Sound Architecture](https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture) sources to prevent [xruns](https://unix.stackexchange.com/questions/199498/what-are-xruns) and a new L permission to force node links. The Virtual Broadcast Audio Network module now supports [Musical Instrument Digital Interface](https://en.wikipedia.org/wiki/MIDI) and a range of cleanup and fixes were made with the package. An update of [KDE](https://kde.org) editor [okteta](https://apps.kde.org/okteta/) to version 0.26.13 improves translations, decoding tables, and structures tools. It also improves [CMake](https://cmake.org/) Unity builds that are now possible.
+
+Some changes for [GNOME](https://www.gnome.org/) became available in snapshot [20230807](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/KUZ7AJCYOKZO4D5ZMNIGSW5NBLP6LWZQ/). The [gnome-software](https://gitlab.gnome.org/GNOME/gnome-software) package rolled out version 44.4. This update introduces several noteworthy improvements like enhancing error notifications from failed GPG checks and improving the handling of updates that involve the removal of some packages to fulfill dependencies. [Perl](https://www.perl.org/) enthusiasts will be delighted with it's current major version release in Tumbleweed. The 5.38.0 version introduces a host of new features, including [the `class` feature](https://perldoc.perl.org/perlclassguts) and support for [unicode](https://unicode.org) 15.0. The language also improves `defined-or` and `logical-or` assignment default expressions in signatures, and more. There was a significant deprecation in the release with the use of ' as a package name separator. There was some translation enhancements for Georgian users with openSUSE’s [libstorage-ng](https://github.com/openSUSE/libstorage-ng) 4.5.135 update. There was also an update of [python-alembic](https://pypi.org/project/alembic/) 1.11.1 in the snapshot, which was also a major release. It modified calling signatures and had fixes for typing use of [SQLAlchemy](https://www.sqlalchemy.org/) classes along with some enhancements in error handling.
+
+Snapshot [20230806](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/WNQBSU7CYTLTMURJUMPVTWASGSBIUKHW/) had about a handful of packages updated. An update of the [plasma5-desktop](https://kde.org/plasma-desktop/) 5.27.7.1 includes a fix for an issue where applets did not return focus after pressing an applet shortcut, and a fix for a missing feature providing more fluid and seamless handling was made for the desktop environment. The 9.6.0 [libvirt](https://libvirt.org) update includes an upstream commit to fix max file limits in [systemd](https://freedesktop.org/wiki/Software/systemd/), contributing to smoother operations for virtualized environments. Python developers get an update that aligns with the latest changes in [libvirt](https://libvirt.org) to ensure compatibility and seamless integration for Python-based virtualization tasks. The [libzypp](https://github.com/openSUSE/libzypp) package management library underpinning openSUSE's software management received an update to version 17.31.18. The version addresses the respect of `ZYPP_READONLY_HACK` when checking the zypp-rpm lock. Version 2.40.5 of [webkit2gtk3](https://webkitgtk.org/) introduces several crash and rendering fixes, along with multiple security fixes addressing vulnerabilities like [CVE-2023-38133](https://www.suse.com/security/cve/CVE-2023-38133.html), [CVE-2023-38572](https://www.suse.com/security/cve/CVE-2023-38572.html) and more. 
+
+The [Linux Kernel](https://www.kernel.org/) updated in snapshot [20230805](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/SUZUTCOUXGCXRUMNJ6C5G6VVGPTJC5Q4/). The [kernel-source](https://www.kernel.org/) 6.4.8 release had some [Btrfs](https://btrfs.wiki.kernel.org) fixes and some changes related to KVM (Kernel-based Virtual Machine) with the [s390](https://en.wikipedia.org/wiki/IBM_System/390) architecture. The GNU Multiple Precision Arithmetic Library [gmp](https://gmplib.org/) 6.3.0 update brought better handling of integer overflow, enhanced error handling for malformed files and improved support for building [Link-Time Optimization](https://gcc.gnu.org/wiki/LinkTimeOptimization). An update of [harfbuzz](https://github.com/harfbuzz/harfbuzz) 8.1.1 addresses a regression introduced in the previous version. There were also optimizations made to speed up font loading, subsetting and shaping. The 4.6/6 [yast2-installation](https://github.com/yast/yast-installation) update fixed a status label toggle issue and improved the user interface and experience during software installation. The first of three [libstorage-ng](https://github.com/openSUSE/libstorage-ng) updates for the week came with the 4.5.134 update in this snapshot.
+
+Graphics improved in snapshot [20230804](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/ZAHKFUDUGIRMFFMJKIE3IQY3BOB3W4TA/) as [Mesa](https://www.mesa3d.org/) 23.1.5 updated. The [release notes](https://docs.mesa3d.org/relnotes/23.1.4.html) show that several fixes were made to different graphics drivers, including [Radeon](https://www.amd.com/en/graphics/radeon-rx-graphics), [ANV](https://docs.mesa3d.org/drivers/anv.html) and more. The [Intel](https://www.intel.com/) ANV driver no longer experiences GPU hangs on [Multisample Anti-Aliasing](https://en.wikipedia.org/wiki/Multisample_anti-aliasing) tests with Angle. Gamers might enjoy the [SDL2](https://www.libsdl.org/) 2.28.2 update.The software package takes a leap forward by addressing various issues and ensuring better compatibility. The update fixes controller lockup initializing some unofficial PS4 replica controllers, according to the changelog. An update of [openssl-3](https://www.openssl.org/) 3.1.2 addresses potential vulnerabilities that include excessive time spent checking DH parameter values and proper handling of associated data entries with AES-SIV encryption. The update of [dracut](https://dracut.wiki.kernel.org/index.php/Main_Page) introduces a series of critical fixes and features. These improvements covered a wide range of areas, including systemd-udevd, systemd-journald, base functionality, and more. The [openssl-3](https://www.openssl.org/) 3.1.2 update includes fixes for the proper handling of associated data entries with AES-SIV encryption. Another update in the snapshot was made to for the policy analysis tool for [SELinux](https://github.com/SELinuxProject); The [setools](https://github.com/SELinuxProject/setools/wiki) 4.4.3 version includes better compatibility with [Cython](https://github.com/cython/cython) 3.0.0 and enhanced [manpages](https://manpages.opensuse.org/). 
+
+Tumbleweed users have the option of choosing between open GPU kernel modules or proprietary drivers and can get more information on [using NVIDIA GPU drivers on openSUSE Tumbleweed](https://en.opensuse.org/SDB:NVIDIA_drivers#openSUSE-repos). Tumbleweed users are presented with a choice between open GPU kernel modules and proprietary drivers, and can find guidance on [using NVIDIA GPU drivers on openSUSE Tumbleweed](https://en.opensuse.org/SDB:NVIDIA_drivers#openSUSE-repos). Within the openSUSE repositories, NVIDIA's proprietary drivers are available for installation through `zypper`. It's important to recognize that these proprietary drivers originate from the NVIDIA repository due to licensing restrictions. Additionally, users can enhance their experience with improved download accessibility and reduced latency by enabling the 3rd party NVIDIA repository. Furthermore, users can elevate their experience with enhanced download accessibility and reduced latency through the sponsorship of a CDN subscription by Fastly.com, benefiting download.opensuse.org.
+
+
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, hacker, Linux, Kernel, selinux, KDE, GNOME, Perl, KVM, Pipewire, LibreOffice, amd, Mesa, dracut, zypper, libvirt, GPU, gcc, upower, riscv, opensslnvidia, intel, fastly, sony, ps4, cdn, unicode, harfbuzz, systemd, logind" content="HTML,CSS,XML,JavaScript">
