@@ -37,7 +37,7 @@ Users are advised not to publicly expose Port 9090 used with the admin interface
 
 	`$ sudo systemctl enable --now cockpit.socket`
 
-	`$ firefox https://localhost:9090 # login as root for admin access`
+	`$ firefox https://localhost:9090 # root login is disabled by default check note bellow`
 
 Previous attempts to include Cockpit in Leap 15.5 were made, but there were several blockers. Inclusion was possible thanks to a refresh of the python311 stack, which was part of massive update effort for SUSE Linux Enterprise Server 15 Service Pack 6 along with [unification branding](https://news.opensuse.org/2024/04/09/common-wallpaper-path/). The team was able to build Cockpit once and provide it for both SLES and Leap users with this RC.
 
