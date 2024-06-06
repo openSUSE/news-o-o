@@ -49,4 +49,6 @@ The following episodes were already released:
 * [Episode 6: Host Your Own openSUSE Mirror](https://youtu.be/aR3kPugKcGc?si=9DdInq5yHW_RY5dK)
 * [Episode 7: openSUSE Contribution Workshop: Custom Leap Micro image spin in a few minutes](https://youtu.be/Qg7r_swbkCY?si=QMAXFWUyKYIqH_VF)
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, community, project, conference, Open Source, teaching, mentoring, openQA, OBS, Rust, Open Build Service, streaming, youtube" content="HTML,CSS,XML,JavaScript">

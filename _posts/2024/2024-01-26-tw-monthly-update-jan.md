@@ -96,5 +96,7 @@ Your contributions and feedback make openSUSE Tumbleweed better with every updat
 
 We will continue to refine and enhance this format. We look forward to another exciting year of development and community engagement with openSUSE Tumbleweed. See you all at [FOSDEM](https://fosdem.org) next week. Happy computing!
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, mesa, wayland, Linux, kernel, python, cve, rdma, core, samba, gnutls, php, gstreamer, kde, frameworks, systemd, mozilla, firefoxl" content="HTML,CSS,XML,JavaScript">
 

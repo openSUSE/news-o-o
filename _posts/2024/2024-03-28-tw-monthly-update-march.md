@@ -94,6 +94,8 @@ For those Tumbleweed users that want to contribute, subscribe to the openSUSE Fa
 ### Contributing to openSUSE Tumbleweed
 Your contributions and feedback make openSUSE Tumbleweed better with every update. Whether reporting bugs, suggesting features, or participating in community discussions, your involvement is highly valued.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, mesa, Linux, kernel, python, cve, gnome, kde, gear, systemd, mozilla, firefox, mesa, qemu, redis, bind, cmake" content="HTML,CSS,XML,JavaScript">
 
 

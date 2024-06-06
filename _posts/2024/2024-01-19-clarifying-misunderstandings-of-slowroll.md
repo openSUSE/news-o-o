@@ -39,5 +39,6 @@ Slowroll is still rather new and is based on openSUSE Tumbleweed packages.
 
 While Slowroll is a significant addition to the openSUSE family, it caters to users choosing a slightly slower up-to-date software system. The name Slowroll was chosen to reflect its slower update cycle and has been retained after a community voting process​.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
 
 <meta name="openSUSE, slowroll, user, Open Source, rolling release, Tumbleweed, stability, family" content="HTML,CSS,XML,JavaScript">

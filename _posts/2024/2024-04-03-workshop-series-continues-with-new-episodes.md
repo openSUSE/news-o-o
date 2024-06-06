@@ -53,4 +53,6 @@ The following episodes were already released:
 * [Episode 3: openSUSE Contribution Workshop: openSUSE Leap 15.6 Beta Bug Day](https://youtu.be/rfP-IXwKRAE?si=TwVTgvaPRaoYjWtz)
 * [Episode 4: openSUSE Contribution Workshop: Packaging Rust in Open Build Service](https://youtu.be/J__6pqGbR3o?si=WJpWsMlpWJ6mzZTk)
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, community, project, conference, Open Source, teaching, mentoring, OBS, Rust, Open Build Service, streaming, youtube" content="HTML,CSS,XML,JavaScript">

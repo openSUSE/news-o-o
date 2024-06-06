@@ -40,4 +40,6 @@ Those who are interested in presenting should fill in the blank area for future 
 
 Giving a session is a great way to give back to the community and provides opportunities to teach others skills and knowledge about open-source development.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, community, project, conference, Open Source, teaching, mentoring, openQA, OBS, Open Build Service, streaming, youtube" content="HTML,CSS,XML,JavaScript">

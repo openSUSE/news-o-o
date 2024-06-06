@@ -106,6 +106,8 @@ February 2024 for openSUSE Tumbleweed showcases a diverse range of updates and i
 ### Contributing to openSUSE Tumbleweed
 Your contributions and feedback make openSUSE Tumbleweed better with every update. Whether reporting bugs, suggesting features, or participating in community discussions, your involvement is highly valued.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, mesa, Linux, kernel, python, cve, php, gstreamer, kde, frameworks, systemd, mozilla, firefox, poppler, pulseaudio, fwupd, postgresql, gtk, rpm, qemul" content="HTML,CSS,XML,JavaScript">
 
 

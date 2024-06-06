@@ -47,4 +47,6 @@ To participate, email ddemaio@opensuse.org with the subject “open4business” 
 
 Submitting a proposal for the [oSC24](https://events.opensuse.org/) is open until April 15. The conference will take place at the [Z-Bau](https://z-bau.com/), which is down the street from SUSE's offices in Nuremberg.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, Rancher, Developers, sysadmin, user, Open Source, mentors, mentee, Google Summer of Code, workshop" content="HTML,CSS,XML,JavaScript">

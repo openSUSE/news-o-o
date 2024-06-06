@@ -12,10 +12,9 @@ categories:
 - Leap
 tags:
 - openSUSE
-- Porject
+- Project
 - Community
 - Release Team
-- Board Members
 - Developers
 - Open Source
 
@@ -40,3 +39,5 @@ These launch parties provide a chance for the community to connect with the peop
 Schedule your [release party](https://en.opensuse.org/openSUSE:Launch_parties) today on the wiki and have a lot of fun!
 
 <sub><sup>(Image made with DALL-E)</sup></sub>
+
+<meta name="openSUSE, Open Source, Leap, release, party, launch, social media" content="HTML,CSS,XML,JavaScript">

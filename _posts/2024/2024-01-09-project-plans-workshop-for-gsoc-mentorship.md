@@ -48,4 +48,6 @@ Participants are encouraged to create an outline of some project ideas before th
 
 Mentors and administrators who participated in previous Google Summer of Code programs will attend the workshop.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, Rancher, Developers, sysadmin, user, Open Source, mentors, mentee, Google Summer of Code, workshop" content="HTML,CSS,XML,JavaScript">

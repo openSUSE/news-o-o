@@ -41,5 +41,6 @@ The [openSUSE Conference 2024](https://events.opensuse.org/conferences/oSC24) is
 
 Read more information about Agama on the [YaST blog](https://yast.opensuse.org/blog/).
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
 
 <meta name="openSUSE, community, project, conference, Open Source, Agama, OBS, Open Build Service, cockpit" content="HTML,CSS,XML,JavaScript">

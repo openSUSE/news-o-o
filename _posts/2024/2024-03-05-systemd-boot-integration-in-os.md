@@ -51,6 +51,8 @@ Ideally, in the future, some if not all of this functionallity will be exported 
 
 At this point, systemd-boot support in openSUSE is still considered experimental. Both Tumbleweed and MicroOS yast installers offer systemd-boot as an alternative to grub for the brave. There are also ready-made appliances for qemu that use systemd-boot and full-disk encryption by default.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, tpm, full-disk, encryption, MicroOS, grub, qemu, btrfs" content="HTML,CSS,XML,JavaScript">
 
 

@@ -86,5 +86,7 @@ For those Tumbleweed users who want to contribute or want to engage with detaile
 ### Contributing to openSUSE Tumbleweed
 Your contributions and feedback make openSUSE Tumbleweed better with every update. Whether reporting bugs, suggesting features, or participating in community discussions, your involvement is highly valued.
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, mesa, Linux, kernel, python, cve, kde, frameworks, mozilla, firefox, xwayland, LLVM, udisks2, Firewalld, snapper, GTK3, GTK4, sssd, openldap2, PostgreSQL, iproute2, AppStream, tpm2-0-tss" content="HTML,CSS,XML,JavaScript">
 

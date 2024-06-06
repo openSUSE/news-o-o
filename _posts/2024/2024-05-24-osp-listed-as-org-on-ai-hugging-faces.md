@@ -46,4 +46,6 @@ Users gain access to cutting-edge AI models and a collaborative environment wher
 
 For more information and to participate, visit [huggingface.co/openSUSE](https://huggingface.co/openSUSE).
 
+<sub><sup>(Image made with DALL-E)</sup></sub>
+
 <meta name="openSUSE, community, project, conference, Open Source, ai, datasets, models, cavil, license, community, collection" content="HTML,CSS,XML,JavaScript">
