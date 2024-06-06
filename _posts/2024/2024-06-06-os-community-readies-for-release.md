@@ -1,6 +1,6 @@
 ---
 
-author: Douglas DeMaio (Image made with DALL-E)
+author: Douglas DeMaio
 date: 2024-06-06 13:00:00+02:00
 layout: post
 image: /wp-content/uploads/2024/06/party.png
@@ -38,3 +38,5 @@ Some will celebration the event in Nuremberg. Certainly people at the [openSUSE 
 These launch parties provide a chance for the community to connect with the people behind the project and to show an appreciation for contributors who make the release of Leap 15.6 possible. It's an excellent opportunity for the community to gather, celebrate and discuss the new release after months of development.
 
 Schedule your [release party](https://en.opensuse.org/openSUSE:Launch_parties) today on the wiki and have a lot of fun!
+
+<sub><sup>(Image made with DALL-E)</sup></sub>
