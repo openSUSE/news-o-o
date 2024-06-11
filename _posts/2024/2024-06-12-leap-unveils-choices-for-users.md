@@ -78,6 +78,9 @@ To download the ISO image, visit <https://get.opensuse.org/leap/>
 
 If you have a question about the release or found a bug, we would love to hear from you at:
 
+### Give us feedback
+Starting today, we are open to feedback for the [Leap 15.6 release retrospective](https://survey.opensuse.org). Please let us know what went well and what areas we can improve for next time.
+
 <https://t.me/openSUSE>
 
 <https://chat.opensuse.org>
