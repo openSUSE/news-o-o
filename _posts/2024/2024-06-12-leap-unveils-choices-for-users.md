@@ -76,10 +76,10 @@ Leap 15.5 will have its End of Life (EOL) six months from today’s release. Use
 ### Download Leap 15.6
 To download the ISO image, visit <https://get.opensuse.org/leap/>
 
-If you have a question about the release or found a bug, we would love to hear from you at:
-
 ### Give us feedback
 Starting today, we are open to feedback for the [Leap 15.6 release retrospective](https://survey.opensuse.org). Please let us know what went well and what areas we can improve for next time.
+
+If you have a question about the release or found a bug, we would love to hear from you at:
 
 <https://t.me/openSUSE>
 
