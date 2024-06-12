@@ -38,7 +38,7 @@ tags:
 
 ---
 
-[EN](https://en.opensuse.org/Release_announcement_15.6) / [CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_15.6) / [CS](https://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_15.6) / [DE](https://de.opensuse.org/Release_announcement_15.6) / [ES](https://es.opensuse.org/Anuncio_publicaci%C3%B3n_15.6) / [JA](https://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_15.6) / [ZH-TW](https://zh-tw.opensuse.org/Release_announcement_15.6)
+[EN](https://en.opensuse.org/Release_announcement_15.6) / [CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_15.6) / [CS](https://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_15.6) / [DE](https://de.opensuse.org/Release_announcement_15.6) / [ES](https://es.opensuse.org/Anuncio_publicaci%C3%B3n_15.6) / [JA](https://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_15.6) / [PT-BR](https://pt.opensuse.org/openSUSE:Lancamento_versao_15.6) / [ZH-TW](https://zh-tw.opensuse.org/Release_announcement_15.6)
 
 NUREMBERG, Germany – The release of [Leap 15.6](https://get.opensuse.org/leap/15.6/) is official and paves the way for professionals and organizations to transition to SUSE's enterprise distribution with extended support or prepare for the next major release, which will be Leap 16.
 
