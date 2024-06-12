@@ -95,6 +95,11 @@ The openSUSE Project is a worldwide community that promotes the use of Linux eve
 
 ***** Two bugs related to Chrome with Wayland on [GNOME 45](https://en.opensuse.org/openSUSE:Known_bugs_15.6#GNOME) may see a fix coming in an update. ***** 
 
+### Retrospective
+Provide your feedback to our release team by visiting [survey.opensuse.org/](https://survey.opensuse.org/) and taking our [retrospective survey](https://survey.opensuse.org/).
+
+
+
 <sub><sup>(Image made with DALL-E)</sup></sub>
 
 <meta name="openSUSE, Open Source, Leap, launch, social media, SUSE, extended support, Enterprise, usage, Cockpit, migration, mariadb, postgresql, redis, openssl, python, Linux, Kernel, qt, kde, gnome, frameworks, podman, selinux" content="HTML,CSS,XML,JavaScript">
