@@ -42,7 +42,7 @@ tags:
 
 NUREMBERG, Germany – The release of [Leap 15.6](https://get.opensuse.org/leap/15.6/) is official and paves the way for professionals and organizations to transition to SUSE's enterprise distribution with extended support or prepare for the next major release, which will be Leap 16.
 
-Demands for robust, secure and stable operating systems in the digital infrastructure sector are more critical than ever. The combination of the community-driven [Leap 15.6](https://get.opensuse.org/leap/15.6/) and [SUSE Linux Enterprise 15](https://www.suse.com/products/server/) Service Pack 6, which integrates new features and enhancements, offers an optimal solution for managing critical infrastructure. Notably, SUSE's general support and [extended support]](https://www.suse.com/products/long-term-service-pack-support/) versions; these [Product Support Lifecycles](https://www.suse.com/lifecycle/) last well beyond Leap 15's lifespan, ensuring longer and reliable service for users.
+Demands for robust, secure and stable operating systems in the digital infrastructure sector are more critical than ever. The combination of the community-driven [Leap 15.6](https://get.opensuse.org/leap/15.6/) and [SUSE Linux Enterprise 15](https://www.suse.com/products/server/) Service Pack 6, which integrates new features and enhancements, offers an optimal solution for managing critical infrastructure. Notably, SUSE's general support and [extended support](https://www.suse.com/products/long-term-service-pack-support/) versions; these [Product Support Lifecycles](https://www.suse.com/lifecycle/) last well beyond Leap 15's lifespan, ensuring longer and reliable service for users.
 
 [SLE 15](https://www.suse.com/products/server/) SP 6 is a feature release, so users can expect several more features in the [Leap 15.6](https://get.opensuse.org/leap/15.6/) release.
 
@@ -91,7 +91,7 @@ If you have a question about the release or found a bug, we would love to hear f
 ### Get involved
 The openSUSE Project is a worldwide community that promotes the use of Linux everywhere. It creates two of the world’s best Linux distributions, the Tumbleweed rolling-release, and Leap, the hybrid enterprise-community distribution. openSUSE is continuously working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, translators, usability experts, artists and ambassadors or developers. The project embraces a wide variety of technology, people with different levels of expertise, speaking different languages and having different cultural backgrounds. Learn more about it on opensuse.org
 
-1 [Root login is disabled by default. Please read details in the [Try Cockpit in Leap Release Candidate](https://news.opensuse.org/2024/04/29/try-cockpit-in-leap-rc/) article.
+[1] Root login is disabled by default. Please read details in the [Try Cockpit in Leap Release Candidate](https://news.opensuse.org/2024/04/29/try-cockpit-in-leap-rc/) article.
 
 ***** Two bugs related to Chrome with Wayland on [GNOME 45](https://en.opensuse.org/openSUSE:Known_bugs_15.6#GNOME) may see a fix coming in an update. ***** 
 
