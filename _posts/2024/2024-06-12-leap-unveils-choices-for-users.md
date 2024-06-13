@@ -38,11 +38,11 @@ tags:
 
 ---
 
-[EN](https://en.opensuse.org/Release_announcement_15.6) / [CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_15.6) / [CS](https://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_15.6) / [DE](https://de.opensuse.org/Release_announcement_15.6) / [ES](https://es.opensuse.org/Anuncio_publicaci%C3%B3n_15.6) / [JA](https://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_15.6) / [PT-BR](https://pt.opensuse.org/openSUSE:Lancamento_versao_15.6) / [SV](https://sv.opensuse.org/Utgivnings_meddelande_15.6) [ZH-TW](https://zh-tw.opensuse.org/Release_announcement_15.6)
+[EN](https://en.opensuse.org/Release_announcement_15.6) / [CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_15.6) / [CS](https://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_15.6) / [DE](https://de.opensuse.org/Release_announcement_15.6) / [ES](https://es.opensuse.org/Anuncio_publicaci%C3%B3n_15.6) / [JA](https://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_15.6) / [PT-BR](https://pt.opensuse.org/openSUSE:Lancamento_versao_15.6) / [SV](https://sv.opensuse.org/Utgivnings_meddelande_15.6) / [ZH-TW](https://zh-tw.opensuse.org/Release_announcement_15.6)
 
 NUREMBERG, Germany – The release of [Leap 15.6](https://get.opensuse.org/leap/15.6/) is official and paves the way for professionals and organizations to transition to SUSE's enterprise distribution with extended support or prepare for the next major release, which will be Leap 16.
 
-Demands for robust, secure and stable operating systems in the digital infrastructure sector are more critical than ever. The combination of the community-driven [Leap 15.6](https://get.opensuse.org/leap/15.6/) and [SUSE Linux Enterprise 15](https://www.suse.com/products/server/) Service Pack 6, which integrates new features and enhancements, offers an optimal solution for managing critical infrastructure. Notably, SUSE's general support and [extended support]](https://www.suse.com/products/long-term-service-pack-support/) versions; these [Product Support Lifecycles](https://www.suse.com/lifecycle/) last well beyond Leap 15's lifespan, ensuring longer and reliable service for users.
+Demands for robust, secure and stable operating systems in the digital infrastructure sector are more critical than ever. The combination of the community-driven [Leap 15.6](https://get.opensuse.org/leap/15.6/) and [SUSE Linux Enterprise 15](https://www.suse.com/products/server/) Service Pack 6, which integrates new features and enhancements, offers an optimal solution for managing critical infrastructure. Notably, SUSE's general support and [extended support](https://www.suse.com/products/long-term-service-pack-support/) versions; these [Product Support Lifecycles](https://www.suse.com/lifecycle/) last well beyond Leap 15's lifespan, ensuring longer and reliable service for users.
 
 [SLE 15](https://www.suse.com/products/server/) SP 6 is a feature release, so users can expect several more features in the [Leap 15.6](https://get.opensuse.org/leap/15.6/) release.
 
@@ -68,7 +68,7 @@ GNOME 45 brings enhancements to the desktop environment, adding features that el
 
 These updates collectively enhance the system’s stability and user experience and make Leap 15.6 a compelling choice for professionals, companies and organizations.
 
-Leap can be downloaded at get.opensuse.org.
+Leap can be downloaded at [get.opensuse.org](https://get.opensuse.org/leap/15.6/).
 
 ### End of Life
 Leap 15.5 will have its End of Life (EOL) six months from today’s release. Users should update to Leap 15.6 within six months of today to continue to receive security and maintenance updates.
@@ -93,10 +93,10 @@ The openSUSE Project is a worldwide community that promotes the use of Linux eve
 
 1 [Root login is disabled by default. Please read details in the [Try Cockpit in Leap Release Candidate](https://news.opensuse.org/2024/04/29/try-cockpit-in-leap-rc/) article.
 
-***** Two bugs related to Chrome with Wayland on [GNOME 45](https://en.opensuse.org/openSUSE:Known_bugs_15.6#GNOME) may see a fix coming in an update. ***** 
+**\*\*\* Two bugs related to Chrome with Wayland on [GNOME 45](https://en.opensuse.org/openSUSE:Known_bugs_15.6#GNOME) may see a fix coming in an update. \*\*\*** 
 
 ### Retrospective
-Provide your feedback to our release team by visiting [survey.opensuse.org/](https://survey.opensuse.org/) and taking our [retrospective survey](https://survey.opensuse.org/).
+Provide your feedback to our release team by visiting [survey.opensuse.org](https://survey.opensuse.org/) and taking our [retrospective survey](https://survey.opensuse.org/).
 
 
 
