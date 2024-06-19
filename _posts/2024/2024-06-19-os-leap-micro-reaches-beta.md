@@ -38,11 +38,11 @@ All pieces related to [Rancher and Elemental](https://elemental.docs.rancher.com
 
 Leap Micro 6.X is deployed via [self-install image](https://www.youtube.com/watch?v=j8kWT7HSjbw) which writes a preconfigured image to the disk and enlarges root partition. Users can use [combustion, ignition](https://documentation.suse.com/sle-micro/6.0/html/Micro-deployment-raw-images/index.html#deployment-preparing-configuration-device) or default to the jeos-firstboot wizard to do the initial setup of the system.
 
-Do not get mistaken by the availability of openSUSE-Leap-Micro-6.0-*.iso is not installable. We refer to the image as a Packages DVD, which is basically an offline repository on a DVD.
+Do not get mistaken by the availability of openSUSE-Leap-Micro-6.0-*.iso is not installable. We refer to the image as a Packages image, which is basically an offline repository on a DVD.
 
 ## New FDE, VMWare, and Cloud images
 
-Aside from the self-install image Micro 6.0 comes with qcow, Full Disk Encryption, and RealTime images. All images can be found at ][download.opensuse.org](https://download.opensuse.org/distribution/leap-micro/6.0/appliances/)
+Aside from the self-install image Micro 6.0 comes with qcow, Full Disk Encryption, and RealTime images. All images can be found at [download.opensuse.org](https://download.opensuse.org/distribution/leap-micro/6.0/appliances/)
 
 For the first time Leap Micro 6.X has also cloud-init therefore shortly after the release we will also have [cloud images](https://build.opensuse.org/project/show/Cloud:Images:LeapMicro_6.0) available on GCP, Azure, and AWS.
 
@@ -68,6 +68,10 @@ Users migrating from 5.5/5.4 releases are advised to install `zypper in openSUSE
 ## Documentation
 
 Please refer to  [SLE Micro 6.0 documentation](https://documentation.suse.com/sle-micro/6.0/) including Release notes.
+
+## Reporting Issues
+
+Please refer to the Leap Micro section in our [Submitting bug reports page](https://en.opensuse.org/openSUSE:Submitting_bug_reports#Regular_release_products).
 
 ## Next steps
 
