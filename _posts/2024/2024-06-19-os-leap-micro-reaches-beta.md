@@ -69,7 +69,7 @@ Users migrating from 5.5/5.4 releases are advised to install `zypper in openSUSE
 
 Please refer to  [SLE Micro 6.0 documentation](https://documentation.suse.com/sle-micro/6.0/) including Release notes.
 
-## Heading for GOLD
+## Next steps
 
 Missing maintenance setup was a long-term blocker for the transition out from Alpha, otherwise, the distribution itself is stable and feature-full. Now that we have it, we need to polish some remaining infrastructure issues and users can expect a release within the next few days. Ideally before [oSC2024](https://events.opensuse.org/conferences/oSC24/) next week.
 
