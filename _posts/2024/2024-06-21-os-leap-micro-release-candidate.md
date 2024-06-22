@@ -23,7 +23,7 @@ tags:
 
 ---
 
-Here's my little gift for the weekend. openSUSE Leap Micro 6.0 RC is now available!
+Here is a little gift for the weekend. openSUSE Leap Micro 6.0 RC is now available!
 Images can be found at [get.opensuse.org](https://get.opensuse.org/leapmicro/6.0/).
 
 The main difference from [Beta](https://news.opensuse.org/2024/06/19/os-leap-micro-reaches-beta/) is a working upgrade path from 5.5 and slightly smoother upgrade support to commercial products. So let's test it out.
