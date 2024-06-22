@@ -35,8 +35,8 @@ Another aspect to consider is that we don't have a developed migration test suit
 
 The easiest way to test the upgrade would be in a VM. Get Leap micro 5.5 images from [get.opensuse.org](https://get.opensuse.org/leapmicro/5.5/) and ensure you have all updates applied via `transactional-update`.
 
-I'd recommend upgrading to 6.0 via SSH or console over the cockpit, as the service might eventually stop responding.
-Upgrade instructions and known issues are captured in [SDB:System_upgrade_to_LeapMicro_6.0](https://en.opensuse.org/SDB:System_upgrade_to_LeapMicro_6.0) wiki page.
+I'd recommend upgrading to 6.0 via SSH or console instead of cockpit, as the service might stop responding.
+Upgrade instructions and known issues are captured in the [SDB:System_upgrade_to_LeapMicro_6.0](https://en.opensuse.org/SDB:System_upgrade_to_LeapMicro_6.0) wiki page.
 
 Make sure to check [known issues](https://en.opensuse.org/SDB:System_upgrade_to_LeapMicro_6.0#Known_issues_with_migration) before proceeding.
 
