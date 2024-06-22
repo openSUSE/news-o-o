@@ -31,7 +31,7 @@ The main difference from [Beta](https://news.opensuse.org/2024/06/19/os-leap-mic
 ## Upgrade instructions
 
 I'd personally recommend a clean install, especially in between major versions on a system that can be redeployed with self-install within 2 minutes. At the same time, the online upgrade takes longer.
-Another aspect to cosnider is that we don't have a developed migration test suite for online migration unlike for Leap 15.X.
+Another aspect to consider is that we don't have a developed migration test suite for online migration, unlike for Leap 15.X.
 
 The easiest way to test the upgrade would be in a VM. Get Leap micro 5.5 images from [get.opensuse.org](https://get.opensuse.org/leapmicro/5.5/) and ensure you have all updates applied via `transactional-update`.
 
