@@ -13,9 +13,8 @@ categories:
 tags:
 - openSUSE
 - Leap Micro
-- SL Micro
+- SLE Micro
 - Community
-- Alpha
 - Open Source
 - Testing
 - Developers
@@ -80,6 +79,4 @@ I highly recommend paying attention to this detail especially if you migrate. Th
 
 Leap Micro 6.0 has no longer a [dedicated SLE update repo](https://github.com/openSUSE/openSUSE-repos/blob/main/opensuse-leap-micro5-repoindex.xml). This has been merged into the [main repository](https://github.com/openSUSE/openSUSE-repos/blob/main/opensuse-leap-micro6-repoindex.xml)
 
-
-
-<meta name="openSUSE, Leap Micro, Open Source, Alpha, Upgrade, EOL" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Leap Micro, Open Source, Upgrade, EOL" content="HTML,CSS,XML,JavaScript">
