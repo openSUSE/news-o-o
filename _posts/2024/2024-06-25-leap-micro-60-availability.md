@@ -77,7 +77,7 @@ For those who'd like to try migration, please follow the [upgrade guide](https:
 
 Users can refer to [SLE Micro 6.0 Release notes](https://www.suse.com/releasenotes/x86_64/SL-Micro/6.0/index.html).
 
-Leap Micro 6.0 uses [openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) for repository management. It is highly recommend to pay attention to this detail especially for those who migrate. Here is an [article explaining how openSUSE repos work](https://news.opensuse.org/2023/07/31/try-out-cdn-with-opensuse-repos/).
+Leap Micro 6.0 uses [openSUSE-repos](https://github.com/openSUSE/openSUSE-repos) for repository management. It is highly recommended to pay attention to this detail, especially for those who migrate. Here is an [article explaining how openSUSE repos work](https://news.opensuse.org/2023/07/31/try-out-cdn-with-opensuse-repos/).
 
 Leap Micro 6.0 has no longer a [dedicated SLE update repo](https://github.com/openSUSE/openSUSE-repos/blob/main/opensuse-leap-micro5-repoindex.xml). This has been merged into the [main repository](https://github.com/openSUSE/openSUSE-repos/blob/main/opensuse-leap-micro6-repoindex.xml).
 
