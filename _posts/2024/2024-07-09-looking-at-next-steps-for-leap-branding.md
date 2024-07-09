@@ -49,7 +49,7 @@ We invite you to submit two photos related to our mascot, the chameleon, or anyt
 We are thrilled to announce a photo competition. Please submit your pictures for a chance to be featured in branding materials. You can submit your photos through our GitHub issue tracker. We will use a thumbs up/down mechanism to select the best entries.
 
 ### Submission Guidelines
-You are welcome to participate on the wallpapers collection set [here under issue 135](https://github.com/openSUSE/branding/issues/135).
+You are welcome to participate on the wallpapers collection set [in our branding repository](https://github.com/openSUSE/branding/issues).
 
 Photos can be submitted [here under issue 18](https://github.com/openSUSE/wallpapers/issues/18).
 
