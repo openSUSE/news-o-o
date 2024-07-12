@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2024-07-12 08:00:00+02:00
 layout: post
-image: /wp-content/uploads/2024/05/aeon.png
+image: /wp-content/uploads/2024/07/fde.png
 license: CC-BY-SA-3.0
 title: Aeon Desktop Introduces Comprehensive Full Disk Encryption
 categories:
