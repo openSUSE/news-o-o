@@ -19,6 +19,7 @@ tags:
 - AlmaLinux
 - Debian
 - Ubuntu
+- Geeko Foundation
 
 ---
 
@@ -44,10 +45,10 @@ The openSUSE.Asia committee is looking for speakers who can bring diverse perspe
 - Non-Technical Topics: Overviews of Open Source technologies, community management, education, and personal experience stories are also welcome.
 - Session Types: You can propose long talks (30 minutes plus Q&A) or short talks (15 minutes plus Q&A). Lighting talk sessions will be announced later.
 
-How to Submit: Proposals should be submitted through events.opensuse.org. Make sure your submission is in English, is between 130 to 250 words, and adheres to the openSUSE Conference Code of Conduct. For guidance on writing a strong proposal, refer to our proposal writing guide.
+How to Submit: Proposals should be submitted through [events.opensuse.org](https://events.opensuse.org/). Make sure your submission is in English, is between 130 to 250 words, and adheres to the openSUSE Conference Code of Conduct. For guidance on writing a strong proposal, refer to our proposal writing guide.
 
 Presentation Requirements: You can present in English or Japanese, but all slides and documents must be in English. Note that pre-recorded videos or video calls are not permitted; you must be present at the venue.
-For more details, visit [events.opensuse.org](https://events.opensuse.org/)
+For more details, visit [events.opensuse.org](https://events.opensuse.org/).
 
 
-<meta name="openSUSE, community, project, conference, open source, aeon, gnome, desktop, distrobox, full disk encryption, secure boot, rc, release candidate, install, guide, firmware" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, community, project, conference, open source, tsp, Geeko, cfp" content="HTML,CSS,XML,JavaScript">
