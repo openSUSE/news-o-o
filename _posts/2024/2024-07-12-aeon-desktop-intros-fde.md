@@ -53,6 +53,7 @@ Contrary to initial concerns, Default Mode is not less secure than Fallback Mode
 Aeon's implementation of Full Disk Encryption provides robust security options tailored to the capabilities of users' hardware. By offering both Default and Fallback modes, Aeon ensures that all users can benefit from enhanced data protection. 
 
 The inclusion of this feature in RC3 marks a significant step forward in safeguarding user data against potential threats.
+
 Aeon users are encouraged to read and bookmark the [Aeon Encryption Guide](https://en.opensuse.org/index.php?title=Portal:Aeon/Encryption).
 
 <meta name="openSUSE, community, project, conference, open source, aeon, gnome, desktop, distrobox, full disk encryption, secure boot, rc, release candidate, install, guide, firmware" content="HTML,CSS,XML,JavaScript">
