@@ -34,7 +34,7 @@ The Travel Support Program is designed to help you join us at the summit. Hereâ€
 
 - TSP Application Open: As soon as possible. Don't wait to apply for travel support. 
 - Call for Speakers Deadline: August 4. If youâ€™re interested in sharing your knowledge and experience, submit your proposal by this date.
-- TSP Application Deadline: August 20.. Ensure your application for travel support is completed and submitted by this date. Visit the [wiki for more information](https://en.opensuse.org/openSUSE:Travel_Support_Program)
+- TSP Application Deadline: August 20. Ensure your application for travel support is completed and submitted by this date. Visit the [wiki for more information](https://en.opensuse.org/openSUSE:Travel_Support_Program)
 - Call for Speakers Notification: Speakers will be notified if their proposal has been accepted toward the end of August.
 - TSP Confirmation: Final confirmation of travel support will follow shortly after the speakers' notifications. Around August 26. 
 
