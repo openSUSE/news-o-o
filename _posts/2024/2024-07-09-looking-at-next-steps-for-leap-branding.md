@@ -43,7 +43,7 @@ We're also seeking designs for a day and night variant featuring a beloved chame
 <center><img src="https://news.opensuse.org/wp-content/uploads/2024/07/theme.png"></center>
 
 #### 4) Photo Submissions of Our Mascot
-We invite you to submit two photos related to our mascot, the chameleon, or anything that resembles to it. The photographer of the photo must also be the submitter. This is a great opportunity to showcasephotography skills and contribute to our branding efforts.
+We invite you to submit two photos related to our mascot, the chameleon, or anything that resembles to it. The photographer of the photo must also be the submitter; the creator of a photograph with a camera. This is a great opportunity to showcase your photography skills and contribute to our branding efforts. **Please note that AI-generated images are not eligible for submission; we want to see your original photographic work.** 
 
 ## Call for Photo Competition!
 We are thrilled to announce a photo competition. Please submit your pictures for a chance to be featured in branding materials. You can submit your photos through our GitHub issue tracker. We will use a thumbs up/down mechanism to select the best entries. 
