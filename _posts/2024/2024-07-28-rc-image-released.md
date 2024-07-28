@@ -66,7 +66,7 @@ If it occurs, RC4 will use tik's new systemd-repart functionality to act as a 'S
 
 Users will see no practical difference between RC3, except for a significantly smaller download size as the Installer will not need a separate embedded Aeon image to deploy.
 
-For that approach to work however we will depend on features we haven't tested yet from Systemd v256. This was only submitted to openSUSE Factory in the last few hours, so it's very cutting edge.
+For that approach to work however, we will depend on features we haven't tested yet from [systemd](https://freedesktop.org/wiki/Software/systemd/) v256. This was only submitted to [openSUSE Factory](https://en.opensuse.org/Portal:Factory) recently, so it's very cutting edge.
 
 If RC4 does not occur, users can expect smaller more efficient images to come sometime after the release.
 
