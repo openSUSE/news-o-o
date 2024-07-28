@@ -1,6 +1,6 @@
 ---
 
-author: Douglas DeMaio
+author: Richard Brown and Douglas DeMaio
 date: 2024-07-28 07:00:00+02:00
 layout: post
 image: /wp-content/uploads/2024/07/rc.png
@@ -46,7 +46,7 @@ Pro tip: it's recommended to use "a large" USB stick for the automatic backup/re
 Users who install RC3 can expect to be automatically upgraded to any future RC versions and the official Aeon Release automatically while RC4 doesn't appear to be nececcary at this point in testing.
 
 ### Behind the Scenes
-RC3 has also brought some nice technical and community improvements preparing for Aeon's official release.
+RC3 has also brought some nice technical and community improvements preparing for Aeon's official release:
 
 - tik (Aeon's installer) now uses systemd-repart instead of dd for deploying images. This is what enabled [Full Disk Encryption](https://en.opensuse.org/index.php?title=Portal:Aeon/Encryption). to be offered as you now see it in RC3
 - Aeon now has an official Brand Guide covering logos, colours, and advice toward how to use these when spreading the word about Aeon.
