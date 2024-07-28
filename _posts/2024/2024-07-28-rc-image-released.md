@@ -1,6 +1,6 @@
 ---
 
-author: Richard Brown and Douglas DeMaio
+author: Richard Brown
 date: 2024-07-28 07:00:00+02:00
 layout: post
 image: /wp-content/uploads/2024/07/rc.png
