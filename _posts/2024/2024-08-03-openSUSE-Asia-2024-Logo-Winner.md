@@ -18,10 +18,8 @@ tags:
 - Community
 - Logo Competition
 - Tokyo
+
 ---
-
-
-![](/wp-content/uploads/2024/08/osas-2024-logo-3.png)
 
 The votes are in, and the openSUSE Asia Summit Organization Committee is pleased to announce the winner of the [openSUSE.Asia Summit 2024](https://events.opensuse.org/conferences/oSAS24/) [logo competition](https://news.opensuse.org/2024/05/22/openSUSE-Asia-2024-CFL//).
 
