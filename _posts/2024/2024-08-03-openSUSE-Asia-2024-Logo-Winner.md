@@ -23,7 +23,7 @@ tags:
 
 The votes are in, and the openSUSE Asia Summit Organization Committee is pleased to announce the winner of the [openSUSE.Asia Summit 2024](https://events.opensuse.org/conferences/oSAS24/) [logo competition](https://news.opensuse.org/2024/05/22/openSUSE-Asia-2024-CFL//).
 
-The openSUSE Asia Summit Organization Committee would like to extend our heartfelt gratitude for your invaluable contribution to the openSUSE.Asia Summit 2024 Logo Competition.
+The openSUSE Asia Summit Organization Committee would like to extend our heartfelt gratitude for invaluable contribution to the openSUSE.Asia Summit 2024 Logo Competition.
 
 Choosing this year's logo was tough because every submitted work was excellent, and the top three received equal votes.
 
