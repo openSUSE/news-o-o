@@ -25,7 +25,7 @@ tags:
 
 ---
 
-In recent testing scenarios involving a default [GNOME](https://www.gnome.org/) setup transitioning from [NetworkManager](https://networkmanager.dev/) to Wicked, a [significant issue](https://bugzilla.opensuse.org/show_bug.cgi?id=1229745) has surfaced: the network stack becomes non-operational.
+In recent testing scenarios involving a build and [NetworkManager](https://networkmanager.dev/), a [significant issue](https://bugzilla.opensuse.org/show_bug.cgi?id=1229745) has surfaced: the network stack becomes non-operational.
 
 Users are advised to postpone system updates for now, but if users have already updated, use Snapper to rollback; it's important to note that while the issue primarily affects GNOME setups with Wicked, it can also impact servers without these components.
 
