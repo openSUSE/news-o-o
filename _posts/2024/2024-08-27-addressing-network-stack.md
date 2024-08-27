@@ -27,7 +27,7 @@ tags:
 
 In recent testing scenarios involving a build and [NetworkManager](https://networkmanager.dev/), a [significant issue](https://bugzilla.opensuse.org/show_bug.cgi?id=1229745) has surfaced: the network stack becomes non-operational.
 
-Users are advised to postpone system updates for now, but if users have already updated, use Snapper to rollback; it's important to note that while the issue primarily affects GNOME setups with Wicked, it can also impact servers without these components.
+Users are advised to postpone system updates for now, but if users have already updated, use [Snapper to rollback](https://youtu.be/AeU_orsOCNI?si=KccmfqlcPl1iBP-q); it's important to note that while the issue primarily affects [GNOME](https://www.gnome.org/) setups with Wicked, it can also impact servers without these components.
 
 This problem has been consistently reproducible since at least the [20240825](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/GUIJNW45DGP25M7RS4EPAKTEP7IXEHWU/) Tumbleweed build. [Bind](https://bind9.readthedocs.io) 9.20.1 received an update has changes to DNS query handling and system controls, which may have inadvertently contributed to the network stack issue.
 
