@@ -24,7 +24,7 @@ tags:
 
 ---
 
-As[Slowroll](https://en.opensuse.org/openSUSE:Slowroll) continues its journey, the latest updates released on [August 30](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/BQE4US3FPGEZKOJNEYBNMB2BW2QJCF2B/) and [Sept. 2](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/SH44ZK6FHLFMELMNV2XI377DAFRPRPNP/) have brought a slew of maintenance packages that enhance systems. These updates are part of Slowroll's ongoing effort to provide users with a balanced rolling release that prioritizes stability while keeping the software stack up-to-date.
+As [Slowroll](https://en.opensuse.org/openSUSE:Slowroll) continues its journey, the latest updates released on [August 30](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/BQE4US3FPGEZKOJNEYBNMB2BW2QJCF2B/) and [Sept. 2](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/SH44ZK6FHLFMELMNV2XI377DAFRPRPNP/) have brought a slew of maintenance packages that enhance systems. These updates are part of Slowroll's ongoing effort to provide users with a balanced rolling release that prioritizes stability while keeping the software stack up-to-date.
 
 [Updates for the quarter](https://news.opensuse.org/2024/07/03/slowroll-set-for-a-quarter-of-updates/) were scheduled for July 9, August 9 and Sept. 9, so the updates are well with the the monthly cadence.
 
