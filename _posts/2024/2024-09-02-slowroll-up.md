@@ -54,7 +54,9 @@ As [Slowroll](https://en.opensuse.org/openSUSE:Slowroll) continues its journey, 
 * Security and Networking: Enhancements to openssl-3 and wireshark strengthen system security and improve network analysis capabilities.
 * Virtualization and Cloud: Updates to Xen and other virtualization tools aid in Slowroll systems to run virtual machines and manage cloud environments.
 
-The development team is expected to release more updates in the future with a similar release cadence.
+
+The development team is expected to release more updates in the future and people can subscribe to the [Factory mailing list](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/) to get more information.
+
 View the latest statistics on the [Slowroll Stats page](http://stage3.opensuse.org:17080/munin/opensuse.org/stage3.opensuse.org/slowrollstats.html).
 
 It's crucial to understand that Slowroll is not intended to replace [Leap](https://get.opensuse.org/tumbleweed/). Instead, it provides an alternative for users who desire more up-to-date software at a slower cadence than [Tumbleweed](https://get.opensuse.org/tumbleweed/) but faster than Leap.
