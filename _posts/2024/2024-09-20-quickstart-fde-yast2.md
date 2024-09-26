@@ -26,8 +26,8 @@ tags:
 - YaST2
 ---
 This is a quick start guide for Full Disk Encryption with TPM or FIDO2 and
-YaST2 on openSUSE MicroOS. It focuses on the few steps to
-install openSUSE MicroOS with YaST2 and using Full Disk Encryption
+YaST2 on openSUSE Tumbleweed. It focuses on the few steps to
+install openSUSE Tumbleweed with YaST2 and using Full Disk Encryption
 secured by a TPM2 chip and [measured boot](https://en.opensuse.org/Portal:MicroOS/RemoteAttestation#Measured_boot)
 or a FIDO2 key.
 
