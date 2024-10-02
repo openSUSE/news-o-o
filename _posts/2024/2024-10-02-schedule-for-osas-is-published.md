@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2024-10-02 15:00:00+02:00
 layout: post
-image: /wp-content/uploads/2021/08/logo.png
+image: /wp-content/uploads/2024/08/logo.png
 license: CC-BY-SA-3.0
 title: Schedule for openSUSE.Asia Summit is Published
 categories:
