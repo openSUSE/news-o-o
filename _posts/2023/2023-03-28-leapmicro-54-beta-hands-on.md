@@ -9,7 +9,7 @@ title: Hands-on, Ad-free browsing at your home with Leap Micro 5.4 Beta
 categories:
 - Announcements
 - openSUSE
-- LeapMicro
+- Leap Micro
 tags:
 - openSUSE
 - SUSE
