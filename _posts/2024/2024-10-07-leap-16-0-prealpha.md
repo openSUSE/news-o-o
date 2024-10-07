@@ -54,9 +54,13 @@ The target audience for pre-Alpha are early adopters and contributors who would 
 For non-contributor users, I highly recommend waiting until we have a Beta, which is expected in the late Spring of 2025.
 
 <h5>How to report bugs?</h5> 
+I'd like to kindly ask you to check our [openSUSE:Known_bugs_16.0 wikipage](https://en.opensuse.org/openSUSE:Known_bugs_16.0) before reporting a new issue.
+If you find a new issue that is likely to affect users, please feel free to add it to the page. 
+
 Specifically for Agama I highly recommend using [github.com/agama-project](https://github.com/agama-project/agama/issues) and collaborating with the YaST team on suggestions and incorporating any changes.
 
 For the rest of the components, the workflow isn't changing; just select version 16.0 for [bug submissions](https://en.opensuse.org/openSUSE:Submitting_bug_reports#Regular_release_products).
+
 
 <h5>Feature requests</h5>
 All changes to packages inherited from SLES 16 need to be requested via a [feature request](https://code.opensuse.org/leap/features).
