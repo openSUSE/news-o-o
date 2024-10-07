@@ -71,6 +71,7 @@ The factory-auto bot will reject all code submit requests against SLES packages 
 You can get a list of all SLFO/SLES packages simply by running `osc ls SUSE:SLFO:1.1:Build`.
 
 Just for clarification SLFO, SUSE Linux Framework One, is the source pool for SLES 16 and SL Micro 6.X.
+SLFO was previously known as Adaptable Linux Platform (ALP).
 
 I highly recommend using code-o-o to co-ordinate larger community efforts such as Xfce enablement, where will likely need to update some of SLES dependencies. 
 This allows us to share the larger story and better reasoning for related SLES update requests. The list of features is also extremely valuable for the Release article.
