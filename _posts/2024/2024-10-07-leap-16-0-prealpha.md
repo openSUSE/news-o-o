@@ -33,7 +33,7 @@ The installer will *currently* offer you Base, GNOME, and KDE.
 Users can get our new Agama install images from [get.opensuse.org/leap/16.0](https://get.opensuse.org/leap/16.0).
 The installer will *currently* offer you Base, GNOME, and KDE installation.
 
-Leap 16.0 is a traditional distribution and a successor to Leap 15.6 with expected General Availability arriving in Fall of 2025.
+Leap 16.0 is a traditional distribution and a successor to Leap 15.6 with expected General Availability arriving in the Fall of 2025.
 
 We intend to provide users with sufficient overlap so that 15.6 users can have a smooth migration, just like they're used to from previous releases.
 
@@ -54,8 +54,8 @@ The target audience for pre-Alpha are early adopters and contributors who would 
 For non-contributor users, I highly recommend waiting until we have a Beta, which is expected in the late Spring of 2025.
 
 <h5>How to report bugs?</h5> 
-I'd like to kindly ask you to check our [openSUSE:Known_bugs_16.0 wikipage](https://en.opensuse.org/openSUSE:Known_bugs_16.0) before reporting a new issue.
-If you find a new issue that is likely to affect users, please feel free to add it to the page. 
+I'd like to kindly ask you to check our [Known bugs wikipage](https://en.opensuse.org/openSUSE:Known_bugs_16.0) before reporting a new issue.
+If you find a new issue that is likely to affect users, please feel free to add it to the page.
 
 Specifically for Agama I highly recommend using [github.com/agama-project](https://github.com/agama-project/agama/issues) and collaborating with the YaST team on suggestions and incorporating any changes.
 
@@ -67,13 +67,13 @@ All changes to packages inherited from SLES 16 need to be requested via a [featu
 
 Feature requests will be reviewed every Monday at a [feature review meeting](calendar.opensuse.org) where we'll convert code-o-o requests into JIRA requests used by SUSE Engineering where applicable.
 
-The factory-auto bot will reject all code submit request against SLES packages with a pointer to code-o-o.
+The factory-auto bot will reject all code submit requests against SLES packages with a pointer to code-o-o.
 You can get a list of all SLFO/SLES packages simply by running `osc ls SUSE:SLFO:1.1:Build`.
 
 Just for clarification SLFO, SUSE Linux Framework One, is the source pool for SLES 16 and SL Micro 6.X.
 
-I higly recommend using code-o-o to co-ordinate larger community efforts such as Xfce enablement, where will likely need to update some of SLES dependencies. 
-This allows us to share larger story and better reasoning for related SLES update requests. The list of features is also extremely valuable for the Release article.
+I highly recommend using code-o-o to co-ordinate larger community efforts such as Xfce enablement, where will likely need to update some of SLES dependencies. 
+This allows us to share the larger story and better reasoning for related SLES update requests. The list of features is also extremely valuable for the Release article.
 
 <h5>Where to submit packages, how is it built, and where is it tested?</h5>
 Leap 16.0 is built in openSUSE:Leap:16.0 project where we will happily welcome any community submissions until the Beta code submission deadline in the late Spring of 2025.
