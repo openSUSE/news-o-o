@@ -98,7 +98,7 @@ These reviews make sense as we'd like to check with maintainers whether that sof
 <h5>Involvement in branding and marketing efforts</h5>
 I'm very proud to announce fresh branding efforts and want to thank all the people who helped give Leap and Tumbleweed a new look. We plan to publish an article or a video about the changes, and further plans as we still have a surprise or two in our pocket.
 
-Do you want to help us on this front? Spread the news and feel free to join the #openSUSE_Marketing Telegram channel(https://t.me/openSUSE_Marketing)! https://en.opensuse.org/openSUSE:Marketing_team
+Do you want to help us on this front? Spread the news and feel free to join the [openSUSE Marketing Team](https://en.opensuse.org/openSUSE:Marketing_team) in our [Telegram channel](https://t.me/openSUSE_Marketing).
 
 Many thanks to all who helped us to reach this point.
 
