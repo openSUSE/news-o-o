@@ -10,6 +10,7 @@ categories:
 - Announcements
 - openSUSE
 - Leap
+- ALP
 tags:
 - openSUSE
 - Leap
@@ -23,6 +24,7 @@ tags:
 - Roadmap
 - SLFO
 - Linux
+- ALP
 ---
 Hello everyone!
 
