@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2024-10-14 15:00:00+02:00
 layout: post
-image: /wp-content/uploads/2024/10/eats.png
+image: /wp-content/uploads/2024/10/east400.png
 license: CC-BY-SA-3.0
 title: Community Plans Tech Summit
 categories:
