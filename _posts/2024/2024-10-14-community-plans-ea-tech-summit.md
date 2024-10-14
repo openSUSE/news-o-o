@@ -32,7 +32,7 @@ The [openSUSE](https://www.opensuse.org/) community is preparing for the [Early 
 
 This event will take place at Loews Sapphire Falls Resort at Universal Orlando Resort and will take place as [SUSECON](https://www.suse.com/susecon/event-details/) concludes.
 
-Partners of SUSE, openSUSE, open-source community projects and community members are all encouraged to register for the summit and submit a talk. There are two types of talks available:
+Partners of SUSE, openSUSE, open-source community projects and community members are all encouraged to register for the summit and [submit a talk](https://events.opensuse.org/). There are two types of talks available:
 
 - **Short Talk**: 15 minutes
 - **Standard Talk**: 30 minutes
@@ -41,6 +41,6 @@ The call for papers is open until January 15, 2025.
 
 We welcome submissions from anyone passionate about open-source software and community development.
 
-The summit's schedule will be published in February 2025.
+The summit's schedule will be published in February 2025. Visit [events.opensuse.org](https://events.opensuse.org/) for more information.
 
 <meta name="openSUSE, community, project, conference, Open Source, summmit, Orlando, Florida , Call for Papers" content="HTML,CSS,XML,JavaScript">
