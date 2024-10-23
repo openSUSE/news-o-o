@@ -9,7 +9,7 @@ title: Workshop Series Continues with New Episodes
 categories:
 - Announcements
 - openSUSE
-- Community
+- Workshop
 tags:
 - openSUSE
 - Contribution

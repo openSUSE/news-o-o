@@ -9,7 +9,7 @@ title: New Episode Launches in Workshop Series
 categories:
 - Announcements
 - openSUSE
-- Community
+- Workshop
 tags:
 - openSUSE
 - Contribution

@@ -9,7 +9,7 @@ title: Contribution Sessions to Begin Tomorrow
 categories:
 - Announcements
 - openSUSE
-- Community
+- Workshop
 tags:
 - openSUSE
 - Contribution
