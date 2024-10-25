@@ -54,6 +54,8 @@ The following episodes were already released:
 * [Episode 8: Testing and Breaking Builds - Offloading Repetitive Tasks to Computers](https://www.youtube.com/live/ZjJvrO0BVlY?si=bhE51JnxS8aXm1qz)
 * [Episode 9: Python packaging workshop for openSUSE](https://www.youtube.com/live/Hznz1lEQZ3c?si=Ksf-u3qiuuizRUaZ)
 
+Note: The live stream was unavailable for openSUSE's [X](https://x.com/opensuse) platform.
+
 <sub><sup>(Image made with DALL-E)</sup></sub>
 
 <meta name="openSUSE, community, project, conference, Open Source, teaching, mentoring, openQA, OBS, Rust, Open Build Service, streaming, youtube" content="HTML,CSS,XML,JavaScript">
