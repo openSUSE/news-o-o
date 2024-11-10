@@ -50,7 +50,7 @@ There is an own [Quickstart for openSUSE MicroOS](https://microos.opensuse.org/b
   * Booting:
     * Change Boot Loader Type from "GRUB2 for EFI" to "Systemd Boot", ignore "Systemd-boot support is work in progress" and continue
   * Software:
-    * Install additional tmp2.0-tools, tpm2-0-tss and libtss2-tcti-device0
+    * Install additional tpm2.0-tools, tpm2-0-tss and libtss2-tcti-device0
 * Finish Installation
 
 ### Finish FDE Setup
