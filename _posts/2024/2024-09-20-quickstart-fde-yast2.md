@@ -60,13 +60,19 @@ Boot new system
 * Login
 * Enroll system:
   * With TPM2 chip: `sdbootutil enroll --method tpm2`
-  * With FIDO2 key: `sdbootutil enroll --method fido2`
+  * With FIDO2 key: `sdbootutil enroll --method fido2` 
+* Make a note of the recovery pin. If you receive a `keyctl_set_timeout permission denied` error with the above commands, 
+  try executing them within a root user shell (e.g. `sudo bash`) versus using `sudo sdbootutil enroll ..`.
 * Optional, but recommended:
   * Upgrade your LUKS key derivation function (do that for every encrypted device listed in `/etc/crypttab`):
   ```
           # cryptsetup luksConvertKey /dev/vdaX --pbkdf argon2id
           # cryptsetup luksConvertKey /dev/vdaY --pbkdf argon2id
   ```
+  If `/etc/crypttab` indicates devices with a `UUID=..` instead of `/dev/..` then use the syntax:
+  ```
+          # cryptsetup luksConvertKey UUID=.. --pbkdf argon2id
+  ``` 
 
 ## Adjusting kernel boot parameters
 
