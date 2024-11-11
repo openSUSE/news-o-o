@@ -23,7 +23,7 @@ The [openSUSE Project](https://www.opensuse.org/) has announced the launch of a 
 
 Dubbed "Contributor in the Spotlight," the project aims to feature a different contributor each month and showcase their work in areas such as coding, art, documentation and more.
 
-“It’s a great opportunity to get involved in the community and help ensure that our contributors receive the recognition they deserve,” wrote Tobias Görgens and Gertjan Lettink in an [email on the project mailing list](add link to email here).
+“It’s a great opportunity to get involved in the community and help ensure that our contributors receive the recognition they deserve,” wrote Tobias Görgens and Gertjan Lettink in an [email on the project mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/2Q4D5ERCHY7MBA6GHZ2K4SC7BFK5FEML/).
 
 The program aims to increase visibility, provide recognition, express gratitude and to inspire others to contribute to open-source.
 
