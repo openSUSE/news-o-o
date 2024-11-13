@@ -22,9 +22,9 @@ tags:
 
 ---
 
-Members of the [openSUSE's](https://www.opensuse.org/)election committee have [provided notice to the project about the start of this year's board election](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/7CCQIFQ3AY2UMCDWM6T3A5UKEXGYBBTV/). This election there are three board seats up for grabs. 
+Members of the [openSUSE's](https://www.opensuse.org/) election committee have [provided notice to the project about the start of this year's board election](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/7CCQIFQ3AY2UMCDWM6T3A5UKEXGYBBTV/). This election there are three board seats up for grabs. 
 
-The election begins its nomination process today and invites all eligible openSUSE members to participate in shaping the community’s future.
+The election begins its nomination process on Nov. 15 and invites all eligible openSUSE members to participate in shaping the community’s future. 
 
 The open seats are currently held by Douglas DeMaio, Neal Gompa, and Patrick Fitzgerald. Board members serve as guides for the community, oversee some key project functions, facilitate community initiatives and handle responsibilities from organizing board meetings to managing openSUSE domains and trademarks. They also play a role in upholding community standards, including overseeing complaint processes and ensuring compliance with openSUSE's [Code of Conduct](https://code.opensuse.org/project/coc/blob/main/f/Code-of-Conduct.md).
 
