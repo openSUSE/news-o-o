@@ -5,7 +5,7 @@ date: 2024-11-12 12:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/11/rsync.png
 license: CC-BY-SA-3.0
-title: Project Welcomes rsync.net as New Gold Sponsor
+title: Project Welcomes rsync.net as Gold Sponsor
 categories:
 - Announcements
 - openSUSE
