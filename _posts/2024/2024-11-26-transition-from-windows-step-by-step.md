@@ -142,7 +142,7 @@ Congratulations on your Upgrade to Freedom!!!
 
 Moving to Linux offers significant environmental benefits, as highlighted by Joanna Murzyn at the 2024 KDE Akademy conference, where she warned about the growing e-waste crisis and emphasized the importance of extending the lifespan of perfectly usable computers in her presentation, [Only Hackers Will Survive](https://www.youtube.com/live/gTxRaBEUe-I?si=CkVy3TAXKZZPNFB9&t=519).
 
-<small>This is part of a series on Upgrade to Freedom where we offer reasons to transition from Windows to Linux.</small>
+<small>This is part of a series on Upgrade to Freedom where we offer reasons to transition from Windows to Linux.Those who would like to order a laptop with Linux, can visit [slimbook.com](https://slimbook.com) or other providers of Linux machines.</small>
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers" content="HTML,CSS,XML,JavaScript">
 
