@@ -5,7 +5,7 @@ date: 2024-11-26 11:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/11/switch.png
 license: CC-BY-SA-3.0
-title: Transition from Windows to Linux: A Step-by-Step Guide
+title: 'Transition from Windows to Linux: A Step-by-Step Guide'
 categories:
 - Announcements
 - openSUSE
