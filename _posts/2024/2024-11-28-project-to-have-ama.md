@@ -5,7 +5,7 @@ date: 2024-11-28 17:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/11/rick.png
 license: CC-BY-SA-3.0
-title: Project to have AMA with SUSE’s GM
+title: 'Project to have AMA with SUSE’s GM'
 categories:
 - Announcements
 - openSUSE
