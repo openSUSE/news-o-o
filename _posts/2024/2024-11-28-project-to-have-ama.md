@@ -45,7 +45,7 @@ Participants can ask questions, share insights and learn about SUSE’s ongoing 
 
 - **Join the Conversation**: [Online](https://meet.google.com/ges-vbdj-pya)
 
-
+Spencer provided the [keynote at this year's openSUSE Conference](https://youtu.be/5McyG2yFepk?si=Bqs-BHHFJV3D9pTa).
 
 <meta name="openSUSE, Open Source, development, community, Linux, Project Upgrade to Freedom campaign" content="HTML,CSS,XML,JavaScript">
 
