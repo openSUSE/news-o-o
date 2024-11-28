@@ -5,11 +5,12 @@ date: 2024-11-28 17:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/11/rick.png
 license: CC-BY-SA-3.0
-title: 'Project to have AMA with SUSE’s GM'
+title: Project to have AMA with SUSE’s GM
 categories:
 - Announcements
 - openSUSE
 - Community
+- Project
 tags:
 - openSUSE
 - Contribution
@@ -20,7 +21,7 @@ tags:
 
 ---
 
-The openSUSE community is [invited to an online engagement](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/5OCTZCVH7QV5T4AZ3L2UHZH5VQHTHWTS/) with [SUSE’s](https://www.suse.com/) General Manager for Business Critical Linux on Dec. 3 at 16:00 UTC.
+The [openSUSE](https://www.opensuse.org/) community is [invited to an online engagement](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/5OCTZCVH7QV5T4AZ3L2UHZH5VQHTHWTS/) with [SUSE’s](https://www.suse.com/) General Manager for Business Critical Linux on Dec. 3 at 16:00 UTC.
 
 Rick Spencer, who leads the SUSE Linux Enterprise and SUSE Multi-Linux Manager teams, works closely with those contributing to openSUSE as part of his day-to-day roles. He is eager to strengthen the ties between SUSE and the openSUSE communities.
 
@@ -46,5 +47,5 @@ Participants can ask questions, share insights and learn about SUSE’s ongoing 
 
 
 
-<meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Open Source, development, community, Linux, Project Upgrade to Freedom campaign" content="HTML,CSS,XML,JavaScript">
 
