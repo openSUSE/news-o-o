@@ -33,7 +33,7 @@ Participants can ask questions, share insights and learn about SUSE’s ongoing 
 
 - **Event**: openSUSE Open Door Session with Rick Spencer
 
-- **Date**: December 3rd, 2024
+- **Date**: Dec. 3, 2024
 
 - **Time**: 17:00–17:45 CET / 11:00–11:45 ET
 
