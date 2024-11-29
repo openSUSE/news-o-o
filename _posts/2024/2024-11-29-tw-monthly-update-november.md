@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2024-11-29 10:00:00+01:00
 layout: post
-image: /wp-content/uploads/2024/11/tw.png
+image: /wp-content/uploads/2024/10/tw.png
 license: CC-BY-SA-3.0
 title: Tumbleweed Monthly Update - November 2024 
 categories:
