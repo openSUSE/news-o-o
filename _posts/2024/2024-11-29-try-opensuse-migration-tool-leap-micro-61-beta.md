@@ -21,13 +21,13 @@ tags:
 - EOL
 
 ---
-Leap Micro 6.1 Beta was released on Wednesday and images can be found at [get.opensuse.org](https://get.opensuse.org/leapmicro/6.0/)
-
+Leap Micro 6.1 Beta was released last Wednesday. Images can be found at [get.opensuse.org](https://get.opensuse.org/leapmicro/6.0/)
 As this is mostly a rebrand of [SUSE Linux Enterprise Micro 6.1](https://www.suse.com/products/micro/), unless some serious issues are found, users can expect a quick transition to RC and GA next week.
 
-We're introducing [a new migration tool](https://github.com/openSUSE/opensuse-migration-tool) with Leap Micro 6.1 which should hopefully ease future upgrades to a new major version.
-
+We're introducing [a new migration tool](https://github.com/openSUSE/opensuse-migration-tool) with Leap Micro 6.1 which should hopefully ease future upgrades to a Leap Micro releases, specifically new major versions.
 Let's have a look at how to deploy it from git on older Leap Micro releases as well as how to install it on Leap Micro 6.1 Beta.
+
+The main benefit for the user is that you don't have to deal manually with [any repository changes](https://en.opensuse.org/SDB:System_upgrade_to_LeapMicro_6.0#2._Fetch_new_repositories_and_new_keys) that might have been introduced in a new releases. This will hopefully lead to smoother and more straightforward upgrades. **As of now the opensuse-migration-tool is still experimental.**
 
 ## Testing the tool with Leap Micro container from your Leap or Tumbleweed
 
