@@ -98,6 +98,7 @@ With software centers and tools like openSUSE’s YaST configuration tool, manag
 Creative professionals can continue producing high-quality work without the need for expensive software subscriptions or hardware upgrades. From GIMP and Inkscape to Blender and Ardour, the open-source Linux ecosystem offers powerful, free alternatives that rival commercial counterparts.
 
 The "Upgrade to Freedom!" campaign is here to help creative people make the switch. By choosing openSUSE, you not only gain access to a suite of professional-grade tools but also extend the life of your hardware and avoid contributing to e-waste.
+
 Now is the perfect time for creative professionals to embrace the freedom of open-source software and continue thriving on Linux.
 
 <small>This is part of a series on Upgrade to Freedom where we offer reasons to transition from Windows to Linux.Those who would like to order a laptop with Linux, can visit [slimbook.com](https://slimbook.com) or other providers of Linux machines.</small>
