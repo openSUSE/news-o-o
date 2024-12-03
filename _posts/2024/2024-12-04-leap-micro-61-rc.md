@@ -21,10 +21,13 @@ tags:
 - EOL
 
 ---
-Leap Micro 6.1 Release Candidate images can be found at [get.opensuse.org](https://get.opensuse.org/leapmicro/6.1/)
+Leap Micro 6.1 Release Candidate images can be already found at [get.opensuse.org](https://get.opensuse.org/leapmicro/6.1/)
 At this point we're only awaiting confirmation of the Leap Micro 6.1 maintenance setup prior making an official release hopefully later this week.
 
-Users upgrading from previous releases can consider [new opensuse-migration-tool](https://news.opensuse.org/2024/11/29/try-opensuse-migration-tool-leap-micro-61-beta/).
+**Please be aware that release of Leap Micro 6.1 means end of life for Leap Micro 5.5.**
+Users are advised to upgrade to either Leap Micro 6.0 or 6.1.
+
+Users upgrading from previous releases can consider our experimental [opensuse-migration-tool](https://news.opensuse.org/2024/11/29/try-opensuse-migration-tool-leap-micro-61-beta/).
 Migration tool it will be part of Leap Micro 6.1+, users from older release can still get the tool from git.
 
 See our [Leap Micro upgrade wiki](https://en.opensuse.org/SDB:System_upgrade_of_LeapMicro) for more information about upgrade options.
