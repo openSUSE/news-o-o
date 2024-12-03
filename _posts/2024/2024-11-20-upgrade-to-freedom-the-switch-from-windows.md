@@ -61,6 +61,8 @@ For users with older laptops and desktops, especially those incompatible with Wi
 
 The Upgrade to Freedom! campaign will begin hosting webinars, releasing video tutorials and live Q&A sessions to help users make the switch to Linux. Whether you're a gamer, a developer, or an everyday user, there are Linux distributions that cater to your needs.
 
+If you decide to make openSUSE your choice as the result of the Freedom Campaign, great! Use the steps below to get started. If you want more exhaustive steps, [click here](https://en.opensuse.org/openSUSE:Tumbleweed_installation#Installation).
+
 ### [How to Download and Install openSUSE](https://en.opensuse.org/SDB:Live_USB_stick):
 
 **Step 1: Download the ISO**
@@ -68,7 +70,7 @@ The Upgrade to Freedom! campaign will begin hosting webinars, releasing video tu
 2. Choose your preferred version of openSUSE (E.g. Leap or Tumbleweed).
 3. Download the ISO file to your computer.
 
-**Create a Bootable USB**
+**Step 2: Create a Bootable USB**
 1. Insert a USB drive (at least 4GB) into your computer.
 2. Use software like **Etcher**, **Rufus** (Windows), or **Impression** (Linux) to write the openSUSE ISO to the USB drive.
 3. Select the downloaded ISO file and start the process to create a bootable USB.
