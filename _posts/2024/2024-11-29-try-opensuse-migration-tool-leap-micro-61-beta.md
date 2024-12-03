@@ -21,7 +21,7 @@ tags:
 - EOL
 
 ---
-Leap Micro 6.1 Beta was released last Wednesday. Images can be found at [get.opensuse.org](https://get.opensuse.org/leapmicro/6.0/)
+Leap Micro 6.1 Beta was released last Wednesday. Images can be found at [get.opensuse.org](https://get.opensuse.org/leapmicro/6.1/)
 As this is mostly a rebrand of [SUSE Linux Enterprise Micro 6.1](https://www.suse.com/products/micro/), unless some serious issues are found, users can expect a quick transition to RC and GA next week.
 
 We're introducing [a new migration tool](https://github.com/openSUSE/opensuse-migration-tool) with Leap Micro 6.1 which should hopefully ease future upgrades to a Leap Micro releases, specifically new major versions.
@@ -49,6 +49,8 @@ $ sudo ./opensuse-migration-tool --pre-release # Chooose Leap Micro 6.1
 $ cat /etc/os-release # should confirm that you've upgraded to 6.1
 ```
 
+**Enjoy your new Leap Micro 6.1 Beta container**
+
 If you trash your container, just type exit `podman stop micro60` or `docker stop micro60` followed by `distrobox rm micro60`.
 And you can start all over again.
 
@@ -68,6 +70,8 @@ $ ./opensuse-migration-tool --pre-release --dry-run
 $ sudo ./opensuse-migration-tool --pre-release  # Choose Leap Micro 6.1 as a target
 $ reboot
 ```
+
+**Enjoy Leap Micro 6.1 Beta* 
 
 Don't worry In case you mess up, we're using [transactional-update shell](https://documentation.suse.com/smart/systems-management/html/Micro-transactional-updates/index.html#transactional-update-shell). **You can always boot the previous snapshot.**
 
