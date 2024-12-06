@@ -5,7 +5,7 @@ date: 2024-12-06 14:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/12/lm.png
 license: CC-BY-SA-3.0
-title: Leap Micro 6.1 fficially Released
+title: Leap Micro 6.1 Officially Released
 categories:
 - Announcements
 - openSUSE
