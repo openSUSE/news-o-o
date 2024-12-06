@@ -22,7 +22,7 @@ tags:
 
 ---
 
-The openSUSE community is excited to announce the official release of [Leap Micro 6.1]((https://get.opensuse.org/leapmicro/6.1/). 
+The openSUSE community is excited to announce the official release of [Leap Micro 6.1](https://get.opensuse.org/leapmicro/6.1/). 
 
 Leap Micro continues its alignment with SUSE Linux Enterprise Micro, ensuring robust container and virtual machine hosting capabilities. The release has a new `opensuse-migration-tool`, whic simplifies upgrades for smoother transitions between releases. Some enhanced features include soft-reboot support. Two-factor authentication (TOTP) for PAM logins improves security. There are additional tools like `vhostmd` for SAP Virtualization and improvements to the `jeos-firstboot` wizard and more.
 
