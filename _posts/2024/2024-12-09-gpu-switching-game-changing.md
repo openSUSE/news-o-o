@@ -48,7 +48,7 @@ This is a game changer because it eliminates the need for additional tools and s
 
 For years, tools such as [`suse-prime`](https://github.com/openSUSE/SUSEPrime) and [`bbswitch`](https://github.com/Bumblebee-Project/bbswitch) have been staples in managing [NVIDIA](https://www.nvidia.com/) Optimus laptops and multi-GPU systems, but advancements in kernel drivers and desktop environments have made these tools unnecessary in most cases. 
 
-Installations of openSUSE now handle these configurations out of the box, whether using the open-source [Nouveau](https://nouveau.freedesktop.org/) driver or [NVIDIA](https://www.nvidia.com/)’s proprietary drivers.
+Installations of openSUSE now handle these configurations out of the box, whether using the open-source [Nouveau](https://nouveau.freedesktop.org/) driver or [NVIDIA’s](https://www.nvidia.com/) proprietary drivers.
 
 In a [recent update on multi-GPU systems](https://negativo17.org/prime-optimus-laptops-and-multi-gpu-systems/), users are encouraged to move away from legacy tools like `suse-prime`, `bbswitch`, and [`bumblebee`](https://github.com/Bumblebee-Project/Bumblebee/wiki/), as they can cause more harm than good on modern systems. 
 
