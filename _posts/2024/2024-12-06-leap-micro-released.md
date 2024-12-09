@@ -32,4 +32,6 @@ The release of Leap Micro 6.1 signals the **End of Life (EOL) for Leap Micro 5.5
 
 For a detailed upgrade guide, visit the [openSUSE Wiki](https://en.opensuse.org) or [SLE Micro 6.1 Release notes](https://www.suse.com/releasenotes/x86_64/SL-Micro/6.1/index.html).
 
+[![Leap Micro 6.1 video](https://img.youtube.com/vi/ANh5FHZDOxo/0.jpg)](https://youtu.be/ANh5FHZDOxo)
+
 <meta name="openSUSE, Leap Micro, Open Source, Upgrade, EOL" content="HTML,CSS,XML,JavaScript">
