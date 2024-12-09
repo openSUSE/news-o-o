@@ -5,7 +5,7 @@ date: 2024-12-09 11:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/12/game.png
 license: CC-BY-SA-3.0
-title: GPU Switching: A Multi-GPU Game Changer 
+title: 'GPU Switching: A Multi-GPU Game Changer'
 categories:
 - Announcements
 - openSUSE
