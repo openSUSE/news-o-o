@@ -39,7 +39,7 @@ tags:
 
 ---
 
-A recent back-and-forth on Windows 11’s hardware requirements and the end-of-life timeline for Windows 10 leaves millions of users frustrated and uncertain about their next steps.
+A recent [back-and-forth on Windows 11’s hardware requirements](https://www.forbes.com/sites/zakdoffman/2024/12/12/microsoft-warns-400-million-windows-users-do-not-update-your-pc/) and the end-of-life timeline for Windows 10 leaves millions of users frustrated and uncertain about their next steps.
 
 With millions of PCs being labeled by [mainstream media as becoming obsolete](https://www.forbes.com/sites/zakdoffman/2024/11/01/warning-for-14-billion-microsoft-windows-10-windows-11-users-get-free-upgrade/) and potential extended security updates costing users even more, the need for a reliable and sustainable alternative has never been greater.
 
