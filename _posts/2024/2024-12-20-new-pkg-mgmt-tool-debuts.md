@@ -3,9 +3,9 @@
 author: Douglas DeMaio
 date: 2024-12-20 18:00:00+01:00
 layout: post
-image: /wp-content/uploads/2024/12/yqpka.png
+image: /wp-content/uploads/2024/12/yqpkg.png
 license: CC-BY-SA-3.0
-title: New Package Management Interface Debuts 
+title: New Package Management Tool Debuts 
 categories:
 - Announcements
 - openSUSE
