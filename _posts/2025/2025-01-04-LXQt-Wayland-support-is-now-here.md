@@ -23,7 +23,7 @@ With the release of [LXQt 2.1](https://lxqt-project.org/release/2024/11/05/relea
 
 This support is to be considered experimental at this point, and for most users, is likely not ready for daily driving.
 
-LXQt, unlike many other desktop enviroments does not provide it's own Window Manager, and under X11 the openSUSE-LXQt team defaults to using [Openbox](https://openbox.org/) for it's Window Manager.  This decision carries over to the new Wayland support, and the initial release of lxqt-wayland-sessions supports the following Wayland Compositors:
+LXQt, unlike many other desktop enviroments does not provide it's own Window Manager, and under X11 the openSUSE-LXQt team defaults to using [Openbox](https://openbox.org/) for it's Window Manager.  This decision carries over from upstream to the new Wayland support, and the initial release of lxqt-wayland-sessions supports the following Wayland Compositors:
 
 - [Hyprland](https://hyprland.org)
 - [Kwin](https://invent.kde.org/plasma/kwin)
