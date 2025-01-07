@@ -97,6 +97,25 @@ img.emoji{
   color: black
 }
 
+/* Dark Theme Styling */
+@media (prefers-color-scheme: dark) {
+  pre {
+      background-color: #1e1e1e; /* Darker gray background */
+      color: #a8d5ba;           /* Soft green text */
+  }
+}
+
+/* Light Theme Styling */
+@media (prefers-color-scheme: light) {
+  pre {
+      background-color: #ffffff; /* White background */
+      color: #444;              /* Darker gray text */
+  }
+}
+
+
+
+
 /* General Styles for Code Blocks */
 pre {
   font-family: monospace; /* Use a consistent font */
@@ -105,21 +124,7 @@ pre {
   overflow: auto;         /* Prevent overlapping or text spilling */
 }
 
-/* Dark Theme Styling */
-@media (prefers-color-scheme: dark) {
-  pre {
-      background-color: #2d2d2d; /* Dark gray background */
-      color:#2E8B57;          /* Light text color */
-  }
-}
 
-/* Light Theme Styling */
-@media (prefers-color-scheme: light) {
-  pre {
-      background-color: #f5f5f5; /* Light gray background */
-      color: #333;               /* Dark text color */
-  }
-}
 
 
 
