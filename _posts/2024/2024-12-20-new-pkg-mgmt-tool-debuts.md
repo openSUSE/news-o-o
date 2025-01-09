@@ -26,6 +26,8 @@ tags:
 
 ---
 
+**The name for this project was updated to [Myrlyn](https://github.com/shundhammer/myrlyn) on Jan. 9, 2025.**
+
 [YQPkg](https://github.com/shundhammer/yqpkg), a promising new package management tool for openSUSE, is preparing to make waves in the Linux community. 
 
 Designed as a standalone GUI, the software package offers a lightweight, intuitive alternative to traditional tools like YaST for users of openSUSE distributions. 
