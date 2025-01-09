@@ -99,7 +99,8 @@ img.emoji{
 
 /* Dark Theme Styling */
 @media (prefers-color-scheme: dark) {
-  pre {
+  pre.highlight {
+      border: 1px solid #373737;
       background-color: #1e1e1e; /* Darker gray background */
       color: #a8d5ba;           /* Soft green text */
   }
@@ -107,8 +108,9 @@ img.emoji{
 
 /* Light Theme Styling */
 @media (prefers-color-scheme: light) {
-  pre {
-      background-color: #ffffff; /* White background */
+  pre.highlight {
+      border: 1px solid #ddd;
+      background-color: #f6f6f6; /* White background */
       color: #444;              /* Darker gray text */
   }
 }
@@ -123,10 +125,6 @@ pre {
   border-radius: 5px;     /* Optional: Rounded corners for aesthetics */
   overflow: auto;         /* Prevent overlapping or text spilling */
 }
-
-
-
-
 
 
 .text-black:hover {
@@ -161,10 +159,8 @@ pre {
 }
 
 pre.highlight {
-  border: 1px solid #ddd;
   padding: 1rem;
   border-radius: 0.25rem;
-  background: #f6f6f6;
 }
 
 /* https://github.com/jwarby/jekyll-pygments-themes UNLICENSE github.css */
