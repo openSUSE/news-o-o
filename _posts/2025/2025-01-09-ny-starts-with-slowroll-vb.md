@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio
-date: 2025-01-09 19:00:00+02:00
+date: 2025-01-09 19:00:00+01:00
 layout: post
 image: /wp-content/uploads/2025/01/sr.png
 license: CC-BY-SA-3.0
