@@ -1,7 +1,7 @@
 ---
 
 author: Shawn W Dunn
-date: 2025-01-06 07:00:00-08:00
+date: 2025-01-13 07:00:00-08:00
 layout: post
 license: CC-BY-NC-CA-4.0
 title: LXQt Wayland support is now here
@@ -46,3 +46,5 @@ The openSUSE-LXQt team is not currently making any recommendations as to a "defa
 - If you prefer Floating/Stacking desktops, Kwin and labwc are your best current choices.
 - If you like tiling desktops, Hyprland, niri, river, Sway, or Wayfire may be to your liking.
 - If you like lots of desktop effects and "bling", Kwin, Hyprland, or Wayfire are probably good places to start.
+
+For more detailed information, please see [openSUSE LXQt Wayland wiki](https://en.opensuse.org/openSUSE:LXQT_Wayland)
