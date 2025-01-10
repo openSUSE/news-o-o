@@ -3,6 +3,7 @@
 author: Shawn W Dunn
 date: 2025-01-13 07:00:00-08:00
 layout: post
+image: /wp-content/uploads/2024/10/tw.png
 license: CC-BY-NC-CA-4.0
 title: LXQt Wayland support is now here
 categories:
@@ -19,11 +20,12 @@ tags:
 - Wayland
 
 ---
-With the release of [LXQt 2.1](https://lxqt-project.org/release/2024/11/05/release-lxqt-2-1-0/) we are pleased to announce the availability of Wayland Compatibility for LXQt, within Tumbleweed.
+
+With the release of [LXQt 2.1](https://lxqt-project.org/release/2024/11/05/release-lxqt-2-1-0/), we are pleased to announce the availability of [Wayland](https://wayland.freedesktop.org/) compatibility for LXQt within [Tumbleweed](https://get.opensuse.org/tumbleweed/).
 
 This support is to be considered experimental at this point, and for most users, is likely not ready for daily driving.
 
-LXQt, unlike many other desktop enviroments does not provide it's own Window Manager, and under X11 the openSUSE-LXQt team defaults to using [Openbox](https://openbox.org/) for it's Window Manager.  This decision carries over from upstream to the new Wayland support, and the initial release of lxqt-wayland-sessions supports the following Wayland Compositors:
+LXQt, unlike many other desktop environments, does not provide its own Window Manager. Under X11, the openSUSE-LXQt team defaults to using [Openbox](https://openbox.org/) as its Window Manager.  This decision carries over from upstream to the new Wayland support; the initial release of lxqt-wayland-sessions supports the following Wayland Compositors:
 
 - [Hyprland](https://hyprland.org)
 - [Kwin](https://invent.kde.org/plasma/kwin)
@@ -33,18 +35,20 @@ LXQt, unlike many other desktop enviroments does not provide it's own Window Man
 - [Sway](https://swaywm.org)
 - [Wayfire](https://wayfire.org)
 
-At present, not all of LXQt's built in Configuration tools will work with all compositors, nor do all compositors support all features of LXQt components.  Most notably:
+At present, not all of LXQt's built-in configuration tools work with all compositors, nor do all compositors support all features of LXQt components.  Most notably:
 
-- lxqt-globalkeys does not work with Wayland, and setting keybinds must be done through each individual compositors configuration files
-- lxqt-panel's desktop switcher, and LXQt Power Manager's settings for controlling displays are only compatible with KWin
-- With the exception of Kwin and labwc, all configuration is done through the editing of the text configuration files for the individual compositors.  Kwin can be configured through GUI tools, if the right parts of KDE System Settings are installed.  labwc does have labwc-tweaks that allows certain things to be configured through a GUI tool, but it is not comprehensive.
+- lxqt-globalkeys does not work with Wayland, and setting keybinds must be done through each individual compositor's configuration files.
+- lxqt-panel's desktop switcher, and LXQt Power Manager's settings for controlling displays are only compatible with [KWin](https://userbase.kde.org/KWin).
+- With the exception of KWin and labwc, configuration is done by editing the text configuration files of individual compositors. KWin can be configured through GUI tools, provided the relevant parts of KDE System Settings are installed. labwc offers labwc-tweaks, which allows certain configurations through a GUI, but it is not comprehensive.
 
-The openSUSE-LXQt team is not currently making any recommendations as to a "default" Wayland compositor for LXQt, as this support is still in active development, but we do make the following suggestions, to help you decide, if you don't know which compositor you would like to try:
+The openSUSE-LXQt team is not currently making any recommendations as to a "default" Wayland compositor for LXQt since this support is still in active development, but we do make the following suggestions to help you decide. If you don't know which compositor you would like to try, take the following considerations:
 
-- Kwin provides the most complete Wayland Session, and with the right parts of Plasma installed, can be configured from the GUI, rather than editing text files.
+- KWin provides the most complete Wayland session and, with the right parts of Plasma installed, can be configured through the GUI rather than by editing text files.
 - labwc is roughly based on the idea of "Openbox for Wayland" and will feel more "at home" for existing LXQt users.
 - If you prefer Floating/Stacking desktops, Kwin and labwc are your best current choices.
 - If you like tiling desktops, Hyprland, niri, river, Sway, or Wayfire may be to your liking.
 - If you like lots of desktop effects and "bling", Kwin, Hyprland, or Wayfire are probably good places to start.
 
-For more detailed information, please see [openSUSE LXQt Wayland wiki](https://en.opensuse.org/openSUSE:LXQT_Wayland)
+For more detailed information, please visit the [openSUSE LXQt Wayland wiki](https://en.opensuse.org/openSUSE:LXQT_Wayland).
+
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, LXQt, Wayland" content="HTML,CSS,XML,JavaScript">
