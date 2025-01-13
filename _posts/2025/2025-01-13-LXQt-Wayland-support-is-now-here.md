@@ -43,10 +43,10 @@ At present, not all of LXQt's built-in configuration tools work with all composi
 
 The openSUSE-LXQt team is not currently making any recommendations as to a "default" Wayland compositor for LXQt since this support is still in active development, but we do make the following suggestions to help you decide. If you don't know which compositor you would like to try, take the following considerations:
 
-- KWin provides the most complete Wayland session and, with the right parts of Plasma installed, can be configured through the GUI rather than by editing text files.
+- KWin provides the most complete Wayland session, workspace support, and with the right parts of Plasma installed, can be configured through the GUI rather than by editing text files.
 - labwc is roughly based on the idea of "Openbox for Wayland" and will feel more "at home" for existing LXQt users.
-- If you prefer Floating/Stacking desktops, Kwin and labwc are your best current choices.
-- If you like tiling desktops, Hyprland, niri, river, Sway, or Wayfire may be to your liking.
+- If you prefer Floating/Stacking desktops, Kwin, labwc, or Wayfire are your best current choices.
+- If you like tiling desktops, Hyprland, niri, river, or Sway may be to your liking.
 - If you like lots of desktop effects and "bling", Kwin, Hyprland, or Wayfire are probably good places to start.
 
 For more detailed information, please visit the [openSUSE LXQt Wayland wiki](https://en.opensuse.org/openSUSE:LXQT_Wayland).
