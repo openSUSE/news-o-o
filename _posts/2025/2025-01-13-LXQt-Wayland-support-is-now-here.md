@@ -1,7 +1,7 @@
 ---
 
 author: Shawn W Dunn
-date: 2025-01-13 07:00:00-08:00
+date: 2025-01-13 01:00:00-08:00
 layout: post
 image: /wp-content/uploads/2024/10/tw.png
 license: CC-BY-NC-CA-4.0
