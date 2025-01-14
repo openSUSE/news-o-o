@@ -50,5 +50,8 @@ This simplicity highlights how OpenVINO allows seamless integration of Generativ
 
 The presence of OpenVINO on openSUSE Linux reinforces the role of open source in leading technological advancements in the AI era. It empowers businesses, independent developers and enthusiasts to build efficient, scalable and impactful applications. With tools like OpenVINO, openSUSE positions itself as a powerful platform for innovation in Generative AI.
 
+
+Feedback and suggestions for the evolution of work can be sent to [Alessandro de Oliveira Faria (A.K.A. CABELO)](mailto:cabelo@opensuse.org) cabelo@pensuse.org
+
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, GPU, VPU, NPU, AI, Machine Learning, OpenVINO, AGI" content="HTML,CSS,XML,JavaScript">
 
