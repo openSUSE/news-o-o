@@ -1,6 +1,7 @@
 ---
+
 author: Alessandro de Oliveira Faria
-date: 2025-05-14 10:00:00-01:00
+date: 2025-01-14 13:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/05/openvino.png
 license: CC-BY-SA-3.0
