@@ -49,6 +49,6 @@ The openSUSE-LXQt team is not currently making any recommendations as to a "defa
 - If you like tiling desktops, Hyprland, niri, river, or Sway may be to your liking.
 - If you like lots of desktop effects and "bling", Kwin, Hyprland, or Wayfire are probably good places to start.
 
-For more detailed information, please visit the [openSUSE LXQt Wayland wiki](https://en.opensuse.org/openSUSE:LXQT_Wayland).
+For more detailed information, please visit the [openSUSE LXQt Wayland wiki](https://en.opensuse.org/openSUSE:LXQt_Wayland).
 
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, LXQt, Wayland" content="HTML,CSS,XML,JavaScript">
