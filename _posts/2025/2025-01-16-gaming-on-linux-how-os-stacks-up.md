@@ -124,8 +124,6 @@ Gaming on Linux, particularly with openSUSE, is no longer a compromise. Whether 
 
 Don’t wait until Windows 10 support ends; make the switch today and keep your gaming journey alive on openSUSE.
 
-<small> Upgrading to Windows 11 may require new hardware, which could add significant costs. Switching to openSUSE not only extends the life of your current hardware but also gives you access to a modern, secure gaming platform.  By adopting openSUSE, you avoid contributing to e-waste caused by discarding perfectly functional machines and take advantage of a free, open-source operating system tailored for performance and reliability. </small>
-
-<small>This is part of a series on [Upgrade to Freedom](https://news.opensuse.org/category/upgrade-to-freedom) where we offer reasons to transition from Windows to Linux.</small>
+<small> Upgrading to Windows 11 may require new hardware, which could add significant costs. Switching to openSUSE not only extends the life of your current hardware but also gives you access to a modern, secure gaming platform.  By adopting openSUSE, you avoid contributing to e-waste caused by discarding perfectly functional machines and take advantage of a free, open-source operating system tailored for performance and reliability. This is part of a series on [Upgrade to Freedom](https://news.opensuse.org/category/upgrade-to-freedom) where we offer reasons to transition from Windows to Linux.</small>
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers" content="HTML,CSS,XML,JavaScript">
