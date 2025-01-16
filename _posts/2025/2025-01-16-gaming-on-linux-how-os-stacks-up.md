@@ -5,7 +5,7 @@ date: 2025-01-16 10:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/12/game.png
 license: CC-BY-SA-3.0
-title: Gaming on Linux: How openSUSE Stacks Up for Gamers
+title: Gaming on Linux, How openSUSE Stacks Up for Gamers
 categories:
 - Announcements
 - openSUSE
