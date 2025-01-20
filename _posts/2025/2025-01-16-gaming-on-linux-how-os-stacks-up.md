@@ -56,15 +56,21 @@ Distributions of openSUSE will breathe new life into your existing hardware, hel
 **Setting Up Gaming on openSUSE**
 
 **Step 1: Install Steam**
+
 Steam is the cornerstone of Linux gaming, providing access to thousands of native and Proton-supported games. Open the software center (Discover for KDE Plasma, GNOME Software for GNOME) or use the terminal.
+
 **Install Steam:**
 `sudo zypper install steam`
+
 **Launch Steam, log in, and enable Steam Play:**
 - Go to Settings > Steam Play.
 - Enable Steam Play for supported titles and Steam Play for all other titles.
 - Select the latest version of Proton.
+
 Steam Play allows you to run many Windows games seamlessly on Linux.
+
 **Step 2: Install Lutris**
+
 Lutris is a game manager that simplifies the installation and configuration of games from sources like GOG, Epic Games, and even emulators.
 Install Lutris via the terminal:
 `sudo zypper install lutris`
@@ -72,30 +78,36 @@ Install Lutris via the terminal:
 Use Lutris’s library to install and manage your games. It provides pre-configured setups for many popular titles, making the process effortless.
 
 **Step 3: Configure Your GPU Drivers**
+
 Proper GPU drivers are essential for gaming performance.
 
 **For NVIDIA GPUs:**
+
 Add the NVIDIA repository:
 `sudo zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NVIDIA`
 
 **Install the NVIDIA drivers:**
+
 `sudo zypper search nvidia` (package)
 `sudo zypper install` (package)
 
 **For AMD GPUs:**
+
 AMD GPUs work out of the box with open-source Mesa drivers. To ensure optimal performance, update your system:
 `sudo zypper dup`
 
 <span style="color: red;">Check out the <a href="https://news.opensuse.org/2024/12/09/gpu-switching-game-changing/">GPU Switching</a> if you use multiple GPUs.</span>
 
 **Step 4: Optimize Your System**
+
 Install MangoHud: Monitor FPS and system performance in games.
 `sudo zypper install mangohud`
+
 Use GameMode: Optimize system resources for gaming performance.
 `sudo zypper install gamemode`
 
 **Popular Games on openSUSE**
-Native Linux Games
+
 Many games have native Linux versions that run flawlessly on openSUSE:
 - **Counter-Strike: Global Offensive**
 - **Dota 2**
@@ -103,7 +115,6 @@ Many games have native Linux versions that run flawlessly on openSUSE:
 - **Hades**
 - **Valheim**
 
-Windows Games with Proton
 Proton, Steam's compatibility layer, allows you to play many Windows games on Linux:
 - **The Witcher 3: Wild Hunt**
 - **Cyberpunk 2077**
@@ -112,13 +123,15 @@ Proton, Steam's compatibility layer, allows you to play many Windows games on Li
 - **No Man’s Sky**
 
 **Retro Gaming**
+
 For retro gaming enthusiasts, tools like RetroArch and Dolphin Emulator enable you to relive classic titles from consoles like the Nintendo 64, GameCube, and PlayStation.
 
 **Resources and Support**
+
 Need help? The Linux gaming community is active and ready to assist. Check out these resources:
-ProtonDB: protondb.com – Find information about how well your favorite games run on Linux.
-Lutris Wiki: lutris.net – Guides and tips for setting up games.
-openSUSE Forums: forums.opensuse.org – Connect with the community for support.
+- [Proton](https://www.protondb.com/) – Find information about how well your favorite games run on Linux.
+- [Lutris](https://lutris.net/) – Guides and tips for setting up games.
+- [openSUSE Forums](https://forums.opensuse.org/) – Connect with the community for support.
 
 Gaming on Linux, particularly with openSUSE, is no longer a compromise. Whether you're playing AAA titles, indie games or retro classics, openSUSE offers the tools and performance you need to enjoy a seamless gaming experience. 
 
