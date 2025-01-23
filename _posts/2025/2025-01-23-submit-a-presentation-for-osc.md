@@ -51,7 +51,7 @@ People have 97 days to submit a talk for the conference and are encouraged to su
 * openSUSE
 * Open Source for Business: Beyond Code into Sustainability Track 
 
-Volunteers who would like to help the with the organization of the conference are encouraged to email <ddemaio@opensuse.org> or attend a [community meetings](https://etherpad.opensuse.org/p/weeklymeeting). 
+Volunteers who would like to help the with the organization of the conference are encouraged to email <ddemaio@opensuse.org> or attend a weekly [community meetings](https://calendar.opensuse.org/). 
 
 Conferences need sponsors to support community driven events to keep events free and open to new contributing members. Companies can find [sponsorship information](https://en.opensuse.org/images/9/94/OSC25prospectus.pdf) or [donate to the Geeko Foundation](https://geekos.org/sponsorship/) to assist with funds that will go toward the conference. 
 
