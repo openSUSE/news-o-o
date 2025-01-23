@@ -1,6 +1,6 @@
 ---
 author: Douglas DeMaio
-date: 2025-11-23 15:00:00+01:00
+date: 2025-01-23 15:00:00+01:00
 layout: post
 image: /wp-content/uploads/2025/01/osc.png
 license: CC-BY-SA-3.0
