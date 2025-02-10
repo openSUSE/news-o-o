@@ -24,7 +24,7 @@ tags:
 
 ---
 
-The promising new package management tool [Myrlyn](https://github.com/shundhammer/myrlyn) now includes a much-requested feature: repository configuration. Users can now easily manage their repos, adjust priorities, enable auto-refresh, and even add well-known community repositories like [pacman](https://software.opensuse.org/package/pacman), [openh264](https://software.opensuse.org/package/openh264), [libdvdcss](https://software.opensuse.org/package/libdvdcss), and [NVIDIA](https://www.nvidia.com); all with Myrlyn’s streamlined UI!
+The promising new package management tool [Myrlyn](https://github.com/shundhammer/myrlyn) now includes a much-requested feature: repository configuration. Users can now easily [manage their repos](https://github.com/shundhammer/myrlyn/issues/69), adjust priorities, enable auto-refresh, and even add well-known community repositories like [pacman](https://software.opensuse.org/package/pacman), [openh264](https://software.opensuse.org/package/openh264), [libdvdcss](https://software.opensuse.org/package/libdvdcss), and [NVIDIA](https://www.nvidia.com); all with Myrlyn’s streamlined UI!
 
 <img src="https://news.opensuse.org/wp-content/uploads/2025/02/myrlyn3.png" alt="Alt text" width="300">
 
