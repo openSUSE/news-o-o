@@ -51,7 +51,7 @@ Currently, Cavil employs a Character-level Convolutional Neural Network (CNN) mo
 
 The dataset is licensed under GPL-2.0-or-later and is freely available on Hugging Face for researchers, developers, and compliance teams to explore and contribute. Open-source contributors can refine AI classification models, propose new legal text patterns, and support the ongoing improvement of automated legal compliance in software projects.
 
-Those interested can explore the dataset on [Hugging Face]((https://huggingface.co/datasets/openSUSE/cavil-legal-text) , read the Cavil documentation, experiment with Llama-3 through the [Llama-Lawyer repository](https://github.com/kraih/llama-lawyer), and contribute to [openSUSE’s compliance efforts through GitHub](https://github.com/openSUSE/cavil/).
+Those interested can explore the dataset on [Hugging Face]((https://huggingface.co/datasets/openSUSE/cavil-legal-text), read the Cavil documentation, experiment with Llama-3 through the [Llama-Lawyer repository](https://github.com/kraih/llama-lawyer), and contribute to [openSUSE’s compliance efforts through GitHub](https://github.com/openSUSE/cavil/).
 
 <meta name="openSUSE, Tumbleweed, Developers, AI, Hugging Face, Legal text, Cavil, software, packages, model, pattern, classifications, CNN, API, lawyer repo, Character-level Convolutional Neural Network" content="HTML,CSS,XML,JavaScript">
 
