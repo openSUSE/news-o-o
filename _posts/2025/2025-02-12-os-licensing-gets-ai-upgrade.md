@@ -53,7 +53,7 @@ The dataset is licensed under GPL-2.0-or-later and is freely available on Huggin
 
 Those interested can explore the dataset on [Hugging Face]((https://huggingface.co/datasets/openSUSE/cavil-legal-text) , read the Cavil documentation, experiment with Llama-3 through the [Llama-Lawyer repository](https://github.com/kraih/llama-lawyer), and contribute to [openSUSE’s compliance efforts through GitHub](https://github.com/openSUSE/cavil/).
 
-<meta name="openSUSE, Tumbleweed, Developers, AI, Hugging Face, Legal text, Cavil, software, packages, model, pattern, classifications, CNN, API, lawyer repo, Character-level Convolutional Neural Network content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Developers, AI, Hugging Face, Legal text, Cavil, software, packages, model, pattern, classifications, CNN, API, lawyer repo, Character-level Convolutional Neural Network" content="HTML,CSS,XML,JavaScript">
 
 
 
