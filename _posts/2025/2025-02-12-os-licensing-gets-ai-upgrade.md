@@ -30,6 +30,7 @@ tags:
 - API
 - lawyer repo
 - Character-level Convolutional Neural Network
+- LLM-Lawyer
 
 ---
 
@@ -46,13 +47,10 @@ With 150,000 labeled samples, the dataset is instrumental in training AI models 
 
 Cavil consists of three key parts: a user-friendly web application with a REST API, a job queue for handling background tasks like pattern matching and analysis, and an AI-powered text classification server that continually improves its ability to recognize legal texts. All these components interact seamlessly through PostgreSQL and HTTP; this allows human experts and lawyers to efficiently validate software licenses at scale.
 
-Currently, Cavil employs a Character-level Convolutional Neural Network (CNN) model in production due to its efficiency and compatibility with existing infrastructure.
+Currently, Cavil employs a Character-level Convolutional Neural Network (CNN) model in production due to its efficiency and compatibility with existing infrastructure. However, an alternative approach using fine-tuned  LLMs is under exploration. The [LLM-lawyer experiment](https://github.com/kraih/llm-lawyer) suggests that large language models could provide more adaptable and context-aware classifications with less frequent retraining.
 
 The dataset is licensed under GPL-2.0-or-later and is freely available on Hugging Face for researchers, developers, and compliance teams to explore and contribute. Open-source contributors can refine AI classification models, propose new legal text patterns, and support the ongoing improvement of automated legal compliance in software projects.
 
-Those interested can explore the dataset on [Hugging Face](https://huggingface.co/datasets/openSUSE/cavil-legal-text), read the Cavil documentation and contribute to [openSUSE’s compliance efforts through GitHub](https://github.com/openSUSE/cavil/).
+Those interested can explore the dataset on [Hugging Face](https://huggingface.co/datasets/openSUSE/cavil-legal-text), read the Cavil documentation, experiment with Llama-3 through the [Llama-Lawyer repository](https://github.com/kraih/llama-lawyer), and contribute to [openSUSE’s compliance efforts through GitHub](https://github.com/openSUSE/cavil/).
 
 <meta name="openSUSE, Tumbleweed, Developers, AI, Hugging Face, Legal text, Cavil, software, packages, model, pattern, classifications, CNN, API, lawyer repo, Character-level Convolutional Neural Network" content="HTML,CSS,XML,JavaScript">
-
-
-
