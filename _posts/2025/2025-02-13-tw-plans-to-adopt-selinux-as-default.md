@@ -31,7 +31,7 @@ tags:
 
 ---
 
-[Tumbleweed](https://get.opensuse.org/tumbleweed/) has adopted [SELinux](https://github.com/SELinuxProject) as the default Linux Security Module (LSM) for new installations in the nearterm. 
+[Tumbleweed](https://get.opensuse.org/tumbleweed/) has adopted [SELinux](https://github.com/SELinuxProject) as the default Linux Security Module (LSM) for new installations after a recent snapshot. 
 
 The transition was [announced on the mailing list](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/YN4TCBCU4A2V5G2MWR5EWYF46267BO7F/) in July and marks a significant development for the rolling release. A [new announcement on the factory mailing list yesterday](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/G3W5NIY3OKRBHPHWTPYEUPSS4LKZN77N/) confirms this to take place with the release of Tumbleweed [snapshot 20250211](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/MW6KJ6BOGCQ3USLKHSNSI3DX6MB4DSSM/). This change also applies to the openSUSE Tumbleweed minimalVM, which will ship with SELinux enabled by default.
 
