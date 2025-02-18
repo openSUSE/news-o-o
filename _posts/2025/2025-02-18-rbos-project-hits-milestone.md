@@ -67,13 +67,13 @@ or
 wget https://rb.zq1.de/RBOS/ring1/_build.standard.x86_64/altimagebuild/altimagebuild-1-1.1.x86_64.rpm
 ```
 
-and run it as documented in https://en.opensuse.org/openSUSE:Reproducible_openSUSE/Part2#How_to_run_a_VM
+and run it as documented in <https://en.opensuse.org/openSUSE:Reproducible_openSUSE/Part2#How_to_run_a_VM>
 
 
 **Where does reproducible builds not help?**
 
 * bugs + backdoors in the source (e.g. xz-5.6.0) need source-code reviews
-* backdoors in used build tools can be found with diverse-double-compilation = https://dwheeler.com/trusting-trust/ or be avoided with bootstrapping = https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/ . Both of these methods only help if you have reproducible builds.
+* backdoors in used build tools can be found with diverse-double-compilation = <https://dwheeler.com/trusting-trust/> or be avoided with bootstrapping = <https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/>. Both of these methods only help if you have reproducible builds.
 
 The milestone RBOS reached is an ongoing effort to provide more transparent, verifiable and secure software.
 
