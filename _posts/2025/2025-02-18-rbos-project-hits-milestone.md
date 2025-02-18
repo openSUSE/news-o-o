@@ -41,9 +41,9 @@ In practice, reproducible-builds have found dozens of bug from [race-conditions]
 
 The nice people at the [nlnet foundation's NGI0 Entrust fund](https://nlnet.nl/project/Reproducible-openSUSE/) sponsor open-source initiatives that improve the security of the internet. Wiedemann took on this 4-month-long project to create a fork of openSUSE that has 100% bit-reproducible packages. So far ring0 (aka bootstrap) and ring1 with 3,300 software packages have all successfully been patched and tested. Overall, the 16,000 source packages in [openSUSE Factory](https://en.opensuse.org/Portal:Factory) have around 300 packages with issues left and information about this can be found in the following links:
 
-  - https://en.opensuse.org/openSUSE:Reproducible_openSUSE
-  - https://en.opensuse.org/openSUSE:Reproducible_openSUSE/Part1
-  - https://en.opensuse.org/openSUSE:Reproducible_openSUSE/Part2
+  - <https://en.opensuse.org/openSUSE:Reproducible_openSUSE>
+  - <https://en.opensuse.org/openSUSE:Reproducible_openSUSE/Part1>
+  - <https://en.opensuse.org/openSUSE:Reproducible_openSUSE/Part2>
 
 Approximately 40 patches were needed and some more were completed before this project. Usually half of these patches are upstreamed.
 
