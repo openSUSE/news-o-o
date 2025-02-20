@@ -47,7 +47,10 @@ Users transitioning from [Windows to Linux](https://news.opensuse.org/2024/11/26
 
 Full disk encryption during installation ensures maximum security. It safeguards all data on your hard drive by encrypting it and makes it unreadable without an decryption key. This level of protection is vital for preventing unauthorized access if your laptop or desktop is lost or stolen.
 
-FDE with openSUSE is both user-friendly and powerful. The setup with advanced security features is easy.
+FDE with openSUSE is both user-friendly and powerful. The setup with advanced security features is easy. 
+
+For users seeking feature parity with Windows BitLocker, openSUSE offers Full Disk Encryption (FDE) secured by a TPM2 chip or a FIDO2 key. This advanced setup enhances security by storing encryption keys within the TPM, which ensures that only a trusted system configuration can unlock the disk. For a step-by-step guide on enabling this feature, read the [Quickstart in Full Disk Encryption with TPM and YaST2](https://news.opensuse.org/2024/09/20/quickstart-fde-yast2/) article.
+
 Here’s a step-by-step guide to set up FDE on your system:
 
 **Step 1: Download and Boot openSUSE**
