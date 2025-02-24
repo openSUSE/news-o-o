@@ -63,7 +63,7 @@ Here’s a step-by-step guide to set up FDE on your system:
 
   - Once the installer starts, select your preferred language and keyboard layout.
   - In the partitioning setup, choose Guided Setup with Encrypted LVM.
-  - Set a strong passphrase for encryption. This passphrase will be required every time the system boots.   - Use a mix of upper and lower case letters, numbers and special characters for optimal security.
+  - Set a strong passphrase for encryption. This passphrase will be required every time the system boots. Use a mix of upper and lower case letters, numbers and special characters for optimal security.
   - Proceed with the installation as directed by the installer.
  
 **Step 3: Verify Encryption Settings**
@@ -90,7 +90,7 @@ sdb
 While FDE protects your data, it does not prevent data loss from hardware failure or accidental deletion. Regularly back up your data to an encrypted external drive or a secure cloud service to ensure its safety.
 
 **Post-Installation Encryption**
-If you want to encrypt an existing partition after installation, visit the [openSUSE wiki page about encryption](https://en.opensuse.org/SDB:Encrypted_filesystems#Manually_creating_new_LUKS_volume)
+If you want to encrypt an existing partition after installation, visit the [openSUSE wiki page about encryption](https://en.opensuse.org/SDB:Encrypted_filesystems#Manually_creating_new_LUKS_volume).
 
 **Enhanced Security for Modern Challenges**
 
@@ -98,7 +98,7 @@ Setting up full disk encryption on openSUSE not only protects your data but also
 
 For additional guidance and community support, visit the [openSUSE forums](https://forums.opensuse.org/) or join discussions at your local Linux user group.
 
-<small> Please be aware that some hardward configurations may require additional drivers or BIOS settings adjustments for full disk encryption to fully function properly. Check your device’s compatibility and update your firmware before proceeding. </small>
+<small> Please be aware that some hardware configurations may require additional drivers or BIOS settings adjustments for full disk encryption to fully function properly. Check your device’s compatibility and update your firmware before proceeding. </small>
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers" content="HTML,CSS,XML,JavaScript">
 
