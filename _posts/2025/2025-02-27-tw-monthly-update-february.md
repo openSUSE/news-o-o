@@ -24,6 +24,23 @@ tags:
 - GNOME
 - gimp
 - openssl
+- Kdenlive
+- mozjs
+- gdb
+- fwupd
+- ruby
+- wireplumber
+- selinux–policy
+- sdbootutil
+- gstreamer
+- kdump
+- qemu
+- openssl
+- postgresql
+- ffmpeg
+- grub
+- gnutls
+- gcc
 
 ---
 
@@ -187,7 +204,7 @@ Your contributions and feedback make openSUSE Tumbleweed better with every updat
 
 
 
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, Linux, kernel, postgresql, KDE, php, kernel-source, curl, gtk, KDE Plasma, KDE Gear, Qt, KDE Frameworks, Breeze, Dolphin, Kdenlive, mozjs, gimp, gdb, fwupd, ruby, wireplumber,selinux–policy, sdbootutil, gstreamer, kdump, qemu, openssl, postgresql, ffmpeg, grub, gnutls, gcc" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, Linux, kernel, postgresql, KDE, php, kernel-source, curl, gtk, KDE Plasma, KDE Gear, Qt, KDE Frameworks, Breeze, Dolphin, Kdenlive, mozjs, gimp, gdb, fwupd, ruby, wireplumber, selinux–policy, sdbootutil, gstreamer, kdump, qemu, openssl, postgresql, ffmpeg, grub, gnutls, gcc" content="HTML,CSS,XML,JavaScript">
 
 
 
