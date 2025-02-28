@@ -45,7 +45,7 @@ With Linux distributions like openSUSE, there are no activation codes, no shady 
 
 **The Financial Benefits of Moving to Linux**
 
-Millions of computer users face a financial decision as they prepare for the end support for Windows 10 in October 2025; upgrade their operating systems at a cost depending on the users location, purchase new hardware with an OS installed or explore alternatives. Or, as [Copilot seems to suggest]((https://www.yahoo.com/tech/microsoft-copilot-actively-helping-users-123658903.html) ), they could just ask an AI how to pirate Windows; because nothing says “secure computing” like taking legal advice from a chatbot.
+Millions of computer users face a financial decision as they prepare for the end support for Windows 10 in October 2025; upgrade their operating systems at a cost depending on the users location, purchase new hardware with an OS installed or explore alternatives. Or, as [Copilot seems to suggest](https://www.yahoo.com/tech/microsoft-copilot-actively-helping-users-123658903.html), they could just ask an AI how to pirate Windows; because nothing says “secure computing” like taking legal advice from a chatbot.
 
 For those feeling the pinch of rising costs due to stagflation, Linux distributions, particularly [openSUSE’s Leap and Tumbleweed](https://get.opensuse.org/), offer a compelling, cost-effective alternative.
 
