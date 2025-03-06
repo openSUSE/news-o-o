@@ -78,7 +78,7 @@ By switching to Linux, users may extend the life of their existing hardware and 
 The financial benefits of Linux extends well beyond the operating system itself. The distributions provide access to a vast library of free, open-source applications that can replace costly proprietary software.
   - Office Suites: LibreOffice is a powerful alternative to [office suites that charge](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products) a premium.
   - Creative Tools: [GIMP](https://www.gimp.org/) and [Inkscape](https://inkscape.org/) provide robust alternatives to graphic design and image editing software, which can cost upwards of $600 per year for subscriptions.
-  - Development Tools: Developers can access free Integrated Development Environments like [Visual Studio Code](https://flathub.org/apps/com.visualstudio.code), [JetBrains](https://www.jetbrains.com/)’ IntelliJ IDEA Community Edition and [Eclipse](https://flathub.org/apps/org.eclipse.Java).
+  - Development Tools: Developers can access free Integrated Development Environments like [Visual Studio Code](https://en.opensuse.org/Visual_Studio_Code), [JetBrains](https://www.jetbrains.com/)’ IntelliJ IDEA Community Edition and [Eclipse](https://en.opensuse.org/Eclipse).
 
 For users who require specific Windows applications, tools like [Wine](https://www.winehq.org/), [Bottles](https://flathub.org/apps/com.usebottles.bottles) and [Proton](https://github.com/ValveSoftware/Proton) can help run those programs on Linux, which eliminates the need for additional software purchases.
 Linux systems are renowned for stability and security along with the reduction of time and money spent on IT support and maintenance. 
