@@ -36,6 +36,6 @@ A couple members from the community reached out to [Tori Easterly](https://www.s
 
 Enterprise-level training allows people to learn at their own pace and convenience. The courses cover Linux fundamentals, automation and cutting-edge technologies like Kubernetes and container management. The eLearning provides unlimited access to all SUSE IT courses, spanning Linux, Systems Management, Security, Edge Computing and more. As IT evolves rapidly, the curriculum is frequently updated to reflect the latest advancements in SUSE technologies. 
 
-openSUSE Project members can get 20 percent off [SUSE eLearning](https://www.suse.com/shop/elearning/) courses using the Coupon Code TRAIN2025 upon checkout.
+openSUSE Project members can get 20 percent off [SUSE eLearning](https://www.suse.com/shop/elearning/) courses using the Coupon Code **TRAIN2025** upon checkout.
 
 <meta name="openSUSE, Open Source, development, Linux, SUSE, sponsorship, training, IT courses, edge, sysadmin, kubernetes" content="HTML,CSS,XML,JavaScript">
