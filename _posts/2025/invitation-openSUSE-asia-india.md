@@ -30,7 +30,7 @@ Additionally, consider attending:
 
 Both events are hosted by **The Linux Foundation** and will take place nearby before our summit.  
 
-![](assets/images/2025-03-21/mr.png)
+![](/assets/images/2025-03-21/mr.png)
 ## 📍 Venue: MRIIRS, Faridabad, India  
 We are proud to host the **openSUSE.Asia Summit 2025** at:  
 **Manav Rachna International Institute of Research and Studies (MRIIRS)**, located in **Faridabad, Haryana, India**.  
@@ -45,8 +45,8 @@ We are proud to host the **openSUSE.Asia Summit 2025** at:
 - **Accommodation options** near the venue
 
 <p align="center">
-  <img src="assets/images/2025-03-21/stage (1).png" alt="Image 1" width="300" height="200">
-  <img src="assets/images/2025-03-21/audi.png" alt="Image 2" width="300" height="200">
+  <img src="/assets/images/2025-03-21/stage (1).png" alt="Image 1" width="300" height="200">
+  <img src="/assets/images/2025-03-21/audi.png" alt="Image 2" width="300" height="200">
 </p>
 
 
@@ -72,7 +72,7 @@ While you're attending the **openSUSE.Asia Summit 2025**, take some time to expl
 - **India Gate**
 
   <p align="center">
-  <img src="assets/images/2025-03-21/delhi.png" alt="Centered Image" width="600">
+  <img src="/assets/images/2025-03-21/delhi.png" alt="Centered Image" width="600">
 </p>
 
 #### 🍽️ **Indian Cuisine:**  
