@@ -2,7 +2,7 @@
 # Invitation to openSUSE.Asia Summit 2025 – Faridabad, India  
 ### 29th – 31st August 2025 | openSUSE Asia Summit India Team | CC-BY-SA-3.0  
 
-## What is openSUSE.Asia Summit?  
+## About openSUSE.Asia Summit 
 We are excited to announce that the **openSUSE.Asia Summit 2025** will be held in **Faridabad, India**.  
 This annual event brings together passionate users, developers, and contributors from across the open-source community, particularly **openSUSE** and **FLOSS enthusiasts**.  
 
