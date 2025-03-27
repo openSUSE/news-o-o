@@ -99,7 +99,7 @@ Users who'd like to provide feedback can respond to [the mailing list](https://l
 
 The more feedback the sooner the feature can be made official.
 
-###Tutorial
+### Tutorial
 
 See our tutorial on the [openSUSE YouTube](https://www.youtube.com/watch?v=o9vRsL_njSU) channel showing its use.
 
