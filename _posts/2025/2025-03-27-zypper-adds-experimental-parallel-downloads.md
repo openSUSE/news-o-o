@@ -101,6 +101,6 @@ The more feedback the sooner the feature can be made official.
 
 ### Tutorial
 
-See our tutorial on the [openSUSE YouTube](https://www.youtube.com/watch?v=o9vRsL_njSU) channel showing its use.
+Watch our tutorial on the [openSUSE YouTube](https://www.youtube.com/watch?v=o9vRsL_njSU) channel showing its use and setup.
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers, EU, Euro" content="HTML,CSS,XML,JavaScript">
