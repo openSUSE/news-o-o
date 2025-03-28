@@ -56,7 +56,7 @@ The project echoes earlier initiatives like [LiMux](https://en.wikipedia.org/wik
 
 However, there is a case for broader Inclusion.
 
-While EU OS is commendable in both scope and detail, a broader and more diversified base of Linux distributions should be integrated into the strategy.
+While EU OS is commendable in both scope and detail, a broader and more diversified base of Linux distributions should be integrated into the strategy without labeling.
 
 The current [Fedora+KDE](https://fedoraproject.org/) direction is mature, but relying on one distro and one desktop environment introduces avoidable risks. Instead, the EU would be wise to embrace alternatives like [Aeon](https://aeondesktop.org) with [GNOME](https://www.gnome.org/), alongside another immutable Plasma-based choice of [Kalpa](https://kalpadesktop.org/).
 
