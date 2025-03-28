@@ -45,26 +45,21 @@ While headlines paint a world splintering along geopolitical lines, the open-sou
 
 A recent example of this is an [EU OS](https://eu-os.gitlab.io/) initiative—a European blueprint for a locked-down, [KDE Plasma](https://kde.org/plasma-desktop/)-based Linux distribution aimed at public-sector use. 
 
-Though technically not a new operating system, EU OS serves as a proof-of-concept for deploying a Linux system. The project's core value proposition centers on:
-- A common Linux OS foundation shared across all deployments.
- - Layered modifications for national, regional, sector-specific, or organizational needs.
- - A standardized desktop environment (initially KDE Plasma).
- - A unified method for managing users, software, and devices.
- - A transparent hierarchy of responsibility for configuration and support.
+Though technically not a new operating system, EU OS serves as a proof-of-concept for deploying a Linux system.
 
-The project echoes earlier initiatives like [LiMux](https://en.wikipedia.org/wiki/LiMux) in Germany and [GendBuntu](https://en.wikipedia.org/wiki/GendBuntu) in France, and aligns closely with the philosophy of "public money, public code." 
+The project put together info on government deployments like [LiMux](https://en.wikipedia.org/wiki/LiMux) in Germany and [GendBuntu](https://en.wikipedia.org/wiki/GendBuntu) in France, and endorses the [public money, public code](https://publiccode.eu/en/) philosophy.
 
-However, there is a case for broader Inclusion.
+However, there is a case for broader OS inclusion without piggybacking a popular EU sovereignty narrative.
 
-While EU OS is commendable in both scope and detail, a broader and more diversified base of Linux distributions should be integrated into the strategy without labeling.
+While this naming is trying to address a narrative, a multiple Linux distributions should be integrated into any government's strategy.
 
-The current [Fedora+KDE](https://fedoraproject.org/) direction is mature, but relying on one distro and one desktop environment introduces avoidable risks. Instead, the EU would be wise to embrace alternatives like [Aeon](https://aeondesktop.org) with [GNOME](https://www.gnome.org/), alongside another immutable Plasma-based choice of [Kalpa](https://kalpadesktop.org/).
+The current [Fedora+KDE](https://fedoraproject.org/) direction is mature, but relying on one distro and one desktop environment introduces avoidable risks. Instead, it would be wise for all governmnets to embrace alternatives like [Aeon](https://aeondesktop.org) with [GNOME](https://www.gnome.org/), alongside another immutable Plasma-based choice of [Kalpa](https://kalpadesktop.org/).
 
 Why? Security. Different distributions and desktops reduce the risk of a single point of failure. If vulnerabilities emerge, they won’t simultaneously impact every system.
 
 Another reason is tailored user experience. GNOME offers a simple interface for general office users, while KDE’s power-user features may be more appropriate for technical users.
 
-As immutable OSes with transactional updates, Aeon and Kalpa share the same robust core stemming from Tumbleweed updates, which offer rollback, system integrity and layered deployments with seamless updates. Both Aeon and Kalpa were designed from the ground up for modern, containerized and cloud-hybrid environments. This aligns well with the EU OS vision of layered, reproducible and adaptable deployments.
+As immutable OSes with transactional updates, Aeon and Kalpa share the same robust core stemming from Tumbleweed updates, which offer rollback, system integrity and layered deployments with seamless updates. Both Aeon and Kalpa were designed from the ground up for modern, containerized and cloud-hybrid environments.
 
 The broader idea needing discussion for governments goes beyond what a distro standard is. In an age of ransomware, cloud lock-in, and surveillance capitalism, it’s time to move beyond traditional desktop OS thinking.
 
@@ -75,8 +70,6 @@ The open-source world already has the tools to move forward with a new way of th
  - Open identity and authentication standards ([LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol), [OpenID](https://en.wikipedia.org/wiki/OpenID))
  - Transparent package formats ([Flatpak](https://flatpak.org/), RPM)
 	
-
-What’s missing is cohesion, support and leadership to bring these pieces together into a truly sovereign operating system platform; one that empowers local governments while cooperating globally.
 
 Let’s not get lost in the flags, logos or headlines. While politics shift and trade alliances fray, the open-source movement remains one of the most stable, borderless, and collaborative human endeavors on the planet.
 
