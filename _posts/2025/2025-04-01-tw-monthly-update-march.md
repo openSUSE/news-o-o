@@ -179,7 +179,8 @@ For those Tumbleweed users who want to contribute or want to engage with detaile
 Your contributions and feedback make openSUSE Tumbleweed better with every update. Whether reporting bugs, suggesting features, or participating in community discussions, your involvement is highly valued.
 
 
-<meta name="openSUSE, Tumbleweed, Linux, rolling release, GNOME, KDE Plasma, KDE Gear, Mesa, ray tracing, Intel Arc, Emacs, PipeWire, libvirt, GStreamer, PHP, kernel, selinux-policy, systemd, zypper, libzypp, parallel downloads, media backend, GTK, Kdenlive, Dolphin, Qt6, Wayland, NVMe CLI, Evolution, Git, PipeWire, gaming, sysadmin, developers, open source, security updates, CVE, firewall, KDE Frameworks, Breeze, snapper, sdbootutil, libarchive, libxslt, webkit2gtk, audio, HDR, gstreamer, cloud-hypervisor, virtualization, rpm, CI/CD, Distrobox, openSUSE Aeon, openSUSE Kalpa, Slowroll, Leap, kernel-source, firmware, zypper dup, dell, lenovo" content="HTML,CSS,XML,JavaScript">
+<meta name="keywords" content="openSUSE, Tumbleweed, Linux, rolling release, GNOME, KDE Plasma, KDE Gear, Mesa, ray tracing, Intel Arc, Emacs, PipeWire, libvirt, GStreamer, PHP, kernel, selinux-policy, systemd, zypper, libzypp, parallel downloads, media backend, GTK, Kdenlive, Dolphin, Qt6, Wayland, NVMe CLI, Evolution, Git, gaming, sysadmin, developers, open source, security updates, CVE, firewall, KDE Frameworks, Breeze, snapper, sdbootutil, libarchive, libxslt, webkit2gtk, audio, HDR, gstreamer, cloud-hypervisor, virtualization, rpm, CI/CD, Distrobox, openSUSE Aeon, openSUSE Kalpa, Slowroll, Leap, kernel-source, firmware, zypper dup, dell, lenovo">
+
 
 
 
