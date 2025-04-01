@@ -1,7 +1,7 @@
 ---
 
 author: Lubos Kocman
-date: 2025-04-01 12:00:00+01:00
+date: 2025-04-01 15:00:00+01:00
 layout: post
 image: /wp-content/uploads/2025/04/upgrade-finished.png
 license: CC-BY-SA-3.0
@@ -39,11 +39,11 @@ After the migration is done and the system is rebooted users can enjoy the user-
 <img src="/wp-content/uploads/2025/04/migrated.png" alt="Alt text" width="400">
 
 I hope you've enjoyed reading our 1st of April article that is not really that far from reality, which is just not as seamless as the article presents it 😉.
-<br><br>
+
 Get your new favorite Linux distribution at [get.opensuse.org](https://get.opensuse.org) before [Windows 10 End of Life](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro) and stay supported.
-<br><br>
+
 A friendly community awaits you at [forums.opensuse.org](https://forums.opensuse.org).
-<meta name="keywords" content="openSUSE, April fools day" >
+
 
 
 
