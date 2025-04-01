@@ -13,7 +13,6 @@ categories:
 tags:
 - openSUSE
 - Contribution
-- openSUSE
 - Tumbleweed
 - rolling release
 - GNOME
@@ -59,7 +58,7 @@ tags:
 
 This month brought the debut of [GNOME 48](https://release.gnome.org/48/), delivering modern User Interface polish, performance improvements and new features like digital wellbeing tools and HDR support. On the [KDE](https://kde.org/) side, [Plasma 6.3.3](https://kde.org/announcements/plasma/6/6.3.3/) refined fractional scaling, display handling and usability. [Mesa 25.0.1](https://www.mesa3d.org/) introduced **ray tracing support for Intel Arc GPUs** and [Emacs 30.1](https://www.gnu.org/software/emacs/) enhanced org-protocol handling, security, and completion features. Other packages updated were [PipeWire 1.4.1](https://pipewire.org/), [libvirt 11.1.0](https://libvirt.org), [GStreamer 1.26.0](https://gstreamer.freedesktop.org/), [PHP 8.3.19](https://www.php.net/) and more. Tumbleweed now includes [experimental support for parallel package downloads](https://news.opensuse.org/2025/03/27/zypper-adds-experimental-parallel-downloads/) and a new media backend that was introduced with [zypper](https://github.com/openSUSE/zypper) 1.14.87 and [libzypp](https://github.com/openSUSE/libzypp) 17.36.4; this offers a major speed boost for package management as it cuts package fetch times by more than half.
 
-With these updates, rolling release users can enjoy an updated Linux experience that is well tested with continual integration of upstream innovations.  
+With these updates, rolling release users can enjoy an updated Linux experience that is well tested with continual integration of upstream innovations. 
 
 As always, be sure to roll back using [snapper](https://github.com/openSUSE/snapper) if any issues arise.
 
@@ -68,7 +67,7 @@ Happy updating and tumble on!
 For more details on the change logs for the month, visit the [openSUSE Factory mailing list](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/).
 
 ### New Features and Enhancements
-[GNOME 48](https://release.gnome.org/48/): This release brings notification stacking to reduce clutter, and delivers major performance gains, including dynamic triple buffering and faster file browsing in Files. The new image viewer adds editing tools like crop and rotate, while support for RAW formats expands functionality. The release debuts new fonts — Adwaita Sans and Mono — enhancing legibility and language support. Digital Wellbeing tools now track screen time, enforce usage limits, and provide break reminders. Battery lifespan is protected with a new 80 percent charging cap option for supported hardware. A minimalist Audio Player app joins the core apps, focusing on simple playback with waveform views. HDR support makes its system-level debut, and Text Editor receives a cleaner interface with better formatting controls. Additional features include global shortcuts for apps, improved window placement, and expanded keyboard shortcut support. Updates to Contacts, Settings, Calendar, Maps, Web, and Orca improve accessibility, UX, and performance across the desktop.
+**[GNOME 48](https://release.gnome.org/48/)**: This release brings notification stacking to reduce clutter, and delivers major performance gains, including dynamic triple buffering and faster file browsing in Files. The new image viewer adds editing tools like crop and rotate, while support for RAW formats expands functionality. The release debuts new fonts — Adwaita Sans and Mono — enhancing legibility and language support. Digital Wellbeing tools now track screen time, enforce usage limits, and provide break reminders. Battery lifespan is protected with a new 80 percent charging cap option for supported hardware. A minimalist Audio Player app joins the core apps, focusing on simple playback with waveform views. HDR support makes its system-level debut, and Text Editor receives a cleaner interface with better formatting controls. Additional features include global shortcuts for apps, improved window placement, and expanded keyboard shortcut support. Updates to Contacts, Settings, Calendar, Maps, Web, and Orca improve accessibility, UX, and performance across the desktop.
 
 **[harfbuzz](https://github.com/harfbuzz/harfbuzz) 11**: This new major version introduces new font-function integrations for CoreText, DirectWrite, and the Rust-based Skrifa library, accessible via the new `hb_font_set_funcs_using()` [Application Programming Interfaces](https://en.wikipedia.org/wiki/API). Additional APIs allow loading font-faces directly from files or blobs for FreeType, CoreText, and DirectWrite backends. The DirectWrite shaper now fully supports font variations and user features, and its API is no longer marked experimental. 
 
@@ -141,7 +140,7 @@ Several key security vulnerabilities were addressed this month. [Common Vulnerab
 - **[CVE-2025-1217](https://www.suse.com/security/cve/CVE-2025-1217.html)**: This vulnerability identifier has been reserved for future disclosure.
 
 **[webkit2gtk3](https://webkitgtk.org/)**::
-- **[CVE-2025-24201](https://www.suse.com/security/cve/CVE-2025-24201.html)**: An out-of-bounds write issue was addressed with improved checks to prevent unauthorized actions. Maliciously crafted web content may be able to break out of the Web Content sandbox. :contentReference[oaicite:0]{index=0}
+- **[CVE-2025-24201](https://www.suse.com/security/cve/CVE-2025-24201.html)**: An out-of-bounds write issue was addressed with improved checks to prevent unauthorized actions. Maliciously crafted web content may be able to break out of the Web Content sandbox.
 
 **[libarchive](https://www.libarchive.org/)**
 - **[CVE-2025-1632](https://www.suse.com/security/cve/CVE-2025-1632.html)**: Fixed a null pointer dereference in libarchive's `bsdunzip.c`, which could lead to local crashes.
@@ -183,7 +182,6 @@ Your contributions and feedback make openSUSE Tumbleweed better with every updat
 <meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, Linux, kernel, postgresql, KDE, php, kernel-source, curl, gtk, KDE Plasma, KDE Gear, Qt, KDE Frameworks, Breeze, Dolphin, Kdenlive, mozjs, gimp, gdb, fwupd, ruby, wireplumber,selinux–policy, sdbootutil, gstreamer, kdump, qemu, openssl, postgresql, ffmpeg, grub, gnutls, gcc" content="HTML,CSS,XML,JavaScript">
 
 <meta name="keywords" content="openSUSE, Tumbleweed, Linux, rolling release, GNOME, KDE Plasma, KDE Gear, Mesa, ray tracing, Intel Arc, Emacs, PipeWire, libvirt, GStreamer, PHP, kernel, selinux-policy, systemd, zypper, libzypp, parallel downloads, media backend, GTK4, Kdenlive, Dolphin, Qt6, Wayland, NVMe CLI, Evolution, Git, PipeWire, gaming, sysadmin, developers, open source, security updates, CVE, firewall, KDE Frameworks, Breeze, snapper, sdbootutil, libarchive, libxslt, webkit2gtk, audio, HDR, gstreamer, cloud-hypervisor, virtualization, rpm, CI/CD, Distrobox, openSUSE Aeon, openSUSE Kalpa, Slowroll, Leap, kernel-source, firmware, zypper dup, dell, lenovo" content="HTML,CSS,XML,JavaScript">
-roll back using [snapper](https://github.com/openSUSE/snapper) if any issues arise.
 
 
 
