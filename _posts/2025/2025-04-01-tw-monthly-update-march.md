@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio
-date: 2025-04-01 10:00:00+01:00
+date: 2025-04-01 12:00:00+01:00
 layout: post
 image: /wp-content/uploads/2025/04/gnome.png
 license: CC-BY-SA-3.0
@@ -71,7 +71,7 @@ For more details on the change logs for the month, visit the [openSUSE Factory m
 
 **[harfbuzz](https://github.com/harfbuzz/harfbuzz) 11**: This new major version introduces new font-function integrations for CoreText, DirectWrite, and the Rust-based Skrifa library, accessible via the new `hb_font_set_funcs_using()` [Application Programming Interfaces](https://en.wikipedia.org/wiki/API). Additional APIs allow loading font-faces directly from files or blobs for FreeType, CoreText, and DirectWrite backends. The DirectWrite shaper now fully supports font variations and user features, and its API is no longer marked experimental. 
 
-**[emacs](https://www.gnu.org/software/emacs/) 30.1**:. This major release introduces several enhancements, including improved org-protocol handling on GNU/Linux, native code execution for the default process filter, and better input handling with consistent mouse wheel events. It tightens network security by warning about weak crypto standards and ensures HTTP requests don’t expose user emails. Support for Tree-Sitter submodes was added, and `icomplete-in-buffer` improvements enhance completion behavior. The GTK xwidgets build is disabled due to a [webkit2gtk](https://webkitgtk.org/) regression.
+**[emacs](https://www.gnu.org/software/emacs/) 30.1**: This major release introduces several enhancements, including improved org-protocol handling on GNU/Linux, native code execution for the default process filter, and better input handling with consistent mouse wheel events. It tightens network security by warning about weak crypto standards and ensures HTTP requests don’t expose user emails. Support for Tree-Sitter submodes was added, and `icomplete-in-buffer` improvements enhance completion behavior. The GTK xwidgets build is disabled due to a [webkit2gtk](https://webkitgtk.org/) regression.
 
 **[Mesa](https://www.mesa3d.org/) 25.0.1 and 25.0.2**: The 25.0.1 version enables ray tracing support for Intel Arc GPUs [(boo#1238732)](https://bugzilla.opensuse.org/show_bug.cgi?id=1238732) and improves build configuration by switching to `%gcc_version` instead of hardcoded `CXX`. A workaround was added to explicitly set `CXX=g++-14` to resolve compiler detection errors during build. Also includes fixes for building on Tumbleweed and ensures GCC 13 is used for Leap/SLES 15 builds [(bsc#1238713)](https://bugzilla.opensuse.org/show_bug.cgi?id=1238713). The 25.0.2 version maintains OpenGL 4.6 and Vulkan 1.4 API support, though actual reported versions vary by driver. This update fixes VRAM detection problems, flickering in [Resident Evil 2](https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)), a Vulkan issue with [DOOM 2016](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) on [AMD](https://www.amd.com/en) 780M, a segmentation fault in AMD VDPAU deinterlacing, and crashes on Raspberry Pi 5 with v3dv.
 
@@ -179,9 +179,7 @@ For those Tumbleweed users who want to contribute or want to engage with detaile
 Your contributions and feedback make openSUSE Tumbleweed better with every update. Whether reporting bugs, suggesting features, or participating in community discussions, your involvement is highly valued.
 
 
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, Linux, kernel, postgresql, KDE, php, kernel-source, curl, gtk, KDE Plasma, KDE Gear, Qt, KDE Frameworks, Breeze, Dolphin, Kdenlive, mozjs, gimp, gdb, fwupd, ruby, wireplumber,selinux–policy, sdbootutil, gstreamer, kdump, qemu, openssl, postgresql, ffmpeg, grub, gnutls, gcc" content="HTML,CSS,XML,JavaScript">
-
-<meta name="keywords" content="openSUSE, Tumbleweed, Linux, rolling release, GNOME, KDE Plasma, KDE Gear, Mesa, ray tracing, Intel Arc, Emacs, PipeWire, libvirt, GStreamer, PHP, kernel, selinux-policy, systemd, zypper, libzypp, parallel downloads, media backend, GTK4, Kdenlive, Dolphin, Qt6, Wayland, NVMe CLI, Evolution, Git, PipeWire, gaming, sysadmin, developers, open source, security updates, CVE, firewall, KDE Frameworks, Breeze, snapper, sdbootutil, libarchive, libxslt, webkit2gtk, audio, HDR, gstreamer, cloud-hypervisor, virtualization, rpm, CI/CD, Distrobox, openSUSE Aeon, openSUSE Kalpa, Slowroll, Leap, kernel-source, firmware, zypper dup, dell, lenovo" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Linux, rolling release, GNOME, KDE Plasma, KDE Gear, Mesa, ray tracing, Intel Arc, Emacs, PipeWire, libvirt, GStreamer, PHP, kernel, selinux-policy, systemd, zypper, libzypp, parallel downloads, media backend, GTK, Kdenlive, Dolphin, Qt6, Wayland, NVMe CLI, Evolution, Git, PipeWire, gaming, sysadmin, developers, open source, security updates, CVE, firewall, KDE Frameworks, Breeze, snapper, sdbootutil, libarchive, libxslt, webkit2gtk, audio, HDR, gstreamer, cloud-hypervisor, virtualization, rpm, CI/CD, Distrobox, openSUSE Aeon, openSUSE Kalpa, Slowroll, Leap, kernel-source, firmware, zypper dup, dell, lenovo" content="HTML,CSS,XML,JavaScript">
 
 
 
