@@ -14,8 +14,7 @@ As a token of appreciation, the winning design receives a **special prize** from
 ## Contest Rules & Guidelines  
 
 ### Licensing  
-- The logo must be licensed under **CC-BY-SA 4.0**, allowing openSUSE community to use it freely.  
-- No attribution is required by CC-BY-SA 4.0 if selected. Proper attribution will be given on the summit website.  
+- The logo must be licensed under CC-BY-SA 4.0, allowing the openSUSE community to use it freely without needing to provide attribution each time, as typically required by the license, if the logo is selected. 
 - [More details on licensing](https://en.opensuse.org/openSUSE:Accepted_licences)
 
 ### Originality  
@@ -52,20 +51,12 @@ Send your design to **opensuseasia-summit@googlegroups.com** with the following 
 <p align="center">
   <img src="/assets/images/2025-03-21/logo.png" alt="openSUSE.Asia Summit 2025 Logo" width="300">
 </p>
-<p align="center"><em>Figure 1: Proposed Logo for openSUSE.Asia Summit 2025</em></p>
+<p align="center"><em>Figure 1. Sample SVG Template for the logo</em></p>
 
 The openSUSE.Asia Summit Committee will carefully review all submissions.  
 **Note:** Final decision will be made by the committee and may not necessarily be the highest-voted design.
 
 *Tip: Use [Inkscape](https://inkscape.org/), a free and open-source vector design tool!*  
-
----
-
-## Additional Notes  
-- Please provide a version with a **dark background**.  
-- Convert **texts to paths** before submitting.  
-- Do **not** use any bitmap images.  
-- Feel free to use the **bottom half** of the logo creatively with different colors, directions, etc.
 
 ---
 
