@@ -69,7 +69,11 @@ Users of openSUSE-repos on Tumblweed gained `mediahandler=curl2` as part of the 
 
 Leap 15 and 16 users can currently get the zypper update with these enhancements from the development repository.
 
+
 To install the updated packages, users can switch to a root shell with `sudo su -` and run `zypper in <package-name>`.
+Unfortunatelly calling `sudo zypper` does not processs /etc/profile.d/ files and the variable `ZYPP_PCK_PRELOAD=1` is unset.
+Users who are used to call sudo zypper can create an alias or use pass the variable manually (see the `env ZYPP_PCK_PRELOAD=1` example) .
+This cumbersome part will be gone once the parallel download feature is mature and gets enabled by default in zypper.
 
 <https://download.opensuse.org/repositories/zypp:/Head/>
 
