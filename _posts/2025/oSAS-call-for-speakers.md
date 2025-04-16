@@ -5,8 +5,9 @@
 **License:** CC-BY-SA-4.0
 
 <p align="center">
-  <img src="/assets/images/2025-03-21/stage.png" alt="stage image" width="500">
+  <img src="/assets/images/2025-03-21/group.png" alt="Group Image" width="600">
 </p>
+<p align="center"><em>Figure: Group photo from the openSUSE.Asia Summit preparations</em></p>
 
 
 We are pleased to announce that the **Call for Speakers** for the openSUSE.Asia Summit 2025 is now open. The event will take place from August 29 to 31, 2025, in Faridabad, India. This summit is an excellent opportunity to share your expertise, ideas, and experiences with the openSUSE community.
@@ -16,24 +17,24 @@ We are looking for speakers who are passionate about openSUSE and open-source te
 In 2025, we aim to include more cross-distro talks, focusing on collaboration with other distribution communities such as AlmaLinux, Debian, and Ubuntu.
 
 ## Topics
-We welcome talks in various categories. Topics may include, but are not limited to:
+We welcome talks in a wide range of categories that reflect both technical depth and community relevance. Topics may include, but are not limited to:
 
-- **openSUSE Technologies:** Leap, Tumbleweed, MicroOS, Open Build Service, openQA, YaST
-- **Desktop Environments & Applications:** GNOME, KDE, XFCE
-- **Office Suite, Graphic Art, Multimedia:** LibreOffice, Calligra, GIMP, Inkscape
-- **Multilingualization Support:** Input methods, translation
-- **Cloud, Virtualization, Containers, and Orchestration:** Kubernetes, Rancher
-- **Security and Package Supply Chains:** Vulnerability management
-- **Embedded and IoT applications**
-- **Other applications running on openSUSE**
+### Technical Topics
 
-Additionally, we welcome topics that are not related to a specific technology. Examples include:
+- **openSUSE in Action**: Leap, Tumbleweed, MicroOS, openQA, YaST, and local deployment stories  
+- **Building with Open Build Service (OBS)**: Packaging, collaboration, and automation  
+- **Localized Desktop Environments & Tools**: GNOME, KDE, XFCE with Indian language support  
+- **FOSS for Creative & Educational Use**: LibreOffice, GIMP, Inkscape in schools, colleges, and startups  
+- **Cloud & DevOps Technologies**: Kubernetes, Rancher, Docker – real-world implementations in India  
+- **Cybersecurity & Digital Safety**: Securing the open-source stack and managing vulnerabilities  
+- **IoT & Embedded Systems in India**: Applications in smart cities, agriculture, and local innovations  
+- **openSUSE in Government & Institutions**: Adoption stories and digital infrastructure  
 
-- Overview of FLOSS technologies
-- Development, Quality Assurance, Translation
-- Tips & Tricks, Experience stories (success or failure), Best practices
-- Marketing and community management
-- Education
+### Community and Practice Topics
+
+- **FLOSS Ecosystem Overviews & Trends**  
+- **Tips, Experience Stories (Success or Failure), and Best Practices**  
+- **FOSS in Indian Education and Curriculum Integration**
 
 ## Types of Sessions
 We are inviting proposals for the following types of sessions:
@@ -44,8 +45,8 @@ We are inviting proposals for the following types of sessions:
 We will also have **Lightning Talks (5 min.)** announced later.
 
 ## Schedule
-- **Proposal Deadline:** August 4, 2025
-- **Notification to Speakers:** August 26, 2025
+- **Proposal Deadline:** June 20, 2025  
+- **Notification to Speakers:** July 7, 2025
 
 ## How to Submit Your Proposal
 
@@ -60,14 +61,6 @@ We will also have **Lightning Talks (5 min.)** announced later.
 - Refer to our guide for writing a better proposal.
 - If you need help writing your proposal, please contact committee members in your country/region.
 
-## Hotel Advisory for Attendees and Speakers
-Please note that hotel prices in Faridabad may be higher during the event. We strongly recommend booking your accommodation as soon as possible with a cancelable plan. Check the event website for further updates and details about available hotels and recommended booking options.
-
-## Important Notes
-- Speakers must be present at the venue. Pre-recorded video presentations and video calls are not allowed.
-- All presentations and slides must be in English.
-
-We are excited to see your proposals and look forward to bringing together open-source enthusiasts in Faridabad, India, for a successful event in 2025!
 
 ---
 
