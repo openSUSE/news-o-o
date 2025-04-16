@@ -1,6 +1,6 @@
 ---
 
-author: Douglas DeMaio
+author: Stefan Hundhammer (Edited by Douglas DeMaio)
 date: 2025-04-16 11:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/04/qdirstat01.png
