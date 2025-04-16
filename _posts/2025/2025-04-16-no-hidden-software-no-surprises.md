@@ -3,7 +3,7 @@
 author: Stefan Hundhammer (Edited by Douglas DeMaio)
 date: 2025-04-16 11:00:00+02:00
 layout: post
-image: /wp-content/uploads/2025/04/qdirstat01.png
+image: /wp-content/uploads/2024/11/dive.png
 license: CC-BY-SA-3.0
 title: No Hidden Software, No Surprises
 categories:
