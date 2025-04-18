@@ -1,16 +1,13 @@
 # openSUSE.Asia Summit 2025 Call for Speakers
 
-**Location:** Faridabad, India  
-**Dates:** August 29 – 31, 2025  
-**License:** CC-BY-SA-4.0
+
 
 <p align="center">
-  <img src="/assets/images/2025-03-21/group.png" alt="Group Image" width="600">
+  <img src="/assets/images/2025-03-21/opensuse.png" alt="openSUSE Logo" width="600">
 </p>
-<p align="center"><em>Figure: Group photo from the openSUSE.Asia Summit preparations</em></p>
 
 
-We are pleased to announce that the **Call for Speakers** for the openSUSE.Asia Summit 2025 is now open. The event will take place from August 29 to 31, 2025, in Faridabad, India. This summit is an excellent opportunity to share your expertise, ideas, and experiences with the openSUSE community.
+We are pleased to announce that the **Call for Speakers** for the openSUSE.Asia Summit 2025 is now open. The event will take place from August 29 to 30, 2025, in Faridabad, India. This summit is an excellent opportunity to share your expertise, ideas, and experiences with the openSUSE community.
 
 We are looking for speakers who are passionate about openSUSE and open-source technologies. The openSUSE Asia committee encourages proposals from diverse backgrounds to present in-depth technical talks, tutorials, and case studies. We invite submissions from individuals with a wide range of expertise in open-source topics.
 
