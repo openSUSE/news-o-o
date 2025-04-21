@@ -7,7 +7,7 @@
 </p>
 
 
-We are pleased to announce that the **Call for Speakers** for the openSUSE.Asia Summit 2025 is now open. The event will take place from August 29 to 30, 2025, in Faridabad, India. This summit is an excellent opportunity to share your expertise, ideas, and experiences with the openSUSE community.
+We are pleased to announce that the **Call for Speakers** for the openSUSE.Asia Summit 2025 is now open. The event will take place from August 29 to 31, 2025 in Faridabad, India. This summit is an excellent opportunity to share your expertise, ideas, and experiences with the openSUSE community.
 
 We are looking for speakers who are passionate about openSUSE and open-source technologies. The openSUSE Asia committee encourages proposals from diverse backgrounds to present in-depth technical talks, tutorials, and case studies. We invite submissions from individuals with a wide range of expertise in open-source topics.
 
@@ -43,20 +43,24 @@ We will also have **Lightning Talks (5 min.)** announced later.
 
 ## Schedule
 - **Proposal Deadline:** June 20, 2025  
-- **Notification to Speakers:** July 7, 2025
+- **Notification to Speakers:** June 30, 2025
 
 ## How to Submit Your Proposal
 
-- Submit your proposal to: [https://events.opensuse.org/conferences/oSAS25](https://events.opensuse.org/conferences/oSAS25)
-- If you do not have a SUSE community account, sign up from the top menu of the system before submitting your proposal document.
-- Your proposal must be written in English, ranging from 130 to 250 words.
-- It should have a suitable title that reflects the topics in your talk.
-- Please check for misspellings and grammatical errors before submission using tools like:
-  - LibreOffice
-  - Google Docs
-  - Grammarly
-- Refer to our guide for writing a better proposal.
-- If you need help writing your proposal, please contact committee members in your country/region.
+
+- Submit your proposal at: [events.opensuse.org](https://events.opensuse.org/conferences/oSAS25)
+- If you do not have a SUSE community account, sign up from the top menu of the system before submitting your proposal.
+- You must follow the [openSUSE Conference Code of Conduct](https://en.opensuse.org/openSUSE:Conference_code_of_conduct).
+- Your proposal must be written in English, between **130 to 250 words**.
+- It should have a suitable title that clearly reflects the topic of your talk.
+- Before submission, please check for spelling and grammar using tools such as:
+  - [LibreOffice](https://www.libreoffice.org)
+  - [Google Docs](https://docs.google.com)
+  - [Grammarly](https://www.grammarly.com)
+- Refer to [our guide](https://en.opensuse.org/openSUSE:Asia_Summit_How_to_Write_a_Good_Proposal) for writing a strong proposal.
+- If you need help, reach out to committee members in your country or region:  
+  [Asia Summit Committee List](https://en.opensuse.org/openSUSE:Asia_Organization_Committee#The_list_of_committees)
+
 
 
 ---
