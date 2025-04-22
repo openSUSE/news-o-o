@@ -72,9 +72,9 @@ Send your design to **opensuseasia-summit@googlegroups.com** with the following 
 4. **File Size**: Ensure all files are under 512 KB.
 
 <p align="center">
-  <img src="/assets/images/2025-03-21/logo.png" alt="openSUSE.Asia Summit 2025 Logo" width="300">
+  <img src="/assets/images/2025-03-21/logo-template.svg" alt="openSUSE.Asia Summit 2025 Logo Template" width="300">
 </p>
-<p align="center"><em>Figure 1. Sample SVG Template for the logo</em></p>
+<p align="center"><em>Figure 1. <a href="/assets/images/2025-03-21/logo-template.svg">Sample SVG Template for the logo</a></em></p>
 
 The openSUSE.Asia Summit Committee will carefully review all submissions. 
 **Note:** Final decision will be made by the committee and may not necessarily be the highest-voted design.
