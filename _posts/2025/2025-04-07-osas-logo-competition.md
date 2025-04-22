@@ -85,5 +85,7 @@ The openSUSE.Asia Summit Committee will carefully review all submissions.
 - **Submission Deadline**: 10 June 2025 
 - **Winner Announcement**: 20 June 2025 
 
+<meta name="openSUSE, Open Source, development, Community, Developers, Project, Asia Summit, Faridabad, India" content="HTML,CSS,XML,JavaScript">
+
 
 
