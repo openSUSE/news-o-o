@@ -65,7 +65,7 @@ Meanwhile, people looking for a modern, immutable system with point releases, ta
 
 ### Roadmap Highlights
 
-The Leap Micro 6.2 schedule and lifecycle align the with [Leap 16.0’s roadmap](https://en.opensuse.org/openSUSE:Roadmap#DRAFT_Schedule_for_Leap_16.0).
+The Leap Micro 6.2 schedule and lifecycle align with [Leap 16.0’s roadmap](https://en.opensuse.org/openSUSE:Roadmap#DRAFT_Schedule_for_Leap_16.0).
 This makes Leap Micro effectively a specialized image of Leap 16.X going forward.
 
 - Leap Micro 6.2 Beta release  within a few days
