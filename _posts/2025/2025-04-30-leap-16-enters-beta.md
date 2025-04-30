@@ -118,6 +118,7 @@ If you would like to upgrade from Leap 15.6 manually with zypper dup, you'll nee
 Alternatively, test our experimental migration tool which utilizes openSUSE-repos and will do the repository change for you:
 
 `sudo zypper in opensuse-migration-tool`
+
 `sudo opensuse-migration-tool`
 
 You can find it on GitHub: [opensuse-migration-tool](https://github.com/openSUSE/opensuse-migration-tool)
