@@ -3,40 +3,53 @@
 author: 	Lubos Kocman (Edited by Douglas DeMaio)
 date: 2025-04-16 12:00:00+02:00
 layout: post
-image: /wp-content/uploads/2025/04/agama.png
+image: /wp-content/uploads/2025/04/beta.png
 license: CC-BY-SA-3.0
-title: openSUSE Leap 16 Enters Beta  
+title: openSUSE Leap 16 Enters Beta
 categories:
 - Announcements
 - openSUSE
-- Upgrade to Freedom
+- Leap
+- Leap Micro 
+- Agama 
+- Myrlyn 
 tags:
-- openSUSE
-- Contribution
-- Community
-- Developers
-- Project
-- Upgrade to Freedom
-- Microsoft
-- Windows
-- e-waste
-- Linux Project
-- Upgrade to Freedom 
-- info campaign
-- Windows
-- Windows alternatives
-- environmental 
-- sustainability
-- Linux 
-- transition
-- secure 
-- operating systems 
-- customizable 
-- hardware
-- user-friendly 
-- Microsoft alternatives
-- Windows end of support
-- QDirStat
+- openSUSE 
+- Contribution 
+- Community 
+- Developers 
+- Project 
+- Leap 
+- Leap Micro 
+- Beta 
+- SUSE Linux Enterprise 
+- Framework One 
+- Agama 
+- Myrlyn 
+- YaST 
+- Cockpit 
+- Zypper 
+- RPM
+- AppArmor 
+- SELinux 
+- GNOME 
+- KDE Plasma 
+- Wayland 
+- Immutable Linux 
+- Container workloads 
+- Virtualization
+- GitHub 
+- System upgrade 
+- Parallel downloads 
+- RIS-based repositories
+- Steam 
+- Gaming 
+- openSUSE-repos 
+- Agama Installer 
+- Beta Testing
+- Bug Reports 
+- Documentation
+- Release Notes
 
 ---
 
@@ -68,7 +81,7 @@ Leap 16.0 with its fresh fork brings a renewed foundation and cleaner system.
 - The new [Agama installer](https://agama-project.github.io/blog) is now the default
 - The traditional YaST stack is retired in favor of:
   - [Cockpit](https://code.opensuse.org/leap/features/issue/190) for system management
-  - [Myrlyn](https://github.com/shundhammer/myrlyn) as a drop-in replacement for the YaST Software GUI  
+  - [Myrlyn](https://github.com/shundhammer/myrlyn) as a drop-in replacement for the YaST Software GUI 
   **(Note: YaST is still available in Tumbleweed but will no longer be developed. YaST has been removed from Leap 16 and [Myrlyn](https://news.opensuse.org/2025/02/10/myrlyn-now-handles-community-repos/) takes on this role of software installation like YaST. If someone is interested in the maintanece of YaST for further development and bugfixes, the source are available on [github](https://github.com/yast). 
 
 ### Versions of Interest
@@ -94,7 +107,7 @@ You can find the full list of Leap 16.0 repositories [here](https://github.com/o
 
 ### Migration Options
 
-We recommend fresh installs to fully test the new Agama installer.  
+We recommend fresh installs to fully test the new Agama installer. 
 If you would like to upgrade from Leap 15.6 manually with zypper dup, you'll need to update distribution repositories. **We are newly using split repodata per architecture and we no longer have a separate update repositories.** Users are adviced to **disable all 3rd party** repositories, as these are usually the root cause of most upgrade issues.
 
 **More details at <https://en.opensuse.org/SDB:System_upgrade>**
@@ -131,4 +144,4 @@ Thank you for testing and being part of the openSUSE community. Let's shape Leap
 
 <small> This is part of a series on [Upgrade to Freedom](https://news.opensuse.org/category/upgrade-to-freedom) where we offer reasons to transition from Windows to Linux.</small>
 
-<meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Linux gaming, Linux for developers, EU, Euro, QDirStat" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Leap 16, Leap Micro 6.2, SUSE Linux Enterprise, Agama installer, Myrlyn, YaST phased out, Linux transition, SELinux, AppArmor, Wayland, RPM 4.20, Zypper, Cockpit, GNU Health, SLE Framework One, container workloads, immutable Linux, system upgrade, parallel downloads, Linux beta testing" content="HTML,CSS,XML,JavaScript">
