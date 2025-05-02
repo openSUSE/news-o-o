@@ -10,6 +10,7 @@ categories:
 - Announcements
 - openSUSE
 - Upgrade to Freedom
+- End of 10
 tags:
 - openSUSE
 - Contribution
@@ -40,6 +41,8 @@ tags:
 - Full Disk Encryption
 
 ---
+
+**The [Upgrade to Freedom](https://news.opensuse.org/category/upgrade-to-freedom) campaign has joined the [End of 10](https://endof10.org) initiative to promote Free and Open Source Software as a sustainable alternative to Windows 10. Learn more at [endof10.org](https://endof10.org).**
 
 Data breaches and cyber threats are becoming increasingly common and securing your personal and professional information has never been more critical.
 

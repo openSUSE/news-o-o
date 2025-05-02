@@ -39,7 +39,6 @@ tags:
 
 ---
 
-
 The [Upgrade to Freedom](https://news.opensuse.org/category/upgrade-to-freedom) campaign exists to remind users that better, community-driven operating systems to Microsoft Windows do exist and that there are alternatives that don’t compromise transparency, security or user trust.
 
 
