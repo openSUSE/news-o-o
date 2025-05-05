@@ -10,6 +10,7 @@ categories:
 - Announcements
 - openSUSE
 - Upgrade to Freedom
+- End of 10
 tags:
 - openSUSE
 - Contribution
@@ -38,6 +39,8 @@ tags:
 - Windows end of support
 
 ---
+
+**The [Upgrade to Freedom](https://news.opensuse.org/category/upgrade-to-freedom) campaign has joined the [End of 10](https://endof10.org) initiative to promote Free and Open Source Software as a sustainable alternative to Windows 10. Learn more at [endof10.org](https://endof10.org).**
 
 Most people don’t give much thought to their operating system, but with Windows 10 support ending in October 2025, many will start searching for alternatives that keep them secure without spending more than $100 for a software upgrade or on hardware that still works perfectly. 
 

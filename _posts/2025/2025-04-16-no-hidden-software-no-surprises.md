@@ -10,6 +10,7 @@ categories:
 - Announcements
 - openSUSE
 - Upgrade to Freedom
+- End of 10
 tags:
 - openSUSE
 - Contribution
@@ -39,6 +40,9 @@ tags:
 - QDirStat
 
 ---
+
+**The [Upgrade to Freedom](https://news.opensuse.org/category/upgrade-to-freedom) campaign has joined the [End of 10](https://endof10.org) initiative to promote Free and Open Source Software as a sustainable alternative to Windows 10. Learn more at [endof10.org](https://endof10.org).**
+
 
 The openSUSE News article [Freedom Means Knowing What’s Installed](https://news.opensuse.org/2025/04/15/freedom-means-knowing-whats-installed/) highlights a critical benefit of using [openSUSE](https://get.opensuse.org/) and other Linux distributions; complete system transparency! 
 
