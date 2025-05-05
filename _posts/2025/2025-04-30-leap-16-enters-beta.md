@@ -94,7 +94,7 @@ Leap 16.0 with its fresh fork brings a renewed foundation and cleaner system.
 - GIMP: 3.0
 - RPM: 4.20 coming soon
 - Cockpit 334.1 (aiming for latest version available at time of RC)
-- GNU Health 5.5 once it's available in June
+- GNU Health 5.0 once it's available in June
 
 ### Revamped Repositories
 
