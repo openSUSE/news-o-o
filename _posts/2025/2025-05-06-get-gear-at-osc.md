@@ -30,20 +30,21 @@ Items available at the shop will include popular products from [Freewear.org's o
 
 Between 100 to 125 items, mainly t-shirts, will be available as a preview of brand-new designs that emphasize [Leap](https://get.opensuse.org/leap/), [Tumbleweed](https://get.opensuse.org/tumbleweed/), [Slowroll](https://en.opensuse.org/Portal:Slowroll), [Aeon](https://aeondesktop.github.io/) and [Kalpa](https://kalpadesktop.org/) and [MicroOS](https://get.opensuse.org/microos/). These new items aren’t yet listed on Freewear.org's](https://www.freewear.org/openSUSE) website, but there are plans to update the online shop with all of them after the conference.
 
-If you're particularly interested in specific items, sizes, or styles, we encourage you to **email your request in advance** to **ddemaio@opensuse.org** and **ishwon@openSUSE.org** with the subject line **"oSC25 Shop Selection"**. This helps us better prepare and ensure we have the most requested items available during the event.
+If you're particularly interested in specific items, sizes, or styles, we encourage you to **email your request in advance** to **ddemaio@opensuse.org** and **ishwon@openSUSE.org** with the subject line **"oSC25 Shop Selection"**. Please do this before June 4 since shipments will happen around this time. This helps us better prepare and ensure we have the most requested items available during the event.
 
 ### Event Details
 
 - **Conference Dates**: June 26 – 28, 2025  
 - **Location**: Z-Bau, Nuremberg, Germany  
-- **What to Expect**: Talks, workshops, and community networking  
+- **What to Expect**: Talks, workshops, and community networking
 
 The openSUSE Conference is a free, community-driven event that brings together contributors, developers and enthusiasts from across the globe to collaborate on open-source software development.
 
 ### Pre-Party
 
-Kick things off early! Join us for the **pre-party** on **June 25** at **Kater Murr**.  
-Come by anytime after 6 p.m. and connect with fellow attendees ahead of the main event.  
+Kick things off early! Join us for the **pre-party** on **June 25** at **Kater Murr**.
+
+Come by anytime after 6 p.m. and connect with fellow attendees ahead of the main event.
 📍 [Kater Murr on OpenStreetMap](https://www.openstreetmap.org/node/3184642816)  
 📍 [Google Maps Location](https://maps.app.goo.gl/ZY1uRk6EtLkZu3999)
 
