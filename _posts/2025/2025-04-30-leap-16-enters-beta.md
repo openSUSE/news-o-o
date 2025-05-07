@@ -82,7 +82,7 @@ Leap 16.0 with its fresh fork brings a renewed foundation and cleaner system.
 - The traditional YaST stack is retired in favor of:
   - [Cockpit](https://code.opensuse.org/leap/features/issue/190) for system management
   - [Myrlyn](https://github.com/shundhammer/myrlyn) as a drop-in replacement for the YaST Software GUI 
-  **(Note: YaST is still available in Tumbleweed but will no longer be developed. YaST has been removed from Leap 16 and [Myrlyn](https://news.opensuse.org/2025/02/10/myrlyn-now-handles-community-repos/) takes on this role of software installation like YaST. If someone is interested in the maintanece of YaST for further development and bugfixes, the sources are available on [github](https://github.com/yast). 
+  **(Note: YaST is still available in Tumbleweed but will no longer be developed. YaST has been removed from Leap 16 and [Myrlyn](https://news.opensuse.org/2025/02/10/myrlyn-now-handles-community-repos/) takes on this role of software installation like YaST. If someone is interested in the maintanece of YaST for further development and bugfixes, the sources are available on [github](https://github.com/yast).)** 
  - Leap 16.0 will no longer run on machines that do not [support x86_64-v2](https://en.opensuse.org/SDB:System_upgrade#Major_changes).
 
 ### Versions of Interest
