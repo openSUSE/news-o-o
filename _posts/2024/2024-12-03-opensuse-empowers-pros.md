@@ -11,6 +11,7 @@ categories:
 - openSUSE
 - Upgrade to Freedom
 - End of 10
+- Endof10
 tags:
 - openSUSE
 - Contribution
