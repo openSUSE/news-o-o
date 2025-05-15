@@ -69,7 +69,6 @@ The Leap Micro 6.2 schedule and lifecycle align with [Leap 16.0’s roadmap](htt
 This makes Leap Micro effectively a specialized image of Leap 16.X going forward.
 
 - Leap Micro 6.2 Beta release  within a few days
-- Leap 16.0 RC is expected in **July 2025**
 - Both Leap 16.0 and Leap Micro 6.2 releases are planned for **October 2025**
 
 ### What’s New in the Beta?
