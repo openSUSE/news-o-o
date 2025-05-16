@@ -50,6 +50,11 @@ And you're still gaming. Still winning. Just on Linux.
 
 Gamers know the name Linux and its adoption among users is beginning to shift. According to [Google Trends](https://trends.google.com/), searches for Windows gaming are trending similar today to what it was roughly five years ago, which is when COVID saw more people engaging digitally during spare time. Searches for Linux gaming on the other hand have tripled during that time frame.
 
+Screenshot:
+<p align="center">
+  <img src="https://news.opensuse.org/wp-content/uploads/2025/05/trend.png" alt="Screenshot of Linux Gaming vs Windows Gaming" width="600">
+</p>
+
 Gaming on Linux no longer means giving up your [Steam](https://store.steampowered.com/) library or tinkering very long just to launch a title. Thanks to [Proton](https://github.com/ValveSoftware/Proton), more than 70 percent of the top 100 Steam games now work out of the box on Linux. This includes **Cyberpunk 2077**, **Red Dead Redemption 2**, **Elden Ring** and more.
 
 Linux distributions like openSUSE aren't just along for the ride. The distributions are driving Linux gaming forward with reliant performance and improvements.
