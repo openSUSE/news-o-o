@@ -23,11 +23,10 @@ tags:
 - Microsoft
 - Windows
 - e-waste
-- Linux Project
 - Upgrade to Freedom 
 - info campaign
 - Windows
-- Windows alternatives
+- alternatives
 - environmental 
 - sustainability
 - Linux 
@@ -106,7 +105,7 @@ Through Proton:
 **Starfield**
 
 
-Upgrading to Windows 11 may cost people more than they can afford or even lead to unnecessary [e-waste with functional hardware](https://news.opensuse.org/2025/04/14/replace-windows-not-your-device/), which the initiative [End of 10](https://endof10.org/) is rasing awareness for across the globe. 
+Upgrading to Windows 11 may cost people more than they can afford or even lead to unnecessary [e-waste with functional hardware](https://news.opensuse.org/2025/04/14/replace-windows-not-your-device/), which the initiative [End of 10](https://endof10.org/) is raising awareness for across the globe. 
 
 Linux, and openSUSE in particular, offers a way out. Gaming shouldn’t end because support does. 
 
@@ -116,4 +115,4 @@ Join others making the switch. Visit [endof10.org](https://endof10.org/)  for an
 
 <small> This is part of a series on [End of 10](https://news.opensuse.org/category/upgrade-to-freedom) where we advocate for Free & Open Source Software as a solution for Windows 10 users who wish to keep their devices rather than contributing to e-waste of functioning devices.</small>
 
-<meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux transition, Upgrade to Freedom campaign, Linux distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, Debian, environmental benefits, secure operating systems, customizable Linux, Joanna Murzyn, KDE Akademy, electronic waste, open source, Linux alternatives, computer longevity, user-friendly Linux, live tutorials, ISO installation, Leap, Tumbleweed, Aeon, Kalpa, Slowroll, Linux gaming, Linux for developers, End of 10" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Open Source, development, Windows 10, end of support, transition, Upgrade to Freedom, campaign, Linux, distributions, e-waste reduction, hardware sustainability, Ubuntu, Fedora, AlmaLinux, Debian, environmental benefits, secure operating systems, customizable, Joanna Murzyn, KDE, Akademy, electronic waste, open source, alternatives, computer longevity, user-friendly, live tutorials, ISO, installation, Leap, Tumbleweed, Aeon, Kalpa, Slowroll, gaming, End of 10" content="HTML,CSS,XML,JavaScript">
