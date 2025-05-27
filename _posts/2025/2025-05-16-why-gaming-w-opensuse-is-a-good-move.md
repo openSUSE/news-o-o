@@ -23,11 +23,10 @@ tags:
 - Microsoft
 - Windows
 - e-waste
-- Linux Project
 - Upgrade to Freedom 
 - info campaign
 - Windows
-- Windows alternatives
+- alternatives
 - environmental 
 - sustainability
 - Linux 
