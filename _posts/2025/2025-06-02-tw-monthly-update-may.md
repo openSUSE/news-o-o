@@ -176,7 +176,7 @@ More fixes made for version [138.0.1](https://www.mozilla.org/en-US/firefox/138.
 **[grub2](https://www.gnu.org/software/grub/)**:
 - **[CVE-2025-4382](https://www.suse.com/security/cve/CVE-2025-4382.html)**: Fixed an issue where GRUB's TPM-based auto-decryption could leave LUKS disks decrypted in memory after a filesystem failure. An attacker with physical access could exploit this to access unencrypted data by forcing GRUB into rescue mode.
 
-**[mozjs128](https://github.com/servo/mozjs) 128.10.1: 
+**[mozjs128](https://github.com/servo/mozjs) 128.10.1**: 
 - **[CVE-2025-4920](https://www.suse.com/security/cve/CVE-2025-4920.html)**: Fixed an out-of-bounds access when resolving Promise objects in Firefox (bmo#1966612).
 - **[CVE-2025-4921](https://www.suse.com/security/cve/CVE-2025-4921.html)**: Fixed an out-of-bounds access during optimization of linear sums in Firefox (bmo#1966614).
 
