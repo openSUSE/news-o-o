@@ -47,13 +47,13 @@ We’ll have [a shop set up at the venue](https://news.opensuse.org/2025/05/06/g
 ### 🟢 Video Team Support  
 The video team could use extra hands with camera setup on June 25 and session recordings through the conference as well as stream monitoring. No prior experience required; just a willingness to help and learn.
 
-Those who are interested should email ddemaio@opensuse.org with the subject header oSC25 Help.
+Those who are interested should email [ddemaio@opensuse.org](mailto:ddmaio@opensuse.org?subject=oSC25 Help) with the subject header oSC25 Help.
 
 ## Spreading Awareness – Celebrating 20 Years of openSUSE
 
 This year marks 20 years of openSUSE, and we're working on a special video project to honor the people and stories behind the project. As part of this, we're running a campaign at the conference to highlight how individuals contribute to openSUSE. Whether it’s packaging, translation, infrastructure, design, community organizing, release management or documentation, we would like for you to spend a few minutes on camera. 
 
-If you’d like to help capture these stories or support the video team’s work to showcase them, we’d love to hear from you. Send an email to ddemaio@opensuse.org with the subject header openSUSE 20 Year!
+If you’d like to help capture these stories or support the video team’s work to showcase them, we’d love to hear from you. Send an email to [ddemaio@opensuse.org](mailto:ddmaio@opensuse.org?subject=openSUSE 20 Year!) with the subject header openSUSE 20 Year!
 
 ---
 
