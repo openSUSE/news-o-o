@@ -177,8 +177,8 @@ More fixes made for version [138.0.1](https://www.mozilla.org/en-US/firefox/138.
 - **[CVE-2025-4382](https://www.suse.com/security/cve/CVE-2025-4382.html)**: Fixed an issue where GRUB's TPM-based auto-decryption could leave LUKS disks decrypted in memory after a filesystem failure. An attacker with physical access could exploit this to access unencrypted data by forcing GRUB into rescue mode.
 
 **[mozjs128](https://github.com/servo/mozjs) 128.10.1**: 
-- **[CVE-2025-4920](https://www.suse.com/security/cve/CVE-2025-4920.html)**: Fixed an out-of-bounds access when resolving Promise objects in Firefox (bmo#1966612).
-- **[CVE-2025-4921](https://www.suse.com/security/cve/CVE-2025-4921.html)**: Fixed an out-of-bounds access during optimization of linear sums in Firefox (bmo#1966614).
+- **[CVE-2025-4920](https://www.suse.com/security/cve/CVE-2025-4920.html)**: Fixed an out-of-bounds access when resolving Promise objects in Firefox.
+- **[CVE-2025-4921](https://www.suse.com/security/cve/CVE-2025-4921.html)**: Fixed an out-of-bounds access during optimization of linear sums in Firefox.
 
 **[OpenSSL](https://www.openssl.org/)**:
 - **[CVE-2025-4575](https://www.suse.com/security/cve/CVE-2025-4575.html)**: Fixed an issue in OpenSSL 3.5 where the `-addreject` option in `openssl x509` mistakenly marked certificates as trusted instead of rejected.
@@ -187,7 +187,7 @@ More fixes made for version [138.0.1](https://www.mozilla.org/en-US/firefox/138.
 - **[CVE-2025-4207](https://www.suse.com/security/cve/CVE-2025-4207.html)**: Fixed a buffer over-read vulnerability in PostgreSQL’s GB18030 encoding check, which could result in denial-of-service.
 
 **[python313](https://www.python.org/)**:
-- **[CVE-2025-4516](https://www.suse.com/security/cve/CVE-2025-4516.html)**: Fixed a use-after-free vulnerability in CPython's `bytes.decode("unicode_escape", errors="ignore|replace")` that could lead to memory corruption.
+- **[CVE-2025-4516](https://www.suse.com/security/cve/CVE-2025-4516.html)**: Fixed a use-after-free vulnerability in CPython that could lead to memory corruption.
 
 Users are advised to update to the latest versions to mitigate these vulnerabilities.
 
