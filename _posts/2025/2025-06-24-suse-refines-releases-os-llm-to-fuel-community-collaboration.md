@@ -36,6 +36,6 @@ The project’s approach uses a 150,000-sample dataset and the Alpaca instructio
 
 The dataset and validation tools used to create the model will also be available via Hugging Face to allow researchers and developers to reproduce and extend the work.
 
-The team welcomes ongoing feedback and contributions. Developers are encouraged to use the model and [Hugging Face](https://huggingface.co/openSUSE/) to share insights, suggested improvements or to get involved. [huggingface.co/openSUSE](https://huggingface.co/openSUSE/). Developers can also be found on the [openSUSE Factory mailing list] (https://lists.opensuse.org/).
+The team welcomes ongoing feedback and contributions. Developers are encouraged to use the model and [Hugging Face](https://huggingface.co/openSUSE/) to share insights, suggested improvements or to get involved. [huggingface.co/openSUSE](https://huggingface.co/openSUSE/). Developers can also be found on the [openSUSE Factory mailing list](https://lists.opensuse.org/).
 
 <meta name="openSUSE, SUSE, Hugging Face, LLM, AI, Cavil, legal, classification, community, open-source" content="HTML,CSS,XML,JavaScript">
