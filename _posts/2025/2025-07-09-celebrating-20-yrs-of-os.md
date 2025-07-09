@@ -44,6 +44,8 @@ High-resolution images are appreciated and a minimum 300 dpi resolution image is
 
 The openSUSE Project was launched on August 9, 2005. 
 
+Anyone having group photos at openSUSE Conferences are asked to email them to <ddemaio@opensuse.org>
+
 <meta name="openSUSE, Open Source, development, Community, Developers, Project, Birthday" content="HTML,CSS,XML,JavaScript">
 
 
