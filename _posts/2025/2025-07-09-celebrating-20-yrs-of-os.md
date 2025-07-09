@@ -34,7 +34,7 @@ People are encouraged to celebrate something in their town or locally and share 
 
 Community members are encouraged to present the 20-year history of the project at conferences and summits. A presentation using the images will be made available on the [openSUSE Wiki](https://en.opensuse.org/openSUSE:Presentations). 
 
-Members are also encouraged to celebrate the 20th Anniversary on August 9 in the [opeSUSE bar](https://meet.opensuse.org/bar) where members can reminisce with others in the global community. 
+Members are also encouraged to celebrate the 20th Anniversary on August 9 in the [openSUSE bar](https://meet.opensuse.org/bar) where members can reminisce with others in the global community. 
 
 During the [openSUSE.Asia Summit](https://events.opensuse.org/), there will be a quiz to win [20th Anniversary t-shirts](https://shop.opensuse.org/).
  
