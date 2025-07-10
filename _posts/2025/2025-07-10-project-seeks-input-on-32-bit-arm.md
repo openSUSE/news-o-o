@@ -22,7 +22,7 @@ tags:
 
 ---
 
-The [openSUSE Project](https://get.opensuse.org/) is seeking [community input](https://survey.opensuse.org/) to determine whether it should continue supporting 32-bit [ARM](https://www.arm.com/) architectures.
+The [openSUSE Project](https://get.opensuse.org/) is seeking [community input](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/BTYP5CFCKBH67W73CMJQNSZ76RNC2KWB/) to determine whether it should continue supporting 32-bit [ARM](https://www.arm.com/) architectures.
 
 Maintaining support for legacy platforms is increasingly challenging. The openSUSE team cited limited upstream support and dwindling maintenance resources as key factors behind the potential decision to retire 32-bit ARM ([ARMv6 and ARMv7](https://en.wikipedia.org/wiki/ARM_architecture_family)) support.
 
