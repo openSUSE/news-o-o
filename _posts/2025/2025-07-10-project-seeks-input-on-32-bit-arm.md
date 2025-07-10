@@ -36,8 +36,11 @@ The survey will go until the end of July.
 If you're interested in helping maintain 32-bit ARM support through testing, bug reports, or documentation, join one of the following communication channels:
 
 **IRC:** #opensuse-arm on Libera.Chat
+
 **Matrix:** #arm:opensuse.org
-**Mailing List:** lists.opensuse.org
+
+**Mailing List:** [lists.opensuse.org](https://lists.opensuse.org)
+
 
 <meta name="openSUSE, Open Source, development, Community, Developers, Project, Birthday" content="HTML,CSS,XML,JavaScript">
 
