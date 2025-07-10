@@ -2,7 +2,7 @@
 author: Douglas DeMaio 
 date: 2025-07-10 09:00:00+02:00
 layout: post
-image: /wp-content/uploads/2023/09/survey.png
+image: /wp-content/uploads/2025/07/sbc.png
 license: CC-BY-SA-3.0
 title: Project Seeks Input on Future of 32-bit ARM
 categories:
