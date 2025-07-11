@@ -115,6 +115,17 @@ img.emoji{
   }
 }
 
+.community-badge {
+  display: inline-block;
+  padding: 0.3em 0.8em;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #173f4f; /* openSUSE blue */
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
 
 
 

@@ -40,6 +40,11 @@ layout: default
 			|
 			{{ page.license | default: site.license | default: 'No License' }}
 		</p>
+	{% if page.badge %}
+		<p class="text-center">
+  		<span class="community-badge">{{ page.badge }}</span>
+		</p>
+	{% endif %}
 		{% if page.image %}
 		<img class="rounded mx-auto d-block h-carousel"
 			src="{% if page.image contains 'http' %}{% else %}{{ site.baseurl }}{% endif %}{{ page.image }}"
