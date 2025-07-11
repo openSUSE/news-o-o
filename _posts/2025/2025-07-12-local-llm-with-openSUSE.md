@@ -1,9 +1,10 @@
 ---
 author: Onuralp SEZER
-date: 2025-07-04 15:00:00+02:00
+date: 2025-07-12 15:00:00+02:00
 layout: post
 license: CC-BY-SA-3.0
-title: "Running Local LLMs with Ollama on openSUSE Tumbleweed"
+title: Running Local LLMs with Ollama on openSUSE Tumbleweed
+badge: Community Contribution
 categories:
 - Tutorials
 - openSUSE
