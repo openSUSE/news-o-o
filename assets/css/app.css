@@ -154,10 +154,22 @@ pre {
   text-decoration: none;
 }
 
+
+@media (prefers-color-scheme: dark) {
 .h-96px {
   height: 72px;
   overflow-y: hidden;
-  color:white
+  color: white;
+}
+}
+
+
+@media (prefers-color-scheme: light) {
+.h-96px {
+  height: 72px;
+  overflow-y: hidden;
+  color:black
+}
 }
 
 .breadcrumb{
