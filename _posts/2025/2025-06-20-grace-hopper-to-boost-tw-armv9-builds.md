@@ -27,7 +27,7 @@ As part of a collaboration between [SUSE](https://www.nvidia.com/) and [NVIDIA](
 
 This system will enable Armv9-based builds of [Tumbleweed](https://get.opensuse.org/tumbleweed/). This is a critical step in expanding the platform’s architecture reach and future-proofing its development infrastructure.
 
-The collaboration reflects a shared commitment to open-source innovation and the need for cutting-edge build capabilities. The addition of the [Grace Hopper, which is named after the computer programming.trailblazer](https://en.wikipedia.org/wiki/Grace_Hopper). aims to meet increasing performance demands in development and testing. [Tumbleweed](https://get.opensuse.org/tumbleweed) drives progress and supports development through fast iteration in the open-source ecosystem.
+The collaboration reflects a shared commitment to open-source innovation and the need for cutting-edge build capabilities. The addition of the [Grace Hopper, which is named after the computer programming trailblazer](https://en.wikipedia.org/wiki/Grace_Hopper). aims to meet increasing performance demands in development and testing. [Tumbleweed](https://get.opensuse.org/tumbleweed) drives progress and supports development through fast iteration in the open-source ecosystem.
 
 The Grace Hopper system, based on the [NVIDIA GH200 Superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/), delivers a breakthrough unified CPU-GPU memory model with massive bandwidth and compute capabilities. 
 
