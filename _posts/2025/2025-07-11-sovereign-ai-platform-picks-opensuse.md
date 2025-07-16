@@ -29,7 +29,7 @@ tags:
 
 [Europe’s first federated AI initiative](https://www.einpresswire.com/article/829005610/europe-launches-its-first-federated-ai-factory-based-on-a-sovereign-multi-cloud-infrastructure) has chosen [openSUSE](https://get.opensuse.org/) as part of its foundation aimed sovereign AI.
 
-OpenNebula Systems officially announced the launch of [Fact8ra](https://fact8ra.ai/), which is Europe’s first federated AI-as-a-Service platform. 
+[OpenNebula Systems](https://opennebula.io/) officially announced the launch of [Fact8ra](https://fact8ra.ai/), which is Europe’s first federated AI-as-a-Service platform. 
 
 This initiative marks a major milestone under of a €3 billion [Important Project of Common European Interest (IPCEI)](https://competition-policy.ec.europa.eu/state-aid/ipcei_en) on [Next Generation Cloud Infrastructure and Services (IPCEI-CIS)](https://competition-policy.ec.europa.eu/state-aid/ipcei/approved-ipceis/cloud_en). 
 
