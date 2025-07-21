@@ -4,7 +4,7 @@ date: 2025-07-18 17:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/07/fde.png
 license: CC-BY-SA-3.0
-title: 
+title: Protecting against rogue devices in openSUSE with Full Disk Encryption
 categories:
 - Announcements
 - openSUSE
@@ -22,8 +22,6 @@ tags:
 - systemd
 
 ---
-
-# Protecting against rogue devices in openSUSE with Full Disk Encryption
 
 openSUSE have now multiple ways to configure a Full Disk Encryption (FDE) installation.  A very secure and easy way (YaST2) of doing this is via user space tools, as we described multiple times (like [here][1], [here][2], or [here][3]).  This solution is based on the `systemd` tool-set like `systemd-cryptenroll`, `systemd-pcrlock` and `systemd-cryptsetup`, among other, orchestrated by the in-house `sdbootutil` script.
 
