@@ -2,6 +2,7 @@
 author: Alberto Planas
 date: 2025-07-18 17:00:00+02:00
 layout: post
+image: /wp-content/uploads/2025/07/fde.png
 license: CC-BY-SA-3.0
 title: 
 categories:
@@ -19,6 +20,7 @@ tags:
 - Tumbleweed
 - Rolling Release
 - systemd
+
 ---
 
 # Protecting against rogue devices in openSUSE with Full Disk Encryption
