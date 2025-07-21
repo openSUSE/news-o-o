@@ -51,7 +51,7 @@ But more recently a second [attack][6] was made public that fully affect the ori
 
 The article describes how that attack can be done checking in the `initrd` the filesystem UUID used to mount the encrypted device. This information is inside the `/etc/crypttab` stored in the `initrd`, that will do something like this:
 
-  systemd-cryptsetup attach cr_root /dev/disk/by-uuid/$UUID 'none' 'tpm2-device=auto'
+    systemd-cryptsetup attach cr_root /dev/disk/by-uuid/$UUID 'none' 'tpm2-device=auto'
 
 If the expected firmware, configuration files, kernel and `initrd` are used during the boot process then the `TPM2`'s `PCR`s registers will have values that match the policy that unlock the device and the sealed key can be now unsealed by the `TPM2`, the disk will be unlocked, the switch root will succeed and the boot process will continue in the `rootfs`.
 
