@@ -45,7 +45,7 @@ The [openSUSE Project](https://get.opensuse.org/) is part of a growing coalition
 
 Some in the [IT industry](https://www.controlup.com/windows-11-readiness/#) are suggesting that as many as 50 percent of the devices remain using Windows 10, which comes at great risk to users and businesses.
 
-Those who remain on Windows 10 and don’t upgrade to an operating system providing security and maintenance updates like a Linux OS or Window 11 will be susceptible to vulnerabilities, malware infections, software incompatibilities, and an increasing amount of system instability and failures over time.
+Those who remain on Windows 10 and don’t upgrade to an operating system providing security and maintenance updates like a Linux OS or Windows 11 will be susceptible to vulnerabilities, malware infections, software incompatibilities, and an increasing amount of system instability and failures over time.
 
 The [End of 10](https://endof10.org/) campaign and its initiative aims to promote migration-focused type [events](https://endof10.org/events/) to help these users shift from Windows 10 to Linux-based operating systems.
 
