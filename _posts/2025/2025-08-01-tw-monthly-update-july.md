@@ -75,7 +75,13 @@ tags:
 - poppler
 - Firefox
 - Thunderbird 
-- Slowroll 
+- Slowroll
+- ElevenLabs
+- HPE
+- Western Digital
+- NetApp
+- Micron
+- MangoBoost
 
 ---
 
@@ -330,7 +336,7 @@ Your contributions and feedback make openSUSE Tumbleweed better with every updat
 
 
 
-<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, Linux, kernel, postgresql, openSUSE, Tumbleweed, rolling release, KDE, Plasma, Gear, Frameworks, Kdenlive, Konsole, Spectacle, Kate, KWrite, Qt, Kirigami, GNOME, Amarok , hwinfo , systemd , GStreamer , curl , nvme-cli , libnvme , vim , myrlyn , Mesa , kernel , bind , ddcutil , netpbm , php , xen , sudo , qt6 , ImageMagick , libavif , git , apache2 , mozjs , openssl , raptor , djvulibre , libxml2 , poppler , Firefox , Thunderbird , CVE , Security , Slowroll" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Tumbleweed, Developers, sysadmin, user, Open Source, rolling release, gamers, superuser, distrowatch, Linux, kernel, postgresql, openSUSE, Tumbleweed, rolling release, KDE, Plasma, Gear, Frameworks, Kdenlive, Konsole, Spectacle, Kate, KWrite, Qt, Kirigami, GNOME, Amarok , hwinfo , systemd , GStreamer , curl , nvme-cli , libnvme , vim , myrlyn , Mesa , kernel , bind , ddcutil , netpbm , php , xen , sudo , qt6 , ImageMagick , libavif , git , apache2 , mozjs , openssl , raptor , djvulibre , libxml2 , poppler , Firefox , Thunderbird , CVE , Security , Slowroll. ElevenLabs, HPE, Western Digital, NetApp, Micron, MangoBoost" content="HTML,CSS,XML,JavaScript">
 
 
 
