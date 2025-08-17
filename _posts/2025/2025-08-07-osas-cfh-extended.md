@@ -15,9 +15,8 @@ tags:
 - openSUSE Asia Summit
 
 ---
-# Deadline Extended: Call for Host – openSUSE.Asia Summit 2026
 
-The openSUSE.Asia Summit Organizing Committee has extended the deadline for the Call for Host to submit proposals for the **2026 Summit**. Communities now have until **August 20, 2025** to apply.
+The openSUSE.Asia Summit Organizing Committee has extended the deadline for the Call for Host to submit proposals for the **2026 Summit**. Communities now have until **August 27, 2025** to apply.
 
 The extension comes in response to requests from local communities seeking more time to prepare their proposals. This is a great opportunity to showcase your region and bring the openSUSE community together in your city.
 
