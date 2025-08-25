@@ -42,7 +42,7 @@ The final architecture includes multiple specialized nodes, distributed storage,
 
 Start with a clean VM deployment using established automation tools:
 
-```bash
+```text
 cd ~geeko/bin/v-i
 sudo ./viDeploy -c ./VM-K3s.cfg -n edge-ai-01
 ```
@@ -58,7 +58,7 @@ Complete the openSUSE installation with consistent settings across all nodes:
 
 **Network Configuration:**
 
-```bash
+```text
 # Configure static networking
 cd /etc/sysconfig/network
 cp ifcfg-eth1 ifcfg-eth0
@@ -73,7 +73,7 @@ IPADDR=172.xx.xxx.xx/24
 ```
 
 Set hostname and disable firewall for edge deployment:
-```bash
+```text
 hostnamectl set-hostname edge-ai-01
 echo "172.xx.xxx.xx edge-ai-01.local edge-ai-01" >> /etc/hosts
 systemctl disable --now firewalld
@@ -84,7 +84,7 @@ systemctl restart network
 
 Install required components for Kubernetes and distributed storage:
 
-```bash
+```text
 zypper refresh
 zypper install -y open-iscsi kernel-default e2fsprogs xfsprogs apparmor-parser
 systemctl enable --now iscsid
@@ -94,7 +94,7 @@ systemctl enable --now iscsid
 
 Prepare dedicated storage for distributed AI workloads:
 
-```bash
+```text
 lsblk
 fdisk /dev/vdb
 # Create new GPT partition table and primary partition
@@ -117,12 +117,12 @@ Access your Rancher management interface to create a dedicated AI cluster:
 4. Select K3s version
 5. Copy and execute registration command:
 
-```bash
+```text
 curl -fsSL https://get.k3s.io | K3S_URL=https://172.xx.xxx.xx:6443 K3S_TOKEN=your-token sh -
 ```
 
 Verify cluster connectivity:
-```bash
+```text
 kubectl get nodes
 kubectl get pods --all-namespaces
 ```
@@ -133,7 +133,7 @@ kubectl get pods --all-namespaces
 
 Deploy Ollama for local LLM inference:
 
-```bash
+```text
 curl -fsSL https://ollama.com/install.sh | sh
 systemctl enable --now ollama
 ```
@@ -142,7 +142,7 @@ systemctl enable --now ollama
 
 Configure Ollama for distributed access:
 
-```bash
+```text
 mkdir -p /etc/systemd/system/ollama.service.d
 vi /etc/systemd/system/ollama.service.d/override.conf
 ```
@@ -154,7 +154,7 @@ Environment="OLLAMA_HOST=0.0.0.0:11434"
 ```
 
 Apply configuration:
-```bash
+```text
 systemctl daemon-reload
 systemctl restart ollama
 ```
@@ -163,7 +163,7 @@ systemctl restart ollama
 
 Deploy models based on hardware capabilities:
 
-```bash
+```text
 # For 8GB RAM nodes - quantized models
 ollama pull phi3
 
@@ -182,7 +182,7 @@ Quantized models (q4_K_M) reduce memory usage by ~75% while maintaining performa
 
 Clone the Edge Analytics ecosystem:
 
-```bash
+```text
 git clone https://github.com/rudrakshkarpe/Edge-analytics-ecosystem-workloads-openSUSE.git
 cd Edge-analytics-ecosystem-workloads-openSUSE
 ```
@@ -191,7 +191,7 @@ cd Edge-analytics-ecosystem-workloads-openSUSE
 
 Update Kubernetes manifests for distributed deployment:
 
-```bash
+```text
 vi k8s-deployment/streamlit-app-deployment.yaml
 ```
 
@@ -205,7 +205,7 @@ Modify Ollama endpoint:
 
 Deploy in correct order for dependency resolution:
 
-```bash
+```text
 kubectl apply -f k8s-deployment/namespace.yaml
 kubectl apply -f k8s-deployment/storage.yaml
 kubectl apply -f k8s-deployment/streamlit-app-deployment.yaml
@@ -213,7 +213,7 @@ kubectl apply -f k8s-deployment/ingress.yaml
 ```
 
 Verify deployment status:
-```bash
+```text
 kubectl get pods -n edge-analytics
 kubectl logs -f deployment/edge-analytics-app -n edge-analytics
 ```
@@ -224,12 +224,12 @@ kubectl logs -f deployment/edge-analytics-app -n edge-analytics
 
 Deploy distributed storage system:
 
-```bash
+```text
 kubectl apply -f https://raw.githubusercontent.com/longhorn/longhorn/master/deploy/longhorn.yaml
 ```
 
 Wait for all pods to be running:
-```bash
+```text
 kubectl get pods -n longhorn-system -w
 ```
 
@@ -237,7 +237,7 @@ kubectl get pods -n longhorn-system -w
 
 Set Longhorn as default for persistent volumes:
 
-```bash
+```text
 kubectl patch storageclass longhorn -p '{"metadata": {"annotations":{"storageclass.kubernetes.io/is-default-class":"true"}}}'
 ```
 
@@ -255,7 +255,7 @@ Scale the cluster with specialized nodes:
 
 Label nodes based on capabilities:
 
-```bash
+```text
 # GPU-enabled nodes
 kubectl label node edge-ai-02 node-type=gpu-inference
 
@@ -267,7 +267,7 @@ kubectl label node edge-ai-03 node-type=cpu-inference
 
 Deploy appropriate models per node type:
 
-```bash
+```text
 # GPU nodes - larger models
 ssh root@172.16.220.11
 ollama pull phi3
@@ -283,7 +283,7 @@ ollama pull phi3
 
 Deploy comprehensive observability:
 
-```bash
+```text
 kubectl apply -f k8s-deployment/monitoring.yaml
 ```
 
@@ -291,7 +291,7 @@ kubectl apply -f k8s-deployment/monitoring.yaml
 
 For development and testing access:
 
-```bash
+```text
 # Edge Analytics application
 kubectl port-forward svc/edge-analytics-service 8501:8501 -n edge-analytics
 
@@ -305,7 +305,7 @@ kubectl port-forward svc/grafana 3000:3000 -n monitoring
 ### Operational Commands
 
 **Model Management:**
-```bash
+```text
 # Check model status across cluster
 kubectl exec -it daemonset/ollama -n edge-analytics -- ollama list
 
@@ -314,7 +314,7 @@ kubectl exec -it daemonset/ollama -n edge-analytics -- ollama pull llama3:latest
 ```
 
 **Scaling Operations:**
-```bash
+```text
 # Horizontal scaling
 kubectl scale deployment edge-analytics-app --replicas=3 -n edge-analytics
 
@@ -342,19 +342,19 @@ kubectl top pods -n edge-analytics
 ## Troubleshooting Common Issues
 
 **VM Connectivity:**
-```bash
+```text
 virsh list --all
 virsh console edge-ai-01
 ```
 
 **Kubernetes Issues:**
-```bash
+```text
 kubectl describe node edge-ai-01
 kubectl get events --sort-by=.metadata.creationTimestamp
 ```
 
 **Ollama Service Problems:**
-```bash
+```text
 systemctl status ollama
 journalctl -u ollama -f
 curl http://172.xx.xxx.xx:11434/api/tags
