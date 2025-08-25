@@ -46,7 +46,7 @@ The enrollment of this new greeter will be done in multiple phases.
 
 <img src="https://news.opensuse.org/wp-content/uploads/2025/08/welcome.png"  alt="Geeko" width="450"/>
 
-2) The launcher triggers openSUSE branded [gnome-tour](https://github.com/openSUSE/gnome-tour) and [plasma-welcome](https://github.com/KDE/plasma-welcome) while keeping openSUSE-welcome as a fallback (in case it's installed).
+2) The launcher triggers openSUSE branded [gnome-tour](https://github.com/openSUSE/gnome-tour) and [plasma-welcome](https://invent.kde.org/plasma/plasma-welcome) while keeping openSUSE-welcome as a fallback (in case it's installed).
 
 3) The legacy Qt5-based greeter will eventually be decommissioned. We should have an agreed fallback on desktop sessions without dedicated greeter.
 
