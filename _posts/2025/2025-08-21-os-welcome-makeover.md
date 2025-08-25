@@ -34,7 +34,7 @@ tags:
 
 The familiar [openSUSE-welcome](https://github.com/openSUSE/openSUSE-welcome) window that greets millions of desktops is nearing retirement and a new approach will soon take its place.
 
-Rather than re-inventing the wheel, members of openSUSE's release team have decided to tweak and refine existing solutions like [gnome-tour](https://github.com/openSUSE/gnome-tour) for [GNOME](https://www.gnome.org/) and [plasma-welcome](https://github.com/KDE/plasma-welcome) for [KDE's Plasma](https://kde.org/) by making a new controller and  [opensuse-welcome-launcher](https://build.opensuse.org/package/show/X11:Utilities/opensuse-welcome-launcher) to coordinate them and provide desktop-specific content.
+Rather than re-inventing the wheel, members of openSUSE's release team have decided to tweak and refine existing solutions like [gnome-tour](https://github.com/openSUSE/gnome-tour) for [GNOME](https://www.gnome.org/) and [plasma-welcome](https://invent.kde.org/plasma/plasma-welcome) for [KDE's Plasma](https://kde.org/) by making a new controller and  [opensuse-welcome-launcher](https://build.opensuse.org/package/show/X11:Utilities/opensuse-welcome-launcher) to coordinate them and provide desktop-specific content.
 
 This new welcome-launcher manages which greeter to run depending on the desktop environment. This gives openSUSE's release team more control over when and how welcome screens are shown, instead of relying on each greeter’s own autostart mechanism.
 
