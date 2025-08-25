@@ -66,7 +66,7 @@ vi ifcfg-eth0
 ```
 
 Edit network configuration:
-```bash
+```text
 STARTMODE=auto
 BOOTPROTO=static
 IPADDR=172.xx.xxx.xx/24
