@@ -4,6 +4,7 @@ date: 2025-08-26 15:30:00+05:30
 layout: post
 license: CC-BY-SA-3.0
 title: "Building Edge AI Infrastructure with KVM, openSUSE, and Ollama"
+badge: Community Contribution
 categories:
 - Tutorials
 - openSUSE
