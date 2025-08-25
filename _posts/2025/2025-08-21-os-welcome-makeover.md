@@ -34,7 +34,7 @@ tags:
 
 The familiar [openSUSE-welcome](https://github.com/openSUSE/openSUSE-welcome) window that greets millions of desktops is nearing retirement and a new approach will soon take its place.
 
-Rather than re-inventing the wheel, members of openSUSE's release team have decided to tweak and refine existing solutions like [gnome-tour](https://github.com/openSUSE/gnome-tour) for [GNOME](https://www.gnome.org/) and [plasma-welcome](https://github.com/KDE/plasma-welcome) for [KDE's Plasma](https://kde.org/) by making a new controller and  [opensuse-welcome-launcher](https://build.opensuse.org/package/show/X11:Utilities/opensuse-welcome-launcher) to coordinate them and provide desktop-specific content.
+Rather than re-inventing the wheel, members of openSUSE's release team have decided to tweak and refine existing solutions like [gnome-tour](https://github.com/openSUSE/gnome-tour) for [GNOME](https://www.gnome.org/) and [plasma-welcome](https://invent.kde.org/plasma/plasma-welcome) for [KDE's Plasma](https://kde.org/) by making a new controller and  [opensuse-welcome-launcher](https://build.opensuse.org/package/show/X11:Utilities/opensuse-welcome-launcher) to coordinate them and provide desktop-specific content.
 
 This new welcome-launcher manages which greeter to run depending on the desktop environment. This gives openSUSE's release team more control over when and how welcome screens are shown, instead of relying on each greeter’s own autostart mechanism.
 
@@ -46,7 +46,7 @@ The enrollment of this new greeter will be done in multiple phases.
 
 <img src="https://news.opensuse.org/wp-content/uploads/2025/08/welcome.png"  alt="Geeko" width="450"/>
 
-2) The launcher triggers openSUSE branded [gnome-tour](https://github.com/openSUSE/gnome-tour) and [plasma-welcome](https://github.com/KDE/plasma-welcome while keeping openSUSE-welcome as a fallback (in case it's installed).
+2) The launcher triggers openSUSE branded [gnome-tour](https://github.com/openSUSE/gnome-tour) and [plasma-welcome](https://invent.kde.org/plasma/plasma-welcome) while keeping openSUSE-welcome as a fallback (in case it's installed).
 
 3) The legacy Qt5-based greeter will eventually be decommissioned. We should have an agreed fallback on desktop sessions without dedicated greeter.
 
