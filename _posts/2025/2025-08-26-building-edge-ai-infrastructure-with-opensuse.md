@@ -2,6 +2,7 @@
 author: Rudraksh Karpe
 date: 2025-08-26 15:30:00+05:30
 layout: post
+image: /wp-content/uploads/2025/08/leap.png
 license: CC-BY-SA-3.0
 title: "Building Edge AI Infrastructure with KVM, openSUSE, and Ollama"
 badge: Community Contribution
@@ -23,7 +24,7 @@ tags:
 - Local LLM
 ---
 
-Edge AI infrastructure is transforming how we deploy machine learning workloads, bringing computation closer to data sources while maintaining privacy and reducing latency. This comprehensive guide demonstrates building a  edge analytics platform using [KVM virtualization](https://linux-kvm.org/page/Main_Page), [openSUSE Leap (15.6)](https://get.opensuse.org/leap/15.6/), [K3s](https://k3s.io/), and [Ollama](https://ollama.com/search) for local [AI inference](https://en.wikipedia.org/wiki/Inference_engine).
+Edge AI infrastructure is transforming how we deploy machine learning workloads, bringing computation closer to data sources while maintaining privacy and reducing latency. This comprehensive guide demonstrates building an edge analytics platform using [KVM virtualization](https://linux-kvm.org/page/Main_Page), [openSUSE Leap (15.6)](https://get.opensuse.org/leap/15.6/), [K3s](https://k3s.io/), and [Ollama](https://ollama.com/search) for local [AI inference](https://en.wikipedia.org/wiki/Inference_engine).
 
 Our architecture leverages a KVM homelab infrastructure originally set-up by [Bryan](https://www.linkedin.com/in/bryangartner/), My Google Summer of Code Mentor. This set-up was built to create specialized AI nodes in a distributed cluster, with Longhorn providing shared storage for models and application data. Each component is chosen for reliability, scalability, and edge-specific requirements.
 
