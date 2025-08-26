@@ -26,7 +26,7 @@ tags:
 
 Edge AI infrastructure is transforming how we deploy machine learning workloads, bringing computation closer to data sources while maintaining privacy and reducing latency. This comprehensive guide demonstrates building an edge analytics platform using [KVM virtualization](https://linux-kvm.org/page/Main_Page), [openSUSE Leap (15.6)](https://get.opensuse.org/leap/15.6/), [K3s](https://k3s.io/), and [Ollama](https://ollama.com/search) for local [AI inference](https://en.wikipedia.org/wiki/Inference_engine).
 
-Our architecture leverages a KVM homelab infrastructure originally set-up by [Bryan](https://www.linkedin.com/in/bryangartner/), My Google Summer of Code Mentor. This set-up was built to create specialized AI nodes in a distributed cluster, with Longhorn providing shared storage for models and application data. Each component is chosen for reliability, scalability, and edge-specific requirements.
+Our architecture leverages a KVM homelab infrastructure originally set-up by my [Google Summer of Code](https://summerofcode.withgoogle.com/) Mentor. This set-up was built to create specialized AI nodes in a distributed cluster, with [Longhorn](https://longhorn.io/) providing shared storage for models and application data. Each component is chosen for reliability, scalability, and edge-specific requirements.
 
 ## Prerequisites and Architecture Overview
 
@@ -336,7 +336,7 @@ kubectl top pods -n edge-analytics
 ## Key Advantages of This Architecture
 
 1. **Privacy-First**: All AI inference happens locally, ensuring data never leaves your infrastructure
-2. **Scalable**: Kubernetes orchestration enables easy horizontal scaling as workloads grow  
+2. **Scalable**: Kubernetes orchestration enables easy horizontal scaling as workloads grow 
 3. **Resilient**: Distributed storage and multi-node deployment provide high availability
 4. **Cost-Effective**: Utilizes existing hardware infrastructure without cloud dependencies
 5. **Flexible**: Support for various model sizes and quantization levels based on hardware
@@ -367,3 +367,6 @@ This edge AI infrastructure provides a robust foundation for deploying local LLM
 For advanced configurations and additional features, explore the [complete repository](https://github.com/rudrakshkarpe/local-research-agent) documentation and consider integrating with external tools like vector databases for enhanced RAG capabilities.
 
 Huge shoutout to my mentors [Bryan Gartner](https://www.linkedin.com/in/bryangartner/), [Terry Smith](https://www.linkedin.com/in/tlsmith42/), Ann Davis for making this set-up possible. 
+
+<meta name="openSUSE, Developers, sysadmin, user, Open Source, GSoC, Google Summer of Code, Longhorn, KVM, Ollama, AI, K3s" content="HTML,CSS,XML,JavaScript">
+
