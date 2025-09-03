@@ -5,7 +5,7 @@ date: 2025-09-03 12:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/09/group.png
 license: CC-BY-SA-3.0
-title: openSUSE Asia Summit: A Journey of Wonder 
+title: openSUSE Asia Summit A Journey of Wonder 
 categories:
 - Announcements
 - openSUSE
