@@ -3,7 +3,7 @@
 author: Douglas DeMaio
 date: 2025-09-03 12:00:00+02:00
 layout: post
-image: /wp-content/uploads/2025/09/group.png
+image: /wp-content/uploads/2025/07/20yr.png
 license: CC-BY-SA-3.0
 title: openSUSE Asia Summit: A Journey of Wonder 
 categories:
@@ -21,6 +21,12 @@ tags:
 - India
 
 ---
+
+Group Photo:
+<p align="center">
+  <img src="https://news.opensuse.org/wp-content/uploads/2025/09/group.png" alt="Screenshot of Talk" width="600">
+</p>
+
 
 The [openSUSE.Asia Summit](https://events.opensuse.org/conferences/oSAS25) brought together developers, students and open-source advocates together at [Manav Rachna International Institute of Research and Studies (MRIIRS)](https://events.opensuse.org/conferences/oSAS25) from Aug. 29 - 30 and celebrated 20 years of the project.
 
