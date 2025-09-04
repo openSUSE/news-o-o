@@ -53,7 +53,7 @@ tags:
 
 ## openSUSE Leap and Leap Micro doubles down on support
 
-openSUSE Leap 15 is a record breaker. It will keep receiving updates until April 30 2026, delivering an unmatched 130 months of community support.
+openSUSE Leap 15 is a record breaker. It will keep receiving updates until April 30 2026, delivering a lengthy amount of unmatched community support.
 
 The usual lifecycle is 12 months plus 6 months of overlap for smooth upgrade, but Leap 15.6 has been stretched by an additional 4 months so we can maintain the familiar six month overlap after the release of Leap 16.0 in October 2025. 
 
