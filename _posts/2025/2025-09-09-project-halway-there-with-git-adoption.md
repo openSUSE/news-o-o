@@ -24,7 +24,7 @@ tags:
 
 ---
 
-[Leap 16](https://get.opensuse.org/leap) now accepts contributions exclusively via [the new git workflow](https://en.opensuse.org/openSUSE_talk:Packaging_for_Leap). This shift reflects a broader trend: many development projects in the Open Build Service have already adopted Git, and new ones are being onboarded daily.
+[Leap 16](https://get.opensuse.org/leap) now accepts contributions exclusively via [the new git workflow](https://en.opensuse.org/openSUSE:Packaging_for_Leap). This shift reflects a broader trend: many development projects in the Open Build Service have already adopted Git, and new ones are being onboarded daily.
 
 [Tumbleweed](https://get.opensuse.org/tumbleweed)  has not yet switched to the new Git workflow. The openSUSE release team is evaluating the new staging to ensure it can scale effectively as we need to make sure that pre-intergration acceptance testing remains effective to handle up to 1,500 submissions a week.
 
