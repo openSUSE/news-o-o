@@ -2,7 +2,7 @@
 author: Douglas DeMaio 
 date: 2025-07-23 11:00:00+02:00
 layout: post
-image: /wp-content/uploads/2025/04/waste.png
+image: /wp-content/uploads/2025/09/recycle.png
 license: CC-BY-SA-3.0
 title: Urgency to Switch from Windows 10 Builds
 categories:
