@@ -34,7 +34,8 @@ The below featured highlights listed on the community’s blog feed aggregator a
 **Here is a summary and links for each post:** 
 
 
-**[Twenty-seventh audio from Podcast Linux](https://www.kdeblog.com/vigesimosetimo-audio-de-podcast-linux-especial-slimbook-one-podcast-linux-27.html)** - Baltolkien highlighted the 27th episode of Podcast Linux, where Juan Febles reviewed the Slimbook One desktop device. Despite the podcast project being on hiatus, the blog continues to promote these valuable Spanish-language Linux discussions.
+## [Twenty-seventh audio from Podcast Linux](https://www.kdeblog.com/vigesimosetimo-audio-de-podcast-linux-especial-slimbook-one-podcast-linux-27.html)
+Baltolkien highlighted the 27th episode of Podcast Linux, where Juan Febles reviewed the Slimbook One desktop device. Despite the podcast project being on hiatus, the blog continues to promote these valuable Spanish-language Linux discussions.
 
 
 ## [Cursor Eyes Widget – Visual Plasmoids for Plasma 6.21](https://www.kdeblog.com/cursor-eyes-widget-visual-plasmoides-para-plasma-6-21.html) 
