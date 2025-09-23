@@ -4,7 +4,7 @@ date: 2025-09-23 16:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/09/openqa.png
 license: CC-BY-SA-3.0
-title: openQA Gains AI Friendly Interface
+title: openQA Gains AI-Friendly Interface
 categories:
 - Announcements
 - openSUSE
