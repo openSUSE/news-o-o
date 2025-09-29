@@ -49,7 +49,9 @@ The release comes with [SELinux](https://github.com/SELinuxProject/selinux) as t
 
 More advancements will come as Leap 16 evolves toward its final release next decade as automation, containerization, system tooling and hardware encryption mature. 
 
-Those who wish to develop for Leap 16 are encouraged to participate in the weekly [feature review meeting](https://calendar.opensuse.org/) on Mondays.
+Those who wish to develop for Leap 16 are encouraged to participate in the weekly [feature review meeting](https://calendar.opensuse.org/) on Mondays. 
+
+[Known bugs for Leap 16](https://en.opensuse.org/openSUSE:Known_bugs_16.0) can be found on the project's wiki.
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux, secure operating systems, open source, Leap" content="HTML,CSS,XML,JavaScript">
 
