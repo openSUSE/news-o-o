@@ -2,7 +2,7 @@
 author: Douglas DeMaio 
 date: 2025-10-01 14:00:00+02:00
 layout: post
-image: /wp-content/uploads/2025/08/leap160rc.png
+image: /wp-content/uploads/2025/10/kde.png
 license: CC-BY-SA-3.0
 title: Next Chapter Opens with Leap 16 Release
 categories:
