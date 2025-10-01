@@ -1,6 +1,7 @@
 ---
+
 author: Lubos Kocman
-date: 2025-10-01 16:00:00+02:00
+date: 2025-10-01 10:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/10/opensuse-migration-tool.png
 license: CC-BY-SA-3.0
@@ -91,6 +92,6 @@ I plan to provide an optional GTK4 interface that preserves the shared migration
   <img src="/wp-content/uploads/2025/10/opensuse-migration-tool-gtk4.png" alt="opensuse-migration-tool-gtk" width="600">
 </p>
 
-
+People can leave feedback on [survey.opensuse.org](https://survey.opensuse.org/) after the general availablity of the release today at 12:00 UTC when the a survey becomes publish regarding the release of Leap 16.
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux, secure operating systems, open source, Leap" content="HTML,CSS,XML,JavaScript">
