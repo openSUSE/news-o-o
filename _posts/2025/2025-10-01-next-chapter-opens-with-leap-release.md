@@ -27,7 +27,7 @@ tags:
 
 ---
 
-[CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_16.0) / [CS](https://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_16.0) / [JA](https://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_16.0) / [LT](https://en.opensuse.org/Skelbimas_apie_16.0_laid%C4%85) / [SV](https://en.opensuse.org/Release_announcement_16.0_sv) / [ES](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_16)
+[CA](https://en.opensuse.org/Anunci_de_la_versi%C3%B3_16.0) / [CS](https://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_16.0) / [JA](https://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_16.0) / [LT](https://en.opensuse.org/Skelbimas_apie_16.0_laid%C4%85) / [SV](https://en.opensuse.org/Release_announcement_16.0_sv) / [ES](https://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_16) / [ZH-TW](https://zh-tw.opensuse.org/Release_announcement_16.0)
 
 Members of openSUSE Project are thrilled to announce the release of openSUSE [Leap 16](https://get.opensuse.org/leap/).
 
