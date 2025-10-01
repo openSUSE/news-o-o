@@ -1,6 +1,7 @@
 ---
+
 author: Lubos Kocman
-date: 2025-10-01 16:00:00+02:00
+date: 2025-10-01 10:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/10/opensuse-migration-tool.png
 license: CC-BY-SA-3.0
