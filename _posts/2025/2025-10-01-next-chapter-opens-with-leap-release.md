@@ -53,6 +53,8 @@ Those who wish to develop for Leap 16 are encouraged to participate in the weekl
 
 [Known bugs for Leap 16](https://en.opensuse.org/openSUSE:Known_bugs_16.0) can be found on the project's wiki.
 
+People can leave feedback about the release of Leap 16 at [survey.opensuse.org](https://survey.opensuse.org/).
+
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux, secure operating systems, open source, Leap" content="HTML,CSS,XML,JavaScript">
 
 
