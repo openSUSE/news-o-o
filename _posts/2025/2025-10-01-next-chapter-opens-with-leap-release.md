@@ -2,7 +2,7 @@
 author: Douglas DeMaio 
 date: 2025-10-01 14:00:00+02:00
 layout: post
-image: /wp-content/uploads/2025/08/leap160rc.png
+image: /wp-content/uploads/2025/10/kde.png
 license: CC-BY-SA-3.0
 title: Next Chapter Opens with Leap 16 Release
 categories:
@@ -52,6 +52,8 @@ More advancements will come as Leap 16 evolves toward its final release next dec
 Those who wish to develop for Leap 16 are encouraged to participate in the weekly [feature review meeting](https://calendar.opensuse.org/) on Mondays. 
 
 [Known bugs for Leap 16](https://en.opensuse.org/openSUSE:Known_bugs_16.0) can be found on the project's wiki.
+
+People can leave feedback about the release of Leap 16 at [survey.opensuse.org](https://survey.opensuse.org/).
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux, secure operating systems, open source, Leap" content="HTML,CSS,XML,JavaScript">
 
