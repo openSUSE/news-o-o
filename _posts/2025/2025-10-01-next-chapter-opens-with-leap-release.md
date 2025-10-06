@@ -1,5 +1,5 @@
 ---
-author: Douglas DeMaio 
+author: Release Team 
 date: 2025-10-01 14:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/10/kde.png
