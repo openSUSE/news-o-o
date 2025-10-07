@@ -5,7 +5,7 @@ date: 2025-10-08 10:00:00+02:00
 layout: post
 license: CC-BY-SA-3.0
 title: GSoC 2025, Building a Semantic Search Engine for Any Video
-image: /wp-content/uploads/2025/10/gsoc-semantic-search.png
+image: /wp-content/uploads/2025/10/vidsearch.png
 categories:
 - openSUSE
 - AI
