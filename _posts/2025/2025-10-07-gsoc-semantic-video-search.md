@@ -1,9 +1,10 @@
 ---
-author: [Your Name]
-date: 2025-10-02 10:00:00+02:00
+
+author: Akash Kumar
+date: 2025-10-08 10:00:00+02:00
 layout: post
 license: CC-BY-SA-3.0
-title: "GSoC 2025: Building a Semantic Search Engine for Any Video"
+title: GSoC 2025: Building a Semantic Search Engine for Any Video
 image: /wp-content/uploads/2025/10/gsoc-semantic-search.png
 categories:
 - Community
@@ -17,6 +18,7 @@ tags:
 - search
 - video
 - python
+
 ---
 
 Hello, openSUSE community! My name is Akash Kumar, and I was a Google Summer of Code (GSoC) 2025 mentee with the openSUSE organization. This summer, I had the incredible opportunity to contribute to the project titled **"Create open source sample microservice workload deployments and interfaces."** The goal was to build a functional, open-source workload that could provide relevant analytics for a specific use case.
