@@ -1,31 +1,38 @@
 ---
-author: [Your Name]
-date: 2025-10-02 10:00:00+02:00
+
+author: Akash Kumar
+date: 2025-10-08 10:00:00+02:00
 layout: post
+image: /wp-content/uploads/2025/10/vidsearch.png
 license: CC-BY-SA-3.0
-title: "GSoC 2025: Building a Semantic Search Engine for Any Video"
-image: /wp-content/uploads/2025/10/gsoc-semantic-search.png
+title: GSoC 2025, Building a Semantic Search Engine for Any Video
+badge: Community Contribution
 categories:
-- Community
-- Technology
+- openSUSE
+- AI
 tags:
 - gsoc
 - gsoc2025
+- Community
+- Technology
 - ai
 - ml
 - multimodal
 - search
 - video
 - python
+
 ---
 
-Hello, openSUSE community! My name is Akash Kumar, and I was a Google Summer of Code (GSoC) 2025 mentee with the openSUSE organization. This summer, I had the incredible opportunity to contribute to the project titled **"Create open source sample microservice workload deployments and interfaces."** The goal was to build a functional, open-source workload that could provide relevant analytics for a specific use case.
+Hello, openSUSE community! 
+
+My name is Akash Kumar, and I was a Google Summer of Code (GSoC) 2025 mentee with the openSUSE organization. This summer, I had the incredible opportunity to contribute to the project titled **"Create open source sample microservice workload deployments and interfaces."** The goal was to build a functional, open-source workload that could provide relevant analytics for a specific use case.
 
 For my project, I chose to tackle a common but complex problem: searching for content *inside* a video. This blog post details the outcome of my GSoC project: a full, end-to-end semantic video search engine.
 
 ### The Problem: Beyond Keywords
 
-Ever tried to find a specific moment in a long video? You might remember the scene vividly—a character gives a crucial speech, or there's a beautiful, silent shot of a landscape—but you can't remember the exact timestamp. You end up scrubbing back and forth, wasting minutes, or even hours.
+Ever tried to find a specific moment in a long video? You might remember the scene vividly - a character gives a crucial speech, or there's a beautiful, silent shot of a landscape - but you can't remember the exact timestamp. You end up scrubbing back and forth, wasting minutes, or even hours.
 
 Traditional video search relies on titles, descriptions, and manual tags. It’s limited. It can't tell you what's *inside* the video.
 
@@ -119,4 +126,4 @@ This project was a fascinating journey into the world of multi-modal AI. It demo
 
 I want to extend a huge thank you to my mentor, @bwgartner, and the entire openSUSE community for their support and guidance throughout the summer. Participating in GSoC with openSUSE has been an invaluable learning experience.
 
-The days of aimless scrubbing may soon be behind us. If you're interested in trying it out or contributing, you can find the entire project on GitHub: https://github.com/AkashKumar7902/video-seach-engine.
+The days of aimless scrubbing may soon be behind us. If you're interested in trying it out or contributing, you can find the entire project on GitHub: <https://github.com/AkashKumar7902/video-seach-engine>.
