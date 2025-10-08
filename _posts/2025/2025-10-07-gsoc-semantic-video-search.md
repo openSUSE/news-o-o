@@ -1,7 +1,7 @@
 ---
 
 author: Akash Kumar
-date: 2025-10-08 10:00:00+02:00
+date: 2025-10-08 09:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/10/vidsearch.png
 license: CC-BY-SA-3.0
@@ -24,13 +24,13 @@ tags:
 
 ---
 
-Hello, openSUSE community! 
+Hello, [openSUSE](https://www.opensuse.org/) community! 
 
-My name is Akash Kumar, and I was a Google Summer of Code (GSoC) 2025 mentee with the openSUSE organization. This summer, I had the incredible opportunity to contribute to the project titled **"Create open source sample microservice workload deployments and interfaces."** The goal was to build a functional, open-source workload that could provide relevant analytics for a specific use case.
+My name is Akash Kumar, and I was a Google Summer of Code (GSoC) 2025 mentee with the openSUSE organization. This blog post highlights the project I developed during this mentorship program, which openSUSE and its mentors helped make possible. This summer, I had the incredible opportunity to contribute to the project titled **"Create open source sample microservice workload deployments and interfaces."** The goal was to build a functional, open-source workload that could provide relevant analytics for a specific use case.
 
 For my project, I chose to tackle a common but complex problem: searching for content *inside* a video. This blog post details the outcome of my GSoC project: a full, end-to-end semantic video search engine.
 
-### The Problem: Beyond Keywords
+### **The Problem: Beyond Keywords**
 
 Ever tried to find a specific moment in a long video? You might remember the scene vividly - a character gives a crucial speech, or there's a beautiful, silent shot of a landscape - but you can't remember the exact timestamp. You end up scrubbing back and forth, wasting minutes, or even hours.
 
@@ -38,7 +38,7 @@ Traditional video search relies on titles, descriptions, and manual tags. It’s
 
 As part of my GSoC deliverable, I set out to solve this. I wanted to build a system that lets you search through a video's content using natural language. I wanted to be able to ask, "find the scene where they discuss the secret plan in the warehouse," and get an instant result.
 
-### The Big Picture: A Two-Act Play
+### **The Big Picture: A Two-Act Play**
 
 The entire system is divided into two main parts:
 
@@ -47,7 +47,7 @@ The entire system is divided into two main parts:
 
 Let's walk through how it all works, step by step.
 
-### Part 1: The Ingestion Pipeline - Teaching the Machine to Watch TV
+### **Part 1: The Ingestion Pipeline - Teaching the Machine to Watch TV**
 
 This is where the magic begins. We take a single `.mp4` file and deconstruct it into a rich, multi-modal dataset.
 
@@ -98,7 +98,7 @@ The key innovation here is our **hybrid embedding** strategy. For each segment, 
 
 These embeddings are stored in ChromaDB. Now, the video is fully processed and ready to be searched.
 
-### Part 2: The Search Application - Reaping the Rewards
+### **Part 2: The Search Application - Reaping the Rewards**
 
 This is where all the offline work pays off. The application consists of a backend "brain" and a frontend "face."
 
@@ -115,7 +115,7 @@ The backend API is the engine of our search. When it receives a query, it follow
 
 The frontend is a simple, clean web interface built with Streamlit. It features a search bar, a video player, and a results area. When you click "Play" on a search result, it instantly jumps the video player to the exact start time of that segment. It's fast, intuitive, and incredibly satisfying to use.
 
-### The Final Result & GSoC Experience
+### **The Final Result & GSoC Experience**
 
 Imagine searching for "a tense negotiation in a warehouse." The system finds it in seconds because:
 *   The **Text Search** matches the dialogue about "the deal," "the money," and "the terms."
