@@ -1,7 +1,7 @@
 ---
 
 author: Akash Kumar
-date: 2025-10-08 10:00:00+02:00
+date: 2025-10-08 09:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/10/vidsearch.png
 license: CC-BY-SA-3.0
@@ -24,9 +24,9 @@ tags:
 
 ---
 
-Hello, openSUSE community! 
+Hello, [openSUSE](https://www.opensuse.org/) community! 
 
-My name is Akash Kumar, and I was a Google Summer of Code (GSoC) 2025 mentee with the openSUSE organization. This summer, I had the incredible opportunity to contribute to the project titled **"Create open source sample microservice workload deployments and interfaces."** The goal was to build a functional, open-source workload that could provide relevant analytics for a specific use case.
+My name is Akash Kumar, and I was a Google Summer of Code (GSoC) 2025 mentee with the openSUSE organization. This blog post highlights the project I developed during this mentorship program, which openSUSE and its mentors helped make possible. This summer, I had the incredible opportunity to contribute to the project titled **"Create open source sample microservice workload deployments and interfaces."** The goal was to build a functional, open-source workload that could provide relevant analytics for a specific use case.
 
 For my project, I chose to tackle a common but complex problem: searching for content *inside* a video. This blog post details the outcome of my GSoC project: a full, end-to-end semantic video search engine.
 
