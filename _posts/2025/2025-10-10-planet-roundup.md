@@ -58,7 +58,7 @@ KDE Blog highlights KDE Express episode 56, where David Marzal covers upcoming S
 
 
 ## [Kwlejka for Plasma. Simply a text area for your desktop](https://victorhckinthefreeworld.com/2025/10/08/kwlejka-para-plasma-simplemente-un-area-de-texto-para-tu-escritorio/)
-[Victorhck](https://victorhckinthefreewor) introduces Kwlejka, a minimalist KDE Plasma widget, that provides a simple text area on the desktop for storing, pasting, and reusing snippets without needing a dedicated text editor.
+[Victorhck](https://victorhckinthefreeworld.com) introduces Kwlejka, a minimalist KDE Plasma widget, that provides a simple text area on the desktop for storing, pasting, and reusing snippets without needing a dedicated text editor.
 
 
 ## [Unbricking an ESP8266 with esptool.py on Linux](https://cubiclenate.com/2025/10/08/unbricking-an-esp8266-with-esptool-py-on-linux/)
