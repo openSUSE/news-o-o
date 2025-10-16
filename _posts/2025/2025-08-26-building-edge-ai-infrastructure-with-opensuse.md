@@ -11,6 +11,7 @@ categories:
 - openSUSE
 - Edge Computing
 - AI Infrastructure
+- Google Summer of Code
 tags:
 - KVM
 - openSUSE
