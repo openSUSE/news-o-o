@@ -56,6 +56,6 @@ Bethencourt explained that compiling the information into a document might strea
 
 Stories like this illustrate Leap’s adaptability for diverse environments. With [Leap 16’s extended lifecycle](https://news.opensuse.org/2025/09/03/leap-16-doubles-support/) and enterprise-grade reliability, professionals can count on this distribution whether they are in the office, in transit or on-site with a client.
 
-Members of the openSUSE Project are trying to showcase how people use openSUSE or are planning to Leap. If you have a  use cases for Leap 16 that you want to share, comment on the [project’s mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/6EL3OTP7V7EKS5QZ35U6SSHY4Y6GCYJ7/).
+Members of the openSUSE Project are trying to showcase how people use openSUSE . If you have a  use cases for Leap 16 that you want to share, comment on the [project’s mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/6EL3OTP7V7EKS5QZ35U6SSHY4Y6GCYJ7/).
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux, secure operating systems, open source, Leap" content="HTML,CSS,XML,JavaScript">

@@ -45,7 +45,7 @@ The setup runs with x86_64 hardware, while a [Raspberry Pi 3](https://www.raspbe
 
 Stories like this highlight the use cases that will shape Leap 16’s rollout. The distribution, which bridges community-driven development and enterprise-grade readiness, is expected to serve an even wider range of scenarios. From IoT devices and lab environments to production servers and specialized hobbyist setups, Leap 16 marks the start of a new lifecycle plan for the distribution.
 
-Members of the openSUSE Project are trying to showcase how people use openSUSE or are planning to Leap. If you have a  use cases for Leap 16 that you want to share, comment on the [project’s mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/6EL3OTP7V7EKS5QZ35U6SSHY4Y6GCYJ7/).
+Members of the openSUSE Project are trying to showcase how people use openSUSE . If you have a  use cases for Leap 16 that you want to share, comment on the [project’s mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/6EL3OTP7V7EKS5QZ35U6SSHY4Y6GCYJ7/).
 
 People can leave feedback on [survey.opensuse.org](https://survey.opensuse.org/) regarding the release of Leap 16.
 
