@@ -10,6 +10,7 @@ badge: Community Contribution
 categories:
 - openSUSE
 - AI
+- Google Summer of Code
 tags:
 - gsoc
 - gsoc2025
