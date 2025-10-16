@@ -1,0 +1,18 @@
+---
+layout: page
+title: Categories
+permalink: /category/
+---
+
+<div class="category-list">
+  <ul>
+    {% for cat in site.categories %}
+      {% assign cat_name = cat | first %}
+      <li>
+        <a href="{{ site.url }}/category/{{ cat_name | slugify }}/">
+          {{ cat_name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
