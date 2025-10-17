@@ -35,7 +35,7 @@ This is a roundup of articles from the openSUSE community listed on [planet.open
 The below featured highlights listed on the community’s blog feed aggregator are from October 11 to 17. 
 
 
-The week’s Planet highlights an install party at the University of Valencia, KDE Apps of the week, KDE turns 29,and more.
+The week’s Planet highlights an install party at the University of Valencia, KDE Apps of the week, KDE turns 29 and more.
 
 
 **Here is a summary and links for each post:**
