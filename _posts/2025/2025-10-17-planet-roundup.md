@@ -51,7 +51,7 @@ The [KDE Blog](https://www.kdeblog.com/) announces an upcoming install party at 
 The [KDE Blog](https://www.kdeblog.com/)  covers recent KDE app updates, which includes Matrix app NeoChat and social media app Tokodon. The blog also covers enhancements in Dolphin, Kate, Konsole and more.
 
 ## [KDE turns 29](https://victorhckinthefreeworld.com/2025/10/14/kde-cumple-29-anos/)
-[Victorhck](https://victorhckinthefreewor) and [Baltolkien](https://www.kdeblog.com/author/balta) both highlight the  [KDE's 29th anniversary and congratulate to the entire community](https://www.kdeblog.com/29-aniversario-de-kde-felicidades-a-toda-la-comunidad.html) on its journey from the “Kool Desktop Environment” to a thriving global community of developers and users.
+[Victorhck](https://victorhckinthefreeworld.com) and [Baltolkien](https://www.kdeblog.com/author/balta) both highlight the  [KDE's 29th anniversary and congratulate to the entire community](https://www.kdeblog.com/29-aniversario-de-kde-felicidades-a-toda-la-comunidad.html) on its journey from the “Kool Desktop Environment” to a thriving global community of developers and users.
 
 ## [Home-made Berliner Currywurst](https://vizzzion.org/blog/2025/10/home-made-berliner-currywurst/)
 Perhaps in good taste, [Sebastian Kügler](https://vizzzion.org/blog/) shares his recipe for Berlin-style Currywurst, which adds some chili powder to the Linux flavors people can consume on the blog aggregator.
@@ -76,6 +76,9 @@ The [KDE Blog](https://www.kdeblog.com/) covers the second bugfix release of KDE
 
 ## [A lot of stability work for Plasma 6.5 – This Week in Plasma](https://www.kdeblog.com/una-gran-cantidad-de-trabajo-de-estabilidad-para-plasma-6-5-esta-semana-en-plasma.html)
 The [KDE Blog](https://www.kdeblog.com/) highlights improvements in Plasma 6.5. It shows where Plasma 6.6.0 is moving with the Breeze icon theme “Send” icon. It also points out fixes with KWin and the fixing of issues that bled apps using XWayland on some screens.
+                                                        
+## [Tumbleweed – Review of the week 2025/42](https://dominique.leuenberger.net/blog/2025/10/tumbleweed-review-of-the-week-2025-42/)
+And last but not least, a new weekly review by [Dominique Leuenberger](https://dominique.leuenberger.net) and [Victorhck](https://victorhckinthefreeworld.com/2025/10/17/opensuse-tumbleweed-revision-de-la-semana-42-de-2025/) in Spanish, detailing the news that has arrived at the openSUSE Tumbleweed repositories in the last week.
 
 View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
 
