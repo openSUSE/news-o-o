@@ -10,11 +10,14 @@ categories:
 - Announcements
 - openSUSE
 - Tumbleweed
+- Raspberry Pi
+- ARM
 tags:
 - openSUSE
 - Tumbleweed
 - rolling release
-- arm
+- Raspberry Pi 5
+- ARM
 - kernel
 
 ---
@@ -93,7 +96,6 @@ We also brought a smile to the face of **Tomáš**, one of last weekend’s [ope
 The quiz application, widely used by the openSUSE Booth crew around the world, now features an “openSUSE Arm” section that helps participants learn more about openSUSE’s [Arm efforts](https://en.opensuse.org/Portal:Arm).
 
 Stay tuned and keep watching our [Raspberry Pi 5 Hardware Compatibility page](https://en.opensuse.org/HCL:Raspberry_Pi5).
-
 We will share more updates once USB boot and PCIe are fully functional on the Raspberry Pi 5.
 
 <meta name="openSUSE, Tumbleweed, rolling release, kernel, SUSE, arm" content="HTML,CSS,XML,JavaScript">
