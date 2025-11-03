@@ -85,7 +85,7 @@ With SUSE’s hardware enablement work, you can now get the **full openSUSE expe
 
 ## Time to celebrate
 
-![rpi5winner](/wp-content/uploads/2025/11/rpi5winner.jpg)
+![rpi5winner](/wp-content/uploads/2025/11/rpi5winner.png)
 
 To celebrate the hard work of the SUSE Hardware Enablement team, we have sent Raspberry Pi 5 starter kits and Debug Probes to our friends **Dale from [LowTechLinux](https://www.youtube.com/c/LowTechLinux)** and **Liam from [The Register](https://www.theregister.com/)** to share their first impressions with the community.
 
@@ -93,6 +93,7 @@ We also brought a smile to the face of **Tomáš**, one of last weekend’s [ope
 The quiz application, widely used by the openSUSE Booth crew around the world, now features an “openSUSE Arm” section that helps participants learn more about openSUSE’s [Arm efforts](https://en.opensuse.org/Portal:Arm).
 
 Stay tuned and keep watching our [Raspberry Pi 5 Hardware Compatibility page](https://en.opensuse.org/HCL:Raspberry_Pi5).
+
 We will share more updates once USB boot and PCIe are fully functional on the Raspberry Pi 5.
 
 <meta name="openSUSE, Tumbleweed, rolling release, kernel, SUSE, arm" content="HTML,CSS,XML,JavaScript">
