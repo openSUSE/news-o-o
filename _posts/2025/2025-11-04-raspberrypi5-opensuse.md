@@ -1,6 +1,6 @@
 ---
 
-author: Ivan Ivanov
+author: Ivan Ivanov and Lubos Kocman
 date: 2025-11-04 07:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/11/rpi5.png
