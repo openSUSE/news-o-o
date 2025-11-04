@@ -139,7 +139,7 @@ sudo reboot
 If your RPi 5 seems to hang at the U-Boot stage when testing images, you are
 not alone. This is a known issue being tracked under:
 
-[boo#1251192](https://bugzilla.opensuse.org/show_bug.cgi?id=1250991).
+[boo#1251192](https://bugzilla.opensuse.org/show_bug.cgi?id=1250992).
 
 This is a **temporary workaround**, and the issue is expected to be resolved soon.
 
