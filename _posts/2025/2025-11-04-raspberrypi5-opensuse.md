@@ -28,7 +28,7 @@ It is finally happening. [Raspberry Pi 5](https://en.opensuse.org/HCL:Raspberry_
 support in openSUSE Tumbleweed.
 
 This is thanks to the hard work of many parties like SUSE Hardware Enablement team,
-RaspberryPi, [Ideas on Board](https://ideasonboard.com/), [Linaro](https://www.linaro.org/), and many other engineers, along with Linux
+[RaspberryPi](https://www.raspberrypi.com/), [Ideas on Board](https://ideasonboard.com/), [Linaro](https://www.linaro.org/), and many other engineers, along with Linux
 and [U-Boot](https://u-boot.org/) subsystem maintainers who were patient enough to review our patches.
 
 I am sure many are wondering why it is taking so long to enable Raspberry Pi 5-based
@@ -68,6 +68,8 @@ controller's internals, adding support for it to U-Boot and the Linux kernel
 was relatively easy.
 
 [Initial U-Boot support for bcm2712 SD controller](https://lore.kernel.org/u-boot/20240123080819.13625-6-iivanov@suse.de/)
+
+[Add minimal boot support for Raspberry Pi 5] (https://lore.kernel.org/linux-arm-kernel/cover.1716899600.git.andrea.porta@suse.com/)
 
 This led people to [**think**](https://forums.opensuse.org/t/booting-microos-on-raspberry-pi-5-sd-card/171805)
 that openSUSE was ready to run on this device.
@@ -139,7 +141,7 @@ sudo reboot
 If your RPi 5 seems to hang at the U-Boot stage when testing images, you are
 not alone. This is a known issue being tracked under:
 
-[boo#1251192](https://bugzilla.opensuse.org/show_bug.cgi?id=1250992).
+[boo#1250991](https://bugzilla.opensuse.org/show_bug.cgi?id=1250991).
 
 This is a **temporary workaround**, and the issue is expected to be resolved soon.
 
