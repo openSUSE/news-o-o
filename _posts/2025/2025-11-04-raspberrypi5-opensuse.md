@@ -187,7 +187,7 @@ With SUSE’s hardware enablement work, you can now get the **full openSUSE expe
 
 ## Time to celebrate
 
-![rpi5winner](/wp-content/uploads/2025/11/rpi5winner.jpg)
+![rpi5winner](/wp-content/uploads/2025/11/rpi5winner.png)
 
 To celebrate the hard work of the SUSE Hardware Enablement team, we have sent Raspberry Pi 5 starter kits and Debug Probes to our friends **Dale from [LowTechLinux](https://www.youtube.com/c/LowTechLinux)** and **Liam from [The Register](https://www.theregister.com/)** to share their first impressions with the community.
 
