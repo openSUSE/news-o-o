@@ -29,6 +29,7 @@ It is finally happening. Raspberry Pi 5 users can now look forward to proper **U
 Many Raspberry Pi 5 users have been [eagerly waiting](https://forums.opensuse.org/t/booting-microos-on-raspberry-pi-5-sd-card/171805) for upstream U-Boot support for their boards.
 
 We are happy to share that the SUSE Hardware Enablement team has made great progress on this front.
+
 **Ivan Ivanov**, who did the [initial U-Boot work for the Pi 5](https://lore.kernel.org/all/20231218210341.30073-1-iivanov@suse.de/), teamed up with **Matthias Brugger** and the rest of the team to move things forward.
 
 We would also like to highlight the ongoing efforts from **Andrea della Porta** and **Stanimir Varbanov**, who are doing amazing work upstreaming various device drivers.
@@ -54,17 +55,16 @@ sudo reboot
 
 If your Pi 5 seems to hang at the U-Boot stage when testing images, you are not alone. This is a known issue being tracked under [boo#1250991](https://bugzilla.opensuse.org/show_bug.cgi?id=1250991).
 
-For now, users should use a **[Raspberry Pi Debug Probe](https://www.amazon.com/Raspberry-Pi-Debug-Probe/dp/B0C36HXMCB)** (around **10 EUR**) to access the serial console and get past the U-Boot stage.
-This is a **temporary workaround**, and the issue is expected to be resolved soon as PCIe and related fixes are completed upstream.
+For now, users should use a **[Raspberry Pi Debug Probe](https://www.amazon.com/Raspberry-Pi-Debug-Probe/dp/B0C36HXMCB)** (around **10 EUR**) to access the serial console and get past the U-Boot stage. This is a **temporary workaround**, and the issue is expected to be resolved soon as PCIe and related fixes are completed upstream.
 
 Using the Debug Probe will save you a lot of time and frustration while experimenting with openSUSE on your Pi 5. It is also a handy tool to keep around for future embedded projects.
 
 ## What images should I try
 
-You can now run most Raspberry Pi 4 compatible [Tumbleweed appliance images](https://download.opensuse.org/ports/aarch64/tumbleweed/appliances/) or **MicroOS** if you prefer the immutable variant on your Raspberry Pi 5.
-openSUSE Leap and Leap Micro are currently out of scope for the effort, but are expected to gain full support in their next releases (16.1 and 6.3 released in late 2026).
+You can now run most Raspberry Pi 4 compatible [Tumbleweed appliance images](https://download.opensuse.org/ports/aarch64/tumbleweed/appliances/) or **MicroOS** if you prefer the immutable variant on your Raspberry Pi 5. Leap and Leap Micro are currently out of scope for the effort, but are expected to gain full support in their next releases (16.1 and 6.3 released in late 2026).
 
 Before you begin, make sure that you have the **Debug Probe** connected.
+
 Then write one of the Raspberry Pi images from
 [openSUSE Tumbleweed appliances](https://download.opensuse.org/ports/aarch64/tumbleweed/appliances/) to your microSD card, and you should be ready to go.
 
@@ -77,7 +77,8 @@ xzcat image.aarch64.raw.xz | dd of=/dev/sda bs=1M status=progress conv=fsync; sy
 You can also explore additional community and experimental images in
 [devel:ARM:Factory:Contrib:RPi5 project](https://build.opensuse.org/project/show/devel:ARM:Factory:Contrib:RPi5).
 
-If you run into any issues, we highly recommend reaching out on the [openSUSE Arm matrix channel](https://matrix.to/#/#arm:opensuse.org) or [subscribing](https://lists.opensuse.org/manage/lists/arm.lists.opensuse.org/) to the [openSUSE Arm mailing list](https://lists.opensuse.org/archives/list/arm@lists.opensuse.org). Alternatively, you’re welcome to use [forums.opensuse.org](https://forums.opensuse.org/) for general openSUSE questions.
+If you run into any issues, we highly recommend reaching out on the [openSUSE Arm matrix channel](https://matrix.to/#/#arm:opensuse.org) or [subscribing](https://lists.opensuse.org/manage/lists/arm.lists.opensuse.org/) to the [openSUSE Arm mailing list](https://lists.opensuse.org/archives/list/arm@lists.opensuse.org). Alternatively, you’re welcome to use [forums.opensuse.org](https://forums.opensuse.org/) for general openSUSE-related questions.
+
 For general ARM information, visit the [openSUSE ARM Portal](https://en.opensuse.org/Portal:Arm).
 
 ## Why run openSUSE on your RPi 5
@@ -96,6 +97,7 @@ We also brought a smile to the face of **Tomáš**, one of last weekend’s [ope
 The quiz application, widely used by the openSUSE Booth crew around the world, now features an “openSUSE Arm” section that helps participants learn more about openSUSE’s [Arm efforts](https://en.opensuse.org/Portal:Arm).
 
 Stay tuned and keep watching our [Raspberry Pi 5 Hardware Compatibility page](https://en.opensuse.org/HCL:Raspberry_Pi5).
+
 We will share more updates once USB boot and PCIe are fully functional on the Raspberry Pi 5.
 
 <meta name="openSUSE, Tumbleweed, rolling release, kernel, SUSE, arm" content="HTML,CSS,XML,JavaScript">
