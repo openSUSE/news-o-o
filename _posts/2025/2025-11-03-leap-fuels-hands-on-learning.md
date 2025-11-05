@@ -56,6 +56,6 @@ Stories like this highlight a common overlooked use case; continuous learning! A
 
 Members of the openSUSE Project are trying to showcase how people use openSUSE . If you have a  use cases for Leap 16 that you want to share, comment on the [project’s mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/6EL3OTP7V7EKS5QZ35U6SSHY4Y6GCYJ7/).
 
-Leap is built using the SUSE Linux Enterprise Server (SLE) sources and binaries. Its enterprise-grade stability sets it apart from typical community Linux distros. Leap 16.0 has an extended 24-month support period.
+Leap is built using the [SUSE Linux Enterprise Server (SLE)](https://www.suse.com/products/server/) sources and binaries. Its enterprise-grade stability sets it apart from typical community Linux distros. Leap 16.0 has an extended 24-month support period.
 
 <meta name="openSUSE, Open Source, development, Windows 10 end of support, Linux, secure operating systems, open source, Leap, Rancher, RKE2, k3s, Boxes, KVM, Longhorn" content="HTML,CSS,XML,JavaScript">
