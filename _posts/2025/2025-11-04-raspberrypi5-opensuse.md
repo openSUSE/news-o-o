@@ -5,7 +5,7 @@ date: 2025-11-04 07:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/11/rpi5.png
 license: CC-BY-SA-3.0
-title: SUSE Powers Up Raspberry Pi 5
+title: SUSE delivers Raspberry Pi 5 support
 categories:
 - Announcements
 - openSUSE
@@ -22,7 +22,7 @@ tags:
 
 ---
 
-# SUSE delivers Raspberry Pi 5 support
+SUSE delivers Raspberry Pi 5 support
 
 It is finally happening. [Raspberry Pi 5](https://en.opensuse.org/HCL:Raspberry_Pi5) users can now look forward to proper
 support in openSUSE Tumbleweed.
