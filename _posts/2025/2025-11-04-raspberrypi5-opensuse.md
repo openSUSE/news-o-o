@@ -5,7 +5,7 @@ date: 2025-11-04 07:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/11/rpi5.png
 license: CC-BY-SA-3.0
-title: SUSE delivers Raspberry Pi 5 U-Boot support
+title: SUSE Powers Up Raspberry Pi 5
 categories:
 - Announcements
 - openSUSE
