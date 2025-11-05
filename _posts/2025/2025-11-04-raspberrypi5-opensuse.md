@@ -27,7 +27,7 @@ tags:
 It is finally happening. [Raspberry Pi 5](https://en.opensuse.org/HCL:Raspberry_Pi5) users can now look forward to proper
 support in openSUSE Tumbleweed.
 
-This is thanks to the hard work of many parties like SUSE Hardware Enablement team,
+**And it is not just about U-Boot, it is so much more.** This is thanks to the hard work of many parties like SUSE Hardware Enablement team,
 [RaspberryPi](https://www.raspberrypi.com/), [Ideas on Board](https://ideasonboard.com/), [Linaro](https://www.linaro.org/), and many other engineers, along with Linux
 and [U-Boot](https://u-boot.org/) subsystem maintainers who were patient enough to review our patches.
 
