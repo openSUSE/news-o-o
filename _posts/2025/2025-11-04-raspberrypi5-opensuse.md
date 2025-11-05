@@ -69,7 +69,7 @@ was relatively easy.
 
 [Initial U-Boot support for bcm2712 SD controller](https://lore.kernel.org/u-boot/20240123080819.13625-6-iivanov@suse.de/)
 
-[Add minimal boot support for Raspberry Pi 5] (https://lore.kernel.org/linux-arm-kernel/cover.1716899600.git.andrea.porta@suse.com/)
+[Add minimal boot support for Raspberry Pi 5](https://lore.kernel.org/linux-arm-kernel/cover.1716899600.git.andrea.porta@suse.com/)
 
 This led people to [**think**](https://forums.opensuse.org/t/booting-microos-on-raspberry-pi-5-sd-card/171805)
 that openSUSE was ready to run on this device.
