@@ -122,6 +122,14 @@ What you should expect to be working once booted into Tumbleweed:
 * HDMI
 * ...
 
+## What is coming
+
+Hopefully U-Boot will soon gain support for BCM2712 PCIe root complex
+controller. This will bring in ability device to boot from disk. Fixes
+for Ethernet controller are also on it is way.
+
+[Improve Raspberry Pi 5 support](https://lore.kernel.org/u-boot/20251010161442.410C4227AAE@verein.lst.de/)
+
 ## Before you start
 
 Before diving into your openSUSE on Raspberry Pi 5 adventure, make sure your
@@ -141,7 +149,7 @@ sudo reboot
 If your RPi 5 seems to hang at the U-Boot stage when testing images, you are
 not alone. This is a known issue being tracked under:
 
-[boo#1250991](https://bugzilla.opensuse.org/show_bug.cgi?id=1250991).
+[boo#1250992](https://bugzilla.opensuse.org/show_bug.cgi?id=1251192).
 
 This is a **temporary workaround**, and the issue is expected to be resolved soon.
 
