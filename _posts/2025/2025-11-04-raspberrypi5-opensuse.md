@@ -130,6 +130,10 @@ for Ethernet controller are also on it is way.
 
 [Improve Raspberry Pi 5 support](https://lore.kernel.org/u-boot/20251010161442.410C4227AAE@verein.lst.de/)
 
+As USB is connected through the RP1 on the PCIe bus we don't support USB in U-Boot for now.
+This means you can't use your USB keyboard in U-Boot or Grub2, as Grub uses the EFI implementation from U-boot.
+Please be patient.
+
 ## Before you start
 
 Before diving into your openSUSE on Raspberry Pi 5 adventure, make sure your
@@ -153,9 +157,7 @@ not alone. This is a known issue being tracked under:
 
 This is a **temporary workaround**, and the issue is expected to be resolved soon.
 
-Using the Debug Probe will save you a lot of time and frustration while
-experimenting with openSUSE on your RPi 5. It is also a handy tool to keep
-around for future embedded projects.
+Using the [Debug Probe](https://www.raspberrypi.com/documentation/microcontrollers/debug-probe.html) will save you a lot of time and frustration while experimenting with openSUSE on your RPi 5. It is also a handy tool to keep around for future embedded projects.
 
 ## Really short list of RPi 5 related patches.
 
