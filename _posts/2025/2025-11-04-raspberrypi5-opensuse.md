@@ -29,10 +29,10 @@ support in openSUSE Tumbleweed.
 
 **And it is not just about U-Boot, it is so much more.** This is thanks to the hard work of many parties like SUSE Hardware Enablement team,
 [RaspberryPi](https://www.raspberrypi.com/), [Ideas on Board](https://ideasonboard.com/), [Linaro](https://www.linaro.org/), and many other engineers, along with Linux
-and [U-Boot](https://u-boot.org/) subsystem maintainers who were patient enough to review our patches.
+and [U-Boot](https://u-boot.org/) subsystem maintainers and many other engineers were patient enough to review our patches.
 
-I am sure many are wondering why it is taking so long to enable Raspberry Pi 5-based
-devices to work on anything other than Raspberry Pi OS.
+Many maybe wondering why it is taking so long to enable Raspberry Pi 5-based
+devices to work on anything other than Raspberry Pi OS; they no longer need to wonder.
 
 ## About the boot process
 
