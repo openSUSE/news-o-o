@@ -1,4 +1,5 @@
 ---
+
 author: Douglas DeMaio 
 date: 2025-14-07 14:00:00+01:00
 layout: post
@@ -20,7 +21,8 @@ tags:
 - Plasma
 - Security
 - Spain
-- grub2-bls
+- grub
+- bls
 - Fedora
 - YaST
 - lightdm
