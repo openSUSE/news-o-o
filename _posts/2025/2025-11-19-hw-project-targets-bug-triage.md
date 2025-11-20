@@ -37,7 +37,6 @@ The project may design the AI tool to highlight what matters rather than change 
 Core benefits that could emerge from the prototype is a daily bug debriefing that offers an automated overview of issues, relevant change alerts, which should reduce noise of resurfacing activity, and provide a follow-up feature that helps developers realize the next steps.
 
 Time constraints to develop the project during Hack Week and AI accuracy remain notable risks, but a prototype could provide a meaningful step toward modernizing bug triage for openSUSE and the open-source ecosystem.
-.
 
 Hack Week, which began in 2007, has become a cornerstone of the project’s open-source culture. Hack Week has produced tools that are now integral to the openSUSE ecosystem, such as [openQA](https://open.qa/), [Weblate](https://weblate.org/) and [Aeon Desktop](https://aeondesktop.github.io/). Hack Week has also seeded projects that later grew into widely used products; the origins of [ownCloud](https://owncloud.com/) and its fork [Nextcloud](https://nextcloud.com/) derive from a Hack Week project started more than a decade ago.
 
