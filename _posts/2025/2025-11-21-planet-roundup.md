@@ -23,7 +23,7 @@ tags:
 - Spain
 - Hack Week
 - AI
-= Bugzilla
+- Bugzilla
 
 ---
 
@@ -90,6 +90,5 @@ The [KDE Blog](https://www.kdeblog.com/) announces the release of KDE Frameworks
 The [KDE Blog](https://www.kdeblog.com/) covers how [Spectacle](https://apps.kde.org/spectacle/) gains built-in Optical Character Recognition functionality to let users select and copy text directly from images or screenshots. Multiple user interface enhancements were made including improved theming for GTK 4 apps, better portal-based permission dialogs, and refinements to system tray and timer widget settings.   
 
 View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
-
 
 <meta name="openSUSE, Open Source, development, Linux, secure operating systems, open source, plasma, hackweek, AI, Bugzilla" content="HTML,CSS,XML,JavaScript">
