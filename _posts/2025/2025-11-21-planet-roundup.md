@@ -42,6 +42,11 @@ Blog posts this week highlight a wide range of community activity to KDE Plasma 
 
 **Here is a summary and links for each post:**
 
+## [CyberLadies Empower Women With openSUSE Leap 16](https://www.suse.com/c/cyberladies-empower-women-with-opensuse-leap-16/)
+
+CyberLadies z.s. organized a full-day workshop in Prague to introduce women to Linux installation, desktop use, and open-source alternatives. Zuzana Pechová, who organized it, chose openSUSE [Leap 16](https://get.opensuse.org/leap/) for its ease of installation and European roots. The event not only empowered participants but also provided feedback that contributed to improvements in openSUSE and inspires a greater focus on digital sovereignty.
+
+
 
 ## [12 months instead of 12 minutes](https://blog.jimmac.eu/2025/3D-Website/)  
 [Jimmac](https://blog.jimmac.eu) shares the story behind the creation of the GNOME website's distinctive 3D laptop hero image, which is a design crafted over the course of a year rather than generated quickly by AI. This labor-intensive, iteration-focused approach highlights a commitment to thoughtful design and craft in an era increasingly dominated by automated content generation and quick fixes.   
