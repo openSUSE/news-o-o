@@ -4,7 +4,7 @@ date: 2025-11-26 08:00:00+01:00
 layout: post
 image: /wp-content/uploads/2025/10/hack.png
 license: CC-BY-SA-3.0
-title: Hack Week Project Streamlines Membership Management
+title: Hack Week Project Takes Aim at Streamlining Membership Management
 categories:
 - Announcements
 - openSUSE
