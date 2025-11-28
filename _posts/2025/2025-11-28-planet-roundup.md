@@ -40,7 +40,7 @@ Blog posts this week highlight a broad mix of desktop improvements, community ef
 **Here is a summary and links for each post:**
 
 
-## [Las mejoras en la accesibilidad de Plasma 6.5](https://www.kdeblog.com/las-mejoras-en-la-accesibilidad-de-plasma-6-5.html)  
+## [Most of the access to Plasma 6.5](https://www.kdeblog.com/las-mejoras-en-la-accesibilidad-de-plasma-6-5.html)  
 KDE Blog outlines accessibility improvements in Plasma 6.5 aimed at making the desktop more usable for visually or hearing-impaired users. Screen readers like Orca can now announce Caps Lock status and better describe keyboard shortcuts. Additional enhancements include flicker-free rendering to reduce photosensitivity risk, improved overall keyboard navigation across Plasma and more.  
 
 
