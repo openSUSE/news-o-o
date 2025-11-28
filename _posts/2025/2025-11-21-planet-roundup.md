@@ -34,9 +34,6 @@ This is a roundup of articles from the openSUSE community listed on [planet.open
 The below featured highlights listed on the community’s blog feed aggregator are from November 15 to 21. 
 
 
-Blog posts this week highlight KDE Plasma improvements, a translators’ meetup at LinuxDays, a new community-recognition app from Hack Week, a security advisory from the SUSE Security Team and more.
-
-
 Blog posts this week highlight a wide range of community activity to KDE Plasma gaining new features, the KDE Slimbook VII launch, a Hack Week project about AI-driven Bugzilla triage and another on implementing SSH in Zig—plus. Plus coverage on the new Agama 18 release.
 
 
@@ -92,7 +89,7 @@ The Agama 18 version was introduced in this blog from Nov. 17. Support for DASD 
 The [KDE Blog](https://www.kdeblog.com/) announces the release of KDE Frameworks 6.20. This maintenance release delivers numerous bug fixes, performance improvements, and behind-the-scenes enhancements across multiple frameworks. Key fixes include enhanced security in [KWallet](https://apps.kde.org/kwalletmanager5/) with modern session management, reduced crashes in image format plugins ([KImageFormats](https://github.com/KDE/kimageformats)) when handling malformed files, and improved User Interface consistency in [Kirigami](https://github.com/KDE/kirigami) for overlays and action toolbars. 
 
 ## [OCR en Spectacle y muchas mejoras en la interfaz de usuario – Esta semana en KDE Plasma](https://www.kdeblog.com/ocr-en-spectacle-y-muchas-mejoras-en-la-interfaz-de-usuario-esta-semana-en-plasma.html)  
-The [KDE Blog](https://www.kdeblog.com/) covers how [Spectacle](https://apps.kde.org/spectacle/) gains built-in Optical Character Recognition functionality to let users select and copy text directly from images or screenshots. Multiple user interface enhancements were made including improved theming for GTK 4 apps, better portal-based permission dialogs, and refinements to system tray and timer widget settings.   
+The [KDE Blog](https://www.kdeblog.com/) covers how [Spectacle](https://apps.kde.org/spectacle/) gains built-in Optical Character Recognition functionality to let users select and copy text directly from images or screenshots. Multiple user interface enhancements were made including improved theming for GTK 4 apps, better portal-based permission dialogs, and refinements to system tray and timer widget settings.
 
 View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
 
