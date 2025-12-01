@@ -6,6 +6,7 @@ layout: post
 image: /wp-content/uploads/2025/12/npu.png
 license: CC-BY-SA-3.0
 title: Intel NPU Driver Now Available in openSUSE Versions
+badge: Community Contribution
 categories:
 - openSUSE
 - Announcements
