@@ -119,8 +119,8 @@ SUSE reports on the fourth edition of Linux Mobile Hackday held in Prague on Nov
 [Victorhck](https://victorhckinthefreeworld.com) covers more than two weeks of Tumbleweed with key updates include Mesa 25.2.7/25.3.0, Linux kernel 6.17.8/6.17.9 (with efidrm and vesadrm enabled), KDE Plasma 6.5.3, Mozilla Firefox 145.0, GNOME 49.2, PipeWire 1.5.83, GStreamer 1.26.8, fwupd 2.0.17, and many core libraries like cURL, Freetype and Samba. 
 
 
-## [My Plasma Desktop – November 2025 #ViernesDeEscritorio](https://www.kdeblog.com/mi-escritorio-plasma-de-noviembre-2025-viernesdeescritorio.html)  
-The [KDE Blog](https://www.kdeblog.com/) showcases the author’s personal desktop setup using Plasma in November 2025, as part of their #ViernesDeEscritorio (“Friday Desktop”) series. The post highlights their choice of wallpaper, icon theme, plasmoids and overall layout.  
+## [My Plasma Desktop – November 2025 ViernesDeEscritorio](https://www.kdeblog.com/mi-escritorio-plasma-de-noviembre-2025-viernesdeescritorio.html)  
+The [KDE Blog](https://www.kdeblog.com/) showcases the author’s personal desktop setup using Plasma in November 2025, as part of their ViernesDeEscritorio (“Friday Desktop”) series. The post highlights their choice of wallpaper, icon theme, plasmoids and overall layout.  
 
 
 View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
