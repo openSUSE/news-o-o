@@ -50,4 +50,4 @@ The SUSE Labs Conference is a SUSE internal conference that has been organized b
 ## Place and date
 
 
-The openSUSE Conference and SUSE Labs Coference 2011 takes place in Nuremberg, Germany at Zentrifuge Nurenberg, from September 11 to September 14. Zentrifuge is an independent cultural center providing room for art and music performances and exibitions. This location gives the openSUSE Conference a culturally rich, creative environment, challenging visitors to bring their best!
+The openSUSE Conference and SUSE Labs Conference 2011 takes place in Nuremberg, Germany at Zentrifuge Nurenberg, from September 11 to September 14. Zentrifuge is an independent cultural center providing room for art and music performances and exibitions. This location gives the openSUSE Conference a culturally rich, creative environment, challenging visitors to bring their best!
