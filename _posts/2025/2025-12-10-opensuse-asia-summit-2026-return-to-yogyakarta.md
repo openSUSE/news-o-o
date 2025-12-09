@@ -1,9 +1,9 @@
 ---
 
 author: openSUSE Asia Summit Team
-date: 2025-12-10 00:30:00
+date: 2025-12-10 00:30:00+07:00
 layout: post
-image: /wp-content/uploads/2025/12/osas_2026_yogyakarta.jpg
+image: /wp-content/uploads/2025/12/yogyakarta.png
 title: openSUSE.Asia Summit returns to Yogyakarta, Indonesia!
 license: CC-BY-SA-3.0
 categories:
