@@ -7,7 +7,7 @@ title: openSUSE.Asia Summit 2021 Logo Competition Announcement
 image: /assets/images/oS-logo.png
 categories:
 - Announcements
-- Coference
+- Conference
 - Events
 - Summit
 tags:

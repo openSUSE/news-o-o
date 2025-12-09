@@ -7,7 +7,7 @@ title: openSUSE.Asia Summit 2023 Call For Papers
 image: /assets/images/2023-05-22/2023-CFP.png
 categories:
 - Announcements
-- Coference
+- Conference
 - Events
 - Summit
 tags:
