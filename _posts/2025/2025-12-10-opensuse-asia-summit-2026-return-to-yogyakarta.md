@@ -23,8 +23,8 @@ A decade has passed since Yogyakarta proudly hosted the first openSUSE.Asia Summ
 
 Indonesia has a special place in the history of the summit:
 
-- In 2016, Indonesia hosted its first openSUSE.Asia Summit in Yogyakarta
-- In 2019, the summit was successfully held again in Bali, offering a memorable community celebration
+- In 2016, Indonesia hosted its first [openSUSE.Asia Summit in Yogyakarta](https://events.opensuse.org/conferences/summitasia16)
+- In 2019, the summit was successfully held again in [Bali](https://events.opensuse.org/conferences/summitasia19), offering a memorable community celebration
 
 For a glimpse of the excitement from the 2016 summit in Yogyakarta, you can watch this short video recap on [Youtube](https://www.youtube.com/watch?v=V6Jxq23w3go)
 
