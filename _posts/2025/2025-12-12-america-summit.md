@@ -38,7 +38,7 @@ The program will focus on open-source software and people can register today.
 
 More details about the schedule, recommended lodging and travel information are expected to be announced in the coming weeks.
 
-###Envíe una Presentación para el openSUSE America Summit
+## Envíe una Presentación para el openSUSE America Summit
 
 Los organizadores del [openSUSE America Summit](https://events.opensuse.org/conferences/oSAMS26) han abierto oficialmente la convocatoria de presentaciones para el evento de 2026.
 
