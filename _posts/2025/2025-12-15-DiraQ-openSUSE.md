@@ -1,7 +1,7 @@
 ---
 
 author: Alessandro de Oliveira Faria
-date: 2025-12-02 00:30:00
+date: 2025-12-15 00:27:00
 layout: post
 image: /wp-content/uploads/2025/12/diraq.png
 license: CC-BY-SA-3.0
