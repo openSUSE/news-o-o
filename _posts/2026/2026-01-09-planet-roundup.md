@@ -100,7 +100,7 @@ The [KDE Blog](https://www.kdeblog.com/) announces that Akademy 2026—the annua
 
 
 ## openSUSE Tumbleweed Weekly Review – Week 1 of 2026
-[Victorhck](https://dominique.leuenberger.net/blog/2026/01/tumbleweed-review-of-the-week-2026-1/) and [dimstar](https://dominique.leuenberger.net/blog/2026/01/tumbleweed-review-of-the-week-2026-1/) summarize the first week of 2026 for openSUSE Tumbleweed. Key package updates include Python 3.13.11 (with CVE fixes), libgit2 1.9.2, Harfbuzz 12.3.0, NetworkManager 1.54.3, GStreamer 1.26.10, VLC 3.0.22/3.0.23, GPG 2.5.16, and upower 1.91.0. Upcoming releases in the pipeline feature SDL3 3.4.0, Ruby 4.0, transactional-update 6.0.1, and Shadow 4.19.0.
+[Victorhck](https://victorhckinthefreeworld.com/2026/01/03/opensuse-tumbleweed-revision-de-la-semana-1-de-2026/) and [dimstar](https://dominique.leuenberger.net/blog/2026/01/tumbleweed-review-of-the-week-2026-1/) summarize the first week of 2026 for openSUSE Tumbleweed. Key package updates include Python 3.13.11 (with CVE fixes), libgit2 1.9.2, Harfbuzz 12.3.0, NetworkManager 1.54.3, GStreamer 1.26.10, VLC 3.0.22/3.0.23, GPG 2.5.16, and upower 1.91.0. Upcoming releases in the pipeline feature SDL3 3.4.0, Ruby 4.0, transactional-update 6.0.1, and Shadow 4.19.0.
 
 
 ## [New Year, New Accessibility Features: This Week in Plasma](https://www.kdeblog.com/2026/01/03/ano-nuevo-nuevas-funciones-de-accesibilidad-esta-semana-en-plasma/)
