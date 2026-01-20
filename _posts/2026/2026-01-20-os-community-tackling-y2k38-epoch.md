@@ -1,9 +1,9 @@
 ---
 
 author: Douglas DeMaio
-date: 2026-01-20 11:00:00+01:00
+date: 2026-01-20 07:00:00+01:00
 layout: post
-image: /wp-content/uploads/2026/01/y2k38.png
+image: /wp-content/uploads/2026/01/epoch.png
 license: CC-BY-SA-3.0
 title: Open-Source Community Tackling Y2K38 Epoch
 categories:
@@ -17,13 +17,11 @@ tags:
 - Community
 - FDL
 - Y2K38
-- 2038 Problem
 - 32-bit
 - 64-bit
 - Time
 - Integer
 - January 19
-- 2038
 - Leap
 - Tumbleweed
 - Developers
