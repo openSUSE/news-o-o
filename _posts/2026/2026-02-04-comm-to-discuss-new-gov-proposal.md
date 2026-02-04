@@ -5,7 +5,7 @@ date: 2026-02-04 17:00:00+01:00
 layout: post
 image: /wp-content/uploads/2025/02/tw.png
 license: CC-BY-SA-3.0
-title: Governance Proposal Sparks Community Meeting
+title: Community to Discuss New Governance Proposal
 categories:
 - Announcements
 - openSUSE
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-Members of the [openSUSE community](https://www.opensuse.org/) will have a virtual meeting on Feb. 18 at 3:30 p.m. UTC to discuss a proposed governance framework aimed at clarifying decision-making processes within the project community.
+Members of the [openSUSE community](https://www.opensuse.org/) will have a virtual meeting on [Feb. 18 at 3:30 p.m. UTC](https://calendar.opensuse.org/teams/marketing/events/governance-proposal-virtual-meeting) to discuss a proposed governance framework aimed at clarifying decision-making processes within the project community.
 
 The meeting, accessible on the project’s [Jitsi channel](https://meet.opensuse.org/meeting), follows a recent draft proposal that outlines structural changes to how the project manages technical and community decisions.
 
@@ -51,7 +51,7 @@ The draft explicitly states nothing takes effect without community discussion an
 - Transition Process: What criteria should determine voter eligibility and election procedures during the proposed six-month interim period before formal elections?
 - Conflict Resolution: Are the proposed escalation paths clear and fair for resolving technical disputes and community issues across different project areas?
 
-Contributors can [review the proposal](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/YKI5QVMT66WMZLOPTCQOEQZPTEWPDIBV/) and comment on the [mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/YKI5QVMT66WMZLOPTCQOEQZPTEWPDIBV/https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/YKI5QVMT66WMZLOPTCQOEQZPTEWPDIBV/) to engage with the community about the topic.
+Contributors can [review the proposal](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/YKI5QVMT66WMZLOPTCQOEQZPTEWPDIBV/) and comment on the [mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/YKI5QVMT66WMZLOPTCQOEQZPTEWPDIBV/https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/YKI5QVMT66WMZLOPTCQOEQZPTEWPDIBV/) to engage with the community about the topic. Those who are not able to attend the meeting can also engage with the meeting by listing any issues they would like for those who attend to discuss on the [etherpad](https://etherpad.opensuse.org/p/ngpmeetup) designated for the meeting. 
 
 
 <meta name="openSUSE, community, board, governance, framework, committee, tech, steering, legal, financial" content="HTML,CSS,XML,JavaScript">
