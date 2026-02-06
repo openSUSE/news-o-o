@@ -49,7 +49,7 @@ The [Open Build Service](ttps://openbuildservice.org) (OBS) team describes impro
 
 
 ## [Logitech M720: The Ultimate Bluetooth Productivity Mouse](https://cubiclenate.com/2026/02/04/logitech-m720-ultimate-bluetooth-productivity-mouse/)
-[Cubiclenate]((https://cubiclenate.com) highlights Logitech M720 Triathlon as his best mouse ever. The mouse features four programmable side buttons, including a hidden thumb button he uses with a clipboard manager, and integrates well with KDE Plasma for button customization and battery monitoring. He praises its comfortable shape, bonus buttons, and reliable Bluetooth connection that suit Linux and other systems alike.
+[Cubiclenate](https://cubiclenate.com) highlights Logitech M720 Triathlon as his best mouse ever. The mouse features four programmable side buttons, including a hidden thumb button he uses with a clipboard manager, and integrates well with KDE Plasma for button customization and battery monitoring. He praises its comfortable shape, bonus buttons, and reliable Bluetooth connection that suit Linux and other systems alike.
 
 
 ## [openSUSE Board to Discuss New Governance Proposal](https://news.opensuse.org/2026/02/04/comm-to-discuss-new-gov-proposal/)
