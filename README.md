@@ -50,9 +50,8 @@ Before publishing, you can preview the post at <https://news-o-o-preview.netlify
 
 ## How to build?
 
-In order to run ``bundle`` the two following addional packages are needed: ``'rubygem(bundler)' ruby-devel``.
 ```bash
-sudo zypper in ruby-devel 'rubygem(bundler)'
+sudo zypper in ruby-devel 'rubygem(bundler)' gcc-c++ make
 rm -f Gemfile.lock # on dev machine, don't push local changes to this file!
 bundle install --path vendor/bundle
 bundle exec jekyll build
