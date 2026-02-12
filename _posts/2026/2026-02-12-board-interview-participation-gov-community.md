@@ -24,7 +24,7 @@ tags:
 
 ---
 
-With the 2026 [openSUSE community](https://www.opensuse.org/) [Board](https://en.opensuse.org/openSUSE:Board) elections coming up, Ish Sookun, Jeff Mahoney and Rachel Schrader are the  board members elected last election and having another year in the role. We sat down with them and asked them some questions.  
+With the 2026 [openSUSE community](https://www.opensuse.org/) [Board](https://en.opensuse.org/openSUSE:Board) elections coming up, [Ish Sookun](https://en.opensuse.org/User:Ishwon), [Jeff Mahoney](https://en.opensuse.org/User:Jeff_mahoney) and [Rachel Schrader](https://en.opensuse.org/User:ComradeRachel) are the  board members elected last election and having another year in the role. We sat down with them and asked them some questions.  
 
 **1. What does the Board do?** 
 
