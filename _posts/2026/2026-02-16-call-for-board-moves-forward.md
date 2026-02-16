@@ -24,7 +24,7 @@ tags:
 
 ---
 
-The [openSUSE Project[(https://www.opensuse.org/) has opened nominations for its regular [Board Election](https://en.opensuse.org/openSUSE:Board_election) and voting is scheduled to begin March 1.
+The [openSUSE Project](https://www.opensuse.org/) has [opened nominations and candidacy](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/MVYPHOGGKS3EPPR45EDGLY65CXM74WPB/) for its regular [Board Election](https://en.opensuse.org/openSUSE:Board_election) and voting is scheduled to begin March 1.
 
 After a delay to clean up the membership database, the Election Committee confirmed the process is back on track. Project members will choose candidates to fill two open seats on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board). 
 
