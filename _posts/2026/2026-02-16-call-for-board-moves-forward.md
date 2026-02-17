@@ -1,9 +1,9 @@
 ---
 
-author: Douglas DeMaio 
+author: Douglas DeMaio
 date: 2026-02-16 08:00:00+01:00
 layout: post
-image: /wp-content/uploads/2026/02/elect.png
+image: /wp-content/uploads/2026/02/opensuse-board-election-2025-poster.jpeg
 license: CC-BY-SA-3.0
 title: Calls for Board Candidates Moves Forward
 categories:
@@ -17,7 +17,7 @@ tags:
 - Community
 - Members
 - Project
-- Linux 
+- Linux
 - Governance
 - Voting
 - Board
@@ -26,7 +26,7 @@ tags:
 
 The [openSUSE Project](https://www.opensuse.org/) has [opened nominations and candidacy](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/MVYPHOGGKS3EPPR45EDGLY65CXM74WPB/) for its regular [Board Election](https://en.opensuse.org/openSUSE:Board_election) and voting is scheduled to begin March 1.
 
-After a delay to clean up the membership database, the [Election Committee](https://en.opensuse.org/openSUSE:Board_election) confirmed the process is back on track. Project members will choose candidates to fill two open seats on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board). 
+After a delay to clean up the membership database, the [Election Committee](https://en.opensuse.org/openSUSE:Board_election) confirmed the process is back on track. Project members will choose candidates to fill two open seats on the [openSUSE Board](https://en.opensuse.org/openSUSE:Board).
 
 The two open seats are those currently filled by Shawn W. Dunn and Simon Lees.
 
