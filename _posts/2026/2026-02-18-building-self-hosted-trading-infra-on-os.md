@@ -118,7 +118,8 @@ COOLDOWN_SECONDS=3600
 
 A more aggressive configuration might look like:
 
-```TRADE_FRACTION=0.80
+```
+TRADE_FRACTION=0.80
 MIN_SOL_RESERVE=0.05
 RSI_BUY=30
 RSI_SELL=70
