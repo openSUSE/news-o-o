@@ -31,7 +31,7 @@ tags:
 
 ---
 
-The [openSUSE project](https://www.opensuse.org/) moved forward with a proposed governance structure following a [virtual meeting yesterday](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/NV542Q2NK2B7NTCF5M62YVCDAJDO7AIB/) that drew community members together for a discussion on advancing a leadership framework.
+The [openSUSE Project](https://www.opensuse.org/) moved forward with a proposed governance structure following a [virtual meeting yesterday](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/NV542Q2NK2B7NTCF5M62YVCDAJDO7AIB/) that drew community members together for a discussion on advancing a leadership framework.
 
 The session was productive with participants reviewing a draft proposal for governing bodies for the project; a Technical Steering Committee, a Community and Marketing Committee, representation of an Infrastructure Team and a [Board](https://en.opensuse.org/openSUSE:Board). 
 
