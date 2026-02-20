@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio 
-date: 2026-02-20 09:00:00+01:00
+date: 2026-02-20 08:00:00+01:00
 layout: post
 image: /wp-content/uploads/2025/07/planet.png
 license: CC-BY-SA-3.0
@@ -148,4 +148,4 @@ The [KDE Blog](https://www.kdeblog.com/) highlights the new LibreOffice 26.2 rel
 View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
 
 
-<meta name="openSUSE, Open Source, development, Linux, secure operating systems, open source, plasma, Tumbleweed, meeting, music, board, Governance, podcast, AI, hackerspace" content="HTML,CSS,XML,JavaScript">
+<meta name="openSUSE, Open Source, development, Linux, secure operating systems, open source, plasma, Tumbleweed, meeting, music, board, Governance, podcast, AI, hackerspace, markdown, mist, deskflow" content="HTML,CSS,XML,JavaScript">
