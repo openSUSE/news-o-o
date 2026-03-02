@@ -10,6 +10,7 @@ categories:
 - Announcements
 - openSUSE
 - Tumbleweed
+- Slowroll
 - MicroOS
 tags:
 - openSUSE  
@@ -271,7 +272,7 @@ For more details on the change logs for the month, visit the [openSUSE Factory m
 - **[CVE-2026-1761](https://www.suse.com/security/cve/CVE-2026-1761.html)**: This fixes a stack-based buffer overflow that may lead to memory corruption or crashes when parsing crafted responses.
 
 
-** [expat](https://libexpat.github.io/) 2.7.4**:
+**[expat](https://libexpat.github.io/) 2.7.4**:
 - **[CVE-2025-68615](https://www.suse.com/security/cve/CVE-2025-68615.html)**: This fixes a buffer overflow causing the daemon to crash.
 
 
