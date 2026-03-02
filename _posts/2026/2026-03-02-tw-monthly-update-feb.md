@@ -144,7 +144,7 @@ For more details on the change logs for the month, visit the [openSUSE Factory m
 **[freerdp](https://github.com/FreeRDP/FreeRDP) 3.22.0**: 
 
 
-**[CVE-2026-24682](https://www.suse.com/security/cve/CVE-2026-24682.html)**: A fix for a heap-buffer-overflow could let a remote RDP server crash the client or corrupt memory. 
+- **[CVE-2026-24682](https://www.suse.com/security/cve/CVE-2026-24682.html)**: A fix for a heap-buffer-overflow could let a remote RDP server crash the client or corrupt memory. 
 
 
 - **[CVE-2026-24683](https://www.suse.com/security/cve/CVE-2026-24683.html)**: This fixes input event handling that may allow a malicious RDP server to crash the client or execute code.
