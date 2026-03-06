@@ -109,6 +109,6 @@ The [Federico’s Blog](https://viruta.org/) reports that the librsvg project re
 ## [What Windows Doesn't Let You Do But Linux Does](https://www.kdeblog.com/lo-que-windows-no-te-permite-hacer-pero-linux-si.html)
 introduces a video and discussion about capabilities that Linux offers which Windows typically restricts or complicates, aimed at users reconsidering Windows as support ends. The article highlights practical examples like replacing display servers, customizing window management behaviors down to the pixel level, packaging applications in multiple formats without vendor lock-in, and maintaining full control over when and how system updates are applied. 
 
-
+View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
 
 <meta name="openSUSE, Open Source, development, Linux, secure operating systems, open source, plasma, Tumbleweed, music, podcast, AI, gaming, flathub, flatpak, nvidia" content="HTML,CSS,XML,JavaScript">
