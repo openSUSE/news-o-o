@@ -63,7 +63,7 @@ Finally, users launch the application from their desktop environment's applicati
 
 To align with security requirements, user will be asked whether to enable cockpit.socket and for preferred [firewalld](https://firewalld.org/) configuration in case cockpit wasn't previously enabled and running.
 
-It was tested on both Tumbleweed and Leap 16 installations and testing confirms the package successfully integrates across different openSUSE versions and installation scenarios like with the next version of Leap 16.1.
+It was tested on both Tumbleweed and Leap 16 installations and testing confirms the package successfully integrates across different openSUSE flavors, versions and installation scenarios.
 
 A demonstration video created by [Low Tech Linux](https://www.youtube.com/@LowTechLinux) showcases [the installation](https://youtu.be/edhoj-aS8s8?si=Hky6etVk-9FZjP1s) and setup process on both Tumbleweed and Leap 16.
 
