@@ -1,8 +1,33 @@
 ﻿---
+
+author: Alberto Planas 
+date: 2026-03-11 12:00:00+01:00
 layout: post
-title:  "Dropping pcr-oracle in user space Full Disk Encryption"
-date:   2026-03-10 15:00 +0200
-author: Alberto Planas
+image: /wp-content/uploads/2025/05/tw.png
+license: CC-BY-SA-3.0
+title: Dropping pcr-oracle in user space Full Disk Encryption
+categories:
+- Announcements
+- openSUSE
+- Tumbleweed
+- Leap
+- MicroOS
+tags:
+- openSUSE  
+- Tumbleweed  
+- Developers  
+- sysadmin  
+- user  
+- Open Source  
+- rolling release  
+- gamers  
+- superuser  
+- distrowatch  
+- Linux  
+- FDE
+- PCR
+- Full Disk Encryption
+
 ---
 
 ## Introduction
