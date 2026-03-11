@@ -3,7 +3,7 @@
 author: Alberto Planas 
 date: 2026-03-11 12:00:00+01:00
 layout: post
-image: /wp-content/uploads/2025/05/tw.png
+image: /wp-content/uploads/2024/03/sdboot.png
 license: CC-BY-SA-3.0
 title: Dropping pcr-oracle in user space Full Disk Encryption
 categories:
@@ -75,3 +75,5 @@ If sadly your `TPM2` revision is older, the password enrollment is alwasy availa
 * [MicroOS FDE](https://en.opensuse.org/Portal:MicroOS/FDE)
 * [Quickstart in Full Disk Encryption with TPM and YaST2](https://microos.opensuse.org/blog/2024-09-03-quickstart-fde-yast2/)
 * [Systemd-boot and Full Disk Encryption with TPM and FIDO2](https://microos.opensuse.org/blog/2023-12-20-sdboot-fde/)
+
+<meta name="openSUSE, Open Source, development, Linux, secure operating systems, open source, full disk encryption" content="HTML,CSS,XML,JavaScript">
