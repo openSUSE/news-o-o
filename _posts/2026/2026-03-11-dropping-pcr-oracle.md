@@ -11,7 +11,6 @@ categories:
 - openSUSE
 - Tumbleweed
 - Leap
-- MicroOS
 tags:
 - openSUSE  
 - Tumbleweed  
