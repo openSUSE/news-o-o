@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio 
-date: 2026-03-25 16:00:00+01:00
+date: 2026-03-18 20:00:00+01:00
 layout: post
 image: /wp-content/uploads/2026/03/cockpit.png
 license: CC-BY-SA-3.0
@@ -13,22 +13,21 @@ categories:
 - Leap
 - MicroOS
 tags:
-- openSUSE  
-- Tumbleweed  
-- Developers  
-- sysadmin  
-- user  
-- Open Source  
-- rolling release  
-- gamers  
-- superuser  
-- distrowatch  
-- Linux  
-- kernel  
-- kernel-source  
+- openSUSE 
+- Tumbleweed 
+- Developers 
+- sysadmin 
+- user 
+- Open Source 
+- rolling release 
+- gamers 
+- superuser 
+- distrowatch 
+- Linux 
+- kernel 
 - GNOME
-- KDE  
-- Plasma  
+- KDE 
+- Plasma 
 - Cockpit
 - client
 
