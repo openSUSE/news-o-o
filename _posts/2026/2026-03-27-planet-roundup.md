@@ -155,7 +155,7 @@ The openSUSE project mourns the passing of long-time community member James Maso
 ![James is pictured second in from the right side.](https://news.opensuse.org/wp-content/uploads/2017/02/IMG_20140426_142502570.jpg)
 
 
-James is pictured at [LinuxFest Northwest](https://linuxfestnorthwest.org/) in this 2014 photo second in from the right side.
+James pictured at [LinuxFest Northwest in 2014](https://news.opensuse.org/2017/02/27/opensuse-at-lfnw-2017/). **left to right:** Peter Linnell, Bryan Lunduke, Jon Hall (with the SUSE Chameleon), James Mason, and Michael Miller at LinuxFest Northwest 2014
 
 
 View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
