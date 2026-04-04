@@ -118,7 +118,7 @@ The [KDE Blog](https://www.kdeblog.com/) covers episode 71 of the KDE Express po
 
 The [KDE Blog](https://www.kdeblog.com/) highlights a video by content creator GCtech sharing his experience after a full year of using Linux as his primary operating system. He praises Linux's resource efficiency for reviving older hardware, its transparency and security model, while acknowledging gaps in professional software like Adobe and some limitations with AAA gaming. 
 
-[![Video title](https://img.youtube.com/vi/qHACOzV4j-A/0.jpg)](https://youtu.be/QKlJLWJzzDk?si=YhPykFzPsSm0v0CK)
+[![Video title](https://img.youtube.com/vi/QKlJLWJzzDk/0.jpg)](https://youtu.be/QKlJLWJzzDk?si=YhPykFzPsSm0v0CK)
 
 
 ## [Accessibility Improvements in Plasma 6.6](https://www.kdeblog.com/mejoras-en-la-accesibilidad-de-plasma-6-6.html)
