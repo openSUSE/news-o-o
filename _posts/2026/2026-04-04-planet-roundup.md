@@ -41,8 +41,6 @@ This is a roundup of articles from the openSUSE community listed on [planet.open
 
 The community blog feed aggregator lists the featured highlights below from March 27 to April 2.
 
-Here's the updated intro paragraph for this week:
-
 Blogs this week highlight the end of the nearly eight-year openSUSE Leap 15 era with Leap 15.6 reaching end of life, the March 2026 [Tumbleweed](https://get.opensuse.org/tumbleweed/) monthly update covering three Plasma 6.6 point releases and kernel advances to 6.19.9, and the switch to systemd-boot as the default bootloader for fresh Tumbleweed installations. Blogs also cover the Claude Code source leak and its supply chain security lessons, syslog-ng benchmarks hitting 7 million events per second, accessibility improvements in Plasma 6.6, progress on Thunderbird's Linux system tray integration and more.
 
 
