@@ -3,9 +3,9 @@
 author: openSUSE Asia Summit Team
 date: 2026-04-20 00:30:00+07:00
 layout: post
+license: CC-BY-SA-3.0
 image: /wp-content/uploads/2026/04/sv-ugm-utara-tilc.jpg
 title: openSUSE.Asia Summit 2026 Announces Venue at Universitas Gadjah Mada
-license: CC-BY-SA-3.0
 categories:
 - Announcements
 - Conference
@@ -19,7 +19,7 @@ tags:
 
 ---
 
-The openSUSE.Asia Summit 2026 team is excited to announce the official venue for this year’s conference. The summit will be held at **Universitas Gadjah Mada (UGM)** in Yogyakarta, Indonesia.
+The [openSUSE.Asia Summit 2026](https://events.opensuse.org/conferences/oSAS26) team is excited to announce the official venue for this year’s conference. The summit will be held at **Universitas Gadjah Mada (UGM)** in Yogyakarta, Indonesia.
 
 The event will take place at the Teaching Industry Learning Center (TILC) of the Vocational School, a modern facility designed to support collaboration, learning, and industry engagement. The summit is expected to welcome around 350 participants over two days of talks, workshops, and community activities.
 
