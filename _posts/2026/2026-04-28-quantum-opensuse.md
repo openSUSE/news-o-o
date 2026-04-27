@@ -1,11 +1,11 @@
 ---
 
 author: Alessandro de Oliveira Faria
-date: 2026-04-24 18:38:15
+date: 2026-04-28 06:00:00+02:00
 layout: post
 license: CC-BY-SA-3.0
 image: /wp-content/uploads/2026/04/logo-libzupt.jpg
-title: libzupt - Quantum-Resilient Cryptography in the openSUSE Ecosystem
+title: Quantum-Resilient Cryptography in the openSUSE Ecosystem
 badge: Community Contribution
 categories:
 - openSUSE
@@ -22,9 +22,12 @@ tags:
 
 ---
 
-It is with great joy that I officially announce the release in the openSUSE family (Leap and Tumbleweed) of the new package focused on cryptography resistant to the post-quantum era. The [libzupt](https://software.opensuse.org/package/libzupt) library is designed to offer encryption and decryption of files and binary data in memory using a hybrid approach based on **ML-KEM-768 + X25519.**
+It is with great joy that I officially announce the release in the openSUSE family (Leap and Tumbleweed) of the new package focused on cryptography resistant to the post-quantum era. 
+
+The [libzupt](https://software.opensuse.org/package/libzupt) library is designed to offer encryption and decryption of files and binary data in memory using a hybrid approach based on **ML-KEM-768 + X25519.**
 
 **libzupt** is a modern SDK that simplifies the adoption of post-quantum cryptography in real-world applications. Currently, it has initial support for C++, Python, and Java, with support for Node.js (under development). Its goal is to make the implementation of advanced cryptographic mechanisms accessible without compromising usability for developers.
+
 libzupt, created by Alessandro de Oliveira Faria, is a modern SDK that simplifies the adoption of post-quantum cryptography in real-world applications. Currently, it has initial support for C++, Python, and Java, with Node.js support (under development). Its goal is to make the implementation of advanced cryptographic mechanisms accessible without compromising usability for developers.
 
 The project originates from the **Zupt** initiative, conceived by Cristian Cezar Moisés. As a tribute, the library inherited the name of the original project. Zupt, in turn, is a compression and backup tool that already incorporated advanced concepts such as authenticated AES-256 encryption and post-quantum key encapsulation.
