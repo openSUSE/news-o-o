@@ -9,7 +9,9 @@ title: openSUSE.Asia Summit 2026 Announces Venue at Universitas Gadjah Mada
 categories:
 - Announcements
 - Conference
+- Events
 - Community
+- Summit
 - Asia
 tags:
 - openSUSE
