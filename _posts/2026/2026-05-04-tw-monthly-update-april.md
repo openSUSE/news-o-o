@@ -41,9 +41,6 @@ tags:
 ---
 
 
-Tumbleweed Monthly Update - April 2026
-
-
 There were several software package updates for [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) during April and the later half of the month brought some urgency with [Copy Fail](https://copy.fail/), which is now safe for users of the rolling release and [Slowroll](https://en.opensuse.org/openSUSE:Slowroll) for those who have done a `zypper dup` at the end of the month.
 
 
