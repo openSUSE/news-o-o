@@ -5,7 +5,7 @@ date: 2026-05-05 13:00:00+02:00
 layout: post
 image: /wp-content/uploads/2026/05/summit.png
 license: CC-BY-SA-3.0
-title: Tumbleweed Monthly Update - April 2026
+title: Summit Draws Landmark Regional Gathering
 categories:
 - Announcements
 - openSUSE
