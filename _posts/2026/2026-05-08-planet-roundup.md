@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio 
-date: 2026-05-07 09:00:00+02:00
+date: 2026-05-08 09:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/07/planet.png
 license: CC-BY-SA-3.0
