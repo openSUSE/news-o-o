@@ -1,9 +1,28 @@
 ---
+
+author: Stefan Schubert 
+date: 2026-05-21 10:00:00+02:00
 layout: post
-title:  "Managing System Extensions with sysextmgrcli"
-date:   2026-04-23 17:27:00 +0200
-author: Stefan Schubert
+image: /wp-content/uploads/2026/05/summit.png
+license: CC-BY-SA-3.0
+title: Managing System Extensions with sysextmgrcli
+categories:
+- Announcements
+- openSUSE
+- America Summit
+tags:
+- openSUSE 
+- Summit 
+- Developers 
+- sysadmin 
+- users 
+- Open Source 
+- Speakers
+- America
+- Red Team
+
 ---
+
 
 # Managing System Extensions on openSUSE MicroOS with `sysextmgrcli`
 
