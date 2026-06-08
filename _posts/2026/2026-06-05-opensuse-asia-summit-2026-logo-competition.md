@@ -24,11 +24,13 @@ tags:
 
 ### **openSUSE.Asia Summit 2026 Logo Competition**
 
-We are excited to announce the launch of the openSUSE.Asia Summit 2026 Logo Competition! The Summit logo is more than just a symbol—it represents the energy, creativity, and diversity of our openSUSE community across Asia. This year, we invite you to make history by designing a logo that will become the face of the 2026 Summit.
+We are excited to announce the launch of the [openSUSE.Asia Summit 2026](https://events.opensuse.org/conferences/oSAS26) Logo Competition! 
+
+The Summit logo is more than just a symbol—it represents the energy, creativity, and diversity of our openSUSE community across Asia. This year, we invite you to make history by designing a logo that will become the face of the 2026 Summit.
 
 The Summit will take place at the Teaching Industry Learning Center (TILC), Vocational School, Universitas Gadjah Mada (UGM), Yogyakarta. More event details will be shared soon. The logo competition is now open and will close on **21 July 2026**. The winner will receive a special “Geeko Mystery Box” from the organizing team!
 
-**Submission Deadline:** 21 July 2026  
+**Submission Deadline:** 21 July 2026
 **Winner Announcement:** 3 August 2026
 
 #### Contest Guidelines
