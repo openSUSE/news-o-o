@@ -47,14 +47,23 @@ The Summit will take place at the Teaching Industry Learning Center (TILC), Voca
 
 #### How to Submit
 
-Send your entry to [opensuseasia-summit@googlegroups.com](mailto:opensuseasia-summit@googlegroups.com) with the following:
+Send your design to **opensuseasia-summit@googlegroups.com** with the following details:
 
-- **Email Subject:** openSUSE.Asia Summit 2026 Logo Design - [Your Name]
-- **Contact Info:** Your name and email address
-- **Design Philosophy:** A brief explanation (TXT or PDF) of your design concept
-- **Vector File:** SVG format only
-- **Bitmap File:** PNG image, at least 256x256 pixels, max file size 512 KB
+**Email Subject:** `openSUSE.Asia Summit 2026 Logo Design - [Your Name]`
 
-All submissions will be reviewed by the Summit Committee. The committee’s decision is final. We encourage you to use [Inkscape](https://inkscape.org/), a free and open-source vector graphics editor, for your design.
+**Attachments:**
+1. **Vector File:** The logo in SVG format ONLY (Refer to template in Figure 1).
+2. **Bitmap File:** A PNG version (minimum 256x256 pixels).
+3. **Design Philosophy:** A short TXT or PDF document explaining your concept.
+4. **File Size:** Ensure all files are under 512 KB.
+
+<p align="center">
+  <img src="/assets/images/2025-03-21/logo-template.svg" alt="openSUSE.Asia Summit 2025 Logo Template" width="300">
+</p>
+<p align="center"><em>Figure 1. <a href="/assets/images/2025-03-21/logo-template.svg">Sample SVG Template for the logo</a></em></p>
+
+All submissions will be reviewed by the Summit Committee. **Note:** The final decision will be made by the committee and may not necessarily be the highest-voted design.
+
+*Tip: Use [Inkscape](https://inkscape.org/), a free and open-source vector design tool!*
 
 Let your creativity shine and help shape the identity of openSUSE.Asia Summit 2026. Good luck!
