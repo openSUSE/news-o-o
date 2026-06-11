@@ -27,7 +27,7 @@ tags:
 - Photography
 - Workflow
 - PC
-- Intel
+- AMD
 - Nvidia
 - Agama
 - GPU
@@ -72,5 +72,5 @@ His advice for photographers and power users eyeing a similar build comes down t
 
 
 
-<meta name="Linux, rolling release, developers, sysadmins, power users, KDE, Plasma, KDE Gear, KDE Frameworks, GNOME, cups, Kernel, kernel-source, Slowroll, open source, Adobe Creative Cloud, Mac, Windows, Photography, Intel, Nvidia, Agama, GPU" content="HTML,CSS,XML,JavaScript">
+<meta name="Linux, rolling release, developers, sysadmins, power users, KDE, Plasma, KDE Gear, KDE Frameworks, GNOME, cups, Kernel, kernel-source, Slowroll, open source, Adobe Creative Cloud, Mac, Windows, Photography, AMD, Nvidia, Agama, GPU" content="HTML,CSS,XML,JavaScript">
 
