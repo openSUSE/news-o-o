@@ -37,11 +37,13 @@ There are moments in open-source history that feel less like announcements and m
 
 Eight years ago, during the annual openSUSE conference, the story began on [news.opensuse.org](https://news.opensuse.org/) with the announcement that [Spacewalk](https://spacewalkproject.github.io/) was being forked. Today, as we gear up for the openSUSE Conference 2026, that circle is finally closing.
 
+"It was a big moment when we decided to fork Spacewalk and move forward with Uyuni on our own," said Johannes Hahn, who has been around the Uyuni project since the beginning. "Nowadays, we are still enthusiastic about maintaining the project and about further modernizing and improving it. In practice, we've been part of openSUSE for years; the infrastructure, the conferences and the people. Making it official just means everyone else now knows what we already did."
 
-We are delighted to share that the [Uyuni Project](https://www.uyuni-project.org/) has officially joined the [openSUSE Project](https://www.opensuse.org/)!
+
+Members of the project are delighted to share that the [Uyuni Project](https://www.uyuni-project.org/) has officially joined the [openSUSE Project](https://www.opensuse.org/)!
 
 
-While our people have worked alongside each other since that initial fork, this formal integration marks a major milestone. It makes it easier for new contributors to find their way to Uyuni, gives the community a definitive home, and strengthens openSUSE's tradition of bringing people together to build powerful, open-source tools that benefit the entire ecosystem.
+While the people have worked alongside each other since that initial fork, this formal integration marks a major milestone. It makes it easier for new contributors to find their way to Uyuni, gives the community a definitive home, and strengthens openSUSE's tradition of bringing people together to build powerful, open-source tools that benefit the entire ecosystem.
 
 
 ### A Partnership Years in the Making
