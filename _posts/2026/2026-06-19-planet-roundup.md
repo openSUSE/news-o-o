@@ -34,9 +34,17 @@ This is a roundup of articles from the openSUSE community listed on [planet.open
 
 The community blog feed aggregator lists the featured highlights below from June 12 to 18.
 
-Blogs this week cover the highly anticipated release of KDE Plasma 6.7 with per-screen virtual desktops and mic test features, KDE Frameworks 6.27, Agama 22 with redesigned UI and VLAN support, Amarok 3.3.3, syslog-ng 4.12.0, and a Tumbleweed weekly review delivering five snapshots with notable updates including MariaDB 12.3, GStreamer 1.28.4, and btrfsprogs 7.0. Also featured are GSoC first contributions, Thunderbird collaboration improvements, Symless joining KDE sponsorship, and more.
+Blogs this week cover the release of KDE Plasma 6.7 with per-screen virtual desktops and mic test features, KDE Frameworks 6.27, Agama 22 with redesigned UI and VLAN support, Amarok 3.3.3, syslog-ng 4.12.0, and a Tumbleweed weekly review delivering five snapshots. Also featured are GSoC first contributions, Thunderbird improvements, Symless joining KDE sponsorship, and more.
 
 **Here is a summary and links for each post:**
+
+## [The return of the Oxygen theme to Plasma](https://www.kdeblog.com/el-retorno-del-tema-oxygen-a-plasma.html)
+
+The [KDE Blog](https://www.kdeblog.com/) goes over the release of Plasma 6.7 on June 16. The Oxygen theme from the KDE 4 era has returned as a full global theme for Plasma 6. What began as a restoration project drew a surprisingly large and positive response and attracted new contributors. Oxygen 6.7 arrives updated for full compatibility with current technologies. 
+
+## [Published Amarok 3.3.3](https://victorhckinthefreeworld.com/2026/06/18/publicado-amarok-3-3-3/)
+
+[Victorhck](https://victorhckinthefreeworld.com/) shares an update on KDE's music player Amarok and explains some of code quality improvements and fixes for compiling across different systems. 
 
 ## [Preparing for GSoC: My First Contributions to Autogits](https://planet.opensuse.org/)
 
@@ -108,7 +116,7 @@ The [KDE Blog](https://www.kdeblog.com/) announces the 27th update of KDE Framew
 
 ## Tumbleweed – Review of the Week 2026/24
 
-[Dominique Leuenberger](https://dominique.leuenberger.net/blog/) and [Victorhck](https://victorhckinthefreeworld.com/2026/06/12/opensuse-tumbleweed-revision-de-la-semana-24-de-2026/) report on a productive week with five Tumbleweed snapshots (0604, 0605, 0608, 0609, 0610). Key updates included Linux kernel 7.0.11, Mesa 26.1.2, fontconfig 2.18.0/2.18.1, harfbuzz 14.2.1, PHP 8.5.7, KDE Gear 26.04.2, Mozilla Firefox 151.0.3 & 151.0.4, sqlite 3.53.2, systemd 260.2, and file 5.48. Staging highlights include MariaDB 12.3.2, KDE Frameworks 6.27, Linux kernel 7.0.12, KDE Plasma 6.7.0, Poppler 26.06.0, QEMU 11.0.0 dropping 32-bit host support, and GCC 16 as the system default compiler.
+[Victorhck](https://victorhckinthefreeworld.com/2026/06/12/opensuse-tumbleweed-revision-de-la-semana-24-de-2026/) and [Dominique Leuenberger](https://dominique.leuenberger.net/blog/2026/06/tumbleweed-review-of-the-week-2026-24/) report on a productive week with five Tumbleweed snapshots (0604, 0605, 0608, 0609, 0610). Key updates included Linux kernel 7.0.11, Mesa 26.1.2, fontconfig 2.18.0/2.18.1, harfbuzz 14.2.1, PHP 8.5.7, KDE Gear 26.04.2, Mozilla Firefox 151.0.3 & 151.0.4, sqlite 3.53.2, systemd 260.2, and file 5.48. Staging highlights include MariaDB 12.3.2, KDE Frameworks 6.27, Linux kernel 7.0.12, KDE Plasma 6.7.0, Poppler 26.06.0, QEMU 11.0.0 dropping 32-bit host support, and GCC 16 as the system default compiler.
 
 View more blogs or learn to publish your own on [planet.opensuse.org](https://planet.opensuse.org).
 
