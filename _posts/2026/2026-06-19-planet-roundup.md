@@ -74,9 +74,9 @@ The [KDE Blog](https://www.kdeblog.com/) announces the release of KDE Plasma 6.7
 
 [Peter Czánik](https://peter.czanik.hu/) announces coordinated releases across the syslog-ng product line driven by an SQL injection security fix. syslog-ng OSE 4.12.0 brings performance optimizations making the log processor more scalable, along with numerous user-reported bug fixes. 
 
-## [Releasing version 22](https://agama.opensuse.org/blog/2026-06-16-releasing-version-22.html)
+## [Releasing version 22](https://agama-project.github.io/blog/2026/06/16/agama-22)
 
-The [Agama Installer](https://agama.opensuse.org/) team announces Agama 22 with a redesigned header and toolbar that improves navigation with persistent product logos, breadcrumbs, and relocated installer tools. New features include configurable appearance with dark and light themes, advanced filesystem configuration options in the disk setup UI, VLAN connection support through the web interface and more. A new access section in JSON configuration simplifies setting up SSH or Cockpit on the installed system.
+The [Agama Installer](https://agama-project.github.io/) team announces Agama 22 with a redesigned header and toolbar that improves navigation with persistent product logos, breadcrumbs, and relocated installer tools. New features include configurable appearance with dark and light themes, advanced filesystem configuration options in the disk setup UI, VLAN connection support through the web interface and more. A new access section in JSON configuration simplifies setting up SSH or Cockpit on the installed system.
 
 ## [Windows-style launcher with Tiled Menu Prime – Plasmoids for Plasma 6 (32)](https://www.kdeblog.com/lanzador-estilo-windows-con-tiled-menu-prime-plasmoides-para-plasma-6-32.html)
 
