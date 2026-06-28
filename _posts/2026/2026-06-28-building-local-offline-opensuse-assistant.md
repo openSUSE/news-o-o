@@ -265,7 +265,7 @@ The project has reached the point where the assistant itself works. The second h
 is about making it an openSUSE feature that users can install, start, diagnose, and
 use offline without knowing how its model and retrieval stack are assembled.
 
-Thanks to our mentors, [Rudraksh Karpe](https://github.com/rudrakshkarpe) and
+Thanks to my mentors, [Rudraksh Karpe](https://github.com/rudrakshkarpe) and
 [Satyam Soni](https://github.com/satyampsoni), and to the openSUSE community members
 who have provided the Leap VM, documentation pointers, packaging guidance, and
 feedback on the live demo.
