@@ -4,7 +4,7 @@ date: 2026-06-28 16:00:00+08:00
 layout: post
 image: /wp-content/uploads/2026/06/ui.png
 license: CC-BY-SA-3.0
-title: Building a Local, Offline openSUSE Assistant: GSoC 2026 Midterm Update
+title: Building a Local, Offline openSUSE Assistant for GSoC
 badge: Community Contribution
 categories:
 - Announcements
