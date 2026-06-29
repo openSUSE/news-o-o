@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+  <title id="title">Model answer quality compared with average CPU latency</title>
+  <desc id="desc">Scatter plot of six local language models benchmarked on an openSUSE Leap 16 virtual machine. Qwen3 4B has the highest quality score, Gemma 4 E4B is the current default, and TinyLlama is fastest but has the lowest quality.</desc>
+  <rect width="1000" height="640" fill="#ffffff"/>
+
+  <g font-family="Inter, Liberation Sans, Arial, sans-serif" fill="#17212b">
+    <text x="76" y="42" font-size="25" font-weight="700">Local model quality vs. CPU response time</text>
+    <text x="76" y="70" font-size="15" fill="#52606d">Leap 16.0 VM | 4 vCPU | 15 GB RAM | CPU-only | 8 RAG-grounded questions per model</text>
+
+    <!-- Horizontal grid and quality scale. -->
+    <g stroke="#dfe5e8" stroke-width="1">
+      <line x1="100" y1="500" x2="920" y2="500"/>
+      <line x1="100" y1="420" x2="920" y2="420" stroke-dasharray="5 5"/>
+      <line x1="100" y1="340" x2="920" y2="340" stroke-dasharray="5 5"/>
+      <line x1="100" y1="260" x2="920" y2="260" stroke-dasharray="5 5"/>
+      <line x1="100" y1="180" x2="920" y2="180" stroke-dasharray="5 5"/>
+      <line x1="100" y1="100" x2="920" y2="100" stroke-dasharray="5 5"/>
+    </g>
+
+    <!-- Vertical grid and latency scale. -->
+    <g stroke="#edf1f3" stroke-width="1">
+      <line x1="100" y1="100" x2="100" y2="500"/>
+      <line x1="264" y1="100" x2="264" y2="500" stroke-dasharray="5 5"/>
+      <line x1="428" y1="100" x2="428" y2="500" stroke-dasharray="5 5"/>
+      <line x1="592" y1="100" x2="592" y2="500" stroke-dasharray="5 5"/>
+      <line x1="756" y1="100" x2="756" y2="500" stroke-dasharray="5 5"/>
+      <line x1="920" y1="100" x2="920" y2="500"/>
+    </g>
+
+    <g font-size="13" fill="#52606d" text-anchor="end">
+      <text x="88" y="505">2.5</text>
+      <text x="88" y="425">3.0</text>
+      <text x="88" y="345">3.5</text>
+      <text x="88" y="265">4.0</text>
+      <text x="88" y="185">4.5</text>
+      <text x="88" y="105">5.0</text>
+    </g>
+
+    <g font-size="13" fill="#52606d" text-anchor="middle">
+      <text x="100" y="525">0</text>
+      <text x="264" y="525">30</text>
+      <text x="428" y="525">60</text>
+      <text x="592" y="525">90</text>
+      <text x="756" y="525">120</text>
+      <text x="920" y="525">150</text>
+    </g>
+
+    <text x="510" y="570" font-size="15" font-weight="600" text-anchor="middle">Average answer latency (seconds, lower is better)</text>
+    <text x="25" y="300" font-size="15" font-weight="600" text-anchor="middle" transform="rotate(-90 25 300)">Answer quality (1-5, higher is better)</text>
+
+    <!-- Better direction indicator. -->
+    <g transform="translate(112 116)" fill="#147d64" stroke="#147d64">
+      <path d="M0 28 L28 0 M28 0 L17 2 M28 0 L26 11" fill="none" stroke-width="2"/>
+      <text x="36" y="5" font-size="13" font-weight="600" stroke="none">better</text>
+    </g>
+
+    <!-- TinyLlama. -->
+    <circle cx="166" cy="481" r="7" fill="#687782" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="13">
+      <text x="184" y="469" font-weight="700">TinyLlama 1.1B</text>
+      <text x="184" y="487" fill="#52606d">2.62 | 12 s</text>
+    </g>
+
+    <!-- Qwen models. -->
+    <circle cx="330" cy="260" r="8" fill="#159570" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="13">
+      <text x="348" y="250" font-weight="700">Qwen3-1.7B</text>
+      <text x="348" y="268" fill="#52606d">4.00 | 42 s</text>
+    </g>
+
+    <line x1="658" y1="111" x2="674" y2="117" stroke="#159570" stroke-width="1.5"/>
+    <circle cx="680" cy="119" r="8" fill="#159570" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="13" text-anchor="end">
+      <text x="654" y="91" font-weight="700">Qwen3-4B</text>
+      <text x="654" y="109" fill="#52606d">4.88 | 106 s</text>
+    </g>
+
+    <line x1="843" y1="146" x2="825" y2="164" stroke="#159570" stroke-width="1.5"/>
+    <circle cx="844" cy="140" r="8" fill="#159570" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="13" text-anchor="end">
+      <text x="821" y="174" font-weight="700">Qwen3-8B</text>
+      <text x="821" y="192" fill="#52606d">4.75 | 136 s</text>
+    </g>
+
+    <!-- Gemma models. -->
+    <circle cx="521" cy="180" r="8" fill="#3578c8" stroke="#ffffff" stroke-width="2"/>
+    <g font-size="13">
+      <text x="541" y="201" font-weight="700">Gemma 3 4B</text>
+      <text x="541" y="219" fill="#52606d">4.50 | 77 s</text>
+    </g>
+
+    <line x1="477" y1="139" x2="508" y2="158" stroke="#d97917" stroke-width="1.5"/>
+    <circle cx="516" cy="161" r="11" fill="#ffffff" stroke="#d97917" stroke-width="3"/>
+    <circle cx="516" cy="161" r="7" fill="#3578c8"/>
+    <g font-size="13" text-anchor="end">
+      <text x="471" y="127" font-weight="700">Gemma 4 E4B</text>
+      <text x="471" y="145" fill="#52606d">4.62 | 76 s</text>
+    </g>
+
+    <!-- Legend. -->
+    <g transform="translate(650 608)" font-size="12" fill="#52606d">
+      <circle cx="0" cy="0" r="6" fill="#159570"/>
+      <text x="12" y="4">Qwen</text>
+      <circle cx="76" cy="0" r="6" fill="#3578c8"/>
+      <text x="88" y="4">Gemma</text>
+      <circle cx="162" cy="0" r="6" fill="#687782"/>
+      <text x="174" y="4">TinyLlama</text>
+      <circle cx="253" cy="0" r="8" fill="#ffffff" stroke="#d97917" stroke-width="2"/>
+      <text x="266" y="4">current default</text>
+    </g>
+  </g>
+</svg>
