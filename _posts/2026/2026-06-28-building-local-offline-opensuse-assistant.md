@@ -1,10 +1,11 @@
 ---
 author: Anuj Agrawal
-date: 2026-06-28 17:45:00+00:00
+date: 2026-06-28 16:00:00+08:00
 layout: post
 image: /wp-content/uploads/2026/06/suse-assist-ui.png
 license: CC-BY-SA-3.0
-title: "Building a Local, Offline openSUSE Assistant: GSoC 2026 Midterm Update"
+title: Building a Local, Offline openSUSE Assistant: GSoC 2026 Midterm Update
+badge: Community Contribution
 categories:
 - Announcements
 - openSUSE
