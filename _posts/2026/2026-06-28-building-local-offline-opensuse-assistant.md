@@ -90,7 +90,7 @@ The benchmark used the same constrained target as the public deployment: 4 vCPUs
 average time for one complete answer, including retrieval and the prompt built from
 the retrieved documentation and host context.
 
-![Answer quality versus average CPU latency for the six evaluated local models](/wp-content/uploads/2026/06/suse-assist-model-quality-latency.svg)
+![Answer quality versus average CPU latency for the six evaluated local models](/wp-content/uploads/2026/06/suse-assist-model-quality-latency.png)
 
 *Higher and further left is better. Qwen3-4B achieved the highest judged quality;
 Gemma 4 E4B is the current default and answered about 30 seconds faster. The orange
