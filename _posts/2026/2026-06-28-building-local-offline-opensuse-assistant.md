@@ -1,6 +1,6 @@
 ---
 author: Anuj Agrawal
-date: 2026-06-28 16:00:00+08:00
+date: 2026-06-29 09:00:00+02:00
 layout: post
 image: /wp-content/uploads/2026/06/ui.png
 license: CC-BY-SA-3.0
@@ -91,7 +91,7 @@ The benchmark used the same constrained target as the public deployment: 4 vCPUs
 average time for one complete answer, including retrieval and the prompt built from
 the retrieved documentation and host context.
 
-![Answer quality versus average CPU latency for the six evaluated local models](https://news.opensuse.org/wp-content/uploads/2026/06/latency.png)
+[![Answer quality versus average CPU latency for the six evaluated local models(latency.png)](https://news.opensuse.org/wp-content/uploads/2026/06/latency.png)
 
 *Higher and further left is better. Qwen3-4B achieved the highest judged quality;
 Gemma 4 E4B is the current default and answered about 30 seconds faster. The orange
