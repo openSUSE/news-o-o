@@ -58,7 +58,7 @@ The [KDE Blog](https://www.kdeblog.com/) announces the third bugfix release for 
 ## [SELinux Userspace Utilities: Local Denial-of-Service Attack Vectors in seunshare](https://security.opensuse.org/2026/07/15/selinux-seunshare/)
 The [SUSE Security Team](https://security.opensuse.org/) discloses two local denial-of-service vulnerabilities in the `seunshare` program from SELinux userspace utilities version 3.10. A symlink race condition in `rm_rf()` allows deletion of root-owned files, while the `killall()` function can be exploited to kill root-owned processes running in the unconfined SELinux domain. Both issues were independently fixed upstream in version 3.11.
 
-## [openSUSE.Asia Summit 2027: Call for Host](https://news.opensuse.org/2026/07/14/opensuse-asia-summit-2027-call-for-host/)
+## [openSUSE.Asia Summit 2027: Call for Host](https://news.opensuse.org/2026/07/14/osas-cfh/)
 [openSUSE News](https://news.opensuse.org/) invites local openSUSE communities across Asia to submit proposals to host the openSUSE.Asia Summit 2027. The proposal deadline is August 10 with the host announcement scheduled for October 31 following presentations at the 2026 summit in Yogyakarta, Indonesia. Proposals should cover venue, transportation, budget, catering, and the local organizing team's experience.
 
 ## [Syslog-ng 4.12.0 Available for Ubuntu 26.04 (Resolute)](https://www.syslog-ng.com/community/b/blog/posts/syslog-ng-4-12-0-available-for-ubuntu-26-04-resolute)
