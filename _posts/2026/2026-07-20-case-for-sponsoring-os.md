@@ -44,7 +44,7 @@ That work has a home. The [openSUSE Project](https://www.opensuse.org/) has spen
 
 Together, these answer the question every hardware maker eventually faces; build once, validate everywhere and deliver with confidence.
 
-Companies whose revenue depends on silicon "just working" in Linux data centers may evaluate funding this layer as an investment, not as chartiy. It is one of the highest-leverage, lowest-cost investments available. But communities like openSUSE depend on sponsors so that the contributing community can grow, support and thrive.
+Companies whose revenue depends on silicon "just working" in Linux data centers may evaluate funding this layer as an investment, not as charity. It is one of the highest-leverage, lowest-cost investments available. But communities like openSUSE depend on sponsors so that the contributing community can grow, support and thrive.
 
 SUSE is the primary sponsor of openSUSE, and the project has other [companies that sponsor the project](https://en.opensuse.org/Sponsors). The project welcomes additional backers. Sponsorship takes three practical forms; money, hardware, or services. Sponsorship has historically been organized into tiers: Platinum, Gold, and Silver. The sponsors gain visibility and developer reach. Hardware sponsors sign an [Equipment Donation Agreement](https://en.opensuse.org/images/f/f1/Equipment-Donation-Agreement.pdf). Services provided to contributing developers make development more efficient. And the [Geeko Foundation](https://geekos.org/sponsorship/), a not-for-profit, acts as fiscal steward, receiving and administering funds on the project's behalf to support contributors, travel and events.
 
