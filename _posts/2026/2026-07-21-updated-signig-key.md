@@ -1,7 +1,7 @@
 ---
 
 author: Lubos Kocman
-date: 2026-06-20 10:00:00+01:00
+date: 2026-07-21 10:00:00+01:00
 layout: post
 image: /wp-content/uploads/2024/06/micro60rc.png
 license: CC-BY-SA-3.0
