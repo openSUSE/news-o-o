@@ -18,6 +18,7 @@ tags:
 - Asia
 - Summit
 - Community
+
 ---
 
 The openSUSE.Asia Summit 2026 Organizing Committee would like to announce an important update regarding the conference venue.
@@ -48,3 +49,5 @@ Participants who have already registered **do not need to take any action**. Reg
 We would also like to express our sincere gratitude to **Universitas Islam Negeri Sunan Kalijaga** for welcoming openSUSE.Asia Summit 2026 and supporting this year's conference.
 
 Thank you for your continued support. We look forward to welcoming the openSUSE community from across Asia to **Yogyakarta** this October.
+
+<meta name="openSUSE, Open Source, development, Linux, secure operating systems, Asia, Summit, community" content="HTML,CSS,XML,JavaScript">
