@@ -1,7 +1,7 @@
 ---
 author: openSUSE Asia Summit Team
 comments: true
-date: 2026-08-11 00:00:00+07:00
+date: 2026-08-10 00:00:00+07:00
 layout: post
 license: CC-BY-SA-3.0
 image: /wp-content/uploads/2026/08/venue-uinsuka-osas26.png
