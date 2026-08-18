@@ -1,7 +1,7 @@
 ---
 
 author: openSUSE Asia Summit Team
-date: 2026-08-18 00:00:00+07:00
+date: 2026-08-17 00:07:00+02:00
 layout: post
 image: /wp-content/uploads/2026/08/osas-2026-logo.png
 license: CC-BY-SA-3.0
@@ -23,7 +23,7 @@ tags:
 
 # openSUSE.Asia Summit 2026 Pre-Schedule Is Now Available
 
-Hello Geeko! 👋
+Hello Geeko!
 
 After a long selection process, the **openSUSE.Asia Summit 2026 Organizing Committee** is pleased to announce that the **Pre-Schedule** is now available!
 
@@ -31,7 +31,7 @@ This year, we received **114 proposals from 85 speakers**, making the selection 
 
 Curious about what will be presented at the summit? Explore the sessions and start planning which talks and workshops you would like to attend.
 
-👉 [View the openSUSE.Asia Summit 2026 Schedule](https://events.opensuse.org/conferences/oSAS26/schedule)
+[View the openSUSE.Asia Summit 2026 Schedule](https://events.opensuse.org/conferences/oSAS26/schedule)
 
 ### Important Note
 
@@ -39,4 +39,4 @@ This is a **preliminary schedule**. Some changes to session times, rooms, speake
 
 We look forward to welcoming the openSUSE and open source communities to **Yogyakarta, Indonesia, on 3–4 October 2026**.
 
-See you at the summit! 💚
+See you at the summit!
