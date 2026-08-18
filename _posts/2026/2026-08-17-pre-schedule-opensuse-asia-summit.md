@@ -1,11 +1,11 @@
 ---
 
 author: openSUSE Asia Summit Team
-date: 2026-08-17 00:07:00+02:00
+date: 2026-08-17 10:00:00+02:00
 layout: post
 image: /wp-content/uploads/2026/08/osas-2026-logo.png
 license: CC-BY-SA-3.0
-title: openSUSE Asia Summit 2026 Pre-Schedule Is Now Available
+title: openSUSE Asia Summit Pre-Schedule Is Now Available
 categories:
 - Announcements
 - Conference
