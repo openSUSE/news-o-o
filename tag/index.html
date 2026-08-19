@@ -1,0 +1,18 @@
+---
+layout: default
+title: Tags
+permalink: /tag/
+---
+
+<div class="category-list">
+  <ul>
+    {% for tag in site.tags %}
+      {% assign tag_name = tag | first %}
+      <li>
+        <a href="{{ site.url }}/tag/{{ tag_name | slugify }}/">
+          {{ tag_name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
