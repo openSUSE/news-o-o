@@ -3,7 +3,7 @@
 author: Douglas DeMaio 
 date: 2026-09-02 10:00:00+02:00
 layout: post
-image: /wp-content/uploads/2025/05/tw.png
+image: /wp-content/uploads/2026/09/tw.png
 license: CC-BY-SA-3.0
 title: Tumbleweed Monthly Update - August 2026
 categories:
