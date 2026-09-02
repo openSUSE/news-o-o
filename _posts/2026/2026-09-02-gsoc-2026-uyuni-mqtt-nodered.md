@@ -3,7 +3,7 @@
 author: Geetansh Goyal
 date: 2026-09-02 09:00:00
 layout: post
-image: /wp-content/uploads/2026/09/geetansh-goyal-gsoc2026.jpg
+image: /wp-content/uploads/2026/09/uyuni-mqtt-nodered-slack.png
 license: CC-BY-SA-3.0
 title: GSoC 2026, Event-Driven Automation for Uyuni via MQTT and Node-RED
 badge: Community Contribution
