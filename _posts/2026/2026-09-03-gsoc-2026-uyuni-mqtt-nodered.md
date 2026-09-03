@@ -1,7 +1,7 @@
 ---
 
 author: Geetansh Goyal
-date: 2026-09-02 09:00:00
+date: 2026-09-03 09:00:00
 layout: post
 image: /wp-content/uploads/2026/09/uyuni-mqtt-nodered-slack.png
 license: CC-BY-SA-3.0
@@ -10,6 +10,8 @@ badge: Community Contribution
 categories:
 - openSUSE
 - Automation
+- Community
+- Uyuni
 - Google Summer of Code
 tags:
 - gsoc
@@ -25,7 +27,7 @@ tags:
 
 Hello, [openSUSE](https://www.opensuse.org/) community!
 
-My name is Geetansh Goyal, and I was a Google Summer of Code (GSoC) 2026 mentee with the openSUSE organization. This is my first year contributing to a project of this size, and this post is my account of the summer working on **"Event-Driven Automation for Uyuni via MQTT and Node-RED,"** mentored by Ondrej Holecek and Abid Mehmood, both from SUSE.
+My name is Geetansh Goyal, and I was a Google Summer of Code (GSoC) 2026 mentee with [Uyuni](https://www.uyuni-project.org/) and the [openSUSE](https://www.opensuse.org/) project. This is my first year contributing to a project of this size, and this post is my account of the summer working on **"Event-Driven Automation for Uyuni via MQTT and Node-RED,"** mentored by Ondrej Holecek and Abid Mehmood, both from the [openSUSE](https://www.opensuse.org/) community.
 
 ## The problem
 
@@ -33,7 +35,7 @@ My name is Geetansh Goyal, and I was a Google Summer of Code (GSoC) 2026 mentee 
 
 ## What I built
 
-The project has two halves. On the Uyuni side, I added an MQTT publisher to the Java core that publishes nine event types, five from the Salt reactor (system registration, job returns, state application, image deployment, batch starts) and four from domain code (org creation, user creation, and content lifecycle management builds starting and completing). Everything is off by default behind a set of configuration properties, so an existing installation notices nothing until an administrator explicitly turns it on.
+The project has two halves. On the Uyuni side, I added an MQTT publisher to the Java core that publishes nine event types, five from the Salt reactor (system registration, job returns, state application, image deployment and batch starts) and four from domain code (org creation, user creation, and content lifecycle management builds starting and completing). Everything is off by default behind a set of configuration properties, so an existing installation notices nothing until an administrator explicitly turns it on.
 
 On the consumer side, I built `node-red-contrib-uyuni`, a package of custom Node-RED nodes: one to subscribe to Uyuni events, one to call back into the API to apply a state or schedule a reboot, one to query system data, and two config nodes to hold credentials. The idea is that someone who has never touched Uyuni's API can still wire together "a minion registers, then apply this state, then post to Slack" entirely by dragging nodes onto a canvas.
 
@@ -54,3 +56,5 @@ The [implementation PR](https://github.com/uyuni-project/uyuni/pull/12385) and t
 ## Thanks
 
 Thank you to Ondrej and Abid for the review that actually made me fix the ordering bug properly instead of papering over it, and to openSUSE and GSoC for the chance to spend a summer inside a codebase this size as a first-year student. It was the first time I had to reason about transaction boundaries in someone else's production system, and I'd do it again.
+
+<meta name="openSUSE, Open Source, development, Linux, secure operating systems, open source, Google Summer of Code, GSoC, Uyuni, MQTT" content="HTML,CSS,XML,JavaScript">
