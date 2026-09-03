@@ -1,7 +1,7 @@
 ---
 
 author: Geetansh Goyal
-date: 2026-09-03 09:00:00
+date: 2026-09-03 09:00:00+02:00
 layout: post
 image: /wp-content/uploads/2026/09/uyuni-mqtt-nodered-slack.png
 license: CC-BY-SA-3.0
