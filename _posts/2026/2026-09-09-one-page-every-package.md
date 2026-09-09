@@ -42,16 +42,33 @@ The tool pulls the archive indexes straight from [download.opensuse.org](https:/
 
 The scale is worth pausing on. A recent run covers 17,532 source packages: 17,143 in Tumbleweed, 10,574 in Leap 16.1, 10,551 in Leap 16.0, with 10,264 present in both Tumbleweed and Leap 16.1. Every package lands in one of five status buckets:
 
+<table style="border-collapse:collapse;margin:1rem 0">
+  <tr>
+    <th style="border:1px solid #ccc;padding:6px 10px;text-align:left">Status</th>
+    <th style="border:1px solid #ccc;padding:6px 10px;text-align:left">Meaning</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc;padding:6px 10px">Older-in-Leap</td>
+    <td style="border:1px solid #ccc;padding:6px 10px">Leap ships an earlier upstream version than Tumbleweed</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc;padding:6px 10px">Newer-in-Leap</td>
+    <td style="border:1px solid #ccc;padding:6px 10px">Leap is actually <em>ahead</em> — rarer than people assume, but real</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc;padding:6px 10px">Same</td>
+    <td style="border:1px solid #ccc;padding:6px 10px">Identical upstream version in both</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc;padding:6px 10px">Only-in-TW</td>
+    <td style="border:1px solid #ccc;padding:6px 10px">Exists in Tumbleweed, not in Leap</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ccc;padding:6px 10px">Only-in-Leap</td>
+    <td style="border:1px solid #ccc;padding:6px 10px">Exists in Leap, not in Tumbleweed</td>
+  </tr>
+</table>
 
-| Status | Meaning |
-|---|---|
-| Older-in-Leap | Leap ships an earlier upstream version than Tumbleweed |
-| Newer-in-Leap | Leap is actually *ahead* — rarer than people assume, but real |
-| Same | Identical upstream version in both |
-| Only-in-TW | Exists in Tumbleweed, not in Leap |
-| Only-in-Leap | Exists in Leap, not in Tumbleweed |
-
-{: .table .table-bordered}
 
 The page carries maintainer information and it is careful about what it claims: only the upstream version is compared, not the RPM release. That distinction matters, and the tool states it up front rather than quietly blurring it.
 
