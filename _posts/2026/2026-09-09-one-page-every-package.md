@@ -51,6 +51,7 @@ The scale is worth pausing on. A recent run covers 17,532 source packages: 17,14
 | Only-in-TW | Exists in Tumbleweed, not in Leap |
 | Only-in-Leap | Exists in Leap, not in Tumbleweed |
 
+{: .table .table-bordered}
 
 The page carries maintainer information and it is careful about what it claims: only the upstream version is compared, not the RPM release. That distinction matters, and the tool states it up front rather than quietly blurring it.
 
