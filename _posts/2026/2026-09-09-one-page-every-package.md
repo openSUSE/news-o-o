@@ -42,6 +42,7 @@ The tool pulls the archive indexes straight from [download.opensuse.org](https:/
 
 The scale is worth pausing on. A recent run covers 17,532 source packages: 17,143 in Tumbleweed, 10,574 in Leap 16.1, 10,551 in Leap 16.0, with 10,264 present in both Tumbleweed and Leap 16.1. Every package lands in one of five status buckets:
 
+
 | Status | Meaning |
 |---|---|
 | Older-in-Leap | Leap ships an earlier upstream version than Tumbleweed |
@@ -49,6 +50,7 @@ The scale is worth pausing on. A recent run covers 17,532 source packages: 17,14
 | Same | Identical upstream version in both |
 | Only-in-TW | Exists in Tumbleweed, not in Leap |
 | Only-in-Leap | Exists in Leap, not in Tumbleweed |
+
 
 The page carries maintainer information and it is careful about what it claims: only the upstream version is compared, not the RPM release. That distinction matters, and the tool states it up front rather than quietly blurring it.
 
