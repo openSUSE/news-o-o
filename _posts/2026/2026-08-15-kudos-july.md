@@ -3,7 +3,7 @@ author: 'openSUSE Kudos Team'
 date: 2026-08-15 12:00:00+00:00
 layout: post
 license: CC-BY-SA-3.0
-title: 'openSUSE Kudos Recognitions for July 2026'
+title: 'Kudos July 2026'
 image: /wp-content/uploads/2026/08/kudos.png
 categories:
 - Kudos
