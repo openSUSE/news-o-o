@@ -1,5 +1,4 @@
 
-
 ---
 
 author: Douglas DeMaio 
@@ -48,9 +47,7 @@ tags:
 - shotwell
 - kbd
 
-
 ---
-
 
 There were a few software package updates for [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) [ARM](https://www.arm.com/) this month with snapshots reaching the [ARM](https://www.arm.com/) port.
 
