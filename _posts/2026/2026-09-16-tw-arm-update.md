@@ -1,4 +1,3 @@
-
 ---
 
 author: Douglas DeMaio 
@@ -46,6 +45,7 @@ tags:
 - GIMP
 - shotwell
 - kbd
+
 
 ---
 
