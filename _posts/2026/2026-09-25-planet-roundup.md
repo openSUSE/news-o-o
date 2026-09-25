@@ -37,6 +37,12 @@ This week highlights Xiaomi's MiMo V2.6 AI family, a brightness-flickering fix f
 
 **Here is a summary and links for each post:**
 
+## [Leap Heads Into Release Candidate Phase](https://news.opensuse.org/2026/09/24/leap-rc/)
+The [openSUSE News](https://news.opensuse.org) blog covers [openSUSE Leap 16.1](https://get.opensuse.org/testing/) nearing its Release Candidate stage. The release brings major package updates, including KDE Plasma 6.6.4, QEMU 11, MariaDB 12, and PHP 8.5, and the team is asking testers to help find any remaining issues.
+
+## [Plasma 6.8 Beta 2 released](https://www.kdeblog.com/lanzada-la-segunda-beta-de-plasma-6-8.html)
+The [KDE Blog](https://www.kdeblog.com/) covers the releases of the second beta of Plasma 6.8. It points out the improved GTK4 window decorations, a redesigned Flatpak permissions page, and Discover enhancements. This release also continues the public technical preview of the Union theming system.
+
 ## [Xiaomi MiMo V2.6: Xiaomi Fully Enters the Race for Open AI Models](https://assuntonerd.com.br/2026/09/23/xiaomi-mimo-v2-6-a-xiaomi-entra-de-vez-na-disputa-pelos-modelos-abertos-de-ia/)
 [Alessandro's](https://assuntonerd.com.br/) blog introduces Xiaomi's MiMo V2.6 family, headlined by the trillion-parameter MoE-based MiMo-V2.6-Pro with a 1-million-token window and native text, image, video and audio support. The post details the 42-billion-active-parameter architecture, large-scale reinforcement learning and aggressive API pricing, and notes MIT-licensed weights and RL infrastructure released for the community.
 
