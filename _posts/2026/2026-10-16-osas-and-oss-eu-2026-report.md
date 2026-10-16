@@ -65,6 +65,8 @@ If you could not make it to Yogyakarta, the organizers put together highlight vi
 
 [![openSUSE.Asia Summit 2026 day two highlights](https://img.youtube.com/vi/OfyN6ijbtDg/0.jpg)](https://www.youtube.com/watch?v=OfyN6ijbtDg)
 
+Recordings of the talks should follow in the upcoming days on the [openSUSE Indonesia YouTube channel](https://www.youtube.com/@openSUSE_ID), so keep an eye on it.
+
 ### Conversations that matter
 
 I really appreciated the discussion with [NevaCloud](https://www.nevacloud.com/) about communication and getting openSUSE Leap images published on their platform as early as possible. Having fresh Leap images available on day one at regional cloud providers makes a real difference for users in the region.
@@ -164,6 +166,8 @@ Visitors at the SUSE booth could also take part in our digital sovereignty quiz,
 I came back from Prague with a big backlog of new LinkedIn contacts and plenty of new opportunities for collaboration. These include cloud providers, and also banks and other companies that are considering moving away from AWS and similar platforms. There is a lot of follow up work ahead, and I am looking forward to it.
 
 If there is one thing we could really use next time, it is more space. Between the university collaboration, the RISC-V demo and the steady stream of visitors, the booth was busy most of the time.
+
+If you missed the talks in Prague, the recordings should appear in the upcoming days on [The Linux Foundation YouTube channel](https://www.youtube.com/user/TheLinuxFoundation).
 
 ## Thank you
 
