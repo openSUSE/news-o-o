@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio 
-date: 2026-10-16 10:00:00+02:00
+date: 2026-10-17 10:00:00+02:00
 layout: post
 image: /wp-content/uploads/2025/07/planet.png
 license: CC-BY-SA-3.0
@@ -34,6 +34,9 @@ This is a roundup of articles from the openSUSE community listed on [planet.open
 This week highlights KDE's 30th anniversary and the premiere of the KDE documentary, the launch of Plasma 6.8 as the 30th Anniversary Edition, five Tumbleweed snapshots headlined by Linux Kernel 7.2.9, Samba 4.25.0 and LibreOffice 26.8.1.1, a mid-October Tumbleweed ARM update, the 31st KDE Frameworks 6 update, Open Build Service's new Content Moderation feature, the Advanced Weather Widget plasmoid, episode 7 of the "La era de las distros" podcast on Madrid's MAX distribution, Linux Saloon 223 on Omarchy, an openQA slow-test deep dive, GNOME's refreshed Pixels wallpaper and more. 
 
 **Here is a summary and links for each post:**
+
+## [30 Years and 1 Day: KDE Keeps Giving Me Freedom and Functionality with the Best Design](https://victorhckinthefreeworld.com/2026/10/15/30-anos-y-1-dia-kde-sigue-dandome-libertad-y-funcionalidad-con-el-mejor-diseno/)
+[Victorhck](https://victorhckinthefreeworld.com/) shares a personal user's tribute to KDE the day after the project's 30th anniversary, reflecting on 15 years of using KDE with openSUSE since 2011. He expresses gratitude for the freedom, flexibility and polish of Plasma and KDE applications, praises the global community behind the project, and encourages readers to support KDE with donations, including a nod to celebrating 30 years with 30€.
 
 ## [KDE Documentary](https://vizZzion.org/blog/2026/10/kde-documentary/)
 [Sebastian Kügler](https://vizzzion.org/blog/) reflects on KDE's 30th anniversary and the premiere of the KDE documentary, in which he was interviewed as a former release manager, Plasma core developer and KDE e.V. board member. He also hints at a return to Free Software development with two new apps tied to his hobbies.
