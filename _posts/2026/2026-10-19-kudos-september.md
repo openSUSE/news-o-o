@@ -1,9 +1,9 @@
 ---
 author: 'openSUSE Kudos Team'
-date: 2026-10-19 12:00:00+00:00
+date: 2026-10-19 13:00:00+02:00
 layout: post
 license: CC-BY-SA-3.0
-title: 'Kudos September 2026'
+title: September Kudos, Recognition
 image: /wp-content/uploads/2026/08/kudos.png
 categories:
 - Kudos
@@ -12,6 +12,7 @@ tags:
 - openSUSE
 - Kudos
 - Community
+
 ---
 
 Welcome to our monthly report from the [openSUSE Kudos recognition platform](https://kudos.opensuse.org), where we take a moment to put a spotlight on the people who stepped up, helped others, and made this community a little brighter.
