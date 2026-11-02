@@ -31,7 +31,7 @@ tags:
 
 [EN](http://en.opensuse.org/Release_announcement_16.1) / [CA](http://en.opensuse.org/Anunci_de_la_versi%C3%B3_16.1) / [CZ](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_16.1) / [ES](http://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_16.1) / [JA](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_16.1) / [EL](http://el.opensuse.org/openSUSE:%CE%91%CE%BD%CE%B1%CE%BA%CE%BF%CE%AF%CE%BD%CF%89%CF%83%CE%B7_%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82_16.1) / [NL](http://nl.opensuse.org/openSUSE:Aankondiging_van_uitgave_van_16.1) / [SV](http://sv.opensuse.org/Lanserings_meddelande_16.1) / [ZH-TW](http://zh-tw.opensuse.org/Release_announcement_16.1)
 
-Members of the openSUSE Project are excited to announce the release of openSUSE [Leap 16.1](https://get.opensuse.org/leap/). This is the first minor release in the Leap 16 series and with this release, openSUSE's immutable server distribution, Leap Micro, becomes part of Leap itself through a new **Immutable Mode**.
+Members of the openSUSE Project are excited to announce the release of openSUSE [Leap 16.1](https://get.opensuse.org/leap/). This is the first minor release in the Leap 16 series and with this release, openSUSE's immutable server distribution, Leap Micro, becomes part of Leap itself through a new Immutable Mode.
 
 Last year, Leap 16.0 opened a new chapter for the project with a fresh software stack, the [Agama](https://en.opensuse.org/Agama) installer and a life cycle that runs into the next decade. Leap 16.1 continues that story. It folds openSUSE's immutable server distribution into Leap itself, so one distribution now covers desktops, traditional servers, container and virtual machine hosts, and edge devices.
 
@@ -55,7 +55,7 @@ Leap 16.1 keeps the hardware and security baseline set last year. It requires [x
 
 Annual minor releases are expected to continue until Leap 16.6 in 2031, with immutable users now following the same path as everyone else on Leap. Those who wish to develop for Leap 16 are encouraged to join the weekly [feature review meeting](https://calendar.opensuse.org/) on Mondays.
 
-###Celebrate with the community
+### Celebrate with the community
 
 Community members plan to celebrate with a release party in the [openSUSE bar](https://meet.opensuse.org/bar) and readers are encouraged to attend. A new release is a great reason to get together. Whether your community local favors a traditional gathering or something a little different, you can plan to host a release party. If you do, please list it on the [openSUSE Launch Parties wiki page](https://en.opensuse.org/openSUSE:Launch_parties) so others can find and join you. 
 
