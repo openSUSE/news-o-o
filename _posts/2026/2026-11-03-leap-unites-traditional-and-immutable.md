@@ -29,6 +29,8 @@ tags:
 
 ---
 
+**Leap 16.1 did not ship on the same day as SUSE Linux Enterprise Server 16.1, as stated in this article. SUSE is expect to ship [SUSE Linux Enterprise Server 16.1](https://www.suse.com/products/server/) this month.**
+
 [EN](http://en.opensuse.org/Release_announcement_16.1) / [CA](http://en.opensuse.org/Anunci_de_la_versi%C3%B3_16.1) / [CZ](http://cs.opensuse.org/Ozn%C3%A1men%C3%AD_nov%C3%A9ho_vyd%C3%A1n%C3%AD_16.1) / [ES](http://es.opensuse.org/openSUSE:Anuncio_de_la_publicaci%C3%B3n_de_la_versi%C3%B3n_Leap_16.1) / [JA](http://ja.opensuse.org/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9_16.1) / [EL](http://el.opensuse.org/openSUSE:%CE%91%CE%BD%CE%B1%CE%BA%CE%BF%CE%AF%CE%BD%CF%89%CF%83%CE%B7_%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82_16.1) / [NL](http://nl.opensuse.org/openSUSE:Aankondiging_van_uitgave_van_16.1) / [SV](http://sv.opensuse.org/Lanserings_meddelande_16.1) / [ZH-TW](http://zh-tw.opensuse.org/Release_announcement_16.1)
 
 Members of the openSUSE Project are excited to announce the release of openSUSE [Leap 16.1](https://get.opensuse.org/leap/). This is the first minor release in the Leap 16 series and with this release, openSUSE's immutable server distribution, Leap Micro, becomes part of Leap itself through a new Immutable Mode.
