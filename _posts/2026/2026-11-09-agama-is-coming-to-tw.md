@@ -34,7 +34,7 @@ tags:
 
 ---
 
-The consensus is in and [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) will switch to the [Agama installer](https://agama-project.github.io/) before the end of the year. 
+The openSUSE Project's rolling release [Tumbleweed](https://get.opensuse.org/tumbleweed/) will switch to the [Agama installer](https://agama-project.github.io/) before the end of the year, according to an announcement on the [Factory mailing list](https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/thread/NCSCDQRIY2GU4KG5OSZWPKTBRRJTYGMV/). 
 
 Agama-based images are expected to replace the legacy YaST installer as the main download on get.opensuse.org within the coming weeks. 
 
