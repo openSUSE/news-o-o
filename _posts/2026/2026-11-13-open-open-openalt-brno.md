@@ -43,7 +43,7 @@ Having access to additional legal expertise would be very welcome, so we would n
 
 I also really enjoyed meeting [G. Gabby Demirkiran](https://www.linkedin.com/in/gulcindemirkiran/), who seemed quite excited about the upcoming [SUSE Hack Week 26](https://hackweek.opensuse.org/). Hopefully she will join me and the rest of the SUSE folks in our Brno office from Nov. 30 to Dec. 5.
 
-Another nice encounter was with [Gina Plat](https://www.linkedin.com/in/ginaplat/) from [OpenProject](https://www.openproject.org/). We talked about European alternatives to Jira and potential future collaboration with SUSE. It was a really interesting conversation, especially given the growing interest in European open source solutions.
+Another nice encounter was with [Gina Plat](https://www.linkedin.com/in/ginaplat/) from [OpenProject](https://www.openproject.org/). We talked about European alternatives to Jira and the ongoing conversations between OpenProject and SUSE. It was a really interesting conversation, especially given the growing interest in European open source solutions.
 
 I was also happy to see [Jaroslav Řezník](https://www.linkedin.com/in/jaroslav-reznik-5413b58/) from Red Hat and [Roman Blanco](https://www.linkedin.com/in/roman-blanco/) advertising the upcoming openALT 2026, which was starting the very next day in Brno.
 
