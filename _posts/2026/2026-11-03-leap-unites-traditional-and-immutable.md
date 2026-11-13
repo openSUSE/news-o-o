@@ -2,7 +2,7 @@
 author: Release Team 
 date: 2026-11-03 13:00:00+01:00
 layout: post
-image: /wp-content/uploads/2026/11/wall.png
+image: /wp-content/uploads/2026/11/leap161-modes.png
 license: CC-BY-SA-3.0
 title: Leap 16.1 Unites Traditional and Immutable Linux in One Release
 categories:
