@@ -178,7 +178,6 @@ We came home with new contacts, potential partnerships, ideas for the junior tra
 Here is my little list of partnership leads I want to follow up on:
 
 - **Legal expertise** with Lucie Smolka, should openSUSE get its own legal entity.
-- **OpenProject** as a European alternative to Jira, and future collaboration with SUSE.
 - **Robotárna** for a junior track at openSUSE Conference 2027 in Prague.
 - **Pavel Šimerda and Pavel Tišnovský** for programming classes for kids and teenagers.
 - **openALT** and a bigger SUSE sponsorship next year, including openALT events outside of Brno.
