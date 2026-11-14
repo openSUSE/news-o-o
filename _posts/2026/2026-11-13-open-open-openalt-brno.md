@@ -4,7 +4,7 @@ date: 2026-11-13 15:00:00+01:00
 layout: post
 image: /wp-content/uploads/2026/11/openalt-2026-booth.jpg
 license: CC-BY-SA-3.0
-title: 'Open Open and openALT 2026 in Brno'
+title: 'Open Open and OpenAlt 2026 in Brno'
 categories:
 - Conference
 - Events
@@ -12,7 +12,7 @@ categories:
 tags:
 - openSUSE
 - SUSE
-- openALT
+- OpenAlt
 - Open Open
 - Brno
 - Community
@@ -21,7 +21,7 @@ tags:
 - Education
 ---
 
-This was a busy weekend in Brno! It started on Friday with Open Open and continued on Saturday with openALT 2026. Two events, new partnership opportunities for openSUSE and SUSE, and this time my kids came along too.
+This was a busy weekend in Brno! It started on Friday with Open Open and continued on Saturday with OpenAlt 2026. Two events, new partnership opportunities for openSUSE and SUSE, and this time my kids came along too.
 
 ## Open Open 2026, Brno
 
@@ -45,7 +45,7 @@ I also really enjoyed meeting [G. Gabby Demirkiran](https://www.linkedin.com/in/
 
 Another nice encounter was with [Gina Plat](https://www.linkedin.com/in/ginaplat/) from [OpenProject](https://www.openproject.org/). We talked about European alternatives to Jira and the ongoing conversations between OpenProject and SUSE. It was a really interesting conversation, especially given the growing interest in European open source solutions.
 
-I was also happy to see [Jaroslav Řezník](https://www.linkedin.com/in/jaroslav-reznik-5413b58/) from Red Hat and [Roman Blanco](https://www.linkedin.com/in/roman-blanco/) advertising the upcoming openALT 2026, which was starting the very next day in Brno.
+I was also happy to see [Jaroslav Řezník](https://www.linkedin.com/in/jaroslav-reznik-5413b58/) from Red Hat and [Roman Blanco](https://www.linkedin.com/in/roman-blanco/) advertising the upcoming OpenAlt 2026, which was starting the very next day in Brno.
 
 At the end of their talk, I simply had to stand up and endorse their focus on kids, especially the decision to bring [Robotárna](https://helceletka.cz/robotarna/) as a side track for the entire weekend. More on that later!
 
@@ -53,23 +53,23 @@ I also quite enjoyed the panel discussion at the end with Gina from OpenProject,
 
 There was also a quite nice afterparty. I was not among the first to leave, but still left early enough to catch a bus home and see my kids. I think I was home around 8pm.
 
-## [openALT 2026](https://www.openalt.cz/), Brno
+## [OpenAlt 2026](https://www.openalt.cz/), Brno
 
 Saturday morning started with packing the car, including a rather large Geeko plushie and my kids.
 
-![My son traveling to openALT 2026 with a large Geeko plushie](/wp-content/uploads/2026/11/jan-geeko.jpg)
+![My son traveling to OpenAlt 2026 with a large Geeko plushie](/wp-content/uploads/2026/11/jan-geeko.jpg)
 
 I really enjoy taking my kids with me to conferences, much like I enjoyed business trips with my father when I was little. So naturally I wanted to bring them along, especially when I knew there would be a dedicated program where they could learn something new.
 
-Marcela, who was helping with the openSUSE booth, had the same idea and brought her kids and husband too. So we ended up with quite a family crew at openALT this year.
+Marcela, who was helping with the openSUSE booth, had the same idea and brought her kids and husband too. So we ended up with quite a family crew at OpenAlt this year.
 
 ### Getting the next generation involved
 
-As mentioned earlier, this year's openALT teamed up with Robotárna to provide activities for kids. In previous years, the kids' activities were handled by Miroslav Suchý, so it was nice to see the effort continuing and growing.
+As mentioned earlier, this year's OpenAlt teamed up with Robotárna to provide activities for kids. In previous years, the kids' activities were handled by Miroslav Suchý, so it was nice to see the effort continuing and growing.
 
 Many conferences offer retro gaming or Linux gaming, and while there is nothing wrong with that, I have to say it was really nice to see kids doing something productive and interesting.
 
-![Building and programming a LEGO robot at the Robotárna corner at openALT 2026](/wp-content/uploads/2026/11/robotarna.jpg)
+![Building and programming a LEGO robot at the Robotárna corner at OpenAlt 2026](/wp-content/uploads/2026/11/robotarna.jpg)
 
 We had a similar experience at LinuxDays a year ago, where the kids could try soldering. It is amazing how much they can learn when somebody gives them the right tools and a bit of guidance.
 
@@ -91,7 +91,7 @@ We need to make open source attractive to the younger generation. And I think gi
 
 I am really looking forward to seeing what we can prepare for the junior track at openSUSE Conference 2027.
 
-### The openSUSE booth at openALT 2026
+### The openSUSE booth at OpenAlt 2026
 
 The event itself was really nice. I did not attend many talks, as we were mostly busy at the booth.
 
@@ -117,27 +117,27 @@ I think this makes the quiz more balanced and entertaining, especially for visit
 
 It was great to see people having fun with the quiz, and even better to see some of them learning something new along the way.
 
-### Supporting openALT and the Czech open source community
+### Supporting OpenAlt and the Czech open source community
 
-I also had a brief conversation with Roman Blanco from the openALT organizing team.
+I also had a brief conversation with Roman Blanco from the OpenAlt organizing team.
 
-It was really heartwarming to hear him asking what openALT could do better for SUSE next year.
+It was really heartwarming to hear him asking what OpenAlt could do better for SUSE next year.
 
 I really like the idea of being seen as a trusted partner who helps keep the local Czech open source engine running, while also putting some spotlight on both openSUSE and SUSE, which actually pays the bills.
 
 Hopefully, we can do something similar at local conferences in other countries too.
 
-I think we will certainly be looking into increasing our sponsorship of openALT next year, especially since Red Hat was no longer among the sponsors this year, and there was no Red Hat or Fedora booth either. That is a serious budget cut for an event like openALT.
+I think we will certainly be looking into increasing our sponsorship of OpenAlt next year. We care about the event, especially when I have not seen Red Hat or Fedora booth, although RedHat remained sponsor.
 
 Sometimes all it takes is to stand up and be willing to help. I do this because I enjoy it and because I believe local communities like this one matter. If you would like to see openSUSE at an event near you, consider this your invitation to do the same!
 
-The organizers are also trying to expand the openALT brand beyond Brno, including other Czech cities such as České Budějovice.
+The organizers are also trying to expand the OpenAlt brand beyond Brno, including other Czech cities such as České Budějovice.
 
 It would be great to see these community events grow, and I would love for SUSE and openSUSE to remain part of that story.
 
 ### Turning openSUSE users into contributors
 
-One of the nicest highlights of our openALT presence was meeting our existing users and hopefully turning some of them into future contributors.
+One of the nicest highlights of our OpenAlt presence was meeting our existing users and hopefully turning some of them into future contributors.
 
 Let me explain. :-)
 
@@ -145,25 +145,25 @@ Even if visitors did not make it into the top scores of our quiz, we wanted to r
 
 If somebody could show us they were an openSUSE user, they left with one of our beautiful holographic stickers and a small Geeko plushie.
 
-![openSUSE holographic stickers and Geeko plushies at openALT 2026](/wp-content/uploads/2026/11/opensuse-holo-stickers.jpg)
+![openSUSE holographic stickers and Geeko plushies at OpenAlt 2026](/wp-content/uploads/2026/11/opensuse-holo-stickers.jpg)
 
 It was a small gesture, but a really nice way to thank people for using openSUSE and to start conversations about how they could get more involved.
 
 Which reminds me that we will have to restock both our large and small Geeko plushies soon. We will probably be ordering more swag for openSUSE Conference 2027 in the upcoming months anyway.
 
-Another highlight was meeting a talented artist named Michaela, who won the best contribution award during openALT and went home with one of our large Geeko plushies!
+Another highlight was meeting a talented artist named Michaela, who won the best contribution award during OpenAlt and went home with one of our large Geeko plushies!
 
-![Michaela's Geeko drawing, winner of the best contribution award at openALT 2026](/wp-content/uploads/2026/11/geeko-drawing.jpg)
+![Michaela's Geeko drawing, winner of the best contribution award at OpenAlt 2026](/wp-content/uploads/2026/11/geeko-drawing.jpg)
 
 
 We figured out that she lives near our Prague office, which naturally turned into an invitation to the Leap 16.1 Release Party.
 
 And she actually came, together with her friends! How cool is that? :-)
 
-![The openSUSE Quiz winners at openALT 2026](/wp-content/uploads/2026/11/openalt-2026-winners.jpg)
+![The openSUSE Quiz winners at OpenAlt 2026](/wp-content/uploads/2026/11/openalt-2026-winners.jpg)
 
 
-I think this was the first openALT where we did not have a talk, but we certainly made up for it with plenty of interactions with the public.
+I think this was the first OpenAlt where we did not have a talk, but we certainly made up for it with plenty of interactions with the public.
 
 And that is exactly what makes these events worthwhile for me.
 
@@ -180,7 +180,7 @@ Here is my little list of partnership leads I want to follow up on:
 - **Legal expertise** with Lucie Smolka, should openSUSE get its own legal entity.
 - **Robotárna** for a junior track at openSUSE Conference 2027 in Prague.
 - **Pavel Šimerda and Pavel Tišnovský** for programming classes for kids and teenagers.
-- **openALT** and a bigger SUSE sponsorship next year, including openALT events outside of Brno.
+- **OpenAlt** and a bigger SUSE sponsorship next year, including OpenAlt events outside of Brno.
 
 Marcela's kids also agreed to help with the junior track at next year's conference. What a nice way to make new partnerships! :-D
 
@@ -192,9 +192,9 @@ If you have ideas for workshops, programming sessions, electronics, robotics or 
 
 ## Thank you
 
-Many thanks to the organizers of Open Open and openALT 2026 for putting together two great events in Brno.
+Many thanks to the organizers of Open Open and OpenAlt 2026 for putting together two great events in Brno.
 
-Special thanks to Roman Blanco and the whole openALT team for their continued work on the Czech open source community, and to Robotárna for making the weekend interesting for our youngest visitors.
+Special thanks to Roman Blanco and the whole OpenAlt team for their continued work on the Czech open source community, and to Robotárna for making the weekend interesting for our youngest visitors.
 
 Many thanks also to Marcela and her family for helping with the booth, to everybody who stopped by for a chat, and to all our quiz participants.
 
