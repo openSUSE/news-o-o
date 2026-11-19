@@ -1,6 +1,6 @@
 ---
 author: 'openSUSE Election Committee'
-date: 2026-11-19 12:00:00+01:00
+date: 2026-11-19 09:00:00+01:00
 layout: post
 license: CC-BY-SA-3.0
 title: Meet the Candidates for the openSUSE Board Election 2026
