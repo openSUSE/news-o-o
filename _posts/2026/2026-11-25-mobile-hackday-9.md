@@ -32,8 +32,6 @@ This was also the first time we used a proper [registration form on tuxies.cz](h
 
 That is perfectly fine, though. The door is always open, and we still had enough chairs this time!
 
-![Attendees of Mobile Linux Hackday #9 hacking on laptops and Linux phones in the SUSE Prague office](/wp-content/uploads/2026/11/mobile-hackday-9.jpg)
-
 I was organizing the event from the SUSE side, but a hackday like this is never a one-person show.
 
 Many thanks go to David Heidelberg, Petr Hodina and Peter Hošek from [tuxies.cz](https://tuxies.cz) and the University of South Bohemia in České Budějovice. They helped with the program, brought hardware and knowledge, and kept the momentum going for the whole day.
