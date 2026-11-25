@@ -66,7 +66,7 @@ So I could not resist and spent a few minutes racing in SuperTuxKart on a mobile
 
 ## Getting the next generation involved
 
-One of the conversations I was looking forward to the most was with Pavel Šimerda, whom I invited to the hackday.
+One of the conversations I was looking forward to the most was with [Pavel Šimerda](https://cz.linkedin.com/in/grumpyprogrammer), whom I invited to the hackday.
 
 If you read my [Open Open and OpenAlt report](/2026/11/13/open-open-openalt-brno/), you already know that Pavel and I have been discussing programming classes for youngsters. This time we talked about collaborating on the **junior track for the upcoming openSUSE Conference 2027**.
 
@@ -92,7 +92,7 @@ We do not have a concrete plan yet, but I would love to see SUSE and openSUSE he
 
 ## From a high school internship to a SUSE One partnership
 
-I also had a really nice meetup with Sergey Kuroedov, who used the Mobile Linux Hackday as an opportunity to come and meet me in the SUSE office in Prague.
+I also had a really nice meetup with [Sergey Kuroedov](https://www.linkedin.com/in/sergey-kuroedov/), who used the Mobile Linux Hackday as an opportunity to come and meet me in the SUSE office in Prague.
 
 To explain how we know each other, I have to go back a bit.
 
