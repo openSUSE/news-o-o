@@ -132,6 +132,6 @@ Many thanks to David, Petr and Peter for co-organizing Mobile Linux Hackday #9, 
 
 More photos are available in our [Google Photos album](https://photos.app.goo.gl/sZmhgVUToFJ8HwYG7).
 
-To stay updated on upcoming hackdays, join the **Mobilní Linux Československo** channel on Matrix, follow [Mobile Linux CZ/SK](https://mastodonczech.cz/@mobilni_linux_cs_sk) on Mastodon, or keep an eye on Root.cz and AbcLinuxu.cz.
+To stay updated on upcoming hackdays, join the **Mobilní Linux Československo** channel on Matrix, follow [Mobile Linux CZ/SK](https://mastodonczech.cz/@mobilni_linux_cs_sk) on Mastodon, or keep an eye on [Root.cz](root.cz) and [AbcLinuxu.cz](abclinuxu.cz).
 
 See you at Mobile Linux Hackday #10!
