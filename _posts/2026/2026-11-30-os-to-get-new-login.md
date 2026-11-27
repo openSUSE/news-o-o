@@ -1,7 +1,7 @@
 ---
 
 author: Douglas DeMaio 
-date: 2026-11-28 10:00:00+01:00
+date: 2026-11-30 10:00:00+01:00
 layout: post
 image: /wp-content/uploads/2026/11/login.png
 license: CC-BY-SA-3.0
