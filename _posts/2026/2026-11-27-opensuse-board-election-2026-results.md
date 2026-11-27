@@ -63,7 +63,7 @@ If you are an openSUSE member and that sounds like you, email [election-official
 
 ## Thank you
 
-A big thank you to everyone who voted, spread the word and joined the discussions on the [project mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/). And thanks again to the candidates, all of them. If you haven't done so yet, drop by the [announcement thread](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/) and congratulate them there, a few kind words go a long way :-)
+A big thank you to everyone who voted, spread the word and joined the discussions on the [project mailing list](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/). And thanks again to the candidates, all of them. If you haven't done so yet, drop by the [announcement thread](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/QWCFITVTDAHPWGVUORHE5QXE6YAOPMCX/) and congratulate them there, a few kind words go a long way :-)
 
 Martin, Jeff and Ihno, I wish you all the best in your upcoming term!
 
