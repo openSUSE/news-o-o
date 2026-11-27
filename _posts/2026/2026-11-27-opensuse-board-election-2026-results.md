@@ -1,6 +1,6 @@
 ---
 author: Lubos Kocman
-date: 2026-11-27 10:30:00+00:00
+date: 2026-11-27 12:00:00+01:00
 layout: post
 image: /wp-content/uploads/2026/11/opensuse-board-election-2026-results.jpg
 license: CC-BY-SA-3.0
